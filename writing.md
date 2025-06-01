@@ -1,11 +1,50 @@
 ---
 title: writing
-updated: 2025-05-31 14:08:06
+updated: 2025-06-01 06:08:35
 ---
 
 # writing
 
-(date: 2025-05-31 14:08:06)
+(date: 2025-06-01 06:08:35)
+
+---
+
+## Issue 773 Table of Contents, June 2025
+
+date: 2025-06-01, from: Locus Magazine
+
+<p>The June 2025 issue of Locus has interviews with Akwaeke Emezi and Joan Slonczewski and a spotlight on publisher Beehive Books. The issue lists US and UK forthcoming books titles through March 2026. News includes Percival Everett&#8217;s Pulitzer Prize win, Brenda Peynado&#8217;s Philip K. Dick Award win, Seattle Worldcon&#8217;s AI controversy, the LA Times Book Prize and Otherwise winners, and much more. Norwescon 47 and Hal-Con are covered with reports  <a href="https://locusmag.com/2025/06/issue-773-table-of-contents-june-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/issue-773-table-of-contents-june-2025/>
+
+---
+
+## Scriptnotes on YouTube
+
+date: 2025-06-01, from: John August blog
+
+After 14 years, we&#8217;ve finally added a proper YouTube channel for Scriptnotes. In addition to several of our most-loved episodes, we have shorter weekly videos drawn from past conversations. Here are the first two, focusing on Die Hard and Greta Gerwig&#8217;s approach to screenwriting. In the obligatory parlance of YouTube, make sure to hit that [&#8230;]
+The post <a href="https://johnaugust.com/2025/scriptnotes-on-youtube-2">Scriptnotes on YouTube</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-on-youtube-2>
+
+---
+
+## 2025 CrimeFest Awards Winners
+
+date: 2025-05-31, from: Locus Magazine
+
+<p>Winners for the 2025 CrimeFest Awards have been announced. Authors and titles of genre interest include <strong>The Sequel</strong> by Jean Hanff Korelitz (Faber &#38; Faber) in the eDUNNIT category and <strong>Heist Royale</strong> by Kayvion Lewis (Simon &#38; Schuster Children&#8217;s) in the Best Crime Novel for Young Adults category.</p>
+<div class="mynomorebulletlist">
+<p>Winners receive a Bristol Blue Glass commemorative award and were announced May 17, 2025 at a gala awards dinner in Bristol, UK.</p></div> <a href="https://locusmag.com/2025/05/2025-crimefest-awards-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2025-crimefest-awards-winners/>
 
 ---
 
@@ -448,35 +487,4 @@ date: 2025-05-25, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/05/a-granite-silence-by-nina-allan-review-by-niall-harrison/>
-
----
-
-## Magazines Received – May
-
-date: 2025-05-24, from: Locus Magazine
-
-<div class="blockquote">This list covers new SF/F/H print, online, and electronic periodicals (including regularly updated websites) seen by Locus magazine, focusing on those that publish fiction or reviews and criticism. To submit titles for listing on these pages, please send to Locus Publications, 655 13th St. #100, Oakland CA 94612 or email locus@locusmag.com.</div>
-<div>
-<div class="mynomorebulletlist">
-
-<p>Asimov’s Science Fiction</p>
-<ul>
-<li>Sheila Williams, ed. Vol. 49 Nos. 5 &#38; 6, May/June 2025, $9.99, bimonthly, 208pp, 15 x </li></ul></div></div> <a href="https://locusmag.com/2025/05/magazines-received-may-4/" class="read-more">...Read More </a> 
-
-<br> 
-
-<https://locusmag.com/2025/05/magazines-received-may-4/>
-
----
-
-## The Witch Roads by Kate Elliott: Review by Liz Bourke
-
-date: 2025-05-24, from: Locus Magazine
-
-<p><strong>The Witch Roads</strong>, Kate Elliott (Tor 978-1-250-33861-7, $29.99, 448pp, hc) June 2025. Cover by Raja Nandepu.</p>
-<p>For the last several years, one thing has become apparent: Kate Elliott has levelled up her writing game from its pre-existing heights, and dedicated herself to writing absolute bangers. <strong>Unconquerable Sun </strong>is ambitious and appealing epic space opera; <strong>Furious Heaven</strong>, its sequel, ups the level of ambition and political so­phistication with astonishing  <a href="https://locusmag.com/2025/05/the-witch-roads-by-kate-elliott-review-by-liz-bourke/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/05/the-witch-roads-by-kate-elliott-review-by-liz-bourke/>
 

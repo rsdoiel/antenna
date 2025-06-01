@@ -1,27 +1,17 @@
 ---
 title: columns
-updated: 2025-05-31 14:08:05
+updated: 2025-06-01 06:08:34
 ---
 
 # columns
 
-(date: 2025-05-31 14:08:05)
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-05-30, from: Miguel de Icaza Mastondon feed)
-
-<p>My integrated chat window in Xogot is looking nicer, copied a few Claude UI elements:</p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114599145334005811>
+(date: 2025-06-01 06:08:34)
 
 ---
 
 ## 2025-05-27 Alt text on this blog
 
-date: 2025-05-30, from: Alex Schroeder's Blog
+date: 2025-06-01, from: Alex Schroeder's Blog
 
 <h1 id="2025-05-27-alt-text-on-this-blog">2025-05-27 Alt text on this blog</h1>
 
@@ -91,11 +81,276 @@ date: 2025-05-30, from: Alex Schroeder's Blog
 
 <p><strong>2025-05-29</strong>. I fixed that minor issue in <a href="https://src.alexschroeder.ch/markdown-gopher.git/">markdown-gopher</a> so that it skips paragraphs containing just images with no alt text. 😄</p>
 
-<p><strong>2025-05-31</strong>. I added a piece of Javascript to copy the alt text to the title attribute if the alt text is set and the title is not. Perhaps that&rsquo;ll motivate me to add more alt text.</p> 
+<p><strong>2025-05-31</strong>. I added a piece of Javascript to copy the alt text to the title attribute if the alt text is set and the title is not. Perhaps that&rsquo;ll motivate me to add more alt text.</p>
+
+<p>This is what I added to my <code>view.html</code> template for <a href="Odd%CE%BC">Oddμ</a>:</p>
+
+<pre><code>&lt;script type=&quot;text/javascript&quot;&gt;
+function addTitle() {
+  const images = document.getElementsByTagName(&quot;img&quot;);
+  for (let img of images) {
+    const alt = img.getAttribute(&quot;alt&quot;);
+    const title = img.getAttribute(&quot;title&quot;);
+    if (alt != null &amp;&amp; title == null) {
+      img.setAttribute(&quot;title&quot;, alt);
+    }
+  }
+}
+window.addEventListener('load', addTitle);
+&lt;/script&gt;
+</code></pre> 
 
 <br> 
 
 <https://alexschroeder.ch/view/2025-05-27-alt-text>
+
+---
+
+## Take It Easy
+
+date: 2025-06-01, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/take-it-easy>
+
+---
+
+## Sunday thought
+
+date: 2025-06-01, from: Robert Reich's blog
+
+The tide may be turning 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-thought-4a6>
+
+---
+
+## May 31, 2025
+
+date: 2025-06-01, from: Heather Cox Richardson blog
+
+&#8220;I would like to speak briefly and simply about a serious national condition,&#8221; Senator Margaret Chase Smith of Maine told her colleagues on June 1, 1950. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-31-2025>
+
+---
+
+##  Teaser trailer for Wake Up Dead Man, the third in the Knives... 
+
+date: 2025-06-01, updated: 2025-06-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046963-teaser-trailer-for-wake-u>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-31, from: Dave Winer's Scripting News)
+
+<div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/05/31/aManWasLynchedYesterday.png"></center>"Well, we're all going to die."</div> 
+
+<br> 
+
+<http://scripting.com/2025/05/31.html#a204832>
+
+---
+
+## Life in Links 63
+
+date: 2025-05-31, from: John's World Wide Wall Display
+
+<div><img width="620" height="233" src="https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-620x233.jpg" class="attachment-medium size-medium u-featured wp-post-image" alt="montage of six webpages listed in article" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-620x233.jpg 620w, https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-1024x384.jpg 1024w, https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-768x288.jpg 768w, https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-668x251.jpg 668w, https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200.jpg 1200w" sizes="(max-width: 620px) 100vw, 620px" data-attachment-id="20674" data-permalink="https://johnjohnston.info/blog/life-in-links-63/2025-05-31-links-montage-1200/" data-orig-file="https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200.jpg" data-orig-size="1200,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="2025-05-31-links-montage-1200" data-image-description="" data-image-caption="" data-medium-file="https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-620x233.jpg" data-large-file="https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-1024x384.jpg" /></div>Some links on various topics... 
+
+<br> 
+
+<https://johnjohnston.info/blog/life-in-links-63/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-31, from: Dave Winer's Scripting News)
+
+<div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/05/31/wereAllGoingToDie.png"></center>"Well, we're all going to die."</div> 
+
+<br> 
+
+<http://scripting.com/2025/05/31.html#a180039>
+
+---
+
+## May 30, 2025
+
+date: 2025-05-31, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164885149/8295616d4cb747658438da876bfe07f7.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164885149/8295616d4cb747658438da876bfe07f7.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-30-2025-bc8>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-31, from: Dave Winer's Scripting News)
+
+RSS never had a big corporation acting as a benefactor. Is that why imho RSS hasn't been considered as the backbone of the social web? Probably more likely it's the <a href="https://en.wikipedia.org/wiki/Fog_of_war">Fog Of War</a> nature of tech development. We have so many forks of so many things we don't know what anyone else is doing. It's easier to invent your own than figure out what the other thing did. Perhaps ChatGPT et al will change that. Yesterday I used it to get an understanding of how the <a href="https://github.com/scripting/Scripting-News/issues/320">content:encoded element</a> came to exist and evolved, and you'd think I of all people would know, but I didn't. ChatGPT <a href="https://chatgpt.com/share/6839d31f-9910-8012-b324-a0bb3c052f4f">did</a>. 
+
+<br> 
+
+<http://scripting.com/2025/05/31.html#a161921>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-31, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/30/goodhumortruck.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Why does Apple invent their own proprietary plugs when everyone else does USB? Even if you don't like to speak ill of Apple, you <i>know</i> why they do it. They want to control who can make add-ons to their products in hardware, just as they do in software. I still buy their products, but I also buy products that use standards, so I can use them on lots of devices. Now, the same thing happens in software from other people and companies. They can choose to use what already exists, or invent their own. Example, I chose MP3 for podcasting, did not invent a new format. If I were to do a social web network, I would use RSS, I wouldn't invent a new format. I want interop. I want to create an open platform, I don't mind making money, but that's not why I do it. 
+
+<br> 
+
+<http://scripting.com/2025/05/31.html#a155634>
+
+---
+
+## 2025-05-30 Roses along the way
+
+date: 2025-05-31, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-30-roses-along-the-way">2025-05-30 Roses along the way</h1>
+
+<p>I went <a href="2025-05-30-limmat">for a walk</a> and found a lot of rose-like flowers (and others). I want to illustrate the struggle with the Flora Incognita app because you can’t just take its output and “believe”. But in order to question the details one has to know them – and I usually do not, when it comes to flowers. So I’m left wondering.</p>
+
+<p>Rotblättrige Rose<br>
+Rosa glauca</p>
+
+<p><img loading="lazy" src="2025-05-30-roses-1.jpg" alt="a flower with five pink petals and leaves that have a reddish shine" /></p>
+
+<p>Büschel-Rose<br>
+Rosa multiflora</p>
+
+<p><img loading="lazy" src="2025-05-30-roses-2.jpg" alt="a white flower with five petals and yellow stamen" /></p>
+
+<p>Wein-Rose (Artengruppe)<br>
+Rosa rubiginosa agg.</p>
+
+<p><img loading="lazy" src="2025-05-30-roses-3.jpg" alt="a flower with five petals that are white at the center and pink further out, with yellow stamen" /></p>
+
+<p>Strangely, this one is supposed to be <em>Rosa glauca</em> again even though the colour is more light purple, there are more petals, the anther is darker and the leaves are greener. So confusing. 🫤</p>
+
+<p>Rotblättrige Rose<br>
+Rosa glauca</p>
+
+<p><img loading="lazy" src="2025-05-30-roses-4.jpg" alt="a light purple rose" /></p>
+
+<p>And this is another repeat. OK, why not. They look similar enough.</p>
+
+<p>Büschel-Rose<br>
+Rosa multiflora</p>
+
+<p><img loading="lazy" src="2025-05-30-roses-5.jpg" alt="another white flower with five petals" /></p>
+
+<p>Hunds-Rose<br>
+Rosa canina</p>
+
+<p><img loading="lazy" src="2025-05-30-roses-6.jpg" alt="a pale pink flower with yellow stamen" /></p>
+
+<p>Again!</p>
+
+<p>Büschel-Rose<br>
+Rosa multiflora</p>
+
+<p><img loading="lazy" src="2025-05-30-roses-7.jpg" alt="white flowers with five petals" /></p>
+
+<p>Brombeere<br>
+Rubus Rubus sect.</p>
+
+<p><img loading="lazy" src="2025-05-30-roses-8.jpg" alt="white flowers with five petals and long, dark stamen" /></p>
+
+<p><a class="tag" href="/search/?q=%23Plants">#Plants</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Flowers">#Flowers</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-30-roses>
+
+---
+
+## 
+                Happy little modem noises
+            
+
+date: 2025-05-31, updated: 2025-05-31, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-05-31/0/POSTING-en.html>
+
+---
+
+## Is Musk Gone for Good? | The Coffee Klatch for Saturday, May 31, 2025
+
+date: 2025-05-31, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<br> 
+
+<https://robertreich.substack.com/p/is-musk-gone-for-good-the-coffee>
+
+---
+
+## Small Online Communities
+
+date: 2025-05-31, from: John's World Wide Wall Display
+
+I&#8217;ve thought about joining in with the indieweb carnival a few times, but procrastinated. This months struck me, May 2025 IndieWeb Carnival: Small Web Communities &#8211; uncountable thoughts. I’d love to hear your experiences of them, why and how you participate and what you think are the key ingredients for a successful small web community. [&#8230;] 
+
+<br> 
+
+<https://johnjohnston.info/blog/small-online-communities/>
+
+---
+
+## May 30, 2025 
+
+date: 2025-05-31, from: Heather Cox Richardson blog
+
+In July 2024, according to an article published today by Kirsten Grind and Megan Twohey in the New York Times, billionaire Elon Musk texted privately about his concerns that government investigations into his businesses would &#8220;take me down.&#8221; &#8220;I can&#8217;t be president,&#8221; he wrote, &#8220;but I can help Trump defeat Biden and I will.&#8221; 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-30-2025>
+
+---
+
+## Weeknotes: May 24-30, 2025
+
+date: 2025-05-31, from: Tracy Durnell Blog
+
+Highlight of the week: took Monday off for Memorial Day and did a bonus walk with my friend at the state park Looking forward to: baking strawberry biscuits Stuff I did: 6 hours consulting 2.5 hours writing attended Galactic Homebrew Website Club big fridge cleanout 🦾 started our cat on thyroid medication &#8212; so far [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/05/30/weeknotes-may-24-30-2025/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-30, from: Miguel de Icaza Mastondon feed)
+
+<p>My integrated chat window in Xogot is looking nicer, copied a few Claude UI elements:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114599145334005811>
 
 ---
 
@@ -2734,88 +2989,4 @@ On Thursday the Trump administration told Harvard University that because it had
 <br> 
 
 <http://scripting.com/2025/05/24.html#a011153>
-
----
-
-## May 23, 2025
-
-date: 2025-05-24, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164379778/4be0df6c72cf48d7669b39c2dda8b49b.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/164379778/4be0df6c72cf48d7669b39c2dda8b49b.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/may-23-2025-17e>
-
----
-
-## ★ Idiocy or Jackassery, You Make the Call: Tripp Mickle on Whether Trump’s ‘Made in America’ iPhone Is a Fantasy
-
-date: 2025-05-24, updated: 2025-05-26, from: Daring Fireball
-
-My chances of ever landing a job at The New York Times continue to sink. 
-
-<br> 
-
-<https://daringfireball.net/2025/05/idiocy_or_jackassery_you_make_the_call_made_in_america_iphone>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-05-24, from: Miguel de Icaza Mastondon feed)
-
-<p>Dear Apple SwiftUI friends, this bug is killing the vibe of our users: FB16257334</p><p>Repro for those in the community:</p><p><a href="https://github.com/feedback-assistant/reports/issues/594" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/feedback-assistant/</span><span class="invisible">reports/issues/594</span></a></p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114563260894225902>
-
----
-
-## The New Fascism | Coffee Klatch for May 24, 2025
-
-date: 2025-05-24, from: Robert Reich's blog
-
-With Heather Lofthouse and yours truly, Robert Reich 
-
-<br> 
-
-<https://robertreich.substack.com/p/the-new-fascism-coffee-klatch-for>
-
----
-
-## May 23, 2025 
-
-date: 2025-05-24, from: Heather Cox Richardson blog
-
-I&#8217;m going to take an early night tonight, but I want to record three things that jumped out at me today because they seem to tell a story. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/may-23-2025>
-
----
-
-## Sad story of http.DefaultTransport
-
-date: 2025-05-24, from: Anton Zhiyanov blog
-
-A tale of false flexibility and leaking abstractions. 
-
-<br> 
-
-<https://antonz.org/default-transport/>
-
----
-
-## Weeknotes: May 17-23, 2025
-
-date: 2025-05-24, from: Tracy Durnell Blog
-
-Win of the week: new client accepted my budget proposal! 🙌 Looking forward to: three day weekend! hoping to make it to Bonus Galactic Homebrew Website Club Stuff I did: 7.75 hours consulting 3.5 hours writing went to see a matinee of Sinners &#8212; somebody gave us movie passes like 6 years ago so it was the [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/05/23/weeknotes-may-17-23-2025/>
 

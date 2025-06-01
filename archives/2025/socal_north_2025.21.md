@@ -1,11 +1,188 @@
 ---
 title: socal north
-updated: 2025-05-31 14:08:01
+updated: 2025-06-01 06:08:30
 ---
 
 # socal north
 
-(date: 2025-05-31 14:08:01)
+(date: 2025-06-01 06:08:30)
+
+---
+
+## Which Governor Newsom is going to show up for the arts, the budget cutter or the advocate?
+
+date: 2025-06-01, updated: 2025-06-01, from: The LAist
+
+Southern California arts groups are bracing themselves as an $11.5 million arts payroll fund is on the chopping block. 
+
+<br> 
+
+<https://laist.com/news/education/which-governor-newsom-is-going-to-show-up-for-the-arts-the-budget-cutter-or-the-advocate>
+
+---
+
+## Heart disease is a major risk for South Asians. A new UCLA program wants to help
+
+date: 2025-06-01, updated: 2025-06-01, from: The LAist
+
+Research shows that South Asians represent about a quarter of the world’s population but account for more than half of heart disease cases. UCLA's program was designed with South Asian culture in mind. 
+
+<br> 
+
+<https://laist.com/news/health/new-ucla-heart-program-south-asians>
+
+---
+
+## Your guide to the Manson Family members — and where they are now
+
+date: 2025-06-01, updated: 2025-06-01, from: The LAist
+
+Patricia Krenwinkel has been recommended for parole for a second time since 1971 murder conviction. Under the sway of Charles Manson, his followers committed a series of gruesome murders in 1969. The cult leader's Helter Skelter plan terrorized the city and still fascinates more than 50 years later. 
+
+<br> 
+
+<https://laist.com/news/la-history/manson-family-guide-where-they-are-now>
+
+---
+
+## Man shot during argument in Belmont Shore, police say
+
+date: 2025-05-31, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>He was able to take himself to the hospital, and the woman who is believed to have shot him fled the scene, police said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/man-shot-during-argument-in-belmont-shore-police-say">Man shot during argument in Belmont Shore, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/man-shot-during-argument-in-belmont-shore-police-say>
+
+---
+
+## New bike lanes, half a dozen crosswalks, 400 trees: The remade Artesia Boulevard is complete
+
+date: 2025-05-31, from: Longbeach Post
+
+<figure><img width="1024" height="593" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg-1024x593.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg-1024x593.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg-300x174.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg-768x445.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg-186x108.jpg 186w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg-400x232.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The roadway had been a “high-injury corridor” for pedestrians and bicyclists. A $44.2 million project just added a bevy of safety improvements.</p>
+<p>The post <a href="https://lbpost.com/news/city/artesia-boulevard-construction-complete-street-bike-lanes">New bike lanes, half a dozen crosswalks, 400 trees: The remade Artesia Boulevard is complete</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/artesia-boulevard-construction-complete-street-bike-lanes>
+
+---
+
+## Efilism, the ideology behind the Palm Springs bombing, has been spread online for years
+
+date: 2025-05-31, from: Longbeach Post
+
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The deceased suspect in the bombing of a Palm Springs fertility clinic on May 17 espoused an “anti-life” ideology called “efilism” that was invented by Gary Mosher, a 65-year-old New Jersey man who has spent years promoting his views in hundreds of YouTube videos. Guy Edward Bartkus, 25, who injured four bystanders and killed himself [&#8230;]</p>
+<p>The post <a href="https://lbpost.com/news/efilism-the-ideology-behind-the-palm-springs-bombing-has-been-spread-online-for-years">Efilism, the ideology behind the Palm Springs bombing, has been spread online for years</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/efilism-the-ideology-behind-the-palm-springs-bombing-has-been-spread-online-for-years>
+
+---
+
+## Park officials survey damage to iconic Joshua trees amidst latest wildfire
+
+date: 2025-05-31, updated: 2025-05-31, from: The LAist
+
+The Eureka Fire broke out Friday near an area of the park that's been known as a "refuge" for the namesake plant. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/park-officials-survey-damage-to-iconic-joshua-trees>
+
+---
+
+## An immigration raid at a San Diego restaurant leads to a chaotic scene
+
+date: 2025-05-31, updated: 2025-05-31, from: The LAist
+
+Videos show armed agents in tactical gear, a crowd of locals and what appear to be smoke devices deployed. 
+
+<br> 
+
+<https://laist.com/news/an-immigration-raid-at-a-san-diego-restaurant-leads-to-a-chaotic-scene>
+
+---
+
+## Trump pardons drug kingpins even as he escalates U.S. drug war rhetoric
+
+date: 2025-05-31, updated: 2025-05-31, from: The LAist
+
+President Trump has promised to attack drug gangs and called for the death penalty for street dealers. But he has also pardoned more than 20 people serving time for serious drug crimes, some involving violence. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/trump-pardons-drug-kingpins-even-as-he-escalates-u-s-drug-war-rhetoric>
+
+---
+
+## Trump's deals with law firms are like deals 'made with a gun to the head,' lawyers say
+
+date: 2025-05-31, updated: 2025-05-31, from: The LAist
+
+The White House said it's reached deals with nine law firms to provide about $1 billion in pro bono services. But the details of those agreements remain murky. 
+
+<br> 
+
+<https://laist.com/news/trumps-deals-with-law-firms-are-like-deals-made-with-a-gun-to-the-head-lawyers-say>
+
+---
+
+## Evacuation warnings lifted in Riverside County as firefighters gain ground on Henderson Fire
+
+date: 2025-05-31, updated: 2025-06-01, from: The LAist
+
+The Henderson Fire in San Diego County began at around 5:45 p.m. on Friday. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/henderson-fire-san-diego-county-riverside>
+
+---
+
+## Free pop-up vinyl shop helps January fire survivors find their groove
+
+date: 2025-05-31, updated: 2025-06-01, from: The LAist
+
+Lunch Club Projects, a music consultant firm in L.A., wanted to help record collectors who lost their music in the January fires. This weekend, it's launching a free pop-up shop at two locations for people to crate-dig and replenish their collections. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/pop-up-vinyl-club-helps-january-fire-survivors-find-their-groove>
+
+---
+
+## LA hires big law firm — at $900,000 — in long-running court battle over homelessness spending
+
+date: 2025-05-31, updated: 2025-05-31, from: The LAist
+
+Gibson, Dunn and Crutcher has handled major cases around the country, including last year when the firm represented the city of Grants Pass, Oregon, in a landmark Supreme Court case. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-hires-big-law-firm-at-900-000-in-long-running-court-battle-over-homelessness-spending>
+
+---
+
+## Outgoing LA homelessness chief says budget cuts jeopardize next year’s homeless count
+
+date: 2025-05-31, updated: 2025-05-31, from: The LAist
+
+Los Angeles Homeless Services Authority CEO says the embattled agency won’t have enough funding to carry out the 2026 count. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-homeless-services-authority-lahsa-va-lecia-adams-kellum-2026-homeless-count-budget-cuts>
 
 ---
 
@@ -1139,108 +1316,4 @@ After growing up with a father forever changed by war, East L.A. author Julie Sa
 <br> 
 
 <https://laist.com/news/mission-to-honor-veterans-and-heal-generations-on-the-eastside>
-
----
-
-## Hannah Gutierrez-Reed, armorer in 'Rust' shooting, is released early
-
-date: 2025-05-24, updated: 2025-05-24, from: The LAist
-
-She will remain on parole until May 2026. 
-
-<br> 
-
-<https://laist.com/news/hannah-gutierrez-reed-armorer-in-rust-shooting-is-released-early>
-
----
-
-## That zing in your teeth from a cold treat? Blame this ancient armored fish
-
-date: 2025-05-24, updated: 2025-05-24, from: The LAist
-
-The sometimes uncomfortable sensations we feel in our teeth may be an evolutionary holdover from the scaly exteriors of ancient armored fish. 
-
-<br> 
-
-<https://laist.com/news/health/that-zing-in-your-teeth-from-a-cold-treat-blame-this-ancient-armored-fish>
-
----
-
-## Speeding driver dies after swerving to avoid car crash, running into Metro train, LBPD says
-
-date: 2025-05-24, from: Longbeach Post
-
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The 21-year-old driver did not have her headlights on and may have been impaired, Long Beach police said.</p>
-<p>The post <a href="https://lbpost.com/news/crime/metro-train-crash-long-beach-boulevard">Speeding driver dies after swerving to avoid car crash, running into Metro train, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/crime/metro-train-crash-long-beach-boulevard>
-
----
-
-## FDA alleges fluoride supplements cause gut harms. Scientists aren't convinced
-
-date: 2025-05-24, updated: 2025-05-24, from: The LAist
-
-The agency is taking steps to remove prescription fluoride products that children swallow. But researchers who study fluoride say it's not harmful and some kids need the treatments. 
-
-<br> 
-
-<https://laist.com/news/health/fda-alleges-fluoride-supplements-cause-gut-harms-scientists-arent-convinced>
-
----
-
-## $30 hourly wage increase for hotel and airport workers heads to Bass for final approval
-
-date: 2025-05-24, updated: 2025-05-24, from: The LAist
-
-The workers would be paid $30 an hour by 2028. 
-
-<br> 
-
-<https://laist.com/news/30-hourly-wage-for-hotel-and-airport-workers-head-to-bass-for-final-approval>
-
----
-
-## The Transiting Los Angeles Podcast – #12: Gondola!
-
-date: 2025-05-24, from: Transiting Los Angeles
-
-John and Janeth look south to Orange County, where Irvine's Great Park has just approved moving ahead with what seems to be a very questionable transportation operation... 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/05/gondola_podcast.mp3"></source>
-</audio> <a href="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/05/gondola_podcast.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://transitinglosangeles.com/2025/05/24/the-transiting-los-angeles-podcast-12-gondola/>
-
----
-
-## One person shot on 710 Freeway in Long Beach, CHP says
-
-date: 2025-05-24, from: Longbeach Post
-
-<figure><img width="900" height="600" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1.png 900w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-300x200.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-768x512.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-162x108.png 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-400x267.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The victim was found wounded in the driver's seat of a pickup truck.</p>
-<p>The post <a href="https://lbpost.com/news/crime/one-person-shot-on-710-freeway-in-long-beach-chp-says">One person shot on 710 Freeway in Long Beach, CHP says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/crime/one-person-shot-on-710-freeway-in-long-beach-chp-says>
-
----
-
-## Los Feliz's Hillhurst asks: Another coffee place?!
-
-date: 2025-05-24, updated: 2025-05-24, from: The LAist
-
-Within a 10-minute walk on Hillhurst Avenue are a handful of places that serve a cup of joe. And another coffee shop is coming. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/los-feliz-hillhurst-coffee>
 

@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2025-05-31 14:08:03
+updated: 2025-06-01 06:08:31
 ---
 
 # ham radio
 
-(date: 2025-05-31 14:08:03)
+(date: 2025-06-01 06:08:31)
+
+---
+
+## ARRL Foundation Accepting Grant Applications in June
+
+date: 2025-06-01, from: Amateur Radio Relay League News
+
+<p>The ARRL Foundation is accepting grant applications from amateur radio organizations for eligible amateur radio-related projects and initiatives, particularly those focused on educating, licensing, and supporting amateur radio activities. To grow amateur radio's future, youth-based projects and initiatives are especially encouraged.</p><p>The ARRL Foundation grants program accepts proposals on a cycli...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-foundation-accepting-grant-applications-in-june>
 
 ---
 

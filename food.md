@@ -1,11 +1,37 @@
 ---
 title: food
-updated: 2025-05-31 14:08:11
+updated: 2025-06-01 06:08:40
 ---
 
 # food
 
-(date: 2025-05-31 14:08:11)
+(date: 2025-06-01 06:08:40)
+
+---
+
+## Summer Time And The Sippin’ Is Easy
+
+date: 2025-06-01, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A curated list of coffees from the Sprudge Roaster's Village. 
+
+<br> 
+
+<https://sprudge.com/summer-time-and-the-sippin-is-easy-342240.html>
+
+---
+
+## ‘Light & Bright’ Recipe Contest Announcement
+
+date: 2025-06-01, from: Taste of Home
+
+<p>Show off your lightest and brightest recipes for the chance to win $500!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/light-bright-recipe-contest/">&#8216;Light &#038; Bright&#8217; Recipe Contest Announcement</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/light-bright-recipe-contest/>
 
 ---
 
@@ -1250,16 +1276,4 @@ Elvis Presley cake is a pineapple lover's dream. The sweet pineapple layer and r
 <br> 
 
 <https://www.tasteofhome.com/recipes/elvis-presley-cake/>
-
----
-
-## 19 Frozen Drinks to Blend Up This Summer
-
-date: 2025-05-24, from: Bon Appetet
-
-Like an espresso martini frappé, make-ahead piña coladas, and a spicy mango margarita. 
-
-<br> 
-
-<https://www.bonappetit.com/gallery/frozen-drinks-cocktail-recipes>
 

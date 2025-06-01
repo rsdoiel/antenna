@@ -1,11 +1,167 @@
 ---
 title: games
-updated: 2025-05-31 14:08:06
+updated: 2025-06-01 06:08:35
 ---
 
 # games
 
-(date: 2025-05-31 14:08:06)
+(date: 2025-06-01 06:08:35)
+
+---
+
+## The 2-year hunt for ‘one of the rarest games in history’
+
+date: 2025-06-01, updated: 2025-05-30, from: Polygon Website
+
+Cosmology of Kyoto is a first-person horror exploration game where players navigate a deeply haunted yet surprisingly educational terrain. Originally released in 1993, Cosmology of Kyoto and its disturbing depictions of suffering have since become a cult classic. Roger Ebert, known hater, loved the game so much that he spent weeks playing it. Despite its [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/features/602220/cosmology-of-kyoto-tripitaka-rarest-game-history>
+
+---
+
+## Pokémon Go Giovanni counters, team line-up in June 2025
+
+date: 2025-06-01, updated: 2025-06-01, from: Polygon Website
+
+Giovanni’s team had a refresh in Pokémon Go following the arrival of the spring 2025 “Crown Clash: Taken Over” event. As it stands in June 2025, following an update rolled out on May 13, Giovanni’s team sees several possibilities, including a finale against Dialga, the latest legendary to see the Shadow treatment. For those who [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket>
+
+---
+
+## Pokémon Go raid schedule for June 2025’s Legendary and Mega Pokémon
+
+date: 2025-06-01, updated: 2025-06-01, from: Polygon Website
+
+Using a raid schedule helps you work out which creatures to save your raid passes (remote or otherwise) for in Pokémon Go. The raid targets swap out every 10 days approximately, so you’ll definitely want to keep track on who is coming next. If you’re unfamiliar with raids, they spawn in gyms from 10 a.m. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star>
+
+---
+
+## Pokémon Go Ditto disguises list for June 2025
+
+date: 2025-06-01, updated: 2025-06-01, from: Polygon Website
+
+Ditto is an elusive Pokémon in Pokémon Go, as it disguises itself and you can’t actually just catch one straight-up. In order to find Ditto, you’ll want to find the Pokémon that it currently disguises itself as. For example, you may see a Diglett, and it’ll stay a Diglett once you tap on it, but [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny>
+
+---
+
+## Pokémon Go Spotlight Hour schedule for June 2025
+
+date: 2025-06-01, updated: 2025-06-01, from: Polygon Website
+
+Pokémon Go hosts a Spotlight Hour every Tuesday. This special event sees spawn rates for one Pokémon boosted greatly. There’s also usually some kind of doubled up bonus, like doubled candy or XP, during this time, giving you an additional reason to check in. During June 2025, with the way the dates line up, we [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule>
+
+---
+
+## FFXIV housing lottery schedule for June 2025
+
+date: 2025-06-01, updated: 2025-06-01, from: Polygon Website
+
+If you’re trying to get a house in Final Fantasy 14, you’ll need to play the lottery system. The FFXIV lottery system consists of five “entry period” days, followed by four “results period” days. You’ll need to place your bid during the entry period days and if you win, finalize your purchase during the results [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period>
+
+---
+
+## Pokémon Go leader counters for Sierra, Arlo, and Cliff in June 2025
+
+date: 2025-06-01, updated: 2025-06-01, from: Polygon Website
+
+Pokémon Go has its own version of the notorious Team Rocket, called Team Go Rocket. In this Pokémon Go guide, we’ll break down how to find leaders Sierra, Cliff, and Arlo and take them down. Below, we list their parties and strategies as it stands in June 2025, with the most recent changes following the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses>
+
+---
+
+## Pokémon Go Max Monday and Max Battle schedule for June 2025
+
+date: 2025-06-01, updated: 2025-06-01, from: Polygon Website
+
+Knowing the Max Battle schedule is useful if you’re looking to expand your inventory of Dynamax Pokémon in Pokémon Go. It does appear that Niantic will start rotating Pokémon in and out of Max Battles on a month-by-month basis, with some event Pokémon littered in. There are also Max Mondays, a weekly event similar to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/458543/max-battle-schedule-dynamax>
+
+---
+
+## Gen V season 2 finally gets a first look
+
+date: 2025-06-01, updated: 2025-06-01, from: Polygon Website
+
+After a universe-shaking season 4 finale on The Boys, it’s once again time for the kids of Godolkin University to step up to the plate. While Gen V’s second season won’t premiere until September, Amazon took to CCXP Mexico to give fans a look at the new season — and a little of how The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sdcc/24206457/gen-v-season-2-first-look-release-date-cast-panel>
+
+---
+
+## One Piece’s Tony Tony Chopper revealed in all his furry live-action-ish glory
+
+date: 2025-06-01, updated: 2025-06-01, from: Polygon Website
+
+After a tease in Netflix’s One Piece season 2 announcement way back in September 2023, Tony Tony Chopper, the Straw Hats’ resident reindeer-doctor, has officially boarded the pirate ship. Netflix revealed the beloved sidekick’s “live-action” look during its 2025 Tudum stream. Netflix also announced that actor Mikaela Hoover (Guardians of the Galaxy, Vol. 3, July’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/602744/one-piece-netflix-tony-tony-chopper-image-cast-actor>
+
+---
+
+## How Bring Her Back’s most stomach-churning shot happened
+
+date: 2025-05-31, updated: 2025-05-30, from: Polygon Website
+
+There’s a scene in Bring Her Back, the latest A24 horror movie from Talk To Me writer-directors (and twin brothers) Danny and Michael Philippou, that’s so violently grotesque, I actually closed my eyes to shut it out. Trying to deny what was going on on the screen just made what was going on in the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/602597/bring-her-back-goriest-scene-practical-effects-director-interview>
+
+---
+
+## When making lots of small games is more sustainable than making one big one
+
+date: 2025-05-31, updated: 2025-05-30, from: Polygon Website
+
+If you play indie games, you may have noticed Strange Scaffold’s incredible hit rate. Every single one of the studio’s games — from  Clickolding, I Am Your Beast, and most recently, Teenage Mutant Ninja Turtles: Tactical Takedown — has ended up somewhere within the “Positive” ranking system on Steam (with several achieving “Very Positive” or [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/features/602124/strange-scaffold-xalavier-nelson-jr-interview>
+
+---
+
+## The Last of Us season 2 failed Ellie in service of safe TV
+
+date: 2025-05-31, updated: 2025-05-30, from: Polygon Website
+
+Without interactivity, the Ellie Williams that players know from the Last of Us games was never going to be the same person as the character who appeared on a television screen on Sunday nights. But by the time season 2 of HBO’s The Last of Us reached its finale, it became evident that the TV [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/analysis/602646/last-of-us-season-2-ellie-tv-vs-games>
 
 ---
 
@@ -558,76 +714,4 @@ Earlier this week, Google unveiled Flow, a tool that can be used to generate AI 
 <br> 
 
 <https://www.polygon.com/analysis/600961/ai-fortnite-flow-veo>
-
----
-
-## Summer Game Fest and ‘Not-E3’ 2025 schedule: All conference dates and times
-
-date: 2025-05-24, updated: 2025-05-24, from: Polygon Website
-
-Summer Game Fest 2025 returns in June to fill the vacuum left by E3 — may it rest in peace&#160;—&#160;and will be joined by a long list of showcases from the likes of Xbox and tireless independent organizers who will put on shows like Day of the Devs and Wholesome Direct. This year’s Summer Game [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/events/601264/summer-game-fest-2025-schedule-sgf-e3>
-
----
-
-## A definitive ranking of Tom Cruise’s 26 best action movies
-
-date: 2025-05-24, updated: 2025-05-24, from: Polygon Website
-
-After spending several months doing not much besides watching Tom Cruise movies, I now spend a lot of time wondering about Tom Cruise running. The Mission: Impossible star is a high-cadence runner. He’s famously short of stature, low to the ground and with short legs. But that build is perfect for cinema, because those arms [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/rankings/601358/tom-cruise-action-movie-ranking-mission-impossible>
-
----
-
-## Rick and Morty team didn’t worry about the lore ‘we owe’ in season 8 — only Rick’s baggage
-
-date: 2025-05-24, updated: 2025-05-24, from: Polygon Website
-
-Rick and Morty remains a staggering work of chaotic creativity. Previewing a handful of episodes from season 8, which premieres Sunday, May 25 with a Matrix-themed story inspired by phone charger theft, I still had that brain-melty “How do they think of this stuff?” feeling from when the show premiered more than a decade ago. [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/q-and-a/600794/rick-morty-season-8-episodes-dan-harmon-scott-marder-interview>
-
----
-
-## Despelote might be the best game ever about childhood
-
-date: 2025-05-24, updated: 2025-05-24, from: Polygon Website
-
-One of the great magic tricks of art — or perhaps just of the human brain — is the ability to transmute something hyper-specific and personal into something universal. Despelote is an autobiographical, semi-documentary game about being a kid in Ecuador during the country’s first successful qualifying run for the 2002 World Cup. It’s also [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/review/601192/despelote-review-childhood-ecuador-football-sorry-soccer>
-
----
-
-## Netflix is losing these 5 great movies in June
-
-date: 2025-05-24, updated: 2025-05-23, from: Polygon Website
-
-This weekend is a major one for new movies, with the release of Mission: Impossible – The Final Reckoning and Disney’s live-action Lilo &#38; Stitch remake in theaters. But even if you carved out two days for two major blockbusters, good news: Monday is Memorial Day. So why not spend your three-day weekend sneaking in [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/movies/601216/best-movies-streaming-leaving-netflix-removed-june-2025>
-
----
-
-## Pokémon Go Machop Community Day guide
-
-date: 2025-05-24, updated: 2025-05-19, from: Polygon Website
-
-Pokémon Go is having a Machop Community Day event on Saturday, May 24, from 2-5 p.m. in your local time. As expected with a Community Day event, Machop will spawn in huge numbers with a high chance for it to appear shiny in Pokémon Go. There are also several other bonuses and perks, which we’ve [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/599922/machop-community-day-shiny-machamp-moveset>
 

@@ -1,11 +1,820 @@
 ---
 title: planet
-updated: 2025-05-31 14:07:59
+updated: 2025-06-01 06:08:28
 ---
 
 # planet
 
-(date: 2025-05-31 14:07:59)
+(date: 2025-06-01 06:08:28)
+
+---
+
+## Ukraine conducts 'large-scale' attack on Russian aircraft
+
+date: 2025-06-01, from: RTÉ News
+
+Ukraine has launched a "large-scale" attack against Russian military aircraft, hitting a base in eastern Siberia thousands of kilometres from its border, a source within the Ukrainian security services said. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0601/1516192-ukraine-russia/>
+
+---
+
+## China accuses US's Hegseth of 'vilifying' remarks
+
+date: 2025-06-01, from: RTÉ News
+
+China has protested to the US against "vilifying" remarks made by Defense Secretary Pete Hegseth, the foreign ministry said, while accusing it of deliberately ignoring calls for peace from regional nations. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0601/1516187-hegseth-china/>
+
+---
+
+## Gentle communication is witness to Christ’s peace
+
+date: 2025-06-01, from: Vatican News
+
+
+                    <p>The Church celebrates the 59th World Day of Communications for 2025. The Holy Father, Pope Leo XIV, in his inaugural Mass homily told the entire world in thrall: “Let us walk towards God and love one another”. His Holiness had at his first appearance, greeted the world with the very words of peace spoken by Christ after his resurrection. No one would doubt the sincerity of the Holy Father’s call, given his mien during his eventual inauguration.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-06/gentle-communication-is-witness-to-christ-s-peace.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-06/gentle-communication-is-witness-to-christ-s-peace.html>
+
+---
+
+## Motorcyclist injured in crash that killed garda dies
+
+date: 2025-06-01, from: RTÉ News
+
+The motorcyclist who was involved in the crash in which Garda Kevin Flatley was killed last month has died in hospital. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0601/1516183-swords-crash/>
+
+---
+
+## Pope at Regina Coeli: ‘I think of families suffering from war’
+
+date: 2025-06-01, from: Vatican News
+
+
+                    <p>Pope Leo greets families gathered for the Jubilee for Families during the Regina Coeli address in St. Peter’s Square and reflects on the Feast of the Ascension of the Lord.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-regina-colei-jubilee-families-children-elderly-ascensio.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-regina-colei-jubilee-families-children-elderly-ascensio.html>
+
+---
+
+## African media called to cleanse itself of all aggression
+
+date: 2025-06-01, from: Vatican News
+
+
+                    <p>The celebration of the 59th World Day of Communication this year, invites us, through the theme “Share with Gentleness the Hope that Is in Your Hearts,” to seek and promote gentleness in a world filled with so much violent communication and aggression.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-06/african-media-called-to-cleanse-itself-of-all-aggression.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-06/african-media-called-to-cleanse-itself-of-all-aggression.html>
+
+---
+
+## Two dead, 559 arrested amid PSG celebrations in France
+
+date: 2025-06-01, from: RTÉ News
+
+More than 500 people were arrested by police during Champions League final celebrations in France, while two people were reported dead and 192 injured, the French interior ministry has said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0601/1516157-paris-arrests/>
+
+---
+
+## Pope Leo: Families are the cradle of humanity’s future
+
+date: 2025-06-01, from: Vatican News
+
+
+                    <p>Closing the Jubilee of Families, Children, Grandparents and the Elderly, Pope Leo presides over Mass and challenges everyone to ground their love in Christ, which can bring peace to the world.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-families-are-the-cradle-of-humanitys-future.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-families-are-the-cradle-of-humanitys-future.html>
+
+---
+
+## 2 dead, over 500 arrested in France during Paris St Germain victory celebrations
+
+date: 2025-06-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7549290.1748776129!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/soccer-champions-psg-int-fans-paris.JPG' alt='Fans revel on the street and among cars and red, blue and white smoke.' width='620' height='349' title='Soccer Football - Champions League - Final - Paris St Germain fans gather in Paris - Paris, France - May 31, 2025 Paris St Germain fans celebrate with flares outside the stadium after winning the Champions League REUTERS/Tom Nicholson'/><p>Two people were killed and 192 injured Sunday during the Champions League final celebrations in France that also saw more than 500 people arrested, according to the interior ministry.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/2-dead-500-arrested-france-soccer-1.7549289?cmp=rss>
+
+---
+
+## Israeli attack near aid delivery point kills at least 31 in Gaza, local health officials say
+
+date: 2025-06-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7549284.1748766354!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/gaza-palestinians-aid-khan-younis.jpg' alt='A crowd of people walking on a street, many carrying white bags of aid supplies on their shoulders. ' width='620' height='349' title='Palestinians carry bags containing food and humanitarian aid packages delivered by the Gaza Humanitarian Foundation, a U.S.-backed organization approved by Israel, in Khan Younis, southern Gaza Strip, Sunday, June 1, 2025. '/><p>At least 31 people were killed, with scores more wounded Sunday as they were on their way to receive food in Gaza, according to health officials and multiple witnesses who said Israeli forces fired on crowds around a kilometre away from an aid site run by a U.S. aid organization backed by Israel.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/gaza-aid-palestinians-killed-1.7549283?cmp=rss>
+
+---
+
+## Voting under way in tight Polish presidential election
+
+date: 2025-06-01, from: RTÉ News
+
+Poles have begun voting in a tight presidential election with major implications for the country's role in Europe, and for abortion and LGBTQ rights. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0601/1516146-poland-election/>
+
+---
+
+## Gaza aid: What is getting in and who is distributing it?
+
+date: 2025-06-01, from: RTÉ News
+
+In recent days, videos and images showing people in Gaza desperately trying to access food and other humanitarian aid have been circulating across social media. So what's known about aid the amount of food entering Gaza, and the processes being used to provide it? 
+
+<br> 
+
+<https://www.rte.ie/news/clarity/2025/0601/1515858-gaza-aid-what-is-getting-in-and-who-is-distributing-it/>
+
+---
+
+## Disappearance of Fiona Pender cast shadow over home town
+
+date: 2025-06-01, from: RTÉ News
+
+On 22 August 1996 Fiona Pender and her mother Josephine headed into Tullamore. Fiona was seven months pregnant at the time and went to town shopping for baby clothes. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0601/1516121-fiona-pender-tullamore/>
+
+---
+
+## Will Trump kill America's clean future?
+
+date: 2025-06-01, from: RTÉ News
+
+President Trump wasted no time delivering on his campaign promises to the fossil fuel industry - rolling back US commitments on climate and clean energy, cutting federal funding to climate change science and lifting environmental regulations. What does it all mean for America's clean future? 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0601/1516024-will-trump-kill-americas-clean-future/>
+
+---
+
+## Laois Rose hopes to inspire women to become apprentices
+
+date: 2025-06-01, from: RTÉ News
+
+As pupils prepare to start their Leaving Cert in just a few days, we are hearing from young people who took alternative paths to the CAO. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0601/1515990-laois-rose-apprentice-leaving-cert/>
+
+---
+
+## 3 crucial issues facing the Government on housing
+
+date: 2025-06-01, from: RTÉ News
+
+In a week when the minister responsible for housing admitted that meeting the Government's own target for the delivery of new housing this year would be "extremely challenging", RTÉ's Economics and Public Affairs Editor David Murphy examines three key issues that must be addressed. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0601/1515991-housing-crisis/>
+
+---
+
+## Bridges collapse, derailing trains in 2 Russian regions bordering Ukraine, 7 dead
+
+date: 2025-06-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7549281.1748758922!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/russia-kursk-railway-bridge-collapse.JPG' alt='An image of a derailed train, with smoke rising above it, on a collapsed railway bridge. ' width='620' height='349' title='A views shows a damaged freight train at the scene following a railway bridge collapse in the Kursk region, Russia, in this picture published June 1, 2025.  '/><p>Two bridges collapsed in different Russian regions bordering Ukraine, derailing trains, killing at least seven people and injuring dozens, Russian authorities said early on Sunday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/russia-kursk-bryansk-train-detrailments-1.7549280?cmp=rss>
+
+---
+
+## Thousands take part in VHI Women's Mini Marathon
+
+date: 2025-06-01, from: RTÉ News
+
+Tens of thousands of women have taken part in this year's VHI women's Mini Marathon in Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0601/1516144-women-marathon-dublin/>
+
+---
+
+## Russia tells Ukrainians in occupied areas to get Russian passport or leave
+
+date: 2025-06-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7547930.1748611030!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1242288417.jpg' alt='A man fills document to apply for new Russian passport at a centre in Melitopol in Zaporizhzhia region, on August 3, 2022, amid Russia&apos;s ongoing invasion of Ukraine. ' width='620' height='349' title='A man fills document to apply for new Russian passport at a centre in Melitopol in Zaporizhzhia region, on August 3, 2022, amid Russia&apos;s ongoing invasion of Ukraine. '/><p>Russian President Vladimir Putin signed a decree that forces Ukrainians to legalize their status in occupied territories — or leave. Already, many Ukrainians had been forced to accept Russian citizenship in occupied areas to maintain their homes or access to health care and education.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/russian-passports-ukraine-1.7547901?cmp=rss>
+
+---
+
+## In Italy, a Canadian has a 'very humbling experience' meeting with King Charles
+
+date: 2025-06-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7548308.1748623626!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2208870526.jpg' alt='A person wearing a suit and medals on their chest presents a small box to another person wearing a military uniform.' width='620' height='349' title='RAVENNA, ITALY - APRIL 10: King Charles III meets with Canadian servicemen and women during a reception in the Town Hall of Ravenna, marking the 80th anniversary of the province&apos;s liberation from Nazi occupation by Allied Forces, during day four of King Charles III and Queen Camilla&apos;s State visit to The Republic of Italy on April 10, 2025 in Ravenna, Italy. (Photo by Paul Ellis - Pool/Getty Images)'/><p>Maj. Casey Anderson, a military intelligence officer in the Canadian Armed Forces, received a King's Coronation Medal from King Charles as the monarch was in the Italian city of Ravenna commemorating the 80th anniversary of the area's liberation during the Second World War, a military effort in which both Canadian and British forces played a role.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/coronation-medal-king-charles-popularity-1.7548298?cmp=rss>
+
+---
+
+## 7 dead as two bridges in Russia collapse in 'blasts'
+
+date: 2025-06-01, from: RTÉ News
+
+The overnight collapse of two bridges in Russian regions bordering Ukraine that killed seven people were caused by explosions, Russian officials have said, treating them as "acts of terrorism". 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0601/1516143-russia-ukraine-war/>
+
+---
+
+## 31 killed by Israeli fire near Gaza aid site, say medics
+
+date: 2025-05-31, from: RTÉ News
+
+An Israeli attack near an aid distribution point run by a private US-based group has killed at least 31 people in Gaza, local health authorities have said, as Hamas and Israel exchanged blame over a faltering effort to secure a ceasefire. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0601/1516140-gaza-israel-hamas/>
+
+---
+
+## Ban on sale of single-use vapes comes into effect in NI
+
+date: 2025-05-31, from: RTÉ News
+
+A ban on the sale and supply of single-use vapes comes into effect in Northern Ireland today. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0601/1516103-vapes-northern-ireland/>
+
+---
+
+## Gallagher instruments brought back to life at festival
+
+date: 2025-05-31, from: RTÉ News
+
+Instruments belonging to the world-famous blues guitarist Rory Gallagher have been brought back to life in his birthplace of Ballyshannon, Co Donegal. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0531/1516135-rory-gallagher-instruments/>
+
+---
+
+## Magnificent PSG hammer Inter to win Champions League
+
+date: 2025-05-31, from: RTÉ News
+
+Paris Saint-Germain were crowned kings of Europe for the first time with a thumping 5-0 Champions League final victory over Inter Milan in Munich. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0531/1516075-magnificent-psg-hammer-inter-to-win-champions-league/>
+
+---
+
+## Frances Black 98% sure she will not run for presidency
+
+date: 2025-05-31, from: RTÉ News
+
+Independent senator Frances Black has said she is "98%" sure she will not contest the presidential election - but remains 2% open to the possibility as she has "a responsibility to consider it". 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0531/1516132-france-black-presidency/>
+
+---
+
+## Watch: We sing for peace, says Gaza music teacher
+
+date: 2025-05-31, from: RTÉ News
+
+A music teacher in Gaza is hoping to bring some "light in darkness" to children affected by displacement by offering music lessons. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0531/1516130-music-teacher-gaza/>
+
+---
+
+## Pope at Rosary for closure of the Marian month: Let us walk with Mary
+
+date: 2025-05-31, from: Vatican News
+
+
+                    <p>Pope Leo XIV joins the faithful at the conclusion of the prayer of the Rosary in the Vatican Gardens, to mark the end of the Marian month.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/rosary-procession-closes-month-of-may-in-vatican-gardens.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/rosary-procession-closes-month-of-may-in-vatican-gardens.html>
+
+---
+
+## Millions of honeybees loose after truck overturns near B.C.-Wash. border
+
+date: 2025-05-31, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7549213.1748721412!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/honeybee-spill.jpg' alt='An overturned truck is seen on a cloudy day.' width='620' height='349' title='This image taken from video provided by Whatcom County Sheriff&apos;s Office shows a truck hauling an estimated 70,000 pounds of honeybee hives overturn on Friday, May 30, 2025 near Lynden, Wash.'/><p>A truck hauling an estimate of nearly 32,000 kilograms of honeybee hives rolled over around 4 a.m. PT on Friday, close to the U.S.-Canada border near Lynden, Wash. and Abbotsford, B.C.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/honeybee-truck-overturn-bellingham-1.7549211?cmp=rss>
+
+---
+
+## Champions League final: PSG 5-0 Inter Milan recap
+
+date: 2025-05-31, from: RTÉ News
+
+PSG hammered Inter Milan in club football's biggest game. Read back on how it unfolded. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0531/1516128-champions-league-final-psg-v-inter-milan-updates/>
+
+---
+
+## Cardinal You: St John Vianney’s Holiness is a model of humility
+
+date: 2025-05-31, from: Vatican News
+
+
+                    <p>In a video message screened at the Shrine St John Vianney in Ars-sur-Formans, Cardinal Lazzaro Heung-sik You, Prefect of the Dicastery for the Clergy, reflects on the life of  the saint on the centenary of his canonization: “To you, dear priests, I would like to say: do not be afraid of being weak. Do not fear if you are not always understood.” </p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/cardinal-you-st-john-vianney-anniversary-canonization.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/cardinal-you-st-john-vianney-anniversary-canonization.html>
+
+---
+
+## Deadly floods strike rural town in north-central Nigeria
+
+date: 2025-05-31, from: Vatican News
+
+
+                    <p>Over 150 people have died in flood-struck north-central Nigeria where emergency responders are at work. The government has activated temporary shelter assistance for the more than 3.000 displaced persons but analysts say more needs to be done to prevent foreseeable tragedies.
+</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/floods-nigeria-victims-displaced-climate-change-political.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/floods-nigeria-victims-displaced-climate-change-political.html>
+
+---
+
+## Arab ministers condemn Israel 'ban' on West Bank visit
+
+date: 2025-05-31, from: RTÉ News
+
+The foreign ministers of five Arab countries who had planned to visit the occupied West Bank this weekend, condemned Israel's decision to block their trip. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0531/1516108-arab-ministers-condemn-israel-ban-on-west-bank-visit/>
+
+---
+
+## Govt lodges protest letter over Israeli fire at troops
+
+date: 2025-05-31, from: RTÉ News
+
+The Government has lodged a formal protest letter through the United Nations over the decision by the Israeli military to fire up to 30 rounds towards an Irish-Lebanese unit helping civilians in south Lebanon on Thursday. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0531/1516110-ireland-israel/>
+
+---
+
+## Hamas reviewing Gaza ceasefire proposal, reports suggest
+
+date: 2025-05-31, from: Vatican News
+
+
+                    <p>Hamas leaders review a ceasefire proposal from the Trump administration, which Washington says has Israel’s approval.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/hamas-reviewing-gaza-ceasefire-proposal-reports-suggest.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/hamas-reviewing-gaza-ceasefire-proposal-reports-suggest.html>
+
+---
+
+## Rescue operations as Nigeria flooding kills at least 150
+
+date: 2025-05-31, from: RTÉ News
+
+Flash flooding earlier this week in central Nigeria killed more than 150 people, a local disaster response spokesman said, while displacing 3,000, levelling more than 250 homes and washing away two bridges. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0531/1516096-nigeria-flooding/>
+
+---
+
+## Pope Leo XIV calls for missionary renewal in France
+
+date: 2025-05-31, from: Vatican News
+
+
+                    <p>On the centenary of the canonization of three French saints, Pope Leo XIV sends a message to France's Bishops and speaks of the country's “Christian heritage,” which “still profoundly permeates [French] culture and remains alive in many hearts.”</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-calls-for-missionary-renewal-in-france.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-calls-for-missionary-renewal-in-france.html>
+
+---
+
+## Lord's Day Reflection: The Ascension of the Lord
+
+date: 2025-05-31, from: Vatican News
+
+
+                    <p>As the Church celebrates the Ascension of the Lord, Fr Edmund Power, OSB, reflects on how it reminds us that  "...we too may rise up to the heavenly realms."</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/gospel-reflection-ascension-of-the-lord-edmund-power.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/gospel-reflection-ascension-of-the-lord-edmund-power.html>
+
+---
+
+## Sweden steps up rules against Russia's 'shadow fleet'
+
+date: 2025-05-31, from: RTÉ News
+
+Sweden has announced new rules upping checks on foreign vessels in the Baltic from 1 July, reinforcing a crackdown on Russia's "shadow fleet" of tankers deployed to circumvent sanctions on its oil trade. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0531/1516090-russia-shadow-fleet/>
+
+---
+
+## Evacuation order for 11 villages on Ukraine border
+
+date: 2025-05-31, from: RTÉ News
+
+Authorities in Ukraine's Sumy region bordering Russia ordered the mandatory evacuation of 11 villages because of bombardments, as Kyiv feared a Russian offensive there. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0531/1516088-ukraine-border-russia/>
+
+---
+
+## Pope Francis, Pope Leo XIV, and the urgency of listening
+
+date: 2025-05-31, from: Vatican News
+
+
+                    <p>On the eve of World Communications Day, we recall how the late Pope Francis and Pope Leo XIV have invited the world to place listening at the heart of communication, which requires us to listen in complete inner availability, as taught in different eras by St. Augustine and St. Francis of Assisi.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/pope-francis-leo-xiv-world-communications-day-message.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/pope-francis-leo-xiv-world-communications-day-message.html>
+
+---
+
+## Drowning victim was 'truly special soul', funeral hears
+
+date: 2025-05-31, from: RTÉ News
+
+The second of two teenagers who died when they got into difficulty in Lough Swilly, Co Donegal three weeks ago was "a truly special soul" who was the "kind of person who made others feel seen, heard, and valued, mourners at his funeral were told. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0531/1516087-matt-sibanda-funeral-donegal/>
+
+---
+
+## Drowning of teenagers remains an open wound, funeral told
+
+date: 2025-05-31, from: RTÉ News
+
+The second of two teenagers who died when they got into difficulty in Lough Swilly, Co Donegal, three weeks ago was "a truly special soul" who was the "kind of person who made others feel seen, heard, and valued, mourners at his funeral were told. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0531/1516087-matt-sibanda-funeral-donegal/>
+
+---
+
+## Bee-ware: US truck crash leaves 250 million bees on loose
+
+date: 2025-05-31, from: RTÉ News
+
+A truck crash that set 250 million bees free has sparked warnings in the western US, with police telling people to avoid swarms of the stinging insects. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0531/1516081-bees-us/>
+
+---
+
+## Pope at Mass: Life of priests must be transparent and credible
+
+date: 2025-05-31, from: Vatican News
+
+
+                    <p>Pope Leo XIV celebrates an ordination Mass in St. Peter’s Basilica, and urges priests to welcome God’s grace so they might remain close to the people they serve as credible witnesses.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-ordination-mass-rome-diocese-priests.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-ordination-mass-rome-diocese-priests.html>
+
+---
+
+## Iran has amassed even more near weapons-grade uranium, UN watchdog says
+
+date: 2025-05-31, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7549082.1748694659!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/nuclear-iaea-grossi.JPG' alt='IAEA Director General Rafael Grossi looks on during a press conference.' width='620' height='349' title='IAEA Director General Rafael Grossi looks on during a press conference on the opening day of his agency&apos;s quarterly Board of Governors meeting in Vienna, Austria, March 3, 2025. REUTERS/Elisabeth Mandl'/><p>Iran has further increased its stockpile of uranium enriched to near weapons-grade levels, a confidential report by the United Nations nuclear watchdog said Saturday. In a separate report, the agency called on Tehran to urgently change course and comply with its years-long probe.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/iran-nuclear-weapons-report-1.7549075?cmp=rss>
+
+---
+
+## Ecumenical Patriarch Bartholomew I receives the Laudato Si’ Award
+
+date: 2025-05-31, from: Vatican News
+
+
+                    <p>The Order of Friars Minor honor the Ecumenical Patriarch of Constantinople alongside theologian Leonardo Boff, the Pan-Amazonian Ecclesial Network (REPAM), and the Laudato Si’ Movement with the 2025 Laudato Si' Award.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/ecumenical-patriarch-bartholomew-i-receives-laudato-si-award.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/ecumenical-patriarch-bartholomew-i-receives-laudato-si-award.html>
+
+---
+
+## M*A*S*H actress Loretta Swit has died aged 87
+
+date: 2025-05-31, from: RTÉ News
+
+Loretta Swit, the US actress who brought Major Margaret 'Hot Lips' Houlihan to life in the seminal Korean War comedy series M*A*S*H has died. She was 87. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0531/1516059-mash-actress-loretta-swit-has-died-aged-87/>
+
+---
+
+## Trump planning to double steel, aluminium tariffs to 50%
+
+date: 2025-05-31, from: RTÉ News
+
+US President Donald Trump has said he planned to increase tariffs on imported steel and aluminium to 50% from 25%, ratcheting up pressure on global steel producers and deepening his trade war. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0531/1516060-trump-steel-tariffs/>
+
+---
+
+## US warns China 'preparing' to use military force in Asia
+
+date: 2025-05-31, from: RTÉ News
+
+US Secretary of Defense Pete Hegseth has warned that China was "credibly preparing" to use military force to upend the balance of power in Asia, vowing the United States was "here to stay" in the Indo-Pacific region. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0531/1516055-eu-us-defence/>
+
+---
+
+## US warns China 'preparing' to use military force in Asia
+
+date: 2025-05-31, from: RTÉ News
+
+US Secretary of Defense Pete Hegseth has warned that China was "credibly preparing" to use military force to upend the balance of power in Asia, vowing the United States was "here to stay" in the Indo-Pacific region. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0531/1516055-eu-us-defence/>
+
+---
+
+## No LC, but student sets sights on heart surgeon career
+
+date: 2025-05-31, from: RTÉ News
+
+With the Leaving Cert beginning in just a few days, we are hearing from some of the young people who took alternative paths to the CAO points race. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0531/1515984-leaving-cert-heart-surgeon-student/>
+
+---
+
+## Three stories from inside the Satchwell house
+
+date: 2025-05-31, from: RTÉ News
+
+Prime Time's Barry Cummins has spoken with others who, like him, were also in 3 Grattan Street before Tina's body was discovered, six-and-a-half years after she went missing. 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0531/1515928-buried-below-three-stories-from-inside-the-satchwell-house/>
+
+---
+
+## Money Bags: How to get a handle on airline baggage costs
+
+date: 2025-05-31, from: RTÉ News
+
+Staying on the right side of an airline's baggage policy can take work and planning, but failing to do so might end up costing you more than the price of the flight itself, writes Adam Maguire. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0531/1516006-airline-flight-baggage/>
+
+---
+
+## What future for Children's Health Ireland?
+
+date: 2025-05-31, from: RTÉ News
+
+The stream of controversies surrounding Children's Health Ireland (CHI) have placed the spotlight on the body which is charged with governing and operating the three paediatric hospitals in Dublin - Temple Street, Crumlin and the National Children's Hospital at Tallaght. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0531/1515953-childrens-health-ireland/>
+
+---
+
+## Watch: Leaving Cert & Me - RTÉ reporters' memories
+
+date: 2025-05-31, from: RTÉ News
+
+The Leaving Certificate begin for tens of thousands of students on Wednesday. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0531/1515432-leaving-cert-and-me/>
+
+---
+
+## Growing political pressure for firm Govt action on Gaza
+
+date: 2025-05-31, from: RTÉ News
+
+All day Wednesday and late into the evening on the street facing Leinster House, demonstrators sang a stinging song urging politicians to find their "backbone" and to enact the Occupied Territories Bill. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0531/1515979-occupied-territories-bill-gaza/>
+
+---
+
+## Poland's presidential election set for tight vote
+
+date: 2025-05-31, from: RTÉ News
+
+Tomorrow, Polish voters will cast their ballots in a tight second-round vote to decide whether centrist Rafal Trzaskowski or conservative Karol Nawrocki will become their next president. At stake is the future of the current coalition government's reform agenda. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0531/1516016-polish-election/>
+
+---
+
+## EPA lets cat out of the bag on greenhouse gas emissions
+
+date: 2025-05-31, from: RTÉ News
+
+Confirmation from the Environmental Protection Agency over the past few days that Ireland has gone backwards on its greenhouse gas emissions targets is hugely disappointing. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0531/1515969-emissions-targets/>
+
+---
+
+## New Gaza aid distribution backed by Israel, U.S. met with chaos, gunfire in its 1st week
+
+date: 2025-05-31, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7549055.1748658887!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-aid-foundation.JPG' alt='Two men, amid a crowd, carry sacks of food in their arms. ' width='620' height='349' title='Palestinians carry aid supplies which they received from the U.S.-backed Gaza Humanitarian Foundation, in the central Gaza Strip, May 29, 2025.'/><p>The Gaza Humanitarian Foundation started distributing aid this week, but it was off to a rough start as desperate Palestinians scrambled to get food after weeks of delays. The group denies any reports of violence and says it will push forward with opening more distribution points in the strip.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/gaza-humanitarian-foundation-1.7548778?cmp=rss>
+
+---
+
+## People in India from all walks of life buy gold, and it hasn't lost its allure as price soars
+
+date: 2025-05-31, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7548247.1748628985!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/customers-look-at-gold-items-in-a-jewelry-store.jpg' alt='A group of people look at jewelry displayed in cases in a store.' width='620' height='349' title='Customers look at gold items in a jewelry store in Mumbai. The man behind the counter is the shop&apos;s owner/jeweller.'/><p>The price of gold has skyrocketed in recent months, delighting investors around the world, including in India — where gold is more than an investment and a status symbol but also holds religious and cultural significance.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/business/india-gold-investment-price-1.7548111?cmp=rss>
+
+---
+
+## Conditions in Gaza are catastrophic despite aid - UN
+
+date: 2025-05-31, from: RTÉ News
+
+The situation in Gaza is the worst since the war between Israel and Hamas began 19 months ago, the United Nations has said, despite a resumption of limited aid deliveries in the Palestinian enclave where famine looms. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0531/1516049-middle-east/>
+
+---
+
+## Witkoff dismisses Hamas' response to US truce proposal
+
+date: 2025-05-31, from: RTÉ News
+
+Hamas said today it was seeking amendments to a US-backed proposal for a temporary ceasefire with Israel in Gaza, but US President Donald Trump's envoy rejected the group's response as "totally unacceptable". 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0531/1516049-middle-east-gaza/>
 
 ---
 
@@ -507,7 +1316,7 @@ In Ituri, a province in the east of the Democratic Republic of the Congo (DRC), 
 
 ## Songs of hope rise from Gaza’s ruins
 
-date: 2025-05-30, from: United Nations, Top Stories
+date: 2025-05-30, from: United Nations, Culture and Education
 
 In Al-Jundi Al-Majhool Square – once the bustling heart of Gaza City – music now floats among the tents. The square, transformed into a sprawling displacement camp, shelters hundreds of families driven from their homes by more than 19 months of war. 
 
@@ -543,7 +1352,7 @@ Starving Gazans continue to be deprived of aid as international relief efforts a
 
 ## ‘This is not just ice’: Glaciers support human livelihoods, UN deputy chief says
 
-date: 2025-05-30, from: United Nations, Top Stories
+date: 2025-05-30, from: United Nations, Climate Change
 
 UN Deputy Secretary-General Amina Mohammed called for urgent action to protect water-related ecosystems in remarks to the International Conference on Glaciers’ Preservation in Dushanbe, Tajikistan, on Friday. 
 
@@ -1335,7 +2144,7 @@ date: 2025-05-29, from: Vatican News
 
 ## ‘We are the present’: Tajik climate activist urges leaders to include youth voices in dialogue
 
-date: 2025-05-29, from: United Nations, UN Affairs
+date: 2025-05-29, from: United Nations, Climate Change
 
 A young activist from Tajikistan is speaking up to show that her generation can be part of the solution to combat climate change. 
 
@@ -2305,7 +3114,7 @@ In Gaza, dozens of Palestinians have been reportedly injured and shot trying to 
 
 ## Climate change: World likely to breach 1.5°C limit in next five years
 
-date: 2025-05-28, from: United Nations, Top Stories
+date: 2025-05-28, from: United Nations, Climate Change
 
 Fact: 2024 was the warmest year on record – but the heat is far from over. A new report from the World Meteorological Organization (WMO) warns that global temperatures will likely continue rising, with an 80 per cent chance that at least one year between now and 2029 will be even hotter. 
 
@@ -3333,7 +4142,7 @@ date: 2025-05-27, from: CBC, World News
 
 ## Real cost of disasters is 10 times higher than previously thought, says UN
 
-date: 2025-05-27, from: United Nations, Top Stories
+date: 2025-05-27, from: United Nations, Climate Change
 
 As countries face increasingly steep bills from natural hazards, the true cost of disasters is actually 10 times higher than previously estimated, with far-reaching effects across healthcare, housing, education and employment. 
 
@@ -3369,7 +4178,7 @@ As a controversial United States and Israel-backed aid distribution plan gets un
 
 ## Sanctions relief for Syria offers ‘powerful message of hope,’ says UN migration agency
 
-date: 2025-05-27, from: United Nations, Top Stories
+date: 2025-05-27, from: United Nations, Economic Development
 
 The UN International Organization for Migration (IOM) has welcomed recent decisions by the United States, the United Kingdom and the European Union to ease sanctions against Syria. 
 
@@ -3393,7 +4202,7 @@ As the war between rival militaries in Sudan continues, the World Health Organiz
 
 ## UN aims to transform urgency into action at Nice Ocean Conference
 
-date: 2025-05-27, from: United Nations, Top Stories
+date: 2025-05-27, from: United Nations, Climate Change
 
 Countries are uniting in the French city of Nice next month to save the marine environment.&nbsp; 
 
@@ -4905,505 +5714,4 @@ date: 2025-05-25, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/canada/hamilton/burlington-david-bennett-dominican-republic-1.7542344?cmp=rss>
-
----
-
-## Woman in her 60s killed in Co Meath road collision
-
-date: 2025-05-24, from: RTÉ News
-
-A woman has died after being hit by a car on the outskirts of Ashbourne, Co Meath. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0524/1514791-meath-fatal-collision/>
-
----
-
-## Champions League glory for McCabe as Arsenal win final
-
-date: 2025-05-24, from: RTÉ News
-
-Katie McCabe played her part for Arsenal as the Gunners stunned holders Barcelona to win the UEFA Women's Champions League final in Lisbon. 
-
-<br> 
-
-<https://www.rte.ie/sport/soccer/2025/0524/1514723-champions-league-glory-for-mccabe-as-arsenal-win-final/>
-
----
-
-## Aberdeen stun Celtic to win Scottish Cup in shootout
-
-date: 2025-05-24, from: RTÉ News
-
-Dimitar Mitov was the hero as Aberdeen denied Celtic the treble and secured their first Scottish Gas Scottish Cup triumph for 35 years. 
-
-<br> 
-
-<https://www.rte.ie/sport/soccer/2025/0524/1514722-aberdeen-stun-celtic-to-win-scottish-cup-in-shootout/>
-
----
-
-## Boris Johnson and wife Carrie welcome fourth baby
-
-date: 2025-05-24, from: RTÉ News
-
-Former British prime minister Boris Johnson and his wife Carrie Johnson have welcomed a fourth baby to the family. 
-
-<br> 
-
-<https://www.rte.ie/news/uk/2025/0524/1514771-boris-johnson-baby/>
-
----
-
-## 'First ever' intact Roman pot found in Ireland
-
-date: 2025-05-24, from: RTÉ News
-
-Archaeologists have found what is believed to be the first intact Roman pot in Ireland ever. The pot was unearthed earlier from an archaeological excavation at Drumanagh, near the village of Loughshinny, Co Dublin. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0524/1514758-roman-pot-discovered/>
-
----
-
-## The Ecological damage is grave - Ghana Bishops sound alarm on illegal mining
-
-date: 2025-05-24, from: Vatican News
-
-
-                    <p>The Ghana Catholic Bishops' Conference has issued a searing indictment of the country’s ecological destruction caused by illegal mining, calling for immediate and systemic intervention to halt what they describe as a “threat of national proportion.”</p>
-                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-05/the-ecological-damage-is-grave-ghana-bishops-sound-alarm-on-il.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/africa/news/2025-05/the-ecological-damage-is-grave-ghana-bishops-sound-alarm-on-il.html>
-
----
-
-## Woman, 70s, dies after bicycle hit by tractor in Clare
-
-date: 2025-05-24, from: RTÉ News
-
-A cyclist aged in her 70s has died after being hit by a tractor in Co Clare. The woman was cycling on the L3180 at Toonagh in Tulla when she was struck by the tractor at around 12.45pm. 
-
-<br> 
-
-<https://www.rte.ie/news/ireland/2025/0524/1514766-fatal-clare/>
-
----
-
-##  Russia launches heaviest attack on Kyiv in years
-
-date: 2025-05-24, from: Vatican News
-
-
-                    <p>Authorities in Ukraine say Russia has launched a large-scale drone and missile strike on Kyiv, injuring 15 people. It is seen as one of the biggest assaults on the Ukrainian capital since the war began over three years ago.
-</p>
-                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/russia-launches-heaviest-attack-on-kyiv-in-years.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/world/news/2025-05/russia-launches-heaviest-attack-on-kyiv-in-years.html>
-
----
-
-## Left-wing coalition can be 'real alternative' - McDonald
-
-date: 2025-05-24, from: RTÉ News
-
-The Sinn Féin President has said she "strongly believes" that a coalition of left-wing parties can take the Government on and offer a "real alternative" to what is currently in power. 
-
-<br> 
-
-<https://www.rte.ie/news/politics/2025/0524/1514761-left-coalition/>
-
----
-
-## Saturday's All-Ireland SFC results and reports
-
-date: 2025-05-24, from: RTÉ News
-
-Read how it all unfolded as Meath, Monaghan, Armagh and Tyrone recorded victories. 
-
-<br> 
-
-<https://www.rte.ie/sport/football/2025/0524/1514729-saturdays-all-ireland-sfc-results-and-reports/>
-
----
-
-## Celebrations mark 10 years since marriage equality vote
-
-date: 2025-05-24, from: RTÉ News
-
-Celebrations have been held at Collins Barracks in Dublin, marking 10 years since Ireland voted 'Yes' in the marriage equality referendum. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0524/1514755-equality/>
-
----
-
-## Bono defends his decision to accept Medal of Freedom
-
-date: 2025-05-24, from: RTÉ News
-
-U2 frontman Bono has spoken out against criticism of his decision to accept the Medal of Freedom from then-US President Joe Biden earlier this year. 
-
-<br> 
-
-<https://www.rte.ie/entertainment/2025/0524/1514742-bono-defends-his-decision-to-accept-medal-of-freedom/>
-
----
-
-## Tenth anniversary of Laudato si
-
-date: 2025-05-24, from: Vatican News
-
-
-                    <p>On 24 May 2015, the Pope published his social encyclical on the theme of integral ecology, as a new paradigm of justice. “Laudato sì,” with its title taken from the ‘Canticle of the Creatures’ by Saint Francis, became a cornerstone of the Argentinean pope’s magisterium and a reference point for multiple initiatives in favour of the environment. In six chapters, Pope Francis combines concern for the Earth with an appeal for equity, a commitment to society, a call for peace.</p>
-                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/tenth-anniversary-of-laudato-si.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/pope/news/2025-05/tenth-anniversary-of-laudato-si.html>
-
----
-
-## GAA chiefs to meet Mayo board amid financial situation
-
-date: 2025-05-24, from: RTÉ News
-
-GAA president Jarlath Burns and director general Tom Ryan are to attend a special meeting of the Mayo county board on Monday evening. 
-
-<br> 
-
-<https://www.rte.ie/sport/football/2025/0524/1514748-gaa-chiefs-to-meet-mayo-board-amid-financial-situation/>
-
----
-
-## Minister to deliver apology to family of Shane O'Farrell
-
-date: 2025-05-24, from: RTÉ News
-
-Minister for Justice Jim O'Callaghan will deliver a public apology to the family of hit-and-run victim Shane O'Farrell in the Dáil next week. 
-
-<br> 
-
-<https://www.rte.ie/news/ulster/2025/0524/1514745-shane-ofarrell/>
-
----
-
-## Thousands flee homes in Mozambique as conflict and disasters fuel worsening crisis
-
-date: 2025-05-24, from: United Nations, Top Stories
-
-More than 25,000 people have been forced to flee their homes in northern Mozambique in recent weeks, as conflict and a series of disasters fuel a worsening humanitarian crisis – one that risks deepening as vital relief operations face a severe funding shortfall. 
-
-<br> 
-
-<https://news.un.org/feed/view/en/story/2025/05/1163671>
-
----
-
-## Barron can flourish in the Páirc Uí Chaoimh confusion
-
-date: 2025-05-24, from: RTÉ News
-
-Jamie Barron is averaging 15 possessions per game and over 0-07 in scores and assists - and his brilliance will be much-needed in their Munster SHC clash with Cork. 
-
-<br> 
-
-<https://www.rte.ie/sport/hurling/2025/0524/1514739-barron-can-flourish-in-the-pairc-ui-chaoimh-confusion/>
-
----
-
-## Hundreds queue as new homes go on sale in Dublin
-
-date: 2025-05-24, from: RTÉ News
-
-Hundreds of people queued up as a new housing development went on sale in Dublin 22, between Clondalkin and Lucan. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0524/1514738-housing/>
-
----
-
-## Man arrested in Creeslough investigation is released
-
-date: 2025-05-24, from: RTÉ News
-
-A man aged in his 60s who was arrested yesterday as part of the investigation into an explosion in Creeslough, Co Donegal, in 2022 in which ten people died has been released without charge. 
-
-<br> 
-
-<https://www.rte.ie/news/ulster/2025/0524/1514730-cresslough/>
-
----
-
-## Thoom! Pow!! ZZZzzzzzkkKTTT!!! – Battling Space Aliens Since 1898 (re-run)
-
-date: 2025-05-24, from: Vatican Obervatory
-
-At one time newspapers ran stories about Mars and its Martians. This had an impact on the popular culture of the time, and on our popular culture today. 
-
-<br> 
-
-<https://www.vaticanobservatory.org/sacred-space-astronomy/thoom-pow-zzzzzzzzkkkttt-battling-space-aliens-since-1898-re-run/>
-
----
-
-## German woman due in court after mass stabbing in Hamburg
-
-date: 2025-05-24, from: RTÉ News
-
-A German woman accused of a mass stabbing attack at a train station in Hamburg will appear before a judge later, while the number of victims wounded rose to 18, police said. 
-
-<br> 
-
-<https://www.rte.ie/news/europe/2025/0524/1514727-mass-stabbing-germany/>
-
----
-
-## Holy See opposes rearmament, calls for respect of humanitarian law
-
-date: 2025-05-24, from: Vatican News
-
-
-                    <p>Our Editorial Director reflects on the Holy See’s intervention at the UN, drawing on the words of Pope Leo XIV, noting that concrete steps are urgently needed to protect civilians in armed conflicts and to disarm the world. </p>
-                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/no-to-rearmament-humanitarian-law-must-be-respected.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/vatican-city/news/2025-05/no-to-rearmament-humanitarian-law-must-be-respected.html>
-
----
-
-## Gazan Christian's hope that nightmare of war may soon end
-
-date: 2025-05-24, from: Vatican News
-
-
-                    <p>As Hilda Joseph Ayyad, a parishioner taking refuge at the Holy Family Catholic Parish in Gaza, celebrates her 20th birthday, she shares the weight of war and her spark of hope that conflict may soon end.</p>
-                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/gaza-christian-holy-family-parish-hope-end-war.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/church/news/2025-05/gaza-christian-holy-family-parish-hope-end-war.html>
-
----
-
-## Peaky Blinders auction raises £19k for cancer charity
-
-date: 2025-05-24, from: RTÉ News
-
-An auction of original costumes from BBC TV series Peaky Blinders, including a suit worn by actor Cillian Murphy as Tommy Shelby in the show's final scenes, has raised £19,000 for charity in the UK. 
-
-<br> 
-
-<https://www.rte.ie/entertainment/2025/0524/1514720-peaky-blinders-auction-raises-l19k-for-cancer-charity/>
-
----
-
-## King Charles' new Canada House key is about subverting power, Ts'msyen designer says
-
-date: 2025-05-24, from: CBC, Indigenious News
-
-<img src='https://i.cbc.ca/1.7542950.1748044847!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ts-msyen-artist-morgan-asoyuf.jpg' alt='A woman smiles and in a second photo holds an intricate key.' width='620' height='349' title='Ts&apos;msyen artist Morgan Asoyuf showcases the key she designed for King Charles, which tells the story of Raven Steals the Light, usually attributed to Haida oral tradition.'/><p>Piece was created by Morgan Asoyuf and depicts the story of Raven Steals the Light.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/canada/british-columbia/raven-steals-the-light-key-1.7542918?cmp=rss>
-
----
-
-## Pope: 'Faith and prayer are like salt which gives flavour'
-
-date: 2025-05-24, from: Vatican News
-
-
-                    <p>Pope Leo XIV gives a warm welcome to Vatican employees and their families, and reminds that 'faith and prayer are like salt which gives flavour,' and that by regularly turning to these key ingredients they will best offer their everyday tasks and responsibilities, and observes that 'popes come and go, but the Curia remains.'</p>
-                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-vatican-employees-faith-prayer-salt-discourse.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-vatican-employees-faith-prayer-salt-discourse.html>
-
----
-
-## Nine of Gaza doctor's 10 children 'killed in air strike'
-
-date: 2025-05-24, from: RTÉ News
-
-An Israeli air strike hit the home of a doctor in Gaza killing nine of her 10 children, according to the director of the Hamas-run Health Ministry. 
-
-<br> 
-
-<https://www.rte.ie/news/middle-east/2025/0524/1514714-gaza-israel-strikes/>
-
----
-
-## Laudato si': Pope Francis’ ecological legacy lives on in Malaysia
-
-date: 2025-05-24, from: Vatican News
-
-
-                    <p>Inspired by the late Pope Francis' encyclical Laudato si', which came out ten years ago, the Catholic Church in Malaysia is converting used cooking oil into biofuels, planting trees, cutting single-use plastics, recycling candles, and pledging to live out a “deep ecological spirituality."</p>
-                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/malaysia-pope-francis-ecological-legacy-laudato-si-conservation.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/church/news/2025-05/malaysia-pope-francis-ecological-legacy-laudato-si-conservation.html>
-
----
-
-## Lord's Day Reflection: Don't be afraid
-
-date: 2025-05-24, from: Vatican News
-
-
-                    <p>As the Church celebrates the Sixth Sunday of Easter, Jenny Kraska reflects on the theme, "Don't be afraid - even if you're getting married, ordained, or elected pope."</p>
-                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/lord-s-day-reflection-don-t-be-afraid.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/church/news/2025-05/lord-s-day-reflection-don-t-be-afraid.html>
-
----
-
-## Ukraine says 15 people hurt in 'massive' Russian attack
-
-date: 2025-05-24, from: RTÉ News
-
-Russia launched dozens of drones and ballistic missiles at Kyiv overnight in one of the biggest combined aerial attacks on the Ukrainian capital of the three-year war, damaging several apartment buildings and injuring 15 people. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0524/1514701-ukraine-russia/>
-
----
-
-## Aontú leader hits out at Govt 'dysfunction, incompetence'
-
-date: 2025-05-24, from: RTÉ News
-
-Aontú leader Peadar Tóibín has criticised what he said is the Government's "dysfunction, incompetence, lack of accountability and refusal to listen to the people", in a keynote speech at his party's Ard Fheis. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0524/1514700-aontu-politics/>
-
----
-
-## What is behind Donald Trump's 50% tariff on EU imports?
-
-date: 2025-05-24, from: RTÉ News
-
-What is behind the US President Donald Trump's 50% tariff on EU imports to the US? RTÉ's Washington correspondent Sean Whelan looks at the latest developments on both sides of the Atlantic as well as what may happen in the aftermath following the US president's shock announcement 
-
-<br> 
-
-<https://www.rte.ie/news/analysis-and-comment/2025/0524/1514693-us-eu-analysis/>
-
----
-
-## EU-Israel deal: Why Dutch succeeded where Ireland failed
-
-date: 2025-05-24, from: RTÉ News
-
-Kaja Kallas, the EU's foreign policy chief will instruct the EU's diplomatic arm to carry out a review of the EU-Israel agreement, a small step in relative terms. But why did the Dutch request succeed where Ireland and Spain previously failed? 
-
-<br> 
-
-<https://www.rte.ie/news/analysis-and-comment/2025/0524/1514664-eu-israel-analysis/>
-
----
-
-## Stolen World War II gear returned after online campaign
-
-date: 2025-05-24, from: RTÉ News
-
-Landing gear from a World War II bomber stolen from a memorial to 15 RAF airmen killed in a crash in the Cooley Mountains in Co Louth in 1942 has been returned after a social media campaign by a local community group. 
-
-<br> 
-
-<https://www.rte.ie/news/leinster/2025/0524/1514696-war-items-returned/>
-
----
-
-## Is it too late for the US to catch up with China on tech?
-
-date: 2025-05-24, from: RTÉ News
-
-China has outstripped the United States as a global leader in cutting edge science and technology research, according to the Australian Strategic Policy Institute. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0524/1514634-china-tech-us/>
-
----
-
-## The video that blindsided the South African president
-
-date: 2025-05-24, from: RTÉ News
-
-We know Donald Trump can put on a show, and that's exactly what he did in the Oval Office on Wednesday during his South African counterpart Cyril Ramaphosa's visit. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0524/1514606-clarity-white-genocide-trump-claims/>
-
----
-
-## Watch: Exam time tips for sleep, nutrition and more
-
-date: 2025-05-24, from: RTÉ News
-
-On Wednesday 4 June, thousands of secondary school pupils will begin their Leaving Cert and Junior Cycle exams. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0524/1514540-exam-tips/>
-
----
-
-## How Canada's relationship with Israel went from 'best friend' to breakdown
-
-date: 2025-05-24, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7509158.1748035834!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/cda-israel-palestinians-20250412-ottawa-palestine-march-april-2025-parliament-hill.jpg' alt='A white woman on a crowded street holds up a flag that is half the Canadian flag and half the Israel flag. ' width='620' height='349' title='A Pro-Israel protestor waves a Canada and Israel flag in-front of Pro-Palestinian protestors during a demonstration protesters are calling a &quot;National March for Palestine&quot; in Ottawa, on Saturday, April 12, 2025.'/><p>The Trudeau government started out in 2015 by continuing the strongly pro-Israel policies it inherited from Stephen Harper. From 2019 on, though, the growing extremism of Israeli politics began to strain ties. But it was Israel's conduct of the current war in Gaza that broke the relationship.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/politics/canada-israel-friendship-gaza-1.7541957?cmp=rss>
-
----
-
-## EU urges respect not threats as Trump pushes 50% tariff
-
-date: 2025-05-24, from: RTÉ News
-
-The European Commission has urged the US to bring respect, not threats, to trade talks after President Donald Trump pushed for a 50% tariff on EU goods. 
-
-<br> 
-
-<https://www.rte.ie/news/europe/2025/0524/1514698-eu-trump-tariffs/>
 

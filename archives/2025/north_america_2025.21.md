@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-05-31 14:08:01
+updated: 2025-06-01 06:08:29
 ---
 
 # north america
 
-(date: 2025-05-31 14:08:01)
+(date: 2025-06-01 06:08:29)
+
+---
+
+## How YOU Helped Knock Musk Out of DC–& of Politics
+
+date: 2025-05-31, from: The Contrarian
+
+Publisher's Roundup, 20 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-you-helped-knock-musk-out-of>
+
+---
+
+##  YOU LOVE TO SEE IT: Climate Data Is Unscrubbed 
+
+date: 2025-05-31, from: The Lever News
+
+ Farmers score a win against climate censorship, striking workers get help, courts defend public schools, and paradise is protected.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-climate-data-is-unscrubbed/>
 
 ---
 
@@ -788,30 +812,4 @@ date: 2025-05-25, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-secrets-lies-and-audiotape/>
-
----
-
-##  YOU LOVE TO SEE IT: It’s A Sunny Day On Sesame Street 
-
-date: 2025-05-24, from: The Lever News
-
- Elmo gets an upgrade, climate villains pay up, a judge rules for peace, and data centers cool off.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-its-a-sunny-day-on-sesame-street/>
-
----
-
-## Jim Crogan, 1951-2025: Reporter Was Unsung but Not Forgotten
-
-date: 2025-05-24, from: Capital and Main
-
-<p>Former colleagues remember the veteran journalist as “an invaluable voice” in Los Angeles media.</p>
-<p>The post <a href="https://capitalandmain.com/jim-crogan-1951-2025-reporter-was-unsung-but-not-forgotten">Jim Crogan, 1951-2025: Reporter Was Unsung but Not Forgotten</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
- 
-
-<br> 
-
-<https://capitalandmain.com/jim-crogan-1951-2025-reporter-was-unsung-but-not-forgotten>
 

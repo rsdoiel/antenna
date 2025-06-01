@@ -1,11 +1,49 @@
 ---
 title: journalism
-updated: 2025-05-31 14:08:07
+updated: 2025-06-01 06:08:35
 ---
 
 # journalism
 
-(date: 2025-05-31 14:08:07)
+(date: 2025-06-01 06:08:35)
+
+---
+
+## Los Angeles Metro names new chief to lead in-house police force
+
+date: 2025-06-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Los Angeles Metro will soon have its first chief of police and emergency management.
+Metro announced in a May 7 statement that William Scott, who was the San Francisco Police Department&#8217;s chief for eight years and worked for LAPD for 27 years, will lead the new Transit Community Public Safety Department. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/31/los-angeles-metro-names-new-chief-to-lead-in-house-police-force/>
+
+---
+
+## West LA food
+
+date: 2025-05-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+From buzzy new openings to longtime neighborhood staples, this project gathers food coverage across West Los Angeles. Whether keeping up with the latest or revisiting familiar flavors, there&#8217;s plenty to explore. 
+
+<br> 
+
+<https://features.dailybruin.com/2025/west-la-food-25/>
+
+---
+
+## NWWNC Q&A: Student member Arjun Pathiyal discusses important issues, goals for Westwood
+
+date: 2025-05-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+Arjun Pathiyal won a position on the North Westwood Neighborhood Council as an undergraduate student board member in April.
+Pathiyal, a second-year political science student, sat down with Daily Bruin staff writer Amy Wong to discuss how he hopes to enact change on the council. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/30/nwwnc-qa-student-member-arjun-pathiyal-discusses-important-issues-goals-for-westwood/>
 
 ---
 
@@ -492,85 +530,4 @@ The rooster, who was deemed &#8220;Baraaack&#8221; &#8211; after former presiden
 <br> 
 
 <https://dailybruin.com/2025/05/24/co-op-residents-defend-rooster-dropped-off-in-nearby-lot-despite-disturbances/>
-
----
-
-## Metrolink aims to make public transit a familiar and reliable option for COC students
-
-date: 2025-05-24, from: The Canyon News (COC Student Newspaper)
-
-<p>Commuting can be a challenge for college students in California. But a&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/metrolink-pass/">Metrolink aims to make public transit a familiar and reliable option for COC students</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
- 
-
-<br> 
-
-<https://canyonsnews.com/metrolink-pass/>
-
----
-
-## Film review: Despite wave of changes, standout lead helps ‘Lilo & Stitch’ remake stay afloat
-
-date: 2025-05-24, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated May 26 at 6:01 p.m.</em>
-Warning: spoilers ahead.
-In leaving behind signature threads of the cherished classic, “Lilo &#38; Stitch” struggles to honor the true meaning of ʻohana. 
-
-<br> 
-
-<https://dailybruin.com/2025/05/23/film-review-despite-wave-of-changes-standout-lead-helps-lilo-stitch-remake-stay-afloat/>
-
----
-
-## Over 20 labor demonstrators arrested during UC Regents public comment sit-in
-
-date: 2025-05-24, from: The Daily Bruin (UCLA Student Newspaper)
-
-UCPD arrested around two dozen labor union demonstrators who staged a sit-in during a public comment session at the UC Board of Regents’ May meeting.
-The board held its bimonthly meeting May 13 to 15 at UC San Francisco. 
-
-<br> 
-
-<https://dailybruin.com/2025/05/23/over-20-labor-demonstrators-arrested-during-uc-regents-public-comment-sit-in/>
-
----
-
-## Earthquakes are inevitable in Santa Clarita but how we stay prepared is important
-
-date: 2025-05-24, from: The Canyon News (COC Student Newspaper)
-
-<p>The Earth never stops moving, from its orbit around the sun to&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/earthquakes-are-inevitable-in-santa-clarita-but-how-we-stay-prepared-is-important/">Earthquakes are inevitable in Santa Clarita but how we stay prepared is important</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
- 
-
-<br> 
-
-<https://canyonsnews.com/earthquakes-are-inevitable-in-santa-clarita-but-how-we-stay-prepared-is-important/>
-
----
-
-## Album review: Joe Jonas establishes distinct artistic voice in genre-spanning solo comeback
-
-date: 2025-05-24, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated May 23 at 10:17 p.m.</em>
-Joe Jonas is eager to step out of the shadow of his iconic brotherly trio.
-Carving out a new chapter in his career, “Music For People Who Believe In Love” is Jonas’ first solo album in over a decade. 
-
-<br> 
-
-<https://dailybruin.com/2025/05/23/album-review-joe-jonas-establishes-distinct-artistic-voice-in-genre-spanning-solo-comeback/>
-
----
-
-## Track by Track Review: Arm’s Length ‘There’s A Whole World Out There’
-
-date: 2025-05-24, from: The Sundail (CSUN Student Newspaper)
-
-Ontario, Canada-based emo band Arm’s Length released their sophomore album “There’s A Whole World Out There,” their first under Pure Noise Records. Spanning 12 tracks and just over 46 minutes,... 
-
-<br> 
-
-<https://sundial.csun.edu/193929/arts-entertainment/track-by-track-review-arms-length-theres-a-whole-world-out-there/>
 

@@ -1,11 +1,56 @@
 ---
 title: small papers
-updated: 2025-05-31 14:08:11
+updated: 2025-06-01 06:08:40
 ---
 
 # small papers
 
-(date: 2025-05-31 14:08:11)
+(date: 2025-06-01 06:08:40)
+
+---
+
+## Man shot during argument in Belmont Shore, police say
+
+date: 2025-05-31, from: Long Beach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>He was able to take himself to the hospital, and the woman who is believed to have shot him fled the scene, police said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/man-shot-during-argument-in-belmont-shore-police-say">Man shot during argument in Belmont Shore, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/man-shot-during-argument-in-belmont-shore-police-say>
+
+---
+
+## New bike lanes, half a dozen crosswalks, 400 trees: The remade Artesia Boulevard is complete
+
+date: 2025-05-31, from: Long Beach Post
+
+<figure><img width="1024" height="593" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg-1024x593.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg-1024x593.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg-300x174.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg-768x445.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg-186x108.jpg 186w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg-400x232.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The roadway had been a “high-injury corridor” for pedestrians and bicyclists. A $44.2 million project just added a bevy of safety improvements.</p>
+<p>The post <a href="https://lbpost.com/news/city/artesia-boulevard-construction-complete-street-bike-lanes">New bike lanes, half a dozen crosswalks, 400 trees: The remade Artesia Boulevard is complete</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/artesia-boulevard-construction-complete-street-bike-lanes>
+
+---
+
+## Efilism, the ideology behind the Palm Springs bombing, has been spread online for years
+
+date: 2025-05-31, from: Long Beach Post
+
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The deceased suspect in the bombing of a Palm Springs fertility clinic on May 17 espoused an “anti-life” ideology called “efilism” that was invented by Gary Mosher, a 65-year-old New Jersey man who has spent years promoting his views in hundreds of YouTube videos. Guy Edward Bartkus, 25, who injured four bystanders and killed himself [&#8230;]</p>
+<p>The post <a href="https://lbpost.com/news/efilism-the-ideology-behind-the-palm-springs-bombing-has-been-spread-online-for-years">Efilism, the ideology behind the Palm Springs bombing, has been spread online for years</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/efilism-the-ideology-behind-the-palm-springs-bombing-has-been-spread-online-for-years>
 
 ---
 
@@ -473,34 +518,4 @@ date: 2025-05-26, from: Long Beach Post
 <br> 
 
 <https://lbpost.com/news/crime/shoreline-village-shooting-leaves-3-wounded-including-14-year-old-boy-police-say>
-
----
-
-## Speeding driver dies after swerving to avoid car crash, running into Metro train, LBPD says
-
-date: 2025-05-24, from: Long Beach Post
-
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The 21-year-old driver did not have her headlights on and may have been impaired, Long Beach police said.</p>
-<p>The post <a href="https://lbpost.com/news/crime/metro-train-crash-long-beach-boulevard">Speeding driver dies after swerving to avoid car crash, running into Metro train, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/crime/metro-train-crash-long-beach-boulevard>
-
----
-
-## One person shot on 710 Freeway in Long Beach, CHP says
-
-date: 2025-05-24, from: Long Beach Post
-
-<figure><img width="900" height="600" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1.png 900w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-300x200.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-768x512.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-162x108.png 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-400x267.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The victim was found wounded in the driver's seat of a pickup truck.</p>
-<p>The post <a href="https://lbpost.com/news/crime/one-person-shot-on-710-freeway-in-long-beach-chp-says">One person shot on 710 Freeway in Long Beach, CHP says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/crime/one-person-shot-on-710-freeway-in-long-beach-chp-says>
 

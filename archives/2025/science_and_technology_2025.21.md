@@ -1,11 +1,59 @@
 ---
 title: science and technology
-updated: 2025-05-31 14:08:03
+updated: 2025-06-01 06:08:32
 ---
 
 # science and technology
 
-(date: 2025-05-31 14:08:03)
+(date: 2025-06-01 06:08:32)
+
+---
+
+## Mysterious leaker GangExposed outs Conti kingpins in massive ransomware data dump
+
+date: 2025-05-31, updated: 2025-05-31, from: The Register (UK I.T. News)
+
+<h4>&#39;It&#39;s a high-stakes intelligence war&#39; he told El Reg</h4> <p><strong>exclusive</strong>  A mystery whistleblower calling himself GangExposed has exposed key figures behind the Conti and Trickbot ransomware crews, publishing a trove of internal files and naming names.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/31/gangexposed_coni_ransomware_leaks/>
+
+---
+
+## Aussie businesses now have to fess up when they pay off ransomware crims
+
+date: 2025-05-31, updated: 2025-05-31, from: The Register (UK I.T. News)
+
+<h4>Move should help government track infections and plan new legislation</h4> <p>Australia now requires large companies to inform the government if they have paid off ransomware perps.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/31/australian_ransomware_reporting/>
+
+---
+
+## Flatpak “not being actively developed anymore”
+
+date: 2025-05-31, from: OS News
+
+At the Linux Application Summit (LAS) in April, Sebastian Wick said that, by many metrics, Flatpak is doing great. The Flatpak application-packaging format is popular with upstream developers, and with many users. More and more applications are being published in the Flathub application store, and the format is even being adopted by Linux distributions like Fedora. However, he worried that work on the Flatpak project itself had stagnated, and that there were too few developers able to review and merge code beyond basic maintenance. ↫ Joe Brockmeier at LWN After reading this article and the long list of problems the Flatpak project is facing, I can&#8217;t really agree that &#8220;Flatpak is doing great&#8221;. Apparently, Flatpak is in maintenance mode, while major problems remain untouched, because nobody is working on the big-ticket items anymore. This seems like a big problem for a project that&#8217;s still facing a myriad of major issues. For instance, Flatpak still uses PulseAudio instead of Pipewire, which means that if a Flatpak applications needs permission to play audio, it also automatically gets permission to use the microphone. NVIDIA drivers also pose a big problem, network namespacing in Flatpak is &#8220;kind of ugly&#8221;, you can&#8217;t specify backwards-compatible permissions, and tons more problems. There&#8217;s a lot of ideas and proposed solutions, but nobody to implement them, leaving Flatpak stagnated. Now that Flatpak is adopted by quite a few popular desktop Linux distributions, it doesn&#8217;t seem particularly great that it&#8217;s having such issues with finding enough manpower to keep improving it. There&#8217;s a clear push, especially among developers of end-user focused applications, for everyone to use Flatpak, but is that push really a wise idea if the project has stagnated? Go into any thread where people discuss the use of Flatpaks, and there&#8217;s bound to be people experiencing problems, inevitably followed by suggested fixes to use third-party tools to break the already rather porous sandbox. Flatpak feels like a project that&#8217;s far from done or feature-complete, causing normal, every-day users to experience countless problems and issues. Reading straight fromt he horse&#8217;s mouth that the project has stagnated and isn&#8217;t being actively developed anymore is incredibly worrying. 
+
+<br> 
+
+<https://www.osnews.com/story/142467/flatpak-not-being-actively-developed-anymore/>
+
+---
+
+## The Copilot delusion
+
+date: 2025-05-31, from: OS News
+
+And the &#8220;copilot&#8221; branding. A real copilot? That’s a peer. That’s a certified operator who can fly the bird if you pass out from bad taco bell. They train. They practice. They review checklists with you. GitHub Copilot is more like some guy who played Arma 3 for 200 hours and thinks he can land a 747. He read the manual once. In Mandarin. Backwards. And now he’s shouting over your shoulder, &#8220;Let me code that bit real quick, I saw it in a Slashdot comment!&#8221; At that point, you’re not working with a copilot. You’re playing Russian roulette with a loaded dependency graph. You want to be a real programmer? Use your head. Respect the machine. Or get out of the cockpit. ↫ Jj at Blogmobly The world has no clue yet that we&#8217;re about to enter a period of incredible decline in software quality. &#8220;AI&#8221; is going to do more damage to this industry than ten Electron frameworks and 100 managers combined. 
+
+<br> 
+
+<https://www.osnews.com/story/142465/the-copilot-delusion/>
 
 ---
 
@@ -1602,52 +1650,4 @@ date: 2025-05-25, updated: 2025-05-25, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/05/25/ai_is_a_consumer_technology/>
-
----
-
-## Linux kernel driver plugs rotary phone dial into the kernel
-
-date: 2025-05-24, from: OS News
-
-A Linux kernel driver that turns a rotary phone dial into an evdev input device. ↫ Stefan Wiehler The year of Linux on the desktop is finally here. Thanks to Oleksandr Natalenko for pointing this gem out. 
-
-<br> 
-
-<https://www.osnews.com/story/142436/linux-kernel-driver-plugs-rotary-phone-dial-into-the-kernel/>
-
----
-
-## Cybercrime is 'orders of magnitude' larger than state-backed ops, says ex-White House advisor
-
-date: 2025-05-24, updated: 2025-05-24, from: The Register (UK I.T. News)
-
-<h4>Michael Daniel also thinks Uncle Sam should increase help to orgs hit by ransomware</h4> <p><strong>INTERVIEW</strong>  Uncle Sam&#39;s cybersecurity apparatus can&#39;t only focus on China and other nation-state actors, but also has to fight the much bigger damage from plain old cybercrime, says former White House advisor Michael Daniel. And the Trump administration&#39;s steep cuts to federal government staff are making that a lot harder.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/05/24/cyber_crime_bigger_than_nation_state/>
-
----
-
-## Remembering John Young, co-founder of web archive Cryptome
-
-date: 2025-05-24, updated: 2025-05-26, from: The Register (UK I.T. News)
-
-<h4>The original leak site that never sold out, never surrendered</h4> <p><strong>Obituary</strong>  John Young, the co-founder of the legendary internet archive Cryptome, died at the age of 89 on March 28. <em>The Register</em> talked to friends and peers who gave tribute to a bright, pugnacious man who was devoted to the public&#39;s right to know.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/05/24/john_young_obituary/>
-
----
-
-## Forgotten Turing treasure trove rescued from attic goes under the hammer
-
-date: 2025-05-24, updated: 2025-05-24, from: The Register (UK I.T. News)
-
-<h4>Computing pioneer&#39;s personal papers expected to fetch tens of thousands</h4> <p>Precious scientific papers once belonging to wartime codebreaking genius Alan Turing – rescued from an attic clear-out where they faced destruction – are set to fetch a fortune at auction next month.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/05/24/turing_papers_auction/>
 

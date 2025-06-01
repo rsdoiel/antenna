@@ -1,11 +1,71 @@
 ---
 title: motorcycles
-updated: 2025-05-31 14:08:09
+updated: 2025-06-01 06:08:38
 ---
 
 # motorcycles
 
-(date: 2025-05-31 14:08:09)
+(date: 2025-06-01 06:08:38)
+
+---
+
+## Stop Buying Cheap ATVs for Your Kids, They’re Crap and Dangerous
+
+date: 2025-06-01, from: Ride Apart, Electric Motorcycle News
+
+It's hard to keep reporting on this without feeling outraged. 
+
+<br> 
+
+<https://www.rideapart.com/news/761163/chepei-youth-atv-recall/>
+
+---
+
+## 2025 ARCA West at Colorado: Team Reactions and Analysis
+
+date: 2025-06-01, from: Kickin the Tires blog
+
+By Vincent Delforge, Staff Writer The fourth race of the 2025 season, the Colorado 150, took place on the 0.375-mile paved oval at Colorado National Speedway in Dacono, CO. The&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/2025-arca-west-at-colorado-team-reactions-and-analysis/>
+
+---
+
+## INDY NXT points leader Dennis Hauger getting full US experience as he takes to Detroit streets
+
+date: 2025-05-31, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer Imagine you were planning a trip across the country and the four stops on the trip were as follows: St. Petersburg, Birmingham, Ala., Indianapolis and&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/other/indy-nxt-points-leader-dennis-hauger-getting-full-us-experience-as-he-takes-to-detroit-streets/>
+
+---
+
+## Herta breaks track record to claim pole for Sunday’s Chevrolet Detroit Grand Prix
+
+date: 2025-05-31, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer Colton Herta continues to be the king of the Detroit streets after winning pole for Sunday’s Chevrolet Detroit Grand Prix.&#160; Herta broke the track record&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/herta-breaks-track-record-to-claim-pole-for-sundays-chevrolet-detroit-grand-prix/>
+
+---
+
+## Sky-High Trump Tariffs on Powersports? Not So Fast, Says Federal Trade Court
+
+date: 2025-05-31, from: Ride Apart, Electric Motorcycle News
+
+A bipartisan panel of judges declared most tariffs imposed so far illegal. What's next? 
+
+<br> 
+
+<https://www.rideapart.com/news/761148/trump-tariffs-trade-court-illegal/>
 
 ---
 
@@ -367,6 +427,18 @@ Both unbelievably and amazingly, she did it. Here's how.
 
 ---
 
+## Ryan Ellis Finishes Ninth, Scoring First Career NASCAR Xfinity Series Top 10
+
+date: 2025-05-27, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor CONCORD, N.C. – Before the BetMGM Xfinity Series race, the best finish Ryan Ellis ever had in NASCAR’s second-tier series was 11th, which came twice, once&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/ryan-ellis-finishes-ninth-scoring-first-career-nascar-xfinity-series-top-10/>
+
+---
+
 ## From Barcelona to Indy: The Racing Journey of Alex Palou
 
 date: 2025-05-26, from: Kickin the Tires blog
@@ -497,76 +569,4 @@ CONCORD, N.C. (May 24, 2025) – Charlotte Motor Speedway’s Memorial Day weeke
 <br> 
 
 <https://kickinthetires.net/nascar/coca-cola-600-sold-out-for-4th-consecutive-year/>
-
----
-
-## Dreyer & Reinbold Racing, Cusick Motorsports look to continue Indy 500 one-off success with Ryan Hunter-Reay and Jack Harvey
-
-date: 2025-05-24, from: Kickin the Tires blog
-
-By Noah Poser, Staff Writer Dreyer &#38; Reinbold Racing has been a part of the INDYCAR garage dating back to before the turn of the century. Fast forward to present&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/indycar/dreyer-reinbold-racing-cusick-motorsports-look-to-continue-indy-500-one-off-success-with-ryan-hunter-reay-and-jack-harvey/>
-
----
-
-## GALLERY: Carb Day At The Indianapolis 500
-
-date: 2025-05-24, from: Kickin the Tires blog
-
-Photos by Jeremy Bryner/Kickin&#8217; the Tires 
-
-<br> 
-
-<https://kickinthetires.net/indycar/gallery-carb-day-at-the-indianapolis-500/>
-
----
-
-## Jimmie Johnson Scholarship Recipient Honored Ahead of Coca-Cola 600, Johnson’s 700th Career Cup Start
-
-date: 2025-05-24, from: Kickin the Tires blog
-
-CONCORD, N.C. (May 24, 2025) &#8211; Ahead of Sunday’s Coca-Cola 600, the 700th career Cup Series start for NASCAR Hall of Famer Jimmie Johnson, Charlotte Motor Speedway honored Lucy Roach,&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/jimmie-johnson-scholarship-recipient-honored-ahead-of-coca-cola-600-johnsons-700th-career-cup-start/>
-
----
-
-## Austin Green Captures General Tire 150 Victory in ARCA
-
-date: 2025-05-24, from: Kickin the Tires blog
-
-CONCORD, NC (May 23, 2025) – Austin Green honed his skills as an aspiring race-car driver on Charlotte Motor Speedway&#8217;s frontstretch quarter-mile. On Friday, Green was the teacher, the General&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/austin-green-captures-general-tire-150-victory-in-arca/>
-
----
-
-## Hot Damn, Look At BMW's New Insane Superbike
-
-date: 2025-05-24, from: Ride Apart, Electric Motorcycle News
-
-A preview at what's to come both for you and MotoGP? 
-
-<br> 
-
-<https://www.rideapart.com/news/760581/bmw-concept-superbike-concept-rr-villa-deste/>
-
----
-
-## ARCA Menards West Series: 2025 Colorado 150 Race Preview
-
-date: 2025-05-24, from: Kickin the Tires blog
-
-The fourth race of the 2025 ARCA Menards West Series season will take place this Saturday, May 24, at Colorado National Speedway (CNS). This 0.375-mile short-track, paved oval is located&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/arca-menards-west-series-2025-colorado-150-race-preview/>
 
