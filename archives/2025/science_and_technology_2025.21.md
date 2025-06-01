@@ -1,11 +1,23 @@
 ---
 title: science and technology
-updated: 2025-06-01 06:08:32
+updated: 2025-06-01 14:07:15
 ---
 
 # science and technology
 
-(date: 2025-06-01 06:08:32)
+(date: 2025-06-01 14:07:15)
+
+---
+
+## VMware drops the lowest tier of its partner program – except in Europe
+
+date: 2025-06-01, updated: 2025-06-01, from: The Register (UK I.T. News)
+
+<h4>Wants channel to be all in on private cloud as more details emerge on VCF 9 licensing and hardware</h4> <p>Broadcom’s VMware business unit has dropped the lowest tier of its channel program, a move one analyst told <i>The Register</i> will benefit its rivals.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/01/vmware_channel_changes/>
 
 ---
 

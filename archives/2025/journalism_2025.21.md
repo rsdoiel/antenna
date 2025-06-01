@@ -1,11 +1,37 @@
 ---
 title: journalism
-updated: 2025-06-01 06:08:35
+updated: 2025-06-01 14:07:17
 ---
 
 # journalism
 
-(date: 2025-06-01 06:08:35)
+(date: 2025-06-01 14:07:17)
+
+---
+
+## Film review: ‘Bring Her Back’ twists horror with familial relationships through gutting acting
+
+date: 2025-06-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated June 1 at 12:22 p.m.</em>
+Editor’s note: This review contains depictions of abuse and mental health that may be disturbing to some readers. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/01/film-review-bring-her-back-twists-horror-with-familial-relationships-through-gutting-acting/>
+
+---
+
+## Q&A: Ahead of Head in the Clouds debut, PIAO talks collaboration, mixing genres
+
+date: 2025-06-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+PIAO is inviting festival goers to join her in putting their heads in the clouds.
+The Shanghai-born, Los Angeles-based singer-songwriter is taking the stage at Head in the Clouds Music &#38; Arts Festival for the first time in her career today. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/01/qa-ahead-of-head-in-the-clouds-debut-piao-talks-collaboration-mixing-genres/>
 
 ---
 

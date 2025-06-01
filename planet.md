@@ -1,11 +1,165 @@
 ---
 title: planet
-updated: 2025-06-01 06:08:28
+updated: 2025-06-01 14:07:11
 ---
 
 # planet
 
-(date: 2025-06-01 06:08:28)
+(date: 2025-06-01 14:07:11)
+
+---
+
+## Probe after man dies in shooting incident, child injured
+
+date: 2025-06-01, from: RTÉ News
+
+Gardaí are investigating a shooting incident in Co Carlow this evening during which one man died and a child was injured. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0601/1516220-carlow-shooting/>
+
+---
+
+## Armagh blossom against misfiring Dubs
+
+date: 2025-06-01, from: RTÉ News
+
+All-Ireland champions Armagh booked their place in the last eight of this year's All-Ireland as they accounted for Dublin 0-24 to 0-19 at Croke Park 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0601/1516154-armagh-blossom-against-misfiring-dubs/>
+
+---
+
+## Poland votes in presidential poll
+
+date: 2025-06-01, from: Vatican News
+
+
+                    <p>Poland has begun voting in a tight runoff vote for the presidency, with opinion polls showing a close race between a liberal and a nationalist. 
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/poland-elections-president.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/poland-elections-president.html>
+
+---
+
+## 31 civilians killed in Gaza by tank shellfire
+
+date: 2025-06-01, from: Vatican News
+
+
+                    <p>Medics in Gaza say at least 31 Palestinians have been killed and more than 150 wounded by Israeli tank fire.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/gaza-aid-israeli-tank-fire-civilians-killed.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/gaza-aid-israeli-tank-fire-civilians-killed.html>
+
+---
+
+## Pope to Giro d’Italia cyclists: You are role models for young people
+
+date: 2025-06-01, from: Vatican News
+
+
+                    <p>Pope Leo XIV welcomes the cylists of the Giro d’Italia race as they passed through Vatican City, highlighting their role as examples for the younger generations.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-to-giro-ditalia-cyclists-you-are-role-models.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-to-giro-ditalia-cyclists-you-are-role-models.html>
+
+---
+
+## Communicating hope in a time of crisis: Reflection from the Holy Land
+
+date: 2025-06-01, from: Vatican News
+
+
+                    <p>On World Communications Day, journalist Miral Atik reflects on Pope Francis' Message for the 59th World Day of Social Communications.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/communicating-hope-in-time-of-crisis-reflection-from-holy-land.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/communicating-hope-in-time-of-crisis-reflection-from-holy-land.html>
+
+---
+
+## Over 2,000 driving test no shows so far in 2025 - RSA
+
+date: 2025-06-01, from: RTÉ News
+
+Road Safety Authority figures, up to the end of April 2025, show that 2,397 people who had applied for and paid €85 to sit their driving test did not show up. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0601/1516201-rsa-driving-test/>
+
+---
+
+## Man feels 'let down' after refused son's army allowance
+
+date: 2025-06-01, from: RTÉ News
+
+A man whose son was killed while serving with the Irish Defence Forces has found that he is not entitled to keep an allowance which was granted to his wife. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0601/1516200-army-pension/>
+
+---
+
+## Ukrainian drone attack on Russian air bases took more than a year to prepare, Zelenskky says
+
+date: 2025-06-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7549497.1748810877!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-ukraine-war.jpg' alt='A photo of a screen shows a plane on fire.' width='620' height='349' title='In this image taken from video released June 1, 2025, by a source in the Ukrainian Security Service shows a Ukrainian drone striking Russian planes deep in Russia&apos;s territory. (Source in the Ukrainian Security Service via AP)'/><p>On the eve of peace talks, Ukraine and Russia sharply stepped up the ongoing war with one of the biggest drone battles of the conflict and an ambitious attack carried out on nuclear-capable bombers deep in Siberia.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/russia-ukraine-drone-attack-peace-talks-1.7549401?cmp=rss>
+
+---
+
+## Pope Leo XIV joins Augustinian Prior General for birthday lunch
+
+date: 2025-06-01, from: Vatican News
+
+
+                    <p>Following the Mass for the Jubilee of Families, Children, Grandparents, and the Elderly, the Pope joined the nearby St. Monica International College for lunch in honour of Father Alejandro Moral’s 70th birthday, a longtime friend.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-lunch-birthday-augustinian-prior-general.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-lunch-birthday-augustinian-prior-general.html>
+
+---
+
+## Committee chair wants OTB passed by 'summer recess'
+
+date: 2025-06-01, from: RTÉ News
+
+The chair of the Oireachtas committee which will examine the Government version of the Occupied Territories Bill has said he wants to see it passed into law "by the summer recess". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0601/1516196-occupied-territories-bill/>
 
 ---
 
@@ -18,6 +172,78 @@ Ukraine has launched a "large-scale" attack against Russian military aircraft, h
 <br> 
 
 <https://www.rte.ie/news/ukraine/2025/0601/1516192-ukraine-russia/>
+
+---
+
+## Ukraine stages major drone attack on Russian aircraft
+
+date: 2025-06-01, from: RTÉ News
+
+Ukraine President Volodymyr Zelensky has said a mass drone strike targeting Russian airbases is Ukraine's "most long-range operation" in more than three years of war. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0601/1516192-ukraine-russia-drone/>
+
+---
+
+## Sunday's Football Championship results and reports
+
+date: 2025-06-01, from: RTÉ News
+
+The action as it happened from Sunday's action in Round 2 of the All-Ireland SFC group phase 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0601/1516182-sundays-football-championship-updates/>
+
+---
+
+## In the age of AI, is doubt becoming a political strategy?
+
+date: 2025-06-01, from: RTÉ News
+
+As references to AI become more common in political discourse, what happens when democratic governments begin using it to question the authenticity of real events? 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0601/1515894-in-the-age-of-ai-is-doubt-becoming-a-political-strategy/>
+
+---
+
+## Lifting of Israeli blockade ‘the only way to avert mass starvation’ in Gaza: UNRWA chief
+
+date: 2025-06-01, from: United Nations, Top Stories
+
+Amid disputed reports of Israeli forces firing on civilians near a new privatised aid distribution point in southern Gaza, the head of the Palestine refugee agency, UNRWA, said on Sunday that lifting the months-long aid blockade of the enclave is the only way to avoid “mass starvation”. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1163916>
+
+---
+
+## Helpless in the face of hunger: Gaza families pray for deliverance – or death
+
+date: 2025-06-01, from: United Nations, Top Stories
+
+“I stood helpless in the face of my son's hunger. I cried a lot and told him to drink from our little water to satisfy his hunger,” said Zeenat, a young Palestinian woman speaking to UN News from the battered Gaza Strip. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1163911>
+
+---
+
+## As AI evolves, pressure mounts to regulate ‘killer robots’
+
+date: 2025-06-01, from: United Nations, Top Stories
+
+A world in which algorithms determine the fate of soldiers and civilians alike is no longer hypothetical. AI-driven drones are reshaping warfare, raising deep ethical questions about autonomy in combat.&nbsp;As international policymakers scramble to set ground rules, the race is on to rein in this rapidly evolving technology. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1163891>
 
 ---
 
@@ -121,7 +347,7 @@ date: 2025-06-01, from: Vatican News
 
 ---
 
-## 2 dead, over 500 arrested in France during Paris St Germain victory celebrations
+## 2 dead, over 500 arrested in France during Paris St Germain victory celebrations, officials say
 
 date: 2025-06-01, from: CBC, World News
 
@@ -133,11 +359,11 @@ date: 2025-06-01, from: CBC, World News
 
 ---
 
-## Israeli attack near aid delivery point kills at least 31 in Gaza, local health officials say
+## At least 31 killed near aid site in Gaza, health officials say. Israel denies troops fired at civilians
 
 date: 2025-06-01, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7549284.1748766354!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/gaza-palestinians-aid-khan-younis.jpg' alt='A crowd of people walking on a street, many carrying white bags of aid supplies on their shoulders. ' width='620' height='349' title='Palestinians carry bags containing food and humanitarian aid packages delivered by the Gaza Humanitarian Foundation, a U.S.-backed organization approved by Israel, in Khan Younis, southern Gaza Strip, Sunday, June 1, 2025. '/><p>At least 31 people were killed, with scores more wounded Sunday as they were on their way to receive food in Gaza, according to health officials and multiple witnesses who said Israeli forces fired on crowds around a kilometre away from an aid site run by a U.S. aid organization backed by Israel.</p> 
+<img src='https://i.cbc.ca/1.7549284.1748766354!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/gaza-palestinians-aid-khan-younis.jpg' alt='A crowd of people walking on a street, many carrying white bags of aid supplies on their shoulders. ' width='620' height='349' title='Palestinians carry bags containing food and humanitarian aid packages delivered by the Gaza Humanitarian Foundation, a U.S.-backed organization approved by Israel, in Khan Younis, southern Gaza Strip, Sunday, June 1, 2025. '/><p>At least 31 people were killed, with scores more wounded Sunday while on their way to receive food in Gaza, according to health officials and multiple witnesses who said Israeli forces fired on crowds about a kilometre away from where aid was being distributed. Israel's military denied that its troops fired at civilians.</p> 
 
 <br> 
 
@@ -145,11 +371,11 @@ date: 2025-06-01, from: CBC, World News
 
 ---
 
-## Voting under way in tight Polish presidential election
+## Poland's Trzaskowski ahead in election - exit poll
 
 date: 2025-06-01, from: RTÉ News
 
-Poles have begun voting in a tight presidential election with major implications for the country's role in Europe, and for abortion and LGBTQ rights. 
+The candidate of Poland's ruling centrist Civic Coalition (KO), Rafal Trzaskowski, was seen narrowly ahead in the presidential election second round with 50.3% of votes, an Ipsos exit poll for TVN, TVP and Polsat indicates. 
 
 <br> 
 
@@ -229,11 +455,11 @@ date: 2025-06-01, from: CBC, World News
 
 ---
 
-## Thousands take part in VHI Women's Mini Marathon
+## Thousands take to streets for VHI Women's Mini Marathon
 
 date: 2025-06-01, from: RTÉ News
 
-Tens of thousands of women have taken part in this year's VHI women's Mini Marathon in Dublin. 
+Tens of thousands of women have taken part in this year's VHI Women's Mini Marathon in Dublin. 
 
 <br> 
 
@@ -241,7 +467,19 @@ Tens of thousands of women have taken part in this year's VHI women's Mini Marat
 
 ---
 
-## Russia tells Ukrainians in occupied areas to get Russian passport or leave
+## Teaching Tom Cruise about sealskin: Inuit star in new Mission Impossible movie
+
+date: 2025-06-01, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7546182.1748460503!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mission-impossible-the-final-reckoning.jpg' alt='An Inuk woman wearing a fur coat peers into some kind of binoculars ' width='620' height='349' title='Lucy Tulugarjuk plays Tapeesa in Mission: Impossible - The Final Reckoning from Paramount Pictures and Skydance. '/><p>A well-known Nunavut director and actress is one of the stars of the new Mission Impossible movie — The Final Reckoning. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/inuit-star-in-new-mission-impossible-movie-1.7546176?cmp=rss>
+
+---
+
+## Russia is using its army to try to take more of Ukraine. It's using its passports to control the population
 
 date: 2025-06-01, from: CBC, World News
 
@@ -265,6 +503,18 @@ date: 2025-06-01, from: CBC, World News
 
 ---
 
+## 'The American dream is over': Trump's deportation policies are pushing Latin Americans to Spain
+
+date: 2025-06-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7545145.1748372797!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/benjamin-enrique-berardinelli-manjarrez.jpeg' alt='A man in a white shirt and black jacket stands outside in a city square.' width='620' height='349' title='Benjamin Enrique Berardinelli Manjarrez, 33, a Colombian who arrived in Madrid at the beginning of May 2025.'/><p>U.S. President Donald Trump's sweeping deportation campaign and hardline approach to restricting immigration, mainly from Latin American countries — with a particular focus on Venezuelans — has caused a knock-on effect in Spain. The country is seeing an increasing number of Latinos arriving, abandoning their American dream.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-impact-asylum-claims-spain-1.7545134?cmp=rss>
+
+---
+
 ## 7 dead as two bridges in Russia collapse in 'blasts'
 
 date: 2025-06-01, from: RTÉ News
@@ -277,11 +527,11 @@ The overnight collapse of two bridges in Russian regions bordering Ukraine that 
 
 ---
 
-## 31 killed by Israeli fire near Gaza aid site, say medics
+## Health officials say over 30 killed near Gaza aid site
 
 date: 2025-05-31, from: RTÉ News
 
-An Israeli attack near an aid distribution point run by a private US-based group has killed at least 31 people in Gaza, local health authorities have said, as Hamas and Israel exchanged blame over a faltering effort to secure a ceasefire. 
+More than 30 Palestinians have been killed and dozens more injured in southern Gaza near a humanitarian aid distribution site run by a US company, according to local health officials. 
 
 <br> 
 
@@ -1352,7 +1602,7 @@ Starving Gazans continue to be deprived of aid as international relief efforts a
 
 ## ‘This is not just ice’: Glaciers support human livelihoods, UN deputy chief says
 
-date: 2025-05-30, from: United Nations, Climate Change
+date: 2025-05-30, from: United Nations, Top Stories
 
 UN Deputy Secretary-General Amina Mohammed called for urgent action to protect water-related ecosystems in remarks to the International Conference on Glaciers’ Preservation in Dushanbe, Tajikistan, on Friday. 
 
@@ -1364,7 +1614,7 @@ UN Deputy Secretary-General Amina Mohammed called for urgent action to protect w
 
 ## UN’s lifesaving programmes under threat as budget crisis hits hard
 
-date: 2025-05-30, from: United Nations, UN Affairs
+date: 2025-05-30, from: United Nations, Top Stories
 
 The UN is facing a deepening budget crisis that threatens lifesaving operations worldwide. From refugee aid in Mozambique to maternal health services in Afghanistan, critical programmes are on the brink of collapse unless urgent funding is secured. 
 
@@ -2144,7 +2394,7 @@ date: 2025-05-29, from: Vatican News
 
 ## ‘We are the present’: Tajik climate activist urges leaders to include youth voices in dialogue
 
-date: 2025-05-29, from: United Nations, Climate Change
+date: 2025-05-29, from: United Nations, Top Stories
 
 A young activist from Tajikistan is speaking up to show that her generation can be part of the solution to combat climate change. 
 
@@ -2180,7 +2430,7 @@ Desperate hunger drove crowds of people to overrun a World Food Programme (WFP) 
 
 ## UN honours peacekeepers' service and sacrifice
 
-date: 2025-05-29, from: United Nations, UN Affairs
+date: 2025-05-29, from: United Nations, Top Stories
 
 The United Nations honoured staff serving at its field missions through several events to mark the International Day of UN Peacekeepers on Thursday.&nbsp; 
 
@@ -3114,7 +3364,7 @@ In Gaza, dozens of Palestinians have been reportedly injured and shot trying to 
 
 ## Climate change: World likely to breach 1.5°C limit in next five years
 
-date: 2025-05-28, from: United Nations, Climate Change
+date: 2025-05-28, from: United Nations, Top Stories
 
 Fact: 2024 was the warmest year on record – but the heat is far from over. A new report from the World Meteorological Organization (WMO) warns that global temperatures will likely continue rising, with an 80 per cent chance that at least one year between now and 2029 will be even hotter. 
 
@@ -3150,7 +3400,7 @@ The United Nations has called for restraint following another wave of escalation
 
 ## UN awards 2025 Mandela Prize to Brenda Reynolds and Kennedy Odede
 
-date: 2025-05-28, from: United Nations, UN Affairs
+date: 2025-05-28, from: United Nations, Top Stories
 
 An Indigenous&nbsp;social worker from Canada and a social entrepreneur from Kenya are the laureates of the 2025 Nelson Rolihlahla Mandela Prize, the United Nations announced on Wednesday. 
 
@@ -3174,7 +3424,7 @@ Russian drone attacks against civilians in the Kherson region of Ukraine constit
 
 ## ‘We are women like you’: UN honours peacekeepers for work in gender empowerment
 
-date: 2025-05-28, from: United Nations, UN Affairs
+date: 2025-05-28, from: United Nations, Top Stories
 
 In early summer 2024, Squadron Leader Sharon Mwinsote Syme of Ghana ventured into sector North of Abyei, a disputed region between Sudan and South Sudan where she was deployed as a military gender advocate with the UN Interim Security Force in Abyei (UNISFA). 
 
@@ -4142,7 +4392,7 @@ date: 2025-05-27, from: CBC, World News
 
 ## Real cost of disasters is 10 times higher than previously thought, says UN
 
-date: 2025-05-27, from: United Nations, Climate Change
+date: 2025-05-27, from: United Nations, Top Stories
 
 As countries face increasingly steep bills from natural hazards, the true cost of disasters is actually 10 times higher than previously estimated, with far-reaching effects across healthcare, housing, education and employment. 
 
@@ -4178,7 +4428,7 @@ As a controversial United States and Israel-backed aid distribution plan gets un
 
 ## Sanctions relief for Syria offers ‘powerful message of hope,’ says UN migration agency
 
-date: 2025-05-27, from: United Nations, Economic Development
+date: 2025-05-27, from: United Nations, Top Stories
 
 The UN International Organization for Migration (IOM) has welcomed recent decisions by the United States, the United Kingdom and the European Union to ease sanctions against Syria. 
 
@@ -4202,7 +4452,7 @@ As the war between rival militaries in Sudan continues, the World Health Organiz
 
 ## UN aims to transform urgency into action at Nice Ocean Conference
 
-date: 2025-05-27, from: United Nations, Climate Change
+date: 2025-05-27, from: United Nations, Top Stories
 
 Countries are uniting in the French city of Nice next month to save the marine environment.&nbsp; 
 

@@ -1,11 +1,35 @@
 ---
 title: food
-updated: 2025-06-01 06:08:40
+updated: 2025-06-01 14:07:20
 ---
 
 # food
 
-(date: 2025-06-01 06:08:40)
+(date: 2025-06-01 14:07:20)
+
+---
+
+## A Fresh Take on a Classic Layer Cake
+
+date: 2025-06-01, from: Bon Appetet
+
+For this month's Bake Club, Jesse and Shilpa put their spin on hummingbird cake. 
+
+<br> 
+
+<https://www.bonappetit.com/story/bake-club>
+
+---
+
+## Hummingbird Cake
+
+date: 2025-06-01, from: Bon Appetet
+
+Our spin on the beloved classic, featuring pineapple jam and cream cheese frosting. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/hummingbird-cake>
 
 ---
 
@@ -18,6 +42,22 @@ date: 2025-06-01, from: The Sprudge
 <br> 
 
 <https://sprudge.com/summer-time-and-the-sippin-is-easy-342240.html>
+
+---
+
+## Breakfast for Dinner Recipes
+
+date: 2025-06-01, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2015/09/BreakfastforDinner.jpg"/></div>
+<p>It&#8217;s often fun to change things up by serving breakfast for dinner! I mean who doesn&#8217;t love pancakes for dinner! I&#8217;m not talking about some lame toast and coffee breakfast or even a bowl of cereal breakfast but a hearty and tasty breakfast that you will look forward to having for dinner! Lots of breakfasts...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/breakfast-for-dinner-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/breakfast-for-dinner-recipes/">Breakfast for Dinner Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/breakfast-for-dinner-recipes/>
 
 ---
 
@@ -482,6 +522,18 @@ date: 2025-05-29, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/greek-chicken-orzo/>
+
+---
+
+## Pink Pina Colada
+
+date: 2025-05-28, from: Taste of Home
+
+Break out your blender and find some tiny umbrellas! This pink pina colada recipe provides a taste of the tropics that will get any summer celebration started. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/pink-pina-colada/>
 
 ---
 

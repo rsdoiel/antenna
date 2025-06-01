@@ -1,11 +1,23 @@
 ---
 title: going electric
-updated: 2025-06-01 06:08:39
+updated: 2025-06-01 14:07:19
 ---
 
 # going electric
 
-(date: 2025-06-01 06:08:39)
+(date: 2025-06-01 14:07:19)
+
+---
+
+## EV Batteries Got 20% Cheaper Last Year
+
+date: 2025-06-01, from: Inside EVs News
+
+The good news: Cheaper batteries mean cheaper EVs. The bad news: China's battery costs are still dropping faster than ours. 
+
+<br> 
+
+<https://insideevs.com/news/761338/ev-battery-costs-down-2024/>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: north america
-updated: 2025-06-01 06:08:29
+updated: 2025-06-01 14:07:12
 ---
 
 # north america
 
-(date: 2025-06-01 06:08:29)
+(date: 2025-06-01 14:07:12)
+
+---
+
+##  LEVER WEEKLY: MuskCoin Is Coming 
+
+date: 2025-06-01, from: The Lever News
+
+ Paying in ZuckBucks, the potential end of DOGE, and more from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/lever-weekly-muskcoin-is-coming/>
 
 ---
 

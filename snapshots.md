@@ -1,11 +1,95 @@
 ---
 title: snapshots
-updated: 2025-06-01 06:08:41
+updated: 2025-06-01 14:07:22
 ---
 
 # snapshots
 
-(date: 2025-06-01 06:08:41)
+(date: 2025-06-01 14:07:22)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-01, from: Dave Winer's linkblog)
+
+Knicks trade ideas. All are interesting to discuss except KD. He played voodoo with the Knicks. Bad luck. Keep him far away from NY. 
+
+<br> 
+
+<https://sports.yahoo.com/nba/article/knicks-trade-ideas-giannis-kd-a-mavs-deal-3-moves-that-can-get-new-york-over-the-top-190720651.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-01, from: Dave Winer's linkblog)
+
+Ukraine launches major drone attack on Russian bombers. 
+
+<br> 
+
+<https://www.theguardian.com/world/2025/jun/01/ukraine-launches-major-drone-attack-on-russian-bombers-security-official-says>
+
+---
+
+## MINIX introduces two AMD Strix Point mini PCs: ER936-AI and ER937-AI
+
+date: 2025-06-01, from: Liliputing
+
+<p>MINIX has been selling mini PCs and Android TV boxes for more than a decade &#8211; they first showed up  on my radar as one of the first companies making Android-powered TV sticks. More recently, the company has made some distinctive fanless mini PCs with Intel Alder Lake chips. But MINIX also showed off some [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/minix-introduces-two-amd-strix-point-mini-pcs-er936-ai-and-er937-ai/">MINIX introduces two AMD Strix Point mini PCs: ER936-AI and ER937-AI</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/minix-introduces-two-amd-strix-point-mini-pcs-er936-ai-and-er937-ai/>
+
+---
+
+## What I’ve been reading
+
+date: 2025-06-01, from: Enlightenment Economics
+
+A bit of a catch-up. Last weekend we went to the Hay Festival and heard Rebecca Solnit in conversation with James Rebanks. So I read her latest book of essays, No Straight Road Takes You There. I think it&#8217;s one &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/06/what-ive-been-reading/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2025/06/what-ive-been-reading/>
+
+---
+
+## The Curious About Everything Newsletter #51
+
+date: 2025-06-01, from: Curious about everything blog
+
+The many interesting things I read in May 2025 
+
+<br> 
+
+<https://jodiettenberg.substack.com/p/fifty-one>
+
+---
+
+## Es nuestro momento de luchar por la promesa de la democracia
+
+date: 2025-06-01, from: Our Future.org
+
+Ahora nos toca a nostoros luchar para defender y ampliar los derechos que los valientes de otros tiempos lucharon para ganar. Nada me llena más el corazón que cuando veo a la gente común alzar la voz por los que quieren. Eso es lo que hicieron nuestros miembros la semana pasada en Washington, D.C., cuando [&#8230;]
+<p><a href="https://ourfuture.org/20250601/es-nuestro-momento-de-luchar-por-la-promesa-de-la-democracia" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://ourfuture.org/20250601/es-nuestro-momento-de-luchar-por-la-promesa-de-la-democracia>
+
+---
+
+## It Is Our Time to Fight for Democracy's Promise
+
+date: 2025-06-01, from: Our Future.org
+
+Because courageous ones before us laid a path, we now have rights. It is now our turn to fight to defend and expand them. Nothing fills my heart more than when ordinary people speak up for the ones they love. That’s what our members just did last week in Washington, D.C., when thousands came from [&#8230;]
+<p><a href="https://ourfuture.org/20250601/it-is-our-time-to-fight-for-democracys-promise" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://ourfuture.org/20250601/it-is-our-time-to-fight-for-democracys-promise>
 
 ---
 
@@ -129,6 +213,18 @@ date: 2025-06-01, updated: 2025-06-01, from: nlnet feed
 <br> 
 
 <https://nlnet.nl/news/2025/20250601-call.html>
+
+---
+
+## Using Ray-Ban Meta Glasses
+
+date: 2025-06-01, updated: 2025-06-01, from: Tink's blog
+
+ 
+
+<br> 
+
+<https://tink.uk/using-ray-ban-meta-glasses/>
 
 ---
 
@@ -2723,11 +2819,11 @@ You&#8217;re stronger than you think. Act like it.
 
 ---
 
-## Of monsters and miracles
+## I should never have spoken at TED this year
 
 date: 2025-05-27, from: Fix the News
 
-I should never have spoken at TED this year. 
+Of monsters and miracles... 
 
 <br> 
 
@@ -3131,9 +3227,11 @@ An oncologist says Biden&#39;s prostate cancer is treatable, and survivable.
 
 ---
 
-**@Dave Winer's linkblog** (date: 2025-05-26, from: Dave Winer's linkblog)
+## The Economic Consequences of Destroying Harvard
 
-The Economic Consequences of Destroying Harvard. 
+date: 2025-05-26, from: Paul Krugman
+
+Freedom is on the line. But so are jobs. 
 
 <br> 
 

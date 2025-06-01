@@ -1,11 +1,23 @@
 ---
 title: games
-updated: 2025-06-01 06:08:35
+updated: 2025-06-01 14:07:16
 ---
 
 # games
 
-(date: 2025-06-01 06:08:35)
+(date: 2025-06-01 14:07:16)
+
+---
+
+## Which Nintendo console had the biggest launch?
+
+date: 2025-06-01, updated: 2025-05-30, from: Polygon Website
+
+Nintendo has predicted it will sell 15 million Switch 2s in its current financial year. Analysts think the number is conservative; Nintendo says the price of the Switch 2 is what’s holding back that estimate. But what does that mean, really? Is it a reasonable target? If Nintendo hits it, does that guarantee the Switch [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/602181/all-nintendo-console-launches-ranked>
 
 ---
 

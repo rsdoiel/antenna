@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-06-01 06:08:38
+updated: 2025-06-01 14:07:18
 ---
 
 # motorcycles
 
-(date: 2025-06-01 06:08:38)
+(date: 2025-06-01 14:07:18)
+
+---
+
+## After seventh consecutive Indy 500 Top 10, Santino Ferrucci returns to the city of his INDYCAR debut
+
+date: 2025-06-01, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer Seven years ago this weekend, Santino Ferrucci arrived in Detroit preparing to make his INDYCAR debut fresh off spending parts of two seasons racing in&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/after-seventh-consecutive-indy-500-top-10-santino-ferrucci-returns-to-the-city-of-his-indycar-debut/>
 
 ---
 

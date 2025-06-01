@@ -1,23 +1,59 @@
 ---
 title: socal north
-updated: 2025-06-01 06:08:30
+updated: 2025-06-01 14:07:13
 ---
 
 # socal north
 
-(date: 2025-06-01 06:08:30)
+(date: 2025-06-01 14:07:13)
 
 ---
 
-## Which Governor Newsom is going to show up for the arts, the budget cutter or the advocate?
+## Wayfarers Chapel finds potential new home in Rancho Palos Verdes
 
 date: 2025-06-01, updated: 2025-06-01, from: The LAist
 
-Southern California arts groups are bracing themselves as an $11.5 million arts payroll fund is on the chopping block. 
+A former military site could house the iconic chapel complex. 
 
 <br> 
 
-<https://laist.com/news/education/which-governor-newsom-is-going-to-show-up-for-the-arts-the-budget-cutter-or-the-advocate>
+<https://laist.com/news/wayfarers-chapel-finds-potential-new-home-in-rancho-palos-verdes>
+
+---
+
+## Transgender track and field athlete makes history after winning at California championships
+
+date: 2025-06-01, updated: 2025-06-01, from: The LAist
+
+This year's high school meet has been embroiled in the debate whether trans athletes should compete in women's sports. 
+
+<br> 
+
+<https://laist.com/news/transgender-track-and-field-athlete-makes-history-after-winning-at-california-championships>
+
+---
+
+## One police officer killed, one injured in Baldwin Park shooting Saturday night
+
+date: 2025-06-01, updated: 2025-06-01, from: The LAist
+
+A suspect wounded by police is in custody, according to authorities. Police found another person dead from apparent gunshot wounds at the scene. 
+
+<br> 
+
+<https://laist.com/news/one-police-officer-killed-one-injured-in-baldwin-park-shooting-saturday-night>
+
+---
+
+## 11 movies to watch this summer: Sequels, a new 'Superman,' and edgy originals, too
+
+date: 2025-06-01, updated: 2025-06-01, from: The LAist
+
+The coming months will bring a 28 Days Later sequel and a new John Wick movie starring Ana de Armas. Midsommar's Ari Aster has a new Western thriller, and Pixar goes intergalactic. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/11-movies-to-watch-this-summer-sequels-a-new-superman-and-edgy-originals-too>
 
 ---
 
@@ -30,6 +66,18 @@ Research shows that South Asians represent about a quarter of the world’s popu
 <br> 
 
 <https://laist.com/news/health/new-ucla-heart-program-south-asians>
+
+---
+
+## Which Governor Newsom is going to show up for the arts, the budget cutter or the advocate?
+
+date: 2025-06-01, updated: 2025-06-01, from: The LAist
+
+Southern California arts groups are bracing themselves as an $11.5 million arts payroll fund is on the chopping block. 
+
+<br> 
+
+<https://laist.com/news/education/which-governor-newsom-is-going-to-show-up-for-the-arts-the-budget-cutter-or-the-advocate>
 
 ---
 

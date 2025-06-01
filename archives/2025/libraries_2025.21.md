@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-06-01 06:08:37
+updated: 2025-06-01 14:07:17
 ---
 
 # libraries
 
-(date: 2025-06-01 06:08:37)
+(date: 2025-06-01 14:07:17)
 
 ---
 
@@ -201,6 +201,18 @@ Miro-Vinyals, Carla; Emmert, Sarah; Grammbitter, Gina; Jud, Alex; Kockmann, Tobi
 
 ---
 
+## Microwave Spectroscopy of Antihydrogen and Muonium: 6 keV Antihydrogen Beam Production and Muonium Fine Structure Measurement
+
+date: 2025-06-01, from: ETH Zurich, recently added
+
+Blumer, Philipp 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/738661>
+
+---
+
 ## Partnering Across the Research Enterprise in These Times
 
 date: 2025-05-30, from: Association of Research Libraries News
@@ -252,6 +264,18 @@ date: 2025-05-29, from: Association of Research Libraries News
 <br> 
 
 <https://www.arl.org/blog/seven-takeaways-from-the-spring-2025-meeting-of-the-association-of-research-libraries/>
+
+---
+
+## Meet Sophia Tung, the Creative Force Behind Internet Archive’s Microfiche Scanning Livestream
+
+date: 2025-05-29, from: Internet Archive Blog
+
+Setting up a livestream is more complicated than just turning on a camera. That’s why the Internet Archive tapped into the expertise of Sophia Tung, a software engineer and online [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/05/29/meet-sophia-tung-the-creative-force-behind-internet-archives-microfiche-scanning-livestream/>
 
 ---
 

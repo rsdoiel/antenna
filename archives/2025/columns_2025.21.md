@@ -1,11 +1,153 @@
 ---
 title: columns
-updated: 2025-06-01 06:08:34
+updated: 2025-06-01 14:07:15
 ---
 
 # columns
 
-(date: 2025-06-01 06:08:34)
+(date: 2025-06-01 14:07:15)
+
+---
+
+## Weekendings
+
+date: 2025-06-01, from: Doc Searls (at Harvard), New Old Blog
+
+Your altitude may vary. This is why my flight from Baltimore to Indianapolis was so smooth this morning: https://aviationweather.gov/ 
+
+<br> 
+
+<https://doc.searls.com/2025/06/01/weekendings/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-01, from: Miguel de Icaza Mastondon feed)
+
+<p>Ok, first day trying my end-to-end Xogot/Claude/MCP integration, not bad at all:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114609749931100603>
+
+---
+
+## 2025-06-01 My security day
+
+date: 2025-06-01, from: Alex Schroeder's Blog
+
+<h1 id="2025-06-01-my-security-day">2025-06-01 My security day</h1>
+
+<p>Made backups of three laptops and the external disk where we keep our media to one of our set of external backup disks, and took those to the office about 2 km away from where we live, exchanging them for the other set of external backup disks which we had there. One set is always outside of the house. Not sure whether that would help in an urban disaster like an earthquake or a flood, but it would at least help against a fire or a burglary.</p>
+
+<p>And I also changed passwords because of rumours going around of a big breach.</p>
+
+<p>Soooo… even if most of them have some sort of two factor authentication (2FA) enabled:</p>
+
+<ul>
+<li>Amazon ✓</li>
+<li>Apple ✓</li>
+<li>Google ✓</li>
+<li>Discord ✓</li>
+<li>Paypal ✓</li>
+</ul>
+
+<p>Paypal was definitely the worst experience.</p>
+
+<blockquote>
+<p>Your password can only include letters, numbers and these characters: !@#$%^&amp;*().</p>
+</blockquote>
+
+<p>Oh yeah? 😞</p>
+
+<p>Let&rsquo;s make it longer, then.</p>
+
+<blockquote>
+<p>Your password should be 8-20 characters long.</p>
+</blockquote>
+
+<p>Whaaaaaaat! Are you storing it in plaintext? 😭</p>
+
+<p>After all this shit, things reload back to the change password form … and it&rsquo;s still the old password.</p>
+
+<p>The second time through it all seemed to work, though. I must have received half a dozen SMS with codes and two emails with codes. Ugh!</p>
+
+<p><a class="tag" href="/search/?q=%23Passwords">#Passwords</a> <a class="tag" href="/search/?q=%23Backup">#Backup</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-06-01-my-security-day>
+
+---
+
+##  Astronomers discover strange new celestial object in our Milky Way galaxy. &#8220;It... 
+
+date: 2025-06-01, updated: 2025-06-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0046966-astronomers-discover-stra>
+
+---
+
+##  King of the Hill is returning after 15 years. &#8220;Hank and Peggy... 
+
+date: 2025-06-01, updated: 2025-06-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0046964-king-of-the-hill-is>
+
+---
+
+## May 31, 2025
+
+date: 2025-06-01, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164945735/795018d8abe8d1e51dd8b20ab1dca921.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164945735/795018d8abe8d1e51dd8b20ab1dca921.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-31-2025-755>
+
+---
+
+##  Taylor Swift has bought back the rights to her first six albums.... 
+
+date: 2025-06-01, updated: 2025-06-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0046965-taylor-swift-has-bought-b>
+
+---
+
+## What I’ve been reading
+
+date: 2025-06-01, from: Enlightenment Economics blog
+
+A bit of a catch-up. Last weekend we went to the Hay Festival and heard Rebecca Solnit in conversation with James Rebanks. So I read her latest book of essays, No Straight Road Takes You There. I think it&#8217;s one &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/06/what-ive-been-reading/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2025/06/what-ive-been-reading/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-01, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2021/09/05/goneWithTheWind.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Good morning and welcome to June. Another <a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2025/05.opml">month gone</a>, and coincidentally the end of the NBA season. I woke up this morning with the worst hangover ever, and I haven't had a drink in months (never was my vice, I have others). The Knicks lost fair and square to the Indianas last night. My first message came from NakedJen who isn't as far as I know a Mets fan, saying simply "Let's go Mets!" I like that, though it will of course take me some time to get re-adjusted. I think the Knicks were jinxed because Brunson said in <a href="https://podcasts.apple.com/us/podcast/episode-highlight-jalen-josh-explain-why-the-yankees/id1729497779?i=1000710590814">his podcast</a> that New York has two teams, the Knicks (I agree) and the Yankees. What! No. I think we may have to consider trading him to a team without <a href="https://daytona.scripting.com/search?q=philosophy">philosophy</a>. I'm not sure anyone will have him though, considering this possibly fatal flaw, philosophy-wise. And no doubt the Knicks are going to change some things over the summer, and I've heard that they might try to get <a href="https://daytona.scripting.com/search?q=%22kevin%20durant%22">Kevin Durant</a>. I sure hope not. I think the Knicks are benefiting from <a href="https://www.reddit.com/r/nba/comments/dern8c/kevin_durant_explains_why_free_agents_wont_join/">the jinx</a> he put on himself when he tried in vain to stir up a "rivalry" between the Knicks and the Brooklyns. No, that isn't likely to happen, unless they try to become a contender without kicking the Knicks in the butt like KD did. Maybe the <a href="https://en.wikipedia.org/wiki/Portland_Trail_Blazers">Portland Trail Blazers</a> will want him. That's about as <a href="https://www.google.com/maps/dir/New+York,+NY/Portland,+OR/@41.7399086,-119.4458701,4z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!2m2!1d-74.0059728!2d40.7127753!1m5!1m1!1s0x54950b0b7da97427:0x1c36b9e6f6d18591!2m2!1d-122.6783853!2d45.515232!3e0?entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D">far</a> from New York as you can get in the NBA. And with that I now officially shut the door on the 2024-25 NBA season. We had a great run. See you all in October! <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2025/06/01.html#a142901>
 
 ---
 
