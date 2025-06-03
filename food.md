@@ -1,11 +1,157 @@
 ---
 title: food
-updated: 2025-06-03 06:08:57
+updated: 2025-06-03 14:09:40
 ---
 
 # food
 
-(date: 2025-06-03 06:08:57)
+(date: 2025-06-03 14:09:40)
+
+---
+
+## The Veggie-Packed Soup That Feeds Me All Week Long
+
+date: 2025-06-03, from: Bon Appetet
+
+June’s Feel-Good Food Plan is all about finding joy in meal prep. 
+
+<br> 
+
+<https://www.bonappetit.com/story/feel-good-food-plan-june-2025>
+
+---
+
+## 53 Healthy Meal Prep Ideas That Aren't Boring
+
+date: 2025-06-03, from: Bon Appetet
+
+Like an energizing matcha chia pudding, two-for-one roast chicken, and tofu that keeps on giving. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/healthy-meal-prep-recipes-ideas>
+
+---
+
+## Summer Vegetable Soup With Pistou
+
+date: 2025-06-03, from: Bon Appetet
+
+Celebrate the best of the season—zucchini, tomatoes, corn, and more—all in one pot. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/summer-vegetable-soup-pistou>
+
+---
+
+## Factor Meals Review: 2 Weeks with This RD-Approved Meal Service (2025)
+
+date: 2025-06-03, from: Bon Appetet
+
+Spoiler alert: I was pleasantly surprised. 
+
+<br> 
+
+<https://www.bonappetit.com/story/factor-meals-review>
+
+---
+
+## Our Most Popular Recipes of May 2025
+
+date: 2025-06-03, from: Bon Appetet
+
+Like a crispy rice salad, coffee cake scones, and a frozen espresso martini. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/most-popular-recipes-may-2025>
+
+---
+
+## 30-Year Study: Women Who Drink Coffee in Midlife Are Healthier in Older Age
+
+date: 2025-06-03, from: Daily Coffee News
+
+<div><img width="620" height="461" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/black-coffee-aging-620x461.jpg" class="attachment-large size-large wp-post-image" alt="black coffee aging" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/black-coffee-aging-620x461.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/black-coffee-aging-300x223.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/black-coffee-aging-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/black-coffee-aging-768x571.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/black-coffee-aging.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Women who drink coffee during midlife are significantly more likely to maintain their physical and mental health as they age, according to new research from Harvard University that tracked nearly... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/03/30-year-study-women-who-drink-coffee-in-midlife-are-healthier-in-older-age/>
+
+---
+
+## The Cheap Fix for Standing Water: Diatomaceous Earth
+
+date: 2025-06-03, from: Bon Appetet
+
+Two words: diatomaceous earth 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-cheap-fix-for-standing-water-diatomaceous-earth>
+
+---
+
+## Best Oven Thermometers for Consistent Baking and Roasting (2025)
+
+date: 2025-06-03, from: Bon Appetet
+
+Your oven is a liar. An oven thermometer will end the deception, once and for all. 
+
+<br> 
+
+<https://www.bonappetit.com/story/oven-thermometer>
+
+---
+
+## Ready To Drink: MOMO Kombucha + Tate Galleries Cold Brew Coffee Kombucha
+
+date: 2025-06-03, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A cold brew coffee kombucha by MOMO and Tate. 
+
+<br> 
+
+<https://sprudge.com/ready-to-drink-momo-kombucha-tate-galleries-cold-brew-coffee-kombucha-337802.html>
+
+---
+
+## Bulletproof Rebrands Without Focusing on Mold and Toxicity
+
+date: 2025-06-03, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Bulletproof-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Bulletproof New Look" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Bulletproof-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Bulletproof-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Bulletproof-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Bulletproof-768x575.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Bulletproof.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; After a meteoric rise in popularity through the 2010s fueled in part by a message from its founder that coffee has mold that makes you weak, Seattle-based coffee and... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/03/bulletproof-rebrands-without-focusing-on-mold-and-toxicity/>
+
+---
+
+## Macap Introduces Flagship Supra Commercial Grinder Line
+
+date: 2025-06-03, from: Daily Coffee News
+
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Macap-Supra-83-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Macap Supra 83" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Macap-Supra-83-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Macap-Supra-83-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Macap-Supra-83-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Macap-Supra-83-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Macap-Supra-83.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Italian coffee grinder company Macap is picking up the pace with a new flagship line of professional espresso grinders called Supra, designed for high-speed service at busy coffee bars.... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/03/macap-introduces-flagship-supra-commercial-grinder-line/>
+
+---
+
+## Celebrate Dad with a Free ButcherBox Meat Delivery When You Buy Caraway Cookware
+
+date: 2025-06-03, from: Taste of Home
+
+<p>Get a free ButcherBox meat delivery with your Caraway Cookware purchase—because dad deserves more than another personalized pair of socks.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/caraway-cookware-butcherbox-2025/">Celebrate Dad with a Free ButcherBox Meat Delivery When You Buy Caraway Cookware</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/caraway-cookware-butcherbox-2025/>
 
 ---
 
@@ -39,7 +185,7 @@ date: 2025-06-03, from: The Fresh Cup
 
 date: 2025-06-03, from: Bon Appetet
 
-Buttermilk powder swoops in when you don't have time for an all-day marinade. 
+Buttermilk powder swoops in when you don’t have time for an all-day marinade. 
 
 <br> 
 
@@ -185,7 +331,7 @@ date: 2025-06-02, from: The Sprudge
 
 date: 2025-06-02, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/roast-DCN-reader-survey-620x413.png" class="attachment-large size-large wp-post-image" alt="roast DCN reader survey" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/roast-DCN-reader-survey-620x413.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/roast-DCN-reader-survey-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/roast-DCN-reader-survey-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/roast-DCN-reader-survey-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/roast-DCN-reader-survey.png 1200w" sizes="(max-width: 620px) 100vw, 620px" /></div>Greetings, Readers,&#160; As we continue our pursuit of providing meaningful, useful information and insight within the rapidly evolving world of specialty coffee, we come to you today with a request:&#160;... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/roast-DCN-reader-survey-620x413.png" class="attachment-large size-large wp-post-image" alt="roast DCN reader survey" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/roast-DCN-reader-survey-620x413.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/roast-DCN-reader-survey-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/roast-DCN-reader-survey-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/roast-DCN-reader-survey-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/roast-DCN-reader-survey.png 1200w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Greetings, Readers,&#160; As we continue our pursuit of providing meaningful, useful information and insight within the rapidly evolving world of specialty coffee, we come to you today with a request:&#160;... 
 
 <br> 
 
@@ -197,7 +343,7 @@ date: 2025-06-02, from: Daily Coffee News
 
 date: 2025-06-02, from: Daily Coffee News
 
-<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/acaia-umbra-lunar-2-620x349.jpg" class="attachment-large size-large wp-post-image" alt="acaia umbra lunar-2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/acaia-umbra-lunar-2-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/acaia-umbra-lunar-2-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/acaia-umbra-lunar-2-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/acaia-umbra-lunar-2-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/acaia-umbra-lunar-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee-focused scale maker Acaia recently launched the Umbra Lunar, a scale with no display screen. The device is designed to pair with other Acaia scales for display, while fitting where... 
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/acaia-umbra-lunar-2-620x349.jpg" class="attachment-large size-large wp-post-image" alt="acaia umbra lunar-2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/acaia-umbra-lunar-2-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/acaia-umbra-lunar-2-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/acaia-umbra-lunar-2-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/acaia-umbra-lunar-2-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/acaia-umbra-lunar-2.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Coffee-focused scale maker Acaia recently launched the Umbra Lunar, a scale with no display screen. The device is designed to pair with other Acaia scales for display, while fitting where... 
 
 <br> 
 

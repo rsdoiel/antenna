@@ -1,17 +1,77 @@
 ---
 title: columns
-updated: 2025-06-03 06:08:52
+updated: 2025-06-03 14:09:35
 ---
 
 # columns
 
-(date: 2025-06-03 06:08:52)
+(date: 2025-06-03 14:09:35)
+
+---
+
+## Event Creation Still Largely Feels Like an Unsolved UI Problem
+
+date: 2025-06-03, updated: 2025-06-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/linked/2011/05/17/fantastical>
+
+---
+
+## Fantastical Now Supports Event Detection From Forwarded Emails
+
+date: 2025-06-03, updated: 2025-06-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://flexibits.com/fantastical/forwardemails>
+
+---
+
+## June 2, 2025
+
+date: 2025-06-03, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165116871/776851d99ae789628e419bfaaaaec507.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165116871/776851d99ae789628e419bfaaaaec507.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-2-2025-6e3>
+
+---
+
+## Jony Ive and Laurene Powell Jobs, Interviewed in the Financial Times
+
+date: 2025-06-03, updated: 2025-06-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.ft.com/content/7f0a45b0-a3cc-4e1c-be71-1b7b42958d4d>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2025-06-03, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2017/05/26/cat.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Jeremy Herve of Automattic <a href="https://mastodon.social/@jeremy@herve.bzh/114618613561154574">responded</a> to yesterday's <a href="http://scripting.com/2025/06/02/131444.html">suggestion</a> about when to set the og:image metadata in a page. His response is persuasive, but there may be a way to work around it. And a hat-tip to Jeremy, he's helped us so many times getting WordLand ready to market. When you're fitting a product to another product as a platform, it's so important to get help from the vendor, and usually you don't get much of that. Much appreciated! <span class="spOldSchoolEmoji">😄</span> 
+If you followed the Knicks through the playoffs as I did, I recommend the latest <a href="https://podcasts.apple.com/us/podcast/indianas-incredible-finals-run-a-knicks-summer/id1043699613?i=1000710778336">episode</a> of the Bill Simmons podcast. It began with talk about the fan base and that got me thinking. We don't know what would happen if the Knicks were in the Finals. Honestly. It could be the antidote to the crazyness. Maybe the reason things are so fucked up is that it's been 52 freaking years since the Knicks won the title. Something happens every so often, the energy field around the Knicks shifts -- Patrick Ewing, Melo, Linsanity and now Brunson. It'd be interesting to map that out against events in the world at the corresponding times. We won't find out this year. In the same way I sensed that New Orleans was doomed when I went to school there, I have a strong feeling connecting the Knicks to something not sure what, but it feels big. 
+
+<br> 
+
+<http://scripting.com/2025/06/03.html#a164131>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-03, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2017/05/26/cat.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Jeremy Herve of Automattic <a href="https://mastodon.social/@jeremy@herve.bzh/114618613561154574">responded</a> to yesterday's <a href="http://scripting.com/2025/06/02/131444.html">suggestion</a> about when to set the og:image metadata in a page. His response is persuasive, but there may be a way to work around it. And a hat-tip to Jeremy, he's helped us so many times getting <a href="https://wordland.social/">WordLand</a> ready to market. When you're fitting a product to another <a href="http://scripting.com/2024/10/21/155259.html">product</a> as a platform, it's so important to get help from the vendor, and usually you don't get much of that. Thanks! <span class="spOldSchoolEmoji">😄</span> 
 
 <br> 
 
@@ -23,7 +83,7 @@ updated: 2025-06-03 06:08:52
 
 date: 2025-06-03, from: Doc Searls (at Harvard), New Old Blog
 
-About a face. The problem Dave talks about here (my face pointlessly appearing with social media posts) is due to using an old theme that needs to be replaced. Hoping to make that happen this week. (The issue involves the &#34;featured image&#34; feature, as Dave points out in that post. When writing in Wordland, as [&#8230;] 
+Whatever, it&#39;s complicated. The Narrow Path Needs a Floorplan: What Happens When You Feed Tristan Harris’s Vision Into the Meta-layer. The path is between the DYSTOPIA of centralized control and the CHAOS of &#34;unchecked decentralized&#34; whatever. The path is called COORDINATION, and involves &#34;global clarity &#38; coordinated action,&#34; which is about &#34;co-governance—a path where humanity chooses structure, [&#8230;] 
 
 <br> 
 
@@ -118,9 +178,9 @@ What if we all took a new pledge?
 
 ---
 
-## WhatsApp for iPad
+## WhatsApp for iPad, Finally
 
-date: 2025-06-02, updated: 2025-06-02, from: Daring Fireball
+date: 2025-06-02, updated: 2025-06-03, from: Daring Fireball
 
  
 

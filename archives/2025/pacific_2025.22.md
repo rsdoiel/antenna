@@ -1,11 +1,48 @@
 ---
 title: pacific
-updated: 2025-06-03 06:08:51
+updated: 2025-06-03 14:09:33
 ---
 
 # pacific
 
-(date: 2025-06-03 06:08:51)
+(date: 2025-06-03 14:09:33)
+
+---
+
+## Federal funding cuts threaten safety, resilience of coastal communities in Hawaiʻi
+
+date: 2025-06-03, from: University of Hawaiʻi News
+
+<p>Federal funding cuts threaten <span aria-label="Hawaii">Hawai&#699;i</span>’s climate resilience by ending support for vital sea level rise modeling and coastal planning research.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/03/federal-funding-cuts-coastal-communities/">Federal funding cuts threaten safety, resilience of coastal communities in Hawaiʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/03/federal-funding-cuts-coastal-communities/>
+
+---
+
+## US-affiliated islands facing greater risk 
+
+date: 2025-06-03, from: Pacific Island Times
+
+ For years, CDC experts have been the backbone of our region’s public health response, providing hands-on guidance during outbreaks, training local health workers, and helping us conduct emergency preparedness exercises. In the Marshall Islands, this support was a lifeline. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-affiliated-islands-facing-greater-risk>
+
+---
+
+## Palau-Taiwan ties grow stronger in the face of China's mounting pressure
+
+date: 2025-06-03, from: Pacific Island Times
+
+Palau President Surangel Whipps Jr. and Taiwan President Lai Ching-Te. Photo courtesy of MOFA By Mar-Vic Cagurangan    Palau’s outsized... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/palau-taiwan-ties-grow-stronger-in-the-face-of-china-s-pressure>
 
 ---
 

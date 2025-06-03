@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-06-03 06:08:51
+updated: 2025-06-03 14:09:33
 ---
 
 # ham radio
 
-(date: 2025-06-03 06:08:51)
+(date: 2025-06-03 14:09:33)
+
+---
+
+## The analog-centric timing world takes a digital turn
+
+date: 2025-06-03, from: EDN Blog
+
+<img width="891" height="542" src="https://www.edn.com/wp-content/uploads/Fig-3-digital-timing-MSD.jpg?fit=891%2C542" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-3-digital-timing-MSD.jpg?w=891 891w, https://www.edn.com/wp-content/uploads/Fig-3-digital-timing-MSD.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-3-digital-timing-MSD.jpg?w=768 768w" sizes="(max-width: 891px) 100vw, 891px" /><p>A startup seeks a digitally synthesizable timing alternative to convectional crystal and PLL solutions based on analog technology.</p>
+<p>The post <a href="https://www.edn.com/the-analog-centric-timing-world-takes-a-digital-turn/">The analog-centric timing world takes a digital turn</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/the-analog-centric-timing-world-takes-a-digital-turn/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-06-03 06:08:51
 
 date: 2025-06-03, from: EDN Blog
 
-<img width="4000" height="1570" src="https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?fit=4000%2C1570" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=4000 4000w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=2850 2850w" sizes="(max-width: 4000px) 100vw, 4000px" /><p>OpenGMSL aims to transform this SerDes transmission of video and/or high-speed data into an open ecosystem for in-vehicle connectivity.</p>
+<img width="4000" height="1570" src="https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?fit=4000%2C1570" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=4000 4000w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=2850 2850w" sizes="(max-width: 4000px) 100vw, 4000px" /><p>OpenGMSL aims to transform this SerDes transmission of video and/or high-speed data into an open ecosystem for in-vehicle connectivity.</p>
 <p>The post <a href="https://www.edn.com/gmsl-video-links-quest-to-become-open-automotive-standard/">GMSL video link’s quest to become open automotive standard</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

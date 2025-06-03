@@ -1,11 +1,281 @@
 ---
 title: snapshots
-updated: 2025-06-03 06:08:58
+updated: 2025-06-03 14:09:41
 ---
 
 # snapshots
 
-(date: 2025-06-03 06:08:58)
+(date: 2025-06-03 14:09:41)
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-03, from: Robert's feed at BlueSky)
+
+I really love this.  We'll put. 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lqq3rlzyys2e>
+
+---
+
+## 250 Years of Veterans' Struggles
+
+date: 2025-06-03, from: Guy Kawasaki blog
+
+Jamie Rowen, Associate Professor of Legal Studies and Political Science, UMass Amherst. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/250-years-of-veterans-struggles>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-03, from: Dave Winer's linkblog)
+
+Mike D&#39;Antoni is available. 
+
+<br> 
+
+<https://en.m.wikipedia.org/wiki/Mike_D%27Antoni>
+
+---
+
+## Datasette Public Office Hours: Tools in LLM
+
+date: 2025-06-03, updated: 2025-06-03, from: Simon Willison’s Weblog
+
+<p>We're hosting the sixth in our series of Datasette Public Office Hours livestream sessions this Friday, 6th of June at 2pm PST (here's <a href="http://www.worldtimebuddy.com/event?lid=5391959&amp;h=5391959&amp;sts=29153220&amp;sln=14-15.5&amp;a=show&amp;euid=55524301-3dd4-c954-b5df-239b73f1a7da">that time in your location</a>).</p>
+<p>The topic is going to be <strong>tool support in LLM</strong>, as <a href="https://simonwillison.net/2025/May/27/llm-tools/">introduced here</a>.</p>
+<p>I'll be walking through the new features, and we're also inviting five minute lightning demos from community members who are doing fun things with the new capabilities. If you'd like to present one of those please get in touch <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4EGqdTWUXII7gBxdvsUbIVR-vECjfssrVni-R3Bzc8ns-bA/viewform?usp=dialog">via this form</a>.</p>
+<p><img alt="Datasette Public Office Hours #06 - Tool Support in LLM! Friday June 6th, 2025 @ 2pm PST Hosted in the Datasette Discord https://discord.gg/M4tFcgVFXf" src="https://static.simonwillison.net/static/2025/tool-support.png" /></p>
+<p>Here's a link to <a href="https://calendar.google.com/calendar/u/0/r/eventedit?text=Datasette+Public+Office+Hours+%2306&amp;details=Tool+support+in+LLM+-+https://discord.gg/Pb5dRA8RTa?event%3D1379484629672661122&amp;location&amp;dates=20250606T140000/20250606T153000&amp;ctz=America/Los_Angeles">add it to Google Calendar</a>.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/datasette-public-office-hours">datasette-public-office-hours</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/3/datasette-public-office-hours/#atom-everything>
+
+---
+
+## Tips on prompting ChatGPT for UK technology secretary Peter Kyle
+
+date: 2025-06-03, updated: 2025-06-03, from: Simon Willison’s Weblog
+
+<p>Back in March <a href="https://www.newscientist.com/article/2472068-revealed-how-the-uk-tech-secretary-uses-chatgpt-for-policy-advice/">New Scientist reported on</a> a successful Freedom of Information request they had filed requesting UK Secretary of State for Science, Innovation and Technology <a href="https://en.wikipedia.org/wiki/Peter_Kyle">Peter Kyle's</a> ChatGPT logs:</p>
+<blockquote>
+<p>New Scientist has obtained records of Kyle’s ChatGPT use under the Freedom of Information (FOI) Act, in what is believed to be a world-first test of whether chatbot interactions are subject to such laws.</p>
+</blockquote>
+<p>What a fascinating precedent this could set!</p>
+<p>They picked out some highlights they thought were particularly newsworthy. Personally I'd have loved to see that raw data to accompany the story.</p>
+<h4 id="a-good-example-of-a-poorly-considered-prompt">A good example of a poorly considered prompt</h4>
+<p>Among the questions Kyle asked of ChatGPT was this one:</p>
+<blockquote>
+<p>Why is AI adoption so slow in the UK small and medium business community?</p>
+</blockquote>
+<p>(I pinged the New Scientist reporter, Chris Stokel-Walker, to confirm the exact wording here.)</p>
+<p>This provides an irresistible example of the "jagged frontier" of LLMs in action. LLMs are great at some things, terrible at others and the difference between the two is often not obvious at all.</p>
+<p>Experienced prompters will no doubt have the same reaction I did: that's not going to give an accurate response! It's worth digging into why those of us with a firmly developed sense of intuition around LLMs would jump straight to that conclusion.</p>
+<p>The problem with this question is that it assumes a level of omniscience that even the very best LLMs do not possess.</p>
+<p>At the very best, I would expect this prompt to spit out the approximate average of what had been published on that subject in time to be hoovered up by the training data for the GPT-4o training cutoff <a href="https://platform.openai.com/docs/models/gpt-4o">of September 2023</a>.</p>
+<p>(Here's <a href="https://chatgpt.com/share/683f3f94-d51c-8006-aea9-7567d08e2f68">what I got just now</a> running it against GPT-4o.)</p>
+<p>This illustrates the first lesson of effective LLM usage: <strong>know your training cutoff dates</strong>. For many queries these are an essential factor in whether or not the LLM is likely to provide you with a useful answer.</p>
+<p>Given the pace of change in the AI landscape, an answer based on September 2023 training data is unlikely to offer useful insights into the state of things in 2025.</p>
+<p>It's worth noting that there <em>are</em> tools that might do better at this. OpenAI's Deep Research tool for example can run a barrage of searches against the web for recent information, then spend multiple minutes digesting those results, running follow-up searches and crunching that together into an impressive looking report.</p>
+<p>(I still wouldn't trust it for a question this broad though: the report format looks more credible than it is, and can suffer from <a href="https://simonwillison.net/2025/Feb/25/deep-research-system-card/">misinformation by omission</a> which is very difficult to spot.)</p>
+<p>Deep Research only rolled out in February this year, so it is unlikely to be the tool Peter Kyle was using given likely delays in receiving the requested FOIA data.</p>
+<h4 id="what-i-would-do-instead">What I would do instead</h4>
+<p>Off the top of my head, here are examples of prompts I would use if I wanted to get ChatGPT's help digging into this particular question:</p>
+<ul>
+<li>
+<strong>Brainstorm potential reasons that UK SMBs might be slow to embrace recent advances in AI</strong>. This would give me a starting point for my own thoughts about the subject, and may highlight some things I hadn't considered that I should look into further.</li>
+<li>
+<strong>Identify key stakeholders in the UK SMB community who might have insights on this issue</strong>. I wouldn't expect anything comprehensive here, but it might turn up some initial names I could reach out to for interviews or further research.</li>
+<li>
+<strong>I work in UK Government: which departments should I contact that might have relevant information on this topic</strong>? Given the size and complexity of the UK government even cabinet ministers could be excused from knowing every department.</li>
+<li>
+<strong>Suggest other approaches I could take to research this issue</strong>. Another brainstorming prompt. I like prompts like this where "right or wrong" doesn't particularly matter. LLMs are electric bicycles for the mind.</li>
+<li>
+<strong>Use your search tool: find recent credible studies on the subject and identify their authors</strong>. I've been getting some good results from telling LLMs with good search tools - <a href="https://simonwillison.net/2025/Apr/21/ai-assisted-search/#o3-and-o4-mini-are-really-good-at-search">like o3 and o4-mini</a> - to evaluate the "credibility" of sources they find. It's a dumb prompting hack but it appears to work quite well - you can watch their reasoning traces and see how they place more faith in papers from well known publications, or newspapers with strong reputations for fact checking.</li>
+</ul>
+<h4 id="prompts-that-do-make-sense">Prompts that do make sense</h4>
+<p>From the New Scientist article:</p>
+<blockquote>
+<p>As well as seeking this advice, Kyle asked ChatGPT to define various terms relevant to his department: antimatter, quantum and digital inclusion. Two experts <em>New Scientist</em> spoke to said they were surprised by the quality of the responses when it came to ChatGPT's definitions of quantum. "This is surprisingly good, in my opinion," says <a href="https://profiles.imperial.ac.uk/p.knight">Peter Knight</a> at Imperial College London. "I think it's not bad at all," says <a href="https://researchportal.hw.ac.uk/en/persons/cristian-bonato">Cristian Bonato</a> at Heriot-Watt University in Edinburgh, UK.</p>
+</blockquote>
+<p>This doesn't surprise me at all. If you ask a good LLM for definitions of terms with strong, well established meanings you're going to get great results almost every time.</p>
+<p>My rule of thumb used to be that if a friend who had just read the Wikipedia page on a subject could answer my question then an LLM will be able to answer it too.</p>
+<p>As the frontier models have grown stronger I've upgraded that rule of thumb. I now expect a good result for any mainstream-enough topic for which there was widespread consensus prior to that all-important training cutoff date.</p>
+<p>Once again, it all comes down to intuition. The only way to get really strong intuition as to what will work with LLMs is to spend a huge amount of time using them, and paying a skeptical eye to everything that they produce.</p>
+<p>Treating ChatGPT as an all knowing Oracle for anything outside of a two year stale Wikipedia version of the world's knowledge is almost always a mistake.</p>
+<p>Treating it as a brainstorming companion and electric bicycle for the mind is, I think, a much better strategy.</p>
+<h4 id="should-the-uk-technology-secretary-be-using-chatgpt-">Should the UK technology secretary be using ChatGPT?</h4>
+<p>Some of the reporting I've seen around this story has seemed to suggest that Peter Kyle's use of ChatGPT is embarrassing.</p>
+<p>Personally, I think that if the UK's Secretary of State for Science, Innovation and Technology was <em>not</em> exploring this family of technologies it would be a dereliction of duty!</p>
+<p>The thing we can't tell from these ChatGPT logs is how dependent he was on these results.</p>
+<p>Did he idly throw some questions at ChatGPT out of curiosity to see what came back, then ignore that entirely, engage with his policy team and talk to experts in the field to get a detailed understanding of the issues at hand?</p>
+<p>Or did he prompt ChatGPT, take the results as gospel and make policy decisions based on that sloppy interpretation of a two-year stale guess at the state of the world?</p>
+<p>Those are the questions I'd like to see answered.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/politics">politics</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/3/tips-for-peter-kyle/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-03, from: Dave Winer's linkblog)
+
+Knicks fire head coach Tom Thibodeau. 
+
+<br> 
+
+<https://sports.yahoo.com/article/knicks-firing-head-coach-tom-184103285.html>
+
+---
+
+## Sky Preview
+
+date: 2025-06-03, from: Michael Tsai
+
+Sky (MacRumors): Introducing Sky for Mac. [&#8230;] Sky floats over whatever you&#8217;re doing so you can: Ask questions from anywhere on your Mac Take action in your apps (send a message, schedule an event, etc) Use your own custom tools by adding prompts, scripts, shortcuts, or MCPs Federico Viticci (Mastodon): For the past two weeks, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/03/sky-preview/>
+
+---
+
+## Compare Pages Documents in Kaleidoscope
+
+date: 2025-06-03, from: Michael Tsai
+
+Florian Albrecht: Need to compare two versions of a Pages document? We previously provided a solution based on Shortcuts, but recent updates to Pages (version 14.4 at the time of writing) have rendered that workflow unusable. Specifically, the AppleScript command Pages offers to export unformatted text&#8212;an essential part of our shortcut&#8212;no longer produces any text [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/03/compare-pages-documents-in-kaleidoscope/>
+
+---
+
+## Model Context Protocol (MCP) Tools for Mac
+
+date: 2025-06-03, from: Michael Tsai
+
+macOS Automator MCP Server (tweet): This project provides a Model Context Protocol (MCP) server, macos_automator, that allows execution of AppleScript and JavaScript for Automation (JXA) scripts on macOS. It features a knowledge base of pre-defined scripts accessible by ID and supports inline scripts, script files, and argument passing. The knowledge base is loaded lazily on [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/03/model-context-protocol-mcp-tools-for-mac/>
+
+---
+
+## The Automation Gap
+
+date: 2025-06-03, from: Michael Tsai
+
+John Voorhees: Yes, we each share some shortcuts we&#8217;ve built, but there&#8217;s also a healthy dose of third-party automation apps, services, and AI projects sprinkled throughout. I take that as a sign that automation is alive and well on Apple platforms. At the same time, though, it&#8217;s also a symptom of a bigger issue, especially [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/03/the-automation-gap/>
+
+---
+
+## Run Your Own AI
+
+date: 2025-06-03, updated: 2025-06-03, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://anthonylewis.com/2025/06/01/run-your-own-ai/">Run Your Own AI</a></strong></p>
+Anthony Lewis published this neat, concise tutorial on using my <a href="https://llm.datasette.io/">LLM</a> tool to run local models on your own machine, using <a href="https://simonwillison.net/2025/Feb/15/llm-mlx/">llm-mlx</a>.</p>
+<p>An under-appreciated way to contribute to open source projects is to publish unofficial guides like this one. Always brightens my day when something like this shows up.
+
+    <p><small></small>Via <a href="https://bsky.app/profile/anthonyllewis.bsky.social/post/3lqnypjsrrk2f">@anthonyllewis.bsky.social</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/3/run-your-own-ai/#atom-everything>
+
+---
+
+## SHAEF Intelligence Report EW-Pa 128 (AKA the “Red House Report”): Real Plan or Red Herring?
+
+date: 2025-06-03, from: National Archives, Text Message blog
+
+There is no document in the National Archives entitled the “Red House Report.”&#160; There is, however, a SHAEF intelligence report that mentions a late 1944 meeting that took place at the Hotel Rotes Haus [Red House] in Strasbourg, France, that has become known colloquially as the “Red House Report.” On November 7, 1944, the SHAEF &#8230; <a href="https://text-message.blogs.archives.gov/2025/06/03/shaef-intelligence-report-ew-pa-128-aka-the-red-house-report-real-plan-or-red-herring/" class="more-link">Continue reading <span class="screen-reader-text">SHAEF Intelligence Report EW-Pa 128 (AKA the “Red House Report”): Real Plan or Red Herring?</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/06/03/shaef-intelligence-report-ew-pa-128-aka-the-red-house-report-real-plan-or-red-herring/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-03, from: Feed for Alt USDS)
+
+Former Palantir employees condemned the company's involvement in mining and combining data from across the federal govt. We've written about the risks of combining these datasets, and these employees see the risk as well
+
+https://www.npr.org/2025/05/05/nx-s1-5387514/palantir-workers-letter-trump 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lqpkvzsmv22e>
+
+---
+
+## Anbernic RG Slide handheld game console has a 4.7 inch 120 Hz display and slide-out game controller
+
+date: 2025-06-03, from: Liliputing
+
+<p>Handheld game console maker Anbernic has revealed some of the features of the upcoming Anbernic RG Slide. We already knew that this was going to be the company&#8217;s first device with a PSP Go-like design featuring a screen that slides upward to reveal a game controller. Now we know more about that screen&#8230; and a bit [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/anbernic-rg-slide-handheld-game-console-has-a-4-7-inch-120-hz-display-and-slide-out-game-controller/">Anbernic RG Slide handheld game console has a 4.7 inch 120 Hz display and slide-out game controller</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/anbernic-rg-slide-handheld-game-console-has-a-4-7-inch-120-hz-display-and-slide-out-game-controller/>
+
+---
+
+## The Egg Yolk Principle: Human Sexuality Will Always Outsmart Prudish Algorithms and Hateful Politicians
+
+date: 2025-06-03, from: 404 Media Group
+
+Anti-porn laws can't stop porn, but they can stop free speech. In the meantime, people will continue to get off to anything and everything. 
+
+<br> 
+
+<https://www.404media.co/egg-yolk-popping-instagram-tiktok-ioda-anti-porn-laws/>
+
+---
+
+## Ukraine's Massive Drone Attack Was Powered by Open Source Software
+
+date: 2025-06-03, from: 404 Media Group
+
+Ukraine used ArduPilot to help it wipe out Russian targets. It wasn’t the first time and it won’t be the last. 
+
+<br> 
+
+<https://www.404media.co/ukraines-massive-drone-attack-was-powered-by-open-source-software/>
+
+---
+
+## The Beecrash State
+
+date: 2025-06-03, updated: 2025-06-03, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/06/03/the-beecrash-state/>
 
 ---
 
@@ -132,6 +402,18 @@ Eddie, what do you think of the new double knits?
 <br> 
 
 <https://www.youtube.com/watch?v=uxr9VJ_qKPI>
+
+---
+
+## [ On | No ] syntactic support for error handling
+
+date: 2025-06-03, updated: 2025-06-03, from: Go language blog
+
+Go team plans around error handling support 
+
+<br> 
+
+<https://go.dev/blog/error-syntax>
 
 ---
 

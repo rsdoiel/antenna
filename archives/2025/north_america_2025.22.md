@@ -1,11 +1,125 @@
 ---
 title: north america
-updated: 2025-06-03 06:08:50
+updated: 2025-06-03 14:09:32
 ---
 
 # north america
 
-(date: 2025-06-03 06:08:50)
+(date: 2025-06-03 14:09:32)
+
+---
+
+## Economic Growth Is Set to Slow Down Significantly: Justin Wolfers on the Crisis of Competence Coming From the White House
+
+date: 2025-06-03, from: The Contrarian
+
+"When my teeth are good, I don&#8217;t go see my dentist. And when your life is good, you don&#8217;t bother listening to an economist" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165120213/bfca0ac23051722c809f8c6a8863d274.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165120213/bfca0ac23051722c809f8c6a8863d274.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/economic-growth-is-set-to-slow-down>
+
+---
+
+## When so-called adults bully a child for political points 
+
+date: 2025-06-03, from: The Contrarian
+
+A California high school athlete has become a right-wing target. 
+
+<br> 
+
+<https://contrarian.substack.com/p/when-so-called-adults-bully-a-child>
+
+---
+
+## Let’s do Lunch! 06/03
+
+date: 2025-06-03, from: The Contrarian
+
+A recording from Let's Do Lunch! 06/03 
+
+<br> 
+
+<https://contrarian.substack.com/p/lets-do-lunch-0603>
+
+---
+
+## In Georgia, Trump Is Upending Successful Pro-Worker Reforms
+
+date: 2025-06-03, from: Capital and Main
+
+<p>A Fort Valley school bus company shows what workers and companies are losing. </p>
+<p>The post <a href="https://capitalandmain.com/in-georgia-trump-is-upending-successful-pro-worker-reforms">In Georgia, Trump Is Upending Successful Pro-Worker Reforms</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/in-georgia-trump-is-upending-successful-pro-worker-reforms>
+
+---
+
+##  Meet Your Abundance Governor 
+
+date: 2025-06-03, from: The Lever News
+
+ Colorado’s Democratic governor has been crushing consumer-protection measures to free the economy from burdensome regulation, Abundance-style.  
+
+<br> 
+
+<https://www.levernews.com/meet-your-abundance-governor/>
+
+---
+
+## Lunch by drone
+
+date: 2025-06-03, from: The Contrarian
+
+A cartoon by Nick Anderson. 
+
+<br> 
+
+<https://contrarian.substack.com/p/lunch-by-drone>
+
+---
+
+## Kennedy and MAHA are a disaster for America
+
+date: 2025-06-03, from: The Contrarian
+
+Anti-science theories are now jeopardizing the core health and science missions of Health and Human Services. 
+
+<br> 
+
+<https://contrarian.substack.com/p/kennedy-and-maha-are-a-disaster-for>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-06-03, from: The Contrarian
+
+Tuesday: Tesla Takedowns in Arizona, California, Ohio, and Massachusetts, protests against ICE, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## The GOP is lying about Medicaid cuts: Neera Tanden on the horrors of Trump's Big Beautiful Bill
+
+date: 2025-06-03, from: The Contrarian
+
+"The facts are that millions of people will lose healthcare because they take almost a trillion dollars out of the Medicaid program" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165094733/6ed2ad727a659e901186d38514b0a2fa.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165094733/6ed2ad727a659e901186d38514b0a2fa.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-gop-is-lying-about-medicaid-cuts>
 
 ---
 
@@ -104,18 +218,6 @@ date: 2025-06-02, from: The Lever News
 <br> 
 
 <https://www.levernews.com/wall-streets-at-home-with-grandma/>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-06-02, from: The Contrarian
-
-Monday: APride celebration in California, ICE protest in Massachusetts, a Tesla Takedown in California, Georgians celebrate a Ukrainian attack in Russia, and planning for upcoming protests. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

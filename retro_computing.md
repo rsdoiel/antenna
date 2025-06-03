@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-06-03 06:08:56
+updated: 2025-06-03 14:09:38
 ---
 
 # retro computing
 
-(date: 2025-06-03 06:08:56)
+(date: 2025-06-03 14:09:38)
+
+---
+
+## b.log 2025/06/03 - Central locking doesn't, My happy word, Doctor Who, Stranger Things.
+
+date: 2025-06-03, from: Richard Murray's blog
+
+Central locking doesn't, My happy word, Doctor Who, Stranger Things. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250603>
+
+---
+
+## Plasma 6.5 Promises Better Memory Optimization
+
+date: 2025-06-03, from: Linux Magazine
+
+<p>With the stable Plasma 6.4 on the horizon, KDE has a few new tricks up its sleeve for Plasma 6.5.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Plasma-6.5-Promises-Better-Memory-Optimization>
 
 ---
 
@@ -462,7 +486,7 @@ But we have an alternative on the ANS ADB keyboard: the Command keys. The Comman
 <p>
 Lastly, I added some code to check the default or available visuals so that you can't (easily) run the wrong version in the wrong place and bumped the optimization level to <tt>-O3</tt>. And that's the game. Here's a video of it on the console, though I swapped in an LCD display so that the CRT flicker won't set you off. This is literally me pointing my Pixel 7 Pro camera at the screen.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dy1oFvOT7USn8g7SpeUFkzYCkWdfpNgIa3NoWUzqRGiPBADLEzyM1Aj4J5CGFHEgqWmjcsqZTcQBKUfeF3kiw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxfUPeONO3qlDC6rUDqq0C5PFz7rRjkE77QCNMckaFbZKF_cmnSIHbYyDmCEaJIMEi6qqV26q2Dciie5vl1Wg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 However, this port should run just fine on anything else running AIX 4.1, not just the ANS. Sooooo ... let's get out something else running AIX 4.1!
 
@@ -474,7 +498,7 @@ Here's an IBM RS/6000 Notebook 860, another <a href="2022/09/the-mips-thinkpad-k
 
 This machine is a good test because it also runs 4.1.5 (but IBM vanilla AIX this time) and its GT20-based LCD display supports exactly the same 8-bit colour visual at 1024x768, yet it's a 166MHz PowerPC 603e, slower and with weaker integer performance than the 200MHz 604e we were previously using, plus it only has half the L1 cache and just 256K of L2.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxrBtj_52HSldw4nOUAbXPP9CJ61A74NAZd_3oQi2RzFPH15vCnfYfhcjdRx-FDJnLPhT_3FcPy_HZyhoHhJg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwPSCTq2vPL_JuUQPCBAUXNWDabZhSxuUSO0bnNoOzOCr8KiuZ_C-895NwJ--FjWNw-SYd5XmUuyTQ9-JQgUw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 Despite that, though, the game runs credibly. (Sorry about the bad angles but the 860's LCD isn't as good as the one I had attached to the ANS.) The only thing that I did notice was that disabling key repeat didn't work for the left and right keys &mdash; if you hold them down, they turn, stop, and then turn slower &mdash; while other keys seem normal. There is no option to change this on a per-key basis in CDE (remember, no Xkb) and near as I can determine the ANS and the 860 are configured the same. There may be a difference in the X server which I'll have to figure out later. Our target system remains the Network Server but it's nice to see it running other places.
 <p>

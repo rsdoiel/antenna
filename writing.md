@@ -1,11 +1,85 @@
 ---
 title: writing
-updated: 2025-06-03 06:08:53
+updated: 2025-06-03 14:09:35
 ---
 
 # writing
 
-(date: 2025-06-03 06:08:53)
+(date: 2025-06-03 14:09:35)
+
+---
+
+## 2025 Premio Ernesto Vegetti Winners
+
+date: 2025-06-03, from: Locus Magazine
+
+<p>The Associazione World SF Italia announced the finalists for the 2025 Premio Ernesto Vegetti, an Italian SF award.</p>
+<div class="mynomorebulletlist">
+<p><strong>Novel</strong></p>
+<ul>
+<li>WINNER: <strong>L’arma del Druido</strong>, Giuseppe Bono &#38; Marco Di Giaimo (Angolazioni)</li>
+</ul>
+<ul>
+<li><strong>Odissea Futura</strong>, Luigi De Pascalis (Tabula Fati)</li>
+<li><strong>Gente dello spazio</strong>, Franco Piccinini (Scudo)</li>
+</ul>
+<p><strong>Nonfiction</strong></p>
+<ul>
+<li>WINNER: <strong>Teorie dello Spazio: da Newton alla fantascienza</strong>, Davide Arecco (Scudo)</li>
+</ul>
+<ul>
+<li><strong>Il dilemma della fantascienza</strong>, Mauro Antonio Miglieruolo (Scudo)</li>
+<li><strong>Conversando tra </strong></li></ul></div> <a href="https://locusmag.com/2025/06/2025-premio-ernesto-vegetti-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/06/2025-premio-ernesto-vegetti-winners/>
+
+---
+
+## New Book Releases: June 3, 2025
+
+date: 2025-06-03, from: Locus Magazine
+
+<p></p>
+<p style="text-align: center;"><strong data-wp-editing="1">Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
+<p>&#160;</p>
+
+<p style="text-align: center;"><strong>New science fiction, fantasy, and horror books for the week of June 3, 2025. </strong></p>
+<p>Alderson, Ben: <b>A Game of Monsters</b> (Angry Robot UK 978-1915998804, $20.99, 544pp, formats: paperback, ebook, 06/03/2025)</p>
+<p>Fantasy romance novel, fourth and final in the Realm of Fey series. Robin Icethorn sets out to free Duncan Rackley, who&#8217;s become  <a href="https://locusmag.com/2025/06/new-book-releases-june-3-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/new-book-releases-june-3-2025/>
+
+---
+
+## The Old New Video Problem
+
+date: 2025-06-03, from: John August blog
+
+New forms of video creation are coming to disrupt the entertainment industry, but will they succeed? John and Craig look at verticals and Veo 3 to see where we might be heading, and what our industry’s past innovations might tell us about about the future. We also look at Memorial Day’s banner box office, and [&#8230;]
+The post <a href="https://johnaugust.com/2025/the-old-new-video-problem">The Old New Video Problem</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/689standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/689standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2025/the-old-new-video-problem>
+
+---
+
+## Greenteeth by Molly O’Neill: Review by Liz Bourke
+
+date: 2025-06-03, from: Locus Magazine
+
+<p><strong>Greenteeth</strong>, Molly O’Neill (Orbit US 978-0-316-58424-1, $18.99, 281pp, tp) February 2025. Cover by Leo Nickolls</p>
+<p><strong>Greenteeth </strong>is Australia-based British author Molly O’Neill’s debut novel, and one that owes an unexpectedly charming debt to T. Kingfisher and Terry Pratchett. In a small lake near the English village of Chipping Appleby, in an uncertainly historic (premodern, post-Reformation) century, lives the monster Jenny Greenteeth. Jenny’s a sharp-toothed predator. But this nightmarish monster  <a href="https://locusmag.com/2025/06/greenteeth-by-molly-oneill-review-by-liz-bourke/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/greenteeth-by-molly-oneill-review-by-liz-bourke/>
 
 ---
 

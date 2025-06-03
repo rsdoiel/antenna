@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-06-03 06:08:52
+updated: 2025-06-03 14:09:34
 ---
 
 # science and technology
 
-(date: 2025-06-03 06:08:52)
+(date: 2025-06-03 14:09:34)
+
+---
+
+## Fvwm3 1.1.3 released, completes transition from autotools to meson
+
+date: 2025-06-03, from: OS News
+
+Fvwm3, the venerable, solid, configurable, no-nonsense window manager for X, has been updated: fvwm3 1.1.3 has been released. While the version number indicates that this is a minor release, there&#8217;s one reason why 1.1.3 is actually a much bigger deal than the version number suggests: it switches the build system from autotools to meson. Fvwm is very old, and has been using autotools since 1996 (before then it was using handcrafted makefiles), but the release of autotools 2.70, which came eight years after the previous release, the amount of changes in autotools proved to be a major headache for fvwm. Since the amount of work would be considerable, the project decided to look at alternatives to autotools, and after considering CMake and meson, the latter was chosen. This was chosen primary because X11 itself is transitioning its projects from autotools to meson. Additionally, there has been good help from the wider community around meson&#8217;s adoption. In terms of &#8220;speed&#8221;, the parallelised nature of not using make does mean compilation speeds are improved, even on lower-end systems. ↫ Thomas Adam To ensure you don&#8217;t need Python 3 just to build fvwm3, you can use muon starting with muon version 0.13. Muon is written in C, and only requires a C compiler to be built. Fvwm3&#8217;s transition from autotools to Meson started with version 1.1.1, and with 1.1.3 autotools has been completely deprecated. As for actual changes to fvwm3 itself, this point release is exactly what you&#8217;d expect &#8211; a few bug fixes, as well as some minor changes to FvwmRearrange. 
+
+<br> 
+
+<https://www.osnews.com/story/142480/fvwm3-1-1-3-released-completes-transition-from-autotools-to-meson/>
+
+---
+
+## Meta just saved an Illinois nuclear plant that was set to be mothballed
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>The 20-year deal with Constellation will slake Zuckercorp&#39;s thirst for energy to power AI datacenters</h4> <p>Meta has signed a 20-year deal with Constellation Energy to keep the lights on at an Illinois nuke plant that was facing an uncertain future once state subsidies dry up in 2027. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/meta_signs_20year_nuclear_deal/>
+
+---
+
+## America’s First Spacewalk
+
+date: 2025-06-03, from: NASA breaking news
+
+NASA astronaut Ed White, pilot of the Gemini IV mission, floats in space on June 3, 1965, while performing the first spacewalk by an American. As White floated outside the spacecraft, he used a Hand-Held Maneuvering Unit, informally called a “zip gun.” The device, seen in White’s right hand in this image, expelled pressurized oxygen [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/americas-first-spacewalk/>
+
+---
+
+## Google quietly pushes emergency fix for Chrome 0-day as exploit runs wild
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>TAG team spotted the V8 bug first, so you can bet nation-states weren’t far behind</h4> <p>Google revealed Monday that it had quietly deployed a configuration change last week to block active exploitation of a Chrome zero-day.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/google_chrome_zero_day_emergency_fix/>
+
+---
+
+## Microsoft will stop pestering Windows users about Edge in EU
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>Plus, Europeans will find it easier to sideline Bing and uninstall the Windows Store</h4> <p>Microsoft has announced more tweaks to Windows in a bid to stay on the right side of Europe&#39;s Digital Markets Act, including a promise that Edge will only nag users to become their default browser if they open it first.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/microsoft_stops_eu_edge_pestering/>
+
+---
+
+## Future Engineers Shine at NASA’s 2025 Lunabotics Robotics Competition
+
+date: 2025-06-03, from: NASA breaking news
+
+And the winner is… the University of Utah in Salt Lake City. The Utah Student Robotics Club won the grand prize Artemis Award on May 22 for NASA’s 2025 Lunabotics Challenge held at The Astronauts Memorial Foundation’s Center for Space Education at the Kennedy Space Center Visitor Complex in Florida.&#160; &#8220;Win was our motto for the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/kennedy/future-engineers-shine-at-nasas-2025-lunabotics-robotics-competition/>
+
+---
+
+## X's new 'encrypted' XChat feature seems no more secure than the failure that came before it
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>Musk&#39;s &#39;Bitcoin-style encryption&#39; claim has experts scratching their heads</h4> <p>Elon Musk&#39;s X social media platform is rolling out a new version of its direct messaging feature that the platform owner said had a &#34;whole new architecture,&#34; but as with many a Muskian proclamation, there&#39;s reason to doubt what&#39;s been said. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/xs_new_encrypted_xchat_feature/>
+
+---
+
+## Crooks fleece The North Face accounts with recycled logins
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>Outdoorsy brand blames credential stuffing</h4> <p>Joining the long queue of retailers dealing with cyber mishaps is outdoorsy fashion brand The North Face, which says crooks broke into some customer accounts using login creds pinched from breaches elsewhere.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/north_face_credential_stuffing/>
+
+---
+
+## AWS forms EU-based cloud unit as customers fret about Trump 2.0
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>Locally run, Euro-controlled, ‘legally independent,&#39; and ready by the end of 2025</h4> <p>In a nod to European customers&#39; growing mistrust of American hyperscalers, Amazon Web Services says it is establishing a new organization in the region &#34;backed by strong technical controls, sovereign assurances, and legal protections.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/aws_european_sovereign_cloud/>
+
+---
+
+## NASA Kennedy Digs Latest Robot Test
+
+date: 2025-06-03, from: NASA breaking news
+
+NASA’s RASSOR (Regolith Advanced Surface Systems Operations Robot) undergoes testing to extract simulated regolith, or the loose, fragmental material on the Moon’s surface, inside of the Granular Mechanics and Regolith Operations Lab at the agency’s Kennedy Space Center in Florida on May 27. Ben Burdess, mechanical engineer at NASA Kennedy, observes RASSOR’s counterrotating drums digging [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-kennedy-digs-latest-robot-test/>
+
+---
+
+## Interview with Dave Des Marais
+
+date: 2025-06-03, from: NASA breaking news
+
+Let’s start with your childhood, where you&#8217;re from, your family at the time, if you have siblings, your early years, and when it was that you became interested in what has developed into your career as an astrophysicist or research scientist? I was born in Richmond, Virginia in 1948, the youngest of four siblings – [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/interview-with-dave-des-marais/>
+
+---
+
+## Windows 11 market share stalls ahead of Windows 10 cutoff
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>Microsoft&#39;s latest and greatest still lags behind predecessor as time runs out</h4> <p>User adoption of Windows 11 is slowing down, with the operating system still lagging behind Windows 10 as end of support nears.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/windows_11_market_share/>
+
+---
+
+## Engineers bring Psyche's thrusters back online
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>Diagnosing a borkage from a million miles away</h4> <p>NASA&#39;s Psyche spacecraft is back in business after engineers successfully switched to a backup fuel line in an impressive piece of remote maintenance.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/engineers_bring_psyches_thrusters_back/>
+
+---
+
+## Sony’s NEWS UNIX workstations
+
+date: 2025-06-03, from: OS News
+
+The first prototype was ready in just six months. By October 1986, the project was announced, and in January 1987, the first NEWS workstation, the NWS 800 series, officially launched. It ran 4.2BSD UNIX and featured a Motorola 68020 CPU. Its performance rivaled that of traditional super minicomputers, but with a dramatically lower price point ranging from ¥950,000 to ¥2.75 million (approximately $6,555 to $18,975 USD in 1987). Competing UNIX workstations typically cost closer to ¥10 million (around $69,000 USD). NEWS caught on quickly in universities and R&#38;D labs, where cost sensitive researchers needed real performance. The venture team had invested ¥400 million into development (about $2.76 million USD), and remarkably, they recouped those costs within just two months of launch. That same year, Sony introduced a lower cost version called POP NEWS (PWS 1550). With a GUI shell named NEWS Desk, a document sharing format called CDFF (Common Document File Format), and a focus on Japanese language desktop publishing, PopNEWS aimed to make UNIX more accessible to general business users. Targeted at the Desktop Publishing market, it showed Sony’s desire to bridge consumer and professional segments in ways no other UNIX vendor was trying at the time. ↫ Obsolete Sony’s Newsletter I&#8217;ve been fascinated by Sony&#8217;s NEWS workstations, and especially the NEWS-OS operating system, for a long time now. Real hardware is hard to find and prohibitively expensive, but some of these Sony NEWS workstations can be emulated through MAME. Sadly, as far as I can tell, you can only emulate NEWS-OS up to version 4.x, as I haven&#8217;t been able to find any information about emulating version 5.x and the final version, 6.x. If anyone knows anything about how to emulate these, if at all possible, please do share with the rest of us. What&#8217;s interesting about Sony&#8217;s UNIX workstation efforts from the &#8217;80s and &#8217;90s is that they played an important role in the early development of the PlayStation. The early development kits for the PlayStation were modified NEWS workstations, with added PlayStation hardware. To further add to the importance of the NEWS line for gaming, Nintendo used them to develop several influential and popular first-party SNES titles, which isn&#8217;t surprising considering Nintendo and Sony originally worked together on bringing a CD-ROM drive to the SNES, which would later morph into the PlayStation as Nintendo cancelled the agreement at the last second. 
+
+<br> 
+
+<https://www.osnews.com/story/142478/sonys-news-unix-workstations/>
+
+---
+
+## NASA’s Webb Rounds Out Picture of Sombrero Galaxy’s Disk
+
+date: 2025-06-03, from: NASA breaking news
+
+After capturing an image of the iconic Sombrero galaxy at mid-infrared wavelengths in late 2024, NASA’s James Webb Space Telescope has now followed up with an observation in the near-infrared. In the newest image, the Sombrero galaxy’s huge bulge, the tightly packed group of stars at the galaxy’s center, is illuminated, while the dust in […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/webb/nasas-webb-rounds-out-picture-of-sombrero-galaxys-disk/>
+
+---
+
+## Microsoft patches the patch that put Windows 11 in a coma
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>Out-of-band is becoming the norm rather than the exception</h4> <p>Microsoft is patching another patch that dumped some PCs into recovery mode with an unhelpful error code.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/windows_11_oob_fix/>
+
+---
+
+## c-FIRST Team Sets Sights on Future Fire-observing Satellite Constellations
+
+date: 2025-06-03, from: NASA breaking news
+
+Two NASA-developed technologies are key components of a new high-resolution sensor for observing wildfires: High Operating Temperature Barrier Infrared Detector (HOT-BIRD), developed with support from NASA’s Earth Science Technology Office (ESTO), and a cutting-edge Digital Readout Integrated Circuit (DROIC), developed with funding from NASA’s Small Business Innovation Research (SBIR) program. A novel space-based sensor for […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/c-first-team-sets-sights-on-future-fire-observing-satellite-constellations/>
+
+---
+
+## Hubble Filters a Barred Spiral
+
+date: 2025-06-03, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image features a luminous tangle of stars and dust called the barred spiral galaxy NGC 1385, located about 30 million light-years away. Hubble released an earlier image of NGC 1385, but the two images are notably different. This more recent image has far more pinkish-red and umber shades, whereas cool […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-filters-a-barred-spiral/>
 
 ---
 

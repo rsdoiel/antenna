@@ -1,11 +1,192 @@
 ---
 title: home
-updated: 2025-06-03 06:08:55
+updated: 2025-06-03 14:09:37
 ---
 
 # home
 
-(date: 2025-06-03 06:08:55)
+(date: 2025-06-03 14:09:37)
+
+---
+
+## How to Grow and Care for Quaking Aspen Trees
+
+date: 2025-06-03, from: The Gardener's Path
+
+<p>Quaking aspen trees populate the slopes of mountains, fill sunlit forests with their trembling leaves, and like to pop up in forgotten fields. These North American natives are hardy, versatile, and somewhat forgiving. Learn how to grow and care for quaking aspen in your landscape in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/grow-quaking-aspen/">How to Grow and Care for Quaking Aspen Trees</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/grow-quaking-aspen/>
+
+---
+
+## In Australia, a Beach Shack Beloved by Locals Gets a Net-Zero Revamp
+
+date: 2025-06-03, from: Dwell
+
+Alexander Symes Architect incorporated an extension with a deck—and a suite of passive strategies—to revitalize the residence, which is nicknamed the Cake House. 
+
+<br> 
+
+<https://www.dwell.com/article/cake-house-alexander-symes-architect-bach-renovation-passive-house-design-3313be96>
+
+---
+
+## This Tuscan-Inspired Sonoma Valley Estate With Its Own Vineyard  Asks $4.1M
+
+date: 2025-06-03, from: Dwell
+
+In case your own wine isn’t enough, there’s also a myriad of amenities including a guest house, pool, spa, and bocce court. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-wine-estate-glen-ellen-real-estate-57924c46>
+
+---
+
+## A 350-Year-Old Oak Lives at This $780K Usonian-Inspired Home in Florida
+
+date: 2025-06-03, from: Dwell
+
+Architect Harry Merritt designed the Haynes Residence with terrazzo floors, a sunken living room, and plenty of glass walls. 
+
+<br> 
+
+<https://www.dwell.com/article/haynes-residence-harry-merritt-midcentury-gainesville-florida-real-estate-56244c6a>
+
+---
+
+## Why Disney Is Building Affordable Housing
+
+date: 2025-06-03, from: Dwell
+
+The entertainment behemoth is set to break ground on a 1,400-unit mixed-income development near Orlando, Florida. 
+
+<br> 
+
+<https://www.dwell.com/article/horizon-west-why-disney-is-building-affordable-housing-b6151320>
+
+---
+
+## Want $5,000? This City Will Pay You to Replace Your Thirsty Lawn
+
+date: 2025-06-03, from: Family Handyman Blog
+
+<p>Would you you to swap out your lawn for a native, drought-tolerant alternative if there were $5000 on the line? </p>
+<p>The post <a href="https://www.familyhandyman.com/article/nampa-waterwise-program/">Want $5,000? This City Will Pay You to Replace Your Thirsty Lawn</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/nampa-waterwise-program/>
+
+---
+
+## Ford Recalls a Million Vehicles Over Dangerous Rearview Camera Glitch
+
+date: 2025-06-03, from: Family Handyman Blog
+
+<p>Ford recently announced the recall of nearly 1.1 million vehicles due to a rearview camera bug. Is yours one of them?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/ford-rearview-camera-recall/">Ford Recalls a Million Vehicles Over Dangerous Rearview Camera Glitch</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/ford-rearview-camera-recall/>
+
+---
+
+## Refresh Your Plants With This Easy DIY Compost Tea
+
+date: 2025-06-03, from: Family Handyman Blog
+
+<p>Turn ordinary compost into extraordinary plant food by following these simple instructions for making compost tea that your plants will love.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/compost-tea/">Refresh Your Plants With This Easy DIY Compost Tea</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/compost-tea/>
+
+---
+
+## You Can Get a Free Power Tool at The Home Depot—Here’s How
+
+date: 2025-06-03, from: Family Handyman Blog
+
+<p>These buy-one-get-one deals make a great Father's Day gift!</p>
+<p>The post <a href="https://www.familyhandyman.com/article/the-home-depot-free-power-tool-2025/">You Can Get a Free Power Tool at The Home Depot—Here’s How</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/the-home-depot-free-power-tool-2025/>
+
+---
+
+## 40 Types of Spiders in Montana (With Pictures and Identification)
+
+date: 2025-06-03, from: Yard Life blog
+
+<p>If you&#8217;re curious about the diverse types of spiders in Montana, you’re in the right place. Montana’s varied landscapes—from forests ... </p>
+<p class="read-more-container"><a title="40 Types of Spiders in Montana (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/40-types-of-spiders-in-montana-with-pictures-and-identification/#more-29390" aria-label="Read more about 40 Types of Spiders in Montana (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/40-types-of-spiders-in-montana-with-pictures-and-identification/">40 Types of Spiders in Montana (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/40-types-of-spiders-in-montana-with-pictures-and-identification/>
+
+---
+
+## A Massive New In-N-Out in Las Vegas Is Set to Open Next Year. Here’s a Sneak Peek.
+
+date: 2025-06-03, from: Sunset Magazine - Living in the West
+
+Set to open in 2026, the new In-N-Out in Las Vegas will be the second largest of the SoCal-based chain's locations.  
+
+<br> 
+
+<https://www.sunset.com/food-wine/restaurants/new-in-n-out-in-las-vegas-biggest-location>
+
+---
+
+## 7 Ways You Can Turn Your Vegetable Garden into a Beautiful Work of Art
+
+date: 2025-06-03, from: Sunset Magazine - Living in the West
+
+Landscape designer Christian Douglas teaches us how to mix flavor with flair and create a beautiful vegetable garden. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/edible-gardening/vegetable-garden-design-ideas>
+
+---
+
+## Stripes Will Never Go out of Style—Here’s the Correct Way to Decorate with Them
+
+date: 2025-06-03, from: Sunset Magazine - Living in the West
+
+Stripes are a classic design pattern that will never go out of style. Designers share the best way to decorate with stripes at home. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/how-to-decorate-with-stripes>
+
+---
+
+## These Are the Best Father’s Day Gifts to Give This Year
+
+date: 2025-06-03, from: Sunset Magazine - Living in the West
+
+Father's Day is just around the corner and that means it's time for shopping. These are the best Father's Day gifts, at every price point. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/fathers-day-gift-ideas>
 
 ---
 
@@ -136,18 +317,6 @@ This summer, focus on nurturing your garden in new ways with tips on fire-safe p
 <br> 
 
 <https://www.sunset.com/home-garden/garden-basics/summer-garden-care-tips>
-
----
-
-## A Massive New In-N-Out in Las Vegas Is Set to Open Next Year. Here’s a Sneak Peak.
-
-date: 2025-06-02, from: Sunset Magazine - Living in the West
-
-Set to open in 2026, the new In-N-Out in Las Vegas will be the second largest of the SoCal-based chain's locations.  
-
-<br> 
-
-<https://www.sunset.com/food-wine/restaurants/new-in-n-out-in-las-vegas-biggest-location>
 
 ---
 

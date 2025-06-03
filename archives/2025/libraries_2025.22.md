@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2025-06-03 06:08:54
+updated: 2025-06-03 14:09:37
 ---
 
 # libraries
 
-(date: 2025-06-03 06:08:54)
+(date: 2025-06-03 14:09:37)
+
+---
+
+## The Autobiography of an Idea, by Louis H. Sullivan
+
+date: 2025-06-03, from: Standard Ebooks, new releaases
+
+Famed architect Louis H. Sullivan recounts his life and career. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/louis-h-sullivan/the-autobiography-of-an-idea>
 
 ---
 
@@ -51,7 +63,7 @@ Columbus is shown a history of the western hemisphere since his discoveries.
 
 date: 2025-06-02, from: Association of Research Libraries News
 
-<p>Last Updated on June 2, 2025, 3:27 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 3 &#124; Wednesday, June 4 &#124; Thursday,...</p>
+<p>Last Updated on June 3, 2025, 1:43 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 3 &#124; Wednesday, June 4 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-june-2-5/">Day in Review (June 2–5)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

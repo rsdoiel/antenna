@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-06-03 06:08:53
+updated: 2025-06-03 14:09:36
 ---
 
 # games
 
-(date: 2025-06-03 06:08:53)
+(date: 2025-06-03 14:09:36)
+
+---
+
+## Alan Tudyk, master of disguise, just faced his greatest challenge
+
+date: 2025-06-03, updated: 2025-06-03, from: Polygon Website
+
+Alan Tudyk is everywhere — you just haven’t seen his face much. Since his starring run on Firefly and the spin-off movie Serenity, he’s thrown himself into voice acting, recently reprising his Rogue One role as the sassy droid K-2SO on Andor, and playing a different robot opposite Stranger Things’ Millie Bobby Brown in The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/603309/alan-tudyk-directing-debut-tv-resident-alien-season-4>
+
+---
+
+## New Pathologic 3 trailer gives players a closer look at the Bachelor’s campaign
+
+date: 2025-06-03, updated: 2025-06-03, from: Polygon Website
+
+Moscow-based developer Ice-Pick Lodge has provided players with an in-depth glimpse at its upcoming RPG, Pathologic 3, via a new trailer. Pathologic 3 is the latest chapter of the reimagined version of Ice-Pick Lodge’s 2005 classic, Pathologic. The trailer follows protagonist Daniil Dankovsky (often referred to in-game as The Bachelor), a well-educated doctor who travels [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pc/603391/new-pathologic-3-trailer>
+
+---
+
+## What time does Dune: Awakening release in early access?
+
+date: 2025-06-03, updated: 2025-06-03, from: Polygon Website
+
+Dune: Awakening is out this week on Windows PC, following a delay from its initially planned May 20 release date. The survival game purports to inject fresh spice both into the survival genre and into its source material, with a narrative set in an alternate version of Frank Herbert’s Dune timeline — one where Paul [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dune-awakening-guides/603369/release-time-early-access-start-date>
+
+---
+
+## Three new horror games I can’t wait to get my sweaty palms on
+
+date: 2025-06-03, updated: 2025-06-03, from: Polygon Website
+
+The Horror Game Awards Summer Showcase took place over the weekend, unveiling world premiere trailers for 50 new and upcoming horror titles that are sure to send a chill down even the bravest horror fan&#8217;s spine. With so many games appearing in the showcase, it&#8217;s hard to play favorites, but some trailers definitely stood out [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/603303/horror-game-awards-showcase-best-trailers-games>
+
+---
+
+## Here’s how Street Fighter 2 figures into 2025’s weirdest action-comedy
+
+date: 2025-06-03, updated: 2025-06-03, from: Polygon Website
+
+Yang Li’s time-travel action-comedy Escape From the 21st Century is overstuffed with ideas. Some of them are big, weighty ideas, about human potential, regret, lost time, and the meaning of life. Some of them are much, much sillier, like the idea that playing enough Street Fighter 2 gives you superpowers. The movie is a frantic [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/603045/street-fighter-2-escape-from-the-21st-century-clip>
+
+---
+
+## How to change skins in Elden Ring Nightreign
+
+date: 2025-06-03, updated: 2025-06-03, from: Polygon Website
+
+You can change your appearance in Elden Ring Nightreign, but not entirely — and it’s not a feature that’s available at the start. While you don’t have total control over your appearance, you can change the skins worn by each of your Nightfarers, so long as you have the Murk to do so. Below, here’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/602062/change-outfits-appearance-how-to-unlock>
+
+---
+
+## All skins in Elden Ring Nightreign and how to unlock them
+
+date: 2025-06-03, updated: 2025-06-03, from: Polygon Website
+
+Skins in Elden Ring Nightreign are officially called “garb” — it’s the game’s version of cosmetics or alternate outfits for its cast of playable classes. As you continue your journey against the eight Nightlords, there’s no reason not to look as stylish as possible. Elden Ring Nightreign, you start with one default outfit. Once you’ve [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/603116/skins-list-all-how-to-unlock>
+
+---
+
+## Epic’s AI Darth Vader tech is about to be all over Fortnite
+
+date: 2025-06-03, updated: 2025-06-03, from: Polygon Website
+
+Fortnite’s AI-powered Darth Vader shenanigans were just a test; Epic Games will soon allow Fortnite creators to craft their own chatbot-esque NPC for the battle royale game. The gaming company announced the forthcoming feature called the Persona Device on Tuesday at its State of Unreal 2025 event. Epic Games explained that the new feature will [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/603109/epics-ai-darth-vader-tech-for-fortnite-ai-npcs>
+
+---
+
+## Netflix’s The Sandman will adapt the spinoff Death: The High Cost of Living
+
+date: 2025-06-03, updated: 2025-06-03, from: Polygon Website
+
+Allan Heinberg, the showrunner of Netflix’s adaptation of The Sandman, claims it was always the plan to condense Neil Gaiman’s 10 graphic novels into two seasons, and not a reaction to the sexual assault allegations against Gaiman. A reveal of the titles for the show’s final 12 episodes demonstrates just how much they’re cramming in, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/603253/netflix-the-sandman-death-the-high-cost-of-living>
 
 ---
 

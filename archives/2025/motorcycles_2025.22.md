@@ -1,11 +1,24 @@
 ---
 title: motorcycles
-updated: 2025-06-03 06:08:55
+updated: 2025-06-03 14:09:38
 ---
 
 # motorcycles
 
-(date: 2025-06-03 06:08:55)
+(date: 2025-06-03 14:09:38)
+
+---
+
+## There’s a Fancy New Version Of This Off-Road Motorcycle, But Will It Sell?
+
+date: 2025-06-03, from: Ride Apart, Electric Motorcycle News
+
+It’s basically Moto Morini’s answer to the rally-spec ADVs launching left and right. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/761345/moto-morini-xcape-gold-edition-europe/>
 
 ---
 

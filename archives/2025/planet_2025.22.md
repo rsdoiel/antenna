@@ -1,11 +1,367 @@
 ---
 title: planet
-updated: 2025-06-03 06:08:49
+updated: 2025-06-03 14:09:31
 ---
 
 # planet
 
-(date: 2025-06-03 06:08:49)
+(date: 2025-06-03 14:09:31)
+
+---
+
+## Musk blasts Trump mega-bill, days after farewell
+
+date: 2025-06-03, from: RTÉ News
+
+Elon Musk has hammered US President Donald Trump's proposed spending bill as a "disgusting abomination" as tensions between the pair burst into the open following the tech billionaire's White House exit. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0603/1516541-musk-trump-bill/>
+
+---
+
+## Ireland beat Slovenia but fall short in promotion quest
+
+date: 2025-06-03, from: RTÉ News
+
+The Republic of Ireland delivered their best peformance under Carla Ward to date but fell short in their pursuit of Nations League promotion, despite beating Slovenia 1-0 at Páirc Uí Chaoimh. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0603/1516466-ireland-beat-slovenia-but-fall-short-in-promotion-quest/>
+
+---
+
+## Murder accused insists he used sword to 'scare' victim
+
+date: 2025-06-03, from: RTÉ News
+
+A tattoo artist charged with the murder of a 33-year-old man who suffered "sub-total amputation" of his left leg and extremely rapid blood loss when he was struck with a sword has said that he only ever intended to "scare" him. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0603/1516531-murder-accused-insists-he-used-sword-to-scare-victim/>
+
+---
+
+## Trump to sign order doubling steel and aluminium tariffs
+
+date: 2025-06-03, from: RTÉ News
+
+US President Donald Trump will sign an executive order making official his vow to double tariffs on steel and aluminium, White House spokeswoman Karoline Leavitt has told reporters in a briefing. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0603/1516533-us-tariffs/>
+
+---
+
+## Job fears as Wellman International to enter examinership
+
+date: 2025-06-03, from: RTÉ News
+
+There are fears over possible job cuts at Wellman International after it filed a petition with the High Court to place its operation in Mullagh, Co Cavan into examinership. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0603/1516523-wellman-international-examinership/>
+
+---
+
+## Watch: Last minute advice as exam paper boxes arrive
+
+date: 2025-06-03, from: RTÉ News
+
+Boxes of exam papers are arriving at secondary schools around the country ahead of the Leaving Certificate and Junior Cycle exams. 
+
+<br> 
+
+<https://www.rte.ie/news/education/2025/0603/1516518-leaving-cert-exam-papers/>
+
+---
+
+## Women's Nations League recap: Ireland 1-0 Slovenia
+
+date: 2025-06-03, from: RTÉ News
+
+Read how it all unfolded as Ireland ended their campaign with a victory, 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0603/1516508-womens-nations-league-ireland-v-slovenia-updates/>
+
+---
+
+## Life sentence for man who murdered his mother in Sligo
+
+date: 2025-06-03, from: RTÉ News
+
+A 39-year-old man has been sentenced to life in prison for the murder of his mother in Sligo two years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0603/1516513-sligo-murder-life-sentence/>
+
+---
+
+## Calls for suspension of EU-Israel Association Agreement
+
+date: 2025-06-03, from: RTÉ News
+
+The head of a leading Palestinian human rights organisation has urged the European Union to suspend the EU-Israel Association Agreement in light of Israel's deepening military campaign in Gaza and the planned expansion of illegal Jewish settlements in the West Bank. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0603/1516497-eu-israel-agreement/>
+
+---
+
+## Father who 'betrayed' daughter with disability jailed
+
+date: 2025-06-03, from: RTÉ News
+
+A man who engaged in a sexual act with his adult daughter, who has an intellectual disability, has been jailed for eight years. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0603/1516507-father-daughter-abuse/>
+
+---
+
+## MV Matthew crew hired by gang in Dubai, court told
+
+date: 2025-06-03, from: RTÉ News
+
+Six men who crewed a Panamanian cargo ship with the largest cocaine seizure in Irish history were hired in Dubai by a transnational organised crime group before flying to South America for the international drug trafficking operation. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0603/1516505-mv-matthew-court/>
+
+---
+
+## Palestinians killed by Israeli fire while awaiting aid in Rafah
+
+date: 2025-06-03, from: Vatican News
+
+
+                    <p>At least 24 Palestinians were killed and dozens injured by Israeli army fire while waiting for humanitarian aid in the southern Gaza city of Rafah.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/at-least-24-palestinians-killed-by-israeli-fire-awaiting-aid.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/at-least-24-palestinians-killed-by-israeli-fire-awaiting-aid.html>
+
+---
+
+## Smoke from Canadian wildfires reaches Europe, EU says
+
+date: 2025-06-03, from: RTÉ News
+
+Heavy smoke from intense wildfires in Canada has reached northwestern Europe, the European Union's climate monitoring service said today. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0603/1516489-smoke-from-canadian-wildfires-reaches-europe-eu-says/>
+
+---
+
+## Kelleher leaves Reds to sign five-year Brentford deal
+
+date: 2025-06-03, from: RTÉ News
+
+Caoimhín Kelleher has left Liverpool and completed a move to Premier League side Brentford. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0603/1516491-brentford-confirm-kelleher-signing-from-liverpool/>
+
+---
+
+## Classic Hits owner plans to buy Galway Bay FM
+
+date: 2025-06-03, from: RTÉ News
+
+The company behind Radio Nova, Classic Hits Radio and Sunshine 106.8 is planning to buy Galway Bay FM. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0603/1516487-galway-bay-fm-owner-plans-to-buy-classic-hits-owner/>
+
+---
+
+## Woman, 38, with incurable cancer receives HSE apology
+
+date: 2025-06-03, from: RTÉ News
+
+A 38-year-old woman with incurable cancer has received an apology in court from the HSE over the "failings" that occurred in two smear tests which "led to" her diagnosis. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0603/1516484-leona-macken-apology/>
+
+---
+
+## Pope's June prayer intention: 'That the world might grow in compassion'
+
+date: 2025-06-03, from: Vatican News
+
+
+                    <p>Pope Leo XIV releases his first monthly prayer intention for the month of June, inviting the faithful to pray "that each one of us might find consolation in a personal relationship with Jesus, and from His Heart, learn to have compassion on the world."</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-s-june-prayer-intention-for-compassion.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-s-june-prayer-intention-for-compassion.html>
+
+---
+
+## Number of children feeling low doubles over 25 years
+
+date: 2025-06-03, from: RTÉ News
+
+Fewer Irish children are reporting high life satisfaction and feeling happy with their lives, compared to a study measuring the same indicators among their counterparts in 1998. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0603/1516475-schoolchildren-study/>
+
+---
+
+## Mother of Pte Seán Rooney given permission to sue UN
+
+date: 2025-06-03, from: RTÉ News
+
+The mother of Irish soldier Seán Rooney, who was killed in action in Lebanon three years ago, has been given permission by the High Court to sue the United Nations in the Irish courts. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0603/1516481-sean-rooney-court/>
+
+---
+
+## Ukraine: Shedding light on war crimes to restore hope
+
+date: 2025-06-03, from: Vatican News
+
+
+                    <p>Valeriya Ygoshyna, a Ukrainian investigative journalist, has worked since the start of the war in Ukraine to gather proof of Russian violence against Ukrainian citizens, seeking to restore hope.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/ukraine-journalist-war-crimes-corruption-hope-women.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/ukraine-journalist-war-crimes-corruption-hope-women.html>
+
+---
+
+## 7 years jail for man for false imprisonment of pensioner
+
+date: 2025-06-03, from: RTÉ News
+
+A man has been jailed for seven years after pleading guilty to the false imprisonment of a pensioner at his home in Co Offaly. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0603/1516478-patrick-mcdonagh-court/>
+
+---
+
+## Tens of thousands make Marian pilgrimage in Vietnam
+
+date: 2025-06-03, from: Vatican News
+
+
+                    <p>To close the month of May and prepare for Pentecost, Catholics from the diocese of Da Nang, Vietnam make a pilgrimage to the site of a Marian apparition.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/tens-of-thousands-make-marian-pilgrimage-in-vietnam.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/tens-of-thousands-make-marian-pilgrimage-in-vietnam.html>
+
+---
+
+## South Korea's centre-left leader Lee wins presidency
+
+date: 2025-06-03, from: RTÉ News
+
+South Korea's centre-left leader Lee Jae-myung hailed voters' "great decision" as he was declared the winner of a snap presidential election, capping months of political chaos. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0603/1516468-south-korea-election/>
+
+---
+
+## King of the Hill and Parks and Rec actor shot dead
+
+date: 2025-06-03, from: RTÉ News
+
+Jonathan Joss, best known for voicing John Redcorn in King of the Hill and appearing in Parks and Recreation, has died after being shot near his former home in San Antonio, Texas. He was 59. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0603/1516465-king-of-the-hill-and-parks-and-rec-actor-shot-dead/>
+
+---
+
+## Canadian wildfire smoke blows over to Europe
+
+date: 2025-06-03, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7550979.1748967836!/fileImage/httpImage/image.gif_gen/derivatives/16x9_620/wildfire-smoke-gif.gif' alt='Map with red swirls moving around' width='620' height='349' title='Animation of CAMS total aerosol optical depth analyses — how much particles from things like smoke are blocking sunlight — over the North Atlantic May 22 to June 2. '/><p>Plumes of smoke from the wildfires burning in Canada have been blown across the Atlantic Ocean to Europe, with more expected to arrive this week, satellite data shows.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/wildfire-smoke-europe-1.7550975?cmp=rss>
+
+---
+
+## Kenyan Catholic  media professionals celebrate World Communications Day
+
+date: 2025-06-03, from: Vatican News
+
+
+                    <p>Catholic media organizations in Nairobi celebrated World Communications Day with a powerful message of unity, compassion, and hope. The event brought together media representatives from various Catholic outlets across the city and beyond, emphasising the vital role of communication in fostering hope and understanding in today’s digital age.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-06/kenyan-catholic-communicators-celebrate-world-communications-day.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-06/kenyan-catholic-communicators-celebrate-world-communications-day.html>
+
+---
+
+## Students prepare for LC in 'peaceful' Co Sligo library
+
+date: 2025-06-03, from: RTÉ News
+
+Throughout the month of May, around 35 students have been coming every day to study in Tubbercurry Community Library's bright spaces and under its high ceilings, writes Emma O Kelly. 
+
+<br> 
+
+<https://www.rte.ie/news/education/2025/0603/1516464-leaving-cert-sligo/>
+
+---
+
+## Driver doing 188km/h among almost 3,000 detected speeding
+
+date: 2025-06-03, from: RTÉ News
+
+A driver travelling at 188km/h in a 100km/h zone in Dublin was among almost 3,000 motorists detected speeding over the bank holiday weekend. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0603/1516463-almost-3-000-break-speed-limits-over-bank-holiday-wend/>
 
 ---
 
@@ -33,6 +389,18 @@ A pair of rare Common Cranes, which have previously nested at a bog in Co Offaly
 
 ---
 
+## Rare cranes return to Offaly bog for seventh year
+
+date: 2025-06-03, from: RTÉ News
+
+A pair of rare common cranes, which have previously nested at a bog in Co Offaly, have returned for a seventh consecutive year. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0603/1516452-cranes-offaly/>
+
+---
+
 ## French officer faces trial over death that sparked riots
 
 date: 2025-06-03, from: RTÉ News
@@ -57,6 +425,54 @@ UN human rights chief Volker Türk&nbsp;has condemned new reports that dozens mo
 
 ---
 
+## Five countries elected to serve on UN Security Council
+
+date: 2025-06-03, from: United Nations, Top Stories
+
+Bahrain, Colombia, the Democratic Republic of the Congo, Latvia, and Liberia were elected on Tuesday to serve as non-permanent members of the UN Security Council, with two-year terms beginning in January 2026. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1163971>
+
+---
+
+## Five humanitarians killed in ‘horrendous’ attack on aid convoy in Sudan
+
+date: 2025-06-03, from: United Nations, Top Stories
+
+An aid convoy carrying life-saving assistance for the famine-affected area of North Darfur, Sudan, was attacked on Monday night, killing five humanitarian workers, injuring many more and damaging critical humanitarian supplies.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1163991>
+
+---
+
+## As displacement surges in South Sudan, regional humanitarian crisis deepens
+
+date: 2025-06-03, from: United Nations, Top Stories
+
+Since a sharp escalation in fighting in South Sudan in late February, 165,000 people have fled their homes, seeking safety either within the country or across borders, the UN refugee agency UNHCR said on Tuesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1163981>
+
+---
+
+## Sudan: Rise in people fleeing to Chad as violence surges
+
+date: 2025-06-03, from: United Nations, Top Stories
+
+The number of Sudanese refugees in Chad has more than tripled in just over two years amid the ongoing war in their homeland, the UN refugee agency UNHCR said in an alert on Tuesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1163976>
+
+---
+
 ## PSNI investigates sudden death of woman in north Belfast
 
 date: 2025-06-03, from: RTÉ News
@@ -69,6 +485,18 @@ Police are investigating the sudden death of a woman in north Belfast.
 
 ---
 
+## Murder investigation as woman, 71, found dead in Belfast
+
+date: 2025-06-03, from: RTÉ News
+
+Police in Northern Ireland have begun a murder investigation following the death of a woman in north Belfast. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0603/1516443-belfast-death-murder/>
+
+---
+
 ## BBC to apply for more time to consider Adams appeal
 
 date: 2025-06-03, from: RTÉ News
@@ -78,6 +506,18 @@ The BBC has indicated it will apply this afternoon for a stay on orders relating
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0603/1516433-gerry-adams-bbc/>
+
+---
+
+## BBC given time to consider appeal in Gerry Adams case
+
+date: 2025-06-03, from: RTÉ News
+
+The BBC has been granted time to consider taking an appeal, after a jury found that it had defamed Gerry Adams, before paying all costs and damages to the former Sinn Féin leader. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0603/1516433-gerry-adams-bbc/>
 
 ---
 
@@ -145,6 +585,18 @@ Dutch far-right leader Geert Wilders' PVV party left the governing coalition, in
 
 ---
 
+## Dutch government collapses after Wilders quits coalition
+
+date: 2025-06-03, from: RTÉ News
+
+The Dutch government collapsed today, most likely ushering in a snap election, after anti-Muslim politician Geert Wilders quit the right-wing coalition, accusing other parties of failing to back his tougher immigration policies. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0603/1516414-wilders-netherlands-politics/>
+
+---
+
 ## Capybara caught by China zoo after two months on run
 
 date: 2025-06-03, from: RTÉ News
@@ -185,15 +637,27 @@ date: 2025-06-03, from: Vatican News
 
 ---
 
-## Man and woman die in house fire in Co Galway
+## Galway house fire victim spent years on death row in US
 
 date: 2025-06-03, from: RTÉ News
 
-A man in his 30s and a woman in her 70s have died following a house fire in Conamara this morning. 
+The woman and man who died in a house fire in Conamara, Co Galway, this morning have been named as Sonia 'Sunny' Jacobs - a 77-year-old originally from New York - and Kevin Kelly, from Co Galway, who was in his early 30s. 
 
 <br> 
 
 <https://www.rte.ie/news/connacht/2025/0603/1516386-galway-fire/>
+
+---
+
+## South Korea's conservative candidate concedes snap presidential election to Lee Jae-myung
+
+date: 2025-06-03, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7550879.1748964106!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/southkorea-election-inauguration.JPG' alt='A cleanshaven bespectacled older Asian man wearing a suit and blue tie waves his right hand to people off camera while standing near other people and media microphones.' width='620' height='349' title='South Korea&apos;s President-elect Lee Jae-myung waves as he leaves to meet his supporters, in Incheon, South Korea, June 3, 2025. REUTERS/'/><p>South Korea's Democratic Party candidate Lee Jae-myung is projected to win the country's snap presidential election, according to projections by the country's broadcasters on Tuesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/south-korea-election-1.7550677?cmp=rss>
 
 ---
 
@@ -241,11 +705,11 @@ date: 2025-06-03, from: Vatican News
 
 ---
 
-## CHI says no direct payments to consultant from NTPF
+## Unpublished CHI report calls for review of NTPF use
 
 date: 2025-06-03, from: RTÉ News
 
-Children's Health Ireland has said that the consultant referred to in an unpublished internal review had referred patients to a public weekend clinic. 
+The unpublished Children's Health Ireland report into concerns at one of its hospitals concluded that "a root and branch review" of use of the NTPF and other waiting list initiatives "should be undertaken". 
 
 <br> 
 
@@ -277,6 +741,18 @@ Maureen Walsh, mother of music manager and former X Factor judge Louis Walsh, ha
 
 ---
 
+## Australian woman accused of killing 3 with toxic mushroom lunch breaks down in court
+
+date: 2025-06-03, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7550674.1748935313!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/australia-mushroom-murder-trial.jpg' alt='A woman with long hair wearing glasses peers around a concrete column.' width='620' height='349' title='Erin Patterson, the woman accused of serving her ex-husband&apos;s family poisonous mushrooms, is photographed in Melbourne, Australia, on April 15, 2025. (James Ross/AAP Image via AP)'/><p>An Australian woman accused of murdering three of her estranged husband's elderly relatives with a meal laced with poisonous mushrooms wept as she was questioned over expletive-laden messages about the victims on Tuesday, in a case that has captivated the country.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/australia-triple-mushroom-murder-trial-1.7550673?cmp=rss>
+
+---
+
 ## Ukraine claims fresh attack on Crimean bridge
 
 date: 2025-06-03, from: RTÉ News
@@ -301,7 +777,7 @@ An Australian woman accused of murdering three of her estranged husband's elderl
 
 ---
 
-## At least 27 killed near Gaza aid distribution point
+## 27 killed near Gaza aid distribution point - Red Cross
 
 date: 2025-06-03, from: RTÉ News
 
@@ -337,11 +813,11 @@ Business group Ibec has warned that Ireland's current public investment model fo
 
 ---
 
-## Portuguese police start search in Madeleine McCann case
+## Portuguese police drain well in Madeleine McCann search
 
 date: 2025-06-03, from: RTÉ News
 
-Portuguese police have started a new investigation near the place where British toddler Madeleine McCann disappeared while on holiday with her family in 2007, a spokeswoman said. 
+Search teams have been seen draining a well and clearing areas of dense vegetation near abandoned buildings as the latest search for missing British girl Madeleine McCann continues in Portugal. 
 
 <br> 
 
@@ -377,7 +853,7 @@ date: 2025-06-03, from: CBC, Indigenious News
 
 date: 2025-06-02, from: RTÉ News
 
-A post-mortem examination will take place this morning on the body of a 22-year-old man who died during a shooting incident at a shopping centre in Carlow town on Sunday evening. 
+A post-mortem examination was due to take place today on the body of a 22-year-old man who died during a shooting incident at a shopping centre in Carlow town on Sunday evening. 
 
 <br> 
 
@@ -611,7 +1087,7 @@ The UN Secretary-General on Monday reinforced his stand against all acts of anti
 
 ## UN calls for ‘immediate and unconditional’ release of aid workers arbitrarily detained in Yemen
 
-date: 2025-06-02, from: United Nations, UN Affairs
+date: 2025-06-02, from: United Nations, Top Stories
 
 As June marks one year since the arbitrary detention of dozens of personnel from the UN, NGOs, civil society organizations and diplomatic missions by the Houthi de facto authorities in Yemen, the UN Secretary-General has reiterated his call for their release, urging they be&nbsp;freed “immediately and unconditionally.” 
 
@@ -623,7 +1099,7 @@ As June marks one year since the arbitrary detention of dozens of personnel from
 
 ## Deadly flooding in Nigeria displaces thousands
 
-date: 2025-06-02, from: United Nations, Top Stories
+date: 2025-06-02, from: United Nations, Climate Change
 
 Flash flooding in western Nigeria at the weekend has caused devastation around the town of Mokwa in Niger state, leaving more than 150 dead and 3,000 people displaced – more than half of whom are children aged 12 and under – the UN said on Monday. 
 
@@ -635,7 +1111,7 @@ Flash flooding in western Nigeria at the weekend has caused devastation around t
 
 ## Germany’s Annalena Baerbock elected President of the 80th General Assembly
 
-date: 2025-06-02, from: United Nations, UN Affairs
+date: 2025-06-02, from: United Nations, Top Stories
 
 Former German foreign minister Annalena Baerbock was elected President of the General Assembly’s 80th session on Monday. Her appointment comes as the regional group that includes Western Europe takes its turn at the helm of the world body. 
 
@@ -1124,6 +1600,18 @@ date: 2025-06-01, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/ukraine-drone-attack-russia-aircraft-1.7549684?cmp=rss>
+
+---
+
+## Ukraine strikes Crimean bridge, Russia launches deadly strike in Sumy
+
+date: 2025-06-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/a5c0ee18-3ebb-41f9-a0ac-29a0a377b4e4,1748959314733/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='bridge explosion ukraine' width='620' height='349' title=''/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/ukraine-russia-crimea-bridge-1.7550727?cmp=rss>
 
 ---
 

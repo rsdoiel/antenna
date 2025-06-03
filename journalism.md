@@ -1,11 +1,24 @@
 ---
 title: journalism
-updated: 2025-06-03 06:08:54
+updated: 2025-06-03 14:09:36
 ---
 
 # journalism
 
-(date: 2025-06-03 06:08:54)
+(date: 2025-06-03 14:09:36)
+
+---
+
+## ASUCLA Board of Directors recap – May 13-15
+
+date: 2025-06-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+The ASUCLA Board of Directors announced during its 10th meeting of the 2024-2025 academic year that CalFresh recipients can use their benefits at ASUCLA stores.
+The board, composed of a student majority, has financial oversight over ASUCLA entities, including the Undergraduate Students Association Council, the Graduate Student Association and the ASUCLA Communications Board – which oversees UCLA Student Media. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/03/asucla-board-of-directors-recap-may-13-15/>
 
 ---
 

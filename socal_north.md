@@ -1,11 +1,134 @@
 ---
 title: socal north
-updated: 2025-06-03 06:08:50
+updated: 2025-06-03 14:09:32
 ---
 
 # socal north
 
-(date: 2025-06-03 06:08:50)
+(date: 2025-06-03 14:09:32)
+
+---
+
+## Beloved indie theater Gardena Cinema offers free movie tickets this weekend
+
+date: 2025-06-03, updated: 2025-06-03, from: The LAist
+
+The free tickets at Gardena Cinema are thanks to a national effort to support mom-and-pop theaters from Pluto TV. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/beloved-indie-theater-gardena-cinema-offers-free-movie-tickets-this-weekend>
+
+---
+
+## 2nd person dies from crash where speeding driver slammed into Metro train, Long Beach police say
+
+date: 2025-06-03, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The driver died at the scene. Now, more than a week after the crash, police say a passenger in the car has also succumbed to his injuries.</p>
+<p>The post <a href="https://lbpost.com/news/crime/2nd-person-dies-from-crash-where-speeding-driver-slammed-into-metro-train-long-beach-police-say">2nd person dies from crash where speeding driver slammed into Metro train, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/2nd-person-dies-from-crash-where-speeding-driver-slammed-into-metro-train-long-beach-police-say>
+
+---
+
+## Stabilizing 'operations,' the National Weather Service hires again after Trump cuts
+
+date: 2025-06-03, updated: 2025-06-03, from: The LAist
+
+The National Weather Service says it plans to hire more than 100 additional staff members. The move follows complaints and concerns after the Trump administration eliminated more than 500 positions. 
+
+<br> 
+
+<https://laist.com/news/stabilizing-operations-national-weather-service-hires-again-after-trump-cuts>
+
+---
+
+## From the tiny town of Peanut to Rough and Ready in California, don't miss these spots off the beaten path
+
+date: 2025-06-03, updated: 2025-06-03, from: The LAist
+
+We share some small California spots and why they just might charm you. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/from-the-tiny-town-of-peanut-to-rough-and-ready-in-california-dont-miss-these-spots-off-the-beaten-path>
+
+---
+
+## Harvey Weinstein's new trial is almost over. It could be a litmus test for #MeToo
+
+date: 2025-06-03, updated: 2025-06-03, from: The LAist
+
+Weinstein's sex crimes conviction in New York was overturned last year. In a new trial, three accusers have testified that Weinstein assaulted them. Closing arguments are underway. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/harvey-weinsteins-new-trial-is-almost-over-it-could-be-a-litmus-test-for-metoo>
+
+---
+
+## Should LA have its own public bank? Jurado and other councilmembers want to find out
+
+date: 2025-06-03, updated: 2025-06-03, from: The LAist
+
+With a $15,000 pledge, Jurado joins two fellow councilmembers in backing a study on whether L.A. can create a bank to serve its own residents. 
+
+<br> 
+
+<https://laist.com/news/politics/should-la-have-its-own-public-bank-jurado-and-other-councilmembers-want-to-find-out>
+
+---
+
+## Dave’s Hot Chicken sold for $1 billion just eight years after starting in an LA parking lot
+
+date: 2025-06-03, updated: 2025-06-03, from: The LAist
+
+Not bad for a bunch of childhood friends with a dream. 
+
+<br> 
+
+<https://laist.com/news/food/daves-hot-chicken-sold-for-1-billion-just-eight-years-after-starting-in-an-east-la-parking-lot>
+
+---
+
+## You can ride the entire Metro system for free this weekend
+
+date: 2025-06-03, updated: 2025-06-03, from: The LAist
+
+Fees are waived in celebration of the new Metro LAX station opening. 
+
+<br> 
+
+<https://laist.com/news/transportation/la-metro-lax-airport-people-mover>
+
+---
+
+## Is it sex education or porn? Huntington Beach comes to blows over library books
+
+date: 2025-06-03, updated: 2025-06-03, from: The LAist
+
+MAGA-aligned leaders took over the city council and set up a community review board for library material and singled out LGBT books. Have they gone too far? 
+
+<br> 
+
+<https://laist.com/news/politics/is-it-sex-education-or-porn-huntington-beach-comes-to-blows-over-library-books>
+
+---
+
+## Homeland Security pulls down list of 'sanctuary' cities and counties after backlash
+
+date: 2025-06-03, updated: 2025-06-03, from: The LAist
+
+The list included dozens of cities and counties that DHS said were in noncompliance with federal statutes and had come under intense criticism from some mayors and law enforcement. 
+
+<br> 
+
+<https://laist.com/news/homeland-security-pulls-down-list-of-sanctuary-cities-and-counties-after-backlash>
 
 ---
 
@@ -25,7 +148,7 @@ Overcast mornings return to the area before a warm up later this week.
 
 date: 2025-06-03, from: Longbeach Post
 
-<figure><img width="1024" height="681" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-1024x681.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-1024x681.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-768x511.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-1536x1022.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-2048x1362.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-1200x798.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-1568x1043.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-400x266.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="681" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-1024x681.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-1024x681.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-768x511.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-1536x1022.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-2048x1362.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-1200x798.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-1568x1043.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02123914/dsz-5585-529533-kjnuan1d-900762-52X8ZWLq-400x266.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Eighteen Hughes students, ranging in age from 11 to 14, will join students from three other schools to sing Fauré’s “Requiem” in D minor on June 7.</p>
 <p>The post <a href="https://lbpost.com/news/education/hughes-middle-school-carnegie-hall">Students from Hughes Middle School vocal program to perform at Carnegie Hall</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -52,7 +175,7 @@ In January, volunteers counted 3,595 people experiencing homelessness in Long Be
 
 date: 2025-06-03, from: Longbeach Post
 
-<figure><img width="1024" height="672" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02165606/02jun25-6-2-25-count-7456-copy-106409-bfrpebas-193423-ouZWtzMQ-1024x672.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02165606/02jun25-6-2-25-count-7456-copy-106409-bfrpebas-193423-ouZWtzMQ-1024x672.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02165606/02jun25-6-2-25-count-7456-copy-106409-bfrpebas-193423-ouZWtzMQ-300x197.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02165606/02jun25-6-2-25-count-7456-copy-106409-bfrpebas-193423-ouZWtzMQ-768x504.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02165606/02jun25-6-2-25-count-7456-copy-106409-bfrpebas-193423-ouZWtzMQ-165x108.jpg 165w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02165606/02jun25-6-2-25-count-7456-copy-106409-bfrpebas-193423-ouZWtzMQ-400x262.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02165606/02jun25-6-2-25-count-7456-copy-106409-bfrpebas-193423-ouZWtzMQ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="672" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02165606/02jun25-6-2-25-count-7456-copy-106409-bfrpebas-193423-ouZWtzMQ-1024x672.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02165606/02jun25-6-2-25-count-7456-copy-106409-bfrpebas-193423-ouZWtzMQ-1024x672.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02165606/02jun25-6-2-25-count-7456-copy-106409-bfrpebas-193423-ouZWtzMQ-300x197.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02165606/02jun25-6-2-25-count-7456-copy-106409-bfrpebas-193423-ouZWtzMQ-768x504.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02165606/02jun25-6-2-25-count-7456-copy-106409-bfrpebas-193423-ouZWtzMQ-165x108.jpg 165w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02165606/02jun25-6-2-25-count-7456-copy-106409-bfrpebas-193423-ouZWtzMQ-400x262.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/02165606/02jun25-6-2-25-count-7456-copy-106409-bfrpebas-193423-ouZWtzMQ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>It’s a reversal from 2024 when city officials celebrated a small decline in homelessness.</p>
 <p>The post <a href="https://lbpost.com/news/long-beach-homeless-count-2025-numbers-increase-results">Homelessness in Long Beach rose 6.5% over the last year, new data shows</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -102,11 +225,11 @@ date: 2025-06-02, from: Longbeach Post
 
 ---
 
-## What has disgraced former OC Supervisor Andrew Do been up to while awaiting sentencing?
+## Why has Andrew Do been sailing while awaiting sentencing?
 
-date: 2025-06-02, updated: 2025-06-02, from: The LAist
+date: 2025-06-02, updated: 2025-06-03, from: The LAist
 
-Andrew Do has been volunteering at the Los Angeles Maritime Institute in San Pedro, teaching sailing skills to disadvantaged kids. 
+Disgraced former OC Supervisor Andrew Do has been volunteering at the Los Angeles Maritime Institute in San Pedro, teaching sailing skills to disadvantaged kids. 
 
 <br> 
 
@@ -178,7 +301,7 @@ date: 2025-06-02, from: City of Santa Clarita
 
 ## Sweet orange scab spreads to LA and Ventura counties, triggering quarantine
 
-date: 2025-06-02, updated: 2025-06-02, from: The LAist
+date: 2025-06-02, updated: 2025-06-03, from: The LAist
 
 Sweet orange scab is a fungal pathogen that's already been found in Orange County. Here's what you need to know if you have citrus trees. 
 
@@ -286,6 +409,21 @@ A former military site could house the iconic chapel complex.
 <br> 
 
 <https://laist.com/news/wayfarers-chapel-finds-potential-new-home-in-rancho-palos-verdes>
+
+---
+
+## Wayfarers Chapel finds potential new home in Rancho Palos Verdes
+
+date: 2025-06-01, from: Longbeach Post
+
+<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03084313/scprbrightspotcdn-2-984848-yl5dn4kr-460955-T1SFNGrz-1024x576.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03084313/scprbrightspotcdn-2-984848-yl5dn4kr-460955-T1SFNGrz-1024x576.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03084313/scprbrightspotcdn-2-984848-yl5dn4kr-460955-T1SFNGrz-300x169.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03084313/scprbrightspotcdn-2-984848-yl5dn4kr-460955-T1SFNGrz-768x432.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03084313/scprbrightspotcdn-2-984848-yl5dn4kr-460955-T1SFNGrz-192x108.webp 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03084313/scprbrightspotcdn-2-984848-yl5dn4kr-460955-T1SFNGrz-1536x864.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03084313/scprbrightspotcdn-2-984848-yl5dn4kr-460955-T1SFNGrz-1200x675.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03084313/scprbrightspotcdn-2-984848-yl5dn4kr-460955-T1SFNGrz-1568x882.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03084313/scprbrightspotcdn-2-984848-yl5dn4kr-460955-T1SFNGrz-400x225.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03084313/scprbrightspotcdn-2-984848-yl5dn4kr-460955-T1SFNGrz.webp 1760w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Accelerated land movements forced the dismantling of the Lloyd Wright building last year, with the intention of reconstructing the chapel in a new location.</p>
+<p>The post <a href="https://lbpost.com/news/local-history/wayfarers-chapel-finds-potential-new-home-in-rancho-palos-verdes">Wayfarers Chapel finds potential new home in Rancho Palos Verdes</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/local-history/wayfarers-chapel-finds-potential-new-home-in-rancho-palos-verdes>
 
 ---
 

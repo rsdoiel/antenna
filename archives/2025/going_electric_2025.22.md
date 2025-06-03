@@ -1,11 +1,175 @@
 ---
 title: going electric
-updated: 2025-06-03 06:08:56
+updated: 2025-06-03 14:09:39
 ---
 
 # going electric
 
-(date: 2025-06-03 06:08:56)
+(date: 2025-06-03 14:09:39)
+
+---
+
+## US energy storage costs could spike 50% – tariffs are to blame
+
+date: 2025-06-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/ElevenMile-BESS-orsted.jpg?quality=82&#038;strip=all&#038;w=1440" /></div><p>Trump’s tariffs are about to drive up the cost of clean energy projects in the US, and energy storage is set to take the biggest hit, according to new analysis from Wood Mackenzie.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,donald-trump,egeb,energy-brief,energy-storage,solar,solar-power,tariffs" data-layer-viewtype="unknown" data-post-id="418951" href="https://electrek.co/2025/06/03/us-energy-storage-costs-50-percent-tariffs/#more-418951" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/03/us-energy-storage-costs-50-percent-tariffs/>
+
+---
+
+## Honda’s Acura is selling a surprising number of EVs in the US with massive discounts
+
+date: 2025-06-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Acura-Cadillac-Lyriq.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Acura isn’t really known as a luxury EV brand, but with over $20,000 in discounts, it’s hard to say no. Honda’s <a href="https://electrek.co/guides/acura/">Acura</a> is quietly selling more EVs in the US, but how long will the savings last?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="acura,acura-zdx,honda" data-layer-viewtype="unknown" data-post-id="418932" href="https://electrek.co/2025/06/03/acura-selling-more-evs-us-massive-discounts-pile-up/#more-418932" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/03/acura-selling-more-evs-us-massive-discounts-pile-up/>
+
+---
+
+## Electrify America’s New Chargers Work With Tesla And Non-Tesla EVs At Once
+
+date: 2025-06-03, from: Inside EVs News
+
+There’s no need for charging adapters, and each station can output up to 400 kilowatts, making charging stops easier and shorter. 
+
+<br> 
+
+<https://insideevs.com/news/761538/electrify-america-nacs-chargers/>
+
+---
+
+## Lectric Father’s Day Sale takes up to $723 off e-bike bundles, Anker PowerCore Reserve $90, EGO bundle, EcoFlow flash sale, more
+
+date: 2025-06-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Lectric-XPeak-2.0-High-Step-and-Step-Thru-e-bikes-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Leading today’s Green Deals is <a href="https://9to5toys.com/2025/06/02/up-to-723-bundles-lectric-e-bikes-from-999/">Lectric’s newly launched Father’s Day Sale</a> with up to $723 in savings on e-bike bundles and select Dad-centric accessories, with options like the off-roading <a href="https://9to5toys.com/2025/06/02/up-to-723-bundles-lectric-e-bikes-from-999/">XPeak 2.0 e-bikes</a> getting up to $316 in free gear and <a href="https://9to5toys.com/2025/06/02/up-to-723-bundles-lectric-e-bikes-from-999/">starting from $1,499</a>, among others. There’s also <a href="https://9to5toys.com/2025/06/02/anker-powercore-reserve-90-3/">Anker’s PowerCore Reserve 60,000mAh Power Station</a> back at <a href="https://9to5toys.com/2025/06/02/anker-powercore-reserve-90-3/">$90</a>, as well as <a href="https://9to5toys.com/2025/06/03/ego-56v-16-inch-trimmer-bundle-4-0ah-2-5ah-300-low/">EGO’s 56V 16-inch Cordless Electric String Trimmer bundle</a> with 4.0Ah and 2.5Ah batteries back at its <a href="https://9to5toys.com/2025/06/03/ego-56v-16-inch-trimmer-bundle-4-0ah-2-5ah-300-low/">$300 low</a> for the first time in over a year. Lastly, we have a one-day-only flash sale from EcoFlow on its <a href="https://9to5toys.com/2025/06/03/ecoflow-smart-home-panel-2-generator-4000-1499/">Smart Home Panel 2</a>, as well as its <a href="https://9to5toys.com/2025/06/03/ecoflow-smart-home-panel-2-generator-4000-1499/">Smart Dual Fuel Generator 4000</a>, both of which are down at <a href="https://9to5toys.com/2025/06/03/ecoflow-smart-home-panel-2-generator-4000-1499/">$1,499</a> through the rest of the day. Plus, there’s all the rest of the hangover Green Deals in the links at the bottom of the page, like yesterday’s first post-launch savings on <a href="https://9to5toys.com/2025/06/02/segway-xafari-xyber-e-bikes-from-2200/">Segway’s Xafari and Xyber e-bikes</a>, the <a href="https://9to5toys.com/2025/06/02/ecoflow-delta-pro-bundle-new-2199-low-more/">latest sale from EcoFlow</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="418908" href="https://electrek.co/2025/06/03/lectric-fathers-day-sale-anker-ego-ecoflow-more/#more-418908" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/03/lectric-fathers-day-sale-anker-ego-ecoflow-more/>
+
+---
+
+## Ford’s EV sales fell 25% in May despite employee prices and several other discounts
+
+date: 2025-06-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Fords-EV-sales-May-2025.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Although US sales rose 16% in May, <a href="https://electrek.co/guides/ford/">Ford’s</a> EV sales fell short of expectations. Even with employee prices and other discounts, Ford sold just over 6,700 electric vehicles last month, 25% fewer than in May 2024.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="418891" href="https://electrek.co/2025/06/03/fords-ev-sales-fell-25-may-despite-employee-prices-more/#more-418891" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/03/fords-ev-sales-fell-25-may-despite-employee-prices-more/>
+
+---
+
+## Watch BETA Technologies’ electric aircraft fly into NYC with passengers onboard [Video]
+
+date: 2025-06-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Electric-aircraft-NYC-BETA.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Electric aircraft developer <a href="https://electrek.co/guides/beta-technologies/">BETA Technologies</a> recently hit a notable milestone today when its ALIA CTOL plane completed its first demonstration flight with passengers onboard. The electric aircraft traveled 45 minutes before landing safely at JFK International Airport in NYC. Check out the full video from BETA below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="air-taxi,beta-technologies,evtol,new-york" data-layer-viewtype="unknown" data-post-id="418703" href="https://electrek.co/2025/06/03/beta-technologies-electric-aircraft-fly-nyc-passengers-onboard-video/#more-418703" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/03/beta-technologies-electric-aircraft-fly-nyc-passengers-onboard-video/>
+
+---
+
+## Faraday Future Wants You To Buy This $20,000 EV Over A Toyota RAV4
+
+date: 2025-06-03, from: Inside EVs News
+
+The still-struggling startup teases what it claims will be an affordable future model, the FX4.  
+
+<br> 
+
+<https://insideevs.com/news/761512/faraday-future-affordable-evs-coming/>
+
+---
+
+## Hyundai emerges as ‘a major force’ in the US as the first IONIQ 9 deliveries kick off
+
+date: 2025-06-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Hyundai-major-force-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With over 17 million vehicles sold since entering the market, <a href="https://electrek.co/guides/hyundai/">Hyundai</a> hit a milestone last month, emerging as “a major force” in the US. After delivering the first IONIQ 9 models last month, are Hyundai’s biggest years still ahead?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-9" data-layer-viewtype="unknown" data-post-id="418877" href="https://electrek.co/2025/06/03/hyundai-emerges-as-major-force-us-new-ioniq-9/#more-418877" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/03/hyundai-emerges-as-major-force-us-new-ioniq-9/>
+
+---
+
+## Nobody Is Buying The Electric Mercedes G-Class: Report
+
+date: 2025-06-03, from: Inside EVs News
+
+Reviewers may love the all-electric G, but it seems like shoppers don't.  
+
+<br> 
+
+<https://insideevs.com/news/761580/mercedes-g-class-electric-flop/>
+
+---
+
+## China's BYD Will Strike At The Heart Of Japan's Car Market
+
+date: 2025-06-03, from: Inside EVs News
+
+Plus, Uber could play kingmaker in Tesla's Robotaxi shakeup against Waymo and electric semis put diesel on notice in China. 
+
+<br> 
+
+<https://insideevs.com/news/761441/china-byd-japan-kei-car/>
+
+---
+
+## Nissan reveals new photos of the next-gen LEAF EV and confirms its global debut
+
+date: 2025-06-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Nissan-new-LEAF-EV-photos-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The iconic electric hatch is all grown up and will arrive later this month. Nissan’s iconic EV is now a stylish crossover with more range, faster charging, and several other upgrades. Ahead of its global debut, Nissan is offering us a closer look at the third-gen <a href="https://electrek.co/guides/nissan-leaf/">LEAF EV</a> with a few new photos and details.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,nissan-leaf" data-layer-viewtype="unknown" data-post-id="418857" href="https://electrek.co/2025/06/03/nissan-reveals-new-photos-more-next-gen-leaf-ev/#more-418857" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/03/nissan-reveals-new-photos-more-next-gen-leaf-ev/>
 
 ---
 
@@ -45,11 +209,11 @@ date: 2025-06-03, from: Electrek Feed
 
 ---
 
-## The 2026 Polestar 4 Is Here, And It Comes From South Korea
+## The 2026 Polestar 4 Has Landed In America
 
 date: 2025-06-03, from: Inside EVs News
 
-The American version of the Swedish-designed electric crossover will be built by Renault in South Korea. 
+The U.S. version of the Swedish-designed electric crossover will be built by Renault in South Korea. It starts at $56,400. 
 
 <br> 
 
