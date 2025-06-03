@@ -1,11 +1,61 @@
 ---
 title: libraries
-updated: 2025-06-02 06:07:40
+updated: 2025-06-03 05:44:33
 ---
 
 # libraries
 
-(date: 2025-06-02 06:07:40)
+(date: 2025-06-03 05:44:33)
+
+---
+
+## The Columbiad, by Joel Barlow
+
+date: 2025-06-02, from: Standard Ebooks, new releaases
+
+Columbus is shown a history of the western hemisphere since his discoveries. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/joel-barlow/the-columbiad>
+
+---
+
+## Day in Review (June 2–5)
+
+date: 2025-06-02, from: Association of Research Libraries News
+
+<p>Last Updated on June 2, 2025, 3:27 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 3 &#124; Wednesday, June 4 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-june-2-5/">Day in Review (June 2–5)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-june-2-5/>
+
+---
+
+## Maiwa’s Revenge, by H. Rider Haggard
+
+date: 2025-06-02, from: Standard Ebooks, new releaases
+
+A famed hunter aids a tribe in their plot for revenge. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/h-rider-haggard/maiwas-revenge>
+
+---
+
+## Resources for Summer Relaxation
+
+date: 2025-06-02, from: CSUN Library Blog, Cited
+
+<div><img width="300" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/06/Untitled-design-1-300x200.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/06/Untitled-design-1-300x200.png 300w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/06/Untitled-design-1-768x512.png 768w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/06/Untitled-design-1.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></div>Welcome to Summer! The days are longer, and while the library hours are shorter, the CSUN University Library remains open for all students and community&#8230; 
+
+<br> 
+
+<https://library.csun.edu/blogs/cited/2025/06/02/resources-for-summer-relaxation/>
 
 ---
 

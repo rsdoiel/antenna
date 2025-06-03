@@ -1,23 +1,123 @@
 ---
 title: socal north
-updated: 2025-06-02 06:07:36
+updated: 2025-06-03 05:44:27
 ---
 
 # socal north
 
-(date: 2025-06-02 06:07:36)
+(date: 2025-06-03 05:44:27)
 
 ---
 
-## A UC Irvine lecturer was banned from campus after his arrest at an event. Why it matters for other faculty
+## Zombie bills: Why California lawmakers bring back legislation governors kill
 
 date: 2025-06-02, updated: 2025-06-02, from: The LAist
 
-A two-week ban put Brook Haley's job in jeopardy. 
+Why lawmakers resurrect policy proposals that have been rejected, often with the backing of big donors. 
 
 <br> 
 
-<https://laist.com/news/education/uc-irvine-brook-haley-lecturer-arrest-ban-gaza-palestine>
+<https://laist.com/news/politics/zombie-bills-why-california-lawmakers-bring-back-legislation-governors-kill>
+
+---
+
+## A Manson family member was recommended for parole again. But she's not free just yet
+
+date: 2025-06-02, updated: 2025-06-02, from: The LAist
+
+Patricia Krenwinkel was 21 when she participated in the August 1969 murders in Los Angeles. Her parole recommendation would need to be approved by Gov. Gavin Newsom, who rejected the last one in 2022. 
+
+<br> 
+
+<https://laist.com/news/manson-family-member-was-recommended-for-parole-again-but-shes-not-free-just-yet>
+
+---
+
+## How a Los Angeles camp made space to let kids be kids after the wildfires
+
+date: 2025-06-02, updated: 2025-06-02, from: The LAist
+
+After the wildfires destroyed homes and disrupted routines, many parents saw behavioral shifts in their kids. Some families found support in a camp designed to help kids affected by natural disaster. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/how-a-los-angeles-camp-made-space-to-let-kids-be-kids-after-the-wildfires>
+
+---
+
+## Your Free Ticket To Fun: The Santa Clarita Summer Trolley Returns!
+
+date: 2025-06-02, from: City of Santa Clarita
+
+<p>Free Rides Connecting Residents and Visitors to Top Attractions from May 25 to September 1 The City of Santa Clarita is excited to announce the return of its popular Summer Trolley service, offering complimentary transportation from Sunday, May 25 to Monday, September 1. This convenient, eco-friendly service connects residents and visitors to premier destinations, including Six [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/02/your-free-ticket-to-fun-the-santa-clarita-summer-trolley-returns/">Your Free Ticket To Fun: The Santa Clarita Summer Trolley Returns!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/02/your-free-ticket-to-fun-the-santa-clarita-summer-trolley-returns/>
+
+---
+
+## Sweet orange scab spreads to LA and Ventura counties, triggering quarantine
+
+date: 2025-06-02, updated: 2025-06-02, from: The LAist
+
+Sweet orange scab is a fungal pathogen that's already been found in Orange County. Here's what you need to know if you have citrus trees. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/sweet-orange-scab-spreads-to-la-and-ventura-counties-triggering-quarantine>
+
+---
+
+## A Big Bear bald eaglet takes flight away from nest for the first time
+
+date: 2025-06-02, updated: 2025-06-02, from: The LAist
+
+Sunny, one of Jackie and Shadow’s chicks, has ventured to another tree overlooking Big Bear Lake. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/one-of-big-bears-bald-eaglets-takes-flight-for-the-first-time>
+
+---
+
+## Young Democrats offer lessons for their leaders at party convention
+
+date: 2025-06-02, updated: 2025-06-02, from: The LAist
+
+Young Californians were disillusioned with Democrats last November. The solution? A simple message, a focus on cost-of-living and progressive causes, and a reckoning with the party’s age problem, say young Democrats. 
+
+<br> 
+
+<https://laist.com/news/politics/young-democrats-offer-lessons-for-their-leaders-at-party-convention>
+
+---
+
+## Speedy LA fire clean-up hailed as 'historic' even as safety is questioned
+
+date: 2025-06-02, updated: 2025-06-02, from: The LAist
+
+Local and federal officials in LA say recovery from January's deadly wildfires is on pace to be the fastest in modern California history. Scientists worry that toxic debris isn't getting cleared. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/speedy-la-fire-clean-up-hailed-historic-safety-questioned>
+
+---
+
+## The Coolest Camp In Town Returns To The Cube!
+
+date: 2025-06-02, from: City of Santa Clarita
+
+<p>This summer, kids can beat the heat in the coolest way possible—at Camp Chillin’ inside The Cube – Ice and Entertainment Center, Powered by FivePoint Valencia. From June 16 through August 8, children ages 5 to 12 will enjoy an unforgettable summer experience packed with skating, games and classic camp fun in one of the [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/02/the-coolest-camp-in-town-returns-to-the-cube/">The Coolest Camp In Town Returns To The Cube!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/02/the-coolest-camp-in-town-returns-to-the-cube/>
 
 ---
 
@@ -30,6 +130,18 @@ A Tina Turner photo exhibit, Neil deGrasse Tyson on sci-fi films, a live podcast
 <br> 
 
 <https://laist.com/news/arts-and-entertainment/best-things-to-do-this-week-in-los-angeles-and-southern-california-june-2-5>
+
+---
+
+## A UC Irvine lecturer was banned from campus after his arrest at an event. Why it matters for other faculty
+
+date: 2025-06-02, updated: 2025-06-02, from: The LAist
+
+A two-week ban put Brook Haley's job in jeopardy. 
+
+<br> 
+
+<https://laist.com/news/education/uc-irvine-brook-haley-lecturer-arrest-ban-gaza-palestine>
 
 ---
 
@@ -74,7 +186,7 @@ This year's high school meet has been embroiled in the debate whether trans athl
 
 ## One police officer killed, one injured in Baldwin Park shooting Saturday night
 
-date: 2025-06-01, updated: 2025-06-01, from: The LAist
+date: 2025-06-01, updated: 2025-06-02, from: The LAist
 
 A suspect wounded by police is in custody, according to authorities. Police found another person dead from apparent gunshot wounds at the scene. 
 

@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2025-06-02 06:07:41
+updated: 2025-06-03 05:44:34
 ---
 
 # motorcycles
 
-(date: 2025-06-02 06:07:41)
+(date: 2025-06-03 05:44:34)
+
+---
+
+## Hunting E-Bike Maker Backou Has Two New Dirt Bikes To Get You Further Into the Woods
+
+date: 2025-06-02, from: Ride Apart, Electric Motorcycle News
+
+I've been banging this gong for years, so it's awesome to see Backou listen. 
+
+<br> 
+
+<https://www.rideapart.com/news/761263/backou-ebike-ev-dirt-bike-puma-x22-x24-hunting/>
+
+---
+
+## Brittany Force, Todd & Anderson Claw Their Way to Win at NHRA New England Nationals
+
+date: 2025-06-02, from: Kickin the Tires blog
+
+EPPING, N.H. (June 1, 2025) – Top Fuel’s Brittany Force picked up her first victory of the season, making a pair of 340-mph runs on Sunday at New England Dragway&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nhra/brittany-force-todd-anderson-claw-their-way-to-win-at-nhra-new-england-nationals/>
 
 ---
 

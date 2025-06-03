@@ -1,11 +1,115 @@
 ---
 title: food
-updated: 2025-06-02 06:07:43
+updated: 2025-06-03 05:44:36
 ---
 
 # food
 
-(date: 2025-06-02 06:07:43)
+(date: 2025-06-03 05:44:36)
+
+---
+
+## How Fords Gin Became a Bartender Favorite
+
+date: 2025-06-02, from: Bon Appetet
+
+With a raconteur’s gift of gab, Simon Ford waxes nostalgic on how he built a world-class gin brand 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-story-behind-fords-gins>
+
+---
+
+## All the Recipes From Bon Appétit's Drinks Issue
+
+date: 2025-06-02, from: Bon Appetet
+
+In the drinks magazine issue of "Bon Appétit" we've got coffee cake scones, saucy pad kra pao, and a frozen espresso martini. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/bon-appetit-june-july-2025-issue>
+
+---
+
+## Traeger Woodridge Review: We Tested a Grill from the Brand’s New, Affordable Lineup
+
+date: 2025-06-02, from: Taste of Home
+
+<p>I tried the all-new Traeger Woodridge Pro, a user-friendly pellet grill that offers several of Traeger’s advanced grilling features at an accessible price.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/traeger-woodridge-review/">Traeger Woodridge Review: We Tested a Grill from the Brand’s New, Affordable Lineup</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/traeger-woodridge-review/>
+
+---
+
+## PORK AND APPLE CASSEROLE
+
+date: 2025-06-02, from: Irish Food Hub
+
+<p>Description: A heartwarming Irish-style casserole featuring tender pork shoulder slow-cooked with sweet apples, caramelized onions, and crisp cider. This rustic dish is full of comforting flavors and is best served with buttery mashed potatoes or crusty bread. 🕒 Preparation Time 20 minutes 🔥 Cooking Time 2 hours 30 minutes 🍽️ Serving Size Serves 4 to 6 Ingredients 2 tablespoons vegetable oil 1.5 kg (3.3 lb) pork shoulder, cut into chunks 2 large onions, sliced 2 apples, peeled, cored, and sliced (Bramley or Granny Smith recommended) 2 garlic cloves, minced 300 ml (1 1/4 cups) dry Irish cider 250 ml (1 cup) chicken stock 1 tablespoon apple cider vinegar 1 tablespoon wholegrain mustard 1 teaspoon ground allspice 1/2 teaspoon ground cloves Salt and pepper to taste Fresh thyme (for garnish, optional) Instructions Preheat your oven to 160°C (325°F). Heat oil in a large, oven-safe casserole dish over medium heat. Brown the pork in batches, removing each batch to a plate once seared. Add onions to the dish and sauté for 5–7 minutes until soft and golden. Stir in garlic, apples, allspice, and cloves. Cook for another 2–3 minutes. Return the pork to the dish. Add cider, chicken stock, vinegar, and mustard. Stir to combine. Bring the mixture to a gentle simmer. Cover with a lid and transfer to the oven. Bake for 2 to 2.5 hours, until the pork is tender and the flavors have melded beautifully. Season with salt and pepper. Garnish with fresh thyme before serving. Serve hot with mashed potatoes, creamy polenta, or rustic bread. Serving Suggestion This dish is ideal for chilly evenings. Serve it with a side of mashed potatoes or steamed greens to round out the meal. For a festive twist, add a splash of brandy or a spoonful of cream before serving. Tips Make it ahead and reheat — the flavor improves overnight! Swap pork shoulder with pork belly or loin for variations in richness. To thicken the sauce before serving, remove the lid for the last 30 minutes of baking.</p>
+<p>The post <a href="https://irishfoodhub.com/pork-and-apple-casserole/">PORK AND APPLE CASSEROLE</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>
+ 
+
+<br> 
+
+<https://irishfoodhub.com/pork-and-apple-casserole/>
+
+---
+
+## GUR CAKE (DUBLIN FRUIT SLICE)
+
+date: 2025-06-02, from: Irish Food Hub
+
+<p>Description: Gur Cake is a traditional Dublin dessert, once sold in bakeries as a thrifty treat for school children. It&#8217;s made from stale bread or cake crumbs soaked and sweetened, then blended with dried fruit and warm spices, all baked between two layers of shortcrust pastry. It&#8217;s frugal, flavorful, and full of Irish character. 🕒 Preparation Time 30 minutes 🔥 Cooking Time 40–45 minutes 🍽️ Serving Size Makes 12 slices Ingredients For the filling: 250g (9 oz) stale bread or cake crumbs 150ml (2/3 cup) strong tea or milk 100g (1/2 cup) soft brown sugar 150g (1 cup) mixed dried fruit (raisins, sultanas, currants) 1 teaspoon mixed spice 1/2 teaspoon ground cinnamon 1 tablespoon golden syrup or honey 1 tablespoon plain flour 1 egg, beaten For the pastry: 250g (2 cups) plain flour 125g (1/2 cup) cold butter, cubed 2–3 tablespoons cold water Pinch of salt Instructions Preheat your oven to 180°C (350°F). Grease and line a 20cm x 30cm (8&#215;12 inch) baking tin. Make the pastry: Rub the butter into the flour and salt until it resembles breadcrumbs. Add water gradually and bring the dough together. Chill while preparing the filling. Prepare the filling: Soak the breadcrumbs or cake in tea/milk until soft. Add sugar, dried fruit, spices, syrup, flour, and beaten egg. Mix well to form a thick paste. Roll out half the pastry and line the bottom of the baking tin. Spread the fruit mixture evenly over it. Roll out the remaining pastry and lay it over the filling. Press gently to seal the edges. Prick the top with a fork. Bake for 40–45 minutes until the top is golden brown. Allow to cool in the tin. Cut into squares or bars once fully cooled. Best enjoyed with a cup of tea! Serving Suggestion Gur Cake is traditionally served cold, cut into bars or squares. Perfect with a hot cup of tea or as a nostalgic afternoon treat. Tips Use whatever bread or cake scraps you have — the more mixed, the richer the flavor. Let the filling rest before baking for deeper flavor absorption. Store in an airtight container for up to 5 days.</p>
+<p>The post <a href="https://irishfoodhub.com/gur-cake-recipe/">GUR CAKE (DUBLIN FRUIT SLICE)</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>
+ 
+
+<br> 
+
+<https://irishfoodhub.com/gur-cake-recipe/>
+
+---
+
+## Build-Outs Of Coffee: Onyx Coffee Lab In Springdale, Arkansas
+
+date: 2025-06-02, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Onyx Coffee Lab in Springdale, Arkansas 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-onyx-coffee-lab-in-springdale-arkansas-338531.html>
+
+---
+
+## 360 Cookware Review: The Pans That Will Probably Outlast Me
+
+date: 2025-06-02, from: Taste of Home
+
+<p>360 Cookware utilizes "vapor technology" and five layers of nontoxic surgical stainless steel for precise heat and impressive longevity.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/360-cookware/">360 Cookware Review: The Pans That Will Probably Outlast Me</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/360-cookware/>
+
+---
+
+## Ethiopian Coffee Is Bringing In Record Revenue
+
+date: 2025-06-02, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The country exceeded their revenue target by 142%. 
+
+<br> 
+
+<https://sprudge.com/ethiopian-coffee-is-bringing-in-record-revenue-342274.html>
 
 ---
 

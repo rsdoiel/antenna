@@ -1,11 +1,73 @@
 ---
 title: home
-updated: 2025-06-02 06:07:41
+updated: 2025-06-03 05:44:33
 ---
 
 # home
 
-(date: 2025-06-02 06:07:41)
+(date: 2025-06-03 05:44:33)
+
+---
+
+## Around 6,200 Toys Make Up a Veranda Wrapping This Home in India
+
+date: 2025-06-02, from: Dwell
+
+A porous wave of bricks interspersed with the likes of Legos forms a breezy place for the owners to host. 
+
+<br> 
+
+<https://www.dwell.com/article/toy-storey-home-wallmakers-brick-veranda-childrens-toys-c9463164>
+
+---
+
+## Before & After: An Aussie Farmhouse That Was a "Little Tired" Gets a Joyful Makeover
+
+date: 2025-06-02, from: Dwell
+
+Studio Isaza turned a veranda into a bedroom and designed a playful yet practical kitchen for the couple behind Misty Creek Agroforestry. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-misty-creek-farmhouse-renovation-studio-isaza-australia-e7d2fac6>
+
+---
+
+## You Can Harvest Oranges in the Backyard of This $1.2M L.A. Midcentury
+
+date: 2025-06-02, from: Dwell
+
+The recently renovated property includes a finished garage, a brand-new kitchen, and fresh landscaping with a fountain and firepit. 
+
+<br> 
+
+<https://www.dwell.com/article/midcentury-home-renovation-view-heights-los-angeles-real-estate-535b2e3d>
+
+---
+
+## Garlic and Tomatoes: Garden Companions for Healthy Plants
+
+date: 2025-06-02, from: The Gardener's Path
+
+<p>Garlic is an excellent companion plant for tomatoes as it contains sulfur compounds that produce odors that repel many pests. Planting these two species together requires a little planning but delivers excellent results. Learn more about companion planting tomatoes with garlic in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/garlic-tomatoes-companions/">Garlic and Tomatoes: Garden Companions for Healthy Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/garlic-tomatoes-companions/>
+
+---
+
+## This Mount Rainier Vacation Retreat Is the Perfect Mix of European and Pacific Northwest Style
+
+date: 2025-06-02, from: Sunset Magazine - Living in the West
+
+This Mount Rainier vacation home features a mix of European and Pacific Northwest styles, with a cohesive color palette and a cozy feel. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/mount-rainier-vacation-home>
 
 ---
 

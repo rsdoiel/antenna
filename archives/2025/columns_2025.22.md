@@ -1,11 +1,142 @@
 ---
 title: columns
-updated: 2025-06-02 06:07:38
+updated: 2025-06-03 05:44:30
 ---
 
 # columns
 
-(date: 2025-06-02 06:07:38)
+(date: 2025-06-03 05:44:30)
+
+---
+
+## WhatsApp for iPad
+
+date: 2025-06-02, updated: 2025-06-02, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://blog.whatsapp.com/its-here-introducing-whatsapp-for-ipad>
+
+---
+
+## Script Debugger Retired
+
+date: 2025-06-02, updated: 2025-06-02, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://latenightsw.com/script-debugger-retired/>
+
+---
+
+## June 1, 2025
+
+date: 2025-06-02, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165030285/d656335eaa3f849e1ba296f29911d6d2.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165030285/d656335eaa3f849e1ba296f29911d6d2.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-1-2025-ebd>
+
+---
+
+## Giveaways
+
+date: 2025-06-02, from: Doc Searls (at Harvard), New Old Blog
+
+Did you know they existed? Hollywood Reporter: In Touch, Life &#38; Style, Closer and First for Women Magazines to Shutter, Lay Off Entire Staffs. Watch this future space. Big things are being worked on right now (without a website yet, but wait) based on Why we need first person technologies on the Net. Sounds like filler. How to [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/06/02/giveaways/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-02, from: Dave Winer's Scripting News)
+
+From <a href="https://www.facebook.com/dave.winer.12/posts/pfbid036ocMzLcmc9UfcDSxTqVWvwHra9NvN8hwaXudXWnUD6FrjmMgLfFULRxWWMY6d4REl">Facebook</a> on this day in 2015. "There should be a required college course called Introduction to Assholes. The student would learn how not to be manipulated by jerks." 
+
+<br> 
+
+<http://scripting.com/2025/06/02.html#a164723>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-02, from: Dave Winer's Scripting News)
+
+BTW, I asked ChatGPT if I moved to NYC in 2009 or 2010. It answered in an instant. "You moved to NYC in 2010." I asked how it knew. It <a href="https://imgs.scripting.com/2025/06/02/whenIMovedToNYC.png">used my blog</a> as the source. We have <a href="https://chatgpt.com/share/683da1e2-33d0-8012-a86c-d5310ac4538e">arrived</a> in the future. This is exactly the kind of query I've been begging Google to support for decades. They could have figured out where my blog is, or let me tell it where it is. Famously they once asked if I had misspelled my mother's last name in a query. How fucking clueless can you get.
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/02.html#a151536>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-02, from: Dave Winer's Scripting News)
+
+In honor of the Knicks' very successful season, I temporarily put the <a href="http://scripting.com/images/2023/04/27/knicksFansWithBagsOverHeads.png">paper bags fans</a> at the top of my home page as a reminder to anyone who wants to blame someone on the Knicks for how the season turned out. I think we should all wear the paper bags on our heads as a reminder of how we felt about being Knicks fans <a href="https://www.nba.com/game/ind-vs-nyk-0042400301">not all that long ago</a>. They are always a horrible team to love, whether they're playing for the title, or just trying desperately not to be the worst team in the NBA this season. Love hurts as <a href="https://www.youtube.com/watch?v=hFE2SnliiV0">some</a> wise <a href="https://www.youtube.com/watch?v=DhJyjBVTyxU">person</a> once <a href="https://www.youtube.com/watch?v=soDZBW-1P04">sang</a>. 
+
+<br> 
+
+<http://scripting.com/2025/06/02.html#a145040>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-02, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/01/18/anythingGoes.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Jay Rosen gave a <a href="https://bsky.app/profile/jayrosen.bsky.social/post/3lqmvt22be22u">brilliant short talk</a> in 2008 about the role of links in the web, and how journalism would have a hard time translating their self-contained worlds with the idea of the web, which is there is no container other than the whole world. Lots of important ideas in Jay's talk. For example, the idea of developing something from one direction or the other. The problem with Bluesky and Mastodon is that they're coming from Twitter, and think they're aiming toward the web, apparently -- but they must not understand the web, because they're going to have to break with Twitter's model in <a href="https://textcasting.org/">so many ways</a> to reach the web, they'll never get there if they go slowly. If you tried to develop the social web by starting with the web, you arrive at a different place, w/o all the problems of twitter-like systems. Different problems, but not the ones the twitter model has. How do I know? Because I know. <span class="spOldSchoolEmoji">😄</span>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/02.html#a144043>
+
+---
+
+##  This Is Your Captain Speaking&#8230; 
+
+date: 2025-06-02, updated: 2025-06-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/this-is-your-captain-speaking>
+
+---
+
+## Suggestion to WordPress devs
+
+date: 2025-06-02, from: Dave Winer's Scripting News
+
+<p>Below is a screen shot of a post written by Doc Searls as viewed in Bluesky. It's jarring. The big picture of Doc gets in the way.  </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="//s3.amazonaws.com/scripting.com/images/2025/06/02/docInBluesky.png"></center>Doc's post as viewed in Bluesky. His picture dominates. Imho it shouldn't.</div></p>
+<p>I realize no one designed this, but it also is reality, it's how a lot of people see Doc's writing. </p>
+<p>Here's my suggestion. When the user specifies a <a href="https://wordpress.com/support/featured-images/">featured image</a> for a post, set the og:image element in the head section of the page. When they don't specify such an image, omit that element. </p>
+<p>That's how we did it in the <a href="http://scripting.com/2025/05/09/160323.html">Baseline theme</a>, and I, as the writer, am happy with the <a href="https://daveverse.org/">result</a>.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/02/131444.html?title=suggestionToWordpressDevs>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-02, from: Dave Winer's Scripting News)
+
+<a href="https://paulkrugman.substack.com/p/hating-new-york">Krugman is right</a>, living in NYC is amazing. When I lived in Manhattan betw 2010 and 2019, I had it great but toward the end I yearned to live in the mountains, the year before Covid hit (that was a bad time to be in Manhattan, btw). Now I yearn to again live in the city. Funny how that works. Even in the 70s I felt safe in NYC, and I commuted to school from Queens to the Bronx. It was safe enough to let a 14 year old kid ride the subway into Manhattan and up to the Bronx and back, every freaking day. I never got mugged. And I did all kinds of dangerous stuff that independent-minded teen agers do. If you can afford it, I recommend you spend some time in NYC before you believe the bullshit the Repubs say about it. They have reasons not to like the cities that have nothing to do with how nice it is. In NYC we don't trust our politicians to tell the truth. You shouldn't trust yours so much either, dear Republicans. <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2025/06/02.html#a125536>
 
 ---
 
@@ -17,6 +148,7 @@ date: 2025-06-02, from: Dave Winer's Scripting News
 <p>This is understandable, I guess, as far as evolution is concerned, up to a point, but I think we've been past that point for a long time now. Now, evolution brought us to a point where in order to survive as a species we have to get over this need to rank people and work together.</p>
 <p>So if you feel other people are better than you, get over it. Same thing if you feel better than others. You aren't and they aren't.</p>
 <p>Your shit still stinks and as the great Republican philosopher Joni Ernst so eloquently put it, she's going to be dead pretty darned soon and so will you.</p>
+<p>I have to remind myself of this when I see a picture of someone who is really ugly but acts like they're not. And when I say ugly, I mean ugly inside. I say to myself "Davey, they are reflecting off something inside yourself that you don't like. On a different day they might seem very beautiful to you!" So I can relax and stop worrying so much about what I think about them in the moment. It matters not one bit.</p>
  
 
 <br> 

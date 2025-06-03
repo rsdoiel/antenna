@@ -1,11 +1,24 @@
 ---
 title: health
-updated: 2025-06-02 06:07:42
+updated: 2025-06-03 05:44:35
 ---
 
 # health
 
-(date: 2025-06-02 06:07:42)
+(date: 2025-06-03 05:44:35)
+
+---
+
+## People’s CDC COVID-19 Weather Report
+
+date: 2025-06-02, from: People's CDC
+
+This is the People’s CDC bi-weekly update for June 2, 2025. This Weather Report from the People’s CDC shares the latest news on the COVID situation and other public health crises in the United States.
+ 
+
+<br> 
+
+<https://peoplescdc.org/2025/06/02/peoples-cdc-covid-19-weather-report-99/>
 
 ---
 

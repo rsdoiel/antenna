@@ -1,11 +1,133 @@
 ---
 title: pacific
-updated: 2025-06-02 06:07:37
+updated: 2025-06-03 05:44:28
 ---
 
 # pacific
 
-(date: 2025-06-02 06:07:37)
+(date: 2025-06-03 05:44:28)
+
+---
+
+## June anniversaries
+
+date: 2025-06-02, from: University of Hawaiʻi News
+
+<p>The University of <span aria-label="Hawaii">Hawai&#699;i</span> celebrates June 2025 faculty and staff anniversaries.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/02/june-anniversaries/">June anniversaries</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/02/june-anniversaries/>
+
+---
+
+## UH Mānoa earns top global marks for education, research, employability, more
+
+date: 2025-06-02, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa ranks among the top 2.6&#37; of universities worldwide in the 2025 Global 2000 list.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/02/2025-global-2000-list/"><abbr>UH</abbr> Mānoa earns top global marks for education, research, employability, more</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/02/2025-global-2000-list/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Men’s mental health: More than muscle, it’s about showing up
+
+date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
+
+IN May, I shared a bit about how I found a surprising outlet for wellness through pickleball. It wasn’t just about the game; it was about connection, laughter, movement, and community. Over the past few weeks, I’ve noticed more and more people joining in. What started as a casual hit-around has grown into a steady stream of “pickleballers” — men and women alike — showing up for their well-being. 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/men-s-mental-health-more-than-muscle-it-s-about-showing-up/article_86d8bbbe-09e9-4f9b-95e8-8863a723c1dc.html>
+
+---
+
+## On the passing of Archbishop Emeritus Byrnes
+
+date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
+
+DEAR brothers and sisters in Christ, 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/on-the-passing-of-archbishop-emeritus-byrnes/article_5a76bb13-e12b-4046-9f42-ced05e5c4897.html>
+
+---
+
+## Asia shares, dollar slip as tariff tensions darken mood
+
+date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
+
+SYDNEY (Reuters) — Asian share markets and the dollar made a soft start on Monday as U.S.-China trade tensions continued to simmer, while investors turned defensive ahead of key U.S. jobs data and a widely expected cut in European interest rates. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/asia-shares-dollar-slip-as-tariff-tensions-darken-mood/article_7385c6e2-ae24-4c3e-aefb-526af7154dfb.html>
+
+---
+
+## Political self-determination for Pacific Islanders
+
+date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
+
+WHO? What? Where? When? Why? These are the basics when it comes to informing others about events. 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/political-self-determination-for-pacific-islanders/article_fcfc86cf-34ee-4e69-bc8f-f0a29af6c3ea.html>
+
+---
+
+## Doctor Who regenerates as Ncuti Gatwa leaves and Billie Piper returns
+
+date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
+
+MANCHESTER, England (Reuters) — Ncuti Gatwa, the first Black actor to play the lead role in British sci-fi show "Doctor Who," departed the series on Saturday in a season finale that saw familiar face Billie Piper reappear in his place. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/doctor-who-regenerates-as-ncuti-gatwa-leaves-and-billie-piper-returns/article_a48f2bb4-5285-4a41-ae99-32feff7442ea.html>
+
+---
+
+## Poetry
+
+date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_c2a8101c-a545-445c-8a04-68142a3e29af.html>
+
+---
+
+## ‘Lilo & Stitch’ passes ‘Sinners’ to become 2nd highest grossing film of 2025
+
+date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
+
+(AP) — “Lilo &amp; Stitch” and “Mission: Impossible — The Final Reckoning” dominated the box office charts again after fueling a record-breaking Memorial Day weekend. Theaters in the U.S. and Canada had several new films to offer this weekend as well, including Sony’s family friendly “Karate Kid: Legends” and the A24 horror movie “Bring Her Back.” According to studio estimates Sunday, it added up to a robust $149 million post-holiday weekend that’s up over 120% from the same timeframe last year. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/lilo-stitch-passes-sinners-to-become-2nd-highest-grossing-film-of-2025/article_abe3f61b-8fe3-4be7-b14c-4ecaccd7b00d.html>
 
 ---
 

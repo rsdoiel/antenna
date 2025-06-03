@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-06-02 06:07:39
+updated: 2025-06-03 05:44:31
 ---
 
 # games
 
-(date: 2025-06-02 06:07:39)
+(date: 2025-06-03 05:44:31)
+
+---
+
+## Nobody understands gambling, especially in video games
+
+date: 2025-06-02, updated: 2025-06-02, from: Polygon Website
+
+In 2025, it’s very difficult not to see gambling advertised everywhere. It’s on billboards and sports broadcasts. It’s on podcasts and printed on the turnbuckle of AEW’s pay-per-view shows. And it’s on app stores, where you can find the FanDuel and DraftKings sportsbooks, alongside glitzy digital slot machines.&#160;These apps all have the highest age ratings [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/features/602800/gambling-video-games-balatro-luck-be-a-landlord>
+
+---
+
+## A Godzilla masterpiece is coming back to the U.S. in 4K
+
+date: 2025-06-02, updated: 2025-06-02, from: Polygon Website
+
+Godzilla fans have had plenty to feast on in the past decade, with Legendary Pictures’ MonsterVerse producing five films and a pair of streaming series. But while Hollywood has come up with increasingly silly ways for its titans to fight, Japan’s Toho Studios still produced the smartest and best Godzilla film of this era — [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/602875/shin-godzilla-4k-blu-ray-theaters-re-release>
+
+---
+
+## PS5 shooter goes from 5 players to bestseller after devs defend game
+
+date: 2025-06-02, updated: 2025-06-02, from: Polygon Website
+
+Hypercharge, a whimsical action figure shooter, just went from near-obscurity to becoming one of the top 10 sellers on PS5 over the weekend, and it’s all thanks to the developers’ honesty. Every day, thousands of new games are released on major storefronts, and the sad reality is that most won’t make it. Live service titles [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/602867/hypercharge-ps5-shooter-bestseller-devs-defend-game>
+
+---
+
+## Summer Game Fest and ‘Not-E3’ 2025 schedule: All conference dates and times
+
+date: 2025-06-02, updated: 2025-06-02, from: Polygon Website
+
+Summer Game Fest 2025 returns in June to fill the vacuum left by E3 — may it rest in peace — and will be joined by a long list of showcases from the likes of Xbox and tireless independent organizers who will put on shows like Day of the Devs and Wholesome Direct. This year’s Summer Game [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/events/601264/summer-game-fest-2025-schedule-sgf-e3>
+
+---
+
+## Here’s what Pokémon Scarlet and Violet look like running on Switch 2
+
+date: 2025-06-02, updated: 2025-06-02, from: Polygon Website
+
+Since their launch, Pokémon Scarlet and Violet have faced criticism for their subpar performance. But that’s about to change with the newly released free upgrade for the Nintendo Switch 2. In a new trailer, fans just got a first look at the enhanced experience. In the trailer above, the visual improvements are immediately noticeable. Character [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon/602862/pokemon-scarlet-and-violet-switch-2-trailer-reveal-upgrade>
+
+---
+
+## Can Spritzee be shiny in Pokémon Go?
+
+date: 2025-06-02, updated: 2025-06-02, from: Polygon Website
+
+Spritzee, the perfume Pokémon from Kalos, can be found in the wild in Pokémon Go. Yes, Spritzee can be shiny in Pokémon Go! Neither Spritzee nor its evolution Aromatisse see any use in meta play, but it does have a pretty good shiny! What is the shiny rate for Spritzee in Pokémon Go? As per [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/602787/can-spritzee-be-shiny-aromatisse>
+
+---
+
+## Switch 2 pre-orders are getting cancelled days before launch
+
+date: 2025-06-02, updated: 2025-06-02, from: Polygon Website
+
+The Switch 2 is out on June 5, which means that anyone who scored a pre-order will be keeping a close eye on its status. What people expect are notices that their Switch 2 has been processed or shipped, and that they’ll get Nintendo’s new console on time. Instead, some people are getting hit with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/602832/preorders-cancelled-walmart-best-buy-target-customers>
+
+---
+
+## IO Interactive’s Project 007 has a new name: 007 First Light
+
+date: 2025-06-02, updated: 2025-06-02, from: Polygon Website
+
+IO Interactive has finally announced that its long-awaited James Bond game, 007 First Light, will receive a full reveal “this week.” The developer, known for its work on Hitman, also shared mysterious art for the forthcoming game with a silhouette of what appears to be our newly designed James Bond. An official press release for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/602818/project-007-game-new-name-007-first-light>
+
+---
+
+## Street Fighter 6 brings back Elena — and another legendary name from the past
+
+date: 2025-06-02, updated: 2025-06-02, from: Polygon Website
+
+Elena returns to the fray in Street Fighter 6 on June 5, but she isn&#8217;t the only world warrior returning to the franchise. On Sunday, Capcom announced on X (formerly known as Twitter) that legendary music composer Yoko Shimomura would be contributing a new track to Street Fighter 6’s soundtrack in a “special collaboration.” The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/602780/street-fighter-6-elena-composer-return-shimomura>
 
 ---
 

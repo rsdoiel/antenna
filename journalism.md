@@ -1,11 +1,25 @@
 ---
 title: journalism
-updated: 2025-06-02 06:07:40
+updated: 2025-06-03 05:44:32
 ---
 
 # journalism
 
-(date: 2025-06-02 06:07:40)
+(date: 2025-06-03 05:44:32)
+
+---
+
+## LACCD celebrates Black graduates at Southwest College
+
+date: 2025-06-02, from: The Round Up (Pierce College Student Newspaper)
+
+<p>&#160; Music echoed through the brightly decorated gym walls, pulsing with African drums and dynamic dances, as Southwest City College hosted its annual Black Graduate</p>
+<p>The post <a href="https://theroundupnews.com/2025/06/02/laccd-celebrates-black-graduates-at-southwest-college/">LACCD celebrates Black graduates at Southwest College</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/06/02/laccd-celebrates-black-graduates-at-southwest-college/?utm_source=rss&utm_medium=rss&utm_campaign=laccd-celebrates-black-graduates-at-southwest-college>
 
 ---
 

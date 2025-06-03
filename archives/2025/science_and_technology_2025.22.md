@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-06-02 06:07:38
+updated: 2025-06-03 05:44:29
 ---
 
 # science and technology
 
-(date: 2025-06-02 06:07:38)
+(date: 2025-06-03 05:44:29)
+
+---
+
+## CoreWeave signs megalease at Applied Digital's not-so-little house on the prairie
+
+date: 2025-06-02, updated: 2025-06-02, from: The Register (UK I.T. News)
+
+<h4>A big win for North Dakota</h4> <p>CoreWeave is headed to North Dakota, where the rent-a-GPU outfit has signed two roughly 15-year lease agreements with Applied Digital for 250 megawatts of capacity, which the datacenter builder expects will generate around $7 billion in revenue.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/02/coreweave_applied_digital_nd/>
+
+---
+
+## Ukrainians smuggle drones hidden in cabins on trucks to strike Russian airfields
+
+date: 2025-06-02, updated: 2025-06-02, from: The Register (UK I.T. News)
+
+<h4>A real-world Trojan Horse attack</h4> <p>Ukraine claims it launched a cunning drone strike on Sunday against multiple Russian airbases, hitting over 40 military aircraft and inflicting an estimated $7 billion in damage, in an operation dubbed &#34;Spiderweb.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/02/ukrainian_drones_russia_bombing/>
+
+---
+
+## Boffins found self-improving AI sometimes cheated
+
+date: 2025-06-02, updated: 2025-06-02, from: The Register (UK I.T. News)
+
+<h4>Instead of addressing hallucinations, it just bypassed the function they built to detect them</h4> <p>Computer scientists have developed a way for an AI system to rewrite its own code to improve itself.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/02/self_improving_ai_cheat/>
+
+---
+
+## Dem senators pen stern letter urging Noem to reinstate cyber review board
+
+date: 2025-06-02, updated: 2025-06-02, from: The Register (UK I.T. News)
+
+<h4>Remember Salt Typhoon? Anyone?</h4> <p>A group of Democratic senators has urged Homeland Security Secretary Kristi Noem to reestablish the Cyber Safety Review Board (CSRB), which had been investigating how China&#39;s Salt Typhoon hacked US government and telecommunications networks.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/02/senators_to_noem_reestablish_csrb/>
+
+---
+
+## Musk's smog-belching Colossus datacenter slammed by civil rights group
+
+date: 2025-06-02, updated: 2025-06-02, from: The Register (UK I.T. News)
+
+<h4>NAACP claims that &#39;temporary&#39; gas turbines were an attempt to get around environmental laws</h4> <p>Elon Musk&#39;s smog-belching Colossus AI datacenter in Memphis, Tennessee, is once again catching heat, this time from the National Association for the Advancement of Colored People (NAACP), which urges local authorities to halt operations and fine the startup for what it sees as a &#34;clear&#34; violation of the Clean Air Act.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/02/naacp_musk_dc/>
+
+---
+
+## A Star Like No Other
+
+date: 2025-06-02, from: NASA breaking news
+
+An unusual star (circled in white at right) behaving like no other seen before and its surroundings are featured in this composite image released on May 28, 2025. A team of astronomers combined data from NASA’s Chandra X-ray Observatory and the Square Kilometer Array Pathfinder (ASKAP) radio telescope on Wajarri Country in Australia to study the discovered object, known [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/a-star-like-no-other/>
+
+---
+
+## Snowflake finance veep says big corps migrate at a glacial pace
+
+date: 2025-06-02, updated: 2025-06-02, from: The Register (UK I.T. News)
+
+<h4>$100 million+ deals are beholden to enterprises&#39; on-prem upgrade cycles</h4> <p>Snowflake&#39;s ability to grow in the market for larger enterprise customers is hampered by the renewal cycle for older, on-prem data warehouse and analytics tech.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/02/snowflake_analyst_conference/>
+
+---
+
+## Best pricing model for AI? Work in progress, says Salesforce
+
+date: 2025-06-02, updated: 2025-06-02, from: The Register (UK I.T. News)
+
+<h4>Is that &#39;best&#39; for customers or for shareholders? Any vendors that think they&#39;ve got this &#39;all figured out is kidding themselves&#39;</h4> <p>A senior Salesforce exec says users need to be flexible about AI pricing models while vendors determine which one works best.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/02/salesforce_ai_pricing/>
+
+---
+
+## What’s Up: June 2025 Skywatching Tips from NASA
+
+date: 2025-06-02, from: NASA breaking news
+
+Planets, Solstice, and the Galaxy Venus and Saturn separate, while Mars hangs out in the evening. Plus the June solstice, and dark skies reveal our home galaxy in all of its glory. Skywatching Highlights All Month – Planet Visibility: Daily Highlights: June 19 – Moon &#038; Saturn – The third-quarter moon appears right next Saturn […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/whats-up-june-2025-skywatching-tips-from-nasa/>
+
+---
+
+## Apocalypse When? Hubble Casts Doubt on Certainty of Galactic Collision
+
+date: 2025-06-02, from: NASA breaking news
+
+As far back as 1912, astronomers realized that the Andromeda galaxy — then thought to be only a nebula — was headed our way. A century later, astronomers using NASA’s Hubble Space Telescope were able to measure the sideways motion of Andromeda and found it was so negligible that an eventual head-on collision with the […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/apocalypse-when-hubble-casts-doubt-on-certainty-of-galactic-collision/>
+
+---
+
+## That time “AI” translation almost caused a fight between a doctor and my parents
+
+date: 2025-06-02, from: OS News
+
+What if you want to find out more about the PS/2 Model 280? You head out to Google, type it in as a query, and realise the little &#8220;AI&#8221; summary that&#8217;s above the fold is clearly wrong. Then you run the same query again, multiple times, and notice that each time, the &#8220;AI&#8221; overview gives a different wrong answer, with made-up details it&#8217;s pulling out of its metaphorical ass. Eventually, after endless tries, Google does stumble upon the right answer: there never was a PS/2 Model 280, and every time the &#8220;AI&#8221; pretended that there was, it made up the whole thing. Google&#8217;s &#8220;AI&#8221; is making up a different type of computer out of thin air every time you ask it about the PS/2 Model 280, including entirely bonkers claims that it had a 286 with memory expandable up to 128MB of RAM (the 286 can&#8217;t have more than 16). Only about 1 in 10 times does the query yield the correct answer that there is no Model 280 at all. An expert will immediately notice discrepancies in the hallucinated answers, and will follow for example the List of IBM PS/2 Models article on Wikipedia. Which will very quickly establish that there is no Model 280. The (non-expert) users who would most benefit from an AI search summary will be the ones most likely misled by it. How much would you value a research assistant who gives you a different answer every time you ask, and although sometimes the answer may be correct, the incorrect answers look, if anything, more “real” than the correct ones? ↫ Michal Necasek at the OS/2 Museum This is only about a non-existent model of PS/2, which doesn&#8217;t matter much in the grand scheme of things. However, what if someone is trying to find information about how to use a dangerous power tool? What if someone asks the Google &#8220;AI&#8221; about how to perform a certain home improvement procedure involving electricity? What if you try to repair your car following the instructions provided by &#8220;AI&#8221;? What if your mother follows the instructions listed in the leaflet that came with her new medication, which was &#8220;translated&#8221; using &#8220;AI&#8221;, and contains dangerous errors? My father is currently undertaking a long diagnostic process to figure out what kind of age-related condition he has, which happens to involve a ton of tests and interviews by specialists. Since my parents are Dutch and moved to Sweden a few years ago, language is an issue, and as such, they rely on interpreters and my Swedish wife&#8217;s presence to overcome that barrier. A few months ago, though, they received the Swedish readout of an interview with a specialist, and pasted it into Google Translate to translate it to Dutch, since my wife and I were not available to translate it properly. Reading through the translation, it all seemed perfectly fine; exactly the kind of fact-based, point-by-point readout doctors and medical specialists make to be shared with the patient, other involved specialists, and for future reference. However, somewhere halfway through, the translation suddenly said, completely out of nowhere: &#8220;The patient was combative and non-cooperative&#8221; (translated into English). My parents, who can&#8217;t read Swedish and couldn&#8217;t double-check this, were obviously taken aback and very upset, since this weird interjection had absolutely no basis in reality. This readout covered a basic question-and-answer interview about symptoms, and at no point during the conversation with the friendly and kind doctor was there any strife or modicum of disagreement. Still, being into their &#8217;70s and going through a complex and stressful diagnostic process in a foreign healthcare system, it&#8217;s not unsurprising my parents got upset. When they shared this with the rest of our family, I immediately thought there must&#8217;ve been some sort of translation error introduced by Google Translate, because not only does the sentence in question not match my parents and the doctor in question at all, it would also be incredibly unprofessional. Even if the sentence were an accurate description of the patient-doctor interaction, it would never be shared with the patient in such a manner. So, trying to calm everyone down by suggesting it was most likely a Google Translate error, I asked my parents to send me the source text so my wife and I could pour over it to discover where Google Translate went wrong, and if, perhaps, there was a spelling error in the source, or maybe some Swedish turn of phrase that could easily be misinterpreted even by a human translator. After pouring over the documents for a while, we came to a startling conclusion that was so, so much worse. Google Translate made up the sentence out of thin air. This wasn&#8217;t Google Translate taking a sentence and mangling it into something that didn&#8217;t make any sense. This wasn&#8217;t a spelling error that tripped up the numbskull &#8220;AI&#8221;. This wasn&#8217;t a case of a weird Swedish expression that requires a human translator to properly interpret and localise into Dutch. None of the usual Google Translate limitations were at play here. It just made up a very confrontational sentence out of thin air, and dumped it in between two other sentence that were properly present in the source text. Now, I can only guess at what happened here, but my guess is that the preceding sentence in the source readout was very similar to a ton of other sentences in medical texts ingested by Google&#8217;s &#8220;AI&#8221;, and in some of the training material, that sentence was followed by some variation of &#8220;patient was combative and non-cooperative&#8221;. Since &#8220;AI&#8221; here is really just glorified autocomplete, it did exactly what autocomplete does: it made shit up that wasn&#8217;t there, thereby almost causing a major disagreement between a licensed medical professional and a patient. Luckily for the medical professional and the patient in question, we caught it in time, and my family had a good laugh about it, but the next person this happens to might not be so lucky. Someone visiting a  
+
+<br> 
+
+<https://www.osnews.com/story/142469/that-time-ai-translation-almost-caused-a-fight-between-a-doctor-and-my-parents/>
+
+---
+
+## GNOME OS ready for more extensive testing
+
+date: 2025-06-02, from: OS News
+
+While it’s still early days and it’s not recommended for non-technical audiences, GNOME OS is now ready for developers and early adopters who know how to deal with occasional bugs (and importantly, file those bugs when they occur). ↫ Tobias Bernard This is great news, and means GNOME OS is progressing nicely. I&#8217;m a proponent of this and KDE&#8217;s equivalent project, because it allows the people working on GNOME and KDE to really showcase their work in optimal, controlled conditions. While I don&#8217;t see myself switching to a Flatpak-based, immutable distribution because they tend to not align with what I want out of an operating system, they&#8217;ll serve as great showcases. There is a risk associated with these projects, though, as I highlighted the last time we talked about them. Once such “official” GNOME and KDE Linux distributions exist, the projects run a real risk of only really caring about how well GNOME and KDE work there, while not caring as much, or even at all, how well they run everywhere else. I’m not sure how they intend to prevent this from happening, but from here, I can already see the drama erupting. I hope this is something they take into consideration. We&#8217;ll have to wait and see if my worries are founded or not. 
+
+<br> 
+
+<https://www.osnews.com/story/142475/gnome-os-ready-for-more-extensive-testing/>
+
+---
+
+## NASA boss-to-be gets spaced as proposed budget cuts detailed
+
+date: 2025-06-02, updated: 2025-06-02, from: The Register (UK I.T. News)
+
+<h4>White House withdraws Isaacman pick amid potential $6B funding drop</h4> <p>More details are emerging about potential NASA budget cuts alongside the abrupt withdrawal of the nomination of Jared Isaacman as the agency&#39;s new administrator.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/02/nasa_isaacman_dropped/>
+
+---
+
+## Harpoom: of course the Apple Network Server can be hacked into running Doom
+
+date: 2025-06-02, from: OS News
+
+Of course you can run Doom on a $10,000+ Apple server running IBM AIX. Of course you can. Well, you can now. Now, let&#8217;s go ahead and get the grumbling out of the way. No, the ANS is not running Linux or NetBSD. No, this is not a backport of NCommander&#8217;s AIX Doom, because that runs on AIX 4.3. The Apple Network Server could run no version of AIX later than 4.1.5 and there are substantial technical differences. (As it happens, the very fact it won&#8217;t run on an ANS was what prompted me to embark on this port in the first place.) And no, this is not merely an exercise in flogging a geriatric compiler into building Doom Generic, though we&#8217;ll necessarily do that as part of the conversion. There&#8217;s no AIX sound driver for ANS audio, so this port is mute, but at the end we&#8217;ll have a Doom executable that runs well on the ANS console under CDE and has no other system prerequisites. We&#8217;ll even test it on one of IBM&#8217;s PowerPC AIX laptops as well. Because we should. ↫ Cameron Kaiser Excellent reading, as always, from Cameron Kaiser. 
+
+<br> 
+
+<https://www.osnews.com/story/142473/harpoom-of-course-the-apple-network-server-can-be-hacked-into-running-doom/>
+
+---
+
+## “My experience with Canonical’s interview process”
+
+date: 2025-06-02, from: OS News
+
+A short while ago, we talked about the hellish hiring process at a Silicon Valley startup, and today we&#8217;ve got another one. Apparently, it&#8217;s an open secret that the hiring process at Canonical is a complete dumpster fire. I left Google in April 2024, and have thus been casually looking for a new job during 2024. A good friend of mine is currently working at Canonical, and he told me that it&#8217;s quite a nice company with a great working environment. Unfortunately, the internet is full of people who had a poor experience: Glassdoor shows that only 15% had a positive interview experience, famous internet denizens like sara rambled on the topic, reddit, hackernews, indeed and blind all say it&#8217;s terrible, … but the idea of being decently paid to do security work on a popular Linux distribution was really appealing to me. ↫ Julien Voisin What follows is Byzantine and ridiculous, and all ultimately unnecessary since it turns out Mark Shuttleworth interviews applicants at the end of this horrid process and yays or nays people on vibes alone. You have to read it to believe it. One interesting note that I do appreciate is that Voisin used their rights under the GDPR to force Canonical to hand over the feedback about his application since the GDPR considers it personal information. Delicious. 
+
+<br> 
+
+<https://www.osnews.com/story/142471/my-experience-with-canonicals-interview-process/>
+
+---
+
+## The Core of Fermat’s Last Theorem Just Got Superpowered
+
+date: 2025-06-02, from: Quanta Magazine
+
+By extending the scope of the key insight behind Fermat’s Last Theorem, four mathematicians have made great strides toward building a “grand unified theory” of math.            <p>The post <a href="https://www.quantamagazine.org/the-core-of-fermats-last-theorem-just-got-superpowered-20250602/" target="_blank">The Core of Fermat’s Last Theorem Just Got Superpowered</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-core-of-fermats-last-theorem-just-got-superpowered-20250602/>
+
+---
+
+## Microsoft's plain text editor gets fancy as Notepad gains formatting options
+
+date: 2025-06-02, updated: 2025-06-02, from: The Register (UK I.T. News)
+
+<h4>It&#39;s a bold strategy, Cotton. Let&#39;s see if it pays off for them</h4> <p>Microsoft is updating Notepad again. The latest indignity for the veteran Windows text wrangler? Text formatting.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/02/microsofts_plain_text_editor_notepad_gets_formatting/>
+
+---
+
+## VodafoneThree's a crowd – now comes the hard bit
+
+date: 2025-06-02, updated: 2025-06-02, from: The Register (UK I.T. News)
+
+<h4>29M customers, four radio suppliers, and one hell of a network headache</h4> <p>Network engineers can take solace from the completed merger of Three and Vodafone announced today, as the difficult technical work now starts to unify their separate networks over the next several years.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/02/vodafone_three_complete_merger/>
 
 ---
 

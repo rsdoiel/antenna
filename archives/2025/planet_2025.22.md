@@ -1,11 +1,223 @@
 ---
 title: planet
-updated: 2025-06-02 06:07:34
+updated: 2025-06-03 05:44:25
 ---
 
 # planet
 
-(date: 2025-06-02 06:07:34)
+(date: 2025-06-03 05:44:25)
+
+---
+
+## Man seriously injured in Dublin city centre assault
+
+date: 2025-06-02, from: RTÉ News
+
+A man has been seriously injured in an assault in Dublin city centre. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0602/1516340-dublin-assault/>
+
+---
+
+## New Portugese search in Madeline McCann case to begin
+
+date: 2025-06-02, from: RTÉ News
+
+Portuguese police will carry out a new search this week in the municipality of Lagos at the request of German authorities investigating the 2007 disappearance of three-year-old Madeleine McCann. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0602/1516324-new-portugese-search-in-madeline-mccann-case-to-begin/>
+
+---
+
+## Father of 6 killed 'for piece of bread' at Gaza aid site
+
+date: 2025-06-02, from: RTÉ News
+
+Cries of grief echoed across southern Gaza's Nasser Hospital as dozens came to mourn Hossam Wafi, after the father of six was killed while attempting to get supplies to feed his family. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0602/1516320-gaza-father-aid/>
+
+---
+
+## Greenpeace activists steal Macron wax figure
+
+date: 2025-06-02, from: RTÉ News
+
+Greenpeace activists have stolen a wax figure of French President Emmanuel Macron from a Paris museum and placed it in front of the Russian embassy as part of a protest against French economic ties with Moscow in the wake of the invasion of Ukraine. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0602/1516317-greenpeace-macron-wax-figure/>
+
+---
+
+## Milky Way may not be destroyed in galactic smash-up
+
+date: 2025-06-02, from: RTÉ News
+
+The Milky Way may not have a catastrophic collision with another huge galaxy as has been predicted, computer simulations have revealed, giving our home galaxy a coin-flip chance of avoiding destruction. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0602/1516315-milky-way/>
+
+---
+
+## Massive ash cloud erupts from Sicily's Mount Etna in fiery volcanic show
+
+date: 2025-06-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7550161.1748889714!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-italy-etna-volcano.jpg' alt='A huge cloud of grey smoke billows out of the top of a volcano, with whiter smoke reaching higher above. The volcano is grey at the summit but has green growth up the sides farther down. ' width='620' height='349' title='Smoke billows from Mount Etna volcano, Italy, Monday, June 2, 2025. '/><p>Sicily's Mount Etna put on a fiery show on Monday, sending a cloud of smoke and ash several kilometres into the air. Although the eruption sent some tourists scrambling, officials said the activity posed no danger to the population.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/mount-etna-eruption-1.7550148?cmp=rss>
+
+---
+
+## Pope Leo XIV honours Blessed Iuliu Hossu as a prophet of hope
+
+date: 2025-06-02, from: Vatican News
+
+
+                    <p>Pope Leo XIV pays tribute to Blessed Iuliu Hossu, recalling his heroic defense of Jews during WWII and his unwavering faith under Communist persecution. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-blessed-cardinal-hossu-commemoration-sistine-chapel.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-blessed-cardinal-hossu-commemoration-sistine-chapel.html>
+
+---
+
+## TCD student describes 'fear, anxiety' of Etna eruption
+
+date: 2025-06-02, from: RTÉ News
+
+A group of Trinity College students has told of the "confusion, fear and anxiety" after they were caught in the middle of Mount Etna's eruption in Sicily this morning while on holiday to celebrate their graduation. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0602/1516311-trinity-students-caught-in-mt-etna-eruption-amid-panic/>
+
+---
+
+## An Post sends 4,000 mass cards to the Vatican
+
+date: 2025-06-02, from: RTÉ News
+
+An Post has sent almost 4,000 mass cards from Irish people expressing their sympathies at the death of Pope Francis to the Vatican. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0602/1516304-an-post-mass-cards/>
+
+---
+
+## Ukrainian-Russian peace talks held despite fighting ﻿
+
+date: 2025-06-02, from: Vatican News
+
+
+                    <p>Another round of peace talks between Ukraine and Russia has begun in Istanbul, Turkey, despite new reports of Russian attacks hitting Ukraine after Kyiv hit Russia with drones.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/ukrainian-russian-peace-talks-despite-fighting.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/ukrainian-russian-peace-talks-despite-fighting.html>
+
+---
+
+## Number injured in Liverpool victory parade rises to 109
+
+date: 2025-06-02, from: RTÉ News
+
+The number of people reported to have been injured in the Liverpool victory parade crash has risen to 109 with four people remaining in hospital, Merseyside Police said. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0602/1516298-liverpool-attack/>
+
+---
+
+## World News in Brief: Guterres condemns antisemitic attacks, ILO to debate pros and cons of working online, Sudan, Ukraine updates
+
+date: 2025-06-02, from: United Nations, Economic Development
+
+The UN Secretary-General on Monday reinforced his stand against all acts of antisemitism following the horrific attack in Boulder, Colorado, at the weekend and vandalism in France targeting Jewish landmarks. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1163961>
+
+---
+
+## UN calls for ‘immediate and unconditional’ release of aid workers arbitrarily detained in Yemen
+
+date: 2025-06-02, from: United Nations, UN Affairs
+
+As June marks one year since the arbitrary detention of dozens of personnel from the UN, NGOs, civil society organizations and diplomatic missions by the Houthi de facto authorities in Yemen, the UN Secretary-General has reiterated his call for their release, urging they be&nbsp;freed “immediately and unconditionally.” 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1163956>
+
+---
+
+## Deadly flooding in Nigeria displaces thousands
+
+date: 2025-06-02, from: United Nations, Climate Change
+
+Flash flooding in western Nigeria at the weekend has caused devastation around the town of Mokwa in Niger state, leaving more than 150 dead and 3,000 people displaced – more than half of whom are children aged 12 and under – the UN said on Monday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1163951>
+
+---
+
+## Germany’s Annalena Baerbock elected President of the 80th General Assembly
+
+date: 2025-06-02, from: United Nations, UN Affairs
+
+Former German foreign minister Annalena Baerbock was elected President of the General Assembly’s 80th session on Monday. Her appointment comes as the regional group that includes Western Europe takes its turn at the helm of the world body. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1163936>
+
+---
+
+## Gaza: Guterres urges probe into killings at food distribution sites
+
+date: 2025-06-02, from: United Nations, Top Stories
+
+The UN Secretary-General has condemned the reported killing and injury of Palestinians seeking food aid in Gaza on Sunday, calling for an investigation into the matter. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1163926>
+
+---
+
+## Frontline Ukrainian families face perilous task of farming mined fields
+
+date: 2025-06-02, from: United Nations, Economic Development
+
+As Ukrainian and Russian delegations meet for a second round of preliminary peace talks in Turkïye on Monday, rural communities&nbsp;faced their own challenge: finding something to eat. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1163921>
 
 ---
 
@@ -18,6 +230,22 @@ Karol Nawrocki, a 42-year-old historian and conservative, has won Poland's presi
 <br> 
 
 <https://www.rte.ie/news/2025/0602/1516274-how-karol-nawrocki-won-the-polish-presidential-election/>
+
+---
+
+## Chicago set to celebrate election of Pope Leo XIV
+
+date: 2025-06-02, from: Vatican News
+
+
+                    <p>The Archdiocese of Chicago, hometown of Pope Leo XIV, is hosting an event in the city's Rate Field, residence of its beloved White Sox baseball team, to celebrate the election to the papacy of a native son.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/chicago-to-welcome-pope-leo-xiv-in-june-celebration.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/chicago-to-welcome-pope-leo-xiv-in-june-celebration.html>
 
 ---
 
@@ -41,11 +269,23 @@ date: 2025-06-02, from: Vatican News
 
 date: 2025-06-02, from: RTÉ News
 
-A 70-year-old Irish woman has been arrested in the occupied West Bank and is currently detained in Israel fighting a deportation order. 
+A 71-year-old Irish woman has been arrested in the occupied West Bank and is currently detained in Israel fighting a deportation order. 
 
 <br> 
 
 <https://www.rte.ie/news/middle-east/2025/0602/1516283-irish-woman-west-bank/>
+
+---
+
+## Cree rider travels coast to coast, visiting Indigenous communities along the way
+
+date: 2025-06-02, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7548697.1748638755!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pj-murdoch-in-kahnawake.jpg' alt='A man standing next to his motorcycle' width='620' height='349' title='to come'/><p>Paul John Murdoch recently made his way across Canada on his motorcycle. He started in Newfoundland and headed west, stopping in Indigenous communities along the way.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/cree-man-motorcycle-across-indigenous-canada-1.7548666?cmp=rss>
 
 ---
 
@@ -77,6 +317,18 @@ date: 2025-06-02, from: Vatican News
 
 ---
 
+## The wrestling saga at the heart of The Halluci Nation's new EP
+
+date: 2025-06-02, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7549742.1748873211!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/the-halluci-nation.jpg' alt='A headshot of Bear Witness (left) &amp; Tim &quot;2oolman&quot; Hill (right) of The Halluci Nation. Hill has a cap that says &quot;The Hitman Bret Hart&quot;.' width='620' height='349' title='Bear Witness (left) and Tim &quot;2oolman&quot; Hill (right) of The Halluci Nation.'/><p>The Canadian electronic music duo join Q's guest host Talia Schlanger to talk about their new record, Path of The Baby Face, which is out now.</p> 
+
+<br> 
+
+<https://www.cbc.ca/arts/q/the-wrestling-saga-at-the-heart-of-the-halluci-nation-s-new-ep-1.7548563?cmp=rss>
+
+---
+
 ## Tributes paid to woman who died after Cork City Marathon
 
 date: 2025-06-02, from: RTÉ News
@@ -101,11 +353,11 @@ Israeli gunfire killed at least three Palestinians and wounded dozens of others 
 
 ---
 
-## Russian, Ukrainian sides meet in Turkey for talks in wake of Kyiv's audacious weekend attack
+## Russia, Ukraine agree to return thousands of war dead in brief peace talks
 
 date: 2025-06-02, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7549680.1748864587!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2217634255.jpg' alt='Several people in camouflage-type military uniforms are shown climbing a set of stairs outdoors leading to a building.' width='620' height='349' title='ISTANBUL, TURKEY - JUNE 2: The Ukrainian delegation arrives ahead of the second round of Ukraine-Russia peace talks at Ciragan Palace on June 2, 2025 at  in Istanbul, Turkey. Ukraine&apos;s President Volodymyr Zelensky said on Sunday he would send a delegation to Istanbul for a second round of peace negotiations with Russia, even as fighting escalates between the two sides. Also on Sunday, Ukraine struck Russian air bases in a series of bold drone attacks, after Russia launched a record number of drones against Ukraine overnight Saturday, in addition to a missile strike that killed 12 Ukrainian military personnel and injured 60 others.  '/><p>Delegations from Russia and Ukraine arrived in Turkey on Monday for their second round of direct peace talks in just over two weeks, although expectations were low for any progress on ending the three-year war after a string of stunning attacks over the weekend.</p> 
+<img src='https://i.cbc.ca/1.7549922.1748879271!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2217672983.jpg' alt='A bespectacled and cleanshaven man wearing a suit and tie gestures with this right hand while speaking outdoors.' width='620' height='349' title='ISTANBUL, TURKEY - JUNE 2: Head of the Russian delegation and Kremlin aide, Vladimir Medinsky speaks to the media after the second round of Ukraine-Russia peace talks at Ciragan Palace on June 2, 2025 at  in Istanbul, Turkey. Ukraine&apos;s President Volodymyr Zelensky said on Sunday he would send a delegation to Istanbul for a second round of peace negotiations with Russia, even as fighting escalates between the two sides. Also on Sunday, Ukraine struck Russian air bases in a series of bold drone attacks, after Russia launched a record number of drones against Ukraine overnight Saturday, in addition to a missile strike that killed 12 Ukrainian military personnel and injured 60 others.  '/><p>Delegations from Russia and Ukraine met for a second round of direct peace talks in Turkey on Monday, although low expectations for the summit seemed to be realized as they ended after just over one hour.</p> 
 
 <br> 
 
@@ -185,6 +437,18 @@ date: 2025-06-02, from: CBC, Indigenious News
 
 ---
 
+## Peguis First Nation uses its disaster expertise to help northern Manitoba fire evacuees
+
+date: 2025-06-02, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7549587.1748858378!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/greenly-osborne.jpg' alt='A baby with tears in her eyes and a Norway House Ferry sign in the background' width='620' height='349' title='Eight-month old Greenly Osborne waited seven hours at the ferry crossing between Pimicikamak Cree Nation and Norway House after the community of 6800 members was forced to evacuate. The ferry is the only way out by road. '/><p>When news broke that a massive evacuation was needed to protect people from wildfire, Peguis First Nation stepped up.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/peguis-first-nation-northern-manitoba-fire-evacuees-1.7549585?cmp=rss>
+
+---
+
 ## Kildare man who was 'lost' in LC finds his way in tech
 
 date: 2025-06-02, from: RTÉ News
@@ -194,6 +458,18 @@ As thousands of students prepare to sit their Leaving Cert exams, we are hearing
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0602/1516208-apprenticeship-plc/>
+
+---
+
+## Gwich'in Tribal Council member concerned over lack of remote option at Inuvik meeting
+
+date: 2025-06-02, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7324534.1726502329!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/gwich-in-tribal-council-office.jpg' alt='A green and white building, pictured on a rainy day.' width='620' height='349' title='The Gwich&apos;in Tribal Council office in Inuvik, N.W.T. The council&apos;s board of directors has appointed Michael Greenland as its interim grand chief.'/><p>The president of the Nihtat Gwich'in Council in Inuvik, N.W.T., is expressing concern over the Gwich'in Tribal Council's decision not to let people participate remotely in its most recent board meeting.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/nihtat-gwich-in-president-concerned-over-lack-of-virtual-attendance-option-for-gwich-in-tribal-council-meeting-1.7548936?cmp=rss>
 
 ---
 
@@ -221,11 +497,35 @@ China has said it "firmly rejects" US claims that it had violated a sweeping tar
 
 ---
 
-## Peace talks between Russia and Ukraine open in Istanbul
+## 'It's frustrating and tiring': Another western Newfoundland daycare faces government delays
+
+date: 2025-06-02, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7548238.1748622201!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/jeffrey-young.jpeg' alt='A man wearing glasses standing in front of a banner covered in logos. ' width='620' height='349' title='Jeffrey Young is the CEO and President of the Mi&apos;kmaw Cultural Foundation. He says his organization has been waiting on government approval for months to open a registered daycare.'/><p>The Mi'kmaw Cultural Foundation in Stephenville is trying to open a registered child-care centre in a newly leased building, but it's stuck in a limbo period while waiting on provincial government approval to move forward with renovations.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/newfoundland-labrador/it-s-frustrating-and-tiring-another-western-newfoundland-daycare-faces-government-delays-1.7548198?cmp=rss>
+
+---
+
+## In the centre of Ontario's drug crisis, Fort William First Nation fights for new facility
+
+date: 2025-06-02, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7547525.1748552079!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/michele-solomon.jpg' alt='A person with reddish-brown curly hair is seen standing outside. They are wearing glasses and a black blazer.' width='620' height='349' title='Chief Michele Solomon of Fort William First Nation says the toxic drug crisis is taking a toll on her community members, which is why she is pushing for funding to get a new addiction facility up and running.'/><p>After declaring a state of emergency over its toxic drug crisis last summer, Fort William First Nation, just south of Thunder Bay, Ont., hasn't stopped advocating for more resources. While the community has purchased a facility to support individuals before they enter addiction treatment, its chief says neither the provincial nor federal government has committed funding to get it up and running. Meanwhile, the Thunder Bay district continues to have the highest opioid-related death rate in the province.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/fort-william-first-nation-drug-crisis-1.7547518?cmp=rss>
+
+---
+
+## Ukraine, Russia agree prisoner exchange, but no ceasefire
 
 date: 2025-06-02, from: RTÉ News
 
-Russian and Ukrainian negotiators will discuss their requirements for peace in their face-to-face meeting in Istanbul today, Turkish Foreign Minister Hakan Fidan has said. 
+Ukraine and Russia agreed another large-scale prisoner exchange at talks in Istanbul, but failed to make a breakthrough on an immediate halt to the fighting. 
 
 <br> 
 
@@ -233,11 +533,11 @@ Russian and Ukrainian negotiators will discuss their requirements for peace in t
 
 ---
 
-## Eight injured in firebomb attack on Colorado rally
+## Colorado rally attack suspect charged use of explosives
 
 date: 2025-06-02, from: RTÉ News
 
-Eight people were injured when a 45-year-old man yelled "Free Palestine" and threw incendiary devices into a crowd in Boulder, Colorado, where a demonstration to remember the Israeli hostages who remain in Gaza was taking place, US authorities said. 
+A suspect in an attack on a pro-Israeli rally in Colorado that injured eight people was being held on an array of charges, including assault and the use of explosives, according to Boulder county records. 
 
 <br> 
 
@@ -352,6 +652,18 @@ date: 2025-06-01, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/pope/news/2025-06/pope-to-giro-ditalia-cyclists-you-are-role-models.html>
+
+---
+
+## In using cheap drones to take out prized Russian bombers, Ukraine sends a defiant message
+
+date: 2025-06-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/358ad289-d650-4dd7-83b0-aabc1d0758ba,1748861233704/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A computer monitor shows a plane on fire' width='620' height='349' title='On the eve of a second round of peace talks, Ukraine launched what it calls its longest-range attack against Russia, using drones to target Russian warplanes. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/ukraine-drone-attack-russia-aircraft-1.7549684?cmp=rss>
 
 ---
 
@@ -748,6 +1060,30 @@ date: 2025-06-01, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/news/canada/north/inuit-star-in-new-mission-impossible-movie-1.7546176?cmp=rss>
+
+---
+
+## This co-valedictorian gave her speech in Anishnaabemowin
+
+date: 2025-06-01, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7548608.1748634828!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cassandra-spade.jpg' alt='Cassandra Spade' width='620' height='349' title='Cassandra Spade, from  from Mishkeegogamang First Nation, graduated from Bora Laskin Law School earlier this spring.'/><p>It was an historic moment at the Bora Laskin Law School graduation earlier this spring. Co-valedictorian Cassandra Spade gave her speech in Anishnaabemowin.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/cassandra-spade-1.7548601?cmp=rss>
+
+---
+
+## At age 69, Inuk artist Shirley Moorhouse is having a moment
+
+date: 2025-06-01, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7547527.1748552198!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/shirley-moorhouse-profile.jpg' alt='A woman in her 60s with grey and purple hair smiles for the camera. She is wearing a white sweater and a flowered collar.' width='620' height='349' title='Happy Valley-Goose Bay artist Shirley Moorhouse is on the long list for the Sobey Art Award, one of the most prestigious art awards in the country. '/><p>With a nod on the prestigious Sobey Art Award long list — and an upcoming exhibition at The Rooms — Happy Valley-Goose Bay artist Shirley Moorhouse's career is in full bloom, after Moorhouse went back to school in her 60s.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/newfoundland-labrador/shirley-moorhouse-artist-1.7547455?cmp=rss>
 
 ---
 

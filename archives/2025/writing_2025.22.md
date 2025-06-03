@@ -1,11 +1,127 @@
 ---
 title: writing
-updated: 2025-06-02 06:07:39
+updated: 2025-06-03 05:44:31
 ---
 
 # writing
 
-(date: 2025-06-02 06:07:39)
+(date: 2025-06-03 05:44:31)
+
+---
+
+## One Message Remains by Premee Mohamed: Review by Gary K. Wolfe
+
+date: 2025-06-02, from: Locus Magazine
+
+<p><strong>One Message Remains</strong>, Premee Mohamed (Psy­chopomp 979-8-89115-010-1, $19.99, 205pp, tp) February 2025.</p>
+<p>In a career of barely a decade, Premee Mohamed has emerged as one of the more adventurous new voices in SFF, both in terms of genre and form – a trilogy that combines SF with Lovecraftian horror (<strong>Beneath the Rising</strong>), a well-received retrospec­tive collection (<strong>No One Will Come Back for Us</strong>) and –  <a href="https://locusmag.com/2025/06/one-message-remains-by-premee-mohamed-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/one-message-remains-by-premee-mohamed-review-by-gary-k-wolfe/>
+
+---
+
+## Weekly Bestsellers, 2 June 2025
+
+date: 2025-06-02, from: Locus Magazine
+
+<div style="padding: 14px 0px 0px 0px; text-align: center;">
+<p>Rachel Gillig&#8217;s <b>The Knight and the Moth</b> (Orbit), first in a new romantasy series, debuts on all four print lists compiled here, ranking #1 on two of them.</p>
+<p>Rebecca Yarros&#8217;s <b>Iron Flame</b> moves to the trade paperback list, with that edition debuting on three print lists, ranking #1 on two of them.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+06.08
+LAT
+06.01
+USAT 
+05.25
+PW 
+06.02
+Amz 
+(06.02)
+UK: <a href="https://locusmag.com/2025/06/weekly-bestsellers-2-june-2025/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/06/weekly-bestsellers-2-june-2025/>
+
+---
+
+## HWA Scholarships Open
+
+date: 2025-06-02, from: Locus Magazine
+
+<p>The Horror Writers Association (HWA) has announced that the submission window for HWA scholarships and grants are open from June 1, 2025 to August 1, 2025. You do not need to be a member of the organization to apply.</p>
+<p>Available programs include The Horror Writers Association Scholarship, The Mary Wollstonecraft Shelley Scholarship, Diversity Grants, The Dark Poetry Scholarship, The Rocky Wood Memorial Scholarship for Non-fiction, and The Dennis Etchison Young  <a href="https://locusmag.com/2025/06/hwa-scholarships-open-3/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/hwa-scholarships-open-3/>
+
+---
+
+## Love at First Sight: How to Write a Memorable Meet-Cute
+
+date: 2025-06-02, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/love-at-first-sight-how-to-write-a-memorable-meet-cute" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Zooey%20Deschanel%20and%20Joseph%20Gordon-Levitt%20in%20500%20Days%20of%20Summer.png" alt="Zooey Deschanel and Joseph Gordon-Levitt standing in an elevator in 500 Days of Summer" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Every great romantic comedy has a moment where two characters collide, clash, or connect for the first time. That moment is a meet-cute – the heartbeat of any romantic comedy.&nbsp;<br><br>Meet-cutes set the tone, stakes, and emotional undercurrent for everything that follows the story. It’s where we, the audience, decide if we want to watch these characters fall in love. When done right, it can hook your viewer, define your characters, and spark a journey that feels both familiar and fresh.<br><br>Let’s break down what makes a meet-cute memorable, and how you can write one that stands out with some of our favorite examples.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/love-at-first-sight-how-to-write-a-memorable-meet-cute>
+
+---
+
+## Tales & Feathers: Short Fiction Reviews by A.C. Wise
+
+date: 2025-06-02, from: Locus Magazine
+
+<p>Tales &#38; Feathers Volume 3</p>
+<p>“<strong>The Windkeeper</strong>” by <strong>Simo Srinivas </strong>in Tales &#38; Feathers Volume 3 is a lovely and quiet slice of life, capturing a brief moment of connection as Mara, a traveler, stays overnight with a wind­keeper named Tepal. Both men live differently lonely lives, but as they part, Mara tears the book he’s reading in half, leaving it with Tepal and promising him the other  <a href="https://locusmag.com/2025/06/tales-feathers-short-fiction-reviews-by-a-c-wise/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/tales-feathers-short-fiction-reviews-by-a-c-wise/>
+
+---
+
+## Akwaeke Emezi: Claiming the Center
+
+date: 2025-06-02, from: Locus Magazine
+
+<p><strong>
+AKWAEKE EMEZI</strong> was born in Umuahia, Nigeria, and grew up in nearby Aba, moving to the US for college at age 16. They later attended veterinary school at Tufts, earned a master’s in public policy at NYU, and studied writing at Syracuse University. Emezi has also taken part in numerous writing workshops, including Cave Canem and the Callaloo Creative Writing Workshop.</p>
+<p>Their debut novel <strong>Freshwater </strong>was published in 2018 and  <a href="https://locusmag.com/2025/06/akwaeke-emezi-claiming-the-center/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/akwaeke-emezi-claiming-the-center/>
+
+---
+
+## Announcing the IFTF Patreon
+
+date: 2025-06-02, updated: 2025-06-02, from: (IFTF) Interactive Fiction Technology Foundation
+
+ 
+
+<br> 
+
+<http://blog.iftechfoundation.org/2025-06-02-announcing-the-iftf-patreon.html>
 
 ---
 
