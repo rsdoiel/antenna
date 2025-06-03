@@ -1,11 +1,143 @@
 ---
 title: science and technology
-updated: 2025-06-03 05:44:29
+updated: 2025-06-03 06:08:52
 ---
 
 # science and technology
 
-(date: 2025-06-03 05:44:29)
+(date: 2025-06-03 06:08:52)
+
+---
+
+## Schneider Electric says US grid will be less stable by 2030 as datacenter demand rises
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>Safety margin set to narrow – yes that buffer that helps prevent cascading failure events</h4> <p>The US electricity grid is likely to be highly constrained and less stable by 2030, and datacenters aren&#39;t helping.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/schneider_electric_says_us_grid/>
+
+---
+
+## Illicit crypto-miners pouncing on lazy DevOps configs that leave clouds vulnerable
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>To stop the JINX-0132 gang behind these attacks, pay attention to HashiCorp, Docker, and Gitea security settings</h4> <p>Up to a quarter of all cloud users are at risk of having their computing resources stolen and used to illicitly mine for cryptocurrency, after crims cooked up a campaign that targets publicly accessible DevOps tools.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/illicit_miners_hashicorp_tools/>
+
+---
+
+## Workday promises to grow workforce slowly and differently after shedding 1,750 jobs
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>February jobs cuts will be followed by rehiring in line with AI &#39;aspirations,&#39; CFO says</h4> <p>Workday has promised to rehire the 1,750 jobs it chopped earlier in the year, but in no particular timeframe and with a focus on investments in AI, the CFO has said.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/workday_promises_to_grow_workforce/>
+
+---
+
+## Bling slinger Cartier tells customers to be wary of phishing attacks after intrusion
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>Nothing terribly valuable taken in data heist, though privacy a little tarnished</h4> <p>Global jewelry giant Cartier is writing to customers to confirm their data was exposed to cybercriminals that broke into its systems.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/cartier_attack_data_theft/>
+
+---
+
+## AI hype fuels pay rise – but only if you're in the right gig
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>Software among the sectors seeing a productivity boost, PwC claims</h4> <p>Sectors in which AI can be readily used for some tasks – including the software industry – have seen higher productivity and wage growth than others, according to research by PwC.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/ai_productivity_pwc/>
+
+---
+
+## What will UK government workers do with an extra 26 minutes a day?
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>That&#39;s how much on average they saved with Microsoft Copilot AI, according to a GDS study</h4> <p>The United Kingdom&#39;s Government Digital Service (GDS) has found that giving civil service employees access to Microsoft 365 Copilot saved them an average 26 minutes per day on office tasks.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/uk_government_study_ai_time_savings/>
+
+---
+
+## Regulator sues product comparison site alleged to only compare products on which it earned commission
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>No wonder those products always rated so highly</h4> <p>Australia’s Securities &amp; Investments Commission has sued a product comparison website that it alleges only considered products from a related company.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/asic_choosi_lawsuit_australia/>
+
+---
+
+## Atlassian tweaks licenses to reward those who buy more, but gets its sums wrong
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>Happy to bill for parts of a month when you buy, not when you say goodbye</h4> <p>Atlassian has notified its customers of a new “maximum quantity billing” scheme that is good news for those who want more of its wares, but less fun for others.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/atlassian_maximum_quantity_billing/>
+
+---
+
+## IBM Cloud login breaks for second time in a fortnight
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>Sev-1 incident downs support portals and means application data paths ‘may be affected’</h4> <p>IBM’s Cloud has experienced a second Severity One incident in a fortnight. Both meant users could not log in to the Big Blue Cloud, and therefore were prevented from controlling or creating resources.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/ibm_cloud_outage/>
+
+---
+
+## More layoffs at Microsoft as axe falls in Washington and California
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>One possible solution - go join a union like recently-acquired-by-Redmond ZeniMax</h4> <p><strong>UPDATED</strong>  Less than a month after Microsoft announced it was axing three percent of its staff, regulatory filings indicate new cuts at the tech behemoth.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/more_layoffs_microsoft/>
+
+---
+
+## IBM Watson zombie brand shuffles forward with new AI lab in NYC
+
+date: 2025-06-02, updated: 2025-06-02, from: The Register (UK I.T. News)
+
+<h4>Unsurprisingly, it&#39;s all about agents, the buzzword du jour</h4> <p>IBM on Monday unveiled watsonx AI Labs, a New York City hub where startups, researchers, and IBM engineers are expected to co-create agentic AI tools for enterprise use.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/02/ibm_acquires_seek_ai/>
 
 ---
 
@@ -301,7 +433,7 @@ date: 2025-06-02, updated: 2025-06-02, from: The Register (UK I.T. News)
 
 date: 2025-06-02, updated: 2025-06-02, from: The Register (UK I.T. News)
 
-<h4>Birthdays for ESA (50) and Johann Strauss (200) marked with music of the spheres</h4> <p>What did you do on Saturday? We ask because the Vienna Symphony Orchestra spent some of it playing a waltz that the European Space Agency (ESA) transmitted in the general direction of the Voyager X probe.…</p> 
+<h4>Birthdays for ESA (50) and Johann Strauss (200) marked with music of the spheres</h4> <p>What did you do on Saturday? We ask because the Vienna Symphony Orchestra spent some of it playing a waltz that the European Space Agency (ESA) transmitted in the general direction of the Voyager 1 probe.…</p> 
 
 <br> 
 

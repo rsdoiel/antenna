@@ -1,11 +1,84 @@
 ---
 title: motorcycles
-updated: 2025-06-03 05:44:34
+updated: 2025-06-03 06:08:55
 ---
 
 # motorcycles
 
-(date: 2025-06-03 05:44:34)
+(date: 2025-06-03 06:08:55)
+
+---
+
+## Looks Like Toprak Is Finally Heading to MotoGP, Maybe With Yamaha
+
+date: 2025-06-03, from: Ride Apart, Electric Motorcycle News
+
+I was sick of reporting on rumors, but this looks solid. 
+
+<br> 
+
+<https://www.rideapart.com/news/761296/toprak-razgatlioglu-motogp-2026-yamaha-pramac/>
+
+---
+
+## This Is the Funniest Electric Scooter Police Chase and You Have to See It
+
+date: 2025-06-03, from: Ride Apart, Electric Motorcycle News
+
+I would love to see the dash cam footage from the cop's point of view.  
+
+<br> 
+
+<https://www.rideapart.com/news/761426/amazing-scooter-police-chase-video/>
+
+---
+
+## This All-Electric KTM Motorcycle Is My EV Dream, But Could It Finally Become Real?
+
+date: 2025-06-03, from: Ride Apart, Electric Motorcycle News
+
+I’ve been dreaming of the day KTM would release an “e-Duke.” Is it finally becoming a reality?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/761344/electric-ktm-duke-prototype-spotted-ktm-motohall/>
+
+---
+
+## KTM's Mess Is Causing a Headache in Racing, CEO of Kramer Leaves Position
+
+date: 2025-06-03, from: Ride Apart, Electric Motorcycle News
+
+The 'Ready to Race' brand's financial malfeasance continues to hit other companies.  
+
+<br> 
+
+<https://www.rideapart.com/news/761467/kramer-motorcycles-ceo-jensen-beeler-ktm-bankruptcy/>
+
+---
+
+## Flying Motorcycles Are Real, Just Not In the Way You Thought They'd Be
+
+date: 2025-06-03, from: Ride Apart, Electric Motorcycle News
+
+A new joint project from Yamaha and Mitsubishi wouldn't exist without bikes. 
+
+<br> 
+
+<https://www.rideapart.com/news/761024/yamaha-mitsubishi-uav-drone-prototype/>
+
+---
+
+## A Real-Life Italian Princess Crashed Her Harley-Davidson Headfirst Into a Wall
+
+date: 2025-06-03, from: Ride Apart, Electric Motorcycle News
+
+This was a serious crash, and she's lucky to be out of a coma. 
+
+<br> 
+
+<https://www.rideapart.com/news/761282/italian-princess-harley-davidson-crash-hospital/>
 
 ---
 

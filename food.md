@@ -1,11 +1,79 @@
 ---
 title: food
-updated: 2025-06-03 05:44:36
+updated: 2025-06-03 06:08:57
 ---
 
 # food
 
-(date: 2025-06-03 05:44:36)
+(date: 2025-06-03 06:08:57)
+
+---
+
+## News Flash: Drinking Coffee Before Going To Sleep Is Bad For Your Brain
+
+date: 2025-06-03, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Now there's science to prove it. 
+
+<br> 
+
+<https://sprudge.com/news-flash-drinking-coffee-before-going-to-sleep-is-bad-for-your-brain-343418.html>
+
+---
+
+## Peet’s Coffee Latest Target in Legal Fight Over Nondairy Milk Upcharges
+
+date: 2025-06-03, from: The Fresh Cup
+
+<p>One law firm keeps suing over nondairy milk surcharges. The latest target? Peet’s Coffee. </p>
+<p>The post <a href="https://freshcup.com/peets-coffee-latest-target-in-legal-fight-over-nondairy-milk-upcharges/">Peet’s Coffee Latest Target in Legal Fight Over Nondairy Milk Upcharges</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/peets-coffee-latest-target-in-legal-fight-over-nondairy-milk-upcharges/>
+
+---
+
+## An Unexpected Rub for Exceptional Grilled Chicken
+
+date: 2025-06-03, from: Bon Appetet
+
+Buttermilk powder swoops in when you don't have time for an all-day marinade. 
+
+<br> 
+
+<https://www.bonappetit.com/story/unexpected-rub-exceptional-grilled-chicken>
+
+---
+
+## Guacamole
+
+date: 2025-06-03, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/simple-guacamole-recipe/"><img title="guacamole-25-small-3" src="https://www.isabeleats.com/wp-content/uploads/2021/03/guacamole-25-small-3-400x600.jpg" alt="Guacamole in a serving bowl ready to eat." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	This authentic guacamole recipe is simply the best! Made with the perfect balance of avocados, cilantro, onions, tomatoes, lime juice,&#8230; 
+
+<br> 
+
+<https://www.isabeleats.com/simple-guacamole-recipe/>
+
+---
+
+## Tomato Recall: FDA Issues Highest Alert Over Contaminated Tomatoes
+
+date: 2025-06-02, from: Taste of Home
+
+<p>Eating the tomatoes could lead to serious health issues, or even death, according to the FDA. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/tomato-recall-update-may-2025/">Tomato Recall: FDA Issues Highest Alert Over Contaminated Tomatoes</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/tomato-recall-update-may-2025/>
 
 ---
 
@@ -110,6 +178,30 @@ date: 2025-06-02, from: The Sprudge
 <br> 
 
 <https://sprudge.com/ethiopian-coffee-is-bringing-in-record-revenue-342274.html>
+
+---
+
+## Take the 2025 Roast/Daily Coffee News Reader Survey
+
+date: 2025-06-02, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/roast-DCN-reader-survey-620x413.png" class="attachment-large size-large wp-post-image" alt="roast DCN reader survey" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/roast-DCN-reader-survey-620x413.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/roast-DCN-reader-survey-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/roast-DCN-reader-survey-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/roast-DCN-reader-survey-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/roast-DCN-reader-survey.png 1200w" sizes="(max-width: 620px) 100vw, 620px" /></div>Greetings, Readers,&#160; As we continue our pursuit of providing meaningful, useful information and insight within the rapidly evolving world of specialty coffee, we come to you today with a request:&#160;... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/02/take-the-2025-roast-daily-coffee-news-reader-survey/>
+
+---
+
+## The New Acaia  Umbra Lunar Goes Where Other Scales Cannot
+
+date: 2025-06-02, from: Daily Coffee News
+
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/acaia-umbra-lunar-2-620x349.jpg" class="attachment-large size-large wp-post-image" alt="acaia umbra lunar-2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/acaia-umbra-lunar-2-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/acaia-umbra-lunar-2-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/acaia-umbra-lunar-2-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/acaia-umbra-lunar-2-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/acaia-umbra-lunar-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee-focused scale maker Acaia recently launched the Umbra Lunar, a scale with no display screen. The device is designed to pair with other Acaia scales for display, while fitting where... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/02/the-new-acaia-umbra-lunar-goes-where-other-scales-cannot/>
 
 ---
 

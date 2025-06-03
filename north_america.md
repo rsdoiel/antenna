@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-06-03 05:44:26
+updated: 2025-06-03 06:08:50
 ---
 
 # north america
 
-(date: 2025-06-03 05:44:26)
+(date: 2025-06-03 06:08:50)
+
+---
+
+## A court blows the whistle on a fake ‘emergency’
+
+date: 2025-06-03, from: The Contrarian
+
+Words & Phrases We Could Do Without 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-court-blows-the-whistle-on-a-fake>
+
+---
+
+## Evening Roundup, June 2
+
+date: 2025-06-02, from: The Contrarian
+
+Featuring Jen Rubin; Alex Aronson; "Where in the World is Tim Mak?"; Jared Bernstein; Michael de Adder; Pasha Dashtgard; and "Talking Feds" 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-2>
 
 ---
 

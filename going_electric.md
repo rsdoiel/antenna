@@ -1,11 +1,191 @@
 ---
 title: going electric
-updated: 2025-06-03 05:44:35
+updated: 2025-06-03 06:08:56
 ---
 
 # going electric
 
-(date: 2025-06-03 05:44:35)
+(date: 2025-06-03 06:08:56)
+
+---
+
+## NIO shares plans to enter seven additional European markets
+
+date: 2025-06-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/NIO-European-markets.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chinese EV automaker NIO took to social media to announce expansion plans to seven new European markets. This multi-brand strategy will bring even more BEVs from <a href="https://electrek.co/guides/nio/">NIO</a> and Firefly to EU customers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="europe,firefly,nio" data-layer-viewtype="unknown" data-post-id="418849" href="https://electrek.co/2025/06/03/nio-shares-plans-to-enter-seven-additional-european-markets/#more-418849" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/03/nio-shares-plans-to-enter-seven-additional-european-markets/>
+
+---
+
+## MeetOne Tour full-suspension electric trike review: The most powerful and most comfortable e-trike yet
+
+date: 2025-06-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/meetone-tour-dual-motor-trike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I’m super bullish on electric trikes. I may not be a silver-haired fox (yet), but even at a ripe 36 years old, I can appreciate the advantages of a comfortable e-trike just as much as their larger market of mature riders. </p>
+
+
+
+<p>I don’t think age or accessibility should be the only factors when considering the advantages of three wheels over two, and the MeetOne Tour dual motor electric trike is a great example of that. Sure, it’d be awesome for folks who can no longer feel the same confidence or stability from two-wheelers. But it’s also just a blast to ride at any age and ability level!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,electric-three-wheeler,review" data-layer-viewtype="unknown" data-post-id="417487" href="https://electrek.co/2025/06/03/meetone-tour-full-suspension-electric-trike-review-the-most-powerful-and-most-comfortable-e-trike-yet/#more-417487" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/03/meetone-tour-full-suspension-electric-trike-review-the-most-powerful-and-most-comfortable-e-trike-yet/>
+
+---
+
+## The 2026 Polestar 4 Is Here, And It Comes From South Korea
+
+date: 2025-06-03, from: Inside EVs News
+
+The American version of the Swedish-designed electric crossover will be built by Renault in South Korea. 
+
+<br> 
+
+<https://insideevs.com/news/761530/2026-polestar-4-us-spec-pricing/>
+
+---
+
+## The 2026 Polestar 4 is officially on sale in the US, priced slightly higher than originally promised
+
+date: 2025-06-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/2026-Polestar-4-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/polestar/">Polestar</a> announced it has officially opened up sales of its long-promised 4 crossover SUV as a 2026 model, available to US customers starting today. Below, we’ve included performance specs and pricing separated by each model variant.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="polestar,polestar-4" data-layer-viewtype="unknown" data-post-id="418754" href="https://electrek.co/2025/06/03/2026-polestar-4-officially-on-sale-us-priced-slightly-higher/#more-418754" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/03/2026-polestar-4-officially-on-sale-us-priced-slightly-higher/>
+
+---
+
+## Tesla (TSLA) sales continue to crash in Europe as it clings to a fluke in Norway
+
+date: 2025-06-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Model-Y-2-Along-the-Way-Tablet-CN.png-e1736950646574.jpeg?quality=82&#038;strip=all&#038;w=1392" /></div><p>Tesla’s sales continue to crash in Europe despite the availability of the new Model Y and record discounts.</p>
+
+
+
+<p>However, the automaker clings to a good month in Norway, which is not particularly impressive in comparison and could prove to be a fluke.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="418818" href="https://electrek.co/2025/06/03/tesla-tsla-sales-continue-crash-europe-clings-fluke-norway/#more-418818" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/03/tesla-tsla-sales-continue-crash-europe-clings-fluke-norway/>
+
+---
+
+## Tesla announces production of 1 millionth Powerwall with some shady math
+
+date: 2025-06-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Tesla_Powerwall_Hero_UK.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has announced that it produced its one millionth Powerwall. An impressive milestone that is, unfortunately, overshadowed by some questionable math.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-powerwall" data-layer-viewtype="unknown" data-post-id="418817" href="https://electrek.co/2025/06/03/tesla-announces-production-of-1-millionth-powerwall-with-some-shady-math/#more-418817" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/03/tesla-announces-production-of-1-millionth-powerwall-with-some-shady-math/>
+
+---
+
+## Rivian Is Adding A Key Charging Feature To The R1S And R1T EVs
+
+date: 2025-06-03, from: Inside EVs News
+
+The change is part of a larger update that brings a revamped energy meter and faster charging for some versions. 
+
+<br> 
+
+<https://insideevs.com/news/761495/rivian-charging-improvements-gen1-gen2-r1t-r1s/>
+
+---
+
+## Tesla is forced to remove 64 Superchargers on NJ Turnpike, Musk claims ‘corruption’
+
+date: 2025-06-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/03/Screenshot-2023-03-15-at-5.17.37-PM.jpg?quality=82&#038;strip=all&#038;w=1029" /></div><p>Tesla is being forced to remove 64 Superchargers at stations along the New Jersey Turnpike as the local authorities have decided to go with another provider.</p>
+
+
+
+<p>Elon Musk claimed corruption without any evidence.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="418810" href="https://electrek.co/2025/06/02/tesla-is-forced-to-remove-64-superchargers-on-nj-turnpike-musk-claims-corruption/#more-418810" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/02/tesla-is-forced-to-remove-64-superchargers-on-nj-turnpike-musk-claims-corruption/>
+
+---
+
+## E-quipment highlight: ZQUIP heavy equipment battery swap demo [video]
+
+date: 2025-06-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/case_zquip_MAIN.png?w=1600" /></div><p>ZQUIP is working hard to bring more smart, efficient, modular power solutions to commercial job sites everywhere – and at the core of their vision for the future is battery-swap technology. You can see just how easy it is make that happen here.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-swap,case,electric-construction-equipment" data-layer-viewtype="unknown" data-post-id="418782" href="https://electrek.co/2025/06/02/e-quipment-highlight-zquip-heavy-equipment-battery-swap-demo-video/#more-418782" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/02/e-quipment-highlight-zquip-heavy-equipment-battery-swap-demo-video/>
+
+---
+
+## Meyer Burger just shut down its US solar factory and laid off 282 workers [Update]
+
+date: 2025-06-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/05/Meyer-Burger-Goodyear.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Swiss solar manufacturer Meyer Burger has pulled the plug on its US solar module factory in Arizona and laid off nearly 300 workers; now, there’s more bad news.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="418391" href="https://electrek.co/2025/06/02/meyer-burger-us-solar-factory-and-laid-off-282-workers/#more-418391" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/02/meyer-burger-us-solar-factory-and-laid-off-282-workers/>
+
+---
+
+## Lucid (LCID) launches its largest discounts so far with over $31,000 off Air EV models
+
+date: 2025-06-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Lucid-outpacing-rivals.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>That’s not a typo. <a href="https://electrek.co/guides/lucid-air/">Lucid</a> (LCID) is offering over $31,000 off select 2025 Air models this month as part of the EV maker’s strongest promotions so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-air,lucid-motors" data-layer-viewtype="unknown" data-post-id="418759" href="https://electrek.co/2025/06/02/lucid-now-discounting-air-ev-models-by-over-31000/#more-418759" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/02/lucid-now-discounting-air-ev-models-by-over-31000/>
 
 ---
 

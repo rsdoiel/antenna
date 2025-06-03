@@ -1,11 +1,74 @@
 ---
 title: journalism
-updated: 2025-06-03 05:44:32
+updated: 2025-06-03 06:08:54
 ---
 
 # journalism
 
-(date: 2025-06-03 05:44:32)
+(date: 2025-06-03 06:08:54)
+
+---
+
+## Professors express concerns about proposal for UC-wide semester switch
+
+date: 2025-06-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC is considering transitioning all its campuses to a common semester calendar &#8211; but some faculty members are concerned about costs, workload and a lack of staff input. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/02/professors-express-concerns-about-proposal-for-uc-wide-semester-switch/>
+
+---
+
+## UCLA Epicenter provides students with innovative industry experience
+
+date: 2025-06-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Raffi Simonian wanted to give students experience in solving real-world business and technology problems.
+That&#8217;s why he decided to lead the UCLA Epicenter, which partners with companies to create quarterly Innovation Challenges &#8211; hands-on projects where student teams try to solve real world issues in fields like data science, marketing, e-commerce and sales &#8211; said Simonian, the program&#8217;s director. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/02/ucla-epicenter-provides-students-with-innovative-industry-experience/>
+
+---
+
+## Head in the Clouds 2025: Day 2 platforms rising artists, reunites iconic hitmakers
+
+date: 2025-06-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+It’s time to come back to reality after a weekend above the clouds.
+The 2025 Head in the Clouds Music &#38; Arts Festival continued at Brookside at the Rose Bowl in Pasadena on Sunday. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/02/head-in-the-clouds-2025-day-2-platforms-rising-artists-reunites-iconic-hitmakers/>
+
+---
+
+## LA Metro discusses costs of Sepulveda Transit Corridor alternatives at May meeting
+
+date: 2025-06-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Los Angeles Metro officials discussed preliminary costs and scheduling for the Sepulveda Transit Corridor Project at a May community meeting Thursday.
+The meeting, held at the Westwood United Methodist Church, included information stations about the different stages of the Sepulveda Transit Corridor Project &#8211; a plan to expand accessible public transit from the San Fernando Valley to West LA through the Sepulveda Pass &#8211; as well as a presentation and Q&#38;A session with LA Metro. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/02/la-metro-discusses-costs-of-sepulveda-transit-corridor-alternatives-at-may-meeting/>
+
+---
+
+## North Westwood Neighborhood Council recap – May 25
+
+date: 2025-06-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+The North Westwood Neighborhood Council heard updates on Los Angeles budget cuts  and the revised design proposal for the Westwood location of Raising Cane&#8217;s Chicken Fingers on May 7. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/02/north-westwood-neighborhood-council-recap-may-25/>
 
 ---
 

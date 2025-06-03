@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-06-03 05:44:33
+updated: 2025-06-03 06:08:54
 ---
 
 # libraries
 
-(date: 2025-06-03 05:44:33)
+(date: 2025-06-03 06:08:54)
+
+---
+
+## Guest Post — Trust and Transparency in Open Access Book Publishing:  Part 1
+
+date: 2025-06-03, from: Scholarly Kitchen
+
+<p>How does the Directory of Open Access Books navigate challenges to instill trust and transparency. Part 1 of 2.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/06/03/guest-post-trust-and-transparency-in-open-access-book-publishing-part-1/">Guest Post &#8212; Trust and Transparency in Open Access Book Publishing:  Part 1</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/06/03/guest-post-trust-and-transparency-in-open-access-book-publishing-part-1/>
+
+---
+
+## Costa Rica Acoustic Monitoring Dataset - Nicoya
+
+date: 2025-06-03, from: ETH Zurich, recently added
+
+Delgado, Giacomo 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/680152>
 
 ---
 

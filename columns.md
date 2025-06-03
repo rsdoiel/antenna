@@ -1,11 +1,120 @@
 ---
 title: columns
-updated: 2025-06-03 05:44:30
+updated: 2025-06-03 06:08:52
 ---
 
 # columns
 
-(date: 2025-06-03 05:44:30)
+(date: 2025-06-03 06:08:52)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-03, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2017/05/26/cat.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Jeremy Herve of Automattic <a href="https://mastodon.social/@jeremy@herve.bzh/114618613561154574">responded</a> to yesterday's <a href="http://scripting.com/2025/06/02/131444.html">suggestion</a> about when to set the og:image metadata in a page. His response is persuasive, but there may be a way to work around it. And a hat-tip to Jeremy, he's helped us so many times getting WordLand ready to market. When you're fitting a product to another product as a platform, it's so important to get help from the vendor, and usually you don't get much of that. Much appreciated! <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2025/06/03.html#a125451>
+
+---
+
+## Tuesday
+
+date: 2025-06-03, from: Doc Searls (at Harvard), New Old Blog
+
+About a face. The problem Dave talks about here (my face pointlessly appearing with social media posts) is due to using an old theme that needs to be replaced. Hoping to make that happen this week. (The issue involves the &#34;featured image&#34; feature, as Dave points out in that post. When writing in Wordland, as [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/06/03/tuesday/>
+
+---
+
+## New Linux Vulnerabilities
+
+date: 2025-06-03, updated: 2025-06-03, from: Bruce Schneier blog
+
+<p>They&#8217;re <a href="https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html">interesting</a>:</p>
+<blockquote><p>Tracked as <a href="https://www.openwall.com/lists/oss-security/2025/05/29/3">CVE-2025-5054 and CVE-2025-4598</a>, both vulnerabilities are race condition bugs that could enable a local attacker to obtain access to access sensitive information. Tools like Apport and systemd-coredump are designed to handle crash reporting and core dumps in Linux systems.</p>
+<p>[&#8230;]</p>
+<p>&#8220;This means that if a local attacker manages to induce a crash in a privileged process and quickly replaces it with another one with the same process ID that resides inside a mount and pid namespace, apport will attempt to forward the core dump (which might contain sensitive information belonging to the original, privileged process) into the namespace.&#8221;...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/06/new-linux-vulnerabilities.html>
+
+---
+
+## Trump’s Vicious Attack on the American Mind
+
+date: 2025-06-03, from: Robert Reich's blog
+
+He wants America to be ignorant because ignorance is the handmaiden of tyranny 
+
+<br> 
+
+<https://robertreich.substack.com/p/trumps-attack-on-the-american-mind-1b0>
+
+---
+
+## June 2, 2025 
+
+date: 2025-06-03, from: Heather Cox Richardson blog
+
+The Republicans&#8217; giant budget reconciliation bill has focused attention on the drastic cuts the Trump administration is making to the American government. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-2-2025>
+
+---
+
+## Generative AI and the Business Borg aesthetic
+
+date: 2025-06-03, from: Tracy Durnell Blog
+
+This feels like a sister piece to Ed Zitron&#8217;s essay Era of the Business Idiots and Mandy Brown&#8217;s essay Toolmen. Fair warning, this is a 5000 word post; I&#8217;ve been working on this for weeks, pulling together what I&#8217;ve learned about generative AI and culture over the past two years, so I hope it is worth [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/06/02/generative-ai-and-the-business-borg-aesthetic/>
+
+---
+
+## ★ Apple Appeals EU’s March Ruling on ‘Interoperability’ Requirements Under the DMA
+
+date: 2025-06-03, updated: 2025-06-03, from: Daring Fireball
+
+https://9to5mac.com/2025/06/02/apple-eu-interoperability-appeal/ 
+
+<br> 
+
+<https://daringfireball.net/2025/06/apple_appeals_eu_interop_requirements>
+
+---
+
+## Why You Gotta Be So Mean? 
+
+date: 2025-06-02, from: Dan Rather's Steady
+
+Senator Joni Ernst was downright disrespectful 
+
+<br> 
+
+<https://steady.substack.com/p/why-you-gotta-be-so-mean>
+
+---
+
+## Here's the New Pledge of Allegiance I Think We All Should Take
+
+date: 2025-06-02, from: Michael Moore's blog
+
+What if we all took a new pledge? 
+
+<br> 
+
+<https://www.michaelmoore.com/p/heres-the-new-pledge-of-allegiance>
 
 ---
 
@@ -51,7 +160,7 @@ date: 2025-06-02, from: Heather Cox Richardson blog
 
 date: 2025-06-02, from: Doc Searls (at Harvard), New Old Blog
 
-Did you know they existed? Hollywood Reporter: In Touch, Life &#38; Style, Closer and First for Women Magazines to Shutter, Lay Off Entire Staffs. Watch this future space. Big things are being worked on right now (without a website yet, but wait) based on Why we need first person technologies on the Net. Sounds like filler. How to [&#8230;] 
+And that&#39;s just one problem for the party. Nate Silver: Why young men don&#39;t like Democrats. Follow the money. Reason: J.D. Vance Wants a Free Market for Crypto. What About Everything Else? What happened to that IBM, no Microsoft, monopoly? Some U.S. stats: Apple mobile phone share: 58.87%; tablet share, 54.43%; laptop share: 17.1%. (via stat counter.com) [&#8230;] 
 
 <br> 
 
@@ -71,7 +180,7 @@ From <a href="https://www.facebook.com/dave.winer.12/posts/pfbid036ocMzLcmc9UfcD
 
 **@Dave Winer's Scripting News** (date: 2025-06-02, from: Dave Winer's Scripting News)
 
-BTW, I asked ChatGPT if I moved to NYC in 2009 or 2010. It answered in an instant. "You moved to NYC in 2010." I asked how it knew. It <a href="https://imgs.scripting.com/2025/06/02/whenIMovedToNYC.png">used my blog</a> as the source. We have <a href="https://chatgpt.com/share/683da1e2-33d0-8012-a86c-d5310ac4538e">arrived</a> in the future. This is exactly the kind of query I've been begging Google to support for decades. They could have figured out where my blog is, or let me tell it where it is. Famously they once asked if I had misspelled my mother's last name in a query. How fucking clueless can you get.
+I asked ChatGPT if I moved to NYC in 2009 or 2010. It answered in an instant. "You moved to NYC in 2010." I asked how it knew. It <a href="https://imgs.scripting.com/2025/06/02/whenIMovedToNYC.png">used my blog</a> as the source. We have <a href="https://chatgpt.com/share/683da1e2-33d0-8012-a86c-d5310ac4538e">arrived</a> in the future. This is exactly the kind of query I've been begging Google to support for decades. They could have figured out where my blog is, or let me tell it where it is. Famously they once asked if I had misspelled my mother's last name in a query. How freaking clueless can you get.
  
 
 <br> 

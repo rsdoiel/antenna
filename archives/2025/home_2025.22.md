@@ -1,11 +1,55 @@
 ---
 title: home
-updated: 2025-06-03 05:44:33
+updated: 2025-06-03 06:08:55
 ---
 
 # home
 
-(date: 2025-06-03 05:44:33)
+(date: 2025-06-03 06:08:55)
+
+---
+
+## 50 Types of Birds in California (With Pictures and Identification)
+
+date: 2025-06-03, from: Yard Life blog
+
+<p>California is home to an incredible diversity of wildlife, and one of the most fascinating groups to explore is the ... </p>
+<p class="read-more-container"><a title="50 Types of Birds in California (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/50-types-of-birds-in-california-with-pictures-and-identification/#more-29354" aria-label="Read more about 50 Types of Birds in California (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/50-types-of-birds-in-california-with-pictures-and-identification/">50 Types of Birds in California (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/50-types-of-birds-in-california-with-pictures-and-identification/>
+
+---
+
+## 20 Types of Cockroaches in California (With Pictures)
+
+date: 2025-06-03, from: Yard Life blog
+
+<p>Cockroaches are among the most resilient and adaptable insects found across the globe, and California is no exception. The diverse ... </p>
+<p class="read-more-container"><a title="20 Types of Cockroaches in California (With Pictures)" class="read-more button" href="https://ownyardlife.com/20-types-of-cockroaches-in-california-with-pictures/#more-29338" aria-label="Read more about 20 Types of Cockroaches in California (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-types-of-cockroaches-in-california-with-pictures/">20 Types of Cockroaches in California (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-types-of-cockroaches-in-california-with-pictures/>
+
+---
+
+## DIY a Butcher Block Countertop: A Step-by-Step Guide
+
+date: 2025-06-02, from: Family Handyman Blog
+
+<p>Learn the art of woodworking while creating a practical and gorgeous DIY butcher block countertop that will become the centerpiece of your kitchen.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/diy-butcher-block-countertop/">DIY a Butcher Block Countertop: A Step-by-Step Guide</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/diy-butcher-block-countertop/>
 
 ---
 
@@ -45,6 +89,18 @@ The recently renovated property includes a finished garage, a brand-new kitchen,
 
 ---
 
+## Cluttercore Is the Latest Maximalist Trend. Here’s How to Actually Make It Look Good, Not Messy.
+
+date: 2025-06-02, from: Sunset Magazine - Living in the West
+
+Cluttercore is the latest Pinterest trend promoting maximalism. Designers share how to pull it off so your stuff looks chic not messy. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/cluttercore-trend>
+
+---
+
 ## Garlic and Tomatoes: Garden Companions for Healthy Plants
 
 date: 2025-06-02, from: The Gardener's Path
@@ -56,6 +112,42 @@ date: 2025-06-02, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vegetables/garlic-tomatoes-companions/>
+
+---
+
+## Homepage 2025
+
+date: 2025-06-02, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## 10 Essential Tasks to Keep Your Garden Healthy This Summer
+
+date: 2025-06-02, from: Sunset Magazine - Living in the West
+
+This summer, focus on nurturing your garden in new ways with tips on fire-safe pruning, soil-enriching crops, and thoughtful planting. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/summer-garden-care-tips>
+
+---
+
+## A Massive New In-N-Out in Las Vegas Is Set to Open Next Year. Here’s a Sneak Peak.
+
+date: 2025-06-02, from: Sunset Magazine - Living in the West
+
+Set to open in 2026, the new In-N-Out in Las Vegas will be the second largest of the SoCal-based chain's locations.  
+
+<br> 
+
+<https://www.sunset.com/food-wine/restaurants/new-in-n-out-in-las-vegas-biggest-location>
 
 ---
 

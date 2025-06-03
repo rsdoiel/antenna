@@ -1,11 +1,357 @@
 ---
 title: pacific
-updated: 2025-06-03 05:44:28
+updated: 2025-06-03 06:08:51
 ---
 
 # pacific
 
-(date: 2025-06-03 05:44:28)
+(date: 2025-06-03 06:08:51)
+
+---
+
+## What Trump’s tariffs mean for the Pacific?
+
+date: 2025-06-03, from: Pacific Island Times
+
+Whether or not one voted for President Trump, it is hard to say exactly what he was thinking when he slapped tariffs on the Pacific island nations. Be it America’s economic partnerships, military alliances, or diplomatic presence, nothing obvious stood out.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/what-trump-s-tariffs-mean-for-the-pacific>
+
+---
+
+## Hilo teacher: ‘Huge honor’ to be chosen for Hall of Fame
+
+date: 2025-06-03, from: Hawaii Tribune Harold
+
+
+				<p>Pascale Pinner, a 37-year veteran teacher at Hilo Intermediate School, has been inducted into the National Teachers Hall of Fame.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/03/hawaii-news/hilo-teacher-huge-honor-to-be-chosen-for-hall-of-fame/>
+
+---
+
+## Blessing held for Kona hospital’s expanded pharmacy
+
+date: 2025-06-03, from: Hawaii Tribune Harold
+
+
+				<p>KEALAKEKUA &#8211; Gov. Josh Green joined Kona Community Hospital officials and state legislators Monday for a special blessing ceremony to celebrate the completion of the hospital&#8217;s newly expanded pharmacy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/03/hawaii-news/blessing-held-for-kona-hospitals-expanded-pharmacy/>
+
+---
+
+## What to know about the Russia-Ukraine ceasefire talks
+
+date: 2025-06-03, from: Hawaii Tribune Harold
+
+
+				<p>Russia and Ukraine met in Istanbul on Monday for peace talks, the second round of negotiations since the adversaries resumed a direct dialogue two weeks ago.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/03/nation-world-news/what-to-know-about-the-russia-ukraine-ceasefire-talks/>
+
+---
+
+## US pushes countries for best offers by Wednesday as tariff deadline looms
+
+date: 2025-06-03, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration wants countries to provide their best offer on trade negotiations by Wednesday as officials seek to accelerate talks with multiple partners ahead of a self-imposed deadline in just five weeks, according to a draft letter to negotiating partners seen by Reuters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/03/nation-world-news/us-pushes-countries-for-best-offers-by-wednesday-as-tariff-deadline-looms/>
+
+---
+
+## Eagles finalize trade to send Bryce Huff to 49ers, will receive a 2026 draft pick in return
+
+date: 2025-06-03, from: Hawaii Tribune Harold
+
+
+				<p>PHILADELPHIA &#8212; The Eagles finalized a trade Monday to send Bryce Huff to the San Francisco 49ers in exchange for a 2026 mid-round pick.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/03/nation-world-news/eagles-finalize-trade-to-send-bryce-huff-to-49ers-will-receive-a-2026-draft-pick-in-return/>
+
+---
+
+## Man is charged with hate crime in Colorado flame attack
+
+date: 2025-06-03, from: Hawaii Tribune Harold
+
+
+				<p>BOULDER, Colo. &#8212; The man accused of an attack against demonstrators who were seeking to bring attention to Israeli hostages in the Gaza Strip had been planning the attack for a year and told investigators that he wanted to &#8220;kill all Zionist people and wished they were all dead,&#8221; federal prosecutors said Monday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/03/nation-world-news/man-is-charged-with-hate-crime-in-colorado-flame-attack/>
+
+---
+
+## FEMA staff confused after head said he was unaware of US hurricane season, sources say
+
+date: 2025-06-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Staff of the Federal Emergency Management Agency were left baffled on Monday after the head of the U.S. disaster agency said during a briefing that he had not been aware the country has a hurricane season, according to four sources familiar with the situation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/03/nation-world-news/fema-staff-confused-after-head-said-he-was-unaware-of-us-hurricane-season-sources-say/>
+
+---
+
+## News in brief for June 3
+
+date: 2025-06-03, from: Hawaii Tribune Harold
+
+
+				<p>SCOTUS turns down challenge to semiautomatic rifles</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/03/nation-world-news/news-in-brief-for-june-3-2/>
+
+---
+
+## Fans can’t get enough of this unique springtime fruit
+
+date: 2025-06-03, from: Hawaii Tribune Harold
+
+
+				<p>SAN JOSE, Calif. &#8212; On a recent warm May day, bundles of small sun-kissed-colored fruit droop from a towering tree in Raffy Espiritu&#8217;s backyard in Milpitas. They soak in the light and ripen in the heat before suddenly splitting from the branches at the slightest tug of Espiritu&#8217;s hand.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/03/features/fans-cant-get-enough-of-this-unique-springtime-fruit/>
+
+---
+
+## Let’s Talk Food: Dining at Osteria Mozza
+
+date: 2025-06-03, from: Hawaii Tribune Harold
+
+
+				<p>My son took me out for my Mother&#8217;s Day dinner to Nancy Silverton&#8217;s Osteria Mozza in Los Angeles..</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/03/features/lets-talk-food-dining-at-osteria-mozza/>
+
+---
+
+## Chinese national robbed, shot at Ngatpang quarry; investigation ongoing
+
+date: 2025-06-03, from: Island Times
+
+<p>Koror, Palau — Authorities are investigating the robbery and shooting of a Chinese national at the Ngatpang Quarry, following two separate attacks on the victim within a week. On May 29, 2025, at around 5:30 a.m., two masked men dressed in black reportedly approached the victim, known as Charlie by the locals, not his official [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/chinese-national-robbed-shot-at-ngatpang-quarry-investigation-ongoing/">Chinese national robbed, shot at Ngatpang quarry; investigation ongoing</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/chinese-national-robbed-shot-at-ngatpang-quarry-investigation-ongoing/>
+
+---
+
+## Palau passes $7M Supplemental Budget, restores most requested funding
+
+date: 2025-06-03, from: Island Times
+
+<p>President Surangel Whipps Jr. has signed into law the first supplemental budget for fiscal year 2025, approving nearly all of the funding he requested in the original proposal. The bill, RPPL 12-1, allocates $7.035 million to fund 59 budget items, after a Conference Committee of the Olbiil Era Kelulau resolved differences between the Senate and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-passes-7m-supplemental-budget-restores-most-requested-funding/">Palau passes $7M Supplemental Budget, restores most requested funding</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-passes-7m-supplemental-budget-restores-most-requested-funding/>
+
+---
+
+## Palau honors past Presidents with tributes across the Nation
+
+date: 2025-06-03, from: Island Times
+
+<p>KOROR, Palau — Palau paid tribute to its past presidents on Presidents Day, June 1, 2025, as leaders and citizens gathered across the country to honor the nation’s former heads of state. President Surangel Whipps Jr. led the commemorations by visiting the grave of the late President Kuniwo Nakamura in Peleliu, where he joined his [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-honors-past-presidents-with-tributes-across-the-nation/">Palau honors past Presidents with tributes across the Nation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-honors-past-presidents-with-tributes-across-the-nation/>
+
+---
+
+## Palau marks World No Tobacco Day and President’s Day with Nationwide call to reject harmful Industry Influence
+
+date: 2025-06-03, from: Island Times
+
+<figure><img width="1024" height="896" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/No-Tobacco-Day.jpg?fit=1024%2C896&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/No-Tobacco-Day.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/No-Tobacco-Day.jpg?resize=300%2C263&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/No-Tobacco-Day.jpg?resize=1024%2C896&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/No-Tobacco-Day.jpg?resize=768%2C672&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/No-Tobacco-Day.jpg?resize=1200%2C1050&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/No-Tobacco-Day.jpg?resize=780%2C683&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/No-Tobacco-Day.jpg?resize=400%2C350&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/No-Tobacco-Day.jpg?resize=706%2C618&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/No-Tobacco-Day.jpg?fit=1024%2C896&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77839" data-permalink="https://islandtimes.org/palau-marks-world-no-tobacco-day-and-presidents-day-with-nationwide-call-to-reject-harmful-industry-influence/no-tobacco-day/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/No-Tobacco-Day.jpg?fit=1249%2C1093&amp;ssl=1" data-orig-size="1249,1093" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="No Tobacco Day" data-image-description="" data-image-caption="&lt;p&gt;Palau acknowledged the negative impacts of tobacco and related products on health and wellbeing and joined the World No Tobacco Day, with special emphasis on deterring the use of the e-cigarettes, especially among the young people. Credit to the Office of the President.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/No-Tobacco-Day.jpg?fit=300%2C263&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/No-Tobacco-Day.jpg?fit=780%2C683&amp;ssl=1" /></figure>
+<p>KOROR (Island Times) — Hundreds of Palauans gathered early Monday morning, June 2, for a vibrant community walk/run commemorating both World No Tobacco Day and President’s Day. With more than 350 participants ranging from young children to elders, the event championed the theme “Empowered to reject tobacco, e-cigarettes, and industry influence,” reinforcing the nation&#8217;s stand [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-marks-world-no-tobacco-day-and-presidents-day-with-nationwide-call-to-reject-harmful-industry-influence/">Palau marks World No Tobacco Day and President’s Day with Nationwide call to reject harmful Industry Influence</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-marks-world-no-tobacco-day-and-presidents-day-with-nationwide-call-to-reject-harmful-industry-influence/>
+
+---
+
+## New debt and investment office aims to strengthen Palau’s Financial Oversight
+
+date: 2025-06-03, from: Island Times
+
+<p>KOROR, Palau — The government has created a new office to help manage Palau’s national debt and oversee public investments, a move officials say is intended to strengthen financial oversight and promote long-term economic stability. President Surangel Whipps Jr. signed an executive order last week establishing the Debt and Investment Office under the Ministry of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/new-debt-and-investment-office-aims-to-strengthen-palaus-financial-oversight/">New debt and investment office aims to strengthen Palau’s Financial Oversight</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/new-debt-and-investment-office-aims-to-strengthen-palaus-financial-oversight/>
+
+---
+
+## TRAUMA
+
+date: 2025-06-03, from: Island Times
+
+<figure><img width="537" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?w=537&amp;ssl=1 537w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=284%2C300&amp;ssl=1 284w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=400%2C422&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="61696" data-permalink="https://islandtimes.org/self-compassion/womens-corner-1-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" data-orig-size="537,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=284%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" /></figure>
+<p>(Overwhelming horror and helplessness). People can hurt you but they don&#8217;t have to define you. Let&#8217;s read that again: Trauma is an overwhelming horror and helplessness.&#160; We&#8217;ve all been traumatised one way or the other.&#160; And we live with Post Traumatic Stress Disorder (PTSD). Traumatic experiences like abuse, assault, or witnessing violence or tragedy can [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/trauma/">TRAUMA </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/trauma/>
+
+---
+
+## China ‘here to stay’ in Micronesia, will keep using foreign aid to sway nations: Expert
+
+date: 2025-06-03, from: Island Times
+
+<p>HAGATNA (GUAM PACIFIC DAILY NEWS)&#8212;The Chinese government’s efforts to sway Pacific and Micronesian nations using foreign aid have grown, and the rising superpower “will not back down” in the face of competition with the U.S and other nations, according to Professor Denghua Zhang. Zhang, an expert on Chinese foreign policy and senior fellow at the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/china-here-to-stay-in-micronesia-will-keep-using-foreign-aid-to-sway-nations-expert/">China ‘here to stay’ in Micronesia, will keep using foreign aid to sway nations: Expert</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/china-here-to-stay-in-micronesia-will-keep-using-foreign-aid-to-sway-nations-expert/>
+
+---
+
+## High sea hopes for treaty to preserve vast underwater
+
+date: 2025-06-03, from: Island Times
+
+<p>SYDNEY (AAP) &#8212; Between Australia and New Zealand sits a chain of underwater volcanoes that are home to an abundance of fish, ancient corals and other marine life. Known as Lord Howe Rise, the vast underwater landscape largely exists outside state maritime boundaries, beneath the high seas. That makes the ecologically rich habitat fair game [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/high-sea-hopes-for-treaty-to-preserve-vast-underwater/">High sea hopes for treaty to preserve vast underwater</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/high-sea-hopes-for-treaty-to-preserve-vast-underwater/>
+
+---
+
+## UH research tests dementia-friendly design in campus garden
+
+date: 2025-06-03, from: University of Hawaiʻi News
+
+<p>Community members helped test a new <abbr>UH</abbr>-developed checklist for improving accessibility and inclusivity in garden spaces.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/02/dementia-friendly-garden-design/"><abbr>UH</abbr> research tests dementia-friendly design in campus garden</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/02/dementia-friendly-garden-design/>
+
+---
+
+## UH Hilo tennis athletes earn academic honors
+
+date: 2025-06-03, from: University of Hawaiʻi News
+
+<p>Four Vulcans were named to the Academic All-District Team.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/02/uh-hilo-tennis-academic-honors/"><abbr>UH</abbr> Hilo tennis athletes earn academic honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/02/uh-hilo-tennis-academic-honors/>
+
+---
+
+## Amber Igiede makes U.S. Women’s National Team
+
+date: 2025-06-03, from: University of Hawaiʻi News
+
+<p>The <abbr>UH</abbr> Mānoa alumna has embarked on an impressive post-collegiate career.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/02/igiede-makes-us-national-team/">Amber Igiede makes <abbr>U.S.</abbr> Women’s National Team</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/02/igiede-makes-us-national-team/>
+
+---
+
+## UH launches fast-track wastewater training
+
+date: 2025-06-03, from: University of Hawaiʻi News
+
+<p>The one-year wastewater treatment systems specialist certificate program is aimed at addressing a much needed workforce field in <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/02/uh-wastewater-training/"><abbr>UH</abbr> launches fast-track wastewater training</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/02/uh-wastewater-training/>
+
+---
+
+## Climate research around Pacific falls victim to federal grant loss
+
+date: 2025-06-03, from: University of Hawaiʻi News
+
+<p>The grant money was used to provide important climate data to Pacific Island stakeholders.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/02/climate-research-around-pacific-falls-victim-to-federal-grant-loss/">Climate research around Pacific falls victim to federal grant loss</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/02/climate-research-around-pacific-falls-victim-to-federal-grant-loss/>
+
+---
+
+## Preparing for Hurricane and Fire Season INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-06-02, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Hurricane season is here and even as weather forecasters are predicting a near to below average season with 1 to 4 tropical cyclones in our region, they stress the importance of staying aware and being prepared. </p>
+<p>The post <a href="https://www.pbshawaii.org/preparing-for-hurricane-and-fire-season-insights-on-pbs-hawai%ca%bbi/">Preparing for Hurricane and Fire Season &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/preparing-for-hurricane-and-fire-season-insights-on-pbs-hawai%ca%bbi/>
 
 ---
 
@@ -35,6 +381,78 @@ The post <a href="https://www.hawaii.edu/news/2025/06/02/2025-global-2000-list/"
 
 ---
 
+## Men’s mental health: More than muscle, it’s about showing up
+
+date: 2025-06-02, updated: 2025-06-03, from: Marianas Variety
+
+IN May, I shared a bit about how I found a surprising outlet for wellness through pickleball. It wasn’t just about the game; it was about connection, laughter, movement, and community. Over the past few weeks, I’ve noticed more and more people joining in. What started as a casual hit-around has grown into a steady stream of “pickleballers” — men and women alike — showing up for their well-being. 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/men-s-mental-health-more-than-muscle-it-s-about-showing-up/article_86d8bbbe-09e9-4f9b-95e8-8863a723c1dc.html>
+
+---
+
+## On the passing of Archbishop Emeritus Byrnes
+
+date: 2025-06-02, updated: 2025-06-03, from: Marianas Variety
+
+DEAR brothers and sisters in Christ, 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/on-the-passing-of-archbishop-emeritus-byrnes/article_5a76bb13-e12b-4046-9f42-ced05e5c4897.html>
+
+---
+
+## Asia shares, dollar slip as tariff tensions darken mood
+
+date: 2025-06-02, updated: 2025-06-03, from: Marianas Variety
+
+SYDNEY (Reuters) — Asian share markets and the dollar made a soft start on Monday as U.S.-China trade tensions continued to simmer, while investors turned defensive ahead of key U.S. jobs data and a widely expected cut in European interest rates. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/asia-shares-dollar-slip-as-tariff-tensions-darken-mood/article_7385c6e2-ae24-4c3e-aefb-526af7154dfb.html>
+
+---
+
+## Political self-determination for Pacific Islanders
+
+date: 2025-06-02, updated: 2025-06-03, from: Marianas Variety
+
+WHO? What? Where? When? Why? These are the basics when it comes to informing others about events. 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/political-self-determination-for-pacific-islanders/article_fcfc86cf-34ee-4e69-bc8f-f0a29af6c3ea.html>
+
+---
+
+## Doctor Who regenerates as Ncuti Gatwa leaves and Billie Piper returns
+
+date: 2025-06-02, updated: 2025-06-03, from: Marianas Variety
+
+MANCHESTER, England (Reuters) — Ncuti Gatwa, the first Black actor to play the lead role in British sci-fi show "Doctor Who," departed the series on Saturday in a season finale that saw familiar face Billie Piper reappear in his place. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/doctor-who-regenerates-as-ncuti-gatwa-leaves-and-billie-piper-returns/article_a48f2bb4-5285-4a41-ae99-32feff7442ea.html>
+
+---
+
+## ‘Lilo & Stitch’ passes ‘Sinners’ to become 2nd highest grossing film of 2025
+
+date: 2025-06-02, updated: 2025-06-03, from: Marianas Variety
+
+(AP) — “Lilo &amp; Stitch” and “Mission: Impossible — The Final Reckoning” dominated the box office charts again after fueling a record-breaking Memorial Day weekend. Theaters in the U.S. and Canada had several new films to offer this weekend as well, including Sony’s family friendly “Karate Kid: Legends” and the A24 horror movie “Bring Her Back.” According to studio estimates Sunday, it added up to a robust $149 million post-holiday weekend that’s up over 120% from the same timeframe last year. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/lilo-stitch-passes-sinners-to-become-2nd-highest-grossing-film-of-2025/article_abe3f61b-8fe3-4be7-b14c-4ecaccd7b00d.html>
+
+---
+
 ## Variety editor’s 4th book available at Joeten Susupe
 
 date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
@@ -47,66 +465,6 @@ MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then
 
 ---
 
-## Men’s mental health: More than muscle, it’s about showing up
-
-date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
-
-IN May, I shared a bit about how I found a surprising outlet for wellness through pickleball. It wasn’t just about the game; it was about connection, laughter, movement, and community. Over the past few weeks, I’ve noticed more and more people joining in. What started as a casual hit-around has grown into a steady stream of “pickleballers” — men and women alike — showing up for their well-being. 
-
-<br> 
-
-<https://www.mvariety.com/views/letters_to_editor/men-s-mental-health-more-than-muscle-it-s-about-showing-up/article_86d8bbbe-09e9-4f9b-95e8-8863a723c1dc.html>
-
----
-
-## On the passing of Archbishop Emeritus Byrnes
-
-date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
-
-DEAR brothers and sisters in Christ, 
-
-<br> 
-
-<https://www.mvariety.com/views/letters_to_editor/on-the-passing-of-archbishop-emeritus-byrnes/article_5a76bb13-e12b-4046-9f42-ced05e5c4897.html>
-
----
-
-## Asia shares, dollar slip as tariff tensions darken mood
-
-date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
-
-SYDNEY (Reuters) — Asian share markets and the dollar made a soft start on Monday as U.S.-China trade tensions continued to simmer, while investors turned defensive ahead of key U.S. jobs data and a widely expected cut in European interest rates. 
-
-<br> 
-
-<https://www.mvariety.com/business/business_news/asia-shares-dollar-slip-as-tariff-tensions-darken-mood/article_7385c6e2-ae24-4c3e-aefb-526af7154dfb.html>
-
----
-
-## Political self-determination for Pacific Islanders
-
-date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
-
-WHO? What? Where? When? Why? These are the basics when it comes to informing others about events. 
-
-<br> 
-
-<https://www.mvariety.com/views/letters_to_editor/political-self-determination-for-pacific-islanders/article_fcfc86cf-34ee-4e69-bc8f-f0a29af6c3ea.html>
-
----
-
-## Doctor Who regenerates as Ncuti Gatwa leaves and Billie Piper returns
-
-date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
-
-MANCHESTER, England (Reuters) — Ncuti Gatwa, the first Black actor to play the lead role in British sci-fi show "Doctor Who," departed the series on Saturday in a season finale that saw familiar face Billie Piper reappear in his place. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/doctor-who-regenerates-as-ncuti-gatwa-leaves-and-billie-piper-returns/article_a48f2bb4-5285-4a41-ae99-32feff7442ea.html>
-
----
-
 ## Poetry
 
 date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
@@ -116,18 +474,6 @@ date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
 <br> 
 
 <https://www.mvariety.com/lifestyle/poetry/article_c2a8101c-a545-445c-8a04-68142a3e29af.html>
-
----
-
-## ‘Lilo & Stitch’ passes ‘Sinners’ to become 2nd highest grossing film of 2025
-
-date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
-
-(AP) — “Lilo &amp; Stitch” and “Mission: Impossible — The Final Reckoning” dominated the box office charts again after fueling a record-breaking Memorial Day weekend. Theaters in the U.S. and Canada had several new films to offer this weekend as well, including Sony’s family friendly “Karate Kid: Legends” and the A24 horror movie “Bring Her Back.” According to studio estimates Sunday, it added up to a robust $149 million post-holiday weekend that’s up over 120% from the same timeframe last year. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/lilo-stitch-passes-sinners-to-become-2nd-highest-grossing-film-of-2025/article_abe3f61b-8fe3-4be7-b14c-4ecaccd7b00d.html>
 
 ---
 
@@ -310,6 +656,20 @@ date: 2025-06-02, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/06/02/nation-world-news/man-attacks-colorado-crowd-with-firebombs-6-people-injured/>
+
+---
+
+## Puna man accused of multiple crimes against minors; bail set at nearly $5M
+
+date: 2025-06-02, from: Hawaii Tribune Harold
+
+
+				<p>A 44-year-old Puna man has been arrested and charged with an array of sexual-related offenses against minors.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/02/hawaii-news/puna-man-accused-of-multiple-crimes-against-minors-bail-set-for-nearly-5m/>
 
 ---
 

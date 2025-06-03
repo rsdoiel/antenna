@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-06-03 05:44:31
+updated: 2025-06-03 06:08:53
 ---
 
 # games
 
-(date: 2025-06-03 05:44:31)
+(date: 2025-06-03 06:08:53)
+
+---
+
+## What if Zelda was funny (on purpose)? There’s a game for that.
+
+date: 2025-06-03, updated: 2025-06-02, from: Polygon Website
+
+The golden age of animation reveled in absurdity. In the heyday of the Looney Tunes, Daffy Duck might get squashed and stretched, flattened like a pancake, and careen off a cliff all in the span of a minute. It’s an energy that’s surprisingly hard to come by in modern video games. Unless you’re loading up Earthworm [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/602969/revenge-savage-planet-funny-games>
+
+---
+
+## Best Nightlords bosses order in Elden Ring Nightreign
+
+date: 2025-06-02, updated: 2025-06-02, from: Polygon Website
+
+Nightlords are arguably the hardest enemies in Elden Ring Nightreign — powerful, nerve-racking bosses who show up at the very end of your runs. All the preparation you go through during the first two days of a match in Elden Ring Nightreign — from farming runes to looking for ways to upgrade your weapons — [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/603005/best-nightlords-order-boss-list-all>
+
+---
+
+## Recluse Remembrance quest walkthrough in Elden Ring Nightreign
+
+date: 2025-06-02, updated: 2025-06-02, from: Polygon Website
+
+The Recluse&#8216;s Remembrance quests in Elden Ring Nightreign dig a bit deeper into the dark forces that gave birth to the Nightlords and gives the mage a useful new relic — but not for free. Completing these quests involves taking on an additional boss, solving some puzzles, and engaging in a final showdown with Nightreign&#8216;s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/602968/recluse-remembrance-walkthrough-steps-rewards>
 
 ---
 

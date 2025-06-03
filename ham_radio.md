@@ -1,11 +1,39 @@
 ---
 title: ham radio
-updated: 2025-06-03 05:44:28
+updated: 2025-06-03 06:08:51
 ---
 
 # ham radio
 
-(date: 2025-06-03 05:44:28)
+(date: 2025-06-03 06:08:51)
+
+---
+
+## GMSL video link’s quest to become open automotive standard
+
+date: 2025-06-03, from: EDN Blog
+
+<img width="4000" height="1570" src="https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?fit=4000%2C1570" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=4000 4000w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=2850 2850w" sizes="(max-width: 4000px) 100vw, 4000px" /><p>OpenGMSL aims to transform this SerDes transmission of video and/or high-speed data into an open ecosystem for in-vehicle connectivity.</p>
+<p>The post <a href="https://www.edn.com/gmsl-video-links-quest-to-become-open-automotive-standard/">GMSL video link’s quest to become open automotive standard</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/gmsl-video-links-quest-to-become-open-automotive-standard/>
+
+---
+
+## Power amplifiers that oscillate—deliberately. Part 1: A simple start.
+
+date: 2025-06-03, from: EDN Blog
+
+<img width="616" height="270" src="https://www.edn.com/wp-content/uploads/OscPAs_part1_fig1_v1.png?fit=616%2C270" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/OscPAs_part1_fig1_v1.png?w=616 616w, https://www.edn.com/wp-content/uploads/OscPAs_part1_fig1_v1.png?w=300 300w" sizes="auto, (max-width: 616px) 100vw, 616px" /><p>A standard audio power amplifier can be used to make some interesting oscillators, in this case, a Wien bridge oscillator.</p>
+<p>The post <a href="https://www.edn.com/power-amplifiers-that-oscillate-deliberately-part-1-a-simple-start/">Power amplifiers that oscillate—deliberately. Part 1: A simple start.</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/power-amplifiers-that-oscillate-deliberately-part-1-a-simple-start/>
 
 ---
 
@@ -13,7 +41,7 @@ updated: 2025-06-03 05:44:28
 
 date: 2025-06-02, from: EDN Blog
 
-<img width="800" height="460" src="https://www.edn.com/wp-content/uploads/Hero-image-2-Tamper-Detector-Breadboard.jpg?fit=800%2C460" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-2-Tamper-Detector-Breadboard.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Hero-image-2-Tamper-Detector-Breadboard.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-2-Tamper-Detector-Breadboard.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>This is how design engineers can develop tamper detection circuits for their products utilizing switches and sensors.</p>
+<img width="800" height="460" src="https://www.edn.com/wp-content/uploads/Hero-image-2-Tamper-Detector-Breadboard.jpg?fit=800%2C460" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-2-Tamper-Detector-Breadboard.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Hero-image-2-Tamper-Detector-Breadboard.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-2-Tamper-Detector-Breadboard.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>This is how design engineers can develop tamper detection circuits for their products utilizing switches and sensors.</p>
 <p>The post <a href="https://www.edn.com/basic-design-considerations-for-anti-tampering-circuits/">Basic design considerations for anti-tampering circuits</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 
@@ -27,7 +55,7 @@ date: 2025-06-02, from: EDN Blog
 
 date: 2025-06-02, from: EDN Blog
 
-<img width="1200" height="630" src="https://www.edn.com/wp-content/uploads/Google-I_O-image.jpg?fit=1200%2C630" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Google-I_O-image.jpg?w=1200 1200w, https://www.edn.com/wp-content/uploads/Google-I_O-image.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Google-I_O-image.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Google-I_O-image.jpg?w=1024 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /><p>While I doubt the “substance” in Google’s keynotes was a reaction to Microsoft’s one day earlier “fluff”, it was still a refreshing contrast.</p>
+<img width="1200" height="630" src="https://www.edn.com/wp-content/uploads/Google-I_O-image.jpg?fit=1200%2C630" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Google-I_O-image.jpg?w=1200 1200w, https://www.edn.com/wp-content/uploads/Google-I_O-image.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Google-I_O-image.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Google-I_O-image.jpg?w=1024 1024w" sizes="auto, (max-width: 1200px) 100vw, 1200px" /><p>While I doubt the “substance” in Google’s keynotes was a reaction to Microsoft’s one day earlier “fluff”, it was still a refreshing contrast.</p>
 <p>The post <a href="https://www.edn.com/the-2025-google-i-o-conference-a-deft-ai-pivot-sustains-the-companys-relevance/">The 2025 Google I/O conference: A deft AI pivot sustains the company’s relevance</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 
