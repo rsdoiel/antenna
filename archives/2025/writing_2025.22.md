@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-06-03 14:09:35
+updated: 2025-06-04 06:08:11
 ---
 
 # writing
 
-(date: 2025-06-03 14:09:35)
+(date: 2025-06-04 06:08:11)
+
+---
+
+## Write Now with Scrivener, Episode no. 51: Lisa Yee, Author of Books for Children and Young Adults
+
+date: 2025-06-04, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-51-lisa-yee-author-of-books-for-children-and-young-adults>
 
 ---
 

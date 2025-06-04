@@ -1,11 +1,59 @@
 ---
 title: north america
-updated: 2025-06-03 14:09:32
+updated: 2025-06-04 06:08:06
 ---
 
 # north america
 
-(date: 2025-06-03 14:09:32)
+(date: 2025-06-04 06:08:06)
+
+---
+
+## Republicans Have No Good Options on the Budget
+
+date: 2025-06-04, from: The Contrarian
+
+That is not by accident... 
+
+<br> 
+
+<https://contrarian.substack.com/p/republicans-have-no-good-options>
+
+---
+
+##  Why The Trump Protests Will Fail 
+
+date: 2025-06-04, from: The Lever News
+
+ The resistance won’t succeed until it stops being a performance and starts challenging the system that got us here.  
+
+<br> 
+
+<https://www.levernews.com/why-the-trump-protests-will-fail/>
+
+---
+
+## Evening Roundup, June 3
+
+date: 2025-06-03, from: The Contrarian
+
+Featuring Neera Tanden & Jen Rubin; Meredith Blake; Justin Wolfers & Jen; "Let's Do Lunch" with Jared Bernstein & Neale Mahoney; Shalise Manza Young; Nick Anderson; and Jeff Nesbit 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-3>
+
+---
+
+## Target takes a bland, beige approach to Pride this year
+
+date: 2025-06-03, from: The Contrarian
+
+The retailer is one of many corporations adopting a more "neutral" stance on LGBTQ+ causes this year 
+
+<br> 
+
+<https://contrarian.substack.com/p/target-takes-a-bland-beige-approach>
 
 ---
 

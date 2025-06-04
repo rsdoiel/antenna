@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-06-03 14:09:34
+updated: 2025-06-04 06:08:09
 ---
 
 # science and technology
 
-(date: 2025-06-03 14:09:34)
+(date: 2025-06-04 06:08:09)
+
+---
+
+## Please tell us Reg: Why are AI PC sales slower than expected?
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>Trump&#39;s on again off again tariffs, economic uncertainty, no vital apps and higher price tags</h4> <p><strong>World War Fee</strong>  PC makers were salivating at the prospect of AI notebooks driving up their margins yet it seems the price difference coupled with a lack of killer apps and the destabilizing influence of tariff talk means customer adoption is slower than expected.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/ai_pc_sales_analysis/>
+
+---
+
+## Cops want Apple, Google to kill stolen phones remotely – so why won't they?
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>Tech giants say blocking stolen devices via IMEI could open new fraud risks</h4> <p>UK legislators are questioning why Apple and Google have yet to implement measures to allow smartphones to be locked, reset, and prevented from accessing cloud services after they&#39;ve been stolen, as requested by police.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/apple_google_stolen_phones/>
+
+---
+
+## HPE working on Plan B if DoJ nixes the Juniper deal it rates as shareholders' rocket to riches
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>AI sales are a little &#39;lumpy&#39; but all things hybrid cloud are going well - including job cuts</h4> <p>Hewlett Packard Enterprise CEO Antonio Neri remains optimistic that US regulators will allow its planned acquisition of Juniper Networks but has admitted the company has considered other plans if regulators nix the deal.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/hp_q2_2025/>
+
+---
+
+## UK CyberEM Command to spearhead new era of armed conflict
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>Government details latest initiative following announcement last week</h4> <p>Revealing more details about the Cyber and Electromagnetic (CyberEM) military domain, the UK&#39;s Ministry of Defence (MoD) says &#34;there are pockets of excellence&#34; but improvements must be made to ensure the country&#39;s capability meets the needs of national defense.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/uk_cyberem_command_details/>
+
+---
+
+## Need for speed? CityFibre punts 5.5 Gbps symmetrical broadband at ISPs
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>Altnet claims upgrade puts it ahead of Openreach on performance and cost, with more to come in 2026</h4> <p>Alternative UK network CityFibre has lifted the lid on a 5.5 Gbps wholesale package it says will allow internet service provider (ISP) customers to operate a service more than twice as fast than its current top-speed fiber product.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/cityfibre_55_gbps/>
+
+---
+
+## Ukraine war spurred infosec vet Mikko Hyppönen to pivot to drones
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>Why? There&#39;s a war in Europe, Finland has a belligerent neighbor, and cyber is a settled field</h4> <p><strong>Interview</strong>  Mikko Hyppönen has spent the last 34 years creating security software that defends against criminals and state-backed actors, but now he&#39;s moving onto drone warfare.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/mikko_hypponen_drone/>
+
+---
+
+## Broadcom aims a Tomahawk at Nvidia's AI networking empire with 102.4T photonic switch
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>Chip giant&#39;s latest ASIC promises 200GbE to up to 512 GPUs</h4> <p>Broadcom began shipping its answer to Nvidia&#39;s upcoming Quantum-X and Spectrum-X switches on Tuesday: the Tomahawk 6. The chip doubles the bandwidth of its predecessor and comes in both standard and co-packaged optics flavors.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/broadcom_tomahawk_6/>
+
+---
+
+## ‘Deliberate attack’ deletes shopping app’s AWS and GitHub resources
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>CEO of India&#39;s KiranaPro, which brings convenience stores online, vows to name the perp</h4> <p>The CEO of Indian grocery ordering app KiranaPro has claimed an attacker deleted its GitHub and AWS resources in a targeted and deliberate attack and vowed to name the perpetrator.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/kiranapro_cyberattack_deletes_cloud_resources/>
+
+---
+
+## Sols 4556-4558: It’s All in a Day’s (box)Work
+
+date: 2025-06-04, from: NASA breaking news
+
+Written by Sharon Wilson Purdy, Planetary Geologist at the Smithsonian National Air and Space Museum Earth planning date: Friday, May 30, 2025 When you are scheduled to participate in Science Operations for the rover’s weekend plan, you know it’s going to be a busy morning! Assembling the activities for Friday through Sunday (Sols 4556 through […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4556-4558-its-all-in-a-days-boxwork/>
+
+---
+
+## “AI” coding chatbot funded by Microsoft were Actually Indians
+
+date: 2025-06-03, from: OS News
+
+London-based Builder.ai, once valued at $1.5 billion and backed by Microsoft and Qatar&#8217;s sovereign wealth fund, has filed for bankruptcy after reports that its &#8220;AI-powered&#8221; app development platform was actually operated by Indian engineers, said to be around 700 of them, pretending to be artificial intelligence. The startup, which raised over $445 million from investors including Microsoft and the Qatar Investment Authority, promised to make software development &#8220;as easy as ordering pizza&#8221; through its AI assistant &#8220;Natasha.&#8221; However, as per the reports, the company&#8217;s technology was largely smoke and mirrors, human developers in India manually wrote code based on customer requests while the company marketed their work as AI-generated output. ↫ The Times of India I hope those 700 engineers manage to get something out of this, but I doubt it. I wouldn&#8217;t be surprised if they were unaware they were part of the &#8220;AI&#8221; scam. 
+
+<br> 
+
+<https://www.osnews.com/story/142488/ai-coding-chatbot-funded-by-microsoft-were-actually-indians/>
+
+---
+
+## To comply with the DMA, Microsoft rolls out tons of Windows improvements, but only for users in the EU
+
+date: 2025-06-03, from: OS News
+
+As part of Microsoft’s ongoing commitment to compliance with the Digital Markets Act, we are making the following changes to Windows 10, Windows 11, and Microsoft apps in the European Economic Area (EEA). We’ll update this post as these changes are shipped, first in Windows Insider builds and then in retail builds. ↫ Windows Insider Program Team It&#8217;s time for more changes to make Windows suck just a little bit less, but only for those of us who live in the European Economic Area (the EU plus Iceland, Liechtenstein, and Norway), courtesy of basic consumer protection laws like the Digital Markets Act. Windows users in other parts of the world will not get these changes, so if you don&#8217;t live in the EU/EEA, feel free to look away to remain blissfully ignorant. In the EU/EEA, Edge will no longer bug you to be set as the default browser, unless you actually open Edge. In addition, other Microsoft applications won&#8217;t bug you to install Edge if you&#8217;ve removed it from your system. Setting a browser as default will now also register more filetypes. Whereas in other parts of the world setting, say, Firefox as your default browser in Windows will only register it as the default for http, https, .htm, and .html, it will register the following additional defaults: ftp, read, .mht, .mhtml, .shtml, .svg, .xht, .xhtml, and .xml. Users in the EU/EEA can now also remove the Microsoft Store, without affecting updates or the ability for developers to the Microsoft Store Web Installer for their applications. You can now also have multiple online search providers in Windows Search, and countless Microsoft applications and Windows components will no longer default to opening Edge for web content, opting to use your default browser instead. These are all very welcome improvements for European Windows users. It&#8217;s almost like consumer protection laws work. 
+
+<br> 
+
+<https://www.osnews.com/story/142486/to-comply-with-the-dma-microsoft-rolls-out-tons-of-windows-improvements-but-only-for-users-in-the-eu/>
+
+---
+
+## Ice-T 2.8.0 released: a VT-100 terminal emulator for the Atari 8-bit
+
+date: 2025-06-03, from: OS News
+
+Ice-T is a terminal emulator, allowing Atari computers with extended memory (128KB or more) to connect to remote dialup and Telnet hosts, such as Unix shells and BBSs. A limited version for machines without extended memory is also available. ↫ Ice-T 2.8.0 release announcement Version 2.8.0 was released a few days ago, the first new release in almost twelve years. It comes with a ton of improvements, such as VT-102 support, limited ANSI coloured text support, macros, and a lot more. 
+
+<br> 
+
+<https://www.osnews.com/story/142484/ice-t-2-8-0-released-a-vt-100-terminal-emulator-for-the-atari-8-bit/>
+
+---
+
+## Meta pauses mobile port tracking tech on Android after researchers cry foul
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>Zuckercorp and Yandex used localhost loophole to tie browser data to app users, say boffins</h4> <p>Security researchers say Meta and Yandex used native Android apps to listen on localhost ports, allowing them to link web browsing data to user identities and bypass typical privacy protections.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/>
+
+---
+
+## You say Cozy Bear, I say Midnight Blizzard, Voodoo Bear, APT29 …
+
+date: 2025-06-03, updated: 2025-06-03, from: The Register (UK I.T. News)
+
+<h4>Microsoft, CrowdStrike, and pals promise clarity on cybercrew naming, deliver alias salad instead</h4> <p><strong>Opinion</strong>  Microsoft and CrowdStrike made a lot of noise on Monday about teaming up with other threat-intel outfits to &#34;bring clarity to threat-actor naming.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/03/microsoft_crowdstrike_cybercrew_naming_clarity/>
 
 ---
 

@@ -1,11 +1,533 @@
 ---
 title: planet
-updated: 2025-06-03 14:09:31
+updated: 2025-06-04 06:08:04
 ---
 
 # planet
 
-(date: 2025-06-03 14:09:31)
+(date: 2025-06-04 06:08:04)
+
+---
+
+## EU states adopt new controversial medicine regulations
+
+date: 2025-06-04, from: RTÉ News
+
+EU member states have adopted a controversial set of new measures governing the regulation of medicines at European level, following two years of deadlock and "unprecedented" lobbying by the pharma sector, particularly in Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0604/1516675-eu-medicine-regulation/>
+
+---
+
+## Actor says Irish Navy should bring aid to Gaza
+
+date: 2025-06-04, from: RTÉ News
+
+The "greatest argument for neutrality is the genocide going on right now in Gaza", actor Liam Cunningham has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0604/1516670-pbp-neutrality/>
+
+---
+
+## Pope Leo XIV makes day trip to Castel Gandolfo
+
+date: 2025-06-04, from: Vatican Obervatory
+
+Mayor of the locale hopeful that the new pope will return to the tradition of spending the summers there to get away from Rome&#8217;s heat. 
+
+<br> 
+
+<https://aleteia.org/2025/05/29/pope-leo-xiv-makes-day-trip-to-castel-gandolfo>
+
+---
+
+## ECB gives Bulgaria green light to adopt euro next year
+
+date: 2025-06-04, from: RTÉ News
+
+Bulgaria has met all criteria to adopt the euro currency from 1 January 2026, the European Central Bank said after assessing progress on a host of indicators from inflation to central bank legislation. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0604/1516657-bulgaria-euro-ecb/>
+
+---
+
+## Richard Satchwell sentenced to life for wife's murder
+
+date: 2025-06-04, from: RTÉ News
+
+Richard Satchwell has been sentenced to life in prison for the murder of his wife, Tina, in their home in Cork more than eight years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0604/1516652-satchwell-sentence/>
+
+---
+
+## ComReg pre-registers 7k Sender IDs to prevent scam texts
+
+date: 2025-06-04, from: RTÉ News
+
+The Commission for Communications Regulation has said more than 7,000 SMS Sender IDs have been pre-registered for its registry designed to cut down on text-message scams. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0604/1516647-comreg-scam-text/>
+
+---
+
+## Misinformation around Carlow shooting 'shocking' - Martin
+
+date: 2025-06-04, from: RTÉ News
+
+Taoiseach Micheál Martin has said the level of misinformation that emerged following a shooting in Carlow town on Sunday was "shocking". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0604/1516630-carlow-disinformation/>
+
+---
+
+## Thousands gather at Namugongo Shrine to honour the Ugandan Martyrs
+
+date: 2025-06-04, from: Vatican News
+
+
+                    <p>On Tuesday, 3 June 2025, thousands of Ugandan pilgrims and visitors from across Africa and beyond converged at the Namugongo Ugandan Martyrs Shrine to commemorate the feast of the 22 Catholics executed between 1885 and 1887 on the orders of Buganda King Mwanga II for refusing to renounce their faith.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-06/thousands-gather-at-namugongo-shrine-to-honour-the-ugandan-marty.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-06/thousands-gather-at-namugongo-shrine-to-honour-the-ugandan-marty.html>
+
+---
+
+## Man in 80s dies in Westmeath house fire
+
+date: 2025-06-04, from: RTÉ News
+
+A man aged in his 80s has died following a house fire near Castlepollard in Co Westmeath. 
+
+<br> 
+
+<https://www.rte.ie/news/leinster/2025/0604/1516644-roscommon-fire/>
+
+---
+
+## From the Vatican Observatory Faith and Science Pages — Kenneth R. Miller – To Find God in All Things: Grandeur in an Evolutionary View of Life
+
+date: 2025-06-04, from: Vatican Obervatory
+
+From the Faith &#038; Science Resource Center: Kenneth R. Miller, a biologist at Brown University, gives the Society of Catholic Scientists St. Albert Award Lecture. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/from-the-vatican-observatory-faith-and-science-pages-kenneth-r-miller-to-find-god-in-all-things-grandeur-in-an-evolutionary-view-of-life/>
+
+---
+
+## Million-plus pilgrims begin hajj under blazing sun
+
+date: 2025-06-04, from: RTÉ News
+
+More than a million pilgrims have joined Islam's most important rite under a beating sun, as the hajj kicked off with the Saudi hosts scrambling to avoid last year's 1,000-plus deaths in sweltering heat. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0604/1516623-hajj-pilgrimage/>
+
+---
+
+## CHI funding suspension 'right thing to do' - Taoiseach
+
+date: 2025-06-04, from: RTÉ News
+
+The Taoiseach has said he believes the temporary suspension of funding by the National Treatment Purchase Fund to Children's Health Ireland was the right thing to do. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0604/1516612-ntpf-chi/>
+
+---
+
+## Pope at Audience: Looking for meaning in life? Turn to God 
+
+date: 2025-06-04, from: Vatican News
+
+
+                    <p>During his weekly General Audience, Pope Leo XIV reminds the faithful that God waits for us with open arms, no matter how late we are in responding to His call, and also reminds young people that if they are seeking meaning in Life, God will offer it to them and never disappoint.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-general-audience-4-june.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-general-audience-4-june.html>
+
+---
+
+## Woman with incurable cancer says daughters keep her going
+
+date: 2025-06-04, from: RTÉ News
+
+A 38-year-old woman with incurable cancer has said her daughters give her the drive to keep going and said she does not want to leave her 'beautiful life'. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0604/1516593-minister-apology/>
+
+---
+
+## Trump envoy to Ukraine says risk levels 'going way up'
+
+date: 2025-06-04, from: RTÉ News
+
+US President Donald Trump's envoy to Ukraine has said the risk of escalation from the war in Ukraine was "going way up" after Ukrainian forces used drones to strike nuclear-capable bombers at several airbases deep inside Russia. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0604/1516607-ukraine/>
+
+---
+
+## Pope: 'A hallmark of many Italian immigrants to US was their Catholic faith'
+
+date: 2025-06-04, from: Vatican News
+
+
+                    <p>Pope Leo XIV welcomes the National Italian American Foundation in the Vatican on Wednesday morning, recalling that "a hallmark of many who immigrated to the United States from Italy was their Catholic faith," which he says sustained them in difficult moments.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-welcomes-national-italian-american-foundation.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-welcomes-national-italian-american-foundation.html>
+
+---
+
+## Pope Leo XIV makes a break in style from Francis
+
+date: 2025-06-04, from: RTÉ News
+
+In his first month, Pope Leo XIV has taken a very different approach to his predecessor Francis. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0604/1516603-pope-leo/>
+
+---
+
+## Cardinal Parolin: ‘No war is inevitable, no peace is impossible’
+
+date: 2025-06-04, from: Vatican News
+
+
+                    <p>In an interview with the Italian daily “La Stampa,” Cardinal Pietro Parolin reiterates the Holy See’s unwavering commitment to peace, warning against the normalization of war and the illusion that armed conflict is an unavoidable solution. </p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/cardinal-parolin-interview-peace-diplomacy-ukraine-israel-gaza.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/cardinal-parolin-interview-peace-diplomacy-ukraine-israel-gaza.html>
+
+---
+
+## Ford, Hyundai post higher U.S. sales in May on strong SUV, truck demand
+
+date: 2025-06-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7551785.1749037898!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ford-hyundai.jpg' alt='A Ford logo is seen on the left from the Ford Motor World headquarters in Dearborn, Mich., U.S., March 12, 2025. On the right, is the logo of Hyundai Motor from October 8, 2024. ' width='620' height='349' title='A Ford logo is seen on the left from the Ford Motor World headquarters in Dearborn, Mich., U.S., March 12, 2025. On the right, is the logo of Hyundai Motor from October 8, 2024. '/><p>U.S. President Donald Trump's tariff policies have fuelled  uncertainty across the auto industry, driving up supply costs, pressuring margins and pushing some automakers to pass the  expenses on to consumers.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/windsor/ford-hyundai-us-sales-may-strong-1.7551774?cmp=rss>
+
+---
+
+## What RTÉ found inside a leading private residential care provider
+
+date: 2025-06-04, from: RTÉ News
+
+Two fully trained healthcare assistants went undercover in homes run by one of Ireland's leading private nursing home providers Emeis, formerly known as Orpea 
+
+<br> 
+
+<https://www.rte.ie/news/investigations-unit/2025/0604/1516557-what-rte-found-inside-a-leading-private-residential-care-provider/>
+
+---
+
+## We will never forget Tiananmen crackdown, Taiwan and U.S. say on 36th anniversary
+
+date: 2025-06-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7551778.1749037352!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/china-tiananmen.jpg' alt='A white car drives past a red building with a portrait of a man on it.' width='620' height='349' title='Security personnel stand on duty near the Tiananmen Gate which is under renovation on the anniversary of China&apos;s bloody 1989 crackdown on pro-democracy protests in Beijing, Wednesday, June 4, 2025.'/><p>The world will never forget China's 1989 crackdown on pro-democracy demonstrators in Tiananmen Square, Taiwan's president and the top U.S. diplomat said on the 36th anniversary of an event Beijing treats as taboo and allows no public remembrance.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/tiananmen-square-36th-anniversary-1.7551717?cmp=rss>
+
+---
+
+## Abuse victims retraumatised by family law system - report
+
+date: 2025-06-04, from: RTÉ News
+
+Child and adult survivors of domestic abuse say that going through the Irish family law system is traumatic and causes "secondary victimisation" and "increased vulnerability", new research has shown. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0604/1516558-research-family-law/>
+
+---
+
+## Australian woman accused of murders with toxic mushrooms gives her account of fatal lunch
+
+date: 2025-06-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7551716.1749035451!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/australia-deaths-mushrooms.JPG' alt='A court sketch of a woman with long brown hair ' width='620' height='349' title='A court sketch drawn from a video link shows Erin Patterson, an Australian woman accused of murdering three of her estranged husband&apos;s elderly relatives with a meal laced with poisonous mushrooms, appearing as a witness for her own defense, at the Latrobe Valley Magistrates&apos; Court in Morwell, Australia, June 2, 2025.  '/><p>An Australian woman accused of murdering three of her estranged husband's elderly relatives with poisonous mushrooms gave her account of the fatal lunch on Wednesday, in a case that has gripped the public.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/erin-patterson-australia-mushroom-murder-trial-1.7551713?cmp=rss>
+
+---
+
+## U.S.-backed Gaza aid group halts distribution as 18 killed in Israeli strike on school shelter
+
+date: 2025-06-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7551744.1749029848!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza.JPG' alt='A woman and children look at the site of an airstrike from afar.' width='620' height='349' title='Palestinians inspect the damage at the site of an Israeli airstrike on a tent sheltering displaced people at the Gaza seaport, in Gaza City, June 4, 2025. REUTERS/Dawoud Abu Alkas'/><p>The U.S.-backed Gaza Humanitarian Foundation (GHF) will not give out any aid on Wednesday as it presses Israel to boost civilian safety beyond the perimeter of its distribution sites, a day after dozens of Palestinians seeking aid were killed.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/gaza-israel-aid-1.7551741?cmp=rss>
+
+---
+
+## Searches for Madeleine McCann continue in Portugal
+
+date: 2025-06-04, from: RTÉ News
+
+Searches for Madeleine McCann have resumed in Portugal, near where the little girl was last seen in 2007. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0604/1516588-madeleine-mccann-search/>
+
+---
+
+## Man due in court following Dublin city centre assault
+
+date: 2025-06-04, from: RTÉ News
+
+A man is due in court this morning following an assault in Dublin city centre, in which one man received serious injuries. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0604/1516582-dublin-assault/>
+
+---
+
+## Mushroom murders accused gives her account of fatal lunch
+
+date: 2025-06-04, from: RTÉ News
+
+An Australian woman accused of murdering three of her estranged husband's elderly relatives with poisonous mushrooms gave her account of the fatal lunch today in a case that has gripped the public. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0604/1516580-australian-mushroom-court/>
+
+---
+
+## Murder appeal delayed after judge forgot he oversaw trial
+
+date: 2025-06-04, from: RTÉ News
+
+A bid by a double murderer to overturn his conviction must be reheard after one of the appeal judges forgot he oversaw the original trial. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0604/1516575-jason-odriscoll-appeal/>
+
+---
+
+## Record number of students begin Leaving and Junior Cert
+
+date: 2025-06-04, from: RTÉ News
+
+A record number of students have begun the State Leaving and Junior Certificate exams today. 
+
+<br> 
+
+<https://www.rte.ie/news/education/2025/0604/1516539-state-exams-ireland/>
+
+---
+
+## Serious care concerns found at leading private nursing home group
+
+date: 2025-06-04, from: RTÉ News
+
+Staff shortages, unsafe care and undignified treatment has been uncovered in homes run by State's leading private care provider Emeis Ireland 
+
+<br> 
+
+<https://www.rte.ie/news/investigations-unit/2025/0604/1516471-private-nursing-homes-investigation/>
+
+---
+
+## 14% of young children not living with fathers - ESRI
+
+date: 2025-06-04, from: RTÉ News
+
+14% of children in Ireland between nine months and five years do not live with their fathers full-time, according to research published by the Economic and Social Research Institute. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0604/1516538-esri-fathers-children/>
+
+---
+
+## Two paediatric critical care units 'under strain' - audit
+
+date: 2025-06-04, from: RTÉ News
+
+A national audit has found that two Children's Health Ireland (CHI) paediatric critical care units, at Temple Street and Crumlin, are under strain. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0604/1516546-chi-critical-care-report/>
+
+---
+
+## Trump calls China's Xi tough, 'hard to make a deal with'
+
+date: 2025-06-04, from: RTÉ News
+
+US President Donald Trump has said Chinese President Xi Jinping is tough and "extremely hard to make a deal with," days after he accused China of violating an agreement to roll back tariffs and trade restrictions. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0604/1516569-us-steel-tariffs/>
+
+---
+
+## 'Pure joy here': Why solar power is giving India's salt farmers freedom and profit
+
+date: 2025-06-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/ebfc1777-a5c6-40ec-b9fe-4ef4c319f97d,1748982406656/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A man talks to a woman in front of solar panels in a desert. ' width='620' height='349' title='The use of solar panels has made a big improvement in the lives of India&apos;s salt farmers. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/solar-panels-salt-farmers-india-1.7550753?cmp=rss>
+
+---
+
+## German, Norwegian officials urge Canada to join 'familiar family' in buying new submarines
+
+date: 2025-06-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7551540.1748991353!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/defence-cansec-protest-20250528.jpg' alt='A model submarine is seen in a convention hall.' width='620' height='349' title='A model of a Hanwha KSS-III submarine is seen at the Canadian Association of Defence and Security Industries annual defence industry trade show CANSEC, in Ottawa, on Wednesday, May 28, 2025. THE CANADIAN PRESS/Justin Tang'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/germany-norway-military-subs-1.7551526?cmp=rss>
+
+---
+
+## Israeli strike kills at least 12 in Gaza, rescuers say
+
+date: 2025-06-04, from: RTÉ News
+
+An Israeli strike on a tent housing displaced Palestinians near the southern city of Khan Younis has killed at least 12 people, the civil defence agency in Gaza has said. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0604/1516565-gaza-israel/>
+
+---
+
+## EPA identifies 115 risks to Ireland from climate change
+
+date: 2025-06-04, from: RTÉ News
+
+Disruption and damage to Ireland's energy system and built environment from extreme wind events are among 115 risks the country faces due to climate change, according to the EPA. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0604/1516564-epa-climate-change/>
+
+---
+
+## Workers observe nationwide moment of reflection for Gaza
+
+date: 2025-06-03, from: RTÉ News
+
+Workers across Ireland have participated in a moment of reflection amid the ongoing violence in Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0604/1516510-ireland-gaza/>
+
+---
+
+## Potential planning exemptions for housing older relatives
+
+date: 2025-06-03, from: RTÉ News
+
+Attic conversions and extensions for the purpose of housing elderly relatives could be exempt from planning before the end of the year, Minister for Housing James Browne will tell the Cabinet. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0604/1516540-ireland-politics/>
+
+---
+
+## SECONDARY CONSIDERATIONS
+
+date: 2025-06-03, from: Vatican Obervatory
+
+When first observing the moon most amateur astronomers are enamored by the big craters like Copernicus, Tycho or the trio Ptolemaeus, Alphonsus and... 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/secondary-considerations/>
+
+---
+
+## Quinn ready for next chapter after emotional goodbye
+
+date: 2025-06-03, from: RTÉ News
+
+Despite Carla Ward's best efforts, it's highly likely we've seen the last of Louise Quinn in a Republic of Ireland jersey. After 122 caps and 16 goals, the Wicklow native is ready to call it a day. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0603/1516554-quinn-ready-for-next-chapter-after-emotional-goodbye/>
+
+---
+
+## Will South Korea’s election result save the country? | About That
+
+date: 2025-06-03, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/742cb742-3da3-4f08-baf9-2e1fff2cb0b2,1748997775821/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='President of South Korea Lee Jae-myung' width='620' height='349' title='President of South Korea Lee Jae-myung'/><p>After one assassination attempt, two impeachments, and several presidents in less than six months, South Korea has elected a new leader. The Democratic Party's Lee Jae-myung — who called the election "judgment day" — is tasked with bringing stability back to the country. Andrew Chang explains the chaos that led up to this pivotal moment, and the challenges that lie ahead.
+
+Images provided by Getty Images, The Canadian Press and Reuters.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6784268?cmp=rss>
 
 ---
 
@@ -18,6 +540,18 @@ Elon Musk has hammered US President Donald Trump's proposed spending bill as a "
 <br> 
 
 <https://www.rte.ie/news/2025/0603/1516541-musk-trump-bill/>
+
+---
+
+## Musk blasts Trump mega-bill, days after farewell
+
+date: 2025-06-03, from: RTÉ News
+
+Elon Musk has described US President Donald Trump's proposed spending bill as a "disgusting abomination" as tensions between the pair burst into the open following the tech billionaire's White House exit. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0603/1516541-us-politics/>
 
 ---
 
@@ -45,11 +579,11 @@ A tattoo artist charged with the murder of a 33-year-old man who suffered "sub-t
 
 ---
 
-## Trump to sign order doubling steel and aluminium tariffs
+## US to double steel, aluminum tariffs, says White House
 
 date: 2025-06-03, from: RTÉ News
 
-US President Donald Trump will sign an executive order making official his vow to double tariffs on steel and aluminium, White House spokeswoman Karoline Leavitt has told reporters in a briefing. 
+The United States will double its tariffs on imported steel and aluminum starting tomorrow, according to the White House, as it published an order signed by US President Donald Trump. 
 
 <br> 
 
@@ -66,6 +600,18 @@ There are fears over possible job cuts at Wellman International after it filed a
 <br> 
 
 <https://www.rte.ie/news/business/2025/0603/1516523-wellman-international-examinership/>
+
+---
+
+## What does space smell like? This perfume-making astrobiologist is trying to find out
+
+date: 2025-06-03, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7551281.1748981778!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/marina-barcenilla.jpeg' alt='A woman in tinted goggles points a machine at a rock on a piece of tinfoil. ' width='620' height='349' title='Marina Barcenilla is a fragrance designer and an astrobiologist who, in her spare time, uses chemistry to recreate the smells of outer space. '/><p>Marina Barcenilla was studying the chemical makeup of interstellar bodies when she realized she could marry her two passions — space and scent.</p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/asithappens/space-smell-1.7551240?cmp=rss>
 
 ---
 
@@ -161,7 +707,7 @@ date: 2025-06-03, from: Vatican News
 
 date: 2025-06-03, from: RTÉ News
 
-Heavy smoke from intense wildfires in Canada has reached northwestern Europe, the European Union's climate monitoring service said today. 
+Heavy smoke from intense wildfires in Canada has reached northwestern Europe, the European Union's climate monitoring service has said. 
 
 <br> 
 
@@ -178,6 +724,18 @@ Caoimhín Kelleher has left Liverpool and completed a move to Premier League sid
 <br> 
 
 <https://www.rte.ie/sport/soccer/2025/0603/1516491-brentford-confirm-kelleher-signing-from-liverpool/>
+
+---
+
+## Squamish Nation meets with Infrastructure Minister to voice its opposition to Bill 15 
+
+date: 2025-06-03, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/36843c34-a527-4a49-a452-a074b08b6654,1748974967128/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Squamish Nation meets with Infrastructure Minister to voice its opposition to Bill 15' width='620' height='349' title='Amid calls for nation-building projects across Canada, B.C. has taken its own measures to fast-track approval processes. Last week, bills 14 and 15 were narrowly passed in the legislature. But many First Nations leaders are arguing those acts didn&apos;t meet the bar for Indigenous consultation.'/><p>Amid calls for nation-building projects across Canada, B.C. has taken its own measures to fast-track approval processes. Last week, bills 14 and 15 were narrowly passed in the legislature. But many First Nations leaders are arguing those acts didn't meet the bar for Indigenous consultation.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6783660?cmp=rss>
 
 ---
 
@@ -317,7 +875,7 @@ Jonathan Joss, best known for voicing John Redcorn in King of the Hill and appea
 
 date: 2025-06-03, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7550979.1748967836!/fileImage/httpImage/image.gif_gen/derivatives/16x9_620/wildfire-smoke-gif.gif' alt='Map with red swirls moving around' width='620' height='349' title='Animation of CAMS total aerosol optical depth analyses — how much particles from things like smoke are blocking sunlight — over the North Atlantic May 22 to June 2. '/><p>Plumes of smoke from the wildfires burning in Canada have been blown across the Atlantic Ocean to Europe, with more expected to arrive this week, satellite data shows.</p> 
+<img src='https://i.cbc.ca/1.7551768.1749034591!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/june-1-panel-of-smoke-travelling-to-europe-gif.jpg' alt='Map showing North America and Europe with red semicircle of smoke moving to Europe' width='620' height='349' title=''/><p>Plumes of smoke from the wildfires burning in Canada have been blown across the Atlantic Ocean to Europe, with more expected to arrive this week, satellite data shows.</p> 
 
 <br> 
 
@@ -427,7 +985,7 @@ UN human rights chief Volker Türk&nbsp;has condemned new reports that dozens mo
 
 ## Five countries elected to serve on UN Security Council
 
-date: 2025-06-03, from: United Nations, Top Stories
+date: 2025-06-03, from: United Nations, UN Affairs
 
 Bahrain, Colombia, the Democratic Republic of the Congo, Latvia, and Liberia were elected on Tuesday to serve as non-permanent members of the UN Security Council, with two-year terms beginning in January 2026. 
 
@@ -470,6 +1028,30 @@ The number of Sudanese refugees in Chad has more than tripled in just over two y
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/06/1163976>
+
+---
+
+## World News in Brief: Aid for Syria, children under attack in Mozambique, rights-based climate action
+
+date: 2025-06-03, from: United Nations, Top Stories
+
+Nearly 16 million people in Syria need urgent humanitarian health support, the UN warned on Tuesday, as aid deliveries continue amid escalating needs, deadly explosive hazards and a severe funding shortfall. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1163996>
+
+---
+
+## Haiti: WFP concerned over humanitarian situation as hurricane season begins
+
+date: 2025-06-03, from: United Nations, Top Stories
+
+As the hurricane season gets underway in the Caribbean, the UN World Food Programme (WFP) is sounding the alarm over Haiti’s humanitarian situation.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164001>
 
 ---
 
@@ -621,6 +1203,18 @@ Euro zone inflation eased below the European Central Bank's target last month, d
 
 ---
 
+## 5 Indigenous musicians to know in 2025
+
+date: 2025-06-03, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7550188.1748890552!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/indigenous-artists-2025.jpg' alt='Caley wears a hat and holds a guitar while wearing a green sweater and glasses. Brianna smiles in a pink dress with long, puffy sleeves and wears black glasses. Brenton looks off to the right while wearing a brown jacket while holding his brown guitar.' width='620' height='349' title='Caley Watts, left, Brianna Lizotte, middle and Brenton David, right, are several of the musicians making waves this year.'/><p>From singer-songwriters to indie rockers, these emerging artists should be on your radar.</p> 
+
+<br> 
+
+<https://www.cbc.ca/music/ribbon-skirt-brenton-david-indigenous-musicians-to-know-2025-1.7550100?cmp=rss>
+
+---
+
 ## Denver Archbishop calls for end to violence that ‘only fuels hatred’
 
 date: 2025-06-03, from: Vatican News
@@ -649,11 +1243,11 @@ The woman and man who died in a house fire in Conamara, Co Galway, this morning 
 
 ---
 
-## South Korea's conservative candidate concedes snap presidential election to Lee Jae-myung
+## South Korea's Lee Jae-myung emerges as victor after snap election
 
 date: 2025-06-03, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7550879.1748964106!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/southkorea-election-inauguration.JPG' alt='A cleanshaven bespectacled older Asian man wearing a suit and blue tie waves his right hand to people off camera while standing near other people and media microphones.' width='620' height='349' title='South Korea&apos;s President-elect Lee Jae-myung waves as he leaves to meet his supporters, in Incheon, South Korea, June 3, 2025. REUTERS/'/><p>South Korea's Democratic Party candidate Lee Jae-myung is projected to win the country's snap presidential election, according to projections by the country's broadcasters on Tuesday.</p> 
+<img src='https://i.cbc.ca/1.7550879.1748964106!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/southkorea-election-inauguration.JPG' alt='A cleanshaven bespectacled older Asian man wearing a suit and blue tie waves his right hand to people off camera while standing near other people and media microphones.' width='620' height='349' title='South Korea&apos;s President-elect Lee Jae-myung waves as he leaves to meet his supporters, in Incheon, South Korea, June 3, 2025. REUTERS/'/><p>South Korea's new liberal President Lee Jae-myung began his term on Wednesday, vowing to raise the country from the turmoil of a martial law crisis and revive an economy reeling from slowing growth and the threat of global protectionism.</p> 
 
 <br> 
 
@@ -745,7 +1339,7 @@ Maureen Walsh, mother of music manager and former X Factor judge Louis Walsh, ha
 
 date: 2025-06-03, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7550674.1748935313!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/australia-mushroom-murder-trial.jpg' alt='A woman with long hair wearing glasses peers around a concrete column.' width='620' height='349' title='Erin Patterson, the woman accused of serving her ex-husband&apos;s family poisonous mushrooms, is photographed in Melbourne, Australia, on April 15, 2025. (James Ross/AAP Image via AP)'/><p>An Australian woman accused of murdering three of her estranged husband's elderly relatives with a meal laced with poisonous mushrooms wept as she was questioned over expletive-laden messages about the victims on Tuesday, in a case that has captivated the country.</p> 
+<img src='https://i.cbc.ca/1.7550674.1749035475!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/australia-mushroom-murder-trial.jpg' alt='A woman with long hair wearing glasses peers around a concrete column.' width='620' height='349' title='Erin Patterson, the woman accused of serving her ex-husband&apos;s family poisonous mushrooms, is photographed in Melbourne, Australia, on April 15, 2025. (James Ross/AAP Image via AP)'/><p>An Australian woman accused of murdering three of her estranged husband's elderly relatives with a meal laced with poisonous mushrooms wept as she was questioned over expletive-laden messages about the victims on Tuesday, in a case that has captivated the country.</p> 
 
 <br> 
 
@@ -774,6 +1368,18 @@ An Australian woman accused of murdering three of her estranged husband's elderl
 <br> 
 
 <https://www.rte.ie/news/2025/0603/1516361-australia-mushroom-court/>
+
+---
+
+## More than two dozen Palestinians killed as IDF fires on people it says left approved route to aid site
+
+date: 2025-06-03, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7550715.1748953975!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg' alt='Men carry bags of flour as theyre walking along a dirt road.' width='620' height='349' title='Palestinians carry bags filled with food and humanitarian aid provided by the Gaza Humanitarian Foundation, a U.S.-backed organization approved by Israel, in Khan Younis, southern Gaza Strip, on Tuesday, June 3, 2025. (AP Photo/Abdel Kareem Hana)'/><p>At least 27 Palestinians were killed and dozens wounded by Israeli fire near a food distribution site in southern Gaza on Tuesday, health officials said, in a third day running of chaos and bloodshed to blight the aid operation.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/palestinians-killed-gaza-aid-distribution-1.7550669?cmp=rss>
 
 ---
 
@@ -813,6 +1419,18 @@ Business group Ibec has warned that Ireland's current public investment model fo
 
 ---
 
+## Chief calls on province to use emergency measures to free up Manitoba hotels
+
+date: 2025-06-03, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7320572.1726087687!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/merrick-pic-4.jpg' alt='A man speaks to reporters. ' width='620' height='349' title='Pimicikamak Chief David Monias said Merrick was a strong but humble leader who always wanted to make sure people felt respected.'/><p>A First Nations chief is calling on the Manitoba government to use the Emergency Measures Act to free up hotel space in Winnipeg to help house thousands of wildfire evacuees.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/hotels-wildfire-emergency-available-1.7550388?cmp=rss>
+
+---
+
 ## Portuguese police drain well in Madeleine McCann search
 
 date: 2025-06-03, from: RTÉ News
@@ -849,6 +1467,18 @@ date: 2025-06-03, from: CBC, Indigenious News
 
 ---
 
+## Fleeing wildfires, hundreds from Manitoba First Nations settle into Niagara Falls, Ont. hotels
+
+date: 2025-06-03, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7550374.1748900109!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_620/kinew-overlooking-wildfires.jpg' alt='A man is shown looking over a wildfire from above, in a helicopter.' width='620' height='349' title='Premier Wab Kinew took a helicopter ride Tuesday to view the extent of the wildfires that have been burning in northwest Manitoba since last week. '/><p>As wildfires burn out of control near their communities, hundreds of Manitoba First Nations residents have been put up in hotels in Niagara Falls, Ont. — for some around 1,800 kilometres away from their homes.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/hamilton/wildfire-evacuees-come-to-niagara-falls-1.7550324?cmp=rss>
+
+---
+
 ## Post-mortem examination due on body of Carlow gunman
 
 date: 2025-06-02, from: RTÉ News
@@ -870,6 +1500,18 @@ Journalists in Northern Ireland are regularly receiving threats from paramilitar
 <br> 
 
 <https://www.rte.ie/news/ulster/2025/0603/1516321-ni-journalists/>
+
+---
+
+## Manitoba court quashes murder convictions for Métis man who spent decades in prison
+
+date: 2025-06-02, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7148824.1711561731!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/winnipeg-law-courts-stock.jpg' alt='A glass-fronted building features a large piece of public artwork outside the front doors.' width='620' height='349' title='The law courts building in Winnipeg is shown in a July 19, 2022, photo.'/><p>A Métis man who spent more than two decades in prison had his murder convictions quashed by the Manitoba Court of Appeal last week.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/manitoba-appeal-court-robert-sanderson-1.7550389?cmp=rss>
 
 ---
 
@@ -1075,7 +1717,7 @@ The number of people reported to have been injured in the Liverpool victory para
 
 ## World News in Brief: Guterres condemns antisemitic attacks, ILO to debate pros and cons of working online, Sudan, Ukraine updates
 
-date: 2025-06-02, from: United Nations, Economic Development
+date: 2025-06-02, from: United Nations, Top Stories
 
 The UN Secretary-General on Monday reinforced his stand against all acts of antisemitism following the horrific attack in Boulder, Colorado, at the weekend and vandalism in France targeting Jewish landmarks. 
 
@@ -1087,7 +1729,7 @@ The UN Secretary-General on Monday reinforced his stand against all acts of anti
 
 ## UN calls for ‘immediate and unconditional’ release of aid workers arbitrarily detained in Yemen
 
-date: 2025-06-02, from: United Nations, Top Stories
+date: 2025-06-02, from: United Nations, UN Affairs
 
 As June marks one year since the arbitrary detention of dozens of personnel from the UN, NGOs, civil society organizations and diplomatic missions by the Houthi de facto authorities in Yemen, the UN Secretary-General has reiterated his call for their release, urging they be&nbsp;freed “immediately and unconditionally.” 
 
@@ -1099,7 +1741,7 @@ As June marks one year since the arbitrary detention of dozens of personnel from
 
 ## Deadly flooding in Nigeria displaces thousands
 
-date: 2025-06-02, from: United Nations, Climate Change
+date: 2025-06-02, from: United Nations, Top Stories
 
 Flash flooding in western Nigeria at the weekend has caused devastation around the town of Mokwa in Niger state, leaving more than 150 dead and 3,000 people displaced – more than half of whom are children aged 12 and under – the UN said on Monday. 
 
@@ -1111,7 +1753,7 @@ Flash flooding in western Nigeria at the weekend has caused devastation around t
 
 ## Germany’s Annalena Baerbock elected President of the 80th General Assembly
 
-date: 2025-06-02, from: United Nations, Top Stories
+date: 2025-06-02, from: United Nations, UN Affairs
 
 Former German foreign minister Annalena Baerbock was elected President of the General Assembly’s 80th session on Monday. Her appointment comes as the regional group that includes Western Europe takes its turn at the helm of the world body. 
 
@@ -1135,7 +1777,7 @@ The UN Secretary-General has condemned the reported killing and injury of Palest
 
 ## Frontline Ukrainian families face perilous task of farming mined fields
 
-date: 2025-06-02, from: United Nations, Economic Development
+date: 2025-06-02, from: United Nations, Top Stories
 
 As Ukrainian and Russian delegations meet for a second round of preliminary peace talks in Turkïye on Monday, rural communities&nbsp;faced their own challenge: finding something to eat. 
 
@@ -2068,6 +2710,18 @@ date: 2025-06-01, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/trump-impact-asylum-claims-spain-1.7545134?cmp=rss>
+
+---
+
+## Kativik Regional Government requests audit of Nunavik police
+
+date: 2025-06-01, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7531990.1746879399!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nunavik-police.jpg' alt='Nunavik police car (dark navy blue car with yellow lettering that says &apos;Nunavik police&apos;) ' width='620' height='349' title=''/><p>KRG passed a resolution for an audit of police operations and ways to make policing better reflect Inuit culture. But one Indigenous policing expert believes the review should go beyond just the operational level, and look at the policing model itself.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/krg-audit-nunavik-police-1.7548876?cmp=rss>
 
 ---
 

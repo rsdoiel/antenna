@@ -1,11 +1,258 @@
 ---
 title: pacific
-updated: 2025-06-03 14:09:33
+updated: 2025-06-04 06:08:08
 ---
 
 # pacific
 
-(date: 2025-06-03 14:09:33)
+(date: 2025-06-04 06:08:08)
+
+---
+
+## Kona teen charged following gun incident
+
+date: 2025-06-04, from: Hawaii Tribune Harold
+
+
+				<p>Police have charged 19-year-old Fernando Villanueva-Gonzalez of Kailua-Kona with multiple offenses relating to a weapons incident reported Sunday in the area of Puohulihuli Street near Kealakehe High School in Kailua-Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/04/hawaii-news/kona-teen-charged-following-gun-incident/>
+
+---
+
+## At least 27 Palestinians killed near Gaza aid site; U.N. demands investigation
+
+date: 2025-06-04, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/JERUSALEM &#8212; At least 27 Palestinians were killed and dozens wounded by Israeli fire near a food distribution site in southern Gaza on Tuesday, health officials said, in a third day running of chaos and bloodshed to blight the aid operation. The Israeli military said its forces had opened fire on a group of people they viewed as a threat after they left a designated access route near the distribution centre in Rafah and approached their positions.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/04/nation-world-news/at-least-27-palestinians-killed-near-gaza-aid-site-u-n-demands-investigation/>
+
+---
+
+## Former Kona teacher guilty of sexually assaulting minor
+
+date: 2025-06-04, from: Hawaii Tribune Harold
+
+
+				<p>A former Konawaena Middle School teacher was convicted last week of continuous sexual assault of a minor younger than 14 and attempted first-degree sexual assault.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/04/hawaii-news/former-kona-teacher-guilty-of-sexually-assaulting-minor/>
+
+---
+
+## Man accused of sexually abusing 2 minors indicted
+
+date: 2025-06-04, from: Hawaii Tribune Harold
+
+
+				<p>The state has filed a motion requesting that a 44-year-old Mountain View man facing 15 felony charges in connection with the alleged sexual abuse of minors be held without bail.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/04/hawaii-news/man-accused-of-sexually-abusing-2-minors-indicted/>
+
+---
+
+## A new era of trade warfare has begun for the US and China
+
+date: 2025-06-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S.-China trade conflict is quickly morphing into a fight over global supply chains, as the two nations limit the sharing of critical technologies that could have lasting consequences for scores of industries.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/04/nation-world-news/a-new-era-of-trade-warfare-has-begun-for-the-us-and-china/>
+
+---
+
+## Trump pressures divided GOP to back policy bill
+
+date: 2025-06-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump on Tuesday ratcheted up pressure on Senate Republicans to quickly embrace and pass legislation carrying his domestic agenda, intensifying a battle inside the GOP about what should be in the measure and how much it should cost.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/04/nation-world-news/trump-pressures-divided-gop-to-back-policy-bill/>
+
+---
+
+## Americans slow to book summer travel amid discount hunting
+
+date: 2025-06-04, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; This year&#8217;s hottest summer travel trend? Waiting for deals.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/04/nation-world-news/americans-slow-to-book-summer-travel-amid-discount-hunting/>
+
+---
+
+## News in brief for June 4
+
+date: 2025-06-04, from: Hawaii Tribune Harold
+
+
+				<p>Chinese accused of smuggling &#8216;agroterrorism weapon&#8217; into US</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/04/nation-world-news/news-in-brief-for-june-4/>
+
+---
+
+## Trump administration scraps Biden-era policy on emergency abortions
+
+date: 2025-06-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration announced Tuesday that it had revoked a Biden administration requirement that hospitals provide emergency abortions to women whose health is in peril, including in states where abortion is restricted or banned.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/04/nation-world-news/trump-administration-scraps-biden-era-policy-on-emergency-abortions/>
+
+---
+
+## Wegovy use up 50% among US teens
+
+date: 2025-06-04, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; American teens are increasingly turning to the weight-loss drug Wegovy as more families and their doctors gain confidence in its use for young people with obesity, new data shared with Reuters shows. The average rate of teens beginning treatment with the highly effective Novo Nordisk drug grew 50% last year to 14.8 prescriptions per 100,000 adolescents, according to an analysis by health data firm Truveta.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/04/nation-world-news/wegovy-use-up-50-among-us-teens/>
+
+---
+
+## Troop casualties in Ukraine war near 1.4 million, study finds
+
+date: 2025-06-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Nearly 1 million Russian troops have been killed or wounded in the country&#8217;s war against Ukraine, according to a new study, a staggering toll as Russia&#8217;s three-year assault on its neighbor grinds on.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/04/nation-world-news/troop-casualties-in-ukraine-war-near-1-4-million-study-finds/>
+
+---
+
+## US Navy to rename oil tanker named after gay rights activist Harvey Milk
+
+date: 2025-06-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Navy will rename an oil tanker that had been named after slain gay rights activist Harvey Milk, U.S. officials told Reuters on Tuesday, the military&#8217;s latest move under Defense Secretary Pete Hegseth to root out diversity, equity and inclusion.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/04/nation-world-news/us-navy-to-rename-oil-tanker-named-after-gay-rights-activist-harvey-milk/>
+
+---
+
+## Ukraine says it struck Crimea bridge
+
+date: 2025-06-04, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Ukraine said Tuesday that it had struck the Crimean bridge for the third time since the start of Russia&#8217;s full-scale invasion, after spending months planting explosives on support structure beneath the water.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/04/nation-world-news/ukraine-says-it-struck-crimea-bridge/>
+
+---
+
+## JKPL hosts successful two-day celebration of US National Science Foundation’s 75th year
+
+date: 2025-06-04, updated: 2025-06-04, from: Marianas Variety
+
+(JKPL) — Joeten-Kiyu Public Library proudly joined libraries across the nation in celebrating the 75th Anniversary of the U.S. National Science Foundation or NSF with a spectacular two-day event filled with science, learning, and community engagement from May 9 to May 10, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/jkpl-hosts-successful-two-day-celebration-of-us-national-science-foundation-s-75th-year/article_c033de07-87fd-4752-b460-a6da73830dea.html>
+
+---
+
+## Hawaiʻi students find success in healthcare careers, new data shows
+
+date: 2025-06-04, from: University of Hawaiʻi News
+
+<p>The report follows students from <span aria-label="Hawaii">Hawai&#699;i</span> public schools through postsecondary education at <abbr>UH</abbr> and into the workforce.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/03/healthcare-career-data-story/">Hawaiʻi students find success in healthcare careers, new data shows</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/03/healthcare-career-data-story/>
+
+---
+
+## 2025 USP Entrepreneurial Fair: Empowering Pacific Entrepreneurs for Lasting Change
+
+date: 2025-06-04, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) hosted its 2025 Entrepreneurial Fair under the theme...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/2025-usp-entrepreneurial-fair-empowering-pacific-entrepreneurs-for-lasting-change/">2025 USP Entrepreneurial Fair: Empowering Pacific Entrepreneurs for Lasting Change</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/2025-usp-entrepreneurial-fair-empowering-pacific-entrepreneurs-for-lasting-change/>
+
+---
+
+## Supercomputing collab brings national lab experts to UH, expands student opportunities
+
+date: 2025-06-03, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa hosted a national supercomputing workshop that trained students on cutting-edge tools and expanded <span aria-label="Hawaii">Hawai&#699;i</span>’s role in energy research.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/03/supercomputing-collab-expands-opportunities/">Supercomputing collab brings national lab experts to <abbr>UH</abbr>, expands student opportunities</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/03/supercomputing-collab-expands-opportunities/>
+
+---
+
+## CTAHR students cook up winning proposal at Hawaiʻi Food Policy Hackathon
+
+date: 2025-06-03, from: University of Hawaiʻi News
+
+<p><abbr>CTAHR</abbr> students were among teams that gathered from across the state to address food insecurity.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/03/hawaii-food-policy-hackathon/"><abbr>CTAHR</abbr> students cook up winning proposal at Hawaiʻi Food Policy Hackathon</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/03/hawaii-food-policy-hackathon/>
 
 ---
 
@@ -43,6 +290,66 @@ Palau President Surangel Whipps Jr. and Taiwan President Lai Ching-Te. Photo cou
 <br> 
 
 <https://www.pacificislandtimes.com/post/palau-taiwan-ties-grow-stronger-in-the-face-of-china-s-pressure>
+
+---
+
+## OECD lowers global outlook as Trump trade war hits US growth
+
+date: 2025-06-03, updated: 2025-06-04, from: Marianas Variety
+
+PARIS (Reuters) — Global economic growth is slowing more than expected only a few months ago as the fallout from the Trump administration's trade war takes a bigger toll on the U.S. economy, the OECD said on Tuesday, revising down its outlook. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/oecd-lowers-global-outlook-as-trump-trade-war-hits-us-growth/article_14599105-d419-447c-8567-e5ac0e68a60c.html>
+
+---
+
+## Saipan Humane Society: Recent and upcoming clinics
+
+date: 2025-06-03, updated: 2025-06-04, from: Marianas Variety
+
+THE Saipan Humane Society is excited to announce that visiting veterinarian Dr. Katie Hayward and veterinary technician Emily from Banfield Foundation successfully treated 307 patients during a seven-day clinic on the island. These patients came in for a wide range of care, including wellness checks, rabies vaccinations, treatment for broken limbs, animals injured by cars, bleeding disorders, masses, and more. This clinic was made possible thanks to the generous support of the Banfield Foundation. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/saipan-humane-society-recent-and-upcoming-clinics/article_c7721d4b-6a17-4a1b-814c-0db47c4c9850.html>
+
+---
+
+## SSHS Manta Ray cadets assist in Memorial Day ceremony
+
+date: 2025-06-03, updated: 2025-06-04, from: Marianas Variety
+
+MEMORIAL Day, held this year on May 26, commemorated the nation’s women and men who’ve passed on after fighting for our country and freedom. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/sshs-manta-ray-cadets-assist-in-memorial-day-ceremony/article_c4092b01-6a3b-4c00-9a3a-bd1f89525874.html>
+
+---
+
+## How a new planetarium show helped scientists unlock a cosmic secret
+
+date: 2025-06-03, updated: 2025-06-04, from: Marianas Variety
+
+NEW YORK (AP) — Scientists have unlocked one of the solar system’s many secrets from an unexpected source: a planetarium show opening to the public on Monday. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/how-a-new-planetarium-show-helped-scientists-unlock-a-cosmic-secret/article_9b69b953-aeb3-4fc2-a6a0-df005398bae7.html>
+
+---
+
+## Sean ‘Diddy’ Combs’ ex-aide says she was ‘brainwashed’ when she sent loving texts years after rape
+
+date: 2025-06-03, updated: 2025-06-04, from: Marianas Variety
+
+NEW YORK (AP) — A former personal assistant who accuses Sean “Diddy” Combs of rape testified Monday that she continued sending the hip-hop mogul loving messages for years after her job ended in 2017 because she was “brainwashed.” 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/sean-diddy-combs-ex-aide-says-she-was-brainwashed-when-she-sent-loving-texts-years/article_4b5ccc3e-137d-4f6d-ad37-57dfbfd62e02.html>
 
 ---
 

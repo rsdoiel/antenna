@@ -1,11 +1,65 @@
 ---
 title: food
-updated: 2025-06-03 14:09:40
+updated: 2025-06-04 06:08:16
 ---
 
 # food
 
-(date: 2025-06-03 14:09:40)
+(date: 2025-06-04 06:08:16)
+
+---
+
+## Listen To Part One Of Cafe Imports’ Source: A Green Coffee Buying Panel Podcast
+
+date: 2025-06-04, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Part two will be released next week. 
+
+<br> 
+
+<https://sprudge.com/listen-to-part-one-of-cafe-imports-source-a-green-coffee-buying-panel-podcast-343732.html>
+
+---
+
+## Spicy Edamame Recipe
+
+date: 2025-06-04, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/spicy-edamame/" title="Spicy Edamame Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Spicy Edamame served in a bowl with a fiery dressing and chili flakes" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Spicy edamame with garlic, chili paste or sriracha, soy sauce, sesame oil, and ginger is the perfect snack or appetizer, easy to make boiled or steamed.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/spicy-edamame/">Spicy Edamame Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/spicy-edamame/>
+
+---
+
+## Want a Cafe That Lasts? Focus on Brand Identity
+
+date: 2025-06-04, from: The Fresh Cup
+
+<p>Brand identity isn’t just about design. For many cafes, it’s what guides service, builds loyalty, and keeps them grounded in uncertain times.</p>
+<p>The post <a href="https://freshcup.com/want-a-cafe-that-lasts-focus-on-brand-identity/">Want a Cafe That Lasts? Focus on Brand Identity</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/want-a-cafe-that-lasts-focus-on-brand-identity/>
+
+---
+
+## Who Wants to be a Global Coffee Creator for Starbucks?
+
+date: 2025-06-04, from: The Fresh Cup
+
+<p>Job postings for positions like "chief cold brew officer" and "global coffee creator" are popular among large coffee brands and can feel like thinly-veiled marketing campaigns. </p>
+<p>The post <a href="https://freshcup.com/who-wants-to-be-a-global-coffee-creator-for-starbucks/">Who Wants to be a Global Coffee Creator for Starbucks?</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/who-wants-to-be-a-global-coffee-creator-for-starbucks/>
 
 ---
 
@@ -381,7 +435,7 @@ date: 2025-06-02, from: The Fresh Cup
 
 date: 2025-06-02, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/black-eyed-peas-soup/" title="Black Eyed Peas Soup Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Black-Eyed-Peas-Soup-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of Black Eyed Peas Soup served with grilled crusty bread for sopping" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Black-Eyed-Peas-Soup-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Black-Eyed-Peas-Soup-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Black-Eyed-Peas-Soup-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Black-Eyed-Peas-Soup-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Black-Eyed-Peas-Soup-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Black-Eyed-Peas-Soup-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Black-Eyed-Peas-Soup-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This hearty Black Eyed Peas Soup is loaded with smoky ham, bacon, greens, and bold spices, perfect comfort food for chilly days, a true taste of the south.</p>
+<a href="https://www.chilipeppermadness.com/recipes/black-eyed-peas-soup/" title="Black Eyed Peas Soup Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Black-Eyed-Peas-Soup-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of Black Eyed Peas Soup served with grilled crusty bread for sopping" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Black-Eyed-Peas-Soup-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Black-Eyed-Peas-Soup-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Black-Eyed-Peas-Soup-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Black-Eyed-Peas-Soup-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Black-Eyed-Peas-Soup-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Black-Eyed-Peas-Soup-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Black-Eyed-Peas-Soup-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This hearty Black Eyed Peas Soup is loaded with smoky ham, bacon, greens, and bold spices, perfect comfort food for chilly days, a true taste of the south.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/black-eyed-peas-soup/">Black Eyed Peas Soup Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

@@ -1,11 +1,111 @@
 ---
 title: going electric
-updated: 2025-06-03 14:09:39
+updated: 2025-06-04 06:08:15
 ---
 
 # going electric
 
-(date: 2025-06-03 14:09:39)
+(date: 2025-06-04 06:08:15)
+
+---
+
+## Europe Follows In China’s Footsteps With Megawatt EV Charging
+
+date: 2025-06-04, from: Inside EVs News
+
+Eight–minute charging stops are coming to Europe later this year, thanks to Ionity and Alpitronic. 
+
+<br> 
+
+<https://insideevs.com/news/761671/europe-ionity-megawatt-charging/>
+
+---
+
+## Tesla’s India plans won’t include manufacturing and here’s why
+
+date: 2025-06-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2019/09/tesla-store-boston-e1582755820914.png?w=1600" /></div><p>Tesla’s India plans won’t include electric vehicle manufacturing, according to the local minister of industries, and the reason is quite simple.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="418985" href="https://electrek.co/2025/06/04/teslas-india-plans-wont-include-manufacturing-and-heres-why/#more-418985" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/04/teslas-india-plans-wont-include-manufacturing-and-heres-why/>
+
+---
+
+## Leaked recording proves Tesla (TSLA) has employee morale problem
+
+date: 2025-06-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Elon-Musk-wrecking-ball.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A leaked recording of a new Tesla training program reveals that the company is concerned about a growing employee morale issue.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="418980" href="https://electrek.co/2025/06/04/leaked-recording-tesla-tsla-has-employee-morale-problem/#more-418980" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/04/leaked-recording-tesla-tsla-has-employee-morale-problem/>
+
+---
+
+## You Can Save Up To $3,000 On A Bunch Of GM EVs At Costco
+
+date: 2025-06-04, from: Inside EVs News
+
+The Chevrolet Silverado EV, GMC Sierra EV and Chevy Equinox EV are on the list. 
+
+<br> 
+
+<https://insideevs.com/news/761635/costco-auto-program-gm-ev-discount/>
+
+---
+
+## These EVs Far Outperform Their EPA Range On The Highway
+
+date: 2025-06-04, from: Inside EVs News
+
+Want an electric vehicle that can really go the distance? Consumer Reports drove a bunch to empty to pick the winners from the losers.  
+
+<br> 
+
+<https://insideevs.com/news/761611/ev-epa-range-cr-2025/>
+
+---
+
+## West Virginia just hit a solar milestone but there’s a major catch
+
+date: 2025-06-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Marlowe-solar-farm-WV.jpg?quality=82&#038;strip=all&#038;w=1560" /></div><p>The third of a quintet of West Virginia solar farms just came online, and while that’s a renewable milestone, there’s a disappointing hitch.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,west-virginia" data-layer-viewtype="unknown" data-post-id="418959" href="https://electrek.co/2025/06/03/west-virginia-just-hit-a-solar-milestone-but-theres-a-major-catch/#more-418959" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/03/west-virginia-just-hit-a-solar-milestone-but-theres-a-major-catch/>
+
+---
+
+## Kia’s low-cost EV4 is getting the GT treatment: Here’s our first look at the interior
+
+date: 2025-06-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/kia-ev4-gt-interior.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Is the Kia EV4 GT the affordable electric sports car we’ve been waiting for? Kia’s first global electric sedan is about to get a sporty upgrade. After the <a href="https://electrek.co/guides/kia-ev4/">EV4</a> GT was spotted in public, we’re finally getting a glimpse of the interior.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" data-post-id="418948" href="https://electrek.co/2025/06/03/kias-low-cost-ev4-gt-first-look-interior/#more-418948" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/03/kias-low-cost-ev4-gt-first-look-interior/>
 
 ---
 
@@ -350,6 +450,22 @@ date: 2025-06-02, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/06/02/lucid-now-discounting-air-ev-models-by-over-31000/>
+
+---
+
+## Lucid (LCID) launches its largest discounts so far with over $31,000 off Air EV models
+
+date: 2025-06-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Lucid-outpacing-rivals.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>That’s not a typo. <a href="https://electrek.co/guides/lucid-air/">Lucid</a> (LCID) is offering over $31,000 off select 2025 Air models this month as part of the EV maker’s strongest promotions so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-air,lucid-motors" data-layer-viewtype="unknown" data-post-id="418759" href="https://electrek.co/2025/06/02/lucid-launches-biggest-discounts-yet-31000-off-air-evs/#more-418759" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/02/lucid-launches-biggest-discounts-yet-31000-off-air-evs/>
 
 ---
 

@@ -1,11 +1,47 @@
 ---
 title: motorcycles
-updated: 2025-06-03 14:09:38
+updated: 2025-06-04 06:08:14
 ---
 
 # motorcycles
 
-(date: 2025-06-03 14:09:38)
+(date: 2025-06-04 06:08:14)
+
+---
+
+## Someone Just Stole $100,000 Worth of Polaris RZRs From a Dealership
+
+date: 2025-06-04, from: Ride Apart, Electric Motorcycle News
+
+And the cops are wondering if the thieves are set to strike again... 
+
+<br> 
+
+<https://www.rideapart.com/news/761440/polaris-rzr-stolen-utv-atv-dealership-holland-michigan/>
+
+---
+
+## Cardo Systems Unveils Waterproof Microphone for Off-Road Adventures
+
+date: 2025-06-04, from: Ride Apart, Electric Motorcycle News
+
+Improving on what's arguably the best. 
+
+<br> 
+
+<https://www.rideapart.com/news/761472/cardo-waterproof-microphone-off-road/>
+
+---
+
+## Beta Motorcycles Opens New US Headquarters, But Not To Beat Tariffs
+
+date: 2025-06-04, from: Ride Apart, Electric Motorcycle News
+
+The world of off-road in the USA is about to get a whole lot more European. 
+
+<br> 
+
+<https://www.rideapart.com/news/761160/beta-usa-new-national-headquarters/>
 
 ---
 

@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-06-03 14:09:36
+updated: 2025-06-04 06:08:11
 ---
 
 # games
 
-(date: 2025-06-03 14:09:36)
+(date: 2025-06-04 06:08:11)
+
+---
+
+## No Man’s Sky update adds city-builder elements and Switch 2 compatibility
+
+date: 2025-06-04, updated: 2025-06-04, from: Polygon Website
+
+No Man’s Sky is nowhere close to winding down even nine years after it was first released — and the newest update, available June 4, adds totally new gameplay mechanics and compatibility with the upcoming Nintendo Switch 2 console. Even better, the Switch 2 Edition is free for players who already own No Man’s Sky [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/603493/no-mans-sky-beacon-update-switch-2-compatibility>
+
+---
+
+## Duolingo users are in turmoil over the app’s AI lessons
+
+date: 2025-06-04, updated: 2025-06-04, from: Polygon Website
+
+When Duolingo launched in 2012, the language-learning app became the poster child of gamification. The app is shameless and magnificent in its efforts to get users hooked on lessons with streaks, leaderboards, and timed challenges. Many users — including me and my 1300-plus day streak — fell for Duolingo’s cartoon mascots and bizarre social media [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ai-artificial-intelligence/603216/duolingo-ai-language-lessons>
+
+---
+
+## Blumhouse is developing your next favorite video game movie: Phasmophobia
+
+date: 2025-06-04, updated: 2025-06-03, from: Polygon Website
+
+Blumhouse and developer Kinetic Games have joined forces to develop a film adaptation of horror game Phasmophobia. Blumhouse and James Wan’s Atomic Monster production company will produce the upcoming movie in association with Kinetic Games. “We’re thrilled to officially announce that a Phasmophobia film adaption is in development &#8211; it’s a big moment for the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/603402/phasmophobia-movie-blumhouse-atomic-monster>
 
 ---
 

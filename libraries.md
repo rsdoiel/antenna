@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-06-03 14:09:37
+updated: 2025-06-04 06:08:13
 ---
 
 # libraries
 
-(date: 2025-06-03 14:09:37)
+(date: 2025-06-04 06:08:13)
+
+---
+
+## Announcing “Future Knowledge”: A New Podcast from the Internet Archive & Authors Alliance
+
+date: 2025-06-04, from: Internet Archive Blog
+
+How is knowledge created, shared, and preserved in the digital age—and what forces are shaping its future? We’re thrilled to announce the launch of Future Knowledge, a new podcast from [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/06/04/announcing-future-knowledge-a-new-podcast-from-the-internet-archive-authors-alliance/>
+
+---
+
+## Guest Post — Trust and Transparency in Open Access Book Publishing :  Part 2
+
+date: 2025-06-04, from: Scholarly Kitchen
+
+<p>How does the Directory of Open Access Books navigate challenges to instill trust and transparency. Part 2 of 2.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/06/04/guest-post-trust-and-transparency-in-open-access-book-publishing-part-2/">Guest Post &#8212; Trust and Transparency in Open Access Book Publishing :  Part 2</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/06/04/guest-post-trust-and-transparency-in-open-access-book-publishing-part-2/>
 
 ---
 

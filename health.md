@@ -1,11 +1,131 @@
 ---
 title: health
-updated: 2025-06-03 14:09:39
+updated: 2025-06-04 06:08:15
 ---
 
 # health
 
-(date: 2025-06-03 14:09:39)
+(date: 2025-06-04 06:08:15)
+
+---
+
+## Exploring the evolutionary journey of the lumpy skin disease virus through the phylogenetic and phylo-geo network analysis
+
+date: 2025-06-04, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionLumpy Skin Disease Virus (LSDV), an emerging pathogen from the Capripoxvirus genus, continues to challenge global livestock health with its expanding host range and genetic adaptability.Materials and methodsIn this study, we report the first isolation and whole genome sequencing of LSDV from Bos frontalis, a semi-domesticated bovine species native to Northeast India, along with the assembly of an isolate from cattle.ResultsTime to the Most Recent Common Ancestor (TMRCA) estimates support a relatively recent common origin for Indian strains, pointing to ongoing virus circulation and regional adaptation. The maximum likelihood phylogenetic tree of the whole genome and G protein-coupled chemokine receptor (GPCR) gene further demonstrated the clustering of global strains, emphasizing the virus’s transboundary movement and genomic diversity. To strengthen phylogenetic inference, we identified shared SNPs, synonymous and non-synonymous mutations across the genome with a total of 2212 variants. Haplotype network and mutation pattern analyses across global genomes further highlighted the conservative evolution of Indian isolates within a distinct haplogroup.DiscussionSeveral mutation events between haplogroups highlight the virus’s continuous genetic diversification, which correlates with known patterns of spread. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1575538>
+
+---
+
+## Metagenomics reveals unique gut mycobiome biomarkers in major depressive disorder - a non-invasive method
+
+date: 2025-06-04, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundAn increasing amount of evidence suggests a potential link between alterations in the intestinal microbiota and the onset of various psychiatric disorders, including depression. Nevertheless, the precise nature of the link between depression and the intestinal microbiota remains largely unknown. A significant proportion of previous research has concentrated on the study of gut bacterial communities, with relatively little attention paid to the link between gut mycobiome and depression.MethodsIn this research, we analyzed the composition and differences of intestinal fungal communities between major depressive disorder (MDD) and healthy controls. Subsequently, we constructed a machine learning model using support vector machine-recursive feature elimination to search for potential fungal markers for MDD.ResultsOur findings indicated that the composition and beta diversity of intestinal fungal communities were significantly changed in MDD compared to the healthy controls. A total of 22 specific fungal community markers were screened out by machine learning, and the predictive model had promising performance in the prediction of MDD (area under the curve, AUC = 1.000). Additionally, the intestinal fungal communities demonstrated satisfactory performance in the validation cohort, with an AUC of 0.884 (95% CI: 0.7871-0.9476) in the Russian validation cohort, which consisted of 36 patients with MDD and 36 healthy individuals. The AUC for the Wuhan validation cohort was 0.838 (95% CI: 0.7403-0.9102), which included 40 patients with MDD and 42 healthy individuals.ConclusionTo summarize, our research revealed the characterization of intestinal fungal communities in MDD and developed a prediction model based on specific intestinal fungal communities. Although MDD has well-established diagnostic criteria, the strategy based on the model of gut fungal communities may offer predictive biomarkers for MDD. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1582522>
+
+---
+
+## Microbiome in cancer metastasis: biological insights and emerging spatial omics methods
+
+date: 2025-06-04, from: Frontiers in Cellular and Infection Microbiology
+
+The role of the microbiome in cancer metastasis has emerged as a critical area of research, with growing evidence suggesting that microbial composition and interactions within the tumour microenvironment may significantly influence metastatic progression. This review explores the role of the microbiome in cancer metastasis, as well as potential key bacteria and their mechanisms through which they could impact tumour dissemination, seeding and growth. Biological models used to study metastasis are discussed to provide context for the further investigation of these interactions. In order to answer unresolved questions regarding the microbiome’s involvement in metastatic dissemination, recent advancements in spatial biology techniques are examined, including spatial genomics, transcriptomics, proteomics and metabolomics, which enable the spatial mapping of microbial interactions within the tumour microenvironment. Additionally, multimodal-omics imaging approaches are highlighted for their potential to integrate multiple molecular layers, offering comprehensive insights into the microbiome’s role in cancer metastasis. The review also addresses the challenges and limitations of these techniques, underscoring the complexity of studying microbiome-tumour interactions and offering directions for future research to better explore and target the microbiological landscape in metastatic cancer. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1559870>
+
+---
+
+## Salivary microbiota and IgA responses are different in pre-diabetic individuals compared to normoglycemic controls
+
+date: 2025-06-04, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionIn recent years, changes in the oral microbiota of patients with type 2 diabetes mellitus (T2DM) have been increasingly recognized. The salivary microbiota may also be altered in pre-diabetes, which is the earliest stage of abnormal blood glucose regulation and a reversible stage preceding T2DM; however, its characteristics are poorly understood. Salivary immunoglobulin A (IgA) is a host defense factor central to the oral immune system and may play an important role in regulating the salivary microbiota. Given that alterations in immunoreactivity are observed in pre-diabetes, we hypothesized that the salivary IgA response may also be altered; however, limited knowledge exists regarding this. Therefore, in the present study, we aimed to evaluate the characteristics of salivary microbiota and IgA responses against salivary microbiota in individuals with pre-diabetes, comparing them to those in individuals with normoglycemia.MethodsSaliva samples were collected from 101 pre-diabetic individuals (PreDM group) and 101 age- and sex-matched normoglycemic controls (Normal group). Further, 16S rRNA metagenomic analysis was performed to compare bacterial microbiota composition. For each of the 19 saliva samples from the PreDM and Normal groups, IgA-enriched and IgA-nonenriched fractions were separated via magnetic-activated cell sorting, followed by 16S rRNA metagenomic analysis. The IgA index was calculated to evaluate the difference in the IgA response to each bacterium between the PreDM and Normal groups.ResultsBacterial species richness was significantly lower in the PreDM group than in the Normal group (observed operational taxonomic unit index, p = 0.042), and a difference between these groups was noted in the overall salivary microbiota structure (unweighted UniFrac distances, p = 0.009). Salivary IgA responses against several bacterial genera differed between the PreDM and Normal groups. Significantly higher IgA responses were noted against Haemophilus in the PreDM group, with lower responses against Capnocytophaga, Corynebacterium, and Streptococcus relative to those in the Normal group.ConclusionsSalivary microbiota and IgA responses differ between pre-diabetic individuals and normoglycemic controls. The current findings advance our understanding of the interaction between oral bacteria and host immune responses in patients with a poor glycemic status. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1591285>
+
+---
+
+## Establishment and epidemiological investigation of a dual fluorescent qPCR assay for Pasteurella multocida and Salmonella in yaks in the Tibetan Autonomous Prefecture of Garzê, China
+
+date: 2025-06-04, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionYaks serve as a vital economic and ecological resource in high-altitude regions, but it faces significant health challenges from various pathogens. Among these, Pasteurella multocida and Salmonella are critical pathogens that contribute to severe diseases.MethodsA duplex real-time fluorescence quantitative PCR assay was developed to simultaneously detect Pasteurella multocida and Salmonella. The species-specific genes kmt1 and invA were selected as target regions for primer and probe design. Following rigorous optimization, a duplex assay was established. Recombinant plasmids were constructed to serve as standards for generating standard curves. The detection thresholds were determined using SPSS statistical analysis and receiver operating characteristic curve methods. Furthermore, the assay’s sensitivity, specificity, stability, and clinical applicability were evaluated.ResultsThe established assay demonstrated high sensitivity, with detection limits of 100 and 10 copies for pMD-kmt1 and pMD-invA, respectively. No cross-reactivity was observed with six pathogens, including Mycoplasma bovis, infectious bovine rhinotracheitis virus and others. The standard curves showed strong linearity, with coefficients of determination of 0.995 and 0.998, and amplification efficiencies of 103.37% and 103.47% for pMD-kmt1 and pMD-invA, respectively. No interference was observed between high- and low-concentration templates during simultaneous detection. The intra- and inter-assay coefficients of variation ranged from 0.23% to 1.51%. Detection thresholds were determined to be cycle threshold values of 41.5 for P. multocida and 40.0 for Salmonella. Clinical evaluation was performed on 226 samples collected from yaks in seven counties of Ganzi Prefecture, Sichuan Province, China. The single infection rates of P. multocida and Salmonella were 20.35% (46/226) and 38.50% (87/226), respectively, while the co-infection rate was 6.19% (14/226).DiscussionThis study successfully established a duplex real-time fluorescence PCR assay that enables the simultaneous detection of P. multocida and Salmonella with high sensitivity, specificity, and efficiency. The assay offers a reliable and rapid diagnostic tool that is particularly suited for clinical and epidemiological investigations in yak populations. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1599817>
+
+---
+
+## From transmission to adaptive evolution: genomic surveillance of Getah virus
+
+date: 2025-06-04, from: Frontiers in Cellular and Infection Microbiology
+
+Getah virus (GETV) is a member of the Alphavirus of the Togaviridae. It is a single-stranded positive-RNA virus that is mainly transmitted by mosquitoes. In recent years, the spread of GETV has become increasingly serious, causing serious losses to the animal economy and posing a potential threat to public health. GETV infected animals extend from traditional domestic animals such as horses and pigs to cattle, foxes and other animals. Especially in China, the virus has been detected in many provinces in recent years. In addition, GETV-specific antibodies were detected in healthy humans. However, the threat posed by GETV in China has not received enough attention. In this study, we downloaded all available GETV genome-wide serials (82 serials in total) from the NCBI as of December 2023. We integrate multiple bioinformatics approaches to understand the characteristics of GETV from the perspectives of epidemiology, virus-host co-evolution, and viral adaptation analysis. The results of this study show that GETV is rapidly expanding its host range and geographical distribution at high evolutionary rates due to the lack of commercially available vaccines. Second, we clearly reveal the cross-species transmission of GETV. Finally, we identified important adaptive and active selection sites. GETV and its media are widely distributed in China, and new host infections continue to appear. Therefore, strengthening surveillance and prevention to avoid serious losses to the pandemic is an important task we face today. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1513392>
+
+---
+
+## Comparison of bronchoalveolar lavage fluid mNGS and sputum culture in the clinical application of severe pneumonia
+
+date: 2025-06-04, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveThe purpose of this study is to compare the clinical application value of bronchoalveolar lavage fluid (BALF) mNGS and sputum culture in severe pulmonary infections, and to provide guidance for clinicians in selecting the appropriate testing method.MethodsThis study collected 105 patients diagnosed with severe pneumonia, of which 55 patients who underwent BALF mNGS. We compared the pathogen detection rates, length of stay and mortality rate, treatment, and pathogen species between BALF mNGS group and sputum culture group.ResultsThe pathogen detection rate in BALF mNGS group was significantly higher than that in sputum culture group (P<0.0001). The length of hospital stay in the BALF mNGS group was shorter than that in the sputum group (P=0.0093). There was no statistically significant difference in mortality rate between the two groups (P=0.26). However, BALF mNGS group had a lower antibiotic usage rate than the sputum culture group (P=0.0491). According to the mNGS results, initial antipathogenic treatment was modified in 67.27% of patients. In BALF mNGS group, the main pathogens detected included Mycoplasma pneumoniae, Mycobacterium tuberculosis (MTB) and Haemophilus influenzae (HI). The sputum culture group mainly included: MTB, HI.ConclusionBALF mNGS effectively and rapidly identifies pathogens, helping doctors quickly diagnose severe pneumonia pathogens. Combined with the patient’s medical history, laboratory results and imaging, clinical doctors can adjust the patient’s treatment plan in time. This has potential advantages in improving the cure rate of severe pneumonia patients, reducing the length of hospital stay, and improving the prognosis. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1593818>
+
+---
+
+## Antibiotics in periodontal treatment: an umbrella review
+
+date: 2025-06-04, from: Frontiers in Cellular and Infection Microbiology
+
+AimAntimicrobial stewardship envisions the appropriate use of antimicrobials, including antibiotics. Antibiotic therapy in Periodontology has been widely investigated over the years. This umbrella review aimed to appraise the methodological quality and meta-analytical strength and validity of the evidence of systematic reviews (SRs) on systemic and local antibiotics in periodontal therapy.Material and methodsAfter registration of the protocol (PROSPERO CRD42024527222), an extensive search, up to March 2024, for SRs that have assessed the effect of antibiotics in periodontal therapy, either nonsurgical and surgical, regardless of the types of patients and type of antibiotic. The methodological quality of SRs was judged using A MeaSurement Tool to Assess systematic Reviews 2. Fail-safe number of Rosenberg explored the number of nonsignificant, unpublished, or missing studies that would be required to change the direction of that evidence.ResultsForty-four SRs, consisting of 221 meta-analyses, were included. The overall methodological quality was low, with only four and two SRs of high or moderate quality, respectively. Out of 221 meta-analyses, 69 indicated that the effect of systemic or local antibiotics was statistically not significant. Twenty-nine meta-analyses from suggestive-to-strong strength from one high and three low methodological quality SRs indicated that the systemic or local antibiotics had a beneficial, statistically significant effect on periodontal health parameters, such as average clinical attachment loss, bleeding on probing or percentage of pocket closure. Of those, four strong evidence meta-analyses from a low-quality systematic review indicated significant and meta-analytically robust but with negligible effect. About 65.5% of the meta-analyses with suggestive to strong evidence are unlikely to change with more future studies.ConclusionThere is no robust evidence to support the use of antibiotics for periodontal management. Systemic antibiotics have a minimal effect on periodontitis and additional studies are unlikely to change the level of evidence. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1601464>
+
+---
+
+## Molecular and epidemiological characterization of carbapenem-resistant hypervirulent Klebsiella pneumoniae in Huaian, China (2022–2024): a retrospective study
+
+date: 2025-06-04, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectivesCarbapenem-resistant hypervirulent Klebsiella pneumoniae (CR-hvKP) poses a significant public health challenge. This study investigated the molecular epidemiology, antimicrobial resistance patterns, clinical characteristics, and risk factors of CR-hvKP infection in Huaian, China.MethodsWe retrospectively studied patients infected with carbapenem-resistant K. pneumoniae (CRKP) between November 2022 and September 2024. Whole-genome sequencing was used to detect carbapenemase, virulence, capsular serotype-related genes, and plasmid types in 374 CRKP isolates.ResultsAmong them, 57.49% (215/374) strains met the criteria for CR-hvKP. The most common type was blaKPC-2-producing ST11(98.60%, 212/215), whereas K64 (56.74%, 122/215) and KL25 (39.53%, 85/215) were the main capsular serotypes. The CR-hvKP strains showed significantly higher resistance to the tested antibiotics, except for ceftazidime/avibactam and colistin. Resistance rates of CR-hvKP to the three tested antibiotics (minocycline, cotrimoxazole, and amikacin) were higher than those of CRnon-hvKP. Phylogenetic analysis based on whole-genome single-nucleotide polymorphisms divided the 251 isolates into four independent branches, with branch 2 being the most prevalent, indicating high clonality among the strains. Multivariate analysis showed diabetes [odds ratio (OR) = 3.771] and surgery (OR =2.042) to be independent variables associated with CR-hvKP infection.ConclusionsNotably, the ST11 lineage carrying blaKPC-2 has emerged as a dominant high-risk clone in Huaian. Given the wide distribution of these novel CR-hvKP isolates, global monitoring and stricter control measures should be implemented to prevent their further spread in hospital settings. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1569004>
+
+---
+
+## Efficacy and safety of Saccharomyces boulardii CNCM I-745 for the treatment of pediatric acute diarrhea in China: a systematic review and meta-analysis
+
+date: 2025-06-04, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundPediatric acute gastroenteritis (PAGE) is a common cause of morbidity and mortality, especially in children under five years old. Therapeutic strategies including probiotics have been investigated, but trials from non-English speaking countries may not be easily accessible.AimTo determine the efficacy of Saccharomyces boulardii compared to controls for treating PAGE in children receiving standard rehydration therapy in trials conducted in China.MethodsSystematic review and meta-analysis using literature search with Google Scholar, PubMed, Embase, Cochrane Library, China National Knowledge Infrastructure and China Biology Medicine disc (from inception to June 30, 2024) of randomized, controlled trials comparing S. boulardii CNCM I-745 to controls for the treatment of PAGE in children conducted in China. Independent data extraction by two reviewers. Standard meta-analysis methods were applied and random-effect or fixed-effects models were used depending upon the degree of heterogeneity using standardized mean differences for continuous data and relative risk estimates for dichotomous outcomes. The risk of bias for each study was determined and heterogeneity was measured by I2.ResultsOf 851 articles screened, 10 RCTs (1125 participants) met the inclusion criteria, and none were found in non-Chinese databases. S. boulardii CNCM I-745 was found to significantly reduce the duration of PAGE (SMD=-1.63 days, 95% CI -2.08, -1.18), improve the total effectiveness rating (RR=1.22, 95% CI 1.16, 1.28) and significantly more participants were cured (RR=1.47, 95% CI 1.30, 1.67). The finding that S. boulardii significantly reduced the levels of two pro-inflammatory cytokines (TNF-α and IL8) has not been reported in previous meta-analyses of PAGE.ConclusionS. boulardii CNCM I-745 is an effective treatment for PAGE and was well tolerated in trials done in China.Systematic review registrationwww.crd.york.ac.uk/PRSPERO, identifier CRD 42024567537. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1587792>
 
 ---
 

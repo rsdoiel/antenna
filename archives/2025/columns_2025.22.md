@@ -1,11 +1,140 @@
 ---
 title: columns
-updated: 2025-06-03 14:09:35
+updated: 2025-06-04 06:08:10
 ---
 
 # columns
 
-(date: 2025-06-03 14:09:35)
+(date: 2025-06-04 06:08:10)
+
+---
+
+## Wednesday
+
+date: 2025-06-04, from: Doc Searls (at Harvard), New Old Blog
+
+In case you&#39;re not worried enough. All in Wired:A GPS Blackout Would Shut Down the World.The Texting Network for the End of the World.The Rise of ‘Vibe Hacking’ Is the Next AI Nightmare.The US Grid Attack Looming on the Horizon.You’re Not Ready for Quantum Cracks. 
+
+<br> 
+
+<https://doc.searls.com/2025/06/04/wednesday/>
+
+---
+
+## The Ramifications of Ukraine’s Drone Attack
+
+date: 2025-06-04, updated: 2025-06-03, from: Bruce Schneier blog
+
+<p>You can read the <a href="https://www.theguardian.com/world/2025/jun/02/operation-spiderweb-visual-guide-ukraine-drone-attack-russian-aircraft">details</a> of Operation Spiderweb elsewhere. What interests me are the implications for future warfare:</p>
+<blockquote><p>If the Ukrainians could sneak drones so close to major air bases in a police state such as Russia, what is to prevent the Chinese from doing the same with U.S. air bases? Or the Pakistanis with Indian air bases? Or the North Koreans with South Korean air bases? Militaries that thought they had secured their air bases with electrified fences and guard posts will now have to reckon with the threat from the skies posed by cheap, ubiquitous drones that cFan be easily modified for military use. This will necessitate a massive investment in counter-drone systems. Money spent on conventional manned weapons systems increasingly looks to be as wasted as spending on the cavalry in the 1930s...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/06/the-ramifications-of-ukraines-drone-attack.html>
+
+---
+
+## deliberate intentional practice
+
+date: 2025-06-04, from: Geoffrey Hunntley's blog
+
+<p>Something I&apos;ve been wondering about for a really long time is, essentially, why do people say AI doesn&apos;t work for them? What do they mean when they say that?</p><blockquote>From which identity are they coming from? Are they coming from the perspective of an engineer with</blockquote> 
+
+<br> 
+
+<https://ghuntley.com/play/>
+
+---
+
+## Office Hours: Has Trump changed the norms of presidential behavior? Or just made it harder for us to object to all the rotten things he’s up to? 
+
+date: 2025-06-04, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-has-trump-changed-the>
+
+---
+
+## curl 8.14.1
+
+date: 2025-06-04, from: Daniel Stenberg Blog
+
+This is a patch-release done only a week since the previous version with no changes merged only bugfixes. Because some of the regressions in 8.14.0 were a little too annoying to leave unattended for a full cycle. Release presentation Numbers the 268th release0 changes7 days (total: 9,938)35 bugfixes (total: 12,049)48 commits (total: 35,238)0 new public &#8230; <a href="https://daniel.haxx.se/blog/2025/06/04/curl-8-14-1/" class="more-link">Continue reading <span class="screen-reader-text">curl 8.14.1</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/06/04/curl-8-14-1/>
+
+---
+
+## June 3, 2025
+
+date: 2025-06-04, from: Heather Cox Richardson blog
+
+On June 1, Ukrainian forces struck deep inside Russia in &#8220;Operation Spider Web.&#8221; One hundred and seventeen drones, each operated by its own pilot, hit airfields in five regions. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-3-2025>
+
+---
+
+## ‘Physicality: The New Age of UI’
+
+date: 2025-06-04, updated: 2025-06-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.lux.camera/physicality-the-new-age-of-ui/>
+
+---
+
+## Wednesday 4 June, 2025
+
+date: 2025-06-03, from: John Naughton's online diary
+
+Orchids Quote of the Day ”Ten years ago, when your plane touched down in Dulles or DCA (Ronald Reagan Washington National Airport), you were coming home. Because we had been here for so long. And you would relax. Now I &#8230; <a href="https://memex.naughtons.org/wednesday-4-june-2025/40890/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-4-june-2025/40890/>
+
+---
+
+## The Three Huge Lies Trump is Telling Republican Senators about his Medicaid Cuts — to finance a big tax cut mostly for the wealthy
+
+date: 2025-06-03, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-three-huge-lies-trump-is-telling>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-03, from: Dave Winer's Scripting News)
+
+On today's Bill Simmons <a href="https://podcasts.apple.com/us/podcast/indianas-incredible-finals-run-a-knicks-summer/id1043699613?i=1000710778336">podcast</a>, their Knicks expert, <a href="https://www.theringer.com/creator/van-lathan">Van Lathan</a> <a href="https://youtu.be/9zHiCEhK7K8?si=IgvQiNKtzDPXenXW&t=2531">said</a> "I would under-react but they're going to over-react." I heard that about an hour before the Knicks fired their coach. I don't think it's good or bad, it could work out great. No one knows if this was The Season the Knicks were meant to go to the Finals, but if it was, maybe next year will be too? There's no right answer. Maybe this was Dolan's call. I hope not. 
+
+<br> 
+
+<http://scripting.com/2025/06/03.html#a211255>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-03, from: Dave Winer's Scripting News)
+
+"Courtesy" calls from insurance companies aren't. 
+
+<br> 
+
+<http://scripting.com/2025/06/03.html#a204836>
 
 ---
 

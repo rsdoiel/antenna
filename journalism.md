@@ -1,11 +1,133 @@
 ---
 title: journalism
-updated: 2025-06-03 14:09:36
+updated: 2025-06-04 06:08:12
 ---
 
 # journalism
 
-(date: 2025-06-03 14:09:36)
+(date: 2025-06-04 06:08:12)
+
+---
+
+## Classifieds – June 4, 2025
+
+date: 2025-06-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/04/classifieds-june-4-2025/">Classifieds &#8211; June 4, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/04/classifieds-june-4-2025/>
+
+---
+
+## ‘Dirty Fuzz’ brings puppets back into the public consciousness
+
+date: 2025-06-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Stark Producing Program created a ’70s puppet police pulp.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/04/dirty-fuzz-brings-puppets-back-into-the-public-consciousness/">‘Dirty Fuzz’ brings puppets back into the public consciousness</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/04/dirty-fuzz-brings-puppets-back-into-the-public-consciousness/>
+
+---
+
+## Lionsgate is Hollywood’s most vulnerable studio
+
+date: 2025-06-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Before “Ballerina” releases, let’s analyze the unique situation Lionsgate is facing.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/04/lionsgate-is-hollywoods-most-vulnerable-studio/">Lionsgate is Hollywood’s most vulnerable studio</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/04/lionsgate-is-hollywoods-most-vulnerable-studio/>
+
+---
+
+## Witness movie magic under the stars
+
+date: 2025-06-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Outdoor summer movie screenings kick off across Los Angeles.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/04/witness-movie-magic-under-the-stars/">Witness movie magic under the stars</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/04/witness-movie-magic-under-the-stars/>
+
+---
+
+## The Department of Animal Resources is in a ‘staffing crisis.’ Here’s what it means
+
+date: 2025-06-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC said hiring has resumed at the department in a “measured way” amid University-wide restrictions.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/04/the-department-of-animal-resources-is-in-a-staffing-crisis-heres-what-it-means/">The Department of Animal Resources is in a ‘staffing crisis.’ Here’s what it means</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/04/the-department-of-animal-resources-is-in-a-staffing-crisis-heres-what-it-means/>
+
+---
+
+## Seventeen individuals received more than $1 million from USC in the 2024 fiscal year, 990 form shows
+
+date: 2025-06-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Its highest-paid employee, football Head Coach Lincoln Riley, earned nearly $11.5 million. </p>
+<p>The post <a href="https://dailytrojan.com/2025/06/04/seventeen-usc-employees-earned-more-than-1-million-in-the-2024-fiscal-year-990-form-shows/">Seventeen individuals received more than $1 million from USC in the 2024 fiscal year, 990 form shows</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/04/seventeen-usc-employees-earned-more-than-1-million-in-the-2024-fiscal-year-990-form-shows/>
+
+---
+
+## Medical community claims unilateral UCLA leadership support in Israel-Hamas war
+
+date: 2025-06-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+On Oct. 16, 2023 &#8211; nine days after an attack by Palestinian political party and militant group Hamas killed around 1,200 people in Israel, and more than 2,700 Palestinians were killed by Israeli retaliatory airstrikes &#8211; UCLA Health administrative leaders sent an email to the medical community. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/03/medical-community-claims-unilateral-ucla-leadership-support-in-israel-hamas-war/>
+
+---
+
+## Former UCLA vice chancellor for academic affairs C.Z. Wilson dies at 95
+
+date: 2025-06-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Charles Zachary &#8220;C.Z.&#8221; Wilson, UCLA&#8217;s former vice chancellor for academic affairs, died Nov. 21, 2024. He was 95. 
+Wilson served as vice chancellor for academic affairs for 14 years and was the highest-ranking Black person to become a senior academic administrator at the University during his tenure. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/03/former-ucla-vice-chancellor-for-academic-affairs-c-z-wilson-dies-at-95/>
+
+---
+
+## Head in the Clouds 2025 Q&A: YOUHA discusses artistic process, move from Korean music industry to US market
+
+date: 2025-06-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+YOUHA’s versatility as a musician allows her to showcase her talent – wherever and whenever.
+Im You-ha, who performs with the mononym YOUHA, made her first appearance at the Head in the Clouds Music &#38; Arts Festival on Sunday afternoon. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/03/head-in-the-clouds-2025-qa-youha-discusses-artistic-process-move-from-korean-music-industry-to-us-market/>
 
 ---
 
