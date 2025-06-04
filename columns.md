@@ -1,11 +1,183 @@
 ---
 title: columns
-updated: 2025-06-04 06:08:10
+updated: 2025-06-04 14:08:02
 ---
 
 # columns
 
-(date: 2025-06-04 06:08:10)
+(date: 2025-06-04 14:08:02)
+
+---
+
+## Trump Administration’s ‘MAHA’ Report Cites Studies That Don’t Exist
+
+date: 2025-06-04, updated: 2025-06-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.notus.org/health-science/make-america-healthy-again-report-citation-errors>
+
+---
+
+## Joz Teases WWDC on X
+
+date: 2025-06-04, updated: 2025-06-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://x.com/gregjoz/status/1929558230990049758?s=12>
+
+---
+
+## James Dyson Proves That Live On-Stage Demos Are Still the Best
+
+date: 2025-06-04, updated: 2025-06-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/watch?v=ve6JuJV17FQ>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-04, from: Miguel de Icaza Mastondon feed)
+
+<p>Facebook got caught exploiting Android again to track you:</p><p><a href="https://localmess.github.io" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">localmess.github.io</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114626376234985366>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-04, from: Miguel de Icaza Mastondon feed)
+
+<p>I will try to make it - it is today:<br /><a href="https://mas.wrong.tools/@crystalvisits/114593299739628516" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mas.wrong.tools/@crystalvisits</span><span class="invisible">/114593299739628516</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114626367987108753>
+
+---
+
+## My keynote for FediForum
+
+date: 2025-06-04, from: Dave Winer's Scripting News
+
+<p><a href="https://fediforum.org/">FediForum</a> is a virtual conference that starts tomorrow. If they had asked me to keynote, this is roughly what I would say.</p>
+<p>Imho this stuff is pretty freaking simple, esp since there are well over 20 years of prior art to use, and not that many ways to do what we're trying to do. I'm impatient, so here's a quick set of observations with my opinion, take it for what it's worth, ymmv, etc. </p>
+<ul>
+<li>You shouldn't be reinventing so much. Always look around for <a href="http://essaysfromexodus.scripting.com/priorArtDesignMethod">prior art</a>. That will make it possible for you to interop more quickly at both a software level and at a human level. </li>
+<li>Don't invent stuff you think you may need later. Save that for later. You have no intuition for what's needed and more important nothing to test against. You will get it wrong 100 percent of the time.</li>
+<li>Don't invent stuff you think you may need later that makes what you're doing now more complicated. I see a lot of that in ActivityPub.  </li>
+<li>The only reason you're doing all this work is for interop. If you've been doing it for years and you don't have much meaningful interop you're doing it wrong.</li>
+<li>Write the software first. Use formats that exist, or if you must invent new stuff, make sure it's simple. Work on its simplicity as you would any other feature. Factor! If there are going to be 100 interoperable products and you make it a little more difficult to implement, that work will be multiplied 100 times. And it be a barrier to entry, so you may not get the most powerful interop possible with the most interesting products. </li>
+<li>Read and follow the <a href="https://this.how/standards/">Rules for Standards-makers</a>. There aren't that many. But if you're breaking them, you're not going to end up with a standard. If your goal is to appear to be making standards, you should also read RFSM, and don't do anything in it. I've seen people do that btw. </li>
+<li>Have you looked at the world outside the tech stuff to see how important this all has become? All the time we're wasting is very costly in everything that depends on the social web actually existing as opposed to just being talked about.</li>
+</ul>
+<p>Now, what would I request if I could influence you??</p>
+<ul>
+<li>Mastodon and Bluesky should support inbound and outbound RSS, and do it really well. Right now they do outbound only, and the implementations are incomplete at covering the functionality they have now, and there needs to be more (see the next item). </li>
+<li>They'd support the basic features of the <a href="https://textcasting.org/">textcasting</a> spec, including Markdown because it's a great standard, very much of the same school as RSS. If it had existed when we did RSS 2.0 it would have been part of it. </li>
+</ul>
+<p>That's it. Really not much work. </p>
+<p>From there we'd have 25 years of interop to explore. </p>
+<p>And we could really call this the open social web.</p>
+<p>I'm ready to do it any time you all are. </p>
+<p>Yours in not wasting time.</p>
+<p>Dave</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/04/162206.html?title=myKeynoteForFediforum>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-04, from: Dave Winer's Scripting News)
+
+Why doesn't Walt Frazier have a freaking podcast. Come on. (Jon Stewart did a <a href="https://www.youtube.com/watch?v=5dAKo76RtpM">series</a> of podcast-style interviews with him.) 
+
+<br> 
+
+<http://scripting.com/2025/06/04.html#a155028>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-04, from: Dave Winer's Scripting News)
+
+And btw one of these days I'm going to clear the time to write a useful and up to date RSS feed validator. The one the W3C uses is a total embarassment. I'm not even going to link to it it's so awful. 
+
+<br> 
+
+<http://scripting.com/2025/06/04.html#a153938>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-04, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/02/curly.gif" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If everything goes well, the <a href="http://scripting.com/rss.xml">RSS feed</a> for Scripting News will now have a channel-level image element because it's part of a network that requires an avatar-like image. This required me to go through some very old code that my system still depends on. It's remarkable how much time this seemingly small feature took to implement. One of these days I have to move this code to one of my more modern servers. One reason it took so long is that a random package that does something that never changes, had a breaking change in it. The breakage culture of the Node.js world is just plain fucked up, no other word for it. 
+
+<br> 
+
+<http://scripting.com/2025/06/04.html#a153212>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-04, from: Miguel de Icaza Mastondon feed)
+
+<p>When you publish a game with Xogot to the Web, in addition to playing it on the window, you can now download the zip file with all the assets, so you can upload to places like itch or host the game yourself.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114625728028212282>
+
+---
+
+## LLMs are mirrors of operator skill
+
+date: 2025-06-04, from: Geoffrey Hunntley's blog
+
+<p>This is a follow-up from my previous blog post: &quot;<a href="https://ghuntley.com/play/">deliberate intentional practice</a>&quot;. I didn&apos;t want to get into the distinction between skilled and unskilled because people take offence to it, but AI is a matter of skill. </p><blockquote>Someone can be highly experienced as a software engineer</blockquote> 
+
+<br> 
+
+<https://ghuntley.com/mirrors/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-04, from: Dave Winer's Scripting News)
+
+I had a neighbor and friend a long time ago named Ann Doerr. I used to joke with her how her name was a combination of two of the main types of <a href="https://en.wikipedia.org/wiki/Logic_gate">logic gates</a> in computers. I think that's what attracted me to the Star Wars Andor show. 
+
+<br> 
+
+<http://scripting.com/2025/06/04.html#a140908>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-04, from: Dave Winer's Scripting News)
+
+I've heard that <a href="https://en.wikipedia.org/wiki/Andor_(TV_series)">Andor</a> is great stuff. I'm on episode 6 of season 1, and it's the usual Star Wars bullshit. It was fun in 1978. But now? It's so freaking boring. Tell me it's worth continuing to watch, that it gets an actual plot at some point. 
+
+<br> 
+
+<http://scripting.com/2025/06/04.html#a140842>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-04, from: Dave Winer's Scripting News)
+
+I now have the special ChatGPT function I've been waiting for. <a href="https://openai.com/index/introducing-codex/">Codex</a>. Give it access to my entire <a href="https://github.com/scripting?tab=repositories">GitHub collection</a> and let it go. I stopped myself from authorizing, wanting to sleep on it. I know I'm going to do it, but.. Gulp. Do I really want to dump all my thinking for <a href="https://imgs.scripting.com/2025/06/04/samAltmanAndFriends.png">Sam Altman</a>? 
+
+<br> 
+
+<http://scripting.com/2025/06/04.html#a135841>
 
 ---
 
@@ -13,7 +185,7 @@ updated: 2025-06-04 06:08:10
 
 date: 2025-06-04, from: Doc Searls (at Harvard), New Old Blog
 
-In case you&#39;re not worried enough. All in Wired:A GPS Blackout Would Shut Down the World.The Texting Network for the End of the World.The Rise of ‘Vibe Hacking’ Is the Next AI Nightmare.The US Grid Attack Looming on the Horizon.You’re Not Ready for Quantum Cracks. 
+Not surprisingly,,, Meta and Yandex are de-anonymizing Android users’ web browsing identifiers. From Ars Technica. But not by much. WaPo: 5 AI bots took our tough reading test. One was smartest — and it wasn’t ChatGPT. It was Claude. Today&#39;s rollback link. Podcasts, Wallcasts, and Paycasts, from last October. A pull-quote from a comment: &#34;Paywalls are going up [&#8230;] 
 
 <br> 
 
@@ -23,9 +195,9 @@ In case you&#39;re not worried enough. All in Wired:A GPS Blackout Would Shut Do
 
 ## The Ramifications of Ukraine’s Drone Attack
 
-date: 2025-06-04, updated: 2025-06-03, from: Bruce Schneier blog
+date: 2025-06-04, updated: 2025-06-04, from: Bruce Schneier blog
 
-<p>You can read the <a href="https://www.theguardian.com/world/2025/jun/02/operation-spiderweb-visual-guide-ukraine-drone-attack-russian-aircraft">details</a> of Operation Spiderweb elsewhere. What interests me are the implications for future warfare:</p>
+<p>You can read the <a href="https://www.theguardian.com/world/2025/jun/02/operation-spiderweb-visual-guide-ukraine-drone-attack-russian-aircraft">details</a> of Operation Spiderweb elsewhere. What interests me are the <a href="https://www.washingtonpost.com/opinions/2025/06/01/ukraine-drone-attack-russia-bombers/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzQ4NzUwNDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzUwMTMyNzk5LCJpYXQiOjE3NDg3NTA0MDAsImp0aSI6IjQxY2YzZmE1LTQzYmUtNDY1My1hMzgwLTNkNGY5NTNmYjI1ZSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vcGluaW9ucy8yMDI1LzA2LzAxL3VrcmFpbmUtZHJvbmUtYXR0YWNrLXJ1c3NpYS1ib21iZXJzLyJ9.uEICNg4FZ_2HZMuKPAmdrMnq7SX1ZNdv6URdJGbRLwo&#038;utm_source=nextdraft&#038;utm_medium=website">implications</a> for future warfare:</p>
 <blockquote><p>If the Ukrainians could sneak drones so close to major air bases in a police state such as Russia, what is to prevent the Chinese from doing the same with U.S. air bases? Or the Pakistanis with Indian air bases? Or the North Koreans with South Korean air bases? Militaries that thought they had secured their air bases with electrified fences and guard posts will now have to reckon with the threat from the skies posed by cheap, ubiquitous drones that cFan be easily modified for military use. This will necessitate a massive investment in counter-drone systems. Money spent on conventional manned weapons systems increasingly looks to be as wasted as spending on the cavalry in the 1930s...</p></blockquote> 
 
 <br> 

@@ -1,19 +1,247 @@
 ---
 title: going electric
-updated: 2025-06-04 06:08:15
+updated: 2025-06-04 14:08:07
 ---
 
 # going electric
 
-(date: 2025-06-04 06:08:15)
+(date: 2025-06-04 14:08:07)
 
 ---
 
-## Europe Follows In China’s Footsteps With Megawatt EV Charging
+## Pipeline giant Enbridge just lit up its first Texas solar farm
+
+date: 2025-06-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Photos-courtesy-Enbridge-solar-texas.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Canadian oil and gas pipeline giant Enbridge just launched its first solar farm in Texas, adding more clean energy to its “all-of-the-above” energy mix, mainly <a href="https://www.enbridge.com/reports/2024-sustainability-report" target="_blank" rel="noreferrer noopener">fossil fuels</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,oil-and-gas,solar-power,texas" data-layer-viewtype="unknown" data-post-id="419090" href="https://electrek.co/2025/06/04/pipeline-giant-enbridge-texas-solar-farm/#more-419090" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/04/pipeline-giant-enbridge-texas-solar-farm/>
+
+---
+
+## The Kia EV4 actually looks pretty sharp in real life [Video]
+
+date: 2025-06-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Kia-EV4-real-life-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s new entry-level EV was spotted driving in the US with its official launch just around the corner. The <a href="https://electrek.co/guides/kia-ev4/">EV4</a> is Kia’s first electric sedan, and in real life, it looks even better.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" data-post-id="419089" href="https://electrek.co/2025/06/04/kia-ev4-actually-looks-pretty-sharp-in-real-life-video/#more-419089" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/04/kia-ev4-actually-looks-pretty-sharp-in-real-life-video/>
+
+---
+
+## How Ford And GM Are Plotting A Battery Breakup With China
 
 date: 2025-06-04, from: Inside EVs News
 
-Eight–minute charging stops are coming to Europe later this year, thanks to Ionity and Alpitronic. 
+Ford and General Motors are racing to develop a new type of electric vehicle battery. One engineer labeled it as “LFP of the West.” 
+
+<br> 
+
+<https://insideevs.com/news/761675/how-ford-gm-plan-ev-battery-breakup-with-china/>
+
+---
+
+## Mazda is betting that its first real EV can beat Trump’s ‘outrageous’ tariffs
+
+date: 2025-06-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Mazda-first-dedicted-EV-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Wait, <a href="https://electrek.co/guides/mazda/">Mazda</a> has an EV? Well, not yet. The company confirmed that the upcoming electric vehicle will be built in Japan. Although it will be made in Japan, Mazda is betting its first EV can beat the Trump administration’s ‘outrageous’ 25% auto tariffs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mazda" data-layer-viewtype="unknown" data-post-id="419051" href="https://electrek.co/2025/06/04/mazda-bets-on-first-ev-beat-trumps-outrageous-tariffs/#more-419051" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/04/mazda-bets-on-first-ev-beat-trumps-outrageous-tariffs/>
+
+---
+
+## Anker SOLIX 58L EverFrost 2 bundles at new exclusive lows from $749, Jackery HomePower 3000 bundle at new $1,994 low,  more
+
+date: 2025-06-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Anker-EverFrost-2-58L-electric-cooler-in-camping-SUV-e1749056804730.png?w=1600" /></div><p>Headlining today’s Green Deals are exclusive price cuts to new lows on two bundles for <a href="https://9to5toys.com/2025/06/04/exclusive-anker-solix-everfrost-2-58l-bundles-from-749/">Anker’s SOLIX EverFrost 2 58L Dual-Zone Electric Coolers starting from $749</a>. Right behind them is <a href="https://9to5toys.com/2025/06/03/jackery-flash-homepower-3000-solar-bundle-1994-low/">Jackery’s World Environment Day flash sale</a> through June 5<a href="https://9to5toys.com/2025/06/03/jackery-flash-homepower-3000-solar-bundle-1994-low/"> </a>that is taking up to 50% off power stations, along with extra 5% and 7% savings, which includes the new <a href="https://9to5toys.com/2025/06/03/jackery-flash-homepower-3000-solar-bundle-1994-low/">HomePower 3000 Solar Bundle</a> with two 200W panels at a new<a href="https://9to5toys.com/2025/06/03/jackery-flash-homepower-3000-solar-bundle-1994-low/"> $1,994 low</a>, among others. There’s also the <a href="https://9to5toys.com/2025/06/03/greenworks-13a-14-inch-corded-detatcher-scarifier-128/">Greenworks 13A 14-inch Corded Dethatcher/Scarifier down at $128</a>, as well as three more of the brand’s lawn care deals that are ripe for summer. Lastly, we have <a href="https://9to5toys.com/2025/06/04/aiper-hydrocomm-smart-pool-monitor-400/">Aiper’s new HydroComm Solar Smart Pool Monitor for $400</a>. Plus, there’s all the rest of the hangover Green Deals in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/06/02/up-to-723-bundles-lectric-e-bikes-from-999/">Lectric Father’s Day e-bike Sale launch</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="419057" href="https://electrek.co/2025/06/04/anker-solix-everfrost-2-bundles-jackery-more/#more-419057" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/04/anker-solix-everfrost-2-bundles-jackery-more/>
+
+---
+
+## Americans Are Turning More And More To Hybrids: Study
+
+date: 2025-06-04, from: Inside EVs News
+
+This is reflected in sales trends, with an increasing number of U.S. buyers choosing hybrids over pure electric options. 
+
+<br> 
+
+<https://insideevs.com/news/761658/americans-choose-hybrids-over-evs/>
+
+---
+
+## Open letter from auto dealer calls on Toyota to ‘do better’ on EVs
+
+date: 2025-06-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/06/Toyota-EV-stance.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>(<em>The following is an op-ed sent to us by Adam Lee, Chairman of Lee Auto Malls, in advance of Toyota’s June 10 annual shareholder meeting</em>)</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="418895" href="https://electrek.co/2025/06/04/open-letter-from-auto-dealer-calls-on-toyota-to-do-better-on-evs/#more-418895" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/04/open-letter-from-auto-dealer-calls-on-toyota-to-do-better-on-evs/>
+
+---
+
+## Lucid (LCID) secures US EV battery materials deal as push for ‘American-made’ heats up
+
+date: 2025-06-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Lucid-global-EV-expansion-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lucid (LCID) already builds some of the most “American-made” vehicles. All of its vehicles, drive units, battery packs, and modules are produced in Arizona. After securing a new deal for American-sourced Graphite, a critical material for EV batteries, <a href="https://electrek.co/guides/lucid-motors/">Lucid</a> is bolstering its US supply chain.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="419037" href="https://electrek.co/2025/06/04/lucid-lcid-secures-new-ev-battery-materials-supply-in-us/#more-419037" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/04/lucid-lcid-secures-new-ev-battery-materials-supply-in-us/>
+
+---
+
+## This California EV charging pilot saved drivers $200 a year and made the grid smarter
+
+date: 2025-06-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Enphase-IQ-EV_NACS-connector.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>An EV charging pilot in California is flipping the script on how and when we plug in, and it could save drivers hundreds while making the grid cleaner and more stable.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,ev-charging,grid,smart-electric-vehicle-charging,solar-smart-charging" data-layer-viewtype="unknown" data-post-id="418732" href="https://electrek.co/2025/06/04/ev-charging-pilot-saved-drivers-200-a-year-and-made-the-grid-smarter/#more-418732" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/04/ev-charging-pilot-saved-drivers-200-a-year-and-made-the-grid-smarter/>
+
+---
+
+## Electric Pickup Trucks Just Aren't Taking Off
+
+date: 2025-06-04, from: Inside EVs News
+
+Also, Nio cuts costs to get profitable while Toyota invests in itself for the long run.  
+
+<br> 
+
+<https://insideevs.com/news/761719/ev-trucks-flop-cm-nio/>
+
+---
+
+## Volkswagen Golf demand is plummeting as EV plans take over
+
+date: 2025-06-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Volkswagen-Golf-demand-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The beloved hatchback is falling out of favor. <a href="https://electrek.co/guides/volkswagen/">Volkswagen</a> is moving Golf production to Mexico as demand for the current gas-powered model sinks. The upcoming EV version will replace it in Germany alongside a new electric SUV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,vw" data-layer-viewtype="unknown" data-post-id="418989" href="https://electrek.co/2025/06/04/volkswagen-golf-demand-plummeting-ev-plans-take-over/#more-418989" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/04/volkswagen-golf-demand-plummeting-ev-plans-take-over/>
+
+---
+
+## New Tesla Model Y Boosts Sales in Two Key Markets. Is It Enough?
+
+date: 2025-06-04, from: Inside EVs News
+
+The refreshed Model Y shows Tesla still has some fight left in it, but whether the trend will catch on remains to be seen. 
+
+<br> 
+
+<https://insideevs.com/news/761682/tesla-sales-rebound-norway-australia/>
+
+---
+
+## Not dead yet: Bollinger Motors finds a savior in Mullen (again)
+
+date: 2025-06-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/bollinger-b4-start-production.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Electric truck startup Bollinger Motors seemed to be circling the drain last week, but a fresh investment from Mullen Automotive and a new/old face at the helm means there might be life in the medium-duty EV brand, yet. Here’s what we know, so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bollinger-motors,business,mullen" data-layer-viewtype="unknown" data-post-id="418992" href="https://electrek.co/2025/06/04/not-dead-yet-bollinger-motors-finds-its-savior-again/#more-418992" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/04/not-dead-yet-bollinger-motors-finds-its-savior-again/>
+
+---
+
+## Back from the dead? Bankrupted e-bike company SONDORS now pre-selling bikes again
+
+date: 2025-06-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/sondors-meta-at-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The SONDORS electric bicycle company infamously <a href="https://electrek.co/2023/08/22/signs-point-to-e-bike-company-sondors-in-peril-leaving-riders-stranded/">went bankrupt in 2023,</a> yet it now appears to be attempting a rise from the ashes. The company’s founder and former CEO Storm SONDORS is back at the helm and pre-selling a new electric motorbike with a somewhat familiar name – the Meta AT.</p>
+
+
+
+<p>But will riders be once bitten, twice shy?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,electric-motorcycle,sondors" data-layer-viewtype="unknown" data-post-id="418987" href="https://electrek.co/2025/06/04/back-from-the-dead-bankrupted-e-bike-company-sondors-now-pre-selling-bikes-again/#more-418987" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/04/back-from-the-dead-bankrupted-e-bike-company-sondors-now-pre-selling-bikes-again/>
+
+---
+
+## The Marine Corps Is Replacing 20-Year-Old Trucks With Silent Hybrids
+
+date: 2025-06-04, from: Inside EVs News
+
+Two companies are in the running to replace the aging Oshkosh MTVRs that went into service in 2001: Mack and ND Defense. 
+
+<br> 
+
+<https://insideevs.com/news/761411/marine-corps-mtt-hybrid-trucks/>
+
+---
+
+## Eight-Minute EV Fast-Charging Comes To Europe This Year
+
+date: 2025-06-04, from: Inside EVs News
+
+Thanks to Ionity and Alpitronic, Europe is following in China's footsteps with ultra-fast "megawatt" charging. 
 
 <br> 
 

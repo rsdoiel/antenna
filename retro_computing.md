@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-06-04 06:08:14
+updated: 2025-06-04 14:08:06
 ---
 
 # retro computing
 
-(date: 2025-06-04 06:08:14)
+(date: 2025-06-04 14:08:06)
 
 ---
 
@@ -499,7 +499,7 @@ But we have an alternative on the ANS ADB keyboard: the Command keys. The Comman
 <p>
 Lastly, I added some code to check the default or available visuals so that you can't (easily) run the wrong version in the wrong place and bumped the optimization level to <tt>-O3</tt>. And that's the game. Here's a video of it on the console, though I swapped in an LCD display so that the CRT flicker won't set you off. This is literally me pointing my Pixel 7 Pro camera at the screen.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dw9z1EVbalsvFkluQnUdbWCN-sS-tFCquy09m1-MRgXnMW4sNicDcMw6F7BjTHmFE7TAZ7GLw6r9Nrf4LKFEA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyDc1XCUChELqzOIX18SvJKfJHAeaRAT1ySgpNMjLE69muAmNQLgqX6l02vdh77qgyiDphXOXP8-6VQU8eR9g' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 However, this port should run just fine on anything else running AIX 4.1, not just the ANS. Sooooo ... let's get out something else running AIX 4.1!
 
@@ -511,7 +511,7 @@ Here's an IBM RS/6000 Notebook 860, another <a href="2022/09/the-mips-thinkpad-k
 
 This machine is a good test because it also runs 4.1.5 (but IBM vanilla AIX this time) and its GT20-based LCD display supports exactly the same 8-bit colour visual at 1024x768, yet it's a 166MHz PowerPC 603e, slower and with weaker integer performance than the 200MHz 604e we were previously using, plus it only has half the L1 cache and just 256K of L2.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dw_Sy2zPa9v-RbTbXrIuF1oAH2SmC5UUEZzyec3dRZkNGyMnRwDJ8_0jeh9OyAVeHwJ82tqq7JmOdGSlEqz9A' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzuSEsNJqGQdheQRzKwryv6xcVgJvZzN6gA355CkkcXv9gXPkbx8cxnE_fZupc5f_3a1JU7W8odAxhIrSAJYg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 Despite that, though, the game runs credibly. (Sorry about the bad angles but the 860's LCD isn't as good as the one I had attached to the ANS.) The only thing that I did notice was that disabling key repeat didn't work for the left and right keys &mdash; if you hold them down, they turn, stop, and then turn slower &mdash; while other keys seem normal. There is no option to change this on a per-key basis in CDE (remember, no Xkb) and near as I can determine the ANS and the 860 are configured the same. There may be a difference in the X server which I'll have to figure out later. Our target system remains the Network Server but it's nice to see it running other places.
 <p>

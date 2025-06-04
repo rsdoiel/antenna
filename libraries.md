@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2025-06-04 06:08:13
+updated: 2025-06-04 14:08:05
 ---
 
 # libraries
 
-(date: 2025-06-04 06:08:13)
+(date: 2025-06-04 14:08:05)
+
+---
+
+## Parisians in the Country, by Honoré de Balzac
+
+date: 2025-06-04, from: Standard Ebooks, new releaases
+
+Two stories of Parisians and their experiences with French provincials. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/honore-de-balzac/parisians-in-the-country/ellen-marriage>
 
 ---
 
@@ -89,7 +101,7 @@ Columbus is shown a history of the western hemisphere since his discoveries.
 
 date: 2025-06-02, from: Association of Research Libraries News
 
-<p>Last Updated on June 3, 2025, 1:43 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 3 &#124; Wednesday, June 4 &#124; Thursday,...</p>
+<p>Last Updated on June 4, 2025, 4:37 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 3 &#124; Wednesday, June 4 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-june-2-5/">Day in Review (June 2–5)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

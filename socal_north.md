@@ -1,23 +1,98 @@
 ---
 title: socal north
-updated: 2025-06-04 06:08:07
+updated: 2025-06-04 14:07:59
 ---
 
 # socal north
 
-(date: 2025-06-04 06:08:07)
+(date: 2025-06-04 14:07:59)
 
 ---
 
-## LA officials testify in high-profile federal court hearing on city’s homelessness spending
+## Newsom’s push to block law could save California nursing homes over $1 billion
 
 date: 2025-06-04, updated: 2025-06-04, from: The LAist
 
-Here are some key takeaways from the city administrative officer's and a deputy mayor's hours on the witness stand in downtown Los Angeles. 
+Gov. Gavin Newsom wants to block a state law that requires nursing homes to have 96 hours of backup power in the case of emergencies. 
 
 <br> 
 
-<https://laist.com/news/housing-homelessness/la-officials-testify-in-high-profile-federal-court-hearing-on-citys-homelessness-spending>
+<https://laist.com/news/health/newsoms-push-to-block-law-could-save-california-nursing-homes-over-1-billion>
+
+---
+
+## Motorcyclist dies after crashing into parked car near Veterans Stadium, Long Beach police say
+
+date: 2025-06-04, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Speed was believed to be a factor in the crash, police said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/motorcyclist-dies-after-crashing-into-parked-car-near-veterans-stadium-long-beach-police-say">Motorcyclist dies after crashing into parked car near Veterans Stadium, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/motorcyclist-dies-after-crashing-into-parked-car-near-veterans-stadium-long-beach-police-say>
+
+---
+
+## California needs more bilingual teachers; state bill opens door for Mexican instructors
+
+date: 2025-06-04, updated: 2025-06-04, from: The LAist
+
+Bill would expand teacher exchange program to help meet needs in dual immersion classes and help Spanish speaking students. 
+
+<br> 
+
+<https://laist.com/news/education/california-needs-more-bilingual-teachers-state-bill-opens-door-for-mexican-instructors>
+
+---
+
+## 'The Hapa Project' asked 'What are you?' Participants have new answers 25 years later
+
+date: 2025-06-04, updated: 2025-06-04, from: The LAist
+
+What does it mean to be "half?" Twenty-five years since its initial launch, photographer Kip Fulbeck revisits his exhibition called "The Hapa Project," an intimate look at mixed-race America. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/the-hapa-project-asked-what-are-you-participants-have-new-answers-25-years-later>
+
+---
+
+## FBI arrests man who allegedly aided Palm Springs clinic bomber
+
+date: 2025-06-04, updated: 2025-06-04, from: The LAist
+
+The investigation remains ongoing, and officials did not rule out that other people could be involved. 
+
+<br> 
+
+<https://laist.com/news/fbi-arrests-alleged-palm-springs-bombing-accomplice>
+
+---
+
+## California tariffs lawsuit thrown out, but it’s not over
+
+date: 2025-06-04, updated: 2025-06-04, from: The LAist
+
+State takes its tariffs fight to the 9th Circuit appeals court, which experts believe is more likely to give it a favorable ruling. 
+
+<br> 
+
+<https://laist.com/news/politics/california-tariffs-lawsuit-thrown-out-but-its-not-over>
+
+---
+
+## Overcast mornings and mild temps for SoCal
+
+date: 2025-06-04, updated: 2025-06-04, from: The LAist
+
+Overcast mornings return to the area before a warm up later this week. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/overcast-mild-temps-socal>
 
 ---
 
@@ -30,6 +105,18 @@ Depending on who you ask, charter schools represent either an existential threat
 <br> 
 
 <https://laist.com/news/education/los-angeles-charter-schools-guide>
+
+---
+
+## LA officials testify in high-profile federal court hearing on city’s homelessness spending
+
+date: 2025-06-04, updated: 2025-06-04, from: The LAist
+
+Here are some key takeaways from the city administrative officer's and a deputy mayor's hours on the witness stand in downtown Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-officials-testify-in-high-profile-federal-court-hearing-on-citys-homelessness-spending>
 
 ---
 
@@ -85,7 +172,7 @@ Tropical moisture rolls into the region, bringing thunder and rain. The muggines
 
 date: 2025-06-03, from: Longbeach Post
 
-<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Police said she is being held without bail, and they asked anyone who may have been victimized by her to contact officers.</p>
 <p>The post <a href="https://lbpost.com/news/crime/lbusd-aide-child-pornography-arrest-long-beach-disabled">LBUSD aide who worked with disabled children arrested on suspicion of distributing child pornography, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -100,7 +187,7 @@ date: 2025-06-03, from: Longbeach Post
 
 date: 2025-06-03, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03140618/rendering-la28-paralympic-venue-plan-long-beach-blind-football-para-swimming-para-climbing-2025-737210-r4l82hjm-024768-EaOkhmKT-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Weeks after 11 Olympic events come to town in 2028, seven Paralympic events will be hosted along the waterfront and at Marine Stadium.</p>
 <p>The post <a href="https://lbpost.com/news/long-beach-will-host-7-events-in-the-2028-paralympic-games">Long Beach will host 7 events in the 2028 Paralympic Games </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

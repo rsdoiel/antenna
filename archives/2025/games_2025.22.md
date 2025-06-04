@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-06-04 06:08:11
+updated: 2025-06-04 14:08:04
 ---
 
 # games
 
-(date: 2025-06-04 06:08:11)
+(date: 2025-06-04 14:08:04)
+
+---
+
+## Here’s how much storage space the Switch 2 actually has
+
+date: 2025-06-04, updated: 2025-06-04, from: Polygon Website
+
+Nintendo Switch 2 will launch with 256 GB of internal storage — eight times the storage size of the original Switch. But some portion of that advertised 256 GB of storage is gobbled up by the Switch 2’s system software, meaning users won’t have access to the entire amount. That’s typical of virtually any device; [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/603892/storage-space-capacity-size-ufs>
+
+---
+
+## Where to watch Summer Game Fest 2025
+
+date: 2025-06-04, updated: 2025-06-04, from: Polygon Website
+
+Summer Game Fest is back in 2025, in which host Geoff Keighley presents several hours of video game announcements, trailers, and world premieres. As always, expect updates on games that have been previously announced, alongside some likely reveals of new games. Also, Hideo Kojima. Here’s everything we know about the biggest gaming news event of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/events/603536/summer-game-fest-sgf-2025-where-to-watch-start-times>
+
+---
+
+## Watch PlayStation’s new State of Play here
+
+date: 2025-06-04, updated: 2025-06-04, from: Polygon Website
+
+Sony is joining the Summer Game Fest fray with a new State of Play showcase coming on Wednesday, June 4. Sony Interactive Entertainment promises “news and updates on must-play games coming to PS5,” during the event, with “a selection of great games from creators across the globe.” The new State of Play showcase will stream [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/603104/sony-playstation-state-of-play-june-2025-start-time>
+
+---
+
+## Revenant Remembrance quest walkthrough in Elden Ring Nightreign
+
+date: 2025-06-04, updated: 2025-06-04, from: Polygon Website
+
+The Revenant&#8217;s Remembrance quest in Elden Ring Nightreign might not be as involved as the some of the other quests (like, says, the Duchess&#8216;), but it gives the Revenant some of her best relics. There&#8217;s also a fair bit of character lore about how the Revenant came to be a sentient doll with a trio [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/603759/revenant-remembrance-walkthrough-steps-rewards>
+
+---
+
+## Raider Remembrance quest walkthrough in Elden Ring Nightreign
+
+date: 2025-06-04, updated: 2025-06-04, from: Polygon Website
+
+The Raider&#8217;s Remembrance quests in Elden Ring Nightreign take on a different form compared to the Recluse&#8216;s and Duchess&#8216;. True to his nature, the Raider&#8217;s memories are all about big, arena-style fights against intimidating opponents. There&#8217;s a bit less lore in this set of quests, but you get some excellent relics for the Raider. This [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/603830/raider-remembrance-walkthrough-steps-rewards>
+
+---
+
+## Ironeye remembrance quest walkthrough in Elden Ring Nightreign
+
+date: 2025-06-04, updated: 2025-06-04, from: Polygon Website
+
+Ironeye’s Remembrance quests in Elden Ring Nightreign give you more understanding about this deadly assassin, including where they come before having been summoned to the Roundtable. The series of missions you’re sent to complete this remembrance involve not only facing special enemies but also defeating Nightreign’s final boss.  Completing Ironeye’s remembrance quest is an arduous [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/603569/ironeye-remembrance-walkthrough-steps-rewards>
+
+---
+
+## How to set up your Switch 2 and transfer data from Switch 1
+
+date: 2025-06-04, updated: 2025-06-04, from: Polygon Website
+
+Setting up a new Switch 2 and transferring your games and save data over from an original Switch is a pretty painless process. As long as you have a Nintendo Account and a little bit of time — roughly 30 minutes — you should have your Switch 2 up and running in no time.  But there [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/603835/setup-switch-data-transfer-how-to>
+
+---
+
+## Duchess Remembrance quest walkthrough in Elden Ring Nightreign
+
+date: 2025-06-04, updated: 2025-06-04, from: Polygon Website
+
+The Duchess&#8216; Remembrance quest in Elden Ring Nightreign is where you&#8217;ll find some essential lore about what&#8217;s going on in Roundtable Hold and who some of the Nightfarers are. It&#8217;s one of Nightreign&#8216;s longest and most involved quest chains, and completing it requires you to defeat at least half of all the main bosses. However, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/603705/duchess-remembrance-walkthrough-steps-rewards>
+
+---
+
+## I promise you missed the Talk to Me cameo in Bring Her Back
+
+date: 2025-06-04, updated: 2025-06-04, from: Polygon Website
+
+After Australian actor Sophie Wilde starred as Mia, the (literally) haunted protagonist of Danny and Michael Philippou’s debut horror movie Talk to Me, the writer-directors promised her they’d work with her again — even though she wasn’t going to lead their follow-up, Bring Her Back. “We made a deal that she would appear in every single [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/603821/bring-her-back-easter-eggs-talk-to-me-cameo-connections-same-universe>
+
+---
+
+## Say goodbye to streaming apps on the Switch 2
+
+date: 2025-06-04, updated: 2025-06-04, from: Polygon Website
+
+Thousands of games will be backwards compatible with the Nintendo Switch 2 — but streaming apps are getting left behind. Ahead of the Nintendo Switch 2’s launch on June 5, players are keeping an eagle-eye on Nintendo’s compatibility page, which lists how many games have been tested for compatibility with the new console.&#160; As of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/603464/tv-streaming-apps-hulu-crunchyroll>
 
 ---
 

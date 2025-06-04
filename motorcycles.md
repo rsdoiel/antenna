@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-06-04 06:08:14
+updated: 2025-06-04 14:08:06
 ---
 
 # motorcycles
 
-(date: 2025-06-04 06:08:14)
+(date: 2025-06-04 14:08:06)
+
+---
+
+## Piaggio Scooters Just Got a 4-Year Warranty, But Not In the US
+
+date: 2025-06-04, from: Ride Apart, Electric Motorcycle News
+
+This includes scooters not just from Piaggio, but from Vespa and Aprilia, too. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/761476/piaggio-scooters-4year-warranty-europe/>
+
+---
+
+## Legendary Isle of Man TT Rider Had a Terrifying 140 Mph Season-Ending Crash
+
+date: 2025-06-04, from: Ride Apart, Electric Motorcycle News
+
+This could've been infinitely worse. 
+
+<br> 
+
+<https://www.rideapart.com/news/761469/peter-hickman-140-mph-tt-crash/>
 
 ---
 
@@ -131,7 +156,7 @@ This was a serious crash, and she's lucky to be out of a coma.
 
 ---
 
-## Hunting E-Bike Maker Backou Has Two New Dirt Bikes To Get You Further Into the Woods
+## Hunting E-Bike Maker Bakcou Has Two New Dirt Bikes To Get You Further Into the Woods
 
 date: 2025-06-02, from: Ride Apart, Electric Motorcycle News
 

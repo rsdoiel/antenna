@@ -1,11 +1,79 @@
 ---
 title: writing
-updated: 2025-06-04 06:08:11
+updated: 2025-06-04 14:08:03
 ---
 
 # writing
 
-(date: 2025-06-04 06:08:11)
+(date: 2025-06-04 14:08:03)
+
+---
+
+## What is Dramatic Irony and How to Use It in Screenplays?
+
+date: 2025-06-04, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/what-is-dramatic-irony-and-how-to-use-it-in-screenplays" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Ewan%20McGregor%20and%20Hayden%20Christensen%20in%20Star%20Wars%20Episode%20III%20-%20Revenge%20of%20the%20Sith%20.png" alt="Ewan McGregor and Hayden Christensen in Star Wars Episode III - Revenge of the Sith " class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>In the simplest terms, <span style="font-weight: bold;">dramatic irony</span> in storytelling is when the audience knows something the characters don’t. Oftentimes, the characters would have benefited from this knowledge and it would have taken them down a less troublesome or, in some cases, tragic path (also known as “tragic irony”).&nbsp;<br><br>Dramatic irony in storytelling is often achieved by showing or revealing something to the audience that one of the main characters hasn’t witnessed or heard (this is sometimes referred to as “proleptic irony”). There are many possibilities for what could happen in a story with dramatic irony, but firstly it’s important to know how it differs from another form of irony.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/what-is-dramatic-irony-and-how-to-use-it-in-screenplays>
+
+---
+
+## The Dark, Remains, and New Edge Sword & Sorcery Magazine: Short Fiction Reviews by Paula Guran
+
+date: 2025-06-04, from: Locus Magazine
+
+<p>The Dark 3/25
+Remains #1
+New Edge Sword &#38; Sorcery Magazine #3, #4</p>
+<p><strong>Louis Inglis Hall</strong>’s “<strong>Malo Malo Malo Malo</strong>” in The Dark #118 is a stunning and indescribable story about a powerful man compelled to build a house on a site where his ancestral manor once stood. A very strange, recommended read. In <strong>Gio Clairval</strong>’s “Famil­iar Things”, the issue’s other original, a couple makes a  <a href="https://locusmag.com/2025/06/the-dark-remains-and-new-edge-sword-sorcery-magazine-short-fiction-reviews-by-paula-guran/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/the-dark-remains-and-new-edge-sword-sorcery-magazine-short-fiction-reviews-by-paula-guran/>
+
+---
+
+## Scriptnotes, Episode 687: How to Not Ruin Your First Film, Transcript
+
+date: 2025-06-04, from: John August blog
+
+<p>The original post for this episode can be found here. John August: Hello and welcome. My name is John August. Craig Mazin: My name is Craig Mazin. John: You’re listening to episode 687 of Scriptnotes. It’s a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, we answer listener questions [&#8230;]</p>
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-687-how-to-not-ruin-your-first-film-transcript">Scriptnotes, Episode 687: How to Not Ruin Your First Film, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-687-how-to-not-ruin-your-first-film-transcript>
+
+---
+
+## Dengue Boy by Michel Nieva: Review by Jake Casella Brookins
+
+date: 2025-06-04, from: Locus Magazine
+
+<p><strong>Dengue Boy</strong>, Michel Nieva (Astra House 9781662602658, $25.00, 224pp, hc) February 2025. Cover by Sophy Hollington.</p>
+<p>Michel Nieva’s <strong>Dengue Boy</strong>, translated by Rahul Bery, is an exuberant, gore-spattered romp of a climate fiction novel, shot through with cosmic terrors and delivered in a pyretic, exclamatory style. There are incredible horrors here, at the level of the globe and of the body, but the novel has an undeniable comic  <a href="https://locusmag.com/2025/06/dengue-boy-by-michel-nieva-review-by-jake-casella-brookins/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/dengue-boy-by-michel-nieva-review-by-jake-casella-brookins/>
+
+---
+
+## Introducing “Future Knowledge”: A New Podcast from Internet Archive and Authors Alliance
+
+date: 2025-06-04, from: Author's Union blog
+
+We’re thrilled to announce the launch of Future Knowledge, a new podcast from the Internet Archive and Authors Alliance. Future [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/06/04/introducing-future-knowledge-a-new-podcast-from-internet-archive-and-authors-alliance/>
 
 ---
 
@@ -71,7 +139,7 @@ date: 2025-06-03, from: Locus Magazine
 
 date: 2025-06-03, from: John August blog
 
-New forms of video creation are coming to disrupt the entertainment industry, but will they succeed? John and Craig look at verticals and Veo 3 to see where we might be heading, and what our industry’s past innovations might tell us about about the future. We also look at Memorial Day’s banner box office, and [&#8230;]
+<p>New forms of video creation are coming to disrupt the entertainment industry, but will they succeed? John and Craig look at verticals and Veo 3 to see where we might be heading, and what our industry’s past innovations might tell us about about the future. We also look at Memorial Day’s banner box office, and [&#8230;]</p>
 The post <a href="https://johnaugust.com/2025/the-old-new-video-problem">The Old New Video Problem</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
 
 <audio crossorigin="anonymous" controls="controls">
@@ -254,7 +322,7 @@ date: 2025-06-01, from: Locus Magazine
 
 date: 2025-06-01, from: John August blog
 
-After 14 years, we&#8217;ve finally added a proper YouTube channel for Scriptnotes. In addition to several of our most-loved episodes, we have shorter weekly videos drawn from past conversations. Here are the first two, focusing on Die Hard and Greta Gerwig&#8217;s approach to screenwriting. In the obligatory parlance of YouTube, make sure to hit that [&#8230;]
+<p>After 14 years, we&#8217;ve finally added a proper YouTube channel for Scriptnotes. In addition to several of our most-loved episodes, we have shorter weekly videos drawn from past conversations. Here are the first two, focusing on Die Hard and Greta Gerwig&#8217;s approach to screenwriting. In the obligatory parlance of YouTube, make sure to hit that [&#8230;]</p>
 The post <a href="https://johnaugust.com/2025/scriptnotes-on-youtube-2">Scriptnotes on YouTube</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
 
 <br> 

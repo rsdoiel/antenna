@@ -1,11 +1,99 @@
 ---
 title: north america
-updated: 2025-06-04 06:08:06
+updated: 2025-06-04 14:07:59
 ---
 
 # north america
 
-(date: 2025-06-04 06:08:06)
+(date: 2025-06-04 14:07:59)
+
+---
+
+## SCOTUS Wants to Expand the Second Amendment. Why?
+
+date: 2025-06-04, from: The Contrarian
+
+The Supreme Court is gearing up to expand the Second Amendment even further. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165193333/2586b8f247ff678157ceff27e9442e1f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165193333/2586b8f247ff678157ceff27e9442e1f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/scotus-wants-to-expand-the-second>
+
+---
+
+## Trump Betrays Veterans: Paul Rieckhoff on June 6 Veterans Protest and Standing Up for Americans Who Served
+
+date: 2025-06-04, from: The Contrarian
+
+Upcoming veterans protests provide a "unique opportunity to unite veterans of all backgrounds who are pissed off and have had enough" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165188673/29a022e7b0a31a24bd75e028783be94e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165188673/29a022e7b0a31a24bd75e028783be94e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/trump-betrays-veterans-paul-rieckhoff>
+
+---
+
+## Veterans’ D-Day rally is a chance to set the media straight
+
+date: 2025-06-04, from: The Contrarian
+
+Americans need to know how Trump is hurting those who served. 
+
+<br> 
+
+<https://contrarian.substack.com/p/veterans-d-day-rally-is-a-chance>
+
+---
+
+## When women wield power to do active harm
+
+date: 2025-06-04, from: The Contrarian
+
+Joni Ernst proves that representative parity alone is not enough to ensure a feminist democracy. 
+
+<br> 
+
+<https://contrarian.substack.com/p/when-women-wield-power-to-do-active>
+
+---
+
+##  AI Is Coming For Your Credit Union 
+
+date: 2025-06-04, from: The Lever News
+
+ The federal watchdog tasked with overseeing credit unions has no authority to regulate how they’re using artificial intelligence.  
+
+<br> 
+
+<https://www.levernews.com/ai-is-coming-for-your-credit-union/>
+
+---
+
+## For Trump, 'The state is me'
+
+date: 2025-06-04, from: The Contrarian
+
+That's why his administration wants to subject government employees to loyalty tests. 
+
+<br> 
+
+<https://contrarian.substack.com/p/for-trump-the-state-is-me>
+
+---
+
+## Coffee with The Contrarians 06/04
+
+date: 2025-06-04, from: The Contrarian
+
+A recording from Coffee with the Contrarians LIVE 06/04 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0604>
 
 ---
 
@@ -30,6 +118,18 @@ date: 2025-06-04, from: The Lever News
 <br> 
 
 <https://www.levernews.com/why-the-trump-protests-will-fail/>
+
+---
+
+##  The Trump Protests Will Fail — Unless People Do This 
+
+date: 2025-06-04, from: The Lever News
+
+ The resistance won’t succeed until it stops being a performance and starts challenging the system that got us here.  
+
+<br> 
+
+<https://www.levernews.com/the-trump-protests-will-fail-unless-people-do-this/>
 
 ---
 
@@ -149,7 +249,7 @@ Anti-science theories are now jeopardizing the core health and science missions 
 
 date: 2025-06-03, from: The Contrarian
 
-Tuesday: Tesla Takedowns in Arizona, California, Ohio, and Massachusetts, protests against ICE, and more. 
+Wednesday: Protest isn't always people in the streets with signs. Today, protest by a TV weatherman, T-shirts, and charitable donations, and more. 
 
 <br> 
 

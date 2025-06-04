@@ -1,11 +1,123 @@
 ---
 title: pacific
-updated: 2025-06-04 06:08:08
+updated: 2025-06-04 14:08:00
 ---
 
 # pacific
 
-(date: 2025-06-04 06:08:08)
+(date: 2025-06-04 14:08:00)
+
+---
+
+## Q&A: UH geriatrics expert on Alzheimer’s disease
+
+date: 2025-06-04, from: University of Hawaiʻi News
+
+<p>Gina Fujikami answers key questions on Alzheimer’s diagnosis, prevention, and support for <span aria-label="Hawaii">Hawai&#699;i</span>’s aging population.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/04/understanding-alzheimers-disease/"><abbr>Q</abbr>&<abbr>A</abbr>: <abbr>UH</abbr> geriatrics expert on Alzheimer’s disease</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/04/understanding-alzheimers-disease/>
+
+---
+
+## Image of the Week: ‘Disconnection in the Age of Hyperconnection’
+
+date: 2025-06-04, from: University of Hawaiʻi News
+
+<p>This week's image is from <abbr>UH</abbr> Mānoa's Melissa Takahashi.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/04/image-of-the-week-disconnection/">Image of the Week: ‘Disconnection in the Age of Hyperconnection’</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/04/image-of-the-week-disconnection/>
+
+---
+
+## UH astronomers discover the biggest explosion since the Big Bang
+
+date: 2025-06-04, from: University of Hawaiʻi News
+
+<p><abbr>IfA</abbr> researchers uncovered a new kind of cosmic explosion, named extreme nuclear transients which occur when massive stars are shredded by supermassive black holes.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/04/biggest-explosion-since-big-bang/"><abbr>UH</abbr> astronomers discover the biggest explosion since the Big Bang</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/04/biggest-explosion-since-big-bang/>
+
+---
+
+## Chip Fletcher selected as dean of UH Mānoa SOEST
+
+date: 2025-06-04, from: University of Hawaiʻi News
+
+<p>Climate scientist Chip Fletcher has been named dean of <abbr>UH</abbr> Mānoa’s School of Ocean and Earth Science and Technology, bringing decades of leadership and expertise to the role.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/04/fletcher-selected-soest-dean/">Chip Fletcher selected as dean of <abbr>UH</abbr> Mānoa <abbr>SOEST</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/04/fletcher-selected-soest-dean/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-06-04, updated: 2025-06-04, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Poetry
+
+date: 2025-06-04, updated: 2025-06-04, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_c2a8101c-a545-445c-8a04-68142a3e29af.html>
+
+---
+
+## Book review: Michael Luo tells the harrowing story of Chinese exclusion in America
+
+date: 2025-06-04, updated: 2025-06-04, from: Marianas Variety
+
+(AP) — The history of Chinese immigrants in America has always been about much more than one particular ethnic group. As Michael Luo’s “Strangers in the Land: Exclusion, Belonging and the Epic Story of the Chinese in America” demonstrates, understanding America’s efforts to keep Chinese laborers out, and the violence enacted against those who stayed in, is essential to understanding the evolution of America’s immigration system as we know it today. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/book-review-michael-luo-tells-the-harrowing-story-of-chinese-exclusion-in-america/article_5973756e-40d6-4b41-ab57-48dd30fd7c3a.html>
+
+---
+
+## Pulp is back for ‘More,’ their first album in 24 years. Even the Britpop band is surprised
+
+date: 2025-06-04, updated: 2025-06-04, from: Marianas Variety
+
+NEW YORK (AP) — Pulp has returned with a new album, their first in 24 years. Who could’ve predicted that? 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/pulp-is-back-for-more-their-first-album-in-24-years-even-the-britpop-band/article_d4322557-ffe1-431a-93ba-c391bdbb0d02.html>
+
+---
+
+## Joeten-Kiyu Public Library summer hours announcement
+
+date: 2025-06-04, updated: 2025-06-04, from: Marianas Variety
+
+(JKPL) — Attention library patrons! Joeten-Kiyu Public Library is excited to announce its 2025 temporary summer hours, effective Tuesday, June 17, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/joeten-kiyu-public-library-summer-hours-announcement/article_07c1c093-2ef8-4d84-82e6-44511d11191f.html>
 
 ---
 
@@ -794,30 +906,6 @@ date: 2025-06-02, updated: 2025-06-03, from: Marianas Variety
 <br> 
 
 <https://www.mvariety.com/lifestyle/lilo-stitch-passes-sinners-to-become-2nd-highest-grossing-film-of-2025/article_abe3f61b-8fe3-4be7-b14c-4ecaccd7b00d.html>
-
----
-
-## Variety editor’s 4th book available at Joeten Susupe
-
-date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
-
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
-
----
-
-## Poetry
-
-date: 2025-06-02, updated: 2025-06-02, from: Marianas Variety
-
- 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/poetry/article_c2a8101c-a545-445c-8a04-68142a3e29af.html>
 
 ---
 

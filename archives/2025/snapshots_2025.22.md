@@ -1,11 +1,212 @@
 ---
 title: snapshots
-updated: 2025-06-04 06:08:18
+updated: 2025-06-04 14:08:09
 ---
 
 # snapshots
 
-(date: 2025-06-04 06:08:18)
+(date: 2025-06-04 14:08:09)
+
+---
+
+## EagleFiler 1.9.17
+
+date: 2025-06-04, from: Michael Tsai
+
+EagleFiler 1.9.17 is a maintenance release of my digital filing cabinet and e-mail archiving app. This version improves capturing Web pages from Orion and Safari, works better with different font sizes, and improves tag auto-completion and searching. Some interesting issues were: If JavaScript is disabled in Safari, the do JavaScript AppleScript command doesn&#8217;t raise an [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/04/eaglefiler-1-9-17/>
+
+---
+
+## SwiftUI macOS Sheet Buttons
+
+date: 2025-06-04, from: Michael Tsai
+
+Sam Rowlands: Sheet dialog buttons don&#8217;t meet the macOS human interface guidelines by default, I&#8217;ve tried some solutions in the past, but then I stumbled across a really simple way to do it and I&#8217;m sharing that now.[&#8230;]Yes, it&#8217;s that simple, use a toolbar and the placement attributes to specify which buttons perform which action [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/04/swiftui-macos-sheet-buttons/>
+
+---
+
+## OmniFocus 4.6
+
+date: 2025-06-04, from: Michael Tsai
+
+Ainsley Bourque Olson (release notes): Notes are a great way to add additional context to an item in OmniFocus, and OmniFocus 4.6 makes it easier than ever to add content from outside of OmniFocus to a note, without bringing unnecessary font styles along for the ride. With this update, OmniFocus now defaults to an improved [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/04/omnifocus-4-6/>
+
+---
+
+## The iPhone 15 Pro’s Depth Maps
+
+date: 2025-06-04, from: Michael Tsai
+
+Mark Litwintschik (Hacker News): Finn Jaeger, who is the head of VFX at Replayboys, a film production firm in Hamburg, Germany, posted a screenshot a few weeks ago showing how multiple depth maps were being produced by his iPhone.He announced he was working on a project called HEIC Shenanigans. This project contains scripts to separate [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/04/the-iphone-15-pros-depth-maps/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-04, from: Dave Winer's linkblog)
+
+Musk urges Americans to tell lawmakers to &#39;kill the bill.&#39; 
+
+<br> 
+
+<https://www.bbc.com/news/articles/c0j76djzgpvo>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-04, from: Dave Winer's linkblog)
+
+Columbia failed to meet accreditation standards, US government says. 
+
+<br> 
+
+<https://www.reuters.com/world/us/us-education-department-says-columbia-university-violated-federal-anti-2025-06-04/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-04, from: Dave Winer's linkblog)
+
+The ‘big, beautiful bill’ secretly dismantles the civil service. 
+
+<br> 
+
+<https://thehill.com/opinion/congress-blog/5331433-the-big-beautiful-bill-secretly-dismantles-the-civil-service/>
+
+---
+
+## Google Restricts Android Sideloading—What It Means for User Autonomy and the Future of Mobile Freedom
+
+date: 2025-06-04, from: Purism News and Events
+
+<p>Google has recently implemented new restrictions on sideloading Android apps, citing growing security concerns. In a pilot program launched in Singapore, the tech giant now blocks the installation of certain sideloaded apps—particularly those requesting sensitive permissions such as SMS access or accessibility services—if they are downloaded via web browsers, messaging apps, or file managers. The move, developed in partnership with Singapore's Cyber Security Agency, is designed to prevent fraud and malware-enabled scams.</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/">Google Restricts Android Sideloading—What It Means for User Autonomy and the Future of Mobile Freedom</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br> 
+
+<https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-04, from: Dave Winer's linkblog)
+
+My friend Scott Knaster said no to Steve Jobs. Great story. 
+
+<br> 
+
+<https://scottknaster.substack.com/p/jobs-interview>
+
+---
+
+## Apple Gave Governments Data on Thousands of Push Notifications
+
+date: 2025-06-04, from: 404 Media Group
+
+Push notification data can sometimes include the unencrypted content of notifications. Requests include from the U.S., U.K., Germany, and Israel.
+ 
+
+<br> 
+
+<https://www.404media.co/apple-gave-governments-data-on-thousands-of-push-notifications/>
+
+---
+
+## Bluefox NX1 is a cheap phone with a 4 inch display
+
+date: 2025-06-04, from: Liliputing
+
+<p>Smartphones with small screens used to be so common that any phone with a display larger than many people labeled phones with 5 inch or larger screens as phablets. But these days it&#8217;s hard to find phones with screens smaller* than that. So it&#8217;s interesting to see that Chinese phone maker Bluefox has introduced a new [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/bluefox-nx1-is-a-cheap-phone-with-a-4-inch-display/">Bluefox NX1 is a cheap phone with a 4 inch display</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/bluefox-nx1-is-a-cheap-phone-with-a-4-inch-display/>
+
+---
+
+## The Art of the Pivot
+
+date: 2025-06-04, from: Guy Kawasaki blog
+
+When to change course without losing your way. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/the-art-of-the-pivot>
+
+---
+
+## Why Do Christians Love AI Slop?
+
+date: 2025-06-04, from: 404 Media Group
+
+Why is so much AI slop about Jesus and the Bible, and why do Christians appear to love it? 
+
+<br> 
+
+<https://www.404media.co/why-do-christians-love-ai-slop/>
+
+---
+
+## LLMs are mirrors of operator skill
+
+date: 2025-06-04, from: Geoffrey Hunntley's blog
+
+<p>This is a follow-up from my previous blog post: &quot;<a href="https://ghuntley.com/play/">deliberate intentional practice</a>&quot;. I didn&apos;t want to get into the distinction between skilled and unskilled because people take offence to it, but AI is a matter of skill. </p><blockquote>Someone can be highly experienced as a software engineer</blockquote> 
+
+<br> 
+
+<https://ghuntley.com/mirrors/>
+
+---
+
+## The IRS Tax Filing Software TurboTax Is Trying to Kill Just Got Open Sourced
+
+date: 2025-06-04, from: 404 Media Group
+
+Direct File has been open sourced, and its creators have left government to continue working on the "future of tax filing."  
+
+<br> 
+
+<https://www.404media.co/directfile-open-source-irs-tax-filing-software-turbotax-is-trying-to-kil/>
+
+---
+
+## Fighting Fire With Fire
+
+date: 2025-06-04, updated: 2025-06-04, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/06/04/fighting-fire-with-fire/>
+
+---
+
+## Introducing “Future Knowledge”: A New Podcast from Internet Archive and Authors Alliance
+
+date: 2025-06-04, from: Authors Union blogs
+
+We’re thrilled to announce the launch of Future Knowledge, a new podcast from the Internet Archive and Authors Alliance. Future [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/06/04/introducing-future-knowledge-a-new-podcast-from-internet-archive-and-authors-alliance/>
 
 ---
 
@@ -56,6 +257,196 @@ date: 2025-06-04, from: Geoffrey Hunntley's blog
 <br> 
 
 <https://ghuntley.com/play/>
+
+---
+
+## Seeds
+
+date: 2025-06-04, from: Ed Summers blog, Inkdroid
+
+<p>
+This <a
+href="https://david-bollier.simplecast.com/episodes/jack-kloppenburg-on-sharing-seeds-in-a-world-of-proprietary-agriculture">episode</a>
+of the <a href="https://david-bollier.simplecast.com/">Frontiers in
+Commoning</a> is an interview with <a
+href="https://dces.wisc.edu/directory/jack-kloppenburg/">Jack
+Kloppenburg</a> about the <a href="https://osseeds.org/">Open Source
+Seed Initiative</a>, which is building, or helping rebuild rather, a
+commons for sharing seeds. I think it contains some useful observations
+for open source software, and commoning more generally.
+</p>
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/8002c359-ac32-4624-afa9-cf5c516756f6?dark=true">
+</iframe>
+<p>
+Humans have shared seeds for millennia. This sharing has been
+responsible for all the cultivars we know and love today around the
+world. Because of the nature of seed production, where one seed can
+beget hundreds more, there is a built in abundance model that
+historically made seed sharing a bad fit for mass-commodification. But
+this changed in 1980 when the US Supreme Court bowed to pressure from
+corporations and allowed life to be patented.
+</p>
+<figure>
+<img class="img-fluid" src="/images/ossi.png">
+<figcaption>
+A view of the
+<a href="https://osseeds.org/crop_type/ossi_crops/?ossi-availibility=yes">OSSI
+seed catalog</a>
+</figcaption>
+</figure>
+<p>
+As a software developer, what interested me most was Kloppenburg’s
+description of how the idea for OSSI took direct inspiration from the
+Open Source Software movement, specifically the <a
+href="https://en.wikipedia.org/wiki/GNU_General_Public_License">GNU
+GPL</a> and the idea of <a
+href="https://en.wikipedia.org/wiki/Copyleft">CopyLeft</a> more
+generally. He describes how the software freedoms map onto seed sharing
+and use. But also, he talks about why the OSSI chose to use a <a
+href="https://osseeds.org/ossi-faqs/">Pledge</a> rather than a License
+model.
+</p>
+<blockquote>
+<p>
+You have the freedom to use these OSSI-Pledged seeds in any way you
+choose. In return, you pledge not to restrict others’ use of these seeds
+or their derivatives by patents or other means, and to include this
+Pledge with any transfer of these seeds or their derivatives.
+</p>
+</blockquote>
+<p>
+The OSSI chose to focus more on helping build a community of like minded
+seed producers and distributors, rather than on establishing a legal
+apparatus that would 🤞 protect seeds from capture by corporate
+interests. As Kloppenburg notes, relying on licenses means one must
+participate in a legal infrastructure that is de facto dominated by
+large corporations and their interests. A pledge is oriented around
+growing all the tangled, relational connections between the users of
+seeds. It’s about strengthening, or reviving, an ancient and separate
+system of seed sharing. It’s also about growing awareness and resistance
+to corporate practices, especially in the global south, as big
+agriculture tries to change the laws in other countries to suit their
+needs.
+</p>
+<p>
+Of course, not having a license means that these openly pledged seeds
+could be “captured” by corporations. However, given their scale, large
+corporations actually control a small number of types of seeds that have
+use around the world. They are oriented around maximizing profit.
+Corporations aren’t generally interested in the types of seeds that are
+being shared more openly in the OSSI, because these are more regionally
+specific. There is a local angle to these networks of sharing. He admits
+that corporate capture could happen if an innovation like a rust-proof
+crop were invented, but really that sort of innovation isn’t what the
+OSSI is primarily interested in.
+</p>
+<p>
+Instead the OSSI is interested in building community for:
+</p>
+<ol type="1">
+<li>
+Rediscovering native and indigenous forms of plants.
+</li>
+<li>
+Sharing and preserving existing seeds.
+</li>
+<li>
+Creating new cultivars that are of use.
+</li>
+</ol>
+<p>
+Kloppenburg acknowledges that this approach to “openness” and “sharing”
+can be viewed skeptically by indigenous communities, who have been told
+similar things in the past, only to have their traditional practices
+taken without their permission for profit, where none of that profit is
+returned to them. Indeed, if you zoom out, colonialism and capitalism
+have been responsible for so much damage and destruction to indigenous
+ways of life – and food sources have been a very significant part of
+that. So some seed producers have put modified versions of the OSSI
+Pledge in place. I’m reminded here Ostrom’s idea that sustainable
+commoning doesn’t necessarily mean that everything is open to everyone –
+there are often clearly defined boundaries around commons, and that
+there are often practices for managing them <span class="citation"
+data-cites="Wall:2017b">(<a href="#ref-Wall:2017b"
+role="doc-biblioref">Wall, 2017</a>)</span>.
+</p>
+<p>
+This naturally also reminded me about the challenges that <a
+href="https://en.wikipedia.org/wiki/Open_access">Open Access</a> has
+faced when working with indigenous communities, where intellectual
+property has been stolen and profited off of <span class="citation"
+data-cites="Christen:2012">(<a href="#ref-Christen:2012"
+role="doc-biblioref">Kimberly Christen, 2012</a>)</span>. Frameworks for
+reciprocity that help build, strengthen and diversify networks of
+<em>reciprocal</em> relations are what is needed more than just openness
+<span class="citation" data-cites="Christen:2019 Punzalan:2022">(<a
+href="#ref-Christen:2019" role="doc-biblioref">Kim Christen &amp;
+Anderson, 2019</a>; <a href="#ref-Punzalan:2022"
+role="doc-biblioref">Punzalan &amp; Marsh, 2022</a>)</span>. It seems to
+me that OSSI’s use of a Pledge rather than a legal tool like a License,
+provides another way forwards that honors the long and multi-threaded
+history of seed sharing.
+</p>
+<h3 class="unnumbered" id="references">
+References
+</h3>
+<div id="refs" class="references csl-bib-body hanging-indent"
+data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-Christen:2012" class="csl-entry" role="listitem">
+Christen, Kimberly. (2012). Does Information Really Want to be Free?
+Indigenous Knowledge Systems and the Question of Openness.
+<em>International Journal of Communication</em>, <em>6</em>, 2870–2893.
+Retrieved from <a
+href="https://ijoc.org/index.php/ijoc/article/view/1618/828">https://ijoc.org/index.php/ijoc/article/view/1618/828</a>
+</div>
+<div id="ref-Christen:2019" class="csl-entry" role="listitem">
+Christen, Kim, &amp; Anderson, J. (2019). Toward slow archives.
+<em>Archival Science</em>, <em>19</em>, 87–116. Retrieved from <a
+href="https://link.springer.com/article/10.1007/s10502-019-09307-x">https://link.springer.com/article/10.1007/s10502-019-09307-x</a>
+</div>
+<div id="ref-Punzalan:2022" class="csl-entry" role="listitem">
+Punzalan, R. L., &amp; Marsh, D. E. (2022). Reciprocity: Building a
+Discourse in Archives. <em>The American Archivist</em>, <em>85</em>(1),
+30–59. <a
+href="https://doi.org/10.17723/2327-9702-85.1.30">https://doi.org/10.17723/2327-9702-85.1.30</a>
+</div>
+<div id="ref-Wall:2017b" class="csl-entry" role="listitem">
+Wall, D. (2017). <em>Elinor Ostrom’s rules for radicals: cooperative
+alternatives beyond markets and states</em>. London: Pluto Press.
+Retrieved from <a
+href="https://www.plutobooks.com/9780745399355/elinor-ostroms-rules-for-radicals/">https://www.plutobooks.com/9780745399355/elinor-ostroms-rules-for-radicals/</a>
+</div>
+</div>
+ 
+
+<br> 
+
+<https://inkdroid.org/2025/06/04/seeds/>
+
+---
+
+## AI
+
+date: 2025-06-04, from: Ed Summers blog, Inkdroid
+
+<p>
+A maxim:
+</p>
+<blockquote>
+<p>
+The narrower your understanding of what intelligence is (or
+intelligences are) the more possible Artificial Intelligence becomes.
+</p>
+</blockquote>
+<p>
+I suppose it has been said elsewhere before, by someone much more
+important than me, but now I’ve said it.
+</p>
+ 
+
+<br> 
+
+<https://inkdroid.org/2025/06/04/ai/>
 
 ---
 
@@ -149,7 +540,7 @@ Knicks fire Tom Thibodeau: Next steps, potential replacements, trade targets.
 
 date: 2025-06-03, from: Liliputing
 
-<p>Microsoft has announced a handful of updates coming to Windows 10 and Windows 11 that will make it easier for users to change their default web browser, access third-party search results from the Windows Search tool, and uninstall the Microsoft store, among other things. The only catch? These changes are only coming to Windows users in [&#8230;]</p>
+<p>Microsoft has announced a handful of updates coming to Windows 10 and Windows 11 that will make it easier for users to change their default web browser, access third-party search results from the Windows Search tool, and uninstall the Microsoft store, among other things. The only catch? These changes are only coming to Windows users [&#8230;]</p>
 <p>The post <a href="https://liliputing.com/microsoft-will-let-you-uninstall-the-microsoft-store-from-windows-but-only-in-europe-and-other-updates-to-comply-with-the-digital-markets-act/">Microsoft will let you uninstall the Microsoft Store from Windows, but only in Europe (and other updates to comply with the Digital Markets Act)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 
@@ -561,6 +952,30 @@ Leonard Lin and Adam Lensenmayer have been working on <a href="https://shisa.ai/
 <br> 
 
 <https://simonwillison.net/2025/Jun/3/shisa-v2/#atom-everything>
+
+---
+
+## UKLG
+
+date: 2025-06-03, from: Ed Summers blog, Inkdroid
+
+<figure>
+<a href="https://www.flickr.com/photos/inkdroid/54564230307/">
+<img class="img-fluid" src="https://live.staticflickr.com/65535/54564230307_7848fb760e_c.jpg">
+</a>
+<figcaption>
+UKLG
+</figcaption>
+</figure>
+<p>
+Confession: it’s my first time reasing these, so I thought I’d try to
+find some old copies on Ebay and biblio.com.
+</p>
+ 
+
+<br> 
+
+<https://inkdroid.org/2025/06/03/uklg/>
 
 ---
 

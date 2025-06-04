@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2025-06-04 06:08:09
+updated: 2025-06-04 14:08:01
 ---
 
 # science and technology
 
-(date: 2025-06-04 06:08:09)
+(date: 2025-06-04 14:08:01)
+
+---
+
+## Ukraine strikes Russian bomber-maker with hack attack
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>Drones are not enough</h4> <p>Following a daring drone attack on Russian airfields, Ukrainian military intelligence has reportedly also hacked the servers of Tupolev, the Kremlin&#39;s strategic bomber maker.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/ukraine_hack_attack_russia/>
+
+---
+
+## NASA Sets Coverage for Axiom Mission 4 Launch, Arrival at Station
+
+date: 2025-06-04, from: NASA breaking news
+
+NASA, Axiom Space, and SpaceX are targeting 8:22 a.m. EDT, Tuesday, June 10, for launch of the fourth private astronaut mission to the International Space Station, Axiom Mission 4. The mission will lift off from Launch Complex 39A at NASA’s Kennedy Space Center in Florida. The crew will travel to the orbiting laboratory on a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-4-launch-arrival-at-station/>
+
+---
+
+## US govt login portal could be one cyberattack away from collapse, say auditors
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>Login.gov hasn&#39;t shown its backup testing policy is working, GAO warns</h4> <p>The US government&#39;s Login.gov identity verification system could be one cyberattack, or just a routine IT hiccup, away from serious trouble, say auditors, because it hasn&#39;t shown its backup testing policy is actually in use or effective.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/login_gov_backup_testing_insufficient_gao/>
+
+---
+
+## Ransomware scum leak patient data after disrupting chemo treatments at Kettering
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>Literally adding insult to injury</h4> <p>Kettering Health patients who had chemotherapy sessions and pre-surgery appointments canceled due to a ransomware attack in May now have to deal with the painful prospect that their personal info may have been leaked online.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/ransomware_scum_leak_kettering_patient_data/>
+
+---
+
+## NASA, ISRO Research Aboard Fourth Private Astronaut Mission to Station
+
+date: 2025-06-04, from: NASA breaking news
+
+NASA and ISRO (Indian Space Research Organisation) are collaborating to launch scientific investigations aboard Axiom Mission 4, the fourth private astronaut mission to the International Space Station. These studies include examining muscle regeneration, growth of sprouts and edible microalgae, survival of tiny aquatic organisms, and human interaction with electronic displays in microgravity. The mission is [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/nasa-isro-research-aboard-fourth-private-astronaut-mission-to-station/>
+
+---
+
+## Galaxy Clusters on Course to Crash Again, NASA’s Chandra Finds
+
+date: 2025-06-04, from: NASA breaking news
+
+New observations from NASA’s Chandra X-ray Observatory and other telescopes have captured a rare cosmic event: two galaxy clusters have collided and are now poised to head back for another swipe at each other. Galaxy clusters are some of the largest structures in the Universe. Held together by gravity, they are monster-sized collections of hundreds [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/galaxy-clusters-on-course-to-crash-again-nasas-chandra-finds/>
+
+---
+
+## 3 Black Holes Caught Eating Massive Stars in NASA Data
+
+date: 2025-06-04, from: NASA breaking news
+
+Black holes are invisible to us unless they interact with something else. Some continuously eat gas and dust, and appear to glow brightly over time as matter falls in. But other black holes secretly lie in wait for years until a star comes close enough to snack on. A new study using space and ground-based […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/astrophysics/3-black-holes-caught-eating-massive-stars-in-nasa-data/>
+
+---
+
+## Core Components for NASA’s Roman Space Telescope Pass Major Shake Test
+
+date: 2025-06-04, from: NASA breaking news
+
+The core portion of NASA’s Nancy Grace Roman Space Telescope has successfully completed vibration testing, ensuring it will withstand the extreme shaking experienced during launch. Passing this key milestone brings Roman one step closer to helping answer essential questions about the role of dark energy and other cosmic mysteries. “The test could be considered as [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/roman-space-telescope/core-components-for-nasas-roman-space-telescope-pass-major-shake-test/>
+
+---
+
+## 60 years ago the US took its first walk in space with Gemini 4
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>Four years later, Apollo 11 landed on the Moon</h4> <p>It is 60 years since Ed White became the first American to float outside a spacecraft.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/first_us_spacewalk_60_years_ago/>
+
+---
+
+## KDE targets Windows 10 'exiles' claiming 'your computer is toast'
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>Encourages move to Linux but, for goodness sake, RTFM first</h4> <p>Linux desktop darling KDE is weighing in on the controversy around the impending demise of Windows 10 support with a lurid &#34;KDE for Windows 10 Exiles&#34; campaign.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/kde_windows_10_exiles/>
+
+---
+
+## Trump tariff turmoil hurting global smartphone market, but hitting US hardest
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>Stale designs and market maturation aren&#39;t helping either, says Counterpoint Research</h4> <p><strong>World War Fee</strong>  The Trump administration&#39;s chaotic tariff regime is likely to have a serious impact on the smartphone market worldwide, but the latest forecasts predict the disruption will be felt most keenly in the one economy Trump is trying to protect: The United States. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/trump_tariff_turmoil_affecting_global/>
+
+---
+
+## Fake IT support calls hit 20 orgs, end in stolen Salesforce data and extortion, Google warns
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>Victims include hospitality, retail and education sectors</h4> <p>A group of financially motivated cyberscammers who specialize in Scattered-Spider-like fake IT support phone calls managed to trick employees at about 20 organizations into installing a modified version of Salesforce&#39;s Data Loader that allows the crims to steal sensitive data.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/fake_it_support_calls_hit/>
+
+---
+
+## How Much Energy Does It Take To Think?
+
+date: 2025-06-04, from: Quanta Magazine
+
+Studies of neural metabolism reveal our brain’s effort to keep us alive and the evolutionary constraints that sculpted our most complex organ.            <p>The post <a href="https://www.quantamagazine.org/how-much-energy-does-it-take-to-think-20250604/" target="_blank">How Much Energy Does It Take To Think?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-much-energy-does-it-take-to-think-20250604/>
+
+---
+
+## How a Childhood Telescope Launched a NASA Career
+
+date: 2025-06-04, from: NASA breaking news
+
+Christina Zeringue remembers being 10 years old, looking to the sky through her new telescope to view the Moon and planets on Christmas night. It opened her eyes to space and inspired her journey from the backyard to NASA’s Stennis Space Center near Bay St. Louis, Mississippi. “I became fascinated with astronomy and learning about [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/childhood-telescope-launched-career-for-christina-zeringue/>
+
+---
+
+## Crims stole 40,000 people's data from our network, admits publisher Lee Enterprises
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>Did somebody say ransomware? Not the newspaper group, not even to deny it</h4> <p>Regional newspaper publisher Lee Enterprises says data belonging to around 40,000 people was stolen during an attack on its network earlier this year.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/cyberattack_lee_enterprises/>
+
+---
+
+## I Am Artemis: Lili Villarreal
+
+date: 2025-06-04, from: NASA breaking news
+
+Lili Villarreal fell in love with space exploration from an early age when her and her family visited the Kennedy Space Center Visitor Complex in Florida. So, it should come as no surprise that when the opportunity came for her to start working on NASA’s Artemis missions to return the next humans to the Moon, she jumped at it.   
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/kennedy/i-am-artemis-lili-villarreal/>
 
 ---
 
@@ -25,7 +217,7 @@ date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
 
 date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
 
-<h4>Tech giants say blocking stolen devices via IMEI could open new fraud risks</h4> <p>UK legislators are questioning why Apple and Google have yet to implement measures to allow smartphones to be locked, reset, and prevented from accessing cloud services after they&#39;ve been stolen, as requested by police.…</p> 
+<h4>Tech giants say blocking purloined devices via IMEI could open new fraud risks</h4> <p>UK legislators are questioning why Apple and Google have yet to implement measures to allow smartphones to be locked, reset, and prevented from accessing cloud services after they&#39;ve been stolen, as requested by police.…</p> 
 
 <br> 
 
@@ -539,7 +731,7 @@ date: 2025-06-02, updated: 2025-06-02, from: The Register (UK I.T. News)
 
 ## Ukrainians smuggle drones hidden in cabins on trucks to strike Russian airfields
 
-date: 2025-06-02, updated: 2025-06-02, from: The Register (UK I.T. News)
+date: 2025-06-02, updated: 2025-06-04, from: The Register (UK I.T. News)
 
 <h4>A real-world Trojan Horse attack</h4> <p>Ukraine claims it launched a cunning drone strike on Sunday against multiple Russian airbases, hitting over 40 military aircraft and inflicting an estimated $7 billion in damage, in an operation dubbed &#34;Spiderweb.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 

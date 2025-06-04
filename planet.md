@@ -1,11 +1,279 @@
 ---
 title: planet
-updated: 2025-06-04 06:08:04
+updated: 2025-06-04 14:07:58
 ---
 
 # planet
 
-(date: 2025-06-04 06:08:04)
+(date: 2025-06-04 14:07:58)
+
+---
+
+## Irish Paralympian champions adaptive fashion
+
+date: 2025-06-04, from: RTÉ News
+
+Irish Paralympian Ellen Keane is championing the importance of adaptive clothing options for people with disabilities. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0604/1516738-irish-paralympian-champions-adaptive-fashion/>
+
+---
+
+## New sensory room opens at Croke Park
+
+date: 2025-06-04, from: RTÉ News
+
+Croke Park has recently launched two new accessibility services aimed at making match days more inclusive for those with accessibility needs. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0604/1516756-croke-park-launches-new-accessibilty-services/>
+
+---
+
+## Pope Leo XIV speaks by phone with Russian President Putin
+
+date: 2025-06-04, from: Vatican News
+
+
+                    <p>Speaking by phone with President Vladimir Putin, Pope Leo XIV urges Russia to take a step that favours peace, underlining the importance of dialogue.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-phone-call-russian-president-vladimir-putin.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-phone-call-russian-president-vladimir-putin.html>
+
+---
+
+## WWII bombs defused in Cologne after thousands evacuated
+
+date: 2025-06-04, from: RTÉ News
+
+Over 20,000 people were evacuated from central Cologne after three unexploded World War II bombs were found, the biggest such operation in the German city since the end of the war. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0604/1516751-thousands-evacuated-from-cologne-after-wwii-bombs-found/>
+
+---
+
+## Podcast: Operation Spider's Web and drone warfare
+
+date: 2025-06-04, from: RTÉ News
+
+In the latest episode of Behind the Story, Fran and David discuss Ukraine's Operation Spider's Web, which saw more than 100 drones launched at four Russian air bases and what it could mean for the future of warfare. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0604/1516735-behind-the-story-russia-ukraine/>
+
+---
+
+## Two MV Matthew crew were 'expendable', court told
+
+date: 2025-06-04, from: RTÉ News
+
+Two men who were to take 2.25 tonnes of cocaine from the MV Matthew and bring it to the UK were so expendable that when their ship ran aground in rough seas, their employers deleted them from a group chat and planned to complete the operation without them, the Special Criminal Court has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0604/1516743-mv-matthew-court/>
+
+---
+
+## Satchwell garda case took 'longer than maybe ordinarily'
+
+date: 2025-06-04, from: RTÉ News
+
+The Taoiseach has said that it took gardaí "longer than maybe ordinarily" to solve the murder of Tina Satchwell and believes there will be an "internal evaluation of the case". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0604/1516734-taoiseach-satchwell-garda/>
+
+---
+
+## Remembering Pope Francis
+
+date: 2025-06-04, from: Vatican Obervatory
+
+Thoughts and memories about Pope Francis from staff members of the Vatican Observatory and Vatican Observatory Foundation. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/remembering-pope-francis/>
+
+---
+
+## Riverdance celebrates its 30th anniversary
+
+date: 2025-06-04, from: RTÉ News
+
+Riverdance is celebrating its 30th anniversary tonight in unique style with the audience made up of past performers. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0604/1516721-riverdance-30th-anniversary/>
+
+---
+
+## Putin tells Trump that Russia has to respond to Ukrainian attacks
+
+date: 2025-06-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7519950.1749065390!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/putin-trump-composite.jpg' alt='Two people are photographed in this composite image.' width='620' height='349' title=''/><p>In a 75-minute phone call on Wednesday, Russian President Vladimir Putin told U.S. President Donald Trump that Russia will have to respond to recent Ukrainian drone attacks.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/putin-trump-response-to-ukrainian-attacks-1.7552250?cmp=rss>
+
+---
+
+## Japan just recorded its fewest annual births since it started keeping records
+
+date: 2025-06-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7552160.1749058960!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/japan-birth-rate.jpg' alt='An empty swingset' width='620' height='349' title='The abandoned Okumo Elementary School is seen after it was closed in 2016 due to the declining birth rate on February 28, 2025 in Tambasasayama, Japan. Japan&apos;s declining birthrate is deeply impacting rural areas and small towns, leading to serious economic and social challenges. '/><p>The number of newborns in Japan is decreasing faster than projected, with the number of annual births falling to a record low last year, according to government data released Wednesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/japan-birth-rate-record-1.7552156?cmp=rss>
+
+---
+
+## A-ha singer Morten Harket reveals Parkinson's diagnosis
+
+date: 2025-06-04, from: RTÉ News
+
+Morten Harket, lead singer with Norwegian group A-ha, has announced his diagnosis with Parkinson's disease. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0604/1516715-a-ha-singer-morten-harket-reveals-parkinsons-diagnosis/>
+
+---
+
+## Man, 50s, injured as truck crashes into Roscommon house
+
+date: 2025-06-04, from: RTÉ News
+
+A man in his 50s has been injured after the truck he was driving struck a house in Boyle, Co Roscommon, this morning. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0604/1516718-man-50s-injured-as-truck-crashes-into-roscommon-house/>
+
+---
+
+## Trinity College cuts ties with Israeli organisations
+
+date: 2025-06-04, from: RTÉ News
+
+The governing body of Trinity College Dublin has voted to cease links with Israeli organisations with immediate effect. 
+
+<br> 
+
+<https://www.rte.ie/news/education/2025/0604/1516711-trinity-college-cuts-ties-with-israeli-organisations/>
+
+---
+
+## Sister-in-law said she burned Puska's clothes, trial told
+
+date: 2025-06-04, from: RTÉ News
+
+Jozef Puska's sister-in-law told gardaí that she and another family member burned clothes, including a bloodstained t-shirt, the day after school teacher Ashling Murphy was murdered, a trial has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0604/1516714-puska-trial/>
+
+---
+
+## Indian cricket titan Virat Kohli wins elusive league title after retirement announcement
+
+date: 2025-06-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7552239.1749062283!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/virat-kohli.jpg' alt='A cricket player in action.' width='620' height='349' title='Virat Kohli of Royal Challengers Bengaluru reacts after playing a shot during an Indian Premier League cricket match between Delhi Capitals and Royal Challengers Bengaluru at Arun Jaitley Stadium in New Delhi on April 27, 2025.'/><p>When Virat Kohli, one of India's greatest cricketers, realized his 17-year dream of winning the Indian Premier League (IPL) title with his longtime team the ​​Royal Challengers Bengaluru, the moment brought tears to his eyes.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/virat-kohli-india-cricket-1.7552213?cmp=rss>
+
+---
+
+## Astronomy & Space Science Education & Public Outreach Newsletter – June 2025, Part 1
+
+date: 2025-06-04, from: Vatican Obervatory
+
+Each month, Dr. Larry Lebofsky publishes a couple newsletters with the latest news in astronomy and space science. Click to download the PDF of this newsletter... 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/astronomy-space-science-education-public-outreach-newsletter-june-2025-part-1/>
+
+---
+
+## Tattoo artist found guilty of murder of chef in Cobh
+
+date: 2025-06-04, from: RTÉ News
+
+A 31-year-old tattoo artist has been found guilty of the murder of a 33-year-old chef in Cobh, Co Cork, in March 2024. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0604/1516709-dylan-scannell-murder-baitson/>
+
+---
+
+## McGovern extradition 'reflects strong ties' with UAE
+
+date: 2025-06-04, from: RTÉ News
+
+Minister for Justice Jim O'Callaghan has said the extradition of Sean McGovern from the United Arab Emirates is part of continued cooperation between the two countries to uphold the rule of law and prosecute those who attempt to evade justice. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0604/1516698-sean-mcgovern-crime/>
+
+---
+
+## Skyward by David H. Levy – June 2025
+
+date: 2025-06-04, from: Vatican Obervatory
+
+David Levy discusses his viewing (or not) of three comets over the past year. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/skyward-by-david-h-levy-june-2025/>
+
+---
+
+## British govt must deliver Casement Park funding - O'Neill
+
+date: 2025-06-04, from: RTÉ News
+
+Northern Ireland's First Minister Michelle O'Neill has said the British government must deliver on its commitment to provide substantial funding to help rebuild Casement Park, the home of Antrim GAA, in west Belfast. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0604/1516689-casement-park-funding/>
+
+---
+
+## All-island cybersecurity sector worth €3.2bn - report
+
+date: 2025-06-04, from: RTÉ News
+
+A new report has found that the all-island cybersecurity sector generated an estimated €3.2 billion and contributed €1.5 billion in gross value added in the most recent financial year. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0604/1516668-cybersecurity/>
 
 ---
 
@@ -25,11 +293,23 @@ EU member states have adopted a controversial set of new measures governing the 
 
 date: 2025-06-04, from: RTÉ News
 
-The "greatest argument for neutrality is the genocide going on right now in Gaza", actor Liam Cunningham has said. 
+Irish actor Liam Cunningham has said that the "greatest argument for neutrality" is what is going on now in Gaza, which he said was "a genocide". 
 
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0604/1516670-pbp-neutrality/>
+
+---
+
+## Ecologists concerned at parakeet numbers in Belfast park
+
+date: 2025-06-04, from: RTÉ News
+
+Ecologists have expressed their concern at a growing wild parakeet population at a Belfast park. 
+
+<br> 
+
+<https://www.rte.ie/news/newslens/2025/0604/1516635-parakeets-belfast/>
 
 ---
 
@@ -45,6 +325,90 @@ Mayor of the locale hopeful that the new pope will return to the tradition of sp
 
 ---
 
+## US vetoes Security Council resolution demanding permanent ceasefire in Gaza
+
+date: 2025-06-04, from: United Nations, Top Stories
+
+A draft resolution calling for an immediate and permanent ceasefire in Gaza failed to pass in the UN Security Council on Wednesday after the United States cast its veto – blocking the initiative backed by all ten elected members of the Council. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164056>
+
+---
+
+## SECURITY COUNCIL LIVE: US vetoes new resolution calling for immediate Gaza ceasefire, unconditional release of hostages
+
+date: 2025-06-04, from: United Nations, Top Stories
+
+The United States has vetoed a new draft resolution on Gaza, standing as the lone vote against the text which called for an immediate, unconditional and permanent ceasefire, the unconditional release of hostages held by Hamas and others and the immediate lifting of all aid restrictions. Follow live coverage from our Meetings Coverage Section and UN News app users can follow here. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164036>
+
+---
+
+## World Environment Day: UN sounds alarm on plastic pollution crisis
+
+date: 2025-06-04, from: United Nations, Climate Change
+
+Every year, 400 million tonnes of plastic are produced worldwide, according to the UN. Half of this plastic is designed to be used only once, and only 10 per cent is recycled.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164046>
+
+---
+
+## Ukraine among new members elected to UN Economic and Social Council
+
+date: 2025-06-04, from: United Nations, UN Affairs
+
+The General Assembly on Wednesday elected a new slate of members to the UN Economic and Social Council (ECOSOC), the principal body responsible for coordinating the Organization’s work on sustainable development and economic issues. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164016>
+
+---
+
+## ‘Our worst held fears are being confirmed’: Dozens of bodies discovered in Libya mass graves
+
+date: 2025-06-04, from: United Nations, Top Stories
+
+Dozens of bodies have been discovered at official and unofficial detention sites in Libya. The grim findings confirm deep concerns about abuse and torture at the facilities, according to the UN human rights chief Volker Türk.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164021>
+
+---
+
+## Gaza: UN relief chief welcomes growing support for aid teams to resume vital work
+
+date: 2025-06-04, from: United Nations, Climate Change
+
+Amid reports of yet another deadly attack on a school in Gaza on Wednesday, the UN’s top aid official Tom Fletcher welcomed growing international calls for lifesaving aid work by established agencies to resume in the war-torn enclave. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164011>
+
+---
+
+## Stampede after cricket victory kills at least 11 in India
+
+date: 2025-06-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7551894.1749046628!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ambulance-responds-to-stampede-in-bengaluru.jpg' alt='An ambulance weaves between people on a street.' width='620' height='349' title='Traffic police make way for an ambulance near the M. Chinnaswamy Stadium in Bengaluru on Wednesday after casualties were reported in a stampede as fans gathered to celebrate Royal Challengers Bengaluru&apos;s victory in the Indian Premier League Twenty20 final cricket match.'/><p>Eleven people were killed and scores more injured after a stampede outside a cricket stadium in Bengaluru, in India's southern Karnataka state, where fervent fans had gathered to celebrate the first-ever Indian Premier League title win for the city's team.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/india-cricket-stampede-1.7551884?cmp=rss>
+
+---
+
 ## ECB gives Bulgaria green light to adopt euro next year
 
 date: 2025-06-04, from: RTÉ News
@@ -54,6 +418,30 @@ Bulgaria has met all criteria to adopt the euro currency from 1 January 2026, th
 <br> 
 
 <https://www.rte.ie/news/business/2025/0604/1516657-bulgaria-euro-ecb/>
+
+---
+
+## Lightning strike, low river tide triggers water crisis on northern Quebec Cree community
+
+date: 2025-06-04, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7551232.1748978282!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/chisasibi-water-shortage.jpg' alt='two men filling up a water basin from the river' width='620' height='349' title='Local emergency team uses river water to supply homes facing a water shortage. The Cree Nation of Chisasibi is under a state of emergency, unsure when clean running water will return.'/><p>The Cree Nation of Chisasibi has declared a state of emergency because of ongoing water shortage. Many local services, including the hospital and elders home, are also operating on reduced services because of the issue.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/chisasibi-state-of-emergency-1.7551225?cmp=rss>
+
+---
+
+## Justice minister says he apologized to Chief Cindy Woodhouse
+
+date: 2025-06-04, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/20d75d9d-0300-4307-8298-64125ef2c8be,1749048434329/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Justice Minister Sean Fraser apologized after AFN National Chief Cindy Woodhouse expressed issue with comments he made about Indigenous consultation.' width='620' height='349' title=''/><p>Justice Minister Sean Fraser, stopping to speak with reporters Wednesday morning, said he felt compelled to apologize publicly after AFN National Chief Cindy Woodhouse contacted him expressing issues with comments he made the day before about consultation with Indigenous groups over resource projects. Fraser said he understands it is essential work is done in partnership with Indigenous groups when it comes to resource project selection and any conditions or concerns that may arise.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6784739?cmp=rss>
 
 ---
 
@@ -69,6 +457,18 @@ Richard Satchwell has been sentenced to life in prison for the murder of his wif
 
 ---
 
+## Richard Satchwell sentenced to life for wife's murder
+
+date: 2025-06-04, from: RTÉ News
+
+Richard Satchwell has been sentenced to life in prison for the murder of his wife, Tina, in their home in Cork more than eight years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0604/1516652-satchwell-sentence/>
+
+---
+
 ## ComReg pre-registers 7k Sender IDs to prevent scam texts
 
 date: 2025-06-04, from: RTÉ News
@@ -81,11 +481,11 @@ The Commission for Communications Regulation has said more than 7,000 SMS Sender
 
 ---
 
-## Misinformation around Carlow shooting 'shocking' - Martin
+## 'Report sensibly,' judge urges after Carlow shooting
 
 date: 2025-06-04, from: RTÉ News
 
-Taoiseach Micheál Martin has said the level of misinformation that emerged following a shooting in Carlow town on Sunday was "shocking". 
+A judge in Co Kildare has said he wants to set the record straight in relation to the case of Evan Fitzgerald, who died during a shooting incident at a shopping centre in Carlow town on Sunday evening. 
 
 <br> 
 
@@ -145,15 +545,27 @@ More than a million pilgrims have joined Islam's most important rite under a bea
 
 ---
 
-## CHI funding suspension 'right thing to do' - Taoiseach
+## Children's Health Ireland report to be referred to gardaí
 
 date: 2025-06-04, from: RTÉ News
 
-The Taoiseach has said he believes the temporary suspension of funding by the National Treatment Purchase Fund to Children's Health Ireland was the right thing to do. 
+An unpublished Children's Health Ireland report into concerns at one of its hospitals is to be referred to An Garda Síochána. 
 
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0604/1516612-ntpf-chi/>
+
+---
+
+## 4 songs you need to hear to celebrate Indigenous History Month
+
+date: 2025-06-04, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7550338.1748898361!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/tia-wood-synth-ihm.jpg' alt='A close up of Tia Wood (a Cree woman) standing in front of a blue and orange backdrop. The CBC Music logo and the words Songs You Need to Hear appear in the bottom right corner. ' width='620' height='349' title='Tia Wood&apos;s Never Come Back is a song you need to hear this week. '/><p>Listen to new music from Tia Wood, Aysanabee and more.</p> 
+
+<br> 
+
+<https://www.cbc.ca/music/new-music-tia-wood-aysanabee-indigenous-history-month-1.7550305?cmp=rss>
 
 ---
 
@@ -173,11 +585,11 @@ date: 2025-06-04, from: Vatican News
 
 ---
 
-## Woman with incurable cancer says daughters keep her going
+## 'I've only ever wanted a simple life,' says Leona Macken
 
 date: 2025-06-04, from: RTÉ News
 
-A 38-year-old woman with incurable cancer has said her daughters give her the drive to keep going and said she does not want to leave her 'beautiful life'. 
+A 38-year-old woman with incurable cancer has said her daughters give her the drive to keep going and said she does not want to leave her "beautiful life". 
 
 <br> 
 
@@ -185,11 +597,11 @@ A 38-year-old woman with incurable cancer has said her daughters give her the dr
 
 ---
 
-## Trump envoy to Ukraine says risk levels 'going way up'
+## Putin to retaliate after Ukraine drone strikes - Trump
 
 date: 2025-06-04, from: RTÉ News
 
-US President Donald Trump's envoy to Ukraine has said the risk of escalation from the war in Ukraine was "going way up" after Ukrainian forces used drones to strike nuclear-capable bombers at several airbases deep inside Russia. 
+US President Donald Trump says Vladimir Putin warned him "very strongly" in a call today that he would respond to Ukraine's attack on Russian airfields, adding that any immediate prospect of peace remained far off. 
 
 <br> 
 
@@ -289,6 +701,18 @@ Child and adult survivors of domestic abuse say that going through the Irish fam
 
 ---
 
+## Abuse victims retraumatised by family law system - report
+
+date: 2025-06-04, from: RTÉ News
+
+Child and adult survivors of domestic abuse say that going through the Irish family law system is traumatic and causes "secondary victimisation" and "increased vulnerability", new research has shown. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0604/1516558-research-family-law/>
+
+---
+
 ## Australian woman accused of murders with toxic mushrooms gives her account of fatal lunch
 
 date: 2025-06-04, from: CBC, World News
@@ -313,7 +737,7 @@ date: 2025-06-04, from: CBC, World News
 
 ---
 
-## Searches for Madeleine McCann continue in Portugal
+## Madeleine McCann search teams scour abandoned buildings
 
 date: 2025-06-04, from: RTÉ News
 
@@ -358,6 +782,18 @@ A bid by a double murderer to overturn his conviction must be reheard after one 
 <br> 
 
 <https://www.rte.ie/news/courts/2025/0604/1516575-jason-odriscoll-appeal/>
+
+---
+
+## Northern Manitoba wildfire evacuees find safety at Thompson shelter
+
+date: 2025-06-04, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7551655.1749011418!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/thompson-evacuation-centre-june-3-2025.jpg' alt='Women sift through and pick up clothing piled atop a long table ' width='620' height='349' title='Thompson, Man., community members have donated clothing, food and personal care supplies to be handed out at the congregate shelter set up for evacuees fleeing wildfires in northern Manitoba. More than 560 people were registered at the shelter as of Tuesday, June 3, 2025. '/><p>Hundreds of wildfire evacuees from across northern Manitoba have been staying at a congregate shelter in Thompson, a city of about 13,000 people located about 650 kilometres north of Winnipeg.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/northern-manitoba-wildfire-evacuees-thompson-shelter-1.7551648?cmp=rss>
 
 ---
 
@@ -421,6 +857,18 @@ US President Donald Trump has said Chinese President Xi Jinping is tough and "ex
 
 ---
 
+## Canada says US doubling of tariffs on metal 'unjustified'
+
+date: 2025-06-04, from: RTÉ News
+
+Canada's Prime Minister Mark Carney has denounced US President Donald Trump's doubling of tariffs on steel and aluminum to 50% in a heightening of trade tensions between the neighboring nations. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0604/1516569-us-steel-tariffs/>
+
+---
+
 ## 'Pure joy here': Why solar power is giving India's salt farmers freedom and profit
 
 date: 2025-06-04, from: CBC, World News
@@ -445,11 +893,23 @@ date: 2025-06-04, from: CBC, World News
 
 ---
 
-## Israeli strike kills at least 12 in Gaza, rescuers say
+## La Ronge mourns loss of beloved Robertson Trading after building, artifacts destroyed by fire
+
+date: 2025-06-04, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7551798.1749041506!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/north-battleford-fire-dept-in-la-ronge.jpg' alt='A building burns while water is sprayed on it.' width='620' height='349' title='Structures have burned in La Ronge, as shown in this June 3, 2025, photo from the City of North Battleford&apos;s fire department, which sent a crew to the community.'/><p>Beaded moosehide jackets, birchbark baskets and original art were among hundreds of items destroyed at Robertson Trading in La Ronge.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatchewan/saskatchewan-wildfire-enters-la-ronge-tuesday-1.7551663?cmp=rss>
+
+---
+
+## Gaza aid group halts distribution after dozens killed
 
 date: 2025-06-04, from: RTÉ News
 
-An Israeli strike on a tent housing displaced Palestinians near the southern city of Khan Younis has killed at least 12 people, the civil defence agency in Gaza has said. 
+The US-backed Gaza Humanitarian Foundation did not give out any aid today as it pressed Israel to boost civilian safety beyond the perimeter of its distribution sites, after dozens of Palestinians seeking aid were killed this week. 
 
 <br> 
 
@@ -466,6 +926,30 @@ Disruption and damage to Ireland's energy system and built environment from extr
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0604/1516564-epa-climate-change/>
+
+---
+
+## EPA identifies 115 risks to Ireland from climate change
+
+date: 2025-06-04, from: RTÉ News
+
+Disruption and damage to Ireland's energy system and built environment from extreme wind events are among 115 risks the country faces due to climate change, according to the EPA. 
+
+<br> 
+
+<https://www.rte.ie/news/environment/2025/0604/1516564-epa-climate-change/>
+
+---
+
+## 10 years since Truth and Reconciliation Commission released calls to action
+
+date: 2025-06-03, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/184d8f7b-c376-46bc-8039-74f2c72d3fd1,1749007450406/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='10 years since Truth and Reconciliation Commission releases calls to action' width='620' height='349' title=''/><p>This week marks ten years since the Truth and Reconciliation Commission created its calls to action to address the dark legacy of residential schools in Canada. CBC Vancouver's Indigenous Affairs reporter Wawmeesh Hamilton reports on what's changed since then.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6784331?cmp=rss>
 
 ---
 
@@ -591,6 +1075,18 @@ The United States will double its tariffs on imported steel and aluminum startin
 
 ---
 
+## US to double steel, aluminum tariffs, says White House
+
+date: 2025-06-03, from: RTÉ News
+
+The United States will double its tariffs on imported steel and aluminum starting tomorrow, according to the White House, as it published an order signed by US President Donald Trump. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0603/1516533-us-tariffs/>
+
+---
+
 ## Job fears as Wellman International to enter examinership
 
 date: 2025-06-03, from: RTÉ News
@@ -600,6 +1096,18 @@ There are fears over possible job cuts at Wellman International after it filed a
 <br> 
 
 <https://www.rte.ie/news/business/2025/0603/1516523-wellman-international-examinership/>
+
+---
+
+## Red Dress Alert program must be in place by May 2026, says report from organization leading project
+
+date: 2025-06-03, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7551445.1749049023!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mmiwg.jpg' alt='A table of framed pictures.' width='620' height='349' title='Framed photos of missing and murdered Indigenous women, girls and two-spirit people are spread on a table at the Canadian Museum for Human Rights on June 4, 2025. An alert system that would help find missing Indigenous women, girls and two-spirit people in Manitoba could be put in place as early as May 2026, organizers say.'/><p>All levels of government must act quickly to establish a notification system within the next year that would help find missing Indigenous women, girls and two-spirit people in Manitoba, the organization spearheading the project says.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/red-dress-alert-interim-report-1.7550963?cmp=rss>
 
 ---
 
@@ -1033,7 +1541,7 @@ The number of Sudanese refugees in Chad has more than tripled in just over two y
 
 ## World News in Brief: Aid for Syria, children under attack in Mozambique, rights-based climate action
 
-date: 2025-06-03, from: United Nations, Top Stories
+date: 2025-06-03, from: United Nations, Climate Change
 
 Nearly 16 million people in Syria need urgent humanitarian health support, the UN warned on Tuesday, as aid deliveries continue amid escalating needs, deadly explosive hazards and a severe funding shortfall. 
 
@@ -1423,7 +1931,7 @@ Business group Ibec has warned that Ireland's current public investment model fo
 
 date: 2025-06-03, from: CBC, Indigenious News
 
-<img src='https://i.cbc.ca/1.7320572.1726087687!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/merrick-pic-4.jpg' alt='A man speaks to reporters. ' width='620' height='349' title='Pimicikamak Chief David Monias said Merrick was a strong but humble leader who always wanted to make sure people felt respected.'/><p>A First Nations chief is calling on the Manitoba government to use the Emergency Measures Act to free up hotel space in Winnipeg to help house thousands of wildfire evacuees.</p> 
+<img src='https://i.cbc.ca/1.7320572.1749063113!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/merrick-pic-4.jpg' alt='A man speaks to reporters. ' width='620' height='349' title='Pimicikamak Chief David Monias said Merrick was a strong but humble leader who always wanted to make sure people felt respected.'/><p>A First Nations chief is calling on the Manitoba government to use the Emergency Measures Act to free up hotel space in Winnipeg to help house thousands of wildfire evacuees.</p> 
 
 <br> 
 
@@ -1479,6 +1987,18 @@ date: 2025-06-03, from: CBC, Indigenious News
 
 ---
 
+## Why people are so mad about that Lilo & Stitch ending
+
+date: 2025-06-03, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7541179.1747936136!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/ent-film-review-lilo-stitch.jpg' alt='A little girl and young woman sit in a car. In front of them, a blue CGI alien steers.' width='620' height='349' title='This image shows Maia Kealoha, left, and Sydney Agudong in a still from the film Lilo &amp; Stitch.'/><p>Disney's live-action remake of Lilo & Stitch has drawn significant criticism for what some say is a dumbed-down plot that lacks the original's more biting cultural commentary and a different ending that plays heavily into tropes about Native Hawaiians.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/lilo-and-stitch-controversy-1.7550544?cmp=rss>
+
+---
+
 ## Post-mortem examination due on body of Carlow gunman
 
 date: 2025-06-02, from: RTÉ News
@@ -1500,6 +2020,18 @@ Journalists in Northern Ireland are regularly receiving threats from paramilitar
 <br> 
 
 <https://www.rte.ie/news/ulster/2025/0603/1516321-ni-journalists/>
+
+---
+
+## How Ukraine destroyed Russian nuclear bombers with drones
+
+date: 2025-06-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/ea0b4611-2b5d-4161-af2e-464d8abc8f76,1748909773248/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='Drone video of an attack on a Russian airbase' width='620' height='349' title='Drone video of an attack on a Russian airbase'/><p>Ukraine launched a surprise operation against Russia, called Operation Spiderweb, with over 100 drones attacking Russian airbases on June 1. The CBC News visual investigations team takes you through the damage to Russia’s nuclear-capable strategic bomber fleet using satellite imagery and videos from social media.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6782698?cmp=rss>
 
 ---
 
@@ -1717,7 +2249,7 @@ The number of people reported to have been injured in the Liverpool victory para
 
 ## World News in Brief: Guterres condemns antisemitic attacks, ILO to debate pros and cons of working online, Sudan, Ukraine updates
 
-date: 2025-06-02, from: United Nations, Top Stories
+date: 2025-06-02, from: United Nations, Economic Development
 
 The UN Secretary-General on Monday reinforced his stand against all acts of antisemitism following the horrific attack in Boulder, Colorado, at the weekend and vandalism in France targeting Jewish landmarks. 
 
@@ -1741,7 +2273,7 @@ As June marks one year since the arbitrary detention of dozens of personnel from
 
 ## Deadly flooding in Nigeria displaces thousands
 
-date: 2025-06-02, from: United Nations, Top Stories
+date: 2025-06-02, from: United Nations, Climate Change
 
 Flash flooding in western Nigeria at the weekend has caused devastation around the town of Mokwa in Niger state, leaving more than 150 dead and 3,000 people displaced – more than half of whom are children aged 12 and under – the UN said on Monday. 
 
@@ -1777,7 +2309,7 @@ The UN Secretary-General has condemned the reported killing and injury of Palest
 
 ## Frontline Ukrainian families face perilous task of farming mined fields
 
-date: 2025-06-02, from: United Nations, Top Stories
+date: 2025-06-02, from: United Nations, Economic Development
 
 As Ukrainian and Russian delegations meet for a second round of preliminary peace talks in Turkïye on Monday, rural communities&nbsp;faced their own challenge: finding something to eat. 
 

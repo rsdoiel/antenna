@@ -1,11 +1,48 @@
 ---
 title: journalism
-updated: 2025-06-04 06:08:12
+updated: 2025-06-04 14:08:04
 ---
 
 # journalism
 
-(date: 2025-06-04 06:08:12)
+(date: 2025-06-04 14:08:04)
+
+---
+
+## Editorial Cartoon: “Finals Season(ing)”
+
+date: 2025-06-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/06/04/editorial-cartoon-finals-seasoning/>
+
+---
+
+## Q&A: Pre-inauguration, Chancellor Julio Frenk talks higher education, tenure
+
+date: 2025-06-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Ahead of his Thursday inauguration, UCLA Chancellor Julio Frenk spoke with National News and Higher Education editor Alexandra Crosnoe and News editor Dylan Winward to discuss his experience in higher education and tenure to date. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/04/qa-pre-inauguration-chancellor-julio-frenk-talks-higher-education-tenure/>
+
+---
+
+## LA City Council approves revised budget with reduced layoffs, public safety funds
+
+date: 2025-06-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Los Angeles City Council finalized and approved a revised version of Mayor Karen Bass&#8217; $13.9 billion budget proposal Friday for this coming fiscal year. 
+The city currently faces a nearly $1 billion budget deficit caused by overspending, liability payouts, lower tax revenue, labor contracts, scheduled city official raises and fire recovery, among other factors, according to ABC7 LA. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/04/la-city-council-approves-revised-budget-with-reduced-layoffs-public-safety-funds/>
 
 ---
 

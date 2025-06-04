@@ -1,11 +1,117 @@
 ---
 title: food
-updated: 2025-06-04 06:08:16
+updated: 2025-06-04 14:08:08
 ---
 
 # food
 
-(date: 2025-06-04 06:08:16)
+(date: 2025-06-04 14:08:08)
+
+---
+
+## Beef Jerky Recall: 15,388 Pounds of Beef Jerky Found to Have an Undeclared Allergen
+
+date: 2025-06-04, from: Taste of Home
+
+<p>Check your pantry for this jerky.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/beef-jerky-recall-june-2025/">Beef Jerky Recall: 15,388 Pounds of Beef Jerky Found to Have an Undeclared Allergen</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/beef-jerky-recall-june-2025/>
+
+---
+
+## What Is a Scottish Spurtle?
+
+date: 2025-06-04, from: Taste of Home
+
+<p>The Scottish spurtle has a silly-sounding name, but this fun tool might be what's missing from your breakfast routine.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-is-a-scottish-spurtle/">What Is a Scottish Spurtle?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/what-is-a-scottish-spurtle/>
+
+---
+
+## Does Coffee Cake Actually Have Coffee in It?
+
+date: 2025-06-04, from: Taste of Home
+
+<p>You're probably familiar with streusel-topped, cinnamon-swirled coffee cake, but have you ever wondered whether coffee cake actually has coffee in it? </p>
+<p>The post <a href="https://www.tasteofhome.com/article/does-coffee-cake-have-coffee-in-it/">Does Coffee Cake Actually Have Coffee in It?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/does-coffee-cake-have-coffee-in-it/>
+
+---
+
+## Ashley Tisdale’s Picky 4-Year Old Loves This Food, Thanks to Bluey
+
+date: 2025-06-04, from: Taste of Home
+
+<p>Never underestimate the power of a cartoon collab.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ashley-tisdale-bluey-bushs-baked-beans/">Ashley Tisdale&#8217;s Picky 4-Year Old Loves This Food, Thanks to Bluey</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ashley-tisdale-bluey-bushs-baked-beans/>
+
+---
+
+## This Ground Beef Sold Nationwide Is Not Safe to Consume, Per the USDA
+
+date: 2025-06-04, from: Taste of Home
+
+<p>Check your fridge and freezer if you recently bought ground beef. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/ground-beef-health-alert-june-2025/">This Ground Beef Sold Nationwide Is Not Safe to Consume, Per the USDA</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ground-beef-health-alert-june-2025/>
+
+---
+
+## Lemon Pudding
+
+date: 2025-06-04, from: Taste of Home
+
+Summer desserts abound, but homemade lemon pudding tastes as if it were made specifically to be enjoyed on those hot July evenings. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lemon-pudding/>
+
+---
+
+## Why Are Restaurants So Dark?
+
+date: 2025-06-04, from: Bon Appetet
+
+Restaurants use mood lighting to curate a vibe, but not everyone agrees on what constitutes bright enough. 
+
+<br> 
+
+<https://www.bonappetit.com/story/why-are-restaurants-so-dark-now-explained>
+
+---
+
+## The Sprudge Twenty Class Of 2025: Nominations Period Extended!
+
+date: 2025-06-04, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Nominations continue through June 13th, 2025. 
+
+<br> 
+
+<https://sprudge.com/the-sprudge-twenty-class-of-2025-nominations-period-extended-343783.html>
 
 ---
 
