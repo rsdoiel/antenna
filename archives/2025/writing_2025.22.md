@@ -1,11 +1,68 @@
 ---
 title: writing
-updated: 2025-06-05 06:10:01
+updated: 2025-06-05 14:07:34
 ---
 
 # writing
 
-(date: 2025-06-05 06:10:01)
+(date: 2025-06-05 14:07:34)
+
+---
+
+## New Books Video for 06/03/2025 is Live!
+
+date: 2025-06-05, from: Locus Magazine
+
+<p>Locus is back with another video on the top new releases of the week! We&#8217;re going over the best Sci-Fi, Fantasy, Horror, and YA books we can find and we&#8217;re super excited to share with all of you! We post weekly, so come by our YouTube channel and subscribe to support what we do and keep up-to-date on future releases!</p>
+<div class="fitvids-video">
+<div class="jetpack-video-wrapper"></div>
+</div>
+<p>&#160; <a href="https://locusmag.com/2025/06/new-books-video-for-06-03-2025-is-live/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/new-books-video-for-06-03-2025-is-live/>
+
+---
+
+## Worlds of Possibility, Fusion Fragment, and Flash Fiction Online: Reviews by Charles Payseur
+
+date: 2025-06-05, from: Locus Magazine
+
+<p>Worlds of Possibility 2/25
+Fusion Fragment 2/25
+Flash Fiction Online 2/25</p>
+<p>The February Worlds of Possibility opens with <strong>Jennifer Hudak</strong>’s “<strong>How to Cook with the Neg­ative Space in Your Grandmother’s Recipes</strong>”, with you (the second person narrator) trying to recreate your grandmother’s dishes using her recipes, only to find that she didn’t include all the information. Measurements and tempera­tures and even ingredients are left incomplete, revealing a  <a href="https://locusmag.com/2025/06/worlds-of-possibility-fusion-fragment-and-flash-fiction-online-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/worlds-of-possibility-fusion-fragment-and-flash-fiction-online-reviews-by-charles-payseur/>
+
+---
+
+## SFWA News
+
+date: 2025-06-05, from: Locus Magazine
+
+<p>The Science Fiction and Fantasy Writers Association (SFWA) announced that ML Clark has joined their professional staff as communications and marketing coordinator. Clark has previously worked with SFWA Pub­lications, as an editor for The SFWA Blog and Nebula Awards Showcase, and on other projects.</p>
+
+<p><strong>While you are here,</strong> please take a moment to support Locus with a one-time or recurring donation. We rely on reader donations to keep the magazine  <a href="https://locusmag.com/2025/06/sfwa-news-2/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/sfwa-news-2/>
+
+---
+
+## IFComp Seeking an Artist for the 2025 Logo
+
+date: 2025-06-05, from: IF Competition Blog
+
+<h2>We are looking for art for this year’s IFComp logo! We will pay a $250 commission.</h2><p>Artists should express interest by sending us a link to their past work/portfolio via email: <a href="http://ifcomp.org/"><b>ifcomp@ifcomp.org</b></a> by June 30 (incl.); the artist will be selected by the end of July.</p><p>More info:</p><ul><li>We will request one rough draft for review / edit before the final logo is produced.</li><li>We must have the final art in hand by August 25th.</li><li>We will need three versions of the logo: one with no text, one that says ‘IFComp’, and one that says ‘IFComp 2025’.</li><li>The final image file will be created or scanned at 3600 x 3600 px, and the design should still be clearly legible when reduced for display at 250 x 250 px for the web.</li><li>If you incorporate a person (optional) we ask that you make the person’s gender ambiguous.</li><li>We ask that you integrate the <a href="https://iftechfoundation.org/">IFTF logo</a> into the art in some way.</li><li>The IFComp logo should imply / be inspired by the many genres of games people make.</li></ul><p>We will also request an invoice from the artist that the includes the following terms:</p><blockquote class="npf_indented"><p><i>The <a href="https://iftechfoundation.org/">Interactive Fiction Technology Foundation</a> has the right to use the image in whole or in part, in world-wide publishing, print, or on any merchandise for an unlimited time. The artists reserves the right to use or edit the work to be used in their portfolio. The artist will be paid $250 US dollars, sent by PayPal or Venmo, upon receipt of final image file. IFComp will cover currency conversion fees charged by PayPal</i>.</p></blockquote><p>If you are an artist thinking about making something for this year&rsquo;s competition (e.g. cover art or a game), the logo may not be or have an obvious reference to an entry submitted this year. We are still open to artists participating in any way, whether it be submitting a game or doing art for an author, in this year&rsquo;s competition.</p><p>Here are the last few years’ logos, just to give you an idea of what we’re looking for…</p><div class="npf_row"><figure class="tmblr-full" data-orig-height="467" data-orig-width="559"><img src="https://64.media.tumblr.com/455bc9a57d5e2f2f679ad0539a3cae5d/03ded472ebfeb9ff-e0/s640x960/e48bca3cf75eb14e9eddf52ffa7fe9bf94ba1f76.jpg" data-orig-height="467" data-orig-width="559" srcset="https://64.media.tumblr.com/455bc9a57d5e2f2f679ad0539a3cae5d/03ded472ebfeb9ff-e0/s75x75_c1/fc50bae194727fad9c43b931f1e60e3ad87e4962.jpg 75w, https://64.media.tumblr.com/455bc9a57d5e2f2f679ad0539a3cae5d/03ded472ebfeb9ff-e0/s100x200/ab5defc9c9d78d66979e7d51263273e1d4babf3a.jpg 100w, https://64.media.tumblr.com/455bc9a57d5e2f2f679ad0539a3cae5d/03ded472ebfeb9ff-e0/s250x400/ad0e50e4f2c6289d885c3c0ca92e251488f01f96.jpg 250w, https://64.media.tumblr.com/455bc9a57d5e2f2f679ad0539a3cae5d/03ded472ebfeb9ff-e0/s400x600/14e19c1c44b1422d16832fb3193f9fb5c61f06f2.jpg 400w, https://64.media.tumblr.com/455bc9a57d5e2f2f679ad0539a3cae5d/03ded472ebfeb9ff-e0/s500x750/c679082f89b5f5bf5c1f0460720c4df74ef7a52b.jpg 500w, https://64.media.tumblr.com/455bc9a57d5e2f2f679ad0539a3cae5d/03ded472ebfeb9ff-e0/s540x810/1e687273802335508972bf9ac74d3fd19b85037b.jpg 540w, https://64.media.tumblr.com/455bc9a57d5e2f2f679ad0539a3cae5d/03ded472ebfeb9ff-e0/s640x960/e48bca3cf75eb14e9eddf52ffa7fe9bf94ba1f76.jpg 559w" sizes="(max-width: 559px) 100vw, 559px"/></figure></div><p>Please feel free to share this info far and wide - and with any great artists you know! The artist does not have to be part of the interactive fiction community.</p> 
+
+<br> 
+
+<https://blog.ifcomp.org/post/785511692459294720>
 
 ---
 

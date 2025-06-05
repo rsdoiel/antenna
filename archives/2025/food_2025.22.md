@@ -1,11 +1,111 @@
 ---
 title: food
-updated: 2025-06-05 06:10:05
+updated: 2025-06-05 14:07:37
 ---
 
 # food
 
-(date: 2025-06-05 06:10:05)
+(date: 2025-06-05 14:07:37)
+
+---
+
+## Elise Jesse’s BLT with Homemade Mayo
+
+date: 2025-06-05, from: Taste of Home
+
+When tomato season hits, we make BLTs at a high clip. My homemade mayonnaise is the delicious sauce that holds the sandwich together. It's creamy, tangy and takes less than five minutes to make. —Elise Jesse, Cincinnati, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/elise-jesse-blt-with-homemade-mayo/>
+
+---
+
+## French Hot Chocolate
+
+date: 2025-06-05, from: Taste of Home
+
+Throw that powdered drink mix to the side! It's time to make French hot chocolate with thick, rich cream and melted chunks of real dark chocolate. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/french-hot-chocolate/>
+
+---
+
+## Bison Meat Loaf
+
+date: 2025-06-05, from: Taste of Home
+
+Bison meat loaf made with lean bison, herbs and a dash of Big Sky Country isn't just better for you—it's comfort food with a story and a seriously satisfying bite. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/bison-meat-loaf/>
+
+---
+
+## This Musical Artist Just Announced a Collab with Stanley—Here’s What We Know
+
+date: 2025-06-05, from: Taste of Home
+
+<p>We were stunned to discover who’s driving Stanley’s newest launch.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/stanley-post-malone/">This Musical Artist Just Announced a Collab with Stanley—Here&#8217;s What We Know</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/stanley-post-malone/>
+
+---
+
+## This New Bissell Stick Vacuum Has Headlights So You Don’t Miss Any Mess
+
+date: 2025-06-05, from: Taste of Home
+
+<p>Bissell's new PowerClean FurFinder vacuum uses built-in headlights to ensure that no fur is left behind on the floor.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/bissell-powerclean-furfinder/">This New Bissell Stick Vacuum Has Headlights So You Don&#8217;t Miss Any Mess</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/bissell-powerclean-furfinder/>
+
+---
+
+## The Bake Club Team Talks Coffee Cake Scones
+
+date: 2025-06-05, from: Bon Appetet
+
+On this episode of Dinner SOS, the BA Bake Club is back with a recipe that combines two breakfast darlings into one: coffee cake scones. 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-bake-club-team-talks-coffee-cake-scones>
+
+---
+
+## Vietnam Coffee Report: Production, Exports and Consumption All Rising
+
+date: 2025-06-05, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Vietnam-final-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Vietnam final" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Vietnam-final-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Vietnam-final-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Vietnam-final-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Vietnam-final-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Vietnam-final.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee production in Vietnam is forecast to reach the equivalent of 31 million 60-kilogram bags in the 2025/26 market year (October to September), up from 29 million in the previous... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/05/vietnam-coffee-report-production-exports-and-consumption-all-rising/>
+
+---
+
+## Take Two Does It Again with Coffee and Doughnuts in Fort Myers, Florida
+
+date: 2025-06-05, from: Daily Coffee News
+
+<div><img width="620" height="416" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Take-Two-Coffee-Fort-Myers-bar-620x416.jpg" class="attachment-large size-large wp-post-image" alt="Take Two Coffee Fort Myers bar" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Take-Two-Coffee-Fort-Myers-bar-620x416.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Take-Two-Coffee-Fort-Myers-bar-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Take-Two-Coffee-Fort-Myers-bar-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Take-Two-Coffee-Fort-Myers-bar-768x515.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Take-Two-Coffee-Fort-Myers-bar.jpg 1024w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; With coffee and doughnuts, Take Two Coffee is taking a second run at bricks-and-mortar in Fort Myers, Florida, relocating from its original cafe to a higher-visibility location.&#160; A little... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/05/take-two-does-it-again-with-coffee-and-doughnuts-in-fort-myers-florida/>
 
 ---
 
@@ -30,6 +130,22 @@ Matcha tints this refreshing noodle dish a delightful green hue—and imparts it
 <br> 
 
 <https://www.bonappetit.com/recipe/cold-matcha-noodles>
+
+---
+
+## Chicken and Asparagus Stir-fry
+
+date: 2025-06-05, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2009/05/Asparagus-and-Chicken-Stir-fry-1200-6777.jpg"/></div>
+<p>A quick and easy chicken stir-fry with asparagus and cashews! Chinese style stir-frys where you quickly cook a meat along with some vegetables, aromatics and a tasty sauce are a favorite and this chicken and asparagus one is the perfect way to enjoy some spring asparagus! This recipe is as easy to make and stir-frying...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/asparagus-and-cashew-chicken-stir-fry/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/asparagus-and-cashew-chicken-stir-fry/">Chicken and Asparagus Stir-fry</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/asparagus-and-cashew-chicken-stir-fry/>
 
 ---
 
@@ -187,7 +303,7 @@ date: 2025-06-04, from: The Sprudge
 
 date: 2025-06-04, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Indonesia final" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Indonesia’s coffee production for the 2025/26 market year (April to March) is forecast at the equivalent of 11.3 million 60-kilogram bags, up 5% from the prior year, according to the... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Indonesia final" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Indonesia’s coffee production for the 2025/26 market year (April to March) is forecast at the equivalent of 11.3 million 60-kilogram bags, up 5% from the prior year, according to the... 
 
 <br> 
 
@@ -199,7 +315,7 @@ date: 2025-06-04, from: Daily Coffee News
 
 date: 2025-06-04, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/StoneX-specialty-620x465.jpg" class="attachment-large size-large wp-post-image" alt="StoneX specialty" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/StoneX-specialty-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/StoneX-specialty-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/StoneX-specialty-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/StoneX-specialty-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/StoneX-specialty.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Seattle-based green coffee trader StoneX Specialty Coffee recently opened a warehouse outside Kansas City, Missouri, bringing more green coffees and professional coffee services to the central United States. While StoneX... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/StoneX-specialty-620x465.jpg" class="attachment-large size-large wp-post-image" alt="StoneX specialty" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/StoneX-specialty-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/StoneX-specialty-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/StoneX-specialty-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/StoneX-specialty-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/StoneX-specialty.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Seattle-based green coffee trader StoneX Specialty Coffee recently opened a warehouse outside Kansas City, Missouri, bringing more green coffees and professional coffee services to the central United States. While StoneX... 
 
 <br> 
 
@@ -211,7 +327,7 @@ date: 2025-06-04, from: Daily Coffee News
 
 date: 2025-06-04, from: Daily Coffee News
 
-<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/buckman-bonamici-620x349.jpg" class="attachment-large size-large wp-post-image" alt="buckman-bonamici" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/buckman-bonamici-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/buckman-bonamici-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/buckman-bonamici-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/buckman-bonamici-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/buckman-bonamici.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; At a roundtable with U.S. Rep. Suzanne Bonamici last week in Portland, Oregon, coffee business leaders expressed frustration and a sense of urgency over tariffs, USAID cuts and other... 
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/buckman-bonamici-620x349.jpg" class="attachment-large size-large wp-post-image" alt="buckman-bonamici" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/buckman-bonamici-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/buckman-bonamici-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/buckman-bonamici-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/buckman-bonamici-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/buckman-bonamici.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; At a roundtable with U.S. Rep. Suzanne Bonamici last week in Portland, Oregon, coffee business leaders expressed frustration and a sense of urgency over tariffs, USAID cuts and other... 
 
 <br> 
 

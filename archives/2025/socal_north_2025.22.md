@@ -1,11 +1,152 @@
 ---
 title: socal north
-updated: 2025-06-05 06:09:58
+updated: 2025-06-05 14:07:32
 ---
 
 # socal north
 
-(date: 2025-06-05 06:09:58)
+(date: 2025-06-05 14:07:32)
+
+---
+
+## ‘Serving adult learners’: California community colleges are expanding short-term career programs
+
+date: 2025-06-05, updated: 2025-06-05, from: The LAist
+
+More adult students want a quicker path to a certificate and entering the workforce. 
+
+<br> 
+
+<https://laist.com/news/education/serving-adult-learners-california-community-colleges-are-expanding-short-term-career-programs>
+
+---
+
+## California Democrats push to block ICE from schools, hospitals and shelters
+
+date: 2025-06-05, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Highly publicized immigration raids have rattled the community and prompted lawmakers to push for more laws protecting immigrants.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/california-democrats-push-to-block-ice-from-schools-hospitals-and-shelters">California Democrats push to block ICE from schools, hospitals and shelters</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/california-democrats-push-to-block-ice-from-schools-hospitals-and-shelters>
+
+---
+
+## California Democrats push to block ICE from schools, hospitals and shelters
+
+date: 2025-06-05, updated: 2025-06-05, from: The LAist
+
+California is a sanctuary state where police can’t help federal immigration authorities. Lawmakers want to keep them out of schools and hospitals. 
+
+<br> 
+
+<https://laist.com/news/politics/california-democrats-push-to-block-ice-from-schools-hospitals-and-shelters>
+
+---
+
+## Governor Newsom and Director Fryday’s Statements on Court Ruling Restoring AmeriCorps Funding
+
+date: 2025-06-05, from: CalVolunteers
+
+ 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/governor-newsom-and-director-frydays-statements-on-court-ruling-restoring-americorps-funding/>
+
+---
+
+## California Department of Education urges school districts to resist Trump’s threats over transgender athletes
+
+date: 2025-06-05, from: Longbeach Post
+
+<figure><img width="1024" height="720" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-1024x720.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-1024x720.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-300x211.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-768x540.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-154x108.jpg 154w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-400x281.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The U.S. Department of Justice has warned California schools they may be held in violation of civil rights protections for girls.</p>
+<p>The post <a href="https://lbpost.com/news/education/california-department-of-education-urges-school-districts-to-resist-trumps-threats-over-transgender-athletes">California Department of Education urges school districts to resist Trump’s threats over transgender athletes</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/california-department-of-education-urges-school-districts-to-resist-trumps-threats-over-transgender-athletes>
+
+---
+
+## Supervisors launch campaign to assess governance options in East LA
+
+date: 2025-06-05, updated: 2025-06-05, from: The LAist
+
+With cityhood ruled out for now, the county will conduct outreach to explore new ways East L.A. residents can gain representation through a Municipal Advisory Council or Town Council. 
+
+<br> 
+
+<https://laist.com/news/politics/supervisors-launch-campaign-to-assess-governance-options-in-east-la>
+
+---
+
+## Long Beach hasn’t enforced beach bike path speed limit in years, records show
+
+date: 2025-06-05, from: Longbeach Post
+
+<figure><img width="1024" height="594" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04195700/04jun25-biks-8175-950486-cxpg3azz-842927-VkreDsgb-1024x594.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04195700/04jun25-biks-8175-950486-cxpg3azz-842927-VkreDsgb-1024x594.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04195700/04jun25-biks-8175-950486-cxpg3azz-842927-VkreDsgb-300x174.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04195700/04jun25-biks-8175-950486-cxpg3azz-842927-VkreDsgb-768x445.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04195700/04jun25-biks-8175-950486-cxpg3azz-842927-VkreDsgb-186x108.jpg 186w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04195700/04jun25-biks-8175-950486-cxpg3azz-842927-VkreDsgb-400x232.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04195700/04jun25-biks-8175-950486-cxpg3azz-842927-VkreDsgb.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The city is testing whether to allow more motorized vehicles on the beach path, but records confirm residents' concerns that even current traffic rules aren’t enforced.</p>
+<p>The post <a href="https://lbpost.com/news/city/long-beach-bike-bath-speed-limit-enforcement-scooters-ebikes">Long Beach hasn’t enforced beach bike path speed limit in years, records show</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/long-beach-bike-bath-speed-limit-enforcement-scooters-ebikes>
+
+---
+
+## FEMA was starting to fix long-standing problems. Then came the Trump administration
+
+date: 2025-06-05, updated: 2025-06-05, from: The LAist
+
+The Federal Emergency Management Agency has a long history of failing to help those who need assistance the most after disasters. Biden-era changes meant to fix some of those problems now face an uncertain future. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/fema-was-starting-to-fix-long-standing-problems-then-came-the-trump-administration>
+
+---
+
+## Lingering chance of showers and thunderstorms for LA followed by warmer weather
+
+date: 2025-06-05, updated: 2025-06-05, from: The LAist
+
+There's a slight chance of thunderstorms and afternoon showers around the eastern San Gabriel Mountains. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-warmup-weekend>
+
+---
+
+## Fort Fire near Grapevine grows to 220 acres with 5% containment
+
+date: 2025-06-05, updated: 2025-06-05, from: The LAist
+
+Evacuation orders were issued for residents in the Digier Canyon and Lebec areas. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/fort-fire-kern-county>
+
+---
+
+## Best things to do this weekend in LA and SoCal: June 6 - 8
+
+date: 2025-06-05, updated: 2025-06-05, from: The LAist
+
+Verdi’s Messa da Requiem, an immersive Gatsby dance, Hugh Jackman at Hollywood Bowl season opener, Pride heads to Venice, free Metro rides, Watermelon Fest, and more of the best things to do this weekend. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-weekend-los-angeles-southern-california-june-6-8>
 
 ---
 
@@ -49,7 +190,7 @@ Senate Democrats warn Trump plan to wipe out public broadcasting funding will sh
 
 date: 2025-06-05, from: Longbeach Post
 
-<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Air quality board will vote Friday on targets and fees that aim to phase out water heaters and furnaces powered by natural gas. These appliances emit more smog-causing gases than the region’s largest industrial polluters.</p>
 <p>The post <a href="https://lbpost.com/news/climate-change/these-gas-appliances-one-of-the-largest-sources-of-las-smog-could-be-phased-out">These gas appliances — one of the largest sources of LA’s smog — could be phased out</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -60,7 +201,7 @@ date: 2025-06-05, from: Longbeach Post
 
 ---
 
-## Trump issues new travel ban covering a dozen countries
+## Trump bans travelers from a dozen countries, reviving a measure from his first term
 
 date: 2025-06-05, updated: 2025-06-05, from: The LAist
 
@@ -150,7 +291,7 @@ date: 2025-06-04, from: City of Santa Clarita
 
 date: 2025-06-04, from: Longbeach Post
 
-<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>An affidavit unsealed today also describes the bomber using an AI chat application to research the process of making powerful explosives</p>
 <p>The post <a href="https://lbpost.com/news/crime/washington-man-allegedly-motivated-by-anti-life-ideology-charged-with-helping-palm-springs-bomber">Washington man allegedly motivated by ‘anti-life’ ideology charged with helping Palm Springs bomber</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

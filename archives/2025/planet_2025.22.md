@@ -1,11 +1,315 @@
 ---
 title: planet
-updated: 2025-06-05 06:09:57
+updated: 2025-06-05 14:07:31
 ---
 
 # planet
 
-(date: 2025-06-05 06:09:57)
+(date: 2025-06-05 14:07:31)
+
+---
+
+## US slaps sanctions on 4 ICC judges over Israel, US cases
+
+date: 2025-06-05, from: RTÉ News
+
+The United States has imposed sanctions on four judges at the International Criminal Court, including over an arrest warrant for Israeli Prime Minister Benjamin Netanyahu, ramping up pressure on The Hague-based body. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0605/1516974-icc-us-sanctions/>
+
+---
+
+## Robert Pether released on bail from jail in Iraq
+
+date: 2025-06-05, from: RTÉ News
+
+Tánaiste Simon Harris has confirmed that Robert Pether who has been held in jail in Iraq for over four years has been released on bail. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0605/1516967-robert-pether-bail/>
+
+---
+
+## WWI letters and medals found in house in Tipperary
+
+date: 2025-06-05, from: RTÉ News
+
+A collection of letters and medals from a soldier serving on the Front Line during World War I have been discovered in a house in Tipperary. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0605/1516962-wwi-letters-and-medals-found-in-house-in-tipperary/>
+
+---
+
+## Gaza aid distribution system 'bogus', President says
+
+date: 2025-06-05, from: RTÉ News
+
+President Michael D Higgins has described the current food and humanitarian distribution system in Gaza as "bogus". 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0605/1516961-michael-d-higgins-gaza/>
+
+---
+
+## LDA set for private land purchase for housing projects
+
+date: 2025-06-05, from: RTÉ News
+
+The Land Development Agency is on course to purchase more private land and build more private housing projects, following a meeting of the Cabinet committee on housing in Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0605/1516948-lda-to-purchase-private-land-for-private-housing-projects/>
+
+---
+
+## Trump attacks Musk as public feud escalates over tax bill
+
+date: 2025-06-05, from: RTÉ News
+
+US President Donald Trump has lashed out against Elon Musk, saying he was "disappointed" by the billionaire's public opposition to the sweeping tax-cut and spending bill that is at the heart of Mr Trump's agenda. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0605/1516950-donald-trump-elon-musk/>
+
+---
+
+## 'Free Palestine' message in the sand near Trump's hotel
+
+date: 2025-06-05, from: RTÉ News
+
+An environmental artist created a huge 'Free Palestine' message in the sand on the beach backing on to US President Donald Trump's golf resort in Co Clare. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0605/1516940-free-palestine-message-in-the-sand-near-trumps-hotel/>
+
+---
+
+## Judge threatens to remove Combs over facial gestures
+
+date: 2025-06-05, from: RTÉ News
+
+The judge overseeing the US federal trial of fallen hip-hop giant Sean 'Diddy' Combs threatened to remove him from the courtroom after he apparently made facial expressions at jurors. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0605/1516945-diddy-trial/>
+
+---
+
+## Red light: Georgia blocks licence path for Irish learner drivers
+
+date: 2025-06-05, from: RTÉ News
+
+Irish drivers had been travelling to Georgia to fast-track their licences — but a new residency rule has now closed the loophole 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0605/1516938-red-light-georgia-blocks-licence-path-for-irish-learner-drivers/>
+
+---
+
+## Questions HIQA needs to answer after nursing home exposé
+
+date: 2025-06-05, from: RTÉ News
+
+Aoife Hegarty, Deputy Editor, RTÉ Investigates, looks at some of the questions HIQA still has to answer after RTÉ Investigates programme uncovered multiple examples of care failings and neglect of vulnerable older residents at two nursing homes. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0605/1516935-hiqa-nursing-homes/>
+
+---
+
+## Merz tells Trump he wants 'more pressure' on Russia
+
+date: 2025-06-05, from: RTÉ News
+
+German Chancellor Friedrich Merz has urged US President Donald Trump to put more pressure on Russia to bring an end to its three-year-old war against Ukraine. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0605/1516937-friedrich-merz-donald-trump-meeting/>
+
+---
+
+## Two boys sentenced to six years for rape of girl in 2022
+
+date: 2025-06-05, from: RTÉ News
+
+Two boys who raped a teenage girl in a car at Limerick Racecourse when they were aged just 13 and 15 years old have each been sentenced to six years in detention. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0605/1516930-limerick-court-rape/>
+
+---
+
+## Fórsa members at Barnardos to take industrial action
+
+date: 2025-06-05, from: RTÉ News
+
+Staff at children's charity Barnardos, who are members of the Fórsa trade union, have served notice of industrial action in a dispute over pay. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0605/1516932-barnardos-industrial-action/>
+
+---
+
+## News from the Orient - June 5, 2025
+
+date: 2025-06-05, from: Vatican News
+
+
+                    <p>In this week's News from the Orient, produced in collaboration with L'Œuvre d'Orient: Priests ordained on Ascension Day, relics of Cardinal Hossu are to be displayed at the Vatican, and Global Coptic Day is marked worldwide. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/news-from-the-orient-june-5-2025.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/news-from-the-orient-june-5-2025.html>
+
+---
+
+## Archbishop Gallagher in Cuba: Promoting peace and unity
+
+date: 2025-06-05, from: Vatican News
+
+
+                    <p>The Vatican Secretary for Relations with States visits Cuba to mark 90 years of diplomatic relations between the Holy See and Havana. The visit also highlights the Holy See’s continued commitment to accompanying the Cuban people and supporting the common good.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/archbishop-gallagher-cuba-visit-90-anniversary-diplomatic-relati.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/archbishop-gallagher-cuba-visit-90-anniversary-diplomatic-relati.html>
+
+---
+
+## Man who harassed female journalists jailed for 11 years
+
+date: 2025-06-05, from: RTÉ News
+
+A convicted rapist who threatened and harassed three female Sunday World journalists has been jailed for 11 years. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0605/1516926-mark-mcanaw-court/>
+
+---
+
+## Jurors in Weinstein rape, sexual assault trial deliberate
+
+date: 2025-06-05, from: RTÉ News
+
+Jurors in Harvey Weinstein's rape and sexual assault retrial will begin deliberating today in a Manhattan court, weighing the credibility of the former movie mogul's three accusers against the defence's efforts to brand them liars. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0605/1516923-jurors-in-weinstein-rape-sexual-assault-trial-deliberate/>
+
+---
+
+## Tax take to end of May up 3.6% on same time last year
+
+date: 2025-06-05, from: RTÉ News
+
+Taxes collected by the State rose by 3.6% in the first five months of the year to €36.4bn, according to latest Exchequer Returns from the Department of Finance. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0605/1516919-exchequer-returns/>
+
+---
+
+## Musk vs. Trump: A power couple tumbles into a messy divorce
+
+date: 2025-06-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7553400.1749147575!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-musk.JPG' alt='Musk standing, wearing black cap. Trump, seated at desk' width='620' height='349' title='U.S. President Donald Trump and billionaire Elon Musk, seen speaking in the Oval Office last week as Musk announced his departure from the administration.'/><p>Elon Musk is increasingly disparaging of the president’s signature budget bill, calling it a disgusting abomination. The president’s reply: Musk is just bitter, and he's not sure they'll be getting along anymore.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/musk-vs-trump-sniping-analysis-1.7553387?cmp=rss>
+
+---
+
+## World Environment Day 2025: #BeatPlasticPollution
+
+date: 2025-06-05, from: Vatican News
+
+
+                    <p>The Republic of Korea hosts the 2025 edition of this World Day as the theme challenges everyone to combat the ever-growing problem of plastic pollution.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/world-environmental-day-2025-beatplasticpollution.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/world-environmental-day-2025-beatplasticpollution.html>
+
+---
+
+## Chantel Moore's mother walks 33 km in B.C. on anniversary of daughter's killing by police
+
+date: 2025-06-05, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.5598586.1683218994!/httpImage/image.jpg_gen/derivatives/16x9_620/chantel-moore.jpg' alt='A woman with dark hair smiling.' width='620' height='349' title='Chantel Moore, 26, was shot and killed by police during a wellness check in Edmundston in June.'/><p>Martha Martin, the mother of Chantel Moore, held a 33-kilometre memorial walk in B.C. on the fifth anniversary of her daughter's death on Wednesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/chantel-moore-s-mother-walks-33-km-in-b-c-on-anniversary-of-daughter-s-killing-by-police-1.7552527?cmp=rss>
+
+---
+
+## Immigration minister defends sweeping new powers in border bill
+
+date: 2025-06-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7553245.1749142971!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/que-asylum-seekers-20170821.jpg' alt='An asylum seeker confronted by a police officer on their way into Canada. ' width='620' height='349' title='An asylum seeker, claiming to be from Eritrea, is confronted by an RCMP officer as he crosses the border into Canada from the United States Monday, August 21, 2017 near Champlain, N.Y. Canada&apos;s Immigration Minister is defending the government&apos;s move to place limits on asylum seekers. '/><p>Immigration Minister Lena Metlege Diab is defending controversial new measures in the Strong Borders Act, such as giving her office the power to cancel immigration documents en masse and placing time limits for asylum seekers to make their applications.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/liberal-border-bill-asylum-immigration-1.7553227?cmp=rss>
+
+---
+
+## From Castel Gandolfo to the world: Religious women embrace new challenges after transformative studies in Rome
+
+date: 2025-06-05, from: Vatican News
+
+
+                    <p>The Dicastery for Evangelization continues to have a profound impact on the lives of religious sisters, especially those from regions that fall under the jurisdiction or competence of the Dicastery—primarily in Asia and African countries. Through scholarships provided by the Dicastery, these religious women study at pontifical universities, particularly at the Pontifical Urban University (Pontificia Università Urbaniana).</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-06/empowered-to-serve-consecrated-women-graduate-from-various-univ.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-06/empowered-to-serve-consecrated-women-graduate-from-various-univ.html>
+
+---
+
+## Sceilg Mhichíl boat trips get court go-ahead to resume
+
+date: 2025-06-05, from: RTÉ News
+
+Boats will be permitted to ferry people to and from Sceilg Mhichíl for the remainder of this summer following a ruling from the High Court. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0605/1516908-sceilg-mhichil/>
 
 ---
 
@@ -21,6 +325,18 @@ A 31-year-old man has been charged in connection with the death of a 71-year-old
 
 ---
 
+## Man charged with murder of his mother, 71, in Belfast
+
+date: 2025-06-05, from: RTÉ News
+
+A man has been remanded in custody after being charged with murdering his mother in Belfast. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0605/1516901-mary-green-investigation/>
+
+---
+
 ## Ireland had warmest spring in 126 years - Met Éireann
 
 date: 2025-06-05, from: RTÉ News
@@ -30,6 +346,18 @@ Spring this year was the warmest Ireland has ever experienced in 126 years of re
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0605/1516891-climate-spring/>
+
+---
+
+## Ireland had warmest spring in 126 years, says Met Éireann
+
+date: 2025-06-05, from: RTÉ News
+
+Spring this year was the warmest Ireland has experienced in 126 years of records held by Met Éireann. 
+
+<br> 
+
+<https://www.rte.ie/news/weather/2025/0605/1516891-climate-spring/>
 
 ---
 
@@ -45,6 +373,22 @@ Waste collection services by Bord na Móna Recycling could be disrupted later th
 
 ---
 
+## Pope Leo XIV meets Pontifical Commission for the Protection of Minors
+
+date: 2025-06-05, from: Vatican News
+
+
+                    <p>Pope Leo XIV encounters the Pontifical Commission for the Protection of Minors in the Vatican.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-thanks-pontifical-commission-for-protecting-minors1.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-thanks-pontifical-commission-for-protecting-minors1.html>
+
+---
+
 ## McGovern's lawyers question legality of his extradition
 
 date: 2025-06-05, from: RTÉ News
@@ -54,6 +398,18 @@ Lawyers for Sean McGovern (39), who is charged with murder and directing a crimi
 <br> 
 
 <https://www.rte.ie/news/2025/0605/1516889-mcgoverns-lawyers-question-legality-of-his-extradition/>
+
+---
+
+## McGovern's lawyers question legality of his extradition
+
+date: 2025-06-05, from: RTÉ News
+
+Lawyers for Sean McGovern, who is charged with murder and directing a criminal organisation, have raised a concern about the legality of his extradition to Ireland from the United Arab Emirates last week. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0605/1516889-mcgoverns-lawyers-question-legality-of-his-extradition/>
 
 ---
 
@@ -69,6 +425,102 @@ A doctor accused of dangerous driving causing the death of his daughter on the M
 
 ---
 
+## ‘It is an elephant’: Ukraine’s unexploded mine problem
+
+date: 2025-06-05, from: United Nations, Top Stories
+
+In Ukraine, overnight attacks continued into Thursday morning, resulting in&nbsp;45 casualties and significant damage to civilian infrastructure, the UN has reported.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164121>
+
+---
+
+## UN hails new era of cooperation over Syria’s chemical weapons stockpile – but concerns persist
+
+date: 2025-06-05, from: United Nations, Top Stories
+
+The UN’s top disarmament official has welcomed signs of increased cooperation from Syrian authorities in efforts to eliminate the country’s chemical weapons once and for all, as preparations move forward for a third round of inspections by international experts. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164126>
+
+---
+
+## AIDS still killing one person every minute as funding cuts stall progress
+
+date: 2025-06-05, from: United Nations, Top Stories
+
+AIDS-related deaths have dropped to their lowest level since 2004, but progress remains precarious, with the disease still claiming one life every minute. The impact of funding cuts is severe, causing widespread disruption to HIV services and threatening hard-won gains.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164111>
+
+---
+
+## World News in Brief: Women’s health in Sudan, childhood wasting, Belarus trade unions, Guatemala child rights violation
+
+date: 2025-06-05, from: United Nations, Top Stories
+
+As hostilities rage in Sudan, access constraints and devastating funding cuts are isolating rape survivors and pregnant women from essential health services, the UN sexual and reproductive health agency UNFPA said on Thursday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164116>
+
+---
+
+## From summits to street art to schools: Here’s how we’re marking World Environment Day
+
+date: 2025-06-05, from: United Nations, Top Stories
+
+5 June marks the 52nd&nbsp;World Environment Day, led by the UN Environment Programme (UNEP) and hosted by Jeju, South Korea, under the theme #BeatPlasticPollution.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164101>
+
+---
+
+## UN chief urges world leaders to keep two-State solution ‘alive’
+
+date: 2025-06-05, from: United Nations, Top Stories
+
+UN Secretary-General António Guterres on Thursday urged world leaders to revive efforts toward a two-State solution to the Israeli-Palestinian conflict, warning that there is no alternative. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164091>
+
+---
+
+## Number of aid workers killed in Gaza conflict, highest in UN history: Guterres
+
+date: 2025-06-05, from: United Nations, UN Affairs
+
+The United Nations paid tribute on Thursday to the 168 staff members who lost their lives in 2024. They include 126 personnel killed in Gaza, all but one of whom served with the UN agency that assists Palestine refugees, UNRWA.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164086>
+
+---
+
+## In Gaza, daily food intake has fallen well below ‘survival’ level
+
+date: 2025-06-05, from: United Nations, Top Stories
+
+The lack of food entering Gaza caused by ongoing Israeli aid restrictions is leaving increasing numbers of Palestinians “vulnerable to starvation”, with daily energy intake now well below what a human body needs to survive, the UN warned on Thursday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164076>
+
+---
+
 ## Donohoe awarded Chevalier rank in French Legion of Honour
 
 date: 2025-06-05, from: RTÉ News
@@ -78,6 +530,18 @@ Minister for Finance Paschal Donohoe has been awarded the rank of "Chevalier" in
 <br> 
 
 <https://www.rte.ie/news/2025/0605/1516885-donohoe-chevalier-france/>
+
+---
+
+## Donohoe awarded Chevalier rank in French Legion of Honour
+
+date: 2025-06-05, from: RTÉ News
+
+Minister for Finance Paschal Donohoe has been awarded the rank of 'Chevalier' in the French National Legion of Honour. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0605/1516885-donohoe-chevalier-france/>
 
 ---
 
@@ -129,6 +593,18 @@ US Defense Secretary Pete Hegseth has said he was confident that members of the 
 
 ---
 
+## A-ha singer Morten Harket diagnosed with Parkinson's disease
+
+date: 2025-06-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7552977.1749132386!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/brazil-entertainment.JPG' alt='A man with short hair and wearing glasses, a dark t-shirt and brown leather jacket holds a mic in one hand as he performs on-stage, with lights behind him.' width='620' height='349' title='Morten Harket of the A-ha band performs during a concert at the Rock in Rio Music Festival in Rio de Janeiro, Brazil, September 27, 2015. REUTERS/Pilar Olivares'/><p>Morten Harket, lead singer of Norwegian band A-ha, whose Take On Me remains one of the most popular songs from the 1980s, has undergone rounds of brain surgery and managing symptoms of Parkinson's disease.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/a-ha-singer-parkinsons-1.7552969?cmp=rss>
+
+---
+
 ## Dublin Airport expects 120k passengers a day this summer
 
 date: 2025-06-05, from: RTÉ News
@@ -138,6 +614,18 @@ Operator daa has said that it predicts it will be a record breaking summer for D
 <br> 
 
 <https://www.rte.ie/news/2025/0605/1516862-dublin-airport-passengers/>
+
+---
+
+## Passengers eye more seating as daa expects record numbers
+
+date: 2025-06-05, from: RTÉ News
+
+Operator daa has said that it predicts it will be a record-breaking summer for Dublin Airport with 10 million people set to pass through the airport from June to August. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0605/1516862-dublin-airport/>
 
 ---
 
@@ -225,6 +713,18 @@ date: 2025-06-05, from: Vatican News
 
 ---
 
+## HRI and LDA to develop Leopardstown campus, 800 new homes
+
+date: 2025-06-05, from: RTÉ News
+
+The Land Development Agency and Horse Racing Ireland have reached an agreement on the transfer of land with the potential to deliver 800 homes at Leopardstown Racecourse in south Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0605/1516824-hri-and-lda-to-develop-leopardstown-campus/>
+
+---
+
 ## HSE intends to meet gardaí to discuss internal CHI report
 
 date: 2025-06-05, from: RTÉ News
@@ -234,6 +734,30 @@ The Health Service Executive has said it has decided to refer matters raised in 
 <br> 
 
 <https://www.rte.ie/news/2025/0605/1516821-chi-report/>
+
+---
+
+## HSE intends to meet gardaí to discuss internal CHI report
+
+date: 2025-06-05, from: RTÉ News
+
+The Health Service Executive has said it has decided to refer matters raised in the internal Children's Health Ireland report to An Garda Síochána and intends to meet gardaí very shortly to discuss it. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0605/1516821-chi-report/>
+
+---
+
+## Kahnawà:ke Fire Brigade gives out smoke detectors to educate community on fire prevention
+
+date: 2025-06-05, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/f4803038-a13f-4696-b6fa-1065f70f572b,1749125856562/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='Two fire trucks belonging to Kahnawà:ke Fire Brigade parked at fire station. Text on left side of image reads &apos;Fire prevention campaign.&apos;' width='620' height='349' title=''/><p>The fire brigade in Kahnawà:ke is holding a campaign during National Indigenous History Month to raise awareness about fire safety. Indigenous people make up five per cent of the population in Canada, but 20 per cent of deaths related to residential fires, according to the National Indigenous Fire Safety Council.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6786157?cmp=rss>
 
 ---
 
@@ -297,6 +821,18 @@ Nine people were injured after a Milan-bound Ryanair flight was forced to make a
 
 ---
 
+## Manitoba cabinet minister harassed college employee in past job, external investigation concluded
+
+date: 2025-06-05, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7552413.1749068224!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/rebecca-chartrand-may-28-2025.jpg' alt='A woman in a white jacket speaks as she stands in a parliamentary chamber.' width='620' height='349' title='Minister of Northern and Arctic Affairs Rebecca Chartrand rises during question period on Wednesday, May 28, 2025, in Ottawa.'/><p>Recently appointed federal cabinet minister Rebecca Chartrand harassed a former employee at Winnipeg's RRC Polytech over a period of several months in 2019, according to an external investigation commissioned by the college and conducted by a Winnipeg law firm.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/chartrand-mp-harassment-investigation-1.7551941?cmp=rss>
+
+---
+
 ## Accused mushroom killer says she lied to police
 
 date: 2025-06-05, from: RTÉ News
@@ -309,7 +845,7 @@ An Australian woman accused of murdering three people with poisonous mushrooms h
 
 ---
 
-## Israel recovers bodies of Canadian Israeli Judih Weinstein Haggai and husband held by Hamas
+## Israel recovers bodies of Canadian Israeli Judih Weinstein and husband held by Hamas
 
 date: 2025-06-05, from: CBC, World News
 
@@ -357,6 +893,18 @@ The EU's sweeping new rules on the regulation of medicines has been one of the m
 
 ---
 
+## Safety cameras to be placed at railway level crossings
+
+date: 2025-06-05, from: RTÉ News
+
+Up to six mobile safety cameras are to be introduced at level crossings on Ireland's rail network as part of efforts to deter risky behaviour by road users. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0605/1516765-level-crossings/>
+
+---
+
 ## Australian woman denies weighing 'fatal dose' of toxic mushrooms in murder trial
 
 date: 2025-06-05, from: CBC, World News
@@ -369,7 +917,19 @@ date: 2025-06-05, from: CBC, World News
 
 ---
 
-## Trump imposes US travel ban on 12 countries
+## Canoe expedition retraces historic 1,200-kilometre fur-trade route to James Bay
+
+date: 2025-06-05, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7552383.1749067860!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/a-la-mer-du-nord.jpg' alt='A large group of people waiting on a shore by a row of canoes.' width='620' height='349' title='The &quot;À La Mer Du Nord&quot; expedition depart from Tadoussac, Qc., to Waskaganish to retrace the historic Fur Trade Route.'/><p>A small team of paddlers has set off this spring, travelling 1,200 kilometres by canoe and portage from Tadoussac, Que., to James Bay. They'll be reviving an ancient route carved by fur traders and Indigenous guides centuries ago.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/%C3%A0-la-mer-du-nord-canoe-expedition-retrace-fur-trade-route-1.7552380?cmp=rss>
+
+---
+
+## 'We don't want them': Trump imposes new travel ban
 
 date: 2025-06-05, from: RTÉ News
 
@@ -405,11 +965,23 @@ Gaza's civil defence agency said Israeli strikes killed at least 10 people in th
 
 ---
 
-## HIQA carrying out review into Emeis Ireland nursing homes
+## Gaza rescuers say 37 killed in Israeli airstrikes
 
 date: 2025-06-04, from: RTÉ News
 
-HIQA has confirmed it is carrying out a review of all nursing homes operated by the Emeis Ireland group, after multiple care failings and neglect of vulnerable older residents at two of its nursing homes were documented by RTÉ Investigates. 
+Gaza's civil defence agency said Israeli strikes killed at least 37 people in the battered Palestinian territory as the military keeps up an intensified offensive. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0605/1516777-gaza-israel/>
+
+---
+
+## Portlaoise nursing home breached admissions restrictions
+
+date: 2025-06-04, from: RTÉ News
+
+A nursing home in Portlaoise, run by Emeis Ireland, breached a restriction on admissions imposed by HIQA earlier this year, RTÉ Investigates has learned. 
 
 <br> 
 
@@ -710,6 +1282,18 @@ Minister for Justice Jim O'Callaghan has said the extradition of Sean McGovern f
 
 ---
 
+## Ontario passes controversial mining law as Doug Ford warns against blockades
+
+date: 2025-06-04, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7552186.1749060000!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/ont-debates-20250602.jpg' alt='Group of people in front of building' width='620' height='349' title='Protesters chant and wave flags during a demonstration outside the Ontario Legislature at Queen&apos;s Park in Toronto on Monday. '/><p>Ontario government has passed a controversial mining law — Bill 5. It has sparked angry backlash from First Nations who warn they may blockade roads and railways in protest.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/toronto/ontario-ford-mining-law-1.7552148?cmp=rss>
+
+---
+
 ## Skyward by David H. Levy – June 2025
 
 date: 2025-06-04, from: Vatican Obervatory
@@ -868,7 +1452,7 @@ Amid reports of yet another deadly attack on a school in Gaza on Wednesday, the 
 
 ## The world’s oceans are dying. Can a UN summit in Nice turn the tide?
 
-date: 2025-06-04, from: United Nations, Top Stories
+date: 2025-06-04, from: United Nations, Economic Development
 
 As coral reefs bleach, fish stocks collapse, and sea temperatures break records, world leaders are heading to the French Riviera — not for leisure, but for one of the most urgent diplomatic gatherings of the year. 
 

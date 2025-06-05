@@ -1,11 +1,171 @@
 ---
 title: north america
-updated: 2025-06-05 06:09:57
+updated: 2025-06-05 14:07:31
 ---
 
 # north america
 
-(date: 2025-06-05 06:09:57)
+(date: 2025-06-05 14:07:31)
+
+---
+
+## 50 years ago, two Black coaches faced off in historic NBA Finals
+
+date: 2025-06-05, from: The Contrarian
+
+'You didn&#8217;t need to beat your chest, you were there.' 
+
+<br> 
+
+<https://contrarian.substack.com/p/50-years-ago-two-black-coaches-faced>
+
+---
+
+## Split Screen: Michelle Wu, mayorhood and motherhood
+
+date: 2025-06-05, from: The Contrarian
+
+Women politicians are treated differently, and especially so when they are pregnant or mothers. 
+
+<br> 
+
+<https://contrarian.substack.com/p/split-screen-michelle-wu-mayorhood>
+
+---
+
+## Targeting Jews because you don’t like Israel is antisemitism 
+
+date: 2025-06-05, from: The Contrarian
+
+We need everyone to speak up now. 
+
+<br> 
+
+<https://contrarian.substack.com/p/targeting-jews-because-you-dont-like>
+
+---
+
+## No Permission Asked. None Required.
+
+date: 2025-06-05, from: The Contrarian
+
+Ukraine&#8217;s drone strike reminded allies, enemies, and the president what leadership really looks like 
+
+<br> 
+
+<https://contrarian.substack.com/p/no-permission-asked-none-required>
+
+---
+
+##  Whistleblower Lawsuit Exposes Trump’s Secret ICE Plot 
+
+date: 2025-06-05, from: The Lever News
+
+ The complaint by Gov. Jared Polis’ labor official also accuses the governor of illegally ordering state officials to aid the immigration crackdown.  
+
+<br> 
+
+<https://www.levernews.com/whistleblower-lawsuit-exposes-trumps-secret-ice-plot/>
+
+---
+
+##  A Democratic Governor Lends A Hand To Loan Sharks 
+
+date: 2025-06-05, from: The Lever News
+
+ Maryland Governor Wes Moore just approved a new carveout exempting predatory payday lenders from state regulations.  
+
+<br> 
+
+<https://www.levernews.com/a-democratic-governor-lends-a-hand-to-loan-sharks/>
+
+---
+
+## Flop shot
+
+date: 2025-06-05, from: The Contrarian
+
+A cartoon by Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/flop-shot>
+
+---
+
+## Trump is punishing dissent: Miles Taylor speaks on Trump accusing him of treason
+
+date: 2025-06-05, from: The Contrarian
+
+"If folks are quiet and they don't talk about that, it makes it so much easier for those bullies to come out of the woodwork and ruin people's lives" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165269360/e1851a2ed33ea8174de9092e18667b26.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165269360/e1851a2ed33ea8174de9092e18667b26.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/trump-is-punishing-dissent-miles>
+
+---
+
+## Budget Cuts Threaten In-Home Assistance Workers and Medi-Cal Recipients
+
+date: 2025-06-05, from: Capital and Main
+
+<p>Will California gut a medical aid program created in an age of compassionate care?</p>
+<p>The post <a href="https://capitalandmain.com/budget-cuts-threaten-in-home-assistance-workers-and-medi-cal-recipients">Budget Cuts Threaten In-Home Assistance Workers and Medi-Cal Recipients</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/budget-cuts-threaten-in-home-assistance-workers-and-medi-cal-recipients>
+
+---
+
+##  Crypto’s New Bailout Fund: Your Savings Account 
+
+date: 2025-06-05, from: The Lever News
+
+ The GENIUS Act would require banks to prioritize stablecoin owners over customers if there’s a financial collapse.  
+
+<br> 
+
+<https://www.levernews.com/cryptos-new-bailout-fund-your-savings-account/>
+
+---
+
+## Canceled bird flu research is a recipe for disaster
+
+date: 2025-06-05, from: The Contrarian
+
+The Trump administration is woefully unprepared to deal with a pandemic. 
+
+<br> 
+
+<https://contrarian.substack.com/p/canceled-bird-flu-research-is-a-recipe>
+
+---
+
+## Coffee with the Contrarians 06/05
+
+date: 2025-06-05, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 06/05 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0605>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-06-05, from: The Contrarian
+
+Thursday: ICE protests in Massachusetts, Oregon, and Minnesota, planning for No Kings Day, Tesla Takedowns, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 
@@ -318,18 +478,6 @@ Anti-science theories are now jeopardizing the core health and science missions 
 <br> 
 
 <https://contrarian.substack.com/p/kennedy-and-maha-are-a-disaster-for>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-06-03, from: The Contrarian
-
-Wednesday: Protest isn't always people in the streets with signs. Today, protest by a TV weatherman, T-shirts, and charitable donations, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

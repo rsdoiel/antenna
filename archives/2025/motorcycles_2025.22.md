@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-06-05 06:10:03
+updated: 2025-06-05 14:07:36
 ---
 
 # motorcycles
 
-(date: 2025-06-05 06:10:03)
+(date: 2025-06-05 14:07:36)
+
+---
+
+## BRP, Owner of Can-Am, Ski-Doo, and Sea-Doo, Is Looking for a New CEO
+
+date: 2025-06-05, from: Ride Apart, Electric Motorcycle News
+
+After 22 years, the executive will leave after a successor is chosen. 
+
+<br> 
+
+<https://www.rideapart.com/news/761430/brp-jose-boisjoli-ceo-retirement-can-am/>
 
 ---
 

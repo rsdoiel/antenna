@@ -1,11 +1,104 @@
 ---
 title: columns
-updated: 2025-06-05 06:10:00
+updated: 2025-06-05 14:07:33
 ---
 
 # columns
 
-(date: 2025-06-05 06:10:00)
+(date: 2025-06-05 14:07:33)
+
+---
+
+## 2025-06-05 Oddμ history
+
+date: 2025-06-05, from: Alex Schroeder's Blog
+
+<h1 id="2025-06-05-oddμ-history">2025-06-05 Oddμ history</h1>
+
+<p>On fedi, <a class="account" href="https://mastodon.gamedev.place/@reidrac" title="@reidrac@mastodon.gamedev.place">@reidrac</a> mentioned that Oddμ doesn&rsquo;t keep a page history. The idea is that the wiki is only accessible to a small circle of trusted people and therefore we don&rsquo;t need a history to fight spam and vandalism.</p>
+
+<p>Some people like backups so that they can go back in time, however. One could run a cron job once a day that does a snapshot using <code>rsync</code>. For my local copy of the wiki I use a Makefile with a target for that:</p>
+
+<pre><code>SHELL=/usr/bin/fish
+
+download:
+	rsync --archive --exclude '*~' --delete --itemize-changes sibirocobombus:alexschroeder.ch/wiki/ .
+
+diff:
+	rsync --dry-run --archive --exclude '*~' --delete --itemize-changes . sibirocobombus:alexschroeder.ch/wiki/
+
+upload:
+	rsync --archive --exclude '*~' --delete --itemize-changes . sibirocobombus:alexschroeder.ch/wiki/
+
+snapshot:
+	rsync --link-dest ../wiki --archive . ../wiki-(date --iso-8601)/
+</code></pre>
+
+<p>I run <code>make snapshot</code> in a directory called <code>wiki</code>. The command syncs all the files from the current directory to a directory containing the current date, e.g. <code>../wiki-2025-06-05</code> and in order to save space, unchanged files are simply hard-linked to the file in <code>../wiki</code>, i.e. the current directory. If I edit files using an editor, the original is renamed and a new copy is created. Therefore, the hard-linked snapshots retain their content.</p>
+
+<p>One could clean up older snapshots with a cron job and just keep the last week, for example.</p>
+
+<p>If people need access to the old copies, one would do this via the web server and serve the snapshot directories as static files.</p>
+
+<p>If one wanted an even more traditional &ldquo;no forgiving nor forgetting&rdquo; system, there&rsquo;s always a version control system like <code>git</code>.</p>
+
+<p><a href="https://github.com/gitwatch/gitwatch?tab=readme-ov-file#gitwatch">gitwatch.sh</a> is a shell script that can watch a directory using <code>inotifywait</code>. When it detects changes, it waits for a few seconds and then adds and commits any changes.</p>
+
+<p><a href="https://github.com/jw0k/gwatch">gwatch</a> is a program written in C that does the same thing.</p>
+
+<p>Access to the git repository is a different problem, now: One could have a cron job run <code>git push</code> every now and then and people access the repository elsewhere. Or one could use something like <code>cgit</code> to serve a read-only copy of old revisions.</p>
+
+<p><a class="tag" href="/search/?q=%23Oddμ">#Oddμ</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-06-05-oddmu-history>
+
+---
+
+## Marco Arment on Apple’s Decision to Decline Appearing on The Talk Show Live From WWDC
+
+date: 2025-06-05, updated: 2025-06-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://marco.org/2025/05/30/retreat>
+
+---
+
+## June 4, 2025
+
+date: 2025-06-05, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165283552/1232cdae579b3281a882f0c13f8d0f33.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165283552/1232cdae579b3281a882f0c13f8d0f33.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-4-2025-64e>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-05, from: Dave Winer's Scripting News)
+
+Now a personal comment. What pisses me off most about Bluesky is the political environment all this is happening in. We <i>need</i> an open social web. They've got a lot of people convinced they are it. They are not and they know it. And they keep leading people on. They should either deliver, now, or get out of the way. 
+
+<br> 
+
+<http://scripting.com/2025/06/05.html#a134712>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-05, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/03/21/beetle.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Regular readers of my blog know that I've been <a href="https://daytona.scripting.com/search?q=Bluesky">calling out Bluesky</a> and people associated with it for saying they're an open platform, and part of the web, when they are neither. Why don't people, esp journalists, call them out on this? We've been around this loop over and over in tech. There's a virtual conference today, FediForum, that on their <a href="https://fediforum.org/">home page</a> repeats <a href="https://imgs.scripting.com/2025/06/05/promises.png">the hype</a>. Why do people do this? What's the point of pouring your time into technology you hope someday will be open? I bought a ticket to the conference so if there are any sessions that look like they might be productive I can participate. I even wrote a <a href="http://scripting.com/2025/06/04/162206.html">keynote</a>, so you can see there is a way for this stuff to start working, quickly, if the vendors you're looking up to are sincere in their promises. I've posted it on <a href="https://mastodon.social/@dave@social.masto.land/114630925085003307">Mastodon</a> and <a href="https://bsky.app/profile/scripting.com/post/3lqufhhswis2r">Bluesky</a> so if you have comments or questions, we can start the discussion now, or any time. 
+
+<br> 
+
+<http://scripting.com/2025/06/05.html#a132426>
 
 ---
 
@@ -220,7 +313,7 @@ date: 2025-06-04, updated: 2025-06-04, from: Daring Fireball
 
 date: 2025-06-04, from: Dave Winer's Scripting News
 
-<p><a href="https://fediforum.org/">FediForum</a> is a virtual conference that starts tomorrow. If they had asked me to keynote, this is roughly what I would say.</p>
+<p><a href="https://fediforum.org/">FediForum</a> is a virtual conference that starts on June 5. If they had asked me to keynote, this is roughly what I would say. </p>
 <p>Imho this stuff is pretty freaking simple, esp since there are well over 20 years of prior art to use, and not that many ways to do what we're trying to do. I'm impatient, so here's a quick set of observations with my opinion, take it for what it's worth, ymmv, etc. </p>
 <ul>
 <li>You shouldn't be reinventing so much. Always look around for <a href="http://essaysfromexodus.scripting.com/priorArtDesignMethod">prior art</a>. That will make it possible for you to interop more quickly at both a software level and at a human level. </li>
@@ -243,6 +336,7 @@ date: 2025-06-04, from: Dave Winer's Scripting News
 <p>Yours in not wasting time.</p>
 <p>Dave</p>
 <p>PS: I asked ChatGPT to <a href="https://imgs.scripting.com/2025/06/04/talkVisualized.png">visualize</a> me giving this talk.</p>
+<p>PPS: Comments or questions on <a href="https://mastodon.social/@dave@social.masto.land/114630925085003307">Masto</a> or <a href="https://bsky.app/profile/scripting.com/post/3lqufhhswis2r">Bluesky</a>.</p>
  
 
 <br> 
@@ -337,7 +431,7 @@ I now have the special ChatGPT function I've been waiting for. <a href="https://
 
 date: 2025-06-04, from: Doc Searls (at Harvard), New Old Blog
 
-Cause for pessimism. There is a stat in basketball called VORP, for Value Over Replacement Player. I&#39;d like one for coaches: VORC, for Value Over Replacement Coach. If such a stat existed, Tom Thibodeau&#39;s VORC would be pretty high. Minnesota and Chicago both fell after he left. Bonus link: Nate Silver, Knicks fan, Thibs non-fan. Not [&#8230;] 
+Cause for pessimism. There is a stat in basketball called VORP, for Value Over Replacement Player. I&#8217;d like one for coaches: VORC, for Value Over Replacement Coach. If such a stat existed, Tom Thibodeau&#8217;s VORC would be pretty high. Minnesota and Chicago both fell after he left. Bonus link: Nate Silver, Knicks fan, Thibs non-fan. Not [&#8230;] 
 
 <br> 
 
@@ -693,8 +787,7 @@ From <a href="https://www.facebook.com/dave.winer.12/posts/pfbid036ocMzLcmc9UfcD
 
 **@Dave Winer's Scripting News** (date: 2025-06-02, from: Dave Winer's Scripting News)
 
-I asked ChatGPT if I moved to NYC in 2009 or 2010. It answered in an instant. "You moved to NYC in 2010." I asked how it knew. It <a href="https://imgs.scripting.com/2025/06/02/whenIMovedToNYC.png">used my blog</a> as the source. We have <a href="https://chatgpt.com/share/683da1e2-33d0-8012-a86c-d5310ac4538e">arrived</a> in the future. This is exactly the kind of query I've been begging Google to support for decades. They could have figured out where my blog is, or let me tell it where it is. Famously they once asked if I had misspelled my mother's last name in a query. How freaking clueless can you get.
- 
+I asked ChatGPT if I moved to NYC in 2009 or 2010. It answered in an instant. "You moved to NYC in 2010." I asked how it knew. It <a href="https://imgs.scripting.com/2025/06/02/whenIMovedToNYC.png">used my blog</a> as the source. We have <a href="https://chatgpt.com/share/683da1e2-33d0-8012-a86c-d5310ac4538e">arrived</a> in the future. This is exactly the kind of query I've been begging Google to support for decades. They could have figured out where my blog is, or let me tell it where it is. Famously they once asked if I had misspelled my mother's last name in a query. How freaking clueless can you get. 
 
 <br> 
 
@@ -714,8 +807,7 @@ In honor of the Knicks' very successful season, I temporarily put the <a href="h
 
 **@Dave Winer's Scripting News** (date: 2025-06-02, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2020/01/18/anythingGoes.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Jay Rosen gave a <a href="https://bsky.app/profile/jayrosen.bsky.social/post/3lqmvt22be22u">brilliant short talk</a> in 2008 about the role of links in the web, and how journalism would have a hard time translating their self-contained worlds with the idea of the web, which is there is no container other than the whole world. Lots of important ideas in Jay's talk. For example, the idea of developing something from one direction or the other. The problem with Bluesky and Mastodon is that they're coming from Twitter, and think they're aiming toward the web, apparently -- but they must not understand the web, because they're going to have to break with Twitter's model in <a href="https://textcasting.org/">so many ways</a> to reach the web, they'll never get there if they go slowly. If you tried to develop the social web by starting with the web, you arrive at a different place, w/o all the problems of twitter-like systems. Different problems, but not the ones the twitter model has. How do I know? Because I know. <span class="spOldSchoolEmoji">😄</span>
- 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/01/18/anythingGoes.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Jay Rosen gave a <a href="https://bsky.app/profile/jayrosen.bsky.social/post/3lqmvt22be22u">brilliant short talk</a> in 2008 about the role of links in the web, and how journalism would have a hard time translating their self-contained worlds with the idea of the web, which is there is no container other than the whole world. Lots of important ideas in Jay's talk. For example, the idea of developing something from one direction or the other. The problem with Bluesky and Mastodon is that they're coming from Twitter, and think they're aiming toward the web, apparently -- but they must not understand the web, because they're going to have to break with Twitter's model in <a href="https://textcasting.org/">so many ways</a> to reach the web, they'll never get there if they go slowly. If you tried to develop the social web by starting with the web, you arrive at a different place, w/o all the problems of twitter-like systems. Different problems, but not the ones the twitter model has. How do I know? Because I know. <span class="spOldSchoolEmoji">😄</span> 
 
 <br> 
 

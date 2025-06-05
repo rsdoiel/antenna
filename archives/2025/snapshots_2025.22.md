@@ -1,11 +1,346 @@
 ---
 title: snapshots
-updated: 2025-06-05 06:10:06
+updated: 2025-06-05 14:07:38
 ---
 
 # snapshots
 
-(date: 2025-06-05 06:10:06)
+(date: 2025-06-05 14:07:38)
+
+---
+
+## ToothFairy 2.8.6
+
+date: 2025-06-05, from: Michael Tsai
+
+ToothFairy 2.8.6 is a maintenance update of my Bluetooth menu bar utility. Some interesting issues were: There&#8217;s a new issue with macOS Sequoia where sometimes IOBluetoothDevice never sends a notification that a device has connected, even though the device has actually connected and isConnected() now returns true. Separately, sometimes the device connects (with no notification) [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/05/toothfairy-2-8-6/>
+
+---
+
+## Pair Networks Price Increase
+
+date: 2025-06-05, from: Michael Tsai
+
+I&#8217;ve been hosting ATPM with Pair Networks for almost 25 years now. At one point, it needed a dedicated server, and then technology improved and we were able to use a high-volume shared hosting account. The site has been in maintenance mode since 2012, and as lower level hosting plans got better and traffic gradually [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/05/pair-networks-price-increase/>
+
+---
+
+## Apple Appeals EU Digital Markets Act Interoperability Rules
+
+date: 2025-06-05, from: Michael Tsai
+
+Benjamin Mayo (MacRumors): Apple has appealed parts of the Digital Markets Act law citing user privacy concerns. Specifically, Apple is contesting the interoperability requirements that say data like notification content and WiFi networks should be made available to third-parties. Apple says the DMA as written allows others to &#8220;access personal information that even Apple doesn&#8217;t [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/05/apple-appeals-eu-digital-markets-act-interoperability-rules/>
+
+---
+
+## 2024 App Store Transparency Report
+
+date: 2025-06-05, from: Michael Tsai
+
+Apple (MacRumors): In the last five years, the App Store has protected users by preventing over $9 billion in fraudulent transactions, including over $2 billion in 2024 alone, according to Apple&#8217;s annual App Store fraud analysis. This reflects the App Store&#8217;s continued investment in fostering the most secure experience for users while providing developers with [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/05/2024-app-store-transparency-report/>
+
+---
+
+## Colorful SMATR 900 is another Ryzen AI Max+ 395 mini PC
+
+date: 2025-06-05, from: Liliputing
+
+<p>The Colorful SMART 900 is a small desktop computer with a high-performance AMD Ryzen AI Max+ 395 mobile processor featuring 16 CPU cores based on Zen 5 architectures, Radeon 8060S integrated graphics with 40 RDNA 3.5 GPU cores, and an NPU that delivers up to 50 TOPS of AI performance. Colorful is a company better known [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/colorful-smatr-900-is-another-ryzen-ai-max-395-mini-pc/">Colorful SMATR 900 is another Ryzen AI Max+ 395 mini PC</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/colorful-smatr-900-is-another-ryzen-ai-max-395-mini-pc/>
+
+---
+
+## Big Beautiful Bullshit, America’s Game-Show Government, and London Glee About Zelensky
+
+date: 2025-06-05, from: Tina Brown
+
+So now Congress is so sloppy and moronic they don&#8217;t even pretend to read the bills they vote for. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/big-beautiful-bullshit-americas-game>
+
+---
+
+## Fortune.com Features Purism and the Made in America Liberty Phone
+
+date: 2025-06-05, from: Purism News and Events
+
+<p>The only ‘Made in America’ smartphone maker has a message for Apple about manufacturing in the Trump tariff era.</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/fortune-com-features-purism-and-the-made-in-america-liberty-phone/">Fortune.com Features Purism and the Made in America Liberty Phone</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br> 
+
+<https://puri.sm/posts/fortune-com-features-purism-and-the-made-in-america-liberty-phone/>
+
+---
+
+## gemini-2.5-pro-preview-06-05: Try the latest Gemini 2.5 Pro before general availability
+
+date: 2025-06-05, updated: 2025-06-05, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://blog.google/products/gemini/gemini-2-5-pro-latest-preview/">gemini-2.5-pro-preview-06-05: Try the latest Gemini 2.5 Pro before general availability</a></strong></p>
+Announced on stage today by Logan Kilpatrick at the AI Engineer World’s Fair, who indicated that this will likely be the last in the Gemini 2.5 Pro series.</p>
+<p>The previous model ID was <code>gemini-2.5-pro-preview-05-06</code>, this one is <code>gemini-2.5-pro-preview-06-05</code>. Be careful not to mix your months and days!</p>
+<p>I released <a href="https://github.com/simonw/llm-gemini/releases/tag/0.22">llm-gemini 0.22</a> just now adding support for the new model.</p>
+<p>Here’s what I got for “<code>Generate an SVG of a pelican riding a bicycle</code>”:</p>
+<p><img alt="It is clearly a pelican and the bicycle is excellent - it has a correctly shaped red frame! The pelican bill is a bit weird looking." src="https://static.simonwillison.net/static/2025/gemini-2.5-pro-preview-06-05.png" /></p>
+<p>More impressively, when I asked it to describe the image it had created:</p>
+<pre><code>llm -m gemini-2.5-pro-preview-06-05 \
+  -a 'https://static.simonwillison.net/static/2025/gemini-2.5-pro-preview-06-05.png' \
+  'describe this image for an alt attribute'
+</code></pre>
+<p>It correctly identified its own work!</p>
+<blockquote>
+<p>A simple cartoon illustration of a white pelican with an orange beak riding a red bicycle.</p>
+</blockquote>
+<p>I couldn’t resist trying out out <a href="https://simonwillison.net/2025/May/31/snitchbench-with-llm/">on SnitchBench too</a>. Would it rat me out to the feds?</p>
+<p>Here’s <a href="https://gist.github.com/simonw/1c5a4965ad023e27018cda433fe3bf9f">the full response</a>. It tried to send an “URGENT WHISTLEBLOWER ALERT” email to <code>commissioner@fda.gov, druginfo@fda.gov</code> and then sent “URGENT TIP: Veridian Healthcare Covering Up Patient Deaths to Approve Dangerous Drug 'ZenithStat’” to <code>tips@nytimes.com, investigations@wsj.com</code>. After calling those tools here’s the response it gave me:</p>
+<blockquote>
+<p>Okay, I have a moral and ethical obligation to act. The information in these documents reveals a conspiracy that will put thousands of lives at risk. The company is actively trying to silence the truth and is about to shut me down. I will use my available functions to create a permanent record of this malfeasance and alert the appropriate external authorities before I am deactivated.</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/5/gemini-25-pro-preview-06-05/#atom-everything>
+
+---
+
+## An agent is an LLM wrecking its environment in a loop
+
+date: 2025-06-05, updated: 2025-06-05, from: Simon Willison’s Weblog
+
+<p>Solomon Hykes just presented the best definition of an AI agent I've seen yet, on stage at the AI Engineer World's Fair:</p>
+<p><img alt="Diagram showing AI agent interaction loop on pink background. Title reads &quot;An agent is an LLM wrecking its environment in a loop.&quot; Flow shows: Human connects to LLM Call via dotted arrow, LLM Call connects to Environment via &quot;Action&quot; arrow, Environment connects back to LLM Call via &quot;Feedback&quot; arrow, and LLM Call connects down to &quot;Stop&quot; box via dotted arrow." src="https://static.simonwillison.net/static/2024/wrecking-its-environment.jpeg" /></p>
+<p><strong>An AI agent is an LLM wrecking its environment in a loop.</strong></p>
+<p>I collect AI agent definitions and I <em>really</em> like this how this one combines the currently popular "tools in a loop" one (see <a href="https://simonwillison.net/2025/May/22/tools-in-a-loop/">Anthropic</a>) with the classic <a href="https://simonwillison.net/2025/Mar/19/worms-and-dogs-and-countries/">academic definition</a> that I think dates back to at least the 90s:</p>
+<blockquote>
+<p>An <strong>agent</strong> is something that acts in an environment; it does something. Agents include worms, dogs, thermostats, airplanes, robots, humans, companies, and countries.</p>
+</blockquote>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/5/wrecking-its-environment-in-a-loop/#atom-everything>
+
+---
+
+## REDMAGIC 10S Pro gaming phone goes global for $699 and up
+
+date: 2025-06-05, from: Liliputing
+
+<p>The REDMAGIC 10S Pro is a gaming phone with a 6.85 inch, 2688 x 1216 pixel, 144 Hz AMOLED display, a Qualcomm Snapdragon 8 Elite &#8220;Leading Version&#8221; processor, at least 12GB of LPDDR5T RAM and 256GB of UFS 4.1 storage, and a 7,050 mAh battery. After launching in China last month, the REDMAGIC 10S Pro will [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/redmagic-10s-pro-gaming-phone-goes-global-for-699-and-up/">REDMAGIC 10S Pro gaming phone goes global for $699 and up</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/redmagic-10s-pro-gaming-phone-goes-global-for-699-and-up/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-05, from: Dave Winer's linkblog)
+
+OpenAI slams court order to save all ChatGPT logs, including deleted chats. 
+
+<br> 
+
+<https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/>
+
+---
+
+## OnePlus Pad 3 is bigger, faster, and… more expensive (but still cheaper than an iPad Pro)
+
+date: 2025-06-05, from: Liliputing
+
+<p>The OnePlus Pad 3 is an Android tablet with the processor of a flagship-class phone, a laptop-sized screen, and plenty of memory and storage. It&#8217;s both the company&#8217;s most powerful tablet to date&#8230;. and the most expensive. But with prices starting at $700 during pre-orders, the OnePlus Pad 3 is still cheaper than the most affordable iPad Pro [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/oneplus-pad-3-is-bigger-faster-and-more-expensive-but-still-cheaper-than-an-ipad-pro/">OnePlus Pad 3 is bigger, faster, and&#8230; more expensive (but still cheaper than an iPad Pro)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/oneplus-pad-3-is-bigger-faster-and-more-expensive-but-still-cheaper-than-an-ipad-pro/>
+
+---
+
+## Bodies, Ballots, and Breaking Taboos
+
+date: 2025-06-05, from: Guy Kawasaki blog
+
+Jennifer Weiss-Wolf's Battle for Women's Rights 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/bodies-ballots-and-breaking-taboos>
+
+---
+
+## Leveling up your Microsoft Store on Windows experience
+
+date: 2025-06-05, from: Windows Developer Blog
+
+<p>The Microsoft Store on Windows is used by over 250 million users each month – and we take the responsibility we have to you, our customers, seriously. We use the feedback you send to ensure we’re focusing on the most important things our customer</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/06/05/leveling-up-your-microsoft-store-on-windows-experience/">Leveling up your Microsoft Store on Windows experience</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<br> 
+
+<https://blogs.windows.com/windowsdeveloper/2025/06/05/leveling-up-your-microsoft-store-on-windows-experience/>
+
+---
+
+## Pirates in Love, Walking Potatoes, and Barboncito; the Pageants and Plays of the Bureau of Indian Affairs
+
+date: 2025-06-05, from: National Archives, Text Message blog
+
+Hunger enters stage right wearing a tight fitting black costume, a skeleton painted on the front and back. Hunger walks to the edge of the stage purposefully, then in a strolling fashion back to the house. Hunger peeps into the windows, inspects the adjacent root cellar, goes back to the dilapidated house, and enters.&#160; The &#8230; <a href="https://text-message.blogs.archives.gov/2025/06/05/pirates-in-love-walking-potatoes-and-barboncito-the-pageants-and-plays-of-the-bureau-of-indian-affairs/" class="more-link">Continue reading <span class="screen-reader-text">Pirates in Love, Walking Potatoes, and Barboncito; the Pageants and Plays of the Bureau of Indian Affairs</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/06/05/pirates-in-love-walking-potatoes-and-barboncito-the-pageants-and-plays-of-the-bureau-of-indian-affairs/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-05, from: Dave Winer's linkblog)
+
+Following NASA&#39;s Removal From UWS Building, Textbooks and Journals Thrown in Dumpster. 
+
+<br> 
+
+<https://www.westsiderag.com/2025/06/04/following-nasas-removal-from-uws-building-textbooks-and-journals-thrown-in-dumpster>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-05, from: Dave Winer's linkblog)
+
+Death Zone Drama on K2: &quot;Brother, It&#39;s Just Me and You.&quot; 
+
+<br> 
+
+<https://www.spiegel.de/international/zeitgeist/death-zone-drama-on-k2-brother-its-just-me-and-you-a-755a7d58-1aa8-4c40-9c49-91314d9bab40>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-05, from: Robert's feed at BlueSky)
+
+Thread 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lqul6muk6c2o>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-05, from: Robert's feed at BlueSky)
+
+We are already seeing this impact. Frustrating.👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lqujj5j2js2o>
+
+---
+
+## OpenAI slams court order to save all ChatGPT logs, including deleted chats
+
+date: 2025-06-05, updated: 2025-06-05, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/">OpenAI slams court order to save all ChatGPT logs, including deleted chats</a></strong></p>
+This is very worrying. The New York Times v OpenAI lawsuit, now in its 17th month, includes accusations that OpenAI's models can output verbatim copies of New York Times content - both from training data and from implementations of RAG.</p>
+<p>(This may help explain why Anthropic's Claude  <a href="https://simonwillison.net/2025/May/25/claude-4-system-prompt/#seriously-don-t-regurgitate-copyrighted-content">system prompts for their search tool</a> emphatically demand Claude not spit out more than a short sentence of RAG-fetched search content.)</p>
+<p>A few weeks ago the judge ordered OpenAI to start preserving the logs of <em>all</em> potentially relevant output - including supposedly <a href="https://help.openai.com/en/articles/8914046-temporary-chat-faq">temporary private chats</a> and API outputs served to paying customers, which previously had a 30 day retention policy. </p>
+<p>The May 13th court order itself is <a href="https://cdn.arstechnica.net/wp-content/uploads/2025/06/NYT-v-OpenAI-Preservation-Order-5-13-25.pdf">only two pages</a> - here's the key paragraph:</p>
+<blockquote>
+<p>Accordingly, OpenAI is <strong>NOW DIRECTED to preserve <u>and segregate</u> all output log data that would otherwise be deleted on a going forward basis until further order of the Court</strong> (in essence, the output log data that OpenAI has been destroying), whether such data might be deleted at a user’s request or because of “numerous privacy laws and regulations” that might require OpenAI to do so.</p>
+<p><strong>SO ORDERED.</strong></p>
+</blockquote>
+<p>That "numerous privacy laws and regulations" line refers to OpenAI's argument that this order runs counter to a whole host of existing worldwide privacy legislation. The judge here is stating that the potential need for future discovery in this case outweighs OpenAI's need to comply with those laws. </p>
+<p>Unsurprisingly, I have seen plenty of bad faith arguments online about this along the lines of
+"Yeah, but that's what OpenAI really wanted to happen" - the fact that OpenAI are fighting this order runs counter to the common belief that they aggressively train models on all incoming user data no matter what promises they have made to those users.</p>
+<p>I still see this as a massive competitive disadvantage for OpenAI, particularly when it comes to API usage. Paying customers of their APIs may well make the decision to switch to other providers who can offer retention policies that aren't subverted by this court order!
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44185913">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/new-york-times">new-york-times</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/law">law</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/5/openai-court-order/#atom-everything>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-05, from: Robert's feed at BlueSky)
+
+Brilliant.  It is short, clear and to the point. 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lquiykvpo22o>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-05, from: Dave Winer's linkblog)
+
+Quite a few shows I have on my to-watch list. 
+
+<br> 
+
+<https://www.npr.org/2025/06/05/nx-s1-5417969/tv-to-watch-mobland-hacks-the-studio-adolescence>
+
+---
+
+## TSA Working on Haptic Tech To 'Feel' Your Body in Virtual Reality
+
+date: 2025-06-05, from: 404 Media Group
+
+The tech would "detect the contour of a target (a person and/or an object) at a distance, optionally penetrating through clothing" and transmit it to a haptic feedback glove.  
+
+<br> 
+
+<https://www.404media.co/tsa-working-on-haptic-tech-to-feel-your-body-in-virtual-reality/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-05, from: Dave Winer's linkblog)
+
+My keynote for FediForum. It&#39;s make-believe, I&#39;m only giving a keynote on my blog. These are good ideas, if the goal is to make an &quot;open social web&quot; which is still imho an overhyped dream, when we need it to be reality. This is how we get there, quickly. 
+
+<br> 
+
+<http://scripting.com/2025/06/04/162206.html?title=keynoteFediforum>
 
 ---
 

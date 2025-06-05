@@ -1,11 +1,81 @@
 ---
 title: ham radio
-updated: 2025-06-05 06:09:59
+updated: 2025-06-05 14:07:32
 ---
 
 # ham radio
 
-(date: 2025-06-05 06:09:59)
+(date: 2025-06-05 14:07:32)
+
+---
+
+## DMMs improve accuracy and usability
+
+date: 2025-06-05, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The R&#038;S UDS series of DMMs offers 5.5-digit and 6.5-digit resolution, with the 6.5-digit model delivering a basic DC accuracy of 0.0075%.</p>
+<p>The post <a href="https://www.edn.com/dmms-improve-accuracy-and-usability/">DMMs improve accuracy and usability</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/dmms-improve-accuracy-and-usability/>
+
+---
+
+## GaN HEMT earns DLA-JANS certification
+
+date: 2025-06-05, from: EDN Blog
+
+<img width="800" height="475" src="https://www.edn.com/wp-content/uploads/Infineon-JANS-GaN.jpg?fit=800%2C475" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Infineon-JANS-GaN.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Infineon-JANS-GaN.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Infineon-JANS-GaN.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Infineon’s rad-hard GaN HEMT is the first in-house device qualified to JANS MIL-PRF-19500/794, DLA’s highest quality grade.</p>
+<p>The post <a href="https://www.edn.com/gan-hemt-earns-dla-jans-certification/">GaN HEMT earns DLA-JANS certification</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/gan-hemt-earns-dla-jans-certification/>
+
+---
+
+## Multichannel impedance meter analyzes Li-Ion cells
+
+date: 2025-06-05, from: EDN Blog
+
+<img width="800" height="408" src="https://www.edn.com/wp-content/uploads/Tektronix-EA-BIM-20005.jpg?fit=800%2C408" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Tektronix-EA-BIM-20005.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Tektronix-EA-BIM-20005.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Tektronix-EA-BIM-20005.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>The EA-BIM 20005 battery impedance meter from Tektronix performs EIS measurements across 20 channels to characterize Li-Ion battery cells.</p>
+<p>The post <a href="https://www.edn.com/multichannel-impedance-meter-analyzes-li-ion-cells/">Multichannel impedance meter analyzes Li-Ion cells</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/multichannel-impedance-meter-analyzes-li-ion-cells/>
+
+---
+
+## Motor gate drivers enable flexible current control
+
+date: 2025-06-05, from: EDN Blog
+
+<img width="800" height="467" src="https://www.edn.com/wp-content/uploads/STMicro-STDRIVE102H.jpg?fit=800%2C467" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/STMicro-STDRIVE102H.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/STMicro-STDRIVE102H.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/STMicro-STDRIVE102H.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Two gate drivers from ST provide programmable current for efficient three-phase brushless motor control in consumer and industrial equipment.</p>
+<p>The post <a href="https://www.edn.com/motor-gate-drivers-enable-flexible-current-control/">Motor gate drivers enable flexible current control</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/motor-gate-drivers-enable-flexible-current-control/>
+
+---
+
+## Powerline module enables EV charger data links
+
+date: 2025-06-05, from: EDN Blog
+
+<img width="800" height="445" src="https://www.edn.com/wp-content/uploads/Comtrend_MaxLinear.jpg?fit=800%2C445" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Comtrend_MaxLinear.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Comtrend_MaxLinear.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Comtrend_MaxLinear.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Comtrend’s PM-1540 powerline module uses MaxLinear’s G.hn chips to support backend data communication in EV charging infrastructure.</p>
+<p>The post <a href="https://www.edn.com/powerline-module-enables-ev-charger-data-links/">Powerline module enables EV charger data links</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/powerline-module-enables-ev-charger-data-links/>
 
 ---
 
@@ -13,7 +83,7 @@ updated: 2025-06-05 06:09:59
 
 date: 2025-06-05, from: EDN Blog
 
-<img width="1000" height="885" src="https://www.edn.com/wp-content/uploads/Hero-image-USB-PDT-Module.jpg?fit=1000%2C885" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-USB-PDT-Module.jpg?w=1000 1000w, https://www.edn.com/wp-content/uploads/Hero-image-USB-PDT-Module.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-USB-PDT-Module.jpg?w=768 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><p>Here are some simple pointers for imparting USB-PD design to everyday hobby electronics projects and devices.</p>
+<img width="1000" height="885" src="https://www.edn.com/wp-content/uploads/Hero-image-USB-PDT-Module.jpg?fit=1000%2C885" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-USB-PDT-Module.jpg?w=1000 1000w, https://www.edn.com/wp-content/uploads/Hero-image-USB-PDT-Module.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-USB-PDT-Module.jpg?w=768 768w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /><p>Here are some simple pointers for imparting USB-PD design to everyday hobby electronics projects and devices.</p>
 <p>The post <a href="https://www.edn.com/a-quick-and-practical-view-of-usb-power-delivery-usb-pd-design/">A quick and practical view of USB Power Delivery (USB-PD) design</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

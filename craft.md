@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-06-05 06:10:05
+updated: 2025-06-05 14:07:37
 ---
 
 # craft
 
-(date: 2025-06-05 06:10:05)
+(date: 2025-06-05 14:07:37)
+
+---
+
+## Period Furniture and Moldings
+
+date: 2025-06-05, from: Lost Arg Press blog
+
+The following is excerpted from “Woodworker’s Pocket Book,” edited by Charles Hayward.  The division of the periods from 1500 to 1800 into the ages of the Carpenter, Cabinet Maker, and Designer is convenient because these terms suggest the type of furniture being produced. In the earliest period furniture was made by the carpenter, who regarded... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/06/05/period-furniture-and-moldings/>
 
 ---
 

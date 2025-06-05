@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-06-05 06:09:59
+updated: 2025-06-05 14:07:33
 ---
 
 # science and technology
 
-(date: 2025-06-05 06:09:59)
+(date: 2025-06-05 14:07:33)
+
+---
+
+## NASA Awards Third Crowdsourcing Contract Iteration
+
+date: 2025-06-05, from: NASA breaking news
+
+NASA continues to collaborate with global communities to solve complex challenges through crowdsourcing with a series of 25 new NASA Open Innovation Service (NOIS) contracts managed by the agency’s Johnson Space Center in Houston. The contract aims to empower NASA’s workforce by actively engaging the public to find creative solutions to difficult space exploration challenges [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-third-crowdsourcing-contract-iteration/>
+
+---
+
+## Trump official warns they're putting the squeeze on CHIPS Act winners
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>Commerce secretary wants bigger bang for taxpayers&#39; buck</h4> <p>Chipmakers waiting on billions of dollars of CHIPS Act funding should be prepared to return to the negotiating table, US Commerce Secretary Howard Lutnick suggested during a Senate hearing this week.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/trump_chips_act/>
+
+---
+
+## Cellebrite buys Corellium to help cops bust phone encryption
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>Trump-pardoned hacker Chris Wade will join the company as CTO</h4> <p>Cellebrite has announced a $170 million deal to buy Corellium, bringing together two companies that have made names for themselves by helping law enforcement break into encrypted devices.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/cellebrite_corellium_merger/>
+
+---
+
+## Trump’s cyber czar pick grilled over CISA cuts: ‘If we have a cyber 9/11, you’re the guy’
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>Plus: Plankey&#39;s confirmation process &#39;temporarily delayed&#39;</h4> <p>Sean Cairncross, President Donald Trump&#39;s nominee to serve as national cyber director, doubled down on taking offensive cyber actions against foreign adversaries during a Senate homeland security committee nomination hearing on Thursday, and refused to condemn the president&#39;s proposed cuts to the main US cyber defense agency.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/trump_cyber_nominee_cairncross/>
+
+---
+
+## Take ChatGPT back to the 2010s and they’d think AGI arrived, says Altman
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>OpenAI CEO enjoys speculative love-in with Snowflake boss as critics worry over what 1,000X compute would do to the planet</h4> <p>OpenAI CEO Sam Altman this week speculated that “most people” would have assumed Artificial General Intelligence had arrived if they&#39;d they seen ChatGPT in action before its arrival in 2020.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/openai_altman/>
+
+---
+
+## Elon Musk pukes over pork-filled budget bill with Tesla subsidies on the line
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>No matter who wins, the US EV industry is likely to lose, expert tells us</h4> <p>Elon Musk has publicly broken with Donald Trump over the latter&#39;s budget reconciliation bill, calling it a &#34;pork-filled … abomination&#34; that would undermine the work his DOGE cost-cutting unit has done. But the bill also hits close to Tesla tycoon&#39;s pocketbook, and at least one expert thinks it spells terrible news for the US electric vehicle industry overall.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/trump_musk_face_off_budget_bill/>
+
+---
+
+## Auburn Team Wins 2025 NASA Moon and Mars Design Competition
+
+date: 2025-06-05, from: NASA breaking news
+
+A team from Auburn University took top honors in NASA’s 2025 Revolutionary Aerospace Systems &#8211; Academic Linkage (RASC-AL) Competition Forum, where undergraduate and graduate teams competed to develop new concepts for operating on the Moon, Mars and beyond.  Auburn’s project, “Dynamic Ecosystems for Mars Environmental Control and Life Support Systems (ECLSS) Testing, Evaluation, and Reliability [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/esdmd/auburn-team-wins-2025-nasa-moon-and-mars-design-competition/>
+
+---
+
+## NASA Earth Scientist Elected to National Academy of Sciences
+
+date: 2025-06-05, from: NASA breaking news
+
+Earth scientist Compton J. Tucker has been elected to the National Academy of Sciences for his work creating innovative tools to track the planet’s changing vegetation from space. It’s research that has spanned nearly 50 years at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, where he is a visiting scientist after retiring in March.&#160; [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/goddard/nasa-earth-scientist-elected-to-national-academy-of-sciences/>
+
+---
+
+## ICESat-2 Applications Team Hosts Satellite Bathymetry Workshop
+
+date: 2025-06-05, from: NASA breaking news
+
+Introduction On September 15, 2018, the NASA Ice, Cloud, and land Elevation Satellite-2 (ICESat-2) mission launched from Vandenberg Air Force Base and began its journey to provide spatially dense and fine-precision global measurements of Earth’s surface elevation. Now in Phase E of NASA’s project life cycle (where the mission is carried out, data is collected […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/icesat-2-applications-team-hosts-satellite-bathymetry-workshop/>
+
+---
+
+## BidenCash busted as Feds nuke stolen credit card bazaar
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>Dark web crime platform raked in $17M+ over three years of operation</h4> <p>Uncle Sam has seized 145 domains tied to BidenCash, the notorious dark web market that trafficked in more than 15 million stolen credit cards.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/bidencash_busted/>
+
+---
+
+## NASA’s IXPE Obtains First X-ray Polarization Measurement of Magnetar Outburst
+
+date: 2025-06-05, from: NASA breaking news
+
+What happens when the universe’s most magnetic object shines with the power of 1,000 Suns in a matter of seconds? Thanks to NASA’s IXPE (Imaging X-ray Polarimetry Explorer), a mission in collaboration with ASI (Italian Space Agency), scientists are one step closer to understanding this extreme event.&#160; Magnetars are a type of young neutron star [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/ixpe/nasas-ixpe-obtains-first-x-ray-polarization-measurement-of-magnetar-outburst/>
+
+---
+
+## AI can spew code, but kids should still suffer like we did, says Raspberry Pi
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>Mini computer house comes out against &#39;vibe coding&#39; fad</h4> <p>Raspberry Pi, a company started with the aim of democratizing computing and recreating the programming frenzy of the 1980s and 1990s, is warning that &#34;vibe coding&#34; cannot replace the skills picked up during the process of learning to code.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/vibe_coding_raspberry_pi/>
+
+---
+
+## NASA’s PACE Mission Reveals a Year of Terrestrial Data on Plant Health
+
+date: 2025-06-05, from: NASA breaking news
+
+A lot can change in a year for Earth&#8217;s forests and vegetation, as springtime and rainy seasons can bring new growth, while cooling temperatures and dry weather can bring a dieback of those green colors. And now, a novel type of NASA visualization illustrates those changes in a full complement of colors as seen from [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/earth/nasas-pace-mission-reveals-a-year-of-terrestrial-data-on-plant-health/>
+
+---
+
+## NASA Astronaut Jeanette Epps Retires
+
+date: 2025-06-05, from: NASA breaking news
+
+NASA astronaut Jeanette Epps retired May 30, after nearly 16 years of service with the agency. Epps most recently served as a mission specialist during NASA’s SpaceX Crew-8 mission, spending 235 days in space, including 232 days aboard the International Space Station, working on hundreds of scientific experiments during Expedition 71/72. “I have had the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-astronaut-jeanette-epps-retires/>
+
+---
+
+## More than a hundred backdoored malware repos traced to single GitHub user
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>Someone went to great lengths to prey on the next generation of cybercrooks</h4> <p>Sophos thinks a single person or group called &#34;ischhfd83&#34; is behind more than a hundred backdoored malware variants targeting novice cybercriminals and video game cheaters looking to get their hands on malicious code.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/backdoored_malware_repos/>
+
+---
+
+## Jack Kaye Retires After a Storied Career at NASA
+
+date: 2025-06-05, from: NASA breaking news
+
+Jack Kaye [NASA HQ—Associate Director for Research, Earth Science Division (ESD)] has decided to retire on April 30, 2025, following 42 years of service to NASA – see Photo 1. Most recently, Kaye served as associate director for research of the Earth Science Division (ESD) within NASA’s Science Mission Directorate (SMD). In this position, he […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/jack-kaye-retires-after-a-storied-career-at-nasa/>
+
+---
+
+## In Memoriam: Dr. Stanley Sander
+
+date: 2025-06-05, from: NASA breaking news
+
+Dr. Stanley Sander dedicated more than five decades to atmospheric science at the Jet Propulsion Laboratory, beginning his JPL career as a graduate research assistant in 1971. A leading figure in atmospheric chemistry, Stan made foundational contributions to our understanding of stratospheric ozone depletion, tropospheric air pollution, and climate science related to greenhouse gases. His […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/in-memoriam-dr-stanley-sander/>
+
+---
+
+## LinkedIn CEO takes on second gig to lead Microsoft Office and M365 Copilot
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>Redmond doubles down on AI by doubling Ryan Roslansky&#39;s workload</h4> <p>LinkedIn CEO Ryan Roslansky is to lead the Microsoft Office and Microsoft 365 Copilot teams in the latest Redmond reshuffle.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/linkedin_ceo_copilot_office/>
 
 ---
 

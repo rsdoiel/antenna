@@ -1,11 +1,75 @@
 ---
 title: pacific
-updated: 2025-06-05 06:09:59
+updated: 2025-06-05 14:07:32
 ---
 
 # pacific
 
-(date: 2025-06-05 06:09:59)
+(date: 2025-06-05 14:07:32)
+
+---
+
+## Good Jobs Hawaiʻi, Piʻikū Co. connect students to tech careers
+
+date: 2025-06-05, from: University of Hawaiʻi News
+
+<p>A new partnership is giving Hawaiʻi students real-world experience in tech design without having to leave the islands.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/05/good-jobs-piiku-partnership/">Good Jobs Hawaiʻi, Piʻikū Co. connect students to tech careers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/05/good-jobs-piiku-partnership/>
+
+---
+
+## Matt Elliott selected as the next UH Mānoa athletics director
+
+date: 2025-06-05, from: University of Hawaiʻi News
+
+<p>Elliott brings to <abbr>UH</abbr> 13 years of experience in athletics administration at <abbr>UCLA</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/05/matt-elliott-uh-manoa-athletics-director/">Matt Elliott selected as the next <abbr>UH</abbr> Mānoa athletics director</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/05/matt-elliott-uh-manoa-athletics-director/>
+
+---
+
+## Port of Guam gets the green light to tap agency funds for bond paydown
+
+date: 2025-06-05, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Port Authority of Guam’s board of directors has unanimously approved a resolution authorizing up... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/port-board-approves-3m-mond-pay-down>
+
+---
+
+## ‘Speak now or be spoken for:’ Guam’s fight for recognition on the world stage
+
+date: 2025-06-05, from: Pacific Island Times
+
+By Myracle Mugol  At this year’s Fanhita Conference, a panel on international engagement and Guam’s decolonization brought forward frank... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/speak-now-or-be-spoken-for-guam-s-fight-for-recognition-on-the-world-stage>
+
+---
+
+## Japan Coast Guard visits
+
+date: 2025-06-05, from: Marshal Islands Journal
+
+<p>The Japan Coast Guard vessel Itsukushima visited Majuro at the end of last week. Japan Coast Guard officers engaged with RMI law enforcement authorities in training for ways to safely secure and remove an injured person from a vessel at sea. The vessel also held a reception on board for VIPs Monday evening this week [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/japan-coast-guard-visits/">Japan Coast Guard visits</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/japan-coast-guard-visits/>
 
 ---
 
@@ -146,6 +210,20 @@ date: 2025-06-05, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/06/05/nation-world-news/putin-tells-trump-russia-has-to-respond-to-ukrainian-attacks/>
+
+---
+
+## Three Big Island residents found guilty in housing credits scam
+
+date: 2025-06-05, from: Hawaii Tribune Harold
+
+
+				<p>Two Hilo lawyers and a Big Island businessman were convicted Wednesday by a federal jury in Honolulu in connection with a scam in which the trio received Hawaii County affordable housing credits and land conveyances worth at least $10.98 million, with no intention of developing affordable housing.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/05/hawaii-news/three-big-island-residents-found-guilty-in-housing-credits-scam/>
 
 ---
 

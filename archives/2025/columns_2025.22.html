@@ -29,7 +29,146 @@
 An experiment in personal news aggregation.
 </div>
 <h1 id="columns">columns</h1>
-<p>(date: 2025-06-05 06:10:00)</p>
+<p>(date: 2025-06-05 14:07:33)</p>
+<hr />
+<h2 id="oddμ-history">2025-06-05 Oddμ history</h2>
+<p>date: 2025-06-05, from: Alex Schroeder’s Blog</p>
+<h1 id="2025-06-05-oddμ-history">
+2025-06-05 Oddμ history
+</h1>
+<p>
+On fedi,
+<a class="account" href="https://mastodon.gamedev.place/@reidrac" title="@reidrac@mastodon.gamedev.place"><span
+class="citation" data-cites="reidrac">@reidrac</span></a> mentioned that
+Oddμ doesn’t keep a page history. The idea is that the wiki is only
+accessible to a small circle of trusted people and therefore we don’t
+need a history to fight spam and vandalism.
+</p>
+<p>
+Some people like backups so that they can go back in time, however. One
+could run a cron job once a day that does a snapshot using
+<code>rsync</code>. For my local copy of the wiki I use a Makefile with
+a target for that:
+</p>
+<pre><code>SHELL=/usr/bin/fish
+
+download:
+    rsync --archive --exclude '*~' --delete --itemize-changes sibirocobombus:alexschroeder.ch/wiki/ .
+
+diff:
+    rsync --dry-run --archive --exclude '*~' --delete --itemize-changes . sibirocobombus:alexschroeder.ch/wiki/
+
+upload:
+    rsync --archive --exclude '*~' --delete --itemize-changes . sibirocobombus:alexschroeder.ch/wiki/
+
+snapshot:
+    rsync --link-dest ../wiki --archive . ../wiki-(date --iso-8601)/
+</code></pre>
+<p>
+I run <code>make snapshot</code> in a directory called
+<code>wiki</code>. The command syncs all the files from the current
+directory to a directory containing the current date,
+e.g. <code>../wiki-2025-06-05</code> and in order to save space,
+unchanged files are simply hard-linked to the file in
+<code>../wiki</code>, i.e. the current directory. If I edit files using
+an editor, the original is renamed and a new copy is created. Therefore,
+the hard-linked snapshots retain their content.
+</p>
+<p>
+One could clean up older snapshots with a cron job and just keep the
+last week, for example.
+</p>
+<p>
+If people need access to the old copies, one would do this via the web
+server and serve the snapshot directories as static files.
+</p>
+<p>
+If one wanted an even more traditional “no forgiving nor forgetting”
+system, there’s always a version control system like <code>git</code>.
+</p>
+<p>
+<a href="https://github.com/gitwatch/gitwatch?tab=readme-ov-file#gitwatch">gitwatch.sh</a>
+is a shell script that can watch a directory using
+<code>inotifywait</code>. When it detects changes, it waits for a few
+seconds and then adds and commits any changes.
+</p>
+<p>
+<a href="https://github.com/jw0k/gwatch">gwatch</a> is a program written
+in C that does the same thing.
+</p>
+<p>
+Access to the git repository is a different problem, now: One could have
+a cron job run <code>git push</code> every now and then and people
+access the repository elsewhere. Or one could use something like
+<code>cgit</code> to serve a read-only copy of old revisions.
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Oddμ">#Oddμ</a>
+</p>
+<p><br></p>
+<p><a href="https://alexschroeder.ch/view/2025-06-05-oddmu-history"
+class="uri">https://alexschroeder.ch/view/2025-06-05-oddmu-history</a></p>
+<hr />
+<h2
+id="marco-arment-on-apples-decision-to-decline-appearing-on-the-talk-show-live-from-wwdc">Marco
+Arment on Apple’s Decision to Decline Appearing on The Talk Show Live
+From WWDC</h2>
+<p>date: 2025-06-05, updated: 2025-06-05, from: Daring Fireball</p>
+<p><br></p>
+<p><a href="https://marco.org/2025/05/30/retreat"
+class="uri">https://marco.org/2025/05/30/retreat</a></p>
+<hr />
+<h2 id="june-4-2025">June 4, 2025</h2>
+<p>date: 2025-06-05, from: Heather Cox Richardson blog</p>
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165283552/1232cdae579b3281a882f0c13f8d0f33.mp3">
+</source>
+</audio>
+<p><a href="https://api.substack.com/feed/podcast/165283552/1232cdae579b3281a882f0c13f8d0f33.mp3" target="_blank">download
+audio/mpeg</a><br></p>
+<p><a href="https://heathercoxrichardson.substack.com/p/june-4-2025-64e"
+class="uri">https://heathercoxrichardson.substack.com/p/june-4-2025-64e</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2025-06-05, from: Dave Winer’s Scripting
+News)</p>
+<p>Now a personal comment. What pisses me off most about Bluesky is the
+political environment all this is happening in. We <i>need</i> an open
+social web. They’ve got a lot of people convinced they are it. They are
+not and they know it. And they keep leading people on. They should
+either deliver, now, or get out of the way.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2025/06/05.html#a134712"
+class="uri">http://scripting.com/2025/06/05.html#a134712</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2025-06-05, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2022/03/21/beetle.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Regular
+readers of my blog know that I’ve been
+<a href="https://daytona.scripting.com/search?q=Bluesky">calling out
+Bluesky</a> and people associated with it for saying they’re an open
+platform, and part of the web, when they are neither. Why don’t people,
+esp journalists, call them out on this? We’ve been around this loop over
+and over in tech. There’s a virtual conference today, FediForum, that on
+their <a href="https://fediforum.org/">home page</a> repeats
+<a href="https://imgs.scripting.com/2025/06/05/promises.png">the
+hype</a>. Why do people do this? What’s the point of pouring your time
+into technology you hope someday will be open? I bought a ticket to the
+conference so if there are any sessions that look like they might be
+productive I can participate. I even wrote a
+<a href="http://scripting.com/2025/06/04/162206.html">keynote</a>, so
+you can see there is a way for this stuff to start working, quickly, if
+the vendors you’re looking up to are sincere in their promises. I’ve
+posted it on
+<a href="https://mastodon.social/@dave@social.masto.land/114630925085003307">Mastodon</a>
+and
+<a href="https://bsky.app/profile/scripting.com/post/3lqufhhswis2r">Bluesky</a>
+so if you have comments or questions, we can start the discussion now,
+or any time.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2025/06/05.html#a132426"
+class="uri">http://scripting.com/2025/06/05.html#a132426</a></p>
 <hr />
 <h2
 id="while-americas-front-doors-are-closing-to-china-back-doors-are-opening">While
@@ -56,7 +195,7 @@ reading <span class="screen-reader-text">What we can’t measure</span>
 href="https://daniel.haxx.se/blog/2025/06/05/what-we-cant-measure/"
 class="uri">https://daniel.haxx.se/blog/2025/06/05/what-we-cant-measure/</a></p>
 <hr />
-<h2 id="june-4-2025">June 4, 2025</h2>
+<h2 id="june-4-2025-1">June 4, 2025</h2>
 <p>date: 2025-06-05, from: Heather Cox Richardson blog</p>
 <p>Just hours after President Donald J.</p>
 <p><br></p>
@@ -262,7 +401,7 @@ class="uri">https://mastodon.social/@Migueldeicaza/114626367987108753</a></p>
 <p>date: 2025-06-04, from: Dave Winer’s Scripting News</p>
 <p>
 <a href="https://fediforum.org/">FediForum</a> is a virtual conference
-that starts tomorrow. If they had asked me to keynote, this is roughly
+that starts on June 5. If they had asked me to keynote, this is roughly
 what I would say.
 </p>
 <p>
@@ -355,6 +494,12 @@ Dave
 PS: I asked ChatGPT to
 <a href="https://imgs.scripting.com/2025/06/04/talkVisualized.png">visualize</a>
 me giving this talk.
+</p>
+<p>
+PPS: Comments or questions on
+<a href="https://mastodon.social/@dave@social.masto.land/114630925085003307">Masto</a>
+or
+<a href="https://bsky.app/profile/scripting.com/post/3lqufhhswis2r">Bluesky</a>.
 </p>
 <p><br></p>
 <p><a
@@ -473,8 +618,8 @@ class="uri">http://scripting.com/2025/06/04.html#a135841</a></p>
 <h2 id="wednesday">Wednesday</h2>
 <p>date: 2025-06-04, from: Doc Searls (at Harvard), New Old Blog</p>
 <p>Cause for pessimism. There is a stat in basketball called VORP, for
-Value Over Replacement Player. I'd like one for coaches: VORC, for Value
-Over Replacement Coach. If such a stat existed, Tom Thibodeau's VORC
+Value Over Replacement Player. I’d like one for coaches: VORC, for Value
+Over Replacement Coach. If such a stat existed, Tom Thibodeau’s VORC
 would be pretty high. Minnesota and Chicago both fell after he left.
 Bonus link: Nate Silver, Knicks fan, Thibs non-fan. Not […]</p>
 <p><br></p>

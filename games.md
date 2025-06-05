@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-06-05 06:10:01
+updated: 2025-06-05 14:07:34
 ---
 
 # games
 
-(date: 2025-06-05 06:10:01)
+(date: 2025-06-05 14:07:34)
+
+---
+
+## Breath of the Wild and Tears of the Kingdom load significantly faster on Switch 2
+
+date: 2025-06-05, updated: 2025-06-05, from: Polygon Website
+
+On top of being the upgraded version of the Nintendo Switch, the Switch 2 might be the best way to experience some of the previous generation’s most critically acclaimed titles. Both Breath of the Wild and Tears of the Kingdom already stole our hearts with their scale, presentation, and gameplay when they were released in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/604235/breath-of-the-wild-botw-tears-of-the-kingdom-totk-load-times>
+
+---
+
+## Turns out Cyberpunk 2077 makes a great Switch 2 launch title
+
+date: 2025-06-05, updated: 2025-06-05, from: Polygon Website
+
+The Switch 2 is finally here, and so are its various launch titles. But unlike the launch of the Switch 1 — which saw everyone and their mother eagerly diving into Breath of the Wild — the Switch 2 isn’t launching alongside a massive new RPG from a beloved Nintendo franchise. It is, however, launching [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/604269/switch-2-cyberpunk-2077-ultimate-edition-best-title>
+
+---
+
+## Switch 2 quietly makes shiny hunting in Pokémon Scarlet and Violet way better
+
+date: 2025-06-05, updated: 2025-06-05, from: Polygon Website
+
+Plenty of existing Nintendo games are getting an upgrade for Switch 2, but few of them are benefitting nearly as much as Pokémon Scarlet and Violet. The open-world game released on Switch 1 in a haggard state that defied the capabilities of the technologically challenged console. Now that the Switch 2 is here, things are [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/604225/switch-2-pokemon-scarlet-violet-shiny-easy>
+
+---
+
+## Your Switch controllers will (likely) work on Switch 2 — we tested them
+
+date: 2025-06-05, updated: 2025-06-05, from: Polygon Website
+
+Nintendo Switch 2 is here, and if you’re a Nintendo fan (and, more importantly, a Switch owner), you probably have a bunch of well-used original Switch controllers. After testing controllers using my own Switch 2, the good news is that you can use almost all of your original Switch controller hardware on Switch 2, with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/604163/switch-support-joy-con-pro-controller>
+
+---
+
+## What time does Fortnite live event ‘Death Star Sabotage’ start?
+
+date: 2025-06-05, updated: 2025-06-03, from: Polygon Website
+
+“Death Star Sabotage,” Fortnite’s next live event, takes place on Saturday, June 7. It marks the end of the Galactic Battle, a Star Wars-themed mini-season in Fortnite Chapter 6. Here’s everything we know about Fortnite’s Death Star Sabotage live event so far, including what time the live event starts in your time zone, how to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/603081/death-star-sabotage-live-event-start-time-date-edt-pdt-bst>
+
+---
+
+## How to get Breath of the Wild and Tears of the Kingdom’s Switch 2 upgrades
+
+date: 2025-06-05, updated: 2025-06-05, from: Polygon Website
+
+You can get the Tears of the Kingdom Switch 2 upgrade and Breath of the Wild Switch 2 upgrade for free if you&#8217;re a Nintendo Switch Online + Expansion Pack subscriber, though if this is your first time messing with any of the Expansion Pack features, the process of actually getting your free downloads is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/604214/breath-of-the-wild-tears-of-the-kingdom-botw-totk-upgrades>
+
+---
+
+## Switch 2 launch is both better and more chaotic than anyone expected
+
+date: 2025-06-05, updated: 2025-06-05, from: Polygon Website
+
+Switch 2 launch is upon us, and the moment is unfolding smoother than expected in some areas — and outright chaos in others. On the extreme end of things, some new Switch 2 owners were dismayed to find that their hardware was ruined instantly after purchasing it. Some retailers, like GameStop, saw instances of employees [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/604188/switch-2-target-best-buy-walmart-consoles-left>
+
+---
+
+## Can I play Switch 2 games on my Switch 1?
+
+date: 2025-06-05, updated: 2025-06-05, from: Polygon Website
+
+The Switch 2 is finally here, and so are its few launch titles. But while most Nintendo fans are wondering which games they can access on their shiny new Switch 2, a few are clinging to the past and pondering an entirely different question: &#8220;Can I play Switch 2 games on my original Switch console?&#8221; [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/604204/can-i-play-switch-2-games-on-my-switch-1>
+
+---
+
+## The Last of Us’ season 2 problems were already obvious in season 1
+
+date: 2025-06-05, updated: 2025-06-05, from: Polygon Website
+
+Season 2 of The Last of Us has faced considerable backlash for its divisive narrative swings and polarizing character arcs. But beyond the bad-faith criticism centered on queer representation or Bella Ramsey not looking enough like her game counterpart, there are deeper, more valid concerns about how the show steadily eroded its lead characters. A [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/603718/last-of-us-season-2-criticism-backlash>
 
 ---
 

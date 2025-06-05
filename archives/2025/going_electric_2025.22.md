@@ -1,11 +1,183 @@
 ---
 title: going electric
-updated: 2025-06-05 06:10:04
+updated: 2025-06-05 14:07:37
 ---
 
 # going electric
 
-(date: 2025-06-05 06:10:04)
+(date: 2025-06-05 14:07:37)
+
+---
+
+## A BYD Dolphin Was Driven 140,000 Miles. Here's How It Held Up
+
+date: 2025-06-05, from: Inside EVs News
+
+A rideshare driver in Brazil has piled on more than 100,000 miles in two years. The results seem promising. 
+
+<br> 
+
+<https://insideevs.com/news/761870/byd-dolphin-long-term-brazil/>
+
+---
+
+## Kia only sold 831 EV4 models in its first sales month, but don’t count it out yet
+
+date: 2025-06-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Kia-EV4-first-sales.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s first electric sedan is off to a slow start. Despite selling just 831 <a href="https://electrek.co/guides/kia-ev4/">EV4 models</a> in its first sales month, Kia expects things to pick up quickly from here.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" data-post-id="419227" href="https://electrek.co/2025/06/05/kia-sold-831-ev4-models-first-month-but-dont-count-it-out-yet/#more-419227" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/05/kia-sold-831-ev4-models-first-month-but-dont-count-it-out-yet/>
+
+---
+
+## Tesla Stock Sinks As Trump And Musk's Relationship Implodes
+
+date: 2025-06-05, from: Inside EVs News
+
+"Elon and I had a great relationship. I don't know if we will anymore," Trump said today. The partnership was once seen as good for Tesla. 
+
+<br> 
+
+<https://insideevs.com/news/761869/trump-musk-feud-tsla-stock/>
+
+---
+
+## Tariffs Are Already Disrupting Car Shoppers' Plans
+
+date: 2025-06-05, from: Inside EVs News
+
+Tariff fears are driving some buyers to move up their purchase timelines. 
+
+<br> 
+
+<https://insideevs.com/news/761861/tariff-impact-june-2025/>
+
+---
+
+## Is the Chevy Equinox plug-in hybrid coming soon?
+
+date: 2025-06-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Cheapest-EVs-lease-May.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new <a href="https://electrek.co/guides/chevy-equinox-ev/">Chevy Equinox</a> prototype was spotted testing, hinting that a new plug-in hybrid variant could be coming soon. The Equinox is already a top-selling EV in the US (and Canada), but a plug-in hybrid (PHEV) model would be a first for one of GM’s most popular SUVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="419200" href="https://electrek.co/2025/06/05/chevy-equinox-plug-in-hybrid-coming-soon/#more-419200" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/05/chevy-equinox-plug-in-hybrid-coming-soon/>
+
+---
+
+## Rad Power Father’s Day Sale takes up to $600 off e-bikes, EcoFlow 72-hour backup and battery sale from $349, Greenworks, more
+
+date: 2025-06-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Rad-Power-RadRover-6-Plus-Step-Thru-e-bike.png?w=1600" /></div><p>Leading today’s Green Deals is <a href="https://9to5toys.com/2025/06/05/rad-power-radrover-6-plus-e-bike-1399-more/">Rad Power’s Father’s Day Sale</a>, which is taking up to $600 off e-bikes, like the Dad-approved <a href="https://9to5toys.com/2025/06/05/rad-power-radrover-6-plus-e-bike-1399-more/">RadRover 6 Plus Step-Thru Fat Tire e-bike for $1,399</a>. EcoFlow has also launched 72-hour flash savings from its June Disaster Sale on three add-on units, like the <a href="https://9to5toys.com/2025/06/05/ecoflow-home-backup-kit-and-battery-flash-sale-349/">Home Backup Kit</a>, which is getting a <a href="https://9to5toys.com/2025/06/05/ecoflow-home-backup-kit-and-battery-flash-sale-349/">rare discount to $349</a>, along with two expansion battery bundle offers. We also have two lawn care solution deals that offer 2-in-1 functionality, with the Greenworks 24V 10-inch Cordless <a href="https://9to5toys.com/2025/06/04/greenworks-24v-pole-saw-pole-trimmer-combo-200-low/">Pole Saw and Pole Hedge Trimmer Combo</a> at its <a href="https://9to5toys.com/2025/06/04/greenworks-24v-pole-saw-pole-trimmer-combo-200-low/">$200 low</a>, while the Worx <a href="https://9to5toys.com/2025/06/05/worx-gt3-0-trimmer-edger-94/">GT3.0 20V String Trimmer/Edger</a> comes with two batteries for <a href="https://9to5toys.com/2025/06/05/worx-gt3-0-trimmer-edger-94/">$94</a>. Lastly, to help with your summer home prep, there’s <a href="https://9to5toys.com/2025/06/05/camplux-18kw-water-heater-260/">Camplux’s 18W Tankless Electric Water Heater at $260</a>, as well as alternate-sized models. Plus, there’s all the rest of the hangover Green Deals in the links at the bottom of the page, like yesterday’s exclusive new low prices on the Anker SOLIX <a href="https://9to5toys.com/2025/06/04/exclusive-anker-solix-everfrost-2-58l-bundles-from-749/">EverFrost 2 58L electric cooler bundles</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="419201" href="https://electrek.co/2025/06/05/rad-power-e-bikes-fathers-day-sale-ecoflow-greenworks-more/#more-419201" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/05/rad-power-e-bikes-fathers-day-sale-ecoflow-greenworks-more/>
+
+---
+
+## This $17,000 Nissan EV is off to a hot start in China and it’s about to go global
+
+date: 2025-06-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/17000-Nissan-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Would you buy Nissan’s new EV for under $17,000? Nissan said the N7 has already “exceeded our expectations,” as orders continue to climb in China. With plans to launch the new EV globally, can the N7 help <a href="https://electrek.co/guides/nissan/">Nissan</a> turn things around?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan" data-layer-viewtype="unknown" data-post-id="419189" href="https://electrek.co/2025/06/05/17000-nissan-ev-hit-in-china-and-its-about-to-go-global/#more-419189" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/05/17000-nissan-ev-hit-in-china-and-its-about-to-go-global/>
+
+---
+
+## Tesla Tells Employees To Take Responsibility For Morale Problems
+
+date: 2025-06-05, from: Inside EVs News
+
+A leaked recording of a training during Tesla's week-long production shutdown outlines a serious morale problem. 
+
+<br> 
+
+<https://insideevs.com/news/761609/tesla-gaslit-employee-morale-problem/>
+
+---
+
+## It’s official: NYC will impose a new 15 MPH speed limit on electric bikes
+
+date: 2025-06-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/nyc-bike-header-3-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>New York City officials are preparing to roll out a new speed limit for electric bikes – and it’s not exactly a green light. Under the newly announced plan, the city will soon set a 15 mph (25 km/h) speed cap for all e-bikes, as part of a broader crackdown aimed at addressing rising concerns about sidewalk safety, delivery rider behavior, and e-bike-related crashes.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="419187" href="https://electrek.co/2025/06/05/its-official-nyc-will-impose-a-new-15-mph-speed-limit-on-electric-bikes/#more-419187" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/05/its-official-nyc-will-impose-a-new-15-mph-speed-limit-on-electric-bikes/>
+
+---
+
+## BYD outsold Tesla in the UK last month and it’s catching up fast for the year
+
+date: 2025-06-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/BYD-UK-registrations-May.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/byd/">BYD</a> is making its presence felt in the UK after registrations jumped more than fivefold last month. The EV leader registered over 3,000 vehicles in May, overtaking Tesla, and is quickly closing in on its full-year sales. With its most affordable EV hitting the market, BYD is expected to gain even more ground this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="419167" href="https://electrek.co/2025/06/05/byd-outsold-tesla-uk-last-month-full-year-race-tightens/#more-419167" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/05/byd-outsold-tesla-uk-last-month-full-year-race-tightens/>
+
+---
+
+## Volvo Just Invented AI-Powered Seatbelts
+
+date: 2025-06-05, from: Inside EVs News
+
+The world’s most safety-focused automaker is launching a "smart seatbelt" on the upcoming EX60. Here's how it works. 
+
+<br> 
+
+<https://insideevs.com/news/761821/volvo-multi-adaptive-seat-belt/>
+
+---
+
+## 'Lowest In Decades': Carmakers Pull Back On New Models, Especially EVs
+
+date: 2025-06-05, from: Inside EVs News
+
+Plus, dealerships are begging automakers to stop sending them EVs, and the waitlist for the Xiaomi SU7 is nearly a year long. 
+
+<br> 
+
+<https://insideevs.com/news/761729/car-wars-automakers-pull-evs/>
 
 ---
 

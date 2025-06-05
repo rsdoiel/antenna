@@ -1,11 +1,52 @@
 ---
 title: journalism
-updated: 2025-06-05 06:10:02
+updated: 2025-06-05 14:07:34
 ---
 
 # journalism
 
-(date: 2025-06-05 06:10:02)
+(date: 2025-06-05 14:07:34)
+
+---
+
+## Rapidy growing singer, songwriter Bella Marcy unites fans through music
+
+date: 2025-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Bella Marcy is connecting with thousands through her music.
+The fourth-year music industry student has cultivated a strong sense of community among her listeners across social media. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/05/rapidy-growing-singer-songwriter-bella-marcy-unites-fans-through-music/>
+
+---
+
+## Graduation speaker to deliver a ‘love letter to Pierce’
+
+date: 2025-06-05, from: The Round Up (Pierce College Student Newspaper)
+
+<p>If things go according to her plan, the commencement for this year’s graduation will some day work for the United Nations Children’s Fund (UNICEF) to</p>
+<p>The post <a href="https://theroundupnews.com/2025/06/05/graduation-speaker-to-deliver-a-love-letter-to-pierce/">Graduation speaker to deliver a &#8216;love letter to Pierce&#8217;</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/06/05/graduation-speaker-to-deliver-a-love-letter-to-pierce/?utm_source=rss&utm_medium=rss&utm_campaign=graduation-speaker-to-deliver-a-love-letter-to-pierce>
+
+---
+
+## Arrests follow after fireworks rock Plum Canyon neighborhood
+
+date: 2025-06-05, from: The Canyon News (COC Student Newspaper)
+
+<p>In the blink of an eye, a sudden explosion turned a quiet&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/plum-canyon/">Arrests follow after fireworks rock Plum Canyon neighborhood</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/plum-canyon/>
 
 ---
 
@@ -85,12 +126,25 @@ Ahead of his Thursday inauguration, Chancellor Julio Frenk spoke with National N
 
 ---
 
+## The Writer’s Den creates creative writing community, opportunities for outreach
+
+date: 2025-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Among an assortment of creative writing groups at UCLA, The Writer’s Den holds a premium on both creativity and volunteer work.
+The Writer’s Den aims to establish an environment where writers can strengthen their connection to their craft. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/04/the-writers-den-creates-creative-writing-community-opportunities-for-outreach/>
+
+---
+
 ## Crimewatch: May 2025
 
 date: 2025-06-04, from: The Daily Bruin (UCLA Student Newspaper)
 
-UCPD recorded 692 unique entries in its daily crime log from May 1 to May 31.
-University police received 164 crime reports from May 1 to 31 that resulted in active police cases. 
+Sources: UCPD. Graphic reporting by Maggie Konecky, Daily Bruin Staff. Interactive by Ayushi Kadakia, Assistant Data Editor.
+UCPD recorded 692 unique entries in its daily crime log from May 1 to May 31. 
 
 <br> 
 

@@ -1,11 +1,115 @@
 ---
 title: home
-updated: 2025-06-05 06:10:03
+updated: 2025-06-05 14:07:35
 ---
 
 # home
 
-(date: 2025-06-05 06:10:03)
+(date: 2025-06-05 14:07:35)
+
+---
+
+## If You See a “PM” Sticker on a License Plate, Here’s What It Means
+
+date: 2025-06-05, from: Family Handyman Blog
+
+<p>You might be surprised by what a "PM" sticker on a car says about that vehicle.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/pm-sticker-on-license-plate/">If You See a &#8220;PM&#8221; Sticker on a License Plate, Here&#8217;s What It Means</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/pm-sticker-on-license-plate/>
+
+---
+
+## Bathroom Upgrades That Aren’t Worth the Hype, and What To Do Instead
+
+date: 2025-06-05, from: Family Handyman Blog
+
+<p>Steer clear of these overhyped bathroom upgrades to save money and avoid regret.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/bathroom-upgrades-overhyped/">Bathroom Upgrades That Aren&#8217;t Worth the Hype, and What To Do Instead</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/bathroom-upgrades-overhyped/>
+
+---
+
+## Progress for Californians: keeping invasive species at bay
+
+date: 2025-06-05, from: Calfifornia Dept. Aggriculture blog
+
+CDFA&#8217;s report &#8220;Progress for California&#8221; highlights a variety of ways that agency programs benefit the state. A prime example is our work to prevent invasive fruit flies from becoming established and threatening our food supply. Each year brings new infestations &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29034">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29034>
+
+---
+
+## 7 Trendy Kitchen Upgrades You Might Regret
+
+date: 2025-06-05, from: Family Handyman Blog
+
+<p>7 Trendy Kitchen Upgrades You Might Regret Kitchen improvements are among the most common home renovations, as well as the most disruptive. The chaos is...</p>
+<p>The post <a href="https://www.familyhandyman.com/list/bad-kitchen-upgrades/">7 Trendy Kitchen Upgrades You Might Regret</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/bad-kitchen-upgrades/>
+
+---
+
+## Traditional Tiles Steal the Spotlight at This Sun-Drenched $2.2M Duplex in Lisbon
+
+date: 2025-06-05, from: Dwell
+
+Architect José Adrião paired classic azulejos with white millwork and marble as revamped the 2,400-square-foot home in the city’s Lapa neighborhood. 
+
+<br> 
+
+<https://www.dwell.com/article/duplex-renovation-jose-adriao-arquitetos-lisbon-portugal-real-estate-a642df41>
+
+---
+
+## Batten Screens Wrapping This Renovation in Australia Are Bold. The Interiors Are Even Bolder
+
+date: 2025-06-05, from: Dwell
+
+A net for lounging hangs above an office, exterior cladding is used inside, and a hidden pink room in the attic gives the owners’ kids a place to escape. 
+
+<br> 
+
+<https://www.dwell.com/article/clarke-house-austin-maynard-architects-family-renovation-batten-exterior-2cda8883>
+
+---
+
+## How to Grow Himalayan Blue Poppies
+
+date: 2025-06-05, from: The Gardener's Path
+
+<p>The crepe-like, sky-blue flowers of the Himalayan blue poppy are a focal point in the early summer garden. These herbaceous ornamentals prefer a shady setting in Zones 5 to 7 with well-draining, organically-rich soil. Learn how to cultivate Meconopsis species in your outdoor living space in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-himalayan-poppies/">How to Grow Himalayan Blue Poppies</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-himalayan-poppies/>
+
+---
+
+## From the Archive: Living in Le Corbusier’s Urban Utopia
+
+date: 2025-06-05, from: Dwell
+
+More than 20 years ago, we spoke to residents of the legendary L’Unité d’Habitation housing complex about how Corbu’s first large-scale project still meets his original vision of a self-contained village. 
+
+<br> 
+
+<https://www.dwell.com/article/le-corbusier-marseille-l-unite-d-habitation-d539e744-4058062a>
 
 ---
 
@@ -33,6 +137,42 @@ With the FARE Act set to shift the costly burden from renters to landlords, I’
 <br> 
 
 <https://www.dwell.com/article/good-riddance-new-york-city-brokers-fee-fare-act-869a617b>
+
+---
+
+## Good Riddance to New York City’s Tenant-Paid Broker Fee
+
+date: 2025-06-05, from: Dwell
+
+With the FARE Act set to shift the costly burden from renters to landlords, I’ve been reflecting on what the system actually offered me and other New Yorkers. 
+
+<br> 
+
+<https://www.dwell.com/article/good-riddance-new-york-city-broker-fee-fare-act-869a617b-01f4d2b6>
+
+---
+
+## Homepage 2025
+
+date: 2025-06-05, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Cluttercore Is the Latest Maximalist Trend. Here’s How to Actually Make It Look Good, Not Messy.
+
+date: 2025-06-05, from: Sunset Magazine - Living in the West
+
+Cluttercore is the latest Pinterest trend promoting maximalism. Designers share how to pull it off so your stuff looks chic not messy. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/cluttercore-trend>
 
 ---
 
@@ -396,6 +536,18 @@ A character from a beloved Disney Channel show will be making a speical appearan
 
 ---
 
+## A Minimalist  Sanctuary in Baja California Sur Hits the Market for $3.8M
+
+date: 2025-06-03, from: Dwell
+
+Airy, organic living areas are paired with an abundance of outdoor spaces to make this home a tranquil getaway. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-puerta-cortez-la-paz-real-estate-9537dc9d>
+
+---
+
 ## In Palo Alto, a Bold Orange-Accented Retreat   Seeks $3.5M
 
 date: 2025-06-03, from: Dwell
@@ -655,18 +807,6 @@ The recently renovated property includes a finished garage, a brand-new kitchen,
 
 ---
 
-## Cluttercore Is the Latest Maximalist Trend. Here’s How to Actually Make It Look Good, Not Messy.
-
-date: 2025-06-02, from: Sunset Magazine - Living in the West
-
-Cluttercore is the latest Pinterest trend promoting maximalism. Designers share how to pull it off so your stuff looks chic not messy. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/cluttercore-trend>
-
----
-
 ## Garlic and Tomatoes: Garden Companions for Healthy Plants
 
 date: 2025-06-02, from: The Gardener's Path
@@ -678,18 +818,6 @@ date: 2025-06-02, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vegetables/garlic-tomatoes-companions/>
-
----
-
-## Homepage 2025
-
-date: 2025-06-02, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
