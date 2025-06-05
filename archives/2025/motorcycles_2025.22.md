@@ -1,11 +1,62 @@
 ---
 title: motorcycles
-updated: 2025-06-04 14:08:06
+updated: 2025-06-05 06:10:03
 ---
 
 # motorcycles
 
-(date: 2025-06-04 14:08:06)
+(date: 2025-06-05 06:10:03)
+
+---
+
+## Bajaj Is Raking In the Cash, and KTM Might Just Ride the Wave
+
+date: 2025-06-05, from: Ride Apart, Electric Motorcycle News
+
+Bajaj has been on a roll both locally in India and around the world. But what could this mean for KTM?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/761475/bajaj-surpasses-profit-forecasts-2025-ktm/>
+
+---
+
+## Public Land Sales Are Back on the Table Thanks to Utah's Mike Lee
+
+date: 2025-06-05, from: Ride Apart, Electric Motorcycle News
+
+Mike Lee might as well be a Captain Planet villain at this point.  
+
+<br> 
+
+<https://www.rideapart.com/news/761589/big-beautiful-bill-public-land-sales-mike-lee-utah/>
+
+---
+
+## These New Sportbike Brake Rotors Made Me Check My Wallet For Upgrade Money
+
+date: 2025-06-05, from: Ride Apart, Electric Motorcycle News
+
+Galfer’s Floatech Road rotors promise improved feel and consistency, even when you’re pushing it. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/761477/2025-galfer-floatech-road-rotors/>
+
+---
+
+## This EV Scooter Company's Fall From Grace Is Painful To Watch
+
+date: 2025-06-05, from: Ride Apart, Electric Motorcycle News
+
+Once the shining beacon of India’s light EV industry, Ola Electric’s facing some serious issues—and the numbers don’t lie. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/761615/ola-electric-mounting-struggling-financial-losses/>
 
 ---
 

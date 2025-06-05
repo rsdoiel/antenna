@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-06-04 14:08:05
+updated: 2025-06-05 06:10:02
 ---
 
 # libraries
 
-(date: 2025-06-04 14:08:05)
+(date: 2025-06-05 06:10:02)
+
+---
+
+## Guest Post — European Accessibility Act: Navigating the Challenges of EAA Compliance
+
+date: 2025-06-05, from: Scholarly Kitchen
+
+<p>The deadline for the European Accessibility Act compliance is rapidly approaching. Here we discuss the challenges scholarly organizations face in achieving EAA compliance — and the strategies they’re implementing to address them. </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/06/05/guest-post-european-accessibility-act-navigating-the-challenges-of-eaa-compliance/">Guest Post — European Accessibility Act: Navigating the Challenges of EAA Compliance</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/06/05/guest-post-european-accessibility-act-navigating-the-challenges-of-eaa-compliance/>
 
 ---
 
@@ -101,7 +115,7 @@ Columbus is shown a history of the western hemisphere since his discoveries.
 
 date: 2025-06-02, from: Association of Research Libraries News
 
-<p>Last Updated on June 4, 2025, 4:37 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 3 &#124; Wednesday, June 4 &#124; Thursday,...</p>
+<p>Last Updated on June 5, 2025, 2:55 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 3 &#124; Wednesday, June 4 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-june-2-5/">Day in Review (June 2–5)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -362,4 +376,16 @@ Blumer, Philipp
 <br> 
 
 <http://hdl.handle.net/20.500.11850/738661>
+
+---
+
+## What drives students’ decision to enroll abroad for tertiary education?
+
+date: 2025-06-01, from: ETH Zurich, recently added
+
+Zubovic, Amela 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/739153>
 

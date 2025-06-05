@@ -1,11 +1,98 @@
 ---
 title: home
-updated: 2025-06-04 14:08:06
+updated: 2025-06-05 06:10:03
 ---
 
 # home
 
-(date: 2025-06-04 14:08:06)
+(date: 2025-06-05 06:10:03)
+
+---
+
+## 51 Types of Snakes in Oklahoma​ (With Pictures and Identification)
+
+date: 2025-06-05, from: Yard Life blog
+
+<p>Oklahoma’s diverse landscapes provide a rich habitat for an impressive range of snakes. From riverbanks to open plains and forested ... </p>
+<p class="read-more-container"><a title="51 Types of Snakes in Oklahoma​ (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/51-types-of-snakes-in-oklahoma-with-pictures-and-identification/#more-29545" aria-label="Read more about 51 Types of Snakes in Oklahoma​ (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/51-types-of-snakes-in-oklahoma-with-pictures-and-identification/">51 Types of Snakes in Oklahoma​ (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/51-types-of-snakes-in-oklahoma-with-pictures-and-identification/>
+
+---
+
+## Good Riddance to New York City’s Tenant-Paid Broker’s Fee
+
+date: 2025-06-05, from: Dwell
+
+With the FARE Act set to shift the costly burden from renters to landlords, I’ve been reflecting on what the system actually offered me and other New Yorkers. 
+
+<br> 
+
+<https://www.dwell.com/article/good-riddance-new-york-city-brokers-fee-fare-act-869a617b>
+
+---
+
+## 40 Types of Yellow Birds in Kansas (Pictures and Identification)
+
+date: 2025-06-05, from: Yard Life blog
+
+<p>If you’re passionate about birdwatching, especially the vibrant and eye-catching birds in Kansas, then this guide is perfect for you. ... </p>
+<p class="read-more-container"><a title="40 Types of Yellow Birds in Kansas (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/40-types-of-yellow-birds-in-kansas-pictures-and-identification/#more-29535" aria-label="Read more about 40 Types of Yellow Birds in Kansas (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/40-types-of-yellow-birds-in-kansas-pictures-and-identification/">40 Types of Yellow Birds in Kansas (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/40-types-of-yellow-birds-in-kansas-pictures-and-identification/>
+
+---
+
+## 20 Types of Cactus to Grow in New Mexico (With Pictures)
+
+date: 2025-06-05, from: Yard Life blog
+
+<p>Cacti are the heart and soul of desert gardening, and in New Mexico, they shine like nowhere else. With their ... </p>
+<p class="read-more-container"><a title="20 Types of Cactus to Grow in New Mexico (With Pictures)" class="read-more button" href="https://ownyardlife.com/20-types-of-cactus-to-grow-in-new-mexico-with-pictures/#more-29505" aria-label="Read more about 20 Types of Cactus to Grow in New Mexico (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-types-of-cactus-to-grow-in-new-mexico-with-pictures/">20 Types of Cactus to Grow in New Mexico (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-types-of-cactus-to-grow-in-new-mexico-with-pictures/>
+
+---
+
+## 5 Types of Deer in Colorado (With Pictures and Identification)
+
+date: 2025-06-05, from: Yard Life blog
+
+<p>Colorado is home to a wide variety of wildlife, and deer are among the most iconic and commonly observed animals ... </p>
+<p class="read-more-container"><a title="5 Types of Deer in Colorado (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/5-types-of-deer-in-colorado-with-pictures-and-identification/#more-29488" aria-label="Read more about 5 Types of Deer in Colorado (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/5-types-of-deer-in-colorado-with-pictures-and-identification/">5 Types of Deer in Colorado (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/5-types-of-deer-in-colorado-with-pictures-and-identification/>
+
+---
+
+## 12 Best Flowers to Grow in New Mexico (Ultimate Guide)
+
+date: 2025-06-05, from: Yard Life blog
+
+<p>New Mexico’s unique climate, with its abundant sunshine, low humidity, and distinct seasons, creates both opportunities and challenges for gardeners. ... </p>
+<p class="read-more-container"><a title="12 Best Flowers to Grow in New Mexico (Ultimate Guide)" class="read-more button" href="https://ownyardlife.com/12-best-flowers-to-grow-in-new-mexico-ultimate-guide/#more-29480" aria-label="Read more about 12 Best Flowers to Grow in New Mexico (Ultimate Guide)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/12-best-flowers-to-grow-in-new-mexico-ultimate-guide/">12 Best Flowers to Grow in New Mexico (Ultimate Guide)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/12-best-flowers-to-grow-in-new-mexico-ultimate-guide/>
 
 ---
 
@@ -20,6 +107,30 @@ date: 2025-06-04, from: Homestead and Chil
 <br> 
 
 <https://homesteadandchill.com/store-fresh-eggs/>
+
+---
+
+## This Might Be the Chicest ADU We’ve Ever Seen
+
+date: 2025-06-04, from: Sunset Magazine - Living in the West
+
+You probably won’t believe that this expansive home is an ADU at first. It was designed to complement, not match the main house. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/hillsborough-adu>
+
+---
+
+## These Are the 50 Best Places to Camp Right Now—And How to Book Them
+
+date: 2025-06-04, from: Sunset Magazine - Living in the West
+
+These are the best campsites worth booking this summer, boasting scenic views, convenient amenities, less crowds, and unique experiences. 
+
+<br> 
+
+<https://www.sunset.com/travel/camping/best-campsites-in-the-west>
 
 ---
 
@@ -70,6 +181,18 @@ date: 2025-06-04, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/ornamentals/grow-carolina-allspice/>
+
+---
+
+## These Are the Best Father’s Day Gifts to Give This Year
+
+date: 2025-06-04, from: Sunset Magazine - Living in the West
+
+Father's Day is just around the corner and that means it's time for shopping. These are the best Father's Day gifts, at every price point. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/fathers-day-gift-ideas>
 
 ---
 
@@ -273,18 +396,6 @@ A character from a beloved Disney Channel show will be making a speical appearan
 
 ---
 
-## This Might Be the Chicest ADU We’ve Ever Seen
-
-date: 2025-06-03, from: Sunset Magazine - Living in the West
-
-You probably won’t believe that this expansive home is an ADU at first. It was designed to complement, not match the main house. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/hillsborough-adu>
-
----
-
 ## In Palo Alto, a Bold Orange-Accented Retreat   Seeks $3.5M
 
 date: 2025-06-03, from: Dwell
@@ -330,6 +441,18 @@ The entertainment behemoth is set to break ground on a 1,400-unit mixed-income d
 <br> 
 
 <https://www.dwell.com/article/horizon-west-why-disney-is-building-affordable-housing-b6151320>
+
+---
+
+## Why These Two Baja Destinations Are the Perfect Spot for a Honeymoon
+
+date: 2025-06-03, from: Sunset Magazine - Living in the West
+
+Looking for a honeymoon that's both relaxing and adventurous? Try visiting Todos Santos and Cabo San Lucas. 
+
+<br> 
+
+<https://www.sunset.com/travel/baja-california-honeymoon>
 
 ---
 
@@ -440,18 +563,6 @@ Stripes are a classic design pattern that will never go out of style. Designers 
 
 ---
 
-## These Are the Best Father’s Day Gifts to Give This Year
-
-date: 2025-06-03, from: Sunset Magazine - Living in the West
-
-Father's Day is just around the corner and that means it's time for shopping. These are the best Father's Day gifts, at every price point. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/shopping/fathers-day-gift-ideas>
-
----
-
 ## 50 Types of Birds in California (With Pictures and Identification)
 
 date: 2025-06-03, from: Yard Life blog
@@ -493,6 +604,18 @@ date: 2025-06-02, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/project/diy-butcher-block-countertop/>
+
+---
+
+## 23 Delicious Ways to Make the Most of Summer Squash Season
+
+date: 2025-06-02, from: Sunset Magazine - Living in the West
+
+Summer cooking calls for the freshest zucchini, yellow squash, and other in-season produce. Try these summer squash and zucchini recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/summer-squash-and-zucchini-recipes>
 
 ---
 

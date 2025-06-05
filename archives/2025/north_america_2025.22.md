@@ -1,11 +1,87 @@
 ---
 title: north america
-updated: 2025-06-04 14:07:59
+updated: 2025-06-05 06:09:57
 ---
 
 # north america
 
-(date: 2025-06-04 14:07:59)
+(date: 2025-06-05 06:09:57)
+
+---
+
+## Ukraine has lessons for beating bullies
+
+date: 2025-06-05, from: The Contrarian
+
+Domestically, lawsuits are democratic advocates&#8217; armed drones 
+
+<br> 
+
+<https://contrarian.substack.com/p/ukraine-has-lessons-for-beating-bullies>
+
+---
+
+##  FDA Approved — And Ineffective 
+
+date: 2025-06-05, from: The Lever News
+
+ Federal regulators have authorized hundreds of drugs without evidence they work, and many are dangerous.  
+
+<br> 
+
+<https://www.levernews.com/fda-approved-and-ineffective/>
+
+---
+
+## Evening Roundup, June 4
+
+date: 2025-06-04, from: The Contrarian
+
+Featuring Jennifer Weiss-Wolf; Paul Rieckhoff & Jen Rubin; Max Stier; Eliza Orlins; Josh Levs; Megan Armstrong; and Katherine Eban in conversation with Jen Rubin 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-4>
+
+---
+
+## RFK Jr. doesn't know what he's doing: Katherine Eban on the world of 'Make America Healthy Again'
+
+date: 2025-06-04, from: The Contrarian
+
+"They're purging data sets that are absolutely vital to scientific and public health research" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165223731/b550f39b953250aa905eada9ff2d33f9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165223731/b550f39b953250aa905eada9ff2d33f9.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/rfk-jr-doesnt-know-what-hes-doing>
+
+---
+
+## Grace Under Fire: Transgender Student Athlete AB Hernandez’s Winning Weekend
+
+date: 2025-06-04, from: Capital and Main
+
+<p>Anticipated far-right protest sputters at California high school track and field meet.</p>
+<p>The post <a href="https://capitalandmain.com/grace-under-fire-transgender-student-athlete-ab-hernandezs-winning-weekend">Grace Under Fire: Transgender Student Athlete AB Hernandez’s Winning Weekend</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/grace-under-fire-transgender-student-athlete-ab-hernandezs-winning-weekend>
+
+---
+
+## The WNBA does not need a white knight
+
+date: 2025-06-04, from: The Contrarian
+
+Caitlin Clark is a generational star, but she is not the league. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-wnba-does-not-need-a-white-knight>
 
 ---
 

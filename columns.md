@@ -1,11 +1,162 @@
 ---
 title: columns
-updated: 2025-06-04 14:08:02
+updated: 2025-06-05 06:10:00
 ---
 
 # columns
 
-(date: 2025-06-04 14:08:02)
+(date: 2025-06-05 06:10:00)
+
+---
+
+## While America’s Front Doors are Closing to China, Back Doors are Opening
+
+date: 2025-06-05, from: Robert Reich's blog
+
+The hypocrisy of Trump&#8217;s techno-nationalism 
+
+<br> 
+
+<https://robertreich.substack.com/p/while-americas-front-doors-are-closing>
+
+---
+
+## What we can’t measure
+
+date: 2025-06-05, from: Daniel Stenberg Blog
+
+The curl project is an independent Open Source project. Our ambition is to do internet transfers right and securely with the features &#8220;people&#8221; want. But how do we know if we do this successfully or not? Possibly one rough way to measure if users are happy would be to know if the number of users &#8230; <a href="https://daniel.haxx.se/blog/2025/06/05/what-we-cant-measure/" class="more-link">Continue reading <span class="screen-reader-text">What we can&#8217;t measure</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/06/05/what-we-cant-measure/>
+
+---
+
+## June 4, 2025
+
+date: 2025-06-05, from: Heather Cox Richardson blog
+
+Just hours after President Donald J. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-4-2025>
+
+---
+
+## [Sponsor] WorkOS: Scalable, Secure Authentication
+
+date: 2025-06-05, updated: 2025-06-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://workos.com/?utm_source=daringfireball&utm_medium=RSS&utm_campaign=q12025>
+
+---
+
+## 9to5Mac Reports Apple Notes Will Gain Markdown Export at WWDC, and, You’ll Be Unsurprised to Know, I Have Thoughts
+
+date: 2025-06-05, updated: 2025-06-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/06/03/exclusive-ios-26-messages-carplay-more/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-05, from: Miguel de Icaza Mastondon feed)
+
+<p>I stand by this review from last year:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114628103973945841>
+
+---
+
+## You Can’t Erase the Truth
+
+date: 2025-06-04, from: Dan Rather's Steady
+
+Pete Hegseth is on the warpath to purge history he doesn&#8217;t like 
+
+<br> 
+
+<https://steady.substack.com/p/you-cant-erase-the-truth>
+
+---
+
+## Apple Might Release an iPhone ‘Air’ Battery Case, But What They Ought to Release Is an Updated MagSafe Battery Pack
+
+date: 2025-06-04, updated: 2025-06-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theinformation.com/articles/apple-plans-iphone-release-schedule-shakeup-new-styles?rc=jfy0lk>
+
+---
+
+## June 3, 2025
+
+date: 2025-06-04, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165228766/68b22e4501db290719eb784ce7ece2d0.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165228766/68b22e4501db290719eb784ce7ece2d0.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-3-2025-704>
+
+---
+
+## Meta and Yandex’s ‘Local Mess’ Exploit Seemingly Only Works on Android
+
+date: 2025-06-04, updated: 2025-06-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://arstechnica.com/security/2025/06/meta-and-yandex-are-de-anonymizing-android-users-web-browsing-identifiers/>
+
+---
+
+## Can David Frum hear me?
+
+date: 2025-06-04, from: Dave Winer's Scripting News
+
+<p>I've been enjoying the new <a href="https://www.theatlantic.com/podcasts/the-david-frum-show/">David Frum podcast</a>. He's very good at thinking and does a lot of it, and expresses himself very well. I read all his columns and have read two of his books, even though I don't share much of his pre-Trump politics, I find it interesting to hear how he parses things. I also subscribe to The Atlantic. I listen to him. But in this week's episode it's clear that the listening is one-way. </p>
+<p>In today's <a href="https://www.theatlantic.com/podcasts/archive/2025/06/david-frum-showwhy-are-the-media-so-afraid-of-trump/683029/">episode</a> we heard from the elite journalist David Frum, interviewing elite editor in chief Marty Barrett, formerly of the Washington Post, and they both make what I believe are wildly inaccurate generalizations about the quality of the news reporting by professionals and the ugliness and inadequacy of bloggers and podcasters. </p>
+<p>The problem is, they don't read widely enough to know that there are bloggers and podcasters with good intentions, ethics, deep knowledge and experience who are also well educated -- they don't know we exist and therefore can't hear about the huge mistakes they are making with their own self-perception of their role that we can see because we are not in their world. (BTW, I have been in their world, I was a contributing editor at Wired, a research fellow at Harvard and NYU, each for two years, and I have collided with Frum-like elites, the usual response is a hand-wave of dismissal, written off as not worth listening to, I guess.)</p>
+<p>Frum, at the end of the episode talks about how the press covered Biden's incapacity, that led to the second Trump term. They should have stopped, once we were all informed of what happened, and let the <i>electorate</i> decide, it wasn't up to them, or the celebrities they gave space to in their op-eds. In the United States, the <i>people</i> decide. Instead they put up a roadblock and wouldn't let the issue drop. We all knew, we were all informed, probably long before we read a single article about his debate performance. They should have stopped. That was their malpractice. </p>
+<p>Their responsibility was to give us the information, and it was also their responsibility to stop right there. Once informed, they were wrong in continuing to harp on it. </p>
+<p>We saw them do it with Governor Cuomo of New York. And Senator Al Franken. And Donald McNeil at the NY Times. And on and on. There's so much reporting that's lazy and incompetent, but they'll never report on that, because of their conflicts. And they never listen to their critics. And as a result they play a role they are not entitled to play.  </p>
+<p>They need to wake up to the idea that while reporting from their bubble is still important and is heard, they misuse it regularly, and we are fed up with it. If they want to control the government, do the right thing, and run for office. Don't do it from your byline in the Washington Post or NY Times. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/04/220120.html?title=canDavidFrumHearMe>
+
+---
+
+## Meta and Yandex Have Both Been De-Anonymizing Android Users’ Ostensibly Sandboxed Private Web Browsing Identifiers
+
+date: 2025-06-04, updated: 2025-06-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://localmess.github.io/>
 
 ---
 
@@ -91,6 +242,7 @@ date: 2025-06-04, from: Dave Winer's Scripting News
 <p>I'm ready to do it any time you all are. </p>
 <p>Yours in not wasting time.</p>
 <p>Dave</p>
+<p>PS: I asked ChatGPT to <a href="https://imgs.scripting.com/2025/06/04/talkVisualized.png">visualize</a> me giving this talk.</p>
  
 
 <br> 
@@ -185,7 +337,7 @@ I now have the special ChatGPT function I've been waiting for. <a href="https://
 
 date: 2025-06-04, from: Doc Searls (at Harvard), New Old Blog
 
-Not surprisingly,,, Meta and Yandex are de-anonymizing Android users’ web browsing identifiers. From Ars Technica. But not by much. WaPo: 5 AI bots took our tough reading test. One was smartest — and it wasn’t ChatGPT. It was Claude. Today&#39;s rollback link. Podcasts, Wallcasts, and Paycasts, from last October. A pull-quote from a comment: &#34;Paywalls are going up [&#8230;] 
+Cause for pessimism. There is a stat in basketball called VORP, for Value Over Replacement Player. I&#39;d like one for coaches: VORC, for Value Over Replacement Coach. If such a stat existed, Tom Thibodeau&#39;s VORC would be pretty high. Minnesota and Chicago both fell after he left. Bonus link: Nate Silver, Knicks fan, Thibs non-fan. Not [&#8230;] 
 
 <br> 
 

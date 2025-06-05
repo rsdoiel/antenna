@@ -1,11 +1,79 @@
 ---
 title: food
-updated: 2025-06-04 14:08:08
+updated: 2025-06-05 06:10:05
 ---
 
 # food
 
-(date: 2025-06-04 14:08:08)
+(date: 2025-06-05 06:10:05)
+
+---
+
+## Build-Outs Of Coffee: Osom Nou In Barcelona, Spain
+
+date: 2025-06-05, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Osom Nou in Barcelona, Spain. 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-osom-nou-in-barcelona-spain-337431.html>
+
+---
+
+## Cold Matcha Noodles
+
+date: 2025-06-05, from: Bon Appetet
+
+Matcha tints this refreshing noodle dish a delightful green hue—and imparts its characteristic grassy flavor. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/cold-matcha-noodles>
+
+---
+
+## Caldo de Queso
+
+date: 2025-06-05, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/caldo-de-queso/"><img title="caldo-de-queso-small-6" src="https://www.isabeleats.com/wp-content/uploads/2025/06/caldo-de-queso-small-6-400x600.jpg" alt="Caldo de queso in a bowl garnished with fresh cilantro." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Caldo de queso is an easy Mexican soup made with potatoes, roasted Anaheim peppers, sautéed onions, tomatoes, and soft chunks&#8230; 
+
+<br> 
+
+<https://www.isabeleats.com/caldo-de-queso/>
+
+---
+
+## McDonald’s Snack Wrap Returns with One Special Catch
+
+date: 2025-06-04, from: Taste of Home
+
+<p>Our beloved Snack Wraps are finally making their summer comeback.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mcdonalds-snack-wrap-returns/">McDonald&#8217;s Snack Wrap Returns with One Special Catch</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mcdonalds-snack-wrap-returns/>
+
+---
+
+## 8 Smoking Tips Every Professional Pitmaster Knows
+
+date: 2025-06-04, from: Taste of Home
+
+<p>These tricks from professional pitmasters take the intimidation out of smoking meat. Are you ready to become a master yourself?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/smoked-meat-tips/">8 Smoking Tips Every Professional Pitmaster Knows</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/smoked-meat-tips/>
 
 ---
 
@@ -112,6 +180,42 @@ date: 2025-06-04, from: The Sprudge
 <br> 
 
 <https://sprudge.com/the-sprudge-twenty-class-of-2025-nominations-period-extended-343783.html>
+
+---
+
+## Indonesia Coffee Report: Exports Up Though Tariffs and EUDR Linger
+
+date: 2025-06-04, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Indonesia final" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Indonesia’s coffee production for the 2025/26 market year (April to March) is forecast at the equivalent of 11.3 million 60-kilogram bags, up 5% from the prior year, according to the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/04/indonesia-coffee-report-exports-up-though-tariffs-and-eudr-linger/>
+
+---
+
+## StoneX Specialty Opens Big Green Coffee Hub in Kansas City
+
+date: 2025-06-04, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/StoneX-specialty-620x465.jpg" class="attachment-large size-large wp-post-image" alt="StoneX specialty" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/StoneX-specialty-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/StoneX-specialty-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/StoneX-specialty-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/StoneX-specialty-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/StoneX-specialty.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Seattle-based green coffee trader StoneX Specialty Coffee recently opened a warehouse outside Kansas City, Missouri, bringing more green coffees and professional coffee services to the central United States. While StoneX... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/04/stonex-specialty-opens-big-green-coffee-hub-in-kansas-city/>
+
+---
+
+## Oregon Coffee Leaders Speak Up Over Tariffs, Funding Cuts and Political Inaction
+
+date: 2025-06-04, from: Daily Coffee News
+
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/buckman-bonamici-620x349.jpg" class="attachment-large size-large wp-post-image" alt="buckman-bonamici" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/buckman-bonamici-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/buckman-bonamici-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/buckman-bonamici-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/buckman-bonamici-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/buckman-bonamici.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; At a roundtable with U.S. Rep. Suzanne Bonamici last week in Portland, Oregon, coffee business leaders expressed frustration and a sense of urgency over tariffs, USAID cuts and other... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/04/oregon-coffee-leaders-speak-up-over-tariffs-funding-cuts-and-political-inaction/>
 
 ---
 
@@ -233,7 +337,7 @@ Like a crispy rice salad, coffee cake scones, and a frozen espresso martini.
 
 date: 2025-06-03, from: Daily Coffee News
 
-<div><img width="620" height="461" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/black-coffee-aging-620x461.jpg" class="attachment-large size-large wp-post-image" alt="black coffee aging" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/black-coffee-aging-620x461.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/black-coffee-aging-300x223.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/black-coffee-aging-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/black-coffee-aging-768x571.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/black-coffee-aging.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Women who drink coffee during midlife are significantly more likely to maintain their physical and mental health as they age, according to new research from Harvard University that tracked nearly... 
+<div><img width="620" height="461" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/black-coffee-aging-620x461.jpg" class="attachment-large size-large wp-post-image" alt="black coffee aging" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/black-coffee-aging-620x461.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/black-coffee-aging-300x223.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/black-coffee-aging-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/black-coffee-aging-768x571.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/black-coffee-aging.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Women who drink coffee during midlife are significantly more likely to maintain their physical and mental health as they age, according to new research from Harvard University that tracked nearly... 
 
 <br> 
 
@@ -281,7 +385,7 @@ date: 2025-06-03, from: The Sprudge
 
 date: 2025-06-03, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Bulletproof-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Bulletproof New Look" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Bulletproof-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Bulletproof-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Bulletproof-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Bulletproof-768x575.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Bulletproof.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; After a meteoric rise in popularity through the 2010s fueled in part by a message from its founder that coffee has mold that makes you weak, Seattle-based coffee and... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Bulletproof-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Bulletproof New Look" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Bulletproof-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Bulletproof-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Bulletproof-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Bulletproof-768x575.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Bulletproof.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; After a meteoric rise in popularity through the 2010s fueled in part by a message from its founder that coffee has mold that makes you weak, Seattle-based coffee and... 
 
 <br> 
 
@@ -293,7 +397,7 @@ date: 2025-06-03, from: Daily Coffee News
 
 date: 2025-06-03, from: Daily Coffee News
 
-<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Macap-Supra-83-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Macap Supra 83" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Macap-Supra-83-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Macap-Supra-83-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Macap-Supra-83-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Macap-Supra-83-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Macap-Supra-83.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Italian coffee grinder company Macap is picking up the pace with a new flagship line of professional espresso grinders called Supra, designed for high-speed service at busy coffee bars.... 
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Macap-Supra-83-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Macap Supra 83" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Macap-Supra-83-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Macap-Supra-83-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Macap-Supra-83-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Macap-Supra-83-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Macap-Supra-83.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Italian coffee grinder company Macap is picking up the pace with a new flagship line of professional espresso grinders called Supra, designed for high-speed service at busy coffee bars.... 
 
 <br> 
 

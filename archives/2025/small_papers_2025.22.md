@@ -1,11 +1,187 @@
 ---
 title: small papers
-updated: 2025-06-04 14:08:08
+updated: 2025-06-05 06:10:05
 ---
 
 # small papers
 
-(date: 2025-06-04 14:08:08)
+(date: 2025-06-05 06:10:05)
+
+---
+
+## La llama de la Esperanza es Llevada a Través de la Ciudad de San Fernando por un Atleta de las Olimpiadas Especiales y el Departamento de Policía de San Fernando
+
+date: 2025-06-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250604_Torch-Run_SN_14-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250604_Torch-Run_SN_14-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250604_Torch-Run_SN_14-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250604_Torch-Run_SN_14-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250604_Torch-Run_SN_14-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250604_Torch-Run_SN_14-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250604_Torch-Run_SN_14-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250604_Torch-Run_SN_14-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250604_Torch-Run_SN_14-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250604_Torch-Run_SN_14-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250604_Torch-Run_SN_14-scaled.jpeg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250604_Torch-Run_SN_14-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250604_Torch-Run_SN_14-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250604_Torch-Run_SN_14-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250604_Torch-Run_SN_14-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Aunque era una mañana de miércoles un poco húmeda afuera de la Escuela Primaria O&#8217;Melveny, no disuadió a los estudiantes que vitorearon y corearon “¡U.S.A.! U.S.A.” y “¡Vamos San Fernando!” [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/04/la-llama-de-la-esperanza-es-llevada-a-traves-de-la-ciudad-de-san-fernando-por-un-atleta-de-las-olimpiadas-especiales-y-el-departamento-de-policia-de-san-fernando/">La llama de la Esperanza es Llevada a Través de la Ciudad de San Fernando por un Atleta de las Olimpiadas Especiales y el Departamento de Policía de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/04/la-llama-de-la-esperanza-es-llevada-a-traves-de-la-ciudad-de-san-fernando-por-un-atleta-de-las-olimpiadas-especiales-y-el-departamento-de-policia-de-san-fernando/>
+
+---
+
+## Cómo el GR818ERS Invirtió en Programas Juveniles para Salvar Sheldon Skate Park
+
+date: 2025-06-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/AUSTIN-37-scaled-e1749097241527.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/AUSTIN-37-scaled-e1749097241527.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/AUSTIN-37-scaled-e1749097241527.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/AUSTIN-37-scaled-e1749097241527.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/AUSTIN-37-scaled-e1749097241527.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Contra viento y marea, los GR818ERS han luchado 10 largos años para que Sheldon Skate Park en Sun Valley sea un espacio para empoderar a los jóvenes locales. A través [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/04/como-el-gr818ers-invirtio-en-programas-juveniles-para-salvar-sheldon-skate-park/">Cómo el GR818ERS Invirtió en Programas Juveniles para Salvar Sheldon Skate Park</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/04/como-el-gr818ers-invirtio-en-programas-juveniles-para-salvar-sheldon-skate-park/>
+
+---
+
+## La Junta de Supervisores del Condado de Los Ángeles Proclama Junio como el Mes de Concientización sobre la Silicosis
+
+date: 2025-06-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250407_Fabrication-Shops_SN_12-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250407_Fabrication-Shops_SN_12-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250407_Fabrication-Shops_SN_12-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250407_Fabrication-Shops_SN_12-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250407_Fabrication-Shops_SN_12-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250407_Fabrication-Shops_SN_12-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250407_Fabrication-Shops_SN_12-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250407_Fabrication-Shops_SN_12-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250407_Fabrication-Shops_SN_12-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250407_Fabrication-Shops_SN_12-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250407_Fabrication-Shops_SN_12-scaled.jpeg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250407_Fabrication-Shops_SN_12-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250407_Fabrication-Shops_SN_12-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250407_Fabrication-Shops_SN_12-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250407_Fabrication-Shops_SN_12-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La silicosis, una enfermedad pulmonar profesional, se está cobrando la vida de los trabajadores de la fabricación de piedra en el Valle de San Fernando. Los trabajadores que cortan, esmerilan, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/04/la-junta-de-supervisores-del-condado-de-los-angeles-proclama-junio-como-el-mes-de-concientizacion-sobre-la-silicosis/">La Junta de Supervisores del Condado de Los Ángeles Proclama Junio como el Mes de Concientización sobre la Silicosis</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/04/la-junta-de-supervisores-del-condado-de-los-angeles-proclama-junio-como-el-mes-de-concientizacion-sobre-la-silicosis/>
+
+---
+
+## Horóscopo
+
+date: 2025-06-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Eres alérgico a los sentimientos superficiales y a los consejos vacíos: quieres profundidad, originalidad y verdad con los [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/04/horoscopo-217/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/04/horoscopo-217/>
+
+---
+
+## EVENTOS Locales – Semana de 5 de junio, 2025
+
+date: 2025-06-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Sábado, Junio 7 Let It Fly LA &#8211; Competencia Gratuita de Tiro de Baloncesto por Dinero en Efectivo y Premios Northridge Park 10120 Reseda Blvd. Northridge 12 p.m. – 4 [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/04/eventos-locales-semana-de-5-de-junio-2025/">EVENTOS Locales &#8211; Semana de 5 de junio, 2025 </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/04/eventos-locales-semana-de-5-de-junio-2025/>
+
+---
+
+## Los Voluntarios Ayudan a Brillar en North Hills Durante el Mes de la Herencia AAPI
+
+date: 2025-06-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250531_Shine-LA_SN_02-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250531_Shine-LA_SN_02-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250531_Shine-LA_SN_02-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250531_Shine-LA_SN_02-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250531_Shine-LA_SN_02-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250531_Shine-LA_SN_02-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250531_Shine-LA_SN_02-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250531_Shine-LA_SN_02-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250531_Shine-LA_SN_02-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250531_Shine-LA_SN_02-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250531_Shine-LA_SN_02-scaled.jpeg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250531_Shine-LA_SN_02-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250531_Shine-LA_SN_02-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250531_Shine-LA_SN_02-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250531_Shine-LA_SN_02-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los miembros de la comunidad de Los Ángeles se están uniendo para ayudar a embellecer la ciudad como parte de la iniciativa mensual “Shine LA” de la alcaldesa Karen Bass. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/04/los-voluntarios-ayudan-a-brillar-en-north-hills-durante-el-mes-de-la-herencia-aapi/">Los Voluntarios Ayudan a Brillar en North Hills Durante el Mes de la Herencia AAPI</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/04/los-voluntarios-ayudan-a-brillar-en-north-hills-durante-el-mes-de-la-herencia-aapi/>
+
+---
+
+## Joven Cineasta Cuenta una Conmovedora Historia de Romance entre Personas del Mismo Sexo
+
+date: 2025-06-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="570" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/SHORT-FILM-How-do-you-capture-desire-1.jpg?fit=1024%2C570&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/SHORT-FILM-How-do-you-capture-desire-1.jpg?w=1449&amp;ssl=1 1449w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/SHORT-FILM-How-do-you-capture-desire-1.jpg?resize=300%2C167&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/SHORT-FILM-How-do-you-capture-desire-1.jpg?resize=1024%2C570&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/SHORT-FILM-How-do-you-capture-desire-1.jpg?resize=768%2C428&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/SHORT-FILM-How-do-you-capture-desire-1.jpg?resize=1200%2C668&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/SHORT-FILM-How-do-you-capture-desire-1.jpg?resize=780%2C434&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/SHORT-FILM-How-do-you-capture-desire-1.jpg?resize=400%2C223&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/SHORT-FILM-How-do-you-capture-desire-1.jpg?resize=706%2C393&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/SHORT-FILM-How-do-you-capture-desire-1.jpg?fit=1024%2C570&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A veces, la amistad y el romance se mezclan y chocan, rompiendo corazones. Y algunas personas como Saúl Peña pueden convertir esa angustia en un arte maravilloso. El cineasta está [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/04/joven-cineasta-cuenta-una-conmovedora-historia-de-romance-entre-personas-del-mismo-sexo/">Joven Cineasta Cuenta una Conmovedora Historia de Romance entre Personas del Mismo Sexo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/04/joven-cineasta-cuenta-una-conmovedora-historia-de-romance-entre-personas-del-mismo-sexo/>
+
+---
+
+## La Congresista Luz Rivas Lidera la Lucha para que una Niña de Cuatro Años de Bakersfield Conserve el Estatus Legal para Recibir Atención que Salva Vidas
+
+date: 2025-06-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>La semana pasada, la congresista Luz Rivas fue co-lider de 35 representantes de la Cámara de Representantes con los senadores Alex Padilla y Adam Schiff para instar a la secretaria [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/04/la-congresista-luz-rivas-lidera-la-lucha-para-que-una-nina-de-cuatro-anos-de-bakersfield-conserve-el-estatus-legal-para-recibir-atencion-que-salva-vidas/">La Congresista Luz Rivas Lidera la Lucha para que una Niña de Cuatro Años de Bakersfield Conserve el Estatus Legal para Recibir Atención que Salva Vidas</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/04/la-congresista-luz-rivas-lidera-la-lucha-para-que-una-nina-de-cuatro-anos-de-bakersfield-conserve-el-estatus-legal-para-recibir-atencion-que-salva-vidas/>
+
+---
+
+## Policía: Tres Hombres Vuelven a Atacar a una Mujer Transgénero
+
+date: 2025-06-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="615" height="281" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/First-Suspect-1.jpeg?fit=615%2C281&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/First-Suspect-1.jpeg?w=615&amp;ssl=1 615w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/First-Suspect-1.jpeg?resize=300%2C137&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/First-Suspect-1.jpeg?resize=400%2C183&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/First-Suspect-1.jpeg?fit=615%2C281&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ÁNGELES (CNS) &#8211; El jefe de policía de Los Ángeles, Jim McDonnell, dijo el martes 3 de junio que se están enfocando recursos considerables en detener a las personas [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/04/policia-tres-hombres-vuelven-a-atacar-a-una-mujer-transgenero/">Policía: Tres Hombres Vuelven a Atacar a una Mujer Transgénero</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/04/policia-tres-hombres-vuelven-a-atacar-a-una-mujer-transgenero/>
+
+---
+
+## El Presidente Trump Amenaza al Gobernador Newsom con Multas Después de la Reunión Estatal del CIF
+
+date: 2025-06-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>JURUPA VALLEY (CNS) &#8211; Una vez más, el presidente Donald Trump amenaza al gobernador Gavin Newsom con multas y retiene fondos federales para la educación el martes 3 de junio [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/04/el-presidente-trump-amenaza-al-gobernador-newsom-con-multas-despues-de-la-reunion-estatal-del-cif/">El Presidente Trump Amenaza al Gobernador Newsom con Multas Después de la Reunión Estatal del CIF</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/04/el-presidente-trump-amenaza-al-gobernador-newsom-con-multas-despues-de-la-reunion-estatal-del-cif/>
+
+---
+
+## These gas appliances — one of the largest sources of LA’s smog — could be phased out
+
+date: 2025-06-05, from: Long Beach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Air quality board will vote Friday on targets and fees that aim to phase out water heaters and furnaces powered by natural gas. These appliances emit more smog-causing gases than the region’s largest industrial polluters.</p>
+<p>The post <a href="https://lbpost.com/news/climate-change/these-gas-appliances-one-of-the-largest-sources-of-las-smog-could-be-phased-out">These gas appliances — one of the largest sources of LA’s smog — could be phased out</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/climate-change/these-gas-appliances-one-of-the-largest-sources-of-las-smog-could-be-phased-out>
+
+---
+
+## Washington man allegedly motivated by ‘anti-life’ ideology charged with helping Palm Springs bomber
+
+date: 2025-06-04, from: Long Beach Post
+
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>An affidavit unsealed today also describes the bomber using an AI chat application to research the process of making powerful explosives</p>
+<p>The post <a href="https://lbpost.com/news/crime/washington-man-allegedly-motivated-by-anti-life-ideology-charged-with-helping-palm-springs-bomber">Washington man allegedly motivated by ‘anti-life’ ideology charged with helping Palm Springs bomber</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/washington-man-allegedly-motivated-by-anti-life-ideology-charged-with-helping-palm-springs-bomber>
 
 ---
 
@@ -13,7 +189,7 @@ updated: 2025-06-04 14:08:08
 
 date: 2025-06-04, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Speed was believed to be a factor in the crash, police said.</p>
 <p>The post <a href="https://lbpost.com/news/crime/motorcyclist-dies-after-crashing-into-parked-car-near-veterans-stadium-long-beach-police-say">Motorcyclist dies after crashing into parked car near Veterans Stadium, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -28,7 +204,7 @@ date: 2025-06-04, from: Long Beach Post
 
 date: 2025-06-03, from: Long Beach Post
 
-<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Police said she is being held without bail, and they asked anyone who may have been victimized by her to contact officers.</p>
 <p>The post <a href="https://lbpost.com/news/crime/lbusd-aide-child-pornography-arrest-long-beach-disabled">LBUSD aide who worked with disabled children arrested on suspicion of distributing child pornography, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

@@ -1,11 +1,115 @@
 ---
 title: going electric
-updated: 2025-06-04 14:08:07
+updated: 2025-06-05 06:10:04
 ---
 
 # going electric
 
-(date: 2025-06-04 14:08:07)
+(date: 2025-06-05 06:10:04)
+
+---
+
+## Tesla admits it would ‘suffer financial harm’ if its self-driving crash data becomes public
+
+date: 2025-06-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is caught in a legal fight in which it admitted that it would “suffer financial harm” if its self-driving crash data would becomes public, but it’s not for the reason you are thinking.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="419157" href="https://electrek.co/2025/06/05/tesla-admits-suffer-financial-harm-if-self-driving-crash-data-becomes-public/#more-419157" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/05/tesla-admits-suffer-financial-harm-if-self-driving-crash-data-becomes-public/>
+
+---
+
+## VW’s Cariad Software Division Is Doing Better Now: CEO
+
+date: 2025-06-05, from: Inside EVs News
+
+With losses of over $7.5 billion in three years, Cariad was responsible for the delayed launch of the Porsche Macan EV. 
+
+<br> 
+
+<https://insideevs.com/news/761759/vw-group-cariad-software-better-future/>
+
+---
+
+## China spends nearly as much on energy as US and EU combined – IEA
+
+date: 2025-06-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/04/Gobi-Desert-solar-wind-china.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Global energy investment is on track to hit a record $3.3 trillion in 2025, according to the new International Energy Agency’s (IEA) annual World Energy Investment report, even as the world navigates economic turbulence and rising geopolitical risks.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,coal,egeb,energy-brief,solar,iea,solar-power" data-layer-viewtype="unknown" data-post-id="419049" href="https://electrek.co/2025/06/04/china-spends-nearly-as-much-on-energy-as-us-and-eu-combined-iea/#more-419049" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/04/china-spends-nearly-as-much-on-energy-as-us-and-eu-combined-iea/>
+
+---
+
+## Amazon to test humanoid robots for package delivery with Rivian electric vans
+
+date: 2025-06-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Amazon-humanoid-robot-Rivian-electric-van.png?w=1600" /></div><p>Amazon is about to start testing humanoid robots for package delivery. The goal is for the robots to come out of the Rivian electric delivery vans and bring packages to your door.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="amazon,rivian" data-layer-viewtype="unknown" data-post-id="419005" href="https://electrek.co/2025/06/04/amazon-test-humanoid-robots-package-delivery-rivian-electric-vans/#more-419005" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/04/amazon-test-humanoid-robots-package-delivery-rivian-electric-vans/>
+
+---
+
+## EVs, Hybrid sales were strong in May as overall demand holds steady
+
+date: 2025-06-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/toyota_hybrids.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With tax refund season behind us and tariff talks taking a back seat to other dystopian headlines, the month of May gave us our first “clean” look at the US car market in 2025 – and the verdict is in: hybrids are leading the charge while EVs are a mixed bag.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="business,ev-sales,plug-in-hybrid" data-layer-viewtype="unknown" data-post-id="419126" href="https://electrek.co/2025/06/04/evs-hybrid-sales-were-strong-in-may-as-overall-demand-holds-steady/#more-419126" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/04/evs-hybrid-sales-were-strong-in-may-as-overall-demand-holds-steady/>
+
+---
+
+## ‘Thieves Taking Notes’: Tesla Jailbreak Exposes Trick To Get Inside Locked Glovebox
+
+date: 2025-06-04, from: Inside EVs News
+
+The Tesla's locked glovebox drops open like it’s just been told a secret. No digital system is engaged at all. 
+
+<br> 
+
+<https://insideevs.com/news/761750/tesla-glovebox-jailbreak-tiktok/>
+
+---
+
+## Hyundai cuts 2025 IONIQ 5 lease prices to just $179 per month
+
+date: 2025-06-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Hyundai-US-made-IONIQ-5-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s electric SUV is more affordable than ever. After cutting lease prices again this month, you can lease the new <a href="https://electrek.co/guides/hyundai-ioniq-5/">2025 Hyundai IONIQ 5</a>, which now features a longer range and a Tesla NACS charging port, for just $179 per month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="419115" href="https://electrek.co/2025/06/04/hyundai-cuts-2025-ioniq-5-lease-prices-179-per-month/#more-419115" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/04/hyundai-cuts-2025-ioniq-5-lease-prices-179-per-month/>
 
 ---
 

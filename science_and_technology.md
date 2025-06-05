@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2025-06-04 14:08:01
+updated: 2025-06-05 06:09:59
 ---
 
 # science and technology
 
-(date: 2025-06-04 14:08:01)
+(date: 2025-06-05 06:09:59)
+
+---
+
+## Datacenters have a public image problem, industry confesses to The Reg
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>&#39;Most people are f**king scared of AI, like we&#39;re feeding a monster&#39;</h4> <p>The current craze for AI has helped drive a wave of datacenter building, but the industry has run into opposition from local communities in many areas, something it is understandably keen to address.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/datacenters_have_a_public_image/>
+
+---
+
+## Industry reacts to DuckDB's radical rethink of Lakehouse architecture
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>Excitement over DuckLake, but momentum is with Iceberg as players at AWS, Snowflake weigh in</h4> <p>It&#39;s been a year since <a target="_blank" href="https://www.theregister.com/2024/06/05/databricks_buys_tabular_for_1b/">Databricks bought Tabular for $1 billion</a>, livening up the sleepy world of table formats.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/ducklake_db_industry_reacts/>
+
+---
+
+## HMRC: Crooks broke into 100k accounts, stole £43M from British taxpayer in late 2024
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>It’s definitely not a cyberattack though! Really!</h4> <p>The UK&#39;s tax collections agency says cyberbaddies defrauded it of £47 million ($63 million) late last year, but insists the criminal case was not a cyberattack.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/hmrc_fraudsters_broke_into_100k/>
+
+---
+
+## UK tech job openings climb 21% to pre-pandemic highs
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>Accenture points to AI hiring spree, with London dominating demand</h4> <p>UK tech vacancies are up by 21 percent to hit their highest levels since before the pandemic, according to research from Accenture.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/accenture_uk_tech_vacancies/>
+
+---
+
+## HashiCorp speaks up about adjusting to life under IBM
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>Freshly acquired cloud darling talks mainframes, Ansible, and influencing Big Blue at HashiDays event</h4> <p>HashiCorp is now an IBM company, with one staffer remarking: &#34;We&#39;re actually quite happy for it, most of us sitting in this room at least.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/hashicorp_ibm_hashidays/>
+
+---
+
+## Ship abandoned off Alaska after electric cars on board catch fire
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>Water, water everywhere, but it would just make it worse</h4> <p>US Coast Guard and civilian vessels have rescued 22 sailors off the coast of Alaska after some of the electric cars they were transporting caught fire.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/zodiac_maritime_electric_car_fire/>
+
+---
+
+## AI kept 15-year-old zombie vuln alive, but its time is drawing near
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>Researchers have come up with a fix for a path traversal bug first spotted in 2010</h4> <p>A security bug that surfaced fifteen years ago in a public post on GitHub has survived developers&#39; attempts on its life.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/llm_kept_persistent_path_traversal_bug_alive/>
+
+---
+
+## Ukrainian carriers are leasing their IPv4 addresses to stay afloat - sometimes after being overrun by Russia
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>Who can begrudge them? Maybe all of us if IP brokers send them to loose operators</h4> <p>Ukrainian telcos and ISPs have leased their IPv4 holdings to stay afloat during the nation’s war with Russia.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/ukraine_ipv4_loss_kentik_analysis/>
+
+---
+
+## China accuses Taiwan of running five feeble APT gangs, with US help
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>The authors who claimed America hacked itself to discredit Beijing are back with another report</h4> <p>Beijing complains it’s under relentless attack by the equivalent of an ant trying to shake a tree China’s National Computer Virus Emergency Response Center on Thursday published a report in which it claims Taiwan targeted it with a years-long but feeble cyber offensive, backed by the USA.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/china_taiwan_us_apt_report/>
+
+---
+
+## Sols 4559-4560: Drill Campaign — Searching for a Boxwork Bedrock Drill Site
+
+date: 2025-06-05, from: NASA breaking news
+
+Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Monday, June 2, 2025 Now that Curiosity has spent a few sols collecting close-up measurements of the rocks in the outer edge of the boxwork-forming geologic unit, the team has decided that it’s time to collect a drill sample. The […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4559-4560-drill-campaign-searching-for-a-boxwork-bedrock-drill-site/>
+
+---
+
+## IBM Cloud login breaks for second time this week and Big Blue isn't saying why
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>To make matters worse, IBM&#39;s security software has a critical vuln caused by an exposed password</h4> <p>IBM isn’t having its best week after the company experienced another cloudy outage and a critical-rated vulnerability.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/ibm_cloud_outage_critical_vulnerability/>
+
+---
+
+## Reddit sues Anthropic for scraping content into the maw of its eternally ravenous AI
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>All the cool kids signed licensing deals with the recently-listed forum site</h4> <p>Reddit, the popular internet discussion forum, sued Anthropic on Wednesday, alleging that the AI biz scraped content generated by its users in violation of contractual terms and technical barriers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/reddit_sues_anthropic_over_ai/>
+
+---
+
+## If it can’t double our money, we’re not building it, Intel Products chief says
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>New products must show potential for 50% gross margin to get the greenlight</h4> <p>Mounting losses and financial turmoil has Intel cutting the deadweight, an effort that won’t end with axing staff.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/intel_gross_margin_boost_plan/>
+
+---
+
+## Play ransomware crims exploit SimpleHelp flaw in double-extortion schemes
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>Recompiled binaries and phone threats used to boost the pressure</h4> <p>Groups linked with the Play ransomware have exploited more than 900 organizations, the FBI said Wednesday, and have developed a number of new techniques in their double-extortion campaigns - including exploiting a security flaw in remote-access tool SimpleHelp if orgs haven&#39;t patched it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/play_ransomware_infects_900_victims/>
+
+---
+
+## GlobalFoundries commits $3B more to US fabs in Trump tariff flex
+
+date: 2025-06-04, updated: 2025-06-04, from: The Register (UK I.T. News)
+
+<h4>Silicon photonics and gallium nitride a major focus</h4> <p>GlobalFoundries plans to funnel another $3 billion into US semiconductor production, bringing its total investment to $16 billion, the New York-based foundry operator said on Wednesday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/04/globalfoundries_us_manufacturing/>
+
+---
+
+## Hubble Captures Cotton Candy Clouds
+
+date: 2025-06-04, from: NASA breaking news
+
+This NASA/ESA&#160;Hubble Space Telescope&#160;image features a sparkling cloudscape from one of the Milky Way’s galactic neighbors, a dwarf galaxy called the Large Magellanic Cloud. Located 160,000 light-years away in the constellations Dorado and Mensa, the Large Magellanic Cloud is the largest of the Milky Way’s many small satellite galaxies. This view of dusty gas clouds [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/hubble-captures-cotton-candy-clouds/>
 
 ---
 

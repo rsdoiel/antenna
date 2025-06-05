@@ -1,11 +1,113 @@
 ---
 title: journalism
-updated: 2025-06-04 14:08:04
+updated: 2025-06-05 06:10:02
 ---
 
 # journalism
 
-(date: 2025-06-04 14:08:04)
+(date: 2025-06-05 06:10:02)
+
+---
+
+## UCLA students exchange AI-driven data solutions in Healthcare Analytics Symposium
+
+date: 2025-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students, researchers and health care leaders convened for the second annual Healthcare Analytics Symposium at the UCLA Anderson School of Management on May 16.
+Hosted by the Morrison Family Center for Marketing and Data Analytics and the UCLA Anderson&#8217;s Master of Science in Business Analytics program, participants at the symposium shared perspectives on potential solutions to health care&#8217;s most complex data management problems. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/05/ucla-students-exchange-ai-driven-data-solutions-in-healthcare-analytics-symposium/>
+
+---
+
+## UCLA’s new Latinx Success Center serves Latino students, builds community
+
+date: 2025-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA&#8217;s new Latinx Success Center aims to support the university&#8217;s Latino community.
+The center, located in De Neve Birch, was established following a 2022 recommendation from UCLA&#8217;s Hispanic-Serving Institution Task Force. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/04/uclas-new-latinx-success-center-serves-latino-students-builds-community/>
+
+---
+
+## Former Armenian president emphasizes strength of small nations at UCLA event
+
+date: 2025-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+The former President of Armenia urged audiences not to overlook small nations, especially those leveraging their strategic leadership and innovation May 28.
+Armen Sarkissian, a physicist who served as Armenia&#8217;s president from 2018 to 2022, was the guest speaker for the UCLA Burkle Center for International Relations&#8217; annual Bernard Brodie Distinguished Lecture on the Conditions of Peace. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/04/former-armenian-president-emphasizes-strength-of-small-nations-at-ucla-event/>
+
+---
+
+## Bruins voice concern over Harvard international enrollment halt, visa revocations
+
+date: 2025-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Visa holders at UCLA expressed concern following the Trump administration’s decision to halt Harvard University’s enrollment of international students.
+This decision was the latest in the ongoing battle between President Donald Trump and Harvard, which began after the Trump administration accused the university of allowing antisemitism and withheld over $2 billion in Harvard’s federal funding. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/04/bruins-voice-concern-over-harvard-international-enrollment-halt-visa-revocations/>
+
+---
+
+## Popularity Growth of Bruin Bash Performing Artists
+
+date: 2025-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/06/04/popularity-growth-of-bruin-bash-performing-artists/>
+
+---
+
+## A conversation with Chancellor Julio Frenk
+
+date: 2025-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Ahead of his Thursday inauguration, Chancellor Julio Frenk spoke with National News and Higher Education editor Alexandra Crosnoe and News editor Dylan Winward to discuss his experience in higher education and tenure to date.Frenk became UCLA&#8217;s first Latino chancellor Jan. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/04/a-conversation-with-chancellor-julio-frenk/>
+
+---
+
+## Crimewatch: May 2025
+
+date: 2025-06-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD recorded 692 unique entries in its daily crime log from May 1 to May 31.
+University police received 164 crime reports from May 1 to 31 that resulted in active police cases. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/04/crimewatch-may-2025/>
+
+---
+
+## Ammi Lane-Volz promotes intentional comedy, community at the Westwood Enabler
+
+date: 2025-06-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated June 4 at 2:20 p.m.</em>
+Editors note: this article contains descriptions of sexual assault and abuse that some readers may find disturbing. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/04/ammi-lane-volz-promotes-intentional-comedy-community-at-the-westwood-enabler/>
 
 ---
 
@@ -25,6 +127,7 @@ date: 2025-06-04, from: The Daily Bruin (UCLA Student Newspaper)
 
 date: 2025-06-04, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated June 4 at 9:48 p.m.</em>
 Ahead of his Thursday inauguration, UCLA Chancellor Julio Frenk spoke with National News and Higher Education editor Alexandra Crosnoe and News editor Dylan Winward to discuss his experience in higher education and tenure to date. 
 
 <br> 
@@ -146,7 +249,7 @@ On Oct. 16, 2023 &#8211; nine days after an attack by Palestinian political part
 
 date: 2025-06-04, from: The Daily Bruin (UCLA Student Newspaper)
 
-Charles Zachary &#8220;C.Z.&#8221; Wilson, UCLA&#8217;s former vice chancellor for academic affairs, died Nov. 21, 2024. He was 95. 
+Charles Zachary “C.Z.” Wilson, UCLA’s former vice chancellor for academic affairs, died Nov. 21, 2024. He was 95.
 Wilson served as vice chancellor for academic affairs for 14 years and was the highest-ranking Black person to become a senior academic administrator at the University during his tenure. 
 
 <br> 
@@ -159,6 +262,7 @@ Wilson served as vice chancellor for academic affairs for 14 years and was the h
 
 date: 2025-06-04, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated June 4 at 9:36 p.m.</em>
 YOUHA’s versatility as a musician allows her to showcase her talent – wherever and whenever.
 Im You-ha, who performs with the mononym YOUHA, made her first appearance at the Head in the Clouds Music &#38; Arts Festival on Sunday afternoon. 
 
@@ -178,6 +282,235 @@ The board, composed of a student majority, has financial oversight over ASUCLA e
 <br> 
 
 <https://dailybruin.com/2025/06/03/asucla-board-of-directors-recap-may-13-15/>
+
+---
+
+## Read Our Latest Issue
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+Vol. CXXVII, Issue 28 | June 3, 2025 View full PDF
+Symphony A Senior Prank of Cosmic Proportions: Kip Thorne’s 85th Birthday Bash Artificial Intelligence: Our Modern Promethean Fire ASCIT BoD Meeting Minutes May 25th 2025 Caltech Wildlife: Juvenile Panel Interviews Finding Faith and Family Far From Home: My Journey with ASK Ministries Giving the Planet a Break with Dr. Daniel Lewis Hic et Nunc: Presence Under Pressure at Caltech How Benson Boone Saved My College Life I Have Failed Is That All There Is? 
+
+<br> 
+
+<https://tech.caltech.edu/issues/latest/>
+
+---
+
+## Symphony
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+<strong>Symphony</strong> 
+
+<br> 
+
+<https://tech.caltech.edu/2025/06/03/symphony/>
+
+---
+
+## A Senior Prank of Cosmic Proportions: Kip Thorne’s 85th Birthday Bash
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+Contrary to a certain rumor, this year’s Senior Prank did <em>not</em> involve placing a Cybertruck on the roof of Beckman Auditorium. Instead, we celebrated Nobel Laureate Prof. Kip Thorne’s 85th birthday following the transformation of Beckman into the wedding cake it’s often called. Festivities included a music-synchronized light show and Kip-themed treats: Kipcorn (popcorn),  Kippy candy (cotton candy), atomic fireballs, starburst, cosmic freeze berry star clusters, star lollipops,  Kipper snacks (sardines), and Milky Ways. It was truly an out-of-this-world party that bent the fabric of spacetime! 
+
+<br> 
+
+<https://tech.caltech.edu/2025/06/03/a-senior-prank-of-cosmic-proportions-kip-thorne-s-85th-birthday-bash/>
+
+---
+
+## Artificial Intelligence: Our Modern Promethean Fire
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+It is well known that A.I. companies have red-teaming, RLHF, and guardrail teams specialized in protecting against hate speech, bomb-making, or any crazy idea that pops into a person&rsquo;s destructive mind. However, even with protection, the A.I. can be &ldquo;tricked&rdquo; and bypass the blockade, creating monstrosities. If there are psychopathic humans capable of manipulating and convincing crowds, just imagine a tool built with data from the entire internet. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/06/03/artificial-intelligence-our-modern-promethean-fire/>
+
+---
+
+## ASCIT BoD Meeting Minutes May 25th 2025
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+May 25th, 2025 | 12:15pm – 2pm, Hameetman Conference Room, Members Present: Ashlyn, Elisa, Bisrat, Parker 
+
+<br> 
+
+<https://tech.caltech.edu/2025/06/03/ascit-bod-meeting-minutes-may-25th-2025/>
+
+---
+
+## Caltech Wildlife: Juvenile Panel Interviews
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+As Commencement draws near, your nerdy wildlife columnist decided to explore a timely topic: what does &ldquo;graduation&rdquo; mean in the animal world? How do young creatures transition out of their juvenile phase—and what counts as &ldquo;adulthood&rdquo;? 
+
+<br> 
+
+<https://tech.caltech.edu/2025/06/03/caltech-wildlife-juveniles/>
+
+---
+
+## Finding Faith and Family Far From Home: My Journey with ASK Ministries
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+When I first set foot in California, leaving behind the sun-kissed hills of Italy, my heart was heavy with anticipation and anxiety. As someone raised in a profoundly Catholic family, faith was not just a tradition—it was the very fabric of my upbringing. Church bells, Sunday Mass, and a close-knit parish community were constants in my life. The thought of crossing the Atlantic for my studies filled me with excitement and a silent worry: Would I find a place where my faith could thrive? Would I see a community that shared my values, or would I feel lost in the vastness of a new culture? 
+
+<br> 
+
+<https://tech.caltech.edu/2025/06/03/finding-faith-and-family-far-from-home-my-journey-with-ask-ministries/>
+
+---
+
+## Giving the Planet a Break with Dr. Daniel Lewis
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+“My mom used to drag us out in the middle of the night to go watch the volcano when it would erupt. At like 3 am, she’d drag us out, get in our VW Van, and travel up the hill to the volcano,” Lecturer in History Dr. Daniel Lewis explains of his childhood in Hawai‘i. “Right now, it’s erupting in these thousand-foot plumes. Now would be the time to go—it’s mind-blowing.” His time in Hawai‘i left him with a deep appreciation of nature and countless unique stories. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/06/03/giving-the-planet-a-break-with-dr-daniel-lewis/>
+
+---
+
+## Hic et Nunc: Presence Under Pressure at Caltech
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+Amid deadlines, data, and delayed dreams, it’s easy to overlook the fact that life doesn’t wait for us to solve every problem. At Caltech, where ambition surrounds us and the future feels constant, the present can easily fade into the background. Yet beneath the weight of equations, lab reports, and sleepless nights lies a truth waiting to be unearthed: <em>hic et nunc</em>—“here and now.” This simple, ancient Latin phrase serves as a profound reminder that our only true existence is in the present. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/06/03/hic-et-nunc-presence-under-pressure-at-caltech/>
+
+---
+
+## How Benson Boone Saved My College Life
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+When I first set foot on Caltech’s campus, I felt like a contestant on a reality show called <em>Survivor: Genius Island</em>. I was fresh off the plane from Milan, armed with a suitcase full of dreams, a double major in biology and chemistry (because why not suffer twice as much?), and a secret hope to someday heal cancer. I planned to take the world by storm—or, at the very least, survive my first quarter without accidentally setting something on fire in the lab. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/06/03/how-benson-boone-saved-my-college-life/>
+
+---
+
+## I Have Failed
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+I had my mouth pressed into the sand. I was breathing hard—desperate, shallow, uneven. I could feel the grains entering my nose, throat, and lungs. Somewhere nearby, I heard the rapid thudding of hooves, the panicked exhale of a frightened horse. For a moment, I couldn’t remember where I was. I couldn’t piece it together. The memories didn’t come in order; they arrived like broken glass, sharp and disjointed. My helmet. My shoulder. The ground. Pain. Sharp pain. A blinding throb in my knee. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/06/03/i-have-failed/>
+
+---
+
+## Is That All There Is? — A Letter From the Editor
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+I am obsessed with David Lynch. Maybe unhealthily so. Few directors feel as fluent in the art of the somnambulistic; I know of no other director who could so deftly craft phantasmagorical operas of the manifold dream-nightmare that is the human experience. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/06/03/is-that-all-there-is-a-letter-from-the-editor/>
+
+---
+
+## Music in a Temple of Science
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+The Mount Wilson Solar Observatory was founded in 1904 by George Hale, who was also a trustee of Throop Polytechnic Institute (which later became Caltech). The first telescope built on-site was the Snow Solar Telescope in 1904, followed closely by the 60-foot Solar Tower and the 60-inch telescope, both of which were completed in 1908. Hale hosted many famous individuals during this time, including Andrew Carnegie in 1910 and Harlow Shapley in 1914. Carnegie was the main financial supporter of the observatory from its inception in 1904, and Shapley was an astronomer who discovered our position in the Milky Way galaxy using the 60-inch telescope. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/06/03/music-in-a-temple-of-science/>
+
+---
+
+## Path Optimization on Campus
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+I can’t be sure, but if I had to take a gamble, I would guess most of you—like me—are always trying to optimize our paths around campus. There are multiple reasons this could be true: (almost) late for class and want to minimize how much you miss? Want to make it to Tom Mannion’s OH before the rest of campus wipes out all the Flamin’ Hot Cheetos? Want to get to bed when a coyote is chasing you down? Want to get the latest sighting of Ted Danson on campus? Want to make that last 2:58 p.m. dash to Browne on the weekend before all you have is Red Door?  Want to beat the 10:30 a.m. line explosion at Red Door? Or the weekend 3 p.m. line explosion? Or the 10 p.m. line explosion, or… You get the idea. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/06/03/path-optimization-on-campus/>
+
+---
+
+## Reminiscences of Caltech Rugby
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+I read the article in <em>The California Tech</em> about the Caltech Rugby Club with great interest because I organised a rugby team at Caltech about 60 years ago (between 1965 and 1967). Most of the team were foreign graduate students from rugby-playing countries, but a few Americans joined us. We had mixed success but managed a few wins, notably against UCLA. The games against USC and Eagle Rock were particularly scary, as their teams consisted of very large American Football players looking for blood and violence in the off-season. We won a few games we didn’t deserve to because of the athletic ability of Mick Mortell from Ireland—he could kick penalties from 50 meters and more. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/06/03/reminiscences-of-caltech-rugby/>
+
+---
+
+## Robots and Remembrance: Transcending Memory With Dementia Doula
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+On May 3rd, Frautschi Hall, 7 p.m., as part of MACH 33: The Caltech Festival of New Science-Driven Plays, was the latest version of Tom Lavagnino’s <em>Dementia Doula</em>. Like the festival’s other show, entitled <em>The Null Test</em> (which explores the legal hijinks of a self-driving car company), this was a staged reading: the cast, directed by Susan Dalian, performing from scripts on music stands. Originally presented under the name <em>Crisis Goalie</em> at the 2024 Utah Shakespeare Festival, then directed by Britannia Howe, this pared-down staging celebrates the script on its own terms, privileging nuanced acting over elaborate production. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/06/03/robots-and-remembrance-transcending-memory-with-dementia-doula/>
+
+---
+
+## Science in the Vatican
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+On April 21st, 2025, Pope Francis passed away. His successor is Pope Leo XIV, whose papacy began on May 8th, 2025. Pope Leo was a close advisor to Pope Francis. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/06/03/science-in-the-vatican/>
+
+---
+
+## Silk Installation at the Huntington Reflects on a World ‘Without Us’
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+Looking down from a plane, Wang Mansheng felt uneasy about how much of the Earth is now covered by roads and buildings. Reflecting on this environmental change, he stated, “Pure nature is now unattainable except through my imagination or brush.” His new works at the Huntington put that imagined nature on display. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/06/03/silk-installation-at-the-huntington-reflects-on-a-world-without-us/>
+
+---
+
+## Stars, Solutions, and Service: A SASS Lunch with Dr. Lorraine Lundquist
+
+date: 2025-06-03, from: California Tech (Caltech Student Newspaper)
+
+At first glance, Dr. Loraine Lundquist might strike you as a scientist with her head in the stars. After all, she holds a Ph.D. in physics from UC Berkeley and once helped launch a satellite to study the Sun&rsquo;s magnetic field. But spend an hour with her, and that’s precisely what we did during the recent SASS Lunch hosted by the Caltech Y—and you’ll quickly realize that her gaze is firmly grounded on Earth, with a heart set on building a more just and sustainable future right here in Los Angeles. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/06/03/stars-solutions-and-service-a-sass-lunch-with-dr-lorraine-lundquist/>
 
 ---
 

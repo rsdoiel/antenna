@@ -1,11 +1,175 @@
 ---
 title: socal north
-updated: 2025-06-04 14:07:59
+updated: 2025-06-05 06:09:58
 ---
 
 # socal north
 
-(date: 2025-06-04 14:07:59)
+(date: 2025-06-05 06:09:58)
+
+---
+
+## What is the city of Industry? A brief history of its eyebrow-raising origins
+
+date: 2025-06-05, updated: 2025-06-05, from: The LAist
+
+We look into how corporate interests and land control influenced how the city formed. 
+
+<br> 
+
+<https://laist.com/news/la-history/la-county-city-of-industry-james-stafford-la-puente>
+
+---
+
+## Getty awards substantial grant to document the places and stories that make Altadena unique
+
+date: 2025-06-05, updated: 2025-06-05, from: The LAist
+
+The L.A. Conservancy will work with local groups to build a map of cultural and heritage sites that will inform Altadena’s post-Eaton Fire rebuild. 
+
+<br> 
+
+<https://laist.com/news/getty-awards-substantial-grant-to-document-the-places-and-stories-that-make-altadena-unique>
+
+---
+
+## Partisan battle lines form over Trump's plan to defund NPR & PBS
+
+date: 2025-06-05, updated: 2025-06-05, from: The LAist
+
+Senate Democrats warn Trump plan to wipe out public broadcasting funding will shut down stations, eliminate essential services. But House GOP scheduled to vote to clawback $1.1 billion next week. 
+
+<br> 
+
+<https://laist.com/news/partisan-battle-lines-form-over-trumps-plan-to-defund-npr-pbs>
+
+---
+
+## These gas appliances — one of the largest sources of LA’s smog — could be phased out
+
+date: 2025-06-05, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04183244/051925-water-heaters-lowes-lv-cm-03-090109-c06wt4yd-965266-PGzALReB.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Air quality board will vote Friday on targets and fees that aim to phase out water heaters and furnaces powered by natural gas. These appliances emit more smog-causing gases than the region’s largest industrial polluters.</p>
+<p>The post <a href="https://lbpost.com/news/climate-change/these-gas-appliances-one-of-the-largest-sources-of-las-smog-could-be-phased-out">These gas appliances — one of the largest sources of LA’s smog — could be phased out</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/climate-change/these-gas-appliances-one-of-the-largest-sources-of-las-smog-could-be-phased-out>
+
+---
+
+## Trump issues new travel ban covering a dozen countries
+
+date: 2025-06-05, updated: 2025-06-05, from: The LAist
+
+The White House said the action was needed to protect the United States from terrorist attacks and other national security threats, and said the countries lacked screening and vetting capabilities. 
+
+<br> 
+
+<https://laist.com/news/trump-issues-new-travel-ban-covering-a-dozen-countries>
+
+---
+
+## The Trump administration is working on a plan for time limits on rental aid
+
+date: 2025-06-05, updated: 2025-06-05, from: The LAist
+
+A housing agency rule would also allow work requirements. Supporters say a time limit would help spread limited funds to more people, but critics warn it would leave some homeless. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/the-trump-administration-is-working-on-a-plan-for-time-limits-on-rental-aid>
+
+---
+
+## San Marino voters poised to renew school funding measure
+
+date: 2025-06-05, updated: 2025-06-05, from: The LAist
+
+Returns show Measure R currently has the two-thirds of votes needed to pass. 
+
+<br> 
+
+<https://laist.com/news/education/measure-r-results-san-marino-unified-school-district-2025>
+
+---
+
+## Great Scott! The hunt is on for the guitar from 'Back to the Future.' Here's how you can help
+
+date: 2025-06-04, updated: 2025-06-04, from: The LAist
+
+The cherry red Gibson ES-345 has been missing since the film's release in 1985. A forthcoming documentary will chronicle the search. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/back-to-the-future-guitar-search-documentary-gibson>
+
+---
+
+## Trump administration restores legal status for 4-year-old with life-threatening illness
+
+date: 2025-06-04, updated: 2025-06-04, from: The LAist
+
+The move to allow the Bakersfield girl to stay in the United States comes after public outcry. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-administration-restores-legal-status-for-4-year-old-with-life-threatening-illness>
+
+---
+
+## LA County agrees to pay nearly $2.7 million to victim of beating at juvenile hall
+
+date: 2025-06-04, updated: 2025-06-04, from: The LAist
+
+An indictment alleges the attack was part of a series of 'gladiator fights' that officers at Los Padrinos in Downey allowed and encouraged. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/la-county-agrees-to-pay-2-7-million-to-victim-of-beating-at-juvenile-hall>
+
+---
+
+## City Invites Residents to Join Community Beautification Day!
+
+date: 2025-06-04, from: City of Santa Clarita
+
+<p>Roll up your sleeves and join us for Community Beautification Day, a one-day volunteer cleanup event on Saturday, June 28, from 9:00 a.m. to 12:00 p.m. This year’s event will focus on the Valencia community, following previous cleanups held in Newhall, Canyon Country and Saugus.&#160;&#160; This collaborative effort brings together volunteers, City staff and local [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/04/city-invites-residents-to-join-community-beautification-day/">City Invites Residents to Join Community Beautification Day!  </a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/04/city-invites-residents-to-join-community-beautification-day/>
+
+---
+
+## Washington man allegedly motivated by ‘anti-life’ ideology charged with helping Palm Springs bomber
+
+date: 2025-06-04, from: Longbeach Post
+
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>An affidavit unsealed today also describes the bomber using an AI chat application to research the process of making powerful explosives</p>
+<p>The post <a href="https://lbpost.com/news/crime/washington-man-allegedly-motivated-by-anti-life-ideology-charged-with-helping-palm-springs-bomber">Washington man allegedly motivated by ‘anti-life’ ideology charged with helping Palm Springs bomber</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/washington-man-allegedly-motivated-by-anti-life-ideology-charged-with-helping-palm-springs-bomber>
+
+---
+
+## TSA agents, not ICE, seen at Mariachi Plaza, but Boyle Heights’ rapid response shows its power
+
+date: 2025-06-04, updated: 2025-06-04, from: The LAist
+
+The false alarm sparked a wave of community action, underscoring fears and the strength of neighborhood networks. 
+
+<br> 
+
+<https://laist.com/news/politics/ice-is-not-welcome-here-reports-of-agents-at-mariachi-plaza-trigger-rapid-response-in-boyle-heights>
 
 ---
 
@@ -25,7 +189,7 @@ Gov. Gavin Newsom wants to block a state law that requires nursing homes to have
 
 date: 2025-06-04, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Speed was believed to be a factor in the crash, police said.</p>
 <p>The post <a href="https://lbpost.com/news/crime/motorcyclist-dies-after-crashing-into-parked-car-near-veterans-stadium-long-beach-police-say">Motorcyclist dies after crashing into parked car near Veterans Stadium, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -172,7 +336,7 @@ Tropical moisture rolls into the region, bringing thunder and rain. The muggines
 
 date: 2025-06-03, from: Longbeach Post
 
-<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Police said she is being held without bail, and they asked anyone who may have been victimized by her to contact officers.</p>
 <p>The post <a href="https://lbpost.com/news/crime/lbusd-aide-child-pornography-arrest-long-beach-disabled">LBUSD aide who worked with disabled children arrested on suspicion of distributing child pornography, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

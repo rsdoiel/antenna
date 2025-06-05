@@ -1,11 +1,152 @@
 ---
 title: snapshots
-updated: 2025-06-04 14:08:09
+updated: 2025-06-05 06:10:06
 ---
 
 # snapshots
 
-(date: 2025-06-04 14:08:09)
+(date: 2025-06-05 06:10:06)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-05, from: Dave Winer's linkblog)
+
+Jared Isaacman speaks out, and it’s clear that NASA lost a visionary leader. 
+
+<br> 
+
+<https://arstechnica.com/space/2025/06/jared-isaacman-speaks-out-and-its-clear-that-nasa-lost-a-visionary-leader/>
+
+---
+
+## The Last Stop Before the Ocean
+
+date: 2025-06-05, updated: 2025-06-05, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/06/05/the-last-stop-before-the-ocean/>
+
+---
+
+## Elon Musk is a Disgusting Abomination
+
+date: 2025-06-05, from: Paul Krugman
+
+So is the One Big Beautiful Bill Act. But still 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/elon-musk-is-a-disgusting-abomination>
+
+---
+
+## Cracking The Dave & Buster’s Anomaly
+
+date: 2025-06-05, updated: 2025-06-05, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://rambo.codes/posts/2025-05-12-cracking-the-dave-and-busters-anomaly">Cracking The Dave &amp; Buster’s Anomaly</a></strong></p>
+Guilherme Rambo reports on a weird iOS messages bug:</p>
+<blockquote>
+<p>The bug is that, if you try to send an audio message using the Messages app to someone who’s also using the Messages app, and that message happens to include the name “Dave and Buster’s”, the message will never be received.</p>
+</blockquote>
+<p>Guilherme captured the logs from an affected device and spotted an XHTMLParseFailure error.</p>
+<p>It turned out the iOS automatic transcription mechanism was recognizing the brand name and converting it to the official restaurant chain's preferred spelling "Dave &amp; Buster’s"... which was then incorrectly escaped and triggered a parse error!
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/xml">xml</a>, <a href="https://simonwillison.net/tags/ios">ios</a>, <a href="https://simonwillison.net/tags/xhtml">xhtml</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/5/cracking-the-dave-busters-anomaly/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-05, from: Dave Winer's linkblog)
+
+Has Harvard considered opening a satellite campus outside the United States? If the Trumps keep making demands.. 
+
+<br> 
+
+<http://scripting.com/2025/05/23.html#a125004>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-05, from: Feed for Alt USDS)
+
+What happens when the people who keep government running are pushed to the edge? Find out in the first installment of our new storytellers series from inside the system:
+
+⭐ Tired But Still Here: A Federal Worker's Story ⭐
+
+Check it out: bit.ly/4jBlnn5
+
+#WeTheBuilders #BuiltToServe #AltGov 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lqthskjbyk2g>
+
+---
+
+## 299: Green Islam
+
+date: 2025-06-05, from: Fix the News
+
+"Those who waste are kin of Satan." Plus, golden eagles, antimatter, good news on neglected tropical diseases, making poverty history, ratifying the High Seas Treaty, and pumped hydro FTW.  
+
+<br> 
+
+<https://fixthenews.com/299-green-islam/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-05, from: Dave Winer's linkblog)
+
+Harvard could open an overseas campus. 
+
+<br> 
+
+<https://www.cnbc.com/2025/06/04/trump-moves-to-block-us-entry-for-foreigners-planning-to-study-at-harvard-university-.html>
+
+---
+
+## 571. Hannibal: Roman Bloodbath at Cannae (Part 4)
+
+date: 2025-06-04, from: This is history podcast
+
+<p>How did the Battle of Cannae &#8211; one of the most important battles of all time for Ancient Rome, with a whole Empire at stake, and a reputation that had reverberated across the centuries &#8211; in 216 BC, unfold? What brilliant tactics did Hannibal adopt in order to overcome the Roman killing machine, with its [&#8230;]</p>
+<p>The post <a href="https://therestishistory.com/571-hannibal-roman-bloodbath-at-cannae-part-4/">571. Hannibal: Roman Bloodbath at Cannae (Part 4)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
+ 
+
+<br> 
+
+<https://therestishistory.com/571-hannibal-roman-bloodbath-at-cannae-part-4/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-04, from: Dave Winer's linkblog)
+
+Elon Musk discovers Trump doesn’t stay bought. 
+
+<br> 
+
+<https://www.theverge.com/elon-musk/679970/musk-trump-beautiful-bill-spat>
+
+---
+
+## Microsoft is setting minimum USB Type-C capabilities for Windows 11 PCs
+
+date: 2025-06-04, from: Liliputing
+
+<p>Some of the USB Type-C ports on modern computers will let you charge your PC with up to a 240W power supply, transfer data at speeds as high as 80 Gbps, or connect multiple 4K displays. Others&#8230; do not. That&#8217;s because some USB Type-C ports are USB 2.0 or USB 3.x ports, while others support [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/microsoft-is-setting-minimum-usb-type-c-capabilities-for-windows-11-pcs/">Microsoft is setting minimum USB Type-C capabilities for Windows 11 PCs</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/microsoft-is-setting-minimum-usb-type-c-capabilities-for-windows-11-pcs/>
 
 ---
 
@@ -817,7 +958,7 @@ https://www.npr.org/2025/05/05/nx-s1-5387514/palantir-workers-letter-trump
 
 date: 2025-06-03, from: Liliputing
 
-<p>Handheld game console maker Anbernic has revealed some of the features of the upcoming Anbernic RG Slide. We already knew that this was going to be the company&#8217;s first device with a PSP Go-like design featuring a screen that slides upward to reveal a game controller. Now we know more about that screen&#8230; and a bit [&#8230;]</p>
+<p>Handheld game console maker Anbernic has revealed some of the features of the upcoming Anbernic RG Slide. We already knew that this was going to be the company&#8217;s first device with a PSP Go-like design featuring a screen that slides upward to reveal a game controller. Now we know more about that screen&#8230; and a [&#8230;]</p>
 <p>The post <a href="https://liliputing.com/anbernic-rg-slide-handheld-game-console-has-a-4-7-inch-120-hz-display-and-slide-out-game-controller/">Anbernic RG Slide handheld game console has a 4.7 inch 120 Hz display and slide-out game controller</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 

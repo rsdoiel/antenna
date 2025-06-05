@@ -1,11 +1,286 @@
 ---
 title: pacific
-updated: 2025-06-04 14:08:00
+updated: 2025-06-05 06:09:59
 ---
 
 # pacific
 
-(date: 2025-06-04 14:08:00)
+(date: 2025-06-05 06:09:59)
+
+---
+
+## ‘We don’t want them’: Trump signs travel ban on citizens from 12 countries
+
+date: 2025-06-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump on Wednesday signed a travel ban on 12 countries, primarily in Africa and the Middle East, resurrecting an effort from his first term to prevent large numbers immigrants and visitors from entering the United States.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/05/nation-world-news/we-dont-want-them-trump-signs-travel-ban-on-citizens-from-12-countries/>
+
+---
+
+## Trump orders investigation of Biden and his aides
+
+date: 2025-06-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump ordered his White House counsel and the attorney general Wednesday to investigate former President Joe Biden and his staff in Trump&#8217;s latest attempt to stoke outlandish conspiracy theories about his predecessor.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/05/nation-world-news/trump-orders-investigation-of-biden-and-his-aides/>
+
+---
+
+## Musk, hardline US Republicans ramp up attacks on Trump tax and spending bill
+
+date: 2025-06-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Hardline conservative Republicans in the U.S. Senate and billionaire Elon Musk showed no sign of softening opposition to President Donald Trump&#8217;s tax-cut and spending bill on Wednesday, as they pushed for deeper reductions in government outlays.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/05/nation-world-news/musk-hardline-us-republicans-ramp-up-attacks-on-trump-tax-and-spending-bill/>
+
+---
+
+## Hawaiian Electric seeks approval for wildfire safety work
+
+date: 2025-06-05, from: Hawaii Tribune Harold
+
+
+				<p>Typical residential customers of the state&#8217;s largest utility could see their monthly bill rise between $1 and $5.50 to cover costs of an expanded three-year wildfire safety plan.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/05/hawaii-news/hawaiian-electric-seeks-approval-for-wildfire-safety-work/>
+
+---
+
+## Trump cannot proceed with gutting US Education Department, court rules
+
+date: 2025-06-05, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; A federal appeals court on Wednesday declined to lift a judge&#8217;s order blocking President Donald Trump&#8217;s administration from carrying out his executive order to dismantle the U.S. Department of Education and requiring it to reinstate employees who were terminated in a mass layoff.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/05/nation-world-news/trump-cannot-proceed-with-gutting-us-education-department-court-rules/>
+
+---
+
+## News in brief for June 5
+
+date: 2025-06-05, from: Hawaii Tribune Harold
+
+
+				<p>Man is accused &#0010;of aiding California clinic bomber</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/05/nation-world-news/news-in-brief-for-june-5/>
+
+---
+
+## US economic activity declines as tariffs pressure prices, Fed says
+
+date: 2025-06-05, from: Hawaii Tribune Harold
+
+
+				<p>U.S. economic activity has declined and higher tariff rates have put upward pressure on costs and prices in the weeks since Federal Reserve policymakers last met to set interest rates, the U.S. central bank said on Wednesday in its latest snapshot of the nation&#8217;s economy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/05/nation-world-news/us-economic-activity-declines-as-tariffs-pressure-prices-fed-says/>
+
+---
+
+## Canadian wildfire smoke spreads across a third of US
+
+date: 2025-06-05, from: Hawaii Tribune Harold
+
+
+				<p>DULUTH, Minnesota &#8212; Smoke from wildfires burning in three Canadian provinces is spreading into the U.S. Upper Midwest, stirring memories of the severe pollution that drifted south from Canada two years ago during that country&#8217;s worst fire season on record.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/05/nation-world-news/canadian-wildfire-smoke-spreads-across-a-third-of-us/>
+
+---
+
+## It’s not just poor rains causing drought. The atmosphere is ‘thirstier.’
+
+date: 2025-06-05, from: Hawaii Tribune Harold
+
+
+				<p>Look down from a plane at farms in the Great Plains and the West and you&#8217;ll see green circles dotting the countryside, a kind of agricultural pointillism.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/05/nation-world-news/its-not-just-poor-rains-causing-drought-the-atmosphere-is-thirstier/>
+
+---
+
+## Putin tells Trump Russia has to respond to Ukrainian attacks
+
+date: 2025-06-05, from: Hawaii Tribune Harold
+
+
+				<p>MOSCOW/WASHINGTON &#8212; Russian President Vladimir Putin told U.S. President Donald Trump on Wednesday that he would have to respond to Ukrainian drone attacks on Russia&#8217;s nuclear-capable bomber fleet, while also describing peace talks with Ukraine as &#8220;useful.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/05/nation-world-news/putin-tells-trump-russia-has-to-respond-to-ukrainian-attacks/>
+
+---
+
+## Report highlights lack of birth studies
+
+date: 2025-06-05, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON A new report on the US nuclear weapons testing legacy in the Marshall Islands highlights the lack of United States study into important health concerns voiced by Marshallese that make it impossible to have a clear understanding of the impacts of the 67 nuclear weapons tests. “The Legacy of US Nuclear Testing in [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/report-highlights-lack-of-birth-studies/">Report highlights lack of birth studies</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/report-highlights-lack-of-birth-studies/>
+
+---
+
+## Shaping Climate-Resilient Cities in the Pacific
+
+date: 2025-06-05, from: University of the South Pacific (Fiji)
+
+<p>The Sustainable Urban Solutions seminar hosted by The University of the South Pacific’s (USP), Centre...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/shaping-climate-resilient-cities-in-the-pacific/">Shaping Climate-Resilient Cities in the Pacific</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/shaping-climate-resilient-cities-in-the-pacific/>
+
+---
+
+## Influencer Andrew Tate got Vanuatu passport around time of arrest on rape charges
+
+date: 2025-06-05, from: Pacific Island Times
+
+
+
+Tate received his Vanuatu passport through the country’s controversial Development Support Program, which fast-tracks citizenship in exchange for a minimum investment of $130,000 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/influencer-andrew-tate-got-vanuatu-passport-around-time-of-arrest-on-rape-charges>
+
+---
+
+## Waiʻaleʻale Project lifts Kauaʻi CC sons, mom on path to college success
+
+date: 2025-06-05, from: University of Hawaiʻi News
+
+<p>Mom follows in sons’ footsteps at <span aria-label="Kauai">Kaua&#699;i</span> Community College.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/04/waialeale-project-kahokuloa-family/">Waiʻaleʻale Project lifts Kauaʻi <abbr>CC</abbr> sons, mom on path to college success</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/04/waialeale-project-kahokuloa-family/>
+
+---
+
+## Smallest grad class in years
+
+date: 2025-06-05, from: Marshal Islands Journal
+
+<p>Marshall Islands High School celebrated its 60th commencement ceremony on Tuesday, with 126 students receiving their diplomas. This was a much smaller graduating class than the 204 MIHS seniors who walked in 2024. The graduation took place in the school’s gymnasium. The ceremony featured speeches from Public School System Commissioner Dr. Natalie Nimmer, keynote speaker [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/smallest-grad-class-in-years/">Smallest grad class in years</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/smallest-grad-class-in-years/>
+
+---
+
+## UH professor among world’s top coral reef scientists
+
+date: 2025-06-05, from: University of Hawaiʻi News
+
+<p>Professor Mark Hixon is ranked among the world's top 20 coral reef scientists for his lifetime research contributions.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/04/hixon-top-coral-reef-scientists/"><abbr>UH</abbr> professor among world’s top coral reef scientists</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/04/hixon-top-coral-reef-scientists/>
+
+---
+
+## Panita Thanatharn named UH Mānoa softball head coach
+
+date: 2025-06-05, from: University of Hawaiʻi News
+
+<p>Thanatharn, a veteran coach, will take over the program in the upcoming season.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/04/thanatharn-named-uh-manoa-softball-head-coach/">Panita Thanatharn named <abbr>UH</abbr> Mānoa softball head coach</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/04/thanatharn-named-uh-manoa-softball-head-coach/>
+
+---
+
+## 'It was just how we used to live:' In the old days, Marshall Islands practiced sustainable living   
+
+date: 2025-06-04, from: Pacific Island Times
+
+ “When we lose our land, we risk losing our lineage, our history, and the social structures that hold our communities together,” she said. “It puts at risk both our tangible and intangible heritage: our sacred sites, our oral histories, and the traditional knowledge and materials that define who we are.” 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/it-was-just-how-we-used-to-live-in-the-old-days-marshall-islands-practiced-sustainable-living>
+
+---
+
+## DOH: Chemical detected in HVNP water system
+
+date: 2025-06-04, from: Hawaii Tribune Harold
+
+
+				<p>State health officials said low levels of a chemical used as an industrial solvent were detected in a water sample collected from the Hawaii Volcanoes National Park water system.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/04/hawaii-news/doh-chemical-detected-in-hvnp-water-system/>
+
+---
+
+## Brain drain is RMI’s big challenge
+
+date: 2025-06-04, from: Marshal Islands Journal
+
+<p>WILMER JOEL* One of the issues I would like to address — which I have deep concern over — alongside Her Excellency President Hilda Heine is the growing challenge of outmigration. But the outmigration I speak of today is not just about people leaving our islands — it&#8217;s about our best minds, our brightest talents, [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/brain-drain-is-rmis-big-challenge/">Brain drain is RMI’s big challenge</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/brain-drain-is-rmis-big-challenge/>
 
 ---
 
@@ -300,6 +575,20 @@ date: 2025-06-04, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/06/04/nation-world-news/ukraine-says-it-struck-crimea-bridge/>
+
+---
+
+## Big Island attorneys, businessman found guilty in housing credits scam
+
+date: 2025-06-04, from: Hawaii Tribune Harold
+
+
+				<p>Two Hilo lawyers and a Big Island businessman were convicted today by a federal jury in Honolulu in connection with a scam in which the trio received Hawaii County affordable housing credits and land conveyances worth at least $10.98 million, with no intention of developing affordable housing.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/04/hawaii-news/big-island-attorneys-businessman-found-guilty-in-housing-credits-scam/>
 
 ---
 

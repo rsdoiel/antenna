@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-06-04 14:08:04
+updated: 2025-06-05 06:10:01
 ---
 
 # games
 
-(date: 2025-06-04 14:08:04)
+(date: 2025-06-05 06:10:01)
+
+---
+
+## Gigantamax Cinderace counters, weakness, and battle tips in Pokémon Go
+
+date: 2025-06-05, updated: 2025-06-02, from: Polygon Website
+
+Gigantamax Cinderace is making its Gigantamax debut in Pokémon Go, and as usual with these types of Pokémon, it’ll be tough to take down. Cinderace will specifically be around during the weekend portion of the “Instrumental Wonders” event, from June 7 at 6 a.m. until June 8 at 9 p.m. in your local time. Below [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/602940/gigantamax-cinderace-counters-weakness-tips>
+
+---
+
+## Silent Hill f gets fall 2025 release date
+
+date: 2025-06-04, updated: 2025-06-04, from: Polygon Website
+
+Silent Hill f will launch on Sept. 25, Konami revealed during Wednesday’s PlayStation State of Play. It’ll be the first new mainline Silent Hill game in over a decade and the first game in the series overall since last year’s Silent Hill 2 Remake. It follows a student, Hinako, in 1960s Japan — a first [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/603941/silent-hill-f-gets-fall-2025-release-date>
+
+---
+
+## Marvel Games and Arc System Works team up for new 4v4 fighting game
+
+date: 2025-06-04, updated: 2025-06-04, from: Polygon Website
+
+Marvel Games and Arc System Works are creating an original new fighting game with Marvel Tōkon: Fighting Souls, a 4v4 tag-fighter. Arc showed off the new game during Sony’s State of Play event on Wednesday, with a hype teaser trailer showing off the gorgeous game. Anime interpretations of characters such as Iron Man, Captain America, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/603972/marvel-fighting-game-tokon-fighting-souls-arc-system-works-ps5-pc>
+
+---
+
+## IO Interactive’s debut 007 First Light trailer casts Bond as a dangerous loose cannon
+
+date: 2025-06-04, updated: 2025-06-05, from: Polygon Website
+
+IO Interactive showed off the debut trailer for its James Bond game, 007 First Light, during Sony’s State of Play on Wednesday, with a brief outline of the Bond prequel’s story and IOI’s take on the series’ action. The 007 First Light trailer reveal follows IO’s announcement of the James Bond game’s name a few [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/604001/io-interactives-debut-007-first-light-trailer-casts-bond-as-a-dangerous-loose-cannon>
+
+---
+
+## Every big announcement from PlayStation’s new State of Play
+
+date: 2025-06-04, updated: 2025-06-04, from: Polygon Website
+
+Sony kicked off the annual summer game fest (ahead of actual, Geoff Keighley-approved Summer Game Fest) on Wednesday with a new State of Play showcase. The 50-minute presentation was full of updates on PlayStation 5 games like Pragmata and Silent Hill f, as well as surprise game announcements, including a new Marvel fighting game from [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/603446/playstation-state-of-play-news-trailers-june-2025>
+
+---
+
+## The John Wick spin-off Ballerina adds some fresh moves to the series’ formula
+
+date: 2025-06-04, updated: 2025-06-04, from: Polygon Website
+
+Deep into the action of Len Wiseman’s action-thriller Ballerina, there’s a moment that clearly places the action within the continuity of the John Wick movies, starring Keanu Reeves as a former assassin who tries and fails to get out of the killer game. Ballerina protagonist Eve (Ana de Armas) eavesdrops as her patron (Anjelica Huston, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/603959/ballerina-review-john-wick-formula-ana-de-armas-keanu-reeves>
+
+---
+
+## Executor Remembrance quest walkthrough in Elden Ring Nightreign
+
+date: 2025-06-04, updated: 2025-06-04, from: Polygon Website
+
+Executor’s Remembrance quests in Elden Ring Nightreign shine a light on one of the game’s more mysterious characters. On top of providing you with great relics, these quests offer more context to Executor, the other Nightfarers, and Limveld as a whole. Completing the Executor Remembrance quest consists of gardening and self-reflection (only partly joking), but [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/603710/executor-remembrance-walkthrough-steps-rewards>
+
+---
+
+## Final Fantasy Tactics is finally getting an enhanced edition
+
+date: 2025-06-04, updated: 2025-06-04, from: Polygon Website
+
+Square Enix announced that the beloved strategy game Final Fantasy Tactics is getting a lavish enhanced version called Final Fantasy Tactics: The Ivalice Chronicles. Square Enix revealed a breathtaking teaser trailer at Sony’s State of Play showcase on Wednesday. The game’s visuals offered a look into a polished and refined version of Ivalice, an updated [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/603099/final-fantasy-tactics-remaster-announcement-trailer>
 
 ---
 

@@ -1,11 +1,26 @@
 ---
 title: writing
-updated: 2025-06-04 14:08:03
+updated: 2025-06-05 06:10:01
 ---
 
 # writing
 
-(date: 2025-06-04 14:08:03)
+(date: 2025-06-05 06:10:01)
+
+---
+
+## ‘Karate Kid: Legends’ and the ‘Overcoming the Monster’ Archetype in Screenwriting
+
+date: 2025-06-04, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/karate-kid-legends-and-the-overcoming-the-monster-archetype-in-screenwriting" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Jackie%20Chan%2c%20Ralph%20Macchio%2c%20and%20Ben%20Wang%20in%20Karate%20Kid%20Legends.png" alt="Ralph Macchio and Ben Wang spar on a rooftop while Jackie Chan looks on in Karate Kid: Legends" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>According to Christopher Booker’s <em>The Seven Basic Plots</em>, there are really only seven types of stories that one can tell. While the <em>Karate Kid</em> story may seem deceptively simple, it has a strong concept behind it; in this case, the basic plot of Overcoming the Monster, which places the protagonist into a situation where they must defeat a threatening antagonist.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/karate-kid-legends-and-the-overcoming-the-monster-archetype-in-screenwriting>
 
 ---
 

@@ -1,11 +1,455 @@
 ---
 title: planet
-updated: 2025-06-04 14:07:58
+updated: 2025-06-05 06:09:57
 ---
 
 # planet
 
-(date: 2025-06-04 14:07:58)
+(date: 2025-06-05 06:09:57)
+
+---
+
+## Man, 31, charged in connection with woman's death in NI
+
+date: 2025-06-05, from: RTÉ News
+
+A 31-year-old man has been charged in connection with the death of a 71-year-old woman in Belfast on Tuesday. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0605/1516901-mary-green-investigation/>
+
+---
+
+## Ireland had warmest spring in 126 years - Met Éireann
+
+date: 2025-06-05, from: RTÉ News
+
+Spring this year was the warmest Ireland has ever experienced in 126 years of records held by Met Éireann. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0605/1516891-climate-spring/>
+
+---
+
+## Bord na Móna Recycling workers to take strike action
+
+date: 2025-06-05, from: RTÉ News
+
+Waste collection services by Bord na Móna Recycling could be disrupted later this month after SIPTU members at the company served notice of strike action in a dispute over the planned sale of the business 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0605/1516898-bord-na-mona-strike-action/>
+
+---
+
+## McGovern's lawyers question legality of his extradition
+
+date: 2025-06-05, from: RTÉ News
+
+Lawyers for Sean McGovern (39), who is charged with murder and directing a criminal organisation, have raised a concern about the legality of his extradition to Ireland from the United Arab Emirates last week. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0605/1516889-mcgoverns-lawyers-question-legality-of-his-extradition/>
+
+---
+
+## Defence to access crash data in M6 dangerous driving case
+
+date: 2025-06-05, from: RTÉ News
+
+A doctor accused of dangerous driving causing the death of his daughter on the M6 in Co Westmeath has had his case adjourned to allow his defence access to data from the vehicle at the time of the crash. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0605/1516887-babak-meshkat-court/>
+
+---
+
+## Donohoe awarded Chevalier rank in French Legion of Honour
+
+date: 2025-06-05, from: RTÉ News
+
+Minister for Finance Paschal Donohoe has been awarded the rank of "Chevalier" in the French National Legion of Honour this afternoon. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0605/1516885-donohoe-chevalier-france/>
+
+---
+
+## Anglers urged to report sightings of Pacific pink salmon
+
+date: 2025-06-05, from: RTÉ News
+
+Anglers have been urged to report any sightings of Pacific pink salmon in Irish rivers this summer, with experts saying they pose a threat to the survival of the native Atlantic salmon and sea trout. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0605/1516882-fish-sightings/>
+
+---
+
+## Donaldson case to be reviewed following medical reports
+
+date: 2025-06-05, from: RTÉ News
+
+A judge in the case of former DUP leader Jeffrey Donaldson and his wife Eleanor on historical sexual offences will review it later this month after receiving medical reports. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0605/1516879-jeffrey-eleanor-donaldson-court/>
+
+---
+
+## Portugal searches in Madeleine McCann case to end
+
+date: 2025-06-05, from: RTÉ News
+
+Investigators probing the disappearance of Madeleine McCann are to conclude their latest searches after three days scouring scrubland and abandoned structures. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0605/1516874-madeleine-mccann/>
+
+---
+
+## Hegseth says NATO close to agreeing 5% spending target
+
+date: 2025-06-05, from: RTÉ News
+
+US Defense Secretary Pete Hegseth has said he was confident that members of the NATO alliance would sign up to President Donald Trump's demand for a major boost in defence spending, adding that it had to happen by a summit later in June. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0605/1516868-nato/>
+
+---
+
+## Dublin Airport expects 120k passengers a day this summer
+
+date: 2025-06-05, from: RTÉ News
+
+Operator daa has said that it predicts it will be a record breaking summer for Dublin Airport with 10 million people set to pass through the airport from June to August. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0605/1516862-dublin-airport-passengers/>
+
+---
+
+## Over 70,000 pilgrims expected to take part in Jubilee for Movements
+
+date: 2025-06-05, from: Vatican News
+
+
+                    <p>The Jubilee of Movements, Associations, and New Communities is set to take place in Rome on June 7-8, with over 70,000 pilgrims expected to participate in the events that will culminate in the Mass of Pentecost Sunday with Pope Leo XIV.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/ove-70000-expected-to-participate-in-jubilee-for-movements-june.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/ove-70000-expected-to-participate-in-jubilee-for-movements-june.html>
+
+---
+
+## Economic growth rises by 9.7% in first quarter of 2025
+
+date: 2025-06-05, from: RTÉ News
+
+Economic growth including the contribution from multinationals or Gross Domestic Product soared by 9.7% in the first three months of this year as exports to the US ramped up ahead of tariffs being imposed by the Trump administration. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0605/1516859-economic-growth/>
+
+---
+
+## NZ parliament gives record bans to Maori MPs over haka
+
+date: 2025-06-05, from: RTÉ News
+
+New Zealand's parliament has handed record-long suspensions to three Indigenous Maori lawmakers who last year staged a protest haka on the debating floor. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0605/1516843-new-zealand-ban/>
+
+---
+
+## Cardinal O’Malley on abuse: Church puts victims and their families first
+
+date: 2025-06-05, from: Vatican News
+
+
+                    <p>In this interview with Vatican News, Cardinal Seán O’Malley talks about the work of the Pontifical Commission for the Protection of Minors; raising awareness in the Church about clerical abuse; and the Church’s priorities, especially the need to put victims and their families first.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/cardinal-o-malley-interview-commission-protection-minors.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/cardinal-o-malley-interview-commission-protection-minors.html>
+
+---
+
+## RTÉ staff offered 6% pay increase over 2.8 years
+
+date: 2025-06-05, from: RTÉ News
+
+RTÉ staff are to be offered a 6% pay increase between May this year and December 2027 after agreement on a pay deal was reached between management and the RTÉ Trade Union Group. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0605/1516836-rte-pay/>
+
+---
+
+## Pope: Secretariat of State a ‘hub of coordination’ with Church worldwide
+
+date: 2025-06-05, from: Vatican News
+
+
+                    <p>Pope Leo XIV meets with officials of the Vatican Secretariat of State, and invites them to never let ambition or rivalry stand in the way of serving as a community that acts as a hub between the Holy See and the Church around the world.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-secretariat-state-audience-exhortation.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-secretariat-state-audience-exhortation.html>
+
+---
+
+## HSE intends to meet gardaí to discuss internal CHI report
+
+date: 2025-06-05, from: RTÉ News
+
+The Health Service Executive has said it has decided to refer matters raised in the internal Children's Health Ireland report to An Garda Síochána and intends to meet gardaí very shortly to discuss it. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0605/1516821-chi-report/>
+
+---
+
+## Trump orders a review of Biden White House, citing political rival's 'cognitive decline'
+
+date: 2025-06-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7552874.1749118819!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2194358329.jpg' alt='Two older, cleanshaven man wearing coats and ties appear to be in conversation. ' width='620' height='349' title='US President Joe Biden (L) and President-elect Donald Trump arrive for the inauguration ceremony where Donald Trump will sworn in as the 47th US President in the US Capitol Rotunda in Washington, DC, on January 20, 2025.  '/><p>U.S. President Donald Trump has directed his administration to investigate Joe Biden's actions as president, alleging aides masked his predecessor's "cognitive decline" and casting doubts on the legitimacy of his use of the autopen to sign pardons and other documents.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-biden-investigation-1.7552872?cmp=rss>
+
+---
+
+## Cost of deporting 35 people to Nigeria was €325k
+
+date: 2025-06-05, from: RTÉ News
+
+Thirty-five people, including five children, have been deported from Ireland to Nigeria at a cost of €325,000. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0605/1516803-immigration-removal/>
+
+---
+
+## Israeli army recovers bodies of two hostages from Gaza
+
+date: 2025-06-05, from: RTÉ News
+
+Israel's military has recovered the bodies of two hostages, Prime Minister Benjamin Netanyahu has said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0605/1516802-israel-hostages/>
+
+---
+
+## Russia buying time 'to continue killing' - Zelensky
+
+date: 2025-06-05, from: RTÉ News
+
+A Russian drone hit into a residential house in central Ukraine, killing three members of one family, including a one-year-old baby, Ukrainian President Volodymyr Zelensky has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0605/1516794-ukraine-russia-latest/>
+
+---
+
+## Nine injured in Ryanair emergency landing in Germany
+
+date: 2025-06-05, from: RTÉ News
+
+Nine people were injured after a Milan-bound Ryanair flight was forced to make an emergency landing in southern Germany because of heavy turbulence from a thunderstorm last night. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0605/1516791-ryanair-germany/>
+
+---
+
+## Accused mushroom killer says she lied to police
+
+date: 2025-06-05, from: RTÉ News
+
+An Australian woman accused of murdering three people with poisonous mushrooms has told a court that she lied to police because she feared being held "responsible". 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0605/1516785-mushroom-murders/>
+
+---
+
+## Israel recovers bodies of Canadian Israeli Judih Weinstein Haggai and husband held by Hamas
+
+date: 2025-06-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7070433.1703788667!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/judih-weinstein.jpg' alt='A woman with long hair and glasses smiles at the camera.' width='620' height='349' title='Judih Weinstein, a Canadian Israeli woman whose fate had been unknown since the Oct. 7 attacks on Israel by Hamas, died during the initial attack, her kibbutz said in a statement on Dec. 28, 2023.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/israeli-military-hostage-bodies-recovered-1.7552866?cmp=rss>
+
+---
+
+## Management body criticises primary school ICT grants
+
+date: 2025-06-05, from: RTÉ News
+
+The largest school management body in the country has criticised what it says is a reduction of more than one third in the State grant given to primary schools this year for ICT. 
+
+<br> 
+
+<https://www.rte.ie/news/education/2025/0605/1516766-primary-school-grants/>
+
+---
+
+## Safety cameras to be placed at railway level crossings
+
+date: 2025-06-05, from: RTÉ News
+
+Up to six mobile safety cameras are to be introduced at level crossings on Ireland's rail network as part of efforts to deter risky behaviour by road users. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0605/1516765-level-crossings/>
+
+---
+
+## EU exploits Trump anti-science climate for medicines deal
+
+date: 2025-06-05, from: RTÉ News
+
+The EU's sweeping new rules on the regulation of medicines has been one of the most bitterly contested pieces of legislation in recent times, with fierce lobbying by the pharma sector, writes Europe Editor Tony Connelly. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0605/1516770-eu-regulation-medicines/>
+
+---
+
+## Australian woman denies weighing 'fatal dose' of toxic mushrooms in murder trial
+
+date: 2025-06-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7550674.1749035475!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/australia-mushroom-murder-trial.jpg' alt='A woman with long hair wearing glasses peers around a concrete column.' width='620' height='349' title='Erin Patterson, the woman accused of serving her ex-husband&apos;s family poisonous mushrooms, is photographed in Melbourne, Australia, on April 15, 2025. (James Ross/AAP Image via AP)'/><p>An Australian woman accused of murder denied measuring out a "fatal dose" of poisonous mushrooms on her kitchen scales to kill three elderly relatives of her estranged husband, as she was cross-examined by the prosecution on Thursday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/australia-toxic-mushroom-murder-trial-1.7552863?cmp=rss>
+
+---
+
+## Trump imposes US travel ban on 12 countries
+
+date: 2025-06-05, from: RTÉ News
+
+US President Donald Trump signed a new travel ban targeting 12 countries including Afghanistan, Iran and Yemen, reviving one of the most controversial measures from his first term. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0605/1516783-us-travel-ban/>
+
+---
+
+## Monaghan school raises awareness of farm safety
+
+date: 2025-06-05, from: RTÉ News
+
+A primary school in Co Monaghan is holding a multi-agency initiative aimed at improving its pupils' awareness of farm safety. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0605/1516780-monaghan-farm-safety/>
+
+---
+
+## Gaza say 10 killed by strikes; US veto ceasefire demands
+
+date: 2025-06-04, from: RTÉ News
+
+Gaza's civil defence agency said Israeli strikes killed at least 10 people in the battered Palestinian territory today, as the military keeps up an intensified offensive, as the UN Security Council have criticised the US for vetoeing a ceasefire resolution. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0605/1516777-gaza-israel/>
+
+---
+
+## HIQA carrying out review into Emeis Ireland nursing homes
+
+date: 2025-06-04, from: RTÉ News
+
+HIQA has confirmed it is carrying out a review of all nursing homes operated by the Emeis Ireland group, after multiple care failings and neglect of vulnerable older residents at two of its nursing homes were documented by RTÉ Investigates. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0605/1516773-hiqa-nursing-home/>
+
+---
+
+## ECB cuts interest rates for eighth time in a year
+
+date: 2025-06-04, from: RTÉ News
+
+The ECB has cut interest rates for the eighth time in a year by one-quarter of a percentage point, which brings its rate down from 2.25% to 2% 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0605/1516737-ecb-rates-cut/>
+
+---
+
+## Deliveroo to launch drone deliveries in Dublin
+
+date: 2025-06-04, from: RTÉ News
+
+Deliveroo is teaming up with drone delivery company Manna to launch drone deliveries in Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0605/1516733-deliveroo-drones/>
+
+---
+
+## TikTok blocks #SkinnyTok due to extreme weight loss, disordered eating content
+
+date: 2025-06-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7552788.1749083156!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/eu-tiktok-tech.JPG' alt='The TikTok logo can be seen on a phone screen that&apos;s laid atop a lit up keyboard.' width='620' height='349' title='FILE PHOTO: TikTok app logo is seen in this illustration taken, August 22, 2022. REUTERS/Dado Ruvic/Illustration/File Photo'/><p>TikTok has banned the hashtag SkinnyTok from its platform after noting an increase in extreme weight loss and disordered eating content being posted under the hashtag. Search results for the term now direct users to expert resources.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/tiktok-skinnytok-ban-1.7552776?cmp=rss>
 
 ---
 
@@ -30,6 +474,19 @@ Croke Park has recently launched two new accessibility services aimed at making 
 <br> 
 
 <https://www.rte.ie/news/2025/0604/1516756-croke-park-launches-new-accessibilty-services/>
+
+---
+
+## Elephant barges into convenience store, grabs a trunkful of snacks
+
+date: 2025-06-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/d28d8549-5217-45c0-98e5-246a7b3111f3,1749079318851/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Security camera footage shows an elephant standing inside a convenience store, grabbing food with its trunk.' width='620' height='349' title=''/><p>An elephant in Khao Yai, Thailand, was in the mood for a bite to eat and decided to make a pit stop at local convenience store. The elephant was seen on security cameras entering the store and helping itself to a variety of snacks before animal control officers peacefully shooed it away.
+</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6785800?cmp=rss>
 
 ---
 
@@ -58,6 +515,18 @@ Over 20,000 people were evacuated from central Cologne after three unexploded Wo
 <br> 
 
 <https://www.rte.ie/news/world/2025/0604/1516751-thousands-evacuated-from-cologne-after-wwii-bombs-found/>
+
+---
+
+## WWII bombs defused in Cologne after thousands evacuated
+
+date: 2025-06-04, from: RTÉ News
+
+Over 20,000 people were evacuated from central Cologne after three unexploded World War II bombs were found, the biggest such operation in the German city since the end of the war. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0604/1516751-thousands-evacuated-from-cologne-after-wwii-bombs-found/>
 
 ---
 
@@ -351,7 +820,7 @@ The United States has vetoed a new draft resolution on Gaza, standing as the lon
 
 ## World Environment Day: UN sounds alarm on plastic pollution crisis
 
-date: 2025-06-04, from: United Nations, Climate Change
+date: 2025-06-04, from: United Nations, Top Stories
 
 Every year, 400 million tonnes of plastic are produced worldwide, according to the UN. Half of this plastic is designed to be used only once, and only 10 per cent is recycled.&nbsp;&nbsp; 
 
@@ -361,7 +830,7 @@ Every year, 400 million tonnes of plastic are produced worldwide, according to t
 
 ---
 
-## Ukraine among new members elected to UN Economic and Social Council
+## United States, Ukraine among new members elected to UN Economic and Social Council
 
 date: 2025-06-04, from: United Nations, UN Affairs
 
@@ -387,13 +856,37 @@ Dozens of bodies have been discovered at official and unofficial detention sites
 
 ## Gaza: UN relief chief welcomes growing support for aid teams to resume vital work
 
-date: 2025-06-04, from: United Nations, Climate Change
+date: 2025-06-04, from: United Nations, Top Stories
 
 Amid reports of yet another deadly attack on a school in Gaza on Wednesday, the UN’s top aid official Tom Fletcher welcomed growing international calls for lifesaving aid work by established agencies to resume in the war-torn enclave. 
 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/06/1164011>
+
+---
+
+## The world’s oceans are dying. Can a UN summit in Nice turn the tide?
+
+date: 2025-06-04, from: United Nations, Top Stories
+
+As coral reefs bleach, fish stocks collapse, and sea temperatures break records, world leaders are heading to the French Riviera — not for leisure, but for one of the most urgent diplomatic gatherings of the year. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164026>
+
+---
+
+## Top UN advocate sounds alarm over sexual violence crisis in gang-ravaged Haiti
+
+date: 2025-06-04, from: United Nations, Top Stories
+
+Haiti has been gripped by spiralling gang violence ever since the 2021 assassination of President Jovenel Moïse. The subsequent unrest has displaced one million people, more than half of them children,&nbsp;according to the International Organization for Migration (IOM). 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164061>
 
 ---
 
@@ -437,7 +930,7 @@ date: 2025-06-04, from: CBC, Indigenious News
 
 date: 2025-06-04, from: CBC, Indigenious News
 
-<img src='https://i.cbc.ca/ais/20d75d9d-0300-4307-8298-64125ef2c8be,1749048434329/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Justice Minister Sean Fraser apologized after AFN National Chief Cindy Woodhouse expressed issue with comments he made about Indigenous consultation.' width='620' height='349' title=''/><p>Justice Minister Sean Fraser, stopping to speak with reporters Wednesday morning, said he felt compelled to apologize publicly after AFN National Chief Cindy Woodhouse contacted him expressing issues with comments he made the day before about consultation with Indigenous groups over resource projects. Fraser said he understands it is essential work is done in partnership with Indigenous groups when it comes to resource project selection and any conditions or concerns that may arise.</p> 
+<img src='https://i.cbc.ca/ais/20d75d9d-0300-4307-8298-64125ef2c8be,1749048434329/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Justice Minister Sean Fraser apologized after AFN National Chief Cindy Woodhouse expressed issue with comments he made about Indigenous consultation.' width='620' height='349' title=''/><p>Justice Minister Sean Fraser, stopping to speak with reporters Wednesday morning, said he felt compelled to apologize publicly after AFN National Chief Cindy Woodhouse contacted him expressing issues with comments he made the day before about consultation with Indigenous groups over resource projects. Fraser said he understands it is essential work done in partnership with Indigenous groups when it comes to resource project selection and any conditions or concerns that may arise.</p> 
 
 <br> 
 
@@ -490,6 +983,18 @@ A judge in Co Kildare has said he wants to set the record straight in relation t
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0604/1516630-carlow-disinformation/>
+
+---
+
+## 'Report sensibly,' judge urges after Carlow shooting
+
+date: 2025-06-04, from: RTÉ News
+
+A judge in Co Kildare has said he wants to set the record straight in relation to the case of Evan Fitzgerald, who died during a shooting incident at a shopping centre in Carlow town on Sunday evening. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0604/1516630-carlow-incident/>
 
 ---
 
@@ -549,7 +1054,7 @@ More than a million pilgrims have joined Islam's most important rite under a bea
 
 date: 2025-06-04, from: RTÉ News
 
-An unpublished Children's Health Ireland report into concerns at one of its hospitals is to be referred to An Garda Síochána. 
+An unpublished Children's Health Ireland report, into concerns at one of its hospitals, is to be referred to An Garda Síochána by the Health Service Executive. 
 
 <br> 
 
@@ -713,7 +1218,7 @@ Child and adult survivors of domestic abuse say that going through the Irish fam
 
 ---
 
-## Australian woman accused of murders with toxic mushrooms gives her account of fatal lunch
+## Australian woman says 'possibility' foraged mushrooms were in fatal lunch served to in-laws
 
 date: 2025-06-04, from: CBC, World News
 
@@ -893,11 +1398,11 @@ date: 2025-06-04, from: CBC, World News
 
 ---
 
-## La Ronge mourns loss of beloved Robertson Trading after building, artifacts destroyed by fire
+## Lightning strikes spark new fires in northern Sask., stretching resources thin
 
 date: 2025-06-04, from: CBC, Indigenious News
 
-<img src='https://i.cbc.ca/1.7551798.1749041506!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/north-battleford-fire-dept-in-la-ronge.jpg' alt='A building burns while water is sprayed on it.' width='620' height='349' title='Structures have burned in La Ronge, as shown in this June 3, 2025, photo from the City of North Battleford&apos;s fire department, which sent a crew to the community.'/><p>Beaded moosehide jackets, birchbark baskets and original art were among hundreds of items destroyed at Robertson Trading in La Ronge.</p> 
+<img src='https://i.cbc.ca/1.7552662.1749076489!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/sucker-river-fire.jpeg' alt='A burnt-out pickup truck sits in from of a ravished landscape.' width='620' height='349' title='A destroyed vehicle in the aftermath of a wildfire at Sucker River, Sask.'/><p>“We need rain. And we need a lot of it," said Steve Roberts, vice-president of operations with the Saskatchewan Public Safety Agency.</p> 
 
 <br> 
 
@@ -1541,7 +2046,7 @@ The number of Sudanese refugees in Chad has more than tripled in just over two y
 
 ## World News in Brief: Aid for Syria, children under attack in Mozambique, rights-based climate action
 
-date: 2025-06-03, from: United Nations, Climate Change
+date: 2025-06-03, from: United Nations, Top Stories
 
 Nearly 16 million people in Syria need urgent humanitarian health support, the UN warned on Tuesday, as aid deliveries continue amid escalating needs, deadly explosive hazards and a severe funding shortfall. 
 
@@ -2273,7 +2778,7 @@ As June marks one year since the arbitrary detention of dozens of personnel from
 
 ## Deadly flooding in Nigeria displaces thousands
 
-date: 2025-06-02, from: United Nations, Climate Change
+date: 2025-06-02, from: United Nations, Top Stories
 
 Flash flooding in western Nigeria at the weekend has caused devastation around the town of Mokwa in Niger state, leaving more than 150 dead and 3,000 people displaced – more than half of whom are children aged 12 and under – the UN said on Monday. 
 

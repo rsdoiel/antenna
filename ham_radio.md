@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-06-04 14:08:01
+updated: 2025-06-05 06:09:59
 ---
 
 # ham radio
 
-(date: 2025-06-04 14:08:01)
+(date: 2025-06-05 06:09:59)
+
+---
+
+## A quick and practical view of USB Power Delivery (USB-PD) design
+
+date: 2025-06-05, from: EDN Blog
+
+<img width="1000" height="885" src="https://www.edn.com/wp-content/uploads/Hero-image-USB-PDT-Module.jpg?fit=1000%2C885" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-USB-PDT-Module.jpg?w=1000 1000w, https://www.edn.com/wp-content/uploads/Hero-image-USB-PDT-Module.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-USB-PDT-Module.jpg?w=768 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><p>Here are some simple pointers for imparting USB-PD design to everyday hobby electronics projects and devices.</p>
+<p>The post <a href="https://www.edn.com/a-quick-and-practical-view-of-usb-power-delivery-usb-pd-design/">A quick and practical view of USB Power Delivery (USB-PD) design</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/a-quick-and-practical-view-of-usb-power-delivery-usb-pd-design/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-06-04 14:08:01
 
 date: 2025-06-04, from: EDN Blog
 
-<img width="1077" height="677" src="https://www.edn.com/wp-content/uploads/10octaves_Figure1.png?fit=1077%2C677" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/10octaves_Figure1.png?w=1077 1077w, https://www.edn.com/wp-content/uploads/10octaves_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/10octaves_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/10octaves_Figure1.png?w=1024 1024w" sizes="(max-width: 1077px) 100vw, 1077px" /><p>An antilog, or linear-in-pitch, VCO with a buffered tri-wave output spans ten octaves from 20 Hz to 20 kHz.</p>
+<img width="1077" height="677" src="https://www.edn.com/wp-content/uploads/10octaves_Figure1.png?fit=1077%2C677" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/10octaves_Figure1.png?w=1077 1077w, https://www.edn.com/wp-content/uploads/10octaves_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/10octaves_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/10octaves_Figure1.png?w=1024 1024w" sizes="auto, (max-width: 1077px) 100vw, 1077px" /><p>An antilog, or linear-in-pitch, VCO with a buffered tri-wave output spans ten octaves from 20 Hz to 20 kHz.</p>
 <p>The post <a href="https://www.edn.com/10-octave-linear-in-pitch-vco-with-buffered-tri-wave-output/">10-octave linear-in-pitch VCO with buffered tri-wave output</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 
