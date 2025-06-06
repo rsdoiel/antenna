@@ -1,11 +1,191 @@
 ---
 title: going electric
-updated: 2025-06-06 06:09:07
+updated: 2025-06-06 14:08:00
 ---
 
 # going electric
 
-(date: 2025-06-06 06:09:07)
+(date: 2025-06-06 14:08:00)
+
+---
+
+## Podcast: Tesla in Musk/Trump divorce, EV sales in EU, Hyundai’s new electric minivan, and more
+
+date: 2025-06-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla being in the crosshairs of the Musk/Trump divorce, EV sales in Europe, a new Hyundai electric minivan, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="419277" href="https://electrek.co/2025/06/06/podcast-tesla-musk-trump-divorce-ev-sales-in-eu-hyundais-new-electric-minivan/#more-419277" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/06/podcast-tesla-musk-trump-divorce-ev-sales-in-eu-hyundais-new-electric-minivan/>
+
+---
+
+## Fixing The Old Tesla Model 3’s Biggest Flaw: ‘It Feels Amazing’
+
+date: 2025-06-06, from: Inside EVs News
+
+Retrofitting parts from the updated Model 3 makes a world of difference. 
+
+<br> 
+
+<https://insideevs.com/news/761783/tesla-model-3-suspension-retrofit-highland/>
+
+---
+
+## The reality TV contestant running the DOT just raised your fuel costs by $23B
+
+date: 2025-06-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Sean_Duffy_5449121667-e1738181227601.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>America voted for inflation, and it got it today, as republicans running the Department of Transportation bowed to their oil donors and finalized a rule to make your cars less efficient, thus costing America an extra $23 billion in fuel costs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="department-of-transportation,fuel-economy,reality-tv" data-layer-viewtype="unknown" data-post-id="419392" href="https://electrek.co/2025/06/06/the-reality-tv-contestant-running-the-dot-just-raised-your-fuel-costs-by-23b/#more-419392" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/06/the-reality-tv-contestant-running-the-dot-just-raised-your-fuel-costs-by-23b/>
+
+---
+
+## Kia wants you to love hatchbacks again with the stylish new EV4
+
+date: 2025-06-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Kia-EV4-first-electric-hatch.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia believes hatchbacks will make a comeback, starting with the EV4 later this year. The EV4 is <a href="https://electrek.co/guides/kia/">Kia’s</a> first electric hatch, and it’s expected to see big demand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" data-post-id="419366" href="https://electrek.co/2025/06/06/kia-wants-you-to-love-hatchbacks-again-with-stylish-new-ev4/#more-419366" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/06/kia-wants-you-to-love-hatchbacks-again-with-stylish-new-ev4/>
+
+---
+
+## ‘Everything’s computer’ no more: Trump wants to sell his Tesla from that dumb ad
+
+date: 2025-06-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Screenshot-2025-03-14-at-2.19.11PM.jpg.webp?w=1500" /></div><p>Not even three months ago, convicted felon Donald Trump and his largest funder, <a href="https://www.nytimes.com/2025/05/30/us/elon-musk-drugs-children-trump.html">ketamine-fueled</a> Tesla CEO Elon Musk, appeared together on the White House lawn, <a href="https://www.warren.senate.gov/imo/media/doc/130_days_of_elon_musk_report.pdf">improperly using government resources</a> to do a low-budget ad to help Tesla get out of the sales ditch that <a href="https://electrek.co/2025/03/10/the-legend-of-the-tesla-killer-finally-came-true-and-its-elon-musk/">Musk has dug for it</a>.</p>
+
+
+
+<p>Now, amidst an explosive feud between the two narcissists that <a href="https://electrek.co/2025/06/05/tsla-drops-14-as-investors-see-corruption-being-priced-out-of-tesla-stock/">came to a head yesterday</a>, it’s being reported that Mr. Trump wants to sell the object of that ad: his red Tesla Model S.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,elon-musk,tesla" data-layer-viewtype="unknown" data-post-id="419361" href="https://electrek.co/2025/06/06/everythings-computer-no-more-trump-wants-to-sell-his-tesla-from-that-dumb-ad/#more-419361" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/06/everythings-computer-no-more-trump-wants-to-sell-his-tesla-from-that-dumb-ad/>
+
+---
+
+## Anker SOLIX Father’s Day power station sale from $119, RadExpand 5 e-bike at new $999 low, Tenways, Velotric, Lectron EV adapter, more
+
+date: 2025-06-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Anker-SOLIX-Fathers-Day-Sale-FI.png?w=1600" /></div><p>We’ve got a jam-packed Green Deals for you today, led by <a href="https://9to5toys.com/2025/06/06/anker-solix-fathers-day-power-station-sale-from-119/">Anker’s SOLIX Father’s Day Sale</a> with up to 55% in initial discounts, multiple tiers of extra savings, and free gifts with select purchases. Among the massive lineup, we spotted the <a href="https://9to5toys.com/2025/06/06/anker-solix-fathers-day-power-station-sale-from-119/">C1000 Solar Generator bundle</a> with an expansion battery and 100W panel at a <a href="https://9to5toys.com/2025/06/06/anker-solix-fathers-day-power-station-sale-from-119/">$949 low</a>. From there, we have several EV deals, starting with a spotlight on <a href="https://9to5toys.com/2025/06/05/rad-power-radexpand-5-e-bike-new-999-low/">Rad Power’s RadExpand 5 Folding e-bike</a> down at a <a href="https://9to5toys.com/2025/06/05/rad-power-radexpand-5-e-bike-new-999-low/">new $999 low</a>. There’s also the Father’s Day savings on <a href="https://9to5toys.com/2025/06/06/tenways-ago-x-e-bike-1999-more/">Tenways e-bikes starting from $1,599</a>, as well as <a href="https://9to5toys.com/2025/06/05/velotric-fathers-day-e-bikes-from-999/">Velotric e-bikes starting from $999</a>. Lastly, we have the factory-reconditioned <a href="https://9to5toys.com/2025/06/06/lectron-reconditioned-nacs-to-ccs-ev-adapter-120-more/">Lectron NACS to CCS EV Adapter for $130</a>, along with several other similar devices. Plus, there’s all the rest of the hangover Green Deals in the links at the bottom of the page, like yesterday’s full <a href="https://9to5toys.com/2025/06/05/rad-power-radrover-6-plus-e-bike-1399-more/">Rad Power Father’s Day event</a>, EcoFlow’s <a href="https://9to5toys.com/2025/06/05/ecoflow-home-backup-kit-and-battery-flash-sale-349/">72-hour flash sale</a> running through June 7, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="419352" href="https://electrek.co/2025/06/06/anker-solix-fathers-day-sale-radexpand-5-tenways-velotric-lectron-more/#more-419352" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/06/anker-solix-fathers-day-sale-radexpand-5-tenways-velotric-lectron-more/>
+
+---
+
+## How Rivian Developed Its Zonal Architecture In Just Two Years
+
+date: 2025-06-06, from: Inside EVs News
+
+Rivian cut 1.6 miles of wiring from its EVs and reduced the number of computers significantly. This is what it looks like in real life.  
+
+<br> 
+
+<https://insideevs.com/news/761865/rivian-zonal-architecture-development/>
+
+---
+
+## BYD’s latest EV price cuts trigger ‘war panic’ as China warns it’s now out of control
+
+date: 2025-06-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/BYDs-EV-price-cuts-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Following another round of price cuts last month, <a href="https://electrek.co/guides/byd/">BYD</a> is now facing backlash from top Chinese officials and regulators. China warned BYD’s latest cuts are triggering “price war panic,” and that it’s now getting out of hand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="419330" href="https://electrek.co/2025/06/06/byds-latest-ev-price-cuts-are-triggering-war-panic-china-warns/#more-419330" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/06/byds-latest-ev-price-cuts-are-triggering-war-panic-china-warns/>
+
+---
+
+## Elon Musk Could've Saved EVs From Donald Trump. That's Not What Happened
+
+date: 2025-06-06, from: Inside EVs News
+
+EV tax credits are reportedly part of the spat between the president and the world's richest man. Why didn't Musk speak up before? 
+
+<br> 
+
+<https://insideevs.com/news/761961/elon-musk-donald-trump-breakup-tesla/>
+
+---
+
+## Toyota is about to launch another electric SUV in China for under $20,000
+
+date: 2025-06-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Toyota-bZ5-electric-SUV-20000.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>When will <a href="https://electrek.co/guides/toyota/">Toyota</a> launch an electric SUV for under $20,000 in the US or Europe? We’ll keep dreaming. Toyota is launching the new bZ5 electric SUV next week in China amid an intensifying EV price war. The new SUV will draw power from BYD’s batteries and EV powertrain as Toyota looks to get a leg up on the competition.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="419311" href="https://electrek.co/2025/06/06/toyota-launching-another-ev-suv-china-under-20000/#more-419311" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/06/toyota-launching-another-ev-suv-china-under-20000/>
+
+---
+
+## For Tesla, The Musk-Trump Divorce Comes At The Worst Time
+
+date: 2025-06-06, from: Inside EVs News
+
+We also discuss why automakers are not blaming tariffs for price increases and the impact of China's export restrictions on rare earth materials.  
+
+<br> 
+
+<https://insideevs.com/news/761955/for-tesla-musk-trump-divorce-worst-timing/>
+
+---
+
+## Rivian R2 'Will Underpin All Future EV Projects' At Volkswagen
+
+date: 2025-06-06, from: Inside EVs News
+
+Rivian exec confirms its upcoming R2 will be the techno grandfather of all future EVs produced by VW. 
+
+<br> 
+
+<https://insideevs.com/news/761921/vw-rivian-r2-underpin-tech/>
 
 ---
 

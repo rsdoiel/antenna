@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-06-06 06:09:03
+updated: 2025-06-06 14:07:56
 ---
 
 # games
 
-(date: 2025-06-06 06:09:03)
+(date: 2025-06-06 14:07:56)
+
+---
+
+## Sinners, Predator: Killer of Killers, The Surfer, and every movie new to streaming this weekend
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, you can invite Ryan Coogler’s sexy horror movie Sinners into your home for the first time through VOD demand services. Also available for rent [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/604621/sinners-predator-killer-of-killers-the-surfer-and-every-movie-new-to-streaming-this-weekend>
+
+---
+
+## All Mario Kart World kart and vehicle list
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+There are 40 karts total in Mario Kart World. You’ll start with 11, and you’ll need to unlock the remaining 29 by playing the game. While these vehicles don’t have the customization that we saw in Mario Kart 8, they do still have individual stats, so it’s not all about just glitz and glam when [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mario-kart-world-guides/604371/kart-vehicle-unlock-stats-list>
+
+---
+
+## How multiplayer works in Mario Kart World
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+There are a few ways you can play with friends in Mario Kart World for the Nintendo Switch 2, but the main thing you may be asking is “Can I play Free Roam mode with my friends?” The answer to that is a little complex, but we get into it below. Below we explain how [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mario-kart-world-guides/604400/multiplayer-free-roam-mode-local-online>
+
+---
+
+## A24 launches bizarre website to connect horror movies Talk to Me, Bring Her Back
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+On June 6, A24 launched the promotional website Black Angel Tapes, meant as an artifact from the shared world of Danny and Michael Philippou’s horror movies Talk to Me and Bring Her Back. Both movies feature creepy artifacts that lead characters to communicate with otherworldly spiritual entities, and Black Angel Tapes is meant to be [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/604581/talk-to-me-bring-her-back-connections-black-angel-tapes-website>
+
+---
+
+## Nintendo has replaced the longtime voice of Peach and Toad
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+Nintendo replaced a couple of longtime voice actors for Mario Kart World — including an actress who has voiced Princess Peach for the last 18 years. On Friday, voice actress Samantha Kelly uploaded a new Instagram post stating that she is no longer voicing the Mushroom Kingdom&#8217;s princess, nor Toad and Toadette, whom she also [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/604585/nintendo-voice-actor-princess-peach-toad-replaced-new>
+
+---
+
+## Predator: Killer of Killers gives Arnold Schwarzenegger a perfect path to return
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+Dan Trachtenberg and Joshua Wassung’s animated movie Predator: Killer of Killers introduces many new elements to the decades-old science fiction franchise, just like Trachtenberg’s Prey did back in 2022. There are dramatic new Predator designs and places Predator-vs.-human fights in eras where we’ve never seen them before. Most startlingly, it brings in some inspiration from [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sci-fi/604315/predator-killer-of-killers-arnold-schwarzeneggers-dutch-return>
+
+---
+
+## How to use stickers in Mario Kart World
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+Funny weird karts, shiny costumes, and a cow aren’t the only tools Mario Kart Word gives you to show your personality. You can show everyone how cool – and good! – you are with cool stickers that you can unlock in the game. Mario Kart World offers a multitude of options when it comes to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mario-kart-world-guides/604534/unlock-use-stickers-how-to>
+
+---
+
+## What is Smart Steering in Mario Kart World?
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+Mario Kart World&#8216;s smart steering feature is one of the Switch 2 game&#8217;s many unexplained features, but it&#8217;s one you&#8217;ll likely want to turn off after a short while. Smart Steering has its uses when you&#8217;re learning how to play Mario Kart World, but beyond that, it actively prevents you from exploring and finding secrets [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mario-kart-world-guides/604573/what-is-smart-steering-how-to-turn-off>
+
+---
+
+## Summer Game Fest 2025: All the news, trailers, and world premieres
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+Without an E3 to preview new games and premiere trailers, Geoff Keighley’s annual video game event, Summer Game Fest, returns for 2025 with the usual batch of world premiere-exclusive game reveals, special guest appearances, and other surprises. (Not a surprise, though: Hideo Kojima will be there.) For every big announcement at Summer Game Fest 2025, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/604402/summer-game-fest-2025-sgf-news-trailers-premieres-list>
+
+---
+
+## Resident Alien is finally leaning into science fiction, with time travel, cyborgs, and alien abductions
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+USA/Syfy’s Resident Alien started as a quirky mashup of Northern Exposure and Invader Zim, a fish-out-of-water comedy where Harry Vanderspeigle (Alan Tudyk of Firefly, Rogue One, and Andor), the new doctor in the small town of Patience, Colorado, is actually an alien who wants to take over Earth. Harry’s secret was originally only known to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/604472/resident-alien-season-4-interviews-science-fiction-twists>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2025-06-06 06:09:05
+updated: 2025-06-06 14:07:59
 ---
 
 # motorcycles
 
-(date: 2025-06-06 06:09:05)
+(date: 2025-06-06 14:07:59)
+
+---
+
+## This New Adventure Motorcycle Makes Every Other Look Like a Big, Fat Mess
+
+date: 2025-06-06, from: Ride Apart, Electric Motorcycle News
+
+The regular 800X was found wanting against the competition, but this version looks set to challenge the class. 
+
+<br> 
+
+<https://www.rideapart.com/news/761737/2025-kove-800x-rally-specs-price-weight-motorcycle/>
+
+---
+
+## Sad Day as Legendary UK Motorcycle Brand Goes Into Administration
+
+date: 2025-06-06, from: Ride Apart, Electric Motorcycle News
+
+Things looked hopeful just four years ago, but a lot has happened since. 
+
+<br> 
+
+<https://www.rideapart.com/news/761593/ccm-goes-into-administration/>
 
 ---
 
@@ -265,6 +289,18 @@ This was a serious crash, and she's lucky to be out of a coma.
 <br> 
 
 <https://www.rideapart.com/news/761282/italian-princess-harley-davidson-crash-hospital/>
+
+---
+
+## Gallery: Looking Back At The IndyCar Detroit Grand Prix
+
+date: 2025-06-03, from: Kickin the Tires blog
+
+Photos by Eric Hattey/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/indycar/gallery-looking-back-at-the-indycar-detroit-grand-prix/>
 
 ---
 

@@ -1,11 +1,65 @@
 ---
 title: writing
-updated: 2025-06-06 06:09:02
+updated: 2025-06-06 14:07:56
 ---
 
 # writing
 
-(date: 2025-06-06 06:09:02)
+(date: 2025-06-06 14:07:56)
+
+---
+
+## How To Write a Cold Open in Your Script
+
+date: 2025-06-06, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-write-a-cold-open-in-your-script" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Tim%20Roth%20and%20Amanda%20Plummer%20in%20Pulp%20Fiction.png" alt="Tim Roth and Amanda Plummer sitting in a booth at a breakfast diner in Pulp Fiction" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>What is a <span style="font-weight: bold;">cold open</span>?<br><br>A cold open is a storytelling technique commonly used in film and television, where the narrative dives directly into a scene—often a self-contained mini-story—before the opening credits or main plot unfold. These openings can range from just a few minutes to as long as 15 minutes in some feature films (such as the famous dialogue-free opening to Paul Thomas Anderson’s <a href="https://www.imdb.com/title/tt0469494/?ref_=fn_all_ttl_1" style="font-style: italic;">There Will Be Blood</a>), and they typically occur before any titles or credits appear on screen.<br><br>Arguably the most famous cold open scenes are the ones that begin each installment of the James Bond franchise. These sequences are like mini-movies in and of themselves, and have a self-contained narrative with a micro <a href="https://blog.finaldraft.com/three-act-structure-the-foundation-of-screenwriting">three act structure</a> (beginning, middle and end). Some other cold open examples are the <a href="https://www.youtube.com/watch?v=uN0ftAFlnXg">diner prologue of</a> <a href="https://www.youtube.com/watch?v=uN0ftAFlnXg" style="font-style: italic;">Pulp Fiction</a>, the <a href="https://www.youtube.com/watch?v=vetKTtM7YyU">bank robbery in <span style="font-style: italic;">The Dark Knight</span></a><span style="font-style: italic;">,</span> and the <a href="https://www.youtube.com/watch?v=Sn5SkCvPEYo">telephone call sequence that begins <span style="font-style: italic;">Scream</span></a>. All of these openings create intrigue and anticipation, and help to set the mood and tone of the film within a single scene.<br><br>In television, the cold open usually introduces the ‘A’ Story that is the primary plotline of the episode. For example, a police procedural is likely to begin with “the case” the detectives will have to solve (e.g. <span style="font-style: italic;">Columbo</span> episodes usually start with the murder from the killer’s point of view, a technique also employed in <span style="font-style: italic;">Poker Face</span>). Comedic content is looser: cold opens can sometimes just be a funny one-off sequence, however, some sitcoms like <span style="font-style: italic;">It’s Always Sunny in Philadelphia</span> open with an introduction of the A Story (and sometimes also the B Story).<br><br>Regardless of the medium or <a href="https://blog.finaldraft.com/what-genre-is-my-screenplay">genre</a>, the main purpose of a cold open is to <a href="https://blog.finaldraft.com/5-tips-to-writing-a-great-opening">grab the attention</a> of the viewer so they’ll continue watching. In a world flooded with content, cold opens have become increasingly common, and in screenwriting, significant emphasis is now placed on the crucial first ten pages to hook in viewers.<br><br>However, the best cold opens aren’t just obligatory teasers: a cold open can also <span style="font-style: italic;">elevate the entire script</span>.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-to-write-a-cold-open-in-your-script>
+
+---
+
+## (S)Kin by Ibi Zoboi: Review by Gabino Iglesias
+
+date: 2025-06-06, from: Locus Magazine
+
+<p><strong>(S)Kin</strong>, Ibi Zoboi (Versify 978-0-06288-887-7, 400pp, hc) February 2025. Cover by Salena Barnes.</p>
+<p>Ibi Zoboi’s <strong>(S)Kin </strong>is not the kind of book I would usually pick up. When reading YA, I mostly stick to horror. Also, I don’t come across many novels in verse, but when I do, I’m usually reading two dozen books at once and that gives me an excuse to not pick it up. In this  <a href="https://locusmag.com/2025/06/skin-by-ibi-zoboi-review-by-gabino-iglesias/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/skin-by-ibi-zoboi-review-by-gabino-iglesias/>
+
+---
+
+## Brooklyn Books and Booze
+
+date: 2025-06-06, from: Locus Magazine
+
+<p>Radha Vatsal, Anna Rasche, Gregory A. Wilson, and Christina Li read at the Barrow&#8217;s Intense Tasting Room in Industry City, Brooklyn NY on April 15, 2025 as part of the Brooklyn Books &#38; Booze Reading series, hosted by Randee Dawn.</p>
+
+<p><strong>While you are here,</strong> please take a moment to support Locus with a one-time or recurring donation. We rely on reader donations to keep the magazine and site going, and  <a href="https://locusmag.com/2025/06/brooklyn-books-and-booze-4/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/brooklyn-books-and-booze-4/>
+
+---
+
+## The NIH Public Access Policy: Q&A for Authors
+
+date: 2025-06-06, from: Author's Union blog
+
+We’ve received many questions from authors, librarians, and research administrators about the NIH decision to accelerate implementation of its public [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/06/06/the-nih-public-access-policy-qa-for-authors/>
 
 ---
 

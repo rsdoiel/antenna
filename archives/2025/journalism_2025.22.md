@@ -1,11 +1,64 @@
 ---
 title: journalism
-updated: 2025-06-06 06:09:03
+updated: 2025-06-06 14:07:56
 ---
 
 # journalism
 
-(date: 2025-06-06 06:09:03)
+(date: 2025-06-06 14:07:56)
+
+---
+
+## Student uncovers UCLA budget deficit, USAC resolution calls for transparency
+
+date: 2025-06-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Nicholas Reese was trying to conduct research for a student meal swipe donation initiative when he discovered multiple UCLA financial deficits that have gone unpublicized.
+Reese, a third-year political science student, said he learned through his research and an administrator that UCLA’s dining budget was inflated and the administration was going to rely on unused student swipes to fund that deficit. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/06/student-uncovers-ucla-budget-deficit-usac-resolution-calls-for-transparency/>
+
+---
+
+## 5 Ways Local Businesses Thrive With Digital Feedback in 2025
+
+date: 2025-06-06, from: The Sundail (CSUN Student Newspaper)
+
+Local businesses in college towns thrive on a dynamic and digitally-driven student population. In this environment, digital feedback is a fundamental pillar for success, offering multifaceted benefits that extend far... 
+
+<br> 
+
+<https://sundial.csun.edu/194269/sundialbrandstudio/sundial-marketplace/5-ways-local-businesses-thrive-with-digital-feedback-in-2025/>
+
+---
+
+## West Ranch High School Celebrates Class of 2025 with Graduation Ceremony
+
+date: 2025-06-06, from: The Canyon News (COC Student Newspaper)
+
+<p>&#8220;We are here tonight to honor the incredible class of 2025 as&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/west-ranch-graduation/">West Ranch High School Celebrates Class of 2025 with Graduation Ceremony</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/west-ranch-graduation/>
+
+---
+
+## College costs are rising and students are wondering if its still worth it to go
+
+date: 2025-06-06, from: The Canyon News (COC Student Newspaper)
+
+<p>The average cost of schooling at Cal State LA is about $36&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/college-costs/">College costs are rising and students are wondering if its still worth it to go</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/college-costs/>
 
 ---
 

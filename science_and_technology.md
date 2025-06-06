@@ -1,11 +1,155 @@
 ---
 title: science and technology
-updated: 2025-06-06 06:09:00
+updated: 2025-06-06 14:07:54
 ---
 
 # science and technology
 
-(date: 2025-06-06 06:09:00)
+(date: 2025-06-06 14:07:54)
+
+---
+
+## Linux Foundation tries to play peacemaker in ongoing WordPress scuffle
+
+date: 2025-06-06, updated: 2025-06-06, from: The Register (UK I.T. News)
+
+<h4>FAIR Package Manager project aims to prevent political power plays</h4> <p>The Linux Foundation on Friday introduced a new method to distribute WordPress updates and plugins that&#39;s not controlled by any one party, in a bid to &#34;stabilize the WordPress ecosystem&#34; after months of infighting.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/06/linux_foundation_wordpress_peacemaker/>
+
+---
+
+## ChatGPT used for evil: Fake IT worker resumes, misinfo, and cyber-op assist
+
+date: 2025-06-06, updated: 2025-06-06, from: The Register (UK I.T. News)
+
+<h4>OpenAI boots accounts linked to 10 malicious campaigns</h4> <p>Fake IT workers possibly linked to North Korea, Beijing-backed cyber operatives, and Russian malware slingers are among the baddies using ChatGPT for evil, according to OpenAI&#39;s latest threat report.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/06/chatgpt_for_evil/>
+
+---
+
+## Webb Sees Sombrero Galaxy in Near-Infrared
+
+date: 2025-06-06, from: NASA breaking news
+
+After capturing an image of the iconic Sombrero galaxy at mid-infrared wavelengths in late 2024, NASA’s James Webb Space Telescope has now followed up with an observation in the near-infrared. In the newest image, released on June 3, 2025, the Sombrero galaxy’s tightly packed group of stars at the galaxy’s center is illuminated while the dust in [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/webb-sees-sombrero-galaxy-in-near-infrared/>
+
+---
+
+## NASA Mars Orbiter Captures Volcano Peeking Above Morning Cloud Tops
+
+date: 2025-06-06, from: NASA breaking news
+
+The 2001 Odyssey spacecraft captured a first-of-its-kind look at Arsia Mons, which dwarfs Earth’s tallest volcanoes. A new panorama from NASA’s 2001 Mars Odyssey orbiter shows one of the Red Planet’s biggest volcanoes, Arsia Mons, poking through a canopy of clouds just before dawn. Arsia Mons and two other volcanoes form what is known as [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/odyssey/nasa-mars-orbiter-captures-volcano-peeking-above-morning-cloud-tops/>
+
+---
+
+## Musk and Trump take slap fight public as bromance ends
+
+date: 2025-06-06, updated: 2025-06-06, from: The Register (UK I.T. News)
+
+<h4>They&#39;re fighting like cats and DOGEs</h4> <p>Fire up those popcorn makers. The bromance between tech mogul Elon Musk and US President Donald Trump has come to an ignominious end as the billionaires feud on their respective social media platforms.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/06/musk_trump_feud/>
+
+---
+
+## NASA’s Ready-to-Use Dataset Details Land Motion Across North America
+
+date: 2025-06-06, from: NASA breaking news
+
+An online tool maps measurements and enables non-experts to understand earthquakes, subsidence, landslides, and other types of land motion. NASA is collaborating with the Alaska Satellite Facility in Fairbanks to create a powerful web-based tool that will show the movement of land across North America down to less than an inch. The online portal and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/science-research/earth-science/nasas-ready-to-use-dataset-details-land-motion-across-north-america/>
+
+---
+
+## Fresh strain of pro-Russian wiper flushes Ukrainian critical infrastructure
+
+date: 2025-06-06, updated: 2025-06-06, from: The Register (UK I.T. News)
+
+<h4>Destructive malware has been a hallmark of Putin&#39;s multi-modal war</h4> <p>A new strain of wiper malware targeting Ukrainian infrastructure is being linked to pro-Russian hackers, in the latest sign of Moscow&#39;s evolving cyber tactics.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/06/pro_russia_wiper_ukraine/>
+
+---
+
+## NASA Provides Hardware for Space Station DNA Repair Experiment
+
+date: 2025-06-06, from: NASA breaking news
+
+When it comes to helping NASA scientists better understand the effects of space travel on the human body, fruit flies are the heavyweights of experiments in weightlessness. Because humans and fruit flies share a lot of similar genetic code, they squeeze a lot of scientific value into a conveniently small, light package.&#160; Through a new [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/nasa-provides-hardware-for-space-station-dna-repair-experiment/>
+
+---
+
+## As Europe eyes move from US hyperscalers, IONOS dismisses scaleability worries
+
+date: 2025-06-06, updated: 2025-06-06, from: The Register (UK I.T. News)
+
+<h4>The world has changed. EU hosting CTO says not considering alternatives is &#39;negligent&#39;</h4> <p><strong>Interview</strong>  European cloud providers and software vendors used this week&#39;s Nextcloud summit to insist that not only can workloads be moved from the US hyperscalers, not considering it is &#34;negligent&#34; on behalf of IT bosses.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/06/ionos_dismisses_scalability_worries_interview/>
+
+---
+
+## First Map Made of a Solid’s Secret Quantum Geometry
+
+date: 2025-06-06, from: Quanta Magazine
+
+Physicists recently mapped the hidden shape that underlies the quantum behaviors of a crystal, using a new method that’s expected to become ubiquitous.            <p>The post <a href="https://www.quantamagazine.org/first-map-made-of-a-solids-secret-quantum-geometry-20250606/" target="_blank">First Map Made of a Solid’s Secret Quantum Geometry</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/first-map-made-of-a-solids-secret-quantum-geometry-20250606/>
+
+---
+
+## Uncle Sam moves to seize $7.7M laundered by North Korean IT worker ring
+
+date: 2025-06-06, updated: 2025-06-06, from: The Register (UK I.T. News)
+
+<h4>The cash has been frozen for more than two years</h4> <p>The US is looking to finally capture the $7.74 million it froze over two years ago after indicting alleged money launderers it claims are behind North Korean IT worker schemes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/06/north_korea_it_worker_cash/>
+
+---
+
+## ARMD Research Solicitations (Updated June 6)
+
+date: 2025-06-06, from: NASA breaking news
+
+THIS PAGE WAS UPDATED ON JUNE 6, 2025(Updated Advanced Air Vehicles Program Fellowship Opportunities.) This Aeronautics Research Mission Directorate (ARMD) solicitations page compiles the opportunities to collaborate with NASA’s aeronautical innovators and/or contribute to their research to enable new and improved air transportation systems. Most opportunities to participate in research are officially announced through the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/armd-solicitations/>
 
 ---
 
@@ -193,7 +337,7 @@ date: 2025-06-05, updated: 2025-06-06, from: The Register (UK I.T. News)
 
 date: 2025-06-05, from: NASA breaking news
 
-NASA continues to collaborate with global communities to solve complex challenges through crowdsourcing with a series of 25 new NASA Open Innovation Service (NOIS) contracts managed by the agency’s Johnson Space Center in Houston. The contract aims to empower NASA’s workforce by actively engaging the public to find creative solutions to difficult space exploration challenges [&#8230;] 
+Editor&#8217;s note: This release was updated June 6, 2025, to correct the name of one of the awardees. NASA continues to collaborate with global communities to solve complex challenges through crowdsourcing with a series of 25 new NASA Open Innovation Service (NOIS) contracts managed by the agency’s Johnson Space Center in Houston. The contract aims [&#8230;] 
 
 <br> 
 

@@ -1,11 +1,53 @@
 ---
 title: libraries
-updated: 2025-06-06 06:09:04
+updated: 2025-06-06 14:07:57
 ---
 
 # libraries
 
-(date: 2025-06-06 06:09:04)
+(date: 2025-06-06 14:07:57)
+
+---
+
+## ARL Displays Our Pride During the Month of June 2025
+
+date: 2025-06-06, from: Association of Research Libraries News
+
+<p>Last Updated on June 6, 2025, 3:23 pm ET Join ARL as we celebrate the culture and pride of LGBTQIA+ month during June by exploring the blogs, events, and resources...</p>
+<p>The post <a href="https://www.arl.org/blog/lgbtqia25/">ARL Displays Our Pride During the Month of June 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/lgbtqia25/>
+
+---
+
+## ARL Honors Canadian National Indigenous History Month 2025
+
+date: 2025-06-06, from: Association of Research Libraries News
+
+<p>Last Updated on June 6, 2025, 3:04 pm ET National Indigenous History Month is an annual observance that is celebrated during the summer solstice, when our Canadian neighbors pause to...</p>
+<p>The post <a href="https://www.arl.org/blog/arl-honors-canadian-national-indigenous-history-month-2025/">ARL Honors Canadian National Indigenous History Month 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/arl-honors-canadian-national-indigenous-history-month-2025/>
+
+---
+
+## ARL’s Roundup of Resources for the Juneteenth Observance
+
+date: 2025-06-06, from: Association of Research Libraries News
+
+<p>Last Updated on June 6, 2025, 2:12 pm ET Juneteenth is an annual day of celebration that commemorates the emancipation of enslaved people in the United States of America. Below...</p>
+<p>The post <a href="https://www.arl.org/blog/arls-roundup-of-resources-for-the-juneteenth-observance/">ARL&#8217;s Roundup of Resources for the Juneteenth Observance</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/arls-roundup-of-resources-for-the-juneteenth-observance/>
 
 ---
 

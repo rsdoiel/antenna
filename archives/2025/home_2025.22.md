@@ -1,11 +1,171 @@
 ---
 title: home
-updated: 2025-06-06 06:09:05
+updated: 2025-06-06 14:07:58
 ---
 
 # home
 
-(date: 2025-06-06 06:09:05)
+(date: 2025-06-06 14:07:58)
+
+---
+
+## Budget Breakdown: A Writer Adds a $239K Backyard Unit to John Prine’s Former Record Label Offices
+
+date: 2025-06-06, from: Dwell
+
+He used finishes and furnishings that support his health condition and connect with the Nashville outpost’s primary structure. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-the-monroe-house-john-prine-dadu-ben-locke-backyard-house-7c188c8f>
+
+---
+
+## Tulsa’s $10K Reward for New Residents Pays Off—and Everything Else You Need to Know About This Week
+
+date: 2025-06-06, from: Dwell
+
+California’s proposal to ban plants around homes is under fire, Disney steps into the affordable housing market, skaters revitalize San Francisco’s bleakest plaza, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/design-news-tulsa-remote-program-san-francisco-un-plaza-b9e9a2f2>
+
+---
+
+## Composting 101: How to Get Started
+
+date: 2025-06-06, from: The Gardener's Path
+
+<p>Composting is an easy, low-cost way to recycle kitchen scraps, garden trimmings, and fallen leaves into a nutritious garden amendment. Whatever method you use, you’ll be able to feed your plants, improve soil structure, and conserve water in no time. Learn how to get started with composting in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/composting/basics-composting/">Composting 101: How to Get Started</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/composting/basics-composting/>
+
+---
+
+## Nab a Rare Richard Neutra Home in Philadelphia for $2.5M
+
+date: 2025-06-06, from: Dwell
+
+The beautifully preserved Coveney Residence is one of just six houses the legendary architect designed in the area. 
+
+<br> 
+
+<https://www.dwell.com/article/coveney-residence-richard-neutra-midcentury-philadelphia-real-estate-c1acd6fc>
+
+---
+
+## DIY Paint Roller and Other Nifty Painting Tips
+
+date: 2025-06-06, from: Family Handyman Blog
+
+<p>Painting projects are messy and can be a lot of work. But with a DIY paint roller and some other hacks you can make the process a breeze.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/diy-paint-roller-and-other-nifty-painting-tips/">DIY Paint Roller and Other Nifty Painting Tips</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/diy-paint-roller-and-other-nifty-painting-tips/>
+
+---
+
+## How Early Is Too Early For Loud Yard Work?
+
+date: 2025-06-06, from: Family Handyman Blog
+
+<p>When figuring out how early is too early for yard work there's a few factors that can influence that answer that you'll need to be aware of.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-early-is-too-early-for-loud-yard-work/">How Early Is Too Early For Loud Yard Work?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-early-is-too-early-for-loud-yard-work/>
+
+---
+
+## 24 Types of Black Birds in Texas (With Pictures and Identification)
+
+date: 2025-06-06, from: Yard Life blog
+
+<p>Texas offers a rich and varied landscape that supports an incredible diversity of birdlife, including many species with striking black ... </p>
+<p class="read-more-container"><a title="24 Types of Black Birds in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/24-types-of-black-birds-in-texas-with-pictures-and-identification/#more-29676" aria-label="Read more about 24 Types of Black Birds in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/24-types-of-black-birds-in-texas-with-pictures-and-identification/">24 Types of Black Birds in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/24-types-of-black-birds-in-texas-with-pictures-and-identification/>
+
+---
+
+## The Amazon Prime Benefit You’re Probably Missing Out On
+
+date: 2025-06-06, from: Family Handyman Blog
+
+<p>You might not be making the most of your Amazon Prime membership. Learn how to save at the pump with this smart subscription hack. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/amazon-prime-fuel-savings/">The Amazon Prime Benefit You&#8217;re Probably Missing Out On</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/amazon-prime-fuel-savings/>
+
+---
+
+## Stop Using These ACs: 1.7 Million Units Recalled Over Mold Risk
+
+date: 2025-06-06, from: Family Handyman Blog
+
+<p>Millions of window ACs have been recalled due to mold risk; find out if yours is one of them and how to protect yourself. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/ac-recall-mold-risk/">Stop Using These ACs: 1.7 Million Units Recalled Over Mold Risk</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/ac-recall-mold-risk/>
+
+---
+
+## 3 Types of Eagles in Texas (With Pictures and Identification)
+
+date: 2025-06-06, from: Yard Life blog
+
+<p>Texas boasts a rich variety of wildlife, and among its most impressive inhabitants are the magnificent eagles that soar across ... </p>
+<p class="read-more-container"><a title="3 Types of Eagles in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-types-of-eagles-in-texas-with-pictures-and-identification/#more-29668" aria-label="Read more about 3 Types of Eagles in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-types-of-eagles-in-texas-with-pictures-and-identification/">3 Types of Eagles in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-types-of-eagles-in-texas-with-pictures-and-identification/>
+
+---
+
+## Recipe Search
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+Sunset's recipes have been helping home cooks create the West's most delicious dishes for over 120 years. Search our database of more than 7,100 recipes. 
+
+<br> 
+
+<https://www.sunset.com/recipes>
+
+---
+
+## Put These Popular Books by LGBTQ+ Authors on Your Reading List
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+The Pride month festivities are going strong. To celebrate, Goodreads has compiled a list of recently published books by LGBTQ+ authors. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/culture/books-by-lgbtq-authors>
 
 ---
 
@@ -51,18 +211,6 @@ date: 2025-06-06, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/75-types-of-fish-in-florida-with-pictures-and-identification/>
-
----
-
-## Put These Popular Books by LGBTQ+ Authors on Your Reading List
-
-date: 2025-06-06, from: Sunset Magazine - Living in the West
-
-The Pride month festivities are going strong. To celebrate, Goodreads has compiled a list of recently published books by LGBTQ+ authors. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/culture/books-by-lgbtq-authors>
 
 ---
 

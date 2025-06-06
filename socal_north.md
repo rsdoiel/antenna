@@ -1,11 +1,201 @@
 ---
 title: socal north
-updated: 2025-06-06 06:08:58
+updated: 2025-06-06 14:07:52
 ---
 
 # socal north
 
-(date: 2025-06-06 06:08:58)
+(date: 2025-06-06 14:07:52)
+
+---
+
+## Level Up This Summer at the Santa Clarita Public Library
+
+date: 2025-06-06, from: City of Santa Clarita
+
+<p>Summer Reading is here! Programs running from June 9 through July 26 The Santa Clarita Public Library invites readers of all ages to “Level Up at Your Library” during this year’s Summer Reading Program from June 9 through July 26. With a playful theme inspired by games and classic fun, this summer promises a full [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/06/level-up-this-summer-at-the-santa-clarita-public-library/">Level Up This Summer at the Santa Clarita Public Library</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/06/level-up-this-summer-at-the-santa-clarita-public-library/>
+
+---
+
+## Kilmar Abrego Garcia, wrongly deported to El Salvador, is back in the U.S. to face smuggling charges
+
+date: 2025-06-06, updated: 2025-06-06, from: The LAist
+
+Abrego Garcia will face criminal charges for allegedly transporting migrants without legal status around the country, according to a Justice Department indictment. 
+
+<br> 
+
+<https://laist.com/news/kilmar-abrego-garcia-is-on-his-way-back-to-the-u-s-from-el-salvador-lawyer-says>
+
+---
+
+## Only weeks before fiscal deadline, Boyle Heights Neighborhood Council funds first improvement project of the year
+
+date: 2025-06-06, updated: 2025-06-06, from: The LAist
+
+After months of inaction, the neighborhood council greenlights a $3,000 beautification effort, but $24,000 in grants remains unused and at risk. 
+
+<br> 
+
+<https://laist.com/news/politics/boyle-heights-neighborhood-council-funds-first-improvement-project-of-the-year>
+
+---
+
+## LA rents are due to rise again in weeks. Why are rent control reforms still on hold at City Hall?
+
+date: 2025-06-06, updated: 2025-06-06, from: The LAist
+
+One year ago, Los Angeles received recommendations for updating a decades-old rent control formula. But the City Council still hasn’t scheduled a vote. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-city-rent-stabilization-ordinance-rso-control-city-council-new-limits>
+
+---
+
+## Mission Opera Brings Musical Mayhem to The MAIN with “The Guy Who Didn’t Like Musicals”
+
+date: 2025-06-06, from: City of Santa Clarita
+
+<p>Mission Opera invites you to The MAIN (24266 Main Street) for The Guy Who Didn’t Like Musicals, a laugh-out-loud, spine-tingling spectacle that’s equal parts horror and hilarity! From the brilliant minds of Matt and Nick Lang, with music by Jeff Blim, this offbeat production follows Paul, an average guy who suddenly finds himself surrounded by [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/06/mission-opera-brings-musical-mayhem-to-the-main-with-the-guy-who-didnt-like-musicals/">Mission Opera Brings Musical Mayhem to The MAIN with &#8220;The Guy Who Didn&#8217;t Like Musicals&#8221;</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/06/mission-opera-brings-musical-mayhem-to-the-main-with-the-guy-who-didnt-like-musicals/>
+
+---
+
+## He was the darling of SoCal’s Vietnamese community. Then Andrew Do was accused of betraying them
+
+date: 2025-06-06, updated: 2025-06-06, from: The LAist
+
+Do is scheduled to be sentenced June 9 on a federal bribery charge. Prosecutors are asking for five years in prison. 
+
+<br> 
+
+<https://laist.com/news/politics/what-the-andrew-do-sentencing-means-for-vietnamese-community-in-orange-county>
+
+---
+
+## Should polluters pay? California’s climate ‘superfund’ plan may have stalled
+
+date: 2025-06-06, updated: 2025-06-06, from: The LAist
+
+Proposed legislation hasn't moved out of the Assembly and Senate, raising questions about how far California will go in efforts to make oil and gas companies pay for climate damage. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/california-climate-superfund-plan-may-have-stalled>
+
+---
+
+## An actor who broke barriers on 'Mister Rogers' Neighborhood' reflects on racism, healing and hope
+
+date: 2025-06-06, updated: 2025-06-06, from: The LAist
+
+François Clemmons, the first Black man with a recurring role on children's TV, says what he learned from working for Fred Rogers on Mr. Rogers' Neighborhood still provides guidance today. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/francois-clemmons-mr-rogers-neighborhood>
+
+---
+
+## The US Copyright Office used to be fairly low-drama. Not anymore
+
+date: 2025-06-06, updated: 2025-06-06, from: The LAist
+
+President Donald Trump fired the head of the U.S. Copyright Office just after the agency released a major report on AI. 
+
+<br> 
+
+<https://laist.com/news/politics/the-us-copyright-office-used-to-be-fairly-low-drama-not-anymore>
+
+---
+
+## One killed when SUV flips on 710 transition road, CHP says
+
+date: 2025-06-06, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It happened around 1:19 a.m. on the transition road from the northbound 710 Freeway to the westbound 105 Freeway.</p>
+<p>The post <a href="https://lbpost.com/news/crime/one-killed-when-suv-flips-on-710-transition-road-chp-says">One killed when SUV flips on 710 transition road, CHP says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/one-killed-when-suv-flips-on-710-transition-road-chp-says>
+
+---
+
+## Officially, 59,000 federal jobs are gone under Trump. There's more to the picture
+
+date: 2025-06-06, updated: 2025-06-06, from: The LAist
+
+The Trump administration has tried firing people, dismantling agencies and inviting people to quit. Lawsuits have blocked some of those efforts. 
+
+<br> 
+
+<https://laist.com/news/officially-59-000-federal-jobs-are-gone-under-trump-theres-more-to-the-picture>
+
+---
+
+## Charges filed against school aide in child pornography case; she could face 3 years in prison
+
+date: 2025-06-06, from: Longbeach Post
+
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/03145006/brackman-mug-1-741477-lymcpdhr-626639-vtJim8BS.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>"This defendant held a position of trust with some of the most vulnerable children in our community," District Attorney Nathan Hochman said in a statement.</p>
+<p>The post <a href="https://lbpost.com/news/crime/charges-filed-against-school-aide-in-child-pornography-case-she-could-face-3-years-in-prison">Charges filed against school aide in child pornography case; she could face 3 years in prison</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/charges-filed-against-school-aide-in-child-pornography-case-she-could-face-3-years-in-prison>
+
+---
+
+## What the Trump-Musk breakup may mean for SpaceX and Tesla
+
+date: 2025-06-06, updated: 2025-06-06, from: The LAist
+
+From space travel to military operations to the future of green energy, the U.S. has become reliant on Elon Musk's business empire. But it won't be easy for the government to end its reliance on Musk. 
+
+<br> 
+
+<https://laist.com/news/what-the-trump-musk-breakup-may-mean-for-spacex-and-tesla>
+
+---
+
+## Remembering the joy of a Thrifty ice cream trip, from 10 cent scoops to iconic flavors
+
+date: 2025-06-06, updated: 2025-06-06, from: The LAist
+
+As the beloved ice cream counter shutters along with Rite Aids across L.A. and O.C., folks look back at what made it special. 
+
+<br> 
+
+<https://laist.com/news/food/remembering-the-joy-of-a-thrifty-ice-cream-trip-from-10-cent-scoops-to-iconic-flavors>
+
+---
+
+## Inventive, affordable bites in OC: Cheap Fast Eats visits Santa Ana
+
+date: 2025-06-06, updated: 2025-06-06, from: The LAist
+
+From regional Mexican antojitos to over-the-top breakfast burritos, family-run smash burgers and neighborhood pizza slices 
+
+<br> 
+
+<https://laist.com/news/food/cheap-fast-eats-santa-ana>
 
 ---
 
@@ -21,18 +211,6 @@ Three young friends set up a fried chicken pop up in a Hollywood parking lot. Th
 
 ---
 
-## Inventive, affordable bites in OC: Cheap Fast Eats visits Santa Ana
-
-date: 2025-06-06, updated: 2025-06-06, from: The LAist
-
-From regional Mexican antojitos to over-the-top breakfast burritos, family-run smash burgers and beloved neighborhood slice joint pizza. 
-
-<br> 
-
-<https://laist.com/news/food/cheap-fast-eats-santa-ana>
-
----
-
 ## Dry and warm conditions for SoCal this weekend
 
 date: 2025-06-06, updated: 2025-06-06, from: The LAist
@@ -42,18 +220,6 @@ Southern California is in for a warm weekend with dry weather.
 <br> 
 
 <https://laist.com/news/climate-environment/dry-warm-conditions-socal-weekend>
-
----
-
-## Remembering the joy of a Thrifty ice cream trip, from 10 cent scoops to iconic flavors
-
-date: 2025-06-06, updated: 2025-06-06, from: The LAist
-
-As the beloved ice cream counter shutters along with Rite Aids across L.A. and O.C., folks look back at what made it special. 
-
-<br> 
-
-<https://laist.com/news/food/remembering-the-joy-of-a-thrifty-ice-cream-trip-from-10-cent-scoops-to-iconic-flavors>
 
 ---
 
@@ -145,7 +311,7 @@ President Trump and his former adviser, Elon Musk, lashed out at each other on s
 
 date: 2025-06-05, from: Longbeach Post
 
-<figure><img width="1024" height="547" src="https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-562x300.jpg 562w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-1110x592.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-768x410.jpg 768w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-1536x820.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-2048x1093.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-1320x705.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="547" src="https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-562x300.jpg 562w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-1110x592.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-768x410.jpg 768w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-1536x820.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-2048x1093.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-1320x705.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Officials said the cargo was on its way from China to the Sinaloa Drug Cartel in Mexico.</p>
 <p>The post <a href="https://lbpost.com/news/crime/shipment-of-chemicals-used-to-produce-meth-seized-at-port-of-long-beach-feds-say">Shipment of chemicals used to produce meth seized at Port of Long Beach, feds say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -172,7 +338,7 @@ More adult students want a quicker path to a certificate and entering the workfo
 
 date: 2025-06-05, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Highly publicized immigration raids have rattled the community and prompted lawmakers to push for more laws protecting immigrants.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/california-democrats-push-to-block-ice-from-schools-hospitals-and-shelters">California Democrats push to block ICE from schools, hospitals and shelters</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

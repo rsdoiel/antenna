@@ -1,11 +1,85 @@
 ---
 title: ham radio
-updated: 2025-06-06 06:09:00
+updated: 2025-06-06 14:07:53
 ---
 
 # ham radio
 
-(date: 2025-06-06 06:09:00)
+(date: 2025-06-06 14:07:53)
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-06-06, from: Amateur Radio Relay League News
+
+<p>Solar activity remained at moderate levels earlier this week. There<br />was an approximately 20-degree filament eruption on June 4 and a<br />possibly related Coronal Mass Ejection (CME). The CME is unlikely to<br />have an Earth-directed component, but analysis is in progress.<br /><br />The geomagnetic field is expected to be quiet to unsettled on June 7<br />as High Speed Stream (HSS) activity continues. G1 (Minor) storm<br />level...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-17>
+
+---
+
+## 13 Colonies Event Founder Passing the Reins After 16 Years
+
+date: 2025-06-06, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/13-colonies-event-founder-passing-the-reins-after-16-years>
+
+---
+
+## 2025 ARRL Field Day Has Categories for Every Operator
+
+date: 2025-06-06, from: Amateur Radio Relay League News
+
+<p>2025 ARRL Field Day is just three weeks away! The excitement is building. Most clubs have their activations planned. In the last two weeks, 350 more sites have been added to the Field Day Site Locator, with a total of 886 listed as of June 5. ARRL Field Day is a great way to connect with your local amateur radio community, for Technician-class operators to get on lower HF bands, to shake down y...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/2025-arrl-field-day-has-categories-for-every-operator>
+
+---
+
+## ARRL International Digital Contest Presents Fun Despite Active Sun
+
+date: 2025-06-06, from: Amateur Radio Relay League News
+
+<p>As Solar Cycle 25 peaks, the sun has been busy. A coronal mass ejections has thrown HF propagation for a roller coaster ride this week. While the medium and lower HF bands suffer, there’s still hope for successful operating during times of solar storms. The 6-meter band has been quite active. Reports of phone contacts to Europe from East Coast hams and great digital activity on 6 meters from el...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-international-digital-contest-presents-fun-despite-active-sun>
+
+---
+
+## ARRL Teachers Institute a Success in Louisiana
+
+date: 2025-06-06, from: Amateur Radio Relay League News
+
+<p>The second session of the ARRL Teachers Institute on Wireless Technology (TI) to be held outside of ARRL Headquarters was a success this week in Louisiana. It follows on a successful offsite institute held earlier this year in New York City.    </p><p>Eleven teachers gathered in Lake Charles for the latest session. The event was featured in local news and empowered the teachers to incorporate amateur ...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-teachers-institute-a-success-in-louisiana>
+
+---
+
+## AI and the problem of misinformation
+
+date: 2025-06-06, from: EDN Blog
+
+<img width="595" height="418" src="https://www.edn.com/wp-content/uploads/Misinformation.png?fit=595%2C418" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Misinformation.png?w=595 595w, https://www.edn.com/wp-content/uploads/Misinformation.png?w=300 300w" sizes="(max-width: 595px) 100vw, 595px" /><p>How likely is it that an AI system will be trained on incorrect information? Please consider the following example...</p>
+<p>The post <a href="https://www.edn.com/ai-and-the-problem-of-misinformation/">AI and the problem of misinformation  </a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/ai-and-the-problem-of-misinformation/>
 
 ---
 
@@ -13,7 +87,7 @@ updated: 2025-06-06 06:09:00
 
 date: 2025-06-06, from: EDN Blog
 
-<img width="1200" height="600" src="https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?fit=1200%2C600" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?w=1200 1200w, https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?w=1024 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /><p>Here’s how engineers can practice standards and incorporate modular building blocks in pick and place equipment.</p>
+<img width="1200" height="600" src="https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?fit=1200%2C600" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?w=1200 1200w, https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?w=1024 1024w" sizes="auto, (max-width: 1200px) 100vw, 1200px" /><p>Here’s how engineers can practice standards and incorporate modular building blocks in pick and place equipment.</p>
 <p>The post <a href="https://www.edn.com/standardization-and-modularization-in-pick-and-place-equipment/">Standardization and modularization in pick and place equipment</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 
@@ -27,7 +101,7 @@ date: 2025-06-06, from: EDN Blog
 
 date: 2025-06-05, from: EDN Blog
 
-<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The R&#038;S UDS series of DMMs offers 5.5-digit and 6.5-digit resolution, with the 6.5-digit model delivering a basic DC accuracy of 0.0075%.</p>
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>The R&#038;S UDS series of DMMs offers 5.5-digit and 6.5-digit resolution, with the 6.5-digit model delivering a basic DC accuracy of 0.0075%.</p>
 <p>The post <a href="https://www.edn.com/dmms-improve-accuracy-and-usability/">DMMs improve accuracy and usability</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

@@ -1,11 +1,231 @@
 ---
 title: food
-updated: 2025-06-06 06:09:07
+updated: 2025-06-06 14:08:00
 ---
 
 # food
 
-(date: 2025-06-06 06:09:07)
+(date: 2025-06-06 14:08:00)
+
+---
+
+## Tyrese Haliburton Eats the Same Meal Before Every Game
+
+date: 2025-06-06, from: Taste of Home
+
+<p>The Indiana Pacers point guard is a creature of habit on game days, and the NBA Finals will be no different.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/tyrese-haliburton-game-day-meal/">Tyrese Haliburton Eats the Same Meal Before Every Game</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/tyrese-haliburton-game-day-meal/>
+
+---
+
+## The Best Bars in London Right Now
+
+date: 2025-06-06, from: Bon Appetet
+
+From indie bars with mercurial menus to posh hotel watering holes, here are 7 spots to try. 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-best-bars-in-london>
+
+---
+
+## Walmart Is Opening This Iconic Fast-Food Chain in Select Stores
+
+date: 2025-06-06, from: Taste of Home
+
+<p>Your next trip to the big box store will soon be getting tastier.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/walmart-wienerschnitzel/">Walmart Is Opening This Iconic Fast-Food Chain in Select Stores</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/walmart-wienerschnitzel/>
+
+---
+
+## The Coffee Sprudgecast With An Unnatural Kopi Luwak
+
+date: 2025-06-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Cruelty free Kopi Luwak? 
+
+<br> 
+
+<https://sprudge.com/the-coffee-sprudgecast-with-an-unnatural-kopi-luwak-345963.html>
+
+---
+
+## Girl Beer, Mom Water, and the Rise of Identity-Based Drinks
+
+date: 2025-06-06, from: Bon Appetet
+
+By leaning into personality types, emerging beverage brands are trying to catch a vibe. 
+
+<br> 
+
+<https://www.bonappetit.com/story/girl-beer-mom-water-drinks-are-getting-weirdly-personal>
+
+---
+
+## Regular Coffee Consumption Linked To Healthy Aging In Women
+
+date: 2025-06-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Caffeinated coffee specifically was found to be incredibly beneficial. 
+
+<br> 
+
+<https://sprudge.com/regular-coffee-consumption-linked-to-healthy-aging-in-women-344393.html>
+
+---
+
+## The 5 Best Prepared Meal Delivery Services, Tested and Reviewed (2025)
+
+date: 2025-06-06, from: Bon Appetet
+
+We’ve tried the most popular services available nationwide—and these five are the best. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-prepared-meal-delivery-services>
+
+---
+
+## This Is What Ina and Jeffrey Garten Eat for Lunch Every Day
+
+date: 2025-06-06, from: Taste of Home
+
+<p>The couple that eats together, stays together.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ina-garten-jeffrey-garten-lunch/">This Is What Ina and Jeffrey Garten Eat for Lunch Every Day</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ina-garten-jeffrey-garten-lunch/>
+
+---
+
+## 9 Stanley Products Our Editors Tested—And Can’t Get Enough Of
+
+date: 2025-06-06, from: Taste of Home
+
+<p>From cups to coolers, these Stanley essentials get our stamp of approval. </p>
+<p>The post <a href="https://www.tasteofhome.com/collection/stanley-editors-picks/">9 Stanley Products Our Editors Tested—And Can&#8217;t Get Enough Of</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/stanley-editors-picks/>
+
+---
+
+## Tyler Smith’s Ritz Chicken & Potatoes
+
+date: 2025-06-06, from: Taste of Home
+
+There is nothing that gives you the feels of being at home more than a nostalgic meal you grew up with. This Ritz chicken and mashed potatoes recipe is just the thing! It's a simple baked chicken dish packed with lots of savory flavor. —Tyler Smith, Virginia Beach, Virginia 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tyler-smith-ritz-chicken-potatoes/>
+
+---
+
+## 9 Foods NHL Players Have Eaten Out of The Stanley Cup
+
+date: 2025-06-06, from: Taste of Home
+
+<p>No, not those Stanley cups. THE Stanley Cup.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/stanley-cup-food-drink-nhl/">9 Foods NHL Players Have Eaten Out of The Stanley Cup</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/stanley-cup-food-drink-nhl/>
+
+---
+
+## We Just Learned About Tina Fey’s Go-To Lunch Order
+
+date: 2025-06-06, from: Taste of Home
+
+<p>Much like the fictional Liz Lemon, it turns out Tina is drawn to a sandwich.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/tina-fey-lunch-order/">We Just Learned About Tina Fey&#8217;s Go-To Lunch Order</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/tina-fey-lunch-order/>
+
+---
+
+## Salt Is the Secret Ingredient Your Cocktails Are Missing
+
+date: 2025-06-06, from: Bon Appetet
+
+There’s a very good chance it’s the secret ingredient in those $17 drinks at the cool bar around the corner. 
+
+<br> 
+
+<https://www.bonappetit.com/story/make-your-cocktails-better-with-a-pinch-of-salt>
+
+---
+
+## This is Addison Rae’s Go-To Starbucks Order
+
+date: 2025-06-06, from: Taste of Home
+
+<p>It's a classic and refreshing combo.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/addison-rae-starbucks-order/">This is Addison Rae’s Go-To Starbucks Order</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/addison-rae-starbucks-order/>
+
+---
+
+## The Amazon Prime Benefit You’re Not Using—But Should Be
+
+date: 2025-06-06, from: Taste of Home
+
+<p>Amazon Prime offers many benefits, but did you know you can get free GrubHub+? The best part is that it's easy—and doesn't cost anything extra.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/amazon-prime-free-grubhub-plus/">The Amazon Prime Benefit You&#8217;re Not Using—But Should Be</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/amazon-prime-free-grubhub-plus/>
+
+---
+
+## Peanut Butter Balls
+
+date: 2025-06-06, from: Taste of Home
+
+Peanut butter balls are a bit like peanut butter cups, except better and fresher because they’re homemade! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/peanut-butter-balls/>
+
+---
+
+## Weekly Coffee News: Renowned Producer Pauses Operations + Tariff Exemption Petition
+
+date: 2025-06-06, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Daily-Coffee-News-photo-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Daily Coffee News photo" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Daily-Coffee-News-photo-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Daily-Coffee-News-photo-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Daily-Coffee-News-photo-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Daily-Coffee-News-photo-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Daily-Coffee-News-photo.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Renowned Colombian Coffee Producer La Palma y El Tucán... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/06/weekly-coffee-news-renowned-producer-pauses-operations-tariff-exemption-petition/>
 
 ---
 
@@ -165,7 +385,7 @@ On this episode of Dinner SOS, the BA Bake Club is back with a recipe that combi
 
 date: 2025-06-05, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Vietnam-final-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Vietnam final" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Vietnam-final-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Vietnam-final-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Vietnam-final-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Vietnam-final-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Vietnam-final.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee production in Vietnam is forecast to reach the equivalent of 31 million 60-kilogram bags in the 2025/26 market year (October to September), up from 29 million in the previous... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Vietnam-final-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Vietnam final" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Vietnam-final-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Vietnam-final-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Vietnam-final-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Vietnam-final-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Vietnam-final.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee production in Vietnam is forecast to reach the equivalent of 31 million 60-kilogram bags in the 2025/26 market year (October to September), up from 29 million in the previous... 
 
 <br> 
 
@@ -379,7 +599,7 @@ date: 2025-06-04, from: The Sprudge
 
 date: 2025-06-04, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Indonesia final" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Indonesia’s coffee production for the 2025/26 market year (April to March) is forecast at the equivalent of 11.3 million 60-kilogram bags, up 5% from the prior year, according to the... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Indonesia final" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Indonesia-final.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Indonesia’s coffee production for the 2025/26 market year (April to March) is forecast at the equivalent of 11.3 million 60-kilogram bags, up 5% from the prior year, according to the... 
 
 <br> 
 

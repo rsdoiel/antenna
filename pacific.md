@@ -1,11 +1,113 @@
 ---
 title: pacific
-updated: 2025-06-06 06:08:59
+updated: 2025-06-06 14:07:53
 ---
 
 # pacific
 
-(date: 2025-06-06 06:08:59)
+(date: 2025-06-06 14:07:53)
+
+---
+
+## Urgent action needed to protect corals fleeing warming seas
+
+date: 2025-06-06, from: University of Hawaiʻi News
+
+<p>Coral reefs are shifting toward cooler waters, but without urgent climate action, most won’t survive the century.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/06/action-to-protect-corals-fleeing-warming-seas/">Urgent action needed to protect corals fleeing warming seas</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/06/action-to-protect-corals-fleeing-warming-seas/>
+
+---
+
+## From lab coats to ledgers: An unexpected path to financial planning
+
+date: 2025-06-06, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa grad finds purpose helping local families.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/06/nishida-alumni-path-to-financial-planning/">From lab coats to ledgers: An unexpected path to financial planning</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/06/nishida-alumni-path-to-financial-planning/>
+
+---
+
+## School year recap: A million thanks to those who make a difference
+
+date: 2025-06-06, from: Pacific Island Times
+
+  Technology, I know, is the way of the world. However, in my day, student planners were effective. With fragile power systems and multiple family dwellings, it would be good to return to the hard copy way of connecting and communicating.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/school-year-recap-a-million-thanks-to-those-who-make-a-difference>
+
+---
+
+## Planning for Retirement INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-06-06, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists are: Percy Ihara, Certified Senior Advisor Travis Motosue, Financial Benefits Insurance Ee Soo Paik, Leader of Kupuna Strategy &#38; Services, YMCA Hawaiʻi Derrick Ariyoshi, Elderly Affairs Division, City [&#8230;]</p>
+<p>The post <a href="https://www.pbshawaii.org/planning-for-retirement-insights-on-pbs-hawai%ca%bbi/">Planning for Retirement &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/planning-for-retirement-insights-on-pbs-hawai%ca%bbi/>
+
+---
+
+## Examing Hawaiʻi Job Market INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-06-06, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists are: tba</p>
+<p>The post <a href="https://www.pbshawaii.org/examing-hawai%ca%bbi-job-market-insights-on-pbs-hawai%ca%bbi/">Examing Hawaiʻi Job Market &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/examing-hawai%ca%bbi-job-market-insights-on-pbs-hawai%ca%bbi/>
+
+---
+
+## Contractor finally selected to build Guam's long-delayed school project 
+
+date: 2025-06-06, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Department of Public Works will begin negotiating a contract with Core Tech International for the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/contractor-finally-selected-to-build-guam-s-long-delayed-school-project>
+
+---
+
+## NOTICE OF AVAILABILITY OF REVISED DRAFT ENVIRONMENTAL IMPACT STATEMENT AND PUBLIC MEETINGS
+
+date: 2025-06-06, from: Pacific Island Times
+
+ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/notice-of-availability-of-revised-draft-environmental-impact-statement-and-public-meetings>
+
+---
+
+## US military seeks to boost Tinian training capabilities, proposes to build two live-fire ranges
+
+date: 2025-06-06, from: Pacific Island Times
+
+“The development and operation of a realistic and instrumented training environment on Tinian would enable forward-deployed U.S. Armed Forces to meet evolving operational training requirements and support U.S. training with allied nations, changes in U.S. force structure and geographic repositioning of forces,” the department said. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/military-eyes-more-exercises-on-tinian>
 
 ---
 
@@ -489,6 +591,18 @@ date: 2025-06-05, from: Pacific Island Times
 
 ---
 
+## How to upgrade Dad's grooming game for Father's Day
+
+date: 2025-06-05, updated: 2025-06-05, from: Marianas Variety
+
+(BPT) - Content sponsored and provided by Walgreens. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/how-to-upgrade-dads-grooming-game-for-fathers-day/article_185dddd8-0d02-5549-adda-73afa2340ba5.html>
+
+---
+
 ## Speed limit along Mamalahoa Highway in Kona to be reduced
 
 date: 2025-06-05, from: Hawaii Tribune Harold
@@ -503,6 +617,18 @@ date: 2025-06-05, from: Hawaii Tribune Harold
 
 ---
 
+## Navigating the Digital World: Protecting Your Safety Online
+
+date: 2025-06-05, updated: 2025-06-05, from: Marianas Variety
+
+(BPT) - Technology is integral to Americans' daily lives — at work, home, school and everywhere in between. They can't live without it and may not even realize how much time is spent on their phones, laptops and tablets. Deloitte's Center for Technology, Media &amp; Telecommunications surveyed U.S. consumers and found that the average American spends eight hours a day online — half of waking hours. That equates to almost 3,000 hours a year. While all that time online can deliver positive experiences, 44% of those surveyed admit they struggle to limit their screen time to a level they are comfortable with, up from 38% year-over-year. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/navigating-the-digital-world-protecting-your-safety-online/article_1a05d542-2ca8-5b5e-bdae-0ec14437543b.html>
+
+---
+
 ## Films foster local talents
 
 date: 2025-06-05, from: Marshal Islands Journal
@@ -514,6 +640,18 @@ date: 2025-06-05, from: Marshal Islands Journal
 <br> 
 
 <https://marshallislandsjournal.com/films-foster-local-talents/>
+
+---
+
+## Discover 10 fun facts about this summer's new FIFA Club World Cup coming to the United States
+
+date: 2025-06-05, updated: 2025-06-05, from: Marianas Variety
+
+(BPT) - On June 14, the inaugural FIFA Club World Cup™ will kick off at Hard Rock Stadium in Miami, Florida. The new tournament is coming to the U.S. and setting the stage for historic matchups between dozens of the world's most elite club teams that you won't want to miss. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/travel/discover-10-fun-facts-about-this-summers-new-fifa-club-world-cup-coming-to-the/article_148c5bc9-7bbf-54e8-99d4-b9fe72538a84.html>
 
 ---
 

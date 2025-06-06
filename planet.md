@@ -1,11 +1,251 @@
 ---
 title: planet
-updated: 2025-06-06 06:08:56
+updated: 2025-06-06 14:07:50
 ---
 
 # planet
 
-(date: 2025-06-06 06:08:56)
+(date: 2025-06-06 14:07:50)
+
+---
+
+## Watch: Ex-soldiers and a baker among new garda recruits
+
+date: 2025-06-06, from: RTÉ News
+
+Today, 120 new gardaí graduated from the Garda College in Templemore, bringing the strength of the force to over 14,300 sworn members. RTÉ News spoke to three of them about their hopes for their new careers. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0606/1517156-watch-ex-soldiers-and-a-baker-among-new-garda-recruits/>
+
+---
+
+## ASTI members reject Leaving Cert reform proposals
+
+date: 2025-06-06, from: RTÉ News
+
+ASTI members have voted to reject proposals aimed at enabling Leaving Cert reforms, and have also endorsed industrial action. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0606/1517160-asti-members-reject-leaving-cert-reforms/>
+
+---
+
+## Recap: Republic of Ireland 1-1 Senegal
+
+date: 2025-06-06, from: RTÉ News
+
+Read how it all unfolded as Ireland and Senegal played out a draw in their Aviva Stadium friendly. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0606/1517101-republic-of-ireland-v-senegal-updates/>
+
+---
+
+## Two jailed for role in 'industrial scale' illegal dumping
+
+date: 2025-06-06, from: RTÉ News
+
+Two company directors in Northern Ireland have been jailed for their roles in running one of the largest illegal dumps in Europe. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0606/1517140-pair-jailed-for-roles-in-one-of-europes-largest-dumps/>
+
+---
+
+## Ex-girlfriend 'Jane' continues testifying at Combs trial
+
+date: 2025-06-06, from: RTÉ News
+
+A former girlfriend has been giving testimony, tearful at times, for a second day at the trial of Sean "Diddy" Combs in the United States. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0606/1517137-diddy-court-case/>
+
+---
+
+## Podcast: Nursing home care issues, the Trump-Musk breakup
+
+date: 2025-06-06, from: RTÉ News
+
+In the latest episode of Behind the Story, Fran and Katie discuss the RTÉ Investigates documentary into care in nursing homes and talk about the public breakup between Donald Trump and Elon Musk. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0606/1517131-behind-the-story-nursing-homes-trump/>
+
+---
+
+## Man who murdered partner jailed for at least 19 years
+
+date: 2025-06-06, from: RTÉ News
+
+A 36-year-old man who was repeatedly violent to his 32-year-old partner before killing her has been jailed for a minimum of 19 years. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0606/1517136-melendez-murder-lisburn/>
+
+---
+
+## Pope receives President of the European Council
+
+date: 2025-06-06, from: Vatican News
+
+
+                    <p>At the heart of the meeting at the Secretariat of State was the proposal to establish a global fund to eliminate world hunger and promote the development of the poorest countries, as well as the international situation, including the conflicts in Ukraine and Gaza.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-president-costa-euorpean-council-audience.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-president-costa-euorpean-council-audience.html>
+
+---
+
+## Museums often present Indigenous cultures as 'frozen in time.' Artist Kent Monkman on shifting that narrative
+
+date: 2025-06-06, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7554265.1749220569!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kent-monkman-so-surreal.jpg' alt='A man looks at the camera as he stands in front of a large painting featuring a naked man on a rocky short helping people from the water.' width='620' height='349' title='Cree artist Kent Monkman in front of his painting, Welcoming the Newcomers, as part of the installation mistikôsiwak (Wooden Boat People) in 2019.'/><p>‘You can’t really decolonize [museums]. But you can change the conversation about what’s inside them’</p> 
+
+<br> 
+
+<https://www.cbc.ca/documentaries/museums-often-present-indigenous-cultures-as-frozen-in-time-artist-kent-monkman-on-shifting-that-narrative-1.7554245?cmp=rss>
+
+---
+
+## A knighthood is coming for soon-to-be Sir David Beckham, according to media reports
+
+date: 2025-06-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7554833.1749237719!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/italy-fashion-s-s-25-boss.jpg' alt='A man in a suit jacket and black turtleneck stands in front of a white backdrop. ' width='620' height='349' title='Former soccer star David Beckham attends the Boss Spring Summer 2025 fashion show, that was presented in Milan, Italy, Wednesday, Sept. 18, 2024.'/><p>David Beckham, the former England soccer captain who has been an ambassador for the UN children's fund for two decades, will receive a knighthood in next week's honours list from King Charles III, according to U.K. media reports Friday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/david-beckham-knighthood-1.7554824?cmp=rss>
+
+---
+
+## Tsleil-Waututh reach tenative deal to acquire Hastings Racecourse casino in Vancouver
+
+date: 2025-06-06, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.4056040.1749238790!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/vlt-debate.jpg' alt='A man&apos;s head is silhouetted in the light of a VLT terminal.' width='620' height='349' title='The Atlantic Lottery Corporation is required to limit bets on physical video lottery terminals to $2.50 per spin in New Brunswick. It argues those rules do not apply to its virtual New Brunswick casino.'/><p>The Tsleil-Waututh Nation says it has reached a preliminary deal to purchase the casino business and related real estate at Hastings Racecourse and Casino in Vancouver from Great Canadian Entertainment, the country’s largest gaming and hospitality company.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/tsleil-waututh-hastings-racecourse-1.7554815?cmp=rss>
+
+---
+
+## Boy lost balance before falling from cliff edge - inquest
+
+date: 2025-06-06, from: RTÉ News
+
+A 12-year-old boy lost his balance after slipping in a puddle close to the edge of the Cliffs of Moher before falling over the edge to his death, an inquest has heard as it returned a verdict of accidental death. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0606/1517116-inquest-death-cliffs/>
+
+---
+
+## Nunavik's first in-region university program aims to recruit more teachers
+
+date: 2025-06-06, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7554611.1749242236!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nunavik-teacher.jpg' alt='Ulaayu Pilurtuut in front of whiteboard' width='620' height='349' title='Ulaayu Pilurtuut teaches a group of Kativik Ilisarniliriniq teachers, on-the-job, during the 2024 Summer Institute offered in partnership with McGill University. '/><p>The region’s school board, Kativik Ilisarniliriniq, has received new funding from the province to launch a certificate in education for First Nations and Inuit, in partnership with McGill University. It's an effort to get more teachers on board.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/nunavik-first-university-program-1.7554588?cmp=rss>
+
+---
+
+## International investigation led to arrest of man charged with breaking Russia sanctions: RCMP
+
+date: 2025-06-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7136279.1748637848!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-ukraine.jpg' alt='A soldier crouches behind a drone in a field.' width='620' height='349' title='This handout photo taken from video released by Russian Defense Ministry Press Service on Monday, Aug. 8, 2022, shows a Russian serviceman preparing a Orlan-10 reconnaissance drone to launch at an undisclosed location. (Russian Defense Ministry Press Service photo via AP)'/><p>The RCMP say the arrest of a Russian national who is alleged to have illegally exported goods to Russia came as a result of a transnational investigation, involving a number of ports outside of Canada.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/rcmp-investigation-man-charged-violating-sanctions-russia-1.7554663?cmp=rss>
+
+---
+
+## Gaza: The weapon of food
+
+date: 2025-06-06, from: Vatican News
+
+
+                    <p>The humanitarian crisis in Gaza has reached a critical point, with food aid becoming a tool of political strategy rather than relief. The failure of the Gaza Humanitarian Foundation, a joint Israeli-American initiative, highlights the collapse of efforts to secure a ceasefire and exposes deeper tensions over control, legitimacy, and the future governance of the Strip.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/gaza-israel-hamas-war-food-weapon-humanitarian-political-cetera.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/gaza-israel-hamas-war-food-weapon-humanitarian-political-cetera.html>
+
+---
+
+## ISPCC joins project to tackle online child sexual abuse
+
+date: 2025-06-06, from: RTÉ News
+
+The ISPCC has announced its participation in a global project to prevent and respond to online child sexual exploitation and abuse 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0606/1517102-ispcc-joines-safe-online-global-project/>
+
+---
+
+## Miriam O'Callaghan to publish her memoir this October
+
+date: 2025-06-06, from: RTÉ News
+
+Journalist and broadcaster Miriam O'Callaghan has said she is "really nervous" about telling her life story as she announced the publication of her memoir later this year. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0606/1517095-miriam-ocallaghan-to-release-memoir-this-october/>
+
+---
+
+## Unions seek new owner for Wellman International in Cavan
+
+date: 2025-06-06, from: RTÉ News
+
+Unions representing workers at Wellman International in Co Cavan have said that a new owner for the company must be found amid fears of job cuts at the manufacturing and recycling business. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0606/1517096-wellman-cavan/>
+
+---
+
+## Former Israeli PM Olmert: ‘We need not just a truce, but an end to the war'
+
+date: 2025-06-06, from: Vatican News
+
+
+                    <p>In a conversation with Vatican Media, former Israeli Prime Minister Ehud Olmert expresses his opinion that a truce for Gaza is not sufficient and that there is no viable path to coexistence other than a two-state solution.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/ehud-olmert-interview-cetera-war-strategy-politics-2state-soluti.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/ehud-olmert-interview-cetera-war-strategy-politics-2state-soluti.html>
 
 ---
 
@@ -49,6 +289,30 @@ The Ocean is in deep crisis. Factors such as acidification, declining fish stock
 
 ---
 
+## Green gold beneath the waves: How seaweed – and one man’s obsession – could save the world
+
+date: 2025-06-06, from: United Nations, Climate Change
+
+As world leaders gear up for the Third UN Ocean Conference in Nice, one policy expert is making waves with an ancient marine organism he believes could help feed the planet, clean the air, and transform coastal economies.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164131>
+
+---
+
+## US decision to sanction ICC judges ‘deeply corrosive’ to justice: UN rights chief
+
+date: 2025-06-06, from: United Nations, Top Stories
+
+The US Government’s announcement of sanctions against four judges of the International Criminal Court (ICC) on Friday has been condemned by Volker Türk, the UN High Commissioner for Human Rights, as “deeply corrosive of good governance and the due administration of justice.” 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164136>
+
+---
+
 ## Satchwell murder investigation will be reviewed - Harris
 
 date: 2025-06-06, from: RTÉ News
@@ -58,6 +322,30 @@ The investigation into the murder of Tina Satchwell will be reviewed, according 
 <br> 
 
 <https://www.rte.ie/news/2025/0606/1517075-tina-satchwell-murder-review/>
+
+---
+
+## Satchwell, Gaine murder inquiries to be reviewed - Harris
+
+date: 2025-06-06, from: RTÉ News
+
+Garda Commissioner Drew Harris has confirmed reviews of the investigations into the murders of Tina Satchwell and Michael Gaine. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0606/1517075-tina-satchwell-murder-review/>
+
+---
+
+## New film classification guidelines for Ireland revealed
+
+date: 2025-06-06, from: RTÉ News
+
+The Irish Film Classification Office has published its revised and updated Classification Guidelines, with changes in how depictions of drugs, bullying, self-harm, and anti-social behaviour are classified. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0606/1517070-new-film-classification-guidelines-for-ireland-revealed/>
 
 ---
 
@@ -101,15 +389,39 @@ date: 2025-06-06, from: RTÉ News
 
 ---
 
+## Unpublished CHI report seems to show deep-rooted issues
+
+date: 2025-06-06, from: RTÉ News
+
+It has not been a good couple of months for Children's Health Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0606/1517057-chi-report/>
+
+---
+
 ## Protests as Muslim community marks Eid al-Adha in Dublin
 
 date: 2025-06-06, from: RTÉ News
 
-Over 300 members of the Muslim community have gathered at Croke Park in Dublin to celebrate Eid al-Adha. 
+Over 700 members of the Muslim community have gathered at Croke Park in Dublin to celebrate Eid al-Adha. 
 
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0606/1517055-eid-dublin/>
+
+---
+
+## Police investigating if homophobia played a role in King of the Hill actor's killing
+
+date: 2025-06-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7554181.1749217246!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jonathan-joss-shooting-what-to-know.jpg' alt='A man with dark hair blowing in his face and wearing a black leather jacket is shown in front of several microphones. Behind him is a house in ruins, with the blackened inside visible past his shoulder. ' width='620' height='349' title='In this image taken from video, Jonathan Joss, an actor best known for his voice work on the animated television series “King of the Hill,” talks to reporters following a fire at his San Antonio, Texas, home on Thursday, Jan. 23, 2025. '/><p>Investigators are looking into whether the sexual orientation of King of the Hill voice actor Jonathan Joss played a role in his shooting death in Texas, authorities said Thursday, walking back a previous statement about the potential motive.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/jonathan-joss-homophobia-shooting-1.7554172?cmp=rss>
 
 ---
 
@@ -225,11 +537,11 @@ Kneecap, the Belfast rap trio's acclaimed Irish-language origin movie, has won t
 
 ---
 
-## 64 out of 2,700 approved CHI procedures progressed
+## NTPF seeks assurances from hospitals over requirements
 
 date: 2025-06-06, from: RTÉ News
 
-Just 64 in-patient and day case procedures at Children's Health Ireland hospitals, out of a total of 2,700 which were approved for this year, have been progressed to date, a review of NTPF funding has shown. 
+The National Treatment Purchase Fund has written to all public hospitals that it sends funding to, seeking confirmation that all work done is carried out in line with its requirements. 
 
 <br> 
 
@@ -246,6 +558,30 @@ date: 2025-06-06, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/mideast-war-israel-hamas-ghf-sites-1.7554073?cmp=rss>
+
+---
+
+## Israel 'operated clans' in Gaza, Netanyahu says, after being accused of arming Palestinian militias
+
+date: 2025-06-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7554860.1749238769!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg' alt='Palestinians carry boxes and bags containing food and humanitarian aid packages.' width='620' height='349' title='Palestinians carry boxes and bags containing food and humanitarian aid packages delivered by the Gaza Humanitarian Foundation, a U.S.-backed organization approved by Israel, in Khan Younis, southern Gaza Strip, on Thursday, May 29, 2025. (AP Photo/Abdel Kareem Hana)'/><p>Prime Minister Benjamin Netanyahu said Israel has "operated clans" in Gaza in a video published on social media Thursday after an opposition leader accused him of arming Palestinian militias in order to bolster opposition to Hamas. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/mideast-war-israel-hamas-ghf-sites-netanyahu-1.7554073?cmp=rss>
+
+---
+
+## 2 former athletes from Garden River First Nation to be inducted in Canada Sports Hall of Fame
+
+date: 2025-06-06, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6043508.1725384055!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nolan-ted-200115.jpg' alt='Ted Nolan wearing a suit and tie on a hockey bench at an NHL game' width='620' height='349' title='Despite some recent initiatives by the NHL to tout growing diversity within hockey, Ted Nolan says not much has actually changed. To truly combat racism, Nolan says changes are need not just at the grassroots level, but in the upper echelons of the sport. '/><p>Two former athletes from the Garden River First Nation in northeastern Ontario will be inducted into the Canada Sports Hall of Fame this year.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/sudbury/garden-river-sports-hall-of-fame-1.7553701?cmp=rss>
 
 ---
 
@@ -273,11 +609,11 @@ When Donald Trump met privately with White House officials on Wednesday, there w
 
 ---
 
-## 'Issues' in HIQA approach to home inspections - Martin
+## 'Issues' in HIQA approach to home inspections - Taoiseach
 
 date: 2025-06-06, from: RTÉ News
 
-Taoiseach Micheál Martin has said that HIQA's regulatory framework will have to be examined in the light of revelations in the RTÉ Investigates documentary on nursing homes, which he described as horrific, shocking and unacceptable. 
+Taoiseach Micheál Martin has said that HIQA's regulatory framework will have to be examined in light of revelations in the RTÉ Investigates documentary on nursing homes, which he described as horrific, shocking and unacceptable. 
 
 <br> 
 
@@ -285,11 +621,11 @@ Taoiseach Micheál Martin has said that HIQA's regulatory framework will have to
 
 ---
 
-## 3 killed in Kyiv as Ukraine once again bombarded by Russian missiles and drones
+## Renewed attacks by Russia kill at least 4 in Ukraine, officials say
 
 date: 2025-06-06, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7554060.1749200759!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-russia-ukraine-war.jpg' alt='An explosion is seen over a dark Kyiv skyline.' width='620' height='349' title='An explosion is seen after a Russian air strike on Kyiv, Ukraine, on Friday, June 6, 2025. '/><p>A nighttime missile and drone attack on Ukraine killed at least four people and injured 20 others in Kyiv, city mayor Vitali Klitschko said Friday, as Russia targeted at least six regions across the country with 407 drones and 44 missiles in one of its largest co-ordinated attacks of the three-year war.</p> 
+<img src='https://i.cbc.ca/1.7554060.1749200759!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-russia-ukraine-war.jpg' alt='An explosion is seen over a dark Kyiv skyline.' width='620' height='349' title='An explosion is seen after a Russian air strike on Kyiv, Ukraine, on Friday, June 6, 2025. '/><p>Russia struck Ukraine with a thunderous aerial bombardment overnight, further dampening hopes that the warring sides could reach a peace deal anytime soon days after Kyiv embarrassed the Kremlin with a surprising drone attack on military airfields deep inside Russia.</p> 
 
 <br> 
 
@@ -318,6 +654,18 @@ Russia carried out a barrage of drone strikes across Ukraine overnight, killing 
 <br> 
 
 <https://www.rte.ie/news/world/2025/0606/1516989-russia-ukraine/>
+
+---
+
+## Three drones targeting Moscow shot down, Russia says
+
+date: 2025-06-06, from: RTÉ News
+
+Russian air defence forces have shot down three drones attempting to attack Moscow, according to the capital's Mayor Sergei Sobyanin. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0606/1516989-russia-ukraine/>
 
 ---
 
@@ -357,6 +705,18 @@ date: 2025-06-06, from: CBC, Indigenious News
 
 ---
 
+## Why Quebec's forestry reform is facing backlash from Indigenous groups, conservationists
+
+date: 2025-06-06, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7553748.1749193660!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/quebec-boreal-forest.jpg' alt='A general view shows Trembling Aspen (C) and Balsam Fir tree species of the Canadian boreal forest in the La Haute-Côte-Nord municipality west of Baie-Comeau, Quebec, on August 25, 2022. ' width='620' height='349' title='Quebec&apos;s forests stretch over 900 000 square kilometres. About 92 per cent of them are public and managed by the government. '/><p>Minister of Natural Resources and Forests Maïté Blanchette Vézina tabled Bill 97 in the spring with the hopes of boosting the regional forestry economy and making the industry more competitive. But different actors say she's missed the mark.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/montreal/quebec-bill-97-forestry-reform-1.7553714?cmp=rss>
+
+---
+
 ## Trump not interested in talking to Musk, says official
 
 date: 2025-06-06, from: RTÉ News
@@ -369,11 +729,11 @@ US President Donald Trump is not interested in talking with his former ally Elon
 
 ---
 
-## GHF says all aid distributions sites in Gaza closed
+## Overcrowding forces halt to Gaza aid distribution
 
 date: 2025-06-06, from: RTÉ News
 
-A US- and Israeli-backed group handing out aid in Gaza said all its distribution sites were closed until further notice, urging residents to stay away from these venues "for their safety" after a series of deadly shootings. 
+Aid distribution in Gaza was halted after the US and Israeli-backed Gaza Humanitarian Foundation (GHF) said overcrowding had made it unsafe to continue operations, in the latest disruption to its troubled relief effort. 
 
 <br> 
 
@@ -426,6 +786,18 @@ The calm before the storm; Ireland are about to ease out of their season, while 
 <br> 
 
 <https://www.rte.ie/sport/soccer/2025/0605/1516977-ireland-seek-to-get-balance-right-against-senegal/>
+
+---
+
+## Inuvik celebrates 41st anniversary of Inuvialuit Final Agreement
+
+date: 2025-06-05, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/46b0fba4-731a-4e87-8a9e-0e88e056d861,1749170443424/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='People prepare plates with food.' width='620' height='349' title=''/><p>The Inuvialuit Final Agreement was the second land claim signed in Canada. Communities across the Beaufort Delta are celebrating the anniversary. Dez Loreen stopped by the festivies in Inuvik.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6787552?cmp=rss>
 
 ---
 
@@ -605,7 +977,7 @@ The judge overseeing the US federal trial of fallen hip-hop giant Sean 'Diddy' C
 
 date: 2025-06-05, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7553341.1749147494!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/transiting-past-the-antarctic-circle.jpg' alt='Dark water with a small &quot;field&quot; of broken chunks on the right and bright white glaciers on the left and in the distance against a mid-grey sky.' width='620' height='349' title='Transiting past the Antarctic Circle aboard HMCS Margaret Brooke'/><p>In February, a CBC News team headed by international climate correspondent Susan Ormiston accompanied scientists aboard the HMCS Margaret Brooke on the first all-Canadian expedition to Antarctic. Now, you can see some of the stunning footage they gathered in a special hour-long program that airs on YouTube Thursday night.</p> 
+<img src='https://i.cbc.ca/1.7553341.1749226349!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/transiting-past-the-antarctic-circle.jpg' alt='Dark water with a small &quot;field&quot; of broken chunks on the right and bright white glaciers on the left and in the distance against a mid-grey sky.' width='620' height='349' title='Transiting past the Antarctic Circle aboard HMCS Margaret Brooke'/><p>In February, a CBC News team headed by international climate correspondent Susan Ormiston accompanied scientists aboard the HMCS Margaret Brooke on the first all-Canadian expedition to Antarctic. Now, you can see some of the stunning footage they gathered in a special hour-long program.</p> 
 
 <br> 
 
@@ -814,6 +1186,18 @@ date: 2025-06-05, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/politics/liberal-border-bill-asylum-immigration-1.7553227?cmp=rss>
+
+---
+
+## Inside the MMF's wildfire emergency command centre
+
+date: 2025-06-05, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/09a2aa24-1bc6-4e51-a25b-d25001d35925,1749142623118/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Woman stands in front of table cover with clothing donations' width='620' height='349' title=''/><p>We get a first-hand look at how the Manitoba Métis Federation's emergency centre in Winnipeg is helping wildfire evacuees from northern Manitoba with clothing, supplies and support.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6785853?cmp=rss>
 
 ---
 
@@ -1365,6 +1749,18 @@ date: 2025-06-05, from: CBC, Indigenious News
 
 ---
 
+## 3 things I tried for the first time as an Inuk teen visiting the South
+
+date: 2025-06-05, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/69d87545-972f-4e3c-ab58-4a4e4391ff6e,1749061570977/full/max/0/default.jpg?im=Crop%2Crect%3D%28659%2C153%2C600%2C337%29%3BResize%3D%28620%29' alt='A teen boy prepares to eat a spoonful of food.' width='620' height='349' title='Thomas Kimiksana, an Inuk teen from Ulukhaktok, N.W.T., tried a few things for the first time during his school trip South.'/><p>Thomas Kimiksana is an Inuk teen from Ulukhaktok, N.W.T. As part of a school project, he and five other students travelled to museums in Yellowknife, Edmonton and Ottawa to learn more about Inuit culture. Along the way, he got to try some things that aren’t as easily accessible back home.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6785194?cmp=rss>
+
+---
+
 ## Accused mushroom killer says she lied to police
 
 date: 2025-06-05, from: RTÉ News
@@ -1470,6 +1866,18 @@ US President Donald Trump signed a new travel ban targeting 12 countries includi
 <br> 
 
 <https://www.rte.ie/news/us/2025/0605/1516783-us-travel-ban/>
+
+---
+
+## Métis Nation - Saskatchewan opens up Batoche Festival Grounds to northern evacuees
+
+date: 2025-06-05, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/21bf2045-2ed8-4fba-b4b9-5cdaeb24ae35,1737656349455/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Saskatoon Morning logo with host Stephanie Massicotte on blue striped background' width='620' height='349' title=''/><p>This week MN - S opened the Batoche Festival Grounds to northern evacuees with a camper or tent. Host Stephanie Massicotte speaks with Glen McCallum for an update on the site.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6786754?cmp=rss>
 
 ---
 
@@ -3870,7 +4278,7 @@ The number of people reported to have been injured in the Liverpool victory para
 
 ## World News in Brief: Guterres condemns antisemitic attacks, ILO to debate pros and cons of working online, Sudan, Ukraine updates
 
-date: 2025-06-02, from: United Nations, Economic Development
+date: 2025-06-02, from: United Nations, Top Stories
 
 The UN Secretary-General on Monday reinforced his stand against all acts of antisemitism following the horrific attack in Boulder, Colorado, at the weekend and vandalism in France targeting Jewish landmarks. 
 

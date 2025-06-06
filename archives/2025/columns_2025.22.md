@@ -1,11 +1,196 @@
 ---
 title: columns
-updated: 2025-06-06 06:09:01
+updated: 2025-06-06 14:07:55
 ---
 
 # columns
 
-(date: 2025-06-06 06:09:01)
+(date: 2025-06-06 14:07:55)
+
+---
+
+## Friday Squid Blogging: Squid Run in Southern New England
+
+date: 2025-06-06, updated: 2025-06-04, from: Bruce Schneier blog
+
+<p>Southern New England is having the <a href="https://onthewater.com/best-squid-run-in-years-in-southern-new-england">best squid run</a> in years.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-squid-run-in-southern-new-england.html>
+
+---
+
+## CIRP Survey Suggests 78 Percent of All Apple Customers Own an iPad
+
+date: 2025-06-06, updated: 2025-06-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/06/04/ipad-is-a-much-bigger-hit-than-you-probably-thought/>
+
+---
+
+## June 5, 2025
+
+date: 2025-06-06, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165366541/9cd3fd06202bbe53651f3a262156d31c.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165366541/9cd3fd06202bbe53651f3a262156d31c.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-5-2025-e79>
+
+---
+
+## Hearing on the Federal Government and AI
+
+date: 2025-06-06, updated: 2025-06-06, from: Bruce Schneier blog
+
+<p>On Thursday I testified before the House Committee on Oversight and Government Reform at a hearing titled &#8220;<a href="https://oversight.house.gov/hearing/the-federal-government-in-the-age-of-artificial-intelligence/">The Federal Government in the Age of Artificial Intelligence</a>.&#8221;</p>
+<p>The other speakers mostly talked about how cool AI was&#8212;and sometimes about how cool their own company was&#8212;but I was asked by the Democrats to specifically talk about DOGE and the risks of exfiltrating our data from government agencies and feeding it into AIs.</p>
+<p>My written testimony is <a href="https://oversight.house.gov/wp-content/uploads/2025/06/Schneier-Written-Testimony.pdf">here</a>. Video of the hearing is <a href="https://www.youtube.com/watch?v=wKkk-uWi7HM">here</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/06/hearing-on-the-federal-government-and-ai.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-06, from: Miguel de Icaza Mastondon feed)
+
+<p>Cute skeleton app that embeds Godot into a native iOS app:</p><p><a href="https://github.com/xander-carruth/swiftgodotkit-demo/tree/main" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/xander-carruth/swif</span><span class="invisible">tgodotkit-demo/tree/main</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114637450290504496>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-06, from: Miguel de Icaza Mastondon feed)
+
+<p>Due to popular demand, we made the web exports easy to download:</p><p><a href="https://blog.la-terminal.net/export-to-itch-downloadable-exports-now-available/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/export-to</span><span class="invisible">-itch-downloadable-exports-now-available/</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114637319461385110>
+
+---
+
+## Fediforum report
+
+date: 2025-06-06, from: Dave Winer's Scripting News
+
+<p><i>This was an email I sent to one of the people I'm working with at Automattic, and realized I was actually writing a blog post. </i></p>
+<p>I was watching on the FediForum session yesterday, and heard all this stuff about Bluesky and Mastodon, but these are products that are poorly prepared for the "open social web" -- and imho they won't get there. But WordPress is already there. </p>
+<p>I think some of the products are good, btw -- I hadn't seen Surf, it's basically a feed aggregator that can get input from Bluesky and Mastodon. I don't think they're using their RSS support though. Not adequate. But WordPress RSS is fine. I made an improvement to the Scripting News RSS to add an &lt;image> element that works like the one on a WordPress site. Now my posts can show up in the timeline via RSS. </p>
+<p>That's the key to what we're doing. Reading and writing, with the UI of a twitter-like product, all built on RSS, with the content also appearing on the network WordPress has defined. I see this as huge. </p>
+<p>Obviously this needs to be a blog post. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/06/160331.html?title=fediforumReport>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-06, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/06/08/dilbert.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm totally overwhelmed by the new capabilities of all the ChatGPT-likes out there. I can't imagine turning my whole workspace over to them, and I certainly couldn't do it to two of them. I think I might recognize some of the applications based on the scripting functionality we developed in apps on the Mac and Windows in the 90s with <a href="http://frontier.userland.com">Frontier</a>. Today I might have one of the largest public codebases written by one human that hasn't yet been touched by an AI. Maybe it could be some kind of artifact from ancient times? Like, last week? 
+
+<br> 
+
+<http://scripting.com/2025/06/06.html#a154459>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-06, from: Miguel de Icaza Mastondon feed)
+
+<p>In Xogot, I first tried a sheet to display my MCP chat window, but popups from the app would conflict with it and auto dismiss.</p><p>A dedicated tab works, but when the UI switches tabs, it can get confusing</p><p>Started to implement a floating window instead</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114637024028063551>
+
+---
+
+## Test post
+
+date: 2025-06-06, from: Dave Winer's Scripting News
+
+<p>A list of ten random country names</p>
+<ol>
+<li>Brazil</li>
+<li>Bangladesh </li>
+<li>Chile</li>
+<li>Ireland</li>
+<li>Guatemala</li>
+<li>Kenya</li>
+<li>Morocco</li>
+<li>Peru</li>
+<li>Portugal</li>
+<li>Thailand</li>
+</ol>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/06/144807.html?title=testPost>
+
+---
+
+## Report on the Malicious Uses of AI
+
+date: 2025-06-06, updated: 2025-06-06, from: Bruce Schneier blog
+
+<p>OpenAI just <a href="https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-june-2025/">published</a> its annual report on malicious uses of AI.</p>
+<blockquote><p>By using AI as a force multiplier for our expert investigative teams, in the three months since our last report we’ve been able to detect, disrupt and expose abusive activity including social engineering, cyber espionage, deceptive employment schemes, covert influence operations and scams. </p>
+<p>These operations originated in many parts of the world, acted in many different ways, and focused on many different targets. A significant number appeared to originate in China: Four of the 10 cases in this report, spanning social engineering, covert influence operations and cyber threats, likely had a Chinese origin. But we’ve disrupted abuses from many other countries too: this report includes case studies of a likely task scam from Cambodia, comment spamming apparently from the Philippines, covert influence attempts potentially linked with Russia and Iran, and deceptive employment schemes...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/06/report-on-the-malicious-uses-of-ai.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-06, from: Miguel de Icaza Mastondon feed)
+
+<p>My Godot MCP server is now self-contained, and includes the  pending additions that were contributed to the original Godot MCP.  </p><p><a href="https://github.com/xibbon/GodotSwiftMcp" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">github.com/xibbon/GodotSwiftMcp</span><span class="invisible"></span></a></p><p>This is what I am baking directly into Xogot, so I will be maintaining this server.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114636826827236098>
+
+---
+
+## Sipeed NanoCluster fits 7-node Pi cluster in 6cm
+
+date: 2025-06-06, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Sipeed NanoCluster fits 7-node Pi cluster in 6cm</span>
+
+            <p></p>
+
+<p>Sipeed's <a href="https://sipeed.com/nanocluster">NanoCluster</a> is a tiny compute module clusterboard with room for up to 7 tiny computers.</p>
+
+<p>Each slot has two inline M.2 (NGFF) slots which accept either a custom-designed SoM (System on Module) or an adapter board to adapt a standard Compute Module form-factor board into the slot (as pictured above).</p>
+
+<p>One end has a large fan for cooling, and the other end has power and IO. You can power the board via either PoE++ (60W) or through USB-C PD (65W). Or <em>both</em>, with redundant power fail-over.</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">June 6, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/sipeed-nanocluster-fits-7-node-pi-cluster-6cm>
 
 ---
 
@@ -13,7 +198,7 @@ updated: 2025-06-06 06:09:01
 
 date: 2025-06-06, from: Doc Searls (at Harvard), New Old Blog
 
-Anyone else here follow him? Peter Ziehan, who is new to me, has some interesting things to say about China&#39;s demographics and extreme centralization. First heard about him here. For KwaaiNet. Looks like what I posted yesterday about personal AI started a fire. It should have been like this in the first place. See a future of digital commerce [&#8230;] 
+Asking for a cohort. How many different sellers, or one seller with different names, are (or is) pushing a coffee cup with a design that appears to say nothing until you turn it sideways and see the design saysFUCK THIS SHITFUCK THIS SHITFUCK THIS SHITFUCK THIS SHITover and over around the whole cup? Anyone else [&#8230;] 
 
 <br> 
 

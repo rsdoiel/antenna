@@ -1,11 +1,149 @@
 ---
 title: north america
-updated: 2025-06-06 06:08:58
+updated: 2025-06-06 14:07:52
 ---
 
 # north america
 
-(date: 2025-06-06 06:08:58)
+(date: 2025-06-06 14:07:52)
+
+---
+
+## Contrarian Pet of the Week
+
+date: 2025-06-06, from: The Contrarian
+
+Meet Coco! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-83c>
+
+---
+
+##  New Policy Puts Americans’ Data Security In Peril 
+
+date: 2025-06-06, from: The Lever News
+
+ As Trump regulators pull back from cracking down on data brokers, a new Incogni survey reveals even high-powered executives are at risk.  
+
+<br> 
+
+<https://www.levernews.com/new-policy-puts-americans-data-security-in-peril/>
+
+---
+
+##  Wall Street To Insurers: Keep Denying Care 
+
+date: 2025-06-06, from: The Lever News
+
+ UnitedHealth Group’s investors were profiting from its high denial rates. Now, they’re suing to ensure that doesn’t change.  
+
+<br> 
+
+<https://www.levernews.com/wall-street-to-insurers-keep-denying-care/>
+
+---
+
+## Summer Jelly Roll (le gâteau roulé)
+
+date: 2025-06-06, from: The Contrarian
+
+Let&#8217;s draw inspiration from Parisian caf&#233; culture. 
+
+<br> 
+
+<https://contrarian.substack.com/p/summer-jelly-roll-le-gateau-roule>
+
+---
+
+## Before Attacking Each Other, Musk and Trump Struck Blows Against Veterans, Children, the Hungry and the Sick
+
+date: 2025-06-06, from: Capital and Main
+
+<p>The president and his former ally were united long enough to hurt millions of people here and abroad.</p>
+<p>The post <a href="https://capitalandmain.com/before-attacking-each-other-musk-and-trump-struck-blows-against-veterans-children-the-hungry-and-the-sick">Before Attacking Each Other, Musk and Trump Struck Blows Against Veterans, Children, the Hungry and the Sick</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/before-attacking-each-other-musk-and-trump-struck-blows-against-veterans-children-the-hungry-and-the-sick>
+
+---
+
+## Musk Turned a Government Role into a Profit Machine: Ginny Canter on Musk's Conflicts of Interest
+
+date: 2025-06-06, from: The Contrarian
+
+Musk's wealth increased by an "estimated $140 billion since Inauguration Day" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165352084/47a37bd596dc95ec8367407d8315e2d2.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165352084/47a37bd596dc95ec8367407d8315e2d2.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/musk-turned-a-government-role-into>
+
+---
+
+## Trump Won Big in Kentucky. Medicaid Cuts Could Hit It Hard.
+
+date: 2025-06-06, from: Capital and Main
+
+<p>The state’s deep reliance on the program means proposed rollbacks would have an outsized impact.</p>
+<p>The post <a href="https://capitalandmain.com/trump-won-big-in-kentucky-medicaid-cuts-could-hit-it-hard">Trump Won Big in Kentucky. Medicaid Cuts Could Hit It Hard.</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/trump-won-big-in-kentucky-medicaid-cuts-could-hit-it-hard>
+
+---
+
+## At Columbia Graduation Event, Student Voices Rose
+
+date: 2025-06-06, from: The Contrarian
+
+This year&#8217;s Class Day ceremony included a referendum on the university&#8217;s capitulation to the Trump administration&#8212;delivered in boos. 
+
+<br> 
+
+<https://contrarian.substack.com/p/at-columbia-graduation-event-student>
+
+---
+
+## Cancer research is too crucial to be a partisan issue
+
+date: 2025-06-06, from: The Contrarian
+
+Finding a cure for one of America's greatest threats must remain a priority, regardless of political affiliation 
+
+<br> 
+
+<https://contrarian.substack.com/p/cancer-research-is-too-crucial-to>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-06-06, from: The Contrarian
+
+A Busy, Busy Day at the Airport 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-8b0>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-06-06, from: The Contrarian
+
+Friday: Pride is protest, every action matters, ICE in Chicago and Minneapolis, planning for today's protests and June 14, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 
@@ -230,18 +368,6 @@ A recording from Coffee with The Contrarians LIVE 06/05
 <br> 
 
 <https://contrarian.substack.com/p/coffee-with-the-contrarians-0605>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-06-05, from: The Contrarian
-
-Thursday: ICE protests in Massachusetts, Oregon, and Minnesota, planning for No Kings Day, Tesla Takedowns, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 
