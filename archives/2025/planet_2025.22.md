@@ -1,11 +1,431 @@
 ---
 title: planet
-updated: 2025-06-05 14:07:31
+updated: 2025-06-06 06:08:56
 ---
 
 # planet
 
-(date: 2025-06-05 14:07:31)
+(date: 2025-06-06 06:08:56)
+
+---
+
+## Pope's former diocese of Chiclayo, Peru, renews his charity projects
+
+date: 2025-06-06, from: Vatican News
+
+
+                    <p>In Chiclayo, northern Peru, five charity projects promoted by the former local bishop, Robert Prevost, now Pope Leo XIV, have been given new life.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/peru-chiclayo-renews-charity-projects-begun-by-leo-xiv.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/peru-chiclayo-renews-charity-projects-begun-by-leo-xiv.html>
+
+---
+
+## 'Amazing' experience at unique tandem skydive in Offaly
+
+date: 2025-06-06, from: RTÉ News
+
+An initiative which offers people with physical disabilities the chance to sky dive from 10,000ft in a tandem jump has taken place for the first time in Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0606/1517082-dual-skydiving-with-a-disability-an-amazing-experience/>
+
+---
+
+## Humans can't survive without a healthy Ocean: UN envoy
+
+date: 2025-06-06, from: United Nations, Climate Change
+
+The Ocean is in deep crisis. Factors such as acidification, declining fish stocks, rising temperatures and widespread pollution are contributing to a catastrophic decline in biodiversity: over half of marine species are at risk of extinction this century. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1163771>
+
+---
+
+## Satchwell murder investigation will be reviewed - Harris
+
+date: 2025-06-06, from: RTÉ News
+
+The investigation into the murder of Tina Satchwell will be reviewed, according to Garda Commissioner Drew Harris, who accepted that "in hindsight" it may seem "very obvious" where Ms Satchwell's remains were located. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0606/1517075-tina-satchwell-murder-review/>
+
+---
+
+## Church communicators gather in Prague to share message of hope
+
+date: 2025-06-06, from: Vatican News
+
+
+                    <p>Prague hosts the 35th Meeting of the European Bishops’ Conference spokespersons gathering Catholic press officers from across Europe.  </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/ccee-european-bishops-prague-meeting-communicators-hope.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/ccee-european-bishops-prague-meeting-communicators-hope.html>
+
+---
+
+## Condensed season gives little time to savour championship
+
+date: 2025-06-06, from: RTÉ News
+
+In terms of hurling, this has to be one of the great weekends of the year with three blockbuster games, including two provincial finals, down for decision. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0606/1517060-hurling-split-season/>
+
+---
+
+## Unpublished CHI report seems to show deep-rooted issues
+
+date: 2025-06-06, from: RTÉ News
+
+ 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0606/1517057-chi-report/>
+
+---
+
+## Protests as Muslim community marks Eid al-Adha in Dublin
+
+date: 2025-06-06, from: RTÉ News
+
+Over 300 members of the Muslim community have gathered at Croke Park in Dublin to celebrate Eid al-Adha. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0606/1517055-eid-dublin/>
+
+---
+
+## Pope Leo XIV meets with Italian President Mattarella
+
+date: 2025-06-06, from: Vatican News
+
+
+                    <p>Pope Leo XIV holds a private audience with the President of Italy, Sergio Mattarella, who was accompanied by his children and several grandchildren.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-audience-italy-president-mattarella.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-audience-italy-president-mattarella.html>
+
+---
+
+## Pope to ecclesial movements: Always keep Jesus at the centre
+
+date: 2025-06-06, from: Vatican News
+
+
+                    <p>In an audience with moderators of lay associations, ecclesial movements, and new communities, Pope Leo highlights hierarchical and charismatic gifts as essential aspects of the Church.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-to-ecclesial-movements-always-keep-jesus-at-the-centre.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-to-ecclesial-movements-always-keep-jesus-at-the-centre.html>
+
+---
+
+## Spike in 'safe account' scam warning - BOI
+
+date: 2025-06-06, from: RTÉ News
+
+Bank of Ireland has issued a warning over what it calls a dramatic increase in reports and cases of attempted so-called 'safe account' scams 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0606/1517043-spike-in-safe-account-scam-warning-boi/>
+
+---
+
+## Australian primary students send Pope Leo XIV a homemade quilt
+
+date: 2025-06-06, from: Vatican News
+
+
+                    <p>As he presented his credential letters to the Pope this week, Keith Pitt, the new Australian Ambassador to the Holy See, gave Pope Leo XIV biscuits, wine, and a homemade quilt from students at a Catholic school.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/australian-primary-students-send-pope-leo-a-homemade-quilt.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/australian-primary-students-send-pope-leo-a-homemade-quilt.html>
+
+---
+
+## Lebanon accuses Israel of 'flagrant' ceasefire violation
+
+date: 2025-06-06, from: RTÉ News
+
+Lebanese leaders have condemned Israeli attacks on Beirut overnight, labelling them as "flagrant" violations of a ceasefire between the two countries. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0606/1517033-lebanon-beirut/>
+
+---
+
+## Principal says children distressed after friends deported
+
+date: 2025-06-06, from: RTÉ News
+
+Two brothers who were among 35 people deported from Ireland this week were described as "really popular" and fully integrated into their Dublin primary school. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0606/1517018-ireland-immigration/>
+
+---
+
+## Pope: Religious orders express beauty of Church’s diverse charisms
+
+date: 2025-06-06, from: Vatican News
+
+
+                    <p>Pope Leo XIV meets with representatives of three religious congregations, and highlights the Church’s beauty which they express through their diverse charisms and apostolic missions.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-chapters-african-missions-regular-francis-paraclete.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-chapters-african-missions-regular-francis-paraclete.html>
+
+---
+
+## Kneecap movie takes top prize at Celtic Media Awards
+
+date: 2025-06-06, from: RTÉ News
+
+Kneecap, the Belfast rap trio's acclaimed Irish-language origin movie, has won the top prize at this year's Celtic Media Awards in Cornwall. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0606/1517012-kneecap-movie-takes-top-prize-at-celtic-media-awards/>
+
+---
+
+## 64 out of 2,700 approved CHI procedures progressed
+
+date: 2025-06-06, from: RTÉ News
+
+Just 64 in-patient and day case procedures at Children's Health Ireland hospitals, out of a total of 2,700 which were approved for this year, have been progressed to date, a review of NTPF funding has shown. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0606/1517016-childrens-health-ireland/>
+
+---
+
+## At least 10 killed in Gaza, aid group closes distribution centres over safety concerns
+
+date: 2025-06-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7554076.1749205988!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg' alt='Dozens of people, mostly men, are shown walking on a dirt road. In the foreground, a bearded man puts something in his mouth while carrying a large sack on his head.' width='620' height='349' title='Palestinians carry bags containing food and humanitarian aid packages delivered by the Gaza Humanitarian Foundation, a U.S.-backed organization approved by Israel, in Rafah on Friday before the closure of aid sites was announced.'/><p>Ten Palestinians were killed by Israeli tank fire in Gaza on Friday, local health authorities said, as a U.S.- and Israeli-backed group handing out aid in the enclave said all its distribution sites were closed until further notice.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/mideast-war-israel-hamas-ghf-sites-1.7554073?cmp=rss>
+
+---
+
+## Robert Pether 'unrecognisable' after detention, says wife
+
+date: 2025-06-06, from: RTÉ News
+
+The wife of a man who has been released on bail after being held in jail in Iraq for more than four years has said her husband is "completely unrecognisable" following his detention. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0606/1517001-robert-pether/>
+
+---
+
+## From bros to foes: how Trump-Musk relationship imploded
+
+date: 2025-06-06, from: RTÉ News
+
+When Donald Trump met privately with White House officials on Wednesday, there was little to suggest that the US president was close to a public break with Elon Musk, the billionaire businessman who helped him win a second term in office. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0606/1517000-trump-musk-row/>
+
+---
+
+## 'Issues' in HIQA approach to home inspections - Martin
+
+date: 2025-06-06, from: RTÉ News
+
+Taoiseach Micheál Martin has said that HIQA's regulatory framework will have to be examined in the light of revelations in the RTÉ Investigates documentary on nursing homes, which he described as horrific, shocking and unacceptable. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0606/1516991-hiqa-nursing-homes/>
+
+---
+
+## 3 killed in Kyiv as Ukraine once again bombarded by Russian missiles and drones
+
+date: 2025-06-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7554060.1749200759!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-russia-ukraine-war.jpg' alt='An explosion is seen over a dark Kyiv skyline.' width='620' height='349' title='An explosion is seen after a Russian air strike on Kyiv, Ukraine, on Friday, June 6, 2025. '/><p>A nighttime missile and drone attack on Ukraine killed at least four people and injured 20 others in Kyiv, city mayor Vitali Klitschko said Friday, as Russia targeted at least six regions across the country with 407 drones and 44 missiles in one of its largest co-ordinated attacks of the three-year war.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/russia-ukraine-drone-attack-kyiv-kills-3-1.7554057?cmp=rss>
+
+---
+
+## Latest GDP figures hint at return of Leprechaun Economics
+
+date: 2025-06-06, from: RTÉ News
+
+One way or another, the activity of multinationals is distorting Ireland's economic figures, writes David Murphy. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0606/1516970-leprechaun-economics-ireland/>
+
+---
+
+## Four killed in Russian drone strikes on Kyiv
+
+date: 2025-06-06, from: RTÉ News
+
+Russia carried out a barrage of drone strikes across Ukraine overnight, killing at least four people and wounding 20 in the capital Kyiv, Ukrainian officials said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0606/1516989-russia-ukraine/>
+
+---
+
+## US judge blocks ban on foreign students at Harvard
+
+date: 2025-06-06, from: RTÉ News
+
+A federal judge in Boston has temporarily blocked US President Donald Trump from barring US entry of foreign nationals seeking to study or participate in exchange programmes at Harvard University. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0606/1516988-harvard-university/>
+
+---
+
+## Anniversary of 'Red Paper' highlights First Nations' fight against assimilation
+
+date: 2025-06-06, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6433067.1727494443!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/lewis-cardinal.jpg' alt='Man in traditional Cree shirt smiles at camera on the site under construction.' width='620' height='349' title='Lewis Cardinal spearheaded the creation of the urban sacred site kihcihkaw askî , in Edmonton, Alta. where groups of newcomers discover common values.'/><p>A grassroots group in Edmonton honoured those who stood up for First Nations rights back in 1970 when the Canadian government was proposing to erase legal distinctions between First Nations and other citizens, at an event Wednesday. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/red-paper-anniversary-edmonton-1.7551174?cmp=rss>
+
+---
+
+## Neskantaga First Nation calls for more federal support after community evacuation cut short
+
+date: 2025-06-06, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7553281.1749144023!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/chief-gary-quisses-neskantaga.JPG' alt='A person wearing a high-vis vest and a baseball cap is seen on the tarmac at an airport.' width='620' height='349' title='Chief Gary Quisses of Neskantaga First Nation is seen at the airport in Thunder Bay, Ont., as evacuees arrived in the northwesterrn Ontario city in April 2025. He says evacuees spent 46 days in the city.'/><p>Vulnerable community members from Neskantaga First Nation have returned home after spending 46 days in Thunder Bay, Ont., due to a community evacuation, triggered by the closure of the remote First Nation's only nursing station. But the community's chief says more work needs to be done to bring health-care services up to par, as a state of emergency remains in place.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/neskantaga-evacuees-return-home-1.7553272?cmp=rss>
+
+---
+
+## Trump not interested in talking to Musk, says official
+
+date: 2025-06-06, from: RTÉ News
+
+US President Donald Trump is not interested in talking with his former ally Elon Musk, amid a bitter feud over the president's sweeping tax-cut bill, a White House official said, adding that no phone call between the two men is planned for the day. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0606/1516985-donald-trump-elon-musk/>
+
+---
+
+## GHF says all aid distributions sites in Gaza closed
+
+date: 2025-06-06, from: RTÉ News
+
+A US- and Israeli-backed group handing out aid in Gaza said all its distribution sites were closed until further notice, urging residents to stay away from these venues "for their safety" after a series of deadly shootings. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0606/1516983-middle-east/>
+
+---
+
+## Japanese lunar lander crashes during attempted touchdown
+
+date: 2025-06-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7554021.1749178653!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/japan-ispace.JPG' alt='A shiny metallic object, standing on spindly legs, sits in front of an image of the moon ' width='620' height='349' title='A model of the lunar lander &quot;Resilience&quot;, operated by &apos;ispace&apos;, is displayed at a venue where employees of &apos;ispace&apos; will monitor &quot;Resilience&quot; landing on the Moon, in Tokyo, Japan, June 6, 2025.  '/><p>A private lunar lander from Japan crashed while attempting a touchdown Friday, the latest casualty in the commercial rush to the moon.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/japan-moon-lander-failure-ispace-1.7554001?cmp=rss>
+
+---
+
+## Appeals body to review social media account suspensions
+
+date: 2025-06-05, from: RTÉ News
+
+The Appeals Centre Europe, a Dublin-based social media appeals body, will from today hear cases relating to the suspension of accounts by Facebook, Instagram, TikTok and YouTube. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0606/1516958-appeals-centre-europe/>
+
+---
+
+## New support for LGBTQ+ in mental health services launched
+
+date: 2025-06-05, from: RTÉ News
+
+A guidance document and a training resource to support mental health services staff working with LGBTQIA+ service users will be published this morning. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0606/1516963-lgbtq-health-ireland/>
+
+---
+
+## Ireland seek to get balance right against Senegal
+
+date: 2025-06-05, from: RTÉ News
+
+The calm before the storm; Ireland are about to ease out of their season, while beyond, a major battle is brewing on the not-too-distant horizon. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0605/1516977-ireland-seek-to-get-balance-right-against-senegal/>
 
 ---
 
@@ -21,6 +441,30 @@ The United States has imposed sanctions on four judges at the International Crim
 
 ---
 
+## US imposes sanctions on ICC judges over Israel, US cases
+
+date: 2025-06-05, from: RTÉ News
+
+The United States has imposed sanctions on four judges at the International Criminal Court, including over an arrest warrant for Israeli Prime Minister Benjamin Netanyahu, ramping up pressure on The Hague-based body. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0605/1516974-icc-us-sanctions/>
+
+---
+
+## Groundwork laid in Brussels for NATO leaders to debate 5% defence spending target
+
+date: 2025-06-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7553937.1749166681!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/defence-cansec-20250528.jpg' alt='A man speaks on a stage.' width='620' height='349' title='Minister of National Defence David McGuinty makes an address at the Canadian Association of Defence and Security Industries annual defence industry trade show CANSEC, in Ottawa, on Wednesday, May 28, 2025. THE CANADIAN PRESS/Justin Tang'/><p>NATO defence ministers have inched toward meeting U.S. President Donald Trump’s demand that members of the Western military alliance invest five per cent of their gross domestic product in their militaries and related defence infrastructure.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/nato-new-spending-target-1.7553950?cmp=rss>
+
+---
+
 ## Robert Pether released on bail from jail in Iraq
 
 date: 2025-06-05, from: RTÉ News
@@ -30,6 +474,34 @@ Tánaiste Simon Harris has confirmed that Robert Pether who has been held in jai
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0605/1516967-robert-pether-bail/>
+
+---
+
+## Robert Pether released on bail from jail in Iraq
+
+date: 2025-06-05, from: RTÉ News
+
+Tánaiste Simon Harris has confirmed that Robert Pether who has been held in jail in Iraq for over four years has been released on bail. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0605/1516967-robert-pether-iraq/>
+
+---
+
+## Pope Leo XIV urges priests in France to embrace love that is generous
+
+date: 2025-06-05, from: Vatican News
+
+
+                    <p>Pope Leo XIV sends a message to priests serving in the Paris region, and encourages them to cultivate fraternity and unity, even amid challenging ecclesial and social conditions.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-message-france-paris-priests-jubilee.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-message-france-paris-priests-jubilee.html>
 
 ---
 
@@ -69,6 +541,30 @@ The Land Development Agency is on course to purchase more private land and build
 
 ---
 
+## U.S. Air Force cadet who graduated with flying colours isn't allowed to serve their country
+
+date: 2025-06-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7553702.1749156528!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/hunter-marquez.jpeg' alt='A U.S. Air Force cadet in full uniform grins and fist pumps one of their fellow graduates.' width='620' height='349' title='Hunter Marquez graduates Class of 2025 at the  U.S. Air Force Academy in Colorado Springs, Colo. Despite completing their training and meeting all the physical requirements for service, Marquez has been denied a military commission under the U.S. president&apos;s transgender military ban '/><p>Hunter Marquez expected to be commissioned as a second lieutenant after graduating from the U.S. Air Force Academy. Instead, they’ve been barred from service and placed on administrative leave under the U.S. President Donald Trump’s transgender military ban, along with two of their fellow graduates.</p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/asithappens/transgender-cadet-graduates-1.7553621?cmp=rss>
+
+---
+
+## Lebanon slams Israel after airstrikes in Beirut area
+
+date: 2025-06-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7553739.1749157637!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/smoke-fire-erupt-in-wake-of-israeli-airstrike-in-beirut-s-southern-suburbs.jpg' alt='Smoke and fire erupt from site of Israeli airstrike in Beirut&apos;s southern suburbs.' width='620' height='349' title='Smoke and fire errupt from the site of an Israeli airstrike on Beirut&apos;s southern suburbs on June 5, 2025. At least three air strikes hit Beirut&apos;s southern suburbs late on June 5, after the Israeli military warned residents to leave before it targeted Hezbollah&apos;s underground drone sites.'/><p>The Israeli military struck several sites in Beirut's southern suburbs that it said held underground facilities used by Hezbollah for drone production Thursday, on the eve of the Eid al-Adha holiday</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/israel-beirut-suburb-strikes-1.7553703?cmp=rss>
+
+---
+
 ## Trump attacks Musk as public feud escalates over tax bill
 
 date: 2025-06-05, from: RTÉ News
@@ -105,6 +601,30 @@ The judge overseeing the US federal trial of fallen hip-hop giant Sean 'Diddy' C
 
 ---
 
+## How to watch CBC's coverage of 1st all-Canadian Antarctic expedition
+
+date: 2025-06-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7553341.1749147494!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/transiting-past-the-antarctic-circle.jpg' alt='Dark water with a small &quot;field&quot; of broken chunks on the right and bright white glaciers on the left and in the distance against a mid-grey sky.' width='620' height='349' title='Transiting past the Antarctic Circle aboard HMCS Margaret Brooke'/><p>In February, a CBC News team headed by international climate correspondent Susan Ormiston accompanied scientists aboard the HMCS Margaret Brooke on the first all-Canadian expedition to Antarctic. Now, you can see some of the stunning footage they gathered in a special hour-long program that airs on YouTube Thursday night.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/how-to-watch-cbc-antarctica-1.7553039?cmp=rss>
+
+---
+
+## 22 crew members rescued from lifeboat in North Pacific after cargo ship carrying 3,000 vehicles catches fire
+
+date: 2025-06-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7553320.1749158071!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/alaska-cargo-ship-fire.jpg' alt='Ship on water with smoke coming out the back' width='620' height='349' title='In this photo provided by the U.S. Coast Guard, smoke rises from cargo vessel Morning Midas approximately 300 miles south of Adak, Alaska, June 3, 2025, as the crew of a cargo ship carrying around 3,000 vehicles to Mexico, abandoned ship after they could not control a fire. (U.S. Coast Guard/Courtesy Air Station Kodiak via AP)'/><p>The crew of a cargo ship carrying 3,000 vehicles to Mexico, including 800 electric vehicles, abandoned ship after they could not control a fire aboard the vessel in waters off Alaska's Aleutian island chain.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/22-crew-members-rescued-north-pacific-cargo-ship-catches-fire-1.7553220?cmp=rss>
+
+---
+
 ## Red light: Georgia blocks licence path for Irish learner drivers
 
 date: 2025-06-05, from: RTÉ News
@@ -138,6 +658,18 @@ German Chancellor Friedrich Merz has urged US President Donald Trump to put more
 <br> 
 
 <https://www.rte.ie/news/2025/0605/1516937-friedrich-merz-donald-trump-meeting/>
+
+---
+
+## Muslim pilgrims embark on Hajj under scorching sun in Saudi Arabia
+
+date: 2025-06-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7553538.1749151191!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/muslim-pilgrims-offer-prayers-during-annual-hajj-pilgrimage.jpg' alt='Muslim pilgrims offer prayers at the top of the rocky hill known as the Mountain of Mercy, near the holy city of Mecca, Saudi Arabia.' width='620' height='349' title='Muslim pilgrims offer prayers at top of the rocky hill known as the Mountain of Mercy, on the Plain of Arafat, during the annual Hajj pilgrimage near the holy city of Mecca, Saudi Arabia, Thursday, June 5, 2025.'/><p>Tens of thousands of Muslim pilgrims clambered up rocks and nestled between boulders on Thursday as they embarked on a day of worship under a scorching sun at the Hajj in Saudi Arabia.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/hajj-pilgrims-high-heat-1.7553522?cmp=rss>
 
 ---
 
@@ -237,7 +769,7 @@ Taxes collected by the State rose by 3.6% in the first five months of the year t
 
 date: 2025-06-05, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7553400.1749147575!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-musk.JPG' alt='Musk standing, wearing black cap. Trump, seated at desk' width='620' height='349' title='U.S. President Donald Trump and billionaire Elon Musk, seen speaking in the Oval Office last week as Musk announced his departure from the administration.'/><p>Elon Musk is increasingly disparaging of the president’s signature budget bill, calling it a disgusting abomination. The president’s reply: Musk is just bitter, and he's not sure they'll be getting along anymore.</p> 
+<img src='https://i.cbc.ca/1.7553400.1749147575!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-musk.JPG' alt='Musk standing, wearing black cap. Trump, seated at desk' width='620' height='349' title='U.S. President Donald Trump and billionaire Elon Musk, seen speaking in the Oval Office last week as Musk announced his departure from the administration.'/><p>It's gotten very ugly, very quickly. Within hours, Elon Musk appeared to call for U.S. President Donald Trump's impeachment. Meanwhile, Tesla stock had plunged, as the market feared the president might punish Musk businesses.</p> 
 
 <br> 
 
@@ -441,7 +973,7 @@ In Ukraine, overnight attacks continued into Thursday morning, resulting in&nbsp
 
 date: 2025-06-05, from: United Nations, Top Stories
 
-The UN’s top disarmament official has welcomed signs of increased cooperation from Syrian authorities in efforts to eliminate the country’s chemical weapons once and for all, as preparations move forward for a third round of inspections by international experts. 
+The UN’s top disarmament official has welcomed signs of increased cooperation from Syria’s interim authorities in efforts to eliminate the country’s chemical weapons once and for all, as preparations move forward for a third round of inspections by international experts. 
 
 <br> 
 
@@ -475,7 +1007,7 @@ As hostilities rage in Sudan, access constraints and devastating funding cuts ar
 
 ## From summits to street art to schools: Here’s how we’re marking World Environment Day
 
-date: 2025-06-05, from: United Nations, Top Stories
+date: 2025-06-05, from: United Nations, Climate Change
 
 5 June marks the 52nd&nbsp;World Environment Day, led by the UN Environment Programme (UNEP) and hosted by Jeju, South Korea, under the theme #BeatPlasticPollution.&nbsp; 
 
@@ -1404,7 +1936,7 @@ The United States has vetoed a new draft resolution on Gaza, standing as the lon
 
 ## World Environment Day: UN sounds alarm on plastic pollution crisis
 
-date: 2025-06-04, from: United Nations, Top Stories
+date: 2025-06-04, from: United Nations, Climate Change
 
 Every year, 400 million tonnes of plastic are produced worldwide, according to the UN. Half of this plastic is designed to be used only once, and only 10 per cent is recycled.&nbsp;&nbsp; 
 
@@ -1440,7 +1972,7 @@ Dozens of bodies have been discovered at official and unofficial detention sites
 
 ## Gaza: UN relief chief welcomes growing support for aid teams to resume vital work
 
-date: 2025-06-04, from: United Nations, Top Stories
+date: 2025-06-04, from: United Nations, Climate Change
 
 Amid reports of yet another deadly attack on a school in Gaza on Wednesday, the UN’s top aid official Tom Fletcher welcomed growing international calls for lifesaving aid work by established agencies to resume in the war-torn enclave. 
 
@@ -1452,7 +1984,7 @@ Amid reports of yet another deadly attack on a school in Gaza on Wednesday, the 
 
 ## The world’s oceans are dying. Can a UN summit in Nice turn the tide?
 
-date: 2025-06-04, from: United Nations, Economic Development
+date: 2025-06-04, from: United Nations, Climate Change
 
 As coral reefs bleach, fish stocks collapse, and sea temperatures break records, world leaders are heading to the French Riviera — not for leisure, but for one of the most urgent diplomatic gatherings of the year. 
 
@@ -2630,7 +3162,7 @@ The number of Sudanese refugees in Chad has more than tripled in just over two y
 
 ## World News in Brief: Aid for Syria, children under attack in Mozambique, rights-based climate action
 
-date: 2025-06-03, from: United Nations, Top Stories
+date: 2025-06-03, from: United Nations, Climate Change
 
 Nearly 16 million people in Syria need urgent humanitarian health support, the UN warned on Tuesday, as aid deliveries continue amid escalating needs, deadly explosive hazards and a severe funding shortfall. 
 
@@ -3362,7 +3894,7 @@ As June marks one year since the arbitrary detention of dozens of personnel from
 
 ## Deadly flooding in Nigeria displaces thousands
 
-date: 2025-06-02, from: United Nations, Top Stories
+date: 2025-06-02, from: United Nations, Climate Change
 
 Flash flooding in western Nigeria at the weekend has caused devastation around the town of Mokwa in Niger state, leaving more than 150 dead and 3,000 people displaced – more than half of whom are children aged 12 and under – the UN said on Monday. 
 

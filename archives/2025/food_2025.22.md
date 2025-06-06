@@ -1,11 +1,87 @@
 ---
 title: food
-updated: 2025-06-05 14:07:37
+updated: 2025-06-06 06:09:07
 ---
 
 # food
 
-(date: 2025-06-05 14:07:37)
+(date: 2025-06-06 06:09:07)
+
+---
+
+## Experts Share Emerging Coffee Industry Trends of 2025
+
+date: 2025-06-06, from: The Fresh Cup
+
+<p>Halfway through 2025, Fresh Cup has asked coffee professionals to weigh in on what has already been a turbulent year for the industry. Here are their predictions for the emerging trends that will define the rest of 2025.</p>
+<p>The post <a href="https://freshcup.com/experts-share-emerging-coffee-industry-trends-of-2025/">Experts Share Emerging Coffee Industry Trends of 2025</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/experts-share-emerging-coffee-industry-trends-of-2025/>
+
+---
+
+## Lush Vanilla Berry Pudding and More Recipes We Made This Week
+
+date: 2025-06-06, from: Bon Appetet
+
+Like zucchini butter and horchata overnight oats. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-june-2025>
+
+---
+
+## Harissa Chicken Recipe
+
+date: 2025-06-06, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/grilled-harissa-chicken-legs/" title="Harissa Chicken Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Chicken-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Zesty Grilled Harissa Chicken served with fresh herbs and lemon slices" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Chicken-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Chicken-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Chicken-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Chicken-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Chicken-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Chicken-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Chicken-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This harissa chicken is marinated in spicy harissa sauce then flame grilled (or baked) for big, bold flavor with North African flair, easy to make!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/grilled-harissa-chicken-legs/">Harissa Chicken Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/grilled-harissa-chicken-legs/>
+
+---
+
+## Lucy Wang’s Elevated Avocado Toast
+
+date: 2025-06-05, from: Taste of Home
+
+A sunny-side up egg and a little zing on top are all you need to make restaurant-grade avocado toast right in the comfort of your home. I'll show you how. —Lucy Wang, Los Angeles, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lucy-wang-elevated-avocado-toast/>
+
+---
+
+## Always-Great Homemade Salsa
+
+date: 2025-06-05, from: Bon Appetet
+
+Charring the ingredients in the broiler builds intense flavor without lighting a grill. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/easy-tomato-salsa>
+
+---
+
+## Hetal Vasavada’s Fizzy Fruit
+
+date: 2025-06-05, from: Taste of Home
+
+If you’re looking for a fun way to beat the heat, fizzy fruit is the ultimate summer snack. Fruit gets carbonated when you pack it with dry ice, so you end up with fruit that literally tingles on your tongue—no added sugar or soda required! It’s a fun science-meets-snack project that’s perfect for summer parties, kid-friendly experiments, or just cooling off on a hot day. —Hetal Vasavada, San Francisco, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/hetal-vasavada-fizzy-fruit/>
 
 ---
 
@@ -351,7 +427,7 @@ date: 2025-06-04, from: The Sprudge
 
 date: 2025-06-04, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/spicy-edamame/" title="Spicy Edamame Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Spicy Edamame served in a bowl with a fiery dressing and chili flakes" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Spicy edamame with garlic, chili paste or sriracha, soy sauce, sesame oil, and ginger is the perfect snack or appetizer, easy to make boiled or steamed.</p>
+<a href="https://www.chilipeppermadness.com/recipes/spicy-edamame/" title="Spicy Edamame Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Spicy Edamame served in a bowl with a fiery dressing and chili flakes" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Spicy-Edamame-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Spicy edamame with garlic, chili paste or sriracha, soy sauce, sesame oil, and ginger is the perfect snack or appetizer, easy to make boiled or steamed.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/spicy-edamame/">Spicy Edamame Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

@@ -1,11 +1,176 @@
 ---
 title: columns
-updated: 2025-06-05 14:07:33
+updated: 2025-06-06 06:09:01
 ---
 
 # columns
 
-(date: 2025-06-05 14:07:33)
+(date: 2025-06-06 06:09:01)
+
+---
+
+## Friday
+
+date: 2025-06-06, from: Doc Searls (at Harvard), New Old Blog
+
+Anyone else here follow him? Peter Ziehan, who is new to me, has some interesting things to say about China&#39;s demographics and extreme centralization. First heard about him here. For KwaaiNet. Looks like what I posted yesterday about personal AI started a fire. It should have been like this in the first place. See a future of digital commerce [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/06/06/friday/>
+
+---
+
+## Presenting the Shady Characters Periodic Table of Emoji
+
+date: 2025-06-06, from: Shady Characters blog
+
+<p>I have made a thing! Head over to <a href="https://emoji.shadycharacters.co.uk">emoji.shadycharacters.co.uk</a> to peruse the <cite>Shady Characters</cite> Periodic Table of Emoji.</p>
+<p>What do I mean by a periodic table of emoji? Well, I answer that question in some detail <a href="https://emoji.shadycharacters.co.uk/#what">in the notes under the table itself</a>, but briefly, I wanted to see if I could use a table to tell us something about how emoji are perceived. Which emoji are positive? Which are negative? Which ones convey sentiments that match their appearances, and which deviate from them?</p><a class="more-link" href="https://shadycharacters.co.uk/2025/06/periodic-table-of-emoji/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/06/periodic-table-of-emoji/>
+
+---
+
+## Musk vs. Trump
+
+date: 2025-06-06, from: Robert Reich's blog
+
+A Big Beautiful Brawl 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-thought-ab9>
+
+---
+
+## Self-hosting your own media considered harmful
+
+date: 2025-06-06, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Self-hosting your own media considered harmful</span>
+
+            <p>I just received my <a href="https://github.com/geerlingguy/youtube/issues/12">second community guidelines violation</a> for my video demonstrating the use of LibreELEC on a Raspberry Pi 5, for 4K video playback.</p>
+
+<p></p>
+
+<p>I purposefully avoid demonstrating any of the tools (with a suffix that rhymes with "car") that are popularly used to circumvent purchasing movie, TV, and other media content, or any tools that automatically slurp up YouTube content.</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">June 5, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful>
+
+---
+
+## June 5, 2025
+
+date: 2025-06-06, from: Heather Cox Richardson blog
+
+Today the U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-5-2025>
+
+---
+
+## Neven Mrgan on Why Skeuomorphism Is Like a Classic Car
+
+date: 2025-06-06, updated: 2025-06-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://appdocumentary.com/2015/01/08/neven-mrgan-on-why-skeuomorphism-is-like-a-classic-car/>
+
+---
+
+## Why I'm Still So Short
+
+date: 2025-06-06, from: Robert Reich's blog
+
+A while back, NPR&#8217;s Scott Simon asked me to join him on NPR&#8217;s &#8220;Weekend Edition Saturday&#8221; to talk about why I&#8217;m so short. 
+
+<br> 
+
+<https://robertreich.substack.com/p/why-im-still-so-short>
+
+---
+
+## The Comma That Might Cost Apple Billions in Europe
+
+date: 2025-06-06, updated: 2025-06-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://cafetechinenglish.substack.com/p/a-simple-comma-will-cost-apple-billion?r=6gzkf&triedRedirect=true>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-05, from: Miguel de Icaza Mastondon feed)
+
+<p>Free Palestine</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114633383923478634>
+
+---
+
+## Friday 6 June, 2025
+
+date: 2025-06-05, from: John Naughton's online diary
+
+Anyone for punting? Quote of the Day ”Of course I talk to myself. I like a good speaker, and I appreciate an intelligent audience.” Dorothy Parker Musical alternative to the morning’s radio news If Ever I Would Leave You &#124; &#8230; <a href="https://memex.naughtons.org/friday-6-june-2025/40896/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-6-june-2025/40896/>
+
+---
+
+## 9to5Mac on The Talk Show Livestream Returning to Theater for VisionOS
+
+date: 2025-06-05, updated: 2025-06-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/06/05/theater-the-talk-show-live-3d/>
+
+---
+
+## Theater Announces Immersive Livestream of The Talk Show Live From WWDC 2025
+
+date: 2025-06-05, updated: 2025-06-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sandwich.vision/press/partners/tts-live-2025-press-release.html>
+
+---
+
+## Judge Denies Apple’s Appeal; Ordered to Keep Allowing Link-Outs to the Web in the U.S. App Store
+
+date: 2025-06-05, updated: 2025-06-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/news/679946/apple-rejected-court-attempt-to-stop-app-store-web-links>
 
 ---
 
@@ -441,10 +606,10 @@ Cause for pessimism. There is a stat in basketball called VORP, for Value Over 
 
 ## The Ramifications of Ukraine’s Drone Attack
 
-date: 2025-06-04, updated: 2025-06-04, from: Bruce Schneier blog
+date: 2025-06-04, updated: 2025-06-05, from: Bruce Schneier blog
 
-<p>You can read the <a href="https://www.theguardian.com/world/2025/jun/02/operation-spiderweb-visual-guide-ukraine-drone-attack-russian-aircraft">details</a> of Operation Spiderweb elsewhere. What interests me are the <a href="https://www.washingtonpost.com/opinions/2025/06/01/ukraine-drone-attack-russia-bombers/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzQ4NzUwNDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzUwMTMyNzk5LCJpYXQiOjE3NDg3NTA0MDAsImp0aSI6IjQxY2YzZmE1LTQzYmUtNDY1My1hMzgwLTNkNGY5NTNmYjI1ZSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vcGluaW9ucy8yMDI1LzA2LzAxL3VrcmFpbmUtZHJvbmUtYXR0YWNrLXJ1c3NpYS1ib21iZXJzLyJ9.uEICNg4FZ_2HZMuKPAmdrMnq7SX1ZNdv6URdJGbRLwo&#038;utm_source=nextdraft&#038;utm_medium=website">implications</a> for future warfare:</p>
-<blockquote><p>If the Ukrainians could sneak drones so close to major air bases in a police state such as Russia, what is to prevent the Chinese from doing the same with U.S. air bases? Or the Pakistanis with Indian air bases? Or the North Koreans with South Korean air bases? Militaries that thought they had secured their air bases with electrified fences and guard posts will now have to reckon with the threat from the skies posed by cheap, ubiquitous drones that cFan be easily modified for military use. This will necessitate a massive investment in counter-drone systems. Money spent on conventional manned weapons systems increasingly looks to be as wasted as spending on the cavalry in the 1930s...</p></blockquote> 
+<p>You can read the <a href="https://www.theguardian.com/world/2025/jun/02/operation-spiderweb-visual-guide-ukraine-drone-attack-russian-aircraft">details</a> of Operation Spiderweb elsewhere. What interests me are the <a href="https://www.washingtonpost.com/opinions/2025/06/01/ukraine-drone-attack-russia-bombers/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzQ4NzUwNDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzUwMTMyNzk5LCJpYXQiOjE3NDg3NTA0MDAsImp0aSI6IjQxY2YzZmE1LTQzYmUtNDY1My1hMzgwLTNkNGY5NTNmYjI1ZSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vcGluaW9ucy8yMDI1LzA2LzAxL3VrcmFpbmUtZHJvbmUtYXR0YWNrLXJ1c3NpYS1ib21iZXJzLyJ9.uEICNg4FZ_2HZMuKPAmdrMnq7SX1ZNdv6URdJGbRLwo&#38;utm_source=nextdraft&#38;utm_medium=website">implications</a> for future warfare:</p>
+<blockquote><p>If the Ukrainians could sneak drones so close to major air bases in a police state such as Russia, what is to prevent the Chinese from doing the same with U.S. air bases? Or the Pakistanis with Indian air bases? Or the North Koreans with South Korean air bases? Militaries that thought they had secured their air bases with electrified fences and guard posts will now have to reckon with the threat from the skies posed by cheap, ubiquitous drones that can be easily modified for military use. This will necessitate a massive investment in counter-drone systems. Money spent on conventional manned weapons systems increasingly looks to be as wasted as spending on the cavalry in the 1930s...</p></blockquote> 
 
 <br> 
 

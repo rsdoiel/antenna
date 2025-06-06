@@ -1,11 +1,158 @@
 ---
 title: socal north
-updated: 2025-06-05 14:07:32
+updated: 2025-06-06 06:08:58
 ---
 
 # socal north
 
-(date: 2025-06-05 14:07:32)
+(date: 2025-06-06 06:08:58)
+
+---
+
+## From LA food stand to billion-dollar brand, how Dave’s Hot Chicken got us hooked
+
+date: 2025-06-06, updated: 2025-06-06, from: The LAist
+
+Three young friends set up a fried chicken pop up in a Hollywood parking lot. The rest is the stuff of legend. 
+
+<br> 
+
+<https://laist.com/news/food/how-daves-hot-chicken-got-us-hooked>
+
+---
+
+## Inventive, affordable bites in OC: Cheap Fast Eats visits Santa Ana
+
+date: 2025-06-06, updated: 2025-06-06, from: The LAist
+
+From regional Mexican antojitos to over-the-top breakfast burritos, family-run smash burgers and beloved neighborhood slice joint pizza. 
+
+<br> 
+
+<https://laist.com/news/food/cheap-fast-eats-santa-ana>
+
+---
+
+## Dry and warm conditions for SoCal this weekend
+
+date: 2025-06-06, updated: 2025-06-06, from: The LAist
+
+Southern California is in for a warm weekend with dry weather. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/dry-warm-conditions-socal-weekend>
+
+---
+
+## Remembering the joy of a Thrifty ice cream trip, from 10 cent scoops to iconic flavors
+
+date: 2025-06-06, updated: 2025-06-06, from: The LAist
+
+As the beloved ice cream counter shutters along with Rite Aids across L.A. and O.C., folks look back at what made it special. 
+
+<br> 
+
+<https://laist.com/news/food/remembering-the-joy-of-a-thrifty-ice-cream-trip-from-10-cent-scoops-to-iconic-flavors>
+
+---
+
+## From bromance to breakup: How Elon Musk and Donald Trump blew up
+
+date: 2025-06-06, updated: 2025-06-06, from: The LAist
+
+The blow up marks the end of an alliance between the president and the billionaire that lasted far longer than many observers expected. 
+
+<br> 
+
+<https://laist.com/news/from-bromance-to-breakup-how-elon-musk-and-donald-trump-blew-up>
+
+---
+
+## Fewer charter schools share LAUSD campuses, but tension remains
+
+date: 2025-06-05, updated: 2025-06-05, from: The LAist
+
+Next school year, 41 LAUSD schools will house an independently run charter school on their campus. 
+
+<br> 
+
+<https://laist.com/news/education/charter-school-co-location-propsition-39-lausd-los-angeles-unified-school-district-2025-2026>
+
+---
+
+## Free film inspiration: Criterion Closet comes to Santa Monica
+
+date: 2025-06-05, updated: 2025-06-05, from: The LAist
+
+For three minutes, you and your friends can reminisce and buy from Criterion’s large film collection — all inside a white truck. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/free-film-inspiration-criterion-closet-comes-to-santa-monica>
+
+---
+
+## As SoCal air regulators try to phase out polluting appliances, the gas lobby fights back
+
+date: 2025-06-05, updated: 2025-06-06, from: The LAist
+
+SoCal Gas and business groups have been lobbying heavily against rules to phase out gas furnaces and water heaters in homes. A vote is set for Friday. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/as-socal-air-regulators-try-to-phase-out-polluting-appliances-the-gas-lobby-fights-back>
+
+---
+
+## California is failing to provide a vital safeguard against wrongful convictions
+
+date: 2025-06-05, updated: 2025-06-05, from: The LAist
+
+A CalMatters investigation finds a dangerous shortage of defense investigators across the state. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/california-is-failing-to-provide-a-vital-safeguard-against-wrongful-convictions>
+
+---
+
+## California is launching a mortgage relief program for fire survivors. Here’s how to apply
+
+date: 2025-06-05, updated: 2025-06-05, from: The LAist
+
+CalAssist Mortgage Fund offers up to three months of mortgage payments for homeowners who lost their homes in the Eaton and Palisades fires. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/california-calassist-mortgage-fund-fire-eaton-palisades-disaster-relief-how-to-apply>
+
+---
+
+## Trump threatens to cut Musk contracts as social media feud escalates
+
+date: 2025-06-05, updated: 2025-06-05, from: The LAist
+
+President Trump and his former adviser, Elon Musk, lashed out at each other on social media Thursday in a public feud that has ramped up since Musk left his role with the administration. 
+
+<br> 
+
+<https://laist.com/news/trump-musk-feud-quickly-escalates>
+
+---
+
+## Shipment of chemicals used to produce meth seized at Port of Long Beach, feds say
+
+date: 2025-06-05, from: Longbeach Post
+
+<figure><img width="1024" height="547" src="https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-562x300.jpg 562w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-1110x592.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-768x410.jpg 768w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-1536x820.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-2048x1093.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-1320x705.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Officials said the cargo was on its way from China to the Sinaloa Drug Cartel in Mexico.</p>
+<p>The post <a href="https://lbpost.com/news/crime/shipment-of-chemicals-used-to-produce-meth-seized-at-port-of-long-beach-feds-say">Shipment of chemicals used to produce meth seized at Port of Long Beach, feds say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/shipment-of-chemicals-used-to-produce-meth-seized-at-port-of-long-beach-feds-say>
 
 ---
 
@@ -25,7 +172,7 @@ More adult students want a quicker path to a certificate and entering the workfo
 
 date: 2025-06-05, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Highly publicized immigration raids have rattled the community and prompted lawmakers to push for more laws protecting immigrants.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/california-democrats-push-to-block-ice-from-schools-hospitals-and-shelters">California Democrats push to block ICE from schools, hospitals and shelters</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

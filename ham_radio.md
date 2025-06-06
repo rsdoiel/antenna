@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-06-05 14:07:32
+updated: 2025-06-06 06:09:00
 ---
 
 # ham radio
 
-(date: 2025-06-05 14:07:32)
+(date: 2025-06-06 06:09:00)
+
+---
+
+## Standardization and modularization in pick and place equipment
+
+date: 2025-06-06, from: EDN Blog
+
+<img width="1200" height="600" src="https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?fit=1200%2C600" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?w=1200 1200w, https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?w=1024 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /><p>Here’s how engineers can practice standards and incorporate modular building blocks in pick and place equipment.</p>
+<p>The post <a href="https://www.edn.com/standardization-and-modularization-in-pick-and-place-equipment/">Standardization and modularization in pick and place equipment</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/standardization-and-modularization-in-pick-and-place-equipment/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-06-05 14:07:32
 
 date: 2025-06-05, from: EDN Blog
 
-<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The R&#038;S UDS series of DMMs offers 5.5-digit and 6.5-digit resolution, with the 6.5-digit model delivering a basic DC accuracy of 0.0075%.</p>
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The R&#038;S UDS series of DMMs offers 5.5-digit and 6.5-digit resolution, with the 6.5-digit model delivering a basic DC accuracy of 0.0075%.</p>
 <p>The post <a href="https://www.edn.com/dmms-improve-accuracy-and-usability/">DMMs improve accuracy and usability</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

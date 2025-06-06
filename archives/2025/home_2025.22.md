@@ -1,11 +1,104 @@
 ---
 title: home
-updated: 2025-06-05 14:07:35
+updated: 2025-06-06 06:09:05
 ---
 
 # home
 
-(date: 2025-06-05 14:07:35)
+(date: 2025-06-06 06:09:05)
+
+---
+
+## 9 Types of Squirrels in Michigan (With Pictures and Identification)
+
+date: 2025-06-06, from: Yard Life blog
+
+<p>Squirrels are among the most familiar and energetic animals found throughout Michigan’s diverse natural environments. From bustling city parks to ... </p>
+<p class="read-more-container"><a title="9 Types of Squirrels in Michigan (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/9-types-of-squirrels-in-michigan-with-pictures-and-identification/#more-29652" aria-label="Read more about 9 Types of Squirrels in Michigan (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/9-types-of-squirrels-in-michigan-with-pictures-and-identification/">9 Types of Squirrels in Michigan (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/9-types-of-squirrels-in-michigan-with-pictures-and-identification/>
+
+---
+
+## 14 Types of Owls in Michigan (With Pictures and Identification)
+
+date: 2025-06-06, from: Yard Life blog
+
+<p>The state of Michigan supports a rich diversity of owls, thriving in environments that range from dense forests in the ... </p>
+<p class="read-more-container"><a title="14 Types of Owls in Michigan (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/14-types-of-owls-in-michigan-with-pictures-and-identification/#more-29643" aria-label="Read more about 14 Types of Owls in Michigan (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/14-types-of-owls-in-michigan-with-pictures-and-identification/">14 Types of Owls in Michigan (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/14-types-of-owls-in-michigan-with-pictures-and-identification/>
+
+---
+
+## 75 Types of Fish in Florida (With Pictures and Identification)
+
+date: 2025-06-06, from: Yard Life blog
+
+<p>Florida’s diverse waterways are a treasure trove not only for birdwatchers like me but also for fishing enthusiasts. The state’s ... </p>
+<p class="read-more-container"><a title="75 Types of Fish in Florida (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/75-types-of-fish-in-florida-with-pictures-and-identification/#more-29559" aria-label="Read more about 75 Types of Fish in Florida (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/75-types-of-fish-in-florida-with-pictures-and-identification/">75 Types of Fish in Florida (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/75-types-of-fish-in-florida-with-pictures-and-identification/>
+
+---
+
+## Put These Popular Books by LGBTQ+ Authors on Your Reading List
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+The Pride month festivities are going strong. To celebrate, Goodreads has compiled a list of recently published books by LGBTQ+ authors. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/culture/books-by-lgbtq-authors>
+
+---
+
+## 23 Delicious Ways to Make the Most of Summer Squash Season
+
+date: 2025-06-05, from: Sunset Magazine - Living in the West
+
+Summer cooking calls for the freshest zucchini, yellow squash, and other in-season produce. Try these summer squash and zucchini recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/summer-squash-and-zucchini-recipes>
+
+---
+
+## 11 Home Decor Dupes That Are Designer-Approved
+
+date: 2025-06-05, from: Sunset Magazine - Living in the West
+
+Want high-design but don't have a big budget? Designers share their favorite home decor dupes so you can get the look for less. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/home-decor-dupes>
+
+---
+
+## From Maritime Decor to ‘Chateaucore’, These Are Summer’s Biggest Trends
+
+date: 2025-06-05, from: Sunset Magazine - Living in the West
+
+Check out the Etsy 2025 Spring and Summer Trend Report and learn how to style your home for this warm weather season. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/2025-spring-summer-trends-etsy>
 
 ---
 
@@ -60,6 +153,30 @@ date: 2025-06-05, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/list/bad-kitchen-upgrades/>
+
+---
+
+## Why Your Next Family Trip Should Be to This Charming (and Luxe) San Diego Farm
+
+date: 2025-06-05, from: Sunset Magazine - Living in the West
+
+ From wine-paired tasting menus to sound baths and animal meet-and-greets, San Diego's Fox Point Farms has it all. 
+
+<br> 
+
+<https://www.sunset.com/travel/culinary-travel/fox-point-farms-agritourism>
+
+---
+
+## 7 Ways to Celebrate the Summer Solstice in the West
+
+date: 2025-06-05, from: Sunset Magazine - Living in the West
+
+From visiting ancient carvings to parades to baseball, there are so many ways to celerbate the summer solstice in the Western United States. 
+
+<br> 
+
+<https://www.sunset.com/travel/summer-solstice-celebrations>
 
 ---
 
@@ -756,18 +873,6 @@ date: 2025-06-02, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/project/diy-butcher-block-countertop/>
-
----
-
-## 23 Delicious Ways to Make the Most of Summer Squash Season
-
-date: 2025-06-02, from: Sunset Magazine - Living in the West
-
-Summer cooking calls for the freshest zucchini, yellow squash, and other in-season produce. Try these summer squash and zucchini recipes. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/summer-squash-and-zucchini-recipes>
 
 ---
 

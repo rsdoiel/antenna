@@ -1,11 +1,26 @@
 ---
 title: small papers
-updated: 2025-06-05 14:07:37
+updated: 2025-06-06 06:09:07
 ---
 
 # small papers
 
-(date: 2025-06-05 14:07:37)
+(date: 2025-06-06 06:09:07)
+
+---
+
+## Shipment of chemicals used to produce meth seized at Port of Long Beach, feds say
+
+date: 2025-06-05, from: Long Beach Post
+
+<figure><img width="1024" height="547" src="https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-562x300.jpg 562w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-1110x592.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-768x410.jpg 768w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-1536x820.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-2048x1093.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2020/10/14120941/0929-Helicopter-696-1320x705.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Officials said the cargo was on its way from China to the Sinaloa Drug Cartel in Mexico.</p>
+<p>The post <a href="https://lbpost.com/news/crime/shipment-of-chemicals-used-to-produce-meth-seized-at-port-of-long-beach-feds-say">Shipment of chemicals used to produce meth seized at Port of Long Beach, feds say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/shipment-of-chemicals-used-to-produce-meth-seized-at-port-of-long-beach-feds-say>
 
 ---
 
@@ -13,7 +28,7 @@ updated: 2025-06-05 14:07:37
 
 date: 2025-06-05, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/05123022/120224-deportation-protest-fg-cm-05-992731-ttp41d0k-353891-TBEP6mwx.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Highly publicized immigration raids have rattled the community and prompted lawmakers to push for more laws protecting immigrants.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/california-democrats-push-to-block-ice-from-schools-hospitals-and-shelters">California Democrats push to block ICE from schools, hospitals and shelters</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

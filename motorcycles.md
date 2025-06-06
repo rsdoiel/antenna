@@ -1,11 +1,60 @@
 ---
 title: motorcycles
-updated: 2025-06-05 14:07:36
+updated: 2025-06-06 06:09:05
 ---
 
 # motorcycles
 
-(date: 2025-06-05 14:07:36)
+(date: 2025-06-06 06:09:05)
+
+---
+
+## Dometic Just Launched an Even More Rugged Backcountry Cooler for Your Adventures
+
+date: 2025-06-06, from: Ride Apart, Electric Motorcycle News
+
+When the going gets tough, the tough get a Dometic cooler to survive it. 
+
+<br> 
+
+<https://www.rideapart.com/news/761730/dometic-recon-backcountry-coolers-debut-price/>
+
+---
+
+## Remember When GM Made a UTV Out of the New Hummer EV?
+
+date: 2025-06-06, from: Ride Apart, Electric Motorcycle News
+
+It's sans doors, yet still probably weighs 9 million pounds.  
+
+<br> 
+
+<https://www.rideapart.com/news/761727/gm-hummer-ev-utv-military-concept-emcv/>
+
+---
+
+## This Chinese Dual-Sport Motorcycle Has a Seriously Impressive Spec Sheet
+
+date: 2025-06-06, from: Ride Apart, Electric Motorcycle News
+
+But is it good enough to challenge the mighty Honda CRF?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/761614/qj-motor-srt300dx-crf300-rival/>
+
+---
+
+## Off-Duty Florida Motorcycle Cop Gets Arrested in the Most Florida Way Possible
+
+date: 2025-06-06, from: Ride Apart, Electric Motorcycle News
+
+Her fake tag read 'CHASEM3' for God's sake. 
+
+<br> 
+
+<https://www.rideapart.com/news/761607/florida-off-duty-cop-motorcycle-chaseme3-tag-arrested/>
 
 ---
 

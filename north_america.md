@@ -1,11 +1,87 @@
 ---
 title: north america
-updated: 2025-06-05 14:07:31
+updated: 2025-06-06 06:08:58
 ---
 
 # north america
 
-(date: 2025-06-05 14:07:31)
+(date: 2025-06-06 06:08:58)
+
+---
+
+## Undaunted: A new South Korean president
+
+date: 2025-06-06, from: The Contrarian
+
+An improbable rise to power 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-a-new-south-korean-president>
+
+---
+
+## Evening Roundup, June 5 
+
+date: 2025-06-05, from: The Contrarian
+
+Featuring April Ryan, Chioma Chukwu & Jonathan Capehart; David Madland; Meredith Blake; Azza Cohen; Frederic J. Frommer; Mimi Rocah; Brian O&#8217;Neill; Miles Taylor; Jeff Nesbit; and Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-5>
+
+---
+
+##  Big Tech’s Monopoly Money 
+
+date: 2025-06-05, from: The Lever News
+
+ Lawmakers are about to let tech giants issue their own currency — what could go wrong?  
+
+<br> 
+
+<https://www.levernews.com/big-techs-monopoly-money/>
+
+---
+
+## The Tea with April Ryan, ft. Chioma Chukwu and Jonathan Capehart
+
+date: 2025-06-05, from: The Contrarian
+
+Catch April every Thursday at 5pm ET 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165300631/ba5fea0a7a57de23c9407095543a812e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165300631/ba5fea0a7a57de23c9407095543a812e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-tea-with-april-ryan-ft-chioma>
+
+---
+
+## Cutting Care to Cut Taxes: David Madland on the GOP’s War on Working America
+
+date: 2025-06-05, from: The Contrarian
+
+"Our lives are really at stake here, and they're doing it to cut taxes on the rich." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165301275/f8cdcb995f88392e6e9003db9855ea37.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165301275/f8cdcb995f88392e6e9003db9855ea37.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/cutting-care-to-cut-taxes-david-madland>
+
+---
+
+## Dear Bill Maher: Please shut up
+
+date: 2025-06-05, from: The Contrarian
+
+The Real Time host doesn't understand why domestic abuse victims don't "just leave" their partners, because that would require critical thinking, empathy, and two seconds of Googling. 
+
+<br> 
+
+<https://contrarian.substack.com/p/dear-bill-maher-please-shut-up>
 
 ---
 

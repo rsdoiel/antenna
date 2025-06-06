@@ -1,11 +1,123 @@
 ---
 title: going electric
-updated: 2025-06-05 14:07:37
+updated: 2025-06-06 06:09:07
 ---
 
 # going electric
 
-(date: 2025-06-05 14:07:37)
+(date: 2025-06-06 06:09:07)
+
+---
+
+## Wheel-E Podcast: SONDORS returns, Trek adds throttles, more
+
+date: 2025-06-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes Trek’s first throttle e-bike, NYC imposing a 15 MPH speed limit for e-bikes, MeetOne Tour electric trike review, why your e-bike frame number is important, NIU’s stock is soaring, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="podcast,wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="419280" href="https://electrek.co/2025/06/06/wheel-e-podcast-sondors-returns-trek-adds-throttles-more/#more-419280" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/06/wheel-e-podcast-sondors-returns-trek-adds-throttles-more/>
+
+---
+
+## BMW Will Build The Electric X5, X6 And X7 In The U.S.
+
+date: 2025-06-06, from: Inside EVs News
+
+The battery-powered iX5 is coming next year, followed by the iX7 in 2027. A coupe-like electric SUV is expected too—all made in the U.S. 
+
+<br> 
+
+<https://insideevs.com/news/761898/bmw-ix5-ix7-us-production/>
+
+---
+
+## The Next Range Rover Velar Is An Electric Porsche Macan Fighter
+
+date: 2025-06-06, from: Inside EVs News
+
+The Velar will become an EV with a body that straddles the line between cars and crossovers. 
+
+<br> 
+
+<https://insideevs.com/news/761915/range-rover-velar-electric-switch/>
+
+---
+
+## Here’s how Tesla might be impacted by the Musk/Trump divorce
+
+date: 2025-06-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Screenshot-2025-03-14-at-2.19.11 PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla CEO Elon Musk and President Trump are in the middle of a nasty break-up and it didn’t take long for Musk’s companies, including Tesla, to be thrown in the middle of it like kids in a divorce.</p>
+
+
+
+<p>We will focus on the real impact on Tesla’s business here, rather than its stock price, which is largely driven by sentiment, similar to a meme stock.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="419262" href="https://electrek.co/2025/06/06/how-tesla-impacted-musk-trump-divorce/#more-419262" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/06/how-tesla-impacted-musk-trump-divorce/>
+
+---
+
+## Tesla becomes desperate with Cybertruck, launches biggest discount yet
+
+date: 2025-06-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Screenshot-2025-04-10-at-4.41.14 PM.jpg?quality=82&#038;strip=all&#038;w=1137" /></div><p>Tesla has announced that it now offers interest-free loans on the Cybertruck until the end of the month. The move is the equivalent of a roughly $10,000 discount and shows that Tesla has reached a new level of desperation in trying to sell the Cybertruck.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="419266" href="https://electrek.co/2025/06/05/tesla-goes-full-desperate-cybertruck-with-biggest-discount-yet/#more-419266" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/05/tesla-goes-full-desperate-cybertruck-with-biggest-discount-yet/>
+
+---
+
+## TSLA drops 14% as investors see corruption being priced out of Tesla stock
+
+date: 2025-06-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Donald-Trump-Elon-Musk-heartbreak-e1749169363684.jpg?quality=82&#038;strip=all&#038;w=923" /></div><p>Tesla stock dropped over 50 points today, primarily in response to a very public feud between Tesla CEO Elon Musk and convicted felon Donald Trump.</p>
+
+
+
+<p>But, as we <a href="https://electrek.co/2024/11/12/call-it-like-it-is-tslas-rise-is-not-due-to-performance-but-hope-for-corruption/">pointed out in November</a>, this doesn’t have anything to do with company performance, and rather only reflects a change in the market’s expectation of potential benefit to Tesla from government corruption.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="elon-musk,opinion,tesla,tsla" data-layer-viewtype="unknown" data-post-id="419238" href="https://electrek.co/2025/06/05/tsla-drops-14-as-investors-see-corruption-being-priced-out-of-tesla-stock/#more-419238" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/05/tsla-drops-14-as-investors-see-corruption-being-priced-out-of-tesla-stock/>
+
+---
+
+## Hyundai’s electric minivan spotted driving for the first time [Video]
+
+date: 2025-06-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Hyundais-first-electric-minivan-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/hyundai/">Hyundai’s </a>electric minivan is almost here. The new Staria EV was spotted driving on public roads in Korea for the first time ahead of its official launch later this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="419236" href="https://electrek.co/2025/06/05/hyundais-first-electric-minivan-spotted-in-public-video/#more-419236" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/05/hyundais-first-electric-minivan-spotted-in-public-video/>
 
 ---
 
@@ -37,11 +149,11 @@ date: 2025-06-05, from: Electrek Feed
 
 ---
 
-## Tesla Stock Sinks As Trump And Musk's Relationship Implodes
+## Tesla Takes Massive Stock Hit As Trump And Musk's Relationship Implodes (Updated)
 
 date: 2025-06-05, from: Inside EVs News
 
-"Elon and I had a great relationship. I don't know if we will anymore," Trump said today. The partnership was once seen as good for Tesla. 
+Musk has already alienated the core EV-buying base. Now, Tesla's stock price is dropping as he feuds with Trump and MAGA world. 
 
 <br> 
 

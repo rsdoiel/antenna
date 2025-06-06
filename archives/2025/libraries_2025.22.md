@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-06-05 14:07:35
+updated: 2025-06-06 06:09:04
 ---
 
 # libraries
 
-(date: 2025-06-05 14:07:35)
+(date: 2025-06-06 06:09:04)
+
+---
+
+## Is Grammar an Inherent Product of the Human Brain?
+
+date: 2025-06-06, from: Scholarly Kitchen
+
+<p>A long-running academic controversy -- do humans share a universal grammar that stems from the structure and evolution of the human brain?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/06/06/is-grammar-an-inherent-product-of-the-human-brain/">Is Grammar an Inherent Product of the Human Brain?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/06/06/is-grammar-an-inherent-product-of-the-human-brain/>
 
 ---
 
@@ -440,4 +454,17 @@ Zubovic, Amela
 <br> 
 
 <http://hdl.handle.net/20.500.11850/739153>
+
+---
+
+## Post-War Ukraine: Healing a Traumatized Nation
+
+date: 2025-06-01, from: ETH Zurich, recently added
+
+Horbyk, Roman; Perović, Jeronim
+Grgić, Gorana; Eigner, Leo; Möckli, Daniel 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/737747>
 

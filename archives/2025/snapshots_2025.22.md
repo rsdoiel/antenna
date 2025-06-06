@@ -1,11 +1,142 @@
 ---
 title: snapshots
-updated: 2025-06-05 14:07:38
+updated: 2025-06-06 06:09:09
 ---
 
 # snapshots
 
-(date: 2025-06-05 14:07:38)
+(date: 2025-06-06 06:09:09)
+
+---
+
+## The NIH Public Access Policy: Q&A for Authors
+
+date: 2025-06-06, from: Authors Union blogs
+
+We’ve received many questions from authors, librarians, and research administrators about the NIH decision to accelerate implementation of its public [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/06/06/the-nih-public-access-policy-qa-for-authors/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-06, from: Dave Winer's linkblog)
+
+Google’s nightmare: How a search spinoff could remake the web. 
+
+<br> 
+
+<https://arstechnica.com/google/2025/06/googles-nightmare-how-a-search-spin-off-could-remake-the-web/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-06, from: Dave Winer's linkblog)
+
+How Apple Podcasts works in China: and why you’re (probably) not there. 
+
+<br> 
+
+<https://podnews.net/article/apple-podcasts-china>
+
+---
+
+## Build a Raspberry Pi classifier: detect different Raspberry Pi models
+
+date: 2025-06-06, from: Raspberry Pi News (.com)
+
+<p>This Raspberry Pi classifier uses our AI Camera to detect different Raspberry Pi models.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/build-a-raspberry-pi-classifier-detect-different-raspberry-pi-models/">Build a Raspberry Pi classifier: detect different Raspberry Pi models</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/build-a-raspberry-pi-classifier-detect-different-raspberry-pi-models/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-06, from: Dave Winer's linkblog)
+
+How to wall-mount your TV (and why you probably should). 
+
+<br> 
+
+<https://www.theverge.com/how-to/669882/tv-wall-mount-how-to>
+
+---
+
+## Wake Up and Smell the Corruption
+
+date: 2025-06-06, from: Paul Krugman
+
+How far we've fallen, how fast 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/wake-up-and-smell-the-corruption>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-06, from: Feed for Alt USDS)
+
+Are we still living in a democracy, or just living in its shadow?
+
+We're exploring how authoritarian power creeps in quietly - through fear, control, and legal loopholes.
+
+From Ernst Fraenkel’s “Dual State” to growing red flags in the US government, this is a must-read.
+
+Check it out: bit.ly/4jGKzZB 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lqvwmy3c6c2g>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-06, from: Dave Winer's linkblog)
+
+Musk calls for Trump&#39;s impeachment. 
+
+<br> 
+
+<https://www.axios.com/2025/06/05/musk-trump-impeachment>
+
+---
+
+## Jack Labriola: From Academic Roots to User Experience Research Excellence
+
+date: 2025-06-05, from: Digital Humanities Quarterly News
+
+If you had met Jack Labriola ten years ago, you’d probably find him walking the halls of the English department in Texas Tech, navigating graduate school, juggling coursework, teaching undergraduates, and planning for a life in academia. He loved the classroom, thrived in it, but like many of us with curious minds and evolving ambitions, [...]
+<p><a href="https://www.digitalrhetoriccollaborative.org/2025/06/05/jack-labriola-from-academic-roots-to-user-experience-research-excellence/" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://www.digitalrhetoriccollaborative.org/2025/06/05/jack-labriola-from-academic-roots-to-user-experience-research-excellence/>
+
+---
+
+## CrowPi 3 is a Raspberry Pi 5-powered education kit (crowdfunding)
+
+date: 2025-06-05, from: Liliputing
+
+<p>The Elecrow CrowPi 3 is a kit that provides a bunch of tools and resources to help young people develop computer science skills. The kit is about the size of a small, but chunky laptop. But instead of a large display and keyboard, it has a small screen, a bunch of sensors, and support for [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/crowpi-3-is-a-raspberry-pi-5-powered-education-kit-coming-soon-to-kickstarter/">CrowPi 3 is a Raspberry Pi 5-powered education kit (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/crowpi-3-is-a-raspberry-pi-5-powered-education-kit-coming-soon-to-kickstarter/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-05, from: Dave Winer's linkblog)
+
+This is a story that could be an HBO classic like Deadwood or Succession. 
+
+<br> 
+
+<https://www.pbs.org/newshour/politics/how-trump-and-musks-relationship-flamed-out>
 
 ---
 
@@ -57,12 +188,12 @@ Apple (MacRumors): In the last five years, the App Store has protected users by 
 
 ---
 
-## Colorful SMATR 900 is another Ryzen AI Max+ 395 mini PC
+## Colorful SMART 900 is another Ryzen AI Max+ 395 mini PC
 
 date: 2025-06-05, from: Liliputing
 
 <p>The Colorful SMART 900 is a small desktop computer with a high-performance AMD Ryzen AI Max+ 395 mobile processor featuring 16 CPU cores based on Zen 5 architectures, Radeon 8060S integrated graphics with 40 RDNA 3.5 GPU cores, and an NPU that delivers up to 50 TOPS of AI performance. Colorful is a company better known [&#8230;]</p>
-<p>The post <a href="https://liliputing.com/colorful-smatr-900-is-another-ryzen-ai-max-395-mini-pc/">Colorful SMATR 900 is another Ryzen AI Max+ 395 mini PC</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+<p>The post <a href="https://liliputing.com/colorful-smatr-900-is-another-ryzen-ai-max-395-mini-pc/">Colorful SMART 900 is another Ryzen AI Max+ 395 mini PC</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 
 <br> 
@@ -287,12 +418,30 @@ This is very worrying. The New York Times v OpenAI lawsuit, now in its 17th mont
 <p>That "numerous privacy laws and regulations" line refers to OpenAI's argument that this order runs counter to a whole host of existing worldwide privacy legislation. The judge here is stating that the potential need for future discovery in this case outweighs OpenAI's need to comply with those laws. </p>
 <p>Unsurprisingly, I have seen plenty of bad faith arguments online about this along the lines of
 "Yeah, but that's what OpenAI really wanted to happen" - the fact that OpenAI are fighting this order runs counter to the common belief that they aggressively train models on all incoming user data no matter what promises they have made to those users.</p>
-<p>I still see this as a massive competitive disadvantage for OpenAI, particularly when it comes to API usage. Paying customers of their APIs may well make the decision to switch to other providers who can offer retention policies that aren't subverted by this court order!
+<p>I still see this as a massive competitive disadvantage for OpenAI, particularly when it comes to API usage. Paying customers of their APIs may well make the decision to switch to other providers who can offer retention policies that aren't subverted by this court order!</p>
+<p><strong>Update</strong>: Here's the official response from OpenAI: <a href="https://openai.com/index/response-to-nyt-data-demands/">How we’re responding to The New York Time’s data demands in order to protect user privacy</a>, including this from a short FAQ:</p>
+<blockquote>
+<h4>Is my data impacted?</h4>
+<ul>
+<li>Yes, if you have a ChatGPT Free, Plus, Pro, and Teams subscription or if you use the OpenAI API (without a Zero Data Retention agreement).</li>
+<li>This does <strong>not</strong> impact ChatGPT Enterprise or ChatGPT Edu customers.</li>
+<li>This does <strong>not</strong> impact API customers who are using Zero Data Retention endpoints under our ZDR amendment.</li>
+</ul>
+</blockquote>
+<p>To further clarify that point about ZDR:</p>
+<blockquote>
+<p>You are not impacted. If you are a business customer that uses our Zero Data Retention (ZDR) API, we never retain the prompts you send or the answers we return. Because it is not stored, this court order doesn’t affect that data.</p>
+</blockquote>
+<p>Here's a <a href="https://twitter.com/sama/status/1930785056194539779">notable tweet</a> about this situation from Sam Altman:</p>
+<blockquote>
+<p>we have been thinking recently about the need for something like "AI privilege"; this really accelerates the need to have the conversation.</p>
+<p>imo talking to an AI should be like talking to a lawyer or a doctor.</p>
+</blockquote>
 
     <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44185913">Hacker News</a></small></p>
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/new-york-times">new-york-times</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/law">law</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/new-york-times">new-york-times</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/law">law</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/sam-altman">sam-altman</a>, <a href="https://simonwillison.net/tags/privacy">privacy</a></p> 
 
 <br> 
 
@@ -425,6 +574,26 @@ Check it out: bit.ly/4jBlnn5
 
 ---
 
+## Dark 🏔️
+
+date: 2025-06-05, from: Ed Summers blog, Inkdroid
+
+<p>
+It’s 16 years old, but I think <a
+href="https://dark-mountain.net/about/manifesto/">The Dark Mountain
+Manifesto</a> still reads pretty fresh today? Maybe it’s just me, but I
+feel like it has some <a
+href="https://permacomputing.net/">permacomputing</a> vibes.
+</p>
+<embed src="/papers/dark-mountain-manifesto.pdf" width="800" height="1000" type="application/pdf">
+ 
+
+<br> 
+
+<https://inkdroid.org/2025/06/05/dark-mountain/>
+
+---
+
 ## 299: Green Islam
 
 date: 2025-06-05, from: Fix the News
@@ -444,6 +613,38 @@ Harvard could open an overseas campus.
 <br> 
 
 <https://www.cnbc.com/2025/06/04/trump-moves-to-block-us-entry-for-foreigners-planning-to-study-at-harvard-university-.html>
+
+---
+
+## MCP Resources Are For Caching
+
+date: 2025-06-05, updated: 2025-06-05, from: Tom Kellog blog
+
+This is a quick tour of what MCP resources actually are. And more to the point, what MCP is supposed to do (and not supposed to do). 
+
+<br> 
+
+<http://timkellogg.me/blog/2025/06/05/mcp-resources>
+
+---
+
+## PowerShell and Edit for macOS, Linux and Windows
+
+date: 2025-06-05, from: Robert's Ramblings
+
+One of the challenges of multi platform support is the variance in tools. Unix and related operating systems are pretty unified these days. The differences are minor today as opposed to twenty years ago. If you need to support Windows too it's a whole different story. You can jump to Linux Subsystem for Windows but that is really like using a container inside Windows and doesn't solve the problem when you need to work across the whole system.
+
+Windows' shell experience is varied. Originally it was command com, essentially a enhanced CP/M shell. Much later as Windows moved beyond then replaced MS-DOS they invented PowerShell. Initially a Windows only system. Fast forward today things have change. PowerShell runs across Windows, macOS and Linux. It is even licensed under an MIT style license.
+
+- <https://github.com/PowerShell/PowerShell>
+
+PowerShell is intended as a system scripting language and as such is focused on the types of things you need too to manage a system. It has vague overtones of Java, .NET and F#. If you are familiar with those it probably feels familiar for me it wasn't familiar. Picking up PowerShell has boiled down to my thinking I can do X in Bash then doing a search to find out the equivalent in PowerShell 7 or above.  There are something examples out there that are Windows specific because there isn't a matching service under that other operating systems but if you focus on PowerShell itself rather than Windows particular feature it is very useful. It also means while you're picking up how Windows might approach something you can re-purpose that knowledge on the other operating systems. That's really handy for admin type tasks.
+
+One of the things I've been playing with is creating a set of scripts that have a common name but deal with the specifics of the target OS. That way when I need to run a generalized task I can deploy the OS specific version to the platform but then start thinking about managing the heterogeneous environments in a unified way. E.g. scripts like "require-reboot.ps1", "safe-to-reboot.ps1", "disk-is-used-by.ps1". ... 
+
+<br> 
+
+<https://rsdoiel.github.io/blog/2025/06/05/PowerShell_and_Edit.html>
 
 ---
 
@@ -916,7 +1117,7 @@ intelligences are) the more possible Artificial Intelligence becomes.
 </blockquote>
 <p>
 I suppose it has been said elsewhere before, by someone much more
-important than me, but now I’ve said it.
+important than me, but now I’ve said it too…
 </p>
  
 

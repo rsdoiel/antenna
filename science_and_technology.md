@@ -1,11 +1,191 @@
 ---
 title: science and technology
-updated: 2025-06-05 14:07:33
+updated: 2025-06-06 06:09:00
 ---
 
 # science and technology
 
-(date: 2025-06-05 14:07:33)
+(date: 2025-06-06 06:09:00)
+
+---
+
+## Your ransomware nightmare just came true – now what?
+
+date: 2025-06-06, updated: 2025-06-06, from: The Register (UK I.T. News)
+
+<h4>Don&#39;t negotiate unless you must, and if so, drag it out as long as you can</h4> <p><strong>Feature</strong>  So, the worst has happened. Computer screens all over your org are flashing up a warning that you&#39;ve been infected by ransomware, or you&#39;ve got a message that someone&#39;s been stealing information from your server.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/06/ransomware_negotiation/>
+
+---
+
+## Hubble Captures Starry Spectacle
+
+date: 2025-06-06, from: NASA breaking news
+
+A galaxy ablaze with young stars is the subject of this NASA/ESA Hubble Space Telescope image. Named NGC 685, this galaxy is situated about 64 million light-years away in the constellation Eridanus (the River). NGC 685 is a barred spiral because its feathery spiral arms sprout from the ends of a bar of stars at […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-captures-starry-spectacle/>
+
+---
+
+## Just 15 buyers are in charge of £14B in UK central government tech spending
+
+date: 2025-06-06, updated: 2025-06-06, from: The Register (UK I.T. News)
+
+<h4>Concerns over lack of commercial expertise with big tech suppliers as country implements digital &#39;Blueprint&#39;</h4> <p>The UK government employs just 15 commercial staff with direct expertise in digital procurement dedicated to dealing with the largest technical suppliers, according to a Parliamentary spending watchdog.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/06/ukgov_has_only_15_buyers/>
+
+---
+
+## Ex-NASA Admin pick blames Musk ties for pulled nomination
+
+date: 2025-06-06, updated: 2025-06-06, from: The Register (UK I.T. News)
+
+<h4>Jared Isaacman reveals how space agency might have looked under his watch</h4> <p>Jared Isaacman, former NASA Administrator nominee, has shared how the US space agency might have looked under his leadership and blamed his connections with Elon Musk for the abrupt withdrawal of his nomination.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/06/how_nasa_might_have_looked/>
+
+---
+
+## Techie traced cables from basement to maternity ward and onto a roof, before a car crash revealed the problem
+
+date: 2025-06-06, updated: 2025-06-06, from: The Register (UK I.T. News)
+
+<h4>Doctor? Why does this hospital network run in such strange places?</h4> <p><strong>On Call</strong>  Welcome once again to On Call, <i>The Register</i>&#39;s Friday column that shares reader-contributed tales of tech support terror and triumph.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/06/on_call/>
+
+---
+
+## European pols wave their hands about digital sovereignty with broad but vague plan
+
+date: 2025-06-06, updated: 2025-06-06, from: The Register (UK I.T. News)
+
+<h4>One Dutch developer called it a &#39;nothingburger&#39;</h4> <p>European leaders on Thursday announced an International Digital Strategy designed to help the bloc address technological change at a time of global political realignment.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/06/europe_international_digital_strategy_nothingburger/>
+
+---
+
+## Toshiba realises it can build, power, and maintain datacenters – so builds a team to do it all
+
+date: 2025-06-06, updated: 2025-06-06, from: The Register (UK I.T. News)
+
+<h4>Show us another company that builds power plants, semiconductors, and hard disks</h4> <p>Japanese industrial giant Toshiba has created an internal organization to make itself more attractive to datacenter builders and operators.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/06/toshiba_datacenter_business/>
+
+---
+
+## Broadcom sends VMware to record revenue, margins, as most big customers sign for private cloud bundles
+
+date: 2025-06-06, updated: 2025-06-06, from: The Register (UK I.T. News)
+
+<h4>Chip biz surging too as CEO Hock Tan predicts optical GPU interconnects are a year or two away</h4> <p>Broadcom’s takeover of VMware continues to deliver strong revenue and margin growth, and the company expects demand for AI hardware will do likewise in coming years.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/06/broadcom_q2_2025/>
+
+---
+
+## Japan's latest Moon landing written off as a failure after ispace probe goes dark
+
+date: 2025-06-05, updated: 2025-06-06, from: The Register (UK I.T. News)
+
+<h4>Rangefinder broke during descent so lander didn&#39;t slow down</h4> <p><strong>UPDATED</strong>  Japanese firm ispace’s latest attempt to land a craft on the Moon appears to have failed, after its Hakuto-R lander, dubbed Reliance, went dark while approaching the lunar surface.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/ispace_moon_landing/>
+
+---
+
+## Uncle Sam puts $10M bounty on RedLine dev and Russia-backed cronies
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>Any info on Maxim Rudometov and his associates? There&#39;s $$$ in it for you</h4> <p>The US government is offering up to $10 million for information on foreign government-backed threat actors linked to the RedLine malware, including its suspected developer, Maxim Alexandrovich Rudometov.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/rewards_for_justice_maxim_rudometov/>
+
+---
+
+## A critical look at NetBSD’s installer
+
+date: 2025-06-05, from: OS News
+
+NetBSD is an OS that I installed only a couple of times over the years, so I’m not very familiar with its installer, sysinst. This fact was actually what led to this article (or the whole series rather): Talking to a NetBSD developer at EuroBSDcon 2023, I mentioned my impression that NetBSD was harder to install than it needed to be. He was interested in my perspective as a relative newcomer, and so I promised to take a closer look and write about it. While it certainly took me long enough, I finally get to do this. So let’s take a look at NetBSD’s installer, shall we? The version explored here is NetBSD 10.1 on amd64. ↫ Eerie Linux An excellent deep, deep dive into the NetBSD installer. The two earlier installments cover FreeBSD&#8217;s and OpenBSD&#8217;s installers. 
+
+<br> 
+
+<https://www.osnews.com/story/142507/a-critical-look-at-netbsds-installer/>
+
+---
+
+## Redox gets X11 support, GTK3, and Mesa3D EGL
+
+date: 2025-06-05, from: OS News
+
+We&#8217;ve cleared another month by the skin of our teeth, so it&#8217;s time for another month of progress in Redox, the Rust-based operating system. They&#8217;ve got a big one for us this month, as Redox can now run X11 applications in its Orbital display server, working in much the same way as XWayland. This X11 support includes DRI, but it doesn&#8217;t yet fully support graphics acceleration. Related to the X11 effort is the brand new port of GTK3 and the arrival of Mesa3D EGL. Moving on, there&#8217;s the usual massive list of bugfixes and low-level changes, such as the introduction of the /var directory and subdirectories for compliance with the FHS, a fix to make the live image work when there&#8217;s no other working storage driver, and a ton more. Of course, there&#8217;s the usual list of relibc fixes, as well as a ton of updated and improved ports. 
+
+<br> 
+
+<https://www.osnews.com/story/142504/redox-gets-x11-support-gtk3-and-mesa3d-egl/>
+
+---
+
+## AT&amp;T not sure if new customer data dump is déjà vu
+
+date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+
+<h4>Re-selling info from an earlier breach? Probably. But which one?</h4> <p>AT&amp;T is investigating claims that millions of its customers&#39; data are listed for sale on a cybercrime forum in what appears to be a re-release from an earlier hack.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/att_investigates_data_dump/>
+
+---
+
+## New EU rules mandate five years of OS updates for smartphones and tablets
+
+date: 2025-06-05, from: OS News
+
+Starting 20 June 2025, new rules and regulations in the European Union covering, among other thins, smartphones and tablets, will have some far-reaching consequences for device makers &#8211; consequences that, coincidentally, will work out pretty great for consumers within the European Union. The following &#8220;ecodesign requirements&#8221; will come into force on 20 June: Especially the requirements around repairability and the long-term availability of operating system updates will affect us consumers quite positively. While Android OEMs have improved their update policies somewhat, they&#8217;re still lagging behind Apple considerably, especially if you opt for lower-end devices or devices from smaller manufacturers. These new requirements will make getting Android updates a consumer right, not an optional service if the OEM happens to feel like it. Which they usually don&#8217;t. I&#8217;m sure countless OEMs will try to weasel their way through supposed cracks and gaps in the exact wording of the rules, but the EU has shown not to take too kindly to corporations, big and small, trying to comply maliciously. 
+
+<br> 
+
+<https://www.osnews.com/story/142500/new-eu-rules-mandate-five-years-of-os-updates-for-smartphones-and-tablets/>
+
+---
+
+## Senate dishes out second helping of SAMOSA to kill costly software licenses
+
+date: 2025-06-05, updated: 2025-06-06, from: The Register (UK I.T. News)
+
+<h4>House version of software license management bill introduced in March has yet to budge amid distractions</h4> <p>Sloppy government software licensing practices are back on the menu in the US Senate. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/05/us_senate_serves_up_second_samosa/>
 
 ---
 
@@ -71,7 +251,7 @@ date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
 
 ## Elon Musk pukes over pork-filled budget bill with Tesla subsidies on the line
 
-date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+date: 2025-06-05, updated: 2025-06-06, from: The Register (UK I.T. News)
 
 <h4>No matter who wins, the US EV industry is likely to lose, expert tells us</h4> <p>Elon Musk has publicly broken with Donald Trump over the latter&#39;s budget reconciliation bill, calling it a &#34;pork-filled … abomination&#34; that would undermine the work his DOGE cost-cutting unit has done. But the bill also hits close to Tesla tycoon&#39;s pocketbook, and at least one expert thinks it spells terrible news for the US electric vehicle industry overall.…</p> 
 

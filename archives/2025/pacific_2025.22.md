@@ -1,11 +1,519 @@
 ---
 title: pacific
-updated: 2025-06-05 14:07:32
+updated: 2025-06-06 06:08:59
 ---
 
 # pacific
 
-(date: 2025-06-05 14:07:32)
+(date: 2025-06-06 06:08:59)
+
+---
+
+## Guam celebrates Micronesian culture
+
+date: 2025-06-06, from: Pacific Island Times
+
+The island fair, one of the Guam Visitors Bureau’s signature events, celebrates the cultures of Guam, the Northern Marianas, Chuuk, Kosrae, Pohnpei and Yap at Ypao Beach Park in Tumon on June 7 and 8, from noon to 10 p.m. on both days.
+
+ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-celebrates-micronesian-culture>
+
+---
+
+## Arraignment set for alleged KTA robber
+
+date: 2025-06-06, from: Hawaii Tribune Harold
+
+
+				<p>Probable cause has been found to try a 36-year-old Hilo man on six charges, including first-degree robbery, for allegedly threatening a store detective with a knife a week ago in the KTA Super Stores Puainako parking lot.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/06/hawaii-news/arraignment-set-for-alleged-kta-robber/>
+
+---
+
+## Judiciary: Beware of traffic ticket text scam
+
+date: 2025-06-06, from: Hawaii Tribune Harold
+
+
+				<p>The state Judiciary is warning the public about a scam that threatens drivers over nonexistent traffic citations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/06/hawaii-news/judiciary-beware-of-traffic-ticket-text-scam/>
+
+---
+
+## Trump budget bill would kill subsidies that made home solar mainstream
+
+date: 2025-06-06, from: Hawaii Tribune Harold
+
+
+				<p>A last-minute tweak to the Republican budget bill passed by Congress last month would immediately end subsidies for solar leasing companies that help make rooftop systems affordable to homeowners, likely leading to a massive drop in the pace of installations, according to industry representatives.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/06/nation-world-news/trump-budget-bill-would-kill-subsidies-that-made-home-solar-mainstream/>
+
+---
+
+## Oahu soldier sentenced to 23 years for killing wife and staging disappearance
+
+date: 2025-06-06, from: Hawaii Tribune Harold
+
+
+				<p>The court martial of Army Pfc. Dewayne Arthur Johnson, 29, concluded Thursday as a military judge sentenced him to 23 years in prison for killing his pregnant wife, 19-year-old Mischa Mabeline Kaalohilani Johnson, and their unborn child on July 12.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/06/hawaii-news/oahu-soldier-sentenced-to-23-years-for-killing-wife-and-staging-disappearance/>
+
+---
+
+## Crime spree suspect gets a large bail reduction
+
+date: 2025-06-06, from: Hawaii Tribune Harold
+
+
+				<p>A suspect in multiple car thefts whom police say was shot at by a patrol officer on Wednesday saw his bail drastically reduced Thursday during his initial court appearance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/06/hawaii-news/crime-spree-suspect-gets-a-large-bail-reduction/>
+
+---
+
+## Trump, Musk feud explodes with threats of cutting contracts, backing impeachment
+
+date: 2025-06-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump threatened on Thursday to cut off government contracts with billionaire Elon Musk&#8217;s companies, while Musk suggested Trump should be impeached, turning their bromance into an all-out brawl on social media.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/06/nation-world-news/trump-musk-feud-explodes-with-threats-of-cutting-contracts-backing-impeachment/>
+
+---
+
+## News in brief for June 6
+
+date: 2025-06-06, from: Hawaii Tribune Harold
+
+
+				<p>High school student is released from &#0010;immigration custody</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/06/nation-world-news/news-in-brief-for-june-6/>
+
+---
+
+## State Dept. imposes sanctions on International Criminal Court judges
+
+date: 2025-06-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Secretary of State Marco Rubio announced Thursday that the United States would impose sanctions on four judges on the International Criminal Court as retaliation for its investigations of U.S. military personnel and arrest warrants for top Israeli officials, including Prime Minister Benjamin Netanyahu.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/06/nation-world-news/state-dept-imposes-sanctions-on-international-criminal-court-judges/>
+
+---
+
+## Cargo ship carrying electric vehicles burns off Alaska
+
+date: 2025-06-06, from: Hawaii Tribune Harold
+
+
+				<p>A fire on a cargo ship carrying electric vehicles that contain highly flammable lithium-ion batteries was burning off Alaska&#8217;s coast on Wednesday night, more than 24 hours after it broke out, the U.S. Coast Guard and the ship&#8217;s manager said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/06/nation-world-news/cargo-ship-carrying-electric-vehicles-burns-off-alaska/>
+
+---
+
+## Biden’s IRS doubled audits on the wealthy, data shows
+
+date: 2025-06-06, from: Hawaii Tribune Harold
+
+
+				<p>It was a promise repeated many times by President Joe Biden&#8217;s administration: The IRS would conduct more audits of wealthy Americans, but audit rates would not rise for households earning less than $400,000 per year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/06/nation-world-news/bidens-irs-doubled-audits-on-the-wealthy-data-shows/>
+
+---
+
+## Japan’s ispace loses communication with moon lander after touchdown attempt
+
+date: 2025-06-06, from: Hawaii Tribune Harold
+
+
+				<p>TOKYO &#8212; Japanese company ispace said it has not been able to establish communication with its uncrewed moon lander following its lunar touchdown attempt on Friday, two years after its failed inaugural mission.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/06/nation-world-news/japans-ispace-loses-communication-with-moon-lander-after-touchdown-attempt/>
+
+---
+
+## Supreme Court blocks Mexico’s suit against US gunmakers
+
+date: 2025-06-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court on Thursday rejected a lawsuit by the Mexican government against U.S. gun manufacturers that attempted to hold them responsible for drug cartel violence.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/06/nation-world-news/supreme-court-blocks-mexicos-suit-against-us-gunmakers/>
+
+---
+
+## US travel ban will not hinder Los Angeles Olympics
+
+date: 2025-06-06, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; U.S. President Donald Trump&#8217;s directive banning citizens from 12 countries from entering the U.S. exempts athletes, and LA28 officials said on Thursday they were confident the Games have the full backing of the administration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/06/nation-world-news/us-travel-ban-will-not-hinder-los-angeles-olympics/>
+
+---
+
+## PSS: Burglaries hit several campuses
+
+date: 2025-06-06, updated: 2025-06-06, from: Marianas Variety
+
+This is a developing story. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/pss-burglaries-hit-several-campuses/article_6344e0ff-89d3-400f-a844-b07e9daf86ad.html>
+
+---
+
+## $480 Social assistance approved for release on June 24
+
+date: 2025-06-06, from: Island Times
+
+<p>Eligible Palauan senior citizens and Palauans receiving disability insurance benefits can get their $480 social assistance checks on June 24, 2025, said Director Elway Ikeda of the Bureau of Revenue &#38; Taxation. Recently passed supplemental budget bill, RPPL 12-1, appropriated $1.4 million of social assistance for Palauan citizens who are 60 years and over and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/480-social-assistance-approved-for-release-on-june-24/">$480 Social assistance approved for release on June 24</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/480-social-assistance-approved-for-release-on-june-24/>
+
+---
+
+## Regional Police to assist Palau with security suring 2025 Pacific Mini Games
+
+date: 2025-06-06, from: Island Times
+
+<figure><img width="600" height="914" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/MOJ-Minister-Olegeriil.jpg?fit=600%2C914&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/MOJ-Minister-Olegeriil.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/MOJ-Minister-Olegeriil.jpg?resize=197%2C300&amp;ssl=1 197w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/MOJ-Minister-Olegeriil.jpg?resize=400%2C609&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/MOJ-Minister-Olegeriil.jpg?fit=600%2C914&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77955" data-permalink="https://islandtimes.org/palau-assembles-full-225-athlete-team-for-2025-pacific-mini-games/moj-minister-olegeriil/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/MOJ-Minister-Olegeriil.jpg?fit=600%2C914&amp;ssl=1" data-orig-size="600,914" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1749034389&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.9&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.0166674&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="MOJ Minister Olegeriil" data-image-description="" data-image-caption="&lt;p&gt;MOJ Minister Olegeriil&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/MOJ-Minister-Olegeriil.jpg?fit=197%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/MOJ-Minister-Olegeriil.jpg?fit=600%2C914&amp;ssl=1" /></figure>
+<p>KOROR, Palau — Between 15 and 17 regional police officers from across the Pacific are expected to support Palau law enforcement during the 2025 Pacific Mini Games, Minister of Justice Jennifer Olegeriil announced. Palau is set to sign a Memorandum of Understanding (MOU) this week with a regional policing deployment agency composed of more than [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/regional-police-to-assist-palau-with-security-suring-2025-pacific-mini-games/">Regional Police to assist Palau with security suring 2025 Pacific Mini Games</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/regional-police-to-assist-palau-with-security-suring-2025-pacific-mini-games/>
+
+---
+
+## Palau assembles full 225-Athlete Team for 2025 Pacific Mini Games
+
+date: 2025-06-06, from: Island Times
+
+<figure><img width="600" height="635" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009787.jpg?fit=600%2C635&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009787.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009787.jpg?resize=283%2C300&amp;ssl=1 283w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009787.jpg?resize=400%2C423&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009787.jpg?fit=600%2C635&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77954" data-permalink="https://islandtimes.org/palau-assembles-full-225-athlete-team-for-2025-pacific-mini-games/attachment/1000009787/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009787.jpg?fit=600%2C635&amp;ssl=1" data-orig-size="600,635" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1000009787" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009787.jpg?fit=283%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009787.jpg?fit=600%2C635&amp;ssl=1" /></figure>
+<p>KOROR, Palau (June 5, 2025) — Palau has finalized its full roster of 225 athletes for the 2025 Pacific Mini Games, the maximum number allowed, according to Palau National Olympic Committee Secretary General Baklai Temengil-Chilton. The announcement was made Wednesday during a meeting with Team Palau at the Palau National Gym. Palau will field the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-assembles-full-225-athlete-team-for-2025-pacific-mini-games/">Palau assembles full 225-Athlete Team for 2025 Pacific Mini Games</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-assembles-full-225-athlete-team-for-2025-pacific-mini-games/>
+
+---
+
+## Palau hosts Ocean Science Workshop to strengthen climate and marine services
+
+date: 2025-06-06, from: Island Times
+
+<figure><img width="1024" height="597" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/DSC_1602.jpg?fit=1024%2C597&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/DSC_1602.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/DSC_1602.jpg?resize=300%2C175&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/DSC_1602.jpg?resize=1024%2C597&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/DSC_1602.jpg?resize=768%2C448&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/DSC_1602.jpg?resize=1200%2C699&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/DSC_1602.jpg?resize=780%2C455&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/DSC_1602.jpg?resize=400%2C233&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/DSC_1602.jpg?resize=706%2C412&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/DSC_1602.jpg?fit=1024%2C597&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77945" data-permalink="https://islandtimes.org/palau-hosts-ocean-science-workshop-to-strengthen-climate-and-marine-services/dsc_1602/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/DSC_1602.jpg?fit=1249%2C728&amp;ssl=1" data-orig-size="1249,728" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;6.3&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON Z 50&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1749038914&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;94&quot;,&quot;iso&quot;:&quot;6400&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="DSC_1602" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/DSC_1602.jpg?fit=300%2C175&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/DSC_1602.jpg?fit=780%2C455&amp;ssl=1" /></figure>
+<p>KOROR, Palau (June 5, 2025) — Government officials, scientists, and community stakeholders gathered Thursday for the start of the Palau Ocean Science to Service Workshop, a two-day regional initiative aimed at bolstering Palau’s capacity to use ocean and climate data to address pressing national challenges. Held at the West Plaza Hotel in Koror and organized [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-hosts-ocean-science-workshop-to-strengthen-climate-and-marine-services/">Palau hosts Ocean Science Workshop to strengthen climate and marine services</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-hosts-ocean-science-workshop-to-strengthen-climate-and-marine-services/>
+
+---
+
+## Palau Joins ITU as 194th member state, strengthening Pacific Voice in Global Digital transformation
+
+date: 2025-06-06, from: Island Times
+
+<p>New York, 19 September 2024 — The Republic of Palau has officially joined the International Telecommunication Union (ITU) as its 194th Member State, marking a significant milestone in amplifying the voices of Pacific Island nations and Small Island Developing States (SIDS) in shaping the future of digital technology. &#8220;As a small island nation in the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-joins-itu-as-194th-member-state-strengthening-pacific-voice-in-global-digital-transformation/">Palau Joins ITU as 194th member state, strengthening Pacific Voice in Global Digital transformation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-joins-itu-as-194th-member-state-strengthening-pacific-voice-in-global-digital-transformation/>
+
+---
+
+## Former Palau Honorary Consul files EU complaint, alleges Human Rights violations over Entry Ban
+
+date: 2025-06-06, from: Island Times
+
+<p>KOROR, Palau — George Victor Malek, a former honorary consul of Palau to Monaco, has formally requested the European Union to investigate alleged human rights violations committed by Palau&#8217;s Director of Immigration and Customs, citing his placement on Palau’s “Undesirable Alien” list without due process. In a letter dated June 1, 2025, addressed to the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/former-palau-honorary-consul-files-eu-complaint-alleges-human-rights-violations-over-entry-ban/">Former Palau Honorary Consul files EU complaint, alleges Human Rights violations over Entry Ban</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/former-palau-honorary-consul-files-eu-complaint-alleges-human-rights-violations-over-entry-ban/>
+
+---
+
+## Warming Oceans threaten Pacific Island Communities as 2024 sets Climate Records
+
+date: 2025-06-06, from: Island Times
+
+<p>GENEVA (June 5, 2025) — The South-West Pacific experienced its hottest year on record in 2024, with warming oceans, rising sea levels, and more intense storms threatening the very survival of low-lying island nations, according to a new report by the World Meteorological Organization (WMO). The State of the Climate in the South-West Pacific 2024 [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/warming-oceans-threaten-pacific-island-communities-as-2024-sets-climate-records/">Warming Oceans threaten Pacific Island Communities as 2024 sets Climate Records</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/warming-oceans-threaten-pacific-island-communities-as-2024-sets-climate-records/>
+
+---
+
+## 𝐏𝐚𝐥𝐚𝐮 s𝐡𝐢𝐧𝐞𝐬 𝐚𝐭 𝐭𝐡𝐞 𝟐𝟎𝟐𝟓 𝐓𝐚𝐢𝐩𝐞𝐢 𝐓𝐨𝐮𝐫𝐢𝐬𝐦 𝐄𝐱𝐩𝐨
+
+date: 2025-06-06, from: Island Times
+
+<figure><img width="1024" height="738" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/TTE-2025-2.jpg?fit=1024%2C738&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/TTE-2025-2.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/TTE-2025-2.jpg?resize=300%2C216&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/TTE-2025-2.jpg?resize=1024%2C738&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/TTE-2025-2.jpg?resize=768%2C553&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/TTE-2025-2.jpg?resize=1200%2C865&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/TTE-2025-2.jpg?resize=780%2C562&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/TTE-2025-2.jpg?resize=400%2C288&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/TTE-2025-2.jpg?resize=706%2C509&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/TTE-2025-2.jpg?fit=1024%2C738&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77932" data-permalink="https://islandtimes.org/%f0%9d%90%8f%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%9a%f0%9d%90%ae-s%f0%9d%90%a1%f0%9d%90%a2%f0%9d%90%a7%f0%9d%90%9e%f0%9d%90%ac-%f0%9d%90%9a%f0%9d%90%ad-%f0%9d%90%ad%f0%9d%90%a1%f0%9d%90%9e-%f0%9d%9f%90/tte-2025-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/TTE-2025-2.jpg?fit=1249%2C900&amp;ssl=1" data-orig-size="1249,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Celine&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="TTE 2025-2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/TTE-2025-2.jpg?fit=300%2C216&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/TTE-2025-2.jpg?fit=780%2C562&amp;ssl=1" /></figure>
+<p>On May 21, 2025, the Palau Visitors Authority (PVA) team traveled to Taipei to participate in the 2025 Taipei Tourism Expo (TTE), a four-day event that welcomed an impressive 345,005 visitors. Representing Palau were Board Member Leah Asanuma, Managing Director Kadoi Ruluked, Nicole Kiruu Ngirmekur, Marketing Representative, and Laurence Ierago, Jr., State &#38; Community Representative [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/%f0%9d%90%8f%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%9a%f0%9d%90%ae-s%f0%9d%90%a1%f0%9d%90%a2%f0%9d%90%a7%f0%9d%90%9e%f0%9d%90%ac-%f0%9d%90%9a%f0%9d%90%ad-%f0%9d%90%ad%f0%9d%90%a1%f0%9d%90%9e-%f0%9d%9f%90/">𝐏𝐚𝐥𝐚𝐮 s𝐡𝐢𝐧𝐞𝐬 𝐚𝐭 𝐭𝐡𝐞 𝟐𝟎𝟐𝟓 𝐓𝐚𝐢𝐩𝐞𝐢 𝐓𝐨𝐮𝐫𝐢𝐬𝐦 𝐄𝐱𝐩𝐨</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/%f0%9d%90%8f%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%9a%f0%9d%90%ae-s%f0%9d%90%a1%f0%9d%90%a2%f0%9d%90%a7%f0%9d%90%9e%f0%9d%90%ac-%f0%9d%90%9a%f0%9d%90%ad-%f0%9d%90%ad%f0%9d%90%a1%f0%9d%90%9e-%f0%9d%9f%90/>
+
+---
+
+## PICRC Researcher gains advanced deep-sea training at University of Hawaii
+
+date: 2025-06-06, from: Island Times
+
+<p>Ms. Maikani &#160;Andres, a dedicated researcher from the Palau International Coral Reef Center (PICRC), recently completed a specialized training in deep-sea research at the University of Hawaii at Manoa’s Deep-sea Animal Research Center (DARC). Held from March 27 to April 4, 2025, the training focused on deep-sea video annotation, significantly strengthening Palau’s capacity for offshore [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-researcher-gains-advanced-deep-sea-training-at-university-of-hawaii/">PICRC Researcher gains advanced deep-sea training at University of Hawaii</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/picrc-researcher-gains-advanced-deep-sea-training-at-university-of-hawaii/>
+
+---
+
+## New Chapter, Shared Future
+
+date: 2025-06-06, from: Island Times
+
+<p>Australia Commits $24.75m to SPREP Australia is taking meaningful action on climate change – at home and in partnership with the region. We are making huge investments in our own energy transition. To achieve our target of 82% renewable electricity by 2030 (up from 32% in 2022) and net zero by 2050. To meet Paris [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/new-chapter-shared-future/">New Chapter, Shared Future</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/new-chapter-shared-future/>
+
+---
+
+## Amboi Foundation Awards 2025 Scholarship to Ambros Noel
+
+date: 2025-06-06, from: Island Times
+
+<figure><img width="1024" height="774" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/James-Amboi-Foundation-Awards-2025-.jpg?fit=1024%2C774&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/James-Amboi-Foundation-Awards-2025-.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/James-Amboi-Foundation-Awards-2025-.jpg?resize=300%2C227&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/James-Amboi-Foundation-Awards-2025-.jpg?resize=1024%2C774&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/James-Amboi-Foundation-Awards-2025-.jpg?resize=768%2C580&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/James-Amboi-Foundation-Awards-2025-.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/James-Amboi-Foundation-Awards-2025-.jpg?resize=1200%2C907&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/James-Amboi-Foundation-Awards-2025-.jpg?resize=780%2C590&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/James-Amboi-Foundation-Awards-2025-.jpg?resize=400%2C302&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/James-Amboi-Foundation-Awards-2025-.jpg?resize=706%2C534&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/James-Amboi-Foundation-Awards-2025-.jpg?fit=1024%2C774&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77922" data-permalink="https://islandtimes.org/amboi-foundation-awards-2025-scholarship-to-ambros-noel/james-amboi-foundation-awards-2025/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/James-Amboi-Foundation-Awards-2025-.jpg?fit=1249%2C944&amp;ssl=1" data-orig-size="1249,944" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="James Amboi Foundation Awards 2025" data-image-description="" data-image-caption="&lt;p&gt;: JAF Scholarship Recipient, Mr. Ambros Noel and members of James Amboi Foundation&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/James-Amboi-Foundation-Awards-2025-.jpg?fit=300%2C227&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/James-Amboi-Foundation-Awards-2025-.jpg?fit=780%2C590&amp;ssl=1" /></figure>
+<p>The James Amboi Foundation is proud to announce Mr. Ambros Noel as the recipient of the 2025 James Amboi Foundation (JAF) Scholarship. This annual award recognizes a graduating student of Ngeremlengui Elementary School who has demonstrated significant improvement in both academic performance and social development throughout their elementary school years. Mr. Noel was selected based [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/amboi-foundation-awards-2025-scholarship-to-ambros-noel/">Amboi Foundation Awards 2025 Scholarship to Ambros Noel</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/amboi-foundation-awards-2025-scholarship-to-ambros-noel/>
+
+---
+
+## PICRC Rrepresents Palau at 50th U.S. Coral Reef Task Force meeting
+
+date: 2025-06-06, from: Island Times
+
+<figure><img width="600" height="752" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Geraldine-USCRTF.jpg?fit=600%2C752&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Geraldine-USCRTF.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Geraldine-USCRTF.jpg?resize=239%2C300&amp;ssl=1 239w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Geraldine-USCRTF.jpg?resize=400%2C501&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Geraldine-USCRTF.jpg?fit=600%2C752&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77918" data-permalink="https://islandtimes.org/picrc-rrepresents-palau-at-50th-u-s-coral-reef-task-force-meeting/geraldine-uscrtf/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Geraldine-USCRTF.jpg?fit=600%2C752&amp;ssl=1" data-orig-size="600,752" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Geraldine-USCRTF" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Geraldine-USCRTF.jpg?fit=239%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Geraldine-USCRTF.jpg?fit=600%2C752&amp;ssl=1" /></figure>
+<p>From May 10th to 16th, the Palau International Coral Reef Center’s (PICRC) Chief Executive Oﬃcer Roxanne Siual Blesam and Research Director, Geraldine Rengiil, attended the 50th meeting of the U.S. Coral Reef Task Force (USCRTF) in Washington, D.C., serving as Palau’s Point of Contact to the U.S. All Islands Coral Reef Committee (AIC). The bi-annual [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-rrepresents-palau-at-50th-u-s-coral-reef-task-force-meeting/">PICRC Rrepresents Palau at 50th U.S. Coral Reef Task Force meeting</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/picrc-rrepresents-palau-at-50th-u-s-coral-reef-task-force-meeting/>
+
+---
+
+## Palau advances public accountability through North Pacific Fiscal oversight xonference
+
+date: 2025-06-06, from: Island Times
+
+<figure><img width="769" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?fit=769%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?w=1736&amp;ssl=1 1736w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?resize=769%2C1024&amp;ssl=1 769w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?resize=768%2C1023&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?resize=1153%2C1536&amp;ssl=1 1153w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?resize=1538%2C2048&amp;ssl=1 1538w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?resize=1200%2C1598&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?resize=780%2C1039&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?resize=706%2C940&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?fit=769%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77914" data-permalink="https://islandtimes.org/palau-advances-public-accountability-through-north-pacific-fiscal-oversight-xonference/main-photo/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?fit=1736%2C2312&amp;ssl=1" data-orig-size="1736,2312" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Main Photo" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Main-Photo.jpg?fit=769%2C1024&amp;ssl=1" /></figure>
+<p>Legislators, auditors, and congressional staff from across the North Pacific convened last week in Guam for the North Pacific Fiscal Oversight for Sustainable Development Conference, marking a significant step toward strengthening public accountability, transparency, and citizen trust in the use of public resources. The three-day event brought together representatives from Palau, the Federated States of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-advances-public-accountability-through-north-pacific-fiscal-oversight-xonference/">Palau advances public accountability through North Pacific Fiscal oversight xonference</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-advances-public-accountability-through-north-pacific-fiscal-oversight-xonference/>
+
+---
+
+## Flavored nicotine products driving youth addiction, WHO warns
+
+date: 2025-06-06, from: Island Times
+
+<p>GENEVA (UN NEWS CENTRE) &#8212; For most nicotine users today, their first experience with the drug is a flavoured product – making it easier, and more appealing, to try. This is especially true among youth users: it’s one of the main reasons young people experiment with tobacco or nicotine products in the first place, according [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/flavored-nicotine-products-driving-youth-addiction-who-warns/">Flavored nicotine products driving youth addiction, WHO warns</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/flavored-nicotine-products-driving-youth-addiction-who-warns/>
+
+---
+
+## Kiribati media faces pressure as government oversight hinders press freedom
+
+date: 2025-06-06, from: Island Times
+
+<p>SUVA (PACNEWS)&#8212;A new report warns that government control is choking press freedom in Kiribati. In March 2025, a report titled The State of the Media: Kiribati revealed growing concern over government interference in the country’s media landscape. The report, led by ABC International Development (ABCID) under the Pacific Media Assistance Scheme (PACMAS), was informed by [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/kiribati-media-faces-pressure-as-government-oversight-hinders-press-freedom/">Kiribati media faces pressure as government oversight hinders press freedom</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/kiribati-media-faces-pressure-as-government-oversight-hinders-press-freedom/>
+
+---
+
+## Combat might be launched from Australia says defence chief, as PNG warns Pacific must lead on security
+
+date: 2025-06-06, from: Island Times
+
+<p>CANBERRA (AAP) &#8212; Australia&#8217;s defence force chief warns the nation might need to prepare for launching combat operations from home soil. Addressing the Australian Strategic Policy Institute defence conference in Canberra on Wednesday, Admiral David Johnston spoke on national preparedness and how the nation could mobilise all of society. “We&#8217;re having to reconsider Australia as [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/combat-might-be-launched-from-australia-says-defence-chief-as-png-warns-pacific-must-lead-on-security/">Combat might be launched from Australia says defence chief, as PNG warns Pacific must lead on security</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/combat-might-be-launched-from-australia-says-defence-chief-as-png-warns-pacific-must-lead-on-security/>
+
+---
+
+## Donald Trump announces new travel ban on visitors from 12 countries
+
+date: 2025-06-06, from: Island Times
+
+<p>By&#160;Luke Cooper&#160;with wires In short: (ABC-Australia) Donald Trump has announced a new travel ban for people from 12 nations looking to enter the United States. The president also declared heightened travel restrictions on seven nations, with all 19 countries &#8220;determined to pose a very high risk&#8221; to the national security of the US. What&#8217;s next? [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/donald-trump-announces-new-travel-ban-on-visitors-from-12-countries/">Donald Trump announces new travel ban on visitors from 12 countries</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/donald-trump-announces-new-travel-ban-on-visitors-from-12-countries/>
+
+---
+
+## Discover cutting-edge food tech at high-pressure processing summit
+
+date: 2025-06-05, from: University of Hawaiʻi News
+
+<p><span aria-label="Hawaii">Hawai&#699;i</span>'s food future gets a boost with hands-on tech, training and entrepreneurial support.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/05/cutting-edge-food-tech-high-pressure-processing/">Discover cutting-edge food tech at high-pressure processing summit</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/05/cutting-edge-food-tech-high-pressure-processing/>
+
+---
+
+## The evolving threat of transnational organized crime in the Pacific region
+
+date: 2025-06-05, from: Pacific Island Times
+
+"Now, there are long fingers of evil using their illegal behavior, including bribery and fraud, and we know the deadly impact that they have on our communities." 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-evolving-threat-of-transnational-organized-crime-in-the-pacific-region>
+
+---
+
+## Speed limit along Mamalahoa Highway in Kona to be reduced
+
+date: 2025-06-05, from: Hawaii Tribune Harold
+
+
+				<p>Effective Monday, the speed limit on a stretch of Mamalahoa Highway (Highway 11) in Kona will be reduced from 45 mph to 35 mph to improve safety, according to state transportation officials.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/05/hawaii-news/speed-limit-along-mamalahoa-highway-in-kona-to-be-reduced/>
+
+---
+
+## Films foster local talents
+
+date: 2025-06-05, from: Marshal Islands Journal
+
+<p>Journal 6/8/1982 P1 President asks public to study CompactPresident Amata Kabua and Foreign Secretary Tony deBrum returned from the United States June 4 and reported to leaders and the public assembled at the government building that the Compact of Free Association had been signed. P1 Ataji Balos may resign from CabinetAtaji Balos, minister of Internal Security, has [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/films-foster-local-talents/">Films foster local talents</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/films-foster-local-talents/>
 
 ---
 
@@ -13,7 +521,7 @@ updated: 2025-06-05 14:07:32
 
 date: 2025-06-05, from: University of Hawaiʻi News
 
-<p>A new partnership is giving Hawaiʻi students real-world experience in tech design without having to leave the islands.</p>
+<p>A new partnership is giving <span aria-label="Hawaii">Hawai&#699;i</span> students real-world experience in tech design without having to leave the islands.</p>
 The post <a href="https://www.hawaii.edu/news/2025/06/05/good-jobs-piiku-partnership/">Good Jobs Hawaiʻi, Piʻikū Co. connect students to tech careers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <br> 
@@ -32,6 +540,114 @@ The post <a href="https://www.hawaii.edu/news/2025/06/05/matt-elliott-uh-manoa-a
 <br> 
 
 <https://www.hawaii.edu/news/2025/06/05/matt-elliott-uh-manoa-athletics-director/>
+
+---
+
+## 45 Tinian students complete financial, digital certification courses
+
+date: 2025-06-05, updated: 2025-06-05, from: Marianas Variety
+
+FORTY-FIVE middle and high school students on Tinian have completed financial and digital literacy certification courses. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/45-tinian-students-complete-financial-digital-certification-courses/article_cff31e4e-5511-41dd-a014-36370be608e8.html>
+
+---
+
+## Xi, Trump spoke by telephone on Thursday, Xinhua reports
+
+date: 2025-06-05, updated: 2025-06-05, from: Marianas Variety
+
+BEIJING/WASHINGTON (Reuters) — Chinese President Xi Jinping on Thursday held talks with his U.S. counterpart Donald Trump by phone, China's state-run news agency Xinhua reported, as bilateral relations have been strained by trade disputes. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/xi-trump-spoke-by-telephone-on-thursday-xinhua-reports/article_a39b87b3-1e1f-4114-8710-6131589327a0.html>
+
+---
+
+## Palau’s cesarean rate among highest in the world
+
+date: 2025-06-05, updated: 2025-06-05, from: Marianas Variety
+
+KOROR (Island Times/Pacnews) — Palau’s caesarean birth rate has risen sharply to 42%, far exceeding the World Health Organization’s recommended limit of 10%. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/palau-s-cesarean-rate-among-highest-in-the-world/article_02e8e689-e906-46b9-a8f3-3275139d4470.html>
+
+---
+
+## Palau Red Cross appeals for support after loss of US aid funds
+
+date: 2025-06-05, updated: 2025-06-05, from: Marianas Variety
+
+KOROR (Island Times/Pacnews) — The Palau Red Cross Society is appealing to the Olbiil Era Kelulau or Palau’s National Congress, for supplemental funding after losing nearly $600,000 in U.S. government aid due to executive orders signed by President Donald Trump. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/palau-red-cross-appeals-for-support-after-loss-of-us-aid-funds/article_269240fc-cc6a-438d-99ae-4157f6bfa0f9.html>
+
+---
+
+## Report: Lack of Marshall Islands birth studies hinder understanding of nuclear testing impacts
+
+date: 2025-06-05, updated: 2025-06-05, from: Marianas Variety
+
+MAJURO — A new report on the United States nuclear weapons testing legacy in the Marshall Islands highlights the lack of studies into important health concerns voiced by Marshallese for decades that make it impossible to have a clear understanding of the impacts of the 67 nuclear weapons tests. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/report-lack-of-marshall-islands-birth-studies-hinder-understanding-of-nuclear-testing-impacts/article_0b7a698f-86eb-4c2f-9dcc-4146b5e78a8e.html>
+
+---
+
+## Scheduled power service interruption for Finasisu on June 11
+
+date: 2025-06-05, updated: 2025-06-05, from: Marianas Variety
+
+(Commonwealth Utilities Corporation) — There will be a scheduled power service interruption on Wednesday, June 11, 2025, from 9 a.m. to 1 p.m. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/scheduled-power-service-interruption-for-finasisu-on-june-11/article_5c7b5d94-f893-47e2-821b-f204adb4036d.html>
+
+---
+
+## Pretty darn bad
+
+date: 2025-06-05, updated: 2025-06-05, from: Marianas Variety
+
+Crickets 
+
+<br> 
+
+<https://www.mvariety.com/views/editorials/pretty-darn-bad/article_991ebd24-3b1a-49f0-b4ba-42b53454b4d5.html>
+
+---
+
+## Tazri, Escarcha are Hopwood’s top promotees
+
+date: 2025-06-05, updated: 2025-06-05, from: Marianas Variety
+
+(PSS) — Mst. Tharatun B. Tazri and Samantha L. Escharcha are the valedictorian and salutatorian of Hopwood Middle School, which held its promotion ceremony on Tuesday, June 3, for 186 eighth-graders now moving on to high school. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/tazri-escarcha-are-hopwood-s-top-promotees/article_2addecd5-32ea-4ec8-a467-ce485963dc1f.html>
+
+---
+
+## Bolis: Goal is to have direct and positive impact on people
+
+date: 2025-06-05, updated: 2025-06-05, from: Marianas Variety
+
+AS someone who has served in various capacities in the Office of the Governor, John Oliver “Bolis” Gonzales said it is an honor to be appointed communications and policy advisor by Gov. Arnold I. Palacios and to “serve our people” in this capacity. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/bolis-goal-is-to-have-direct-and-positive-impact-on-people/article_0f7ffc43-9f8e-46d3-ab16-6cd82b622a19.html>
 
 ---
 
@@ -224,6 +840,20 @@ date: 2025-06-05, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/06/05/hawaii-news/three-big-island-residents-found-guilty-in-housing-credits-scam/>
+
+---
+
+## Green signs law to protect young performers
+
+date: 2025-06-05, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8212; Gov. Josh Green on Wednesday signed legislation aimed at safeguarding the earnings of child and youth performers from mismanagement, exploitation and abuse.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/05/hawaii-news/green-signs-law-to-protect-young-performers/>
 
 ---
 

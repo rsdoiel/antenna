@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-06-05 14:07:37
+updated: 2025-06-06 06:09:07
 ---
 
 # craft
 
-(date: 2025-06-05 14:07:37)
+(date: 2025-06-06 06:09:07)
+
+---
+
+## Mind Upon Mind: A Change to the Staked Chair
+
+date: 2025-06-06, from: Lost Arg Press blog
+
+Editor’s note: Our Mind Upon Mind series is a nod to a 1937 Chips from the Chisel column (also featured in “Honest Labour: The Charles H. Hayward Years”), in which Hayward wrote, “The influence of mind upon mind is extraordinary.” The idea being there’s often room for improvement. (You can read the entire Chips from... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/06/06/mind-upon-mind-a-change-to-the-staked-chair/>
 
 ---
 

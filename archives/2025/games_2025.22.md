@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-06-05 14:07:34
+updated: 2025-06-06 06:09:03
 ---
 
 # games
 
-(date: 2025-06-05 14:07:34)
+(date: 2025-06-06 06:09:03)
+
+---
+
+## The Gachiakuta trailer is loud and angry as the anime adaptation should be
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+The anime summer season is close — and there will be lots of big names for us to look forward to. In such a packed season, Gachiakuta is one of the most anticipated and Crunchyroll just dropped a new trailer for the show which is airing next month July 6, 2025, alongside some details on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/604354/gachiakuta-trailer>
+
+---
+
+## How to unlock all outfits in Mario Kart World
+
+date: 2025-06-05, updated: 2025-06-05, from: Polygon Website
+
+Mario Kart World has dozens of unlockable outfits for its wide cast of characters. These outfits are technically classified as separate characters via the character select screen, but not every character gets outfits. Characters pulled from background environments like Pianta or Dolphin don’t get any outfits, sadly, so your dream of seeing Cow in a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mario-kart-world-guides/603767/outfits-unlock-requiremenets-list-all-how-to>
+
+---
+
+## How to unlock characters in Mario Kart World
+
+date: 2025-06-05, updated: 2025-06-05, from: Polygon Website
+
+There are a ton of characters in Mario Kart World (50 to be exact), but you have to unlock a few of them first. If you’re rushing to unlock Cataquack or Rosalina, you’ll want to know the specifics for unlocking certain characters, as some require you to clear a cup, whereas others require you to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mario-kart-world-guides/603321/unlock-characters-all-how-to-methods>
+
+---
+
+## How GameShare and GameChat work with Nintendo Switch 2
+
+date: 2025-06-05, updated: 2025-06-05, from: Polygon Website
+
+Nintendo Switch 2’s GameShare and GameChat are two new ways to play multiplayer games with friends, even if your friends don’t own the game you want to play. One of you needs to own a Switch 2 and a GameShare compatible game to get started, though who you can play with, which games work, and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/604313/how-to-use-gameshare-gamechat-switch-2>
 
 ---
 

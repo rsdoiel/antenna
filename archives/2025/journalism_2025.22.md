@@ -1,11 +1,197 @@
 ---
 title: journalism
-updated: 2025-06-05 14:07:34
+updated: 2025-06-06 06:09:03
 ---
 
 # journalism
 
-(date: 2025-06-05 14:07:34)
+(date: 2025-06-06 06:09:03)
+
+---
+
+## L.A. County Fire Urges Residents to Prepare as Wildfire Threat Grows
+
+date: 2025-06-06, from: The Canyon News (COC Student Newspaper)
+
+<p>Fires are no surprise to residents in Southern California. After the recent&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/fire-season-preparation/">L.A. County Fire Urges Residents to Prepare as Wildfire Threat Grows</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/fire-season-preparation/>
+
+---
+
+## Academic Advancement Program to pause some programs, reduce staff amid budget cuts
+
+date: 2025-06-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Mariah Strawder, a first-generation student, said she felt the weight of setting a good example for her younger brothers after her mother died.
+Because her mother died as Strawder began high school, she said she did not have as much time to pursue extracurricular activities while attending Westchester Enriched Sciences Magnets, a Los Angeles Unified School District high school, instead needing to focus on her academics. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/05/academic-advancement-program-to-pause-some-programs-reduce-staff-amid-budget-cuts/>
+
+---
+
+## UCLA experts urge students to get proper rest during finals week
+
+date: 2025-06-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Finals week often brings sleepless nights and exhaustion for many college students, as some may sacrifice sleep in favor of late-night studying &#8211; a habit that can come with significant health consequences. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/05/ucla-experts-urge-students-to-get-proper-rest-during-finals-week/>
+
+---
+
+## Rachel Sung makes name for herself through Olympics, business endeavors
+
+date: 2025-06-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+From the Olympic stage to tracking growth metrics, Rachel Sung is making a name for herself.
+Sung, a third-year cognitive science student, has been balancing competitive table tennis and schoolwork since she was six years old. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/05/rachel-sung-makes-name-for-herself-through-olympics-business-endeavors/>
+
+---
+
+## The Hammer Museum hosts its annual arts party
+
+date: 2025-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Many UCLA students visited the Hammer museum on Friday April 25, for its &#8220;arts party&#8221;, which featured arts workshops, live music, and more. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/05/the-hammer-museum-hosts-its-annual-arts-party/>
+
+---
+
+## Students celebrate at UCLA’s annual Pow Wow
+
+date: 2025-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+The American-Indian Student Association held its 40th annual PowWow Saturday May 3 and Sunday May 4. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/05/students-celebrate-at-uclas-annual-pow-wow/>
+
+---
+
+## ‘They’ve taken away the flexibility’ – UCLA float pool nurses raise job concerns
+
+date: 2025-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Danielle Herrera takes a nearly six-hour long flight from Miami every other week to work as a float pool nurse at UCLA Health.
+A single mom with a 12-year-old son, she has – for the past eight years – traveled to work in hospitals across California, Colorado, Oregon and Washington. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/05/theyve-taken-away-the-flexibility-ucla-float-pool-nurses-raise-job-concerns/>
+
+---
+
+## Julio Frenk reaffirms UCLA’s resilience at inauguration; 3 protesters detained
+
+date: 2025-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated June 5 at 5:40 p.m.</em>
+Chancellor Julio Frenk said UCLA must remain resilient amid threats to higher education during his inauguration Thursday. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/05/julio-frenk-reaffirms-uclas-resilience-at-inauguration-3-protesters-detained/>
+
+---
+
+## A year in review: Q&A with Pierce President Ara Aguiar
+
+date: 2025-06-05, from: The Round Up (Pierce College Student Newspaper)
+
+<p>For Pierce President Ara Aguiar, this past academic year was filled with challenges, most notably a budget deficit that is now projected to break even.</p>
+<p>The post <a href="https://theroundupnews.com/2025/06/05/a-year-in-review-qa-with-pierce-president-ara-aguiar/">A year in review: Q&#038;A with Pierce President Ara Aguiar</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/06/05/a-year-in-review-qa-with-pierce-president-ara-aguiar/?utm_source=rss&utm_medium=rss&utm_campaign=a-year-in-review-qa-with-pierce-president-ara-aguiar>
+
+---
+
+## Auto Tech faculty volunteer time to restore colleague’s car
+
+date: 2025-06-05, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Faculty and student collaboration fulfilled a long-time wish of Juan Gomez, Pierce College&#8217;s custodian, as he has been working on it for more than eight</p>
+<p>The post <a href="https://theroundupnews.com/2025/06/05/auto-tech-faculty-volunteer-time-to-restore-colleagues-car/">Auto Tech faculty volunteer time to restore colleague&#8217;s car</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/06/05/auto-tech-faculty-volunteer-time-to-restore-colleagues-car/?utm_source=rss&utm_medium=rss&utm_campaign=auto-tech-faculty-volunteer-time-to-restore-colleagues-car>
+
+---
+
+## ‘It’s a whole community:’ Dancers come together for recital
+
+date: 2025-06-05, from: The Round Up (Pierce College Student Newspaper)
+
+<p>At the Pierce College spring dance show from May 30 to June 1, there were multiple performances ranging from high school teams to student-choreographed pieces.</p>
+<p>The post <a href="https://theroundupnews.com/2025/06/05/its-a-whole-community-dancers-come-together-for-recital/">&#8216;It&#8217;s a whole community:&#8217; Dancers come together for recital</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/06/05/its-a-whole-community-dancers-come-together-for-recital/?utm_source=rss&utm_medium=rss&utm_campaign=its-a-whole-community-dancers-come-together-for-recital>
+
+---
+
+## Veterans Club hosts Memorial Day barbecue fundraiser
+
+date: 2025-06-05, from: The Round Up (Pierce College Student Newspaper)
+
+<p>&#160; The Veteran Club organized a fundraising event to provide support for veterans, featuring a barbecue, games and music on Thursday, May 29, on the</p>
+<p>The post <a href="https://theroundupnews.com/2025/06/05/veterans-club-hosts-memorial-day-barbecue-fundraiser/">Veterans Club hosts Memorial Day barbecue fundraiser</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/06/05/veterans-club-hosts-memorial-day-barbecue-fundraiser/?utm_source=rss&utm_medium=rss&utm_campaign=veterans-club-hosts-memorial-day-barbecue-fundraiser>
+
+---
+
+## Pierce community takes a closer look during Telescope Night
+
+date: 2025-06-05, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce College’s Department of Physics and Planetary Sciences hosted a Telescope Night on Monday, June 2 at the Center for Sciences for students and members</p>
+<p>The post <a href="https://theroundupnews.com/2025/06/05/pierce-community-takes-a-closer-look-during-telescope-night/">Pierce community takes a closer look during Telescope Night</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/06/05/pierce-community-takes-a-closer-look-during-telescope-night/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-community-takes-a-closer-look-during-telescope-night>
+
+---
+
+## Pierce, district work toward expanding student housing
+
+date: 2025-06-05, from: The Round Up (Pierce College Student Newspaper)
+
+<p>With 67% of Los Angeles Community College District students facing housing insecurity, Pierce College and the district are working to provide solutions. In March, the</p>
+<p>The post <a href="https://theroundupnews.com/2025/06/05/pierce-district-work-toward-expanding-student-housing/">Pierce, district work toward expanding student housing</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/06/05/pierce-district-work-toward-expanding-student-housing/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-district-work-toward-expanding-student-housing>
 
 ---
 
@@ -19,6 +205,19 @@ The fourth-year music industry student has cultivated a strong sense of communit
 <br> 
 
 <https://dailybruin.com/2025/06/05/rapidy-growing-singer-songwriter-bella-marcy-unites-fans-through-music/>
+
+---
+
+## Rapidly growing singer, songwriter Bella Marcy unites fans through music
+
+date: 2025-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Bella Marcy is connecting with thousands through her music.
+The fourth-year music industry student has cultivated a strong sense of community among her listeners across social media. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/05/rapidly-growing-singer-songwriter-bella-marcy-unites-fans-through-music/>
 
 ---
 
