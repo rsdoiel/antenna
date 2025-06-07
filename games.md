@@ -1,17 +1,17 @@
 ---
 title: games
-updated: 2025-06-07 06:08:16
+updated: 2025-06-07 14:10:21
 ---
 
 # games
 
-(date: 2025-06-07 06:08:16)
+(date: 2025-06-07 14:10:21)
 
 ---
 
-## Like A Dragon dev’s Stranger Than Heaven is LA Noire, but make it Yakuza
+## Like A Dragon dev’s Stranger Than Heaven is LA Noire, Yakuza-style
 
-date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+date: 2025-06-06, updated: 2025-06-07, from: Polygon Website
 
 Following the reveal of Project Century during The Game Awards 2024, Sega and Like A Dragon developer Ryu Ga Gotoku Studio showed up to Summer Game Fest 2025 with a new trailer, a new era, and a new name: Stranger Than Heaven. Where the initial trailer looked like early-20th century Judgment, where a detective wandered [&#8230;] 
 
@@ -35,7 +35,7 @@ Summer Game Fest kicked off on Friday with a tw0-hour extravaganza, in the old-f
 
 ## Resident Evil Requiem is a return to form for the franchise in new trailer
 
-date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+date: 2025-06-06, updated: 2025-06-07, from: Polygon Website
 
 Capcom revealed the next installment in the Resident Evil franchise, Resident Evil Requiem, on Friday at Summer Game Fest as the livestream’s closing announcement, following a swerve by the dev team earlier in the show. Resident Evil Requiem, Capcom says, will take the franchise back to its origins: Raccoon City. The ninth mainline Resident Evil [&#8230;] 
 
@@ -246,18 +246,6 @@ The anime summer season is close — and there will be lots of big names for us 
 <br> 
 
 <https://www.polygon.com/anime/604354/gachiakuta-trailer>
-
----
-
-## How to unlock all outfits in Mario Kart World
-
-date: 2025-06-05, updated: 2025-06-05, from: Polygon Website
-
-Mario Kart World has dozens of unlockable outfits for its wide cast of characters. These outfits are technically classified as separate characters via the character select screen, but not every character gets outfits. Characters pulled from background environments like Pianta or Dolphin don’t get any outfits, sadly, so your dream of seeing Cow in a [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/mario-kart-world-guides/603767/outfits-unlock-requiremenets-list-all-how-to>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: snapshots
-updated: 2025-06-07 06:08:22
+updated: 2025-06-07 14:10:28
 ---
 
 # snapshots
 
-(date: 2025-06-07 06:08:22)
+(date: 2025-06-07 14:10:28)
 
 ---
 
@@ -1490,7 +1490,7 @@ Manifesto</a> still reads pretty fresh today? Maybe it’s just me, but I
 feel like it has some <a
 href="https://permacomputing.net/">permacomputing</a> vibes.
 </p>
-<embed src="/papers/dark-mountain-manifesto.pdf" width="90%" height="800" type="application/pdf">
+<embed src="/papers/dark-mountain-manifesto.pdf" width="800" height="1000" type="application/pdf">
  
 
 <br> 

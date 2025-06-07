@@ -1,11 +1,11 @@
 ---
 title: socal north
-updated: 2025-06-07 06:08:12
+updated: 2025-06-07 14:10:17
 ---
 
 # socal north
 
-(date: 2025-06-07 06:08:12)
+(date: 2025-06-07 14:10:17)
 
 ---
 
@@ -49,7 +49,7 @@ The risks of drones have been underscored by Russia's drone strikes in Ukraine, 
 
 date: 2025-06-06, updated: 2025-06-07, from: The LAist
 
-Confrontations between what appeared to be personnel from U.S. Immigration and Customs Enforcement and people in the streets of downtown L.A. were carried live on TV. 
+Immigration and Customs Enforcement said about 44 people were arrested in the raids. 
 
 <br> 
 
@@ -127,7 +127,7 @@ The memo obtained by NPR says troops would be used in activities, including in "
 
 ## Goodbye, LAX horseshoe — Metro's long-awaited airport train station opens
 
-date: 2025-06-06, updated: 2025-06-06, from: The LAist
+date: 2025-06-06, updated: 2025-06-07, from: The LAist
 
 Metro's C and K rail lines directly connect to the new station. 
 
@@ -317,6 +317,18 @@ From space travel to military operations to the future of green energy, the U.S.
 
 ---
 
+## From LA food stand to billion-dollar brand, how Dave’s Hot Chicken got us hooked
+
+date: 2025-06-06, updated: 2025-06-07, from: The LAist
+
+Three young friends set up a fried chicken pop up in a Hollywood parking lot. The rest is the stuff of legend. 
+
+<br> 
+
+<https://laist.com/news/food/how-daves-hot-chicken-got-us-hooked>
+
+---
+
 ## Remembering the joy of a Thrifty ice cream trip, from 10 cent scoops to iconic flavors
 
 date: 2025-06-06, updated: 2025-06-06, from: The LAist
@@ -338,18 +350,6 @@ From regional Mexican antojitos to over-the-top breakfast burritos, family-run s
 <br> 
 
 <https://laist.com/news/food/cheap-fast-eats-santa-ana>
-
----
-
-## From LA food stand to billion-dollar brand, how Dave’s Hot Chicken got us hooked
-
-date: 2025-06-06, updated: 2025-06-06, from: The LAist
-
-Three young friends set up a fried chicken pop up in a Hollywood parking lot. The rest is the stuff of legend. 
-
-<br> 
-
-<https://laist.com/news/food/how-daves-hot-chicken-got-us-hooked>
 
 ---
 
@@ -593,11 +593,11 @@ Evacuation orders were issued for residents in the Digier Canyon and Lebec areas
 
 ---
 
-## Best things to do this weekend in LA and SoCal: June 6 - 8
+## Best things to do this weekend
 
-date: 2025-06-05, updated: 2025-06-05, from: The LAist
+date: 2025-06-05, updated: 2025-06-07, from: The LAist
 
-Verdi’s Messa da Requiem, an immersive Gatsby dance, Hugh Jackman at Hollywood Bowl season opener, Pride heads to Venice, free Metro rides, Watermelon Fest, and more of the best things to do this weekend. 
+Verdi’s Messa da Requiem, an immersive Gatsby dance, Hollywood Bowl season opener, Pride events and more. 
 
 <br> 
 

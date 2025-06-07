@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2025-06-07 06:08:13
+updated: 2025-06-07 14:10:18
 ---
 
 # pacific
 
-(date: 2025-06-07 06:08:13)
+(date: 2025-06-07 14:10:18)
 
 ---
 
@@ -98,6 +98,18 @@ By Pacific Island Times News Staff The Department of Public Works will begin neg
 <br> 
 
 <https://www.pacificislandtimes.com/post/contractor-finally-selected-to-build-guam-s-long-delayed-school-project>
+
+---
+
+## [Executive Corner] Smart Factory: Ushering in a New Era of Manufacturing
+
+date: 2025-06-06, updated: 2025-06-06, from: Marianas Variety
+
+(BPT) - By Song Si-yong, head of Smart Factory Business Division, Production Engineering Research Institute, LG Electronics 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/executive-corner-smart-factory-ushering-in-a-new-era-of-manufacturing/article_5b6d910c-3537-5b62-8467-b51489d84360.html>
 
 ---
 
@@ -607,7 +619,7 @@ date: 2025-06-05, from: Pacific Island Times
 
 ## How to upgrade Dad's grooming game for Father's Day
 
-date: 2025-06-05, updated: 2025-06-05, from: Marianas Variety
+date: 2025-06-05, updated: 2025-06-07, from: Marianas Variety
 
 (BPT) - Content sponsored and provided by Walgreens. 
 
@@ -633,7 +645,7 @@ date: 2025-06-05, from: Hawaii Tribune Harold
 
 ## Navigating the Digital World: Protecting Your Safety Online
 
-date: 2025-06-05, updated: 2025-06-05, from: Marianas Variety
+date: 2025-06-05, updated: 2025-06-07, from: Marianas Variety
 
 (BPT) - Technology is integral to Americans' daily lives — at work, home, school and everywhere in between. They can't live without it and may not even realize how much time is spent on their phones, laptops and tablets. Deloitte's Center for Technology, Media &amp; Telecommunications surveyed U.S. consumers and found that the average American spends eight hours a day online — half of waking hours. That equates to almost 3,000 hours a year. While all that time online can deliver positive experiences, 44% of those surveyed admit they struggle to limit their screen time to a level they are comfortable with, up from 38% year-over-year. 
 
@@ -659,7 +671,7 @@ date: 2025-06-05, from: Marshal Islands Journal
 
 ## Discover 10 fun facts about this summer's new FIFA Club World Cup coming to the United States
 
-date: 2025-06-05, updated: 2025-06-05, from: Marianas Variety
+date: 2025-06-05, updated: 2025-06-07, from: Marianas Variety
 
 (BPT) - On June 14, the inaugural FIFA Club World Cup™ will kick off at Hard Rock Stadium in Miami, Florida. The new tournament is coming to the U.S. and setting the stage for historic matchups between dozens of the world's most elite club teams that you won't want to miss. 
 

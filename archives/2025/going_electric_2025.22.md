@@ -1,11 +1,11 @@
 ---
 title: going electric
-updated: 2025-06-07 06:08:20
+updated: 2025-06-07 14:10:25
 ---
 
 # going electric
 
-(date: 2025-06-07 06:08:20)
+(date: 2025-06-07 14:10:25)
 
 ---
 
@@ -30,6 +30,10 @@ date: 2025-06-06, from: Electrek Feed
 date: 2025-06-06, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla being in the crosshairs of the Musk/Trump divorce, EV sales in Europe, a new Hyundai electric minivan, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Electrek_388.mp3"></audio></figure>
 
 
 
@@ -226,6 +230,10 @@ Rivian exec confirms its upcoming R2 will be the techno grandfather of all futur
 date: 2025-06-06, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes Trek’s first throttle e-bike, NYC imposing a 15 MPH speed limit for e-bikes, MeetOne Tour electric trike review, why your e-bike frame number is important, NIU’s stock is soaring, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Wheele_91.mp3"></audio></figure>
 
 
 

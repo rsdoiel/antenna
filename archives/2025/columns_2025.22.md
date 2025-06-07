@@ -1,11 +1,11 @@
 ---
 title: columns
-updated: 2025-06-07 06:08:15
+updated: 2025-06-07 14:10:20
 ---
 
 # columns
 
-(date: 2025-06-07 06:08:15)
+(date: 2025-06-07 14:10:20)
 
 ---
 
@@ -267,7 +267,7 @@ date: 2025-06-06, from: Jeff Geerling blog
 
 date: 2025-06-06, from: Doc Searls (at Harvard), New Old Blog
 
-But the problem is a U.S. one. Traffic to this blog jumped 313% today, thanks to Hacker News pointing to Online Sports Betting is for Losers, which was posted two and a half weeks ago. Visitors came from 70 countries. Asking for a cohort. How many different sellers, or one seller with different names, are [&#8230;] 
+Asking for a cohort. How many different sellers, or one seller with different names, are (or is) pushing a coffee cup with the design above? But the problem is a U.S. one. Traffic to this blog jumped 313% today, thanks to Hacker News pointing to Online Sports Betting is for Losers, which was posted two [&#8230;] 
 
 <br> 
 
@@ -754,7 +754,7 @@ date: 2025-06-04, updated: 2025-06-04, from: Daring Fireball
 
 date: 2025-06-04, from: Dave Winer's Scripting News
 
-<p><a href="https://fediforum.org/">FediForum</a> is a virtual conference that starts on June 5. If they had asked me to keynote, this is roughly what I would say. </p>
+<p><a href="https://fediforum.org/">FediForum</a> is a virtual conference that starts on June 5. If they had asked me to keynote, this is roughly what I would say.  </p>
 <p>Imho this stuff is pretty freaking simple, esp since there are well over 20 years of prior art to use, and not that many ways to do what we're trying to do. I'm impatient, so here's a quick set of observations with my opinion, take it for what it's worth, ymmv, etc. </p>
 <ul>
 <li>You shouldn't be reinventing so much. Always look around for <a href="http://essaysfromexodus.scripting.com/priorArtDesignMethod">prior art</a>. That will make it possible for you to interop more quickly at both a software level and at a human level. </li>
@@ -1168,7 +1168,7 @@ What if we all took a new pledge?
 
 ## WhatsApp for iPad, Finally
 
-date: 2025-06-02, updated: 2025-06-03, from: Daring Fireball
+date: 2025-06-02, updated: 2025-06-07, from: Daring Fireball
 
  
 
