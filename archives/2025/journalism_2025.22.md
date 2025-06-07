@@ -1,11 +1,25 @@
 ---
 title: journalism
-updated: 2025-06-06 14:07:56
+updated: 2025-06-07 06:08:16
 ---
 
 # journalism
 
-(date: 2025-06-06 14:07:56)
+(date: 2025-06-07 06:08:16)
+
+---
+
+## COC works to keeps students engaged on campus outside of class hours
+
+date: 2025-06-06, from: The Canyon News (COC Student Newspaper)
+
+<p>College of the Canyons has an annual enrollment of just over 40,000&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/college-life/">COC works to keeps students engaged on campus outside of class hours</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/college-life/>
 
 ---
 
@@ -975,4 +989,29 @@ Metro announced in a May 7 statement that William Scott, who was the San Francis
 <br> 
 
 <https://dailybruin.com/2025/05/31/los-angeles-metro-names-new-chief-to-lead-in-house-police-force/>
+
+---
+
+## West LA food
+
+date: 2025-05-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+From buzzy new openings to longtime neighborhood staples, this project gathers food coverage across West Los Angeles. Whether keeping up with the latest or revisiting familiar flavors, there&#8217;s plenty to explore. 
+
+<br> 
+
+<https://features.dailybruin.com/2025/west-la-food-25/>
+
+---
+
+## NWWNC Q&A: Student member Arjun Pathiyal discusses important issues, goals for Westwood
+
+date: 2025-05-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated June 2 at 12:03 a.m.</em>
+Arjun Pathiyal won a position on the North Westwood Neighborhood Council as an undergraduate student board member in April. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/30/nwwnc-qa-student-member-arjun-pathiyal-discusses-important-issues-goals-for-westwood/>
 

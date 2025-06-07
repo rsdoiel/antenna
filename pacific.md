@@ -1,11 +1,25 @@
 ---
 title: pacific
-updated: 2025-06-06 14:07:53
+updated: 2025-06-07 06:08:13
 ---
 
 # pacific
 
-(date: 2025-06-06 14:07:53)
+(date: 2025-06-07 06:08:13)
+
+---
+
+## Preparing for Hurricane and Fire Season INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-06-06, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Hurricane season is here and even as weather forecasters are predicting a near to below average season with 1 to 4 tropical cyclones in our region, they stress the importance of staying aware and being prepared. </p>
+<p>The post <a href="https://www.pbshawaii.org/preparing-for-hurricane-and-fire-season-insights-on-pbs-hawai%ca%bbi-2/">Preparing for Hurricane and Fire Season &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/preparing-for-hurricane-and-fire-season-insights-on-pbs-hawai%ca%bbi-2/>
 
 ---
 
@@ -51,7 +65,7 @@ date: 2025-06-06, from: Pacific Island Times
 
 date: 2025-06-06, from: INSIGHTS ON PBS HAWAIʻI
 
-<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists are: Percy Ihara, Certified Senior Advisor Travis Motosue, Financial Benefits Insurance Ee Soo Paik, Leader of Kupuna Strategy &#38; Services, YMCA Hawaiʻi Derrick Ariyoshi, Elderly Affairs Division, City [&#8230;]</p>
+<p> There is an age-old phrase that it is never too early to plan for retirement. There are several options to consider including setting up a 401K, an IRA or some other plan you can rely on in your senior years. </p>
 <p>The post <a href="https://www.pbshawaii.org/planning-for-retirement-insights-on-pbs-hawai%ca%bbi/">Planning for Retirement &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
  
 
@@ -65,7 +79,7 @@ date: 2025-06-06, from: INSIGHTS ON PBS HAWAIʻI
 
 date: 2025-06-06, from: INSIGHTS ON PBS HAWAIʻI
 
-<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists are: tba</p>
+<p>Despite unemployment in Hawai’i being low, employers in both the public and private sectors are still struggling to find workers to fill positions, while some applicants can’t find a job they want. </p>
 <p>The post <a href="https://www.pbshawaii.org/examing-hawai%ca%bbi-job-market-insights-on-pbs-hawai%ca%bbi/">Examing Hawaiʻi Job Market &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
  
 
@@ -2479,4 +2493,291 @@ date: 2025-06-01, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/06/01/features/halema%ca%bbuma%ca%bbu-eruption-reaches-new-heights-hvo-updates-volcano-alert-notifications/>
+
+---
+
+## Archbishop’s message announcingthe passing of Archbishop Emeritus Byrnes
+
+date: 2025-05-31, from: Pacific Island Times
+
+Michael J. Byrnes Dear brothers and sisters in Christ, With deep sadness, I share news that Archbishop Emeritus Michael J. Byrnes has... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/archbishop-s-message-announcingthe-passing-of-archbishop-emeritus-byrnes>
+
+---
+
+## A black eye at the White House: Did somebody punch Elon?
+
+date: 2025-05-31, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; It was like metaphor turned reality.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/a-black-eye-at-the-white-house-did-somebody-punch-elon/>
+
+---
+
+## Trump says he plans to double steel, aluminum tariffs to 50%
+
+date: 2025-05-31, from: Hawaii Tribune Harold
+
+
+				<p>WEST MIFFLIN, Pa. &#8212; President Donald Trump said Friday that he would double the tariffs he had levied on foreign steel and aluminum to 50%, a move that he claimed would further protect the industry.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/trump-says-he-plans-to-double-steel-aluminum-tariffs-to-50/>
+
+---
+
+## Trump’s sweeping tax-cut bill includes provision to weaken court powers
+
+date: 2025-05-31, from: Hawaii Tribune Harold
+
+
+				<p>WILMINGTON, Delaware &#8212; The sweeping tax-and-spending bill that would enact President Donald Trump&#8217;s policy agenda includes a provision that critics said would weaken the power of U.S. judges to enforce contempt when the government defies court orders.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/trumps-sweeping-tax-cut-bill-includes-provision-to-weaken-court-powers/>
+
+---
+
+## On the campaign trail, Elon Musk juggled drugs and family drama
+
+date: 2025-05-31, from: Hawaii Tribune Harold
+
+
+				<p>As Elon Musk became one of Donald Trump&#8217;s closest allies last year, leading raucous rallies and donating about $275 million to help him win the presidency, he was also using drugs far more intensely than previously known, according to people familiar with his activities.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/on-the-campaign-trail-elon-musk-juggled-drugs-and-family-drama/>
+
+---
+
+## US Supreme Court lets Trump revoke humanitarian legal status for migrants
+
+date: 2025-05-31, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Supreme Court on Friday let President Donald Trump&#8217;s administration revoke the temporary legal status of hundreds of thousands of Venezuelan, Cuban, Haitian and Nicaraguan migrants living in the United States, bolstering the Republican president&#8217;s drive to step up deportations. The court put on hold Boston-based U.S. District Judge Indira Talwani&#8217;s order halting the administration&#8217;s move to end the immigration &#8220;parole&#8221; granted to 532,000 of these migrants by Trump&#8217;s predecessor Joe Biden, potentially exposing many of them to rapid removal, while the case plays out in lower courts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/us-supreme-court-lets-trump-revoke-humanitarian-legal-status-for-migrants/>
+
+---
+
+## Tropical Gardening: Add food and vitamin-producing plants to your garden
+
+date: 2025-05-31, from: Hawaii Tribune Harold
+
+
+				<p>We have come to a time when we need to depend more on our gardens and what they can produce to keep our food costs lower and products locally grown.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/31/features/tropical-gardening-add-food-and-vitamin-producing-plants-to-your-garden-3/>
+
+---
+
+## Green signs bills to bolster schoolchildren
+
+date: 2025-05-31, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green signed three bills Friday afternoon to support healthier keiki through better access to food, transportation and surfing programs in schools.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/31/hawaii-news/green-signs-bills-to-bolster-schoolchildren/>
+
+---
+
+## News in brief for May 31
+
+date: 2025-05-31, from: Hawaii Tribune Harold
+
+
+				<p>Taylor Swift has&#0010;gained control of &#0010;her music catalog</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/news-in-brief-for-may-31/>
+
+---
+
+## Scientists say they’ve found a dwarf planet very far from the sun
+
+date: 2025-05-31, from: Hawaii Tribune Harold
+
+
+				<p>A sizable world has been found in a part of the solar system that astronomers once thought to be empty. It probably qualifies as a dwarf planet, the same classification as Pluto.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/scientists-say-theyve-found-a-dwarf-planet-very-far-from-the-sun/>
+
+---
+
+## Trump administration says New York mascot ban violates civil rights law
+
+date: 2025-05-31, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Department of Education accused New York officials Friday of discriminating against Native Americans by banning school mascots that draw from their culture.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/trump-administration-says-new-york-mascot-ban-violates-civil-rights-law/>
+
+---
+
+## 1 killed and at least 7 are injured in tornado in Kentucky, officials say
+
+date: 2025-05-31, from: Hawaii Tribune Harold
+
+
+				<p>One person was killed and at least seven others were injured when a tornado struck several houses in central Kentucky on Friday morning, officials said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/1-killed-and-at-least-7-are-injured-in-tornado-in-kentucky-officials-say/>
+
+---
+
+## 250 million honeybees escape after a truck rolls over in Washington state
+
+date: 2025-05-31, from: Hawaii Tribune Harold
+
+
+				<p>In the northwest corner of Washington state Friday morning, authorities issued a most unusual all-points bulletin, rather, an APBee.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/250-million-honeybees-escape-after-a-truck-rolls-over-in-washington-state/>
+
+---
+
+## CDC contradicts Kennedy and keeps advice that children may get COVID shots
+
+date: 2025-05-31, from: Hawaii Tribune Harold
+
+
+				<p>Days after Health Secretary Robert F. Kennedy Jr. announced that COVID-19 shots would be removed from the federal immunization schedule for children, the Centers for Disease Control and Prevention issued updated advice that largely counters Kennedy&#8217;s new policy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/cdc-contradicts-kennedy-and-keeps-advice-that-children-may-get-covid-shots/>
+
+---
+
+## Japan says there is no easy concession on US tariffs, seeks more talks in June
+
+date: 2025-05-31, from: Hawaii Tribune Harold
+
+
+				<p>Japan and the U.S. on Friday agreed to hold another round of trade talks ahead of the G7 summit next month, Japan&#8217;s top tariff negotiator said, stressing that no deal would be without concessions on all Washington&#8217;s tariffs, including on autos.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/japan-says-there-is-no-easy-concession-on-us-tariffs-seeks-more-talks-in-june/>
+
+---
+
+## PBS sues Trump over order to cut funding
+
+date: 2025-05-31, from: Hawaii Tribune Harold
+
+
+				<p>PBS sued President Donald Trump on Friday to block an executive order that would cut federal funding for public television and radio, arguing that it was unconstitutional.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/pbs-sues-trump-over-order-to-cut-funding/>
+
+---
+
+## Accelerating material science research, education, outreach in Hawaiʻi
+
+date: 2025-05-31, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa’s materials science consortium with the University of Washington is accelerating research, education and <abbr>STEM</abbr> outreach across <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/30/material-science-research-education/">Accelerating material science research, education, outreach in Hawaiʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/30/material-science-research-education/>
+
+---
+
+## Five UH football games slated for national broadcast
+
+date: 2025-05-31, from: University of Hawaiʻi News
+
+<p>The first nationally televised game will be against Stanford on August 23 on <abbr>CBS</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/30/football-games-national-broadcast/">Five <abbr>UH</abbr> football games slated for national broadcast</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/30/football-games-national-broadcast/>
+
+---
+
+## In memoriam: Eloise Luzader, cherished Gateway Café head cashier
+
+date: 2025-05-31, from: University of Hawaiʻi News
+
+<p>Luzader warmly greeted and cared for patrons at the café for nearly 30 years.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/30/in-memoriam-eloise-luzader/">In memoriam: Eloise Luzader, cherished Gateway Café head cashier</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/30/in-memoriam-eloise-luzader/>
+
+---
+
+## Rainbow Wahine water polo earns All-America honors
+
+date: 2025-05-31, from: University of Hawaiʻi News
+
+<p>The awards come after an <abbr>NCAA</abbr> Championship Final Four finish.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/30/wahine-water-polo-all-america/">Rainbow Wahine water polo earns All-America honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/30/wahine-water-polo-all-america/>
+
+---
+
+## Faculty champion entrepreneurial thinking, transforming classrooms in new UH program
+
+date: 2025-05-31, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> faculty are transforming education through hands-on, entrepreneurial teaching in the new EL3vate program.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/30/el3vate-program-showcase/">Faculty champion entrepreneurial thinking, transforming classrooms in new <abbr>UH</abbr> program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/30/el3vate-program-showcase/>
 

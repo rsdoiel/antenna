@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2025-06-06 14:07:59
+updated: 2025-06-07 06:08:18
 ---
 
 # motorcycles
 
-(date: 2025-06-06 14:07:59)
+(date: 2025-06-07 06:08:18)
 
 ---
 
@@ -436,4 +436,40 @@ By Vincent Delforge, Staff Writer The fourth race of the 2025 season, the Colora
 <br> 
 
 <https://kickinthetires.net/nascar/2025-arca-west-at-colorado-team-reactions-and-analysis/>
+
+---
+
+## INDY NXT points leader Dennis Hauger getting full US experience as he takes to Detroit streets
+
+date: 2025-05-31, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer Imagine you were planning a trip across the country and the four stops on the trip were as follows: St. Petersburg, Birmingham, Ala., Indianapolis and&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/other/indy-nxt-points-leader-dennis-hauger-getting-full-us-experience-as-he-takes-to-detroit-streets/>
+
+---
+
+## Herta breaks track record to claim pole for Sunday’s Chevrolet Detroit Grand Prix
+
+date: 2025-05-31, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer Colton Herta continues to be the king of the Detroit streets after winning pole for Sunday’s Chevrolet Detroit Grand Prix.&#160; Herta broke the track record&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/herta-breaks-track-record-to-claim-pole-for-sundays-chevrolet-detroit-grand-prix/>
+
+---
+
+## Sky-High Trump Tariffs on Powersports? Not So Fast, Says Federal Trade Court
+
+date: 2025-05-31, from: Ride Apart, Electric Motorcycle News
+
+A bipartisan panel of judges declared most tariffs imposed so far illegal. What's next? 
+
+<br> 
+
+<https://www.rideapart.com/news/761148/trump-tariffs-trade-court-illegal/>
 

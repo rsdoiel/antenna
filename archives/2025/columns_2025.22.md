@@ -1,11 +1,79 @@
 ---
 title: columns
-updated: 2025-06-06 14:07:55
+updated: 2025-06-07 06:08:15
 ---
 
 # columns
 
-(date: 2025-06-06 14:07:55)
+(date: 2025-06-07 06:08:15)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-06, from: Dave Winer's Scripting News)
+
+A new acronym for people of a certain age. "WWWCS" or What Would <a href="https://en.wikipedia.org/wiki/Walter_Cronkite">Walter Cronkite</a> Say? Now answer that question about the back and forth between Musk and Trump. I think he would only be talking about the on-the-record public confessions we were hearing. We knew about the grift before, but we didn't have such clear evidence. 
+
+<br> 
+
+<http://scripting.com/2025/06/06.html#a231059>
+
+---
+
+## Gurman’s Mega-Spoiler Report on Monday’s WWDC Keynote
+
+date: 2025-06-06, updated: 2025-06-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.bloomberg.com/news/articles/2025-06-06/apple-wwdc-2025-preview-ios-26-macos-26-new-ai-features-ipados-26-redesigns>
+
+---
+
+## When the web was new
+
+date: 2025-06-06, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2025/06/06/timBernersLee.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I was an active software developer when the web came online in the early 90s. I knew what <a href="https://daytona.scripting.com/search?q=Macintosh">closed systems</a> were like, and <a href="https://daytona.scripting.com/search?q=unix">open systems</a>. The web was open, and a miracle because of its radical simplicity. We were so lucky. We developed all kind of stuff that was only possible when there was no platform vendor. </p>
+<p>But then in the mid 00s things changed, and since then the users have flocked to <a href="https://daytona.scripting.com/search?q=twitter">closed</a> <a href="https://daytona.scripting.com/search?q=facebook">systems</a>. It would be similarly wonderful if we had an open <a href="https://daytona.scripting.com/search?q=%22social%20web%22">social web</a>, but we don’t. Mastodon is open but it’s not simple like the web is, and Bluesky is simple, but it is not open. And neither supports the most basic <a href="https://textcasting.org/">features of the web</a>.</p>
+<p>Today most active devs weren’t around when the web came along and knocked down the silos. It is imho possible to have an open social web, but the people who are trying to make one out of complex and closed systems will imho never get there.</p>
+<p>They would be better off to look for different foundations to build on other than Mastodon and Bluesky. I have <a href="https://daytona.scripting.com/search?q=wordpress">one</a> in mind, btw. You will probably be surprised, but then we were all surprised by the web itself.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/06/225808.html?title=whenTheWebWasNew>
+
+---
+
+## ★ Truth Social Is Just Trump’s Blog
+
+date: 2025-06-06, updated: 2025-06-07, from: Daring Fireball
+
+Truth Social is exceedingly unpopular when judged as a social network; but it’s exceedingly successful as a blog. All the other people using Truth Social are effectively reading his blog and shitposting comments and memes in response to his posts. 
+
+<br> 
+
+<https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog>
+
+---
+
+## 2025-06-06 Sanseveria bloom
+
+date: 2025-06-06, from: Alex Schroeder's Blog
+
+<h1 id="2025-06-06-sanseveria-bloom">2025-06-06 Sanseveria bloom</h1>
+
+<p>The season has begun: as the sun sets, the Sanseveria flowers hidden deep amidst the leaves open and that sweet opium fills the room. I walk past the door and stop as if running into a different medium. Have I stepped out of an air-conditioned room into a Bangkok summer night? That sweetness takes me away as if I could bury my face into the neck of the love of my life. Sanseveria bloom. You are blessed if you have experienced it. Now is the season of my heart.</p>
+
+<p><img loading="lazy" src="2025-06-06-sanseveria-1.jpg" alt="A black and white image of a stalk full of delicate flowers in various stages of opening, surrounded by foreboding leaves, tall like walls, with deep shadows between them, like a cathedral, a cistern, a hidden miracle flower in an ancient ruin." /></p>
+
+<p><a class="tag" href="/search/?q=%23Flowers">#Flowers</a> <a class="tag" href="/search/?q=%23Plants">#Plants</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-06-06-sanseveria>
 
 ---
 
@@ -25,7 +93,7 @@ date: 2025-06-06, updated: 2025-06-04, from: Bruce Schneier blog
 
 ## CIRP Survey Suggests 78 Percent of All Apple Customers Own an iPad
 
-date: 2025-06-06, updated: 2025-06-06, from: Daring Fireball
+date: 2025-06-06, updated: 2025-06-07, from: Daring Fireball
 
  
 
@@ -103,7 +171,7 @@ date: 2025-06-06, from: Dave Winer's Scripting News
 
 **@Dave Winer's Scripting News** (date: 2025-06-06, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2019/06/08/dilbert.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm totally overwhelmed by the new capabilities of all the ChatGPT-likes out there. I can't imagine turning my whole workspace over to them, and I certainly couldn't do it to two of them. I think I might recognize some of the applications based on the scripting functionality we developed in apps on the Mac and Windows in the 90s with <a href="http://frontier.userland.com">Frontier</a>. Today I might have one of the largest public codebases written by one human that hasn't yet been touched by an AI. Maybe it could be some kind of artifact from ancient times? Like, last week? 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/06/08/dilbert.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm totally overwhelmed by the new capabilities of all the ChatGPT-likes out there in the last few days. I can't imagine turning my whole workspace over to them, and I certainly couldn't do it to two of them. I think I might recognize some of the applications based on the scripting functionality we developed in apps on the Mac and Windows in the 90s with <a href="http://frontier.userland.com">Frontier</a>. Today I might have one of the largest public codebases written by one human that hasn't yet been touched by an AI. Maybe it could be some kind of artifact from ancient times? Like, last week? 
 
 <br> 
 
@@ -138,6 +206,7 @@ date: 2025-06-06, from: Dave Winer's Scripting News
 <li>Portugal</li>
 <li>Thailand</li>
 </ol>
+<p>Note: I was testing a new reading app, wanted to be sure it understood bulleted and numbered lists from an outliner. I always add support for outliners to whatever I do. It's just a thing for me. <span class="spOldSchoolEmoji">😄</span></p>
  
 
 <br> 
@@ -198,7 +267,7 @@ date: 2025-06-06, from: Jeff Geerling blog
 
 date: 2025-06-06, from: Doc Searls (at Harvard), New Old Blog
 
-Asking for a cohort. How many different sellers, or one seller with different names, are (or is) pushing a coffee cup with a design that appears to say nothing until you turn it sideways and see the design saysFUCK THIS SHITFUCK THIS SHITFUCK THIS SHITFUCK THIS SHITover and over around the whole cup? Anyone else [&#8230;] 
+But the problem is a U.S. one. Traffic to this blog jumped 313% today, thanks to Hacker News pointing to Online Sports Betting is for Losers, which was posted two and a half weeks ago. Visitors came from 70 countries. Asking for a cohort. How many different sellers, or one seller with different names, are [&#8230;] 
 
 <br> 
 
@@ -253,6 +322,28 @@ date: 2025-06-06, from: Jeff Geerling blog
 
 ---
 
+## Self-hosting your own media considered harmful (updated)
+
+date: 2025-06-06, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Self-hosting your own media considered harmful (updated)</span>
+
+            <p>I just received my <a href="https://github.com/geerlingguy/youtube/issues/12">second community guidelines violation</a> for my video demonstrating the use of LibreELEC on a Raspberry Pi 5, for 4K video playback.</p>
+
+<p></p>
+
+<p>I purposefully avoid demonstrating any of the tools (with a suffix that rhymes with "car") that are popularly used to circumvent purchasing movie, TV, and other media content, or any tools that automatically slurp up YouTube content.</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">June 5, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated>
+
+---
+
 ## June 5, 2025
 
 date: 2025-06-06, from: Heather Cox Richardson blog
@@ -267,7 +358,7 @@ Today the U.S.
 
 ## Neven Mrgan on Why Skeuomorphism Is Like a Classic Car
 
-date: 2025-06-06, updated: 2025-06-06, from: Daring Fireball
+date: 2025-06-06, updated: 2025-06-07, from: Daring Fireball
 
  
 
@@ -277,7 +368,7 @@ date: 2025-06-06, updated: 2025-06-06, from: Daring Fireball
 
 ---
 
-## Why I'm Still So Short
+## Why I’m Still So Short
 
 date: 2025-06-06, from: Robert Reich's blog
 
@@ -325,7 +416,7 @@ Anyone for punting? Quote of the Day ”Of course I talk to myself. I like a goo
 
 ## 9to5Mac on The Talk Show Livestream Returning to Theater for VisionOS
 
-date: 2025-06-05, updated: 2025-06-05, from: Daring Fireball
+date: 2025-06-05, updated: 2025-06-07, from: Daring Fireball
 
  
 
@@ -1625,4 +1716,194 @@ date: 2025-06-01, updated: 2025-06-01, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/05/0046963-teaser-trailer-for-wake-u>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-31, from: Dave Winer's Scripting News)
+
+<div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/05/31/aManWasLynchedYesterday.png"></center>"Well, we're all going to die."</div> 
+
+<br> 
+
+<http://scripting.com/2025/05/31.html#a204832>
+
+---
+
+## Life in Links 63
+
+date: 2025-05-31, from: John's World Wide Wall Display
+
+<div><img width="620" height="233" src="https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-620x233.jpg" class="attachment-medium size-medium u-featured wp-post-image" alt="montage of six webpages listed in article" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-620x233.jpg 620w, https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-1024x384.jpg 1024w, https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-768x288.jpg 768w, https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-668x251.jpg 668w, https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200.jpg 1200w" sizes="(max-width: 620px) 100vw, 620px" data-attachment-id="20674" data-permalink="https://johnjohnston.info/blog/life-in-links-63/2025-05-31-links-montage-1200/" data-orig-file="https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200.jpg" data-orig-size="1200,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="2025-05-31-links-montage-1200" data-image-description="" data-image-caption="" data-medium-file="https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-620x233.jpg" data-large-file="https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-1024x384.jpg" /></div>Some links on various topics... 
+
+<br> 
+
+<https://johnjohnston.info/blog/life-in-links-63/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-31, from: Dave Winer's Scripting News)
+
+<div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/05/31/wereAllGoingToDie.png"></center>"Well, we're all going to die."</div> 
+
+<br> 
+
+<http://scripting.com/2025/05/31.html#a180039>
+
+---
+
+## May 30, 2025
+
+date: 2025-05-31, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164885149/8295616d4cb747658438da876bfe07f7.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164885149/8295616d4cb747658438da876bfe07f7.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-30-2025-bc8>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-31, from: Dave Winer's Scripting News)
+
+RSS never had a big corporation acting as a benefactor. Is that why imho RSS hasn't been considered as the backbone of the social web? Probably more likely it's the <a href="https://en.wikipedia.org/wiki/Fog_of_war">Fog Of War</a> nature of tech development. We have so many forks of so many things we don't know what anyone else is doing. It's easier to invent your own than figure out what the other thing did. Perhaps ChatGPT et al will change that. Yesterday I used it to get an understanding of how the <a href="https://github.com/scripting/Scripting-News/issues/320">content:encoded element</a> came to exist and evolved, and you'd think I of all people would know, but I didn't. ChatGPT <a href="https://chatgpt.com/share/6839d31f-9910-8012-b324-a0bb3c052f4f">did</a>. 
+
+<br> 
+
+<http://scripting.com/2025/05/31.html#a161921>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-31, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/30/goodhumortruck.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Why does Apple invent their own proprietary plugs when everyone else does USB? Even if you don't like to speak ill of Apple, you <i>know</i> why they do it. They want to control who can make add-ons to their products in hardware, just as they do in software. I still buy their products, but I also buy products that use standards, so I can use them on lots of devices. Now, the same thing happens in software from other people and companies. They can choose to use what already exists, or invent their own. Example, I chose MP3 for podcasting, did not invent a new format. If I were to do a social web network, I would use RSS, I wouldn't invent a new format. I want interop. I want to create an open platform, I don't mind making money, but that's not why I do it. 
+
+<br> 
+
+<http://scripting.com/2025/05/31.html#a155634>
+
+---
+
+## 2025-05-30 Roses along the way
+
+date: 2025-05-31, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-30-roses-along-the-way">2025-05-30 Roses along the way</h1>
+
+<p>I went <a href="2025-05-30-limmat">for a walk</a> and found a lot of rose-like flowers (and others). I want to illustrate the struggle with the Flora Incognita app because you can’t just take its output and “believe”. But in order to question the details one has to know them – and I usually do not, when it comes to flowers. So I’m left wondering.</p>
+
+<p>Rotblättrige Rose<br>
+Rosa glauca</p>
+
+<p><img loading="lazy" src="2025-05-30-roses-1.jpg" alt="a flower with five pink petals and leaves that have a reddish shine" /></p>
+
+<p>Büschel-Rose<br>
+Rosa multiflora</p>
+
+<p><img loading="lazy" src="2025-05-30-roses-2.jpg" alt="a white flower with five petals and yellow stamen" /></p>
+
+<p>Wein-Rose (Artengruppe)<br>
+Rosa rubiginosa agg.</p>
+
+<p><img loading="lazy" src="2025-05-30-roses-3.jpg" alt="a flower with five petals that are white at the center and pink further out, with yellow stamen" /></p>
+
+<p>Strangely, this one is supposed to be <em>Rosa glauca</em> again even though the colour is more light purple, there are more petals, the anther is darker and the leaves are greener. So confusing. 🫤</p>
+
+<p>Rotblättrige Rose<br>
+Rosa glauca</p>
+
+<p><img loading="lazy" src="2025-05-30-roses-4.jpg" alt="a light purple rose" /></p>
+
+<p>And this is another repeat. OK, why not. They look similar enough.</p>
+
+<p>Büschel-Rose<br>
+Rosa multiflora</p>
+
+<p><img loading="lazy" src="2025-05-30-roses-5.jpg" alt="another white flower with five petals" /></p>
+
+<p>Hunds-Rose<br>
+Rosa canina</p>
+
+<p><img loading="lazy" src="2025-05-30-roses-6.jpg" alt="a pale pink flower with yellow stamen" /></p>
+
+<p>Again!</p>
+
+<p>Büschel-Rose<br>
+Rosa multiflora</p>
+
+<p><img loading="lazy" src="2025-05-30-roses-7.jpg" alt="white flowers with five petals" /></p>
+
+<p>Brombeere<br>
+Rubus Rubus sect.</p>
+
+<p><img loading="lazy" src="2025-05-30-roses-8.jpg" alt="white flowers with five petals and long, dark stamen" /></p>
+
+<p><a class="tag" href="/search/?q=%23Plants">#Plants</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Flowers">#Flowers</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-30-roses>
+
+---
+
+## 
+                Happy little modem noises
+            
+
+date: 2025-05-31, updated: 2025-05-31, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-05-31/0/POSTING-en.html>
+
+---
+
+## Is Musk Gone for Good? | The Coffee Klatch for Saturday, May 31, 2025
+
+date: 2025-05-31, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<br> 
+
+<https://robertreich.substack.com/p/is-musk-gone-for-good-the-coffee>
+
+---
+
+## Small Online Communities
+
+date: 2025-05-31, from: John's World Wide Wall Display
+
+I&#8217;ve thought about joining in with the indieweb carnival a few times, but procrastinated. This months struck me, May 2025 IndieWeb Carnival: Small Web Communities &#8211; uncountable thoughts. I’d love to hear your experiences of them, why and how you participate and what you think are the key ingredients for a successful small web community. [&#8230;] 
+
+<br> 
+
+<https://johnjohnston.info/blog/small-online-communities/>
+
+---
+
+## May 30, 2025 
+
+date: 2025-05-31, from: Heather Cox Richardson blog
+
+In July 2024, according to an article published today by Kirsten Grind and Megan Twohey in the New York Times, billionaire Elon Musk texted privately about his concerns that government investigations into his businesses would &#8220;take me down.&#8221; &#8220;I can&#8217;t be president,&#8221; he wrote, &#8220;but I can help Trump defeat Biden and I will.&#8221; 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-30-2025>
+
+---
+
+## Weeknotes: May 24-30, 2025
+
+date: 2025-05-31, from: Tracy Durnell Blog
+
+Highlight of the week: took Monday off for Memorial Day and did a bonus walk with my friend at the state park Looking forward to: baking strawberry biscuits Stuff I did: 6 hours consulting 2.5 hours writing attended Galactic Homebrew Website Club big fridge cleanout 🦾 started our cat on thyroid medication &#8212; so far [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/05/30/weeknotes-may-24-30-2025/>
 

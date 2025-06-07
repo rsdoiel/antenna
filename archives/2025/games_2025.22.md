@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-06-06 14:07:56
+updated: 2025-06-07 06:08:16
 ---
 
 # games
 
-(date: 2025-06-06 14:07:56)
+(date: 2025-06-07 06:08:16)
+
+---
+
+## Like A Dragon dev’s Stranger Than Heaven is LA Noire, but make it Yakuza
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+Following the reveal of Project Century during The Game Awards 2024, Sega and Like A Dragon developer Ryu Ga Gotoku Studio showed up to Summer Game Fest 2025 with a new trailer, a new era, and a new name: Stranger Than Heaven. Where the initial trailer looked like early-20th century Judgment, where a detective wandered [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/605099/project-century-stranger-than-heaven-reveal-trailer>
+
+---
+
+## Every big announcement from Summer Game Fest 2025
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+Summer Game Fest kicked off on Friday with a tw0-hour extravaganza, in the old-fashioned E3 style. Host Geoff Keighley brought out tons of game updates, new reveals, and a few surprises — including the long-awaited release date of some of gaming’s white whales. As promised, Summer Game Fest featured games like Mafia: The Old Country, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/604574/summer-games-fest-2025-news-announcements-trailers>
+
+---
+
+## Resident Evil Requiem is a return to form for the franchise in new trailer
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+Capcom revealed the next installment in the Resident Evil franchise, Resident Evil Requiem, on Friday at Summer Game Fest as the livestream’s closing announcement, following a swerve by the dev team earlier in the show. Resident Evil Requiem, Capcom says, will take the franchise back to its origins: Raccoon City. The ninth mainline Resident Evil [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/603426/resident-evil-9-announced-release-date-trailer>
+
+---
+
+## 18 Mario Kart World beginner’s tips and tricks to know before playing
+
+date: 2025-06-06, updated: 2025-06-07, from: Polygon Website
+
+If you picked up Mario Kart World alongside a Nintendo Switch 2, then you may be wondering where to even start. The game is massive and more chaotic than ever with more racers in each round and the super-fun Knockout Mode, which treats the game like a battle royale. Below, you’ll find a list of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mario-kart-world-guides/604669/beginners-tips-tricks-drifting-drafting>
+
+---
+
+## Lego Voyagers is It Takes Two, but make it Lego and Annapurna
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+Light Brick Studio and Annapurna Interactive showed off a new Lego co-op multiplayer game during Summer Game Fest 2025 called Lego Voyagers, and it&#8217;s basically a cozy take on Hazelight&#8217;s It Takes Two and Split Fiction. Lego Voyagers has you and another player become tiny Lego bricks trying to reach space, working together to solve [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/604902/lego-voyagers-game-reveal-sgf-summer-game-fest-2025>
+
+---
+
+## Scott Pilgrim returns to games in chaotic new retro brawler EX
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+Scott Pilgrim, all his friends, and the many of the creators who have brought his world to life over the years, are all back for a new game set for release in 2026.  As revealed at Summer Game Fest on Friday, Scott Pilgrim EX is a “time-warped brawling adventure” that sends Scott, Ramona Flowers, and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/604420/scott-pilgrim-ex-new-game-release>
+
+---
+
+## Lies of P DLC surprise drops during Summer Game Fest
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+Lies of P: Overture is available now, after a new trailer was showcased during the 2025 Summer Game Fest. The new trailer shows P using new weapons the DLC introduces, like his Wolverine-like claws. We see more new locations as well and the enemies they’ll bring, like a giant crocodile boss P will go up [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/604422/lies-of-p-dlc-overture-release-date>
+
+---
+
+## Sonic Racing dev calls out Mario Kart World
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+With Mario Kart World as the flagship launch game for Switch 2 this year, it’s an unusual time for Sega to be working on its own kart racer starring its iconic blue blur. But Takashi Iizuka, head of the Sonic Team at Sega, not only acknowledged the elephant in the room during this year’s Summer [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/604754/sonic-racing-crossworlds-mario-kart-world-callout>
+
+---
+
+## Troy Baker’s next starring role is a gritty mouse
+
+date: 2025-06-06, updated: 2025-06-06, from: Polygon Website
+
+PlaySide Studios and Fumi Games have revealed the big voice behind the bite-sized main character in their upcoming film noir-esque first-person shooter, Mouse: P.I. For Hire. Troy Baker (The Last of Us, Death Stranding) will be voicing the aforementioned mouse, private investigator Jack Pepper. The announcement was made during Summer Game Fest, and was accompanied [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/events/604546/mouse-pi-game-troy-baker>
 
 ---
 
@@ -930,4 +1038,40 @@ After a tease in Netflix’s One Piece season 2 announcement way back in Septemb
 <br> 
 
 <https://www.polygon.com/tv/602744/one-piece-netflix-tony-tony-chopper-image-cast-actor>
+
+---
+
+## How Bring Her Back’s most stomach-churning shot happened
+
+date: 2025-05-31, updated: 2025-05-30, from: Polygon Website
+
+There’s a scene in Bring Her Back, the latest A24 horror movie from Talk To Me writer-directors (and twin brothers) Danny and Michael Philippou, that’s so violently grotesque, I actually closed my eyes to shut it out. Trying to deny what was going on on the screen just made what was going on in the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/602597/bring-her-back-goriest-scene-practical-effects-director-interview>
+
+---
+
+## When making lots of small games is more sustainable than making one big one
+
+date: 2025-05-31, updated: 2025-05-30, from: Polygon Website
+
+If you play indie games, you may have noticed Strange Scaffold’s incredible hit rate. Every single one of the studio’s games — from  Clickolding, I Am Your Beast, and most recently, Teenage Mutant Ninja Turtles: Tactical Takedown — has ended up somewhere within the “Positive” ranking system on Steam (with several achieving “Very Positive” or [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/features/602124/strange-scaffold-xalavier-nelson-jr-interview>
+
+---
+
+## The Last of Us season 2 failed Ellie in service of safe TV
+
+date: 2025-05-31, updated: 2025-05-30, from: Polygon Website
+
+Without interactivity, the Ellie Williams that players know from the Last of Us games was never going to be the same person as the character who appeared on a television screen on Sunday nights. But by the time season 2 of HBO’s The Last of Us reached its finale, it became evident that the TV [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/analysis/602646/last-of-us-season-2-ellie-tv-vs-games>
 

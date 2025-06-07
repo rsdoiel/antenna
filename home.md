@@ -1,11 +1,251 @@
 ---
 title: home
-updated: 2025-06-06 14:07:58
+updated: 2025-06-07 06:08:18
 ---
 
 # home
 
-(date: 2025-06-06 14:07:58)
+(date: 2025-06-07 06:08:18)
+
+---
+
+## From Maritime Decor to ‘Chateaucore’, These Are Summer’s Biggest Trends
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+Check out the Etsy 2025 Spring and Summer Trend Report and learn how to style your home for this warm weather season. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/2025-spring-summer-trends-etsy>
+
+---
+
+## Every Room Gets Its Own Garden in This Classic California Indoor-Outdoor House
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+This indoor-outdoor house has the functional liveable minimalism of the Case Study program, and has plenty of garden and patio spaces. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/california-indoor-outdoor-house-design>
+
+---
+
+## Culinary Travel
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+Amazing restaurants and more culinary travel experiences in the West. 
+
+<br> 
+
+<https://www.sunset.com/travel/culinary-travel>
+
+---
+
+## Hotels, Inns, and More
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+Staying in the right hotels can make or break a vacation. Get our recommendations for great bargains, most unique sleeps, coastal stays, and more Western accommodations. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels>
+
+---
+
+## National Parks
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+Whether you're a first-time visitor or a national parks veteran, you'll find everything you need here to plan the perfect adventure. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks>
+
+---
+
+## Camping
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+Your ultimate guide to camping, with the best ideas for campgrounds, gear, cooking, and more. 
+
+<br> 
+
+<https://www.sunset.com/travel/camping>
+
+---
+
+## These Are the Home Projects Everyone Will Be Doing This Summer
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+It's the summer of renovation. Homeowners are making smarter upgrades on both big and small levels right now. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/summer-home-renovation-trends>
+
+---
+
+## Outdoor Adventure
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+Plan an outdoor adventure in the West with our insider tips on national parks, the best campgrounds, amazing hikes, and bike trips. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure>
+
+---
+
+## WildLands
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+The adventures and reporting of J.D. Simkins as he roams the remaining "wild lands" of the West. 
+
+<br> 
+
+<https://www.sunset.com/travel/wildlands>
+
+---
+
+## Travel the West
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<br> 
+
+<https://www.sunset.com/travel>
+
+---
+
+## Family
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+Inspiration for family living: designing, cooking, traveling, and more with kids in tow. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/family>
+
+---
+
+## Wellness
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+Everyday inspiration for balanced, healthy living. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness>
+
+---
+
+## Gifts & Shopping
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+One-of-a-kind gifts to spread holiday cheer, including picks for everyone on your list, from gardeners and travelers to parents and pets. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping>
+
+---
+
+## Lifestyle
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+Lifestyle ideas and inspiration for every life stage, from gift guides and gear recommendations to wedding planning, living with kids and pets, and saving for home remodels. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle>
+
+---
+
+## Edible Gardening
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+Our expert gardening tips help you choose and grow the perfect fruits and vegetables for your backyard garden 
+
+<br> 
+
+<https://www.sunset.com/home-garden/edible-gardening>
+
+---
+
+## Outdoor Living
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+Update your outdoor living areas with our design and decorating tips on patios, decks, sheds, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/outdoor-living>
+
+---
+
+## Flowers & Plants
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+The very best flowers and plants for your garden's climate zone. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/plants>
+
+---
+
+## Landscaping
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+Get landscaping ideas and inspiration from our gardening experts to design your own backyard or garden oasis. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping>
+
+---
+
+## DIY Projects
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+Transform your home with quick and easy DIY projects, crafts, and decorating ideas for around the house. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/diy-projects>
+
+---
+
+## Garden Basics
+
+date: 2025-06-06, from: Sunset Magazine - Living in the West
+
+Learn how to start your own home garden with our gardening experts&apos; tips and tutorials 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics>
 
 ---
 
@@ -235,18 +475,6 @@ Want high-design but don't have a big budget? Designers share their favorite hom
 <br> 
 
 <https://www.sunset.com/home-garden/design/home-decor-dupes>
-
----
-
-## From Maritime Decor to ‘Chateaucore’, These Are Summer’s Biggest Trends
-
-date: 2025-06-05, from: Sunset Magazine - Living in the West
-
-Check out the Etsy 2025 Spring and Summer Trend Report and learn how to style your home for this warm weather season. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/2025-spring-summer-trends-etsy>
 
 ---
 
@@ -1196,4 +1424,201 @@ date: 2025-06-01, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/18-types-of-tarantulas-in-arizona-pictures-and-identification/>
+
+---
+
+## Curating your yard’s weeds
+
+date: 2025-05-31, from: Greg Alder's blog, Yard Post
+
+<p>Twelve summers ago, we moved to this property and there were tumbleweeds growing across the bottom half. No, I said. I don’t accept having to walk through prickly tumbleweeds.&#160; I decided right then that I would figure out how to eliminate them. Because tumbleweeds propagate themselves by seed, the first thing I did that first [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/curating-your-yards-weeds/">Curating your yard&#8217;s weeds</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/curating-your-yards-weeds/>
+
+---
+
+## 15 of the Best Dwarf Lilacs for Your Landscape
+
+date: 2025-05-31, from: The Gardener's Path
+
+<p>With beautiful, scented flowers in rich colors, lilacs are a treat in the spring garden, but their size can make them unsuitable for smaller spaces. But you can find dwarf varieties that give you all the grace of standard lilacs but in a more compact form. Learn about 15 of the best dwarf lilac varieties in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/best-dwarf-lilacs/">15 of the Best Dwarf Lilacs for Your Landscape</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/best-dwarf-lilacs/>
+
+---
+
+## How to Build a Successful Bee Garden, According to a Professional Beekeeper
+
+date: 2025-05-31, from: Sunset Magazine - Living in the West
+
+A professional beekeeper shares her tips for creating an apiary garden. This advice will get you a thriving bee garden in no time. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/how-to-build-a-bee-garden>
+
+---
+
+## 25 Fresh Summer Meals You’ll Want to Make All June
+
+date: 2025-05-31, from: Sunset Magazine - Living in the West
+
+This June, we're sharing our favorite grilling recipes, fresh salad ideas, and sweet fruit desserts to make this summer. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/june-recipe-ideas-2025>
+
+---
+
+## The Gear, the Books, and the Know-How to Finally Get into Foraging
+
+date: 2025-05-31, from: Sunset Magazine - Living in the West
+
+Viet Pham reconnects with his love of cooking outdoors on a new Hulu series that’s perfect for binge watching. He gives his tips for foraging and gifting. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/viet-pham-interview>
+
+---
+
+## How to Grow Jasmine: Learn How to Care for Jasmine Plants
+
+date: 2025-05-31, from: The Gardener's Path
+
+<p>Beloved for its heady scent and dainty, pinwheel flowers, jasmine is best known as a tender perennial vine that makes an excellent climbing specimen in the summer garden. But it can also grow indoors and there are winter-flowering species as well. Learn how to grow jasmine in the garden in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-jasmine/">How to Grow Jasmine: Learn How to Care for Jasmine Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-jasmine/>
+
+---
+
+## 16 Types of Rattlesnakes in Arizona (Pictures and Identification)
+
+date: 2025-05-31, from: Yard Life blog
+
+<p>Arizona is home to a fascinating variety of rattlesnakes, making it one of the best places in the United States ... </p>
+<p class="read-more-container"><a title="16 Types of Rattlesnakes in Arizona (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/16-types-of-rattlesnakes-in-arizona-pictures-and-identification/#more-29168" aria-label="Read more about 16 Types of Rattlesnakes in Arizona (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/16-types-of-rattlesnakes-in-arizona-pictures-and-identification/">16 Types of Rattlesnakes in Arizona (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/16-types-of-rattlesnakes-in-arizona-pictures-and-identification/>
+
+---
+
+## Rose Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-05-31, from: Yard Life blog
+
+<p>Roses have enchanted gardeners and flower enthusiasts for centuries with their beautiful blooms, captivating fragrance, and deep symbolism. These timeless ... </p>
+<p class="read-more-container"><a title="Rose Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/rose-plant-care-and-growing-guide-most-detailed/#more-29157" aria-label="Read more about Rose Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/rose-plant-care-and-growing-guide-most-detailed/">Rose Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/rose-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## 30 Types of Bees in Arizona (With Pictures and Identification)
+
+date: 2025-05-31, from: Yard Life blog
+
+<p>Bees play a vital role in Arizona’s ecosystems, helping to pollinate a wide variety of native plants, wildflowers, and crops. ... </p>
+<p class="read-more-container"><a title="30 Types of Bees in Arizona (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/30-types-of-bees-in-arizona-with-pictures-and-identification/#more-29127" aria-label="Read more about 30 Types of Bees in Arizona (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/30-types-of-bees-in-arizona-with-pictures-and-identification/">30 Types of Bees in Arizona (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/30-types-of-bees-in-arizona-with-pictures-and-identification/>
+
+---
+
+## What Are the Different Types of Petunia Plants?
+
+date: 2025-05-31, from: The Gardener's Path
+
+<p>Colorful and long-blooming petunias come in many types, with different growing habits and flowers of various sizes. Our guide explains 5 common categories of petunias, including one with oversize blooms, ground cover options, and self-cleaning varieties that don’t require any deadheading. Discover your favorites now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/petunia-types/">What Are the Different Types of Petunia Plants?</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/petunia-types/>
+
+---
+
+## 46 Arizona Spiders (Spiders in Arizona with Pictures, Identification)
+
+date: 2025-05-31, from: Yard Life blog
+
+<p>Arizona is home to a diverse range of spiders, with various species adapting to the state&#8217;s unique environments. From the ... </p>
+<p class="read-more-container"><a title="46 Arizona Spiders (Spiders in Arizona with Pictures, Identification)" class="read-more button" href="https://ownyardlife.com/46-arizona-spiders-spiders-in-arizona-with-pictures-identification/#more-19081" aria-label="Read more about 46 Arizona Spiders (Spiders in Arizona with Pictures, Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/46-arizona-spiders-spiders-in-arizona-with-pictures-identification/">46 Arizona Spiders (Spiders in Arizona with Pictures, Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/46-arizona-spiders-spiders-in-arizona-with-pictures-identification/>
+
+---
+
+## 43 Snakes in Arizona with Pictures and Identification
+
+date: 2025-05-31, from: Yard Life blog
+
+<p>Arizona is renowned for its diverse snake population, making it one of the prime locations for snake enthusiasts and researchers ... </p>
+<p class="read-more-container"><a title="43 Snakes in Arizona with Pictures and Identification" class="read-more button" href="https://ownyardlife.com/43-snakes-in-arizona-with-pictures-and-identification/#more-15746" aria-label="Read more about 43 Snakes in Arizona with Pictures and Identification">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/43-snakes-in-arizona-with-pictures-and-identification/">43 Snakes in Arizona with Pictures and Identification</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/43-snakes-in-arizona-with-pictures-and-identification/>
+
+---
+
+## 71 Lizards in Arizona (Pictures and Identification)
+
+date: 2025-05-31, from: Yard Life blog
+
+<p>Arizona is a haven for reptile enthusiasts, offering a diverse array of lizards that call its arid landscapes home. Among ... </p>
+<p class="read-more-container"><a title="71 Lizards in Arizona (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/71-lizards-in-arizona-pictures-and-identification/#more-14221" aria-label="Read more about 71 Lizards in Arizona (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/71-lizards-in-arizona-pictures-and-identification/">71 Lizards in Arizona (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/71-lizards-in-arizona-pictures-and-identification/>
+
+---
+
+## Black Eyed Susan Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-05-31, from: Yard Life blog
+
+<p>Black Eyed Susan (Rudbeckia hirta) is a vibrant and hardy flowering plant celebrated for its bright yellow petals surrounding a ... </p>
+<p class="read-more-container"><a title="Black Eyed Susan Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/black-eyed-susan-plant-care-and-growing-guide-most-detailed/#more-29117" aria-label="Read more about Black Eyed Susan Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/black-eyed-susan-plant-care-and-growing-guide-most-detailed/">Black Eyed Susan Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/black-eyed-susan-plant-care-and-growing-guide-most-detailed/>
 

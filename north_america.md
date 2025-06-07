@@ -1,11 +1,75 @@
 ---
 title: north america
-updated: 2025-06-06 14:07:52
+updated: 2025-06-07 06:08:11
 ---
 
 # north america
 
-(date: 2025-06-06 14:07:52)
+(date: 2025-06-07 06:08:11)
+
+---
+
+## Evening Roundup, June 6
+
+date: 2025-06-06, from: The Contrarian
+
+Featuring Carron J. Phillips, Ginny Canter, Sofia Matson, Ruben Bolling, Jen Rubin's Undaunted, Meredith Blake's Culture Picks, and The Democracy Index 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-6>
+
+---
+
+## The Democracy Index
+
+date: 2025-06-06, from: The Contrarian
+
+June 6, 2025 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-democracy-index-c1d>
+
+---
+
+## Culture picks: Harvey Milk's legacy in film 
+
+date: 2025-06-06, from: The Contrarian
+
+Plus: George Clooney live on stage, the Tonys, and Taylor Swift news 
+
+<br> 
+
+<https://contrarian.substack.com/p/culture-picks-harvey-milks-legacy>
+
+---
+
+## Contrarians on Breaking News! Abrego Garcia Returns to U.S.
+
+date: 2025-06-06, from: The Contrarian
+
+Jen Rubin and Steve Vladeck go live to discuss Abrego Garcia's return to the U.S. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165373090/9576fd5b30426b0423a037df70a6bb66.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165373090/9576fd5b30426b0423a037df70a6bb66.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/contrarians-on-breaking-news-abrego>
+
+---
+
+## Pennsylvania Has Failed Environmental Justice Communities for Years. A New Bill Could Change That.
+
+date: 2025-06-06, from: Capital and Main
+
+<p>A waste incinerator, a paper plant and a sewage treatment facility all jammed in a town of 35,000. “Our children literally cannot breathe.”</p>
+<p>The post <a href="https://capitalandmain.com/pennsylvania-has-failed-environmental-justice-communities-for-years-a-new-bill-would-change-that">Pennsylvania Has Failed Environmental Justice Communities for Years. A New Bill Could Change That.</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/pennsylvania-has-failed-environmental-justice-communities-for-years-a-new-bill-would-change-that>
 
 ---
 
@@ -840,4 +904,28 @@ date: 2025-06-01, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-muskcoin-is-coming/>
+
+---
+
+## How YOU Helped Knock Musk Out of DC–& of Politics
+
+date: 2025-05-31, from: The Contrarian
+
+Publisher's Roundup, 20 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-you-helped-knock-musk-out-of>
+
+---
+
+##  YOU LOVE TO SEE IT: Climate Data Is Unscrubbed 
+
+date: 2025-05-31, from: The Lever News
+
+ Farmers score a win against climate censorship, striking workers get help, courts defend public schools, and paradise is protected.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-climate-data-is-unscrubbed/>
 

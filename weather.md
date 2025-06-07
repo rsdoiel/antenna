@@ -1,11 +1,11 @@
 ---
 title: weather
-updated: 2025-06-06 14:07:55
+updated: 2025-06-07 06:08:15
 ---
 
 # weather
 
-(date: 2025-06-06 14:07:55)
+(date: 2025-06-07 06:08:15)
 
 ---
 
@@ -446,56 +446,6 @@ storms.  For short-term details, reference MCD #1145.
 
 ---
 
-## SPC Day 2 Fire Weather Outlook
-
-date: 2025-06-06, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0250 PM CDT Fri Jun 06 2025
-
-Valid 071200Z - 081200Z
-
-...NO CRITICAL AREAS...
-
-...20z Update...
-No changes, brief locally elevated fire-weather conditions will
-remain possible behind a cold front across parts of the northern
-Plains Saturday. However, only marginal low RH, poorly overlapped
-with the gusty winds and dry fuels suggests more widespread concerns
-are unlikely. See the previous discussion.
-
-..Lyons.. 06/06/2025
-
-.PREV DISCUSSION... /ISSUED 1158 PM CDT Thu Jun 05 2025/
-
-...Synopsis...
-The upper pattern will amplify to a degree over the central/eastern
-CONUS, with a mid-level trough deepening across the northern Plains
-into the Great Lakes region as a preceding mid-level trough
-traverses the OH Valley tomorrow (Saturday). Like Day 1, a moist
-low-level airmass and/or scattered to widespread thunderstorms
-across several locales east of the Rockies should limit
-wildfire-spread potential. A cold front should sweep across the
-northern Rockies/northern High Plains tomorrow afternoon. However,
-RH is not expected to dip to Elevated/Critical thresholds. As such,
-while a localized wildfire start cannot be ruled out, conditions
-appear too marginal to warrant the introduction of fire weather
-highlights this outlook.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
 ## SPC Tornado Watch 378 Status Reports
 
 date: 2025-06-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -870,74 +820,6 @@ somewhat low-topped/high-based convection.
 
 ---
 
-## NHC Atlantic Outlook
-
-date: 2025-06-06, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Fri Jun 6 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Cangialosi/Jelsema<br>NNNN<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2025-06-06, from: Central Pacific Basin Tropical Cyclones
-
-000<br />ACPN50 PHFO 061704<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />800 AM HST Fri Jun 06 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Cangialosi/Jelsema<br />NNNN 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2025-06-06, from: Eastern Pacific Basin Tropical Cyclones
-
-000<br />ABPZ20 KNHC 061704<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Fri Jun 6 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />South of Southern Mexico:<br />Showers and thunderstorms are gradually increasing in association <br />with a trough of low pressure located near the Gulf of Tehuantepec. <br />Environmental conditions appear conducive for additional <br />development, and a short-lived tropical depression is likely to form <br />over the weekend while the system moves generally west-northwestward <br />just off the coast of Mexico.  Interests in southern and <br />southwestern Mexico should monitor the progress of this system.<br />* Formation chance through 48 hours...medium...60 percent.<br />* Formation chance through 7 days...high...70 percent.<br /><br />Offshore of Southwestern Mexico (91E): <br />A low pressure system located several hundred miles south of <br />southwestern Mexico is gradually becoming better defined, but the <br />associated showers and thunderstorms are limited. Gradual <br />development of this system is expected, and a tropical depression is <br />likely to form over the weekend or early next week while the system <br />moves generally west-northwestward. <br />* Formation chance through 48 hours...medium...60 percent.<br />* Formation chance through 7 days...high...80 percent.<br /><br />$$<br />Forecaster Cangialosi/Jelsema 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2025-06-06, from: Eastern Pacific Tropical Weather Outlook
-
-000&lt;br /&gt;ABPZ20 KNHC 061704&lt;br /&gt;TWOEP &lt;br /&gt;&lt;br /&gt;Tropical Weather Outlook&lt;br /&gt;NWS National Hurricane Center Miami FL&lt;br /&gt;1100 AM PDT Fri Jun 6 2025&lt;br /&gt;&lt;br /&gt;For the eastern and central North Pacific east of 180 longitude:&lt;br /&gt;&lt;br /&gt;South of Southern Mexico:&lt;br /&gt;Showers and thunderstorms are gradually increasing in association &lt;br /&gt;with a trough of low pressure located near the Gulf of Tehuantepec. &lt;br /&gt;Environmental conditions appear conducive for additional &lt;br /&gt;development, and a short-lived tropical depression is likely to form &lt;br /&gt;over the weekend while the system moves generally west-northwestward &lt;br /&gt;just off the coast of Mexico.  Interests in southern and &lt;br /&gt;southwestern Mexico should monitor the progress of this system.&lt;br /&gt;* Formation chance through 48 hours...medium...60 percent.&lt;br /&gt;* Formation chance through 7 days...high...70 percent.&lt;br /&gt;&lt;br /&gt;Offshore of Southwestern Mexico (91E): &lt;br /&gt;A low pressure system located several hundred miles south of &lt;br /&gt;southwestern Mexico is gradually becoming better defined, but the &lt;br /&gt;associated showers and thunderstorms are limited. Gradual &lt;br /&gt;development of this system is expected, and a tropical depression is &lt;br /&gt;likely to form over the weekend or early next week while the system &lt;br /&gt;moves generally west-northwestward. &lt;br /&gt;* Formation chance through 48 hours...medium...60 percent.&lt;br /&gt;* Formation chance through 7 days...high...80 percent.&lt;br /&gt;&lt;br /&gt;$$&lt;br /&gt;Forecaster Cangialosi/Jelsema 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
-
----
-
-## Central Pacific Tropical Weather Outlook
-
-date: 2025-06-06, from: Central Pacific Tropical Weather Outlook
-
-000&lt;br /&gt;ACPN50 PHFO 061704&lt;br /&gt;TWOCP &lt;br /&gt;&lt;br /&gt;Tropical Weather Outlook&lt;br /&gt;NWS Central Pacific Hurricane Center Honolulu HI&lt;br /&gt;Issued by NWS National Hurricane Center Miami FL&lt;br /&gt;800 AM HST Fri Jun 06 2025&lt;br /&gt;&lt;br /&gt;For the central North Pacific...between 140W and 180W:&lt;br /&gt;&lt;br /&gt;Tropical cyclone formation is not expected during the next 7 days.&lt;br /&gt;&lt;br /&gt;$$&lt;br /&gt;Forecaster Cangialosi/Jelsema&lt;br /&gt;NNNN 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
-
----
-
 ## SPC Day 1 Fire Weather Outlook
 
 date: 2025-06-06, from: NOAA Weather Forecasts
@@ -1290,125 +1172,6 @@ CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/ws0374.html>
-
----
-
-## SPC Jun 6, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-06-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0714 AM CDT Fri Jun 06 2025
-
-Valid 061300Z - 071200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON
-AND EVENING OVER PARTS OF THE CENTRAL AND SOUTHERN HIGH PLAINS...
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS OVER PORTIONS OF
-THE MID MS AND TN VALLEYS...AND OVER SOUTHERN NEW ENGLAND....
-
-...SUMMARY...
-Scattered severe thunderstorms are expected across portions of the
-central and southern High Plains. Very large hail, damaging winds,
-and a tornado threat is anticipated. Isolated severe thunderstorms
-are also possible extending into the Tennessee/Ohio Valleys, and
-over parts of southern New England. Damaging winds are the primary
-concern in these areas.
-
-...Mid MS and TN Valleys...
-Morning radar loop shows a mature quasi-linear MCS over eastern OK
-tracking into western AR.  This system has produced sporadic severe
-wind reports overnight, and may continue to pose that risk for a few
-more hours.  Some weakening is expected through late morning, with
-eventual rejuvenation of storms as they spread across parts of KY/TN
-and vicinity.  Model guidance varies on extent of severe storm
-coverage.  However, favorable westerly flow aloft, dewpoints in the
-70s, and pockets of strong daytime heating will encourage intense
-thunderstorm re-development.
-
-...High Plains...
-The forecast scenario for today is similar to yesterday, with two
-areas of focus for severe thunderstorm activity.  One is along the
-CO foothills, where moist/southeasterly low-level winds and
-moderately steep mid-level lapse rates will yield afternoon MLCAPE
-of 1000-2000 J/kg.  Storms are expected to intensify by mid-late
-afternoon along the foothills and spread southeastward into the
-adjacent plains.  Forecast soundings show generally straight-line
-hodographs, which will promote splitting supercells capable of very
-large hail and a few tornadoes.  Activity may organize upscale
-during the evening over southwest KS and spread across OK overnight.
-
-
-Farther south, yesterday's and last night's convection has
-reinforced a surface outflow boundary which will extend across west
-TX.  Similar to yesterday, intense supercells are expected to form
-in vicinity of this boundary during the late afternoon, posing
-another risk of very large hail and a few tornadoes.
-
-..Southern New England...
-A plume of seasonally high PW values extends across the OH Valley
-into southern New England. Modest air mass destabilization is
-expected by mid day with an axis of 1000-2000 J/kg SBCAPE expected
-to extend across southern New England by 18z. While deep layer shear
-is not forecast to be that strong, adequate flow should exist for at
-least some organization. Locally damaging winds are the primary
-concern with storms that form along this instability axis.
-
-..Hart/Bentley.. 06/06/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## SPC Jun 6, 2025 Day 4-8 Severe Weather Outlook
-
-date: 2025-06-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 4-8 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0352 AM CDT Fri Jun 06 2025
-
-Valid 091200Z - 141200Z
-
-...DISCUSSION...
-A large MCS may be ongoing across the Ark-La-Tex vicinity on
-D4/Monday morning. This MCS and attendant flow enhancement with its
-MCV may support scattered damaging wind potential into the afternoon
-downstream across the Deep South. How extensive an organized wind
-threat persists is quite nebulous, given background mid-level
-westerlies being weaker across the Southeast compared to prior days.
-
-Sub-15 percent severe potential remains apparent across the Upper OH
-Valley to Lower Great Lakes on D4/Monday, shifting east into the
-Northeast/Mid-Atlantic States on D5/Tuesday. A belt of strong
-mid-level southwesterlies ahead of broad Great Lakes trough should
-overlap parts of a weak cold front arcing south from a primary
-surface cyclone over northeast ON to James Bay. Substantial
-instability ahead of the front appears uncertain with progged weak
-mid-level lapse rates and muted boundary-layer heating where the
-stronger flow resides. 
-
-During D6-8/Wednesday-Friday, guidance continues to signal a
-reduction in severe potential, as predominantly weak deep-layer
-shear overlaps areas of moderate to large buoyancy.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 
@@ -4354,4 +4117,693 @@ few cumulonimbi with maximum tops to 450. Mean storm motion vector
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/ww0351.html>
+
+---
+
+## SPC MD 1056
+
+date: 2025-05-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1056.html"><img src="https://www.spc.noaa.gov/products/md/mcd1056.png" border="1" alt="MD 1056 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1056
+NWS Storm Prediction Center Norman OK
+0304 PM CDT Sat May 31 2025
+
+Areas affected...Parts of eastern North Carolina and southeastern
+Virginia
+
+Concerning...Severe potential...Watch unlikely 
+
+Valid 312004Z - 312200Z
+
+Probability of Watch Issuance...5 percent
+
+SUMMARY...A couple locally damaging wind gusts may accompany
+eastward-moving thunderstorms this afternoon.
+
+DISCUSSION...Convection is gradually deepening in the left exit
+region of a west-northwesterly midlevel jet across parts of northern
+NC. This activity will continue spreading eastward across eastern NC
+and southeastern VA this afternoon, where steepened low/midlevel
+lapse rates and a long/straight hodograph (40-50 kt of effective
+shear) could support a couple small, briefly organized storm
+clusters. Locally damaging wind gusts may accompany any stronger
+storms that can evolve, though weak instability and a lack of
+focused mesoscale ascent should limit the overall severe risk.
+
+..Weinman/Hart.. 05/31/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...AKQ...MHX...RAH...ILM...RNK...
+
+LAT...LON   35237545 34647636 34607748 35107862 35507891 36177888
+            36517874 36747847 37017803 37117744 36977605 36747580
+            35747539 35237545 
+
+MOST PROBABLE PEAK WIND GUST...UP TO 60 MPH
+MOST PROBABLE PEAK HAIL SIZE...UP TO 1.25 IN
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1056.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md1056.html>
+
+---
+
+## Post-Tropical Cyclone Alvin Graphics
+
+date: 2025-05-31, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/152108.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP01/EP012025_5day_cone_with_line_and_wind_sm2.png"
+alt="Post-Tropical Cyclone Alvin 5-Day Uncertainty Track Image" width="500" height="400" /></a>
+<br />5-Day Uncertainty Track last updated Sat, 31 May 2025 14:39:11 GMT
+<br />
+<br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/152108.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP01/EP012025_wind_probs_34_F120_sm2.png"
+alt="Post-Tropical Cyclone Alvin 34-Knot Wind Speed Probabilities" width="500" height="400" /> </a>
+<br />Wind Speed Probabilities last updated Sat, 31 May 2025 15:21:08 GMT
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/152108.shtml?cone>
+
+---
+
+## Advisory #012 Wind Field [shp] - Post-Tropical Cyclone Alvin (EP1/EP012025)
+
+date: 2025-05-31, from: Eastern Pacific Basin GIS Data
+
+Initial and Forecast Surface Winds. Shapefile last updated Sat, 31 May 2025 14:39:45 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep012025_fcst_012.zip>
+
+---
+
+## Preliminary Best Track [shp] - Post-Tropical Cyclone Alvin (EP1/EP012025)
+
+date: 2025-05-31, from: Eastern Pacific Basin GIS Data
+
+Track, Points, and Wind Swath. Shapefile last updated Sat, 31 May 2025 14:39:36 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep012025_best_track.zip>
+
+---
+
+## Preliminary Best Track [shp] - Post-Tropical Cyclone Alvin (EP1/EP012025)
+
+date: 2025-05-31, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Sat, 31 May 2025 14:39:33 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep012025_best_track.kmz>
+
+---
+
+## Advisory #012 Forecast [shp] - Post-Tropical Cyclone Alvin (EP1/EP012025)
+
+date: 2025-05-31, from: Eastern Pacific Basin GIS Data
+
+Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Sat, 31 May 2025 14:39:25 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep012025_5day_012.zip>
+
+---
+
+## Advisory #012 Forecast Track [kmz] - Post-Tropical Cyclone Alvin (EP1/EP012025)
+
+date: 2025-05-31, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Sat, 31 May 2025 14:39:22 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP012025_012adv_TRACK.kmz>
+
+---
+
+## Advisory #012 Cone of Uncertainty [kmz] - Post-Tropical Cyclone Alvin (EP1/EP012025)
+
+date: 2025-05-31, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Sat, 31 May 2025 14:39:14 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP012025_012adv_CONE.kmz>
+
+---
+
+## Post-Tropical Cyclone Alvin Forecast Discussion Number 12
+
+date: 2025-05-31, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>000
+WTPZ41 KNHC 311437
+TCDEP1
+ 
+Post-Tropical Cyclone Alvin Discussion Number  12
+NWS National Hurricane Center Miami FL       EP012025
+800 AM MST Sat May 31 2025
+ 
+Cool waters, dry mid-level air, and strong vertical wind shear
+have taken their toll on Alvin.  The system has been devoid of deep
+convection for more than 12 hours, and has become a swirl of low- to
+mid-level clouds.  The initial intensity has been lowered to a
+possibly generous 30 kt.  Continued hostile environmental
+conditions are expected to prevent any return of deep convection,
+and therefore this will be the final advisory on the system as it
+has become a post-tropical remnant low.
+ 
+The low should continue to spin down as it moves slowly northward
+today. Global model guidance indicates that the low will open up
+into a trough of low pressure as it passes near the southern tip of
+the Baja California Peninsula in about 24 hours.
+ 
+Swells generated by Alvin are expected to persist along portions of
+the west-central mainland Mexico and southern Baja California 
+coasts through the weekend, creating potentially dangerous surf and 
+rip current conditions.
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  31/1500Z 20.7N 109.5W   30 KT  35 MPH...POST-TROPICAL
+ 12H  01/0000Z 21.8N 109.7W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 24H  01/1200Z...DISSIPATED
+ 
+$$
+Forecaster Brown</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCDEP1+shtml/311437.shtml>
+
+---
+
+## Summary for Post-Tropical Cyclone Alvin (EP1/EP012025)
+
+date: 2025-05-31, from: Eastern Pacific Basin GIS Data
+
+...ALVIN DEGENERATES TO A REMNANT LOW... ...SWELLS AND RIP CURRENTS POSSIBLE ALONG PORTIONS OF THE COASTS OF WEST-CENTRAL MAINLAND MEXICO AND SOUTHERN BAJA CALIFORNIA THIS WEEKEND... As of 8:00 AM MST Sat May 31 the center of Alvin was located near 20.7, -109.5 with movement N at 9 mph. The minimum central pressure was 1006 mb with maximum sustained winds of about 35 mph. 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATCPEP1.shtml>
+
+---
+
+## Post-Tropical Cyclone Alvin Public Advisory Number 12
+
+date: 2025-05-31, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>000
+WTPZ31 KNHC 311436
+TCPEP1
+ 
+BULLETIN
+Post-Tropical Cyclone Alvin Advisory Number  12
+NWS National Hurricane Center Miami FL       EP012025
+800 AM MST Sat May 31 2025
+ 
+...ALVIN DEGENERATES TO A REMNANT LOW...
+...SWELLS AND RIP CURRENTS POSSIBLE ALONG PORTIONS OF THE COASTS OF
+WEST-CENTRAL MAINLAND MEXICO AND SOUTHERN BAJA CALIFORNIA THIS
+WEEKEND...
+ 
+ 
+SUMMARY OF 800 AM MST...1500 UTC...INFORMATION
+----------------------------------------------
+LOCATION...20.7N 109.5W
+ABOUT 155 MI...250 KM S OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 AM MST (1500 UTC), the center of Post-Tropical Cyclone Alvin
+was located near latitude 20.7 North, longitude 109.5 West. The
+post-tropical cyclone is moving toward the north near 9 mph (15
+km/h).  A slightly slower northward motion is expected through 
+tonight. 
+
+Maximum sustained winds have decreased to near 35 mph (55 km/h) 
+with higher gusts. Additional weakening is expected today and the 
+low is forecast to dissipate by Sunday. 
+
+The estimated minimum central pressure is 1006 mb (29.71 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+SURF: Swells generated by this system will affect portions of the
+coasts of west-central Mexico and the southern Baja California
+Peninsula through the weekend. These swells are likely to cause
+life-threatening surf and rip current conditions. Please consult
+products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+This is the last public advisory issued by the National Hurricane
+Center on Alvin.  Additional information on this system can be 
+found in High Seas Forecasts issued by the National Weather 
+Service, under AWIPS header NFDHSFAT1, WMO header FZNT01 KWBC, and 
+online at ocean.weather.gov/shtml/NFDHSFAT1.php
+ 
+$$
+Forecaster Brown</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/311436.shtml>
+
+---
+
+## Post-Tropical Cyclone Alvin Wind Speed Probabilities Number 12
+
+date: 2025-05-31, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>000
+FOPZ11 KNHC 311436
+PWSEP1
+                                                                    
+POST-TROPICAL CYCLONE ALVIN WIND SPEED PROBABILITIES NUMBER  12     
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP012025               
+1500 UTC SAT MAY 31 2025                                            
+                                                                    
+AT 1500Z THE CENTER OF POST-TROPICAL CYCLONE ALVIN WAS LOCATED NEAR 
+LATITUDE 20.7 NORTH...LONGITUDE 109.5 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 30 KTS...35 MPH...55 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z SAT 00Z SUN 12Z SUN 00Z MON 12Z MON 12Z TUE 12Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z SUN 12Z SUN 00Z MON 12Z MON 12Z TUE 12Z WED 12Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+$$                                                                  
+FORECASTER BROWN</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIAPWSEP1+shtml/311436.shtml>
+
+---
+
+## Post-Tropical Cyclone Alvin Forecast Advisory Number 12
+
+date: 2025-05-31, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>000
+WTPZ21 KNHC 311436
+TCMEP1
+ 
+POST-TROPICAL CYCLONE ALVIN FORECAST/ADVISORY NUMBER  12
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP012025
+1500 UTC SAT MAY 31 2025
+ 
+POST-TROPICAL CYCLONE CENTER LOCATED NEAR 20.7N 109.5W AT 31/1500Z
+POSITION ACCURATE WITHIN  25 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTH OR 360 DEGREES AT   8 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1006 MB
+MAX SUSTAINED WINDS  30 KT WITH GUSTS TO  40 KT.
+4 M SEAS.... 60NE  45SE  45SW  45NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 20.7N 109.5W AT 31/1500Z
+AT 31/1200Z CENTER WAS LOCATED NEAR 20.4N 109.5W
+ 
+FORECAST VALID 01/0000Z 21.8N 109.7W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 01/1200Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 20.7N 109.5W
+ 
+THIS IS THE LAST FORECAST/ADVISORY ISSUED BY THE NATIONAL HURRICANE 
+CENTER ON ALVIN.  FOR ADDITIONAL INFORMATION ON THE REMNANT LOW 
+PLEASE SEE HIGH SEAS FORECASTS ISSUED BY THE NATIONAL WEATHER 
+SERVICE...UNDER AWIPS HEADER NFDHSFEPI AND WMO HEADER FZPN02 KWBC.
+ 
+$$
+FORECASTER BROWN</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCMEP1+shtml/311436.shtml>
+
+---
+
+## Tropical Storm Alvin Graphics
+
+date: 2025-05-31, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/092126.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP01/EP012025_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Alvin 5-Day Uncertainty Track Image" width="500" height="400" /></a>
+<br />5-Day Uncertainty Track last updated Sat, 31 May 2025 08:40:48 GMT
+<br />
+<br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/092126.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP01/EP012025_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Alvin 34-Knot Wind Speed Probabilities" width="500" height="400" /> </a>
+<br />Wind Speed Probabilities last updated Sat, 31 May 2025 09:21:26 GMT
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/092126.shtml?cone>
+
+---
+
+## Advisory #011 Wind Field [shp] - Tropical Storm Alvin (EP1/EP012025)
+
+date: 2025-05-31, from: Eastern Pacific Basin GIS Data
+
+Initial and Forecast Surface Winds. Shapefile last updated Sat, 31 May 2025 08:41:19 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep012025_fcst_011.zip>
+
+---
+
+## Advisory #011 Forecast [shp] - Tropical Storm Alvin (EP1/EP012025)
+
+date: 2025-05-31, from: Eastern Pacific Basin GIS Data
+
+Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Sat, 31 May 2025 08:41:00 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep012025_5day_011.zip>
+
+---
+
+## Advisory #011 Forecast Track [kmz] - Tropical Storm Alvin (EP1/EP012025)
+
+date: 2025-05-31, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Sat, 31 May 2025 08:40:57 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP012025_011adv_TRACK.kmz>
+
+---
+
+## Advisory #011 Cone of Uncertainty [kmz] - Tropical Storm Alvin (EP1/EP012025)
+
+date: 2025-05-31, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Sat, 31 May 2025 08:40:50 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP012025_011adv_CONE.kmz>
+
+---
+
+## Tropical Storm Alvin Forecast Discussion Number 11
+
+date: 2025-05-31, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>343 
+WTPZ41 KNHC 310839
+TCDEP1
+ 
+Tropical Storm Alvin Discussion Number  11
+NWS National Hurricane Center Miami FL       EP012025
+200 AM MST Sat May 31 2025
+ 
+A collapsing area of fragmented convection is all that remains of 
+Alvin's cloud pattern this morning.  The initial intensity has been 
+lowered to 35 kt, between the objective intensity guidance of 32-40 
+kt and closest to the TAFB T-2.5/35 kt Dvorak classification. Global 
+models predict that the strong shear, dry air, and cool sea surface 
+temperatures should prevent any new organized deep convection from 
+forming.  Alvin is forecast to become a remnant low later today and 
+dissipate on Sunday.  
+
+Alvin is moving northward at 9 kt in the low-level flow.  This 
+general motion is expected to continue through the weekend and only 
+minor adjustments have been made to the latest NHC track forecast.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  31/0900Z 20.0N 109.3W   35 KT  40 MPH
+ 12H  31/1800Z 21.1N 109.5W   30 KT  35 MPH...POST-TROP/REMNT LOW
+ 24H  01/0600Z 22.3N 109.5W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 36H  01/1800Z...DISSIPATED
+ 
+$$
+Forecaster Bucci</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCDEP1+shtml/310839.shtml>
+
+---
+
+## Tropical Storm Alvin Wind Speed Probabilities Number 11
+
+date: 2025-05-31, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>000
+FOPZ11 KNHC 310837
+PWSEP1
+                                                                    
+TROPICAL STORM ALVIN WIND SPEED PROBABILITIES NUMBER  11            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP012025               
+0900 UTC SAT MAY 31 2025                                            
+                                                                    
+AT 0900Z THE CENTER OF TROPICAL STORM ALVIN WAS LOCATED NEAR        
+LATITUDE 20.0 NORTH...LONGITUDE 109.3 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 35 KTS...40 MPH...65 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z SAT 18Z SAT 06Z SUN 18Z SUN 06Z MON 06Z TUE 06Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z SAT 06Z SUN 18Z SUN 06Z MON 06Z TUE 06Z WED 06Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+CABO SAN LUCAS 34  1   5( 6)   X( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+SAN JOSE CABO  34  1   4( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+20N 110W       34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+$$                                                                  
+FORECASTER BUCCI</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIAPWSEP1+shtml/310837.shtml>
+
+---
+
+## Tropical Storm Alvin Public Advisory Number 11
+
+date: 2025-05-31, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>000
+WTPZ31 KNHC 310836
+TCPEP1
+ 
+BULLETIN
+Tropical Storm Alvin Advisory Number  11
+NWS National Hurricane Center Miami FL       EP012025
+200 AM MST Sat May 31 2025
+ 
+...ALVIN FORECAST TO A BECOME POST-TROPICAL REMNANT LOW LATER
+TODAY...
+ 
+ 
+SUMMARY OF 200 AM MST...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...20.0N 109.3W
+ABOUT 205 MI...330 KM S OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...N OR 350 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 200 AM MST (0900 UTC), the center of Tropical Storm Alvin was
+located near latitude 20.0 North, longitude 109.3 West. Alvin is 
+moving toward the north near 10 mph (17 km/h). A slightly slower 
+northward motion is expected during the next day or so.
+ 
+Maximum sustained winds have decreased to near 40 mph (65 km/h) 
+with higher gusts. Continued weakening is forecast, and Alvin is
+expected to become a remnant low later today and dissipate entirely
+on Sunday.
+ 
+Tropical-storm-force winds extend outward up to 90 miles (150 km)
+from the center.
+ 
+The estimated minimum central pressure is 1005 mb (29.68 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+SURF: Swells generated by Alvin will affect portions of the coasts
+of west-central and southwestern Mexico and the southern Baja
+California Peninsula through the weekend. These swells are likely to
+cause life-threatening surf and rip current conditions. Please
+consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 800 AM MST.
+ 
+$$
+Forecaster Bucci</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/310836.shtml>
+
+---
+
+## Tropical Storm Alvin Forecast Advisory Number 11
+
+date: 2025-05-31, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>000
+WTPZ21 KNHC 310836
+TCMEP1
+ 
+TROPICAL STORM ALVIN FORECAST/ADVISORY NUMBER  11
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP012025
+0900 UTC SAT MAY 31 2025
+ 
+TROPICAL STORM CENTER LOCATED NEAR 20.0N 109.3W AT 31/0900Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTH OR 350 DEGREES AT   9 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1005 MB
+MAX SUSTAINED WINDS  35 KT WITH GUSTS TO  45 KT.
+34 KT....... 80NE  80SE  60SW  70NW.
+4 M SEAS.... 90NE  60SE  60SW  60NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 20.0N 109.3W AT 31/0900Z
+AT 31/0600Z CENTER WAS LOCATED NEAR 19.6N 109.2W
+ 
+FORECAST VALID 31/1800Z 21.1N 109.5W...POST-TROP/REMNT LOW
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 01/0600Z 22.3N 109.5W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 01/1800Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 20.0N 109.3W
+ 
+NEXT ADVISORY AT 31/1500Z
+ 
+$$
+FORECASTER BUCCI</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCMEP1+shtml/310836.shtml>
 

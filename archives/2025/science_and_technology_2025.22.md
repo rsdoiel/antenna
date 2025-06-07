@@ -1,11 +1,59 @@
 ---
 title: science and technology
-updated: 2025-06-06 14:07:54
+updated: 2025-06-07 06:08:14
 ---
 
 # science and technology
 
-(date: 2025-06-06 14:07:54)
+(date: 2025-06-07 06:08:14)
+
+---
+
+## Schneier tries to rip the rose-colored AI glasses from the eyes of Congress
+
+date: 2025-06-06, updated: 2025-06-06, from: The Register (UK I.T. News)
+
+<h4>DOGE moves fast and breaks things, and now our data is at risk, security guru warns in hearing</h4> <p>Security guru Bruce Schneier played the skunk at the garden party in a Thursday federal hearing on AI&#39;s use in the government, focusing on the risks many are ignoring.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/06/schneier_doge_risks/>
+
+---
+
+## Sols 4561-4562: Prepping to Drill at Altadena
+
+date: 2025-06-06, from: NASA breaking news
+
+Written by Conor Hayes, Graduate Student at York University Earth planning date: Wednesday, June 4, 2025 We are continuing to look for a suitable location to collect a drilled sample in this area. As you may recall from Monday’s plan, we performed a short “bump” of just under 4 meters (about 13 feet) hoping to […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4561-4562-prepping-to-drill-at-altadena/>
+
+---
+
+## Searching for Ancient Rocks in the ‘Forlandet’ Flats
+
+date: 2025-06-06, from: NASA breaking news
+
+Written by Henry Manelski, Ph.D. student at Purdue University This week Perseverance continued its gradual descent into the relatively flat terrain outside of Jezero Crater. In this area, the science team expects to find rocks that could be among the oldest ever observed by the Perseverance rover — and perhaps any rover to have explored […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/searching-for-ancient-rocks-in-the-forlandet-flats/>
+
+---
+
+## Dr. Natasha Schatzman Receives Vertical Flight Society (VFS) Award
+
+date: 2025-06-06, from: NASA breaking news
+
+Dr. Natasha Schatzman Receives Vertical Flight Society (VFS) Award In May 2025, Dr. Natasha Schatzman, aerospace engineer in the Aeromechanics Office at NASA Ames Research Center, received the inaugural Alex M. Stoll Award from the Vertical Flight Society (VFS).  This award honors a professional in the field of vertical flight who “demonstrates an exceptional commitment [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/ames/dr-natasha-schatzman-receives-vertical-flight-society-vfs-award/>
 
 ---
 
@@ -647,9 +695,9 @@ date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
 
 ## China accuses Taiwan of running five feeble APT gangs, with US help
 
-date: 2025-06-05, updated: 2025-06-05, from: The Register (UK I.T. News)
+date: 2025-06-05, updated: 2025-06-07, from: The Register (UK I.T. News)
 
-<h4>The authors who claimed America hacked itself to discredit Beijing are back with another report</h4> <p>Beijing complains it’s under relentless attack by the equivalent of an ant trying to shake a tree China’s National Computer Virus Emergency Response Center on Thursday published a report in which it claims Taiwan targeted it with a years-long but feeble cyber offensive, backed by the USA.…</p> 
+<h4>The authors who claimed America hacked itself to discredit Beijing are back with another report</h4> <p>China’s National Computer Virus Emergency Response Center on Thursday published a report in which it claims Taiwan targeted it with a years-long cyber offensive, backed by the USA, but which was so feeble Beijing complains compared it to an ant trying to shake a tree .…</p> 
 
 <br> 
 
@@ -1782,4 +1830,52 @@ date: 2025-06-01, updated: 2025-06-01, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/06/01/vmware_channel_changes/>
+
+---
+
+## Mysterious leaker GangExposed outs Conti kingpins in massive ransomware data dump
+
+date: 2025-05-31, updated: 2025-06-02, from: The Register (UK I.T. News)
+
+<h4>&#39;It&#39;s a high-stakes intelligence war,&#39; analyst explains</h4> <p><strong>exclusive</strong>  A mystery whistleblower calling himself GangExposed has exposed key figures behind the Conti and Trickbot ransomware crews, publishing a trove of internal files and naming names.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/31/gangexposed_coni_ransomware_leaks/>
+
+---
+
+## Aussie businesses now have to fess up when they pay off ransomware crims
+
+date: 2025-05-31, updated: 2025-05-31, from: The Register (UK I.T. News)
+
+<h4>Move should help government track infections and plan new legislation</h4> <p>Australia now requires large companies to inform the government if they have paid off ransomware perps.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/31/australian_ransomware_reporting/>
+
+---
+
+## Flatpak “not being actively developed anymore”
+
+date: 2025-05-31, from: OS News
+
+At the Linux Application Summit (LAS) in April, Sebastian Wick said that, by many metrics, Flatpak is doing great. The Flatpak application-packaging format is popular with upstream developers, and with many users. More and more applications are being published in the Flathub application store, and the format is even being adopted by Linux distributions like Fedora. However, he worried that work on the Flatpak project itself had stagnated, and that there were too few developers able to review and merge code beyond basic maintenance. ↫ Joe Brockmeier at LWN After reading this article and the long list of problems the Flatpak project is facing, I can&#8217;t really agree that &#8220;Flatpak is doing great&#8221;. Apparently, Flatpak is in maintenance mode, while major problems remain untouched, because nobody is working on the big-ticket items anymore. This seems like a big problem for a project that&#8217;s still facing a myriad of major issues. For instance, Flatpak still uses PulseAudio instead of Pipewire, which means that if a Flatpak applications needs permission to play audio, it also automatically gets permission to use the microphone. NVIDIA drivers also pose a big problem, network namespacing in Flatpak is &#8220;kind of ugly&#8221;, you can&#8217;t specify backwards-compatible permissions, and tons more problems. There&#8217;s a lot of ideas and proposed solutions, but nobody to implement them, leaving Flatpak stagnated. Now that Flatpak is adopted by quite a few popular desktop Linux distributions, it doesn&#8217;t seem particularly great that it&#8217;s having such issues with finding enough manpower to keep improving it. There&#8217;s a clear push, especially among developers of end-user focused applications, for everyone to use Flatpak, but is that push really a wise idea if the project has stagnated? Go into any thread where people discuss the use of Flatpaks, and there&#8217;s bound to be people experiencing problems, inevitably followed by suggested fixes to use third-party tools to break the already rather porous sandbox. Flatpak feels like a project that&#8217;s far from done or feature-complete, causing normal, every-day users to experience countless problems and issues. Reading straight fromt he horse&#8217;s mouth that the project has stagnated and isn&#8217;t being actively developed anymore is incredibly worrying. 
+
+<br> 
+
+<https://www.osnews.com/story/142467/flatpak-not-being-actively-developed-anymore/>
+
+---
+
+## The Copilot delusion
+
+date: 2025-05-31, from: OS News
+
+And the &#8220;copilot&#8221; branding. A real copilot? That’s a peer. That’s a certified operator who can fly the bird if you pass out from bad taco bell. They train. They practice. They review checklists with you. GitHub Copilot is more like some guy who played Arma 3 for 200 hours and thinks he can land a 747. He read the manual once. In Mandarin. Backwards. And now he’s shouting over your shoulder, &#8220;Let me code that bit real quick, I saw it in a Slashdot comment!&#8221; At that point, you’re not working with a copilot. You’re playing Russian roulette with a loaded dependency graph. You want to be a real programmer? Use your head. Respect the machine. Or get out of the cockpit. ↫ Jj at Blogmobly The world has no clue yet that we&#8217;re about to enter a period of incredible decline in software quality. &#8220;AI&#8221; is going to do more damage to this industry than ten Electron frameworks and 100 managers combined. 
+
+<br> 
+
+<https://www.osnews.com/story/142465/the-copilot-delusion/>
 

@@ -1,11 +1,39 @@
 ---
 title: food
-updated: 2025-06-06 14:08:00
+updated: 2025-06-07 06:08:20
 ---
 
 # food
 
-(date: 2025-06-06 14:08:00)
+(date: 2025-06-07 06:08:20)
+
+---
+
+## My Dad and I Tried Tom Holland’s Nonalcoholic Beer—Here’s Our Honest Review
+
+date: 2025-06-06, from: Taste of Home
+
+<p>"Well, it certainly burps like an IPA."</p>
+<p>The post <a href="https://www.tasteofhome.com/article/tom-holland-bero-review/">My Dad and I Tried Tom Holland&#8217;s Nonalcoholic Beer—Here&#8217;s Our Honest Review</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/tom-holland-bero-review/>
+
+---
+
+## I Made ‘Hot Dog Burnt Ends’ for the Easiest Barbecue Ever
+
+date: 2025-06-06, from: Taste of Home
+
+<p>Now that grilling season is officially upon us, it's hard to scroll social media without seeing a recipe for hot dog burnt ends. We tried them to see if they lived up to the hype.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/hot-dog-burnt-ends/">I Made &#8216;Hot Dog Burnt Ends&#8217; for the Easiest Barbecue Ever</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/hot-dog-burnt-ends/>
 
 ---
 
@@ -1160,4 +1188,16 @@ date: 2025-06-01, from: Taste of Home
 <br> 
 
 <https://www.tasteofhome.com/article/light-bright-recipe-contest/>
+
+---
+
+## Porch Swing Margarita
+
+date: 2025-05-31, from: Taste of Home
+
+With strong black tea, zesty lime, sweet peach schnapps and a shot of tequila, this porch swing margarita is practically built for sipping under string lights. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/porch-swing-margarita/>
 

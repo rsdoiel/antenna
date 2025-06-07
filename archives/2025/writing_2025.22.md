@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2025-06-06 14:07:56
+updated: 2025-06-07 06:08:15
 ---
 
 # writing
 
-(date: 2025-06-06 14:07:56)
+(date: 2025-06-07 06:08:15)
 
 ---
 
@@ -454,4 +454,18 @@ The post <a href="https://johnaugust.com/2025/scriptnotes-on-youtube-2">Scriptno
 <br> 
 
 <https://johnaugust.com/2025/scriptnotes-on-youtube-2>
+
+---
+
+## 2025 CrimeFest Awards Winners
+
+date: 2025-05-31, from: Locus Magazine
+
+<p>Winners for the 2025 CrimeFest Awards have been announced. Authors and titles of genre interest include <strong>The Sequel</strong> by Jean Hanff Korelitz (Faber &#38; Faber) in the eDUNNIT category and <strong>Heist Royale</strong> by Kayvion Lewis (Simon &#38; Schuster Children&#8217;s) in the Best Crime Novel for Young Adults category.</p>
+<div class="mynomorebulletlist">
+<p>Winners receive a Bristol Blue Glass commemorative award and were announced May 17, 2025 at a gala awards dinner in Bristol, UK.</p></div> <a href="https://locusmag.com/2025/05/2025-crimefest-awards-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2025-crimefest-awards-winners/>
 
