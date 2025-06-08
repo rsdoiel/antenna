@@ -1,11 +1,61 @@
 ---
 title: motorcycles
-updated: 2025-06-07 14:10:24
+updated: 2025-06-08 06:07:33
 ---
 
 # motorcycles
 
-(date: 2025-06-07 14:10:24)
+(date: 2025-06-08 06:07:33)
+
+---
+
+## This Custom Motorcycle Is a Picture-Perfect Desert Racer
+
+date: 2025-06-08, from: Ride Apart, Electric Motorcycle News
+
+Who would’ve thought the Bear 650 could look this badass?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/761753/custom-royal-enfield-bear-650-fuel-fury-desert-racing/>
+
+---
+
+## Stewart Friesen Wins Thrilling Triple-Overtime NASCAR CRAFTSMAN Truck Series Race at Michigan
+
+date: 2025-06-08, from: Kickin the Tires blog
+
+Stewart Friesen hoisted his first trophy of the season in Saturday afternoon’s triple overtime DQS Solutions &#38; Staffing 250 at Michigan International Speedway – a NASCAR Craftsman Truck Series race&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/stewart-friesen-wins-thrilling-triple-overtime-nascar-craftsman-truck-series-race-at-michigan/>
+
+---
+
+## Race to the Road: Introducing the Porsche 963 RSP
+
+date: 2025-06-07, from: Kickin the Tires blog
+
+Le Mans, June 06, 2025 (GLOBE NEWSWIRE) &#8212; As Porsche prepares for the 24 Hours of Le Mans, a sister to the 963 Hypercar has been revealed – named the&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/car-culture/race-to-the-road-introducing-the-porsche-963-rsp/>
+
+---
+
+## Ducati’s Working On an Automatic Clutch You'll Also Want for Racing
+
+date: 2025-06-07, from: Ride Apart, Electric Motorcycle News
+
+The goal is faster launches, more consistent performance, and reduced clutch wear. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/761754/ducati-automatic-transmission-clutch-patents/>
 
 ---
 
@@ -436,40 +486,4 @@ By Vincent Delforge, Staff Writer The fourth race of the 2025 season, the Colora
 <br> 
 
 <https://kickinthetires.net/nascar/2025-arca-west-at-colorado-team-reactions-and-analysis/>
-
----
-
-## INDY NXT points leader Dennis Hauger getting full US experience as he takes to Detroit streets
-
-date: 2025-05-31, from: Kickin the Tires blog
-
-By Noah Poser, Staff Writer Imagine you were planning a trip across the country and the four stops on the trip were as follows: St. Petersburg, Birmingham, Ala., Indianapolis and&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/other/indy-nxt-points-leader-dennis-hauger-getting-full-us-experience-as-he-takes-to-detroit-streets/>
-
----
-
-## Herta breaks track record to claim pole for Sunday’s Chevrolet Detroit Grand Prix
-
-date: 2025-05-31, from: Kickin the Tires blog
-
-By Austin Lawton, Staff Writer Colton Herta continues to be the king of the Detroit streets after winning pole for Sunday’s Chevrolet Detroit Grand Prix.&#160; Herta broke the track record&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/indycar/herta-breaks-track-record-to-claim-pole-for-sundays-chevrolet-detroit-grand-prix/>
-
----
-
-## Sky-High Trump Tariffs on Powersports? Not So Fast, Says Federal Trade Court
-
-date: 2025-05-31, from: Ride Apart, Electric Motorcycle News
-
-A bipartisan panel of judges declared most tariffs imposed so far illegal. What's next? 
-
-<br> 
-
-<https://www.rideapart.com/news/761148/trump-tariffs-trade-court-illegal/>
 

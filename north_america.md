@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-06-07 14:10:17
+updated: 2025-06-08 06:07:27
 ---
 
 # north america
 
-(date: 2025-06-07 14:10:17)
+(date: 2025-06-08 06:07:27)
+
+---
+
+## Budget Battle Breaks Billionaire Bromance
+
+date: 2025-06-07, from: The Contrarian
+
+Publishers Roundup 21 
+
+<br> 
+
+<https://contrarian.substack.com/p/budget-battle-breaks-billionaire>
+
+---
+
+##  YOU LOVE TO SEE IT: Geostalkers Get Lost 
+
+date: 2025-06-07, from: The Lever News
+
+ Geolocation data is safe and sound, new parents get a break, one city’s road to reparations, and sports betting giants need to pay up.  
+
+<br> 
+
+<https://www.levernews.com/geostalkers-get-lost/>
 
 ---
 
@@ -904,28 +928,4 @@ date: 2025-06-01, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-muskcoin-is-coming/>
-
----
-
-## How YOU Helped Knock Musk Out of DC–& of Politics
-
-date: 2025-05-31, from: The Contrarian
-
-Publisher's Roundup, 20 
-
-<br> 
-
-<https://contrarian.substack.com/p/how-you-helped-knock-musk-out-of>
-
----
-
-##  YOU LOVE TO SEE IT: Climate Data Is Unscrubbed 
-
-date: 2025-05-31, from: The Lever News
-
- Farmers score a win against climate censorship, striking workers get help, courts defend public schools, and paradise is protected.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-climate-data-is-unscrubbed/>
 

@@ -1,11 +1,94 @@
 ---
 title: journalism
-updated: 2025-06-07 14:10:22
+updated: 2025-06-08 06:07:31
 ---
 
 # journalism
 
-(date: 2025-06-07 14:10:22)
+(date: 2025-06-08 06:07:31)
+
+---
+
+## The City of Santa Clarita’s Beach Bus is back
+
+date: 2025-06-08, from: The Canyon News (COC Student Newspaper)
+
+<p>As temperatures soared over the weekend, people hit the beach — and&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/beach-bus/">The City of Santa Clarita&#8217;s Beach Bus is back</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/beach-bus/>
+
+---
+
+## Graduation season rolls on as Castaic Coyotes celebrate their special moment
+
+date: 2025-06-07, from: The Canyon News (COC Student Newspaper)
+
+<p>Here in Santa Clarita, it’s the season of graduation. With applause of&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/graduation-season/">Graduation season rolls on as Castaic Coyotes celebrate their special moment</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/graduation-season/>
+
+---
+
+## Student parents juggle classes, child care in pursuit of degrees
+
+date: 2025-06-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Each year, thousands of graduates receive their degrees at UCLA. In addition to being students, some graduates hold another role &#8211; parent.
+The American Council on Education defines student parents as students enrolled in a degree or certificate program who have at least one child or dependent. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/07/student-parents-juggle-classes-child-care-in-pursuit-of-degrees/>
+
+---
+
+## Adult Reentry Alliance offers opportunities for adults returning to college
+
+date: 2025-06-07, from: The Canyon News (COC Student Newspaper)
+
+<p>There are many reasons adults decide to return to college, including the&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/adult-reentry/">Adult Reentry Alliance offers opportunities for adults returning to college</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/adult-reentry/>
+
+---
+
+## COC students bracing for finals look for ways to preserve mental health
+
+date: 2025-06-07, from: The Canyon News (COC Student Newspaper)
+
+<p>As we spring into summer, students are faced with one last academic&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/mental-health-awareness/">COC students bracing for finals look for ways to preserve mental health</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/mental-health-awareness/>
+
+---
+
+## College of the Canyons graduation: final goodbyes and reflections
+
+date: 2025-06-07, from: The Canyon News (COC Student Newspaper)
+
+<p>Graduation is coming up. Students will walk the stage at Cougar Stadium&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/coc-graduation/">College of the Canyons graduation: final goodbyes and reflections</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/coc-graduation/>
 
 ---
 
@@ -989,29 +1072,4 @@ Metro announced in a May 7 statement that William Scott, who was the San Francis
 <br> 
 
 <https://dailybruin.com/2025/05/31/los-angeles-metro-names-new-chief-to-lead-in-house-police-force/>
-
----
-
-## West LA food
-
-date: 2025-05-31, from: The Daily Bruin (UCLA Student Newspaper)
-
-From buzzy new openings to longtime neighborhood staples, this project gathers food coverage across West Los Angeles. Whether keeping up with the latest or revisiting familiar flavors, there&#8217;s plenty to explore. 
-
-<br> 
-
-<https://features.dailybruin.com/2025/west-la-food-25/>
-
----
-
-## NWWNC Q&A: Student member Arjun Pathiyal discusses important issues, goals for Westwood
-
-date: 2025-05-31, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated June 2 at 12:03 a.m.</em>
-Arjun Pathiyal won a position on the North Westwood Neighborhood Council as an undergraduate student board member in April. 
-
-<br> 
-
-<https://dailybruin.com/2025/05/30/nwwnc-qa-student-member-arjun-pathiyal-discusses-important-issues-goals-for-westwood/>
 

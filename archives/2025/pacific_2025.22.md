@@ -1,11 +1,425 @@
 ---
 title: pacific
-updated: 2025-06-07 14:10:18
+updated: 2025-06-08 06:07:28
 ---
 
 # pacific
 
-(date: 2025-06-07 14:10:18)
+(date: 2025-06-08 06:07:28)
+
+---
+
+## Council votes to protect Parks and Rec staffers: Some are targeted in lawsuit over dead tree-trimmer
+
+date: 2025-06-08, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Council on Thursday voted to indemnify against liability former Department of Parks and Recreation director Maurice Messina, former deputy director Michelle Hiraishi and four current or former Parks and Rec employees in a wrongful death lawsuit related to a fatal workplace incident more than four years ago.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/08/hawaii-news/council-votes-to-protect-parks-and-rec-staffers/>
+
+---
+
+## Kupuna from across island turn out for annual Casino Day
+
+date: 2025-06-08, from: Hawaii Tribune Harold
+
+
+				<p>The booming voice of the Bingo caller could be heard far from Edith Kanaka&#8216;ole Multi-Purpose Stadium on Friday as excited kupuna arrived for the annual Casino Day event hosted by Hawaii County&#8217;s Elderly Recreation Services.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/08/hawaii-news/kupuna-from-across-island-turn-out-for-annual-casino-day/>
+
+---
+
+## Trump administration says National Guard will be deployed to LA protests
+
+date: 2025-06-08, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; The Trump administration said it planned to deploy the National Guard to Los Angeles on Saturday after federal immigration agents in riot gear squared off with hundreds of protesters for a second consecutive day.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/08/nation-world-news/trump-administration-says-national-guard-will-be-deployed-to-la-protests/>
+
+---
+
+## Concerns linger over zoo fees: Dozens turn out for public hearing
+
+date: 2025-06-08, from: Hawaii Tribune Harold
+
+
+				<p>Members of the public voiced concerns and offered suggestions during a hearing Tuesday night about proposed changes for the Pana&#8216;ewa Recreation Center, including fees for entry to the zoo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/08/hawaii-news/concerns-linger-over-zoo-fees-dozens-turn-out-for-public-hearing/>
+
+---
+
+## Hunt for father accused of killing 3 daughters expands in Washington forest
+
+date: 2025-06-08, from: Hawaii Tribune Harold
+
+
+				<p>The National Guard is joining the search in Washington state for a man police say killed his three young daughters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/08/nation-world-news/hunt-for-father-accused-of-killing-3-daughters-expands-in-washington-forest/>
+
+---
+
+## Russia pummels Kharkiv with drones and bombs, Ukraine says
+
+date: 2025-06-08, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Russia pummeled Ukraine&#8217;s second-largest city, Kharkiv, overnight Saturday, using a swarm of drones, bombs and missiles that killed at least three people, according to local authorities. It was the latest in an escalating series of Russian air assaults on urban centers that have further dampened hopes for a ceasefire.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/08/nation-world-news/russia-pummels-kharkiv-with-drones-and-bombs-ukraine-says/>
+
+---
+
+## Colombian senator Miguel Uribe shot at campaign event
+
+date: 2025-06-08, from: Hawaii Tribune Harold
+
+
+				<p>BOGOTA, Colombia &#8212; A conservative Colombian senator, presidential hopeful and grandson of a former president was shot from behind at a campaign event Saturday in the capital, Bogot&#225;, according to his party.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/08/nation-world-news/colombian-senator-miguel-uribe-shot-at-campaign-event/>
+
+---
+
+## Israel recovers body of Thai farmworker in Gaza
+
+date: 2025-06-08, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Israeli security forces have recovered the body of a Thai citizen who was abducted and taken back to the Gaza Strip in the 2023 Hamas-led attack, the military said Saturday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/08/nation-world-news/israel-recovers-body-of-thai-farmworker-in-gaza/>
+
+---
+
+## With joy and resolve, paradegoers celebrate at global Pride gathering in DC
+
+date: 2025-06-08, from: Hawaii Tribune Harold
+
+
+				<p>The beats from DJs thrummed. Brass bands boomed. Bars and restaurants bustled. Sequins, feathers and fans that opened with a thwack were everywhere.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/08/nation-world-news/with-joy-and-resolve-paradegoers-celebrate-at-global-pride-gathering-in-dc/>
+
+---
+
+## Teenager’s plot for bombing and mass shooting at a mall is foiled, FBI says
+
+date: 2025-06-08, from: Hawaii Tribune Harold
+
+
+				<p>A teenager in Oregon planned to set off an explosive at a shopping mall in Washington state and shoot people as they fled the movie theater there, said law enforcement officials, one of whom said the plot &#8220;was as serious as it gets.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/08/nation-world-news/teenagers-plot-for-bombing-and-mass-shooting-at-a-mall-is-foiled-fbi-says/>
+
+---
+
+## Obituaries for June 8
+
+date: 2025-06-08, from: Hawaii Tribune Harold
+
+
+				<p>Douglas &#8220;Doug&#8221; Kulonoehu Awai Sr., 82, of Hilo, died April 30 at home. Born in Honolulu, he was the retired owner and mason contractor for Awai Masonry, later known as Awai &#38;Sons Inc., a member of The Church of Jesus Christ of Latter-day Saints, Keaukaha Ward, Hawaii Farmers Association and Hawaii Army National Guard veteran. Visitation 8:30-9:30 a.m. Friday (June 13) at Dodo Mortuary Chapel. Funeral Service at 10 a.m. Burial to follow at Homelani Memorial Park, Ilima Section. Aloha attire. Survived by wife, Isabelle &#8220;Belle&#8221; Awai of Hilo; daughter, Rochelle (Eugene) Travis of Henderson, Nev.; sons, Douglas (Cheryl) Awai Jr. of Hilo and David (Debi Vierra) Awai of Hilo; brothers, Charles &#8220;Charlie&#8221; (Claudia) Awai of Honolulu, Wayne (Kathy) Awai of Waikoloa and Wade (Connie) Brosius of Chadds Ford, Pa.; sisters, Jennie &#8220;Tita&#8221; Silva of Hilo and Barbara Brosius of Clearwater, Fla.; 10 grandchildren; nephews, nieces and cousins. Arrangements by Dodo Mortuary.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/08/hawaii-news/obituaries-for-june-8-8/>
+
+---
+
+## Trump says he has no desire to mend his relationship with Musk
+
+date: 2025-06-08, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump said Saturday that his relationship with Elon Musk was likely beyond repair after the two sparred publicly on social media this past week, and he warned there would be &#8220;serious consequences&#8221; if Musk financed candidates to run against Republicans who voted in favor of the president&#8217;s domestic policy bill.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/08/nation-world-news/trump-says-he-has-no-desire-to-mend-his-relationship-with-musk/>
+
+---
+
+## Steves: Glasgow surprises with art, design and culture
+
+date: 2025-06-08, from: Hawaii Tribune Harold
+
+
+				<p>Glasgow, astride the River Clyde, is a surprising city &#8212; and Scotland&#8217;s most underrated destination. Just an hour from Edinburgh (making it an easy day trip), Glasgow offers an energetic dining and nightlife scene, fanciful architecture, and top-notch museums &#8212; most of which are free. Today, this once-run-down city feels revitalized, and Glaswegians (sounds like &#8220;Norwegians&#8221;) are eager to give visitors a warm welcome.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/08/features/steves-glasgow-surprises-with-art-design-and-culture/>
+
+---
+
+## Explore Crystal Cave as it reopens at Sequoia National Park for this season
+
+date: 2025-06-08, from: Hawaii Tribune Harold
+
+
+				<p>After a four-year closure due to natural disasters, Crystal Cave in Sequoia National Park in California reopened to the public in time for Memorial Day, the unofficial start of the summer.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/08/features/explore-crystal-cave-as-it-reopens-at-sequoia-national-park-for-this-season/>
+
+---
+
+## Volcano Watch: What fans the flames observed at volcanic vents?
+
+date: 2025-06-08, from: Hawaii Tribune Harold
+
+
+				<p>Recently, something has been observed &#8220;dancing&#8221; above the active eruptive vents inside Halema&#8216;uma&#8216;u: hydrogen flames! Let&#8217;s take a look into what causes this and other flame phenomenon on volcanoes. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/08/features/volcano-watch-what-fans-the-flames-observed-at-volcanic-vents/>
+
+---
+
+## Trump deploys National Guard as Los Angeles protests against immigration agents continue
+
+date: 2025-06-08, updated: 2025-06-08, from: Marianas Variety
+
+LOS ANGELES (Reuters) — President Donald Trump's administration said it would deploy 2,000 National Guard troops on Saturday as federal agents in Los Angeles faced off against demonstrators for a second day following immigration raids. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-deploys-national-guard-as-los-angeles-protests-against-immigration-agents-continue/article_cb48d8b2-1af9-4109-9014-254b3f8b369e.html>
+
+---
+
+## Hawaii’s math teaching deemed ‘unacceptable’
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>A nonpartisan national council that analyzed the quality of the nation&#8217;s math teaching found Hawaii to be one of seven states with an &#8220;unacceptable&#8221; rating for math education.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/hawaii-news/hawaiis-math-teaching-deemed-unacceptable/>
+
+---
+
+## More federal workers are flooding the job market, with worsening prospects
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>After Matt Minich was fired from his job with the Food and Drug Administration in February, he did what many scientists have done for years after leaving public service. He looked for a position with a university.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/more-federal-workers-are-flooding-the-job-market-with-worsening-prospects/>
+
+---
+
+## Trump’s relationship with Musk remains icy as public spat goes private
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump is blaming Elon Musk&#8217;s behavior on drug use, as the acrimonious blowup of their partnership left both men &#8212; who lobbed online insults and threats at each other Thursday &#8212; with a lot at risk.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/trumps-relationship-with-musk-remains-icy-as-public-spat-goes-private/>
+
+---
+
+## Justices grant DOGE access to Social Security data and let the team shield records
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court on Friday let members of the Department of Government Efficiency, formed by Elon Musk, have access to sensitive records of many millions of Americans held by the Social Security Administration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/justices-grant-doge-access-to-social-security-data-and-let-the-team-shield-records/>
+
+---
+
+## Tropical Gardening: Time to start a perfect vegetable garden
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>Inflation and increasing food costs can be a problems but also an opportunity to be creative in your garden. One project to reduce food bills and have some family fun as is to grow your own vegetables. Yards and lanais are prime opportunity to help cut food expenses. You can do it by planting vegetables along with your ornamentals.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/features/tropical-gardening-time-to-start-a-perfect-vegetable-garden/>
+
+---
+
+## Proud Boys convicted in Jan. 6 attack sue government on claims of ‘political persecution’
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>Five members of the Proud Boys who were convicted of seditious conspiracy and other charges in connection with the violent assault on the Capitol on Jan. 6, 2021, sued the government for $100 million Friday, claiming that federal officials had subjected them to &#8220;political persecution&#8221; as &#8220;allies of President Trump.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/proud-boys-convicted-in-jan-6-attack-sue-government-on-claims-of-political-persecution/>
+
+---
+
+## Law would make most National Weather Service workers hard to fire
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>A bill introduced in the House of Representatives on Friday would make it harder to fire most employees of the National Weather Service and give the agency&#8217;s director the authority to hire new staff directly, months after it lost nearly 600 employees to layoffs and retirements as part of the Trump administration&#8217;s sweeping cuts to the federal workforce.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/law-would-make-most-national-weather-service-workers-hard-to-fire/>
+
+---
+
+## Tornadoes are reported across the Plains amid widespread severe weather threat
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>At least two tornadoes spun through eastern Oklahoma and western Arkansas on Friday, part of a system of severe weather that threatened to bring large hail, damaging winds and flash flooding from the southern Plains to the Southeast through the weekend.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/tornadoes-are-reported-across-the-plains-amid-widespread-severe-weather-threat/>
+
+---
+
+## How the Trump administration banished eight men to legal limbo in Africa
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>Somewhere inside Camp Lemonnier, a U.S. military base in the East African nation of Djibouti, eight men, all convicted of serious crimes in the United States, are under the guard of officers from the Department of Homeland Security.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/how-the-trump-administration-banished-eight-men-to-legal-limbo-in-africa/>
+
+---
+
+## Russia pummels Kyiv in apparent retaliation for drone assault
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Russia on Friday launched one of the largest barrages of missiles and drones of the war at targets across Ukraine, killing at least four people and damaging buildings nationwide, in what Moscow suggested was retaliation for Ukraine&#8217;s recent audacious assault on Russian strategic bomber bases.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/russia-pummels-kyiv-in-apparent-retaliation-for-drone-assault/>
+
+---
+
+## Agents use military-style force against protesters at LA immigration raid
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Federal agents in tactical gear armed with military-style rifles threw flash-bang grenades to disperse an angry crowd near downtown Los Angeles on Friday as they conducted an immigration raid on a clothing wholesaler, the latest sign of tensions between protesters and law enforcement over raids carried out at stores, restaurants and court buildings.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/agents-use-military-style-force-against-protesters-at-la-immigration-raid/>
+
+---
+
+## UH students tackle real-world challenges with local family businesses
+
+date: 2025-06-07, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> students are helping <span aria-label="Hawaii">Hawai&#699;i</span> family businesses grow with fresh ideas, tech solutions and teamwork.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/06/real-world-challenges-with-local-businesses/"><abbr>UH</abbr> students tackle real-world challenges with local family businesses</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/06/real-world-challenges-with-local-businesses/>
+
+---
+
+## From bros to foes: How the unlikely Trump-Musk relationship imploded
+
+date: 2025-06-07, updated: 2025-06-08, from: Marianas Variety
+
+WASHINGTON (Reuters) — When Donald Trump met privately with White House officials on Wednesday, there was little to suggest that the U.S. president was close to a public break with Elon Musk, the billionaire businessman who helped him win a second term in office. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/from-bros-to-foes-how-the-unlikely-trump-musk-relationship-imploded/article_a078ec76-9f7e-4cdc-8ccc-fa7814088c02.html>
+
+---
+
+## Local leaders offer perspectives on Matt Elliott’s appointment as UH Mānoa AD
+
+date: 2025-06-07, from: University of Hawaiʻi News
+
+<p>Leaders say Matt Elliott brings rare leadership skills and deep ties to <span aria-label="Hawaii">Hawai&#699;i</span> as he prepares to lead <abbr>UH</abbr> Mānoa Athletics.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/06/leaders-offer-perspectives-new-ad/">Local leaders offer perspectives on Matt Elliott’s appointment as <abbr>UH</abbr> Mānoa <abbr>AD</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/06/leaders-offer-perspectives-new-ad/>
 
 ---
 
@@ -335,7 +749,7 @@ date: 2025-06-06, from: Hawaii Tribune Harold
 
 ## PSS: Burglaries hit several campuses
 
-date: 2025-06-06, updated: 2025-06-06, from: Marianas Variety
+date: 2025-06-06, updated: 2025-06-08, from: Marianas Variety
 
 This is a developing story. 
 
@@ -707,21 +1121,9 @@ The post <a href="https://www.hawaii.edu/news/2025/06/05/matt-elliott-uh-manoa-a
 
 ---
 
-## 45 Tinian students complete financial, digital certification courses
-
-date: 2025-06-05, updated: 2025-06-05, from: Marianas Variety
-
-FORTY-FIVE middle and high school students on Tinian have completed financial and digital literacy certification courses. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/45-tinian-students-complete-financial-digital-certification-courses/article_cff31e4e-5511-41dd-a014-36370be608e8.html>
-
----
-
 ## Xi, Trump spoke by telephone on Thursday, Xinhua reports
 
-date: 2025-06-05, updated: 2025-06-05, from: Marianas Variety
+date: 2025-06-05, updated: 2025-06-08, from: Marianas Variety
 
 BEIJING/WASHINGTON (Reuters) — Chinese President Xi Jinping on Thursday held talks with his U.S. counterpart Donald Trump by phone, China's state-run news agency Xinhua reported, as bilateral relations have been strained by trade disputes. 
 
@@ -733,13 +1135,25 @@ BEIJING/WASHINGTON (Reuters) — Chinese President Xi Jinping on Thursday held t
 
 ## Palau’s cesarean rate among highest in the world
 
-date: 2025-06-05, updated: 2025-06-05, from: Marianas Variety
+date: 2025-06-05, updated: 2025-06-08, from: Marianas Variety
 
 KOROR (Island Times/Pacnews) — Palau’s caesarean birth rate has risen sharply to 42%, far exceeding the World Health Organization’s recommended limit of 10%. 
 
 <br> 
 
 <https://www.mvariety.com/news/regional_world/palau-s-cesarean-rate-among-highest-in-the-world/article_02e8e689-e906-46b9-a8f3-3275139d4470.html>
+
+---
+
+## 45 Tinian students complete financial, digital certification courses
+
+date: 2025-06-05, updated: 2025-06-08, from: Marianas Variety
+
+FORTY-FIVE middle and high school students on Tinian have completed financial and digital literacy certification courses. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/45-tinian-students-complete-financial-digital-certification-courses/article_cff31e4e-5511-41dd-a014-36370be608e8.html>
 
 ---
 
@@ -2505,291 +2919,4 @@ date: 2025-06-01, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/06/01/features/halema%ca%bbuma%ca%bbu-eruption-reaches-new-heights-hvo-updates-volcano-alert-notifications/>
-
----
-
-## Archbishop’s message announcingthe passing of Archbishop Emeritus Byrnes
-
-date: 2025-05-31, from: Pacific Island Times
-
-Michael J. Byrnes Dear brothers and sisters in Christ, With deep sadness, I share news that Archbishop Emeritus Michael J. Byrnes has... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/archbishop-s-message-announcingthe-passing-of-archbishop-emeritus-byrnes>
-
----
-
-## A black eye at the White House: Did somebody punch Elon?
-
-date: 2025-05-31, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; It was like metaphor turned reality.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/a-black-eye-at-the-white-house-did-somebody-punch-elon/>
-
----
-
-## Trump says he plans to double steel, aluminum tariffs to 50%
-
-date: 2025-05-31, from: Hawaii Tribune Harold
-
-
-				<p>WEST MIFFLIN, Pa. &#8212; President Donald Trump said Friday that he would double the tariffs he had levied on foreign steel and aluminum to 50%, a move that he claimed would further protect the industry.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/trump-says-he-plans-to-double-steel-aluminum-tariffs-to-50/>
-
----
-
-## Trump’s sweeping tax-cut bill includes provision to weaken court powers
-
-date: 2025-05-31, from: Hawaii Tribune Harold
-
-
-				<p>WILMINGTON, Delaware &#8212; The sweeping tax-and-spending bill that would enact President Donald Trump&#8217;s policy agenda includes a provision that critics said would weaken the power of U.S. judges to enforce contempt when the government defies court orders.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/trumps-sweeping-tax-cut-bill-includes-provision-to-weaken-court-powers/>
-
----
-
-## On the campaign trail, Elon Musk juggled drugs and family drama
-
-date: 2025-05-31, from: Hawaii Tribune Harold
-
-
-				<p>As Elon Musk became one of Donald Trump&#8217;s closest allies last year, leading raucous rallies and donating about $275 million to help him win the presidency, he was also using drugs far more intensely than previously known, according to people familiar with his activities.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/on-the-campaign-trail-elon-musk-juggled-drugs-and-family-drama/>
-
----
-
-## US Supreme Court lets Trump revoke humanitarian legal status for migrants
-
-date: 2025-05-31, from: Hawaii Tribune Harold
-
-
-				<p>The U.S. Supreme Court on Friday let President Donald Trump&#8217;s administration revoke the temporary legal status of hundreds of thousands of Venezuelan, Cuban, Haitian and Nicaraguan migrants living in the United States, bolstering the Republican president&#8217;s drive to step up deportations. The court put on hold Boston-based U.S. District Judge Indira Talwani&#8217;s order halting the administration&#8217;s move to end the immigration &#8220;parole&#8221; granted to 532,000 of these migrants by Trump&#8217;s predecessor Joe Biden, potentially exposing many of them to rapid removal, while the case plays out in lower courts.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/us-supreme-court-lets-trump-revoke-humanitarian-legal-status-for-migrants/>
-
----
-
-## Tropical Gardening: Add food and vitamin-producing plants to your garden
-
-date: 2025-05-31, from: Hawaii Tribune Harold
-
-
-				<p>We have come to a time when we need to depend more on our gardens and what they can produce to keep our food costs lower and products locally grown.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/31/features/tropical-gardening-add-food-and-vitamin-producing-plants-to-your-garden-3/>
-
----
-
-## Green signs bills to bolster schoolchildren
-
-date: 2025-05-31, from: Hawaii Tribune Harold
-
-
-				<p>Gov. Josh Green signed three bills Friday afternoon to support healthier keiki through better access to food, transportation and surfing programs in schools.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/31/hawaii-news/green-signs-bills-to-bolster-schoolchildren/>
-
----
-
-## News in brief for May 31
-
-date: 2025-05-31, from: Hawaii Tribune Harold
-
-
-				<p>Taylor Swift has&#0010;gained control of &#0010;her music catalog</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/news-in-brief-for-may-31/>
-
----
-
-## Scientists say they’ve found a dwarf planet very far from the sun
-
-date: 2025-05-31, from: Hawaii Tribune Harold
-
-
-				<p>A sizable world has been found in a part of the solar system that astronomers once thought to be empty. It probably qualifies as a dwarf planet, the same classification as Pluto.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/scientists-say-theyve-found-a-dwarf-planet-very-far-from-the-sun/>
-
----
-
-## Trump administration says New York mascot ban violates civil rights law
-
-date: 2025-05-31, from: Hawaii Tribune Harold
-
-
-				<p>The U.S. Department of Education accused New York officials Friday of discriminating against Native Americans by banning school mascots that draw from their culture.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/trump-administration-says-new-york-mascot-ban-violates-civil-rights-law/>
-
----
-
-## 1 killed and at least 7 are injured in tornado in Kentucky, officials say
-
-date: 2025-05-31, from: Hawaii Tribune Harold
-
-
-				<p>One person was killed and at least seven others were injured when a tornado struck several houses in central Kentucky on Friday morning, officials said.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/1-killed-and-at-least-7-are-injured-in-tornado-in-kentucky-officials-say/>
-
----
-
-## 250 million honeybees escape after a truck rolls over in Washington state
-
-date: 2025-05-31, from: Hawaii Tribune Harold
-
-
-				<p>In the northwest corner of Washington state Friday morning, authorities issued a most unusual all-points bulletin, rather, an APBee.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/250-million-honeybees-escape-after-a-truck-rolls-over-in-washington-state/>
-
----
-
-## CDC contradicts Kennedy and keeps advice that children may get COVID shots
-
-date: 2025-05-31, from: Hawaii Tribune Harold
-
-
-				<p>Days after Health Secretary Robert F. Kennedy Jr. announced that COVID-19 shots would be removed from the federal immunization schedule for children, the Centers for Disease Control and Prevention issued updated advice that largely counters Kennedy&#8217;s new policy.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/cdc-contradicts-kennedy-and-keeps-advice-that-children-may-get-covid-shots/>
-
----
-
-## Japan says there is no easy concession on US tariffs, seeks more talks in June
-
-date: 2025-05-31, from: Hawaii Tribune Harold
-
-
-				<p>Japan and the U.S. on Friday agreed to hold another round of trade talks ahead of the G7 summit next month, Japan&#8217;s top tariff negotiator said, stressing that no deal would be without concessions on all Washington&#8217;s tariffs, including on autos.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/japan-says-there-is-no-easy-concession-on-us-tariffs-seeks-more-talks-in-june/>
-
----
-
-## PBS sues Trump over order to cut funding
-
-date: 2025-05-31, from: Hawaii Tribune Harold
-
-
-				<p>PBS sued President Donald Trump on Friday to block an executive order that would cut federal funding for public television and radio, arguing that it was unconstitutional.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/31/nation-world-news/pbs-sues-trump-over-order-to-cut-funding/>
-
----
-
-## Accelerating material science research, education, outreach in Hawaiʻi
-
-date: 2025-05-31, from: University of Hawaiʻi News
-
-<p><abbr>UH</abbr> Mānoa’s materials science consortium with the University of Washington is accelerating research, education and <abbr>STEM</abbr> outreach across <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
-The post <a href="https://www.hawaii.edu/news/2025/05/30/material-science-research-education/">Accelerating material science research, education, outreach in Hawaiʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/05/30/material-science-research-education/>
-
----
-
-## Five UH football games slated for national broadcast
-
-date: 2025-05-31, from: University of Hawaiʻi News
-
-<p>The first nationally televised game will be against Stanford on August 23 on <abbr>CBS</abbr>.</p>
-The post <a href="https://www.hawaii.edu/news/2025/05/30/football-games-national-broadcast/">Five <abbr>UH</abbr> football games slated for national broadcast</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/05/30/football-games-national-broadcast/>
-
----
-
-## In memoriam: Eloise Luzader, cherished Gateway Café head cashier
-
-date: 2025-05-31, from: University of Hawaiʻi News
-
-<p>Luzader warmly greeted and cared for patrons at the café for nearly 30 years.</p>
-The post <a href="https://www.hawaii.edu/news/2025/05/30/in-memoriam-eloise-luzader/">In memoriam: Eloise Luzader, cherished Gateway Café head cashier</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/05/30/in-memoriam-eloise-luzader/>
-
----
-
-## Rainbow Wahine water polo earns All-America honors
-
-date: 2025-05-31, from: University of Hawaiʻi News
-
-<p>The awards come after an <abbr>NCAA</abbr> Championship Final Four finish.</p>
-The post <a href="https://www.hawaii.edu/news/2025/05/30/wahine-water-polo-all-america/">Rainbow Wahine water polo earns All-America honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/05/30/wahine-water-polo-all-america/>
-
----
-
-## Faculty champion entrepreneurial thinking, transforming classrooms in new UH program
-
-date: 2025-05-31, from: University of Hawaiʻi News
-
-<p><abbr>UH</abbr> faculty are transforming education through hands-on, entrepreneurial teaching in the new EL3vate program.</p>
-The post <a href="https://www.hawaii.edu/news/2025/05/30/el3vate-program-showcase/">Faculty champion entrepreneurial thinking, transforming classrooms in new <abbr>UH</abbr> program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/05/30/el3vate-program-showcase/>
 

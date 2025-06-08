@@ -1,11 +1,186 @@
 ---
 title: home
-updated: 2025-06-07 14:10:23
+updated: 2025-06-08 06:07:33
 ---
 
 # home
 
-(date: 2025-06-07 14:10:23)
+(date: 2025-06-08 06:07:33)
+
+---
+
+## 15 Types of Doves in California (With Pictures and Identification)
+
+date: 2025-06-08, from: Yard Life blog
+
+<p>California is a fantastic place for bird enthusiasts, especially those interested in doves. With its diverse habitats ranging from coastal ... </p>
+<p class="read-more-container"><a title="15 Types of Doves in California (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/15-types-of-doves-in-california-with-pictures-and-identification/#more-29773" aria-label="Read more about 15 Types of Doves in California (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/15-types-of-doves-in-california-with-pictures-and-identification/">15 Types of Doves in California (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/15-types-of-doves-in-california-with-pictures-and-identification/>
+
+---
+
+## 21 Types of Gulls in California (With Pictures and Identification)
+
+date: 2025-06-08, from: Yard Life blog
+
+<p>California’s diverse coastline, expansive wetlands, and inland lakes make it one of the best places in North America to observe ... </p>
+<p class="read-more-container"><a title="21 Types of Gulls in California (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/21-types-of-gulls-in-california-with-pictures-and-identification/#more-29745" aria-label="Read more about 21 Types of Gulls in California (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/21-types-of-gulls-in-california-with-pictures-and-identification/">21 Types of Gulls in California (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/21-types-of-gulls-in-california-with-pictures-and-identification/>
+
+---
+
+## 20 Types of Blue Birds in Florida (With Pictures and Identification)
+
+date: 2025-06-08, from: Yard Life blog
+
+<p>Florida’s diverse landscapes and mild climate make it a haven for birdwatchers, especially those seeking to spot some of the ... </p>
+<p class="read-more-container"><a title="20 Types of Blue Birds in Florida (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/20-types-of-blue-birds-in-florida-with-pictures-and-identification/#more-29731" aria-label="Read more about 20 Types of Blue Birds in Florida (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-types-of-blue-birds-in-florida-with-pictures-and-identification/">20 Types of Blue Birds in Florida (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-types-of-blue-birds-in-florida-with-pictures-and-identification/>
+
+---
+
+## 2 Types of Cranes in Wisconsin (With Pictures and Identification)
+
+date: 2025-06-08, from: Yard Life blog
+
+<p>Cranes in Wisconsin are fascinating and majestic birds that capture the attention of birdwatchers and nature enthusiasts alike. Despite their ... </p>
+<p class="read-more-container"><a title="2 Types of Cranes in Wisconsin (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/2-types-of-cranes-in-wisconsin-with-pictures-and-identification/#more-29724" aria-label="Read more about 2 Types of Cranes in Wisconsin (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/2-types-of-cranes-in-wisconsin-with-pictures-and-identification/">2 Types of Cranes in Wisconsin (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/2-types-of-cranes-in-wisconsin-with-pictures-and-identification/>
+
+---
+
+## 11 Types of Woodpeckers in Ohio (Pictures and Identification)
+
+date: 2025-06-08, from: Yard Life blog
+
+<p>Ohio is home to a remarkable variety of woodpeckers, thanks to its rich mix of forests, wetlands, and suburban woodlands. ... </p>
+<p class="read-more-container"><a title="11 Types of Woodpeckers in Ohio (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/11-types-of-woodpeckers-in-ohio-pictures-and-identification/#more-29718" aria-label="Read more about 11 Types of Woodpeckers in Ohio (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/11-types-of-woodpeckers-in-ohio-pictures-and-identification/">11 Types of Woodpeckers in Ohio (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/11-types-of-woodpeckers-in-ohio-pictures-and-identification/>
+
+---
+
+## Should You Let Coleus Flower? Best Practices for Vibrant Foliage
+
+date: 2025-06-07, from: The Gardener's Path
+
+<p>Coleus is a shade-loving perennial with vivid, eye-catching, variegated foliage. It's hardy in Zones 10 and 11 and can be cultivated as an annual or houseplant elsewhere. In late summer, bluish-lavender flower spikes rise from the mounds of colorful leaves. Learn what to do when coleus blooms in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/foliage/coleus-bloom/">Should You Let Coleus Flower? Best Practices for Vibrant Foliage</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/foliage/coleus-bloom/>
+
+---
+
+## Frank Lloyd Wright Never Built His Travel Trailer. Now He Has an Airstream
+
+date: 2025-06-07, from: Dwell
+
+The architect designed a mobile kitchen around the same time the trailer company rolled out its first units. Some 75 years later, the titans of modern design have converged. 
+
+<br> 
+
+<https://www.dwell.com/article/frank-lloyd-wright-airstream-usonian-frank-lloyd-wright-foundation-taliesin-west-organic-architecture-f10b919a>
+
+---
+
+## 22 Types of Sparrows in Ohio (Pictures and Identification)
+
+date: 2025-06-07, from: Yard Life blog
+
+<p>Birdwatching across the Midwest offers many memorable moments, and Ohio stands out with its impressive variety of sparrows. These small ... </p>
+<p class="read-more-container"><a title="22 Types of Sparrows in Ohio (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/22-types-of-sparrows-in-ohio-pictures-and-identification/#more-29709" aria-label="Read more about 22 Types of Sparrows in Ohio (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/22-types-of-sparrows-in-ohio-pictures-and-identification/">22 Types of Sparrows in Ohio (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/22-types-of-sparrows-in-ohio-pictures-and-identification/>
+
+---
+
+## 9 Cardinals in Florida (With Pictures and Identification)
+
+date: 2025-06-07, from: Yard Life blog
+
+<p>While the Northern Cardinal is the only true cardinal species (Cardinalis cardinalis) commonly found in Florida, the state hosts a ... </p>
+<p class="read-more-container"><a title="9 Cardinals in Florida (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/9-cardinals-in-florida-with-pictures-and-identification/#more-29702" aria-label="Read more about 9 Cardinals in Florida (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/9-cardinals-in-florida-with-pictures-and-identification/">9 Cardinals in Florida (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/9-cardinals-in-florida-with-pictures-and-identification/>
+
+---
+
+## May in Jacques’ garden
+
+date: 2025-06-07, from: Greg Alder's blog, Yard Post
+
+<p>What is there to eat in Jacques&#8217; food garden in the month of May? He&#8217;s got some snacks that you might grow too, as well as some that you might not. Come along to find out . . . Other months in Jacques’ garden: January, February, March, April. Thank you for&#160;your support&#160;of my Yard Posts so I can [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/may-in-jacques-garden/">May in Jacques&#8217; garden</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/may-in-jacques-garden/>
+
+---
+
+## 31 Types of Ducks in Oregon (Pictures and Identification)
+
+date: 2025-06-07, from: Yard Life blog
+
+<p>Birdwatchers and nature enthusiasts find exploring the diverse types of ducks in Oregon a rewarding experience. Oregon’s varied habitats, from ... </p>
+<p class="read-more-container"><a title="31 Types of Ducks in Oregon (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/31-types-of-ducks-in-oregon-pictures-and-identification/#more-29692" aria-label="Read more about 31 Types of Ducks in Oregon (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/31-types-of-ducks-in-oregon-pictures-and-identification/">31 Types of Ducks in Oregon (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/31-types-of-ducks-in-oregon-pictures-and-identification/>
+
+---
+
+## 8 Types of Hummingbirds in Ohio (Pictures and Identification)
+
+date: 2025-06-07, from: Yard Life blog
+
+<p>Hummingbirds in Ohio are among the most fascinating birds to observe, with their dazzling colors, lightning-fast movements, and remarkable hovering ... </p>
+<p class="read-more-container"><a title="8 Types of Hummingbirds in Ohio (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/8-types-of-hummingbirds-in-ohio-pictures-and-identification/#more-29684" aria-label="Read more about 8 Types of Hummingbirds in Ohio (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/8-types-of-hummingbirds-in-ohio-pictures-and-identification/">8 Types of Hummingbirds in Ohio (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/8-types-of-hummingbirds-in-ohio-pictures-and-identification/>
 
 ---
 
@@ -1424,201 +1599,4 @@ date: 2025-06-01, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/18-types-of-tarantulas-in-arizona-pictures-and-identification/>
-
----
-
-## Curating your yard’s weeds
-
-date: 2025-05-31, from: Greg Alder's blog, Yard Post
-
-<p>Twelve summers ago, we moved to this property and there were tumbleweeds growing across the bottom half. No, I said. I don’t accept having to walk through prickly tumbleweeds.&#160; I decided right then that I would figure out how to eliminate them. Because tumbleweeds propagate themselves by seed, the first thing I did that first [&#8230;]</p>
-<p>The post <a href="https://gregalder.com/yardposts/curating-your-yards-weeds/">Curating your yard&#8217;s weeds</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
- 
-
-<br> 
-
-<https://gregalder.com/yardposts/curating-your-yards-weeds/>
-
----
-
-## 15 of the Best Dwarf Lilacs for Your Landscape
-
-date: 2025-05-31, from: The Gardener's Path
-
-<p>With beautiful, scented flowers in rich colors, lilacs are a treat in the spring garden, but their size can make them unsuitable for smaller spaces. But you can find dwarf varieties that give you all the grace of standard lilacs but in a more compact form. Learn about 15 of the best dwarf lilac varieties in this guide.</p>
-<p>The post <a href="https://gardenerspath.com/plants/ornamentals/best-dwarf-lilacs/">15 of the Best Dwarf Lilacs for Your Landscape</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/ornamentals/best-dwarf-lilacs/>
-
----
-
-## How to Build a Successful Bee Garden, According to a Professional Beekeeper
-
-date: 2025-05-31, from: Sunset Magazine - Living in the West
-
-A professional beekeeper shares her tips for creating an apiary garden. This advice will get you a thriving bee garden in no time. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/garden-basics/how-to-build-a-bee-garden>
-
----
-
-## 25 Fresh Summer Meals You’ll Want to Make All June
-
-date: 2025-05-31, from: Sunset Magazine - Living in the West
-
-This June, we're sharing our favorite grilling recipes, fresh salad ideas, and sweet fruit desserts to make this summer. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/june-recipe-ideas-2025>
-
----
-
-## The Gear, the Books, and the Know-How to Finally Get into Foraging
-
-date: 2025-05-31, from: Sunset Magazine - Living in the West
-
-Viet Pham reconnects with his love of cooking outdoors on a new Hulu series that’s perfect for binge watching. He gives his tips for foraging and gifting. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/viet-pham-interview>
-
----
-
-## How to Grow Jasmine: Learn How to Care for Jasmine Plants
-
-date: 2025-05-31, from: The Gardener's Path
-
-<p>Beloved for its heady scent and dainty, pinwheel flowers, jasmine is best known as a tender perennial vine that makes an excellent climbing specimen in the summer garden. But it can also grow indoors and there are winter-flowering species as well. Learn how to grow jasmine in the garden in this guide. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-jasmine/">How to Grow Jasmine: Learn How to Care for Jasmine Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/flowers/grow-jasmine/>
-
----
-
-## 16 Types of Rattlesnakes in Arizona (Pictures and Identification)
-
-date: 2025-05-31, from: Yard Life blog
-
-<p>Arizona is home to a fascinating variety of rattlesnakes, making it one of the best places in the United States ... </p>
-<p class="read-more-container"><a title="16 Types of Rattlesnakes in Arizona (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/16-types-of-rattlesnakes-in-arizona-pictures-and-identification/#more-29168" aria-label="Read more about 16 Types of Rattlesnakes in Arizona (Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/16-types-of-rattlesnakes-in-arizona-pictures-and-identification/">16 Types of Rattlesnakes in Arizona (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/16-types-of-rattlesnakes-in-arizona-pictures-and-identification/>
-
----
-
-## Rose Plant Care and Growing Guide (Most Detailed)
-
-date: 2025-05-31, from: Yard Life blog
-
-<p>Roses have enchanted gardeners and flower enthusiasts for centuries with their beautiful blooms, captivating fragrance, and deep symbolism. These timeless ... </p>
-<p class="read-more-container"><a title="Rose Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/rose-plant-care-and-growing-guide-most-detailed/#more-29157" aria-label="Read more about Rose Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/rose-plant-care-and-growing-guide-most-detailed/">Rose Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/rose-plant-care-and-growing-guide-most-detailed/>
-
----
-
-## 30 Types of Bees in Arizona (With Pictures and Identification)
-
-date: 2025-05-31, from: Yard Life blog
-
-<p>Bees play a vital role in Arizona’s ecosystems, helping to pollinate a wide variety of native plants, wildflowers, and crops. ... </p>
-<p class="read-more-container"><a title="30 Types of Bees in Arizona (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/30-types-of-bees-in-arizona-with-pictures-and-identification/#more-29127" aria-label="Read more about 30 Types of Bees in Arizona (With Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/30-types-of-bees-in-arizona-with-pictures-and-identification/">30 Types of Bees in Arizona (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/30-types-of-bees-in-arizona-with-pictures-and-identification/>
-
----
-
-## What Are the Different Types of Petunia Plants?
-
-date: 2025-05-31, from: The Gardener's Path
-
-<p>Colorful and long-blooming petunias come in many types, with different growing habits and flowers of various sizes. Our guide explains 5 common categories of petunias, including one with oversize blooms, ground cover options, and self-cleaning varieties that don’t require any deadheading. Discover your favorites now.</p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/petunia-types/">What Are the Different Types of Petunia Plants?</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/flowers/petunia-types/>
-
----
-
-## 46 Arizona Spiders (Spiders in Arizona with Pictures, Identification)
-
-date: 2025-05-31, from: Yard Life blog
-
-<p>Arizona is home to a diverse range of spiders, with various species adapting to the state&#8217;s unique environments. From the ... </p>
-<p class="read-more-container"><a title="46 Arizona Spiders (Spiders in Arizona with Pictures, Identification)" class="read-more button" href="https://ownyardlife.com/46-arizona-spiders-spiders-in-arizona-with-pictures-identification/#more-19081" aria-label="Read more about 46 Arizona Spiders (Spiders in Arizona with Pictures, Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/46-arizona-spiders-spiders-in-arizona-with-pictures-identification/">46 Arizona Spiders (Spiders in Arizona with Pictures, Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/46-arizona-spiders-spiders-in-arizona-with-pictures-identification/>
-
----
-
-## 43 Snakes in Arizona with Pictures and Identification
-
-date: 2025-05-31, from: Yard Life blog
-
-<p>Arizona is renowned for its diverse snake population, making it one of the prime locations for snake enthusiasts and researchers ... </p>
-<p class="read-more-container"><a title="43 Snakes in Arizona with Pictures and Identification" class="read-more button" href="https://ownyardlife.com/43-snakes-in-arizona-with-pictures-and-identification/#more-15746" aria-label="Read more about 43 Snakes in Arizona with Pictures and Identification">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/43-snakes-in-arizona-with-pictures-and-identification/">43 Snakes in Arizona with Pictures and Identification</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/43-snakes-in-arizona-with-pictures-and-identification/>
-
----
-
-## 71 Lizards in Arizona (Pictures and Identification)
-
-date: 2025-05-31, from: Yard Life blog
-
-<p>Arizona is a haven for reptile enthusiasts, offering a diverse array of lizards that call its arid landscapes home. Among ... </p>
-<p class="read-more-container"><a title="71 Lizards in Arizona (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/71-lizards-in-arizona-pictures-and-identification/#more-14221" aria-label="Read more about 71 Lizards in Arizona (Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/71-lizards-in-arizona-pictures-and-identification/">71 Lizards in Arizona (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/71-lizards-in-arizona-pictures-and-identification/>
-
----
-
-## Black Eyed Susan Plant Care and Growing Guide (Most Detailed)
-
-date: 2025-05-31, from: Yard Life blog
-
-<p>Black Eyed Susan (Rudbeckia hirta) is a vibrant and hardy flowering plant celebrated for its bright yellow petals surrounding a ... </p>
-<p class="read-more-container"><a title="Black Eyed Susan Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/black-eyed-susan-plant-care-and-growing-guide-most-detailed/#more-29117" aria-label="Read more about Black Eyed Susan Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/black-eyed-susan-plant-care-and-growing-guide-most-detailed/">Black Eyed Susan Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/black-eyed-susan-plant-care-and-growing-guide-most-detailed/>
 

@@ -1,11 +1,23 @@
 ---
 title: food
-updated: 2025-06-07 14:10:26
+updated: 2025-06-08 06:07:35
 ---
 
 # food
 
-(date: 2025-06-07 14:10:26)
+(date: 2025-06-08 06:07:35)
+
+---
+
+## Coffee In The Morning, Coffee In The Evening, Coffee In Summertime
+
+date: 2025-06-08, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village. 
+
+<br> 
+
+<https://sprudge.com/coffee-in-the-morning-coffee-in-the-evening-coffee-in-summertime-344819.html>
 
 ---
 
@@ -1188,16 +1200,4 @@ date: 2025-06-01, from: Taste of Home
 <br> 
 
 <https://www.tasteofhome.com/article/light-bright-recipe-contest/>
-
----
-
-## Porch Swing Margarita
-
-date: 2025-05-31, from: Taste of Home
-
-With strong black tea, zesty lime, sweet peach schnapps and a shot of tequila, this porch swing margarita is practically built for sipping under string lights. 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/porch-swing-margarita/>
 

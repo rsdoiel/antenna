@@ -1,11 +1,173 @@
 ---
 title: socal north
-updated: 2025-06-07 14:10:17
+updated: 2025-06-08 06:07:27
 ---
 
 # socal north
 
-(date: 2025-06-07 14:10:17)
+(date: 2025-06-08 06:07:27)
+
+---
+
+## International students in the U.S.: Who they are, where they're from
+
+date: 2025-06-08, updated: 2025-06-08, from: The LAist
+
+The Trump administration continues to target foreign nationals looking to attend U.S. universities. Here's a closer look at who these students are, where they come from and what they study. 
+
+<br> 
+
+<https://laist.com/news/education/international-students-in-the-u-s-who-they-are-where-theyre-from>
+
+---
+
+## 'Would you like a plant with that?' How a Culver City vegan restaurant supports bees and butterflies
+
+date: 2025-06-08, updated: 2025-06-08, from: The LAist
+
+Hey, Sunshine Kitchen is offering a free pollinator plant every Monday to improve native habitats. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/would-you-like-a-plant-with-that-how-a-culver-city-vegan-restaurant-is-supporting-bees-and-butterflies>
+
+---
+
+## New Robert Vargas mural celebrating Altadena makes its debut
+
+date: 2025-06-07, updated: 2025-06-07, from: The LAist
+
+The mural at Fair Oaks Burger celebrates the city's perseverance through devastation. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/new-robert-vargas-mural-celebrating-altadena-debuts-today>
+
+---
+
+## As ICE agents enter LA communities, here's what the law says about civil rights — regardless of immigration status
+
+date: 2025-06-07, updated: 2025-06-07, from: The LAist
+
+Undocumented immigrants and mixed-status families are learning how to assert themselves — and prepare for worst-case scenarios. 
+
+<br> 
+
+<https://laist.com/news/politics/immigration-california-know-your-rights-ice-sweeps-los-angeles>
+
+---
+
+## ICE raids grow tense nationwide as protesters confront immigration agents
+
+date: 2025-06-07, updated: 2025-06-07, from: The LAist
+
+Bystanders and protesters have been confronting ICE agents as the Trump administration ramps up immigration enforcement. 
+
+<br> 
+
+<https://laist.com/news/ice-raids-grow-tense-as-protesters-confront-immigration-agents>
+
+---
+
+## As immigration raids expand, protesters clash with feds in Paramount; Trump to deploy National Guard
+
+date: 2025-06-07, from: Longbeach Post
+
+<figure><img width="1024" height="474" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-1024x474.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-1024x474.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-300x139.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-768x355.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-192x89.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-400x185.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Rep. Nanette Barragán, who represents the area in Congress, said ICE was now bringing “their terror tactics and masked agents” to Paramount.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/immigration-raids-paramount-home-depot">As immigration raids expand, protesters clash with feds in Paramount; Trump to deploy National Guard</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/immigration-raids-paramount-home-depot>
+
+---
+
+## LA mayor signs $13B city budget with fewer proposed layoffs, strikes deal on LAPD hirings
+
+date: 2025-06-07, updated: 2025-06-07, from: The LAist
+
+The plan includes more than 600 layoffs and cuts to city services. Bass said she's struck a deal with City Council members to restore LAPD hiring levels for next year. 
+
+<br> 
+
+<https://laist.com/news/politics/la-mayor-signs-13b-city-budget-that-includes-fewer-proposed-layoffs-strikes-deal-to-retain-lapd-hirings>
+
+---
+
+## Go, Gizmo! Both Big Bear eaglets fly away from nest
+
+date: 2025-06-07, updated: 2025-06-07, from: The LAist
+
+It’s a bittersweet moment for tens of thousands of fans who’ve watched the eagles grow through the YouTube livestream. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/go-gizmo-both-big-bear-eaglets-fly-away-from-nest>
+
+---
+
+## Los Angeles gets a new women's sports bar — Untamed Spirits in Silver Lake
+
+date: 2025-06-07, updated: 2025-06-07, from: The LAist
+
+Untamed Spirits in Silver Lake wants to be the go-to sports bar for local regulars and hardcore fans looking for a different vibe. It's the second women's sports bar to open in L.A. County in as many years. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/silverlake-los-angeles-womens-sports-bar-untamed-spirits>
+
+---
+
+## Federal judge orders LA to verify thousands of rental subsidies for unhoused people
+
+date: 2025-06-07, updated: 2025-06-07, from: The LAist
+
+The order came at the end of a days-long hearing to determine whether the city is meeting its legal obligations to provide more shelter for unhoused Angelenos. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/federal-judge-orders-la-to-verify-thousands-of-rental-subsidies-for-unhoused-people>
+
+---
+
+## Take a ride to Idyllwild, and maybe bring home a new furry friend
+
+date: 2025-06-07, updated: 2025-06-07, from: The LAist
+
+Living Free, near Idyllwild, is one of the oldest no-kill shelters in the nation. The 150-acre ranch in the San Jacinto Mountains is hosting a day of fun, music and adoptions today. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/idyllwild-adoption-no-skill-shelter>
+
+---
+
+## LA County’s bookmobiles started rolling in the 1940s. Now they’re electric
+
+date: 2025-06-07, updated: 2025-06-07, from: The LAist
+
+The newest electric bookmobile is rolling through eastern L.A. County, checking out books, Wi-Fi hot spots, laptops and more. 
+
+<br> 
+
+<https://laist.com/news/education/la-county-library-bookmobile-east-azusa-east-los-angeles-la-puente-hacienda-heights-pomona-rowland-heights>
+
+---
+
+## Planning Commission OKs self-storage site despite environmental objections
+
+date: 2025-06-07, from: Longbeach Post
+
+<figure><img width="1024" height="653" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-1024x653.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-1024x653.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-300x191.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-768x490.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-169x108.png 169w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-1536x979.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-2048x1306.png 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-1200x765.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-1568x1000.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-400x255.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-e1749306149887.png 1346w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Activists have long sought parkland on the parcel. The city contends this isn’t feasible.</p>
+<p>The post <a href="https://lbpost.com/news/business/development/planning-commission-oks-self-storage-site-despite-environmental-objections">Planning Commission OKs self-storage site despite environmental objections </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/development/planning-commission-oks-self-storage-site-despite-environmental-objections>
 
 ---
 
@@ -45,11 +207,11 @@ The risks of drones have been underscored by Russia's drone strikes in Ukraine, 
 
 ---
 
-## Federal agents conduct immigration raids across LA. Protesters and city officials respond
+## Federal agents conduct immigration raids across LA. Trump orders National Guard response
 
-date: 2025-06-06, updated: 2025-06-07, from: The LAist
+date: 2025-06-06, updated: 2025-06-08, from: The LAist
 
-Immigration and Customs Enforcement said about 44 people were arrested in the raids. 
+Gov. Gavin Newsom called the plan to take over deployment from the state "purposefully inflammatory" adding that it "will only escalate tensions." 
 
 <br> 
 
@@ -1471,145 +1633,4 @@ Patricia Krenwinkel has been recommended for parole for a second time since 1971
 <br> 
 
 <https://laist.com/news/la-history/manson-family-guide-where-they-are-now>
-
----
-
-## Man shot during argument in Belmont Shore, police say
-
-date: 2025-05-31, from: Longbeach Post
-
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>He was able to take himself to the hospital, and the woman who is believed to have shot him fled the scene, police said.</p>
-<p>The post <a href="https://lbpost.com/news/crime/man-shot-during-argument-in-belmont-shore-police-say">Man shot during argument in Belmont Shore, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/crime/man-shot-during-argument-in-belmont-shore-police-say>
-
----
-
-## New bike lanes, half a dozen crosswalks, 400 trees: The remade Artesia Boulevard is complete
-
-date: 2025-05-31, from: Longbeach Post
-
-<figure><img width="1024" height="593" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg-1024x593.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg-1024x593.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg-300x174.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg-768x445.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg-186x108.jpg 186w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg-400x232.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31120721/31may25-bike-7-217812-le1ncg79-241209-XMkRzPTg.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The roadway had been a “high-injury corridor” for pedestrians and bicyclists. A $44.2 million project just added a bevy of safety improvements.</p>
-<p>The post <a href="https://lbpost.com/news/city/artesia-boulevard-construction-complete-street-bike-lanes">New bike lanes, half a dozen crosswalks, 400 trees: The remade Artesia Boulevard is complete</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/city/artesia-boulevard-construction-complete-street-bike-lanes>
-
----
-
-## Efilism, the ideology behind the Palm Springs bombing, has been spread online for years
-
-date: 2025-05-31, from: Longbeach Post
-
-<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/31132340/bartkus-untitled-design-416020-ecrxnrk8-646835-8v9nIpTi.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The deceased suspect in the bombing of a Palm Springs fertility clinic on May 17 espoused an “anti-life” ideology called “efilism” that was invented by Gary Mosher, a 65-year-old New Jersey man who has spent years promoting his views in hundreds of YouTube videos. Guy Edward Bartkus, 25, who injured four bystanders and killed himself [&#8230;]</p>
-<p>The post <a href="https://lbpost.com/news/efilism-the-ideology-behind-the-palm-springs-bombing-has-been-spread-online-for-years">Efilism, the ideology behind the Palm Springs bombing, has been spread online for years</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/efilism-the-ideology-behind-the-palm-springs-bombing-has-been-spread-online-for-years>
-
----
-
-## Park officials survey damage to iconic Joshua trees amidst latest wildfire
-
-date: 2025-05-31, updated: 2025-05-31, from: The LAist
-
-The Eureka Fire broke out Friday near an area of the park that's been known as a "refuge" for the namesake plant. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/park-officials-survey-damage-to-iconic-joshua-trees>
-
----
-
-## An immigration raid at a San Diego restaurant leads to a chaotic scene
-
-date: 2025-05-31, updated: 2025-05-31, from: The LAist
-
-Videos show armed agents in tactical gear, a crowd of locals and what appear to be smoke devices deployed. 
-
-<br> 
-
-<https://laist.com/news/an-immigration-raid-at-a-san-diego-restaurant-leads-to-a-chaotic-scene>
-
----
-
-## Trump pardons drug kingpins even as he escalates U.S. drug war rhetoric
-
-date: 2025-05-31, updated: 2025-05-31, from: The LAist
-
-President Trump has promised to attack drug gangs and called for the death penalty for street dealers. But he has also pardoned more than 20 people serving time for serious drug crimes, some involving violence. 
-
-<br> 
-
-<https://laist.com/news/criminal-justice/trump-pardons-drug-kingpins-even-as-he-escalates-u-s-drug-war-rhetoric>
-
----
-
-## Trump's deals with law firms are like deals 'made with a gun to the head,' lawyers say
-
-date: 2025-05-31, updated: 2025-05-31, from: The LAist
-
-The White House said it's reached deals with nine law firms to provide about $1 billion in pro bono services. But the details of those agreements remain murky. 
-
-<br> 
-
-<https://laist.com/news/trumps-deals-with-law-firms-are-like-deals-made-with-a-gun-to-the-head-lawyers-say>
-
----
-
-## Evacuation warnings lifted in Riverside County as firefighters gain ground on Henderson Fire
-
-date: 2025-05-31, updated: 2025-06-01, from: The LAist
-
-The Henderson Fire in San Diego County began at around 5:45 p.m. on Friday. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/henderson-fire-san-diego-county-riverside>
-
----
-
-## Free pop-up vinyl shop helps January fire survivors find their groove
-
-date: 2025-05-31, updated: 2025-06-01, from: The LAist
-
-Lunch Club Projects, a music consultant firm in L.A., wanted to help record collectors who lost their music in the January fires. This weekend, it's launching a free pop-up shop at two locations for people to crate-dig and replenish their collections. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/pop-up-vinyl-club-helps-january-fire-survivors-find-their-groove>
-
----
-
-## LA hires big law firm — at $900,000 — in long-running court battle over homelessness spending
-
-date: 2025-05-31, updated: 2025-05-31, from: The LAist
-
-Gibson, Dunn and Crutcher has handled major cases around the country, including last year when the firm represented the city of Grants Pass, Oregon, in a landmark Supreme Court case. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/la-hires-big-law-firm-at-900-000-in-long-running-court-battle-over-homelessness-spending>
-
----
-
-## Outgoing LA homelessness chief says budget cuts jeopardize next year’s homeless count
-
-date: 2025-05-31, updated: 2025-05-31, from: The LAist
-
-Los Angeles Homeless Services Authority CEO says the embattled agency won’t have enough funding to carry out the 2026 count. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/los-angeles-homeless-services-authority-lahsa-va-lecia-adams-kellum-2026-homeless-count-budget-cuts>
 

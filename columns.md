@@ -1,11 +1,319 @@
 ---
 title: columns
-updated: 2025-06-07 14:10:20
+updated: 2025-06-08 06:07:30
 ---
 
 # columns
 
-(date: 2025-06-07 14:10:20)
+(date: 2025-06-08 06:07:30)
+
+---
+
+## ‘Somewhere’
+
+date: 2025-06-08, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/somewhere>
+
+---
+
+## Sunday thought
+
+date: 2025-06-08, from: Robert Reich's blog
+
+Time for non-violent civil disobedience 
+
+<br> 
+
+<https://robertreich.substack.com/p/a-time-for-non-violent-civil-disobedience>
+
+---
+
+## Juanita Garden Tour
+
+date: 2025-06-08, from: Tracy Durnell Blog
+
+I had a blast visiting five gardens around the Juanita neighborhood 😃 There were 12 gardens on the tour but I think you&#8217;d be hard-pressed to see them all! I started at 11 and was wiped by 2:30 so I didn&#8217;t push myself to squeeze in one more. Enjoyed talking with several of the homeowners [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/06/07/juanita-garden-tour/>
+
+---
+
+## June 7, 2025 
+
+date: 2025-06-08, from: Heather Cox Richardson blog
+
+In April, John Phelan, the U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-7-2025>
+
+---
+
+## Bill Atkinson Dies From Cancer at 74
+
+date: 2025-06-07, updated: 2025-06-08, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.facebook.com/story.php?story_fbid=10238073579963378&id=1378467145&_rdr>
+
+---
+
+## Swift 6 Productivity in the Sudden Age of LLM-Assisted Programming
+
+date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://mister.computer/@kyle/114608923901892223>
+
+---
+
+## Thomas Ptacek: ‘My AI Skeptic Friends Are All Nuts’
+
+date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://fly.io/blog/youre-all-nuts/?ueid=4b93173967d7dc762529a10418e85007>
+
+---
+
+## June 6, 2025
+
+date: 2025-06-07, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165428163/d6436601c0b220291f83b70f527a0282.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165428163/d6436601c0b220291f83b70f527a0282.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-6-2025-553>
+
+---
+
+## A Long Lost Never-Published DF Post From 2014
+
+date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/linked/2014/06/01/lefsetz>
+
+---
+
+## You Can Recharge Apple’s MagSafe Battery Pack Without a Lightning Cable
+
+date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/linked/2025/06/04/apple-iphone-air-battery-case-or-pack>
+
+---
+
+## Turns Out, Since 2023, You Can Use WhatsApp Across Multiple Phones
+
+date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://blog.whatsapp.com/one-whatsapp-account-now-across-multiple-phones>
+
+---
+
+##  Bernini’s Ratto di Proserpina 
+
+date: 2025-06-07, updated: 2025-06-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/berninis-ratto-di-proserpina>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-07, from: Dave Winer's Scripting News)
+
+I'm looking for bloggers who cover the community around the <a href="https://fediforum.org/">FediForum conference</a>. I want to add them to my blogroll, which does a pretty good job of keeping me current with developments. 
+
+<br> 
+
+<http://scripting.com/2025/06/07.html#a163739>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/01/26/cartoonChicken.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I was moved by this <a href="https://www.scientificamerican.com/article/inside-the-secret-meeting-where-mathematicians-struggled-to-outsmart-ai/">Scientific American piece</a> on mathematicians studying the limits of ChatGPT-like systems doing mathematics and basically not finding any. Mathematical proofs creative things, not algorithmic. That has not been my experience with ChatGPT and creating software. I find that when I want to talk about software I'm working on, it understands what I'm saying, but I've never had it come up with an original idea on its own. A human who captivated my attention as it does, and who I spent as much time with as I do with ChatGPT would have stimulated <i>some</i> original ideas by now. If I talk with a friend for even a few minutes there will be at least one <a href="https://daytona.scripting.com/search?q=aha">aha</a> moment. 
+
+<br> 
+
+<http://scripting.com/2025/06/07.html#a162715>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-07, from: Dave Winer's Scripting News)
+
+Stuff I've <a href="https://daytona.scripting.com/search?q=%22julia%20child%22">written</a> about Julia Child. Came up in a conversation about <a href="https://daytona.scripting.com/search?q=%22Jerry%20Garcia%22">Jerry Garcia</a> and bloggers before there was blogging. 
+
+<br> 
+
+<http://scripting.com/2025/06/07.html#a162415>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/07/02/validRss.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Why I <a href="http://scripting.com/2025/06/04.html#a153938">want</a> a new feed validator. I am doing new things with feeds. If I do a validator, it will tell you if a feed will work with what I'm doing. I want to boot up a new layer, build on RSS, the way that not all TCP messages are HTTP (analogously), and not all XML is RSS. The differences will be minimal, and backward compatible. <a href="http://scripting.com/rss.xml">Scripting News</a> will work very well with it, so there will be a solid example to crib from. 
+
+<br> 
+
+<http://scripting.com/2025/06/07.html#a145219>
+
+---
+
+## zpoweralertd: A poweralertd Drop-In Replacement Written in Zig
+
+date: 2025-06-07, from: mrusme blog
+
+`zpoweralertd` is a lightweight, drop-in replacement for `poweralertd`,
+written in Zig and designed to listen to _UPower_ events and send desktop
+notifications over _D-Bus_. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/zpoweralertd-a-poweralertd-drop-in-replacement-written-in-zig/>
+
+---
+
+## Saturday
+
+date: 2025-06-07, from: Doc Searls (at Harvard), New Old Blog
+
+Blogging will be light. Big Granfalloon day. Everything, just not all at once. Ted Gioia gives ten warning signs that the &#34;knowledge system&#34; is collapsing. I&#39;m in that system, as are all serious journalists and academics (I work in both worlds). So are all technologists. (I&#39;m kinda that too.) What will replace it? Don&#39;t be [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/06/07/saturday/>
+
+---
+
+## AI-free writing
+
+date: 2025-06-07, from: Anton Zhiyanov blog
+
+I never use AI-generated content in my writing, and I never will. 
+
+<br> 
+
+<https://antonz.org/ai-free/>
+
+---
+
+## Ultimate Fighting Championship | The Coffee Klatch for Saturday, June 7, 2025
+
+date: 2025-06-07, from: Robert Reich's blog
+
+With Michael Lahanas-Calder&#243;n and yours truly, Robert Reich 
+
+<br> 
+
+<https://robertreich.substack.com/p/ultimate-fighting-championship-the>
+
+---
+
+## June 6, 2025 
+
+date: 2025-06-07, from: Heather Cox Richardson blog
+
+Last night, billionaire Elon Musk indicated he would be willing to paper over his fight with President Donald J. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-6-2025>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-06-07, from: Ryan Gantz Bluesky feed)
+
+help us, Obi Wan Harambe 
+
+ur our only hope 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.com/post/3lqyh7lqfdc2g>
+
+---
+
+## I dream of roombas - thousands of automated AI robots that autonomously maintain codebases
+
+date: 2025-06-07, from: Geoffrey Hunntley's blog
+
+<p>Just yesterday morning, I was writing a conference talk on best practices for maintaining the LLM context window, which was quite detailed. It contained the then best practices from the two blog posts below.</p><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://ghuntley.com/gutter/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">autoregressive queens of failure</div><div class="kg-bookmark-description">Have you ever had your AI coding assistant suggest something so off-base</div></div></a></figure> 
+
+<br> 
+
+<https://ghuntley.com/ktlo/>
+
+---
+
+## Weeknotes: May 31 – June 6, 2025
+
+date: 2025-06-07, from: Tracy Durnell Blog
+
+Happy Pride Month! 🌈 Win of the week: finally! finished! this AI aesthetics blog post! it&#8217;s occupied basically all my blogging time for the past month, at last I can think about something else 😂 (who am I kidding, now I can turn the sections that got cut into their own posts lol) Looking forward [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/06/06/weeknotes-may-31-june-6-2025/>
+
+---
+
+## Markdown Support in Windows Notepad
+
+date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/news/677474/microsoft-windows-notepad-bold-italic-text-formatting-markdown-support?ueid=4b93173967d7dc762529a10418e85007>
+
+---
+
+## Take That CIRP Survey on Apple Customer Device Ownership With a Giant Grain of Salt
+
+date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/linked/2025/06/06/cirp-survey-ipad-popularity#update>
 
 ---
 
@@ -1716,194 +2024,4 @@ date: 2025-06-01, updated: 2025-06-01, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/05/0046963-teaser-trailer-for-wake-u>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-05-31, from: Dave Winer's Scripting News)
-
-<div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/05/31/aManWasLynchedYesterday.png"></center>"Well, we're all going to die."</div> 
-
-<br> 
-
-<http://scripting.com/2025/05/31.html#a204832>
-
----
-
-## Life in Links 63
-
-date: 2025-05-31, from: John's World Wide Wall Display
-
-<div><img width="620" height="233" src="https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-620x233.jpg" class="attachment-medium size-medium u-featured wp-post-image" alt="montage of six webpages listed in article" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-620x233.jpg 620w, https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-1024x384.jpg 1024w, https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-768x288.jpg 768w, https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-668x251.jpg 668w, https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200.jpg 1200w" sizes="(max-width: 620px) 100vw, 620px" data-attachment-id="20674" data-permalink="https://johnjohnston.info/blog/life-in-links-63/2025-05-31-links-montage-1200/" data-orig-file="https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200.jpg" data-orig-size="1200,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="2025-05-31-links-montage-1200" data-image-description="" data-image-caption="" data-medium-file="https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-620x233.jpg" data-large-file="https://johnjohnston.info/blog/wp-content/uploads/2025/05/2025-05-31-links-montage-1200-1024x384.jpg" /></div>Some links on various topics... 
-
-<br> 
-
-<https://johnjohnston.info/blog/life-in-links-63/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-05-31, from: Dave Winer's Scripting News)
-
-<div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/05/31/wereAllGoingToDie.png"></center>"Well, we're all going to die."</div> 
-
-<br> 
-
-<http://scripting.com/2025/05/31.html#a180039>
-
----
-
-## May 30, 2025
-
-date: 2025-05-31, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164885149/8295616d4cb747658438da876bfe07f7.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/164885149/8295616d4cb747658438da876bfe07f7.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/may-30-2025-bc8>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-05-31, from: Dave Winer's Scripting News)
-
-RSS never had a big corporation acting as a benefactor. Is that why imho RSS hasn't been considered as the backbone of the social web? Probably more likely it's the <a href="https://en.wikipedia.org/wiki/Fog_of_war">Fog Of War</a> nature of tech development. We have so many forks of so many things we don't know what anyone else is doing. It's easier to invent your own than figure out what the other thing did. Perhaps ChatGPT et al will change that. Yesterday I used it to get an understanding of how the <a href="https://github.com/scripting/Scripting-News/issues/320">content:encoded element</a> came to exist and evolved, and you'd think I of all people would know, but I didn't. ChatGPT <a href="https://chatgpt.com/share/6839d31f-9910-8012-b324-a0bb3c052f4f">did</a>. 
-
-<br> 
-
-<http://scripting.com/2025/05/31.html#a161921>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-05-31, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/30/goodhumortruck.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Why does Apple invent their own proprietary plugs when everyone else does USB? Even if you don't like to speak ill of Apple, you <i>know</i> why they do it. They want to control who can make add-ons to their products in hardware, just as they do in software. I still buy their products, but I also buy products that use standards, so I can use them on lots of devices. Now, the same thing happens in software from other people and companies. They can choose to use what already exists, or invent their own. Example, I chose MP3 for podcasting, did not invent a new format. If I were to do a social web network, I would use RSS, I wouldn't invent a new format. I want interop. I want to create an open platform, I don't mind making money, but that's not why I do it. 
-
-<br> 
-
-<http://scripting.com/2025/05/31.html#a155634>
-
----
-
-## 2025-05-30 Roses along the way
-
-date: 2025-05-31, from: Alex Schroeder's Blog
-
-<h1 id="2025-05-30-roses-along-the-way">2025-05-30 Roses along the way</h1>
-
-<p>I went <a href="2025-05-30-limmat">for a walk</a> and found a lot of rose-like flowers (and others). I want to illustrate the struggle with the Flora Incognita app because you can’t just take its output and “believe”. But in order to question the details one has to know them – and I usually do not, when it comes to flowers. So I’m left wondering.</p>
-
-<p>Rotblättrige Rose<br>
-Rosa glauca</p>
-
-<p><img loading="lazy" src="2025-05-30-roses-1.jpg" alt="a flower with five pink petals and leaves that have a reddish shine" /></p>
-
-<p>Büschel-Rose<br>
-Rosa multiflora</p>
-
-<p><img loading="lazy" src="2025-05-30-roses-2.jpg" alt="a white flower with five petals and yellow stamen" /></p>
-
-<p>Wein-Rose (Artengruppe)<br>
-Rosa rubiginosa agg.</p>
-
-<p><img loading="lazy" src="2025-05-30-roses-3.jpg" alt="a flower with five petals that are white at the center and pink further out, with yellow stamen" /></p>
-
-<p>Strangely, this one is supposed to be <em>Rosa glauca</em> again even though the colour is more light purple, there are more petals, the anther is darker and the leaves are greener. So confusing. 🫤</p>
-
-<p>Rotblättrige Rose<br>
-Rosa glauca</p>
-
-<p><img loading="lazy" src="2025-05-30-roses-4.jpg" alt="a light purple rose" /></p>
-
-<p>And this is another repeat. OK, why not. They look similar enough.</p>
-
-<p>Büschel-Rose<br>
-Rosa multiflora</p>
-
-<p><img loading="lazy" src="2025-05-30-roses-5.jpg" alt="another white flower with five petals" /></p>
-
-<p>Hunds-Rose<br>
-Rosa canina</p>
-
-<p><img loading="lazy" src="2025-05-30-roses-6.jpg" alt="a pale pink flower with yellow stamen" /></p>
-
-<p>Again!</p>
-
-<p>Büschel-Rose<br>
-Rosa multiflora</p>
-
-<p><img loading="lazy" src="2025-05-30-roses-7.jpg" alt="white flowers with five petals" /></p>
-
-<p>Brombeere<br>
-Rubus Rubus sect.</p>
-
-<p><img loading="lazy" src="2025-05-30-roses-8.jpg" alt="white flowers with five petals and long, dark stamen" /></p>
-
-<p><a class="tag" href="/search/?q=%23Plants">#Plants</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Flowers">#Flowers</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-05-30-roses>
-
----
-
-## 
-                Happy little modem noises
-            
-
-date: 2025-05-31, updated: 2025-05-31, from: Uninformative blog
-
- 
-
-<br> 
-
-<https://www.uninformativ.de/blog/postings/2025-05-31/0/POSTING-en.html>
-
----
-
-## Is Musk Gone for Good? | The Coffee Klatch for Saturday, May 31, 2025
-
-date: 2025-05-31, from: Robert Reich's blog
-
-With Heather Lofthouse and yours truly, Robert Reich 
-
-<br> 
-
-<https://robertreich.substack.com/p/is-musk-gone-for-good-the-coffee>
-
----
-
-## Small Online Communities
-
-date: 2025-05-31, from: John's World Wide Wall Display
-
-I&#8217;ve thought about joining in with the indieweb carnival a few times, but procrastinated. This months struck me, May 2025 IndieWeb Carnival: Small Web Communities &#8211; uncountable thoughts. I’d love to hear your experiences of them, why and how you participate and what you think are the key ingredients for a successful small web community. [&#8230;] 
-
-<br> 
-
-<https://johnjohnston.info/blog/small-online-communities/>
-
----
-
-## May 30, 2025 
-
-date: 2025-05-31, from: Heather Cox Richardson blog
-
-In July 2024, according to an article published today by Kirsten Grind and Megan Twohey in the New York Times, billionaire Elon Musk texted privately about his concerns that government investigations into his businesses would &#8220;take me down.&#8221; &#8220;I can&#8217;t be president,&#8221; he wrote, &#8220;but I can help Trump defeat Biden and I will.&#8221; 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/may-30-2025>
-
----
-
-## Weeknotes: May 24-30, 2025
-
-date: 2025-05-31, from: Tracy Durnell Blog
-
-Highlight of the week: took Monday off for Memorial Day and did a bonus walk with my friend at the state park Looking forward to: baking strawberry biscuits Stuff I did: 6 hours consulting 2.5 hours writing attended Galactic Homebrew Website Club big fridge cleanout 🦾 started our cat on thyroid medication &#8212; so far [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/05/30/weeknotes-may-24-30-2025/>
 

@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2025-06-07 14:10:21
+updated: 2025-06-08 06:07:31
 ---
 
 # games
 
-(date: 2025-06-07 14:10:21)
+(date: 2025-06-08 06:07:31)
+
+---
+
+## Dangerous Animals, a giddy slasher where the knife is a shark
+
+date: 2025-06-07, updated: 2025-06-07, from: Polygon Website
+
+Australian director Sean Byrne is one of horror’s premiere mixologists. His debut, 2009’s The Loved Ones, meshed teen romance with gruesome Hostel-style extremism. 2015’s The Devil’s Candy put a heavy metal spin on the haunted-house romp. His new film, Dangerous Animals, in theaters now, raises a question no one was asking about a classic B-movie [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/605214/dangerous-animals-shark-horror-film-review>
+
+---
+
+## How to rewind in Mario Kart World
+
+date: 2025-06-07, updated: 2025-06-07, from: Polygon Website
+
+Mario Kart World&#8216;s rewind feature is quietly one of the racing game&#8217;s most useful features for learning how its new tricks, jumps, and grinds work. The Nintendo Switch 2 launch game sets you loose to discover rewind on your own, though, with no tutorial or anything explaining how the tool works or when you might [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mario-kart-world-guides/605223/how-to-rewind-game-modes>
+
+---
+
+## How to unlock Rainbow Road in Mario Kart World
+
+date: 2025-06-07, updated: 2025-06-07, from: Polygon Website
+
+The tracks in Mario Kart Word are the real stars in the game and the shiniest one is the Rainbow Road track. The mesmerizingly colorful track is something out of this world — literally. Unlike all the other tracks in the game, Rainbow Road is a secret one, but luckily the path to find it [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mario-kart-world-guides/605187/unlock-rainbow-road-track-how-to-replay>
+
+---
+
+## How to unlock all outfits in Mario Kart World
+
+date: 2025-06-07, updated: 2025-06-07, from: Polygon Website
+
+Mario Kart World has dozens of unlockable outfits for its wide cast of characters. These outfits are technically classified as separate characters via the character select screen, but not every character gets outfits. Characters pulled from background environments like Pianta or Dolphin don’t get any outfits, sadly, so your dream of seeing Cow in a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mario-kart-world-guides/603767/outfits-unlock-requiremenets-list-all-how-to>
+
+---
+
+## Pokémon Go ‘Instrumental Wonders’ event guide
+
+date: 2025-06-07, updated: 2025-06-07, from: Polygon Website
+
+Pokémon Go is continuing its hype lead-up to the yearly Go Fest event with the “Instrumental Wonders” event that runs from June 7-11. This event encourages players to raid, with the main perk of this event being an extra 5,000 XP per finished raid. Just like the last event, there will be bonuses with Max [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/603204/instrumental-wonders-event-premium-timed-research-collection-challenge>
+
+---
+
+## You should watch dumb Jason Statham plane movies at home, too
+
+date: 2025-06-07, updated: 2025-06-07, from: Polygon Website
+
+As I see it, Hollywood currently has four stables of movie talent:&#160; As I headed to Los Angeles for Summer Game Fest on a cramped United Airlines flight, I went looking for a movie to stream. I scrolled through new-release options that didn’t fit the mood — a reviled sequel I skipped? A musical that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/recommendations/604276/a-working-man-amazon-prime-video-streaming>
 
 ---
 
@@ -1026,40 +1098,4 @@ After a tease in Netflix’s One Piece season 2 announcement way back in Septemb
 <br> 
 
 <https://www.polygon.com/tv/602744/one-piece-netflix-tony-tony-chopper-image-cast-actor>
-
----
-
-## How Bring Her Back’s most stomach-churning shot happened
-
-date: 2025-05-31, updated: 2025-05-30, from: Polygon Website
-
-There’s a scene in Bring Her Back, the latest A24 horror movie from Talk To Me writer-directors (and twin brothers) Danny and Michael Philippou, that’s so violently grotesque, I actually closed my eyes to shut it out. Trying to deny what was going on on the screen just made what was going on in the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/horror/602597/bring-her-back-goriest-scene-practical-effects-director-interview>
-
----
-
-## When making lots of small games is more sustainable than making one big one
-
-date: 2025-05-31, updated: 2025-05-30, from: Polygon Website
-
-If you play indie games, you may have noticed Strange Scaffold’s incredible hit rate. Every single one of the studio’s games — from  Clickolding, I Am Your Beast, and most recently, Teenage Mutant Ninja Turtles: Tactical Takedown — has ended up somewhere within the “Positive” ranking system on Steam (with several achieving “Very Positive” or [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/features/602124/strange-scaffold-xalavier-nelson-jr-interview>
-
----
-
-## The Last of Us season 2 failed Ellie in service of safe TV
-
-date: 2025-05-31, updated: 2025-05-30, from: Polygon Website
-
-Without interactivity, the Ellie Williams that players know from the Last of Us games was never going to be the same person as the character who appeared on a television screen on Sunday nights. But by the time season 2 of HBO’s The Last of Us reached its finale, it became evident that the TV [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/analysis/602646/last-of-us-season-2-ellie-tv-vs-games>
 

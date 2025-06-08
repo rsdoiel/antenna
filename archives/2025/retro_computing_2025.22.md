@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-06-07 14:10:24
+updated: 2025-06-08 06:07:33
 ---
 
 # retro computing
 
-(date: 2025-06-07 14:10:24)
+(date: 2025-06-08 06:07:33)
+
+---
+
+## RIP Bill Atkinson
+
+date: 2025-06-07, from: Old Ventage Computing Research
+
+As <a href="https://facebook.com/story.php?story_fbid=10238073579963378&id=1378467145">posted by his family</a> (Facebook link), Bill Atkinson passed away on June 5 from pancreatic cancer at the age of 74. The Macintosh would not have been the same without him (QuickDraw, MacPaint, HyperCard, and <a href="https://www.folklore.org/0-index.html">so much more</a>), nor would <a href="/2022/12/magic-cap-from-magic-link-to-datarover.html">Magic Cap</a> have been a thing. Rest in peace. 
+
+<br> 
+
+<https://oldvcr.blogspot.com/2025/06/rip-bill-atkinson.html>
 
 ---
 
@@ -18,6 +30,18 @@ A busy Saturday, More tools, The future of RISC OS.
 <br> 
 
 <https://heyrick.eu/blog/index.php?diary=20250606>
+
+---
+
+## The Last Adventures of Legend
+
+date: 2025-06-06, from: Digital Antiquarian
+
+The early days were the best. We had successes, we had fun, and we had a good business model. As the industry changed, everything became more complicated and harder. &#8212; Bob Bates This article tells part of the story of Legend Entertainment. The history of Legend Entertainment can be divided into three periods. When Bob [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2025/06/the-last-adventures-of-legend/>
 
 ---
 
@@ -535,7 +559,7 @@ But we have an alternative on the ANS ADB keyboard: the Command keys. The Comman
 <p>
 Lastly, I added some code to check the default or available visuals so that you can't (easily) run the wrong version in the wrong place and bumped the optimization level to <tt>-O3</tt>. And that's the game. Here's a video of it on the console, though I swapped in an LCD display so that the CRT flicker won't set you off. This is literally me pointing my Pixel 7 Pro camera at the screen.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz51H1g8fyachfTqwqIeIW-CSoUxB2Zv6ZYRHjcRtfxOxs7VQw0QuL8izSdjWJEypBDhoNlTzKebB6BAgqXQg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwduAlcRA5KO0xG4zTo4vnntaEpICepMSC9Rg6rT_4Jl7WpDC7vrihsJ1n0Y4SXFgs09opx8jB4q5xpBK50mg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 However, this port should run just fine on anything else running AIX 4.1, not just the ANS. Sooooo ... let's get out something else running AIX 4.1!
 
@@ -547,7 +571,7 @@ Here's an IBM RS/6000 Notebook 860, another <a href="2022/09/the-mips-thinkpad-k
 
 This machine is a good test because it also runs 4.1.5 (but IBM vanilla AIX this time) and its GT20-based LCD display supports exactly the same 8-bit colour visual at 1024x768, yet it's a 166MHz PowerPC 603e, slower and with weaker integer performance than the 200MHz 604e we were previously using, plus it only has half the L1 cache and just 256K of L2.
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dy2bzieB23q7b_atoiA0dfA6NM5v0_FeuiDkmYLPuPGmicnPsdB-1aAPLWgRFiHJtKjMauq3RADjw6FWybmNQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz0AUrD9k1leK3SO1ZJundoRw2TOSZXGUEQCIE14TCA6sxHqmR1Go-necfvDDrLE9AxeG94rTdrUj3i8WPKEw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 Despite that, though, the game runs credibly. (Sorry about the bad angles but the 860's LCD isn't as good as the one I had attached to the ANS.) The only thing that I did notice was that disabling key repeat didn't work for the left and right keys &mdash; if you hold them down, they turn, stop, and then turn slower &mdash; while other keys seem normal. There is no option to change this on a per-key basis in CDE (remember, no Xkb) and near as I can determine the ANS and the 860 are configured the same. There may be a difference in the X server which I'll have to figure out later. Our target system remains the Network Server but it's nice to see it running other places.
 <p>
