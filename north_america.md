@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-06-08 06:07:27
+updated: 2025-06-08 14:07:53
 ---
 
 # north america
 
-(date: 2025-06-08 06:07:27)
+(date: 2025-06-08 14:07:53)
+
+---
+
+## 156. Federalizing the California National Guard 
+
+date: 2025-06-08, from: The Contrarian
+
+President Trump's Saturday night "memorandum" federalizing 2000 California National Guard troops is a tentative step toward abusing authorities for domestic use of the military, but a dangerous one. 
+
+<br> 
+
+<https://contrarian.substack.com/p/156-federalizing-the-california-national>
+
+---
+
+##  LEVER WEEKLY: What’s In Your Pill Bottle? 
+
+date: 2025-06-08, from: The Lever News
+
+ The FDA’s been caught slacking, crypto wants to eat your savings, and more from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/lever-weekly-whats-in-your-pill-bottle/>
 
 ---
 

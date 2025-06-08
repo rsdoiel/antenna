@@ -1,11 +1,39 @@
 ---
 title: journalism
-updated: 2025-06-08 06:07:31
+updated: 2025-06-08 14:07:59
 ---
 
 # journalism
 
-(date: 2025-06-08 06:07:31)
+(date: 2025-06-08 14:07:59)
+
+---
+
+## Is it time ban cell phones in class? The Hart union school district’s new policy may do just that
+
+date: 2025-06-08, from: The Canyon News (COC Student Newspaper)
+
+<p>Cell phones have become a daily companion for students, but now, school&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/is-it-time-ban-cell-phones-in-class-the-hart-union-school-districts-new-policy-may-do-just-that/">Is it time ban cell phones in class? The Hart union school district&#8217;s new policy may do just that</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/is-it-time-ban-cell-phones-in-class-the-hart-union-school-districts-new-policy-may-do-just-that/>
+
+---
+
+## ASG President Amna Fadel Looks Ahead with Optimism and Vision for the Future
+
+date: 2025-06-08, from: The Canyon News (COC Student Newspaper)
+
+<p>A dedicated student leader, an aspiring corporate attorney, and now newly elected&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/amna-fadel/">ASG President Amna Fadel Looks Ahead with Optimism and Vision for the Future</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/amna-fadel/>
 
 ---
 

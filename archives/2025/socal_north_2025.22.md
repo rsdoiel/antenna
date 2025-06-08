@@ -1,11 +1,50 @@
 ---
 title: socal north
-updated: 2025-06-08 06:07:27
+updated: 2025-06-08 14:07:54
 ---
 
 # socal north
 
-(date: 2025-06-08 06:07:27)
+(date: 2025-06-08 14:07:54)
+
+---
+
+## 'Spectacle' or necessity? Behind Trump's deployment of National Guard despite California objections
+
+date: 2025-06-08, updated: 2025-06-08, from: The LAist
+
+Gov. Gavin Newsom and other leading California Democrats criticized President Donald Trump’s deployment of National Guard soldiers in Los Angeles, calling it an unnecessary provocation. 
+
+<br> 
+
+<https://laist.com/news/politics/behind-trumps-deployment-of-national-guard-despite-california-objections>
+
+---
+
+## How to watch the 2025 Tony Awards
+
+date: 2025-06-08, updated: 2025-06-08, from: The LAist
+
+The 78th annual Tony Awards are Sunday, June 8. Here's where to stream. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/how-to-watch-the-2025-tony-awards>
+
+---
+
+## Clashes with protesters continued overnight; governor, LA mayor say National Guard isn’t needed
+
+date: 2025-06-08, from: Longbeach Post
+
+<figure><img width="1024" height="506" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-1024x506.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-1024x506.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-300x148.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-768x380.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-192x95.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-400x198.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>After the flashpoint in Paramount, demonstrators also skirmished with police in Compton and downtown LA. Local authorities have it under control, according to Newsom and Bass.</p>
+<p>The post <a href="https://lbpost.com/news/clashes-with-protesters-continued-overnight-governor-la-mayor-say-national-guard-isnt-needed">Clashes with protesters continued overnight; governor, LA mayor say National Guard isn&#8217;t needed</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/clashes-with-protesters-continued-overnight-governor-la-mayor-say-national-guard-isnt-needed>
 
 ---
 
@@ -33,11 +72,11 @@ Hey, Sunshine Kitchen is offering a free pollinator plant every Monday to improv
 
 ---
 
-## New Robert Vargas mural celebrating Altadena makes its debut
+## As Altadena rise from the ashes, a new mural speaks to longing for home
 
-date: 2025-06-07, updated: 2025-06-07, from: The LAist
+date: 2025-06-07, updated: 2025-06-08, from: The LAist
 
-The mural at Fair Oaks Burger celebrates the city's perseverance through devastation. 
+Robert Vargas, known for his large-scale murals of Shohei Ohtani and Fernando Valenzuela, wanted to celebrate the resilience of the community devastated by the Eaton Fire. 
 
 <br> 
 
@@ -47,7 +86,7 @@ The mural at Fair Oaks Burger celebrates the city's perseverance through devasta
 
 ## As ICE agents enter LA communities, here's what the law says about civil rights — regardless of immigration status
 
-date: 2025-06-07, updated: 2025-06-07, from: The LAist
+date: 2025-06-07, updated: 2025-06-08, from: The LAist
 
 Undocumented immigrants and mixed-status families are learning how to assert themselves — and prepare for worst-case scenarios. 
 
@@ -73,7 +112,7 @@ Bystanders and protesters have been confronting ICE agents as the Trump administ
 
 date: 2025-06-07, from: Longbeach Post
 
-<figure><img width="1024" height="474" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-1024x474.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-1024x474.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-300x139.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-768x355.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-192x89.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-400x185.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="474" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-1024x474.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-1024x474.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-300x139.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-768x355.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-192x89.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-400x185.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Rep. Nanette Barragán, who represents the area in Congress, said ICE was now bringing “their terror tactics and masked agents” to Paramount.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/immigration-raids-paramount-home-depot">As immigration raids expand, protesters clash with feds in Paramount; Trump to deploy National Guard</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -207,11 +246,11 @@ The risks of drones have been underscored by Russia's drone strikes in Ukraine, 
 
 ---
 
-## Federal agents conduct immigration raids across LA. Trump orders National Guard response
+## Protests of immigration raids continue as National Guard arrives under Trump's orders
 
 date: 2025-06-06, updated: 2025-06-08, from: The LAist
 
-Gov. Gavin Newsom called the plan to take over deployment from the state "purposefully inflammatory" adding that it "will only escalate tensions." 
+A permitted protest is scheduled for this afternoon near L.A. City Hall. At least two other unpermitted protests are underway, including one near the downtown jail where protesters are clashing with law enforcement. 
 
 <br> 
 

@@ -1,11 +1,23 @@
 ---
 title: science and technology
-updated: 2025-06-08 06:07:29
+updated: 2025-06-08 14:07:56
 ---
 
 # science and technology
 
-(date: 2025-06-08 06:07:29)
+(date: 2025-06-08 14:07:56)
+
+---
+
+## Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs
+
+date: 2025-06-08, updated: 2025-06-08, from: The Register (UK I.T. News)
+
+<h4>Security, not model performance, is what&#39;s stalling adoption</h4> <p><strong>Interview</strong>  Before AI becomes commonplace in enterprises, corporate leaders have to commit to an ongoing security testing regime tuned to the nuances of AI models.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: going electric
-updated: 2025-06-08 06:07:34
+updated: 2025-06-08 14:08:02
 ---
 
 # going electric
 
-(date: 2025-06-08 06:07:34)
+(date: 2025-06-08 14:08:02)
+
+---
+
+## BYD Takes Dozens Of Influences To Court Claiming Defamation: Report
+
+date: 2025-06-08, from: Inside EVs News
+
+The company sued 37 influencers and put another 126 on a watch list for disseminating what it deems as damaging content. 
+
+<br> 
+
+<https://insideevs.com/news/761962/byd-takes-influencers-to-court/>
+
+---
+
+## This Is Michigan’s First Lamppost EV Charger
+
+date: 2025-06-08, from: Inside EVs News
+
+Voltpost claims its Level 2 charger is affordable and easy to install, taking just one hour from start to finish. 
+
+<br> 
+
+<https://insideevs.com/news/761931/voltpost-michigan-lamppost-charger/>
 
 ---
 

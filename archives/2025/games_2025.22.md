@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-06-08 06:07:31
+updated: 2025-06-08 14:07:58
 ---
 
 # games
 
-(date: 2025-06-08 06:07:31)
+(date: 2025-06-08 14:07:58)
+
+---
+
+## Ambrosia Sky is Metroid Prime meets PowerWash Simulator, which still may sell it short
+
+date: 2025-06-08, updated: 2025-06-08, from: Polygon Website
+
+It’s hard to describe a game by a team that’s setting out to do something different, but I’m going to do my best after playing a bit of the impressive Ambrosia Sky out of the 2025 Summer Game Fest. The upcoming sci-fi game from Soft Rains, a new studio made up for veteran devs who [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/605247/ambrosia-sky-soft-rains-game-reveal-sgf-2025>
+
+---
+
+## Game Maker’s Sketchbook 2025 winners have some stunners
+
+date: 2025-06-08, updated: 2025-06-08, from: Polygon Website
+
+Since 2021, the Academy of Interactive Arts &#38; Sciences has partnered with iam8bit and Fortyseven Communications to produce Game Maker’s Sketchbook, an annual competition celebrating the brightest artistic minds in the games industry. This year’s Game Maker’s Sketchbook winners have just been announced, including some pretty incredible works from games like Marvel Rivals, The Midnight Walk, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/605584/game-makers-sketchbook-2025-competition-award-winners>
+
+---
+
+## Activision reveals Call of Duty: Black Ops 7, with Raven and Treyarch at the helm
+
+date: 2025-06-08, updated: 2025-06-08, from: Polygon Website
+
+Xbox and Activision revealed Call of Duty: Black Ops 7 in a dramatic cinematic trailer during the Summer 2025 Xbox Games Showcase. Having two Black Ops games release consecutively is a first for the franchise, and Activision&#8217;s Treyarch and Raven studios teamed up to make it happen following 2024&#8217;s Black Ops 6. The Black Ops [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/605538/call-of-duty-black-ops-7-trailer-xbox-games-showcase>
+
+---
+
+## TMNT’s Michelangelo revealed as playable character in Tony Hawk’s Pro Skater 3 and 4
+
+date: 2025-06-08, updated: 2025-06-08, from: Polygon Website
+
+Tony Hawk&#8217;s Pro Skater 3 and 4 is going to need a lot of pizza, because Teenage Mutant Ninja Turtle, Michelangelo, is headed to the skate park. A new trailer, presented by Tony Hawk himself, was shown at the Xbox Games Showcase on Sunday, providing another peak at the revamped tricks, characters, and locales. In [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/605453/tony-hawk-pro-skater-3-4-tmnt-michaelangelo-guest-character>
+
+---
+
+## Keeper, new game from Psychonauts 2 devs, coming Oct. 17
+
+date: 2025-06-08, updated: 2025-06-08, from: Polygon Website
+
+Double Fine Productions’ Keeper was revealed Sunday at the Xbox Games Showcase and will launch Oct. 17 for Xbox Series X and Windows PC. It’ll also be available day one on Xbox Game Pass. In Keeper, you’ll play as a weathered lighthouse aged by time. It sprouts legs, and you and a bird companion will [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/604629/keeper-psychonauts-2-double-fine-10-17-2025>
+
+---
+
+## Every big announcement from Xbox Games Showcase 2025
+
+date: 2025-06-08, updated: 2025-06-08, from: Polygon Website
+
+Microsoft brought out some big guns at its annual Xbox Games Showcase on Sunday, revealing a new Xbox-branded handheld, an important update on Hollow Knight: Silksong, Double Fine’s new game Keeper, the long-rumored Persona 4 remake, and Call of Duty: Black Ops 7. There were also plenty of lower-key surprises, including the reveals of some [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/events/605299/xbox-games-showcase-2025-news-announcements-trailers>
+
+---
+
+## Invincible VS brings Robert Kirkman’s superheroes to a (very bloody) fighting game
+
+date: 2025-06-08, updated: 2025-06-08, from: Polygon Website
+
+Skybound Games revealed Invincible VS, an original 2D tag-fighting game, on Sunday at Microsoft’s Xbox Games Showcase. Invincible VS will bring together heroes and villains like Omni-Man, Invincible, Atom Eve, Thula, and Bulletproof for highly destructive, three-versus-three action when it’s released in 2026 on PlayStation 5, Windows PC, and Xbox Series X. And, yes, as [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/605253/invincible-vs-fighting-game-3v3>
+
+---
+
+## The Persona 4 remake is real — watch the first trailer
+
+date: 2025-06-08, updated: 2025-06-08, from: Polygon Website
+
+Atlus announced a full remake of its ever-popular role-playing game Persona 4 at Sunday’s Xbox Games Showcase. The new version of the role-playing game is officially named Persona 4 Revival and will be released on PlayStation 5, Windows PC, and Xbox Series X. Microsoft and Atlus did not reveal a release date for Persona 4 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/604558/persona-4-remake-revival-release-date-trailer>
+
+---
+
+## At Fate’s End, new game from Spiritfarer developers, revealed
+
+date: 2025-06-08, updated: 2025-06-08, from: Polygon Website
+
+Spiritfarer developer Thunder Lotus Games announced its next project during the Xbox Games Showcase Sunday, At Fate’s End. It’s an action-adventure game where you’ll fight family via emotional sword-fighting and dialogue duels. At Fate’s End is due out sometime in 2026 for Windows PC, PlayStation 5, Xbox Series X, and Game Pass. Notably, neither the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/604557/at-fates-end-new-game-spiritfarer-developers>
+
+---
+
+## Beast of Reincarnation coming from Pokémon dev Game Freak in 2026
+
+date: 2025-06-08, updated: 2025-06-08, from: Polygon Website
+
+Game Freak, best known for its work on Pokémon games, unveiled a new look and title for its upcoming project on Sunday during the Xbox Games Showcase. Beast of Reincarnation is headed to Xbox Series X, Windows PC, and PlayStation 5 sometime in 2026. Beast of Reincarnation has you playing as Emma the Sealer in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/605353/beast-of-reincarnation-pokemon-dev-game-freak-2026>
 
 ---
 

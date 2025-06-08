@@ -1,11 +1,37 @@
 ---
 title: food
-updated: 2025-06-08 06:07:35
+updated: 2025-06-08 14:08:03
 ---
 
 # food
 
-(date: 2025-06-08 06:07:35)
+(date: 2025-06-08 14:08:03)
+
+---
+
+## 19 Eggplant Recipes That Go Beyond Parm
+
+date: 2025-06-08, from: Bon Appetet
+
+Like bold eggplant bulgogi, silky ratatouille, aromatic biryani, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/recipes/slideshow/eggplant-recipes>
+
+---
+
+## Glen Powell’s Breakfast Hack Has Fans Divided
+
+date: 2025-06-08, from: Taste of Home
+
+<p>Glen Powell's hit movies and condiment line, Smash Kitchen, can't save him from criticism over his controversial breakfast hack.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/glen-powells-breakfast-sandwich/">Glen Powell’s Breakfast Hack Has Fans Divided</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/glen-powells-breakfast-sandwich/>
 
 ---
 
@@ -18,6 +44,22 @@ date: 2025-06-08, from: The Sprudge
 <br> 
 
 <https://sprudge.com/coffee-in-the-morning-coffee-in-the-evening-coffee-in-summertime-344819.html>
+
+---
+
+## Father’s Day Recipes
+
+date: 2025-06-07, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/06/Fathers-Day-Recipes.jpg"/></div>
+<p>Quick and easy recipes to make dads Father&#8217;s Day special! Father&#8217;s Day is next weekend and if you are still looking some some recipe ideas to make this the tastiest Father&#8217;s Day ever, I&#8217;ve got you covered! Whether you are making dad the perfect breakfast, brunch, dinner or dessert I am sure that he will...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/33-fathers-day-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/33-fathers-day-recipes/">Father&#8217;s Day Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/33-fathers-day-recipes/>
 
 ---
 

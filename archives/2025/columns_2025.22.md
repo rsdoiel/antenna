@@ -1,11 +1,103 @@
 ---
 title: columns
-updated: 2025-06-08 06:07:30
+updated: 2025-06-08 14:07:57
 ---
 
 # columns
 
-(date: 2025-06-08 06:07:30)
+(date: 2025-06-08 14:07:57)
+
+---
+
+## Gist of Go: Data races
+
+date: 2025-06-08, from: Anton Zhiyanov blog
+
+Two goroutines racing for the same data is a recipe for disaster. 
+
+<br> 
+
+<https://antonz.org/go-concurrency/data-races/>
+
+---
+
+## June 7, 2025
+
+date: 2025-06-08, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165478842/73870964a84499fcca47a638d65ebd6d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165478842/73870964a84499fcca47a638d65ebd6d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-7-2025-781>
+
+---
+
+## the printer that transcends dimensions and corrupts reality
+
+date: 2025-06-08, from: Geoffrey Hunntley's blog
+
+<blockquote>The IT department never questioned why the new printer arrived in a crate marked with eldritch symbols. They were just happy to finally have a replacement for the ancient LaserJet that had been serving the accounting floor since time immemorial.<br><br>Sarah from IT support was the first to notice something</blockquote> 
+
+<br> 
+
+<https://ghuntley.com/ideas/>
+
+---
+
+## ★ Gurman Says New UI Is Named ‘Liquid Glass’ (and Makes a Terrible Analogy Regarding Apple’s Risk With Falling Behind on AI)
+
+date: 2025-06-08, updated: 2025-06-08, from: Daring Fireball
+
+If it takes Apple as long to have its own competitive LLMs as it did to have its own competitive web browser, I suspect they’ll soon be paying to use the LLMs that are owned and controlled by others, not charging the others for the privilege of reaching Apple’s platform users. 
+
+<br> 
+
+<https://daringfireball.net/2025/06/gurman_liquid_glass_terrible_analogy>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-08, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/10/29/grandpaSimpson.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">With ChatGPT there's no excuse for a congressperson not validating every word in every bill. They could ask the bot to read the bill and call out any provisions that contradict your previous positions. It knows where you stand even if you've never written it down. I've found it can do that for my work. I'm sure it could do it for a legislator. Even better, news orgs could do that for them. Or validate a bill against their campaign platforms. "I promise never to touch Social Security" could be validated against pending legislation. The time delay part of this isn't an excuse any longer. 
+
+<br> 
+
+<http://scripting.com/2025/06/08.html#a160219>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-08, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/04/01/appleRunner.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">A <a href="https://bsky.app/profile/scripting.com/post/3lr42xhuyxk2w">thread</a> on Bluesky this morning about what we need to hear incumbent Dems say before they step aside as part of the future of the party. We can't be lead by Democrats who didn't do everything in their power the four years of the Biden presidency to shut the door on autocracy. They argued the niceties of filibusters, and letting the DoJ procrastinate on cleaning up the mess, as if everything had snapped back to normal. There was huge unfinished business. We never shut down the insurrection that started on January 6. Otherwise we will wait until the whole system falls down for the Democratic Party to reform probably around someone who comes from MuskLand. 
+
+<br> 
+
+<http://scripting.com/2025/06/08.html#a155008>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-08, from: Dave Winer's Scripting News)
+
+Experience managing developers makes me a better ChatGPT user. 
+
+<br> 
+
+<http://scripting.com/2025/06/08.html#a154907>
+
+---
+
+## Sunday
+
+date: 2025-06-08, from: Doc Searls (at Harvard), New Old Blog
+
+Chrome question. One of my windows, with dozens of open tabs, vanished. How does one re-materialze it? ChatGPT says, Press Cmd + Y (Mac) or Ctrl + H (Windows) to open History. Look for a group entry like: “[Number] tabs – [Time]” under “Recently closed” or “Tabs from other devices.” Click it — the entire [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/06/08/sunday/>
 
 ---
 
@@ -109,7 +201,7 @@ date: 2025-06-07, from: Heather Cox Richardson blog
 
 ## A Long Lost Never-Published DF Post From 2014
 
-date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
+date: 2025-06-07, updated: 2025-06-08, from: Daring Fireball
 
  
 
@@ -133,7 +225,7 @@ date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
 
 ## Turns Out, Since 2023, You Can Use WhatsApp Across Multiple Phones
 
-date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
+date: 2025-06-07, updated: 2025-06-08, from: Daring Fireball
 
  
 

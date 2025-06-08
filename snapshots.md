@@ -1,11 +1,79 @@
 ---
 title: snapshots
-updated: 2025-06-08 06:07:36
+updated: 2025-06-08 14:08:05
 ---
 
 # snapshots
 
-(date: 2025-06-08 06:07:36)
+(date: 2025-06-08 14:08:05)
+
+---
+
+## History Repeats
+
+date: 2025-06-08, from: furbo.org
+
+I&#8217;ve been developing on Apple products for a long time: typing PEEK and POKE code from magazines into an Apple ][, figuring out how QuickDraw worked using the Inside Macintosh pre-prints, having my mind blown by Mac OS X and every new thing prefixed with &#8220;NS&#8221;, and then jailbreaking the first iPhone so I could [&#8230;] 
+
+<br> 
+
+<https://furbo.org/2025/06/08/history-repeats/>
+
+---
+
+## Microsoft and Asus introduce ROG Xbox Ally and ROG Xbox Ally X
+
+date: 2025-06-08, from: Liliputing
+
+<p>The first Xbox-branded handhelds are on the way and, as expected, they&#8217;re not made by Microsoft&#8230; or at least the hardware isn&#8217;t. Instead Microsoft is partnering with Asus to launch a new ROG Xbox Ally and ROG Xbox Ally X. While the names sort of make it sound like these are just Xbox-branded versions of existing handhelds [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/microsoft-and-asus-introduces-rog-xbox-ally-and-rog-xbox-ally-x/">Microsoft and Asus introduce ROG Xbox Ally and ROG Xbox Ally X</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/microsoft-and-asus-introduces-rog-xbox-ally-and-rog-xbox-ally-x/>
+
+---
+
+## the printer that transcends dimensions and corrupts reality
+
+date: 2025-06-08, from: Geoffrey Hunntley's blog
+
+<blockquote>The IT department never questioned why the new printer arrived in a crate marked with eldritch symbols. They were just happy to finally have a replacement for the ancient LaserJet that had been serving the accounting floor since time immemorial.<br><br>Sarah from IT support was the first to notice something</blockquote> 
+
+<br> 
+
+<https://ghuntley.com/ideas/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-08, from: Dave Winer's linkblog)
+
+Frum: Trump’s Ominous Military Flex in Los Angeles. 
+
+<br> 
+
+<https://www.theatlantic.com/ideas/archive/2025/06/los-angeles-dress-rehearsal-trump/683078/?gift=f35zZN0v_gDFE8xNwlQAHZNcUaLyQwviR7MpDS_VRpc&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-08, from: Dave Winer's linkblog)
+
+These resources from On Tyranny are free of charge and available for anyone to use and download. 
+
+<br> 
+
+<https://timothysnyder.org/resources/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-08, from: Dave Winer's linkblog)
+
+Apparently the security system at the White House depends on all internet traffic going through their routers. The DOGE dudes got around that by installing Starlink, and they move stuff in and out without being detected. 
+
+<br> 
+
+<https://www.thedailybeast.com/elon-musks-doge-goons-surreptitiously-transmitted-reams-of-white-house-data/>
 
 ---
 

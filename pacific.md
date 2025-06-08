@@ -1,11 +1,120 @@
 ---
 title: pacific
-updated: 2025-06-08 06:07:28
+updated: 2025-06-08 14:07:55
 ---
 
 # pacific
 
-(date: 2025-06-08 06:07:28)
+(date: 2025-06-08 14:07:55)
+
+---
+
+## The race for dominance: Guam and Micronesia caught in shifting balance of power
+
+date: 2025-06-08, from: Pacific Island Times
+
+“It’s not 100-percent clear what the president wants to do in terms of the ‘China challenge,’ but it is clear that his administration wants to focus on the Indo-Pacific,” he said, citing Defense Secretary Pete Hegseth’s recent statement about homeland defense and the Indo-Pacific being the U.S. government’s top priority. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-race-for-dominance-guam-and-micronesia-caught-in-shifting-balance-of-power>
+
+---
+
+## New humpback whale film reveals epic journey, urgent science
+
+date: 2025-06-08, from: University of Hawaiʻi News
+
+<p>A powerful new film captures the incredible journey of humpback whales and the <abbr>UH</abbr> scientists working to protect them.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/08/humpback-whale-film-mmrp/">New humpback whale film reveals epic journey, urgent science</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/08/humpback-whale-film-mmrp/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-06-08, updated: 2025-06-08, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Poetry
+
+date: 2025-06-08, updated: 2025-06-08, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_c2a8101c-a545-445c-8a04-68142a3e29af.html>
+
+---
+
+## Weather heads-up
+
+date: 2025-06-08, updated: 2025-06-08, from: Marianas Variety
+
+Friday evening’s stormy clouds seen off Garapan Fishing Base suggests more wet weather ahead. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/weather-heads-up/article_decfecad-10e3-4934-9719-762bfdb65dc0.html>
+
+---
+
+## London's Knight Club brings chess and chatter to a new generation
+
+date: 2025-06-08, updated: 2025-06-08, from: Marianas Variety
+
+LONDON (Reuters) — Combining dance music, some social media buzz and one of the world's oldest pastimes, London chess group Knight Club draws dozens of players each week, creating a social space its organizers say is much-needed by the city's younger generations. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/londons-knight-club-brings-chess-and-chatter-to-a-new-generation/article_fb78fa61-8677-4994-82d1-83d0491166fb.html>
+
+---
+
+## MTEC, MVA wrap up school visits with KHS
+
+date: 2025-06-08, updated: 2025-06-08, from: Marianas Variety
+
+(MVA) — The Marianas Tourism Education Council and Marianas Visitors Authority wrapped up their school presentations this school year with a visit to Kagman High School on Wednesday, June 4. In total, the education team has visited all 21 public schools on Saipan, Tinian, and Rota, highlighting The Marianas’ primary economic driver, tourism. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/mtec-mva-wrap-up-school-visits-with-khs/article_7a9c4c8b-6dc2-4a1e-9840-dfb27ad69fba.html>
+
+---
+
+## Bridge Capital donates $1K to 79th Liberation Day Celebration
+
+date: 2025-06-08, updated: 2025-06-08, from: Marianas Variety
+
+EMPHASIZING its continuous commitment to the CNMI community, Bridge Capital LLC donated $1,000 to the Liberation Day Committee for the upcoming 79th Liberation Day celebrations slated for June 12 to July 6, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/bridge-capital-donates-1k-to-79th-liberation-day-celebration/article_18776989-b485-4778-a45a-a8d03ab7de17.html>
+
+---
+
+## Trump says China's Xi agreed to let rare earth minerals flow to US
+
+date: 2025-06-08, updated: 2025-06-08, from: Marianas Variety
+
+WASHINGTON (Reuters) — President Donald Trump said on Friday that Chinese President Xi Jinping agreed to let rare earth minerals and magnets flow to the United States, a move that could lower tensions between the world's biggest economies. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/trump-says-chinas-xi-agreed-to-let-rare-earth-minerals-flow-to-us/article_834617d3-ba56-4fa8-82c7-0685c11dce92.html>
 
 ---
 
@@ -1619,30 +1728,6 @@ The post <a href="https://www.hawaii.edu/news/2025/06/04/fletcher-selected-soest
 <br> 
 
 <https://www.hawaii.edu/news/2025/06/04/fletcher-selected-soest-dean/>
-
----
-
-## Variety editor’s 4th book available at Joeten Susupe
-
-date: 2025-06-04, updated: 2025-06-04, from: Marianas Variety
-
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
-
----
-
-## Poetry
-
-date: 2025-06-04, updated: 2025-06-04, from: Marianas Variety
-
- 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/poetry/article_c2a8101c-a545-445c-8a04-68142a3e29af.html>
 
 ---
 
