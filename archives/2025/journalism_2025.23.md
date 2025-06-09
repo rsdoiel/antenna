@@ -1,11 +1,39 @@
 ---
 title: journalism
-updated: 2025-06-09 06:08:35
+updated: 2025-06-09 14:07:39
 ---
 
 # journalism
 
-(date: 2025-06-09 06:08:35)
+(date: 2025-06-09 14:07:39)
+
+---
+
+## Hundreds gathered at Eternal Valley to celebrate Memorial Day
+
+date: 2025-06-09, from: The Canyon News (COC Student Newspaper)
+
+<p>Every year, millions of Americans pay their respects to U.S. troops across&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/memorial-day/">Hundreds gathered at Eternal Valley to celebrate Memorial Day</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/memorial-day/>
+
+---
+
+## Santa Clarita hits the road with new mobile library service
+
+date: 2025-06-09, from: The Canyon News (COC Student Newspaper)
+
+<p>With the significant growth of digital usage across the country, libraries are&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/mobile-library/">Santa Clarita hits the road with new mobile library service</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/mobile-library/>
 
 ---
 

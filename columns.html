@@ -28,12 +28,491 @@
 Items collected from feeds in <a href="columns.txt">columns.txt</a>
 </div>
 <h1 id="columns">columns</h1>
-<p>(date: 2025-06-09 06:08:33)</p>
+<p>(date: 2025-06-09 14:07:37)</p>
+<hr />
+<h2 id="alt-text-on-this-blog">2025-05-27 Alt text on this blog</h2>
+<p>date: 2025-06-09, from: Alex Schroeder’s Blog</p>
+<h1 id="2025-05-27-alt-text-on-this-blog">
+2025-05-27 Alt text on this blog
+</h1>
+<p>
+On the web, the alt text is a description of an image to be shown by
+browsers when the image cannot be shown – like text browsers or screen
+readers. So what about alt text on this blog? What about blog posts full
+of photos, specifically? Like the <a href="Croatia">Croatia</a> posts.
+</p>
+<p>
+I think that alt text should be unnecessary on my blog because the text
+should carry the entire message. “Welcome to my
+<a href="Wall_of_Text">Wall of Text</a>!” 😄
+</p>
+<p>
+On fedi, I like alt text and I both read and write it. I hate clients
+that don’t display it. I want to always read it. Therefore, on my blog,
+the equivalent of alt text should always be readable. But real alt text
+isn’t shown to me – the browser is showing me the pictures, instead. It
+makes sense. And on fedi it only works because the applications and
+front-ends don’t just use the alt text attribute for images in HTML –
+they have an extra user-interface to allow me to read it. Buttons,
+mouse-over, long-press, whatever it takes.
+</p>
+<p>
+There are options for this blog, of course. Except I don’t like these
+options.
+</p>
+<p>
+I could reuse the alt text as the image title attribute which is shown
+on mouse-over by default. I don’t like being forced to use mouse and I
+don’t like duplicating the description.
+</p>
+<p>
+In Markdown:
+</p>
+<pre><code>![alt text](url &quot;title&quot;)
+</code></pre>
+<p>
+I could automatically use the alt text as the title attribute but I
+still don’t like to use the mouse to read the title attribute and I
+wouldn’t be able to switch Markdown rendering engines as easily if I
+hack it. Writing some Javascript to produce extra pop-ups or some other
+user-interface element would be even worse, and it would need extra
+clicking or keyboard navigation as a reader. No way.
+</p>
+<p>
+The last option is the best. Just write the description above the image:
+</p>
+<pre><code>Description
+
+![](url)
+</code></pre>
+<p>
+I’ve tried using the title attribute for some of my recent picture-heavy
+blog posts about Croatia and I’ve been checking the result using Gemini
+and Gopher, and I’m not happy.
+</p>
+<p>
+Compare the following two with the
+<a href="https://alexschroeder.ch/view/2025-05-17-%C5%A1ibenik">web</a>
+version where I can’t read the alt text. (Screenshots from
+<a href="https://gmi.skyjake.fi/lagrange/">Lagrange</a> on my phone.)
+</p>
+<p>
+The <a href="gemini://alexschroeder.ch/2025-05-17-šibenik">Gemini</a>
+version looks OK with some text paragraphs being links to the images.
+</p>
+<p>
+<img loading="lazy" src="2025-05-27-alt-text-1.jpg" alt="" />
+</p>
+<p>
+The <a href="gopher://alexschroeder.ch/02025-05-17-šibenik">Gopher</a>
+version shows the alt texts as weird disjointed text paragraphs that
+sometimes repeat the preceding paragraph and sometimes don’t.
+</p>
+<p>
+<img loading="lazy" src="2025-05-27-alt-text-2.jpg" alt="" />
+</p>
+<p>
+I guess I could write longer alt texts until the Gopher version looks
+good but then the Gemini version looks weird and the web version
+continues to not show it.
+</p>
+<p>
+Now check the Gemini and Gopher output for the page you’re reading right
+now!
+</p>
+<p>
+The <a href="gopher://alexschroeder.ch/02025-05-27-alt-text">Gopher</a>
+version is OK. The line-breaks don’t look nice on the phone at the
+default resolution so ignore that weird line-break. What we can see is
+that the empty alt text generated an empty paragraph. Something I should
+fix. 😅 But in general, it looks OK and reads well.
+</p>
+<p>
+<img loading="lazy" src="2025-05-27-alt-text-3.jpg" alt="" />
+</p>
+<p>
+The <a href="gemini://alexschroeder.ch/2025-05-27-alt-text">Gemini</a>
+version still looks OK. It also links to the Gopher and Gemini versions,
+so ignore those extra links. 😅 The browser substitutes the filenames
+for the missing alt text. That works for me. I’m not sure what a screen
+reader would do. Probably say: “Image. 2025-05-27-alt-text-3.jpg”? And
+I’m not sure what a person with bad sight would prefer. At this point
+I’d know that I can skip the image since I have already read the
+description above.
+</p>
+<p>
+<img loading="lazy" src="2025-05-27-alt-text-4.jpg" alt="" />
+</p>
+<p>
+And here’s the same passage a day later, using the text browser
+<code>lynx</code>. The inline links look good, and there’s no trace of
+the screenshots. This is great! It’s as readable as the Gopher version
+with no extra line-breaks, and the inline links are inline (unlike in
+the Gemini version).
+</p>
+<p>
+<img loading="lazy" src="2025-05-27-alt-text-5.jpg" alt="" />
+</p>
+<p>
+Checking with <code>edbrowse</code>. The inline links are wrapped in
+bracers, which looks good, and the images with no alt text are shown as
+empty square brackets (<code>[]</code>) which works for me. Ideally, I
+guess, they’d just disappear.
+</p>
+<p>
+<img loading="lazy" src="2025-05-27-alt-text-6.jpg" alt="" />
+</p>
+<p>
+All in all, I think this solution is better: Instead of alt text, just
+write more text above each image.
+</p>
+<p>
+What I’m less sure about is whether this automatically implies that all
+images are “decorative” and therefore should have an empty alt text
+(instead of no alt text). It seems to me that the filename being shown
+is a lot of visual clutter, but that only seems to affect Gemini, not
+the text browser.
+</p>
+<p>
+What do you think?
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Web">#Web</a>
+<a class="tag" href="/search/?q=%23Gemini">#Gemini</a>
+<a class="tag" href="/search/?q=%23Gopher">#Gopher</a>
+<a class="tag" href="/search/?q=%23Markdown">#Markdown</a>
+</p>
+<p>
+<strong>2025-05-29</strong>. I fixed that minor issue in
+<a href="https://src.alexschroeder.ch/markdown-gopher.git/">markdown-gopher</a>
+so that it skips paragraphs containing just images with no alt text. 😄
+</p>
+<p>
+<strong>2025-05-31</strong>. I added a piece of Javascript to copy the
+alt text to the title attribute if the alt text is set and the title is
+not. Perhaps that’ll motivate me to add more alt text.
+</p>
+<p>
+This is what I added to my <code>view.html</code> template for
+<a href="Odd%CE%BC">Oddμ</a>:
+</p>
+<pre><code>&lt;script type=&quot;text/javascript&quot;&gt;
+function addTitle() {
+  const images = document.getElementsByTagName(&quot;img&quot;);
+  for (let img of images) {
+    const alt = img.getAttribute(&quot;alt&quot;);
+    const title = img.getAttribute(&quot;title&quot;);
+    if (alt != null &amp;&amp; title == null) {
+      img.setAttribute(&quot;title&quot;, alt);
+    }
+  }
+}
+window.addEventListener('load', addTitle);
+&lt;/script&gt;
+</code></pre>
+<p>
+<strong>2025-06-09</strong>. Tweaked the JavaScript. I’m now replacing
+the <code>img</code> element with a <code>figure</code> element, moving
+the <code>img</code> element into the <code>figure</code> and adding a
+<code>figcaption</code> element. The caption is rendered smaller and
+italic via CSS.
+</p>
+<p>
+<img loading="lazy" src="2025-05-27-alt-text-7.jpg" alt="Example" />
+</p>
+<p>
+Code:
+</p>
+<pre><code>function addTitle() {
+  const images = document.getElementsByTagName(&quot;img&quot;);
+  for (let img of images) {
+    const parent = img.parentNode;
+    const figure = document.createElement(&quot;figure&quot;);
+    const figCaption = document.createElement(&quot;figcaption&quot;);
+    parent.replaceChild(figure, img);
+    figure.append(img);
+    figure.append(figCaption);
+    const alt = img.getAttribute(&quot;alt&quot;);
+    const title = img.getAttribute(&quot;title&quot;);
+    figCaption.textContent = alt;
+    if (alt != null &amp;&amp; title == null) {
+      img.setAttribute(&quot;title&quot;, alt);
+    }
+  }
+}
+window.addEventListener('load', addTitle);
+</code></pre>
+<p><br></p>
+<p><a href="https://alexschroeder.ch/view/2025-05-27-alt-text"
+class="uri">https://alexschroeder.ch/view/2025-05-27-alt-text</a></p>
+<hr />
+<h2 id="last-day-in-croatia">2025-05-24 Last day in Croatia</h2>
+<p>date: 2025-06-09, from: Alex Schroeder’s Blog</p>
+<h1 id="2025-05-24-last-day-in-croatia">
+2025-05-24 Last day in Croatia
+</h1>
+<p>
+We went for a bath and a walk and then that was it. Bye-bye Croatia.
+</p>
+<p>
+The most dangerous thing we had encountered surely was Donat water,
+available in supermarkets everywhere, with 1000 mg of magnesium per
+litre. Liquefies bowels! 😵‍💫
+</p>
+<p>
+Claudia eating breakfast.
+</p>
+<p>
+<img loading="lazy" src="2025-05-24-home-1.jpg" alt="Claudia" />
+</p>
+<p>
+Me, having eaten breakfast.
+</p>
+<p>
+<img loading="lazy" src="2025-05-24-home-2.jpg" alt="Alex" />
+</p>
+<p>
+A carpenter bee, eating breakfast.
+</p>
+<p>
+Campanula versicolor
+</p>
+<p>
+<img loading="lazy" src="2025-05-24-home-3.jpg" alt="A black bee in a flower" />
+</p>
+<p>
+Kahle Drillingsblume<br> Bougainvillea glabra
+</p>
+<p>
+<img loading="lazy" src="2025-05-24-home-4.jpg" alt="lots of pink flowers" />
+</p>
+<p>
+Ferns growing from rock walls.
+</p>
+<p>
+Frauenhaar<br> Adiantum capillus-veneris
+</p>
+<p>
+<img loading="lazy" src="2025-05-24-home-5.jpg" alt="a leafy plant growing from a stone wall" />
+</p>
+<p>
+Claudia swimming in Lapad bay.
+</p>
+<p>
+<img loading="lazy" src="2025-05-24-home-6.jpg" alt="Claudia in the water, raising her hands" />
+</p>
+<p>
+Me, finally throwing myself into the cold water. Notice that all
+swimming happens at the bottom of some rocky cliffs. There is no beach.
+</p>
+<p>
+<img loading="lazy" src="2025-05-24-home-7.jpg" alt="me, diving head-first into the water" />
+</p>
+<p>
+Afrikanische Schmucklilie<br> Agapanthus africanus
+</p>
+<p>
+<img loading="lazy" src="2025-05-24-home-8.jpg" alt="a flower with the ocean in the background" />
+</p>
+<p>
+Milzfarn<br> Asplenium ceterach
+</p>
+<p>
+<img loading="lazy" src="2025-05-24-home-9.jpg" alt="fern growing from a stone wall" />
+</p>
+<p>
+Westlicher Erdbeerbaum<br> Arbutus unedo
+</p>
+<p>
+<img loading="lazy" src="2025-05-24-home-10.jpg" alt="small, round fruit-like things growing on a tree" />
+</p>
+<p>
+And we saw more snakes! In total, we must have seen around six snakes in
+two weeks. 😍
+</p>
+<p>
+I suspect most of the snakes we saw were Aesculapian snakes.
+</p>
+<p>
+Äskulapnatter<br> Zamenis longissimus
+</p>
+<p>
+<img loading="lazy" src="2025-05-24-home-11.jpg" alt="a snake on the path" />
+</p>
+<p>
+Mastixstrauch<br> Pistacia lentiscus
+</p>
+<p>
+<img loading="lazy" src="2025-05-24-home-13.jpg" alt="big white flowers" />
+</p>
+<p>
+On the way back we saw the bridge to Dubrovnik and the new harbour for
+all the luxury boats.
+</p>
+<p>
+<img loading="lazy" src="2025-05-24-home-12.jpg" alt="a huge bridge and below it, a huge luxury boat" />
+</p>
+<p>
+So big. Soo big. 😔
+</p>
+<p>
+<img loading="lazy" src="2025-05-24-home-14.jpg" alt="an even bigger boat" />
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Croatia">#Croatia</a>
+<a class="tag" href="/search/?q=%23Pictures">#Pictures</a>
+</p>
+<p><br></p>
+<p><a href="https://alexschroeder.ch/view/2025-05-24-home"
+class="uri">https://alexschroeder.ch/view/2025-05-24-home</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2025-06-09, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2020/08/01/picklesAplenty.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I
+use ChatGPT for all kinds of work problems, and for a lot of other stuff
+too. It can collaborate, and it has much more broad and deep knowledge
+than I do, than any human. No one knows whether it thinks or is
+self-aware, any more than we know whether humans think or are
+self-aware. For that reason, I think, ironically, there’s no point
+discussing it, we’ll never get an answer, because we have no idea what
+intelligence or thinking is. But it is every bit as thoughtful as any
+human I have ever worked with. And the whole business about
+pattern-recognition is imho bs. People who say that are just repeating
+what they heard from someone else. From a user standpoint, it’s
+absolutely nothing like pattern recognition.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2025/06/09.html#a182445"
+class="uri">http://scripting.com/2025/06/09.html#a182445</a></p>
+<hr />
+<h2 id="june-8-2025">June 8, 2025</h2>
+<p>date: 2025-06-09, from: Heather Cox Richardson blog</p>
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165562331/a34b26fed02155c2a1c59143b1facc0e.mp3">
+</source>
+</audio>
+<p><a href="https://api.substack.com/feed/podcast/165562331/a34b26fed02155c2a1c59143b1facc0e.mp3" target="_blank">download
+audio/mpeg</a><br></p>
+<p><a href="https://heathercoxrichardson.substack.com/p/june-8-2025-c7c"
+class="uri">https://heathercoxrichardson.substack.com/p/june-8-2025-c7c</a></p>
+<hr />
+<h2 id="sponsor-detailspro">[Sponsor] DetailsPro</h2>
+<p>date: 2025-06-09, updated: 2025-06-09, from: Daring Fireball</p>
+<p><br></p>
+<p><a href="https://detailspro.app?utm_campaign=dfwwdc25"
+class="uri">https://detailspro.app?utm_campaign=dfwwdc25</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2025-06-09, from: Dave Winer’s Scripting
+News)</p>
+<p>I went to the
+<a href="https://daytona.scripting.com/search?q=dnc">DNC</a> in 2004 and
+2008. Both times I heard from friends later that TV had been focused on
+riots, which confused the hell out of me, because I didn’t see anything.
+There was some obnoxious stuff at the 2008 convention in Denver, we had
+to walk a gauntlet of ugly pictures of dead fetuses going in and out of
+the convention center. But in neither case were there <i>any</i>
+disturbances. I see the same sort of thing happening in LA now.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2025/06/09.html#a141836"
+class="uri">http://scripting.com/2025/06/09.html#a141836</a></p>
+<hr />
+<h2 id="the-game-of-being-rich">The game of being rich</h2>
+<p>date: 2025-06-09, from: Dave Winer’s Scripting News</p>
+<p>
+Some random thoughts about wealth.
+</p>
+<p>
+Suppose you’re an average middle-class person who works for a tech
+company when the company is bought out for a huge amount of money and
+your stock is now worth $10 million. It’s liquid today. You just
+received a check for $10 million. What do you do?
+</p>
+<p>
+Answer: You buy things to see if there was a reason to make the money,
+and it turns out there really wasn’t. You would have been just as happy
+in the big house in the rich neighborhood or the smaller house in a more
+modest place.
+</p>
+<p>
+Then what if you reach another level, now you have a check in your hand
+for $100 million, then $1 billion, then $25 billion and keep going. It
+doesn’t stop there. At each level you are compelled to find something
+fantastic that you can use that money for. Some power that the new level
+of wealth gets you.
+</p>
+<p>
+We saw in
+<a href="https://daytona.scripting.com/search?q=succession">Succession</a>,
+they played out the lunacy, the people use a lot of space, but they’re
+still just people. If they loved someone or someone loved them, they’d
+be much happier than all the happiness all that money ever gave them.
+</p>
+<p>
+Having such large useless amounts of money is a not only a problem for
+the rich folk, we’ve found out, it’s a problem for everyone else too,
+because eventually they get around to buying political power and they
+start using the money to change other people lives, always for the
+worse, it seems.
+</p>
+<p>
+We need a new game that only super rich people can play that doesn’t
+hurt the rest of us. I’m not advising anyone to do anything. But I think
+this is what I’ve been writing about on my blog since the beginning.
+</p>
+<p>
+I didn’t understand why, for example, Evan Williams didn’t just make
+technology and give it away, after having made billions from Twitter.
+</p>
+<p>
+Why did Bill Gates have to accumulate so much money and threaten the
+independence of the open web, a miracle, to get it? Why not use your
+power to make miracles <i>before</i> you retire, start doing the good
+you were promising to do later, right now? What good, in hindsight, did
+the extra billions do for anyone, including Gates? When his power was at
+his peak, in the 90s, he could have done a much bigger thing for the
+world, give us a free new level of communication that would be available
+equally to everyone.
+</p>
+<p>
+Elon Musk, having done some incredible things in computers, finance,
+cars and space, had to invent new challenges that only his wealth can
+buy, and eventually came up with things that only the US Treasury could
+buy, and some things like relocating the human species on Mars, that no
+amount of money can buy (or so scientists say). He needs to receive an
+award of love and gratitude for not using his wealth to make everyone
+else totally miserable (including himself, it seems).
+</p>
+<p>
+PS: I haven’t yet read
+<a href="https://daytona.scripting.com/search?q=%22evan%20osnos%22">Evan
+Osnos’</a> new
+<a href="https://www.amazon.com/Haves-Have-Yachts-Dispatches-Ultrarich/dp/1668204487">book</a>
+about billionaires.
+</p>
+<p>
+PPS: See also:
+<a href="http://scripting.com/davenet/2000/10/19/transcendentalMoney.html">Transcendental
+Money</a>, or money that replenishes itself, ie money that transcends
+time.
+</p>
+<p>
+PPPS: Another one:
+<a href="http://scripting.com/2016/05/31/1296.html">Your human-size
+life</a>.
+</p>
+<p><br></p>
+<p><a
+href="http://scripting.com/2025/06/09/131523.html?title=theGameOfBeingRich"
+class="uri">http://scripting.com/2025/06/09/131523.html?title=theGameOfBeingRich</a></p>
 <hr />
 <h2 id="monday">Monday</h2>
 <p>date: 2025-06-09, from: Doc Searls (at Harvard), New Old Blog</p>
-<p> Be not afraid. Good observations and advice from Dana Blankenhorn
-about AI.</p>
+<p>A winner for me anyway. Online Sports Betting is for Losers now has
+more than 3000 reads. Not quite universal. After my wife noticed that
+the Apple USB-C wired earbuds she got for her new iPhone 16 wouldn't
+play when plugged into either of the USB-C ports in her MacBook Air, I
+went looking for USB-C […]</p>
 <p><br></p>
 <p><a href="https://doc.searls.com/2025/06/09/monday/"
 class="uri">https://doc.searls.com/2025/06/09/monday/</a></p>
@@ -75,11 +554,11 @@ class="uri">https://www.schneier.com/blog/archives/2025/06/new-way-to-track-cove
 <p><a href="https://robertreich.substack.com/p/trumps-police-state"
 class="uri">https://robertreich.substack.com/p/trumps-police-state</a></p>
 <hr />
-<h2 id="june-8-2025">June 8, 2025</h2>
+<h2 id="june-8-2025-1">June 8, 2025</h2>
 <p>date: 2025-06-09, from: Heather Cox Richardson blog</p>
-<p>Flatbed train cars carrying thousands of tanks rolled into
-Washington, D.C., yesterday in preparation for the military parade
-planned for June 14.</p>
+<p>Flatbed train cars carrying tanks rolled into Washington, D.C.,
+yesterday in preparation for the military parade planned for June
+14.</p>
 <p><br></p>
 <p><a href="https://heathercoxrichardson.substack.com/p/june-8-2025"
 class="uri">https://heathercoxrichardson.substack.com/p/june-8-2025</a></p>
@@ -101,9 +580,9 @@ Jesswein</h2>
 <p>date: 2025-06-09, from: Doc Searls (at Harvard), New Old Blog</p>
 <p>Today is the 100th birthday of Gail Jesswein, my father-in-law. Gail
 was the father of eight, the first of whom is my wife Joyce. Gail was a
-merchant mariner during World War II (when the casualty rate was one in
-twenty-six, higher than any U.S. military branch), at the end of which
-he met Bernadette […]</p>
+merchant mariner during World War II, when the casualty rate was one in
+twenty-six, higher than any U.S. military branch. On shore after the end
+of the war, […]</p>
 <p><br></p>
 <p><a href="https://doc.searls.com/2025/06/08/a-happy-hundredth/"
 class="uri">https://doc.searls.com/2025/06/08/a-happy-hundredth/</a></p>

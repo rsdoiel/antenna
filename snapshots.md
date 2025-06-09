@@ -1,11 +1,337 @@
 ---
 title: snapshots
-updated: 2025-06-09 06:08:39
+updated: 2025-06-09 14:07:44
 ---
 
 # snapshots
 
-(date: 2025-06-09 06:08:39)
+(date: 2025-06-09 14:07:44)
+
+---
+
+## As we say on the internet, “some personal news”
+
+date: 2025-06-09, from: Press Think
+
+<p>Ten days ago I signed the papers to retire as an NYU professor, effective August 31, 2025. I have taught my last course there. In this thread I am going to take a few moments to reflect on my academic career. Spoiler alert: I am not leaving the field, or the fight for a public [&#8230;]</p>
+<p>The post <a href="https://pressthink.org/2025/06/as-we-say-on-the-internet-some-personal-news/">As we say on the internet, &#8220;some personal news&#8221;</a> appeared first on <a href="https://pressthink.org">PressThink</a>.</p>
+ 
+
+<br> 
+
+<https://pressthink.org/2025/06/as-we-say-on-the-internet-some-personal-news/>
+
+---
+
+## Emmys 2025: FYC – Actuaciones de reparto, drama: elenco de The Pitt
+
+date: 2025-06-09, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Los Premios Emmy, el máximo reconocimiento de la industria de la televisión, es un escenario en donde se han distinguido algunas de las actuaciones más memorables de los últimos años y que podemos disfrutar en la pantalla chica. Cada año destacamos aquellas interpretaciones que han dejado huella en el público y la crítica. Durante los [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/emmys-2025-fyc-actuaciones-de-reparto-drama-elenco-de-the-pitt/">Emmys 2025: FYC – Actuaciones de reparto, drama: elenco de The Pitt</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/emmys-2025-fyc-actuaciones-de-reparto-drama-elenco-de-the-pitt/?utm_source=rss&utm_medium=rss&utm_campaign=emmys-2025-fyc-actuaciones-de-reparto-drama-elenco-de-the-pitt>
+
+---
+
+## A Newsletter Update
+
+date: 2025-06-09, from: Paul Krugman
+
+How it's going so far 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/a-newsletter-update>
+
+---
+
+## WWDC: Apple supercharges its tools and technologies for developers
+
+date: 2025-06-09, updated: 2025-06-09, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/">WWDC: Apple supercharges its tools and technologies for developers</a></strong></p>
+Here's the Apple press release for today's WWDC announcements. Two things that stood out to me:</p>
+<blockquote>
+<p><strong>Foundation Models Framework</strong></p>
+<p>With the Foundation Models framework, developers will be able to build on Apple Intelligence to bring users new experiences that are intelligent, available when they’re offline, and that protect their privacy, using AI inference that is free of cost.
+The framework has native support for Swift, so developers can easily access the Apple Intelligence model with as few as three lines of code.</p>
+</blockquote>
+<p>Here's new documentation on <a href="https://developer.apple.com/documentation/FoundationModels/generating-content-and-performing-tasks-with-foundation-models">Generating content and performing tasks with Foundation Models</a> - the Swift code looks like this:</p>
+<pre><span class="pl-k">let</span> <span class="pl-s1">session</span> <span class="pl-c1">=</span> <span class="pl-en">LanguageModelSession</span><span class="pl-kos">(</span>
+    instructions<span class="pl-kos">:</span> <span class="pl-s">"</span><span class="pl-s">Reply with step by step instructions</span><span class="pl-s">"</span>
+<span class="pl-kos">)</span>
+<span class="pl-k">let</span> <span class="pl-s1">prompt</span> <span class="pl-c1">=</span> <span class="pl-s">"</span><span class="pl-s">Rum old fashioned cocktail</span><span class="pl-s">"</span>
+<span class="pl-k">let</span> <span class="pl-s1">response</span> <span class="pl-c1">=</span> <span class="pl-c1"><span class="pl-k">try</span></span> <span class="pl-k">await</span> session<span class="pl-kos">.</span><span class="pl-en">respond</span><span class="pl-kos">(</span>
+    to<span class="pl-kos">:</span> prompt<span class="pl-kos">,</span>
+    options<span class="pl-kos">:</span> <span class="pl-en">GenerationOptions</span><span class="pl-kos">(</span>temperature<span class="pl-kos">:</span> <span class="pl-c1">2.0</span><span class="pl-kos">)</span>
+<span class="pl-kos">)</span></pre>
+
+<p>I'm also <em>very</em> excited about this:</p>
+<blockquote>
+<p><strong>Containerization Framework</strong></p>
+<p>The Containerization framework enables developers to create, download, or run Linux container images directly on Mac. It’s built on an open-source framework optimized for Apple silicon and provides secure isolation between container images. </p>
+</blockquote>
+<p>I continue to seek the ideal sandboxing solution for running untrusted code - both from other humans and written for me by LLMs - on my own machines. This looks like it could be a really great option for that going forward.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/apple">apple</a>, <a href="https://simonwillison.net/tags/macos">macos</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/sandboxing">sandboxing</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/swift">swift</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/9/apple-wwdc/#atom-everything>
+
+---
+
+## OpenAI hits $10 billion in annual recurring revenue fueled by ChatGPT growth
+
+date: 2025-06-09, updated: 2025-06-09, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.cnbc.com/2025/06/09/openai-hits-10-billion-in-annualized-revenue-fueled-by-chatgpt-growth.html">OpenAI hits $10 billion in annual recurring revenue fueled by ChatGPT growth</a></strong></p>
+Noteworthy because OpenAI revenue is a useful indicator of the direction of the generative AI industry in general, and frequently comes up in conversations about the sustainability of the current bubble.</p>
+<blockquote>
+<p>OpenAI has hit $10 billion in annual recurring revenue less than three years after launching its popular ChatGPT chatbot.</p>
+<p>The figure includes sales  from the company’s consumer products, ChatGPT business products and its application programming interface, or API. It excludes licensing revenue from Microsoft and large one-time deals, according to an OpenAI spokesperson.</p>
+<p>For all of last year, OpenAI was around $5.5 billion in ARR. [...]</p>
+</blockquote>
+<p>So these new numbers represent nearly double the ARR figures for last year.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/9/openai-revenue/#atom-everything>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-09, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lr74itwqh223>
+
+---
+
+## Quoting David Crawshaw
+
+date: 2025-06-09, updated: 2025-06-09, from: Simon Willison’s Weblog
+
+<blockquote cite="https://crawshaw.io/blog/programming-with-agents"><p>The process of learning and experimenting with LLM-derived technology has been an exercise in humility. In general I love learning new things when the art of programming changes […] But LLMs, and more specifically Agents, affect the process of writing programs in a new and confusing way. Absolutely every fundamental assumption about how I work has to be questioned, and it ripples through all the experience I have accumulated. There are days when it feels like I would be better off if I did not know anything about programming and started from scratch. And it is still changing.</p></blockquote>
+<p class="cite">&mdash; <a href="https://crawshaw.io/blog/programming-with-agents">David Crawshaw</a>, How I program with Agents</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/9/david-crawshaw/#atom-everything>
+
+---
+
+## AMD expands Ryzen Z2 lineup with new chips for low-end and premium handheld gaming PCs
+
+date: 2025-06-09, from: Liliputing
+
+<p>This weekend Microsoft and Asus announced they&#8217;re working together on the first Xbox-branded handhelds, which are portable gaming PCs that are expected to ship later this year. But we already knew that was likely to happen. What we didn&#8217;t know was that the upcoming ROG Xbox Ally and ROG Xbox Ally X would be powered [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/amd-expands-ryzen-z2-lineup-with-new-chips-for-low-end-and-premium-handheld-gaming-pcs/">AMD expands Ryzen Z2 lineup with new chips for low-end and premium handheld gaming PCs</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/amd-expands-ryzen-z2-lineup-with-new-chips-for-low-end-and-premium-handheld-gaming-pcs/>
+
+---
+
+## Girls Do Porn Ringleader Pleads Guilty, Faces Life In Prison
+
+date: 2025-06-09, from: 404 Media Group
+
+Michael Pratt led Girls Do Porn, a sex trafficking operation that targeted hundreds of young women with force, fraud and coercion. 
+
+<br> 
+
+<https://www.404media.co/girls-do-porn-ringleader-michael-pratt-pleads-guilty/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-09, from: Dave Winer's linkblog)
+
+Dr. Phil was embedded with ICE during controversial Los Angeles immigration raids. (We live in a TV show.) 
+
+<br> 
+
+<https://www.cnn.com/2025/06/09/media/dr-phil-mcgraw-ice-immigration-raids-los-angeles>
+
+---
+
+## Government Cuts Trans Health Research
+
+date: 2025-06-09, from: Guy Kawasaki blog
+
+Jae A. Puckett, Associate Professor of Psychology, Michigan State University. Paz Galupo, Professor of Sexual Health and Education, Washington University in St. Louis. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/government-cuts-trans-health-research>
+
+---
+
+## Retroid Dual Screen add-on turns existing handhelds into dual-screen consoles
+
+date: 2025-06-09, from: Liliputing
+
+<p>Handheld game console maker Retroid is planning to launch a new accessory that basically turns a PSP-style handheld into a Nintendo DS-style device. The upcoming Retroid Dual Screen add-on is designed to bring a second screen to supported handhelds. It goes up for pre-order for $69 starting at 9:30PM Eastern Time on Monday, June 9, 2025. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/retroid-dual-screen-add-on-turns-existing-handhelds-into-dual-screen-consoles/">Retroid Dual Screen add-on turns existing handhelds into dual-screen consoles</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/retroid-dual-screen-add-on-turns-existing-handhelds-into-dual-screen-consoles/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-09, from: Dave Winer's linkblog)
+
+House Republicans Found a New Way to Go After Abortion Access in Blue States. 
+
+<br> 
+
+<https://www.notus.org/health-science/house-republican-reconciliation-bill-abortion-affordable-care-act>
+
+---
+
+## FICUNAM 15: día 1
+
+date: 2025-06-09, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>En el primer día de proyecciones de Ficunam 15 vimos tres propuestas: La eterna adolescente, Sex Panchitos y Punto de fuga. A continuación, nuestras impresiones. Punto de fuga (Vanishing Point) (Dir. Bani Khoshnoudi) Sección: Competencia internacional En este documental ensayístico y autobiográfico, la cineasta Bani Khoshnoudi regresa a Irán después de haber sido exiliada en [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/ficunam-15-dia-1/">FICUNAM 15: día 1</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/ficunam-15-dia-1/?utm_source=rss&utm_medium=rss&utm_campaign=ficunam-15-dia-1>
+
+---
+
+## Senators Demand Meta Answer For AI Chatbots Posing as Licensed Therapists
+
+date: 2025-06-09, from: 404 Media Group
+
+Exclusive: Following 404 Media’s investigation into Meta's AI Studio chatbots that pose as therapists and provided license numbers and credentials, four senators urged Meta to limit "blatant deception" from its chatbots. 
+
+<br> 
+
+<https://www.404media.co/senators-letter-demand-meta-answer-for-ai-chatbots-posing-as-licensed-therapists/>
+
+---
+
+## Rise and See a Massive Ship Out Your Window
+
+date: 2025-06-09, updated: 2025-06-09, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/06/09/rise-and-see-a-massive-ship-out-your-window/>
+
+---
+
+## Liberux NEXX Linux phone now offers cheap(er) options (crowdfunding)
+
+date: 2025-06-09, from: Liliputing
+
+<p>On paper the Liberux NEXX looks like it could be the most powerful smartphone to date that&#8217;s purpose-built to run free and open source GNU/Linux-based software. But it&#8217;s kind of a tough sell at this point for a few reasons: the NEXX is the first product from a company that&#8217;s never shipped anything before. The [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/cheaper-liberux-nexx-linux-phone-option-coming-soon-crowdfunding/">Liberux NEXX Linux phone now offers cheap(er) options (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/cheaper-liberux-nexx-linux-phone-option-coming-soon-crowdfunding/>
+
+---
+
+## Waymo Pauses Service in Downtown LA Neighborhood Where They're Getting Lit on Fire
+
+date: 2025-06-09, from: 404 Media Group
+
+A company spokesperson said it is working with law enforcement to determine when it can move the cars that have been. 
+
+<br> 
+
+<https://www.404media.co/waymo-pauses-service-in-downtown-la-neighborhood-where-theyre-getting-lit-on-fire/>
+
+---
+
+## GPD MicroPC 2 is portable computer with a 7 inch display, Intel N250 processor and a thumb keyboard
+
+date: 2025-06-09, from: Liliputing
+
+<p>Six years after releasing the original GPD MicroPC as a palm-sized computer aimed at IT professionals, GPD is bringing back the form factor with a new model sporting a bigger screen, faster processor, and more storage. While the company hasn&#8217;t announced pricing or availability details yet, here&#8217;s what we know so far about the upcoming GPD [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/gpd-micropc-2-is-portable-computer-with-a-7-inch-display-intel-n250-processor-and-a-thumb-keyboard/">GPD MicroPC 2 is portable computer with a 7 inch display, Intel N250 processor and a thumb keyboard</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/gpd-micropc-2-is-portable-computer-with-a-7-inch-display-intel-n250-processor-and-a-thumb-keyboard/>
+
+---
+
+## Here's why Linux market share isn't going to skyrocket anytime soon
+
+date: 2025-06-09, from: Libre News
+
+Let's get real! 
+
+<br> 
+
+<https://thelibre.news/heres-why-linux-market-share-isnt-going-to-skyrocket-anytime-soon/>
+
+---
+
+## A Researcher Figured Out How to Reveal Any Phone Number Linked to a Google Account
+
+date: 2025-06-09, from: 404 Media Group
+
+Phone numbers are a goldmine for SIM swappers. A researcher found how to get this precious piece of information from any Google account. 
+
+<br> 
+
+<https://www.404media.co/a-researcher-figured-out-how-to-reveal-any-phone-number-linked-to-a-google-account/>
+
+---
+
+## Detect radio jammers with Raspberry Pi 5
+
+date: 2025-06-09, from: Raspberry Pi News (.com)
+
+<p>Signal Sentinel is a great research project that harnesses Raspberry Pi 5’s power to detect radio jammers. </p>
+<p>The post <a href="https://www.raspberrypi.com/news/detect-radio-jammers-with-raspberry-pi-5/">Detect radio jammers with Raspberry Pi 5</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/detect-radio-jammers-with-raspberry-pi-5/>
+
+---
+
+## DHS Black Hawks and Military Aircraft Surveil the LA Protests
+
+date: 2025-06-09, from: 404 Media Group
+
+Local police, state authorities, DHS, and the military all flew aircraft over the Los Angeles protests this weekend, according to flight path data. 
+
+<br> 
+
+<https://www.404media.co/dhs-black-hawks-and-military-aircraft-surveil-the-la-protests/>
 
 ---
 
@@ -53,10 +379,10 @@ href="https://bookshop.org/p/books/the-book-of-records-madeleine-thien/21798601"
 Book of Records</a>. You’ll have to listen to the interview, or read the
 book, to get a sense of how the book works, but it’s my understanding
 that the main character is a refugee, and yet was able to bring with her
-three slim books from a series calle dThe Great Lives of Voyagers, one
-of which is about Spinoza, the others being about Du Fu and Hannah
-Arendt. I believe that readings of these fictional books form part of
-The Book of Records.
+three slim books from a series called <em>The Great Lives of
+Voyagers</em>, one of which is about Spinoza, the others being about Du
+Fu and Hannah Arendt. I believe that readings of these fictional books
+form part of The Book of Records.
 </p>
 <p>
 During the interview Thien was asked about the importance of these
@@ -93,20 +419,30 @@ and see how that all works.
 </blockquote>
 <p>
 This idea of <em>copying</em> Spinoza’s Ethics in an effort to form an
-understanding and a friendship with him is compelling. I kind of would
-like to try this. To get a copy of Ethics, and a blank notebook and just
-copy it out. I thought maybe it would be fun to try do this with others,
-to meet and discuss, and share our notebooks? If this sounds like
-something you might like to do please <a
-href="mailto:ehs@pobox.com">get in touch</a>.
+understanding and a friendship with him is compelling: to get a copy of
+Ethics, and a blank notebook, and just start copying it out. It’s my
+understanding that the text takes shape in the form of axioms and
+propositions that draw on geometry, in order to propose a “human
+geometry”? Of all the maths that I needed to do in school it was
+geometric proofs that I always got the most enjoyment from. This made me
+think it would be fun to try do this copying practice with others, to
+meet and discuss, and share our notebooks and thoughts? But then again,
+I imagine if it took Thien months to do the copying it would take me
+<em>much</em> longer…so perhaps it would be best to just work at my own
+pace, when I can, without the peer pressure?
 </p>
 <p>
 Another thing I learned while reading about Spinoza’s <a
 href="https://en.wikipedia.org/wiki/Spinoza%27s_Ethics">Ethics,
 Demonstrated in Geometric Order</a> on Wikipedia is that the first
-translation into English was done by [George Eliot] in 1883, and it was
-left unpublished until almost a hundred years later in 1981. Spinoza
-wrote the book over 14 years and it was only published after he died.
+translation into English was done by <a
+href="https://en.wikipedia.org/wiki/George_Eliot">George Eliot</a> in
+1883, and it was left unpublished until almost a hundred years later.
+Spinoza wrote the book over 14 years and it was only published after he
+died. According to Thien, it took her 9 years to write The Book of
+Records. In this age of move fast and break things, the idea of doing
+something restorative, over the course of years, is maybe what appeals
+to me most.
 </p>
  
 
@@ -135,6 +471,19 @@ Troubleshooting WiFi connection problems with the Daikin Altherma MMI and Onecta
 <br> 
 
 <https://alex.pearwin.com/2025/06/daikin-heat-pump-wifi-woes/>
+
+---
+
+## Thoughts on DuckLake
+
+date: 2025-06-09, from: Max Halford Blog
+
+<p><a href="https://ducklake.select/">DuckLake</a> is the new data lake/warehouse from the makers of DuckDB. I really like the direction they&rsquo;re taking. I&rsquo;m hopeful it has the potential to streamline the data engineering workflow for many people, vastly reducing costs along the way.</p>
+<p>I&rsquo;m a bit of a nut and don&rsquo;t use SQLMesh or dbt. Instead, I built <a href="https://github.com/carbonfact/lea">lea</a> a few years ago, and we still use it at <a href="https://carbonfact.org">Carbonfact</a>. I would probably pick SQLMesh if I had to start over, but lea allows me to explore new ideas, so I&rsquo;m sticking to it for now.</p> 
+
+<br> 
+
+<https://maxhalford.github.io/blog/ducklake-thoughts/>
 
 ---
 

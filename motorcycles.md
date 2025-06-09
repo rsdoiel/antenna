@@ -1,11 +1,59 @@
 ---
 title: motorcycles
-updated: 2025-06-09 06:08:36
+updated: 2025-06-09 14:07:41
 ---
 
 # motorcycles
 
-(date: 2025-06-09 06:08:36)
+(date: 2025-06-09 14:07:41)
+
+---
+
+## Denny Hamlin Showcases Master Class in Fuel-Saving to Win at Michigan International Speedway
+
+date: 2025-06-09, from: Kickin the Tires blog
+
+June 8, 2025 By Holly Cain NASCAR Wire Service Ultimately Denny Hamlin’s No. 11 Joe Gibbs Racing Toyota had just enough fuel to claim the checkered flag at Michigan International&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/denny-hamlin-showcases-master-class-in-fuel-saving-to-win-at-michigan-international-speedway/>
+
+---
+
+## Capps, Torrence, Anderson and Gadson Win Super Grip NHRA Thunder Valley Nationals
+
+date: 2025-06-09, from: Kickin the Tires blog
+
+BRISTOL, Tenn. (June 8, 2025) – Three-time Funny Car world champion Ron Capps became the all-time wins leader at Bristol Dragway on Sunday, snapping a 33-race winless streak by defeating&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nhra/capps-torrence-anderson-and-gadson-win-super-grip-nhra-thunder-valley-nationals/>
+
+---
+
+## Watch a Dakar Truck Challenge a Dirt Bike, Prepare To Be Stunned
+
+date: 2025-06-09, from: Ride Apart, Electric Motorcycle News
+
+Pick your winner now and tell us if you were right in the comments. 
+
+<br> 
+
+<https://www.rideapart.com/news/762010/dakar-truck-dirt-bike-video/>
+
+---
+
+## The Distinguished Gentleman’s Ride Raised a Pile of Money for Mental Health and Prostate Cancer This Year
+
+date: 2025-06-09, from: Ride Apart, Electric Motorcycle News
+
+And RideApart did its part. 
+
+<br> 
+
+<https://www.rideapart.com/news/761751/dgr-fund-raising-2025/>
 
 ---
 
@@ -21,7 +69,7 @@ A race so tough, only one rider completed it in 2024.
 
 ---
 
-## Terrifying Video Shows Motorcyclist Falling off Cliff After One Minor Error, Destroying Bike
+## Terrifying Video Shows Motorcyclist Falling Off Cliff, Destroying Bike
 
 date: 2025-06-09, from: Ride Apart, Electric Motorcycle News
 

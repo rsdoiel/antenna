@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2025-06-09 06:08:32
+updated: 2025-06-09 14:07:36
 ---
 
 # science and technology
 
-(date: 2025-06-09 06:08:32)
+(date: 2025-06-09 14:07:36)
+
+---
+
+## Omni-Path is back on the AI and HPC menu in a new challenge to Nvidia's InfiniBand
+
+date: 2025-06-09, updated: 2025-06-09, from: The Register (UK I.T. News)
+
+<h4>After a five-year hiatus, Cornelis&#39; interconnect returns at 400Gbps, with Ethernet support next</h4> <p>Five years after Intel spun off its Omni-Path interconnect tech into Cornelis Networks, its 400Gbps CN5000 line of switches and NICs is finally ready to do battle with its long-time rival, Nvidia&#39;s InfiniBand.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/09/omnipath_is_back/>
+
+---
+
+## Waymo problems in La La Land as robotaxis set aflame
+
+date: 2025-06-09, updated: 2025-06-09, from: The Register (UK I.T. News)
+
+<h4>Services locked down in America&#39;s second-largest city</h4> <p><strong>Video</strong>  Five Waymo robotaxis were torched on Sunday during protests against the US Immigration and Customs Enforcement (ICE) agency&#39;s efforts to detain and deport suspected undocumented immigrants.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/09/la_protest_waymo/>
+
+---
+
+## NASA’s Chandra Sees Surprisingly Strong Black Hole Jet at Cosmic “Noon”
+
+date: 2025-06-09, from: NASA breaking news
+
+A black hole has blasted out a surprisingly powerful jet in the distant universe, according to a new study from NASA’s Chandra X-ray Observatory and discussed in our latest press release. This jet exists early enough in the cosmos that it is being illuminated by the leftover glow from the big bang itself. Astronomers used [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-chandra-sees-surprisingly-strong-black-hole-jet-at-cosmic-noon/>
+
+---
+
+## 1.5 TB of James Webb Space Telescope data just hit the internet
+
+date: 2025-06-09, updated: 2025-06-09, from: The Register (UK I.T. News)
+
+<h4>Online catalog gives open science access to data from early universe</h4> <p>A NASA-backed project using observations from the James Webb Space Telescope (JWST) has released more than 1.5 TB of data for open science, offering the largest view deep into the universe available to date.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/09/jwst_open_science_data/>
+
+---
+
+## Apple AI boffins puncture AGI hype as reasoning models flail on complex planning
+
+date: 2025-06-09, updated: 2025-06-09, from: The Register (UK I.T. News)
+
+<h4>AI &#39;thinking&#39; may just be an illusion</h4> <p>If you are betting on AGI – artificial general intelligence, the point at which AI models rival human cognition – showing up next year, you may want to adjust your timeline.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/09/apple_ai_boffins_puncture_agi_hype/>
+
+---
+
+## Central Brazil Cerrado
+
+date: 2025-06-09, from: NASA breaking news
+
+On May 19, 2025, Landsat 9 captured this image of the Serra de Caldas in the state of Goiás, Brazil. The oval plateau is covered by a biologically rich savanna and grassland ecosystem called Cerrado. The Cerrado covers about one-fifth of Brazil’s land area and represents the&#160;second-largest biome&#160;in South America behind the Amazon. These lands [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/central-brazil-cerrado/>
+
+---
+
+## Let them eat junk food: Major organic supplier to Whole Foods, Walmart, hit by cyberattack
+
+date: 2025-06-09, updated: 2025-06-09, from: The Register (UK I.T. News)
+
+<h4>United Natural Foods shut down some of its systems on June 5 after spotting network intruders</h4> <p>North American grocery wholesaler United Natural Foods told regulators that a cyber incident temporarily disrupted operations, including its ability to fulfill customer orders.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/09/united_natural_foods_cyber_incident/>
+
+---
+
+## Unemployment is spiking for US IT pros - unless you want to babysit bots
+
+date: 2025-06-09, updated: 2025-06-09, from: The Register (UK I.T. News)
+
+<h4>Economic uncertainty and the race to AI are pillaging the IT job market</h4> <p>The IT job market in the US is being hit from two sides at once: Companies are grappling with <a target="_blank" rel="nofollow" href="https://www.cnbc.com/2025/04/14/more-than-60percent-of-ceos-expect-a-recession-in-the-next-6-months-survey-says.html">fears of a recession</a> stemming from the Trump administration&#39;s erratic tariff policy, while AI is increasingly mopping up entry-level jobs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/09/it_unemployment_rate_janco/>
+
+---
+
+## UK's Isambard-AI super powers up as government goes AI crazy
+
+date: 2025-06-09, updated: 2025-06-09, from: The Register (UK I.T. News)
+
+<h4>Brace yourselves Britain, PM Keir Starmer&#39;s challenged his teams: &#39;show me how they can use AI&#39;</h4> <p>Britain&#39;s beefiest supercomputer, Isambard-AI, is set to become fully operational this summer, as the government steps up its strategy to push AI everywhere as a driver for economic recovery.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/09/uks_isambardai_super_powers_up/>
+
+---
+
+## NASA’s TROPICS Mission: Offering Detailed Images and Analysis of Tropical Cyclones
+
+date: 2025-06-09, from: NASA breaking news
+
+Introduction Tropical cyclones represent a danger to life, property, and the economies of communities. Researchers who study tropical cyclones have focused on remote observations using space-based platforms to image these storms, inform forecasts, better predict landfall, and improve understanding of storm dynamics and precipitation evolution – see Figure 1. The tropical cyclone community has leveraged […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/nasas-tropics-mission-offering-detailed-images-and-analysis-of-tropical-cyclones/>
+
+---
+
+## US lawmakers fire back a response to Trump's NASA cuts
+
+date: 2025-06-09, updated: 2025-06-09, from: The Register (UK I.T. News)
+
+<h4>Big expensive Moon rockets = good. Science = yeah, whatever</h4> <p>While US President Donald Trump and his former best pal, Elon Musk, were having a very public spat, the US Senate fired back with its response to NASA&#39;s proposed budget cuts. Big rockets = good. Science = still bad.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/09/us_lawmakers_nasa_response/>
+
+---
+
+## Comet-Catching NASA Technology Enables Exotic Works of Art
+
+date: 2025-06-09, from: NASA breaking news
+
+Consisting of 99% air, aerogel is the world’s lightest solid. This unique material has found purpose in several forms — from NASA missions to high fashion. Driven by the desire to create a 3D cloud, Greek artist, Ioannis Michaloudis, learned to use aerogel as an artistic medium. His journey spanning more than 25 years took [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/technology/tech-transfer-spinoffs/comet-catching-nasa-technology-enables-exotic-works-of-art/>
+
+---
+
+## New Quantum Algorithm Factors Numbers With One Qubit
+
+date: 2025-06-09, from: Quanta Magazine
+
+The catch: It would require the energy of a few medium-size stars.            <p>The post <a href="https://www.quantamagazine.org/new-quantum-algorithm-factors-numbers-with-one-qubit-20250609/" target="_blank">New Quantum Algorithm Factors Numbers With One Qubit</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/new-quantum-algorithm-factors-numbers-with-one-qubit-20250609/>
+
+---
+
+## Paul Morris: Filming the Final Frontier
+
+date: 2025-06-09, from: NASA breaking news
+
+Video Producer &#8211; Goddard Space Flight Center What sparked your interest in video production, and what drew you to NASA?&#160; Ever since I saw “Star Wars” at nine years old, I knew I wanted to make movies. I would make little stop action videos with my action figures. How did you land this role at [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/people-of-nasa/paul-morris-filming-the-final-frontier/>
+
+---
+
+## Europe's cloud datacenter ambition 'completely crazy' says SAP CEO
+
+date: 2025-06-09, updated: 2025-06-09, from: The Register (UK I.T. News)
+
+<h4>Christian Klein sees little benefit from trying to compete with the dominant hyperscalers</h4> <p>The leader of Europe&#39;s <a target="_blank" rel="nofollow" href="https://www.cnbc.com/2025/03/25/sap-becomes-europes-most-valuable-firm-amid-german-stock-boom.html">most valuable</a> company says there is no point in the continent building datacenters to try to compete with US cloud hyperscalers which have already invested in the region.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/09/europes_cloud_datacenter_ambition/>
+
+---
+
+## Microsoft cuts the Windows 11 bloat for Xbox handhelds
+
+date: 2025-06-09, updated: 2025-06-09, from: The Register (UK I.T. News)
+
+<h4>If gamers can have a slimline version of the OS, why not IT admins?</h4> <p>Microsoft just demonstrated it can put Windows 11 on a diet if it really wants to, with the announcement of PC gaming handhelds running a slimmed-down version of the operating system under the hood.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/09/windows_11_xbox_handhelds/>
 
 ---
 

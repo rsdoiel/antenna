@@ -1,23 +1,299 @@
 ---
 title: planet
-updated: 2025-06-09 06:08:28
+updated: 2025-06-09 14:07:32
 ---
 
 # planet
 
-(date: 2025-06-09 06:08:28)
+(date: 2025-06-09 14:07:32)
+
+---
+
+## Podcast: Estonia's different approach to AI in education
+
+date: 2025-06-09, from: RTÉ News
+
+ 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0609/1517549-podcast-estonias-different-approach-to-ai-in-education/>
+
+---
+
+## English makes more history with 800m win in Netherlands
+
+date: 2025-06-09, from: RTÉ News
+
+Mark English has become the first Irishman to break 1:44 in the 800m, lowering his own Irish record for the second time in 11 days with a brilliant run at the FBK Games in the Netherlands. 
+
+<br> 
+
+<https://www.rte.ie/sport/athletics/2025/0609/1517566-english-makes-more-history-with-800m-win-in-netherlands/>
+
+---
+
+## 'Nowhere else to go' - Concerns over proposed rent reform
+
+date: 2025-06-09, from: RTÉ News
+
+Thousands of renters across the country struggle to pay their rent every month and many are worried about what the Government's reforms to Rent Pressure Zones will mean for them. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0609/1517562-rent-reforms/>
+
+---
+
+## Baldoni $400m lawsuit against Blake Lively dismissed
+
+date: 2025-06-09, from: RTÉ News
+
+A US judge has dismissed actor Justin Baldoni's $400 million defamation lawsuit against actress Blake Lively, who had accused Baldoni of sexually harassing her while filming the 2024 movie It Ends With Us. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0609/1517561-baldonis-lawsuit-against-blake-lively-dismissed/>
+
+---
+
+## HPRA issues safety notice for Zoll defibrillator model
+
+date: 2025-06-09, from: RTÉ News
+
+The Health Products Regulatory Authority (HPRA) has issued a safety notice affecting a Zoll Powerheart defibrillator which warns that the device may not deliver therapy when needed. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0609/1517560-defibrillator-notice/>
+
+---
+
+## Puska brother entitled to remain silent, court hears
+
+date: 2025-06-09, from: RTÉ News
+
+Jozef Puska's brother, Marek, was protecting himself, not Jozef, when he withheld information from gardaí who were investigating the murder of Ashling Murphy, a lawyer has told the Central Criminal Court. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0609/1517554-puska-court/>
+
+---
+
+## British author Frederick Forsyth dies aged 86
+
+date: 2025-06-09, from: RTÉ News
+
+Frederick Forsyth, the author of The Day of The Jackal, has died at the age of 86 after a brief illness, his literary agents Curtis Brown said. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0609/1517550-frederick-forsyth/>
+
+---
+
+## ASTI calls for talks with dept after LC reform rejection
+
+date: 2025-06-09, from: RTÉ News
+
+The ASTI has called for talks with the Department of Education following the rejection by its members of measures to support implementation of the Senior Cycle redevelopment programme from this September. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0609/1517548-leaving-cert-reform/>
+
+---
+
+## DRC: Honouring courage and honesty: The beatification of Floribert Bwana Chui 
+
+date: 2025-06-09, from: Vatican News
+
+
+                    <p>On 15 June, the Basilica of St. Paul Outside the Walls in Rome, Italy, will witness the beatification of Floribert Bwana Chui Bin Kositi, a young Congolese member of the Community of Sant’Egidio, a martyr who stood up against corruption. The ceremony will be presided over by Cardinal Marcello Semeraro, Prefect of the Dicastery for the Causes of Saints.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-06/drc-honouring-courage-and-honesty-the-beatification-of-floribe.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-06/drc-honouring-courage-and-honesty-the-beatification-of-floribe.html>
+
+---
+
+## Low voter turnout thwarts Italian referendum proposals
+
+date: 2025-06-09, from: RTÉ News
+
+Low voter turnout has sank Italian opposition referendum proposals to ease citizenship laws and tighten job protection rules, with senior figures in the coalition of Prime Minister Giorgia Meloni saying the outcome boosted the government. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0609/1517540-italian-referendum-proposals/>
+
+---
+
+## Wiffen donates €29k Olympic legacy fund to former school
+
+date: 2025-06-09, from: RTÉ News
+
+Olympic gold medalist Daniel Wiffen has given his £25,000 from an Olympic grant to his former school to help fund a gym, its principal has said. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0609/1517531-daniel-wiffen-olympic-fund/>
+
+---
+
+## Opposition seeks free Govt vote on sale of Israeli bonds
+
+date: 2025-06-09, from: RTÉ News
+
+Four Opposition parties have called on Fianna Fáil and Fine Gael TDs to be given a free vote on an upcoming Dáil motion, which seeks to prevent the Irish Central Bank from facilitating the sale of Israeli bonds. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0609/1517525-opposition-vote-bonds/>
+
+---
+
+## Sowing peace through the diplomacy of the Gospel
+
+date: 2025-06-09, from: Vatican News
+
+
+                    <p>In an interview marking the Jubilee of the Holy See and an upcoming audience with Pope Leo XIV, Cardinal Secretary of State Pietro Parolin describes Apostolic Nuncios as bridges that link the Pope with local Churches, the Church with States, and the world’s wounds with the hope of the Gospel.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/interivew-parolin-jubilee-holy-see-nuncios-diplomacy.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/interivew-parolin-jubilee-holy-see-nuncios-diplomacy.html>
+
+---
+
+## Church in Mexico supporting families of the ‘disappeared’ 
+
+date: 2025-06-09, from: Vatican News
+
+
+                    <p>The Auxiliary Bishop of the Archdiocese of Mexico City, Monsignor Francisco Javier Acero, issues an appeal to political authorities and all sectors of society to engage in dialogue and cooperate in locating the thousands of people who have gone missing in recent decades amid rising criminal violence.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/mexico-disappared-catholic-church-support-families-criminality.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/mexico-disappared-catholic-church-support-families-criminality.html>
+
+---
+
+## Man in Monaghan arrested for alleged human trafficking
+
+date: 2025-06-09, from: RTÉ News
+
+A man has been arrested in Co Monaghan on suspicion of human trafficking offences. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0609/1517516-monaghan-trafficking-arrest/>
+
+---
+
+## Watch this space: Irish team may have found new planet
+
+date: 2025-06-09, from: RTÉ News
+
+An international team of astronomers, led by University of Galway, has discovered the likely site of a new planet in formation. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0609/1517509-new-planet-formation/>
+
+---
+
+## Musk's father says son's battle with Trump needs to stop
+
+date: 2025-06-09, from: RTÉ News
+
+The dispute between Donald Trump and Elon Musk was triggered by months of intense stress on both sides, and the public battle between the US president and the billionaire donor needs to stop, Elon Musk's father has said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0609/1517513-errol-musk/>
 
 ---
 
 ## Guterres calls for an end to ocean ‘plunder’ as UN summit opens in France
 
-date: 2025-06-09, from: United Nations, Top Stories
+date: 2025-06-09, from: United Nations, Climate Change
 
 With the Mediterranean glittering in the background, UN Secretary-General António Guterres opened the Third United Nations Ocean Conference on Monday, delivering a blunt indictment of humanity’s fractured relationship with the sea. 
 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/06/1164146>
+
+---
+
+## Gaza: Search for food puts lives on the line
+
+date: 2025-06-09, from: United Nations, Top Stories
+
+The worsening humanitarian crisis in the Gaza Strip has reached “unprecedented levels of despair,” the UN said on Monday, amid more reports of people being killed and injured near newly-established distribution sites.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164171>
+
+---
+
+## No green without blue: Young ocean explorers set sail for a sustainable future
+
+date: 2025-06-09, from: United Nations, Climate Change
+
+With science at the forefront of the opening day of the Third UN Ocean Conference (UNOC3), UN News boarded a 111-year-old Norwegian tall ship on the French Riviera to meet 50 science students, along with a host of lecturers and citizen scientists fresh from a 46-day expedition. Fueled by satellite data from the European Space Agency (ESA), their invaluable observations echo the urgent call to understand and protect the world’s oceans. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164161>
+
+---
+
+## Lack of cooperation from Iran hampers nuclear checks, says atomic energy watchdog
+
+date: 2025-06-09, from: United Nations, Top Stories
+
+The head of the UN-backed nuclear watchdog has raised fresh concerns over Iran’s failure to fully cooperate with inspections, warning that this is preventing independent verification of its nuclear activities. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164166>
+
+---
+
+## Central Africa at a crossroads amid rising tensions and instability
+
+date: 2025-06-09, from: United Nations, Top Stories
+
+Despite its wealth of natural resources and potential, Central Africa continues to face serious challenges, from political instability to growing humanitarian needs. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164156>
+
+---
+
+## Book dealer cleared of selling rare stolen Heaney books
+
+date: 2025-06-09, from: RTÉ News
+
+A book dealer who claimed he bought two missing and "extraordinarily rare" Seamus Heaney first editions worth €2,000 at a bric-a-brac stall has walked free from court. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0609/1517493-heaney-books-courts/>
 
 ---
 
@@ -33,7 +309,7 @@ The fields of Worthy Farm are calling once again as Glastonbury 2025 gets underw
 
 ---
 
-## Gardaí not currently seeking to buy cadaver dogs - Harris
+## Harris: Gardaí not currently seeking to buy cadaver dogs
 
 date: 2025-06-09, from: RTÉ News
 
@@ -82,6 +358,30 @@ date: 2025-06-09, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-holy-see-jubilee-mass-roman-curia.html>
+
+---
+
+## Sandy Lake members 'pulling together' as wildfire evacuation continues: chief
+
+date: 2025-06-09, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7546490.1749484969!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/wildfire-smoke-northwestern-ontario.jpg' alt='A plane is seen flying through wildfire smoke.' width='620' height='349' title='A photo of wildfire smoke posted to Facebook May 24, 2025 by Ontario Forest Fires. A number of restrictions remain in effect in the region, including a restricted fire zone, travel bans and limits on access to certain lakes and waterways, as the wildland fire hazard remains high to extreme. '/><p>Another northwestern Ontario First Nation is being evacuated, as a major wildfire burns nearby. Here's what we know about evacuation efforts in Sandy Lake First Nation, as the Canadian Armed Forces have been called in to assist the remote community.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/sandy-lake-evacuation-1.7555918?cmp=rss>
+
+---
+
+## B.C. Mountie loses bid to stay obstruction of justice charge connected to 2017 death of First Nations man
+
+date: 2025-06-09, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7246601.1749421267!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/constable-arthur-dalman.jpg' alt='Seen from a distance, a bearded, dark-haired man in a suit looks down as he walks down a ramp from the Prince George courthouse, where he is on trial for obstruction of justice. ' width='620' height='349' title='RCMP Constable Arthur Dalman leaves the Prince George courthouse after closing arguments in his obstruction of justice trial.'/><p>Prince George RCMP Const. Arthur Dalman sought to have his charge stayed, citing his right to a trial within a reasonable time. He is convicted of obstruction of justice in connection with the 2017 arrest of Indigenous man Dale Culver, who later died in custody.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/dale-culver-arthut-dalman-rcmp-delayed-1.7555792?cmp=rss>
 
 ---
 
@@ -139,7 +439,7 @@ Famine is so close in Gaza that when it does hit it will be too late for aid to 
 
 ---
 
-## U.S. travel restrictions officially in effect for 19 countries
+## U.S. immigration restrictions officially in effect for 19 countries
 
 date: 2025-06-09, from: CBC, World News
 
@@ -148,6 +448,18 @@ date: 2025-06-09, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/us-travel-ban-begins-1.7555910?cmp=rss>
+
+---
+
+## After the fire: Remote First Nation in northern Alberta struggling to rebuild, 2 years later
+
+date: 2025-06-09, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7554678.1749233399!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/paskwa-fire.jpg' alt='Fire ' width='620' height='349' title='The Paskwa fire started May 2, 2023, near the community of Fox Lake, Alta. '/><p>The Paskwa fire started May 2, 2023, near the community of Fox Lake. It burned until the following year.  The fire destroyed over 300 buildings, most of which were homes.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/edmonton/after-the-fire-remote-first-nation-in-northern-alberta-struggling-to-rebuild-2-years-later-1.7553889?cmp=rss>
 
 ---
 
@@ -167,7 +479,7 @@ Offaly and Kildare, and Limerick and Wexford have already met at Croke Park this
 
 date: 2025-06-09, from: RTÉ News
 
-NATO Secretary General Mark Rutte is expected to call for a "400% increase" in the transatlantic alliance's air and missile defence capacities in response to the threat from Russia. 
+NATO head Mark Rutte has urged a "quantum leap" in defence capabilities including a "400% increase" in air and missile defence to shield the alliance against Russia. 
 
 <br> 
 
@@ -191,7 +503,7 @@ Alcohol consumption by Irish adults fell by 4.5% last year, continuing a downwar
 
 date: 2025-06-09, from: RTÉ News
 
-Russia fired a record 479 drones at Ukraine, including on the western region of Rivne that has been largely spared from attacks, Kyiv said today. 
+Russia and Ukraine have swapped a first group of captured soldiers - part of an agreement reached during peace talks that appeared to be in doubt over the weekend. 
 
 <br> 
 
@@ -235,6 +547,18 @@ The Government has little choice about reforming the existing rent caps if it wa
 
 ---
 
+## Watch: Support in Donegal for St Colmcille public holiday
+
+date: 2025-06-09, from: RTÉ News
+
+Members of the public in Gleann Cholm Cille in Co Donegal have voiced their support for a Donegal County Council call for the establishment of a new public holiday in honour of St Colmcille. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0609/1517400-new-bank-holiday/>
+
+---
+
 ##  Apostolic Nuncio to Ukraine: I shared with Pope Leo our hope and sorrow
 
 date: 2025-06-09, from: Vatican News
@@ -251,11 +575,11 @@ date: 2025-06-09, from: Vatican News
 
 ---
 
-## UN urges ratification of treaty to protect oceans
+## No senior US delegation at ocean conference
 
 date: 2025-06-09, from: RTÉ News
 
-UN Secretary-General Antonio Guterres has urged world leaders to ratify a treaty that would allow nations to establish protected marine areas in international waters, warning that human activity was destroying ocean ecosystems. 
+Taoiseach Micheál Martin has described as "disappointing" the absence of a high-ranking delegation from the United States at a United Nations Ocean Conference in Nice, France. 
 
 <br> 
 
@@ -263,11 +587,11 @@ UN Secretary-General Antonio Guterres has urged world leaders to ratify a treaty
 
 ---
 
-## Israeli ship seizure flouts international law - Amnesty
+## Gaza-bound aid boat reaches Israeli port
 
 date: 2025-06-09, from: RTÉ News
 
-The seizure by Israel of a charity vessel that had attempted to break a naval blockade and bring aid to Gaza violates international law, Amnesty International has said. 
+A Gaza-bound aid boat reached Israel's Ashdod port this evening after being intercepted by Israeli forces, preventing the dozen activists on board, including Swediash campaigner Greta Thunberg, from reaching the blockaded Palestinian territory. 
 
 <br> 
 
@@ -275,11 +599,11 @@ The seizure by Israel of a charity vessel that had attempted to break a naval bl
 
 ---
 
-## 'Bring in troops', says Trump as anti-ICE protests spread
+## Trump calls deployment of troops in LA 'a great decision'
 
 date: 2025-06-09, from: RTÉ News
 
-Police have declared all of downtown Los Angeles to be an unlawful assembly area and ordered protesters to go home after a third day of violence hit demonstrations against President Donald Trump's immigration policy. 
+US President Donald Trump has said he made "a great decision" sending the National Guard to handle unrest in California that erupted during the weekend over his immigration policies. 
 
 <br> 
 
@@ -287,11 +611,11 @@ Police have declared all of downtown Los Angeles to be an unlawful assembly area
 
 ---
 
-## Govt bid to reform rent cap will put tenants at risk - SF
+## Govt leaders agree to extend RPZs across country
 
 date: 2025-06-08, from: RTÉ News
 
-Sinn Féin has said the Government's proposals to restructure Rent Pressure Zones will lead to significant increases for many renters and put many at risk of homelessness. 
+Coalition leaders and senior ministers are understood to have agreed to a new system of national rent control at their meeting in Government Buildings tonight. 
 
 <br> 
 
@@ -303,7 +627,7 @@ Sinn Féin has said the Government's proposals to restructure Rent Pressure Zone
 
 date: 2025-06-08, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7555901.1749448286!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/italy-freedom-flotilla.jpg' alt='People pose for a photo aboard a ship in the water' width='620' height='349' title='Activists of the Freedom Flotilla Coalition, board the Madleen boat, ahead of setting sail for Gaza, departing from the Sicilian port of Catania, Italy, Sunday, June 1, 2025. (AP Photo/Salvatore Cavalli)'/><p>Israeli forces stopped a Gaza-bound aid boat and detained Greta Thunberg and other activists who were on board early Monday, enforcing a long-standing blockade of the Palestinian territory that has been tightened during the war with Hamas.</p> 
+<img src='https://i.cbc.ca/1.7555901.1749448286!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/italy-freedom-flotilla.jpg' alt='People pose for a photo aboard a ship in the water' width='620' height='349' title='Activists of the Freedom Flotilla Coalition, board the Madleen boat, ahead of setting sail for Gaza, departing from the Sicilian port of Catania, Italy, Sunday, June 1, 2025. (AP Photo/Salvatore Cavalli)'/><p>Israel's Foreign Ministry says 12 activists, including Greta Thunberg, have disembarked in the Israeli port of Ashdod after their Gaza-bound boat was seized.</p> 
 
 <br> 
 
@@ -485,7 +809,7 @@ Whether it’s their first time or a routine part of their life, menstruation ha
 
 ## Drifting architects: Plankton, climate, and the race to understand our changing ocean
 
-date: 2025-06-08, from: United Nations, Top Stories
+date: 2025-06-08, from: United Nations, Climate Change
 
 They drift unseen, but everything depends on them. Plankton – the ocean’s lifeblood –&nbsp;regulate the climate, feed the seas, and shape life on Earth. Scientists along the French Riviera are in a race against time to unlock the mysteries of these tiny organisms before their decline reverberates across the planet. 
 
@@ -744,6 +1068,18 @@ date: 2025-06-08, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/national-guard-arrives-la-1.7555667?cmp=rss>
+
+---
+
+## California to sue Trump administration for deploying National Guard in Los Angeles
+
+date: 2025-06-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/ec8ae9df-c604-4e99-a39c-5badad6819fc,1749477800850/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='LA PROTESTS JUNE 8' width='620' height='349' title=''/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/california-sues-trump-1.7556324?cmp=rss>
 
 ---
 

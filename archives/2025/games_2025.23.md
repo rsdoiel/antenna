@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-06-09 06:08:34
+updated: 2025-06-09 14:07:38
 ---
 
 # games
 
-(date: 2025-06-09 06:08:34)
+(date: 2025-06-09 14:07:38)
+
+---
+
+## All character weight classes in Mario Kart World
+
+date: 2025-06-09, updated: 2025-06-09, from: Polygon Website
+
+Weight classes in Mario Kart World work much like they do in Mario Kart 8, in that they determine how a kart performs. With no kart customization in World, though, a character’s weight class is the sole influencing factor on your kart’s stats. There’s no quick-and-easy way to see who belongs in what category, and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mario-kart-world-guides/605739/weight-classes-all-characters-list-sizes>
+
+---
+
+## How to unlock characters in Mario Kart World
+
+date: 2025-06-09, updated: 2025-06-09, from: Polygon Website
+
+There are a ton of characters in Mario Kart World (50 to be exact), but you have to unlock a few of them first. If you’re rushing to unlock Cataquack or Rosalina, you’ll want to know the specifics for unlocking certain characters, as some require you to clear a cup, whereas others require you to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mario-kart-world-guides/603321/unlock-characters-all-how-to-methods>
+
+---
+
+## Elden Ring Nightreign’s rarest item could be hiding the game’s biggest secret
+
+date: 2025-06-09, updated: 2025-06-09, from: Polygon Website
+
+The first time I saw the Cord End on the ground in Elden Ring Nightreign, I was vexed. The enigmatic item had a simple description: “Gain entry somewhere.” Where is somewhere, you might ask? Good question. I didn’t find out during that playthrough. Painfully, I relinquished the item on the floor in the waiting area [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/605679/elden-ring-nightreign-cord-end-secret-door-twigs>
+
+---
+
+## Switch 2 is a revelation for hardcore Animal Crossing fans
+
+date: 2025-06-09, updated: 2025-06-09, from: Polygon Website
+
+Animal Crossing: New Horizons had the world in a chokehold during the pandemic, but it’s been five years since Nintendo’s cozy simulator. Even with updates and daily gameplay mechanics, many of us have moved on to newer games. Then there are the people who have diligently cultivated their islands since day one. They’re still playing [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/605719/animal-crossing-new-horizons-performance-acnh>
+
+---
+
+## Ironeye remembrance quest walkthrough in Elden Ring Nightreign
+
+date: 2025-06-09, updated: 2025-06-09, from: Polygon Website
+
+Ironeye’s Remembrance quests in Elden Ring Nightreign give you more understanding about this deadly assassin, including where they come before having been summoned to the Roundtable. The series of missions you’re sent to complete this remembrance involve not only facing special enemies but also defeating Nightreign’s final boss.&#160; Completing Ironeye’s remembrance quest is an arduous [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/603569/ironeye-remembrance-walkthrough-steps-rewards>
+
+---
+
+## I tested Xbox’s powerful — and heavy — new handheld
+
+date: 2025-06-09, updated: 2025-06-09, from: Polygon Website
+
+During a series of in-person Xbox demos at the 2025 Summer Game Fest, I got the chance to play Gears of War: Reloaded on the company’s upcoming handheld: the ROG Xbox Ally X. The 7-inch screen looks gorgeous, and the game’s remaster is a stunner no matter what size screen it’s on (I also played [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/xbox/605713/xbox-ally-x-handheld-test-review-weight-heavy>
+
+---
+
+## D&#038;D’s next big game won’t play anything like BG3 — and with the director of Jedi: Survivor, that’s the point
+
+date: 2025-06-09, updated: 2025-06-09, from: Polygon Website
+
+Stig Asmussen can finally breathe. The next game from the director of Star: Wars Jedi: Fallen Order and Survivor, one he and the team at his recently formed studio Giant Skull have worked on for more than a year, has been revealed as a giant AAA Dungeons &#38; Dragons adventure. As he puts it, the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dnd-dungeons-dragons/605631/dnd-video-game-giant-skull-wizards-interview>
+
+---
+
+## D&#038;D 5e exclusive reveal: Inside Crooked Moon’s new scarecrow and plague rat PC species
+
+date: 2025-06-09, updated: 2025-06-09, from: Polygon Website
+
+The Crooked Moon, Legends of Avantris’ folk-horror setting for Dungeons &#38; Dragons 5th edition, became the game’s most successful crowdfunding campaign to date, earning more than $4 million on Kickstarter. Ahead of the book’s June 16 release on D&#38;D Beyond, Polygon spoke with Legends of Avantris lead writer and creative director Mikey Gilder to get [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dnd-dungeons-dragons/605034/crooked-moon-settinglegend-of-avantris-harvestborn-plagueborn>
+
+---
+
+## Where is Tophat Gudetama this week in Hello Kitty Island Adventure?
+
+date: 2025-06-09, updated: 2025-06-09, from: Polygon Website
+
+Tophat Gudetama hides in a different spot in Hello Kitty Island Adventure every week, with new weeks beginning on Monday. Pochacco will task you with finding this dapper Gudetama specifically as part of a quest per week for the first two weeks (“The Laziest Egg” and “The Laziest Eggs”), though after you finish these, there [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find>
+
+---
+
+## Nintendo just gave the Zelda movie a major vote of confidence
+
+date: 2025-06-09, updated: 2025-06-09, from: Polygon Website
+
+The bad news: Nintendo and Sony Pictures have delayed the live-action The Legend of Zelda movie. The good? That delay is a mere six weeks, and puts The Legend of Zelda right at the beginning of summer blockbuster season, an indication that Nintendo and Sony are confident in Link’s ability to save the summer of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/605673/zelda-movie-delayed-nintendo-new-release-date>
 
 ---
 

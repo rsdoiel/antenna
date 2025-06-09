@@ -1,11 +1,151 @@
 ---
 title: going electric
-updated: 2025-06-09 06:08:37
+updated: 2025-06-09 14:07:42
 ---
 
 # going electric
 
-(date: 2025-06-09 06:08:37)
+(date: 2025-06-09 14:07:42)
+
+---
+
+## Auto Imports Are Cratering. Thank Tariffs
+
+date: 2025-06-09, from: Inside EVs News
+
+U.S. maritime auto import shipments just sank by more than 70%. 
+
+<br> 
+
+<https://insideevs.com/news/762138/tariff-ev-shipping-rate-felt/>
+
+---
+
+## BYD launches the Seal 06 EV at just $15,000 as a new price war in China erupts
+
+date: 2025-06-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/BYD-Seal-06-EV-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Despite China’s recent warning, <a href="https://electrek.co/guides/byd/">BYD</a> is ramping up the pressure on rivals with another ultra-affordable electric vehicle. BYD launched the Seal 06 EV, starting at just over $15,000, as the price war in China appears to be getting out of hand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="419514" href="https://electrek.co/2025/06/09/byd-seal-06-ev-launches-at-15k-as-price-war-in-china-erupts/#more-419514" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/09/byd-seal-06-ev-launches-at-15k-as-price-war-in-china-erupts/>
+
+---
+
+## US solar just had a record-breaking Q1 but the GOP bill could wreck it
+
+date: 2025-06-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/FirstSolar_Alabama.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>The US solar industry is still booming, but looming policy threats could pull the plug on that momentum.</p>
+
+
+
+<p>According to the new US Solar Market Insight report from SEIA and Wood Mackenzie, the industry installed 10.8 gigawatts (GW) of new electricity-generating solar in Q1 2025, with solar and storage making up a whopping 82% of all new capacity added to the grid.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="419528" href="https://electrek.co/2025/06/09/us-solar-just-had-a-record-breaking-q1-but-the-gop-bill-could-wreck-it/#more-419528" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/09/us-solar-just-had-a-record-breaking-q1-but-the-gop-bill-could-wreck-it/>
+
+---
+
+## EcoFlow Father’s Day Sale takes up to 49% off power stations, Rad Power RadTrike at rare $1,499, Greenworks bundle, EGO, more
+
+date: 2025-06-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/EcoFlow-Fathers-Day-Sale-FI-e1749490556145.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Kickstarting this week’s Green Deals is <a href="https://9to5toys.com/2025/06/09/ecoflow-fathers-day-sale-from-299/">EcoFlow’s newly launched Father’s Day Sale</a> with up to 49% being taken off power stations and accessories alongside a bonus sitewide discount, 2x EcoCredit rewards, and a $1,000 off coupon code for first-time subscribers. There are a bunch of great options to power Dad’s needs, like the <a href="https://9to5toys.com/2025/06/09/ecoflow-fathers-day-sale-from-299/">RIVER 2 Pro Solar Generator bundle</a> with a 160W panel for <a href="https://9to5toys.com/2025/06/09/ecoflow-fathers-day-sale-from-299/">$531</a>, among others. There’s also our spotlight on the rare discount hitting <a href="https://9to5toys.com/2025/06/09/rad-powers-radtrike-1499/">Rad Power’s RadTrike for $1,499</a> while the brand’s <a href="https://9to5toys.com/2025/06/05/rad-power-radrover-6-plus-e-bike-1399-more/">Father’s Day Sale</a> continues. We also have a few tool discounts bringing up the rear, led by the first bundle discount we’re seeing on the <a href="https://9to5toys.com/2025/06/09/greenworks-crossovert-30-inch-riding-tractor-bundle-3500/">Greenworks 60V 30-inch CrossoverT Riding Lawn Tractor</a> with four 8.0Ah batteries, one 20.0Ah battery, a wall charger, and a rear add-on bagger system – <a href="https://9to5toys.com/2025/06/09/greenworks-crossovert-30-inch-riding-tractor-bundle-3500/">all for $3,500</a>. We also have two EGO deals, the first being on the <a href="https://9to5toys.com/2025/06/09/ego-56v-5-0ah-battery-199/">56V 5.0Ah Battery for $199</a>, as well as the 56V 15-inch Cordless <a href="https://9to5toys.com/2025/06/09/ego-15-inch-carbon-fiber-powerload-string-trimmer-239/">Carbon Fiber POWERLOAD String Trimmer</a> that is at the best price in a year for <a href="https://9to5toys.com/2025/06/09/ego-15-inch-carbon-fiber-powerload-string-trimmer-239/">$239</a>. Plus, there’s all the rest of the hangover Green Deals from last week in the links at the bottom of the page, rounded together in our <a href="https://9to5toys.com/2025/06/07/electrified-weekly-segway-xafari-xyber-e-bikes-get-first-discounts-fathers-day-ev-savings-from-rad-power-lectric-more/">Electrified Weekly coverage</a>.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="419518" href="https://electrek.co/2025/06/09/ecoflow-fathers-day-sale-rad-power-greenworks-ego-more/#more-419518" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/09/ecoflow-fathers-day-sale-rad-power-greenworks-ego-more/>
+
+---
+
+## Cadillac’s new Optiq-V is an entry-level luxury sports EV with a Tesla NACS port
+
+date: 2025-06-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Cadillac-Optiq-V-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Another <a href="https://electrek.co/guides/cadillac/">Cadillac EV</a> has earned the iconic “V” badge. The 2026 Cadillac Optiq-V is a new entry-level sports electric vehicle (EV) with over 500 horsepower, sporty styling both inside and out, and additional upgrades. It’s also GM’s first vehicle with a built-in NACS port, unlocking access to Tesla Superchargers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="cadillac,gm,north-american-charging-standard-nacs" data-layer-viewtype="unknown" data-post-id="419487" href="https://electrek.co/2025/06/09/cadillac-optiq-v-an-entry-level-luxury-ev-with-a-tesla-nacs-port/#more-419487" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/09/cadillac-optiq-v-an-entry-level-luxury-ev-with-a-tesla-nacs-port/>
+
+---
+
+## 'Full Panic': Automakers Are Freaking Out As China Restricts Critical Materials
+
+date: 2025-06-09, from: Inside EVs News
+
+Critical material exports may be back on the menu, but the interruption is causing major issues for EVs and gas cars alike. 
+
+<br> 
+
+<https://insideevs.com/news/762131/china-critical-material-export-ban-2025/>
+
+---
+
+## Image leaks of Rivian’s 2026 R1T Quad Motor are starting to trickle in and we see NACS and teal
+
+date: 2025-06-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/2026-Rivian-R1T-Quad-logo.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A couple of automotive influencers appear to have gotten access to the new 2026 <a href="https://electrek.co/guides/rivian/">Rivian</a> R1T Quad Motor and shared some images. The posts showcase the new NACS charging port, a familiar exterior color, and new teal accents, including the calipers. See more below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r1t" data-layer-viewtype="unknown" data-post-id="419477" href="https://electrek.co/2025/06/09/image-leaks-rivian-2026-r1t-quad-motor-nacs-teal/#more-419477" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/09/image-leaks-rivian-2026-r1t-quad-motor-nacs-teal/>
+
+---
+
+## The 2026 Cadillac Optiq-V Is One Of The Fastest Cadillacs Ever
+
+date: 2025-06-09, from: Inside EVs News
+
+The standard Cadillac Optiq is not slow by any measure. But the Optiq-V dials the performance up to absurd levels. 
+
+<br> 
+
+<https://insideevs.com/news/762117/2026-cadillac-optiq-v-gets-tesla-charging-port/>
+
+---
+
+## Kia’s PV5 is the first to use Hyundai ‘Pleos’ software as orders open in Korea at $35,000
+
+date: 2025-06-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Kia-PV5-orders-Korea.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s first electric van is finally here. Although it <span style="margin: 0px; padding: 0px;">appears to be from the future, <a href="https://electrek.co/guides/kia-pv5/" target="_blank">the PV5</a> boasts impressive interior space, a long driving range, adva</span>nced technology, and a range of features. It’s offered in a variety of different configurations, including an upcoming refrigerated truck, a light camper, and a luxury “Prime” model. With orders opening in Korea this week, we are learning a little more about what to expect from the Kia PV5 before it rolls out globally.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-pv5" data-layer-viewtype="unknown" data-post-id="419456" href="https://electrek.co/2025/06/09/kia-pv5-debuts-hyundai-pleos-software-orders-open-korea/#more-419456" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/09/kia-pv5-debuts-hyundai-pleos-software-orders-open-korea/>
 
 ---
 

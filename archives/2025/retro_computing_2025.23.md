@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-06-09 06:08:36
+updated: 2025-06-09 14:07:41
 ---
 
 # retro computing
 
-(date: 2025-06-09 06:08:36)
+(date: 2025-06-09 14:07:41)
+
+---
+
+## b.log 2025/06/09 - Notebook battery, Custom landscapes for Stellarium [tutorial], My happy word, Winning Euromillions.
+
+date: 2025-06-09, from: Richard Murray's blog
+
+Notebook battery, Custom landscapes for Stellarium [tutorial], My happy word, Winning Euromillions. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250609>
 
 ---
 

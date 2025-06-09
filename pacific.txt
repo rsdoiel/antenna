@@ -107,6 +107,11 @@ https://www.meripmicronesia.org/feed/ "~MERIP News, Marine Environment Ressearch
 #https://www.islandconservation.org/feed/ "Island Conservation News"
 
 #
+# New Zealand
+#
+https://www.rnz.co.nz/rss/pacific.xml
+
+#
 # FSM Feeds
 #
 #http://www.fsmdb.fm/feed/ "FSM Development Bank News" # Discovered vandalized content 2024-10-24, appears to be advertising casinos and things.

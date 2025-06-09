@@ -1,11 +1,25 @@
 ---
 title: health
-updated: 2025-06-09 06:08:37
+updated: 2025-06-09 14:07:41
 ---
 
 # health
 
-(date: 2025-06-09 06:08:37)
+(date: 2025-06-09 14:07:41)
+
+---
+
+## Chickpea Avocado Salad
+
+date: 2025-06-09, from: The Kidney Dietitian
+
+<p>Are you craving something fresh, light, and full of flavor? This low sodium chickpea avocado salad is packed with fiber and healthy fats, making it a delicious and nutritious option! This recipe is easily [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/chickpea-avocado-salad/">Chickpea Avocado Salad</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<br> 
+
+<https://www.thekidneydietitian.org/chickpea-avocado-salad/>
 
 ---
 

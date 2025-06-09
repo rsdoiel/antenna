@@ -1,11 +1,121 @@
 ---
 title: pacific
-updated: 2025-06-09 06:08:31
+updated: 2025-06-09 14:07:35
 ---
 
 # pacific
 
-(date: 2025-06-09 06:08:31)
+(date: 2025-06-09 14:07:35)
+
+---
+
+## Tonga princess calls for legal rights for whales
+
+date: 2025-06-09, from: 
+
+"The time has come to recognise whales not merely as resources but as sentient beings with inherent rights." 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563624/tonga-princess-calls-for-legal-rights-for-whales>
+
+---
+
+## Vassilis Syrmos appointed interim provost of UH Mānoa
+
+date: 2025-06-09, from: University of Hawaiʻi News
+
+<p>Syrmos will succeed Michael Bruno, who announced on May 5 that he will return to the faculty on July 1 after serving as provost since 2019.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/09/syrmos-interim-provost-uh-manoa/">Vassilis Syrmos appointed interim provost of <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/09/syrmos-interim-provost-uh-manoa/>
+
+---
+
+## More than skepticism, vaccine challenge on Guam is a bureaucratic issue
+
+date: 2025-06-09, from: Pacific Island Times
+
+Limited access to immunization is a problem that Guam’s indigent population runs into. Since most rely on Medicaid for their healthcare services, the only places where they can be immunized are Guam DPHSS or one of the very few smaller clinics that accept Medicaid. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/more-than-skepticism-vaccine-challenge-on-guam-is-a-bureaucratic-issue>
+
+---
+
+## Security support for Mini Games as Team Palau confirmed
+
+date: 2025-06-09, from: 
+
+Palau will have the largest team among the 22 participating Pacific nations. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563612/security-support-for-mini-games-as-team-palau-confirmed>
+
+---
+
+## Pacific news in brief for 10 June
+
+date: 2025-06-09, from: 
+
+A round-up of news in brief from around the region, including steps to address PALM concerns in Australia. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563618/pacific-news-in-brief-for-10-june>
+
+---
+
+## Bougainville independence talks underway at military camp near Christchurch
+
+date: 2025-06-09, from: 
+
+In 2019, 97.7 percent of Bougainvilleans voted for independence. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563609/bougainville-independence-talks-underway-at-military-camp-near-christchurch>
+
+---
+
+## French court postpones release of Kanak leader following appeal
+
+date: 2025-06-09, from: 
+
+A Parisian appellate court has delayed the release of New Caledonia's Kanak pro-independence leader, Christian Téin, from custody following an appeal by prosecutors. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563485/french-court-postpones-release-of-kanak-leader-following-appeal>
+
+---
+
+## Nature, not geopolitics, remains region’s biggest threat - CNMI official
+
+date: 2025-06-09, from: 
+
+The top military affairs official in the CNMI said that while geopolitical tensions continue to make headlines, the region's most immediate and consistent threat remains environmental. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563597/nature-not-geopolitics-remains-region-s-biggest-threat-cnmi-official>
+
+---
+
+## On the federal chopping block: UH program serving ʻohana, keiki, kupuna
+
+date: 2025-06-09, from: University of Hawaiʻi News
+
+<p>A longtime nutrition education program at <abbr>CTAHR</abbr> helping local families fight hunger could lose federal funding.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/09/on-the-federal-chopping-block-uh-program-serving-ohana-keiki-kupuna/">On the federal chopping block: <abbr>UH</abbr> program serving ʻohana, keiki, kupuna</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/09/on-the-federal-chopping-block-uh-program-serving-ohana-keiki-kupuna/>
 
 ---
 
@@ -173,6 +283,18 @@ Corruption remains a persistent issue across many regions of the world, and diff
 
 ---
 
+## Investigation after alleged rape of detained woman in PNG
+
+date: 2025-06-09, from: 
+
+Investigation is underway within Papua New Guinea police to determine how a former policeman who served time for rape was allowed to rejoin the police force. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563548/investigation-after-alleged-rape-of-detained-woman-in-png>
+
+---
+
 ## Forget about getting caught in the crosshairs, we’re stuck on the seesaw
 
 date: 2025-06-09, from: Pacific Island Times
@@ -182,6 +304,18 @@ Rep. Ed Case of Hawaii reintroduced the “Our Pacific Partnership Act” in the
 <br> 
 
 <https://www.pacificislandtimes.com/post/forget-about-getting-caught-in-the-crosshairs-we-re-stuck-on-the-seesaw>
+
+---
+
+## Increased movement of people making dengue outbreaks more common, says mosquito expert
+
+date: 2025-06-09, from: 
+
+Greg Devine said mosquitos that carry the virus "hitchhike around the world" and the increased movement of people is increasing those infected by dengue. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563545/increased-movement-of-people-making-dengue-outbreaks-more-common-says-mosquito-expert>
 
 ---
 
@@ -199,6 +333,30 @@ date: 2025-06-09, from: University of the South Pacific (Fiji)
 
 ---
 
+## 'Act responsibly for humankind' - Palau president on deep sea mining order
+
+date: 2025-06-08, from: 
+
+Palau's president says the US order to fast-track deep sea mining is not a good idea. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563533/act-responsibly-for-humankind-palau-president-on-deep-sea-mining-order>
+
+---
+
+## Moana Pasifika review: Mass exodus and late drubbings take gloss off shining season
+
+date: 2025-06-08, from: 
+
+Jonty Dine looks back at Moana Pasifika's historic Super Rugby Pacific season. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/sport/563380/moana-pasifika-review-mass-exodus-and-late-drubbings-take-gloss-off-shining-season>
+
+---
+
 ## Shaping Climate-Resilient Cities in the Pacific
 
 date: 2025-06-08, from: University of the South Pacific (Fiji)
@@ -210,6 +368,30 @@ date: 2025-06-08, from: University of the South Pacific (Fiji)
 <br> 
 
 <https://www.usp.ac.fj/news/shaping-climate-resilient-cities-in-the-pacific-2/>
+
+---
+
+## Polio vaccines set to arrive in PNG next week, says health minister
+
+date: 2025-06-08, from: 
+
+The World Health Organisation declared an outbreak of the disease in PNG last month. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563527/polio-vaccines-set-to-arrive-in-png-next-week-says-health-minister>
+
+---
+
+## Call for CNMI leaders to fight back on high airfares
+
+date: 2025-06-08, from: 
+
+The former representative shared his frustration after attempting to book a four-day roundtrip ticket from Guam to Saipan. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563528/call-for-cnmi-leaders-to-fight-back-on-high-airfares>
 
 ---
 
@@ -246,6 +428,54 @@ date: 2025-06-08, from: Pacific Island Times
 <br> 
 
 <https://www.pacificislandtimes.com/post/the-race-for-dominance-guam-and-micronesia-caught-in-shifting-balance-of-power>
+
+---
+
+## Pasifika Sipoti in brief for 9 June
+
+date: 2025-06-08, from: 
+
+A round-up of sports news in brief from around the region. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563505/pasifika-sipoti-in-brief-for-9-june>
+
+---
+
+## CNMI Congresswoman urges fix to 'untenable' mail delays
+
+date: 2025-06-08, from: 
+
+Delegate Kimberly King-Hinds is calling for urgent reforms from the United States Postal Service. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563497/cnmi-congresswoman-urges-fix-to-untenable-mail-delays>
+
+---
+
+## 'Pacific solutions are indeed global solutions' - Pacific Ocean commissioner heading to summit
+
+date: 2025-06-08, from: 
+
+Pacific leaders are heading to the third UN Ocean Conference which kicks off on Monday in Nice, France. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563496/pacific-solutions-are-indeed-global-solutions-pacific-ocean-commissioner-heading-to-summit>
+
+---
+
+## Migrant communities celebrate parent visa, amid concerns it'll lock many out
+
+date: 2025-06-08, from: 
+
+Migrant communities are hailing a new visa which will allow parents of New Zealand citizens and residents to visit multiple times over a five-year period. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/political/563470/migrant-communities-celebrate-parent-visa-amid-concerns-it-ll-lock-many-out>
 
 ---
 
@@ -553,6 +783,18 @@ date: 2025-06-08, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/06/08/features/volcano-watch-what-fans-the-flames-observed-at-volcanic-vents/>
+
+---
+
+## The Fijian pilot inspiring the next generation of Pacific aviators
+
+date: 2025-06-08, from: 
+
+When Salote Mataitini first dreamed of becoming a pilot, she was a child reading newspaper articles about aviators, long before iPhones or social media. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563364/the-fijian-pilot-inspiring-the-next-generation-of-pacific-aviators>
 
 ---
 
