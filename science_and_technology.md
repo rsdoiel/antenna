@@ -1,11 +1,275 @@
 ---
 title: science and technology
-updated: 2025-06-10 06:08:46
+updated: 2025-06-10 14:08:57
 ---
 
 # science and technology
 
-(date: 2025-06-10 06:08:46)
+(date: 2025-06-10 14:08:57)
+
+---
+
+## Apple releases Containerization, a Swift package for running Linux containers on macOS
+
+date: 2025-06-10, from: OS News
+
+As part of its WWDC announcements, Apple has unveiled Containerization, which uses macOS&#8217; virtualisation framework to run Linux containers on Apple Silicon Macs. Containerization executes each Linux container inside of its own lightweight virtual machine. Clients can create dedicated IP addresses for every container to remove the need for individual port forwarding. Containers achieve sub-second start times using an optimized Linux kernel configuration and a minimal root filesystem with a lightweight init system. vminitd is a small init system, which is a subproject within Containerization. vminitd is spawned as the initial process inside of the virtual machine and provides a GRPC API over vsock. The API allows the runtime environment to be configured and containerized processes to be launched. vminitd provides I/O, signals, and events to the calling process when a process is ran. ↫ Containerization GitHub page Alongside this new tool, Apple also released container, which creates and runs OCI-compliant container images. Yes, both of these names are horribly generic and are definitely going to lead to confusion in online discussions and writing, but the tools themselves seem quite nice. People stuck on macOS who need to do Linux work can now easily get their work done on macOS &#8211; if you&#8217;re okay with using Electron for developers, of course, which is what containers really are. Clearly, nobody can ignore Linux, not even Apple or Microsoft. 
+
+<br> 
+
+<https://www.osnews.com/story/142540/apple-releases-containerization-a-swift-package-for-running-linux-containers-on-macos/>
+
+---
+
+## Apple-Intel divorce to be final next year
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>After twenty years, it&#39;s Intel outside</h4> <p>Apple&#39;s macOS operating system will drop support for Intel chips next year, marking the end of a twenty-year relationship.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/apple_macos_26_last_intel_support/>
+
+---
+
+## Trump administration's whole-government AI plans leaked on GitHub
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>The AI.gov repository and staging site vanished when we asked questions, but don&#39;t worry - we captured backups</h4> <p>We&#39;re less than a month away from the Trump administration&#39;s launch of an initiative to push AI across the entire federal government, based on a code repository eagle-eyed onlookers spotted on GitHub before it disappeared. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/trump_admin_leak_government_ai_plans/>
+
+---
+
+## Cisco Borgs all its management tools into a single Cloud Control console
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Not just a salve for netadmins – this is also a play to ensure Switchzilla is AI-relevant</h4> <p><strong>Cisco Live</strong>  There’s light at the end of the tunnel for netadmins tired of juggling multiple management consoles: Cisco announced it’s testing a tool called Cloud Control that will drive all its networking, security, and observability tools – and hopefully make the biz more relevant in the AI era.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/cisco_live_cloud_control_news/>
+
+---
+
+## Tinfoil hat wearers can thank AI for declassification of JFK docs
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Plus: AWS launches second Secret-level cloud region</h4> <p>AI has been a &#34;game changer&#34; for the intelligence community, according to US Director of National Intelligence Tulsi Gabbard, who noted two key applications of the technology for classified government work at the Amazon Web Services DC Summit on Tuesday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/tulsi_gabbard_aws_summit/>
+
+---
+
+## Texas warns 300,000 crash reports siphoned via compromised user account
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Lone Star State drivers with accident records need to be careful about fraud</h4> <p>The Texas Department of Transportation says a compromised user account was used to improperly download nearly 300,000 crash reports, exposing personal data that could be exploited for financial fraud against Lone Star drivers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/texas_accident_report_theft/>
+
+---
+
+## High Above the World
+
+date: 2025-06-10, from: NASA breaking news
+
+NASA astronaut Franklin Chang-Diaz works with a grapple fixture during a June 2002 spacewalk outside of the International Space Station. He was partnered with CNES (Centre National d&#8217;Etudes Spatiales) &#160;astronaut Philippe Perrin for the spacewalk – one of three that occurred during the STS-111 mission. Chang-Diaz was part of NASA’s ninth class of astronaut candidates. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/high-above-the-world/>
+
+---
+
+## Frigid Exoplanet in Strange Orbit Imaged by NASA’s Webb
+
+date: 2025-06-10, from: NASA breaking news
+
+A planetary system described as abnormal, chaotic, and strange by researchers has come into clearer view with NASA’s James Webb Space Telescope. Using Webb’s NIRCam (Near-Infrared Camera), researchers have successfully imaged one of two known planets surrounding the star 14 Herculis, located 60 light-years away from Earth in our own Milky Way galaxy. The exoplanet, […] 
+
+<br> 
+
+<https://science.nasa.gov/universe/exoplanets/frigid-exoplanet-in-strange-orbit-imaged-by-nasas-webb/>
+
+---
+
+## Judge cites big OPM records leaks from 2015 in DOGE slapdown
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Federal court blocks further data sharing, blasts lack of safeguards</h4> <p>The US federal government&#39;s HR department violated the law and bypassed its own cybersecurity safeguards by giving DOGE affiliates access to personnel records, a federal judge ruled Monday, issuing a preliminary injunction to halt further disclosures.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/judge_doge_opm_records/>
+
+---
+
+## Probability of Asteroid 2024 YR4 hitting the Moon increases
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Scientists improve knowledge by 20% thanks to James Webb Space Telescope data</h4> <p>The chance of Asteroid 2024 YR4 hitting the Moon has increased, according to boffins making observations from the James Webb Space Telescope.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/asteroid_2024_yr4_update/>
+
+---
+
+## I Am Artemis: Ernesto Garcia
+
+date: 2025-06-10, from: NASA breaking news
+
+Listen to this audio excerpt from Ernesto Garcia, Rayotech Scientific engineering manager: My name is Ernesto Garcia, and I am an engineering manager at Rayotech Scientific in San Diego, in charge of fabricating the windowpanes for the Orion spacecraft. Fabricating Orion’s windowpanes entails a very strict manufacturing process. It involves first starting from a giant [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/orion/i-am-artemis-ernesto-garcia/>
+
+---
+
+## Forked-off Xlibre tells Wayland display protocol to DEI in a fire
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Project to modernize the X.org X11 server seems to actively court controversy</h4> <p>The recently released Xlibre server aims to modernize the X.org X11 server and improve both its security and performance.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/xlibre_new_xorg_fork/>
+
+---
+
+## NASA F-15s Validate Tools for Quesst Mission
+
+date: 2025-06-10, from: NASA breaking news
+
+High over the Mojave Desert, two NASA F-15 research jets made a series of flights throughout May to validate tools designed to measure and record the shock waves that will be produced by the agency’s X-59 quiet supersonic experimental aircraft. The F-15s, carrying the recording tools, flew faster than the speed of sound, matching the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-f-15s-validate-tools-for-quesst-mission/>
+
+---
+
+## Critical Wazuh bug exploited in growing Mirai botnet infection
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>The open-source XDR/SIEM provider’s servers are in other botnets’ crosshairs too</h4> <p>Cybercriminals are trying to spread multiple Mirai variants by exploiting a critical Wazuh vulnerability, researchers say – the first reported active attacks since the code execution bug was disclosed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/critical_wazuh_bug_exploited_in/>
+
+---
+
+## MacOS 26 is the final Intel version, sucks to be a 2023 Intel Mac Pro owner
+
+date: 2025-06-10, from: OS News
+
+macOS Tahoe is the final software update that Intel-based Macs will get, as Apple works to phase them out following its transition to Apple silicon. During its Platforms State of the Union event, Apple said that Intel Macs won&#8217;t get macOS 27, coming next year, though there could still be updates that add security fixes. ↫ Juli Clover at MacRumors Not particularly surprising, but definitely not great for someone who bought one of those ungodly expensive Intel Mac Pro only a few years ago &#8211; it wasn&#8217;t taken off the shelves until 2023. That&#8217;s a hard pill to swallow, and definitely something I do not think should be legal. 
+
+<br> 
+
+<https://www.osnews.com/story/142538/macos-26-is-the-final-intel-version-sucks-to-be-a-2023-intel-mac-pro-owner/>
+
+---
+
+## NASA Student Challenge Prepares Future Designers for Lunar Missions
+
+date: 2025-06-10, from: NASA breaking news
+
+At NASA’s Johnson Space Center in Houston, the next generation of lunar explorers and engineers are already hard at work. Some started with sketchbooks and others worked with computer-aided design files, but all had a vision of how design could thrive in extreme environments.Thanks to NASA’s Student Design Challenge, Spacesuit User Interface Technologies for Students [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/nasa-student-challenge-prepares-future-designers-for-lunar-missions/>
+
+---
+
+## Google outfoxed by crafty squatters in $1B London HQ's rooftop garden
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Vulpes vulpes has run of five-story park before staffers move in</h4> <p>Over a billion dollars, a renowned architect, and more than a decade under construction haven&#39;t prevented Google being beaten to its new London digs by unexpected tenants – urban foxes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/fox_google_london_hq/>
+
+---
+
+## Microsoft rolls out Windows 11 Start Menu updates
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Windows Insiders will be first to see if the Windows 10 itch has been scratched</h4> <p>The latest changes to Microsoft&#39;s Start Menu are being rolled out to Windows Insiders in the Dev Channel. However, users in the European Economic Area have a little longer to wait for the promised Android and IOS device integration.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/microsoft_rolls_out_windows_11/>
+
+---
+
+## Windowing, menu bar, and background processes come to iPadOS
+
+date: 2025-06-10, from: OS News
+
+For years now &#8211; it feels more like decades, honestly &#8211; Apple has been trying a variety of approaches to make the iPad more friendly to power users, most notably by introducing, and subsequently abandoning, various multitasking models. After its most recent attempts &#8211; Stage Manager &#8211; fell on deaf ears, the company has thrown its hands up in the air and just implemented what we all wanted on the iPad anyway: a normal windowing environment. Apple today revealed an overhaul of iPad multitasking, introducing a completely new windowing system, a macOS-style Menu Bar, a pointer, and more. The centerpiece of the multitasking improvements is a new macOS-style windowing system. Apps still launch in full-screen by default, preserving the familiar ‌iPad‌ experience, but users can now resize apps into windows using a new grab handle. If an app was previously used in a windowed state, it will remember that layout and reopen the same way next time. ↫ Hartley Charlton at MacRumors The new window manager includes tiling features, Exposé, support for multiple displays, and swiping twice on the home button will minimise all open windows. It&#8217;s literally the macOS way of managing windows transplanted onto the iPad, with some small affordances for touch input. This is excellent news, and should make the multitasking features of the iPad, which, at this point, is as powerful as a MacBook, much more accessible and effortless than all those hidden gesture-based features from before. The amount of RAM in your iPad seems to determine how many active windows you can have open before the older ones get put to sleep, from four on the oldest iPad Pro models, to many more on the most recent models. Any windows above that limit will still be visible, but will just be a screenshot of their most recent state until you interact with them again. Any windows above a limit of twelve will be pushed to the recents screen instead. In addition, and almost just as important, iPadOS 26 also introduces proper background processes, allowing applications to actually keep running in the background instead of being put to sleep. Anyone who has ever done any serious work on an iPad that involves long processes like exporting a video will consider this a godsend. Now all we need is a proper terminal and Xcode and the iPad can be a real computer. 
+
+<br> 
+
+<https://www.osnews.com/story/142536/windowing-menu-bar-and-background-processes-come-to-ipados/>
+
+---
+
+## FreeBSD 14.3 released
+
+date: 2025-06-10, from: OS News
+
+FreeBSD 14.3 has been released, an important point release for those of us using the FreeBSD 14.x branch. This release brings 802.11ac (Wi-Fi 5) support to many modern laptop wireless chips, OCI container images are now available in Docker and GitHub repositories, and a number of cornerstone packages have been updated to their latest versions. 
+
+<br> 
+
+<https://www.osnews.com/story/142534/freebsd-14-3-released/>
+
+---
+
+## ‘Dystopian tales of that time when I sold out to Google’
+
+date: 2025-06-10, from: OS News
+
+If you ever wanted to know what it was like to be an engineer at Google during the early to late 2000s, here you go. Now even though Google is fundamentally a spyware advertising company (some 80% of its revenue is advertising; the proportion was even higher back then), we Engineers were kept carefully away from that reality, as much as meat eaters are kept away from videos of the meat industry: don&#8217;t think about it, just enjoy your steak. If you think about it it will stop being enjoyable, so we just churned along, pretending to work for an engineering company rather than for a giant machine with the sole goal of manipulating people into buying cruft. The ads and business teams were on different floors, and we never talked to them. ↫ Elilla Even back then, Google knew full well that what they were doing and working towards was deeply problematic and ethically dubious, at best, and reading about how young, impressionable Google engineers at the time figured that out by themselves is kind of heartbreaking. In those days, Google tried really hard to cultivate an image of being different than Apple or Microsoft, a place where employees were treated better and had more freedom, working for a company trying to make the web a better place. Of course, none of that was actually true, but for a short while back then, a lot of people fell for it &#8211; yes, including you, even if you now say you didn&#8217;t &#8211; and reading about the experiences from people on the inside at the time, it was never actually true. 
+
+<br> 
+
+<https://www.osnews.com/story/142532/dystopian-tales-of-that-time-when-i-sold-out-to-google/>
+
+---
+
+## Trump guts digital ID rules, claims they help 'illegal aliens' commit fraud
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Also axes secure software mandates - optional is the new secure, apparently</h4> <p>President Donald Trump late Friday signed a cybersecurity-focused executive order that, in the White House&#39;s words, &#34;amends problematic elements of Obama and Biden-era Executive Orders.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/trump_cybersecurity_eo_digital_ids/>
 
 ---
 
@@ -13,7 +277,7 @@ updated: 2025-06-10 06:08:46
 
 date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
 
-<h4>Oh, great – now who&#39;ll do my thinking for me?</h4> <p>If you&#39;re having trouble getting ChatGPT to do your work for you this morning, you wouldn&#39;t be alone. It appears OpenAI services are experiencing a variety of issues.…</p> 
+<h4>Oh, great – now who&#39;ll do my thinking for me?</h4> <p><strong>Updated</strong>  If you&#39;re having trouble getting ChatGPT to do your work for you this morning, you wouldn&#39;t be alone. It appears OpenAI services are experiencing a variety of issues.…</p> 
 
 <br> 
 
@@ -325,7 +589,7 @@ date: 2025-06-09, updated: 2025-06-09, from: The Register (UK I.T. News)
 
 date: 2025-06-09, from: NASA breaking news
 
-Consisting of 99% air, aerogel is the world’s lightest solid. This unique material has found purpose in several forms — from NASA missions to high fashion. Driven by the desire to create a 3D cloud, Greek artist, Ioannis Michaloudis, learned to use aerogel as an artistic medium. His journey spanning more than 25 years took [&#8230;] 
+Consisting of 99% air, aerogel is the world’s lightest solid. This unique material has found purpose in several forms — from NASA missions to high fashion. Driven by the desire to create a 3D cloud, Greek artist Ioannis Michaloudis learned to use aerogel as an artistic medium. His journey spanning more than 25 years took [&#8230;] 
 
 <br> 
 

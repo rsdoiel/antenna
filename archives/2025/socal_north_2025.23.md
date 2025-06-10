@@ -1,11 +1,134 @@
 ---
 title: socal north
-updated: 2025-06-10 06:08:44
+updated: 2025-06-10 14:08:56
 ---
 
 # socal north
 
-(date: 2025-06-10 06:08:44)
+(date: 2025-06-10 14:08:56)
+
+---
+
+## How ICE's presence in Los Angeles affects LAUSD students as summer begins
+
+date: 2025-06-10, updated: 2025-06-10, from: The LAist
+
+A series of immigration enforcement actions and the resulting protests are reshaping the end of the school year in the Los Angeles Unified School District. 
+
+<br> 
+
+<https://laist.com/news/education/immigration-customs-enforcement-los-angeles-lausd-students-summer>
+
+---
+
+## Faced with rising temps, Las Vegas is embracing a simple climate solution: more trees
+
+date: 2025-06-10, updated: 2025-06-10, from: The LAist
+
+Climate change is driving more dangerous summer heat across the U.S. Las Vegas, which reached 120 degrees last summer, is planting thousands of trees to help cool its hottest neighborhoods. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/faced-with-rising-temps-las-vegas-is-embracing-a-simple-climate-solution-more-trees>
+
+---
+
+## 3.4 magnitude quake strikes off the coast of Manhattan Beach
+
+date: 2025-06-10, updated: 2025-06-10, from: The LAist
+
+Shaking was likely felt as far away as downtown Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/3-4-magnitude-quake-strikes-off-the-coast-of-manhattan-beach>
+
+---
+
+## National Guard troops remain staged in Paramount, a city thrust into political conflict.
+
+date: 2025-06-10, updated: 2025-06-10, from: The LAist
+
+The city of Paramount became a national flashpoint when immigration agents descended on a business park. 
+
+<br> 
+
+<https://laist.com/news/politics/a-national-guard-paramount-a-city-thrust-into-a-political-flashpoint>
+
+---
+
+## 5 simple (and cheap) things to make your house use less energy
+
+date: 2025-06-10, updated: 2025-06-10, from: The LAist
+
+Sometimes reducing your home's energy use can be as simple as opening a window or buying tape. Here are five easy ways to have a more climate-friendly home and save on energy bills at the same time. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/5-simple-and-cheap-things-to-make-your-house-use-less-energy>
+
+---
+
+## Amid ecological decline at Salton Sea, Audubon California finds 15% increase in shore birds
+
+date: 2025-06-10, updated: 2025-06-10, from: The LAist
+
+Scientists say the findings should push public officials to do more to conserve migratory bird habitat elsewhere in the state. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/salton-sea-audubon-california-finds-increase-in-shore-birds>
+
+---
+
+## Newsom-Trump truce explodes as president deploys troops against the governor's wishes
+
+date: 2025-06-10, updated: 2025-06-10, from: The LAist
+
+Newsom is now questioning the president’s mental fitness and called him a “stone cold liar.” 
+
+<br> 
+
+<https://laist.com/news/politics/newsom-trump-truce-explodes-as-president-deploys-troops-against-the-governors-wishes>
+
+---
+
+## Conservation experts are helping fire victims save their precious art and heirlooms — for free
+
+date: 2025-06-10, updated: 2025-06-10, from: The LAist
+
+The sold-out Conservation Clinic will be held at The Getty Center this Saturday, but another is planned for this fall. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/conservation-experts-helping-fire-victims-save-their-precious-art-and-heirlooms-for-free>
+
+---
+
+## What powers does Trump have to send troops to cities — even if they don't want them?
+
+date: 2025-06-10, updated: 2025-06-10, from: The LAist
+
+President Trump ordered California National Guard troops to Los Angeles to quell anti-immigration enforcement protests. Experts explain the laws that enable him to make this extraordinary move. 
+
+<br> 
+
+<https://laist.com/news/what-powers-does-trump-have-to-send-troops-to-cities-if-they-dont-want-them>
+
+---
+
+## FBI says they’ve identified man who threw rocks at federal vehicles in Paramount
+
+date: 2025-06-10, from: Longbeach Post
+
+<figure><img width="1024" height="506" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-1024x506.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-1024x506.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-300x148.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-768x380.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-192x95.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-400x198.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>"He is considered a fugitive and the FBI is currently seeking his whereabouts," an FBI spokesperson said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/fbi-says-theyve-identified-man-who-threw-rocks-at-federal-vehicles-in-paramount">FBI says they&#8217;ve identified man who threw rocks at federal vehicles in Paramount</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/fbi-says-theyve-identified-man-who-threw-rocks-at-federal-vehicles-in-paramount>
 
 ---
 
@@ -49,7 +172,7 @@ For all the Southern California space fans, the full moon Tuesday night into Wed
 
 date: 2025-06-10, from: Longbeach Post
 
-<figure><img width="1024" height="560" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-1024x560.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-1024x560.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-300x164.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-768x420.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-192x105.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-400x219.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="560" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-1024x560.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-1024x560.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-300x164.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-768x420.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-192x105.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-400x219.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Troops are still staged in Paramount, a city that was suddenly thrust into a monumental political conflict when immigration agents amassed in a business park.</p>
 <p>The post <a href="https://lbpost.com/news/paramount-national-guard-aftermath-protest-trump">Sudden chaos, now a National Guard station: The scene in Paramount after a national flashpoint</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

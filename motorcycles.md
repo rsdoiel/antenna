@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2025-06-10 06:08:50
+updated: 2025-06-10 14:09:02
 ---
 
 # motorcycles
 
-(date: 2025-06-10 06:08:50)
+(date: 2025-06-10 14:09:02)
+
+---
+
+## Watch a CFMoto ATV's Load Capacity Get Pushed to Its Absolute Limits By a Big Bear
+
+date: 2025-06-10, from: Ride Apart, Electric Motorcycle News
+
+Sir, I believe you're (checks notes) 300 pounds over the limit... 
+
+<br> 
+
+<https://www.rideapart.com/news/762171/cfmoto-atv-load-capacity-black-bear-elkshape-video/>
+
+---
+
+## This New Motorcycle Jacket Will Make Your 'Akira' Dreams Come True
+
+date: 2025-06-10, from: Ride Apart, Electric Motorcycle News
+
+What's a little moto cosplay without the proper jacket? 
+
+<br> 
+
+<https://www.rideapart.com/news/762142/spidi-pit-lane-akira-motorcycle-jacket/>
 
 ---
 

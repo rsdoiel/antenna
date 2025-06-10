@@ -1,11 +1,52 @@
 ---
 title: journalism
-updated: 2025-06-10 06:08:48
+updated: 2025-06-10 14:09:00
 ---
 
 # journalism
 
-(date: 2025-06-10 06:08:48)
+(date: 2025-06-10 14:09:00)
+
+---
+
+## The COC Inter-Cultural Center hosted a special screening of ‘Liquor Store Dreams’
+
+date: 2025-06-10, from: The Canyon News (COC Student Newspaper)
+
+<p>Underneath Bonelli Hall lies the Intercultural Center—a safe space for historically marginalized&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/liquor-store-dreams/">The COC Inter-Cultural Center hosted a special screening of &#8216;Liquor Store Dreams&#8217;</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/liquor-store-dreams/>
+
+---
+
+## LA’s premier innovation conferences combine for inaugural LABEST Week
+
+date: 2025-06-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Bioscience and medical technology leaders convened at UCLA from May 19 to May 22, combining two of Los Angeles&#8217;s premier innovation conferences.
+The UCLA Technology Development Group united the UCLA MedTech Conference and LA Bioscience Ecosystem Summit for the inaugural LABEST Week with the hope of fostering collaboration across fields such as medical technology, therapeutics and artificial intelligence, according to a press release. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/10/las-premier-innovation-conferences-combine-for-inaugural-labest-week/>
+
+---
+
+## ‘Mosaic,’ filmed in Santa Clarita, is set to release on major streaming platforms
+
+date: 2025-06-10, from: The Canyon News (COC Student Newspaper)
+
+<p>Coming to select theaters and Amazon Prime, Mosaic is an independent film&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/mosaic-scv/">‘Mosaic,’ filmed in Santa Clarita, is set to release on major streaming platforms</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/mosaic-scv/>
 
 ---
 

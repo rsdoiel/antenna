@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-06-10 06:08:50
+updated: 2025-06-10 14:09:02
 ---
 
 # retro computing
 
-(date: 2025-06-10 06:08:50)
+(date: 2025-06-10 14:09:02)
+
+---
+
+## TuxCare Announces Support for AlmaLinux 9.2
+
+date: 2025-06-10, from: Linux Magazine
+
+<p>Thanks to TuxCare, AlmaLinux 9.2 (and soon version 9.6) now enjoys years of ongoing patching and compliance.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/TuxCare-Announces-Support-for-AlmaLinux-9.2>
 
 ---
 

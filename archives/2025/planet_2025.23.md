@@ -1,11 +1,247 @@
 ---
 title: planet
-updated: 2025-06-10 06:08:43
+updated: 2025-06-10 14:08:54
 ---
 
 # planet
 
-(date: 2025-06-10 06:08:43)
+(date: 2025-06-10 14:08:54)
+
+---
+
+## What powers is Donald Trump using to send troops to LA?
+
+date: 2025-06-10, from: RTÉ News
+
+We take a look at what powers US President Donald Trump has to invoke emergency powers to deploy US National Guard troops and active-duty marines to Los Angeles to quell protests against federal immigration raids. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0610/1517750-analysis-la-protests/>
+
+---
+
+## Certainty in short supply as Government reveals rent plan
+
+date: 2025-06-10, from: RTÉ News
+
+The Government's rent reform plan was hailed as a document that would provide the most elusive of political commodities - certainty, but that was in short supply as the plan's impact is difficult to pin down. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0610/1517749-government-rent-reform-plan-analysis/>
+
+---
+
+## Sean 'Diddy' Combs' ex accuses him of abuse
+
+date: 2025-06-10, from: RTÉ News
+
+Sean Combs's defence lawyers began questioning a woman who dated the music mogul up until his arrest. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0610/1517742-sean-combs-latest/>
+
+---
+
+## Two arrested after Limerick drive-by shooting last month
+
+date: 2025-06-10, from: RTÉ News
+
+Gardaí investigating a drive-by shooting in Limerick city last month have made a number of arrests. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0610/1517745-limerick-shooting/>
+
+---
+
+## International friendly recap: Luxembourg 0-0 Ireland
+
+date: 2025-06-10, from: RTÉ News
+
+Read how it all unfolded as Heimir Hallgrímsson, on his birthday, watched on as his side played out a lacklustre draw with Luxembourg. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0610/1517703-international-friendly-luxembourg-v-ireland-updates/>
+
+---
+
+## Court hears Puska's sisters-in-law did not know of murder
+
+date: 2025-06-10, from: RTÉ News
+
+Jozef Puska's sisters-in-law could not have known and did not believe that he murdered Ashling Murphy when they burned the clothes he was wearing at the time he stabbed the 23-year-old teacher to death, defence lawyers have told the Central Criminal Court. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0610/1517737-josef-puska-proof/>
+
+---
+
+## Special event marks Meath councillor's 40-year service
+
+date: 2025-06-10, from: RTÉ News
+
+A special event has taken place to mark Meath County Councillor Brian Fitzgerald's 40 years of public service. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0610/1517732-cllr-brian-fitzgerald/>
+
+---
+
+## TD's property firm records €840k profit over two years
+
+date: 2025-06-10, from: RTÉ News
+
+Minister of State Michael Healy Rae's property management firm, linked to the Kerry TD's Rosemont guesthouse accommodating Ukrainian citizens, has recorded combined profits of €841,908 over a two-year period, new accounts show. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0610/1517729-michael-healy-rae/>
+
+---
+
+## Auditor general finds long delays in Indian status application process
+
+date: 2025-06-10, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7224275.1717522693!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/ag-report-20240604.jpg' alt='Auditor General Karen Hogan holds a press conference at the National Press Theatre in Ottawa on Tuesday, June 4, 2024.' width='620' height='349' title='Auditor General Karen Hogan holds a press conference at the National Press Theatre in Ottawa on Tuesday, June 4, 2024.'/><p>Indigenous Services Canada's headquarters takes on average more than a year to process applications for Indian status, according to a new report by Canada's auditor general.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/auditor-general-indian-status-registration-1.7557301?cmp=rss>
+
+---
+
+## Cyclist in his 80s dies following Co Kerry collision
+
+date: 2025-06-10, from: RTÉ News
+
+A cyclist in his 80s has died following a road collision with a vehicle in Kilgarvan, Co Kerry. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0610/1517731-kerry-collision/>
+
+---
+
+## UK govt considering whether to support Philomena's Law
+
+date: 2025-06-10, from: RTÉ News
+
+The British government is considering whether to support legislation, known as 'Philomena's law', which seeks to help UK based survivors of Irish mother-and-baby homes access compensation, after over 100 MPs and Peers signed an open letter backing the proposed law. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0610/1517728-philomenas-law-support/>
+
+---
+
+## Activists seeking review as AirBnB complaint dropped
+
+date: 2025-06-10, from: RTÉ News
+
+A group of pro-Palestinian activists are seeking a judicial review against a decision by the Garda National Economic Crime Bureau (GNECB) not to proceed with a complaint filed against AirBnB in August 2023. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0610/1517725-airbnb-complaint/>
+
+---
+
+## UK household goods wholesaler tops Tax Defaulters' List
+
+date: 2025-06-10, from: RTÉ News
+
+A British-based wholesaler of household goods has topped the latest Tax Defaulters' List, with a total bill of more than €1.11m. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0610/1517717-tax-defaulters-revenue/>
+
+---
+
+## Tánaiste says nations should 'grow a backbone' on Gaza
+
+date: 2025-06-10, from: RTÉ News
+
+Civilians on boats should not be needed to highlight that children are starving in Gaza, Tánaiste and Minister for Foreign Affairs Simon Harris has said, adding that the international community needs to "grow a backbone". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0610/1517716-harris-gaza-ireland/>
+
+---
+
+## Carlow shooting incident was 'extraordinary event'
+
+date: 2025-06-10, from: RTÉ News
+
+The death of a 22-year-old man from a self-inflicted gunshot wound at a Carlow shopping centre earlier this month was "an extraordinary event", the Garda Commissioner has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0610/1517705-garda-recruit-increase/>
+
+---
+
+## Irish immigrant priest joins LA protests in solidarity
+
+date: 2025-06-10, from: RTÉ News
+
+A 90-year-old priest in Los Angeles, who is originally from Co Longford, has described the protests in the city over anti-immigration raids as very personal, as an Irish immigrant. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0610/1517696-irish-immigrant-priest-la/>
+
+---
+
+## Pupil, 14, stabs to death assistant at French school
+
+date: 2025-06-10, from: RTÉ News
+
+French President Emmanuel Macron has condemned "senseless...violence" after a 14-year-old pupil fatally stabbed a teaching assistant, the latest deadly incident at a school in the country. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0610/1517700-france-stabbing-school/>
+
+---
+
+## The changing face of faith: Pew report on global religious landscape 2010-2020
+
+date: 2025-06-10, from: Vatican News
+
+
+                    <p>The just-published report issued by the Pew Research Centre on its findings on how the world’s religious landscape has evolved over the past decade highlights demographic growth, shifting affiliations, and rising secularism. It notes that Christians remain the world’s biggest religious group, although Muslims are growing fastest.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/pew-research-center-report-global-religious-landscape-2010-2020.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/pew-research-center-report-global-religious-landscape-2010-2020.html>
+
+---
+
+## Trump orders marines to Los Angeles in response to protests against immigration raids
+
+date: 2025-06-10, from: Vatican News
+
+
+                    <p>US President Donald Trump orders California National Guardsmen and marines to L.A. in response to protests against expanded raids aimed at undocumented migrants.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/trump-orders-marines-to-los-angeles-in-response-to-protests.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/trump-orders-marines-to-los-angeles-in-response-to-protests.html>
 
 ---
 
@@ -45,6 +281,90 @@ The global fertility slump isn’t down to young people turning their backs on p
 
 ---
 
+## The battle to quiet the sea: Can the shipping industry turn down the volume?
+
+date: 2025-06-10, from: United Nations, Top Stories
+
+The ocean has never been silent – waves crashing, seabirds calling, whales singing across vast distances. But in recent decades, a new kind of noise has taken hold: the relentless hum of ships. For many marine species, this growing wall of sound is more than a nuisance – it’s a threat to their survival. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164196>
+
+---
+
+## Greed is driving oceans toward collapse
+
+date: 2025-06-10, from: United Nations, Top Stories
+
+The ocean is under siege – and greed is to blame. UN Secretary-General António Guterres on Tuesday urged world leaders and grassroots groups to confront the powerful interests driving marine destruction, from illegal fishing and plastic pollution to the accelerating impacts of climate change. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164186>
+
+---
+
+## Myanmar on the ‘path to self-destruction’ if violence does not end
+
+date: 2025-06-10, from: United Nations, Top Stories
+
+Nearly three months after a catastrophic earthquake struck Myanmar, the country continues to grapple with its aftermath alongside the brutal civil war which has devastated the country since the February 2021 military coup. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164231>
+
+---
+
+## Global action needed as progress stalls on disability-inclusive development goals
+
+date: 2025-06-10, from: United Nations, Top Stories
+
+Nearly all the Sustainable Development Goal (SDG) indicators for persons with disabilities are off track the UN deputy chief said on Tuesday, as people from around the world gathered for the largest annual meeting on disability-related issues.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164221>
+
+---
+
+## UN committed to supporting ‘free, fair and transparent election with the participation of all Iraqis’
+
+date: 2025-06-10, from: United Nations, Top Stories
+
+The top UN official in Iraq reiterated his confidence in the resilience of the country’s people, and the determination of their leaders, in a briefing to the Security Council on Tuesday.&nbsp;&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164216>
+
+---
+
+## Israeli attacks on Gaza schools could be crimes against humanity: UN probe
+
+date: 2025-06-10, from: United Nations, Top Stories
+
+The Israeli military’s destruction of Gaza’s education and cultural infrastructure amount to war crimes and the crime against humanity of extermination, a UN investigative body said on Tuesday, as humanitarian agencies warned of continued mass suffering across the Strip. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164191>
+
+---
+
+## Sudan emergency: We need more help to prevent famine, says WFP
+
+date: 2025-06-10, from: United Nations, Top Stories
+
+The very real risk of famine continues to stalk Sudan’s communities impacted by war, the UN World Food Programme (WFP) said on Tuesday, in an appeal for more funding to support immediate needs and boost longer-term recovery across the country. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164181>
+
+---
+
 ## OPW reporting harassment at Castletown House to gardaí
 
 date: 2025-06-10, from: RTÉ News
@@ -57,11 +377,23 @@ The Office of Public Works has said that it is making a report to gardaí after 
 
 ---
 
-## Cabinet briefed on civil servants' pension underpayments
+## 10 new Indigenous patient navigators will help build trust, Horizon manager says
+
+date: 2025-06-10, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7556895.1749560553!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/aaron-hatty.jpg' alt='A grinning woman with shoulder-length black hair. ' width='620' height='349' title='Aaron Hatty, Horizon’s regional manager of Indigenous health programming, said Indigenous patient navigators will do a number of tasks, including being a trusted person for Indigenous patients. '/><p>Two navigators in place since 2022 in Fredericton and Miramichi have helped Indigenous patients feel heard and less afraid, says Aaron Hatty, Horizon Health’s regional manager of Indigenous health programming.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/new-brunswick/horizon-indigenous-patient-navigators-1.7556890?cmp=rss>
+
+---
+
+## Retired civil servants to have pension deductions checked
 
 date: 2025-06-10, from: RTÉ News
 
-Minister for Public Expenditure Jack Chambers is briefing the Cabinet this morning on the underpayment of pension contributions by civil servants and politicians. 
+A pool of 13,000 retired civil servants, as well as ministers, are to have their pension deductions checked for incorrect payments, Public Expenditure Minister Jack Chambers has confirmed. 
 
 <br> 
 
@@ -81,7 +413,19 @@ There has been a significant increase in the number of new allegations notified 
 
 ---
 
-## Browne: Rent reforms aim to 'improve' tenants situation
+## Video game actors, companies reach tentative deal to end nearly year-long strike over AI
+
+date: 2025-06-10, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7368366.1730316773!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sag-aftra-video-game-strike-kick-off-picket.jpg' alt='A crowd of people are holding sings that say SAG-AFTRA Video Game Strike. A man in the centre is speaking into a microphone and raising his fist in the air. ' width='620' height='349' title='National Executive Director Duncan Crabtree-Ireland and other SAG-AFTRA members participate in a kick-off picket line for the SAG-AFTRA video game strike at Warner Bros. Games headquarters on Thursday, Aug. 1, 2024, in Burbank, Calif. Hollywood&apos;s video game performers are currently on strike, throwing part of the entertainment industry into another work stoppage after talks for a new contract with major game studios broke down over artificial intelligence protections.'/><p>The union for Hollywood's video game performers has reached a tentative contract with several video game companies, which may bring an end to an almost year-long strike tied to the use of artificial intelligence.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/video-game-actors-strike-deal-1.7556903?cmp=rss>
+
+---
+
+## As it happened: New national rent controls debated
 
 date: 2025-06-10, from: RTÉ News
 
@@ -105,6 +449,18 @@ Police in the Austrian city of Graz have confirmed that ten people, including th
 
 ---
 
+## As it happened: Graz gunman identified
+
+date: 2025-06-10, from: RTÉ News
+
+Police in the Austrian city of Graz have confirmed that ten people, including the shooter, were killed in an attack on a school. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0610/1517648-austria-school/>
+
+---
+
 ## Pope: Papal representatives embody universality of Church’s desire for peace
 
 date: 2025-06-10, from: Vatican News
@@ -121,11 +477,11 @@ date: 2025-06-10, from: Vatican News
 
 ---
 
-## Students and teachers among victims in Austria shooting
+## Former pupil kills ten in Austria school shooting
 
 date: 2025-06-10, from: RTÉ News
 
-A gunman has killed at least nine people in an attack at a secondary school in the southern Austrian city of Graz. 
+A former pupil has killed ten people and then himself at a secondary school in the southern Austrian city of Graz, in the worst school shooting in the country's modern history. 
 
 <br> 
 
@@ -145,11 +501,11 @@ Trump's unilateral decision to take federal control over the National Guard pits
 
 ---
 
-## Israeli fire kills 17 near aid site in Gaza, say medics
+## Israeli attacks attempt to 'obliterate' Palestinian life
 
 date: 2025-06-10, from: RTÉ News
 
-Israeli gunfire killed at least 17 Palestinians and wounded dozens of others as thousands of displaced people approached an aid distribution site of the US-backed Gaza Humanitarian Foundation (GHF) in central Gaza, local health authorities have said. 
+An independent United Nations commission has said Israeli attacks on schools, religious and cultural sites in Gaza amount to war crimes and constitute an attempt to "obliterate" Palestinian life. 
 
 <br> 
 
@@ -209,6 +565,18 @@ Donald Trump likes to show off his strongman credentials at cage fights and mili
 
 ---
 
+## Sandy Lake First Nation evacuations continue, hundreds have left as major wildfire burns nearby
+
+date: 2025-06-10, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7556722.1749550429!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sandy-lake-s-mamow-weechiwayin-program.jpg' alt='A group of six people are seen standing in a hotel lobby. One of them is wearing a high-vis vest.' width='620' height='349' title='Members of Sandy Lake First Nation&apos;s Mamow Weechiwayin Program, also known as the band rep program, have been working non-stop to help evacuees from the remote Oji-Cree community upon their arrival in Thunder Bay, Ont.'/><p>Hundreds of members of Sandy Lake First Nation have left the remote Oji-Cree community as a major wildfire burns nearby. Here's what we know about how evacuation efforts are going and how community members are working together to meet each other's needs.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/sandy-lake-first-nation-wildfire-evacuations-1.7556353?cmp=rss>
+
+---
+
 ## Australian mushroom murder suspect denies covering tracks
 
 date: 2025-06-10, from: RTÉ News
@@ -237,7 +605,7 @@ The family of a vulnerable resident who appeared in last week's RTÉ Investigate
 
 date: 2025-06-10, from: RTÉ News
 
-The Minister for Housing James Browne has said measures agreed by Cabinet this morning are aimed at protecting renters while also trying to activate home building in the country. 
+Minister for Housing James Browne has said measures agreed by Cabinet this morning are aimed at protecting renters while also trying to activate home building in the country. 
 
 <br> 
 
@@ -245,11 +613,11 @@ The Minister for Housing James Browne has said measures agreed by Cabinet this m
 
 ---
 
-## Trump orders marines into LA, steps up immigration raids
+## California asks court to block troop deployment in LA
 
 date: 2025-06-10, from: RTÉ News
 
-The Trump administration has ordered US marines into Los Angeles and intensified raids on suspected undocumented immigrants, fuelling more outrage from street protesters and Democratic leaders who raised concerns over a national crisis. 
+California has asked a court for a restraining order to prevent US troops being deployed on the streets of Los Angeles after President Donald Trump sent in Marines and the National Guard. 
 
 <br> 
 
@@ -261,7 +629,7 @@ The Trump administration has ordered US marines into Los Angeles and intensified
 
 date: 2025-06-10, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7550715.1748953975!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg' alt='Men carry bags of flour as theyre walking along a dirt road.' width='620' height='349' title='Palestinians carry bags filled with food and humanitarian aid provided by the Gaza Humanitarian Foundation, a U.S.-backed organization approved by Israel, in Khan Younis, southern Gaza Strip, on Tuesday, June 3, 2025. (AP Photo/Abdel Kareem Hana)'/><p>Israeli gunfire killed at least 17 Palestinians and wounded dozens of others as thousands of displaced people approached an aid distribution site of the U.S.-backed Gaza Humanitarian Foundation in central Gaza on Tuesday, local health authorities said.</p> 
+<img src='https://i.cbc.ca/1.7556965.1749564409!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza.JPG' alt='A family sits next to a person&apos;s body wrapped in white shroud.' width='620' height='349' title='Mourners react during the funeral of Palestinians killed by Israeli fire, according to the Gaza health ministry, near an aid distribution center in central Gaza, at Al-Shifa hospital, in Gaza City, June 10, 2025. REUTERS/Dawoud Abu Alkas'/><p>Israeli gunfire killed at least 17 Palestinians and wounded dozens of others as thousands of displaced people approached an aid distribution site of the U.S.-backed Gaza Humanitarian Foundation in central Gaza on Tuesday, local health authorities said.</p> 
 
 <br> 
 
@@ -281,11 +649,11 @@ Air traffic control personnel at Casement Aerodrome in Baldonnel are set to be o
 
 ---
 
-## Greta Thunberg deported from Israel after Gaza boat seized
+## Swedish activist Greta Thunberg deported from Israel, denounces Gaza 'war crimes'
 
 date: 2025-06-10, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7555902.1749448403!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/italy-freedom-flotilla.jpg' alt='A woman holding a microphone gestures as she speaks' width='620' height='349' title='Climate activist Greta Thunberg with other activists from a human rights organization meets with journalists in Catania, Italy, Sunday, June 1, 2025, ahead of their departure for the Mideast. (AP Photo/Salvatore Cavalli)'/><p>Swedish campaigner Greta Thunberg was deported from Israel on Tuesday, the Israeli Foreign Ministry said, the day after the Israeli navy prevented her and a group of fellow pro-Palestinian activists from sailing to Gaza.</p> 
+<img src='https://i.cbc.ca/1.7556885.1749559602!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza-ship.JPG' alt='Swedish activist Greta Thunberg speaks to reporters at a Paris airport.' width='620' height='349' title='Swedish activist Greta Thunberg, who departed Israel by plane on Tuesday after being detained aboard the Gaza-bound British-flagged yacht &quot;Madleen&quot; after Israeli forces boarded the charity vessel as it attempted to reach the Gaza Strip in defiance of an Israeli naval blockade, talks to journalists as she arrives at a terminal at the Paris-Charles de Gaulle Airport, in Roissy-en-France near Paris, France, June 10, 2025. REUTERS/Gonzalo Fuentes'/><p>Swedish campaigner Greta Thunberg was deported from Israel on Tuesday, one day after the Israeli navy prevented her and a group of fellow pro-Palestinian activists from sailing to Gaza.</p> 
 
 <br> 
 
@@ -353,11 +721,11 @@ The number of children living in consistent poverty rose by 45,107 in 2024 compa
 
 ---
 
-## 15 officers injured during disorder in Ballymena
+## Water cannon deployed in Ballymena amid further violence
 
 date: 2025-06-09, from: RTÉ News
 
-The PSNI has strongly condemned disorder on the streets of Ballymena last night, during which 15 officers were injured, and one man was arrested. 
+Police in Northern Ireland say they are dealing with a second night of disturbances in Ballymena Co Antrim this evening, with water cannon deployed against rioters. 
 
 <br> 
 
@@ -422,6 +790,18 @@ Mark English has become the first Irishman to break 1:44 in the 800m, lowering h
 <br> 
 
 <https://www.rte.ie/sport/athletics/2025/0609/1517566-english-makes-more-history-with-800m-win-in-netherlands/>
+
+---
+
+## Nunavik's 14 mayors call for public health emergency over tuberculosis cases
+
+date: 2025-06-09, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7556691.1749511313!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/adamie-kalingo.jpg' alt='A portrait of a man with a smile on his face.' width='620' height='349' title='Adamie Kalingo is the mayor of Ivujivik in the Nunavik region of Quebec. He and the region&apos;s 13 other mayors are calling for the province&apos;s health department to step in to address the high number of tuberculosis cases.'/><p>The mayors of 14 Inuit communities in northern Quebec are demanding the provincial government declare a public health emergency as tuberculosis cases in Nunavik reach the highest reported level in recent history.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/nunavik-s-14-mayors-call-for-public-health-emergency-over-tuberculosis-cases-1.7556459?cmp=rss>
 
 ---
 
@@ -1015,6 +1395,18 @@ date: 2025-06-09, from: Vatican News
 
 ---
 
+## The man behind 50 years of ferrying West Coast Trail hikers
+
+date: 2025-06-09, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/277ea470-9037-4ace-a62c-b7eb04eb5e5d,1749157115023/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='Carl Edgar smiling on boat thumbnail' width='620' height='349' title=''/><p>Meet Carl Edgar – the West Coast Trail legend who's celebrating his 50th season ferrying hikers across the Nitinat Narrows. Not only does he ferry hikers, he and his family run the famous Nitinat Crabshack, serving up seafood for hungry hikers for many years.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6787153?cmp=rss>
+
+---
+
 ## No senior US delegation at ocean conference
 
 date: 2025-06-09, from: RTÉ News
@@ -1544,6 +1936,18 @@ date: 2025-06-08, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/national-guard-history-presidents-trump-1.7556593?cmp=rss>
+
+---
+
+## California governor files emergency request to stop military from helping immigration raids
+
+date: 2025-06-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/fd422bb7-d04e-4911-9f62-c9134982886a,1749503698337/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C197%2C3780%2C2126%29%3BResize%3D%28620%29' alt='National Guard soldiers with riot shields stand guard outside a building with windows that have been tagged with graffiti.' width='620' height='349' title='National Guard stand guard near the metropolitan detention center Monday, June 9, 2025, in downtown Los Angeles. (AP Photo/Eric Thayer)'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/los-angeles-immigration-protests-cost-1.7556863?cmp=rss>
 
 ---
 

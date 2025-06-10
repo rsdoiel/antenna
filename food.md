@@ -1,11 +1,107 @@
 ---
 title: food
-updated: 2025-06-10 06:08:52
+updated: 2025-06-10 14:09:03
 ---
 
 # food
 
-(date: 2025-06-10 06:08:52)
+(date: 2025-06-10 14:09:03)
+
+---
+
+## Hetal Vasavada’s Sour Cream Pound Cake with Berry Compote
+
+date: 2025-06-10, from: Taste of Home
+
+There’s nothing more comforting than a buttery slice of pound cake, but when eggs and fresh berries are increasing your grocery bill, it’s time to get creative. This budget-friendly version cuts costs without sacrificing flavor or texture. I use sour cream to replace some of the eggs, which keeps the cake moist and tender while adding a subtle tang. And instead of pricey fresh berries, a bag of frozen mixed berries gets simmered into a vibrant compote that’s just as beautiful and delicious. —Hetal Vasavada, San Francisco, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/hetal-vasavada-sour-cream-pound-cake/>
+
+---
+
+## Mexico Coffee Report: Production Up Slightly while Soluble Exports Surge
+
+date: 2025-06-10, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Mexico-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Mexico" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Mexico-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Mexico-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Mexico-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Mexico-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Mexico.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Mexico’s coffee production for the 2025/26 market year (October to September) is forecast at the equivalent of 3.9 million 60-kilogram bags, a modest increase over the previous year, according to... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/10/mexico-coffee-report-production-up-slightly-while-soluble-exports-surge/>
+
+---
+
+## 7 Best Whey Protein Powders for People Who Love Food (2025)
+
+date: 2025-06-10, from: Bon Appetet
+
+The winners are surprisingly tasty. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-whey-protein-powder>
+
+---
+
+## Oakland Coffee Shop at Center of Charged DOJ Discrimination Lawsuit
+
+date: 2025-06-10, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-beans-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="coffee beans" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-beans-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-beans-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-beans-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-beans-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-beans-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The United States Department of Justice (DOJ) is accusing the owner of an Oakland, California, coffee shop of discrimination after the shop allegedly refused to serve two Jewish customers.... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/10/oakland-coffee-shop-at-center-of-charged-doj-discrimination-lawsuit/>
+
+---
+
+## Fried Cheese Curds
+
+date: 2025-06-10, from: Taste of Home
+
+Calling all Wisconsin residents (past and present)! These fried cheese curds may just be the best we've ever had. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/fried-cheese-curds/>
+
+---
+
+## The Collar Club, A Luxury Dog Spa Cafe In West Hollywood With Intelligentsia Coffee
+
+date: 2025-06-10, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Pooches and pour-overs. 
+
+<br> 
+
+<https://sprudge.com/the-collar-club-a-luxury-dog-spa-cafe-in-west-hollywood-with-intelligentsia-coffee-346928.html>
+
+---
+
+## Here’s The Story on New High-End Coffee Seller Untold Coffee Lab
+
+date: 2025-06-10, from: Daily Coffee News
+
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/untold-expo-25-620x349.jpg" class="attachment-large size-large wp-post-image" alt="untold-expo-25" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/untold-expo-25-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/untold-expo-25-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/untold-expo-25-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/untold-expo-25-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/untold-expo-25.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A new seller of ultra-premium green and roasted coffees called Untold Coffee Lab is now trying to spread the word one rare bag at a time.&#160; The company, which... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/10/heres-the-story-on-new-high-end-coffee-seller-untold-coffee-lab/>
+
+---
+
+## 39 Best Early Prime Day Kitchen Deals on Amazon 2025: Le Creuset, Breville, and KitchenAid
+
+date: 2025-06-10, from: Bon Appetet
+
+Replace your worn out kitchen towels, send your dad an espresso machine, and finally get that Vitamix you’ve been coveting. 
+
+<br> 
+
+<https://www.bonappetit.com/story/early-amazon-prime-day-kitchen-deals-2025>
 
 ---
 
@@ -32,6 +128,18 @@ date: 2025-06-10, from: The Fresh Cup
 <br> 
 
 <https://freshcup.com/the-c-price-is-changing-heres-what-that-means-for-coffee/>
+
+---
+
+## Golden Cadillac
+
+date: 2025-06-10, from: Taste of Home
+
+The Golden Cadillac is a classic cocktail commonly served as an after-dinner drink. It combines sweet and herbaceous Galliano liqueur with white creme de cacao and heavy cream. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/golden-cadillac-recipe/>
 
 ---
 
@@ -179,7 +287,7 @@ date: 2025-06-09, from: The Sprudge
 
 date: 2025-06-09, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Ethiopia-coffee-report-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Ethiopia coffee report" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Ethiopia-coffee-report-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Ethiopia-coffee-report-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Ethiopia-coffee-report-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Ethiopia-coffee-report-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Ethiopia-coffee-report.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Ethiopia’s coffee production is forecast to reach the equivalent of a record 11.6 million 60-kilogram bags in the 2025/26 market year (October through September), driven by favorable weather, rejuvenation of... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Ethiopia-coffee-report-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Ethiopia coffee report" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Ethiopia-coffee-report-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Ethiopia-coffee-report-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Ethiopia-coffee-report-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Ethiopia-coffee-report-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Ethiopia-coffee-report.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Ethiopia’s coffee production is forecast to reach the equivalent of a record 11.6 million 60-kilogram bags in the 2025/26 market year (October through September), driven by favorable weather, rejuvenation of... 
 
 <br> 
 
@@ -191,7 +299,7 @@ date: 2025-06-09, from: Daily Coffee News
 
 date: 2025-06-09, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/SGP_WAC22_19-620x414.jpg" class="attachment-large size-large wp-post-image" alt="SGP_WAC22_19" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/SGP_WAC22_19-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SGP_WAC22_19-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SGP_WAC22_19-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SGP_WAC22_19-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SGP_WAC22_19.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Layer 41 event space in Seoul’s Seongsu district will transform into a plungeatorium this December 5-6 as it plays host to the 2025 World AeroPress Championship. Now in its... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/SGP_WAC22_19-620x414.jpg" class="attachment-large size-large wp-post-image" alt="SGP_WAC22_19" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/SGP_WAC22_19-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SGP_WAC22_19-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SGP_WAC22_19-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SGP_WAC22_19-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SGP_WAC22_19.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The Layer 41 event space in Seoul’s Seongsu district will transform into a plungeatorium this December 5-6 as it plays host to the 2025 World AeroPress Championship. Now in its... 
 
 <br> 
 
@@ -215,7 +323,7 @@ These smoothie subscriptions deliver on taste, convenience, and nutrition.
 
 date: 2025-06-09, from: Daily Coffee News
 
-<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffmeter-m1-620x349.jpg" class="attachment-large size-large wp-post-image" alt="coffmeter m1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffmeter-m1-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffmeter-m1-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffmeter-m1-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffmeter-m1-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffmeter-m1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Chinese coffee analysis equipment company DiFluid is continuing to roll out new products, including a real-time roast analysis tool called OmniVision and new meters through a sibling brand called... 
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffmeter-m1-620x349.jpg" class="attachment-large size-large wp-post-image" alt="coffmeter m1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffmeter-m1-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffmeter-m1-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffmeter-m1-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffmeter-m1-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffmeter-m1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Chinese coffee analysis equipment company DiFluid is continuing to roll out new products, including a real-time roast analysis tool called OmniVision and new meters through a sibling brand called... 
 
 <br> 
 

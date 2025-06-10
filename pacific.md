@@ -1,11 +1,137 @@
 ---
 title: pacific
-updated: 2025-06-10 06:08:45
+updated: 2025-06-10 14:08:57
 ---
 
 # pacific
 
-(date: 2025-06-10 06:08:45)
+(date: 2025-06-10 14:08:57)
+
+---
+
+## UH athletics marketing recognized nationally for third straight year
+
+date: 2025-06-10, from: University of Hawaiʻi News
+
+<p>The department was honored with two gold awards for their creative athletic marketing campaigns.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/10/uh-athletics-marketing-recognized-nationally/"><abbr>UH</abbr> athletics marketing recognized nationally for third straight year</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/10/uh-athletics-marketing-recognized-nationally/>
+
+---
+
+## 85 UH Hilo student athletes earn spots on the dean’s list
+
+date: 2025-06-10, from: University of Hawaiʻi News
+
+<p>More than 40&#37; of all Vulcan student athletes met the academic criteria to earn their spot.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/10/uh-hilo-student-athletes-deans-list/">85 <abbr>UH</abbr> Hilo student athletes earn spots on the dean’s list</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/10/uh-hilo-student-athletes-deans-list/>
+
+---
+
+## India Rugby backs sevens franchise for 10 years
+
+date: 2025-06-10, from: 
+
+International stars will be in the teams' line-ups, including Jerry Tuwai, Scott Curry and Rosco Speckman. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563757/india-rugby-backs-sevens-franchise-for-10-years>
+
+---
+
+## UH Hilo business college earns global distinction
+
+date: 2025-06-10, from: University of Hawaiʻi News
+
+<p>The college was awarded extended accreditation from the Association to Advance Collegiate Schools of Business.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/10/cobe-earns-global-distinction/"><abbr>UH</abbr> Hilo business college earns global distinction</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/10/cobe-earns-global-distinction/>
+
+---
+
+## Ultimately, the responsibility is ours
+
+date: 2025-06-10, from: Pacific Island Times
+
+The CNMI administration believes that, right now, the foremost matter affecting the islands’ relationship with the U.S. is the Commonwealth’s dire need for federal funding — tens of millions of U.S. taxpayer dollars.
+
+ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/ultimately-the-responsibility-is-ours>
+
+---
+
+## 'It's not just a labor issue': Lingering anxiety over the impending end of the CNMI’s transitional worker program
+
+date: 2025-06-10, from: Pacific Island Times
+
+“This program was created during the federalization of CNMI immigration and has been the backbone of our workforce for well over a decade,” said Janet King, an immigration lawyer. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/it-s-not-just-a-labor-issue-lingering-anxiety-over-the-impending-end-of-the-cnmi-s-transitional-w>
+
+---
+
+## Ngani Laumape signs with Moana Pasifika
+
+date: 2025-06-10, from: 
+
+Moana Pasifika have secured the services of former All Black midfielder Ngani Laumape for the next two years. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/sport/563665/ngani-laumape-signs-with-moana-pasifika>
+
+---
+
+## Investigation under way after Marianas waste oil spill
+
+date: 2025-06-10, from: 
+
+The Coast Guard says approximately 113.5 litres of waste oil was released into the harbor. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563745/investigation-under-way-after-marianas-waste-oil-spill>
+
+---
+
+## Study of early Pacific migrants could help with health history, says researcher
+
+date: 2025-06-10, from: 
+
+Otago University's Dr Monica Tromp said they are able now to get really fragmented, ancient DNA from hot and humid environments like Papua New Guinea. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563746/study-of-early-pacific-migrants-could-help-with-health-history-says-researcher>
+
+---
+
+## UH 2025 tenure and promotion list
+
+date: 2025-06-10, from: University of Hawaiʻi News
+
+<p>Congratulations to the University of <span aria-label="Hawaii">Hawai&#699;i</span>’s 2025 tenure and promotion recipients.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/10/uh-2025-tenure-and-promotion-list/"><abbr>UH</abbr> 2025 tenure and promotion list</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/10/uh-2025-tenure-and-promotion-list/>
 
 ---
 

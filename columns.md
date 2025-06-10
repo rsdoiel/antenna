@@ -1,11 +1,129 @@
 ---
 title: columns
-updated: 2025-06-10 06:08:46
+updated: 2025-06-10 14:08:58
 ---
 
 # columns
 
-(date: 2025-06-10 06:08:46)
+(date: 2025-06-10 14:08:58)
+
+---
+
+## Visor is the best app for car shopping
+
+date: 2025-06-10, from: Matt Haughey blog
+
+<p>A few months ago my pal <a href="https://x.com/joeljohnson?ref=a.wholelottanothing.org" rel="noreferrer">Joel</a> mentioned there was a new car shopping app and even though I only buy a car once every several years, I love to browse listings or figure what my current favorite car is that I don&apos;t own, or be able to</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/visor-is-the-best-app-for-car-shopping/>
+
+---
+
+## June 9, 2025
+
+date: 2025-06-10, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165655502/92fb6eb94d94be94360aa3ac68e270cd.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165655502/92fb6eb94d94be94360aa3ac68e270cd.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-9-2025-4a6>
+
+---
+
+## Forked-off Xlibre tells Wayland display protocol to DEI in a fire
+
+date: 2025-06-10, updated: 2025-06-10, from: Liam Proven's articles at the Register
+
+<h4>Project to modernize the X.org X11 server seems to actively court controversy</h4>
+      <p>The recently released Xlibre server aims to modernize the X.org X11 server and improve both its security and performance.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/10/xlibre_new_xorg_fork/>
+
+---
+
+## ‘Apple Retreats’
+
+date: 2025-06-10, updated: 2025-06-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://stratechery.com/2025/apple-retreats/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-10, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/06/10/gratefulDead.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">There's a documentary coming out about podcasting. I was interviewed in it and got to tell a bunch of stories, about how you get people interested in working with each other. I told the story of how I chose the Grateful Dead's music to get the initial implementation going, on both the sending and receiving side. I used their music, since it so totally fit in with the philosophy, ie come as you are, we're all just people. And the song I chose was a good one too, the <a href="https://daytona.scripting.com/search?q=%22US%20Blues%22">US Blues</a>. "I'm Uncle Sam, that's who I am. I've been hiding out. In a rock and roll band." Using great art to prototype this connection makes total sense. It says we carry forward our art where ever we go, no matter where it takes us, a great work of music or art is always a good thing to share. 
+
+<br> 
+
+<http://scripting.com/2025/06/10.html#a153829>
+
+---
+
+## A CNAME for your feed
+
+date: 2025-06-10, from: Dave Winer's Scripting News
+
+<p>Here's something to think about. As you may recall, I have an hourly art feed, available both in RSS and on Bluesky. Same content. </p>
+<p>Today I gave each the same new name, <a href="https://art.feediverse.org/">art.feediverse.org</a>. </p>
+<p>If you use that URL <a href="https://bsky.app/profile/art.feediverse.org">on Bluesky</a>, you go to its <a href="https://bsky.app/profile/art.feediverse.org">version</a> of the content stream. And if you give the same URL to a web browser, ie accessing it via HTTP, you get the <a href="https://art.feediverse.org/">RSS version</a> of the same data. </p>
+<ul>
+<li>On Bluesky: <a href="https://bsky.app/profile/art.feediverse.org">https://bsky.app/profile/art.feediverse.org</a>.</li>
+<li>On the web: <a href="https://art.feediverse.org/">https://art.feediverse.org</a>.</li>
+</ul>
+<p>BTW -- think of <a href="https://feediverse.org/">feediverse</a> as a web of feeds. It's open of course, because the web itself is open. And it's pretty social as you will see. It's why I think it's really the first instance of the "open social web."</p>
+<p><img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2019/12/06/dorothy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've long felt documents should have their own CNAMEs. I even went so far as to design a system where each node in an outline could have a CNAME. I still believe in this, why not have a hierarchic file system that's as editable as an outline? It's the same idea that works in so many other contexts. It's why the idea of a scripting system on a graphic PC like the early Mac made a world of sense. It's why Unix underneath that same UI was the right way to go. And why the web is so nice, you just View Source and you get to lift the hood and see how it works. </p>
+<p>They were smart at Bluesky to use DNS this way. Why invent your own identity system when the net itself has a great distributed system that scales? They just made the wrong call (imho) in not using <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> for their timeline data, or at least the outside world's view of their timeline, in both directions -- in and out. That's the basic idea of the Internet itself. No one cares what's behind your TCP interface, it could be a network with a million nodes using some wacky protocol to connect them. As long as I can get to you via TCP, you're on the net. This is the kumbaya philosophy of the net, why not just use what already works. </p>
+<p>You'll see that we're able to do some interesting twitter-like stuff with this duality.</p>
+<p>A <a href="https://github.com/scripting/Scripting-News/issues/321">thread</a> for comments and questions. </p>
+<p>PS: A <a href="http://scripting.com/stories/2012/02/23/thinkingOutLoudDnsAsId.html">piece</a> about DNS as ID in 2012.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/10/153445.html?title=aCnameForYourFeed>
+
+---
+
+## Scraping Challenges and Open Standards
+
+date: 2025-06-10, from: Paolo Valdemarin's blog
+
+Following up what I posted recently about Scrape wars, I wrote a longer post for my company site. Reposting it here just for reference. We’ve talked before about how everything you write should work as a prompt. Your content should be explicitly structured, easy for AI agents to read, interpret, and reuse. Yet, despite clear &#8230; <a href="https://val.demar.in/2025/06/scraping-challenges-and-open-standards/" class="more-link">Continue reading<span class="screen-reader-text"> "Scraping Challenges and Open Standards"</span></a> 
+
+<br> 
+
+<https://val.demar.in/2025/06/scraping-challenges-and-open-standards/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-10, from: Dave Winer's Scripting News)
+
+Yet another <a href="https://www.theguardian.com/commentisfree/2025/jun/10/billion-dollar-ai-puzzle-break-down">journalism article</a> about how AI is not really intelligent and all the tech industry hype must stop now or else we'll write another strongly worded article about how they are not really intelligent just like the 800,000 previous articles about how AI is not really intelligent. 
+
+<br> 
+
+<http://scripting.com/2025/06/10.html#a142440>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-10, from: Miguel de Icaza Mastondon feed)
+
+<p>Liquid Glass Summer.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114659452362285469>
 
 ---
 
@@ -71,7 +189,7 @@ At 10:19 last night, White House deputy chief of staff Stephen Miller posted on 
 
 date: 2025-06-10, from: Doc Searls (at Harvard), New Old Blog
 
-Dig it. Nitin Badjatia, who has been with both ProjectVRM and Customer Commons from their beginnings, has a wise new newsletter. 
+Zoom in to satellitemap.space. The vast majority of low orbit satellites are Starlink&#39;s. This, more than raw power, is what gives authoritarians their authority. Dana Blankenhorn has a good post on Authority. With respect to my own thoughts on the topic, there&#39;s what&#39;s said in Poynter about what I said on my old blog. Key point: &#34;We are all [&#8230;] 
 
 <br> 
 
@@ -112,6 +230,18 @@ date: 2025-06-10, updated: 2025-06-10, from: Daring Fireball
 <br> 
 
 <https://512pixels.net/2025/06/wwdc25-macos-tahoe-breaks-decades-of-finder-history/>
+
+---
+
+## Using `make` to compile C programs (for non-C-programmers)
+
+date: 2025-06-10, updated: 2025-06-10, from: Julia Evans blog
+
+ 
+
+<br> 
+
+<https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/>
 
 ---
 

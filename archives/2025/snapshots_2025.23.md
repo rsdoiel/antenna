@@ -1,11 +1,448 @@
 ---
 title: snapshots
-updated: 2025-06-10 06:08:53
+updated: 2025-06-10 14:09:05
 ---
 
 # snapshots
 
-(date: 2025-06-10 06:08:53)
+(date: 2025-06-10 14:09:05)
+
+---
+
+## Orange Pi R2S is a RISC-V router board with four LAN ports for $30 and up
+
+date: 2025-06-10, from: Liliputing
+
+<p>The Orange Pi R2S is a single-board computer computer that&#8217;s a little smaller than a Raspberry Pi 5, but it&#8217;s made for a very different use case. While Raspberry Pi&#8217;s credit card-sized computers are positioned as general purpose computers with ARM-based processors, the R2S features a RISC-V processor, four wired network ports (two Gigabit Ethernet ports [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/orange-pi-r2s-is-a-risc-v-router-board-with-four-lan-ports-for-30-and-up/">Orange Pi R2S is a RISC-V router board with four LAN ports for $30 and up</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/orange-pi-r2s-is-a-risc-v-router-board-with-four-lan-ports-for-30-and-up/>
+
+---
+
+## o3-pro
+
+date: 2025-06-10, updated: 2025-06-10, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://platform.openai.com/docs/models/o3-pro">o3-pro</a></strong></p>
+OpenAI released o3-pro today, which they describe as a "version of o3 with more compute for better responses".</p>
+<p>It's only available via the newer Responses API. I've added it to my <a href="https://github.com/simonw/llm-openai-plugin">llm-openai-plugin</a> plugin which uses that new API, so you can try it out like this:</p>
+<pre><code>llm install -U llm-openai-plugin
+llm -m openai/o3-pro "Generate an SVG of a pelican riding a bicycle"
+</code></pre>
+<p><img alt="Description by o3-pro: The image is a playful, minimalist cartoon showing a white bird riding a bicycle. The bird has a simple oval body, a round head with a small black eye, and a yellow beak. Its orange feet are positioned on the bicycle’s pedals. The bicycle itself is drawn with thin black lines forming two large circular wheels and a straightforward frame. The scene has a light blue background with a soft gray oval shadow beneath the bicycle, giving the impression of ground. Overall, the illustration has a light, whimsical feel." src="https://static.simonwillison.net/static/2025/o3-pro-pelican.jpg" /></p>
+<p>It's <em>slow</em> - <a href="https://gist.github.com/simonw/6bc7dda9dbe07281d902d254e5fb6e33">generating this pelican</a> took 124 seconds! OpenAI suggest using their <a href="https://platform.openai.com/docs/guides/background">background mode</a> for o3 prompts, which I haven't tried myself yet.</p>
+<p>o3-pro is priced at $20/million input tokens and $80/million output tokens - 10x the price of regular o3 after its <a href="https://simonwillison.net/2025/Jun/10/o3-price-drop/">80% price drop</a> this morning.</p>
+<p>Ben Hylak had early access and published his notes so far in <a href="https://www.latent.space/p/o3-pro">God is hungry for Context: First thoughts on o3 pro</a>. It sounds like this model needs to be applied very thoughtfully. It comparison to o3:</p>
+<blockquote>
+<p>It's smarter. <em>much smarter.</em></p>
+<p><strong>But in order to see that, you need to give it</strong> <strong><em>a lot</em></strong> <strong>more context. and I'm running out of context.</strong> [...]</p>
+<p>My co-founder Alexis and I took the the time to assemble a history of all of our past planning meetings at Raindrop, all of our goals, even record voice memos: and then asked o3-pro to come up with a plan.</p>
+<p>We were blown away; it spit out the exact kind of concrete plan and analysis I've always wanted an LLM to create --- complete with target metrics, timelines, what to prioritize, and strict instructions on what to absolutely cut.</p>
+<p>The plan o3 gave us was plausible, reasonable; but the plan o3 Pro gave us was specific and rooted enough that <strong><em>it actually changed how we are thinking about our future.</em></strong></p>
+<p>This is hard to capture in an eval.</p>
+</blockquote>
+<p>It sounds to me like o3-pro works best when combined with tools. I don't have tool support in <code>llm-openai-plugin</code> yet, <a href="https://github.com/simonw/llm-openai-plugin/issues/20">here's the relevant issue</a>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/o3">o3</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/10/o3-pro/#atom-everything>
+
+---
+
+## Ending macOS Intel Support
+
+date: 2025-06-10, from: Michael Tsai
+
+Ernie Smith (via Hacker News): And today, we learned that Apple is finally ending its 20-year run of Intel-based Macs.That&#8217;s the bad news. The good news is that they gave the public one more year of new versions, along with the promise of potential security fixes, avoiding an uncomfortable rug-pull like the one that many [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/10/ending-macos-intel-support/>
+
+---
+
+## macOS Tahoe 26 Announced
+
+date: 2025-06-10, from: Michael Tsai
+
+Apple (preview, Hacker News, Reddit): With the new design, iconic elements of macOS will feel more expressive, delightful, and personal while remaining instantly familiar, including the desktop, Dock, in-app navigation, and toolbars. Users can further personalize the experience with an updated Control Center and new color options for folders, app icons, and widgets. Continuity gets [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/10/macos-tahoe-26-announced/>
+
+---
+
+## iOS 26 Announced
+
+date: 2025-06-10, from: Michael Tsai
+
+Apple (preview): On the Lock Screen, the time fluidly adapts to the available space in an image, and spatial scenes bring wallpapers to life with a 3D effect when users move iPhone. Updated design elements also deliver fresh experiences in apps. A simplified, streamlined Camera layout helps users keep their attention on the moment they&#8217;re [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/10/ios-26-announced/>
+
+---
+
+## iPadOS 26 Announced
+
+date: 2025-06-10, from: Michael Tsai
+
+Apple (preview, Slashdot): While maintaining the simplicity of iPad, iPadOS 26 introduces an entirely new powerful and intuitive windowing system with new features that help users control, organize, and switch between apps. Apple Intelligence becomes even more capable and integrated across iPadOS 26, with new features that help users communicate, express themselves, and get things [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/10/ipados-26-announced/>
+
+---
+
+## watchOS 26 Announced
+
+date: 2025-06-10, from: Michael Tsai
+
+Apple (preview): A new design with Liquid Glass makes features like the Smart Stack, Control Center, the Photos watch face, and in-app navigation and controls more expressive, while maintaining the instant familiarity of watchOS. Apple Intelligence enhances the fitness experience with Workout Buddy, which provides personalized, spoken motivation. The Workout app features a new layout, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/10/watchos-26-announced/>
+
+---
+
+## tvOS 26 Announced
+
+date: 2025-06-10, from: Michael Tsai
+
+Apple: Featuring a stunning new design with Liquid Glass, tvOS 26 is designed to keep the focus on what&#8217;s playing so users never miss a moment. The Apple TV app also now showcases cinematic poster art that makes it fun and easy to discover what to play next. Enhancements to profile-switching and a streamlined way [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/10/tvos-26-announced/>
+
+---
+
+## visionOS 26 Announced
+
+date: 2025-06-10, from: Michael Tsai
+
+Apple (preview): Everyday interactions become more immersive and personal, with widgets that integrate into a user&#8217;s space, spatial scenes that use generative AI to add stunning lifelike depth to photos, striking enhancements that make Personas feel more natural and familiar, and shared spatial experiences for Vision Pro users in the same room. visionOS 26 also [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/10/visionos-26-announced/>
+
+---
+
+## Trump’s Flash-Bang Fakery, and the CEO who was the Master of Disaster 
+
+date: 2025-06-10, from: Tina Brown
+
+My big worry for Dems at the moment is not the danger of the wrong response to the LA protests, but getting mired in the return of deported Salvadoran immigrant Kilmar Abrego Garcia. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/trumps-flash-bang-fakery-and-the>
+
+---
+
+## Liquid Glass
+
+date: 2025-06-10, from: Michael Tsai
+
+Apple (Apple Design, Hacker News, Slashdot): Apple today previewed a beautiful new software design that makes apps and system experiences more expressive and delightful while being instantly familiar. It&#8217;s crafted with a new material called Liquid Glass. This translucent material reflects and refracts its surroundings, while dynamically transforming to help bring greater focus to content, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/10/liquid-glass/>
+
+---
+
+## WWDC 2025 Keynote
+
+date: 2025-06-10, from: Michael Tsai
+
+Apple (MacRumors live blog, Adam Engst, Lobsters, Mac Power Users Talk): Watch the WWDC25 keynote introducing our broadest design update ever and a more helpful Apple Intelligence. You&#8217;ll also learn about exciting features coming with iOS 26, iPadOS 26, macOS 26, watchOS 26, visionOS 26, and tvOS 26. &#8226; &#8226; &#8226; Marques Brownlee: I asked [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/10/wwdc-2025-keynote/>
+
+---
+
+## o3 price drop
+
+date: 2025-06-10, updated: 2025-06-10, from: Simon Willison’s Weblog
+
+<p>OpenAI just dropped the price of their o3 model by 80% - from $10/million input tokens and $40/million output tokens to just $2/million and $8/million for the very same model. This is in advance of the release of o3-pro which apparently is coming <a href="https://twitter.com/OpenAI/status/1932483131363504334">later today</a> (update: <a href="https://simonwillison.net/2025/Jun/10/o3-pro/">here it is</a>).</p>
+<p>This is a pretty huge shake-up in LLM pricing. o3 is now priced the same as GPT 4.1, and slightly less than GPT-4o ($2.50/$10). It’s also less than Anthropic’s Claude Sonnet 4 ($3/$15) and Opus 4 ($15/$75) and sits in between Google’s Gemini 2.5 Pro for &gt;200,00 tokens ($2.50/$15) and 2.5 Pro for &lt;200,000 ($1.25/$10).</p>
+<p>I’ve updated my <a href="https://www.llm-prices.com/">llm-prices.com</a> pricing calculator with the new rate.</p>
+<p>How have they dropped the price so much? OpenAI's Adam Groth <a href="https://twitter.com/TheRealAdamG/status/1932440328293806321">credits ongoing optimization work</a>:</p>
+<blockquote>
+<p>thanks to the engineers optimizing inferencing.</p>
+</blockquote>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/o3">o3</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/10/o3-price-drop/#atom-everything>
+
+---
+
+## Does AI Promote Mental Conformity?
+
+date: 2025-06-10, from: Guy Kawasaki blog
+
+Wolfgang Messner, Clinical Professor of International Business, University of South Carolina. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/does-ai-promote-mental-conformity>
+
+---
+
+## Some personal news
+
+date: 2025-06-10, from: Press Think
+
+<p>As we say on the internet, &#8220;some personal news.&#8221; After 39 years on the job I am retiring as an NYU professor. In this post I will take a few moments to reflect on my academic career. Spoiler alert: I am not leaving the field, or the fight for a public service press. NYU has [&#8230;]</p>
+<p>The post <a href="https://pressthink.org/2025/06/some-personal-news/">Some personal news</a> appeared first on <a href="https://pressthink.org">PressThink</a>.</p>
+ 
+
+<br> 
+
+<https://pressthink.org/2025/06/some-personal-news/>
+
+---
+
+## Emmys 2025: FYC – actuaciones de reparto, serie limitada: Owen Cooper y Erin Doherty – Adolescence
+
+date: 2025-06-10, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Los Premios Emmy, el máximo reconocimiento de la industria de la televisión, es un escenario en donde se han distinguido algunas de las actuaciones más memorables de los últimos años y que podemos disfrutar en la pantalla chica. Cada año destacamos aquellas interpretaciones que han dejado huella en el público y la crítica. Ayer comenzamos [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/emmys-2025-fyc-owen-cooper-y-erin-doherty/">Emmys 2025: FYC – actuaciones de reparto, serie limitada: Owen Cooper y Erin Doherty – Adolescence</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/emmys-2025-fyc-owen-cooper-y-erin-doherty/?utm_source=rss&utm_medium=rss&utm_campaign=emmys-2025-fyc-owen-cooper-y-erin-doherty>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-10, from: Dave Winer's linkblog)
+
+Queen of the roller derby. 
+
+<br> 
+
+<https://www.youtube.com/watch?v=NfekpCMlb5Q>
+
+---
+
+## This Nintendo Switch 2 adapter could let you add a PCIe NVMe SSD
+
+date: 2025-06-10, from: Liliputing
+
+<p>The Nintendo Switch 2 has a bigger, better screen, a faster processor, more storage, updated controllers, and a whole bunch of other upgrades over Nintendo&#8217;s first-gen Switch. It can run more demanding games with higher quality visuals, and even some games designed for the original Switch are said to run better on the new model. But [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-nintendo-switch-2-adapter-could-let-you-add-a-pcie-nvme-ssd/">This Nintendo Switch 2 adapter could let you add a PCIe NVMe SSD</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-nintendo-switch-2-adapter-could-let-you-add-a-pcie-nvme-ssd/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-10, from: Dave Winer's linkblog)
+
+Latinas for Trump founder blasts Trump immigration agenda. 
+
+<br> 
+
+<https://www.miamiherald.com/news/local/immigration/article308111995.html>
+
+---
+
+## The Elephant in the Room: Why Is Your Data Bill So High?
+
+date: 2025-06-10, from: Bacalhau Blog
+
+Beyond 'More': It's Time for Smarter Data Infrastructure That Saves You Money, Not Costs You More. 
+
+<br> 
+
+<https://blog.bacalhau.org/p/the-elephant-in-the-room-why-is-your>
+
+---
+
+## Magistral — the first reasoning model by Mistral AI
+
+date: 2025-06-10, updated: 2025-06-10, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://mistral.ai/news/magistral">Magistral — the first reasoning model by Mistral AI</a></strong></p>
+Mistral's first reasoning model is out today, in two sizes. There's a 24B Apache 2 licensed open-weights model called Magistral Small (actually Magistral-Small-2506), and a larger API-only model called Magistral Medium.</p>
+<p>Magistral Small is available as <a href="https://huggingface.co/mistralai/Magistral-Small-2506">mistralai/Magistral-Small-2506</a> on Hugging Face. From that model card:</p>
+<blockquote>
+<p><strong>Context Window</strong>: A 128k context window, but performance might degrade past 40k. Hence we recommend setting the maximum model length to 40k.</p>
+</blockquote>
+<p>Mistral also released an official GGUF version, <a href="https://huggingface.co/mistralai/Magistral-Small-2506_gguf">Magistral-Small-2506_gguf</a>, which I ran successfully using Ollama like this:</p>
+<pre><code>ollama pull hf.co/mistralai/Magistral-Small-2506_gguf:Q8_0
+</code></pre>
+<p>That fetched a 25GB file. I ran prompts using a chat session with <a href="https://github.com/taketwo/llm-ollama">llm-ollama</a> like this:</p>
+<pre><code>llm chat -m hf.co/mistralai/Magistral-Small-2506_gguf:Q8_0
+</code></pre>
+<p>Here's what I got for "Generate an SVG of a pelican riding a bicycle" (<a href="https://gist.github.com/simonw/7aaac8217f43be04886737d67c08ecca">transcript here</a>):</p>
+<p><img alt="Blue sky and what looks like an eagle flying towards the viewer." src="https://static.simonwillison.net/static/2025/magistral-pelican.jpg" /></p>
+<p>It's disappointing that the GGUF doesn't support function calling yet - hopefully a community variant can add that, it's one of the best ways I know of to unlock the potential of these reasoning models.</p>
+<p>I just noticed that Ollama have their own <a href="https://ollama.com/library/magistral">Magistral model</a> too, which can be accessed using:</p>
+<pre><code>ollama pull magistral:latest
+</code></pre>
+<p>That gets you a 14GB <code>q4_K_M</code> quantization - other options can be found in the <a href="https://ollama.com/library/magistral/tags">full list of Ollama magistral tags</a>.</p>
+<p>One thing that caught my eye in the Magistral announcement:</p>
+<blockquote>
+<p>Legal, finance, healthcare, and government professionals get traceable reasoning that meets compliance requirements. Every conclusion can be traced back through its logical steps, providing auditability for high-stakes environments with domain-specialized AI.</p>
+</blockquote>
+<p>I guess this means the reasoning traces are fully visible and not redacted in any way - interesting to see Mistral trying to turn that into a feature that's attractive to the business clients they are most interested in appealing to.</p>
+<p>Also from that announcement:</p>
+<blockquote>
+<p>Our early tests indicated that Magistral is an excellent creative companion. We highly recommend it for creative writing and storytelling, with the model capable of producing coherent or — if needed — delightfully eccentric copy.</p>
+</blockquote>
+<p>I haven't seen a reasoning model promoted for creative writing in this way before.</p>
+<p>You can try out Magistral Medium by selecting the new "Thinking" option in Mistral's <a href="https://chat.mistral.ai/">Le Chat</a>.</p>
+<p><img alt="Screenshot of a chat interface showing settings options. At the top is a text input field that says &quot;Ask le Chat or @mention an agent&quot; with a plus button, lightbulb &quot;Think&quot; button with up arrow, grid &quot;Tools&quot; button, and settings icon. Below are two toggle options: &quot;Pure Thinking&quot; with description &quot;Best option for math + coding. Disables tools.&quot; (toggle is off), and &quot;10x Speed&quot; with lightning bolt icon and &quot;PRO - 2 remaining today&quot; label, described as &quot;Same quality at 10x the speed.&quot; (toggle is on and green)." src="https://static.simonwillison.net/static/2025/magistral-le-chat.jpg" /></p>
+<p>They have options for "Pure Thinking" and a separate option for "10x speed", which runs Magistral Medium at 10x the speed using <a href="https://www.cerebras.ai/">Cerebras</a>.</p>
+<p>The new models are also available through <a href="https://docs.mistral.ai/api/">the Mistral API</a>. You can access them by installing <a href="https://github.com/simonw/llm-mistral">llm-mistral</a> and running <code>llm mistral refresh</code> to refresh the list of available models, then:</p>
+<pre><code>llm -m mistral/magistral-medium-latest \
+  'Generate an SVG of a pelican riding a bicycle'
+</code></pre>
+<p><img alt="Claude Sonnet 4 described this as Minimalist illustration of a white bird with an orange beak riding on a dark gray motorcycle against a light blue sky with a white sun and gray ground" src="https://static.simonwillison.net/static/2025/magistral-medium-pelican.jpg" /></p>
+<p>Here's <a href="https://gist.github.com/simonw/93917661eae6e2fe0a0bd5685172fab8">that transcript</a>. At 13 input and 1,236 output tokens that cost me <a href="https://www.llm-prices.com/#it=13&amp;ot=1236&amp;ic=2&amp;oc=5">0.62 cents</a> - just over half a cent.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/mistral">mistral</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/cerebras">cerebras</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/10/magistral/#atom-everything>
+
+---
+
+## Misión imposible: la sentencia final –una realidad controlada por la acción
+
+date: 2025-06-10, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Christopher McQuarrie. Guion: Christopher McQuarrie, Erik Jendresen. Elenco: Tom Cruise, Hayley Atwell, Simon Pegg, Esai Morales, Pom Klementieff, Henry Czerny, Angela Bassett, Ving Rhames, Greg Tarzan Davies, Shea Whigham. País: Estados Unidos. Más información de la película: https://www.imdb.com/title/tt9603208 Al ver Misión imposible: la sentencia final no pude evitar pensar en aquel video de Tom [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-mision-imposible-la-sentencia-final/">Misión imposible: la sentencia final –una realidad controlada por la acción</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-mision-imposible-la-sentencia-final/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-mision-imposible-la-sentencia-final>
+
+---
+
+## Doctor’s Orders; Cucumber Boats? The Wind River Reservation Physician’s Medical Notebooks
+
+date: 2025-06-10, from: National Archives, Text Message blog
+
+Today’s post is by Cody White, Archivist at the National Archives at Denver Many of us are probably guilty of it. I certainly was; letting my mind drift during a cataloging course in library school and doodling palm trees amongst my class notes. It seems for Virgil Milo Pinkley, who graduated from the Vanderbilt University &#8230; <a href="https://text-message.blogs.archives.gov/2025/06/10/doctors-orders-cucumber-boats-the-wind-river-reservation-physicians-medical-notebooks/" class="more-link">Continue reading <span class="screen-reader-text">Doctor’s Orders; Cucumber Boats? The Wind River Reservation Physician&#8217;s Medical Notebooks</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/06/10/doctors-orders-cucumber-boats-the-wind-river-reservation-physicians-medical-notebooks/>
+
+---
+
+## DHS Flew Predator Drones Over LA Protests, Audio Shows
+
+date: 2025-06-10, from: 404 Media Group
+
+Air traffic control (ATC) audio unearthed by an aviation tracking enthusiast then reviewed by 404 Media shows two Predator drones leaving, and heading towards, Los Angeles. 
+
+<br> 
+
+<https://www.404media.co/dhs-flew-predator-drones-over-la-protests-audio-shows/>
+
+---
+
+## AYANEO Flip 1S DS is a dual-screen handheld gaming PC with Ryzen AI 9 HX 370
+
+date: 2025-06-10, from: Liliputing
+
+<p>The AYANEO Flip 1S DS is an upcoming handheld gaming PC with an AMD Ryzen AI 9 HX 370 Strix Point processor featuring 12 Zen 5 series CPU cores, a 16-core GPU based on ARDNA 3.5 architecture, and a clamshell-style design. Lift the lid and you&#8217;ll be greeted by a 7 inch, 1920 x 1080 pixel, [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/ayaneo-flip-1s-ds-is-a-dual-screen-handheld-gaming-pc-with-ryzen-ai-9-hx-370/">AYANEO Flip 1S DS is a dual-screen handheld gaming PC with Ryzen AI 9 HX 370</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/ayaneo-flip-1s-ds-is-a-dual-screen-handheld-gaming-pc-with-ryzen-ai-9-hx-370/>
+
+---
+
+## Hidden Operating Systems in Chips vs. Secure, Auditable OSes: A Cybersecurity Comparison
+
+date: 2025-06-10, from: Purism News and Events
+
+<p>The Threat Beneath: Hidden In-Chip Operating Systems Modern CPUs from Intel, AMD, and others ship with embedded microcontrollers and hidden operating systems that operate below the user-accessible OS, often with unprecedented system access and limited transparency. Key Vulnerabilities and Threats: 1. Intel Management Engine (ME) – Based on MINIX OS embedded at “ring -3” (lower [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/hidden-operating-systems-in-chips-vs-secure-auditable-oses-a-cybersecurity-comparison/">Hidden Operating Systems in Chips vs. Secure, Auditable OSes: A Cybersecurity Comparison</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br> 
+
+<https://puri.sm/posts/hidden-operating-systems-in-chips-vs-secure-auditable-oses-a-cybersecurity-comparison/>
+
+---
+
+## Small, Sad, and Spiteful
+
+date: 2025-06-10, updated: 2025-06-10, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/06/10/small-sad-and-spiteful/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-10, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lrb5gosjuc2i>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-10, from: Dave Winer's linkblog)
+
+My definition of Twitter in 2016: &quot;Real-time Internet-scale notification with an easy to understand user interface.&quot; This was a powerful way of looking at it that was never built out. I think Bluesky should do this. The people who want Bluesky to prevail should want this too. 
+
+<br> 
+
+<http://scripting.com/2016/04/28/1223.html?title=twitterAsAService>
+
+---
+
+## GitHub is Leaking Trump’s Plans to 'Accelerate' AI Across Government
+
+date: 2025-06-10, from: 404 Media Group
+
+A new website and API called AI.gov is set to launch on the Fourth of July. 
+
+<br> 
+
+<https://www.404media.co/github-is-leaking-trumps-plans-to-accelerate-ai-across-government/>
 
 ---
 
@@ -174,6 +611,18 @@ After two decades, Apple has announced its final version of MacOS for Intel. Gue
 <br> 
 
 <https://feed.tedium.co/link/15204/17048224/apple-wwdc-intel-mac-support-ending>
+
+---
+
+## Sticky pork belly slices
+
+date: 2025-06-10, updated: 2025-06-10, from: Tink's blog
+
+ 
+
+<br> 
+
+<https://tink.uk/sticky-pork-belly-slices/>
 
 ---
 
@@ -462,7 +911,7 @@ Exclusive: Following 404 Media’s investigation into Meta's AI Studio chatbots 
 
 ## Rise and See a Massive Ship Out Your Window
 
-date: 2025-06-09, updated: 2025-06-09, from: One Foot Tsunami
+date: 2025-06-09, updated: 2025-06-10, from: One Foot Tsunami
 
  
 

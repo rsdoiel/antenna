@@ -1,11 +1,126 @@
 ---
 title: home
-updated: 2025-06-10 06:08:50
+updated: 2025-06-10 14:09:01
 ---
 
 # home
 
-(date: 2025-06-10 06:08:50)
+(date: 2025-06-10 14:09:01)
+
+---
+
+## Shark TurboBlade Review: This New Bladeless Tower Fan is Razor-Thin for Tight Spaces
+
+date: 2025-06-10, from: Family Handyman Blog
+
+<p>The latest Shark Fan is bladeless and designed to fit any corner of your home. We tried it to see if it’s worth the price.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/shark-turboblade-review/">Shark TurboBlade Review: This New Bladeless Tower Fan is Razor-Thin for Tight Spaces</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/shark-turboblade-review/>
+
+---
+
+## The Sharing Economy Has Moved to Backyard Rentals—for Your Dog
+
+date: 2025-06-10, from: Dwell
+
+While pet ownership and housing costs rise, Sniffspot helps you use someone else’s outdoor space as your private dog run. 
+
+<br> 
+
+<https://www.dwell.com/article/sniffspot-pet-owners-backyard-rental-sharing-economy-airbnb-for-dogs-3692e60f>
+
+---
+
+## This "Bunkie" in Ontario Was Designed to Disappear Without a Trace
+
+date: 2025-06-10, from: Dwell
+
+Algonquin Provincial Park’s building guidelines and a limited-use land lease informed a completely demountable 550-square-foot plan for the off-grid cabin. 
+
+<br> 
+
+<https://www.dwell.com/article/smoke-lake-cabin-ama-architect-off-grid-cabin-demountable-home-a6cd7836>
+
+---
+
+## How to Grow Texas Sage (Barometer Bush)
+
+date: 2025-06-10, from: The Gardener's Path
+
+<p>Texas sage (Leucophyllum) is a tough evergreen shrub with silvery-green foliage and purple flowers that bloom in response to barometric changes. Native to the arid southwest, this species thrives in full sun and sandy, well-draining soil, and is ideal for xeriscaping. Learn how to grow Texas sage in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/grow-texas-sage/">How to Grow Texas Sage (Barometer Bush)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/grow-texas-sage/>
+
+---
+
+## The Dramatic Octagonal Living Room Makes This $5.2M Portland Midcentury
+
+date: 2025-06-10, from: Dwell
+
+Originally designed by Walter Gordon, the revamped Wessinger House is set on nearly 10 forested acres in the Pacific Northwest. 
+
+<br> 
+
+<https://www.dwell.com/article/portland-walter-gordon-wessinger-real-estate-514974d8>
+
+---
+
+## 3 Types of Swans in Michigan (With Pictures and Identification)
+
+date: 2025-06-10, from: Yard Life blog
+
+<p>Swans in Michigan are a breathtaking sight, gracing the state’s lakes, rivers, and wetlands with their majestic presence. Known for ... </p>
+<p class="read-more-container"><a title="3 Types of Swans in Michigan (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-types-of-swans-in-michigan-with-pictures-and-identification/#more-29984" aria-label="Read more about 3 Types of Swans in Michigan (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-types-of-swans-in-michigan-with-pictures-and-identification/">3 Types of Swans in Michigan (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-types-of-swans-in-michigan-with-pictures-and-identification/>
+
+---
+
+## How to Build a Successful Bee Garden, According to a Professional Beekeeper
+
+date: 2025-06-10, from: Sunset Magazine - Living in the West
+
+A professional beekeeper shares her tips for creating an apiary garden. This advice will get you a thriving bee garden in no time. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/how-to-build-a-bee-garden>
+
+---
+
+## Want to Get Naked at a Hot Springs Resort? Here Are the Rules to Follow.
+
+date: 2025-06-10, from: Sunset Magazine - Living in the West
+
+An expert shares guidelines on how to behave while participating in the naturist movement in the great outdoors. 
+
+<br> 
+
+<https://www.sunset.com/travel/nudist-resort-etiquette>
+
+---
+
+## 7 Ways to Celebrate the Summer Solstice in the West
+
+date: 2025-06-10, from: Sunset Magazine - Living in the West
+
+From visiting ancient carvings to parades to baseball, there are so many ways to celebrate the summer solstice in the Western United States. 
+
+<br> 
+
+<https://www.sunset.com/travel/summer-solstice-celebrations>
 
 ---
 

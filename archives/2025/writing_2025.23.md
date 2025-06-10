@@ -1,11 +1,84 @@
 ---
 title: writing
-updated: 2025-06-10 06:08:47
+updated: 2025-06-10 14:08:59
 ---
 
 # writing
 
-(date: 2025-06-10 06:08:47)
+(date: 2025-06-10 14:08:59)
+
+---
+
+## Reactor, The Sunday Morning Transport, and Weird Horror: Short Fiction Reviews by Paula Guran
+
+date: 2025-06-10, from: Locus Magazine
+
+<p>Reactor 1/22/25, 2/5/25, 2/19/25, 2/26/25, 3/5/25, 3/12/25
+The Sunday Morning Transport 2/2/25, 2/16/25, 2/23/25, 3/9/25, 3/16/25
+Weird Horror Spring ’25</p>
+<p>Reactor (formerly Tor.com) offered up several good stories during the first three months of 2025. The Norwegian narrator of “<strong>The Shape of Stones</strong>” by <strong>Hildur Knútsdóttir </strong>(3/12) is fascinated with the fact the settlers of Iceland practiced human sacrifice. She is determined to find the ancient stones where  <a href="https://locusmag.com/2025/06/reactor-the-sunday-morning-transport-and-weird-horror-short-fiction-reviews-by-paula-guran/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/reactor-the-sunday-morning-transport-and-weird-horror-short-fiction-reviews-by-paula-guran/>
+
+---
+
+## Living and Writing in Sci-Fi Times
+
+date: 2025-06-10, from: John August blog
+
+<p>How do you write science fiction when technology is moving so quickly? John and Craig welcome back journalist and screenwriter Max Read to look at the trickiness of predicting the future, how our imagined futures can affect our reality, and ways that writers can protect their work from becoming dated before it’s even released. We [&#8230;]</p>
+The post <a href="https://johnaugust.com/2025/living-and-writing-in-sci-fi-times">Living and Writing in Sci-Fi Times</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/living-and-writing-in-sci-fi-times>
+
+---
+
+## Peter Craig on Writing 'Dope Thief' and Blowing Up the Status Quo
+
+date: 2025-06-10, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/peter-craig-on-writing-dope-thief-and-blowing-up-the-status-quo" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Wagner%20Moura%20and%20Brian%20Tyree%20Henry%20in%20Dope%20Thief.png" alt="Wagner Moura and Brian Tyree Henry in Dope Thief" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Peter Craig is best known for writing some of the most successful blockbusters in recent memory, from <em>The Town</em> and <em>Top Gun: Maverick</em> to <em>The Batman</em> and <em>Gladiator 2</em>. But his latest project is a thrilling pivot into television with <em>Dope Thief</em>, a gritty, character-driven crime drama now streaming on Apple TV+ with a pilot directed by Ridley Scott.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/peter-craig-on-writing-dope-thief-and-blowing-up-the-status-quo>
+
+---
+
+## New Book Releases: June 10, 2025
+
+date: 2025-06-10, from: Locus Magazine
+
+<p></p>
+<p style="text-align: center;"><strong data-wp-editing="1">Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
+
+<p style="text-align: center;"><strong>New science fiction, fantasy, and horror books for the week of June 10, 2025. </strong></p>
+<p>Amerie: <b> This Is Not a Ghost Story</b> (HarperCollins/Morrow 978-0358653080, $27, 304pp, formats: hardcover, ebook, audiobook, 06/10/2025)</p>
+<p>Speculative mystery novel about a man who lives in a peaceful House surrounded by an ocean, but is cast out. He wakes up  <a href="https://locusmag.com/2025/06/new-book-releases-june-10-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/new-book-releases-june-10-2025/>
+
+---
+
+## Anima Rising by Christopher Moore: Review by Liz Bourke
+
+date: 2025-06-10, from: Locus Magazine
+
+<p><strong>Anima Rising</strong>, Christopher Moore (William Morrow 978-0-06-243415-9, $30.00, 400pp, hc) May 2025.</p>
+<p>It almost goes without saying that Victor Fran­kenstein and his creation have been enjoying a two-century-long multimedia farewell tour that makes Elton John’s look like a pop-up con­cert, and there’s no sign of it letting up anytime soon. Along the way there have been scores of movies and some pretty good novels, such as John Kessel’s <strong>Pride </strong> <a href="https://locusmag.com/2025/06/anima-rising-by-christopher-moore-review-by-liz-bourke/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/anima-rising-by-christopher-moore-review-by-liz-bourke/>
 
 ---
 

@@ -1,11 +1,87 @@
 ---
 title: north america
-updated: 2025-06-10 06:08:44
+updated: 2025-06-10 14:08:55
 ---
 
 # north america
 
-(date: 2025-06-10 06:08:44)
+(date: 2025-06-10 14:08:55)
+
+---
+
+## Trump is alienating his billionaire backers: Sheldon Whitehouse on the recent conservative schism 
+
+date: 2025-06-10, from: The Contrarian
+
+"The fossil fuel industry and the corporate entities want to knock down the regulatory apparatus that inhibits their cheating and that inhibits their pollution" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165649713/10b406cfa7d631486e4f8a6330626d44.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165649713/10b406cfa7d631486e4f8a6330626d44.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/trump-is-alienating-his-billionaire>
+
+---
+
+## Let’s do Lunch! 06/10
+
+date: 2025-06-10, from: The Contrarian
+
+A recording from Let's Do Lunch! 06/10 
+
+<br> 
+
+<https://contrarian.substack.com/p/lets-do-lunch-0610>
+
+---
+
+## Linda McMahon knows exactly what kind of diversity she wants
+
+date: 2025-06-10, from: The Contrarian
+
+Testifying on Capitol Hill last week, the Education secretary seemed undereducated on significant events in Black history. 
+
+<br> 
+
+<https://contrarian.substack.com/p/linda-mcmahon-knows-exactly-what>
+
+---
+
+##  Trump Just Quietly Teed Up $20 Billion In Starlink Contracts 
+
+date: 2025-06-10, from: The Lever News
+
+ A new legislative carveout could redirect billions in funding for rural broadband construction to Elon Musk’s satellite company.  
+
+<br> 
+
+<https://www.levernews.com/trump-just-quietly-teed-up-20-billion-in-starlink-contracts/>
+
+---
+
+## Detained Man Says ICE Isn’t Treating His Colon Cancer
+
+date: 2025-06-10, from: Capital and Main
+
+<p>The Guatemalan man told officials that he had colon cancer when he first arrived at Otay Mesa Detention Center, according to his medical records.</p>
+<p>The post <a href="https://capitalandmain.com/detained-man-says-ice-isnt-treating-his-colon-cancer">Detained Man Says ICE Isn&#8217;t Treating His Colon Cancer</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/detained-man-says-ice-isnt-treating-his-colon-cancer>
+
+---
+
+## China is ready for Trump 
+
+date: 2025-06-10, from: The Contrarian
+
+It&#8217;s everyone else still pretending he&#8217;s unpredictable. 
+
+<br> 
+
+<https://contrarian.substack.com/p/china-is-ready-for-trump>
 
 ---
 

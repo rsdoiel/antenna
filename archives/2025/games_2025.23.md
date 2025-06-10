@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-06-10 06:08:47
+updated: 2025-06-10 14:08:59
 ---
 
 # games
 
-(date: 2025-06-10 06:08:47)
+(date: 2025-06-10 14:08:59)
+
+---
+
+## Where to find plant fiber locations in Dune: Awakening
+
+date: 2025-06-10, updated: 2025-06-10, from: Polygon Website
+
+Finding plant fiber locations in Dune: Awakening is essential during every stage of your adventure, but particularly in the first few main story quests. You&#8217;ll need plant fiber to craft healing bandages and clothes, including your first Stillsuit, among other things, and you need it in large quantities. It sounds cumbersome, but Dune: Awakening&#8216;s generous [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dune-awakening-guides/606094/plant-fiber-locations-where-to-find>
+
+---
+
+## Bosch star Titus Welliver is Van Helsing in a radical reimagining of Dracula
+
+date: 2025-06-10, updated: 2025-06-10, from: Polygon Website
+
+Dracula is one of the most iconic villains of all time, leading writers and filmmakers to constantly search for new ways to portray him, from focusing on his underling, to putting him on a boat to having him fight the X-Men. The latest version, starring Titus Welliver of Bosch as Dracula’s nemesis Abraham Van Helsing, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/606114/abrahams-boys-dracula-van-helsing-bosch-titus-welliver>
+
+---
+
+## Yes, Grounded 2 will also have an arachnophobia mode — even for the rideable spiders
+
+date: 2025-06-10, updated: 2025-06-10, from: Polygon Website
+
+While on the ground at Summer Game Fest 2025, I got to play a little bit of Grounded 2 and then had a quick chat afterwards with game director Chris Parker. In the brief time I had with the game, which is a sequel that continues the survival game story of kids shrunk down to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/606063/grounded-2-arachnophobia-mode>
+
+---
+
+## James Gunn confirms DC is working on a new Wonder Woman movie
+
+date: 2025-06-10, updated: 2025-06-10, from: Polygon Website
+
+DC Studios head James Gunn has revealed several key things about the future of its cinematic universe, including confirmation that a Wonder Woman movie is currently in development. James Gunn clarified to Entertainment Weekly that Wonder Woman is &#8220;a separate thing&#8221; from the upcoming HBO series Paradise Island, which centers on the Amazons of Themyscira. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/606090/james-gunn-confirms-dc-new-wonder-woman-movie>
+
+---
+
+## Epic Games goes after Fortnite cheat maker and cheat sellers in new lawsuit
+
+date: 2025-06-10, updated: 2025-06-10, from: Polygon Website
+
+Epic Games is going after the maker of cheating software for Fortnite that lets players see through walls and auto-aim at opponents in a new lawsuit filed Tuesday. But Epic isn’t stopping there; it’s also suing a quintet of resellers of those cheating tools, seeking unspecified damages from the defendants. In a lawsuit filed in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite/606086/epic-games-sues-fortnite-cheat-maker>
+
+---
+
+## Watching Mario Kart World fans get absolutely destroyed is too good
+
+date: 2025-06-10, updated: 2025-06-10, from: Polygon Website
+
+A week after the release of Nintendo’s bubbly racer on Switch 2, there’s plenty of footage showcasing new tech, amazing shortcuts, and impressive plays. But part of what makes Mario Kart such a memorable franchise is the chaos and randomness, which means players are also sharing clips of themselves getting owned. Turns out, a blue [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/605987/mario-kart-world-funny-clips-first-place-owned-switch-2>
+
+---
+
+## All Switch games with Switch 2 backwards compatibility issues
+
+date: 2025-06-10, updated: 2025-06-10, from: Polygon Website
+
+Switch 2 backwards compatibility is pretty comprehensive across console generations, but there are still some original Switch games that don’t work on Switch 2. Although Switch 2 arrived June 5 with the new Mario Kart World, some ports, and the possibility of upgrading big games (like Breath of the Wild and Tears of the Kingdom) [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/605908/backward-compatability-list-games-issues-all>
+
+---
+
+## What time does Stellar Blade release on PC?
+
+date: 2025-06-10, updated: 2025-06-10, from: Polygon Website
+
+Stellar Blade, a former PlayStation 5-exclusive action game with elements of Dark Souls and the NieR franchise, will make the leap to Windows PC this week. If you’ve been eagerly waiting to join the PS5 players who’ve been stomping Naytibas since last year, now’s your chance. Here’s when Stellar Blade releases on PC in your time zone. Stellar Blade [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/605820/stellar-blade-pc-release-time-date-edt-pdt>
 
 ---
 
