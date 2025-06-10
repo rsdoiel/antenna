@@ -1,11 +1,137 @@
 ---
 title: socal north
-updated: 2025-06-09 14:07:34
+updated: 2025-06-10 06:08:44
 ---
 
 # socal north
 
-(date: 2025-06-09 14:07:34)
+(date: 2025-06-10 06:08:44)
+
+---
+
+## Glendale just nixed its ICE deal. Why did it have one in the first place?
+
+date: 2025-06-10, updated: 2025-06-10, from: The LAist
+
+Under the California Values Act, local agencies in California are prohibited from helping with federal immigration enforcement. 
+
+<br> 
+
+<https://laist.com/news/la-county-glendale-ice-contract-terminated>
+
+---
+
+## SoCal weather to warm up through the middle of the week
+
+date: 2025-06-10, updated: 2025-06-10, from: The LAist
+
+Temperatures in the 90s and dry conditions will increase the risk of grass fires. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-weather-to-warm-up-through-the-middle-of-the-week>
+
+---
+
+## Tuesday's Strawberry Moon will hug the horizon. How to see it
+
+date: 2025-06-10, updated: 2025-06-10, from: The LAist
+
+For all the Southern California space fans, the full moon Tuesday night into Wednesday morning coincides with a major lunar standstill. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/strawberry-moon-horizon-how-to-see-it>
+
+---
+
+## Sudden chaos, now a National Guard station: The scene in Paramount after a national flashpoint
+
+date: 2025-06-10, from: Longbeach Post
+
+<figure><img width="1024" height="560" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-1024x560.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-1024x560.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-300x164.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-768x420.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-192x105.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-400x219.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Troops are still staged in Paramount, a city that was suddenly thrust into a monumental political conflict when immigration agents amassed in a business park.</p>
+<p>The post <a href="https://lbpost.com/news/paramount-national-guard-aftermath-protest-trump">Sudden chaos, now a National Guard station: The scene in Paramount after a national flashpoint</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/paramount-national-guard-aftermath-protest-trump>
+
+---
+
+## Protestors gather in Santa Ana following alleged immigration raids
+
+date: 2025-06-10, updated: 2025-06-10, from: The LAist
+
+Around 200 protestors rallied this afternoon outside the Santa Ana Federal Building after agents were reported detaining residents in the city. 
+
+<br> 
+
+<https://laist.com/news/protestors-gather-santa-ana-alleged-immigration-raids>
+
+---
+
+## Alleged co-conspirator in Andrew Do taxpayer fraud scheme pleads not guilty
+
+date: 2025-06-10, updated: 2025-06-10, from: The LAist
+
+Thanh Huong Nguyen, 61, of Santa Ana was arraigned on three federal charges on Monday. 
+
+<br> 
+
+<https://laist.com/news/politics/andrew-do-thanh-huong-nguyen-orange-county>
+
+---
+
+## Waymo is avoiding downtown LA after its taxis were vandalized during ICE protests
+
+date: 2025-06-09, updated: 2025-06-09, from: The LAist
+
+The autonomous vehicles are operating normally in other parts of the city. 
+
+<br> 
+
+<https://laist.com/news/transportation/waymo-cars-autonomous-taxis-protests-los-angeles-ice>
+
+---
+
+## Trump mobilizes Marines and more National Guard troops for duty in LA
+
+date: 2025-06-09, updated: 2025-06-09, from: The LAist
+
+A defense official told NPR the Marines were expected to operate in a 'support role.' 
+
+<br> 
+
+<https://laist.com/news/trump-mobilizes-marines-for-duty-in-los-angeles>
+
+---
+
+## California sues Trump for sending National Guard troops into LA after ice protests
+
+date: 2025-06-09, updated: 2025-06-09, from: The LAist
+
+California Attorney General Rob Bonta called the National Guard deployment in Los Angeles 'unnecessary and counterproductive.' 
+
+<br> 
+
+<https://laist.com/news/california-sues-trump-for-sending-national-guard-troops-into-la-after-ice-protests>
+
+---
+
+## FBI offers reward for capture of man who threw rocks at feds in Paramount
+
+date: 2025-06-09, from: Longbeach Post
+
+<figure><img width="1024" height="506" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-1024x506.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-1024x506.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-300x148.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-768x380.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-192x95.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-400x198.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A video of him throwing rocks blazed across the internet, and the FBI quickly offered the $50,000 reward.</p>
+<p>The post <a href="https://lbpost.com/news/fbi-offers-reward-for-capture-of-man-who-threw-rocks-at-feds-in-paramount">FBI offers reward for capture of man who threw rocks at feds in Paramount</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/fbi-offers-reward-for-capture-of-man-who-threw-rocks-at-feds-in-paramount>
 
 ---
 
@@ -18,6 +144,18 @@ The musical visionary led a multi-racial funk band that produced five Top 10 hit
 <br> 
 
 <https://laist.com/news/arts-and-entertainment/sly-stone-visionary-funk-frontman-of-the-family-stone-died-at-age-82>
+
+---
+
+## LAPD arrests 50 people during immigration protests over the weekend
+
+date: 2025-06-09, updated: 2025-06-09, from: The LAist
+
+Charges range from failure to disperse, attempted murder. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/lapd-arrests-31-people-during-immigration-protests-weekend>
 
 ---
 
@@ -37,7 +175,7 @@ Charges range from failure to disperse, attempted murder
 
 date: 2025-06-09, from: Longbeach Post
 
-<figure><img width="1024" height="651" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-1024x651.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-1024x651.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-300x191.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-768x488.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-170x108.jpg 170w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-400x254.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="651" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-1024x651.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-1024x651.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-300x191.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-768x488.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-170x108.jpg 170w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-400x254.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Homeland Security said Saturday that 118 people had been arrested by ICE in the L.A. County immigration actions. They recently publicly named 12 of them.</p>
 <p>The post <a href="https://lbpost.com/news/ice-arrest-list-raids-los-angeles-names">Officials name 12 ICE arrestees; at least two appear to have been in custody before raids</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -62,11 +200,11 @@ date: 2025-06-09, from: City of Santa Clarita
 
 ---
 
-## Labor union president charged with impeding ICE officers
+## SEIU leader David Huerta released after being charged with impeding ICE officers
 
-date: 2025-06-09, updated: 2025-06-09, from: The LAist
+date: 2025-06-09, updated: 2025-06-10, from: The LAist
 
-David Huerta, who leads the powerful Service Employees International Union California, was arrested at an immigration raid Friday near downtown. Demonstrators are calling for his release from custody. 
+Huerta, who leads the powerful Service Employees International Union California, was arrested at an immigration raid Friday near downtown. 
 
 <br> 
 
@@ -114,7 +252,7 @@ David Huerta leads a union that's a big player in the California Capitol, where 
 
 date: 2025-06-09, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>It’s exceedingly rare for presidents to call up the National Guard in opposition to a governor’s wishes, as President Trump did in deploying the National Guard to Los Angeles.</p>
 <p>The post <a href="https://lbpost.com/news/politics/nationa-guard-legal-precedent-trump-california-la-newsom">Trump ignored Newsom in putting the National Guard in LA. That’s rare in US history</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -203,18 +341,6 @@ The decision comes after an LAist investigation exposed millions in unaccounted-
 
 ---
 
-## Best things to do this week in LA and SoCal: June 9 - 12
-
-date: 2025-06-09, updated: 2025-06-09, from: The LAist
-
-Hollywood Fringe is back! Plus, see the Angels take on the Athletics in Anaheim, get your hike on during Pride Month, and Superfine Playa pairs Margherita pizza and margarita cocktails. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/best-things-to-do-los-angeles-southern-california-june-9-12>
-
----
-
 ## Drumroll… We reveal your top 20 SoCal cheeseburgers! Is your favorite on the list?
 
 date: 2025-06-09, updated: 2025-06-09, from: The LAist
@@ -224,6 +350,18 @@ All now have a chance to win the 2nd annual Tournament of Cheeseburgers crown in
 <br> 
 
 <https://laist.com/news/food/drumroll-we-reveal-your-top-20-socal-cheeseburgers>
+
+---
+
+## Best things to do this week in LA and SoCal: June 9 - 12
+
+date: 2025-06-09, updated: 2025-06-09, from: The LAist
+
+Hollywood Fringe is back! Plus, see the Angels take on the Athletics in Anaheim, get your hike on during Pride Month, and Superfine Playa pairs Margherita pizza and margarita cocktails. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-los-angeles-southern-california-june-9-12>
 
 ---
 

@@ -1,11 +1,231 @@
 ---
 title: snapshots
-updated: 2025-06-09 14:07:44
+updated: 2025-06-10 06:08:53
 ---
 
 # snapshots
 
-(date: 2025-06-09 14:07:44)
+(date: 2025-06-10 06:08:53)
+
+---
+
+## Airlines Don't Want You to Know They Sold Your Flight Data to DHS
+
+date: 2025-06-10, from: 404 Media Group
+
+A contract obtained by 404 Media shows that an airline-owned data broker forbids the feds from revealing it sold them detailed passenger data. 
+
+<br> 
+
+<https://www.404media.co/airlines-dont-want-you-to-know-they-sold-your-flight-data-to-dhs/>
+
+---
+
+## Fair Use Isn’t Optional: Judges Can Help Reclaim It for Creators
+
+date: 2025-06-10, from: Authors Union blogs
+
+Fair use is more than an "affirmative defense" that a party in default waives. This post goes into details about the procedural aspect of the fair use defense. 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/06/10/fair-use-isnt-optional-judges-can-help-reclaim-it-for-creators/>
+
+---
+
+## Lest We Forget The Horrors
+
+date: 2025-06-10, from: Chris Coyier blog
+
+Just a high five to McSweeney&#8217;s for the month-by-month documentation of the horrible crap Trump does. Just a paragraph reminder with good links to confirm. I try to keep my own little mental list of things that horrify me. Not to slather myself in, as I don&#8217;t have the mental health spoons to live like [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/06/10/lest-we-forget-the-horrors/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-10, from: Feed for Alt USDS)
+
+Learn about why it matters that the ACIP was fired yesterday from @altcdc.altgov.info
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lrawdqqo7c25>
+
+---
+
+## The SEO to Skibidi Pipeline: Investigating Digital Linguistic Transference
+
+date: 2025-06-10, from: Digital Humanities Quarterly News
+
+The Oxford Word of the Year for 2024 was “brain rot,” defined as “(n.) Supposed deterioration of a person’s mental or intellectual state, especially viewed as a result of overconsumption of material (now particularly online content) considered to be trivial or unchallenging.” Gen Z and Gen Alpha have described their own internet-informed dialect as &#8220;brain [...]
+<p><a href="https://www.digitalrhetoriccollaborative.org/2025/06/10/the-seo-to-skibidi-pipeline-investigating-digital-linguistic-transference/" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://www.digitalrhetoriccollaborative.org/2025/06/10/the-seo-to-skibidi-pipeline-investigating-digital-linguistic-transference/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-10, from: Feed for Alt USDS)
+
+Here's an easy way to get involved. Stand up for NIH and the policies around research that used to be in effect. Ones that made us one of the best places to do research in the wild
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lras44vkcc25>
+
+---
+
+## We Finally Know What “American Carnage” Was About
+
+date: 2025-06-10, from: Paul Krugman
+
+Behind the sadism lies an attack on democracy 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/we-finally-know-what-american-carnage>
+
+---
+
+## Businesses and economists
+
+date: 2025-06-10, from: Enlightenment Economics
+
+I&#8217;ve been reading an interesting little book, Price Setting by Truman Bewley. He did something that&#8217;s still quite unusual for economists (despite the excellent work by Stefanie Stantcheva): asking people what they think. In this case, it was asking hundreds &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/06/businesses-and-economists/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2025/06/businesses-and-economists/>
+
+---
+
+## MCP can be a supercharger for Open Data projects and Vibe Coding
+
+date: 2025-06-10, from: Conor O'Niell's blog, Cross Dominant
+
+For personal projects, I generally follow Andrej Karpathy&rsquo;s original definition of Vibe Coding - I don&rsquo;t look at the generated code, I just tell the LLM what I want, paste in the error messages and iterate until it gives me the output I need. But that&rsquo;s a lot easier to do when you&rsquo;ve been writing software for 40+ years and know what to ask for!
+But when it comes to creating Open Data projects, I often find that the challenge isn&rsquo;t the code, it&rsquo;s the data. 
+
+<br> 
+
+<https://conoroneill.net/2025/06/10/mcp-can-be-a-supercharger-for-open-data-projects-and-vibe-coding/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-10, from: Feed for Alt USDS)
+
+Marines on our streets. The governor threatened with arrest.
+
+This moment echoes the darkest chapters of history - abroad, AND here at home. This is what a manufactured crisis looks like.
+
+Our latest newsletter breaks it all down: bit.ly/WTB_NoKings
+
+#WeTheBuilders #StandUpNotBack #CivicDefense 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lr7v2kzntk2s>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-10, from: Dave Winer's linkblog)
+
+Can US Citizens be sent to prison in another country? 
+
+<br> 
+
+<https://prisonjournalismproject.org/2025/05/27/u-s-citizens-prison-other-country/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-10, from: Dave Winer's linkblog)
+
+About 700 Marines being mobilized in response to LA protests. 
+
+<br> 
+
+<https://www.cnn.com/2025/06/09/politics/marines-mobilized-los-angeles-protests>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-10, from: Dave Winer's linkblog)
+
+Rumors of ICE raids cause fear in SF restaurant industry. 
+
+<br> 
+
+<https://sfstandard.com/2025/06/09/san-francisco-restaurants-ice-raids/>
+
+---
+
+## The Exit Strategy
+
+date: 2025-06-10, updated: 2025-06-10, from: Tedium site
+
+After two decades, Apple has announced its final version of MacOS for Intel. Guess that means Hackintoshing is done, too. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17048224/apple-wwdc-intel-mac-support-ending>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-09, from: Robert's feed at BlueSky)
+
+I need to use the words "linguine fini" in casual conversation. 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lr7ljv23j22u>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-09, from: Dave Winer's linkblog)
+
+One of the best bits of political theater in memory. 
+
+<br> 
+
+<https://www.youtube.com/watch?v=-hUW27EJFL4>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-09, from: Feed for Alt USDS)
+
+Former US Digital Service engineer Elizabeth Schweinsburg is one of the great ones. Always willing to help with security issues, a great interviewer, and an absolute powerhouse for security in government. This award is well-deserved!
+
+https://niccs.cisa.gov/resources/sfs-hall-fame 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lr7g6levtc2v>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-09, from: Dave Winer's linkblog)
+
+Justice Jackson warns the Supreme Court is manipulating the rules to benefit Trump. 
+
+<br> 
+
+<https://www.vox.com/scotus/416073/supreme-court-justice-ketanji-brown-jackson-shadow-docket-trump>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-09, from: Dave Winer's linkblog)
+
+2016: The Getting-Shit-Done Party. “I couldn&#39;t wait not to just be a contributor and supporter but to being part of the political system on a daily basis.” It never happened. That my friends is the path back to sanity. 
+
+<br> 
+
+<http://scripting.com/2016/05/04/1237.html>
 
 ---
 
@@ -70,12 +290,19 @@ The framework has native support for Swift, so developers can easily access the 
     options<span class="pl-kos">:</span> <span class="pl-en">GenerationOptions</span><span class="pl-kos">(</span>temperature<span class="pl-kos">:</span> <span class="pl-c1">2.0</span><span class="pl-kos">)</span>
 <span class="pl-kos">)</span></pre>
 
+<p>There's also a <a href="https://developer.apple.com/videos/play/wwdc2025/286/">23 minute Meet the Foundation Models framework</a> video from the conference, which clarifies that this is a 3 billion parameter model with 2 bit quantization. The model is trained for both tool-calling and structured output, which they call "guided generation" and describe as taking advantage of constrained decoding.</p>
 <p>I'm also <em>very</em> excited about this:</p>
 <blockquote>
 <p><strong>Containerization Framework</strong></p>
 <p>The Containerization framework enables developers to create, download, or run Linux container images directly on Mac. It’s built on an open-source framework optimized for Apple silicon and provides secure isolation between container images. </p>
 </blockquote>
-<p>I continue to seek the ideal sandboxing solution for running untrusted code - both from other humans and written for me by LLMs - on my own machines. This looks like it could be a really great option for that going forward.
+<p>I continue to seek the ideal sandboxing solution for running untrusted code - both from other humans and written for me by LLMs - on my own machines. This looks like it could be a really great option for that going forward.</p>
+<p>It looks like <a href="https://github.com/apple/container">apple/container</a> on GitHub is part of this new feature. From the <a href="https://github.com/apple/container/blob/main/docs/technical-overview.md">technical overview</a>:</p>
+<blockquote>
+<p>On macOS, the typical way to run Linux containers is to launch a Linux virtual machine (VM) that hosts all of your containers.</p>
+<p><code>container</code> runs containers differently. Using the open source <a href="https://github.com/apple/containerization">Containerization</a> package, it runs a lightweight VM for each container that you create. [...]</p>
+<p>Since <code>container</code> consumes and produces standard OCI images, you can easily build with and run images produced by other container applications, and the images that you build will run everywhere.</p>
+</blockquote>
 
 
     <p>Tags: <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/apple">apple</a>, <a href="https://simonwillison.net/tags/macos">macos</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/sandboxing">sandboxing</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/swift">swift</a></p> 
@@ -462,6 +689,18 @@ Twitter-as-a-service. I wish AWS had done this ten years ago. We could’ve avoi
 
 ---
 
+## Sly Stone and the Scariest Show Ever
+
+date: 2025-06-09, updated: 2025-06-09, from: Anil Dash
+
+ 
+
+<br> 
+
+<https://anildash.com/2025/06/09/sly-stone-scariest-show/>
+
+---
+
 ## Daikin heat pump WiFi woes
 
 date: 2025-06-09, from: Alex Pearce blog (CERN)
@@ -683,7 +922,7 @@ llm embed -m sentence-transformers/Qwen/Qwen3-Embedding-0.6B -c hi | jq length
 <p>This output 1024, confirming that Qwen3 0.6B produces 1024 length embedding vectors.</p>
 <p>These new models are the highest scoring open-weight models on the well regarded <a href="https://huggingface.co/spaces/mteb/leaderboard">MTEB leaderboard</a> - they're licensed Apache 2.0.</p>
 <p><img alt="Table showing ranking of embedding models with columns for Rank, Model name, Zero-shot performance, Memory Usage, Number of Parameters, Embedding Dimensions, and Max Tokens. Top models include gemini-embedding-001 at rank 1 with 99% zero-shot and 3072 embedding dimensions, Qwen3-Embedding-8B at rank 2 with 99% zero-shot and 4096 embedding dimensions, and several other Qwen3 variants. Most models show 99% zero-shot performance with green highlighting, except gte-Qwen2-7B-instruct at rank 6 which shows &quot;NA&quot; with red highlighting and a warning triangle icon." src="https://static.simonwillison.net/static/2025/qwen3-mteb.jpg" /></p>
-<p>You can also try them out in your web browser, thanks to a <a href="https://huggingface.co/docs/transformers.js/en/index">Transformers.js</a> port of the models. I loaded <a href="https://static.simonwillison.net/static/2025/qwen3-web.jpg">this page in Chrome</a> and it fetched 560MB of model files and gave me an interactive interface for visualizing clusters of embeddings like this:</p>
+<p>You can also try them out in your web browser, thanks to a <a href="https://huggingface.co/docs/transformers.js/en/index">Transformers.js</a> port of the models. I loaded <a href="https://huggingface.co/spaces/webml-community/qwen3-embedding-webgpu">this page in Chrome</a> (<a href="https://huggingface.co/spaces/webml-community/qwen3-embedding-webgpu/tree/main">source code here</a>) and it fetched 560MB of model files and gave me an interactive interface for visualizing clusters of embeddings like this:</p>
 <p><img alt="Screenshot of a text embedding web application interface showing a &quot;Sentences&quot; panel on the left with various sample sentences about topics like cooking, technology, sports, finance, music, and history, a &quot;Labels&quot; section below listing these categories, and a &quot;Scatterplot&quot; visualization on the right displaying colored clusters of data points representing the embedded sentences grouped by topic, with an &quot;Embed &amp; Plot&quot; button at the bottom and instructions to &quot;Done! Hover over points to see sentences.&quot;" src="https://static.simonwillison.net/static/2025/qwen3-web.jpg" />
 
     <p><small></small>Via <a href="https://twitter.com/xenovacom/status/1931082176788906006">@xenovacom</a></small></p>

@@ -1,11 +1,191 @@
 ---
 title: science and technology
-updated: 2025-06-09 14:07:36
+updated: 2025-06-10 06:08:46
 ---
 
 # science and technology
 
-(date: 2025-06-09 14:07:36)
+(date: 2025-06-10 06:08:46)
+
+---
+
+## ChatGPT users wake to find it's even more wrong, slower than usual
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Oh, great – now who&#39;ll do my thinking for me?</h4> <p>If you&#39;re having trouble getting ChatGPT to do your work for you this morning, you wouldn&#39;t be alone. It appears OpenAI services are experiencing a variety of issues.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/chatgpt_outage/>
+
+---
+
+## Cloud brute-force attack cracks Google users' phone numbers in minutes
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Chocolate Factory fixes issue, pays only $5K</h4> <p>A researcher has exposed a flaw in Google&#39;s authentication systems, opening it to a brute-force attack that left users&#39; mobile numbers up for grabs.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/google_brute_force_phone_number/>
+
+---
+
+## Snowflake and Databricks bank PostgreSQL acquisitions to bring transactions onto their platforms
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Data analytics vendors have tried this before with limited success</h4> <p>In the past few weeks, both Snowflake and Databricks dipped into their respective acquisition funds and found the resources to buy specialist providers of PostgreSQL database systems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/snowflake_and_databricks_bank_postgresql/>
+
+---
+
+## M&amp;S online ordering system operational 46 days after cyber shutdown
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>A milestone in cyberattack recovery – but deliveries will take a while and normal service not yet back</h4> <p>UK retailer Marks &amp; Spencer has reinstated online orders for some customers, marking a major milestone in its recovery from a cyberattack in April.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/ms_resumes_online_orders_46/>
+
+---
+
+## Peep show: 40K IoT cameras worldwide stream secrets to anyone with a browser
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Majority of exposures located in the US, including datacenters, healthcare facilities, factories, and more</h4> <p>Security researchers managed to access the live feeds of 40,000 internet-connected cameras worldwide and they may have only scratched the surface of what&#39;s possible.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/40000_iot_cameras_exposed/>
+
+---
+
+## Laser Focused: Keith Barr Leads Orion’s Lunar Docking Efforts
+
+date: 2025-06-10, from: NASA breaking news
+
+Keith Barr was born only months before the historic Apollo 11 landing in 1969. While he was too young to witness that giant leap for mankind, the moment sparked a lifelong fascination that set him on a path to design technology that will carry astronauts farther into space than ever before.&#160; Today, Barr serves as [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/laser-focused-keith-barr-leads-orions-lunar-docking-efforts/>
+
+---
+
+## Jupiter, Europe’s most powerful super, takes maiden flight - but misses exascale orbit
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Full system expected to break the exaFLOP barrier - perhaps in time for SC25 this fall?</h4> <p><strong>ISC</strong>  Germany&#39;s long-awaited Jupiter supercomputer launched into the number four spot on the Top500 list of publicly ranked systems, dethroning Italy&#39;s HPC6 as Europe&#39;s biggest, baddest iron.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/jupiter_europes_top_super/>
+
+---
+
+## Old but gold: Paper tape and punched cards still getting the job done – just about
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Will your data still be readable in half a century?</h4> <p><strong>The State of Storage</strong>  As storage media grows denser and more complex over time, it&#39;s worth remembering that older formats were sometimes far more durable. Sometimes.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/retro_storage/>
+
+---
+
+## Huawei founder says USA overestimates its semiconductor prowess
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Ren Zhengfei says his company is a generation behind, but he knows Huawei to catch up</h4> <p>Huawei founder Ren Zhengfei has said the USA overestimates his company’s semiconductor design prowess, which is at least a generation behind rival chipmakers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/huawei_founder_interview_semiconductor_sophistication/>
+
+---
+
+## Apple tries to contain itself with lightweight Linux VMs for macOS
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Swift-based containerization framework aims to improve performance and security</h4> <p>Apple on Monday unveiled an open source containerization framework for creating and running Linux container images on the Mac.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/apple_tries_to_contain_itself/>
+
+---
+
+## China orders trial of aged care robots that can cook, clean, and provide emotional support
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Elon Musk suggested this to Beijing years ago</h4> <p>China’s Ministry of Industry and Information Technology has ordered extensive trials of intelligent aged care robots.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/china_aged_care_robot_trials/>
+
+---
+
+## Apple introduces new Liquid Glass design language
+
+date: 2025-06-09, from: OS News
+
+Apple at WWDC announced iOS 26, introducing a comprehensive visual redesign built around its new &#8220;Liquid Glass&#8221; concept, alongside expanded Apple Intelligence capabilities, updates to core communication apps, and more. Liquid Glass is a translucent material that reflects and refracts surroundings to create dynamic, responsive interface elements, according to Apple. The new design language transforms the Lock Screen, where the time fluidly adapts to available space in wallpapers, and spatial scenes add 3D effects when users move their iPhone. Meanwhile, app icons and widgets gain new customization options, including a striking clear appearance. ↫ Tim Hardwick at MacRumors Apple also posted a video on YouTube where you can see the new design language in motion, which gives a bit of a better idea of what it&#8217;s actually like. Of course, before you believe anyone who&#8217;s writing about this new Liquid Glass design language, the only true way to form a coherent opinion of a user interface is through usage, so keep that in mind. Looking at the video, the good part that immediately jumps out at me about this Liquid Glass stuff is the animations informing you where stuff is coming from and where it&#8217;s going. These are the sort of affordances I was writing about almost 20 years ago, when Compiz&#8217; animations and effects made windows and virtual desktops feel like &#8220;real&#8221; objects that had a physical presence in a space. Apple&#8217;s Liquid Glass seems to have the same effect, and I&#8217;m here for it. The transparency, though, I&#8217;m not a huge fan of. Depending on the content shown beneath the glass user interface elements, contrast can suffer, making things incredibly hard to read. While the glassy refraction effects looks neat, I would&#8217;ve much rather seen a focus on blurred glass, which makes a lack of contrast much less likely to occur. I think we&#8217;re going to be seeing a lot of screenshots, videos, and thinkpieces about how this much transparency is going to hurt readability. I love it when an operating system gets a design language overhaul, and in this case, Apple is applying it across the board, to all of its operating systems. This may be the perfect moment for me to grit my teeth, hold my nose, and get my hands on a Mac just so I can write about Liquid Glass once it lands. 
+
+<br> 
+
+<https://www.osnews.com/story/142526/apple-introduces-new-liquid-glass-design-language/>
+
+---
+
+## Apple goes glass whole as it pours new UI everywhere
+
+date: 2025-06-09, updated: 2025-06-09, from: The Register (UK I.T. News)
+
+<h4>Annual infomercial spruiks visual change, modest functional enhancements, and a movie</h4> <p>Apple CEO Tim Cook on Monday opened the company&#39;s annual developer conference by talking up a forthcoming racing film called “F1”.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/09/apple_wwdc_2025_keynote/>
+
+---
+
+## ICANN waves hands in protest at AFRINIC election arrangement
+
+date: 2025-06-09, updated: 2025-06-09, from: The Register (UK I.T. News)
+
+<h4>Worries lawyers overseeing poll may have disqualifying entanglements</h4> <p>The Internet Corporation for Assigned Names and Numbers (ICANN) has called for changes to the roster of officials appointed to oversee the forthcoming election at the African Network Information Centre (AFRINIC), the latest twist in a conflict that stretches back years and has left the African regional internet registry in limbo.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/09/icann_afrinic_election_concerns/>
+
+---
+
+## As AI gallops through the federal workforce, lawmakers once again call for expanded training
+
+date: 2025-06-09, updated: 2025-06-09, from: The Register (UK I.T. News)
+
+<h4>The last effort never went anywhere</h4> <p>AI is here to stay, so representatives Nancy Mace (R-SC) and Shontel Brown (D-OH) have introduced a bill to ensure more US federal government employees are properly trained to use it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/09/bill_federal_employees_ai_training/>
 
 ---
 

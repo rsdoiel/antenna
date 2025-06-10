@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-06-09 14:07:38
+updated: 2025-06-10 06:08:47
 ---
 
 # writing
 
-(date: 2025-06-09 14:07:38)
+(date: 2025-06-10 06:08:47)
+
+---
+
+## Fair Use Isn’t Optional: Judges Can Help Reclaim It for Creators
+
+date: 2025-06-10, from: Author's Union blog
+
+Fair use is more than an "affirmative defense" that a party in default waives. This post goes into details about the procedural aspect of the fair use defense. 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/06/10/fair-use-isnt-optional-judges-can-help-reclaim-it-for-creators/>
 
 ---
 

@@ -1,11 +1,151 @@
 ---
 title: going electric
-updated: 2025-06-09 14:07:42
+updated: 2025-06-10 06:08:51
 ---
 
 # going electric
 
-(date: 2025-06-09 14:07:42)
+(date: 2025-06-10 06:08:51)
+
+---
+
+## How Apple CarPlay Will Be Less Annoying With iOS 26
+
+date: 2025-06-10, from: Inside EVs News
+
+Goodbye, call screen that takes up the entire display. Welcome, widgets and Liquid Glass. 
+
+<br> 
+
+<https://insideevs.com/news/762239/apple-carplay-ios26-widgets-call-screen/>
+
+---
+
+## This Rivian R1S Has Just 7,000 Miles. Its Owner ‘Still Loves It, When It’s Working’
+
+date: 2025-06-10, from: Inside EVs News
+
+After six months, this R1S has had several reliability issues that convinced the owner to get rid of it. 
+
+<br> 
+
+<https://insideevs.com/news/762234/rivian-r1s-gen-2-reliability-issues-7000-miles/>
+
+---
+
+## Tesla (TSLA) sales are crashing in China, and things are about to get worse
+
+date: 2025-06-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/china-up_tesla-down.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) sales are currently crashing in China, based on both new monthly and weekly data released today.</p>
+
+
+
+<p>That’s despite the new Model Y, record discounts, and incentives. Competition and a new electric vehicle (EV) price war are putting significant pressure on Tesla in China.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="419608" href="https://electrek.co/2025/06/10/tesla-tsla-sales-crashing-china-get-worse/#more-419608" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/10/tesla-tsla-sales-crashing-china-get-worse/>
+
+---
+
+## Chevrolet Is Breathing Down Tesla’s Neck In U.S. EV Sales
+
+date: 2025-06-10, from: Inside EVs News
+
+Chevy surpassed Ford to become America’s #2 EV brand. 
+
+<br> 
+
+<https://insideevs.com/news/762193/chevrolet-number-2-ev-sales-us-january-may/>
+
+---
+
+## Tesla officially starts autonomous ‘testing’ phase in Austin days before planned launch
+
+date: 2025-06-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Self-driving-Fremont-factory.png?w=1600" /></div><p>Tesla has officially entered the autonomous vehicle ‘testing’ phase in Austin, Texas days before its planned launch of a commercial service.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="419601" href="https://electrek.co/2025/06/09/tesla-starts-autonomous-testing-phase-austin-days-before-planned-launch/#more-419601" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/09/tesla-starts-autonomous-testing-phase-austin-days-before-planned-launch/>
+
+---
+
+## A Whole Bunch Of Hybrids Are Coming Soon: Report
+
+date: 2025-06-09, from: Inside EVs News
+
+As carmakers push out their EV plans, they're doubling down on hybrids, according to Bank of America's "Car Wars" report.  
+
+<br> 
+
+<https://insideevs.com/news/762172/hybrids-evs-car-wars-report/>
+
+---
+
+## E-quipment highlight: Oshkosh Striker Volterra Aircraft Rescue and Fire Fighter
+
+date: 2025-06-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Striker-Volterra-Electric-ARFF.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The <a href="https://electrek.co/2025/02/01/oshkosh-airport-of-the-future-features-autonomous-ground-support-evs/">Oshkosh</a>-built Striker Volterra electric ARFF vehicle (Aircraft Rescue and Fire Fighter) packs advanced battery technology and multiple power options to deliver consistent emergency response performance no matter how long it needs to be in action.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="airports,aviation,oshkosh" data-layer-viewtype="unknown" data-post-id="419583" href="https://electrek.co/2025/06/09/e-quipment-highlight-oshkosh-striker-volterra-aircraft-rescue-and-fire-fighter/#more-419583" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/09/e-quipment-highlight-oshkosh-striker-volterra-aircraft-rescue-and-fire-fighter/>
+
+---
+
+## Lexus RZ just got a +$10,000 bonus offer, making it its cheapest vehicle to lease
+
+date: 2025-06-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Lexus-cheapest-lease-RZ.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Thanks to a new $10,000 bonus offer introduced this month, the cheapest <a href="https://electrek.co/guides/lexus/">Lexus</a> you can currently lease is now the 2025 electric RZ. Is it worth checking out?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lexus" data-layer-viewtype="unknown" data-post-id="419564" href="https://electrek.co/2025/06/09/lexus-rz-now-cheapest-lease-with-new-10000-bonus-offer/#more-419564" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/09/lexus-rz-now-cheapest-lease-with-new-10000-bonus-offer/>
+
+---
+
+## A BMW Supplier Was Working On A U.S. EV Battery Factory. Here's Why Construction Stopped
+
+date: 2025-06-09, from: Inside EVs News
+
+The $1.6 billion facility is now in limbo. 
+
+<br> 
+
+<https://insideevs.com/news/762169/bmw-envision-aesc-battery-plant-south-carolina/>
+
+---
+
+## Rivian R1T Quad Leak Accidentally Shows Off NACS Port
+
+date: 2025-06-09, from: Inside EVs News
+
+The future is teal, has four motors and is finally freed from the grasp of CCS. 
+
+<br> 
+
+<https://insideevs.com/news/762158/rivian-r1t-quad-nacs-port/>
 
 ---
 

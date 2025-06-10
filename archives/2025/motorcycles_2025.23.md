@@ -1,11 +1,61 @@
 ---
 title: motorcycles
-updated: 2025-06-09 14:07:41
+updated: 2025-06-10 06:08:50
 ---
 
 # motorcycles
 
-(date: 2025-06-09 14:07:41)
+(date: 2025-06-10 06:08:50)
+
+---
+
+## We’ll Soon See This Kawasaki Motorcycle In Action At the Tour De France… Wait, What?
+
+date: 2025-06-10, from: Ride Apart, Electric Motorcycle News
+
+Kawasaki’s liter-class tourer will play a very important role in the iconic cycling race. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/762054/kawasaki-versys-1100-support-tour-de-france/>
+
+---
+
+## The Internet Thinks Suzuki Is Selling a Robot Dog You Can Ride, It's Fake
+
+date: 2025-06-10, from: Ride Apart, Electric Motorcycle News
+
+You've been hoodwinked! Bamboozled! Lied to! 
+
+<br> 
+
+<https://www.rideapart.com/news/762135/suzuki-rideable-robot-dog-fake-scam-internet/>
+
+---
+
+## This Killer Small Adventure Motorcycle Just Got Updated, But Could It Work In the US?
+
+date: 2025-06-10, from: Ride Apart, Electric Motorcycle News
+
+For the equivalent of less than $3,000, you could get yourself this rugged, go-anywhere two-wheeler. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/762055/yezdi-adventure-update-2025/>
+
+---
+
+## You Might Be Able To Recycle Your Old Motorcycle Helmet, But There's a Catch
+
+date: 2025-06-10, from: Ride Apart, Electric Motorcycle News
+
+Safety advocates say they should be replaced every 5 years or so, but what do you do with your old lids? 
+
+<br> 
+
+<https://www.rideapart.com/news/762004/motorcycle-helmet-recycling-program-dainese/>
 
 ---
 

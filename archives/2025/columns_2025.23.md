@@ -1,11 +1,159 @@
 ---
 title: columns
-updated: 2025-06-09 14:07:37
+updated: 2025-06-10 06:08:46
 ---
 
 # columns
 
-(date: 2025-06-09 14:07:37)
+(date: 2025-06-10 06:08:46)
+
+---
+
+## 2025-06-06 Sanseveria bloom
+
+date: 2025-06-10, from: Alex Schroeder's Blog
+
+<h1 id="2025-06-06-sanseveria-bloom">2025-06-06 Sanseveria bloom</h1>
+
+<p>The season has begun: as the sun sets, the Sanseveria flowers hidden deep amidst the leaves open and that sweet opium fills the room. I walk past the door and stop as if running into a different medium. Have I stepped out of an air-conditioned room into a Bangkok summer night? That sweetness takes me away as if I could bury my face into the neck of the love of my life. Sanseveria bloom. You are blessed if you have experienced it. Now is the season of my heart.</p>
+
+<p><img loading="lazy" src="2025-06-06-sanseveria-1.jpg" alt="A black and white image of a stalk full of delicate flowers in various stages of opening, surrounded by foreboding leaves, tall like walls, with deep shadows between them, like a cathedral, a cistern, a hidden miracle flower in an ancient ruin." /></p>
+
+<p><a class="tag" href="/search/?q=%23Flowers">#Flowers</a> <a class="tag" href="/search/?q=%23Plants">#Plants</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p>
+
+<p><strong>2025-06-07</strong>. In the morning.</p>
+
+<p><img loading="lazy" src="2025-06-06-sanseveria-2.jpg" alt="The white flowers with thin, white petals on a long stalk with gleaming droplets of nectar along the stem." /></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-06-06-sanseveria>
+
+---
+
+## The Coward Goes to War Against America
+
+date: 2025-06-10, from: Robert Reich's blog
+
+Trump wants Americans to turn violent. We will be steadfast. 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-dictators-revenge>
+
+---
+
+## Businesses and economists
+
+date: 2025-06-10, from: Enlightenment Economics blog
+
+I&#8217;ve been reading an interesting little book, Price Setting by Truman Bewley. He did something that&#8217;s still quite unusual for economists (despite the excellent work by Stefanie Stantcheva): asking people what they think. In this case, it was asking hundreds &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/06/businesses-and-economists/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2025/06/businesses-and-economists/>
+
+---
+
+## June 9, 2025
+
+date: 2025-06-10, from: Heather Cox Richardson blog
+
+At 10:19 last night, White House deputy chief of staff Stephen Miller posted on social media: &#8220;Stand with ICE. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-9-2025>
+
+---
+
+## Tuesday
+
+date: 2025-06-10, from: Doc Searls (at Harvard), New Old Blog
+
+Dig it. Nitin Badjatia, who has been with both ProjectVRM and Customer Commons from their beginnings, has a wise new newsletter. 
+
+<br> 
+
+<https://doc.searls.com/2025/06/09/tuesday-2/>
+
+---
+
+## Finding Lost Hills: An ‘Our Towns’ Report.
+
+date: 2025-06-10, from: James Fallows, Substack
+
+California's agricultural Central Valley&#8212;so rich in output, so poor in median income&#8212;is the focal point of trends in immigration, in education, in political trends, in sustainability. 
+
+<br> 
+
+<https://fallows.substack.com/p/finding-lost-hills-an-our-towns-report>
+
+---
+
+## Apple’s Introduction to Liquid Glass
+
+date: 2025-06-10, updated: 2025-06-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/>
+
+---
+
+## Tahoe Flips the Finder Icon
+
+date: 2025-06-10, updated: 2025-06-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://512pixels.net/2025/06/wwdc25-macos-tahoe-breaks-decades-of-finder-history/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-09, from: Miguel de Icaza Mastondon feed)
+
+<p>Maybe the real treasure were the apps that got Sherlocked along the way.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114656072110718538>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-09, from: Miguel de Icaza Mastondon feed)
+
+<p>This wwdc was so protein packed.</p><p>I am installing the betas on all my primary devices the eve before I go on a long vacation to Japan.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114655921592291550>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-09, from: Dave Winer's Scripting News)
+
+Idea for teachers. Allow students to use ChatGPT to write their papers, as long as they submit a log showing how they did it. Maybe they're getting help with writing, but the ideas are theirs? It might be possible to fake that part too, but for now, that's probably a bit too hard. 
+
+<br> 
+
+<http://scripting.com/2025/06/09.html#a224729>
+
+---
+
+## Produced & Directed By Donald Trump
+
+date: 2025-06-09, from: Dan Rather's Steady
+
+After a bad week, Trump debuts a riotous reality show 
+
+<br> 
+
+<https://steady.substack.com/p/produced-and-directed-by-donald-trump>
 
 ---
 
@@ -225,7 +373,7 @@ Pistacia lentiscus</p>
 
 **@Dave Winer's Scripting News** (date: 2025-06-09, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2020/08/01/picklesAplenty.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I use ChatGPT for all kinds of work problems, and for a lot of other stuff too. It can collaborate, and it has much more broad and deep knowledge than I do, than any human. No one knows whether it thinks or is self-aware, any more than we know whether humans think or are self-aware. For that reason, I think, ironically, there's no point discussing it, we'll never get an answer, because we have no idea what intelligence or thinking is. But it is every bit as thoughtful as any human I have ever worked with. And the whole business about pattern-recognition is imho bs. People who say that are just repeating what they heard from someone else. From a user standpoint, it's absolutely nothing like pattern recognition. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/05/28/openThePodBayDoorsHal.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I use ChatGPT for all kinds of work problems, and for a lot of other stuff too. It can collaborate, and it has much more broad and deep knowledge than I do, than any human. No one knows whether it thinks or is self-aware, any more than we know whether humans think or are self-aware. For that reason, I think, ironically, there's no point discussing it, we'll never get an answer, because we have no idea what intelligence or thinking is. But it is every bit as thoughtful as any human I have ever worked with. And the whole business about pattern-recognition is imho bs. People who say that are just repeating what they heard from someone else. From a user standpoint, it's absolutely nothing like pattern recognition. 
 
 <br> 
 
@@ -261,7 +409,7 @@ date: 2025-06-09, updated: 2025-06-09, from: Daring Fireball
 
 **@Dave Winer's Scripting News** (date: 2025-06-09, from: Dave Winer's Scripting News)
 
-I went to the <a href="https://daytona.scripting.com/search?q=dnc">DNC</a> in 2004 and 2008. Both times I heard from friends later that TV had been focused on riots, which confused the hell out of me, because I didn't see anything. There was some obnoxious stuff at the 2008 convention in Denver, we had to walk a gauntlet of ugly pictures of dead fetuses going in and out of the convention center. But in neither case were there <i>any</i> disturbances. I see the same sort of thing happening in LA now. 
+I went to the <a href="https://daytona.scripting.com/search?q=dnc">DNC</a> in 2004 and 2008. Both times I heard from friends later that TV had been focused on riots, which confused the hell out of me, because I didn't see anything. There was some obnoxious stuff at the 2008 convention in Denver, we had to walk a gauntlet of ugly pictures of dead fetuses going in and out of the convention center. But in neither case were there <i>any</i> disturbances. 
 
 <br> 
 
@@ -275,7 +423,7 @@ date: 2025-06-09, from: Dave Winer's Scripting News
 
 <p>Some random thoughts about wealth.</p>
 <p>Suppose you're an average middle-class person who works for a tech company when the company is bought out for a huge amount of money and your stock is now worth $10 million. It's liquid today. You just received a check for $10 million. What do you do? </p>
-<p>Answer: You buy things to see if there was a reason to make the money, and it turns out there really wasn't. You would have been just as happy in the big house in the rich neighborhood or the smaller house in a more modest place. </p>
+<p>Answer: You buy things to see if there was a reason to make the money, and it turns out there really wasn't. You would have been just as happy in the big house in the rich neighborhood or the smaller house in a more modest area. </p>
 <p>Then what if you reach another level, now you have a check in your hand for $100 million, then $1 billion, then $25 billion and keep going. It doesn't stop there. At each level you are compelled to find something fantastic that you can use that money for. Some power that the new level of wealth gets you. </p>
 <p>We saw in <a href="https://daytona.scripting.com/search?q=succession">Succession</a>, they played out the lunacy, the people use a lot of space, but they're still just people. If they loved someone or someone loved them, they'd be much happier than all the happiness all that money ever gave them. </p>
 <p>Having such large useless amounts of money is a not only a problem for the rich folk, we've found out, it's a problem for everyone else too, because eventually they get around to buying political power and they start using the money to change other people lives, always for the worse, it seems. </p>
@@ -283,9 +431,10 @@ date: 2025-06-09, from: Dave Winer's Scripting News
 <p>I didn't understand why, for example, Evan Williams didn't just make technology and give it away, after having made billions from Twitter. </p>
 <p>Why did Bill Gates have to accumulate so much money and threaten the independence of the open web, a miracle, to get it? Why not use your power to make miracles <i>before</i> you retire, start doing the good you were promising to do later, right now? What good, in hindsight, did the extra billions do for anyone, including Gates? When his power was at his peak, in the 90s, he could have done a much bigger thing for the world, give us a free new level of communication that would be available equally to everyone. </p>
 <p>Elon Musk, having done some incredible things in computers, finance, cars and space, had to invent new challenges that only his wealth can buy, and eventually came up with things that only the US Treasury could buy, and some things like relocating the human species on Mars, that no amount of money can buy (or so scientists say). He needs to receive an award of love and gratitude for not using his wealth to make everyone else totally miserable (including himself, it seems).</p>
-<p>PS: I haven't yet read <a href="https://daytona.scripting.com/search?q=%22evan%20osnos%22">Evan Osnos'</a> new <a href="https://www.amazon.com/Haves-Have-Yachts-Dispatches-Ultrarich/dp/1668204487">book</a> about billionaires. </p>
+<p>PS: I haven't yet read <a href="https://daytona.scripting.com/search?q=%22evan%20osnos%22">Evan Osnos'</a> new <a href="https://www.amazon.com/Haves-Have-Yachts-Dispatches-Ultrarich/dp/1668204487">book</a> about billionaires, but I want to. He's done some great reporting in the past. </p>
 <p>PPS: See also: <a href="http://scripting.com/davenet/2000/10/19/transcendentalMoney.html">Transcendental Money</a>, or money that replenishes itself, ie money that transcends time. </p>
 <p>PPPS: Another one: <a href="http://scripting.com/2016/05/31/1296.html">Your human-size life</a>. </p>
+<p>PPPPS: Ted Turner <a href="http://www.quoteswise.com/ted-turner-quotes-2.html">said</a> "I bet you’re all wondering what it feels like to be a billionaire. It’s disappointing really. I’ve learned that great wealth isn’t nearly as good as average sex."</p>
  
 
 <br> 
@@ -298,7 +447,7 @@ date: 2025-06-09, from: Dave Winer's Scripting News
 
 date: 2025-06-09, from: Doc Searls (at Harvard), New Old Blog
 
-A winner for me anyway. Online Sports Betting is for Losers now has more than 3000 reads. Not quite universal. After my wife noticed that the Apple USB-C wired earbuds she got for her new iPhone 16 wouldn&#39;t play when plugged into either of the USB-C ports in her MacBook Air, I went looking for USB-C [&#8230;] 
+Just some facts. No interpretations. This blog post got nine reads by the end of the day. This photo got about the same. The photo above has had 22,122 views, 421 faves, and 21 comments. And lots more views every day. It may also be the best photo I&#8217;ve ever taken from the window of [&#8230;] 
 
 <br> 
 
@@ -360,7 +509,7 @@ Closed for business Quote of the Day “I find television very educating. Every 
 
 date: 2025-06-09, from: Doc Searls (at Harvard), New Old Blog
 
-Today is the 100th birthday of Gail Jesswein, my father-in-law. Gail was the father of eight, the first of whom is my wife Joyce. Gail was a merchant mariner during World War II, when the casualty rate was one in twenty-six, higher than any U.S. military branch. On shore after the end of the war, [&#8230;] 
+Today is the 100th birthday of Gail Jesswein, my father-in-law. Gail was the father of eight, the first of whom was my wife. Gail was a merchant mariner during World War II, when the casualty rate was one in twenty-six, higher than any U.S. military branch. On shore after the end of the war, he [&#8230;] 
 
 <br> 
 
@@ -401,6 +550,18 @@ date: 2025-06-09, updated: 2025-06-09, from: Daring Fireball
 <br> 
 
 <https://machinelearning.apple.com/research/illusion-of-thinking>
+
+---
+
+## Sly Stone and the Scariest Show Ever
+
+date: 2025-06-09, updated: 2025-06-09, from: Anil Dash blog
+
+ 
+
+<br> 
+
+<https://anildash.com/2025/06/09/sly-stone-scariest-show/>
 
 ---
 

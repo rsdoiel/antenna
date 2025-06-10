@@ -1,11 +1,26 @@
 ---
 title: retro computing
-updated: 2025-06-09 14:07:41
+updated: 2025-06-10 06:08:50
 ---
 
 # retro computing
 
-(date: 2025-06-09 14:07:41)
+(date: 2025-06-10 06:08:50)
+
+---
+
+## ECOS5 from RISCOSbits 'previewed'
+
+date: 2025-06-10, from: Icon Bar, RISC OS News
+
+We recently persuaded RISCOSbits to let us have a pre-release copy of the new ECOS5 upgrade for their FAST systems....
+ 
+ 
+This adds a second Raspberry Pi 5 module inside the FAST case (looks like that space was left for it deliberately) to provide you with both RISC OS and Linux in a single system. You will also be pleased to hear the system is still pretty much silent in general usage. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2208.html>
 
 ---
 

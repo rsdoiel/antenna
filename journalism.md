@@ -1,11 +1,39 @@
 ---
 title: journalism
-updated: 2025-06-09 14:07:39
+updated: 2025-06-10 06:08:48
 ---
 
 # journalism
 
-(date: 2025-06-09 14:07:39)
+(date: 2025-06-10 06:08:48)
+
+---
+
+## Cars and Coffee revs up interest among Santa Clarita auto enthusiasts
+
+date: 2025-06-10, from: The Canyon News (COC Student Newspaper)
+
+<p>Every Saturday, Santa Clarita car lovers wake up bright and early at&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/cars-and-coffee/">Cars and Coffee revs up interest among Santa Clarita auto enthusiasts</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/cars-and-coffee/>
+
+---
+
+## Newhallywood Silent Film Festival revives the golden age of cinema
+
+date: 2025-06-09, from: The Canyon News (COC Student Newspaper)
+
+<p>Silent films started in the 1890s, originally made as short clips to&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/newhallywood/">Newhallywood Silent Film Festival revives the golden age of cinema</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/newhallywood/>
 
 ---
 

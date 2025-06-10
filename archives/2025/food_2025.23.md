@@ -1,11 +1,77 @@
 ---
 title: food
-updated: 2025-06-09 14:07:42
+updated: 2025-06-10 06:08:52
 ---
 
 # food
 
-(date: 2025-06-09 14:07:42)
+(date: 2025-06-10 06:08:52)
+
+---
+
+## Build-Outs Of Coffee: Ithaca Coffee Company In Ithaca, NY
+
+date: 2025-06-10, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Ithaca Coffee Company in Ithaca, New York. 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-ithaca-coffee-company-in-ithaca-ny-337449.html>
+
+---
+
+## The C Price Is Changing—Here’s What That Means for Coffee
+
+date: 2025-06-10, from: The Fresh Cup
+
+<p>The C market has always been complex, bu price changes are easy to understand because they’re shown in dollars per pound. But that’s about to change. </p>
+<p>The post <a href="https://freshcup.com/the-c-price-is-changing-heres-what-that-means-for-coffee/">The C Price Is Changing—Here’s What That Means for Coffee</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/the-c-price-is-changing-heres-what-that-means-for-coffee/>
+
+---
+
+## Grillo’s Pickle Pizza Is Here, and It Surpassed All My Expectations
+
+date: 2025-06-10, from: Taste of Home
+
+<p>It's one thing to put pineapple on pizza...but pickles?! I had to try it to see what the hype is about.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/grillos-pickle-pizza-review/">Grillo&#8217;s Pickle Pizza Is Here, and It Surpassed All My Expectations</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/grillos-pickle-pizza-review/>
+
+---
+
+## COLCANNON PIEROGI
+
+date: 2025-06-10, from: Irish Food Hub
+
+<p>Irish-Inspired Dumplings with a Comforting Twist Description: Turn leftover colcannon into something wonderfully unexpected with these Colcannon Pierogi — a delicious fusion of traditional Irish mashed potatoes and Eastern European dumplings. Soft dough pockets are stuffed with creamy cabbage-and-potato filling, then boiled and pan-fried until golden. It’s the perfect way to reinvent leftovers into a comforting dish with crispy edges and hearty flavor. Preparation Time: 40 minutes Cooking Time: 15 minutes Serving Size: Makes 20–24 pierogi (Serves 4–6) Ingredients For the Dough: 2 cups all-purpose flour 1/2 tsp salt 1 large egg 1/2 cup sour cream 1/4 cup butter, softened For the Filling: 2 cups leftover colcannon (mashed potatoes with cabbage and scallions) Optional: 1/4 cup grated cheddar or cooked bacon bits for extra richness Instructions Make the Dough: In a large bowl, combine flour and salt. Mix in egg, sour cream, and butter until dough comes together. Knead on a floured surface for 5–7 minutes until smooth. Wrap in plastic and let rest for 30 minutes. Prepare the Filling: If needed, warm the colcannon slightly to make it easier to handle. Stir in cheese or bacon if using. Set aside. Roll and Fill: Divide dough in half. Roll out one portion on a floured surface to 1/8-inch thick. Use a round cutter (3 inches) to cut circles. Spoon 1 tbsp of filling onto each circle, fold over, and press edges to seal. Crimp with a fork if desired. Cook the Pierogi: Bring a pot of salted water to a boil. Boil pierogi in batches for 2–3 minutes or until they float. Remove with a slotted spoon. Optional Pan-Fry: In a skillet, heat a bit of butter or oil and pan-fry the boiled pierogi until golden on both sides for extra texture and flavor. Serving Suggestions Serve your Colcannon Pierogi hot with a dollop of sour cream, a sprinkle of chives, or even a drizzle of brown butter. They make a perfect starter, side, or cozy vegetarian meal.</p>
+<p>The post <a href="https://irishfoodhub.com/colcannon-pierogi-recipe/">COLCANNON PIEROGI</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>
+ 
+
+<br> 
+
+<https://irishfoodhub.com/colcannon-pierogi-recipe/>
+
+---
+
+## Jojo Potatoes
+
+date: 2025-06-09, from: Taste of Home
+
+Jojo potatoes are coated in a savory blend of spices, then deep-fried until crispy on the outside and fluffy on the inside. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/jojo-potatoes/>
 
 ---
 
@@ -226,6 +292,46 @@ date: 2025-06-09, from: Isebel Eats
 <br> 
 
 <https://www.isabeleats.com/breakfast-burritos/>
+
+---
+
+## Blondies
+
+date: 2025-06-09, from: Taste of Home
+
+Whether you like them plain, packed with white chips or studded with walnuts, this buttery blondie recipe hits the sweet spot every time. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/blondies/>
+
+---
+
+## HOW THE AMERICAN GREAT DEPRESSION SHAPED IRISH-AMERICAN FOOD: WHY DISHES LIKE IRISH SODA BREAD BECAME SYMBOLIC
+
+date: 2025-06-09, from: Irish Food Hub
+
+<p>Table of Contents Irish Immigrants and the American Dream Surviving the Great Depression: Resourcefulness in the Kitchen Irish Soda Bread: From Peasant Loaf to Cultural Symbol Depression-Era Meals with Irish Roots Legacy and Nostalgia: How These Dishes Live On Irish Immigrants and the American Dream The story of Irish-American cuisine begins long before the 1930s. Millions of Irish immigrants arrived in the United States in the mid-to-late 19th century, escaping famine and economic hardship in Ireland. With them, they brought their values, religious traditions, and simple rural cooking. Life in America wasn’t easy, but many Irish families clung to their roots while adapting to their new environment. They worked long hours, lived in crowded tenements, and learned how to stretch every penny—and every scrap of food. By the time the Great Depression struck in 1929, Irish-Americans were firmly woven into the fabric of American society. But like millions of others, they faced job losses, hunger, and economic uncertainty. Their long-standing ability to make do with little became a source of strength—and their cooking traditions evolved to meet the times. Surviving the Great Depression: Resourcefulness in the Kitchen During the Great Depression, food had to be cheap, filling, and capable of feeding large families. Irish-American households relied on staples such as potatoes, cabbage, bread, onions, and flour. These were ingredients already familiar from Irish peasant diets, and they were relatively easy to obtain or grow, even during hard times. The home cook became a master of improvisation. Leftover vegetables went into soups and stews. Bread that had gone stale became breadcrumbs or stuffing. Dishes were prepared in bulk and reheated throughout the week. Any dish that could stretch ingredients without sacrificing nutrition—like potato pancakes, soda bread, or cabbage stew—became part of daily life. In this frugal environment, Irish-American recipes became even simpler. Butter was a luxury, meat was rare, and eggs were carefully rationed. Yet many families found comfort in their heritage recipes—reminders of home, resilience, and family unity. Irish Soda Bread: From Peasant Loaf to Cultural Symbol No dish better symbolizes this era than Irish soda bread. Traditionally made with just flour, baking soda, salt, and soured milk or buttermilk, it was the epitome of simplicity. In Ireland, it was already considered a humble bread, favored by rural families who didn’t have access to yeast or ovens and instead baked it in cast iron pots over fires. During the Great Depression, soda bread became a staple on Irish-American tables. It required no yeast and no expensive ingredients. It could be made in small kitchens, on wood stoves, or even open flames. Best of all, it filled the stomach and lasted for days. Though born of hardship, soda bread gained symbolic value. For many Irish-Americans, it was more than a practical loaf—it was a tie to their ancestry, a quiet act of cultural pride during one of the most difficult periods in U.S. history. Families would bake it on weekends, share it with neighbors, and eat it with simple soups or a smear of whatever butter or margarine was on hand. Depression-Era Meals with Irish Roots Beyond soda bread, other Depression-era meals reflected Irish roots adapted for American kitchens. Here are a few examples: Boxty: A traditional Irish potato pancake that fit the Depression-era need for inexpensive and starchy food. Grated raw potato, leftover mash, flour, and water—fried until crisp and served with whatever was available. (View our recipe) Cabbage Soup: A staple that crossed many immigrant groups, Irish-Americans often flavored this soup with a small bit of bacon or onion when possible. In lean times, even a cube of fat or drippings would suffice to create flavor. (View our recipe) Colcannon &#38; Champ: Mashed potatoes mixed with cabbage or scallions, making a little go a long way. These were comfort dishes that filled bellies and carried deep nostalgic value. (View our recipes: Colcannon / Champ) Oatmeal Porridge: Though not unique to the Irish, porridge was a breakfast staple. Irish-Americans added a splash of milk or honey when they could, and it often doubled as supper. (View our recipe) Many of these recipes evolved based on what was available at the local grocer, through church pantries, or grown in backyard plots. The Depression gave rise to a kind of cultural cooking that was both Irish in origin and American in execution. Legacy and Nostalgia: How These Dishes Live On Today, Irish soda bread and other Great Depression-era recipes have become staples of Irish-American culinary identity. Whether served at St. Patrick’s Day dinners, family reunions, or heritage-themed festivals, these foods represent more than just sustenance—they embody survival, memory, and belonging. Modern versions of these dishes are often enriched with ingredients that would have been out of reach in the 1930s—raisins, caraway seeds, cheeses, or meats. But the heart of the recipes remains unchanged. They are reminders of how communities leaned on their heritage to survive, and how food traditions can carry stories across generations. In the end, the Great Depression didn’t just shape how Irish-Americans ate—it strengthened their ties to home, resilience, and one another. Irish soda bread became more than a loaf—it became a symbol of hope baked into every crumb. IRISH SODA BREAD Description: A traditional Irish bread made with baking soda instead of yeast, giving it a slightly dense texture and a unique flavor. Preparation time: 10 minutes Cooking time: 45 minutes Serving size: 8-10 slices 4 cups of all-purpose flour 1 teaspoon of salt 1 teaspoon of baking soda 14 ounces of buttermilk   Preheat your oven to 425°F (218°C) and lightly grease a baking sheet. In a large mixing bowl, combine the flour, salt, and baking soda. Mix well. Make a well in the center of the mixture and pour in the buttermilk. Mix with a wooden spoon until a dough is formed. Turn the dough out onto a floured surface and knead it briefly, just enough to shape it into a round loaf. Place the loaf onto the greased baking sheet and use a sharp</p>
+<p>The post <a href="https://irishfoodhub.com/how-great-depression-shaped-irish-american-food/">HOW THE AMERICAN GREAT DEPRESSION SHAPED IRISH-AMERICAN FOOD: WHY DISHES LIKE IRISH SODA BREAD BECAME SYMBOLIC</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>
+ 
+
+<br> 
+
+<https://irishfoodhub.com/how-great-depression-shaped-irish-american-food/>
+
+---
+
+## HEATHER HONEY BUTTER
+
+date: 2025-06-09, from: Irish Food Hub
+
+<p>A Taste of Ireland’s Wild Sweetness Description: This simple yet luxurious Heather Honey Butter blends the creamy richness of Irish butter with the floral notes of wild heather honey and a touch of sea salt. Perfect as a spread for scones, soda bread, or warm toast, this whipped butter is a tribute to Ireland’s heather-covered hills and traditional ingredients. Preparation Time: 5 minutes Cooking Time: None Serving Size: Makes about 1/2 cup (serves 4–6) Ingredients 1/2 cup (1 stick) Irish butter, at room temperature 2 tablespoons heather honey (or high-quality wildflower honey as a substitute) 1/4 teaspoon flaky sea salt (adjust to taste) Instructions Soften the Butter: Ensure the butter is fully softened for easy whipping. Combine Ingredients: In a small mixing bowl, add the softened butter, heather honey, and sea salt. Whip: Using a hand mixer or fork, beat until light, fluffy, and fully blended. Chill or Serve: Use immediately or refrigerate for up to a week. Bring to room temperature before serving for best texture. Serving Suggestions Spread over fresh-baked Irish brown bread, melt over porridge oats, or add a pat to grilled root vegetables. It’s also a beautiful gift when packed in small jars with a rustic ribbon.</p>
+<p>The post <a href="https://irishfoodhub.com/heather-honey-butter-recipe/">HEATHER HONEY BUTTER</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>
+ 
+
+<br> 
+
+<https://irishfoodhub.com/heather-honey-butter-recipe/>
 
 ---
 

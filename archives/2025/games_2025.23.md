@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-06-09 14:07:38
+updated: 2025-06-10 06:08:47
 ---
 
 # games
 
-(date: 2025-06-09 14:07:38)
+(date: 2025-06-10 06:08:47)
+
+---
+
+## Lost in Random: The Eternal Die is a welcome entry to roguelike canon
+
+date: 2025-06-10, updated: 2025-06-03, from: Polygon Website
+
+Lost in Random: The Eternal Die stuck its hooks in me after just a few rooms. Dashing between enemy projectile attacks and then slicing those enemies up, I quickly got into a rhythm with the roguelike’s combat, which reminded me of Hades in all the best ways. It also has enough fresh gameplay ideas to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/603328/lost-in-random-eternal-die-roguelike>
+
+---
+
+## Webtoon and Dark Horse bring Cyberpunk 2077, Critical Role, The Witcher, and Legend of Korra to the platform
+
+date: 2025-06-10, updated: 2025-06-09, from: Polygon Website
+
+Webtoon is deepening its partnership with Dark Horse Comics by bringing five major franchises to its English-language platform. Newly reformatted for Webtoon’s signature vertical-scroll format, the lineup includes Critical Role: The Mighty Nein Origins, The Witcher, Cyberpunk 2077, Plants vs. Zombies, and fresh stories from Nickelodeon’s The Legend of Korra.&#160; Dark Horse Comics’ The Witcher [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/comics/605789/webtoon-dark-horse-comics-cyberpunk-2077-critical-role-the-witcher-legend-of-korra>
+
+---
+
+## Switch 2 does GameCube nostalgia right with hidden startup sound Easter eggs
+
+date: 2025-06-09, updated: 2025-06-09, from: Polygon Website
+
+In the days following the Switch 2’s launch, players have discovered a trio of delightful GameCube Easter eggs included in the Switch 2’s Nintendo Classics GameCube catalog, which can only be accessed if you have a Nintendo Switch Online + Expansion Pack membership. The Easter eggs in question all cause the Switch to replicate the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/605827/gamecube-logo-startup-easter-egg>
 
 ---
 
@@ -23,7 +59,7 @@ Weight classes in Mario Kart World work much like they do in Mario Kart 8, in th
 
 ## How to unlock characters in Mario Kart World
 
-date: 2025-06-09, updated: 2025-06-09, from: Polygon Website
+date: 2025-06-09, updated: 2025-06-10, from: Polygon Website
 
 There are a ton of characters in Mario Kart World (50 to be exact), but you have to unlock a few of them first. If you’re rushing to unlock Cataquack or Rosalina, you’ll want to know the specifics for unlocking certain characters, as some require you to clear a cup, whereas others require you to [&#8230;] 
 

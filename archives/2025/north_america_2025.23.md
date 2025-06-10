@@ -1,11 +1,59 @@
 ---
 title: north america
-updated: 2025-06-09 14:07:34
+updated: 2025-06-10 06:08:44
 ---
 
 # north america
 
-(date: 2025-06-09 14:07:34)
+(date: 2025-06-10 06:08:44)
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-06-10, from: The Contrarian
+
+Tuesday: Coverage of the protests against ICE in Los Angeles and elsewhere. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Hegseth is no “warrior”
+
+date: 2025-06-10, from: The Contrarian
+
+Words & Phrases we can do without 
+
+<br> 
+
+<https://contrarian.substack.com/p/hegseth-is-no-warrior>
+
+---
+
+## Evening Roundup, June 9
+
+date: 2025-06-09, from: The Contrarian
+
+Featuring Norm Ornstein, Steve Vladeck, Chris Mirasola, Jen Rubin, April Ryan and Juan Proa&#241;o, Nick Penniman, Pablo Torre, Brian O'Neill, Austin Sarat, Meredith Blake, and RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-9>
+
+---
+
+## At the Tonys, Hamilton harkens back to a more optimistic moment in American life
+
+date: 2025-06-09, from: The Contrarian
+
+Cynthia Erivo hosted a rousing ceremony that felt more triumphant than politically defiant. 
+
+<br> 
+
+<https://contrarian.substack.com/p/at-the-tonys-hamilton-harkens-back>
 
 ---
 
@@ -106,18 +154,6 @@ From Lafayette Square to Los Angeles, Trump is redefining dissent as threat.
 <br> 
 
 <https://contrarian.substack.com/p/federal-force-personal-power>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-06-09, from: The Contrarian
-
-Monday: Los Angeles protests became a national news story when the president called in the National Guard against the governor's wishes, planning for this weekend's No King's Day, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

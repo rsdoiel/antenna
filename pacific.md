@@ -1,11 +1,616 @@
 ---
 title: pacific
-updated: 2025-06-09 14:07:35
+updated: 2025-06-10 06:08:45
 ---
 
 # pacific
 
-(date: 2025-06-09 14:07:35)
+(date: 2025-06-10 06:08:45)
+
+---
+
+## Pacific tourism booms in the first quarter. Is it a blip? 
+
+date: 2025-06-10, from: Pacific Island Times
+
+ The Asia-Pacific region is reaching above 90 percent of its pre-pandemic levels. Tourism was up 12 percent in the first quarter of 2025, hitting 92 percent of pre-pandemic levels, according to a recent United Nations report.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/pacific-tourism-booms-in-the-first-quarter-is-it-a-blip>
+
+---
+
+## Trump’s crackdown on LA protests contrasts with his response to Jan. 6, 2021
+
+date: 2025-06-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; When violent protests originate from the right &#8212; such as those in Charlottesville, Virginia, in 2017, or at the U.S. Capitol on Jan. 6, 2021 &#8212; President Donald Trump has chosen to downplay the violence or suggest the protesters have a noble cause and have been treated unfairly.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/10/nation-world-news/trumps-crackdown-on-la-protests-contrasts-with-his-response-to-jan-6-2021/>
+
+---
+
+## Trump administration deploys Marines to Los Angeles, vows to intensify migrant raids
+
+date: 2025-06-10, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES/WASHINGTON &#8212; The Trump administration on Monday ordered U.S. Marines into Los Angeles and intensified raids on suspected undocumented immigrants, fueling more outrage from street protesters and Democratic leaders who raised concerns over a national crisis.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/10/nation-world-news/trump-administration-deploys-marines-to-los-angeles-vows-to-intensify-migrant-raids/>
+
+---
+
+## Marine heat waves are spreading around the world
+
+date: 2025-06-10, from: Hawaii Tribune Harold
+
+
+				<p>Unusual heat waves have occurred in all of the major ocean basins around the planet in recent years. And some of these events have become so intense that scientists have coined a new term: super marine heat waves.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/10/nation-world-news/marine-heat-waves-are-spreading-around-the-world/>
+
+---
+
+## Broadband bill becomes law: Measure intends to improve access to affordable, reliable high-speed internet
+
+date: 2025-06-10, from: Hawaii Tribune Harold
+
+
+				<p>Lt. Gov. Sylvia Luke signed into law Monday a bill that moves the office responsible for improving broadband internet access statewide from the Department of Business, Economic Development and Tourism to the Department of Accounting and General Services.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/10/hawaii-news/broadband-bill-becomes-law-measure-intends-to-improve-access-to-affordable-reliable-high-speed-internet/>
+
+---
+
+## Gun deaths of children rose in states that loosened gun laws, study finds
+
+date: 2025-06-10, from: Hawaii Tribune Harold
+
+
+				<p>Firearm deaths of children and teenagers rose significantly in states that enacted more permissive gun laws after the Supreme Court in 2010 limited local governments&#8217; ability to restrict gun ownership, a new study has found.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/10/nation-world-news/gun-deaths-of-children-rose-in-states-that-loosened-gun-laws-study-finds/>
+
+---
+
+## News in brief for June 10
+
+date: 2025-06-10, from: Hawaii Tribune Harold
+
+
+				<p>Due to protests, Waymo limits San Francisco service</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/10/nation-world-news/news-in-brief-for-june-10/>
+
+---
+
+## Oceans protection treaty could take effect from January, Macron says
+
+date: 2025-06-10, from: Hawaii Tribune Harold
+
+
+				<p>NICE, France &#8212; The international treaty on the high seas, which focuses on conservation and sustainable use of maritime areas beyond national jurisdictions, has received sufficient support to take effect early in 2026, French President Emmanuel Macron said on Monday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/10/nation-world-news/oceans-protection-treaty-could-take-effect-from-january-macron-says/>
+
+---
+
+## Russia launches biggest drone assault of the war, Ukraine says
+
+date: 2025-06-10, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Russia launched almost 500 drones and missiles at Ukraine overnight, Ukrainian forces said Monday, in the largest in a string of record-breaking aerial assaults as peace talks stall.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/10/nation-world-news/russia-launches-biggest-drone-assault-of-the-war-ukraine-says/>
+
+---
+
+## US State Department cable says agency using AI to help staff job panels
+
+date: 2025-06-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. State Department will use an artificial intelligence chatbot to help it select the people who will perform annual reviews of promotions and moves, according to a cable issued Monday and reviewed by Reuters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/10/nation-world-news/us-state-department-cable-says-agency-using-ai-to-help-staff-job-panels/>
+
+---
+
+## Sly Stone, leader of 1960s funk band, dies at age 82
+
+date: 2025-06-10, from: Hawaii Tribune Harold
+
+
+				<p>Sly Stone, the driving force behind Sly and the Family Stone, a multiracial American band whose boiling mix of rock, soul and psychedelia embodied 1960s idealism and helped popularize funk music, has died at the age of 82, his family said on Monday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/10/nation-world-news/sly-stone-leader-of-1960s-funk-band-dies-at-age-82/>
+
+---
+
+## US law enforcement prepare for hundreds of thousands to attend Army parade in Washington
+
+date: 2025-06-10, from: Hawaii Tribune Harold
+
+
+				<p>Law enforcement agencies are preparing for hundreds of thousands of people to attend a celebration in Washington, D.C., for the U.S. Army&#8217;s 250th anniversary on June 14, U.S. Secret Service Special Agent in Charge Matt McCool told a press briefing on Monday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/10/nation-world-news/us-law-enforcement-prepare-for-hundreds-of-thousands-to-attend-army-parade-in-washington/>
+
+---
+
+## Trump bill’s caps on grad school loans could worsen doctor shortage
+
+date: 2025-06-10, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s policy agenda would make deep cuts in government health plans and medical research, and, critics say, could also make finding a doctor more difficult. The Republicans&#8217; major domestic policy bill restricts loans that students rely on to pursue professional graduate degrees, making the path to becoming a physician harder even as doctor shortages loom and the American population is graying.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/10/nation-world-news/trump-bills-caps-on-grad-school-loans-could-worsen-doctor-shortage/>
+
+---
+
+## Kennedy removes all CDC vaccine panel experts
+
+date: 2025-06-10, from: Hawaii Tribune Harold
+
+
+				<p>Health Secretary Robert F. Kennedy Jr. on Monday fired all 17 members of the advisory committee on immunization to the Centers for Disease Control and Prevention, saying that the move would restore the public&#8217;s trust in vaccines.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/10/nation-world-news/kennedy-removes-all-cdc-vaccine-panel-experts/>
+
+---
+
+## Quick Fix: Mushroom and Onion Accented Steak Sandwich
+
+date: 2025-06-10, from: Hawaii Tribune Harold
+
+
+				<p>With Father&#8217;s Day right around the corner, why not treat Dad to a hearty steak sandwich packed with bold flavor?</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/10/features/quick-fix-mushroom-and-onion-accented-steak-sandwich/>
+
+---
+
+## Let’s Talk Food: David Chang’s Majordomo
+
+date: 2025-06-10, from: Hawaii Tribune Harold
+
+
+				<p>Celebrity Chef David Chang was born in Arlington, Va., started out as a competitive golfer, attended Georgetown Preparatory School and Trinity College, majoring in religious studies. He went to the French Culinary Institute in New York City in 2000. While in training, Chang worked part-time answering phones at Tom Colicchio&#8217;s Craft restaurant. After two years he moved to Japan and worked at a small soba shop, followed by a restaurant in Tokyo&#8217;s Park Hyatt Hotel. He then moved back to New York and worked at Cafe Boulud.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/10/features/lets-talk-food-david-changs-majordomo/>
+
+---
+
+## Whipps challenges high-income classification, calls for Global Support in Climate Crisis
+
+date: 2025-06-10, from: Island Times
+
+<figure><img width="1024" height="494" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?fit=1024%2C494&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=300%2C145&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=1024%2C494&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=768%2C370&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=1200%2C578&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=780%2C376&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=400%2C193&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=706%2C340&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?fit=1024%2C494&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78042" data-permalink="https://islandtimes.org/whipps-challenges-high-income-classification-calls-for-global-support-in-climate-crisis/celebrate-world-oceans-day/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?fit=1249%2C602&amp;ssl=1" data-orig-size="1249,602" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.2&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1749204607&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;2.2&quot;,&quot;iso&quot;:&quot;640&quot;,&quot;shutter_speed&quot;:&quot;0.0166674&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Celebrate World Oceans Day" data-image-description="" data-image-caption="&lt;p&gt;Palau WSO, SOPpAC, and Palau stakeholders of ocean resources celebrate World Oceans Day &#8211; June 6, two days&lt;br /&gt;
+earlier due WOD falling on Sunday June 8, 2025) UN Oceans Conference opened in Nice, France where Palau&lt;br /&gt;
+President Whipps is also in attendance..&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?fit=300%2C145&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?fit=780%2C376&amp;ssl=1" /></figure>
+<p>GENEVA (AP) — Palau President Surangel Whipps Jr. delivered an address at a United Nations dialogue on disaster risk reduction, highlighting the existential threats facing his Pacific nation and condemning the &#8220;profound injustice&#8221; of Palau being classified as a high-income country based solely on GDP.&#160; Speaking at an event convened by the UN Office for [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-challenges-high-income-classification-calls-for-global-support-in-climate-crisis/">Whipps challenges high-income classification, calls for Global Support in Climate Crisis</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/whipps-challenges-high-income-classification-calls-for-global-support-in-climate-crisis/>
+
+---
+
+## Palau sweeps Six-Game Friendly Baseball series against Taiwan, renews Long-Term Partnership
+
+date: 2025-06-10, from: Island Times
+
+<figure><img width="1024" height="547" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Schools-prepped-for-Pacific-Mini-Games-2025.jpg?fit=1024%2C547&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Schools-prepped-for-Pacific-Mini-Games-2025.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Schools-prepped-for-Pacific-Mini-Games-2025.jpg?resize=300%2C160&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Schools-prepped-for-Pacific-Mini-Games-2025.jpg?resize=1024%2C547&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Schools-prepped-for-Pacific-Mini-Games-2025.jpg?resize=768%2C410&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Schools-prepped-for-Pacific-Mini-Games-2025.jpg?resize=1200%2C641&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Schools-prepped-for-Pacific-Mini-Games-2025.jpg?resize=780%2C417&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Schools-prepped-for-Pacific-Mini-Games-2025.jpg?resize=400%2C214&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Schools-prepped-for-Pacific-Mini-Games-2025.jpg?resize=706%2C377&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Schools-prepped-for-Pacific-Mini-Games-2025.jpg?fit=1024%2C547&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78038" data-permalink="https://islandtimes.org/palau-sweeps-six-game-friendly-baseball-series-against-taiwan-renews-long-term-partnership/schools-prepped-for-pacific-mini-games-2025/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Schools-prepped-for-Pacific-Mini-Games-2025.jpg?fit=1249%2C667&amp;ssl=1" data-orig-size="1249,667" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1749497188&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;50&quot;,&quot;shutter_speed&quot;:&quot;0.0166674&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Schools prepped for Pacific Mini Games 2025" data-image-description="" data-image-caption="&lt;p&gt;Schools prepped for Pacific Mini Games 2025&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Schools-prepped-for-Pacific-Mini-Games-2025.jpg?fit=300%2C160&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Schools-prepped-for-Pacific-Mini-Games-2025.jpg?fit=780%2C417&amp;ssl=1" /></figure>
+<p>KOROR, Palau (June 9, 2025) — Palau’s national baseball team scored a resounding victory in a six-game friendly series against Taiwan’s visiting teams, sweeping all six matchups in the 2025 Taiwan-Palau Baseball Exchange Tournament held at the ASAHI Stadium. The week-long event not only celebrated baseball diplomacy but also marked a milestone in sports cooperation [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-sweeps-six-game-friendly-baseball-series-against-taiwan-renews-long-term-partnership/">Palau sweeps Six-Game Friendly Baseball series against Taiwan, renews Long-Term Partnership</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-sweeps-six-game-friendly-baseball-series-against-taiwan-renews-long-term-partnership/>
+
+---
+
+## Young Palauan Scientist earns Ph.D., advances sustainable Microalgae Research
+
+date: 2025-06-10, from: Island Times
+
+<figure><img width="1024" height="983" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Dr.-Kyarii-Ramarui.jpg?fit=1024%2C983&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Dr.-Kyarii-Ramarui.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Dr.-Kyarii-Ramarui.jpg?resize=300%2C288&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Dr.-Kyarii-Ramarui.jpg?resize=1024%2C983&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Dr.-Kyarii-Ramarui.jpg?resize=768%2C737&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Dr.-Kyarii-Ramarui.jpg?resize=1200%2C1152&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Dr.-Kyarii-Ramarui.jpg?resize=780%2C749&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Dr.-Kyarii-Ramarui.jpg?resize=400%2C384&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Dr.-Kyarii-Ramarui.jpg?resize=706%2C678&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Dr.-Kyarii-Ramarui.jpg?fit=1024%2C983&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78033" data-permalink="https://islandtimes.org/young-palauan-scientist-earns-ph-d-advances-sustainable-microalgae-research/dr-kyarii-ramarui/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Dr.-Kyarii-Ramarui.jpg?fit=1249%2C1199&amp;ssl=1" data-orig-size="1249,1199" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Dr. Kyarii Ramarui" data-image-description="&lt;p&gt;(photo: Dr. Kyarii Ramarui. Photo credit: Supplied)&lt;/p&gt;
+" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Dr.-Kyarii-Ramarui.jpg?fit=300%2C288&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Dr.-Kyarii-Ramarui.jpg?fit=780%2C749&amp;ssl=1" /></figure>
+<p>By: Eustoria Marie Borja BALTIMORE, Md. (May 30, 2025) — Kyarii Ramarui, a young scientist from Palau, has made history in her field, earning a Doctor of Philosophy in Environmental Molecular Science and Technology from the University of Maryland Center for Environmental Science. Ramarui’s research focused on microalgae—microscopic aquatic plants known for producing astaxanthin, a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/young-palauan-scientist-earns-ph-d-advances-sustainable-microalgae-research/">Young Palauan Scientist earns Ph.D., advances sustainable Microalgae Research</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/young-palauan-scientist-earns-ph-d-advances-sustainable-microalgae-research/>
+
+---
+
+## Wet week ahead for Palau as Monsoon surge brings showers and thunderstorms
+
+date: 2025-06-10, from: Island Times
+
+<p>Keep an umbrella in your car this week!&#160; Residents and travelers in Palau should prepare for a wet week, as forecasts indicate scattered showers and possible thunderstorms through Friday.&#160; According to the National Weather Service Office, there is a 40% chance of rain on Monday and Tuesday, with patchy showers and isolated thunderstorms expected. Rain [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/wet-week-ahead-for-palau-as-monsoon-surge-brings-showers-and-thunderstorms/">Wet week ahead for Palau as Monsoon surge brings showers and thunderstorms</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/wet-week-ahead-for-palau-as-monsoon-surge-brings-showers-and-thunderstorms/>
+
+---
+
+## 163 Palauan students graduate, embark on new opportunities
+
+date: 2025-06-10, from: Island Times
+
+<p>KOROR, Palau — A total of 163 students graduated from high schools across Palau this year, marking a significant milestone for the Class of 2025. Families, friends and educators gathered with pride and emotion as students celebrated the culmination of their high school journeys. Emmaus-Bethania High School opened the graduation season with 10 graduates, followed [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/163-palauan-students-graduate-embark-on-new-opportunities/">163 Palauan students graduate, embark on new opportunities</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/163-palauan-students-graduate-embark-on-new-opportunities/>
+
+---
+
+## ROC (Taiwan) Navy’s Fleet of Friendship marks its 18th visit to Palau
+
+date: 2025-06-10, from: Island Times
+
+<figure><img width="1024" height="778" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/005.jpg?fit=1024%2C778&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/005.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/005.jpg?resize=300%2C228&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/005.jpg?resize=1024%2C778&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/005.jpg?resize=768%2C584&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/005.jpg?resize=1200%2C912&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/005.jpg?resize=780%2C593&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/005.jpg?resize=400%2C304&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/005.jpg?resize=706%2C536&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/005.jpg?fit=1024%2C778&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78016" data-permalink="https://islandtimes.org/roc-taiwan-navys-fleet-of-friendship-marks-its-18th-visit-to-palau/attachment/005/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/005.jpg?fit=1249%2C949&amp;ssl=1" data-orig-size="1249,949" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="005" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/005.jpg?fit=300%2C228&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/005.jpg?fit=780%2C593&amp;ssl=1" /></figure>
+<p>Republic of China (Taiwan) Navy’s Fleet of Friendship paid a goodwill visit to Palau from May 28 to June 1, 2025, this is its 18th visit to the Republic of Palau and also the longest trip ever the Fleet has stayed in Palau. The goodwill visit is witness to the enduring friendship between the two [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/roc-taiwan-navys-fleet-of-friendship-marks-its-18th-visit-to-palau/">ROC (Taiwan) Navy’s Fleet of Friendship marks its 18th visit to Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/roc-taiwan-navys-fleet-of-friendship-marks-its-18th-visit-to-palau/>
+
+---
+
+## Palau elevates local leadership capacity with Landmark HR conference
+
+date: 2025-06-10, from: Island Times
+
+<figure><img width="1024" height="721" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?fit=1024%2C721&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?resize=300%2C211&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?resize=1024%2C721&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?resize=768%2C541&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?resize=1200%2C845&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?resize=780%2C550&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?resize=400%2C282&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?resize=706%2C497&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?fit=1024%2C721&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78007" data-permalink="https://islandtimes.org/palau-elevates-local-leadership-capacity-with-landmark-hr-conference/wco-y-novis-presentation/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?fit=1249%2C880&amp;ssl=1" data-orig-size="1249,880" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WCO Y. Novis Presentation" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?fit=300%2C211&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?fit=780%2C549&amp;ssl=1" /></figure>
+<p>AIRAI, PALAU – Over 100 public and private sector professionals in Palau sharpened their leadership skills at the inaugural Palau HR Professionals Conference, held May 29–30, 2025, at the Surangel Supercenter Executive Conference Room in Airai. Hosted by the Palau HR Professionals Group in collaboration with the Society for Human Resource Management (SHRM) Pacific, the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-elevates-local-leadership-capacity-with-landmark-hr-conference/">Palau elevates local leadership capacity with Landmark HR conference</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-elevates-local-leadership-capacity-with-landmark-hr-conference/>
+
+---
+
+## National workshop builds customs capacity in Palau with Global expertise
+
+date: 2025-06-10, from: Island Times
+
+<p>KOROR, Palau (June 2025) — Customs officers from the Republic of Palau are undergoing specialized training this week aimed at strengthening their technical capacity in tariff classification, trade facilitation, and border enforcement. The training, titled the National Workshop on the Harmonized System, is being conducted by the World Customs Organization (WCO) with support from the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/national-workshop-builds-customs-capacity-in-palau-with-global-expertise/">National workshop builds customs capacity in Palau with Global expertise</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/national-workshop-builds-customs-capacity-in-palau-with-global-expertise/>
+
+---
+
+## Don’t think small, think at scale
+
+date: 2025-06-10, from: Island Times
+
+<figure><img width="979" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/President-Whipps.jpg?fit=979%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/President-Whipps.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/President-Whipps.jpg?resize=287%2C300&amp;ssl=1 287w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/President-Whipps.jpg?resize=979%2C1024&amp;ssl=1 979w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/President-Whipps.jpg?resize=768%2C804&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/President-Whipps.jpg?resize=1200%2C1256&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/President-Whipps.jpg?resize=780%2C816&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/President-Whipps.jpg?resize=400%2C419&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/President-Whipps.jpg?resize=706%2C739&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/President-Whipps.jpg?fit=979%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78026" data-permalink="https://islandtimes.org/dont-think-small-think-at-scale/president-whipps/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/President-Whipps.jpg?fit=1249%2C1307&amp;ssl=1" data-orig-size="1249,1307" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="President Whipps" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/President-Whipps.jpg?fit=287%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/President-Whipps.jpg?fit=780%2C816&amp;ssl=1" /></figure>
+<p>Don&#8217;t think small, think at scale Palau President challenges global investors to scale up Ocean finance NICE (TPL NEWS)&#8212;As the epicentre of global Ocean messaging celebrates World Ocean Day in Monaco and heads to Nice, France for the opening sessions of the 3rd UN Oceans Conference, Palau&#8217;s President Surangel Whipps Jr has delivered a straight-talking [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/dont-think-small-think-at-scale/">Don&#8217;t think small, think at scale</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/dont-think-small-think-at-scale/>
+
+---
+
+## Most Hurtful Thing
+
+date: 2025-06-10, from: Island Times
+
+<figure><img width="537" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?w=537&amp;ssl=1 537w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=284%2C300&amp;ssl=1 284w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=400%2C422&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="61696" data-permalink="https://islandtimes.org/self-compassion/womens-corner-1-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" data-orig-size="537,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=284%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" /></figure>
+<p>What&#8217;s the most hurtful thing your mother or father has ever said to you? One of the MOST HURTFUL THINGS came from my STEPMONSTER!!! By Raven Rowantree When I was in my early thirties &#8211; MANY years ago I was in a thirty day inpatient program for a eating disorder! We had a family group [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/most-hurtful-thing/">Most Hurtful Thing</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/most-hurtful-thing/>
+
+---
+
+## ‘Act responsibly for humankind’ – Palau president on deep sea mining order
+
+date: 2025-06-10, from: Island Times
+
+<p>Lydia Lewis, RNZ Pacific Journalist Palau&#8217;s president says the US&#160;order&#160;to fast-track deep sea mining is not a good idea. Deep sea mining frontrunner The Metals Company (TMC) has since confirmed it will not apply for a mining license through the International Seabed Authority (ISA), instead opting to apply through US regulations. Surangel Whipps Jr. said the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/act-responsibly-for-humankind-palau-president-on-deep-sea-mining-order/">&#8216;Act responsibly for humankind&#8217; &#8211; Palau president on deep sea mining order</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/act-responsibly-for-humankind-palau-president-on-deep-sea-mining-order/>
+
+---
+
+## Ocean protection lagging, and the Pacific holds the key to progress
+
+date: 2025-06-10, from: Island Times
+
+<p>NICE (PACIFIC ISLAND TIMES) &#8212;The world is falling dangerously behind in its race to protect the ocean. A new peer-reviewed study released by Dynamic Planet and National Geographic Pristine Seas offers a blunt assessment: to meet the global target of protecting 30 percent of the ocean by 2030, the world must establish 85 new coastal [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ocean-protection-lagging-and-the-pacific-holds-the-key-to-progress/">Ocean protection lagging, and the Pacific holds the key to progress</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/ocean-protection-lagging-and-the-pacific-holds-the-key-to-progress/>
+
+---
+
+## Visa refusal sparks fresh concerns Solomon Islands may block Taipei from Pacific forum
+
+date: 2025-06-10, from: Island Times
+
+<p>HONIARA (ABC PACIFIC) &#8212; The Solomon Islands government blocked a group of Taiwanese officials from entering the Pacific country earlier this year, stirring fresh concerns in Taipei that it might be locked out of a key regional meeting in Honiara later this year. Solomon Islands will host the Pacific Islands Forum leaders meeting in September, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/visa-refusal-sparks-fresh-concerns-solomon-islands-may-block-taipei-from-pacific-forum/">Visa refusal sparks fresh concerns Solomon Islands may block Taipei from Pacific forum</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/visa-refusal-sparks-fresh-concerns-solomon-islands-may-block-taipei-from-pacific-forum/>
+
+---
+
+## Go bold: Calls for Australia to lead on ocean health
+
+date: 2025-06-10, from: Island Times
+
+<p>CANBERRA/NICE (AAP) &#8212; Conservation groups are urging Australia to back a moratorium on deep-sea mining ahead of a major United Nations oceans conference. More than two dozen countries want a ban, pause or moratorium until more is known about sea floors well below the surface, with concerns the emerging industry could disrupt ecosystems and the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/go-bold-calls-for-australia-to-lead-on-ocean-health/">Go bold: Calls for Australia to lead on ocean health</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/go-bold-calls-for-australia-to-lead-on-ocean-health/>
+
+---
+
+## Protests intensify in Los Angeles after Donald Trump deploys National Guard troops
+
+date: 2025-06-10, from: Island Times
+
+<p>In short: (ABC-Australia) Protesters blocked off a major freeway and set self-driving cars on fire as tensions in Los Angeles escalated further on Sunday local time. Law enforcement used tear gas, rubber bullets and flash bangs to control the crowd after US President Donald Trump deployed the National Guard to the city. What&#8217;s next? Asked [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/protests-intensify-in-los-angeles-after-donald-trump-deploys-national-guard-troops/">Protests intensify in Los Angeles after Donald Trump deploys National Guard troops</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/protests-intensify-in-los-angeles-after-donald-trump-deploys-national-guard-troops/>
+
+---
+
+## Two juveniles indicted for sexual offences in Fiji in May
+
+date: 2025-06-10, from: 
+
+Fiji's Office of the Director of Public Prosecutions has released its May update. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563670/two-juveniles-indicted-for-sexual-offences-in-fiji-in-may>
+
+---
+
+## Samoa head of state issues official election writ
+
+date: 2025-06-10, from: 
+
+This declaration follows the Samoan government's failure to pass its budget, which led to the prime minister advising the Head of State to dissolve parliament. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563669/samoa-head-of-state-issues-official-election-writ>
+
+---
+
+## Veteran NBA player joins UH men’s basketball staff
+
+date: 2025-06-10, from: University of Hawaiʻi News
+
+<p>Patty Mills, a 16-year veteran in the <abbr>NBA</abbr>, was named as the men’s basketball general manager.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/09/patty-mills-joins-uh-mens-basketball-staff/">Veteran <abbr>NBA</abbr> player joins <abbr>UH</abbr> men’s basketball staff</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/09/patty-mills-joins-uh-mens-basketball-staff/>
+
+---
+
+## Two Vulcans baseball players earn Academic All-District honors
+
+date: 2025-06-09, from: University of Hawaiʻi News
+
+<p>Mark Fedro and Braden Lowe were awarded for their work in athletics and academics.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/09/vulcans-baseball-players-earn-academic-honors/">Two Vulcans baseball players earn Academic All-District honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/09/vulcans-baseball-players-earn-academic-honors/>
+
+---
+
+## Three Vulcan softball players named to Academic All-District team
+
+date: 2025-06-09, from: University of Hawaiʻi News
+
+<p>Madi Lee, Madison Rabe and Lexie Tilton were honored for their academic and athletics performances.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/09/vulcan-softball-players-named-to-academic-team/">Three Vulcan softball players named to Academic All-District team</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/09/vulcan-softball-players-named-to-academic-team/>
+
+---
+
+## Harvesting success: Agriculture internships yield fulfilling careers
+
+date: 2025-06-09, from: University of Hawaiʻi News
+
+<p>Real-world training and mentorship open doors to <span aria-label="Hawaii">Hawai&#699;i</span> agriculture for <abbr>UH</abbr> students.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/09/agriculture-internships-yield-fulfilling-careers/">Harvesting success: Agriculture internships yield fulfilling careers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/09/agriculture-internships-yield-fulfilling-careers/>
+
+---
+
+## Vanuatu calls on world leaders to drop lip service and fulfill climate pledges
+
+date: 2025-06-09, from: Pacific Island Times
+
+The plan promotes the sustainable use of the ocean in support of Sustainable Development Goal 14, focusing  on life above and below the water. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/vanuatu-calls-on-world-leaders-to-drop-lip-service-and-fulfill-climate-pledges>
+
+---
+
+## French Polynesia president announces highly protected marine area
+
+date: 2025-06-09, from: 
+
+President Moetai Brotherson pledged to protect nearly 23 percent of French Polynesia's waters. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563648/french-polynesia-president-announces-highly-protected-marine-area>
+
+---
+
+## Independent 'draft assessment' of the Manawanui wreck circulates govt agencies for feedback
+
+date: 2025-06-09, from: 
+
+The New Zealand Defence Force is circulating a draft assessment of the wreck of the HMNZS Manawanui to New Zealand government agencies but there's no date for public release. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/national/563578/independent-draft-assessment-of-the-manawanui-wreck-circulates-govt-agencies-for-feedback>
+
+---
+
+## CNMI Senate president proposes amendment to allow cash dividends for indigenous voters
+
+date: 2025-06-09, from: 
+
+Senate president Dennis Mendiola said this "isn't about politics - it's about economic justice". 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563650/cnmi-senate-president-proposes-amendment-to-allow-cash-dividends-for-indigenous-voters>
+
+---
+
+## Pasifika Sipoti in brief for 10 June
+
+date: 2025-06-09, from: 
+
+A round-up of sports news in brief from around the region, including expected player departures from the Fijian Drua. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563651/pasifika-sipoti-in-brief-for-10-june>
+
+---
+
+## Meet UH Mānoa’s first Thai language lecturer
+
+date: 2025-06-09, from: University of Hawaiʻi News
+
+<p>Chinoko Shirakura teaches Thai 101 and 202 at <abbr>UH</abbr> M&#257;noa. The Thai language program launched in January 2025.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/09/uh-manoas-first-thai-language-lecturer/">Meet <abbr>UH</abbr> Mānoa’s first Thai language lecturer</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/09/uh-manoas-first-thai-language-lecturer/>
+
+---
+
+## What is the High Seas Treaty to protect world oceans?
+
+date: 2025-06-09, from: 
+
+While many countries have agreed to take steps to protect the vast, ungoverned swathes of the world's oceans, they have yet to see their High Seas Treaty go into effect. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/world/563603/what-is-the-high-seas-treaty-to-protect-world-oceans>
 
 ---
 
@@ -116,6 +721,78 @@ The post <a href="https://www.hawaii.edu/news/2025/06/09/on-the-federal-chopping
 <br> 
 
 <https://www.hawaii.edu/news/2025/06/09/on-the-federal-chopping-block-uh-program-serving-ohana-keiki-kupuna/>
+
+---
+
+## Los Angeles police order immigration protesters in downtown to go home
+
+date: 2025-06-09, updated: 2025-06-10, from: Marianas Variety
+
+LOS ANGELES (Reuters) — Police declared all of downtown Los Angeles to be an unlawful assembly area and ordered protesters to go home on Sunday night after a third day of violence hit demonstrations against President Donald Trump's immigration policy. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/los-angeles-police-order-immigration-protesters-in-downtown-to-go-home/article_772c3948-909f-4ce4-99e6-05af17c20c97.html>
+
+---
+
+## Taiwan, Marshall Islands sign security pact amid growing hybrid threats
+
+date: 2025-06-09, updated: 2025-06-10, from: Marianas Variety
+
+TAIPEI (Central News Agency/Pacnews) — Taiwan and its Pacific ally, the Marshall Islands, inked a pact in Taipei on Wednesday last week that will pave the way for both sides to deepen their security partnership amid growing hybrid threats in the region. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/taiwan-marshall-islands-sign-security-pact-amid-growing-hybrid-threats/article_f5e896f3-43c2-4343-8e56-a1231d0bc4de.html>
+
+---
+
+## Amina Hossain and Piper Christian are Tinian Middle School’s top promotees
+
+date: 2025-06-09, updated: 2025-06-10, from: Marianas Variety
+
+TINIAN (PSS) — Tinian Middle School promoted 32 eighth graders to high school on Thursday, June 5 in a ceremony that brought together the Tinian and Aguiguan community. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/amina-hossain-and-piper-christian-are-tinian-middle-school-s-top-promotees/article_e91b81d7-7a50-449f-9946-97c48dace65d.html>
+
+---
+
+## Saipan hosts concurrent environmental events
+
+date: 2025-06-09, updated: 2025-06-10, from: Marianas Variety
+
+THE 2nd CNMI Green Growth Convening and the 32nd Pacific Islands Environmental Training Symposium or PIETS were two environment-focused events held concurrently at the Crowne Plaza Resort on Monday, June 9. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/saipan-hosts-concurrent-environmental-events/article_b2a2370a-5f56-4e39-936f-4db7dc9572b7.html>
+
+---
+
+## Father of 2 wins round-trip ticket to Manila at Pistang Pinoy
+
+date: 2025-06-09, updated: 2025-06-10, from: Marianas Variety
+
+MARVIN Buston, an administrative manager at HBR Construction, won the grand prize in the 2025 Pistang Pinoy raffle on Sunday — a round-trip ticket to Manila. The winning raffle ticket number was 235426. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/father-of-2-wins-round-trip-ticket-to-manila-at-pistang-pinoy/article_90bb642f-68df-4f1a-9f30-9570c5557357.html>
+
+---
+
+## Farmers, ranchers honored; Saipan Agricultural Fair set for June 28
+
+date: 2025-06-09, updated: 2025-06-10, from: Marianas Variety
+
+AT a proclamation signing honoring farmers and ranchers at the governor’s office on Friday, June 6, the Saipan Agriculture Farmers Association Committee announced that the Saipan Agricultural Fair will take place on Saturday, June 28 at the Garapan Fishing Base from 8 a.m. to 3 p.m. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/farmers-ranchers-honored-saipan-agricultural-fair-set-for-june-28/article_859110a0-4995-44a5-b162-a2c321f2e0f6.html>
 
 ---
 
