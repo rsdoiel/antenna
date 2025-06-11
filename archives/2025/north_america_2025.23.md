@@ -1,11 +1,113 @@
 ---
 title: north america
-updated: 2025-06-10 14:08:55
+updated: 2025-06-11 06:07:37
 ---
 
 # north america
 
-(date: 2025-06-10 14:08:55)
+(date: 2025-06-11 06:07:37)
+
+---
+
+## Trump won’t stop with California
+
+date: 2025-06-11, from: The Contrarian
+
+Americans must reject Trump&#8217;s police state. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trump-wont-stop-with-california>
+
+---
+
+## Police Violently Crack Down on L.A. Protests
+
+date: 2025-06-11, from: Capital and Main
+
+<p>Demonstrators, journalists and bystanders faced LAPD tear gas and projectiles following ICE raids.</p>
+<p>The post <a href="https://capitalandmain.com/police-violently-crack-down-on-l-a-protests">Police Violently Crack Down on L.A. Protests</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/police-violently-crack-down-on-l-a-protests>
+
+---
+
+## Evening Roundup, June 10
+
+date: 2025-06-10, from: The Contrarian
+
+Featuring Senator Sheldon Whitehouse, Harry Litman, Jen Rubin, Andrew Weissmann, Brian O&#8217;Neill, Lily Roberts, Meredith Blake, Shalise Manza Young, Jared Bernstein & Natasha Sarin, and Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-10>
+
+---
+
+## Trump's budget cuts hurts working families: Lily Roberts on the sinister aims of the big, ugly bill
+
+date: 2025-06-10, from: The Contrarian
+
+"This is just totally antithetical to the idea of how to invest in a strong and growing economy" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165636330/976eea454964f75aaeb9a73839b8374f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165636330/976eea454964f75aaeb9a73839b8374f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/trumps-budget-cuts-hurts-working>
+
+---
+
+## 4,000 National Guard members and 700 Marines: Andrew Weissmann on Trump's show of force in L.A.
+
+date: 2025-06-10, from: The Contrarian
+
+"This order &#8212; I want to make sure everyone understands &#8212; it applies nationally, not just in California. That is the scary part" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165658934/5048ad205322c0542a2dadb01b5d0800.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165658934/5048ad205322c0542a2dadb01b5d0800.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/4000-national-guard-members-and-700>
+
+---
+
+## Caught in a Bad Bromance
+
+date: 2025-06-10, from: The Contrarian
+
+It was a week in which events looked to be spinning out of control on multiple fronts. 
+
+<br> 
+
+<https://contrarian.substack.com/p/caught-in-a-bad-bromance>
+
+---
+
+## Truth bomb
+
+date: 2025-06-10, from: The Contrarian
+
+A cartoon by Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/truth-bomb>
+
+---
+
+## Doechii, Tyler Perry call out Trump, attacks on Black culture at BET Awards
+
+date: 2025-06-10, from: The Contrarian
+
+"Every time we exercise our democratic right to protest, the military is deployed against us." 
+
+<br> 
+
+<https://contrarian.substack.com/p/doechii-tyler-perry-call-out-trump>
 
 ---
 
@@ -51,7 +153,7 @@ Testifying on Capitol Hill last week, the Education secretary seemed undereducat
 
 date: 2025-06-10, from: The Lever News
 
- A new legislative carveout could redirect billions in funding for rural broadband construction to Elon Musk’s satellite company.  
+ A new carveout could redirect billions in funding for rural broadband construction to Elon Musk’s satellite company.  
 
 <br> 
 

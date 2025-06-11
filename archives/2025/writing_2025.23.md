@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-06-10 14:08:59
+updated: 2025-06-11 06:07:42
 ---
 
 # writing
 
-(date: 2025-06-10 14:08:59)
+(date: 2025-06-11 06:07:42)
+
+---
+
+## How to Use Images in Your Scrivener Projects: The Basics
+
+date: 2025-06-11, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-to-use-images-in-your-scrivener-projects-the-basics>
 
 ---
 
@@ -79,6 +91,19 @@ date: 2025-06-10, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/06/anima-rising-by-christopher-moore-review-by-liz-bourke/>
+
+---
+
+## Anima Rising by Christopher Moore: Review by Gary K. Wolfe
+
+date: 2025-06-10, from: Locus Magazine
+
+<p><strong>Anima Rising</strong>, Christopher Moore (William Morrow 978-0-06-243415-9, $30.00, 400pp, hc) May 2025.</p>
+<p>It almost goes without saying that Victor Fran­kenstein and his creation have been enjoying a two-century-long multimedia farewell tour that makes Elton John’s look like a pop-up con­cert, and there’s no sign of it letting up anytime soon. Along the way there have been scores of movies and some pretty good novels, such as John Kessel’s <strong>Pride </strong> <a href="https://locusmag.com/2025/06/anima-rising-by-christopher-moore-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/anima-rising-by-christopher-moore-review-by-gary-k-wolfe/>
 
 ---
 

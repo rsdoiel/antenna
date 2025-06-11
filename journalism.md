@@ -1,11 +1,151 @@
 ---
 title: journalism
-updated: 2025-06-10 14:09:00
+updated: 2025-06-11 06:07:43
 ---
 
 # journalism
 
-(date: 2025-06-10 14:09:00)
+(date: 2025-06-11 06:07:43)
+
+---
+
+## UCLA & CSUN Day
+
+date: 2025-06-11, from: The Round Up (Pierce College Student Newspaper)
+
+<p>UCLA &#38; CSUN Day &#160;</p>
+<p>The post <a href="https://theroundupnews.com/2025/06/11/ucla-csun-day-2/">UCLA &#038; CSUN Day</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/06/11/ucla-csun-day-2/?utm_source=rss&utm_medium=rss&utm_campaign=ucla-csun-day-2>
+
+---
+
+## Granada Hills Farmers Market
+
+date: 2025-06-11, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Granada Hills Farmers Market &#160; &#160; &#160;</p>
+<p>The post <a href="https://theroundupnews.com/2025/06/11/granada-hills-farmers-market/">Granada Hills Farmers Market</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/06/11/granada-hills-farmers-market/?utm_source=rss&utm_medium=rss&utm_campaign=granada-hills-farmers-market>
+
+---
+
+## The liberation of Addison Rae
+
+date: 2025-06-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Rae’s debut album “Addison” unveils her truest form: pop star.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/11/the-liberation-of-addison-rae/">The liberation of Addison Rae</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/11/the-liberation-of-addison-rae/>
+
+---
+
+## Not every company needs a handheld system
+
+date: 2025-06-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The recent announcement of the ROG XBOX ALLY X has me skeptical and irritated.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/11/not-every-company-needs-a-handheld-system/">Not every company needs a handheld system</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/11/not-every-company-needs-a-handheld-system/>
+
+---
+
+## Summer movie releases to watch out for
+
+date: 2025-06-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Step out of the heat and into the movie theaters for this summer’s biggest films.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/11/summer-movie-releases-to-watch-out-for/">Summer movie releases to watch out for</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/11/summer-movie-releases-to-watch-out-for/>
+
+---
+
+## National Guard deployed against ‘ICE out of LA’ protest
+
+date: 2025-06-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Thousands protested in Downtown Los Angeles against the presence of Immigration and Customs Enforcement and the National Guard.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/11/national-guard-deployed-against-ice-out-of-la-protest/">National Guard deployed against &#8216;ICE out of LA&#8217; protest</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/11/national-guard-deployed-against-ice-out-of-la-protest/>
+
+---
+
+## Student Health urges vaccinations amid LA measles, Hepatitis A outbreaks
+
+date: 2025-06-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC requires students to be vaccinated against measles and strongly recommends getting the Hepatitis A vaccine.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/11/student-health-urges-vaccinations-amid-la-measles-hepatitis-a-outbreaks/">Student Health urges vaccinations amid LA measles, Hepatitis A outbreaks</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/11/student-health-urges-vaccinations-amid-la-measles-hepatitis-a-outbreaks/>
+
+---
+
+## USC is ‘closely monitoring’ changes to student visas. Here’s what to know
+
+date: 2025-06-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>President Donald Trump announced restrictions or limited entry of nationals from 19 countries on June 4.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/11/usc-is-closely-monitoring-changes-to-student-visas-heres-what-to-know/">USC is ‘closely monitoring’ changes to student visas. Here’s what to know</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/11/usc-is-closely-monitoring-changes-to-student-visas-heres-what-to-know/>
+
+---
+
+## The Newhallywood Silent Film Festival is back, showcasing the golden age of Hollywood
+
+date: 2025-06-11, from: The Canyon News (COC Student Newspaper)
+
+<p>A local tradition is bringing the golden age of Hollywood back to&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/newhallywood-2/">The Newhallywood Silent Film Festival is back, showcasing the golden age of Hollywood</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/newhallywood-2/>
+
+---
+
+## Santa Clarita Arts Association hosts gallery event to help local artists spread their wings
+
+date: 2025-06-10, from: The Canyon News (COC Student Newspaper)
+
+<p>From the College of the Canyons classrooms to the city of Santa&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/things-with-wings/">Santa Clarita Arts Association hosts gallery event to help local artists spread their wings</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/things-with-wings/>
 
 ---
 

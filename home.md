@@ -1,11 +1,82 @@
 ---
 title: home
-updated: 2025-06-10 14:09:01
+updated: 2025-06-11 06:07:44
 ---
 
 # home
 
-(date: 2025-06-10 14:09:01)
+(date: 2025-06-11 06:07:44)
+
+---
+
+## 33 Types of Ducks in Arkansas (With Pictures and Identification)
+
+date: 2025-06-11, from: Yard Life blog
+
+<p>If you’re a bird enthusiast or just curious about wildlife, learning about the diverse ducks in Arkansas is an exciting ... </p>
+<p class="read-more-container"><a title="33 Types of Ducks in Arkansas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/33-types-of-ducks-in-arkansas-with-pictures-and-identification/#more-30014" aria-label="Read more about 33 Types of Ducks in Arkansas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/33-types-of-ducks-in-arkansas-with-pictures-and-identification/">33 Types of Ducks in Arkansas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/33-types-of-ducks-in-arkansas-with-pictures-and-identification/>
+
+---
+
+## 2 Types of Eagles in Georgia (Pictures and Identification)
+
+date: 2025-06-11, from: Yard Life blog
+
+<p>Eagles in Georgia are a thrilling sight for birdwatchers and nature lovers alike. With their broad wingspans, fierce hunting skills, ... </p>
+<p class="read-more-container"><a title="2 Types of Eagles in Georgia (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/2-types-of-eagles-in-georgia-pictures-and-identification/#more-30005" aria-label="Read more about 2 Types of Eagles in Georgia (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/2-types-of-eagles-in-georgia-pictures-and-identification/">2 Types of Eagles in Georgia (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/2-types-of-eagles-in-georgia-pictures-and-identification/>
+
+---
+
+## 3 Types of Vultures in Texas (Pictures and Identification)
+
+date: 2025-06-11, from: Yard Life blog
+
+<p>Vultures in Texas are a common and important part of the natural landscape. These large, scavenging birds are often seen ... </p>
+<p class="read-more-container"><a title="3 Types of Vultures in Texas (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-types-of-vultures-in-texas-pictures-and-identification/#more-29995" aria-label="Read more about 3 Types of Vultures in Texas (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-types-of-vultures-in-texas-pictures-and-identification/">3 Types of Vultures in Texas (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-types-of-vultures-in-texas-pictures-and-identification/>
+
+---
+
+## 7 Ways to Celebrate the Summer Solstice in the West
+
+date: 2025-06-10, from: Sunset Magazine - Living in the West
+
+From visiting ancient carvings to parades to baseball, there are so many ways to celebrate the summer solstice in the Western United States. 
+
+<br> 
+
+<https://www.sunset.com/travel/summer-solstice-celebrations>
+
+---
+
+## Why You Should Still Check Your Mirrors—Even with a Backup Camera
+
+date: 2025-06-10, from: Family Handyman Blog
+
+<p>Backup cameras give you a better view of blind spots below your rear window's line of sight that surpass views provided by rearview mirrors. This...</p>
+<p>The post <a href="https://www.familyhandyman.com/article/are-backup-cameras-really-safe/">Why You Should Still Check Your Mirrors—Even with a Backup Camera</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/are-backup-cameras-really-safe/>
 
 ---
 
@@ -32,6 +103,18 @@ While pet ownership and housing costs rise, Sniffspot helps you use someone else
 <br> 
 
 <https://www.dwell.com/article/sniffspot-pet-owners-backyard-rental-sharing-economy-airbnb-for-dogs-3692e60f>
+
+---
+
+## This Underrated Island in the Pacific Northwest Is the Perfect Weekend Getaway
+
+date: 2025-06-10, from: Sunset Magazine - Living in the West
+
+Orcas Island is a Pacific Northwest gem that's an agricultural and aquatic wonderland. Here's your itinerary for an Orcas Island trip. 
+
+<br> 
+
+<https://www.sunset.com/travel/things-to-do-on-orcas-island>
 
 ---
 
@@ -73,6 +156,18 @@ Originally designed by Walter Gordon, the revamped Wessinger House is set on nea
 
 ---
 
+## Why Your Next Family Trip Should Be to This Charming (and Luxe) San Diego Farm
+
+date: 2025-06-10, from: Sunset Magazine - Living in the West
+
+ From wine-paired tasting menus to sound baths and animal meet-and-greets, San Diego's Fox Point Farms has it all. 
+
+<br> 
+
+<https://www.sunset.com/travel/culinary-travel/fox-point-farms-agritourism>
+
+---
+
 ## 3 Types of Swans in Michigan (With Pictures and Identification)
 
 date: 2025-06-10, from: Yard Life blog
@@ -109,18 +204,6 @@ An expert shares guidelines on how to behave while participating in the naturist
 <br> 
 
 <https://www.sunset.com/travel/nudist-resort-etiquette>
-
----
-
-## 7 Ways to Celebrate the Summer Solstice in the West
-
-date: 2025-06-10, from: Sunset Magazine - Living in the West
-
-From visiting ancient carvings to parades to baseball, there are so many ways to celebrate the summer solstice in the Western United States. 
-
-<br> 
-
-<https://www.sunset.com/travel/summer-solstice-celebrations>
 
 ---
 
@@ -195,6 +278,18 @@ date: 2025-06-09, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/three-dots-back-of-ipad/>
+
+---
+
+## This Former 1930s Hunting Lodge Was Updated for Family Living
+
+date: 2025-06-09, from: Sunset Magazine - Living in the West
+
+After big mold troubles caused a full remodel, the former hunting lodge is ready for its next act as a home to a family of 6. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/marin-county-hunting-lodge-makeover>
 
 ---
 

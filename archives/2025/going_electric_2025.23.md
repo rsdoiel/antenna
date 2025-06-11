@@ -1,11 +1,179 @@
 ---
 title: going electric
-updated: 2025-06-10 14:09:03
+updated: 2025-06-11 06:07:46
 ---
 
 # going electric
 
-(date: 2025-06-10 14:09:03)
+(date: 2025-06-11 06:07:46)
+
+---
+
+## Tesla owners sue to break their leases over Musk making the cars ‘far-right totems’
+
+date: 2025-06-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Heil-tesla-gigafactory-berlin.png?w=1600" /></div><p>Tesla leaseholders in France are suing the automaker to terminate their leases due to Elon Musk’s association with the cars, claiming they have become “far-right totems” and have harmed their reputation.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="419783" href="https://electrek.co/2025/06/11/tesla-owners-sue-break-leases-over-musk-making-cars-far-right-totems/#more-419783" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/11/tesla-owners-sue-break-leases-over-musk-making-cars-far-right-totems/>
+
+---
+
+## Here are the best electric bikes you can buy at every price level in June 2025
+
+date: 2025-06-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/tern-quick-haul-taiwan-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I’ve spent countless hours here at <em>Electrek</em> doing detailed <a href="https://electrek.co/2023/01/11/radtrike-review-testing-rad-power-bikes-electric-trike/">hands-on testing</a> of hundreds of electric bikes. Through thousands of miles of riding, I’ve been fortunate to learn these e-bikes inside and out, top to bottom and front to back. That long-term experience with real-world e-bike testing has helped me find the best electric bicycles on the market for just about any budget.</p>
+
+
+
+<p>Below are some of the top e-bikes I’ve hand-tested for every price range, current as of June 2025. Summer is staring us in the face, making this a great chance to start the riding season off with a fun and efficient electric bicycle! So check out the awesome e-bikes below, any one of which could become your next electric bike.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="228361" href="https://electrek.co/2025/06/11/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/#more-228361" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/11/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/>
+
+---
+
+## The Porsche Cayenne EV Secretly Smashed A Record
+
+date: 2025-06-11, from: Inside EVs News
+
+The big electric SUV casually showed up with a roof rack and decimated the competition. 
+
+<br> 
+
+<https://insideevs.com/news/762376/porsche-cayenne-ev-hill-climb-record/>
+
+---
+
+## Xiaomi SU7 Ultra Storms The Nurburgring, Beats Porsche And Rimac
+
+date: 2025-06-11, from: Inside EVs News
+
+A production-spec Xiaomi SU7 Ultra just lapped the Nurburgring Nordschleife quicker than the quickest Porsche Taycan. 
+
+<br> 
+
+<https://insideevs.com/news/762360/xiaomi-su7-ultra-nurburgring-production/>
+
+---
+
+## Elon Musk ‘regrets’ what he said about Trump as the President is about to crush Tesla
+
+date: 2025-06-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Donald-Trump-Elon-Musk-heartbreak-e1749169363684.jpg?quality=82&#038;strip=all&#038;w=923" /></div><p>Elon Musk announced that he “regrets” some of the things he said about Trump last week, just as the President is about to crush Tesla with a series of new laws.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="419776" href="https://electrek.co/2025/06/11/elon-musk-regrets-about-trump-as-the-president-about-crush-tesla/#more-419776" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/11/elon-musk-regrets-about-trump-as-the-president-about-crush-tesla/>
+
+---
+
+## The New Nissan Leaf Finally Gets A Liquid-Cooled Battery
+
+date: 2025-06-11, from: Inside EVs News
+
+The third-generation EV should also be a little bit more fun to drive. Just don’t expect massive power. 
+
+<br> 
+
+<https://insideevs.com/news/762326/new-nissan-leaf-battery-cooling-power-range/>
+
+---
+
+## Tesla driverless robotaxi spotted in Austin for the first time, but with trailing car
+
+date: 2025-06-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Tesla-robotaxi-trailing-car.png?w=1600" /></div><p>Tesla’s driverless robotaxi has been spotted in Austin for the first time, but it is being followed by a trailing car with a driver.</p>
+
+
+
+<p>CEO Elon Musk now says that Tesla aims to “tentatively” start its service on June 22.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="419771" href="https://electrek.co/2025/06/10/tesla-driverless-robotaxi-spotted-austin-car-trailing/#more-419771" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/10/tesla-driverless-robotaxi-spotted-austin-car-trailing/>
+
+---
+
+## A prototype Porsche Cayenne EV just beat every gas SUV ever in a hillclimb
+
+date: 2025-06-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Screenshot-2025-06-10-at-5.44.11PM-e1749603068872.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Porsche is preparing to release its Cayenne EV in the next year or so, but that didn’t stop it from taking the car out in secret to a hillclimb meet, where it utterly destroyed the previous course record previously held by a 12-cylinder Bentley Bentayga.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-racing,hill-climb,porsche,porsche-cayenne" data-layer-viewtype="unknown" data-post-id="419767" href="https://electrek.co/2025/06/10/a-prototype-porsche-cayenne-ev-just-crushed-every-gas-suv-ever-in-a-race/#more-419767" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/10/a-prototype-porsche-cayenne-ev-just-crushed-every-gas-suv-ever-in-a-race/>
+
+---
+
+## GM Says 'Next-Gen Affordable EV' Will Be Made In Kansas
+
+date: 2025-06-10, from: Inside EVs News
+
+It'll come after the new Bolt, which GM says is still on track to enter production this year. 
+
+<br> 
+
+<https://insideevs.com/news/762306/gm-next-gen-affordable-ev/>
+
+---
+
+## EV prices dipped in May – and Tesla Model Y led the slide
+
+date: 2025-06-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Model-Y-hero-new-design.png?w=1600" /></div><p>EVs got a little more affordable in May, and Tesla’s price drop had a lot to do with that. According to new data from Kelley Blue Book, the average transaction price (ATP) for a new EV in May was $57,734. That’s down from $59,123 in April. Year-over-year, that’s a 1.1% drop.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,evs,kelley-blue-book,tesla,tesla-model-y" data-layer-viewtype="unknown" data-post-id="419760" href="https://electrek.co/2025/06/10/ev-prices-may-tesla-model-y-led-the-slide/#more-419760" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/10/ev-prices-may-tesla-model-y-led-the-slide/>
+
+---
+
+## Check out Toyota’s new bZ5: A surprisingly stylish and low-cost EV for China
+
+date: 2025-06-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Toyota-EV-SUV-20000-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/toyota/">Toyota’s</a> new electric SUV is about the size of a Tesla Model Y, but half the cost. The bZ5 officially launched in China on Tuesday, starting at around $18,000. Can it keep pace with BYD, Tesla, and others in China?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="419747" href="https://electrek.co/2025/06/10/toyotas-new-bz5-surprisingly-stylish-low-cost-ev-for-china/#more-419747" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/10/toyotas-new-bz5-surprisingly-stylish-low-cost-ev-for-china/>
 
 ---
 

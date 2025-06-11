@@ -1,17 +1,164 @@
 ---
 title: socal north
-updated: 2025-06-10 14:08:56
+updated: 2025-06-11 06:07:37
 ---
 
 # socal north
 
-(date: 2025-06-10 14:08:56)
+(date: 2025-06-11 06:07:37)
 
 ---
 
-## How ICE's presence in Los Angeles affects LAUSD students as summer begins
+## Do you have a story tip for LAist?  Here's how to reach us
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+We’re looking for leads for stories and information not previously reported that are important for the public to know. 
+
+<br> 
+
+<https://laist.com/news/laist-story-tip-how-to>
+
+---
+
+## Did LAPD cooperate with immigration agents when responding to ICE protests?
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+After days of confrontations among protesters and immigration agents, some observers wonder whether police involvement constitutes cooperation with federal authorities. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/did-lapd-cooperate-with-immigration-agents-when-responding-to-ice-protests>
+
+---
+
+## Endangered flower blooms in California, marking a conservation success
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+Scientists recorded a massive bloom of the endangered Camatta Canyon amole in San Luis Obispo County this spring, an exciting discovery that could change its endangered status. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/endangered-flower-blooms-in-california-marking-a-conservation-success>
+
+---
+
+## Live results: Library Measures A and B in Huntington Beach
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+In this special election, Measures A and B are all about who gets to control Huntington Beach's beloved libraries. 
+
+<br> 
+
+<https://laist.com/news/politics/live-results-library-measures-a-and-b-in-huntington-beach>
+
+---
+
+## Here's everything you need to know about the curfew for downtown LA
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+Mayor Karen Bass said she made the decision to impose a curfew after 23 businesses were looted and other properties were vandalized. 
+
+<br> 
+
+<https://laist.com/news/everything-you-need-to-know-about-the-curfew-for-downtown-la>
+
+---
+
+## Evacuation orders lifted as firefighters make progress against Bethany Fire in Burbank
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+The fire broke out on Tuesday at 3:45 p.m. The danger had passed by about 6 p.m. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/bethany-fire-prompts-evacuations-in-burbank-hills>
+
+---
+
+## Hundreds of protesters rally against ICE, ask City Council for more funding to fight deportations
+
+date: 2025-06-10, from: Longbeach Post
+
+<figure><img width="1024" height="588" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-1024x588.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-1024x588.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-300x172.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-768x441.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-188x108.jpg 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-400x230.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Activists are calling for the city to invest another $2.2 million into a fund that pays legal bills for people fighting deportation, saying it’s only a matter of time before immigration raids spill into Long Beach.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/ice-protest-long-beach-justice-fund-city-council">Hundreds of protesters rally against ICE, ask City Council for more funding to fight deportations</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/ice-protest-long-beach-justice-fund-city-council>
+
+---
+
+## Playtime over? LA County parks will close two days a week because of budget cuts
+
+date: 2025-06-10, updated: 2025-06-11, from: The LAist
+
+Facing $22 million in reduced funding, L.A. County officials have decided to close parks two days per week and increase entrance fees. 
+
+<br> 
+
+<https://laist.com/news/politics/la-county-parks-will-close-two-days-a-week-because-of-budget-cuts>
+
+---
+
+## What one woman learned from going a year without sex
 
 date: 2025-06-10, updated: 2025-06-10, from: The LAist
+
+Ever considered voluntary celibacy? Read this. 
+
+<br> 
+
+<https://laist.com/news/what-one-woman-learned-from-going-a-year-without-sex>
+
+---
+
+## Eastside storefronts feel the shock of immigration raids: ‘Customers aren’t coming out’
+
+date: 2025-06-10, updated: 2025-06-10, from: The LAist
+
+Salon chairs sit empty, vendors kill time and business owners prepare for worst-case scenarios as fear grips Boyle Heights. 
+
+<br> 
+
+<https://laist.com/news/eastside-storefronts-feel-the-shock-of-immigration-raids-customers-arent-coming-out>
+
+---
+
+## A leading immigrant rights group says several hundred people in LA have been detained in recent ICE raids
+
+date: 2025-06-10, updated: 2025-06-10, from: The LAist
+
+The Coalition for Humane Immigration Rights estimates more than 300 people have been detained by ICE during the mass raids according to reports from family members. 
+
+<br> 
+
+<https://laist.com/news/a-leading-immigrant-rights-group-says-several-hundred-people-in-la-have-been-detained-in-recent-ice-raids>
+
+---
+
+## They followed the government’s rules. ICE held them anyway
+
+date: 2025-06-10, updated: 2025-06-11, from: The LAist
+
+"We’re going to be imprisoned." One family’s experience in the Los Angeles ICE field office. 
+
+<br> 
+
+<https://laist.com/news/politics/ice-raids-los-angeles-family-detained>
+
+---
+
+## Have a loved one in LAUSD? Here's what to know about ICE
+
+date: 2025-06-10, updated: 2025-06-11, from: The LAist
 
 A series of immigration enforcement actions and the resulting protests are reshaping the end of the school year in the Los Angeles Unified School District. 
 
@@ -121,7 +268,7 @@ President Trump ordered California National Guard troops to Los Angeles to quell
 
 date: 2025-06-10, from: Longbeach Post
 
-<figure><img width="1024" height="506" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-1024x506.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-1024x506.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-300x148.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-768x380.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-192x95.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-400x198.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="506" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-1024x506.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-1024x506.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-300x148.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-768x380.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-192x95.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-400x198.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>"He is considered a fugitive and the FBI is currently seeking his whereabouts," an FBI spokesperson said.</p>
 <p>The post <a href="https://lbpost.com/news/crime/fbi-says-theyve-identified-man-who-threw-rocks-at-federal-vehicles-in-paramount">FBI says they&#8217;ve identified man who threw rocks at federal vehicles in Paramount</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -172,7 +319,7 @@ For all the Southern California space fans, the full moon Tuesday night into Wed
 
 date: 2025-06-10, from: Longbeach Post
 
-<figure><img width="1024" height="560" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-1024x560.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-1024x560.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-300x164.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-768x420.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-192x105.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-400x219.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="560" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-1024x560.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-1024x560.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-300x164.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-768x420.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-192x105.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS-400x219.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132118/09jun25-6-9-25-cleanup-4-223648-rcyfoqex-952152-Y0hn8dLS.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Troops are still staged in Paramount, a city that was suddenly thrust into a monumental political conflict when immigration agents amassed in a business park.</p>
 <p>The post <a href="https://lbpost.com/news/paramount-national-guard-aftermath-protest-trump">Sudden chaos, now a National Guard station: The scene in Paramount after a national flashpoint</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

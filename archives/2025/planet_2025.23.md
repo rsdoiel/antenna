@@ -1,11 +1,607 @@
 ---
 title: planet
-updated: 2025-06-10 14:08:54
+updated: 2025-06-11 06:07:35
 ---
 
 # planet
 
-(date: 2025-06-10 14:08:54)
+(date: 2025-06-11 06:07:35)
+
+---
+
+## Against rules to refuse Israel bond sales, says Makhlouf
+
+date: 2025-06-11, from: RTÉ News
+
+The governor of the Central Bank will tell politicians that it cannot refuse to facilitate the sale of Israel war bonds as doing so would break EU capital markets rules. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0611/1517883-finance-committee/>
+
+---
+
+## Arts Council before committee over failed IT project
+
+date: 2025-06-11, from: RTÉ News
+
+Members of the Arts Council and the Department of Culture are appearing in front of the Oireachtas Media Committe to address further questions in relation to the loss of €6.7 million on a failed IT system. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0611/1517880-arts-council-media-committee/>
+
+---
+
+## 'On-the-spot' measures urged over anti-social behaviour
+
+date: 2025-06-11, from: RTÉ News
+
+'On-the-spot' measures to help tackle anti-social behaviour by youths are needed, the Dáil has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0611/1517882-ireland-politics/>
+
+---
+
+## McDonald brands Govt's new policy on rents a 'shambles'
+
+date: 2025-06-11, from: RTÉ News
+
+The Government's new policy on rents has been branded a "shambles" by Sinn Féin leader Mary Lou McDonald. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0611/1517822-rent-reforms/>
+
+---
+
+## The world pledged to end child labour by 2025: So why are 138 million kids still working?
+
+date: 2025-06-11, from: United Nations, Economic Development
+
+12-year-old Tenasoa crawls to work every day at a mine in eastern Madagascar where she collects two kilos of the shiny mineral mica each day. She cannot walk because of a physical disability. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164211>
+
+---
+
+## At least eight drown in Red Sea as smugglers force migrants overboard
+
+date: 2025-06-11, from: United Nations, Top Stories
+
+Survivors of a people-smuggling operation in the Red Sea have recounted how they were forced off their boat far from the coast of Djibouti and left to swim for their lives. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164246>
+
+---
+
+## Family of boy killed in crash seek review of DPP decision
+
+date: 2025-06-11, from: RTÉ News
+
+The family of a 10-year-old boy who died following a road traffic collision near his home last year has sought a review of a decision by the DPP that no prosecution should arise out of the circumstances of his death. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0611/1517860-dylan-coady-coleman-road-collision/>
+
+---
+
+## Man remanded in custody charged with human trafficking
+
+date: 2025-06-11, from: RTÉ News
+
+A 56-year-old man has been remanded in custody charged with the human trafficking of a woman for the purpose of exploitation. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0611/1517870-dainis-grinfelds-court/>
+
+---
+
+## Central Bank warns of impact of US tariffs on economy
+
+date: 2025-06-11, from: RTÉ News
+
+The Central Bank has warned about the effects of global uncertainty caused by US tariffs and its potential impact on the Irish economy. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0611/1517866-central-banks-financial-stability-review/>
+
+---
+
+## Thunderstorm warnings for Leinster, Cork and Waterford
+
+date: 2025-06-11, from: RTÉ News
+
+A number of Status Yellow thunderstorm warnings have been issued for the coming days, impacting Cork, Waterford, Leinster and Northern Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0611/1517861-weather-warnings/>
+
+---
+
+## IOR publishes the thirteenth edition of its Annual Report
+
+date: 2025-06-11, from: Vatican News
+
+
+                    <p>The Institute for the Works of Religion has published its Annual Report, showing results that include a dividend of €13.8 million for the Pope, in line with the Institute’s mission to support religious and charitable works.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/ior-publishes-the-thirteenth-edition-of-its-annual-report.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/ior-publishes-the-thirteenth-edition-of-its-annual-report.html>
+
+---
+
+## Cyclist, 19, dies in Lucan road collision
+
+date: 2025-06-11, from: RTÉ News
+
+A 19-year-old man has died following a collision involving a van and a bicycle in Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0611/1517854-lucan-dublin-rtc/>
+
+---
+
+## Military personnel being sent to LA 'making things worse'
+
+date: 2025-06-11, from: RTÉ News
+
+US President Donald Trump said he sent in the National Guard and marines to "liberate" Los Angeles from the violence of protesters, but some residents of Little Tokyo, a neighbourhood hit hardest by the unrest say it has made things worse. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0611/1517852-la-protests-little-tokyo/>
+
+---
+
+## Q&A: What's in the Government's rent control plans?
+
+date: 2025-06-11, from: RTÉ News
+
+Professor of Economics at Trinity College Dublin and author of the Daft.ie Rent Report Ronan Lyons spoke to RTÉ's Morning Ireland about the Government's plan for national rent controls. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0611/1517832-q-a-rents-ronan-lyons/>
+
+---
+
+## Declare waiting lists a crisis, urges disability activist
+
+date: 2025-06-11, from: RTÉ News
+
+Disability activist Cara Darmody has called on the Taoiseach to declare growing waiting lists for child disability assessments a national crisis. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0611/1517847-darmody-lists-crisis/>
+
+---
+
+## Toy Show star cast in HBO's Harry Potter TV series
+
+date: 2025-06-11, from: RTÉ News
+
+Young Irish star Leo Earley, who appeared in last year's Late Late Toy Show, has been cast in HBO's upcoming Harry Potter TV series. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0611/1517843-toy-show-star-cast-in-hbos-harry-potter-tv-series/>
+
+---
+
+## Two arrested over fatal hit-and-run in Dublin last year
+
+date: 2025-06-11, from: RTÉ News
+
+Two people have been arrested in connection with a fatal hit-and-run in Blanchardstown, Dublin, in which a husband and wife were killed last December. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0611/1517846-fatal-collision-arrests/>
+
+---
+
+## Pope Leo prays for the victims of school shooting in Austria
+
+date: 2025-06-11, from: Vatican News
+
+
+                    <p>At his General Audience, Pope Leo XIV prays for the victims, families, and those affected by the mass shooting at a high school in Graz, Austria.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-may-the-lord-welcome-the-children-into-his-peace.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-may-the-lord-welcome-the-children-into-his-peace.html>
+
+---
+
+## Pre-excavation work due at former mother-and-baby home
+
+date: 2025-06-11, from: RTÉ News
+
+Work to allow for the excavation of a burial ground at the former mother-and-baby home in Tuam, Co Galway, will begin next Monday. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0611/1517830-tuam-mother-and-baby-home/>
+
+---
+
+## NAMA to return €300m more than expected to Exchequer
+
+date: 2025-06-11, from: RTÉ News
+
+NAMA, the State body responsible for handling property loans from the financial crisis, plans to return more money to the taxpayer than previously expected. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0611/1517818-nama-exchequer/>
+
+---
+
+## Pope at Audience: There is no cry God does not hear
+
+date: 2025-06-11, from: Vatican News
+
+
+                    <p>Pope Leo XIV holds his weekly General Audience and reflects on the Gospel account of the healing of the blind man who cried out to Jesus and began to follow Him after his sight was restored. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-at-audience-there-is-no-cry-god-does-not-hear.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-at-audience-there-is-no-cry-god-does-not-hear.html>
+
+---
+
+## Musk regrets some Trump posts, saying they 'went too far'
+
+date: 2025-06-11, from: RTÉ News
+
+Billionaire Elon Musk has said he regrets some of the posts he made last week about US President Donald Trump as they went "too far". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0611/1517812-musk-trump/>
+
+---
+
+## Israeli strikes kill at least 41 in Gaza, say medics
+
+date: 2025-06-11, from: RTÉ News
+
+Israeli gunfire and airstrikes killed at least 41 Palestinians in Gaza, most of them at an aid site operated by the US-backed Gaza Humanitarian Foundation in the centre of the coastal territory, local health officials said. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0611/1517806-gaza-israel/>
+
+---
+
+## Burns: Moving All-Ireland finals to August on the cards
+
+date: 2025-06-11, from: RTÉ News
+
+The prospect of the All-Ireland finals moving into August by 2027 and the potential reintroduction of replays for provincial finals remain live according to GAA president Jarlath Burns. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0611/1517810-burns-moving-all-ireland-finals-to-august-on-the-cards/>
+
+---
+
+## Austria mass school shooting leaves police searching for answers
+
+date: 2025-06-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7557976.1749624187!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/austria-school-attack.JPG' alt='Candles in red and clear jars are placed on the ground outside a school sign' width='620' height='349' title='Candles are placed outside a secondary school following a deadly shooting, in Graz, Austria, June 11, 2025.  REUTERS/Borut Zivulovic'/><p>Austrian authorities were searching on Wednesday for answers to why a 21-year-old gunman shot dead 10 people in a rampage at his former high school before killing himself, one of the worst outbreaks of violence in the country's modern history.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/austria-graz-mass-school-shooting-1.7557975?cmp=rss>
+
+---
+
+## GM to invest $4B in 3 U.S. facilities over next 2 years as it ramps up gas-powered vehicles
+
+date: 2025-06-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7557997.1749640441!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/gm-suvs.JPG' alt='SUVs move through the assembly line at the General Motors Assembly Plant in Arlington, Texas June 9, 2015. General Motors Co is raising the stakes on its bet that sales of fuel-thirsty sport utility vehicles will keep driving its global profits as Chinese and other markets sag. GM said on July 14, 2015 that it plans to spend $1.4 billion to modernize the factory in Arlington, Texas, that builds the Cadillac Escalade, Chevrolet Suburban and GMC Yukon sport utility vehicles. It&apos;s the largest single investment in a $5.4 billion, three-year plant upgrade program announced earlier this year. Picture taken June 9, 2015. ' width='620' height='349' title='SUVs move through the assembly line at the General Motors Assembly Plant in Arlington, Texas June 9, 2015. General Motors Co is raising the stakes on its bet that sales of fuel-thirsty sport utility vehicles will keep driving its global profits as Chinese and other markets sag. GM said on July 14, 2015 that it plans to spend $1.4 billion to modernize the factory in Arlington, Texas, that builds the Cadillac Escalade, Chevrolet Suburban and GMC Yukon sport utility vehicles. It&apos;s the largest single investment in a $5.4 billion, three-year plant upgrade program announced earlier this year. Picture taken June 9, 2015. '/><p>Detroit carmaker said on Tuesday it plans to invest about $4 billion USD over the next two years at three U.S. facilities in Michigan, Kansas, and Tennessee as it moves to boost production of gas-powered vehicles amid slowing electric vehicle demand.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/windsor/gm-gas-powered-billions-us-investment-1.7557987?cmp=rss>
+
+---
+
+## Makeshift bomb found at Graz shooting suspect's home
+
+date: 2025-06-11, from: RTÉ News
+
+Austrian authorities were searching for answers to why a 21-year-old gunman shot dead 10 people in a rampage at his former high school before killing himself, one of the worst outbreaks of violence in the country's modern history. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0611/1517802-austria-graz-shooting/>
+
+---
+
+## Call over 'game changer' Muscular Dystrophy drug
+
+date: 2025-06-11, from: RTÉ News
+
+Parents of children with an incurable muscle-wasting condition have called on the Minister for Health to accelerate the approval and funding of a new drug which they have described as a "game changer". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0611/1517796-muscular-dystrophy-drug/>
+
+---
+
+## Man due in court in human trafficking investigation
+
+date: 2025-06-11, from: RTÉ News
+
+A man arrested in Co Monaghan earlier this week has been charged in connection with alleged human trafficking offences. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0611/1517799-monaghan-court/>
+
+---
+
+## Bethlehem residents lose work and land as situation deteriorates
+
+date: 2025-06-11, from: Vatican News
+
+
+                    <p>Residents of Bethlehem in the Palestinian West Bank have seen unemployment rise to 31 percent and declining number of tourists impact their livelihoods, according to Joseph Hazboun, regional director of CNEWA-Pontifical Mission in Jerusalem.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/holy-land-bethlehem-unemployment-residents.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/holy-land-bethlehem-unemployment-residents.html>
+
+---
+
+## Kyiv’s historic Cathedral damaged in Russian air strikes
+
+date: 2025-06-11, from: Vatican News
+
+
+                    <p>As Russian drones bomb the 11th-century Holy Wisdom Cathedral in Kyiv, Ukrainian Greek Catholic Archbishop Borys Gudziak says the cathedral holds "unique spiritual symbolism and moral significance for the nation."</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/ukraine-holy-wisdom-cathedral-bombed-russian-drones.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/ukraine-holy-wisdom-cathedral-bombed-russian-drones.html>
+
+---
+
+## Ukraine says Russian strikes hit Kharkiv, killing two
+
+date: 2025-06-11, from: RTÉ News
+
+Fresh Russian strikes on Ukraine's northeastern city of Kharkiv have killed two people and wounded 60 including children, authorities said, as Moscow pushed ahead with its relentless attacks after rejecting an unconditional ceasefire. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0611/1517784-ukraine-russia-war/>
+
+---
+
+## How misinformation took hold in Carlow shooting aftermath
+
+date: 2025-06-11, from: RTÉ News
+
+The recent Carlow shooting incident was a moment of real panic. But it also showed how quickly events can be reshaped online, often before the full picture is known 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0611/1517713-carlow-shooting-how-misinformation-took-hold-in-hours/>
+
+---
+
+## Does Newsom's 'rule of Don' attack lay ground for 2028?
+
+date: 2025-06-11, from: RTÉ News
+
+Was this the moment California's Governor Gavin Newsom finally threw his hat in the ring for the Democratic Party's presidential nomination? 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0611/1517776-analysis-us/>
+
+---
+
+## €90m in counterfeit food, drink seized in EU last year
+
+date: 2025-06-11, from: RTÉ News
+
+Over €90 million in counterfeit food and drink products were seized across the European Union last year, according to the EU's Intellectual Property Office. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0611/1517748-counterfeit-food-eu-report/>
+
+---
+
+## Harris urges tariff exemptions for key sectors
+
+date: 2025-06-11, from: RTÉ News
+
+Tánaiste Simon Harris has urged the EU's trade commissioner to exempt sectors key to the Irish economy, such as aviation, medical, agrifood and the equine industry, from any retaliatory tariffs the EU could impose on a range of US products should the current trade negotiations fail. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0611/1517780-eu-trade-tariffs/>
+
+---
+
+## Australian murder suspect denies drying deadly mushrooms
+
+date: 2025-06-11, from: RTÉ News
+
+An Australian woman accused of murdering three people with death cap mushrooms has denied that she turned the fungi into dry powder for the fatal meal. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0611/1517778-erin-patterson-australia-court/>
+
+---
+
+## Significant drop in people buying health insurance - HIA
+
+date: 2025-06-11, from: RTÉ News
+
+There has been a significant drop-off in the number of people buying health insurance, according to new figures from the Health Insurance Authority. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0611/1517766-health-insurance/>
+
+---
+
+## Exhibition explores 100 years of the Irish passport
+
+date: 2025-06-11, from: RTÉ News
+
+A new exhibition has opened at the Irish Emigration Museum to mark the centenary of the Irish passport. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0611/1517758-irish-passport-museum/>
+
+---
+
+## May 2025 second warmest on record - EU climate monitor
+
+date: 2025-06-11, from: RTÉ News
+
+Global heating continued as the new norm, with last month the second warmest May on record on land and in the oceans, according to the European Union's climate monitoring service. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0611/1517775-global-temperatures/>
+
+---
+
+## LA police say arrests under way as groups defy curfew
+
+date: 2025-06-11, from: RTÉ News
+
+Los Angeles police said that "mass arrests" were under way as people gathered on downtown streets after an overnight curfew went into effect following days of protests against immigration arrests. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0611/1517774-los-angeles-protests/>
+
+---
+
+## Israel appears to believe its war goals are getting closer as Gaza teeters on brink of starvation
+
+date: 2025-06-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7557375.1749592977!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza-distribution.JPG' alt='A man carries a sack of food over his shoulder. There is a large crowd in the background. ' width='620' height='349' title='A Palestinian carries a sack as he and others gather to collect aid supplies from the U.S.-backed Gaza Humanitarian Foundation, in Khan Younis, in the southern Gaza Strip, May 29, 2025. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/israel-gaza-food-aid-1.7557336?cmp=rss>
+
+---
+
+## First Nations opposition continues after passing of Ontario's Bill 5
+
+date: 2025-06-11, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7557143.1749593578!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/youth-protest-in-timmins.jpeg' alt='Youth holding protest signs.' width='620' height='349' title='Shem Mattinas was one of the organizers of the a youth-led protest against Bill 5 in Timmins last Friday.'/><p>Many First Nations people in Ontario are continuing protests following the passing of Bill 5 in Ontario last week.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/bill-5-ring-of-fire-caribou-1.7557087?cmp=rss>
+
+---
+
+## Child benefits lift 150,000 children out of poverty- ESRI
+
+date: 2025-06-11, from: RTÉ News
+
+Child-related benefits have lifted over 150,000 children out of poverty, according to the Economic and Social Research Institute. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0611/1517771-child-benefits-esri-report/>
+
+---
+
+## Stormont ministers call for calm after Ballymena disorder
+
+date: 2025-06-11, from: RTÉ News
+
+Stormont ministers have called for calm in Ballymena, as 17 PSNI officers were injured as petrol bombs and masonry were thrown at officers and police vehicles over the course of several hours. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0611/1517770-ballymena-disorder/>
+
+---
+
+## Thunberg back in Sweden after deportation from Israel
+
+date: 2025-06-10, from: RTÉ News
+
+Activist Greta Thunberg has returned home to Sweden after being deported from Israel, lambasting the country for its "violations of international law and war crimes" in Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0611/1517768-gaza-aid-ship-madleen/>
+
+---
+
+## UK government allocates £50m for Casement Park build
+
+date: 2025-06-10, from: RTÉ News
+
+The UK government has allocated £50 million for the construction of Casement Park in west Belfast. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0611/1517757-casement-park/>
+
+---
+
+## Ireland sign off season with low-key draw in Luxembourg
+
+date: 2025-06-10, from: RTÉ News
+
+The Republic of Ireland ended their season with a largely underwhelming 0-0 draw away to Luxembourg. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0610/1517604-ireland-sign-off-season-with-low-key-draw-in-luxembourg/>
 
 ---
 
@@ -66,6 +662,18 @@ Read how it all unfolded as Heimir Hallgrímsson, on his birthday, watched on as
 <br> 
 
 <https://www.rte.ie/sport/soccer/2025/0610/1517703-international-friendly-luxembourg-v-ireland-updates/>
+
+---
+
+## Every year, folks travel from far and wide watch this giant pencil get sharpened
+
+date: 2025-06-10, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7557390.1749579923!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/pencil-sharpening-minneapolis.jpg' alt='A crowd of people standing in the street watching and pointing phone cameras at a giant pencil, roughly six feet tall, surrounded by scaffolding on a lawn. ' width='620' height='349' title='FILE - Hundreds of people gather to watch the 3rd Annual Sharpening of the Lake of the Isles Pencil in Minneapolis on June 15, 2024. (Alex Kormann/Star Tribune via AP)'/><p>More than 1,000 people gathered Saturday in a scenic Minneapolis neighborhood for an annual ritual — the sharpening of a gigantic No. 2 pencil.</p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/asithappens/giant-pencil-sharpening-1.7557371?cmp=rss>
 
 ---
 
@@ -271,7 +879,7 @@ An unregistered business operating in a shed building, where the other half of t
 
 ## Social and economic barriers, not choice, driving global fertility crisis: UNFPA
 
-date: 2025-06-10, from: United Nations, Top Stories
+date: 2025-06-10, from: United Nations, Economic Development
 
 The global fertility slump isn’t down to young people turning their backs on parenthood – it’s due to social and economic pressures stopping them from having the children they want, says a new UN report.&nbsp; 
 
@@ -283,7 +891,7 @@ The global fertility slump isn’t down to young people turning their backs on p
 
 ## The battle to quiet the sea: Can the shipping industry turn down the volume?
 
-date: 2025-06-10, from: United Nations, Top Stories
+date: 2025-06-10, from: United Nations, Economic Development
 
 The ocean has never been silent – waves crashing, seabirds calling, whales singing across vast distances. But in recent decades, a new kind of noise has taken hold: the relentless hum of ships. For many marine species, this growing wall of sound is more than a nuisance – it’s a threat to their survival. 
 
@@ -295,7 +903,7 @@ The ocean has never been silent – waves crashing, seabirds calling, whales sin
 
 ## Greed is driving oceans toward collapse
 
-date: 2025-06-10, from: United Nations, Top Stories
+date: 2025-06-10, from: United Nations, Economic Development
 
 The ocean is under siege – and greed is to blame. UN Secretary-General António Guterres on Tuesday urged world leaders and grassroots groups to confront the powerful interests driving marine destruction, from illegal fishing and plastic pollution to the accelerating impacts of climate change. 
 
@@ -321,7 +929,7 @@ Nearly three months after a catastrophic earthquake struck Myanmar, the country 
 
 date: 2025-06-10, from: United Nations, Top Stories
 
-Nearly all the Sustainable Development Goal (SDG) indicators for persons with disabilities are off track the UN deputy chief said on Tuesday, as people from around the world gathered for the largest annual meeting on disability-related issues.&nbsp; 
+Nearly all the Sustainable Development Goal (SDG) indicators for persons with disabilities are off track, the UN deputy chief said on Tuesday, as people from around the world gathered for the largest annual meeting on disability-related issues.&nbsp; 
 
 <br> 
 
@@ -362,6 +970,18 @@ The very real risk of famine continues to stalk Sudan’s communities impacted b
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/06/1164181>
+
+---
+
+## World News in Brief: Global growth slows, deadly Ukraine attacks, Haiti hurricane hunger risk, legal migration for refugees
+
+date: 2025-06-10, from: United Nations, Economic Development
+
+Global economic growth is expected to decline this year due to increased trade barriers and policy uncertainty, the World Bank said in a report published on Tuesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164241>
 
 ---
 
@@ -610,6 +1230,18 @@ Minister for Housing James Browne has said measures agreed by Cabinet this morni
 <br> 
 
 <https://www.rte.ie/news/politics/2025/0610/1517602-rent-cap-cabinet/>
+
+---
+
+## 10 killed in attack at Austrian school, including shooter
+
+date: 2025-06-10, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7556853.1749550507!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2218892196.jpg' alt='The back of an officer in uniform is shown, with the inscription Polizei on his uniform. Low-rise buildings and trees are in the background.' width='620' height='349' title='A police officer is seen close to a school where, according to reports, several people died in a shooting, on June 10, 2025 in Graz, southeastern Austria. Several people died in a school shooting, including the attacker, Austrian broadcaster ORF quoted the interior ministry as saying.  '/><p>Nine people were killed in a shooting at a school in the Austrian city of Graz on Tuesday, authorities said. The suspected perpetrator also died.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/austria-graz-school-shooting-1.7556847?cmp=rss>
 
 ---
 
@@ -1047,7 +1679,7 @@ date: 2025-06-09, from: CBC, Indigenious News
 
 ## Guterres calls for an end to ocean ‘plunder’ as UN summit opens in France
 
-date: 2025-06-09, from: United Nations, Top Stories
+date: 2025-06-09, from: United Nations, Economic Development
 
 With the Mediterranean glittering in the background, UN Secretary-General António Guterres opened the Third United Nations Ocean Conference on Monday, delivering a blunt indictment of humanity’s fractured relationship with the sea. 
 
@@ -1071,7 +1703,7 @@ The worsening humanitarian crisis in the Gaza Strip has reached “unprecedented
 
 ## No green without blue: Young ocean explorers set sail for a sustainable future
 
-date: 2025-06-09, from: United Nations, Top Stories
+date: 2025-06-09, from: United Nations, Economic Development
 
 With science at the forefront of the opening day of the Third UN Ocean Conference (UNOC3), UN News boarded a 111-year-old Norwegian tall ship on the French Riviera to meet 50 science students, along with a host of lecturers and citizen scientists fresh from a 46-day expedition. Fueled by satellite data from the European Space Agency (ESA), their invaluable observations echo the urgent call to understand and protect the world’s oceans. 
 
@@ -1653,7 +2285,7 @@ Whether it’s their first time or a routine part of their life, menstruation ha
 
 ## Drifting architects: Plankton, climate, and the race to understand our changing ocean
 
-date: 2025-06-08, from: United Nations, Top Stories
+date: 2025-06-08, from: United Nations, Economic Development
 
 They drift unseen, but everything depends on them. Plankton – the ocean’s lifeblood –&nbsp;regulate the climate, feed the seas, and shape life on Earth. Scientists along the French Riviera are in a race against time to unlock the mysteries of these tiny organisms before their decline reverberates across the planet. 
 
@@ -1948,6 +2580,18 @@ date: 2025-06-08, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/los-angeles-immigration-protests-cost-1.7556863?cmp=rss>
+
+---
+
+## 'Why you here, man?': L.A. protesters — and the governor — say the military isn't needed at all
+
+date: 2025-06-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/4cc4e5c4-705b-4126-9243-640cd6861340,1749603184366/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='National Guard troops face off with protesters' width='620' height='349' title='U.S. President Donald Trump defended sending National Guard troops to the Los Angeles protests against his immigration policies. Demonstrations were less volatile on Tuesday despite some scuffles with police.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/los-angeles-ice-protests-1.7557650?cmp=rss>
 
 ---
 

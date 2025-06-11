@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2025-06-10 14:08:57
+updated: 2025-06-11 06:07:39
 ---
 
 # science and technology
 
-(date: 2025-06-10 14:08:57)
+(date: 2025-06-11 06:07:39)
+
+---
+
+## Half of businesses rethink ditching humans for customer service bots
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>Agentless contact center &#39;not yet technically feasible, nor operationally desirable&#39;</h4> <p>Good news for consumers frustrated by wading through pools of AI treacle in search of customer service - businesses are reportedly turning back to human agents &#34;amid AI integration challenges.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/gartner_ai_customer_service/>
+
+---
+
+## NASA Glenn Pitches Science Demonstrations at Lake Erie Crushers Game
+
+date: 2025-06-11, from: NASA breaking news
+
+NASA’s Glenn Research Center headed to the ballpark for Education Day with the Lake Erie Crushers on May 15. NASA Glenn staff showcased the science of NASA using portable wind tunnel demonstrations, virtual reality simulations, and other interactives inspired by NASA’s Artemis missions.&#160;&#160; Guests snapped photos at an “out-of-this-world” selfie station and learned how to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-pitches-science-demonstrations-at-lake-erie-crushers-game/>
+
+---
+
+## NASA Glenn Employees Recognized by Astronaut Corps
+
+date: 2025-06-11, from: NASA breaking news
+
+Four of NASA Glenn Research Center’s employees have received the coveted NASA Silver Snoopy Award. This award, overseen by NASA’s Space Flight Awareness program, is a special honor given to NASA employees and contractors for their outstanding achievements related to flight safety and mission success. It is the astronauts&#8217; personal award to recognize excellence and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-employees-recognized-by-astronaut-corps/>
+
+---
+
+## NASA Glenn Joins COSI’s Big Science Celebration
+
+date: 2025-06-11, from: NASA breaking news
+
+NASA’s Glenn Research Center joined the Center for Science and Industry (COSI) Big Science Celebration on the museum&#8217;s front lawn in Columbus, Ohio, on May 4. This event centered on science activities by STEM professionals, researchers, and experts from Central Ohio — and despite chilly, damp weather, it drew more than 20,000 visitors.&#160; NASA’s 10-by-80-foot [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-joins-cosis-big-science-celebration-2/>
+
+---
+
+## SiPearl ships reference node design for Rhea1 high-spec Arm chip
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>Server rig aimed at validating Europe&#39;s exascale-class silicon and software stacks</h4> <p>Euro chip designer SiPearl has released a reference server design featuring its Rhea1 processor, the chip that powers Jupiter, Europe&#39;s most powerful supercomputer.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/sipearl_rhea1_reference_design/>
+
+---
+
+## UK bets big (and small) on nuclear as datacenter demand expected to climb
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>£14.2B Sizewell C among the investments along side Small Modular Reactors</h4> <p>The UK has bet big on nuclear power — both big and small — following a series of warnings about energy capacity and supply for datacenter investments.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/uk_bets_big_and_small_nuclear/>
+
+---
+
+## Microsoft slows Windows 11 24H2 Patch Tuesday due to a 'compatibility issue'
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>On your marks, get set... bork!</h4> <p>Microsoft has set a new record with June&#39;s security update for the time between release and an admission of borkage.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/microsoft_slows_windows_11_24h2/>
+
+---
+
+## UK govt promises digital reform in spending review. We've heard that before
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>How much wishful thinking has entered the pipeline will come to light in 2027</h4> <p><strong>Opinion</strong>  Today, the UK chief finance minister is set to detail government spending for the next three years and capital budgets for the next four. As the first multi-year spending review since 2021, it is a big deal.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/uk_tech_reform_spending_review/>
+
+---
+
+## AI's the end of the Shell as we know it and I feel fine … but insecure
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>Model Context Protocol has many fine uses, but then it hinted at becoming a Von Neumann machine</h4> <p><strong>Column</strong>  Generative AI is changing so rapidly, it’s hard to stay up to date, so I generally avoid the newest shiny thing until it becomes unavoidable.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/opinion_column_mcp_von_neumann_machine/>
+
+---
+
+## Lenovo bags HPC contracts for a pair of European customers
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>Building AMD computational cancer research super and ICL workhorse with Intel inside</h4> <p>Lenovo has pulled a couple of European supercomputer wins out of the bag, one using Intel chips for Imperial College London and an AMD-based system for the European Institute of Oncology.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/lenovo_bags_hpc_contracts_for/>
+
+---
+
+## CISO who helped unmask Badbox warns: Version 3 is coming
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>The botnet’s still alive and evolving</h4> <p>Badbox 2.0, the botnet that infected millions of smart TV boxes and connected devices before private security researchers and law enforcement partially disrupted its infrastructure, is readying for a third round of fraud and digital attacks, according to one of the threat hunters who uncovered the original scheme.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/badbox_round_three/>
+
+---
+
+## Mozilla frets about Google's push to build AI into Chrome
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>AI could bring a new round of browser wars</h4> <p>Mozilla is concerned that Google&#39;s efforts to build Gemini into its Chrome browser will make it even more difficult for rivals to compete with the search and ads giant.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/mozilla_worries_googles_browser_ai/>
+
+---
+
+## Microsoft warns of 66 flaws to fix for this Patch Tuesday, and two are under active attack
+
+date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+
+<h4>Stealthy Falcon swoops on WebDAV and Redmond&#39;s even patching IE!</h4> <p><strong>Patch Tuesday</strong>  It&#39;s Patch Tuesday time again, and Microsoft is warning that there are a bunch of critical fixes to sort out - and two actively exploited bugs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/microsoft_patch_tuesday_june/>
+
+---
+
+## Cisco president says dredging coding syntax from wetware memory wastes engineers' expensive synapses
+
+date: 2025-06-10, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>Wants to let AI do the boring bits so his team can invent more cool stuff</h4> <p><strong>Cisco Live</strong>  Cisco president Jeetu Patel wants the company’s engineers to halve the amount of code they write.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/10/cisco_wants_ai_coding_assistants/>
+
+---
+
+## NASA’s CODEX Captures Unique Views of Sun’s Outer Atmosphere
+
+date: 2025-06-10, from: NASA breaking news
+
+Key Points: Scientists analyzing data from NASA’s CODEX (Coronal Diagnostic Experiment) investigation have successfully evaluated the instrument’s first images, revealing the speed and temperature of material flowing out from the Sun. These images, shared at a press event Tuesday at the American Astronomical Society meeting in Anchorage, Alaska, illustrate the Sun’s outer atmosphere, or corona, […] 
+
+<br> 
+
+<https://science.nasa.gov/image-article/nasas-codex-captures-unique-views-of-suns-outer-atmosphere/>
+
+---
+
+## Android 16 released
+
+date: 2025-06-10, from: OS News
+
+Today, we’re bringing you Android 16, rolling out first to supported Pixel devices with more phone brands to come later this year. This is the earliest Android has launched a major release in the last few years, which ensures you get the latest updates as soon as possible on your devices. Android 16 lays the foundation for our new Material 3 Expressive design, with features that make Android more accessible and easy to use. ↫ Seang Chau at the Google blog Android 16 doesn&#8217;t seem like a very big release, and that&#8217;s because for most users, it really isn&#8217;t. There&#8217;s some neat features in here, like improved notification grouping, live notifications, a slew of protection features for people who run increased risk (think journalists or victims of abuse), and proper desktop-style windowing on tablets, which seems like the tentpole feature for now. The Material 3 Expressive design is not really here yet, though as that will come in subsequent Android 16 updates. The release for devices coincides with the release of the source code, which is no longer released as part of the development process, but dumped across the fence at release time. This means that those of us using a de-Googled Android ROM &#8211; I use GrapheneOS &#8211; will have to wait a bit longer than we&#8217;re used to before getting the new version. 
+
+<br> 
+
+<https://www.osnews.com/story/142542/android-16-released/>
 
 ---
 

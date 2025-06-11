@@ -1,11 +1,366 @@
 ---
 title: pacific
-updated: 2025-06-10 14:08:57
+updated: 2025-06-11 06:07:38
 ---
 
 # pacific
 
-(date: 2025-06-10 14:08:57)
+(date: 2025-06-11 06:07:38)
+
+---
+
+## US Marines arrive in LA on Trump’s orders as immigration protests persist
+
+date: 2025-06-11, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Hundreds of U.S. Marines arrived in the Los Angeles area on Tuesday under orders from President Donald Trump, as the city&#8217;s mayor declared a curfew for parts of the downtown area and police arrested 197 people in a fifth day of street protests.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/11/nation-world-news/us-marines-arrive-in-la-on-trumps-orders-as-immigration-protests-persist/>
+
+---
+
+## Report ranks Hawaii 24th for well-being of keiki
+
+date: 2025-06-11, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii&#8217;s children are increasingly affected by housing instability and parental job insecurity, ranking the state among the worst in the nation for economic well-being, according to the 2025 KIDS COUNT Data Book released Monday by the Annie E. Casey Foundation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/11/hawaii-news/report-ranks-hawaii-24th-for-well-being-of-keiki/>
+
+---
+
+## Free meals for keiki offered at 15 Big Island schools
+
+date: 2025-06-11, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Education will begin offering free summer meals to children 18 and under starting Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/11/hawaii-news/free-meals-for-keiki-offered-at-15-big-island-schools/>
+
+---
+
+## High court mulls Nitta case
+
+date: 2025-06-11, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Supreme Court will consider whether contracts between the state&#8217;s largest health insurer and its health care providers and patients are enforceable.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/11/hawaii-news/high-court-mulls-nitta-case/>
+
+---
+
+## China trade, export control talks push through second full day in London
+
+date: 2025-06-11, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; Trade talks between the U.S. and China in London are going well and could spill into a third day, U.S. negotiators said, as the two superpowers pushed for a breakthrough on duelling export controls that had threatened to unravel a delicate tariff truce.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/11/nation-world-news/china-trade-export-control-talks-push-through-second-full-day-in-london/>
+
+---
+
+## Obituaries for June 11
+
+date: 2025-06-11, from: Hawaii Tribune Harold
+
+
+				<p>Lindsay MacDonald Barclay, 83, of Honolulu, formerly of Volcano, died May 8 in Honolulu. Born in Brooklyn, N.Y., he was a retired civilian auditor for the U.S. Air Force and U.S. Air Force veteran who studied accounting at Kansas State University and earned a master&#8217;s in Russian history at the University of Hawaii at Manoa, former volunteer at Hawaii Volcanoes National Park and Rotary Club of Volcano member. He was a gentle man who loved big parties but quiet conversations. He had no known surviving family but many friends.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/11/hawaii-news/obituaries-for-june-11-11/>
+
+---
+
+## News in brief for June 11
+
+date: 2025-06-11, from: Hawaii Tribune Harold
+
+
+				<p>Meta is creating a new AI lab &#0010;to pursue &#8216;superintelligence&#8217;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/11/nation-world-news/news-in-brief-for-june-11/>
+
+---
+
+## Former pupil kills 10 people and himself in shooting at Austrian school
+
+date: 2025-06-11, from: Hawaii Tribune Harold
+
+
+				<p>GRAZ, Austria &#8212; A former pupil killed 10 people and himself at a secondary school in Austria&#8217;s second city, Graz, on Tuesday in the worst school shooting in Austria&#8217;s modern history.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/11/nation-world-news/former-pupil-kills-10-people-and-himself-in-shooting-at-austrian-school/>
+
+---
+
+## Colombia bomb attacks rock southwest, senator still critical after shooting
+
+date: 2025-06-11, from: Hawaii Tribune Harold
+
+
+				<p>BOGOTA &#8212; Colombia&#8217;s violence took a new turn on Tuesday as a series of bomb attacks rocked the nation&#8217;s southwest, while Senator Miguel Uribe continued fighting for his life days after being shot in the head during a campaign rally.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/11/nation-world-news/colombia-bomb-attacks-rock-southwest-senator-still-critical-after-shooting/>
+
+---
+
+## Trump says FEMA to be wound down after hurricane season
+
+date: 2025-06-11, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump said on Tuesday he planned to start &#8220;phasing out&#8221; the Federal Emergency Management Agency after the hurricane season and that states would receive less federal aid to respond to natural disasters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/11/nation-world-news/trump-says-fema-to-be-wound-down-after-hurricane-season/>
+
+---
+
+## Hegseth defends deployment of troops to Los Angeles at testy hearing
+
+date: 2025-06-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; In response to often sharp questioning from House Democrats on Tuesday, Defense Secretary Pete Hegseth defended the Pentagon&#8217;s deployment of nearly 5,000 active-duty Marines and National Guard members to help police in Los Angeles quell sporadic unrest &#8212; at an estimated cost of $134 million.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/11/nation-world-news/hegseth-defends-deployment-of-troops-to-los-angeles-at-testy-hearing/>
+
+---
+
+## FDA to use AI in drug approvals to ‘radically increase efficiency’
+
+date: 2025-06-11, from: Hawaii Tribune Harold
+
+
+				<p>The Food and Drug Administration is planning to use artificial intelligence to &#8220;radically increase efficiency&#8221; in deciding whether to approve new drugs and devices, one of several top priorities laid out in an article published Tuesday in JAMA.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/11/nation-world-news/fda-to-use-ai-in-drug-approvals-to-radically-increase-efficiency/>
+
+---
+
+## Trump threatens any protesters at military parade with ‘very big force’
+
+date: 2025-06-11, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump said Tuesday that protesters who assembled during a military parade he planned in Washington on Saturday for the Army&#8217;s 250th birthday would be met with &#8220;very big force&#8221; &#8212; a dark warning that made no distinction between peaceful demonstrations and violent confrontations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/11/nation-world-news/trump-threatens-any-protesters-at-military-parade-with-very-big-force/>
+
+---
+
+## 'What it takes to fish and sell in Hawaii': Regional fishery council tackles the commercial aspect of fishing
+
+date: 2025-06-11, from: Pacific Island Times
+
+By Pacific Island Times News Staff Honolulu —Fishing in the modern age is filled with challenges, according to Hawaiian fishermen who... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/what-it-takes-to-fish-and-sell-in-hawaii-regional-fishery-council-tackles-the-commercial-aspect-o>
+
+---
+
+## Pacific Youth lead Global Call for Climate Justice
+
+date: 2025-06-11, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) led a 24-hour global plenary as part of...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/pacific-youth-lead-global-call-for-climate-justice/">Pacific Youth lead Global Call for Climate Justice</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/pacific-youth-lead-global-call-for-climate-justice/>
+
+---
+
+## Tuvalu calls for sea level rise treaty at UN Oceans Conference
+
+date: 2025-06-11, from: 
+
+"Tuvalu calls for the development of an international treaty on sea level rise, to enshrine the legal rights of affected states and people." 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563807/tuvalu-calls-for-sea-level-rise-treaty-at-un-oceans-conference>
+
+---
+
+## July 4 deadline for voters to enrol for Samoa election
+
+date: 2025-06-11, from: 
+
+Samoans living abroad must complete their full voter registration by 4 July. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563784/july-4-deadline-for-voters-to-enrol-for-samoa-election>
+
+---
+
+## Hawaiian Word of the Week: Mīkini
+
+date: 2025-06-11, from: University of Hawaiʻi News
+
+<p>Mīkini&#8212;Machine or appliance.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/10/hawaiian-word-of-the-week-mikini/">Hawaiian Word of the Week: Mīkini</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/10/hawaiian-word-of-the-week-mikini/>
+
+---
+
+## Microbes, medicine, more: UH students earn One Health Interdisciplinary certificates
+
+date: 2025-06-11, from: University of Hawaiʻi News
+
+<p>Molecular biosciences and biotechnology major Braxton Ramos, and biology major Zarek Kon accepted their certificates at the <abbr>UH</abbr> Mānoa spring commencement.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/10/uh-students-earn-one-health-interdisciplinary-certificates/">Microbes, medicine, more: <abbr>UH</abbr> students earn One Health Interdisciplinary certificates</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/10/uh-students-earn-one-health-interdisciplinary-certificates/>
+
+---
+
+## Lift for farmers in PNG's Sepik through EU aid programme
+
+date: 2025-06-11, from: 
+
+The European Union funded project, through its EU-STREIT programme, has been helping farmers in isolated areas to improve production and sales. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563786/lift-for-farmers-in-png-s-sepik-through-eu-aid-programme>
+
+---
+
+## More deaths reported out of West Papua clashes
+
+date: 2025-06-11, from: 
+
+Further reports of civilian casualties are coming out of West Papua, while clashes between Indonesia's military and the armed wing of the Free Papua Movement continue. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563765/more-deaths-reported-out-of-west-papua-clashes>
+
+---
+
+## Guam AG says court's decision opens 'a Pandora's box of legal problems'
+
+date: 2025-06-11, from: Pacific Island Times
+
+Court rules hotel contract requires the governor's signature; Moylan claims the administration had hundreds of deals unsigned by the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-ag-says-court-s-decision-opens-a-pandora-s-box-of-legal-problems>
+
+---
+
+## Manusina beats Tonga and turns focus to Fiji
+
+date: 2025-06-11, from: 
+
+Captain Masuimatamaalii Tauasa Pauaraisa said after the game it was a good start, with seven new players making their debut. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563789/manusina-beats-tonga-and-turns-focus-to-fiji>
+
+---
+
+## UH astronomy faces massive budget cuts: IfA director weighs in
+
+date: 2025-06-10, from: University of Hawaiʻi News
+
+<p>Institute for Astronomy Director Doug Simons discusses potential impacts to the globally renowned research center, faculty and students.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/10/uh-astronomy-faces-massive-budget-cuts/"><abbr>UH</abbr> astronomy faces massive budget cuts: <abbr>IfA</abbr> director weighs in</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/10/uh-astronomy-faces-massive-budget-cuts/>
+
+---
+
+## Pacific nations urged to 'stand together as a region' against 'external forces'
+
+date: 2025-06-10, from: 
+
+New Zealand Foreign Minister Winston Peters has urged Pacific nations to "stand together as a region" against "external forces" seeking to "coerce, cajole and constrain". 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563748/pacific-nations-urged-to-stand-together-as-a-region-against-external-forces>
+
+---
+
+## Macron talks New Caledonia at Pacific-France summit
+
+date: 2025-06-10, from: 
+
+Macron dedicated a significant part of his address to the situation in New Caledonia. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563785/macron-talks-new-caledonia-at-pacific-france-summit>
+
+---
+
+## Pacific news in brief for 11 June
+
+date: 2025-06-10, from: 
+
+A round-up of news in brief from around the region, including members of Samoa's HRPP forming their own party. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563766/pacific-news-in-brief-for-11-june>
 
 ---
 
@@ -132,6 +487,90 @@ The post <a href="https://www.hawaii.edu/news/2025/06/10/uh-2025-tenure-and-prom
 <br> 
 
 <https://www.hawaii.edu/news/2025/06/10/uh-2025-tenure-and-promotion-list/>
+
+---
+
+## Economist: Guam tax rollback reasonable, will be net positive for business, consumers
+
+date: 2025-06-10, updated: 2025-06-11, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — The proposed reduction of the business privilege tax from 5% to 4%, "presents a reasonable policy response to current economic conditions with expected net positive effects for Guam’s consumers and businesses," according to Roseanne Jones, dean of the University of Guam School of Business and Public Administration. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/economist-guam-tax-rollback-reasonable-will-be-net-positive-for-business-consumers/article_9ca92088-ad1a-4862-8b64-33af95d9d7eb.html>
+
+---
+
+## DPW-Energy Division launches cool roof and e-bike rebate programs
+
+date: 2025-06-10, updated: 2025-06-11, from: Marianas Variety
+
+THE CNMI DPW-Division of Energy is proud to announce the official launch of two new energy efficiency programs aimed at improving quality of life, reducing utility costs, and supporting environmental sustainability: the Cool Roof Rebate Program and the Electric Bicycles (E-Bikes) Rebate Program. Both programs will open to the public on Wednesday, June 11, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/dpw-energy-division-launches-cool-roof-and-e-bike-rebate-programs/article_5be4f58c-3e79-4bef-b953-03d90f6b79ce.html>
+
+---
+
+## New fee schedule and permit requirements announced for public rights-of-way
+
+date: 2025-06-10, updated: 2025-06-11, from: Marianas Variety
+
+(DPW) — The Department of Public Works has certified and adopted amendments to the public rights-of-way and related facilities regulations for Saipan, Tinian, and Rota. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/new-fee-schedule-and-permit-requirements-announced-for-public-rights-of-way/article_03297dd1-f666-44f3-aaee-a221b1ea4d5a.html>
+
+---
+
+## Wall Street futures subdued as US-China trade talks grab focus
+
+date: 2025-06-10, updated: 2025-06-11, from: Marianas Variety
+
+(Reuters) — U.S. stock index futures were subdued on Tuesday as investors awaited the outcome of a second day of trade talks between the United States and China aimed at cooling a tariff dispute that has bruised global markets this year. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/wall-street-futures-subdued-as-us-china-trade-talks-grab-focus/article_7dc3ded8-776b-4a4c-b987-b38d0abd9977.html>
+
+---
+
+## Community collaboration leads to dozens of pets protected and adopted at Atkins Kroll Saipan event
+
+date: 2025-06-10, updated: 2025-06-11, from: Marianas Variety
+
+ATKINS Kroll, Inc., proudly partnered with the Saipan Humane Society this past Saturday, hosting a special community event focused on promoting pet adoption, animal wellness, and responsible ownership at the Atkins Kroll Dealership. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/community-collaboration-leads-to-dozens-of-pets-protected-and-adopted-at-atkins-kroll-saipan-event/article_657a9ab5-c277-4882-a393-6633618e7015.html>
+
+---
+
+## UOG sponsors traditional navigation voyage fortifying ties with sister islands
+
+date: 2025-06-10, updated: 2025-06-11, from: Marianas Variety
+
+THE University of Guam Island Wisdom Council supported a crew of traditional navigators who recently sailed out of Guam on a long-voyaging canoe and traversed over hundreds of miles of open ocean, in line with the university’s ongoing efforts to maintain cultural traditions and advance communities. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/uog-sponsors-traditional-navigation-voyage-fortifying-ties-with-sister-islands/article_6a5d2860-2ec5-4544-ad23-cd33ca486057.html>
+
+---
+
+## What it takes to finish at the head of the class
+
+date: 2025-06-10, updated: 2025-06-11, from: Marianas Variety
+
+THIS year’s graduation season had us wondering: What does it take to be able to graduate at the top of the islands’ high schools? It’s an achievement only a select few will ever know. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/what-it-takes-to-finish-at-the-head-of-the-class/article_c65dd157-e012-4ec1-a879-08dc09f1d94a.html>
 
 ---
 
@@ -357,6 +796,20 @@ date: 2025-06-10, from: Hawaii Tribune Harold
 
 ---
 
+## Pohoiki Boat Ramp dredging begins
+
+date: 2025-06-10, from: Hawaii Tribune Harold
+
+
+				<p>Dredging work began today to restore access to the lava-barricaded Pohoiki Boat Ramp, eight years after an eruption of Kilauea volcano rendered the structure unusable.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/10/hawaii-news/pohoiki-boat-ramp-dredging-begins/>
+
+---
+
 ## Whipps challenges high-income classification, calls for Global Support in Climate Crisis
 
 date: 2025-06-10, from: Island Times
@@ -454,7 +907,7 @@ date: 2025-06-10, from: Island Times
 
 date: 2025-06-10, from: Island Times
 
-<figure><img width="1024" height="721" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?fit=1024%2C721&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?resize=300%2C211&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?resize=1024%2C721&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?resize=768%2C541&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?resize=1200%2C845&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?resize=780%2C550&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?resize=400%2C282&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?resize=706%2C497&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?fit=1024%2C721&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78007" data-permalink="https://islandtimes.org/palau-elevates-local-leadership-capacity-with-landmark-hr-conference/wco-y-novis-presentation/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?fit=1249%2C880&amp;ssl=1" data-orig-size="1249,880" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WCO Y. Novis Presentation" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?fit=300%2C211&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/WCO-Y.-Novis-Presentation.jpeg?fit=780%2C549&amp;ssl=1" /></figure>
+<figure><img width="1024" height="656" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Palau-HR.jpg?fit=1024%2C656&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Palau-HR.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Palau-HR.jpg?resize=300%2C192&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Palau-HR.jpg?resize=1024%2C656&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Palau-HR.jpg?resize=768%2C492&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Palau-HR.jpg?resize=1200%2C769&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Palau-HR.jpg?resize=780%2C500&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Palau-HR.jpg?resize=400%2C256&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Palau-HR.jpg?resize=706%2C452&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Palau-HR.jpg?fit=1024%2C656&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78008" data-permalink="https://islandtimes.org/palau-elevates-local-leadership-capacity-with-landmark-hr-conference/palau-hr/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Palau-HR.jpg?fit=1249%2C800&amp;ssl=1" data-orig-size="1249,800" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Palau HR" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Palau-HR.jpg?fit=300%2C192&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Palau-HR.jpg?fit=780%2C500&amp;ssl=1" /></figure>
 <p>AIRAI, PALAU – Over 100 public and private sector professionals in Palau sharpened their leadership skills at the inaugural Palau HR Professionals Conference, held May 29–30, 2025, at the Surangel Supercenter Executive Conference Room in Airai. Hosted by the Palau HR Professionals Group in collaboration with the Society for Human Resource Management (SHRM) Pacific, the [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/palau-elevates-local-leadership-capacity-with-landmark-hr-conference/">Palau elevates local leadership capacity with Landmark HR conference</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  

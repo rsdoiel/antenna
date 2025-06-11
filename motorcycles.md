@@ -1,11 +1,73 @@
 ---
 title: motorcycles
-updated: 2025-06-10 14:09:02
+updated: 2025-06-11 06:07:45
 ---
 
 # motorcycles
 
-(date: 2025-06-10 14:09:02)
+(date: 2025-06-11 06:07:45)
+
+---
+
+## Look At This Insane Fat-Tire Off-Road Trike With a Machine-Gun
+
+date: 2025-06-11, from: Ride Apart, Electric Motorcycle News
+
+I'm sure this is a very stable machine and definitely not tippy. /s 
+
+<br> 
+
+<https://www.rideapart.com/news/762266/fat-tire-trike-motorcycle-technical-machine-gun-belarus-konung/>
+
+---
+
+## This Electric Tuk-Tuk Could Be An Urban Gamechanger Where Pollution Is Awful
+
+date: 2025-06-11, from: Ride Apart, Electric Motorcycle News
+
+More than 100 miles of range is a lot for an urban utilitarian runabout. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/762184/tvs-king-ev-max-three-wheeler-specs-features-details/>
+
+---
+
+## Fancy Adaptive LED Headlights Are Coming to Motorcycles Now, Too
+
+date: 2025-06-11, from: Ride Apart, Electric Motorcycle News
+
+Your Audi and Yamaha can now match in your garage. 
+
+<br> 
+
+<https://www.rideapart.com/news/762150/led-matrix-headlights-yamaha-audi/>
+
+---
+
+## Suzuki Built a Race Motorcycle That Runs On 100% Sustainable Fuel, and That's Cool
+
+date: 2025-06-11, from: Ride Apart, Electric Motorcycle News
+
+The bike will be running TotalEnergies’ Excellium Racing 100 fuel at the Suzuka 8 Hours Endurance Race. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/762181/suzuki-endurance-racing-gsxr1000r-sustainable-fuel/>
+
+---
+
+## The Most Famous Motorcycle Racer to Never Race MotoGP Will Finally Get His Chance
+
+date: 2025-06-11, from: Ride Apart, Electric Motorcycle News
+
+Toprak has entered the chat.  
+
+<br> 
+
+<https://www.rideapart.com/news/762302/motogp-toprak-razgatlioglu-yamaha-pramac-2026/>
 
 ---
 

@@ -1,11 +1,83 @@
 ---
 title: columns
-updated: 2025-06-10 14:08:58
+updated: 2025-06-11 06:07:41
 ---
 
 # columns
 
-(date: 2025-06-10 14:08:58)
+(date: 2025-06-11 06:07:41)
+
+---
+
+## Spotlight → MCP
+
+date: 2025-06-11, from: Paolo Valdemarin's blog
+
+This morning I asked myself if I could make Spotlight on my Mac talk to Claude. Just a small experiment. I ended up building a minimal MCP server that exposes Spotlight’s index—files, apps, recent items—as JSON-RPC tools. With that in place, Claude could search my folders, read files, and understand what a project is about. &#8230; <a href="https://val.demar.in/2025/06/spotlight-%e2%86%92-mcp/" class="more-link">Continue reading<span class="screen-reader-text"> "Spotlight → MCP"</span></a> 
+
+<br> 
+
+<https://val.demar.in/2025/06/spotlight-%e2%86%92-mcp/>
+
+---
+
+## Office Hours: So What's Our Game Plan Now?
+
+date: 2025-06-11, from: Robert Reich's blog
+
+In face of Trump&#8217;s emerging police state? 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-what-is-our-game-plan>
+
+---
+
+## Dropping some TLS laggards
+
+date: 2025-06-11, from: Daniel Stenberg Blog
+
+In the curl project we have a long tradition of supporting a range of different third party libraries that provide similar functionality. The person who builds curl needs to decide which of the backends then want to use out of the provided alternatives. For example when selecting which TLS library to use. This is a &#8230; <a href="https://daniel.haxx.se/blog/2025/06/11/dropping-some-tls-laggards/" class="more-link">Continue reading <span class="screen-reader-text">Dropping some TLS laggards</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/06/11/dropping-some-tls-laggards/>
+
+---
+
+## June 10, 2025
+
+date: 2025-06-11, from: Heather Cox Richardson blog
+
+Today President Donald J. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-10-2025>
+
+---
+
+## Wednesday 11 June, 2025
+
+date: 2025-06-10, from: John Naughton's online diary
+
+Banksy woz here Bristol. Quote of the Day ”Time may be a great healer, but it&#8217;s a lousy beautician.” Dorothy Parker Musical alternative to the morning’s radio news Ludovico Einaudi &#124; Maria Callas Link Long Read of the Day The &#8230; <a href="https://memex.naughtons.org/wednesday-11-june-2025/40911/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-11-june-2025/40911/>
+
+---
+
+## Joanna Stern With Craig Federighi and Greg Joswiak: ‘ Apple Executives Defend Apple Intelligence, Siri and AI Strategy’
+
+date: 2025-06-10, updated: 2025-06-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/video/series/joanna-stern-personal-technology/apple-executives-defend-apple-intelligence-siri-and-ai-strategy/A7F62EE4-E4F5-4E5D-969A-22644536A47B>
 
 ---
 
@@ -13,7 +85,7 @@ updated: 2025-06-10 14:08:58
 
 date: 2025-06-10, from: Matt Haughey blog
 
-<p>A few months ago my pal <a href="https://x.com/joeljohnson?ref=a.wholelottanothing.org" rel="noreferrer">Joel</a> mentioned there was a new car shopping app and even though I only buy a car once every several years, I love to browse listings or figure what my current favorite car is that I don&apos;t own, or be able to</p> 
+<p>A few months ago my pal <a href="https://x.com/joeljohnson?ref=a.wholelottanothing.org" rel="noreferrer">Joel</a> mentioned a new car shopping app to me and even though I only buy a car once every several years, I love to browse listings or figure what my current favorite car is that I don&apos;t own, or be able to</p> 
 
 <br> 
 
@@ -189,7 +261,7 @@ At 10:19 last night, White House deputy chief of staff Stephen Miller posted on 
 
 date: 2025-06-10, from: Doc Searls (at Harvard), New Old Blog
 
-Zoom in to satellitemap.space. The vast majority of low orbit satellites are Starlink&#39;s. This, more than raw power, is what gives authoritarians their authority. Dana Blankenhorn has a good post on Authority. With respect to my own thoughts on the topic, there&#39;s what&#39;s said in Poynter about what I said on my old blog. Key point: &#34;We are all [&#8230;] 
+We&#8217;re covered. Zoom in to satellitemap.space. The vast majority of low Earth orbit satellites (all the white dots above) are Starlink&#8217;s. Play around with the tabs. This, more than raw power, is what gives authoritarians their authority. Dana Blankenhorn has a good post on Authority. With respect to my own thoughts on the topic, there&#8217;s what&#8217;s said in [&#8230;] 
 
 <br> 
 

@@ -1,11 +1,258 @@
 ---
 title: snapshots
-updated: 2025-06-10 14:09:05
+updated: 2025-06-11 06:07:49
 ---
 
 # snapshots
 
-(date: 2025-06-10 14:09:05)
+(date: 2025-06-11 06:07:49)
+
+---
+
+## Podcast: Feds Flew Predator Drones Over The LA Protests
+
+date: 2025-06-11, from: 404 Media Group
+
+All about the spy planes and burning Waymos at the anti-ICE protests in LA, and a guilty plea for a massive sex trafficking ring. 
+
+<br> 
+
+<https://www.404media.co/podcast-feds-flew-predator-drones-over-the-la-protests/>
+
+---
+
+## Digital Circulation and the Question of Publics
+
+date: 2025-06-11, from: Digital Humanities Quarterly News
+
+In this blog post, I seek to explore the relationship—and potential tensions—between the circulation of collective identities and digital technologies and infrastructures. In other words, this post asks: How do digital technologies and infrastructures impact the circulation of specific publics? To fully explore this question, I first establish my theoretical framework by providing a brief [...]
+<p><a href="https://www.digitalrhetoriccollaborative.org/2025/06/11/digital-circulation-and-the-question-of-publics/" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://www.digitalrhetoriccollaborative.org/2025/06/11/digital-circulation-and-the-question-of-publics/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-11, from: Dave Winer's linkblog)
+
+The best electric bikes you can buy at every price level in Jun 2025. 
+
+<br> 
+
+<https://electrek.co/2025/06/11/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-11, from: Dave Winer's linkblog)
+
+5 things in Trump’s budget that won’t make NASA great again. 
+
+<br> 
+
+<https://arstechnica.com/science/2025/06/5-things-in-trumps-budget-that-wont-make-nasa-great-again/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-11, from: Dave Winer's linkblog)
+
+Paolo got  <a href="http://Claude.ai">Claude.ai</a> to read files on his Mac using MCP. 
+
+<br> 
+
+<https://val.demar.in/2025/06/spotlight-%e2%86%92-mcp/>
+
+---
+
+## If You Lie With DOGE You Get Fleeced
+
+date: 2025-06-11, from: Paul Krugman
+
+Yes, Musk is a fraud. A total fraud. 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/if-you-lie-with-doge-you-get-fleeced>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-11, from: Dave Winer's linkblog)
+
+The Silence of the Generals. 
+
+<br> 
+
+<https://www.theatlantic.com/ideas/archive/2025/06/silence-generals/683106/?gift=otEsSHbRYKNfFYMngVFweC9SKhWuL8c7oypTub1ifvo>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-11, from: Dave Winer's linkblog)
+
+And now we learn the real reason Big News is so down on AI. 
+
+<br> 
+
+<https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141>
+
+---
+
+## House bill targets loopholes that let car insurance companies charge more in Black neighborhoods
+
+date: 2025-06-11, from: The Markup blog
+
+Bill reintroduction follows investigation by The Markup and Outlier Media that found insurers target Black neighborhoods for high rates 
+
+<br> 
+
+<https://themarkup.org/premium-penalty/2025/06/11/house-bill-targets-loopholes-that-let-car-insurance-companies-charge-more-in-black-neighborhoods>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-11, from: Dave Winer's linkblog)
+
+Immigration officials raid Omaha meat plant. 
+
+<br> 
+
+<https://apnews.com/article/immigration-raids-omaha-ice-food-plant-bebe9e642964aa06fbaef0b7e8ada093>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-11, from: Dave Winer's linkblog)
+
+Governor Newsom Delivers Major Address to Californians. 
+
+<br> 
+
+<https://m.youtube.com/watch?v=pXQQNUeb4Sw&pp=0gcJCdgAo7VqN5tD>
+
+---
+
+## Under-the-hood of writing on Substack
+
+date: 2025-06-11, from: Hannah Richie at Substack
+
+Subscribers, revenue, and why more people should write long-form. 
+
+<br> 
+
+<https://www.sustainabilitybynumbers.com/p/reflections-on-substack>
+
+---
+
+## Quoting Ted Sanders
+
+date: 2025-06-11, updated: 2025-06-11, from: Simon Willison’s Weblog
+
+<blockquote cite="https://news.ycombinator.com/item?id=44242198"><p>[on the cheaper o3] Not quantized. Weights are the same.</p>
+<p>If we did change the model, we'd release it as a new model with a new name in the API (e.g., o3-turbo-2025-06-10). It would be very annoying to API customers if we ever silently changed models, so we never do this [1].</p>
+<p>[1] <code>chatgpt-4o-latest</code> being an explicit exception</p></blockquote>
+<p class="cite">&mdash; <a href="https://news.ycombinator.com/item?id=44242198">Ted Sanders</a>, Research Manager, OpenAI</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/o3">o3</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/11/ted-sanders/#atom-everything>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-11, from: Feed for Alt USDS)
+
+Questions we've gotten for years:
+
+❓Why is government so slow?
+❓Why did it take years to build something and it still doesn't work right?
+
+Here's the truth: It's not the people, it's the arcane process. In part one of this two part series, we explain how federal procurement works.
+
+bit.ly/wtb_fedpro 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lrcbge5suk2r>
+
+---
+
+## Quoting Sam Altman
+
+date: 2025-06-10, updated: 2025-06-10, from: Simon Willison’s Weblog
+
+<blockquote cite="https://blog.samaltman.com/the-gentle-singularity"><p>(People are often curious about how much energy a ChatGPT query uses; the average query uses about 0.34 watt-hours, about what an oven would use in a little over one second, or a high-efficiency lightbulb would use in a couple of minutes. It also uses about 0.000085 gallons of water; roughly one fifteenth of a teaspoon.)</p></blockquote>
+<p class="cite">&mdash; <a href="https://blog.samaltman.com/the-gentle-singularity">Sam Altman</a>, The Gentle Singularity</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/sam-altman">sam-altman</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-energy-usage">ai-energy-usage</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/10/sam-altman/#atom-everything>
+
+---
+
+## Lilbits: iPadOS 26 makes Apple tablets more Mac-like, Windows 11 is getting a Start Menu redesign, and Android 16 is here
+
+date: 2025-06-10, from: Liliputing
+
+<p>Apple&#8217;s WWDC 2025 kicked off this week and the big news is that the company is bringing a new design language and naming scheme to its operating systems for Macs, iPhones, iPads, Apple Watch and TV products, and the Vision Pro. As expected, the operating systems are now numbered based on the year ahead (sort [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-ipados-26-makes-apple-tablets-more-mac-like-windows-11-is-getting-a-start-menu-redesign-and-android-16-is-here/">Lilbits: iPadOS 26 makes Apple tablets more Mac-like, Windows 11 is getting a Start Menu redesign, and Android 16 is here</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-ipados-26-makes-apple-tablets-more-mac-like-windows-11-is-getting-a-start-menu-redesign-and-android-16-is-here/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-06-10, from: Tomosino's Mastodon feed)
+
+<p>I'm craving peanut chews. Who's near Philly?</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114661224792417572>
+
+---
+
+## AI-assisted coding for teams that can't get away with vibes
+
+date: 2025-06-10, updated: 2025-06-10, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/">AI-assisted coding for teams that can&#x27;t get away with vibes</a></strong></p>
+This excellent piece by Atharva Raykar offers a bunch of astute observations on AI-assisted development that I haven't seen written down elsewhere.</p>
+<blockquote>
+<p><strong>Building with AI is fast</strong>. The gains in velocity are important, because when harnessed correctly, it allows teams to tighten feedback loops with users faster and make better products.</p>
+<p>Yet, AI tools are tricky to use. Hold it wrong, and you can generate underwhelming results, worse still, slow down your velocity by drowning your project in slop and technical debt.</p>
+</blockquote>
+<p>Atharva notes that AI is a multiplier: the more expertise you have in software engineering, the better the results you can get from LLMs. Furthermore, <em>what helps the human helps the AI</em>.</p>
+<p>This means good test coverage, automatic linting, continuous integration and deployment, good documentation practices and "clearly defined features, broken down into multiple small story cards".</p>
+<p>If a team has all of this stuff in place, AI coding assistants will be able to operate more reliably and collaborate more effectively with their human overseers.</p>
+<p>I enjoyed his closing thoughts about how heavier reliance on LLMs changes our craft:</p>
+<blockquote>
+<p>Firstly, It’s less valuable to spend too much time looking for and building sophisticated abstractions. DRY is useful for ensuring patterns in the code don’t go out of sync, but there are costs to implementing and maintaining an abstraction to handle changing requirements. LLMs make some repetition palatable and allow you to wait a bit more and avoid premature abstraction.</p>
+<p>Redoing work is now extremely cheap. Code in the small is less important than structural patterns and organisation of the code in the large. You can also build lots of prototypes to test an idea out. For this, vibe-coding is great, as long as the prototype is thrown away and rewritten properly later. [...]</p>
+<p>Tests are non-negotiable, and AI removes all excuses to not write them because of how fast they can belt them out. But always review the assertions!</p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://lobste.rs/s/1qppei/ai_assisted_coding_for_teams_can_t_get_away">lobste.rs</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/10/ai-assisted-coding/#atom-everything>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-10, from: Robert's feed at BlueSky)
+
+Why am I not surprised 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lrbsnuhaqk2g>
 
 ---
 

@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-06-10 14:08:59
+updated: 2025-06-11 06:07:42
 ---
 
 # games
 
-(date: 2025-06-10 14:08:59)
+(date: 2025-06-11 06:07:42)
+
+---
+
+## Studio behind Sonic the Hedgehog films to adapt The Midnight Walk for TV, film
+
+date: 2025-06-11, updated: 2025-06-10, from: Polygon Website
+
+Story Kitchen and MoonHood Studios have teamed up to create TV and film adaptations of The Midnight Walk. Producers and writers are currently meeting to discuss the game becoming a TV and film project — which is in early development. An official press release also noted that Story Kitchen does have first-look deals with Amazon [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/605968/midnight-walk-tv-film-adaptation-story-kitchen>
+
+---
+
+## What time does The Alters release, and is it on Game Pass?
+
+date: 2025-06-11, updated: 2025-06-10, from: Polygon Website
+
+The Alters, a science-fiction game and the next big release from Frostpunk dev 11 Bit Studios, is out this week. You’re cast as Jan Dolski, a miner who crashed on a less-than-hospitable planet. To survive this ordeal, you must build a base, explore his surroundings, and create alternate versions of yourself. It present a mix [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/603701/alters-release-time-date-edt-pdt>
+
+---
+
+## Switch 2 sells record-breaking 3.5 million units in 4 days
+
+date: 2025-06-11, updated: 2025-06-11, from: Polygon Website
+
+Nintendo Switch 2 is off to a roaring start. Early on Wednesday, Nintendo announced that it had sold 3.5 million units of its new console in just four days, making it Nintendo’s fastest-selling console ever. In fact, this is likely the biggest console launch of all time — by quite some margin. For comparison, PlayStation [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/606222/switch-2-launch-sales-record>
+
+---
+
+## 19 beginner’s tips before you start Dune: Awakening
+
+date: 2025-06-10, updated: 2025-06-10, from: Polygon Website
+
+If you&#8217;re just getting started in Dune: Awakening, the ins and outs of making it through each day on Arrakis might seem more than a little overwhelming. There&#8217;s a detailed prologue that walks you through some of the basics, but it doesn&#8217;t tell you everything and leaves a lot to the assumption that you&#8217;ll figure [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dune-awakening-guides/606195/beginners-tips-tricks-before-you-start>
 
 ---
 

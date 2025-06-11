@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-06-10 14:09:01
+updated: 2025-06-11 06:07:44
 ---
 
 # libraries
 
-(date: 2025-06-10 14:09:01)
+(date: 2025-06-11 06:07:44)
+
+---
+
+## Guest Post: How Changes to ADA Title II Impact Libraries – And What We Can Do to Respond
+
+date: 2025-06-11, from: Scholarly Kitchen
+
+<p>Legal scholar and research librarian Latia Ward explains why changes to ADA Title II matter to all libraries -- and offers recommendations.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/06/11/how-changes-to-ada-title-ii-impact-libraries-and-what-we-can-do-to-respond/">Guest Post: How Changes to ADA Title II Impact Libraries – And What We Can Do to Respond</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/06/11/how-changes-to-ada-title-ii-impact-libraries-and-what-we-can-do-to-respond/>
 
 ---
 
