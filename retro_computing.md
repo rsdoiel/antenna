@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-06-11 06:07:45
+updated: 2025-06-11 14:07:50
 ---
 
 # retro computing
 
-(date: 2025-06-11 06:07:45)
+(date: 2025-06-11 14:07:50)
+
+---
+
+## Pascal P3 compiler, VU Pascal compilers, Pascal-S
+
+date: 2025-06-11, from: Hans Otten's Pascal for small machines
+
+Thanks to a tip by Stefano B., who found tape dumps of university archives I have added: Compilers developed at the Vrije Universiteit, Amsterdam &#8211; Pascal-U, the 1977 derivate of the portable Pascal P2 from ETH &#8211; Pascal-VY, the ISO standard Pascal compiler from 1979 &#8211; (links to) the Amsterdam Compiler Kit I also added [&#8230;] 
+
+<br> 
+
+<http://pascal.hansotten.com/2025/06/11/pascal-p3-compiler-vu-pascal-compilers-pascal-s/>
 
 ---
 

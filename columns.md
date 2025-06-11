@@ -1,11 +1,175 @@
 ---
 title: columns
-updated: 2025-06-11 06:07:41
+updated: 2025-06-11 14:07:47
 ---
 
 # columns
 
-(date: 2025-06-11 06:07:41)
+(date: 2025-06-11 14:07:47)
+
+---
+
+## MacOS 26 Tahoe Drops Support for Some Intel-Based Macs, and Will Be the Last to Support Intel Macs at All
+
+date: 2025-06-11, updated: 2025-06-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://512pixels.net/2025/06/wwdc25-macos-tahoe-compatibility/>
+
+---
+
+## Conversation with Secretary Buttigieg
+
+date: 2025-06-11, from: Heather Cox Richardson blog
+
+A recording from Heather Cox Richardson's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165726781/9e6037a4c15853d4b9c4abfa78079f95.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165726781/9e6037a4c15853d4b9c4abfa78079f95.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/conversation-with-secretary-buttigieg-d62>
+
+---
+
+## Wednesday
+
+date: 2025-06-11, from: Doc Searls (at Harvard), New Old Blog
+
+We&#39;ll fix it. An Ugly New Marketing Strategy Is Driving Me Nuts (and You Too) is Ted Gioia&#39;s newsletter today, and it references A Simple Plan to De-enshittify CVS at some length, also kindly sending some of Ted&#39;s 242,000+ subscribers to ProjectVRM, which has been fighting what Ted rightly calls the annoyance economy since 2006. It&#39;s a [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/06/11/wednesday-2/>
+
+---
+
+## RIP: Bill Atkinson, co-creator of Apple Lisa and Mac
+
+date: 2025-06-11, updated: 2025-06-11, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Obit</span> His work set the direction of modern computer interfaces, and much more</h4>
+      <p>Bill Atkinson, widely acclaimed as perhaps the most brilliant computer programmer ever, has succumbed to pancreatic cancer at 74.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/11/bill_atkinson_obituary/>
+
+---
+
+## June 10, 2025
+
+date: 2025-06-11, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165728003/68ee2e3e232ddbfd0f1da19d04dd44b3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165728003/68ee2e3e232ddbfd0f1da19d04dd44b3.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-10-2025-f13>
+
+---
+
+## Will Apple Stream Live F1 (Racing)?
+
+date: 2025-06-11, from: Om Malik blog
+
+Tim Cook and Apple are all about&#160;Formula 1&#160;these days.&#160;As a lead-in to the WWDC keynote, Apple played a short clip of its leading software&#160;executive,&#160;Craig&#160;Federighi,&#160;racing&#160;an&#160;F1 car on top of Apple Park.&#160;It&#160;was a nod to the new F1 movie coming to Apple&#160;TV.&#160;And it might hint&#160;at&#160;something even bigger.&#160; Pals in the motorsport business are hinting at live F1 &#8230; 
+
+<br> 
+
+<https://om.co/2025/06/11/will-apple-stream-live-f1-racing/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-11, from: Dave Winer's Scripting News)
+
+I needed an <a href="https://this.how/davewiner/">updated bio</a> for a conference in October. 
+
+<br> 
+
+<http://scripting.com/2025/06/11.html#a170202>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-11, from: Dave Winer's Scripting News)
+
+I'm trying to make a <a href="https://github.com/scripting/wordlandSupport/issues/95">linkblog</a> with a WordPress RSS feed. 
+
+<br> 
+
+<http://scripting.com/2025/06/11.html#a153301>
+
+---
+
+## Conversation with Secretary Buttigieg Today
+
+date: 2025-06-11, from: Heather Cox Richardson blog
+
+Secretary Pete Buttigieg and I will chat here on Substack at 2:00 Eastern Time. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/conversation-with-secretary-buttigieg>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-11, from: Dave Winer's Scripting News)
+
+Using soldiers as a political prop. Trump gave a political speech, lying about protests in front of a group of people dressed as American soldiers. They all appeared to be enjoying the president’s tough talk about the role he wants the military to play in policing the cities. MSNBC should not broadcast this. 
+
+<br> 
+
+<http://scripting.com/2025/06/11.html#a152112>
+
+---
+
+## Smartphones are Designed to Fail Us (and We Have to Change That)
+
+date: 2025-06-11, from: mrusme blog
+
+A critique of the fragility and impracticality of modern smartphones, urging a
+shift toward more durable, repairable designs, and a call for manufacturers
+and users alike to prioritize function over aesthetics. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/smartphones-are-designed-to-fail-us/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-11, from: Dave Winer's Scripting News)
+
+Would one of the browser vendors work with me on doing something nice with displaying feeds in XML form? I don't support obfuscating what a feed is, that just adds confusion. When I lift the hood of a car I want to see an engine not a drawing of something that sort of looks like a car, but not really, and looks nothing like an engine. 
+
+<br> 
+
+<http://scripting.com/2025/06/11.html#a130252>
+
+---
+
+## artdaily.feediverse.org
+
+date: 2025-06-11, from: Dave Winer's Scripting News
+
+<p>Yesterday I <a href="http://scripting.com/2025/06/10/153445.html">introduced</a> a new feed for great art, 24 times a day. Every hour on the hour.</p>
+<p>Today, a version of that feed provides one work of art each day, at midnight, Eastern.</p>
+<ul>
+<li><a href="https://art.feediverse.org/">art.feediverse.org</a></li>
+<li><a href="https://artdaily.feediverse.org/">artdaily.feediverse.org</a></li>
+</ul>
+<p>Why I did this feed. I'm crafting a new information product, and I want to include a random work of art but not every hour, once a day is enough. I thought it was worth a detour to make the feed that I wanted. </p>
+<p>The first work of art in the feed on its inaugural issue was <a href="https://raw.githubusercontent.com/scripting/artDownloader/main/data/images/FCZ5y6oWQAU8Gum.jpg">The Countess</a> from Hans Holbein the Younger, <a href="https://www.metmuseum.org/art/collection/search/365207">1526</a>. It was chosen at random from a <a href="https://github.com/scripting/artDownloader/tree/main">collection</a> of 42,473 works of art.  </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/06/11/countess.png"></center>The Countess, Hans Holbein the Younger, 1526.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/11/125606.html?title=artdailyfeediverseorg>
 
 ---
 
@@ -57,6 +221,18 @@ Today President Donald J.
 
 ---
 
+## It's Time for Something New
+
+date: 2025-06-11, updated: 2025-06-11, from: Anil Dash blog
+
+ 
+
+<br> 
+
+<https://anildash.com/2025/06/11/time-for-something-new/>
+
+---
+
 ## Wednesday 11 June, 2025
 
 date: 2025-06-10, from: John Naughton's online diary
@@ -69,9 +245,9 @@ Banksy woz here Bristol. Quote of the Day ”Time may be a great healer, but it&
 
 ---
 
-## Joanna Stern With Craig Federighi and Greg Joswiak: ‘ Apple Executives Defend Apple Intelligence, Siri and AI Strategy’
+## Joanna Stern With Craig Federighi and Greg Joswiak: ‘Apple Executives Defend Apple Intelligence, Siri and AI Strategy’
 
-date: 2025-06-10, updated: 2025-06-10, from: Daring Fireball
+date: 2025-06-10, updated: 2025-06-11, from: Daring Fireball
 
  
 

@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-06-11 06:07:45
+updated: 2025-06-11 14:07:50
 ---
 
 # motorcycles
 
-(date: 2025-06-11 06:07:45)
+(date: 2025-06-11 14:07:50)
+
+---
+
+## This Off-Road Company's Adventure Program Is a Massive Hit With Literally Everyone
+
+date: 2025-06-11, from: Ride Apart, Electric Motorcycle News
+
+Polaris wants you to get outdoors, and is doing so in a big way. 
+
+<br> 
+
+<https://www.rideapart.com/news/762144/polaris-adventures-2-million-customer-rides/>
 
 ---
 

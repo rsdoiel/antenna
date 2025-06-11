@@ -1,11 +1,24 @@
 ---
 title: libraries
-updated: 2025-06-11 06:07:44
+updated: 2025-06-11 14:07:49
 ---
 
 # libraries
 
-(date: 2025-06-11 06:07:44)
+(date: 2025-06-11 14:07:49)
+
+---
+
+## Indigenous Scientific Output: Indigenous Languages and Ethnic Self-Identification in Institutional Repositories
+
+date: 2025-06-11, from: SciELO in Perspective
+
+<p>UFSCar is implementing an innovative initiative by including the ethnicity field/indigenous people in the Institutional Repository's metadata, valuing original authorship in scientific output. In addition to this new field, the title, keywords, and abstract metadata also encourage the use of indigenous languages by student researchers, thus contributing to the construction of a science that is more committed to epistemic justice and to Brazil's cultural and linguistic diversity <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2025/06/11/indigenous-scientific-output/" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/en/2025/06/11/indigenous-scientific-output/">Indigenous Scientific Output: Indigenous Languages and Ethnic Self-Identification in Institutional Repositories</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<br> 
+
+<https://blog.scielo.org/en/2025/06/11/indigenous-scientific-output/>
 
 ---
 
@@ -20,6 +33,54 @@ date: 2025-06-11, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/06/11/how-changes-to-ada-title-ii-impact-libraries-and-what-we-can-do-to-respond/>
+
+---
+
+## Timeline for the Sunset of Version 1 of the ROR API and Schema
+
+date: 2025-06-11, updated: 2025-06-11, from: ROR Research ID Blog
+
+Version 2 of the ROR API will become the query default in July 2025, and version 1 of the ROR API and dataset will be deprecated entirely in December 2025. 
+
+<br> 
+
+<https://ror.org/blog/2025-06-11-v1-sunset/>
+
+---
+
+## Data set of : Fast recovery dynamics of GaSbBi-based SESAMs for high- fluence operation
+
+date: 2025-06-11, from: ETH Zurich, recently added
+
+Schuchter, Maximilian C. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/739830>
+
+---
+
+## Datasets to: Stepwise and Reversible Assembly of 2Fe–2S Rhombs to 8Fe–8S Clusters and Their Topological Interconversions
+
+date: 2025-06-11, from: ETH Zurich, recently added
+
+Grunwald, Liam 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/739805>
+
+---
+
+## Dataset for "Lattice-Tunable Substituted Iron Garnets for Low-Temperature Magnonics"
+
+date: 2025-06-11, from: ETH Zurich, recently added
+
+Legrand, William; Kemna, Yana; Schären, Stefan; Wang, Hanchen; Petrosyan, Davit; Holder, Luise; Schlitz, Richard; Aguirre, Myriam H.; Lammel, Michaela; Gambardella, Pietro 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/739804>
 
 ---
 

@@ -1,11 +1,87 @@
 ---
 title: home
-updated: 2025-06-11 06:07:44
+updated: 2025-06-11 14:07:49
 ---
 
 # home
 
-(date: 2025-06-11 06:07:44)
+(date: 2025-06-11 14:07:49)
+
+---
+
+## Why 2025 Will See Fewer New Car Models Than Ever
+
+date: 2025-06-11, from: Family Handyman Blog
+
+<p>Year to year the number of new car models fluctuates, but 2025 looks to have fewer new car models that ever before. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/fewer-new-car-models/">Why 2025 Will See Fewer New Car Models Than Ever</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/fewer-new-car-models/>
+
+---
+
+## What’s the Best Type of Mulch for Tomato Plants? 7 Top Options
+
+date: 2025-06-11, from: The Gardener's Path
+
+<p>Are you unsure whether you should mulch your tomatoes? There are several materials that make excellent mulch for these summer vegetables. It's beneficial for a variety of reasons, from enriching the soil to regulating temperature. Learn about seven of the best types of mulch for tomatoes in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/mulch-tomatoes/">What’s the Best Type of Mulch for Tomato Plants? 7 Top Options</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/mulch-tomatoes/>
+
+---
+
+## Shades of the ’80s Energize a Family’s Barcelona Flat in the Best Way
+
+date: 2025-06-11, from: Dwell
+
+The Gràcia neighborhood apartment pairs pastels with primary hues, and curvy built-ins with grids of tile. 
+
+<br> 
+
+<https://www.dwell.com/article/neptu-not-a-studio-colorful-apartment-renovation-family-home-28c4c92f>
+
+---
+
+## This $1.8M L.A. Midcentury Feels Like a Cabin-Greenhouse Mash-Up
+
+date: 2025-06-11, from: Dwell
+
+Currently owned by Dylan Brady of the musical duo 100 Gecs, the well-preserved home is encased in windows and richly toned wood. 
+
+<br> 
+
+<https://www.dwell.com/article/midcentury-home-william-mack-beverly-glen-canyon-los-angeles-real-estate-25a59b8d>
+
+---
+
+## You Can See Right Through Their Glassy Cabin on the Chilean Coast
+
+date: 2025-06-11, from: Dwell
+
+"Initially, we proposed fewer glass panes to control sunlight and energy loss," says architect Daniel Iragüen. "But in the end, we made the house almost completely transparent." 
+
+<br> 
+
+<https://www.dwell.com/article/si-house-iraguen-vinuela-arquitectos-cabin-algarrobo-chile-5bebfbfc>
+
+---
+
+## 11 Home Decor Dupes That Are Designer-Approved
+
+date: 2025-06-11, from: Sunset Magazine - Living in the West
+
+Want high-design but don't have a big budget? Designers share their favorite home decor dupes so you can get the look for less. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/home-decor-dupes>
 
 ---
 
@@ -24,6 +100,42 @@ date: 2025-06-11, from: Yard Life blog
 
 ---
 
+## Step Up Your Pool Game With Some Fun and Funky Accessories
+
+date: 2025-06-11, from: Dwell
+
+From a bean bag chair nice enough to use indoors to a float with a sense of humor, I found some accoutrements that won’t compromise your aesthetics. 
+
+<br> 
+
+<https://www.dwell.com/article/summer-pool-essentials-floaties-speakers-outdoor-furniture-c1d9223e-e7f9f519>
+
+---
+
+## Homepage 2025
+
+date: 2025-06-11, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## These Are the 50 Best Places to Camp Right Now—And How to Book Them
+
+date: 2025-06-11, from: Sunset Magazine - Living in the West
+
+These are the best campsites worth booking this summer, boasting scenic views, convenient amenities, smaller crowds, and unique experiences. 
+
+<br> 
+
+<https://www.sunset.com/travel/camping/best-campsites-in-the-west>
+
+---
+
 ## 2 Types of Eagles in Georgia (Pictures and Identification)
 
 date: 2025-06-11, from: Yard Life blog
@@ -36,6 +148,18 @@ date: 2025-06-11, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/2-types-of-eagles-in-georgia-pictures-and-identification/>
+
+---
+
+## 15 Must-See Spots to Visit on Your Next Trip to San Diego
+
+date: 2025-06-11, from: Sunset Magazine - Living in the West
+
+Planning a trip to San Diego? We went to a native San Diegan to craft the perfect itinerary of things to do, see, eat, and drink. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/san-diego-travel-guide>
 
 ---
 
@@ -391,18 +515,6 @@ The hall bathroom in a Seattle house was falling apart. See how an interior desi
 <br> 
 
 <https://www.sunset.com/home-garden/home-tours/seattle-bathroom-makeover>
-
----
-
-## Homepage 2025
-
-date: 2025-06-09, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

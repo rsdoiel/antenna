@@ -1,11 +1,137 @@
 ---
 title: food
-updated: 2025-06-11 06:07:47
+updated: 2025-06-11 14:07:51
 ---
 
 # food
 
-(date: 2025-06-11 06:07:47)
+(date: 2025-06-11 14:07:51)
+
+---
+
+## Best Mushroom Coffee If You're Adaptogen Curious (2025)
+
+date: 2025-06-11, from: Bon Appetet
+
+These fungi-fueled drinks are also a great way to cut back on caffeine 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-mushroom-coffee>
+
+---
+
+## Shrimp Recall: 44,550 Pounds of Ready-to-Eat Shrimp Recalled for Potential Listeria Contamination
+
+date: 2025-06-11, from: Taste of Home
+
+<p>Check your frozen shrimp to see if it's on the recall list. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/shrimp-recall-june-2025/">Shrimp Recall: 44,550 Pounds of Ready-to-Eat Shrimp Recalled for Potential Listeria Contamination</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/shrimp-recall-june-2025/>
+
+---
+
+## Baltimore Crab Cakes
+
+date: 2025-06-11, from: Bon Appetet
+
+With minimal filler, tons of crab, and bold spice, these crab patties are the ones to beat. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/baltimore-maryland-style-crab-cakes>
+
+---
+
+## Best Early Prime Day Deals Under $25 for Your Kitchen (2025)
+
+date: 2025-06-11, from: Bon Appetet
+
+Kitchen upgrades for less than a decent bottle of pét-nat. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-early-prime-day-deals-under-25-dollars>
+
+---
+
+## Austin Café Mercado Sin Nombre Reinvents the Twinkie
+
+date: 2025-06-11, from: Bon Appetet
+
+At Mercado Sin Nombre, heirloom masa transforms a nostalgic lunchbox dessert into so much more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/mercado-sin-nombre-austin-twinkie-inspired-dessert>
+
+---
+
+## Build-Outs Of Coffee: Pinup Coffee Co In Virginia Beach, VA
+
+date: 2025-06-11, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Pinup Coffee Co in Virginia Beach, Virginia. 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-pinup-coffee-co-in-virginia-beach-va-337470.html>
+
+---
+
+## Get the Scoop on the New GreenPan Frost—Summer’s Coolest Ice Cream and Slushy Maker
+
+date: 2025-06-11, from: Taste of Home
+
+<p>Meet the GreenPan Frost: an all-in-one ice cream machine that doesn't require freezing containers ahead of time.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/greenpan-frost/">Get the Scoop on the New GreenPan Frost—Summer&#8217;s Coolest Ice Cream and Slushy Maker</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/greenpan-frost/>
+
+---
+
+## Dinner SOS: A Speed Round of Listener Cooking Questions
+
+date: 2025-06-11, from: Bon Appetet
+
+On this final episode of Dinner SOS, Chris and Amiel answer listener questions on all things cooking! 
+
+<br> 
+
+<https://www.bonappetit.com/story/dinner-sos-a-speed-round-of-listener-cooking-questions>
+
+---
+
+## 13 Vegan Summer Recipes for Your Next Picnic, Beach Trip, or BBQ
+
+date: 2025-06-11, from: Bon Appetet
+
+Tofu cream with tomatoes and peaches, our easiest veggie burgers, watermelon granita, and more plant-based recipes to keep you in the summer sun. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/vegan-summer-recipes>
+
+---
+
+## I Tried the Cheez-It Pizza and I Can’t Stop Thinking About It
+
+date: 2025-06-11, from: Taste of Home
+
+<p>A top-tier snack food collab.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/cheez-it-pizza-june-2025/">I Tried the Cheez-It Pizza and I Can&#8217;t Stop Thinking About It</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/cheez-it-pizza-june-2025/>
 
 ---
 
@@ -81,7 +207,7 @@ date: 2025-06-10, from: The Sprudge
 
 date: 2025-06-10, from: Bon Appetet
 
-Try this technique once and you'll go back to it for years. 
+Try this technique once and you’ll go back to it for years. 
 
 <br> 
 

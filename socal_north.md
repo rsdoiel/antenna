@@ -1,11 +1,185 @@
 ---
 title: socal north
-updated: 2025-06-11 06:07:37
+updated: 2025-06-11 14:07:45
 ---
 
 # socal north
 
-(date: 2025-06-11 06:07:37)
+(date: 2025-06-11 14:07:45)
+
+---
+
+## Man says he was shot for asking couple to pick up their beer bottles at the beach
+
+date: 2025-06-11, from: Longbeach Post
+
+<figure><img width="1024" height="760" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-1024x760.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-1024x760.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-300x223.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-768x570.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-145x108.jpg 145w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-400x297.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP.jpg 1080w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Neighbors have complained that the parking lot on the Peninsula is a hotbed for public drinking. Now, there’s been violence as well.</p>
+<p>The post <a href="https://lbpost.com/news/crime/man-shot-belmonth-shore-peninsula-long-beach">Man says he was shot for asking couple to pick up their beer bottles at the beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/man-shot-belmonth-shore-peninsula-long-beach>
+
+---
+
+## Newport Mesa Unified early results show school board challenger in the lead
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+The special election was controversial because it overrode the board’s appointment to the seat. 
+
+<br> 
+
+<https://laist.com/news/politics/newport-mesa-unified-early-results-show-school-board-challenger-in-the-lead>
+
+---
+
+## After weekend protests, Paramount residents say they want Department of Homeland Security out of their community
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+The city was at the center of a national storm after images of protests near a Home Depot there Saturday spread. 
+
+<br> 
+
+<https://laist.com/news/paramount-residents-say-they-want-department-of-homeland-security-out-of-their-community>
+
+---
+
+## Justice Department says Trump can cancel national monuments that protect landscapes
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+A Justice Department legal opinion released Tuesday disavowed a 1938 determination that monuments created by previous presidents under the Antiquities Act can't be revoked. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/justice-department-says-trump-can-cancel-national-monuments-that-protect-landscapes>
+
+---
+
+## Jury finds Harvey Weinstein guilty in New York sex crimes case
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+Weinstein's 2020 conviction on sex crimes in New York was overturned last year. In a new trial, jurors heard allegations from three women. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/jury-finds-harvey-weinstein-guilty-in-new-york-sex-crimes-case>
+
+---
+
+## Man arrested on suspicion of throwing Molotov cocktail during Paramount standoff
+
+date: 2025-06-11, from: Longbeach Post
+
+<figure><img width="1024" height="651" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-1024x651.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-1024x651.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-300x191.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-768x488.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-170x108.jpg 170w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-400x254.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Authorities said a Long Beach man was also caught with a Molotov at the protests in downtown Los Angeles.</p>
+<p>The post <a href="https://lbpost.com/news/crime/paramount-standoff-molotov-cocktail-arrest">Man arrested on suspicion of throwing Molotov cocktail during Paramount standoff</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/paramount-standoff-molotov-cocktail-arrest>
+
+---
+
+## Remembering Brian Wilson: His thoughts on growing up in SoCal and why the beach was 'too cold' for visits
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+He spoke in 2009 about his life, career and memories after the release of a new album to critical acclaim. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/remembering-brian-wilson-his-thoughts-on-growing-up-in-socal-and-why-the-beach-was-too-cold-for-visits>
+
+---
+
+## Day laborers staying away from LA area job centers amid immigration raids
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+One job center said there's been a 90% drop in the number of people looking for work after the immigration raids. 
+
+<br> 
+
+<https://laist.com/news/day-laborers-la-area-job-centers-immigration-raids>
+
+---
+
+## California lawmakers going big on pro-development bills — not so much on renter protection
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+While bills aimed at boosting housing construction are having a banner year in California, those for renters rights face an “uphill battle.” 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/california-lawmakers-going-big-on-pro-development-bills-not-so-much-on-renter-protection>
+
+---
+
+## Brian Wilson, the troubled genius behind The Beach Boys, has died at age 82
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+The Beach Boys' co-founder, songwriter and producer transformed pop music into high art, and became America's answer to The Beatles' Lennon and McCartney in the process. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/brian-wilson-the-beach-boys-dies-obituary>
+
+---
+
+## Could California really withhold tax money from the US if Trump cuts federal funds?
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+As Trump administration weighs cutting federal funds to California, Newsom suggests withholding taxes from federal government. 
+
+<br> 
+
+<https://laist.com/news/politics/could-california-really-withhold-tax-money-from-the-us-if-trump-cuts-federal-funds>
+
+---
+
+## Why knowing your neighbors can be an important climate solution
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+Earthaven Ecovillage fared remarkably well after Hurricane Helene. The community had backup power and water systems, as well as food supplies, but members also knew how to work together in a crisis. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/why-knowing-your-neighbors-can-be-an-important-climate-solution>
+
+---
+
+## DHS spokesperson defends Trump administration's use of military in LA
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+Tricia McLaughlin, assistant secretary for public affairs at the Department of Homeland Security, explains why the Trump administration has deployed National Guard and Marine troops to Los Angeles amid protests against immigration raids. 
+
+<br> 
+
+<https://laist.com/news/dhs-spokesperson-defends-trump-administrations-use-of-military-in-la>
+
+---
+
+## Why the death of a reporter in 1970 still matters to those covering LA protests today
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+L.A. Times reporter Ruben Salazar was killed 55 years ago while covering an anti-Vietnam War protest in East L.A. His case illustrates the dangers journalists face today as police fire “less lethal munitions” into crowds. 
+
+<br> 
+
+<https://laist.com/news/why-the-death-of-a-reporter-in-1970-still-matters-to-those-covering-la-protests-today>
 
 ---
 
@@ -57,7 +231,7 @@ In this special election, Measures A and B are all about who gets to control Hun
 
 ---
 
-## Here's everything you need to know about the curfew for downtown LA
+## Here's everything you need to know about curfews for downtown LA
 
 date: 2025-06-11, updated: 2025-06-11, from: The LAist
 
@@ -85,7 +259,7 @@ The fire broke out on Tuesday at 3:45 p.m. The danger had passed by about 6 p.m.
 
 date: 2025-06-10, from: Longbeach Post
 
-<figure><img width="1024" height="588" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-1024x588.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-1024x588.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-300x172.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-768x441.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-188x108.jpg 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-400x230.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="588" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-1024x588.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-1024x588.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-300x172.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-768x441.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-188x108.jpg 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-400x230.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Activists are calling for the city to invest another $2.2 million into a fund that pays legal bills for people fighting deportation, saying it’s only a matter of time before immigration raids spill into Long Beach.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/ice-protest-long-beach-justice-fund-city-council">Hundreds of protesters rally against ICE, ask City Council for more funding to fight deportations</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -110,7 +284,7 @@ Facing $22 million in reduced funding, L.A. County officials have decided to clo
 
 ## What one woman learned from going a year without sex
 
-date: 2025-06-10, updated: 2025-06-10, from: The LAist
+date: 2025-06-10, updated: 2025-06-11, from: The LAist
 
 Ever considered voluntary celibacy? Read this. 
 

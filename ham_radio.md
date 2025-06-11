@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-06-11 06:07:39
+updated: 2025-06-11 14:07:46
 ---
 
 # ham radio
 
-(date: 2025-06-11 06:07:39)
+(date: 2025-06-11 14:07:46)
+
+---
+
+## A two-way Wilson current mirror
+
+date: 2025-06-11, from: EDN Blog
+
+<img width="780" height="650" src="https://www.edn.com/wp-content/uploads/TwoWayWIlson_Figure3.png?fit=780%2C650" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/TwoWayWIlson_Figure3.png?w=780 780w, https://www.edn.com/wp-content/uploads/TwoWayWIlson_Figure3.png?w=300 300w, https://www.edn.com/wp-content/uploads/TwoWayWIlson_Figure3.png?w=768 768w" sizes="(max-width: 780px) 100vw, 780px" /><p>A two-way current mirror with an added Wilson enhancement that allows it to work more accurately at higher voltages. </p>
+<p>The post <a href="https://www.edn.com/a-two-way-wilson-current-mirror/">A two-way Wilson current mirror</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/a-two-way-wilson-current-mirror/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-06-11 06:07:39
 
 date: 2025-06-10, from: EDN Blog
 
-<img width="960" height="551" src="https://www.edn.com/wp-content/uploads/RTDtemptransmitter_Figure1.png?fit=960%2C551" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/RTDtemptransmitter_Figure1.png?w=960 960w, https://www.edn.com/wp-content/uploads/RTDtemptransmitter_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/RTDtemptransmitter_Figure1.png?w=768 768w" sizes="(max-width: 960px) 100vw, 960px" /><p>A two-wire temperature transmitter using an RTD sensor that can be used in industrial settings to connect to the control room.</p>
+<img width="960" height="551" src="https://www.edn.com/wp-content/uploads/RTDtemptransmitter_Figure1.png?fit=960%2C551" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/RTDtemptransmitter_Figure1.png?w=960 960w, https://www.edn.com/wp-content/uploads/RTDtemptransmitter_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/RTDtemptransmitter_Figure1.png?w=768 768w" sizes="auto, (max-width: 960px) 100vw, 960px" /><p>A two-wire temperature transmitter using an RTD sensor that can be used in industrial settings to connect to the control room.</p>
 <p>The post <a href="https://www.edn.com/a-two-wire-temperature-transmitter-using-an-rtd-sensor/">A two-wire temperature transmitter using an RTD sensor</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

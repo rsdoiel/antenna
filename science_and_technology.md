@@ -1,11 +1,263 @@
 ---
 title: science and technology
-updated: 2025-06-11 06:07:39
+updated: 2025-06-11 14:07:46
 ---
 
 # science and technology
 
-(date: 2025-06-11 06:07:39)
+(date: 2025-06-11 14:07:46)
+
+---
+
+## Welcome Home, Expedition 72 Crew!
+
+date: 2025-06-11, from: NASA breaking news
+
+On May 22, 2025, NASA hosted an Expedition 72 crew debrief and awards ceremony at Space Center Houston, where more than 1,000 attendees gathered to celebrate. The event recognized the achievements of the crew as well as NASA employees and partners whose dedication and support contributed to the expedition’s success. Crew members from Expedition 72 [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/welcome-home-expedition-72-crew/>
+
+---
+
+## DARPA is exploring a swallowable device that could tweak soldiers’ stress responses
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>Not that kind of edible - this one&#39;s electronic</h4> <p>DARPA has announced a research program to explore whether an &#34;ingestible form factor&#34; device can stimulate gut neurons to modulate stress responses, potentially improving decision-making and reducing the risk of PTSD.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/darpa_developing_ingestible_biotech/>
+
+---
+
+## NASA+ Documentary “Cosmic Dawn” Reveals Untold Story of James Webb Space Telescope
+
+date: 2025-06-11, from: NASA breaking news
+
+What does it take to gaze through time to our universe’s very first stars and galaxies? &#160; NASA answers this question in its new documentary, “Cosmic Dawn: The Untold Story of the James Webb Space Telescope.” The agency’s original documentary, which chronicles the story of the most powerful telescope ever deployed in space, was released [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/webb/nasa-documentary-cosmic-dawn-reveals-untold-story-of-james-webb-space-telescope/>
+
+---
+
+## Altman fluffs superintelligence to save humanity as OpenAI slashes prices
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>Everything is AWESOME!!!</h4> <p>OpenAI on Tuesday rolled out its o3-Pro model for ChatGPT Pro and Teams subscribers, slashed o3 pricing by 80 percent, and dropped a blog post from CEO Sam Altman teasing &#34;intelligence too cheap to meter.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/openais_sam_altman_superintelligence/>
+
+---
+
+## Portrait of a Bobcat
+
+date: 2025-06-11, from: NASA breaking news
+
+A NASA photographer captured this June 14, 2013, photo of a bobcat wading through a waterway near Launch Pad 38B at NASA’s Kennedy Space Center in Florida. Bobcats are just one of over 30 mammal species that call the Merritt Island National Wildlife Refuge home, along with hundreds of bird, fish, amphibian, and reptile species. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/portrait-of-a-bobcat/>
+
+---
+
+## RIP: Bill Atkinson, co-creator of Apple Lisa and Mac
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>His work set the direction of modern computer interfaces, and much more</h4> <p><strong>Obit</strong>  Bill Atkinson, widely acclaimed as perhaps the most brilliant computer programmer ever, has succumbed to pancreatic cancer at 74.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/bill_atkinson_obituary/>
+
+---
+
+## Munal OS: experimental operating system fully written in Rust as an EFI binary
+
+date: 2025-06-11, from: OS News
+
+And I&#8217;ve got another custom hobby operating system for you today: Munal OS. An experimental operating system fully written in Rust, with a unikernel design, cooperative scheduling and a security model based on WASM sandboxing. ↫ Munal OS GitHub page Munal OS has no bootloader, but is instead compiled into a single EFI binary that contains all it needs to function, including a few applications. Since Munal OS relies on a PCI driver that communicates with QEMU via the VirtIO 1.1 specification for things like input and graphics, it can&#8217;t yet run on real hardware. It has its own UI toolkit, and comes with applications like a basic web browser, a text editor, and a Python terminal. 
+
+<br> 
+
+<https://www.osnews.com/story/142549/munal-os-experimental-operating-system-fully-written-in-rust-as-an-efi-binary/>
+
+---
+
+## XenevaOS: a custom operating system with networking and graphical desktop environment
+
+date: 2025-06-11, from: OS News
+
+Xeneva is an operating system for both x86_64 and ARM64 architectures, built from the ground up. The Kernel is known as &#8216;Aurora&#8217; with hybrid kernel design and the entire operating system is known as &#8216;Xeneva&#8217;. ↫ XenevaOS GitHub page It&#8217;s remarkably complete, with driver loading and linking, up to SSE 3 support, USB3 and Intel HD audio support, networking, and a whole lot more of the basics that make up a modern complete operating system. On top of all this, it also has a compositing window manager, a desktop environment, a terminal with VT100 support, Freetype2 font rendering, and much more. It also comes with a few basic applications like a file manager, calculator, audio player, and so on. It&#8217;s written in C (and some C++), and uniquely, can only be built in a Windows environment, something you don&#8217;t see very often. It definitely looks quite impressive. 
+
+<br> 
+
+<https://www.osnews.com/story/142547/xenevaos-a-custom-operating-system-with-networking-and-graphical-desktop-environment/>
+
+---
+
+## Hire me! To drop malware on your computer
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>FIN6 moves from point-of-sale compromise to phishing recruiters</h4> <p>In a scam that flips the script on fake IT worker schemes, cybercriminals posing as job seekers on LinkedIn and Indeed are targeting recruiters - a group hated only slightly less than digital crooks - with malware hosted on phony resume portfolio sites.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/crooks_posing_job_hunters_target_recruiters/>
+
+---
+
+## The Earth Observer Editor’s Corner: April–June 2025
+
+date: 2025-06-11, from: NASA breaking news
+
+NASA’s Earth science missions have continued to demonstrate remarkable adaptability and innovation, balancing the legacy of long-standing satellites with the momentum of cutting-edge new technologies. The Terra platform, the first of three Earth Observing System flagship missions, has been in orbit since December 1999. Over a quarter-century later, four of its five instruments continue to […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/the-earth-observer-editors-corner-april-june-2025/>
+
+---
+
+## NASA’s Webb ‘UNCOVERs’ Galaxy Population Driving Cosmic Renovation
+
+date: 2025-06-11, from: NASA breaking news
+
+Astronomers using data from NASA’s James Webb Space Telescope have identified dozens of small galaxies that played a starring role in a cosmic makeover that transformed the early universe into the one we know today. “When it comes to producing ultraviolet light, these small galaxies punch well above their weight,” said Isak Wold, an assistant […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/webb/nasas-webb-uncovers-galaxy-population-driving-cosmic-renovation/>
+
+---
+
+## Salesforce tags 5 CVEs after SaaS security probe uncovers misconfig risks
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>The 16 other flagged issues are on customers, says CRM giant</h4> <p>Salesforce has assigned five CVE identifiers following a security report that uncovered more than 20 configuration weaknesses, some of which exposed customers to unauthorized access and session hijacking.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/salesforce_cves_misconfigs/>
+
+---
+
+## Starbucks brews up AI to support baristas instead of replace them
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>Customers weren’t sold on automation, so the search for ROI continues</h4> <p>After lackluster results from customer-facing automation, Starbucks is now redirecting its tech ambitions toward helping its own employees.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/starbucks_ai_baristas/>
+
+---
+
+## Cisco returns to load balancing market as it chases VMware refugees
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>Uses eBPF, which both Google and Meta have proven out at scale</h4> <p><strong>Cisco Live</strong>  Cisco has returned to the load balancing market using open-source software proven at scale by both Google and Meta.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/cisco_load_balancing_ebpf/>
+
+---
+
+## Tuning a NASA Instrument: Calibrating MASTER
+
+date: 2025-06-11, from: NASA breaking news
+
+NASA’s Ames Research Center in Silicon Valley houses a unique laboratory: the Airborne Sensor Facility (ASF). The engineers at the ASF are responsible for building, maintaining, and operating numerous instruments that get deployed on research aircraft, but one of their most important roles is instrument calibration. Think of calibration like tuning a piano between performances: [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/ames/ames-science/tuning-a-nasa-instrument-calibrating-master/>
+
+---
+
+## NASA to silence Voyager's social media accounts
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>All about consolidation as mission mouthpieces archived in pursuit of &#39;improving the experience&#39;</h4> <p>NASA is shutting down many of its social media accounts, including those dedicated to the Voyager mission and the Mars Curiosity and Perseverance rovers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/nasa_to_silence_voyagers_social/>
+
+---
+
+## Asia dismantles 20,000 malicious domains in infostealer crackdown
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>Interpol coordinates operation, nabs 32 across Vietnam, Sri Lanka, and Nauru</h4> <p>Thirty-two people across Asia have been arrested over their suspected involvement with infostealer malware in the latest international collaboration against global cybercrime.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/asia_cracks_down_on_infostealers/>
+
+---
+
+## Epic Effort to Ground Physics in Math Opens Up the Secrets of Time
+
+date: 2025-06-11, from: Quanta Magazine
+
+By mathematically proving how individual molecules create the complex motion of fluids, three mathematicians have illuminated why time can’t flow in reverse.            <p>The post <a href="https://www.quantamagazine.org/epic-effort-to-ground-physics-in-math-opens-up-the-secrets-of-time-20250611/" target="_blank">Epic Effort to Ground Physics in Math Opens Up the Secrets of Time</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/epic-effort-to-ground-physics-in-math-opens-up-the-secrets-of-time-20250611/>
+
+---
+
+## Tug reaches flaming ship carrying electric cars off Alaska coast
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>It&#39;s still smoking, but help is on hand</h4> <p>A tug has reached the Morning Midas, six days after a presumed battery fire broke out, causing the crew to abandon ship.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/ship_electric_fire/>
+
+---
+
+## Schneider, Nvidia sign pact to cool Europe's AI ambitions
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>With 1 MW racks and prefab bit barns, the heat is on</h4> <p><strong>GTC Paris</strong>  Schneider Electric and Nvidia are jointly developing cooling, management, and control systems for AI datacenters in support of the EU&#39;s AI action plan, with Schneider detailing support for racks with 1 MW loads.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/schneider_nvidia_ai_datacenter/>
+
+---
+
+## Fewer Feeds, More Focus: NASA’s Social Media Overhaul
+
+date: 2025-06-11, from: NASA breaking news
+
+In today&#8217;s crowded digital landscape, cutting through the noise is paramount for any organization trying to connect with its audience. Recognizing this, NASA has embarked on a significant initiative to streamline its extensive social media presence, aiming to create a more unified and impactful digital voice for its groundbreaking work.&#160; The National Aeronautics and Space [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/social-media/fewer-feeds-more-focus-nasas-social-media-overhaul/>
 
 ---
 
@@ -227,9 +479,9 @@ date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
 
 ## Trump administration's whole-government AI plans leaked on GitHub
 
-date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+date: 2025-06-10, updated: 2025-06-11, from: The Register (UK I.T. News)
 
-<h4>The AI.gov repository and staging site vanished when we asked questions, but don&#39;t worry - we captured backups</h4> <p>We&#39;re less than a month away from the Trump administration&#39;s launch of an initiative to push AI across the entire federal government, based on a code repository eagle-eyed onlookers spotted on GitHub before it disappeared. …</p> 
+<h4>The AI.gov repository and staging site vanished when we asked questions, but don&#39;t worry – we captured backups</h4> <p><strong>Updated</strong>  We&#39;re less than a month away from the Trump administration&#39;s launch of an initiative to push AI across the entire federal government, based on a code repository eagle-eyed onlookers spotted on GitHub before it disappeared. …</p> 
 
 <br> 
 

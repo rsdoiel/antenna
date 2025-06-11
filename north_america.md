@@ -1,11 +1,139 @@
 ---
 title: north america
-updated: 2025-06-11 06:07:37
+updated: 2025-06-11 14:07:45
 ---
 
 # north america
 
-(date: 2025-06-11 06:07:37)
+(date: 2025-06-11 14:07:45)
+
+---
+
+## This is what dictatorship looks like
+
+date: 2025-06-11, from: The Contrarian
+
+We&#8217;re angry. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165733791/43ff1fb912daa4ba2dc092a114635082.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165733791/43ff1fb912daa4ba2dc092a114635082.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/this-is-what-dictatorship-looks-like>
+
+---
+
+## Coco Gauff: A shining light of resilience
+
+date: 2025-06-11, from: The Contrarian
+
+Just 21 years old, the tennis star is already a role model. 
+
+<br> 
+
+<https://contrarian.substack.com/p/coco-gauff-a-shining-light-of-resilience>
+
+---
+
+## HHS under Kennedy can’t be trusted anymore
+
+date: 2025-06-11, from: The Contrarian
+
+RFK Jr.&#8217;s reckless decision on ACIP is exactly why he shouldn't have been confirmed. 
+
+<br> 
+
+<https://contrarian.substack.com/p/hhs-under-kennedy-cant-be-trusted>
+
+---
+
+##  Waymo On The Way Out 
+
+date: 2025-06-11, from: The Lever News
+
+ A robotaxi has become a symbol for the public’s frustration with both Big Tech and law enforcement.  
+
+<br> 
+
+<https://www.levernews.com/waymo-on-the-way-out/>
+
+---
+
+## Mikie Sherrill on presidential abuse of the military
+
+date: 2025-06-11, from: The Contrarian
+
+The new Democratic candidate for New Jersey governor on her campaign, Trump ordering troops to L.A., and more. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165716714/e623dbd767442762200bef73eba0a41a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165716714/e623dbd767442762200bef73eba0a41a.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/mikie-sherrill-on-presidential-abuse>
+
+---
+
+## New Mexico’s Governor Declares Drought Emergency. Sort Of.
+
+date: 2025-06-11, from: Capital and Main
+
+<p>A warming climate — fueled in part by the state’s oil and gas production — has parched rivers and turned forests to tinder.</p>
+<p>The post <a href="https://capitalandmain.com/new-mexicos-governor-declares-drought-emergency-sort-of">New Mexico&#8217;s Governor Declares Drought Emergency. Sort Of.</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/new-mexicos-governor-declares-drought-emergency-sort-of>
+
+---
+
+##  Everything You Think About The Deficit Is Wrong 
+
+date: 2025-06-11, from: The Lever News
+
+ Every major agency has downgraded America’s credit rating. Economist Stephanie Kelton explains why it matters — but not for the reasons you think.  
+
+<br> 
+
+<https://www.levernews.com/everything-you-think-about-the-deficit-is-wrong/>
+
+---
+
+## Chain of command
+
+date: 2025-06-11, from: The Contrarian
+
+A cartoon by Michael de Adder. 
+
+<br> 
+
+<https://contrarian.substack.com/p/chain-of-command>
+
+---
+
+## The stakes for women just keep rising
+
+date: 2025-06-11, from: The Contrarian
+
+Since the Dobbs decision, we have weathered three years of extreme politicization of abortion rights. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-stakes-for-women-just-keep-rising>
+
+---
+
+## Coffee the Contrarians- Special Report on LA
+
+date: 2025-06-11, from: The Contrarian
+
+A recording from Coffee with the Contrarians LIVE 06/11 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165705323/abdfc4dab44e58b32ca35a71fce25c8a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165705323/abdfc4dab44e58b32ca35a71fce25c8a.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/coffee-the-contrarians-special-report>
 
 ---
 

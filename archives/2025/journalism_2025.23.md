@@ -1,11 +1,25 @@
 ---
 title: journalism
-updated: 2025-06-11 06:07:43
+updated: 2025-06-11 14:07:49
 ---
 
 # journalism
 
-(date: 2025-06-11 06:07:43)
+(date: 2025-06-11 14:07:49)
+
+---
+
+## COC Men’s Soccer team is turning the page and is now looking to hit a new goal
+
+date: 2025-06-11, from: The Canyon News (COC Student Newspaper)
+
+<p>Whether it&#8217;s an evening scrimmage or a morning practice, the College of&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/coc-soccer/">COC Men&#8217;s Soccer team is turning the page and is now looking to hit a new goal</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/coc-soccer/>
 
 ---
 
@@ -118,6 +132,19 @@ date: 2025-06-11, from: The Daily Trojan (USC Student Newspaper)
 <br> 
 
 <https://dailytrojan.com/2025/06/11/usc-is-closely-monitoring-changes-to-student-visas-heres-what-to-know/>
+
+---
+
+## LA City Council’s $30 minimum wage boost for tourism sector draws Westwood support
+
+date: 2025-06-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+Westwood hotel workers said they supported the Los Angeles City Council’s motion to increase minimum wage for tourism workers.
+The LA City Council voted May 7 to increase minimum wage for some workers in the tourist industry to $30 an hour. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/10/la-city-councils-30-minimum-wage-boost-for-tourism-sector-draws-westwood-support/>
 
 ---
 

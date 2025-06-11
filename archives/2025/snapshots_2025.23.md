@@ -1,11 +1,359 @@
 ---
 title: snapshots
-updated: 2025-06-11 06:07:49
+updated: 2025-06-11 14:07:53
 ---
 
 # snapshots
 
-(date: 2025-06-11 06:07:49)
+(date: 2025-06-11 14:07:53)
+
+---
+
+## 300: Phew, It's A Girl
+
+date: 2025-06-11, from: Fix the News
+
+Without fanfare, something remarkable has happened. Plus, the largest marine protected area in history, a major breakthrough on HIV, good news for animals in Italy, and artificial intelligence versus black holes.  
+
+<br> 
+
+<https://fixthenews.com/300-phew-its-a-girl/>
+
+---
+
+## Lenovo ThinkStation P3 Tiny Gen 2 is a mini PC with up to Core Ultra 9 285 and NVIDIA RTX A1000
+
+date: 2025-06-11, from: Liliputing
+
+<p>The Lenovo ThinkStation P3 Tiny Gen 2 is a desktop computer that measures just 179 x 183 x 37mm (7&#8243; x 7.2&#8243; x 1.5&#8243;) and weighs just 1.4 kg (3 pounds). But while most mini PCs feature mobile chips designed for laptops, Lenovo&#8217;s second-gen P3 Tiny supports up to a 65 watt Intel Core Ultra 9 [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lenovo-thinkstation-p3-tiny-gen-2-is-a-mini-pc-with-up-to-core-ultra-9-285-and-nvidia-rtx-a1000/">Lenovo ThinkStation P3 Tiny Gen 2 is a mini PC with up to Core Ultra 9 285 and NVIDIA RTX A1000</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lenovo-thinkstation-p3-tiny-gen-2-is-a-mini-pc-with-up-to-core-ultra-9-285-and-nvidia-rtx-a1000/>
+
+---
+
+## CBP Confirms It Is Flying Predator Drones Above Los Angeles To Support ICE
+
+date: 2025-06-11, from: 404 Media Group
+
+The confirmation follows 404 Media's reporting using flight data and air traffic control (ATC) audio that showed the agency was flying Predator drones above Los Angeles. 
+
+<br> 
+
+<https://www.404media.co/cbp-confirms-it-is-flying-predator-drones-above-los-angeles-to-support-ice/>
+
+---
+
+## Quoting datarama
+
+date: 2025-06-11, updated: 2025-06-11, from: Simon Willison’s Weblog
+
+<blockquote cite="https://lobste.rs/s/btogou/llms_are_cheap#c_0o4e0e"><p>Since Jevons' original observation about coal-fired steam engines is a bit hard to relate to, my favourite modernized example for people who aren't software nerds is display technology.</p>
+<p>Old CRT screens were <em>horribly</em> inefficient - they were large, clunky and absolutely guzzled power. Modern LCDs and OLEDs are slim, flat and use much less power, so that seems great ... except we're now using powered screens in a lot of contexts that would be unthinkable in the CRT era.</p>
+<p>If I visit the local fast food joint, there's a row of large LCD monitors, most of which simply display static price lists and pictures of food. 20 years ago, those would have been paper posters or cardboard signage. The large ads in the urban scenery now are huge RGB LED displays (with whirring cooling fans); just 5 years ago they were large posters behind plexiglass. Bus stops have very large LCDs that display a route map and timetable which only changes twice a year - just two years ago, they were paper.</p>
+<p>Our displays are much more power-efficient than they've ever been, but at the same time we're using <em>much</em> more power on displays than ever.</p></blockquote>
+<p class="cite">&mdash; <a href="https://lobste.rs/s/btogou/llms_are_cheap#c_0o4e0e">datarama</a>, lobste.rs coment for "LLMs are cheap"</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-energy-usage">ai-energy-usage</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/11/datarama/#atom-everything>
+
+---
+
+## Malleable software
+
+date: 2025-06-11, updated: 2025-06-11, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.inkandswitch.com/essay/malleable-software/">Malleable software</a></strong></p>
+New, delightful manifesto from Ink &amp; Switch.</p>
+<blockquote>
+<p>In this essay, we envision malleable software: tools that users can reshape with minimal friction to suit their unique needs. Modification becomes routine, not exceptional. Adaptation happens at the point of use, not through engineering teams at distant corporations.</p>
+</blockquote>
+<p>This is a beautifully written essay. I love the early framing of a comparison with physical environments such as the workshop of a luthier:</p>
+<blockquote>
+<p>A guitar maker sets up their workshop with their saws, hammers, chisels and files arranged just so. They can also build new tools as needed to achieve the best result—a wooden block as a support, or a pair of pliers sanded down into the right shape. […] <strong>In the physical world, the act of crafting our environments comes naturally, because physical reality is malleable</strong>.</p>
+</blockquote>
+<p>Most software doesn’t have these qualities, or requires deep programming skills in order to make customizations. The authors propose “malleable software” as a new form of computing ecosystem to “give users agency as co-creators”.</p>
+<p>They mention plugin systems as one potential path, but highlight their failings:</p>
+<blockquote>
+<p>However, <strong>plugin systems still can only edit an app's behavior in specific authorized ways.</strong> If there's not a plugin surface available for a given customization, the user is out of luck. (In fact, most applications have no plugin API at all, because it's hard work to design a good one!)</p>
+<p>There are other problems too. Going from installing plugins to <em>making</em> one is a chasm that's hard to cross. And each app has its own distinct plugin system, making it typically impossible to share plugins across different apps.</p>
+</blockquote>
+<p>Does AI-assisted coding help? Yes, to a certain extent, but there are still barriers that we need to tear down:</p>
+<blockquote>
+<p>We think these developments hold exciting potential, and represent a good reason to pursue malleable software at this moment. But at the same time, <strong>AI code generation alone does not address all the barriers to malleability.</strong> Even if we presume that every computer user could perfectly write and edit code, that still leaves open some big questions.</p>
+<p>How can users tweak the <em>existing</em> tools they've installed, rather than just making new siloed applications? How can AI-generated tools compose with one another to build up larger workflows over shared data? And how can we let users take more direct, precise control over tweaking their software, without needing to resort to AI coding for even the tiniest change?</p>
+</blockquote>
+<p>They describe three key design patterns: a gentle slope from user to creator (as seen in Excel and HyperCard), focusing on tools, not apps (a kitchen knife, not an avocado slicer) and encouraging communal creation.</p>
+<p>I found this note inspiring when considering my own work on <a href="https://datasette.io/">Datasette</a>:</p>
+<blockquote>
+<p>Many successful customizable systems such as spreadsheets, HyperCard, Flash, Notion, and Airtable follow a similar pattern: <strong>a media editor with optional programmability.</strong> When an environment offers document editing with familiar direct manipulation interactions, users can get a lot done without needing to write any code.</p>
+</blockquote>
+<p>The remainder of the essay focuses on Ink &amp; Switch's own prototypes in this area, including Patchwork, Potluck and Embark.</p>
+<p>Honestly, this is one of those pieces that defies attempts to summarize it. It's worth carving out some quality time to spend with this.
+
+    <p><small></small>Via <a href="https://lobste.rs/s/fkgmer/malleable_software_restoring_user">lobste.rs</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/ink-and-switch">ink-and-switch</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-first">local-first</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/geoffrey-litt">geoffrey-litt</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/11/malleable-software/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-11, from: Dave Winer's linkblog)
+
+Bragg Soldiers Who Cheered Trump&#39;s Political Attacks While in Uniform Were Checked for Allegiance, Appearance. 
+
+<br> 
+
+<https://www.military.com/daily-news/2025/06/11/bragg-soldiers-who-cheered-trumps-political-attacks-while-uniform-were-checked-allegiance-appearance.html>
+
+---
+
+## GPD MicroPC 2 is portable computer with a 7 inch display, Intel N250 processor and a thumb keyboard
+
+date: 2025-06-11, from: Liliputing
+
+<p>Six years after releasing the original GPD MicroPC as a palm-sized computer aimed at IT professionals, GPD is bringing back the form factor with a new model sporting a bigger screen, faster processor, and more storage. While the company hasn&#8217;t announced pricing or availability details yet, here&#8217;s what we know so far about the upcoming GPD [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/gpd-micropc-2-is-portable-computer-with-a-7-inch-display-intel-n250-processor-and-a-thumb-keyboard/">GPD MicroPC 2 is portable computer with a 7 inch display, Intel N250 processor and a thumb keyboard</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/gpd-micropc-2-is-portable-computer-with-a-7-inch-display-intel-n250-processor-and-a-thumb-keyboard/>
+
+---
+
+## PCIe 7.0 specification released with up to 128 GT/s transfer speeds
+
+date: 2025-06-11, from: Liliputing
+
+<p>Personal computers with PCIe 5.0 connectors are just starting to become common, and PCIe 6.0 hardware isn&#8217;t expected to ship until later this year at the soonest, and they&#8217;ll most likely be targeted at data centers first. But the organization behind the PCI Express standard is already looking ahead. The PCI-SIG has released the final [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/pcie-7-0-specification-released-with-up-to-128-gt-s-transfer-speeds/">PCIe 7.0 specification released with up to 128 GT/s transfer speeds</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/pcie-7-0-specification-released-with-up-to-128-gt-s-transfer-speeds/>
+
+---
+
+## My Video Chat with the Mighty Preet Bharara about the LA Mayhem and What the Dems Should Do 
+
+date: 2025-06-11, from: Tina Brown
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165720085/85cbb10944f8b3ffc365a710e2667a05.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165720085/85cbb10944f8b3ffc365a710e2667a05.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://tinabrown.substack.com/p/my-video-chat-with-the-mighty-preet>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-11, from: Dave Winer's linkblog)
+
+Brian Wilson, visionary creative spirit for the Beach Boys, dies aged 82. 
+
+<br> 
+
+<https://www.theguardian.com/music/2025/jun/11/brian-wilson-beach-boys-dies>
+
+---
+
+## The newest Kubuntu Focus M2 Linux laptop features Intel Arrow Lake and NDIVIA RTX 50 Series graphics
+
+date: 2025-06-11, from: Liliputing
+
+<p>The Kubuntu Focus M2 is a Linux laptop with hardware designed for gaming or mobile workstation-class performance. Last year&#8217;s model combined an Intel Raptor Lake processor and NVIDIA GeForce RTX 40-series graphics last year. This year&#8217;s version kicks things up a few notches. The new Kubuntu Focus M2 Gen 6 is a 16 inch notebook with a 2560 [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/the-newest-kubuntu-focus-m2-linux-laptop-features-intel-arrow-lake-and-ndivia-rtx-50-series-graphics/">The newest Kubuntu Focus M2 Linux laptop features Intel Arrow Lake and NDIVIA RTX 50 Series graphics</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/the-newest-kubuntu-focus-m2-linux-laptop-features-intel-arrow-lake-and-ndivia-rtx-50-series-graphics/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-11, from: Dave Winer's linkblog)
+
+My political disclaimer as of 2018 (just ran across this). 
+
+<br> 
+
+<https://this.how/davewiner/politics.opml>
+
+---
+
+## Trump Orders Marines to Los Angeles.
+
+date: 2025-06-11, from: Guy Kawasaki blog
+
+William C. Banks, Professor Emeritus of Public Administration and International Affairs, Syracuse University. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/you-need-to-read-this>
+
+---
+
+## Wikipedia Pauses AI-Generated Summaries After Editor Backlash
+
+date: 2025-06-11, from: 404 Media Group
+
+“This would do immediate and irreversible harm to our readers and to our reputation as a decently trustworthy and serious source,” one Wikipedia editor said. 
+
+<br> 
+
+<https://www.404media.co/wikipedia-pauses-ai-generated-summaries-after-editor-backlash/>
+
+---
+
+## Core Devices is launching a PebbleOS beta, says the new smartphone app will work with old Pebble watches
+
+date: 2025-06-11, from: Liliputing
+
+<p>Pebble founder Eric Migicovsky is bringing back the iconic smartwatch&#8230; kind of. Earlier this year he introduced a new company called Core Devices that&#8217;s working on two new watches running an open source version of PebbleOS. And now he says the first units are almost ready to ship to beta testers. As part of that [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/core-devices-is-launching-a-pebbleos-beta-says-the-new-smartphone-app-will-work-with-old-pebble-watches/">Core Devices is launching a PebbleOS beta, says the new smartphone app will work with old Pebble watches</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/core-devices-is-launching-a-pebbleos-beta-says-the-new-smartphone-app-will-work-with-old-pebble-watches/>
+
+---
+
+## An Irreplaceable Stockpile of Human Feces
+
+date: 2025-06-11, updated: 2025-06-11, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/06/11/an-irreplaceable-stockpile-of-human-feces/>
+
+---
+
+## Our New FOIA Forum! 6/18, 1PM ET
+
+date: 2025-06-11, from: 404 Media Group
+
+Come learn how we got records all about an AI company working with cops. 
+
+<br> 
+
+<https://www.404media.co/our-new-foia-forum-6-18-1pm-et/>
+
+---
+
+## Emmys 2025: FYC – actriz drama: Britt Lower – Severance
+
+date: 2025-06-11, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Los Premios Emmy, el máximo reconocimiento de la industria de la televisión, es un escenario en donde se han distinguido algunas de las actuaciones más memorables de los últimos años y que podemos disfrutar en la pantalla chica. Cada año destacamos aquellas interpretaciones que han dejado huella en el público y la crítica. Ya hemos [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/emmys-2025-fyc-actriz-drama-britt-lower-severance/">Emmys 2025: FYC – actriz drama: Britt Lower – Severance</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/emmys-2025-fyc-actriz-drama-britt-lower-severance/?utm_source=rss&utm_medium=rss&utm_campaign=emmys-2025-fyc-actriz-drama-britt-lower-severance>
+
+---
+
+## John Deere Must Face FTC Lawsuit Over Its Tractor Repair Monopoly, Judge Rules
+
+date: 2025-06-11, from: 404 Media Group
+
+Deere now must face two different major lawsuits over the repairability of its tractors.  
+
+<br> 
+
+<https://www.404media.co/john-deere-must-face-ftc-lawsuit-over-its-tractor-repair-monopoly-judge-rules/>
+
+---
+
+## Smartphones are Designed to Fail Us (and We Have to Change That)
+
+date: 2025-06-11, from: mrusme blog
+
+A critique of the fragility and impracticality of modern smartphones, urging a
+shift toward more durable, repairable designs, and a call for manufacturers
+and users alike to prioritize function over aesthetics. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/smartphones-are-designed-to-fail-us/>
+
+---
+
+## Ghostty in review: how's the new terminal emulator?
+
+date: 2025-06-11, from: Libre News
+
+Survey says, pretty good. 
+
+<br> 
+
+<https://thelibre.news/ghostty-in-review-hows-the-new-terminal-emulator/>
+
+---
+
+## fnecati commented on issue #155 at Felix Oliver Friedrich / Oberon A2
+
+date: 2025-06-11, updated: 2025-06-11, from: Oberon A2 repository
+
+
+<p data-sourcepos="1:1-1:125" dir="auto">It is Machine.Acquire/Machine.Release position problem. I think that problem can be solved with the following corrected file.</p>
+<p data-sourcepos="3:1-3:100" dir="auto"><a data-sourcepos="3:1-3:100" href="/-/project/23928/uploads/33cad0194b0abdfb1aa9b54650e46b0d/MyUnix.Oberon.Clipboard.Mod" data-canonical-src="/uploads/33cad0194b0abdfb1aa9b54650e46b0d/MyUnix.Oberon.Clipboard.Mod" data-link="true" class="gfm">MyUnix.Oberon.Clipboard.Mod</a></p>
+ 
+
+<br> 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/155#note_235272>
+
+---
+
+## Ausgecheckt: Hotelkette Numa veröffentlicht Ausweisdaten
+
+date: 2025-06-11, updated: 2025-06-11, from: Chaos Computer Club Updates
+
+Im Online-Buchungssystem der Hotelkette Numa konnte durch einfaches Hochzählen der Rechnungsnummern auf über 500.000 Rechnungen sowie auf die Ausweisdaten der Gäste zugegriffen werden. 
+
+<br> 
+
+<https://www.ccc.de/de/updates/2025/ausgecheckt-hotelkette-numa-veroffentlicht-ausweisdaten>
+
+---
+
+## Why Was Nvidia Hosting Blogs About 'Brazilian Facesitting Fart Games'?
+
+date: 2025-06-11, from: 404 Media Group
+
+Domains owned by Nvidia, Stanford, NPR and the U.S. government are being quietly eaten by AI slop. 
+
+<br> 
+
+<https://www.404media.co/spam-blogs-ai-slop-domains-wowlazy/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-11, from: Dave Winer's linkblog)
+
+Tesla owners sue to break their leases over Musk making the cars &#39;far-right totems.&#39; 
+
+<br> 
+
+<https://electrek.co/2025/06/11/tesla-owners-sue-break-leases-over-musk-making-cars-far-right-totems/>
 
 ---
 
@@ -171,6 +519,18 @@ bit.ly/wtb_fedpro
 <br> 
 
 <https://bsky.app/profile/altusds.altgov.info/post/3lrcbge5suk2r>
+
+---
+
+## It's Time for Something New
+
+date: 2025-06-11, updated: 2025-06-11, from: Anil Dash
+
+ 
+
+<br> 
+
+<https://anildash.com/2025/06/11/time-for-something-new/>
 
 ---
 
@@ -403,7 +763,7 @@ My big worry for Dems at the moment is not the danger of the wrong response to t
 
 date: 2025-06-10, from: Michael Tsai
 
-Apple (Apple Design, Hacker News, Slashdot): Apple today previewed a beautiful new software design that makes apps and system experiences more expressive and delightful while being instantly familiar. It&#8217;s crafted with a new material called Liquid Glass. This translucent material reflects and refracts its surroundings, while dynamically transforming to help bring greater focus to content, [&#8230;] 
+Apple (Apple Design, Hacker News, MacRumors, Slashdot): Apple today previewed a beautiful new software design that makes apps and system experiences more expressive and delightful while being instantly familiar. It&#8217;s crafted with a new material called Liquid Glass. This translucent material reflects and refracts its surroundings, while dynamically transforming to help bring greater focus to [&#8230;] 
 
 <br> 
 
@@ -415,7 +775,7 @@ Apple (Apple Design, Hacker News, Slashdot): Apple today previewed a beautiful n
 
 date: 2025-06-10, from: Michael Tsai
 
-Apple (MacRumors live blog, Adam Engst, Lobsters, Mac Power Users Talk): Watch the WWDC25 keynote introducing our broadest design update ever and a more helpful Apple Intelligence. You&#8217;ll also learn about exciting features coming with iOS 26, iPadOS 26, macOS 26, watchOS 26, visionOS 26, and tvOS 26. &#8226; &#8226; &#8226; Marques Brownlee: I asked [&#8230;] 
+Apple (YouTube, MacRumors live blog, Adam Engst, Lobsters, Mac Power Users Talk): Watch the WWDC25 keynote introducing our broadest design update ever and a more helpful Apple Intelligence. You&#8217;ll also learn about exciting features coming with iOS 26, iPadOS 26, macOS 26, watchOS 26, visionOS 26, and tvOS 26. &#8226; &#8226; &#8226; Marques Brownlee: I [&#8230;] 
 
 <br> 
 
@@ -1191,20 +1551,6 @@ A company spokesperson said it is working with law enforcement to determine when
 <br> 
 
 <https://www.404media.co/waymo-pauses-service-in-downtown-la-neighborhood-where-theyre-getting-lit-on-fire/>
-
----
-
-## GPD MicroPC 2 is portable computer with a 7 inch display, Intel N250 processor and a thumb keyboard
-
-date: 2025-06-09, from: Liliputing
-
-<p>Six years after releasing the original GPD MicroPC as a palm-sized computer aimed at IT professionals, GPD is bringing back the form factor with a new model sporting a bigger screen, faster processor, and more storage. While the company hasn&#8217;t announced pricing or availability details yet, here&#8217;s what we know so far about the upcoming GPD [&#8230;]</p>
-<p>The post <a href="https://liliputing.com/gpd-micropc-2-is-portable-computer-with-a-7-inch-display-intel-n250-processor-and-a-thumb-keyboard/">GPD MicroPC 2 is portable computer with a 7 inch display, Intel N250 processor and a thumb keyboard</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
- 
-
-<br> 
-
-<https://liliputing.com/gpd-micropc-2-is-portable-computer-with-a-7-inch-display-intel-n250-processor-and-a-thumb-keyboard/>
 
 ---
 

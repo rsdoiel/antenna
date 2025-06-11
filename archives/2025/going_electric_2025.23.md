@@ -1,11 +1,207 @@
 ---
 title: going electric
-updated: 2025-06-11 06:07:46
+updated: 2025-06-11 14:07:51
 ---
 
 # going electric
 
-(date: 2025-06-11 06:07:46)
+(date: 2025-06-11 14:07:51)
+
+---
+
+## Genesis Bets On Hybrids And Range Extender EVs
+
+date: 2025-06-11, from: Inside EVs News
+
+Genesis is developing new powertrains with varying levels of electrification, including range extender EVs. 
+
+<br> 
+
+<https://insideevs.com/news/762452/genesis-new-hybrds-details/>
+
+---
+
+## Mercedes has a new ultra-luxury electric van coming soon
+
+date: 2025-06-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Mercedes-ultra-luxury-electric-van-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The Vision V is more than just a luxury people mover. <a href="https://electrek.co/guides/mercedes-benz/">Mercedes</a> calls it “the pinnacle of luxurious and elegant multipurpose vehicles (MPVs).” After kicking off its global grand tour this week, we are getting a closer look at the ultra-luxury electric van Mercedes plans to launch next year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz" data-layer-viewtype="unknown" data-post-id="419900" href="https://electrek.co/2025/06/11/mercedes-new-ultra-luxury-electric-van-coming-soon/#more-419900" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/11/mercedes-new-ultra-luxury-electric-van-coming-soon/>
+
+---
+
+## Charge your EV in 5 minutes: BYD’s ‘flash’ network heads to Europe
+
+date: 2025-06-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Belgaimage-115330384.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Chinese EV giant <a href="https://electrek.co/guides/byd/" target="_blank" rel="noreferrer noopener">BYD</a> wants to build a network of ultra-fast chargers in Europe that could make topping up an EV almost as quick as filling a gas tank.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="419899" href="https://electrek.co/2025/06/11/charge-your-ev-5-minutes-byd-flash-network-europe/#more-419899" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/11/charge-your-ev-5-minutes-byd-flash-network-europe/>
+
+---
+
+## Tesla Robotaxi Austin Launch: Everything We Know
+
+date: 2025-06-11, from: Inside EVs News
+
+Tesla plans to unleash self-driving Model Y crossovers onto city streets by the end of June. Here's what we know so far. 
+
+<br> 
+
+<https://insideevs.com/news/762446/tesla-robotaxi-austin-launch-explained/>
+
+---
+
+## Jackery Father’s Day Sale takes up to $3,300+ off power stations, Ride1Up e-bikes $400+ off, EcoFlow 48-hour flash sale, more
+
+date: 2025-06-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Jackery-explorer-2000-Plus-dad-and-son-promo-pic.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Green Deals for Dads are in full swing, as today’s savings are led by <a href="https://9to5toys.com/2025/06/11/jackery-fathers-day-sale-explorer-2000-v2-bundle-1424-more/">Jackery’s Father’s Day Sale</a> that is taking up to $3,300 off power stations alongside three tiers of bonus savings and reward point benefits for members for even more discounts, free gear, and more. Among the lineup we’re seeing, the brand’s upgraded <a href="https://9to5toys.com/2025/06/11/jackery-fathers-day-sale-explorer-2000-v2-bundle-1424-more/">Explorer 2000 v2 Solar Generator bundle</a> with a 500W panel is back at <a href="https://9to5toys.com/2025/06/11/jackery-fathers-day-sale-explorer-2000-v2-bundle-1424-more/">$1,424</a>, which can cover most of your off-grid backup power needs this summer and beyond. There’s also the <a href="https://9to5toys.com/2025/06/11/ride1up-portola-e-bike-995-more/">Father’s Day savings from Ride1Up</a>, which is taking $400 off e-bikes and offering up to $300 in extra savings when buying two together – <a href="https://9to5toys.com/2025/06/11/ride1up-portola-e-bike-995-more/">all from $995</a>. EcoFlow has also launched a <a href="https://9to5toys.com/2025/06/11/ecoflow-48-hour-power-station-flash-sale-from-239/">48-hour flash sale on three offers</a>, giving you either the RIVER 3 Plus power station, an expanded DELTA Pro setup, or a 500W solar panel add-on <a href="https://9to5toys.com/2025/06/11/ecoflow-48-hour-power-station-flash-sale-from-239/">starting from $239</a>. Lastly, we spotted the first savings on <a href="https://9to5toys.com/2025/06/11/greenworks-24v-string-trimmer-edger-brush-cutter-bundle-100/">Greenworks’ 24V 12-inch Cordless String Trimmer/Edger</a> with a brush cutter bundle for <a href="https://9to5toys.com/2025/06/11/greenworks-24v-string-trimmer-edger-brush-cutter-bundle-100/">$100</a>. Plus, there’s all the rest of the hangover Green Deals in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/06/09/heybike-fathers-day-sale-from-999/">Heybike Father’s Day e-bike sale</a>, the six (now extended) <a href="https://9to5toys.com/2025/06/11/bluetti-flash-sale-handsfree-power-stations-from-199/">Bluetti flash offers</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="419873" href="https://electrek.co/2025/06/11/jackery-fathers-day-sale-ride1up-ecoflow-more/#more-419873" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/11/jackery-fathers-day-sale-ride1up-ecoflow-more/>
+
+---
+
+## The 2025 Kia EV9 sold out faster than expected
+
+date: 2025-06-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Kia-EV9-sold-out.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s three-row electric SUV sold out faster than expected. The 2025 <a href="https://electrek.co/guides/kia-ev9/">Kia EV9</a> is already sold out in the US, just as the 2026 model begins arriving at dealerships.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev9" data-layer-viewtype="unknown" data-post-id="419872" href="https://electrek.co/2025/06/11/2025-kia-ev9-sold-out-faster-than-expected/#more-419872" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/11/2025-kia-ev9-sold-out-faster-than-expected/>
+
+---
+
+## Xiaomi’s SU7 Ultra snags all-time fastest lap for a mass-produced EV at Nürburgring [Video]
+
+date: 2025-06-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Xiaomi-Nurburgring-SU7-Ultra.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Move over, Rimac. There’s a new all-electric speed leader at the famed Nürburgring track. Veteran smartphone manufacturer and young automotive arm <a href="https://electrek.co/guides/xiaomi-automobile/">Xiaomi </a>recently achieved the fastest time for a production EV at the Nürburgring Nordschleife.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nurburgring,xiaomi,xiaomi-automobile,xiaomi-su7" data-layer-viewtype="unknown" data-post-id="419844" href="https://electrek.co/2025/06/11/xiaomis-su7-ultra-all-time-fastest-lap-mass-produced-ev-nurburgring/#more-419844" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/11/xiaomis-su7-ultra-all-time-fastest-lap-mass-produced-ev-nurburgring/>
+
+---
+
+## The funky Subaru Brat is returning as an EV pickup with a little help from Toyota
+
+date: 2025-06-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Subaru-EV-pickup.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Remember the Subaru Brat? The iconic low-riding pickup from the late ’70s and ’80s? Even US President Ronald Reagan owned a 1978 Subaru Brat. Well, word on the street is that the small <a href="https://electrek.co/guides/subaru/">Subaru</a> pickup will return as a full-on EV, with help from Toyota.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="subaru,toyota" data-layer-viewtype="unknown" data-post-id="419833" href="https://electrek.co/2025/06/11/funky-subaru-pickup-return-as-an-ev-with-help-from-toyota/#more-419833" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/11/funky-subaru-pickup-return-as-an-ev-with-help-from-toyota/>
+
+---
+
+## Watch this electric semi truck drive a heavy load nearly 600 miles [video]
+
+date: 2025-06-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/windrose_validation.png?w=1600" /></div><p>Battery electric semi trucks continue to prove their worth every day in port and regional route service across America — but many US truckers still believe that EVs aren’t ready for long-haul runs. The good news is that the facts don’t care what you believe, and Windrose’ latest, all-electric 578-mile route validation (with a fully loaded trailer) across the I-10 corridor is making the doubters look like dummies!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,windrose" data-layer-viewtype="unknown" data-post-id="419804" href="https://electrek.co/2025/06/11/watch-this-electric-semi-truck-drive-a-heavy-load-nearly-600-miles-video/#more-419804" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/11/watch-this-electric-semi-truck-drive-a-heavy-load-nearly-600-miles-video/>
+
+---
+
+## Tesla's Robotaxi Dreams Hinge On One Huge Mystery
+
+date: 2025-06-11, from: Inside EVs News
+
+As Tesla launches a Robotaxi service in Austin, one big question remains. Plus: China finds a way to squeeze out the rest of the world. 
+
+<br> 
+
+<https://insideevs.com/news/762409/tesla-robotaxi-teleoperation-cm/>
+
+---
+
+## GM has another affordable EV in the works and it’s not the next-gen Chevy Bolt
+
+date: 2025-06-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/GM-affordable-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The next-gen Chevy Bolt is finally almost here. <a href="https://electrek.co/guides/gm/">GM</a> confirmed that production is on track to begin by the end of the year, but the company is saying to keep a lookout for another affordable EV coming soon. Here’s what we know about the mysterious new model so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevy-bolt,general-motors,gm" data-layer-viewtype="unknown" data-post-id="419784" href="https://electrek.co/2025/06/11/gm-new-affordable-ev-in-works-not-chevy-bolt/#more-419784" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/11/gm-new-affordable-ev-in-works-not-chevy-bolt/>
+
+---
+
+## Tesla Finally Sets A Date For Robotaxi Launch—And 'Automated Delivery'
+
+date: 2025-06-11, from: Inside EVs News
+
+However: "We are being super paranoid about safety, so the date could shift," CEO Elon Musk said. 
+
+<br> 
+
+<https://insideevs.com/news/762401/tesla-robotaxi-launch-delayed-delivery/>
+
+---
+
+## Volvo CE set to invest $40 million into PA excavator plant
+
+date: 2025-06-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Volvo_CE_Town-hall.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Volvo Construction Equipment is a leader in sustainable and battery-powered construction equipment manufacturing, and the company intends to stay in front by spending more than $260 million to expand its global production capacity — <a href="https://electrek.co/2024/09/20/volvo-ce-rolls-out-some-new-hotness-at-volvo-days-2024-part-1/">starting with a $40 million expansion of its Shippensburg, PA plant in 2026</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="business,electric-construction-equipment,volvo" data-layer-viewtype="unknown" data-post-id="419786" href="https://electrek.co/2025/06/11/volvo-ce-set-to-invest-40-million-into-pa-excavator-plant/#more-419786" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/11/volvo-ce-set-to-invest-40-million-into-pa-excavator-plant/>
 
 ---
 
@@ -121,7 +317,7 @@ date: 2025-06-11, from: Electrek Feed
 
 date: 2025-06-11, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Screenshot-2025-06-10-at-5.44.11PM-e1749603068872.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Porsche is preparing to release its Cayenne EV in the next year or so, but that didn’t stop it from taking the car out in secret to a hillclimb meet, where it utterly destroyed the previous course record previously held by a 12-cylinder Bentley Bentayga.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Screenshot-2025-06-10-at-5.44.11PM-e1749603068872.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Porsche is preparing to release its Cayenne EV in the next year or so, but that didn’t stop it from taking the car out in secret to a hillclimb meet, where it utterly destroyed the SUV course record previously held by a 12-cylinder Bentley Bentayga.</p>
 
 
 

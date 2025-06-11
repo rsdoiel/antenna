@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-06-11 06:07:42
+updated: 2025-06-11 14:07:48
 ---
 
 # games
 
-(date: 2025-06-11 06:07:42)
+(date: 2025-06-11 14:07:48)
+
+---
+
+## You’re not imagining it: Mario Kart World’s NPC difficulty can be diabolical
+
+date: 2025-06-11, updated: 2025-06-11, from: Polygon Website
+
+Like many Nintendo party games, Mario Kart has a reputation for being accessible. The skill ceiling can be high for dedicated players, but the randomness of the racer makes it possible for newbies and casual players to still have a fighting chance. That core design ethos is still present in Mario Kart World, but Switch [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/606473/mario-kart-world-adaptive-ai-difficulty-drift-rubberbanding>
+
+---
+
+## How to unlock Mirror Mode in Mario Kart World
+
+date: 2025-06-11, updated: 2025-06-11, from: Polygon Website
+
+If you want to race on mirrored versions of Mario Kart World tracks, you’ll need to play quite a bit of the game to unlock Mirror Mode. While it took a bit to figure out the exact requirements, it turns out that you’ll simply need to complete every race at 150cc and then grab a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mario-kart-world-guides/606442/mirror-mode-how-to-unlock-requirements>
+
+---
+
+## The SAG-AFTRA video game voice actors’ strike has come to an end
+
+date: 2025-06-11, updated: 2025-06-11, from: Polygon Website
+
+The SAG-AFTRA video game voice actors strike is officially over. The guild and the game companies represented by the Interactive Media Agreement (IMA) Negotiating Committee reached an agreement on June 9, after nearly a year of striking. The agreement was then approved and the strike suspended as of June 11 at 12 p.m. PDT. The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/606500/sag-aftra-video-game-voice-actors-strike-ending>
+
+---
+
+## Best class mentor, caste, and homeworld to pick in Dune: Awakening
+
+date: 2025-06-11, updated: 2025-06-11, from: Polygon Website
+
+Deciding on the best caste, homeworld, and class mentor in Dune: Awakening&#8216;s character creation section seems like a tall order. However, only one of these choices has a serious effect on the way your Arrakis adventure plays out, and even then, you can branch out of your chosen class after making some progress in the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dune-awakening-guides/606415/best-class-mentor-caste-homeworld-character-creation>
+
+---
+
+## Demonschool feels like Into the Breach meets Persona, with a horror twist
+
+date: 2025-06-11, updated: 2025-06-11, from: Polygon Website
+
+Just a couple minutes into the Demonschool demo, I caught myself distracted; this game, developed by indie studio Necrosoft Games, packs such a banger soundtrack and appealing aesthetic that those areas alone warrant your attention. Luckily, Demonschool also thrives on a ton of substance to accompany that flashy style. Demonschool is an upcoming isometric RPG [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/606056/demonschool-demo-impressions>
+
+---
+
+## How to play the Gears of War: Reloaded beta, plus full beta schedule
+
+date: 2025-06-11, updated: 2025-06-10, from: Polygon Website
+
+The Gears of War: Reloaded beta is the first real taste of Gears on PlayStation 5 before Reloaded’s release late this summer. The beta will be on other platforms too, but, y’know, Gears on PlayStation is a pretty big deal! Across two weekends, the Gears of War: Reloaded beta allows players to test out some [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gears-war-reloaded-guides/605804/beta-dates-schedule-times-how-to-play>
+
+---
+
+## How to unlock characters in Mario Kart World
+
+date: 2025-06-11, updated: 2025-06-11, from: Polygon Website
+
+There are a ton of characters in Mario Kart World (50 to be exact), but you have to unlock a few of them first. If you’re rushing to unlock Cataquack or Rosalina, you’ll want to know the specifics for unlocking certain characters, as some require you to clear a cup, whereas others require you to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mario-kart-world-guides/603321/unlock-characters-all-how-to-methods>
+
+---
+
+## How to build a Blood Purifier in Dune: Awakening
+
+date: 2025-06-11, updated: 2025-06-11, from: Polygon Website
+
+Few enemies are as deadly as dehydration in Dune: Awakening, a foe you can’t slice or shoot to prevent them from killing you. You can, however, use a Blood Purifier and control how much water you have access to before starting to explore for materials. In Dune: Awakening, simply existing in the world is a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dune-awakening-guides/606391/blood-purifier-how-to-build-unlock>
+
+---
+
+## All Unstable Exotic Weapons in Fortnite and how to get them
+
+date: 2025-06-11, updated: 2025-06-11, from: Polygon Website
+
+Unstable Exotic Weapons may be your key to victory in Fortnite. Introduced in Chapter 6 Season 3, a.k.a. the Super Season, these weapons are the closest thing to fighting with special superhero abilities. As is usually the case with unusual weapons, however, they’re quite difficult to obtain. Here’s a list of all Unstable Exotic Weapons [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/606356/unstable-exotic-weapons-all-how-to-get>
+
+---
+
+## Everything we know after Resident Evil Requiem’s big reveal
+
+date: 2025-06-11, updated: 2025-06-11, from: Polygon Website
+
+Capcom unveiled Resident Evil Requiem (aka Resident Evil 9) at Summer Game Fest, and everyone immediately had more questions. Requiem appears to reimagine the Resident Evil series, building on concepts introduced in the original game while shifting the focus back to horror over action. Rumors point to Requiem being a conclusion to existing storylines and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/606304/everything-we-know-after-resident-evil-requiems-big-reveal>
 
 ---
 
@@ -198,18 +318,6 @@ Weight classes in Mario Kart World work much like they do in Mario Kart 8, in th
 <br> 
 
 <https://www.polygon.com/mario-kart-world-guides/605739/weight-classes-all-characters-list-sizes>
-
----
-
-## How to unlock characters in Mario Kart World
-
-date: 2025-06-09, updated: 2025-06-10, from: Polygon Website
-
-There are a ton of characters in Mario Kart World (50 to be exact), but you have to unlock a few of them first. If you’re rushing to unlock Cataquack or Rosalina, you’ll want to know the specifics for unlocking certain characters, as some require you to clear a cup, whereas others require you to [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/mario-kart-world-guides/603321/unlock-characters-all-how-to-methods>
 
 ---
 

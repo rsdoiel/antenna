@@ -1,11 +1,156 @@
 ---
 title: pacific
-updated: 2025-06-11 06:07:38
+updated: 2025-06-11 14:07:46
 ---
 
 # pacific
 
-(date: 2025-06-11 06:07:38)
+(date: 2025-06-11 14:07:46)
+
+---
+
+## Progress reported out of Bougainville independence talks near Christchurch
+
+date: 2025-06-11, from: 
+
+Reports in Papua New Guinea say the governments of Bougainville and PNG have agreed to table the 2019 independence referendum results in parliament. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563879/progress-reported-out-of-bougainville-independence-talks-near-christchurch>
+
+---
+
+## Call for Pope Leo to issue abuse zero tolerance policy
+
+date: 2025-06-11, from: 
+
+A Fijian abuse survivor is urging the new head of the Catholic church to adopt a zero tolerance policy for child sex abuse. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563858/call-for-pope-leo-to-issue-abuse-zero-tolerance-policy>
+
+---
+
+## Oil spill cleanup in Tinian Harbor completed
+
+date: 2025-06-11, from: 
+
+Cleanup efforts following a waste oil spill in Tinian Harbor concluded last weekend with no significant impacts to wildlife or the shoreline, according to the US Coast Guard and the local environmental authority. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563861/oil-spill-cleanup-in-tinian-harbor-completed>
+
+---
+
+## Netball NZ wants World Netball to change international eligibility rules
+
+date: 2025-06-11, from: 
+
+It's proposing that players should be able to compete in a World Cup for a tier two nation without it impacting their ability to then play for a tier one nation at the following World Cup. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/sport/563847/netball-nz-wants-world-netball-to-change-international-eligibility-rules>
+
+---
+
+## Environmental concerns take centre stage as US military releases revised CNMI plan
+
+date: 2025-06-11, from: 
+
+The military is encouraging residents to weigh in through public meetings and formal comment submissions. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563859/environmental-concerns-take-centre-stage-as-us-military-releases-revised-cnmi-plan>
+
+---
+
+## More deaths reported in West Papua clashes
+
+date: 2025-06-11, from: 
+
+Further reports of civilian casualties are coming out of West Papua, with clashes between Indonesia's military and the armed wing of the Free Papua Movement continuing. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563765/more-deaths-reported-in-west-papua-clashes>
+
+---
+
+## Image of the Week: Microscopy
+
+date: 2025-06-11, from: University of Hawaiʻi News
+
+<p>This week's image is from the <abbr>UH</abbr> Cancer Center's Christine Farrar.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/11/image-of-the-week-microscopy/">Image of the Week: Microscopy</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/11/image-of-the-week-microscopy/>
+
+---
+
+## 18 Tanapag students earn Certiport digital literacy certification
+
+date: 2025-06-11, updated: 2025-06-11, from: Marianas Variety
+
+EIGHTEEN students of Tanapag Middle School earned their IC3 Digital Literacy Spark certification from Certiport on Monday. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/18-tanapag-students-earn-certiport-digital-literacy-certification/article_8a1b6eb6-5853-431b-ad54-8a079ac5fd68.html>
+
+---
+
+## Former Palau honorary consul files EU complaint, alleges human rights violations over entry ban
+
+date: 2025-06-11, updated: 2025-06-11, from: Marianas Variety
+
+KOROR (Island Times/Pacnews) — George Victor Malek, a former honorary consul of Palau to Monaco, has formally requested the European Union to investigate alleged human rights violations committed by Palau’s director of immigration and customs, citing his placement on Palau’s “Undesirable Alien” list without due process. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/former-palau-honorary-consul-files-eu-complaint-alleges-human-rights-violations-over-entry-ban/article_0ce229b3-254a-4228-acb9-6a4d14bc9ecd.html>
+
+---
+
+## Trump says China will supply rare earths, US to allow students
+
+date: 2025-06-11, updated: 2025-06-11, from: Marianas Variety
+
+WASHINGTON (Reuters) — President Donald Trump said on Wednesday the U.S. deal with China is done, with Beijing to supply magnets and rare earth minerals while the U.S. will allow Chinese students in its colleges and universities. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-says-china-will-supply-rare-earths-us-to-allow-students/article_63f90d0c-1c7d-4034-9067-c9595414a68e.html>
+
+---
+
+## Joint panel amends CPA bill
+
+date: 2025-06-11, updated: 2025-06-11, from: Marianas Variety
+
+A BICAMERAL conference committee on Tuesday amended House Bill 24-17, which proposes to remove the restrictions in the use of Commonwealth Ports Authority funds. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/joint-panel-amends-cpa-bill/article_96c1dc5d-f249-487b-8f7f-7ce5ed60ad71.html>
+
+---
+
+## Budget hearings begin on Rota
+
+date: 2025-06-11, updated: 2025-06-11, from: Marianas Variety
+
+THE House Ways and Means Committee started the budget review process on Rota to "bridge the gap" between the funding proposed by the municipal and central governments, according to the panel's chairman, Rep. John Paul P. Sablan. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/budget-hearings-begin-on-rota/article_e2718b86-4853-4341-9c7f-bccead5fcc94.html>
 
 ---
 

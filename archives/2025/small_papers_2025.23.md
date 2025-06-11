@@ -1,11 +1,56 @@
 ---
 title: small papers
-updated: 2025-06-11 06:07:47
+updated: 2025-06-11 14:07:52
 ---
 
 # small papers
 
-(date: 2025-06-11 06:07:47)
+(date: 2025-06-11 14:07:52)
+
+---
+
+## Soldiers watched Long Beach protesters from a balcony. Feds says they’re needed for protection
+
+date: 2025-06-11, from: Long Beach Post
+
+<figure><img width="1024" height="658" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1024x658.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1024x658.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-300x193.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-768x494.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-168x108.jpg 168w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1536x988.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1200x772.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1568x1008.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-400x257.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj.jpg 1608w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police said the protest was peaceful. It’s an example of the conflict roiling national politics manifesting on the streets of Long Beach. </p>
+<p>The post <a href="https://lbpost.com/news/immigration/national-guard-long-beach-protest-federal-building">Soldiers watched Long Beach protesters from a balcony. Feds says they’re needed for protection</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/national-guard-long-beach-protest-federal-building>
+
+---
+
+## Man says he was shot for asking couple to pick up their beer bottles at the beach
+
+date: 2025-06-11, from: Long Beach Post
+
+<figure><img width="1024" height="760" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-1024x760.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-1024x760.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-300x223.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-768x570.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-145x108.jpg 145w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-400x297.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP.jpg 1080w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Neighbors have complained that the parking lot on the Peninsula is a hotbed for public drinking. Now, there’s been violence as well.</p>
+<p>The post <a href="https://lbpost.com/news/crime/man-shot-belmonth-shore-peninsula-long-beach">Man says he was shot for asking couple to pick up their beer bottles at the beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/man-shot-belmonth-shore-peninsula-long-beach>
+
+---
+
+## Man arrested on suspicion of throwing Molotov cocktail during Paramount standoff
+
+date: 2025-06-11, from: Long Beach Post
+
+<figure><img width="1024" height="651" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-1024x651.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-1024x651.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-300x191.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-768x488.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-170x108.jpg 170w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-400x254.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Authorities said a Long Beach man was also caught with a Molotov at the protests in downtown Los Angeles.</p>
+<p>The post <a href="https://lbpost.com/news/crime/paramount-standoff-molotov-cocktail-arrest">Man arrested on suspicion of throwing Molotov cocktail during Paramount standoff</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/paramount-standoff-molotov-cocktail-arrest>
 
 ---
 
@@ -28,7 +73,7 @@ date: 2025-06-11, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-06-10, from: Long Beach Post
 
-<figure><img width="1024" height="588" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-1024x588.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-1024x588.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-300x172.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-768x441.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-188x108.jpg 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-400x230.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="588" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-1024x588.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-1024x588.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-300x172.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-768x441.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-188x108.jpg 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG-400x230.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10213734/10jun25-6-10-25-protest-0-958542-x4rramya-801363-UkrhPGAG.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Activists are calling for the city to invest another $2.2 million into a fund that pays legal bills for people fighting deportation, saying it’s only a matter of time before immigration raids spill into Long Beach.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/ice-protest-long-beach-justice-fund-city-council">Hundreds of protesters rally against ICE, ask City Council for more funding to fight deportations</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
