@@ -1,11 +1,120 @@
 ---
 title: pacific
-updated: 2025-06-12 06:07:10
+updated: 2025-06-12 14:07:47
 ---
 
 # pacific
 
-(date: 2025-06-12 06:07:10)
+(date: 2025-06-12 14:07:47)
+
+---
+
+## UOG Press launches debut short story collection capturing youth on Guam
+
+date: 2025-06-12, from: Pacific Island Times
+
+By Pacific Island Times News Staff                                                                                                  The... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/uog-press-launches-debut-short-story-collection-capturing-youth-on-guam>
+
+---
+
+## NZ: Pacific and Māori student support cut
+
+date: 2025-06-12, from: 
+
+Education advocates say an NZ government decision to remove special funding for Pacific and Māori students in vocational training harks back to the days of a one-size-fits-all model. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564005/nz-pacific-and-maori-student-support-cut>
+
+---
+
+## Téin released from French jail after appeal fails
+
+date: 2025-06-12, from: 
+
+A Court of Appeal in Paris on Thursday ruled for the release of Kanak pro-independence leader Christian Téin from custody, almost one year after his arrest in New Caledonia. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563999/tein-released-from-french-jail-after-appeal-fails>
+
+---
+
+## Crusaders v Blues: what you need to know
+
+date: 2025-06-12, from: 
+
+Super Rugby's most heated rivalry writes another chapter in Christchurch tonight. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/sport/563968/crusaders-v-blues-what-you-need-to-know>
+
+---
+
+## Saipan environment forum hears caution on Pacific Garbage Patch cleanup
+
+date: 2025-06-12, from: 
+
+An expert says there is pushback from environmental groups when it comes to cleaning up the Great Pacific Garbage Patch. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563984/saipan-environment-forum-hears-caution-on-pacific-garbage-patch-cleanup>
+
+---
+
+## Narawa enjoys injury-free season, as Chiefs focus on semi-final
+
+date: 2025-06-12, from: 
+
+"Everyone's competitive. Now you can't go into games thinking you'll have an easy game." 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563986/narawa-enjoys-injury-free-season-as-chiefs-focus-on-semi-final>
+
+---
+
+## New Zealand PM defends 'parent boost' visa amid criticism
+
+date: 2025-06-12, from: 
+
+Auckland barrister Nalesoni Tupou said not many Pacific Islanders will meet the minimum income threshold. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563985/new-zealand-pm-defends-parent-boost-visa-amid-criticism>
+
+---
+
+## Support for women in STEM, community outreach cut with federal funding loss
+
+date: 2025-06-12, from: University of Hawaiʻi News
+
+<p>The sudden loss of federal funding ended a <abbr>UH</abbr> Mānoa program that empowered women in geosciences and expanded <abbr>STEM</abbr> outreach statewide.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/12/support-for-women-in-stem-funding-loss/">Support for women in <abbr>STEM</abbr>, community outreach cut with federal funding loss</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/12/support-for-women-in-stem-funding-loss/>
+
+---
+
+## Guam's business tax hike in effect for seven years, with nothing to show for it
+
+date: 2025-06-12, from: Pacific Island Times
+
+Business leaders made a case for BPT rollback during a public hearing held by Sen. Chris Duenas' finance and government operations... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-s-business-tax-hike-in-effect-for-seven-years-with-nothing-to-show-for-it>
 
 ---
 

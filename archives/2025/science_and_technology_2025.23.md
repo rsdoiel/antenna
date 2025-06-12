@@ -1,11 +1,287 @@
 ---
 title: science and technology
-updated: 2025-06-12 06:07:11
+updated: 2025-06-12 14:07:49
 ---
 
 # science and technology
 
-(date: 2025-06-12 06:07:11)
+(date: 2025-06-12 14:07:49)
+
+---
+
+## Meta sues 'nudify' app-maker that it claims ran 87k+ Facebook, Instagram ads
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>Despite &#39;multiple enforcement actions,&#39; Joy Timeline HK allegedly wouldn&#39;t stop</h4> <p>Meta has sued an app maker for advertising on Facebook and Instagram a so-called &#34;nudify&#34; app that uses AI to generate nude and sexually explicit images and videos of individuals without their consent.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/meta_sues_nudify_appmaker_that/>
+
+---
+
+## Global Cloud goes down, takes Cloudflare and its customers with it
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>Big G said it was fixed, but acknowledged ongoing customer pain</h4> <p>Google Cloud went down hard on Thursday, and took Cloudflare and some of its customers with it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/google_cloudflare_outage/>
+
+---
+
+## Single passenger reportedly survives Air India Boeing 787 crash
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>Aircraft didn&#39;t even get its wheels up before sinking into suburban area</h4> <p>A Boeing 787 flying from India to London&#39;s Gatwick airport has crashed, leaving one reported survivor among the 242 people aboard.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/air_india_787_crash/>
+
+---
+
+## TSMC strengthens Japan ties with joint R&amp;D lab in Tokyo
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>University collab underscores pivot to Asia amid unpredictable US policy</h4> <p>TSMC has opened a joint research lab with the University of Tokyo in Japan, the company&#39;s first such collaboration with an academic institute outside of Taiwan, amid ongoing concerns over the Trump administration&#39;s attitude to foreign tech firms.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/tsmc_japan_lab/>
+
+---
+
+## NASA’s SLS Rocket: Booster Separation Motors
+
+date: 2025-06-12, from: NASA breaking news
+
+NASA’s SLS (Space Launch System) solid rocket boosters are the largest, most powerful solid propellant boosters to ever fly. Standing 17 stories tall and burning approximately six tons of propellant every second, each booster generates 3.6 million pounds of a thrust for a total of 7.2 million pounds: more thrust than 14 four-engine jumbo commercial [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-sls-rocket-booster-separation-motors/>
+
+---
+
+## Far Out
+
+date: 2025-06-12, from: NASA breaking news
+
+Pismis 24, the star cluster seen here in an image released on Dec. 11, 2006, lies within the much larger emission nebula called NGC 6357, located about 8,000 light-years from Earth. The brightest object in the picture was once thought to be a single star with an incredibly large mass of 200 to 300 solar [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/far-out/>
+
+---
+
+## AMD bets on rack-scale compute to boost AI efficiency 20x by 2030
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>Who&#39;d have thunk? The bigger the iron, the more efficient it gets</h4> <p>With Moore&#39;s Law on its last legs and datacenter power consumption a growing concern, AMD is embarking on an ambitious new goal to boost the energy efficiency of its chips 20-fold before 2030. And it sees rack-scale architectures as a key design point to get there.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/amd_20x_30/>
+
+---
+
+## AMD preps rack-scale Helios systems to contend with Nvidia's Vera Rubin NVL144
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>House of Zen&#39;s biggest iron yet boasts 72 MI400 GPUs, 260 TBps of UALink bandwidth, and 2.9 exaFLOPS of FP4</h4> <p>AMD offered its best look yet at the rack-scale architecture that&#39;ll underpin its MI400-series GPUs in 2026 at its Advancing AI event in San Jose on Thursday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/amd_helios_dc/>
+
+---
+
+## CISA loses another senior exec - and the budget cuts haven't even started yet
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>Another one bites the dust at America&#39;s top cybersecurity agency</h4> <p>The US Cybersecurity and Infrastructure Security Agency has lost another senior leader: executive director Bridget Bean departed on Wednesday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/cisa_loses_another_senior_exec/>
+
+---
+
+## NASA’s Hurricane Science, Tech, Data Help American Communities
+
+date: 2025-06-12, from: NASA breaking news
+
+With hurricane season underway, NASA is gearing up to produce cutting-edge research to bolster the nation’s readiness and response to severe weather. 
+
+<br> 
+
+<https://science.nasa.gov/earth/nasas-hurricane-science-tech-data-help-american-communities/>
+
+---
+
+## NASA Sensor on Space Station Eyes Contamination off California Coast
+
+date: 2025-06-12, from: NASA breaking news
+
+Proof-of-concept results from the mouth of the Tijuana River in San Diego County show how an instrument called EMIT could aid wastewater detection. An instrument built at NASA’s Jet Propulsion Laboratory &#160;to map minerals on Earth is now revealing clues about water quality. A recent study found that EMIT (Earth Surface Mineral Dust Source Investigation) [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/emit/nasa-sensor-on-space-station-eyes-contamination-off-california-coast/>
+
+---
+
+## NASA, Museum to Launch Junior Pilot School for Young Innovators
+
+date: 2025-06-12, from: NASA breaking news
+
+A new generation of aerospace explorers will soon embark on a hands-on summer experience focusing on careers in science, mathematics, engineering, and technology (STEM). This month, NASA’s Armstrong Flight Research Center in Edwards, California, and the Flight Test Museum Foundation will launch the 2025 Junior Test Pilot School. Held at Blackbird Airpark and Joe Davies [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-museum-to-launch-junior-pilot-school-for-young-innovators/>
+
+---
+
+## Falcon 9 leaks keep Axiom private astronaut mission on the ground
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>Weather and propulsion system problems conspire to keep astronauts away from the ISS</h4> <p>The Axiom-4 private astronaut mission to the International Space Station (ISS) has been held up by a liquid oxygen leak in the Falcon 9&#39;s first stage.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/falcon_9_leaks_keep_axiom/>
+
+---
+
+## AMD's MI355X is a 1.4 kW liquid-cooled monster built to battle Nvidia's Blackwell
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>And the House of Zen wants to put 128 of them in your rack</h4> <p>Nvidia&#39;s Blackwell accelerators have been on the market for just over six months, and AMD says it&#39;s already achieved performance parity with the launch of its MI350-series GPUs on Thursday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/amd_mi355x/>
+
+---
+
+## Amazon has changed its nuclear deal in Pennsylvania to bypass grumpy regulators
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>New front-of-the-meter agreement avoids direct delivery snag that drew regulator pushback</h4> <p>Amazon has amended its deal with Talen Energy to buy power for a Pennsylvania datacenter from an adjacent nuclear power plant after regulators raised their eyebrows at the original deal.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/amazon_talen_nuclear_deal/>
+
+---
+
+## Ubuntu 25.10 and Fedora 43 to drop X11 in GNOME editions
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>Distros align with GNOME 49&#39;s move to make Wayland the only supported session</h4> <p>Like any other distro with GNOME 49, the next interim release of Ubuntu will be Wayland-only – at least in its GNOME variant.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/ubuntu_2510_to_drop_x11/>
+
+---
+
+## NASA Launching Rockets Into Radio-Disrupting Clouds
+
+date: 2025-06-12, from: NASA breaking news
+
+NASA is launching rockets from a remote Pacific island to study mysterious, high-altitude cloud-like structures that can disrupt critical communication systems. The mission, called Sporadic-E ElectroDynamics, or SEED, opens its three-week launch window from Kwajalein Atoll in the Marshall Islands on Friday, June 13. The atmospheric features SEED is studying are known as Sporadic-E layers, […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/nasa-launching-rockets-into-radio-disrupting-clouds/>
+
+---
+
+## NASA’s Roman to Peer Into Cosmic ‘Lenses’ to Better Define Dark Matter
+
+date: 2025-06-12, from: NASA breaking news
+
+A funky effect Einstein predicted, known as gravitational lensing — when a foreground galaxy magnifies more distant galaxies behind it — will soon become common when NASA’s Nancy Grace Roman Space Telescope begins science operations in 2027 and produces vast surveys of the cosmos. A particular subset of gravitational lenses, known as strong lenses, is [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-to-peer-into-cosmic-lenses-to-better-define-dark-matter/>
+
+---
+
+## Nvidia hits the gas on autonomous vehicle software
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>DRIVE stack promises safer roads and smarter cars – eventually</h4> <p><strong>GTC Paris</strong>  Nvidia has officially rolled out its autonomous vehicle (AV) software, despite telling a UK car mag that fully self-driving vehicles are not likely before the next decade.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/nvidia_autonomous_vehicle_platform/>
+
+---
+
+## Tape, glass, and molecules – the future of archival storage
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>Time to stop giving cold storage the cold shoulder</h4> <p><strong>Feature</strong>  The future of archival data storage is tape, more tape, and then possibly glass-based tech, with DNA and other molecular tech still a distant prospect.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/archival_storage_feature/>
+
+---
+
+## Studying Storms from Space Station
+
+date: 2025-06-12, from: NASA breaking news
+
+Science in Space June 2025 Scientists use instruments on the International Space Station to study phenomena in Earth’s ionosphere or upper atmosphere including thunderstorms, lightning, and transient luminous events (TLEs). TLEs take many forms, including blue jets, discharges that grow upward into the stratosphere from cloud tops, and colorful bursts of energy above storms called [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/studying-storms-from-space-station/>
+
+---
+
+## Does Form Really Shape Function?
+
+date: 2025-06-12, from: Quanta Magazine
+
+From brain folds to insect architecture, L. Mahadevan explains how complex biological forms and behaviors emerge through the interplay of physical forces, environment and embodiment.            <p>The post <a href="https://www.quantamagazine.org/does-form-really-shape-function-20250612/" target="_blank">Does Form Really Shape Function?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/does-form-really-shape-function-20250612/>
+
+---
+
+## Google faces billion-quid bruising over Play Store fees in the UK
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>Competition Appeals Tribunal gives nod for claim to go to trial</h4> <p>A billion-pound legal action against Google over Play Store fees can proceed to trial.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/google_play_store_fees/>
 
 ---
 

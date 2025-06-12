@@ -1,11 +1,147 @@
 ---
 title: north america
-updated: 2025-06-12 06:07:09
+updated: 2025-06-12 14:07:46
 ---
 
 # north america
 
-(date: 2025-06-12 06:07:09)
+(date: 2025-06-12 14:07:46)
+
+---
+
+## The 10 best Beach Boys songs
+
+date: 2025-06-12, from: The Contrarian
+
+A tribute to Brian Wilson, who died this week 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-10-best-beach-boys-songs>
+
+---
+
+## Avoiding the media trap of the military parade
+
+date: 2025-06-12, from: The Contrarian
+
+Help Americans see that standing against authoritarianism is patriotic. 
+
+<br> 
+
+<https://contrarian.substack.com/p/avoiding-the-media-trap-of-the-military>
+
+---
+
+## "We've got no kings here": Jamie Raskin on Trump's brazen disregard for the American Constitution
+
+date: 2025-06-12, from: The Contrarian
+
+"Donald Trump has a lot more to do with King George than he has to do with the American revolutionaries." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165799832/99b63e808f3acd5eb78298401dd4f9f9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165799832/99b63e808f3acd5eb78298401dd4f9f9.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/weve-got-no-kings-here-jamie-raskin>
+
+---
+
+##  Campaign Finance Reform May Save Us From Cuomo 2.0 
+
+date: 2025-06-12, from: The Lever News
+
+ Thanks to small-dollar donors and a public election fund, New York City’s mayoral race is actually competitive.  
+
+<br> 
+
+<https://www.levernews.com/campaign-finance-reform-may-save-us-from-cuomo-2-0/>
+
+---
+
+##  The Trump Era’s Trade-Offs 
+
+date: 2025-06-12, from: The Lever News
+
+ This week’s deportation raids and plane crash followed the Republican administration’s moves to change the government’s focus.  
+
+<br> 
+
+<https://www.levernews.com/the-trump-eras-trade-offs/>
+
+---
+
+## Confessions of a Novice Protester
+
+date: 2025-06-12, from: The Contrarian
+
+Democracy in action comes with signs, chants, and comfortable shoes 
+
+<br> 
+
+<https://contrarian.substack.com/p/confessions-of-a-novice-protester>
+
+---
+
+## Vanishing act: The erasure of women from America’s story
+
+date: 2025-06-12, from: The Contrarian
+
+It&#8217;s happening now. And if we don&#8217;t name it and fight it, history will forget us&#8212;again. 
+
+<br> 
+
+<https://contrarian.substack.com/p/vanishing-act-the-erasure-of-women>
+
+---
+
+## ‘Patients Will Suffer. Patients Will Die.’ Why California’s Rural Hospitals Are Flatlining.
+
+date: 2025-06-12, from: Capital and Main
+
+<p>Will Sacramento’s budget shortfall turn off the lights of community health care centers?</p>
+<p>The post <a href="https://capitalandmain.com/patients-will-suffer-patients-will-die-why-californias-rural-hospitals-are-flatlining">‘Patients Will Suffer. Patients Will Die.’ Why California’s Rural Hospitals Are Flatlining.</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/patients-will-suffer-patients-will-die-why-californias-rural-hospitals-are-flatlining>
+
+---
+
+## Santa Ono and Ileana Garcia forgot they aren’t white
+
+date: 2025-06-12, from: The Contrarian
+
+How an unemployed university president and a Florida senator were reminded that their resumes will never &#8220;trump&#8221; their race 
+
+<br> 
+
+<https://contrarian.substack.com/p/santa-ono-and-ileana-garcia-forgot>
+
+---
+
+## Coffee with Contrarians with special guests
+
+date: 2025-06-12, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 06/12 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-contrarians-with-special>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-06-12, from: The Contrarian
+
+Thursday: More coverage of the ICE protests in Los Angeles, Denver, Omaha, Chicago, New York, and more, plus planning for No King's Day. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 
@@ -398,18 +534,6 @@ It&#8217;s everyone else still pretending he&#8217;s unpredictable.
 <br> 
 
 <https://contrarian.substack.com/p/china-is-ready-for-trump>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-06-10, from: The Contrarian
-
-Tuesday: Coverage of the protests against ICE in Los Angeles and elsewhere. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

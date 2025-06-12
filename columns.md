@@ -1,11 +1,209 @@
 ---
 title: columns
-updated: 2025-06-12 06:07:12
+updated: 2025-06-12 14:07:50
 ---
 
 # columns
 
-(date: 2025-06-12 06:07:12)
+(date: 2025-06-12 14:07:50)
+
+---
+
+## June 11, 2025
+
+date: 2025-06-12, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165816754/115ed08ad1ab6b6ad623a1f6ef76bc05.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165816754/115ed08ad1ab6b6ad623a1f6ef76bc05.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-11-2025-300>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-06-12, from: Ryan Gantz Bluesky feed)
+
+npm goes down, and the republic falls 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.com/post/3lrgq3ufzbk2b>
+
+---
+
+## Gavin Newsom as the Adult in the Room.
+
+date: 2025-06-12, from: James Fallows, Substack
+
+Let's not talk about "how this plays" as politics. Let's think about the way leaders address the public when the stakes are high and the outcome is unknown. We saw this week how it should be done. 
+
+<br> 
+
+<https://fallows.substack.com/p/gavin-newsom-as-the-adult-in-the>
+
+---
+
+## Letter to Planning Commission re: upzoning in Juanita
+
+date: 2025-06-12, from: Tracy Durnell Blog
+
+Two large sites in the northern part of my city are being proposed for upzoning to permit taller buildings, reduced parking requirements, as well as other changes. In general the changes seem good, but there is one proposed change that is concerning: allowing townhomes instead of apartments or condos on some large sites that ought [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/06/12/letter-to-planning-commission-re-upzoning-in-juanita/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-12, from: Miguel de Icaza Mastondon feed)
+
+<p>We are doing our first Xogot game jam!</p><p><a href="https://itch.io/jam/xogot-jam" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">itch.io/jam/xogot-jam</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114671610843529716>
+
+---
+
+## Ubuntu 25.10 and Fedora 43 to drop X11 in GNOME editions
+
+date: 2025-06-12, updated: 2025-06-12, from: Liam Proven's articles at the Register
+
+<h4>Distros align with GNOME 49&#39;s move to make Wayland the only supported session</h4>
+      <p>Like any other distro with GNOME 49, the next interim release of Ubuntu will be Wayland-only – at least in its GNOME variant.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/12/ubuntu_2510_to_drop_x11/>
+
+---
+
+## Jason Snell on WWDC 2025: ‘Apple Intelligence Shifts Gears’
+
+date: 2025-06-12, updated: 2025-06-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sixcolors.com/post/2025/06/apple-intelligence-shifts-gears/>
+
+---
+
+## Airlines Secretly Selling Passenger Data to the Government
+
+date: 2025-06-12, updated: 2025-06-12, from: Bruce Schneier blog
+
+<p>This is <a href="https://www.404media.co/airlines-dont-want-you-to-know-they-sold-your-flight-data-to-dhs/">news</a>:</p>
+<blockquote><p>A data broker owned by the country&#8217;s major airlines, including Delta, American Airlines, and United, collected U.S. travellers&#8217; domestic flight records, sold access to them to Customs and Border Protection (CBP), and then as part of the contract told CBP to not reveal where the data came from, according to internal CBP documents obtained by 404 Media. The data includes passenger names, their full flight itineraries, and financial details.</p></blockquote>
+<p>Another <a href="https://www.jalopnik.com/1882775/airlines-sold-you-out-to-feds-11025/">article</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/06/airlines-secretly-selling-passenger-data-to-the-government.html>
+
+---
+
+## The Back Of The AI Envelope
+
+date: 2025-06-12, from: David Rosenthal's blog
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLsVbLvxmq5sqbLsoGfkRfYrCHIZTMPL0YKPSLHeEs2-7aWT_DKbEBmjM-7KDVqJ5W7FKx3kh22wyoD1yCM262Zq7ePPXAwDc5kOUfHeVqxIXAlhC03mqdKobiKsNF4Q8CFcF8gZ0dz-pcRRVwJvGBSPrTnhf_zX7U3jCbDGSOCKy_g5GqzklncET0hkBX/s1152/A1.png" style="clear: right; display: block; margin-left: auto; margin-right: auto; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="1130" data-original-width="1152" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLsVbLvxmq5sqbLsoGfkRfYrCHIZTMPL0YKPSLHeEs2-7aWT_DKbEBmjM-7KDVqJ5W7FKx3kh22wyoD1yCM262Zq7ePPXAwDc5kOUfHeVqxIXAlhC03mqdKobiKsNF4Q8CFcF8gZ0dz-pcRRVwJvGBSPrTnhf_zX7U3jCbDGSOCKy_g5GqzklncET0hkBX/s200/A1.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.instagram.com/p/DIR-XQ5SsCq/?utm_source=ig_embed&amp;utm_campaign=loading">Sauce</a></td></tr></tbody></table>
+The rise of the technology industry over the last few decades has been powered by its very strong <a href="http://www.amazon.com/Increasing-Returns-Dependence-Economics-Cognition/dp/0472064967">economies of scale</a>. Once you have invested in developing and deploying a technology, the benefit of adding each additional customer greatly exceeds the additional cost of doing so. This led to the concept of "<a href="https://hbr.org/2016/04/blitzscaling">blitzscaling</a>", that it makes sense to delay actually making a profit and devote these benefits to <i>adding more customers</i>. That way you follow the example of Amazon and Uber on the path to a monopoly laid out by Brian Arthur's <a href="http://www.amazon.com/Increasing-Returns-Dependence-Economics-Cognition/dp/0472064967"><i>Increasing Returns and Path Dependence in the Economy</i></a>. Eventually you can extract monopoly rents and make excess profits, but in the meantime blitzscale believers will pump your stock price.<br />
+<br />
+This is what the VCs behind OpenAI and Anthropic are doing, and what Google, Microsoft and Oracle are trying to emulate. Is it going to work? Below the fold I report on some back-of-the-envelope calculations, which I did without using <a href="https://people.com/a1-steak-sauce-has-hilarious-response-after-secretary-of-education-linda-mcmahon-flubs-11714927">A1</a>.<br />
+<span><a name='more'></a></span>
+<br />
+David Gerard <a href="https://pivot-to-ai.com/2025/05/31/microsoft-and-ai-spending-billions-to-make-millions/">notes that</a>:<br />
+<blockquote>
+  Microsoft is forecast to spend $80 <i>billion</i> on AI in 2025.
+</blockquote>
+Lets try to figure out the return on this investment. We will assume that the $80B is split two ways, $40B to Nvidia for hardware and $40B on building data centers to put it in. Depreciating the $40B of hardware over five years is very optimistic, it is likely to be <a href="https://www.theverge.com/2024/5/22/24162860/nvidia-ai-chip-every-year-blackwell-rubin">uneconomic to run after 2-3 years</a>. But that's what we'll do. So that is minus $8B/year on the bottom line over the next five years. Similarly, depreciating the data centers over 20 years is likely optimistic, given the rate at which <a href="https://doi.org/10.1016/j.joule.2025.101961">AI power demand is increasing</a>. But that's what we'll do, giving another minus $2B/year on the bottom line.<br />
+<br />
+Microsoft could argue that some of the $80B is the cost of training the models. But since the models will depreciate even faster than the hardware used to train them, this doesn't make things look better.<br /> 
+<br />
+Microsoft's gross margin for cloud services is <a href="https://www.microsoft.com/en-us/Investor/earnings/FY-2024-Q4/performance">about 70%</a>, so they will be expecting this $10B/year cost to generate $33B/year in revenue, or about 13% of Microsoft's total. Of course, there will be some ramp up in the revenue, but Microsoft is planning to keep investing, so next year's investment will need to generate a return too. We will thus ignore the ramp.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW3jO3GBd5XXIxMMe3u7Bl1v0qtqn0icFJJFv7kdWNJY47e5jnKmqQMisI8cvUFiepnM5c7Y4NG7BZxhY10w1c0I7I5kZZBXTOFDdB2r1QUQc_jxtEM7KqUp2Yc11vUcW0Je3n8EAie8WR2MNXYmPSwSRtOp2q-ihUW_ixr7bf_cySIlCkZELU6vfqxWk6/s1252/CopilotStudioMomentum.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="684" data-original-width="1252" height="109" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW3jO3GBd5XXIxMMe3u7Bl1v0qtqn0icFJJFv7kdWNJY47e5jnKmqQMisI8cvUFiepnM5c7Y4NG7BZxhY10w1c0I7I5kZZBXTOFDdB2r1QUQc_jxtEM7KqUp2Yc11vUcW0Je3n8EAie8WR2MNXYmPSwSRtOp2q-ihUW_ixr7bf_cySIlCkZELU6vfqxWk6/w200-h109/CopilotStudioMomentum.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.perspectives.plus/p/microsofts-non-profit-ai-adventures">Source</a></td></tr></tbody></table>
+Jukka Niiranen <a href="https://www.perspectives.plus/p/microsofts-non-profit-ai-adventures">notes that</a>:<br />
+<blockquote>
+  Microsoft is today promoting the pay-as-you-go pricing model of Copilot Studio as the preferred sales motion. The list price of one message is $0.01. While enterprise clients may get discounts, there’s also the chance of prepaid message capacity being unused, so things may even out. With this price point, Copilot Studio usage generates $2.5M revenue per month, and $30M per year. 
+</blockquote>
+So Microsoft is processing about 30B messages/year. It needs adoption to be so fast that next year's revenue will be around <i>1,100 times</i> its current rate. They will need next year's customers to generate about 330T messages/year.<br />
+<br />
+How is adoption going? Jukka Niiranen <a href="https://www.perspectives.plus/p/microsofts-non-profit-ai-adventures">notes that</a>:<br />
+<blockquote>
+  160k organizations using Copilot, this translates to around 1.5K messages per org per month. Or 52 messages per day. Now, we have to remember that one action in a Copilot Studio agent often consumes more than one message. ...<br />
+  <br />
+   If those 52 messages were only about regular GenAI usage without any business process logic, that would mean 26 responses from Copilot Studio agents per day. If they were to include things like agent actions (meaning, AI does something more than just chatting back at you) or AI tools, we’re quickly at a point where the average Copilot Studio customer organization does a couple of agent runs per day.<br />
+<br />
+  <b>This is shockingly low</b>. It is plain and obvious that most customers are merely experimenting with trying to build agents. Hardly anyone is running it in production yet. Which wouldn’t be that bad if this was a new 2025 product. But Copilot Studio has been out since November 2023.
+</blockquote>
+The back of my envelope says that Microsoft's AI business needs to grow customers like no business (even OpenAI) has ever grown customers if it is not to be a huge drag on the bottom line.<br />
+<br />
+If this were a traditional technology business with very strong economies of scale growing customers incredibly fast would be good, because the incremental revenue from each new customer vastly outweighs the incremental cost of supporting them. This is where Microsoft's 70% gross margin comes from.<br />
+<br />
+OpenAI lost $5B on $4B in revenue, so each $1 of revenue cost them $2.25. Ed Zitron had a <a href="https://www.wheresyoured.at/oai-business/">more detailed estimate</a>:<br />
+<blockquote>
+To be abundantly clear, as it stands, OpenAI currently spends $2.35 to make $1.
+</blockquote>
+Lets assume Microsoft is doing better, with each $1 in revenue costing $1.50.  But, as James O'Donnell and Casey Crownhart report in <a href="https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/"><i>We did the math on AI’s energy footprint. Here’s the story you haven’t heard.</i></a>:<br />
+<blockquote>
+  As conversations with experts and AI companies made clear, inference, not training, represents an increasing majority of AI’s energy demands and will continue to do so in the near future. It’s now estimated that 80–90% of computing power for AI is used for inference.
+</blockquote>
+If we assume unrealistically that training is a one-time cost and they don't need to retrain for next year, training cost them say 15% of $45M, or about $6.75M and answering the 30B messages cost them $38.25M. Scaling up by a factor of 1,100 means answering the messages would cost them $42B plus the $10B depreciation, so $52B. But it would only generate $33B in revenue, so each $1 of revenue would cost about $1.58. Scaling up would make the losses worse.<br />
+<br />
+There are only two possibilities. Either inference gets at least an order of magnitude cheaper than training instead of around 6 times more expensive, or the price of using AI goes up by at least an order of magnitude. Now you see why Sam Altman <i>et al</i> are so desperate to run the "drug-dealer's algorithm" (<i>the first one's free</i>) and get the world hooked on this drug so they can supply a world of addicts.<br />
+<br /> 
+
+<br> 
+
+<https://blog.dshr.org/2025/06/the-back-of-ai-envelope.html>
+
+---
+
+## Thursday
+
+date: 2025-06-12, from: Doc Searls (at Harvard), New Old Blog
+
+And having any readers is better than having none. So far (2:30 pm), this blog post has had three visitors. And I&#8217;m not even sure those visitors have read any of this. Meanwhile, Online Sports Betting is For Losers is now up to 3,252 visits, second all-time behind Death is a Feature (6,643 visits). So, [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/06/12/thursday-2/>
+
+---
+
+## Democrats and men
+
+date: 2025-06-12, from: Dave Winer's Scripting News
+
+<p>Yesterday I posted a link to my <a href="https://this.how/davewiner/politics.opml">political disclaimer</a> from 2018. Also listened to a <a href="https://www.theatlantic.com/podcasts/archive/2025/06/david-frum-show-trumps-plot-against-the-2026-elections/683107/">podcast interview</a> with Senator Gallego of Arizona who says, correctly, that the Democrats have work to do with men. It's true, speaking as a man who has been voting solid Democratic since Kerry, but I didn't stop being a man, which is something that makes me cringe to say it, the way I cringed at admitting to being Jewish when I was a kid. I lived in a place where hate of Jews was always just under the surface in school, but not so well hidden at the playground. </p>
+<p>Men as a gender were really pushed into a corner we couldn't get out of during #metoo, all men, not just some. If they say they weren't they're lying. I went to a future of journalism conference in 2018, and the only thing men talked about, quietly, among ourselves, was how scared we were of losing everything. It really was bad, but since then it's eased. </p>
+<p>I wrote about #metoo in my <a href="https://this.how/davewiner/politics.opml#1520013967000">political disclaimer</a>, but didn't promote it for fear of retribution. I was threatened when I stood up for a friend whose life was ruined for as far as I could tell doing nothing wrong. If you don't shut up we'll do you too, basically. </p>
+<p>Women are people just like men, and when they got to rage online against men, even people I thought I knew and were friends behaved abhorently. The way we imagine Trump might deal with us soon. </p>
+<p>I have to add not all women, there were some who didn't forget that their male friends were still friends.</p>
+<p>It was very clear where the Democratic Party came down on all this, and of course, the Republicans took total advantage of this. If you want to understand the <a href="https://en.wikipedia.org/wiki/Manosphere">manosphere</a> as you all call it, start here. I vote with you all, but absolutely abhor the way you pushed us all into a corner and shut down our pride. Women are people too and they can be just as ugly as men. If you believe otherwise you're believing lies. I speak from experience, I was raised to believe all women are saints. That lie did not prepare us well for life. </p>
+<p>The good news is if the Democrats can make peace with men, there are a lot more votes available to us. We can put it behind us, but we can't ignore that in the late teens we went absolutely fucking batshit crazy about half of the electorate. It's amazing the whole thing didn't completely crumble, irrevocably. We can still fix it, but we have to acknowledge that men were hurt in that period. You all seem to have forgotten that we are just people too. </p>
+<p>PS: Re-reading the #metoo section of the disclaimer I can't believe how I tiptoed around the truth. The truth I didn't dare say was it was a huge hate campaign as divisive as anything the Repubs ever did. In a country that was supposed to outlaw this, and from a political party that was supposed to be liberal. The "both sides do it" reality probably hasn't yet sunk in but the Democrats sided with sadists and fascists. No other way to put it. Men absolutely were silenced. Afraid to speak for fear of retribution. If you were on the wrong side of this you have some soul-searching to do. And you probably pushed a lot of people of all genders into voting for Trump. The Dems posture of "who me?" has an answer -- yes you. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/12/140245.html?title=democratsAndMen>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-12, from: Dave Winer's Scripting News)
+
+Today I'm going to teach <a href="https://wordland.social/">WordLand</a> how to manage a <a href="https://daytona.scripting.com/search?q=linkblog">linkblog</a>. Before doing that I tried to figure out what a linkblog is. I have been using various homebrew linkblogging tools which I have shared with others, but none of them became popular products. I wrote a <a href="https://this.how/linkblog/">summary</a> to help guide the development work I have planned. 
+
+<br> 
+
+<http://scripting.com/2025/06/12.html#a125823>
 
 ---
 
@@ -925,11 +1123,11 @@ Just some facts. No interpretations. This blog post got nine reads by the end of
 
 ## New Way to Track Covertly Android Users
 
-date: 2025-06-09, updated: 2025-06-08, from: Bruce Schneier blog
+date: 2025-06-09, updated: 2025-06-12, from: Bruce Schneier blog
 
 <p>Researchers have <a href="https://localmess.github.io/">discovered</a> a new way to covertly track Android users. Both Meta and Yandex were using it, but have suddenly stopped now that they have been caught.</p>
 <p>The <a href="https://arstechnica.com/security/2025/06/meta-and-yandex-are-de-anonymizing-android-users-web-browsing-identifiers/">details</a> are interesting, and worth reading in detail:</p>
-<blockquote><p>&#62;Tracking code that Meta and Russia-based Yandex embed into millions of websites is de-anonymizing visitors by abusing legitimate Internet protocols, causing Chrome and other browsers to surreptitiously send unique identifiers to native apps installed on a device, <a href="https://localmess.github.io/">researchers have discovered</a>. Google says it&#8217;s investigating the abuse, which allows Meta and Yandex to convert ephemeral web identifiers into persistent mobile app user identities...</p></blockquote> 
+<blockquote><p>Tracking code that Meta and Russia-based Yandex embed into millions of websites is de-anonymizing visitors by abusing legitimate Internet protocols, causing Chrome and other browsers to surreptitiously send unique identifiers to native apps installed on a device, <a href="https://localmess.github.io/">researchers have discovered</a>. Google says it&#8217;s investigating the abuse, which allows Meta and Yandex to convert ephemeral web identifiers into persistent mobile app user identities...</p></blockquote> 
 
 <br> 
 

@@ -1,11 +1,103 @@
 ---
 title: home
-updated: 2025-06-12 06:07:15
+updated: 2025-06-12 14:07:53
 ---
 
 # home
 
-(date: 2025-06-12 06:07:15)
+(date: 2025-06-12 14:07:53)
+
+---
+
+## From the Archive: When Dad Is a Starchitect
+
+date: 2025-06-12, from: Dwell
+
+The adult offspring of famous architects share what it was like to use their fathers’ buildings as playgrounds. 
+
+<br> 
+
+<https://www.dwell.com/article/from-the-archive-when-dad-is-a-starchitect-3fe611f2>
+
+---
+
+## 171K Mazdas Recalled Over Airbag Safety Risk — Is Yours on the List
+
+date: 2025-06-12, from: Family Handyman Blog
+
+<p>Hundreds of thousands of new Mazdas have faulty air bags. Find out if yours is one of them and what to do about it. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/mazda-airbag-recall/">171K Mazdas Recalled Over Airbag Safety Risk — Is Yours on the List</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/mazda-airbag-recall/>
+
+---
+
+## How to Grow and Care for Mickey Mouse Plants
+
+date: 2025-06-12, from: The Gardener's Path
+
+<p>The Mickey Mouse plant is a South African native for Zones 9 to 11. It thrives in full sun to partial shade and average soil. The shiny black berries and bold red petal-like sepals resemble the famous cartoon character's outfit. Learn how to grow this semi-evergreen ornamental shrub in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/grow-mickey-mouse-plants/">How to Grow and Care for Mickey Mouse Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/grow-mickey-mouse-plants/>
+
+---
+
+## An Enviable Home Office Caps This Duplex Renovation in Montreal
+
+date: 2025-06-12, from: Dwell
+
+A glass-walled expansion turned the two-unit address into a single-family residence with a remarkable workspace. 
+
+<br> 
+
+<https://www.dwell.com/article/maison-jardin-beau-alexandre-bernier-architecte-duplex-renovation-307c26b3>
+
+---
+
+## For $900K, You Can Scoop Up a Matte Black Prefab in Upstate New York
+
+date: 2025-06-12, from: Dwell
+
+The funky home comes with a ceramics studio, an outdoor shower, and access to thousands of acres of hiking trails. 
+
+<br> 
+
+<https://www.dwell.com/article/straylight-prefab-home-wieler-ralph-rapson-upstate-new-york-real-estate-fbd2a32c>
+
+---
+
+## Dark vs. White: What to Paint Your Kitchen in 2025, According to Experts
+
+date: 2025-06-12, from: Family Handyman Blog
+
+<p>Before you decide on a kitchen color scheme, check out these pros and cons for both dark and white kitchens.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/should-i-paint-kitchen-white-or-dark-color/">Dark vs. White: What to Paint Your Kitchen in 2025, According to Experts</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/should-i-paint-kitchen-white-or-dark-color/>
+
+---
+
+## Simple Strawberry Rhubarb Jam Recipe (No Pectin, Can or Freezer)
+
+date: 2025-06-12, from: Homestead and Chil
+
+<p>Come enjoy our delicious strawberry rhubarb jam recipe, perfect for canning or the freezer. Even though it's made without packaged pectin, this jam is still delectably thick!</p>
+<p>The post <a href="https://homesteadandchill.com/strawberry-rhubarb-jam-recipe-canning-freezer/">Simple Strawberry Rhubarb Jam Recipe (No Pectin, Can or Freezer)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/strawberry-rhubarb-jam-recipe-canning-freezer/>
 
 ---
 
@@ -18,6 +110,30 @@ The textural facade was inspired by the greenery of the surrounding landscape an
 <br> 
 
 <https://www.dwell.com/article/current-interests-leimert-park-adu-e194670c>
+
+---
+
+## This Former 1930s Hunting Lodge Was Updated for Family Living
+
+date: 2025-06-12, from: Sunset Magazine - Living in the West
+
+After big mold troubles caused a full remodel, the former hunting lodge is ready for its next act as a home to a family of 6. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/marin-county-hunting-lodge-makeover>
+
+---
+
+## Homepage 2025
+
+date: 2025-06-12, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -111,12 +227,12 @@ date: 2025-06-12, from: Yard Life blog
 
 ---
 
-## Are Pistachios Healthy? Yes, and Here’s Why They’re a Smart Snack
+## Are Pistachios Healthy? Here’s Why They’re a Smart Snack
 
 date: 2025-06-11, from: California Grown
 
-<p>The answer is yes — are pistachios healthy? Absolutely. Pistachios are definitely a healthy food choice. Let’s take a closer look at the many nutrition and health benefits of this powerful and appealing little nut. Are Pistachios Healthy for Plant-Based Protein? A 1-ounce serving of pistachios, about 49 nuts, contains 6 grams of high-quality, complete [&#8230;]</p>
-<p>The post <a href="https://californiagrown.org/blog/are-pistachios-healthy/" data-wpel-link="internal" target="_self">Are Pistachios Healthy? Yes, and Here’s Why They’re a Smart Snack</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+<p>If you are asking — are pistachios healthy? Absolutely. Pistachios are definitely a healthy food choice. Let’s take a closer look at the many nutrition and health benefits of this powerful and appealing little nut. Are Pistachios Healthy for Plant-Based Protein? A 1-ounce serving of pistachios, about 49 nuts, contains 6 grams of high-quality, complete [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/are-pistachios-healthy/" data-wpel-link="internal" target="_self">Are Pistachios Healthy? Here&#8217;s Why They&#8217;re a Smart Snack</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
  
 
 <br> 
@@ -289,18 +405,6 @@ From a bean bag chair nice enough to use indoors to a float with a sense of humo
 <br> 
 
 <https://www.dwell.com/article/summer-pool-essentials-floaties-speakers-outdoor-furniture-c1d9223e-e7f9f519>
-
----
-
-## Homepage 2025
-
-date: 2025-06-11, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -596,18 +700,6 @@ date: 2025-06-09, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/three-dots-back-of-ipad/>
-
----
-
-## This Former 1930s Hunting Lodge Was Updated for Family Living
-
-date: 2025-06-09, from: Sunset Magazine - Living in the West
-
-After big mold troubles caused a full remodel, the former hunting lodge is ready for its next act as a home to a family of 6. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/marin-county-hunting-lodge-makeover>
 
 ---
 

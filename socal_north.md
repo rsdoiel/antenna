@@ -1,15 +1,177 @@
 ---
 title: socal north
-updated: 2025-06-12 06:07:09
+updated: 2025-06-12 14:07:47
 ---
 
 # socal north
 
-(date: 2025-06-12 06:07:09)
+(date: 2025-06-12 14:07:47)
 
 ---
 
-## How accurate is LA’s annual homeless count? The answer is complicated
+## Downey church community on edge after masked, armed officers detain man on church property
+
+date: 2025-06-12, from: Longbeach Post
+
+<figure><img width="1024" height="768" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1024x768.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1024x768.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-300x225.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-768x576.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-144x108.webp 144w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1536x1152.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1200x900.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-800x600.webp 800w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-600x450.webp 600w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-400x300.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-200x150.webp 200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1568x1176.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9.webp 1760w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The pastors of Downey Memorial Christian Church say a man they believed to be an ICE agent pointed a gun at one of them and said "this whole country is our property."</p>
+<p>The post <a href="https://lbpost.com/news/downey-church-ice-immigration-raid-officers">Downey church community on edge after masked, armed officers detain man on church property</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/downey-church-ice-immigration-raid-officers>
+
+---
+
+## House votes to claw back $1.1 billion from public media
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+The U.S. House voted Thursday on a rescission bill to claw back money for foreign aid programs, along with two years of funding for the public media system. The measure now goes to the Senate. 
+
+<br> 
+
+<https://laist.com/news/house-votes-to-claw-back-1-1-billion-from-public-media>
+
+---
+
+## What are the 'No Kings' protests happening across SoCal this Saturday?
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+A series of demonstrations across the U.S. will take place on Saturday, including in many parts of the Los Angeles region. Here's what you need to know. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/no-kings-protests-socal-saturday-explainer>
+
+---
+
+## Protecting your home from disaster might not help you get insurance
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+Insurance costs are soaring, and coverage is hard to find in some parts of the United States. Communities say insurers are ignoring their efforts to confront the problem. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/protecting-your-home-from-disaster-might-not-help-you-get-insurance>
+
+---
+
+## Editor's note: The promise of — and risks to — LAist's future
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+At a time when many other Southern California newsrooms are retreating and shrinking, LAist’s journalism has never been stronger or more ambitious. 
+
+<br> 
+
+<https://laist.com/news/editors-note-the-promise-of-and-risks-to-laists-future>
+
+---
+
+## Sen. Alex Padilla forcibly removed from Homeland Security news conference and handcuffed
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+DHS Security Kristi Noem was giving a news conference when the senior senator from California tried to interrupt with questions. 
+
+<br> 
+
+<https://laist.com/news/politics/senator-alex-padilla-forcibly-removed-from-kristi-noems-news-conference>
+
+---
+
+## California voters passed a $6.4 billion mental health bond. Now, see where that money is going
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+It can take a long time to build anything in California, but. Gov. Gavin Newsom is trying to move fast on mental health housing projects. 
+
+<br> 
+
+<https://laist.com/news/health/california-voters-passed-a-6-4-billion-mental-health-bond-now-see-where-that-money-is-going>
+
+---
+
+## LA braces for Marines as California sues to stop military involvement
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+With the federalized National Guard deployed against the state's wishes and the Marines on the way to L.A., there are growing concerns about the policing role of the military. 
+
+<br> 
+
+<https://laist.com/news/politics/la-braces-for-marines-as-california-sues-to-stop-military-involvement>
+
+---
+
+## California library program that gives free access to state parks is at risk of disappearing
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+The latest state budget proposal puts the popular program giving thousands of library card holders free access to state parks on the chopping block. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/library-program-that-gives-free-access-to-state-parks-at-risk-of-disappearing>
+
+---
+
+## Can Trump deploy troops in LA? A federal judge hears Newsom’s case today
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+A hearing is scheduled today in San Francisco for a legal challenge Gov. Gavin Newsom and California Attorney General Rob Bonta filed against Trump. 
+
+<br> 
+
+<https://laist.com/news/can-trump-deploy-troops-in-la-a-federal-judge-hears-newsoms-case-today>
+
+---
+
+## Can Trump deploy troops in LA? A federal judge hears Newsom’s case today
+
+date: 2025-06-12, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX-1536x1025.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX-1568x1046.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>What the judge rules, and the likely appeals that follow, may alter decades of understanding about the roles of governors and the White House in quelling domestic unrest. </p>
+<p>The post <a href="https://lbpost.com/news/can-trump-deploy-troops-in-la-a-federal-judge-hears-newsoms-case-today">Can Trump deploy troops in LA? A federal judge hears Newsom’s case today</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/can-trump-deploy-troops-in-la-a-federal-judge-hears-newsoms-case-today>
+
+---
+
+## 3 tips from an expert on how to have satisfying sex as you age
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+We asked a sex and aging expert for tips on how to maintain a healthy and happy sex life later in life. Here's what she said. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/3-tips-from-an-expert-on-how-to-have-satisfying-sex-as-you-age>
+
+---
+
+## Best things to do this weekend in LA and SoCal: June 13 - 15
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+Check out Blue Note Jazz Fest, the best brunch spots to bring dad, Gabrielle Zevin, Downtown L.A. Dog Day and more of the best things to do this weekend. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-los-angeles-southern-california-june-13>
+
+---
+
+## Did a complicated 2024 homeless count lead to errors? Experts and some city officials think so
 
 date: 2025-06-12, updated: 2025-06-12, from: The LAist
 
@@ -17,7 +179,7 @@ An LAist analysis found tech problems and policy changes during the 2024 count r
 
 <br> 
 
-<https://laist.com/news/housing-homelessness/how-accurate-is-las-annual-homeless-count-the-answer-is-complicated>
+<https://laist.com/news/housing-homelessness/los-angeles-homeless-count-2024-accuracy-questions>
 
 ---
 
@@ -30,6 +192,18 @@ date: 2025-06-12, updated: 2025-06-12, from: The LAist
 <br> 
 
 <https://laist.com/news/veterans-react-to-marine-deployment-in-la>
+
+---
+
+## How accurate is LA’s annual homeless count? The answer is complicated
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+An LAist analysis found tech problems and policy changes during the 2024 count raise questions about a reported 10% downturn in unsheltered people in the city of Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/how-accurate-is-las-annual-homeless-count-the-answer-is-complicated>
 
 ---
 
@@ -105,13 +279,13 @@ Former Orange County Supervisor Andrew Do was sentenced this week to federal pri
 
 ---
 
-## 2 people seriously hurt, including a pedestrian, in rollover crash near Heartwell Park
+## 15-year-old sitting on bus bench killed when driver runs red light, Long Beach police say
 
 date: 2025-06-11, from: Longbeach Post
 
-<figure><img width="1024" height="663" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-1024x663.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-1024x663.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-300x194.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-768x497.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-167x108.jpg 167w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-1536x995.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-2048x1326.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-1200x777.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-1568x1015.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-400x259.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>A vehicle appeared to have ripped a bus bench from its foundation, leaving it tattered next to the telephone pole.</p>
-<p>The post <a href="https://lbpost.com/news/carson-palo-verda-crash-rollover-police">2 people seriously hurt, including a pedestrian, in rollover crash near Heartwell Park</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163739/dsc-8285-473959-jkvp1y2g-611386-kBiULnhk-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163739/dsc-8285-473959-jkvp1y2g-611386-kBiULnhk-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163739/dsc-8285-473959-jkvp1y2g-611386-kBiULnhk-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163739/dsc-8285-473959-jkvp1y2g-611386-kBiULnhk-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163739/dsc-8285-473959-jkvp1y2g-611386-kBiULnhk-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163739/dsc-8285-473959-jkvp1y2g-611386-kBiULnhk-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163739/dsc-8285-473959-jkvp1y2g-611386-kBiULnhk-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163739/dsc-8285-473959-jkvp1y2g-611386-kBiULnhk-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163739/dsc-8285-473959-jkvp1y2g-611386-kBiULnhk-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163739/dsc-8285-473959-jkvp1y2g-611386-kBiULnhk-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The car began skidding and overturned after a collision at Carson Street and Palo Verde Avenue, police said.</p>
+<p>The post <a href="https://lbpost.com/news/carson-palo-verda-crash-rollover-police">15-year-old sitting on bus bench killed when driver runs red light, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
 
 <br> 

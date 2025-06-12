@@ -1,11 +1,60 @@
 ---
 title: motorcycles
-updated: 2025-06-12 06:07:15
+updated: 2025-06-12 14:07:54
 ---
 
 # motorcycles
 
-(date: 2025-06-12 06:07:15)
+(date: 2025-06-12 14:07:54)
+
+---
+
+## INDYCAR Power Rankings: Kyle Kirkwood is the new ‘King of the Streets’
+
+date: 2025-06-12, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer We&#8217;re seven races into the 2025 INDYCAR season and just two drivers have won a race thus far: Alex Palou and Kyle Kirkwood. So it&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/indycar-power-rankings-kyle-kirkwood-is-the-new-king-of-the-streets/>
+
+---
+
+## Watch Ewan McGregor and Charley Boorman Play 'Guess That Bike?'
+
+date: 2025-06-12, from: Ride Apart, Electric Motorcycle News
+
+Only a true Jedi can answer these riddles by sound alone. 
+
+<br> 
+
+<https://www.rideapart.com/news/762466/ewan-mcgregor-charley-boorman-guess-that-bike-video/>
+
+---
+
+## The Replica Race Motorcycle Could Mean KTM Is Finally Getting Its Act Together
+
+date: 2025-06-12, from: Ride Apart, Electric Motorcycle News
+
+There’s no price yet, but the mere fact KTM launched this bike speaks volumes. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/762103/2026-ktm-rally-replica-specs-details-features/>
+
+---
+
+## This EV Motorcycle Startup Is Looking for Investors, and One Could Be You
+
+date: 2025-06-12, from: Ride Apart, Electric Motorcycle News
+
+It's a tough time to be an EV powersport startup, but this is a different way of approaching the problem. 
+
+<br> 
+
+<https://www.rideapart.com/news/762361/trevor-motorcycles-crowdfunding-campagin-ev/>
 
 ---
 
@@ -119,7 +168,7 @@ More than 100 miles of range is a lot for an urban utilitarian runabout.
 
 ---
 
-## Fancy Adaptive LED Headlights Are Coming to Motorcycles Now, Too
+## UPDATE: Fancy Adaptive LED Headlights Are Coming to Motorcycles Now, Too
 
 date: 2025-06-11, from: Ride Apart, Electric Motorcycle News
 

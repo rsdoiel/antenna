@@ -1,11 +1,63 @@
 ---
 title: writing
-updated: 2025-06-12 06:07:13
+updated: 2025-06-12 14:07:51
 ---
 
 # writing
 
-(date: 2025-06-12 06:07:13)
+(date: 2025-06-12 14:07:51)
+
+---
+
+## New Books Video for June 10th!
+
+date: 2025-06-12, from: Locus Magazine
+
+<p>Locus is back again with another weekly video on the top new releases for the week! We don&#8217;t want you to miss out on these fantastic books, so check us out as we go over the best of the best in the SF, Fantasy, Horror, and YA genres! We post weekly, so if you wanna keep up-to-date on future releases, and support what we do, consider subscribing to the channel!  <a href="https://locusmag.com/2025/06/new-books-video-for-june-10th/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/new-books-video-for-june-10th/>
+
+---
+
+## What Is a Pilot Episode and How to Write One
+
+date: 2025-06-12, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/what-is-a-pilot-episode" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Emilie%20de%20Ravin%2c%20Matthew%20Fox%2c%20and%20Jorge%20Garcia%20in%20Lost.png" alt="Matthew Fox and Jorge Garcia help Emilie de Ravin up from the plane crash debris in LOST" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>We are currently living through a new Golden Age of television, which, over the last twenty-five years, has expanded from the major network television platform (ABC, CBS, NBC, and Fox) to the addition of cable television (HBO, Showtime, AMC, FX, etc.), and into the current expansion of streamers (Amazon Prime, Hulu, Netflix, Apple TV, etc.). That’s three platforms dedicated to episodic storytelling, amounting to hundreds upon hundreds of current TV shows — with thousands of series that came and went before them. &nbsp;<br><br>And all of them started with one particular type of episode — a <span style="font-weight: bold;">TV pilot</span>.&nbsp;<br><br>If you want to break into television writing, you first need to know and understand:</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/what-is-a-pilot-episode>
+
+---
+
+## They Bloom at Night by Trang Thanh Tran: Review by Colleen Mondor
+
+date: 2025-06-12, from: Locus Magazine
+
+<p><strong>They Bloom at Night</strong>, Trang Thanh Tran (Bloomsbury US 978-1-547-61111-9, $19.99, 288pp, hc) March 2025.</p>
+<p><strong>They Bloom at Night </strong>by Trang Thanh Tran is a near-future horror/murder mystery/dark fantasy that includes everything from monster fish to environmental calamity to a very human terror who will be all too familiar in his insatiable need to hurt those around him. As the novel opens, it’s been almost two years since Hurricane  <a href="https://locusmag.com/2025/06/they-bloom-at-night-by-trang-thanh-tran-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/they-bloom-at-night-by-trang-thanh-tran-review-by-colleen-mondor/>
+
+---
+
+## Authors Alliance at ALA 2025
+
+date: 2025-06-12, from: Author's Union blog
+
+We’re excited to announce that Authors Alliance will be at ALA this year in Philadelphia. Stop by our table to [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/06/12/authors-alliance-at-ala-2025/>
 
 ---
 
@@ -177,6 +229,27 @@ date: 2025-06-09, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/06/2025-ignyte-awards-finalists/>
+
+---
+
+## 2024 Shirley Jackson Awards Nominees
+
+date: 2025-06-09, from: Locus Magazine
+
+<p>The 2024 Shirley Jackson Awards nominees for outstanding achievement in horror, psychological suspense, and dark fantasy fiction have been announced.</p>
+<div class="mynomorebulletlist">
+<p><strong>Novel</strong></p>
+<ul>
+<li><strong>Smothermoss</strong>, Alisa Alering (Tin House)</li>
+<li><strong>Curdle Creek</strong>, Yvonne Battle-Felton (Henry Holt &#38; Co.)</li>
+<li><strong>The House of Last Resort</strong>, Christopher Golden (St. Martin&#8217;s US; Titan UK)</li>
+<li><strong>The Eyes Are the Best Part</strong>, Monika Kim (Erewhon)</li>
+<li><strong>The Haunting of Velkwood</strong>, Gwendolyn Kiste (Saga)</li>
+<li><strong>Eynhallow</strong>, Tim </li></ul></div> <a href="https://locusmag.com/2025/06/2024-shirley-jackson-awards-nominees/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/06/2024-shirley-jackson-awards-nominees/>
 
 ---
 

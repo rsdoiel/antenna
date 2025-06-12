@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-06-12 06:07:16
+updated: 2025-06-12 14:07:55
 ---
 
 # retro computing
 
-(date: 2025-06-12 06:07:16)
+(date: 2025-06-12 14:07:55)
+
+---
+
+## Linux Mint 20 Reaches EOL
+
+date: 2025-06-12, from: Linux Magazine
+
+<p>With Linux Mint 20 at its end of life, the time has arrived to upgrade to Linux Mint 22.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Linux-Mint-20-Reaches-EOL>
 
 ---
 

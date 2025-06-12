@@ -1,11 +1,262 @@
 ---
 title: snapshots
-updated: 2025-06-12 06:07:19
+updated: 2025-06-12 14:07:58
 ---
 
 # snapshots
 
-(date: 2025-06-12 06:07:19)
+(date: 2025-06-12 14:07:58)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-12, from: Dave Winer's linkblog)
+
+If you haven&#39;t heard Governor Newsom&#39;s speech, it&#39;s 8 minutes long and he nails it. 
+
+<br> 
+
+<https://www.youtube.com/watch?v=pXQQNUeb4Sw>
+
+---
+
+## Lilbits: Android Open Source Project isn’t dead, Nothing Phone (3) will be available in the US, and a tiny new RISC-V board
+
+date: 2025-06-12, from: Liliputing
+
+<p>Earlier this year Google revealed that while it will continue to support the Android Open Source Project by releasing source code for each new build of the operating system, the actual development would start taking place in private. So when the company released Android 16 this week and some people noticed that Google was had [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-android-open-source-project-isnt-dead-nothing-phone-3-will-be-available-in-the-us-and-a-tiny-new-risc-v-board/">Lilbits: Android Open Source Project isn&#8217;t dead, Nothing Phone (3) will be available in the US, and a tiny new RISC-V board</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-android-open-source-project-isnt-dead-nothing-phone-3-will-be-available-in-the-us-and-a-tiny-new-risc-v-board/>
+
+---
+
+## ONEXPLAYER X1 Mini handheld gaming PC now available with an AMD Ryzen AI 9 HX 370 Strix Point processor
+
+date: 2025-06-12, from: Liliputing
+
+<p>The ONEXPLAYER X1 Mini is a handheld gaming PC with an 8.8 inch, 2560 x 1600 pixel, 144 Hz display, a pair of detachable controllers, and an AMD Ryzen processor. When it first launched a year ago as a slightly smaller alternative to the 10.95 inch ONEXPLAYER X1, the &#8220;mini&#8221; was powered by an AMD Ryzen [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/onexplayer-x1-mini-handheld-gaming-pc-now-available-with-an-amd-ryzen-ai-9-hx-370-strix-point-processor/">ONEXPLAYER X1 Mini handheld gaming PC now available with an AMD Ryzen AI 9 HX 370 Strix Point processor</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/onexplayer-x1-mini-handheld-gaming-pc-now-available-with-an-amd-ryzen-ai-9-hx-370-strix-point-processor/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-12, from: Dave Winer's linkblog)
+
+Troops and marines deeply troubled by LA deployment: ‘Morale is not great’ | Los Angeles Ice protests. 
+
+<br> 
+
+<https://www.theguardian.com/us-news/2025/jun/12/los-angeles-national-guard-troops-marines-morale>
+
+---
+
+## Emmys 2025: FYC – actriz de reparto, comedia: Lou de Laâge – Étoile
+
+date: 2025-06-12, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Los Premios Emmy, el máximo reconocimiento de la industria de la televisión, es un escenario en donde se han distinguido algunas de las actuaciones más memorables de los últimos años y que podemos disfrutar en la pantalla chica. Cada año destacan aquellas interpretaciones que han dejado huella en el público y la crítica. Ya presentamos [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/emmys-2025-fyc-actriz-de-reparto-comedia-lou-de-laage-etoile/">Emmys 2025: FYC – actriz de reparto, comedia: Lou de Laâge – Étoile</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/emmys-2025-fyc-actriz-de-reparto-comedia-lou-de-laage-etoile/?utm_source=rss&utm_medium=rss&utm_campaign=emmys-2025-fyc-actriz-de-reparto-comedia-lou-de-laage-etoile>
+
+---
+
+## Peter Easthope closed issue #155: In Oberon subsystem, Clipboard operations fail. at Felix Oliver Friedrich / Oberon A2
+
+date: 2025-06-12, updated: 2025-06-12, from: Oberon A2 repository
+
+
+<p dir="auto">In the Oberon subsystem, Clipboard.Cut and Clipboard.Copy have no apparent effect.  Clipboard.Paste freezes A2.</p>
+<p dir="auto">Regards,         ... Peter E.</p>
+ 
+
+<br> 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/155>
+
+---
+
+## Peter Easthope commented on issue #155 at Felix Oliver Friedrich / Oberon A2
+
+date: 2025-06-12, updated: 2025-06-12, from: Oberon A2 repository
+
+
+<p data-sourcepos="1:1-2:15" dir="auto">Thanks Necati.  With your revision, Cut, Copy and Paste worked in
+my brief tests.</p>
+<p data-sourcepos="4:1-5:52" dir="auto">My sketchy understanding is only that Machine.Acquire and Release
+are needed to fit an Oberon task into the A2 system.</p>
+<p data-sourcepos="7:1-7:28" dir="auto">Thanks again,       ... P.L.</p>
+ 
+
+<br> 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/155#note_235358>
+
+---
+
+## JSAUX FlipGo Horizon gives your laptop two extra screens that work in landscape or portrait mode (crowdfunding)
+
+date: 2025-06-12, from: Liliputing
+
+<p>After introducing the FlipGo and FlipGo Lite dual-screen portable monitors in 2024, JSAUX  is back with a new FlipGo Horizon. Like its predecessors, this new accessory lets you turn a laptop until a triple-display workstation. But thanks to a new design, it allows you to position the screens to the left and right of your [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/jsaux-flipgo-horizon-gives-your-laptop-two-extra-screens-that-work-in-landscape-or-portrait-mode-crowdfunding/">JSAUX FlipGo Horizon gives your laptop two extra screens that work in landscape or portrait mode (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/jsaux-flipgo-horizon-gives-your-laptop-two-extra-screens-that-work-in-landscape-or-portrait-mode-crowdfunding/>
+
+---
+
+## ‘How come I can’t breathe?': Musk’s data company draws a backlash in Memphis
+
+date: 2025-06-12, updated: 2025-06-12, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.politico.com/news/2025/05/06/elon-musk-xai-memphis-gas-turbines-air-pollution-permits-00317582">‘How come I can’t breathe?&#x27;: Musk’s data company draws a backlash in Memphis</a></strong></p>
+The biggest environmental scandal in AI right now should be the xAI data center in Memphis, which has been running for nearly a year on 35 methane gas turbines under a "temporary" basis:</p>
+<blockquote>
+<p>The turbines are only temporary and don’t require federal permits for their emissions of NOx and other hazardous air pollutants like formaldehyde, xAI’s environmental consultant, Shannon Lynn, said during a webinar hosted by the Memphis Chamber of Commerce. [...]</p>
+<p>In the webinar, Lynn said xAI did not need air permits for 35 turbines already onsite because “there’s rules that say temporary sources can be in place for up to 364 days a year. They are not subject to permitting requirements.”</p>
+</blockquote>
+<p>Here's the even more frustrating part: those turbines have not been equipped with "selective catalytic reduction pollution controls" that reduce NOx emissions from 9 parts per million to 2 parts per million. xAI plan to start using those devices only once air permits are approved.</p>
+<p>I would be very interested to hear their justification for <em>not</em> installing that equipment from the start.</p>
+<p>The Guardian have <a href="https://www.theguardian.com/technology/2025/apr/24/elon-musk-xai-memphis">more on this story</a>, including thermal images showing 33 of those turbines emitting heat despite the mayor of Memphis claiming that only 15 were in active use.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-energy-usage">ai-energy-usage</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/12/xai-data-center/#atom-everything>
+
+---
+
+## The World’s Highest Defibrillator Saves a Life
+
+date: 2025-06-12, updated: 2025-06-12, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/06/12/the-worlds-highest-defibrillator-saves-a-life/>
+
+---
+
+## Acquired's Success Secret
+
+date: 2025-06-12, from: Guy Kawasaki blog
+
+Ben Gilbert's quality approach. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/acquireds-success-secret>
+
+---
+
+## Agentic Coding Recommendations
+
+date: 2025-06-12, updated: 2025-06-12, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://lucumr.pocoo.org/2025/6/12/agentic-coding/">Agentic Coding Recommendations</a></strong></p>
+There's a ton of actionable advice on using Claude Code in this new piece from Armin Ronacher. He's getting excellent results from Go, especially having invested a bunch of work in making the various tools (linters, tests, logs, development servers etc) as accessible as possible through documenting them in a Makefile.</p>
+<p>I liked this tip on logging:</p>
+<blockquote>
+<p>In general logging is super important. For instance my app currently has a sign in and register flow that sends an email to the user. In debug mode (which the agent runs in), the email is just logged to stdout. This is crucial! It allows the agent to complete a full sign-in with a remote controlled browser without extra assistance. It knows that emails are being logged thanks to a <code>CLAUDE.md</code> instruction and it automatically consults the log for the necessary link to click.</p>
+</blockquote>
+<p>Armin also recently shared a <a href="https://www.youtube.com/watch?v=sQYXZCUvpIc">half hour YouTube video</a> in which he worked with Claude Code to resolve two medium complexity issues in his <code>minijinja</code> Rust templating library, resulting in <a href="https://github.com/mitsuhiko/minijinja/pull/805">PR #805</a> and <a href="https://github.com/mitsuhiko/minijinja/pull/804">PR #804</a>.
+
+    <p><small></small>Via <a href="https://bsky.app/profile/mitsuhiko.at/post/3lrfld3r74k2e">@mitsuhiko.at</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/go">go</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/rust">rust</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/armin-ronacher">armin-ronacher</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/12/agentic-coding-recommendations/#atom-everything>
+
+---
+
+## FICUNAM 15: día 3
+
+date: 2025-06-12, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Un lugar más grande (Dir. Nicolás Défossé) Sección: Ahora México Excelente documental de cámara en mano y sin otro adorno más que sus sujetos, en este caso el ejido de Tila en Chiapas, de mayoría indígena ch’ol, cuyos habitantes decidieron derrocar el gobierno político municipal. Desde 2015, se gobiernan de acuerdo con usos y costumbres, [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/ficunam-15-dia-3/">FICUNAM 15: día 3</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/ficunam-15-dia-3/?utm_source=rss&utm_medium=rss&utm_campaign=ficunam-15-dia-3>
+
+---
+
+## Ramblin’ Rod
+
+date: 2025-06-12, from: Cobel Sasser's blog
+
+Long ago, I was in the studio audience of a local PDX TV kids show called Ramblin&#8217; Rod. “Local kids show” is a format that is completely lost to time, which is pretty wild, because it was such a thing. Think Krusty the Clown —&#160;kids sitting in a studio, a goofball host, time filled with [&#8230;] 
+
+<br> 
+
+<https://cabel.com/2025/06/12/ramblin-rod/>
+
+---
+
+## Humans Have Now Seen the Dawn of Time from Earth After Breakthrough
+
+date: 2025-06-12, from: 404 Media Group
+
+Telescopes perched on the Andes Mountains glimpsed elusive encounters fueled by the first of the first stars in the universe more than 13 billion years ago. 
+
+<br> 
+
+<https://www.404media.co/humans-have-now-seen-the-dawn-of-time-from-earth-after-breakthrough/>
+
+---
+
+## You know you’re in a different world when…
+
+date: 2025-06-12, from: Status-Q blog
+
+You can be confident that you are no longer in land-locked Cambridgeshire&#8230; when you pop to the nearest recycling bins, and there are three: one for glass, one for aluminium, and one for fishing nets. I&#8217;ve spent the last week or so sailing around the Aegean in my friend Philip&#8217;s 32-foot boat. I&#8217;ve done this <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/06/12/13160/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<br> 
+
+<https://statusq.org/archives/2025/06/12/13160/>
+
+---
+
+## Authors Alliance at ALA 2025
+
+date: 2025-06-12, from: Authors Union blogs
+
+We’re excited to announce that Authors Alliance will be at ALA this year in Philadelphia. Stop by our table to [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/06/12/authors-alliance-at-ala-2025/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-12, from: Dave Winer's linkblog)
+
+&quot;An attempt to end politics as we know it, to deploy force to suppress dissent. Not eventually, but right now.&quot; 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/this-is-not-a-drill>
 
 ---
 
@@ -28,18 +279,6 @@ More MCP fun: Claude talks with ChatGPT.
 <br> 
 
 <https://val.demar.in/2025/06/more-mcp-fun-claude-talks-with-chatgpt/>
-
----
-
-## This Is Not a Drill
-
-date: 2025-06-12, from: Paul Krugman
-
-American democracy is on the line right now 
-
-<br> 
-
-<https://paulkrugman.substack.com/p/this-is-not-a-drill>
 
 ---
 
@@ -1626,6 +1865,7 @@ Noteworthy because OpenAI revenue is a useful indicator of the direction of the 
 <p>OpenAI has hit $10 billion in annual recurring revenue less than three years after launching its popular ChatGPT chatbot.</p>
 <p>The figure includes sales  from the company’s consumer products, ChatGPT business products and its application programming interface, or API. It excludes licensing revenue from Microsoft and large one-time deals, according to an OpenAI spokesperson.</p>
 <p>For all of last year, OpenAI was around $5.5 billion in ARR. [...]</p>
+<p>As of late March, OpenAI said it supports 500 million weekly active users. The company announced earlier this month that it has three million paying business users, up from the two million it reported in February.</p>
 </blockquote>
 <p>So these new numbers represent nearly double the ARR figures for last year.
 

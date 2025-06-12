@@ -1,11 +1,95 @@
 ---
 title: ham radio
-updated: 2025-06-12 06:07:11
+updated: 2025-06-12 14:07:48
 ---
 
 # ham radio
 
-(date: 2025-06-12 06:07:11)
+(date: 2025-06-12 14:07:48)
+
+---
+
+## Altum amps speed RF design with Quantic blocks
+
+date: 2025-06-12, from: EDN Blog
+
+<img width="700" height="397" src="https://www.edn.com/wp-content/uploads/Quantic-Altum-X-MWblocks.jpg?fit=700%2C397" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Quantic-Altum-X-MWblocks.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Quantic-Altum-X-MWblocks.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Altum RF’s MMIC amplifiers are now part of Quantic’s plug-and-play X-MWblocks, enabling seamless integration into RF designs.</p>
+<p>The post <a href="https://www.edn.com/altum-amps-speed-rf-design-with-quantic-blocks/">Altum amps speed RF design with Quantic blocks</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/altum-amps-speed-rf-design-with-quantic-blocks/>
+
+---
+
+## Amp elevates K-band throughput for LEO sats
+
+date: 2025-06-12, from: EDN Blog
+
+<img width="800" height="440" src="https://www.edn.com/wp-content/uploads/Qorvo-QPA1722.jpg?fit=800%2C440" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Qorvo-QPA1722.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Qorvo-QPA1722.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Qorvo-QPA1722.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Expanding Qorvo’s GaN-on-SiC SATCOM portfolio, the QPA1722 K-band power amplifier improves Low Earth Orbit (LEO) satellite performance.</p>
+<p>The post <a href="https://www.edn.com/amp-elevates-k-band-throughput-for-leo-sats/">Amp elevates K-band throughput for LEO sats</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/amp-elevates-k-band-throughput-for-leo-sats/>
+
+---
+
+## Simultaneous sweep boosts multi-VNA test speed
+
+date: 2025-06-12, from: EDN Blog
+
+<img width="700" height="465" src="https://www.edn.com/wp-content/uploads/Anritsu-MS46131A.jpg?fit=700%2C465" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Anritsu-MS46131A.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Anritsu-MS46131A.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>Anritsu has added a simultaneous sweep feature to its ShockLine MS46131A 1-port vector network analyzer (VNA), which operates up to 43.5 GHz.</p>
+<p>The post <a href="https://www.edn.com/simultaneous-sweep-boosts-multi-vna-test-speed/">Simultaneous sweep boosts multi-VNA test speed</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/simultaneous-sweep-boosts-multi-vna-test-speed/>
+
+---
+
+## Eval board eases battery motor-drive design
+
+date: 2025-06-12, from: EDN Blog
+
+<img width="700" height="436" src="https://www.edn.com/wp-content/uploads/EPC-EPC9196.jpg?fit=700%2C436" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/EPC-EPC9196.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/EPC-EPC9196.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>Powered by an eGaN FET, EPC’s EPC9196 is a 25-A RMS, 3-phase BLDC inverter optimized for 96-V to 150-V battery systems.</p>
+<p>The post <a href="https://www.edn.com/eval-board-eases-battery-motor-drive-design/">Eval board eases battery motor-drive design</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/eval-board-eases-battery-motor-drive-design/>
+
+---
+
+## MCUs enable USB-C Rev 2.4 designs
+
+date: 2025-06-12, from: EDN Blog
+
+<img width="800" height="471" src="https://www.edn.com/wp-content/uploads/Renesas-RA2L2.jpg?fit=800%2C471" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Renesas-RA2L2.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Renesas-RA2L2.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Renesas-RA2L2.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Renesas offers one of the first microcontroller families to support USB-C Revision 2.4 with its RA2L2 group of low-power Arm Cortex-M23 MCUs.</p>
+<p>The post <a href="https://www.edn.com/mcus-enable-usb-c-rev-2-4-designs/">MCUs enable USB-C Rev 2.4 designs</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/mcus-enable-usb-c-rev-2-4-designs/>
+
+---
+
+## The 2025 WWDC: From Intel, Apple’s Nearly Free, and the New Interfaces Are…More Shiny?
+
+date: 2025-06-12, from: EDN Blog
+
+<img width="2524" height="740" src="https://www.edn.com/wp-content/uploads/Feature-image_WWDC-2025.jpg?fit=2524%2C740" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Feature-image_WWDC-2025.jpg?w=2524 2524w, https://www.edn.com/wp-content/uploads/Feature-image_WWDC-2025.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Feature-image_WWDC-2025.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Feature-image_WWDC-2025.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Feature-image_WWDC-2025.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Feature-image_WWDC-2025.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Feature-image_WWDC-2025.jpg?w=1900 1900w" sizes="auto, (max-width: 2524px) 100vw, 2524px" /><p>This was a notably more subdued developer conference, which isn’t necessarily a bad thing given the recent-history hype-to-reality ratio.</p>
+<p>The post <a href="https://www.edn.com/the-2025-wwdc-from-intel-apples-nearly-free-and-the-new-interfaces-aremore-shiny/">The 2025 WWDC: From Intel, Apple’s Nearly Free, and the New Interfaces Are…More Shiny?</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/the-2025-wwdc-from-intel-apples-nearly-free-and-the-new-interfaces-aremore-shiny/>
 
 ---
 
@@ -13,7 +97,7 @@ updated: 2025-06-12 06:07:11
 
 date: 2025-06-11, from: EDN Blog
 
-<img width="780" height="650" src="https://www.edn.com/wp-content/uploads/TwoWayWIlson_Figure3.png?fit=780%2C650" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/TwoWayWIlson_Figure3.png?w=780 780w, https://www.edn.com/wp-content/uploads/TwoWayWIlson_Figure3.png?w=300 300w, https://www.edn.com/wp-content/uploads/TwoWayWIlson_Figure3.png?w=768 768w" sizes="(max-width: 780px) 100vw, 780px" /><p>A two-way current mirror with an added Wilson enhancement that allows it to work more accurately at higher voltages. </p>
+<img width="780" height="650" src="https://www.edn.com/wp-content/uploads/TwoWayWIlson_Figure3.png?fit=780%2C650" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/TwoWayWIlson_Figure3.png?w=780 780w, https://www.edn.com/wp-content/uploads/TwoWayWIlson_Figure3.png?w=300 300w, https://www.edn.com/wp-content/uploads/TwoWayWIlson_Figure3.png?w=768 768w" sizes="auto, (max-width: 780px) 100vw, 780px" /><p>A two-way current mirror with an added Wilson enhancement that allows it to work more accurately at higher voltages. </p>
 <p>The post <a href="https://www.edn.com/a-two-way-wilson-current-mirror/">A two-way Wilson current mirror</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

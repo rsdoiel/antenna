@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-06-12 06:07:13
+updated: 2025-06-12 14:07:51
 ---
 
 # games
 
-(date: 2025-06-12 06:07:13)
+(date: 2025-06-12 14:07:51)
+
+---
+
+## How to repair vehicles, items, and buildings in Dune: Awakening
+
+date: 2025-06-12, updated: 2025-06-12, from: Polygon Website
+
+Dune: Awakening&#8216;s repair feature isn&#8217;t just a convenient way to keep your favorite piece of kit lasting longer. It&#8217;s essential once you progress further on Arrakis and run into more dangers and harsh environments beyond the Hagga Basin. It&#8217;s also an easy way to revamp old materials you scavenge and use them for construction or [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dune-awakening-guides/606688/repair-how-to-vehicles-items-buildings>
+
+---
+
+## The Last of Us season 2 writer says ridiculed ‘dad’ line just popped into his head
+
+date: 2025-06-12, updated: 2025-06-12, from: Polygon Website
+
+There are no shortage of reasons why The Last of Us season 2 has proven controversial, but many of those criticisms have a common root: the script. As dissatisfied fans tell it, the protagonist of the show is an immature and incompetent interpretation of Ellie, the character portrayed in the Naughty Dog games. There’s one [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/last-of-us/606673/ellie-im-going-to-be-a-dad-tlou-season-2-line-mazin>
+
+---
+
+## How to fix the broken battery charge indicator on the Switch 2
+
+date: 2025-06-12, updated: 2025-06-12, from: Polygon Website
+
+Fix the broken battery charge indicator on your Switch 2, and you won’t have to worry so much about battery life anymore — because that worry might not be informed by accurate readouts. As of this writing, the Nintendo Switch 2 suffers from a bug that alters its battery life information, resulting in an empty [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/606638/battery-charge-indicator-broken-how-to-fix>
+
+---
+
+## Mindseye’s attempt at damage control just made the mess worse
+
+date: 2025-06-12, updated: 2025-06-12, from: Polygon Website
+
+When a new game is released, it’s typical for publishers to partner with gaming personalities to promote their game. Mindseye, the debut narrative game by the studio formed by the ex-president of Rockstar North, Leslie Benzies, was no different in this regard — Twitch streamers teased playthroughs on social media for launch day, June 10. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/606496/mindseye-twitch-youtube-stream-cancel-glitches>
+
+---
+
+## Silent Hill f devs want you to ‘find the beauty in terror’
+
+date: 2025-06-12, updated: 2025-06-12, from: Polygon Website
+
+Silent Hill fans just got a peek behind the scenes of the next title in the iconic horror franchise, Silent Hill f, via Konami&#8217;s Press Start livestream on Thursday, during which the game’s developers provided a detailed look at the major theme of the game: beauty in terror. “The setting of Silent Hill f has [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/606571/silent-hill-f-konami-gameplay-beauty-in-terror>
+
+---
+
+## Dave Bautista is making a game and cartoon about a Cat Assassin
+
+date: 2025-06-12, updated: 2025-06-12, from: Polygon Website
+
+Actor-producer Dave Bautista (Blade Runner 2049, Guardians of the Galaxy) and developer Titan1Studios have announced a major partnership to launch the multimedia Cat Assassin franchise that includes an animated series, publishing efforts, and a stealth-action video game already in development. Created by Steve Lerner, the mind behind hit games Stray and Twelve Minutes, Cat Assassin is set in a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/606597/dave-bautista-cat-assassin-announcement>
+
+---
+
+## Silent Hill remake from Bloober Team and Konami announced
+
+date: 2025-06-12, updated: 2025-06-12, from: Polygon Website
+
+After successfully remaking Konami’s psychological survival horror classic Silent Hill 2, developer Bloober Team is moving on to its predecessor. Konami announced Thursday at its Press Start games showcase that Bloober Team is now developing Silent Hill, a remake of the first game in the franchise. The announcement was light on details. It merely featured [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/606592/silent-hill-remake-bloober-team-konami>
+
+---
+
+## Metal Gear Solid Delta trailer shows off Fox Hunt multiplayer mode, Ape Escape, boss battles, and more
+
+date: 2025-06-12, updated: 2025-06-12, from: Polygon Website
+
+Konami shared a new Metal Gear Solid Delta: Snake Eater gameplay trailer during its Press Start news event on Thursday, revealing that the series is returning to multiplayer with a new game mode called Fox Hunt. The new teaser showed a soldier character controlled from a third-person POV, blending elements found in the base game [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/606577/metal-gear-solid-delta-trailer-fox-hunt-multiplayer-mode>
 
 ---
 

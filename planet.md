@@ -1,19 +1,239 @@
 ---
 title: planet
-updated: 2025-06-12 06:07:08
+updated: 2025-06-12 14:07:45
 ---
 
 # planet
 
-(date: 2025-06-12 06:07:08)
+(date: 2025-06-12 14:07:45)
 
 ---
 
-## Phone pouch funding to include other 'storage solutions'
+## Cross-border bridge to be finished on time - contractors
 
 date: 2025-06-12, from: RTÉ News
 
-The Government has said €9 million in funding for mobile phone pouches for secondary schools will now also fund other phone storage solutions. 
+The contractors involved in the construction of the Narrow Water Bridge have confirmed that the project is on course to be delivered on time and within budget. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0612/1518199-bridge-contractors/>
+
+---
+
+## Hosepipe ban extended until August in three areas
+
+date: 2025-06-12, from: RTÉ News
+
+The hosepipe ban which has been in place in Mullingar, Co Westmeath, Milford in Co Donegal and the Kells/Oldcastle areas of Co Meath since early May has been extended by another seven weeks. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0612/1518198-hosepipe-ban/>
+
+---
+
+## US senator manhandled at US official's press conference
+
+date: 2025-06-12, from: RTÉ News
+
+A US senator from California was forcibly removed after interrupting a press conference being held by the US homeland security chief Kristi Noem. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0612/1518193-us-senator-handcuffed/>
+
+---
+
+## What we know after the Air India plane crash
+
+date: 2025-06-12, from: RTÉ News
+
+Only one passenger has survived after an Air India plane bound for Gatwick Airport crashed shortly after take-off in India. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0612/1518179-whatweknow-air-india/>
+
+---
+
+## BAM Ireland 'understand frustrations' on NCH delays
+
+date: 2025-06-12, from: RTÉ News
+
+The executive director of BAM Ireland, the contractor involved in the construction of the new National Children's Hospital in Dublin, has said he can understand people's frustrations surrounding the delays the project has faced. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0612/1518176-bam-director-nch/>
+
+---
+
+## Judge declares mistrial on Harvey Weinstein rape charge
+
+date: 2025-06-12, from: RTÉ News
+
+The judge overseeing Harvey Weinstein's criminal case in Manhattan has declared a mistrial on a rape charge, one day after the former Hollywood movie mogul was convicted on a felony sex abuse charge. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0612/1518173-harvey-weinstein-mistrial/>
+
+---
+
+## With Pope Leo Vatican solidarity with Ukraine continues
+
+date: 2025-06-12, from: Vatican News
+
+
+                    <p>A truck loaded with humanitarian aid has arrived in Kharkiv, one of the Ukrainian cities most severely affected by recent Russian attacks. The Papal Almoner reaffirms the unwavering commitment of the Holy See to bring the Pope’s charity to those in need.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/aid-solidarity-krajewski-papal-almoner-ukraine.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/aid-solidarity-krajewski-papal-almoner-ukraine.html>
+
+---
+
+## British man 'fine' after surviving India crash - family
+
+date: 2025-06-12, from: RTÉ News
+
+One British passenger has survived a crash involving a London-bound plane which crashed shortly after take-off in India. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0612/1518167-india-british-survivor/>
+
+---
+
+## How a Northern Irish town descended into 3 days of anti-immigrant violence
+
+date: 2025-06-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7558902.1749681344!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ballymena-car-burning.JPG' alt='A car burns as police stand nearby. ' width='620' height='349' title='A car burns in the streets of Ballymena in Northern Ireland after riots erupt. '/><p>Protests in the small Northern Irish town of Ballymena spiralled into acts of anti-immigrant violence this week after two teenagers who spoke Romanian were charged with sexually assaulting a local girl. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/north-ireland-riots-1.7558861?cmp=rss>
+
+---
+
+## RTÉ seeks expressions of interest for presenter roles
+
+date: 2025-06-12, from: RTÉ News
+
+RTÉ has advertised an open internal and external 'expressions of interest' process for on-air presenters across RTÉ Radio 1 and News and Current Affairs. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0612/1518163-rte-radio-presenter-call-out/>
+
+---
+
+## Puska family trial jury to resume deliberations tomorrow
+
+date: 2025-06-12, from: RTÉ News
+
+The jury in the trial of Jozef Puska's brothers and sisters in law over their actions following the murder of teacher, Ashling Murphy, in 2022, will resume its deliberations tomorrow. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0612/1518160-puska-family-trial/>
+
+---
+
+## Rev Trevor Gribben becomes Presbyterian Church Moderator
+
+date: 2025-06-12, from: RTÉ News
+
+The new Moderator of the Presbyterian Church in Ireland (PCI) has completed his first general assembly, during which he was formally installed to the highest office in the church. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0612/1518158-presbyterian-church-gribben/>
+
+---
+
+## Government intends to change defamation laws in this term
+
+date: 2025-06-12, from: RTÉ News
+
+Taoiseach Micheál Martin has said that the Government intends to change Irish defamation laws. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0612/1518153-taoiseach-defamation/>
+
+---
+
+## Egypt deports dozens due to attend march to Gaza
+
+date: 2025-06-12, from: RTÉ News
+
+Egyptian authorities have deported dozens of foreign nationals who arrived in Egypt to take part in a pro-Palestinian march and dozens more face deportation, according to the organisers, as well as airport and security sources. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0612/1518152-gaza-march-egypt/>
+
+---
+
+## Dáil hears calls for nursing home staff investigation
+
+date: 2025-06-12, from: RTÉ News
+
+The Tánaiste has told the Dáil he believes that staff filmed by undercover care workers as part of the RTÉ Investigates nursing homes exposé should be referred to An Garda Síochána for what he described as "physical assault". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0612/1518149-nursing-homes-latest/>
+
+---
+
+## Man accused of plotting NYC Jewish centre 'slaughter' while in Ontario pleads not guilty
+
+date: 2025-06-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7324880.1737125615!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/muhammad-shahzeb-khan.jpg' alt='A photo of a young man in a black shirt.' width='620' height='349' title='RCMP took this picture of Muhammad Shahzeb Khan after his arrest in Ormstown, Que. on Sept. 4, 2024.'/><p>An alleged ISIS supporter who came to Ontario on a study permit has pleaded not guilty to terrorism charges in New York, amid allegations he planned a shooting rampage at a Jewish centre in Brooklyn. Muhammad Shahzeb Khan, 20, was arraigned after he was extradited this week to the U.S. from Canada.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/toronto/muhammad-shahzeb-khan-not-guilty-plea-1.7559505?cmp=rss>
+
+---
+
+## Drogheda to be expelled from Conference League by UEFA
+
+date: 2025-06-12, from: RTÉ News
+
+Drogheda United have confirmed that they will not be allowed compete in the UEFA Conference League due to ownership rules and are now taking the case to the Court of Arbitration for Sport. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0612/1518138-drogheda-to-be-expelled-from-conference-league-by-uefa/>
+
+---
+
+## 'It scared me' - Olympic swimmer describes Larne terror
+
+date: 2025-06-12, from: RTÉ News
+
+Two-time Irish Olympic swimmer Danielle Hill has told of her terror as she was confronted by masked men who attacked Larne Leisure Centre last night while she was coaching children. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0612/1518137-larne-danielle/>
+
+---
+
+## Govt accused of 'screeching U-turn' on phone pouches
+
+date: 2025-06-12, from: RTÉ News
+
+The Government has been accused of "a screeching U-turn" on phone pouches by the Social Democrats. 
 
 <br> 
 
@@ -65,11 +285,11 @@ date: 2025-06-12, from: Vatican News
 
 ---
 
-## Los Angeles 'safe and sound for last two nights' - Trump
+## US marines prepare for LA deployment as protests spread
 
 date: 2025-06-12, from: RTÉ News
 
-Los Angeles "was safe and sound for the last two nights", US President Donald Trump has said, as he hailed troops for helping to restore order in the city after days of anti-deportation protests. 
+California will face off with the Trump administration in court over the deployment of US troops in Los Angeles after demonstrators again took to the streets in major cities to protest President Donald Trump's immigration crackdown. 
 
 <br> 
 
@@ -113,6 +333,114 @@ With 13.5 million people displaced by over 13 years of brutal civil conflict, Sy
 
 ---
 
+## ‘No Ocean Declaration without small islands’: Delegates push for inclusion as UN summit nears end
+
+date: 2025-06-12, from: United Nations, Top Stories
+
+With one day remaining before the conclusion of the Third UN Ocean Conference, delegates in Nice are preparing for the adoption of the summit’s eagerly anticipated political declaration. Small island developing States, facing the direct effects of climate change and marine resource decline, are pushing to ensure their perspectives are reflected in global ocean policy. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164306>
+
+---
+
+## Global push to end plastic pollution gains ground in Nice
+
+date: 2025-06-12, from: United Nations, Top Stories
+
+Behind closed doors, in a domed conference pavilion steps away from the historic port of Nice, more than 40 ministers gathered on Tuesday to tackle one of the planet’s fastest-growing environmental threats: plastic pollution.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164301>
+
+---
+
+## World News in Brief: ‘Indifference and impunity’ in Sudan, ICC judges speak out against sanctions, respiratory diseases overlooked in Europe
+
+date: 2025-06-12, from: United Nations, Top Stories
+
+With over half of the Sudanese population in need of aid and lean season rapidly approaching, the&nbsp;UN Chief for Humanitarian Affairs once again&nbsp;sounded the alarm about the crisis unfolding in Sudan on Thursday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164336>
+
+---
+
+## UN chief ‘deeply saddened’ as Air India crash claims lives of over 200 on board
+
+date: 2025-06-12, from: United Nations, Top Stories
+
+A London-bound Air India jet carrying 242 people crashed moments after take-off from Ahmedabad on Thursday, reportedly killing more than 200 on board, with dozens still unaccounted for. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164331>
+
+---
+
+## Yemen at breaking point as UN envoy urges action to end suffering
+
+date: 2025-06-12, from: United Nations, Top Stories
+
+Yemen cannot endure more years of division, economic collapse and human suffering, the UN’s top official on the crisis told the Security Council on Thursday, warning that “time is not on our side.” 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164321>
+
+---
+
+## Famine stalks two counties in South Sudan as fragile peace is threatened
+
+date: 2025-06-12, from: United Nations, Top Stories
+
+Two counties in the Upper Nile State of South Sudan are sliding into famine, the Food and Agriculture Organization (FAO) warned in a new report released Thursday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164311>
+
+---
+
+## Decades of memories and loss – searching for the missing in Syria
+
+date: 2025-06-12, from: United Nations, Top Stories
+
+Tens of thousands of people went missing in Syria over the past 50 years including during 14 years of civil war. Now, some families are able to live in hope as the Middle Eastern country emerges from the traumatic period of dictatorship and conflict. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164296>
+
+---
+
+## GAZA LIVE: UN General Assembly to vote on resolution demanding immediate, unconditional and permanent ceasefire
+
+date: 2025-06-12, from: United Nations, Top Stories
+
+The General Assembly is in emergency session in New York and due to vote soon on a resolution demanding an immediate ceasefire and release of all hostages. Assembly president Philémon Yang said with the Security Council paralysed, it was time for UN Member States to act and end the horrors in Gaza. As starvation looms across the Strip, mass casualties continue to be reported of desperate civilians trying to access food at Israel and US-backed distribution sites. App users can follow our live coverage here. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164281>
+
+---
+
+## Atomic watchdog says Iran not complying with nuclear safeguards
+
+date: 2025-06-12, from: United Nations, Top Stories
+
+The UN-backed atomic watchdog voted through a resolution on Thursday declaring that Iran is not complying with its obligations regarding nuclear non-proliferation. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164291>
+
+---
+
 ## TikTok star leaves the US after being detained by ICE
 
 date: 2025-06-12, from: RTÉ News
@@ -125,7 +453,7 @@ Khaby Lame, one of the world's most popular TikTok personalities, with over 160 
 
 ---
 
-## US Open Day 1 updates: McIlroy and Lowry out early
+## US Open Day 1 updates: Scheffler battling
 
 date: 2025-06-12, from: RTÉ News
 
@@ -201,7 +529,7 @@ date: 2025-06-12, from: Vatican News
 
 ---
 
-## 200 bodies recovered from plane crash site - police
+## As it happened: At least 260 dead in India plane crash
 
 date: 2025-06-12, from: RTÉ News
 
@@ -289,11 +617,11 @@ date: 2025-06-12, from: Vatican News
 
 ---
 
-## London-bound plane with 242 on board crashes in India
+## At least 260 killed after plane crashes in India
 
 date: 2025-06-12, from: RTÉ News
 
-A plane travelling from India to London with 242 people on board has crashed minutes after take-off from the western city of Ahmedabad, according to the airline and police. 
+Indian police have said at least 260 people have died after an Air India plane bound for Gatwick Airport crashed shortly after take off. 
 
 <br> 
 
@@ -313,7 +641,7 @@ A mother-of-four from Co Laois is flying to Egypt to join people from over 60 co
 
 ---
 
-## Minister criticised over Larne social media post
+## O'Neill calls on minister to resign over Larne post
 
 date: 2025-06-12, from: RTÉ News
 
@@ -365,11 +693,11 @@ date: 2025-06-12, from: CBC, World News
 
 ---
 
-## Entire country could become RPZ under new plan
+## Legislation to extend RPZs to be presented next week
 
 date: 2025-06-12, from: RTÉ News
 
-The entire country could be made a Rent Pressure Zone before the Dáil rises for its summer break in mid-July. 
+The Tánaiste has said emergency legislation to extend Rent Pressure Zones (RPZs) to all parts of the country will be brought forward next week. 
 
 <br> 
 
@@ -425,11 +753,11 @@ date: 2025-06-12, from: CBC, World News
 
 ---
 
-## Air India flight bound for London with 242 aboard crashes in northwestern India
+## 1 passenger survives after Air India flight bound for London crashes with 242 aboard
 
 date: 2025-06-12, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7559097.1749721878!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-india-plane-crash.jpg' alt='Charred wreckage and debris is shown, with persons standing by.' width='620' height='349' title='Firefighters work at the site of an airplane that crashed in India&apos;s northwestern city of Ahmedabad in Gujarat state on Thursday. The plane was carrying over 240 passengers and crew.'/><p>An Air India passenger plane bound for London with more than 240 people on board crashed Thursday in India's northwestern city of Ahmedabad, the airline said.</p> 
+<img src='https://i.cbc.ca/1.7559486.1749746694!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/india-crash.JPG' alt='Two women of colour wearing headdress huddle closely and appear to be in distress.' width='620' height='349' title='Dabu Patni, right, whose brother Akash Patni was on the Air India Boeing 787 Dreamliner plane, reacts with an unidentified person on Thursday in Ahmedabad, India.'/><p>One passenger survived the crash of an Air India plane bound for London that killed at least 240 people on Thursday in Ahmedabad, one of India's worst airline disasters in decades, officials said.</p> 
 
 <br> 
 
@@ -485,11 +813,11 @@ Israeli gunfire and airstrikes have killed at least 60 Palestinians in Gaza, mos
 
 ---
 
-## Leisure centre damaged in third night of disorder in NI
+## PSNI coming for 'bigots' following Ballymena unrest
 
 date: 2025-06-11, from: RTÉ News
 
-Larne Leisure Centre in Co Antrim has been badly damaged after masked youths attacked the facility last night. 
+PSNI Chief Constable Jon Boutcher has warned the "bigots and racists" that have been behind three nights of disorder across Northern Ireland that his officers will be coming after them. 
 
 <br> 
 
@@ -497,11 +825,11 @@ Larne Leisure Centre in Co Antrim has been badly damaged after masked youths att
 
 ---
 
-## Yellow Rain warnings in place with flooding possible
+## Yellow Rain warnings impacting 12 counties lifted
 
 date: 2025-06-11, from: RTÉ News
 
-Two Status Yellow rain warnings are in place as Met Éireann warned of localised flooding, lightning damage, poor visibility and difficult travel conditions. 
+Two Status Yellow rain warnings that were in place for 12 counties have just been lifted. 
 
 <br> 
 
@@ -877,6 +1205,18 @@ European campaign groups say the rising heights of car bonnets are a danger to v
 
 ---
 
+## Dozens of Canadians gather in Egypt ahead of global march to Gaza border
+
+date: 2025-06-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7558126.1749651123!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-egypt-rafah.JPG' alt='A wall with a graffiti of Al-Aqsa Mosque is pictured near the Rafah border crossing.' width='620' height='349' title='A wall with a graffiti of Al-Aqsa Mosque is pictured near the Rafah border crossing, amid a ceasefire between Israel and Hamas, in Rafah, Egypt, February 18, 2025. REUTERS/Mohamed Abd El Ghany'/><p>Dozens of Canadians are expected to be among thousands of other activists gathering in Egypt this week ahead of a global march to its Gaza border as they call for an end to Israel's siege on the territory.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/global-march-gaza-canada-egypt-1.7558073?cmp=rss>
+
+---
+
 ## Strawberry moon set to be visible across Irish skies
 
 date: 2025-06-11, from: RTÉ News
@@ -1091,7 +1431,7 @@ The Government's new policy on rents has been branded a "shambles" by Sinn Féin
 
 ## The world pledged to end child labour by 2025: So why are 138 million kids still working?
 
-date: 2025-06-11, from: United Nations, Economic Development
+date: 2025-06-11, from: United Nations, Top Stories
 
 Twelve-year-old Tenasoa crawls to work every day at a mine in eastern Madagascar where she collects two kilos of the shiny mineral mica each day. She cannot walk because of a physical disability. 
 
@@ -1105,7 +1445,7 @@ Twelve-year-old Tenasoa crawls to work every day at a mine in eastern Madagascar
 
 date: 2025-06-11, from: United Nations, Top Stories
 
-Survivors of a people-smuggling operation in the Red Sea have recounted how they were forced off their boat far from the coast of Djibouti and left to swim for their lives. 
+Survivors of a people-smuggling operation in the Red Sea have described being forced off their boat far from the coast of Djibouti and left to swim for their lives. 
 
 <br> 
 
@@ -1115,7 +1455,7 @@ Survivors of a people-smuggling operation in the Red Sea have recounted how they
 
 ## ‘Plenty of fish in the sea’? Not anymore, say UN experts in Nice
 
-date: 2025-06-11, from: United Nations, Economic Development
+date: 2025-06-11, from: United Nations, Top Stories
 
 At the Third UN Ocean Conference in Nice, the “catch of the day” wasn’t a seabass or a red mullet – it was a figure: 35 per cent. That’s the share of global fish stocks now being harvested unsustainably, according to a new UN report released Wednesday. 
 
@@ -1163,7 +1503,7 @@ Civilian deaths and injuries in the first five months of 2025 were nearly 50 per
 
 ## Climate emergency is a health crisis ‘that is already killing us,’ says WHO
 
-date: 2025-06-11, from: United Nations, Climate Change
+date: 2025-06-11, from: United Nations, Top Stories
 
 With 2024 confirmed as the hottest year on record, the World Health Organization (WHO) has issued a stark warning: the climate crisis is also a health crisis – and it’s already claiming lives. 
 
@@ -2079,7 +2419,7 @@ An unregistered business operating in a shed building, where the other half of t
 
 ## Social and economic barriers, not choice, driving global fertility crisis: UNFPA
 
-date: 2025-06-10, from: United Nations, Economic Development
+date: 2025-06-10, from: United Nations, Top Stories
 
 The global fertility slump isn’t down to young people turning their backs on parenthood – it’s due to social and economic pressures stopping them from having the children they want, says a new UN report.&nbsp; 
 
@@ -2091,7 +2431,7 @@ The global fertility slump isn’t down to young people turning their backs on p
 
 ## The battle to quiet the sea: Can the shipping industry turn down the volume?
 
-date: 2025-06-10, from: United Nations, Economic Development
+date: 2025-06-10, from: United Nations, Top Stories
 
 The ocean has never been silent – waves crashing, seabirds calling, whales singing across vast distances. But in recent decades, a new kind of noise has taken hold: the relentless hum of ships. For many marine species, this growing wall of sound is more than a nuisance – it’s a threat to their survival. 
 
@@ -2103,7 +2443,7 @@ The ocean has never been silent – waves crashing, seabirds calling, whales sin
 
 ## Greed is driving oceans toward collapse
 
-date: 2025-06-10, from: United Nations, Economic Development
+date: 2025-06-10, from: United Nations, Top Stories
 
 The ocean is under siege – and greed is to blame. UN Secretary-General António Guterres on Tuesday urged world leaders and grassroots groups to confront the powerful interests driving marine destruction, from illegal fishing and plastic pollution to the accelerating impacts of climate change. 
 
@@ -2175,7 +2515,7 @@ The very real risk of famine continues to stalk Sudan’s communities impacted b
 
 ## World News in Brief: Global growth slows, deadly Ukraine attacks, Haiti hurricane hunger risk, legal migration for refugees
 
-date: 2025-06-10, from: United Nations, Economic Development
+date: 2025-06-10, from: United Nations, Top Stories
 
 Global economic growth is expected to decline this year due to increased trade barriers and policy uncertainty, the World Bank said in a report published on Tuesday.&nbsp; 
 
@@ -2879,7 +3219,7 @@ date: 2025-06-09, from: CBC, Indigenious News
 
 ## Guterres calls for an end to ocean ‘plunder’ as UN summit opens in France
 
-date: 2025-06-09, from: United Nations, Economic Development
+date: 2025-06-09, from: United Nations, Climate Change
 
 With the Mediterranean glittering in the background, UN Secretary-General António Guterres opened the Third United Nations Ocean Conference on Monday, delivering a blunt indictment of humanity’s fractured relationship with the sea. 
 
@@ -2903,7 +3243,7 @@ The worsening humanitarian crisis in the Gaza Strip has reached “unprecedented
 
 ## No green without blue: Young ocean explorers set sail for a sustainable future
 
-date: 2025-06-09, from: United Nations, Economic Development
+date: 2025-06-09, from: United Nations, Top Stories
 
 With science at the forefront of the opening day of the Third UN Ocean Conference (UNOC3), UN News boarded a 111-year-old Norwegian tall ship on the French Riviera to meet 50 science students, along with a host of lecturers and citizen scientists fresh from a 46-day expedition. Fueled by satellite data from the European Space Agency (ESA), their invaluable observations echo the urgent call to understand and protect the world’s oceans. 
 
@@ -3485,7 +3825,7 @@ Whether it’s their first time or a routine part of their life, menstruation ha
 
 ## Drifting architects: Plankton, climate, and the race to understand our changing ocean
 
-date: 2025-06-08, from: United Nations, Economic Development
+date: 2025-06-08, from: United Nations, Climate Change
 
 They drift unseen, but everything depends on them. Plankton – the ocean’s lifeblood –&nbsp;regulate the climate, feed the seas, and shape life on Earth. Scientists along the French Riviera are in a race against time to unlock the mysteries of these tiny organisms before their decline reverberates across the planet. 
 

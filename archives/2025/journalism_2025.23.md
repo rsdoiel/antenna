@@ -1,11 +1,25 @@
 ---
 title: journalism
-updated: 2025-06-12 06:07:14
+updated: 2025-06-12 14:07:52
 ---
 
 # journalism
 
-(date: 2025-06-12 06:07:14)
+(date: 2025-06-12 14:07:52)
+
+---
+
+## UCPD searches for suspect following robbery of student
+
+date: 2025-06-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated June 12 at 11 a.m.</em>
+UCPD is searching for a suspect following an on-campus robbery early Thursday morning.
+A person struck a UCLA student in the face while the victim rode their bicycle outside the Engineering VI building on Westwood Plaza around 12:12 a.m., according to a Clery Timely Warning crime alert. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/12/ucpd-searches-for-suspect-following-robbery-of-student/>
 
 ---
 
