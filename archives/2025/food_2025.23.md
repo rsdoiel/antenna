@@ -1,11 +1,53 @@
 ---
 title: food
-updated: 2025-06-11 14:07:51
+updated: 2025-06-12 06:07:17
 ---
 
 # food
 
-(date: 2025-06-11 14:07:51)
+(date: 2025-06-12 06:07:17)
+
+---
+
+## Build-Outs Of Coffee: Room Service Coffee In Ventura, CA
+
+date: 2025-06-12, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Room Service Coffee in Ventura, California. 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-room-service-coffee-in-ventura-ca-345937.html>
+
+---
+
+## Kung Pao Ground Chicken
+
+date: 2025-06-12, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/06/Kung-Pao-Ground-Chicken-1200-3528.jpg"/></div>
+<p>A quick and easy kung pao chicken with ground chicken, bell peppers, peanuts, chilies and sichuan peppercorns! Kung pao chicken is a classic Chinese takeout dish that typically contains chicken with chili peppers for heat and sichuan peppercorns for their mouth numbing properties. This is a slightly different take on the dish swapping out pieces...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/kung-pao-ground-chicken/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/kung-pao-ground-chicken/">Kung Pao Ground Chicken</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/kung-pao-ground-chicken/>
+
+---
+
+## I Tried the New Starbucks Strato Frappuccino, and It’s a Textural Treat
+
+date: 2025-06-12, from: Taste of Home
+
+<p>This new drink layers creamy cold foam on top of an icy Frappuccino to create a summer sipper that's sweet and texturally complex.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/starbucks-strato-frappuccino/">I Tried the New Starbucks Strato Frappuccino, and It&#8217;s a Textural Treat</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/starbucks-strato-frappuccino/>
 
 ---
 
@@ -132,6 +174,42 @@ date: 2025-06-11, from: Taste of Home
 <br> 
 
 <https://www.tasteofhome.com/article/cheez-it-pizza-june-2025/>
+
+---
+
+## Futures.Coffee is a Free Tool for Present Coffee Prices
+
+date: 2025-06-11, from: Daily Coffee News
+
+<div><img width="620" height="352" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Futures-Coffee-620x352.jpg" class="attachment-large size-large wp-post-image" alt="Screenshot" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Futures-Coffee-620x352.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Futures-Coffee-300x170.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Futures-Coffee-150x85.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Futures-Coffee-768x435.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Futures-Coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The coffee &#8220;C market&#8221; and &#8220;passion&#8221; are not phrases that typically go hand in hand.&#160;Yet for the past six months, a Bay Area couple has been spending nights and... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/11/futures-coffee-is-a-free-tool-for-present-coffee-prices/>
+
+---
+
+## Tanzania Coffee Report: Production and Exports Up, Driven by Robusta
+
+date: 2025-06-11, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Tanzania-final-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Tanzania final" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Tanzania-final-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Tanzania-final-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Tanzania-final-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Tanzania-final-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Tanzania-final.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Tanzania’s coffee production for the 2025/26 market year (July to June) is forecast to rise to the equivalent of 1.45 million 60-kilogram bags, up from 1.35 million the previous year,... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/11/tanzania-coffee-report-production-and-exports-up-driven-by-robusta/>
+
+---
+
+## Primo Roasting Equipment Releases New ‘Roast Master’ Software
+
+date: 2025-06-11, from: Daily Coffee News
+
+<div><img width="620" height="429" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Primo-roaster-1-620x429.jpeg" class="attachment-large size-large wp-post-image" alt="Primo roaster" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Primo-roaster-1-620x429.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Primo-roaster-1-300x207.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Primo-roaster-1-150x104.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Primo-roaster-1-768x531.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Primo-roaster-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Commercial coffee roasting equipment manufacturer Primo Roasting Equipment is rolling out a new in-house software system called Roast Master. Available through an annual license, the software is used for... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/11/primo-roasting-equipment-releases-new-roast-master-software/>
 
 ---
 
@@ -281,7 +359,7 @@ There’s nothing more comforting than a buttery slice of pound cake, but when e
 
 date: 2025-06-10, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Mexico-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Mexico" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Mexico-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Mexico-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Mexico-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Mexico-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Mexico.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Mexico’s coffee production for the 2025/26 market year (October to September) is forecast at the equivalent of 3.9 million 60-kilogram bags, a modest increase over the previous year, according to... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Mexico-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Mexico" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Mexico-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Mexico-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Mexico-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Mexico-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Mexico.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Mexico’s coffee production for the 2025/26 market year (October to September) is forecast at the equivalent of 3.9 million 60-kilogram bags, a modest increase over the previous year, according to... 
 
 <br> 
 
@@ -305,7 +383,7 @@ The winners are surprisingly tasty.
 
 date: 2025-06-10, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-beans-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="coffee beans" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-beans-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-beans-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-beans-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-beans-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-beans-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The United States Department of Justice (DOJ) is accusing the owner of an Oakland, California, coffee shop of discrimination after the shop allegedly refused to serve two Jewish customers.... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-beans-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="coffee beans" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-beans-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-beans-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-beans-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-beans-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-beans-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; The United States Department of Justice (DOJ) is accusing the owner of an Oakland, California, coffee shop of discrimination after the shop allegedly refused to serve two Jewish customers.... 
 
 <br> 
 
@@ -341,7 +419,7 @@ date: 2025-06-10, from: The Sprudge
 
 date: 2025-06-10, from: Daily Coffee News
 
-<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/untold-expo-25-620x349.jpg" class="attachment-large size-large wp-post-image" alt="untold-expo-25" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/untold-expo-25-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/untold-expo-25-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/untold-expo-25-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/untold-expo-25-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/untold-expo-25.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A new seller of ultra-premium green and roasted coffees called Untold Coffee Lab is now trying to spread the word one rare bag at a time.&#160; The company, which... 
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/untold-expo-25-620x349.jpg" class="attachment-large size-large wp-post-image" alt="untold-expo-25" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/untold-expo-25-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/untold-expo-25-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/untold-expo-25-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/untold-expo-25-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/untold-expo-25.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; A new seller of ultra-premium green and roasted coffees called Untold Coffee Lab is now trying to spread the word one rare bag at a time.&#160; The company, which... 
 
 <br> 
 

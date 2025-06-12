@@ -1,11 +1,191 @@
 ---
 title: science and technology
-updated: 2025-06-11 14:07:46
+updated: 2025-06-12 06:07:11
 ---
 
 # science and technology
 
-(date: 2025-06-11 14:07:46)
+(date: 2025-06-12 06:07:11)
+
+---
+
+## This page has been deliberately left blank
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4></h4> <p>This page has been deliberately left blank…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/digital_realty_cto_interview1/>
+
+---
+
+## UK Spending Review prescribes £10B digital remedy for NHS
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>Between a borrowing rock and a fiscal hard place, Labour chases efficiency</h4> <p>In the UK&#39;s first multi-year Spending Review since 2021, the government has announced £10 billion ($14 billion) in NHS technology and digital transformation by 2028-29, an increase of nearly 50 percent on the current financial year.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/nhs_tech_spending_review/>
+
+---
+
+## Digital Realty CTO on why storage is the datacenter challenge no one's talking about
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>And why supporting quantum computing is easier than supporting a 1MW rack</h4> <p><strong>Interview</strong>  When the great and the good of the datacenter world got together in Cannes last week for Datacloud Global Congress, storage was barely mentioned, with shortages of GPUs, power and land the key talking points.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/digital_realty_cto_interview/>
+
+---
+
+## 'Major compromise' at NHS temping arm exposed gaping security holes
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>Incident responders suggested sweeping improvements following Active Directory database heist</h4> <p><strong>Exclusive</strong>  Cybercriminals broke into systems belonging to the UK&#39;s NHS Professionals body in May 2024, stealing its Active Directory database, but the healthcare organization never publicly disclosed it, <em>The Register</em> can reveal.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/compromise_nhs_professionals/>
+
+---
+
+## AI coding tools are like that helpful but untrustworthy friend, devs say
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>A survey from AI biz Qodo finds robo-coding productivity gains are unevenly distributed</h4> <p><strong>Exclusive</strong>  Software developers largely appreciate the productivity improvements they get from AI coding tools, but they don&#39;t entirely trust their output, according to a survey conducted by AI coding biz Qodo.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/devs_mostly_welcome_ai_coding/>
+
+---
+
+## UK reheats Edinburgh supercomputer plan sans exascale chops
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>Government revives shelved project with fresh funding but scaled-back ambitions</h4> <p>The UK government has disclosed plans for the country&#39;s most powerful supercomputer to be built in Edinburgh – less than a year after cancelling an identical plan.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/uk_national_supercomputer_edinburgh/>
+
+---
+
+## CIO wants to grow tech team by cloning staff as digital twins and AI agents
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>UC San Diego hopes humans spend less time fighting fires, more time repelling &#39;exquisite&#39; attacks from abroad that researchers accidentally invited</h4> <p><strong>Cisco Live</strong>  Experienced IT professionals should share their experience so their employers can create digital twins and AI agents that do parts of their own jobs, to relieve them of repetitive work and after-hours troubleshooting chores.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/cio_wants_to_grow_tech/>
+
+---
+
+## Behold! Humanity has captured our first look at the Sun's South Pole
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>Confusingly, the magnetic north and south poles are both down there, where the Solar Orbiter can see them</h4> <p>Occupants of planet Earth can’t see the Sun’s poles – unless they look at images the Solar Orbiter spacecraft has just sent home.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/solar_orbiter_south_solar_pole_pics/>
+
+---
+
+## Rumour: Google intends to discontinue the Android Open Source Project
+
+date: 2025-06-12, from: OS News
+
+With the release of Android 16, Google changed how it developed Android. Development is now taking place behind closed doors, with the code dropped after the corresponding version has been released to Pixel devices. Well, it turns out this wasn&#8217;t the only thing Google has changed about Android development. As the developers of CalyxOS, a popular de-Googled Android ROM, dove into the Android 16 AOSP source code, they realised something very important was missing: the device-specific source code for modern Pixel devices. Android 16 was released to AOSP yesterday but with a one big difference than typical releases: Google did not publish any device-specific source code for supported, modern Pixel devices. In previous years, Google released full device trees alongside new Android versions. This allowed developers to build and boot AOSP on Pixel hardware relatively easily. With Android 16, only the platform/framework code has been released. The device trees are missing, at least for now. This means AOSP 16 cannot currently be built or run on any recent Pixel device easily just using official source. It’s unclear whether this is a delay or a policy change. Either way, it seriously disrupts custom ROM development and our porting efforts. ↫ CalyxOS on Reddit If this is truly a policy change, it&#8217;s a big one that affects custom ROM developers considerably. Pixel devices were &#8220;special&#8221; among custom ROM developers because support for them was part of AOSP releases, so they were well-supported by projects like CalyxOS, GrapheneOS, and LineageOS, including all the hardware components, and with quick updates. Without access to the Pixel-specific source code for the Pixel 6 to Pixel 9a, these devices will now have to be treated like any other Android phone as far as ROM developers go, meaning it&#8217;ll take a lot more work and time to get them to work properly with new major Android releases. Google did not announce this potential policy change, and this has some in the custom Android ROM community on edge. I&#8217;ve been talking to people in the custom ROM community, and the story goes that a few months ago, at least one of these communities was approached by a journalist who wanted to talk to them. This journalist claimed that Google intends to discontinue the Android Open Source Project, with the first step Google would take being no longer releasing the device-specific Pixel source code (something nobody knew would happen until yesterday). The fact that this first step has now become a reality lends some credence to the journalist&#8217;s claim that Google is discontinuing AOSP. However, since such tips are not uncommon, and since there was no way to verify, the custom ROM developers in question didn&#8217;t really know what to do with it. During the writing of this article over the past 12 hours, Google itself has also responded to what is apparently a growing, now public concern in the wider Android community. Seang Chau, Google VP and GM of Android Platform, published a Tweet, disclaiming Google has any intentions to close up shop for AOSP. We&#8217;re seeing some speculation that AOSP is being discontinued. To be clear, AOSP is NOT going away. AOSP was built on the foundation of being an open platform for device implementations, SoC vendors, and instruction set architectures. AOSP needs a reference target that is flexible, configurable, and affordable – independent of any particular hardware, including those from Google. For years, developers have been building Cuttlefish (available on GitHub as the reference device for AOSP) and GSI targets from source. We continue to make those available for testing and development purposes. ↫ Seang Chau This seems like a solid denial from Google, but it leaves a lot of room for Google to make a wide variety of changes to Android&#8217;s development and open source status without actually killing off AOSP entirely. Since Android is licensed under the Apache 2.0 license, Google is free to make &#8220;Pixel Android&#8221; &#8211; its own Android variant &#8211; closed source, leaving AOSP up until that point available under the Apache 2.0 license. This is reminiscent of what Oracle did with Solaris. Of course, any modifications to the Linux kernel upon which Android is built will remain open source, since the Linux kernel is licensed under the GPLv2. If Google were indeed intending to do this, what could happen is that Google takes Android closed source from here on out, spinning off whatever remains of AOSP up until that point into a separate company or project, as potentially ordered during the antitrust case against Google in the United States. This would leave Google free to continue developing its own &#8220;Pixel Android&#8221; entirely as proprietary software &#8211; save for the Linux kernel &#8211; while leaving AOSP in the state it&#8217;s in right now outside of Google. This technically means &#8220;AOSP is not going away&#8221;, as Chau claims. Of course, other parties would then be free to continue working on and contributing to AOSP, but AOSP itself would no longer benefit from the work done by Google. Again, this feels very similar to how illumos and OpenIndiana are built atop the last open source release of Solaris from 2010, without any of the additional work Oracle has done on Solaris since then. As you can tell, there&#8217;s a lot of speculation here, because even if all of this is true, it seems the ongoing court case and any rulings that come of it will play a major role in Google&#8217;s decision-making process. The Android Open Source Project has been gutted over the years, with Google leaving more and more parts of it to languish, while moving a lot of code and functionality into proprietary components like Google Mobile Services and Google Play Services. Taking &#8220;Pixel Android&#8221; closed source almost feels like the natural next step in the process of gutting AOSP that&#8217;s been ongoing for well over a decade. As it stands today, a default AOSP installation requires a lot of additional components and applications before it can be considered a complete mobile  
+
+<br> 
+
+<https://www.osnews.com/story/142553/rumour-google-intends-to-discontinue-the-android-open-source-project/>
+
+---
+
+## Oracle scores cloud customer – maybe China's TEMU – that wants any available server, anytime, anywhere
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>Big Red hails growth from &#39;astronomical&#39; and &#39;insatiable&#39; demand for cloud and huge IaaS growth</h4> <p>Oracle has surfed demand for cloud services to post revenues that beat its own forecast, fuelled by demand for non-AI cloud services.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/oracle_q4_2025/>
+
+---
+
+## DeepSeek installer or just malware in disguise? Click around and find out
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>&#39;BrowserVenom&#39; is pure poison</h4> <p>Suspected cybercriminals have created a fake installer for Chinese AI model DeepSeek-R1 and loaded it with previously unknown malware called &#34;BrowserVenom&#34;.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/deepseek_installer_or_infostealing_malware/>
+
+---
+
+## Canva to job candidates: Thou shalt use AI during interviews
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>Design software slinger warns it won&#39;t hire devs who aren&#39;t good at modern tools</h4> <p>Australian SaaS-y graphic design service Canva now requires candidates for developer jobs to use AI coding assistants during the interview process.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/canva_coding_assistant_job_interviews/>
+
+---
+
+## Curiosity Rover Blog — Sols 4566-4567: Drilling Success
+
+date: 2025-06-11, from: NASA breaking news
+
+Written by Michelle Minitti, Planetary Geologist at Framework Earth planning date: Monday, June 9, 2025 The image above shows the drill poised on the surface of Mars at the start of our attempt to collect sample at “Altadena” over the weekend. Now we know, from subsequent imaging and telemetry, that the drill activity was successful, […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sol-4564-front-hazard-avoidance-camera-front-hazcam/>
+
+---
+
+## US Navy backs right to repair after $13B carrier crew left half-fed by contractor-locked ovens
+
+date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+
+<h4>Army joins in push to break vendor grip on military maintenance</h4> <p>US Navy Secretary John Phelan has told the Senate the service needs the right to repair its own gear, and will rethink how it writes contracts to keep control of intellectual property and ensure sailors can fix hardware, especially in a fight.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/11/us_navy_repair/>
+
+---
+
+## GNOME adds dependencies on systemd, lots of work to do for systemd-less environments
+
+date: 2025-06-11, from: OS News
+
+GNOME has announced it&#8217;ll be increasing its dependency on systemd, the popular init system used by most (popular) Linux distributions. While GNOME already had a few relatively inconsequential dependencies on systemd, it was effectively not a huge problem to run GNOME on operating systems that don&#8217;t have systemd, which most notably includes the various flavours of BSD. That&#8217;s going to change. There&#8217;s going to be two changes, one of which is relatively minor, and one of which will pose much bigger problems. The minor change involves GDM becoming dependent on systemd’s userdb infrastructure in order to clean up a lot of GDM&#8217;s code involved in multi-seat setups and remote login. Currently, this works through a series of hacks that the GDM developers are going to clean up, switching to using systemd-userdb to &#8220;dynamically allocate user accounts, and then runs each login screen as a unique user&#8221;. To aid non-systemd environments during this transition, GDM will get a temporary alternate code path that enables you to run GDM without systemd-userdb. So if you compile GDM against elogind, GDM will use an alternative trick to enable multiple graphical sessions under the same user. This trick will remain in place at least until GNOME 50, but its future after that is uncertain. The second change is much more involved. Next, the bigger change. Since GNOME 3.34, gnome-session uses the systemd user instance to start and manage the various GNOME session services. When systemd is unavailable, gnome-session falls back to a builtin service manager. This builtin service manager uses .desktop files to start up the various GNOME session services, and then monitors them for failure. This code was initially implemented for GNOME 2.24, and is starting to show its age. It has received very minimal attention in the 17 years since it was first written. Really, there’s no reason to keep maintaining a bespoke and somewhat primitive service manager when we have systemd at our disposal. The only reason this code hasn’t completely bit rotted is the fact that GDM’s aforementioned hacks break systemd and so we rely on the builtin service manager to launch the login screen. Well, that has now changed. The hacks in GDM are gone, and the login screen’s session is managed by systemd. This means that the builtin service manager will now be completely unused and untested. Moreover: we’d like to implement a session save/restore feature, but the builtin service manager interferes with that. For this reason, the code is being removed. ↫ Adrian Vovk Mitigating this change will be a lot more involved for operating systems that don&#8217;t use systemd, and the blog post goes into detail into what, exactly, needs to be done in systemd-less environments. There&#8217;s quite a few systemd components and other little tidbits that you will need to find or create alternatives for, and considering you&#8217;ll need to have all of it in place roughly by GNOME 50, roughly a year from now, I can imagine this causing quite a few headaches for platforms like the BSDs and Linux distributions using init systems other than systemd. With these changes, GNOME further solidifies itself as a Linux desktop only &#8211; and lest anyone forget, that&#8217;s entirely within their right to do. Systemd haters can jump up and down all they want, but in the end, they have no right to demand that GNOME developers spend precious time and resources testing GNOME on and developing it for platforms that they themselves do not use. They&#8217;re clearly targeting the trifecta of Linux, system, and Wayland, and that&#8217;s their choice to make, not anyone else&#8217;s. Still, if operating systems like OpenBSD and FreeBSD, or Linux distributions without systemd intend to continue offering a fully functional GNOME desktop, they&#8217;re going to have some work to do. 
+
+<br> 
+
+<https://www.osnews.com/story/142551/gnome-adds-dependencies-on-systemd-lots-of-work-to-do-for-systemd-less-environments/>
 
 ---
 
@@ -21,7 +201,7 @@ On May 22, 2025, NASA hosted an Expedition 72 crew debrief and awards ceremony a
 
 ---
 
-## DARPA is exploring a swallowable device that could tweak soldiers’ stress responses
+## DARPA is testing a device soldiers can swallow to make them less stressed
 
 date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
 
@@ -335,9 +515,9 @@ date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
 
 ## Microsoft slows Windows 11 24H2 Patch Tuesday due to a 'compatibility issue'
 
-date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+date: 2025-06-11, updated: 2025-06-12, from: The Register (UK I.T. News)
 
-<h4>On your marks, get set... bork!</h4> <p>Microsoft has set a new record with June&#39;s security update for the time between release and an admission of borkage.…</p> 
+<h4>On your marks, get set... bork!</h4> <p><strong>updated</strong>  Microsoft set a new record with June&#39;s security update for the time between release and an admission of borkage.…</p> 
 
 <br> 
 
@@ -371,7 +551,7 @@ date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
 
 ## Lenovo bags HPC contracts for a pair of European customers
 
-date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+date: 2025-06-11, updated: 2025-06-12, from: The Register (UK I.T. News)
 
 <h4>Building AMD computational cancer research super and ICL workhorse with Intel inside</h4> <p>Lenovo has pulled a couple of European supercomputer wins out of the bag, one using Intel chips for Imperial College London and an AMD-based system for the European Institute of Oncology.…</p> 
 
@@ -407,7 +587,7 @@ date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
 
 ## Microsoft warns of 66 flaws to fix for this Patch Tuesday, and two are under active attack
 
-date: 2025-06-10, updated: 2025-06-10, from: The Register (UK I.T. News)
+date: 2025-06-10, updated: 2025-06-11, from: The Register (UK I.T. News)
 
 <h4>Stealthy Falcon swoops on WebDAV and Redmond&#39;s even patching IE!</h4> <p><strong>Patch Tuesday</strong>  It&#39;s Patch Tuesday time again, and Microsoft is warning that there are a bunch of critical fixes to sort out - and two actively exploited bugs.…</p> 
 

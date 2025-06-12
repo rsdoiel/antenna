@@ -1,11 +1,353 @@
 ---
 title: pacific
-updated: 2025-06-11 14:07:46
+updated: 2025-06-12 06:07:10
 ---
 
 # pacific
 
-(date: 2025-06-11 14:07:46)
+(date: 2025-06-12 06:07:10)
+
+---
+
+## Trump could send troops to more cities as protests expand
+
+date: 2025-06-12, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Trump administration officials said Wednesday that they were prepared to deploy more troops and National Guard units to counter the growing number of demonstrations against the White House&#8217;s immigration crackdown, threatening to expand what California Gov. Gavin Newsom condemned as a &#8220;brazen abuse of power.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/12/nation-world-news/trump-could-send-troops-to-more-cities-as-protests-expand/>
+
+---
+
+## EPA axes Biden’s climate and pollution limits on power plants
+
+date: 2025-06-12, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration moved Wednesday to erase limits on greenhouse gases from power plants and to weaken restrictions on their other hazardous emissions, including mercury, arsenic and lead.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/12/nation-world-news/epa-axes-bidens-climate-and-pollution-limits-on-power-plants/>
+
+---
+
+## New China trade ‘deal’ takes US back to where it started
+
+date: 2025-06-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; After two days of tense negotiations, the United States and China appear to have walked back from the brink of a devastating economic conflict &#8212; maybe.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/12/nation-world-news/new-china-trade-deal-takes-us-back-to-where-it-started/>
+
+---
+
+## Dry season kicks off with an islandwide drought
+
+date: 2025-06-12, from: Hawaii Tribune Harold
+
+
+				<p>While portions of East Hawaii are getting rainfall, particularly during nighttime hours, the entire Big Island remains in drought.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/12/hawaii-news/dry-season-kicks-off-with-an-islandwide-drought/>
+
+---
+
+## Troops in LA can detain individuals, military official says
+
+date: 2025-06-12, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; U.S. troops in Los Angeles are authorized to detain people until police can arrest them, their commanding officer said on Wednesday, as hundreds of Marines prepared to move into a city rocked by protests over President Donald Trump&#8217;s immigration raids.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/12/nation-world-news/troops-in-la-can-detain-individuals-military-official-says/>
+
+---
+
+## Overnight power outage set for June 26 in North Kohala
+
+date: 2025-06-12, from: Hawaii Tribune Harold
+
+
+				<p>Hawaiian Electric announces an overnight power outage that will affect customers in parts of North Kohala.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/12/community/overnight-power-outage-set-for-june-26-in-north-kohala/>
+
+---
+
+## Blood Bank of Hawaii hosts blood drives in Waimea, Kona
+
+date: 2025-06-12, from: Hawaii Tribune Harold
+
+
+				<p>Get ready to donate: The Blood Bank of Hawaii, or BBH, will be in Waimea and Kona next week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/12/community/blood-bank-of-hawaii-hosts-blood-drives-in-waimea-kona/>
+
+---
+
+## KTA launches ‘We Love Hawaii’ Bingo for keiki
+
+date: 2025-06-12, from: Hawaii Tribune Harold
+
+
+				<p>School is out, and KTA Super Stores is making summer sweeter for Hawaii Island keiki with its &#8220;We Love Hawaii&#8221; Summer Bingo promotion &#8212; an engaging, screen-free way to encourage kids to explore, stay active and make the most of summer on Hawaii Island.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/12/community/kta-launches-we-love-hawaii-bingo-for-keiki/>
+
+---
+
+## News in brief for June 12
+
+date: 2025-06-12, from: Hawaii Tribune Harold
+
+
+				<p>Musk spoke to Trump before &#0010;posting &#8216;regret&#8217;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/12/nation-world-news/news-in-brief-for-june-12/>
+
+---
+
+## HFS awards $60K in scholarships to Big Island students
+
+date: 2025-06-12, from: Hawaii Tribune Harold
+
+
+				<p>HFS Federal Credit Union has announced 20 outstanding scholarship recipients for its 2025 scholarship program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/12/community/hfs-awards-60k-in-scholarships-to-big-island-students/>
+
+---
+
+## Judge bars Trump administration from detaining Mahmoud Khalil
+
+date: 2025-06-12, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The Trump administration cannot use U.S. foreign policy interests to justify its detention of Columbia University student and pro-Palestinian activist Mahmoud Khalil, a judge ruled on Wednesday, but stopped short of ordering Khalil&#8217;s immediate release.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/12/nation-world-news/judge-bars-trump-administration-from-detaining-mahmoud-khalil/>
+
+---
+
+## Brian Wilson, Pop auteur and leader of the Beach Boys, dies at 82
+
+date: 2025-06-12, from: Hawaii Tribune Harold
+
+
+				<p>Brian Wilson, who as the leader and chief songwriter of the Beach Boys became rock&#8217;s poet laureate of surf-and-sun innocence, but also an embodiment of damaged genius through his struggles with mental illness and drugs, has died. He was 82.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/12/nation-world-news/brian-wilson-pop-auteur-and-leader-of-the-beach-boys-dies-at-82/>
+
+---
+
+## BA a first on Wotje
+
+date: 2025-06-12, from: Marshal Islands Journal
+
+<p>A graduation ceremony was held in Wotje on May 27 in honor of six individuals who completed their diplomas and degrees from the College of the Marshall Islands — including the first student on Wotje to receive her BA degree. College President Dr. David Newnham, in his address, referred to graduates as the heart of [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/ba-a-first-on-wotje/">BA a first on Wotje</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/ba-a-first-on-wotje/>
+
+---
+
+## July 4 deadline for voters to enrol for Samoa election
+
+date: 2025-06-12, from: 
+
+Samoans living abroad must complete their full voter registration by 4 July. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563784/july-4-deadline-for-voters-to-enrol-for-samoa-election>
+
+---
+
+## MEC plant gone, rates up
+
+date: 2025-06-12, from: Marshal Islands Journal
+
+<p>The last time this particular lot at the MEC property in Delap was empty was about 45 years ago. This property housed the Marshalls Energy Company’s first power plant from its opening in 1982 until work began on its demolition in early 2025. The lot is being cleared to make way for a new power [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/mec-plant-gone-rates-up/">MEC plant gone, rates up</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/mec-plant-gone-rates-up/>
+
+---
+
+## Stories in every stitch: Pageant honors Cook Islands 'mamas', highlights traditional fashion
+
+date: 2025-06-12, from: Pacific Island Times
+
+For the world's largest Polynesian city, Wong said the ways in which Cook Islands mamas come together across Auckland and the rest of the country to create unpaid wrap-around aroa for churches, fundraising, youth and visiting delegations, inspired her.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/stories-in-every-stitch-pageant-honors-cook-islands-mamas-highlights-traditional-fashion>
+
+---
+
+## Pasifika Sipoti in brief for 12 June
+
+date: 2025-06-12, from: 
+
+A round-up of sports news in brief for 12 June, including Fiji becoming a tier one rugby nation. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563925/pasifika-sipoti-in-brief-for-12-june>
+
+---
+
+## Pasifika staff taking pride in cultural work attire
+
+date: 2025-06-12, from: 
+
+A community engagement staffer at a New Zealand bank says the company's Pasifika uniform raises awareness "of our many Pasifika cultures". 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563924/pasifika-staff-taking-pride-in-cultural-work-attire>
+
+---
+
+## Judith Collins says possible AUKUS security pact review not for NZ to comment on
+
+date: 2025-06-12, from: 
+
+The Defence Minister says there's no reason for New Zealand to comment on reports the Pentagon is reviewing the AUKUS defence alliance. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/political/563911/judith-collins-says-possible-aukus-security-pact-review-not-for-nz-to-comment-on>
+
+---
+
+## Flying Fijians and Manu Samoa rugby squads revealed
+
+date: 2025-06-11, from: 
+
+Player omissions were noticed when the Flying Fijians and Manu Samoa head coaches announced their respective squads. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563907/flying-fijians-and-manu-samoa-rugby-squads-revealed>
+
+---
+
+## PNG student left with skull fracture after dorm attack
+
+date: 2025-06-11, from: 
+
+Arrests have been made in relation to an attack on PNG students. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563905/png-student-left-with-skull-fracture-after-dorm-attack>
+
+---
+
+## Influencer not disqualified from Vanuatu 'golden passport' due to no conviction - OCCRP editor
+
+date: 2025-06-11, from: 
+
+Dan McGarry said despite facing charges, because Tate has not been convicted, "none of that is disqualifying". 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563906/influencer-not-disqualified-from-vanuatu-golden-passport-due-to-no-conviction-occrp-editor>
+
+---
+
+## Game-changer for tuna
+
+date: 2025-06-11, from: Marshal Islands Journal
+
+<p>A “game-changing” tuna loader arrived in Majuro and is now set up and ready for operations at the Pacific International Inc. dock. The equipment is specially designed to unload tuna from a purse seiner and funnel it through an extended conveyor belt into a freezer container at dock side. The equipment is expected to cut [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/game-changer-for-tuna/">Game-changer for tuna</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/game-changer-for-tuna/>
+
+---
+
+## Wealth beneath the waves: US takes a step toward promoting deep-sea mining amid concerns in the Pacific
+
+date: 2025-06-11, from: Pacific Island Times
+
+ It is believed that, as metals are deposited in the nodules over millions of years, they become electrically charged and are able to split seawater into hydrogen and oxygen in a process called seawater electrolysis, bypassing the need for sunlight to create oxygen. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/wealth-beneath-the-waves-us-takes-a-step-toward-promoting-deep-sea-mining-amid-concerns-in-the-paci>
+
+---
+
+## Pacific news in brief for 12 June
+
+date: 2025-06-11, from: 
+
+A round-up of news in brief from around the region, including a new Tongan consulate in Fiji. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563899/pacific-news-in-brief-for-12-june>
+
+---
+
+## Super Rugby Pacific: teams named for semi-finals
+
+date: 2025-06-11, from: 
+
+The Crusaders, Blues, Chiefs and Brumbies will battle for a place in next weekend's final. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/sport/563816/super-rugby-pacific-teams-named-for-semi-finals>
 
 ---
 
@@ -37,7 +379,7 @@ A Fijian abuse survivor is urging the new head of the Catholic church to adopt a
 
 date: 2025-06-11, from: 
 
-Cleanup efforts following a waste oil spill in Tinian Harbor concluded last weekend with no significant impacts to wildlife or the shoreline, according to the US Coast Guard and the local environmental authority. 
+Cleanup efforts following a waste oil spill in Tinian Harbor concluded last weekend. 
 
 <br> 
 
@@ -94,45 +436,9 @@ The post <a href="https://www.hawaii.edu/news/2025/06/11/image-of-the-week-micro
 
 ---
 
-## 18 Tanapag students earn Certiport digital literacy certification
-
-date: 2025-06-11, updated: 2025-06-11, from: Marianas Variety
-
-EIGHTEEN students of Tanapag Middle School earned their IC3 Digital Literacy Spark certification from Certiport on Monday. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/18-tanapag-students-earn-certiport-digital-literacy-certification/article_8a1b6eb6-5853-431b-ad54-8a079ac5fd68.html>
-
----
-
-## Former Palau honorary consul files EU complaint, alleges human rights violations over entry ban
-
-date: 2025-06-11, updated: 2025-06-11, from: Marianas Variety
-
-KOROR (Island Times/Pacnews) — George Victor Malek, a former honorary consul of Palau to Monaco, has formally requested the European Union to investigate alleged human rights violations committed by Palau’s director of immigration and customs, citing his placement on Palau’s “Undesirable Alien” list without due process. 
-
-<br> 
-
-<https://www.mvariety.com/news/regional_world/former-palau-honorary-consul-files-eu-complaint-alleges-human-rights-violations-over-entry-ban/article_0ce229b3-254a-4228-acb9-6a4d14bc9ecd.html>
-
----
-
-## Trump says China will supply rare earths, US to allow students
-
-date: 2025-06-11, updated: 2025-06-11, from: Marianas Variety
-
-WASHINGTON (Reuters) — President Donald Trump said on Wednesday the U.S. deal with China is done, with Beijing to supply magnets and rare earth minerals while the U.S. will allow Chinese students in its colleges and universities. 
-
-<br> 
-
-<https://www.mvariety.com/news/national/trump-says-china-will-supply-rare-earths-us-to-allow-students/article_63f90d0c-1c7d-4034-9067-c9595414a68e.html>
-
----
-
 ## Joint panel amends CPA bill
 
-date: 2025-06-11, updated: 2025-06-11, from: Marianas Variety
+date: 2025-06-11, updated: 2025-06-12, from: Marianas Variety
 
 A BICAMERAL conference committee on Tuesday amended House Bill 24-17, which proposes to remove the restrictions in the use of Commonwealth Ports Authority funds. 
 
@@ -144,13 +450,49 @@ A BICAMERAL conference committee on Tuesday amended House Bill 24-17, which prop
 
 ## Budget hearings begin on Rota
 
-date: 2025-06-11, updated: 2025-06-11, from: Marianas Variety
+date: 2025-06-11, updated: 2025-06-12, from: Marianas Variety
 
 THE House Ways and Means Committee started the budget review process on Rota to "bridge the gap" between the funding proposed by the municipal and central governments, according to the panel's chairman, Rep. John Paul P. Sablan. 
 
 <br> 
 
 <https://www.mvariety.com/news/local/budget-hearings-begin-on-rota/article_e2718b86-4853-4341-9c7f-bccead5fcc94.html>
+
+---
+
+## 18 Tanapag students earn Certiport digital literacy certification
+
+date: 2025-06-11, updated: 2025-06-12, from: Marianas Variety
+
+EIGHTEEN students of Tanapag Middle School earned their IC3 Digital Literacy Spark certification from Certiport on Monday. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/18-tanapag-students-earn-certiport-digital-literacy-certification/article_8a1b6eb6-5853-431b-ad54-8a079ac5fd68.html>
+
+---
+
+## Former Palau honorary consul files EU complaint, alleges human rights violations over entry ban
+
+date: 2025-06-11, updated: 2025-06-12, from: Marianas Variety
+
+KOROR (Island Times/Pacnews) — George Victor Malek, a former honorary consul of Palau to Monaco, has formally requested the European Union to investigate alleged human rights violations committed by Palau’s director of immigration and customs, citing his placement on Palau’s “Undesirable Alien” list without due process. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/former-palau-honorary-consul-files-eu-complaint-alleges-human-rights-violations-over-entry-ban/article_0ce229b3-254a-4228-acb9-6a4d14bc9ecd.html>
+
+---
+
+## Trump says China will supply rare earths, US to allow students
+
+date: 2025-06-11, updated: 2025-06-12, from: Marianas Variety
+
+WASHINGTON (Reuters) — President Donald Trump said on Wednesday the U.S. deal with China is done, with Beijing to supply magnets and rare earth minerals while the U.S. will allow Chinese students in its colleges and universities. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-says-china-will-supply-rare-earths-us-to-allow-students/article_63f90d0c-1c7d-4034-9067-c9595414a68e.html>
 
 ---
 
@@ -336,6 +678,20 @@ date: 2025-06-11, from: Hawaii Tribune Harold
 
 ---
 
+## ‘Episode 25’ of Kilauea eruption begins
+
+date: 2025-06-11, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;Episode 25&#8221; of the ongoing Halema&#699;uma&#699;u eruption began at 11:57 a.m. today, and lava fountains from the north vent soon reached heights of about 330 feet.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/11/hawaii-news/episode-25-of-kilauea-eruption-begins/>
+
+---
+
 ## 'What it takes to fish and sell in Hawaii': Regional fishery council tackles the commercial aspect of fishing
 
 date: 2025-06-11, from: Pacific Island Times
@@ -371,18 +727,6 @@ date: 2025-06-11, from:
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/563807/tuvalu-calls-for-sea-level-rise-treaty-at-un-oceans-conference>
-
----
-
-## July 4 deadline for voters to enrol for Samoa election
-
-date: 2025-06-11, from: 
-
-Samoans living abroad must complete their full voter registration by 4 July. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/563784/july-4-deadline-for-voters-to-enrol-for-samoa-election>
 
 ---
 

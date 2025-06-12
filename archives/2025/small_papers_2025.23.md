@@ -1,21 +1,184 @@
 ---
 title: small papers
-updated: 2025-06-11 14:07:52
+updated: 2025-06-12 06:07:18
 ---
 
 # small papers
 
-(date: 2025-06-11 14:07:52)
+(date: 2025-06-12 06:07:18)
 
 ---
 
-## Soldiers watched Long Beach protesters from a balcony. Feds says they’re needed for protection
+## Los Angelinos Resisten las Redadas de Inmigración y se Enfrentan con los Agentes Federales
+
+date: 2025-06-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-1-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-1-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-1-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-1-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-1-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-1-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-1-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-1-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-1-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-1-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-1-scaled.jpeg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-1-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-1-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-1-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-1-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Una espesa neblina se cernía sobre Los Ángeles el lunes por la mañana. Mientras la gente vestida de traje caminaba hacia sus trabajos de oficina, las calles del centro de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/11/los-angelinos-resisten-las-redadas-de-inmigracion-y-se-enfrentan-con-los-agentes-federales/">Los Angelinos Resisten las Redadas de Inmigración y se Enfrentan con los Agentes Federales</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/11/los-angelinos-resisten-las-redadas-de-inmigracion-y-se-enfrentan-con-los-agentes-federales/>
+
+---
+
+## Redadas de Inmigración: Un día del Padre Sin Papá
+
+date: 2025-06-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="720" height="405" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/DETAINED-IMMIGRANTS-PHOTO-FROM-GOFUNDME-PAGE-1.webp?fit=720%2C405&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/DETAINED-IMMIGRANTS-PHOTO-FROM-GOFUNDME-PAGE-1.webp?w=720&amp;ssl=1 720w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/DETAINED-IMMIGRANTS-PHOTO-FROM-GOFUNDME-PAGE-1.webp?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/DETAINED-IMMIGRANTS-PHOTO-FROM-GOFUNDME-PAGE-1.webp?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/DETAINED-IMMIGRANTS-PHOTO-FROM-GOFUNDME-PAGE-1.webp?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/DETAINED-IMMIGRANTS-PHOTO-FROM-GOFUNDME-PAGE-1.webp?fit=720%2C405&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Este Día del Padre será difícil para María y sus tres hermanos. Su padre fue arrestado durante recientes redadas de inmigración en Los Ángeles y se espera que pase su [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/11/redadas-de-inmigracion-un-dia-del-padre-sin-papa/">Redadas de Inmigración: Un día del Padre Sin Papá</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/11/redadas-de-inmigracion-un-dia-del-padre-sin-papa/>
+
+---
+
+## Funcionarios Electos Reaccionan a las Redadas de Inmigración en Los Ángeles y Condenan el Despliegue de Fuerzas Federales por Parte de Trump
+
+date: 2025-06-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250606_ICE-Protests_SN_04-1-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250606_ICE-Protests_SN_04-1-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250606_ICE-Protests_SN_04-1-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250606_ICE-Protests_SN_04-1-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250606_ICE-Protests_SN_04-1-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250606_ICE-Protests_SN_04-1-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250606_ICE-Protests_SN_04-1-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250606_ICE-Protests_SN_04-1-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250606_ICE-Protests_SN_04-1-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250606_ICE-Protests_SN_04-1-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250606_ICE-Protests_SN_04-1-scaled.jpeg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250606_ICE-Protests_SN_04-1-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250606_ICE-Protests_SN_04-1-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250606_ICE-Protests_SN_04-1-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250606_ICE-Protests_SN_04-1-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Desde el Congreso hasta el concejo municipal local, los funcionarios electos se han pronunciado en contra de las redadas del Servicio de Inmigración y Control de Aduanas de Estados Unidos [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/11/funcionarios-electos-reaccionan-a-las-redadas-de-inmigracion-en-los-angeles-y-condenan-el-despliegue-de-fuerzas-federales-por-parte-de-trump/">Funcionarios Electos Reaccionan a las Redadas de Inmigración en Los Ángeles y Condenan el Despliegue de Fuerzas Federales por Parte de Trump</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/11/funcionarios-electos-reaccionan-a-las-redadas-de-inmigracion-en-los-angeles-y-condenan-el-despliegue-de-fuerzas-federales-por-parte-de-trump/>
+
+---
+
+## Horóscopo
+
+date: 2025-06-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Tu panorama social está cambiando. Este es un momento clave para asegurarse de que las cosas crezcan en [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/11/horoscopo-218/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/11/horoscopo-218/>
+
+---
+
+## EVENTOS Locales – Semana de 12 de junio, 2025
+
+date: 2025-06-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Sábado, Junio 14 Pruebas de Detección Gratuitas del Corazón y los Riñones Knights of Columbus 13308 Maclay Street San Fernando 7:30 a.m. – 4:30 p.m. Una prueba de detección gratuita [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/11/eventos-locales-semana-de-12-de-junio-2025/">EVENTOS Locales &#8211; Semana de 12 de junio, 2025</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/11/eventos-locales-semana-de-12-de-junio-2025/>
+
+---
+
+## Glendale Termina Contrato con ICE Después de la Protesta su Residentes
+
+date: 2025-06-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="449" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-11-at-2.13.32-PM-1-scaled.png?fit=1024%2C449&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-11-at-2.13.32-PM-1-scaled.png?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-11-at-2.13.32-PM-1-scaled.png?resize=300%2C131&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-11-at-2.13.32-PM-1-scaled.png?resize=1024%2C449&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-11-at-2.13.32-PM-1-scaled.png?resize=768%2C336&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-11-at-2.13.32-PM-1-scaled.png?resize=1536%2C673&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-11-at-2.13.32-PM-1-scaled.png?resize=2048%2C897&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-11-at-2.13.32-PM-1-scaled.png?resize=1200%2C526&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-11-at-2.13.32-PM-1-scaled.png?resize=2000%2C876&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-11-at-2.13.32-PM-1-scaled.png?resize=780%2C342&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-11-at-2.13.32-PM-1-scaled.png?resize=400%2C175&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-11-at-2.13.32-PM-1-scaled.png?resize=706%2C309&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-11-at-2.13.32-PM-1-scaled.png?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-11-at-2.13.32-PM-1-scaled.png?fit=1024%2C449&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Después de protestas privadas y públicas de residentes preocupados, la ciudad de Glendale terminó su acuerdo con el Departamento de Seguridad Nacional de los Estados Unidos y el Servicio de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/11/glendale-termina-contrato-con-ice-despues-de-la-protesta-su-residentes/">Glendale Termina Contrato con ICE Después de la Protesta su Residentes </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/11/glendale-termina-contrato-con-ice-despues-de-la-protesta-su-residentes/>
+
+---
+
+## El Líder Sindical David Huerta Enfrenta Cargos Federales por Protestar Contra las Detenciones de Inmigrantes
+
+date: 2025-06-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="683" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250609_SEIU-Rally_SN_03-scaled.jpeg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250609_SEIU-Rally_SN_03-scaled.jpeg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250609_SEIU-Rally_SN_03-scaled.jpeg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250609_SEIU-Rally_SN_03-scaled.jpeg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250609_SEIU-Rally_SN_03-scaled.jpeg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250609_SEIU-Rally_SN_03-scaled.jpeg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250609_SEIU-Rally_SN_03-scaled.jpeg?resize=1366%2C2048&amp;ssl=1 1366w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250609_SEIU-Rally_SN_03-scaled.jpeg?resize=1200%2C1800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250609_SEIU-Rally_SN_03-scaled.jpeg?resize=2000%2C3000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250609_SEIU-Rally_SN_03-scaled.jpeg?resize=780%2C1170&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250609_SEIU-Rally_SN_03-scaled.jpeg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250609_SEIU-Rally_SN_03-scaled.jpeg?resize=706%2C1059&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250609_SEIU-Rally_SN_03-scaled.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250609_SEIU-Rally_SN_03-scaled.jpeg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El arresto del líder sindical David Huerta se convirtió en un grito de guerra para los activistas inmigrantes y laborales, que exigieron su liberación y el fin de las redadas [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/11/el-lider-sindical-david-huerta-enfrenta-cargos-federales-por-protestar-contra-las-detenciones-de-inmigrantes/">El Líder Sindical David Huerta Enfrenta Cargos Federales por Protestar Contra las Detenciones de Inmigrantes</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/11/el-lider-sindical-david-huerta-enfrenta-cargos-federales-por-protestar-contra-las-detenciones-de-inmigrantes/>
+
+---
+
+## La Película ‘Uvalde Mom’ Destaca la Voluntad de Sacrificio de una Madre
+
+date: 2025-06-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/UVALDE-MOM-documentary-film-1-1.webp?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/UVALDE-MOM-documentary-film-1-1.webp?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/UVALDE-MOM-documentary-film-1-1.webp?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/UVALDE-MOM-documentary-film-1-1.webp?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/UVALDE-MOM-documentary-film-1-1.webp?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/UVALDE-MOM-documentary-film-1-1.webp?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/UVALDE-MOM-documentary-film-1-1.webp?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/UVALDE-MOM-documentary-film-1-1.webp?resize=780%2C439&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/UVALDE-MOM-documentary-film-1-1.webp?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/UVALDE-MOM-documentary-film-1-1.webp?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/UVALDE-MOM-documentary-film-1-1.webp?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Tres años después del tiroteo en la escuela de Uvalde, Texas, un nuevo documental revisita el trágico evento, contando la inspiradora historia de una madre valiente que lo arriesgó todo [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/11/la-pelicula-uvalde-mom-destaca-la-voluntad-de-sacrificio-de-una-madre/">La Película ‘Uvalde Mom’ Destaca la Voluntad de Sacrificio de una Madre</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/11/la-pelicula-uvalde-mom-destaca-la-voluntad-de-sacrificio-de-una-madre/>
+
+---
+
+## El Fiscal General de California Demanda a la Administración Trump por la Federalización de la Guardia Nacional
+
+date: 2025-06-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="557" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-09-at-11.14.45-AM.png?fit=1024%2C557&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-09-at-11.14.45-AM.png?w=2270&amp;ssl=1 2270w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-09-at-11.14.45-AM.png?resize=300%2C163&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-09-at-11.14.45-AM.png?resize=1024%2C557&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-09-at-11.14.45-AM.png?resize=768%2C417&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-09-at-11.14.45-AM.png?resize=1536%2C835&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-09-at-11.14.45-AM.png?resize=2048%2C1113&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-09-at-11.14.45-AM.png?resize=1200%2C652&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-09-at-11.14.45-AM.png?resize=2000%2C1087&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-09-at-11.14.45-AM.png?resize=780%2C424&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-09-at-11.14.45-AM.png?resize=400%2C217&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-09-at-11.14.45-AM.png?resize=706%2C384&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-09-at-11.14.45-AM.png?fit=1024%2C557&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>En respuesta a que la administración de Donald Trump federalizó la Guardia Nacional de California sin autorización del gobernador Gavin Newsom y la desplegó en Los Ángeles durante el fin [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/11/el-fiscal-general-de-california-demanda-a-la-administracion-trump-por-la-federalizacion-de-la-guardia-nacional/">El Fiscal General de California Demanda a la Administración Trump por la Federalización de la Guardia Nacional</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/11/el-fiscal-general-de-california-demanda-a-la-administracion-trump-por-la-federalizacion-de-la-guardia-nacional/>
+
+---
+
+## Angelenos Resist Immigration Raids and Clash with Federal Agents
+
+date: 2025-06-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_05-scaled-e1749694981796.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_05-scaled-e1749694981796.jpeg?w=1900&amp;ssl=1 1900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_05-scaled-e1749694981796.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_05-scaled-e1749694981796.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_05-scaled-e1749694981796.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A thick haze hung over Los Angeles on Monday morning. While people in suits walked to their office jobs, the streets of downtown were marked with the remains of altercations [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/11/angelenos-resist-immigration-raids-and-clash-with-federal-agents/">Angelenos Resist Immigration Raids and Clash with Federal Agents</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/11/angelenos-resist-immigration-raids-and-clash-with-federal-agents/>
+
+---
+
+## 2 people seriously hurt, including a pedestrian, in rollover crash near Heartwell Park
 
 date: 2025-06-11, from: Long Beach Post
 
-<figure><img width="1024" height="658" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1024x658.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1024x658.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-300x193.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-768x494.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-168x108.jpg 168w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1536x988.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1200x772.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1568x1008.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-400x257.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj.jpg 1608w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="663" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-1024x663.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-1024x663.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-300x194.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-768x497.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-167x108.jpg 167w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-1536x995.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-2048x1326.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-1200x777.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-1568x1015.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-400x259.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A vehicle appeared to have ripped a bus bench from its foundation, leaving it tattered next to the telephone pole.</p>
+<p>The post <a href="https://lbpost.com/news/carson-palo-verda-crash-rollover-police">2 people seriously hurt, including a pedestrian, in rollover crash near Heartwell Park</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/carson-palo-verda-crash-rollover-police>
+
+---
+
+## Soldiers watched Long Beach protesters from a balcony. Feds say they’re needed for protection
+
+date: 2025-06-11, from: Long Beach Post
+
+<figure><img width="1024" height="658" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1024x658.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1024x658.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-300x193.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-768x494.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-168x108.jpg 168w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1536x988.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1200x772.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1568x1008.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-400x257.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj.jpg 1608w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Police said the protest was peaceful. It’s an example of the conflict roiling national politics manifesting on the streets of Long Beach. </p>
-<p>The post <a href="https://lbpost.com/news/immigration/national-guard-long-beach-protest-federal-building">Soldiers watched Long Beach protesters from a balcony. Feds says they’re needed for protection</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/national-guard-long-beach-protest-federal-building">Soldiers watched Long Beach protesters from a balcony. Feds say they’re needed for protection</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
 
 <br> 

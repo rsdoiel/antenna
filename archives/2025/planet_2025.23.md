@@ -1,11 +1,571 @@
 ---
 title: planet
-updated: 2025-06-11 14:07:43
+updated: 2025-06-12 06:07:08
 ---
 
 # planet
 
-(date: 2025-06-11 14:07:43)
+(date: 2025-06-12 06:07:08)
+
+---
+
+## Phone pouch funding to include other 'storage solutions'
+
+date: 2025-06-12, from: RTÉ News
+
+The Government has said €9 million in funding for mobile phone pouches for secondary schools will now also fund other phone storage solutions. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0612/1518119-phone-pouches/>
+
+---
+
+## Govt committed to gender-based violence bill - Tánaiste
+
+date: 2025-06-12, from: RTÉ News
+
+The Government will examine a Solidarity-People Before Profit bill on gender-based violence and the potential banning of the availability of therapy notes in court cases if the coalition does not "get our act together" within a year, Tánaiste Simon Harris has said. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0612/1518122-gender-violence-bill/>
+
+---
+
+## LA Archbishop: God loves us ‘no matter what country we come from'
+
+date: 2025-06-12, from: Vatican News
+
+
+                    <p>At a Mass for Peace and Unity held in Los Angeles following widespread protests against mass deportations, Archbishop José Gomez says that Jesus loves us “no matter what countries we come from, or the language that we speak”.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/los-angeles-protests-archbishop-gomez-god-loves-us-mexico.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/los-angeles-protests-archbishop-gomez-god-loves-us-mexico.html>
+
+---
+
+## Pope Leo XIV ‘deeply saddened’ by London-bound plane crash in India
+
+date: 2025-06-12, from: Vatican News
+
+
+                    <p>Pope Leo XIV expresses his condolences and prays for the victims of an Air India flight bound for London with 242 people aboard that crashed after takeoff in the Indian city of Ahmedabad.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-condolences-air-india-plane-crash.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-condolences-air-india-plane-crash.html>
+
+---
+
+## Los Angeles 'safe and sound for last two nights' - Trump
+
+date: 2025-06-12, from: RTÉ News
+
+Los Angeles "was safe and sound for the last two nights", US President Donald Trump has said, as he hailed troops for helping to restore order in the city after days of anti-deportation protests. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0612/1518113-la-safe-trump/>
+
+---
+
+## Three teenagers charged, remanded in custody in Ballymena
+
+date: 2025-06-12, from: RTÉ News
+
+Three teenagers have been charged with riot and remanded in custody in the wake of ongoing disorder in Ballymena, Co Antrim. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0612/1518099-ballymena-teenagers-charged/>
+
+---
+
+## UN nuclear watchdog says Iran in breach of obligations
+
+date: 2025-06-12, from: RTÉ News
+
+The UN nuclear watchdog's board of governors has declared Iran in breach of its non-proliferation obligations and Tehran announced counter-measures, as an Iranian official said a "friendly country" had warned it of a potential Israeli attack. 
+
+<br> 
+
+<https://www.rte.ie/news/asia/2025/0612/1518056-iran-nuclear-watchdog/>
+
+---
+
+## Displacement doubles while funding shrinks, warns UNHCR
+
+date: 2025-06-12, from: United Nations, Top Stories
+
+With 13.5 million people displaced by over 13 years of brutal civil conflict, Syria used to represent the largest displacement crisis in the world. This is no longer the case. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164256>
+
+---
+
+## TikTok star leaves the US after being detained by ICE
+
+date: 2025-06-12, from: RTÉ News
+
+Khaby Lame, one of the world's most popular TikTok personalities, with over 160 million followers, has left the US after being detained by immigration agents in Las Vegas for allegedly overstaying his visa. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0612/1518098-tiktok-star-leaves-the-us-after-being-detained-by-ice/>
+
+---
+
+## US Open Day 1 updates: McIlroy and Lowry out early
+
+date: 2025-06-12, from: RTÉ News
+
+It's the opening round of the most brutal major championship of the lot. Keep an eye on all the goings-on at the 125th US Open with our live updates... 
+
+<br> 
+
+<https://www.rte.ie/sport/golf/2025/0612/1518038-us-open-day-1-updates-mcilroy-and-lowry-out-early/>
+
+---
+
+## Discovery of manhole halted work on Dáil bike shelter
+
+date: 2025-06-12, from: RTÉ News
+
+Construction on Leinster House's controversial €336,000 bicycle shelter had to be halted after a large manhole was "discovered" on site that was not spotted when drawing up site plans. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0612/1518095-dail-bike-shelter/>
+
+---
+
+## Inquest finds jockey died after traumatic brain injury
+
+date: 2025-06-12, from: RTÉ News
+
+An inquest into the death of jockey Michael O'Sullivan has been told that the 24-year-old died of a severe traumatic brain injury, complicated by brain swelling with cerebral infarction, due to a riding accident. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0612/1518090-michael-osullivan-inquest/>
+
+---
+
+## Hundreds of weight-loss products seized by Revenue
+
+date: 2025-06-12, from: RTÉ News
+
+Weight-loss products, including items packaged as Ozempic, Wegovy and Mounjaro, have been seized following a number of operations by the Revenue Commissioners. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0612/1518088-revenue-weight-loss/>
+
+---
+
+## Fall in number of homes approved for planning permission
+
+date: 2025-06-12, from: RTÉ News
+
+The number of homes approved for planning permission fell by 2.5% in the first three months of this year compared to the same period in 2024, according to the Central Statistics Office. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0612/1518085-planning-housing/>
+
+---
+
+## Pope to Rome's priests: 'You are all precious in the eyes of God'
+
+date: 2025-06-12, from: Vatican News
+
+
+                    <p>Welcoming all the priests of Rome in the Vatican, Pope Leo XIV applauds them for their faith and service, urges them to love the Church and be exemplary, and insists, "You are all precious in the eyes of God and in the realization of His plan."</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-meets-with-all-priests-of-rome.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-meets-with-all-priests-of-rome.html>
+
+---
+
+## 200 bodies recovered from plane crash site - police
+
+date: 2025-06-12, from: RTÉ News
+
+Keep up to date with all the latest developments after a plane carrying 242 people on board crashed minutes after take-off from the city of Ahmedabad in India. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0612/1518077-air-india-plane/>
+
+---
+
+## HIQA called to appear before Public Accounts Committee
+
+date: 2025-06-12, from: RTÉ News
+
+The Public Accounts Committee has asked HIQA to come before it to discuss its role in inspecting nursing homes. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0612/1518083-pac-hiqa/>
+
+---
+
+## McEntee: Difficult to find special class places in Dublin
+
+date: 2025-06-12, from: RTÉ News
+
+Minister for Education Helen McEntee says there have been difficulties finding a place in a special class for some children in Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/education/2025/0612/1518078-mcentee-special-classes/>
+
+---
+
+## Reformed Triple Lock would not impact neutrality - Harris
+
+date: 2025-06-12, from: RTÉ News
+
+Tánaiste and Minister for Defence Simon Harris has said he does not believe a reformed Triple Lock would impact Ireland's policy of military neutrality. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0612/1518080-triple-lock/>
+
+---
+
+## Concern over children in State care who have gone missing
+
+date: 2025-06-12, from: RTÉ News
+
+An inspection of Tusla's Separated Children Seeking International Protection service has discovered that, in January and February of this year, approximately 30 children were missing and unaccounted for. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0612/1518070-hiqa-report/>
+
+---
+
+## Data watchdog issues €550K fine over Public Services Card
+
+date: 2025-06-12, from: RTÉ News
+
+The Data Protection Commission has fined the Department of Social Protection €550,000 for breaches of privacy rules relating to the use of facial recognition technology in the registration process for the Public Services Card. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0612/1518065-data-watchdog-issues-550k-fine-over-public-services-card/>
+
+---
+
+## Jubilee of Sport: Champions and artisans of hope
+
+date: 2025-06-12, from: Vatican News
+
+
+                    <p>The Jubilee of Sport, scheduled for June 14–15, invites us to reflect on the role of sport as a source of resilience and fraternity. </p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/jubilee-sport-presentation-olympic-paralympic-holy-door-conferen.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/jubilee-sport-presentation-olympic-paralympic-holy-door-conferen.html>
+
+---
+
+## London-bound plane with 242 on board crashes in India
+
+date: 2025-06-12, from: RTÉ News
+
+A plane travelling from India to London with 242 people on board has crashed minutes after take-off from the western city of Ahmedabad, according to the airline and police. 
+
+<br> 
+
+<https://www.rte.ie/news/asia/2025/0612/1518063-india-plane/>
+
+---
+
+## 'We can't stand it anymore,' Laois mother on Gaza march
+
+date: 2025-06-12, from: RTÉ News
+
+A mother-of-four from Co Laois is flying to Egypt to join people from over 60 countries with the goal of marching to the Rafah crossing in Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/leinster/2025/0612/1518026-global-gaza-march/>
+
+---
+
+## Minister criticised over Larne social media post
+
+date: 2025-06-12, from: RTÉ News
+
+Stormont Communities Minister Gordon Lyons has been criticised for a social media post about the use of Larne Leisure Centre as a respite centre before it was attacked. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0612/1518032-lyons-ulster/>
+
+---
+
+## Man, 60s, arrested on suspicion of Annie McCarrick murder
+
+date: 2025-06-12, from: RTÉ News
+
+A man has been arrested in Dublin on suspicion of the murder of Annie McCarrick, the 26-year-old American woman who went missing more than 32 years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/crime/2025/0612/1518029-annie-mccarrick/>
+
+---
+
+## Central African Republic bishops express desire for peace amid violence
+
+date: 2025-06-12, from: Vatican News
+
+
+                    <p>Bishops Juan Josè Aguirre and Aurelio Gazzera, Bishop and Coadjutor Bishop of Bangassou, respectively, emphasize in a pastoral letter that they are “deeply concerned about the violence affecting the Central African Republic."</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/a-wish-for-the-end-of-violence-in-central-african-republic.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/a-wish-for-the-end-of-violence-in-central-african-republic.html>
+
+---
+
+## United Nations to vote on demand for immediate Gaza ceasefire despite U.S., Israel opposition
+
+date: 2025-06-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7469496.1740608150!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1735000229.jpg' alt='A flag of the United Nations flutters in a blue sky' width='620' height='349' title='A flag of the United Nations flutters at the main entrance of the &quot;Palais des Nations&quot; building which houses the United Nations Office at Geneva, on October 20, 2023. (Photo by Fabrice COFFRINI / AFP) (Photo by FABRICE COFFRINI/AFP via Getty Images)'/><p>The United Nations General Assembly will vote on Thursday on a draft resolution that demands an immediate, unconditional and permanent ceasefire in the war in Gaza after the United States vetoed a similar effort in the Security Council last week.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/united-nations-gaza-ceasefire-1.7559065?cmp=rss>
+
+---
+
+## Entire country could become RPZ under new plan
+
+date: 2025-06-12, from: RTÉ News
+
+The entire country could be made a Rent Pressure Zone before the Dáil rises for its summer break in mid-July. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0612/1518030-rpz-ireland/>
+
+---
+
+## Woman charged in connection with Dublin fatal hit-and-run
+
+date: 2025-06-12, from: RTÉ News
+
+A woman arrested in connection with a fatal hit-and-run in Blanchardstown in Dublin last December has been charged. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0612/1518017-blanchardstown-deaths/>
+
+---
+
+## Ryanair to fine disruptive passengers €500
+
+date: 2025-06-12, from: RTÉ News
+
+Ryanair has introduced a €500 fine for disruptive passengers whose "unruly" behaviour results in them being taken off the plane. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0612/1518013-ryanair-to-fine-disruptive-passengers-500/>
+
+---
+
+## CPSMA: Record number of schools seek financial assistance
+
+date: 2025-06-12, from: RTÉ News
+
+The Catholic Primary School Management Association (CPSMA) has said record numbers of schools have been obliged to seek emergency financial assistance from the Department of Education this year, as they struggle to meet dramatically increased running costs with inadequate funding. 
+
+<br> 
+
+<https://www.rte.ie/news/education/2025/0612/1518003-education/>
+
+---
+
+## Protests over federal immigration raids pop up across the U.S. with more planned
+
+date: 2025-06-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7559083.1749708451!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/immigration-protest-texas.jpg' alt='A woman stands with her arms outstretched in front of a group of police officers in riot gear.' width='620' height='349' title='Anti ICE protesters gather near the Alamo as Texas state troopers keep watch in downtown San Antonio, Wednesday, June 11, 2025. (AP Photo/Eric Gay)'/><p>Protests over federal immigration enforcement raids and U.S. President Donald Trump's move to mobilize the National Guard and Marines in Los Angeles are spreading all over the U.S. and are expected to continue into the weekend. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-immigration-raids-protests-1.7559082?cmp=rss>
+
+---
+
+## Air India flight bound for London with 242 aboard crashes in northwestern India
+
+date: 2025-06-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7559097.1749721878!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-india-plane-crash.jpg' alt='Charred wreckage and debris is shown, with persons standing by.' width='620' height='349' title='Firefighters work at the site of an airplane that crashed in India&apos;s northwestern city of Ahmedabad in Gujarat state on Thursday. The plane was carrying over 240 passengers and crew.'/><p>An Air India passenger plane bound for London with more than 240 people on board crashed Thursday in India's northwestern city of Ahmedabad, the airline said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/india-plane-crash-1.7559094?cmp=rss>
+
+---
+
+## Why did this outfit by a Blackfoot designer lead to controversy… and what does she think about it?
+
+date: 2025-06-12, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7558785.1749679213!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/melrene-saloy-eaglespeaker.jpg' alt='A model holds her hands aloft wearing a tube top of sweetgrass braids and sheer black skirt.' width='620' height='349' title='Blackfoot designer Melrene Saloy-Eaglespeaker, owner of Native Diva Creations, has received criticism and support over her newest collection featuring sage, cedar and sweetgrass.'/><p>A Blackfoot designer says she was shocked when her latest collection received backlash online over the sexualization of Indigenous women and inappropriate use of traditional medicines. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/sweetgrass-fashion-blackfoot-designer-1.7558734?cmp=rss>
+
+---
+
+## Action needed over manufacturing 'skills gap' - report
+
+date: 2025-06-12, from: RTÉ News
+
+A report has found that urgent action is needed to address what it describes as a "skills gap" in the advanced manufacturing sector on the island of Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0612/1518000-skills-gap/>
+
+---
+
+## Why don't people want more kids? That's the wrong question, says a new global report
+
+date: 2025-06-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7558116.1749650829!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mom-and-baby.jpg' alt='A person carries a baby' width='620' height='349' title='A mother carriers her baby during celebrations for Eid al-Adha at Trafalgar Square on June 8, 2025 in London, United Kingdom. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/fertility-rate-un-report-1.7556909?cmp=rss>
+
+---
+
+## 60 killed in Gaza attacks, many near aid site - medics
+
+date: 2025-06-12, from: RTÉ News
+
+Israeli gunfire and airstrikes have killed at least 60 Palestinians in Gaza, most of them near an aid site in the centre of the enclave, according to health officials. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0612/1517999-middle-east/>
+
+---
+
+## Leisure centre damaged in third night of disorder in NI
+
+date: 2025-06-11, from: RTÉ News
+
+Larne Leisure Centre in Co Antrim has been badly damaged after masked youths attacked the facility last night. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0612/1517997-ballymena-larne-disorder/>
+
+---
+
+## Yellow Rain warnings in place with flooding possible
+
+date: 2025-06-11, from: RTÉ News
+
+Two Status Yellow rain warnings are in place as Met Éireann warned of localised flooding, lightning damage, poor visibility and difficult travel conditions. 
+
+<br> 
+
+<https://www.rte.ie/news/weather/2025/0612/1517989-thunderstorm-warnings/>
+
+---
+
+## Public consultation on first maritime security strategy
+
+date: 2025-06-11, from: RTÉ News
+
+A public consultation on Ireland's first National Maritime Security Strategy is due to be launched by Tánaiste Simon Harris. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0612/1517993-maritime-security-strategy/>
+
+---
+
+## Updated pledge aims to encourage healthier life choices
+
+date: 2025-06-11, from: RTÉ News
+
+An online module is to be made available to pupils in Catholic schools who wish to avail of an updated Confirmation Pledge next year. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0611/1517994-confirmation-pledge/>
+
+---
+
+## Genius ear of Brian Wilson pushed boundaries of music
+
+date: 2025-06-11, from: RTÉ News
+
+Brian Wilson, The Beach Boys co-founder who masterminded the group's decades-long popularity and soundtracked the California dream, has died aged 82. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0611/1517984-brian-wilson-obituary/>
+
+---
+
+## Anti-immigration riots fuel fear and violence in Northern Ireland
+
+date: 2025-06-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/da702cd4-3995-46a6-a4b5-5bafe4acc616,1749661197110/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Officers in front of a car on fire' width='620' height='349' title='Police officers operate near a burning vehicle during a second night of riots, in Ballymena, Northern Ireland, June 11, 2025.'/><p>Communities in Northern Ireland are reeling after two nights of anti-immigration riots left homes destroyed and tensions high. Dozens of police officers were injured in the violence, which authorities say was racially motivated.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6794753?cmp=rss>
+
+---
+
+## RFK Jr. names new vaccine advisers after firing previous advisory committee
+
+date: 2025-06-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7558978.1749686609!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='A man smiles, sitting behind a microphone.' width='620' height='349' title='Health and Human Services Secretary Robert F. Kennedy Jr., left, and Education Secretary Linda McMahon attend a Make America Healthy Again (MAHA) Commission Event in the East Room of the White House, Thursday, May 22, 2025, in Washington. (AP Photo/Jacquelyn Martin)'/><p>U.S. Health Secretary Robert Kennedy Jr. on Wednesday named eight members to serve on a key panel of vaccine advisers after abruptly firing all 17 sitting members of the independent panel of experts.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/rfk-names-vaccine-advisers-1.7558969?cmp=rss>
 
 ---
 
@@ -18,6 +578,18 @@ Labour TD Alan Kelly has told the Dáil that gardaí gave guns to Evan Fitzgeral
 <br> 
 
 <https://www.rte.ie/news/2025/0611/1517974-carlow-gunman-dail/>
+
+---
+
+## Gardaí gave guns to Carlow gunman, Dáil hears
+
+date: 2025-06-11, from: RTÉ News
+
+Labour TD Alan Kelly has told the Dáil that gardaí gave guns to Evan Fitzgerald, the 22-year-old who was facing firearms charges but died from a self-inflicted gunshot injury at a shopping centre in Carlow on 1 June. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0611/1517974-carlow-gunman-dail/>
 
 ---
 
@@ -42,6 +614,18 @@ The United States is preparing a partial evacuation of its Iraqi embassy and wil
 <br> 
 
 <https://www.rte.ie/news/middle-east/2025/0611/1517971-us-embassy-iraq/>
+
+---
+
+## Survivors of Ireland's notorious homes for unwed mothers could lose benefits in the U.K.
+
+date: 2025-06-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7558739.1749674934!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-philomena-adoption.JPG' alt='A middle-aged woman looks to one side, while an older woman next to her, with short brown hair, looks directly into the camera, the lens focused on her frowning face.' width='620' height='349' title='Philomena Lee (R) looks on next to her daughter Jane (L) during a news conference in downtown Rome, February 6, 2014. The 80-year-old Irish woman who inspired the Oscar-nominated film &quot;Philomena&quot; took her campaign for access to adoption records to the U.S. Congress on Thursday, and a senator said lawmakers might urge Ireland to act on the issue. Lee, who searched for 50 years for the son she was forced to give up as a teenager, launched a campaign last week calling on Dublin to pass laws for the release of more than 60,000 adoption files held by the state, private adoption agencies and the Catholic Church. Like thousands of other children, Lee&apos;s son was adopted by an American family, and she said she was overwhelmed by the support her story has generated in the United States. &quot;Philomena&quot; received four Academy Award nominations this month, including one for actress Judi Dench, who plays Lee.   REUTERS/Alessandro Bianchi (ITALY - Tags: SOCIETY ENTERTAINMENT PROFILE)'/><p>Philomena Lee's story of being forcibly separated from her toddler son brought global attention to the horrors of Ireland's mother and baby homes. Now 92 and living in the U.K., she could see her government benefits clawed back if she accepts Ireland's compensation package.</p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/asithappens/philomenas-law-uk-1.7558684?cmp=rss>
 
 ---
 
@@ -133,6 +717,18 @@ A man has been jailed for eight months after committing a sexual assault on the 
 
 ---
 
+## Man jailed for eight months after sexual assault on Luas
+
+date: 2025-06-11, from: RTÉ News
+
+A man has been jailed for eight months after committing a sexual assault on the Luas last year. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0611/1517948-abdiweli-ali-luas/>
+
+---
+
 ## Gaza aid activists held in solitary confinement by Israel
 
 date: 2025-06-11, from: RTÉ News
@@ -166,6 +762,18 @@ A man charged with the murder of his mother, whose body was discovered in boglan
 <br> 
 
 <https://www.rte.ie/news/2025/0611/1517946-nebojsa-pap-trial/>
+
+---
+
+## Man charged with murdering his mother sent for trial
+
+date: 2025-06-11, from: RTÉ News
+
+A man charged with the murder of his mother, whose body was discovered in bogland in south Roscommon in December, has been served with a book of evidence and sent forward for trial at the Central Criminal Court. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0611/1517946-nebojsa-pap-trial/>
 
 ---
 
@@ -233,6 +841,18 @@ date: 2025-06-11, from: CBC, World News
 
 ---
 
+## Health officials say Israeli airstrikes, gunfire leave 60 dead in Gaza
+
+date: 2025-06-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7558789.1749676716!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/israeli-military-vehicle-driving-near-the-border-with-gaza.jpg' alt='An Israeli armoured personnel carrier is seen driving in southern Israel, near the border with Gaza.' width='620' height='349' title='An Israeli army armored personnel carrier maneuvers near the Israel-Gaza border, southern Israel, Wednesday, June 11, 2025.'/><p>Israeli gunfire and airstrikes killed at least 60 Palestinians in Gaza on Wednesday, including more than two dozen near an aid site operated by the U.S.- and Israeli-backed Gaza Humanitarian Foundation (GHF) in the centre of the enclave, local health officials said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/gaza-aid-sites-israel-strikes-hostages-1.7558538?cmp=rss>
+
+---
+
 ## Man arrested after jewellery worth over €100,000 stolen
 
 date: 2025-06-11, from: RTÉ News
@@ -297,7 +917,7 @@ The jury in the trial of Jozef Puska's brothers and sisters in law over their ac
 
 date: 2025-06-11, from: RTÉ News
 
-A 36-year-old man who abused builders and ordered them to leave a disused hotel they were renovating in Co Wicklow last year has been convicted of a criminal offence and fined in court in Arklow. 
+A 36-year-old man who abused builders and ordered them to leave a disused hotel they were renovating in Co Wicklow last year has been convicted of a criminal offence and fined. 
 
 <br> 
 
@@ -353,6 +973,18 @@ The National Treatment Purchase Fund (NTPF) has said that following a meeting of
 
 ---
 
+## Beaumont Hospital had NTPF funding suspended in April
+
+date: 2025-06-11, from: RTÉ News
+
+The National Treatment Purchase Fund (NTPF) has said that following a meeting of its Board, it is to resume insourcing work, effective immediately, with Children's Health Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0611/1517895-ntpf-chi/>
+
+---
+
 ## Ballymena perpetrators will be brought to justice - Benn
 
 date: 2025-06-11, from: RTÉ News
@@ -397,11 +1029,11 @@ date: 2025-06-11, from: Vatican News
 
 ---
 
-## Bond sales an issue for Israel not Central Bank, TDs told
+## Govt defeats bill to block sale of Israeli war bonds
 
 date: 2025-06-11, from: RTÉ News
 
-The Central Bank will be contacted by Israel in late summer over whether it wants Ireland to continue to facilitate the sale of its war bonds - but any decision will be up to Israel rather than Irish officials, TDs have been told. 
+The Government has defeated a Social Democrats motion demanding the Irish Central Bank not facilitate the sale of Israeli war bonds by 85 votes to 71. 
 
 <br> 
 
@@ -459,7 +1091,7 @@ The Government's new policy on rents has been branded a "shambles" by Sinn Féin
 
 ## The world pledged to end child labour by 2025: So why are 138 million kids still working?
 
-date: 2025-06-11, from: United Nations, Top Stories
+date: 2025-06-11, from: United Nations, Economic Development
 
 Twelve-year-old Tenasoa crawls to work every day at a mine in eastern Madagascar where she collects two kilos of the shiny mineral mica each day. She cannot walk because of a physical disability. 
 
@@ -483,7 +1115,7 @@ Survivors of a people-smuggling operation in the Red Sea have recounted how they
 
 ## ‘Plenty of fish in the sea’? Not anymore, say UN experts in Nice
 
-date: 2025-06-11, from: United Nations, Climate Change
+date: 2025-06-11, from: United Nations, Economic Development
 
 At the Third UN Ocean Conference in Nice, the “catch of the day” wasn’t a seabass or a red mullet – it was a figure: 35 per cent. That’s the share of global fish stocks now being harvested unsustainably, according to a new UN report released Wednesday. 
 
@@ -1447,7 +2079,7 @@ An unregistered business operating in a shed building, where the other half of t
 
 ## Social and economic barriers, not choice, driving global fertility crisis: UNFPA
 
-date: 2025-06-10, from: United Nations, Top Stories
+date: 2025-06-10, from: United Nations, Economic Development
 
 The global fertility slump isn’t down to young people turning their backs on parenthood – it’s due to social and economic pressures stopping them from having the children they want, says a new UN report.&nbsp; 
 
@@ -1459,7 +2091,7 @@ The global fertility slump isn’t down to young people turning their backs on p
 
 ## The battle to quiet the sea: Can the shipping industry turn down the volume?
 
-date: 2025-06-10, from: United Nations, Climate Change
+date: 2025-06-10, from: United Nations, Economic Development
 
 The ocean has never been silent – waves crashing, seabirds calling, whales singing across vast distances. But in recent decades, a new kind of noise has taken hold: the relentless hum of ships. For many marine species, this growing wall of sound is more than a nuisance – it’s a threat to their survival. 
 
@@ -1471,7 +2103,7 @@ The ocean has never been silent – waves crashing, seabirds calling, whales sin
 
 ## Greed is driving oceans toward collapse
 
-date: 2025-06-10, from: United Nations, Climate Change
+date: 2025-06-10, from: United Nations, Economic Development
 
 The ocean is under siege – and greed is to blame. UN Secretary-General António Guterres on Tuesday urged world leaders and grassroots groups to confront the powerful interests driving marine destruction, from illegal fishing and plastic pollution to the accelerating impacts of climate change. 
 
@@ -1543,7 +2175,7 @@ The very real risk of famine continues to stalk Sudan’s communities impacted b
 
 ## World News in Brief: Global growth slows, deadly Ukraine attacks, Haiti hurricane hunger risk, legal migration for refugees
 
-date: 2025-06-10, from: United Nations, Top Stories
+date: 2025-06-10, from: United Nations, Economic Development
 
 Global economic growth is expected to decline this year due to increased trade barriers and policy uncertainty, the World Bank said in a report published on Tuesday.&nbsp; 
 
@@ -2247,7 +2879,7 @@ date: 2025-06-09, from: CBC, Indigenious News
 
 ## Guterres calls for an end to ocean ‘plunder’ as UN summit opens in France
 
-date: 2025-06-09, from: United Nations, Climate Change
+date: 2025-06-09, from: United Nations, Economic Development
 
 With the Mediterranean glittering in the background, UN Secretary-General António Guterres opened the Third United Nations Ocean Conference on Monday, delivering a blunt indictment of humanity’s fractured relationship with the sea. 
 
@@ -2271,7 +2903,7 @@ The worsening humanitarian crisis in the Gaza Strip has reached “unprecedented
 
 ## No green without blue: Young ocean explorers set sail for a sustainable future
 
-date: 2025-06-09, from: United Nations, Climate Change
+date: 2025-06-09, from: United Nations, Economic Development
 
 With science at the forefront of the opening day of the Third UN Ocean Conference (UNOC3), UN News boarded a 111-year-old Norwegian tall ship on the French Riviera to meet 50 science students, along with a host of lecturers and citizen scientists fresh from a 46-day expedition. Fueled by satellite data from the European Space Agency (ESA), their invaluable observations echo the urgent call to understand and protect the world’s oceans. 
 
@@ -2853,7 +3485,7 @@ Whether it’s their first time or a routine part of their life, menstruation ha
 
 ## Drifting architects: Plankton, climate, and the race to understand our changing ocean
 
-date: 2025-06-08, from: United Nations, Climate Change
+date: 2025-06-08, from: United Nations, Economic Development
 
 They drift unseen, but everything depends on them. Plankton – the ocean’s lifeblood –&nbsp;regulate the climate, feed the seas, and shape life on Earth. Scientists along the French Riviera are in a race against time to unlock the mysteries of these tiny organisms before their decline reverberates across the planet. 
 
@@ -3160,6 +3792,18 @@ date: 2025-06-08, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/los-angeles-ice-protests-1.7557650?cmp=rss>
+
+---
+
+## After days of raids, Los Angeles day labourers set aside their fear to support their families
+
+date: 2025-06-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/a75b270e-2857-40c9-a2f3-e700ceb64baf,1749689635998/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Protesters, one holding a flag that says &quot;abolish Ice&quot;' width='620' height='349' title='People protest against federal immigration sweeps, near the U.S. immigration court at the Jacob K. Javits Federal Building, in New York City, U.S., June 11,'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/los-angeles-day-labourers-1.7559009?cmp=rss>
 
 ---
 

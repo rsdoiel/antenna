@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-06-11 14:07:49
+updated: 2025-06-12 06:07:15
 ---
 
 # libraries
 
-(date: 2025-06-11 14:07:49)
+(date: 2025-06-12 06:07:15)
+
+---
+
+## We Need AI Standards for Scholarly Publishing: A NISO Workshop Report
+
+date: 2025-06-12, from: Scholarly Kitchen
+
+<p>NISO issues a report on workshops looking to improve the efficiency of working with AI systems in scholarly publishing</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/06/12/we-need-ai-standards-for-scholarly-publishing-a-niso-workshop-report/">We Need AI Standards for Scholarly Publishing: A NISO Workshop Report</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/06/12/we-need-ai-standards-for-scholarly-publishing-a-niso-workshop-report/>
 
 ---
 

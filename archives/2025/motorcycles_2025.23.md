@@ -1,11 +1,84 @@
 ---
 title: motorcycles
-updated: 2025-06-11 14:07:50
+updated: 2025-06-12 06:07:15
 ---
 
 # motorcycles
 
-(date: 2025-06-11 14:07:50)
+(date: 2025-06-12 06:07:15)
+
+---
+
+## Stop Riding Your 2024 and 2025 Kawasaki Ninja ZX-6R Right Now
+
+date: 2025-06-12, from: Ride Apart, Electric Motorcycle News
+
+This is not a drill; it's a serious recall you need to get fixed ASAP. 
+
+<br> 
+
+<https://www.rideapart.com/news/762445/kawasaki-ninja-zx6r-crankshaft-recall/>
+
+---
+
+## Fake Motorcycle Gear Seller Fined and Dissolved by Authorities, but It's Not Enough
+
+date: 2025-06-12, from: Ride Apart, Electric Motorcycle News
+
+I hope this is the last we see of them, but we might end up playing whack-a-mole. 
+
+<br> 
+
+<https://www.rideapart.com/news/762370/bikers-lifestyle-dissolved-fined-prosecution/>
+
+---
+
+## Garmin Made Its Overland GPS Bigger, Better, and Brighter Just In Time for Adventures
+
+date: 2025-06-12, from: Ride Apart, Electric Motorcycle News
+
+Go further, deeper, and do it with a bigger screen.  
+
+<br> 
+
+<https://www.rideapart.com/news/762291/garmin-tread-2-gps-overland-sxs-updated-price-features-tech/>
+
+---
+
+## This Electric Sportbike Just Went On Sale In Germany, Can It Make Waves In the US?
+
+date: 2025-06-12, from: Ride Apart, Electric Motorcycle News
+
+Does this made-in-India EV motorcycle have what it takes to invade Europe? 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/762182/ultraviolette-f77-mach2-for-sale-germany/>
+
+---
+
+## Royal Enfield's New Electric Off-Roader Is Fast Becoming Reality, Spied Testing
+
+date: 2025-06-12, from: Ride Apart, Electric Motorcycle News
+
+I still love Royal Enfield's A+ dad joke name of the "Him-E." 
+
+<br> 
+
+<https://www.rideapart.com/news/762273/royal-enfield-him-e-ev-electric-himalayan-450-spied/>
+
+---
+
+## Denny Hamlin Gets A Huge NASCAR Win For Toyota In Detroit’s Backyard
+
+date: 2025-06-11, from: Kickin the Tires blog
+
+By John Keller, Guest Writer BROOKLYN, Mich. – Following his victory burnouts at Michigan International Speedway, race winner Denny Hamlin appeared to try to rile the crowd with a salute&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/denny-hamlin-gets-a-huge-nascar-win-for-toyota-in-detroits-backyard/>
 
 ---
 

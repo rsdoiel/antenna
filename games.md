@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2025-06-11 14:07:48
+updated: 2025-06-12 06:07:13
 ---
 
 # games
 
-(date: 2025-06-11 14:07:48)
+(date: 2025-06-12 06:07:13)
+
+---
+
+## There’s so much to untangle from the the ending of Sinners
+
+date: 2025-06-12, updated: 2025-06-12, from: Polygon Website
+
+Even before the news broke about the unconventional rights-reversion deal Black Panther writer-director Ryan Coogler negotiated with Warner Bros. for his horror movie Sinners, the movie was already one of 2025’s most-discussed releases. Michael B. Jordan’s dual role as twin gangster brothers Smoke and Stack, the movie’s bold themes around racial identity and community, Coogler’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/605824/a-re-vamped-look-at-the-real-ending-of-ryan-cooglers-sinners>
+
+---
+
+## Gigantamax Inteleon counters, weakness, and battle tips in Pokémon Go
+
+date: 2025-06-12, updated: 2025-06-10, from: Polygon Website
+
+Gigantamax Inteleon is making its Gigantamax debut in Pokémon Go, and as usual with these types of Pokémon, it’ll be tough to take down. Inteleon will specifically be around during the weekend portion of the “Phantom Ruins” event, from June 14 at 6 a.m. until June 15 at 9 p.m. in your local time. Below, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/606143/gigantamax-inteleon-counters-weaknesses-battle-tips>
+
+---
+
+## Netflix’s science fiction romance Our Times breaks the time travel movie rules
+
+date: 2025-06-11, updated: 2025-06-11, from: Polygon Website
+
+From The Flash to Avengers: Endgame to 2002’s The Time Machine, time travel movies often follow characters hoping to prevent a present personal tragedy or larger calamity by tweaking some event in the past. The sweetly funny Our Times, now streaming on Netflix, breaks that mold by sending its characters to the future and focusing [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sci-fi/606543/netflix-our-times-review-time-travel-science-fiction>
+
+---
+
+## Where to find the Holtzman Amplifier in Dune: Awakening
+
+date: 2025-06-11, updated: 2025-06-11, from: Polygon Website
+
+You need the Holtzman Amplifier in Dune: Awakening to complete your first non-essential contract, “Wrecking Crew,” but the survival game is happy to make you hunt for it. Compounding the confusion is the fact that the crate containing the amplifier is easy to overlook and doesn&#8217;t have the tell-tale signs that usually indicate you can [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dune-awakening-guides/606520/holtzman-amplifier-where-to-find-location>
+
+---
+
+## How to watch Konami’s Press Start showcase for Naked Snake and Silent Hill news
+
+date: 2025-06-11, updated: 2025-06-11, from: Polygon Website
+
+In the wake of the Summer Game Fest frenzy, Konami still has games to show. On Thursday, Konami will stream a new showcase called Konami Press Start, an event which promises game news and updates on upcoming titles like the Metal Gear Solid 3 remake and the next original Silent Hill game. Konami Press Start [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/606447/konami-press-start-games-showcase>
+
+---
+
+## All Maelle Outfits in Clair Obscur: Expedition 33 and how to unlock them
+
+date: 2025-06-11, updated: 2025-06-11, from: Polygon Website
+
+Maelle may be one of the strongest damage-dealers in Clair Obscur: Expedition 33, but she can be the most stylish too. It all depends on which of Maelle’s outfits you strive to unlock. Throughout your time with Expedition 33, you’re bound to come across many cosmetic options for your party, but a lot of them [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/clair-obscur-expedition-33-guides/606390/maelle-outfits-hairstyles-all-how-to-unlock>
 
 ---
 
@@ -23,7 +95,7 @@ Like many Nintendo party games, Mario Kart has a reputation for being accessible
 
 ## How to unlock Mirror Mode in Mario Kart World
 
-date: 2025-06-11, updated: 2025-06-11, from: Polygon Website
+date: 2025-06-11, updated: 2025-06-12, from: Polygon Website
 
 If you want to race on mirrored versions of Mario Kart World tracks, you’ll need to play quite a bit of the game to unlock Mirror Mode. While it took a bit to figure out the exact requirements, it turns out that you’ll simply need to complete every race at 150cc and then grab a [&#8230;] 
 

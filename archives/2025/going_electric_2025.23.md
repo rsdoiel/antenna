@@ -1,11 +1,75 @@
 ---
 title: going electric
-updated: 2025-06-11 14:07:51
+updated: 2025-06-12 06:07:17
 ---
 
 # going electric
 
-(date: 2025-06-11 14:07:51)
+(date: 2025-06-12 06:07:17)
+
+---
+
+## These Fiat 500e EVs Can Swap A New Battery In Just Five Minutes
+
+date: 2025-06-12, from: Inside EVs News
+
+Stellantis, Fiat’s parent company, partnered with battery swap startup Ample to deploy 100 EVs with modular swappable packs. 
+
+<br> 
+
+<https://insideevs.com/news/762391/fiat-500-ev-battery-swap-ample/>
+
+---
+
+## Tesla Full Self-Driving hasn’t improved all year and Musk points to more wait
+
+date: 2025-06-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s ‘Supervised Full Self-Driving’ (FSD) in customer vehicles hasn’t improved all year, based on the best available data previously praised by CEO Elon Musk.</p>
+
+
+
+<p>Now Musk points to having to wait until later this year, but wait for what?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="419943" href="https://electrek.co/2025/06/12/tesla-full-self-driving-hasnt-improved-all-year-and-musk-points-to-more-wait/#more-419943" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/12/tesla-full-self-driving-hasnt-improved-all-year-and-musk-points-to-more-wait/>
+
+---
+
+## The US’s largest solar + storage project just hit a big milestone
+
+date: 2025-06-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Bellefield-solar-storage-AES.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.aes.com/" target="_blank" rel="noreferrer noopener">AES</a> just completed the first half of Bellefield, which will become the largest solar + storage facility in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,california,egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="419936" href="https://electrek.co/2025/06/11/the-us-largest-solar-storage-project-just-hit-a-big-milestone/#more-419936" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/11/the-us-largest-solar-storage-project-just-hit-a-big-milestone/>
+
+---
+
+## Kia’s new EV4 is already the best-selling domestic electric sedan in its home market
+
+date: 2025-06-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Kia-EV4-best-selling-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s first electric sedan is already being called “a box office hit.” In just its second month on the market, the <a href="https://electrek.co/guides/kia-ev4/">Kia EV4</a> was the best-selling domestic electric sedan in Korea.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" data-post-id="419924" href="https://electrek.co/2025/06/11/kia-ev4-already-best-selling-domestic-electric-sedan-in-korea/#more-419924" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/11/kia-ev4-already-best-selling-domestic-electric-sedan-in-korea/>
 
 ---
 

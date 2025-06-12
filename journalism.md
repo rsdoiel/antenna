@@ -1,25 +1,23 @@
 ---
 title: journalism
-updated: 2025-06-11 14:07:49
+updated: 2025-06-12 06:07:14
 ---
 
 # journalism
 
-(date: 2025-06-11 14:07:49)
+(date: 2025-06-12 06:07:14)
 
 ---
 
-## COC Men’s Soccer team is turning the page and is now looking to hit a new goal
+## FIFA Club World Cup 2025
 
-date: 2025-06-11, from: The Canyon News (COC Student Newspaper)
+date: 2025-06-12, from: The Daily Bruin (UCLA Student Newspaper)
 
-<p>Whether it&#8217;s an evening scrimmage or a morning practice, the College of&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/coc-soccer/">COC Men&#8217;s Soccer team is turning the page and is now looking to hit a new goal</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
  
 
 <br> 
 
-<https://canyonsnews.com/coc-soccer/>
+<https://dailybruin.com/2025/06/11/fifa-club-world-cup-2025/>
 
 ---
 

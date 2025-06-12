@@ -1,11 +1,185 @@
 ---
 title: socal north
-updated: 2025-06-11 14:07:45
+updated: 2025-06-12 06:07:09
 ---
 
 # socal north
 
-(date: 2025-06-11 14:07:45)
+(date: 2025-06-12 06:07:09)
+
+---
+
+## How accurate is LA’s annual homeless count? The answer is complicated
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+An LAist analysis found tech problems and policy changes during the 2024 count raise questions about a reported 10% downturn in unsheltered people in the city of Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/how-accurate-is-las-annual-homeless-count-the-answer-is-complicated>
+
+---
+
+## How veterans are reacting to Marine deployment in LA: ‘The impact is so negative’
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+“It makes it appear that the United States or America is a battleground,” one veteran Marine said. 
+
+<br> 
+
+<https://laist.com/news/veterans-react-to-marine-deployment-in-la>
+
+---
+
+## Windy conditions for mountain passes in SoCal
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+Another day of warm weather with temperatures in the upper 80s to low 90s across Southern California. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/windy-conditions-for-mountain-passes-in-socal>
+
+---
+
+## Pappy Van Winkle or Jameson? Whatever the tipple, take your Dad to an LA whiskey bar for Father’s Day
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+So many choices, so little time. Some bars boast a 700 plus whisky collection, and you won't be limited. 
+
+<br> 
+
+<https://laist.com/news/food/pappy-van-winkle-or-jameson-whatever-the-tipple-take-your-dad-to-an-la-whiskey-bar-for-fathers-day>
+
+---
+
+## Downey church community on edge after masked, armed officers detain man on church property
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+The pastors of Downey Memorial Christian Church say a man they believed to be an ICE agent pointed a gun at one of them and said "this whole country is our property." 
+
+<br> 
+
+<https://laist.com/news/politics/downey-church-community-on-edge-after-masked-armed-police-detain-man-on-church-property>
+
+---
+
+## New homes with no parking? LA City Council considers ending parking requirements
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+Two L.A. City Council members are putting forward a new proposal that could let developers skip on-site parking, with the goal of creating more housing. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-city-council-end-parking-requirements-housing-development-raman-blumenfield>
+
+---
+
+## GOP senator accuses LA immigrant rights group of aiding 'unlawful' acts during ongoing ICE protests
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+Sen. Josh Hawley (R-Missouri) warned the Coalition for Humane Immigrant Rights of Los Angeles to stop alleged involvement in the 'organization, funding, or promotion' of unlawful activities. 
+
+<br> 
+
+<https://laist.com/news/republican-senator-accuses-la-immigrant-rights-group-of-aiding-unlawful-acts-during-ongoing-ice-protests>
+
+---
+
+## 6 questions we still have after disgraced former OC Supervisor Andrew Do’s sentencing
+
+date: 2025-06-12, updated: 2025-06-12, from: The LAist
+
+Former Orange County Supervisor Andrew Do was sentenced this week to federal prison on a bribery charge. But there are still many unanswered questions. 
+
+<br> 
+
+<https://laist.com/news/politics/6-questions-we-still-have-after-disgraced-former-oc-supervisor-andrew-dos-sentencing>
+
+---
+
+## 2 people seriously hurt, including a pedestrian, in rollover crash near Heartwell Park
+
+date: 2025-06-11, from: Longbeach Post
+
+<figure><img width="1024" height="663" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-1024x663.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-1024x663.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-300x194.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-768x497.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-167x108.jpg 167w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-1536x995.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-2048x1326.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-1200x777.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-1568x1015.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11163759/8ac81729-5da3-45c1-8ebc-7ffc3bb35e07-027644-09v1pru9-702233-jzs4Ugu4-400x259.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A vehicle appeared to have ripped a bus bench from its foundation, leaving it tattered next to the telephone pole.</p>
+<p>The post <a href="https://lbpost.com/news/carson-palo-verda-crash-rollover-police">2 people seriously hurt, including a pedestrian, in rollover crash near Heartwell Park</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/carson-palo-verda-crash-rollover-police>
+
+---
+
+## Her husband was picked up by ICE at a car wash. Where is he now?
+
+date: 2025-06-11, updated: 2025-06-12, from: The LAist
+
+A family with four kids was getting ready to celebrate their middle schooler's graduation. Then federal authorities came. 
+
+<br> 
+
+<https://laist.com/news/car-wash-immigration-detained-ice-los-angeles>
+
+---
+
+## Federal court orders resumption of legal services to separated families
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+The ACLU argues that the Trump administration’s cancellation of a contract violated a 2023 settlement agreement. 
+
+<br> 
+
+<https://laist.com/news/politics/federal-court-orders-resumption-of-legal-services-to-separated-families>
+
+---
+
+## Federal agents arrest man after brazen crash in Boyle Heights; DHS calls it ‘targeted arrest’
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+The incident reported in the 3700 block of Whittier Boulevard involved a SUV ramming into a white sedan as another truck drives up to block the vehicle. 
+
+<br> 
+
+<https://laist.com/news/federal-agents-arrest-man-after-brazen-crash-in-boyle-heights-dhs-calls-it-targeted-arrest>
+
+---
+
+## Huntington Beach voters push back at the polls against efforts to politicize the city's beloved libraries
+
+date: 2025-06-11, updated: 2025-06-11, from: The LAist
+
+In this special election, Measures A and B were all about who gets to control Huntington Beach's libraries. 
+
+<br> 
+
+<https://laist.com/news/politics/huntington-beach-library-measures-a-and-b-headed-for-defeat-in-early-results>
+
+---
+
+## Soldiers watched Long Beach protesters from a balcony. Feds say they’re needed for protection
+
+date: 2025-06-11, from: Longbeach Post
+
+<figure><img width="1024" height="658" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1024x658.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1024x658.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-300x193.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-768x494.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-168x108.jpg 168w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1536x988.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1200x772.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-1568x1008.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj-400x257.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11095135/10jun25-6-10-25-protest-9396-151725-bzwn2adl-314021-8Nej7mDj.jpg 1608w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police said the protest was peaceful. It’s an example of the conflict roiling national politics manifesting on the streets of Long Beach. </p>
+<p>The post <a href="https://lbpost.com/news/immigration/national-guard-long-beach-protest-federal-building">Soldiers watched Long Beach protesters from a balcony. Feds say they’re needed for protection</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/national-guard-long-beach-protest-federal-building>
 
 ---
 
@@ -13,7 +187,7 @@ updated: 2025-06-11 14:07:45
 
 date: 2025-06-11, from: Longbeach Post
 
-<figure><img width="1024" height="760" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-1024x760.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-1024x760.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-300x223.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-768x570.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-145x108.jpg 145w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-400x297.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP.jpg 1080w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="760" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-1024x760.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-1024x760.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-300x223.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-768x570.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-145x108.jpg 145w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP-400x297.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11125145/image000000-645917-xl24t7mb-781868-c0sinp8x-102535-txhlojtp-806802-tvI6sYNP.jpg 1080w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Neighbors have complained that the parking lot on the Peninsula is a hotbed for public drinking. Now, there’s been violence as well.</p>
 <p>The post <a href="https://lbpost.com/news/crime/man-shot-belmonth-shore-peninsula-long-beach">Man says he was shot for asking couple to pick up their beer bottles at the beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -76,7 +250,7 @@ Weinstein's 2020 conviction on sex crimes in New York was overturned last year. 
 
 date: 2025-06-11, from: Longbeach Post
 
-<figure><img width="1024" height="651" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-1024x651.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-1024x651.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-300x191.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-768x488.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-170x108.jpg 170w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-400x254.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="651" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-1024x651.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-1024x651.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-300x191.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-768x488.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-170x108.jpg 170w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa-400x254.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090820/07jun25-ice-7424-158580-z4aapi5b-404749-tikANDOa.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Authorities said a Long Beach man was also caught with a Molotov at the protests in downtown Los Angeles.</p>
 <p>The post <a href="https://lbpost.com/news/crime/paramount-standoff-molotov-cocktail-arrest">Man arrested on suspicion of throwing Molotov cocktail during Paramount standoff</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -89,7 +263,7 @@ date: 2025-06-11, from: Longbeach Post
 
 ## Remembering Brian Wilson: His thoughts on growing up in SoCal and why the beach was 'too cold' for visits
 
-date: 2025-06-11, updated: 2025-06-11, from: The LAist
+date: 2025-06-11, updated: 2025-06-12, from: The LAist
 
 He spoke in 2009 about his life, career and memories after the release of a new album to critical acclaim. 
 
@@ -127,7 +301,7 @@ While bills aimed at boosting housing construction are having a banner year in C
 
 date: 2025-06-11, updated: 2025-06-11, from: The LAist
 
-The Beach Boys' co-founder, songwriter and producer transformed pop music into high art, and became America's answer to The Beatles' Lennon and McCartney in the process. 
+The Beach Boys' co-founder, songwriter and producer transformed pop music into high art and became America's answer to The Beatles' Lennon and McCartney in the process. 
 
 <br> 
 
@@ -332,7 +506,7 @@ date: 2025-06-10, updated: 2025-06-11, from: The LAist
 
 ## Have a loved one in LAUSD? Here's what to know about ICE
 
-date: 2025-06-10, updated: 2025-06-11, from: The LAist
+date: 2025-06-10, updated: 2025-06-12, from: The LAist
 
 A series of immigration enforcement actions and the resulting protests are reshaping the end of the school year in the Los Angeles Unified School District. 
 
@@ -913,7 +1087,7 @@ The Trump administration continues to target foreign nationals looking to attend
 
 ## 'Would you like a plant with that?' How a Culver City vegan restaurant supports bees and butterflies
 
-date: 2025-06-08, updated: 2025-06-09, from: The LAist
+date: 2025-06-08, updated: 2025-06-12, from: The LAist
 
 Hey, Sunshine Kitchen is offering a free pollinator plant every Monday to improve native habitats. 
 

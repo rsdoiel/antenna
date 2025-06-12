@@ -1,11 +1,97 @@
 ---
 title: north america
-updated: 2025-06-11 14:07:45
+updated: 2025-06-12 06:07:09
 ---
 
 # north america
 
-(date: 2025-06-11 14:07:45)
+(date: 2025-06-12 06:07:09)
+
+---
+
+## Trump’s Big Ugly LA Lie
+
+date: 2025-06-12, from: The Contrarian
+
+Donald Trump intentionally provoked needless violence 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-big-ugly-la-lie>
+
+---
+
+##  Amid Trump’s Immigration Onslaught, There Is No Sanctuary 
+
+date: 2025-06-12, from: The Lever News
+
+ Amid the fear, chaos, and violence playing out on the streets, the protections promised by neoliberalism are nowhere to be found.  
+
+<br> 
+
+<https://www.levernews.com/amid-trumps-immigration-onslaught-there-is-no-sanctuary/>
+
+---
+
+##  Israel’s War Is Florida’s New Investment 
+
+date: 2025-06-12, from: The Lever News
+
+ Florida is poised to eliminate long-standing guardrails limiting local investment in increasingly risky Israel bonds that help finance the country’s war efforts.  
+
+<br> 
+
+<https://www.levernews.com/israels-war-is-floridas-new-investment/>
+
+---
+
+## Evening Roundup, June 11
+
+date: 2025-06-11, from: The Contrarian
+
+Featuring "This is what dictatorship looks like;" Know Your Rights; Jacky Rosen; Tom Malinowski; Shalise Manza Young; Jeff Nesbit; Rep. Mikie Sherrill; Jennifer Weiss-Wolf; & Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-11>
+
+---
+
+## Did American movies help propel Trump back to the White House?
+
+date: 2025-06-11, from: The Contrarian
+
+Movies and TV shows have a huge influence on our values and views of the world, and they mostly show inept or evil government. 
+
+<br> 
+
+<https://contrarian.substack.com/p/did-american-movies-help-propel-trump>
+
+---
+
+## Know Your Rights: Encountering ICE
+
+date: 2025-06-11, from: The Contrarian
+
+Quick references and resources for navigating encounters with ICE, CBP, and other law enforcement 
+
+<br> 
+
+<https://contrarian.substack.com/p/know-your-rights-encountering-ice>
+
+---
+
+## Jen Rubin and Senator Jacky Rosen on Trump’s Disastrous Budget Plan
+
+date: 2025-06-11, from: The Contrarian
+
+"They Want You Silent. Don&#8217;t Let Them." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165658959/bba3f064bf4938da5e2b1baf6c5eb081.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165658959/bba3f064bf4938da5e2b1baf6c5eb081.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-senator-jacky-rosen>
 
 ---
 

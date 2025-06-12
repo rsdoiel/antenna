@@ -1,11 +1,155 @@
 ---
 title: home
-updated: 2025-06-11 14:07:49
+updated: 2025-06-12 06:07:15
 ---
 
 # home
 
-(date: 2025-06-11 14:07:49)
+(date: 2025-06-12 06:07:15)
+
+---
+
+## How They Pulled It Off: A "Garden Enclave" ADU Clad in Custom Terra-Cotta Tiles
+
+date: 2025-06-12, from: Dwell
+
+The textural facade was inspired by the greenery of the surrounding landscape and the clay tiles of the main home's roofing. 
+
+<br> 
+
+<https://www.dwell.com/article/current-interests-leimert-park-adu-e194670c>
+
+---
+
+## 5 Types of Falcons in Arkansas (Pictures and Identification)
+
+date: 2025-06-12, from: Yard Life blog
+
+<p>Falcons in Arkansas are an exciting group of raptors that birdwatchers can observe throughout the year. These agile birds of ... </p>
+<p class="read-more-container"><a title="5 Types of Falcons in Arkansas (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/5-types-of-falcons-in-arkansas-pictures-and-identification/#more-30080" aria-label="Read more about 5 Types of Falcons in Arkansas (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/5-types-of-falcons-in-arkansas-pictures-and-identification/">5 Types of Falcons in Arkansas (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/5-types-of-falcons-in-arkansas-pictures-and-identification/>
+
+---
+
+## 7 Types of Wrens in Georgia (With Pictures and Identification)
+
+date: 2025-06-12, from: Yard Life blog
+
+<p>Georgia’s diverse natural landscapes—ranging from coastal marshes to Appalachian foothills—provide a rich habitat for a variety of bird species, including ... </p>
+<p class="read-more-container"><a title="7 Types of Wrens in Georgia (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/7-types-of-wrens-in-georgia-with-pictures-and-identification/#more-30067" aria-label="Read more about 7 Types of Wrens in Georgia (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/7-types-of-wrens-in-georgia-with-pictures-and-identification/">7 Types of Wrens in Georgia (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/7-types-of-wrens-in-georgia-with-pictures-and-identification/>
+
+---
+
+## 4 Types Pink Birds in Florida (With Pictures and Identification)
+
+date: 2025-06-12, from: Yard Life blog
+
+<p>Florida is a paradise for bird lovers, especially those fascinated by the vibrant and unusual. Among the Sunshine State’s most ... </p>
+<p class="read-more-container"><a title="4 Types Pink Birds in Florida (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/4-types-pink-birds-in-florida-with-pictures-and-identification/#more-30054" aria-label="Read more about 4 Types Pink Birds in Florida (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/4-types-pink-birds-in-florida-with-pictures-and-identification/">4 Types Pink Birds in Florida (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/4-types-pink-birds-in-florida-with-pictures-and-identification/>
+
+---
+
+## Pelicans in Colorado: 5 Best Places to Spot These Stunning Birds
+
+date: 2025-06-12, from: Yard Life blog
+
+<p>Colorado, known for its breathtaking mountain ranges, vibrant cities, and vast natural beauty, might not be the first place that ... </p>
+<p class="read-more-container"><a title="Pelicans in Colorado: 5 Best Places to Spot These Stunning Birds" class="read-more button" href="https://ownyardlife.com/pelicans-in-colorado-5-best-places-to-spot-these-stunning-birds/#more-30046" aria-label="Read more about Pelicans in Colorado: 5 Best Places to Spot These Stunning Birds">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/pelicans-in-colorado-5-best-places-to-spot-these-stunning-birds/">Pelicans in Colorado: 5 Best Places to Spot These Stunning Birds</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/pelicans-in-colorado-5-best-places-to-spot-these-stunning-birds/>
+
+---
+
+## 14 Types of Owls in Alaska (With Pictures and Identification)
+
+date: 2025-06-12, from: Yard Life blog
+
+<p>Owls in Alaska are fascinating creatures that capture the imagination of birdwatchers and nature enthusiasts alike. With their mysterious calls ... </p>
+<p class="read-more-container"><a title="14 Types of Owls in Alaska (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/14-types-of-owls-in-alaska-with-pictures-and-identification/#more-30035" aria-label="Read more about 14 Types of Owls in Alaska (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/14-types-of-owls-in-alaska-with-pictures-and-identification/">14 Types of Owls in Alaska (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/14-types-of-owls-in-alaska-with-pictures-and-identification/>
+
+---
+
+## 21 Types Finches in Ohio (With Pictures and Identification)
+
+date: 2025-06-12, from: Yard Life blog
+
+<p>Ohio is a fantastic place for birdwatchers, especially those interested in spotting finches. With its diverse landscapes—woodlands, fields, parks, and ... </p>
+<p class="read-more-container"><a title="21 Types Finches in Ohio (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/21-types-finches-in-ohio-with-pictures-and-identification/#more-30024" aria-label="Read more about 21 Types Finches in Ohio (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/21-types-finches-in-ohio-with-pictures-and-identification/">21 Types Finches in Ohio (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/21-types-finches-in-ohio-with-pictures-and-identification/>
+
+---
+
+## Are Pistachios Healthy? Yes, and Here’s Why They’re a Smart Snack
+
+date: 2025-06-11, from: California Grown
+
+<p>The answer is yes — are pistachios healthy? Absolutely. Pistachios are definitely a healthy food choice. Let’s take a closer look at the many nutrition and health benefits of this powerful and appealing little nut. Are Pistachios Healthy for Plant-Based Protein? A 1-ounce serving of pistachios, about 49 nuts, contains 6 grams of high-quality, complete [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/are-pistachios-healthy/" data-wpel-link="internal" target="_self">Are Pistachios Healthy? Yes, and Here’s Why They’re a Smart Snack</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/are-pistachios-healthy/>
+
+---
+
+## What the “W” in Engine Oil Grades Really Means
+
+date: 2025-06-11, from: Family Handyman Blog
+
+<p>What does 5W-30 or 10W-40 actually mean? Here's why knowing your oil grade is important to the health of your engine.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/engine-oil-grades/">What the &#8220;W&#8221; in Engine Oil Grades Really Means</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/engine-oil-grades/>
+
+---
+
+## Grape Health Benefits: Grapes Offer a Bunch of Health Perks
+
+date: 2025-06-11, from: California Grown
+
+<p>Grapes are a fun fruit to eat, but you may not know about all the grape health benefits they bring to the table! These sweet, juicy gems are more than just a snack — they’re nutritional powerhouses. Whether you’re eating them one-by-one straight from the bunch or tossing them into salads and snacks, grapes offer [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/grape-health-benefits/" data-wpel-link="internal" target="_self">Grape Health Benefits: Grapes Offer a Bunch of Health Perks</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/grape-health-benefits/>
 
 ---
 
@@ -20,6 +164,42 @@ date: 2025-06-11, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/fewer-new-car-models/>
+
+---
+
+## Turns Out You’re Packing All Wrong. Here’s How to Do It Right, According to a Professional Organizer.
+
+date: 2025-06-11, from: Sunset Magazine - Living in the West
+
+These tips from a professional organizer for how to pack a carry on will help you maximize space—and limit stress. 
+
+<br> 
+
+<https://www.sunset.com/travel/professional-organizer-packing-tips>
+
+---
+
+## The Only Grilling Recipes You’ll Need for Summer (and Beyond)
+
+date: 2025-06-11, from: Sunset Magazine - Living in the West
+
+Summertime means grilling season. We're sharing our favorite grilling recipes for weeknight dinners, backyard gatherings, and more. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/grilling-recipes>
+
+---
+
+## This Underrated Island in the Pacific Northwest Is the Perfect Weekend Getaway
+
+date: 2025-06-11, from: Sunset Magazine - Living in the West
+
+Orcas Island is a Pacific Northwest gem that's an agricultural and aquatic wonderland. Here's your itinerary for an Orcas Island trip. 
+
+<br> 
+
+<https://www.sunset.com/travel/things-to-do-on-orcas-island>
 
 ---
 
@@ -204,6 +384,20 @@ date: 2025-06-10, from: Family Handyman Blog
 
 ---
 
+## If You See Random Bars on Park Benches, This Is What It Means
+
+date: 2025-06-10, from: Family Handyman Blog
+
+<p>Discover what hostile architecture is, how it shows up in public spaces, and why it's sparking debate. Learn about real examples, criticisms, and inclusive alternatives.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/hostile-architecture/">If You See Random Bars on Park Benches, This Is What It Means</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/hostile-architecture/>
+
+---
+
 ## Shark TurboBlade Review: This New Bladeless Tower Fan is Razor-Thin for Tight Spaces
 
 date: 2025-06-10, from: Family Handyman Blog
@@ -218,6 +412,18 @@ date: 2025-06-10, from: Family Handyman Blog
 
 ---
 
+## This Is the Perfect Family-Friendly Garden Getaway in North County San Diego
+
+date: 2025-06-10, from: Sunset Magazine - Living in the West
+
+North County San Diego provides a nature-packed, plant-loving escape with gardens, trails, and lush stays—no beach required. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/north-county-san-diego-family-vacation>
+
+---
+
 ## The Sharing Economy Has Moved to Backyard Rentals—for Your Dog
 
 date: 2025-06-10, from: Dwell
@@ -227,18 +433,6 @@ While pet ownership and housing costs rise, Sniffspot helps you use someone else
 <br> 
 
 <https://www.dwell.com/article/sniffspot-pet-owners-backyard-rental-sharing-economy-airbnb-for-dogs-3692e60f>
-
----
-
-## This Underrated Island in the Pacific Northwest Is the Perfect Weekend Getaway
-
-date: 2025-06-10, from: Sunset Magazine - Living in the West
-
-Orcas Island is a Pacific Northwest gem that's an agricultural and aquatic wonderland. Here's your itinerary for an Orcas Island trip. 
-
-<br> 
-
-<https://www.sunset.com/travel/things-to-do-on-orcas-island>
 
 ---
 
