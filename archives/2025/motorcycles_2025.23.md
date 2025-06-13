@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-06-13 06:09:39
+updated: 2025-06-13 14:07:11
 ---
 
 # motorcycles
 
-(date: 2025-06-13 06:09:39)
+(date: 2025-06-13 14:07:11)
+
+---
+
+## NASCAR Weekend Preview: Autódromo Hermanos Rodríguez
+
+date: 2025-06-13, from: Kickin the Tires blog
+
+MEXICO CITY – Amid much anticipation from fans and NASCAR teams alike, the NASCAR Cup Series has arrived in Mexico City for the series’ first points-paying international race in seven&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-weekend-preview-autodromo-hermanos-rodriguez/>
+
+---
+
+## Honda’s Updated Entry-Level Dirtbikes Are Still Pitch Perfect
+
+date: 2025-06-13, from: Ride Apart, Electric Motorcycle News
+
+For both kids and kids at heart. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/762492/2026-honda-crf-lineup-announced-usa/>
 
 ---
 

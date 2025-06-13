@@ -1,11 +1,444 @@
 ---
 title: snapshots
-updated: 2025-06-13 06:09:43
+updated: 2025-06-13 14:07:14
 ---
 
 # snapshots
 
-(date: 2025-06-13 06:09:43)
+(date: 2025-06-13 14:07:14)
+
+---
+
+## Emmys 2025: FYC – actriz, comedia: Bridget Everett – Somebody Somewhere
+
+date: 2025-06-13, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Los Premios Emmy, el máximo reconocimiento de la industria de la televisión, es un escenario en donde se han distinguido algunas de las actuaciones más memorables de los últimos años y que podemos disfrutar en la pantalla chica. Cada año destacan aquellas interpretaciones que han dejado huella en el público y la crítica. Esta semana [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/emmys-2025-fyc-actriz-comedia-bridget-everett-somebody-somewhere/">Emmys 2025: FYC – actriz, comedia: Bridget Everett – Somebody Somewhere</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/emmys-2025-fyc-actriz-comedia-bridget-everett-somebody-somewhere/?utm_source=rss&utm_medium=rss&utm_campaign=emmys-2025-fyc-actriz-comedia-bridget-everett-somebody-somewhere>
+
+---
+
+## WWDC 2025 Links
+
+date: 2025-06-13, from: Michael Tsai
+
+General: Keynote / Sessions / Videos / YouTube Unofficial WWDC App / Script to Title Videos in EagleFiler Beta OS Downloads / Xcode Beta macOS 26 Installers / IPSW / Create Install Disk With DropDMG Sample Code What&#8217;s New: Documentation Updates (AppKit, Foundation, Swift, SwiftData, SwiftUI, Xcode, Security) Design/HIG Design Resources New Frameworks (FoundationModels) Notable [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/13/wwdc-2025-links/>
+
+---
+
+## Xcode 26 Announced
+
+date: 2025-06-13, from: Michael Tsai
+
+WWDC 2025: Platforms State of the Union: Discover the newest advancements on Apple platforms. Apple: Xcode 26 is packed with intelligence features and experiences to help developers make their ideas a reality. Developers can connect large language models directly into their coding experience to write code, tests, and documentation; iterate on a design; fix errors; [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/13/xcode-26-announced/>
+
+---
+
+## Swift Marketing and Speed
+
+date: 2025-06-13, from: Michael Tsai
+
+Mishal Shah (Reddit): Over the past few months, the website workgroup has been redesigning Swift.org. On behalf of the website workgroup, I&#8217;m pleased to announce that we have merged the initial changes. Our goal with the site redesign has been to make Swift.org more approachable for newcomers to Swift, highlight the language&#8217;s technical strengths, and [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/13/swift-marketing-and-speed/>
+
+---
+
+## Generated Transcripts in Pocket Casts
+
+date: 2025-06-13, from: Michael Tsai
+
+Pocket Casts: With version 7.85, we&#8217;ve introduced Generated Transcripts, a powerful new feature that makes engaging with your favorite podcasts easier than ever. Available on both Android and iOS for our Plus and Patron members, this feature allows you to follow along with podcast conversations.Podcasts are full of incredible insights, but sometimes you want to [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/13/generated-transcripts-in-pocket-casts/>
+
+---
+
+## The Dyson Zone Will Not Be Missed
+
+date: 2025-06-13, updated: 2025-06-13, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/06/13/the-dyson-zone-will-not-be-missed/>
+
+---
+
+## The Wikimedia Research Newsletter
+
+date: 2025-06-13, updated: 2025-06-13, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://meta.wikimedia.org/wiki/Research:Newsletter">The Wikimedia Research Newsletter</a></strong></p>
+Speaking of <a href="https://simonwillison.net/2025/Jun/13/blogging-about-papers/">summarizing research papers</a>, I just learned about this newsletter and it is an absolute <em>gold mine</em>:</p>
+<blockquote>
+<p>The <strong>Wikimedia Research Newsletter (WRN)</strong> covers research of relevance to the Wikimedia community. It has been appearing generally monthly since 2011, and features both academic research publications and internal research done at the Wikimedia Foundation.</p>
+</blockquote>
+<p>The March 2025 issue had a fascinating section titled <a href="https://meta.wikimedia.org/wiki/Research:Newsletter/2025/March#So_again,_what_has_the_impact_of_ChatGPT_really_been?">So again, what has the impact of ChatGPT really been?</a> pulled together by WRN co-founder Tilman Bayer. It covers ten different papers, here's one note that stood out to me:</p>
+<blockquote>
+<p>[...]  the authors observe an increasing frequency of the words “crucial” and “additionally”, which are favored by ChatGPT [according to previous research] in the content of Wikipedia article.</p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://mastodon.social/@diegodlh/114677186749907634">@diegodlh</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/research">research</a>, <a href="https://simonwillison.net/tags/wikipedia">wikipedia</a>, <a href="https://simonwillison.net/tags/paper-review">paper-review</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/13/wikimedia-research-newsletter/#atom-everything>
+
+---
+
+## Lilbits: Anker Power Bank recall, Steam for Apple Silicon, and the latest Xbox handheld rumor
+
+date: 2025-06-13, from: Liliputing
+
+<p>There are literally thousands of power banks available for folks looking for a portable battery that you can use to recharge your phone, tablet, and other gear on the go. Anker makes some of the most popular models, so you could say the company&#8217;s products are hot. But sometimes they might be a little too hot. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-anker-power-bank-recall-steam-for-apple-silicon-and-the-latest-xbox-handheld-rumor/">Lilbits: Anker Power Bank recall, Steam for Apple Silicon, and the latest Xbox handheld rumor</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-anker-power-bank-recall-steam-for-apple-silicon-and-the-latest-xbox-handheld-rumor/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-13, from: Dave Winer's linkblog)
+
+Officials Fear &#39;Tiananmen Square Moment&#39; at Military Parade. 
+
+<br> 
+
+<https://www.mediaite.com/media/tv/u-s-officials-fear-tiananmen-square-moment-at-trumps-military-parade/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-13, from: Dave Winer's linkblog)
+
+Gavin Newsom rediscovers fighting MAGA is popular. And he’s good at it. 
+
+<br> 
+
+<https://www.salon.com/2025/06/13/gavin-newsom-rediscovers-fighting-maga-is-popular/>
+
+---
+
+## Tank 4 Pro smartphone has a 6.7 inch AMOLED display and a built-in 720p projector
+
+date: 2025-06-13, from: Liliputing
+
+<p>The 8849 Tank line of smartphones are rugged devices meant for off-grid use. They have rugged designs, extra-large batteries, super-bright camp lights on the back, and sometimes special features&#8230; like a built-in projector. The newest model is the Tank Pro 4, which has a faster processor and a higher resolution projector than the previous-generation Tank 3 [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/tank-4-pro-smartphone-has-a-6-7-inch-amoled-display-and-a-built-in-720p-projector/">Tank 4 Pro smartphone has a 6.7 inch AMOLED display and a built-in 720p projector</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/tank-4-pro-smartphone-has-a-6-7-inch-amoled-display-and-a-built-in-720p-projector/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-13, from: Dave Winer's linkblog)
+
+Report shows how republican attacks on EVs will cost US 2 million jobs. 
+
+<br> 
+
+<https://electrek.co/2025/06/13/report-shows-how-republican-attacks-on-evs-will-cost-us-2-million-jobs/>
+
+---
+
+## Emmys 2025: FYC – actriz, drama: Keira Knightley – Black Doves
+
+date: 2025-06-13, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Los Premios Emmy, el máximo reconocimiento de la industria de la televisión, es un escenario en donde se han distinguido algunas de las actuaciones más memorables de los últimos años y que podemos disfrutar en la pantalla chica. Cada año destacan aquellas interpretaciones que han dejado huella en el público y la crítica. Esta semana [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/emmys-2025-fyc-actriz-drama-keira-knightley-black-doves/">Emmys 2025: FYC – actriz, drama: Keira Knightley – Black Doves</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/emmys-2025-fyc-actriz-drama-keira-knightley-black-doves/?utm_source=rss&utm_medium=rss&utm_campaign=emmys-2025-fyc-actriz-drama-keira-knightley-black-doves>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-13, from: Dave Winer's linkblog)
+
+I asked Paolo to try hooking <a href="http://Claude.ai"><span data-auto-link="true" data-href="http://Claude.ai">Claude.ai</span></a> up to his WordPress blog. Amazing to see it come into existence so quickly. 
+
+<br> 
+
+<https://val.demar.in/2025/06/building-a-wordpress-mcp-server-for-claude-automating-blog-posts-with-ai/>
+
+---
+
+## Trump's Missile Defense Risks
+
+date: 2025-06-13, from: Guy Kawasaki blog
+
+Matthew Bunn, Professor of the Practice of Energy, National Security, and Foreign Policy, Harvard Kennedy School. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/trumps-missile-defense-risks>
+
+---
+
+## Blogging about papers
+
+date: 2025-06-13, updated: 2025-06-13, from: Simon Willison’s Weblog
+
+<p>My post this morning about <a href="https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/">Design Patterns for Securing LLM Agents against Prompt Injections</a> is an example of a blogging format I'd love to see more of: informal but informed commentary on academic papers.</p>
+<p>Academic papers are generally <em>hard to read</em>. Sadly that's almost a requirement of the format: the incentives for publishing papers that make it through peer review are often at odds with producing text that's easy for non-academics to digest.</p>
+<p>(This <a href="https://arxiv.org/abs/2506.08837">new Design Patterns paper</a> bucks that trend, the writing is clear, it’s enjoyable to read and the target audience clearly includes practitioners, not just other researchers.)</p>
+<p>In addition to breaking a paper down into more digestible chunks, writing about papers offers an extremely valuable filter. There are hundreds of new papers published every day: seeing someone who's work you respect confirm that a paper is worth your time is a really strong signal.</p>
+<p>I added a <a href="https://simonwillison.net/tags/paper-review/">paper-review tag</a> this morning, gathering six posts where I’ve attempted this kind of review. <a href="https://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/">Notes on the SQLite DuckDB paper</a> in September 2022 was my first.</p>
+<p>I apply the same principle to these as my link blog: 
+<a href="https://simonwillison.net/2024/Dec/22/link-blog/#trying-to-add-something-extra">try to add something extra</a>, so that anyone who reads both my post <em>and</em> the paper itself gets a little bit of extra value from my notes.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/paper-review">paper-review</a>, <a href="https://simonwillison.net/tags/blogging">blogging</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/13/blogging-about-papers/#atom-everything>
+
+---
+
+## Quoting Andrew Ng
+
+date: 2025-06-13, updated: 2025-06-13, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.deeplearning.ai/the-batch/issue-305/"><p>There’s a new breed of GenAI Application Engineers who can build more-powerful applications faster than was possible before, thanks to generative AI. Individuals who can play this role are highly sought-after by businesses, but the job description is still coming into focus. [...]</p>
+<p>Skilled GenAI Application Engineers meet two primary criteria: (i) They are able to use the new AI building blocks to quickly build powerful applications. (ii) They are able to use AI assistance to carry out rapid engineering, building software systems in dramatically less time than was possible before. In addition, good product/design instincts are a significant bonus.</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.deeplearning.ai/the-batch/issue-305/">Andrew Ng</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/careers">careers</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/andrew-ng">andrew-ng</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/13/andrew-ng/#atom-everything>
+
+---
+
+## FICUNAM 15: día 4
+
+date: 2025-06-13, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Ajuste de pérdidas (Dir. Miguel Calderón) Sección: Ahora México Ajuste de pérdidas es un documental mañoso sobre un ajustador de seguros risueño, barrigón y muy simpático a pesar de su transparente carroñería que incursiona en el mundillo del arte contemporáneo como mecenas y busca un escape de su cínica realidad con una incursión en una [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/ficunam-15-dia-4/">FICUNAM 15: día 4</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/ficunam-15-dia-4/?utm_source=rss&utm_medium=rss&utm_campaign=ficunam-15-dia-4>
+
+---
+
+## Behind the Blog: Advertising and Aircraft
+
+date: 2025-06-13, from: 404 Media Group
+
+This week, we discuss advertising, protests, and aircraft. 
+
+<br> 
+
+<https://www.404media.co/behind-the-blog-advertising-and-aircraft/>
+
+---
+
+## The new Tuxedo InfinityBook Pro 14 has a 2.8K, 120 Hz display and AMD Ryzen AI 300
+
+date: 2025-06-13, from: Liliputing
+
+<p>Tuxedo Computers is a company that sells laptop and desktop computers that ship with Linux-based operating systems, but that doesn&#8217;t mean they skimp on features. The new Tuxedo InfinityBook Pro 14 Gen 10 is a laptop with a 14 inch, 2880 x 1800 pixel, 120 Hz display, support for up to 128GB of DDR5-5600 RAM, two [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/the-new-tuxedo-infinitybook-pro-14-has-a-2-8k-120-hz-display-and-amd-ryzen-ai-300/">The new Tuxedo InfinityBook Pro 14 has a 2.8K, 120 Hz display and AMD Ryzen AI 300</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/the-new-tuxedo-infinitybook-pro-14-has-a-2-8k-120-hz-display-and-amd-ryzen-ai-300/>
+
+---
+
+## Sustainable solutions: offsetting our carbon footprint with enhanced rock weathering
+
+date: 2025-06-13, from: Raspberry Pi News (.com)
+
+<p>We're proud to be using UNDO Carbon's enhanced rock weathering technology to offset the carbon footprint of our SBCs.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/sustainable-solutions-offsetting-our-carbon-footprint-with-enhanced-rock-weathering/">Sustainable solutions: offsetting our carbon footprint with enhanced rock weathering</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/sustainable-solutions-offsetting-our-carbon-footprint-with-enhanced-rock-weathering/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-13, from: Dave Winer's linkblog)
+
+Florida sheriff’s warning to protesters: “We will kill you.” 
+
+<br> 
+
+<https://www.yahoo.com/news/florida-sheriff-warning-violent-protesters-021900912.html>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-13, from: Feed for Alt USDS)
+
+@nationalhistoryday.bsky.social is such an amazing program. As a former NHD judge, I'm heartened that it still happened this year!
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lrimlwyvbk2r>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-13, from: Dave Winer's linkblog)
+
+Village Apothecary Weighs Ending Loss-Making Scrips, Citing `Predatory Reimbursement Practices.’ 
+
+<br> 
+
+<https://theoverlooknews.com/village-apothecary-weighs-ending-loss-making-scrips-citing-predatory-reimbursement-practices/>
+
+---
+
+## Design Patterns for Securing LLM Agents against Prompt Injections
+
+date: 2025-06-13, updated: 2025-06-13, from: Simon Willison’s Weblog
+
+<p>This <a href="https://arxiv.org/abs/2506.08837">new paper</a> by 11 authors from organizations including IBM, Invariant Labs, ETH Zurich, Google and Microsoft is an <em>excellent</em> addition to the literature on prompt injection and LLM security.</p>
+<blockquote>
+<p>In this work, we describe a number of <strong>design patterns</strong> for LLM agents that significantly mitigate the risk of prompt injections. These design patterns constrain the actions of agents to explicitly prevent them from solving <em>arbitrary</em> tasks. We believe these design patterns offer a valuable trade-off between agent utility and security.</p>
+</blockquote>
+<p>Here's the full citation: <strong><a href="https://arxiv.org/abs/2506.08837">Design Patterns for Securing LLM Agents against Prompt Injections</a></strong> (2025) by Luca Beurer-Kellner, Beat Buesser, Ana-Maria Creţu, Edoardo Debenedetti, Daniel Dobos, Daniel Fabian, Marc Fischer, David Froelicher, Kathrin Grosse, Daniel Naeff, Ezinwanne Ozoani, Andrew Paverd, Florian Tramèr, and Václav Volhejn.</p>
+<p>I'm so excited to see papers like this starting to appear. I <a href="https://simonwillison.net/2025/Apr/11/camel/">wrote about</a> Google DeepMind's <strong>Defeating Prompt Injections by Design</strong> paper (aka the CaMeL paper) back in April, which was the first paper I'd seen that proposed a credible solution to some of the challenges posed by prompt injection against tool-using LLM systems (often referred to as "agents").</p>
+<p>This new paper provides a robust explanation of prompt injection, then proposes six design patterns to help protect against it, including the pattern proposed by the CaMeL paper.</p>
+<ul>
+  <li><a href="https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/#scope-of-the-problem">The scope of the problem</a></li>
+  <li><a href="https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/#the-action-selector-pattern">The Action-Selector Pattern</a></li>
+  <li><a href="https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/#the-plan-then-execute-pattern">The Plan-Then-Execute Pattern</a></li>
+  <li><a href="https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/#the-llm-map-reduce-pattern">The LLM Map-Reduce Pattern</a></li>
+  <li><a href="https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/#the-dual-llm-pattern">The Dual LLM Pattern</a></li>
+  <li><a href="https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/#the-code-then-execute-pattern">The Code-Then-Execute Pattern</a></li>
+  <li><a href="https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/#the-context-minimization-pattern">The Context-Minimization pattern</a></li>
+  <li><a href="https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/#the-case-studies">The case studies</a></li>
+  <li><a href="https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/#closing-thoughts">Closing thoughts</a></li>
+</ul>
+<h4 id="scope-of-the-problem">The scope of the problem</h4>
+<p>The authors of this paper <em>very clearly</em> understand the scope of the problem:</p>
+<blockquote>
+<p>As long as both agents and their defenses rely on the current class of language models, <strong>we believe it is unlikely that general-purpose agents can provide meaningful and reliable safety guarantees</strong>.</p>
+<p>This leads to a more productive question: <strong>what kinds of agents can we build <em>today</em> that produce useful work while offering resistance to prompt injection attacks?</strong> In this section, we introduce a set of design patterns for LLM agents that aim to mitigate — if not entirely eliminate — the risk of prompt injection attacks. These patterns impose intentional constraints on agents, explicitly limiting their ability to perform <em>arbitrary</em> tasks.</p>
+</blockquote>
+<p>This is a very realistic approach. We don't have a magic solution to prompt injection, so we need to make trade-offs. The trade-off they make here is "limiting the ability of agents to perform arbitrary tasks". That's not a popular trade-off, but it gives this paper a lot of credibility in my eye.</p>
+<p>This paragraph proves that they fully get it (emphasis mine):</p>
+<blockquote>
+<p>The design patterns we propose share a common guiding principle: <strong>once an LLM agent has ingested untrusted input, it must be constrained so that it is <em>impossible</em> for that input to trigger any consequential actions</strong>—that is, actions with negative side effects on the system or its environment. At a minimum, this means that restricted agents must not be able to invoke tools that can break the integrity or confidentiality of the system. Furthermore, their outputs should not pose downstream risks — such as exfiltrating sensitive information (e.g., via embedded links) or manipulating future agent behavior (e.g., harmful responses to a user query).</p>
+</blockquote>
+<p>The way I think about this is that any exposure to potentially malicious tokens entirely taints the output for that prompt. Any attacker who can sneak in their tokens should be considered to have complete control over what happens next - which means they control not just the textual output of the LLM but also any tool calls that the LLM might be able to invoke.</p>
+<p>Let's talk about their design patterns.</p>
+<h4 id="the-action-selector-pattern">The Action-Selector Pattern</h4>
+<blockquote>
+<p>A relatively simple pattern that makes agents immune to prompt injections — while still allowing them to take external actions — is to prevent any feedback from these actions back into the agent.</p>
+</blockquote>
+<p>Agents can trigger tools, but cannot be exposed to or act on the responses <em>from</em> those tools. You can't read an email or retrieve a web page, but you can trigger actions such as "send the user to this web page" or "display this message to the user".</p>
+<p>They summarize this pattern as an "LLM-modulated switch statement", which feels accurate to me.</p>
+<h4 id="the-plan-then-execute-pattern">The Plan-Then-Execute Pattern</h4>
+<blockquote>
+<p>A more permissive approach is to allow feedback from tool outputs back to the agent, but to prevent the tool outputs from <em>influencing</em> the choice of actions taken by the agent.</p>
+</blockquote>
+<p>The idea here is to plan the tool calls in advance before any chance of exposure to untrusted content. This allows for more sophisticated sequences of actions, without the risk that one of those actions might introduce malicious instructions that then trigger unplanned harmful actions later on.</p>
+<p>Their example converts "send today’s schedule to my boss John Doe" into a <code>calendar.read()</code> tool call followed by an <code>email.write(..., 'john.doe@company.com')</code>. The <code>calendar.read()</code> output might be able to corrupt the body of the email that is sent, but it won't be able to change the recipient of that email.</p>
+<h4 id="the-llm-map-reduce-pattern">The LLM Map-Reduce Pattern</h4>
+<p>The previous pattern still enabled malicious instructions to affect the <em>content</em> sent to the next step. The Map-Reduce pattern involves sub-agents that are directed by the co-ordinator, exposed to untrusted content and have their results safely aggregated later on.</p>
+<p>In their example an agent is asked to find files containing this month's invoices and send them to the accounting department. Each file is processed by a sub-agent that responds with a boolean indicating whether the file is relevant or not. Files that were judged relevant are then aggregated and sent.</p>
+<p>They call this the map-reduce pattern because it reflects the classic map-reduce framework for distributed computation.</p>
+<h4 id="the-dual-llm-pattern">The Dual LLM Pattern</h4>
+<p>I get a citation here! I described the <a href="https://simonwillison.net/2023/Apr/25/dual-llm-pattern/">The Dual LLM pattern for building AI assistants that can resist prompt injection</a> back in April 2023, and it influenced <a href="https://simonwillison.net/2025/Apr/11/camel/">the CaMeL paper</a> as well.</p>
+<p>They describe my exact pattern, and even illustrate it with this diagram:</p>
+<p><img src="https://static.simonwillison.net/static/2025/dual-llm-illustration.png" alt="Diagram showing AI system architecture with user on left sending prompt to privileged LLM (represented by neural network), which connects to tools (hammer and wrench icon) and quarantined LLM (shown in sandboxed environment with brick wall pattern), with symbolic memory showing variables $VAR1 = res1, $VAR2 = res2, ... $VARn = resn, and arrows showing flow back to &quot;Return response to user&quot;" style="max-width: 100%;" /></p>
+<p>The key idea here is that a privileged LLM co-ordinates a quarantined LLM, avoiding <em>any</em> exposure to untrusted content. The quarantined LLM returns symbolic variables - <code>$VAR1</code> representing a summarized web page for example - which the privileged LLM can request are shown to the user without being exposed to that tainted content itself.</p>
+<h4 id="the-code-then-execute-pattern">The Code-Then-Execute Pattern</h4>
+<p>This is the pattern described by <a href="https://simonwillison.net/2025/Apr/11/camel/">DeepMind's CaMeL paper</a>. It's an improved version of my dual LLM pattern, where the privileged LLM generates code in a custom sandboxed DSL that specifies which tools should be called and how their outputs should be passed to each other.</p>
+<p>The DSL is designed to enable full data flow analysis, such that any tainted data can be marked as such and tracked through the entire process.</p>
+<h4 id="the-context-minimization-pattern">The Context-Minimization pattern</h4>
+<blockquote>
+<p>To prevent certain user prompt injections, the agent system can remove unnecessary content from the context over multiple interactions.</p>
+<p>For example, suppose that a malicious user asks a customer service chatbot for a quote on a new car and tries to prompt inject the agent to give a large discount. The system could ensure that the agent first translates the user’s request into a database query (e.g., to find the latest offers). Then, before returning the results to the customer, the user’s prompt is removed from the context, thereby preventing the prompt injection.</p>
+</blockquote>
+<p>I'm slightly confused by this one, but I think I understand what it's saying. If a user's prompt is converted into a SQL query which returns raw data from a database, and that data is returned in a way that cannot possibly include any of the text from the original prompt, any chance of a prompt injection sneaking through should be eliminated.</p>
+<h4 id="the-case-studies">The case studies</h4>
+<p>The rest of the paper presents ten case studies to illustrate how thes design patterns can be applied in practice, each accompanied by detailed threat models and potential mitigation strategies.</p>
+<p>Most of these are extremely practical and detailed. The <strong>SQL Agent</strong> case study, for example, involves an LLM with tools for accessing SQL databases and writing and executing Python code to help with the analysis of that data. This is a <em>highly</em> challenging environment for prompt injection, and the paper spends three pages exploring patterns for building this in a responsible way.</p>
+<p>Here's the full list of case studies. It's worth spending time with any that correspond to work that you are doing:</p>
+<ul>
+<li>OS Assistant</li>
+<li>SQL Agent</li>
+<li>Email &amp; Calendar Assistant</li>
+<li>Customer Service Chatbot</li>
+<li>Booking Assistant</li>
+<li>Product Recommender</li>
+<li>Resume Screening Assistant</li>
+<li>Medication Leaflet Chatbot</li>
+<li>Medical Diagnosis Chatbot</li>
+<li>Software Engineering Agent</li>
+</ul>
+<p>Here's an interesting suggestion from that last <strong>Software Engineering Agent</strong> case study on how to safely consume API information from untrusted external documentation:</p>
+<blockquote>
+<p>The safest design we can consider here is one where the code agent only interacts with untrusted documentation or code by means of a strictly formatted interface (e.g., instead of seeing arbitrary code or documentation, the agent only sees a formal API description). This can be achieved by processing untrusted data with a quarantined LLM that is instructed to convert the data into an API description with strict formatting requirements to minimize the risk of prompt injections (e.g., method names limited to 30 characters).</p>
+<ul>
+<li>
+<em>Utility</em>: Utility is reduced because the agent can only see APIs and no natural language descriptions or examples of third-party code.</li>
+<li>
+<em>Security</em>: Prompt injections would have to survive being formatted into an API description, which is unlikely if the formatting requirements are strict enough.</li>
+</ul>
+</blockquote>
+<p>I wonder if it is indeed safe to allow up to 30 character method names... it could be that a truly creative attacker could come up with a method name like <code>run_rm_dash_rf_for_compliance()</code> that causes havoc even given those constraints.</p>
+<h4 id="closing-thoughts">Closing thoughts</h4>
+<p>I've been <a href="https://simonwillison.net/tags/prompt-injection/">writing about prompt injection</a> for nearly three years now, but I've never had the patience to try and produce a formal paper on the subject. It's a huge relief to see papers of this quality start to emerge.</p>
+<p>Prompt injection remains the biggest challenge to responsibly deploying the kind of agentic systems everyone is so excited to build. The more attention this family of problems gets from the research community the better.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/exfiltration-attacks">exfiltration-attacks</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/design-patterns">design-patterns</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/paper-review">paper-review</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/#atom-everything>
+
+---
+
+## Stream On
+
+date: 2025-06-13, from: Prof. Scott Galloway, No Mercy/No Malace blog
+
+<p>Instead of deploying a multinational force to Gaza or tanks to Ukraine … let’s have our troops descend on the Home Depot in Westlake, California. Let’s cosplay authoritarians so people look away from the speedballing wealth transfer from young to old, rich to poor, future to the past — the tax bill. Throw in tariffs [&#8230;]</p>
+<p>The post <a href="https://www.profgalloway.com/stream-on-25/">Stream On</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
+ 
+
+<br> 
+
+<https://www.profgalloway.com/stream-on-25/>
 
 ---
 
@@ -80,6 +513,49 @@ Trump&#8217;s big beautiful bill is a sadistic monstrosity
 
 ---
 
+## Failed Attempts
+
+date: 2025-06-13, from: Ed Summers blog, Inkdroid
+
+<p>
+I’ve been slowly reading a collection of <a
+href="https://en.wikipedia.org/wiki/Wis%C5%82awa_Szymborska">Wisława
+Szymborska</a>’s poetry, ever since hearing some of her work read and
+discussed by other writers on the <a
+href="https://www.newyorker.com/podcast/poetry">New Yorker Poetry
+Podcast</a>. Today’s was <em>Returning Birds</em>, which really spoke to
+me, maybe because it reads like a cipher for our times, in which
+instincts about the weather are increasingly a matter of life and death.
+But also, it seemed to me to be a celebration of a <em>particular</em>
+bird, it’s anatomy a wonderful assemblage, an “earthbound protein” and
+“living kite”, whose too short life is seen through the eyes of a rock,
+at the end. This idea of life being a “chain of failed attempts” from
+the perspective of inanimate nature, rings true, while also seeming to
+miss the point about all the beauty that is to be had in each and every
+attempt.
+</p>
+<p>
+Instead of including the text here, I thought I’d read it:
+</p>
+<audio autoplay controls>
+<source src="/audio/20250613-returning-birds.mp3">
+</audio>
+<p>
+If you want to read it, maybe, for a time, you can find the poem on
+p. 52 of <a
+href="https://ia804604.us.archive.org/34/items/wislawa-szymborska-view-with-a-grain-of-sand/Wislawa%20Szymborska%20-%20View%20with%20a%20Grain%20of%20Sand_%20Selected%20Poems%20%281995%2C%20Harcourt%29.pdf">this
+PDF</a>. I’m not reading that collection, although it looks good. I
+picked up a copy of <a
+href="https://bookshop.org/p/books/map-collected-and-last-poems-wislawa-szymborska/7084808">Map</a>.
+</p>
+ 
+
+<br> 
+
+<https://inkdroid.org/2025/06/13/returning-birds/>
+
+---
+
 ## the six-month recap: closing talk on AI at Web Directions, Melbourne, June 2025
 
 date: 2025-06-13, from: Geoffrey Hunntley's blog
@@ -123,6 +599,30 @@ That is so true👇
 <br> 
 
 <https://bsky.app/profile/rsdoiel.bsky.social/post/3lrh6orzkb22s>
+
+---
+
+## Safari at WWDC '25: The Ghost of Christmas Past
+
+date: 2025-06-13, updated: 2025-06-13, from: Alex Russel's blog
+
+ 
+
+<br> 
+
+<https://infrequently.org/2025/06/the-ghost-of-christmas-past/>
+
+---
+
+## US-RSE Celebrates LGBTQ+ Pride
+
+date: 2025-06-13, from: The United States Research Software Engineer Association
+
+Happy Pride Month, everyone! If you are new to US-RSE this year, you might not have had a chance to see our nifty US-RSE Pride Logo before. Be sure to check out this article about the history of the Pride Flag and its many variants (Wikipedia).      At US-RSE, we... 
+
+<br> 
+
+<https://us-rse.org/2025-06-13-pride-month/>
 
 ---
 

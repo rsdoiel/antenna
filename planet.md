@@ -1,11 +1,263 @@
 ---
 title: planet
-updated: 2025-06-13 06:09:30
+updated: 2025-06-13 14:07:03
 ---
 
 # planet
 
-(date: 2025-06-13 06:09:30)
+(date: 2025-06-13 14:07:03)
+
+---
+
+## BBC not to appeal Gerry Adams defamation case ruling
+
+date: 2025-06-13, from: RTÉ News
+
+The BBC will not appeal over Gerry Adams' defamation win against the organisation. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0613/1518387-gerry-adams-bbc/>
+
+---
+
+## Kneecap's legal team to include Gerry Conlon lawyer
+
+date: 2025-06-13, from: RTÉ News
+
+Irish rap trio Kneecap have named the legal team which will defend band member Liam Ó hAnnaidh against a terror charge. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0613/1518379-kneecaps-legal-team-to-include-gerry-conlon-lawyer/>
+
+---
+
+## Podcast: The Annie McCarrick case and Israel strikes Iran
+
+date: 2025-06-13, from: RTÉ News
+
+ 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0613/1518366-podcast-the-annie-mccarrick-case-and-israel-strikes-iran/>
+
+---
+
+## Antrim couple awarded £300K over gossip site libel case
+
+date: 2025-06-13, from: RTÉ News
+
+A Co Antrim-based business couple have been awarded £300,000 libel damages as part of a landmark legal battle to uncover the operator of gossip website, Tattle Life. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0613/1518367-tattle-life-court/>
+
+---
+
+## Tehran Cardinal urges dialogue amid escalation between Iran and Israel
+
+date: 2025-06-13, from: Vatican News
+
+
+                    <p>As tensions rise between Iran and Israel, Cardinal Dominique Joseph Mathieu, Archbishop of Tehran-Ispahan of the Latins, issues an appeal for peace and dialogue, cautioning against the continued use of pre-emptive military action.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/cardinal-mathieu-teheran-appeal-dialogue-israel-iran.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/cardinal-mathieu-teheran-appeal-dialogue-israel-iran.html>
+
+---
+
+## Airline to pay autistic man after denying exit row seat
+
+date: 2025-06-13, from: RTÉ News
+
+An airline has been ordered to pay a passenger €7,500 for refusing to let him sit in an exit row seat he had booked specially for extra legroom because he had disclosed that he was autistic. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0613/1518357-airline-discrimination-passenger/>
+
+---
+
+## Chair of Enterprise Ireland and Housing Agency resigns
+
+date: 2025-06-13, from: RTÉ News
+
+Businessman Michael Carey has resigned as Chair of Enterprise Ireland and Chair of the Housing Agency. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0613/1518356-michael-carey-resigns-as-chair-of-enterprise-ireland/>
+
+---
+
+## Two jailed for theft of gold toilet from Blenheim Palace
+
+date: 2025-06-13, from: RTÉ News
+
+Two men have been jailed for their roles in the theft of a £4.75 (€5.6) million gold toilet from Blenheim Palace. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0613/1518351-blenheim-toilet-theft/>
+
+---
+
+## Two-state solution conference postponed after Iran attack
+
+date: 2025-06-13, from: RTÉ News
+
+A United Nations conference co-hosted by France and Saudi Arabia aimed at forging a roadmap towards a two-state solution between Israelis and Palestinians has been postponed after Israel attacked Iran, two sources said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0613/1518345-two-state-solution-conference/>
+
+---
+
+## Is seat 11A the safest seat on a plane?
+
+date: 2025-06-13, from: RTÉ News
+
+The survival of a passenger who escaped through an exit door seconds after his Air India flight crashed killing everyone else on board has prompted speculation over whether his seat, 11A, is the safest. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0613/1518342-flight-safety/>
+
+---
+
+## Puska family trial jury resuming deliberations on Monday
+
+date: 2025-06-13, from: RTÉ News
+
+The jury in the trial of Jozef Puska's brothers and sisters in law over their actions following the murder of teacher, Ashling Murphy, in 2022, will resume its deliberations on Monday. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0613/1518271-puska-family-trial/>
+
+---
+
+## Bin lorry cameras to detect waste contamination
+
+date: 2025-06-13, from: RTÉ News
+
+The Panda waste company has said it intends to roll out more detection cameras on its trucks across the country over the next year. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0613/1518331-panda-waste-cameras/>
+
+---
+
+## Canadian demonstrators held, passports confiscated ahead of planned global march to Egypt-Gaza border
+
+date: 2025-06-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7560419.1749822898!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/suez-canal-city-of-ismailia-checkpoint.JPG' alt='Hundreds of pro-Palestinian demonstrators stand at an Egyptian checkpoint.' width='620' height='349' title='Demonstrators stand at a checkpoint at the Suez Canal city of Ismailia where activists are being detained and their passports were confiscated.'/><p>More than 40 Canadians planning to participate in the global march to Gaza, alongside thousands of other foreign activists, have been detained in Egypt and had their passports confiscated by authorities, organizers told CBC News.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/global-march-gaza-egypt-israel-canadians-1.7560348?cmp=rss>
+
+---
+
+## TD's partner calls on Tánaiste to address his detention
+
+date: 2025-06-13, from: RTÉ News
+
+The partner of People Before Profit TD Paul Murphy has called on Tánaiste Simon Harris to make a statement after he was detained in Egypt. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0613/1518330-paul-murphy/>
+
+---
+
+## Temporary protection for Ukrainians extended to 2027
+
+date: 2025-06-13, from: RTÉ News
+
+EU countries approved a one-year extension of the temporary protection offered to Ukrainian refugees fleeing Russia's war, allowing them to stay until March 2027. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0613/1518329-ukraine-europe-protection/>
+
+---
+
+## Pope Leo XIV receives Lebanese President 
+
+date: 2025-06-13, from: Vatican News
+
+
+                    <p>Pope Leo XIV receives the President of the Republic of Lebanon, Joseph Aoun, in audience in the Vatican.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-audience-vatican-president-aoun-lebanon-peace.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-audience-vatican-president-aoun-lebanon-peace.html>
+
+---
+
+## Ukraine receive 1,200 bodies from Russia in prisoner swap
+
+date: 2025-06-13, from: RTÉ News
+
+Ukraine has said it has received 1,200 unidentified bodies from Russia as part of an agreement reached at peace talks in Istanbul. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0613/1518324-ukraine-prisoner-swap/>
+
+---
+
+## Myanmar Catholics celebrate Jubilee amid ongoing conflict
+
+date: 2025-06-13, from: Vatican News
+
+
+                    <p>On Pentacost Sunday Catholic faithful in Myanmar celebrate the "Jubilee of Ecclesiastical Movements"</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/myanmar-jubilee-of-ecclesiastical-movements-conflict.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/myanmar-jubilee-of-ecclesiastical-movements-conflict.html>
+
+---
+
+## Parents set for High Court challenge over school places
+
+date: 2025-06-13, from: RTÉ News
+
+A judge has granted the parents of 25 children leave in the High Court to legally challenge the Minister for Education and Youth Helen McEntee and the National Council for Special Education on their failure to provide school places for special needs children. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0613/1518320-special-needs-education-court/>
+
+---
+
+## Irish citizens advised not to travel to Israel and Iran
+
+date: 2025-06-13, from: RTÉ News
+
+The Tánaiste has said that Irish citizens should not travel to Israel in the wake of the attacks on Iran. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0613/1518318-harris-iran-israel/>
 
 ---
 
@@ -49,11 +301,83 @@ Secretary-General António Guterres condemned Israeli strikes in Iran late Thurs
 
 ---
 
-## US Open: Day 2 updates
+## UN ocean summit in Nice  closes with wave of commitments
+
+date: 2025-06-13, from: United Nations, Top Stories
+
+Ships in the port of Nice sounded their fog-horns on Friday, a brassy crescendo to a rare moment of global unity as the Third UN Ocean Conference drew to a close. Moments earlier, more than 170 countries had adopted by consensus a sweeping political declaration promising urgent action to protect the ocean. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164381>
+
+---
+
+## Security Council meets in emergency session over Iran-Israel conflict, amid strikes and counterstrikes
+
+date: 2025-06-13, from: United Nations, Top Stories
+
+Israel’s strikes on Iranian nuclear and military facilities mark a dangerous new escalation in the Middle East, a top UN official told the Security Council during an emergency session convened on Friday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164401>
+
+---
+
+## Societies grappling with a ‘silent but growing’ prison crisis
+
+date: 2025-06-13, from: United Nations, Top Stories
+
+Prisons have become a fragile link in many criminal justice systems, weakened by over-incarceration, overcrowding, poor conditions and chronic neglect – fuelling calls for urgent reform.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164396>
+
+---
+
+## World News in Brief: Rights abuses in Haiti, Sudan war sees exodus to Chad, food trade optimism
+
+date: 2025-06-13, from: United Nations, Top Stories
+
+Escalating gang violence in Haiti has displaced a record 1.3 million people, UN human rights chief Volker Türk said on Friday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164386>
+
+---
+
+## Humanitarians must be able to deliver aid in Gaza, UN agencies insist
+
+date: 2025-06-13, from: United Nations, Top Stories
+
+UN agencies on Friday continue to stress they must be allowed to deliver aid in the Gaza Strip as famine looms and a telecommunications blackout threatens lifesaving operations.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164376>
+
+---
+
+## DR Congo crisis: Aid teams appeal for support to help displaced communities left with nothing
+
+date: 2025-06-13, from: United Nations, Top Stories
+
+As diplomatic efforts continue to end fighting in eastern Democratic Republic of the Congo (DRC), the UN development agency (UNDP) issued an appeal on Friday on behalf of people uprooted by the violence to help them rebuild their lives and livelihoods. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164356>
+
+---
+
+## US Open updates: McIlroy battling to make cut
 
 date: 2025-06-13, from: RTÉ News
 
-Rory McIlroy and particularly Shane Lowry have their work cut out as they start in the later wave on Day 2 of the US Open at the Gruellign Oakmont Country Club. 
+Rory McIlroy has his work cut out to make the weekend at the US Open, while Shane Lowry is finding the going very tough at the Oakmont Country Club. 
 
 <br> 
 
@@ -78,7 +402,8 @@ The Minister for Housing has defended new measures in relation to the rental mar
 date: 2025-06-13, from: Vatican News
 
 
-                    <p>As the Church prepares to mark the Ninth World Day of the Poor on Sunday, 16 November 2025, Pope Leo XIV issue a message centered on the theme: “You are my hope” (Ps 71:5).</p>
+                    <p>As the Church prepares to mark the Ninth World Day of the Poor on Sunday, 16 November 2025, Pope Leo XIV issues a message centred on the theme: “You are my hope”, and expresses his hope that this Jubilee Year may encourage the development of policies aimed at combatting forms of poverty both old and new.
+</p>
                     <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/world-day-poor-pope-leo-you-are-my-hope.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -217,7 +542,7 @@ date: 2025-06-13, from: Vatican News
 
 ---
 
-## Irish citizens advised against travel to Israel
+## Iran launches ballistic missiles towards Israel
 
 date: 2025-06-13, from: RTÉ News
 
@@ -229,7 +554,7 @@ Follow live developments as tensions between Israel and Iran escalate after Isra
 
 ---
 
-## Black box found at site of Air India plane crash
+## Black box found as India plane crash investigation begins
 
 date: 2025-06-13, from: RTÉ News
 
@@ -257,7 +582,7 @@ From the main roadway into Cork Airport being named after him, to concerts, exhi
 
 date: 2025-06-13, from: RTÉ News
 
-Israel said it had carried out strikes on Iranian nuclear and military sites, promising to continue its campaign and "achieve much more". Here is what we know so far: 
+Israel carried out dozens of airstrikes in Iran, hitting nuclear and military sites and killing several commanders and nuclear scientists. Here is what we know so far: 
 
 <br> 
 
@@ -277,11 +602,23 @@ A play based on the real life experiences of people living in an International P
 
 ---
 
-## Investigators search Air India crash site for evidence and more victims
+## Pimicikamak Cree Nation says it's stuck footing bill to feed 800 wildfire evacuees in Winnipeg
+
+date: 2025-06-13, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7550703.1749776147!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/highway-373-closed-toward-cross-lake.jpeg' alt='A road closed sign stands on a highway in the foreground. In the background is an RCMP vehicle. The sky is clouded in smoke from forest fires. ' width='620' height='349' title='Highway 373 toward Pimicikamak Cree Nation and Cross Lake, Man., was closed just off near the junction with Highway 6 due to wildfires on June 2, 2025.'/><p>Pimicikamak Cree Nation says it's been left covering meal costs for about 800 people in Winnipeg after being evacuated due to wildfires, with help from the Canadian Red Cross slow to arrive.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/pimicikamak-cree-nation-food-meals-red-cross-1.7560111?cmp=rss>
+
+---
+
+## Air India crash investigators recover plane's black box from a rooftop
 
 date: 2025-06-13, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7559211.1749735317!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/india-plane-crash.jpg' alt='The debris of an airplane sticks out of a building, with a person taking photos of it with a cellphone.' width='620' height='349' title='The debris of an airplane sticks out of a building after it crashed in India&apos;s northwestern city of Ahmedabad in Gujarat state, Thursday, June 12, 2025. '/><p>Authorities are investigating one of India's worst aviation disasters a day after a London-bound Air India plane crashed, killing all but one of the 242 passengers and crew on board, officials said Friday, as Indian Prime Minister Narendra Modi visited the crash site. </p> 
+<img src='https://i.cbc.ca/1.7560418.1749843078!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/india-crash-airindia.JPG' alt='The rubble of an airplane in a  crash site' width='620' height='349' title='A fire officer stands next to the crashed Air India Boeing 787-8 Dreamliner aircraft, in Ahmedabad, India, June 13, 2025. '/><p>India's Aircraft Accident Investigation Bureau said in a statement it has recovered the digital flight data recorder, or the black box, of the Air India plane from a rooftop near the crash site.</p> 
 
 <br> 
 
@@ -289,11 +626,11 @@ date: 2025-06-13, from: CBC, World News
 
 ---
 
-## 22 police officers injured during disorder in Portadown
+## PSNI seek public assistance in finding disorder suspects
 
 date: 2025-06-13, from: RTÉ News
 
-More than 20 police officers have been injured following overnight disorder in Portadown, Co Armagh. 
+The Police Service of Northern Ireland is seeking the public's assistance in identifying individuals involved in disorder. 
 
 <br> 
 
@@ -337,7 +674,7 @@ date: 2025-06-13, from: CBC, World News
 
 ---
 
-## Aid boat bound for Gaza was seized by Israel, but crew member still considers trip a win
+## Joy of Gaza aid boat's arrival turned to moment of fear, crew member says
 
 date: 2025-06-13, from: CBC, World News
 
@@ -361,6 +698,30 @@ date: 2025-06-13, from: CBC, World News
 
 ---
 
+## Mental health and education top of mind for new president of National Inuit Youth Council
+
+date: 2025-06-13, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7559990.1749764653!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/gwen-natsiq.jpg' alt='Girl smiles at camera' width='620' height='349' title=''/><p>Gwen Natsiq, chosen this month to be the National Inuit Youth Council's new president, says she plans to spend her two-year term focused on improving youth access to mental health resources and education.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/mental-health-and-education-top-of-mind-for-new-president-of-national-inuit-youth-council-1.7559989?cmp=rss>
+
+---
+
+## First Nation leaders, advocates rally in Thunder Bay, Ont., to demand Bill 5's repeal
+
+date: 2025-06-13, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7560233.1749784772!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mary-mcpherson.jpg' alt='A person is seen holding a very large pencil drawing of a man, outside.' width='620' height='349' title='Mary McPherson, a member of Couchiching First Nation, holds a portrait she drew of Ontario&apos;s Premier Doug Ford, in response to the provincial government passing Bill 5. She&apos;s calling for the legislation to be repealed.'/><p>The backlash against Bill 5 hasn’t died down, despite the provincial legislation being passed at Queen’s Park last week. The bill aims to accelerate development — namely mining — as a way of strengthening Ontario's economy amid the U.S. trade war. Here's what participants of a rally in Thunder Bay, Ont., shared about why they want the bill repealed.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/bill-5-rally-thunder-bay-1.7560229?cmp=rss>
+
+---
+
 ## Thunderstorms may rain on Trump's military parade
 
 date: 2025-06-13, from: RTÉ News
@@ -373,11 +734,11 @@ US President Donald Trump's dream of hosting a grand military parade in Washingt
 
 ---
 
-## Trump warns Iran next Israel attack will be 'more brutal'
+## Blasts heard in Tel Aviv and Jerusalem as Iran retaliates
 
 date: 2025-06-13, from: RTÉ News
 
-Israel has launched widescale strikes against Iran, saying it targeted nuclear facilities, ballistic missile factories and military commanders and that this was the start of a prolonged operation to prevent Tehran from building an atomic weapon. 
+Explosions were heard over Tel Aviv and Jerusalem as sirens sounded across Israel following what the country's military spokesman said was the firing of missiles from Iran. 
 
 <br> 
 
@@ -385,11 +746,11 @@ Israel has launched widescale strikes against Iran, saying it targeted nuclear f
 
 ---
 
-## Gardaí searching for human remains in McCarrick case
+## Man held over McCarrick murder released without charge
 
 date: 2025-06-13, from: RTÉ News
 
-Gardaí investigating the murder of Annie McCarrick, who went missing in Dublin over 32 years ago, have begun searching for human remains. 
+A 62-year-old man arrested on suspicion of the murder of 26-year-old Annie McCarrick has been released without charge. 
 
 <br> 
 
@@ -397,11 +758,11 @@ Gardaí investigating the murder of Annie McCarrick, who went missing in Dublin 
 
 ---
 
-## Martin and Harris attend British-Irish Council summit
+## Irish and British govts working 'intensively' on legacy
 
 date: 2025-06-12, from: RTÉ News
 
-Taoiseach Micheál Martin and Tánaiste Simon Harris are attending the 43rd summit meeting of the British-Irish Council which is being hosted by the Northern Ireland Executive. 
+The Tánaiste has said the Irish and British governments are working intensively to agree fresh legacy arrangements in Northern Ireland. 
 
 <br> 
 
@@ -430,6 +791,18 @@ date: 2025-06-12, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/israel-attack-iran-1.7560164?cmp=rss>
+
+---
+
+## Iran fires missile barrage at Israel in wake of blistering attacks on nuclear, military sites
+
+date: 2025-06-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/393cd2d8-fe70-4a0a-bf67-110a9a8cf95f,1749841973972/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Night skyline of a city with illuminated skyscrapers under a cloudy sky. Buildings&apos; lights create a serene and modern urban atmosphere.' width='620' height='349' title=''/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/iran-missile-attack-israel-1.7560878?cmp=rss>
 
 ---
 
@@ -799,7 +1172,7 @@ With 13.5 million people displaced by over 13 years of brutal civil conflict, Sy
 
 ## ‘No Ocean Declaration without small islands’: Delegates push for inclusion as UN summit nears end
 
-date: 2025-06-12, from: United Nations, Economic Development
+date: 2025-06-12, from: United Nations, Top Stories
 
 With one day remaining before the conclusion of the Third UN Ocean Conference, delegates in Nice are preparing for the adoption of the summit’s eagerly anticipated political declaration. Small island developing States, facing the direct effects of climate change and marine resource decline, are pushing to ensure their perspectives are reflected in global ocean policy. 
 
@@ -811,7 +1184,7 @@ With one day remaining before the conclusion of the Third UN Ocean Conference, d
 
 ## Global push to end plastic pollution gains ground in Nice
 
-date: 2025-06-12, from: United Nations, Economic Development
+date: 2025-06-12, from: United Nations, Top Stories
 
 Behind closed doors, in a domed conference pavilion steps away from the historic port of Nice, more than 40 ministers gathered on Tuesday to tackle one of the planet’s fastest-growing environmental threats: plastic pollution.&nbsp; 
 
@@ -861,7 +1234,7 @@ Yemen cannot endure more years of division, economic collapse and human sufferin
 
 date: 2025-06-12, from: United Nations, Top Stories
 
-Two counties in the Upper Nile State of South Sudan are sliding into famine, the Food and Agriculture Organization (FAO) warned in a new report released Thursday.&nbsp; 
+Two counties in the Upper Nile State of South Sudan are sliding into famine, the Food and Agriculture Organization (FAO) warned after a new update was released on Thursday from the UN-partnered food security classification system, the IPC.&nbsp; 
 
 <br> 
 
@@ -1967,7 +2340,7 @@ The Government's new policy on rents has been branded a "shambles" by Sinn Féin
 
 ## The world pledged to end child labour by 2025: So why are 138 million kids still working?
 
-date: 2025-06-11, from: United Nations, Economic Development
+date: 2025-06-11, from: United Nations, Top Stories
 
 Twelve-year-old Tenasoa crawls to work every day at a mine in eastern Madagascar where she collects two kilos of the shiny mineral mica each day. She cannot walk because of a physical disability. 
 
@@ -1991,7 +2364,7 @@ Survivors of a people-smuggling operation in the Red Sea have described being fo
 
 ## ‘Plenty of fish in the sea’? Not anymore, say UN experts in Nice
 
-date: 2025-06-11, from: United Nations, Economic Development
+date: 2025-06-11, from: United Nations, Top Stories
 
 At the Third UN Ocean Conference in Nice, the “catch of the day” wasn’t a seabass or a red mullet – it was a figure: 35 per cent. That’s the share of global fish stocks now being harvested unsustainably, according to a new UN report released Wednesday. 
 
@@ -2039,7 +2412,7 @@ Civilian deaths and injuries in the first five months of 2025 were nearly 50 per
 
 ## Climate emergency is a health crisis ‘that is already killing us,’ says WHO
 
-date: 2025-06-11, from: United Nations, Climate Change
+date: 2025-06-11, from: United Nations, Top Stories
 
 With 2024 confirmed as the hottest year on record, the World Health Organization (WHO) has issued a stark warning: the climate crisis is also a health crisis – and it’s already claiming lives. 
 
@@ -2967,7 +3340,7 @@ The global fertility slump isn’t down to young people turning their backs on p
 
 ## The battle to quiet the sea: Can the shipping industry turn down the volume?
 
-date: 2025-06-10, from: United Nations, Economic Development
+date: 2025-06-10, from: United Nations, Top Stories
 
 The ocean has never been silent – waves crashing, seabirds calling, whales singing across vast distances. But in recent decades, a new kind of noise has taken hold: the relentless hum of ships. For many marine species, this growing wall of sound is more than a nuisance – it’s a threat to their survival. 
 
@@ -2979,7 +3352,7 @@ The ocean has never been silent – waves crashing, seabirds calling, whales sin
 
 ## Greed is driving oceans toward collapse
 
-date: 2025-06-10, from: United Nations, Economic Development
+date: 2025-06-10, from: United Nations, Climate Change
 
 The ocean is under siege – and greed is to blame. UN Secretary-General António Guterres on Tuesday urged world leaders and grassroots groups to confront the powerful interests driving marine destruction, from illegal fishing and plastic pollution to the accelerating impacts of climate change. 
 
@@ -3051,7 +3424,7 @@ The very real risk of famine continues to stalk Sudan’s communities impacted b
 
 ## World News in Brief: Global growth slows, deadly Ukraine attacks, Haiti hurricane hunger risk, legal migration for refugees
 
-date: 2025-06-10, from: United Nations, Economic Development
+date: 2025-06-10, from: United Nations, Top Stories
 
 Global economic growth is expected to decline this year due to increased trade barriers and policy uncertainty, the World Bank said in a report published on Tuesday.&nbsp; 
 
@@ -3755,7 +4128,7 @@ date: 2025-06-09, from: CBC, Indigenious News
 
 ## Guterres calls for an end to ocean ‘plunder’ as UN summit opens in France
 
-date: 2025-06-09, from: United Nations, Economic Development
+date: 2025-06-09, from: United Nations, Climate Change
 
 With the Mediterranean glittering in the background, UN Secretary-General António Guterres opened the Third United Nations Ocean Conference on Monday, delivering a blunt indictment of humanity’s fractured relationship with the sea. 
 
@@ -3779,7 +4152,7 @@ The worsening humanitarian crisis in the Gaza Strip has reached “unprecedented
 
 ## No green without blue: Young ocean explorers set sail for a sustainable future
 
-date: 2025-06-09, from: United Nations, Economic Development
+date: 2025-06-09, from: United Nations, Climate Change
 
 With science at the forefront of the opening day of the Third UN Ocean Conference (UNOC3), UN News boarded a 111-year-old Norwegian tall ship on the French Riviera to meet 50 science students, along with a host of lecturers and citizen scientists fresh from a 46-day expedition. Fueled by satellite data from the European Space Agency (ESA), their invaluable observations echo the urgent call to understand and protect the world’s oceans. 
 
@@ -4361,7 +4734,7 @@ Whether it’s their first time or a routine part of their life, menstruation ha
 
 ## Drifting architects: Plankton, climate, and the race to understand our changing ocean
 
-date: 2025-06-08, from: United Nations, Economic Development
+date: 2025-06-08, from: United Nations, Climate Change
 
 They drift unseen, but everything depends on them. Plankton – the ocean’s lifeblood –&nbsp;regulate the climate, feed the seas, and shape life on Earth. Scientists along the French Riviera are in a race against time to unlock the mysteries of these tiny organisms before their decline reverberates across the planet. 
 

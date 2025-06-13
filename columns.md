@@ -1,11 +1,92 @@
 ---
 title: columns
-updated: 2025-06-13 06:09:35
+updated: 2025-06-13 14:07:08
 ---
 
 # columns
 
-(date: 2025-06-13 06:09:35)
+(date: 2025-06-13 14:07:08)
+
+---
+
+## June 12, 2025
+
+date: 2025-06-13, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165894207/c368072f09e01ad9ccfa75bb7442db65.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165894207/c368072f09e01ad9ccfa75bb7442db65.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-12-2025-81b>
+
+---
+
+## Friday
+
+date: 2025-06-13, from: Doc Searls (at Harvard), New Old Blog
+
+Paper shavings. I just learned by Ed Cone that Greensboro, where I lived (and went to college) from &#39;65 to &#39;69, is maybe, sort of, turning into an aerospace place. (He points here.) More importantly, he offhandedly refers to the &#34;rah rah local media,&#34; which presumably includes the News &#38; Record, which was the News [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/06/13/friday-2/>
+
+---
+
+## Democratic resurrection plan
+
+date: 2025-06-13, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/04/butHerEmails.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Having a <a href="http://scripting.com/2020/07/01/152316.html?title=whatWouldCuomoDo">Democrat</a> rise from the ashes of <a href="https://daytona.scripting.com/search?q=metoo">metoo</a> is just what the doctor ordered. It could cure the revulsion some voters feel for Democratic wokeness. <a href="https://daytona.scripting.com/search?q=cuomo">Cuomo</a> was never tried or convicted of any crime, or voted out of office by the state assembly or senate in Albany. Or the people of the State of New York. Al Franken wasn't allowed to have his case adjudicated by a committee of Congress. Both were pushed from office by journalism, which imho needs to be put in their place, they've been sloshing into lanes they weren't elected to. Let me try to make this clear. Journalism's role is to inform us of events. Once informed, it's their responsibility to stop. Anything past that is campaigning, not news. Step back and let the process run its course. Ultimately it's the people who will decide. Now, if Cuomo wins, this is the best outcome possible because the NYT et al will complain endlessly about how the Democrats just elected someone who they <a href="https://www.youtube.com/watch?v=4gi9zFRBCIM">don't approve of</a>. This will probably get the Dems more votes in coming elections, because there are a lot of people who legitimately are disgusted by the NYT trying to run the show. If you want to govern, run for office. If you want to be a journalist, know when it's time to shut up.</p>
+<p>BTW isn't it amazing that when you say something counter to Democratic dogma, their first impulse is to try to destroy you? If the Dems were a healthy political party and not a religion, their first impulse would be to try to work with you not destroy you.</p>
+<p>"Who me?" asks the Democrat. Yes, you. </p>
+<p>You'll know who the next leader of the Democratic Party is because they will be campaigning against the Democratic Party. Talking about things that actually happened rather than the hallucinations the Trumpies indulge in. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/13/162709.html?title=democraticResurrectionPlan>
+
+---
+
+## Screen shot
+
+date: 2025-06-13, from: Dave Winer's Scripting News
+
+<p>The linkblog project is coming along. Still more things to hook up but I thought it would be nice to take a picture of what a linkblog post looks like in the reader app.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/06/13/linkblogpost.png"></center>What a linkblog post looks like in my reader.</div></p>
+<p>And just for fun because we can do it, here's a <a href="https://imgs.scripting.com/2025/06/13/screenshotOfScreenshotInReader.png">screen shot</a> of the screen shot in the reader app. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/13/162640.html?title=screenShot>
+
+---
+
+## Miscellany № 109: the terror of the full stop
+
+date: 2025-06-13, from: Shady Characters blog
+
+<p>First: can I interest you in <a href="https://emoji.shadycharacters.co.uk/">a periodic table of emoji</a>? <a href="https://shadycharacters.co.uk/2025/06/periodic-table-of-emoji/">As I wrote last time</a>, I had a lot of fun putting one together and I hope you’ll get a kick out of it too. If you scroll past the table itself, you’ll find copious details on what it is, how it works, and why I put together.</p><a class="more-link" href="https://shadycharacters.co.uk/2025/06/miscellany-109/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/06/miscellany-109/>
+
+---
+
+## Building a WordPress MCP Server for Claude: Automating Blog Posts with AI
+
+date: 2025-06-13, from: Paolo Valdemarin's blog
+
+Building a custom MCP server to connect Claude directly to WordPress, enabling automated blog post creation with proper formatting and intelligent categorisation. 
+
+<br> 
+
+<https://val.demar.in/2025/06/building-a-wordpress-mcp-server-for-claude-automating-blog-posts-with-ai/>
 
 ---
 
@@ -22,11 +103,11 @@ date: 2025-06-13, updated: 2025-06-13, from: Liam Proven's articles at the Regis
 
 ---
 
-## Paragon Spyware used to Spy on European Journalists
+## Paragon Spyware Used to Spy on European Journalists
 
 date: 2025-06-13, updated: 2025-06-13, from: Bruce Schneier blog
 
-<p>Paragon is a Israeli spyware company, increasingly in the news (now that NSO Group seems to be waning). &#8220;Graphite&#8221; is the name of their product. Citizen Lab <a href="https://citizenlab.ca/2025/06/first-forensic-confirmation-of-paragons-ios-mercenary-spyware-finds-journalists-targeted/">caught them</a> spying on multiple European journalists with a zero-click iOS exploit:</p>
+<p>Paragon is an Israeli spyware company, increasingly in the news (now that NSO Group seems to be waning). &#8220;Graphite&#8221; is the name of its product. Citizen Lab <a href="https://citizenlab.ca/2025/06/first-forensic-confirmation-of-paragons-ios-mercenary-spyware-finds-journalists-targeted/">caught it</a> spying on multiple European journalists with a zero-click iOS exploit:</p>
 <blockquote><p>On April 29, 2025, a select group of iOS users were notified by Apple that they were targeted with advanced spyware. Among the group were two journalists that consented for the technical analysis of their cases. The key findings from our forensic analysis of their devices are summarized below:</p>
 <ul>
 <li>Our analysis finds forensic evidence confirming with high confidence that both a prominent European journalist (who requests anonymity), and Italian journalist Ciro Pellegrino, were targeted with Paragon’s Graphite mercenary spyware.
@@ -86,6 +167,18 @@ date: 2025-06-13, from: Geoffrey Hunntley's blog
 
 ---
 
+## Safari at WWDC '25: The Ghost of Christmas Past
+
+date: 2025-06-13, updated: 2025-06-13, from: Alex Russel's blog
+
+ 
+
+<br> 
+
+<https://infrequently.org/2025/06/the-ghost-of-christmas-past/>
+
+---
+
 ## Realities, perceived and presented, and their relationship to Truth
 
 date: 2025-06-12, from: Tracy Durnell Blog
@@ -112,7 +205,7 @@ Smoke signals The Orchard, Grantchester. Quote of the Day “The dubious privile
 
 ## ★ Apple’s Spin on the Personalized Siri Apple Intelligence Reset
 
-date: 2025-06-12, updated: 2025-06-12, from: Daring Fireball
+date: 2025-06-12, updated: 2025-06-13, from: Daring Fireball
 
 Most rank and file engineers within Apple do not believe that feature existed in an even vaguely functional state a year ago, and the first any of them ever heard of it was when they watched the keynote with the rest of us on the first day of WWDC last year. 
 

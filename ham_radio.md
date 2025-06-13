@@ -1,11 +1,97 @@
 ---
 title: ham radio
-updated: 2025-06-13 06:09:33
+updated: 2025-06-13 14:07:07
 ---
 
 # ham radio
 
-(date: 2025-06-13 06:09:33)
+(date: 2025-06-13 14:07:07)
+
+---
+
+## ARRL Teachers Institute – Multiplying the Message
+
+date: 2025-06-13, from: Amateur Radio Relay League News
+
+<p>ARRL The National Association for Amateur Radio® welcomed the year’s first cohort of educators to attend a session of the ARRL Teachers Institute on Wireless Technology (TI) at headquarters this week. The group follows on the success of the Louisiana-based session last week, and one on Staten Island in New York City this past in January.</p><p>The educators traveled from all over the country to attend...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-teachers-institute-multiplying-the-message>
+
+---
+
+## 2025 ARRL Field Day - Are You Ready?
+
+date: 2025-06-13, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/2025-arrl-field-day-are-you-ready>
+
+---
+
+## Jobs for Hams: Join the ARRL Team
+
+date: 2025-06-13, from: Amateur Radio Relay League News
+
+<p>ARRL is looking for some new members of our Newington, Connecticut-based headquarters staff. There are several roles for which we’re seeking qualified candidates. If you’re into amateur radio, ARRL is a tremendous place to work.</p><p>The <b>Membership Manager </b>is responsible for leading efforts related to ARRL membership growth, engagement, and retention. This role serves as the primary point of contact ...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/jobs-for-hams-join-the-arrl-team>
+
+---
+
+## The 2025 ARRL June VHF Contest is This Weekend
+
+date: 2025-06-13, from: Amateur Radio Relay League News
+
+<p><span>The 2025 </span><span>ARRL June VHF Contest</span><span> is this weekend, starting at 1800 UTC on Saturday, June 14, and concluding at 0259 UTC on Monday, June 16. Late spring weather brings enhanced tropospheric ducting and meteor scatter. Plus, it’s the peak of the sporadic-E season. Take advantage of these propagation enhancements and have some fun on the VHF and UHF bands.</span></p><p><span><span>ARRL Contest Program Manager Paul Bourque, N...</span></span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-2025-arrl-june-vhf-contest-is-this-weekend>
+
+---
+
+## ARRL Section Manager Nomination Results
+
+date: 2025-06-13, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-section-manager-nomination-results>
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-06-13, from: Amateur Radio Relay League News
+
+<p>On Friday, June 13, Spaceweather.com reports a CIR, or co-rotating<br />interaction region, hit Earth's magnetic field, sparking a G2-class<br />geomagnetic storm. There is a chance that this ongoing storm could<br />intensify to category G3 (Strong).<br /><br />Overall, solar activity was at low levels, with only C-class flares<br />observed the past 48 hours. There were flares observed beyond the<br />east limb, but no responsible re...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-18>
+
+---
+
+## Time-to-digital conversion for space applications
+
+date: 2025-06-13, from: EDN Blog
+
+<img width="1042" height="405" src="https://www.edn.com/wp-content/uploads/TDC-for-space-apps_Figure-1.png?fit=1042%2C405" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/TDC-for-space-apps_Figure-1.png?w=1042 1042w, https://www.edn.com/wp-content/uploads/TDC-for-space-apps_Figure-1.png?w=300 300w, https://www.edn.com/wp-content/uploads/TDC-for-space-apps_Figure-1.png?w=768 768w, https://www.edn.com/wp-content/uploads/TDC-for-space-apps_Figure-1.png?w=1024 1024w" sizes="(max-width: 1042px) 100vw, 1042px" /><p>Do you need to calculate time-of-flight? Do you need to calculate absolute time? Then you'll probably need a time-to-digital converter.</p>
+<p>The post <a href="https://www.edn.com/time-to-digital-conversion-for-space-applications/">Time-to-digital conversion for space applications</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/time-to-digital-conversion-for-space-applications/>
 
 ---
 
@@ -13,7 +99,7 @@ updated: 2025-06-13 06:09:33
 
 date: 2025-06-12, from: EDN Blog
 
-<img width="700" height="397" src="https://www.edn.com/wp-content/uploads/Quantic-Altum-X-MWblocks.jpg?fit=700%2C397" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Quantic-Altum-X-MWblocks.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Quantic-Altum-X-MWblocks.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Altum RF’s MMIC amplifiers are now part of Quantic’s plug-and-play X-MWblocks, enabling seamless integration into RF designs.</p>
+<img width="700" height="397" src="https://www.edn.com/wp-content/uploads/Quantic-Altum-X-MWblocks.jpg?fit=700%2C397" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Quantic-Altum-X-MWblocks.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Quantic-Altum-X-MWblocks.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>Altum RF’s MMIC amplifiers are now part of Quantic’s plug-and-play X-MWblocks, enabling seamless integration into RF designs.</p>
 <p>The post <a href="https://www.edn.com/altum-amps-speed-rf-design-with-quantic-blocks/">Altum amps speed RF design with Quantic blocks</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

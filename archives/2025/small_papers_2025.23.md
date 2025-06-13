@@ -1,11 +1,86 @@
 ---
 title: small papers
-updated: 2025-06-13 06:09:42
+updated: 2025-06-13 14:07:13
 ---
 
 # small papers
 
-(date: 2025-06-13 06:09:42)
+(date: 2025-06-13 14:07:13)
+
+---
+
+## Catalina Pride celebration returns
+
+date: 2025-06-13, from: Catalina Islander
+
+Catalina Pride 2025 was held June 6 and 7 with expanded events and venues this year including the addition of a Pink Poney Club themed kick-off party at the Chi Chi Club on Friday night. On Saturday the activities started at noon with a Pride Walk following a brief ceremony to acknowledge sponsors and dignitaries. [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/catalina-pride-celebration-returns/>
+
+---
+
+## Puffer given award for 42 years of service
+
+date: 2025-06-13, from: Catalina Islander
+
+Longtime Catalina Island resident Walt Puffer was recently presented an award from the Los Angeles County Lifeguard Association for his 42 years of service as an ocean lifeguard. Much of his time as a lifeguard included working on Catalina, where he spent his summers living and working on the island that he would eventually make [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/puffer-given-award-for-42-years-of-service/>
+
+---
+
+## Council fee schedule update
+
+date: 2025-06-13, from: Catalina Islander
+
+Following a public hearing, the Avalon City Council unanimously approved a new fee schedule on June 3. No one during the public hearing. “We did not increase the fees for recreation vehicles or transit,” said Finance Director Matthew Baker. According to Baker, the city did not raise the park rental fee. “Staff estimates that the [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/council-fee-schedule-update/>
+
+---
+
+## Straight Up Builders wins tournament
+
+date: 2025-06-13, from: Catalina Islander
+
+The final game of the Catalina Co-Ed Softball season was played for the tournament title between Buoys &#38; Gulls and Straight Up Builders. Buoys &#38; Gulls was up first, and promptly had two base hits and doubles from Weston Leonhardi and Ryan Adkins to score three. Straight Up Builders answered back with seven runs off [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/straight-up-builders-wins-tournament/>
+
+---
+
+## Sevengill sharks are fascinating creatures
+
+date: 2025-06-13, from: Catalina Islander
+
+Sharks are fascinating creatures. We see several different ones here on the island such as: hornshark, leopard shark, swell shark, soupfin shark, blue shark and mako sharks. Most people were in disbelief when a free diver reported seeing a sevengill shark in the park last month. But low and behold, our staff witnessed and dove [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/sevengill-sharks-are-fascinating-creatures/>
+
+---
+
+## Health Department warns about confirmed measles case in Long Beach
+
+date: 2025-06-13, from: Long Beach Post
+
+<figure><img width="1024" height="506" src="https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-300x148.jpg 300w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-1024x506.jpg 1024w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-768x380.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-192x95.jpg 192w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-400x198.jpg 400w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-470x232.jpg 470w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-970x479.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A child infected with measles may have been contagious while at MemorialCare’s Long Beach Medical Center on Atlantic Avenue last week.</p>
+<p>The post <a href="https://lbpost.com/news/health/measles-case-long-beach-warn-health-department-memorial">Health Department warns about confirmed measles case in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/health/measles-case-long-beach-warn-health-department-memorial>
 
 ---
 
@@ -28,7 +103,7 @@ date: 2025-06-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-06-12, from: Long Beach Post
 
-<figure><img width="1024" height="527" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1024x527.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1024x527.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-300x154.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-768x395.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-192x99.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1536x790.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-2048x1054.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1200x618.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1568x807.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-400x206.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="527" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1024x527.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1024x527.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-300x154.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-768x395.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-192x99.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1536x790.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-2048x1054.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1200x618.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1568x807.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-400x206.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Three recent shootings in Belmont Shore frayed some nerves. </p>
 <p>The post <a href="https://lbpost.com/news/crime/belmont-shore-shootings-second-street-safety">With neighbors concerned about recent violence, police put focus on 2nd Street</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -43,7 +118,7 @@ date: 2025-06-12, from: Long Beach Post
 
 date: 2025-06-12, from: Long Beach Post
 
-<figure><img width="1024" height="768" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1024x768.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1024x768.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-300x225.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-768x576.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-144x108.webp 144w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1536x1152.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1200x900.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-800x600.webp 800w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-600x450.webp 600w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-400x300.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-200x150.webp 200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1568x1176.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9.webp 1760w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1024x768.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1024x768.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-300x225.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-768x576.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-144x108.webp 144w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1536x1152.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1200x900.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-800x600.webp 800w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-600x450.webp 600w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-400x300.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-200x150.webp 200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1568x1176.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9.webp 1760w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The pastors of Downey Memorial Christian Church say a man they believed to be an ICE agent pointed a gun at one of them and said "this whole country is our property."</p>
 <p>The post <a href="https://lbpost.com/news/downey-church-ice-immigration-raid-officers">Downey church community on edge after masked, armed officers detain man on church property</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-06-13 06:09:38
+updated: 2025-06-13 14:07:10
 ---
 
 # libraries
 
-(date: 2025-06-13 06:09:38)
+(date: 2025-06-13 14:07:10)
 
 ---
 
@@ -44,6 +44,18 @@ Halbheer, Michelle
 <br> 
 
 <http://hdl.handle.net/20.500.11850/740370>
+
+---
+
+## Detection of Heavy Precipitation using GNSS Zenith Wet Delay
+
+date: 2025-06-13, from: ETH Zurich, recently added
+
+Saini, Dev 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/740422>
 
 ---
 

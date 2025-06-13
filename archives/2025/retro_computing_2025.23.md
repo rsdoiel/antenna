@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-06-13 06:09:40
+updated: 2025-06-13 14:07:12
 ---
 
 # retro computing
 
-(date: 2025-06-13 06:09:40)
+(date: 2025-06-13 14:07:12)
+
+---
+
+## b.log 2025/06/13 - Satellite receiver, Habitual food poisoning explained?
+
+date: 2025-06-13, from: Richard Murray's blog
+
+Satellite receiver, Habitual food poisoning explained? 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250613>
+
+---
+
+## This Week on the Analog Antiquarian
+
+date: 2025-06-13, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 31: Life and Death 
+
+<br> 
+
+<https://www.filfre.net/2025/06/this-week-on-the-analog-antiquarian/>
 
 ---
 

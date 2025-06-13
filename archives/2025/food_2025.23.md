@@ -1,11 +1,167 @@
 ---
 title: food
-updated: 2025-06-13 06:09:41
+updated: 2025-06-13 14:07:13
 ---
 
 # food
 
-(date: 2025-06-13 06:09:41)
+(date: 2025-06-13 14:07:13)
+
+---
+
+## Timothée Chalamet’s Favorite Cocktail Is Not an Espresso Martini
+
+date: 2025-06-13, from: Taste of Home
+
+<p>No, it's not an espresso martini.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/timothee-chalamet-favorite-cocktail/">Timothée Chalamet’s Favorite Cocktail Is Not an Espresso Martini</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/timothee-chalamet-favorite-cocktail/>
+
+---
+
+## Doechii’s Favorite Snack Is Really Specific—Have You Ever Tried It?
+
+date: 2025-06-13, from: Taste of Home
+
+<p>The Grammy-winning rapper takes snack time seriously.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/doechiis-favorite-snack/">Doechii&#8217;s Favorite Snack Is Really Specific—Have You Ever Tried It?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/doechiis-favorite-snack/>
+
+---
+
+## Fried Green Tomatoes
+
+date: 2025-06-13, from: Taste of Home
+
+Fried green tomatoes are a southern specialty. Unripe tomatoes are sliced, double-dredged and deep-fried for maximum crunch. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/fried-green-tomatoes-recipe/>
+
+---
+
+## The Best Frozen Burgers, According to Our Taste Test
+
+date: 2025-06-13, from: Bon Appetet
+
+We tried nine popular varieties, including Bubba, Philly Gourmet, and Wahlburgers. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-frozen-burgers-hamburger-taste-test>
+
+---
+
+## Here’s Why You Should Never Pour Sourdough Starter Down the Drain
+
+date: 2025-06-13, from: Taste of Home
+
+<p>Don't turn a relaxing baking session into a plumbing emergency!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/sourdough-starter-down-the-drain/">Here&#8217;s Why You Should Never Pour Sourdough Starter Down the Drain</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/sourdough-starter-down-the-drain/>
+
+---
+
+## Cafe Imports’ Ecos Del Cafe Is Back For Year Two
+
+date: 2025-06-13, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The first episode of Ecos del Café Year Two by Cafe Imports is out now. 
+
+<br> 
+
+<https://sprudge.com/cafe-imports-ecos-del-cafe-is-back-for-year-two-347501.html>
+
+---
+
+## I Recreated Disney’s Epcot Cosmic Cheesecake, and It’s Out of This World
+
+date: 2025-06-13, from: Taste of Home
+
+<p>I went all the way to Walt Disney World to try the legendary Epcot Cosmic Cheesecake at Space 220. After the first bite, I knew this dessert was worth the trip.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/epcot-cosmic-cheesecake/">I Recreated Disney&#8217;s Epcot Cosmic Cheesecake, and It&#8217;s Out of This World</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/epcot-cosmic-cheesecake/>
+
+---
+
+## Lady Gaga’s Favorite Lunch Is a Classic New York Sandwich
+
+date: 2025-06-13, from: Taste of Home
+
+<p>If it's good enough for Gaga, it's good enough for me!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/lady-gaga-favorite-lunch/">Lady Gaga’s Favorite Lunch Is a Classic New York Sandwich</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/lady-gaga-favorite-lunch/>
+
+---
+
+## The Best Silverware Sets, Tested & Reviewed (2025)
+
+date: 2025-06-13, from: Bon Appetet
+
+There’s even one for people who hate big spoons. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-silverware-sets>
+
+---
+
+## The Best Grocery Store Chocolate Chip Cookies, According to a Professional Baker
+
+date: 2025-06-13, from: Taste of Home
+
+<p>We sampled seven chocolate chip cookies from in-store bakeries to find our absolute favorite.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-grocery-store-cookies/">The Best Grocery Store Chocolate Chip Cookies, According to a Professional Baker</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-grocery-store-cookies/>
+
+---
+
+## Weekly Coffee News: Dutch Bros Moving HQ Out of Oregon + A Cream Top Backlash
+
+date: 2025-06-13, from: Daily Coffee News
+
+<div><img width="620" height="410" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/pexels-erik-zepeda-2155058-11193377-620x410.jpg" class="attachment-large size-large wp-post-image" alt="pexels-erik-zepeda-2155058-11193377" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/pexels-erik-zepeda-2155058-11193377-620x410.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/pexels-erik-zepeda-2155058-11193377-300x198.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/pexels-erik-zepeda-2155058-11193377-150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/pexels-erik-zepeda-2155058-11193377-768x507.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/pexels-erik-zepeda-2155058-11193377.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Oregon-Grown Dutch Bros Moving Headquarters to Phoenix More than... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/13/weekly-coffee-news-dutch-bros-moving-hq-out-of-oregon-a-cream-top-backlash/>
+
+---
+
+## Stuffed Ham
+
+date: 2025-06-13, from: Taste of Home
+
+With its green vegetable-swirled filling, stuffed ham is a local favorite in St. Mary’s County, Maryland. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/stuffed-ham/>
 
 ---
 
@@ -195,7 +351,7 @@ Why go to the coffee shop for espresso when the espresso can come to you?
 
 date: 2025-06-12, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Peru-final-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Peru final" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Peru-final-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Peru-final-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Peru-final-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Peru-final-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Peru-final.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Peru’s coffee production for the 2025/26 market year (April to March) is forecast at the equivalent of 4.2 million 60-kilogram bags, up 8% from the prior year, according to the... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Peru-final-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Peru final" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Peru-final-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Peru-final-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Peru-final-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Peru-final-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Peru-final.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Peru’s coffee production for the 2025/26 market year (April to March) is forecast at the equivalent of 4.2 million 60-kilogram bags, up 8% from the prior year, according to the... 
 
 <br> 
 
@@ -423,7 +579,7 @@ date: 2025-06-11, from: Taste of Home
 
 date: 2025-06-11, from: Daily Coffee News
 
-<div><img width="620" height="352" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Futures-Coffee-620x352.jpg" class="attachment-large size-large wp-post-image" alt="Screenshot" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Futures-Coffee-620x352.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Futures-Coffee-300x170.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Futures-Coffee-150x85.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Futures-Coffee-768x435.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Futures-Coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The coffee &#8220;C market&#8221; and &#8220;passion&#8221; are not phrases that typically go hand in hand.&#160;Yet for the past six months, a Bay Area couple has been spending nights and... 
+<div><img width="620" height="352" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Futures-Coffee-620x352.jpg" class="attachment-large size-large wp-post-image" alt="Screenshot" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Futures-Coffee-620x352.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Futures-Coffee-300x170.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Futures-Coffee-150x85.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Futures-Coffee-768x435.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Futures-Coffee.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; The coffee &#8220;C market&#8221; and &#8220;passion&#8221; are not phrases that typically go hand in hand.&#160;Yet for the past six months, a Bay Area couple has been spending nights and... 
 
 <br> 
 

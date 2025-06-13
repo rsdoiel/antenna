@@ -1,11 +1,187 @@
 ---
 title: going electric
-updated: 2025-06-13 06:09:41
+updated: 2025-06-13 14:07:12
 ---
 
 # going electric
 
-(date: 2025-06-13 06:09:41)
+(date: 2025-06-13 14:07:12)
+
+---
+
+## Tesla Thinks Full Self-Driving Is Ready For Europe. Regulators Say Not So Fast
+
+date: 2025-06-13, from: Inside EVs News
+
+Waiting for regulatory approval appears to be the primary obstacle holding Tesla's FSD back from launching in Europe. 
+
+<br> 
+
+<https://insideevs.com/news/762725/tesla-full-self-driving-eu/>
+
+---
+
+## EV Fast Chargers Are Growing Much More Quickly Than You Think
+
+date: 2025-06-13, from: Inside EVs News
+
+Despite industry headwinds, the "Charging 2.0" era is here. And it could mean thousands more EV charging ports by year's end than 2024. 
+
+<br> 
+
+<https://insideevs.com/news/762719/ev-dc-charger-installs-2025/>
+
+---
+
+## Podcast: new Tesla Model S/X, Robotaxi is sort of coming, Xiaomi breaks EV Nurburgring record, more
+
+date: 2025-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the new Tesla Model S and Model XX, Robotaxi is sort of coming, Xiaomi breaking the EV record at Nurburgring, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="420201" href="https://electrek.co/2025/06/13/podcast-new-tesla-model-s-x-robotaxi-is-sort-of-coming-xiaomi-breaks-ev-nurburgring-record-more/#more-420201" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/13/podcast-new-tesla-model-s-x-robotaxi-is-sort-of-coming-xiaomi-breaks-ev-nurburgring-record-more/>
+
+---
+
+## Chevy closes in on Tesla with the Equinox and Blazer EVs ‘right in the heart of the market’
+
+date: 2025-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/35000-Chevy-Equinox-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chevy is narrowing the gap with Tesla in the US, thanks to its <a href="https://electrek.co/guides/chevy-equinox-ev/">new Equinox</a> and Blazer EVs. After outselling Ford, Chevy is now the fastest-growing EV brand in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevy-blazer-ev,chevy-equinox-ev" data-layer-viewtype="unknown" data-post-id="420274" href="https://electrek.co/2025/06/13/chevy-closing-in-on-tesla-thanks-to-equinox-ev/#more-420274" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/13/chevy-closing-in-on-tesla-thanks-to-equinox-ev/>
+
+---
+
+## Lectric XPedition e-bikes with $723 Father’s Day cargo bundles, SOLIX F3800 Plus home backup bundles $2,164+ off, Worx, EGO, more
+
+date: 2025-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Lectric-XPedition-2.0-Cargo-e-bike-father-and-son-lifestyle.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Closing out this week’s Green Deals, we’re popping back in on some favorite Father’s Day Sales while mixing in some fresh savings, too. Leading the group is the <a href="https://9to5toys.com/2025/06/02/up-to-723-bundles-lectric-e-bikes-from-999/">Father’s Day Sale bundles</a> we’re seeing on the <a href="https://9to5toys.com/2025/06/13/lectric-xpedition-2-0-e-bikes-from-1399/">Lectric XPedition 2.0 Cargo e-bike</a>, with its three variants getting up to $723 in free gear <a href="https://9to5toys.com/2025/06/13/lectric-xpedition-2-0-e-bikes-from-1399/">starting from $1,399</a>. Next, running through the weekend in <a href="https://9to5toys.com/2025/06/06/anker-solix-fathers-day-power-station-sale-from-119/">Anker’s SOLIX Father’s Day Sale</a>, we spotted the <a href="https://9to5toys.com/2025/06/13/anker-solix-f3800-plus-backup-bundles-from-3394/">F3800 Plus home backup bundles</a> at new lows <a href="https://9to5toys.com/2025/06/13/anker-solix-f3800-plus-backup-bundles-from-3394/">starting from $3,394</a>. From there, we have the <a href="https://9to5toys.com/2025/06/13/worx-20v-10-inch-chainsaw-pole-saw-130/">Worx 20V 10-inch Cordless PowerShare Pole/Chainsaw kit at $130</a>, as well as <a href="https://9to5toys.com/2025/06/13/ego-56v-25-inch-hedge-trimmer-269-low/">EGO’s 56V 25-inch Cordless Electric Hedge Trimmer</a> returning to its Black Friday pricing for <a href="https://9to5toys.com/2025/06/13/ego-56v-25-inch-hedge-trimmer-269-low/">$269</a>. Lastly, we have the ongoing deal on the <a href="https://9to5toys.com/2025/06/11/duracell-rechargeable-bundle-13/">Duracell Ion Speed 1000 Charger bundle</a> with 6 AA and 2 AAA rechargeable batteries at <a href="https://9to5toys.com/2025/06/11/duracell-rechargeable-bundle-13/">$13</a>. Plus, there’s all the rest of the hangover Green Deals in the links at the bottom of the page, like yesterday’s new low price on <a href="https://9to5toys.com/2025/06/12/niu-kqi-200f-electric-scooter-new-629-low/">NIU’s latest KQi 200F Electric Scooter</a>, the <a href="https://9to5toys.com/2025/06/12/bluetti-ac300-solar-generator-bundle-new-1799-low/">Bluetti AC300 expanded solar bundle</a> at a new low, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="420264" href="https://electrek.co/2025/06/13/lectric-xpedition-e-bikes-solix-f3800-plus-worx-ego-more/#more-420264" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/13/lectric-xpedition-e-bikes-solix-f3800-plus-worx-ego-more/>
+
+---
+
+## Report shows how republican attacks on EVs will kill 2 million US jobs
+
+date: 2025-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Rivian-Q1-2025-factory.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The republican budget bill which cuts domestic manufacturing credits and <a href="https://electrek.co/2025/05/22/house-republicans-vote-to-send-us-ev-jobs-to-china-give-trillions-to-us-elites/">adds trillions of dollars to the national debt in order to channel money to US elites</a> will put 2 million jobs at risk, according to a new report by BlueGreen Alliance.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-manufacturing,inflation-reduction-act" data-layer-viewtype="unknown" data-post-id="420251" href="https://electrek.co/2025/06/13/report-shows-how-republican-attacks-on-evs-will-cost-us-2-million-jobs/#more-420251" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/13/report-shows-how-republican-attacks-on-evs-will-cost-us-2-million-jobs/>
+
+---
+
+## BYD is now saying the EV price war is ‘not sustainable,’ yet it’s still slashing prices
+
+date: 2025-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/BYD-price-war-not-sustainable.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The price war on electric cars in China is quickly getting out of control. <a href="https://electrek.co/guides/byd/">BYD’s</a> executive president, Stella Li, is saying the EV price war, which it essentially created, is “not sustainable” anymore.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="420244" href="https://electrek.co/2025/06/13/byd-says-ev-price-war-not-sustainable-yet-still-slashes-prices/#more-420244" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/13/byd-says-ev-price-war-not-sustainable-yet-still-slashes-prices/>
+
+---
+
+## I'm Obsessed With This High-Tech $3,500 E-Bike
+
+date: 2025-06-13, from: Inside EVs News
+
+The Infinite Machine Olto is what an e-bike from Tesla, Rivian or Apple might look like—even with over-the-air firmware updates. 
+
+<br> 
+
+<https://insideevs.com/news/762597/infinite-machine-olto-electric-bike/>
+
+---
+
+## Lucid’s (LCID) first $50,000 midsize EV prototypes appear in Nikola’s former headquarters
+
+date: 2025-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Lucid-orders-Tesla-owners.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/lucid-motors/">Lucid</a> (LCID) is housing the first prototypes of its upcoming midsize EV, which will start at about $50,000, in Nikola’s former headquarters. After opening its new Phoenix Hub facility this week, Lucid is taking another big step toward launching its new midsize platform.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-mid-size,lucid-motors" data-layer-viewtype="unknown" data-post-id="420211" href="https://electrek.co/2025/06/13/lucid-lcid-building-first-50000-midsize-ev-prototypes/#more-420211" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/13/lucid-lcid-building-first-50000-midsize-ev-prototypes/>
+
+---
+
+## This Legendary Hot Hatchback Returns As An EV
+
+date: 2025-06-13, from: Inside EVs News
+
+The Peugeot 205 GTI was a performance icon. Now its modern successor is here, trading a turbocharged engine for batteries.  
+
+<br> 
+
+<https://insideevs.com/news/762701/peugeot-208-gti-ev-reboot/>
+
+---
+
+## U.S. EV Sales Slowed For The First Time In April. Here's Why
+
+date: 2025-06-13, from: Inside EVs News
+
+We also discuss why thousands of American jobs in Republican states are on the line and how the rest of the world is running away with EVs. 
+
+<br> 
+
+<https://insideevs.com/news/762687/us-ev-sales-slowed-in-april/>
+
+---
+
+## Toyota’s new $15K electric SUV is already the best-selling foreign EV in China
+
+date: 2025-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Toyotas-electric-SUV-best-selling-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota’s new electric SUV is already off to a strong start. Starting at about $15,000 in China, <a href="https://electrek.co/guides/toyota/">Toyota’s</a> new bZ3X electric SUV was the best-selling EV among foreign brands in China last month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="420195" href="https://electrek.co/2025/06/13/toyotas-15k-electric-suv-best-selling-foreign-ev-china/#more-420195" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/13/toyotas-15k-electric-suv-best-selling-foreign-ev-china/>
 
 ---
 

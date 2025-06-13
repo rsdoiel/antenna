@@ -1,11 +1,73 @@
 ---
 title: home
-updated: 2025-06-13 06:09:38
+updated: 2025-06-13 14:07:11
 ---
 
 # home
 
-(date: 2025-06-13 06:09:38)
+(date: 2025-06-13 14:07:11)
+
+---
+
+## Blue Spruce Turning Green? 7 Causes and Solutions
+
+date: 2025-06-13, from: The Gardener's Path
+
+<p>The silvery-blue hue of a blue spruce is what makes it stand out in the landscape, but if your tree is turning green, there may be an underlying issue. Learn about seven of the most common reasons for color loss, including pesticide use, poor light exposure, air pollution, and nutrient deficiencies in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/blue-spruce-turn-green/">Blue Spruce Turning Green? 7 Causes and Solutions</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/blue-spruce-turn-green/>
+
+---
+
+## Donald Judd Gets a Historic District in Marfa—and Everything Else You Need to Know About This Week
+
+date: 2025-06-13, from: Dwell
+
+Trump’s deportation plans threaten L.A. rebuilds, U.S. office space shrinks, Frank Lloyd Wright and Airstream roll out a trailer, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/design-news-donald-judd-marfa-los-angeles-protests-a0d4fede>
+
+---
+
+## Before & After: They Saved One of the Last Midcentury Homes in Their Lakefront Neighborhood
+
+date: 2025-06-13, from: Dwell
+
+Husband-and-wife studio Ben Homes revived a 1969 residence in Burlington, Ontario, without knocking down a single wall. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-lake-house-restoration-ben-homes-midcentury-renovation-69f913fc>
+
+---
+
+## After a Complete Overhaul, This $2.3M L.A. Midcentury Is in Mint Condition
+
+date: 2025-06-13, from: Dwell
+
+Perched in the hills of Echo Park, the A. Starr Residence has plentiful patios, a custom mahogany kitchen, a detached guesthouse, and a pastel exterior. 
+
+<br> 
+
+<https://www.dwell.com/article/a-starr-residence-william-m-mann-midcentury-los-angeles-real-estate-ed6c75e5>
+
+---
+
+## How "Cabin Porn" Took Over the Internet
+
+date: 2025-06-13, from: Dwell
+
+A rough-hewn A-frame in a snowscape or a tiny log shack by a lake—why off-grid, simple living has long captured the American imagination, and our online attention. 
+
+<br> 
+
+<https://www.dwell.com/article/cabin-porn-enduring-appeal-tumblr-zach-klein-5d720fbd>
 
 ---
 
@@ -21,6 +83,18 @@ date: 2025-06-13, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/25-types-of-birds-in-kentucky-pictures-and-identification/>
+
+---
+
+## The Only Grilling Recipes You’ll Need for Summer (and Beyond)
+
+date: 2025-06-13, from: Sunset Magazine - Living in the West
+
+Summertime means grilling season. We're sharing our favorite grilling recipes for weeknight dinners, backyard gatherings, and more. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/grilling-recipes>
 
 ---
 
@@ -134,18 +208,6 @@ date: 2025-06-12, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/mazda-airbag-recall/>
-
----
-
-## The Only Grilling Recipes You’ll Need for Summer (and Beyond)
-
-date: 2025-06-12, from: Sunset Magazine - Living in the West
-
-Summertime means grilling season. We're sharing our favorite grilling recipes for weeknight dinners, backyard gatherings, and more. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/grilling-recipes>
 
 ---
 

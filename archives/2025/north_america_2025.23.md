@@ -1,11 +1,125 @@
 ---
 title: north america
-updated: 2025-06-13 06:09:31
+updated: 2025-06-13 14:07:05
 ---
 
 # north america
 
-(date: 2025-06-13 06:09:31)
+(date: 2025-06-13 14:07:05)
+
+---
+
+## Contrarian Pets of the Week
+
+date: 2025-06-13, from: The Contrarian
+
+Meet Orion! And Dipper! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pets-of-the-week-996>
+
+---
+
+## For a man who won two elections, Trump sure is obsessed with losers
+
+date: 2025-06-13, from: The Contrarian
+
+The president and his supporters don&#8217;t seem to realize or care that the Confederacy and a certain German dictator lost. 
+
+<br> 
+
+<https://contrarian.substack.com/p/for-a-man-who-won-two-elections-trump>
+
+---
+
+## Americans have the right to protest! Liza Goitein on the L.A. protests & Newsom's suit against Trump
+
+date: 2025-06-13, from: The Contrarian
+
+"This is about whether people can express dissent and disagreement with their government without being met with heavy force" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165868100/d9c2bfee28aae07999e5ae59108e9b72.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165868100/d9c2bfee28aae07999e5ae59108e9b72.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/americans-have-the-right-to-protest>
+
+---
+
+## Attacks on Immigrants Put Erie’s Revival in Danger
+
+date: 2025-06-13, from: Capital and Main
+
+<p>The once-declining Rust Belt city of Erie, Pennsylvania, has been bouncing back, partly thanks to immigration. The Trump administration’s policies threaten that growth.</p>
+<p>The post <a href="https://capitalandmain.com/attacks-on-immigrants-put-eries-revival-in-danger">Attacks on Immigrants Put Erie’s Revival in Danger</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/attacks-on-immigrants-put-eries-revival-in-danger>
+
+---
+
+## The deal-maker was left out of the deal
+
+date: 2025-06-13, from: The Contrarian
+
+Trump&#8217;s foreign policy fantasies collapse in Iran. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-deal-maker-was-left-out-of-the>
+
+---
+
+## A Showdown Made in Heaven 
+
+date: 2025-06-13, from: The Contrarian
+
+By Marvin Kalb 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-showdown-made-in-heaven>
+
+---
+
+## Court declares no rebellion, no National Guard 
+
+date: 2025-06-13, from: The Contrarian
+
+A federal judge ruled the president could not deploy the National Guard in California, but an appeals court stayed the order for now. 
+
+<br> 
+
+<https://contrarian.substack.com/p/court-declares-no-rebellion-no-national>
+
+---
+
+## Special Coffee with Contrarians on Israel and ICE
+
+date: 2025-06-13, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 06/13 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165865251/1d0a039cc9410b8bdad15eb20d40eddd.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165865251/1d0a039cc9410b8bdad15eb20d40eddd.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/special-coffee-with-contrarians-on>
+
+---
+
+## The 30-Doll Parade
+
+date: 2025-06-13, from: The Contrarian
+
+A cartoon by RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-30-doll-parade>
 
 ---
 
@@ -30,6 +144,18 @@ This delight includes the King of Desserts.
 <br> 
 
 <https://contrarian.substack.com/p/nutella-no-bake-cheesecake>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-06-13, from: The Contrarian
+
+Friday: More ICE protests in Los Angeles, Seattle, and New York, reaction to Sen. Padilla being forcibly removed from a news conference, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 
@@ -206,18 +332,6 @@ A recording from Coffee with The Contrarians LIVE 06/12
 <br> 
 
 <https://contrarian.substack.com/p/coffee-with-contrarians-with-special>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-06-12, from: The Contrarian
-
-Thursday: More coverage of the ICE protests in Los Angeles, Denver, Omaha, Chicago, New York, and more, plus planning for No King's Day. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

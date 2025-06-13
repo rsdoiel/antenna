@@ -1,11 +1,25 @@
 ---
 title: health
-updated: 2025-06-13 06:09:40
+updated: 2025-06-13 14:07:12
 ---
 
 # health
 
-(date: 2025-06-13 06:09:40)
+(date: 2025-06-13 14:07:12)
+
+---
+
+## Potatoes and Kidney Disease: The Potassium Dilemma Explained
+
+date: 2025-06-13, from: The Kidney Dietitian
+
+<p>Can people with chronic kidney disease (CKD) eat potatoes? What about bananas or tomatoes?&#160; These foods are notorious for being high in potassium and patients with kidney disease are often told to stay away [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/potassium/">Potatoes and Kidney Disease: The Potassium Dilemma Explained</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<br> 
+
+<https://www.thekidneydietitian.org/potassium/>
 
 ---
 

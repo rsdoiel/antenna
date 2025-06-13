@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-06-13 06:09:36
+updated: 2025-06-13 14:07:09
 ---
 
 # games
 
-(date: 2025-06-13 06:09:36)
+(date: 2025-06-13 14:07:09)
+
+---
+
+## Snow White, Cleaner, Echo Valley, and every movie new to streaming this weekend
+
+date: 2025-06-13, updated: 2025-06-13, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. Disney’s live-action Snow White was box office poison thanks to bad reviews, controversy about the dwarves, and a scaled-back promotional tour, but it could still find [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/606729/what-to-watch-this-weekend-6-13-2025-snow-white-cleaner-echo-valley>
+
+---
+
+## Where to find Erythrite Crystals in Dune: Awakening
+
+date: 2025-06-13, updated: 2025-06-13, from: Polygon Website
+
+Erythrite Crystals are an essential mid-game item in Dune: Awakening. You’ll need them for crafting cobalt paste, which you use for several projects, the most of important being your first Ornithopter. Erythrite Crystal only shows up in one location, though, and unless you know where to find it, it&#8217;s almost impossible to stumble on it [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dune-awakening-guides/606958/erythrite-cyrstal-location-where-to-find>
+
+---
+
+## Forsaken Fortress walkthrough in Zelda: The Wind Waker
+
+date: 2025-06-13, updated: 2025-06-13, from: Polygon Website
+
+The Forsaken Fortress is the first area (arguably a dungeon on a technicality, but not really) you’ll go to in The Legend of Zelda: The Wind Waker. For many, it’s a terrible memory. You’re forced to use stealth with no actual weapon in hand, making it a painful process if you don’t know what to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/legend-zelda-wind-waker-guides/561970/forsaken-fortress-walkthrough-spotlight-locations>
+
+---
+
+## All skill trainer locations in Dune: Awakening, including basic and advanced
+
+date: 2025-06-13, updated: 2025-06-13, from: Polygon Website
+
+Finding skill trainers in Dune: Awakening is essential for upgrading your combat and survival capabilities, though some are easier to track down than others. You can unlock a handful of new skill trees fairly early in the game without much issue, but others require you to complete more challenging quests and venture further afield. There&#8217;s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dune-awakening-guides/606856/skill-trainer-locations-all-basic-advanced-where-to-find>
+
+---
+
+## Marathon isn’t going to be another Concord, Sony insists
+
+date: 2025-06-13, updated: 2025-06-13, from: Polygon Website
+
+Marathon isn&#8217;t going to be the next Concord, according to Sony Interactive Entertainment&#8217;s Studio Business Group CEO Hermen Hulst. In a recent &#8220;fireside chat&#8221; with investors, Hulst admitted that Concord fell short of Sony&#8217;s expectations, but added that the publisher had learned some valuable lessons in the wake of the hero shooter’s disastrous August 2024 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/606886/marathon-isnt-going-to-be-another-concord-sony-insists>
+
+---
+
+## MindsEye team deploys first hotfix as they scramble to make the dang thing work
+
+date: 2025-06-13, updated: 2025-06-13, from: Polygon Website
+
+The creative team behind IO Interactive’s MindsEye isn’t having a good week. A weird pre-launch period has led to a messy, broken game; the PlayStation store has even issued refunds to some players who decided to bite the bullet and check the game out. Developers at Build a Rocket Boy are “heartbroken that not every [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/606850/mindseye-patch-update-hotfix>
+
+---
+
+## Get ready to trash your living room, A Minecraft Movie streams on Max next week
+
+date: 2025-06-13, updated: 2025-06-13, from: Polygon Website
+
+“Steve’s Lava Chicken” fans, rejoice: A Minecraft Movie will make its global streaming debut on Max starting next week. A Minecraft Movie follows four everyday misfits — newly orphaned siblings Henry (Sebastian Hansen) and Natalie (Emma Myers), down-on-his-luck ’80s arcade champion Garrett “The Garbage Man” Garrison (Jason Momoa), and real-estate hustler Dawn (Danielle Brooks) — [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/606847/a-minecraft-movie-streaming-debut-hbo-max-june>
+
+---
+
+## Sony says it isn’t too worried about the Nintendo Switch 2
+
+date: 2025-06-13, updated: 2025-06-13, from: Polygon Website
+
+Sony is monitoring the Nintendo Switch 2 as a competitive console, but because of the PlayStation 5&#8217;s &#8220;differentiated strategy,&#8221; they&#8217;re not too worried. In a newly published Game &#38; Network Services Segment Fireside Chat video, Hideaki Nishino, Sony Interactive Entertainment president and CEO, addressed concerns that Nintendo&#8217;s positive and developing relationships with third-party developers would [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/playstation/606826/sony-ps5-vs-switch-2-sales>
+
+---
+
+## Seven years later, Nintendo fans beat Switch game even the devs didn’t
+
+date: 2025-06-13, updated: 2025-06-13, from: Polygon Website
+
+For every massive success Nintendo releases, there’s an oddball that confuses everyone. In 2017, that was the two-player party game 1-2 Switch, a collection of accessible mini-games. Think Wii Sports, but without the cutesy Miis, or Mario Party without the brand recognition. Players would be prompted to do anything from milking digital cows, to inflating [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/features/606810/switch-1-2-plate-spin-mini-game-nintendo-dev>
+
+---
+
+## How to get a Worm Tooth in Dune: Awakening
+
+date: 2025-06-13, updated: 2025-06-13, from: Polygon Website
+
+Getting a Worm Tooth in Dune: Awakening pushes you to do one of the most counterintuitive things in the game, and while the process is quick, you&#8217;ll need to be prepared for it so you don&#8217;t lose much progress. It&#8217;s worth the effort if you want a powerful melee weapon, though that also comes with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dune-awakening-guides/606724/worm-tooth-how-to-get-use>
 
 ---
 

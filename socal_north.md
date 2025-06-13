@@ -1,11 +1,162 @@
 ---
 title: socal north
-updated: 2025-06-13 06:09:31
+updated: 2025-06-13 14:07:05
 ---
 
 # socal north
 
-(date: 2025-06-13 06:09:31)
+(date: 2025-06-13 14:07:05)
+
+---
+
+## Sun Valley residents are fed up with recycling facility pollution. Can a California bill help?
+
+date: 2025-06-13, updated: 2025-06-13, from: The LAist
+
+After years of complaints, officials aim to close loopholes to address pollution from aggregate recycling facilities, which process concrete, asphalt and similar material for reuse. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/sun-valley-residents-are-fed-up-with-recycling-facility-pollution-can-a-california-bill-help>
+
+---
+
+## Gov. Newsom lambasts Trump for giving immigrants’ health data to deportation officials
+
+date: 2025-06-13, updated: 2025-06-13, from: The LAist
+
+Many undocumented immigrants have long feared that their Medi-Cal data would be used against them. Newsom calls it “an abuse.” 
+
+<br> 
+
+<https://laist.com/news/gov-newsom-lambasts-trump-for-giving-immigrants-health-data-to-deportation-officials>
+
+---
+
+## “Walk with Me” by Nima Kharrazi at the Valencia Library Branch
+
+date: 2025-06-13, from: City of Santa Clarita
+
+<p>The City of Santa Clarita is pleased to present “Walk with Me,” a solo photography exhibition by artist Nima Kharrazi, on view at the Valencia Library Branch (23743 Valencia Boulevard) now through Wednesday, July 30. “Walk with Me” is a breathtaking exhibition that showcases Nima Kharrazi’s deep appreciation for the natural world. Through vivid landscape [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/13/walk-with-me-by-nima-kharrazi-at-the-valencia-library-branch/">“Walk with Me&#8221; by Nima Kharrazi at the Valencia Library Branch</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/13/walk-with-me-by-nima-kharrazi-at-the-valencia-library-branch/>
+
+---
+
+## California sues Trump for blocking its clean-air rules for cars, trucks — and vows to set new mandates
+
+date: 2025-06-13, updated: 2025-06-13, from: The LAist
+
+Trump signed three measures revoking California's waivers for rules that clean up cars and trucks. California and 9 other states immediately sued. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/california-sues-trump-for-blocking-clean-air-rules-for-cars-trucks-and-vows-new-mandates>
+
+---
+
+## Health Department warns about confirmed measles case in Long Beach
+
+date: 2025-06-13, from: Longbeach Post
+
+<figure><img width="1024" height="506" src="https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-300x148.jpg 300w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-1024x506.jpg 1024w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-768x380.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-192x95.jpg 192w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-400x198.jpg 400w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-470x232.jpg 470w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-970x479.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A child infected with measles may have been contagious while at MemorialCare’s Long Beach Medical Center on Atlantic Avenue last week.</p>
+<p>The post <a href="https://lbpost.com/news/health/measles-case-long-beach-warn-health-department-memorial">Health Department warns about confirmed measles case in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/health/measles-case-long-beach-warn-health-department-memorial>
+
+---
+
+## What items LA prohibits people from carrying at public demonstrations
+
+date: 2025-06-13, updated: 2025-06-13, from: The LAist
+
+The Los Angeles municipal code has specific guidelines for what isn’t allowed when participating in a public assembly. 
+
+<br> 
+
+<https://laist.com/news/politics/heres-what-the-city-of-los-angeles-prohibits-people-from-carrying-at-public-demonstrations>
+
+---
+
+## A second judge halts more of Trump's executive order on voting
+
+date: 2025-06-13, updated: 2025-06-13, from: The LAist
+
+More than a month after a federal judge halted a key portion of President Donald Trump's executive order on voting, another judge has ruled that additional provisions of the order need to pause as well. 
+
+<br> 
+
+<https://laist.com/news/politics/a-second-judge-halts-more-of-trumps-executive-order-on-voting>
+
+---
+
+## A popular climate website will be hobbled after Trump administration eliminates entire staff
+
+date: 2025-06-13, updated: 2025-06-13, from: The LAist
+
+Climate.gov is the main source of timely climate-related information for the public. It will stop publishing new information because the Trump administration laid off everyone who worked on it. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/a-popular-climate-website-will-be-hobbled-after-trump-administration-eliminates-entire-staff>
+
+---
+
+## DHS vows immigration raids will continue as resistance mounts
+
+date: 2025-06-13, updated: 2025-06-13, from: The LAist
+
+Homeland Security Secretary Kristi Noem said the Trump administration will continue to build up its deportation operation in Los Angeles. Nationwide protests are planned for this weekend. 
+
+<br> 
+
+<https://laist.com/news/dhs-vows-immigration-raids-continue-as-resistance-mounts>
+
+---
+
+## City of Santa Clarita to Host River of Lights Illumination Ceremony at Central Park
+
+date: 2025-06-13, from: City of Santa Clarita
+
+<p>An evening of wonder, music and light awaits as the City of Santa Clarita invites residents to the River of Lights Illumination Ceremony on Wednesday, June 25 at 7:30 p.m. at Central Park (27150 Bouquet Canyon Road). This free community event will celebrate the unveiling of a one-of-a-kind public art installation and amenity, designed to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/13/city-of-santa-clarita-to-host-river-of-lights-illumination-ceremony-at-central-park/">City of Santa Clarita to Host River of Lights Illumination Ceremony at Central Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/13/city-of-santa-clarita-to-host-river-of-lights-illumination-ceremony-at-central-park/>
+
+---
+
+## Trump's EPA plans to repeal climate pollution limits on fossil fuel power plants
+
+date: 2025-06-13, updated: 2025-06-13, from: The LAist
+
+The Trump administration plans to get rid of all limits on climate-warming pollution from the nation's fossil fuel power plants. Fossil fuel interests hailed the proposal, which likely faces legal challenges from environmental groups. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/trumps-epa-plans-to-repeal-climate-pollution-limits-on-fossil-fuel-power-plants>
+
+---
+
+## California police are illegally sharing license plate data with ICE and Border Patrol
+
+date: 2025-06-13, updated: 2025-06-13, from: The LAist
+
+LAPD and the counties of San Diego, Orange and Riverside have repeatedly shared automated license plate reader data to federal agencies. 
+
+<br> 
+
+<https://laist.com/news/california-police-license-plate-data-ice-border-patrol-illegal>
 
 ---
 
@@ -21,18 +172,6 @@ LAist reporters witnessed LAPD officers firing less-lethal munitions into crowds
 
 ---
 
-## Five-course tasting menu for $75 or less in LA? Yes, you read that right
-
-date: 2025-06-13, updated: 2025-06-13, from: The LAist
-
-Tasting and prix-fixe menus have traditionally been reserved for expensive fine dining. But now chefs and restaurant owners are offering them to attract customers. 
-
-<br> 
-
-<https://laist.com/news/food/the-picanha-dinner-at-matu-beverly-hills>
-
----
-
 ## For Pride in Altadena, he's dusting off the huge model train set in his backyard
 
 date: 2025-06-13, updated: 2025-06-13, from: The LAist
@@ -42,6 +181,18 @@ Nearly six months after the Eaton Fire, Christmas Tree Lane resident Rob Caves i
 <br> 
 
 <https://laist.com/news/los-angeles-activities/altadena-pride-huge-model-train-set-backyard>
+
+---
+
+## Five-course tasting menu for $75 or less in LA? Yes, you read that right
+
+date: 2025-06-13, updated: 2025-06-13, from: The LAist
+
+Tasting and prix-fixe menus have traditionally been reserved for expensive fine dining. But now chefs and restaurant owners are offering them to attract customers. 
+
+<br> 
+
+<https://laist.com/news/food/the-picanha-dinner-at-matu-beverly-hills>
 
 ---
 
@@ -93,9 +244,9 @@ Already hurting, downtown restaurants are forced to adapt in the current chaotic
 
 ---
 
-## Immigration fears loom over possible grocery worker strike in LA
+## Immigration concerns loom over possible grocery worker strike in LA
 
-date: 2025-06-12, updated: 2025-06-12, from: The LAist
+date: 2025-06-12, updated: 2025-06-13, from: The LAist
 
 SoCal workers authorized a strike but local organizers say the recent ICE sweeps could affect picket lines. 
 
@@ -159,7 +310,7 @@ From Hawthorne to Bel Air, we explore Brian Wilson’s roots in L.A. County.
 
 date: 2025-06-12, from: Longbeach Post
 
-<figure><img width="1024" height="527" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1024x527.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1024x527.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-300x154.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-768x395.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-192x99.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1536x790.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-2048x1054.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1200x618.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1568x807.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-400x206.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="527" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1024x527.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1024x527.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-300x154.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-768x395.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-192x99.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1536x790.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-2048x1054.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1200x618.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1568x807.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-400x206.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Three recent shootings in Belmont Shore frayed some nerves. </p>
 <p>The post <a href="https://lbpost.com/news/crime/belmont-shore-shootings-second-street-safety">With neighbors concerned about recent violence, police put focus on 2nd Street</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -200,7 +351,7 @@ date: 2025-06-12, from: City of Santa Clarita
 
 date: 2025-06-12, from: Longbeach Post
 
-<figure><img width="1024" height="768" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1024x768.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1024x768.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-300x225.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-768x576.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-144x108.webp 144w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1536x1152.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1200x900.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-800x600.webp 800w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-600x450.webp 600w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-400x300.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-200x150.webp 200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1568x1176.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9.webp 1760w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1024x768.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1024x768.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-300x225.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-768x576.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-144x108.webp 144w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1536x1152.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1200x900.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-800x600.webp 800w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-600x450.webp 600w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-400x300.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-200x150.webp 200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9-1568x1176.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12132649/scprbrightspotcdn-827336-dkt6czos-441215-oaJevgG9.webp 1760w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The pastors of Downey Memorial Christian Church say a man they believed to be an ICE agent pointed a gun at one of them and said "this whole country is our property."</p>
 <p>The post <a href="https://lbpost.com/news/downey-church-ice-immigration-raid-officers">Downey church community on edge after masked, armed officers detain man on church property</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -225,7 +376,7 @@ The U.S. House voted Thursday on a rescission bill to claw back money for foreig
 
 ## What are the 'No Kings' protests happening across SoCal this Saturday?
 
-date: 2025-06-12, updated: 2025-06-12, from: The LAist
+date: 2025-06-12, updated: 2025-06-13, from: The LAist
 
 A series of demonstrations across the U.S. will take place on Saturday, including in many parts of the Los Angeles region. Here's what you need to know. 
 
@@ -319,13 +470,13 @@ A hearing is scheduled today in San Francisco for a legal challenge Gov. Gavin N
 
 ---
 
-## Federal judge halts Trump’s National Guard deployment in Los Angeles
+## Appeals court allows Trump to keep National Guard in Los Angeles temporarily
 
 date: 2025-06-12, from: Longbeach Post
 
 <figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX-1536x1025.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX-1568x1046.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12075314/060825-natl-guard-mdc-dtla-ts-cm-04-234012-qwdnwec0-566699-D8ga7GTX.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>It remains unclear how the White House or Department of Defense will respond to the hearing.</p>
-<p>The post <a href="https://lbpost.com/news/can-trump-deploy-troops-in-la-a-federal-judge-hears-newsoms-case-today">Federal judge halts Trump’s National Guard deployment in Los Angeles</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+<p>The decision comes in response to a lower court’s ruling that found he illegally mobilized those troops without consulting Gov. Gavin Newsom.</p>
+<p>The post <a href="https://lbpost.com/news/can-trump-deploy-troops-in-la-a-federal-judge-hears-newsoms-case-today">Appeals court allows Trump to keep National Guard in Los Angeles temporarily</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
 
 <br> 
@@ -358,6 +509,30 @@ Check out Blue Note Jazz Fest, the best brunch spots to bring dad, Gabrielle Zev
 
 ---
 
+## How veterans are reacting to Marine deployment in LA: ‘The impact is so negative’
+
+date: 2025-06-12, updated: 2025-06-13, from: The LAist
+
+“It makes it appear that the United States or America is a battleground,” one veteran Marine said. 
+
+<br> 
+
+<https://laist.com/news/veterans-react-to-marine-deployment-in-la>
+
+---
+
+## Pappy Van Winkle or Jameson? Whatever the tipple, take your Dad to an LA whiskey bar for Father’s Day
+
+date: 2025-06-12, updated: 2025-06-13, from: The LAist
+
+So many choices, so little time. Some bars boast a 700 plus whisky collection, and you won't be limited. 
+
+<br> 
+
+<https://laist.com/news/food/pappy-van-winkle-or-jameson-whatever-the-tipple-take-your-dad-to-an-la-whiskey-bar-for-fathers-day>
+
+---
+
 ## Did a complicated 2024 homeless count lead to errors? Experts and some city officials think so
 
 date: 2025-06-12, updated: 2025-06-12, from: The LAist
@@ -367,18 +542,6 @@ An LAist analysis found tech problems and policy changes during the 2024 count r
 <br> 
 
 <https://laist.com/news/housing-homelessness/los-angeles-homeless-count-2024-accuracy-questions>
-
----
-
-## How veterans are reacting to Marine deployment in LA: ‘The impact is so negative’
-
-date: 2025-06-12, updated: 2025-06-12, from: The LAist
-
-“It makes it appear that the United States or America is a battleground,” one veteran Marine said. 
-
-<br> 
-
-<https://laist.com/news/veterans-react-to-marine-deployment-in-la>
 
 ---
 
@@ -403,18 +566,6 @@ Another day of warm weather with temperatures in the upper 80s to low 90s across
 <br> 
 
 <https://laist.com/news/climate-environment/windy-conditions-for-mountain-passes-in-socal>
-
----
-
-## Pappy Van Winkle or Jameson? Whatever the tipple, take your Dad to an LA whiskey bar for Father’s Day
-
-date: 2025-06-12, updated: 2025-06-12, from: The LAist
-
-So many choices, so little time. Some bars boast a 700 plus whisky collection, and you won't be limited. 
-
-<br> 
-
-<https://laist.com/news/food/pappy-van-winkle-or-jameson-whatever-the-tipple-take-your-dad-to-an-la-whiskey-bar-for-fathers-day>
 
 ---
 
@@ -541,6 +692,18 @@ date: 2025-06-11, from: Longbeach Post
 <br> 
 
 <https://lbpost.com/news/immigration/national-guard-long-beach-protest-federal-building>
+
+---
+
+## A site tracking ICE raids is overwhelmed with users seeking help and sharing updates
+
+date: 2025-06-11, updated: 2025-06-13, from: The LAist
+
+People Over Papers is a site that tracks crowd-sourced ICE sightings. As of Monday, the app had received 7.1 million unique visitors. 
+
+<br> 
+
+<https://laist.com/news/politics/a-site-tracking-ice-raids-is-overwhelmed-with-users-seeking-help-and-sharing-updates>
 
 ---
 

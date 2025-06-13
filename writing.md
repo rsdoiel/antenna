@@ -1,11 +1,54 @@
 ---
 title: writing
-updated: 2025-06-13 06:09:36
+updated: 2025-06-13 14:07:09
 ---
 
 # writing
 
-(date: 2025-06-13 06:09:36)
+(date: 2025-06-13 14:07:09)
+
+---
+
+## The Hero’s Journey of ‘Ballerina’
+
+date: 2025-06-13, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/the-heros-journey-of-ballerina" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Ana%20de%20Armas%20in%20From%20the%20World%20of%20John%20Wick_%20Ballerina%20%282%29.png" alt="Ana de Armas in From the World of John Wick: Ballerina" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>The next hero in the John Wick franchise is Eve (Ana de Armas), a ballerina/assassin who is trained under the Ruska Roma, which is helmed by the Director (Anjelica Huston) who we learned about in <em>John Wick: Chapter 2</em>. Eve is being set up to become a contract assassin and ward protector, a similar role to John Wick. She has spent 12 years in this training and it has become a life she is now accustomed to.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/the-heros-journey-of-ballerina>
+
+---
+
+## Diabolical Plots, GigaNotoSaurus and Small Wonders: Reviews by Charles Payseur
+
+date: 2025-06-13, from: Locus Magazine
+
+<p data-wp-editing="1">Diabolical Plots 3/25
+GigaNotoSaurus 3/25
+Small Wonders 3/25</p>
+<p>Moving into March, Diabolical Plots features <strong>R.J. Becks</strong>’s strange historical sci-fantasy, “<strong>The Witches Who Drowned</strong>”. In it, the narrator is a scientist studying the deep sea, sometimes descending to explore the darkness there. Set during the Cold War, the research is funded because of its possible military applications, made more complicated by the narrator’s queerness and the threat posed  <a href="https://locusmag.com/2025/06/diabolical-plots-giganotosaurus-and-small-wonders-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/diabolical-plots-giganotosaurus-and-small-wonders-reviews-by-charles-payseur/>
+
+---
+
+## Norwescon 47
+
+date: 2025-06-13, from: Locus Magazine
+
+<p></p>
+<p>Norwescon 47 was held April 17–20, 2025 at the DoubleTree by Hilton Hotel Seattle Airport in SeaTac WA; the theme was ‘‘Through the Cosmic Telescope.’’ Guests of honor were Catherynne M. Valente (writer), Wayne Barlowe (artist), Tracy Drain (science), and Isis Asare (special guest of honor). Paizo was the spotlight publisher, represented by Jenny Jarzabski and Mike Kimmel. The weekend included hundreds of hours of programming with dozens of panels  <a href="https://locusmag.com/2025/06/norwescon-47/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/norwescon-47/>
 
 ---
 
