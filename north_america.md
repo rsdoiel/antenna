@@ -1,11 +1,87 @@
 ---
 title: north america
-updated: 2025-06-12 14:07:46
+updated: 2025-06-13 06:09:31
 ---
 
 # north america
 
-(date: 2025-06-12 14:07:46)
+(date: 2025-06-13 06:09:31)
+
+---
+
+## Undaunted: The outspoken veterans
+
+date: 2025-06-13, from: The Contrarian
+
+Unequivocal, courageous veterans who have come out and denounced Trump&#8217;s dangerous maneuver deserve our praise 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-the-outspoken-veterans>
+
+---
+
+## Nutella No-Bake Cheesecake
+
+date: 2025-06-13, from: The Contrarian
+
+This delight includes the King of Desserts. 
+
+<br> 
+
+<https://contrarian.substack.com/p/nutella-no-bake-cheesecake>
+
+---
+
+## Democrats swiftly and fiercely denounce the brutality inflicted upon Senator Padilla
+
+date: 2025-06-12, from: The Contrarian
+
+This is fascism. Fellow Democrats responded with immediate, appropriate rage. Those across the aisle remained silent 
+
+<br> 
+
+<https://contrarian.substack.com/p/democrats-swiftly-and-fiercely-denounce>
+
+---
+
+## Evening Roundup, June 12th
+
+date: 2025-06-12, from: The Contrarian
+
+Featuring Jen Rubin, Rep. Jamie Raskin, Josh Levs, "The Tea" with April Ryan, Rep. Al Green, Kitty Eisele, Jean Kilbourne, Meredith Blake, and Carron J. Phillips 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-12th>
+
+---
+
+## Representative Al Green and April Ryan on the L.A. protests, Trump's birthday parade, & the brutal bill
+
+date: 2025-06-12, from: The Contrarian
+
+"At some point, silence becomes betrayal" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165821579/8f3c49b903fbdbda9ac7b308757a7172.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165821579/8f3c49b903fbdbda9ac7b308757a7172.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/representative-al-green-and-april>
+
+---
+
+## The Tea with April Ryan, ft. Keith Boykin, Cicley Gay, and Reverend William Barber
+
+date: 2025-06-12, from: The Contrarian
+
+Catch April every Thursday at 5pm ET 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165745275/36221c6e11578c77ca2fdaff96d9d4e6.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165745275/36221c6e11578c77ca2fdaff96d9d4e6.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-tea-with-april-ryan-ft-keith>
 
 ---
 

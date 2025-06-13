@@ -1,11 +1,551 @@
 ---
 title: pacific
-updated: 2025-06-12 14:07:47
+updated: 2025-06-13 06:09:32
 ---
 
 # pacific
 
-(date: 2025-06-12 14:07:47)
+(date: 2025-06-13 06:09:32)
+
+---
+
+## Destination Guam: Meeting the demand for personalized service
+
+date: 2025-06-13, from: Pacific Island Times
+
+If you’re from Guam and ever take a trip off island, you may have noticed the intertwining factors energizing the trend toward satisfying choosy travelers. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/destination-guam-meeting-the-demand-for-personalized-service>
+
+---
+
+## Air India Dreamliner crashes into Ahmedabad college hostel, kills over 240
+
+date: 2025-06-13, from: Hawaii Tribune Harold
+
+
+				<p>AHMEDABAD, India &#8212; More than 240 people were killed when an Air India plane bound for London crashed moments after taking off from the city of Ahmedabad on Thursday, authorities said, in the world&#8217;s worst aviation disaster in a decade.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/13/nation-world-news/air-india-dreamliner-crashes-into-ahmedabad-college-hostel-kills-over-240/>
+
+---
+
+## Judge temporarily bars Trump from deploying National Guard troops in Los Angeles
+
+date: 2025-06-13, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; A U.S. judge on Thursday temporarily barred President Donald Trump from deploying National Guard troops in Los Angeles amid protests over stepped-up immigration enforcement, finding that the Guard was unlawfully mobilized by Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/13/nation-world-news/judge-temporarily-bars-trump-from-deploying-national-guard-troops-in-los-angeles/>
+
+---
+
+## 3 deceased Big Island veterans to be honored
+
+date: 2025-06-13, from: Hawaii Tribune Harold
+
+
+				<p>Three deceased U.S. military veterans from the Big Island who served in the Vietnam War will be honored Saturday in a national ceremony in Washington, D.C..</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/13/hawaii-news/3-deceased-big-island-veterans-to-be-honored/>
+
+---
+
+## Hawaii Island Urgent Care centers fined $2.19 million
+
+date: 2025-06-13, from: Hawaii Tribune Harold
+
+
+				<p>The attorney representing the owner of the Hilo and Keaau Urgent Care centers on Thursday afternoon said his client is in the process of appealing a cease-and-desist order and fines of $2.19 million for performing clinical laboratory work without the required permits.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/13/hawaii-news/hawaii-island-urgent-care-centers-fined-2-19-million-2/>
+
+---
+
+## Senator is forcibly removed and handcuffed after confronting Noem
+
+date: 2025-06-13, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES/WASHINGTON &#8212; Democratic U.S. Senator Alex Padilla was shoved, forced to the ground and handcuffed by security after attempting to ask a question at a press conference on Thursday held by Homeland Security Secretary Kristi Noem about immigration raids.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/13/nation-world-news/senator-is-forcibly-removed-and-handcuffed-after-confronting-noem/>
+
+---
+
+## News in brief for June 13
+
+date: 2025-06-13, from: Hawaii Tribune Harold
+
+
+				<p>Head of FEMA command quits as Trump calls for agency phase-out</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/13/nation-world-news/news-in-brief-for-june-13/>
+
+---
+
+## Judge declares mistrial on final Weinstein charge
+
+date: 2025-06-13, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The judge overseeing the sex-crimes trial of Harvey Weinstein declared a mistrial Thursday on a final charge against him, after the jury foreperson said he was unwilling to return to deliberations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/13/nation-world-news/judge-declares-mistrial-on-final-weinstein-charge/>
+
+---
+
+## Oregon wildfire destroys homes and forces evacuations
+
+date: 2025-06-13, from: Hawaii Tribune Harold
+
+
+				<p>A rapidly spreading blaze on the northern edge of Oregon, called the Rowena fire, ignited Wednesday, destroying 20 homes, shutting down a section of a highway and causing authorities to declare evacuation orders. By Thursday morning, the wind-driven fire had grown to 3,500 acres and was zero percent contained.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/13/nation-world-news/oregon-wildfire-destroys-homes-and-forces-evacuations/>
+
+---
+
+## Trump blocks California EV rules in latest move to rein in the state
+
+date: 2025-06-13, from: Hawaii Tribune Harold
+
+
+				<p>SACRAMENTO, Calif. &#8212; President Donald Trump signed joint resolutions of Congress on Thursday that block California&#8217;s effort to phase out gasoline-powered vehicles, his latest attempt to reduce the power of the nation&#8217;s most populous state.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/13/nation-world-news/trump-blocks-california-ev-rules-in-latest-move-to-rein-in-the-state/>
+
+---
+
+## Trump tells farmers ‘changes are coming’ to immigration crackdown
+
+date: 2025-06-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump acknowledged on Thursday that his immigration policies are hurting the farming and hotel industries, making a rare concession that his crackdown is having ripple effects on the American workforce.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/13/nation-world-news/trump-tells-farmers-changes-are-coming-to-immigration-crackdown/>
+
+---
+
+## Anti-migrant rioters in Northern Ireland set homes, and then a refuge site, ablaze
+
+date: 2025-06-13, from: Hawaii Tribune Harold
+
+
+				<p>BALLYMENA, Northern Ireland &#8212; Glass and stones still littered the pavement of Clonavon Terrace on Wednesday afternoon when groups of young people in dark clothing and face masks began roaming the streets of Ballymena, Northern Ireland.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/13/nation-world-news/anti-migrant-rioters-in-northern-ireland-set-homes-and-then-a-refuge-site-ablaze/>
+
+---
+
+## Pacific Mini Games to Unite Region through sports and sister state partnerships
+
+date: 2025-06-13, from: Island Times
+
+<figure><img width="400" height="628" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/minigames.jpg?fit=400%2C628&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/minigames.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/minigames.jpg?resize=191%2C300&amp;ssl=1 191w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/minigames.jpg?fit=400%2C628&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78106" data-permalink="https://islandtimes.org/pacific-mini-games-to-unite-region-through-sports-and-sister-state-partnerships/minigames/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/minigames.jpg?fit=400%2C628&amp;ssl=1" data-orig-size="400,628" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="minigames" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/minigames.jpg?fit=191%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/minigames.jpg?fit=400%2C628&amp;ssl=1" /></figure>
+<p>KOROR, Palau – Palau is preparing to host its largest-ever regional event, the 22nd Pacific Mini Games, with more than 2,000 athletes confirmed to participate—making it the most attended Mini Games in over a decade. Two thousand eighty-five (2,085) athletes are expected to compete, not including officials and spectators. Palau National Olympic Committee Secretary General [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-mini-games-to-unite-region-through-sports-and-sister-state-partnerships/">Pacific Mini Games to Unite Region through sports and sister state partnerships</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pacific-mini-games-to-unite-region-through-sports-and-sister-state-partnerships/>
+
+---
+
+## Palau reappoints PVA board members as Tourism set tosurge
+
+date: 2025-06-13, from: Island Times
+
+<figure><img width="819" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Tourism-Arrival-Statistics.jpg?fit=819%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Tourism-Arrival-Statistics.jpg?w=1440&amp;ssl=1 1440w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Tourism-Arrival-Statistics.jpg?resize=240%2C300&amp;ssl=1 240w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Tourism-Arrival-Statistics.jpg?resize=819%2C1024&amp;ssl=1 819w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Tourism-Arrival-Statistics.jpg?resize=768%2C961&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Tourism-Arrival-Statistics.jpg?resize=1228%2C1536&amp;ssl=1 1228w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Tourism-Arrival-Statistics.jpg?resize=1200%2C1501&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Tourism-Arrival-Statistics.jpg?resize=780%2C976&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Tourism-Arrival-Statistics.jpg?resize=400%2C500&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Tourism-Arrival-Statistics.jpg?resize=706%2C883&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Tourism-Arrival-Statistics.jpg?fit=819%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78102" data-permalink="https://islandtimes.org/palau-reappoints-pva-board-members-as-tourism-set-tosurge/tourism-arrival-statistics/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Tourism-Arrival-Statistics.jpg?fit=1440%2C1801&amp;ssl=1" data-orig-size="1440,1801" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Tourism Arrival Statistics" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Tourism-Arrival-Statistics.jpg?fit=240%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Tourism-Arrival-Statistics.jpg?fit=780%2C975&amp;ssl=1" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang NGERULMUD, Palau — The Senate confirmed four members to the board of directors of the Palau Visitors Authority (PVA) on Tuesday, a move that could influence long-term tourism strategies amid increasing visitor arrivals. The appointees — Leah A. Gillham, Norman Ngiratecheboet, Cindy J. Fitzpatrick, and Ashley Omelau — were confirmed during [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-reappoints-pva-board-members-as-tourism-set-tosurge/">Palau reappoints PVA board members as Tourism set tosurge</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-reappoints-pva-board-members-as-tourism-set-tosurge/>
+
+---
+
+## Palau’s Sanya Olkeriil becomes first female officer accepted to FBI Academy
+
+date: 2025-06-13, from: Island Times
+
+<figure><img width="1024" height="593" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009861.jpg?fit=1024%2C593&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009861.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009861.jpg?resize=300%2C174&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009861.jpg?resize=1024%2C593&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009861.jpg?resize=768%2C445&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009861.jpg?resize=1200%2C695&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009861.jpg?resize=780%2C452&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009861.jpg?resize=400%2C232&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009861.jpg?resize=706%2C409&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009861.jpg?fit=1024%2C593&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78098" data-permalink="https://islandtimes.org/palaus-sanya-olkeriil-becomes-first-female-officer-accepted-to-fbi-academy/attachment/1000009861/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009861.jpg?fit=1249%2C723&amp;ssl=1" data-orig-size="1249,723" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1749642659&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.005567099&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1000009861" data-image-description="" data-image-caption="&lt;p&gt;COS Landi Kotaro, Lt. Lebuu Gibbons, Chief Flavian Ngiramengior, Vice President Arnold Oilouch,&lt;br /&gt;
+Chief Sanya Olkeriil, Dr. Patrick Tellei, Minister Jennifer Olegeriil and MHHS Admin. Antonette Merur.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009861.jpg?fit=300%2C174&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1000009861.jpg?fit=780%2C452&amp;ssl=1" /></figure>
+<p>KOROR, Palau — Chief Sanya Olkeriil of Palau’s Division of Juvenile Justice has been accepted to the prestigious 11-week training program at the FBI Academy in Quantico, Virginia, making her the first female officer from Palau to attend.&#160; Justice Minister Jennifer Olegeriil announced the milestone, noting that the training will run from June 24 to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-sanya-olkeriil-becomes-first-female-officer-accepted-to-fbi-academy/">Palau’s Sanya Olkeriil becomes first female officer accepted to FBI Academy </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palaus-sanya-olkeriil-becomes-first-female-officer-accepted-to-fbi-academy/>
+
+---
+
+## Meth trafficking charges filed as Palau struggles with drug caseload and long-term detentions
+
+date: 2025-06-13, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau (June 13, 2025) — A Palauan man was formally charged last month with trafficking and possession of methamphetamine, becoming the latest in a growing list of individuals held in custody while awaiting trial due to inability to post bail. Billy Williams Jr., also known as Billy Kumangai, was charged [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/meth-trafficking-charges-filed-as-palau-struggles-with-drug-caseload-and-long-term-detentions/">Meth trafficking charges filed as Palau struggles with drug caseload and long-term detentions</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/meth-trafficking-charges-filed-as-palau-struggles-with-drug-caseload-and-long-term-detentions/>
+
+---
+
+## Whipps urges Global Action on Ocean Treaty, deep-sea protection at UN Conference
+
+date: 2025-06-13, from: Island Times
+
+<figure><img width="1024" height="608" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Pacific-leaders-at-UNOC3.jpg?fit=1024%2C608&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Pacific-leaders-at-UNOC3.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Pacific-leaders-at-UNOC3.jpg?resize=300%2C178&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Pacific-leaders-at-UNOC3.jpg?resize=1024%2C608&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Pacific-leaders-at-UNOC3.jpg?resize=768%2C456&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Pacific-leaders-at-UNOC3.jpg?resize=1200%2C712&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Pacific-leaders-at-UNOC3.jpg?resize=780%2C463&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Pacific-leaders-at-UNOC3.jpg?resize=400%2C237&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Pacific-leaders-at-UNOC3.jpg?resize=706%2C419&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Pacific-leaders-at-UNOC3.jpg?fit=1024%2C608&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78091" data-permalink="https://islandtimes.org/whipps-urges-global-action-on-ocean-treaty-deep-sea-protection-at-un-conference/pacific-leaders-at-unoc3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Pacific-leaders-at-UNOC3.jpg?fit=1249%2C741&amp;ssl=1" data-orig-size="1249,741" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Pacific leaders at UNOC3" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Pacific-leaders-at-UNOC3.jpg?fit=300%2C178&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Pacific-leaders-at-UNOC3.jpg?fit=780%2C463&amp;ssl=1" /></figure>
+<p>Nice, France — June 13, 2025 &#8211; Palau President Surangel S. Whipps Jr. delivered urgent calls for global unity and bold leadership to protect the world’s oceans at two high-level events during the third United Nations Ocean Conference (UNOC3) in Nice, France this week. Speaking at the Pacific High-Level Reception on Regional Ambition on Biodiversity [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-urges-global-action-on-ocean-treaty-deep-sea-protection-at-un-conference/">Whipps urges Global Action on Ocean Treaty, deep-sea protection at UN Conference</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/whipps-urges-global-action-on-ocean-treaty-deep-sea-protection-at-un-conference/>
+
+---
+
+## Taiwan Rotary donates medical equipment, training to support Palau Healthcare
+
+date: 2025-06-13, from: Island Times
+
+<figure><img width="1024" height="308" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/S__46604419.jpg?fit=1024%2C308&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/S__46604419.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/S__46604419.jpg?resize=300%2C90&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/S__46604419.jpg?resize=1024%2C308&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/S__46604419.jpg?resize=768%2C231&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/S__46604419.jpg?resize=1200%2C361&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/S__46604419.jpg?resize=780%2C235&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/S__46604419.jpg?resize=400%2C120&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/S__46604419.jpg?resize=706%2C213&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/S__46604419.jpg?fit=1024%2C308&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78087" data-permalink="https://islandtimes.org/taiwan-rotary-donates-medical-equipment-training-to-support-palau-healthcare/s__46604419/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/S__46604419.jpg?fit=1249%2C376&amp;ssl=1" data-orig-size="1249,376" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="S__46604419" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/S__46604419.jpg?fit=300%2C90&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/S__46604419.jpg?fit=780%2C235&amp;ssl=1" /></figure>
+<p>KOROR, Palau — Taiwan’s Rotary International District 3461 has donated more than $138,000 worth of medical equipment to Belau National Hospital, along with physician training, in a major show of support for Palau’s healthcare system. The donation was part of a Global Grant project titled “Palau Medical Capacity Building Vocational Training Team (VTT),” aimed at [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwan-rotary-donates-medical-equipment-training-to-support-palau-healthcare/">Taiwan Rotary donates medical equipment, training to support Palau Healthcare</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/taiwan-rotary-donates-medical-equipment-training-to-support-palau-healthcare/>
+
+---
+
+## Emotionally Immature (Reng l ngalk)
+
+date: 2025-06-13, from: Island Times
+
+<figure><img width="301" height="284" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?w=301&amp;ssl=1 301w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="60533" data-permalink="https://islandtimes.org/risk-of-growing-up/womens-corner-1-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" data-orig-size="301,284" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" /></figure>
+<p>Emotionally immature people don&#8217;t step back and think about how their behavior impacts others. There&#8217;s no cringe factor for them, so they seldom apologize or experience regret. The above statement highlights the key characteristics of emotional immaturity, which include a lack of empathy, self-awareness, and accountability. These individuals struggle to consider the effects of their [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/emotionally-immature-reng-l-ngalk/">Emotionally Immature (Reng l ngalk)</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/emotionally-immature-reng-l-ngalk/>
+
+---
+
+## The Founding and Growth of Pacific Mission Aviation (PMA)
+
+date: 2025-06-13, from: Island Times
+
+<p>This year PMA celebrates 50 years of service in Micronesia with Headquarters in Guam and mission stations in Pohnpei, Yap, Palau and the Philippines.  “Not to us, O Lord, not to us, but to your name goes all the glory for your unfailing love and faithfulness.”&#160; Ps. 115:1 In January 1956, Rev. Edmund Kalau and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-founding-and-growth-of-pacific-mission-aviation-pma/">The Founding and Growth of Pacific Mission Aviation (PMA)</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/the-founding-and-growth-of-pacific-mission-aviation-pma/>
+
+---
+
+## PICRC welcomes  Rebluud as new communications and Outreach Oﬃcer
+
+date: 2025-06-13, from: Island Times
+
+<figure><img width="600" height="592" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Nolan_Photo.jpg?fit=600%2C592&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Nolan_Photo.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Nolan_Photo.jpg?resize=300%2C296&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Nolan_Photo.jpg?resize=400%2C395&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Nolan_Photo.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Nolan_Photo.jpg?fit=600%2C592&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78074" data-permalink="https://islandtimes.org/picrc-welcomes-rebluud-as-new-communications-and-outreach-o%ef%ac%83cer/nolan_photo/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Nolan_Photo.jpg?fit=600%2C592&amp;ssl=1" data-orig-size="600,592" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Nolan_Photo" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Nolan_Photo.jpg?fit=300%2C296&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Nolan_Photo.jpg?fit=600%2C592&amp;ssl=1" /></figure>
+<p>The Palau International Coral Reef Center (PICRC) is pleased to welcome Nolan Rebluud as its new Communications and Outreach Oﬃcer. Nolan most recently served as Project Assistant for the PICRC-JICA Coastal Project, which concluded in February 2025. His seamless transition into this new role reﬂects his strong commitment and deep familiarity with PICRC’s mission and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-welcomes-rebluud-as-new-communications-and-outreach-o%ef%ac%83cer/">PICRC welcomes  Rebluud as new communications and Outreach Oﬃcer</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/picrc-welcomes-rebluud-as-new-communications-and-outreach-o%ef%ac%83cer/>
+
+---
+
+## The search for heat-resilient corals moves forward in the Marshall Islands
+
+date: 2025-06-13, from: Island Times
+
+<figure><img width="1024" height="690" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Field-work-in-RMI.jpg?fit=1024%2C690&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Field-work-in-RMI.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Field-work-in-RMI.jpg?resize=300%2C202&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Field-work-in-RMI.jpg?resize=1024%2C690&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Field-work-in-RMI.jpg?resize=768%2C518&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Field-work-in-RMI.jpg?resize=1200%2C809&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Field-work-in-RMI.jpg?resize=780%2C526&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Field-work-in-RMI.jpg?resize=400%2C270&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Field-work-in-RMI.jpg?resize=706%2C476&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Field-work-in-RMI.jpg?fit=1024%2C690&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78070" data-permalink="https://islandtimes.org/the-search-for-heat-resilient-corals-moves-forward-in-the-marshall-islands/field-work-in-rmi/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Field-work-in-RMI.jpg?fit=1249%2C842&amp;ssl=1" data-orig-size="1249,842" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 7&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1744221586&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.99&quot;,&quot;iso&quot;:&quot;20&quot;,&quot;shutter_speed&quot;:&quot;0.0011273957158963&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Field work in RMI" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Field-work-in-RMI.jpg?fit=300%2C202&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Field-work-in-RMI.jpg?fit=780%2C526&amp;ssl=1" /></figure>
+<p>In April, partners in the Scaling up identification, protection, and local management of coral reefs resistant to future climate stress&#160;project gathered in Majuro, Republic of the Marshall Islands (RMI), to continue ongoing efforts to identify heat resilient corals in Micronesia, to benefit future coral restoration efforts. The project, led by The Nature Conservancy in partnership [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-search-for-heat-resilient-corals-moves-forward-in-the-marshall-islands/">The search for heat-resilient corals moves forward in the Marshall Islands</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/the-search-for-heat-resilient-corals-moves-forward-in-the-marshall-islands/>
+
+---
+
+## Transnational crime expert on emerging Pacific meth trends
+
+date: 2025-06-13, from: Island Times
+
+<p>By Barbara Dreaver, Pacific Correspondent AUCKLAND (TVNZ ONE NEWS)&#8212;A transnational crime expert is warning of alarming methamphetamine trends emerging across the Pacific. Associate Professor Jose Sousa-Santos from Canterbury University&#8217;s Pacific Regional Security Hub said a recent 4.8kg meth bust in Fiji showed how non-traditional criminal syndicates were now able to operate in the region. Several [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/transnational-crime-expert-on-emerging-pacific-meth-trends/">Transnational crime expert on emerging Pacific meth trends</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/transnational-crime-expert-on-emerging-pacific-meth-trends/>
+
+---
+
+## Japan says China is ‘expanding’ military presence in Pacific after aircraft carriers spotted in economic zone
+
+date: 2025-06-13, from: Island Times
+
+<p>In short: (ABC-Australia) Two Chinese navy ships have been spotted operating in the Pacific for the first time. Beijing says the exercise is &#8220;routine training&#8221;. What&#8217;s next? Japan says it is closely monitoring the activity. Japanese authorities say they have spotted two Chinese aircraft carriers operating in the Pacific for the first time, with Tokyo [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japan-says-china-is-expanding-military-presence-in-pacific-after-aircraft-carriers-spotted-in-economic-zone/">Japan says China is &#8216;expanding&#8217; military presence in Pacific after aircraft carriers spotted in economic zone</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/japan-says-china-is-expanding-military-presence-in-pacific-after-aircraft-carriers-spotted-in-economic-zone/>
+
+---
+
+## Trump administration to cut all USAID overseas roles in dramatic restructuring
+
+date: 2025-06-13, from: Island Times
+
+<p>WASHINGTON (THE GUARDIAN) &#8212; The Trump administration will eliminate all USAID (United States Agency for International Development) overseas positions worldwide by 30 September in a dramatic restructuring of remaining U.S foreign aid operations. In a Tuesday state department cable obtained by the Guardian, secretary of state Marco Rubio ordered the abolishment of the agency’s entire [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/trump-administration-to-cut-all-usaid-overseas-roles-in-dramatic-restructuring/">Trump administration to cut all USAID overseas roles in dramatic restructuring</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/trump-administration-to-cut-all-usaid-overseas-roles-in-dramatic-restructuring/>
+
+---
+
+## Pacific fishery council asks Trump to free up Hawaii’s newest marine sanctuary
+
+date: 2025-06-13, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Western Pacific Regional Fishery Management Council will ask President Donald Trump to lift... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/pacific-fishery-council-asks-trump-to-free-up-hawaii-s-newest-marine-sanctuary>
+
+---
+
+## Call for Pope Leo to issue abuse zero tolerance policy
+
+date: 2025-06-13, from: 
+
+A Fijian abuse survivor is urging the new head of the Catholic church to adopt a zero tolerance policy for child sex abuse. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/563858/call-for-pope-leo-to-issue-abuse-zero-tolerance-policy>
+
+---
+
+## New Zealand's warning about drugs in the Pacific
+
+date: 2025-06-13, from: 
+
+The report said that the Pacific serves as both a cautionary tale and a direct source of risk for New Zealand. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564071/new-zealand-s-warning-about-drugs-in-the-pacific>
+
+---
+
+## Yokai take over Guam Museum in hauntingly beautiful exhibit 
+
+date: 2025-06-13, from: Pacific Island Times
+
+Yokai (妖怪) are supernatural beings in Japanese folklore that have long fascinated and puzzled generations. They range from animal-like creatures to completely invented monsters and are often used to explain the unexplainable. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/yokai-take-over-guam-museum-in-hauntingly-beautiful-exhibit>
+
+---
+
+## Lifeblood for Pacific Islands threatened as warming ocean drives tuna east
+
+date: 2025-06-13, from: 
+
+Nearly 10% of the Solomon Islands' government revenue is tied to tuna. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564065/lifeblood-for-pacific-islands-threatened-as-warming-ocean-drives-tuna-east>
+
+---
+
+## Investigation ordered after boat capsize in Suva Harbour
+
+date: 2025-06-13, from: 
+
+Fiji's Minister for Public Works, Meteorological Services and Transport has visited the wreck of the <i>Lomaiviti Princess II</i> and other derelict vessels within Suva Harbour. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564055/investigation-ordered-after-boat-capsize-in-suva-harbour>
+
+---
+
+## CNMI Humanities Council plans to overhaul programs in compliance with Trump's anti-DEI directive
+
+date: 2025-06-13, from: Pacific Island Times
+
+"It’s so dramatically different from what I think we've been working on as a community. Here in the CNMI, we appreciate diversity and we are more inclusive to those who call the Marianas home,” he added. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/cnmi-humanities-council-eyes-program-overhaul-amid-death-of-dei>
+
+---
+
+## 'Melanesian relationship agreement' endorsed at Bougainville independence talks
+
+date: 2025-06-13, from: 
+
+The talks concluded with the endorsement of a proposed 'Melanesian relationship agreement' that will be taken to the leaders of PNG and ABG during the last week of June. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564046/melanesian-relationship-agreement-endorsed-at-bougainville-independence-talks>
+
+---
+
+## Cook Islands announces protection zone for migrating Oceania humpback whales
+
+date: 2025-06-12, from: 
+
+The Cook Islands prime minister has announced a zone to protect the migratory corridors of the endangered Oceania humpback whale. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564039/cook-islands-announces-protection-zone-for-migrating-oceania-humpback-whales>
+
+---
+
+## Ex Hurricanes, All Blacks Sevens star Salesi Rayasi in Fiji test squad
+
+date: 2025-06-12, from: 
+
+Former All Blacks Sevens and Hurricanes winger Salesi Rayasi has been included in the Fiji test squad after changing allegiance. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/sport/564003/ex-hurricanes-all-blacks-sevens-star-salesi-rayasi-in-fiji-test-squad>
+
+---
+
+## Palau's president says new index should be used to classify economic position
+
+date: 2025-06-12, from: 
+
+"We face profound socioeconomic vulnerability and we cannot let GDP alone determine our eligibility for support." 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564038/palau-s-president-says-new-index-should-be-used-to-classify-economic-position>
+
+---
+
+## Bougainville legal dept looking towards sorcery violence policy
+
+date: 2025-06-12, from: 
+
+The Department of Justice and Legal Services in Bougainville is aiming to craft a government policy to deal with violence related to sorcery accusations. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564037/bougainville-legal-dept-looking-towards-sorcery-violence-policy>
+
+---
+
+## The hidden US-China battle beneath the  Pacific Ocean 
+
+date: 2025-06-12, from: Pacific Island Times
+
+While the debate around deep-sea mining largely focuses on the still-unknown environmental impact of mineral extraction on ocean ecosystems, the Development Alternatives with Women for a New Era (DAWN) and the Pacific Network on Globalization (PANG) released a policy brief shifting the spotlight to the military aspect of the race to the ocean floor. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-hidden-us-china-battle-beneath-the-pacific-ocean>
+
+---
+
+## Super Rugby semifinals: History favours Chiefs and Crusaders
+
+date: 2025-06-12, from: 
+
+It is semifinal time in Super Rugby with three New Zealand sides and an Australian team seeking to cement their place in the final. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/sport/564010/super-rugby-semifinals-history-favours-chiefs-and-crusaders>
+
+---
+
+## Kabua up for a gamble
+
+date: 2025-06-12, from: Marshal Islands Journal
+
+<p>Journal 6/22/1982 P1 Sen. Henchi Balos charges RepMar shot Bikinians in the backBikini’s Senator Henchi Balos charged June 9 that the Marshall Islands government did not look after the best interests of the Bikini people in the final rounds of the Compact talks. He also said he was told by President Amata Kabua not to [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/kabua-up-for-a-gamble/">Kabua up for a gamble</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/kabua-up-for-a-gamble/>
 
 ---
 
@@ -286,6 +826,20 @@ date: 2025-06-12, from: Hawaii Tribune Harold
 
 ---
 
+## Hawaii Island Urgent Care centers fined $2.19 million
+
+date: 2025-06-12, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health has issued an order to cease and desist clinical laboratory operations against Hilo Urgent Care Center LLC and its Keaau Urgent Care Center.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/12/hawaii-news/hawaii-island-urgent-care-centers-fined-2-19-million/>
+
+---
+
 ## BA a first on Wotje
 
 date: 2025-06-12, from: Marshal Islands Journal
@@ -469,18 +1023,6 @@ Reports in Papua New Guinea say the governments of Bougainville and PNG have agr
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/563879/progress-reported-out-of-bougainville-independence-talks-near-christchurch>
-
----
-
-## Call for Pope Leo to issue abuse zero tolerance policy
-
-date: 2025-06-11, from: 
-
-A Fijian abuse survivor is urging the new head of the Catholic church to adopt a zero tolerance policy for child sex abuse. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/563858/call-for-pope-leo-to-issue-abuse-zero-tolerance-policy>
 
 ---
 
@@ -1412,7 +1954,7 @@ date: 2025-06-10, from: Hawaii Tribune Harold
 
 date: 2025-06-10, from: Island Times
 
-<figure><img width="1024" height="494" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?fit=1024%2C494&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=300%2C145&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=1024%2C494&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=768%2C370&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=1200%2C578&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=780%2C376&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=400%2C193&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=706%2C340&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?fit=1024%2C494&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78042" data-permalink="https://islandtimes.org/whipps-challenges-high-income-classification-calls-for-global-support-in-climate-crisis/celebrate-world-oceans-day/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?fit=1249%2C602&amp;ssl=1" data-orig-size="1249,602" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.2&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1749204607&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;2.2&quot;,&quot;iso&quot;:&quot;640&quot;,&quot;shutter_speed&quot;:&quot;0.0166674&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Celebrate World Oceans Day" data-image-description="" data-image-caption="&lt;p&gt;Palau WSO, SOPpAC, and Palau stakeholders of ocean resources celebrate World Oceans Day &#8211; June 6, two days&lt;br /&gt;
+<figure><img width="1024" height="494" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?fit=1024%2C494&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=300%2C145&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=1024%2C494&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=768%2C370&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=1200%2C578&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=780%2C376&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=400%2C193&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?resize=706%2C340&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?fit=1024%2C494&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78042" data-permalink="https://islandtimes.org/whipps-challenges-high-income-classification-calls-for-global-support-in-climate-crisis/celebrate-world-oceans-day/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?fit=1249%2C602&amp;ssl=1" data-orig-size="1249,602" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.2&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1749204607&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;2.2&quot;,&quot;iso&quot;:&quot;640&quot;,&quot;shutter_speed&quot;:&quot;0.0166674&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Celebrate World Oceans Day" data-image-description="" data-image-caption="&lt;p&gt;Palau WSO, SOPpAC, and Palau stakeholders of ocean resources celebrate World Oceans Day &#8211; June 6, two days&lt;br /&gt;
 earlier due WOD falling on Sunday June 8, 2025) UN Oceans Conference opened in Nice, France where Palau&lt;br /&gt;
 President Whipps is also in attendance..&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?fit=300%2C145&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Celebrate-World-Oceans-Day.jpg?fit=780%2C376&amp;ssl=1" /></figure>

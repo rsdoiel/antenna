@@ -1,11 +1,59 @@
 ---
 title: retro computing
-updated: 2025-06-12 14:07:55
+updated: 2025-06-13 06:09:40
 ---
 
 # retro computing
 
-(date: 2025-06-12 14:07:55)
+(date: 2025-06-13 06:09:40)
+
+---
+
+## Rougol June 2025 meeting on monday with Hugo Tyson
+
+date: 2025-06-13, from: Icon Bar, RISC OS News
+
+The June 2025 Rougol meeting is on Monday 16th June. This months speaker is Hugo Tyson and his talk is called "Everything I did at Acorn". 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2207.html>
+
+---
+
+## Comics from 1977/07 Issue of ROM
+
+date: 2025-06-13, from: Computer ads from the Past
+
+Only two, so read them slowly 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/comics-from-197707-issue-of-rom>
+
+---
+
+## Fontana - font tool for developers
+
+date: 2025-06-12, from: FreeDOS News
+
+<div class="markdown_content"><p>Fontana is a bitmap font editor (with ability to import from some vector formats) which allows you to create, convert and edit fonts stored in many file formats. Laaca adds: "Fontana offers a refined and user-friendly interface. Up to four font files can be opened at the same time, with the ability to transfer characters between them easily. An advanced feature is real-time testing of the font directly in the editing window" and "A unique strength of Fontana is its group operations feature. This allows batch transformations to be applied to multiple characters at once." Download the new Fontana tool (with source code) from <a class="" href="https://www.laaca.borec.cz/blocek/#fontana" rel="nofollow">Laaca's website</a></p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/06/fontana---font-tool-for-developers/>
+
+---
+
+## VSBHDA 1.6
+
+date: 2025-06-12, from: FreeDOS News
+
+<div class="markdown_content"><p>VSBHDA is a <strong>V</strong>irtual <strong>S</strong>ound <strong>B</strong>laster for <strong>HDA</strong> audio cards, such as AC97/SBLive. It is also a fork from SBEMU, the original <strong>S</strong>ound <strong>B</strong>laster <strong>Emu</strong>lator. Japheth has released a new update to VSBHDA: "More or less just fixes, but as a result the program now supports Win3.1 in Standard Mode. However, since the DOSX.EXE supplied with Win3.1 - which is the DOS Extender in Standard Mode - is a PL0 program that won't allow another PL0 program to be active, it must be replaced by the DOSX.EXE of HX." You can download the new version from the <a class="" href="https://github.com/Baron-von-Riedesel/VSBHDA/releases/tag/v1.6" rel="nofollow">Version 1.6 release</a> on GitHub. The source code is at <a class="" href="https://github.com/Baron-von-Riedesel/VSBHDA" rel="nofollow">VSBHDA on GitHub</a></p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/06/vsbhda-16/>
 
 ---
 

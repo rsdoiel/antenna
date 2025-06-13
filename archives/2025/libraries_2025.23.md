@@ -1,11 +1,49 @@
 ---
 title: libraries
-updated: 2025-06-12 14:07:53
+updated: 2025-06-13 06:09:38
 ---
 
 # libraries
 
-(date: 2025-06-12 14:07:53)
+(date: 2025-06-13 06:09:38)
+
+---
+
+## Screams in the Vault: Public Domain Horror in the Age of IP
+
+date: 2025-06-13, from: Internet Archive Blog
+
+As many iconic works have entered into the public domain since 2019, there has been a surge of horror film adaptations. These horror adaptations have received strong critiques for their [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/06/13/screams-in-the-vault/>
+
+---
+
+## The Devil is in the Details, Specifically, Titivillus, the “Medieval Demon of Typos”
+
+date: 2025-06-13, from: Scholarly Kitchen
+
+<p>Have you been visited by Titivillus, the demon of typographical errors? </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/06/13/the-devil-is-in-the-details-specifically-titivillus-the-medieval-demon-of-typos/">The Devil is in the Details, Specifically, Titivillus, the &#8220;Medieval Demon of Typos&#8221;</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/06/13/the-devil-is-in-the-details-specifically-titivillus-the-medieval-demon-of-typos/>
+
+---
+
+## Quasi-Continuous Very Long Baseline Interferometry for VGOS
+
+date: 2025-06-13, from: ETH Zurich, recently added
+
+Halbheer, Michelle 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/740370>
 
 ---
 

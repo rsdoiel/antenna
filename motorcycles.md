@@ -1,11 +1,97 @@
 ---
 title: motorcycles
-updated: 2025-06-12 14:07:54
+updated: 2025-06-13 06:09:39
 ---
 
 # motorcycles
 
-(date: 2025-06-12 14:07:54)
+(date: 2025-06-13 06:09:39)
+
+---
+
+## MV Agusta Is Doing Fine After KTM Breakup, Has a New Motorcycle On the Way
+
+date: 2025-06-13, from: Ride Apart, Electric Motorcycle News
+
+They didn't need Mattighofen at all, you guys.  
+
+<br> 
+
+<https://www.rideapart.com/news/762455/mv-agusta-ktm-split-update/>
+
+---
+
+## Norton’s Making Small-Displacement Motorcycles Thanks To This Indian Manufacturer
+
+date: 2025-06-13, from: Ride Apart, Electric Motorcycle News
+
+India's pulled off an Uno reverse for colonization. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/762321/norton-small-displacement-motorcycles-tvs-motor-company/>
+
+---
+
+## Could Kawasaki's New Small Adventure Motorcycle Be Perfect?
+
+date: 2025-06-13, from: Ride Apart, Electric Motorcycle News
+
+Team Green FTW.  
+
+<br> 
+
+<https://www.rideapart.com/news/762441/2026-kawasaki-klx230-sherpa-s-abs-specs-price-horsepower/>
+
+---
+
+## Senate Mandates 3-Million Acre Public Lands Sale In Budget, Here's How to Fight It
+
+date: 2025-06-13, from: Ride Apart, Electric Motorcycle News
+
+And it's led by my Senator, Mike Lee.  
+
+<br> 
+
+<https://www.rideapart.com/news/762541/senate-reconciliation-budget-bill-public-lands-sell-off/>
+
+---
+
+## This Failing EV Motorcycle Company Wants to Pivot to AI, and Probably Sell Your Data
+
+date: 2025-06-13, from: Ride Apart, Electric Motorcycle News
+
+For what it's worth, calling Damon a motorcycle company is disingenuous, as it still hasn't built a single motorcycle.  
+
+<br> 
+
+<https://www.rideapart.com/news/762424/damon-motorcycles-ai-io-pivot-connected-services/>
+
+---
+
+## India’s Motorcycle Industry Is On Fire, Shaping Up To Be the Next Japan
+
+date: 2025-06-13, from: Ride Apart, Electric Motorcycle News
+
+Classic Legends hopes to expand the BSA and Jawa brands to 7 markets including the US before the end of 2025. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/762323/india-motorcycle-industry-classic-legends-expanding-usa/>
+
+---
+
+## NASCAR Canceling Friday Xfinity Series Practice, Shifts Cup Series Times At Autodromo Hermanos Rodriguez
+
+date: 2025-06-13, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor MEXICO CITY – After one charter plane was delayed getting to Charlotte, N.C. and another charter plane had engine issues that sent crews from multiple teams&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-canceling-friday-xfinity-series-practice-shifts-cup-series-timesat-autodromo-hermanos-rodriguez/>
 
 ---
 

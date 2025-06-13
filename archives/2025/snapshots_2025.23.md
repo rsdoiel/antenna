@@ -1,11 +1,200 @@
 ---
 title: snapshots
-updated: 2025-06-12 14:07:58
+updated: 2025-06-13 06:09:43
 ---
 
 # snapshots
 
-(date: 2025-06-12 14:07:58)
+(date: 2025-06-13 06:09:43)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-13, from: Dave Winer's linkblog)
+
+Demo of Google&#39;s new AI mode. A search for &quot;shut the fuck up.&quot; 😀 
+
+<br> 
+
+<https://www.google.com/search?q=shut+the+fuck+up&sa=X&sca_esv=57b167c83bb1e9fa&rlz=1C5CHFA_enUS743US747&sxsrf=AE3TifMwM1Q1uVZDfI0xE81rOtD_ReTp6Q:1749819778159&udm=50&fbs=AIIjpHxCtmkhHKu27CW9pNYJlh4RjL2XNN7H2eGEwe1vRehTgx2PNlKqSsUGSlpdjHDY7h7y2F0LLIW65VoGKqCFCziAlLhLEYpzrVy8hfZbYMN9Fu8UaH2Je-NcMVwTl0M5XBCtJssKAbBanzHJQmA-0zyGMsPvYZa6vpE8YbR9zIqhNL4MqQwFOD3INrCRafKFdzehe5th3CExjMf165bcK9eQ-doI_nN3hWuqVd511Myv9yXWhqw&aep=1&ntc=1&ved=2ahUKEwj4j7HSuu6NAxUzvokEHU5bF48Q2J8OegQIDBAC&biw=1623&bih=1034&dpr=2&mstk=AUtExfDQ20ajCb1Wf79anvCXvoQYOuHqD2VnrZ3Bv1gywG_nIlderqauICkrIP3bKPSTOKDkxhuqWYD6uTfvMvh8v-x3IFsZGGPMMHbIK5X1-Bb2S5G8j0o6b4qUrt00vB-Hs3BJLZOMmzkgr8d5pC4l8qV875dJXUgVjehB9sWysZtryyDIg8G2Pa8Q28zRXHPmNAmJgPaVB5bIg5WrQoCGSZcZt75U6X_84il32Ne-c4v0Hw85eGETRSSkcDtWW8Rl7CNr_F00vR6i6cdwn4OKuq7pUfsToBznKBntIlUABrFrs6HL-SgE-hYrWRR3Wm5rMrlUV3jglJZ6GphYLzLe4QM9MMGMvD-v-g&csuir=1>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-13, from: Dave Winer's linkblog)
+
+Gov. Newsom styles himself as anti-Trump influencer over L.A. protests. 
+
+<br> 
+
+<https://wapo.st/43Y1hgT>
+
+---
+
+## Attending to Scales of Intensity: A Viral/Chronological Method for Researching the Circulation of Activist Rhetoric
+
+date: 2025-06-13, from: Digital Humanities Quarterly News
+
+Often when researching the circulation of activist rhetoric, we look at the texts that circulate with the most intensity and engagement, centering activist rhetoric and campaigns that garnered national or international attention, such as Black Lives Matter and Me Too (see Larson; Tetreault). This focus on activist rhetoric that has achieved a certain level of [...]
+<p><a href="https://www.digitalrhetoriccollaborative.org/2025/06/13/attending-to-scales-of-intensity-a-viral-chronological-method-for-researching-the-circulation-of-activist-rhetoric/" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://www.digitalrhetoriccollaborative.org/2025/06/13/attending-to-scales-of-intensity-a-viral-chronological-method-for-researching-the-circulation-of-activist-rhetoric/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-13, from: Feed for Alt USDS)
+
+Our good friend @alt-doge.bsky.social has a thread on a way we can push back on the flow of money from the poor to the rich. A few things you can be doing right now to help. 
+
+While you over there, follow them!
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lridliyj2c23>
+
+---
+
+## Actually, what is a Freedesktop Portal?
+
+date: 2025-06-13, from: Libre News
+
+Getting complex Linux applications to work in the same way across many setups seems tricky at first, but all you need to do is “think with portals”. 
+
+<br> 
+
+<https://thelibre.news/actually-what-is-a-freedesktop-portal/>
+
+---
+
+## Reverse Robin Hood and Trumpian Totalitarianism 
+
+date: 2025-06-13, from: Paul Krugman
+
+Trump&#8217;s big beautiful bill is a sadistic monstrosity 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/reverse-robin-hood-and-trumpian-totalitarianism>
+
+---
+
+## the six-month recap: closing talk on AI at Web Directions, Melbourne, June 2025
+
+date: 2025-06-13, from: Geoffrey Hunntley's blog
+
+<div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F6A7;</div><div class="kg-callout-text">hello consumers of RSS, if you&apos;re reading this, then you&apos;re ahead of the curve. These are the slides from my upcoming talk, which will be delivered at Webdirections in a couple of hours. After the talk is available, this post will be updated with the</div></div> 
+
+<br> 
+
+<https://ghuntley.com/six-month-recap/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-13, from: Dave Winer's linkblog)
+
+New York Times’ Style Guide Substitutions for “The President Violated the Constitution.” 
+
+<br> 
+
+<https://www.mcsweeneys.net/articles/new-york-times-style-guide-substitutions-for-the-president-violated-the-constitution>
+
+---
+
+## Comics from 1977/07 Issue of ROM
+
+date: 2025-06-13, from: Computer ads from the Past
+
+Only two, so read them slowly 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/comics-from-197707-issue-of-rom>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-13, from: Robert's feed at BlueSky)
+
+That is so true👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lrh6orzkb22s>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-12, from: Dave Winer's linkblog)
+
+The 12 Best Audiobooks to Start Listening. 
+
+<br> 
+
+<https://blog.libro.fm/audiobooks-for-beginners/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-12, from: Dave Winer's linkblog)
+
+MacArthur President Chooses Courage, Not Quiet. 
+
+<br> 
+
+<https://fundthepeople.org/palfrey/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-12, from: Dave Winer's linkblog)
+
+Ex-Tesla manager dishes on the company and his unceremonious dismissal: &quot;They&#39;re absolutely hosed.&quot; 
+
+<br> 
+
+<https://hardresetmedia.substack.com/p/ex-tesla-manager-dishes-on-the-company>
+
+---
+
+## Apple’s Spin on AI and iPadOS Multitasking
+
+date: 2025-06-12, from: Michael Tsai
+
+The Wall Street Journal (Mastodon, Mac Power Users Talk, Slashdot): Apple&#8217;s AI rollout has been rocky, from Siri delays to underwhelming Apple Intelligence features. WSJ&#8217;s Joanna Stern sits down with software chief Craig Federighi and marketing head Greg Joswiak at WWDC 2025 in Cupertino to talk about the future of AI at Apple&#8212;and what the [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/12/apples-spin-on-ai-and-ipados-multitasking/>
+
+---
+
+## It's this blog's 23rd birthday
+
+date: 2025-06-12, updated: 2025-06-12, from: Simon Willison’s Weblog
+
+<p>It's this blog's 23rd birthday today!</p>
+<p>On June 12th 2022 I celebrated <a href="https://simonwillison.net/2022/Jun/12/twenty-years/">Twenty years of my blog</a> with a big post full of highlights. Looking back now I'm amused to notice that my 20th birthday post came within two weeks of my earliest writing about LLMs: <a href="https://simonwillison.net/2022/May/31/a-datasette-tutorial-written-by-gpt-3/">A Datasette tutorial written by GPT-3</a> and <a href="https://simonwillison.net/2022/Jun/5/play-with-gpt3/">How to use the GPT-3 language model</a>.</p>
+<p>My <a href="https://simonwillison.net/tags/generative-ai/">generative-ai tag</a> has reached 1,184 posts now.</p>
+<p>I really do feel like blogging is onto its second wind. The amount of influence you can have on the world by consistently blogging about a subject is just as high today as it was back in the 2000s when blogging first started.</p>
+<p>The best time to start a blog may have been twenty years ago, but the second best time to start a blog is today.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/blogging">blogging</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/12/blog-birthday/#atom-everything>
+
+---
+
+## Seven replies to the viral Apple reasoning paper – and why they fall short
+
+date: 2025-06-12, from: Gary Marcus blog
+
+Also: another paper that seals the deal 
+
+<br> 
+
+<https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple>
 
 ---
 
@@ -586,7 +775,7 @@ New, delightful manifesto from Ink &amp; Switch.</p>
     <p><small></small>Via <a href="https://lobste.rs/s/fkgmer/malleable_software_restoring_user">lobste.rs</a></small></p>
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/ink-and-switch">ink-and-switch</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-first">local-first</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/geoffrey-litt">geoffrey-litt</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/ink-and-switch">ink-and-switch</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-first">local-first</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/geoffrey-litt">geoffrey-litt</a>, <a href="https://simonwillison.net/tags/design-patterns">design-patterns</a></p> 
 
 <br> 
 
@@ -1483,7 +1672,7 @@ date: 2025-06-10, from: Liliputing
 
 date: 2025-06-10, from: Purism News and Events
 
-<p>The Threat Beneath: Hidden In-Chip Operating Systems Modern CPUs from Intel, AMD, and others ship with embedded microcontrollers and hidden operating systems that operate below the user-accessible OS, often with unprecedented system access and limited transparency. Key Vulnerabilities and Threats: 1. Intel Management Engine (ME) – Based on MINIX OS embedded at “ring -3” (lower [&#8230;]</p>
+<p>The Threat Beneath: The Invisible Operating Systems Inside Your Devices Beneath the surface of nearly every modern computer lies a hidden threat—one most users never see or control. Today’s Intel and AMD processors ship with embedded subsystems like the Intel Management Engine (ME) and AMD’s Platform Security Processor (PSP)—proprietary, low-level firmware environments that operate outside and below your main operating system.</p>
 <p>The post <a rel="nofollow" href="https://puri.sm/posts/hidden-operating-systems-in-chips-vs-secure-auditable-oses-a-cybersecurity-comparison/">Hidden Operating Systems in Chips vs. Secure, Auditable OSes: A Cybersecurity Comparison</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
  
 

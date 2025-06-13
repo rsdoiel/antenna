@@ -1,11 +1,172 @@
 ---
 title: columns
-updated: 2025-06-12 14:07:50
+updated: 2025-06-13 06:09:35
 ---
 
 # columns
 
-(date: 2025-06-12 14:07:50)
+(date: 2025-06-13 06:09:35)
+
+---
+
+## Danish department determined to dump Microsoft
+
+date: 2025-06-13, updated: 2025-06-13, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Comment</span> Jutes revolt against Redmond: Minister for Digital Affairs aims the longboats away from Vinland</h4>
+      <p>The boss of Denmark&#39;s Ministry for Digitalization says her department will move away from Microsoft – starting with LibreOffice.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/13/danish_department_dump_microsoft/>
+
+---
+
+## Paragon Spyware used to Spy on European Journalists
+
+date: 2025-06-13, updated: 2025-06-13, from: Bruce Schneier blog
+
+<p>Paragon is a Israeli spyware company, increasingly in the news (now that NSO Group seems to be waning). &#8220;Graphite&#8221; is the name of their product. Citizen Lab <a href="https://citizenlab.ca/2025/06/first-forensic-confirmation-of-paragons-ios-mercenary-spyware-finds-journalists-targeted/">caught them</a> spying on multiple European journalists with a zero-click iOS exploit:</p>
+<blockquote><p>On April 29, 2025, a select group of iOS users were notified by Apple that they were targeted with advanced spyware. Among the group were two journalists that consented for the technical analysis of their cases. The key findings from our forensic analysis of their devices are summarized below:</p>
+<ul>
+<li>Our analysis finds forensic evidence confirming with high confidence that both a prominent European journalist (who requests anonymity), and Italian journalist Ciro Pellegrino, were targeted with Paragon’s Graphite mercenary spyware.
+...</li></ul></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/06/paragon-spyware-used-to-spy-on-european-journalists.html>
+
+---
+
+## And here’s the recipe
+
+date: 2025-06-13, from: Paolo Valdemarin's blog
+
+I’m not confident enough in the tools I built this week to share them around just yet. As long as they run on my Mac, I’m happy, but I can’t really take responsibility for how they’d work for anyone else. Still, while I’m not serving up the dish, I’m definitely happy to share the recipe! &#8230; <a href="https://val.demar.in/2025/06/and-heres-the-recipe/" class="more-link">Continue reading<span class="screen-reader-text"> "And here’s the recipe"</span></a> 
+
+<br> 
+
+<https://val.demar.in/2025/06/and-heres-the-recipe/>
+
+---
+
+## Tomorrow: No Kings 
+
+date: 2025-06-13, from: Robert Reich's blog
+
+Trump is trying to turn our army into a domestic army of occupation &#8212; into neo-redcoats. 
+
+<br> 
+
+<https://robertreich.substack.com/p/tomorrow-is-no-kings-day>
+
+---
+
+## June 12, 2025 
+
+date: 2025-06-13, from: Heather Cox Richardson blog
+
+At a press conference for Secretary of Homeland Security Kristi Noem in Los Angeles today, Noem&#8217;s security assaulted Senator Alex Padilla (D-CA), dragged him into the hallway, forced him to the floor, and handcuffed him as he tried to ask the secretary a question. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-12-2025>
+
+---
+
+## the six-month recap: closing talk on AI at Web Directions, Melbourne, June 2025
+
+date: 2025-06-13, from: Geoffrey Hunntley's blog
+
+<div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#x1F6A7;</div><div class="kg-callout-text">hello consumers of RSS, if you&apos;re reading this, then you&apos;re ahead of the curve. These are the slides from my upcoming talk, which will be delivered at Webdirections in a couple of hours. After the talk is available, this post will be updated with the</div></div> 
+
+<br> 
+
+<https://ghuntley.com/six-month-recap/>
+
+---
+
+## Realities, perceived and presented, and their relationship to Truth
+
+date: 2025-06-12, from: Tracy Durnell Blog
+
+I&#8217;ve been thinking a lot lately about how knowledge doesn&#8217;t equal understanding—there are things you can know to be intellectually true, but that doesn&#8217;t mean your body or heart has caught up yet. &#8230; You have to prove to your nervous system, choice by choice, that this new way of thinking is actually safe&#8230; &#8212; [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/06/12/realities-perceived-and-presented-and-their-relationship-to-truth/>
+
+---
+
+## Friday 13 June, 2025
+
+date: 2025-06-12, from: John Naughton's online diary
+
+Smoke signals The Orchard, Grantchester. Quote of the Day “The dubious privilege of a freelance writer is he’s given the freedom to starve anywhere.” S.J. Perelman Musical alternative to the morning’s radio news Mozart &#124; Symphony No. 36 in C &#8230; <a href="https://memex.naughtons.org/friday-13-june-2025/40917/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-13-june-2025/40917/>
+
+---
+
+## ★ Apple’s Spin on the Personalized Siri Apple Intelligence Reset
+
+date: 2025-06-12, updated: 2025-06-12, from: Daring Fireball
+
+Most rank and file engineers within Apple do not believe that feature existed in an even vaguely functional state a year ago, and the first any of them ever heard of it was when they watched the keynote with the rest of us on the first day of WWDC last year. 
+
+<br> 
+
+<https://daringfireball.net/2025/06/apples_spin_on_the_personalized_siri_apple_intelligence_reset>
+
+---
+
+## Parade Charade
+
+date: 2025-06-12, from: Dan Rather's Steady
+
+Trump, who has long maligned the military, suddenly cozies up to it 
+
+<br> 
+
+<https://steady.substack.com/p/parade-charade>
+
+---
+
+## ‘The Good, the Bad, and the Weird of Apple’s Newest Platform Updates’
+
+date: 2025-06-12, updated: 2025-06-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sixcolors.com/post/2025/06/the-good-bad-and-weird-of-apples-newest-platform-updates/>
+
+---
+
+## ‘Liquid Glasslighting’
+
+date: 2025-06-12, updated: 2025-06-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://spyglass.org/spyglasslighting/>
+
+---
+
+## ‘Tested’ on VisionOS 26 and Behind the Scenes at the Theater Immersive Broadcast of The Talk Show Live From WWDC
+
+date: 2025-06-12, updated: 2025-06-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/watch?v=h6SbkEC1Xb8>
 
 ---
 
@@ -169,7 +330,7 @@ There are only two possibilities. Either inference gets at least an order of mag
 
 date: 2025-06-12, from: Doc Searls (at Harvard), New Old Blog
 
-And having any readers is better than having none. So far (2:30 pm), this blog post has had three visitors. And I&#8217;m not even sure those visitors have read any of this. Meanwhile, Online Sports Betting is For Losers is now up to 3,252 visits, second all-time behind Death is a Feature (6,643 visits). So, [&#8230;] 
+And having any readers is better than having none. So far (2:30 pm), this blog post has had three visitors. (Update at 11pm: eleven visitors.) And I&#8217;m not even sure those visitors have read any of this. Meanwhile, Online Sports Betting is For Losers is now up to 3,252 visits, second all-time behind Death is [&#8230;] 
 
 <br> 
 
@@ -209,7 +370,7 @@ Today I'm going to teach <a href="https://wordland.social/">WordLand</a> how to 
 
 **@Dave Winer's Scripting News** (date: 2025-06-12, from: Dave Winer's Scripting News)
 
-I was lucky to grow up in NYC, and had to commute from Queens to the Bronx every day to go to school. Some days I took the Q44 bus over the Whitestone Bridge, and other days I took the Q17 to the 7 train through Manhattan, and then the 4 or D trains up to 205th St in the Bronx. Took the same amount of time either way. So at age 15 I was able to go see the Grateful Dead after school at the Fillmore East on April 27, 1971. Midway through the set, a special guest band who they didn't introduce started tuning up on stage. We all wondered who they were. I now know the history thanks to the 500 Songs podcast, and this was the return of a band that had fallen out of favor, a band whose hits we all heard on WABC and WNEW-FM. When they started playing one of their biggest hits, Good Vibrations, the audience erupted in an ecstasy. The Beach Boys now looking a lot different, but playing the same wonderful California music from the 60s. They couldn't be more different from the Dead, but there they were up on stage together. They were back, this time for good. This is a recording of the whole concert, the link <a href="https://youtu.be/kRKY-S4wI1s?si=zTwSE5tvk6LKNjjb&t=2348">points</a> to the beginning of Good Vibrations. You can hear the gasp of recognition, and the bands recognition of the recognition, and from their it was a party in a party, including a <a href="https://www.youtube.com/watch?v=kRKY-S4wI1s&t=2508s">sing-along part</a> -- "gotta keep those a lovin' good vibrations happening with you." We were all growing up very quickly, but we had a moment when we could return to a more innocent time. Lovely the way music pulls you back in time. Brian Wilson wasn't there that night but his music certainly was. 
+I was lucky to grow up in NYC, and had to commute from Queens to the Bronx every day to go to school. Some days I took the <a href="https://bustime.mta.info/m/?q=Q44-SBS&l=">Q44</a> bus over the <a href="https://en.wikipedia.org/wiki/Bronx%E2%80%93Whitestone_Bridge">Whitestone Bridge</a>, and other days I took the <a href="https://bustime.mta.info/m/index;jsessionid=9F7ADE234676D22B101A192CAA31C55E?q=Q16&l=&t=&cacheBreaker=1717915338805">Q16</a> to the <a href="https://en.wikipedia.org/wiki/7_(New_York_City_Subway_service)">7 train</a> through Manhattan, and then the <a href="https://en.wikipedia.org/wiki/4_(New_York_City_Subway_service)">4</a> or <a href="https://en.wikipedia.org/wiki/D_(New_York_City_Subway_service)">D trains</a> up to 205th St in the Bronx. Took the same amount of time either way. So at age 15 I was able to go see the Grateful Dead after school at the <a href="https://en.wikipedia.org/wiki/Fillmore_East">Fillmore East</a> on April 27, 1971. Midway through the set, a special guest band who they didn't introduce started tuning up on stage. We all wondered who they were. I now know the history thanks to the <a href="https://www.google.com/search?q=500+Songs+podcast+beach+boys">500 Songs podcast</a>, and this was the return of a band that had fallen out of favor, a band whose hits we all heard on <a href="https://en.wikipedia.org/wiki/WABC_(AM)#The_Musicradio_77_era_(1960%E2%80%931982)">WABC</a> and <a href="https://en.wikipedia.org/wiki/WNEW-FM#%22Where_Rock_Lives%22">WNEW-FM</a>. When they started playing one of their biggest hits, <a href="https://en.wikipedia.org/wiki/Good_Vibrations">Good Vibrations</a>, the audience erupted in ecstasy. <a href="https://en.wikipedia.org/wiki/The_Beach_Boys">The Beach Boys</a> now looking a lot different, but playing the same wonderful California music from the 60s. They couldn't be more different from the Dead, but there they were up on stage together. They were back, this time for good. This is a recording of the whole concert, the link <a href="https://youtu.be/kRKY-S4wI1s?si=zTwSE5tvk6LKNjjb&t=2348">points</a> to the beginning of Good Vibrations. You can hear the gasp of recognition, and the bands recognition of the recognition, and from their it was a party in a party, including a <a href="https://www.youtube.com/watch?v=kRKY-S4wI1s&t=2508s">sing-along part</a> -- "gotta keep those a lovin' good vibrations happening with you." We were all growing up very quickly, but we had a moment when we could return to a more innocent time. Lovely the way music pulls you back in time. <a href="https://en.wikipedia.org/wiki/Brian_Wilson">Brian Wilson</a> wasn't there that night but his music certainly was. 
 
 <br> 
 
@@ -422,7 +583,7 @@ date: 2025-06-11, from: Dave Winer's Scripting News
 
 ## MacOS 26 Tahoe Drops Support for Some Intel-Based Macs, and Will Be the Last to Support Intel Macs at All
 
-date: 2025-06-11, updated: 2025-06-11, from: Daring Fireball
+date: 2025-06-11, updated: 2025-06-12, from: Daring Fireball
 
  
 
@@ -658,7 +819,7 @@ Banksy woz here Bristol. Quote of the Day ”Time may be a great healer, but it&
 
 ## Joanna Stern With Craig Federighi and Greg Joswiak: ‘Apple Executives Defend Apple Intelligence, Siri and AI Strategy’
 
-date: 2025-06-10, updated: 2025-06-11, from: Daring Fireball
+date: 2025-06-10, updated: 2025-06-12, from: Daring Fireball
 
  
 
@@ -870,7 +1031,7 @@ California's agricultural Central Valley&#8212;so rich in output, so poor in med
 
 ## Apple’s Introduction to Liquid Glass
 
-date: 2025-06-10, updated: 2025-06-10, from: Daring Fireball
+date: 2025-06-10, updated: 2025-06-12, from: Daring Fireball
 
  
 
@@ -882,7 +1043,7 @@ date: 2025-06-10, updated: 2025-06-10, from: Daring Fireball
 
 ## Tahoe Flips the Finder Icon
 
-date: 2025-06-10, updated: 2025-06-10, from: Daring Fireball
+date: 2025-06-10, updated: 2025-06-12, from: Daring Fireball
 
  
 
@@ -1123,7 +1284,7 @@ Just some facts. No interpretations. This blog post got nine reads by the end of
 
 ## New Way to Track Covertly Android Users
 
-date: 2025-06-09, updated: 2025-06-12, from: Bruce Schneier blog
+date: 2025-06-09, updated: 2025-06-13, from: Bruce Schneier blog
 
 <p>Researchers have <a href="https://localmess.github.io/">discovered</a> a new way to covertly track Android users. Both Meta and Yandex were using it, but have suddenly stopped now that they have been caught.</p>
 <p>The <a href="https://arstechnica.com/security/2025/06/meta-and-yandex-are-de-anonymizing-android-users-web-browsing-identifiers/">details</a> are interesting, and worth reading in detail:</p>

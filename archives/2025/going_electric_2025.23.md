@@ -1,11 +1,127 @@
 ---
 title: going electric
-updated: 2025-06-12 14:07:56
+updated: 2025-06-13 06:09:41
 ---
 
 # going electric
 
-(date: 2025-06-12 14:07:56)
+(date: 2025-06-13 06:09:41)
+
+---
+
+## The 2026 Rivian R1S And R1T Will Be Slightly More Expensive
+
+date: 2025-06-13, from: Inside EVs News
+
+We still have to wait a little longer to find out the specs for the new model year, though. 
+
+<br> 
+
+<https://insideevs.com/news/762663/2026-rivian-r1t-r1s-price/>
+
+---
+
+## Here’s Your Chance To Buy A Very Rare Electric Pickup At Half Price
+
+date: 2025-06-13, from: Inside EVs News
+
+The Lordstown Endurance was quite innovative, with four in-wheel electric motors and a large battery. 
+
+<br> 
+
+<https://insideevs.com/news/762643/lordstown-endurance-private-sale/>
+
+---
+
+## Tesla Updated The Model S And Model X, And The Internet Is Mad
+
+date: 2025-06-13, from: Inside EVs News
+
+They're heavier and more expensive, and the Model S Plaid now has a lower top speed. 
+
+<br> 
+
+<https://insideevs.com/news/762610/2026-tesla-model-s-model-x-specs-features-price/>
+
+---
+
+## This new electric moped is coming for your streets and bike lanes, and that’s a good thing
+
+date: 2025-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/olto-moped-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Olto, the second electric two-wheeler model from the mobility startup Infinite Machine, was just unveiled as a bike lane-ready moped ready to conquer US cities. Combining slick design with high-tech features, it brings many automotive-level hallmarks to the e-bike market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,electric-mopeds" data-layer-viewtype="unknown" data-post-id="419441" href="https://electrek.co/2025/06/12/this-new-electric-moped-is-coming-for-your-streets-and-bike-lanes-and-thats-a-good-thing/#more-419441" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/12/this-new-electric-moped-is-coming-for-your-streets-and-bike-lanes-and-thats-a-good-thing/>
+
+---
+
+## Tesla launches updated Model S and Model X: the biggest change is the price
+
+date: 2025-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/New-Tesla-Model-S-and-Model-X-price.png?w=1600" /></div><p>Tesla has launched updated versions of its flagship Model S and Model X vehicles. The updates are fairly minor, but they come with a $5,000 higher price tag.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-s,tesla-model-x" data-layer-viewtype="unknown" data-post-id="420155" href="https://electrek.co/2025/06/12/tesla-launches-updated-model-s-x-biggest-change-price/#more-420155" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/12/tesla-launches-updated-model-s-x-biggest-change-price/>
+
+---
+
+## China breaks records as global EV sales hit 7.2 million in 2025
+
+date: 2025-06-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/BYD-Dolphin-Surf-EV-5.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Global <a href="https://electrek.co/guides/ev-sales/" target="_blank" rel="noreferrer noopener">EV sales</a> surged in May 2025, hitting 1.6 million units sold, according to the latest data from EV research house Rho Motion. That brings the total for the year so far to 7.2 million EVs, a 28% increase compared to the same period in 2024.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,europe,ev-sales,ev-sales-canada,evs,north-america" data-layer-viewtype="unknown" data-post-id="420091" href="https://electrek.co/2025/06/12/china-breaks-records-as-global-ev-sales-hit-7-2-million-in-2025/#more-420091" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/12/china-breaks-records-as-global-ev-sales-hit-7-2-million-in-2025/>
+
+---
+
+## Hyundai’s new IONIQ 9 is actually pretty affordable with up to $13,000 off right now
+
+date: 2025-06-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Hyundai-IONIQ-9-affordable.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s new electric SUV is more affordable than you might think. The <a href="https://electrek.co/guides/hyundai-ioniq-9/">IONIQ 9</a> is currently a better deal than the Kia EV9, with Hyundai offering up to $13,000 off.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-9" data-layer-viewtype="unknown" data-post-id="420118" href="https://electrek.co/2025/06/12/hyundais-new-ioniq-9-pretty-affordable-with-up-to-13000-off/#more-420118" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/12/hyundais-new-ioniq-9-pretty-affordable-with-up-to-13000-off/>
+
+---
+
+## This solar canopy cools wastewater and powers a city utility
+
+date: 2025-06-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Pendleton-Solar-Canopy.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>The City of Pendleton, Oregon, just cut the ribbon on a new solar canopy at its wastewater treatment plant – the first project of its kind in the region.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,oregon,solar-power" data-layer-viewtype="unknown" data-post-id="420114" href="https://electrek.co/2025/06/12/solar-canopy-cools-wastewater-powers-city-utility/#more-420114" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/12/solar-canopy-cools-wastewater-powers-city-utility/>
 
 ---
 
@@ -34,6 +150,18 @@ Akio Toyoda says one electric car pollutes as much as three hybrids. Here’s wh
 <br> 
 
 <https://insideevs.com/news/762583/toyota-chairman-akio-toyota-evs-hybrids-emissions-debate/>
+
+---
+
+## Toyota's Chairman Says EVs Pollute More Than Hybrids. Is He Right?
+
+date: 2025-06-12, from: Inside EVs News
+
+Akio Toyoda says one electric car pollutes as much as three hybrids. Here’s what research says. 
+
+<br> 
+
+<https://insideevs.com/news/762583/akio-toyota-evs-hybrids-emissions/>
 
 ---
 

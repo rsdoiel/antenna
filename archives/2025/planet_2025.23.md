@@ -1,11 +1,435 @@
 ---
 title: planet
-updated: 2025-06-12 14:07:45
+updated: 2025-06-13 06:09:30
 ---
 
 # planet
 
-(date: 2025-06-12 14:07:45)
+(date: 2025-06-13 06:09:30)
+
+---
+
+## Mother takes son out of school over IPAS centre protests
+
+date: 2025-06-13, from: RTÉ News
+
+A mother has decided to temporarily take her eight-year-old son out of his Dublin school due to fears about nearby anti-immigration protests. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0613/1518311-mother-takes-son-out-of-school-over-ipas-centre-protests/>
+
+---
+
+## DRC Bishops committed to promoting peace, reconciliation and national cohesion
+
+date: 2025-06-13, from: Vatican News
+
+
+                    <p>The National Episcopal Conference of the Democratic Republic of Congo (CENCO) responded on Thursday, 12 June, to a statement made on Monday, 9 June, during a press briefing by the DRC’s Vice Prime Minister and Minister of Transport, Jean-Pierre Bemba, accusing Catholic Bishops of attitudes that could harm the country’s stability. The Congolese Bishops fear that such a statement from a senior government minister could jeopardise and undermine national cohesion and peaceful coexistence.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-06/buona-sera-i-nostri-colleghi-della-conferenza-episcopale-dello.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-06/buona-sera-i-nostri-colleghi-della-conferenza-episcopale-dello.html>
+
+---
+
+## Israel-Iran crisis: UN chief urges calm after overnight strikes
+
+date: 2025-06-13, from: United Nations, Top Stories
+
+Secretary-General António Guterres condemned Israeli strikes in Iran late Thursday evening, urging ‘maximum restraint’ from Member States. The head of the UN-backed atomic watchdog also highlighted the risk of a wider conflict. &nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164351>
+
+---
+
+## US Open: Day 2 updates
+
+date: 2025-06-13, from: RTÉ News
+
+Rory McIlroy and particularly Shane Lowry have their work cut out as they start in the later wave on Day 2 of the US Open at the Gruellign Oakmont Country Club. 
+
+<br> 
+
+<https://www.rte.ie/sport/golf/2025/0613/1518285-us-open-day-2-updates/>
+
+---
+
+## Minister for Housing defends new Govt rental measures
+
+date: 2025-06-13, from: RTÉ News
+
+The Minister for Housing has defended new measures in relation to the rental market, saying they strike a balance between protecting tenants and supporting investment. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0613/1518294-minister-housing-rent/>
+
+---
+
+## ‘You Are My Hope’: Pope Leo XIV’s Message for 9th World Day of the Poor
+
+date: 2025-06-13, from: Vatican News
+
+
+                    <p>As the Church prepares to mark the Ninth World Day of the Poor on Sunday, 16 November 2025, Pope Leo XIV issue a message centered on the theme: “You are my hope” (Ps 71:5).</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/world-day-poor-pope-leo-you-are-my-hope.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/world-day-poor-pope-leo-you-are-my-hope.html>
+
+---
+
+## Hindu temple leader in London in shock after plane crash
+
+date: 2025-06-13, from: RTÉ News
+
+The spiritual leader of a Hindu temple in Harrow in London, who knew twenty of the victims in yesterday's Air India plane crash, has said there is deep shock among his community. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0613/1518289-hindu-leader-crash/>
+
+---
+
+## South Africa: Cardinal Brislin celebrates Pentecost with Zimbabwean Catholics in Johannesburg
+
+date: 2025-06-13, from: Vatican News
+
+
+                    <p>In a joyful and Spirit-filled celebration of Pentecost, the Archbishop of Johannesburg, Cardinal Stephen Brislin, joined the Zimbabwean Catholic community resident in Johannesburg, for a pastors’ visit. </p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-06/south-africa-cardinal-brislin-celebrates-pentecost-with-zimbab.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-06/south-africa-cardinal-brislin-celebrates-pentecost-with-zimbab.html>
+
+---
+
+## Peter To Rot: A saint, fruit of a shared mission
+
+date: 2025-06-13, from: Vatican News
+
+
+                    <p>In the first Ordinary Public Consistory of his pontificate, Pope Leo XIV sets the date for the canonisation of eight Blesseds, including Peter To Rot, the first canonised saint from Papua New Guinea. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/peter-to-rot-canonization-saint-papua-new-guinea.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/peter-to-rot-canonization-saint-papua-new-guinea.html>
+
+---
+
+## McCarrick lawyer hopeful case will be solved one day
+
+date: 2025-06-13, from: RTÉ News
+
+A New York based lawyer, hired by Annie McCarrick's late father John in 1993 to help find out what happened to his daughter, has expressed his hope that the case will one day be solved. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0613/1518261-annie-mccarrick-detective/>
+
+---
+
+## Carlo Acutis and Pier Giorgio Frassati to be canonized together
+
+date: 2025-06-13, from: Vatican News
+
+
+                    <p>Pope Leo XIV presides at an Ordinary Public Consistory for the Vote on Causes for Canonization, which gave formal approval for the canonizations of eight Blesseds, and set the date for their canonizations.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/carlo-acutis-and-pier-giorgio-frassati-to-be-canonized-together.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/carlo-acutis-and-pier-giorgio-frassati-to-be-canonized-together.html>
+
+---
+
+## Teen to be made first millennial saint in September
+
+date: 2025-06-13, from: RTÉ News
+
+The canonisation of the first Catholic saint of the millennial generation, Carlo Acutis, will take place on 7 September, Pope Leo has announced. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0613/1518266-carlo-acutis-saint/>
+
+---
+
+## Floribert Bwana Chui: First Blessed of St. Egidio Community
+
+date: 2025-06-13, from: Vatican News
+
+
+                    <p>The Community of St. Egidio is preparing to welcome its first Blessed, Congolese martyr Floribert Bwana Chui, who will be beatified on Sunday, June 15, in the Basilica of St. Paul Outside the Walls, according to Aline Minani, head of the Community in Goma.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/democratic-republic-congo-beatification-floribert-bwana-chui.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/democratic-republic-congo-beatification-floribert-bwana-chui.html>
+
+---
+
+## Iran's nuclear programme - the key sites and locations
+
+date: 2025-06-13, from: RTÉ News
+
+Before the Israeli strikes today, Washington and Tehran had held several rounds of talks on Iran's nuclear programme, as concerns mounted about its rapid expansion. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0613/1518251-iran-nuclear-programme/>
+
+---
+
+## Sisters serving migrants and refugees at Ghana's border
+
+date: 2025-06-13, from: Vatican News
+
+
+                    <p>As West African migration routes shift, Sisters of Mary Mother of the Church (SMMC) are delivering frontline support to displaced communities in the Aflao Ghetto, one of the most overburdened informal settlements in Ghana.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/sisters-project-131-ghana-smmc-migrants-refugees.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/sisters-project-131-ghana-smmc-migrants-refugees.html>
+
+---
+
+## Irish citizens advised against travel to Israel
+
+date: 2025-06-13, from: RTÉ News
+
+Follow live developments as tensions between Israel and Iran escalate after Israel launches widespread attacks targeting Tehran's nuclear sites and military commanders. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0613/1518235-israel-iran/>
+
+---
+
+## Black box found at site of Air India plane crash
+
+date: 2025-06-13, from: RTÉ News
+
+A black box has been recovered from the wreckage of the Air India passenger plane which crashed into a residential area of India's Ahmedabad city yesterday, killing at least 265 people on board and on the ground. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0613/1518231-india-plane-crash/>
+
+---
+
+## 'Celebrate his genius' - Cork to rock for Rory Gallagher
+
+date: 2025-06-13, from: RTÉ News
+
+From the main roadway into Cork Airport being named after him, to concerts, exhibitions and a city-wide walking trail, the 30th anniversary of the death of guitarist Rory Gallagher is being widely marked this weekend in Cork. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0613/1518194-cork-rocks-for-rory/>
+
+---
+
+## What we know so far about the Israeli strikes on Iran
+
+date: 2025-06-13, from: RTÉ News
+
+Israel said it had carried out strikes on Iranian nuclear and military sites, promising to continue its campaign and "achieve much more". Here is what we know so far: 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0613/1518227-israel-strikes-iran/>
+
+---
+
+## New play aims to tell the untold stories of IP applicants
+
+date: 2025-06-13, from: RTÉ News
+
+A play based on the real life experiences of people living in an International Protection Accommodation Services (IPAS) centre in Newbridge, Co Kildare, has begun a nationwide tour. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0613/1518204-ip-applicants-play/>
+
+---
+
+## Investigators search Air India crash site for evidence and more victims
+
+date: 2025-06-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7559211.1749735317!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/india-plane-crash.jpg' alt='The debris of an airplane sticks out of a building, with a person taking photos of it with a cellphone.' width='620' height='349' title='The debris of an airplane sticks out of a building after it crashed in India&apos;s northwestern city of Ahmedabad in Gujarat state, Thursday, June 12, 2025. '/><p>Authorities are investigating one of India's worst aviation disasters a day after a London-bound Air India plane crashed, killing all but one of the 242 passengers and crew on board, officials said Friday, as Indian Prime Minister Narendra Modi visited the crash site. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/air-india-investigation-1.7560282?cmp=rss>
+
+---
+
+## 22 police officers injured during disorder in Portadown
+
+date: 2025-06-13, from: RTÉ News
+
+More than 20 police officers have been injured following overnight disorder in Portadown, Co Armagh. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0613/1518225-disorder-northern-ireland/>
+
+---
+
+## Why Friday 13th superstitions are all in your head
+
+date: 2025-06-13, from: RTÉ News
+
+Superstitions like crossing your fingers or throwing spilled salt over your shoulder can have a powerful impact on your emotions 
+
+<br> 
+
+<https://www.rte.ie/brainstorm/2025/0613/1098671-friday-13th-superstitions/>
+
+---
+
+## Appeals court allows Trump to keep National Guard in LA
+
+date: 2025-06-13, from: RTÉ News
+
+A US appeals court allowed President Donald Trump to maintain his deployment of National Guard troops in Los Angeles amid protests over stepped-up immigration enforcement, temporarily pausing a lower court ruling that blocked the mobilisation. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0613/1518223-la-riots/>
+
+---
+
+## Russia and Ukraine are returning the bodies of their soldiers. It's a grim snapshot of battlefield loss
+
+date: 2025-06-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7559619.1749751151!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-repatriation.jpg' alt='This photo, published by RIA Novosti, a state-owned Russian news agency on June 11, purports to show bodies that will be transferred to Ukraine. ' width='620' height='349' title='This photo, published by RIA Novosti, a state-owned Russian news agency on June 11, purports to show bodies that will be transferred to Ukraine. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/russia-ukraine-repatriation-1.7559582?cmp=rss>
+
+---
+
+## Aid boat bound for Gaza was seized by Israel, but crew member still considers trip a win
+
+date: 2025-06-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7555901.1749778381!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/italy-freedom-flotilla.jpg' alt='People pose for a photo aboard a ship in the water' width='620' height='349' title='Activists of the Freedom Flotilla Coalition, board the Madleen boat, ahead of setting sail for Gaza, departing from the Sicilian port of Catania, Italy, Sunday, June 1, 2025. (AP Photo/Salvatore Cavalli)'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/madleen-aid-boat-gaza-israel-1.7559985?cmp=rss>
+
+---
+
+## No Kings protests against Trump's policies expected to sweep U.S. on Saturday
+
+date: 2025-06-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7559481.1749750807!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-migration-protest-los-angeles.JPG' alt='Two men stand outside a federal building, one holding a Mexican flag, the other, waving an American flag.' width='620' height='349' title='A man holds a Mexican flag while another holds a U.S. flag as members of the California National Guard stand guard outside the Edward R. Roybal Federal building, after days of protests against federal immigration sweeps and the deployment of the California National Guard and U.S. Marines, in downtown Los Angeles, California, U.S., June 10, 2025.'/><p>A United-States-wide demonstration against President Donald Trump, planned for months and to be held Saturday, has ballooned in scope since protests against the administration's immigration raids broke out last week. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/no-kings-protests-saturday-1.7559428?cmp=rss>
+
+---
+
+## Thunderstorms may rain on Trump's military parade
+
+date: 2025-06-13, from: RTÉ News
+
+US President Donald Trump's dream of hosting a grand military parade in Washington on his 79th birthday tomorrow could be clouded by thunderstorms. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0613/1518216-us-trump/>
+
+---
+
+## Trump warns Iran next Israel attack will be 'more brutal'
+
+date: 2025-06-13, from: RTÉ News
+
+Israel has launched widescale strikes against Iran, saying it targeted nuclear facilities, ballistic missile factories and military commanders and that this was the start of a prolonged operation to prevent Tehran from building an atomic weapon. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0613/1518219-middle-east/>
+
+---
+
+## Gardaí searching for human remains in McCarrick case
+
+date: 2025-06-13, from: RTÉ News
+
+Gardaí investigating the murder of Annie McCarrick, who went missing in Dublin over 32 years ago, have begun searching for human remains. 
+
+<br> 
+
+<https://www.rte.ie/news/crime/2025/0613/1518217-annie-mccarrick/>
+
+---
+
+## Martin and Harris attend British-Irish Council summit
+
+date: 2025-06-12, from: RTÉ News
+
+Taoiseach Micheál Martin and Tánaiste Simon Harris are attending the 43rd summit meeting of the British-Irish Council which is being hosted by the Northern Ireland Executive. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0613/1518205-british-irish-council/>
+
+---
+
+## UN General Assembly calls for Gaza ceasefire
+
+date: 2025-06-12, from: RTÉ News
+
+The UN General Assembly adopted a resolution demanding an immediate ceasefire in Gaza and urging nations to take "all measures necessary" to place pressure on Israel. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0613/1518209-middle-east/>
+
+---
+
+## Iran confirms top officials killed after Israel targets nuclear sites, leaders, scientists in wave of strikes
+
+date: 2025-06-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/05f9e59a-d4e6-44d6-956a-a82fee3b8aab,1749816413041/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='Israeli air strikes kill top Iranian military leaders, hit nuclear sites' width='620' height='349' title='Israeli air strikes kill top Iranian military leaders, hit nuclear sites'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/israel-attack-iran-1.7560164?cmp=rss>
 
 ---
 
@@ -25,7 +449,7 @@ The contractors involved in the construction of the Narrow Water Bridge have con
 
 date: 2025-06-12, from: RTÉ News
 
-The hosepipe ban which has been in place in Mullingar, Co Westmeath, Milford in Co Donegal and the Kells/Oldcastle areas of Co Meath since early May has been extended by another seven weeks. 
+The hosepipe ban which has been in place in Mullingar, Co Westmeath, Milford in Co Donegal and the Kells and Oldcastle areas of Co Meath since early May has been extended by another seven weeks. 
 
 <br> 
 
@@ -42,6 +466,34 @@ A US senator from California was forcibly removed after interrupting a press con
 <br> 
 
 <https://www.rte.ie/news/world/2025/0612/1518193-us-senator-handcuffed/>
+
+---
+
+## With war ever present, young people from Kharkiv visit the Pope
+
+date: 2025-06-12, from: Vatican News
+
+
+                    <p>Pope Leo XIV meets with a group of 32 young men and women from Ukraine, who presented the Pope with a framed photo of one of their classmates who was killed last year in a bombing.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/with-war-ever-present-young-people-from-kharkiv-visit-the-pope.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/with-war-ever-present-young-people-from-kharkiv-visit-the-pope.html>
+
+---
+
+## Spaun leads US Open as McIlroy and Lowry disappoint
+
+date: 2025-06-12, from: RTÉ News
+
+Rory McIlroy had a nightmare finish to his opening round at the US Open after dropping five shots in as many holes. 
+
+<br> 
+
+<https://www.rte.ie/sport/golf/2025/0612/1518182-late-struggles-ruin-mcilroys-us-open-first-round/>
 
 ---
 
@@ -81,7 +533,7 @@ The judge overseeing Harvey Weinstein's criminal case in Manhattan has declared 
 
 ---
 
-## With Pope Leo Vatican solidarity with Ukraine continues
+## Pope Leo continues Vatican's solidarity with Ukraine
 
 date: 2025-06-12, from: Vatican News
 
@@ -125,7 +577,7 @@ date: 2025-06-12, from: CBC, World News
 
 date: 2025-06-12, from: RTÉ News
 
-RTÉ has advertised an open internal and external 'expressions of interest' process for on-air presenters across RTÉ Radio 1 and News and Current Affairs. 
+RTÉ has advertised an open internal and external "expressions of interest" process for on-air presenters across RTÉ Radio 1 and News and Current Affairs. 
 
 <br> 
 
@@ -193,6 +645,18 @@ The Tánaiste has told the Dáil he believes that staff filmed by undercover car
 
 ---
 
+## N.W.T. ministers press feds to maintain Jordan's Principle funding through 2026
+
+date: 2025-06-12, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7559382.1749742881!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cleveland-and-semmler.jpg' alt='women look at camera.' width='620' height='349' title=''/><p>N.W.T. Education Minister Caitlin Cleveland said that on a trip to Ottawa earlier this month, she and other N.W.T. cabinet ministers talked about the urgency of Jordan's Principle funding in as many meetings as they could. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/n-w-t-ministers-press-feds-to-maintain-jordan-s-principle-funding-through-2026-1.7559351?cmp=rss>
+
+---
+
 ## Man accused of plotting NYC Jewish centre 'slaughter' while in Ontario pleads not guilty
 
 date: 2025-06-12, from: CBC, World News
@@ -221,7 +685,7 @@ Drogheda United have confirmed that they will not be allowed compete in the UEFA
 
 date: 2025-06-12, from: RTÉ News
 
-Two-time Irish Olympic swimmer Danielle Hill has told of her terror as she was confronted by masked men who attacked Larne Leisure Centre last night while she was coaching children. 
+Two-time Irish Olympic swimmer Danielle Hill has told of her terror as she was confronted by masked men who attacked Larne Leisure Centre while she was coaching children. 
 
 <br> 
 
@@ -309,11 +773,11 @@ Three teenagers have been charged with riot and remanded in custody in the wake 
 
 ---
 
-## UN nuclear watchdog says Iran in breach of obligations
+## Trump warns of Israeli attack on Iran nuclear facilities
 
 date: 2025-06-12, from: RTÉ News
 
-The UN nuclear watchdog's board of governors has declared Iran in breach of its non-proliferation obligations and Tehran announced counter-measures, as an Iranian official said a "friendly country" had warned it of a potential Israeli attack. 
+US President Donald Trump has said an Israeli strike on Iran "could very well happen," and a senior Israeli official told the Wall Street Journal it could occur as soon as Sunday unless Iran agrees to halt production of material for an atomic bomb 
 
 <br> 
 
@@ -335,7 +799,7 @@ With 13.5 million people displaced by over 13 years of brutal civil conflict, Sy
 
 ## ‘No Ocean Declaration without small islands’: Delegates push for inclusion as UN summit nears end
 
-date: 2025-06-12, from: United Nations, Top Stories
+date: 2025-06-12, from: United Nations, Economic Development
 
 With one day remaining before the conclusion of the Third UN Ocean Conference, delegates in Nice are preparing for the adoption of the summit’s eagerly anticipated political declaration. Small island developing States, facing the direct effects of climate change and marine resource decline, are pushing to ensure their perspectives are reflected in global ocean policy. 
 
@@ -347,7 +811,7 @@ With one day remaining before the conclusion of the Third UN Ocean Conference, d
 
 ## Global push to end plastic pollution gains ground in Nice
 
-date: 2025-06-12, from: United Nations, Top Stories
+date: 2025-06-12, from: United Nations, Economic Development
 
 Behind closed doors, in a domed conference pavilion steps away from the historic port of Nice, more than 40 ministers gathered on Tuesday to tackle one of the planet’s fastest-growing environmental threats: plastic pollution.&nbsp; 
 
@@ -417,11 +881,11 @@ Tens of thousands of people went missing in Syria over the past 50 years includi
 
 ---
 
-## GAZA LIVE: UN General Assembly to vote on resolution demanding immediate, unconditional and permanent ceasefire
+## GAZA LIVE: UN General Assembly overwhelmingly adopts resolution demanding immediate, unconditional and permanent ceasefire
 
 date: 2025-06-12, from: United Nations, Top Stories
 
-The General Assembly is in emergency session in New York and due to vote soon on a resolution demanding an immediate ceasefire and release of all hostages. Assembly president Philémon Yang said with the Security Council paralysed, it was time for UN Member States to act and end the horrors in Gaza. As starvation looms across the Strip, mass casualties continue to be reported of desperate civilians trying to access food at Israel and US-backed distribution sites. App users can follow our live coverage here. 
+The General Assembly overwhelmingly backed a resolution on Thursday demanding an immediate, unconditional and permanent ceasefire in Gaza, the release of all hostages and resumption of humanitarian aid to stave off famine. There were 149 votes in favour, 12 against – including Israel and the US – and 19 abstentions. App users can follow our live coverage&nbsp;here. 
 
 <br> 
 
@@ -433,11 +897,35 @@ The General Assembly is in emergency session in New York and due to vote soon on
 
 date: 2025-06-12, from: United Nations, Top Stories
 
-The UN-backed atomic watchdog voted through a resolution on Thursday declaring that Iran is not complying with its obligations regarding nuclear non-proliferation. 
+The UN-backed atomic watchdog passed a resolution on Thursday declaring that Iran is not complying with its obligations regarding nuclear non-proliferation. 
 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/06/1164291>
+
+---
+
+## UN General Assembly adopts Gaza ceasefire resolution by overwhelming majority
+
+date: 2025-06-12, from: United Nations, Top Stories
+
+Meeting in emergency session on Thursday in New York, the UN General Assembly overwhelmingly adopted a resolution demanding an immediate, unconditional and lasting ceasefire in Gaza.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164346>
+
+---
+
+## Continued failure to consult on uranium exploration a harmful mistake: Mi'kmaw chiefs
+
+date: 2025-06-12, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7559309.1749740016!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/ns-mi-kmaq-consultation-20250611.jpg' alt='A highway sign with a person on it and the text &quot;land of the mi&apos;kmaq' width='620' height='349' title='A highway sign that highlights Nova Scotia&apos;s rich Mi&apos;kmaq heritage stands along the Trans-Canada Highway near Amherst, N.S. on Monday, Jan. 14, 2019. '/><p>The Assembly of Nova Scotia Mi'kmaw Chiefs has said they will continue to oppose both uranium exploration and hydraulic fracturing until their environmental concerns have been addressed.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/nova-scotia/uranium-exploration-consultation-mikmaw-chiefs-1.7559302?cmp=rss>
 
 ---
 
@@ -453,11 +941,11 @@ Khaby Lame, one of the world's most popular TikTok personalities, with over 160 
 
 ---
 
-## US Open Day 1 updates: Scheffler battling
+## US Open Day 1 recap: McIlroy and Scheffler toil
 
 date: 2025-06-12, from: RTÉ News
 
-It's the opening round of the most brutal major championship of the lot. Keep an eye on all the goings-on at the 125th US Open with our live updates... 
+An opening round 66 sees JJ Spaun with the clubhouse lead after the opening day of the US Open where Oakmont has caused difficulties for many in the field. 
 
 <br> 
 
@@ -614,6 +1102,18 @@ date: 2025-06-12, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/vatican-city/news/2025-06/jubilee-sport-presentation-olympic-paralympic-holy-door-conferen.html>
+
+---
+
+## A new federal bill aims to approve projects faster. What would that mean for consultation in Nunavut?
+
+date: 2025-06-12, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6972959.1695235470!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/nirb-hearings-rankin-inlet.JPG' alt='People sit at long tables with microphones inside a large gymnasium.' width='620' height='349' title='The Nunavut Impact Review Board holds public hearings in Rankin Inlet, Nunavut, into Agnico Eagle&apos;s proposed expansion of its Meliadine gold mine.'/><p>A new federal bill aims to fast-track major infrastructure projects, but some in Nunavut worry it could mean more development with less consultation. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/federal-approval-major-projects-nunavut-inuit-consultation-1.7558821?cmp=rss>
 
 ---
 
@@ -801,6 +1301,18 @@ date: 2025-06-12, from: CBC, World News
 
 ---
 
+## Weight of traditional knowledge discussed at public hearing for Diavik's water licence
+
+date: 2025-06-12, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7558852.1749679492!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/patrick-simon.jpg' alt='A man with glasses standing outside on a summer&apos;s day.' width='620' height='349' title='Patrick Simon, a Deninu Kue First Nation councillor participating in the public hearing, said Indigenous people and Western science have different ways of communicating when water is safe.  '/><p>A handful of Indigenous governments want to see more criteria enshrined in the conditions of Diavik diamond mine's new water licence, to determine that water will be safe for cultural uses.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/traditional-knowledge-diavik-hearing-1.7558825?cmp=rss>
+
+---
+
 ## 60 killed in Gaza attacks, many near aid site - medics
 
 date: 2025-06-12, from: RTÉ News
@@ -897,6 +1409,18 @@ date: 2025-06-11, from: CBC, World News
 
 ---
 
+## Mother in Old Crow, Yukon, starts petition to clean up and improve recreational spaces
+
+date: 2025-06-11, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7558657.1749673774!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/old-crow-recreation-spaces.jpg' alt='a swing set next to parked construction equipment' width='620' height='349' title='A petition is circulatingOld Crow, Yukon urging local leadership to protect, restore, and invest in the community&apos;s recreational spaces. '/><p>Living in a small and remote northern community like Old Crow, Yukon, can mean limited access to recreational activities — especially when many of the spaces meant for activities like baseball or soccer are being instead used to store industrial equipment and supplies.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/mother-in-old-crow-yukon-starts-petition-to-clean-up-and-improve-recreational-spaces-1.7558654?cmp=rss>
+
+---
+
 ## Gardaí gave guns to Carlow gunman, Dáil hears
 
 date: 2025-06-11, from: RTÉ News
@@ -990,6 +1514,18 @@ A protest is being held outside Leinster House ahead of a vote on a motion seeki
 <br> 
 
 <https://www.rte.ie/news/2025/0611/1517957-protest-central-bank/>
+
+---
+
+## English River First Nation grappling with more potential graves found at residential school site
+
+date: 2025-06-11, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7558464.1749674954!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/katrina-maurice-june-2025.jpg' alt='A woman holding a white grave marker she designed for her community. ' width='620' height='349' title='Katrina Maurice is a member of English River First Nation, and she designed the grave markers for the unmarked graves found at the old Beauval Indian Residential school site. '/><p>On Thursday, English River First Nation in northern Saskatchewan announced that a ground-penetrating radar search at the site that began in 2021 has identified dozens more anomalies at the site of the former Beauval residential school.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatchewan/english-river-first-nation-grave-markers-residential-schools-1.7558112?cmp=rss>
 
 ---
 
@@ -1431,7 +1967,7 @@ The Government's new policy on rents has been branded a "shambles" by Sinn Féin
 
 ## The world pledged to end child labour by 2025: So why are 138 million kids still working?
 
-date: 2025-06-11, from: United Nations, Top Stories
+date: 2025-06-11, from: United Nations, Economic Development
 
 Twelve-year-old Tenasoa crawls to work every day at a mine in eastern Madagascar where she collects two kilos of the shiny mineral mica each day. She cannot walk because of a physical disability. 
 
@@ -1455,7 +1991,7 @@ Survivors of a people-smuggling operation in the Red Sea have described being fo
 
 ## ‘Plenty of fish in the sea’? Not anymore, say UN experts in Nice
 
-date: 2025-06-11, from: United Nations, Top Stories
+date: 2025-06-11, from: United Nations, Economic Development
 
 At the Third UN Ocean Conference in Nice, the “catch of the day” wasn’t a seabass or a red mullet – it was a figure: 35 per cent. That’s the share of global fish stocks now being harvested unsustainably, according to a new UN report released Wednesday. 
 
@@ -1503,7 +2039,7 @@ Civilian deaths and injuries in the first five months of 2025 were nearly 50 per
 
 ## Climate emergency is a health crisis ‘that is already killing us,’ says WHO
 
-date: 2025-06-11, from: United Nations, Top Stories
+date: 2025-06-11, from: United Nations, Climate Change
 
 With 2024 confirmed as the hottest year on record, the World Health Organization (WHO) has issued a stark warning: the climate crisis is also a health crisis – and it’s already claiming lives. 
 
@@ -2419,7 +2955,7 @@ An unregistered business operating in a shed building, where the other half of t
 
 ## Social and economic barriers, not choice, driving global fertility crisis: UNFPA
 
-date: 2025-06-10, from: United Nations, Top Stories
+date: 2025-06-10, from: United Nations, Economic Development
 
 The global fertility slump isn’t down to young people turning their backs on parenthood – it’s due to social and economic pressures stopping them from having the children they want, says a new UN report.&nbsp; 
 
@@ -2431,7 +2967,7 @@ The global fertility slump isn’t down to young people turning their backs on p
 
 ## The battle to quiet the sea: Can the shipping industry turn down the volume?
 
-date: 2025-06-10, from: United Nations, Top Stories
+date: 2025-06-10, from: United Nations, Economic Development
 
 The ocean has never been silent – waves crashing, seabirds calling, whales singing across vast distances. But in recent decades, a new kind of noise has taken hold: the relentless hum of ships. For many marine species, this growing wall of sound is more than a nuisance – it’s a threat to their survival. 
 
@@ -2443,7 +2979,7 @@ The ocean has never been silent – waves crashing, seabirds calling, whales sin
 
 ## Greed is driving oceans toward collapse
 
-date: 2025-06-10, from: United Nations, Top Stories
+date: 2025-06-10, from: United Nations, Economic Development
 
 The ocean is under siege – and greed is to blame. UN Secretary-General António Guterres on Tuesday urged world leaders and grassroots groups to confront the powerful interests driving marine destruction, from illegal fishing and plastic pollution to the accelerating impacts of climate change. 
 
@@ -2515,7 +3051,7 @@ The very real risk of famine continues to stalk Sudan’s communities impacted b
 
 ## World News in Brief: Global growth slows, deadly Ukraine attacks, Haiti hurricane hunger risk, legal migration for refugees
 
-date: 2025-06-10, from: United Nations, Top Stories
+date: 2025-06-10, from: United Nations, Economic Development
 
 Global economic growth is expected to decline this year due to increased trade barriers and policy uncertainty, the World Bank said in a report published on Tuesday.&nbsp; 
 
@@ -3219,7 +3755,7 @@ date: 2025-06-09, from: CBC, Indigenious News
 
 ## Guterres calls for an end to ocean ‘plunder’ as UN summit opens in France
 
-date: 2025-06-09, from: United Nations, Climate Change
+date: 2025-06-09, from: United Nations, Economic Development
 
 With the Mediterranean glittering in the background, UN Secretary-General António Guterres opened the Third United Nations Ocean Conference on Monday, delivering a blunt indictment of humanity’s fractured relationship with the sea. 
 
@@ -3243,7 +3779,7 @@ The worsening humanitarian crisis in the Gaza Strip has reached “unprecedented
 
 ## No green without blue: Young ocean explorers set sail for a sustainable future
 
-date: 2025-06-09, from: United Nations, Top Stories
+date: 2025-06-09, from: United Nations, Economic Development
 
 With science at the forefront of the opening day of the Third UN Ocean Conference (UNOC3), UN News boarded a 111-year-old Norwegian tall ship on the French Riviera to meet 50 science students, along with a host of lecturers and citizen scientists fresh from a 46-day expedition. Fueled by satellite data from the European Space Agency (ESA), their invaluable observations echo the urgent call to understand and protect the world’s oceans. 
 
@@ -3825,7 +4361,7 @@ Whether it’s their first time or a routine part of their life, menstruation ha
 
 ## Drifting architects: Plankton, climate, and the race to understand our changing ocean
 
-date: 2025-06-08, from: United Nations, Climate Change
+date: 2025-06-08, from: United Nations, Economic Development
 
 They drift unseen, but everything depends on them. Plankton – the ocean’s lifeblood –&nbsp;regulate the climate, feed the seas, and shape life on Earth. Scientists along the French Riviera are in a race against time to unlock the mysteries of these tiny organisms before their decline reverberates across the planet. 
 
@@ -4144,6 +4680,18 @@ date: 2025-06-08, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/los-angeles-day-labourers-1.7559009?cmp=rss>
+
+---
+
+## Appeals court temporarily pauses order for Trump to return control of National Guard to California
+
+date: 2025-06-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7557899.1749605978!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/law-enforcement-members-stand-guard-during-protest-against-immigration-sweeps-in-downtown-l-a.JPG' alt='Members of law enforcement stand guard during a protest against federal immigration sweeps in downtown Los Angeles.' width='620' height='349' title='Members of law enforcement stand guard during a protest against federal immigration sweeps in downtown Los Angeles, California, U.S. June 10, 2025.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/la-protests-national-guard-california-1.7560206?cmp=rss>
 
 ---
 

@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-06-12 14:07:51
+updated: 2025-06-13 06:09:36
 ---
 
 # games
 
-(date: 2025-06-12 14:07:51)
+(date: 2025-06-13 06:09:36)
+
+---
+
+## The spiritual sequel to Coraline is getting a 3D release for Halloween
+
+date: 2025-06-13, updated: 2025-06-13, from: Polygon Website
+
+Coraline, the debut feature of the stop-motion studio Laika, was a modest hit in 2009, earning just over $75 million in the U.S.. But over the years, the macabre coming-of-age tale earned cult status, and when Fathom Events put it back in theaters last summer, it made another $33 million — a total that’s basically [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/606771/paranorman-release-2025-coraline-success>
+
+---
+
+## Switch 2 is the continuity candidate that might just win
+
+date: 2025-06-13, updated: 2025-06-13, from: Polygon Website
+
+Under the leadership of the late, great Satoru Iwata, Nintendo shunned the technology arms race of Sony, Microsoft, and the rest of the video game business, and pursued a series of wild experiments that worked out brilliantly (Wii, DS) more often than not (Wii U). Iwata’s final innovation, realized after his untimely death, was to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/606757/review>
+
+---
+
+## Where to find trial locations in Dune Awakening
+
+date: 2025-06-12, updated: 2025-06-12, from: Polygon Website
+
+None have mastered Arrakis as the Fremen did. To survive in Dune: Awakening, you’ll have follow their steps and learn their way by completing hidden trials.  In the Trials of Aql, you learn all Fremen deeply understoof Arrakis and how to thrive in its hostile environment. Accessing these precious sources of information requires risking your [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dune-awakening-guides/606703/trials-locations-all-where-to-find>
+
+---
+
+## All Stellar Blade outfits and how to unlock them
+
+date: 2025-06-12, updated: 2025-06-12, from: Polygon Website
+
+Eve’s outfits in Stellar Blade comprise a truly massive wardrobe. Following the release of the game’s complete edition, there are now more than 100 outfits in the game. You’re bound to stumble upon at least one outfit that’ll make you look stellar. You’ll start with one default outfit (two if you’re playing the deluxe or [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/606252/stellar-blade-outfits-list-all-unlock-how-to>
 
 ---
 

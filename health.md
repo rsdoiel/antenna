@@ -1,11 +1,23 @@
 ---
 title: health
-updated: 2025-06-12 14:07:55
+updated: 2025-06-13 06:09:40
 ---
 
 # health
 
-(date: 2025-06-12 14:07:55)
+(date: 2025-06-13 06:09:40)
+
+---
+
+## Editorial: Advances in tick-borne diseases
+
+date: 2025-06-13, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1630872>
 
 ---
 
@@ -126,6 +138,18 @@ BackgroundInfluenza A (Flu A) and Influenza B (Flu B) are major contributors to 
 <br> 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2025.1603369>
+
+---
+
+## Retraction: The two-component system CpxRA negatively regulates the locus of enterocyte effacement of enterohemorrhagic Escherichia coli involving σ32 and Lon protease
+
+date: 2025-06-12, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1639671>
 
 ---
 

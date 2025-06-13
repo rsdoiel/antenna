@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-06-12 14:07:49
+updated: 2025-06-13 06:09:33
 ---
 
 # science and technology
 
-(date: 2025-06-12 14:07:49)
+(date: 2025-06-13 06:09:33)
+
+---
+
+## Friday the 13th strikes for Barclays' corporate customers
+
+date: 2025-06-13, updated: 2025-06-13, from: The Register (UK I.T. News)
+
+<h4>Superstitions stoked by blackout of iPortal centralized platform when no maintenance was scheduled</h4> <p>Barclays Bank is wrestling with some digital gremlins affecting its corporate banking services this Friday the 13th of June – the final day of the working week for many of us, but perhaps not the poor techies beavering away to restore normal play.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/13/barclays_corporate_outage/>
+
+---
+
+## Danish department determined to dump Microsoft
+
+date: 2025-06-13, updated: 2025-06-13, from: The Register (UK I.T. News)
+
+<h4>Jutes revolt against Redmond: Minister for Digital Affairs aims the longboats away from Vinland</h4> <p><strong>Comment</strong>  The boss of Denmark&#39;s Ministry for Digitalization says her department will move away from Microsoft – starting with LibreOffice.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/13/danish_department_dump_microsoft/>
+
+---
+
+## UK unis cough up £10M on Java to keep Oracle off their backs
+
+date: 2025-06-13, updated: 2025-06-13, from: The Register (UK I.T. News)
+
+<h4>Deal includes &#39;waiver of historic fees&#39;</h4> <p>UK universities and colleges have signed a contract worth up to £9.86 million ($13.33 million) with Oracle to use its controversial Java SE Universal Subscription model, in exchange for a &#34;waiver of historic fees due for any institutions who have used Oracle Java since 2023.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/13/jisc_java_oracle/>
+
+---
+
+## Forget Vibe Coding, we're all about Vine Coding nowadays
+
+date: 2025-06-13, updated: 2025-06-13, from: The Register (UK I.T. News)
+
+<h4>More like FlAIme Of The Week</h4> <p><strong>Flame Of The Week</strong>  It&#39;s been a while since our last <a target="_blank" href="https://www.theregister.com/2018/10/24/flame_of_the_week/">Flame Of The Week</a>, but it appears that AI is generating some strong feelings among our beloved readership.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/13/forget_vibe_coding_were_all/>
+
+---
+
+## Slapped wrists for Financial Conduct Authority staff who emailed work data home
+
+date: 2025-06-13, updated: 2025-06-13, from: The Register (UK I.T. News)
+
+<h4>It was one of the offenders&#39; final warning</h4> <p>Four staffers at the UK&#39;s Financial Conduct Authority (FCA) were let off with warnings over separate cases involving the transmission of regulator data to their personal email accounts.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/13/fca_staff_data_breach/>
+
+---
+
+## User demanded a ‘wireless’ computer and was outraged when its battery died
+
+date: 2025-06-13, updated: 2025-06-13, from: The Register (UK I.T. News)
+
+<h4>Abusive manager had to be told there&#39;s no such thing as an atomic laptop</h4> <p><strong>On Call</strong>  By Friday morning, <i>Reg</i> readers’ batteries can sometimes be a little low, which is why we always use the day to offer a jolt of amusement in the form of On Call – the reader contributed column in which we celebrate the lows and lows of tech support.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/13/on_call/>
+
+---
+
+## UK dumps £2.5 billion into fusion pipe dream that's already cost millions
+
+date: 2025-06-13, updated: 2025-06-13, from: The Register (UK I.T. News)
+
+<h4>STEP sucked up £220 million in 2022, and it&#39;s still not apparent what that accomplished</h4> <p>The UK government has just allocated another £2.5 billion to an ambitious fusion energy project without any indication it&#39;s progressed much beyond the planning stages.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/13/uk_dumps_25_billion_into/>
+
+---
+
+## Chinese memory-maker YMTC sues US rival Micron for defamation instead of the usual patent breaches
+
+date: 2025-06-13, updated: 2025-06-13, from: The Register (UK I.T. News)
+
+<h4>Alleges dirty PR campaign to slur its tech</h4> <p>China’s Yangtze Memory Technologies has accused rival chipmaker Micron of defamation through a campaign to publish nasty stories and reports about it.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/13/ymtc_micron_defamation_lawsuit/>
+
+---
+
+## I'm just a Barbie Girl in a ChatGPT world
+
+date: 2025-06-13, updated: 2025-06-13, from: The Register (UK I.T. News)
+
+<h4>Mattel-OpenAI deal paves the way for an AI beach-off</h4> <p>Toy giant Mattel has signed a deal with OpenAI to bring the tech industry&#39;s buzziest technology to the very youngest generation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/13/mattel_openai_barbie/>
+
+---
+
+## Ransomware scum disrupted utility services with SimpleHelp attacks
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>Good news: The vendor patched the flaw in January. Bad news: Not everyone got the memo</h4> <p>Ransomware criminals infected a utility billing software providers&#39; customers, and in some cases disrupted services, after exploiting unpatched versions of SimpleHelp’s remote monitoring and management (RMM) tool, according to a Thursday CISA alert.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/cisa_simplehelp_flaw_exploit_warning/>
+
+---
+
+## Ease the seat back and watch some video in your car with next Apple CarPlay
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>Only while parked</h4> <p>Apple is enabling video playback on its CarPlay automotive operating system and has integrated it into iOS 26, as long as you&#39;re parked.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/apple_carplay_video/>
+
+---
+
+## NuSTAR Art + Coloring Pages
+
+date: 2025-06-12, from: NASA breaking news
+
+Art inspired by the NuSTAR Mission. A coloring page for NASA’s NuSTAR mission. Downloads NuSTAR Coloring Page – Spacecraft (PNG) Jun 12, 2025 PNG (187.75 KB) NuSTAR Coloring Page – Spacecraft (PDF) Jun 12, 2025 PDF (485.00 KB) Art inspired by the NuSTAR Mission. A coloring page for NASA’s NuSTAR mission. Downloads NuSTAR Coloring Page [&#8230;] 
+
+<br> 
+
+<https://science.nasa.gov/uncategorized/nustar-coloring-pages/>
+
+---
+
+## Google Cloud flexes as first to host Nvidia RTX PRO 6000 Server VMs
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>Baby got Blackwell GPUs</h4> <p>Google Cloud on Wednesday celebrated the debut of virtual machines incorporating Nvidia&#39;s latest Blackwell GPU technology, claiming to be the first cloud provider to sell this particular offering.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/google_cloud_nvidia_blackwell_vms/>
+
+---
+
+## US auditors beg Pentagon to pay attention to latest report about IT system flaws
+
+date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
+
+<h4>The DoD has ignored many past recommendations</h4> <p>US government auditors have been trying to whip the Pentagon&#39;s IT programs into shape for half a decade, and the latest report suggests it continues to be an uphill battle. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/12/pentagon_it_project_flaws_gao/>
 
 ---
 
@@ -21,11 +189,11 @@ date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
 
 ---
 
-## Global Cloud goes down, takes Cloudflare and its customers with it
+## Google Cloud goes down, takes Cloudflare and its customers with it
 
 date: 2025-06-12, updated: 2025-06-12, from: The Register (UK I.T. News)
 
-<h4>Big G said it was fixed, but acknowledged ongoing customer pain</h4> <p>Google Cloud went down hard on Thursday, and took Cloudflare and some of its customers with it.…</p> 
+<h4>Big G said it was fixed, but acknowledged ongoing customer pain</h4> <p><strong>UPDATED</strong>  Google Cloud went down hard on Thursday, and took Cloudflare and some of its customers with it.…</p> 
 
 <br> 
 
@@ -647,7 +815,7 @@ NASA’s Ames Research Center in Silicon Valley houses a unique laboratory: the 
 
 ## NASA to silence Voyager's social media accounts
 
-date: 2025-06-11, updated: 2025-06-11, from: The Register (UK I.T. News)
+date: 2025-06-11, updated: 2025-06-13, from: The Register (UK I.T. News)
 
 <h4>All about consolidation as mission mouthpieces archived in pursuit of &#39;improving the experience&#39;</h4> <p>NASA is shutting down many of its social media accounts, including those dedicated to the Voyager mission and the Mars Curiosity and Perseverance rovers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 

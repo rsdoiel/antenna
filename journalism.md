@@ -1,11 +1,49 @@
 ---
 title: journalism
-updated: 2025-06-12 14:07:52
+updated: 2025-06-13 06:09:37
 ---
 
 # journalism
 
-(date: 2025-06-12 14:07:52)
+(date: 2025-06-13 06:09:37)
+
+---
+
+## ‘This shouldn’t be happening’: Students react to troops, ICE raids in LA
+
+date: 2025-06-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+While most Bruins studied for finals, one first-year engineering student said they spent the week begging their father not to go to work. 
+The student &#8211; who was granted anonymity due to their fear of retaliation from the federal government &#8211; said they did not want their father to attend work after learning that U.S. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/12/this-shouldnt-be-happening-students-react-to-troops-ice-raids-in-la/>
+
+---
+
+## North Westwood Neighborhood Council recap – June 4
+
+date: 2025-06-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+The North Westwood Neighborhood Council heard updates from public officials in its final term meeting June 4. 
+The council, which represents Westwood to the Los Angeles City Council, meets on the first Wednesday of most months in UCLA&#8217;s Weyburn Commons. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/12/north-westwood-neighborhood-council-recap-june-4/>
+
+---
+
+## 6 Ways College Communities Can Build Financial Wellbeing in 2025
+
+date: 2025-06-12, from: The Sundail (CSUN Student Newspaper)
+
+Photo by Stanley Morales on Pexels In 2025, financial wellbeing is about much more than budgeting; it is about supporting students and staff to handle complex economic realities with confidence.... 
+
+<br> 
+
+<https://sundial.csun.edu/194404/sundialbrandstudio/sundial-marketplace/6-ways-college-communities-can-build-financial-wellbeing-in-2025/>
 
 ---
 

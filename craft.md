@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-06-12 14:07:56
+updated: 2025-06-13 06:09:42
 ---
 
 # craft
 
-(date: 2025-06-12 14:07:56)
+(date: 2025-06-13 06:09:42)
+
+---
+
+## Make a Table or Stool – Construction and Design
+
+date: 2025-06-13, from: Lost Arg Press blog
+
+The following is excerpted from “The Essential Woodworker,” by Robert Wearing. In our opinion, “The Essential Woodworker” is one of the best books on hand-tool usage written in the post-Charles Hayward era. Wearing was classically trained in England as a woodworker and embraced both power and hand tools in his shop and in his teaching.... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/06/13/make-a-table-or-stool-construction-and-design/>
 
 ---
 

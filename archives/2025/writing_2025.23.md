@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2025-06-12 14:07:51
+updated: 2025-06-13 06:09:36
 ---
 
 # writing
 
-(date: 2025-06-12 14:07:51)
+(date: 2025-06-13 06:09:36)
+
+---
+
+## The Country Under Heaven by Frederic S. Durbin: Review by Paul Di Filippo
+
+date: 2025-06-13, from: Locus Magazine
+
+<p><strong>The Country Under Heaven</strong>, Frederic S. Durbin (Melville House 978-1685891695, trade paperback, 336pp, $19.99) May 2025.</p>
+<p>Surely the gold standard for supernatural tales involving a picaresque wanderer was set by Manly Wade Wellman’s Silver John cycle, recently collected in a handsome two-volume set by Haffner Press (<b>The Complete John the Balladeer</b>). But I can affirm that Frederic Durbin’s new novel, his fourth, climbs high to that same  <a href="https://locusmag.com/2025/06/the-country-under-heaven-by-frederic-s-durbin-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/the-country-under-heaven-by-frederic-s-durbin-review-by-paul-di-filippo/>
 
 ---
 
