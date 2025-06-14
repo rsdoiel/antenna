@@ -1,11 +1,11 @@
 ---
 title: planet
-updated: 2025-06-14 06:07:28
+updated: 2025-06-14 14:08:45
 ---
 
 # planet
 
-(date: 2025-06-14 06:07:28)
+(date: 2025-06-14 14:08:45)
 
 ---
 
@@ -423,7 +423,7 @@ As diplomatic efforts continue to end fighting in eastern Democratic Republic of
 
 ## Shaping a better world at Expo 2025 in Japan
 
-date: 2025-06-13, from: United Nations, Top Stories
+date: 2025-06-13, from: United Nations, UN Affairs
 
 How can we build a fairer, more peaceful world while safeguarding the planet? That’s the powerful question at the heart of the United Nations Pavilion at Expo 2025 in Osaka, Japan. 
 

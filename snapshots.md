@@ -1,11 +1,11 @@
 ---
 title: snapshots
-updated: 2025-06-14 06:07:40
+updated: 2025-06-14 14:08:57
 ---
 
 # snapshots
 
-(date: 2025-06-14 06:07:40)
+(date: 2025-06-14 14:08:57)
 
 ---
 
@@ -2266,7 +2266,7 @@ Fair use is more than an "affirmative defense" that a party in default waives. T
 
 date: 2025-06-10, from: Chris Coyier blog
 
-Just a high five to McSweeney&#8217;s for the month-by-month documentation of the horrible crap Trump does. Just a paragraph reminder with good links to confirm. I try to keep my own little mental list of things that horrify me. Not to slather myself in, as I don&#8217;t have the mental health spoons to live like [&#8230;] 
+Just a high five to McSweeney&#8217;s for the month-by-month documentation of the horrible crap Trump does. Just a paragraph reminder with good links to confirm. UPDATE: McSweeney&#8217;s took it down? Not a great look. I wonder what the story is. I hope it&#8217;s not a threat. There is an Internet Archive link. I try to [&#8230;] 
 
 <br> 
 

@@ -1,17 +1,17 @@
 ---
 title: columns
-updated: 2025-06-14 06:07:32
+updated: 2025-06-14 14:08:50
 ---
 
 # columns
 
-(date: 2025-06-14 06:07:32)
+(date: 2025-06-14 14:08:50)
 
 ---
 
 ## The NYT Goes ‘Reefer Madness’ on ChatGPT
 
-date: 2025-06-13, updated: 2025-06-13, from: Daring Fireball
+date: 2025-06-13, updated: 2025-06-14, from: Daring Fireball
 
  
 
@@ -394,12 +394,13 @@ date: 2025-06-12, updated: 2025-06-12, from: Daring Fireball
 
 ## Airlines Secretly Selling Passenger Data to the Government
 
-date: 2025-06-12, updated: 2025-06-12, from: Bruce Schneier blog
+date: 2025-06-12, updated: 2025-06-14, from: Bruce Schneier blog
 
 <p>This is <a href="https://www.404media.co/airlines-dont-want-you-to-know-they-sold-your-flight-data-to-dhs/">news</a>:</p>
 <blockquote><p>A data broker owned by the country&#8217;s major airlines, including Delta, American Airlines, and United, collected U.S. travellers&#8217; domestic flight records, sold access to them to Customs and Border Protection (CBP), and then as part of the contract told CBP to not reveal where the data came from, according to internal CBP documents obtained by 404 Media. The data includes passenger names, their full flight itineraries, and financial details.</p></blockquote>
 <p>Another <a href="https://www.jalopnik.com/1882775/airlines-sold-you-out-to-feds-11025/">article</a>.</p>
- 
+<p>EDITED TO ADD (6/14): Ed Hausbrook <a href="https://papersplease.org/wp/2025/05/08/arc-sells-airline-ticket-records-to-ice-and-others/">reported this</a> a month and a half ago.</p>
+... 
 
 <br> 
 
@@ -958,7 +959,7 @@ Banksy woz here Bristol. Quote of the Day ”Time may be a great healer, but it&
 
 ## Joanna Stern With Craig Federighi and Greg Joswiak: ‘Apple Executives Defend Apple Intelligence, Siri and AI Strategy’
 
-date: 2025-06-10, updated: 2025-06-12, from: Daring Fireball
+date: 2025-06-10, updated: 2025-06-14, from: Daring Fireball
 
  
 

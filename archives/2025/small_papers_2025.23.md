@@ -1,11 +1,11 @@
 ---
 title: small papers
-updated: 2025-06-14 06:07:38
+updated: 2025-06-14 14:08:56
 ---
 
 # small papers
 
-(date: 2025-06-14 06:07:38)
+(date: 2025-06-14 14:08:56)
 
 ---
 
@@ -28,7 +28,7 @@ date: 2025-06-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-06-13, from: Long Beach Post
 
-<figure><img width="1024" height="557" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC-1024x557.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC-1024x557.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC-300x163.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC-768x418.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC-400x218.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="557" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC-1024x557.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC-1024x557.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC-300x163.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC-768x418.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC-400x218.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Students, nonprofit leaders and medical providers say a wide swath of Long Beach has gone into hiding amid Trump’s crackdown.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/fear-ice-raid-long-beach-immigrants-hiding">Fear of ICE is driving local immigrants away from school, work, even the grocery store</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
