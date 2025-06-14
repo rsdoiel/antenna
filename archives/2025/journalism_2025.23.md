@@ -1,11 +1,24 @@
 ---
 title: journalism
-updated: 2025-06-13 14:07:10
+updated: 2025-06-14 06:07:34
 ---
 
 # journalism
 
-(date: 2025-06-13 14:07:10)
+(date: 2025-06-14 06:07:34)
+
+---
+
+## Six people attempt to steal from occupied off-campus residence Thursday morning
+
+date: 2025-06-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Six people attempted to steal items from an occupied off-campus residence around 4 a.m Thursday.&#160;
+Four men and two women entered the residence through an unlocked door, according to a Clery Timely Warning crime alert. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/13/six-people-attempt-to-steal-from-occupied-off-campus-residence-thursday-morning/>
 
 ---
 
@@ -442,4 +455,73 @@ date: 2025-06-08, from: The Canyon News (COC Student Newspaper)
 <br> 
 
 <https://canyonsnews.com/beach-bus/>
+
+---
+
+## Graduation season rolls on as Castaic Coyotes celebrate their special moment
+
+date: 2025-06-07, from: The Canyon News (COC Student Newspaper)
+
+<p>Here in Santa Clarita, it’s the season of graduation. With applause of&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/graduation-season/">Graduation season rolls on as Castaic Coyotes celebrate their special moment</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/graduation-season/>
+
+---
+
+## Student parents juggle classes, child care in pursuit of degrees
+
+date: 2025-06-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Each year, thousands of graduates receive their degrees at UCLA. In addition to being students, some graduates hold another role &#8211; parent.
+The American Council on Education defines student parents as students enrolled in a degree or certificate program who have at least one child or dependent. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/07/student-parents-juggle-classes-child-care-in-pursuit-of-degrees/>
+
+---
+
+## Adult Reentry Alliance offers opportunities for adults returning to college
+
+date: 2025-06-07, from: The Canyon News (COC Student Newspaper)
+
+<p>There are many reasons adults decide to return to college, including the&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/adult-reentry/">Adult Reentry Alliance offers opportunities for adults returning to college</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/adult-reentry/>
+
+---
+
+## COC students bracing for finals look for ways to preserve mental health
+
+date: 2025-06-07, from: The Canyon News (COC Student Newspaper)
+
+<p>As we spring into summer, students are faced with one last academic&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/mental-health-awareness/">COC students bracing for finals look for ways to preserve mental health</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/mental-health-awareness/>
+
+---
+
+## College of the Canyons graduation: final goodbyes and reflections
+
+date: 2025-06-07, from: The Canyon News (COC Student Newspaper)
+
+<p>Graduation is coming up. Students will walk the stage at Cougar Stadium&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/coc-graduation/">College of the Canyons graduation: final goodbyes and reflections</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/coc-graduation/>
 

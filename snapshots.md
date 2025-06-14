@@ -1,11 +1,21 @@
 ---
 title: snapshots
-updated: 2025-06-13 14:07:14
+updated: 2025-06-14 06:07:40
 ---
 
 # snapshots
 
-(date: 2025-06-13 14:07:14)
+(date: 2025-06-14 06:07:40)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-13, from: Dave Winer's linkblog)
+
+This piece is good and only superficially about Obama. 
+
+<br> 
+
+<https://www.nytimes.com/2025/06/13/opinion/obama-save-america-trump.html>
 
 ---
 
@@ -432,7 +442,7 @@ date: 2025-06-13, updated: 2025-06-13, from: Simon Willison’s Weblog
 
 date: 2025-06-13, from: Prof. Scott Galloway, No Mercy/No Malace blog
 
-<p>Instead of deploying a multinational force to Gaza or tanks to Ukraine … let’s have our troops descend on the Home Depot in Westlake, California. Let’s cosplay authoritarians so people look away from the speedballing wealth transfer from young to old, rich to poor, future to the past — the tax bill. Throw in tariffs [&#8230;]</p>
+<p>Instead of deploying a multinational force to Gaza or tanks to Ukraine … let’s have our troops descend on the Home Depot in Westlake, California. Let’s cosplay authoritarians so people look away from the speedballing wealth transfer from young to old, poor to rich, future to the past — the tax bill. Throw in tariffs [&#8230;]</p>
 <p>The post <a href="https://www.profgalloway.com/stream-on-25/">Stream On</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
  
 
@@ -3223,4 +3233,353 @@ WordPress veterans launch FAIR project to tackle security and control concerns.
 <br> 
 
 <https://www.fastcompany.com/91347003/wordpress-veterans-launch-fair-project-to-tackle-security-and-control-concerns>
+
+---
+
+## Comma v0.1 1T and 2T - 7B LLMs trained on openly licensed text
+
+date: 2025-06-07, updated: 2025-06-07, from: Simon Willison’s Weblog
+
+<p>It's been a long time coming, but we finally have some promising LLMs to try out which are trained entirely on openly licensed text!</p>
+<p>EleutherAI released <a href="https://arxiv.org/abs/2101.00027">the Pile</a> four and a half years ago: "an 800GB dataset of diverse text for language modeling". It's been used as the basis for many LLMs since then, but much of the data in it came from <a href="https://commoncrawl.org/">Common Crawl</a> - a crawl of the public web which mostly ignored the licenses of the data it was collecting.</p>
+<p><a href="https://huggingface.co/blog/stellaathena/common-pile">The Common Pile v0.1</a> is EleutherAI's successor to the original Pile, in collaboration with a large group of other organizations with whom they have been "meticulously curating a 8 TB corpus of openly licensed and public domain text for training large language models".</p>
+<p>The dataset is exciting, but on top of that they've released two new LLMs that have been trained on it: Comma v0.1 1T and 2T, both with 7 billion parameters, the first trained on 1 trillion tokens and the second on 2 trillion tokens.</p>
+<p>These are available on Hugging Face as <a href="https://huggingface.co/common-pile/comma-v0.1-1t">common-pile/comma-v0.1-1t</a> and <a href="https://huggingface.co/common-pile/comma-v0.1-2t">common-pile/comma-v0.1-2t</a>.</p>
+<p>EleutherAI claim that these new models perform "comparably to leading models trained in the same regime on unlicensed data". I decided to try them out myself.</p>
+<p>The models are currently only available as <code>.safetensors</code> files, which I've found difficult to run on macOS in the past. I decided to see if I could convert them to <a href="https://github.com/ml-explore/mlx">MLX</a> format which I know how to run on my Mac.</p>
+<p>MLX is still a very new format, but Claude 4 Sonnet has a training cutoff date of March 2025 so I crossed my fingers and hoped it would be able to help me out. <a href="https://claude.ai/share/379951f0-4fb2-4b70-b6f9-f8a3afae1e33">It did exactly that!</a> I ran the following command to convert the 2T model to run using MLX:</p>
+<div class="highlight highlight-source-shell"><pre>uv run --python 3.12 \
+  --with mlx-lm \
+  python -m mlx_lm convert \
+    --hf-path common-pile/comma-v0.1-2t \
+    --mlx-path ./comma-v0.1-2t-mlx</pre></div>
+<p>I uploaded the converted model to Hugging Face as <a href="https://huggingface.co/simonw/comma-v0.1-2t-mlx">simonw/comma-v0.1-2t-mlx</a>.</p>
+<p>Now that it's on the Hub here's how to try it out (using <code>uv run</code>):</p>
+<div class="highlight highlight-source-shell"><pre>uv run --python 3.12 \
+  --with mlx-lm \
+  mlx_lm.generate \
+    --model simonw/comma-v0.1-2t-mlx \
+    --prompt <span class="pl-s"><span class="pl-pds">'</span>Facts about pelicans:<span class="pl-pds">'</span></span></pre></div>
+<p>The first time you run this it will download 13GB of files to <code>~/.cache/huggingface/hub/models--simonw--comma-v0.1-2t-mlx</code>.</p>
+<p>Here's what I got back:</p>
+<blockquote>
+<p><code>1. They are the largest of the water birds. 2. They are found in all parts of the world. 3. They are very good swimmers. 4. They are very good divers. 5. They are very good flyers. 6. They are very good hunters. 7. They are very good eaters. 8. They are very good parents. 9. They are very good friends. 10.</code></p>
+</blockquote>
+<p>The big limitation of this model right now is that it's a raw base model - it hasn't been instruction-tuned or set up for chat.</p>
+<p>This means you have to prefix-prompt it, like in the GPT-3 days. You need to give it a sentence for it to complete.</p>
+<p>This makes it a lot harder to evaluate than the instruction-tuned models that I've become used to over the past few years!</p>
+<p>I'm hoping someone releases a chat-tuned version of this model soon. The challenge there will be keeping to the openly licensed training data, since most of the fine-tuning datasets out there for this are themselves derived from models that were trained on unlicensed data.</p>
+
+<p>Sadly it didn't do too well on my <a href="https://simonwillison.net/2025/Jun/6/six-months-in-llms/#ai-worlds-fair-2025-02.jpeg">pelican on a bicycle</a> benchmark:</p>
+<div class="highlight highlight-source-shell"><pre>uv run --python 3.12 \
+  --with mlx-lm \
+  mlx_lm.generate \
+    --model simonw/comma-v0.1-2t-mlx \
+    --prompt <span class="pl-s"><span class="pl-pds">'</span>An SVG of a pelican riding a bicycle: &lt;svg<span class="pl-pds">'</span></span> --max-tokens 2000</pre></div>
+<p>The output started like this and looped indefinitely:</p>
+<blockquote>
+<p><code>xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 100 100"&gt;&lt;path d="M0 0h100v100H0z" fill="none"/&gt;&lt;path d="M0 0h100v100H0z" fill="none"/&gt;&lt;path d="M0 0h100v100H0z" fill="none"/&gt;&lt;path d="M0 0h100v100H0z" fill="none"/&gt;&lt;path d="M0 0h100v100H0z" fill="none"/&gt;&lt;path d="M0 0h100v100H0z" fill="none"/&gt;&lt;path d="M0 0h100v100H0z" fill="none"/&gt;&lt;path d="M0 0h100v100H0z" fill="none"/&gt;...</code></p>
+</blockquote>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/training-data">training-data</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/7/comma/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
+
+White House aide Stephen Miller calls LA protests an &#39;insurrection.&#39; 
+
+<br> 
+
+<https://www.reuters.com/world/us/white-house-aide-calls-los-angeles-anti-ice-protests-an-insurrection-2025-06-07/>
+
+---
+
+## A knockout blow for LLMs?
+
+date: 2025-06-07, from: Gary Marcus blog
+
+LLM &#8220;reasoning&#8221; is so cooked they turned my name into a verb 
+
+<br> 
+
+<https://garymarcus.substack.com/p/a-knockout-blow-for-llms>
+
+---
+
+## Quoting Lila Shapiro
+
+date: 2025-06-07, updated: 2025-06-07, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.vulture.com/article/generative-ai-hollywood-movies-tv.html"><p>For [Natasha] Lyonne, the draw of AI isn’t speed or scale — it’s independence. “I’m not trying to run a tech company,” she told me. “It’s more that I’m a filmmaker who doesn’t want the tech people deciding the future of the medium.” She imagines a future in which indie filmmakers can use AI tools to reclaim authorship from studios and avoid the compromises that come with chasing funding in a broken system.</p>
+<p>“We need some sort of Dogme 95 for the AI era,” Lyonne said, referring to the stripped-down 1990s filmmaking movement started by Lars von Trier and Thomas Vinterberg, which sought to liberate cinema from an overreliance on technology. “If we could just wrangle this artist-first idea before it becomes industry standard to not do it that way, that’s something I would be interested in working on. Almost like we are not going to go quietly into the night.”</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.vulture.com/article/generative-ai-hollywood-movies-tv.html">Lila Shapiro</a>, Everyone Is Already Using AI (And Hiding It), New York Magazine</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/film">film</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/7/lila-shapiro/#atom-everything>
+
+---
+
+## Bill Atkinson, RIP
+
+date: 2025-06-07, from: Michael Tsai
+
+Facebook (Hacker News): We regret to write that our beloved husband, father, and stepfather Bill Atkinson passed away on the night of Thursday, June 5th, 2025, due to pancreatic cancer. He was at home in Portola Valley in his bed, surrounded by family. We will miss him greatly, and he will be missed by many [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/07/bill-atkinson-rip/>
+
+---
+
+## WWDC 2025 Preview
+
+date: 2025-06-07, from: Michael Tsai
+
+Juli Clover: The 2025 Worldwide Developers Conference is just a few days away, with the keynote event set to take place on Monday, June 9. Ahead of Apple&#8217;s big software debut, we&#8217;ve rounded up all of the rumors that we&#8217;ve heard so far about iOS 26, macOS 26, and Apple&#8217;s other updates. Apple: Today, Apple [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/07/wwdc-2025-preview/>
+
+---
+
+## Clip Rejected via Notarization
+
+date: 2025-06-07, from: Michael Tsai
+
+Riley Testut: The latest Clip update has been stuck in Notarization for 3 days now. I swear if Apple announces a clipboard manager at WWDC&#8230;[&#8230;]Update: it was rejected because the keyboard extension doesn&#8217;t do anything if Full Access isn&#8217;t enabled &#x1F644;Even though the previous submissions also didn&#8217;t do anything without Full Access enabled&#8230; Recall that [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/07/clip-rejected-via-notarization/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
+
+Why vibecoding your own apps is so amazing—and exasperating. 
+
+<br> 
+
+<https://www.fastcompany.com/91345791/vibecoding-replit-debugging-claude>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
+
+Bill Atkinson Dies From Cancer at 74. 
+
+<br> 
+
+<https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
+
+Inside OpenAI’s Plan to Embed ChatGPT Into College Students’ Lives. 
+
+<br> 
+
+<https://www.nytimes.com/2025/06/07/technology/chatgpt-openai-colleges.html?unlocked_article_code=1.NE8.wNtI.p_kahSgqHwFV&smid=url-share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
+
+Why Cuomo&#39;s sexual harassment accusations are playing little role in the NYC mayoral race. 
+
+<br> 
+
+<https://www.nydailynews.com/2025/06/07/cuomo-sexual-harassment-accusations-role-nyc-mayoral-race/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
+
+How political cartoonists are bringing AI into their work. 
+
+<br> 
+
+<https://www.niemanlab.org/2025/06/i-dont-want-to-outsource-my-brain-how-political-cartoonists-are-bringing-ai-into-their-work/>
+
+---
+
+## On finding time to write (this is not productivity advice)
+
+date: 2025-06-07, from: Blog by Fabrizio Ferri-Benedetti
+
+<p>A colleague recently asked how I find time to blog about technical writing after hours. The answer is surprisingly simple: I prioritize writing above other things. I could have posted that exchange on social media and called it a day, but there’s more nuance to that simple reply. Let me elaborate, it might be useful.</p> 
+
+<br> 
+
+<https://passo.uno/how-i-write-about-tech-writing/>
+
+---
+
+## zpoweralertd: A poweralertd Drop-In Replacement Written in Zig
+
+date: 2025-06-07, from: mrusme blog
+
+`zpoweralertd` is a lightweight, drop-in replacement for `poweralertd`,
+written in Zig and designed to listen to _UPower_ events and send desktop
+notifications over _D-Bus_. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/zpoweralertd-a-poweralertd-drop-in-replacement-written-in-zig/>
+
+---
+
+## Scientists Just Discovered a Lost Ancient Culture That Vanished
+
+date: 2025-06-07, from: 404 Media Group
+
+Plus: a surprising case of galactic eschatology, nematode cheerleading pyramids, ancient makeup kits, and more. 
+
+<br> 
+
+<https://www.404media.co/scientists-just-discovered-a-lost-ancient-culture-that-vanished/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
+
+Apple is on defense at WWDC 2025. 
+
+<br> 
+
+<https://www.theverge.com/apple/681739/wwdc-2025-epic-trial-apple-intelligence>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-07, from: Feed for Alt USDS)
+
+Insider threat. That's what DOGE is. And now the Chief Insider Threat is on the outs and he's even more unpredictable.
+
+Today's Washington Post: "White House security staff warned Musk’s Starlink is a security risk"
+
+archive.is/RDitU
+https://archive.is/RDitU 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lqzet74kwk2d>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
+
+Book Review: ‘What Is Wrong With Men,’ written by a woman, of course. 
+
+<br> 
+
+<https://www.nytimes.com/2025/06/01/books/review/what-is-wrong-with-men-jessa-crispin.html?smid=tw-share>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-06-07, from: Tomosino's Mastodon feed)
+
+<p>I was just thinking about keyboard shortcuts that I used to use all the time and how many have fallen out of favor. Ctrl-insert / Shift-insert for copy/paste. Ctrl-Break...</p><p>You remember more?</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114641815967681823>
+
+---
+
+## Inventing the Renaissance: Ada Palmer
+
+date: 2025-06-07, from: Paul Krugman
+
+A fun conversation about history 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/inventing-the-renaissance-ada-palmer>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
+
+&quot;It&#39;s really hard to fathom that the guy making my pizza for 25 years is a gangster and a terrorist, and the person who shows up in an unmarked car wearing a mask and body armor comes to take him away is somehow the good guy,&quot; said Simon. 
+
+<br> 
+
+<https://www.wnep.com/article/news/local/wayne-county/its-just-made-to-instill-fear-ice-detains-3-restaurant-employees-in-wayne-county-honesdale/523-e463cdf3-4464-44f3-89ae-08a499f77768>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-07, from: Feed for Alt USDS)
+
+This isn't just billionaire beef. It’s a sign of deeper narrative shifts in how we define freedom, innovation, and leadership.
+
+When the usual voices fracture, new ones rise. That’s when misinformation strikes hardest.
+
+Read the latest from We the Builders 👇
+
+🔗 bit.ly/43RdAvK 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lqygles2ps2u>
+
+---
+
+## I dream of roombas - thousands of automated AI robots that autonomously maintain codebases
+
+date: 2025-06-07, from: Geoffrey Hunntley's blog
+
+<p>Just yesterday morning, I was writing a conference talk on best practices for maintaining the LLM context window, which was quite detailed. It contained the then best practices from the two blog posts below.</p><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://ghuntley.com/gutter/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">autoregressive queens of failure</div><div class="kg-bookmark-description">Have you ever had your AI coding assistant suggest something so off-base</div></div></a></figure> 
+
+<br> 
+
+<https://ghuntley.com/ktlo/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
+
+Agents Use Military-Style Force Against Protesters at L.A. Immigration Raid. 
+
+<br> 
+
+<https://www.nytimes.com/2025/06/06/us/los-angeles-immigration-raid.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
+
+Federal immigration officials detained an 11th-grade New York City student while he was at an asylum hearing earlier this week, the city’s schools chancellor said Friday. 
+
+<br> 
+
+<https://gothamist.com/news/ice-detained-queens-11th-grader-at-his-immigration-hearing-officials-say>
+
+---
+
+## Rethinking REST
+
+date: 2025-06-07, from: Robert's Ramblings
+
+I am re-thinking my reliance on REST's implementation of the CRUD abstraction in favor of the simpler
+read write file abstraction in my web application. This can be accomplished in SQL easily. This post
+covers an example of doing this in SQLite3 while also implementing JSON object versioning.
+
+Coverted are implenting the write abstraction using an upsert operation based on `insert` and SQLite3's
+`on conflict` clause. The object versioning is implemented using a simple trigger on the JSON column.
+The trigger maintains the version number and updated timestamp.
+ 
+
+<br> 
+
+<https://rsdoiel.github.io/blog/2025/06/07/Rethinking-REST.html>
 

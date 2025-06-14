@@ -1,11 +1,57 @@
 ---
 title: columns
-updated: 2025-06-13 14:07:08
+updated: 2025-06-14 06:07:32
 ---
 
 # columns
 
-(date: 2025-06-13 14:07:08)
+(date: 2025-06-14 06:07:32)
+
+---
+
+## The NYT Goes ‘Reefer Madness’ on ChatGPT
+
+date: 2025-06-13, updated: 2025-06-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-13, from: Miguel de Icaza Mastondon feed)
+
+<p>This session has a plot twist at the end that qualifies as a cinematic masterpiece of the year:</p><p><a href="https://developer.apple.com/videos/play/wwdc2025/308" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">developer.apple.com/videos/pla</span><span class="invisible">y/wwdc2025/308</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114678469830984007>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-13, from: Miguel de Icaza Mastondon feed)
+
+<p>That WWDC talk on using performance with Instruments is just the excuse I needed.</p><p>It is incredible.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114678275165276361>
+
+---
+
+## Friday Squid Blogging: Stubby Squid
+
+date: 2025-06-13, updated: 2025-06-04, from: Bruce Schneier blog
+
+<p><a href="https://www.discoverwildlife.com/animal-facts/marine-animals/stubby-squid-vancouver-island">Video</a> of the stubby squid (<i>Rossia pacifica</i>) from offshore Vancouver Island.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-stubby-squid.html>
 
 ---
 
@@ -27,7 +73,7 @@ date: 2025-06-13, from: Heather Cox Richardson blog
 
 date: 2025-06-13, from: Doc Searls (at Harvard), New Old Blog
 
-Paper shavings. I just learned by Ed Cone that Greensboro, where I lived (and went to college) from &#39;65 to &#39;69, is maybe, sort of, turning into an aerospace place. (He points here.) More importantly, he offhandedly refers to the &#34;rah rah local media,&#34; which presumably includes the News &#38; Record, which was the News [&#8230;] 
+Kwaaiday the 13th. If you&#39;re curious about personal AI (and you should be, especially of the open source kind), you might  like to sit in on a meeting of folks volunteering toward making it happen, Kwaai has its weekly meeting going on right now at the Zoom link atop its home page. See some of [&#8230;] 
 
 <br> 
 
@@ -253,7 +299,7 @@ date: 2025-06-12, updated: 2025-06-12, from: Daring Fireball
 
 ## ‘Tested’ on VisionOS 26 and Behind the Scenes at the Theater Immersive Broadcast of The Talk Show Live From WWDC
 
-date: 2025-06-12, updated: 2025-06-12, from: Daring Fireball
+date: 2025-06-12, updated: 2025-06-14, from: Daring Fireball
 
  
 
@@ -1375,9 +1421,9 @@ Just some facts. No interpretations. This blog post got nine reads by the end of
 
 ---
 
-## New Way to Track Covertly Android Users
+## New Way to Covertly Track Android Users
 
-date: 2025-06-09, updated: 2025-06-13, from: Bruce Schneier blog
+date: 2025-06-09, updated: 2025-06-14, from: Bruce Schneier blog
 
 <p>Researchers have <a href="https://localmess.github.io/">discovered</a> a new way to covertly track Android users. Both Meta and Yandex were using it, but have suddenly stopped now that they have been caught.</p>
 <p>The <a href="https://arstechnica.com/security/2025/06/meta-and-yandex-are-de-anonymizing-android-users-web-browsing-identifiers/">details</a> are interesting, and worth reading in detail:</p>
@@ -1694,4 +1740,266 @@ In April, John Phelan, the U.S.
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/june-7-2025>
+
+---
+
+## Bill Atkinson Dies From Cancer at 74
+
+date: 2025-06-07, updated: 2025-06-08, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.facebook.com/story.php?story_fbid=10238073579963378&id=1378467145&_rdr>
+
+---
+
+## Swift 6 Productivity in the Sudden Age of LLM-Assisted Programming
+
+date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://mister.computer/@kyle/114608923901892223>
+
+---
+
+## Thomas Ptacek: ‘My AI Skeptic Friends Are All Nuts’
+
+date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://fly.io/blog/youre-all-nuts/?ueid=4b93173967d7dc762529a10418e85007>
+
+---
+
+## June 6, 2025
+
+date: 2025-06-07, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165428163/d6436601c0b220291f83b70f527a0282.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165428163/d6436601c0b220291f83b70f527a0282.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-6-2025-553>
+
+---
+
+## A Long Lost Never-Published DF Post From 2014
+
+date: 2025-06-07, updated: 2025-06-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/linked/2014/06/01/lefsetz>
+
+---
+
+## You Can Recharge Apple’s MagSafe Battery Pack Without a Lightning Cable
+
+date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/linked/2025/06/04/apple-iphone-air-battery-case-or-pack>
+
+---
+
+## Turns Out, Since 2023, You Can Use WhatsApp Across Multiple Phones
+
+date: 2025-06-07, updated: 2025-06-08, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://blog.whatsapp.com/one-whatsapp-account-now-across-multiple-phones>
+
+---
+
+##  Bernini’s Ratto di Proserpina 
+
+date: 2025-06-07, updated: 2025-06-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/berninis-ratto-di-proserpina>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-07, from: Dave Winer's Scripting News)
+
+I'm looking for bloggers who cover the community around the <a href="https://fediforum.org/">FediForum conference</a>. I want to add them to my blogroll, which does a pretty good job of keeping me current with developments. 
+
+<br> 
+
+<http://scripting.com/2025/06/07.html#a163739>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/01/26/cartoonChicken.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I was moved by this <a href="https://www.scientificamerican.com/article/inside-the-secret-meeting-where-mathematicians-struggled-to-outsmart-ai/">Scientific American piece</a> on mathematicians studying the limits of ChatGPT-like systems doing mathematics and basically not finding any. Mathematical proofs creative things, not algorithmic. That has not been my experience with ChatGPT and creating software. I find that when I want to talk about software I'm working on, it understands what I'm saying, but I've never had it come up with an original idea on its own. A human who captivated my attention as it does, and who I spent as much time with as I do with ChatGPT would have stimulated <i>some</i> original ideas by now. If I talk with a friend for even a few minutes there will be at least one <a href="https://daytona.scripting.com/search?q=aha">aha</a> moment. 
+
+<br> 
+
+<http://scripting.com/2025/06/07.html#a162715>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-07, from: Dave Winer's Scripting News)
+
+Stuff I've <a href="https://daytona.scripting.com/search?q=%22julia%20child%22">written</a> about Julia Child. Came up in a conversation about <a href="https://daytona.scripting.com/search?q=%22Jerry%20Garcia%22">Jerry Garcia</a> and bloggers before there was blogging. 
+
+<br> 
+
+<http://scripting.com/2025/06/07.html#a162415>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/07/02/validRss.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Why I <a href="http://scripting.com/2025/06/04.html#a153938">want</a> a new feed validator. I am doing new things with feeds. If I do a validator, it will tell you if a feed will work with what I'm doing. I want to boot up a new layer, build on RSS, the way that not all TCP messages are HTTP (analogously), and not all XML is RSS. The differences will be minimal, and backward compatible. <a href="http://scripting.com/rss.xml">Scripting News</a> will work very well with it, so there will be a solid example to crib from. 
+
+<br> 
+
+<http://scripting.com/2025/06/07.html#a145219>
+
+---
+
+## zpoweralertd: A poweralertd Drop-In Replacement Written in Zig
+
+date: 2025-06-07, from: mrusme blog
+
+`zpoweralertd` is a lightweight, drop-in replacement for `poweralertd`,
+written in Zig and designed to listen to _UPower_ events and send desktop
+notifications over _D-Bus_. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/zpoweralertd-a-poweralertd-drop-in-replacement-written-in-zig/>
+
+---
+
+## Saturday
+
+date: 2025-06-07, from: Doc Searls (at Harvard), New Old Blog
+
+Blogging will be light. Big Granfalloon day. Everything, just not all at once. Ted Gioia gives ten warning signs that the &#34;knowledge system&#34; is collapsing. I&#39;m in that system, as are all serious journalists and academics (I work in both worlds). So are all technologists. (I&#39;m kinda that too.) What will replace it? Don&#39;t be [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/06/07/saturday/>
+
+---
+
+## AI-free writing
+
+date: 2025-06-07, from: Anton Zhiyanov blog
+
+I never use AI-generated content in my writing, and I never will. 
+
+<br> 
+
+<https://antonz.org/ai-free/>
+
+---
+
+## Ultimate Fighting Championship | The Coffee Klatch for Saturday, June 7, 2025
+
+date: 2025-06-07, from: Robert Reich's blog
+
+With Michael Lahanas-Calder&#243;n and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165381811/64d7284eb9f86ec8c6244e45a86f5074.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165381811/64d7284eb9f86ec8c6244e45a86f5074.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/ultimate-fighting-championship-the>
+
+---
+
+## June 6, 2025 
+
+date: 2025-06-07, from: Heather Cox Richardson blog
+
+Last night, billionaire Elon Musk indicated he would be willing to paper over his fight with President Donald J. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-6-2025>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-06-07, from: Ryan Gantz Bluesky feed)
+
+help us, Obi Wan Harambe 
+
+ur our only hope 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.com/post/3lqyh7lqfdc2g>
+
+---
+
+## I dream of roombas - thousands of automated AI robots that autonomously maintain codebases
+
+date: 2025-06-07, from: Geoffrey Hunntley's blog
+
+<p>Just yesterday morning, I was writing a conference talk on best practices for maintaining the LLM context window, which was quite detailed. It contained the then best practices from the two blog posts below.</p><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://ghuntley.com/gutter/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">autoregressive queens of failure</div><div class="kg-bookmark-description">Have you ever had your AI coding assistant suggest something so off-base</div></div></a></figure> 
+
+<br> 
+
+<https://ghuntley.com/ktlo/>
+
+---
+
+## Weeknotes: May 31 – June 6, 2025
+
+date: 2025-06-07, from: Tracy Durnell Blog
+
+Happy Pride Month! 🌈 Win of the week: finally! finished! this AI aesthetics blog post! it&#8217;s occupied basically all my blogging time for the past month, at last I can think about something else 😂 (who am I kidding, now I can turn the sections that got cut into their own posts lol) Looking forward [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/06/06/weeknotes-may-31-june-6-2025/>
+
+---
+
+## Markdown Support in Windows Notepad
+
+date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/news/677474/microsoft-windows-notepad-bold-italic-text-formatting-markdown-support?ueid=4b93173967d7dc762529a10418e85007>
+
+---
+
+## Take That CIRP Survey on Apple Customer Device Ownership With a Giant Grain of Salt
+
+date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/linked/2025/06/06/cirp-survey-ipad-popularity#update>
 

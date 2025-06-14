@@ -1,11 +1,43 @@
 ---
 title: going electric
-updated: 2025-06-13 14:07:12
+updated: 2025-06-14 06:07:37
 ---
 
 # going electric
 
-(date: 2025-06-13 14:07:12)
+(date: 2025-06-14 06:07:37)
+
+---
+
+## This new EV charging feature could make apps and cards obsolete
+
+date: 2025-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Allego-Plug-Charge.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>European EV charging provider <a href="https://www.allego.eu/" target="_blank" rel="noreferrer noopener">Allego</a> has launched what is says is Europe’s first rollout of the “world’s safest and most secure” Plug &amp; Charge technology. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="allego,europe,ev-charging,plug-and-charge" data-layer-viewtype="unknown" data-post-id="420312" href="https://electrek.co/2025/06/13/new-ev-charging-feature-could-make-apps-and-cards-obsolete/#more-420312" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/13/new-ev-charging-feature-could-make-apps-and-cards-obsolete/>
+
+---
+
+## The Kia PV5 is a real-life Transformer: Here’s our first look at it as an electric truck
+
+date: 2025-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Kia-PV5-electric-truck.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia is looking to shake things up with its new custom-tailored Platform Beyond Vehicles (PBVs). The PV5, Kia’s first electric van based on the platform, is already showing how versatile it is. After <a href="https://electrek.co/guides/kia-pv5/">the PV5 </a>was spotted for the first time with an open bed, Kia looks about ready to drop an electric truck variant.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-pv5" data-layer-viewtype="unknown" data-post-id="420303" href="https://electrek.co/2025/06/13/kia-pv5-transforms-into-an-electric-truck-heres-our-first-look/#more-420303" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/13/kia-pv5-transforms-into-an-electric-truck-heres-our-first-look/>
 
 ---
 
@@ -1534,4 +1566,60 @@ Voltpost claims its Level 2 charger is affordable and easy to install, taking ju
 <br> 
 
 <https://insideevs.com/news/761931/voltpost-michigan-lamppost-charger/>
+
+---
+
+## This Genius Doubled His Nissan Leaf’s Range With A Home-Swapped Battery
+
+date: 2025-06-07, from: Inside EVs News
+
+The whole job was done on the driveway in just three hours. No fancy lifts, just some elbow grease and determination. 
+
+<br> 
+
+<https://insideevs.com/news/761788/nissan-leaf-gen1-battery-retrofit/>
+
+---
+
+## This Incredible Tesla Cybertruck Deal Comes With A Big Catch
+
+date: 2025-06-07, from: Inside EVs News
+
+Tesla is giving the Cybertruck 0% APR financing amid weak sales. But you need to read the fine print first. 
+
+<br> 
+
+<https://insideevs.com/news/761963/tesla-cybertruck-zero-percent-demand/>
+
+---
+
+## 2026 Toyota C-HR First Look: Toyota’s Coolest EV Yet
+
+date: 2025-06-07, from: Inside EVs News
+
+Toyota has resurrected the C-HR as a sporty EV crossover. It looks stylish, produces a bucketload of power and has personality, too. 
+
+<br> 
+
+<https://insideevs.com/news/762013/2026-toyota-chr-video-ev-crossover/>
+
+---
+
+## Tesla’s head of Optimus humanoid robot leaves the ‘$25 trillion’ product behind
+
+date: 2025-06-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Tesla-Optimus-robot-4680-battery-cell.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s head of Optimus humanoid robot, Milan Kovac, announced that he is leaving the automaker after 9 years.</p>
+
+
+
+<p>It leaves just as CEO Elon Musk claimed that the humanoid robot is going to make Tesla a”$25 trillion company.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-optimus" data-layer-viewtype="unknown" data-post-id="419428" href="https://electrek.co/2025/06/06/tesla-head-optimus-humanoid-robot-leaves-trillion-product/#more-419428" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/06/tesla-head-optimus-humanoid-robot-leaves-trillion-product/>
 

@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-06-13 14:07:11
+updated: 2025-06-14 06:07:36
 ---
 
 # motorcycles
 
-(date: 2025-06-13 14:07:11)
+(date: 2025-06-14 06:07:36)
+
+---
+
+## ARCA Menards West Series: 2025 Bakersfield II Race Preview
+
+date: 2025-06-13, from: Kickin the Tires blog
+
+By Vincent Delforge, Staff Writer The fifth race of the 2025 ARCA Menards West Series season will take place this Saturday, June 14, at Kevin Harvick’s Kern Raceway (KHKR) 0.5-mile&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/arca-menards-west-series-2025-bakersfield-ii-race-preview/>
 
 ---
 
@@ -508,4 +520,29 @@ Stewart Friesen hoisted his first trophy of the season in Saturday afternoon’s
 <br> 
 
 <https://kickinthetires.net/nascar/stewart-friesen-wins-thrilling-triple-overtime-nascar-craftsman-truck-series-race-at-michigan/>
+
+---
+
+## Race to the Road: Introducing the Porsche 963 RSP
+
+date: 2025-06-07, from: Kickin the Tires blog
+
+Le Mans, June 06, 2025 (GLOBE NEWSWIRE) &#8212; As Porsche prepares for the 24 Hours of Le Mans, a sister to the 963 Hypercar has been revealed – named the&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/car-culture/race-to-the-road-introducing-the-porsche-963-rsp/>
+
+---
+
+## Ducati’s Working On an Automatic Clutch You'll Also Want for Racing
+
+date: 2025-06-07, from: Ride Apart, Electric Motorcycle News
+
+The goal is faster launches, more consistent performance, and reduced clutch wear. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/761754/ducati-automatic-transmission-clutch-patents/>
 

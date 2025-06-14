@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-06-13 14:07:12
+updated: 2025-06-14 06:07:36
 ---
 
 # retro computing
 
-(date: 2025-06-13 14:07:12)
+(date: 2025-06-14 06:07:36)
 
 ---
 
@@ -197,4 +197,16 @@ Central locking, Shopping, Why I never knew how fast Caoimhe could go, Doing stu
 <br> 
 
 <https://heyrick.eu/blog/index.php?diary=20250608>
+
+---
+
+## RIP Bill Atkinson
+
+date: 2025-06-07, from: Old Ventage Computing Research
+
+As <a href="https://facebook.com/story.php?story_fbid=10238073579963378&id=1378467145">posted by his family</a> (Facebook link), Bill Atkinson passed away on June 5 from pancreatic cancer at the age of 74. The Macintosh would not have been the same without him (QuickDraw, MacPaint, HyperCard, and <a href="https://www.folklore.org/0-index.html">so much more</a>), nor would <a href="/2022/12/magic-cap-from-magic-link-to-datarover.html">Magic Cap</a> have been a thing. Rest in peace. 
+
+<br> 
+
+<https://oldvcr.blogspot.com/2025/06/rip-bill-atkinson.html>
 

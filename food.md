@@ -1,11 +1,11 @@
 ---
 title: food
-updated: 2025-06-13 14:07:13
+updated: 2025-06-14 06:07:38
 ---
 
 # food
 
-(date: 2025-06-13 14:07:13)
+(date: 2025-06-14 06:07:38)
 
 ---
 
@@ -1210,4 +1210,44 @@ date: 2025-06-08, from: The Sprudge
 <br> 
 
 <https://sprudge.com/coffee-in-the-morning-coffee-in-the-evening-coffee-in-summertime-344819.html>
+
+---
+
+## Father’s Day Recipes
+
+date: 2025-06-07, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/06/Fathers-Day-Recipes.jpg"/></div>
+<p>Quick and easy recipes to make dads Father&#8217;s Day special! Father&#8217;s Day is next weekend and if you are still looking some some recipe ideas to make this the tastiest Father&#8217;s Day ever, I&#8217;ve got you covered! Whether you are making dad the perfect breakfast, brunch, dinner or dessert I am sure that he will...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/33-fathers-day-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/33-fathers-day-recipes/">Father&#8217;s Day Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/33-fathers-day-recipes/>
+
+---
+
+## Savannah Sunrise
+
+date: 2025-06-07, from: Taste of Home
+
+Our Savannah sunrise cocktail recipe will make your brunch sparkle with beautiful layers of peach, tequila, bubbles and black currant liqueur. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/savannah-sunrise/>
+
+---
+
+## Rhubarb Margarita
+
+date: 2025-06-07, from: Taste of Home
+
+Our rhubarb margarita is perfect for patio season brunches or any day that needs a little sparkle. It's equal parts sweet and sour—and it's pink! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/rhubarb-margarita/>
 

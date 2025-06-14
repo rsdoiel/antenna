@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2025-06-13 14:07:09
+updated: 2025-06-14 06:07:33
 ---
 
 # writing
 
-(date: 2025-06-13 14:07:09)
+(date: 2025-06-14 06:07:33)
 
 ---
 
@@ -470,4 +470,30 @@ date: 2025-06-08, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/06/2024-nebula-awards-winners/>
+
+---
+
+## Point of Hearts by Melissa Scott: Review by Liz Bourke
+
+date: 2025-06-07, from: Locus Magazine
+
+<p><strong>Point of Hearts</strong>, Melissa Scott (Queen of Swords 978-8-98950-095-6, $15.99, 186pp, tp) March 2025. Cover by Inkspiral Design.</p>
+<p>Melissa Scott began the Astreiant series with her late partner Lisa A. Barnett more than thirty years ago now. There have been five instalments in the decades since: not so many, for a series, and terribly few, if for you – like me – it is a treasured part of the  <a href="https://locusmag.com/2025/06/point-of-hearts-by-melissa-scott-review-by-liz-bourke/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/point-of-hearts-by-melissa-scott-review-by-liz-bourke/>
+
+---
+
+## Asimov’s: Short Fiction Reviews by A.C. Wise
+
+date: 2025-06-07, from: Locus Magazine
+
+<p>Asimov’s 3-4/25</p>
+<p>The March/April issue of Asimov’s opens with the novella “<strong>Weather Duty</strong>” by <strong>Kristine Kathryn Rusch</strong>. Every citizen has a civic duty, like jury duty, to serve on vari­ous committees. Amala has just joined the com­mittee overseeing weather, which attempts to balance and mitigate climate change. After her first meeting, Amala and her fellow committee member, Ezra, are attacked. Amala fends off the attackers, which leads  <a href="https://locusmag.com/2025/06/asimovs-short-fiction-reviews-by-a-c-wise-5/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/asimovs-short-fiction-reviews-by-a-c-wise-5/>
 

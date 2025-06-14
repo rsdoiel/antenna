@@ -1,11 +1,47 @@
 ---
 title: north america
-updated: 2025-06-13 14:07:05
+updated: 2025-06-14 06:07:29
 ---
 
 # north america
 
-(date: 2025-06-13 14:07:05)
+(date: 2025-06-14 06:07:29)
+
+---
+
+## Evening Roundup, June 13
+
+date: 2025-06-13, from: The Contrarian
+
+Featuring the Democracy Movement, Mimi Rocah, Carron J. Phillips, Liza Goitein & Jen Rubin, Marvin Kalb, Brian O'Neill, Meredith Blake, Marissa Rothkopf, our Pet(s) of the Week, & Ruben Bolling! 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-13>
+
+---
+
+## Memo to Trump: Don't Mess With Los Angeles
+
+date: 2025-06-13, from: The Contrarian
+
+The city has a long, if overlooked, history of political resistance and activism led by immigrants and communities of color. 
+
+<br> 
+
+<https://contrarian.substack.com/p/memo-to-trump-dont-mess-with-los>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-06-13, from: The Contrarian
+
+Billionaire Bromance 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-f19>
 
 ---
 
@@ -960,4 +996,28 @@ date: 2025-06-08, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-whats-in-your-pill-bottle/>
+
+---
+
+## Budget Battle Breaks Billionaire Bromance
+
+date: 2025-06-07, from: The Contrarian
+
+Publishers Roundup 21 
+
+<br> 
+
+<https://contrarian.substack.com/p/budget-battle-breaks-billionaire>
+
+---
+
+##  YOU LOVE TO SEE IT: Geostalkers Get Lost 
+
+date: 2025-06-07, from: The Lever News
+
+ Geolocation data is safe and sound, new parents get a break, one city’s road to reparations, and sports betting giants need to pay up.  
+
+<br> 
+
+<https://www.levernews.com/geostalkers-get-lost/>
 

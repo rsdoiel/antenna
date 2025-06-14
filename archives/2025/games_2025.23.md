@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-06-13 14:07:09
+updated: 2025-06-14 06:07:34
 ---
 
 # games
 
-(date: 2025-06-13 14:07:09)
+(date: 2025-06-14 06:07:34)
+
+---
+
+## How to find and get Flour Sand in Dune: Awakening
+
+date: 2025-06-13, updated: 2025-06-13, from: Polygon Website
+
+Flour Sand is one of the most dangerous items in Dune: Awakening, as the only area to collect it puts you at high risk of getting eaten by a sandworm. Flour Sand is a rare instance where you almost have to team up with others or get very lucky, though there are, occasionally, a few [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dune-awakening-guides/607018/flour-sand-locations-how-to-get>
+
+---
+
+## Where to find trial locations in Dune Awakening
+
+date: 2025-06-13, updated: 2025-06-13, from: Polygon Website
+
+None have mastered Arrakis as the Fremen did. To survive in Dune: Awakening, you’ll have follow their steps and learn their way by completing hidden trials.&#160; In the Trials of Aql, you learn all Fremen deeply understoof Arrakis and how to thrive in its hostile environment. Accessing these precious sources of information requires risking your [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dune-awakening-guides/606703/trials-locations-all-where-to-find>
+
+---
+
+## Elden Ring Nightreign players are going feral for the Revenant
+
+date: 2025-06-13, updated: 2025-06-13, from: Polygon Website
+
+When FromSoftware revealed the Revenant class in Elden Ring Nightreign, I was certain she’d be embraced by fans for her doll-like design, unique power set, and bare feet. But Nightreign players have latched onto the necromancer for other reasons entirely, transforming her into a rabid attack dog who wields colossal weapons and is ready and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/606986/elden-ring-nightreign-revenant-la-creatura-memes-fan-art>
+
+---
+
+## Fortnite adds Hank Hill and other cartoon dad skins for Father’s Day
+
+date: 2025-06-13, updated: 2025-06-13, from: Polygon Website
+
+He sells propane, propane accessories, and… Fortnite skins? That’s right, King of the Hill’s Hank Hill is coming to Fortnite for Father’s Day, alongside Family Guy’s Cleveland Brown and Bob’s Burgers’ Bob Belcher. They’ll all be available as skins in the Fortnite shop. On Wednesday, the official Fortnite X account teased Hank&#8217;s upcoming arrival to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/606291/hank-hill-cleveland-brown-bob-belcher-skins-fathers-day>
 
 ---
 
@@ -150,18 +198,6 @@ Under the leadership of the late, great Satoru Iwata, Nintendo shunned the techn
 <br> 
 
 <https://www.polygon.com/nintendo-switch-2/606757/review>
-
----
-
-## Where to find trial locations in Dune Awakening
-
-date: 2025-06-12, updated: 2025-06-12, from: Polygon Website
-
-None have mastered Arrakis as the Fremen did. To survive in Dune: Awakening, you’ll have follow their steps and learn their way by completing hidden trials.  In the Trials of Aql, you learn all Fremen deeply understoof Arrakis and how to thrive in its hostile environment. Accessing these precious sources of information requires risking your [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/dune-awakening-guides/606703/trials-locations-all-where-to-find>
 
 ---
 
@@ -882,4 +918,76 @@ Game Freak, best known for its work on Pokémon games, unveiled a new look and t
 <br> 
 
 <https://www.polygon.com/gaming/605353/beast-of-reincarnation-pokemon-dev-game-freak-2026>
+
+---
+
+## Dangerous Animals, a giddy slasher where the knife is a shark
+
+date: 2025-06-07, updated: 2025-06-07, from: Polygon Website
+
+Australian director Sean Byrne is one of horror’s premiere mixologists. His debut, 2009’s The Loved Ones, meshed teen romance with gruesome Hostel-style extremism. 2015’s The Devil’s Candy put a heavy metal spin on the haunted-house romp. His new film, Dangerous Animals, in theaters now, raises a question no one was asking about a classic B-movie [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/605214/dangerous-animals-shark-horror-film-review>
+
+---
+
+## How to rewind in Mario Kart World
+
+date: 2025-06-07, updated: 2025-06-07, from: Polygon Website
+
+Mario Kart World&#8216;s rewind feature is quietly one of the racing game&#8217;s most useful features for learning how its new tricks, jumps, and grinds work. The Nintendo Switch 2 launch game sets you loose to discover rewind on your own, though, with no tutorial or anything explaining how the tool works or when you might [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mario-kart-world-guides/605223/how-to-rewind-game-modes>
+
+---
+
+## How to unlock Rainbow Road in Mario Kart World
+
+date: 2025-06-07, updated: 2025-06-07, from: Polygon Website
+
+The tracks in Mario Kart Word are the real stars in the game and the shiniest one is the Rainbow Road track. The mesmerizingly colorful track is something out of this world — literally. Unlike all the other tracks in the game, Rainbow Road is a secret one, but luckily the path to find it [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mario-kart-world-guides/605187/unlock-rainbow-road-track-how-to-replay>
+
+---
+
+## How to unlock all outfits in Mario Kart World
+
+date: 2025-06-07, updated: 2025-06-07, from: Polygon Website
+
+Mario Kart World has dozens of unlockable outfits for its wide cast of characters. These outfits are technically classified as separate characters via the character select screen, but not every character gets outfits. Characters pulled from background environments like Pianta or Dolphin don’t get any outfits, sadly, so your dream of seeing Cow in a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mario-kart-world-guides/603767/outfits-unlock-requiremenets-list-all-how-to>
+
+---
+
+## Pokémon Go ‘Instrumental Wonders’ event guide
+
+date: 2025-06-07, updated: 2025-06-07, from: Polygon Website
+
+Pokémon Go is continuing its hype lead-up to the yearly Go Fest event with the “Instrumental Wonders” event that runs from June 7-11. This event encourages players to raid, with the main perk of this event being an extra 5,000 XP per finished raid. Just like the last event, there will be bonuses with Max [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/603204/instrumental-wonders-event-premium-timed-research-collection-challenge>
+
+---
+
+## You should watch dumb Jason Statham plane movies at home, too
+
+date: 2025-06-07, updated: 2025-06-07, from: Polygon Website
+
+As I see it, Hollywood currently has four stables of movie talent:&#160; As I headed to Los Angeles for Summer Game Fest on a cramped United Airlines flight, I went looking for a movie to stream. I scrolled through new-release options that didn’t fit the mood — a reviled sequel I skipped? A musical that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/recommendations/604276/a-working-man-amazon-prime-video-streaming>
 

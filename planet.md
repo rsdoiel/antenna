@@ -1,11 +1,23 @@
 ---
 title: planet
-updated: 2025-06-13 14:07:03
+updated: 2025-06-14 06:07:28
 ---
 
 # planet
 
-(date: 2025-06-13 14:07:03)
+(date: 2025-06-14 06:07:28)
+
+---
+
+## Petrol bombs thrown at police during Portadown disorder
+
+date: 2025-06-13, from: RTÉ News
+
+Police have come under attack for a fifth consecutive night in Northern Ireland, with petrol bombs thrown at them in Portadown last night. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0613/1518399-disorder-northern-ireland/>
 
 ---
 
@@ -18,6 +30,18 @@ The BBC will not appeal over Gerry Adams' defamation win against the organisatio
 <br> 
 
 <https://www.rte.ie/news/2025/0613/1518387-gerry-adams-bbc/>
+
+---
+
+## New Indigenous-led women's shelter aims to provide 'an auntie's love'
+
+date: 2025-06-13, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6473100.1688420514!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/edmonton-river-valley-east-downtown.jpg' alt='A view of the Edmonton river valley, with water surrounded by green trees and grass, with buildings in the distance under a blue sky.' width='620' height='349' title='The City of Edmonton is in the process of updating its river valley policies and strategies.'/><p>Nichole Brown, a Cree and Saulteaux woman, said she's preparing to open a new women's shelter in Edmonton. “I thought about if I was going to contribute anything… the kind of love that I want to offer these women is an auntie’s love,” she said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/indigenous-women-shelter-edmonton-1.7560845?cmp=rss>
 
 ---
 
@@ -54,6 +78,18 @@ A Co Antrim-based business couple have been awarded £300,000 libel damages as p
 <br> 
 
 <https://www.rte.ie/news/courts/2025/0613/1518367-tattle-life-court/>
+
+---
+
+## Sole survivor of Air India crash has an incredible story — but he's not unique
+
+date: 2025-06-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7560421.1749841932!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/india-plane-crash-survivor.jpg' alt='Three men in white jackets surround a man in  a hospital bed' width='620' height='349' title='This handout photo issued by the Indian Ministry of Home Affairs shows Home Affairs Minister Amit Shah meeting British plane crash survivor Vishwash Kumar Ramesh, 40, at a hospital in Ahmedabad, after Air India confirmed Mr Ramesh was the sole survivor of the 242 people on board the London-bound Boeing 787 Dreamliner when it crashed into a medical college shortly after take-off from Ahmedabad airport. '/><p>As unbelievable as the story of the sole survivor of the Air India plane crash may sound, it's happened before. It's rare, but in recent decades, several other people have been the lone survivors of plane crashes.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/plane-crash-sole-survivor-1.7560434?cmp=rss>
 
 ---
 
@@ -193,6 +229,18 @@ EU countries approved a one-year extension of the temporary protection offered t
 
 ---
 
+## Trump's military parade is costing millions and, potentially, something more valuable, critics say
+
+date: 2025-06-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7560635.1749830485!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump-military-parade.jpg' alt='A man in a baseball cap jogs near a fence. On the other side of the fence is a military helicopter.' width='620' height='349' title='A man passes by a military helicopter parked on the National Mall, during preparations for an upcoming military parade commemorating the Army&apos;s 250th anniversary and coinciding with President Donald Trump&apos;s 79th birthday, Thursday, June 12, 2025, in Washington. '/><p>Donald Trump's long-desired military parade was only confirmed six weeks ago, but it now arrives in a week that has raised alarm among military experts and Democrats over the politicization of American troops.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-trump-military-parade-1.7560426?cmp=rss>
+
+---
+
 ## Pope Leo XIV receives Lebanese President 
 
 date: 2025-06-13, from: Vatican News
@@ -303,7 +351,7 @@ Secretary-General António Guterres condemned Israeli strikes in Iran late Thurs
 
 ## UN ocean summit in Nice  closes with wave of commitments
 
-date: 2025-06-13, from: United Nations, Top Stories
+date: 2025-06-13, from: United Nations, Economic Development
 
 Ships in the port of Nice sounded their fog-horns on Friday, a brassy crescendo to a rare moment of global unity as the Third UN Ocean Conference drew to a close. Moments earlier, more than 170 countries had adopted by consensus a sweeping political declaration promising urgent action to protect the ocean. 
 
@@ -373,7 +421,31 @@ As diplomatic efforts continue to end fighting in eastern Democratic Republic of
 
 ---
 
-## US Open updates: McIlroy battling to make cut
+## Shaping a better world at Expo 2025 in Japan
+
+date: 2025-06-13, from: United Nations, Top Stories
+
+How can we build a fairer, more peaceful world while safeguarding the planet? That’s the powerful question at the heart of the United Nations Pavilion at Expo 2025 in Osaka, Japan. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164341>
+
+---
+
+## Leinster have a point to prove in URC Grand Final
+
+date: 2025-06-13, from: RTÉ News
+
+Neil Treacy previews this evening's BKT United Rugby Championship Grand Final between Leinster and the Bulls at Croke Park. 
+
+<br> 
+
+<https://www.rte.ie/sport/united-rugby-championship/2025/0613/1518302-leinster-have-a-point-to-prove-in-urc-grand-final/>
+
+---
+
+## US Open Day 2 recap: McIlroy makes cut, woe for Lowry
 
 date: 2025-06-13, from: RTÉ News
 
@@ -542,7 +614,7 @@ date: 2025-06-13, from: Vatican News
 
 ---
 
-## Iran launches ballistic missiles towards Israel
+## As it happened: Iran retaliates after Israeli attacks
 
 date: 2025-06-13, from: RTÉ News
 
@@ -734,11 +806,11 @@ US President Donald Trump's dream of hosting a grand military parade in Washingt
 
 ---
 
-## Blasts heard in Tel Aviv and Jerusalem as Iran retaliates
+## Iran fires missiles at Israel in response to attacks
 
 date: 2025-06-13, from: RTÉ News
 
-Explosions were heard over Tel Aviv and Jerusalem as sirens sounded across Israel following what the country's military spokesman said was the firing of missiles from Iran. 
+Iran has launched retaliatory airstrikes at Israel, with explosions heard in Jerusalem and Tel Aviv, following Israel's biggest-ever military strike against its longstanding enemy. 
 
 <br> 
 
@@ -1172,7 +1244,7 @@ With 13.5 million people displaced by over 13 years of brutal civil conflict, Sy
 
 ## ‘No Ocean Declaration without small islands’: Delegates push for inclusion as UN summit nears end
 
-date: 2025-06-12, from: United Nations, Top Stories
+date: 2025-06-12, from: United Nations, Economic Development
 
 With one day remaining before the conclusion of the Third UN Ocean Conference, delegates in Nice are preparing for the adoption of the summit’s eagerly anticipated political declaration. Small island developing States, facing the direct effects of climate change and marine resource decline, are pushing to ensure their perspectives are reflected in global ocean policy. 
 
@@ -1184,7 +1256,7 @@ With one day remaining before the conclusion of the Third UN Ocean Conference, d
 
 ## Global push to end plastic pollution gains ground in Nice
 
-date: 2025-06-12, from: United Nations, Top Stories
+date: 2025-06-12, from: United Nations, Economic Development
 
 Behind closed doors, in a domed conference pavilion steps away from the historic port of Nice, more than 40 ministers gathered on Tuesday to tackle one of the planet’s fastest-growing environmental threats: plastic pollution.&nbsp; 
 
@@ -1299,6 +1371,22 @@ date: 2025-06-12, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/news/canada/nova-scotia/uranium-exploration-consultation-mikmaw-chiefs-1.7559302?cmp=rss>
+
+---
+
+## Lord's Day Reflection: Seeking truth in times of turmoil
+
+date: 2025-06-12, from: Vatican News
+
+
+                    <p>As the Church celebrates the Solemnity of the Most Holy Trinity, Father Luke Gregory reflects on the theme, "Seeking Truth in Times of Turmoil: A Call to Harmony Through the Spirit."</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/lord-s-day-reflection-seeking-truth-in-times-of-turmoil.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/lord-s-day-reflection-seeking-truth-in-times-of-turmoil.html>
 
 ---
 
@@ -2340,7 +2428,7 @@ The Government's new policy on rents has been branded a "shambles" by Sinn Féin
 
 ## The world pledged to end child labour by 2025: So why are 138 million kids still working?
 
-date: 2025-06-11, from: United Nations, Top Stories
+date: 2025-06-11, from: United Nations, Economic Development
 
 Twelve-year-old Tenasoa crawls to work every day at a mine in eastern Madagascar where she collects two kilos of the shiny mineral mica each day. She cannot walk because of a physical disability. 
 
@@ -2364,7 +2452,7 @@ Survivors of a people-smuggling operation in the Red Sea have described being fo
 
 ## ‘Plenty of fish in the sea’? Not anymore, say UN experts in Nice
 
-date: 2025-06-11, from: United Nations, Top Stories
+date: 2025-06-11, from: United Nations, Economic Development
 
 At the Third UN Ocean Conference in Nice, the “catch of the day” wasn’t a seabass or a red mullet – it was a figure: 35 per cent. That’s the share of global fish stocks now being harvested unsustainably, according to a new UN report released Wednesday. 
 
@@ -2412,7 +2500,7 @@ Civilian deaths and injuries in the first five months of 2025 were nearly 50 per
 
 ## Climate emergency is a health crisis ‘that is already killing us,’ says WHO
 
-date: 2025-06-11, from: United Nations, Top Stories
+date: 2025-06-11, from: United Nations, Climate Change
 
 With 2024 confirmed as the hottest year on record, the World Health Organization (WHO) has issued a stark warning: the climate crisis is also a health crisis – and it’s already claiming lives. 
 
@@ -3340,7 +3428,7 @@ The global fertility slump isn’t down to young people turning their backs on p
 
 ## The battle to quiet the sea: Can the shipping industry turn down the volume?
 
-date: 2025-06-10, from: United Nations, Top Stories
+date: 2025-06-10, from: United Nations, Economic Development
 
 The ocean has never been silent – waves crashing, seabirds calling, whales singing across vast distances. But in recent decades, a new kind of noise has taken hold: the relentless hum of ships. For many marine species, this growing wall of sound is more than a nuisance – it’s a threat to their survival. 
 
@@ -3352,7 +3440,7 @@ The ocean has never been silent – waves crashing, seabirds calling, whales sin
 
 ## Greed is driving oceans toward collapse
 
-date: 2025-06-10, from: United Nations, Climate Change
+date: 2025-06-10, from: United Nations, Economic Development
 
 The ocean is under siege – and greed is to blame. UN Secretary-General António Guterres on Tuesday urged world leaders and grassroots groups to confront the powerful interests driving marine destruction, from illegal fishing and plastic pollution to the accelerating impacts of climate change. 
 
@@ -3424,7 +3512,7 @@ The very real risk of famine continues to stalk Sudan’s communities impacted b
 
 ## World News in Brief: Global growth slows, deadly Ukraine attacks, Haiti hurricane hunger risk, legal migration for refugees
 
-date: 2025-06-10, from: United Nations, Top Stories
+date: 2025-06-10, from: United Nations, Economic Development
 
 Global economic growth is expected to decline this year due to increased trade barriers and policy uncertainty, the World Bank said in a report published on Tuesday.&nbsp; 
 
@@ -4128,7 +4216,7 @@ date: 2025-06-09, from: CBC, Indigenious News
 
 ## Guterres calls for an end to ocean ‘plunder’ as UN summit opens in France
 
-date: 2025-06-09, from: United Nations, Climate Change
+date: 2025-06-09, from: United Nations, Economic Development
 
 With the Mediterranean glittering in the background, UN Secretary-General António Guterres opened the Third United Nations Ocean Conference on Monday, delivering a blunt indictment of humanity’s fractured relationship with the sea. 
 
@@ -4152,7 +4240,7 @@ The worsening humanitarian crisis in the Gaza Strip has reached “unprecedented
 
 ## No green without blue: Young ocean explorers set sail for a sustainable future
 
-date: 2025-06-09, from: United Nations, Climate Change
+date: 2025-06-09, from: United Nations, Economic Development
 
 With science at the forefront of the opening day of the Third UN Ocean Conference (UNOC3), UN News boarded a 111-year-old Norwegian tall ship on the French Riviera to meet 50 science students, along with a host of lecturers and citizen scientists fresh from a 46-day expedition. Fueled by satellite data from the European Space Agency (ESA), their invaluable observations echo the urgent call to understand and protect the world’s oceans. 
 
@@ -4734,7 +4822,7 @@ Whether it’s their first time or a routine part of their life, menstruation ha
 
 ## Drifting architects: Plankton, climate, and the race to understand our changing ocean
 
-date: 2025-06-08, from: United Nations, Climate Change
+date: 2025-06-08, from: United Nations, Economic Development
 
 They drift unseen, but everything depends on them. Plankton – the ocean’s lifeblood –&nbsp;regulate the climate, feed the seas, and shape life on Earth. Scientists along the French Riviera are in a race against time to unlock the mysteries of these tiny organisms before their decline reverberates across the planet. 
 
@@ -5077,4 +5165,456 @@ US President Donald Trump said National Guard troops sent to Los Angeles would e
 <br> 
 
 <https://www.rte.ie/news/us/2025/0608/1517296-us-protests/>
+
+---
+
+## 'Riveted into my brain' - McGuigan recalls 1985 title win
+
+date: 2025-06-07, from: RTÉ News
+
+A special event is taking place in Monaghan to mark the 40th anniversary of former professional boxer Barry McGuigan becoming a world champion. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0608/1517288-barry-mcguigan-title/>
+
+---
+
+## Calls for transparency around cross-border project funds
+
+date: 2025-06-07, from: RTÉ News
+
+There is significant scope to enhance transparency around funding for cross-border projects, one of the Government's key policy programmes, the Parliamentary Budget Office has stated. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0608/1517284-shared-island-funding/>
+
+---
+
+## Cork seize Munster crown with historic shootout triumph
+
+date: 2025-06-07, from: RTÉ News
+
+Cork spoiled the seven-in-a row party in Limerick, winning their first Munster hurling title in seven years after a historic penalty-shootout success. 
+
+<br> 
+
+<https://www.rte.ie/sport/hurling/2025/0607/1517214-cork-seize-munster-crown-with-historic-penalty-triumph/>
+
+---
+
+## Pope Leo at Pentecost Vigil: God intends all to live as one
+
+date: 2025-06-07, from: Vatican News
+
+
+                    <p>Pope Leo leads a Pentecost Vigil prayer service for pilgrims taking part in the Jubilee of Ecclesial Movements, Associations, and new Communities.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-at-pentecost-vigil-god-intends-all-to-live-as-one.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-at-pentecost-vigil-god-intends-all-to-live-as-one.html>
+
+---
+
+## Protest over school places for additional needs children
+
+date: 2025-06-07, from: RTÉ News
+
+Around 500 people have protested in Dublin about the lack of school places this September for children with additional needs. 
+
+<br> 
+
+<https://www.rte.ie/news/education/2025/0607/1517257-school-places-protest/>
+
+---
+
+## Beyond the Pale 'going ahead' amid cancellation reports
+
+date: 2025-06-07, from: RTÉ News
+
+Organisers of next weekend's Beyond the Pale festival taking place in Co Wicklow have insisted that it is going ahead, after reports circulated that it was to be cancelled due to financial concerns. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0607/1517265-beyond-the-pale-festival/>
+
+---
+
+## Munster SHC final: Cork dethrone Limerick on penalties
+
+date: 2025-06-07, from: RTÉ News
+
+Live updates from the 2025 Munster final at the TUS Gaelic Grounds, where Limerick go for seven-in-a-row against league champions Cork 
+
+<br> 
+
+<https://www.rte.ie/sport/hurling/2025/0607/1517204-munster-shc-final-updates-limerick-v-cork/>
+
+---
+
+## 28 people deported to Nigeria detained prior to flight
+
+date: 2025-06-07, from: RTÉ News
+
+Twenty-eight of the 35 people who were deported to Nigeria on a charter flight from Ireland this week were held in custody prior to their deportation. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0607/1517249-immigration-removal-deportation/>
+
+---
+
+## Muslims around the world celebrate Eid
+
+date: 2025-06-07, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7555439.1749321478!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2218333322.jpg' alt='Child prays with an adult while sitting on their lap.' width='620' height='349' title='TOPSHOT - A Muslim boy along with his father offers Eid al-Adha prayers in Chandigarh on June 7, 2025. (Photo by AFP) (Photo by -/AFP via Getty Images)          '/><p>Eid al-Adha, known as the "Feast of Sacrifice," coincides with the final rites of the annual Hajj pilgrimage in Saudi Arabia.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/muslims-around-the-world-celebrate-eid-1.7555438?cmp=rss>
+
+---
+
+## Family of Elizabeth Plunkett call for cold case review
+
+date: 2025-06-07, from: RTÉ News
+
+The family of Elizabeth Plunkett has written to the DPP, the Garda Commissioner and the Minister for Justice requesting a cold case review into her death and a renewed public appeal for evidence. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0607/1517100-elizabeth-plunkett-stolen-sister/>
+
+---
+
+## Trump threatens 'consequences' if Musk backs opponents
+
+date: 2025-06-07, from: RTÉ News
+
+US President Donald Trump threatened his former advisor Elon Musk with "serious consequences" if the tech billionaire seeks to punish Republicans who vote for a controversial spending bill. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0607/1517236-musk-trump/>
+
+---
+
+## Called to be human
+
+date: 2025-06-07, from: Vatican News
+
+
+                    <p>Our Editorial Director, Andrea Tornielli, explores how the words of Pope Leo XIV can be traced back to similar reflections of Joseph Ratzinger, before his election as Pope Benedict XVI.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/called-human-editorial-andrea-tornielli-pope-leo-xiv-ratzinger.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/called-human-editorial-andrea-tornielli-pope-leo-xiv-ratzinger.html>
+
+---
+
+## Bill Clinton says US needs candidate 'willing to lose'
+
+date: 2025-06-07, from: RTÉ News
+
+Former US president Bill Clinton has said the US needs someone to run for president who is "willing to lose as well as who wants to win". 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0607/1517234-bill-clinton/>
+
+---
+
+## Stigmatised for being deaf: Zénabou's story
+
+date: 2025-06-07, from: United Nations, Culture and Education
+
+In the Central African Republic, disability carries&nbsp;a deep-rooted stigma, and persons with disabilities often find themselves excluded from almost every avenue of life. Zénabou, who is deaf and non-speaking, has suffered from prejudice, but a UN-backed educational programme offers a glimmer of hope. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164006>
+
+---
+
+## U.S. ambassador says Canadians facing device searches, detainment 'not a pattern'
+
+date: 2025-06-07, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7555353.1749305425!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/the-week-in-news-photos-06.jpg' alt='A bald man stands in front of Canadian and American flags.' width='620' height='349' title='U.S. Ambassador to Canada Pete Hoekstra poses for a portrait at the U.S. Embassy, in Ottawa, Friday, June 6, 2025.'/><p>The U.S. ambassador to Canada is pushing back on Ottawa's travel advice, saying his country doesn't search phones at the border and arguing some Americans travelling here are having a tough time.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/border-device-searches-us-ambassador-1.7555350?cmp=rss>
+
+---
+
+## Israel retrieves body of Thai man, latest hostage recovered from 2023 Hamas attack
+
+date: 2025-06-07, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7555363.1749307521!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nattapong-pinta.jpg' alt='man&apos;s photo' width='620' height='349' title='Nattapong Pinta, a Thai farmworker, is shown in this image shared by Israeli Defence Minister Israel Katz on X. Israel said Saturday, June 7, 2025, that it had recovered Pinta, who was taken as hostage during the Oct. 7, 2023, attacks in Gaza by Hamas.'/><p>Israel's defence minister says the military has retrieved the body of a Thai hostage held in Gaza since the Oct. 7, 2023, attacks by Hamas. The news comes the same week Israel's prime minister said the bodies of Canadian Israeli Judih Weinstein and her husband, Israeli American Gadi Haggai, had been recovered.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/israeli-military-hostage-bodies-recovered-1.7555309?cmp=rss>
+
+---
+
+## Pope Leo XIV: What unites Christians is far greater than what divides
+
+date: 2025-06-07, from: Vatican News
+
+
+                    <p>Pope Leo XIV meets with participants in the Symposium “Nicaea and the Church of the Third Millennium: Towards Catholic-Orthodox Unity," and highlights the many aspects that unite Christians, as the Church celebrates the 1,700th anniversary of the Council of Nicaea.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-council-of-nicea-symposium-address-7-june-2025.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-council-of-nicea-symposium-address-7-june-2025.html>
+
+---
+
+## Govt moves to change Rent Pressure Zones system
+
+date: 2025-06-07, from: RTÉ News
+
+The Government is moving towards changing the current Rent Pressure Zones (RPZs) system ahead of a crunch Cabinet meeting on the matter next Tuesday. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0607/1517223-rent-pressure-zones/>
+
+---
+
+## Rent caps for new tenancies to be eased under Govt plan
+
+date: 2025-06-07, from: RTÉ News
+
+Rent caps for new tenancies are to be eased as part of a plan expected to go to Cabinet next week. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0607/1517223-rent-pressure-zones/>
+
+---
+
+## An Historic Observatory in Guadalajara, Mexico
+
+date: 2025-06-07, from: Vatican Obervatory
+
+The Instituto de Astronomía y Meteorología in Guadalajara, Mexico is an interesting and historic place. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/an-historic-observatory-in-guadalajara-mexico/>
+
+---
+
+## Pope Leo XIV meets with Argentine President Milei
+
+date: 2025-06-07, from: Vatican News
+
+
+                    <p>Pope Leo XIV and President Javier Milei of Argentina meet in the Vatican and highlight the importance of urgent efforts in support of peace.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-meets-with-argentine-president-milei.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-meets-with-argentine-president-milei.html>
+
+---
+
+## Five given treatment after cheese factory chemical spill
+
+date: 2025-06-07, from: RTÉ News
+
+Five people were treated in hospital following a chemical incident at a factory in Co Down. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0607/1517221-chemical-incident-down/>
+
+---
+
+## Gardaí restrict use of AI across garda network
+
+date: 2025-06-07, from: RTÉ News
+
+The use of artificial intelligence has been restricted across the garda network, gardaí have confirmed. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0607/1517213-garda-ai/>
+
+---
+
+## Israeli attacks kill at least 55 people in Gaza - medics
+
+date: 2025-06-07, from: RTÉ News
+
+Medics in Gaza have reported that Israeli attacks killed at least 55 people, as Israel said it retrieved the body of a Thai hostage who had been held in on the Palestinian territory since 7 October 2023. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0607/1517199-gaza-middle-east/>
+
+---
+
+## Russian drone and missile strikes kill at least 4 in Ukraine in latest attack
+
+date: 2025-06-07, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7555300.1749298296!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-russia-ukraine-war.jpg' alt='building explosion' width='620' height='349' title='A view after a Russian attack that hit a residential building in Kharkiv, Ukraine, Saturday, June 7, 2025. (AP Photo/Andrii Marienko)'/><p>Ukrainian officials said a massive Russian drone and missile attack in the eastern city of Kharkiv on Saturday has killed at least four people and wounded over two dozen others, the latest in nearly daily attacks in recent weeks. Russia's Defence Ministry said its forces carried out the strikes, but gave no comment on the casualty reports.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/russia-ukraine-drone-attack-kyiv-deaths-1.7555295?cmp=rss>
+
+---
+
+## Police and protesters clash in LA amid immigration raids
+
+date: 2025-06-07, from: RTÉ News
+
+Masked and armed federal agents carried out sweeping immigration raids in Los Angeles yesterday, while others pounced on migrants at a New York courthouse, in forceful displays of US President Donald Trump's crackdown on people without papers. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0607/1517196-los-angeles-raids/>
+
+---
+
+## Catholic religious sister receives top anti-human trafficking award in Thailand
+
+date: 2025-06-07, from: Vatican News
+
+
+                    <p>A Thai Catholic religious sister, known for her groundbreaking grassroots initiatives to combat human trafficking, has received national recognition for her work with vulnerable communities in Thailand's remote northern regions.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/thailand-anti-trafficking-award-religious-sister-suwanna-buasap.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/thailand-anti-trafficking-award-religious-sister-suwanna-buasap.html>
+
+---
+
+## US resident returned from El Salvador to face charges
+
+date: 2025-06-07, from: RTÉ News
+
+A man who was mistakenly deported from the US state of Maryland to El Salvador by the Trump administration, has been returned to the US to face charges of transporting illegal immigrants. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0607/1517190-us-abrego-garcia/>
+
+---
+
+## Russian attacks across Ukraine kill at least ten people
+
+date: 2025-06-07, from: RTÉ News
+
+Russian attacks killed at least ten people across Ukraine, with officials saying that four of the deaths in Kharkiv happened in the most powerful Russian drone strike to hit the eastern city since the start of the war. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0607/1517189-ukraine-russia/>
+
+---
+
+## It's been one big beautiful bust-up for Trump and Musk
+
+date: 2025-06-07, from: RTÉ News
+
+Donald Trump's One Big Beautiful Bill has caused one big beautiful bust-up with Elon Musk. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0607/1517164-trump-musk-row/>
+
+---
+
+## 'We do not fear them' - flotilla activists on way to Gaza
+
+date: 2025-06-07, from: RTÉ News
+
+Under the heat of the Mediterranean sun, a small group of activists is currently making its way by water to one of the the most dangerous places on earth. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0607/1517139-gaza-flotilla/>
+
+---
+
+## 'Proud Kerry man' - Michael Gaine funeral held in Kenmare
+
+date: 2025-06-07, from: RTÉ News
+
+The funeral mass for 56-year-old sheep farmer Michael 'Mike' Gaine in Co Kerry has heard him being described as kind and good-natured, a lover of people, farming and animals. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0607/1517180-michael-gaine-funeral/>
+
+---
+
+## Antarctic treaty under stress as member countries gather in Italy
+
+date: 2025-06-07, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7554468.1749226785!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/penguin-in-maxwell-bay-antarctica.jpeg' alt='A penguin stands on a pebbled beach, with mountains in the background.' width='620' height='349' title='A penguin stands on a beach in Maxwell Bay, Antarctica. Penguins, politics and climate science were all part of an historic Canadian expedition to Antarctica in March 2025, and CBC News had special access.'/><p>A first-ever all-Canadian expedition to Antarctica explores the climate changes and political challenges facing the remote continent.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/antarctica-canadian-expedition-1.7550001?cmp=rss>
+
+---
+
+## CO2 levels just broke another record. Here's what that means
+
+date: 2025-06-07, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7555116.1749249211!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/recent-portrait-of-ralph-keeling-in-the-lab-at-scripps.jpg' alt='Ralph Keeling standing in a lab where air samples are analyzed.' width='620' height='349' title='Geophysicist Ralph Keeling in his lab at Scripps, where carbon dioxide levels are tested.'/><p>For 67 years, the observatory on Hawaii's Mauna Loa volcano has been taking these measurements daily  — tracking the invisible gas that is building up in our atmosphere and changing life on Earth.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/mauna-loa-observatory-430-record-1.7555100?cmp=rss>
+
+---
+
+## These families left the Mackenzie Delta for Yukon, and a chance to pursue their hockey dreams
+
+date: 2025-06-07, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7553153.1749139134!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/evander-and-william.jpg' alt='A couple kids with medals around their necks.' width='620' height='349' title='Evander Jerome, left, and William Gruben pictured after winning medals. '/><p>Teens William Gruben and Evander Jerome both moved south with their families to Whitehorse, where they hope to have a better shot at excelling in competitive hockey.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/these-parents-left-the-mackenzie-delta-to-give-their-kids-a-chance-to-excel-in-hockey-1.7552494?cmp=rss>
+
+---
+
+## He can't quit him — easily. Why SpaceX could complicate the Trump-Musk split
+
+date: 2025-06-07, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7467905.1749260386!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-sec.JPG' alt='A man in a blazer and baseball cap stands with his arms crossed, looking down on another man, sitting at a desk.' width='620' height='349' title='FILE PHOTO: Elon Musk listens to U.S. President Donald Trump speak in the Oval Office of the White House in Washington, D.C., U.S., February 11, 2025.   '/><p>Billions of dollars lost in government contracts. A slew of regulatory headaches. These are just some of the ramifications Elon Musk could face over his fallout with U.S. President Donald Trump. While the two men may have personally split, severing their business relationship may prove challenging.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-musk-feud-damage-1.7554184?cmp=rss>
 

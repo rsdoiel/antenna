@@ -1,11 +1,49 @@
 ---
 title: pacific
-updated: 2025-06-13 14:07:06
+updated: 2025-06-14 06:07:30
 ---
 
 # pacific
 
-(date: 2025-06-13 14:07:06)
+(date: 2025-06-14 06:07:30)
+
+---
+
+## Rare 1478 map of ancient Southeast Asia on display at Hamilton Library
+
+date: 2025-06-13, from: University of Hawaiʻi News
+
+<p>The map is from a rare Rome edition of Cosmographia by Claudius Ptolemy, whose ancient ideas shaped world maps for centuries.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/13/rare-1478-southeast-asia-map-at-hamilton-library/">Rare 1478 map of ancient Southeast Asia on display at Hamilton Library</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/13/rare-1478-southeast-asia-map-at-hamilton-library/>
+
+---
+
+## Fijian in Abu Dhabi worried about Pacific communities in Middle East
+
+date: 2025-06-13, from: 
+
+Fiji's Embassy in Abu Dhabi says its closely monitoring the situation in Iran and Israel as tensions remain high. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564114/fijian-in-abu-dhabi-worried-about-pacific-communities-in-middle-east>
+
+---
+
+## Coal, steel industry pollution alters North Pacific ocean life thousands of miles away
+
+date: 2025-06-13, from: University of Hawaiʻi News
+
+<p>Industrial iron from coal and steel production is disrupting marine ecosystems thousands of miles from its source.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/13/coal-steel-industry-pollution-ocean-life/">Coal, steel industry pollution alters North Pacific ocean life thousands of miles away</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/13/coal-steel-industry-pollution-ocean-life/>
 
 ---
 
@@ -184,6 +222,34 @@ date: 2025-06-13, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/06/13/nation-world-news/anti-migrant-rioters-in-northern-ireland-set-homes-and-then-a-refuge-site-ablaze/>
+
+---
+
+## Penn back in court for allegedly violating TRO granted to his mother
+
+date: 2025-06-13, from: Hawaii Tribune Harold
+
+
+				<p>UFC Hall of Famer and former two-division champion BJ Penn told a judge today he&#8217;s unable to complete an application requesting a public defender, saying he can&#8217;t fill out the financial information portion because his mother controls his bank accounts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/13/hawaii-news/penn-back-in-court-for-allegedly-violating-tro-requested-by-his-mother/>
+
+---
+
+## Visitor rescued at night after falling off cliff in Hawaii Volcanoes National Park
+
+date: 2025-06-13, from: Hawaii Tribune Harold
+
+
+				<p>A male visitor who fell 30 feet down a steep cliff in Hawaii Volcanoes National Park after venturing off Byron Ledge Trail Wednesday night was rescued by first responders.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/13/hawaii-news/visitor-rescued-at-night-after-falling-off-cliff-in-hawaii-volcanoes-national-park/>
 
 ---
 
@@ -3335,4 +3401,196 @@ LOS ANGELES (Reuters) — President Donald Trump's administration said it would 
 <br> 
 
 <https://www.mvariety.com/news/national/trump-deploys-national-guard-as-los-angeles-protests-against-immigration-agents-continue/article_cb48d8b2-1af9-4109-9014-254b3f8b369e.html>
+
+---
+
+## Hawaii’s math teaching deemed ‘unacceptable’
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>A nonpartisan national council that analyzed the quality of the nation&#8217;s math teaching found Hawaii to be one of seven states with an &#8220;unacceptable&#8221; rating for math education.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/hawaii-news/hawaiis-math-teaching-deemed-unacceptable/>
+
+---
+
+## More federal workers are flooding the job market, with worsening prospects
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>After Matt Minich was fired from his job with the Food and Drug Administration in February, he did what many scientists have done for years after leaving public service. He looked for a position with a university.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/more-federal-workers-are-flooding-the-job-market-with-worsening-prospects/>
+
+---
+
+## Trump’s relationship with Musk remains icy as public spat goes private
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump is blaming Elon Musk&#8217;s behavior on drug use, as the acrimonious blowup of their partnership left both men &#8212; who lobbed online insults and threats at each other Thursday &#8212; with a lot at risk.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/trumps-relationship-with-musk-remains-icy-as-public-spat-goes-private/>
+
+---
+
+## Justices grant DOGE access to Social Security data and let the team shield records
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court on Friday let members of the Department of Government Efficiency, formed by Elon Musk, have access to sensitive records of many millions of Americans held by the Social Security Administration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/justices-grant-doge-access-to-social-security-data-and-let-the-team-shield-records/>
+
+---
+
+## Tropical Gardening: Time to start a perfect vegetable garden
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>Inflation and increasing food costs can be a problems but also an opportunity to be creative in your garden. One project to reduce food bills and have some family fun as is to grow your own vegetables. Yards and lanais are prime opportunity to help cut food expenses. You can do it by planting vegetables along with your ornamentals.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/features/tropical-gardening-time-to-start-a-perfect-vegetable-garden/>
+
+---
+
+## Proud Boys convicted in Jan. 6 attack sue government on claims of ‘political persecution’
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>Five members of the Proud Boys who were convicted of seditious conspiracy and other charges in connection with the violent assault on the Capitol on Jan. 6, 2021, sued the government for $100 million Friday, claiming that federal officials had subjected them to &#8220;political persecution&#8221; as &#8220;allies of President Trump.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/proud-boys-convicted-in-jan-6-attack-sue-government-on-claims-of-political-persecution/>
+
+---
+
+## Law would make most National Weather Service workers hard to fire
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>A bill introduced in the House of Representatives on Friday would make it harder to fire most employees of the National Weather Service and give the agency&#8217;s director the authority to hire new staff directly, months after it lost nearly 600 employees to layoffs and retirements as part of the Trump administration&#8217;s sweeping cuts to the federal workforce.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/law-would-make-most-national-weather-service-workers-hard-to-fire/>
+
+---
+
+## Tornadoes are reported across the Plains amid widespread severe weather threat
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>At least two tornadoes spun through eastern Oklahoma and western Arkansas on Friday, part of a system of severe weather that threatened to bring large hail, damaging winds and flash flooding from the southern Plains to the Southeast through the weekend.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/tornadoes-are-reported-across-the-plains-amid-widespread-severe-weather-threat/>
+
+---
+
+## How the Trump administration banished eight men to legal limbo in Africa
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>Somewhere inside Camp Lemonnier, a U.S. military base in the East African nation of Djibouti, eight men, all convicted of serious crimes in the United States, are under the guard of officers from the Department of Homeland Security.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/how-the-trump-administration-banished-eight-men-to-legal-limbo-in-africa/>
+
+---
+
+## Russia pummels Kyiv in apparent retaliation for drone assault
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Russia on Friday launched one of the largest barrages of missiles and drones of the war at targets across Ukraine, killing at least four people and damaging buildings nationwide, in what Moscow suggested was retaliation for Ukraine&#8217;s recent audacious assault on Russian strategic bomber bases.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/russia-pummels-kyiv-in-apparent-retaliation-for-drone-assault/>
+
+---
+
+## Agents use military-style force against protesters at LA immigration raid
+
+date: 2025-06-07, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Federal agents in tactical gear armed with military-style rifles threw flash-bang grenades to disperse an angry crowd near downtown Los Angeles on Friday as they conducted an immigration raid on a clothing wholesaler, the latest sign of tensions between protesters and law enforcement over raids carried out at stores, restaurants and court buildings.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/agents-use-military-style-force-against-protesters-at-la-immigration-raid/>
+
+---
+
+## UH students tackle real-world challenges with local family businesses
+
+date: 2025-06-07, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> students are helping <span aria-label="Hawaii">Hawai&#699;i</span> family businesses grow with fresh ideas, tech solutions and teamwork.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/06/real-world-challenges-with-local-businesses/"><abbr>UH</abbr> students tackle real-world challenges with local family businesses</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/06/real-world-challenges-with-local-businesses/>
+
+---
+
+## From bros to foes: How the unlikely Trump-Musk relationship imploded
+
+date: 2025-06-07, updated: 2025-06-08, from: Marianas Variety
+
+WASHINGTON (Reuters) — When Donald Trump met privately with White House officials on Wednesday, there was little to suggest that the U.S. president was close to a public break with Elon Musk, the billionaire businessman who helped him win a second term in office. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/from-bros-to-foes-how-the-unlikely-trump-musk-relationship-imploded/article_a078ec76-9f7e-4cdc-8ccc-fa7814088c02.html>
+
+---
+
+## Local leaders offer perspectives on Matt Elliott’s appointment as UH Mānoa AD
+
+date: 2025-06-07, from: University of Hawaiʻi News
+
+<p>Leaders say Matt Elliott brings rare leadership skills and deep ties to <span aria-label="Hawaii">Hawai&#699;i</span> as he prepares to lead <abbr>UH</abbr> Mānoa Athletics.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/06/leaders-offer-perspectives-new-ad/">Local leaders offer perspectives on Matt Elliott’s appointment as <abbr>UH</abbr> Mānoa <abbr>AD</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/06/leaders-offer-perspectives-new-ad/>
 

@@ -1,17 +1,56 @@
 ---
 title: socal north
-updated: 2025-06-13 14:07:05
+updated: 2025-06-14 06:07:29
 ---
 
 # socal north
 
-(date: 2025-06-13 14:07:05)
+(date: 2025-06-14 06:07:29)
+
+---
+
+## Fear of ICE is driving local immigrants away from school, work, even the grocery store
+
+date: 2025-06-13, from: Longbeach Post
+
+<figure><img width="1024" height="557" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC-1024x557.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC-1024x557.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC-300x163.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC-768x418.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC-400x218.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/12195649/12jun25-6-12-25-stuff-9862-967728-ks8jacye-518079-NiaSTwwC.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Students, nonprofit leaders and medical providers say a wide swath of Long Beach has gone into hiding amid Trump’s crackdown.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/fear-ice-raid-long-beach-immigrants-hiding">Fear of ICE is driving local immigrants away from school, work, even the grocery store</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/fear-ice-raid-long-beach-immigrants-hiding>
+
+---
+
+## Community rallies after federal agents ram car with kids inside in Boyle Heights arrest
+
+date: 2025-06-13, updated: 2025-06-13, from: The LAist
+
+Christian Cerna, a U.S. citizen, was detained in a “targeted arrest” by Department of Homeland Security agents. 
+
+<br> 
+
+<https://laist.com/news/politics/community-rallies-after-federal-agents-ram-car-with-kids-inside-in-boyle-heights-arrest>
+
+---
+
+## Copenhagen is adapting to a warmer world with rain tunnels and 'sponge parks'
+
+date: 2025-06-13, updated: 2025-06-13, from: The LAist
+
+Copenhagen is expected to receive 30% more rainfall by the end of the century. The city is responding with a massive long-term adaptation plan. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/copenhagen-is-adapting-to-a-warmer-world-with-rain-tunnels-and-sponge-parks>
 
 ---
 
 ## Sun Valley residents are fed up with recycling facility pollution. Can a California bill help?
 
-date: 2025-06-13, updated: 2025-06-13, from: The LAist
+date: 2025-06-13, updated: 2025-06-14, from: The LAist
 
 After years of complaints, officials aim to close loopholes to address pollution from aggregate recycling facilities, which process concrete, asphalt and similar material for reuse. 
 
@@ -63,7 +102,7 @@ Trump signed three measures revoking California's waivers for rules that clean u
 
 date: 2025-06-13, from: Longbeach Post
 
-<figure><img width="1024" height="506" src="https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-300x148.jpg 300w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-1024x506.jpg 1024w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-768x380.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-192x95.jpg 192w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-400x198.jpg 400w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-470x232.jpg 470w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-970x479.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="506" src="https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-300x148.jpg 300w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-1024x506.jpg 1024w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-768x380.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-192x95.jpg 192w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-400x198.jpg 400w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-470x232.jpg 470w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-970x479.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A child infected with measles may have been contagious while at MemorialCare’s Long Beach Medical Center on Atlantic Avenue last week.</p>
 <p>The post <a href="https://lbpost.com/news/health/measles-case-long-beach-warn-health-department-memorial">Health Department warns about confirmed measles case in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -256,9 +295,9 @@ SoCal workers authorized a strike but local organizers say the recent ICE sweeps
 
 ---
 
-## State Attorney General files lawsuit against Mike Nijjar, landlord at the center of LAist investigation
+## State attorney general sues Mike Nijjar, landlord at the center of LAist investigation
 
-date: 2025-06-12, updated: 2025-06-12, from: The LAist
+date: 2025-06-12, updated: 2025-06-13, from: The LAist
 
 One of the state’s largest landlords — the man at the center of an LAist investigation — is being sued for allegedly letting his properties fall into dangerous disrepair. 
 
@@ -310,7 +349,7 @@ From Hawthorne to Bel Air, we explore Brian Wilson’s roots in L.A. County.
 
 date: 2025-06-12, from: Longbeach Post
 
-<figure><img width="1024" height="527" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1024x527.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1024x527.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-300x154.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-768x395.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-192x99.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1536x790.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-2048x1054.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1200x618.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1568x807.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-400x206.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="527" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1024x527.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1024x527.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-300x154.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-768x395.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-192x99.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1536x790.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-2048x1054.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1200x618.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-1568x807.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/19152210/second-street-shooting-scene-149752-d4upbbbq-095547-KKrTuY44-400x206.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Three recent shootings in Belmont Shore frayed some nerves. </p>
 <p>The post <a href="https://lbpost.com/news/crime/belmont-shore-shootings-second-street-safety">With neighbors concerned about recent violence, police put focus on 2nd Street</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -386,7 +425,7 @@ A series of demonstrations across the U.S. will take place on Saturday, includin
 
 ---
 
-## Protecting your home from disaster might not help you get insurance
+## Here's how climate change is affecting your home insurance
 
 date: 2025-06-12, updated: 2025-06-12, from: The LAist
 
@@ -509,6 +548,18 @@ Check out Blue Note Jazz Fest, the best brunch spots to bring dad, Gabrielle Zev
 
 ---
 
+## Did a complicated 2024 homeless count lead to errors? Experts and some city officials think so
+
+date: 2025-06-12, updated: 2025-06-13, from: The LAist
+
+An LAist analysis found tech problems and policy changes during the 2024 count raise questions about a reported 10% downturn in unsheltered people in the city of Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-homeless-count-2024-accuracy-questions>
+
+---
+
 ## How veterans are reacting to Marine deployment in LA: ‘The impact is so negative’
 
 date: 2025-06-12, updated: 2025-06-13, from: The LAist
@@ -530,18 +581,6 @@ So many choices, so little time. Some bars boast a 700 plus whisky collection, a
 <br> 
 
 <https://laist.com/news/food/pappy-van-winkle-or-jameson-whatever-the-tipple-take-your-dad-to-an-la-whiskey-bar-for-fathers-day>
-
----
-
-## Did a complicated 2024 homeless count lead to errors? Experts and some city officials think so
-
-date: 2025-06-12, updated: 2025-06-12, from: The LAist
-
-An LAist analysis found tech problems and policy changes during the 2024 count raise questions about a reported 10% downturn in unsheltered people in the city of Los Angeles. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/los-angeles-homeless-count-2024-accuracy-questions>
 
 ---
 
@@ -1618,4 +1657,166 @@ Hey, Sunshine Kitchen is offering a free pollinator plant every Monday to improv
 <br> 
 
 <https://laist.com/news/los-angeles-activities/would-you-like-a-plant-with-that-how-a-culver-city-vegan-restaurant-is-supporting-bees-and-butterflies>
+
+---
+
+## As Altadena rises from the ashes, a new mural speaks to those longing for home
+
+date: 2025-06-07, updated: 2025-06-09, from: The LAist
+
+Robert Vargas, known for his large-scale murals of Shohei Ohtani and Fernando Valenzuela, wanted to celebrate the resilience of the community devastated by the Eaton Fire. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/new-robert-vargas-mural-celebrating-altadena-debuts-today>
+
+---
+
+## As ICE agents enter LA communities, here's what the law says about civil rights — regardless of immigration status
+
+date: 2025-06-07, updated: 2025-06-10, from: The LAist
+
+Undocumented immigrants and mixed-status families are learning how to assert themselves — and prepare for worst-case scenarios. 
+
+<br> 
+
+<https://laist.com/news/politics/immigration-california-know-your-rights-ice-sweeps-los-angeles>
+
+---
+
+## ICE raids grow tense nationwide as protesters confront immigration agents
+
+date: 2025-06-07, updated: 2025-06-07, from: The LAist
+
+Bystanders and protesters have been confronting ICE agents as the Trump administration ramps up immigration enforcement. 
+
+<br> 
+
+<https://laist.com/news/ice-raids-grow-tense-as-protesters-confront-immigration-agents>
+
+---
+
+## As immigration raids expand, protesters clash with feds in Paramount; Trump to deploy National Guard
+
+date: 2025-06-07, from: Longbeach Post
+
+<figure><img width="1024" height="474" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-1024x474.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-1024x474.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-300x139.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-768x355.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-192x89.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-400x185.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Rep. Nanette Barragán, who represents the area in Congress, said ICE was now bringing “their terror tactics and masked agents” to Paramount.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/immigration-raids-paramount-home-depot">As immigration raids expand, protesters clash with feds in Paramount; Trump to deploy National Guard</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/immigration-raids-paramount-home-depot>
+
+---
+
+## LA mayor signs $13B city budget with fewer proposed layoffs, strikes deal on LAPD hirings
+
+date: 2025-06-07, updated: 2025-06-07, from: The LAist
+
+The plan includes more than 600 layoffs and cuts to city services. Bass said she's struck a deal with City Council members to restore LAPD hiring levels for next year. 
+
+<br> 
+
+<https://laist.com/news/politics/la-mayor-signs-13b-city-budget-that-includes-fewer-proposed-layoffs-strikes-deal-to-retain-lapd-hirings>
+
+---
+
+## Go, Gizmo! Both Big Bear eaglets fly away from nest
+
+date: 2025-06-07, updated: 2025-06-07, from: The LAist
+
+It’s a bittersweet moment for tens of thousands of fans who’ve watched the eagles grow through the YouTube livestream. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/go-gizmo-both-big-bear-eaglets-fly-away-from-nest>
+
+---
+
+## San Francisco Takes Action for World Environment Day
+
+date: 2025-06-07, from: CalVolunteers
+
+ 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/san-francisco-takes-action-for-world-environment-day/>
+
+---
+
+## San Francisco toma medidas por el Día Mundial del Medio Ambiente
+
+date: 2025-06-07, from: CalVolunteers
+
+ 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/san-francisco-toma-medidas-por-el-dia-mundial-del-medio-ambiente/>
+
+---
+
+## Los Angeles gets a new women's sports bar — Untamed Spirits in Silver Lake
+
+date: 2025-06-07, updated: 2025-06-07, from: The LAist
+
+Untamed Spirits in Silver Lake wants to be the go-to sports bar for local regulars and hardcore fans looking for a different vibe. It's the second women's sports bar to open in L.A. County in as many years. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/silverlake-los-angeles-womens-sports-bar-untamed-spirits>
+
+---
+
+## Federal judge orders LA to verify thousands of rental subsidies for unhoused people
+
+date: 2025-06-07, updated: 2025-06-07, from: The LAist
+
+The order came at the end of a days-long hearing to determine whether the city is meeting its legal obligations to provide more shelter for unhoused Angelenos. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/federal-judge-orders-la-to-verify-thousands-of-rental-subsidies-for-unhoused-people>
+
+---
+
+## Take a ride to Idyllwild, and maybe bring home a new furry friend
+
+date: 2025-06-07, updated: 2025-06-07, from: The LAist
+
+Living Free, near Idyllwild, is one of the oldest no-kill shelters in the nation. The 150-acre ranch in the San Jacinto Mountains is hosting a day of fun, music and adoptions today. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/idyllwild-adoption-no-skill-shelter>
+
+---
+
+## LA County’s bookmobiles started rolling in the 1940s. Now they’re electric
+
+date: 2025-06-07, updated: 2025-06-09, from: The LAist
+
+The newest electric bookmobile is rolling through eastern L.A. County, checking out books, Wi-Fi hot spots, laptops and more. 
+
+<br> 
+
+<https://laist.com/news/education/la-county-library-bookmobile-east-azusa-east-los-angeles-la-puente-hacienda-heights-pomona-rowland-heights>
+
+---
+
+## Planning Commission OKs self-storage site despite environmental objections
+
+date: 2025-06-07, from: Longbeach Post
+
+<figure><img width="1024" height="653" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-1024x653.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-1024x653.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-300x191.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-768x490.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-169x108.png 169w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-1536x979.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-2048x1306.png 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-1200x765.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-1568x1000.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-400x255.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-e1749306149887.png 1346w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Activists have long sought parkland on the parcel. The city contends this isn’t feasible.</p>
+<p>The post <a href="https://lbpost.com/news/business/development/planning-commission-oks-self-storage-site-despite-environmental-objections">Planning Commission OKs self-storage site despite environmental objections </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/development/planning-commission-oks-self-storage-site-despite-environmental-objections>
 

@@ -1,11 +1,59 @@
 ---
 title: science and technology
-updated: 2025-06-13 14:07:07
+updated: 2025-06-14 06:07:31
 ---
 
 # science and technology
 
-(date: 2025-06-13 14:07:07)
+(date: 2025-06-14 06:07:31)
+
+---
+
+## Curiosity Blog, Sols 4568-4569: A Close Look at the Altadena Drill Hole and Tailings
+
+date: 2025-06-13, from: NASA breaking news
+
+Written by Sharon Wilson Purdy, Planetary Geologist at the Smithsonian National Air and Space Museum Earth planning date: Wednesday, June 11, 2025 As we near the end of our Altadena drill campaign, Curiosity continued her exploration of the Martian bedrock within the boxwork structures on Mount Sharp. After successfully delivering a powdered rock sample to […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4568-4569-a-close-look-at-the-altadena-drill-hole-and-tailings/>
+
+---
+
+## US Army signs up Band of Tech Bros with a suitably nerdy name
+
+date: 2025-06-13, updated: 2025-06-13, from: The Register (UK I.T. News)
+
+<h4>Execs from Palantir, Meta, and OpenAI join Detachment 201</h4> <p>Several of Silicon Valley&#39;s top techies are joining the Army Reserve as part of a newly created unit that will be trying to accelerate the use of AI in military planning and operations.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/13/us_army_techies/>
+
+---
+
+## Cyber weapons in the Israel-Iran conflict may hit the US
+
+date: 2025-06-13, updated: 2025-06-13, from: The Register (UK I.T. News)
+
+<h4>With Tehran’s military weakened, digital retaliation likely, experts tell <em>The Reg</em></h4> <p>The current Israel–Iran military conflict is taking place in the era of hybrid war, where cyberattacks amplify and assist missiles and troops, and is being waged between two countries with very capable destructive cyber weapons.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/13/cyber_weapons_israel_iran/>
+
+---
+
+## MacOS Tahoe brings a new disk image format
+
+date: 2025-06-13, from: OS News
+
+Disk images have been valuable tools marred by poor performance. In the wrong circumstances, an encrypted sparse image (UDSP) stored on the blazingly fast internal SSD of an Apple silicon Mac may write files no faster than 100 MB/s, typical for a cheap hard drive. One of the important new features introduced in macOS 26 Tahoe is a new disk image format that can achieve near-native speeds: ASIF, documented here. This has been detailed as a major improvement in lightweight virtualisation, where it promises to overcome the most significant performance limitation of VMs running on Apple silicon Macs. However, ASIF disk images are available for general use, and even work in macOS Sequoia. This article shows what they can do. ↫ Howard Oakley Exactly what it says on the tin. 
+
+<br> 
+
+<https://www.osnews.com/story/142571/macos-tahoe-brings-a-new-disk-image-format/>
 
 ---
 
@@ -2010,4 +2058,28 @@ date: 2025-06-08, updated: 2025-06-08, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/>
+
+---
+
+## £127M wasted on failed UK nuclear cleanup plan
+
+date: 2025-06-07, updated: 2025-06-07, from: The Register (UK I.T. News)
+
+<h4>Don&#39;t worry, only 100 more years of Sellafield nuclear site cleansing to go</h4> <p>The center for the UK&#39;s nuclear industry wasted £127 million ($172 million) during delays and replanning as it scrambled to find alternatives for facilities which treat and repackage plutonium, a Parliamentary report found.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/07/mps_find_127_million_wasted_sellafield/>
+
+---
+
+## Trump lifts US supersonic flight ban, says he's 'Making Aviation Great Again'
+
+date: 2025-06-07, updated: 2025-06-07, from: The Register (UK I.T. News)
+
+<h4>It&#39;s boom time for the next generation of fast travel</h4> <p>On Friday, President Trump signed an executive order telling the FAA to lift its 52-year ban on supersonic flight over the US and told the FAA to devise a scheme to limit noise pollution from such aircraft.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/07/trump_supersonic_flight/>
 
