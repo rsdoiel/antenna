@@ -1,11 +1,123 @@
 ---
 title: planet
-updated: 2025-06-15 06:08:37
+updated: 2025-06-15 14:07:18
 ---
 
 # planet
 
-(date: 2025-06-15 06:08:37)
+(date: 2025-06-15 14:07:18)
+
+---
+
+## Israeli military kills 41 people in Gaza, medics say
+
+date: 2025-06-15, from: RTÉ News
+
+Israeli gunfire and airstrikes have killed at least 41 Palestinians across Gaza, local health authorities said, five of them near two aid sites operated by the US-backed Gaza Humanitarian Foundation (GHF). 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0615/1518606-israel-gaza-strikes/>
+
+---
+
+## GAA club 'disappointed' after cans stolen from return bin
+
+date: 2025-06-15, from: RTÉ News
+
+A GAA club in Co Monaghan has said it is "deeply disappointed" after the cans and bottles in one of its secure return bins were stolen. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0615/1518595-club-cans-stolen/>
+
+---
+
+## Relatives decry wait for remains after Air India crash
+
+date: 2025-06-15, from: RTÉ News
+
+More than three days after giving a DNA sample, Imtiyaz Ali is enduring an anguished wait to receive the remains of his brother, who died in the Air India crash. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0615/1518589-air-india-crash/>
+
+---
+
+## Ethiopia hosts first Pan-African Focolare gathering
+
+date: 2025-06-15, from: Vatican News
+
+
+                    <p>Ethiopia was the host of the first Pan-African International Conference of the Focolare Spiritual Movement, held from June 5–11, 2025. The conference took place at the Don Bosco Conference Center in Addis Ababa and brought together African Focolare delegate bishops along with the movement’s international coordinators.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-06/ethiopia-hosts-first-pan-african-focolare-gathering.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-06/ethiopia-hosts-first-pan-african-focolare-gathering.html>
+
+---
+
+## US weighing adding 36 countries to travel ban, memo says
+
+date: 2025-06-15, from: RTÉ News
+
+US President Donald Trump's administration is considering significantly expanding its travel ban by potentially banning citizens of 36 additional countries from entering the United States, according to an internal State Department cable. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0615/1518586-travel-ban/>
+
+---
+
+## Macron in Greenland to 'show French, EU solidarity'
+
+date: 2025-06-15, from: RTÉ News
+
+French President Emmanuel Macron said as he arrived in Greenland that his visit aimed to show the solidarity of France and the European Union over the Arctic island's "sovereignty" and "territorial integrity". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0615/1518585-greenland-macron/>
+
+---
+
+## Liam Gallagher lashes council for disparaging fans
+
+date: 2025-06-15, from: RTÉ News
+
+Oasis singer Liam Gallagher has called out a Scottish council after officials were accused of suggesting fans of the band are "drunk, middle-aged and fat". 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0615/1518582-liam-gallagher-lashes-council-for-disparaging-fans/>
+
+---
+
+## Govt expected to approve rent legislation this week
+
+date: 2025-06-15, from: RTÉ News
+
+It is expected that emergency legislation to extend rent controls nationwide will be approved by Cabinet this week and will then be debated in the Dáil. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0615/1518578-rent-pressure-zones/>
+
+---
+
+## Remains of Air India crash victims handed over to relatives
+
+date: 2025-06-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7561880.1750003958!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/india-plane-crash.jpg' alt='A group of people clasp their hands together and are crying. ' width='620' height='349' title='Relatives grieve as they attend the funeral of Shubh Modi and his sister Shagun Modi, both victims of the Air India plane crash, at a crematorium in Ahmedabad, India, Sunday, June 15, 2025.'/><p>Authorities have started handing over remains of the victims of one of India's worst aviation disasters, days after the Air India flight crashed and killed at least 270 people, officials said Sunday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/air-india-victims-remains-1.7561866?cmp=rss>
 
 ---
 
@@ -34,6 +146,18 @@ date: 2025-06-15, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/pope/news/2025-06/pope-terrible-massacre-guma-yelwata-benue-state-nigeria.html>
+
+---
+
+## Man suspected of shooting 2 Minnesota lawmakers still at large
+
+date: 2025-06-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7561613.1749930267!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/minnesota-lawmakers-shot.jpg' alt='Armed law enforcement stand guard near police vehicles.' width='620' height='349' title='Law enforcement officers including local police, sheriffs and the FBI, stage less than a mile from a shooting in Brooklyn Park, Minn. on Saturday, June 14, 2025. (Alex Kormann/Star Tribune via AP)'/><p>A massive manhunt entered a second day on Sunday in Minnesota for the suspected gunman who killed a Democratic state lawmaker while posing as a police officer, a crime that Governor Tim Walz characterized as a "politically motivated assassination."</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/minnesota-gunman-still-at-large-1.7561810?cmp=rss>
 
 ---
 
@@ -129,7 +253,7 @@ Israel and Iran traded fire for a third straight day, with rising casualties and
 
 ---
 
-## Gardai face legal action over Denis Donaldson inquiry
+## Gardaí face legal action over Denis Donaldson inquiry
 
 date: 2025-06-15, from: RTÉ News
 
@@ -181,7 +305,7 @@ date: 2025-06-15, from: Vatican News
 
 ---
 
-## Iran will pay 'heavy price' for fatalities - Netanyahu
+## Iran says intelligence chief killed in Israeli strike
 
 date: 2025-06-15, from: RTÉ News
 
@@ -217,11 +341,11 @@ An in-depth review into the circumstances which led to RTÉ's write-down of €3
 
 ---
 
-## Israel and Iran trade strikes for 3rd day as nuclear talks are called off
+## Death toll from 3 days of Israeli strikes on Iran has now topped 400, human rights group says
 
 date: 2025-06-15, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7561459.1749876049!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-israel-iran-mideast-wars.jpg' alt='Rescue workers stand amid rubble and near destroyed buildings.' width='620' height='349' title='Israeli security forces inspect destroyed houses that were struck by a missile fired from Iran, in Rishon Lezion, Israel on Saturday, June 14, 2025. (AP Photo/Ohad Zwigenberg)'/><p>Israel unleashed airstrikes across Iran for a third day on Sunday and threatened even greater force as some Iranian missiles evaded Israeli air defenses to strike buildings in the heart of the country. Planned talks on Iran's nuclear program, which could provide an off-ramp, were canceled.</p> 
+<img src='https://i.cbc.ca/1.7561912.1750012218!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/iran-israel-mideast-wars.jpg' alt='An adult carries a wounded child through a crowd.' width='620' height='349' title='A man carries a wounded girl after an explosion in downtown Tehran amid Israel&apos;s three-day campaign of strikes against Iran, Sunday, June 15, 2025. (AP Photo/Morteza Zangene/ISNA)'/><p>Israel unleashed airstrikes across Iran for a third day on Sunday and threatened even-greater force as some Iranian missiles evaded Israeli air defences to strike buildings in the heart of the country. Planned talks on Iran's nuclear program, which could provide an off-ramp, were cancelled.</p> 
 
 <br> 
 
@@ -281,7 +405,7 @@ The European Health Insurance Card is a valuable resource for Irish people plann
 
 date: 2025-06-15, from: RTÉ News
 
-A manhunt is continuing for a gunman who shot two Democratic state politicians in Minnesota, killing one and her husband and wounding the other, in what the northern US state's governor said were politically motivated attacks. 
+US police have been conducting a massive manhunt in Minnesota for the gunman who killed a Democratic state politician while posing as a police officer, a crime that Governor Tim Walz characterised as a "politically motivated assassination". 
 
 <br> 
 
@@ -317,7 +441,7 @@ Adam Scott put himself in prime position to collect his second major championshi
 
 date: 2025-06-14, from: RTÉ News
 
-Iran launched a new wave of missiles at Israel, wounding several people in residential buildings, while Israel said it was striking Iranian targets. 
+Israel and Iran have launched fresh attacks on each other overnight, killing scores and raising fears of a wider conflict, as US President Donald Trump said it could be ended easily while warning Iran not to strike any US targets. 
 
 <br> 
 
@@ -1179,7 +1303,7 @@ Secretary-General António Guterres condemned Israeli strikes in Iran late Thurs
 
 ## UN ocean summit in Nice  closes with wave of commitments
 
-date: 2025-06-13, from: United Nations, Economic Development
+date: 2025-06-13, from: United Nations, Top Stories
 
 Ships in the port of Nice sounded their fog-horns on Friday, a brassy crescendo to a rare moment of global unity as the Third UN Ocean Conference drew to a close. Moments earlier, more than 170 countries had adopted by consensus a sweeping political declaration promising urgent action to protect the ocean. 
 
@@ -2072,7 +2196,7 @@ With 13.5 million people displaced by over 13 years of brutal civil conflict, Sy
 
 ## ‘No Ocean Declaration without small islands’: Delegates push for inclusion as UN summit nears end
 
-date: 2025-06-12, from: United Nations, Economic Development
+date: 2025-06-12, from: United Nations, Top Stories
 
 With one day remaining before the conclusion of the Third UN Ocean Conference, delegates in Nice are preparing for the adoption of the summit’s eagerly anticipated political declaration. Small island developing States, facing the direct effects of climate change and marine resource decline, are pushing to ensure their perspectives are reflected in global ocean policy. 
 
@@ -2084,7 +2208,7 @@ With one day remaining before the conclusion of the Third UN Ocean Conference, d
 
 ## Global push to end plastic pollution gains ground in Nice
 
-date: 2025-06-12, from: United Nations, Economic Development
+date: 2025-06-12, from: United Nations, Top Stories
 
 Behind closed doors, in a domed conference pavilion steps away from the historic port of Nice, more than 40 ministers gathered on Tuesday to tackle one of the planet’s fastest-growing environmental threats: plastic pollution.&nbsp; 
 
@@ -3256,7 +3380,7 @@ The Government's new policy on rents has been branded a "shambles" by Sinn Féin
 
 ## The world pledged to end child labour by 2025: So why are 138 million kids still working?
 
-date: 2025-06-11, from: United Nations, Economic Development
+date: 2025-06-11, from: United Nations, Top Stories
 
 Twelve-year-old Tenasoa crawls to work every day at a mine in eastern Madagascar where she collects two kilos of the shiny mineral mica each day. She cannot walk because of a physical disability. 
 
@@ -3280,7 +3404,7 @@ Survivors of a people-smuggling operation in the Red Sea have described being fo
 
 ## ‘Plenty of fish in the sea’? Not anymore, say UN experts in Nice
 
-date: 2025-06-11, from: United Nations, Economic Development
+date: 2025-06-11, from: United Nations, Top Stories
 
 At the Third UN Ocean Conference in Nice, the “catch of the day” wasn’t a seabass or a red mullet – it was a figure: 35 per cent. That’s the share of global fish stocks now being harvested unsustainably, according to a new UN report released Wednesday. 
 
@@ -4340,7 +4464,7 @@ The very real risk of famine continues to stalk Sudan’s communities impacted b
 
 ## World News in Brief: Global growth slows, deadly Ukraine attacks, Haiti hurricane hunger risk, legal migration for refugees
 
-date: 2025-06-10, from: United Nations, Economic Development
+date: 2025-06-10, from: United Nations, Top Stories
 
 Global economic growth is expected to decline this year due to increased trade barriers and policy uncertainty, the World Bank said in a report published on Tuesday.&nbsp; 
 

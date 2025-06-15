@@ -1,11 +1,11 @@
 ---
 title: north america
-updated: 2025-06-15 06:08:38
+updated: 2025-06-15 14:07:20
 ---
 
 # north america
 
-(date: 2025-06-15 06:08:38)
+(date: 2025-06-15 14:07:20)
 
 ---
 
@@ -40,8 +40,8 @@ date: 2025-06-15, from: The Contrarian
 Coast-to-coast coverage of the resistance 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165803404/80f042116bcedc7d09f390a5c0bbeffd.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/165803404/80f042116bcedc7d09f390a5c0bbeffd.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165803404/d89feb9786015f9ea77c75eb9a606415.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165803404/d89feb9786015f9ea77c75eb9a606415.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/no-kings-day-live-fbd>
 
@@ -138,8 +138,8 @@ date: 2025-06-13, from: The Contrarian
 "This is about whether people can express dissent and disagreement with their government without being met with heavy force" 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165868100/d9c2bfee28aae07999e5ae59108e9b72.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/165868100/d9c2bfee28aae07999e5ae59108e9b72.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165868100/24c5b770c4803273f6a91f919760c52f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165868100/24c5b770c4803273f6a91f919760c52f.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/americans-have-the-right-to-protest>
 
@@ -202,8 +202,8 @@ date: 2025-06-13, from: The Contrarian
 A recording from Coffee with The Contrarians LIVE 06/13 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165865251/1d0a039cc9410b8bdad15eb20d40eddd.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/165865251/1d0a039cc9410b8bdad15eb20d40eddd.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165865251/221e8d79023b593014d33cb59589c6a1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165865251/221e8d79023b593014d33cb59589c6a1.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/special-coffee-with-contrarians-on>
 

@@ -1,11 +1,47 @@
 ---
 title: pacific
-updated: 2025-06-15 06:08:39
+updated: 2025-06-15 14:07:22
 ---
 
 # pacific
 
-(date: 2025-06-15 06:08:39)
+(date: 2025-06-15 14:07:22)
+
+---
+
+## New campaign aims to encourage more Pasifika women to get breast screening
+
+date: 2025-06-15, from: 
+
+"We want women to know that it's okay to talk about it and to feel safe and to feel like it's okay to share their stories." 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564229/new-campaign-aims-to-encourage-more-pasifika-women-to-get-breast-screening>
+
+---
+
+## Saipan vessel intercepted in Guam carrying undeclared fireworks
+
+date: 2025-06-15, from: 
+
+A vessel towing cargo from Saipan was intercepted by Guam Customs officers after an inspection uncovered undeclared fireworks. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564230/saipan-vessel-intercepted-in-guam-carrying-undeclared-fireworks>
+
+---
+
+## Pacific news in brief for 16 June
+
+date: 2025-06-15, from: 
+
+A round-up of news from around the region, including arrests in Nauru related to cyber info-stealing. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564231/pacific-news-in-brief-for-16-june>
 
 ---
 

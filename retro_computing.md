@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-06-15 06:08:45
+updated: 2025-06-15 14:07:28
 ---
 
 # retro computing
 
-(date: 2025-06-15 06:08:45)
+(date: 2025-06-15 14:07:28)
+
+---
+
+## b.log 2025/06/15 - Cake fail!, Vide grenier, Panasonic SD-253 Bread Maker, Another clock.
+
+date: 2025-06-15, from: Richard Murray's blog
+
+Cake fail!, Vide grenier, Panasonic SD-253 Bread Maker, Another clock. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250615>
 
 ---
 

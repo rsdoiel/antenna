@@ -1,11 +1,92 @@
 ---
 title: columns
-updated: 2025-06-15 06:08:41
+updated: 2025-06-15 14:07:24
 ---
 
 # columns
 
-(date: 2025-06-15 06:08:41)
+(date: 2025-06-15 14:07:24)
+
+---
+
+## If the Ten Commandments Reflected Reality
+
+date: 2025-06-15, updated: 2025-06-15, from: Ron Garret
+
+And the Lord spoke unto Moses, saying: I am the Lord your God, who brought you out of Egypt, out of the land of slavery.You shall have no other gods before me.&nbsp; Except Donald Trump.&nbsp; If he says something that goes against my word, you shall believe him and not me.You shall not make for yourself any image in the form of anything in heaven above or on the earth beneath or in the waters 
+
+<br> 
+
+<https://blog.rongarret.info/2025/06/if-ten-commandments-reflected-reality.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-15, from: Dave Winer's Scripting News)
+
+In a year or two it will be possible to create a perfect TV version of any person. No longer can you say any person has to die eventually and go away. And we can have anyone back we want.
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/15.html#a145945>
+
+---
+
+## ChatGPT right-margin image
+
+date: 2025-06-15, from: Dave Winer's Scripting News
+
+<p>If you're a regular reader of my blog you know I put images in the right margins of pieces. I get an idea then I go scouting around using search to find the image that fits. </p>
+<p>Today I was looking for an image of an army General. </p>
+<ul>
+<li>i'd like a painting style image of an american general in world war ii timeframe standing on a white background, full body from shoes to helmet, lots of medals, angry determination on his face. as if it were a portrait. </li>
+</ul>
+<p>This is what I got, and it's perfect.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/06/15/machoGeneral.png"></center>Macho army general thanks to ChatGPT.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/15/144200.html?title=chatgptRightmarginImage>
+
+---
+
+## Some media is for relaxation
+
+date: 2025-06-15, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2025/06/15/machoGeneralTaco.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">BTW, this <a href="https://www.nytimes.com/2025/06/13/opinion/obama-save-america-trump.html">piece</a> in the NYT has a <a href="https://imgs.scripting.com/2025/06/15/joerogue.png">bit of wisdom</a> that I had not considered because I don't listen to Joe Rogan it would never occur to me. He's relaxing white noise, chatting in the background while you play a game or write a blog post or text message on your phone, or just think about something unrelated. I forgot that mode of media consumption. I'm always on the hunt for that kind of content. That's why sports games are so good. You can almost completely tune out, knowing they'll replay the best stuff. </p>
+<p>Reminds of a meeting we had a <a href="https://daytona.scripting.com/search?q=Berkman">Berkman</a> in the early days of podcasting. Most of the faculty were of course not on board with what we were doing, possibly believing that it threatened public radio (didn't turn out that way at all, they made incredibly good use of podcasting). One of the guys from <a href="https://www.prx.org/">PRX</a> which was also incubating there at the time, said at me in a challenging way -- You get the best info from public radio! Right? I thought for a minute and realized this was a good question. No, I said, it's relaxing, I can tune out while I'm driving or walking around town. Loud groans. But it's so true. Now it's great when there's a <a href="https://en.wikipedia.org/wiki/Dept._Q">TV series</a> that really <a href="https://daytona.scripting.com/search?q=disbelief">catches</a> your attention, I love that too, but most of my media-ingesting time is with white noise, background relaxation. The world is still okay when the background noise on MSNBC are still on the air between the ever more disgusting ads for diseases I probably will never get. </p>
+<p>There must be a better way. </p>
+<p>It's like the canaries in a coalmine. When they go off the air that's when you really have to start worrying! </p>
+<p>BTW, PRX was a good idea. Brilliant actually. Distribute the content from the public radio sources that generate too much to the ones in less populated areas where they don't generate enough. Podcasting blew that up -- but PRX adjusted their approach, and became a distributor of podcasting. That's an entrepreneur's approach. The were able to pivot and continue to make a contribution to this day. </p>
+<p>I often wonder how we missed the opportunity to build a great media incubator at Harvard in the 00s. We were right there, and the backer of Berkman wanted entrepreurial projects, I found out at the reunion two summers ago. We had it, were there, if only.. Heh when you get to be my age there's lots of that. </p>
+<p>Also I wonder how I missed the potential of WordPress all those years. Ships passing in the night. But we're there now, so..</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/15/141220.html?title=someMediaIsForRelaxation>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-15, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/06/15/tacoShells.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I figured that yesterday's army march in DC would have caused clashes with the police in more places than it did, perhaps due to false flag attacks "from the left" at one of the many No King Day parades around the country. I thought this was the moment when it would all melt down. America's Reichstad Fire. If it were an episode of Mission Impossible or Batman, it would definitely have gone that way. I bet there were plans hatched on open chat channels between various Cabinet members and their families, and probably Elon Musk via an interpreter, to coordinate. I was also surprised there weren't any Tesla Cybertrucks in yesterday's parade. I guess the honeymoon is really over. Anyway, they had to have had a plan, but I keep forgetting this is not Generalissimo Trump, rather it's TV President "Taco" Trump. I think they had a plan and he lost his nerve at the last minute. Instead, the Maga in Minnesota lit a different fuse, assassinating the speaker of the state house. That's a line that hadn't yet been crossed, but you knew the day would come. It's here. 
+
+<br> 
+
+<http://scripting.com/2025/06/15.html#a135631>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-15, from: Dave Winer's Scripting News)
+
+When Trump was on trial in NYC he begged for support from his base, no one showed up. The cops prepared for rallies that never showed up. 
+
+<br> 
+
+<http://scripting.com/2025/06/15.html#a130431>
 
 ---
 
@@ -1777,6 +1858,18 @@ Today is the 100th birthday of Gail Jesswein, my father-in-law. Gail was the fat
 <br> 
 
 <https://doc.searls.com/2025/06/08/a-happy-hundredth/>
+
+---
+
+## The Talk Show Live From WWDC 2025: Tuesday at 7pm PT in San Jose
+
+date: 2025-06-09, updated: 2025-06-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2025>
 
 ---
 

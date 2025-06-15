@@ -1,11 +1,74 @@
 ---
 title: socal north
-updated: 2025-06-15 06:08:38
+updated: 2025-06-15 14:07:21
 ---
 
 # socal north
 
-(date: 2025-06-15 06:08:38)
+(date: 2025-06-15 14:07:21)
+
+---
+
+## Say goodbye to June Gloom as SoCal simmers under summer heat
+
+date: 2025-06-15, updated: 2025-06-15, from: The LAist
+
+Sunday is the warmest day of the week, but the heat will stick around. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/june-gloom-is-gone-as-summer-officially-approaches>
+
+---
+
+## Man fatally shot in West Long Beach on Saturday morning, police say
+
+date: 2025-06-15, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Paramedics rushed him to a hospital, where he died from his injuries, police said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/man-fatally-shot-in-west-long-beach-on-saturday-morning-police-say">Man fatally shot in West Long Beach on Saturday morning, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/man-fatally-shot-in-west-long-beach-on-saturday-morning-police-say>
+
+---
+
+## Photos: See No Kings protests in California around the country
+
+date: 2025-06-15, updated: 2025-06-15, from: The LAist
+
+People gathered for pro-democracy protests across the country on Saturday. 
+
+<br> 
+
+<https://laist.com/news/photos-see-no-kings-protests-around-the-country>
+
+---
+
+## 3 takeaways from the military parade and No Kings protests on Trump's birthday
+
+date: 2025-06-15, updated: 2025-06-15, from: The LAist
+
+The parade stirred up controversy for what opponents view as a politicization of the nation's armed forces and sparked an organized No Kings protest movement. 
+
+<br> 
+
+<https://laist.com/news/politics/3-takeaways-from-the-military-parade-and-no-kings-protests-on-trumps-birthday>
+
+---
+
+## After Eaton Fire, tattoo artists turn loss into Altadena-inspired art
+
+date: 2025-06-15, updated: 2025-06-15, from: The LAist
+
+After fire destroyed her June Bug tattoo studio, Isabella Livingstone regrouped — and began offering healing ink to fellow fire survivors. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/eaton-fire-tattoo-june-bug-altadena>
 
 ---
 
@@ -51,7 +114,7 @@ The official focus of the parade was the commemoration of the U.S. Army's 250th 
 
 date: 2025-06-14, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The incident began when officers conducted a traffic stop at about 8:10 p.m. Friday in the area of Redondo Avenue and Pacific Coast Highway, authorities said. </p>
 <p>The post <a href="https://lbpost.com/news/police-establish-barricade-around-pch-motel-2-arrested">Police establish barricade around PCH motel; 2 arrested</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -175,7 +238,7 @@ Solo en el Distrito Escolar Unificado de Los Ángeles, hay más de 400 escuelas 
 
 date: 2025-06-14, from: Longbeach Post
 
-<figure><img width="1024" height="663" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF-1024x663.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF-1024x663.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF-300x194.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF-768x497.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF-167x108.jpg 167w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF-400x259.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="663" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF-1024x663.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF-1024x663.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF-300x194.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF-768x497.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF-167x108.jpg 167w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF-400x259.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Police briefly closed portions of Ocean Boulevard — a smaller crowd walked to Downtown, then returned to Alamitos Beach — but otherwise no incidents were reported. </p>
 <p>The post <a href="https://lbpost.com/news/ice-protests">Thousands turn out in protest of ICE raids after week of chaos</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -186,11 +249,11 @@ date: 2025-06-14, from: Longbeach Post
 
 ---
 
-## After hours of peaceful 'No Kings' protest, police enforce overnight curfew in downtown LA
+## Tens of thousands of Angelenos gather for 'No Kings' protest, LAPD arrests dozens for alleged curfew violations
 
 date: 2025-06-14, updated: 2025-06-15, from: The LAist
 
-The organized opposition was timed for the day President Trump is hosting a rare U.S. military parade in Washington that's taking place on his 79th birthday. 
+The LAPD said there were 35 arrests for allegedly violating the curfew order overnight. In all, the department said there have been 561 arrests related to protest activity since last Saturday. 
 
 <br> 
 
@@ -236,7 +299,7 @@ California Democrats set aside millions of dollars for immigrant legal services.
 
 ## At LA graduations, some families risk ICE detention to shower students with gifts and hugs
 
-date: 2025-06-14, updated: 2025-06-14, from: The LAist
+date: 2025-06-14, updated: 2025-06-15, from: The LAist
 
 Students who started high school wearing face masks and testing for COVID-19 graduate in the midst of widespread immigration raids. 
 

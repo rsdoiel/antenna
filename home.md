@@ -1,11 +1,25 @@
 ---
 title: home
-updated: 2025-06-15 06:08:44
+updated: 2025-06-15 14:07:27
 ---
 
 # home
 
-(date: 2025-06-15 06:08:44)
+(date: 2025-06-15 14:07:27)
+
+---
+
+## Learn How to Plant and Grow Agrimony in Your Herb Garden
+
+date: 2025-06-15, from: The Gardener's Path
+
+<p>Agrimony (Agrimonia spp.) is a hardy, herbaceous perennial herb with tall spires of yellow flowers that thrives in full sun and poor soil. It's a favorite among pollinators and also valued for its use in natural dyeing and herbal remedies. Learn how to grow agrimony in your home herb garden in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/grow-agrimony/">Learn How to Plant and Grow Agrimony in Your Herb Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/grow-agrimony/>
 
 ---
 

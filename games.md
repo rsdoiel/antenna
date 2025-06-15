@@ -1,11 +1,23 @@
 ---
 title: games
-updated: 2025-06-15 06:08:42
+updated: 2025-06-15 14:07:25
 ---
 
 # games
 
-(date: 2025-06-15 06:08:42)
+(date: 2025-06-15 14:07:25)
+
+---
+
+## Dispatch offers something new for superhero video games — engaging deskwork
+
+date: 2025-06-15, updated: 2025-06-13, from: Polygon Website
+
+While we’ve had plenty of superhero games come out over the past decade and a half (and I’m always down for more), most have either been open-world adventures or fighting games. I’m as excited as anyone for the upcoming Marvel Tōkon and Invincible VS, but I’m also ready for a little something different. That’s where [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/606267/dispatch-new-superhero-game-deskwork>
 
 ---
 

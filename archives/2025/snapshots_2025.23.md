@@ -1,11 +1,62 @@
 ---
 title: snapshots
-updated: 2025-06-15 06:08:48
+updated: 2025-06-15 14:07:32
 ---
 
 # snapshots
 
-(date: 2025-06-15 06:08:48)
+(date: 2025-06-15 14:07:32)
+
+---
+
+## Quoting Joshua Barretto
+
+date: 2025-06-15, updated: 2025-06-15, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.jsbarretto.com/blog/software-is-joy/"><p>I am a huge fan of Richard Feyman’s famous quote:</p>
+<p><strong>“What I cannot create, I do not understand”</strong></p>
+<p>I think it’s brilliant, and it remains true across many fields (if you’re willing to be a little creative with the definition of ‘create’). It is to this principle that I believe I owe everything I’m truly good at. Some will tell you should avoid reinventing the wheel, but they’re wrong: you <em>should</em> build your own wheel, because it’ll teach you more about how they work than reading a thousand books on them ever will.</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.jsbarretto.com/blog/software-is-joy/">Joshua Barretto</a>, Writing Toy Software is a Joy</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/careers">careers</a>, <a href="https://simonwillison.net/tags/programming">programming</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/15/joshua-barretto/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-15, from: Dave Winer's linkblog)
+
+Do parents prefer sons over daughters? Not so much anymore. 
+
+<br> 
+
+<https://www.vox.com/future-perfect/416809/sexism-girl-preference-sex-ratios-discrimination-ivf>
+
+---
+
+## AYANEO AG01 Starship Graphics Dock Review
+
+date: 2025-06-15, from: Liliputing
+
+<p>The AYANEO AG01 Starship is an external graphics dock that brings a discrete AMD Radeon RX 7600M XT mobile GPU to mini, handheld, laptop or desktop computers. With both USB4 and OCuLink connectors, it&#8217;s a versatile external GPU (eGPU) that should work with a wide range of products. It also has a distinctive design that AYANEO says [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/ayaneo-ag01-starship-graphics-dock-review/">AYANEO AG01 Starship Graphics Dock Review</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/ayaneo-ag01-starship-graphics-dock-review/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-15, from: Dave Winer's linkblog)
+
+The shootings have deeply unnerved members of Congress, who feel that any one of them could be the subject of an unanticipated attack — particularly at home in their districts and while in transit. 
+
+<br> 
+
+<https://www.axios.com/2025/06/15/hortman-hoffman-congress-security-minnesota>
 
 ---
 
@@ -227,6 +278,20 @@ date: 2025-06-15, updated: 2025-06-15, from: Tink's blog
 <br> 
 
 <https://tink.uk/tag-your-it/>
+
+---
+
+## Layers of Memory, Layers of Compression
+
+date: 2025-06-15, updated: 2025-06-15, from: Tom Kellog blog
+
+AI superpower = strategic amnesia.
+
+Letta caches memory like a CPU, Anthropic spreads it across agent swarms, Cognition warns of chaos. Curious how forgetting makes machines smarter? Dive in. 
+
+<br> 
+
+<http://timkellogg.me/blog/2025/06/15/compression>
 
 ---
 
@@ -1544,16 +1609,6 @@ We’re excited to announce that Authors Alliance will be at ALA this year in Ph
 
 ---
 
-**@Dave Winer's linkblog** (date: 2025-06-12, from: Dave Winer's linkblog)
-
-&quot;An attempt to end politics as we know it, to deploy force to suppress dissent. Not eventually, but right now.&quot; 
-
-<br> 
-
-<https://paulkrugman.substack.com/p/this-is-not-a-drill>
-
----
-
 ## AI Therapy Bots Are Conducting 'Illegal Behavior,' Digital Rights Organizations Say
 
 date: 2025-06-12, from: 404 Media Group
@@ -1573,6 +1628,18 @@ More MCP fun: Claude talks with ChatGPT.
 <br> 
 
 <https://val.demar.in/2025/06/more-mcp-fun-claude-talks-with-chatgpt/>
+
+---
+
+## This Is Not a Drill
+
+date: 2025-06-12, from: Paul Krugman
+
+American democracy is on the line right now 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/this-is-not-a-drill>
 
 ---
 
