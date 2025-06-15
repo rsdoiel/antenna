@@ -1,11 +1,39 @@
 ---
 title: food
-updated: 2025-06-14 14:08:56
+updated: 2025-06-15 06:08:46
 ---
 
 # food
 
-(date: 2025-06-14 14:08:56)
+(date: 2025-06-15 06:08:46)
+
+---
+
+## New Coffees Coming In Hot!
+
+date: 2025-06-15, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village. 
+
+<br> 
+
+<https://sprudge.com/new-coffees-coming-in-hot-347617.html>
+
+---
+
+## Strawberry Recipes
+
+date: 2025-06-15, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/05/Strawberry-Recipes.jpg"/></div>
+<p>The best recipes for enjoying fresh summer strawberries! Quick and easy recipes for sweet strawberry recipes and savoury, desserts, mains, breakfasts, snacks, salads, sandwiches, etc. The summer strawberry season is in full swing and the grocery stores are filled with local strawberries! Strawberries are one of the foods that most remind me of summer and...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/strawberry-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/strawberry-recipes/">Strawberry Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/strawberry-recipes/>
 
 ---
 
@@ -1210,44 +1238,4 @@ date: 2025-06-08, from: The Sprudge
 <br> 
 
 <https://sprudge.com/coffee-in-the-morning-coffee-in-the-evening-coffee-in-summertime-344819.html>
-
----
-
-## Father’s Day Recipes
-
-date: 2025-06-07, from: Closet Cooking
-
-<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/06/Fathers-Day-Recipes.jpg"/></div>
-<p>Quick and easy recipes to make dads Father&#8217;s Day special! Father&#8217;s Day is next weekend and if you are still looking some some recipe ideas to make this the tastiest Father&#8217;s Day ever, I&#8217;ve got you covered! Whether you are making dad the perfect breakfast, brunch, dinner or dessert I am sure that he will...</p>
-<p><a class="more-link" href="https://www.closetcooking.com/33-fathers-day-recipes/">Read On &#8594;</a></p>
-<p>The post <a href="https://www.closetcooking.com/33-fathers-day-recipes/">Father&#8217;s Day Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
- 
-
-<br> 
-
-<https://www.closetcooking.com/33-fathers-day-recipes/>
-
----
-
-## Savannah Sunrise
-
-date: 2025-06-07, from: Taste of Home
-
-Our Savannah sunrise cocktail recipe will make your brunch sparkle with beautiful layers of peach, tequila, bubbles and black currant liqueur. 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/savannah-sunrise/>
-
----
-
-## Rhubarb Margarita
-
-date: 2025-06-07, from: Taste of Home
-
-Our rhubarb margarita is perfect for patio season brunches or any day that needs a little sparkle. It's equal parts sweet and sour—and it's pink! 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/rhubarb-margarita/>
 

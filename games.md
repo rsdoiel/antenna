@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2025-06-14 14:08:51
+updated: 2025-06-15 06:08:42
 ---
 
 # games
 
-(date: 2025-06-14 14:08:51)
+(date: 2025-06-15 06:08:42)
+
+---
+
+## Mario Kart World wouldn’t be in the running for Game of the Year even if it was perfect
+
+date: 2025-06-15, updated: 2025-06-13, from: Polygon Website
+
+Following Grand Theft Auto 6’s retreat into 2026, last week’s launch of Nintendo Switch 2 will likely stand as the gaming event of 2025. And at the center of that launch is Mario Kart World, an ambitious sequel to one of the best-selling games of all time from perhaps the single most revered game studio [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/awards/606770/mario-kart-world-goty-game-of-the-year>
+
+---
+
+## Hell is Us terrifies in all the best ways
+
+date: 2025-06-14, updated: 2025-06-13, from: Polygon Website
+
+Hell is Us has been on my radar since it was first announced in April 2022, and I’ve finally been able to spend some time with it via its demo. The war-torn world of Hell is Us is immediately chilling and the demo’s brief glimpse of the gameplay, despite some minor hang-ups, has me eager [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/604103/hell-is-us-terrifies-demo-impressions>
+
+---
+
+## All Verso Outfits in Clair Obscur: Expedition 33 and how to unlock them
+
+date: 2025-06-14, updated: 2025-06-13, from: Polygon Website
+
+Verso is more than just a Devil May Cry stand-in. In Clair Obscur: Expedition 33, Verso’s combat playstyle evokes this feeling of style, but style doesn&#8217;t have to stop at combat. With the right fit, you can defeat the paintress in style. Verso’s outfits unlock many combinations of expression. As you play Clair Obscur: Expedition [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/clair-obscur-expedition-33-guides/606836/verso-outfits-haircuts-all-how-to-unlock>
+
+---
+
+## Pokémon Go ‘Phantom Ruins’ event guide
+
+date: 2025-06-14, updated: 2025-06-14, from: Polygon Website
+
+Pokémon Go’s third lead-up event for Go Fest 2025 is called “Phantom Ruins,” and it runs from June 14-18. The event features bonuses like Incense attracting some specific Pokémon, doubled catch XP, and bonuses for Max Particle collection — which comes just in time for Gigantamax Inteleon’s debut. Below, we list out the perks of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/606949/phantom-ruins-event-timed-research-collection-challenge>
+
+---
+
+## Keep an eye on Planet of Lana 2 — the first one was a secret gem of 2023
+
+date: 2025-06-14, updated: 2025-06-13, from: Polygon Website
+
+May 2023 was kind of a big deal. A little ol’ game called The Legend of Zelda: Tears of the Kingdom (ring any bells?) was released, and everyone was playing it; Tears sold almost 20 million copies in under two months. However, it wasn’t the only game that came out that month. While it may [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/606153/planet-of-lana-impressions>
+
+---
+
+## Marvel vs. Capcom spawned a new generation of tag fighters — by not showing up
+
+date: 2025-06-14, updated: 2025-06-13, from: Polygon Website
+
+It’s been nearly 30 years since Capcom popularized tag-based fighting games with X-Men vs. Street Fighter — and to a lesser extent, SNK with Kizuna Encounter: Super Tag Battle. But now, the subgenre appears to be thriving in the vacuum left by Capcom itself, which hasn’t delivered a new tag-based fighting game since 2017’s Marvel vs. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/606948/marvel-vs-capcom-tag-fighters-tokon-invincible-vs>
+
+---
+
+## Switch 2 Joy-Con drift is already haunting Nintendo
+
+date: 2025-06-14, updated: 2025-06-13, from: Polygon Website
+
+Stick drift comes for everyone, but Nintendo Switch hardware has a reputation for being particularly prone to failure. Naturally, everyone is wondering if the Nintendo Switch 2 and its new Joy-Con controller is any better than its predecessor. News that at least one person purchased a brand new Switch 2 that appeared to come out [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/606939/switch-2-joycon-drift-controller-fix-joystick>
 
 ---
 
@@ -918,76 +1002,4 @@ Game Freak, best known for its work on Pokémon games, unveiled a new look and t
 <br> 
 
 <https://www.polygon.com/gaming/605353/beast-of-reincarnation-pokemon-dev-game-freak-2026>
-
----
-
-## Dangerous Animals, a giddy slasher where the knife is a shark
-
-date: 2025-06-07, updated: 2025-06-07, from: Polygon Website
-
-Australian director Sean Byrne is one of horror’s premiere mixologists. His debut, 2009’s The Loved Ones, meshed teen romance with gruesome Hostel-style extremism. 2015’s The Devil’s Candy put a heavy metal spin on the haunted-house romp. His new film, Dangerous Animals, in theaters now, raises a question no one was asking about a classic B-movie [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/horror/605214/dangerous-animals-shark-horror-film-review>
-
----
-
-## How to rewind in Mario Kart World
-
-date: 2025-06-07, updated: 2025-06-07, from: Polygon Website
-
-Mario Kart World&#8216;s rewind feature is quietly one of the racing game&#8217;s most useful features for learning how its new tricks, jumps, and grinds work. The Nintendo Switch 2 launch game sets you loose to discover rewind on your own, though, with no tutorial or anything explaining how the tool works or when you might [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/mario-kart-world-guides/605223/how-to-rewind-game-modes>
-
----
-
-## How to unlock Rainbow Road in Mario Kart World
-
-date: 2025-06-07, updated: 2025-06-07, from: Polygon Website
-
-The tracks in Mario Kart Word are the real stars in the game and the shiniest one is the Rainbow Road track. The mesmerizingly colorful track is something out of this world — literally. Unlike all the other tracks in the game, Rainbow Road is a secret one, but luckily the path to find it [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/mario-kart-world-guides/605187/unlock-rainbow-road-track-how-to-replay>
-
----
-
-## How to unlock all outfits in Mario Kart World
-
-date: 2025-06-07, updated: 2025-06-07, from: Polygon Website
-
-Mario Kart World has dozens of unlockable outfits for its wide cast of characters. These outfits are technically classified as separate characters via the character select screen, but not every character gets outfits. Characters pulled from background environments like Pianta or Dolphin don’t get any outfits, sadly, so your dream of seeing Cow in a [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/mario-kart-world-guides/603767/outfits-unlock-requiremenets-list-all-how-to>
-
----
-
-## Pokémon Go ‘Instrumental Wonders’ event guide
-
-date: 2025-06-07, updated: 2025-06-07, from: Polygon Website
-
-Pokémon Go is continuing its hype lead-up to the yearly Go Fest event with the “Instrumental Wonders” event that runs from June 7-11. This event encourages players to raid, with the main perk of this event being an extra 5,000 XP per finished raid. Just like the last event, there will be bonuses with Max [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/603204/instrumental-wonders-event-premium-timed-research-collection-challenge>
-
----
-
-## You should watch dumb Jason Statham plane movies at home, too
-
-date: 2025-06-07, updated: 2025-06-07, from: Polygon Website
-
-As I see it, Hollywood currently has four stables of movie talent:&#160; As I headed to Los Angeles for Summer Game Fest on a cramped United Airlines flight, I went looking for a movie to stream. I scrolled through new-release options that didn’t fit the mood — a reviled sequel I skipped? A musical that [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/recommendations/604276/a-working-man-amazon-prime-video-streaming>
 

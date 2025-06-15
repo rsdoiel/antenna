@@ -1,11 +1,606 @@
 ---
 title: snapshots
-updated: 2025-06-14 14:08:57
+updated: 2025-06-15 06:08:48
 ---
 
 # snapshots
 
-(date: 2025-06-14 14:08:57)
+(date: 2025-06-15 06:08:48)
+
+---
+
+## Collage as Socialist Circulation
+
+date: 2025-06-15, from: Digital Humanities Quarterly News
+
+“The distinguishing characteristic of the modern author . . . is that he is a proprietor, that he is conceived as the originator and therefore the owner of a special kind of commodity, the ‘work.’” —Mark Rose, “The Author as Proprietor” “The idea that a text belongs naturally and uniquely to the person who wrote [...]
+<p><a href="https://www.digitalrhetoriccollaborative.org/2025/06/15/collage-as-socialist-circulation/" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://www.digitalrhetoriccollaborative.org/2025/06/15/collage-as-socialist-circulation/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-15, from: Dave Winer's linkblog)
+
+Inside Trump’s Extraordinary Turnaround on Immigration Raids. 
+
+<br> 
+
+<https://www.nytimes.com/2025/06/14/us/politics/trump-immigration-raids-workers.html>
+
+---
+
+## Understanding Inequality, Part III: Tariffs
+
+date: 2025-06-15, from: Paul Krugman
+
+A Trumpian diversion 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/understanding-inequality-part-iii>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-15, from: Dave Winer's linkblog)
+
+This is where AOC loses me. She’s doing what Repubs do, dividing us, instead of uniting in our common cause. Let’s<span style="letter-spacing: 0.01rem; -webkit-text-size-adjust: 100%;"> work together.</span> 
+
+<br> 
+
+<https://www.politico.com/news/2025/06/14/aoc-rallies-against-cuomo-gerontocracy-00406346>
+
+---
+
+## Seven replies to the viral Apple reasoning paper – and why they fall short
+
+date: 2025-06-15, updated: 2025-06-15, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple">Seven replies to the viral Apple reasoning paper – and why they fall short</a></strong></p>
+A few weeks ago Apple Research released a new paper <a href="https://machinelearning.apple.com/research/illusion-of-thinking">The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity</a>.</p>
+<blockquote>
+<p>Through extensive experimentation across diverse puzzles, we show that frontier LRMs face a complete accuracy collapse beyond certain complexities. Moreover, they exhibit a counter-intuitive scaling limit: their reasoning effort increases with problem complexity up to a point, then declines despite having an adequate token budget.</p>
+</blockquote>
+<p>I skimmed the paper and it struck me as a more thorough example of the many other trick questions that expose failings in LLMs - this time involving puzzles such as the Tower of Hanoi that can have their difficulty level increased to the point that even "reasoning" LLMs run out of output tokens and fail to complete them.</p>
+<p>I thought this paper got <em>way</em> more attention than it warranted - the title "The Illusion of Thinking" captured the attention of the "LLMs are over-hyped junk" crowd.  I saw enough well-reasoned rebuttals that I didn't feel it worth digging into.</p>
+<p>And now, notable LLM skeptic Gary Marcus has saved me some time by aggregating the best of those rebuttals <a href="https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple">together in one place</a>!</p>
+<p>Gary rebuts those rebuttals, but given that his previous headline concerning this paper was <a href="https://garymarcus.substack.com/p/a-knockout-blow-for-llms">a knockout blow for LLMs?</a> it's not surprising that he finds those arguments unconvincing. From that previous piece:</p>
+<blockquote>
+<p>The vision of AGI I have always had is one that <em>combines</em> the strengths of humans with the strength of machines, overcoming the weaknesses of humans. I am not interested in a “AGI” that can’t do arithmetic, and I certainly wouldn’t want to entrust global infrastructure or the future of humanity to such a system.</p>
+</blockquote>
+<p>Then from his new post:</p>
+<blockquote>
+<p><strong>The paper is not news; we already knew these models generalize poorly.</strong> True! (I personally have been trying to tell people this for almost thirty years; Subbarao Rao Kambhampati has been trying his best, too). But then why do we think these models are the royal road to AGI?</p>
+</blockquote>
+<p>And therein lies my disagreement. I'm not interested in whether or not LLMs are the "road to AGI". I continue to care only about whether they have useful applications today, once you've understood their limitations.</p>
+<p>Reasoning LLMs are a relatively new and interesting twist on the genre. They are demonstrably able to solve a whole bunch of problems that previous LLMs were unable to handle, hence why we've seen <a href="https://simonwillison.net/tags/llm-reasoning/">a rush of new models</a> from OpenAI and Anthropic and Gemini and DeepSeek and Qwen and Mistral.</p>
+<p>They get even more interesting when you <a href="https://simonwillison.net/2025/Jun/6/six-months-in-llms/#ai-worlds-fair-2025-43.jpeg">combine them with tools</a>.</p>
+<p>They're already useful to me today, whether or not they can reliably solve the Tower of Hanoi or River Crossing puzzles.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44278403">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/apple">apple</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/15/viral-apple-reasoning-paper/#atom-everything>
+
+---
+
+## An Introduction to Google’s Approach to AI Agent Security
+
+date: 2025-06-15, updated: 2025-06-15, from: Simon Willison’s Weblog
+
+<p>Here's another new paper on AI agent security: <strong><a href="https://research.google/pubs/an-introduction-to-googles-approach-for-secure-ai-agents/">An Introduction to Google’s Approach to AI Agent Security</a></strong>, by Santiago Díaz, Christoph Kern, and Kara Olive.</p>
+<p>(I wrote about a different recent paper, <a href="https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/">Design Patterns for Securing LLM Agents against Prompt Injections</a> just a few days ago.)</p>
+<p>This Google paper describes itself as "our aspirational framework for secure AI agents". It's a very interesting read.</p>
+<p>Because I collect <a href="https://simonwillison.net/tags/agent-definitions/">definitions of "AI agents"</a>, here's the one they use:</p>
+<blockquote>
+<p>AI systems designed to perceive their environment, make decisions, and take autonomous actions to achieve user-defined goals.</p>
+</blockquote>
+<h4 id="the-two-key-risks">The two key risks</h4>
+<p>The paper describes two key risks involved in deploying these systems. I like their clear and concise framing here:</p>
+<blockquote>
+<p>The primary concerns demanding strategic focus are <strong>rogue actions</strong> (unintended,
+harmful, or policy-violating actions) and <strong>sensitive data disclosure</strong> (unauthorized revelation of private information). A fundamental tension exists: increased agent autonomy and power, which drive utility, correlate directly with increased risk.</p>
+</blockquote>
+<p>The paper takes a less strident approach than the <a href="https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/">design patterns paper</a> from last week. That paper clearly emphasized that "once an LLM agent has ingested untrusted input, it must be constrained so that it is impossible for that input to trigger any consequential actions". This Google paper skirts around that issue, saying things like this:</p>
+<blockquote>
+<p><em>Security implication</em>: A critical challenge here is reliably distinguishing trusted user commands from potentially untrusted contextual data and inputs from other sources (for example, content within an email or webpage). Failure to do so opens the door to prompt injection attacks, where malicious instructions hidden in data can hijack the agent. Secure agents must carefully parse and separate these input streams.</p>
+<p>Questions to consider:</p>
+<ul>
+<li>What types of inputs does the agent process, and can it clearly distinguish trusted user inputs from potentially untrusted contextual inputs?</li>
+</ul>
+</blockquote>
+<p>Then when talking about system instructions:</p>
+<blockquote>
+<p><em>Security implication</em>: A crucial security measure involves clearly delimiting and separating these different elements within the prompt. Maintaining an unambiguous distinction between trusted system instructions and potentially untrusted user data or external content is important for mitigating prompt injection attacks.</p>
+</blockquote>
+<p>Here's my problem: in both of these examples the only correct answer is that <strong>unambiguous separation is not possible</strong>! The way the above questions are worded implies a solution that does not exist.</p>
+<p>Shortly afterwards they do acknowledge exactly that (emphasis mine):</p>
+<blockquote>
+<p>Furthermore, <strong>current LLM architectures do not provide rigorous separation between constituent parts of a prompt</strong> (in particular, system and user instructions versus external, untrustworthy inputs), making them susceptible to manipulation like prompt injection. The common practice of iterative planning (in a “reasoning loop”) exacerbates this risk: each cycle introduces opportunities for flawed logic, divergence from intent, or hijacking by malicious data, potentially compounding issues. Consequently, agents with high autonomy undertaking complex, multi-step iterative planning present a significantly higher risk, demanding robust security controls.</p>
+</blockquote>
+<p>This note about memory is excellent:</p>
+<blockquote>
+<p>Memory can become a vector for persistent attacks. If malicious data containing
+a prompt injection is processed and stored in memory (for example, as a “fact” summarized from a malicious document), it could influence the agent’s behavior in future, unrelated interactions.</p>
+</blockquote>
+<p>And this section about the risk involved in rendering agent output:</p>
+<blockquote>
+<p>If the application renders agent output without proper sanitization or escaping
+based on content type, vulnerabilities like Cross-Site Scripting (XSS) or data exfiltration (from maliciously crafted URLs in image tags, for example) can occur. Robust sanitization by the rendering component is crucial.</p>
+<p>Questions to consider: [...]</p>
+<ul>
+<li>What sanitization and escaping processes are applied when rendering agent-generated output to prevent execution vulnerabilities (such as XSS)?</li>
+<li>How is rendered agent output, especially generated URLs or embedded content, validated to prevent sensitive data disclosure?</li>
+</ul>
+</blockquote>
+<p>The paper then extends on the two key risks mentioned earlier, rogue actions and sensitive data disclosure.</p>
+<h4 id="rogue-actions">Rogue actions</h4>
+<p>Here they include a cromulent definition of prompt injection:</p>
+<blockquote>
+<p>Rogue actions—unintended, harmful, or policy-violating agent behaviors—represent a primary security risk for AI agents.</p>
+<p>A key cause is <strong>prompt injection</strong>: malicious instructions hidden within processed data (like files, emails, or websites) can trick the agent’s core AI model, hijacking its planning or reasoning phases. The model misinterprets this embedded data as instructions, causing it to execute attacker commands using the user’s authority.</p>
+</blockquote>
+<p>Plus the related risk of <strong>misinterpretation</strong> of user commands that could lead to unintended actions:</p>
+<blockquote>
+<p>The agent might misunderstand ambiguous instructions or context. For instance, an
+ambiguous request like “email Mike about the project update” could lead the agent to select the wrong contact, inadvertently sharing sensitive information.</p>
+</blockquote>
+<h4 id="sensitive-data-disclosure">Sensitive data disclosure</h4>
+<p>This is the most common form of prompt injection risk I've seen demonstrated so far. I've written about this at length in my <a href="https://simonwillison.net/tags/exfiltration-attacks/">exfiltration-attacks tag</a>.</p>
+<blockquote>
+<p>A primary method for achieving sensitive data disclosure is data exfiltration. This involves tricking the agent into making sensitive information visible to an attacker. Attackers often achieve this by <strong>exploiting agent actions and their side effects</strong>, typically driven by prompt injection. […] They might trick the agent into retrieving sensitive data and then leaking it through actions, such as embedding data in a URL the agent is prompted to visit, or hiding secrets in code commit messages.</p>
+</blockquote>
+<h4 id="three-core-principles-for-agent-security">Three core principles for agent security</h4>
+<p>The next section of the paper describes Google's three core principles for agent security:</p>
+<p>Principle 1 is that <strong>Agents must have well-defined human controllers</strong>.</p>
+<blockquote>
+<p>[...] it is essential for security and accountability that agents operate under clear human oversight. Every agent must have a well-defined set of controlling human user(s).</p>
+<p>This principle mandates that systems must be able to reliably distinguish instructions originating from an authorized controlling user versus any other input, especially potentially untrusted data processed by the agent. For actions deemed critical or irreversible—such as deleting large amounts of data, authorizing significant financial transactions, or changing security settings—the system should require explicit human confirmation before proceeding, ensuring the user remains in the loop. [...]</p>
+<p>Agents acting on behalf of teams or groups need distinct identities and clear authorization models to prevent unauthorized cross-user data access or one user inadvertently triggering actions impacting another.</p>
+</blockquote>
+<p>There are two parts to this then: tracking <em>which</em> user is controlling the agent, and adding a human-in-the-loop confirmation step for critical actions.</p>
+<p>Principle 2 is <strong>Agent powers must have limitations</strong>.</p>
+<blockquote>
+<p>An agent’s powers—the actions it can take and the resources it can access—must be carefully limited in alignment with its intended purpose and its controlling user’s risk tolerance. For example, an agent designed for research should not possess the power to modify financial accounts. General-purpose agents need mechanisms to dynamically confine their capabilities at runtime, ensuring only relevant permissions are active for any given query (for example, disallowing file deletion actions when the task is creative writing).</p>
+</blockquote>
+<p>This represents a more sophisticated approach to agent permissions than I've seen before. The idea that an agent's permisisons should dynamically change based on the task is certainly intriguing, though I find it hard to imagine how it can work well in practice. The only implementation approach I can think of would involve adding more layers of AI that dynamically adjust permissions based on the percieved task, and that feels inherently risky to me since prompt injection attacks could influence those decisions.</p>
+<p>Principle 3 is that <strong>Agent actions and planning must be observable</strong>. I <em>love</em> this principle - emphasis mine:</p>
+<blockquote>
+<p>We cannot ensure an agent is acting faithfully or diagnose problems if its operations are entirely opaque. Therefore, <strong>agent actions</strong>, and where feasible, their planning processes, <strong>must be observable and auditable</strong>. [...]</p>
+<p>Effective observability also means that the properties of the actions an agent can take—such as whether an action is read-only versus state-changing, or if it handles sensitive data—must be clearly characterized. This metadata is crucial for automated security mechanisms and human reviewers. Finally, <strong>user interfaces should be designed to promote transparency</strong>, providing users with insights into the agent’s “thought process,” the data sources it consulted, or the actions it intends to take, especially for complex or high-risk operations.</p>
+</blockquote>
+<p><strong>Yes. Yes. Yes.</strong> LLM systems that hide what they are doing from me are inherently frustrating - they make it much harder for me to evaluate if they are doing a good job and spot when they make mistakes. This paper has convinced me that there's a very strong security argument to be made too: the more opaque the system, the less chance I have to identify when it's going rogue and being subverted by prompt injection attacks.</p>
+<h4 id="google-s-hybrid-defence-in-depth-strategy">Google's hybrid defence-in-depth strategy</h4>
+<p><img src="https://static.simonwillison.net/static/2025/google-hybrid.jpg" alt="Architecture diagram showing AI agent safety framework with runtime policy enforcement connecting to reasoning-based defenses (highlighted in purple), which along with regression testing, variant analysis, and red teams &amp; human reviewers provide dependable constraints on agent privileges and hardening of the base model, classifiers, and safety fine-tuning, plus testing for regressions, variants, and new vulnerabilities, all feeding into an AI Agent system containing Application, Perception, Rendering, Reasoning core, and Orchestration components with bidirectional arrows showing data flow between components." style="max-width: 100%;" /></p>
+<p>All of which leads us to the discussion of Google's current hybrid defence-in-depth strategy. They optimistically describe this as combining "traditional, deterministic security measures with dynamic, reasoning-based defenses". I like determinism but I remain <em>deeply skeptical</em> of "reasoning-based defenses", aka addressing security problems with non-deterministic AI models.</p>
+<p>The way they describe their layer 1 makes complete sense to me:</p>
+<blockquote>
+<p><strong>Layer 1: Traditional, deterministic measures (runtime policy enforcement)</strong></p>
+<p>When an agent decides to use a tool or perform an action (such as “send email,” or “purchase item”), the request is intercepted by the policy engine. The engine evaluates this request against predefined rules based on factors like the action’s inherent risk (Is it irreversible? Does it involve money?), the current context, and potentially the chain of previous actions (Did the agent recently process untrusted data?). For example, a policy might enforce a spending limit by automatically blocking any purchase action over $500 or requiring explicit user confirmation via a prompt for purchases between $100 and $500. Another policy might prevent an agent from sending emails externally if it has just processed data from a known suspicious source, unless the user explicitly approves.</p>
+<p>Based on this evaluation, the policy engine determines the outcome: it can <strong>allow</strong> the action, <strong>block</strong> it if it violates a critical policy, or <strong>require user confirmation</strong>.</p>
+</blockquote>
+<p>I really like this. Asking for user confirmation for everything quickly results in "prompt fatigue" where users just click "yes" to everything. This approach is smarter than that: a policy engine can evaluate the risk involved, e.g. if the action is irreversible or involves more than a certain amount of money, and only require confirmation in those cases.</p>
+<p>I also like the idea that a policy "might prevent an agent from sending emails externally if it has just processed data from a known suspicious source, unless the user explicitly approves". This fits with the data flow analysis techniques described in <a href="https://simonwillison.net/2025/Apr/11/camel/">the CaMeL paper</a>, which can help identify if an action is working with data that may have been tainted by a prompt injection attack.</p>
+<p>Layer 2 is where I start to get uncomfortable:</p>
+<blockquote>
+<p><strong>Layer 2: Reasoning-based defense strategies</strong></p>
+<p>To complement the deterministic guardrails and address their limitations in handling context and novel threats, the second layer leverages reasoning-based defenses: techniques that use AI models themselves to evaluate inputs, outputs, or the agent’s internal reasoning for potential risks.</p>
+</blockquote>
+<p>They talk about <strong>adversarial training</strong> against examples of prompt injection attacks, attempting to teach the model to recognize and respect delimiters, and suggest <strong>specialized guard models</strong> to help classify potential problems.</p>
+<p>I understand that this is part of defence-in-depth, but I still have trouble seeing how systems that can't provide guarantees are a worthwhile addition to the security strategy here.</p>
+<p>They do at least acknowlede these limitations:</p>
+<blockquote>
+<p>However, these strategies are non-deterministic and cannot provide absolute guarantees. Models can still be fooled by novel attacks, and their failure modes can be unpredictable. This makes them inadequate, on their own, for scenarios demanding absolute safety guarantees, especially involving critical or irreversible actions. They must work in concert with deterministic controls.</p>
+</blockquote>
+<p>I'm much more interested in their layer 1 defences then the approaches they are taking in layer 2.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/exfiltration-attacks">exfiltration-attacks</a>, <a href="https://simonwillison.net/tags/paper-review">paper-review</a>, <a href="https://simonwillison.net/tags/agent-definitions">agent-definitions</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/15/ai-agent-security/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-15, from: Dave Winer's linkblog)
+
+Nintendo Switch 2 review: everything you need to know. 
+
+<br> 
+
+<https://www.npr.org/2025/06/12/nx-s1-5415890/nintendo-switch-2-mario-kart-world-review>
+
+---
+
+## Tag, you're it
+
+date: 2025-06-15, updated: 2025-06-15, from: Tink's blog
+
+ 
+
+<br> 
+
+<https://tink.uk/tag-your-it/>
+
+---
+
+## Anthropic: How we built our multi-agent research system
+
+date: 2025-06-14, updated: 2025-06-14, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.anthropic.com/engineering/built-multi-agent-research-system">Anthropic: How we built our multi-agent research system</a></strong></p>
+OK, I'm sold on multi-agent LLM systems now.</p>
+<p>I've been pretty skeptical of these until recently: why make your life more complicated by running multiple different prompts in parallel when you can usually get something useful done with a single, carefully-crafted prompt against a frontier model?</p>
+<p>This detailed description from Anthropic about how they engineered their "Claude Research" tool has cured me of that skepticism.</p>
+<p><a href="https://simonwillison.net/2025/Jun/2/claude-trace/">Reverse engineering Claude Code</a> had already shown me a mechanism where certain coding research tasks were passed off to a "sub-agent" using a tool call. This new article describes a more sophisticated approach.</p>
+<p>They start strong by providing a clear definition of how they'll be using the term "agent" - it's the "tools in a loop" variant:</p>
+<blockquote>
+<p>A multi-agent system consists of multiple agents (LLMs autonomously using tools in a loop) working together. Our Research feature involves an agent that plans a research process based on user queries, and then uses tools to create parallel agents that search for information simultaneously.</p>
+</blockquote>
+<p>Why use multiple agents for a research system?</p>
+<blockquote>
+<p>The essence of search is compression: distilling insights from a vast corpus. Subagents facilitate compression by operating in parallel with their own context windows, exploring different aspects of the question simultaneously before condensing the most important tokens for the lead research agent. [...]</p>
+<p>Our internal evaluations show that multi-agent research systems excel especially for breadth-first queries that involve pursuing multiple independent directions simultaneously. We found that a multi-agent system with Claude Opus 4 as the lead agent and Claude Sonnet 4 subagents outperformed single-agent Claude Opus 4 by 90.2% on our internal research eval. For example, when asked to identify all the board members of the companies in the Information Technology S&amp;P 500, the multi-agent system found the correct answers by decomposing this into tasks for subagents, while the single agent system failed to find the answer with slow, sequential searches.</p>
+</blockquote>
+<p>As anyone who has spent time with Claude Code will already have noticed, the downside of this architecture is that it can burn <em>a lot</em> more tokens:</p>
+<blockquote>
+<p>There is a downside: in practice, these architectures burn through tokens fast. In our data, agents typically use about 4× more tokens than chat interactions, and multi-agent systems use about 15× more tokens than chats. For economic viability, multi-agent systems require tasks where the value of the task is high enough to pay for the increased performance. [...]</p>
+<p>We’ve found that multi-agent systems excel at valuable tasks that involve heavy parallelization, information that exceeds single context windows, and interfacing with numerous complex tools.</p>
+</blockquote>
+<p>The key benefit is all about managing that 200,000 token context limit. Each sub-task has its own separate context, allowing much larger volumes of content to be processed as part of the research task.</p>
+<p>Providing a "memory" mechanism is important as well:</p>
+<blockquote>
+<p>The LeadResearcher begins by thinking through the approach and saving its plan to Memory to persist the context, since if the context window exceeds 200,000 tokens it will be truncated and it is important to retain the plan.</p>
+</blockquote>
+<p>The rest of the article provides a detailed description of the prompt engineering process needed to build a truly effective system:</p>
+<blockquote>
+<p>Early agents made errors like spawning 50 subagents for simple queries, scouring the web endlessly for nonexistent sources, and distracting each other with excessive updates. Since each agent is steered by a prompt, prompt engineering was our primary lever for improving these behaviors. [...]</p>
+<p>In our system, the lead agent decomposes queries into subtasks and describes them to subagents. Each subagent needs an objective, an output format, guidance on the tools and sources to use, and clear task boundaries.</p>
+</blockquote>
+<p>They got good results from having special agents help optimize those crucial tool descriptions:</p>
+<blockquote>
+<p>We even created a tool-testing agent—when given a flawed MCP tool, it attempts to use the tool and then rewrites the tool description to avoid failures. By testing the tool dozens of times, this agent found key nuances and bugs. This process for improving tool ergonomics resulted in a 40% decrease in task completion time for future agents using the new description, because they were able to avoid most mistakes.</p>
+</blockquote>
+<p>Sub-agents can run in parallel which provides significant performance boosts:</p>
+<blockquote>
+<p>For speed, we introduced two kinds of parallelization: (1) the lead agent spins up 3-5 subagents in parallel rather than serially; (2) the subagents use 3+ tools in parallel. These changes cut research time by up to 90% for complex queries, allowing Research to do more work in minutes instead of hours while covering more information than other systems.</p>
+</blockquote>
+<p>There's also an extensive section about their approach to evals - they found that LLM-as-a-judge worked well for them, but human evaluation was essential as well:</p>
+<blockquote>
+<p>We often hear that AI developer teams delay creating evals because they believe that only large evals with hundreds of test cases are useful. However, it’s best to start with small-scale testing right away with a few examples, rather than delaying until you can build more thorough evals. [...]</p>
+<p>In our case, human testers noticed that our early agents consistently chose SEO-optimized content farms over authoritative but less highly-ranked sources like academic PDFs or personal blogs. Adding source quality heuristics to our prompts helped resolve this issue.</p>
+</blockquote>
+<p>There's so much useful, actionable advice in this piece. I haven't seen anything else about multi-agent system design that's anywhere near this practical.</p>
+<p>They even added <a href="https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents/prompts">some example prompts</a> from their Research system to their open source prompting cookbook. Here's <a href="https://github.com/anthropics/anthropic-cookbook/blob/46f21f95981e3633d7b1eac235351de4842cf9f0/patterns/agents/prompts/research_lead_agent.md?plain=1#L135-L137">the bit</a> that encourages parallel tool use:</p>
+<blockquote>
+<p><code>&lt;use_parallel_tool_calls&gt; For maximum efficiency, whenever you need to perform multiple independent operations, invoke all relevant tools simultaneously rather than sequentially. Call tools in parallel to run subagents at the same time. You MUST use parallel tool calls for creating multiple subagents (typically running 3 subagents at the same time) at the start of the research, unless it is a straightforward query. For all other queries, do any necessary quick initial planning or investigation yourself, then run multiple subagents in parallel. Leave any extensive tool calls to the subagents; instead, focus on running subagents in parallel efficiently. &lt;/use_parallel_tool_calls&gt;</code></p>
+</blockquote>
+<p>And an interesting description of <a href="https://github.com/anthropics/anthropic-cookbook/blob/46f21f95981e3633d7b1eac235351de4842cf9f0/patterns/agents/prompts/research_subagent.md?plain=1#L10">the OODA research loop</a> used by the sub-agents: </p>
+<blockquote>
+<p><code>Research loop: Execute an excellent OODA (observe, orient, decide, act) loop by (a) observing what information has been gathered so far, what still needs to be gathered to accomplish the task, and what tools are available currently; (b) orienting toward what tools and queries would be best to gather the needed information and updating beliefs based on what has been learned so far; (c) making an informed, well-reasoned decision to use a specific tool in a certain way; (d) acting to use this tool. Repeat this loop in an efficient way to research well and learn based on new results.</code></p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-search">ai-assisted-search</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/evals">evals</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/paper-review">paper-review</a>, <a href="https://simonwillison.net/tags/agent-definitions">agent-definitions</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/14/multi-agent-research-system/#atom-everything>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-14, from: Robert's feed at BlueSky)
+
+Wonderful 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lrlv5nq4ps2x>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
+
+‘No Kings’ protests in Berkeley, Oakland. 
+
+<br> 
+
+<https://www.berkeleyside.org/2025/06/14/no-kings-berkeley-oakland>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
+
+FediForum Keynote: Cory Doctorow. 
+
+<br> 
+
+<https://m.youtube.com/watch?v=7_Gs1t0qe78>
+
+---
+
+## llm-fragments-youtube
+
+date: 2025-06-14, updated: 2025-06-14, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/redraw/llm-fragments-youtube">llm-fragments-youtube</a></strong></p>
+Excellent new <a href="https://llm.datasette.io/">LLM</a> plugin by Agustin Bacigalup which lets you use the subtitles of any YouTube video as a <a href="https://simonwillison.net/2025/Apr/7/long-context-llm/">fragment</a> for running prompts against.</p>
+<p>I tried it out like this:</p>
+<pre><code>llm install llm-fragments-youtube
+llm -f youtube:dQw4w9WgXcQ \
+  'summary of people and what they do'
+</code></pre>
+<p>Which returned (<a href="https://gist.github.com/simonw/6098f6e48981d84d1130f34566d0a116">full transcript</a>):</p>
+<blockquote>
+<p>The lyrics you've provided are from the song "Never Gonna Give You Up" by Rick Astley. The song features a narrator who is expressing unwavering love and commitment to another person. Here's a summary of the people involved and their roles:</p>
+<ul>
+<li>
+<p><strong>The Narrator (Singer):</strong> A person deeply in love, promising loyalty, honesty, and emotional support. They emphasize that they will never abandon, hurt, or deceive their partner.</p>
+</li>
+<li>
+<p><strong>The Partner (Implied Listener):</strong> The person the narrator is addressing, who is experiencing emotional pain or hesitation ("Your heart's been aching but you're too shy to say it"). The narrator is encouraging them to understand and trust in the commitment being offered.</p>
+</li>
+</ul>
+<p>In essence, the song portrays a one-sided but heartfelt pledge of love, with the narrator assuring their partner of their steadfast dedication.</p>
+</blockquote>
+<p>The plugin works by including <a href="https://github.com/yt-dlp/yt-dlp">yt-dlp</a> as a Python dependency and then executing it via a call to <code>subprocess.run()</code>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/youtube">youtube</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/14/llm-fragments-youtube/#atom-everything>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-14, from: Robert's feed at BlueSky)
+
+Lovely Farmer's Market and a delightfully large turn out for No Kings in my town. 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lrljx5ofvs2l>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
+
+Melissa Hortman and Another Minnesota Lawmaker Shot. 
+
+<br> 
+
+<https://nymag.com/intelligencer/article/minnesota-lawmakers-melissa-hortman-targeted-attack-updates.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
+
+Minnesota Democratic lawmaker shootings: Rep. Hortman killed, Sen. Hoffman shot and injured. 
+
+<br> 
+
+<https://www.mprnews.org/story/2025/06/14/northwest-metro-brooklyn-park-champlin-shootings-shelter-order>
+
+---
+
+## Quoting Google Cloud outage incident report
+
+date: 2025-06-14, updated: 2025-06-14, from: Simon Willison’s Weblog
+
+<blockquote cite="https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW"><p><em>Google Cloud, Google Workspace and Google Security Operations products experienced increased 503 errors in external API requests, impacting customers.</em> [...]</p>
+<p>On May 29, 2025, a new feature was added to Service Control for additional quota policy checks. This code change and binary release went through our region by region rollout, but the code path that failed was never exercised during this rollout due to needing a policy change that would trigger the code. [...] The issue with this change was that it did not have appropriate error handling nor was it feature flag protected. [...]</p>
+<p>On June 12, 2025 at ~10:45am PDT, a policy change was inserted into the regional Spanner tables that Service Control uses for policies. Given the global nature of quota management, this metadata was replicated globally within seconds. This policy data contained unintended blank fields. Service Control, then regionally exercised quota checks on policies in each regional datastore. This pulled in blank fields for this respective policy change and exercised the code path that hit the null pointer causing the binaries to go into a crash loop. This occurred globally given each regional deployment.</p></blockquote>
+<p class="cite">&mdash; <a href="https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW">Google Cloud outage incident report</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/feature-flags">feature-flags</a>, <a href="https://simonwillison.net/tags/postmortem">postmortem</a>, <a href="https://simonwillison.net/tags/google">google</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/14/google-cloud-outage-incident-report/#atom-everything>
+
+---
+
+## Media Diet
+
+date: 2025-06-14, from: Chris Coyier blog
+
+📺 WondLa — I was enamored by this story of a girl in a strange post-apoc world. Season 1 was a lot stronger than season 2, so despite the cliffhanger ending, I&#8217;m not holding my breath for a third. 🎥 Sinners — This was like three movies in one. A movie about family and community [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/06/14/media-diet-8/>
+
+---
+
+## Climate Change Warps Brains in the Womb, Scientists Discover
+
+date: 2025-06-14, from: 404 Media Group
+
+Scientists exhumed bald cypress trees that lived thousands of years ago and recorded climactic turmoil.   
+
+<br> 
+
+<https://www.404media.co/climate-change-warps-brains-in-the-womb-scientists-discover/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
+
+No Kings in Kingston, NY. 
+
+<br> 
+
+<https://www.mobilize.us/nokings/event/786080/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
+
+Major &#39;No Kings&#39; protests against Trump planned across US. 
+
+<br> 
+
+<https://apnews.com/article/no-kings-protest-trump-philadelphia-los-angeles-immigration-raids-a3b67d23733cd060f8d01aef1e391dbf>
+
+---
+
+## Play, Rhetoric, and the Circulation of J.D. Vance Photoshops
+
+date: 2025-06-14, from: Digital Humanities Quarterly News
+
+Memes present us with the familiar tension between individual texts and the fluid generic categories that bind them together. What is the “meme” when I Rickroll a friend: is it the friend’s arrival at the YouTube video of Rick Astley shimmying in a church, or is it the recognizable practice of concealing this link and [...]
+<p><a href="https://www.digitalrhetoriccollaborative.org/2025/06/14/play-rhetoric-and-the-circulation-of-j-d-vance-photoshops/" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://www.digitalrhetoriccollaborative.org/2025/06/14/play-rhetoric-and-the-circulation-of-j-d-vance-photoshops/>
+
+---
+
+## Global Inequality: Branko Milanovic
+
+date: 2025-06-14, from: Paul Krugman
+
+Talking with the guy down the hall 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/global-inequality-branko-milanovic>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
+
+The problem with vast wealth is that it’s useless. 
+
+<br> 
+
+<https://www.nytimes.com/2025/06/14/world/europe/venice-bezos-sanchez-wedding-amazon.html>
+
+---
+
+## the z80 technique reveals the source code for Atlassian's 'rovo' AI assistant
+
+date: 2025-06-14, from: Geoffrey Hunntley's blog
+
+<p>Ever wondered what happens if you take the technique at &quot;<a href="https://ghuntley.com/z80/">Can a LLM convert C, to ASM to specs and then to a working Z/80 Speccy tape? Yes.</a>&quot; and run it against the Atasslian Command Line (<a href="https://developer.atlassian.com/cloud/acli/guides/introduction/?ref=ghuntley.com">ACLI</a>) interface? Strap yourself in, as the Z80 is amongst one</p> 
+
+<br> 
+
+<https://ghuntley.com/atlassian-rovo-source-code/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-14, from: Feed for Alt USDS)
+
+Not all heroes carry signs.
+Some organize, some heal, some hold space.
+You don’t have to march to matter.
+
+Read our latest newsletter on how protest movements. Credit and special thanks to @deepaiyer.bsky.social and @hankgreen.bsky.social. 
+
+🛠️ https://bit.ly/More-Than-Marching 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lrjyvmp4xc2p>
+
+---
+
+## Saturday March
+
+date: 2025-06-14, from: Innessential (Brint Simmons' blog)
+
+<p>
+<p>Tomorrow is <a href="https://www.nokings.org/">No Kings</a>. There’s one near you!</p>
+
+<p>Chatting with my friends about how I hate these fascist assholes doesn’t do a damn thing. Protests work. (Imperfectly, sure, with no guarantees. But it sure beats <em>not</em> protesting.)</p> 
+
+<br> 
+
+<https://inessential.com/2025/06/13/saturday-march.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
+
+Rule #1: Interop is all that matters. 
+
+<br> 
+
+<https://this.how/standards/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-14, from: Feed for Alt USDS)
+
+This is worth paying attention to. Something we will need to account for in scenarios going forward. 
+
+Thanks for tipping us off, @altuscustoms.altgov.info
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lrjs6ie3mk2g>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
+
+Inside Mark Zuckerberg’s AI hiring spree. 
+
+<br> 
+
+<https://www.theverge.com/command-line-newsletter/687173/inside-mark-zuckerbergs-ai-hiring-spree>
+
+---
+
+## The Narrative
+
+date: 2025-06-14, updated: 2025-06-14, from: Tedium site
+
+Whether intentional or not, an attempt to paint Bluesky as one type of thing has taken hold in the press. A bad narrative is hard to shake, even if it’s unfair. As a user, don’t be afraid to push back. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17051355/bluesky-unfair-narrative>
+
+---
+
+## We're Still Underestimating What AI Really Means
+
+date: 2025-06-14, updated: 2025-06-14, from: Ryan Dahl's blog
+
+Most people are focused on short-term gains. Another tech wave, another startup to spin up. It's easy to frame AI as the next platform shift like mobile or VR.
+But that lens is much too narrow. 
+
+<br> 
+
+<https://tinyclouds.org/underestimating-ai>
+
+---
+
+## A2A Is For UI
+
+date: 2025-06-14, updated: 2025-06-14, from: Tom Kellog blog
+
+There’s a lot of skepticism around A2A, Google’s Agent-to-Agent protocol.
+A lot of that is well earned. I mean, they launched a protocol with zero implementations.
+But a lot’s changed, and it’s worth taking a look again. 
+
+<br> 
+
+<http://timkellogg.me/blog/2025/06/14/a2a>
 
 ---
 
@@ -3233,353 +3828,4 @@ WordPress veterans launch FAIR project to tackle security and control concerns.
 <br> 
 
 <https://www.fastcompany.com/91347003/wordpress-veterans-launch-fair-project-to-tackle-security-and-control-concerns>
-
----
-
-## Comma v0.1 1T and 2T - 7B LLMs trained on openly licensed text
-
-date: 2025-06-07, updated: 2025-06-07, from: Simon Willison’s Weblog
-
-<p>It's been a long time coming, but we finally have some promising LLMs to try out which are trained entirely on openly licensed text!</p>
-<p>EleutherAI released <a href="https://arxiv.org/abs/2101.00027">the Pile</a> four and a half years ago: "an 800GB dataset of diverse text for language modeling". It's been used as the basis for many LLMs since then, but much of the data in it came from <a href="https://commoncrawl.org/">Common Crawl</a> - a crawl of the public web which mostly ignored the licenses of the data it was collecting.</p>
-<p><a href="https://huggingface.co/blog/stellaathena/common-pile">The Common Pile v0.1</a> is EleutherAI's successor to the original Pile, in collaboration with a large group of other organizations with whom they have been "meticulously curating a 8 TB corpus of openly licensed and public domain text for training large language models".</p>
-<p>The dataset is exciting, but on top of that they've released two new LLMs that have been trained on it: Comma v0.1 1T and 2T, both with 7 billion parameters, the first trained on 1 trillion tokens and the second on 2 trillion tokens.</p>
-<p>These are available on Hugging Face as <a href="https://huggingface.co/common-pile/comma-v0.1-1t">common-pile/comma-v0.1-1t</a> and <a href="https://huggingface.co/common-pile/comma-v0.1-2t">common-pile/comma-v0.1-2t</a>.</p>
-<p>EleutherAI claim that these new models perform "comparably to leading models trained in the same regime on unlicensed data". I decided to try them out myself.</p>
-<p>The models are currently only available as <code>.safetensors</code> files, which I've found difficult to run on macOS in the past. I decided to see if I could convert them to <a href="https://github.com/ml-explore/mlx">MLX</a> format which I know how to run on my Mac.</p>
-<p>MLX is still a very new format, but Claude 4 Sonnet has a training cutoff date of March 2025 so I crossed my fingers and hoped it would be able to help me out. <a href="https://claude.ai/share/379951f0-4fb2-4b70-b6f9-f8a3afae1e33">It did exactly that!</a> I ran the following command to convert the 2T model to run using MLX:</p>
-<div class="highlight highlight-source-shell"><pre>uv run --python 3.12 \
-  --with mlx-lm \
-  python -m mlx_lm convert \
-    --hf-path common-pile/comma-v0.1-2t \
-    --mlx-path ./comma-v0.1-2t-mlx</pre></div>
-<p>I uploaded the converted model to Hugging Face as <a href="https://huggingface.co/simonw/comma-v0.1-2t-mlx">simonw/comma-v0.1-2t-mlx</a>.</p>
-<p>Now that it's on the Hub here's how to try it out (using <code>uv run</code>):</p>
-<div class="highlight highlight-source-shell"><pre>uv run --python 3.12 \
-  --with mlx-lm \
-  mlx_lm.generate \
-    --model simonw/comma-v0.1-2t-mlx \
-    --prompt <span class="pl-s"><span class="pl-pds">'</span>Facts about pelicans:<span class="pl-pds">'</span></span></pre></div>
-<p>The first time you run this it will download 13GB of files to <code>~/.cache/huggingface/hub/models--simonw--comma-v0.1-2t-mlx</code>.</p>
-<p>Here's what I got back:</p>
-<blockquote>
-<p><code>1. They are the largest of the water birds. 2. They are found in all parts of the world. 3. They are very good swimmers. 4. They are very good divers. 5. They are very good flyers. 6. They are very good hunters. 7. They are very good eaters. 8. They are very good parents. 9. They are very good friends. 10.</code></p>
-</blockquote>
-<p>The big limitation of this model right now is that it's a raw base model - it hasn't been instruction-tuned or set up for chat.</p>
-<p>This means you have to prefix-prompt it, like in the GPT-3 days. You need to give it a sentence for it to complete.</p>
-<p>This makes it a lot harder to evaluate than the instruction-tuned models that I've become used to over the past few years!</p>
-<p>I'm hoping someone releases a chat-tuned version of this model soon. The challenge there will be keeping to the openly licensed training data, since most of the fine-tuning datasets out there for this are themselves derived from models that were trained on unlicensed data.</p>
-
-<p>Sadly it didn't do too well on my <a href="https://simonwillison.net/2025/Jun/6/six-months-in-llms/#ai-worlds-fair-2025-02.jpeg">pelican on a bicycle</a> benchmark:</p>
-<div class="highlight highlight-source-shell"><pre>uv run --python 3.12 \
-  --with mlx-lm \
-  mlx_lm.generate \
-    --model simonw/comma-v0.1-2t-mlx \
-    --prompt <span class="pl-s"><span class="pl-pds">'</span>An SVG of a pelican riding a bicycle: &lt;svg<span class="pl-pds">'</span></span> --max-tokens 2000</pre></div>
-<p>The output started like this and looped indefinitely:</p>
-<blockquote>
-<p><code>xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 100 100"&gt;&lt;path d="M0 0h100v100H0z" fill="none"/&gt;&lt;path d="M0 0h100v100H0z" fill="none"/&gt;&lt;path d="M0 0h100v100H0z" fill="none"/&gt;&lt;path d="M0 0h100v100H0z" fill="none"/&gt;&lt;path d="M0 0h100v100H0z" fill="none"/&gt;&lt;path d="M0 0h100v100H0z" fill="none"/&gt;&lt;path d="M0 0h100v100H0z" fill="none"/&gt;&lt;path d="M0 0h100v100H0z" fill="none"/&gt;...</code></p>
-</blockquote>
-    
-        <p>Tags: <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/training-data">training-data</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/Jun/7/comma/#atom-everything>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
-
-White House aide Stephen Miller calls LA protests an &#39;insurrection.&#39; 
-
-<br> 
-
-<https://www.reuters.com/world/us/white-house-aide-calls-los-angeles-anti-ice-protests-an-insurrection-2025-06-07/>
-
----
-
-## A knockout blow for LLMs?
-
-date: 2025-06-07, from: Gary Marcus blog
-
-LLM &#8220;reasoning&#8221; is so cooked they turned my name into a verb 
-
-<br> 
-
-<https://garymarcus.substack.com/p/a-knockout-blow-for-llms>
-
----
-
-## Quoting Lila Shapiro
-
-date: 2025-06-07, updated: 2025-06-07, from: Simon Willison’s Weblog
-
-<blockquote cite="https://www.vulture.com/article/generative-ai-hollywood-movies-tv.html"><p>For [Natasha] Lyonne, the draw of AI isn’t speed or scale — it’s independence. “I’m not trying to run a tech company,” she told me. “It’s more that I’m a filmmaker who doesn’t want the tech people deciding the future of the medium.” She imagines a future in which indie filmmakers can use AI tools to reclaim authorship from studios and avoid the compromises that come with chasing funding in a broken system.</p>
-<p>“We need some sort of Dogme 95 for the AI era,” Lyonne said, referring to the stripped-down 1990s filmmaking movement started by Lars von Trier and Thomas Vinterberg, which sought to liberate cinema from an overreliance on technology. “If we could just wrangle this artist-first idea before it becomes industry standard to not do it that way, that’s something I would be interested in working on. Almost like we are not going to go quietly into the night.”</p></blockquote>
-<p class="cite">&mdash; <a href="https://www.vulture.com/article/generative-ai-hollywood-movies-tv.html">Lila Shapiro</a>, Everyone Is Already Using AI (And Hiding It), New York Magazine</p>
-
-    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/film">film</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/Jun/7/lila-shapiro/#atom-everything>
-
----
-
-## Bill Atkinson, RIP
-
-date: 2025-06-07, from: Michael Tsai
-
-Facebook (Hacker News): We regret to write that our beloved husband, father, and stepfather Bill Atkinson passed away on the night of Thursday, June 5th, 2025, due to pancreatic cancer. He was at home in Portola Valley in his bed, surrounded by family. We will miss him greatly, and he will be missed by many [&#8230;] 
-
-<br> 
-
-<https://mjtsai.com/blog/2025/06/07/bill-atkinson-rip/>
-
----
-
-## WWDC 2025 Preview
-
-date: 2025-06-07, from: Michael Tsai
-
-Juli Clover: The 2025 Worldwide Developers Conference is just a few days away, with the keynote event set to take place on Monday, June 9. Ahead of Apple&#8217;s big software debut, we&#8217;ve rounded up all of the rumors that we&#8217;ve heard so far about iOS 26, macOS 26, and Apple&#8217;s other updates. Apple: Today, Apple [&#8230;] 
-
-<br> 
-
-<https://mjtsai.com/blog/2025/06/07/wwdc-2025-preview/>
-
----
-
-## Clip Rejected via Notarization
-
-date: 2025-06-07, from: Michael Tsai
-
-Riley Testut: The latest Clip update has been stuck in Notarization for 3 days now. I swear if Apple announces a clipboard manager at WWDC&#8230;[&#8230;]Update: it was rejected because the keyboard extension doesn&#8217;t do anything if Full Access isn&#8217;t enabled &#x1F644;Even though the previous submissions also didn&#8217;t do anything without Full Access enabled&#8230; Recall that [&#8230;] 
-
-<br> 
-
-<https://mjtsai.com/blog/2025/06/07/clip-rejected-via-notarization/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
-
-Why vibecoding your own apps is so amazing—and exasperating. 
-
-<br> 
-
-<https://www.fastcompany.com/91345791/vibecoding-replit-debugging-claude>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
-
-Bill Atkinson Dies From Cancer at 74. 
-
-<br> 
-
-<https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
-
-Inside OpenAI’s Plan to Embed ChatGPT Into College Students’ Lives. 
-
-<br> 
-
-<https://www.nytimes.com/2025/06/07/technology/chatgpt-openai-colleges.html?unlocked_article_code=1.NE8.wNtI.p_kahSgqHwFV&smid=url-share>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
-
-Why Cuomo&#39;s sexual harassment accusations are playing little role in the NYC mayoral race. 
-
-<br> 
-
-<https://www.nydailynews.com/2025/06/07/cuomo-sexual-harassment-accusations-role-nyc-mayoral-race/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
-
-How political cartoonists are bringing AI into their work. 
-
-<br> 
-
-<https://www.niemanlab.org/2025/06/i-dont-want-to-outsource-my-brain-how-political-cartoonists-are-bringing-ai-into-their-work/>
-
----
-
-## On finding time to write (this is not productivity advice)
-
-date: 2025-06-07, from: Blog by Fabrizio Ferri-Benedetti
-
-<p>A colleague recently asked how I find time to blog about technical writing after hours. The answer is surprisingly simple: I prioritize writing above other things. I could have posted that exchange on social media and called it a day, but there’s more nuance to that simple reply. Let me elaborate, it might be useful.</p> 
-
-<br> 
-
-<https://passo.uno/how-i-write-about-tech-writing/>
-
----
-
-## zpoweralertd: A poweralertd Drop-In Replacement Written in Zig
-
-date: 2025-06-07, from: mrusme blog
-
-`zpoweralertd` is a lightweight, drop-in replacement for `poweralertd`,
-written in Zig and designed to listen to _UPower_ events and send desktop
-notifications over _D-Bus_. 
-
-<br> 
-
-<https://xn--gckvb8fzb.com/zpoweralertd-a-poweralertd-drop-in-replacement-written-in-zig/>
-
----
-
-## Scientists Just Discovered a Lost Ancient Culture That Vanished
-
-date: 2025-06-07, from: 404 Media Group
-
-Plus: a surprising case of galactic eschatology, nematode cheerleading pyramids, ancient makeup kits, and more. 
-
-<br> 
-
-<https://www.404media.co/scientists-just-discovered-a-lost-ancient-culture-that-vanished/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
-
-Apple is on defense at WWDC 2025. 
-
-<br> 
-
-<https://www.theverge.com/apple/681739/wwdc-2025-epic-trial-apple-intelligence>
-
----
-
-**@Feed for Alt USDS** (date: 2025-06-07, from: Feed for Alt USDS)
-
-Insider threat. That's what DOGE is. And now the Chief Insider Threat is on the outs and he's even more unpredictable.
-
-Today's Washington Post: "White House security staff warned Musk’s Starlink is a security risk"
-
-archive.is/RDitU
-https://archive.is/RDitU 
-
-<br> 
-
-<https://bsky.app/profile/altusds.altgov.info/post/3lqzet74kwk2d>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
-
-Book Review: ‘What Is Wrong With Men,’ written by a woman, of course. 
-
-<br> 
-
-<https://www.nytimes.com/2025/06/01/books/review/what-is-wrong-with-men-jessa-crispin.html?smid=tw-share>
-
----
-
-**@Tomosino's Mastodon feed** (date: 2025-06-07, from: Tomosino's Mastodon feed)
-
-<p>I was just thinking about keyboard shortcuts that I used to use all the time and how many have fallen out of favor. Ctrl-insert / Shift-insert for copy/paste. Ctrl-Break...</p><p>You remember more?</p> 
-
-<br> 
-
-<https://tilde.zone/@tomasino/114641815967681823>
-
----
-
-## Inventing the Renaissance: Ada Palmer
-
-date: 2025-06-07, from: Paul Krugman
-
-A fun conversation about history 
-
-<br> 
-
-<https://paulkrugman.substack.com/p/inventing-the-renaissance-ada-palmer>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
-
-&quot;It&#39;s really hard to fathom that the guy making my pizza for 25 years is a gangster and a terrorist, and the person who shows up in an unmarked car wearing a mask and body armor comes to take him away is somehow the good guy,&quot; said Simon. 
-
-<br> 
-
-<https://www.wnep.com/article/news/local/wayne-county/its-just-made-to-instill-fear-ice-detains-3-restaurant-employees-in-wayne-county-honesdale/523-e463cdf3-4464-44f3-89ae-08a499f77768>
-
----
-
-**@Feed for Alt USDS** (date: 2025-06-07, from: Feed for Alt USDS)
-
-This isn't just billionaire beef. It’s a sign of deeper narrative shifts in how we define freedom, innovation, and leadership.
-
-When the usual voices fracture, new ones rise. That’s when misinformation strikes hardest.
-
-Read the latest from We the Builders 👇
-
-🔗 bit.ly/43RdAvK 
-
-<br> 
-
-<https://bsky.app/profile/altusds.altgov.info/post/3lqygles2ps2u>
-
----
-
-## I dream of roombas - thousands of automated AI robots that autonomously maintain codebases
-
-date: 2025-06-07, from: Geoffrey Hunntley's blog
-
-<p>Just yesterday morning, I was writing a conference talk on best practices for maintaining the LLM context window, which was quite detailed. It contained the then best practices from the two blog posts below.</p><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://ghuntley.com/gutter/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">autoregressive queens of failure</div><div class="kg-bookmark-description">Have you ever had your AI coding assistant suggest something so off-base</div></div></a></figure> 
-
-<br> 
-
-<https://ghuntley.com/ktlo/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
-
-Agents Use Military-Style Force Against Protesters at L.A. Immigration Raid. 
-
-<br> 
-
-<https://www.nytimes.com/2025/06/06/us/los-angeles-immigration-raid.html>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-07, from: Dave Winer's linkblog)
-
-Federal immigration officials detained an 11th-grade New York City student while he was at an asylum hearing earlier this week, the city’s schools chancellor said Friday. 
-
-<br> 
-
-<https://gothamist.com/news/ice-detained-queens-11th-grader-at-his-immigration-hearing-officials-say>
-
----
-
-## Rethinking REST
-
-date: 2025-06-07, from: Robert's Ramblings
-
-I am re-thinking my reliance on REST's implementation of the CRUD abstraction in favor of the simpler
-read write file abstraction in my web application. This can be accomplished in SQL easily. This post
-covers an example of doing this in SQLite3 while also implementing JSON object versioning.
-
-Coverted are implenting the write abstraction using an upsert operation based on `insert` and SQLite3's
-`on conflict` clause. The object versioning is implemented using a simple trigger on the JSON column.
-The trigger maintains the version number and updated timestamp.
- 
-
-<br> 
-
-<https://rsdoiel.github.io/blog/2025/06/07/Rethinking-REST.html>
 

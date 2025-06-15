@@ -1,11 +1,47 @@
 ---
 title: motorcycles
-updated: 2025-06-14 14:08:54
+updated: 2025-06-15 06:08:44
 ---
 
 # motorcycles
 
-(date: 2025-06-14 14:08:54)
+(date: 2025-06-15 06:08:44)
+
+---
+
+## Power rockets to 71st career pole at World Wide Technology Raceway
+
+date: 2025-06-15, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer IndyCar heads to primetime on Sunday night for the Bommarito Automotive Group 500 at World Wide Technology Raceway (formerly Gateway) for the second oval race&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/power-rockets-to-71st-career-pole-at-world-wide-technology-raceway/>
+
+---
+
+## NASCAR Driver Ryan Ellis Shares Story Of Mexico City-bound 39 Year Old Plane’s Aborted Takeoff
+
+date: 2025-06-14, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor MEXICO CITY – Having an engine fail due to a suspected bird strike at 160 mph just seconds before takeoff was likely on any NASCAR crew&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-driver-ryan-ellis-shares-story-of-mexico-city-bound-39-year-old-planes-aborted-takeoff/>
+
+---
+
+## GALLERY 1: NASCAR Visits Autodromo Hermano Rodriquez In Mexico City
+
+date: 2025-06-14, from: Kickin the Tires blog
+
+Photos by Jerry Jordan/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-1-nascar-visits-autodromo-hermano-rodriquez-in-mexico-city/>
 
 ---
 
@@ -520,29 +556,4 @@ Stewart Friesen hoisted his first trophy of the season in Saturday afternoon’s
 <br> 
 
 <https://kickinthetires.net/nascar/stewart-friesen-wins-thrilling-triple-overtime-nascar-craftsman-truck-series-race-at-michigan/>
-
----
-
-## Race to the Road: Introducing the Porsche 963 RSP
-
-date: 2025-06-07, from: Kickin the Tires blog
-
-Le Mans, June 06, 2025 (GLOBE NEWSWIRE) &#8212; As Porsche prepares for the 24 Hours of Le Mans, a sister to the 963 Hypercar has been revealed – named the&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/car-culture/race-to-the-road-introducing-the-porsche-963-rsp/>
-
----
-
-## Ducati’s Working On an Automatic Clutch You'll Also Want for Racing
-
-date: 2025-06-07, from: Ride Apart, Electric Motorcycle News
-
-The goal is faster launches, more consistent performance, and reduced clutch wear. 
- 
-
-<br> 
-
-<https://www.rideapart.com/news/761754/ducati-automatic-transmission-clutch-patents/>
 

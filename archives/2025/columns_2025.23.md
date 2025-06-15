@@ -1,17 +1,313 @@
 ---
 title: columns
-updated: 2025-06-14 14:08:50
+updated: 2025-06-15 06:08:41
 ---
 
 # columns
 
-(date: 2025-06-14 14:08:50)
+(date: 2025-06-15 06:08:41)
+
+---
+
+## We’ll Never Go Back
+
+date: 2025-06-15, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/well-never-go-back>
+
+---
+
+## Gist of Go: Race conditions
+
+date: 2025-06-15, from: Anton Zhiyanov blog
+
+Keep the system state correct by any means necessary. 
+
+<br> 
+
+<https://antonz.org/go-concurrency/race-conditions/>
+
+---
+
+## Sunday Thought
+
+date: 2025-06-15, from: Robert Reich's blog
+
+We the People 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-thought-5b2>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-15, from: Miguel de Icaza Mastondon feed)
+
+<p>What my 8yo posted to the family chat today:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114685889951386662>
+
+---
+
+## June 14, 2025
+
+date: 2025-06-15, from: Heather Cox Richardson blog
+
+Tonight I offer you Peter Ralston&#8217;s &#8220;Still There.&#8221; 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-14-2025>
+
+---
+
+## Working together
+
+date: 2025-06-15, from: Dave Winer's Scripting News
+
+<p>It's not just the government that's afraid of small groups of people working together. Big tech companies also. And startups hoping to sell out to big companies. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/06/14/workingTogether.png"></center>Sign seen in Philadelphia today <a href="https://mastodon.social/@PamelaBarroway@mstdn.social/114684888359994394">via Mastodon</a>. </div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/14/020823.html?title=workingTogether>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-15, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/04/butHerEmails.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If you think we need to find a way past the billionaires, then we have to find a way around the established media. They keep selling us out and we keep acting as if we show them that they're doing it in a way they understand they'll get on our side. But they can't. “It is difficult to get a man to understand something, when his salary depends on his not understanding it,” <a href="https://en.wikipedia.org/wiki/Upton_Sinclair">wrote</a> <a href="https://www.goodreads.com/quotes/21810-it-is-difficult-to-get-a-man-to-understand-something">Upton Sinclair</a> in 1935. It's still true 90 years later. Another great philosopher, <a href="https://en.wikipedia.org/wiki/Les_Moonves">Les Moonves</a>, <a href="https://www.politico.com/blogs/on-media/2016/02/les-moonves-trump-cbs-220001">said</a> in 2016, "It may not be good for America, but it's damn good for CBS," referring to Trump's run for president. It was good presumably because of increased viewership resulting more ad revenue. I'm sure it's still true today, though CBS stopped boasting about it in public. 
+
+<br> 
+
+<http://scripting.com/2025/06/14.html#a014453>
+
+---
+
+## Upcoming Speaking Engagements
+
+date: 2025-06-15, updated: 2025-06-15, from: Bruce Schneier blog
+
+<p>This is a current list of where and when I am scheduled to speak:</p>
+<ul>
+<li>I&#8217;m speaking at the <a href="https://lu.ma/cyj0gcpu">International Conference on Digital Trust, AI and the Future</a> in Edinburgh, Scotland on Tuesday, June 24 at 4:00 PM.</li>
+</ul>
+<p>The list is maintained on <a href="https://www.schneier.com/events/">this page</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/06/upcoming-speaking-engagements-47.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-14, from: Miguel de Icaza Mastondon feed)
+
+<p>A small aside, during my vacation I finally started on writing a Metal backend for SwiftTerm.</p><p>It has a few missing features, so not worth comparing performance yet, but it is feeling great:</p><p><a href="https://github.com/migueldeicaza/SwiftTerm/tree/metal-backend" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/migueldeicaza/Swift</span><span class="invisible">Term/tree/metal-backend</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114684091651376434>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-14, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=NfekpCMlb5Q">Queen of the Roller Derby</a>. 
+
+<br> 
+
+<http://scripting.com/2025/06/14.html#a212937>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-14, from: Miguel de Icaza Mastondon feed)
+
+<p>Magical!<br /><a href="https://mastodon.social/@steipete/114682646957690315" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@steipete/1146</span><span class="invisible">82646957690315</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114683835154798968>
+
+---
+
+## June 13, 2025
+
+date: 2025-06-14, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165958177/028d2eb2049990a15bc8dbc6769a56a0.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165958177/028d2eb2049990a15bc8dbc6769a56a0.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-13-2025-dae>
+
+---
+
+## Be peaceful. Be careful. Be safe. 
+
+date: 2025-06-14, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/be-peaceful-be-careful-be-safe>
+
+---
+
+## Cleaning Cupboards
+
+date: 2025-06-14, from: John's World Wide Wall Display
+
+Usually at this time of year I am busy 'tidying' things into cupboards. The summer holidays are approaching. This year I am having to clean the out - nine years of accumulated stuff. 
+
+<br> 
+
+<https://johnjohnston.info/blog/cleaning-cupboards/>
+
+---
+
+## ★ The Talk Show Live From WWDC 2025
+
+date: 2025-06-14, updated: 2025-06-15, from: Daring Fireball
+
+Recorded in front of a live audience at The California Theatre in San Jose Tuesday evening, special guests Joanna Stern and Nilay Patel join me to discuss Apple’s announcements at WWDC 2025. 
+
+<br> 
+
+<https://daringfireball.net/2025/06/the_talk_show_live_from_wwdc_2025>
+
+---
+
+## How I monitor and control all my powered devices (Zigbee + HA)
+
+date: 2025-06-14, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">How I monitor and control all my powered devices (Zigbee + HA)</span>
+
+            <p>Any time I show power consumption graphs for the SBCs, computers, and servers I test, I get a number of comments asking for more details about the setup.</p>
+
+<p></p>
+
+<p>It's quite simple, really: using my <a href="https://www.home-assistant.io/yellow/">Home Assistant Yellow</a>'s built-in Zigbee radio, I connect a number of <a href="https://amzn.to/45oROls">ThirdReality Zigbee Smart Outlets</a> to it, and then I use <a href="https://github.com/RomRider/apexcharts-card">ApexCharts Cards</a> to add graphs of power consumption over time on my Home Assistant dashboards.</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">June 14, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/how-i-monitor-and-control-all-my-powered-devices-zigbee-ha>
+
+---
+
+## Saturday,  14 June 2025
+
+date: 2025-06-14, from: Doc Searls (at Harvard), New Old Blog
+
+And that guidance led to what I&#8217;m doing here. Late in the last millennium, I was the creative director and main copy writer for Hodskins Simone &#38; Searls, a hot young advertising agency in North Carolina. I also still wrote often for a local Magazine called The Sun, which has since grown to become one [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/06/14/saturday-14-june-2025/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-14, from: Miguel de Icaza Mastondon feed)
+
+<p>Inspired by the talk, a nice 2.6x performance boost in a couple of hours for SwiftTerm:</p><p><a href="https://github.com/migueldeicaza/SwiftTerm/issues/373" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/migueldeicaza/Swift</span><span class="invisible">Term/issues/373</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114681687864387160>
+
+---
+
+## As RHEL clones hit version 10, Rocky and Alma chart diverging paths
+
+date: 2025-06-14, updated: 2025-06-14, from: Liam Proven's articles at the Register
+
+<h4>We take a quick look at the headline features – and the growing differences</h4>
+      <p>Rocky Linux 10 has caught up to the other high-profile RHELatives, but gaps between them are widening, both in tech and other ways.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/14/rocky_alma_and_rhel_10/>
+
+---
+
+## Fighting Trump | The Coffee Klatch for June 14, 2025
+
+date: 2025-06-14, from: Robert Reich's blog
+
+With special guest Ezra Levin of Indivisible, Michael Lahanas-Calder&#243;n, and yours truly, Robert Reich 
+
+<br> 
+
+<https://robertreich.substack.com/p/fighting-trump-the-coffee-klatch>
+
+---
+
+## the z80 technique reveals the source code for Atlassian's 'rovo' AI assistant
+
+date: 2025-06-14, from: Geoffrey Hunntley's blog
+
+<p>Ever wondered what happens if you take the technique at &quot;<a href="https://ghuntley.com/z80/">Can a LLM convert C, to ASM to specs and then to a working Z/80 Speccy tape? Yes.</a>&quot; and run it against the Atasslian Command Line (<a href="https://developer.atlassian.com/cloud/acli/guides/introduction/?ref=ghuntley.com">ACLI</a>) interface? Strap yourself in, as the Z80 is amongst one</p> 
+
+<br> 
+
+<https://ghuntley.com/atlassian-rovo-source-code/>
+
+---
+
+## Weeknotes: June 7-13, 2025
+
+date: 2025-06-14, from: Tracy Durnell Blog
+
+Highlight of the week: went on a neighborhood garden tour 🌼 had such a great time! 😊 Looking forward to: hoping to meet some neighbors at a community potluck 🤞 all the neighbors we knew moved away Stuff I did: 6.75 hours consulting &#8212; sent in a first draft deliverable for the new project 3.25 hours [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/06/13/weeknotes-june-7-13-2025/>
+
+---
+
+## June 13, 2025 
+
+date: 2025-06-14, from: Heather Cox Richardson blog
+
+Two hundred and fifty years ago, on June 14, 1775, the Second Continental Congress resolved &#8220;That six companies of expert riflemen, be immediately raised in Pennsylvania, two in Maryland, and two in Virginia; that each company consist of a captain, three lieutenants, four serjeants, four corporals, a drummer or trumpeter, and sixty-eight privates&#8230;[and that] each company, as soon as completed, shall march and join the army near Boston, to be there employed as light infantry, under the command of the chief Officer in that army.&#8221; 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-13-2025>
+
+---
+
+## Meta AI Users Are Inadvertently Sharing Their Private Chats With the World
+
+date: 2025-06-14, updated: 2025-06-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://techcrunch.com/2025/06/12/the-meta-ai-app-is-a-privacy-disaster/>
 
 ---
 
 ## The NYT Goes ‘Reefer Madness’ on ChatGPT
 
-date: 2025-06-13, updated: 2025-06-14, from: Daring Fireball
+date: 2025-06-13, updated: 2025-06-15, from: Daring Fireball
 
  
 
@@ -1741,266 +2037,4 @@ In April, John Phelan, the U.S.
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/june-7-2025>
-
----
-
-## Bill Atkinson Dies From Cancer at 74
-
-date: 2025-06-07, updated: 2025-06-08, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.facebook.com/story.php?story_fbid=10238073579963378&id=1378467145&_rdr>
-
----
-
-## Swift 6 Productivity in the Sudden Age of LLM-Assisted Programming
-
-date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://mister.computer/@kyle/114608923901892223>
-
----
-
-## Thomas Ptacek: ‘My AI Skeptic Friends Are All Nuts’
-
-date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://fly.io/blog/youre-all-nuts/?ueid=4b93173967d7dc762529a10418e85007>
-
----
-
-## June 6, 2025
-
-date: 2025-06-07, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165428163/d6436601c0b220291f83b70f527a0282.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/165428163/d6436601c0b220291f83b70f527a0282.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/june-6-2025-553>
-
----
-
-## A Long Lost Never-Published DF Post From 2014
-
-date: 2025-06-07, updated: 2025-06-09, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://daringfireball.net/linked/2014/06/01/lefsetz>
-
----
-
-## You Can Recharge Apple’s MagSafe Battery Pack Without a Lightning Cable
-
-date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://daringfireball.net/linked/2025/06/04/apple-iphone-air-battery-case-or-pack>
-
----
-
-## Turns Out, Since 2023, You Can Use WhatsApp Across Multiple Phones
-
-date: 2025-06-07, updated: 2025-06-08, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://blog.whatsapp.com/one-whatsapp-account-now-across-multiple-phones>
-
----
-
-##  Bernini’s Ratto di Proserpina 
-
-date: 2025-06-07, updated: 2025-06-07, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/25/06/berninis-ratto-di-proserpina>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-06-07, from: Dave Winer's Scripting News)
-
-I'm looking for bloggers who cover the community around the <a href="https://fediforum.org/">FediForum conference</a>. I want to add them to my blogroll, which does a pretty good job of keeping me current with developments. 
-
-<br> 
-
-<http://scripting.com/2025/06/07.html#a163739>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-06-07, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/01/26/cartoonChicken.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I was moved by this <a href="https://www.scientificamerican.com/article/inside-the-secret-meeting-where-mathematicians-struggled-to-outsmart-ai/">Scientific American piece</a> on mathematicians studying the limits of ChatGPT-like systems doing mathematics and basically not finding any. Mathematical proofs creative things, not algorithmic. That has not been my experience with ChatGPT and creating software. I find that when I want to talk about software I'm working on, it understands what I'm saying, but I've never had it come up with an original idea on its own. A human who captivated my attention as it does, and who I spent as much time with as I do with ChatGPT would have stimulated <i>some</i> original ideas by now. If I talk with a friend for even a few minutes there will be at least one <a href="https://daytona.scripting.com/search?q=aha">aha</a> moment. 
-
-<br> 
-
-<http://scripting.com/2025/06/07.html#a162715>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-06-07, from: Dave Winer's Scripting News)
-
-Stuff I've <a href="https://daytona.scripting.com/search?q=%22julia%20child%22">written</a> about Julia Child. Came up in a conversation about <a href="https://daytona.scripting.com/search?q=%22Jerry%20Garcia%22">Jerry Garcia</a> and bloggers before there was blogging. 
-
-<br> 
-
-<http://scripting.com/2025/06/07.html#a162415>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-06-07, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2023/07/02/validRss.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Why I <a href="http://scripting.com/2025/06/04.html#a153938">want</a> a new feed validator. I am doing new things with feeds. If I do a validator, it will tell you if a feed will work with what I'm doing. I want to boot up a new layer, build on RSS, the way that not all TCP messages are HTTP (analogously), and not all XML is RSS. The differences will be minimal, and backward compatible. <a href="http://scripting.com/rss.xml">Scripting News</a> will work very well with it, so there will be a solid example to crib from. 
-
-<br> 
-
-<http://scripting.com/2025/06/07.html#a145219>
-
----
-
-## zpoweralertd: A poweralertd Drop-In Replacement Written in Zig
-
-date: 2025-06-07, from: mrusme blog
-
-`zpoweralertd` is a lightweight, drop-in replacement for `poweralertd`,
-written in Zig and designed to listen to _UPower_ events and send desktop
-notifications over _D-Bus_. 
-
-<br> 
-
-<https://xn--gckvb8fzb.com/zpoweralertd-a-poweralertd-drop-in-replacement-written-in-zig/>
-
----
-
-## Saturday
-
-date: 2025-06-07, from: Doc Searls (at Harvard), New Old Blog
-
-Blogging will be light. Big Granfalloon day. Everything, just not all at once. Ted Gioia gives ten warning signs that the &#34;knowledge system&#34; is collapsing. I&#39;m in that system, as are all serious journalists and academics (I work in both worlds). So are all technologists. (I&#39;m kinda that too.) What will replace it? Don&#39;t be [&#8230;] 
-
-<br> 
-
-<https://doc.searls.com/2025/06/07/saturday/>
-
----
-
-## AI-free writing
-
-date: 2025-06-07, from: Anton Zhiyanov blog
-
-I never use AI-generated content in my writing, and I never will. 
-
-<br> 
-
-<https://antonz.org/ai-free/>
-
----
-
-## Ultimate Fighting Championship | The Coffee Klatch for Saturday, June 7, 2025
-
-date: 2025-06-07, from: Robert Reich's blog
-
-With Michael Lahanas-Calder&#243;n and yours truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165381811/64d7284eb9f86ec8c6244e45a86f5074.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/165381811/64d7284eb9f86ec8c6244e45a86f5074.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/ultimate-fighting-championship-the>
-
----
-
-## June 6, 2025 
-
-date: 2025-06-07, from: Heather Cox Richardson blog
-
-Last night, billionaire Elon Musk indicated he would be willing to paper over his fight with President Donald J. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/june-6-2025>
-
----
-
-**@Ryan Gantz Bluesky feed** (date: 2025-06-07, from: Ryan Gantz Bluesky feed)
-
-help us, Obi Wan Harambe 
-
-ur our only hope 
-
-<br> 
-
-<https://bsky.app/profile/sixfoot6.com/post/3lqyh7lqfdc2g>
-
----
-
-## I dream of roombas - thousands of automated AI robots that autonomously maintain codebases
-
-date: 2025-06-07, from: Geoffrey Hunntley's blog
-
-<p>Just yesterday morning, I was writing a conference talk on best practices for maintaining the LLM context window, which was quite detailed. It contained the then best practices from the two blog posts below.</p><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://ghuntley.com/gutter/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">autoregressive queens of failure</div><div class="kg-bookmark-description">Have you ever had your AI coding assistant suggest something so off-base</div></div></a></figure> 
-
-<br> 
-
-<https://ghuntley.com/ktlo/>
-
----
-
-## Weeknotes: May 31 – June 6, 2025
-
-date: 2025-06-07, from: Tracy Durnell Blog
-
-Happy Pride Month! 🌈 Win of the week: finally! finished! this AI aesthetics blog post! it&#8217;s occupied basically all my blogging time for the past month, at last I can think about something else 😂 (who am I kidding, now I can turn the sections that got cut into their own posts lol) Looking forward [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/06/06/weeknotes-may-31-june-6-2025/>
-
----
-
-## Markdown Support in Windows Notepad
-
-date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.theverge.com/news/677474/microsoft-windows-notepad-bold-italic-text-formatting-markdown-support?ueid=4b93173967d7dc762529a10418e85007>
-
----
-
-## Take That CIRP Survey on Apple Customer Device Ownership With a Giant Grain of Salt
-
-date: 2025-06-07, updated: 2025-06-07, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://daringfireball.net/linked/2025/06/06/cirp-survey-ipad-popularity#update>
 

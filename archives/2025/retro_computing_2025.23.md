@@ -1,11 +1,59 @@
 ---
 title: retro computing
-updated: 2025-06-14 14:08:54
+updated: 2025-06-15 06:08:45
 ---
 
 # retro computing
 
-(date: 2025-06-14 14:08:54)
+(date: 2025-06-15 06:08:45)
+
+---
+
+## b.log 2025/06/14 - A peaceful Saturday, Satellite receiver repair, My unBirthday soon.
+
+date: 2025-06-14, from: Richard Murray's blog
+
+A peaceful Saturday, Satellite receiver repair, My unBirthday soon. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250614>
+
+---
+
+## Hugo Tyson talks to ROUGOL about his time at Acorn – 16th June
+
+date: 2025-06-14, from: RiscOS Story
+
+The guest speaker at the next RISC OS User Group of London (ROUGOL) meeting will be Hugo Tyson, who will be talking about what he did during the time he worked at Acorn. Having worked for the company from June 1980 (becoming a full time staffer in September 1982) all the way up until 1990, Hugo worked on many projects, such as Acorn&#8217;s disc filing systems (both DFS and ADFS), the Unix-based operating system RISC iX, and more &#8211; including Acorn&#8217;s most ambitious project, the development of the ARM CPU,&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/hugo-tyson-at-rougol-16th-june/>
+
+---
+
+## RISCOSbits unleashes FAST Linux with ECOS5
+
+date: 2025-06-14, from: RiscOS Story
+
+If you have a RISCOSbits FAST system, the company is now able to provide you with a new, additional piece of kit &#8211; which doubles up your RISC OS computer, making it a Linux one as well. Easy Concurrent Operating System (ECOS) 5 was announced in the run up to the RISC OS North show, with no product available to sell at that point, only to show off on the day. Although the reason ECOS5 wasn&#8217;t available was due to holiday timings, it means RISCOSbits was able to listen to&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/riscosbits-ecos5-unleashed/>
+
+---
+
+## CardInfo 1.03 released
+
+date: 2025-06-14, from: RiscOS Story
+
+Kevin Wells has released an update to his CardInfo application that uses Wget to look up information online about our flexible friends, using a remote Application Programmer Interface (API). Given the first six digits of a bank card number, it will relay that data to the BIN (Bank Identification Number) Checker API, which is provided by API Layer). The returned information is then displayed, which will include things like the issuing bank, its country, and so on. The first change in version 1.03 of the software is that it recognises&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/cardinfo-1-03/>
 
 ---
 
@@ -197,16 +245,4 @@ Central locking, Shopping, Why I never knew how fast Caoimhe could go, Doing stu
 <br> 
 
 <https://heyrick.eu/blog/index.php?diary=20250608>
-
----
-
-## RIP Bill Atkinson
-
-date: 2025-06-07, from: Old Ventage Computing Research
-
-As <a href="https://facebook.com/story.php?story_fbid=10238073579963378&id=1378467145">posted by his family</a> (Facebook link), Bill Atkinson passed away on June 5 from pancreatic cancer at the age of 74. The Macintosh would not have been the same without him (QuickDraw, MacPaint, HyperCard, and <a href="https://www.folklore.org/0-index.html">so much more</a>), nor would <a href="/2022/12/magic-cap-from-magic-link-to-datarover.html">Magic Cap</a> have been a thing. Rest in peace. 
-
-<br> 
-
-<https://oldvcr.blogspot.com/2025/06/rip-bill-atkinson.html>
 

@@ -1,11 +1,37 @@
 ---
 title: journalism
-updated: 2025-06-14 14:08:52
+updated: 2025-06-15 06:08:42
 ---
 
 # journalism
 
-(date: 2025-06-14 14:08:52)
+(date: 2025-06-15 06:08:42)
+
+---
+
+## ‘This moment belongs to all of you’: UCLA commencement celebrates graduates
+
+date: 2025-06-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Speakers called on graduating seniors to embrace UCLA&#8217;s values amid recent political challenges at annual College of Letters and Science commencement ceremonies Friday.
+The ceremonies, which took place 11 a.m., 3 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/14/this-moment-belongs-to-all-of-you-ucla-commencement-celebrates-graduates/>
+
+---
+
+## US Marines stationed at federal building in Westwood; 1 person detained
+
+date: 2025-06-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Around 40 United States Marines were stationed at the Wilshire Federal Building in Westwood – and had detained one person – as of 4:40 p.m Friday.&#160;
+About 200 Marines arrived in Westwood on Friday morning, according to CBS News. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/13/us-marines-stationed-at-federal-building-in-westwood-1-person-detained/>
 
 ---
 
@@ -455,73 +481,4 @@ date: 2025-06-08, from: The Canyon News (COC Student Newspaper)
 <br> 
 
 <https://canyonsnews.com/beach-bus/>
-
----
-
-## Graduation season rolls on as Castaic Coyotes celebrate their special moment
-
-date: 2025-06-07, from: The Canyon News (COC Student Newspaper)
-
-<p>Here in Santa Clarita, it’s the season of graduation. With applause of&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/graduation-season/">Graduation season rolls on as Castaic Coyotes celebrate their special moment</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
- 
-
-<br> 
-
-<https://canyonsnews.com/graduation-season/>
-
----
-
-## Student parents juggle classes, child care in pursuit of degrees
-
-date: 2025-06-07, from: The Daily Bruin (UCLA Student Newspaper)
-
-Each year, thousands of graduates receive their degrees at UCLA. In addition to being students, some graduates hold another role &#8211; parent.
-The American Council on Education defines student parents as students enrolled in a degree or certificate program who have at least one child or dependent. 
-
-<br> 
-
-<https://dailybruin.com/2025/06/07/student-parents-juggle-classes-child-care-in-pursuit-of-degrees/>
-
----
-
-## Adult Reentry Alliance offers opportunities for adults returning to college
-
-date: 2025-06-07, from: The Canyon News (COC Student Newspaper)
-
-<p>There are many reasons adults decide to return to college, including the&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/adult-reentry/">Adult Reentry Alliance offers opportunities for adults returning to college</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
- 
-
-<br> 
-
-<https://canyonsnews.com/adult-reentry/>
-
----
-
-## COC students bracing for finals look for ways to preserve mental health
-
-date: 2025-06-07, from: The Canyon News (COC Student Newspaper)
-
-<p>As we spring into summer, students are faced with one last academic&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/mental-health-awareness/">COC students bracing for finals look for ways to preserve mental health</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
- 
-
-<br> 
-
-<https://canyonsnews.com/mental-health-awareness/>
-
----
-
-## College of the Canyons graduation: final goodbyes and reflections
-
-date: 2025-06-07, from: The Canyon News (COC Student Newspaper)
-
-<p>Graduation is coming up. Students will walk the stage at Cougar Stadium&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/coc-graduation/">College of the Canyons graduation: final goodbyes and reflections</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
- 
-
-<br> 
-
-<https://canyonsnews.com/coc-graduation/>
 

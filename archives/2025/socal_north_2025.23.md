@@ -1,11 +1,260 @@
 ---
 title: socal north
-updated: 2025-06-14 14:08:47
+updated: 2025-06-15 06:08:38
 ---
 
 # socal north
 
-(date: 2025-06-14 14:08:47)
+(date: 2025-06-15 06:08:38)
+
+---
+
+## Americans will feel effects of immigration enforcement on farms, union president warns
+
+date: 2025-06-15, updated: 2025-06-15, from: The LAist
+
+Workers are "terrified" as immigration agents sweep farms, the president of United Farm Workers says, adding that Americans should think about the "human loss" as well as "crops rotting" in the fields. 
+
+<br> 
+
+<https://laist.com/news/americans-will-feel-impact-immigration-enforcement-on-farms-union-president-warns>
+
+---
+
+## Keeping Our Community Safe from Wildfires and Fireworks
+
+date: 2025-06-14, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin As a longtime resident of Santa Clarita, I know that summer brings more than just high temperatures—it also marks a peak season for wildfire danger. Earlier this year, we witnessed the devastating impact of the Palisades and Eaton Fires in Los Angeles, as well as the Hughes Fire in Castaic, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/14/keeping-our-community-safe-from-wildfires-and-fireworks/">Keeping Our Community Safe from Wildfires and Fireworks</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/14/keeping-our-community-safe-from-wildfires-and-fireworks/>
+
+---
+
+## Fireworks and parachutists: Army celebrates its 250th year, Trump celebrates his 79th
+
+date: 2025-06-14, updated: 2025-06-14, from: The LAist
+
+The official focus of the parade was the commemoration of the U.S. Army's 250th anniversary. But critics say the president is using the military show of force to push a political agenda. 
+
+<br> 
+
+<https://laist.com/news/tanks-and-flyovers-army-celebrates-its-250th-year-trump-celebrates-his-79th>
+
+---
+
+## Police establish barricade around PCH motel; 2 arrested
+
+date: 2025-06-14, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The incident began when officers conducted a traffic stop at about 8:10 p.m. Friday in the area of Redondo Avenue and Pacific Coast Highway, authorities said. </p>
+<p>The post <a href="https://lbpost.com/news/police-establish-barricade-around-pch-motel-2-arrested">Police establish barricade around PCH motel; 2 arrested</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/police-establish-barricade-around-pch-motel-2-arrested>
+
+---
+
+## The eye-catching signs at LA's downtown No Kings protest
+
+date: 2025-06-14, updated: 2025-06-14, from: The LAist
+
+Homemade signs were everywhere as marchers flooded the streets of downtown Los Angeles on Saturday. 
+
+<br> 
+
+<https://laist.com/news/the-eye-catching-signs-at-las-downtown-no-kings-protest>
+
+---
+
+## Saturday's military parade is the first in D.C. since 1991's Victory Celebration
+
+date: 2025-06-14, updated: 2025-06-14, from: The LAist
+
+The last time the United States held a national military parade was in June 1991, timed to welcome returning veterans of the 100-day Persian Gulf War. 
+
+<br> 
+
+<https://laist.com/news/saturdays-military-parade-will-be-the-first-in-d-c-since-1991s-victory-celebration>
+
+---
+
+## Trump's immigration response poses political risks
+
+date: 2025-06-14, updated: 2025-06-14, from: The LAist
+
+President Trump's approach to deportations is giving Democrats a unifying message in opposition to him. But the Democratic Party still lacks a common vision for what it would do differently. 
+
+<br> 
+
+<https://laist.com/news/politics/trumps-immigration-response-poses-political-risks>
+
+---
+
+## ¿Cómo involucrarse en la educación de su hijo? Ya sea en un nuevo ciclo escolar o a mitad
+de año
+
+date: 2025-06-14, updated: 2025-06-15, from: The LAist
+
+Hay muchas formas de involucrarse en la educación de su hijo, no importa si tiene poco tiempo para hacerlo. 
+
+<br> 
+
+<https://laist.com/news/education/california-los-angeles-school-guide-parent-involvement-como-involucrarse-escuela-guia-es>
+
+---
+
+## ¿Qué es la junta escolar de LAUSD y cómo los pongo a trabajar para mí?
+
+date: 2025-06-14, updated: 2025-06-14, from: The LAist
+
+Es la junta escolar más poderosa del país. Y se enfrenta a enormes desafíos, como la escasez de fondos, el ausentismo crónico y la seguridad. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-los-angeles-unified-school-district-board-junta-distrito-escolar-unificado-guia-es>
+
+---
+
+## Techos con goteras, aulas calurosas: una guía para padres sobre reparaciones escolares
+
+date: 2025-06-14, updated: 2025-06-14, from: The LAist
+
+Esta guía es para padres y familias que desean comprender mejor la condición de la escuela de sus hijos y cómo abogar para que se arregle. 
+
+<br> 
+
+<https://laist.com/news/education/school-maintenance-repairs-los-angeles-orange-county-condado-california-reparaciones-escolares-guia-es>
+
+---
+
+## ¿Qué es el kínder transicional? ¿Qué esperar al inscribir a tu hijo?
+
+date: 2025-06-14, updated: 2025-06-14, from: The LAist
+
+California está haciendo que el kínder transicional esté disponible para todos los niños de 4 años. Entonces, ¿qué es y cómo sabes si es adecuado para tu hijo y tu familia? 
+
+<br> 
+
+<https://laist.com/news/education/what-is-transitional-kindergarten-que-es-kinder-transicional-es>
+
+---
+
+## ¿Cómo puedes descubrir qué es una gran escuela sin usar GreatSchools?
+
+date: 2025-06-14, updated: 2025-06-14, from: The LAist
+
+Los puntajes de las pruebas son solo una medida de lo que sucede dentro de una escuela. Esto es lo que debes buscar para encontrar la mejor opción para tu hijo. 
+
+<br> 
+
+<https://laist.com/news/education/alternatives-greatschools-school-rankings-los-angeles-orange-county-condado-southern-sur-california-escuela-alternativa-es>
+
+---
+
+## ¿Cómo elegir una escuela en Los Ángeles?
+
+date: 2025-06-14, updated: 2025-06-14, from: The LAist
+
+Solo en el Distrito Escolar Unificado de Los Ángeles, hay más de 400 escuelas primarias, además de cientos de programas especializados y docenas de escuelas autónomas administradas por organizaciones sin fines de lucro separadas. 
+
+<br> 
+
+<https://laist.com/news/education/los-angeles-school-choice-escuela-eliger-lausd-es>
+
+---
+
+## Thousands turn out in protest of ICE raids after week of chaos
+
+date: 2025-06-14, from: Longbeach Post
+
+<figure><img width="1024" height="663" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF-1024x663.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF-1024x663.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF-300x194.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF-768x497.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF-167x108.jpg 167w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF-400x259.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145656/14jun25-6-14-25-no-king-10860-316242-j6gwx32a-942705-ZJntIUaF.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police briefly closed portions of Ocean Boulevard — a smaller crowd walked to Downtown, then returned to Alamitos Beach — but otherwise no incidents were reported. </p>
+<p>The post <a href="https://lbpost.com/news/ice-protests">Thousands turn out in protest of ICE raids after week of chaos</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/ice-protests>
+
+---
+
+## After hours of peaceful 'No Kings' protest, police enforce overnight curfew in downtown LA
+
+date: 2025-06-14, updated: 2025-06-15, from: The LAist
+
+The organized opposition was timed for the day President Trump is hosting a rare U.S. military parade in Washington that's taking place on his 79th birthday. 
+
+<br> 
+
+<https://laist.com/news/politics/organizers-expect-thousands-of-protestors-at-no-kings-events-across-socal-today>
+
+---
+
+## FIFA Club World Cup’s opening round at the Rose Bowl is a reminder of LA's 125 year soccer history
+
+date: 2025-06-14, updated: 2025-06-14, from: The LAist
+
+From L.A.’s first 1951 soccer team, to the birthplace of U.S. youth soccer, to Chicharito’s arrival, L.A.’s soccer DNA runs deep. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/fifa-club-world-cups-opening-round-at-the-rose-bowl-is-a-reminder-of-las-125-year-soccer-history>
+
+---
+
+## Listen: What it was like on the ground at LA's ICE protests
+
+date: 2025-06-14, updated: 2025-06-14, from: The LAist
+
+What went down and where does Los Angeles go from here? 
+
+<br> 
+
+<https://laist.com/news/listen-what-it-was-like-on-the-ground-at-las-ice-protests>
+
+---
+
+## California Democrats give in to GOP criticism on immigrant aid, tighten rules for defense fund
+
+date: 2025-06-14, updated: 2025-06-14, from: The LAist
+
+California Democrats set aside millions of dollars for immigrant legal services. They’re tightening that aid in a way that would deny it to people convicted of felonies. 
+
+<br> 
+
+<https://laist.com/news/politics/california-democrats-give-in-to-gop-criticism-on-immigrant-aid-tighten-rules-for-defense-fund>
+
+---
+
+## At LA graduations, some families risk ICE detention to shower students with gifts and hugs
+
+date: 2025-06-14, updated: 2025-06-14, from: The LAist
+
+Students who started high school wearing face masks and testing for COVID-19 graduate in the midst of widespread immigration raids. 
+
+<br> 
+
+<https://laist.com/news/education/los-angeles-high-school-students-graduate-ice-immigration>
+
+---
+
+## Altadena residents can now use LA County-approved blueprints to rebuild homes
+
+date: 2025-06-14, updated: 2025-06-14, from: The LAist
+
+Two nonprofits unite to offer fire-resistant designs and help people in Altadena bypass certain permitting and building hurdles. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/altadena-residents-can-now-use-la-county-approved-blueprints-to-rebuild-homes>
 
 ---
 
@@ -297,7 +546,7 @@ SoCal workers authorized a strike but local organizers say the recent ICE sweeps
 
 ## State attorney general sues Mike Nijjar, landlord at the center of LAist investigation
 
-date: 2025-06-12, updated: 2025-06-13, from: The LAist
+date: 2025-06-12, updated: 2025-06-14, from: The LAist
 
 One of the state’s largest landlords — the man at the center of an LAist investigation — is being sued for allegedly letting his properties fall into dangerous disrepair. 
 
@@ -1657,166 +1906,4 @@ Hey, Sunshine Kitchen is offering a free pollinator plant every Monday to improv
 <br> 
 
 <https://laist.com/news/los-angeles-activities/would-you-like-a-plant-with-that-how-a-culver-city-vegan-restaurant-is-supporting-bees-and-butterflies>
-
----
-
-## As Altadena rises from the ashes, a new mural speaks to those longing for home
-
-date: 2025-06-07, updated: 2025-06-09, from: The LAist
-
-Robert Vargas, known for his large-scale murals of Shohei Ohtani and Fernando Valenzuela, wanted to celebrate the resilience of the community devastated by the Eaton Fire. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/new-robert-vargas-mural-celebrating-altadena-debuts-today>
-
----
-
-## As ICE agents enter LA communities, here's what the law says about civil rights — regardless of immigration status
-
-date: 2025-06-07, updated: 2025-06-10, from: The LAist
-
-Undocumented immigrants and mixed-status families are learning how to assert themselves — and prepare for worst-case scenarios. 
-
-<br> 
-
-<https://laist.com/news/politics/immigration-california-know-your-rights-ice-sweeps-los-angeles>
-
----
-
-## ICE raids grow tense nationwide as protesters confront immigration agents
-
-date: 2025-06-07, updated: 2025-06-07, from: The LAist
-
-Bystanders and protesters have been confronting ICE agents as the Trump administration ramps up immigration enforcement. 
-
-<br> 
-
-<https://laist.com/news/ice-raids-grow-tense-as-protesters-confront-immigration-agents>
-
----
-
-## As immigration raids expand, protesters clash with feds in Paramount; Trump to deploy National Guard
-
-date: 2025-06-07, from: Longbeach Post
-
-<figure><img width="1024" height="474" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-1024x474.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-1024x474.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-300x139.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-768x355.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-192x89.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG-400x185.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/07172634/07jun25-ice-8838-2-349228-zqjae6ey-570335-6j3mkybG.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Rep. Nanette Barragán, who represents the area in Congress, said ICE was now bringing “their terror tactics and masked agents” to Paramount.</p>
-<p>The post <a href="https://lbpost.com/news/immigration/immigration-raids-paramount-home-depot">As immigration raids expand, protesters clash with feds in Paramount; Trump to deploy National Guard</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/immigration/immigration-raids-paramount-home-depot>
-
----
-
-## LA mayor signs $13B city budget with fewer proposed layoffs, strikes deal on LAPD hirings
-
-date: 2025-06-07, updated: 2025-06-07, from: The LAist
-
-The plan includes more than 600 layoffs and cuts to city services. Bass said she's struck a deal with City Council members to restore LAPD hiring levels for next year. 
-
-<br> 
-
-<https://laist.com/news/politics/la-mayor-signs-13b-city-budget-that-includes-fewer-proposed-layoffs-strikes-deal-to-retain-lapd-hirings>
-
----
-
-## Go, Gizmo! Both Big Bear eaglets fly away from nest
-
-date: 2025-06-07, updated: 2025-06-07, from: The LAist
-
-It’s a bittersweet moment for tens of thousands of fans who’ve watched the eagles grow through the YouTube livestream. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/go-gizmo-both-big-bear-eaglets-fly-away-from-nest>
-
----
-
-## San Francisco Takes Action for World Environment Day
-
-date: 2025-06-07, from: CalVolunteers
-
- 
-
-<br> 
-
-<https://www.californiavolunteers.ca.gov/san-francisco-takes-action-for-world-environment-day/>
-
----
-
-## San Francisco toma medidas por el Día Mundial del Medio Ambiente
-
-date: 2025-06-07, from: CalVolunteers
-
- 
-
-<br> 
-
-<https://www.californiavolunteers.ca.gov/san-francisco-toma-medidas-por-el-dia-mundial-del-medio-ambiente/>
-
----
-
-## Los Angeles gets a new women's sports bar — Untamed Spirits in Silver Lake
-
-date: 2025-06-07, updated: 2025-06-07, from: The LAist
-
-Untamed Spirits in Silver Lake wants to be the go-to sports bar for local regulars and hardcore fans looking for a different vibe. It's the second women's sports bar to open in L.A. County in as many years. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/silverlake-los-angeles-womens-sports-bar-untamed-spirits>
-
----
-
-## Federal judge orders LA to verify thousands of rental subsidies for unhoused people
-
-date: 2025-06-07, updated: 2025-06-07, from: The LAist
-
-The order came at the end of a days-long hearing to determine whether the city is meeting its legal obligations to provide more shelter for unhoused Angelenos. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/federal-judge-orders-la-to-verify-thousands-of-rental-subsidies-for-unhoused-people>
-
----
-
-## Take a ride to Idyllwild, and maybe bring home a new furry friend
-
-date: 2025-06-07, updated: 2025-06-07, from: The LAist
-
-Living Free, near Idyllwild, is one of the oldest no-kill shelters in the nation. The 150-acre ranch in the San Jacinto Mountains is hosting a day of fun, music and adoptions today. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/idyllwild-adoption-no-skill-shelter>
-
----
-
-## LA County’s bookmobiles started rolling in the 1940s. Now they’re electric
-
-date: 2025-06-07, updated: 2025-06-09, from: The LAist
-
-The newest electric bookmobile is rolling through eastern L.A. County, checking out books, Wi-Fi hot spots, laptops and more. 
-
-<br> 
-
-<https://laist.com/news/education/la-county-library-bookmobile-east-azusa-east-los-angeles-la-puente-hacienda-heights-pomona-rowland-heights>
-
----
-
-## Planning Commission OKs self-storage site despite environmental objections
-
-date: 2025-06-07, from: Longbeach Post
-
-<figure><img width="1024" height="653" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-1024x653.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-1024x653.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-300x191.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-768x490.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-169x108.png 169w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-1536x979.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-2048x1306.png 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-1200x765.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-1568x1000.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-400x255.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/06170320/screenshot-2025-06-06-at-45718pm-786804-d0wm9usl-364874-5Kf3zGUQ-e1749306149887.png 1346w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Activists have long sought parkland on the parcel. The city contends this isn’t feasible.</p>
-<p>The post <a href="https://lbpost.com/news/business/development/planning-commission-oks-self-storage-site-despite-environmental-objections">Planning Commission OKs self-storage site despite environmental objections </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/business/development/planning-commission-oks-self-storage-site-despite-environmental-objections>
 

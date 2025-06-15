@@ -1,11 +1,280 @@
 ---
 title: pacific
-updated: 2025-06-14 14:08:47
+updated: 2025-06-15 06:08:39
 ---
 
 # pacific
 
-(date: 2025-06-14 14:08:47)
+(date: 2025-06-15 06:08:39)
+
+---
+
+## Steves: Aarhus is Denmark’s biggest little town
+
+date: 2025-06-15, from: Hawaii Tribune Harold
+
+
+				<p>Aarhus, Denmark&#8217;s second-largest city, calls itself the &#8220;World&#8217;s Smallest Big City.&#8221; I&#8217;d argue it&#8217;s more like the world&#8217;s biggest little town: easy to handle and easy to like.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/15/features/steves-aarhus-is-denmarks-biggest-little-town/>
+
+---
+
+## Minnesota suspect served on state board with one of the victims
+
+date: 2025-06-15, from: Hawaii Tribune Harold
+
+
+				<p>The man suspected of shooting two Democratic state lawmakers in Minnesota early Saturday had served on a state board with one of the victims, records show.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/15/nation-world-news/minnesota-suspect-served-on-state-board-with-one-of-the-victims/>
+
+---
+
+## CNMI delegate proposes long-term labor program for foreign workers
+
+date: 2025-06-15, from: Pacific Island Times
+
+By Bryan Manabat Saipan -- To ignite a conversation regarding the impending expiration of CNMI-Only transitional worker program, Del.... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/cnmi-delegate-proposes-long-term-labor-program-for-foreign-workers>
+
+---
+
+## Shrinking federal assistance leaves Guam on its own 
+
+date: 2025-06-15, from: Pacific Island Times
+
+Before the end of his tour of duty on Guam, Rear Adm. Brent DeVore stressed the need for the military to be “open and transparent” with the civilian communities about mutual challenges and to explore partnership opportunities. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/shrinking-federal-assistance-leaves-guam-on-its-own>
+
+---
+
+## Sweet serendipity: Lifelong friendships built in unexpected places
+
+date: 2025-06-14, from: Pacific Island Times
+
+Herta grew up in Romania during that time of limited freedoms, and so we had an instant connection. During our conversation, Hans asked me if I had been in Lansing, Michigan, years earlier.  It turns out that I had worked in the same office as his mother when I was fresh out of school. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/sweet-serendipity>
+
+---
+
+## CHamorus were skilled farmers
+
+date: 2025-06-14, from: Pacific Island Times
+
+Antonio Pigafetta, Magellan’s official “travel blogger,” wrote how amazed he was by Guam’s agricultural products, such as bananas, sweet potatoes, coconuts, breadfruit, yams and taro.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/chamorus-were-skilled-farmers>
+
+---
+
+## Trump has cut science funding to its lowest level in decades
+
+date: 2025-06-14, from: Hawaii Tribune Harold
+
+
+				<p>The National Science Foundation, which funds much of the fundamental scientific research at American universities, is awarding new grants at the slowest pace in at least 35 years.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/14/nation-world-news/trump-has-cut-science-funding-to-its-lowest-level-in-decades/>
+
+---
+
+## Iran retaliates and Israel vows more strikes after devastating attack
+
+date: 2025-06-14, from: Hawaii Tribune Harold
+
+
+				<p>Iran was reeling and firing missiles and drones Friday after Israel carried out its largest attack ever against Iran, waves of coordinated airstrikes that hit nuclear sites and killed much of the country&#8217;s military chain of command along with several nuclear scientists.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/14/nation-world-news/iran-retaliates-and-israel-vows-more-strikes-after-devastating-attack/>
+
+---
+
+## Army celebrates with parade as it faces an uncertain future
+
+date: 2025-06-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The last time tanks paraded through the streets of Washington, the U.S. Army was at the peak of its confidence and power.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/14/nation-world-news/army-celebrates-with-parade-as-it-faces-an-uncertain-future/>
+
+---
+
+## Hearing set for Hilo man accused of mail theft
+
+date: 2025-06-14, from: Hawaii Tribune Harold
+
+
+				<p>A judge on Thursday denied a request by a 31-year-old Hilo man facing 21 criminal charges, including mail theft and credit card fraud, to be freed from custody without posting cash bail.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/14/hawaii-news/hearing-set-for-hilo-man-accused-of-mail-theft/>
+
+---
+
+## Protests could be ‘unprecedented’ in LA, where Marines are guarding federal building
+
+date: 2025-06-14, from: Hawaii Tribune Harold
+
+
+				<p>With a surge of demonstrations against the Trump administration&#8217;s crackdown on immigration expected on Saturday, authorities in Los Angeles said they were bracing for a turnout that &#8220;may be unprecedented&#8221; in the city that has been epicenter of days of sustained protests.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/14/nation-world-news/protests-could-be-unprecedented-in-la-where-marines-are-guarding-federal-building/>
+
+---
+
+## What we know about the ‘No Kings’ protests today
+
+date: 2025-06-14, from: Hawaii Tribune Harold
+
+
+				<p>Planned protests against the Trump administration that are expected to be among the largest since the president&#8217;s second term began will be held across the country today.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/14/nation-world-news/what-we-know-about-the-no-kings-protests-today/>
+
+---
+
+## Judge blocks Trump voting order requiring proof of citizenship
+
+date: 2025-06-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A federal judge sided with a coalition of states Friday that had sued to stop stringent new voting ID requirements that President Donald Trump laid out in an executive order in March.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/14/nation-world-news/judge-blocks-trump-voting-order-requiring-proof-of-citizenship/>
+
+---
+
+## Grieving relatives of India Air crash victims wait for bodies to be identified
+
+date: 2025-06-14, from: Hawaii Tribune Harold
+
+
+				<p>AHMEDABAD, India &#8212; Families of the victims of India&#8217;s deadliest aviation disaster in decades lined up at the main hospital in the western city of Ahmedabad early Friday, ready to offer DNA samples that could identify the bodies of loved ones they had seen off a day before.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/14/nation-world-news/grieving-relatives-of-india-air-crash-victims-wait-for-bodies-to-be-identified/>
+
+---
+
+## Study shows mercury levels in Arctic wildlife could rise for centuries
+
+date: 2025-06-14, from: Hawaii Tribune Harold
+
+
+				<p>Levels of mercury in Arctic wildlife could continue to rise significantly even as countries curb their emissions, a new study suggests.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/14/nation-world-news/study-shows-mercury-levels-in-arctic-wildlife-could-rise-for-centuries/>
+
+---
+
+## Trump leaves European leaders praying for a low-drama summit
+
+date: 2025-06-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The last time European leaders came together for a diplomatic gathering in Canada, it didn&#8217;t go so well.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/14/nation-world-news/trump-leaves-european-leaders-praying-for-a-low-drama-summit/>
+
+---
+
+## Tropical Gardening: Father’s Day origin is not that old
+
+date: 2025-06-14, from: Hawaii Tribune Harold
+
+
+				<p>This weekend we celebrate Father&#8217;s Day, but this is a relatively new holiday when compared to Mother&#8217;s Day.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/14/features/tropical-gardening-fathers-day-origin-is-not-that-old-2/>
+
+---
+
+## Sustainability success: High school students earn college credit from Kapiʻolani CC
+
+date: 2025-06-14, from: University of Hawaiʻi News
+
+<p><span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr> program empowers high school students with hands-on experience in sustainability and conservation.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/13/radford-sustainability-college-credit-kapiolani-cc/">Sustainability success: High school students earn college credit from Kapiʻolani <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/13/radford-sustainability-college-credit-kapiolani-cc/>
+
+---
+
+## Rainbow Wahine basketball retro uniform up for national award
+
+date: 2025-06-14, from: University of Hawaiʻi News
+
+<p>Vote for Wahine basketball jersey for uniform of the year.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/13/wbkball-uniform-national-award/">Rainbow Wahine basketball retro uniform up for national award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/13/wbkball-uniform-national-award/>
+
+---
+
+## UH Hilo soccer player receives NCAA Degree Completion Award
+
+date: 2025-06-14, from: University of Hawaiʻi News
+
+<p>Teani Arakawa will receive financial assistance to complete her degree.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/13/arakawa-ncaa-degree-completion-award/"><abbr>UH</abbr> Hilo soccer player receives <abbr>NCAA</abbr> Degree Completion Award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/13/arakawa-ncaa-degree-completion-award/>
 
 ---
 
@@ -3401,196 +3670,4 @@ LOS ANGELES (Reuters) — President Donald Trump's administration said it would 
 <br> 
 
 <https://www.mvariety.com/news/national/trump-deploys-national-guard-as-los-angeles-protests-against-immigration-agents-continue/article_cb48d8b2-1af9-4109-9014-254b3f8b369e.html>
-
----
-
-## Hawaii’s math teaching deemed ‘unacceptable’
-
-date: 2025-06-07, from: Hawaii Tribune Harold
-
-
-				<p>A nonpartisan national council that analyzed the quality of the nation&#8217;s math teaching found Hawaii to be one of seven states with an &#8220;unacceptable&#8221; rating for math education.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/07/hawaii-news/hawaiis-math-teaching-deemed-unacceptable/>
-
----
-
-## More federal workers are flooding the job market, with worsening prospects
-
-date: 2025-06-07, from: Hawaii Tribune Harold
-
-
-				<p>After Matt Minich was fired from his job with the Food and Drug Administration in February, he did what many scientists have done for years after leaving public service. He looked for a position with a university.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/more-federal-workers-are-flooding-the-job-market-with-worsening-prospects/>
-
----
-
-## Trump’s relationship with Musk remains icy as public spat goes private
-
-date: 2025-06-07, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; President Donald Trump is blaming Elon Musk&#8217;s behavior on drug use, as the acrimonious blowup of their partnership left both men &#8212; who lobbed online insults and threats at each other Thursday &#8212; with a lot at risk.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/trumps-relationship-with-musk-remains-icy-as-public-spat-goes-private/>
-
----
-
-## Justices grant DOGE access to Social Security data and let the team shield records
-
-date: 2025-06-07, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The Supreme Court on Friday let members of the Department of Government Efficiency, formed by Elon Musk, have access to sensitive records of many millions of Americans held by the Social Security Administration.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/justices-grant-doge-access-to-social-security-data-and-let-the-team-shield-records/>
-
----
-
-## Tropical Gardening: Time to start a perfect vegetable garden
-
-date: 2025-06-07, from: Hawaii Tribune Harold
-
-
-				<p>Inflation and increasing food costs can be a problems but also an opportunity to be creative in your garden. One project to reduce food bills and have some family fun as is to grow your own vegetables. Yards and lanais are prime opportunity to help cut food expenses. You can do it by planting vegetables along with your ornamentals.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/07/features/tropical-gardening-time-to-start-a-perfect-vegetable-garden/>
-
----
-
-## Proud Boys convicted in Jan. 6 attack sue government on claims of ‘political persecution’
-
-date: 2025-06-07, from: Hawaii Tribune Harold
-
-
-				<p>Five members of the Proud Boys who were convicted of seditious conspiracy and other charges in connection with the violent assault on the Capitol on Jan. 6, 2021, sued the government for $100 million Friday, claiming that federal officials had subjected them to &#8220;political persecution&#8221; as &#8220;allies of President Trump.&#8221;</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/proud-boys-convicted-in-jan-6-attack-sue-government-on-claims-of-political-persecution/>
-
----
-
-## Law would make most National Weather Service workers hard to fire
-
-date: 2025-06-07, from: Hawaii Tribune Harold
-
-
-				<p>A bill introduced in the House of Representatives on Friday would make it harder to fire most employees of the National Weather Service and give the agency&#8217;s director the authority to hire new staff directly, months after it lost nearly 600 employees to layoffs and retirements as part of the Trump administration&#8217;s sweeping cuts to the federal workforce.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/law-would-make-most-national-weather-service-workers-hard-to-fire/>
-
----
-
-## Tornadoes are reported across the Plains amid widespread severe weather threat
-
-date: 2025-06-07, from: Hawaii Tribune Harold
-
-
-				<p>At least two tornadoes spun through eastern Oklahoma and western Arkansas on Friday, part of a system of severe weather that threatened to bring large hail, damaging winds and flash flooding from the southern Plains to the Southeast through the weekend.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/tornadoes-are-reported-across-the-plains-amid-widespread-severe-weather-threat/>
-
----
-
-## How the Trump administration banished eight men to legal limbo in Africa
-
-date: 2025-06-07, from: Hawaii Tribune Harold
-
-
-				<p>Somewhere inside Camp Lemonnier, a U.S. military base in the East African nation of Djibouti, eight men, all convicted of serious crimes in the United States, are under the guard of officers from the Department of Homeland Security.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/how-the-trump-administration-banished-eight-men-to-legal-limbo-in-africa/>
-
----
-
-## Russia pummels Kyiv in apparent retaliation for drone assault
-
-date: 2025-06-07, from: Hawaii Tribune Harold
-
-
-				<p>KYIV, Ukraine &#8212; Russia on Friday launched one of the largest barrages of missiles and drones of the war at targets across Ukraine, killing at least four people and damaging buildings nationwide, in what Moscow suggested was retaliation for Ukraine&#8217;s recent audacious assault on Russian strategic bomber bases.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/russia-pummels-kyiv-in-apparent-retaliation-for-drone-assault/>
-
----
-
-## Agents use military-style force against protesters at LA immigration raid
-
-date: 2025-06-07, from: Hawaii Tribune Harold
-
-
-				<p>LOS ANGELES &#8212; Federal agents in tactical gear armed with military-style rifles threw flash-bang grenades to disperse an angry crowd near downtown Los Angeles on Friday as they conducted an immigration raid on a clothing wholesaler, the latest sign of tensions between protesters and law enforcement over raids carried out at stores, restaurants and court buildings.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/07/nation-world-news/agents-use-military-style-force-against-protesters-at-la-immigration-raid/>
-
----
-
-## UH students tackle real-world challenges with local family businesses
-
-date: 2025-06-07, from: University of Hawaiʻi News
-
-<p><abbr>UH</abbr> students are helping <span aria-label="Hawaii">Hawai&#699;i</span> family businesses grow with fresh ideas, tech solutions and teamwork.</p>
-The post <a href="https://www.hawaii.edu/news/2025/06/06/real-world-challenges-with-local-businesses/"><abbr>UH</abbr> students tackle real-world challenges with local family businesses</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/06/06/real-world-challenges-with-local-businesses/>
-
----
-
-## From bros to foes: How the unlikely Trump-Musk relationship imploded
-
-date: 2025-06-07, updated: 2025-06-08, from: Marianas Variety
-
-WASHINGTON (Reuters) — When Donald Trump met privately with White House officials on Wednesday, there was little to suggest that the U.S. president was close to a public break with Elon Musk, the billionaire businessman who helped him win a second term in office. 
-
-<br> 
-
-<https://www.mvariety.com/news/national/from-bros-to-foes-how-the-unlikely-trump-musk-relationship-imploded/article_a078ec76-9f7e-4cdc-8ccc-fa7814088c02.html>
-
----
-
-## Local leaders offer perspectives on Matt Elliott’s appointment as UH Mānoa AD
-
-date: 2025-06-07, from: University of Hawaiʻi News
-
-<p>Leaders say Matt Elliott brings rare leadership skills and deep ties to <span aria-label="Hawaii">Hawai&#699;i</span> as he prepares to lead <abbr>UH</abbr> Mānoa Athletics.</p>
-The post <a href="https://www.hawaii.edu/news/2025/06/06/leaders-offer-perspectives-new-ad/">Local leaders offer perspectives on Matt Elliott’s appointment as <abbr>UH</abbr> Mānoa <abbr>AD</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/06/06/leaders-offer-perspectives-new-ad/>
 

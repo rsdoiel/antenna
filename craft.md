@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-06-14 14:08:56
+updated: 2025-06-15 06:08:46
 ---
 
 # craft
 
-(date: 2025-06-14 14:08:56)
+(date: 2025-06-15 06:08:46)
+
+---
+
+## LAP Open Wire: June 14, 2025
+
+date: 2025-06-14, from: Lost Arg Press blog
+
+Update: Comments are now closed. Thanks for entertaining us on our drive! Got a woodworking question? Then today is you&#8217;re lucky day: It&#8217;s time for Open Wire! You have until 5 p.m. Eastern to pose your question in the comments section below, and we’ll respond – hopefully with a informed and useful answer…but no promises.... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/06/14/lap-open-wire-june-14-2025/>
 
 ---
 

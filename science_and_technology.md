@@ -1,11 +1,59 @@
 ---
 title: science and technology
-updated: 2025-06-14 14:08:49
+updated: 2025-06-15 06:08:40
 ---
 
 # science and technology
 
-(date: 2025-06-14 14:08:49)
+(date: 2025-06-15 06:08:40)
+
+---
+
+## The launch of ChatGPT polluted the world forever, like the first atomic weapons tests
+
+date: 2025-06-15, updated: 2025-06-15, from: The Register (UK I.T. News)
+
+<h4>Academics mull the need for the digital equivalent of low-background steel</h4> <p><strong>Feature</strong>  For artificial intelligence researchers, the launch of OpenAI&#39;s ChatGPT on November 30, 2022, changed the world in a way similar to the detonation of the first atomic bomb.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/15/ai_model_collapse_pollution/>
+
+---
+
+## Windows 95 testing almost stalled due to cash register overflow
+
+date: 2025-06-15, updated: 2025-06-15, from: The Register (UK I.T. News)
+
+<h4>Microsoft veteran on breaking down numbers at the computer store</h4> <p>Windows 95 will soon turn 30. Microsoft veteran Raymond Chen recalled that when testing Microsoft&#39;s reimagining of Windows, an overflow was discovered that had nothing to do with the operating system itself.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/15/windows_95_testing_almost_stalled/>
+
+---
+
+## Researchers claim spoof-proof random number generator breakthrough
+
+date: 2025-06-14, updated: 2025-06-14, from: The Register (UK I.T. News)
+
+<h4>Combining quantum entanglement with hash chains promises randomness which can be relied on</h4> <p>Scientists in the US have built a system for creating truly random numbers which cannot be tampered with by a third party.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/14/researchers_claim_spoofproof_random_number/>
+
+---
+
+## As RHEL clones hit version 10, Rocky and Alma chart diverging paths
+
+date: 2025-06-14, updated: 2025-06-14, from: The Register (UK I.T. News)
+
+<h4>We take a quick look at the headline features – and the growing differences</h4> <p>Rocky Linux 10 has caught up to the other high-profile RHELatives, but gaps between them are widening, both in tech and other ways.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/14/rocky_alma_and_rhel_10/>
 
 ---
 
@@ -2058,28 +2106,4 @@ date: 2025-06-08, updated: 2025-06-08, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/>
-
----
-
-## £127M wasted on failed UK nuclear cleanup plan
-
-date: 2025-06-07, updated: 2025-06-07, from: The Register (UK I.T. News)
-
-<h4>Don&#39;t worry, only 100 more years of Sellafield nuclear site cleansing to go</h4> <p>The center for the UK&#39;s nuclear industry wasted £127 million ($172 million) during delays and replanning as it scrambled to find alternatives for facilities which treat and repackage plutonium, a Parliamentary report found.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/06/07/mps_find_127_million_wasted_sellafield/>
-
----
-
-## Trump lifts US supersonic flight ban, says he's 'Making Aviation Great Again'
-
-date: 2025-06-07, updated: 2025-06-07, from: The Register (UK I.T. News)
-
-<h4>It&#39;s boom time for the next generation of fast travel</h4> <p>On Friday, President Trump signed an executive order telling the FAA to lift its 52-year ban on supersonic flight over the US and told the FAA to devise a scheme to limit noise pollution from such aircraft.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/06/07/trump_supersonic_flight/>
 
