@@ -1,11 +1,130 @@
 ---
 title: home
-updated: 2025-06-16 06:08:28
+updated: 2025-06-16 14:07:08
 ---
 
 # home
 
-(date: 2025-06-16 06:08:28)
+(date: 2025-06-16 14:07:08)
+
+---
+
+## The Creepy Ways Your Home Insurance Company Could Be Spying on You
+
+date: 2025-06-16, from: Family Handyman Blog
+
+<p>Consumer advocates, insurance experts, and lawyers provide insights into coverage renewal assessments, which can include aerial imaging and repercussions.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/home-insurance-company-spying/">The Creepy Ways Your Home Insurance Company Could Be Spying on You</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/home-insurance-company-spying/>
+
+---
+
+## How to Dispose of Old Gasoline the Legal (and Safe) Way
+
+date: 2025-06-16, from: Family Handyman Blog
+
+<p>Don't blow up the house or poison the water. Gasoline is both toxic and dangerous, so it's imperative to dispose of it safely. Here's how.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-dispose-of-gas/">How to Dispose of Old Gasoline the Legal (and Safe) Way</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-dispose-of-gas/>
+
+---
+
+## 5 Spray Can Tips for Perfect Spray Paint
+
+date: 2025-06-16, from: Family Handyman Blog
+
+<p>Looking to take on a quick painting project? We've rounded up several spray can tips so that you can get the perfect paint job every time. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/5-spray-can-tips-for-perfect-spray-paint/">5 Spray Can Tips for Perfect Spray Paint</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/5-spray-can-tips-for-perfect-spray-paint/>
+
+---
+
+## CDFA marches with Pride in Sacramento
+
+date: 2025-06-16, from: Calfifornia Dept. Aggriculture blog
+
+On Sunday, June 15, 2025, CDFA employees proudly participated in the annual Sacramento Pride March. The event, which brought together thousands of participants and supporters, celebrated LGBTQ+ pride, resilience, and community. CDFA was honored to walk in solidarity, showing its &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29046">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29046>
+
+---
+
+## How to Grow and Care for Tea Plants (Camellia Sinensis)
+
+date: 2025-06-16, from: The Gardener's Path
+
+<p>Camellia sinensis is an evergreen shrub with glossy green leaves and white flowers that bloom in spring. Best known for being the plant grown commercially for producing tea, it thrives in mild climates and can grow as a compact hedge or small tree. Learn how to grow and care for tea plants in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-tea-camellia/">How to Grow and Care for Tea Plants (Camellia Sinensis)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-tea-camellia/>
+
+---
+
+## No Metal or Glue Here: This Cabin in Bavaria Came Together With Interlocking Wood Pieces
+
+date: 2025-06-16, from: Dwell
+
+The (almost) entirely ash structure uses a grid system-of-parts that can be taken apart and reassembled. 
+
+<br> 
+
+<https://www.dwell.com/article/house-in-anton-ii-luxe-architect-cabin-f3673d40>
+
+---
+
+## She Built a Surprising Home in the Shell of an Old Belgian Barn
+
+date: 2025-06-16, from: Dwell
+
+OYO Architects carved a massive slice out of the roof to bring in light, views, and greenery, while landscape designer Denis Dujardin added an unusual garden with a rainwater recycling pond. 
+
+<br> 
+
+<https://www.dwell.com/article/lyco-house-barn-renovation-oyo-architects-belgium-b1dfd5ad>
+
+---
+
+## This $1.3M Portland Chalet Cantilevers Over a Wooded Hillside
+
+date: 2025-06-16, from: Dwell
+
+Designed by Joachim Grube for his son, the cabin has custom casework, floor-to-ceiling windows, and an original mural by local artist Tom Cramer. 
+
+<br> 
+
+<https://www.dwell.com/article/german-style-chalet-joachim-grube-portland-oregon-real-estate-882d750f>
+
+---
+
+## 30 Brown Birds in Pennsylvania (With Pictures and Identification)
+
+date: 2025-06-16, from: Yard Life blog
+
+<p>Pennsylvania is home to many fascinating brown birds that blend naturally into their surroundings. These birds vary in size and ... </p>
+<p class="read-more-container"><a title="30 Brown Birds in Pennsylvania (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/30-brown-birds-in-pennsylvania-with-pictures-and-identification/#more-30256" aria-label="Read more about 30 Brown Birds in Pennsylvania (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/30-brown-birds-in-pennsylvania-with-pictures-and-identification/">30 Brown Birds in Pennsylvania (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/30-brown-birds-in-pennsylvania-with-pictures-and-identification/>
 
 ---
 

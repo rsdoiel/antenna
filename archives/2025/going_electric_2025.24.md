@@ -1,11 +1,187 @@
 ---
 title: going electric
-updated: 2025-06-16 06:08:30
+updated: 2025-06-16 14:07:10
 ---
 
 # going electric
 
-(date: 2025-06-16 06:08:30)
+(date: 2025-06-16 14:07:10)
+
+---
+
+## Here's One Reason To Buy A Lucid Air Over A Tesla Or Rivian
+
+date: 2025-06-16, from: Inside EVs News
+
+Lucid Air sedans now have both Apple CarPlay and Android Auto capability—unlike rival EVs from Tesla, Rivian and General Motors.  
+
+<br> 
+
+<https://insideevs.com/news/762899/lucid-air-android-auto-carplay/>
+
+---
+
+## The $250 EV Tax Has No Legal Precedent In Over 200 Years
+
+date: 2025-06-16, from: Inside EVs News
+
+Republicans want to treat EVs like luxury carriages with an EV fee that would take America back by 235 years. 
+
+<br> 
+
+<https://insideevs.com/news/762894/ev-fee-has-no-legal-precedent/>
+
+---
+
+## This electric pickup is taking Korea by storm, now it’s going global on a ‘full-scale conquest’
+
+date: 2025-06-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/EV-pickup-Korea-global-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s not a <a href="https://electrek.co/guides/kia/">Kia </a>or Hyundai, but the Musso EV pickup truck is shaking up the Korean Market. After the first models left for Europe, the company’s CEO is already saying it will be a “driving force” as it goes on a global conquest.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-pickup-trucks" data-layer-viewtype="unknown" data-post-id="420566" href="https://electrek.co/2025/06/16/ev-pickup-taking-korea-by-storm-now-its-going-global/#more-420566" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/16/ev-pickup-taking-korea-by-storm-now-its-going-global/>
+
+---
+
+## Republic Airways to evaluate an electric aircraft from BETA Technologies for regional flights
+
+date: 2025-06-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Republic-Airways-BETA-NYC.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>More news out of day one of the Paris Auto Show, as aerospace manufacturer <a href="https://electrek.co/guides/beta-technologies/">BETA Technologies </a>announced the signing of a Memorandum of Understanding with Republic Airways Holdings in which the latter will evaluate the potential of BETA’s all-electric ALIA CTOL aircraft for regional passenger and cargo flights.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="air-taxi,beta-technologies,evtol,republic-airways" data-layer-viewtype="unknown" data-post-id="420573" href="https://electrek.co/2025/06/16/republic-airways-evaluate-electric-aircraft-beta-technologies-regional-flights/#more-420573" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/16/republic-airways-evaluate-electric-aircraft-beta-technologies-regional-flights/>
+
+---
+
+## EcoFlow DELTA 2 Max bundle with 500W panel $1,405, Bluetti AC180P station at new exclusive $461 low, Aiper, EGO, Greenworks, more
+
+date: 2025-06-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/DELTA-2-Max-Solar-Generator-father-and-son-e1750094652706.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>We’re kicking off this week’s Green Deals with a mix of new all-time and 2025 low prices, led by the <a href="https://9to5toys.com/2025/06/16/ecoflow-extends-sale-delta-2-max-bundle-1405/">extended EcoFlow Father’s Day Sale</a> that has added new member-only deals, like the first-time offer of the <a href="https://9to5toys.com/2025/06/16/ecoflow-extends-sale-delta-2-max-bundle-1405/">DELTA 2 Max Solar Generator bundle</a> with a 500W bifacial modular panel at <a href="https://9to5toys.com/2025/06/16/ecoflow-extends-sale-delta-2-max-bundle-1405/">$1,405</a>, among others. We also secured a new and exclusive low price on the <a href="https://9to5toys.com/2025/06/16/bluetti-ac180p-exclusive-new-461-low/">Bluetti AC180P Portable Power Station for $461</a>, while also noticing <a href="https://9to5toys.com/2025/06/16/aiper-surfer-s2-robot-new-306-low/">Aiper’s Surfer S2 Solar Robotic Pool Skimmer</a> hitting a new <a href="https://9to5toys.com/2025/06/16/aiper-surfer-s2-robot-new-306-low/">$306 low</a>. From there, we have two tool discounts, with the first being on <a href="https://9to5toys.com/2025/06/16/ego-56v-14-inch-chainsaw-189/">EGO’s 56V 14-inch Cordless Electric Chainsaw for $189</a>, and the second being on <a href="https://9to5toys.com/2025/06/16/greenworks-40v-10-inch-tiller-cultivator-206/">Greenworks’ 40V 10-inch Cordless Tiller/Cultivator for $206</a>. Plus, there’s all the rest of the hangover Green Deals from last week in the links at the bottom of the page, collected together in our <a href="https://9to5toys.com/2025/06/14/electrified-weekly-fathers-day-sales-on-lectric-and-rad-power-e-bikes-and-power-stations-from-anker-ecoflow-jackery-more/">Electrified Weekly roundup</a>.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="420565" href="https://electrek.co/2025/06/16/ecoflow-delta-2-max-bundle-1405-bluetti-exclusive-aiper-ego-greenworks-more/#more-420565" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/16/ecoflow-delta-2-max-bundle-1405-bluetti-exclusive-aiper-ego-greenworks-more/>
+
+---
+
+## Wisk Aero signs agreements to establish autonomous air taxi operations in Miami and Japan
+
+date: 2025-06-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Autonomous-air-taxi-Wisk-Miami.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Advanced air mobility developer <a href="https://electrek.co/guides/wisk-aero/">Wisk Aero</a> wasted no time during the first day of the Paris Air Show, announcing two separate deals to establish autonomous air taxi operations in two different regions. Those agreements include Memoranda of Understanding with partners in Miami in the US, and the City of Kaga, Ishikawa, in Japan.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="air-taxi,autonomous,japan,miami,wisk-aero" data-layer-viewtype="unknown" data-post-id="420551" href="https://electrek.co/2025/06/16/wisk-aero-signs-agreements-autonomous-air-taxi-operations-miami-japan/#more-420551" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/16/wisk-aero-signs-agreements-autonomous-air-taxi-operations-miami-japan/>
+
+---
+
+## Nissan’s new EV looks like a hit in China, with nearly 400 miles of range and a $17,000 price tag
+
+date: 2025-06-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Nissans-new-EV-price-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s not the next-gen LEAF, but the N7 was one of the best-selling foreign EVs in China last month. With a starting price of just $17,000, would you consider buying Nissan’s new electric vehicle? You may have the opportunity soon, as <a href="https://electrek.co/guides/nissan/">Nissan</a> plans to launch it globally.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan" data-layer-viewtype="unknown" data-post-id="420530" href="https://electrek.co/2025/06/16/nissans-new-ev-looks-like-hit-in-china-with-17000-price-tag/#more-420530" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/16/nissans-new-ev-looks-like-hit-in-china-with-17000-price-tag/>
+
+---
+
+## Ferdinand Porsche Created A ‘Range Extender’ EV 125 Years Ago
+
+date: 2025-06-16, from: Inside EVs News
+
+Porsche’s first car was electric. And it had a range extender, too.  
+
+<br> 
+
+<https://insideevs.com/news/762806/porsche-electric-range-extender-vintage/>
+
+---
+
+## I’ve been using the pickup truck of electric bikes and it’s pretty amazing
+
+date: 2025-06-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/conductor-plus-oh-wow-cycles-trike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>You can call it a cargo bike. You can call it a passenger trike. You can call it a rickshaw. You can call it a lot of things. But after spending the last few weeks with the <a href="https://ohwowcycles.com/products/conductor-plus-rickshaw">Oh Wow Cycles Conductor Plus</a>, I think the most accurate description is this: it’s the pickup truck of electric bikes.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,electric-three-wheeler,review" data-layer-viewtype="unknown" data-post-id="420402" href="https://electrek.co/2025/06/16/ive-been-using-the-pickup-truck-of-electric-bikes-and-its-pretty-amazing/#more-420402" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/16/ive-been-using-the-pickup-truck-of-electric-bikes-and-its-pretty-amazing/>
+
+---
+
+## California vs. Trump: The High-Stakes Fight Over Your Next Car
+
+date: 2025-06-16, from: Inside EVs News
+
+California and other states are fighting to save a 2035 ban on the sale of new gas cars. Plus: Vinfast says it's in it for the long haul. 
+
+<br> 
+
+<https://insideevs.com/news/762870/california-trump-ev-mandate-cm/>
+
+---
+
+## The new Hyundai IONIQ 6 has some seriously impressive range, more than the Kia EV4
+
+date: 2025-06-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Hyundais-new-IONIQ-6.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s electric fastback is due for some major upgrades that could finally make it the Tesla Model 3 challenger it was designed to be. The new <a href="https://electrek.co/guides/hyundai-ioniq-6/">Hyundai IONIQ 6</a> is better than ever, featuring a stylish new look both inside and out, an NACS port for charging at Tesla Superchargers, and even more driving range than expected.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-6,kia-ev4" data-layer-viewtype="unknown" data-post-id="420501" href="https://electrek.co/2025/06/16/new-hyundai-ioniq-6-has-even-more-range-than-kia-ev4/#more-420501" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/16/new-hyundai-ioniq-6-has-even-more-range-than-kia-ev4/>
+
+---
+
+## '100% Rivian But New And Fresh': How Rivian Designed The R2 To Be Cheaper And Better
+
+date: 2025-06-16, from: Inside EVs News
+
+Rivian's R2 will be a groundbreaking next-generation EV, and priced around $45,000. Here's how the company aims to pull that off. 
+
+<br> 
+
+<https://insideevs.com/news/762793/rivian-r2-design-engineering-video/>
 
 ---
 

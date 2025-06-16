@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-06-16 06:08:26
+updated: 2025-06-16 14:07:07
 ---
 
 # games
 
-(date: 2025-06-16 06:08:26)
+(date: 2025-06-16 14:07:07)
+
+---
+
+## Prince of Persia: Sands of Time remake still theoretically on track for 2026, Ubisoft tells skeptics
+
+date: 2025-06-16, updated: 2025-06-16, from: Polygon Website
+
+The Prince of Persia: The Sands of Time remake is still in the works, according to a recent post from the official Prince of Persia X account. “Yep, we’re still deep in the game — exploring, building, and ensuring the sands move with purpose,” the post reads. “This game is being crafted by a team [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/607232/prince-of-persia-sands-of-time-remake-update-ubisoft>
+
+---
+
+## Netflix’s new reality show is Pokémon Snap with sharks
+
+date: 2025-06-16, updated: 2025-06-16, from: Polygon Website
+
+There are only so many ways to capture the majesty of sharks in reality television programming. In a genre all-but dominated by Discovery Channel’s Shark Week and National Geographic’s SharkFest, how can a contender like Netflix make a splash in the shark space? How about steal the hook of the Pokémon Snap games, but replace [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/607170/netflix-all-the-sharks-pokemon-snap-inspired>
+
+---
+
+## What time does Genshin Impact 5.7 release?
+
+date: 2025-06-16, updated: 2025-06-16, from: Polygon Website
+
+Genshin Impact’s 5.7 patch (aka the Skirk patch) is coming soon, with some new heavy Danslief story coming with it. If you’re one of the people who immediately went feral for Skirk when she appeared in Fontaine, this is the patch for you. Below, we explain when Genshin Impact maintenance starts and ends, alongside the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/genshin-impact-guides/607168/version-5-7-release-times-maintenance>
+
+---
+
+## The Bell Bearing Hunter boss fight is terrorizing Elden Ring Nightreign players
+
+date: 2025-06-16, updated: 2025-06-16, from: Polygon Website
+
+Everyone’s on edge the moment that long HP bar appears and Elden Ring Nightreign’s choir rises into a crescendo. Even with a group of three people, boss fights are meant to be challenging in a Souls game. Yet few enemy encounters fill the community with as much dread as the Bell Bearing Hunter. It’s gotten [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/607176/elden-ring-nightreign-bell-bearing-hunter-how-to-beat-weaknesses-build-strategy>
+
+---
+
+## Star Trek: Strange New Worlds season 3 hits the mark by putting characters before plot
+
+date: 2025-06-16, updated: 2025-06-16, from: Polygon Website
+
+From the beginning of its 2022 launch, Star Trek: Strange New Worlds offered a different approach compared to previous entries in the franchise. Tapping into nostalgia with a prequel to the original ’60s Star Trek, Goldsman and his co-showrunner, Henry Alonso Myers, provided fresh spins on the original show’s most famous characters and minor players [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-trek/607055/strange-new-worlds-season-3-review>
+
+---
+
+## Top D&#038;D designers join Critical Role after quitting Wizards of the Coast
+
+date: 2025-06-16, updated: 2025-06-16, from: Polygon Website
+
+Christopher Perkins and Jeremy Crawford, previously the creative director and the game director respectively for Dungeons &#38; Dragons, have joined forces with Critical Role, the company announced Monday. Perkins and Crawford are joining Critical Role’s tabletop games-publishing arm Darrington Press to develop new game concepts, innovative mechanics, and future iterations of expansions across the publisher’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dnd-dungeons-dragons/607177/critical-role-darrington-press-chris-perkins-jeremy-crawford-dnd-wizards>
+
+---
+
+## Where is Tophat Gudetama this week in Hello Kitty Island Adventure?
+
+date: 2025-06-16, updated: 2025-06-16, from: Polygon Website
+
+Tophat Gudetama hides in a different spot in Hello Kitty Island Adventure every week, with new weeks beginning on Monday. Pochacco will task you with finding this dapper Gudetama specifically as part of a quest per week for the first two weeks (“The Laziest Egg” and “The Laziest Eggs”), though after you finish these, there [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find>
+
+---
+
+## Borderlands 4 won’t be $80 after all
+
+date: 2025-06-16, updated: 2025-06-16, from: Polygon Website
+
+Borderlands 4 is now up for pre-order, and the price is $69.99, not the once-declared $79.99. Publisher 2K Games revealed the news on Monday, finally putting to rest the tired conversation surrounding Borderlands 4&#8216;s potential retail price. In a press release, 2K disclosed what players will receive as a pre-order bonus of the game&#8217;s standard [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/607109/borderlands-4-price-70-pitchford-2k-games>
+
+---
+
+## The Witcher 4 is being developed with a ‘console-first’ mindset, CDPR devs say
+
+date: 2025-06-16, updated: 2025-06-16, from: Polygon Website
+
+CD Projekt RED is taking a &#8220;console-first&#8221; approach to The Witcher 4&#8216;s development in the hopes of avoiding another buggy, Cyberpunk-esque launch disaster, according to a recent interview with Digital Foundry.&#160; In a tech demo shown earlier this month at the State of Unreal showcase, the studio showed off the game, playing the demo on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/the-witcher/607130/the-witcher-4-console-first-mindset-developed-cdpr>
+
+---
+
+## Nexus Mods is being sold after 24 years by burned-out owner
+
+date: 2025-06-16, updated: 2025-06-16, from: Polygon Website
+
+If you’re a PC gamer who has ever altered a single-player game, you’ve probably ventured into Nexus Mods, the largest repository of user-made mods on the internet. Even if you haven’t, the website’s impact on the industry is undeniable: Enormous games and franchises, from Skyrim to The Witcher, have tapped users for their own modding [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/607104/nexusmods-sold-darkone-robin-scott-pc-gaming-mod>
 
 ---
 

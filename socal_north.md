@@ -1,11 +1,100 @@
 ---
 title: socal north
-updated: 2025-06-16 06:08:21
+updated: 2025-06-16 14:07:03
 ---
 
 # socal north
 
-(date: 2025-06-16 06:08:21)
+(date: 2025-06-16 14:07:03)
+
+---
+
+## LAUSD agrees to fund $900 million to settle sexual assault lawsuits
+
+date: 2025-06-16, updated: 2025-06-16, from: The LAist
+
+The district will take a loan out to cover incidents, some decades old. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-agrees-to-fund-900-million-to-settle-sexual-assault-lawsuits>
+
+---
+
+## Homelessness is top of mind for many Californians. Why does the proposed budget eliminate funding for it?
+
+date: 2025-06-16, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>California’s main source of homelessness funding would drop from $1 billion last year to $0 this year in the proposed state budget.</p>
+<p>The post <a href="https://lbpost.com/news/homelessness-funding-state-california-budget">Homelessness is top of mind for many Californians. Why does the proposed budget eliminate funding for it?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/homelessness-funding-state-california-budget>
+
+---
+
+## Santa Clarita Voices Episode Six Available Now
+
+date: 2025-06-16, from: City of Santa Clarita
+
+<p>Video-Rich Podcast Episode Features Helicopter Water Drops and Offers Critical Wildfire Preparedness Tips for Santa Clarita Residents The City of Santa Clarita is excited to announce the release of the sixth episode of Santa Clarita Voices, the City’s official podcast, that highlights the stories, experiences and conversations from City leaders and unique members of our [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/16/santa-clarita-voices-episode-six-available-now/">Santa Clarita Voices Episode Six Available Now</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/16/santa-clarita-voices-episode-six-available-now/>
+
+---
+
+## Financial aid fraud is on the rise in California. How federal officials plan to crack down
+
+date: 2025-06-16, updated: 2025-06-16, from: The LAist
+
+Education officials will begin more rigorous screening of financial aid applicants, citing instances of fraud at California’s community colleges. 
+
+<br> 
+
+<https://laist.com/news/education/financial-aid-fraud-is-on-the-rise-in-california-how-federal-officials-plan-to-crack-down>
+
+---
+
+## After early reprieve from immigration enforcement, farming industry reckons with raids
+
+date: 2025-06-16, updated: 2025-06-16, from: The LAist
+
+The Trump administration's immigration enforcement mostly left farms and meat packing plants alone, until coordinated raids last week. Now, President Donald Trump is signaling continued support for farmers. 
+
+<br> 
+
+<https://laist.com/news/after-early-reprieve-immigration-enforcement-farming-industry-reckons-with-raids>
+
+---
+
+## Press group sues LA, alleging police abuse of reporters at ICE rallies
+
+date: 2025-06-16, updated: 2025-06-16, from: The LAist
+
+The Los Angeles Press Club says police officers repeatedly used "less-lethal" bullets and violated the constitutional rights of reporters covering anti-ICE protests. 
+
+<br> 
+
+<https://laist.com/news/journalists-sue-los-angeles-rubber-bullets-covering-la-immigration-protests>
+
+---
+
+## Funding restored for Hollyhock House, Frank Lloyd Wright's LA landmark
+
+date: 2025-06-16, updated: 2025-06-16, from: The LAist
+
+City funding has been restored for Hollyhock House, a home designed by famed architect Frank Lloyd Wright, which means the home will retain its staff and stay open to the public. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/hollyhock-house-funding-restored-los-angeles-budget-frank-lloyd-wright>
 
 ---
 
@@ -45,18 +134,6 @@ California could lose billions in highway dollars for failing to meet federal ai
 
 ---
 
-## Funding restored for Hollyhock House, Frank Lloyd Wright's LA landmark
-
-date: 2025-06-16, updated: 2025-06-16, from: The LAist
-
-City funding has been restored for Hollyhock House, a home designed by famed architect Frank Lloyd Wright, which means the home will retain it's staff and stay open to the public. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/hollyhock-house-funding-restored-los-angeles-budget-frank-lloyd-wright>
-
----
-
 ## Angel City women’s soccer team launch ‘Immigrant City Football Club’ T-shirts
 
 date: 2025-06-15, updated: 2025-06-15, from: The LAist
@@ -93,13 +170,13 @@ Sunday is the warmest day of the week, but the heat will stick around.
 
 ---
 
-## Man fatally shot in West Long Beach on Saturday morning, police say
+## Man arrested on suspicion of murder in fatal West Long Beach shooting, police say
 
 date: 2025-06-15, from: Longbeach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Paramedics rushed him to a hospital, where he died from his injuries, police said.</p>
-<p>The post <a href="https://lbpost.com/news/crime/man-fatally-shot-in-west-long-beach-on-saturday-morning-police-say">Man fatally shot in West Long Beach on Saturday morning, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police are still trying to uncover a motive.</p>
+<p>The post <a href="https://lbpost.com/news/crime/man-fatally-shot-in-west-long-beach-on-saturday-morning-police-say">Man arrested on suspicion of murder in fatal West Long Beach shooting, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
 
 <br> 

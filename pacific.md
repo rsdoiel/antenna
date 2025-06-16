@@ -1,11 +1,84 @@
 ---
 title: pacific
-updated: 2025-06-16 06:08:22
+updated: 2025-06-16 14:07:04
 ---
 
 # pacific
 
-(date: 2025-06-16 06:08:22)
+(date: 2025-06-16 14:07:04)
+
+---
+
+## Restoring pono, restoring community: Hundreds gather at UH West Oʻahu
+
+date: 2025-06-16, from: University of Hawaiʻi News
+
+<p>Ancient wisdom and modern insight unite in a powerful call for healing and growth.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/16/restoring-pono-restoring-community-uh-west-oahu/">Restoring pono, restoring community: Hundreds gather at <abbr>UH</abbr> West Oʻahu</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/16/restoring-pono-restoring-community-uh-west-oahu/>
+
+---
+
+## Tributes flow in for Samoan fashion star tragically killed in Salt Lake City
+
+date: 2025-06-16, from: 
+
+A Samoan fashion stylist says Arthur Folasa Ah Loo was the best Samoan fashion designer she had come across. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564342/tributes-flow-in-for-samoan-fashion-star-tragically-killed-in-salt-lake-city>
+
+---
+
+## No King’s protest in Guam demands protection of democracy and equal rights
+
+date: 2025-06-16, from: 
+
+The rally was part of a broader grassroots mobilisation across the United States, marking the first 'No Kings' protest held in a US territory. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564336/no-king-s-protest-in-guam-demands-protection-of-democracy-and-equal-rights>
+
+---
+
+## Tests show 'forever chemicals' in CNMI, Guam
+
+date: 2025-06-16, from: 
+
+The information stated that wells on the CNMI island are among the most contaminated in the US. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564337/tests-show-forever-chemicals-in-cnmi-guam>
+
+---
+
+## Decoding PNG leader Marape's discussions with President Macron
+
+date: 2025-06-16, from: 
+
+<i>Analysis </i>- The recent series of high-level agreements between PNG and France marks a significant development in PNG's geopolitical relationships, writes <b>Scott Waide</b>. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564335/decoding-png-leader-marape-s-discussions-with-president-macron>
+
+---
+
+## Grief Island
+
+date: 2025-06-16, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Amy Fleury Into the circle of chairs at the coffee shop or church basement the newly bereft, bedraggled and numb, are hauled ashore by those long ago wrecked, those who know the ropes, handing out Styrofoam cups to be &#8230; <a href="https://hawaiipacificreview.org/2025/06/16/grief-island/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/06/16/grief-island/>
 
 ---
 

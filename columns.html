@@ -28,15 +28,375 @@
 Items collected from feeds in <a href="columns.txt">columns.txt</a>
 </div>
 <h1 id="columns">columns</h1>
-<p>(date: 2025-06-16 06:08:24)</p>
+<p>(date: 2025-06-16 14:07:06)</p>
+<hr />
+<h2 id="food-reviews-during-the-federal-occupation-of-la">Food reviews
+during the federal occupation of LA</h2>
+<p>date: 2025-06-16, from: Matt Haughey blog</p>
+<p>
+There's
+<a href="https://www.youtube.com/@bemorton?ref=a.wholelottanothing.org" rel="noreferrer">a
+guy I've been following on YouTube</a> for his food reviews in and
+around LA for the past year or two. He exclusively takes public transit
+to get from place to place, so I also love the bonus reviews of Metro
+trains and buses as
+</p>
+<p><br></p>
+<p><a
+href="https://a.wholelottanothing.org/food-reviews-during-the-federal-occupation-of-la/"
+class="uri">https://a.wholelottanothing.org/food-reviews-during-the-federal-occupation-of-la/</a></p>
+<hr />
+<h2 id="june-15-2025">June 15, 2025</h2>
+<p>date: 2025-06-16, from: Heather Cox Richardson blog</p>
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166100088/15080038f7663112a198f8cb990df0e3.mp3">
+</source>
+</audio>
+<p><a href="https://api.substack.com/feed/podcast/166100088/15080038f7663112a198f8cb990df0e3.mp3" target="_blank">download
+audio/mpeg</a><br></p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/june-15-2025-d16"
+class="uri">https://heathercoxrichardson.substack.com/p/june-15-2025-d16</a></p>
+<hr />
+<h2 id="how-i-use-glow-blogs-in-my-classroom">How I use Glow Blogs in my
+classroom</h2>
+<p>date: 2025-06-16, from: John’s World Wide Wall Display</p>
+<p>As I approach my retirement from class teaching, I thought it might
+be worth making some notes about how I use Glow Blogs in that role. I’ve
+been using blogs in class since 2024. A lot of what follows is obvious
+stuff but there may be a nugget or two. Class Blog My current class
+[…]</p>
+<p><br></p>
+<p><a
+href="https://johnjohnston.info/blog/how-i-use-glow-blogs-in-my-classroom/"
+class="uri">https://johnjohnston.info/blog/how-i-use-glow-blogs-in-my-classroom/</a></p>
+<hr />
+<h2
+id="libreoffice-adds-voice-to-ditch-windows-for-linux-campaign">LibreOffice
+adds voice to ‘ditch Windows for Linux’ campaign</h2>
+<p>date: 2025-06-16, updated: 2025-06-16, from: Liam Proven’s articles
+at the Register</p>
+<h4>
+Next version to drop Windows 7 through 8.1, and 32-bit Windows support
+is on the way out, too
+</h4>
+<pre><code>  &lt;p&gt;The LibreOffice project is preparing to cut some Windows support – and encourages users to switch to Linux.&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/16/libreoffice_ditch_windows/"
+class="uri">https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/16/libreoffice_ditch_windows/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2025-06-16, from: Dave Winer’s Scripting
+News)</p>
+<p><a href="https://daveverse.org/2025/06/16/linkblogging-in-wordland-preview/">Progress
+report</a> on linkblogging in WordLand.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2025/06/16.html#a155901"
+class="uri">http://scripting.com/2025/06/16.html#a155901</a></p>
+<hr />
+<h2 id="ban-autonomous-systems">2025-06-16 Ban autonomous systems</h2>
+<p>date: 2025-06-16, from: Alex Schroeder’s Blog</p>
+<h1 id="2025-06-16-ban-autonomous-systems">
+2025-06-16 Ban autonomous systems
+</h1>
+<p>
+More people have been working on blocking whole ranges of IP numbers,
+since that catches hosting providers that give bots access to the whole
+range they control. The bots switch IP numbers all the time so a filter
+based on IP numbers won’t catch them. But if we can determine their
+autonomous system number (ASN), we can not only block an IP number
+range, we can block all the IP number rangers the ASN controls.
+</p>
+<p>
+Now, since these hosting providers also host nice things like other
+fediverse instances, I don’t want to block them forever. I want to block
+them for 10min, and if they continue after a few of these shorter
+blocks, I want to block them for a week. Hopefully, their clients have
+ended their Internet slurping and things are back to normal. This is how
+fail2ban works, but only for individual IP numbers.
+</p>
+<p>
+I want code that bridges this gap.
+</p>
+<p>
+<a href="github.com/WKnak/fail2ban-bloc">fail2ban-bloc</a> tries to
+guess (!) IP ranges and bans those using fail2ban. I need to investigate
+more.
+</p>
+<p>
+I’m still fascinated by
+<a href="https://anarc.at/blog/2025-05-30-asncounter/">asncounter</a>.
+It might even work without logfiles, using <code>tcpdump</code>! For
+now, it generates an interesting Top 10 list.
+</p>
+<h2 id="working-with-asncounter">
+Working with <code>asncounter</code>
+</h2>
+<p>
+Here’s me looking at the last Apache log file, excluding my fedi
+instance:
+</p>
+<pre><code>awk '!/^social/ {print $2}' /var/log/apache2/access.log | asncounter
+INFO: using datfile ipasn_20250616.1200.dat.gz
+INFO: collecting addresses from &lt;stdin&gt;
+INFO: loading datfile /root/.cache/pyasn/ipasn_20250616.1200.dat.gz...
+INFO: finished reading data
+INFO: loading /root/.cache/pyasn/asnames.json
+count   percent ASN AS
+9264    9.49    29691   NINE, CH
+6776    6.94    45899   VNPT-AS-VN VNPT Corp, VN
+4207    4.31    7922    COMCAST-7922, US
+3728    3.82    7018    ATT-INTERNET4, US
+2193    2.25    24940   HETZNER-AS, DE
+2015    2.06    13030   INIT7, CH
+1802    1.85    396982  GOOGLE-CLOUD-PLATFORM, US
+1470    1.51    701 UUNET, US
+1364    1.4 136907  HWCLOUDS-AS-AP HUAWEI CLOUDS, HK
+1257    1.29    32934   FACEBOOK, US
+total: 97657
+count   percent prefix  ASN AS
+9260    9.48    178.209.32.0/19 29691   NINE, CH
+1761    1.8 2601::/20   7922    COMCAST-7922, US
+1542    1.58    212.51.144.0/20 13030   INIT7, CH
+1305    1.34    2001:ee0:4f00::/42  45899   VNPT-AS-VN VNPT Corp, VN
+1092    1.12    73.0.0.0/8  7922    COMCAST-7922, US
+1080    1.11    57.141.6.0/24   32934   FACEBOOK, US
+1079    1.1 99.88.0.0/13    7018    ATT-INTERNET4, US
+1058    1.08    114.119.128.0/19    136907  HWCLOUDS-AS-AP HUAWEI CLOUDS, HK
+953 0.98    2600:1700::/28  7018    ATT-INTERNET4, US
+938 0.96    2a01:4f9::/32   24940   HETZNER-AS, DE
+total: 97657
+</code></pre>
+<p>
+INIT7 is my Internet service provider at home and NINE is my hosting
+provider for the server. Better not ban those! 😅
+</p>
+<p>
+So what is VNPT-AS-VN VNPT Corp doing? This could use better tool
+support!
+</p>
+<pre><code>grep '2001:ee0:4f' /var/log/apache2/access.log | awk '{print $8}' | sort | uniq -c | head
+      2 /c2-search?url=http%3A%2F%2Fwiki.c2.com%2F%3Fsearch%3D%22OpenSourceSecondLife%22
+      1 /cgi-bin/wiki.pl?ErcReplace
+      1 /cw-fr/BarneySock
+      1 /edit/2011-06-16_Session_Reports_Are_Read_Just_Once,_If_At_All
+      1 /edit/2019-03-15_Dungeon_Master%E2%80%99s_Handbook
+      1 /emacs/AcrobatReader
+      1 /emacs?action=admin;id=AssociationList
+      1 /emacs?action=admin&amp;id=Comments_on_AdamShand
+      1 /emacs?action=admin&amp;id=Comments_on_Categor%C3%ADaRegi%C3%B3n
+      1 /emacs?action=admin&amp;id=Comments_on_nickat
+</code></pre>
+<p>
+OK, this is bots. Useless random URLs.
+</p>
+<h2 id="ban-all-the-networks-managed-by-an-asn">
+Ban all the networks managed by an ASN
+</h2>
+<p>
+I’m going to use <code>ipset</code> to use two lists,
+<code>banlist</code> and <code>banlist6</code>. I use these two for
+<a href="/admin/ban-cidr">ban-cidr</a>, too.
+</p>
+<pre><code># Use hash:net because of the CIDR stuff
+ipset create banlist hash:net
+iptables -I INPUT -m set --match-set banlist src -j DROP
+iptables -I FORWARD -m set --match-set banlist src -j DROP
+
+ipset create banlist6 hash:net family inet6
+ip6tables -I INPUT -m set --match-set banlist6 src -j DROP
+ip6tables -I FORWARD -m set --match-set banlist6 src -j DROP
+</code></pre>
+<p>
+To ban all the IP ranges an ASN manages, I created the following little
+fish function using <code>ip.guide</code>:
+</p>
+<pre><code>function asn-ban
+    for asn in $argv
+        for cidr in (curl -sL &quot;https://ip.guide/as$asn&quot; | jq --raw-output '.routes.v4[]')
+            echo ipset add banlist $cidr
+        end
+        for cidr in (curl -sL &quot;https://ip.guide/as$asn&quot; | jq --raw-output '.routes.v6[]')
+            echo ipset add banlist6 $cidr
+        end
+    end
+end
+</code></pre>
+<p>
+Let’s try it with the ASN 45899!
+</p>
+<pre><code>asn-ban 45899 | sh
+netfilter-persistent save
+</code></pre>
+<p>
+For more about <code>netfilter-persistent save</code> see the comments
+on <a href="2025-01-23-bots-devouring-the-web">2025-01-23 The bots are
+at it again</a>.
+</p>
+<p>
+When I ran the <code>asn-ban</code> command above, I noticed that I got
+a single “it’s already added” response. Before adding the same numbers
+to my shell script, therefore:
+</p>
+<pre><code>for cidr in (asn-ban 45899|awk '{print $4}'); if grep -q $cidr bin/admin/ban-cidr; echo $cidr; end; end
+</code></pre>
+<p>
+That told me I had to remove <code>14.187.96.0/20</code> from my script.
+Once this is done:
+</p>
+<pre><code>echo (echo &quot;#&quot;; date --iso)  &gt;&gt; bin/admin/ban-cidr
+asn-ban 45899 &gt;&gt; bin/admin/ban-cidr 
+</code></pre>
+<p>
+I really need to figure out how to manage this smartly. And I need to
+figure out a way to unban the whole list!
+</p>
+<h2 id="integration-with-fail2ban">
+Integration with <code>fail2ban</code>
+</h2>
+<p>
+Let’s start with <code>fail2ban</code>. I need a jail! Every jail needs
+a filter!
+</p>
+<p>
+In <code>/etc/fail2ban/jail.d/alex.conf</code> (this is where I maintain
+all my jails) I added:
+</p>
+<pre><code>[butlerian-jihad]
+enabled = true
+bantime = 1d
+</code></pre>
+<p>
+Note that this jail doesn’t define log paths. I hope that works as
+intended.
+</p>
+<p>
+I created a matching filter with no definition in
+<code>/etc/fail2ban/filter.d/butlerian-jihad.conf</code>:
+</p>
+<pre><code># Author: Alex Schroeder &lt;alex@gnu.org&gt;
+[Definition]
+</code></pre>
+<p>
+Reload it all, and check:
+</p>
+<pre><code>fail2ban-client reload
+OK
+fail2ban-client status
+Status
+|- Number of jail:  6
+`- Jail list:   alex-apache, alex-bots, butlerian-jihad, ngircd, recidive, sshd
+</code></pre>
+<p>
+Nice! So now I have a new jail.
+</p>
+<h2 id="undo-the-banlist">
+Undo the banlist
+</h2>
+<pre><code>asn-ban 45899 | sed 's/ipset add/ipset del/' | sh
+</code></pre>
+<p>
+I also manually edited my <a href="/admin/ban-cidr">ban-cidr</a> file to
+remove the lines I added above. Let’s have fail2ban handle this!
+</p>
+<h2 id="switch-from-ipset-to-fail2ban-client">
+Switch from <code>ipset</code> to <code>fail2ban-client</code>
+</h2>
+<pre><code>function asn-ban
+    for asn in $argv
+        set --local cidr (curl -sL &quot;https://ip.guide/as$asn&quot; | jq --raw-output '.routes.v4[],.routes.v6[]')
+        echo fail2ban-client set butlerian-jihad banip $cidr
+    end
+end
+</code></pre>
+<p>
+Examine it:
+</p>
+<pre><code>asn-ban 45899 | less
+</code></pre>
+<p>
+Run it:
+</p>
+<pre><code>asn-ban 45899 | sh
+3640
+</code></pre>
+<p>
+If you messed up, clear the jail:
+</p>
+<pre><code>fail2ban-client reload --unban butlerian-jihad
+</code></pre>
+<p>
+Check the jail:
+</p>
+<pre><code>fail2ban-client get butlerian-jihad banned
+</code></pre>
+<p>
+Count the entries in the jail:
+</p>
+<pre><code>fail2ban-client get butlerian-jihad banned | sed 's/\'/&quot;/g' | jq length
+3640
+</code></pre>
+<h2 id="what-do-we-have">
+What do we have?
+</h2>
+<p>
+With <code>asncounter</code> we have a tool to quickly discover if an
+ASN is providing services to a bot.
+</p>
+<p>
+With <code>asn-ban</code> we have a tool to quickly add all the IP
+networks the ASN is managing to a jail for <code>fail2ban</code>.
+</p>
+<p>
+The jail which we called <code>butlerian-jihad</code> bans the IP
+networks for a day.
+</p>
+<h2 id="what-s-left-to-do">
+What’s left to do?
+</h2>
+<p>
+I should check whether this actually works! Let’s see whether the ban
+gets lifted after 24h. That’s the main point of this exercise!
+</p>
+<p>
+<code>asn-ban</code> uses the <code>ip.guide</code> site for the data.
+This should be rewritten such that it uses the same data as
+<code>asncounter</code>. I guess that would be
+<a href="https://github.com/hadiasghari/pyasn">pyasn</a>.
+</p>
+<p>
+I need a cron job that runs every 10 minutes, takes the last ten minutes
+worth of Apache access log files, ignores the fedi subdomain, identifies
+all the ASNs, ignores my own ASNs and bans the rest.
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a>
+</p>
+<p><br></p>
+<p><a href="https://alexschroeder.ch/view/2025-06-16-ban-asn"
+class="uri">https://alexschroeder.ch/view/2025-06-16-ban-asn</a></p>
+<hr />
+<h2 id="did-tracking-based-advertising-just-get-blown-up-in-europe">Did
+tracking-based advertising just get blown up in Europe?</h2>
+<p>date: 2025-06-16, from: Doc Searls (at Harvard), New Old Blog</p>
+<p>As I read it (in an English translation here), an appeals court in
+Brussels ruled consent notifications on websites illegal (or close
+enough) in the EU. Your interpretation may vary. Here are some sources
+I’ve gathered to help with that: Jamie Smith: Targeting ads using Real
+Time Bidding is now illegal, and how will we know […]</p>
+<p><br></p>
+<p><a
+href="https://doc.searls.com/2025/06/16/did-tracking-based-advertising-just-get-blown-up-in-europe/"
+class="uri">https://doc.searls.com/2025/06/16/did-tracking-based-advertising-just-get-blown-up-in-europe/</a></p>
 <hr />
 <h2 id="monday-16-june-2025">Monday, 16 June 2025</h2>
 <p>date: 2025-06-16, from: Doc Searls (at Harvard), New Old Blog</p>
-<p>Did tracking-based advertising just get blown up in Europe? As I read
-it (in an English translation here), an appeals court in Brussels ruled
-consent notifications on websites illegal. Your interpretation may vary.
-Here are some I've gathered to help with that: Jamie Smith: Targeting
-ads using Real Time Bidding is now illegal, and how will […]</p>
+<p>Looks real enough. Under the title Goodbye, Starlink? the headline
+says China Just Launched a $20 Billion Satellite Swarm — And Elon Might
+Be Toast, followed by this subhead: Huawei’s 6G Quantum-Crypted Meganet
+vs. Starlink Isn’t Just a Tech Battle. It’s a Global Internet War. The
+original is paywalled here at Medium, but you can read […]</p>
 <p><br></p>
 <p><a href="https://doc.searls.com/2025/06/16/monday-16-june-2025/"
 class="uri">https://doc.searls.com/2025/06/16/monday-16-june-2025/</a></p>
@@ -62,7 +422,7 @@ sacrifices both.</p>
 href="https://robertreich.substack.com/p/why-standing-up-to-trump-is-good"
 class="uri">https://robertreich.substack.com/p/why-standing-up-to-trump-is-good</a></p>
 <hr />
-<h2 id="june-15-2025">June 15, 2025</h2>
+<h2 id="june-15-2025-1">June 15, 2025</h2>
 <p>date: 2025-06-16, from: Heather Cox Richardson blog</p>
 <p>Yesterday began with the horrific news that a gunman had shot two
 Minnesota lawmakers and their spouses in what Minnesota governor Tim

@@ -1,11 +1,235 @@
 ---
 title: planet
-updated: 2025-06-16 06:08:19
+updated: 2025-06-16 14:07:02
 ---
 
 # planet
 
-(date: 2025-06-16 06:08:19)
+(date: 2025-06-16 14:07:02)
+
+---
+
+## Watch: Iran's nuclear ambitions in focus amid tensions
+
+date: 2025-06-16, from: RTÉ News
+
+RTÉ's global security reporter Yvonne Murray takes a look at Iran's secretive nuclear programme. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0616/1518792-iran-nuclear-programme/>
+
+---
+
+## Paul Reid expected to be named head of new planning body
+
+date: 2025-06-16, from: RTÉ News
+
+Former HSE boss Paul Reid is expected to be named as the chairperson of An Coimisiún Pleanála, which will replace An Bord Pleanála. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0616/1518790-paul-reid-planning/>
+
+---
+
+## Woman arrested after Irish residents killed in Iceland
+
+date: 2025-06-16, from: RTÉ News
+
+A French woman has been arrested in Iceland after her husband and daughter were found stabbed to death in their hotel room. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0616/1518781-iceland-deaths/>
+
+---
+
+## Fabric of St Peter’s unveils plan for ‘zero impact’ basilica
+
+date: 2025-06-16, from: Vatican News
+
+
+                    <p>The institution responsible for the conservation and maintenance of St. Peter's Basilica unveils an environmental sustainability plan inspired by the encyclical Laudato si’.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/fabric-of-st-peters-plan-zero-impact-basilica.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/fabric-of-st-peters-plan-zero-impact-basilica.html>
+
+---
+
+## Pope Leo XIV and the VO Summer School
+
+date: 2025-06-16, from: Vatican Obervatory
+
+Pope Leo XIV met with the 2025 Vatican Observatory Summer School (VOSS) earlier today. See what he said, and see some pictures! 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/pope-leo-xiv-and-the-vo-summer-school/>
+
+---
+
+## State to sell off remaining shareholding in AIB
+
+date: 2025-06-16, from: RTÉ News
+
+The State is to sell off its remaining shareholding in AIB tomorrow. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0616/1518774-aib-share-sale/>
+
+---
+
+## Judge dismisses former Cork hurler's drink driving case
+
+date: 2025-06-16, from: RTÉ News
+
+The two-time All-Star hurler, Anthony Nash, asked a garda "do you know who I am?" when he was arrested on suspicion of drink driving after his car was found mounted in a ditch with the back of the vehicle protruding onto the road, a court has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0616/1518765-cork-district-court-anthony-nash/>
+
+---
+
+## Watch: Iranian state TV hit in Israeli attack on Tehran
+
+date: 2025-06-16, from: RTÉ News
+
+The Islamic Republic of Iran Broadcasting went off air temporarily after its building was struck in an Israeli attack. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0616/1518764-iran-state-tv-blast/>
+
+---
+
+## Teens on gun charge released over lack of detention space
+
+date: 2025-06-16, from: RTÉ News
+
+Lack of space at the State's main youth detention centre resulted in two Dublin teenagers - accused of being armed with a machine gun during a burglary - being released at the weekend. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0616/1518760-teen-boys-court/>
+
+---
+
+## New arrest in human smuggling deaths on the St. Lawrence River
+
+date: 2025-06-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7453518.1750106111!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/romanian-indian-family.jpg' alt='Two photos of two families. On the left, a father holds the hands of his young children in front of a Christmas tree. On the right, a father takes a selfie that includes his wife and male and female children. ' width='620' height='349' title='A composite photo of members the Iordache family, left, and the Chaudhari family, right, who drowned during an attempted human smuggling run into the U.S. across the St. Lawrence River in March 2023. '/><p>U.S. authorities on Sunday arrested the brother of the boat pilot who drowned along with eight members of two families during a March 2023 human smuggling run across the St. Lawrence River. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/arrest-human-smuggling-st-lawrence-river-1.7562469?cmp=rss>
+
+---
+
+## CSO: 22% of adults felt discriminated against last year
+
+date: 2025-06-16, from: RTÉ News
+
+A Central Statistics Office survey has found 22% of people aged 18 or over say they felt discriminated against in the two years before 2024 compared to 18% in 2019. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0616/1518744-cso-discrimination-survey/>
+
+---
+
+## Accused in Minnesota shooting of lawmakers went to homes of 2 other politicians
+
+date: 2025-06-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7561495.1749913921!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/minnesota-lawmakers-shot.jpg' alt='POLICE OUTSIDE HOME' width='620' height='349' title='Law enforcement officers including local police, sheriffs and the FBI, stage less than a mile from a shooting in Brooklyn Park, Minn. on Saturday, June 14, 2025.'/><p>The suspect in the shooting of two Minnesota state lawmakers went to the homes of two other legislators on the night of the shootings with the intention of targeting them, federal prosecutors said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/minnesota-lawmakers-shooting-suspect-1.7562471?cmp=rss>
+
+---
+
+## Man who died after e-scooter crash in Dublin named
+
+date: 2025-06-16, from: RTÉ News
+
+A man in his 20s has died after being involved in a crash while travelling on an e-scooter in Dublin yesterday. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0616/1518750-dublin-crash/>
+
+---
+
+## St James's Hospital apologises to trans woman
+
+date: 2025-06-16, from: RTÉ News
+
+St James's Hospital has made a public apology to a trans woman over her experience at its emergency department last year after she fell ill following gender reassignment surgery overseas. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0616/1518749-st-jamess-hospital-apologises-to-trans-woman/>
+
+---
+
+## Opt-out organ donation act to come into effect tomorrow
+
+date: 2025-06-16, from: RTÉ News
+
+The first phase of the Human Tissue Act 2024 is due to come into operation from tomorrow, meaning everybody will be considered an organ donor unless they opt-out or are included in a so-called "excluded group". 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0616/1518740-health-organ-donation/>
+
+---
+
+## Fears of regional conflict rise as Israel-Iran escaIation continues
+
+date: 2025-06-16, from: Vatican News
+
+
+                    <p>Fears of an expanding regional conflict in the Middle East rise as Israel and Iran exchange attacks while the war in Gaza continues to cause death and suffering to the Palestinian population.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/iran-israel-hamas-gaza-war-regional-tensions-middle-east.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/iran-israel-hamas-gaza-war-regional-tensions-middle-east.html>
+
+---
+
+## Paul Murphy released after being detained in Egypt
+
+date: 2025-06-16, from: RTÉ News
+
+People Before Profit-Solidarity TD Paul Murphy has been released from custody after being detained in Egypt, his party has said in a statement. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0616/1518733-paul-murphy-detained/>
+
+---
+
+## New ads feature to be rolled out on WhatsApp
+
+date: 2025-06-16, from: RTÉ News
+
+WhatsApp is to roll out a new advertisement feature on the popular messaging app. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0616/1518686-whatsapp-ads/>
 
 ---
 
@@ -37,11 +261,71 @@ The Spiritans religious order has said it hopes to provide further details on it
 
 date: 2025-06-16, from: United Nations, Top Stories
 
-After a weekend of massive strikes and counter-strikes between Tel Aviv and Tehran, the UN's human rights chief, Volker Türk on Monday condemned the violence and echoed wider calls for a negotiated end to the attacks. Meanwhile in Gaza, aid workers report that mobile communications networks continue to be cut in the shattered enclave. We'll be covering these developments and more across the UN system and beyond today, thanks for joining us. UN News&nbsp;app users can follow our live coverage here. 
+After a weekend of massive strikes and counter-strikes between Tel Aviv and Tehran, the UN's human rights chief, Volker Türk on Monday condemned the violence and echoed wider calls for a negotiated end to the attacks. Meanwhile in Gaza, aid workers report that mobile communications networks continue to be cut in the shattered enclave. We'll be covering these developments and more across the UN system and beyond today, thanks for joining us. UN News app users can follow our live coverage here. 
 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/06/1164411>
+
+---
+
+## Guterres to launch life-saving campaign strengthening mine action worldwide
+
+date: 2025-06-16, from: United Nations, Top Stories
+
+The UN Secretary-General is set to launch a global campaign to boost support for disarmament and mine action.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164451>
+
+---
+
+## UNHCR forced to make deep cuts, despite rising needs worldwide
+
+date: 2025-06-16, from: United Nations, Top Stories
+
+The UN refugee agency (UNHCR) announced on Monday that it is cutting global staffing costs by around 30 per cent, following a comprehensive review of its activities, spending, staffing and structure, prompted by major funding shortfalls. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164446>
+
+---
+
+## Without urgent funding, global hunger hotspots are set to grow, UN warns
+
+date: 2025-06-16, from: United Nations, Top Stories
+
+Since conflict erupted in Sudan, more than a million people have fled to neighbouring South Sudan, seeking refuge from escalating violence that has displaced 12.4 million people and plunged over half the Sudanese population into food insecurity.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164441>
+
+---
+
+## ‘Behind each crisis, people are suffering,’ Türk tells Human Rights Council
+
+date: 2025-06-16, from: United Nations, Top Stories
+
+Eighty years after the United Nations was established to end war, uphold fundamental human rights and promote justice and international law, those founding principles are increasingly under threat, the UN’s human rights chief warned on Monday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164436>
+
+---
+
+## Brutal cuts mean brutal choices warns UN relief chief, launching ‘survival appeal’
+
+date: 2025-06-16, from: United Nations, Top Stories
+
+Facing the most severe funding shortfall in the history of humanitarian aid, UN relief chief Tom Fletcher on Monday announced a “hyper-prioritised” appeal for $29 billion to meet urgent global needs.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164421>
 
 ---
 
@@ -57,11 +341,11 @@ A victim of abuse at the notorious Kincora Boys' Home has obtained an undisclose
 
 ---
 
-## Dáil to debate emergency housing and homelessness motion
+## Private rental apartment supply to 'fall significantly'
 
 date: 2025-06-16, from: RTÉ News
 
-The Dáil will tomorrow debate an opposition motion calling for emergency action to address the deepening housing and homelessness crisis. 
+The supply of private rental apartments is going to fall significantly in the period ahead, the Housing Agency will tell an Oireachtas Committee tomorrow. 
 
 <br> 
 
@@ -78,6 +362,18 @@ A 13-year-old girl is among those being charged in connection with rioting in No
 <br> 
 
 <https://www.rte.ie/news/ulster/2025/0616/1518705-riots-ballymena/>
+
+---
+
+## Mother and teen daughter appear in court over NI riots
+
+date: 2025-06-16, from: RTÉ News
+
+A mother and her teenage daughter have appeared in court facing charges arising from rioting in Ballymena last week. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0616/1518705-riots-ballymena/>
 
 ---
 
@@ -109,7 +405,19 @@ date: 2025-06-16, from: Vatican News
 
 ---
 
-## Gaza rescuers say Israeli gunfire kills 20 at aid centre
+## At least 23 more Palestinians killed, 200 wounded near aid site in Rafah: medics
+
+date: 2025-06-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7562169.1750081138!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza.JPG' alt='A woman lays on the body of a loved one wrapped in white shroud.' width='620' height='349' title='A mourner reacts during the funeral of Palestinians killed in what the Gaza health ministry says was Israeli fire near a distribution center in Rafah, at Nasser Hospital in Khan Younis, in the southern Gaza Strip, June 16, 2025. REUTERS/Hatem Khaled'/><p>Israeli fire killed at least 50 people on Monday, nearly half of them near an aid distribution site run by the U.S.-backed Gaza Humanitarian Foundation, the territory's Health Ministry said, as UN officials denounced Israeli-backed aid delivery methods.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/israel-gaza-aid-distribution-sites-1.7562131?cmp=rss>
+
+---
+
+## Israeli fire kills 20 near Gaza aid site - civil defence
 
 date: 2025-06-16, from: RTÉ News
 
@@ -146,6 +454,18 @@ Areas in Dublin and Cork were two of the most littered in the country despite a 
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0616/1518665-litter-survey/>
+
+---
+
+## The Louvre, plagued by overtourism, shuts its doors to visitors as workers strike
+
+date: 2025-06-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7562140.1750079037!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/france-louvre.jpg' alt='People milling about in front of an entrance with a sign that reads: Musee du Louvre.' width='620' height='349' title='Tourists wait outside the Louvre museum which failed to open on time Monday, June 16, 2025 in Paris. '/><p>The Louvre, the world's most-visited museum and a global symbol of art, beauty and endurance, remained shuttered Monday — not by war but by its own exhausted staff, who say the institution in Paris is crumbling from within.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/louvre-closed-overtourism-1.7562138?cmp=rss>
 
 ---
 
@@ -189,7 +509,7 @@ The public has been urged to recycle vapes and e-cigarettes as a report showed t
 
 ---
 
-## All-Ireland SFC: Dublin face Cork, Down draw Galway
+## SFC: Dublin to face Cork on Saturday evening
 
 date: 2025-06-16, from: RTÉ News
 
@@ -249,11 +569,11 @@ Preliminary works to enable the excavation of the former mother-and-baby home in
 
 ---
 
-## Israel has control of Tehran skies, Netanyahu says
+## Iran launches new wave of aerial attacks against Israel
 
 date: 2025-06-16, from: RTÉ News
 
-Follow events live as Israel and Iran move into their fourth day of open conflict. 
+Follow live developments as Iran and Israel exchange heavy strikes for a fourth day amid concerns of a wider conflict. 
 
 <br> 
 
@@ -261,11 +581,11 @@ Follow events live as Israel and Iran move into their fourth day of open conflic
 
 ---
 
-## Iranian strikes hit Israel as conflict enters fourth day
+## Iran condemns Israeli attack on state TV as war crime
 
 date: 2025-06-16, from: RTÉ News
 
-Iranian missiles struck the Israeli capital Tel Aviv and the port city of Haifa overnight, marking a fourth day of open conflict between the two countries. 
+Iran has condemned Israel's attack on a state TV building in Tehran as a war crime, and called on the UN Security Council to take action. 
 
 <br> 
 
@@ -285,11 +605,23 @@ Stolen Sister is a podcast that tells the story of Elizabeth Plunkett, a young D
 
 ---
 
-## Suspect in US politicians' shooting arrested after search
+## Canada's rush for new resource projects can't happen without First Nations' support: grand chief
+
+date: 2025-06-16, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7560821.1749838239!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jerry-daniels-and-garrison-settee.jpg' alt='Two men stand side by side and look forward.' width='620' height='349' title='Manitoba Keewatinowi Okimakanak Grand Chief Garrison Settee, right, speaks at a news conference with Southern Chiefs Organization Grand Chief Jerry Daniels in Winnipeg on June 13, 2025.'/><p>Some First Nations leaders and citizens in Manitoba say they're concerned about the province's recent push to create new energy, trade and resource extraction projects in the north.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/pipeline-pitch-kinew-mko-1.7560811?cmp=rss>
+
+---
+
+## Suspect visited homes of other Minnesota politicians
 
 date: 2025-06-16, from: RTÉ News
 
-A massive two-day manhunt for a man suspected of killing a Minnesota Democratic politician and her husband while posing as a police officer in the US ended overnight, the state's Governor Tim Walz said. 
+The suspect accused of assassinating a Minnesota politician and shooting another this weekend drove to the homes of at least four state politicians as part of a planned killing spree, federal authorities have said. 
 
 <br> 
 
@@ -297,11 +629,11 @@ A massive two-day manhunt for a man suspected of killing a Minnesota Democratic 
 
 ---
 
-## As Iran launches new wave of deadly missile attacks, Israel says it has 'supremacy' in Tehran's airspace
+## Israel strikes Iranian state TV during live broadcast after wave of missiles from Iran
 
 date: 2025-06-16, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7562062.1750054272!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-iran-mideast-wars.jpg' alt='An aerial view of damaged buildings and debris lining a street.' width='620' height='349' title='Rescue workers, police and military inspect the site where an Iranian missile struck in Bnei Brak, near Tel Aviv, Israel, Monday, June 16, 2025.'/><p>Iran fired a new wave of missile attacks on Israel early Monday, killing at least five people, while Israel claimed that it had now achieved "aerial superiority" over Tehran and could fly over the Iranian capital without facing major threats.</p> 
+<img src='https://i.cbc.ca/1.7562618.1750102312!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/iran-israel-mideast-wars.jpg' alt='Smoke' width='620' height='349' title='Smoke rises from the building of Iran&apos;s state-run television safter an Israeli strike in Tehran, Iran, Monday, June 16, 2025. (AP Photo)'/><p>Israel struck Iran's state-run television station Monday during a live broadcast, forcing a reporter to run off camera following an explosion, after Iran fired a new wave of missiles at Israel that killed at least eight people.</p> 
 
 <br> 
 
@@ -333,7 +665,7 @@ Group of Seven leaders, including US President Donald Trump, are preparing to ho
 
 ---
 
-## 'Decline' in summer holidaymakers to hotter destinations
+## Decline in holidaymakers going to hotter destinations
 
 date: 2025-06-16, from: RTÉ News
 
@@ -427,6 +759,22 @@ date: 2025-06-15, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/macron-trump-putin-iran-israel-greenland-1.7562021?cmp=rss>
+
+---
+
+## Blessed Floribert Bwana Chui: A witness to goodness and peace
+
+date: 2025-06-15, from: Vatican News
+
+
+                    <p>Floribert Bwana Chui is beatified in Rome by Cardinal Marcello Semeraro. The 26-year-old Congolese customs officer and member of the Sant’Egidio Community, Floribert, was martyred in 2007 for refusing to allow the entry of spoiled food, choosing integrity over corruption. </p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/beatification-floribert-bwana-chui-rome-cardinal-semeraro-martyr.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/beatification-floribert-bwana-chui-rome-cardinal-semeraro-martyr.html>
 
 ---
 

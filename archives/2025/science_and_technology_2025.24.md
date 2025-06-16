@@ -1,11 +1,167 @@
 ---
 title: science and technology
-updated: 2025-06-16 06:08:23
+updated: 2025-06-16 14:07:05
 ---
 
 # science and technology
 
-(date: 2025-06-16 06:08:23)
+(date: 2025-06-16 14:07:05)
+
+---
+
+## Florida man expands crypto empire with new wireless service and phone
+
+date: 2025-06-16, updated: 2025-06-16, from: The Register (UK I.T. News)
+
+<h4>MAGA MVNO and the gold-plated telephone of destiny</h4> <p>The Trump family is getting into the wireless business - and what better way to do it than with a gold-colored Android smartphone that could someday be designed and manufactured in the USA?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/16/trump_mobile_launches/>
+
+---
+
+## Penn State boffins create silicon-free two-dimensional computer
+
+date: 2025-06-16, updated: 2025-06-16, from: The Register (UK I.T. News)
+
+<h4>Clock speed of 25 kHz means 2D CMOS system won&#39;t run Doom quite yet</h4> <p>Gaze into the temporal distance and you might spot the end of the age of silicon looming somewhere out there, as a research team at Penn State University claims to have built the first working CMOS computer entirely from two-dimensional materials.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/16/penn_state_boffins_2d_cmos/>
+
+---
+
+## Remorseless extortionists claim to have stolen thousands of files from Freedman HealthCare
+
+date: 2025-06-16, updated: 2025-06-16, from: The Register (UK I.T. News)
+
+<h4>The group has previously threatened to SWAT cancer patients and leaked pre-op plastic surgery photos</h4> <p>An extortion gang claims to have breached Freedman HealthCare, a data and analytics firm whose customers include state agencies, health providers, and insurance companies, and is threatening to dump tens of thousands of sensitive files early Tuesday morning.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/16/extortionists_claim_freedman_healthcare_hack/>
+
+---
+
+## Hubble Studies a Spiral’s Supernova Scene
+
+date: 2025-06-16, from: NASA breaking news
+
+This serene spiral galaxy hides a cataclysmic past. The galaxy IC 758, shown in this NASA/ESA&#160;Hubble Space Telescope&#160;image, is situated 60 million light-years away in the constellation Ursa Major. Hubble captured this image in 2023. IC 758 appears peaceful, with its soft blue spiral arms curving gently around its hazy barred center. However, in 1999, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/hubble-studies-a-spirals-supernova-scene/>
+
+---
+
+## Japan builds near $700M fund to lure foreign academic talent
+
+date: 2025-06-16, updated: 2025-06-16, from: The Register (UK I.T. News)
+
+<h4>For researchers yearning to earn some yen and escape Trump 2.0</h4> <p>Japan is the latest nation hoping to tempt disgruntled US researchers alarmed by the Trump administration&#39;s hostile attitude to academia to relocate to the Land of the Rising Sun.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/16/japan_has_a_yen_for/>
+
+---
+
+## Canada's WestJet says 'expect interruptions' online as it navigates cybersecurity turbulence
+
+date: 2025-06-16, updated: 2025-06-16, from: The Register (UK I.T. News)
+
+<h4>Flights still flying - just don&#39;t count on the app or website working smoothly</h4> <p>Canadian airline WestJet is warning of &#34;intermittent interruptions or errors&#34; on its app and website as it investigates a cybersecurity incident.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/16/westjet_cybersecurity_snafu/>
+
+---
+
+## LibreOffice adds voice to 'ditch Windows for Linux' campaign
+
+date: 2025-06-16, updated: 2025-06-16, from: The Register (UK I.T. News)
+
+<h4>Next version to drop Windows 7 through 8.1, and 32-bit Windows support is on the way out, too</h4> <p>The LibreOffice project is preparing to cut some Windows support – and encourages users to switch to Linux.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/16/libreoffice_ditch_windows/>
+
+---
+
+## ISS leaks push Axiom Mission 4 launch to no earlier than June 19
+
+date: 2025-06-16, updated: 2025-06-16, from: The Register (UK I.T. News)
+
+<h4>Evaluation of latest repairs to Russian segment ongoing</h4> <p>NASA has pushed back the launch of Axiom Mission 4 to the International Space Station (ISS), citing concerns over persistent leaks aboard the aging orbital outpost. A new No Earlier Than (NET) date is set for June 19.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/16/axiom_delay_iss_leak/>
+
+---
+
+## NASA Announces Winners of 2025 Student Launch Competition
+
+date: 2025-06-16, from: NASA breaking news
+
+By Beth Ridgeway&#160; NASA’s Student Launch competition celebrated its 25th anniversary on May 4, just north of NASA’s Marshall Space Flight Center in Huntsville, Alabama, bringing together more than 980 middle school, high school, college, and university students from across the U.S. to showcase and launch their high-powered rocketry designs. The event marked the conclusion [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-winners-of-2025-student-launch-competition/>
+
+---
+
+## NASA Seeks Commercial Feedback on Space Communication Solutions
+
+date: 2025-06-16, from: NASA breaking news
+
+NASA is seeking information from U.S. and international companies about Earth proximity relay communication and navigation capabilities as the agency aims to use private industry satellite communications services for emerging agency science missions. “As part of NASA’s Communications Services Project, the agency is working with private industry to solve challenges for future exploration,” said Kevin [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-commercial-feedback-on-space-communication-solutions/>
+
+---
+
+## Eurocops arrest suspected Archetyp admin, shut down mega dark web drug shop
+
+date: 2025-06-16, updated: 2025-06-16, from: The Register (UK I.T. News)
+
+<h4>Marketplace as big as Silk Road had more than 600k users and turnover of &#39;at least&#39; €250M</h4> <p>Operation Deep Sentinel is the latest international law enforcement collaboration against cybercrime, shutting down Archetyp – one of the largest dark web drug marketplaces.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/16/archetyp_takedown_eurocops_arrest_suspected/>
+
+---
+
+## The Ecosystem Dynamics That Can Make or Break an Invasion
+
+date: 2025-06-16, from: Quanta Magazine
+
+By speedrunning ecosystems with microbes, researchers revealed intrinsic properties that may make a community susceptible to invasion.            <p>The post <a href="https://www.quantamagazine.org/the-ecosystem-dynamics-that-can-make-or-break-an-invasion-20250616/" target="_blank">The Ecosystem Dynamics That Can Make or Break an Invasion</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-ecosystem-dynamics-that-can-make-or-break-an-invasion-20250616/>
+
+---
+
+## Salesforce study finds LLM agents flunk CRM and confidentiality tests
+
+date: 2025-06-16, updated: 2025-06-16, from: The Register (UK I.T. News)
+
+<h4>6-in-10 success rate for single-step tasks</h4> <p>A new benchmark developed by academics shows that LLM-based AI agents perform below par on standard CRM tests and fail to understand the need for customer confidentiality.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/16/salesforce_llm_agents_benchmark/>
 
 ---
 
@@ -13,7 +169,7 @@ updated: 2025-06-16 06:08:23
 
 date: 2025-06-16, updated: 2025-06-16, from: The Register (UK I.T. News)
 
-<h4>But lose your code and it&#39;s gone for good</h4> <p>Windows 11 users in the European Economic Area will shortly receive a new Recall Export feature, allowing Recall snapshots to be shared with third-party apps and websites.…</p> 
+<h4>But lose your code and it&#39;s gone for good</h4> <p><strong>Updated</strong>  Windows 11 users in the European Economic Area will shortly receive a new Recall Export feature, allowing Recall snapshots to be shared with third-party apps and websites.…</p> 
 
 <br> 
 

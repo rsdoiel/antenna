@@ -1,11 +1,49 @@
 ---
 title: motorcycles
-updated: 2025-06-16 06:08:28
+updated: 2025-06-16 14:07:09
 ---
 
 # motorcycles
 
-(date: 2025-06-16 06:08:28)
+(date: 2025-06-16 14:07:09)
+
+---
+
+## Harley-Davidson Issues Massive Recall On 82,000+ Softail Motorcycles
+
+date: 2025-06-16, from: Ride Apart, Electric Motorcycle News
+
+The shock mounting tab can break off and potentially puncture the rear tire. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/762791/harley-softail-recall-rear-tire-blowout/>
+
+---
+
+## GALLERY 3: NASCAR Cup Series Wows Mexico City Race Fans
+
+date: 2025-06-16, from: Kickin the Tires blog
+
+See what it was like for drivers, crews and race fans at the first-ever NASCAR Cup Series points race held outside of the United States. The fans and the people&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-3-nascar-cup-series-wows-mexico-city-race-fans/>
+
+---
+
+## If Triumph Actually Made a Trident 660 RS, This Would Be It
+
+date: 2025-06-16, from: Ride Apart, Electric Motorcycle News
+
+FCR Original can make your dream Trident build a reality. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/762491/triumph-trident-rs-fcr-original-custom/>
 
 ---
 
