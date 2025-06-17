@@ -1,11 +1,495 @@
 ---
 title: planet
-updated: 2025-06-16 14:07:02
+updated: 2025-06-17 06:09:19
 ---
 
 # planet
 
-(date: 2025-06-16 14:07:02)
+(date: 2025-06-17 06:09:19)
+
+---
+
+## Deportation of 35 Nigerian asylum seekers cost €500,000
+
+date: 2025-06-17, from: RTÉ News
+
+New figures show the cost of deporting 35 Nigerian asylum seekers earlier this month was half-a-million euro, when prison detention costs are added. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0617/1518912-deportation-costs/>
+
+---
+
+## Dutch government suggests social media ban for under-15s
+
+date: 2025-06-17, from: RTÉ News
+
+The Dutch government has advised parents to forbid children under 15 from using social media apps like TikTok and Snapchat, the latest country to propose curbs over mental health concerns. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0617/1518914-social-media-ban/>
+
+---
+
+## Paul Reid named as chair of An Coimisiún Pleanála
+
+date: 2025-06-17, from: RTÉ News
+
+Former HSE boss Paul Reid has been named as the chairperson of An Coimisiún Pleanála, which will replace An Bord Pleanála. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0617/1518909-paul-reid-pleanala/>
+
+---
+
+## NFL fans frustrated at huge online ticket queues
+
+date: 2025-06-17, from: RTÉ News
+
+Fans attempting to buy tickets for September's NFL game between the Pittsburgh Steelers and the Minnesota Vikings at Croke Park have experienced online frustration as hundreds of thousands of accounts attempt to complete purchases. 
+
+<br> 
+
+<https://www.rte.ie/sport/us-sport/2025/0617/1518903-nfl-fans-frustrated-at-huge-online-ticket-queues/>
+
+---
+
+## Dublin's Mater Hospital launches new AI centre
+
+date: 2025-06-17, from: RTÉ News
+
+Dublin's Mater Misericordiae University Hospital (MMUH) has launched a new Centre for AI and Digital Health which will use artificial intelligence (AI) to solve clinical problems across the hospital. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0617/1518904-dublins-mater-hospital-launches-new-ai-centre/>
+
+---
+
+## More Gazans killed trying to get food, healthcare near to ‘full disaster’
+
+date: 2025-06-17, from: United Nations, Top Stories
+
+Gaza’s health system is at breaking point, overwhelmed time and again by scores of people killed or injured near aid distribution sites, the UN World Health Organization (WHO) said on Tuesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164471>
+
+---
+
+## EU activates mechanism over evacuations from Middle East
+
+date: 2025-06-17, from: RTÉ News
+
+The EU has activated its civil defence mechanism in order to help member states evacuate citizens from the Middle East, as the Israel-Iran war enters its fifth day. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0617/1518889-europe-iran/>
+
+---
+
+## Pope Leo XIV to spend summer holidays in Castel Gandolfo
+
+date: 2025-06-17, from: Vatican News
+
+
+                    <p>Pope Leo XIV will spend half of July and a weekend in August at the papal residence in Castel Gandolfo, near Rome, celebrating Sunday Mass in local churches and praying the Angelus with pilgrims in the town's Liberty Square.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-to-spend-some-summer-holidays-in-castel-gandolfo.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-to-spend-some-summer-holidays-in-castel-gandolfo.html>
+
+---
+
+## Nigerian Church grateful for Pope Leo XIV’s support and prayers over killings in Benue State
+
+date: 2025-06-17, from: Vatican News
+
+
+                    <p>An editorial for the Nigerian Catholic Network, written by Church authorities at the Catholic Secretariat of Nigeria, Abuja, has commended Pope Leo XIV for his prompt message, “condemning the evil visited on the people and praying for their souls.” According to the editorial, the Nigerian Church appreciates the Pope’s closeness to Nigeria over the killings in Benue State. They, however, sharply criticised the silence, inaction, and how Nigerian authorities often handle these matters.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-06/nigerian-church-grateful-for-pope-leo-xiv-s-support-and-prayers.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-06/nigerian-church-grateful-for-pope-leo-xiv-s-support-and-prayers.html>
+
+---
+
+## Trump says won't call Minnesota governor after shooting
+
+date: 2025-06-17, from: RTÉ News
+
+US President Donald Trump has said he did not plan to call Minnesota Governor Tim Walz, the Democratic vice presidential nominee in 2024, after a weekend shooting left one of the state's Democratic politicians dead and another injured. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0617/1518882-trump-minnesota/>
+
+---
+
+## US bishops urge international community to work for peace
+
+date: 2025-06-17, from: Vatican News
+
+
+                    <p>As mutual attacks between Israel and Iran continue for the fifth straight day, the Bishops of the United States call on their own country, and the wider international community, to engage in diplomatic efforts to promote peace in the Middle East. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/usccb-appeal-for-peace-through-dialogue-in-middle-east.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/usccb-appeal-for-peace-through-dialogue-in-middle-east.html>
+
+---
+
+## Israel, Iran trade blows as air war rages into fifth day
+
+date: 2025-06-17, from: RTÉ News
+
+Israel has said it targeted military sites in Iran and killed a senior commander in fresh strikes, prompting Tehran to fire missiles in retaliation on the fifth day of escalating clashes. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0617/1518877-israel-iran/>
+
+---
+
+## Girls in Green to return to Aviva for Belgium play-off
+
+date: 2025-06-17, from: RTÉ News
+
+The Republic of Ireland will play the first leg of their UEFA Nations League promotion/relegation play-off against Belgium at Aviva Stadium on Friday 24 October. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0617/1518864-girls-in-green-to-return-to-aviva-for-belgium-play-off/>
+
+---
+
+## 'We transmit the faith with Jesus at the center,' Pope Leo XIV tells Italian Bishops
+
+date: 2025-06-17, from: Vatican News
+
+
+                    <p>Pope Leo XIV invites Italy's Bishops to embrace their primary responsibility of proclaiming and transmitting the faith, while always keeping Christ at the forefront, urging them to cultivate peace and work together.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-encourages-italy-bishops-in-faith-cei-italian.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-encourages-italy-bishops-in-faith-cei-italian.html>
+
+---
+
+## Israeli tank shelling kills 51 waiting on Gaza aid trucks
+
+date: 2025-06-17, from: RTÉ News
+
+Israeli tank shellfire killed at least 51 people as they awaited aid trucks in Khan Younis in southern Gaza, the territory's Hamas-run health ministry said, adding that dozens of others were wounded. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0617/1518862-israel-gaza/>
+
+---
+
+## TV's 'Queen of Clean' Kim Woodburn dies aged 83
+
+date: 2025-06-17, from: RTÉ News
+
+Television star Kim Woodburn, best known for presenting How Clean Is Your House? and her appearance on Celebrity Big Brother, has died after a short illness, her representative has confirmed. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0617/1518851-tv-personality-kim-woodburn-has-died-aged-83/>
+
+---
+
+## Church in Myanmar warns of civilian suffering, thanks Pope for support
+
+date: 2025-06-17, from: Vatican News
+
+
+                    <p>Catholic leaders in Myanmar have welcomed Pope Leo XIV’s renewed appeal for peace, as violence and displacement continue to devastate communities in conflict-affected regions, particularly in the north-central Sagaing area.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/myanmar-mandalay-vicar-apostolic-thanks-pope-leo-support.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/myanmar-mandalay-vicar-apostolic-thanks-pope-leo-support.html>
+
+---
+
+## Zimbabwe: Poor Clare Sisters offer contemplative prayer as comfort to many
+
+date: 2025-06-17, from: Vatican News
+
+
+                    <p>Though cloistered and largely unseen, the Poor Clare Sisters in Zimbabwe quietly shape the lives of those around them through hours of contemplative prayer.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/sisters-project-132-zimbabwe-poor-clare-cloistered-nuns-prayer.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/sisters-project-132-zimbabwe-poor-clare-cloistered-nuns-prayer.html>
+
+---
+
+## Sacred Family of Nazareth Sisters in Žytomyr: Shelter, prayer, hope amid war
+
+date: 2025-06-17, from: Vatican News
+
+
+                    <p>Three religious sisters from the Congregation of the Holy Family of Nazareth run a kindergarten and a family assistance centre in the Ukrainian city of Žytomyr, meeting the needs of the local community affected by the war. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/sisters-project-128-sacred-family-nazareth-zytomyr-ukraine.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/sisters-project-128-sacred-family-nazareth-zytomyr-ukraine.html>
+
+---
+
+## Palantir's big data, AI long game
+
+date: 2025-06-17, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.4111252.1494538004!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/alex-karp-palantir-technologies.jpg' alt='' width='620' height='349' title='SUN VALLEY, ID - JULY 08:  Alexander Karp, chief executive officer and co-founder of Palantir Technologies Inc., attends the Allen &amp; Company Sun Valley Conference on July 7, 2015 in Sun Valley, Idaho. Many of the worlds wealthiest and most powerful business people from media, finance, and technology attend the annual week-long conference which is in its 33nd year.  (Photo by Scott Olson/Getty Images)'/><p>Palantir’s technology has been used by everyone from the CIA and Mossad to Airbus and Morgan Stanley. The multi-billion dollar big data software company is at the centre of many of the major issues of our time.</p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/frontburner/palantir-s-big-data-ai-long-game-1.7562902?cmp=rss>
+
+---
+
+## Paul Murphy returning to Ireland after Egypt detention
+
+date: 2025-06-17, from: RTÉ News
+
+People Before Profit TD Paul Murphy, who was detained twice in Egypt while participating in the Global March to Gaza, will return to Ireland today. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0617/1518845-paul-murphy/>
+
+---
+
+## 'Real gentleman' - Irish man killed in UK remembered
+
+date: 2025-06-17, from: RTÉ News
+
+The family of an 87-year-old Irish man who died after he was attacked while walking home in north London last month have described him as a "real gentleman". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0617/1518800-john-mackey-london/>
+
+---
+
+## Children at risk of poor outcomes denied rights - report
+
+date: 2025-06-17, from: RTÉ News
+
+Children most at risk of poor outcomes in care, education, housing, disability and mental health services, continue to be denied their rights, according to new research. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0617/1518833-children-at-risk-of-poor-outcomes-denied-rights-report/>
+
+---
+
+## Australian mushroom murder suspect told 'lies upon lies'
+
+date: 2025-06-17, from: RTÉ News
+
+An Australian woman told "lies upon lies" to cover up her murder of three lunch guests with a toxic mushroom-laced dish, the lead prosecutor has said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0617/1518835-erin-patterson-court/>
+
+---
+
+## Organ opt-out law 'changing the narrative', says Tinsley
+
+date: 2025-06-17, from: RTÉ News
+
+The soft opt-out organ donation law "is changing the narrative around how we think about organ donation", campaigner Orla Tinsley has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0617/1518829-organ-donation/>
+
+---
+
+## State sells its final AIB shares for €305m
+
+date: 2025-06-17, from: RTÉ News
+
+The State has sold its remaining shares in AIB, Minister for Finance Paschal Donohoe has said. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0617/1518828-state-sells-last-stake-in-aib/>
+
+---
+
+## Iran strikes Israel as loud explosions heard in Tehran
+
+date: 2025-06-17, from: RTÉ News
+
+Follow live developments as Iran and Israel exchange heavy strikes for a fifth day. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0617/1518823-iran-israel/>
+
+---
+
+## Russian strikes in Kyiv kill at least 14 people
+
+date: 2025-06-17, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7563069.1750152927!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-kyiv.JPG' alt='A cityscape is shown of residential buildings, with large black smoke above it.' width='620' height='349' title='Smoke rises over the city after a Russian missile and drone strike, amid Russia&apos;s attack on Ukraine, in Kyiv, Ukraine June 17, 2025.  '/><p>Russia launched hundreds of drones and dozens of missiles at Ukraine on Tuesday, hitting dozens of civilian targets in Kyiv including a large apartment block, killing at least 15 people and wounding scores, Ukrainian officials said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/russia-ukraine-kyiv-missile-strike-1.7563068?cmp=rss>
+
+---
+
+## Ukraine says at least 15 killed in Russian attacks
+
+date: 2025-06-17, from: RTÉ News
+
+Russia launched hundreds of drones and dozens of missiles at Ukraine overnight, hitting dozens of civilian targets in Kyiv including a large apartment block, killing at least 15 people and wounding dozens, Ukrainian officials said. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0617/1518820-ukraine-russia/>
+
+---
+
+## How has the handling of Iran's nuclear programme changed?
+
+date: 2025-06-17, from: RTÉ News
+
+For decades, the international community has wrung its hands over Iran's nuclear programme, fretting over the Islamic dictatorship's potential to build a bomb. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0617/1518817-iran-murray-analysis/>
+
+---
+
+## Interest in news among Irish adults remains high - report
+
+date: 2025-06-17, from: RTÉ News
+
+The annual Digital News Report for Ireland 2025 shows that at 56%, more than half the adult population in Ireland, is "extremely" or "very interested" in news. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0617/1518786-digital-news-report/>
+
+---
+
+## Eager to become a space superpower, India is sending its 1st astronaut to space in 4 decades
+
+date: 2025-06-17, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7558132.1749651267!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/spacex-private-astronauts.jpg' alt='Three men and a woman in matching dark blue uniforms in a portrait photo.' width='620' height='349' title='This photo provided by Axiom Space shows Shubhanshu Shukla from India, Peggy Whitson from the U.S., Slawosz Uznanski-Wisniewski from Poland and Tibor Kapu from Hungary. (Axiom Space via AP)'/><p>Houston-based Axiom Space is preparing to launch four astronauts into space this Thursday. It's a mission that is emblematic of a new era in space exploration that has India and other countries with national space agencies hitching rides with commercial companies rather than spending time and money building their own rockets.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/india-space-axiom-1.7558086?cmp=rss>
+
+---
+
+## Moscow calls G7 'useless', agrees its expulsion a mistake
+
+date: 2025-06-17, from: RTÉ News
+
+The Kremlin has said that US President Donald Trump was right to assert that it had been a big mistake to expel Russia from the Group of Eight in 2014, but that the G7 was no longer significant for Russia and looked "rather useless" now. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0617/1518814-g7-canada/>
+
+---
+
+## Doctor charged in Perry overdose case to plead guilty
+
+date: 2025-06-16, from: RTÉ News
+
+The main doctor charged in connection with the drug overdose of actor Matthew Perry is expected to enter a guilty plea in the coming weeks, the US Justice Department has said. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0617/1518813-matthew-perry/>
+
+---
+
+## Over 1,000 artefacts recovered during fort excavation
+
+date: 2025-06-16, from: RTÉ News
+
+More than 1,000 historical artefacts have been recorded during a three-week excavation of a 17th Century fort in Co Sligo led by ATU archaeologists. 
+
+<br> 
+
+<https://www.rte.ie/news/connacht/2025/0617/1518810-sligo-fort/>
+
+---
+
+## Rent Pressure Zone legislation could pass this week
+
+date: 2025-06-16, from: RTÉ News
+
+Minister for Housing James Browne says he is "very confident" that legislation expanding rent pressure zones across the country will be passed this week. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0617/1518803-ireland-politics/>
+
+---
+
+## Schools urged to use generic uniform items
+
+date: 2025-06-16, from: RTÉ News
+
+The State watchdog for competition has warned schools that their back-to-school arrangements could harm competition and increase costs for families. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0617/1518763-schools-uniforms/>
+
+---
+
+## Minimum standard of living costs up almost 20% since 2020
+
+date: 2025-06-16, from: RTÉ News
+
+Essential minimum living costs increased by 1.8% in the past year with a cumulative increase of 18.8% nationally since 2020. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0617/1518808-standard-of-living-costs/>
 
 ---
 
@@ -42,6 +526,18 @@ A French woman has been arrested in Iceland after her husband and daughter were 
 <br> 
 
 <https://www.rte.ie/news/europe/2025/0616/1518781-iceland-deaths/>
+
+---
+
+## Doctor charged with giving Friends star Matthew Perry ketamine agrees to plead guilty
+
+date: 2025-06-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7562827.1750110876!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/matthew-perry.jpg' alt='A smiling man is shown from the shoulders up. He has glasses and is wearing a black blazer. ' width='620' height='349' title='FILE - Matthew Perry appears at the GQ Men of the Year Party in West Hollywood, Calif., on Nov. 17, 2022. (Photo by Willy Sanjuan/Invision/AP, File)'/><p>Dr. Salvador Plasencia, who is charged with giving Matthew Perry ketamine in the months leading up to the Friends star's overdose death, has agreed to plead guilty to four counts of distribution of ketamine, authorities said Monday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/matthew-perry-doctor-charged-1.7562820?cmp=rss>
 
 ---
 
@@ -85,6 +581,30 @@ The State is to sell off its remaining shareholding in AIB tomorrow.
 
 ---
 
+## Trump Organization launches mobile service, touting a $499 phone
+
+date: 2025-06-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7562720.1750105967!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-org.JPG' alt='Man walks in front of screen that reads &apos;Trump Mobile&apos; ' width='620' height='349' title='A person walks in front of a screen at the end of a media event at Trump Tower in New York City, U.S., June 16, 2025. REUTERS/Eduardo Munoz'/><p>U.S. President Donald Trump's family business licensed its name to launch a mobile service in the United States and a $499 US smartphone.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-mobile-phone-service-1.7562631?cmp=rss>
+
+---
+
+## 2 different plane crash survivors say they sat in seat 11A — does where you sit actually matter?
+
+date: 2025-06-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7562549.1750098769!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/seat11a.jpg' alt='A composite image of two plane crashes' width='620' height='349' title='A composite image of two plane crashes. On the left, a fire officer stands next to the crashed Air India Boeing 787-8 Dreamliner aircraft, in Ahmedabad, India, June 13, 2025. On the right, rescue workers sift through the debris of a Thai Airways Airbus A310 Dec. 12, 1998, after the plane crashed in Surat Thani the night before.'/><p>Two different survivors of deadly plane crashes decades apart say they both sat in seat 11A. Is there something that makes that seat safter than others? Not according to aviation and disaster medicine experts.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/plane-crash-survivor-seat-1.7562120?cmp=rss>
+
+---
+
 ## Judge dismisses former Cork hurler's drink driving case
 
 date: 2025-06-16, from: RTÉ News
@@ -94,6 +614,18 @@ The two-time All-Star hurler, Anthony Nash, asked a garda "do you know who I am?
 <br> 
 
 <https://www.rte.ie/news/munster/2025/0616/1518765-cork-district-court-anthony-nash/>
+
+---
+
+## 'Delete social media' - Sexton's advice to Irish 10s
+
+date: 2025-06-16, from: RTÉ News
+
+It's been eight months since Johnny Sexton made his move into coaching, so as the former Ireland and Leinster captain sat down for the first media duties, there was a lot to get through. 
+
+<br> 
+
+<https://www.rte.ie/sport/rugby/2025/0616/1518770-delete-social-media-sextons-advice-to-irish-10s/>
 
 ---
 
@@ -145,11 +677,11 @@ A Central Statistics Office survey has found 22% of people aged 18 or over say t
 
 ---
 
-## Accused in Minnesota shooting of lawmakers went to homes of 2 other politicians
+## Accused in fatal Minnesota shooting went to homes of 2 other lawmakers
 
 date: 2025-06-16, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7561495.1749913921!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/minnesota-lawmakers-shot.jpg' alt='POLICE OUTSIDE HOME' width='620' height='349' title='Law enforcement officers including local police, sheriffs and the FBI, stage less than a mile from a shooting in Brooklyn Park, Minn. on Saturday, June 14, 2025.'/><p>The suspect in the shooting of two Minnesota state lawmakers went to the homes of two other legislators on the night of the shootings with the intention of targeting them, federal prosecutors said.</p> 
+<img src='https://i.cbc.ca/1.7561495.1749913921!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/minnesota-lawmakers-shot.jpg' alt='POLICE OUTSIDE HOME' width='620' height='349' title='Law enforcement officers including local police, sheriffs and the FBI, stage less than a mile from a shooting in Brooklyn Park, Minn. on Saturday, June 14, 2025.'/><p>The man accused of shooting two Minnesota state lawmakers went to the homes of two other legislators on the night of the shootings with the intention of targeting them, federal prosecutors said.</p> 
 
 <br> 
 
@@ -329,6 +861,30 @@ Facing the most severe funding shortfall in the history of humanitarian aid, UN 
 
 ---
 
+## From Himalayan melt to drowning shores, children lead the climate fight
+
+date: 2025-06-16, from: United Nations, Climate Change
+
+From the high Himalayas down to sea level, climate change is no longer a distant threat for children in Nepal and the Maldives – it is a daily struggle: landslides tear through mountain villages washing away homes and farms, while rising seas surge over island shorelines, threatening to swallow entire communities. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164456>
+
+---
+
+## DR Congo: Human rights violations could amount to war crimes, UN experts say
+
+date: 2025-06-16, from: United Nations, Top Stories
+
+In the eastern Democratic Republic of the Congo (DRC), Rwandan-backed rebels, Congolese troops, and allied militias have all committed human rights abuses, some possibly amounting to war crimes, the UN&nbsp;High Commissioner for Human Rights said in Geneva on Monday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164466>
+
+---
+
 ## Abuse victim obtains settlement over MI5 agent claims
 
 date: 2025-06-16, from: RTÉ News
@@ -389,6 +945,18 @@ A confidential, internal report into a children's hospital in Dublin uncovered "
 
 ---
 
+## Shelbourne paired with Linfield in Champions League
+
+date: 2025-06-16, from: RTÉ News
+
+Shelbourne will play Linfield in the first round of Champions League qualifying. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0616/1518700-all-you-need-to-know-irish-clubs-enter-european-draws/>
+
+---
+
 ## Pope Leo: May Blessed Floribert Bwana Chui inspire peace in Africa
 
 date: 2025-06-16, from: Vatican News
@@ -429,22 +997,6 @@ Gaza's civil defence agency said Israeli troops have killed 20 people waiting to
 
 ---
 
-## Exploring the cosmos fills us with wonder, Pope tells scientists
-
-date: 2025-06-16, from: Vatican News
-
-
-                    <p>Pope Leo XIV receives participants in the Vatican Observatory’s Summer School program, inviting them to share the joy they experience in exploring the cosmos and to contribute to a more peaceful and just world through the pursuit of knowledge.</p>
-                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/exploring-the-cosmos-fills-us-with-wonder-pope-tells-scientists.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/pope/news/2025-06/exploring-the-cosmos-fills-us-with-wonder-pope-tells-scientists.html>
-
----
-
 ## Areas in Dublin and Cork 'seriously littered' - IBAL
 
 date: 2025-06-16, from: RTÉ News
@@ -466,6 +1018,18 @@ date: 2025-06-16, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/louvre-closed-overtourism-1.7562138?cmp=rss>
+
+---
+
+## Exploring the cosmos fills us with wonder, Pope tells scientists – Vatican News
+
+date: 2025-06-16, from: Vatican Obervatory
+
+Pope Leo XIV receives participants in the Vatican Observatory’s Summer School program, inviting them to share the joy they experience in exploring the cosmos... 
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/exploring-the-cosmos-fills-us-with-wonder-pope-tells-scientists.html>
 
 ---
 
@@ -569,7 +1133,7 @@ Preliminary works to enable the excavation of the former mother-and-baby home in
 
 ---
 
-## Iran launches new wave of aerial attacks against Israel
+## As it happened: Iran and Israel exchange heavy strikes
 
 date: 2025-06-16, from: RTÉ News
 

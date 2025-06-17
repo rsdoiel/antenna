@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-06-16 14:07:08
+updated: 2025-06-17 06:09:26
 ---
 
 # libraries
 
-(date: 2025-06-16 14:07:08)
+(date: 2025-06-17 06:09:26)
+
+---
+
+## Editing in the Age of Misinformation: A Report on the 2025 EASE Conference
+
+date: 2025-06-17, from: Scholarly Kitchen
+
+<p>In today's post, three Scholarly Kitchen Chefs -- Haseeb Irfanullah, Phill Jones, and Alice Meadows -- report on the recent European Association of Science Editors (EASE) Conference (Oslo, May 14-16). </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/06/17/editing-in-the-age-of-misinformation-a-report-on-the-2025-ease-conference/">Editing in the Age of Misinformation: A Report on the 2025 EASE Conference</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/06/17/editing-in-the-age-of-misinformation-a-report-on-the-2025-ease-conference/>
+
+---
+
+## Efficient ferrimagnetic domain-wall motion and its inertia induced by nonadiabatic spin-transfer torque
+
+date: 2025-06-17, from: ETH Zurich, recently added
+
+Wu, Mingxing 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/740603>
 
 ---
 

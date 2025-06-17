@@ -1,78 +1,41 @@
 ---
 title: columns
-updated: 2025-06-16 14:07:06
+updated: 2025-06-17 06:09:23
 ---
 
 # columns
 
-(date: 2025-06-16 14:07:06)
+(date: 2025-06-17 06:09:23)
 
 ---
 
-## Food reviews during the federal occupation of LA
+**@Dave Winer's Scripting News** (date: 2025-06-17, from: Dave Winer's Scripting News)
 
-date: 2025-06-16, from: Matt Haughey blog
-
-<p>There&apos;s <a href="https://www.youtube.com/@bemorton?ref=a.wholelottanothing.org" rel="noreferrer">a guy I&apos;ve been following on YouTube</a> for his food reviews in and around LA for the past year or two. He exclusively takes public transit to get from place to place, so I also love the bonus reviews of Metro trains and buses as</p> 
+Podcast: <a href="https://shownotes.scripting.com/scripting/2025/06/17/holdYourNoseAndVoteForCuomo.html">Hold your nose and vote for Cuomo</a>. 
 
 <br> 
 
-<https://a.wholelottanothing.org/food-reviews-during-the-federal-occupation-of-la/>
+<http://scripting.com/2025/06/17.html#a120750>
 
 ---
 
-## June 15, 2025
+## Where AI Provides Value
 
-date: 2025-06-16, from: Heather Cox Richardson blog
+date: 2025-06-17, updated: 2025-06-17, from: Bruce Schneier blog
 
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166100088/15080038f7663112a198f8cb990df0e3.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/166100088/15080038f7663112a198f8cb990df0e3.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/june-15-2025-d16>
-
----
-
-## How I use Glow Blogs in my classroom
-
-date: 2025-06-16, from: John's World Wide Wall Display
-
-As I approach my retirement from class teaching, I thought it might be worth making some notes about how I use Glow Blogs in that role. I&#8217;ve been using blogs in class since 2024. A lot of what follows is obvious stuff but there may be a nugget or two. Class Blog My current class [&#8230;] 
+<p>If you&#8217;ve worried that AI might take your job, deprive you of your livelihood, or maybe even replace your role in society, it probably feels good to see the latest AI tools fail spectacularly. If AI recommends <a href="https://www.theverge.com/2024/5/23/24162896/google-ai-overview-hallucinations-glue-in-pizza">glue as a pizza topping</a>, then you&#8217;re safe for another day.</p>
+<p>But the fact remains that AI already has definite advantages over even the most skilled humans, and knowing where these advantages arise&#8212;and where they don&#8217;t&#8212;will be key to adapting to the AI-infused workforce.</p>
+<p>AI will often not be as effective as a human doing the same job. It won&#8217;t always know more or be more accurate. And it definitely won&#8217;t always be fairer or more reliable. But it may still be used whenever it has an advantage over humans in one of four dimensions: speed, scale, scope and sophistication. Understanding these dimensions is the key to understanding AI-human replacement...</p> 
 
 <br> 
 
-<https://johnjohnston.info/blog/how-i-use-glow-blogs-in-my-classroom/>
-
----
-
-## LibreOffice adds voice to 'ditch Windows for Linux' campaign
-
-date: 2025-06-16, updated: 2025-06-16, from: Liam Proven's articles at the Register
-
-<h4>Next version to drop Windows 7 through 8.1, and 32-bit Windows support is on the way out, too</h4>
-      <p>The LibreOffice project is preparing to cut some Windows support – and encourages users to switch to Linux.</p> 
-
-<br> 
-
-<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/16/libreoffice_ditch_windows/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-06-16, from: Dave Winer's Scripting News)
-
-<a href="https://daveverse.org/2025/06/16/linkblogging-in-wordland-preview/">Progress report</a> on linkblogging in WordLand. 
-
-<br> 
-
-<http://scripting.com/2025/06/16.html#a155901>
+<https://www.schneier.com/blog/archives/2025/06/where-ai-provides-value.html>
 
 ---
 
 ## 2025-06-16 Ban autonomous systems
 
-date: 2025-06-16, from: Alex Schroeder's Blog
+date: 2025-06-17, from: Alex Schroeder's Blog
 
 <h1 id="2025-06-16-ban-autonomous-systems">2025-06-16 Ban autonomous systems</h1>
 
@@ -81,6 +44,10 @@ date: 2025-06-16, from: Alex Schroeder's Blog
 <p>Now, since these hosting providers also host nice things like other fediverse instances, I don&rsquo;t want to block them forever. I want to block them for 10min, and if they continue after a few of these shorter blocks, I want to block them for a week. Hopefully, their clients have ended their Internet slurping and things are back to normal. This is how fail2ban works, but only for individual IP numbers.</p>
 
 <p>I want code that bridges this gap.</p>
+
+<p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p>
+
+<h2 id="where-to-start">Where to start</h2>
 
 <p><a href="github.com/WKnak/fail2ban-bloc">fail2ban-bloc</a> tries to guess (!) IP ranges and bans those using fail2ban. I need to investigate more.</p>
 
@@ -280,15 +247,254 @@ end
 <p>I should check whether this actually works! Let&rsquo;s see whether the ban gets lifted after 24h. That&rsquo;s the main point of this exercise!</p>
 
 <p><code>asn-ban</code> uses the <code>ip.guide</code> site for the data. This should be rewritten such that it uses the same data as <code>asncounter</code>.
-I guess that would be <a href="https://github.com/hadiasghari/pyasn">pyasn</a>.</p>
+I guess that would be <a href="https://github.com/hadiasghari/pyasn">pyasn</a>.
+See below!</p>
 
 <p>I need a cron job that runs every 10 minutes, takes the last ten minutes worth of Apache access log files, ignores the fedi subdomain, identifies all the ASNs, ignores my own ASNs and bans the rest.</p>
 
-<p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p> 
+<h2 id="some-bans">Some bans</h2>
+
+<p>Wow, some of the autonomous systems are big.
+These are the ones I banned yesterday and today:</p>
+
+<pre><code># AMAZON-02, US (18772!)
+asn-ban 16509|sh
+# VNPT-AS-VN VNPT Corp, VN (3640!)
+asn-ban 45899 | sh
+# TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN (2278!)
+asn-ban 45090|sh
+# ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN (852!)
+asn-ban 45102 | sh
+# FACEBOOK, US (541!)
+asn-ban 32934|sh
+# SEMRUSH-AS, CY (5!)
+asn-ban 209366|sh
+</code></pre>
+
+<h2 id="using-pyasn-data-files-from-the-command-line">Using <code>pyasn</code> data files from the command-line</h2>
+
+<p>How to determine the name of an autonomous system number:</p>
+
+<pre><code>jq --raw-output '.[&quot;32934&quot;]' .cache/pyasn/asnames.json
+FACEBOOK, US
+</code></pre>
+
+<p>How to determine the networks for an ASN:</p>
+
+<pre><code>zgrep '209366$' .cache/pyasn/ipasn_20250616.1200.dat.gz | awk '{print $1}'
+85.208.96.0/24
+85.208.97.0/24
+85.208.99.0/24
+185.170.167.0/24
+185.191.171.0/24
+</code></pre>
+
+<p>How to determine the ASN of a CIDR:</p>
+
+<pre><code>zgrep '^85\.208\.96\.0/24' .cache/pyasn/ipasn_20250616.1200.dat.gz | awk '{print $2}'
+209366
+</code></pre>
+
+<h2 id="asn-networks-without-an-external-service">ASN networks without an external service</h2>
+
+<p><a href="/admin/asn-networks">asn-networks</a> is a tiny script with a bunch of lines taken from <code>asncounter</code> to print the IP ranges managed by one or more autonomous systems.</p>
+
+<pre><code>python3 asn-ban 209366
+185.170.167.0/24
+185.191.171.0/24
+85.208.96.0/24
+85.208.97.0/24
+85.208.99.0/24
+</code></pre>
+
+<p>It uses the <code>pyasn</code> datafiles that a regular run of <code>asncounter</code> has downloaded.
+That is to say, <code>asn-networks</code> does not download or refresh these files.
+I&rsquo;m assuming that you have run <code>asncounter</code> just moments earlier.</p>
+
+<p>Given this script, we can now call <code>fail2ban-client</code> as follows (I use fish) to ban all the networks:</p>
+
+<pre><code>fail2ban-client set butlerian-jihad banip (asn-networks 209366)
+5
+</code></pre>
+
+<p>Unbanning works the same way:</p>
+
+<pre><code>fail2ban-client set butlerian-jihad unbanip (asn-networks 209366)
+5
+</code></pre>
+
+<p>Remember that <code>fail2ban-client</code> prints the number of IP numbers or ranges added or removed.</p>
+
+<h2 id="identifying-suspicious-asn">Identifying suspicious ASN</h2>
+
+<p>What is suspicious activity? How about this: In a 2h window, no ASN should send more than 1000 requests? So we need a script that filters the log files and prints a 2h window, skipping the lines we want to ignore: <a href="/admin/2h-access-log">2h-access-log</a>. Then pass the IP numbers to <code>asncounter</code>, throw away all the things we don&rsquo;t care about and just print the appropriate lines:</p>
+
+<pre><code>bin/2h-access-log !^social \
+| awk '{print $2}' \
+| bin/asncounter --no-prefixes 2&gt;/dev/null \
+| awk '/^[0-9]/ &amp;&amp; $1&gt;1000  { print }'
+3062	31.93	24940	HETZNER-AS, DE
+1642	17.12	16276	OVH, FR
+</code></pre>
+
+<p>So do I dare ban those numbers?? I&rsquo;m not sure!
+I should figure out a way to find those 3062 requests made by services hosted on Hetzner.</p>
+
+<p><a href="/admin/asn-access-log">asn-access-log</a> does just that. You pass it an ASN, it determines all the networks it manages and then it filters standard input, assuming that it consists of Apache access log lines (what counts is that the second field is an IP number).</p>
+
+<pre><code>bin/2h-access-log !^social | bin/asn-access-log 24940
+</code></pre>
+
+<p>I see a lot of RSS services (NewsBlur, fiperbot, MyNewspaper Agent, FreshRSS), git, some bot (from the 159.69.0.0/16 range, for example), and on and on. Ugh. It&rsquo;s not easy to know what to do!</p> 
 
 <br> 
 
 <https://alexschroeder.ch/view/2025-06-16-ban-asn>
+
+---
+
+## The Democrats’ “Great Un-awokening” is a Giant Political Diversion
+
+date: 2025-06-17, from: Robert Reich's blog
+
+Democrats should not play on Republican turf 
+
+<br> 
+
+<https://robertreich.substack.com/p/where-the-hell-is-the-moderate-middle>
+
+---
+
+## June 16, 2025 
+
+date: 2025-06-17, from: Heather Cox Richardson blog
+
+At a news conference today, acting U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-16-2025>
+
+---
+
+## WhatsApp Introduces Ads in Its App
+
+date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2025/06/16/technology/whatsapp-ads.html?unlocked_article_code=1.PU8.G1Jy.5fcLP_rl3lYC>
+
+---
+
+## Trump Mobile — The President Launches a Mobile Carrier and a $500 ‘T1’ Android Phone
+
+date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://variety.com/2025/biz/news/trump-mobile-wireless-phone-service-launch-1236431690/?ref=platformer.news>
+
+---
+
+## [Sponsor] Drata
+
+date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://drata.com/daring>
+
+---
+
+## Okay to Stay?
+
+date: 2025-06-16, from: Dan Rather's Steady
+
+For many undocumented immigrants, a surprise reprieve 
+
+<br> 
+
+<https://steady.substack.com/p/okay-to-stay>
+
+---
+
+## The Most Regressive Bill in, well, History
+
+date: 2025-06-16, from: Robert Reich's blog
+
+Trump Republicans want to take from the poor and working class and give to the rich 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-most-regressive-bill-in-well>
+
+---
+
+## Food reviews during the federal occupation of LA
+
+date: 2025-06-16, from: Matt Haughey blog
+
+<p>There&apos;s <a href="https://www.youtube.com/@bemorton?ref=a.wholelottanothing.org" rel="noreferrer">a guy I&apos;ve been following on YouTube</a> for his food reviews in and around LA for the past year or two. He exclusively takes public transit to get from place to place, so I also love the bonus reviews of Metro trains and buses as</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/food-reviews-during-the-federal-occupation-of-la/>
+
+---
+
+## June 15, 2025
+
+date: 2025-06-16, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166100088/15080038f7663112a198f8cb990df0e3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166100088/15080038f7663112a198f8cb990df0e3.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-15-2025-d16>
+
+---
+
+## How I use Glow Blogs in my classroom
+
+date: 2025-06-16, from: John's World Wide Wall Display
+
+As I approach my retirement from class teaching, I thought it might be worth making some notes about how I use Glow Blogs in that role. I&#8217;ve been using blogs in class since 2024. A lot of what follows is obvious stuff but there may be a nugget or two. Class Blog My current class [&#8230;] 
+
+<br> 
+
+<https://johnjohnston.info/blog/how-i-use-glow-blogs-in-my-classroom/>
+
+---
+
+## LibreOffice adds voice to 'ditch Windows for Linux' campaign
+
+date: 2025-06-16, updated: 2025-06-16, from: Liam Proven's articles at the Register
+
+<h4>Next version to drop Windows 7 through 8.1, and 32-bit Windows support is on the way out, too</h4>
+      <p>The LibreOffice project is preparing to cut some Windows support – and encourages users to switch to Linux.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/16/libreoffice_ditch_windows/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-16, from: Dave Winer's Scripting News)
+
+<a href="https://daveverse.org/2025/06/16/linkblogging-in-wordland-preview/">Progress report</a> on linkblogging in WordLand. 
+
+<br> 
+
+<http://scripting.com/2025/06/16.html#a155901>
 
 ---
 
@@ -308,7 +514,7 @@ As I read it (in an English translation here), an appeals court in Brussels rule
 
 date: 2025-06-16, from: Doc Searls (at Harvard), New Old Blog
 
-Looks real enough. Under the title Goodbye, Starlink? the headline says China Just Launched a $20 Billion Satellite Swarm — And Elon Might Be Toast, followed by this subhead: Huawei’s 6G Quantum-Crypted Meganet vs. Starlink Isn’t Just a Tech Battle. It’s a Global Internet War. The original is paywalled here at Medium, but you can read [&#8230;] 
+Trying on times. I like shoes I can slip on, because bending over to use my bent arthritic fingers as shoe horns is painful. So is tying laces. (Oddly, typing on a keyboard isn&#39;t painful, so that&#39;s a counted blessing of one.) The ones I&#39;m wearing now are beat-up Sketchers that I bought at a [&#8230;] 
 
 <br> 
 

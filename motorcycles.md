@@ -1,11 +1,71 @@
 ---
 title: motorcycles
-updated: 2025-06-16 14:07:09
+updated: 2025-06-17 06:09:27
 ---
 
 # motorcycles
 
-(date: 2025-06-16 14:07:09)
+(date: 2025-06-17 06:09:27)
+
+---
+
+## This Custom Honda Is Just One Of A Stellar Slew Of GB350S You Can Vote On
+
+date: 2025-06-17, from: Ride Apart, Electric Motorcycle News
+
+Call me a werewolf, because I do believe I've just been slayed by this one. 
+
+<br> 
+
+<https://www.rideapart.com/news/762723/honda-gb350s-custom-contest-2025/>
+
+---
+
+## How Much More Power Can Simple Mods Bring To Your Sportbike?
+
+date: 2025-06-17, from: Ride Apart, Electric Motorcycle News
+
+It's not just about power; it's about smooth delivery of that power, too. 
+
+<br> 
+
+<https://www.rideapart.com/news/762886/kawasaki-ninja-400-graves-modifications-video/>
+
+---
+
+## Watch a Massive Fire Engulf a Motorcycle Parking Lot in China’s Chongqing
+
+date: 2025-06-17, from: Ride Apart, Electric Motorcycle News
+
+But the cause is still unknown. 
+
+<br> 
+
+<https://www.rideapart.com/news/762580/china-fire-motorcycle-parking-lot/>
+
+---
+
+## Ural Thinks You Want A More Affordable ADV Sidecar. Do You?
+
+date: 2025-06-17, from: Ride Apart, Electric Motorcycle News
+
+What if your manic pixie dream chair didn't have to cost so much? 
+
+<br> 
+
+<https://www.rideapart.com/news/762720/ural-neo-500-budget-sidecar/>
+
+---
+
+## This Is Not A Car, and Not A Motorcycle, But Is It a Secret Third Thing?
+
+date: 2025-06-17, from: Ride Apart, Electric Motorcycle News
+
+The BMW C1 walked so the Aemotion could run. Maybe? 
+
+<br> 
+
+<https://www.rideapart.com/news/762892/aemotion-quadricycle-microcar-design-france/>
 
 ---
 

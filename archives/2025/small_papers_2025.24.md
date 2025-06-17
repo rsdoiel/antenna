@@ -1,11 +1,26 @@
 ---
 title: small papers
-updated: 2025-06-16 14:07:11
+updated: 2025-06-17 06:09:30
 ---
 
 # small papers
 
-(date: 2025-06-16 14:07:11)
+(date: 2025-06-17 06:09:30)
+
+---
+
+## Youth can get free summer meals in Long Beach while school is out; here’s where
+
+date: 2025-06-16, from: Long Beach Post
+
+<figure><img width="1024" height="681" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1024x681.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1024x681.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-768x511.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1536x1022.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1200x799.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1568x1044.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-400x266.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh.jpg 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Thousands of local kids rely on reduced-price lunches at school every day. Here's where they can still get free, healthy food during the summer.</p>
+<p>The post <a href="https://lbpost.com/news/education/free-summer-meals-lunch-long-beach-locations">Youth can get free summer meals in Long Beach while school is out; here’s where</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/free-summer-meals-lunch-long-beach-locations>
 
 ---
 
@@ -13,7 +28,7 @@ updated: 2025-06-16 14:07:11
 
 date: 2025-06-16, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>California’s main source of homelessness funding would drop from $1 billion last year to $0 this year in the proposed state budget.</p>
 <p>The post <a href="https://lbpost.com/news/homelessness-funding-state-california-budget">Homelessness is top of mind for many Californians. Why does the proposed budget eliminate funding for it?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -58,7 +73,7 @@ date: 2025-06-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-06-15, from: Long Beach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Police are still trying to uncover a motive.</p>
 <p>The post <a href="https://lbpost.com/news/crime/man-fatally-shot-in-west-long-beach-on-saturday-morning-police-say">Man arrested on suspicion of murder in fatal West Long Beach shooting, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

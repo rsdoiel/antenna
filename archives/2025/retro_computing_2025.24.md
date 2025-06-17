@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-06-16 14:07:09
+updated: 2025-06-17 06:09:28
 ---
 
 # retro computing
 
-(date: 2025-06-16 14:07:09)
+(date: 2025-06-17 06:09:28)
+
+---
+
+## June 2025 Rougol report - Hugo Tyson
+
+date: 2025-06-17, from: Icon Bar, RISC OS News
+
+The June 2025 talk featured ex-Acorn engineer Hugo Tyson talking about 'My Time at Acorn'. There was a nice gathering in the room and online. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2212.html>
 
 ---
 
@@ -95,9 +107,9 @@ date: 2025-06-16, from: Low-tech magazine
 </div>
 <div class="article-img ">
 <figure data-imgstate="dither">
-<img src="https://solar.lowtechmagazine.com/2025/06/dressing-and-undressing-the-home/images/dithers/eierdown2_dithered.png" alt='Image: Hanging an eiderdown beneath the roof of the Oskar and Zofia Hansen House in Szumin. Photograph by Michał Matejko, 2020.' loading="lazy"/></figure>
+<img src="https://solar.lowtechmagazine.com/2025/06/dressing-and-undressing-the-home/images/dithers/eierdown2_dithered.png" alt='Image: Hanging an eiderdown beneath the roof of the Oskar and Zofia Hansen House in Szumin. Photograph by Michał Matejko, 2020. Republished with permission.' loading="lazy"/></figure>
 <figcaption class="caption">
- Image: Hanging an eiderdown beneath the roof of the [Oskar and Zofia Hansen House in Szumin](https://www.e-flux.com/architecture/after-comfort/568034/the-clothed-home/). Photograph by Michał Matejko, 2020. 
+ Image: Hanging an eiderdown beneath the roof of the [Oskar and Zofia Hansen House in Szumin](https://www.e-flux.com/architecture/after-comfort/568034/the-clothed-home/). Photograph by [Michał Matejko](https://matejkomichal.com), 2020. Republished with permission. 
 </figcaption>
 </div>
 </div>
@@ -199,12 +211,12 @@ date: 2025-06-16, from: Low-tech magazine
 <blockquote>
 <p>In the 19th and early 20th centuries, European and North American cities were dressed in awnings.</p>
 </blockquote>
-<p>However, awnings and air conditioning can be combined, resulting in a significant decrease in energy consumption. Several studies show that awnings can reduce the energy use of air conditioning systems by one-third to more than one-half of the total, yielding energy savings that surpass those of more expensive double-pane or low-emissivity glazing (which is designed to block UV rays). <sup id="fnref1:8"><a href="#fn:8" class="footnote-ref" role="doc-noteref">8</a></sup><sup id="fnref:31"><a href="#fn:31" class="footnote-ref" role="doc-noteref">31</a></sup><sup id="fnref:32"><a href="#fn:32" class="footnote-ref" role="doc-noteref">32</a></sup><sup id="fnref:33"><a href="#fn:33" class="footnote-ref" role="doc-noteref">33</a></sup><sup id="fnref:34"><a href="#fn:34" class="footnote-ref" role="doc-noteref">34</a></sup><sup id="fnref:35"><a href="#fn:35" class="footnote-ref" role="doc-noteref">35</a></sup><sup id="fnref:36"><a href="#fn:36" class="footnote-ref" role="doc-noteref">36</a></sup><sup id="fnref:37"><a href="#fn:37" class="footnote-ref" role="doc-noteref">37</a></sup> Nowadays, windows are larger than ever, and so awnings can obtain very good results for a relatively small investment.</p>
+<p>Awnings and air conditioning can be combined, resulting in a significant decrease in energy consumption. Several studies show that awnings can reduce the energy use of air conditioning systems by one-third to more than one-half of the total, yielding energy savings that surpass those of more expensive double-pane or low-emissivity glazing (which is designed to block UV rays). <sup id="fnref1:8"><a href="#fn:8" class="footnote-ref" role="doc-noteref">8</a></sup><sup id="fnref:31"><a href="#fn:31" class="footnote-ref" role="doc-noteref">31</a></sup><sup id="fnref:32"><a href="#fn:32" class="footnote-ref" role="doc-noteref">32</a></sup><sup id="fnref:33"><a href="#fn:33" class="footnote-ref" role="doc-noteref">33</a></sup><sup id="fnref:34"><a href="#fn:34" class="footnote-ref" role="doc-noteref">34</a></sup><sup id="fnref:35"><a href="#fn:35" class="footnote-ref" role="doc-noteref">35</a></sup><sup id="fnref:36"><a href="#fn:36" class="footnote-ref" role="doc-noteref">36</a></sup><sup id="fnref:37"><a href="#fn:37" class="footnote-ref" role="doc-noteref">37</a></sup> Nowadays, windows are larger than ever, and so awnings can obtain very good results for a relatively small investment.</p>
 <div class="article-img ">
 <figure data-imgstate="dither">
-<img src="https://solar.lowtechmagazine.com/2025/06/dressing-and-undressing-the-home/images/dithers/toldos-awnings-madrid-1919_dithered.png" alt='Image: A variety of toldos and awnings in a street in Madrid, Spain, in 1919. Image in the public domain.' loading="lazy"/></figure>
+<img src="https://solar.lowtechmagazine.com/2025/06/dressing-and-undressing-the-home/images/dithers/toldos-awnings-madrid-1919_dithered.png" alt='Image: A variety of awnings in a street in Madrid, Spain, in 1919. Image in the public domain.' loading="lazy"/></figure>
 <figcaption class="caption">
- Image: A variety of toldos and awnings in a street in Madrid, Spain, in 1919. Image in the public domain. 
+ Image: A variety of awnings in a street in Madrid, Spain, in 1919. Image in the public domain. 
 </figcaption>
 </div>
 </div>
@@ -292,7 +304,7 @@ date: 2025-06-16, from: Low-tech magazine
 </figcaption>
 </div>
 </div>
-<h2 id="tents-for-hot-and-cold-regions">Tents for hot and cold regions</h2>
+<h2 id="tents-for-hot-and-cold-regions">Tents for Hot and Cold Regions</h2>
 <p>Tents were found in regions subject to extreme heat or cold, demonstrating the versatility and effectiveness of textiles in providing thermal comfort. <sup id="fnref3:40"><a href="#fn:40" class="footnote-ref" role="doc-noteref">40</a></sup> Both the skin-covered conical tent of Northern Eurasia and North America, better known as the &ldquo;tipi,&rdquo; and the &ldquo;kibitka&rdquo; or felt tent, more popularly known as a &ldquo;yurt,&rdquo; were designed for efficient combustion in cold, windy climates. The structures served as a combustion chamber, chimney, and windbreak for the central fire, in addition to functioning as a dwelling. <sup id="fnref4:40"><a href="#fn:40" class="footnote-ref" role="doc-noteref">40</a></sup></p>
 <p>In contrast, the &ldquo;black tent&rdquo; of the Middle East was designed to keep the heat outside rather than inside. Most closely resembling the tents we still use today, it was a non-skeletal tent with a prestressed velum, tensed in an aerodynamic shape over minimal wood supports. Unlike the mats and leather awnings of the conical tent and kibitka, the woven vellum made from black goat hair was strong enough in tension to be prestressed. <sup id="fnref5:40"><a href="#fn:40" class="footnote-ref" role="doc-noteref">40</a></sup> It absorbed heat while providing shade, and as a result, temperatures inside the black tent could be up to 10-15 degrees Celsius cooler than in the surrounding atmosphere. <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup></p>
 <h3 id="tipis">Tipis</h3>
@@ -434,8 +446,9 @@ date: 2025-06-16, from: Low-tech magazine
 </div>
 </div>
 <h2 id="air-conditioned-bare-white-interiors">Air-conditioned, Bare-white Interiors</h2>
-<p>Nowadays, few of us live in buildings with door curtains, bed hangings, or awnings. The abundance of interior decoration gave way to a minimalist, neutral, and often bare-white interior design devoid of textiles. <sup id="fnref7:9"><a href="#fn:9" class="footnote-ref" role="doc-noteref">9</a></sup><sup id="fnref4:13"><a href="#fn:13" class="footnote-ref" role="doc-noteref">13</a></sup><sup id="fnref2:20"><a href="#fn:20" class="footnote-ref" role="doc-noteref">20</a></sup> Likewise, we now prefer to build air-conditioned shopping malls instead of buildings with awnings or street markets covered by toldos. Of course, we can only do these things thanks to a seemingly endless stream of fossil fuels. <sup id="fnref8:9"><a href="#fn:9" class="footnote-ref" role="doc-noteref">9</a></sup></p>
-<p>Curtains, carpets, awnings, and toldos have their inconveniences and disadvantages. They require attention and manual intervention, need to be cleaned <sup id="fnref:45"><a href="#fn:45" class="footnote-ref" role="doc-noteref">45</a></sup>, and can pose a fire risk unless made of wool or leather. However, the continued burning of fossil fuels has even larger inconveniences and disadvantages, especially in the long term. Textiles could decrease energy use and enhance comfort and livability in all types of buildings. Toldos could span the streets and roofs of entire city districts. History shows that removable textile insulation works.</p>
+<p>Nowadays, few of us live in buildings with door curtains, bed hangings, or awnings. The abundance of interior decoration gave way to a minimalist, neutral, and often bare-white interior design devoid of textiles. <sup id="fnref7:9"><a href="#fn:9" class="footnote-ref" role="doc-noteref">9</a></sup><sup id="fnref4:13"><a href="#fn:13" class="footnote-ref" role="doc-noteref">13</a></sup><sup id="fnref2:20"><a href="#fn:20" class="footnote-ref" role="doc-noteref">20</a></sup> Likewise, we now prefer to build air-conditioned shopping malls instead of street markets covered by toldos. Of course, we can only do these things thanks to a seemingly endless stream of fossil fuels. <sup id="fnref8:9"><a href="#fn:9" class="footnote-ref" role="doc-noteref">9</a></sup></p>
+<p>Curtains, carpets, awnings, and toldos have their inconveniences and disadvantages. They require attention and manual intervention, need to be cleaned, and can pose a fire risk unless made of wool or leather. <sup id="fnref:45"><a href="#fn:45" class="footnote-ref" role="doc-noteref">45</a></sup> However, the continued burning of fossil fuels has even larger inconveniences and disadvantages, especially in the long term.</p>
+<p>Textiles could decrease energy use and enhance comfort and livability in all types of buildings. Toldos could span the streets and roofs of entire city districts. History shows that removable textile insulation works.</p>
 <div class="article-img ">
 <figure data-imgstate="dither">
 <img src="https://solar.lowtechmagazine.com/2025/06/dressing-and-undressing-the-home/images/dithers/1024px-Hamptons_Kitchen_Design_1_dithered.png" alt='Image: A modern interior. What happened to the textiles? Photo credit: JessofWoodnCo (CC BY-SA 4.0).' loading="lazy"/></figure>
@@ -454,7 +467,7 @@ date: 2025-06-16, from: Low-tech magazine
 </div>
 <p>Unfortunately, building and renovation regulations overlook the thermal insulation properties of carpets, curtains, and other textile devices. You may add as many thick curtains and carpets as you like; however, legislation will still require you to install double- or triple-glazed windows and insulated building surfaces, even though textiles could be just as effective in providing insulation. <sup id="fnref1:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup></p>
 <p>On the outside of the building, awnings may not even be legal. The British Blind and Shutter Association had to fight hard to overturn a ban on awnings by the authorities. <sup id="fnref1:29"><a href="#fn:29" class="footnote-ref" role="doc-noteref">29</a></sup> And, in case you are considering it, in many countries, it&rsquo;s forbidden to live in a tent, even if it&rsquo;s on private property.</p>
-<p><em>Thanks to Louise Morin for the inspiration.</em></p>
+<p><em>Thanks to <a href="https://louisemorin.fr">Louise Morin</a> for the inspiration.</em></p>
 <p><em>Thanks to Jonas Görgen, Roel Roscam Abbing, and Marie Verdeil for their feedback on an earlier version of this article.</em></p>
 <div class="footnotes" role="doc-endnotes">
 <hr>

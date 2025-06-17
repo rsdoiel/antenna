@@ -1,11 +1,203 @@
 ---
 title: going electric
-updated: 2025-06-16 14:07:10
+updated: 2025-06-17 06:09:29
 ---
 
 # going electric
 
-(date: 2025-06-16 14:07:10)
+(date: 2025-06-17 06:09:29)
+
+---
+
+## Honda’s New Electric eQuad Can Drive On Bike Lanes
+
+date: 2025-06-17, from: Inside EVs News
+
+Built at the same factory that made the Acura NSX, the delivery vehicle has swappable batteries. It's meant for last-mile deliveries. 
+
+<br> 
+
+<https://insideevs.com/news/762844/honda-fastport-equad-delivery/>
+
+---
+
+## Honda just unveiled an EV for the bike lane and it’s not what you think
+
+date: 2025-06-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/honda-fastport-equad-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The world <a href="https://electrek.co/2025/06/02/no-honda-didnt-just-launch-its-first-electric-motorcycle-and-you-cant-buy-it/">has been waiting </a>for Honda to seriously get behind electric bikes, motorcycles, and other lightweight personal electric vehicles. And now they just have, in a big way. But I no matter what you’re expecting when you hear “Honda just launched a bike lane vehicle”, I can pretty much guarantee that it isn’t this. Say hello to the Fastport eQuad, a new four-wheeled delivery vehicle from Honda.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda,last-mile-delivery-evs" data-layer-viewtype="unknown" data-post-id="420480" href="https://electrek.co/2025/06/17/honda-just-unveiled-an-ev-for-the-bike-lane-and-its-not-what-you-think/#more-420480" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/17/honda-just-unveiled-an-ev-for-the-bike-lane-and-its-not-what-you-think/>
+
+---
+
+## The 2026 Nissan Leaf Has One Weird Charging Compromise
+
+date: 2025-06-17, from: Inside EVs News
+
+It has two charging ports, but you may still need an adapter anyway. Here's why. 
+
+<br> 
+
+<https://insideevs.com/news/762582/nissan-leaf-j1772-nacs-slow-charging/>
+
+---
+
+## Finally! The Nissan LEAF has been reborn as a new 2026 crossover, and it has NACS! [Video]
+
+date: 2025-06-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/New-Nissan-LEAF-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After years of development and months of teasers, <a href="https://electrek.co/guides/nissan-leaf/">Nissan</a> has officially launched a reimagined version of the LEAF as a 2026 model year crossover, set to hit dealerships later this year. We will always love the original LEAF, but this new model is sharp and includes some well overdue upgrades, including a NACS port and Plug &amp; Charge capabilities. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="419870" href="https://electrek.co/2025/06/17/nissan-leaf-reborn-new-2026-crossover-nacs-video/#more-419870" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/17/nissan-leaf-reborn-new-2026-crossover-nacs-video/>
+
+---
+
+## The New Audi Q3 Plug-In Hybrid Has Double The Electric Range, Fast Charging
+
+date: 2025-06-17, from: Inside EVs News
+
+Audi’s new entry-level plug-in hybrid crossover has a battery with nearly double the capacity compared to its predecessor. 
+
+<br> 
+
+<https://insideevs.com/news/762964/audi-q3-phev-2025-range-specs-official/>
+
+---
+
+## Home solar/battery 30% incentive is over 180 days after Trump signs it – latest Senate bill
+
+date: 2025-06-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2020/05/Tesla-Solar-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the latest Senate version of the GOP’s budget and tax bill, better known as Trump’s Big Beautiful Bill, the 30% tax credit for home solar and batteries is going to be over 180 days from the time the President signs it.</p>
+
+
+
+<p>Other tax credits for utility-scale solar and wind projects are going to be completely phased out by 2028.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="solar" data-layer-viewtype="unknown" data-post-id="420649" href="https://electrek.co/2025/06/17/home-solar-battery-incentive-over-180-days-after-trump-signs-latest-senate-bill/#more-420649" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/17/home-solar-battery-incentive-over-180-days-after-trump-signs-latest-senate-bill/>
+
+---
+
+## Honda Will Show A New City EV At Goodwood
+
+date: 2025-06-17, from: Inside EVs News
+
+The new A-segment five-door hatchback resembles the Honda e, but it needs to do much better to stand a chance on the market. 
+
+<br> 
+
+<https://insideevs.com/news/762953/honda-super-ev-goodwood-reveal/>
+
+---
+
+## Tesla gears up to start selling Tesla Semi electric truck in Europe
+
+date: 2025-06-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-Semi-factory-hero.png?w=1600" /></div><p>Tesla is gearing up to start selling its upcoming Tesla Semi electric truck in Europe with a new hire to develop the market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-semi" data-layer-viewtype="unknown" data-post-id="420640" href="https://electrek.co/2025/06/17/tesla-start-selling-semi-electric-truck-europe/#more-420640" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/17/tesla-start-selling-semi-electric-truck-europe/>
+
+---
+
+## The Ford Super Mustang Mach-E Was Built To Win Pikes Peak
+
+date: 2025-06-17, from: Inside EVs News
+
+The wild EV has three electric motors making over 1,400 horsepower. However, the downforce is even more impressive. 
+
+<br> 
+
+<https://insideevs.com/news/762935/ford-super-mustang-mach-e-specs-photos/>
+
+---
+
+## BYD overtakes Tesla as China’s EV giants dominate global sales
+
+date: 2025-06-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/BYD-Germany-sales-April.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s EV automakers have surged ahead of the competition in global EV sales, and a new report shows <em>just</em> how far ahead they are.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,china,ev-sales,honda,nissan,tata-motors,tesla" data-layer-viewtype="unknown" data-post-id="420532" href="https://electrek.co/2025/06/16/byd-overtakes-tesla-as-chinas-ev-giants-dominate-global-sales/#more-420532" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/16/byd-overtakes-tesla-as-chinas-ev-giants-dominate-global-sales/>
+
+---
+
+## Bloomberg just released the most embarrassing report about Tesla, Waymo, and self-driving
+
+date: 2025-06-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Bloomberg has just released an embarrassingly bad report about the self-driving space, in which it claimed Tesla has an advantage over Waymo by misrepresenting data.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,waymo" data-layer-viewtype="unknown" data-post-id="420625" href="https://electrek.co/2025/06/16/bloomberg-most-embarassing-report-tesla-waymo-self-driving/#more-420625" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/16/bloomberg-most-embarassing-report-tesla-waymo-self-driving/>
+
+---
+
+## T1 Energy’s (FKA FREYR) new 5 GW US solar factory leaps forward
+
+date: 2025-06-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/amlc-sandow-lakes.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p><a href="https://t1energy.com/" target="_blank" rel="noreferrer noopener">T1 Energy</a> (NYSE: TE), formerly FREYR Battery, kicks off preparations for its new solar cell factory, set to be one of the largest in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,texas" data-layer-viewtype="unknown" data-post-id="406265" href="https://electrek.co/2025/06/16/t1-energy-freyr-5-gw-us-solar-factory/#more-406265" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/16/t1-energy-freyr-5-gw-us-solar-factory/>
+
+---
+
+## Kia’s affordable EV2 may be small, but it looks bigger in person [Video]
+
+date: 2025-06-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Kia-EV2-closer-look.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The EV2 is set to arrive as <a href="https://electrek.co/guides/kia/">Kia’s</a> smallest and most affordable electric vehicle next year. With its official debut coming up, the electric SUV was spotted driving on public roads. The electric SUV may be small, but it looks bigger in person.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev2" data-layer-viewtype="unknown" data-post-id="420601" href="https://electrek.co/2025/06/16/kias-affordable-ev2-small-but-looks-bigger-in-person-video/#more-420601" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/16/kias-affordable-ev2-small-but-looks-bigger-in-person-video/>
 
 ---
 

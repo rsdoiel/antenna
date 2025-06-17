@@ -1,11 +1,155 @@
 ---
 title: home
-updated: 2025-06-16 14:07:08
+updated: 2025-06-17 06:09:27
 ---
 
 # home
 
-(date: 2025-06-16 14:07:08)
+(date: 2025-06-17 06:09:27)
+
+---
+
+## How They Pulled It Off: A Brooklyn Townhouse Was Sinking, But They Brought It Back to Life
+
+date: 2025-06-17, from: Dwell
+
+"It was so tilted, it felt like you were on a boat." 
+
+<br> 
+
+<https://www.dwell.com/article/osso-architecture-park-slope-townhouse-6c358149>
+
+---
+
+## For $5.5M, You Can Own One of San Diego’s Four Richard Neutra Homes
+
+date: 2025-06-17, from: Dwell
+
+Set in Rancho Santa Fe, the Van Sicklen Residence has been expanded twice—and it currently stands at 8,281 square feet with eight bedrooms and a pool house. 
+
+<br> 
+
+<https://www.dwell.com/article/richard-neutra-van-sicklen-residence-rancho-santa-fe-california-real-estate-eea84a2b>
+
+---
+
+## 4 Types of Doves in New York (Pictures and Identification)
+
+date: 2025-06-17, from: Yard Life blog
+
+<p>New York is home to a surprising variety of doves, ranging from the familiar city-dwelling Rock Pigeon to the gentle ... </p>
+<p class="read-more-container"><a title="4 Types of Doves in New York (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/4-types-of-doves-in-new-york-pictures-and-identification/#more-30355" aria-label="Read more about 4 Types of Doves in New York (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/4-types-of-doves-in-new-york-pictures-and-identification/">4 Types of Doves in New York (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/4-types-of-doves-in-new-york-pictures-and-identification/>
+
+---
+
+## 5 Types of Deer in Texas (With Pictures and Identification)
+
+date: 2025-06-17, from: Yard Life blog
+
+<p>Texas features a variety of deer species due to its vast and varied landscapes. From thick forests and dense brush ... </p>
+<p class="read-more-container"><a title="5 Types of Deer in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/5-types-of-deer-in-texas-with-pictures-and-identification/#more-30343" aria-label="Read more about 5 Types of Deer in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/5-types-of-deer-in-texas-with-pictures-and-identification/">5 Types of Deer in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/5-types-of-deer-in-texas-with-pictures-and-identification/>
+
+---
+
+## 8 Squirrels in Ohio (With Pictures and Identification)
+
+date: 2025-06-17, from: Yard Life blog
+
+<p>Squirrels are a familiar and lively part of Ohio’s natural landscape. With several different species found across the state, from ... </p>
+<p class="read-more-container"><a title="8 Squirrels in Ohio (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/8-squirrels-in-ohio-with-pictures-and-identification/#more-30336" aria-label="Read more about 8 Squirrels in Ohio (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/8-squirrels-in-ohio-with-pictures-and-identification/">8 Squirrels in Ohio (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/8-squirrels-in-ohio-with-pictures-and-identification/>
+
+---
+
+## 15 Types of Bats in Idaho (With Pictures and Identification)
+
+date: 2025-06-17, from: Yard Life blog
+
+<p>Bats in Idaho play a vital role in keeping ecosystems balanced by controlling insect populations and aiding in pollination. The ... </p>
+<p class="read-more-container"><a title="15 Types of Bats in Idaho (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/15-types-of-bats-in-idaho-with-pictures-and-identification/#more-30314" aria-label="Read more about 15 Types of Bats in Idaho (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/15-types-of-bats-in-idaho-with-pictures-and-identification/">15 Types of Bats in Idaho (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/15-types-of-bats-in-idaho-with-pictures-and-identification/>
+
+---
+
+## 10 Poisonous Plants in Florida (Pictures and Identification)
+
+date: 2025-06-17, from: Yard Life blog
+
+<p>Florida’s warm, tropical climate supports a wide range of vibrant and unique plant life, but not all of it is ... </p>
+<p class="read-more-container"><a title="10 Poisonous Plants in Florida (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/10-poisonous-plants-in-florida-pictures-and-identification/#more-30293" aria-label="Read more about 10 Poisonous Plants in Florida (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/10-poisonous-plants-in-florida-pictures-and-identification/">10 Poisonous Plants in Florida (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/10-poisonous-plants-in-florida-pictures-and-identification/>
+
+---
+
+## 50 Common Birds in Idaho (With Pictures and Identification)
+
+date: 2025-06-17, from: Yard Life blog
+
+<p>Idaho is a great place to see many different types of birds throughout the year. From bright and colorful birds ... </p>
+<p class="read-more-container"><a title="50 Common Birds in Idaho (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/50-common-birds-in-idaho-with-pictures-and-identification/#more-30282" aria-label="Read more about 50 Common Birds in Idaho (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/50-common-birds-in-idaho-with-pictures-and-identification/">50 Common Birds in Idaho (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/50-common-birds-in-idaho-with-pictures-and-identification/>
+
+---
+
+## 14 Owls in Wyoming (With Pictures and Identification)
+
+date: 2025-06-17, from: Yard Life blog
+
+<p>Wyoming is known for its vast landscapes and rich wildlife, making it a perfect home for many fascinating bird species. ... </p>
+<p class="read-more-container"><a title="14 Owls in Wyoming (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/14-owls-in-wyoming-with-pictures-and-identification/#more-30273" aria-label="Read more about 14 Owls in Wyoming (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/14-owls-in-wyoming-with-pictures-and-identification/">14 Owls in Wyoming (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/14-owls-in-wyoming-with-pictures-and-identification/>
+
+---
+
+## 2 Common Eagles in Wisconsin (Pictures and Identification)
+
+date: 2025-06-17, from: Yard Life blog
+
+<p>Wisconsin is home to some of the most majestic birds of prey in North America, and among them, eagles stand ... </p>
+<p class="read-more-container"><a title="2 Common Eagles in Wisconsin (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/2-common-eagles-in-wisconsin-pictures-and-identification/#more-30266" aria-label="Read more about 2 Common Eagles in Wisconsin (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/2-common-eagles-in-wisconsin-pictures-and-identification/">2 Common Eagles in Wisconsin (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/2-common-eagles-in-wisconsin-pictures-and-identification/>
 
 ---
 
@@ -20,6 +164,18 @@ date: 2025-06-16, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/home-insurance-company-spying/>
+
+---
+
+## Calling All Tinned Fish Girlies and Yachtcore Enthusiasts—These Are the Coastal Tastemakers Worth Following
+
+date: 2025-06-16, from: Sunset Magazine - Living in the West
+
+With nautical kitsch and tinned fish having their moment, here are the coastal and seafood influencers you need to follow for inspiration. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/sustainable-seafood-tinned-fish-influencers>
 
 ---
 
@@ -51,6 +207,18 @@ date: 2025-06-16, from: Family Handyman Blog
 
 ---
 
+## Turns out You’re Packing All Wrong. Here’s How to Do It Right, According to a Professional Organizer.
+
+date: 2025-06-16, from: Sunset Magazine - Living in the West
+
+These tips from a professional organizer for how to pack a carry-on will help you maximize space—and limit stress. 
+
+<br> 
+
+<https://www.sunset.com/travel/professional-organizer-packing-tips>
+
+---
+
 ## CDFA marches with Pride in Sacramento
 
 date: 2025-06-16, from: Calfifornia Dept. Aggriculture blog
@@ -77,6 +245,18 @@ date: 2025-06-16, from: The Gardener's Path
 
 ---
 
+## This Underrated Island in the Pacific Northwest Is the Perfect Weekend Getaway
+
+date: 2025-06-16, from: Sunset Magazine - Living in the West
+
+Orcas Island is a Pacific Northwest gem that's an agricultural and aquatic wonderland. Here's your itinerary for an Orcas Island trip. 
+
+<br> 
+
+<https://www.sunset.com/travel/things-to-do-on-orcas-island>
+
+---
+
 ## No Metal or Glue Here: This Cabin in Bavaria Came Together With Interlocking Wood Pieces
 
 date: 2025-06-16, from: Dwell
@@ -86,6 +266,42 @@ The (almost) entirely ash structure uses a grid system-of-parts that can be take
 <br> 
 
 <https://www.dwell.com/article/house-in-anton-ii-luxe-architect-cabin-f3673d40>
+
+---
+
+## Homepage 2025
+
+date: 2025-06-16, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## He Survived a Shark Attack. Here’s Why He Wants to Protect Them.
+
+date: 2025-06-16, from: Sunset Magazine - Living in the West
+
+After surviving a shark attack as a teenager, Kauai-based photographer Mike Coots dedicated his life to protecting the creatures. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/mike-coots-protecting-sharks>
+
+---
+
+## This Outrageously Pretty Purple Tile Is Actually Made Out of Sea Urchins
+
+date: 2025-06-16, from: Sunset Magazine - Living in the West
+
+A Berkeley-based company is crafting tiles out of purple sea urchins, helping to rebalance California kelp forest ecosystems. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/sea-urchin-tile-urchinite>
 
 ---
 

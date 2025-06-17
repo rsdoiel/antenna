@@ -1,11 +1,233 @@
 ---
 title: snapshots
-updated: 2025-06-16 14:07:12
+updated: 2025-06-17 06:09:31
 ---
 
 # snapshots
 
-(date: 2025-06-16 14:07:12)
+(date: 2025-06-17 06:09:31)
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-17, from: Feed for Alt USDS)
+
+@alt-dol.altgov.info has an easy action item for all our #altcitizen peeps out there
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lrskm6bdps2d>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-17, from: Dave Winer's linkblog)
+
+Today&#39;s podcast: Hold your nose and vote for Cuomo. 
+
+<br> 
+
+<https://shownotes.scripting.com/scripting/2025/06/17/holdYourNoseAndVoteForCuomo.html>
+
+---
+
+## Staples Rock
+
+date: 2025-06-17, updated: 2025-06-17, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/06/17/staples-rock/>
+
+---
+
+## This is how you stop data trackers from sucking up your health data
+
+date: 2025-06-17, from: The Markup blog
+
+The Markup and CalMatters found multiple ways consumers can block the trackers quietly sending your data to tech companies, including those used on state-run health exchange websites. 
+
+<br> 
+
+<https://themarkup.org/the-breakdown/2025/06/17/this-is-how-you-stop-data-trackers-from-sucking-up-your-health-data>
+
+---
+
+## We caught 4 more states sharing personal health data with Big Tech
+
+date: 2025-06-17, from: The Markup blog
+
+Healthcare exchanges in Nevada, Maine, Massachusetts and Rhode Island shared users’ sensitive health data with companies like Google and LinkedIn 
+
+<br> 
+
+<https://themarkup.org/pixel-hunt/2025/06/17/we-caught-4-more-states-sharing-personal-health-data-with-big-tech>
+
+---
+
+## Let's talk about XLibre
+
+date: 2025-06-17, from: Libre News
+
+Or, maybe, let's *not* talk about this? And just move on as nothing happened? 
+
+<br> 
+
+<https://thelibre.news/lets-talk-about-xlibre/>
+
+---
+
+## Lies, Damned Lies and Deportations
+
+date: 2025-06-17, from: Paul Krugman
+
+The truth about immigrants is catching up with Trump 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/lies-damned-lies-and-deportations>
+
+---
+
+## AI Scraping Bots Are Breaking Open Libraries, Archives, and Museums
+
+date: 2025-06-17, from: 404 Media Group
+
+"This is a moment where that community feels collectively under threat and isn't sure what the process is for solving the problem.” 
+
+<br> 
+
+<https://www.404media.co/ai-scraping-bots-are-breaking-open-libraries-archives-and-museums/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-17, from: Feed for Alt USDS)
+
+Lawmakers in MN were attacked this weekend. It’s a reminder of the rise in stochastic terrorism - rhetoric that leads to real violence.
+
+Our latest newsletter unpacks what that means, why it matters, and what history teaches us. Read more ⤵️
+
+https://bit.ly/WTB-Stochastic-Terrorism 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lrrlj4hc5c24>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-17, from: Dave Winer's linkblog)
+
+Mike Lee Draws Outrage for Posts Blaming Minnesota Assassination on Far Left. Lock him up. 
+
+<br> 
+
+<https://www.nytimes.com/2025/06/16/us/politics/mike-lee-minnesota-assassination-democrats.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-17, from: Dave Winer's linkblog)
+
+An American representing herself with power. 
+
+<br> 
+
+<https://bsky.app/profile/pmiscove.bsky.social/post/3lroiet65nk2b>
+
+---
+
+## Lights Out
+
+date: 2025-06-17, updated: 2025-06-17, from: Tedium site
+
+Tom Bodett, the legendary cheap-motel pitchman, sues his primary client, Motel 6, for non-payment. What a sad way for a great ad campaign to end. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17054663/tom-bodett-motel-6-lawsuit>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-17, from: Robert's feed at BlueSky)
+
+Not a good thing. 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lrrehe3n4k2c>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-17, from: Dave Winer's linkblog)
+
+Sen. Amy Klobuchar rips Mike Lee for posts about a deadly attack. 
+
+<br> 
+
+<https://www.sltrib.com/news/politics/2025/06/16/mineesota-shootinig-sen-amy/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-17, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lrrcqjtjnk2c>
+
+---
+
+## Finding Dead Websites
+
+date: 2025-06-17, from: Marginallia log
+
+As some of the work planned for Marginalia Search this year has been progressing a bit faster than anticipated, there was time to implement an unplanned change.
+This post details the implementation of a system for detecting when servers are online, to avoid serving dead links and improve data quality, and for detecting when websites have significant changes including ownership transfers and parking.
+Table Of Contents Feature Rationale Data Representation Live Data Event Data Change Detection Details Availability Detection Ownership Changes DNS Implementation Hurdles Scheduling Certificate Validation Conclusions Feature Rationale Availability detection is useful not just for filtering out dead links in the search results, but for informing the crawler that it should stop trying to reach a dead domain, as well as a host of other things. 
+
+<br> 
+
+<https://www.marginalia.nu/log/a_122_dead_websites/>
+
+---
+
+## 100% effective
+
+date: 2025-06-16, updated: 2025-06-16, from: Simon Willison’s Weblog
+
+<p>Every time I get into an online conversation about <a href="https://simonwillison.net/tags/prompt-injection/">prompt injection</a> it's inevitable that someone will argue that a mitigation which works 99% of the time is still worthwhile because there's no such thing as a security fix that is 100% guaranteed to work.</p>
+<p>I don't think that's true.</p>
+<p>If I use parameterized SQL queries my systems are 100% protected against SQL injection attacks.</p>
+<p>If I make a mistake applying those and someone reports it to me I can fix that mistake and now I'm back up to 100%.</p>
+<p>If our measures against SQL injection were only 99% effective none of our digital activities involving relational databases would be safe.</p>
+<p>I don't think it is unreasonable to want a security fix that, when applied correctly, works 100% of the time.</p>
+<p><small>(I first argued a version of this back in September 2022 in <a href="https://simonwillison.net/2022/Sep/17/prompt-injection-more-ai/">You can’t solve AI security problems with more AI</a>.)</small></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/sql-injection">sql-injection</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/16/100-percent/#atom-everything>
+
+---
+
+## Lilbits: A phone-sized eReader with E Ink Color, more Fairphone 6 leaks, and about that Trump phone…
+
+date: 2025-06-16, from: Liliputing
+
+<p>Most eBook readers are designed to be about the size of a paperback book. But for the past few years Onyx BOOX has been offering phone-sized gadgets with E Ink displays that you can easily slide in your pocket or handbag for reading on the go. Now the Onyx BOOX Palma may be getting some [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-a-phone-sized-ereader-with-e-ink-color-more-fairphone-6-leaks-and-about-that-trump-phone/">Lilbits: A phone-sized eReader with E Ink Color, more Fairphone 6 leaks, and about that Trump phone&#8230;</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-a-phone-sized-ereader-with-e-ink-color-more-fairphone-6-leaks-and-about-that-trump-phone/>
 
 ---
 

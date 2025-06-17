@@ -1,11 +1,63 @@
 ---
 title: food
-updated: 2025-06-16 14:07:11
+updated: 2025-06-17 06:09:29
 ---
 
 # food
 
-(date: 2025-06-16 14:07:11)
+(date: 2025-06-17 06:09:29)
+
+---
+
+## World Coffee Research Just Published The Largest Leaf Rust Study
+
+date: 2025-06-17, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. There's no one-size-fits-all answer to leaf rust. 
+
+<br> 
+
+<https://sprudge.com/world-coffee-research-just-published-the-largest-leaf-rust-study-348087.html>
+
+---
+
+## Sip Late, Sleep Never: What Coffee Really Does to Your Brain at Night
+
+date: 2025-06-17, from: The Fresh Cup
+
+<p>Researchers investigated how caffeine affects the brain during sleep, discovering that it impairs essential brain functions crucial for restorative sleep.</p>
+<p>The post <a href="https://freshcup.com/your-brain-on-coffee-why-that-late-cup-keeps-you-wired/">Sip Late, Sleep Never: What Coffee Really Does to Your Brain at Night</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/your-brain-on-coffee-why-that-late-cup-keeps-you-wired/>
+
+---
+
+## Shark Wet and Dry Vac Review: Never Cry Over Spilled Milk Again
+
+date: 2025-06-16, from: Taste of Home
+
+<p>The MessMaster is a Shark wet and dry vac built for the toughest kitchen disasters. Say "adios" to wet and dry spills in seconds!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/shark-wet-and-dry-vac-review/">Shark Wet and Dry Vac Review: Never Cry Over Spilled Milk Again</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/shark-wet-and-dry-vac-review/>
+
+---
+
+## Elise Jesse’s Strawberry Mousse
+
+date: 2025-06-16, from: Taste of Home
+
+Light, luscious and layered with love, these individual strawberry mousse parfaits are what summer dreams are made of. Each jar is layered with a buttery graham cracker crust, creamy strawberry mousse and soft whipped cream. The result is elegant enough for guests, but easy enough for a Tuesday. —Elise Jesse, Cincinnati, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/elise-jesse-strawberry-mousse/>
 
 ---
 

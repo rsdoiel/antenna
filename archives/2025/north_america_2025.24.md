@@ -1,11 +1,47 @@
 ---
 title: north america
-updated: 2025-06-16 14:07:03
+updated: 2025-06-17 06:09:20
 ---
 
 # north america
 
-(date: 2025-06-16 14:07:03)
+(date: 2025-06-17 06:09:20)
+
+---
+
+## The violence and incitement are coming from Trump
+
+date: 2025-06-17, from: The Contrarian
+
+Words & Phrases We Could Do Without 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-violence-and-incitement-are-coming>
+
+---
+
+##  Dems’ Crypto Schemers Have Entered The Chat 
+
+date: 2025-06-17, from: The Lever News
+
+ A secret group chat reveals that Democratic strategists plan to support the pro-crypto GENIUS Act for political gain, despite acknowledging it’s a Trump corruption giveaway.  
+
+<br> 
+
+<https://www.levernews.com/dems-crypto-schemers-have-entered-the-chat/>
+
+---
+
+## Evening Roundup, June 16
+
+date: 2025-06-16, from: The Contrarian
+
+Featuring Kim Lane Scheppele, Brian Klaas, "Offsides with Pablo Torre," Brian O'Neill, Eliza Orlins, Jeff Nesbit, Austin Sarat, and "Talking Feds." Happy Bloomsday! 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-16>
 
 ---
 

@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-06-16 14:07:07
+updated: 2025-06-17 06:09:25
 ---
 
 # games
 
-(date: 2025-06-16 14:07:07)
+(date: 2025-06-17 06:09:25)
+
+---
+
+## Playing FBC: Firebreak felt like taking on a second job
+
+date: 2025-06-17, updated: 2025-06-17, from: Polygon Website
+
+The first time sticky notes almost killed me in Remedy Entertainment&#8217;s FBC: Firebreak, the new multiplayer spinoff of 2019’s Control, I laughed out loud. A slow death brought on by the overwhelming horde of memos you’re tasked with destroying is the most fitting demise in a game that leans heavily into satirizing corporate life.&#160; The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/607291/fbc-firebreak-pc-ps5-xbox>
+
+---
+
+## Can Solosis be shiny in Pokémon Go?
+
+date: 2025-06-17, updated: 2025-06-16, from: Polygon Website
+
+Solosis, the cell Pokémon from Unova, can be found in the wild in Pokémon Go. Yes, Solosis can be shiny in Pokémon Go! These little gummy Pokémon don’t have any spots in any of the Pokémon Go metas, but they are cute. I just want to give them a little squish. What is the shiny [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/607262/can-solosis-be-shiny-duosion-reuniclus>
+
+---
+
+## Nintendo Switch 2 hackers say they’re already getting banned
+
+date: 2025-06-16, updated: 2025-06-16, from: Polygon Website
+
+The original Nintendo Switch had such a massive piracy problem, hackers were able to play new first-party games weeks before they were available to the public. Since its release in early June, hackers have wondered if the Switch 2 might have similar vulnerabilities, but early reports suggest that Nintendo has anticipated typical methods of meddling [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/607288/nintendo-switch-2-hacker-ban-console-account>
+
+---
+
+## Mario Kart World has more ways to dodge a blue shell than you realize
+
+date: 2025-06-16, updated: 2025-06-16, from: Polygon Website
+
+Doing well in Mario Kart World is the same as putting a target on your back when it comes to blue shells. For some, the combination of a high skill ceiling, tough NPCs, and prevalence of the spiny item has proven irksome, but it doesn’t have to be this way. You have more tools in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/607236/mario-kart-world-how-to-dodge-blue-shells>
 
 ---
 
