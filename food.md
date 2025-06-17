@@ -1,11 +1,107 @@
 ---
 title: food
-updated: 2025-06-17 06:09:29
+updated: 2025-06-17 14:09:35
 ---
 
 # food
 
-(date: 2025-06-17 06:09:29)
+(date: 2025-06-17 14:09:35)
+
+---
+
+## The Best Paring Knives, Tested & Reviewed (2025)
+
+date: 2025-06-17, from: Bon Appetet
+
+A delicate tool for delicate tasks 
+
+<br> 
+
+<https://www.bonappetit.com/story/just-buy-it-paring-knife>
+
+---
+
+## Best Knife Set After Years of Testing Knives (2025)
+
+date: 2025-06-17, from: Bon Appetet
+
+Please, please don’t get more knives than you need. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-knife-sets>
+
+---
+
+## Lone Ranger Cocktail
+
+date: 2025-06-17, from: Taste of Home
+
+The Lone Ranger cocktail recipe is a French 75 in disguise: It swaps in tequila for the gin and goes pink with brut rosé. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lone-ranger-cocktail/>
+
+---
+
+## U.S. Specialty Coffee Consumption Reaches New High, Beats Traditional Coffee
+
+date: 2025-06-17, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/specialty-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="specialty coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/specialty-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/specialty-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/specialty-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/specialty-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/specialty-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Daily consumption of specialty coffee surpassed traditional coffee for the first time among United States consumers this year, marking a milestone shift in coffee-drinking habits, according to the National Coffee... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/17/u-s-specialty-coffee-consumption-reaches-new-high-beats-traditional-coffee/>
+
+---
+
+## Linear By Blueprint Coffee Launches Three New Ready-To-Drink Beverages
+
+date: 2025-06-17, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Linear, a Line Of Canned Ready-To-Drink Craft Beverages By Blueprint Coffee, Expands Lineup With Three New Offerings. 
+
+<br> 
+
+<https://sprudge.com/linear-by-blueprint-coffee-launches-three-new-ready-to-drink-beverages-348314.html>
+
+---
+
+## Three Questions with Emmanuel Bushiazzo of La Claque Café
+
+date: 2025-06-17, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Emmanuel-Bushiazzo-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Emmanuel Bushiazzo 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Emmanuel-Bushiazzo-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Emmanuel-Bushiazzo-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Emmanuel-Bushiazzo-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Emmanuel-Bushiazzo-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Emmanuel-Bushiazzo-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In 2012, while completing his second postdoctoral fellowship in California researching coral conservation, Emmanuel Bushiazzo came across a library book about how to open a coffee shop for dummies. When... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/17/three-questions-with-emmanuel-bushiazzo-of-la-claque-cafe/>
+
+---
+
+## Build-Outs Of Coffee: Thesis Coffee Co In Minneapolis, MN
+
+date: 2025-06-17, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Thesis Coffee Co in Minneapolis, Minnesota. 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-thesis-coffee-co-in-minneapolis-mn-338517.html>
+
+---
+
+## ColdPerk Launches Café 2 System for Espresso-Strength Concentrate
+
+date: 2025-06-17, from: Daily Coffee News
+
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/coldperk-sca-1-620x349.jpg" class="attachment-large size-large wp-post-image" alt="coldperk-sca-1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/coldperk-sca-1-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coldperk-sca-1-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coldperk-sca-1-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coldperk-sca-1-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coldperk-sca-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Commercial coffee equipment startup ColdPerk is rolling out a new batch brewing solution for cafes seeking espresso-strength concentrate called the Café 2. With no wiring or heating elements, the gravity-fed... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/17/coldperk-launches-cafe-2-system-for-espresso-strength-concentrate/>
 
 ---
 
@@ -221,7 +317,7 @@ In an interview with Bon Appétit, the NYC mayoral candidate talks about eating 
 
 date: 2025-06-16, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/young-coffee-plant-blue-sky-620x414.jpg" class="attachment-large size-large wp-post-image" alt="young coffee plant blue sky" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/young-coffee-plant-blue-sky-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/young-coffee-plant-blue-sky-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/young-coffee-plant-blue-sky-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/young-coffee-plant-blue-sky-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/young-coffee-plant-blue-sky.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A groundbreaking effort led by Oregon-based nonprofit World Coffee Research (WCR) just delivered the most extensive real-world evaluation to date of how arabica coffee varieties stand up to their most... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/young-coffee-plant-blue-sky-620x414.jpg" class="attachment-large size-large wp-post-image" alt="young coffee plant blue sky" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/young-coffee-plant-blue-sky-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/young-coffee-plant-blue-sky-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/young-coffee-plant-blue-sky-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/young-coffee-plant-blue-sky-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/young-coffee-plant-blue-sky.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A groundbreaking effort led by Oregon-based nonprofit World Coffee Research (WCR) just delivered the most extensive real-world evaluation to date of how arabica coffee varieties stand up to their most... 
 
 <br> 
 
@@ -245,7 +341,7 @@ date: 2025-06-16, from: The Sprudge
 
 date: 2025-06-16, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/colombia-coffee-620x413.jpg" class="attachment-large size-large wp-post-image" alt="colombia coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/colombia-coffee-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/colombia-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/colombia-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/colombia-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/colombia-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Amid rising temperatures and shrinking arable land, Colombia’s coffee industry has become a global model of how agriculture can adapt to climate change. Colombia’s innovations have reduced emissions, enhanced biodiversity... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/colombia-coffee-620x413.jpg" class="attachment-large size-large wp-post-image" alt="colombia coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/colombia-coffee-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/colombia-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/colombia-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/colombia-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/colombia-coffee.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Amid rising temperatures and shrinking arable land, Colombia’s coffee industry has become a global model of how agriculture can adapt to climate change. Colombia’s innovations have reduced emissions, enhanced biodiversity... 
 
 <br> 
 
@@ -257,7 +353,7 @@ date: 2025-06-16, from: Daily Coffee News
 
 date: 2025-06-16, from: Daily Coffee News
 
-<div><img width="620" height="387" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/ermes_portafiltro_1-1-620x387.jpg" class="attachment-large size-large wp-post-image" alt="ermes_portafiltro_1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/ermes_portafiltro_1-1-620x387.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/ermes_portafiltro_1-1-300x187.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/ermes_portafiltro_1-1-150x94.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/ermes_portafiltro_1-1-768x479.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/ermes_portafiltro_1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Italian coffee equipment brand Casadio recently introduced a new flagship grinder, the Ermes Dual, designed for switching back and forth between espresso and filter brew preparation at commercial coffee bars.&#160;... 
+<div><img width="620" height="387" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/ermes_portafiltro_1-1-620x387.jpg" class="attachment-large size-large wp-post-image" alt="ermes_portafiltro_1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/ermes_portafiltro_1-1-620x387.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/ermes_portafiltro_1-1-300x187.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/ermes_portafiltro_1-1-150x94.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/ermes_portafiltro_1-1-768x479.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/ermes_portafiltro_1-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Italian coffee equipment brand Casadio recently introduced a new flagship grinder, the Ermes Dual, designed for switching back and forth between espresso and filter brew preparation at commercial coffee bars.&#160;... 
 
 <br> 
 

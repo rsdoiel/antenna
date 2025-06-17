@@ -1,35 +1,131 @@
 ---
 title: columns
-updated: 2025-06-17 06:09:23
+updated: 2025-06-17 14:09:30
 ---
 
 # columns
 
-(date: 2025-06-17 06:09:23)
+(date: 2025-06-17 14:09:30)
+
+---
+
+## Wednesday 18 June, 2025
+
+date: 2025-06-17, from: John Naughton's online diary
+
+Temptation Quote of the Day ”Don&#8217;t look at me in that tone of voice.” Dorothy Parker Musical alternative to the morning’s radio news Planxty &#124; True Love Knows No Season Link Long Read of the Day Loathe thy neighbor: Elon &#8230; <a href="https://memex.naughtons.org/wednesday-18-june-2025/40931/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-18-june-2025/40931/>
+
+---
+
+## Tuesday, 17 June, 2025
+
+date: 2025-06-17, from: Doc Searls (at Harvard), New Old Blog
+
+It&#39;s not the heat (though we have that too). Humidity is 85% here right now. Everything is sticky. Summer in the Midwest. Also the East. And the South. Only more of it. And worse. Interesting: warmer oceans are a cause. The WaPo explains. (Sorry, paywall.) 
+
+<br> 
+
+<https://doc.searls.com/2025/06/17/tuesday-17-june-2025/>
+
+---
+
+## Seven Replies to the Viral Apple Reasoning Paper
+
+date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/15/viral-apple-reasoning-paper/>
+
+---
+
+## Why WhatsApp Didn’t Sell Ads
+
+date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://blog.whatsapp.com/why-we-don-t-sell-ads>
+
+---
+
+## WWDC 2025: The Bento Boxes
+
+date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://512pixels.net/2025/06/wwdc25-the-bento-boxes/>
+
+---
+
+## Tracking Down the Original Photo From the End of ‘The Shining’
+
+date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://x.com/AricToler/status/1908610058318991581>
+
+---
+
+## How Field Notes Went From Side Project to Cult Notebook
+
+date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.fastcompany.com/91352848/field-notes-cult-notebook-started-out-as-a-side-project>
+
+---
+
+## Bloomberg Publishes Embarrassing Report Comparing Tesla and Waymo Self-Driving Safety Records
+
+date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://electrek.co/2025/06/16/bloomberg-most-embarassing-report-tesla-waymo-self-driving/>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2025-06-17, from: Dave Winer's Scripting News)
 
-Podcast: <a href="https://shownotes.scripting.com/scripting/2025/06/17/holdYourNoseAndVoteForCuomo.html">Hold your nose and vote for Cuomo</a>. 
+Highly recommend reading this <a href="https://www.left-horizons.com/2025/06/15/that-military-parade-from-the-trumpland-diary/">review</a> of Trump's parade. We had the wrong idea about what the Army would do. Basically if you order us to do a parade, we will give you a parade. 
 
 <br> 
 
-<http://scripting.com/2025/06/17.html#a120750>
+<http://scripting.com/2025/06/17.html#a172803>
 
 ---
 
-## Where AI Provides Value
+## June 16, 2025
 
-date: 2025-06-17, updated: 2025-06-17, from: Bruce Schneier blog
+date: 2025-06-17, from: Heather Cox Richardson blog
 
-<p>If you&#8217;ve worried that AI might take your job, deprive you of your livelihood, or maybe even replace your role in society, it probably feels good to see the latest AI tools fail spectacularly. If AI recommends <a href="https://www.theverge.com/2024/5/23/24162896/google-ai-overview-hallucinations-glue-in-pizza">glue as a pizza topping</a>, then you&#8217;re safe for another day.</p>
-<p>But the fact remains that AI already has definite advantages over even the most skilled humans, and knowing where these advantages arise&#8212;and where they don&#8217;t&#8212;will be key to adapting to the AI-infused workforce.</p>
-<p>AI will often not be as effective as a human doing the same job. It won&#8217;t always know more or be more accurate. And it definitely won&#8217;t always be fairer or more reliable. But it may still be used whenever it has an advantage over humans in one of four dimensions: speed, scale, scope and sophistication. Understanding these dimensions is the key to understanding AI-human replacement...</p> 
+ 
 
-<br> 
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166170408/94ce67857a0ed564ec106e3fa1869134.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166170408/94ce67857a0ed564ec106e3fa1869134.mp3" target="_blank">download audio/mpeg</a><br> 
 
-<https://www.schneier.com/blog/archives/2025/06/where-ai-provides-value.html>
+<https://heathercoxrichardson.substack.com/p/june-16-2025-04c>
 
 ---
 
@@ -345,11 +441,248 @@ I should figure out a way to find those 3062 requests made by services hosted on
 <pre><code>bin/2h-access-log !^social | bin/asn-access-log 24940
 </code></pre>
 
-<p>I see a lot of RSS services (NewsBlur, fiperbot, MyNewspaper Agent, FreshRSS), git, some bot (from the 159.69.0.0/16 range, for example), and on and on. Ugh. It&rsquo;s not easy to know what to do!</p> 
+<p>I see a lot of RSS services (NewsBlur, fiperbot, MyNewspaper Agent, FreshRSS), git, some bot (from the 159.69.0.0/16 range, for example), and on and on. Ugh. It&rsquo;s not easy to know what to do!</p>
+
+<p>I think the best answer would be to lower the stakes but also ban for shorter amounts of time and let <code>fail2ban</code> handle the rest. The only thing I need to consider is whether I find the current amount of resources spent OK. Do I? Let&rsquo;s look at the latest numbers.</p>
+
+<p>This here shows that fedi traffic is 60% Hetzner and OVH. This makes it hard for me to block these autonomous systems.</p>
+
+<pre><code>bin/2h-access-log ^social !178.209.50.237 \
+| awk '{print $2}' \
+| bin/asncounter --no-prefixes
+INFO: using datfile ipasn_20250616.1200.dat.gz
+INFO: collecting addresses from &lt;stdin&gt;
+INFO: loading datfile /root/.cache/pyasn/ipasn_20250616.1200.dat.gz...
+INFO: finished reading data
+INFO: loading /root/.cache/pyasn/asnames.json
+count	percent	ASN	AS
+2148	45.36	24940	HETZNER-AS, DE
+738	15.59	16276	OVH, FR
+273	5.77	14061	DIGITALOCEAN-ASN, US
+202	4.27	14361	HOPONE-GLOBAL, US
+195	4.12	15796	SALT-, CH
+105	2.22	214640	HOSTUP HOSTUP, SE
+102	2.15	63949	AKAMAI-LINODE-AP Akamai Connected Cloud, SG
+62	1.31	47692	NESSUS, AT
+59	1.25	197540	NETCUP-AS netcup GmbH, DE
+50	1.06	44684	MYTHIC Mythic Beasts Ltd, GB
+total: 4735
+</code></pre>
+
+<p>What&rsquo;s the situation without fedi traffic, keeping in mind that I will most likely not be able to block fedi hosters?</p>
+
+<pre><code>bin/2h-access-log !^social !178.209.50.237 \
+| awk '{print $2}' \
+| bin/asncounter --no-prefixes
+INFO: using datfile ipasn_20250616.1200.dat.gz
+INFO: collecting addresses from &lt;stdin&gt;
+INFO: loading datfile /root/.cache/pyasn/ipasn_20250616.1200.dat.gz...
+INFO: finished reading data
+INFO: loading /root/.cache/pyasn/asnames.json
+count	percent	ASN	AS
+249	5.47	7922	COMCAST-7922, US
+189	4.16	9808	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
+129	2.84	7018	ATT-INTERNET4, US
+122	2.68	396982	GOOGLE-CLOUD-PLATFORM, US
+118	2.59	24940	HETZNER-AS, DE
+96	2.11	55836	RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
+96	2.11	56046	CMNET-JIANGSU-AP China Mobile communications corporation, CN
+75	1.65	140061	CHINANET-QINGHAI-AS-AP Qinghai Telecom, CN
+73	1.61	4837	CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
+70	1.54	701	UUNET, US
+total: 4548
+</code></pre>
+
+<p>The autonomous systems that show up in the second list but not in the first list are my prime candidates, like COMCAST and CHINAMOBILE-CN.</p>
+
+<p>So how about going after the autonomous systems on the second list that produce more than 1000 hits in a 2h period.</p>
+
+<p>Something like this? I&rsquo;m going to but this into <code>/etc/cron.daily/butlerian-jihad</code></p>
+
+<pre><code>#!/bin/sh
+bin/2h-access-log !^social !178.209.50.237 \
+| awk '{print $2}' \
+| bin/asncounter --no-prefixes 2&gt;/dev/null \
+| awk '/^[0-9]/ &amp;&amp; $1&gt;1000 { print $3 }' \
+| xargs bin/asn-networks \
+| ifne xargs echo fail2ban-client set butlerian-jihad banip
+</code></pre>
+
+<p>I use <code>ifne</code> to prevent the execution of the last command if there is no output.
+Thanks, <a class="account" href="https://tilde.zone/@acdw" title="@acdw@tilde.zone">@acdw</a>!</p>
+
+<h2 id="summary">Summary</h2>
+
+<p><code>/etc/cron.daily/butlerian-jihad</code> runs every hour and checks if there have been any abusive autonomous systems in the last two hours. If so, they are banned.</p>
+
+<pre><code>#!/bin/sh
+bin/2h-access-log !^social !178.209.50.237 \
+| awk '{print $2}' \
+| bin/asncounter --no-prefixes 2&gt;/dev/null \
+| awk '/^[0-9]/ &amp;&amp; $1&gt;1000 { print $3 }' \
+| xargs bin/asn-networks \
+| ifne xargs echo fail2ban-client set butlerian-jihad banip
+</code></pre>
+
+<p><a href="/admin/2h-access-log">2h-access-log</a> prints the last two hours worth of log lines from <code>/var/log/apache2/access.log</code> (and <code>access.log.1</code> if necessary).</p>
+
+<p>The <code>!^social</code> argument ensures that connecting to my fedi server doesn&rsquo;t trigger the ban hammer.</p>
+
+<p>The <code>!178.209.50.237</code> argument ensures that I don&rsquo;t ban the server itself as it monitors stuff and as I test things on the server. I might have to add my home IP numbers. We&rsquo;ll see!</p>
+
+<p><a href="https://gitlab.com/anarcat/asncounter/">asncounter</a> finds the autonomous system numbers for all the IP numbers in the web server log file and prints a report.</p>
+
+<p><a href="/admin/asn-networks">asn-networks</a> then turns the selected autonomous system numbers and returns the IP ranges they manage.</p>
+
+<p>These are then banned by <code>fail2ban-client</code> using the <code>butlerian-jihad</code> jail.</p>
+
+<p>The <code>butlerian-jihad</code> jail is mentioned in enabled via a config file in <code>/etc/fail2ban/jail.d/</code>. In my case, the file is called <code>alex.conf</code> and for this jail, it says:</p>
+
+<pre><code>[butlerian-jihad]
+enabled = true
+bantime = 1h
+</code></pre>
+
+<p>The jail also needs a filter definition even though no filtering happens as no logfile is checked.
+My <code>/etc/fail2ban/filter.d/butlerian-jihad.conf</code> contains just this:</p>
+
+<pre><code># Author: Alex Schroeder &lt;alex@gnu.org&gt;
+[Definition]
+</code></pre>
+
+<p>What this means is that every hour, an autonomous system unit can get banned.
+If they are banned, they are banned for 1h.
+If they are banned for activity in the last hour leading up to the ban, the script will find the same log entries and ban them &ldquo;again&rdquo;. This results in no changes in the jail, since all the networks are already in the <code>butlerian-jihad</code> jail.</p>
+
+<p>The bans themselves are reported in <code>/etc/log/fail2ban.log</code>.</p>
+
+<p>I&rsquo;ve also enabled the <code>recidive</code> jail. That is, in the same file where I defined my <code>butlerian-jihad</code> jail, I have:</p>
+
+<pre><code>[recidive]
+enabled = true
+</code></pre>
+
+<p>The defaults are in <code>/etc/fail2ban/jail.conf</code>:</p>
+
+<pre><code>[recidive]
+
+logpath  = /var/log/fail2ban.log
+banaction = %(banaction_allports)s
+bantime  = 1w
+findtime = 1d
+</code></pre>
+
+<p>So if some network is banned for more than five times in a day, it is banned for a week.
+I say five times because <code>maxretry</code> is set to 5 in <code>/etc/fail2ban/jail.conf</code>.</p>
+
+<p>Let&rsquo;s assume a scraper is started from some network managed by an autonomous system. It starts using IP numbers from all its ranges. It sends 600 requests per hour, more than a human could read and more than a feed reader should need, etc.</p>
+
+<ul>
+<li>after the first hour, nothing happens, as 600 is less than the 1000 needed to trigger the system</li>
+<li>after the second hour, the ASN is banned because the sum total for the last two hours is 1200</li>
+<li>after the third hour, the ASN is unbanned and not banned again because it only made 600 requests in the second hour</li>
+<li>after the fourth hour, the ASN is banned again (1200 requests)</li>
+<li>after the fifth hour, the ASN is unbanned</li>
+<li>after the sixth hour, the ASN is banned for the third time (1200 requests)</li>
+<li>after the seventh hour, the ASN is unbanned</li>
+<li>after the eighth hour, the ASN is banned for the fourth time (1200 requests)</li>
+<li>after the ninth hour, the ASN is unbanned</li>
+<li>after the tenth hour, the ASN is banned for the fifth time (1200 requests)</li>
+<li>after the eleventh hour, the ASN is unbanned</li>
+<li>after the twelfth hour, the ASN is banned for the sixth time, the <code>recidive</code> filter kicks in and the networks belonging to the ASN are banned for a week</li>
+</ul>
+
+<p>This escalation takes twelve hours. The ASN was already banned for half this time.</p>
+
+<p>Assuming this repeats every week, it means that the pattern repeats every 7½ weeks and the abusive ASN still gets service on 6h out of 180h or 3% of the time. For my taste, that is still way too nice.</p>
+
+<p>Let&rsquo;s see how this goes for a while.</p>
+
+<p>I&rsquo;m already looking forward to dropping my <code>banlist</code> and <code>banlist6</code> sets I created for <a href="/admin/ban-cidr">ban-cidr</a>.</p> 
 
 <br> 
 
 <https://alexschroeder.ch/view/2025-06-16-ban-asn>
+
+---
+
+## The State Of Storage
+
+date: 2025-06-17, from: David Rosenthal's blog
+
+<i>The Register</i> is running a series on <a href="https://www.theregister.com/special_features/the_state_of_storage/"><i>The State Of Storage</i></a>. Below the fold I flag some articles worth reading.<br />
+<br />
+<span><a name='more'></a></span>
+<be>
+Richard Speed's <a href="https://www.theregister.com/2025/06/10/retro_storage/"><i>Old but gold: Paper tape and punched cards still getting the job done – just about</i></a> covers the issues hampering efforts to recover data from legacy media:<br />
+<blockquote>
+A challenge with storage is the longevity of the media and the availability of hardware capable of retrieving it. While paper tape and punch cards are long-lasting and can be read by enterprising enthusiasts of today, modern densely packed SSDs and spinning disks might present more of a challenge for the archivists of tomorrow.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://regmedia.co.uk/2025/06/02/project-silica-glass.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="930" data-original-width="739" height="200" src="https://regmedia.co.uk/2025/06/02/project-silica-glass.jpg" width="159" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://regmedia.co.uk/2025/06/02/project-silica-glass.jpg">Project Silica tablet</a></td></tr></tbody></table>
+Chris Mellor's <a href="https://www.theregister.com/2025/06/12/archival_storage_feature/"><i>Tape, glass, and molecules – the future of archival storage</i></a> looks at the issues I covered in <a href="https://blog.dshr.org/2025/03/archival-storage.html"><i>Archival Storage</i></a>:<br />
+<blockquote>
+The future of archival data storage is tape, more tape, and then possibly glass-based tech, with DNA and other molecular tech still a distant prospect.<br />
+<br />
+The function of archival storage is to keep data for the long term – decades and beyond – reliably and affordably. Currently, the main medium for this is LTO tape and it is slow, has a limited life, and not enough capacity considering the implications of ever-increasing image and video resolution and AI-infused data generation. However, there is as yet no viable tape replacement technology at scale, only possibilities, with optical storage more practical and nearer to productization than DNA or other molecular storage.
+</blockquote>
+Mellor mostly agrees with me, but is more optimistic about Cerabyte's technology than I am. It is less aggressive than Project Silica, writing a single layer of data onto glass tablets. He reports that:<br />
+<blockquote>
+Cerabyte has attracted investment from In-Q-Tel, Pure Storage, and Western Digital. Shantnu Sharma, WD's Chief Strategy and Corporate Development Officer, said: "We are looking forward to working with Cerabyte to formulate a technology partnership for the commercialization of this technology."<br />
+...<br />
+Like Project Silica, it is, in our assessment, two to five years away from commercial product availability, but it will then be commercially available.
+</blockquote>
+Simon Sharwood's <a herf="https://www.theregister.com/2025/06/13/hdd_features/"><i>The trendline doesn’t look good for hard disk drives</i></a> covers the evolution of the hard disk market to its current focus on nearline storage for hyperscalers:<br />
+<blockquote>
+In early May, independent digital storage analyst Thomas Coughlin <a href="https://www.forbes.com/sites/tomcoughlin/2025/05/03/c1q-2025-hdd-industry-update/">shared</a> news of falling sales and revenue in the first quarter of 2025, continuing a trend that started in around 2010. Coughlin <a href="https://www.forbes.com/sites/tomcoughlin/2024/12/06/digital-storage-and-memory-projections-for-2025-part-1/">cites</a> data from that year showing around 600 million annual hard disk shipments.<br />
+<br />
+In 2025 he thinks around 150 million units will make it out of factory doors.
+<br />
+Hyperscale datacenter operators will buy most of them and have become HDD manufacturers' largest customers.<br />
+...<br />
+While HDD volumes fall, collective annual shipped HDD capacity is rising – so even though fewer machines are made, they collectively contain more gigabytes than last year's larger disk fleet.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://regmedia.co.uk/2025/05/27/hamr-graphic.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="817" data-original-width="950" height="172" src="https://regmedia.co.uk/2025/05/27/hamr-graphic.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://regmedia.co.uk/2025/05/27/hamr-graphic.jpg">HAMR</a></td></tr></tbody></table>
+Chris Mellor's <a href="https://www.theregister.com/2025/06/09/hamr_100_tb_drive_feature/"><i>Seagate still HAMRing away at the 100 TB disk drive decades later</i></a> recounts the saga of Seagate's <a href="https://web.archive.org/web/20190813175046/https://www.seagate.com/news/news-archive/seagate-swings-increase-disc-drive-densities-master-pr/">two-and-a-half decade long</a> effort to get Heat Assisted Magnetic Recording disks into mass production:<br />
+<blockquote>
+Seagate is currently shipping 30 TB conventionally recorded Exos M HAMR drives and both 32 and 36 TB shingled magnetic recording (SMR) drives. These have blocks of partially overlapping write tracks to increase track density and thus overall capacity, but with a slower rewrite speed as entire blocks of tracks have to be rewritten.<br />
+<br />
+The company should have a clear drive capacity advantage, but it does not because its HAMR technology has proven extraordinarily difficult to bring into mass production and it has one less platter than competing drives. By 2012, Seagate predicted it could make 1 Tb/in² in HAMR drives after a successful <a href="https://www.theregister.com/2012/03/20/seagate_terabit_areal_density/">demo</a>. That did not happen but it managed to make 16 TB HAMR drives and was sampling them in 2019. They did not make it to mass production either, and a 20 TB technology was the next development. It too did not last long.<br />
+<br />
+CEO Dave Mosley told <a href="https://blocksandfiles.com/2020/11/20/seagate-ceo-talks-about-big-jumps/">investment analysts in 2020</a> that Seagate was stepping up to 24 TB HAMR drives. By 2023, a 30 TB HAMR drive was said to be coming. This was actually unveiled in <a href="https://blocksandfiles.com/2024/01/17/seagate-hamr-drives/">January 2024</a>, with the tech branded Mozaic 3+, referring to the 32 and then 36 TB SMR variants.
+</blockquote>
+Mellor notes the impact this history has had on Seagate's credibilty:<br />
+<blockquote>
+Seagate has previously made several predictions about HAMR drive availability that were not ultimately achieved. The tech giant appears to have persistently underestimated how long it will take to productize HAMR technology and so reap the production cost benefit of having fewer platters and sliders at any capacity point than its two competitors.
+</blockquote>
+</be> 
+
+<br> 
+
+<https://blog.dshr.org/2025/06/the-state-of-storage.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-17, from: Dave Winer's Scripting News)
+
+Podcast: <a href="https://shownotes.scripting.com/scripting/2025/06/17/holdYourNoseAndVoteForCuomo.html">Hold your nose and vote for Cuomo</a>. 
+
+<br> 
+
+<http://scripting.com/2025/06/17.html#a120750>
+
+---
+
+## Where AI Provides Value
+
+date: 2025-06-17, updated: 2025-06-17, from: Bruce Schneier blog
+
+<p>If you&#8217;ve worried that AI might take your job, deprive you of your livelihood, or maybe even replace your role in society, it probably feels good to see the latest AI tools fail spectacularly. If AI recommends <a href="https://www.theverge.com/2024/5/23/24162896/google-ai-overview-hallucinations-glue-in-pizza">glue as a pizza topping</a>, then you&#8217;re safe for another day.</p>
+<p>But the fact remains that AI already has definite advantages over even the most skilled humans, and knowing where these advantages arise&#8212;and where they don&#8217;t&#8212;will be key to adapting to the AI-infused workforce.</p>
+<p>AI will often not be as effective as a human doing the same job. It won&#8217;t always know more or be more accurate. And it definitely won&#8217;t always be fairer or more reliable. But it may still be used whenever it has an advantage over humans in one of four dimensions: speed, scale, scope and sophistication. Understanding these dimensions is the key to understanding AI-human replacement...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/06/where-ai-provides-value.html>
 
 ---
 
@@ -514,7 +847,7 @@ As I read it (in an English translation here), an appeals court in Brussels rule
 
 date: 2025-06-16, from: Doc Searls (at Harvard), New Old Blog
 
-Trying on times. I like shoes I can slip on, because bending over to use my bent arthritic fingers as shoe horns is painful. So is tying laces. (Oddly, typing on a keyboard isn&#39;t painful, so that&#39;s a counted blessing of one.) The ones I&#39;m wearing now are beat-up Sketchers that I bought at a [&#8230;] 
+Trying on times. I like shoes I can slip on, because bending over to use my crooked arthritic fingers as shoe horns is painful. So is tying laces. (Oddly, typing on a keyboard isn&#8217;t painful, so that&#8217;s a counted blessing.) The shoes I&#8217;m wearing now are beat-up Sketchers that I bought at Nordstrom for about [&#8230;] 
 
 <br> 
 

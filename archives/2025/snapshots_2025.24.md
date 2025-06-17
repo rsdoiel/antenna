@@ -1,11 +1,228 @@
 ---
 title: snapshots
-updated: 2025-06-17 06:09:31
+updated: 2025-06-17 14:09:37
 ---
 
 # snapshots
 
-(date: 2025-06-17 06:09:31)
+(date: 2025-06-17 14:09:37)
+
+---
+
+## Setting up a landline phone for kids
+
+date: 2025-06-17, from: Charlie Hardie blog
+
+<p>I recently set up a phone line for my 9-year-old. Why? I liked the idea of her being able to connect with others in a way she has control over, but with some of the natural limitations built in to a traditional landline and without the distractions of a smartphone. Okay, it also just seemed &#8230; <a href="https://tech.chrishardie.com/2025/landline-phone-kids/" class="more-link">Continue reading <span class="screen-reader-text">Setting up a landline phone for kids</span></a></p>
+<p>The post <a href="https://tech.chrishardie.com/2025/landline-phone-kids/">Setting up a landline phone for kids</a> appeared first on <a href="https://tech.chrishardie.com">Chris Hardie&#039;s Tech and Software Blog</a>.</p>
+ 
+
+<br> 
+
+<https://tech.chrishardie.com/2025/landline-phone-kids/>
+
+---
+
+## Chrome Doesn’t Support JPEG XL
+
+date: 2025-06-17, from: Michael Tsai
+
+Jim Bankoski (2022): Helping the web to evolve is challenging, and it requires us to make difficult choices. We&#8217;ve also heard from our browser and device partners that every additional format adds costs (monetary or hardware), and we&#8217;re very much aware that these costs are borne by those outside of Google. When we evaluate new [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/17/chrome-doesnt-support-jpeg-xl/>
+
+---
+
+## Psylo Web Browser 1.0
+
+date: 2025-06-17, from: Michael Tsai
+
+Mysk: We&#8217;re super excited to finally launch Psylo, a new kind of private web browser for iOS and iPadOS. In Psylo, each tab is its own silo with isolated storage, cookies, and even its own IP address. Psylo introduces advanced anti-tracking and anti-fingerprinting features that go beyond what a VPN can offer, thanks to the [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/17/psylo-web-browser-1-0/>
+
+---
+
+## Safari Audio Fingerprinting Protection
+
+date: 2025-06-17, from: Michael Tsai
+
+Sergey Mostsevenko (via Hacker News): Apple introduced advanced fingerprinting protection in Safari 17. Advanced fingerprinting protection aims to reduce fingerprinting accuracy by limiting available information or adding randomness.By default, the advanced protection is enabled in private (incognito) mode and disabled in normal mode. It affects both desktop and mobile platforms. Advanced fingerprinting protection also affects [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/17/safari-audio-fingerprinting-protection/>
+
+---
+
+## Foundation Models Framework
+
+date: 2025-06-17, from: Michael Tsai
+
+Apple (MacRumors, 9to5Mac, Hacker News, Slashdot): Apple is opening up access for any app to tap directly into the on-device foundation model at the core of Apple Intelligence. With the Foundation Models framework, app developers will be able to build on Apple Intelligence to bring users new experiences that are intelligent, available when they&#8217;re offline, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/17/foundation-models-framework/>
+
+---
+
+## Mass Rallies Meet Government Threat Rhetoric
+
+date: 2025-06-17, from: Guy Kawasaki blog
+
+Jeremy Pressman, Professor of Political Science, University of Connecticut. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/mass-rallies-meet-government-threat>
+
+---
+
+## Five quick updates about that Apple reasoning paper that people can’t stop talking about
+
+date: 2025-06-17, from: Gary Marcus blog
+
+The most popular rebuttal was &#8230; a joke. Literally. 
+
+<br> 
+
+<https://garymarcus.substack.com/p/five-quick-updates-about-that-apple>
+
+---
+
+## This $200 mini PC has an AMD Ryzen 5 3500U processor
+
+date: 2025-06-17, from: Liliputing
+
+<p>There&#8217;s no shortage of dirt cheap mini PCs that sell for under $200 these days, but most use use low-cost, low-power chips like the relatively recent Intel N150 &#8220;Twin Lake&#8221; processor. The GMK G10 is a mini PC that&#8217;s launching in China this month for about $200, and it takes a different approach &#8211; it [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-200-mini-pc-has-an-amd-ryzen-5-3500u-processor/">This $200 mini PC has an AMD Ryzen 5 3500U processor</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-200-mini-pc-has-an-amd-ryzen-5-3500u-processor/>
+
+---
+
+## NFC Release 15 quadruples range to 2CM
+
+date: 2025-06-17, from: Liliputing
+
+<p>NFC is a protocol that enables short-range, low-speed connections between electronic devices. If you tap your phone or smartwatch to a mobile payment terminal, you&#8217;re probably using NFC. The standard also lets you quickly pair some earbuds to smartphones and other devices. But the range is pretty limited &#8211; NFC stands for Near Field Communication. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/nfc-release-15-quadruples-range-to-2cm/">NFC Release 15 quadruples range to 2CM</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/nfc-release-15-quadruples-range-to-2cm/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-17, from: Dave Winer's linkblog)
+
+New York City comptroller Brad Lander arrested at immigration court hearing. 
+
+<br> 
+
+<https://www.theguardian.com/us-news/2025/jun/17/brad-lander-arrested-new-york-city-comptroller>
+
+---
+
+## Emmys 2025: FYC – actriz de reparto, drama: Genevieve O’Reilly – Star Wars: Andor
+
+date: 2025-06-17, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Los Premios Emmy, el máximo reconocimiento de la industria de la televisión, es un escenario en donde se han distinguido algunas de las actuaciones más memorables de los últimos años y que podemos disfrutar en la pantalla chica. Cada año destacan aquellas interpretaciones que han dejado huella en el público y la crítica. A lo [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/emmys-2025-fyc-actriz-de-reparto-drama-genevieve-oreilly-star-wars-andor/">Emmys 2025: FYC – actriz de reparto, drama: Genevieve O’Reilly &#8211; Star Wars: Andor</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/emmys-2025-fyc-actriz-de-reparto-drama-genevieve-oreilly-star-wars-andor/?utm_source=rss&utm_medium=rss&utm_campaign=emmys-2025-fyc-actriz-de-reparto-drama-genevieve-oreilly-star-wars-andor>
+
+---
+
+## Private First Class Bogart
+
+date: 2025-06-17, from: National Archives, Text Message blog
+
+In late 1943/early 1944, Humphrey Bogart and his wife Mayo Methot went on an 2-1/2 month entertainment tour of military bases in North Africa and Italy for the USO.  Their party also included actor Don Cummings and accordionist Ralph Hark.  In addition to giving shows, Bogart and his wife visited hospitals and undertook other morale-boosting &#8230; <a href="https://text-message.blogs.archives.gov/2025/06/17/private-first-class-bogart/" class="more-link">Continue reading <span class="screen-reader-text">Private First Class Bogart</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/06/17/private-first-class-bogart/>
+
+---
+
+## TRMNL is a $139 WiFi-enabled E Ink display with open source firmware (you can also make one from a jailbroken Kindle)
+
+date: 2025-06-17, from: Liliputing
+
+<p>TRMNL is a small E Ink screen that you can mount on a wall, place on your desk, or put just about anywhere to display a stream of information. First launched through a Kickstarter crowdfunding campaign in 2024, you can now buy a TRMNL device directly from the company&#8217;s website for $139 to get a [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/trmnl-is-a-139-wifi-enabled-e-ink-display-with-open-source-firmware-you-can-also-make-one-from-a-jailbroken-kindle/">TRMNL is a $139 WiFi-enabled E Ink display with open source firmware (you can also make one from a jailbroken Kindle)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/trmnl-is-a-139-wifi-enabled-e-ink-display-with-open-source-firmware-you-can-also-make-one-from-a-jailbroken-kindle/>
+
+---
+
+## California Cops Investigate ‘Immigration Protest’ With AI-Camera System
+
+date: 2025-06-17, from: 404 Media Group
+
+New data obtained by 404 Media also shows California cops are illegally sharing Flock automatic license plate reader (ALPR) data with other agencies out of state, who in turn are performing searches for ICE. 
+
+<br> 
+
+<https://www.404media.co/california-cops-investigate-immigration-protest-with-ai-camera-system/>
+
+---
+
+## Meta Invents New Way to Humiliate Users With Feed of People's Chats With AI
+
+date: 2025-06-17, from: 404 Media Group
+
+In an industry full of grifters and companies hell-bent on making the internet worse, it is hard to think of a worse actor than Meta, or a worse product that the AI Discover feed. 
+
+<br> 
+
+<https://www.404media.co/meta-invents-new-way-to-humiliate-users-with-feed-of-peoples-chats-with-ai/>
+
+---
+
+## The People Search Sites in the Suspected Minnesota Killer's Notebook Are a Failure of Congress
+
+date: 2025-06-17, from: 404 Media Group
+
+The list of sites in the suspect's notebook, which can easily reveal where someone lives, are a simple Google search away, have been for years, and lawmakers could make changes if they wanted. They have before. 
+
+<br> 
+
+<https://www.404media.co/the-people-search-sites-in-the-suspected-minnesota-killers-notebook-are-a-failure-of-congress/>
+
+---
+
+## Quoting Donghee Na
+
+date: 2025-06-17, updated: 2025-06-17, from: Simon Willison’s Weblog
+
+<blockquote cite="https://discuss.python.org/t/pep-779-criteria-for-supported-status-for-free-threaded-python/84319/123"><p>The Steering Council (SC) approves <a href="https://peps.python.org/pep-0779/">PEP 779</a> [Criteria for supported status for free-threaded Python], with the effect of removing the “experimental” tag from the free-threaded build of Python 3.14 [...]</p>
+<p>With these recommendations and the acceptance of this PEP, we as the Python developer community should broadly advertise that free-threading is a supported Python build option now and into the future, and that it will not be removed without following a proper deprecation schedule. [...]</p>
+<p>Keep in mind that any decision to transition to Phase III, with free-threading as the default or sole build of Python is still undecided, and dependent on many factors both within CPython itself and the community. We leave that decision for the future.</p></blockquote>
+<p class="cite">&mdash; <a href="https://discuss.python.org/t/pep-779-criteria-for-supported-status-for-free-threaded-python/84319/123">Donghee Na</a>, discuss.python.org</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/gil">gil</a>, <a href="https://simonwillison.net/tags/python">python</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/17/donghee-na/#atom-everything>
 
 ---
 

@@ -1,11 +1,94 @@
 ---
 title: writing
-updated: 2025-06-17 06:09:24
+updated: 2025-06-17 14:09:31
 ---
 
 # writing
 
-(date: 2025-06-17 06:09:24)
+(date: 2025-06-17 14:09:31)
+
+---
+
+## 2025 Future Worlds Prize
+
+date: 2025-06-17, from: Locus Magazine
+
+<p>The Future Worlds Prize for Fantasy and Science Fiction Writers of Colour has announced its winner and runner-up:</p>
+<div class="nobullets">
+<ul>
+<li>WINNER: &#8220;Earth S.O.S.&#8221;, Harmony Knight</li>
+<li>RUNNER-UP: &#8220;Blood in the Water&#8221;, Amber Houlders</li>
+</ul>
+<ul>
+<li dir="ltr" role="presentation">&#8220;Hantu&#8221;, Kat Bador</li>
+<li>&#8220;Silted Hearts&#8221;, Jade Cuttle</li>
+<li dir="ltr" role="presentation">&#8220;Dream Scion&#8221;, Thomas Gough</li>
+<li dir="ltr" role="presentation">&#8220;The Princess of Small Things&#8221;, C. M. Leung</li>
+<li dir="ltr" role="presentation">&#8220;Pit&#8221;, Ayanna Van Der Maten</li>
+</ul>
+<p>The judges were Saara El-Arifi, Mahmud El Sayed, Rogba Payne, Amandeep Singh, and Amita Suman. The </p></div> <a href="https://locusmag.com/2025/06/2025-future-worlds-prize/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/06/2025-future-worlds-prize/>
+
+---
+
+## New Book Releases: June 17, 2025
+
+date: 2025-06-17, from: Locus Magazine
+
+<p></p>
+<p style="text-align: center;"><strong data-wp-editing="1">Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
+
+<p style="text-align: center;"><strong>New science fiction, fantasy, and horror books for the week of June 17, 2025. </strong></p>
+<p>Baer, Ulrich: <b> Beyond the Planet of the Vampires</b> (Clash Books 978-1960988645, $18.95, 218pp, formats: paperback, 06/17/2025)</p>
+<p>Gay pulp horror novel. Concerns an apocalyptic invasion of space vampires, who have crossed intergalactic fathoms to prey upon earthly victims. Incorporates elements  <a href="https://locusmag.com/2025/06/new-book-releases-june-17-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/new-book-releases-june-17-2025/>
+
+---
+
+## How the Writer of ‘Whistle’ Crafts Stronger Horror Screenplays
+
+date: 2025-06-17, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-the-writer-of-whistle-crafts-stronger-horror-screenplays" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Dafne%20Keen%20in%20Whistle.png" alt="Dafne Keen blowing into an ancient artifact in Whistle" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><a href="https://www.imdb.com/name/nm1625382/?ref_=mv_close">Owen Egerton</a> is hella inspiring.<br><br>He is a writer and director who works across multiple mediums with equal skill. His films include <span style="font-style: italic;">Mercy Black, Follow,</span> and <span style="font-style: italic;">Blood Fest</span>. His most recent novel, <a href="https://www.counterpointpress.com/books/hollow/"><span style="font-style: italic;">Hollow</span></a>, was named one of the Best Books of the Year by NPR.<br><br>His latest project, <a href="https://deadline.com/2025/05/corin-hardy-movie-whistle-acquired-independent-film-company-shudder-1236401590/" style="font-style: italic;">Whistle</a>, directed by Corin Hardy (<span style="font-style: italic;">The Nun</span>) and recently acquired by Independent Film Company and Shudder, comes from Egerton’s own short story. The film follows high school students who discover a cursed Aztec Death Whistle that summons their future deaths when blown.<br><br>Through his teaching, interviews, and public appearances, Owen offers practical advice grounded in real experience navigating both traditional publishing and Hollywood. It’s no surprise that I came away from our recent conversation ready to open my copy of Final Draft and get busy on breaking my own story.<br><br>Enjoy these tips from Egerton, which will help you go big, get inspired, and be proud to call yourself a writer.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-the-writer-of-whistle-crafts-stronger-horror-screenplays>
+
+---
+
+## Collaborative Storytelling and RPGs
+
+date: 2025-06-17, from: John August blog
+
+<p>John and Craig welcome author Stu Horvath to look at the rich history of tabletop role playing games. From Stu’s collection of over 2300 RPGs, they look at the evolution of collaborative storytelling, interactive narrative design, and the communities of players they inspire. We also discuss the complicated influences of J.R.R. Tolkien and H.P. Lovecraft [&#8230;]</p>
+The post <a href="https://johnaugust.com/2025/collaborative-storytelling-and-rpgs">Collaborative Storytelling and RPGs</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/collaborative-storytelling-and-rpgs>
+
+---
+
+## Homegrown Magic by Jamie Pacton & Rebecca Podos: Review by Archita Mittra
+
+date: 2025-06-17, from: Locus Magazine
+
+<p><strong>Homegrown Magic</strong>, Jamie Pacton &#38; Rebecca Podos (Del Rey 978-0-59387-365-6, $19.00, 368pp, tp) March 2025.</p>
+<p>Vividly imagined, <strong>Homegrown Magic </strong>has all the warmth of a picnic in springtime – delighting in a cute queer romance against a cozy cottagecore backdrop. Told in alternating chapters, the story follows Yael Clauneck, the non­binary scion of a wealthy banking family who has no intention of following in their father’s footsteps, and their  <a href="https://locusmag.com/2025/06/homegrown-magic-by-jamie-pacton-rebecca-podos-review-by-archita-mittra/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/homegrown-magic-by-jamie-pacton-rebecca-podos-review-by-archita-mittra/>
 
 ---
 

@@ -1,11 +1,287 @@
 ---
 title: planet
-updated: 2025-06-17 06:09:19
+updated: 2025-06-17 14:09:25
 ---
 
 # planet
 
-(date: 2025-06-17 06:09:19)
+(date: 2025-06-17 14:09:25)
+
+---
+
+## Irish winner of €250 million Euromillions jackpot
+
+date: 2025-06-17, from: RTÉ News
+
+The €250 million Euromillions jackpot has been won tonight by an Irish ticket holder. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0617/1519005-euromillions-jackpot-ireland/>
+
+---
+
+## HSE warns of risk to nursing home exit plan for under-65s
+
+date: 2025-06-17, from: RTÉ News
+
+The HSE has warned that efforts to move younger people with disabilities out of nursing homes are under threat, after funding for its relocation programme fell short of what was requested 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0617/1518998-hse-warns-of-risk-to-nursing-home-exit-plan-for-under-65s/>
+
+---
+
+## Watch: 5 key takeaways from Reuters news study
+
+date: 2025-06-17, from: RTÉ News
+
+The annual Reuters Digital News Report for Ireland 2025 offers a fascinating, if sobering, snapshot of media consumption. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0617/1518996-news-report-analysis/>
+
+---
+
+## Nursing home had 198 notifications of abuse allegations
+
+date: 2025-06-17, from: RTÉ News
+
+An interim report from the Health Information and Quality Authority into the two nursing homes featured in an RTÉ Investigates programme has revealed one of the residences had almost 200 notifications of allegations of abuse of patients since January 2022. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0617/1518992-hiqa-nursing-homes/>
+
+---
+
+## 'Burn those clothes' - How family shielded Jozef Puska
+
+date: 2025-06-17, from: RTÉ News
+
+At about 3.20pm on a clear January day, Ashling Murphy came to the banks of the Grand Canal to exercise after finishing her day's work at Durrow National School. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0617/1518994-trial-summary-puska-family/>
+
+---
+
+## Ireland preparing for EU presidency next year - Tánaiste
+
+date: 2025-06-17, from: RTÉ News
+
+Tánaiste Simon Harris has said significant preparations are under way for Ireland's presidency of the European Union next year. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0617/1518927-irish-eu-presidency/>
+
+---
+
+## More housing announcements seek to unblock issues
+
+date: 2025-06-17, from: RTÉ News
+
+There may be no silver bullet to magically boost housing output, but the Government has certainly accelerated its own output on housing decisions. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0617/1518975-housing-analysis/>
+
+---
+
+## Ireland probably does not have enough zoned land - LDA
+
+date: 2025-06-17, from: RTÉ News
+
+The CEO of the Land Development Agency has said that Ireland probably does not have enough zoned land to deal with population growth. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0617/1518968-lda-coleman-committee/>
+
+---
+
+## How much did the bank bailout cost taxpayers?
+
+date: 2025-06-17, from: RTÉ News
+
+The taxpayer put a total of €64.1 billion into the Irish banks during the financial crisis. The key question in 2025 is how much of that has been recovered 17 years after the financial meltdown, writes David Murphy. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0617/1518971-bank-bailout-analysis/>
+
+---
+
+## Four guilty of actions after Ashling Murphy murder
+
+date: 2025-06-17, from: RTÉ News
+
+Two brothers of convicted murderer Jozef Puska, along with their wives, have been found guilty of charges connected with their actions in the aftermath of the murder of teacher Ashling Murphy in 2022. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0617/1518865-puska-family-court/>
+
+---
+
+## Neqotkuk First Nation, European company to build solar farm in Saint John
+
+date: 2025-06-17, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7563586.1750184128!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/chief-ross-perley.jpg' alt='A man standing behind a podium speaking to a room full of people.' width='620' height='349' title='Ross Perley, chief of Nequotkuk (Tobique) First Nation, says the 10-megawatt solar farm will generate revenue to help meet the social service needs of his community.'/><p>The farm will be located on the city’s east side and will generate enough clean electricity to power 1,200 homes and reduce carbon emissions by more than 10,000 tonnes a year.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/new-brunswick/nequotkuk-first-nation-solar-farm-saint-john-1.7563558?cmp=rss>
+
+---
+
+## Assembly of First Nations summer meeting in Winnipeg moved to fall due to wildfires
+
+date: 2025-06-17, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7560558.1750187204!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/prairies-wildfires-20250612.jpg' alt='A helicopter flies above a forest. Smoke rises from a fire in the trees.' width='620' height='349' title='A helicopter crew works on a wildfire as another is shown flying by in northern Manitoba during a helicopter tour in the surrounding area of Flin Flon, Man. on Thursday, June 12, 2025.'/><p>The Assembly of First Nations' (AFN) annual general assembly, which was scheduled to be held in Winnipeg in July, has been postponed to September due to wildfires impacting many First Nations across the country.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/afn-aga-july-postponed-1.7563500?cmp=rss>
+
+---
+
+## More units needed for children in custody, says minister
+
+date: 2025-06-17, from: RTÉ News
+
+The Minister for Justice has said the number of accommodation units available for children who are being remanded in custody needs to be increased. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0617/1518952-oberstown/>
+
+---
+
+## Watch: Rent exemptions for students 'unworkable' - Browne
+
+date: 2025-06-17, from: RTÉ News
+
+Minister for Housing James Browne has claimed it would be "unworkable and unenforceable" to require landlords to offer special exemptions to students and lower their rent 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0617/1518949-james-browne-housing/>
+
+---
+
+## Hundreds of wildfire evacuees from Webequie First Nation return home from Barrie, Ont.
+
+date: 2025-06-17, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7563565.1750183534!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/webequie-first-nation-wildfire.jpg' alt='A person is seen giving the &quot;peace&quot; sign outside.' width='620' height='349' title='Webequie First Nation is seen under hazy, orange skies on June 4, as wildfire evacuation efforts were underway in the community. Hundreds of community members are now returning home after staying in Barrie, Ont., for two weeks.'/><p>Evacuees from Webequie First Nation in northwestern Ontario are on flights home after spending two weeks in Barrie due to a wildfire near their community. However, hundreds of people from other First Nations in the region remain in southern Ontario, with no departure date set in stone. Here's the latest on efforts to support those affected.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/webequie-wildfire-evacuees-return-home-1.7563548?cmp=rss>
+
+---
+
+## Indigenous, Black patients wait longer for care in Winnipeg ERs: report
+
+date: 2025-06-17, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7157034.1715101465!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/shutterstock-emergency-room-wait.jpg' alt='A blurred image of patients in a hospital waiting room.' width='620' height='349' title='A former travel nurses says Newfoundland and Labrador&apos;s goal of overcoming its reliance on nursing agencies will be difficult to achieve.'/><p>Patients who identify as Indigenous, African or Black are generally spending longer in Winnipeg emergency department waiting rooms than white people, according to a new report examining how different racial groups experience patient care. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/race-based-data-winnipeg-emergency-care-1.7563585?cmp=rss>
+
+---
+
+## Wildfire evacuees in Niagara Falls, Ont., hotels support one another as many face culture shock
+
+date: 2025-06-17, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7563449.1750178816!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/alberteen-spence.jpeg' alt='A portrait of a person in sunglasses and a T-shirt in a parking lot outdoors. ' width='620' height='349' title='Alberteen Spence is looking forward to returning home to Tataskweyak Cree Nation, which lifted its evacuation order Monday. She&apos;s been in staying Niagara Falls, Ont., since early June with other evacuees. '/><p>It's been about two weeks since wildfire evacuees from several First Nations started arriving in Niagara Falls, Ont. Since then, about 3,000 people from northern Manitoba and Ontario have been living in five hotels, and many will be there for the foreseeable future.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/hamilton/wildfire-evacuees-in-niagara-falls-1.7563445?cmp=rss>
+
+---
+
+## Govt agrees €148m purchase of Citywest Hotel and campus
+
+date: 2025-06-17, from: RTÉ News
+
+Minister for Justice, Jim O'Callaghan has said Cabinet has approved plans to proceed with the purchase of the Citywest Hotel and campus in Dublin for €148.2m. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0617/1518936-citywest-hotel/>
+
+---
+
+## Poll finds public turning to AI bots for news updates
+
+date: 2025-06-17, from: RTÉ News
+
+People are increasingly turning to generative artificial intelligence chatbots like ChatGPT to follow day-to-day news, a respected media report published today found. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0617/1518923-ai-bots-news/>
+
+---
+
+## Hundreds attend Raise the Roof rally outside Dáil
+
+date: 2025-06-17, from: RTÉ News
+
+The Raise the Roof campaign group held a rally outside the Dáil calling for urgent Government action on Ireland's housing and homelessness crisis. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0617/1518928-dail-housing/>
+
+---
+
+## Introducing Saige Wilson – our 2025 social media summer intern
+
+date: 2025-06-17, from: Vatican Obervatory
+
+The Vatican Observatory Foundation has a new social media summer intern! 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/introducing-saige-wilson-our-2025-social-media-summer-intern/>
+
+---
+
+## Vera Rubin to be featured on 2025 U.S. Quarter
+
+date: 2025-06-17, from: Vatican Obervatory
+
+Astronomer Vera C. Rubin to appear on U. S. Quarter as part of the American Women Quarters Program 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/vera-rubin-to-be-featured-on-2025-u-s-quarter/>
+
+---
+
+## US consumers choosing Rogan over traditional news - study
+
+date: 2025-06-17, from: RTÉ News
+
+Prominent podcasters like Joe Rogan are playing a bigger role in news dissemination in the United States, contributing to the further erosion of traditional media, according to a report released today. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0617/1518919-news-consumers-report/>
 
 ---
 
@@ -49,7 +325,7 @@ Former HSE boss Paul Reid has been named as the chairperson of An Coimisiún Ple
 
 date: 2025-06-17, from: RTÉ News
 
-Fans attempting to buy tickets for September's NFL game between the Pittsburgh Steelers and the Minnesota Vikings at Croke Park have experienced online frustration as hundreds of thousands of accounts attempt to complete purchases. 
+Fans attempting to buy tickets for September's NFL game between the Pittsburgh Steelers and the Minnesota Vikings at Croke Park experienced online frustration as hundreds of thousands of accounts attempt to complete purchases. 
 
 <br> 
 
@@ -78,6 +354,70 @@ Gaza’s health system is at breaking point, overwhelmed time and again by score
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/06/1164471>
+
+---
+
+## Israeli actions in Palestinian territories constitute war crimes, Human Rights Council hears
+
+date: 2025-06-17, from: United Nations, Top Stories
+
+The ongoing crises in the Occupied Palestinian Territory and Sudan are in the spotlight this week at the UN Human Rights Council (HRC) in Geneva. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164496>
+
+---
+
+## UN condemns deadly Russian strikes on Ukrainian capital as civilian toll mounts
+
+date: 2025-06-17, from: United Nations, Top Stories
+
+At least 14 civilians were reportedly killed and more than 100 injured in Kyiv overnight into Tuesday, as Russian drone and missile strikes struck multiple Ukrainian cities in one of the heaviest nights of bombing in months. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164486>
+
+---
+
+## ‘Syria simply cannot withstand another wave of instability,’ Security Council hears
+
+date: 2025-06-17, from: United Nations, Top Stories
+
+A senior UN official has warned against the impact of regional escalation on Syria as the country continues on the path to political transition following the overthrow of the Assad regime last December and nearly 14 years of devastating civil war.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164481>
+
+---
+
+## Afghan women face near total social, economic and political exclusion
+
+date: 2025-06-17, from: United Nations, Top Stories
+
+In the past decade, the UN has bemoaned the chronically low level of participation by Afghan women and girls in decision-making bodies and in secondary and higher education.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164476>
+
+---
+
+## Over half of Sudan’s population faces growing food insecurity
+
+date: 2025-06-17, from: Vatican News
+
+
+                    <p>A recent report by the FAO and WFP reveal that conflict is the main driver behind the hunger crisis in a number of countries.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/more-than-half-of-sudans-population-faces-food-insecurity.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/more-than-half-of-sudans-population-faces-food-insecurity.html>
 
 ---
 
@@ -125,7 +465,7 @@ date: 2025-06-17, from: Vatican News
 
 ---
 
-## Trump says won't call Minnesota governor after shooting
+## Trump says he won't call Walz after shooting
 
 date: 2025-06-17, from: RTÉ News
 
@@ -153,7 +493,7 @@ date: 2025-06-17, from: Vatican News
 
 ---
 
-## Israel, Iran trade blows as air war rages into fifth day
+## Iran launches fresh wave of missiles against Israel
 
 date: 2025-06-17, from: RTÉ News
 
@@ -177,6 +517,18 @@ The Republic of Ireland will play the first leg of their UEFA Nations League pro
 
 ---
 
+## Israeli tank fire kills at least 59 in Gaza crowd trying to get food, medics say
+
+date: 2025-06-17, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7563129.1750163550!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza.JPG' alt='Men carry the bodies of young people in white shroud.' width='620' height='349' title='Mourners carry the bodies of Palestinians killed in what the Gaza Health Ministry said were Israeli strikes, in Khan Younis, southern Gaza Strip June 17, 2025. REUTERS/Hatem Khaled'/><p>Israeli tanks fired into a crowd trying to get aid from trucks in the Gaza Strip on Monday, killing at least 59 people, according to medics, in one of the bloodiest incidents yet in mounting violence as desperate residents struggle for food.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/israel-gaza-aid-trucks-1.7563117?cmp=rss>
+
+---
+
 ## 'We transmit the faith with Jesus at the center,' Pope Leo XIV tells Italian Bishops
 
 date: 2025-06-17, from: Vatican News
@@ -193,11 +545,11 @@ date: 2025-06-17, from: Vatican News
 
 ---
 
-## Israeli tank shelling kills 51 waiting on Gaza aid trucks
+## WHO says Gaza health care at breaking point
 
 date: 2025-06-17, from: RTÉ News
 
-Israeli tank shellfire killed at least 51 people as they awaited aid trucks in Khan Younis in southern Gaza, the territory's Hamas-run health ministry said, adding that dozens of others were wounded. 
+The World Health Organization has pleaded for fuel to be allowed into Gaza to keep its remaining hospitals running, warning the Palestinian territory's health system was at "breaking point". 
 
 <br> 
 
@@ -277,11 +629,11 @@ date: 2025-06-17, from: CBC, World News
 
 ---
 
-## Paul Murphy returning to Ireland after Egypt detention
+## Paul Murphy returns to Ireland after Egypt detention
 
 date: 2025-06-17, from: RTÉ News
 
-People Before Profit TD Paul Murphy, who was detained twice in Egypt while participating in the Global March to Gaza, will return to Ireland today. 
+People Before Profit TD Paul Murphy, who was detained twice in Egypt while participating in the Global March to Gaza, has returned to Ireland. 
 
 <br> 
 
@@ -337,11 +689,11 @@ The soft opt-out organ donation law "is changing the narrative around how we thi
 
 ---
 
-## State sells its final AIB shares for €305m
+## Pay cap removed at AIB and PTSB after AIB stake sale
 
 date: 2025-06-17, from: RTÉ News
 
-The State has sold its remaining shares in AIB, Minister for Finance Paschal Donohoe has said. 
+Minister for Finance Paschal Donohoe has announced the removal of the pay cap on maximum pay for AIB and PTSB. 
 
 <br> 
 
@@ -349,7 +701,7 @@ The State has sold its remaining shares in AIB, Minister for Finance Paschal Don
 
 ---
 
-## Iran strikes Israel as loud explosions heard in Tehran
+## Trump calls for Iran's 'unconditional surrender'
 
 date: 2025-06-17, from: RTÉ News
 
@@ -361,11 +713,11 @@ Follow live developments as Iran and Israel exchange heavy strikes for a fifth d
 
 ---
 
-## Russian strikes in Kyiv kill at least 14 people
+## Russian strikes in Kyiv kill at least 16 people, flatten apartment block
 
 date: 2025-06-17, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7563069.1750152927!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-kyiv.JPG' alt='A cityscape is shown of residential buildings, with large black smoke above it.' width='620' height='349' title='Smoke rises over the city after a Russian missile and drone strike, amid Russia&apos;s attack on Ukraine, in Kyiv, Ukraine June 17, 2025.  '/><p>Russia launched hundreds of drones and dozens of missiles at Ukraine on Tuesday, hitting dozens of civilian targets in Kyiv including a large apartment block, killing at least 15 people and wounding scores, Ukrainian officials said.</p> 
+<img src='https://i.cbc.ca/1.7563069.1750152927!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-kyiv.JPG' alt='A cityscape is shown of residential buildings, with large black smoke above it.' width='620' height='349' title='Smoke rises over the city after a Russian missile and drone strike, amid Russia&apos;s attack on Ukraine, in Kyiv, Ukraine June 17, 2025.  '/><p>Russia flattened a section of an apartment block in Kyiv on Tuesday in its deadliest attack on the Ukrainian capital this year, part of a barrage of hundreds of drones and dozens of missiles that killed at least 16 people and wounded 124 others.</p> 
 
 <br> 
 
@@ -373,11 +725,11 @@ date: 2025-06-17, from: CBC, World News
 
 ---
 
-## Ukraine says at least 15 killed in Russian attacks
+## US condemns Russian attack on Kyiv that killed American
 
 date: 2025-06-17, from: RTÉ News
 
-Russia launched hundreds of drones and dozens of missiles at Ukraine overnight, hitting dozens of civilian targets in Kyiv including a large apartment block, killing at least 15 people and wounding dozens, Ukrainian officials said. 
+The United States has condemned a Russian drone and missile attack on Ukraine's capital Kyiv that killed at least 10 people, including an American. 
 
 <br> 
 
@@ -421,11 +773,11 @@ date: 2025-06-17, from: CBC, World News
 
 ---
 
-## Moscow calls G7 'useless', agrees its expulsion a mistake
+## G7 rallies behind Ukraine after abrupt Trump exit
 
 date: 2025-06-17, from: RTÉ News
 
-The Kremlin has said that US President Donald Trump was right to assert that it had been a big mistake to expel Russia from the Group of Eight in 2014, but that the G7 was no longer significant for Russia and looked "rather useless" now. 
+Group of Seven leaders, holding talks at a summit in Canada have promised Ukrainian President Volodymyr Zelensky fresh support as Russia stepped up attacks on its neighbour. 
 
 <br> 
 
@@ -493,6 +845,18 @@ Essential minimum living costs increased by 1.8% in the past year with a cumulat
 
 ---
 
+## New signage on Vancouver Island's Wild Pacific Trail honours Yuułuʔiłʔatḥ elders
+
+date: 2025-06-16, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7562896.1750115797!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/bob-and-vi-mundy.jpeg' alt='An older man and woman who are life partners smile into the camera, on a boat with water and mountains in the background. ' width='620' height='349' title='Bob and Vi Mundy are being honored with a new memorial and plaque that is placed along the Ancient Cedars trail section of the Wild Pacific Trail, on Vancouver Island.  '/><p>New signs in Vancouver Island's Wild Pacific Trail aim to honour two Yuułuʔiłʔatḥ elders who made significant contributions to preserving language in the Ucluelet First Nation. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/ucluelet-first-nation-memorial-yuu%C5%82u%CA%94i%C5%82%CA%94at%E1%B8%A5-elders-1.7562888?cmp=rss>
+
+---
+
 ## Watch: Iran's nuclear ambitions in focus amid tensions
 
 date: 2025-06-16, from: RTÉ News
@@ -538,6 +902,18 @@ date: 2025-06-16, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/entertainment/matthew-perry-doctor-charged-1.7562820?cmp=rss>
+
+---
+
+## First Nations leader who had 'intense' talk with Trump considered leaving before president landed
+
+date: 2025-06-16, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7562633.1750109143!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/g7-summit-trump-indigenous-leader.jpg' alt='President Donald Trump is greeted by Steven Crowchild of the Tsuut&apos;ina First Nation, as he arrives at Calgary International Airport, Sunday, June 15, 2025, in Calgary ahead of the G7 Summit.' width='620' height='349' title='President Donald Trump is greeted by Steven Crowchild of the Tsuut&apos;ina First Nation, as he arrives at Calgary International Airport, Sunday, June 15, 2025, in Calgary ahead of the G7 Summit.'/><p>A First Nations leader who greeted G7 members on the tarmac in Calgary said he was "filled with rage" and considered leaving before Donald Trump arrived — saying the U.S. president has "caused much pain and suffering in the world."</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/first-nations-trump-meeting-1.7562629?cmp=rss>
 
 ---
 
@@ -713,6 +1089,18 @@ St James's Hospital has made a public apology to a trans woman over her experien
 
 ---
 
+## Sexual assault, other charges stayed against Manitoba First Nation chief
+
+date: 2025-06-16, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7041838.1712717536!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/christopher-traverse.JPG' alt='A man is shown in this photo.' width='620' height='349' title='Christopher Traverse, Chief of Lake St. Martin First Nation, knows the Beardy family personally.'/><p>The provincial court says charges of sexual assault, sexual interference and possessing and making child pornography were stayed Friday against Christopher Traverse.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/sex-charges-first-nation-chief-1.7562535?cmp=rss>
+
+---
+
 ## Opt-out organ donation act to come into effect tomorrow
 
 date: 2025-06-16, from: RTÉ News
@@ -863,7 +1251,7 @@ Facing the most severe funding shortfall in the history of humanitarian aid, UN 
 
 ## From Himalayan melt to drowning shores, children lead the climate fight
 
-date: 2025-06-16, from: United Nations, Climate Change
+date: 2025-06-16, from: United Nations, Top Stories
 
 From the high Himalayas down to sea level, climate change is no longer a distant threat for children in Nepal and the Maldives – it is a daily struggle: landslides tear through mountain villages washing away homes and farms, while rising seas surge over island shorelines, threatening to swallow entire communities. 
 
@@ -1683,6 +2071,18 @@ An in-depth review into the circumstances which led to RTÉ's write-down of €3
 <br> 
 
 <https://www.rte.ie/news/2025/0615/1518506-rte-it-system/>
+
+---
+
+## Pride flag vandalized in Mistissini, Que.; community support grows, one window at a time
+
+date: 2025-06-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7560890.1749839865!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kai-coon.jpg' alt='Kai Coon showing his window painted in pride rainbows. ' width='620' height='349' title='Kai Coon stands by his family&apos;s rainbow-painted windows, a show of Pride after the school flag was torn down'/><p>After a Pride flag was torn down at Voyageur Memorial High School in Mistissini, Que., one local family decided to show solidarity with the Pride movement, by painting their windows.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/pride-flag-vandalized-in-mistissini-que-community-support-grows-one-window-at-a-time-1.7560880?cmp=rss>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-06-17 06:09:26
+updated: 2025-06-17 14:09:33
 ---
 
 # libraries
 
-(date: 2025-06-17 06:09:26)
+(date: 2025-06-17 14:09:33)
 
 ---
 
@@ -75,7 +75,7 @@ A police inspector investigates an enigmatic young woman and her connection with
 
 date: 2025-06-16, from: Association of Research Libraries News
 
-<p>Last Updated on June 16, 2025, 2:18 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 17 &#124; Wednesday, June 18 Note: Day...</p>
+<p>Last Updated on June 17, 2025, 2:52 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 17 &#124; Wednesday, June 18 Note: Day...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-june-16-18/">Day in Review (June 16–18)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

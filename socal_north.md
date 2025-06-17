@@ -1,11 +1,122 @@
 ---
 title: socal north
-updated: 2025-06-17 06:09:21
+updated: 2025-06-17 14:09:27
 ---
 
 # socal north
 
-(date: 2025-06-17 06:09:21)
+(date: 2025-06-17 14:09:27)
+
+---
+
+## Alex Padilla recounts his removal from DHS news conference in emotional Senate speech
+
+date: 2025-06-17, updated: 2025-06-17, from: The LAist
+
+The California Democrat returned to the Senate floor Tuesday to warn that the Trump administrations response to immigration protests in Los Angeles should "shock the conscience of our country." 
+
+<br> 
+
+<https://laist.com/news/alex-padilla-recounts-his-removal-from-dhs-news-conference-in-emotional-senate-speech>
+
+---
+
+## California files post-LA fires price-gouging case against Beverly Hills landlord
+
+date: 2025-06-17, updated: 2025-06-17, from: The LAist
+
+The defendant faces two misdemeanor counts for allegedly advertising, listing and eventually renting two properties at a cost that exceeds the limit set by the state. 
+
+<br> 
+
+<https://laist.com/news/california-files-post-fires-price-gouging-case-against-beverly-hills-landlord>
+
+---
+
+## ICE presence frays politics in Santa Ana, Orange County's only sanctuary city
+
+date: 2025-06-17, updated: 2025-06-17, from: The LAist
+
+Santa Ana reckons with its designation as a "sanctuary city." That debate could play out at a City Council meeting tonight. 
+
+<br> 
+
+<https://laist.com/news/politics/ice-presence-frays-politics-in-santa-ana-sanctuary-city-immigration-ice-demonstrations>
+
+---
+
+## Newsom gave his political rival a $380K job. See the special interests who paid for it
+
+date: 2025-06-17, updated: 2025-06-17, from: The LAist
+
+Reporting by CalMatters shows the special interests who financed former Los Angeles Mayor Antonio Villaraigosa’s role as infrastructure czar to Newsom. 
+
+<br> 
+
+<https://laist.com/news/politics/newsom-gave-his-political-rival-a-380k-job-see-the-special-interests-who-paid-for-it>
+
+---
+
+## Inland areas under heat advisory as SoCal temperatures rise
+
+date: 2025-06-17, updated: 2025-06-17, from: The LAist
+
+Temperatures will reach the low 100s in the Inland Empire. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/inland-areas-under-heat-advisory-as-socal-temperatures-rise>
+
+---
+
+## Trump threatens Iran's supreme leader, escalating his rhetoric about the conflict
+
+date: 2025-06-17, updated: 2025-06-17, from: The LAist
+
+President Trump called Iran's Supreme Leader Ayatollah Ali Khamenei an "easy target" but said, "We are not going to take him out (kill!), at least not for now." 
+
+<br> 
+
+<https://laist.com/news/trump-threatens-irans-supreme-leader-escalating-his-rhetoric-about-the-conflict>
+
+---
+
+## Mayor Bass urges support for Boyle Heights restaurants as ICE raids keep families home
+
+date: 2025-06-17, updated: 2025-06-17, from: The LAist
+
+Bass and California Assemblymember Mark Gonzalez visited the Mariachi Plaza corridor, where some eateries sat empty on Father’s Day. 
+
+<br> 
+
+<https://laist.com/news/food/mayor-bass-urges-support-for-boyle-heights-restaurants-as-ice-raids-keep-families-home>
+
+---
+
+## Can Trump keep troops in LA? Gavin Newsom’s case goes to appeals court today
+
+date: 2025-06-17, updated: 2025-06-17, from: The LAist
+
+The governor's legal team calls the president's arguments for deploying troops to L.A. “terrifying.” The 9th Circuit Court of Appeals today is hearing the case. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-national-guard-troops-la-newsom-case-appeals-court>
+
+---
+
+## Can Trump keep troops in LA? Gavin Newsom’s case goes to appeals court today
+
+date: 2025-06-17, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Gov. Gavin Newsom’s legal team calls President Trump’s arguments for deploying troops to Los Angeles “terrifying.” The 9th Circuit Court of Appeals today is hearing the case.</p>
+<p>The post <a href="https://lbpost.com/news/can-trump-keep-troops-in-la-national-guard-appeals-court-hearing">Can Trump keep troops in LA? Gavin Newsom’s case goes to appeals court today</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/can-trump-keep-troops-in-la-national-guard-appeals-court-hearing>
 
 ---
 
@@ -69,11 +180,11 @@ The upscale Taiwanese restaurant already has a Michelin star. Now its chef-owner
 
 ---
 
-## Shohei Ohtani makes pitching debut as a Dodger, fulfilling many fan wishes
+## Ohtani makes brief pitching debut as a Dodger — and knocks in 2 runs in 6-3 win over Padres
 
 date: 2025-06-17, updated: 2025-06-17, from: The LAist
 
-The two-way star takes the mound for the first time since signing with the team in 2023. 
+The two-way star took the mound for the first time since signing with the team in 2023. 
 
 <br> 
 
@@ -81,11 +192,11 @@ The two-way star takes the mound for the first time since signing with the team 
 
 ---
 
-## LA mayor reduces curfew hours for downtown
+## Mayor Bass lifts downtown LA curfew put in place to quell protest violence
 
 date: 2025-06-17, updated: 2025-06-17, from: The LAist
 
-The curfew, which was imposed after people broke into businesses and vandalized properties, will be discussed by the City Council. 
+The curfew was imposed after people broke into businesses and vandalized properties. 
 
 <br> 
 
@@ -121,7 +232,7 @@ An economist tells us what ICE activity in Southern California could mean for th
 
 date: 2025-06-16, from: Longbeach Post
 
-<figure><img width="1024" height="681" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1024x681.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1024x681.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-768x511.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1536x1022.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1200x799.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1568x1044.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-400x266.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh.jpg 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="681" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1024x681.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1024x681.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-768x511.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1536x1022.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1200x799.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1568x1044.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-400x266.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh.jpg 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Thousands of local kids rely on reduced-price lunches at school every day. Here's where they can still get free, healthy food during the summer.</p>
 <p>The post <a href="https://lbpost.com/news/education/free-summer-meals-lunch-long-beach-locations">Youth can get free summer meals in Long Beach while school is out; here’s where</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -148,7 +259,7 @@ The district will take a loan out to cover incidents, some decades old.
 
 date: 2025-06-16, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16122930/080924-sf-sweep-mo-cm-31-619363-0q5oooek-021714-xVizR3qX.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>California’s main source of homelessness funding would drop from $1 billion last year to $0 this year in the proposed state budget.</p>
 <p>The post <a href="https://lbpost.com/news/homelessness-funding-state-california-budget">Homelessness is top of mind for many Californians. Why does the proposed budget eliminate funding for it?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

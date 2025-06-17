@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-06-17 06:09:22
+updated: 2025-06-17 14:09:29
 ---
 
 # science and technology
 
-(date: 2025-06-17 06:09:22)
+(date: 2025-06-17 14:09:29)
+
+---
+
+## Dems hyperventilate about Palantir's work with the IRS in letter to CEO Karp
+
+date: 2025-06-17, updated: 2025-06-17, from: The Register (UK I.T. News)
+
+<h4>They&#39;re taking the data from IRSengard, claim Dems; officials tell us that&#39;s not true</h4> <p>A coalition of House and Senate Democrats has sent an aggressive letter to Palantir CEO Alex Karp questioning whether the controversial data intelligence biz is breaking federal law by allegedly helping the IRS build a searchable &#34;mega database&#34; of taxpayer information, and, likening his firm to US companies accused of aiding human rights violations in apartheid South Africa, Nazi Germany, and the People&#39;s Republic of China. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/17/palantir_questioned_letter_democrats/>
+
+---
+
+## NASA Welcomes Community, Astronauts to Marshall’s 65th Anniversary Celebration July 19
+
+date: 2025-06-17, from: NASA breaking news
+
+NASA’s Marshall Space Flight Center invites the community to help celebrate the center’s 65th anniversary during a free public event noon to 5 p.m. CDT Saturday, July 19, at The Orion Amphitheater in Huntsville, Alabama. Marshall, along with its partners and collaborators, will fill the amphitheater with space exhibits, music, food vendors, and hands-on activities [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-welcomes-community-astronauts-to-marshalls-65th-anniversary-celebration-july-19/>
+
+---
+
+## Taiwan thumbs its nose at Beijing by blocking chip exports to SMIC and Huawei
+
+date: 2025-06-17, updated: 2025-06-17, from: The Register (UK I.T. News)
+
+<h4>A symbolic political move</h4> <p>Taiwan has added China&#39;s leading foundry operator Semiconductor Manufacturing International Co. (SMIC) and IT giant Huawei to its export control list. The move effectively blacklists the duo from doing business with the chip manufacturing mecca.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/17/taiwans_crack_down_on_exports/>
+
+---
+
+## From Space to Soil: How NASA Sees Forests
+
+date: 2025-06-17, from: NASA breaking news
+
+NASA uses satellite lidar technology to study Earth’s forests, key carbon sinks. 
+
+<br> 
+
+<https://science.nasa.gov/earth/from-space-to-soil-how-nasa-sees-forests/>
+
+---
+
+## MiniMax M1 model claims Chinese LLM crown from DeepSeek - plus it's true open-source
+
+date: 2025-06-17, updated: 2025-06-17, from: The Register (UK I.T. News)
+
+<h4>China&#39;s &#39;little dragons&#39; pose big challenge to US AI firms</h4> <p>MiniMax, an AI firm based in Shanghai, has released an open-source reasoning model that challenges Chinese rival DeepSeek and US-based Anthropic, OpenAI, and Google in terms of performance and cost.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/17/minimax_m1_model_chinese_llm/>
+
+---
+
+## NASA Engineers Simulate Lunar Lighting for Artemis III Moon Landing
+
+date: 2025-06-17, from: NASA breaking news
+
+Better understanding the lunar lighting environment will help NASA prepare astronauts for the harsh environment Artemis III Moonwalkers will experience on their mission. NASA’s Artemis III mission will build on earlier test flights and add new capabilities with the human landing system and advanced spacesuits to send the first astronauts to explore the lunar South [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-engineers-simulate-lunar-lighting-for-artemis-iii-moon-landing/>
+
+---
+
+## Training for the Moo(n)
+
+date: 2025-06-17, from: NASA breaking news
+
+A curious cow watches as NASA astronauts Andre Douglas and Kate Rubins perform a simulated moonwalk in the San Francisco Volcanic Field in Northern Arizona on May 14, 2024, in preparation for NASA’s historic Artemis III Moon landing mission. Flight controllers and scientists guided activities during the week-long simulation from mission control at NASA’s Johnson [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/training-for-the-moon/>
+
+---
+
+## Apple dodges Optis patent payout for now as judge orders a do-over
+
+date: 2025-06-17, updated: 2025-06-17, from: The Register (UK I.T. News)
+
+<h4>Third time&#39;s a charm?</h4> <p>Apple has escaped a $300 million patent infringement damages penalty – for now – due to what a trio of judges said comes down to faulty jury instructions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/17/apple_optis_patent_infringement/>
+
+---
+
+## Atlas V glitch delays second Project Kuiper launch
+
+date: 2025-06-17, updated: 2025-06-17, from: The Register (UK I.T. News)
+
+<h4>Amazon&#39;s satellite constellation hits another snag as ULA rocket aborts on pad</h4> <p>A hardware glitch on United Launch Alliance&#39;s (ULA) workhorse Atlas V rocket delayed the launch of the second batch of Project Kuiper satellites.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/17/second_batch_project_kuiper/>
+
+---
+
+## Sitecore CMS flaw let attackers brute-force 'b' for backdoor
+
+date: 2025-06-17, updated: 2025-06-17, from: The Register (UK I.T. News)
+
+<h4>Hardcoded passwords and path traversals keeping bug hunters in work</h4> <p>Security researchers have issued a warning about a pre-authentication exploit chain affecting a CMS used by some of the biggest companies in the world.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/17/sitecore_rce_vulnerabilities/>
+
+---
+
+## Intel reportedly chips away at fab workforce – but hey, maybe there's a tax break coming
+
+date: 2025-06-17, updated: 2025-06-17, from: The Register (UK I.T. News)
+
+<h4>Layoffs loom at Foundry biz despite CHIPS Act relief on the horizon</h4> <p>Intel is reportedly set to shed 15 to 20 percent of its fabrication plant staff from next month, blaming company finances for the move, but the chip giant may get a boost from increased tax credits in a draft bill passing through the US Senate.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/17/intel_fab_layoff_report/>
+
+---
+
+## Broadcom delivers VMware Cloud Foundation 9 – the release that realizes its private cloud vision
+
+date: 2025-06-17, updated: 2025-06-17, from: The Register (UK I.T. News)
+
+<h4>Promises silos for VMs, storage, and networks are out. Happy cloud-like days are in, without hyperscale complications</h4> <p>573 days after closing the acquisition of VMware, Broadcom has released the product that expresses its vision for the virtualization giant&#39;s future and what it claims is the template for a modern private cloud.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/17/vmware_cloud_foundation_9_released/>
+
+---
+
+## Microsoft patches the patch that can brick Surface Hub v1 screens
+
+date: 2025-06-17, updated: 2025-06-17, from: The Register (UK I.T. News)
+
+<h4>Out-of-band getting out of hand</h4> <p>Microsoft has released an out-of-band update to deal with a Surface Hub problem introduced with June&#39;s Patch Tuesday fixes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/17/microsoft_surface_hub_v1/>
+
+---
+
+## NASA, German Aerospace Center to Expand Artemis Campaign Cooperation
+
+date: 2025-06-17, from: NASA breaking news
+
+While attending the Paris Air Show June 16, NASA acting Administrator Janet Petro signed an agreement with DLR (German Aerospace Center, or Deutsches Zentrum für Luft- und Raumfahrt) to continue a partnership in space medicine research. This renewed collaboration builds on previous radiation mitigation efforts for human spaceflight. As NASA advances the Trump-Vance Administration’s goals [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-german-aerospace-center-to-expand-artemis-campaign-cooperation/>
+
+---
+
+## Rack scale is on the rise, but it's not for everyone... yet
+
+date: 2025-06-17, updated: 2025-06-17, from: The Register (UK I.T. News)
+
+<h4>Still buying B200s and MI300Xs? Don&#39;t feel bad, Nvidia and AMD&#39;s NVL72 and Helios rack systems aren&#39;t really for the enterprise anyway</h4> <p><strong>Analysis</strong>  With all the hype around Nvidia&#39;s NVL72, AMD&#39;s newly announced Helios, and Intel&#39;s upcoming Jaguar Shores rack systems, you&#39;d be forgiven for thinking the days of eight-way HGX servers are numbered.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/17/rack_scale_ai/>
+
+---
+
+## A New Hybrid System Could Enable Spacecraft Attitude Control Systems to Perform Scientific Measurements
+
+date: 2025-06-17, from: NASA breaking news
+
+A NASA-sponsored team is creating a new approach to measure magnetic fields by developing a new system that can both take scientific measurements and provide spacecraft attitude control functions. This new system is small, lightweight, and can be accommodated onboard the spacecraft, eliminating the need for the boom structure that is typically required to measure […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-hybrid-system-could-enable-spacecraft-attitude-control-systems-to-perform-scientific-measurements/>
+
+---
+
+## 23andMe hit with £2.3M fine after exposing genetic data of millions
+
+date: 2025-06-17, updated: 2025-06-17, from: The Register (UK I.T. News)
+
+<h4>Penalty follows year-long probe into flaws that allowed attack to affect so many</h4> <p>The UK&#39;s data watchdog is fining beleaguered DNA testing outfit 23andMe £2.31 million ($3.13 million) over its 2023 mega breach.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/17/23andme_ico_fine/>
+
+---
+
+## A Researcher’s Guide to: Microgravity Materials Research
+
+date: 2025-06-17, from: NASA breaking news
+
+June 2025 Edition Most materials are formed from a partially or totally fluid sample, and the transport of heat and mass from the fluid into the solid during solidification inherently influences the formation of the material and its resultant properties. The ISS provides a long-duration microgravity environment for conducting experiments that enables researchers to examine [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/science-research/for-researchers/a-researchers-guide-to-microgravity-materials-research/>
 
 ---
 
@@ -287,9 +503,9 @@ date: 2025-06-16, updated: 2025-06-16, from: The Register (UK I.T. News)
 
 ## Remorseless extortionists claim to have stolen thousands of files from Freedman HealthCare
 
-date: 2025-06-16, updated: 2025-06-16, from: The Register (UK I.T. News)
+date: 2025-06-16, updated: 2025-06-17, from: The Register (UK I.T. News)
 
-<h4>The group has previously threatened to SWAT cancer patients and leaked pre-op plastic surgery photos</h4> <p>An extortion gang claims to have breached Freedman HealthCare, a data and analytics firm whose customers include state agencies, health providers, and insurance companies, and is threatening to dump tens of thousands of sensitive files early Tuesday morning.…</p> 
+<h4>The group has previously threatened to SWAT cancer patients and leaked pre-op plastic surgery photos</h4> <p><strong>UPDATED</strong>  An extortion gang claims to have breached Freedman HealthCare, a data and analytics firm whose customers include state agencies, health providers, and insurance companies, and is threatening to dump tens of thousands of sensitive files early Tuesday morning.…</p> 
 
 <br> 
 

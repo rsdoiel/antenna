@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-06-17 06:09:22
+updated: 2025-06-17 14:09:28
 ---
 
 # ham radio
 
-(date: 2025-06-17 06:09:22)
+(date: 2025-06-17 14:09:28)
+
+---
+
+## A teardown tale of two not-so-different switches
+
+date: 2025-06-17, from: EDN Blog
+
+<img width="3915" height="2699" src="https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?fit=3915%2C2699" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=3915 3915w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=2850 2850w" sizes="(max-width: 3915px) 100vw, 3915px" /><p>Two eight-port Gigabit Ethernet switches. Both exposed to an intense lightning EMP. Both failed. But one only partially, to one port. And the other only completely after a few minutes’ initial partial-functional operation. Intrigued? Read on for the nitty-gritty details.</p>
+<p>The post <a href="https://www.edn.com/a-teardown-tale-of-two-not-so-different-switches/">A teardown tale of two not-so-different switches</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/a-teardown-tale-of-two-not-so-different-switches/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-06-17 06:09:22
 
 date: 2025-06-17, from: EDN Blog
 
-<img width="1241" height="699" src="https://www.edn.com/wp-content/uploads/Hero-image-PDF-Solutions.png?fit=1241%2C699" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-PDF-Solutions.png?w=1241 1241w, https://www.edn.com/wp-content/uploads/Hero-image-PDF-Solutions.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-PDF-Solutions.png?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-PDF-Solutions.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-PDF-Solutions.png?w=800 800w" sizes="(max-width: 1241px) 100vw, 1241px" /><p>SiC trails behind the mature silicon industry in adopting advanced analytics and streamlined yield management systems (YMS).</p>
+<img width="1241" height="699" src="https://www.edn.com/wp-content/uploads/Hero-image-PDF-Solutions.png?fit=1241%2C699" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-PDF-Solutions.png?w=1241 1241w, https://www.edn.com/wp-content/uploads/Hero-image-PDF-Solutions.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-PDF-Solutions.png?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-PDF-Solutions.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-PDF-Solutions.png?w=800 800w" sizes="auto, (max-width: 1241px) 100vw, 1241px" /><p>SiC trails behind the mature silicon industry in adopting advanced analytics and streamlined yield management systems (YMS).</p>
 <p>The post <a href="https://www.edn.com/unlocking-compound-semiconductor-manufacturings-potential-requires-yield-management/">Unlocking compound semiconductor manufacturing’s potential requires yield management</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

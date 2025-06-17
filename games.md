@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-06-17 06:09:25
+updated: 2025-06-17 14:09:31
 ---
 
 # games
 
-(date: 2025-06-17 06:09:25)
+(date: 2025-06-17 14:09:31)
+
+---
+
+## Hades 2 marches closer to full release with the Unseen Update
+
+date: 2025-06-17, updated: 2025-06-17, from: Polygon Website
+
+Supergiant Games released the next major update for Hades 2 on Tuesday — and that means the developer is on the final stage of development for Hades 2 as it marches toward its v1.0 launch. The Unseen Update, as Supergiant has named it, focuses on “expanding core combat, Guardian encounters, and character relationships,” according to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/607551/hades-2-final-update-v1-release-supergiant-games>
+
+---
+
+## Dune: Awakening’s busted respawn left me naked and alone in the middle of nowhere
+
+date: 2025-06-17, updated: 2025-06-17, from: Polygon Website
+
+Dune: Awakening is a lot like real life in that two things are guaranteed: You’ll pay taxes, and you’ll die. The nice thing about dying in Dune: Awakening is you pop back up with almost everything intact and can carry on with whatever you were doing before — unless a sandworm gets you. If one [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/607305/dune-awakening-sandworm-respawn-at-base>
+
+---
+
+## DC casts its Clayface actor, who shouldn’t take that personally
+
+date: 2025-06-17, updated: 2025-06-17, from: Polygon Website
+
+DC Studios has found its Clayface: the handsome Tom Rhys Harries. According to Variety, the Welsh actor known for his role in Apple TV’s Suspicion and Netflix’s White Lines has officially joined the cast as the lead role for the upcoming title focused on the Batman villain. Harries secured the role after beating out talents [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/607423/dc-casts-clayface-actor-tom-rhys-harries>
+
+---
+
+## Pokémon players say they’ve lost years of gameplay due to Switch 2 save data transfer issues
+
+date: 2025-06-17, updated: 2025-06-17, from: Polygon Website
+
+Pokémon fans who have purchased a Switch 2 are reporting that their save data from previous games isn&#8217;t transferring correctly to their new Nintendo console, leaving some players heartbroken after losing years-old saves from across Pokémon generations (per IGN). Reddit user ThatOtaku26 shared their experience with data-transfer issues in the /r/PokemonScarletViolet subreddit, claiming that they&#8217;d [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/607209/pokemon-save-data-lost-transfer>
+
+---
+
+## Bungie delays Marathon indefinitely
+
+date: 2025-06-17, updated: 2025-06-17, from: Polygon Website
+
+Bungie has delayed Marathon indefinitely, scrapping the game’s previously scheduled Sept. 23 release date. The company offered no new release date or window in a development update on Marathon. This leaves fans uncertain about when the FPS extraction shooter will arrive, days after Sony Interactive Entertainment’s Studio Business Group CEO Hermen Hulst insisted Marathon wouldn’t [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/607525/bungie-delays-marathon-release-date>
+
+---
+
+## Here’s when you can play EA’s Skate in early access
+
+date: 2025-06-17, updated: 2025-06-17, from: Polygon Website
+
+Get your boards out chat because Electronic Arts has announced that Skate early access will arrive at the end of the summer for PlayStation, Windows PC, Xbox, and mobile users. Early access will be a part of Playtest Update 0.27, which is set to roll out on July 2. Players who want access to early [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/607460/skate-4-early-access-playtesting-release-date>
+
+---
+
+## All Sciel outfits in Clair Obscur: Expedition 33 and how to unlock them
+
+date: 2025-06-17, updated: 2025-06-17, from: Polygon Website
+
+Sciel is the girl boss of Clair Obscur: Expedition 33. While on your journey to tear down the paintress and leave a better world for those who come after, you’ll come across many different hairstyles and outfits for you to express what it means to be dealing in death. Luckily, the cards are in your [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/clair-obscur-expedition-33-guides/606941/sciel-outfits-hairstyles-all-how-to-unlock>
+
+---
+
+## Elio is classic Pixar — but the boundary-pushing doesn’t always pay off
+
+date: 2025-06-17, updated: 2025-06-17, from: Polygon Website
+
+Pixar was built on risks. From its earliest days, the animation studio tried things no one had tried before: producing the first full-length CG animated feature; pushing the emotional limits of kid-friendly movies with stories built around death and loss; focusing on original characters, stories, and designs, rather than retelling familiar fairy tales or emulating [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/disney/607471/elio-review-pixar>
+
+---
+
+## Overwatch 2 season 17’s battle pass and new Mythic skins
+
+date: 2025-06-17, updated: 2025-06-17, from: Polygon Website
+
+Season 17 of Overwatch 2 will include a fresh batch of skins and other cosmetics to acquire through the game’s premium battle pass, including new 8-bit-themed versions of Genji, Sombra, and Reinhardt; and new Overwatch Academy skins for Junkrat and Cassidy. For the first time, the newest season of Overwatch 2 will launch with two [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/overwatch/607459/overwatch-2-season-17-battle-pass-skins-new-mythics>
+
+---
+
+## Overwatch 2 shakes up the game yet again with season 17
+
+date: 2025-06-17, updated: 2025-06-17, from: Polygon Website
+
+Overwatch 2’s 17th season is coming soon and with it a long list of updates to the game’s recently launched Stadium mode. But players of core modes of Overwatch 2 —&#160;namely Quick Play and Competitive —&#160;also have a lot to look forward to in the game’s new season. Of course, there’s the usual batch of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/607417/overwatch-2-season-17-updates-stadium-maps>
 
 ---
 

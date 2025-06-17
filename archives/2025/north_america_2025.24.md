@@ -1,11 +1,125 @@
 ---
 title: north america
-updated: 2025-06-17 06:09:20
+updated: 2025-06-17 14:09:27
 ---
 
 # north america
 
-(date: 2025-06-17 06:09:20)
+(date: 2025-06-17 14:09:27)
+
+---
+
+## Trump, Israel, Iran, and Ukraine: Alex Vindman on the State of American Foreign Relations
+
+date: 2025-06-17, from: The Contrarian
+
+"We are hyper-transactional, we are extremely short-sighted, and nobody embodies this flaw more so than Donald Trump." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166161632/f2872ac01461453477b3f107051673b8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166161632/f2872ac01461453477b3f107051673b8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/trump-israel-iran-and-ukraine-alex>
+
+---
+
+## The other parade
+
+date: 2025-06-17, from: The Contrarian
+
+A cartoon by Nick Anderson. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-other-parade>
+
+---
+
+## Spiritual warfare and the roots of political violence
+
+date: 2025-06-17, from: The Contrarian
+
+American democracy is under attack from an authoritarian movement. 
+
+<br> 
+
+<https://contrarian.substack.com/p/spiritual-warfare-and-the-roots-of>
+
+---
+
+## A Coal Miner’s Daughter Takes on DOGE to Protect Miners’ Health
+
+date: 2025-06-17, from: Capital and Main
+
+<p>Since 1970, more than 75,000 miners have died of black lung disease. Now, researchers working to prevent those deaths get layoff notices.</p>
+<p>The post <a href="https://capitalandmain.com/a-coal-miners-daughter-takes-on-doge-to-protect-miners-health">A Coal Miner’s Daughter Takes on DOGE to Protect Miners’ Health</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/a-coal-miners-daughter-takes-on-doge-to-protect-miners-health>
+
+---
+
+##  How Trump Launched His Own War In The Middle East 
+
+date: 2025-06-17, from: The Lever News
+
+ As the president pressed for an Iran nuclear deal, he approved Israel’s new war. Will America’s own military soon be directly involved?  
+
+<br> 
+
+<https://www.levernews.com/how-trump-launched-his-own-war-in-the-middle-east/>
+
+---
+
+## Let’s Do Lunch! 06/17
+
+date: 2025-06-17, from: The Contrarian
+
+A recording from Let's Do Lunch! 06/17 
+
+<br> 
+
+<https://contrarian.substack.com/p/lets-do-lunch-0617>
+
+---
+
+##  The Patent Loophole Keeping Your Drugs Expensive 
+
+date: 2025-06-17, from: The Lever News
+
+ Pharmaceutical manufacturers are exploiting patent law to extend their brand-name drug monopolies for years past their original expiration date.  
+
+<br> 
+
+<https://www.levernews.com/the-patent-loophole-keeping-your-drugs-expensive/>
+
+---
+
+## The world’s trust In the United States Is fading
+
+date: 2025-06-17, from: The Contrarian
+
+Accountability is no longer expected from America. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-worlds-trust-in-the-united-states>
+
+---
+
+## The Big, Beautiful Tax Hike: Jesse Lee on the GOP Tax Bill
+
+date: 2025-06-17, from: The Contrarian
+
+"How can Democrats actually increase the heat enough to dissuade them or change the bill so radically?" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166109169/8042ea13b8dd384680ce42b8832b0b0b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166109169/8042ea13b8dd384680ce42b8832b0b0b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-big-beautiful-tax-hike-jesse>
 
 ---
 
@@ -18,6 +132,18 @@ Words & Phrases We Could Do Without
 <br> 
 
 <https://contrarian.substack.com/p/the-violence-and-incitement-are-coming>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-06-17, from: The Contrarian
+
+Tuesday: No Kings Day rallies across the country, including in Arkansas, Pennsylvania, Washington, South Carolina, Alaska, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 
@@ -180,18 +306,6 @@ date: 2025-06-16, from: Capital and Main
 <br> 
 
 <https://capitalandmain.com/immigration-raids-disrupt-businesses-in-southern-california-and-beyond>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-06-16, from: The Contrarian
-
-Monday: Contrarians were among the millions of Americans who spent Saturday at No Kings Day rallies across the country. Today, we are featuring more of their photos. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

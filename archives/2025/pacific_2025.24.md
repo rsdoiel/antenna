@@ -1,11 +1,131 @@
 ---
 title: pacific
-updated: 2025-06-17 06:09:21
+updated: 2025-06-17 14:09:28
 ---
 
 # pacific
 
-(date: 2025-06-17 06:09:21)
+(date: 2025-06-17 14:09:28)
+
+---
+
+## Solomon Islanders safe but unable to leave Israel
+
+date: 2025-06-17, from: 
+
+The Solomon Islands foreign ministry says five people, who completed agriculture training in Israel, are safe but unable to come home amid ongoing tensions between Israel and Iran. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564460/solomon-islanders-safe-but-unable-to-leave-israel>
+
+---
+
+## Saipan casino operator warned: Renew insurance or face bankruptcy case dismissal
+
+date: 2025-06-17, from: Pacific Island Times
+
+Court sets June 19 deadline amid Imperial Pacific's struggles with cash shortage and delayed assets sale The Imperial Pacific Resort in... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/saipan-casino-operator-warned-renew-insurance-or-face-bankruptcy-case-dismissal>
+
+---
+
+## Ardie Savea confirms sabbatical to play in Japan
+
+date: 2025-06-17, from: 
+
+Moana Pasifika are set to lose their inspirational leader for next season. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/sport/564406/ardie-savea-confirms-sabbatical-to-play-in-japan>
+
+---
+
+## Parties in Tinian stablecoin dispute pursue settlement
+
+date: 2025-06-17, updated: 2025-06-17, from: Marianas Variety
+
+THE parties in Attorney General Edward E. Manibusan’s lawsuit to halt the enforcement of the Tinian stablecoin law have requested the Superior Court to move the hearing dates, as they are actively trying to settle the case. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/parties-in-tinian-stablecoin-dispute-pursue-settlement/article_0039d41f-bcc7-4727-9e35-fa2532c1d974.html>
+
+---
+
+## We must hold those in power accountable
+
+date: 2025-06-17, updated: 2025-06-17, from: Marianas Variety
+
+OUR nation has two major political parties to balance power. Both — the Democrats and Republicans — must uphold U.S. laws 24/7, 365 days a year. No excuses. No exceptions. 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/we-must-hold-those-in-power-accountable/article_328a980d-5dfb-49df-9522-fa930e7876e6.html>
+
+---
+
+## AG Manibusan joins bipartisan effort to protect veterans’ education benefits
+
+date: 2025-06-17, updated: 2025-06-17, from: Marianas Variety
+
+(CNMI Office of the Attorney General) — Attorney General Edward Manibusan on Tuesday joined a bipartisan coalition of 51 other attorneys general in filing a Virginia-led amicus brief in the U.S. Court of Appeals for the Federal Circuit, standing with military veterans and their families to ensure they receive full G.I. Bill education benefits by the U.S. Department of Veterans Affairs. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/ag-manibusan-joins-bipartisan-effort-to-protect-veterans-education-benefits/article_66007695-c305-4fe4-bdbd-f126d449b893.html>
+
+---
+
+## Governor’s Broadband Bootcamp on Rota concludes with 23 graduates
+
+date: 2025-06-17, updated: 2025-06-17, from: Marianas Variety
+
+(NMC) — The Rota participants of the Governor’s Broadband Bootcamp are now proficient in fiber optic and broadband technologies after completing a 19-week program that ran from January to May 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/governor-s-broadband-bootcamp-on-rota-concludes-with-23-graduates/article_1f55c999-0a89-43e9-a297-927119698a3b.html>
+
+---
+
+## Red flags at 4 Saipan sites
+
+date: 2025-06-17, updated: 2025-06-17, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan’s west coast recreational beaches and storm drainages every week. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/red-flags-at-4-saipan-sites/article_c6f002de-d0ab-45d0-b8b4-c3e581d39e42.html>
+
+---
+
+## Trump urges Tehran evacuation as Iran-Israel conflict enters fifth day
+
+date: 2025-06-17, updated: 2025-06-17, from: Marianas Variety
+
+TEL AVIV/DUBAI (Reuters) — Israel and Iran attacked each other for a fifth straight day on Tuesday, and President Donald Trump urged Iranians to evacuate Tehran, citing what he said was the country's rejection of a deal to curb nuclear weapons development. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-urges-tehran-evacuation-as-iran-israel-conflict-enters-fifth-day/article_68f97980-9176-41db-8041-f701352ac3bb.html>
+
+---
+
+## Delegate proposes possible VA relocation from Manila to Guam
+
+date: 2025-06-17, updated: 2025-06-17, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — If the Trump administration plans to shutter the Veterans Affairs regional office in Manila, then Philippines, then Guam Delegate James Moylan wants it to be moved to Guam instead. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/delegate-proposes-possible-va-relocation-from-manila-to-guam/article_8f551043-b59d-4f4d-b7d9-93518dc77392.html>
 
 ---
 

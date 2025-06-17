@@ -1,11 +1,65 @@
 ---
 title: home
-updated: 2025-06-17 06:09:27
+updated: 2025-06-17 14:09:33
 ---
 
 # home
 
-(date: 2025-06-17 06:09:27)
+(date: 2025-06-17 14:09:33)
+
+---
+
+## A Home in Portugal Connects Deeply With Its Setting—Down to a Fault Line
+
+date: 2025-06-17, from: Dwell
+
+It has green roofs, cork cladding, and a sunken path running between private and public areas that mirror a seismic divide. 
+
+<br> 
+
+<https://www.dwell.com/article/casa-da-levada-ivo-tavares-studio-cork-clad-home-9872489b>
+
+---
+
+## Tips and Tricks For Cooling Your Home Without Breaking the Bank
+
+date: 2025-06-17, from: Family Handyman Blog
+
+<p>As summers heat up, it's more important than ever to keep your house cool. Here are some expert tips for doing it efficiently and economically.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/ac-tips-for-saving-money/">Tips and Tricks For Cooling Your Home Without Breaking the Bank</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/ac-tips-for-saving-money/>
+
+---
+
+## How to Plant and Grow Jostaberries
+
+date: 2025-06-17, from: The Gardener's Path
+
+<p>Jostaberry is a thornless, upright shrub that’s easy to grow and ideal for cooler climates. It produces deep red to black berries high in vitamin C and bioflavonoids with a mild black currant flavor and excellent for eating fresh or cooked. Learn how to grow low-maintenance jostaberry shrubs in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit/grow-jostaberries/">How to Plant and Grow Jostaberries</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/fruit/grow-jostaberries/>
+
+---
+
+## City Farm SLO: Connecting Community Through Food and Farms
+
+date: 2025-06-17, from: California Grown
+
+<p>Let’s get one thing straight: City Farm SLO isn’t your average “urban garden” with a couple of raised beds and a compost bin tucked behind a school. No, this is 19 acres of gritty, glorious, community-rooted land that sits smack in the city of San Luis Obispo and is changing how people see their food—and [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/city-farm/" data-wpel-link="internal" target="_self">City Farm SLO: Connecting Community Through Food and Farms</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/city-farm/>
 
 ---
 
@@ -48,6 +102,18 @@ date: 2025-06-17, from: Yard Life blog
 
 ---
 
+## This Outrageously Pretty Purple Tile Is Actually Made Out of Sea Urchins
+
+date: 2025-06-17, from: Sunset Magazine - Living in the West
+
+A Berkeley-based company is crafting tiles out of purple sea urchins, helping to rebalance California kelp forest ecosystems. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/sea-urchin-tile-urchinite>
+
+---
+
 ## 5 Types of Deer in Texas (With Pictures and Identification)
 
 date: 2025-06-17, from: Yard Life blog
@@ -60,6 +126,18 @@ date: 2025-06-17, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/5-types-of-deer-in-texas-with-pictures-and-identification/>
+
+---
+
+## Calling All Tinned Fish Girlies and Yachtcore Enthusiasts—These Are the Coastal Tastemakers Worth Following
+
+date: 2025-06-17, from: Sunset Magazine - Living in the West
+
+With nautical kitsch and tinned fish having their moment, here are the coastal and seafood influencers you need to follow for inspiration. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/sustainable-seafood-tinned-fish-influencers>
 
 ---
 
@@ -167,18 +245,6 @@ date: 2025-06-16, from: Family Handyman Blog
 
 ---
 
-## Calling All Tinned Fish Girlies and Yachtcore Enthusiasts—These Are the Coastal Tastemakers Worth Following
-
-date: 2025-06-16, from: Sunset Magazine - Living in the West
-
-With nautical kitsch and tinned fish having their moment, here are the coastal and seafood influencers you need to follow for inspiration. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/sustainable-seafood-tinned-fish-influencers>
-
----
-
 ## How to Dispose of Old Gasoline the Legal (and Safe) Way
 
 date: 2025-06-16, from: Family Handyman Blog
@@ -273,7 +339,7 @@ The (almost) entirely ash structure uses a grid system-of-parts that can be take
 
 date: 2025-06-16, from: Sunset Magazine - Living in the West
 
- 
+Decorating &amp; Design, Home Tours This Untouched &#8217;70s Lake House Got a Fresh and Groovy Update It was completely remodeled yet still retains its cool.  Read more: This Untouched &#8217;70s Lake&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
 
 <br> 
 
@@ -290,18 +356,6 @@ After surviving a shark attack as a teenager, Kauai-based photographer Mike Coot
 <br> 
 
 <https://www.sunset.com/travel/outdoor-adventure/mike-coots-protecting-sharks>
-
----
-
-## This Outrageously Pretty Purple Tile Is Actually Made Out of Sea Urchins
-
-date: 2025-06-16, from: Sunset Magazine - Living in the West
-
-A Berkeley-based company is crafting tiles out of purple sea urchins, helping to rebalance California kelp forest ecosystems. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/sea-urchin-tile-urchinite>
 
 ---
 

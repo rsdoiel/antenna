@@ -1,11 +1,24 @@
 ---
 title: motorcycles
-updated: 2025-06-17 06:09:27
+updated: 2025-06-17 14:09:34
 ---
 
 # motorcycles
 
-(date: 2025-06-17 06:09:27)
+(date: 2025-06-17 14:09:34)
+
+---
+
+## Suzuki Is Taking The GSX-8 Platform Touring Next Year
+
+date: 2025-06-17, from: Ride Apart, Electric Motorcycle News
+
+Sport-touring models based on the GSX-8 middleweight platform seem to be in the pipeline. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/762792/suzuki-gsx8t-sport-touring-coming-soon/>
 
 ---
 
@@ -57,7 +70,7 @@ What if your manic pixie dream chair didn't have to cost so much?
 
 ---
 
-## This Is Not A Car, and Not A Motorcycle, But Is It a Secret Third Thing?
+## This Is Not a Car, and Not a Motorcycle, But Is It a Secret Third Thing?
 
 date: 2025-06-17, from: Ride Apart, Electric Motorcycle News
 

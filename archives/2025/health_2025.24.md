@@ -1,11 +1,11 @@
 ---
 title: health
-updated: 2025-06-17 06:09:28
+updated: 2025-06-17 14:09:34
 ---
 
 # health
 
-(date: 2025-06-17 06:09:28)
+(date: 2025-06-17 14:09:34)
 
 ---
 
@@ -85,7 +85,7 @@ Chlamydia trachomatis (Ct) is an obligate intracellular bacterium that causes si
 
 date: 2025-06-16, from: People's CDC
 
-TThis is the People’s CDC bi-weekly update for June 16, 2025. This Weather Report from the People’s CDC shares the latest news on the ongoing COVID situation and other public health crises in the United States.
+This is the People’s CDC bi-weekly update for June 16, 2025. This Weather Report from the People’s CDC shares the latest news on the ongoing COVID situation and other public health crises in the United States.
  
 
 <br> 
