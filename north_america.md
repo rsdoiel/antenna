@@ -1,11 +1,47 @@
 ---
 title: north america
-updated: 2025-06-17 14:09:27
+updated: 2025-06-18 06:07:17
 ---
 
 # north america
 
-(date: 2025-06-17 14:09:27)
+(date: 2025-06-18 06:07:17)
+
+---
+
+## Counting on ‘TACO’ Trump is foolhardy
+
+date: 2025-06-18, from: The Contrarian
+
+Israel may have made a gross miscalculation 
+
+<br> 
+
+<https://contrarian.substack.com/p/counting-on-taco-trump-is-foolhardy>
+
+---
+
+## Evening Roundup, June 17
+
+date: 2025-06-17, from: The Contrarian
+
+Featuring Katherine Stewart, Alex Vindman & Jen Rubin, Brian O'Neill, Jesse Lee & Jen Rubin, Meredith Blake, Nick Anderson, Jared Bernstein & Bobby Kogan 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-17>
+
+---
+
+## From 'Fortunate Son' to 'Y.M.C.A.', Trump is oblivious to the irony of his song choices 
+
+date: 2025-06-17, from: The Contrarian
+
+Much like his policies, the president's playlists are pure chaos 
+
+<br> 
+
+<https://contrarian.substack.com/p/from-fortunate-son-to-ymca-trump>
 
 ---
 

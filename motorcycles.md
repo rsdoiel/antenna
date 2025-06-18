@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-06-17 14:09:34
+updated: 2025-06-18 06:07:23
 ---
 
 # motorcycles
 
-(date: 2025-06-17 14:09:34)
+(date: 2025-06-18 06:07:23)
+
+---
+
+## MV Agusta's New Limited Edition Superbike Is Expensive As Hell, and Oh So Pretty
+
+date: 2025-06-18, from: Ride Apart, Electric Motorcycle News
+
+How much is all this beauty worth to you? 
+
+<br> 
+
+<https://www.rideapart.com/news/763015/2026-mv-agusta-superveloce-1000-ago-limited-edition-price-specs/>
+
+---
+
+## China Cloned This Popular Honda Scooter, But Could It Actually Be Better?
+
+date: 2025-06-18, from: Ride Apart, Electric Motorcycle News
+
+The SQ16 rips a page straight off Honda’s book. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/762928/qjmotor-sq16-scooter-copycat-honda-sh125/>
 
 ---
 

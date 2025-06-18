@@ -29,7 +29,28 @@
 An experiment in personal news aggregation.
 </div>
 <h1 id="libraries">libraries</h1>
-<p>(date: 2025-06-17 14:09:33)</p>
+<p>(date: 2025-06-18 06:07:22)</p>
+<hr />
+<h2
+id="reflections-on-shared-infrastructure-and-distinctive-collections">Reflections
+on Shared Infrastructure and Distinctive Collections</h2>
+<p>date: 2025-06-18, from: Scholarly Kitchen</p>
+<p>
+Roger Schonfeld reflects on lessons from more than 20 years conducting
+research and supporting the work of libraries, publishers, and the
+research enterprise.
+</p>
+<p>
+The post
+<a href="https://scholarlykitchen.sspnet.org/2025/06/18/reflections-shared-infrastructure-distinctive-collections/">Reflections
+on Shared Infrastructure and Distinctive Collections</a> appeared first
+on <a href="https://scholarlykitchen.sspnet.org">The Scholarly
+Kitchen</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://scholarlykitchen.sspnet.org/2025/06/18/reflections-shared-infrastructure-distinctive-collections/"
+class="uri">https://scholarlykitchen.sspnet.org/2025/06/18/reflections-shared-infrastructure-distinctive-collections/</a></p>
 <hr />
 <h2
 id="editing-in-the-age-of-misinformation-a-report-on-the-2025-ease-conference">Editing
@@ -61,6 +82,213 @@ spin-transfer torque</h2>
 <p><br></p>
 <p><a href="http://hdl.handle.net/20.500.11850/740603"
 class="uri">http://hdl.handle.net/20.500.11850/740603</a></p>
+<hr />
+<h2 id="evolving-the-preprint-evaluation-world-with-sciety">Evolving the
+preprint evaluation world with Sciety</h2>
+<p>date: 2025-06-17, from: Crossref Blog</p>
+<p>
+This post is based on an interview with Sciety team at eLife.
+</p>
+<h2 id="what-is-sciety">
+What is Sciety?
+</h2>
+<p>
+Sciety is a community-led initiative developed by a team within eLife,
+that brings together expert evaluations of papers in one place. It is
+focused on preprints, preprint review and curation.
+</p>
+<h2 id="can-you-tell-us-more-about-how-sciety-works">
+Can you tell us more about how Sciety works?
+</h2>
+<p>
+Sciety aggregates preprints from different sources to facilitate the
+processes of discovery and evaluation. Groups can triage the content and
+offer preprint reviews and endorsements, and individual researchers can
+learn about and share preprints of interest and their evaluations. We
+see the value of increasing trust in preprints, and transparency around
+the process of peer review, and we are trying to highlight this value
+and encourage more people to take part.
+</p>
+<p>
+There are two key angles to Sciety: first, as preprints proliferate,
+we’re helping to make people more productive in their research by only
+surfacing the content they might be interested in and that they know
+they can trust. Second, we are also trying to get more people involved
+in the public review and curation of preprints. Contributors on Sciety
+are part of ‘groups’, representing organisations and other communities
+that facilitate some form of preprint evaluation. We’re broadly talking
+about peer review, but we also see the highlighting and summarisation of
+research. eLife, Biophysics Colab, MetaROR and Gigabyte, for example,
+are all providing some kind of review summary which Sciety shows as a
+‘curation statement’. There’s also this additional layer of individual
+curation on top of it: we have people creating their own highlights in
+lists which they curate by topic; for example, ‘preprints by authors in
+the Global South’ or ‘Papers we want to discuss in our lab’. There is
+also an update feed available to users to help them keep track of all
+the reviews and endorsements from the groups they follow. We post these
+assessments and reviews alongside the preprint, which others can then
+use as an indicator of trust: why should one care about this particular
+study? As a given group – let’s say GigaByte – and its reviewers
+highlight the specific strengths of a preprint or reference an updated
+version, this feedback offers essential context for readers.
+</p>
+<p>
+By making this evaluation and curation activity visible, Sciety
+clarifies who has reviewed the work and which groups have added it to
+their lists. These signals are invaluable for readers seeking reliable,
+curated research. The activity feed, which at present shows you all the
+added value in the form of comments, reviews and curation we are
+bringing from diverse sources, could be expanded to show different forms
+of curation activity in the future. Furthermore, other providers ingest
+and surface this information on their own platforms, such as Europe PMC
+and bioRxiv.
+</p>
+<h2 id="what-is-your-main-use-of-crossref-resources">
+What is your main use of Crossref resources?
+</h2>
+<p>
+We started using the Crossref API to pull in the front matter of
+articles. Originally, these were only bioRxiv preprints, and then we
+expanded to various other preprint servers. We would aggregate reviews
+and build on top of all the preprint servers that have put the authors’
+content out there.
+</p>
+<p>
+We were mostly after a representation of the papers that we could link
+to: titles, authors, abstracts, publication dates, and, to have a way to
+go from the DOI of a paper, a classic Crossref entry point. Initially,
+we used the public API, but the performance wasn’t high enough for what
+we needed and we switched to Metadata Plus. This immediately increased
+the speed at which we got data to the point where we could compose pages
+on the fly and talk to Crossref simultaneously. Even if we needed to
+pull 10 or 20 different paper titles at the same time to show a list of
+articles, it stayed that way for a long time. Next, we implemented
+caching – that is, we started storing temporal local copies to improve
+performance further. Eventually, we expanded the set of preprint servers
+we were interested in. It’s always been quite a good experience to be
+able to put in a DOI and use the same code, essentially, to pull out
+titles, author information and so on. Crossref does this great job of
+aggregating the world of content so that we don’t have to. The metadata
+standardisation via Crossref’s API saves us the need to write special
+code for every new preprint server.
+</p>
+<p>
+By the end of 2023, we were interested in multiple revisions and
+versions of a single preprint. Because the scholarly world is moving on,
+we can now see cases where the updates to a manuscript produce multiple
+versions in bioRxiv, and these might eventually evolve into an article
+in eLife, Nature, or another journal. The publication history complexity
+of papers has been increasing and we started relying a lot on Crossref
+to trace the relationships and the different versions of a paper across
+time. There is some good support on the relationship metadata on
+Crossref APIs, where you can see that a preprint has a new version with
+a different DOI, or conversely, that a preprint has an older version. Or
+you can see that a preprint has become a journal article, or the journal
+article was originally a preprint – along with all the dates that
+accompany these different versions. And we can establish the time it
+took for a preprint to become a journal article. In some cases it can
+take years, which is not great, right? We don’t want science to be stuck
+and not relied upon for years. So it helps us to make our case that
+preprints are the evolution of publishing, that authors publish them and
+then the preprints evolve rather than being stuck between gates kept by
+journals.
+</p>
+<h2 id="what-can-you-tell-us-about-the-use-of-preprints">
+What can you tell us about the use of preprints?
+</h2>
+<p>
+We have noticed an increase in the interest in how a paper evolves over
+time and the cross-links between different preprint expressions or
+journal articles. We’re now seeing enthusiasm from those who are trying
+alternative publishing models to bring reviewed scientific preprints to
+people faster, and there is also interest in the transparency of a
+journal. And I think that’s part of what the Crossref relationship
+metadata gives us.
+</p>
+<p>
+For example, we collaborated on a paper aimed at enhancing the culture
+of preprint peer review. One of the things we observed was that it was
+published on an OSF preprint server, and then went on to be published in
+PLOS Biology. As we’d started this project to show the relationships
+between something that had originally been a preprint, we noticed that
+the connection between PLOS and OSF for that specific preprint was not
+explicit. So, we asked a colleague if this was something that could be
+done. And our contact at PLOS said, “yes, we’ll do this”. At the time,
+we were aware of Crossref’s intention to either make this more
+manageable or to do it in bulk. This also prompted another group on
+Sciety to explore whether they could do the same. Consequently, GigaByte
+and GigaScience, two other reviewing communities on Sciety, inquired
+with their publishing platform, Riverview, if they could do the same.
+Eventually, they realised there was a way to connect the dots through
+Crossref, and they also started doing it. So, there seems to be a lot of
+enthusiasm around this idea of making the relationships more explicit:
+we should show if something has been a preprint, because it’s important
+to the authors, and it’s important to show the transparency in the
+journey. That was a real-world example of something that we’re able to
+service through Sciety by using the Crossref metadata, and the community
+is responding in a very positive manner to that.
+</p>
+<h2 id="how-has-your-experience-been-using-crossref-services-what-are-you-looking-forward-to-seeing-in-the-future">
+How has your experience been using Crossref services? What are you
+looking forward to seeing in the future?
+</h2>
+<p>
+The <em>works</em> endpoint is really the 99% of what we have been
+historically interested in. We generally experiment by putting DOIs in
+the public API or trying to discover content in the API itself. The
+amount of data is so big that there are always different examples of
+what we seek. And we don’t have many performance problems now because we
+have adopted some aggressive caching. So anything that comes from
+Crossref is typically cached for 24 hours.
+</p>
+<p>
+For example, take a bioRxiv preprint that might have multiple versions
+available on bioRxiv itself, because it’s quite common for authors to
+update the preprint as they make new changes to it. With this context,
+an example of something we would like to see is supporting <strong>the
+preprint version number</strong>. So this is something that we could
+implement for bioRxiv over some specific preprint servers on Sciety. But
+in the end, as we expanded our set of preprint servers, we had to get
+rid of that, because there wasn’t a sustainable way to aggregate it
+across most servers, like we would do with Crossref. So there’s probably
+a space there for papers as living documents. And we certainly have an
+interest in preprint-specific metadata – that’s where we will place our
+bets.
+</p>
+<p>
+Also, as part of the preprint review metadata group, which is something
+that formed out of the recent meeting with EMC Europe and ASAPbio, we’re
+trying to drive forward a <strong>recommendation and prototypes for more
+consistency in preprint review metadata</strong>. It’s quite exciting to
+be involved in this and, as you can see, Sciety is a place where we’re
+starting to pull all this stuff together. And like I say, it is a bit of
+a Wild West. <strong>There are so many things that are called a review,
+but in metadata, we know there are different terminologies.</strong> As
+people are saying, everyone should be commenting on preprints, everyone
+should be curating them, and we’re trying to make some sense of that.
+</p>
+<p>
+On the other hand, in terms of data formats, we started to use XML
+because of the higher fidelity. So, we had to compare the JSON and XML,
+and we still use the ‘transform works’ API because the JSON format
+doesn’t have enough formatting for the article abstracts and titles for
+our satisfaction. So things like italicising the research organism, for
+example <em>C. elegans</em>, and other markups that come through the
+abstract are not preserved in JSON. We can only get the maximum fidelity
+on these article front matter if we go for the XML versions.
+</p>
+<p>
+Working on Sciety and exploring Crossref metadata to make preprint
+review more open and valuable has been a rewarding experience.
+</p>
+<p>
+<em>With thanks to Giorgio Sironi, former Tech Lead Manager, and Mark
+Williams, Product Manager, at eLife</em>
+</p>
+<p><br></p>
+<p><a
+href="https://www.crossref.org/blog/evolving-the-preprint-evaluation-world-with-sciety/"
+class="uri">https://www.crossref.org/blog/evolving-the-preprint-evaluation-world-with-sciety/</a></p>
 <hr />
 <h2 id="songs-of-the-cattle-trail-and-cow-camp-by-john-a.-lomax">Songs
 of the Cattle Trail and Cow Camp, by John A. Lomax</h2>

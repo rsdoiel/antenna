@@ -1,11 +1,95 @@
 ---
 title: journalism
-updated: 2025-06-17 14:09:32
+updated: 2025-06-18 06:07:22
 ---
 
 # journalism
 
-(date: 2025-06-17 14:09:32)
+(date: 2025-06-18 06:07:22)
+
+---
+
+## Classifieds – June 18, 2025
+
+date: 2025-06-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/18/classifieds-june-18-2025/">Classifieds &#8211; June 18, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/18/classifieds-june-18-2025/>
+
+---
+
+## Meet three new members of the Board of Trustees
+
+date: 2025-06-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The new members include a SpaceX executive and real estate company presidents. </p>
+<p>The post <a href="https://dailytrojan.com/2025/06/18/meet-three-new-members-of-the-board-of-trustees/">Meet three new members of the Board of Trustees</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/18/meet-three-new-members-of-the-board-of-trustees/>
+
+---
+
+## ‘Superman’ is 2025’s most important blockbuster
+
+date: 2025-06-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The biggest movie of the summer is just a few weeks away — here’s why its success is essential.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/18/superman-is-2025s-most-important-blockbuster/">‘Superman’ is 2025’s most important blockbuster</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/18/superman-is-2025s-most-important-blockbuster/>
+
+---
+
+## Tune-Yards enchants at the Bellwether
+
+date: 2025-06-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The longtime art-pop duo performed music off of their newest, and sixth, album.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/18/tune-yards-enchants-at-the-bellwether/">Tune-Yards enchants at the Bellwether</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/18/tune-yards-enchants-at-the-bellwether/>
+
+---
+
+## USC Peace Garden faces displacement
+
+date: 2025-06-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC is working to relocate the garden in a “thoughtful” way, University officials said.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/18/usc-peace-garden-faces-displacement/">USC Peace Garden faces displacement</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/18/usc-peace-garden-faces-displacement/>
+
+---
+
+## USC associate dean named first humanist chaplain of the year
+
+date: 2025-06-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>In her role at USC, Vanessa Gomez Brake works with around 80 student groups.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/18/usc-associate-dean-named-first-humanist-chaplain-of-the-year/">USC associate dean named first humanist chaplain of the year</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/18/usc-associate-dean-named-first-humanist-chaplain-of-the-year/>
 
 ---
 

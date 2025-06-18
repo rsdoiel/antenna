@@ -1,11 +1,110 @@
 ---
 title: socal north
-updated: 2025-06-17 14:09:27
+updated: 2025-06-18 06:07:17
 ---
 
 # socal north
 
-(date: 2025-06-17 14:09:27)
+(date: 2025-06-18 06:07:17)
+
+---
+
+## Who can afford to become a teacher in California?
+
+date: 2025-06-18, updated: 2025-06-18, from: The LAist
+
+The state offers multiple pathways toward completing its requirements, but many students who enter the teaching profession still risk getting into debt, even before accounting for cost of living. 
+
+<br> 
+
+<https://laist.com/news/education/california-teacher-pipeline-money-funding>
+
+---
+
+## Cellphones still lurk after LAUSD bans, but a semester has brought hints of change
+
+date: 2025-06-18, updated: 2025-06-18, from: The LAist
+
+Four months after the Los Angeles Unified School District banned cellphones, educators say students are less distracted and more talkative. But that doesn’t mean they’re necessarily following the rules. 
+
+<br> 
+
+<https://laist.com/news/education/los-angeles-unified-phone-ban-end-of-first-semester-summer-starts>
+
+---
+
+## When is the summer solstice?
+
+date: 2025-06-18, updated: 2025-06-18, from: The LAist
+
+Here’s the science behind the summer solstice, including why its calendar date changes year to year. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/when-is-the-summer-solstice>
+
+---
+
+## Orange County internal investigation finds COVID testing partner double billed
+
+date: 2025-06-18, updated: 2025-06-18, from: The LAist
+
+The findings corroborate and expand on many details LAist found in a recent investigation of 360 Clinic, which ran large county testing sites during the pandemic. 
+
+<br> 
+
+<https://laist.com/news/politics/orange-county-investigation-finds-covid-double-billing>
+
+---
+
+## How to prepare if a parent or legal guardian is detained or deported
+
+date: 2025-06-18, updated: 2025-06-18, from: The LAist
+
+Experts say that preparing a plan with your family is essential in the event of an emergency. Here’s a guide to help coordinate childcare, support your child, find legal services and gather necessary documents. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/prepare-parent-legal-guardian-detained-deported>
+
+---
+
+## Bystanders rush to help victim shot in head outside Long Beach Wingstop, witnesses say
+
+date: 2025-06-17, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>They said a group of teens ran off after the shooting. Police had several youth detained at the scene.</p>
+<p>The post <a href="https://lbpost.com/news/crime/shooting-wingstop-long-beach-boulevard-20th-bystanders">Bystanders rush to help victim shot in head outside Long Beach Wingstop, witnesses say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/shooting-wingstop-long-beach-boulevard-20th-bystanders>
+
+---
+
+## LAUSD expands summer school to help immigrant families. Here's what's being offered
+
+date: 2025-06-17, updated: 2025-06-17, from: The LAist
+
+On top of offering more programs, Los Angeles Unified also seeks to reassure families about protections against federal immigration enforcement. 
+
+<br> 
+
+<https://laist.com/news/education/summer-school-starts-lausd-parent-guide-immigration-customs>
+
+---
+
+## This is how you stop data trackers from sucking up your health data
+
+date: 2025-06-17, updated: 2025-06-17, from: The LAist
+
+The Markup and CalMatters found multiple ways consumers can block the trackers quietly sending your data to tech companies, including those used on state-run health exchange websites. 
+
+<br> 
+
+<https://laist.com/news/this-is-how-you-stop-data-trackers-from-sucking-up-your-health-data>
 
 ---
 
@@ -18,6 +117,18 @@ The California Democrat returned to the Senate floor Tuesday to warn that the Tr
 <br> 
 
 <https://laist.com/news/alex-padilla-recounts-his-removal-from-dhs-news-conference-in-emotional-senate-speech>
+
+---
+
+## California files post-LA fires price-gouging case against Beverly Hills landlord
+
+date: 2025-06-17, updated: 2025-06-18, from: The LAist
+
+The defendant faces two misdemeanor counts for allegedly advertising, listing and eventually renting two properties at a cost that exceeds the limit set by the state. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/california-files-post-fires-price-gouging-case-against-beverly-hills-landlord>
 
 ---
 
@@ -93,11 +204,11 @@ Bass and California Assemblymember Mark Gonzalez visited the Mariachi Plaza corr
 
 ---
 
-## Can Trump keep troops in LA? Gavin Newsom’s case goes to appeals court today
+## Trump lawyers call his decision to send troops to LA ‘unreviewable’ by U.S. courts
 
 date: 2025-06-17, updated: 2025-06-17, from: The LAist
 
-The governor's legal team calls the president's arguments for deploying troops to L.A. “terrifying.” The 9th Circuit Court of Appeals today is hearing the case. 
+The governor's legal team calls the president's arguments for deploying troops to L.A. “terrifying.” 
 
 <br> 
 
@@ -105,13 +216,13 @@ The governor's legal team calls the president's arguments for deploying troops t
 
 ---
 
-## Can Trump keep troops in LA? Gavin Newsom’s case goes to appeals court today
+## Trump lawyers call his decision to send troops to LA ‘unreviewable’ by U.S. courts
 
 date: 2025-06-17, from: Longbeach Post
 
-<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Gov. Gavin Newsom’s legal team calls President Trump’s arguments for deploying troops to Los Angeles “terrifying.” The 9th Circuit Court of Appeals today is hearing the case.</p>
-<p>The post <a href="https://lbpost.com/news/can-trump-keep-troops-in-la-national-guard-appeals-court-hearing">Can Trump keep troops in LA? Gavin Newsom’s case goes to appeals court today</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17081148/060825-seiu-ice-protest-ts-cm-26-616681-ioiepxf7-749046-pIEzSEm5.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Gov. Gavin Newsom’s legal team calls President Trump’s arguments for deploying troops to Los Angeles “terrifying.” The 9th Circuit Court of Appeals today heard the case.</p>
+<p>The post <a href="https://lbpost.com/news/can-trump-keep-troops-in-la-national-guard-appeals-court-hearing">Trump lawyers call his decision to send troops to LA ‘unreviewable’ by U.S. courts</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
 
 <br> 
@@ -232,7 +343,7 @@ An economist tells us what ICE activity in Southern California could mean for th
 
 date: 2025-06-16, from: Longbeach Post
 
-<figure><img width="1024" height="681" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1024x681.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1024x681.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-768x511.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1536x1022.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1200x799.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1568x1044.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-400x266.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh.jpg 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="681" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1024x681.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1024x681.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-768x511.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1536x1022.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1200x799.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-1568x1044.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh-400x266.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/06/16120600/free-summer-food-service-programjpg-122299-80rjlijh-551123-BEfmn0oh.jpg 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Thousands of local kids rely on reduced-price lunches at school every day. Here's where they can still get free, healthy food during the summer.</p>
 <p>The post <a href="https://lbpost.com/news/education/free-summer-meals-lunch-long-beach-locations">Youth can get free summer meals in Long Beach while school is out; here’s where</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

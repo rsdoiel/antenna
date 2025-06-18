@@ -1,137 +1,145 @@
 ---
 title: columns
-updated: 2025-06-17 14:09:30
+updated: 2025-06-18 06:07:20
 ---
 
 # columns
 
-(date: 2025-06-17 14:09:30)
+(date: 2025-06-18 06:07:20)
 
 ---
 
-## Wednesday 18 June, 2025
+## 2025-06-18 Israel hate mail
 
-date: 2025-06-17, from: John Naughton's online diary
+date: 2025-06-18, from: Alex Schroeder's Blog
 
-Temptation Quote of the Day ”Don&#8217;t look at me in that tone of voice.” Dorothy Parker Musical alternative to the morning’s radio news Planxty &#124; True Love Knows No Season Link Long Read of the Day Loathe thy neighbor: Elon &#8230; <a href="https://memex.naughtons.org/wednesday-18-june-2025/40931/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+<h1 id="2025-06-18-israel-hate-mail">2025-06-18 Israel hate mail</h1>
+
+<p>I got my first comment regarding my position on Israel in a very, very long time.
+It wondered why I had not blogged anything about the situation in October 2023.</p>
+
+<p>Well, what can I say?</p>
+
+<p>Back then, I did not know that Israel was going to kill so many civilians in bloody revenge.</p>
+
+<blockquote>
+<p>On 7 October 2023, Hamas-led militant groups launched a surprise attack on Israel, in which 1,195 Israelis and foreign nationals, including 815 civilians, were killed, and 251 taken hostage with the stated goal of forcing Israel to release Palestinian prisoners. After clearing militants from its territory, Israel launched a bombing campaign and invaded Gaza on 27 October with the stated objectives of destroying Hamas and freeing the hostages. Israeli forces launched numerous campaigns during the invasion, including the Rafah offensive from May 2024, three battles fought around Khan Yunis, and the siege of North Gaza from October 2024, and have assassinated Hamas leaders inside and outside of Gaza. A temporary ceasefire in November 2023 broke down, and a second ceasefire in January 2025 ended with a surprise attack by Israel in March 2025.</p>
+
+<p>Since the start of the Israeli offensive, over 55,000 Palestinians in Gaza have been killed, over half of them women and children, and more than 128,000 Palestinians have been injured. A study in The Lancet estimated 64,260 deaths due to traumatic injuries by June 2024, while noting a larger potential death toll when &ldquo;indirect&rdquo; deaths are included. Israel&rsquo;s tightened blockade of Gaza cut off basic necessities, causing a severe hunger crisis with a high risk of famine persisting as of May 2025. By early 2025, Israel had caused unprecedented destruction in Gaza and made large parts of it uninhabitable, leveling entire cities and destroying hospitals (including children&rsquo;s hospitals), agricultural land, religious and cultural landmarks, educational facilities, and cemeteries. Gazan journalists, health workers, aid workers and other members of civil society have been detained, tortured and killed. Nearly all of the strip&rsquo;s 2.3 million Palestinian population have been forcibly displaced. Over 100,000 Israelis were internally displaced at the height of the conflict.</p>
+
+<p>&ndash; <a href="https://en.wikipedia.org/wiki/Gaza_war">Gaza war</a></p>
+</blockquote>
+
+<p>I mean, the numbers speak for themselves. Take a look at the Humanitarian Situation Updates by the United Nations.
+Just recently, from <a href="https://www.ochaopt.org/content/humanitarian-situation-update-292-gaza-strip">Humanitarian Situation Update #292 | Gaza Strip</a>:</p>
+
+<blockquote>
+<p>Between 20 and 26 May, incidents resulting in a large number of fatalities include the following:</p>
+
+<ul>
+<li>On 20 May, at about 04:00, at least nine Palestinians, including five children and one woman, were reportedly killed when a house was hit in Jabalya refugee camp, in North Gaza.</li>
+<li>On 20 May, at about 01:10, 13 Palestinians, including children and women, were reportedly killed and others injured when a house was hit in eastern Deir al Balah.</li>
+<li>On 20 May, at about 01:39, 15 Palestinians from the same family, including 11 females (two women and nine others of unconfirmed age), were reportedly killed and others injured when the gas station the family was living in after being displaced was hit in eastern An Nuseirat, in Deir al Balah.</li>
+<li>On 20 May, at around midnight, at least 11 people were reportedly killed and several others injured, and some were reported missing, when a house was hit in Jabalya al Balad, in North Gaza. Fatalities included a father, his two sons, his daughter, and his granddaughter.</li>
+<li>On May 20, three Palestinians, including two men (brothers) and one woman were reportedly killed and 15 others injured when tents for internally displaced people (IDP) were hit in Al Mawasi area of western Rafah.</li>
+<li>On 21 May, at about 11:00, eight Palestinians, including a girl, were reportedly killed and about 60 others were injured when a group of people was hit east of Gaza city.</li>
+<li>On 21 May, at about 04:15, at least 13 Palestinians – three married couples and their seven offspring, including five children – were reportedly killed when a residential building was hit and destroyed in Abasan al Kabira, in Khan Younis.</li>
+<li>On 22 May, at about 02:26, 10 Palestinians, members of the same family, including three children and three women, were reportedly killed when a warehouse sheltering IDPs was hit in Al Birkeh area of southwestern Deir al Balah.</li>
+<li>On 22 May, at about 05:00, at least 16 people of the same family, including 10 children and two women, were reportedly killed when two houses were hit in Jabalya al Balad, in North Gaza.</li>
+<li>On 21 May, at about 11:30, 10 Palestinians were reportedly killed and several others injured when a wood-fired oven, functioning as a community bakery, was hit in central Gaza city.</li>
+<li>On 26 May, at about 02:15, at least 17 Palestinians including four women, and at least five children, were reportedly killed when a house was hit in eastern Jabalya, in North Gaza.</li>
+<li>On 26 May, at about 00:30, about 36 Palestinians, including at least six children and other women, were reportedly killed, with many bodies reportedly severely burned after three classrooms of a school sheltering hundreds of IDPs were hit in Ad Daraj neighbourhood, in eastern Gaza city, causing a massive fire.</li>
+</ul>
+</blockquote>
+
+<p>Or how about <a href="https://www.ochaopt.org/content/humanitarian-situation-update-294-gaza-strip">Humanitarian Situation Update #294 | Gaza Strip</a>? Here&rsquo;s a high-level view malnutrition spreading:</p>
+
+<blockquote>
+<p>The nutritional situation of children continues to deteriorate. According to the Nutrition Cluster, preliminary analysis indicates that out of 46,738 children under five years of age who were screened for malnutrition in the second half of May, 2,733 (5.8 per cent) were diagnosed with acute malnutrition. This is up from 4.7 per cent in the first half of May and almost triple the proportion of children diagnosed with malnutrition out of those screened in February 2025, during the ceasefire. Overall, since January, Nutrition Cluster partners detected and enrolled over 16,500 children under five for treatment of severe acute malnutrition (SAM), including 141 cases with complications who needed to be hospitalized. Overall, in May, 7.5 per cent of SAM cases needed hospitalization for complications, compared with only three to four per cent in the preceding two months, showing an increase in number of severe cases. Yet, there are currently only four stabilization centres for the treatment of SAM cases with medical complications in the Gaza Strip, including two in Deir al Balah, one in Khan Younis, and one in Gaza city. Stabilization centres in North Gaza and Rafah have been forced to suspend operations, leaving children in these areas without access to lifesaving treatment. Moreover, analysis of available data for pregnant and breastfeeding women (PBW) confirms that there has been a sharp deterioration in their nutritional status in the last two months; in May, acute malnutrition was detected in 17 per cent of screened PBW in Gaza governorate and in 18 per cent of screened PBW in Deir al Balah, compared with less than 10 per cent in these two governorates in February and March.</p>
+</blockquote>
+
+<p>Or do you prefer the day-by-day violence? <a href="https://www.ochaopt.org/content/humanitarian-situation-update-296-gaza-strip">Humanitarian Situation Update #296 | Gaza Strip</a> has some of that, again:</p>
+
+<blockquote>
+<p>Between 5 and 9 June, deadly incidents included the following:</p>
+
+<ul>
+<li>On 5 June, at about 13:30, nine Palestinians were reportedly killed and others injured when a group of people was hit near Al Shifa tower, northwest of Gaza city.</li>
+<li>On 6 June, at about 11:15, a Palestinian female was reportedly killed and several others injured when a school housing internally displaced people (IDPs) was hit in Jabalya Al Balad, in North Gaza.</li>
+<li>On 6 June, at about 11:45, at least 10 Palestinians were reportedly killed and several others injured during heavy artillery shelling on Jabalya al Balad, in North Gaza, including residential buildings and an IDPs centre.</li>
+<li>On 7 June, at about 14:00, eight Palestinians, including two children, were reportedly killed and others injured when a group of people was hit in Jabalya an Nazlah, in North Gaza.</li>
+<li>On 7 June, at about 18:00, six Palestinians were reportedly killed and others injured when two houses were hit in Jabalya al Balad, in North Gaza.</li>
+<li>On 7 June, at about 5:00, seven Palestinians from the same family, including a mother and her four children, were reportedly killed when a residential building was hit in Gaza city.</li>
+<li>On 9 June, at about 9:50, six Palestinians including two females were reportedly killed and others injured when an IDP tent was hit in Al Mawasi area in Khan Younis.</li>
+<li>Between 1 and 9 June, at least 21 incidents were reported where IDP tents were allegedly hit, resulting in the reported killing of about 73 people and the injury of tens of others.</li>
+</ul>
+</blockquote>
+
+<p>Oh, and think of this:</p>
+
+<blockquote>
+<p>According to WHO, more than 10,000 patients, including over 4,000 children, remain in urgent need of medical evacuation.</p>
+</blockquote>
+
+<p>If somebody needs reminding of the scale of this bloody revenge, let them read these dry reports.</p>
+
+<p>And for context, Wikipedia is here to help.</p>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/2021_Israel%E2%80%93Palestine_crisis">2021 Israel–Palestine crisis</a>: &ldquo;As a result of the violence, at least 256 Palestinians, including 66 children, were killed (including at least seven from friendly fire). In Israel, at least 13 people were killed, including two children. The Gaza Ministry of Health reported that more than 1,900 Palestinians were injured, and as of 12 May, at least 200 Israelis were reported to have been injured. As of 19 May, at least 72,000 Palestinians have been displaced.&rdquo;</li>
+<li><a href="https://en.wikipedia.org/wiki/2014_Gaza_War">2014 Gaza War</a>: &ldquo;The war resulted in over two thousand deaths, the vast majority of which were Gazan Palestinians. This includes a total of six Israeli civilians who were killed as a result of the conflict.&rdquo;</li>
+<li><a href="https://en.wikipedia.org/wiki/2012_Gaza_War">2012 Gaza War</a>: &ldquo;Israel. Civilians: 4 killed, 219 injured. Combatants: 2 killed, 20 wounded. Palestine. Civilians: 105 killed, 971 wounded … Combatants: 55 killed, 29 wounded&rdquo; (claimed, respectively)&rdquo;</li>
+<li><a href="https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)">Gaza War (2008–2009)</a>: &ldquo;The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths.&rdquo;</li>
+<li><a href="https://en.wikipedia.org/wiki/Nakba">Nakba</a>: &ldquo;During the foundational events of the Nakba in 1948, approximately half of Palestine&rsquo;s predominantly Arab population, or around 750,000 people, were expelled from their homes or made to flee through various violent means, at first by Zionist paramilitaries, and after the establishment of the State of Israel, by its military. Dozens of massacres targeted Palestinian Arabs and over 500 Arab-majority towns, villages, and urban neighborhoods were depopulated. Many of the settlements were either completely destroyed or repopulated by Jews and given new Hebrew names. Israel employed biological warfare against Palestinians by poisoning village wells. By the end of the war, 78% of the total land area of the former Mandatory Palestine was controlled by Israel.&rdquo;</li>
+</ul>
+
+<p>And there is more. I&rsquo;ve read a book by Alain Gresh. I&rsquo;ve read a book or two by Noam Chomsky. I&rsquo;ve been reading about Israel and Palestine for a while. I remember when 23-year-old American activist Rachel Corrie was run over by a bulldozer as she stood barring its way (<a href="2003-03-19_Israel">2003-03-19 Israel</a>). I wore T-shirts sold by <a href="https://electronicintifada.net/">The Electronic Initfada</a>.</p>
+
+<p>If I know one thing it&rsquo;s that the situation is very complicated, that human rights are violated every day, and that the response to the violation of human rights is not more violations of human rights.</p>
+
+<p>All should go to court.</p>
+
+<blockquote>
+<p>The landmark ruling of 19 July 2024 declared that Israel’s occupation of the Gaza strip and the West Bank, including East Jerusalem, is unlawful, along with the associated settlement regime, annexation and use of natural resources. The Court added that Israel&rsquo;s legislation and measures violate the international prohibition on racial segregation and apartheid. The ICJ mandated Israel to end its occupation, dismantle its settlements, provide full reparations to Palestinian victims and facilitate the return of displaced people. &ndash; <a href="https://www.ohchr.org/en/press-releases/2024/07/experts-hail-icj-declaration-illegality-israels-presence-occupied">Experts hail ICJ declaration on illegality of Israel’s presence in the occupied Palestinian territory as “historic” for Palestinians and international law</a></p>
+</blockquote>
+
+<p>This is just the first paragraph of the alleged crimes of Benjamin Netanyahu and Yoav Gallant:</p>
+
+<blockquote>
+<p>The Chamber found reasonable grounds to believe that during the relevant time, international humanitarian law related to international armed conflict between Israel and Palestine applied. This is because they are two High Contracting Parties to the 1949 Geneva Conventions and because Israel occupies at least parts of Palestine. The Chamber also found that the law related to non-international armed conflict applied to the fighting between Israel and Hamas. The Chamber found that the alleged conduct of Mr Netanyahu and Mr Gallant concerned the activities of Israeli government bodies and the armed forces against the civilian population in Palestine, more specifically civilians in Gaza. It therefore concerned the relationship between two parties to an international armed conflict, as well as the relationship between an occupying power and the population in occupied territory. For these reasons, with regards to war crimes, the Chamber found it appropriate to issue the arrest warrants pursuant to the law of international armed conflict. The Chamber also found that the alleged crimes against humanity were part of a widespread and systematic attack against the civilian population of Gaza. &ndash; <a href="https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges">Situation in the State of Palestine: ICC Pre-Trial Chamber I rejects the State of Israel’s challenges to jurisdiction and issues warrants of arrest for Benjamin Netanyahu and Yoav Gallant</a></p>
+</blockquote>
+
+<p>Same here, there first paragraph of the alleged crimes of Mohammed Diab Ibrahim Al-Masri:</p>
+
+<blockquote>
+<p>With regard to the crimes, the Chamber found reasonable grounds to believe that on 7 October 2023, shortly after a large number of rockets triggered the ‘Tzeva Adom’ alarm in several communities in Israel around 6:20-6:30 am, armed men entered these communities, as well as the site of the Supernova festival, a music event with a few thousand participants (‘7 October Operation’). Members of Hamas, notably fighters of the al-Qassam Brigades, carried out mass killings at and/or around the communities of Kfar Aza, Holit, Nir Oz, Be’eri, and Nahal Oz, as well as at the Supernova festival. The attackers, for example, fired at people while they were seeking shelter and threw grenades at them. Hamas fighters followed similar patterns in other locations and killed further persons. These killings qualify as the crime against humanity and the war crime of murder. &ndash; <a href="https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-issues-warrant-arrest-mohammed-diab-ibrahim">Situation in the State of Palestine: ICC Pre-Trial Chamber I issues warrant of arrest for Mohammed Diab Ibrahim Al-Masri (Deif)</a></p>
+</blockquote>
+
+<p>Put people on trial, respect human rights, roll back the occupation, follow the resolutions of the United Nations. How hard can it be?</p>
+
+<p>Very hard.</p>
+
+<p>You know what&rsquo;s easy? Writing petty emails like these:</p>
+
+<blockquote>
+<p>It’s amazing you don’t have blog posts with that tag in October 2023.</p>
+
+<p>It’s amazing you talk about hostages only in context of d&amp;d.</p>
+</blockquote>
+
+<p>What an amazing big brain mail from a write-only email address. 🙄</p>
+
+<p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a></p> 
 
 <br> 
 
-<https://memex.naughtons.org/wednesday-18-june-2025/40931/>
-
----
-
-## Tuesday, 17 June, 2025
-
-date: 2025-06-17, from: Doc Searls (at Harvard), New Old Blog
-
-It&#39;s not the heat (though we have that too). Humidity is 85% here right now. Everything is sticky. Summer in the Midwest. Also the East. And the South. Only more of it. And worse. Interesting: warmer oceans are a cause. The WaPo explains. (Sorry, paywall.) 
-
-<br> 
-
-<https://doc.searls.com/2025/06/17/tuesday-17-june-2025/>
-
----
-
-## Seven Replies to the Viral Apple Reasoning Paper
-
-date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://simonwillison.net/2025/Jun/15/viral-apple-reasoning-paper/>
-
----
-
-## Why WhatsApp Didn’t Sell Ads
-
-date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://blog.whatsapp.com/why-we-don-t-sell-ads>
-
----
-
-## WWDC 2025: The Bento Boxes
-
-date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://512pixels.net/2025/06/wwdc25-the-bento-boxes/>
-
----
-
-## Tracking Down the Original Photo From the End of ‘The Shining’
-
-date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://x.com/AricToler/status/1908610058318991581>
-
----
-
-## How Field Notes Went From Side Project to Cult Notebook
-
-date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.fastcompany.com/91352848/field-notes-cult-notebook-started-out-as-a-side-project>
-
----
-
-## Bloomberg Publishes Embarrassing Report Comparing Tesla and Waymo Self-Driving Safety Records
-
-date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://electrek.co/2025/06/16/bloomberg-most-embarassing-report-tesla-waymo-self-driving/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-06-17, from: Dave Winer's Scripting News)
-
-Highly recommend reading this <a href="https://www.left-horizons.com/2025/06/15/that-military-parade-from-the-trumpland-diary/">review</a> of Trump's parade. We had the wrong idea about what the Army would do. Basically if you order us to do a parade, we will give you a parade. 
-
-<br> 
-
-<http://scripting.com/2025/06/17.html#a172803>
-
----
-
-## June 16, 2025
-
-date: 2025-06-17, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166170408/94ce67857a0ed564ec106e3fa1869134.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/166170408/94ce67857a0ed564ec106e3fa1869134.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/june-16-2025-04c>
+<https://alexschroeder.ch/view/2025-06-18-israel>
 
 ---
 
 ## 2025-06-16 Ban autonomous systems
 
-date: 2025-06-17, from: Alex Schroeder's Blog
+date: 2025-06-18, from: Alex Schroeder's Blog
 
 <h1 id="2025-06-16-ban-autonomous-systems">2025-06-16 Ban autonomous systems</h1>
 
@@ -147,7 +155,18 @@ date: 2025-06-17, from: Alex Schroeder's Blog
 
 <p><a href="github.com/WKnak/fail2ban-bloc">fail2ban-bloc</a> tries to guess (!) IP ranges and bans those using fail2ban. I need to investigate more.</p>
 
-<p>I&rsquo;m still fascinated by <a href="https://anarc.at/blog/2025-05-30-asncounter/">asncounter</a>. It might even work without logfiles, using <code>tcpdump</code>! For now, it generates an interesting Top 10 list.</p>
+<p>I&rsquo;m still fascinated by <a href="https://anarc.at/blog/2025-05-30-asncounter/">asncounter</a>. It might even work without logfiles, using <code>tcpdump</code>! For now, it generates an interesting Top 10 list. What&rsquo;s interesting about it is that it doesn&rsquo;t require me to query an external service and leak IP numbers.</p>
+
+<p>I used to have the following fish function, for example:</p>
+
+<pre><code>function asn
+    for ip in $argv
+        dig +short (string split '.' $ip|tac -|string join '.').origin.asn.cymru.com. TXT
+    end
+end
+</code></pre>
+
+<p>What I don&rsquo;t want to do is write another tool like <a href="/admin/network-lookup-lean">network-lookup-lean</a> which uses <code>asn.routeviews.org</code> for the same purposes, caches results, and so on. I want to get rid of this live lookup.</p>
 
 <h2 id="working-with-asncounter">Working with <code>asncounter</code></h2>
 
@@ -504,31 +523,34 @@ bin/2h-access-log !^social !178.209.50.237 \
 | awk '{print $2}' \
 | bin/asncounter --no-prefixes 2&gt;/dev/null \
 | awk '/^[0-9]/ &amp;&amp; $1&gt;1000 { print $3 }' \
-| xargs bin/asn-networks \
+| ifne xargs bin/asn-networks \
 | ifne xargs echo fail2ban-client set butlerian-jihad banip
 </code></pre>
 
-<p>I use <code>ifne</code> to prevent the execution of the last command if there is no output.
+<p>I use <code>ifne</code> to prevent the execution of the command if there is no input.
 Thanks, <a class="account" href="https://tilde.zone/@acdw" title="@acdw@tilde.zone">@acdw</a>!</p>
 
 <h2 id="summary">Summary</h2>
 
-<p><code>/etc/cron.daily/butlerian-jihad</code> runs every hour and checks if there have been any abusive autonomous systems in the last two hours. If so, they are banned.</p>
+<p><code>/etc/cron.daily/butlerian-jihad</code> runs every hour and checks if there have been any abusive autonomous systems in the last two hours. If so, they are banned. Note how I&rsquo;ve added my home IPv4 and IPv6 because I use my site a lot. 😅</p>
 
 <pre><code>#!/bin/sh
-bin/2h-access-log !^social !178.209.50.237 \
+bin/2h-access-log !^social !178.209.50.237 !MY-HOME-IPV4 !MY-HOME-IPV6 \
 | awk '{print $2}' \
 | bin/asncounter --no-prefixes 2&gt;/dev/null \
 | awk '/^[0-9]/ &amp;&amp; $1&gt;1000 { print $3 }' \
-| xargs bin/asn-networks \
-| ifne xargs echo fail2ban-client set butlerian-jihad banip
+| ifne xargs bin/asn-networks \
+| ifne xargs fail2ban-client set butlerian-jihad banip \
+&gt; /dev/null
 </code></pre>
+
+<p>This drops the output (the number of new bans) because otherwise the cron job mails that number to me.</p>
 
 <p><a href="/admin/2h-access-log">2h-access-log</a> prints the last two hours worth of log lines from <code>/var/log/apache2/access.log</code> (and <code>access.log.1</code> if necessary).</p>
 
 <p>The <code>!^social</code> argument ensures that connecting to my fedi server doesn&rsquo;t trigger the ban hammer.</p>
 
-<p>The <code>!178.209.50.237</code> argument ensures that I don&rsquo;t ban the server itself as it monitors stuff and as I test things on the server. I might have to add my home IP numbers. We&rsquo;ll see!</p>
+<p>The <code>!178.209.50.237</code> argument ensures that I don&rsquo;t ban the server itself as it monitors stuff and as I test things on the server. I also had to add my home IP numbers!</p>
 
 <p><a href="https://gitlab.com/anarcat/asncounter/">asncounter</a> finds the autonomous system numbers for all the IP numbers in the web server log file and prints a report.</p>
 
@@ -598,11 +620,267 @@ I say five times because <code>maxretry</code> is set to 5 in <code>/etc/fail2ba
 
 <p>Let&rsquo;s see how this goes for a while.</p>
 
-<p>I&rsquo;m already looking forward to dropping my <code>banlist</code> and <code>banlist6</code> sets I created for <a href="/admin/ban-cidr">ban-cidr</a>.</p> 
+<p>I&rsquo;m already looking forward to dropping my <code>banlist</code> and <code>banlist6</code> sets I created for <a href="/admin/ban-cidr">ban-cidr</a>.</p>
+
+<h2 id="aftermath-cleaning-up-ban-cidr">Aftermath: cleaning up <code>ban-cidr</code></h2>
+
+<blockquote>
+<p>&ldquo;If you want to partake in unsupervised banning with no feedback, no due process, just automatic ban-hammers, take a look at this script full of firewall commands.&rdquo; &ndash; <a href="2025-01-23-bots-devouring-the-web">2025-01-23 The bots are at it again</a></p>
+</blockquote>
+
+<p>Back when I first encountered the distributed AI bot attacks, I wrote <a href="2024-09-15-emacs-china">2024-09-18 Emacs Wiki and China</a> and began working on <code>ban-cidr</code>. In later posts, I just automated the work of getting from an IP number to a network range and adding that to the script. Now that I hopefully have an automatic solution where I only need to fine-tune the time-windows and the limits, it&rsquo;s time to expire all those bans. There are currently over 40,000 of these banned networks.</p>
+
+<pre><code>ipset list banlist | tail -n +9 | wc -l
+46920
+ipset list banlist6 | tail -n +9 | wc -l
+9
+</code></pre>
+
+<p>So slowly, over time, I&rsquo;m planning to remove these.</p>
+
+<pre><code>for ip in (ipset list banlist | tail -n +9 | head -n 1000); ipset del banlist $ip; end
+netfilter-persistent save
+</code></pre>
+
+<p>Let&rsquo;s see how it goes! 😂</p>
+
+<h2 id="petty-banning">Petty banning</h2>
+
+<p>Let&rsquo;s look at the output again:</p>
+
+<pre><code>bin/2h-access-log !^social !178.209.50.237 | awk '{print $2}' | bin/asncounter --no-prefixes
+INFO: using datfile ipasn_20250616.1200.dat.gz
+INFO: collecting addresses from &lt;stdin&gt;
+INFO: loading datfile /root/.cache/pyasn/ipasn_20250616.1200.dat.gz...
+INFO: finished reading data
+INFO: loading /root/.cache/pyasn/asnames.json
+count	percent	ASN	AS
+1041	8.44	45899	VNPT-AS-VN VNPT Corp, VN
+929	7.54	13030	INIT7, CH
+513	4.16	7922	COMCAST-7922, US
+485	3.93	24940	HETZNER-AS, DE
+351	2.85	14061	DIGITALOCEAN-ASN, US
+304	2.47	7018	ATT-INTERNET4, US
+296	2.4	16276	OVH, FR
+293	2.38	45102	ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+237	1.92	55836	RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
+218	1.77	16509	AMAZON-02, US
+total: 12327
+</code></pre>
+
+<p>What is RELIANCEJIO-IN doing?</p>
+
+<pre><code>bin/2h-access-log !^social | bin/asn-access-log 55836 | head | log-request 
+/nobots
+/emacs?action=rc&amp;from=1725473811&amp;rcidonly=acidtoyman&amp;showedit=1&amp;upto=1726683411
+/favicon.ico
+/nobots
+/emacs?action=rc&amp;all=1&amp;from=1728680271&amp;rcidonly=Comments_on_hideif.el&amp;showedit=1
+/emacs?action=rss&amp;all=1&amp;days=14&amp;full=1&amp;rcidonly=mistilteinn.el&amp;showedit=0
+/nobots
+/emacs?action=rc&amp;all=1&amp;from=1728946699&amp;rcidonly=ArneBab&amp;showedit=1&amp;upto=1729033099
+/nobots
+/emacs?action=rc&amp;all=0&amp;from=1727470564&amp;rcidonly=Comments_on_anything&amp;showedit=1
+</code></pre>
+
+<p>Ugh. They need to go.</p>
+
+<p>First, create the two lists. At this level we need two different lists for IPv4 and IPv6.</p>
+
+<pre><code>ipset create banlist hash:net
+iptables -I INPUT -m set --match-set banlist src -j DROP
+iptables -I FORWARD -m set --match-set banlist src -j DROP
+
+ipset create banlist6 hash:net family inet6
+ip6tables -I INPUT -m set --match-set banlist6 src -j DROP
+ip6tables -I FORWARD -m set --match-set banlist6 src -j DROP
+</code></pre>
+
+<p>Then define a new version of <code>asn-ban</code>:</p>
+
+<pre><code>function asn-ban
+    set --local data (asn-networks --json $argv)
+    for asn in $argv
+        for ip in (echo $data | jq --raw-output &quot;.[\&quot;$asn\&quot;].v4[]&quot;)
+            echo ipset add banlist $ip
+        end
+        for ip in (echo $data | jq --raw-output &quot;.[\&quot;$asn\&quot;].v6[]&quot;)
+            echo ipset add banlist6 $ip
+        end
+    end
+end
+</code></pre>
+
+<p>This uses the <code>--json</code> option for <a href="/admin/asn-networks">asn-networks</a> so that we only need to call it once and yet we get two lists: one for <code>banlist</code> and one for <code>banlist6</code>.</p>
+
+<p>To ban the offending ASN:</p>
+
+<pre><code>asn-ban 55836|sh
+</code></pre>
+
+<p>Before I do that, however, I want to finish clearing the existing lists.</p>
+
+<p>The reason I call this petty banning is because I&rsquo;m starting to ban autonomous systems even though their bots are &ldquo;well behaved&rdquo; in as much as they don&rsquo;t exceed the thresholds I defined. And yet they seem to be part of that great parade to honour the CO₂ god, the computation of useless shit.</p> 
 
 <br> 
 
 <https://alexschroeder.ch/view/2025-06-16-ban-asn>
+
+---
+
+## Office Hours: How the Hell Will This End?
+
+date: 2025-06-18, from: Robert Reich's blog
+
+Where will we be in four years? 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-how-the-hell-will-this>
+
+---
+
+## June 17, 2025
+
+date: 2025-06-18, from: Heather Cox Richardson blog
+
+Yesterday at the meeting of the leaders of the Group of Seven (G7), a forum of democracies with advanced economies, President Donald Trump told reporters: &#8220;The UK is very well protected. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-17-2025>
+
+---
+
+## Sigh, here we go again.
+
+date: 2025-06-17, updated: 2025-06-17, from: Ron Garret
+
+You would think that after the disasters in Afghanistan and Iraq that Republicans would have learned that starting a war in that part of the world is a Really Bad Idea (tm).&nbsp; But no.&nbsp; After utterly failing to bring about regime change in both its eastern and western neighbors, the Trump administration is winding up to try yet again again in Iran.&nbsp; Maybe the third time will be the 
+
+<br> 
+
+<https://blog.rongarret.info/2025/06/sigh-here-we-go-again.html>
+
+---
+
+## Wednesday 18 June, 2025
+
+date: 2025-06-17, from: John Naughton's online diary
+
+Temptation Quote of the Day ”Don&#8217;t look at me in that tone of voice.” Dorothy Parker Musical alternative to the morning’s radio news Planxty &#124; True Love Knows No Season Link Long Read of the Day Loathe thy neighbor: Elon &#8230; <a href="https://memex.naughtons.org/wednesday-18-june-2025/40931/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-18-june-2025/40931/>
+
+---
+
+## Tuesday, 17 June, 2025
+
+date: 2025-06-17, from: Doc Searls (at Harvard), New Old Blog
+
+It&#39;s not the heat (though we have that too). Humidity is 85% here right now. Everything is sticky. Summer in the Midwest. Also the East. And the South. Only more of it. And worse. Interesting: warmer oceans are a cause. The WaPo explains. (Sorry, paywall.) 
+
+<br> 
+
+<https://doc.searls.com/2025/06/17/tuesday-17-june-2025/>
+
+---
+
+## Seven Replies to the Viral Apple Reasoning Paper
+
+date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/15/viral-apple-reasoning-paper/>
+
+---
+
+## Why WhatsApp Didn’t Sell Ads
+
+date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://blog.whatsapp.com/why-we-don-t-sell-ads>
+
+---
+
+## WWDC 2025: The Bento Boxes
+
+date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://512pixels.net/2025/06/wwdc25-the-bento-boxes/>
+
+---
+
+## Tracking Down the Original Photo From the End of ‘The Shining’
+
+date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://x.com/AricToler/status/1908610058318991581>
+
+---
+
+## How Field Notes Went From Side Project to Cult Notebook
+
+date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.fastcompany.com/91352848/field-notes-cult-notebook-started-out-as-a-side-project>
+
+---
+
+## Bloomberg Publishes Embarrassing Report Comparing Tesla and Waymo Self-Driving Safety Records
+
+date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://electrek.co/2025/06/16/bloomberg-most-embarassing-report-tesla-waymo-self-driving/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-17, from: Dave Winer's Scripting News)
+
+Highly recommend reading this <a href="https://www.left-horizons.com/2025/06/15/that-military-parade-from-the-trumpland-diary/">review</a> of Trump's parade. We had the wrong idea about what the Army would do. Basically if you order us to do a parade, we will give you a parade. 
+
+<br> 
+
+<http://scripting.com/2025/06/17.html#a172803>
+
+---
+
+## June 16, 2025
+
+date: 2025-06-17, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166170408/94ce67857a0ed564ec106e3fa1869134.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166170408/94ce67857a0ed564ec106e3fa1869134.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-16-2025-04c>
 
 ---
 

@@ -1,11 +1,167 @@
 ---
 title: science and technology
-updated: 2025-06-17 14:09:29
+updated: 2025-06-18 06:07:19
 ---
 
 # science and technology
 
-(date: 2025-06-17 14:09:29)
+(date: 2025-06-18 06:07:19)
+
+---
+
+## ScyllaDB paddles toward scale and profit with Raft-powered upgrade
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>Cassandra rival releases new DBaaS relying on consensus algorithm</h4> <p>ScyllaDB, the wide-column database used by Comcast, Samsung, and banking giant Santander, has released a new database service it claims improves scalability and lowers cost.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/scylladb_license_change/>
+
+---
+
+## Microsoft broke DHCP for Windows Server last Patch Tuesday
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>Some servers can&#39;t renew IP addresses, and there&#39;s no fix yet</h4> <p>Microsoft has admitted that June&#39;s Patch Tuesday updates could break the DHCP service on Windows Server.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/windows_server_dhcp_broken/>
+
+---
+
+## Brit space sector struggles to compete with £90K graduate banking salaries
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>UK needs skills task force to get slice of $1.8 trillion pie, Lords told</h4> <p>The British space industry is struggling to compete for math, physics, and engineering graduates against a banking sector that can offer £90,000 ($120,000) salaries.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/space_sector_struggles_to_compete/>
+
+---
+
+## Logitech's latest keyboard and mouse combo is wired, quiet, and suspiciously sensible
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>For that laptop feel without the laptop</h4> <p>Logitech has embraced the sound of silence with its Signature Slim Wired K620 keyboard and M520 mouse combo.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/logitech_k620_m520/>
+
+---
+
+## Pulsant and Nine23 offer sovereign service for UK govt, regulated sectors
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>Amid growing unease that US may compel cloud providers to hand over European data</h4> <p>Capitalizing on the new interest in sovereign cloud, UK datacenter biz Pulsant has teamed up with Nine23, a firm specializing in high-assurance managed services for users such as the government, law enforcement, and defense sectors.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/pulsant_nine23_sovereign_cloud/>
+
+---
+
+## Amazon CISO: Iranian hacking crews ‘on high alert’ since Israel attack
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>Meanwhile, next-gen script kiddies are levelling up faster thanks to agentic AI</h4> <p><strong>Interview</strong>  Iran&#39;s state-sponsored cyber operatives and hacktivists have all increased their activities since the military conflict with Israel erupted last week – but not necessarily in the way that Amazon chief information security officer CJ Moses expected.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/amazon_ciso_agentic_acceleration/>
+
+---
+
+## Google's unloved plan to fix web permissions gathers support
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>Mozilla, at least, has warmed to the Chocolate Factory&#39;s attempt to improve mic, camera, and location permissions</h4> <p>Google has been testing a new way for websites to ask permission to access sensitive browser controls, such as the microphone and camera, despite longstanding opposition from Mozilla and Apple. Following recent refinements to the proposal, Mozilla now appears to be warming to the changes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/googles_fix_web_permissions_mozilla/>
+
+---
+
+## Japan set to join the re-usable rocket club after Honda sticks a landing
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>France announced its own effort to build re-usable engines on the same day</h4> <p>Japanese automotive giant Honda has successfully launched and landed a small rocket.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/honda_france_reusable_rockets/>
+
+---
+
+## Trump administration set to waive TikTok sell-or-die deadline for a third time
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>Quick reminder: The law that banned the app is called ‘Protecting Americans from Foreign Adversary Controlled Applications Act’</h4> <p>The Trump administration is set to again waive the 2024 law that requires the made-in-China social network TikTok to either sell its US operations to a local company or stop operating on US soil.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/trump_extends_tiktok_reprieve_again/>
+
+---
+
+## Eat or be eaten by AI, Amazon CEO warns staff
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>Expect headcount reductions over the next few years, says Andy Jassy</h4> <p>Amazon staff on Tuesday got an email from their CEO advising that some of them will probably be replaced by bots.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/amazon_ceo_warns_ai_job_cuts/>
+
+---
+
+## Salesforce adds AI to everything, jacks up prices by 6%
+
+date: 2025-06-17, updated: 2025-06-17, from: The Register (UK I.T. News)
+
+<h4>Little agents everywhere</h4> <p>Salesforce is raising prices for a bunch of its products and claims that increasing integration with AI justifies the increased bills, even after one of its own researchers recently said that AI agents are often underdelivered on basic CRM tasks.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/17/salesforce_ai_prices/>
+
+---
+
+## Career Exploration: Using Ingenuity and Innovation to Create ‘Memory Metals’
+
+date: 2025-06-17, from: NASA breaking news
+
+Othmane Benafan is a NASA engineer whose work is literally reshaping how we use aerospace materials — he creates metals that can shape shift. Benafan, a materials research engineer at NASA’s Glenn Research Center in Cleveland, creates metals called shape memory alloys that are custom-made to solve some of the most pressing challenges of space [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/career-exploration-using-ingenuity-and-innovation-to-create-memory-metals/>
+
+---
+
+## AWS locks down cloud security, hits 100% MFA enforcement for root users
+
+date: 2025-06-17, updated: 2025-06-17, from: The Register (UK I.T. News)
+
+<h4>Plus adds a ton more security capabilities for cloud customers at re:Inforce</h4> <p>Amazon Web Services hit a major multi-factor authentication milestone, achieving 100 percent MFA enforcement for root users across all types of AWS accounts.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/17/aws_enforces_mfa_root_users/>
 
 ---
 

@@ -1,11 +1,93 @@
 ---
 title: food
-updated: 2025-06-17 14:09:35
+updated: 2025-06-18 06:07:25
 ---
 
 # food
 
-(date: 2025-06-17 14:09:35)
+(date: 2025-06-18 06:07:25)
+
+---
+
+## RIP Espresso Martinis: Timothée Chalamet Prefers Rum & Coke
+
+date: 2025-06-18, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Can we all finally admit it's a bad drink? 
+
+<br> 
+
+<https://sprudge.com/rip-espresso-martinis-timothee-chalamet-prefers-rum-coke-348324.html>
+
+---
+
+## What To Do When ICE Comes to Your Coffee Shop
+
+date: 2025-06-18, from: The Fresh Cup
+
+<p>The increase in dubiously legal ICE raids isn’t just a moral crisis—it’s also an urgent workplace safety issue. Now’s the time to create a plan for when ICE comes to your coffee shop.</p>
+<p>The post <a href="https://freshcup.com/what-to-do-when-ice-comes-to-your-coffee-shop/">What To Do When ICE Comes to Your Coffee Shop</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/what-to-do-when-ice-comes-to-your-coffee-shop/>
+
+---
+
+## One-Pot Summer Vegetable Pasta
+
+date: 2025-06-18, from: Bon Appetet
+
+High on zucchini, corn, eggplant, and tomatoes. Low on dirty dishes. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/one-pot-summer-vegetable-pasta>
+
+---
+
+## Mango-Habanero Hot Sauce Recipe
+
+date: 2025-06-18, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/mango-habanero-hot-sauce/" title="Mango-Habanero Hot Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mike holding two bottles of sweet and spicy Mango-Habanero hot sauce" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Mango-habanero hot sauce is the perfect balance of fruity and spicy with sweet mango and fiery habanero peppers, just a few drops will make anything better!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/mango-habanero-hot-sauce/">Mango-Habanero Hot Sauce Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/chili-pepper-recipes/mango-habanero-hot-sauce/>
+
+---
+
+## Mexican Fruit Salad
+
+date: 2025-06-18, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/mexican-fruit-salad/"><img title="mexican-fruit-salad-25-small-7" src="https://www.isabeleats.com/wp-content/uploads/2025/06/mexican-fruit-salad-25-small-7-400x600.jpg" alt="Mexican Fruit Salad" width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Fresh Mexican fruit salad with mango, pineapple, cantaloupe, honeydew, and watermelon tossed in lime juice and chili lime seasoning &#8211;&#8230; 
+
+<br> 
+
+<https://www.isabeleats.com/mexican-fruit-salad/>
+
+---
+
+## Connor McDavid Eats the Same Thing Before Every Game
+
+date: 2025-06-17, from: Taste of Home
+
+<p>It's simple, reliable and delicious!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/connor-mcdavid-pre-game-meal/">Connor McDavid Eats the Same Thing Before Every Game</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/connor-mcdavid-pre-game-meal/>
 
 ---
 
@@ -437,7 +519,7 @@ date: 2025-06-16, from: Isebel Eats
 
 date: 2025-06-16, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/homemade-harissa-paste/" title="Homemade Harissa Paste Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Paste-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Harissa Paste in a bowl with a spoon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Paste-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Paste-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Paste-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Paste-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Paste-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Paste-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Paste-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Harissa is a versatile chili paste made with a mix of chilies, oil and seasonings, used as a flavor base or a sauce for a wide variety of dishes. Here is my tried and true recipe!</p>
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/homemade-harissa-paste/" title="Homemade Harissa Paste Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Paste-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Harissa Paste in a bowl with a spoon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Paste-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Paste-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Paste-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Paste-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Paste-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Paste-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Harissa-Paste-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Harissa is a versatile chili paste made with a mix of chilies, oil and seasonings, used as a flavor base or a sauce for a wide variety of dishes. Here is my tried and true recipe!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/homemade-harissa-paste/">Homemade Harissa Paste Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

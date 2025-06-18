@@ -1,11 +1,115 @@
 ---
 title: going electric
-updated: 2025-06-17 14:09:35
+updated: 2025-06-18 06:07:25
 ---
 
 # going electric
 
-(date: 2025-06-17 14:09:35)
+(date: 2025-06-18 06:07:25)
+
+---
+
+## Rising costs, market conditions blamed for Volvo Cars’ 2026 price hike
+
+date: 2025-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Volvo-EX90-Featured_PRICES.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A leaked 2026 order guide shows the price on several Volvo models going up by nearly 6%. That’s thousands of dollars on some models – along with higher destination charges, fewer discounts, and precious little in the way of new tech or features to justify the price hike.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,tariffs,volvo-cars" data-layer-viewtype="unknown" data-post-id="420858" href="https://electrek.co/2025/06/18/rising-costs-market-conditions-blamed-for-volvo-cars-2026-price-hike/#more-420858" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/18/rising-costs-market-conditions-blamed-for-volvo-cars-2026-price-hike/>
+
+---
+
+## Volkswagen Will Sell You An ID. Buzz Robotaxi
+
+date: 2025-06-18, from: Inside EVs News
+
+The production version of the driverless van is set to go global next year, possibly ahead of Tesla’s Cybercab. 
+
+<br> 
+
+<https://insideevs.com/news/763105/volkswagen-id-buzz-ad-autonomous-taxi-production-version/>
+
+---
+
+## Tesla manager fired for sounding the alarm explains why the automaker is screwed
+
+date: 2025-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/06/Tesla-Supercharger-hero-1.jpeg?quality=82&#038;strip=all&#038;w=1200" /></div><p>A Tesla manager who was recently fired for warning that CEO Elon Musk was ruining the company, Matthew LaBrot, has given an interview to give more details about the situation and how he doesn’t see Tesla coming out of it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="420852" href="https://electrek.co/2025/06/18/tesla-manager-fired-sounding-the-alarm-explains-why-automaker-screwed/#more-420852" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/18/tesla-manager-fired-sounding-the-alarm-explains-why-automaker-screwed/>
+
+---
+
+## ‘It’s Naive' To Anchor EV Plans On Tax Credits: Scout Motors CEO
+
+date: 2025-06-18, from: Inside EVs News
+
+The American automaker backed by the Volkswagen Group has a few aces up its sleeve to help it tackle changing policies. 
+
+<br> 
+
+<https://insideevs.com/news/763076/scout-ceo-naive-government-policy/>
+
+---
+
+## New GM patent leaks plans for drone assisted towing
+
+date: 2025-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/gm_drone_towing.png?w=1600" /></div><p>Like manual transmission shifting, the ability back a tow hitch under a trailer coupler seems to be a skill that younger generations have given up on – but that doesn’t mean they don’t want to haul their bikes, boats, or RVs out into the wilderness. Now, a new patent reveals GM’s plans to make hooking a trailer to your vehicle even easier, with a drone.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="drone,gm,towing" data-layer-viewtype="unknown" data-post-id="420820" href="https://electrek.co/2025/06/17/new-gm-patent-leaks-plans-for-drone-assisted-towing/#more-420820" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/17/new-gm-patent-leaks-plans-for-drone-assisted-towing/>
+
+---
+
+## BYD begins delivering its first luxury electric super sedan just as Ferrari delays a new EV
+
+date: 2025-06-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/BYD-luxury-EV-Ferrari.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>While Ferrari is pushing back EV plans, <a href="https://electrek.co/guides/byd/">BYD</a> is stepping in with its first luxury electric super sedan. BYD kicked off deliveries of the Yangwang U7, a four-motor, flagship electric sedan powerhouse packing nearly 1,300 horsepower.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,byd-yangwang,ferrari,yangwang-u7" data-layer-viewtype="unknown" data-post-id="420773" href="https://electrek.co/2025/06/17/byds-first-luxury-ev-super-sedan-rolls-out-as-ferrari-delays-plans/#more-420773" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/17/byds-first-luxury-ev-super-sedan-rolls-out-as-ferrari-delays-plans/>
+
+---
+
+## ChargeLab debuts OpenOCPP to make EV charger integration way easier – and it’s free
+
+date: 2025-06-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/chargelab.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>EV charger operating system manufacturer ChargeLab just launched <a href="https://chargelab.co/" target="_blank" rel="noreferrer noopener">OpenOCPP</a>, a free and open-source software stack that could majorly simplify life for EV charger manufacturers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chargelab,ev-chargers,ev-software" data-layer-viewtype="unknown" data-post-id="420781" href="https://electrek.co/2025/06/17/chargelab-openocpp-ev-chargers/#more-420781" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/17/chargelab-openocpp-ev-chargers/>
 
 ---
 

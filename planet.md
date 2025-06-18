@@ -1,11 +1,439 @@
 ---
 title: planet
-updated: 2025-06-17 14:09:25
+updated: 2025-06-18 06:07:16
 ---
 
 # planet
 
-(date: 2025-06-17 14:09:25)
+(date: 2025-06-18 06:07:16)
+
+---
+
+## Caritas Jerusalem: ‘Needs are immense’ in Gaza and West Bank
+
+date: 2025-06-18, from: Vatican News
+
+
+                    <p>As the situation in the Middle East deteriorates further, Caritas Jerusalem continues to provide emergency medical aid in Gaza and food assistance in the West Bank, according to its director, Anton Asfar.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/caritas-jerusalem-anton-asfar-gaza-west-bank-aid.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/caritas-jerusalem-anton-asfar-gaza-west-bank-aid.html>
+
+---
+
+## Ireland referred to watchdog over online terrorism rules
+
+date: 2025-06-18, from: RTÉ News
+
+The European Commission is to refer Ireland, Bulgaria and Portugal to the Court of Justice of the European Union for failing to comply with certain obligations under the Terrorist Content Online (TCO) Regulation. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0618/1519114-commission-online-terrorism/>
+
+---
+
+## Windsor Framework structures 'ineffective' - Robinson
+
+date: 2025-06-18, from: RTÉ News
+
+The structures of the Windsor Framework are "ineffective, opaque and overly bureaucratic", DUP leader Gavin Robinson has said. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0618/1519116-windsor-framework-robinson/>
+
+---
+
+## Iran-Israel crisis: UN rights office appeals for urgent de-escalation
+
+date: 2025-06-18, from: United Nations, Top Stories
+
+As the Iran-Israel crisis continued into a sixth day on Wednesday, the UN deputy human rights chief Nada Al-Nashif called for urgent talks to end the ongoing missile attacks between Tehran and Tel-Aviv. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164526>
+
+---
+
+## War or peace? The choice is always ours to make
+
+date: 2025-06-18, from: Vatican News
+
+
+                    <p>Israeli Maoz Inon and Palestinian Aziz Abu Sarah are peace activists known for their joint efforts to promote reconciliation and coexistence between their peoples. Their meeting with Pope Leo XIV in May 2025 followed that with Pope Francis in 2024 at the “Arena of Peace” event in Verona, where they received his embrace and encouragement to continue to dedicate their lives to building bridges </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/israeli-maoz-inon-palestinian-aziz-abu-sarah-peace-activists-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/israeli-maoz-inon-palestinian-aziz-abu-sarah-peace-activists-war.html>
+
+---
+
+## Israel-Iran conflict: latest developments
+
+date: 2025-06-18, from: RTÉ News
+
+Israel and Iran exchanged fire again on the sixth day of strikes in their most intense confrontation in history, fueling fears of a drawn-out conflict that could engulf the Middle East. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0618/1519092-israel-iran-latest/>
+
+---
+
+## Red squirrels more resilient than grey, research finds
+
+date: 2025-06-18, from: RTÉ News
+
+New research suggests red squirrels may be more resilient than their grey counterparts, due to an ability to detect predators and adapt their behaviour accordingly. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0618/1519089-red-grey-squirrels/>
+
+---
+
+## Over 900 extra GPs needed to meet demand, says ESRI
+
+date: 2025-06-18, from: RTÉ News
+
+At least 940 additional general practitioners will be required to meet expected demand over the next 15 years, according to research from the Economic and Social Research Institute (ESRI). 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0618/1519048-ireland-gps-shortage/>
+
+---
+
+## Iran warns US of 'irreparable damage' if joins strikes
+
+date: 2025-06-18, from: RTÉ News
+
+Follow live as Iran's Ayatollah Ali Khamenei said that his country will not accept US President Donald Trump's call for an unconditional surrender. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0618/1519084-iran-israel-tracker/>
+
+---
+
+## From the Vatican Observatory Faith and Science pages (Younger Readers) — The Riddle of the Tongue-Stones: How Blessed Nicolas Steno Uncovered the Hidden History of the Earth
+
+date: 2025-06-18, from: Vatican Obervatory
+
+From the Faith &#038; Science Resource Center (Younger Readers): A brief biography of Nicolas Steno, a scientist who converted to Catholicism and became a bishop. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/from-the-vatican-observatory-faith-and-science-pages-younger-readers-the-riddle-of-the-tongue-stones-how-blessed-nicolas-steno-uncovered-the-hidden-history-of-the-earth/>
+
+---
+
+## Pope Leo XIV echoes the cry of Francis: War is always a defeat!
+
+date: 2025-06-18, from: Vatican News
+
+
+                    <p>Warning that the “atrocity” of modern scientific weapons risks leading combatants “to barbarism far greater than in the past,” Pope Leo XIV reminds world leaders that “war is always a defeat” and “nothing is lost with peace; everything can be lost with war.”</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-echoes-the-cry-of-francis-war-is-always-a-defeat.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-echoes-the-cry-of-francis-war-is-always-a-defeat.html>
+
+---
+
+## Just over 75% of nursing homes are private - HIQA
+
+date: 2025-06-18, from: RTÉ News
+
+Follow updates as the Health Information and Quality Authority appears before the Oireachtas Committee on Health. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0618/1519059-hiqa-health-committee/>
+
+---
+
+## Pope Leo at Audience: Let us not be paralyzed by disappointment
+
+date: 2025-06-18, from: Vatican News
+
+
+                    <p>During his weekly General Audience, Pope Leo XIV reflects on the passage of the paralytic at the pool of Bethesda, and warns against becoming "discouraged and falling into spiritual apathy.”</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-general-audience-hope-healing.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-general-audience-hope-healing.html>
+
+---
+
+## What we know about how winning the EuroMillions changes your life
+
+date: 2025-06-18, from: RTÉ News
+
+Winning money in the lottery has an effect on who we are, how we spend our money and what we want to do with our lives 
+
+<br> 
+
+<https://www.rte.ie/brainstorm/2025/0618/1255126-lotto-lottery-euromillions-winners-happiness-psychology/>
+
+---
+
+## Israeli fire kills 30 in Gaza, says civil defence agency
+
+date: 2025-06-18, from: RTÉ News
+
+Gaza's civil defence agency has said 30 people were killed by Israeli fire in the Palestinian territory, including 11 who were seeking aid. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0618/1519058-gaza-israel/>
+
+---
+
+## Boy, 17, dies after swimming incident in Carlow river
+
+date: 2025-06-18, from: RTÉ News
+
+The body of a teenage boy has been recovered from the River Barrow after he got into difficulty swimming yesterday evening. 
+
+<br> 
+
+<https://www.rte.ie/news/leinster/2025/0618/1519043-river-barrow-carlow/>
+
+---
+
+## Mushroom murder suspect not on trial for lying - defence
+
+date: 2025-06-18, from: RTÉ News
+
+An Australian woman accused of killing three lunch guests with deadly mushrooms should not be judged guilty just because she lied after the meal, her defence lawyer said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0618/1519046-erin-patterson-court/>
+
+---
+
+## Volcanic eruption in Indonesia forces evacuations, cancelled flights
+
+date: 2025-06-18, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7564181.1750227681!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/indonesia-volcano.jpg' alt='People in cars and on bicycles stop in the street look at a yellow and orange cloud of smoke rising toward the sky.' width='620' height='349' title='People watch as Mount Lewotobi Laki-Laki spews volcanic materials into the air during an eruption, in Maumere, Indonesia, Tuesday, June 17, 2025. (AP Photo)'/><p>Indonesia's Mount Lewotobi Laki-Laki erupted with giant ash and smoke plumes again Wednesday after forcing evacuations of villages and flight cancellations, including to and from the resort island of Bali.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/lewotobi-laki-laki-1.7564178?cmp=rss>
+
+---
+
+## Support the steps of Pope Leo XIV — Donate to Peter's Pence
+
+date: 2025-06-18, from: Vatican News
+
+
+                    <p>With your donation to Peter's Pence, you offer tangible support as the Holy Father takes his first steps as Pope. Help him proclaim the Gospel to the world and extend a hand to our brothers and sisters in need.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/peters-pence-promotion-donation-faithful-mission-pope-leo-xiv.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/peters-pence-promotion-donation-faithful-mission-pope-leo-xiv.html>
+
+---
+
+## Donegal rally set to attract 70,000 spectators
+
+date: 2025-06-18, from: RTÉ News
+
+The Donegal International Rally, a cornerstone of the Irish Tarmac Rally Championship, is set to attract more than 70,000 spectators this weekend. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0618/1519031-rally-donegal-spectators/>
+
+---
+
+## Transatlantic airfares slump as Europeans skip US travel
+
+date: 2025-06-18, from: RTÉ News
+
+Airfares from Europe to the United States have dropped to rates not seen since before the Covid-19 pandemic, as travellers from Western Europe lead a pullback in travel to the US that is expected to continue until at least next month. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0618/1519033-us-airfares/>
+
+---
+
+## Tom Cruise and Dolly Parton to receive honorary Oscars
+
+date: 2025-06-18, from: RTÉ News
+
+Tom Cruise and Dolly Parton will receive honorary Oscars ahead of the 2026 Academy Awards, organisers have said, marking career firsts for the showbusiness legends. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0618/1519020-tom-cruise-and-dolly-parton-to-receive-honorary-oscars/>
+
+---
+
+## 'Stay calm' - search on for €250m EuroMillions winner
+
+date: 2025-06-18, from: RTÉ News
+
+The winner of the EuroMillions jackpot, worth €250 million, is being urged to "stay calm", as the National Lottery confirmed the ticket was sold in a shop and not bought online. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0618/1519025-euromillions-ireland/>
+
+---
+
+## Death toll from Russian attack on Kyiv rises to 21
+
+date: 2025-06-18, from: RTÉ News
+
+Rescuers in Kyiv have said that the death toll from a major Russian attack on Ukraine's capital the previous day had risen to 21, with more than 130 people wounded. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0618/1519022-ukraine-russia/>
+
+---
+
+## Over 1m children to benefit from Toy Show Appeal grants
+
+date: 2025-06-18, from: RTÉ News
+
+It has been announced that over a million children and their families will benefit from donations to the RTÉ Toy Show Appeal. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0618/1518962-over-1m-children-to-benefit-from-toy-show-appeal-grants/>
+
+---
+
+## 'Sephora kids' are using anti-aging creams. A new study says harms aren't just skin deep
+
+date: 2025-06-18, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7563273.1750193394!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sephora-kids.jpg' alt='Teenage girl taking selfies while doing make-up at home.' width='620' height='349' title='Teenage girl taking selfies while doing make-up at home.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/health/sephora-kids-anti-aging-cream-study-1.7563225?cmp=rss>
+
+---
+
+## No issue with larger fines for nursing homes - Taoiseach
+
+date: 2025-06-18, from: RTÉ News
+
+Taoiseach Micheál Martin has said he has "no issue" with "larger fines" being levelled on nursing homes which are repeatedly failing to meet set standards. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0618/1519016-hiqa-health-committee/>
+
+---
+
+## Fiddling and jigging: 2 inseparable Indigenous traditions that run in families
+
+date: 2025-06-18, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7557273.1749575698!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/brianna-lizotte.jpg' alt='A woman wearing glasses and holding a fiddle.' width='620' height='349' title='Brianna Lizotte is a Métis fiddle player from Alberta whose most recent album was nominated for a Juno award. '/><p>Fiddling is synonymous with Métis music, and has been part of Métis, First Nations and Inuit culture since the Europeans brought the instrument to North America. Fiddling and jigging go together, and many people say you can't have one without the other.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/fiddling-jigging-music-resonate-1.7557182?cmp=rss>
+
+---
+
+## Iran rejects Trump's call for 'unconditional surrender'
+
+date: 2025-06-18, from: RTÉ News
+
+Iran's Supreme Leader Ayatollah Ali Khamenei has said his country will not accept US President Donald Trump's call for an "unconditional surrender". 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0618/1519019-israel-iran/>
+
+---
+
+## Call for 'ambitious' strategy for climate-neutral economy
+
+date: 2025-06-17, from: RTÉ News
+
+The Just Transition Commission has called on the Government to urgently provide a visionary, ambitious, just and joined-up strategy for the Ireland to transition to a climate-neutral economy. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0618/1519017-just-transition-commission/>
+
+---
+
+## Climate body recommends rise in grants to buy EVs
+
+date: 2025-06-17, from: RTÉ News
+
+The Climate Change Advisory Council is recommending that the Government provides an additional €10,000 in grants to low income households for the purchase of electric vehicles, particularly in areas with limited access to public transport. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0618/1519014-climate-change-advisory-council-report/>
+
+---
+
+## Complaints to Ombudsman rose 30% in five years to 2024
+
+date: 2025-06-17, from: RTÉ News
+
+The number of complaints to the Ombudsman rose by over 30% between 2019 and 2024, according to its latest annual report. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0618/1519003-ombudsman-report/>
+
+---
+
+## Kneecap's Mo Chara granted unconditional bail
+
+date: 2025-06-17, from: RTÉ News
+
+Kneecap band member Liam Óg Ó hAnnaidh (Mo Chara), who has been charged with a terrorism offence, has been granted unconditional bail until his next hearing on 20 August. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0618/1519008-liam-og-o-hannaidh-court/>
+
+---
+
+## 'Little impact' on wellbeing by banning phones in schools
+
+date: 2025-06-17, from: RTÉ News
+
+Banning smartphones in schools has little or no impact on the wellbeing of students or their education or on the prevalence of online bullying, research by the Anti-Bullying Centre at Dublin City University has found. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0618/1519000-school-smartphone-ban/>
 
 ---
 
@@ -13,7 +441,7 @@ updated: 2025-06-17 14:09:25
 
 date: 2025-06-17, from: RTÉ News
 
-The €250 million Euromillions jackpot has been won tonight by an Irish ticket holder. 
+The €250 million Euromillions jackpot has been won by an Irish ticket holder. 
 
 <br> 
 
@@ -61,11 +489,23 @@ An interim report from the Health Information and Quality Authority into the two
 
 date: 2025-06-17, from: RTÉ News
 
-At about 3.20pm on a clear January day, Ashling Murphy came to the banks of the Grand Canal to exercise after finishing her day's work at Durrow National School. 
+At about 3.20pm on a clear January day in 2022, Ashling Murphy came to the banks of the Grand Canal in Tullamore, to exercise after finishing her day's work at Durrow National School. 
 
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0617/1518994-trial-summary-puska-family/>
+
+---
+
+## Here's Donald Trump's endgame in Iran
+
+date: 2025-06-17, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7563896.1750195106!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-security-iran-israel.JPG' alt='An illustration depicting a silhouette of U.S. President Donald Trump, Iranian and U.S. flags.' width='620' height='349' title='An illustration depicting U.S. President Donald Trump, Iranian and U.S. flags.'/><p>The United States now appears at the cusp of a development scarcely conceivable just days ago: direct involvement in bombing Iran. What is Donald Trump doing? Iran strategists differ on some details but share one broad assessment of what the U.S. president is aiming at.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-iran-analysis-1.7563883?cmp=rss>
 
 ---
 
@@ -78,6 +518,18 @@ Tánaiste Simon Harris has said significant preparations are under way for Irela
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0617/1518927-irish-eu-presidency/>
+
+---
+
+## Métis, Michif CFS agencies call for review of 'unreasonable' arbitration decision
+
+date: 2025-06-17, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7492826.1742928307!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/mgeu-child-and-family-services-strike.jpeg' alt='Several people are seen walking on a sidewalk with signs reading &quot;On strike.&quot;' width='620' height='349' title='Workers with two child and family services agencies hit the picket line on Tuesday, March 25, 2025, outside the Métis Child, Family and Community Services building on Portage Avenue in Winnipeg. The workers have been without a contract since the last one expired on Jan. 31, 2023.'/><p>Two Manitoba child welfare agencies have filed for a judicial review of amendments to a collective agreement two months after they and workers agreed to binding arbitration, ending a strike.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/metis-michif-child-family-services-judicial-review-1.7563519?cmp=rss>
 
 ---
 
@@ -405,6 +857,18 @@ In the past decade, the UN has bemoaned the chronically low level of participati
 
 ---
 
+## ‘Hate speech is poison in the well of society,’ says Guterres
+
+date: 2025-06-17, from: United Nations, Top Stories
+
+Hate speech is a warning sign and a driver of violence, UN Secretary-General António Guterres said ahead of&nbsp;Wednesday’s International Day for Countering Hate Speech. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164501>
+
+---
+
 ## Over half of Sudan’s population faces growing food insecurity
 
 date: 2025-06-17, from: Vatican News
@@ -493,11 +957,11 @@ date: 2025-06-17, from: Vatican News
 
 ---
 
-## Iran launches fresh wave of missiles against Israel
+## Trump calls for Iran's 'unconditional surrender'
 
 date: 2025-06-17, from: RTÉ News
 
-Israel has said it targeted military sites in Iran and killed a senior commander in fresh strikes, prompting Tehran to fire missiles in retaliation on the fifth day of escalating clashes. 
+President Donald Trump has called for Iran's "unconditional surrender" and warned US patience was wearing thin, but said there was no intention to kill Iran's leader "for now", as the Israel-Iran air war raged for a fifth day. 
 
 <br> 
 
@@ -601,12 +1065,12 @@ date: 2025-06-17, from: Vatican News
 
 ---
 
-## Sacred Family of Nazareth Sisters in Žytomyr: Shelter, prayer, hope amid war
+## Sacred Family of Nazareth Sisters in Zhytomyr: Shelter, prayer, hope amid war
 
 date: 2025-06-17, from: Vatican News
 
 
-                    <p>Three religious sisters from the Congregation of the Holy Family of Nazareth run a kindergarten and a family assistance centre in the Ukrainian city of Žytomyr, meeting the needs of the local community affected by the war. </p>
+                    <p>Three religious sisters from the Congregation of the Holy Family of Nazareth run a kindergarten and a family assistance centre in the Ukrainian city of Zhytomyr, meeting the needs of the local community affected by the war. </p>
                     <p><a href="https://www.vaticannews.va/en/church/news/2025-06/sisters-project-128-sacred-family-nazareth-zytomyr-ukraine.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -701,11 +1165,11 @@ Minister for Finance Paschal Donohoe has announced the removal of the pay cap on
 
 ---
 
-## Trump calls for Iran's 'unconditional surrender'
+## As it happened: Attacks continue between Israel, Iran
 
 date: 2025-06-17, from: RTÉ News
 
-Follow live developments as Iran and Israel exchange heavy strikes for a fifth day. 
+A look back at developments as Iran and Israel continue to exchange heavy strikes. 
 
 <br> 
 
@@ -713,11 +1177,11 @@ Follow live developments as Iran and Israel exchange heavy strikes for a fifth d
 
 ---
 
-## Russian strikes in Kyiv kill at least 16 people, flatten apartment block
+## At least 18 dead in Kyiv and Odesa amid Russian missile and drone attacks
 
 date: 2025-06-17, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7563069.1750152927!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-kyiv.JPG' alt='A cityscape is shown of residential buildings, with large black smoke above it.' width='620' height='349' title='Smoke rises over the city after a Russian missile and drone strike, amid Russia&apos;s attack on Ukraine, in Kyiv, Ukraine June 17, 2025.  '/><p>Russia flattened a section of an apartment block in Kyiv on Tuesday in its deadliest attack on the Ukrainian capital this year, part of a barrage of hundreds of drones and dozens of missiles that killed at least 16 people and wounded 124 others.</p> 
+<img src='https://i.cbc.ca/1.7563069.1750152927!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-kyiv.JPG' alt='A cityscape is shown of residential buildings, with large black smoke above it.' width='620' height='349' title='Smoke rises over the city after a Russian missile and drone strike, amid Russia&apos;s attack on Ukraine, in Kyiv, Ukraine June 17, 2025.  '/><p>Russia flattened a section of an apartment block in Kyiv on Tuesday in its deadliest attack on the Ukrainian capital this year — part of a barrage of hundreds of drones and dozens of missiles that killed at least 18 people and wounded 151 others.</p> 
 
 <br> 
 
@@ -1141,6 +1605,18 @@ People Before Profit-Solidarity TD Paul Murphy has been released from custody af
 
 ---
 
+## Yukon Supreme Court approves sale of Minto mine to Selkirk First Nation
+
+date: 2025-06-16, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7562162.1750080677!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sharon-nelson.jpg' alt='Woman smiles at camera.' width='620' height='349' title='Selkirk First Nation Chief Sharon Nelson outside the Whitehorse courthouse on Friday, June 13'/><p>A Yukon Supreme Court judge congratulated the First Nation on the sale, saying its new approach to environmental stewardship may be able to change the "rather sad history of large mining projects in the territory."</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/yukon-supreme-court-approves-sale-of-minto-mine-to-selkirk-first-nation-1.7562160?cmp=rss>
+
+---
+
 ## New ads feature to be rolled out on WhatsApp
 
 date: 2025-06-16, from: RTÉ News
@@ -1385,6 +1861,22 @@ Gaza's civil defence agency said Israeli troops have killed 20 people waiting to
 
 ---
 
+## Exploring the cosmos fills us with wonder, Pope tells scientists
+
+date: 2025-06-16, from: Vatican News
+
+
+                    <p>Pope Leo XIV receives participants in the Vatican Observatory’s Summer School program, inviting them to share the joy they experience in exploring the cosmos and to contribute to a more peaceful and just world through the pursuit of knowledge.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/exploring-the-cosmos-fills-us-with-wonder-pope-tells-scientists.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/exploring-the-cosmos-fills-us-with-wonder-pope-tells-scientists.html>
+
+---
+
 ## Areas in Dublin and Cork 'seriously littered' - IBAL
 
 date: 2025-06-16, from: RTÉ News
@@ -1406,18 +1898,6 @@ date: 2025-06-16, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/louvre-closed-overtourism-1.7562138?cmp=rss>
-
----
-
-## Exploring the cosmos fills us with wonder, Pope tells scientists – Vatican News
-
-date: 2025-06-16, from: Vatican Obervatory
-
-Pope Leo XIV receives participants in the Vatican Observatory’s Summer School program, inviting them to share the joy they experience in exploring the cosmos... 
-
-<br> 
-
-<https://www.vaticannews.va/en/pope/news/2025-06/exploring-the-cosmos-fills-us-with-wonder-pope-tells-scientists.html>
 
 ---
 

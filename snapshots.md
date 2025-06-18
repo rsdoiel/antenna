@@ -1,11 +1,252 @@
 ---
 title: snapshots
-updated: 2025-06-17 14:09:37
+updated: 2025-06-18 06:07:27
 ---
 
 # snapshots
 
-(date: 2025-06-17 14:09:37)
+(date: 2025-06-18 06:07:27)
+
+---
+
+## The AI Slop Fight Between Iran and Israel
+
+date: 2025-06-18, from: 404 Media Group
+
+There’s a lack of footage from the conflict and AI-generated content is filling the void.
+ 
+
+<br> 
+
+<https://www.404media.co/the-ai-slop-fight-between-iran-and-israel/>
+
+---
+
+## The FT’s Humane JavaScript
+
+date: 2025-06-18, updated: 2025-06-18, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/06/18/the-fts-humane-javascript/>
+
+---
+
+## Podcast: Airlines Sold Your Flight Data to DHS—And Covered It Up
+
+date: 2025-06-18, from: 404 Media Group
+
+Airlines selling detailed flight data to DHS; how AI scrapers are hammering open archives; and the casual surveillance relationship between ICE and local cops. 
+
+<br> 
+
+<https://www.404media.co/podcast-airlines-sold-your-flight-data-to-dhs-and-covered-it-up/>
+
+---
+
+## California police are illegally sharing license plate data with ICE and Border Patrol
+
+date: 2025-06-18, from: The Markup blog
+
+LAPD and the counties of San Diego, Orange, and Riverside have repeatedly shared automated license plate reader data to federal agencies 
+
+<br> 
+
+<https://themarkup.org/privacy/2025/06/18/california-police-are-illegally-sharing-license-plate-data-with-ice-and-border-patrol>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-18, from: Dave Winer's linkblog)
+
+Scientists once hoarded pre-nuclear steel, and now we’re hoarding pre-AI content. 
+
+<br> 
+
+<https://arstechnica.com/ai/2025/06/why-one-man-is-archiving-human-made-content-from-before-the-ai-explosion/>
+
+---
+
+## The Sound of Silence
+
+date: 2025-06-18, from: Paul Krugman
+
+Hit my limits for today 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-sound-of-silence>
+
+---
+
+## Numitrons, Nixies, and numeric displays
+
+date: 2025-06-18, from: Raspberry Pi News (.com)
+
+<p>ASIC Engineer Dave Bell had fun clashing modern and obsolete technologies while playing with Numitrons, Nixies, and numeric displays.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/numitrons-nixies-and-numeric-displays/">Numitrons, Nixies, and numeric displays</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br><video crossorigin="anonymous" controls="controls" width="250">
+<source type="video/quicktime" src="https://www.raspberrypi.com/app/uploads/2025/06/IMG_4971-1-1-1.mov"></source>
+</video> <a href="https://www.raspberrypi.com/app/uploads/2025/06/IMG_4971-1-1-1.mov" target="_blank">download video/quicktime</a> 
+
+<https://www.raspberrypi.com/news/numitrons-nixies-and-numeric-displays/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-18, from: Dave Winer's linkblog)
+
+Tesla manager fired for sounding the alarm explains why the automaker is screwed. 
+
+<br> 
+
+<https://electrek.co/2025/06/18/tesla-manager-fired-sounding-the-alarm-explains-why-automaker-screwed/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-18, from: Dave Winer's linkblog)
+
+We Better Pray That No Unexpected Crisis Hits While Trump Is President. 
+
+<br> 
+
+<https://newrepublic.com/article/196860/trump-unexpected-crisis-national-security>
+
+---
+
+## It's a trap
+
+date: 2025-06-18, updated: 2025-06-18, from: Simon Willison’s Weblog
+
+<p>That <a href="https://github.com/Olow304/memvid">memvid</a> thing that's been going around recently is a trap. It's an embedding store that records the original text that has been embedded in QR codes in a video file. That's an absurd thing to do, and the only purpose of the repo is to make people who uncritically share it look foolish. Don't fall for the trap.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/jokes">jokes</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/18/trap/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-18, from: Dave Winer's linkblog)
+
+Trump’s Own Staff Don’t Think He’s Fit to Be President. 
+
+<br> 
+
+<https://newrepublic.com/post/196917/donald-trump-think-unfit-president-damning-interview>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-17, from: Dave Winer's linkblog)
+
+Sam Altman says Meta tried and failed to poach OpenAI&#39;s talent with $100M offers. 
+
+<br> 
+
+<https://techcrunch.com/2025/06/17/sam-altman-says-meta-tried-and-failed-to-poach-openais-talent-with-100m-offers/>
+
+---
+
+## Join me for a live video chat Wed at 10:30aET with CFR President Emeritus Richard Haass on all the Crazy Foreign News 
+
+date: 2025-06-17, from: Tina Brown
+
+Substack&#8217;s Home and Away columnist Richard Haass and I will share angles on the Israel/Iran conflagration, behind the scenes at a G-7 Summit, and foreign policy by tweet. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/join-me-for-a-live-video-chat-wed>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-17, from: Dave Winer's linkblog)
+
+All 17 fired vaccine advisors unite to blast RFK Jr.’s “destabilizing decisions.” 
+
+<br> 
+
+<https://arstechnica.com/health/2025/06/all-17-fired-vaccine-advisors-unite-to-blast-rfk-jr-s-destabilizing-decisions/>
+
+---
+
+## Trying out the new Gemini 2.5 model family
+
+date: 2025-06-17, updated: 2025-06-17, from: Simon Willison’s Weblog
+
+<p>After many months of previews, Gemini 2.5 Pro and Flash have <a href="https://developers.googleblog.com/en/gemini-2-5-thinking-model-updates/">reached general availability</a> with new, memorable model IDs: <code>gemini-2.5-pro</code> and <code>gemini-2.5-flash</code>. They are joined by a new preview model with an unmemorable name: <code>gemini-2.5-flash-lite-preview-06-17</code> is a new Gemini 2.5 Flash Lite model that offers lower prices and much faster inference times.</p>
+<p>I've added support for the new models in <a href="https://github.com/simonw/llm-gemini/releases/tag/0.23">llm-gemini 0.23</a>:</p>
+<pre><code>llm install -U llm-gemini
+llm 'Generate an SVG of a pelican riding a bicycle' \
+  -m gemini-2.5-flash-lite-preview-06-17
+</code></pre>
+<p>There's also a new <a href="https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf">Gemini 2.5 Technical Report (PDF)</a>, which includes some interesting details about long context and audio and video support. Some highlights:</p>
+<blockquote>
+<p>While Gemini 1.5 was focused on native audio understanding tasks such as transcription, translation, summarization and question-answering, in addition to understanding, Gemini 2.5 was trained to perform audio generation tasks such as text-to-speech or native audio-visual to audio out dialog. [...]</p>
+<p>Our Gemini 2.5 Preview TTS Pro and Flash models support more than 80 languages with the speech style controlled by a free formatted prompt which can specify style, emotion, pace, etc, while also being capable of following finer-grained steering instructions specified in the transcript. Notably, Gemini 2.5 Preview TTS can generate speech with multiple speakers, which enables the creation of podcasts as used in NotebookLM Audio Overviews. [...]</p>
+<p>We have also trained our models so that they perform competitively with 66 instead of 258 visual tokens per frame, enabling using about 3 hours of video instead of 1h within a 1M tokens context window. [...]</p>
+<p>An example showcasing these improved capabilities for video recall can be seen in Appendix 8.5, where Gemini 2.5 Pro is able to consistently recall a 1 sec visual event out of a full 46 minutes video.</p>
+</blockquote>
+<p>The report also includes six whole pages of analyses of the unaffiliated <a href="https://www.twitch.tv/gemini_plays_pokemon/about">Gemini_Plays_Pokemon</a> Twitch stream! Drew Breunig wrote a fun and insightful <a href="https://www.dbreunig.com/2025/06/17/an-agentic-case-study-playing-pok%C3%A9mon-with-gemini.html">breakdown of that section of the paper</a> with some of his own commentary:</p>
+<blockquote>
+<p><strong>Long contexts tripped up Gemini’s gameplay</strong>. <em>So much</em> about agents is information control, what gets put in the context. While benchmarks demonstrated Gemini’s unmatched ability to retrieve facts from massive contexts, leveraging long contexts to inform Pokémon decision making <em>resulted in worse performance</em>: “As the context grew significantly beyond 100k tokens, the agent showed a tendency toward favoring repeating actions from its vast history rather than synthesizing novel plans.” This is an important lesson and one that underscores the need to build your own evals when designing an agent, as the benchmark performances would lead you astray.</p>
+</blockquote>
+<p>Let's run a few experiments through the new models.</p>
+<h4 id="pelicans-on-bicycles">Pelicans on bicycles</h4>
+<p>Here are some <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">SVGs of pelicans riding bicycles</a>!</p>
+<p><a href="https://gist.github.com/simonw/6ccfc62f5f49b539f3419140b975f1b1">gemini-2.5-pro</a> - 4,226 output tokens, 4.2274 cents:</p>
+<p><img src="https://static.simonwillison.net/static/2025/gemini-2.5-pro.png" alt="Alt text by Gemini 2.5 Pro: A clean-line cartoon illustration of a white duck with a large, egg-shaped body riding a black bicycle. The duck is leaning forward over the handlebars with its yellow beak pointed ahead. Three gray speed lines trail from the back wheel, indicating the bicycle is moving quickly from right to left against a white background." style="max-width: 100%;" /></p>
+<p><a href="https://gist.github.com/simonw/8ea84d555c34845cdcd2b8c9ec00f3a1">gemini-2.5-flash</a> - 14,500 output tokens, 3.6253 cents (it used a surprisingly large number of output tokens here, hence th cost nearly matching 2.5 Pro):</p>
+<p><img src="https://static.simonwillison.net/static/2025/gemini-2.5-flash.png" alt="Alt text by Gemini 2.5 Flash: A cartoon white duck with a yellow and pink beak and orange webbed feet is riding a black bicycle on a white background. The duck has a small brown saddle on its back, and its orange feet are positioned on the bicycle pedals." style="max-width: 100%;" /></p>
+<p><a href="https://gist.github.com/simonw/076ab15090c38cd00167721f829f4f4e">gemini-2.5-flash-lite-preview-06-17</a> - 2,070 output tokens, 0.0829 cents:</p>
+<p><img src="https://static.simonwillison.net/static/2025/gemini-2.5-flash-lite-preview-06-17.png" alt="Alt text by Gemini 2.5 Flash Lite Preview: A stylized yellow bird with a black outline rides a black bicycle with two black wheels and a black frame. The bird has a circular head with a black eye and an orange beak, and a round body with two black legs." style="max-width: 100%;" /></p>
+<h4 id="transcribing-audio-from-a-twitter-space">Transcribing audio from a Twitter Space</h4>
+<p>The Gemini team hosted <a href="https://x.com/i/spaces/1vAGRDWrvBzxl/peek">a Twitter Space</a> this morning to discuss the new models, with Logan Kilpatrick, Tulsee Doshi, Melvin Johnson, Anca Dragan and Zachary Gleicher. I grabbed a copy of the audio using <a href="https://github.com/yt-dlp/yt-dlp">yt-dlp</a>, shrunk it down a bit with <code>ffmpeg</code> (here's the resulting <a href="https://static.simonwillison.net/static/2025/gemini-2.5_smaller.m4a">2.5_smaller.m4a</a>) and then tried using the new models to generate a transcript:</p>
+<pre><code>llm --at gemini-2.5_smaller.m4a audio/mpeg \
+  -m gemini/gemini-2.5-flash \
+  'Full transcript with timestamps' \
+  --schema-multi 'timestamp:mm:ss,speaker:best guess at name,text'
+</code></pre>
+<p>I got good results <a href="https://gist.github.com/simonw/1ddd191d1c31173984756270d41a710a">from 2.5 Pro</a> (74,073 input, 8,856 output = <a href="https://www.llm-prices.com/#it=74073&amp;ot=8856&amp;ic=1.25&amp;oc=10">18.1151 cents</a>, 147.5 seconds) and <a href="https://gist.github.com/simonw/70e8d3d859646f0345a5a16b6af215ae">from 2.5 Flash</a> (74,073 input audio, 10,477 output = <a href="https://gist.github.com/simonw/70e8d3d859646f0345a5a16b6af215ae?permalink_comment_id=5621601#gistcomment-5621601">10.026 cents</a>, 72.6 seconds), but the new Flash Lite model got <a href="https://gist.github.com/simonw/0d7e0707c1ea867ecbea9a3ff9d29ff7#response">stuck in a loop</a> (65,517 output tokens = <a href="https://gist.github.com/simonw/0d7e0707c1ea867ecbea9a3ff9d29ff7?permalink_comment_id=5621596#gistcomment-5621596">6.3241 cents</a>, 231.9 seconds) part way into the transcript:</p>
+<blockquote>
+<p><code>... But this model is so cool because it just sort of goes on this rant, this hilarious rant about how the toaster is the pinnacle of the breakfast civilization, and then it makes all these jokes about the toaster. Um, like, what did the cows bring to you? Nothing. And then, um, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh, and then, uh...</code> (continues until it runs out of output tokens)</p>
+</blockquote>
+<p>I had Claude 4 Sonnet <a href="https://claude.ai/share/edbd3412-bbe6-4997-a259-95069afa0a05">vibe code</a> me <a href="https://tools.simonwillison.net/json-to-markdown-transcript">a quick tool</a> for turning that JSON into Markdown, here's <a href="https://gist.github.com/simonw/d664f927834e9d687cbd4fd9ffd6b135">the Markdown conversion</a> of the Gemini 2.5 Flash transcript.</p>
+<p>A spot-check of the timestamps seems to confirm that they show up in the right place, and the speaker name guesses look mostly correct as well.</p>
+<h4 id="pricing-for-2-5-flash-has-changed">Pricing for 2.5 Flash has changed</h4>
+<p>There have been some changes to Gemini pricing.</p>
+<p>The 2.5 Flash and 2.5 Flash-Lite Preview models both charge different prices for text v.s. audio input tokens.</p>
+<ul>
+<li>$0.30/million text and $1/million audio for 2.5 Flash.</li>
+<li>$0.10/million text and $0.50/million audio for 2.5 Flash Lite Preview.</li>
+</ul>
+<p>I think this mean I can't trust the raw output token counts for the models and need to look at the <code>[{"modality": "TEXT", "tokenCount": 5}, {"modality": "AUDIO", "tokenCount": 74068}]</code> breakdown instead, which is frustrating.</p>
+<p>I wish they'd kept the same price for both type of tokens and used a multiple when counting audio tokens, but presumably that would have broken the overall token limit numbers.</p>
+<p>Gemini 2.5 Flash has <em>very</em> different pricing from the Gemini 2.5 Flash Preview model. That preview charged different rates for thinking v.s. non-thinking mode.</p>
+<p>2.5 Flash Preview: $0.15/million input text/image/video, $1/million audio input, $0.60/million output in non-thinking mode, $3.50/million output in thinking mode.</p>
+<p>The new 2.5 Flash is simpler: $0.30/million input text/image/video (twice as much), $1/million audio input (the same), $2.50/million output (more than non-thinking mode but less than thinking mode).</p>
+<p>In the Twitter Space they mentioned that the difference between thinking and non-thinking mode for 2.5 Flash Preview had caused a lot of confusion, and the new price should still work out cheaper for thinking-mode uses. Using that model in non-thinking mode was always a bit odd, and hopefully the new 2.5 Flash Lite can fit those cases better (though it's actually also a "thinking" model.)</p>
+<p>I've updated my <a href="https://www.llm-prices.com/">llm-prices.com</a> site with the prices of the new models.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/17/gemini-2-5/#atom-everything>
+
+---
+
+## The Trump/Bibi Duet 
+
+date: 2025-06-17, from: Tina Brown
+
+Whatever unfolds next in the Iran/Israel conflict, alpha egos will play as big a part in the outcome as geopolitics. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/the-trumpbibi-duet>
 
 ---
 
@@ -994,7 +1235,8 @@ A few weeks ago Apple Research released a new paper <a href="https://machinelear
 <p>And therein lies my disagreement. I'm not interested in whether or not LLMs are the "road to AGI". I continue to care only about whether they have useful applications today, once you've understood their limitations.</p>
 <p>Reasoning LLMs are a relatively new and interesting twist on the genre. They are demonstrably able to solve a whole bunch of problems that previous LLMs were unable to handle, hence why we've seen <a href="https://simonwillison.net/tags/llm-reasoning/">a rush of new models</a> from OpenAI and Anthropic and Gemini and DeepSeek and Qwen and Mistral.</p>
 <p>They get even more interesting when you <a href="https://simonwillison.net/2025/Jun/6/six-months-in-llms/#ai-worlds-fair-2025-43.jpeg">combine them with tools</a>.</p>
-<p>They're already useful to me today, whether or not they can reliably solve the Tower of Hanoi or River Crossing puzzles.
+<p>They're already useful to me today, whether or not they can reliably solve the Tower of Hanoi or River Crossing puzzles.</p>
+<p><em><strong>Update:</strong> Gary <a href="https://twitter.com/GaryMarcus/status/1935088453684990204">clarifies</a> that "the existence of some utility does not mean I can’t also address the rampant but misguided claims of imminent AGI".</em>
 
     <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44278403">Hacker News</a></small></p>
 

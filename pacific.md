@@ -1,23 +1,374 @@
 ---
 title: pacific
-updated: 2025-06-17 14:09:28
+updated: 2025-06-18 06:07:18
 ---
 
 # pacific
 
-(date: 2025-06-17 14:09:28)
+(date: 2025-06-18 06:07:18)
+
+---
+
+## David Bell, an actor in ‘Lilo & Stitch,’ dies at 46 in Kona
+
+date: 2025-06-18, from: Hawaii Tribune Harold
+
+
+				<p>In Disney&#8217;s latest live-action remake, &#8220;Lilo &#38;Stitch,&#8221; David Hekili Kenui Bell has a short but memorable role in which he is so bewildered to see aliens that he lets his shaved ice plop to the ground. The appearance was his first in a feature film.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/18/hawaii-news/david-bell-an-actor-in-lilo-stitch-dies-at-46-in-kona/>
+
+---
+
+## Obituaries for June 18
+
+date: 2025-06-18, from: Hawaii Tribune Harold
+
+
+				<p>Theodore &#8220;Kahui&#8221; Casuga, 50, of Waikoloa, died June 6. Born in Kealakekua, he was a self-employed landscaper. Funeral service 6:30 p.m. Wednesday, July 23, at The Church of Jesus Christ of Latter-day Saints Kona Stake Canter, 75-230 Kalani St. in Kailua-Kona. Dinner to follow at 7:30 p.m. Surivied by father, Bernaldo Ben (Darlene Tripp) Casuga Of Milolii; mother, Ardis Lizalynn Kukua Of Captain Cook; brothers, Ben Kamana&#8216;o Casuga of Captain Cook, Nephi (Lorie) Casuga and Isiah (Jancee) Casuga of Utah, Nicko (Jessica) Casuga of California; stepbrother, Obed Casuga-Davis of Pittsburgh; nieces, nephews, aunts, uncles and cousins. Arrangements by, Cremation Services Of West Hawaii.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/18/hawaii-news/obituaries-for-june-18-11/>
+
+---
+
+## W. Hawaii woman’s death triggers lawsuit
+
+date: 2025-06-18, from: Hawaii Tribune Harold
+
+
+				<p>Family members of a Holualoa woman who died two years ago are suing the woman&#8217;s estranged husband and Hawaii County police, saying they are responsible for her death from a drug-and-alcohol overdose.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/18/hawaii-news/w-hawaii-womans-death-triggers-lawsuit/>
+
+---
+
+## Trump calls for Iran’s ‘unconditional surrender’ and threatens its supreme leader
+
+date: 2025-06-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump declared on Tuesday that &#8220;we now have complete and total control of the skies over Iran&#8221; and called for Iran&#8217;s &#8220;unconditional surrender&#8221; amid mounting evidence that the United States was considering joining Israel&#8217;s bombing campaign against the country.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/18/nation-world-news/trump-calls-for-irans-unconditional-surrender-and-threatens-its-supreme-leader/>
+
+---
+
+## State announces addition of 50 preschool classrooms
+
+date: 2025-06-18, from: Hawaii Tribune Harold
+
+
+				<p>Lt. Gov. Sylvia Luke on Tuesday announced plans for the next two years of the Ready Keiki program, a statewide initiative to provide universal access to pre-kindergarten learning by 2032.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/18/hawaii-news/state-announces-addition-of-50-preschool-classrooms/>
+
+---
+
+## Kilauea fountaining draws locals and visitors like moths to a flame
+
+date: 2025-06-18, from: Hawaii Tribune Harold
+
+
+				<p>HAWAII VOLCANOES NATIONAL PARK &#8212; It was all but silent on a recent morning at Uekahuna, the newly restored viewing area overlooking the summit of Kilauea volcano. A few visitors trickled onto the lookout, sitting on benches and gazing at the steam rising from Kaluapele, the summit caldera.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/18/hawaii-news/kilauea-fountaining-draws-locals-and-visitors-like-moths-to-a-flame/>
+
+---
+
+## US senators seek more security following Minnesota assassination
+
+date: 2025-06-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. senators on Tuesday demanded tighter security in the wake of last weekend&#8217;s assassination of a Minnesota state legislator and threats against members of Congress, in what one lawmaker called a &#8220;spreading virus&#8221; of political violence.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/18/nation-world-news/us-senators-seek-more-security-following-minnesota-assassination/>
+
+---
+
+## Brad Lander is arrested by ICE agents at immigration courthouse
+
+date: 2025-06-18, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Brad Lander, the New York City comptroller who is running for mayor, was arrested Tuesday by federal agents at an immigration courthouse in lower Manhattan as he tried to escort a migrant whom agents were seeking to arrest.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/18/nation-world-news/brad-lander-is-arrested-by-ice-agents-at-immigration-courthouse/>
+
+---
+
+## Appeals court seems inclined to let Trump control National Guard in LA for now
+
+date: 2025-06-18, from: Hawaii Tribune Harold
+
+
+				<p>A federal appeals court appeared inclined Tuesday to allow President Donald Trump, against the wishes of Gov. Gavin Newsom, to keep using California&#8217;s National Guard for now to protect immigration enforcement agents and quell protesters in Los Angeles.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/18/nation-world-news/appeals-court-seems-inclined-to-let-trump-control-national-guard-in-la-for-now/>
+
+---
+
+## News in brief for June 18
+
+date: 2025-06-18, from: Hawaii Tribune Harold
+
+
+				<p>Kraft Heinz to stop using chemical dyes</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/18/nation-world-news/news-in-brief-for-june-18/>
+
+---
+
+## Fiji Police investigating Commission of Inquiry report into appointment of sacked anti-corruption commissioner Barbara Malimali
+
+date: 2025-06-18, from: 
+
+Fiji Police have commenced investigations into a Commission of Inquiry report on the appointment of the country's now sacked head of the anti-corruption office. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564526/fiji-police-investigating-commission-of-inquiry-report-into-appointment-of-sacked-anti-corruption-commissioner-barbara-malimali>
+
+---
+
+## Hawaiian Word of the Week: Mālie
+
+date: 2025-06-18, from: University of Hawaiʻi News
+
+<p>Mālie&#8212;Calm, quiet, serene, tranquil.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/17/hawaiian-word-of-the-week-malie/">Hawaiian Word of the Week: Mālie</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/17/hawaiian-word-of-the-week-malie/>
+
+---
+
+## Guam’s call for radiation exposure pay hits a snag as it marks 20 years since the release of report backing its claims
+
+date: 2025-06-18, from: Pacific Island Times
+
+By Pacific Island Times News Staff   While gaining momentum in the previous session of the U.S. Congress, the recurring proposal for... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-s-call-for-radiation-exposure-pay-hits-a-snag-as-it-marks-20-years-since-the-release-of-report>
+
+---
+
+## PNG reaffirms ban as opposition to deep sea mining gains traction
+
+date: 2025-06-18, from: 
+
+<i>Feature</i> - Global efforts to halt deep sea mining are gaining momentum and Papua New Guinea is holding firm despite local plans to rivive projects, writes<b> Scott Waide</b>. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564506/png-reaffirms-ban-as-opposition-to-deep-sea-mining-gains-traction>
+
+---
+
+## Pasifika Sipoti in brief for 18 June
+
+date: 2025-06-18, from: 
+
+A round-up of sports news from around the region, including a new assistant coach for 'Ikale Tonga. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564505/pasifika-sipoti-in-brief-for-18-june>
+
+---
+
+## Womb cancer 'really hitting the Pacific and Māori communities', NZ biologist says
+
+date: 2025-06-18, from: 
+
+Māori and Pasifika women have some of the highest rates of womb cancer in the word. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564503/womb-cancer-really-hitting-the-pacific-and-maori-communities-nz-biologist-says>
+
+---
+
+## Nauru says deep sea mining and ocean conservation can coexist
+
+date: 2025-06-18, from: 
+
+The island's climate change minister told leaders at the United Nations Ocean Conference that the extraction of metals from deep sea nodules is essential for energy transition. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564502/nauru-says-deep-sea-mining-and-ocean-conservation-can-coexist>
+
+---
+
+## Hundreds celebrate reading, culture at Windward CC’s Keiki Reading Day
+
+date: 2025-06-18, from: University of Hawaiʻi News
+
+<p>Families explored <span aria-label="moolelo">mo&#699;olelo</span>, crafts and more in a joyful celebration of reading and community.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/17/windward-cc-keiki-reading-day/">Hundreds celebrate reading, culture at Windward <abbr>CC</abbr>’s Keiki Reading Day</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/17/windward-cc-keiki-reading-day/>
+
+---
+
+## Kapiʻolani CC, UH Mānoa, UH West Oʻahu students shine at college advertising awards
+
+date: 2025-06-18, from: University of Hawaiʻi News
+
+<p>Students earn statewide recognition for design, media, branding and digital storytelling.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/17/2025-pele-awards/">Kapiʻolani <abbr>CC</abbr>, <abbr>UH</abbr> Mānoa, <abbr>UH</abbr> West Oʻahu students shine at college advertising awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/17/2025-pele-awards/>
+
+---
+
+## 12 student-athletes earn national academic honors
+
+date: 2025-06-18, from: University of Hawaiʻi News
+
+<p>Six male and six female student athletes were selected to the College Sports Communicators Academic At-Large All-District Team.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/17/12-student-athletes-national-academic-honors/">12 student-athletes earn national academic honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/17/12-student-athletes-national-academic-honors/>
+
+---
+
+## Laura reef site in Marshall Islands ideal spot for coral protection, study confirms 
+
+date: 2025-06-18, from: Pacific Island Times
+
+Scientists found that corals in the Laura reef showed tolerance to high temperatures. Photo courtesy of The Nature Conservancy   By... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/laura-reef-site-in-marshall-islands-ideal-spot-for-coral-protection-study-confirms>
 
 ---
 
 ## Solomon Islanders safe but unable to leave Israel
 
-date: 2025-06-17, from: 
+date: 2025-06-18, from: 
 
 The Solomon Islands foreign ministry says five people, who completed agriculture training in Israel, are safe but unable to come home amid ongoing tensions between Israel and Iran. 
 
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/564460/solomon-islanders-safe-but-unable-to-leave-israel>
+
+---
+
+## UH students tackle city projects through Poʻokela Fellows internship
+
+date: 2025-06-17, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> students applied their classroom knowledge to real-world city projects through a competitive public service internship.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/17/uh-students-tackle-city-projects/"><abbr>UH</abbr> students tackle city projects through Poʻokela Fellows internship</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/17/uh-students-tackle-city-projects/>
+
+---
+
+## Pacific Mini Games: Team PNG's hopes hang on levy deadline
+
+date: 2025-06-17, from: 
+
+Team Papua New Guinea's participation at the 2025 Palau Mini Games will cost around US$992,000. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564475/pacific-mini-games-team-png-s-hopes-hang-on-levy-deadline>
+
+---
+
+## Pacific news in brief for 18 June
+
+date: 2025-06-17, from: 
+
+A round-up of news from around the region, including Tonga's princess Angelika Latufuipeka Tuku'aho backing other Pacific leaders to grant whales legal personhood. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564476/pacific-news-in-brief-for-18-june>
+
+---
+
+## Trade in old devices for UH bookstore gift cards
+
+date: 2025-06-17, from: University of Hawaiʻi News
+
+<p>The Trade In and Save program aims to reuse, recycle or properly dispose of old electronics.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/17/trade-devices-bookstore-gift-card/">Trade in old devices for <abbr>UH</abbr> bookstore gift cards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/17/trade-devices-bookstore-gift-card/>
+
+---
+
+## Integrating AI: UH faculty receive financial support to modernize courses
+
+date: 2025-06-17, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> faculty across eight campuses are redesigning courses to equip students with essential <abbr>AI</abbr> skills and ethical insights.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/17/integrating-ai-modernize-courses/">Integrating <abbr>AI</abbr>: <abbr>UH</abbr> faculty receive financial support to modernize courses</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/17/integrating-ai-modernize-courses/>
+
+---
+
+## Samoa police probe voter fraud ahead of August polls
+
+date: 2025-06-17, from: 
+
+The country's police chief warns voter fraud "is not a joke" and anyone who commits the offence can face up to 10 years in jail. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564467/samoa-police-probe-voter-fraud-ahead-of-august-polls>
 
 ---
 
@@ -45,21 +396,9 @@ Moana Pasifika are set to lose their inspirational leader for next season.
 
 ---
 
-## Parties in Tinian stablecoin dispute pursue settlement
-
-date: 2025-06-17, updated: 2025-06-17, from: Marianas Variety
-
-THE parties in Attorney General Edward E. Manibusan’s lawsuit to halt the enforcement of the Tinian stablecoin law have requested the Superior Court to move the hearing dates, as they are actively trying to settle the case. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/parties-in-tinian-stablecoin-dispute-pursue-settlement/article_0039d41f-bcc7-4727-9e35-fa2532c1d974.html>
-
----
-
 ## We must hold those in power accountable
 
-date: 2025-06-17, updated: 2025-06-17, from: Marianas Variety
+date: 2025-06-17, updated: 2025-06-18, from: Marianas Variety
 
 OUR nation has two major political parties to balance power. Both — the Democrats and Republicans — must uphold U.S. laws 24/7, 365 days a year. No excuses. No exceptions. 
 
@@ -71,7 +410,7 @@ OUR nation has two major political parties to balance power. Both — the Democr
 
 ## AG Manibusan joins bipartisan effort to protect veterans’ education benefits
 
-date: 2025-06-17, updated: 2025-06-17, from: Marianas Variety
+date: 2025-06-17, updated: 2025-06-18, from: Marianas Variety
 
 (CNMI Office of the Attorney General) — Attorney General Edward Manibusan on Tuesday joined a bipartisan coalition of 51 other attorneys general in filing a Virginia-led amicus brief in the U.S. Court of Appeals for the Federal Circuit, standing with military veterans and their families to ensure they receive full G.I. Bill education benefits by the U.S. Department of Veterans Affairs. 
 
@@ -83,7 +422,7 @@ date: 2025-06-17, updated: 2025-06-17, from: Marianas Variety
 
 ## Governor’s Broadband Bootcamp on Rota concludes with 23 graduates
 
-date: 2025-06-17, updated: 2025-06-17, from: Marianas Variety
+date: 2025-06-17, updated: 2025-06-18, from: Marianas Variety
 
 (NMC) — The Rota participants of the Governor’s Broadband Bootcamp are now proficient in fiber optic and broadband technologies after completing a 19-week program that ran from January to May 2025. 
 
@@ -95,7 +434,7 @@ date: 2025-06-17, updated: 2025-06-17, from: Marianas Variety
 
 ## Red flags at 4 Saipan sites
 
-date: 2025-06-17, updated: 2025-06-17, from: Marianas Variety
+date: 2025-06-17, updated: 2025-06-18, from: Marianas Variety
 
 THE Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan’s west coast recreational beaches and storm drainages every week. 
 
@@ -107,7 +446,7 @@ THE Bureau of Environmental and Coastal Quality analyzes water samples collected
 
 ## Trump urges Tehran evacuation as Iran-Israel conflict enters fifth day
 
-date: 2025-06-17, updated: 2025-06-17, from: Marianas Variety
+date: 2025-06-17, updated: 2025-06-18, from: Marianas Variety
 
 TEL AVIV/DUBAI (Reuters) — Israel and Iran attacked each other for a fifth straight day on Tuesday, and President Donald Trump urged Iranians to evacuate Tehran, citing what he said was the country's rejection of a deal to curb nuclear weapons development. 
 
@@ -119,13 +458,37 @@ TEL AVIV/DUBAI (Reuters) — Israel and Iran attacked each other for a fifth str
 
 ## Delegate proposes possible VA relocation from Manila to Guam
 
-date: 2025-06-17, updated: 2025-06-17, from: Marianas Variety
+date: 2025-06-17, updated: 2025-06-18, from: Marianas Variety
 
 HAGÅTÑA (The Guam Daily Post) — If the Trump administration plans to shutter the Veterans Affairs regional office in Manila, then Philippines, then Guam Delegate James Moylan wants it to be moved to Guam instead. 
 
 <br> 
 
 <https://www.mvariety.com/news/regional_world/delegate-proposes-possible-va-relocation-from-manila-to-guam/article_8f551043-b59d-4f4d-b7d9-93518dc77392.html>
+
+---
+
+## Parties in Tinian stablecoin dispute pursue settlement
+
+date: 2025-06-17, updated: 2025-06-18, from: Marianas Variety
+
+THE parties in Attorney General Edward E. Manibusan’s lawsuit to halt the enforcement of the Tinian stablecoin law have requested the Superior Court to move the hearing dates, as they are actively trying to settle the case. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/parties-in-tinian-stablecoin-dispute-pursue-settlement/article_0039d41f-bcc7-4727-9e35-fa2532c1d974.html>
+
+---
+
+## DPS has limited access to NCIC database, says official
+
+date: 2025-06-17, updated: 2025-06-18, from: Marianas Variety
+
+THE Department of Public Safety has limited access to the National Crime Information Center, according to Assistant Chief of Police and Acting DPS Public Information Officer Simon Manacop. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/dps-has-limited-access-to-ncic-database-says-official/article_06b8fdec-c3b4-4e00-af28-f07da83af45d.html>
 
 ---
 
@@ -420,6 +783,20 @@ date: 2025-06-17, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/06/17/features/lets-talk-food-the-strawberries-of-california/>
+
+---
+
+## Flowers, Fighting, and Healing Home is Here
+
+date: 2025-06-17, from: Home is Here
+
+<p>Flowers, Fighting, and Healing on this month's episode of Home is Here.</p>
+<p>The post <a href="https://www.pbshawaii.org/little-plumeria-farm-westside-striking-queens-medical-centers-healing-through-art-home-is-here/">Flowers, Fighting, and Healing &lt;br/&gt;Home is Here</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/little-plumeria-farm-westside-striking-queens-medical-centers-healing-through-art-home-is-here/>
 
 ---
 

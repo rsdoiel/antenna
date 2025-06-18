@@ -1,11 +1,98 @@
 ---
 title: home
-updated: 2025-06-17 14:09:33
+updated: 2025-06-18 06:07:23
 ---
 
 # home
 
-(date: 2025-06-17 14:09:33)
+(date: 2025-06-18 06:07:23)
+
+---
+
+## 7 Types of Pine Trees in Michigan (Pictures and Identification)
+
+date: 2025-06-18, from: Yard Life blog
+
+<p>Pine trees in Michigan are a familiar sight across the state’s diverse landscapes, from the sandy plains of the Lower ... </p>
+<p class="read-more-container"><a title="7 Types of Pine Trees in Michigan (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/7-types-of-pine-trees-in-michigan-pictures-and-identification/#more-30421" aria-label="Read more about 7 Types of Pine Trees in Michigan (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/7-types-of-pine-trees-in-michigan-pictures-and-identification/">7 Types of Pine Trees in Michigan (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/7-types-of-pine-trees-in-michigan-pictures-and-identification/>
+
+---
+
+## 12 Types of Oak Trees in California (Pictures and Identification)
+
+date: 2025-06-18, from: Yard Life blog
+
+<p>California’s diverse climate and landscapes create the perfect home for many types of oak trees, each with its own unique ... </p>
+<p class="read-more-container"><a title="12 Types of Oak Trees in California (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/12-types-of-oak-trees-in-california-pictures-and-identification/#more-30402" aria-label="Read more about 12 Types of Oak Trees in California (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/12-types-of-oak-trees-in-california-pictures-and-identification/">12 Types of Oak Trees in California (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/12-types-of-oak-trees-in-california-pictures-and-identification/>
+
+---
+
+## 10 Poisonous Mushrooms in Florida (Pictures and Identification)
+
+date: 2025-06-18, from: Yard Life blog
+
+<p>Florida’s climate creates ideal conditions for mushrooms to grow throughout the year, including several species that are highly toxic. Poisonous ... </p>
+<p class="read-more-container"><a title="10 Poisonous Mushrooms in Florida (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/10-poisonous-mushrooms-in-florida-pictures-and-identification/#more-30384" aria-label="Read more about 10 Poisonous Mushrooms in Florida (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/10-poisonous-mushrooms-in-florida-pictures-and-identification/">10 Poisonous Mushrooms in Florida (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/10-poisonous-mushrooms-in-florida-pictures-and-identification/>
+
+---
+
+## 40 Birds in South Carolina (With Pictures and Identification)
+
+date: 2025-06-18, from: Yard Life blog
+
+<p>South Carolina is home to a rich variety of birdlife, from backyard favorites to striking wetland species. With its mix ... </p>
+<p class="read-more-container"><a title="40 Birds in South Carolina (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/40-birds-in-south-carolina-with-pictures-and-identification/#more-30374" aria-label="Read more about 40 Birds in South Carolina (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/40-birds-in-south-carolina-with-pictures-and-identification/">40 Birds in South Carolina (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/40-birds-in-south-carolina-with-pictures-and-identification/>
+
+---
+
+## 8 Birds With Blue Tails in Georgia (Pictures and Identification)
+
+date: 2025-06-18, from: Yard Life blog
+
+<p>Birds with blue tails in Georgia are some of the most beautiful and exciting birds to see. Their bright blue ... </p>
+<p class="read-more-container"><a title="8 Birds With Blue Tails in Georgia (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/8-birds-with-blue-tails-in-georgia-pictures-and-identification/#more-30365" aria-label="Read more about 8 Birds With Blue Tails in Georgia (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/8-birds-with-blue-tails-in-georgia-pictures-and-identification/">8 Birds With Blue Tails in Georgia (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/8-birds-with-blue-tails-in-georgia-pictures-and-identification/>
+
+---
+
+## Announcing the 2026 Sunset Wellness & Beauty Awards
+
+date: 2025-06-17, from: Sunset Magazine - Living in the West
+
+The West has always been a wellspring of innovation in wellness. We're honoring the best in the industry with our new awards program. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness/2026-sunset-wellness-beauty-awards>
 
 ---
 
@@ -18,6 +105,18 @@ It has green roofs, cork cladding, and a sunken path running between private and
 <br> 
 
 <https://www.dwell.com/article/casa-da-levada-ivo-tavares-studio-cork-clad-home-9872489b>
+
+---
+
+## Inside Two Brewers’ Peaceful, Eco-Friendly Retreat in Sonoma County
+
+date: 2025-06-17, from: Sunset Magazine - Living in the West
+
+Two brewers wanted to build a retreat where they could retire and host love ones. The result is a stunning property full of special details. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/eco-friendly-retreat-sonoma>
 
 ---
 
@@ -46,6 +145,18 @@ date: 2025-06-17, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/fruit/grow-jostaberries/>
+
+---
+
+## The Ultimate Kauai Itinerary, According to a Local
+
+date: 2025-06-17, from: Sunset Magazine - Living in the West
+
+There's no where more picturesque than Kauai. A local shares her favorite spots along Kauai’s North Shore. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/kauai-things-to-do>
 
 ---
 

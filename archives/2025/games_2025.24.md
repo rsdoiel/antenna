@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2025-06-17 14:09:31
+updated: 2025-06-18 06:07:21
 ---
 
 # games
 
-(date: 2025-06-17 14:09:31)
+(date: 2025-06-18 06:07:21)
+
+---
+
+## Watch the new Nintendo Direct all about Donkey Kong Bananza
+
+date: 2025-06-18, updated: 2025-06-18, from: Polygon Website
+
+Nintendo will stream a Donkey Kong Bananza Direct presentation on Wednesday, June 18, starting at 6 a.m. PDT / 9 a.m. EDT / 2 p.m. BST. On the Nintendo Today app, it was confirmed that the newest Nintendo Direct showcase will present “roughly 15 minutes of information about the upcoming Nintendo Switch 2 game.” Since [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/607067/nintendo-donkey-kong-bananza-new-direct-reveal>
+
+---
+
+## Lies of P: Overture’s story elevates an already great game
+
+date: 2025-06-18, updated: 2025-06-18, from: Polygon Website
+
+I knew I was going to be rusty when I sat down with Overture, the Lies of P prequel expansion that shadowdropped on June 6. Over a year had passed since I had beaten and last played Lies of P, and I hadn’t dabbled with many Soulslikes in the interim. However, stepping into the shoes [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/607575/lies-of-p-overture-review-bosses-weapons-story>
+
+---
+
+## Microsoft just came right out and said that the next Xbox will be a PC
+
+date: 2025-06-18, updated: 2025-06-18, from: Polygon Website
+
+Microsoft announced Tuesday that it has signed a deal with AMD to “co-engineer silicon” — make the chips, in other words — for its “next-generation Xbox consoles.” President of Xbox Sarah Bond made the announcement in a short video posted to YouTube. In itself, this isn’t that significant. AMD has been the chip supplier for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/xbox/607616/microsoft-amd-next-gen-xbox-pc>
+
+---
+
+## 15 beginner’s tips before you start FBC: Firebreak
+
+date: 2025-06-17, updated: 2025-06-17, from: Polygon Website
+
+If you&#8217;re just clocking in for your first shifts in FBC: Firebreak, it might seem a trifle overwhelming. Firebreak teaches you little about how cleaning up The Oldest House works, and it&#8217;s easy to miss some small, important details, things like activating respawn points or weakening waves of enemies. Below, we&#8217;ve put together a list [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/607582/fbc-firebreak-beginner-tips-tricks>
+
+---
+
+## How to use the scanner in The Alters
+
+date: 2025-06-17, updated: 2025-06-17, from: Polygon Website
+
+A scanner can reveal resource deposits in The Alters. That sounds straightforward enough, but it’s far more complex than just equipping and using a tool. Instead, you have to place Polygonal Scanners, investigate their findings, use Scan Waves, and improve your search area to find the deepest part of a resource deposit. As you and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/607360/alters-scanner-how-to-use>
+
+---
+
+## How to get Minerals in The Alters
+
+date: 2025-06-17, updated: 2025-06-17, from: Polygon Website
+
+Minerals are a key resource in The Alters, but they’re arguably the hardest to find, and not in the least because of the translucent blobs blocking your way. To help you start mining this material, preferably without radiation damage, this guide will show you how to get Minerals in The Alters and where to find [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/607403/alters-minerals-where-to-find-how-to-get>
+
+---
+
+## How to get Organics in The Alters
+
+date: 2025-06-17, updated: 2025-06-17, from: Polygon Website
+
+Organics are an essential resource in The Alters, as you’ll need them to charge your base and craft important items. During the prologue, you’ll be tasked with “finding an Organics deposit area,” but of course, the game doesn’t tell you where to look. Have no fear, as this guide will show you how to get [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/607343/alters-organics-how-to-get-where-to-find>
 
 ---
 

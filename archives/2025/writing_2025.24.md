@@ -1,11 +1,36 @@
 ---
 title: writing
-updated: 2025-06-17 14:09:31
+updated: 2025-06-18 06:07:21
 ---
 
 # writing
 
-(date: 2025-06-17 14:09:31)
+(date: 2025-06-18 06:07:21)
+
+---
+
+## How to Use Images in Your Scrivener Projects: Advanced Techniques for Ebooks
+
+date: 2025-06-18, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-to-use-images-in-your-scrivener-projects-advanced-techniques-for-ebooks>
+
+---
+
+## Scriptnotes, Episode 690: Living and Writing in Sci-Fi Times, Transcript
+
+date: 2025-06-17, from: John August blog
+
+<p>The original post for this episode can be found here. Episode 690 John August: Hello and welcome. My name is John August. Craig Mazin: My name is Craig Mazin. John: You’re listening to Episode 690 of Scriptnotes. It’s a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, science fiction [&#8230;]</p>
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-690-living-and-writing-in-sci-fi-times-transcript">Scriptnotes, Episode 690: Living and Writing in Sci-Fi Times, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-690-living-and-writing-in-sci-fi-times-transcript>
 
 ---
 
