@@ -1,11 +1,215 @@
 ---
 title: going electric
-updated: 2025-06-18 06:07:25
+updated: 2025-06-18 14:07:30
 ---
 
 # going electric
 
-(date: 2025-06-18 06:07:25)
+(date: 2025-06-18 14:07:30)
+
+---
+
+## ENGIE’s ‘precycling’ plan could change utility-scale solar builds
+
+date: 2025-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/ENGIE-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>ENGIE North America is taking a big step toward making solar power more sustainable by baking recycling into the foundation of four upcoming clean energy projects.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="420974" href="https://electrek.co/2025/06/18/engie-precycling-plan-could-change-utility-scale-solar-builds/#more-420974" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/18/engie-precycling-plan-could-change-utility-scale-solar-builds/>
+
+---
+
+## Extended Range EVs Are Growing Faster Than You Think
+
+date: 2025-06-18, from: Inside EVs News
+
+Electric cars that have backup gas generators are now the fastest growing powertrain in the world. 
+
+<br> 
+
+<https://insideevs.com/news/763153/erevs-are-growing-faster-than-you-think/>
+
+---
+
+## Ford is halting Mustang Mach-E sales due to a recall impacting over 300,000 vehicles
+
+date: 2025-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Ford-Saudi-Arabia-Mach-E-front.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford is recalling over 300,000 <a href="https://electrek.co/guides/ford-mach-e/">Mustang Mach-E</a> models globally due to a glitch that could leave you locked out or potentially trapped inside the vehicle.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-mach-e" data-layer-viewtype="unknown" data-post-id="420959" href="https://electrek.co/2025/06/18/ford-halts-mustang-mach-e-sales-recalling-300000-models/#more-420959" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/18/ford-halts-mustang-mach-e-sales-recalling-300000-models/>
+
+---
+
+## Waymo Aims To Come To New York City Soon
+
+date: 2025-06-18, from: Inside EVs News
+
+Alphabet's autonomous taxi company has applied to start testing its technology in America's biggest and densest city.  
+
+<br> 
+
+<https://insideevs.com/news/763169/waymo-new-york-testing/>
+
+---
+
+## Hiboy EX6F folding e-bike launch from $950 ($580+ off), Exclusive $2,800 savings on Mango Power E 3,500Wh CATL station, more
+
+date: 2025-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Hiboy-EX6F-Low-Step-Foldable-e-bike.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Today’s Green Deals are headlined by <a href="https://9to5toys.com/2025/06/18/hiboy-kicks-off-its-sixth-anniversary-with-580-in-launch-savings-on-its-new-ex6f-low-step-folding-e-bike-from-950-more/">Hiboy’s sixth anniversary</a>, which is not only having a sale across its EVs at up to 55% off, but is also giving us the first launch savings on its new <a href="https://9to5toys.com/2025/06/18/hiboy-kicks-off-its-sixth-anniversary-with-580-in-launch-savings-on-its-new-ex6f-low-step-folding-e-bike-from-950-more/">EX6F Low-Step Folding e-bike that starts from $950</a> with two different savings options. We also have an exclusive $2,800 in savings that we’ve secured for our readers on the <a href="https://9to5toys.com/2025/06/17/mango-power-e-station-exclusive-999/">Mango Power E 3,500Wh CATL Power Station at $999</a>. From there, we spotted two prime-choice mower deals, with the first being <a href="https://9to5toys.com/2025/06/18/ecovacs-goat-o1000-robot-mower-850-low-more/">ECOVACS’ Goat O1000 RTK robot mower</a> back at its <a href="https://9to5toys.com/2025/06/18/ecovacs-goat-o1000-robot-mower-850-low-more/">$850 low</a>, while the <a href="https://9to5toys.com/2025/06/18/worx-nitro-40v-intellicut-mower-new-289-low/">Worx Nitro 40V 21-inch Cordless Intellicut Mower</a> has fallen to a new <a href="https://9to5toys.com/2025/06/18/worx-nitro-40v-intellicut-mower-new-289-low/">$289 low</a>. Plus, there’s all the rest of the hangover Green Deals in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/06/17/segway-zt3-pro-ekickscooter-915/">Segway ZT3 Pro eKickScooter</a> discount, or the savings we saw on <a href="https://9to5toys.com/2025/06/16/anker-solix-c300-dc-power-station-170-more/">Anker’s SOLIX C300/C200 power stations</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="420941" href="https://electrek.co/2025/06/18/hiboy-ex6f-e-bike-exclusive-mango-station-more/#more-420941" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/18/hiboy-ex6f-e-bike-exclusive-mango-station-more/>
+
+---
+
+## BYD has now sold over 1 million Seagull EVs, the $10,000 electric car that’s going global
+
+date: 2025-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/BYD-Seagull-EV-sales.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Starting at under $10,000, the Seagull is the most affordable EV <a href="https://electrek.co/guides/byd/">BYD</a> offers in China. It’s also the company’s best seller. In just over two years, BYD has sold over 1 million Seagull EV models. Now, it’s rolling out to new global markets.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="420931" href="https://electrek.co/2025/06/18/byd-seagull-sales-top-1-million-as-10000-ev-goes-global/#more-420931" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/18/byd-seagull-sales-top-1-million-as-10000-ev-goes-global/>
+
+---
+
+## In-Wheel EV Hub Motors Could Be A Game-Changer. Why Aren't They Here Yet?
+
+date: 2025-06-18, from: Inside EVs News
+
+They seem like a natural choice for electric vehicles, yet hardly any modern EVs have them. That may be changing soon.  
+
+<br> 
+
+<https://insideevs.com/news/762847/hub-motors-ev-wheels-renault/>
+
+---
+
+## Ford Mustang Mach-E Sales Halted Over Door Lock Safety Problem
+
+date: 2025-06-18, from: Inside EVs News
+
+Over 300,000 Mach-Es around the world are affected by this stop-sale recall. 
+
+<br> 
+
+<https://insideevs.com/news/763151/ford-mach-e-lockout-recall/>
+
+---
+
+## The new Genesis GV60 is impressive with more range, tech, and luxury than ever
+
+date: 2025-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/New-Genesis-GV60-UK.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The GV60 just got a major upgrade. Genesis revealed “extensive enhancements” for the <a href="https://electrek.co/guides/genesis-gv60/">new GV60</a> on Wednesday, including added driving range, fun features, and plenty more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis,genesis-gv60" data-layer-viewtype="unknown" data-post-id="420917" href="https://electrek.co/2025/06/18/new-genesis-gv60-is-impressive-with-more-range-luxury/#more-420917" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/18/new-genesis-gv60-is-impressive-with-more-range-luxury/>
+
+---
+
+## America Has Also Chickened Out Of The Global EV Race
+
+date: 2025-06-18, from: Inside EVs News
+
+EVs are still headed for their best year ever, with or without America. Meanwhile, the new Nissan Leaf is aimed at ICE car buyers. 
+
+<br> 
+
+<https://insideevs.com/news/763146/cover-materials-june-18-2025/>
+
+---
+
+## Zoox opens new production facility where its purpose-built robotaxis will be built [Video]
+
+date: 2025-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Zoox-production-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Robotaxi developer Zoox has cut the ribbon on the first serial production facility for purpose-built robotaxi vehicles in the United States. This new cutting-edge facility will be able to assemble thousands of <a href="https://electrek.co/guides/zoox/">Zoox’s</a> unique autonomous vehicles each year as its commercial services expand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="robotaxi,zoox" data-layer-viewtype="unknown" data-post-id="420548" href="https://electrek.co/2025/06/18/zoox-opens-new-production-facility-purpose-built-robotaxis-video/#more-420548" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/18/zoox-opens-new-production-facility-purpose-built-robotaxis-video/>
+
+---
+
+## The new Kia EV6 GT is a 650 hp powerhouse and it’s even more affordable
+
+date: 2025-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Kia-new-EV6-GT.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The new <a href="https://electrek.co/guides/kia-ev6-gt/">EV6 GT</a> is the fastest Kia vehicle to date, packing nearly 650 horsepower. It’s quicker than a Ferrari and less than half the cost. Kia’s first electric sports car just got a big upgrade with added power, style, in-car tech, and more “GT” than ever before. And somehow, it’s even cheaper than the outgoing model in the UK.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev6-gt" data-layer-viewtype="unknown" data-post-id="420892" href="https://electrek.co/2025/06/18/new-kia-ev6-gt-650-hp-beast-and-its-even-cheaper/#more-420892" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/18/new-kia-ev6-gt-650-hp-beast-and-its-even-cheaper/>
+
+---
+
+## Xiaomi's Patented Solid-State Battery Could Go 745 Miles
+
+date: 2025-06-18, from: Inside EVs News
+
+Xiaomi proved it can build EVs. Now it’s getting into solid-state batteries. Is China’s ‘Apple Car’ close to another breakthrough? 
+
+<br> 
+
+<https://insideevs.com/news/763045/xiaomi-solid-state-battery-ev/>
+
+---
+
+## Cool news: The world’s cutest microcar gets air conditioning
+
+date: 2025-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/microlino-spiaggina-portofino-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>While it’s not an official title, one of the front-runners for the world’s coolest electric microcar has got to be the Swiss-designed and Italian-manufactured Microlino. And thanks to a new version with first-ever air conditioning, it just got even cooler.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="microcar,nevs" data-layer-viewtype="unknown" data-post-id="420897" href="https://electrek.co/2025/06/18/cool-news-the-worlds-cutest-microcar-gets-air-conditioning/#more-420897" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/18/cool-news-the-worlds-cutest-microcar-gets-air-conditioning/>
 
 ---
 
@@ -101,7 +305,7 @@ date: 2025-06-17, from: Electrek Feed
 
 date: 2025-06-17, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/chargelab.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>EV charger operating system manufacturer ChargeLab just launched <a href="https://chargelab.co/" target="_blank" rel="noreferrer noopener">OpenOCPP</a>, a free and open-source software stack that could majorly simplify life for EV charger manufacturers.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/chargelab.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>EV charger operating system manufacturer ChargeLab just launched <a href="https://openocpp.com/" target="_blank" rel="noreferrer noopener">OpenOCPP</a>, a free and open-source software stack that could majorly simplify life for EV charger manufacturers.</p>
 
 
 

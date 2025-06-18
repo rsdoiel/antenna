@@ -1,11 +1,125 @@
 ---
 title: north america
-updated: 2025-06-18 06:07:17
+updated: 2025-06-18 14:07:21
 ---
 
 # north america
 
-(date: 2025-06-18 06:07:17)
+(date: 2025-06-18 14:07:21)
+
+---
+
+##  How To End Democrats’ Civil War 
+
+date: 2025-06-18, from: The Lever News
+
+ Abundance liberals and populists can together combat scarcity — but one side has to come clean.  
+
+<br> 
+
+<https://www.levernews.com/how-to-end-democrats-civil-war/>
+
+---
+
+## Misinformation, disinformation, and malinformation: Bill Braniff on the darkness and confusion in our online environment
+
+date: 2025-06-18, from: The Contrarian
+
+"I don't think we have our 21st-century sea legs underneath us yet when it comes to navigating the information environment." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165712133/95d70abdccb65b5986e60fb5c505fe4f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165712133/95d70abdccb65b5986e60fb5c505fe4f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/misinformation-disinformation-and>
+
+---
+
+## In the Boston mayoral race, money vs. experience
+
+date: 2025-06-18, from: The Contrarian
+
+The first woman mayor is battling to keep her job as a well-heeled newcomer steps in. 
+
+<br> 
+
+<https://contrarian.substack.com/p/in-the-boston-mayoral-race-money>
+
+---
+
+## Can Gov. Gavin Newsom Make Californians Healthier?
+
+date: 2025-06-18, from: Capital and Main
+
+<p>Advocates worry that soft drinks, candy and other ultra-processed foods bought with government funds via EBT cards may be in his sights.</p>
+<p>The post <a href="https://capitalandmain.com/can-gov-gavin-newsom-make-californians-healthier">Can Gov. Gavin Newsom Make Californians Healthier?</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/can-gov-gavin-newsom-make-californians-healthier>
+
+---
+
+## The Trump vendetta against Harvard
+
+date: 2025-06-18, from: The Contrarian
+
+The government isn't acting on national security interests. It looks like an attempt to further punish Harvard for actions protected by law. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-trump-vendetta-against-harvard>
+
+---
+
+##  The MAHA Movement’s Early Surrender 
+
+date: 2025-06-18, from: The Lever News
+
+ Robert F. Kennedy Jr. promised to fight corporations to make America healthy again, but his efforts so far have been all flash and little substance.  
+
+<br> 
+
+<https://www.levernews.com/the-maha-movements-early-surrender/>
+
+---
+
+## Supporting Women's Rights Goes Hand in Hand with Political Violence
+
+date: 2025-06-18, from: The Contrarian
+
+A discomforting throughline helps explain the assassination of Minnesota Rep. Melissa Hortman 
+
+<br> 
+
+<https://contrarian.substack.com/p/supporting-womens-rights-goes-hand>
+
+---
+
+## Stealing from the poor to give to the rich: Tammy Baldwin on Trump's reverse Robin Hood bill
+
+date: 2025-06-18, from: The Contrarian
+
+"We could have written a bill that really helped working people and the middle class get ahead. But no, they are focused on this massive transfer of wealth" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166175882/37b79858beaddc3402ca3fcaf3270295.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166175882/37b79858beaddc3402ca3fcaf3270295.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/stealing-from-the-poor-to-give-to>
+
+---
+
+## Coffee with Contrarians Featuring Ilan Goldenberg and Ben Wikler
+
+date: 2025-06-18, from: The Contrarian
+
+A recording from Coffee with the Contrarians LIVE 06/18 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-contrarians-featuring-ff2>
 
 ---
 

@@ -1,11 +1,233 @@
 ---
 title: home
-updated: 2025-06-18 06:07:23
+updated: 2025-06-18 14:07:28
 ---
 
 # home
 
-(date: 2025-06-18 06:07:23)
+(date: 2025-06-18 14:07:28)
+
+---
+
+## How to Grow Melons from Seed
+
+date: 2025-06-18, from: San Diego Seed Compan
+
+<p>Learning to grow melons from seed is one of the most rewarding gardening skills. It opens aworld of delicious flavors for you and your family to enjoy. Store-bought melons are oftenharvested early, prioritized for shipping rather than flavor, resulting in ... <a href="https://sandiegoseedcompany.com/growing/how-to-grow-melons-from-seed/" class="more-link">Read More</a></p>
+<p>The post <a href="https://sandiegoseedcompany.com/growing/how-to-grow-melons-from-seed/">How to Grow Melons from Seed</a> appeared first on <a href="https://sandiegoseedcompany.com">San Diego Seed Company</a>.</p>
+ 
+
+<br> 
+
+<https://sandiegoseedcompany.com/growing/how-to-grow-melons-from-seed/>
+
+---
+
+## How To Fix Crooked Cabinet Doors in 4 Easy Steps
+
+date: 2025-06-18, from: Family Handyman Blog
+
+<p>Achieve perfectly aligned cabinet doors that open and close smoothly with this step-by-step project on how to adjust cabinet doors.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-adjust-cabinet-doors/">How To Fix Crooked Cabinet Doors in 4 Easy Steps</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-adjust-cabinet-doors/>
+
+---
+
+## 19 Yard Tool Hacks That’ll Make Your Life Easier
+
+date: 2025-06-18, from: Family Handyman Blog
+
+<p>Save your back! These simple and smart updates to everyday yard tools will make your outdoor chores a heck of a lot easier this season.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/tool-hacks-that-make-your-life-easier/">19 Yard Tool Hacks That’ll Make Your Life Easier</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/tool-hacks-that-make-your-life-easier/>
+
+---
+
+## 7 Clever Ways to Repurpose Household Items
+
+date: 2025-06-18, from: Family Handyman Blog
+
+<p>Who doesn't love creatively repurposed items? They save you money and give you the opportunity to customize your space. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/repurpose-household-items/">7 Clever Ways to Repurpose Household Items</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/repurpose-household-items/>
+
+---
+
+## Tips for Finishing Basements
+
+date: 2025-06-18, from: Family Handyman Blog
+
+<p>Updating a whole room is never a small project, but with these tips for finishing basements you'll be well prepared. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/tips-for-finishing-basements/">Tips for Finishing Basements</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/tips-for-finishing-basements/>
+
+---
+
+## For $290K, You Can Scoop Up a Glass-Clad Cabin in Chile
+
+date: 2025-06-18, from: Dwell
+
+Set a short drive from the beach, the getaway brings in countryside views with a long, linear plan wrapped in floor-to-ceiling glazing. 
+
+<br> 
+
+<https://www.dwell.com/article/condominio-las-aguilas-gonzalo-rufin-arquitectos-cabin-matanzas-chile-real-estate-b53d8ed4>
+
+---
+
+## Troubleshooting Yellow Leaves on Zucchini: 7 Common Causes
+
+date: 2025-06-18, from: The Gardener's Path
+
+<p>Zucchini is a prolific warm-season crop with large, leafy foliage that’s key to fruit development. But when those vibrant leaves turn yellow, it can signal issues ranging from pest infestation to poor drainage. Learn how to diagnose and resolve seven common causes of yellowing leaves on zucchini in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/yellow-leaves-zucchini/">Troubleshooting Yellow Leaves on Zucchini: 7 Common Causes</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/yellow-leaves-zucchini/>
+
+---
+
+## Expanses of Glass Immerse This Y-Shaped Home in Its Wooded Setting
+
+date: 2025-06-18, from: Dwell
+
+The concrete residence in Slovakia combines timber slatting, gabion walls, and floor-to-ceiling sliders that open onto surrounding gardens. 
+
+<br> 
+
+<https://www.dwell.com/article/bananka-house-pauliny-hovorka-architects-indoor-outdoor-living-concrete-home-d88623ad>
+
+---
+
+## 5 Types of Wolf Spiders in Texas (With Pictures and Identification)
+
+date: 2025-06-18, from: Yard Life blog
+
+<p>Wolf spiders in Texas are fascinating and diverse predators that play an important role in the state’s ecosystems. These spiders ... </p>
+<p class="read-more-container"><a title="5 Types of Wolf Spiders in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/5-types-of-wolf-spiders-in-texas-with-pictures-and-identification/#more-30437" aria-label="Read more about 5 Types of Wolf Spiders in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/5-types-of-wolf-spiders-in-texas-with-pictures-and-identification/">5 Types of Wolf Spiders in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/5-types-of-wolf-spiders-in-texas-with-pictures-and-identification/>
+
+---
+
+## CDFA Celebrates Pride Month with Panel of LGBTQ+ Voices
+
+date: 2025-06-18, from: Calfifornia Dept. Aggriculture blog
+
+Pictured, top (L-R) Jeff Cesca, Director of Marketing Services (Retired); Tad Naquin, Agricultural Biological Technician, Center for Analytical Chemistry; Gina Saldana, Personnel Supervisor, Human Resources Branch; Undersecretary Christine Birdsong; Siobhan Reid, Service Desk Analyst, Information Technology Services; Edward Southwick, Environmental &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29057">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29057>
+
+---
+
+## 20 Types of Birds in Virginia (With Pictures and Identification)
+
+date: 2025-06-18, from: Yard Life blog
+
+<p>Virginia’s rich variety of habitats, from quiet forests and rolling hills to coastal marshes and urban parks, creates the perfect ... </p>
+<p class="read-more-container"><a title="20 Types of Birds in Virginia (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/20-types-of-birds-in-virginia-with-pictures-and-identification/#more-30429" aria-label="Read more about 20 Types of Birds in Virginia (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-types-of-birds-in-virginia-with-pictures-and-identification/">20 Types of Birds in Virginia (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-types-of-birds-in-virginia-with-pictures-and-identification/>
+
+---
+
+## The Best Sustainable Swimwear Brands to Shop This Summer
+
+date: 2025-06-18, from: Sunset Magazine - Living in the West
+
+Swim sustainably all summer long with these eco-friendly swimwear brands from the West. There's something for everyone here. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/sustainable-swimwear-brands>
+
+---
+
+## Check in, Learn to Surf: These Beach Hotels Will Teach You How on Your Next Vacation
+
+date: 2025-06-18, from: Sunset Magazine - Living in the West
+
+Check in and learn how to surf. New programming at surf hotels in the West gives surfers of all skill levels a chance to learn. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/surf-hotels-laguna-surf-lodge>
+
+---
+
+## Homepage 2025
+
+date: 2025-06-18, from: Sunset Magazine - Living in the West
+
+Decorating &amp; Design, Home Tours Inside Two Brewers&#8217; Peaceful, Eco-Friendly Retreat in Sonoma County It&#8217;s an idyllic property that blends into its surroundings.  Read more: Inside Two Brewers&#8217; Peaceful, Eco-Friendly Retreat&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Inside Two Brewers’ Peaceful, Eco-Friendly Retreat in Sonoma County
+
+date: 2025-06-18, from: Sunset Magazine - Living in the West
+
+Two brewers wanted to build a retreat where they could retire and host love ones. The result is a stunning property full of special details. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/eco-friendly-retreat-sonoma>
+
+---
+
+## What to Do on Oahu, According to a Local Surfer
+
+date: 2025-06-18, from: Sunset Magazine - Living in the West
+
+Expert advice on the best spots to visit to Oahu, Hawaii's North Shore, from a shave ice spot to surf lessons to a feel-good cafe. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/north-shore-oahu-things-to-do>
+
+---
+
+## The Ultimate Kauai Itinerary, According to a Local
+
+date: 2025-06-18, from: Sunset Magazine - Living in the West
+
+There's no where more picturesque than Kauai. A local shares her favorite spots along Kauai’s North Shore. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/kauai-things-to-do>
 
 ---
 
@@ -108,18 +330,6 @@ It has green roofs, cork cladding, and a sunken path running between private and
 
 ---
 
-## Inside Two Brewers’ Peaceful, Eco-Friendly Retreat in Sonoma County
-
-date: 2025-06-17, from: Sunset Magazine - Living in the West
-
-Two brewers wanted to build a retreat where they could retire and host love ones. The result is a stunning property full of special details. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/eco-friendly-retreat-sonoma>
-
----
-
 ## Tips and Tricks For Cooling Your Home Without Breaking the Bank
 
 date: 2025-06-17, from: Family Handyman Blog
@@ -145,18 +355,6 @@ date: 2025-06-17, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/fruit/grow-jostaberries/>
-
----
-
-## The Ultimate Kauai Itinerary, According to a Local
-
-date: 2025-06-17, from: Sunset Magazine - Living in the West
-
-There's no where more picturesque than Kauai. A local shares her favorite spots along Kauai’s North Shore. 
-
-<br> 
-
-<https://www.sunset.com/travel/insider-guides/kauai-things-to-do>
 
 ---
 
@@ -443,18 +641,6 @@ The (almost) entirely ash structure uses a grid system-of-parts that can be take
 <br> 
 
 <https://www.dwell.com/article/house-in-anton-ii-luxe-architect-cabin-f3673d40>
-
----
-
-## Homepage 2025
-
-date: 2025-06-16, from: Sunset Magazine - Living in the West
-
-Decorating &amp; Design, Home Tours This Untouched &#8217;70s Lake House Got a Fresh and Groovy Update It was completely remodeled yet still retains its cool.  Read more: This Untouched &#8217;70s Lake&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

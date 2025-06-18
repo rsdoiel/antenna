@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-06-18 06:07:24
+updated: 2025-06-18 14:07:29
 ---
 
 # retro computing
 
-(date: 2025-06-18 06:07:24)
+(date: 2025-06-18 14:07:29)
+
+---
+
+## TUXEDO has unveiled a new InfinityBook Pro with an AMD Ryzen AI 300
+
+date: 2025-06-18, from: Linux Magazine
+
+<p>This new notebook offers serious power that is ready for your business, development, or entertainment needs.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/TUXEDO-has-unveiled-a-new-InfinityBook-Pro-with-an-AMD-Ryzen-AI-300>
 
 ---
 

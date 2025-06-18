@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-06-18 06:07:23
+updated: 2025-06-18 14:07:28
 ---
 
 # motorcycles
 
-(date: 2025-06-18 06:07:23)
+(date: 2025-06-18 14:07:28)
+
+---
+
+## California Will Subsidize E-Bikes To Combat Climate Change. Will It Work?
+
+date: 2025-06-18, from: Ride Apart, Electric Motorcycle News
+
+Would you ditch your car for an e-bike if they were super accessible?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/762925/california-subsidizing-ebikes-combat-climate-change/>
+
+---
+
+## Scooter Maker Vespa Gives Its History a Gorgeous Nod With the Officina 8 Collection
+
+date: 2025-06-18, from: Ride Apart, Electric Motorcycle News
+
+Just in case you don't find yourself quietly whispering 'Officina Sperimentale' under your breath after reading it for the first time. 
+
+<br> 
+
+<https://www.rideapart.com/news/763052/vespa-officina-8-scooter-apparel/>
+
+---
+
+## Harley-Davidson Just Sold Part of Its Big, Fancy Headquarters to a Distillery
+
+date: 2025-06-18, from: Ride Apart, Electric Motorcycle News
+
+A reminder, don't drink and ride.  
+
+<br> 
+
+<https://www.rideapart.com/news/763030/harley-davidson-sells-headquarters-central-standard-distillery/>
 
 ---
 

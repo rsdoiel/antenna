@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-06-18 06:07:21
+updated: 2025-06-18 14:07:26
 ---
 
 # games
 
-(date: 2025-06-18 06:07:21)
+(date: 2025-06-18 14:07:26)
+
+---
+
+## 28 Years Later breathes new life into zombie horror yet again
+
+date: 2025-06-18, updated: 2025-06-18, from: Polygon Website
+
+2002&#8217;s 28 Days Later objectively revitalized the zombie genre through fast-paced action and human drama. In fact, director Danny Boyle (Slumdog Millionaire) and writer Alex Garland (Civil War) inspired so many imitators that it&#8217;s hard to believe there could be more life to wring out of the survivors of a viral apocalypse being hunted by [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/607770/28-years-later-review>
+
+---
+
+## How to get Storm Beast’s Pom Poms in Fortnite
+
+date: 2025-06-18, updated: 2025-06-18, from: Polygon Website
+
+The Storm Beast’s Pom Poms are a Hero Item in Fortnite Chapter 6 Season 3 Super that allow you to transform into, well, the Storm Beast. As part of a weekly quest, you’ll need to eliminate five opponents as the Storm Beast, but to do that, you’ll need to find a pair of pom poms. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/607859/storm-beast-pom-poms-how-to-get>
+
+---
+
+## These Nintendo Switch 2 cassette tape cases look better than the official boxes
+
+date: 2025-06-18, updated: 2025-06-18, from: Polygon Website
+
+Let’s face it, Nintendo Switch 2 games and their box art can be kind of ugly. No one wants a giant block of tiny text blocking key art. But why stop there? Some Switch 2 fans are taking matters into their own hands by creating Switch 2 cassette tapes with bespoke art and killer red [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/607422/switch-2-cassette-case-how-to-make-cover-art-spine>
+
+---
+
+## The animated Spider-Man’s notorious cliffhanger will be resolved in a new Marvel comic
+
+date: 2025-06-18, updated: 2025-06-18, from: Polygon Website
+
+Twenty-seven years ago, Spider-Man: The Animated Series saw Spider-Man and Madame Web en route through the multiverse to locate the real Mary Jane Watson. But before fans could see MJ and Peter Parker reunited, Spider-Man: TAS ended. Yes, Marvel Studios&#8217; X-Men &#8217;97 finale showed us Mary Jane and Peter Parker together again, but the show [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/607773/spider-man-animated-series-notorious-cliffhanger-will-be-resolved-in-a-new-marvel-comic>
+
+---
+
+## Death Stranding is getting a second movie adaptation
+
+date: 2025-06-18, updated: 2025-06-18, from: Polygon Website
+
+Kojima Productions’ Death Stranding already has a live-action movie adaptation in the works with A24 and director Michael Sarnoski attached, but it’s not the only cinematic project in the works. Animation studio Line Mileage and Kojima Productions announced Wednesday that they’re teaming up for an animated adaptation of the 2019 game, which is described as [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/607716/death-stranding-animated-movie>
+
+---
+
+## Vin Diesel needs to make a sequel to his movie blowing up on Netflix
+
+date: 2025-06-18, updated: 2025-06-18, from: Polygon Website
+
+Vin Diesel’s 2015 film The Last Witch Hunter is currently popping on Netflix — currently the 5th most-viewed movie across the entire streaming platform, as of publication. And while many consider it a flop, the madcap fantasy film, the star’s ode to Dungeons &#38; Dragons in many ways, is truly the only Diesel joint that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/action/607707/vin-diesel-the-last-witch-hunter-sequel>
+
+---
+
+## I can’t stop listening to the Warframe boy band
+
+date: 2025-06-18, updated: 2025-06-18, from: Polygon Website
+
+There’s a lot that I don’t know about Warframe.&#160; The online multiplayer game was released in 2012, and in 13 years, the plot has gone places. What began as a vibes-based space shooter has transformed into a vibes-based space opera, with some pretty incredible writing to accompany the satisfying gameplay. I am not going to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/607695/warframe-on-lyne-boy-band-review>
+
+---
+
+## Pokémon TCG Pocket’s Eevee expansion is like the digital version of the cards everyone’s fighting over
+
+date: 2025-06-18, updated: 2025-06-18, from: Polygon Website
+
+If you collect Pokémon cards in real life, you might be eyeing the Prismatic Evolutions Super-Premium Collection, an Eevee-focused set that’s been in high demand. People risk getting caught in a tornado over these cards. Well, the next best thing to that set might be coming to Pokémon TCG Pocket on June 26, when its [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/607731/pokemon-tcg-pockets-eevee-expansion-is-like-the-digital-version-of-the-cards-everyones-fighting-over>
+
+---
+
+## Donkey Kong Bananza’s dopest features revealed in Nintendo Direct
+
+date: 2025-06-18, updated: 2025-06-18, from: Polygon Website
+
+Nintendo has finally revealed more information about Donkey Kong Bananza as part of a new Nintendo Direct. Shockingly, there’s more to this game than I initially expected. And everything that Nintendo showed off is the best argument for why this game isn’t simply a Super Mario Odyssey or The Legend of Zelda: Breath of the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/607658/donkey-kong-bananzas-new-features>
 
 ---
 

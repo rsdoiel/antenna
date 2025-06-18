@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-06-18 06:07:18
+updated: 2025-06-18 14:07:23
 ---
 
 # ham radio
 
-(date: 2025-06-18 06:07:18)
+(date: 2025-06-18 14:07:23)
+
+---
+
+## Simple PWM interface can program regulators for Vout < Vsense
+
+date: 2025-06-18, from: EDN Blog
+
+<img width="605" height="549" src="https://www.edn.com/wp-content/uploads/SubVsensePWM_Figure2.png?fit=605%2C549" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/SubVsensePWM_Figure2.png?w=605 605w, https://www.edn.com/wp-content/uploads/SubVsensePWM_Figure2.png?w=300 300w" sizes="(max-width: 605px) 100vw, 605px" /><p>Another simple circuits for PWM programming of standard regulator chips, this time Vout is programmable down to zero volts.</p>
+<p>The post <a href="https://www.edn.com/simple-pwm-interface-can-program-regulators-for-vout-vsense/">Simple PWM interface can program regulators for Vout &lt; Vsense</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/simple-pwm-interface-can-program-regulators-for-vout-vsense/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-06-18 06:07:18
 
 date: 2025-06-18, from: EDN Blog
 
-<img width="1529" height="602" src="https://www.edn.com/wp-content/uploads/Fig-7-Bridge-circuit-with-IA.jpg?fit=1529%2C602" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-7-Bridge-circuit-with-IA.jpg?w=1529 1529w, https://www.edn.com/wp-content/uploads/Fig-7-Bridge-circuit-with-IA.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-7-Bridge-circuit-with-IA.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-7-Bridge-circuit-with-IA.jpg?w=1024 1024w" sizes="(max-width: 1529px) 100vw, 1529px" /><p>There are many options beyond difference amplifiers and traditional INAs when it comes to conditioning the signal from a Wheatstone bridge.</p>
+<img width="1529" height="602" src="https://www.edn.com/wp-content/uploads/Fig-7-Bridge-circuit-with-IA.jpg?fit=1529%2C602" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-7-Bridge-circuit-with-IA.jpg?w=1529 1529w, https://www.edn.com/wp-content/uploads/Fig-7-Bridge-circuit-with-IA.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-7-Bridge-circuit-with-IA.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-7-Bridge-circuit-with-IA.jpg?w=1024 1024w" sizes="auto, (max-width: 1529px) 100vw, 1529px" /><p>There are many options beyond difference amplifiers and traditional INAs when it comes to conditioning the signal from a Wheatstone bridge.</p>
 <p>The post <a href="https://www.edn.com/wheatstone-bridge-measurements-with-instrumentation-amplifiers/">Wheatstone bridge measurements with instrumentation amplifiers</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 
@@ -27,7 +41,7 @@ date: 2025-06-18, from: EDN Blog
 
 date: 2025-06-17, from: EDN Blog
 
-<img width="3915" height="2699" src="https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?fit=3915%2C2699" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=3915 3915w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=2850 2850w" sizes="(max-width: 3915px) 100vw, 3915px" /><p>Two eight-port Gigabit Ethernet switches. Both exposed to an intense lightning EMP. Both failed. But one only partially, to one port. And the other only completely after a few minutes’ initial partial-functional operation. Intrigued? Read on for the nitty-gritty details.</p>
+<img width="3915" height="2699" src="https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?fit=3915%2C2699" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=3915 3915w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/metal_overview_inside.jpg?w=2850 2850w" sizes="auto, (max-width: 3915px) 100vw, 3915px" /><p>Two eight-port Gigabit Ethernet switches. Both exposed to an intense lightning EMP. Both failed. But one only partially, to one port. And the other only completely after a few minutes’ initial partial-functional operation. Intrigued? Read on for the nitty-gritty details.</p>
 <p>The post <a href="https://www.edn.com/a-teardown-tale-of-two-not-so-different-switches/">A teardown tale of two not-so-different switches</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

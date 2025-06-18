@@ -1,11 +1,55 @@
 ---
 title: small papers
-updated: 2025-06-18 06:07:26
+updated: 2025-06-18 14:07:31
 ---
 
 # small papers
 
-(date: 2025-06-18 06:07:26)
+(date: 2025-06-18 14:07:31)
+
+---
+
+## Community college adjunct professors optimistic as two lawsuits over pay progress
+
+date: 2025-06-18, from: Long Beach Post
+
+<figure><img width="1024" height="580" src="https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731.jpg 2000w, https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731-530x300.jpg 530w, https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731-1110x629.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731-768x435.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731-1536x870.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731-2048x1160.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731-1320x748.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Roughly 1,200 adjuncts who brought a class-action lawsuit against LBCC in 2022 are preparing for mediation to resolve claims of lost pay.</p>
+<p>The post <a href="https://lbpost.com/news/education/community-college-adjunct-professors-optimistic-as-two-lawsuits-over-pay-progress">Community college adjunct professors optimistic as two lawsuits over pay progress</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/community-college-adjunct-professors-optimistic-as-two-lawsuits-over-pay-progress>
+
+---
+
+## HOROSCOPE
+
+date: 2025-06-18, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>By Holiday Mathis (Creators.com) ARIES (March 21-April 19) You’ve been trying life in different configurations, sometimes new ventures, sometimes the same familiar elements &#8212; people, projects, activities &#8212; in different [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/18/horoscope-216/">HOROSCOPE </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/18/horoscope-216/>
+
+---
+
+## Long Beach man dragged 84-year-old to alley as he tried to sexually assault her, Santa Monica police say
+
+date: 2025-06-18, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>He was arrested on suspicion of kidnapping and assault with intent to commit rape.</p>
+<p>The post <a href="https://lbpost.com/news/crime/long-beach-man-dragged-84-year-old-to-alley-as-he-tried-to-sexually-assault-her-santa-monica-police-say">Long Beach man dragged 84-year-old to alley as he tried to sexually assault her, Santa Monica police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/long-beach-man-dragged-84-year-old-to-alley-as-he-tried-to-sexually-assault-her-santa-monica-police-say>
 
 ---
 
@@ -13,7 +57,7 @@ updated: 2025-06-18 06:07:26
 
 date: 2025-06-17, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/17163321/img-4079-233279-lxlyngsh-448375-IOmkLStL-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>They said a group of teens ran off after the shooting. Police had several youth detained at the scene.</p>
 <p>The post <a href="https://lbpost.com/news/crime/shooting-wingstop-long-beach-boulevard-20th-bystanders">Bystanders rush to help victim shot in head outside Long Beach Wingstop, witnesses say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

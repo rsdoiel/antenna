@@ -1,11 +1,194 @@
 ---
 title: pacific
-updated: 2025-06-18 06:07:18
+updated: 2025-06-18 14:07:23
 ---
 
 # pacific
 
-(date: 2025-06-18 06:07:18)
+(date: 2025-06-18 14:07:23)
+
+---
+
+## New Zealand halts Cook Islands funding in stoush over China
+
+date: 2025-06-18, from: 
+
+Winston Peters' office says New Zealand has paused its core sector support funding for the Cook Islands after its government signed partnership agreements with China earlier this year. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/political/564578/new-zealand-halts-cook-islands-funding-in-stoush-over-china>
+
+---
+
+## Family of woman murdered by mental health patient feel 'forgotten'
+
+date: 2025-06-18, from: 
+
+Laisa Waka Tunidau was stabbed to death as she walked home from work on 25 June 2022. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/national/564555/family-of-woman-murdered-by-mental-health-patient-feel-forgotten>
+
+---
+
+## 'What's going on': Norfolk Island emergency number down since May
+
+date: 2025-06-18, from: 
+
+A Norfolk Island local says people are outraged that the emergency or 000 number is still down. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564564/what-s-going-on-norfolk-island-emergency-number-down-since-may>
+
+---
+
+## New technology platforms approved for systemwide student support
+
+date: 2025-06-18, from: University of Hawaiʻi News
+
+<p>The new, systemwide student-success initiative is aimed at closing achievement gaps and improving student retention and timely graduation rates.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/18/new-technology-systemwide-student-support/">New technology platforms approved for systemwide student support</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/18/new-technology-systemwide-student-support/>
+
+---
+
+## Papua New Guinea's electoral integrity under scrutiny ahead of 2027 polls
+
+date: 2025-06-18, from: 
+
+A new report has called for immediate reforms of electoral boundaries before the 2027 National General Election after identifying significant breaches of law. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564563/papua-new-guinea-s-electoral-integrity-under-scrutiny-ahead-of-2027-polls>
+
+---
+
+## Fiji Police investigating Commission of Inquiry report into appointment of sacked anti-corruption commissioner Barbara Malimali
+
+date: 2025-06-18, from: 
+
+Fiji Police have commenced investigations into a Commission of Inquiry report on the appointment of the country's now sacked head of the anti-corruption office. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564526/fiji-police-investigating-commission-of-inquiry-report-into-appointment-of-sacked-anti-corruption-commissioner-barbara-malimali>
+
+---
+
+## State of Origin game II: Queensland beat New South Wales 26-24
+
+date: 2025-06-18, from: 
+
+Queensland have held on to beat New South Wales in the second State of Origin clash at Optus Stadium in Perth. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/sport/564540/state-of-origin-game-ii-queensland-beat-new-south-wales-26-24>
+
+---
+
+## Image of the Week: Huakaʻi
+
+date: 2025-06-18, from: University of Hawaiʻi News
+
+<p>This week's image is from <abbr>UH</abbr> Hilo.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/18/image-of-the-week-huakai/">Image of the Week: Huakaʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/18/image-of-the-week-huakai/>
+
+---
+
+## Maui residents’ recovery sees gains, but health and housing challenges persist
+
+date: 2025-06-18, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr>-led study reveals both encouraging recovery trends and serious health concerns nearly two years after Maui's devastating wildfires.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/18/maui-wes-report-two-years-after-wildfires/">Maui residents’ recovery sees gains, but health and housing challenges persist</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/18/maui-wes-report-two-years-after-wildfires/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-06-18, updated: 2025-06-18, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Poetry
+
+date: 2025-06-18, updated: 2025-06-18, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_0dc9dac3-4a59-4357-96d9-cc1641021dad.html>
+
+---
+
+## NMC to host fall 2025 info session on Tinian
+
+date: 2025-06-18, updated: 2025-06-18, from: Marianas Variety
+
+(NMC) — Individuals on Tinian interested in furthering their education and pursuing a degree at Northern Marianas College are encouraged to attend NMC’s free information session on June 25 and 26, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/nmc-to-host-fall-2025-info-session-on-tinian/article_4212f3bb-bd98-4b63-a825-05b2adc1245d.html>
+
+---
+
+## US Senate passes stablecoin bill in milestone for crypto industry
+
+date: 2025-06-18, updated: 2025-06-18, from: Marianas Variety
+
+(Reuters) — The U.S. Senate on Tuesday passed a bill to create a regulatory framework for U.S.-dollar-pegged cryptocurrency tokens known as stablecoins, in a watershed moment for the digital asset industry. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/us-senate-passes-stablecoin-bill-in-milestone-for-crypto-industry/article_352d724c-aae0-40da-aef3-9baad9e6642a.html>
+
+---
+
+## KHS' Nekaifes receives MTEC scholarship
+
+date: 2025-06-18, updated: 2025-06-18, from: Marianas Variety
+
+(MVA) — Kagman High School graduate  Davin Nekaifes was awarded a $1,000 scholarship by the Marianas Tourism Education Council on Friday, June 13. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/khs-nekaifes-receives-mtec-scholarship/article_7d9b9e3b-a590-4403-99dc-7c3636511a01.html>
+
+---
+
+## A new biography goes long and deep on the rise and fall of rock band Talking Heads
+
+date: 2025-06-18, updated: 2025-06-18, from: Marianas Variety
+
+(AP) — Talking Heads fans, rejoice! Hard on the heels of the re-release of “Stop Making Sense,” the 1984 Jonathan Demme film widely considered the best concert movie ever made, Jonathan Gould has published a comprehensive biography of the seminal band that injected an art school vibe into popular music and forever changed rock ‘n’ roll. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/a-new-biography-goes-long-and-deep-on-the-rise-and-fall-of-rock-band/article_8e41b9a3-51d4-4c1d-a0d9-84375efa97a7.html>
 
 ---
 
@@ -146,18 +329,6 @@ date: 2025-06-18, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/06/18/nation-world-news/news-in-brief-for-june-18/>
-
----
-
-## Fiji Police investigating Commission of Inquiry report into appointment of sacked anti-corruption commissioner Barbara Malimali
-
-date: 2025-06-18, from: 
-
-Fiji Police have commenced investigations into a Commission of Inquiry report on the appointment of the country's now sacked head of the anti-corruption office. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/564526/fiji-police-investigating-commission-of-inquiry-report-into-appointment-of-sacked-anti-corruption-commissioner-barbara-malimali>
 
 ---
 

@@ -1,11 +1,51 @@
 ---
 title: writing
-updated: 2025-06-18 06:07:21
+updated: 2025-06-18 14:07:26
 ---
 
 # writing
 
-(date: 2025-06-18 06:07:21)
+(date: 2025-06-18 14:07:26)
+
+---
+
+## Dan Gilroy on Writing ‘Andor’s’ Most Tragic Character: “He Would’ve Joined the Rebellion”
+
+date: 2025-06-18, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/dan-gilroy-on-writing-andors-most-tragic-character-he-wouldve-joined-the-rebellion" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Cassian%20Andor%20%28Diego%20Luna%29%20in%20Lucasfilms%20ANDOR%20Season%202%2c%20exclusively%20on%20Disney%2B.%20Photo%20courtesy%20of%20Lucasfilm.%20%C2%A92025%20Lucasfilm%20Ltd.%20%26%20TM.%20All%20Rights%20Reserved%202.png" alt="Cassian Andor (Diego Luna) in Lucasfilm's ANDOR Season 2, exclusively on Disney+. Photo courtesy of Lucasfilm. ©2025 Lucasfilm Ltd. &amp; TM. All Rights Reserved 2" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Dan Gilroy has spent decades mastering the art of character-driven storytelling, from his gritty noir thriller <em>Nightcrawler</em> to his work on <em>Andor</em>, the <em>Star Wars</em> series that has redefined what science fiction television can accomplish.&nbsp;<br><br>Gilroy wrote the three-episode arc that includes the Ghorman massacre and Mon Mothma’s (Genevieve O’Reilly) dramatic escape from the Senate. The episodes are standouts in a magnificent season of rich, complex TV.&nbsp;<br><br>As someone who has loved <em>Star Wars</em> since infancy, <em>Andor</em> feels like a miracle to me. It’s adult, dark, and grounded writing that deals with complicated people in impossible situations, making for some of the realest, most complicated <em>Star Wars</em> adventures in the franchise. Little 1999 me could have never imagined she’d get the chance to dissect some of her favorite intergalactic moments with its writers, but here we are.<br><br>And I learned a ton from our conversation. As a writer, Gilroy understands that the biggest conflicts mean nothing without intimate human stakes, a philosophy that shines through in his episodes, in which personal betrayals and political awakenings unfurl against the backdrop of a growing rebellion.<br><br>In our discussion, he told us about his habit of developing a unique visual style for every script and his philosophy on trusting audiences with minimal exposition. He also shares his wisdom about finding your voice as a writer, why writers don’t need interpersonal skills to succeed, and how to write action sequences that prioritize character over spectacle.<br><br><em>Editor’s note: The following interview has been edited for length and clarity.</em><br></p> 
+
+<br> 
+
+<https://blog.finaldraft.com/dan-gilroy-on-writing-andors-most-tragic-character-he-wouldve-joined-the-rebellion>
+
+---
+
+## Transmentation | Transience by Darkly Lem: Review by Jake Casella Brookins
+
+date: 2025-06-18, from: Locus Magazine
+
+<p><strong>Transmentation &#124; Transience</strong>, Darkly Lem (Black­stone 9798212185998, $28.99, 382pp, hc) March 2025. Cover by Kathryn English.</p>
+<p>It’s uniquely refreshing to encounter a novel that genuinely breathes new life into a trope or a subgenre that seemed to be played out. I’ve been experiencing “multiverse fatigue” for quite a while now, immediately skeptical that an alternate-reality narrative can go anywhere meaningful; and I was completely charmed by <strong>Transmentation &#124; Transience</strong> <a href="https://locusmag.com/2025/06/transmentation-transience-by-darkly-lem-review-by-jake-casella-brookins/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/transmentation-transience-by-darkly-lem-review-by-jake-casella-brookins/>
+
+---
+
+## Bartz v. Anthropic: Class Certification at Issue for Book Authors in AI Copyright Litigation
+
+date: 2025-06-18, from: Author's Union blog
+
+Back in October, I asked a simple but unresolved question: “Who represents you in the AI copyright suits?” Now, eight months later, we’re getting closer to an answer—at least for some authors. In Bartz v. Anthropic, one of the fastest-moving lawsuits over the use of copyrighted works to train generative AI systems, the plaintiffs have asked the court to certify a class of authors whose books were allegedly copied without permission. 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/06/18/bartz-v-anthropic-class-certification-at-issue-for-book-authors-in-ai-copyright-litigation/>
 
 ---
 

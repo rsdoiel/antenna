@@ -1,11 +1,252 @@
 ---
 title: snapshots
-updated: 2025-06-18 06:07:27
+updated: 2025-06-18 14:07:32
 ---
 
 # snapshots
 
-(date: 2025-06-18 06:07:27)
+(date: 2025-06-18 14:07:32)
+
+---
+
+## Support
+
+date: 2025-06-18, from: mrusme blog
+
+If you find value in the content provided on this website or my projects,
+please consider supporting me. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/support/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-18, from: Dave Winer's linkblog)
+
+Tim Chambers: <span style="letter-spacing: 0.01rem; -webkit-text-size-adjust: 100%;">The Seven Deadly UX Sins of the Fediverse Web Experience (To Fix).</span> 
+
+<br> 
+
+<https://www.timothychambers.net/2025/06/18/113327.html>
+
+---
+
+**@IIIF Mastodon feed** (date: 2025-06-18, from: IIIF Mastodon feed)
+
+<p>If you couldn&#39;t be with us in Leeds for the 2025 <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> Annual Conference, recordings of the proceedings are now available on the IIIF YouTube channel: <a href="https://www.youtube.com/playlist?list=PLYPP1-8uH9c4tPJPPK7BL3WvHAqEpY-uj" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/playlist?list=PLYP</span><span class="invisible">P1-8uH9c4tPJPPK7BL3WvHAqEpY-uj</span></a></p> 
+
+<br> 
+
+<https://glammr.us/@IIIF/114706137230755214>
+
+---
+
+## Emmys 2025: FYC – actor de reparto, drama: Jonathan Pryce – Slow Horses
+
+date: 2025-06-18, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Los Premios Emmy, el máximo reconocimiento de la industria de la televisión, es un escenario en donde se han distinguido algunas de las actuaciones más memorables de los últimos años y que podemos disfrutar en la pantalla chica. Cada año destacan aquellas interpretaciones que han dejado huella en el público y la crítica. Ya hemos [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/emmys-2025-fyc-actor-de-reparto-drama-jonathan-pryce-slow-horses/">Emmys 2025: FYC – actor de reparto, drama: Jonathan Pryce – Slow Horses</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/emmys-2025-fyc-actor-de-reparto-drama-jonathan-pryce-slow-horses/?utm_source=rss&utm_medium=rss&utm_campaign=emmys-2025-fyc-actor-de-reparto-drama-jonathan-pryce-slow-horses>
+
+---
+
+## Bartz v. Anthropic: Class Certification at Issue for Book Authors in AI Copyright Litigation
+
+date: 2025-06-18, from: Authors Union blogs
+
+Back in October, I asked a simple but unresolved question: “Who represents you in the AI copyright suits?” Now, eight months later, we’re getting closer to an answer—at least for some authors. In Bartz v. Anthropic, one of the fastest-moving lawsuits over the use of copyrighted works to train generative AI systems, the plaintiffs have asked the court to certify a class of authors whose books were allegedly copied without permission. 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/06/18/bartz-v-anthropic-class-certification-at-issue-for-book-authors-in-ai-copyright-litigation/>
+
+---
+
+## MSI Cubi NUC AI+ 2MG mini PC with Intel Lunar Lake now available for pre-order
+
+date: 2025-06-18, from: Liliputing
+
+<p>The MSI CUBI NUC AI+ 2MG is a compact desktop computer that stuffs a lot of features into small package. It supports up to an Intel Core Ultra 9 288V Lunar Lake processor and features a robust set of ports including two Thunderbolt ports, dual 2.5 GbE Ethernet ports, and support for multiple 4K displays. First [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/msi-cubi-nuc-ai-2mg-mini-pc-with-intel-lunar-lake-now-available-for-pre-order/">MSI Cubi NUC AI+ 2MG mini PC with Intel Lunar Lake now available for pre-order</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/msi-cubi-nuc-ai-2mg-mini-pc-with-intel-lunar-lake-now-available-for-pre-order/>
+
+---
+
+## Showing Settings From macOS Menu Bar Items
+
+date: 2025-06-18, from: Michael Tsai
+
+Peter Steinberger (Mastodon): SwiftUI provides SettingsLink for opening settings[&#8230;] Simple, right? Except it doesn&#8217;t work reliably in MenuBarExtra. The documentation doesn&#8217;t mention this limitation.[&#8230;]The root issue is that NSApplication treats menu bar apps as background utilities, not foreground applications. This affects how windows are ordered and receive events.[&#8230;]Apple provides an openSettings environment action for programmatic [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/18/showing-settings-from-macos-menu-bar-items/>
+
+---
+
+## SwiftUI at WWDC 2025
+
+date: 2025-06-18, from: Michael Tsai
+
+What&#8217;s new in SwiftUI: Learn what&#8217;s new in SwiftUI to build great apps for any Apple platform. We&#8217;ll explore how to give your app a brand new look and feel with Liquid Glass. Discover how to boost performance with framework enhancements and new instruments, and integrate advanced capabilities like web content and rich text editing. [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/18/swiftui-at-wwdc-2025/>
+
+---
+
+## Automatic Observation Tracking in UIKit and AppKit
+
+date: 2025-06-18, from: Michael Tsai
+
+Peter Steinberger: Remember when SwiftUI came out and we all marveled at how views automatically updated when @Published properties changed? Well, Apple has been quietly working on bringing that same magic to UIKit and AppKit. The best part? It shipped in iOS 18/macOS 15, but hardly anyone knows about it. You don&#8217;t even need Xcode [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/18/automatic-observation-tracking-in-uikit-and-appkit/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-18, from: Dave Winer's linkblog)
+
+How the “lost” Mac intro video was found in Scott Knaster&#39;s living room 
+
+<br> 
+
+<https://scottknaster.substack.com/p/how-the-lost-mac-intro-video-was?publication_id=3817465&post_id=165983498&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## Zinwa Q25 upgrades the BlackBerry Q20 Classic with the guts of a modern Android smartphone
+
+date: 2025-06-18, from: Liliputing
+
+<p>The BlackBerry Q20 Classic is a smartphone that was released in 2014 with a 3.5 inch, 720 x 720 pixel square display and a QWERTY keyboard. It was one of the last phones to ship with BlackBerry OS software and BlackBerry&#8217;s classic keyboard. Now a small Chinese team is looking to breathe new life into [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/zinwa-q25-upgrades-the-blackberry-q20-classic-with-the-guts-of-a-modern-android-smartphone/">Zinwa Q25 upgrades the BlackBerry Q20 Classic with the guts of a modern Android smartphone</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/zinwa-q25-upgrades-the-blackberry-q20-classic-with-the-guts-of-a-modern-android-smartphone/>
+
+---
+
+## Anbernic RG Slide coming soon for $180 and up (handheld game console with a 4.7 inch, 120 Hz sliding display)
+
+date: 2025-06-18, from: Liliputing
+
+<p>The Anbernic RG Slide is a pocket-sized handheld game console with a 4.7 inch, 1280 x 960 pixel LTPS display featuring a 120 Hz refresh rate, a Unisoc T820 processor, 8GB of LPDDR4X RAM and 128GB of UFS 2.2 storage plus a microSD card reader for up to 2TBremovable storage. What really makes it unusual though [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/anbernic-rg-slide-coming-soon-for-180-and-up-handheld-game-console-with-a-4-7-inch-120-hz-sliding-display/">Anbernic RG Slide coming soon for $180 and up (handheld game console with a 4.7 inch, 120 Hz sliding display)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/anbernic-rg-slide-coming-soon-for-180-and-up-handheld-game-console-with-a-4-7-inch-120-hz-sliding-display/>
+
+---
+
+## AYANEO Pocket S2 handheld game console hits Indiegogo for $439 and up, ships in July
+
+date: 2025-06-18, from: Liliputing
+
+<p>The AYANEO Pocket S2 is a handheld game console with a 6.3 inch, 2560 x 1440 pixel, 600 nit IPS LCD display, a Qualcomm Snapdragon G3 Gen 3 processor, and support for up to 16GB of RAM and 1TB of storage. It&#8217;s up for pre-order now through an Indiegogo crowdfunding campaign with reward levels starting at [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/ayaneo-pocket-s2-handheld-game-console-hits-indiegogo-for-439-and-up-ships-in-july/">AYANEO Pocket S2 handheld game console hits Indiegogo for $439 and up, ships in July</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/ayaneo-pocket-s2-handheld-game-console-hits-indiegogo-for-439-and-up-ships-in-july/>
+
+---
+
+## My Video Chat with the Foreign Policy Wise Man Richard Haass
+
+date: 2025-06-18, from: Tina Brown
+
+I spoke with my friend Richard, author of Substack&#8217;s Home and Away and the celebrated President Emeritus of the Council on Foreign Relations about why, despite Iran&#8217;s bluster, its options are limited and why almost all U.S. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166247025/efff57f748885601706286a6717903ed.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166247025/efff57f748885601706286a6717903ed.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://tinabrown.substack.com/p/my-video-chat-with-the-foreign-policy>
+
+---
+
+## The Art of Saying No
+
+date: 2025-06-18, from: Guy Kawasaki blog
+
+Protecting your time without burning bridges. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/the-art-of-saying-no>
+
+---
+
+## Conjuring digital companions: How I'm thinking better through AI
+
+date: 2025-06-18, from: Blog by Fabrizio Ferri-Benedetti
+
+<p>This last weekend I created another LLM-powered tool, <a href="https://github.com/theletterf/impersonaid">Impersonaid</a> (all puns intended). It’s a docs user simulator: you provide the URL of a document (or its Markdown source), select the virtual persona, and start a conversation about the content. Right after I released it, I realized that I had been talking to an imaginary friend to create more fictional interlocutors to interact with. It’s not as bad as it sounds, though. In fact, I would argue this is what writers are meant to do.</p> 
+
+<br> 
+
+<https://passo.uno/thinking-better-through-ai/>
+
+---
+
+## I counted all of the yurts in Mongolia using machine learning
+
+date: 2025-06-18, updated: 2025-06-18, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://monroeclinton.com/counting-all-yurts-in-mongolia/">I counted all of the yurts in Mongolia using machine learning</a></strong></p>
+Fascinating, detailed account by Monroe Clinton of a geospatial machine learning project. Monroe wanted to count visible yurts in Mongolia using Google Maps satellite view. The resulting project incorporates <a href="https://github.com/mapbox/mercantile">mercantile</a> for tile calculations, <a href="https://labelstud.io/">Label Studio</a> for help label the first 10,000 examples, a model trained on top of <a href="https://github.com/ultralytics/ultralytics">YOLO11</a> and a bunch of clever custom Python code to co-ordinate a brute force search across 120 CPU workers running the model.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44307629">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/machine-learning">machine-learning</a>, <a href="https://simonwillison.net/tags/geospatial">geospatial</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/python">python</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/18/yurts-in-mongolia/#atom-everything>
+
+---
+
+## One of the Universe’s Biggest Mysteries Has Been Solved, Scientists Say
+
+date: 2025-06-18, from: 404 Media Group
+
+Scientists have spotted the universe’s “missing matter” hiding in a vast cosmic web with some help from fast radio bursts from deep space. 
+
+<br> 
+
+<https://www.404media.co/one-of-the-universes-biggest-mysteries-has-been-solved-scientists-say/>
+
+---
+
+## 40,000 Cameras, From Bird Feeders to Baby Monitors, Exposed to the Internet
+
+date: 2025-06-18, from: 404 Media Group
+
+Tens of thousands of security cameras in businesses, CCTV cameras, and cameras from commonplace internet-connected devices were found vulnerable to dark web actors, a new report shows. 
+
+<br> 
+
+<https://www.404media.co/cameras-exposed-to-the-internet-report/>
 
 ---
 

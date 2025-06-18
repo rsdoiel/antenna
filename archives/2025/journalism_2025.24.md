@@ -1,11 +1,11 @@
 ---
 title: journalism
-updated: 2025-06-18 06:07:22
+updated: 2025-06-18 14:07:27
 ---
 
 # journalism
 
-(date: 2025-06-18 06:07:22)
+(date: 2025-06-18 14:07:27)
 
 ---
 
@@ -97,9 +97,8 @@ date: 2025-06-18, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2025-06-16, from: The Daily Bruin (UCLA Student Newspaper)
 
-Editor’s note: this article contains a mention of child sexual abuse that some readers may find disturbing.
-Christopher Rodriguez, a former teacher at the UCLA Krieger Child Care Center, was sentenced June 6 to seven years in county jail for multiple counts of child sexual abuse.&#160;&#160;
-Rodriguez, who worked at UCLA Early Care and Education centers for nearly 25 years, was originally charged with abusing children under his care between July and December 2023. 
+<em>This post was updated June 18 at 1:45 p.m.</em>
+Editor’s note: this article contains a mention of child sexual abuse that some readers may find disturbing. 
 
 <br> 
 

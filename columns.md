@@ -1,11 +1,198 @@
 ---
 title: columns
-updated: 2025-06-18 06:07:20
+updated: 2025-06-18 14:07:25
 ---
 
 # columns
 
-(date: 2025-06-18 06:07:20)
+(date: 2025-06-18 14:07:25)
+
+---
+
+## Wednesday, 18 June 2025
+
+date: 2025-06-18, from: Doc Searls (at Harvard), New Old Blog
+
+A summer lamentation. Yesterday was the 69th birthday of Sparky, the puppy I got for my 8th birthday in 1956. He died at age one, and is buried under the parking lot at the Boulevard Square strip mall that paves the paradise of scrub oak and pitch pines that was our summer playground at the edge [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/06/18/wednesday-18-june-2025/>
+
+---
+
+## Support
+
+date: 2025-06-18, from: mrusme blog
+
+If you find value in the content provided on this website or my projects,
+please consider supporting me. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/support/>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-06-18, from: Ryan Gantz Bluesky feed)
+
+when you die on bluesky, you die in real life. and in the afterlife you’re alone in a chair, with clockwork orange eye clamps, made to watch infinite footage of Tucker Carlson interviewing Ted Cruz
+
+and there’s nothing else 
+
+just the endless barbs, chirps, and scowls of hot TC on TC action
+
+forever 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.com/post/3lrvtapxsds2h>
+
+---
+
+## TIL: Smart glasses aren’t just for pricks, they are an accessibility aid
+
+date: 2025-06-18, from: Chris Heilmann's blog
+
+I wasn&#8217;t a fan of smart glasses. Mostly because of the way they were advertised as a tool for influencers, people who constantly want to stream or those who need to always have the newest and coolest in terms of gadgets. I also see them as a privacy and security worry &#8211; there were quite [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2025/06/18/til-smart-glasses-arent-just-for-pricks-they-are-an-accessibility-aid/>
+
+---
+
+## The Joe Rogan of the Dems
+
+date: 2025-06-18, from: Dave Winer's Scripting News
+
+<p>If there were a Joe Rogan of the left, he would tell you to stfu and <a href="https://shownotes.scripting.com/scripting/2025/06/17/holdYourNoseAndVoteForCuomo.html">vote for Cuomo</a> for mayor of NYC. </p>
+<p>NYC is a special place, like the Knicks are a special NBA team. </p>
+<p>And btw, Cuomo, like Trump, is from Queens. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/06/18/unisphere.png"></center>The Unisphere from the 1964 World's Fair. </div></p>
+<p>PS: The Joe Rogan of the left will be from Queens too. :-)</p>
+<p>PPS: Queens doesn't have an Empire State Building, and they tore down Shea Stadium. So the Unisphere from the last World's Fair will have to do. But Queens is probably the most ethnically diverse place in the world. Think about that for a minute and how the fight for the soul of the US will be fought in Queens. </p>
+<p>PPPS: I come from Jackson Heights and Flushing. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/18/171022.html?title=theJoeRoganOfTheDems>
+
+---
+
+## KDE Plasma 6.4 ships with major usability and Wayland improvements
+
+date: 2025-06-18, updated: 2025-06-18, from: Liam Proven's articles at the Register
+
+<h4>The richest and most customizable desktop for FOSS Unix</h4>
+      <p>The second of three KDE point releases planned for 2025 is here, with more tiling options, accessibility improvements, and much more.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/18/kde_plasma_64_released/>
+
+---
+
+## Passkeys and ChatGPT
+
+date: 2025-06-18, from: Dave Winer's Scripting News
+
+<p>I had a conversation <a href="https://bsky.app/profile/emilynussbaum.bsky.social/post/3lrt3iyw5ic2j">on Bluesky</a> with a writer saying she didn't have much use for ChatGPT, though she had tried using it. </p>
+<p>I wanted to see if I could open a door, suggesting that next time there was an problem using a computer, that she bring the question to ChatGPT. </p>
+<p>I think that's good advice for anyone who hasn't seen how useful these are as tools, as opposed to a ghost writer. </p>
+<p>Use it like a search engine. What comes back is customized to the question you have. With Google you'd have to read through docs that are meant to cover every angle, but the AI bot zeroes in on the issue you're dealing with. </p>
+<p>There's no comparison between using Google to search the web and using ChatGPT. You can go places via ChatGPT that would be impossible any other way. </p>
+<p><b>Passkeys</b></p>
+<p>Previously I had tried to approach passkeys to get an idea of how I should use them, but never grasped the big picture. I just didn't understand what they were doing, but I understood it was about authentication. A hardware approach to identity, that much I got. How it worked and how I would use it did not click. </p>
+<p>And then earlier this week, an essential site that I use infrequently, required using a passkey. When I had set it up a few months ago, as part of a bigger develolpment task,  I had no idea what I was doing, and eventually bailed out, and left it unable to get back into the system, which happened on Sunday. By default the browser, Chrome, had previously connected it to my Pixel 9 Pro. There was a record of the connection being used for a variety of other services, but the one I needed was not there. This was after a full day of trying to debug it from the other side. I now have a lot more info about how passkeys work, I won't be able to say I know enough until I've re-established the connection. </p>
+<p>I know a lot of readers of this site understood passkeys without anyone having to piece it together for them. I have never been one of those people. Just the way my mind works, it's why I'm a good person to test software, I get lost easily. </p>
+<p>All this is to say -- think of ChatGPT as a technical assistant with broad knowledge and patience. That's where the real power is imho. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/18/161551.html?title=passkeysAndChatgpt>
+
+---
+
+## Midgets No More
+
+date: 2025-06-18, updated: 2025-06-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.inforum.com/news/north-dakota/dickinson-high-to-retire-midgets-mascot-after-nearly-a-century>
+
+---
+
+## Ghostwriting Scam
+
+date: 2025-06-18, updated: 2025-06-18, from: Bruce Schneier blog
+
+<p>The variations seem to be endless. Here&#8217;s a <a href="https://hardresetmedia.substack.com/p/one-nz-man-vs-pakistani-scammers">fake ghostwriting scam</a> that seems to be making boatloads of money.</p>
+<blockquote><p>This is a big story about scams being run from Texas and Pakistan estimated to run into tens if not hundreds of millions of dollars, viciously defrauding Americans with false hopes of publishing bestseller books (a scam you’d not think many people would fall for but is surprisingly huge). In January, </span><a href="https://www.justice.gov/usao-sdca/pr/three-indicted-and-internet-domain-seized-44-million-nationwide-book-publishing-scam">three people were charged</a> with defrauding elderly authors across the United States of almost $44 million ­by &#8220;convincing the victims that publishers and filmmakers wanted to turn their books into blockbusters.&#8221;...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/06/ghostwriting-scam.html>
+
+---
+
+## The unsung principles of RedwoodSDK
+
+date: 2025-06-18, from: Dave Rupert blog
+
+<p>We had <a href="https://shoptalkshow.com/669/">Peter Pistorius on ShopTalk</a> to talk about RedwoodJS and the project’s pivot to an almost entirely different project called <a href="https://rwsdk.com/">RedwoodSDK</a>. I am a complete outsider but I liked what RedwoodJS (the old project) was trying to do and didn’t fully understand why they felt the need to reboot. I even have a dusty old post in my drafts folder about what I liked about RedwoodJS. But after talking, it seems the winds of the JavaScript zeitgeist has changed and technology picks from 2020 aren’t the best deep integrations to have anymore.</p>
+<p>After talking to Peter, I was pleasantly surprised by the principles that guide the new RedwoodSDK project:</p>
+<ul>
+<li>Zero magic - No codegen or transpiler side effects</li>
+<li>Composability over configuration  - No opinionated wrappers</li>
+<li>Uses native Web APIs - No abstraction over fetch, Request, Response, or URL</li>
+</ul>
+<p>Those are all principles I can get behind. But what impressed me the most was how RedwoodSDK prioritizes economic justice at the framework level. Peter from the show:</p>
+<blockquote>
+<p>We set up with these principles, and we wrote them down, and they come from a place where I am
+geographically located. The principles are informed from where I am right now in South Africa. We have really poor people and really rich people. I think we have the highest income disparity in the world… People here don’t have very good mobile phones, they have mobile phones – everyone does – the networks are also pretty fast but bandwidth is expensive and so is memory on phones, and phones are slow. They’re not the best things you have out there. So we designed this framework with these principles in mind in order to deliver the least amount of JavaScript and consume the least amount of bandwidth</p>
+</blockquote>
+<p>For RedwoodSDK, this principle manifests in minimal code sent to the client via React Server Components. RedwoodSDK also has a tight integration with Cloudflare and its edge worker platform which (for most folks) is free. That in turn reduces costs for website owners and customers, which is beneficial in markets with low-bandwidth or pay-per-gigabyte mobile connections.</p>
+<p>No $20/mo hosting lock-in scheme.</p>
+<p>For Redwood, the goal isn’t to power the next big billion dollar SaaS product (although I’m sure they’d welcome that), but to enable “homegrown” or <a href="https://www.robinsloan.com/notes/home-cooked-app/">home-cooked web apps</a> that are easy to build, maintain, and low-cost to run. Allow people to build that bespoke app for their bespoke need for themselves or their community. Their new tagline is “This could be the start of something small” and the tech world needs more of that.</p>
+<p>I wish Web Components had a project like this…</p> 
+
+<br> 
+
+<https://daverupert.com/2025/06/principles-of-redwoodsdk/>
+
+---
+
+## Chekuskin's dream
+
+date: 2025-06-18, from: Dave Rupert blog
+
+<blockquote>
+<p>Chekuskin dreamed he was in a factory sidling up the walkspace, besides some immense machine. But when he put his hand on it to steady himself, instead of cold metal the surface he felt was lively and warm. Little tremors ran through it, but not mechanical ones. The machine he saw was viley alive. Beneath a membrane of purpleish black, fluids were pulsing thickly from chamber to chamber. He stepped back, but his hand would not come free. It had stuck to the machine and now he realized there was no real palm to his hand anymore. He could no more pull away than he could pull his arm off. His arm, his whole body, were outgrowths of the machine. Just a siphon in a man’s shape through which the same fluid sluggishly circulated. But then the walls were gone, but the machine remained. It stretched away into snowy darkness. Somehow because he was part of it, he could feel its vastness. At its edges it was tirelessly eating whatever remained in the world that was not yet it. And it consumed its own wastes too. It was warm and poisonous, and it grew and grew and grew.</p>
+<p>But in the morning. He felt much better. The dream washed away in a hot shower.</p>
+</blockquote>
+<p>– Chekuskin’s dream from the end of Part IV of <a href="https://www.goodreads.com/book/show/18634818-red-plenty">Red Plenty</a> by Francis Spufford</p> 
+
+<br> 
+
+<https://daverupert.com/2025/06/purpleish-black/>
+
+---
+
+## The magic of AI search
+
+date: 2025-06-18, from: Paolo Valdemarin's blog
+
+I just built yet another MCP experiment. First I created a Python script to process .md files: chunk them, create embeddings, store everything in a PostgreSQL database. Then I built an MCP server which can search the database both using semantic search (embeddings) and more traditional full text search as a fallback mechanism. I find &#8230; <a href="https://val.demar.in/2025/06/the-magic-of-ai-search/" class="more-link">Continue reading<span class="screen-reader-text"> "The magic of AI search"</span></a> 
+
+<br> 
+
+<https://val.demar.in/2025/06/the-magic-of-ai-search/>
 
 ---
 
@@ -93,9 +280,7 @@ Just recently, from <a href="https://www.ochaopt.org/content/humanitarian-situat
 <li><a href="https://en.wikipedia.org/wiki/Nakba">Nakba</a>: &ldquo;During the foundational events of the Nakba in 1948, approximately half of Palestine&rsquo;s predominantly Arab population, or around 750,000 people, were expelled from their homes or made to flee through various violent means, at first by Zionist paramilitaries, and after the establishment of the State of Israel, by its military. Dozens of massacres targeted Palestinian Arabs and over 500 Arab-majority towns, villages, and urban neighborhoods were depopulated. Many of the settlements were either completely destroyed or repopulated by Jews and given new Hebrew names. Israel employed biological warfare against Palestinians by poisoning village wells. By the end of the war, 78% of the total land area of the former Mandatory Palestine was controlled by Israel.&rdquo;</li>
 </ul>
 
-<p>And there is more. I&rsquo;ve read a book by Alain Gresh. I&rsquo;ve read a book or two by Noam Chomsky. I&rsquo;ve been reading about Israel and Palestine for a while. I remember when 23-year-old American activist Rachel Corrie was run over by a bulldozer as she stood barring its way (<a href="2003-03-19_Israel">2003-03-19 Israel</a>). I wore T-shirts sold by <a href="https://electronicintifada.net/">The Electronic Initfada</a>.</p>
-
-<p>If I know one thing it&rsquo;s that the situation is very complicated, that human rights are violated every day, and that the response to the violation of human rights is not more violations of human rights.</p>
+<p>Or read a book. I&rsquo;ve read a book by Alain Gresh on Israel and Palestine. I&rsquo;ve read a book or two by Noam Chomsky on Israel, Palestine. <a href="https://en.wikipedia.org/wiki/Le_Monde_diplomatique">Le Monde Diplomatique</a> writes about the situation on a regular basis. I&rsquo;ve been reading about Israel and Palestine for a while. I remember when 23-year-old American activist Rachel Corrie was run over by a bulldozer as she stood barring its way (<a href="2003-03-19_Israel">2003-03-19 Israel</a>). I wore T-shirts sold by <a href="https://electronicintifada.net/">The Electronic Initfada</a>. If I know one thing it&rsquo;s that the situation is very complicated, that human rights are violated every day, and that the response to the violation of human rights is not more violations of human rights.</p>
 
 <p>All should go to court.</p>
 
@@ -127,7 +312,9 @@ Just recently, from <a href="https://www.ochaopt.org/content/humanitarian-situat
 <p>It’s amazing you talk about hostages only in context of d&amp;d.</p>
 </blockquote>
 
-<p>What an amazing big brain mail from a write-only email address. 🙄</p>
+<p>What an amazing big brain email from a write-only email address. 🙄</p>
+
+<p>Well, at least it made write that one post per month about Israel and Palestine instead of only posting <a href="Israel_Bookmarks">bookmarks</a>.</p>
 
 <p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a></p> 
 
@@ -826,7 +1013,7 @@ date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
 
 ## Tracking Down the Original Photo From the End of ‘The Shining’
 
-date: 2025-06-17, updated: 2025-06-17, from: Daring Fireball
+date: 2025-06-17, updated: 2025-06-18, from: Daring Fireball
 
  
 
@@ -1256,8 +1443,7 @@ And the Lord spoke unto Moses, saying: I am the Lord your God, who brought you o
 
 **@Dave Winer's Scripting News** (date: 2025-06-15, from: Dave Winer's Scripting News)
 
-In a year or two it will be possible to create a perfect TV version of any person. No longer can you say any person has to die eventually and go away. And we can have anyone back we want.
- 
+In a year or two it will be possible to create a perfect TV version of any person. No longer can you say any person has to die eventually and go away. And we can have anyone back we want. 
 
 <br> 
 

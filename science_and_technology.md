@@ -1,11 +1,251 @@
 ---
 title: science and technology
-updated: 2025-06-18 06:07:19
+updated: 2025-06-18 14:07:24
 ---
 
 # science and technology
 
-(date: 2025-06-18 06:07:19)
+(date: 2025-06-18 14:07:24)
+
+---
+
+## Asana's cutting-edge AI feature ran into a little data leakage problem
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>New MCP server was shut down for nearly two weeks</h4> <p>Asana has fixed a bug in its Model Context Protocol (MCP) server that could have allowed users to view other organizations&#39; data, and the experimental feature is back up and running after nearly two weeks of downtime to fix the issue.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/asana_mcp_server_bug/>
+
+---
+
+## Resurrecting a dead Torrent tracker and finding 3 million peers
+
+date: 2025-06-18, from: OS News
+
+Kian Bradley was downloading something using BitTorrent, and noticed that quite a few trackers were dead. Most of the trackers were totally dead. Either the hosts were down or the domains weren’t being used. That got me thinking. What if I picked up one of these dead domains? How many clients would try to connect? Kian Bradley It turns out the answer is a lot. 
+
+<br> 
+
+<https://www.osnews.com/story/142602/resurrecting-a-dead-torrent-tracker-and-finding-3-million-peers/>
+
+---
+
+## Accessibility programming doesn’t feel accessible
+
+date: 2025-06-18, from: OS News
+
+Accessibility is something that doesn&#8217;t get nearly enough attention, especially considering because not only will we need accessibility features eventually as we grow older, but also because a lot of accessibility features are just helpful even if you don&#8217;t technically need them. Given these facts, it&#8217;s a shame that accessibility is usually an afterthought, doubly so on open source desktops, a problem we recently talked about. But what if you don&#8217;t just need to use a few applications as, say, a blind person, but also actually program as a blind person? Acidic Light, accessibility engineer at KDE e.V., has published a blog post about how screen readers actually work, and what it&#8217;s like to program while blind, and the conclusions are not exactly great. I truly feel that, based on my experience with KDE and my experience actually delving into the weeds with AccessKit in a custom UI system, that accessibility programming just isn’t accessible. Unless you happen to already understand the way each platform works, trying to find resources on how to actually let a screen reader know your UI exists is just painful. It’s going to involve reading code other people have already written. It’s going to involve hours, if not days, if not weeks of research and painful debugging. You likely won’t be able to ask many people for help, because they’ll know as much as you do. ↫ Acidic Light If the people who know most what is needed to make a program accessible have so many problems actually making programs accessible, because the tooling, documentation, and institutional knowledge just isn&#8217;t there, what hope do other programmers have to make their code accessible? If a blind programmer can&#8217;t scratch their own itch, so to speak, we&#8217;re never going to reach a point where accessibility becomes a given. I&#8217;m very happy awareness of accessibility is growing, but I feel like this isn&#8217;t the first time we&#8217;ve seen an increase in accessibility awareness only for it to eventually fizzle out without meaningful improvements for those that need it the most. I really hope it sticks this time. 
+
+<br> 
+
+<https://www.osnews.com/story/142599/accessibility-programming-doesnt-feel-accessible/>
+
+---
+
+## Voltron Data throws its weight behind AMD for GPU-accelerated SQL
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>In case you forgot AI isn&#39;t the only thing GPUs are good for</h4> <p><strong>Exclusive</strong>  Support for AMD&#39;s Instinct GPUs is coming to Voltron Data&#39;s accelerated SQL engine Theseus in the latest sign Nvidia&#39;s CUDA moat is getting shallower.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/voltron_amd_sql/>
+
+---
+
+## NASA Astronauts to Answer Questions from Students in New York, Utah
+
+date: 2025-06-18, from: NASA breaking news
+
+Students from New York and Utah will hear from NASA astronauts aboard the International Space Station as they answer prerecorded questions in two separate events. At 11:30 a.m. EDT on Monday, June 23, NASA astronauts Nichole Ayers and Anne McClain will answer questions submitted by students from P.S. 71 Forest Elementary School in Ridgewood, New [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york-utah/>
+
+---
+
+## Judge smacks down Pentagon plan to slash university research funding awards
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>Sec Def Hegseth says funds better spent elsewhere, because it&#39;s not like the military needs new tech, right?</h4> <p>A federal judge has temporarily blocked an attempt by the Department of Defense to cut funding for university research programs, perhaps inadvertently saving the DoD from an own-goal.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/judge_pauses_dod_university_funding_cuts/>
+
+---
+
+## NASA’s Human Exploration Rover Challenge
+
+date: 2025-06-18, from: NASA breaking news
+
+Two students guide their rover through an obstacle course in this April 11, 2025, image from the 2025 Human Exploration Rover Challenge. The annual engineering competition – one of NASA’s longest standing student challenges – is in its 31st year. This year’s competition challenged teams to design, build, and test a lunar rover powered by [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-human-exploration-rover-challenge/>
+
+---
+
+## Digital Information Platform Library
+
+date: 2025-06-18, from: NASA breaking news
+
+Library Scientific papers, industry forum presentations, and videos covering the concepts used in the digital information platform are available to the public. For those interested in a deeper understanding of the technical workings of DIP, please refer to these resources. Newsletters April 2025December 2024August 2024June 2024March 2024November 2023 NASA Feature Stories NASA Partners With Airlines [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-library/>
+
+---
+
+## DIP Events
+
+date: 2025-06-18, from: NASA breaking news
+
+November 20, 2024 at 10:00 AM ESTDigital Information Platform Virtual Workshop: A Virtual Workshop on Service Quality, Data Governance, Cybersecurity, and Interoperability June 28, 2023 at 10:00 AM EDTDIP Information Session: Announcement of Collaborative Opportunity (ACO) for Service Providers July 27, 2022 at 10:00 AM EDTDIP Announcement of Collaborative Opportunity (ACO) for Flight Operators February [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-events/>
+
+---
+
+## DIP Request for Information (RFI) Information Session
+
+date: 2025-06-18, from: NASA breaking news
+
+StartApril 14, 2021 at 11:00 AM EDT EndApril 14, 2021 at 1:00 PM EDT NASA&#8217;s Digital Information Platform (DIP) sub-project as part of Air Traffic Management -eXploration (ATM-X) project has recently released the Request for Information (RFI) to obtain information to define collaboration strategy and identify community needs and goals. As a follow-on activity, DIP [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-rfi-info-session/>
+
+---
+
+## DIP RFI Outbrief Session
+
+date: 2025-06-18, from: NASA breaking news
+
+StartAugust 18, 2021 at 10:00 AM EST EndAugust 18, 2021 at 12:00 PM EST DIP RFI Outbrief Session NASA&#8217;s Digital Information Platform (DIP) sub-project as part of Air Traffic Management -eXploration (ATM-X) project has received responses to the&#160;Request for Information (RFI)&#160;from aviation community. As a follow-on activity, DIP is hosting an online information session to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-rfi/>
+
+---
+
+## DIP Workshop Series 1: DIP Architecture and Date Integration Services
+
+date: 2025-06-18, from: NASA breaking news
+
+StartNovember 17, 2021 at 10:00 AM EST EndNovember 17, 2021 at 12:00 PM EST Workshop Series: What It&#8217;s About The Digital Information Platform (DIP) workshop series is intended to provide a deeper dive and a closer look at some of the core features being developed by the DIP sub-project under ATM-X. These workshops will give [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-architecture/>
+
+---
+
+## DIP Workshop Series 2: DIP for Service Providers
+
+date: 2025-06-18, from: NASA breaking news
+
+StartJanuary 12, 2022 at 10:00 AM EST EndJanuary 12, 2022 at 12:00 PM EST Workshop Series: What It&#8217;s About The Digital Information Platform (DIP) workshop series intends to provide a deeper dive and a closer look at some of the core features being developed by the DIP sub-project under ATM-X. These workshops will give insight [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-for-service-providers/>
+
+---
+
+## NASA to Gather In-Flight Imagery of Commercial Test Capsule Re-Entry
+
+date: 2025-06-18, from: NASA breaking news
+
+A NASA team specializing in collecting imagery-based engineering datasets from spacecraft during launch and reentry is supporting a European aerospace company’s upcoming mission to return a subscale demonstration capsule from space. NASA’s Scientifically Calibrated In-Flight Imagery (SCIFLI) team supports a broad range of mission needs across the agency, including Artemis, science missions like OSIRIS-REx (Origins, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/langley/nasa-to-gather-in-flight-imagery-of-commercial-test-capsule-re-entry/>
+
+---
+
+## DIP Workshop Series 3: DIP for Consumers
+
+date: 2025-06-18, from: NASA breaking news
+
+StartFebruary 23, 2022 at 10:00 AM EDT EndFebruary 23, 2022 at 12:00 PM EST Workshop Series: What It’s About The Digital Information Platform (DIP) workshop series intends to provide a deeper dive and a closer look at some of the core features being developed by the DIP sub-project under ATM-X. These workshops will give insight [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-aco-flight-operators/>
+
+---
+
+## KDE Plasma 6.4 ships with major usability and Wayland improvements
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>The richest and most customizable desktop for FOSS Unix</h4> <p>The second of three KDE point releases planned for 2025 is here, with more tiling options, accessibility improvements, and much more.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/kde_plasma_64_released/>
+
+---
+
+## European consumers are mostly saying 'non' to trading in their old phones
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>Are they using it to death then locking it in a drawer? Schemes needed as shipments of refurbed kit dips</h4> <p>Less than a third of European consumers trade in or sell their old phones, limiting the supply of secondhand devices that might otherwise stimulate a more environmentally friendly alternative to buying brand new.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/used_phones_europe/>
+
+---
+
+## How AI Models Are Helping to Understand — and Control — the Brain
+
+date: 2025-06-18, from: Quanta Magazine
+
+Martin Schrimpf is crafting bespoke AI models that can induce control over high-level brain activity.             <p>The post <a href="https://www.quantamagazine.org/how-ai-models-are-helping-to-understand-and-control-the-brain-20250618/" target="_blank">How AI Models Are Helping to Understand — and Control — the Brain</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-ai-models-are-helping-to-understand-and-control-the-brain-20250618/>
+
+---
+
+## Training AI on Mastodon posts? The idea's extinct after terms updated
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>Such rules could be tricky to enforce in the Fediverse, though</h4> <p>Mastodon is the latest platform to push back against AI training, updating its terms and conditions to ban the use of user content for large language models (LLMs).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/mastodon_says_no_to_ai/>
+
+---
+
+## Veeam patches third critical RCE bug in Backup &amp; Replication in space of a year
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>Version 13 can’t come soon enough</h4> <p>Veeam Backup &amp; Replication users are urged to apply the latest patches that fix another critical bug leading to remote code execution (RCE) on backup servers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/veeam_fixes_third_critical_rce/>
 
 ---
 
@@ -213,11 +453,11 @@ NASA uses satellite lidar technology to study Earth’s forests, key carbon sink
 
 ---
 
-## MiniMax M1 model claims Chinese LLM crown from DeepSeek - plus it's true open-source
+## MiniMax M1 model claims Chinese LLM crown from DeepSeek – plus it's true open source
 
-date: 2025-06-17, updated: 2025-06-17, from: The Register (UK I.T. News)
+date: 2025-06-17, updated: 2025-06-18, from: The Register (UK I.T. News)
 
-<h4>China&#39;s &#39;little dragons&#39; pose big challenge to US AI firms</h4> <p>MiniMax, an AI firm based in Shanghai, has released an open-source reasoning model that challenges Chinese rival DeepSeek and US-based Anthropic, OpenAI, and Google in terms of performance and cost.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>China&#39;s &#39;little dragons&#39; pose big challenge to US AI firms</h4> <p>MiniMax, an AI firm based in Shanghai, has released an open source reasoning model that challenges Chinese rival DeepSeek and US-based Anthropic, OpenAI, and Google in terms of performance and cost.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 

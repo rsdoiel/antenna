@@ -1,11 +1,269 @@
 ---
 title: planet
-updated: 2025-06-18 06:07:16
+updated: 2025-06-18 14:07:20
 ---
 
 # planet
 
-(date: 2025-06-18 06:07:16)
+(date: 2025-06-18 14:07:20)
+
+---
+
+## Efforts under way to assist Irish citizens leave Iran
+
+date: 2025-06-18, from: RTÉ News
+
+The Government is engaged in major diplomatic efforts tonight to assist Irish citizens living in Iran who may want to leave the country. It is understood that Austria could possibly provide assistance to help Irish citizens leave Iran sometime during the weekend. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0618/1519217-efforts-under-way-to-assist-irish-citizens-leave-iran/>
+
+---
+
+## Concerns over asbestos in garda stations raised in Dáil
+
+date: 2025-06-18, from: RTÉ News
+
+Seventy-four garda stations are affected by asbestos, according to a review carried out by the Office of Public Works nine years ago, the Dáil has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0618/1519212-asbestos-garda-stations/>
+
+---
+
+## Pope Leo: ‘Polyphony is a metaphor of faith guided by the Holy Spirit
+
+date: 2025-06-18, from: Vatican News
+
+
+                    <p>Pope Leo XIV receives members of a Foundation and choir marking the 500th anniversary of the birth of the great composer and organist, Giovanni Pierluigi da Palestrina whose music continues to nourish the Church and the liturgy today.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-da-palestrina-anniversary-sacred-music-bartolucci-found.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-da-palestrina-anniversary-sacred-music-bartolucci-found.html>
+
+---
+
+## Astronomy & Space Science Education & Public Outreach Newsletter – June 2025, Part 2
+
+date: 2025-06-18, from: Vatican Obervatory
+
+Dr. Larry Lebofsky covers a wide range of topics in his astronomy and space science newsletter. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/astronomy-space-science-education-public-outreach-newsletter-june-2025-part-2/>
+
+---
+
+## Podcast: Kneecap court scenes, Iran, and the EuroMillions
+
+date: 2025-06-18, from: RTÉ News
+
+ 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0618/1519165-podcast-kneecap-court-scenes-iran-and-the-euromillions/>
+
+---
+
+## Brothers named in court as alleged leaders of crime group
+
+date: 2025-06-18, from: RTÉ News
+
+Two brothers have for the first time been named in court as the alleged leaders of one faction of the Drogheda feud. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0618/1519184-brothers-named-in-court-as-alleged-leaders-of-crime-group/>
+
+---
+
+## Call for more thatching courses to save 'unique' craft
+
+date: 2025-06-18, from: RTÉ News
+
+There has been a call for more thatching courses around Ireland in order to save the "uniquely Irish craft". 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0618/1519182-thatching-courses/>
+
+---
+
+## Committee to ask FAI about knowledge of allegations
+
+date: 2025-06-18, from: RTÉ News
+
+The Oireachtas Sport Committee is to ask the Football Association of Ireland to appear before them to answer claims by a Fianna Fáil TD that it knew of allegations about a former national team manager's behaviour towards female footballers as far back as 2023. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0618/1519181-dail-fai-claims/>
+
+---
+
+## Garda assaulted wife in 'safest place on earth' - court
+
+date: 2025-06-18, from: RTÉ News
+
+A 48-year-old garda will be sentenced later this year for assaulting his wife in her childhood home with their young children in the room. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0618/1519169-trevor-bolger/>
+
+---
+
+## Ireland 18th in youth political participation - study
+
+date: 2025-06-18, from: RTÉ News
+
+Ireland has ranked 18th out of over 140 countries worldwide in terms of youth participation in political, economic and civic life, according to the first study of its kind. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0618/1519173-global-youth-participation-index-study/>
+
+---
+
+## Coca Cola marketer wins €68k for maternity discrimination
+
+date: 2025-06-18, from: RTÉ News
+
+A marketing executive at Coca Cola who said she was "bullied" into taking a demotion from a management job to "nearly a graduate position" when she got back to work after having a baby has won €68,000 for maternity discrimination. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0618/1519174-coca-cola-marketer-wins-68k-for-maternity-discrimination/>
+
+---
+
+## Does HIQA have sufficient powers?
+
+date: 2025-06-18, from: RTÉ News
+
+The recent RTÉ Investigates exposé, on a number of private nursing homes and the fall-out, has raised fresh questions about the extent of HIQA's powers or ability to regulate the sector, writes Fergal Bowers. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0618/1519160-analysis-hiqa-health-committee/>
+
+---
+
+## Bill to oblige shops to hide vapes in same way as tobacco
+
+date: 2025-06-18, from: RTÉ News
+
+Newsagents will be obliged to hide nicotine inhaling products - vapes - in the same way that they do for tobacco, under legislation being drafted by Minister for Health Jennifer Carroll MacNeill. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0618/1519162-vapes-nicotine-newsagents/>
+
+---
+
+## Iran's secretive nuclear site and the bomb that could destroy it
+
+date: 2025-06-18, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7564339.1750256915!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/iran-nuclear-sites.jpg' alt='A satellite image of the Fordow nuclear facility in Iran. ' width='620' height='349' title='This satellite image provided by Maxar Technologies shows the Fordo enrichment facility in Iran on Jan. 24, 2025. (Maxar Technologies via AP)'/><p>If the U.S. decides to support Israel more directly in its attack on Iran, one option would be to provide the “bunker buster” bombs believed necessary to significantly damage the Fordo nuclear fuel enrichment plant built deep into a mountain.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/iran-fordow-fordo-site-bunker-buster-1.7564311?cmp=rss>
+
+---
+
+## Pope Leo XIV echoes Pope Pius XII’s historic appeal for peace
+
+date: 2025-06-18, from: Vatican News
+
+
+                    <p>In 1939, Pius XII issued his famous appeal by radio as the world stood on the brink of the Second World War. The Pope’s words, which went unheard at the time, were echoed today by Leo XIV at the end of the General Audience, to call for peace in the face of the current climate of tension and violence.
+
+
+
+
+
+
+
+
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-appeal-peace-piux-xii-second-world-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-appeal-peace-piux-xii-second-world-war.html>
+
+---
+
+## Bill passed extending Rent Pressure Zones across country
+
+date: 2025-06-18, from: RTÉ News
+
+The Dáil has agreed to pass a piece of legislation without a vote which will extend Rent Pressure Zones across the country. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0618/1519143-rent-pressure-zones-ireland/>
+
+---
+
+## Protecting Freedom of Science and Preventing Distortion of Scientific Truth
+
+date: 2025-06-18, from: Vatican Obervatory
+
+The Pontifical Academy of Sciences has released a statement expressing their recommended actions to safeguard scientific truth and freedom of science 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/protecting-freedom-of-science-and-preventing-distortion-of-scientific-truth/>
+
+---
+
+## Increase in sexual offences reported by men in 2024
+
+date: 2025-06-18, from: RTÉ News
+
+The number of men reporting sexual offences to gardaí rose by more than half between 2023 and 2024, according to new figures published by the Central Statistics Office. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0618/1519139-cso-offences/>
+
+---
+
+## Pope quotes great Scripture verse to young astronomers
+
+date: 2025-06-18, from: Vatican Obervatory
+
+With this year&#8217;s Vatican Observatory summer school students, the Pope considered 1st moments of creation: &#34;This must be an exciting time to be an... 
+
+<br> 
+
+<https://aleteia.org/2025/06/17/pope-quotes-great-scripture-verse-to-young-astronomers-video/>
+
+---
+
+## Furlong set to return off bench in Lions opener v Pumas
+
+date: 2025-06-18, from: RTÉ News
+
+Ireland will have three representatives in the opening British and Irish Lions team of the 2025 campaign, while Tadhg Furlong is set to make his return from injury off the bench in Friday's game against Argentina at Aviva Stadium. 
+
+<br> 
+
+<https://www.rte.ie/sport/rugby/2025/0618/1519126-furlong-set-to-return-off-bench-in-lions-opener-v-pumas/>
 
 ---
 
@@ -25,7 +283,19 @@ date: 2025-06-18, from: Vatican News
 
 ---
 
-## Ireland referred to watchdog over online terrorism rules
+## Strike at Bord na Móna Recycling called off
+
+date: 2025-06-18, from: RTÉ News
+
+Strike action by SIPTU members at Bord na Móna Recycling, which was planned for tomorrow, has been called off. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0618/1519119-siptu-to-meet-bord-na-mona-recycling-management/>
+
+---
+
+## EU accuses Ireland over online terrorism rules failure
 
 date: 2025-06-18, from: RTÉ News
 
@@ -49,6 +319,18 @@ The structures of the Windsor Framework are "ineffective, opaque and overly bure
 
 ---
 
+## Windsor Framework structures 'ineffective' - Robinson
+
+date: 2025-06-18, from: RTÉ News
+
+The structures of the Windsor Framework are "ineffective, opaque and overly bureaucratic", according to DUP leader Gavin Robinson. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0618/1519116-windsor-framework-robinson/>
+
+---
+
 ## Iran-Israel crisis: UN rights office appeals for urgent de-escalation
 
 date: 2025-06-18, from: United Nations, Top Stories
@@ -58,6 +340,78 @@ As the Iran-Israel crisis continued into a sixth day on Wednesday, the UN deputy
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/06/1164526>
+
+---
+
+## Power of football inspires team effort towards development goals
+
+date: 2025-06-18, from: United Nations, Top Stories
+
+The power of football to inspire fans to take positive action for a healthier planet and a fairer society is taking centre stage at Expo 2025 in Osaka, Japan – a world fair focused on building a sustainable global future. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164561>
+
+---
+
+## Guterres renews call for Israel-Iran ceasefire
+
+date: 2025-06-18, from: United Nations, Top Stories
+
+UN Secretary-General António Guterres said on Wednesday he remains “profoundly alarmed” by the ongoing military escalation between Israel and Iran, as the sides continued to trade airstrikes.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164571>
+
+---
+
+## Make midwives universally accessible and save millions of lives, WHO urges
+
+date: 2025-06-18, from: United Nations, Top Stories
+
+Almost 4.5 million maternal, stillborn and newborn deaths were recorded in 2023. What if there was a clear path to saving 83 percent of these people? To saving 3.7 million mothers, unborn children and babies annually?&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164556>
+
+---
+
+## UN rights office ‘horrified’ by deadly violence at Gaza food distribution sites
+
+date: 2025-06-18, from: United Nations, Top Stories
+
+As the pall of starvation hangs over Gaza, UN agencies have sounded the alarm over deadly violence at food distribution points, where over 400 Palestinians have reportedly been killed in recent weeks while trying to access desperately needed humanitarian aid. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164551>
+
+---
+
+## UN relief chief calls for solidarity, with humanitarians ‘literally under attack’
+
+date: 2025-06-18, from: United Nations, Top Stories
+
+With the humanitarian sector “under-funded, overstretched, and literally under attack” as crises continue in Gaza, Sudan and beyond, international support is needed more than ever, the UN’s top aid official said on Wednesday in Geneva.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164546>
+
+---
+
+## Civilian deaths in conflict are surging, warns UN human rights office
+
+date: 2025-06-18, from: United Nations, Top Stories
+
+Civilian deaths in conflict surged by 40 per cent last year, according to new data released by the UN human rights office (OHCHR) with already marginalised groups facing disproportionate levels of discrimination. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164541>
 
 ---
 
@@ -113,15 +467,51 @@ At least 940 additional general practitioners will be required to meet expected 
 
 ---
 
-## Iran warns US of 'irreparable damage' if joins strikes
+## Tyler Perry accused of sexual assault, harassment by actor who worked on his TV series The Oval
+
+date: 2025-06-18, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7564265.1750252969!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/tyler-perry-2025-bet-awards.jpg' alt='A man wearing a black suit with crystal pinstripes and sunglasses smiles as he poses for a photo.' width='620' height='349' title='Tyler Perry arrives at the BET Awards on Monday, June 9, 2025, at the Peacock Theater in Los Angeles.'/><p>An actor who worked on the Tyler Perry-created TV drama The Oval has filed a lawsuit alleging Perry leveraged his industry power to repeatedly sexually assault and harass him while keeping him quiet.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/tyler-perry-sexual-assault-lawsuit-1.7564263?cmp=rss>
+
+---
+
+## Trump to hold meeting in situation room over Iran
 
 date: 2025-06-18, from: RTÉ News
 
-Follow live as Iran's Ayatollah Ali Khamenei said that his country will not accept US President Donald Trump's call for an unconditional surrender. 
+Follow live as US President Trump says he has not made a final decision yet on joining strikes on Iran, with a meeting to be held on the issue this evening in the White House situation room. 
 
 <br> 
 
 <https://www.rte.ie/news/2025/0618/1519084-iran-israel-tracker/>
+
+---
+
+## These First Nations kids played a song to attract grizzly bears — and it worked
+
+date: 2025-06-18, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7564164.1750219810!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/indigenous-kids-drum-bear.jpg' alt='A composite of a group of Indigenous children and a grizzly bear.' width='620' height='349' title=''/><p>A group of First Nations children played a traditional song with drums on Sunday at Metro Vancouver's Grouse Mountain, and ended up catching the attention of curious grizzly bears in the process.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/squamish-nation-grizzly-bear-song-1.7564142?cmp=rss>
+
+---
+
+## Catherine, Princess of Wales, misses Royal Ascot as she balances cancer recovery
+
+date: 2025-06-18, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7564249.1750252114!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/britain-royals-trooping-the-colour.jpg' alt='A woman in a blue dress and hat' width='620' height='349' title='Britain&apos;s Catherine, The Princess of Wales, smiles during the Trooping the Colour, the king&apos;s annual birthday parade, at Horse Guards Parade, in London, Saturday, June 14, 2025. (Jonathan Brady/PA via AP)'/><p>Catherine, Princess of Wales, was not at Royal Ascot on Wednesday, with a royal source citing her need for balance as she returns to public engagements after being treated for cancer last year.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/royals-kate-cancer-recover-1.7564244?cmp=rss>
 
 ---
 
@@ -153,7 +543,7 @@ date: 2025-06-18, from: Vatican News
 
 ---
 
-## Just over 75% of nursing homes are private - HIQA
+## As it happened: HIQA questioned over nursing homes
 
 date: 2025-06-18, from: RTÉ News
 
@@ -193,11 +583,11 @@ Winning money in the lottery has an effect on who we are, how we spend our money
 
 ---
 
-## Israeli fire kills 30 in Gaza, says civil defence agency
+## Israeli strikes kill 140 in Gaza in 24-hours, medics say
 
 date: 2025-06-18, from: RTÉ News
 
-Gaza's civil defence agency has said 30 people were killed by Israeli fire in the Palestinian territory, including 11 who were seeking aid. 
+Israeli gunfire and strikes killed at least 140 people across Gaza in the past 24 hours, local health officials have said. 
 
 <br> 
 
@@ -205,11 +595,11 @@ Gaza's civil defence agency has said 30 people were killed by Israeli fire in th
 
 ---
 
-## Boy, 17, dies after swimming incident in Carlow river
+## Family devastated after 17-year-old dies while swimming
 
 date: 2025-06-18, from: RTÉ News
 
-The body of a teenage boy has been recovered from the River Barrow after he got into difficulty swimming yesterday evening. 
+The 17-year-old boy who died while swimming in the River Barrow in Carlow yesterday has been named as Peter Byrne. 
 
 <br> 
 
@@ -257,6 +647,30 @@ date: 2025-06-18, from: Vatican News
 
 ---
 
+## Saskatoon program helping Indigenous students thrive in high school and beyond
+
+date: 2025-06-18, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7562283.1750093161!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/rylan-irons.JPG' alt='Rylan Iron, stands in the lobby of White Buffal Youth Lodge in Saskatoon.' width='620' height='349' title='Rylan Iron, 18, from Canoe Lake Cree First Nation, says the Pathways Program helped him get access to scholarships and other awards.'/><p>According to Statistics Canada, Indigenous students are less likely to complete high school compared to non-Indigenous students. But the Pathways to Education program is working to change that.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatoon/indigenous-pathways-education-1.7562273?cmp=rss>
+
+---
+
+## Henvey Inlet woman won't have to disclose treaty settlement amount in child support negotiations
+
+date: 2025-06-18, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6756123.1724174352!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sudbury-courthouse.jpg' alt='A grey stone block wall with the words &apos;Court House&apos; and the coat of arms of Ontario.' width='620' height='349' title='Victim impacts statements have concluded after 27-year-old Liam Stinson was found guilty of three first-degree murder charges in May.'/><p>Payments from the Robinson Huron Treaty litigation settlement have been guarded fiercely by First Nations, but a recent motion in family court in Sudbury has challenged that confidentiality.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/sudbury/robinson-huron-treaty-annuity-payments-income-confidentiality-1.7563785?cmp=rss>
+
+---
+
 ## Donegal rally set to attract 70,000 spectators
 
 date: 2025-06-18, from: RTÉ News
@@ -293,11 +707,11 @@ Tom Cruise and Dolly Parton will receive honorary Oscars ahead of the 2026 Acade
 
 ---
 
-## 'Stay calm' - search on for €250m EuroMillions winner
+## Winning €250m EuroMillions ticket purchased in Munster
 
 date: 2025-06-18, from: RTÉ News
 
-The winner of the EuroMillions jackpot, worth €250 million, is being urged to "stay calm", as the National Lottery confirmed the ticket was sold in a shop and not bought online. 
+The National Lottery has confirmed that the winning ticket in the EuroMillions draw was sold in Munster. 
 
 <br> 
 
@@ -305,11 +719,11 @@ The winner of the EuroMillions jackpot, worth €250 million, is being urged to 
 
 ---
 
-## Death toll from Russian attack on Kyiv rises to 21
+## Russia capture another village in Ukraine's Sumy region
 
 date: 2025-06-18, from: RTÉ News
 
-Rescuers in Kyiv have said that the death toll from a major Russian attack on Ukraine's capital the previous day had risen to 21, with more than 130 people wounded. 
+Russia's army has said that its forces had captured another village in Ukraine's northeastern Sumy region, where Moscow has stepped up its offensive in recent weeks. 
 
 <br> 
 
@@ -365,15 +779,40 @@ date: 2025-06-18, from: CBC, Indigenious News
 
 ---
 
-## Iran rejects Trump's call for 'unconditional surrender'
+## New call centre aims to improve 911 response in Quebec's northern communities
+
+date: 2025-06-18, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7563467.1750191465!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/911-call-centre.jpg' alt='A man stands at a desk with several screens in front of him ' width='620' height='349' title='The volume of calls from Nunavik has increased and prompted the need for another dedicated space for dispatchers.'/><p>Ian Lafrenière, Quebec’s Indigenous affairs minister, announced dispatchers located in Saint-Eustache, Que., will respond to 911 calls from five of Quebec’s northern communities in the hopes of improving emergency response.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/montreal/911-call-centre-dispatchers-nunavik-emergencies-response-1.7563466?cmp=rss>
+
+---
+
+## Iran rejects surrender call, Trump says patience run out
 
 date: 2025-06-18, from: RTÉ News
 
-Iran's Supreme Leader Ayatollah Ali Khamenei has said his country will not accept US President Donald Trump's call for an "unconditional surrender". 
+Iranian Supreme Leader Ayatollah Ali Khamenei has rejected Donald Trump's demand for unconditional surrender, and the US president said his patience had run out, though he gave no clue as to what his next step would be. 
 
 <br> 
 
 <https://www.rte.ie/news/world/2025/0618/1519019-israel-iran/>
+
+---
+
+## Why fiddling and jigging go together
+
+date: 2025-06-18, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/6616333f-49ab-433f-930a-b08a12c29584,1749762298197/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='woman in dress smiling at camera' width='620' height='349' title=''/><p>CBC Indigenous travels the Prairies to hear from fiddlers and jiggers about the relationship between the dance and the music.
+</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6795272?cmp=rss>
 
 ---
 
@@ -417,7 +856,7 @@ The number of complaints to the Ombudsman rose by over 30% between 2019 and 2024
 
 date: 2025-06-17, from: RTÉ News
 
-Kneecap band member Liam Óg Ó hAnnaidh (Mo Chara), who has been charged with a terrorism offence, has been granted unconditional bail until his next hearing on 20 August. 
+Kneecap band member Liam Óg Ó hAnnaidh - known by his stage name Mo Chara - who has been charged with a terrorism offence, has been granted unconditional bail until his next hearing on 20 August. 
 
 <br> 
 
@@ -434,6 +873,18 @@ Banning smartphones in schools has little or no impact on the wellbeing of stude
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0618/1519000-school-smartphone-ban/>
+
+---
+
+## Tataskweyak evacuees warned not to return after leaders declare state of emergency over water treatment plant
+
+date: 2025-06-17, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7555240.1749259924!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/tataskewyak-cree-nation.jpg' alt='Smoke coming out of a forested area around a couple of buildings by a body of water' width='620' height='349' title='The fire near Tataskweyak Cree Nation was about 21,000 hectares as of the latest provincial fire bulletin Friday. This photo was posted on Facebook on Jan 3, 2025.'/><p>Just hours after Tataskweyak Cree Nation announced it was lifting its wildfire evacuation order, the northern Manitoba First Nation declared a state of emergency on Tuesday morning after its water treatment plant stopped working.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/tataskweyak-return-water-plant-1.7564091?cmp=rss>
 
 ---
 
@@ -494,6 +945,18 @@ At about 3.20pm on a clear January day in 2022, Ashling Murphy came to the banks
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0617/1518994-trial-summary-puska-family/>
+
+---
+
+## Muskoday First Nation members walk more than 300 km to call for action on Sask.'s overdose crisis
+
+date: 2025-06-17, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7563890.1750194800!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/betty-prosper.jpg' alt='Picture of Betty Prosper in front of legislature' width='620' height='349' title='Betty Prosper, one of the organizers from Muskoday First Nation, says fentanyl and crystal meth are wiping out generations of families in Indigenous communities.'/><p>Members of Muskoday First Nation are calling for urgent action to address Saskatchewan’s growing fentanyl crisis.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatchewan/muskoday-first-nation-walk-legislature-fentanyl-overdose-crisis-1.7563867?cmp=rss>
 
 ---
 
@@ -593,6 +1056,18 @@ date: 2025-06-17, from: CBC, Indigenious News
 
 ---
 
+## Pope Leo: James Webb telescope shows us what the Bible couldn’t
+
+date: 2025-06-17, from: Vatican Obervatory
+
+New Pope tells summer-schoolers at the Vatican Observatory that the telescope’s insight into creation brings ‘mysterious joy’ 
+
+<br> 
+
+<https://www.thetimes.com/uk/religion/article/pope-leo-james-webb-telescope-63hhlp3s6>
+
+---
+
 ## Assembly of First Nations summer meeting in Winnipeg moved to fall due to wildfires
 
 date: 2025-06-17, from: CBC, Indigenious News
@@ -674,6 +1149,18 @@ Minister for Justice, Jim O'Callaghan has said Cabinet has approved plans to pro
 <br> 
 
 <https://www.rte.ie/news/2025/0617/1518936-citywest-hotel/>
+
+---
+
+## Govt agrees €148m purchase of Citywest Hotel and campus
+
+date: 2025-06-17, from: RTÉ News
+
+Minister for Justice, Jim O'Callaghan has said Cabinet has approved plans to proceed with the purchase of the Citywest Hotel and campus in Dublin for €148.2m. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0617/1518936-citywest-hotel/>
 
 ---
 
@@ -1102,6 +1589,18 @@ People Before Profit TD Paul Murphy, who was detained twice in Egypt while parti
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0617/1518845-paul-murphy/>
+
+---
+
+## Paul Murphy returns to Ireland after Egypt detention
+
+date: 2025-06-17, from: RTÉ News
+
+People Before Profit TD Paul Murphy, who was detained twice in Egypt while participating in the Global March to Gaza, has returned to Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0617/1518845-paul-murphy/>
 
 ---
 
@@ -1861,22 +2360,6 @@ Gaza's civil defence agency said Israeli troops have killed 20 people waiting to
 
 ---
 
-## Exploring the cosmos fills us with wonder, Pope tells scientists
-
-date: 2025-06-16, from: Vatican News
-
-
-                    <p>Pope Leo XIV receives participants in the Vatican Observatory’s Summer School program, inviting them to share the joy they experience in exploring the cosmos and to contribute to a more peaceful and just world through the pursuit of knowledge.</p>
-                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/exploring-the-cosmos-fills-us-with-wonder-pope-tells-scientists.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/pope/news/2025-06/exploring-the-cosmos-fills-us-with-wonder-pope-tells-scientists.html>
-
----
-
 ## Areas in Dublin and Cork 'seriously littered' - IBAL
 
 date: 2025-06-16, from: RTÉ News
@@ -1898,6 +2381,18 @@ date: 2025-06-16, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/louvre-closed-overtourism-1.7562138?cmp=rss>
+
+---
+
+## Exploring the cosmos fills us with wonder, Pope tells scientists – Vatican News
+
+date: 2025-06-16, from: Vatican Obervatory
+
+Pope Leo XIV receives participants in the Vatican Observatory’s Summer School program, inviting them to share the joy they experience in exploring the cosmos... 
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/exploring-the-cosmos-fills-us-with-wonder-pope-tells-scientists.html>
 
 ---
 
