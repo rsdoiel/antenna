@@ -1,11 +1,61 @@
 ---
 title: north america
-updated: 2025-06-18 14:07:21
+updated: 2025-06-19 06:07:26
 ---
 
 # north america
 
-(date: 2025-06-18 14:07:21)
+(date: 2025-06-19 06:07:26)
+
+---
+
+## Trump’s Agenda is a Loser
+
+date: 2025-06-19, from: The Contrarian
+
+Running against lousy policy is a winner 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-agenda-is-a-loser>
+
+---
+
+##  Is Trump’s Energy Czar Lying About His Solar Past? 
+
+date: 2025-06-19, from: The Lever News
+
+ Energy Secretary Chris Wright submitted a resume to Congress with what appears to be false information about working in solar energy. He’s repeated the claim in almost every public appearance since.  
+
+<br> 
+
+<https://www.levernews.com/is-trumps-energy-czar-lying-about-his-solar-past/>
+
+---
+
+## Evening Roundup, June 18
+
+date: 2025-06-18, from: The Contrarian
+
+Featuring Tammy Baldwin, Jennifer Weiss-Wolf, Ned Price, Stephen Richer, Shalise Manza Young, Bill Braniff, and Jen Rubin 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-18>
+
+---
+
+## Trump State Department fails Americans Overseas: Ned Price on the Growing Conflict in the Middle East
+
+date: 2025-06-18, from: The Contrarian
+
+"Trump is the first and only American President who has failed to stand up and has failed to prevent Netanyahu from launching a preemptive war of choice when diplomacy remained viable" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166274498/785401eb95577ef8a6ab0d7454ec6c3b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166274498/785401eb95577ef8a6ab0d7454ec6c3b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/trump-state-department-fails-americans>
 
 ---
 

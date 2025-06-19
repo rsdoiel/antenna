@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-06-18 14:07:26
+updated: 2025-06-19 06:07:31
 ---
 
 # games
 
-(date: 2025-06-18 14:07:26)
+(date: 2025-06-19 06:07:31)
+
+---
+
+## The Switch 2’s Joy-Con controllers are a step up in (almost) every way
+
+date: 2025-06-19, updated: 2025-06-19, from: Polygon Website
+
+As revolutionary as Nintendo’s original Switch was, it came with a big — or, rather, very, very small — problem: Its tiny Joy-Con controllers were pretty terrible. Sure, they were novel, rumbled in neat ways, and lent themselves, in theory, to multiple playstyles, but they were also far too little, uncomfortable to hold, and not [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/607759/joy-con-2-nintendo-switch-2>
+
+---
+
+## 9 beginner’s tips before you start playing Rematch
+
+date: 2025-06-19, updated: 2025-06-18, from: Polygon Website
+
+The idea of Rematch is much the same as it is for soccer: group up with other players and beat the other team. This largely means kicking the ball, scoring some goals, and picking your victory pose at the end of the match. It’s not that simple, though. A match in Rematch involves more than [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/607583/rematch-beginners-tips-before-you-start>
+
+---
+
+## What is Blitz Royale in Fortnite?
+
+date: 2025-06-18, updated: 2025-06-18, from: Polygon Website
+
+Blitz Royale is a new limited-time game mode introduced in Fortnite Chapter 6 Season 3 Super that is available until Tuesday, July 15. Blitz Royale is Fortnite as you know it, but at a much faster pace. Blitz Royale is meant for those on the go as each game can take five minutes or less. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/607902/blitz-royale-explained-what-is-full-schedule>
+
+---
+
+## Hades 2 finally reveals Narcissus, and he’s more scandalous than anyone imagined
+
+date: 2025-06-18, updated: 2025-06-18, from: Polygon Website
+
+Hades 2 has been in early access for a year now, and while the game was functional and had most of the gameplay elements that will ship in the final game, many of those features initially sported placeholder art. Sometimes, that artwork was a rough draft of the design, but other times, Hades 2 relied [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/607878/hades-2-narcissus-art-reveal-placeholder-unseen-update-greek-myth>
 
 ---
 

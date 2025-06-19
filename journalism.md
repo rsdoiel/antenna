@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2025-06-18 14:07:27
+updated: 2025-06-19 06:07:32
 ---
 
 # journalism
 
-(date: 2025-06-18 14:07:27)
+(date: 2025-06-19 06:07:32)
+
+---
+
+## Gallery: Annual WeHo Pride Parade kicks off 2025 pride month celebrations
+
+date: 2025-06-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+The annual WeHo Pride Parade celebrated the beginning of pride month and the local LGBTQ+ community on June 1, starting at the intersection of North Crescent Heights Boulevard and Santa Monica Boulevard. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/18/gallery-annual-weho-pride-parade-kicks-off-2025-pride-month-celebrations/>
 
 ---
 

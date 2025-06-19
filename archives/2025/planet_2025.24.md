@@ -1,23 +1,520 @@
 ---
 title: planet
-updated: 2025-06-18 14:07:20
+updated: 2025-06-19 06:07:24
 ---
 
 # planet
 
-(date: 2025-06-18 14:07:20)
+(date: 2025-06-19 06:07:24)
 
 ---
 
-## Efforts under way to assist Irish citizens leave Iran
+## Man apologises for threating TD Paul Murphy's wife
+
+date: 2025-06-19, from: RTÉ News
+
+A man who threatened Dublin South-West TD Paul Murphy with slitting his wife's throat has been spared trial after apologising and citing a psychotic episode. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0619/1519345-man-apologises-for-threating-td-paul-murphys-wife/>
+
+---
+
+## Record for longest game of women's rugby broken
+
+date: 2025-06-19, from: RTÉ News
+
+An attempt to break the world record for the longest game of men's rugby is taking place this afternoon. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0619/1519333-rugby-record-attempt/>
+
+---
+
+## Govt walking 'into disaster' over GP jobs, Dáil told
+
+date: 2025-06-19, from: RTÉ News
+
+The Government is walking the country "into a disaster" by not taking the recruitment of GPs with sufficient seriousness, according to the Social Democrats deputy Jennifer Whitmore. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0619/1519331-gp-recruitment-ireland/>
+
+---
+
+## €250m EuroMillions ticket holder comes forward
+
+date: 2025-06-19, from: RTÉ News
+
+The holder of the winning ticket in Tuesday night's €250m EuroMillions lottery has made contact with the National Lottery's prize claims team, the company has confirmed. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0619/1519332-euromillions/>
+
+---
+
+## Gaza rescuers say 25 killed by Israeli fire
+
+date: 2025-06-19, from: RTÉ News
+
+Gaza's civil defence agency has said Israeli fire killed at least 25 people, including 15 who had gathered near an aid distribution site. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0619/1519315-gaza-israel/>
+
+---
+
+## Data watchdog engaging with Sky on 'dodgy box' clampdown
+
+date: 2025-06-19, from: RTÉ News
+
+The Data Protection Commission said it has been engaging with Sky on the company's efforts to clampdown on so-called TV 'dodgy boxes'. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0619/1519317-data-protection-commission/>
+
+---
+
+## Hungarian police ban LGBTQ pride parade
+
+date: 2025-06-19, from: RTÉ News
+
+Hungarian police said they are banning the Budapest pride parade, which had been planned for 28 June. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0619/1519304-hungary-pride-march/>
+
+---
+
+## Lord Henry – king of the castle who made Ireland rock
+
+date: 2025-06-19, from: RTÉ News
+
+He was the lord of the manor who helped bring rock 'n' roll to the masses in Ireland, ushering in a whole new era of music at the Big House and attracting huge names to play on his lawn at Slane Castle. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0619/1519301-lord-henry-king-of-the-castle-who-made-ireland-rock/>
+
+---
+
+## Bishop of Kharkiv: We are a Church under bombs that loves and defies death
+
+date: 2025-06-19, from: Vatican News
+
+
+                    <p>In an interview with Vatican Media, Bishop Pavlo Honcharuk of Kharkiv-Zaporizhzhia, who met Pope Leo XIV at the General Audience, says he will bring the Pope’s blessing to his suffering country, and recounts "a devastated city, where bombings strike even playgrounds, deepening civilians’ fear and soldiers’ pain," but in which, "sisters and priests remain, despite everything."</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/bishop-of-kharkiv-we-are-a-church-under-bombs-interview-ukraine.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/bishop-of-kharkiv-we-are-a-church-under-bombs-interview-ukraine.html>
+
+---
+
+## Cardinal Mathieu of Iran: Let's pray negotiations resume
+
+date: 2025-06-19, from: Vatican News
+
+
+                    <p>Cardinal Dominique Joseph Mathieu,  the Archbishop of Tehran-Isfahan of the Latins, speaks to Vatican Media about the conflict that has erupted between Israel and the country in which he lives, noting, “I am confronted with displaced persons, the wounded, the dead. In both nations, there are many victims. It is an aerial war that has forced many to leave their homes and move to safer areas inland.”</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/cardinal-mathieu-of-iran-lets-pray-negotiations-resume.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/cardinal-mathieu-of-iran-lets-pray-negotiations-resume.html>
+
+---
+
+## Lord Henry Mount Charles of Slane Castle dies aged 74
+
+date: 2025-06-19, from: RTÉ News
+
+Lord Henry Mount Charles, best known for staging iconic rock concerts at his ancestral home of Slane Castle in Co Meath, has died at the age of 74. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0619/1519297-lord-henry-mountcharles-has-died-aged-74/>
+
+---
+
+## Tents belonging to asylum seekers at Grand Canal slashed
+
+date: 2025-06-19, from: RTÉ News
+
+Up to ten tents belonging to International Protection applicants were slashed at a make-shift camp on the Grand Canal. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0619/1519293-tents-grandcanal/>
+
+---
+
+## As it happened: 'Frightening what was happening at CHI'
+
+date: 2025-06-19, from: RTÉ News
+
+ 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0619/1519292-chi-committee-live-updates/>
+
+---
+
+## Review to find Israel violated trade agreement with EU
+
+date: 2025-06-19, from: RTÉ News
+
+An eagerly awaited review of the EU-Israel trade agreement is expected to find that Israel has violated the agreement's human rights and international law clauses in the conduct of its war in Gaza, RTÉ News understands. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0619/1519280-eu-israel/>
+
+---
+
+## Cardinal Grech meets Patriarch Bartholomew: Let us build bridges
+
+date: 2025-06-19, from: Vatican News
+
+
+                    <p>The Secretary General of the Synod travels to Istanbul, Turkey, to present the implementation phase of the Synod during the meeting of the General Secretaries of the Bishops' Conferences of Europe (CCEE). At the Phanar, the Ecumenical Patriarch of Constantinople addresses the participants with an appeal for dialogue in an era marked by "fear, and violence." </p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/cardinal-grech-meeting-patriarch-bartholomew-istanbul.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/cardinal-grech-meeting-patriarch-bartholomew-istanbul.html>
+
+---
+
+## Piapot First Nation father and daughters trio invited to perform around North America
+
+date: 2025-06-19, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7563458.1750187476!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/chase-sayer-and-daughters.JPG' alt='Everet &quot;Chase&quot; Sayer and his daughters, Dinaye (left), 14 and Cree (right), 13.' width='620' height='349' title='Everet &apos;Chase&apos; Sayer and his daughters, Dinaye, 14, on left, and Cree, 13.'/><p>Everet “Chase” Sayer and his daughters, Cree and Dinaye, love performing together. Now the trio is reaching more people than ever.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatchewan/father-daughter-tiktok-singing-indigenous-1.7563448?cmp=rss>
+
+---
+
+## Donohoe clear front runner to remain Eurogroup president
+
+date: 2025-06-19, from: RTÉ News
+
+The process to potentially reinstate Minister for Finance Paschal Donohoe for a third term as President of the Eurogroup will formally begin in Luxembourg this afternoon, as eurozone finance ministers take the first steps in assessing any candidates who come forward. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0619/1519263-paschal-donohoe/>
+
+---
+
+## US added over 1,000 new millionaires a day last year
+
+date: 2025-06-19, from: RTÉ News
+
+Wealth grew disproportionately quickly last year in the US, where over 379,000 people became new US dollar millionaires, more than a 1,000 a day, a new report shows. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0619/1519261-us-added-over-1-000-new-millionaires-a-day-last-year/>
+
+---
+
+## Father Robert became a priest 43 years ago, just steps from the Vatican
+
+date: 2025-06-19, from: Vatican News
+
+
+                    <p>Pope Leo XIV commemorates today the anniversary of his priestly ordination in the Chapel of Saint Monica, which overlooks Piazza del Sant’Uffizio in the Vatican, and which was assigned to him as his titular church when he became a cardinal in 2023.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/father-robert-became-priest-43-years-ago-steps-vatican-tornielli.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/father-robert-became-priest-43-years-ago-steps-vatican-tornielli.html>
+
+---
+
+## Man dies in house fire in Co Roscommon
+
+date: 2025-06-19, from: RTÉ News
+
+A man has died in a fire at a house in Frenchpark, Co Roscommon. 
+
+<br> 
+
+<https://www.rte.ie/news/connacht/2025/0619/1519240-roscommon-fire/>
+
+---
+
+## Gallagher brothers portrait could fetch over €2 million
+
+date: 2025-06-19, from: RTÉ News
+
+A 1996 portrait of Liam and Noel Gallagher is going under the hammer in London next week, just as the Oasis brothers prepare to reunite for a series of highly anticipated gigs. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0619/1519250-gallagher-brothers-portrait-could-fetch-over-2-million/>
+
+---
+
+## Hurricane Erick makes landfall in Mexico
+
+date: 2025-06-19, from: RTÉ News
+
+Hurricane Erick has made landfall in the west of Oaxaca state in Mexico, the US National Hurricane Center said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0619/1519251-hurricane-erick/>
+
+---
+
+## Hot and sunny spell in store, but keep the brolly handy
+
+date: 2025-06-19, from: RTÉ News
+
+Temperatures are set to soar as high as 28C tomorrow, with long spells of summer sunshine in store, but some showers are also possible over the next few days. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0619/1519237-weather-ireland/>
+
+---
+
+## Fort Qu'Appelle, Sask., class teaches kids to sew by making ribbon skirts
+
+date: 2025-06-19, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7564806.1750286623!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/rayne-longman-and-her-daughter-kylee.JPG' alt='A mother and daughter pose behind a sewing machine, where they are attending a class to learn to sew a ribbon skirt.' width='620' height='349' title='Rayne said she wanted her 12 year old daughter Kylee to attend the class as it would be a good hobby for her to learn.'/><p>Kids and teens are learning to sew at a craft store in Fort Qu'Appelle, Sask., and picking up other life lessons, too. "You have to be really patient because stuff happens while you're doing it," says 12-year-old Kylee Longman.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/fort-quappelle-ribbon-skirts-sewing-1.7564760?cmp=rss>
+
+---
+
+## Khamenei 'can no longer be allowed to exist', says Katz
+
+date: 2025-06-19, from: RTÉ News
+
+Follow live developments as Iran and Israel traded further air attacks while President Donald Trump kept the world guessing about whether the US would join Israel's bombardment of Iranian nuclear and missile facilities 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0619/1519236-middle-east/>
+
+---
+
+## Ministers publish document outlining education plans
+
+date: 2025-06-19, from: RTÉ News
+
+The Minister for Education and Youth and Minister of State for Special Education and Inclusion have published a document outlining their plans this year for education. 
+
+<br> 
+
+<https://www.rte.ie/news/education/2025/0619/1519232-education-plan/>
+
+---
+
+## Living with sickle cell - calls for increased awareness
+
+date: 2025-06-19, from: RTÉ News
+
+Sickle cell disease is the most common genetic blood disorder in the world, most prevalent among people of colour. On World Sickle Cell Awareness Day, doctors, patients and grieving families are calling for increased awareness of the disease in Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0619/1519210-sickle-cell-disease/>
+
+---
+
+## Next 24 hours 'crucial' in Israel-Iran war - Tánaiste
+
+date: 2025-06-19, from: RTÉ News
+
+Tánaiste Simon Harris has warned that the next 24 to 48 hours will be crucial when it comes to avoiding any further escalation in the Israel-Iran conflict. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0619/1519228-tanaiste-iran-israel/>
+
+---
+
+## Israel may still have the Madleen aid boat. But organizers are already planning their next journey to Gaza
+
+date: 2025-06-19, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/fbaea39d-271c-45b7-a055-0bbcf8417e90,1750280741253/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C325%2C6240%2C3510%29%3BResize%3D%28620%29' alt='Madleen Kolab works on a large fishing net outside, while staring at the camera.' width='620' height='349' title=''/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/flotilla-gaza-israel-madleen-1.7565037?cmp=rss>
+
+---
+
+## Putin would meet Zelensky in 'final phase' of peace talks
+
+date: 2025-06-19, from: RTÉ News
+
+Russian President Vladimir Putin said he was ready to meet with Ukrainian counterpart Volodymyr Zelensky but only during a "final phase" of negotiations on ending the three-year conflict. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0619/1519235-russia-ukraine/>
+
+---
+
+## U.S. political violence is landing on the doorstep now, with deadly effect
+
+date: 2025-06-19, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7564549.1750264214!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-minnesota-lawmaker-shot.jpg' alt='A closeup of a red door to a residence is shown, with several bullet holes in the door.' width='620' height='349' title='Bullet holes are shown on June 14 at the front door of the house of Minnesota state Sen. John Hoffman and his wife, who were shot hours earlier. '/><p>It appears that Minnesota House Speaker Melissa Hortman was the first U.S. state legislator specifically targeted and killed in over 25 years, a partisan attack targeting the members of the opposite political party.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-partisan-attacks-minnesota-shootings-1.7563066?cmp=rss>
+
+---
+
+## Fresh Iran, Israel strikes as Trump weighs US involvement
+
+date: 2025-06-19, from: RTÉ News
+
+Iran and Israel have traded further air attacks as US President Donald Trump kept the world guessing about whether the United States would join Israel's bombardment of Iranian nuclear facilities. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0619/1519234-iran-israel/>
+
+---
+
+## Inside the creation of a ji’kmaqn
+
+date: 2025-06-19, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/a443d38b-b96c-497c-948b-18958b9c658d,1749759962621/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Man holding a Ji&apos;kmaqn' width='620' height='349' title=''/><p>CBC Indigenous reporter Sis’moqon goes to Eskasoni First Nation in Nova Scotia to learn about the ji’kmaqn and why this traditional musical instrument has been vital to the Mi’kmaw culture. 
+</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6795373?cmp=rss>
+
+---
+
+## Climate indicators 'moving in wrong direction' - report
 
 date: 2025-06-18, from: RTÉ News
 
-The Government is engaged in major diplomatic efforts tonight to assist Irish citizens living in Iran who may want to leave the country. It is understood that Austria could possibly provide assistance to help Irish citizens leave Iran sometime during the weekend. 
+From carbon pollution to sea-level rise to global heating, the pace and level of key climate change indicators are all in uncharted territory, more than 60 top scientists warned. 
+
+<br> 
+
+<https://www.rte.ie/news/weather/2025/0619/1519231-climate-indicators-moving-in-wrong-direction-report/>
+
+---
+
+## CHI apologises to children and families over practices
+
+date: 2025-06-18, from: RTÉ News
+
+Children's Health Ireland CEO Lucy Nugent has apologised to children and families impacted by recent revelations about CHI's culture, governance and practices. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0619/1519207-chi-apology/>
+
+---
+
+## 'Coordinated efforts' needed to protect children online
+
+date: 2025-06-18, from: RTÉ News
+
+A new study from the Economic and Social Research Institute has found there is a pressing need to address the challenges faced by parents when it comes to their children's online safety. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0619/1519201-esri-children-online-safety/>
+
+---
+
+## Housing supply has 'plateaued' in recent years - Tánaiste
+
+date: 2025-06-18, from: RTÉ News
+
+Tánaiste and Minister for Foreign Affairs Simon Harris said the Government had gotten to a point with housing where there was a "significant increase" in supply over the last number of years but now it has "plateaued". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0619/1519178-central-bank-forecasts/>
+
+---
+
+## An Post switching fleet of HGVs to fossil free fuel
+
+date: 2025-06-18, from: RTÉ News
+
+An Post is switching its national fleet of heavy goods vehicles (HGV) from diesel to Hydrotreated Vegetable Oil to cut carbon emissions 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0619/1519167-an-post-switches-hgv-fleet-from-diesel-to-hvo/>
+
+---
+
+## Emergency services at scene of Roscommon house fire
+
+date: 2025-06-18, from: RTÉ News
+
+Emergency services are at the scene of a fire in Frenchpark in Co Roscommon. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0618/1519215-roscommon-house-fire/>
+
+---
+
+## Efforts ongoing to help Irish citizens leave Iran, Israel
+
+date: 2025-06-18, from: RTÉ News
+
+The Government is engaged in major diplomatic efforts tonight to assist Irish citizens living in Iran and Israel who may want to leave both countries. It is understood that Austria could possibly provide assistance to help Irish citizens leave Iran sometime during the weekend. 
 
 <br> 
 
 <https://www.rte.ie/news/2025/0618/1519217-efforts-under-way-to-assist-irish-citizens-leave-iran/>
+
+---
+
+## Indigenous grads at Red Deer Polytechnic surprised with gifts by student services staff
+
+date: 2025-06-18, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7565057.1750283867!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kimberly-potts-justice-soosay-lloyd-dejarlais.jpg' alt='Three people pose with a large green blanket in the Indigenous Student Services centre.' width='620' height='349' title='Kimberly Potts, Justice Soosay and Lloyd Dejarlais were behind the gifts for Indigenous students at Red Deer Polytechnic.'/><p>Indigenous graduates of Red Deer Polytechnic (RDP) in southern Alberta were surprised after convocation when they were given gifts — including a blanket featuring a white buffalo — from the school’s Indigenous Students Services office.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/red-deer-polytechnic-buffalo-blankets-1.7565049?cmp=rss>
 
 ---
 
@@ -58,6 +555,18 @@ Dr. Larry Lebofsky covers a wide range of topics in his astronomy and space scie
 <br> 
 
 <https://www.vaticanobservatory.org/sacred-space-astronomy/astronomy-space-science-education-public-outreach-newsletter-june-2025-part-2/>
+
+---
+
+## Twice-a-year shot to prevent HIV approved in U.S.
+
+date: 2025-06-18, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7564911.1750277691!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/hiv-prevention.jpg' alt='Packaging for Gilead Science&apos;s HIV prevention medication, Yeztugo, (lenacapvir).' width='620' height='349' title='This photo provided by Gilead Sciences shows packaging for the company&apos;s HIV prevention medication, Yeztugo, (lenacapvir) at a manufacturing facility in La Verne, Calif., in June 2025. '/><p>The U.S. has approved the world's only twice-a-year shot to prevent HIV, maker Gilead Sciences announced Wednesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/health/lenacapvir-fda-1.7564882?cmp=rss>
 
 ---
 
@@ -118,6 +627,18 @@ A 48-year-old garda will be sentenced later this year for assaulting his wife in
 <br> 
 
 <https://www.rte.ie/news/courts/2025/0618/1519169-trevor-bolger/>
+
+---
+
+## Garda assaulted wife in 'safest place on earth' - court
+
+date: 2025-06-18, from: RTÉ News
+
+A 48-year-old garda will be sentenced later this year for assaulting his wife in her childhood home with their young children in the room. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0618/1519169-trevor-bolger-court/>
 
 ---
 
@@ -335,7 +856,7 @@ The structures of the Windsor Framework are "ineffective, opaque and overly bure
 
 date: 2025-06-18, from: United Nations, Top Stories
 
-As the Iran-Israel crisis continued into a sixth day on Wednesday, the UN deputy human rights chief Nada Al-Nashif called for urgent talks to end the ongoing missile attacks between Tehran and Tel-Aviv. 
+As the Iran-Israel crisis continued into a sixth day on Wednesday, the UN deputy human rights chief Nada Al-Nashif called for urgent talks to end the ongoing missile attacks between Tehran and Tel Aviv. 
 
 <br> 
 
@@ -345,7 +866,7 @@ As the Iran-Israel crisis continued into a sixth day on Wednesday, the UN deputy
 
 ## Power of football inspires team effort towards development goals
 
-date: 2025-06-18, from: United Nations, Top Stories
+date: 2025-06-18, from: United Nations, Climate Change
 
 The power of football to inspire fans to take positive action for a healthier planet and a fairer society is taking centre stage at Expo 2025 in Osaka, Japan – a world fair focused on building a sustainable global future. 
 
@@ -412,6 +933,42 @@ Civilian deaths in conflict surged by 40 per cent last year, according to new da
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/06/1164541>
+
+---
+
+## ‘Smart grid’ helps accelerate energy transition in Indonesia
+
+date: 2025-06-18, from: United Nations, Top Stories
+
+Renewable energy plants are being built across Indonesia, but for their electricity to reach consumers, a modernization of the electricity grid is necessary.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164576>
+
+---
+
+## Ahead of UN summit, countries finalise landmark ‘Compromiso de Sevilla’
+
+date: 2025-06-18, from: United Nations, Economic Development
+
+UN Member States have reached agreement on the outcome document for the Fourth International Conference on Financing for Development, to be formally adopted at an upcoming summit in Sevilla, Spain – though without the participation of the United States, which withdrew from the negotiations and announced it will not attend the conference. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164591>
+
+---
+
+## Human Rights Council hears alarming updates on executions in Iran and global civic space crackdown
+
+date: 2025-06-18, from: United Nations, Top Stories
+
+On the third day of the 59th Session of the Human Rights Council (HRC), the spotlight turned to reports on rising executions in Iran and the increasing repression of civic space around the world amid a wave of elections.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164586>
 
 ---
 
@@ -599,7 +1156,7 @@ Israeli gunfire and strikes killed at least 140 people across Gaza in the past 2
 
 date: 2025-06-18, from: RTÉ News
 
-The 17-year-old boy who died while swimming in the River Barrow in Carlow yesterday has been named as Peter Byrne. 
+The 17-year-old boy who died while swimming in the River Barrow in Carlow has been named as Peter Byrne. 
 
 <br> 
 
@@ -2226,7 +2783,7 @@ Facing the most severe funding shortfall in the history of humanitarian aid, UN 
 
 ## From Himalayan melt to drowning shores, children lead the climate fight
 
-date: 2025-06-16, from: United Nations, Top Stories
+date: 2025-06-16, from: United Nations, Climate Change
 
 From the high Himalayas down to sea level, climate change is no longer a distant threat for children in Nepal and the Maldives – it is a daily struggle: landslides tear through mountain villages washing away homes and farms, while rising seas surge over island shorelines, threatening to swallow entire communities. 
 
@@ -2360,6 +2917,22 @@ Gaza's civil defence agency said Israeli troops have killed 20 people waiting to
 
 ---
 
+## Exploring the cosmos fills us with wonder, Pope tells scientists
+
+date: 2025-06-16, from: Vatican News
+
+
+                    <p>Pope Leo XIV receives participants in the Vatican Observatory’s Summer School program, inviting them to share the joy they experience in exploring the cosmos and to contribute to a more peaceful and just world through the pursuit of knowledge.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/exploring-the-cosmos-fills-us-with-wonder-pope-tells-scientists.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/exploring-the-cosmos-fills-us-with-wonder-pope-tells-scientists.html>
+
+---
+
 ## Areas in Dublin and Cork 'seriously littered' - IBAL
 
 date: 2025-06-16, from: RTÉ News
@@ -2381,18 +2954,6 @@ date: 2025-06-16, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/louvre-closed-overtourism-1.7562138?cmp=rss>
-
----
-
-## Exploring the cosmos fills us with wonder, Pope tells scientists – Vatican News
-
-date: 2025-06-16, from: Vatican Obervatory
-
-Pope Leo XIV receives participants in the Vatican Observatory’s Summer School program, inviting them to share the joy they experience in exploring the cosmos... 
-
-<br> 
-
-<https://www.vaticannews.va/en/pope/news/2025-06/exploring-the-cosmos-fills-us-with-wonder-pope-tells-scientists.html>
 
 ---
 

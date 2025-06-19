@@ -1,11 +1,37 @@
 ---
 title: food
-updated: 2025-06-18 14:07:30
+updated: 2025-06-19 06:07:35
 ---
 
 # food
 
-(date: 2025-06-18 14:07:30)
+(date: 2025-06-19 06:07:35)
+
+---
+
+## I Tried Chipotle’s New Adobo Ranch—Here’s What I Thought
+
+date: 2025-06-18, from: Taste of Home
+
+<p>Chipotle's new sauce is a winner, but that endorsement comes with one big caveat.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/chipotle-adobo-ranch/">I Tried Chipotle&#8217;s New Adobo Ranch—Here&#8217;s What I Thought</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/chipotle-adobo-ranch/>
+
+---
+
+## 13 Steak Salad Recipes for Hearty, Satisfying Meals
+
+date: 2025-06-18, from: Bon Appetet
+
+Like NY strip fattoush with grilled corn, skirt steak with harissa potatoes and arugula, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/steak-salad-recipes-dinners-ideas>
 
 ---
 

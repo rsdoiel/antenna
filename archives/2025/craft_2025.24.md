@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-06-18 14:07:30
+updated: 2025-06-19 06:07:36
 ---
 
 # craft
 
-(date: 2025-06-18 14:07:30)
+(date: 2025-06-19 06:07:36)
+
+---
+
+## Mind Upon Mind: Making Armbow Miters
+
+date: 2025-06-19, from: Lost Arg Press blog
+
+Editor’s note: Our Mind Upon Mind series is a nod to a 1937 Chips from the Chisel column (also featured in “Honest Labour: The Charles H. Hayward Years”), in which Hayward wrote, “The influence of mind upon mind is extraordinary.” The idea being there’s often room for improvement. To that end, we’ve asked you what... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/06/19/mind-upon-mind-making-armbow-miters/>
 
 ---
 

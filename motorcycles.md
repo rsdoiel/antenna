@@ -1,11 +1,73 @@
 ---
 title: motorcycles
-updated: 2025-06-18 14:07:28
+updated: 2025-06-19 06:07:34
 ---
 
 # motorcycles
 
-(date: 2025-06-18 14:07:28)
+(date: 2025-06-19 06:07:34)
+
+---
+
+## Polaris Is Recalling Its New Electric UTVs Because They Could Catch On Fire
+
+date: 2025-06-19, from: Ride Apart, Electric Motorcycle News
+
+Well, that's not in the owner's manual.  
+
+<br> 
+
+<https://www.rideapart.com/news/763143/polaris-ranger-kinetic-ev-utv-recall-fire-hazard/>
+
+---
+
+## Michelin Is the Tire of the Superbike World Championship, Here's Why It Matters
+
+date: 2025-06-19, from: Ride Apart, Electric Motorcycle News
+
+Michelin’s cutting-edge tire tech will eventually trickle down to us mere mortals. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/763058/michelin-new-wsbk-tire-supplier-announcement/>
+
+---
+
+## Thieves In France Absolutely Love Stealing These Motorcycles
+
+date: 2025-06-19, from: Ride Apart, Electric Motorcycle News
+
+Is your bike on the list? If so, worry not, as we have some tips for you to keep your beloved steed safe and sound. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/763059/france-most-stolen-motorcycles-of-2025/>
+
+---
+
+## ARCA Menards West Series: 2025 Bakersfield II Race Review
+
+date: 2025-06-19, from: Kickin the Tires blog
+
+By Vincent Delforge, Staff Writer The fifth race of the 2025 ARCA Menards West Series season took place at Kevin Harvick&#8217;s Kern Raceway in Bakersfield, CA. The NAPA Auto Parts&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/arca-series/arca-menards-west-series-2025-bakersfield-ii-race-review/>
+
+---
+
+## Polaris Donates $1M To Expand 4-H Off-Road Education at a Time When It’s So Important
+
+date: 2025-06-19, from: Ride Apart, Electric Motorcycle News
+
+And it couldn't have come at a better time. 
+
+<br> 
+
+<https://www.rideapart.com/news/763055/polaris-donates-for-off-road-education/>
 
 ---
 

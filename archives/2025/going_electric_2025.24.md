@@ -1,11 +1,171 @@
 ---
 title: going electric
-updated: 2025-06-18 14:07:30
+updated: 2025-06-19 06:07:35
 ---
 
 # going electric
 
-(date: 2025-06-18 14:07:30)
+(date: 2025-06-19 06:07:35)
+
+---
+
+## Inside Ford's Plan To Outfox China's EV Companies
+
+date: 2025-06-19, from: Inside EVs News
+
+Plus, Tesla to pause Model Y and Cybertruck production for a week (again), and China hits a chip milestone. 
+
+<br> 
+
+<https://insideevs.com/news/763187/ford-china-ev-cost-parity/>
+
+---
+
+## EV Fast-Chargers Take Forever To Build. This Went Up In 54 Days
+
+date: 2025-06-19, from: Inside EVs News
+
+DC fast-charging provider Electric Era says a station at a Florida Costco went up in record time. Here's how. 
+
+<br> 
+
+<https://insideevs.com/news/763237/electric-era-costco-54-days/>
+
+---
+
+## EV Batteries Can Easily Outlast A Typical Gas Car’s Lifespan: Study
+
+date: 2025-06-19, from: Inside EVs News
+
+The average car in America is 14 years old. EV batteries can last longer, according to a new study. 
+
+<br> 
+
+<https://insideevs.com/news/763231/ev-battery-degradation-life-gas-car-comparison-age/>
+
+---
+
+## Tesla hacker reveals a new Model Y with 6 seats is in the works
+
+date: 2025-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Tesla-Model-Y-6-seater.png?w=1600" /></div><p>A Tesla hacker has revealed that through a new software update, the automaker is working on a new Model Y with a 6-seat configuration.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-y" data-layer-viewtype="unknown" data-post-id="421023" href="https://electrek.co/2025/06/19/tesla-hacker-reveals-new-model-y-with-6-seats/#more-421023" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/19/tesla-hacker-reveals-new-model-y-with-6-seats/>
+
+---
+
+## Zero announces its new low-cost electric motorcycles have begun production
+
+date: 2025-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/zero-xb-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Zero Motorcycles announced this week that production of its new XE and XB electric motorcycles is now officially underway, with the first units set to begin shipping soon. The milestone marks a major step forward in Zero’s plan to expand beyond its high-performance electric motorcycles and tap into the growing market for more affordable EVs on two wheels.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="zero-motorcycles" data-layer-viewtype="unknown" data-post-id="421026" href="https://electrek.co/2025/06/19/zero-announces-its-new-low-cost-electric-motorcycles-have-begun-production/#more-421026" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/19/zero-announces-its-new-low-cost-electric-motorcycles-have-begun-production/>
+
+---
+
+## Aptera’s Solar EV Is Finally Ready For Production. Watch The Livestream Here
+
+date: 2025-06-19, from: Inside EVs News
+
+After numerous delays, the Californian startup will finally show the production-intent version of its three-wheeled solar EV. 
+
+<br> 
+
+<https://insideevs.com/news/763210/aptera-solar-ev-production-validation/>
+
+---
+
+## Tesla is asked to delay Robotaxi launch in Austin by Texas lawmakers
+
+date: 2025-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Texas lawmakers have officially requested that Tesla delay its planned Robotaxi launch in Austin by a few months due to a new law being implemented.</p>
+
+
+
+<p>It’s a Godsend for Elon Musk.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="421017" href="https://electrek.co/2025/06/18/tesla-asked-delay-robotaxi-launch-in-austin-texas-lawmakers/#more-421017" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/18/tesla-asked-delay-robotaxi-launch-in-austin-texas-lawmakers/>
+
+---
+
+## Tesla Model Y Hack Reveals Possible 6-Seat Version Coming
+
+date: 2025-06-18, from: Inside EVs News
+
+A well-known Tesla hacker found hints of a six-seater version of the Model Y in the car's latest firmware. 
+
+<br> 
+
+<https://insideevs.com/news/763183/tesla-model-y-6-seater/>
+
+---
+
+## Rove breaks ground on 2nd ‘full-service’ EV charger, this time in Costa Mesa, CA
+
+date: 2025-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/rove-costa-mesa-rendering.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Rove, a company founded to improve the EV charging experience by building “full service” EV charging centers with access to amenities you can use while charging, has just broken ground on its 2nd charging center, to be open in October/November of this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-charging-stations,rove-charging" data-layer-viewtype="unknown" data-post-id="420986" href="https://electrek.co/2025/06/18/rove-breaks-ground-on-2nd-full-service-ev-charger-this-time-in-costa-mesa-ca/#more-420986" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/18/rove-breaks-ground-on-2nd-full-service-ev-charger-this-time-in-costa-mesa-ca/>
+
+---
+
+## Nissan confirms its first EV with ‘game-changer’ solid-state batteries is still on track
+
+date: 2025-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Nissan-first-EV-solid-state-batteries-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Nissan is betting big on solid-state batteries to help power up a comeback. The automaker says the next-gen battery tech will be a “game-changer for EVs,” promising more range, faster charging, and lower costs. <a href="https://electrek.co/guides/nissan/">Nissan</a> just confirmed its first EV with solid-state batteries is on track, but it may trail Toyota and Volkswagen to market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,solid-state-batteries,solid-state-battery" data-layer-viewtype="unknown" data-post-id="420971" href="https://electrek.co/2025/06/18/nissan-confirms-first-ev-with-solid-state-batteries-still-on-track/#more-420971" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/18/nissan-confirms-first-ev-with-solid-state-batteries-still-on-track/>
+
+---
+
+## SolarEdge batteries now qualify for up to $3,000 in OR and WA incentives
+
+date: 2025-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/SOlaredge-home-battery-2-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>SolarEdge just became a qualified home battery storage maker for Pacific Power’s new <a href="https://www.pacificpower.net/savings-energy-choices/wattsmart-battery-program.html" target="_blank" rel="noreferrer noopener">Wattsmart Battery Program</a>, which offers incentives for solar battery installations in Washington and Oregon.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,egeb,energy-brief,solar,oregon,solar-power,washington-state" data-layer-viewtype="unknown" data-post-id="420985" href="https://electrek.co/2025/06/18/solaredge-batteries-now-qualify-for-up-to-3000-in-or-and-wa-incentives/#more-420985" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/18/solaredge-batteries-now-qualify-for-up-to-3000-in-or-and-wa-incentives/>
 
 ---
 
@@ -29,7 +189,7 @@ date: 2025-06-18, from: Electrek Feed
 
 date: 2025-06-18, from: Inside EVs News
 
-Electric cars that have backup gas generators are now the fastest growing powertrain in the world. 
+Electric cars that have backup gas generators are now the fastest-growing powertrain in the world. 
 
 <br> 
 

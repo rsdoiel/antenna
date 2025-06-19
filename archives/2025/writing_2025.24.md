@@ -1,11 +1,58 @@
 ---
 title: writing
-updated: 2025-06-18 14:07:26
+updated: 2025-06-19 06:07:31
 ---
 
 # writing
 
-(date: 2025-06-18 14:07:26)
+(date: 2025-06-19 06:07:31)
+
+---
+
+## 2025 Le Guin Prize for Fiction Shortlist
+
+date: 2025-06-18, from: Locus Magazine
+
+<p>The Ursula K. Le Guin Literary Trust has announced the shortlist for the Ursula K. Le Guin Prize for Fiction, awarding a $25,000 cash prize &#8220;to the author of a book that reflects the concepts and ideas that were central to Ursula&#8217;s own work.&#8221;</p>
+<p>The eight shortlisted titles are:</p>
+<div class="nobullets">
+<ul>
+<li>
+<div><strong>Rakesfall</strong>, Vajra Chandrasekera (Tordotcom)</div>
+</li>
+<li>
+<div><strong>Archangels of Funk</strong>, Andrea Hairston (Tordotcom)</div>
+</li>
+<li>
+<div><strong>Blackheart Man</strong>, Nalo Hopkinson (Saga)</div>
+</li>
+<li>
+<div><strong>The Sapling Cage</strong></div></li></ul></div> <a href="https://locusmag.com/2025/06/2025-le-guin-prize-for-fiction-shortlist/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/06/2025-le-guin-prize-for-fiction-shortlist/>
+
+---
+
+## 2025 Sunburst Award Longlist
+
+date: 2025-06-18, from: Locus Magazine
+
+<p>The longlist for the 2025 Sunburst Award for Excellence in Canadian Literature of the Fantastic was announced June 17, 2025:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Mood Swings</strong>, Frankie Barnet (McClelland &#38; Stewart)</li>
+<li><strong>William</strong>, Mason Coile (G.P. Putnam&#8217;s Sons)</li>
+<li><strong>The Years Shall Run Like Rabbits</strong>, Ben Berman Ghan (Buckrider)</li>
+<li><strong>Bird Suit</strong>, Sydney Hegele (Invisible)</li>
+<li><strong>Blackheart Man</strong>, Nalo Hopkinson (Simon &#38; Schuster)</li>
+<li><strong>Code Noir</strong>, Canisia Lubrin (Knopf Canada)</li>
+<li><strong>Dayspring</strong>, Anthony </li></ul></div> <a href="https://locusmag.com/2025/06/2025-sunburst-award-longlist/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/06/2025-sunburst-award-longlist/>
 
 ---
 

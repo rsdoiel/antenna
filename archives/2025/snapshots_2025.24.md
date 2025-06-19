@@ -1,11 +1,144 @@
 ---
 title: snapshots
-updated: 2025-06-18 14:07:32
+updated: 2025-06-19 06:07:37
 ---
 
 # snapshots
 
-(date: 2025-06-18 14:07:32)
+(date: 2025-06-19 06:07:37)
+
+---
+
+## Bad Times for College Graduates
+
+date: 2025-06-19, from: Paul Krugman
+
+Where have all the jobs gone, and why does it matter? 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/bad-times-for-college-graduates>
+
+---
+
+## How big is the generational divide on climate change?
+
+date: 2025-06-19, from: Hannah Richie at Substack
+
+The generational divide on belief and concern about climate change is small; there are slightly bigger gaps in what to do about it. 
+
+<br> 
+
+<https://www.sustainabilitybynumbers.com/p/generational-gap-climate>
+
+---
+
+## 575. The Medici: The Bonfire of the Vanities (Part 4)
+
+date: 2025-06-19, from: This is history podcast
+
+<p>Following the death of Lorenzo the Magnificent, who was his Medici successor? Could he overcome the political turmoil and religious fervour in Florence, and rebuff the storm clouds of war gathering over his city with the approaching French army? How did this burgeoning catastrophe catapult the magnetic priest, Savonalrolla, to supreme power in Florence? Could [&#8230;]</p>
+<p>The post <a href="https://therestishistory.com/575-the-medici-the-bonfire-of-the-vanities-part-4-2/">575. The Medici: The Bonfire of the Vanities (Part 4)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
+ 
+
+<br> 
+
+<https://therestishistory.com/575-the-medici-the-bonfire-of-the-vanities-part-4-2/>
+
+---
+
+## 301: The Fifth Monotreme
+
+date: 2025-06-19, from: Fix the News
+
+Payangko! Plus, the High Seas Treaty inches closer, a ton of new marine protected areas, global child labour is falling, great news on reproductive rights in England and Wales, and for the first time ever - the south pole of the Sun.  
+
+<br> 
+
+<https://fixthenews.com/301-the-fifth-monotreme/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-19, from: Feed for Alt USDS)
+
+🚨 Our service members deserve better.
+
+Right now in Los Angeles, deployed service members are sleeping on the floor - without cots, clear orders, or even basic support.
+
+They signed up to serve during disasters, not to be props for political games.
+
+Read more ⤵️
+
+bit.ly/wtb-leadership
+https://bit.ly/wtb-leadership 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lrwfzt73fc2b>
+
+---
+
+## Quoting Workaccount2 on Hacker News
+
+date: 2025-06-18, updated: 2025-06-18, from: Simon Willison’s Weblog
+
+<blockquote cite="https://news.ycombinator.com/item?id=44308711#44310054"><p>They poison their own context. Maybe you can call it <strong>context rot</strong>, where as context grows and especially if it grows with lots of distractions and dead ends, the output quality falls off rapidly. Even with good context the rot will start to become apparent around 100k tokens (with Gemini 2.5).</p>
+<p>They really need to figure out a way to delete or "forget" prior context, so the user or even the model can go back and prune poisonous tokens.</p>
+<p>Right now I work around it by regularly making summaries of instances, and then spinning up a new instance with fresh context and feed in the summary of the previous instance.</p></blockquote>
+<p class="cite">&mdash; <a href="https://news.ycombinator.com/item?id=44308711#44310054">Workaccount2 on Hacker News</a>, coining "context rot"</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/long-context">long-context</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/18/context-rot/#atom-everything>
+
+---
+
+## 575. The Medici: The Bonfire of the Vanities (Part 4)
+
+date: 2025-06-18, from: This is history podcast
+
+<p>Following the death of Lorenzo the Magnificent, who was his Medici successor? Could he overcome the political turmoil and religious fervour in Florence, and rebuff the storm clouds of war gathering over his city with the approaching French army? How did this burgeoning catastrophe catapult the magnetic priest, Savonalrolla, to supreme power in Florence? Could [&#8230;]</p>
+<p>The post <a href="https://therestishistory.com/575-the-medici-the-bonfire-of-the-vanities-part-4/">575. The Medici: The Bonfire of the Vanities (Part 4)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
+ 
+
+<br> 
+
+<https://therestishistory.com/575-the-medici-the-bonfire-of-the-vanities-part-4/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-18, from: Dave Winer's linkblog)
+
+American liberators of Nazi camps got ‘a lifelong vaccine against extremism’ − their wartime experiences are a warning for today. 
+
+<br> 
+
+<https://theconversation.com/american-liberators-of-nazi-camps-got-a-lifelong-vaccine-against-extremism-their-wartime-experiences-are-a-warning-for-today-248813>
+
+---
+
+## Coding agents require skilled operators
+
+date: 2025-06-18, updated: 2025-06-18, from: Simon Willison’s Weblog
+
+<p>I wrote this recently in a conversation about whether coding agents can work as a replacement for human programmers.</p>
+<p>The "agentic" coding tools we have right now work like this:</p>
+<ol>
+<li>A skilled individual with both deep domain understanding and deep understanding of the capabilities of the agent (including understanding what tools are available to that agent) poses a clear task to it.</li>
+<li>The agent writes some code relating to that task. It runs a tool to execute and test that code. It inspects the result, and if there are errors it edits the code and tries again.</li>
+<li>It may call other tools as well, for example a search tool to find related code or even to look up API documentation elsewhere (including via web search).</li>
+<li>It continues like this until it hits a loosely defined “done” state or gets stuck.</li>
+<li>The skilled individual then reviews what it has done and almost always finds that it has not solved the problem to their satisfaction... so they apply their expertise and domain understanding to prompt it again to try and get to that desired state.</li>
+</ol>
+<p>Without the skilled individual, the “agent” is useless. It may as well not exist.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/18/coding-agents/#atom-everything>
 
 ---
 
@@ -823,6 +956,18 @@ Mike Lee Draws Outrage for Posts Blaming Minnesota Assassination on Far Left. Lo
 <br> 
 
 <https://www.nytimes.com/2025/06/16/us/politics/mike-lee-minnesota-assassination-democrats.html>
+
+---
+
+## the six-month recap: closing talk on AI at Web Directions, Melbourne, June 2025
+
+date: 2025-06-17, from: Geoffrey Hunntley's blog
+
+<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container"><div class="kg-gallery-row"><div class="kg-gallery-image"><img src="https://ghuntley.com/content/images/2025/06/DSC05410-Enhanced-NR-1.jpg" width="1920" height="1280" loading="lazy" alt srcset="https://ghuntley.com/content/images/size/w600/2025/06/DSC05410-Enhanced-NR-1.jpg 600w, https://ghuntley.com/content/images/size/w1000/2025/06/DSC05410-Enhanced-NR-1.jpg 1000w, https://ghuntley.com/content/images/size/w1600/2025/06/DSC05410-Enhanced-NR-1.jpg 1600w, https://ghuntley.com/content/images/2025/06/DSC05410-Enhanced-NR-1.jpg 1920w" sizes="(min-width: 720px) 720px"></div><div class="kg-gallery-image"><img src="https://ghuntley.com/content/images/2025/06/DSC05426-Enhanced-NR-1.jpg" width="1920" height="1280" loading="lazy" alt srcset="https://ghuntley.com/content/images/size/w600/2025/06/DSC05426-Enhanced-NR-1.jpg 600w, https://ghuntley.com/content/images/size/w1000/2025/06/DSC05426-Enhanced-NR-1.jpg 1000w, https://ghuntley.com/content/images/size/w1600/2025/06/DSC05426-Enhanced-NR-1.jpg 1600w, https://ghuntley.com/content/images/2025/06/DSC05426-Enhanced-NR-1.jpg 1920w" sizes="(min-width: 720px) 720px"></div><div class="kg-gallery-image"><img src="https://ghuntley.com/content/images/2025/06/DSC05428-Enhanced-NR-1.jpg" width="1920" height="1280" loading="lazy" alt srcset="https://ghuntley.com/content/images/size/w600/2025/06/DSC05428-Enhanced-NR-1.jpg 600w, https://ghuntley.com/content/images/size/w1000/2025/06/DSC05428-Enhanced-NR-1.jpg 1000w, https://ghuntley.com/content/images/size/w1600/2025/06/DSC05428-Enhanced-NR-1.jpg 1600w, https://ghuntley.com/content/images/2025/06/DSC05428-Enhanced-NR-1.jpg 1920w" sizes="(min-width: 720px) 720px"></div></div><div class="kg-gallery-row"><div class="kg-gallery-image"><img src="https://ghuntley.com/content/images/2025/06/DSC05418-Enhanced-NR-1.jpg" width="1920" height="1280" loading="lazy" alt srcset="https://ghuntley.com/content/images/size/w600/2025/06/DSC05418-Enhanced-NR-1.jpg 600w, https://ghuntley.com/content/images/size/w1000/2025/06/DSC05418-Enhanced-NR-1.jpg 1000w, https://ghuntley.com/content/images/size/w1600/2025/06/DSC05418-Enhanced-NR-1.jpg 1600w, https://ghuntley.com/content/images/2025/06/DSC05418-Enhanced-NR-1.jpg 1920w" sizes="(min-width: 720px) 720px"></div><div class="kg-gallery-image"><img src="https://ghuntley.com/content/images/2025/06/DSC05430-Enhanced-NR-1.jpg" width="1920" height="1280" loading="lazy" alt srcset="https://ghuntley.com/content/images/size/w600/2025/06/DSC05430-Enhanced-NR-1.jpg 600w, https://ghuntley.com/content/images/size/w1000/2025/06/DSC05430-Enhanced-NR-1.jpg 1000w, https://ghuntley.com/content/images/size/w1600/2025/06/DSC05430-Enhanced-NR-1.jpg 1600w, https://ghuntley.com/content/images/2025/06/DSC05430-Enhanced-NR-1.jpg 1920w" sizes="(min-width: 720px) 720px"></div><div class="kg-gallery-image"><img src="https://ghuntley.com/content/images/2025/06/DSC05421-Enhanced-NR-1.jpg" width="1536" height="1920" loading="lazy" alt srcset="https://ghuntley.com/content/images/size/w600/2025/06/DSC05421-Enhanced-NR-1.jpg 600w, https://ghuntley.com/content/images/size/w1000/2025/06/DSC05421-Enhanced-NR-1.jpg 1000w, https://ghuntley.com/content/images/2025/06/DSC05421-Enhanced-NR-1.jpg 1536w" sizes="(min-width: 720px) 720px"></div></div><div class="kg-gallery-row"><div class="kg-gallery-image"><img src="https://ghuntley.com/content/images/2025/06/DSC05416-Enhanced-NR-1.jpg" width="1536" height="1920" loading="lazy" alt srcset="https://ghuntley.com/content/images/size/w600/2025/06/DSC05416-Enhanced-NR-1.jpg 600w, https://ghuntley.com/content/images/size/w1000/2025/06/DSC05416-Enhanced-NR-1.jpg 1000w, https://ghuntley.com/content/images/2025/06/DSC05416-Enhanced-NR-1.jpg 1536w" sizes="(min-width: 720px) 720px"></div><div class="kg-gallery-image"><img src="https://ghuntley.com/content/images/2025/06/DSC05436-Enhanced-NR-1.jpg" width="1536" height="1920" loading="lazy" alt srcset="https://ghuntley.com/content/images/size/w600/2025/06/DSC05436-Enhanced-NR-1.jpg 600w, https://ghuntley.com/content/images/size/w1000/2025/06/DSC05436-Enhanced-NR-1.jpg 1000w, https://ghuntley.com/content/images/2025/06/DSC05436-Enhanced-NR-1.jpg 1536w" sizes="(min-width: 720px) 720px"></div></div></div></figure><blockquote>Welcome back to our final session at WebDirections. We&apos;re definitely on the glide path&#x2014;though I&apos;m not sure if we&apos;re smoothly landing, about to hit turbulence, or perhaps facing a go-around. We&apos;ll see how it unfolds. Today, I&apos;m excited</blockquote> 
+
+<br> 
+
+<https://ghuntley.com/six-month-recap/>
 
 ---
 

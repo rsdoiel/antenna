@@ -1,11 +1,185 @@
 ---
 title: socal north
-updated: 2025-06-18 14:07:22
+updated: 2025-06-19 06:07:27
 ---
 
 # socal north
 
-(date: 2025-06-18 14:07:22)
+(date: 2025-06-19 06:07:27)
+
+---
+
+## LA has spent nearly $20 million in response to protests so far
+
+date: 2025-06-19, updated: 2025-06-19, from: The LAist
+
+More than $11 million has been spent on LAPD overtime alone. 
+
+<br> 
+
+<https://laist.com/news/politics/la-spends-nearly-20-million-in-response-to-protests>
+
+---
+
+## LAPD’s use of officers on horseback during protests draws complaints about use of force
+
+date: 2025-06-19, updated: 2025-06-19, from: The LAist
+
+Critics say the department has a history of using horses to "charge" at people and batons to strike at them. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/lapd-officers-on-horseback-protests-complaints-use-of-force>
+
+---
+
+## Two Filipino bakeries with a modern spin find their home in SoCal
+
+date: 2025-06-19, updated: 2025-06-19, from: The LAist
+
+These new Filipino bakeries are putting a modern spin on their baking traditions. 
+
+<br> 
+
+<https://laist.com/news/food/two-filipino-bakeries-with-a-modern-spin-find-their-home-in-socal>
+
+---
+
+## A judge is deciding whether to seize control of LA homeless spending. 5 things to know
+
+date: 2025-06-19, updated: 2025-06-19, from: The LAist
+
+Recent court drama follows five years of disputes between the L.A. Alliance for Human Rights and the city. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/a-judge-is-deciding-whether-to-seize-control-of-la-homeless-spending-5-things-to-know>
+
+---
+
+## Truck driver run over by his own semi when it’s rear-ended, Long Beach police say
+
+date: 2025-06-19, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912.jpg 2000w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-450x300.jpg 450w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-1110x740.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-1536x1023.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-2048x1364.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-1320x880.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The driver was killed in the accident on Pier T Avenue, police said.</p>
+<p>The post <a href="https://lbpost.com/news/truck-driver-run-over-by-his-own-semi-when-its-rear-ended-long-beach-police-say">Truck driver run over by his own semi when it’s rear-ended, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/truck-driver-run-over-by-his-own-semi-when-its-rear-ended-long-beach-police-say>
+
+---
+
+## How the Israel-Iran war is hitting close to home for many Southern Californians with ties to both countries
+
+date: 2025-06-18, updated: 2025-06-19, from: The LAist
+
+A bomb alert and wondering if family members are safe — while driving on the 110 Freeway. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/how-israel-iran-war-is-hitting-close-to-home-for-many-southern-californians>
+
+---
+
+## Santa Ana leader says city police officers shot at him using rubber bullets during ICE protests
+
+date: 2025-06-18, updated: 2025-06-18, from: The LAist
+
+Activists say Santa Ana needs to start acting like the "sanctuary city" it claims to be. 
+
+<br> 
+
+<https://laist.com/news/politics/santa-ana-city-council-criticized-for-failing-to-protect-residents>
+
+---
+
+## Mother of US citizen taken by ICE in Pico Rivera still searching for son
+
+date: 2025-06-18, updated: 2025-06-18, from: The LAist
+
+According to his mother, Myra Martinez says her son, Adrian Andrew Martinez, 20, was tackled and forcibly detained by several ICE agents in a parking lot near. 
+
+<br> 
+
+<https://laist.com/news/mother-of-us-citizen-taken-by-ice-in-pico-rivera-still-searching-for-son>
+
+---
+
+## Millions are returned to taxpayers after judge finalizes forfeit of assets tied to OC corruption scandal
+
+date: 2025-06-18, updated: 2025-06-18, from: The LAist
+
+$2.4 million in bank accounts and and two properties — including a house bought by former Supervisor Andrew Do’s daughter — were ordered immediately transferred to the control of the U.S. government. 
+
+<br> 
+
+<https://laist.com/news/politics/andrew-do-corruption-case-judge-orders-asset-forfeit>
+
+---
+
+## LA Zoo welcomes 10 California condor chicks. Here's how to see them
+
+date: 2025-06-18, updated: 2025-06-18, from: The LAist
+
+Visitors can see the hatchlings before some of them are released into the wild as part of an international recovery program. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-zoo-california-condor-chicks-how-to-see-them>
+
+---
+
+## Prosecutors call the SoCal jewelry heist the largest in US history. Here's what to know
+
+date: 2025-06-18, updated: 2025-06-18, from: The LAist
+
+A federal indictment accuses seven Californians of stealing approximately $100 million worth of gold, precious gems and luxury watches from an armored semitruck leaving a jewelry show in 2022. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/prosecutors-call-the-socal-jewelry-heist-the-largest-in-us-history-heres-what-to-know>
+
+---
+
+## Downtown LA residents and businesses deal with fallout from weeklong curfew
+
+date: 2025-06-18, updated: 2025-06-19, from: The LAist
+
+A June 15 survey of some downtown L.A. residents and businesses showed that most wanted curfew to end. 
+
+<br> 
+
+<https://laist.com/news/transportation/dtla-downtown-curfew-ice-immigration-karen-bass>
+
+---
+
+## Report: Buss family is selling majority stake in Lakers
+
+date: 2025-06-18, updated: 2025-06-18, from: The LAist
+
+The reported deal with Dodgers chairman Mark Walter is worth $10 billion. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/buss-family-reportedly-selling-majority-stake-in-lakers>
+
+---
+
+## Long Beach City Council votes to mandate more staffing at self-checkout lanes
+
+date: 2025-06-18, from: Longbeach Post
+
+<figure><img width="1024" height="789" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-1024x789.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-1024x789.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-300x231.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-768x592.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-140x108.jpg 140w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-400x308.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The city will soon require grocery and drug stores to staff a minimum number of employees at self-checkout counters. They say the move will deter theft.</p>
+<p>The post <a href="https://lbpost.com/news/self-checkout-staffing-minimum-law-long-beach">Long Beach City Council votes to mandate more staffing at self-checkout lanes</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/self-checkout-staffing-minimum-law-long-beach>
 
 ---
 
@@ -13,7 +187,7 @@ updated: 2025-06-18 14:07:22
 
 date: 2025-06-18, from: Longbeach Post
 
-<figure><img width="1024" height="580" src="https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731.jpg 2000w, https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731-530x300.jpg 530w, https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731-1110x629.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731-768x435.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731-1536x870.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731-2048x1160.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731-1320x748.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="580" src="https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731.jpg 2000w, https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731-530x300.jpg 530w, https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731-1110x629.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731-768x435.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731-1536x870.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731-2048x1160.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/11/01125515/LBCC-PCC-structure_7731-1320x748.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Roughly 1,200 adjuncts who brought a class-action lawsuit against LBCC in 2022 are preparing for mediation to resolve claims of lost pay.</p>
 <p>The post <a href="https://lbpost.com/news/education/community-college-adjunct-professors-optimistic-as-two-lawsuits-over-pay-progress">Community college adjunct professors optimistic as two lawsuits over pay progress</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -100,7 +274,7 @@ Head out on a bike ride, check out a museum exhibition or improv show — all in
 
 date: 2025-06-18, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>He was arrested on suspicion of kidnapping and assault with intent to commit rape.</p>
 <p>The post <a href="https://lbpost.com/news/crime/long-beach-man-dragged-84-year-old-to-alley-as-he-tried-to-sexually-assault-her-santa-monica-police-say">Long Beach man dragged 84-year-old to alley as he tried to sexually assault her, Santa Monica police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

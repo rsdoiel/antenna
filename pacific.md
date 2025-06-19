@@ -1,11 +1,330 @@
 ---
 title: pacific
-updated: 2025-06-18 14:07:23
+updated: 2025-06-19 06:07:28
 ---
 
 # pacific
 
-(date: 2025-06-18 14:07:23)
+(date: 2025-06-19 06:07:28)
+
+---
+
+## Thunder one win from title, expect ‘best punch’ from Pacers in Game 6
+
+date: 2025-06-19, from: Hawaii Tribune Harold
+
+
+				<p>One win away from the first NBA title in franchise history, Oklahoma City Thunder coach Mark Daigneault believes preparation for Game 6 of the Finals on Thursday night at Indianapolis boils down to how the other sneaker fits.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/19/nation-world-news/thunder-one-win-from-title-expect-best-punch-from-pacers-in-game-6/>
+
+---
+
+## For Tennessee’s transgender families, the court ruling was bitter, but expected
+
+date: 2025-06-19, from: Hawaii Tribune Harold
+
+
+				<p>NASHVILLE, Tenn. &#8212; There had been cause for joy this June. There were events timed with Pride Month, when families and friends gathered with rainbow tattoos and flags for the annual celebration of LGBTQ+ life. And there was an unexpected legal victory when a federal judge extended a temporary injunction on a federal policy requiring passports to reflect the sex on a person&#8217;s original birth certificate.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/19/nation-world-news/for-tennessees-transgender-families-the-court-ruling-was-bitter-but-expected/>
+
+---
+
+## Pedestrian in critical condition after crash in Hilo
+
+date: 2025-06-19, from: Hawaii Tribune Harold
+
+
+				<p>A 60-year-old Ocean View man is in critical condition following a single motor vehicle/pedestrian collision that occurred Wednesday near the area of Kinoole Street and Ponahawai Street in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/19/hawaii-news/pedestrian-in-critical-condition-after-crash-in-hilo/>
+
+---
+
+## Officials tout gains in wildfire readiness
+
+date: 2025-06-19, from: Hawaii Tribune Harold
+
+
+				<p>The devastating Maui wildfires of August 2023 motivated legislators to fund improvements in firefighting equipment and personnel preparedness, officials said Wednesday at a press conference in Lihue, Kauai.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/19/hawaii-news/officials-tout-gains-in-wildfire-readiness/>
+
+---
+
+## Trump faces uproar from MAGA base over possible Iran strike
+
+date: 2025-06-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The prospect of a U.S. strike against Iran has exposed divisions in the coalition of supporters that brought President Donald Trump to power, with some of his base urging him not to get the country involved in a new Middle East war.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/19/nation-world-news/trump-faces-uproar-from-maga-base-over-possible-iran-strike/>
+
+---
+
+## Trump keeps world guessing about US military action against Iran
+
+date: 2025-06-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/DUBAI/JERUSALEM &#8212; President Donald Trump kept the world guessing about whether the United States will join Israel&#8217;s bombardment of Iranian nuclear sites as the Israel-Iran conflict entered its seventh day on Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/19/nation-world-news/trump-keeps-world-guessing-about-us-military-action-against-iran/>
+
+---
+
+## US Social Security, Medicare to run short of funds in 2033, trustees say
+
+date: 2025-06-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Social Security and Medicare programs for older people will both run short of funds to pay full benefits in 2033, three years sooner than last year&#8217;s estimate for the Medicare Hospital Insurance Fund, their annual trustees&#8217; reports showed on Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/19/nation-world-news/us-social-security-medicare-to-run-short-of-funds-in-2033-trustees-say/>
+
+---
+
+## Fed keeps rates steady but pencils in two cuts by end of 2025; Powell sees ‘meaningful’ inflation ahead
+
+date: 2025-06-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. central bank held interest rates steady on Wednesday and policymakers signaled borrowing costs are still likely to fall in 2025, but Federal Reserve Chair Jerome Powell cautioned against putting too much weight on that view, and said he expects &#8220;meaningful&#8221; inflation ahead as consumers pay more for goods due to the Trump administration&#8217;s planned import tariffs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/19/nation-world-news/fed-keeps-rates-steady-but-pencils-in-two-cuts-by-end-of-2025-powell-sees-meaningful-inflation-ahead/>
+
+---
+
+## US Senate Democrats demand Kennedy explain canceling bird flu vaccine contract
+
+date: 2025-06-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. Senate Democrats demanded on Wednesday Health Secretary Robert F. Kennedy Jr. make public the reviews on which his department said it based its decision to cancel a contract for developing a bird flu vaccine. President Donald Trump&#8217;s administration last month canceled a $590-million contract awarded to Moderna in January by outgoing President Joe Biden&#8217;s administration for the late-stage development of its bird flu vaccine for humans, as well as the right to purchase shots.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/19/nation-world-news/us-senate-democrats-demand-kennedy-explain-canceling-bird-flu-vaccine-contract/>
+
+---
+
+## Big Island reserves to temporarily close for animal control activities
+
+date: 2025-06-19, from: Hawaii Tribune Harold
+
+
+				<p>Animal control activities targeting feral goats, feral sheep and mouflon/feral sheep hybrids are scheduled for July 1-2 on Hawaii Island.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/19/community/big-island-reserves-to-temporarily-close-for-animal-control-activities/>
+
+---
+
+## Hilo Hawaiian Hotel joins Wyndham brand
+
+date: 2025-06-19, from: Hawaii Tribune Harold
+
+
+				<p>The Hilo Hawaiian Hotel has officially joined the Trademark Collection by Wyndham, becoming the first property in Hawaii to be part of the global hotel brand, Castle Resorts &#38;Hotels announced Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/19/community/hilo-hawaiian-hotel-joins-wyndham-brand/>
+
+---
+
+## Hawaii Rise Foundation awards over $50K in scholarships to Big Island students
+
+date: 2025-06-19, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Rise Foundation, alongside its community partners, recently awarded over $50,000 in scholarships to Hawaii Island students through its annual scholarship program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/19/community/hawaii-rise-foundation-awards-over-50k-in-scholarships-to-big-island-students/>
+
+---
+
+## Police celebrate DARE grads in East Hawaii
+
+date: 2025-06-19, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Police Department and its school resource officers would like to congratulate the 2025 graduates of the Drug Abuse Resistance Education program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/19/community/police-celebrate-dare-grads-in-east-hawaii/>
+
+---
+
+## News in brief for June 19
+
+date: 2025-06-19, from: Hawaii Tribune Harold
+
+
+				<p>US drops guidance to limit alcohol to &#0010;1 or 2 drinks a day</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/19/nation-world-news/news-in-brief-for-june-19/>
+
+---
+
+## Nauru seeks to become a hub for blockchain industry with the launch of digital asset regulator
+
+date: 2025-06-19, from: Pacific Island Times
+
+The Command Ridge Virtual Asset Authority—named after the highest point of land in the country—will govern virtual assets, digital banking and blockchain technologies.
+
+ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/nauru-seeks-to-become-a-hub-for-blockchain-industry-with-the-launch-of-digital-asset-regulator>
+
+---
+
+## Explainer: Why has New Zealand paused funding to the Cook Islands over China deal?
+
+date: 2025-06-19, from: 
+
+New Zealand has halted more than $18 million in development assistance to its realm country. But the island's prime minister said his government was "aware" it was coming. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564618/explainer-why-has-new-zealand-paused-funding-to-the-cook-islands-over-china-deal>
+
+---
+
+## Mental health must be a business priority in the Pacific Islands
+
+date: 2025-06-19, from: Pacific Island Times
+
+Surveys show just 25 percent of Asian American–Pacific Islander workers say they’re comfortable talking to their manager about mental health at work, and only 35 percent feel safe discussing it with co‑workers. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/mental-health-must-be-a-business-priority-in-the-pacific-islands>
+
+---
+
+## Pacific news in brief for 19 June
+
+date: 2025-06-19, from: 
+
+A round-up of news from around the region, including a mining company in PNG celebrating achieving its production targets, despite the impact of continuing lawlessness. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564629/pacific-news-in-brief-for-19-june>
+
+---
+
+## NZ Rugby says it isn't blocking Pacific heritage players from representing island nations
+
+date: 2025-06-19, from: 
+
+The union made the comment following claims from the Flying Fijians head coach that some Super Rugby contracts include clauses requiring players to remain eligible for the All Blacks. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564626/nz-rugby-says-it-isn-t-blocking-pacific-heritage-players-from-representing-island-nations>
+
+---
+
+## The Business Policy Review Commission: A promise in action
+
+date: 2025-06-19, from: Pacific Island Times
+
+This is the guiding principle behind the Business Policy Review Commission, a body formed in alignment with the 38th Guam Legislature’s promise to engage and include the community more in policy discussions and legislative action. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-business-policy-review-commission-a-promise-in-action>
+
+---
+
+## How co-ops are feeding Hawaiʻi, UH hosts first ever gathering of cooperatives
+
+date: 2025-06-18, from: University of Hawaiʻi News
+
+<p><abbr>CTAHR</abbr> Professor Noa Lincoln helped organize an inaugural event that brought together more than 40 cooperative ventures, many focused on agriculture.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/18/how-co-ops-are-feeding-hawaii/">How co-ops are feeding Hawaiʻi, <abbr>UH</abbr> hosts first ever gathering of cooperatives</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/18/how-co-ops-are-feeding-hawaii/>
+
+---
+
+## Reinforcing the links between the law and Pacific fisheries' sectors
+
+date: 2025-06-18, from: 
+
+Justice experts and fisheries officials from throughout the Pacific are gathered in Honiara to discuss the importance of links between the two sectors. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564603/reinforcing-the-links-between-the-law-and-pacific-fisheries-sectors>
+
+---
+
+## Papua New Guinea's electoral integrity under scrutiny ahead of 2027 polls
+
+date: 2025-06-18, from: 
+
+A new report has called for immediate reforms of electoral boundaries before the 2027 National General Election after identifying significant breaches of law. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564563/papua-new-guinea-s-electoral-integrity-under-scrutiny-ahead-of-2027-polls>
+
+---
+
+## Pro-independence advocates urge Melanesian Spearhead Group to elevate ULMWP membership
+
+date: 2025-06-18, from: 
+
+The international organisations want the Melanesian Spearhead Group to elevate the membership status of the United Liberation Movement for West Papua. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564583/pro-independence-advocates-urge-melanesian-spearhead-group-to-elevate-ulmwp-membership>
 
 ---
 
@@ -55,18 +374,6 @@ The post <a href="https://www.hawaii.edu/news/2025/06/18/new-technology-systemwi
 <br> 
 
 <https://www.hawaii.edu/news/2025/06/18/new-technology-systemwide-student-support/>
-
----
-
-## Papua New Guinea's electoral integrity under scrutiny ahead of 2027 polls
-
-date: 2025-06-18, from: 
-
-A new report has called for immediate reforms of electoral boundaries before the 2027 National General Election after identifying significant breaches of law. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/564563/papua-new-guinea-s-electoral-integrity-under-scrutiny-ahead-of-2027-polls>
 
 ---
 
@@ -329,6 +636,20 @@ date: 2025-06-18, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/06/18/nation-world-news/news-in-brief-for-june-18/>
+
+---
+
+## Penn’s criminal charges move to Circuit Court
+
+date: 2025-06-18, from: Hawaii Tribune Harold
+
+
+				<p>BJ Penn&#8217;s misdemeanor criminal charges will be heard in Hilo Circuit Court, where he can receive a jury trial if he chooses &#8212; an option unavailable in family court.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/18/hawaii-news/penns-criminal-charges-move-to-circuit-court/>
 
 ---
 

@@ -1,11 +1,191 @@
 ---
 title: science and technology
-updated: 2025-06-18 14:07:24
+updated: 2025-06-19 06:07:29
 ---
 
 # science and technology
 
-(date: 2025-06-18 14:07:24)
+(date: 2025-06-19 06:07:29)
+
+---
+
+## ESA's XMM-Newton finds huge filament of missing matter
+
+date: 2025-06-19, updated: 2025-06-19, from: The Register (UK I.T. News)
+
+<h4>Veteran X-ray telescope discovery shows that... phew, current model of the cosmos still works</h4> <p>Astronomers have found a filament of hot gas, ten times as massive as our galaxy, that they reckon could explain where at least some of the universe&#39;s &#34;missing&#34; matter might be lurking.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/19/esas_xmmnewton_finds_filaments/>
+
+---
+
+## UK gov asks university boffins to pinpoint cyber growth areas where it should splash cash
+
+date: 2025-06-19, updated: 2025-06-19, from: The Register (UK I.T. News)
+
+<h4>Good to see government that values its academics (cough cough). Plus: New board criticized for lacking &#39;ops&#39; people</h4> <p>Cybersecurity experts have started a formal review into the UK cybersecurity market, at the government&#39;s request, to identify future growth opportunities as it looks to grow the industry that&#39;s core to the country&#39;s Industrial Strategy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/19/uk_gov_asks_university_boffins/>
+
+---
+
+## SpaceX's Starship explodes again ... while still on the ground
+
+date: 2025-06-19, updated: 2025-06-19, from: The Register (UK I.T. News)
+
+<h4>Test fire trouble means Musk&#39;s rocketeers reset the &#39;days since Starship had a major anomaly&#39; counter to zero</h4> <p>SpaceX has made excellent progress with its Starship rocket. The stainless steel vehicle can now explode before even leaving the Earth.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/19/spacexs_starship_explodes_again/>
+
+---
+
+## /e/ OS 3.0: Slightly less clunky, slightly more private
+
+date: 2025-06-19, updated: 2025-06-19, from: The Register (UK I.T. News)
+
+<h4>Probably the easiest way to a Google-free smartphone or tablet</h4> <p>Murena&#39;s /e/ OS is arguably the most mainstream de-Googled Android OS, and the new version catches up with important features.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/19/murena_e_os_3/>
+
+---
+
+## Space manufacturing company Varda gets clearance to launch more unmanned rockets
+
+date: 2025-06-19, updated: 2025-06-19, from: The Register (UK I.T. News)
+
+<h4>Startup has already shown how to make drugs in space</h4> <p>America&#39;s aviation regulator has issued its first license for unmanned spacecraft to reenter the Earth&#39;s atmosphere to Varda, a startup that&#39;s trying to build a space-based manufacturing business.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/19/varda_gets_faa_reentry_license/>
+
+---
+
+## Europe slams online tat bazaar AliExpress for dodging obligation to stop dodgy traders
+
+date: 2025-06-19, updated: 2025-06-19, from: The Register (UK I.T. News)
+
+<h4>Illegal products abound on Chinese site and its processes to stop ‘em are hopeless</h4> <p>The European Commission has found Chinese e-tail giant AliExpress in breach of its obligation to assess and mitigate risks related to the dissemination of illegal products as required under the Digital Services Act (DSA).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/19/ec_aliexpress_investigation_finds_failings/>
+
+---
+
+## Sneaky Serpentine#Cloud slithers through Cloudflare tunnels to inject orgs with Python-based malware
+
+date: 2025-06-19, updated: 2025-06-19, from: The Register (UK I.T. News)
+
+<h4>Phishing, Python and RATs, oh my</h4> <p>A sneaky malware campaign slithers through Cloudflare tunnel subdomains to execute in-memory malicious code and give unknown attackers long-term access to pwned machines.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/19/sneaky_serpentinecloud_slithers_through_cloudflare/>
+
+---
+
+## Microsoft testing PC-to-Cloud-PC failover for those times your machine dies or disappears
+
+date: 2025-06-19, updated: 2025-06-19, from: The Register (UK I.T. News)
+
+<h4>‘Windows 365 Reserve’ will be usable ten days a year for undisclosed fee</h4> <p>Microsoft has announced a preview of “Windows 365 Reserve”, a service that provides pre-configured cloud PCs it suggests as ideal when physical machines aren’t usable.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/19/microsoft_windows_365_reserve/>
+
+---
+
+## Iran’s internet goes offline for hours amid claims of ‘enemy abuse’
+
+date: 2025-06-19, updated: 2025-06-19, from: The Register (UK I.T. News)
+
+<h4>Bank and crypto outfits hit after Israeli commander mentioned attacks expanding to ‘other areas’</h4> <p>The government of Iran appears to have shut down the internet within its borders, perhaps in response to Israel-linked cyberattacks.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/19/iran_internet_outage/>
+
+---
+
+## Nvidia bets on Gates-backed nuclear startup to keep its AI ambitions from melting down
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>$650M funding round aims to bring TerraPower&#39;s Natrium power plant in Wyoming online by 2030</h4> <p>Datacenter operators’ desire for cheap and clean energy to power their facilities has led to renewed interest in nuclear energy and small modular reactors (SMRs) – a tech Nvidia has just decided is worthy of investment.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/nvidia_ai_smr_investment/>
+
+---
+
+## Military-tech upstart Anduril pushes further into NATO with German arms maker deal
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>Move fast and blow things up</h4> <p>Silicon Valley-backed weapons maker Anduril and German armaments biz Rheinmetall have signed a deal to see US-designed drones and missiles integrated into European military platforms.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/anduril_rheinmetall_drones/>
+
+---
+
+## Liberux Nexx: a Linux smartphone built in Europe
+
+date: 2025-06-18, from: OS News
+
+With the possibility that Google is going to make some big changes to the open source status of Android, the importance of smartphones that don&#8217;t run either iOS or (some form of) Android is definitely increasing. Linux on smartphones is not as complete as iOS or Android, and I personally think one of the primary reasons for that is a lack of easy access to devices that don&#8217;t require manual installation or other forms of hackery, only to then end up with a partially supported device because the device in question was never originally designed to run regular Linux. A few companies are trying to change this, developing Linux-first smartphones instead. One of the newcomers here is Liberux, a Spanish company who just unveiled the crowdfunding campaign for their Liberux Nexx, a Debian-powered smartphone with excellent specifications and some unique additions you won&#8217;t find on any other smartphone. It&#8217;s powered by an octa-core Rockchip RK3588S (four Cortex-A76 cores and four Cortex-A55 cores up to 2.4 GHz), 32 GB LPDDR4x RAM, tons of expendable storage, and a 6.34″ 2400×1080 OLED display. At the top of the device sit something you won&#8217;t find on many other smartphones: dedicated hardware switches to physically cut power to the modem, Wi-Fi/Bluetooth chip, and the microhone/camera array. When all three switches are disabled, a number of other features, like GPS and sensors, are also turned off. On top of all this, various internal components are designed to be replaceable and possibly even upgradeable, with manufacturing of the device taking place in Europe &#8211; which probably refers to assembly, but still. The device is supposed to become open source, too. It will run Debian 13 with a customised version of the mobile GNOME Shell using a standard Linux kernel. Android applications will also be supported using Waydroid, which you&#8217;ll most likely have to rely on for things like banking and other application categories exclusive to iOS and Android. Liberux promises that any development done on both the Linux distribution and other related applications will be done openly, which is something we can hold them to quite easily. I&#8217;m always weary of crowdfunding campaigns, and all the usual caveats, warnings, and concerns still apply here. I&#8217;m highlighting this campaign because I feel like many of the kinds of people who read OSNews are longing for a modern, capable smartphone that runs not iOS or Android, but proper Linux, even if Linux on smartphones isn&#8217;t quite there yet to go toe-to-toe with the two duopolists. For more information on the device and the people involved, be sure to read LINMOB.net&#8217;s excellent interview with Liberux. Liberux has told me they want to send over a review device once development has reached a point where that&#8217;s possible. So, assuming the crowdfunding campaign is successful, you can look forward to a review of the Liberux Nexx on OSNews somewhere between now and mid-2026. 
+
+<br> 
+
+<https://www.osnews.com/story/142605/liberux-nexx-a-linux-smartphone-built-in-europe/>
+
+---
+
+## Brain activity much lower when using AI chatbots, MIT boffins find
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>EEG and recall tests suggest people who use ChatGPT to write essays aren&#39;t learning much</h4> <p>Using AI chatbots actually reduces activity in the brain versus accomplishing the same tasks unaided, and may lead to poorer fact retention, according to a new preprint study out of MIT.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/is_ai_changing_our_brains/>
+
+---
+
+## Minecraft cheaters never win ... but they may get malware
+
+date: 2025-06-18, updated: 2025-06-18, from: The Register (UK I.T. News)
+
+<h4>Infostealers posing as popular cheat tools are cropping up on GitHub</h4> <p>Trojanized Minecraft cheat tools hosted on GitHub have secretly installed stealers that siphon credentials, crypto wallets, and other sensitive data when executed by players.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/18/minecraft_mod_malware/>
+
+---
+
+## Curiosity Blog, Sols 4573-4574: Welcome to the Uyuni Quad
+
+date: 2025-06-18, from: NASA breaking news
+
+Written by Lauren Edgar, Planetary Geologist at USGS Astrogeology Science Center Earth planning date: Monday, June 16, 2025 Over the weekend Curiosity successfully wrapped up activities at the “Altadena” drill site and got back on the road. The approximately 48-meter drive (about 157 feet) was successful, and placed the rover in the next mapping quadrangle […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4573-4574-welcome-to-the-uyuni-quad/>
 
 ---
 

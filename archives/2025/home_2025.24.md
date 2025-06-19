@@ -1,11 +1,201 @@
 ---
 title: home
-updated: 2025-06-18 14:07:28
+updated: 2025-06-19 06:07:33
 ---
 
 # home
 
-(date: 2025-06-18 14:07:28)
+(date: 2025-06-19 06:07:33)
+
+---
+
+## 35 Common Birds in Louisiana (With Pictures and Identification)
+
+date: 2025-06-19, from: Yard Life blog
+
+<p>Louisiana hosts a rich variety of bird species, making it a favorite destination for birdwatchers and outdoor enthusiasts. The state’s ... </p>
+<p class="read-more-container"><a title="35 Common Birds in Louisiana (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/35-common-birds-in-louisiana-with-pictures-and-identification/#more-30576" aria-label="Read more about 35 Common Birds in Louisiana (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/35-common-birds-in-louisiana-with-pictures-and-identification/">35 Common Birds in Louisiana (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/35-common-birds-in-louisiana-with-pictures-and-identification/>
+
+---
+
+## 20 Wild Animals in South Dakota (With Pictures and Identification)
+
+date: 2025-06-19, from: Yard Life blog
+
+<p>South Dakota is home to a wide range of wild animals, thanks to its diverse habitats that include prairies, forests, ... </p>
+<p class="read-more-container"><a title="20 Wild Animals in South Dakota (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/20-wild-animals-in-south-dakota-with-pictures-and-identification/#more-30558" aria-label="Read more about 20 Wild Animals in South Dakota (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-wild-animals-in-south-dakota-with-pictures-and-identification/">20 Wild Animals in South Dakota (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-wild-animals-in-south-dakota-with-pictures-and-identification/>
+
+---
+
+## 13 Parrots in California (With Pictures and Identification)
+
+date: 2025-06-19, from: Yard Life blog
+
+<p>Parrots in California have become a fascinating and colorful part of the state’s urban wildlife. Though many species are not ... </p>
+<p class="read-more-container"><a title="13 Parrots in California (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/13-parrots-in-california-with-pictures-and-identification/#more-30535" aria-label="Read more about 13 Parrots in California (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/13-parrots-in-california-with-pictures-and-identification/">13 Parrots in California (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/13-parrots-in-california-with-pictures-and-identification/>
+
+---
+
+## 6 Types of Weasels in Minnesota (With Pictures and Identification)
+
+date: 2025-06-19, from: Yard Life blog
+
+<p>Minnesota has many kinds of weasels. These small animals live in forests, fields, and near water. The types of weasels ... </p>
+<p class="read-more-container"><a title="6 Types of Weasels in Minnesota (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/6-types-of-weasels-in-minnesota-with-pictures-and-identification/#more-30518" aria-label="Read more about 6 Types of Weasels in Minnesota (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/6-types-of-weasels-in-minnesota-with-pictures-and-identification/">6 Types of Weasels in Minnesota (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/6-types-of-weasels-in-minnesota-with-pictures-and-identification/>
+
+---
+
+## 25 Common Birds in Vermont (With Pictures and Identification)
+
+date: 2025-06-19, from: Yard Life blog
+
+<p>Vermont’s diverse forests, wetlands, and open meadows make it a haven for birdwatchers throughout the year. From vibrant warblers in ... </p>
+<p class="read-more-container"><a title="25 Common Birds in Vermont (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/25-common-birds-in-vermont-with-pictures-and-identification/#more-30510" aria-label="Read more about 25 Common Birds in Vermont (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/25-common-birds-in-vermont-with-pictures-and-identification/">25 Common Birds in Vermont (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/25-common-birds-in-vermont-with-pictures-and-identification/>
+
+---
+
+## 5 Squirrels in North Carolina (With Pictures and Identification)
+
+date: 2025-06-19, from: Yard Life blog
+
+<p>Squirrels in North Carolina are a common and lively part of the state’s forests, parks, and even backyards. These energetic ... </p>
+<p class="read-more-container"><a title="5 Squirrels in North Carolina (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/5-squirrels-in-north-carolina-with-pictures-and-identification/#more-30498" aria-label="Read more about 5 Squirrels in North Carolina (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/5-squirrels-in-north-carolina-with-pictures-and-identification/">5 Squirrels in North Carolina (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/5-squirrels-in-north-carolina-with-pictures-and-identification/>
+
+---
+
+## 8 Common Lizards in Kansas (With Pictures and Identification)
+
+date: 2025-06-19, from: Yard Life blog
+
+<p>Kansas is home to a wide variety of reptiles, and lizards are some of the most active and fascinating among ... </p>
+<p class="read-more-container"><a title="8 Common Lizards in Kansas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/8-common-lizards-in-kansas-with-pictures-and-identification/#more-30489" aria-label="Read more about 8 Common Lizards in Kansas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/8-common-lizards-in-kansas-with-pictures-and-identification/">8 Common Lizards in Kansas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/8-common-lizards-in-kansas-with-pictures-and-identification/>
+
+---
+
+## 30 Common Birds in Delaware (With Pictures and Identification)
+
+date: 2025-06-19, from: Yard Life blog
+
+<p>Birds in Delaware offer an incredible variety that excites any birdwatcher traveling through the Mid-Atlantic region. From vibrant songbirds to ... </p>
+<p class="read-more-container"><a title="30 Common Birds in Delaware (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/30-common-birds-in-delaware-with-pictures-and-identification/#more-30479" aria-label="Read more about 30 Common Birds in Delaware (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/30-common-birds-in-delaware-with-pictures-and-identification/">30 Common Birds in Delaware (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/30-common-birds-in-delaware-with-pictures-and-identification/>
+
+---
+
+## 2 Types of Foxes in Minnesota (With Pictures and Identification)
+
+date: 2025-06-19, from: Yard Life blog
+
+<p>Minnesota is home to a diverse range of wildlife, and among its most fascinating residents are the foxes. Foxes in ... </p>
+<p class="read-more-container"><a title="2 Types of Foxes in Minnesota (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/2-types-of-foxes-in-minnesota-with-pictures-and-identification/#more-30471" aria-label="Read more about 2 Types of Foxes in Minnesota (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/2-types-of-foxes-in-minnesota-with-pictures-and-identification/">2 Types of Foxes in Minnesota (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/2-types-of-foxes-in-minnesota-with-pictures-and-identification/>
+
+---
+
+## The Summer Solstice Is the Longest Day of the Year—Here’s How to Celebrate It
+
+date: 2025-06-19, from: Sunset Magazine - Living in the West
+
+The summer solstice is upon us, how are you celebrating the start of the summer season and longest day of the year? Here are rituals to try. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/summer-solstice-rituals>
+
+---
+
+## 13 Venomous Snakes in Arizona (With Pictures and Identification)
+
+date: 2025-06-19, from: Yard Life blog
+
+<p>Arizona is home to one of the greatest concentrations of venomous snakes in the United States, thanks to its varied ... </p>
+<p class="read-more-container"><a title="13 Venomous Snakes in Arizona (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/13-venomous-snakes-in-arizona-with-pictures-and-identification/#more-30463" aria-label="Read more about 13 Venomous Snakes in Arizona (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/13-venomous-snakes-in-arizona-with-pictures-and-identification/">13 Venomous Snakes in Arizona (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/13-venomous-snakes-in-arizona-with-pictures-and-identification/>
+
+---
+
+## Decoding Your Inspection Sticker: What It All Means
+
+date: 2025-06-18, from: Family Handyman Blog
+
+<p>Decoding your inspection sticker can be a daunting task, but we've broken down the different meanings for you. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/car-inspection-sticker/">Decoding Your Inspection Sticker: What It All Means</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/car-inspection-sticker/>
+
+---
+
+## 82,000 Harley-Davidson Motorcycles Recalled Over Faulty Tires
+
+date: 2025-06-18, from: Family Handyman Blog
+
+<p>Nearly 90,000 Harley-Davidsons are being recalled; find out if yours is one of the affected motorcycles and how to rectify it. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/harley-davidson-tire-pressure-recall/">82,000 Harley-Davidson Motorcycles Recalled Over Faulty Tires</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/harley-davidson-tire-pressure-recall/>
 
 ---
 
@@ -79,6 +269,18 @@ date: 2025-06-18, from: Family Handyman Blog
 
 ---
 
+## The Summer Solstice Is the Longest Day of the Year—Here’s How to Celebrate It
+
+date: 2025-06-18, from: Sunset Magazine - Living in the West
+
+The summer solstice is upon us, how are you celebrating the start of the summer season and longest day of the year? Here are rituals to try. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/summer-solstice-rituals-2>
+
+---
+
 ## For $290K, You Can Scoop Up a Glass-Clad Cabin in Chile
 
 date: 2025-06-18, from: Dwell
@@ -88,6 +290,30 @@ Set a short drive from the beach, the getaway brings in countryside views with a
 <br> 
 
 <https://www.dwell.com/article/condominio-las-aguilas-gonzalo-rufin-arquitectos-cabin-matanzas-chile-real-estate-b53d8ed4>
+
+---
+
+## Wine Sales Are in Decline—Here’s How Western Wineries Are Reaching Younger Generations
+
+date: 2025-06-18, from: Sunset Magazine - Living in the West
+
+Wine sales have been on a slow but steady decline in recent years, leaving wineries wondering how to reach out to younger generations. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/wine-industry-gen-z-millennials>
+
+---
+
+## How to Create a Summer Garden That Smells Amazing
+
+date: 2025-06-18, from: Sunset Magazine - Living in the West
+
+Fragrance is the most under-appreciated garden layer. Here's what to plant for the best-smelling fragrant garden. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/fragrant-garden>
 
 ---
 
@@ -114,6 +340,18 @@ The concrete residence in Slovakia combines timber slatting, gabion walls, and f
 <br> 
 
 <https://www.dwell.com/article/bananka-house-pauliny-hovorka-architects-indoor-outdoor-living-concrete-home-d88623ad>
+
+---
+
+## Bar Issi Is Palm Springs’ Hottest New Restaurant Opening
+
+date: 2025-06-18, from: Sunset Magazine - Living in the West
+
+Every night’s a party worthy of the Italian Riviera at Bar Issi at the splashy new Thompson Hotel in Palm Springs. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/restaurants/bar-issi-palm-springs>
 
 ---
 
@@ -372,7 +610,7 @@ date: 2025-06-17, from: California Grown
 
 ---
 
-## How They Pulled It Off: A Brooklyn Townhouse Was Sinking, But They Brought It Back to Life
+## How They Pulled It Off: A Brooklyn Townhome Was Sinking, But They Brought It Back to Life
 
 date: 2025-06-17, from: Dwell
 

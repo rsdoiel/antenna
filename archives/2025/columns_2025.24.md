@@ -1,11 +1,99 @@
 ---
 title: columns
-updated: 2025-06-18 14:07:25
+updated: 2025-06-19 06:07:30
 ---
 
 # columns
 
-(date: 2025-06-18 14:07:25)
+(date: 2025-06-19 06:07:30)
+
+---
+
+##  When In Rome 
+
+date: 2025-06-19, updated: 2025-06-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/when-in-rome>
+
+---
+
+## Self-Driving Car Video Footage
+
+date: 2025-06-19, updated: 2025-06-18, from: Bruce Schneier blog
+
+<p>Two articles crossed my path recently. First, a discussion of all the video Waymo has from outside its cars: <a href="https://www.wired.com/story/waymo-data-privacy-protests-los-angeles/">in this case</a> related to the LA protests. Second, a discussion of all the video Tesla has from <a href="https://www.jalopnik.com/1884887/tesla-sentry-mode-explained/"><i>inside</i> its cars</a>.</p>
+<p>Lots of things are collecting lots of video of lots of other things. How and under what rules that video is used and reused will be a continuing source of debate.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/06/self-driving-car-video-footage.html>
+
+---
+
+## Does the Supreme Court Exist to Protect White Straight Supremacy?
+
+date: 2025-06-19, from: Robert Reich's blog
+
+A reflection on Juneteenth 
+
+<br> 
+
+<https://robertreich.substack.com/p/does-the-supreme-court-exist-to-protect>
+
+---
+
+## June 18, 2025 (Wednesday)
+
+date: 2025-06-19, from: Heather Cox Richardson blog
+
+Tomorrow is the federal holiday honoring Juneteenth, the celebration of the announcement in Texas on June 19th, 1865, that enslaved Americans were free. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-18-2025-wednesday>
+
+---
+
+## Two tools to create QR codes for free and without any ad breaks
+
+date: 2025-06-19, from: Chris Heilmann's blog
+
+I often have to create QR codes and whilst the built-in generator in browsers is good enough, I sometimes want to customise the look with a logo in the centre. There are quite a few QR generators out there, but they come with lots of advertising, interstitials and other annoyances. So here are two generators [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2025/06/19/two-tools-to-create-qr-codes-for-free-and-without-any-ad-breaks/>
+
+---
+
+## Federico, Federighi. Federighi, Federico.
+
+date: 2025-06-19, updated: 2025-06-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macstories.net/stories/interview-craig-federighi-opens-up-about-ipados-its-multitasking-journey-and-the-ipads-essence/>
+
+---
+
+## June 17, 2025
+
+date: 2025-06-18, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166278790/72fcd4c104ca0ab18612101c3c5f36cd.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166278790/72fcd4c104ca0ab18612101c3c5f36cd.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-17-2025-3c6>
 
 ---
 
@@ -98,11 +186,9 @@ date: 2025-06-18, updated: 2025-06-18, from: Liam Proven's articles at the Regis
 
 date: 2025-06-18, from: Dave Winer's Scripting News
 
-<p>I had a conversation <a href="https://bsky.app/profile/emilynussbaum.bsky.social/post/3lrt3iyw5ic2j">on Bluesky</a> with a writer saying she didn't have much use for ChatGPT, though she had tried using it. </p>
+<p>I had a conversation <a href="https://bsky.app/profile/emilynussbaum.bsky.social/post/3lrt3iyw5ic2j">on Bluesky</a> with a writer saying she didn't have much use for ChatGPT, though she had tried it. </p>
 <p>I wanted to see if I could open a door, suggesting that next time there was an problem using a computer, that she bring the question to ChatGPT. </p>
-<p>I think that's good advice for anyone who hasn't seen how useful these are as tools, as opposed to a ghost writer. </p>
-<p>Use it like a search engine. What comes back is customized to the question you have. With Google you'd have to read through docs that are meant to cover every angle, but the AI bot zeroes in on the issue you're dealing with. </p>
-<p>There's no comparison between using Google to search the web and using ChatGPT. You can go places via ChatGPT that would be impossible any other way. </p>
+<p>I think that's good advice for anyone who hasn't seen how useful these are as tools. You can use it like a search engine. What comes back answers your question. With Google you'd have to read through docs that are meant to cover every angle, but the AI bot zeroes in on the issue you're dealing with. And the writing on ChatGPT is better than what you would get on a random web page explaining a technical concept. </p>
 <p><b>Passkeys</b></p>
 <p>Previously I had tried to approach passkeys to get an idea of how I should use them, but never grasped the big picture. I just didn't understand what they were doing, but I understood it was about authentication. A hardware approach to identity, that much I got. How it worked and how I would use it did not click. </p>
 <p>And then earlier this week, an essential site that I use infrequently, required using a passkey. When I had set it up a few months ago, as part of a bigger develolpment task,  I had no idea what I was doing, and eventually bailed out, and left it unable to get back into the system, which happened on Sunday. By default the browser, Chrome, had previously connected it to my Pixel 9 Pro. There was a record of the connection being used for a variety of other services, but the one I needed was not there. This was after a full day of trying to debug it from the other side. I now have a lot more info about how passkeys work, I won't be able to say I know enough until I've re-established the connection. </p>
@@ -1172,6 +1258,18 @@ At a news conference today, acting U.S.
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/june-16-2025>
+
+---
+
+## the six-month recap: closing talk on AI at Web Directions, Melbourne, June 2025
+
+date: 2025-06-17, from: Geoffrey Hunntley's blog
+
+<figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container"><div class="kg-gallery-row"><div class="kg-gallery-image"><img src="https://ghuntley.com/content/images/2025/06/DSC05410-Enhanced-NR-1.jpg" width="1920" height="1280" loading="lazy" alt srcset="https://ghuntley.com/content/images/size/w600/2025/06/DSC05410-Enhanced-NR-1.jpg 600w, https://ghuntley.com/content/images/size/w1000/2025/06/DSC05410-Enhanced-NR-1.jpg 1000w, https://ghuntley.com/content/images/size/w1600/2025/06/DSC05410-Enhanced-NR-1.jpg 1600w, https://ghuntley.com/content/images/2025/06/DSC05410-Enhanced-NR-1.jpg 1920w" sizes="(min-width: 720px) 720px"></div><div class="kg-gallery-image"><img src="https://ghuntley.com/content/images/2025/06/DSC05426-Enhanced-NR-1.jpg" width="1920" height="1280" loading="lazy" alt srcset="https://ghuntley.com/content/images/size/w600/2025/06/DSC05426-Enhanced-NR-1.jpg 600w, https://ghuntley.com/content/images/size/w1000/2025/06/DSC05426-Enhanced-NR-1.jpg 1000w, https://ghuntley.com/content/images/size/w1600/2025/06/DSC05426-Enhanced-NR-1.jpg 1600w, https://ghuntley.com/content/images/2025/06/DSC05426-Enhanced-NR-1.jpg 1920w" sizes="(min-width: 720px) 720px"></div><div class="kg-gallery-image"><img src="https://ghuntley.com/content/images/2025/06/DSC05428-Enhanced-NR-1.jpg" width="1920" height="1280" loading="lazy" alt srcset="https://ghuntley.com/content/images/size/w600/2025/06/DSC05428-Enhanced-NR-1.jpg 600w, https://ghuntley.com/content/images/size/w1000/2025/06/DSC05428-Enhanced-NR-1.jpg 1000w, https://ghuntley.com/content/images/size/w1600/2025/06/DSC05428-Enhanced-NR-1.jpg 1600w, https://ghuntley.com/content/images/2025/06/DSC05428-Enhanced-NR-1.jpg 1920w" sizes="(min-width: 720px) 720px"></div></div><div class="kg-gallery-row"><div class="kg-gallery-image"><img src="https://ghuntley.com/content/images/2025/06/DSC05418-Enhanced-NR-1.jpg" width="1920" height="1280" loading="lazy" alt srcset="https://ghuntley.com/content/images/size/w600/2025/06/DSC05418-Enhanced-NR-1.jpg 600w, https://ghuntley.com/content/images/size/w1000/2025/06/DSC05418-Enhanced-NR-1.jpg 1000w, https://ghuntley.com/content/images/size/w1600/2025/06/DSC05418-Enhanced-NR-1.jpg 1600w, https://ghuntley.com/content/images/2025/06/DSC05418-Enhanced-NR-1.jpg 1920w" sizes="(min-width: 720px) 720px"></div><div class="kg-gallery-image"><img src="https://ghuntley.com/content/images/2025/06/DSC05430-Enhanced-NR-1.jpg" width="1920" height="1280" loading="lazy" alt srcset="https://ghuntley.com/content/images/size/w600/2025/06/DSC05430-Enhanced-NR-1.jpg 600w, https://ghuntley.com/content/images/size/w1000/2025/06/DSC05430-Enhanced-NR-1.jpg 1000w, https://ghuntley.com/content/images/size/w1600/2025/06/DSC05430-Enhanced-NR-1.jpg 1600w, https://ghuntley.com/content/images/2025/06/DSC05430-Enhanced-NR-1.jpg 1920w" sizes="(min-width: 720px) 720px"></div><div class="kg-gallery-image"><img src="https://ghuntley.com/content/images/2025/06/DSC05421-Enhanced-NR-1.jpg" width="1536" height="1920" loading="lazy" alt srcset="https://ghuntley.com/content/images/size/w600/2025/06/DSC05421-Enhanced-NR-1.jpg 600w, https://ghuntley.com/content/images/size/w1000/2025/06/DSC05421-Enhanced-NR-1.jpg 1000w, https://ghuntley.com/content/images/2025/06/DSC05421-Enhanced-NR-1.jpg 1536w" sizes="(min-width: 720px) 720px"></div></div><div class="kg-gallery-row"><div class="kg-gallery-image"><img src="https://ghuntley.com/content/images/2025/06/DSC05416-Enhanced-NR-1.jpg" width="1536" height="1920" loading="lazy" alt srcset="https://ghuntley.com/content/images/size/w600/2025/06/DSC05416-Enhanced-NR-1.jpg 600w, https://ghuntley.com/content/images/size/w1000/2025/06/DSC05416-Enhanced-NR-1.jpg 1000w, https://ghuntley.com/content/images/2025/06/DSC05416-Enhanced-NR-1.jpg 1536w" sizes="(min-width: 720px) 720px"></div><div class="kg-gallery-image"><img src="https://ghuntley.com/content/images/2025/06/DSC05436-Enhanced-NR-1.jpg" width="1536" height="1920" loading="lazy" alt srcset="https://ghuntley.com/content/images/size/w600/2025/06/DSC05436-Enhanced-NR-1.jpg 600w, https://ghuntley.com/content/images/size/w1000/2025/06/DSC05436-Enhanced-NR-1.jpg 1000w, https://ghuntley.com/content/images/2025/06/DSC05436-Enhanced-NR-1.jpg 1536w" sizes="(min-width: 720px) 720px"></div></div></div></figure><blockquote>Welcome back to our final session at WebDirections. We&apos;re definitely on the glide path&#x2014;though I&apos;m not sure if we&apos;re smoothly landing, about to hit turbulence, or perhaps facing a go-around. We&apos;ll see how it unfolds. Today, I&apos;m excited</blockquote> 
+
+<br> 
+
+<https://ghuntley.com/six-month-recap/>
 
 ---
 

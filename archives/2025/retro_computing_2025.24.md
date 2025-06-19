@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-06-18 14:07:29
+updated: 2025-06-19 06:07:34
 ---
 
 # retro computing
 
-(date: 2025-06-18 14:07:29)
+(date: 2025-06-19 06:07:34)
+
+---
+
+## It’s 1999 and I Feel Fine
+
+date: 2025-06-19, from: Digital Antiquarian
+
+Hi, folks! I have an update at this unusual time because, as of the last proper article, we&#8217;ve actually finished with our coverage of 1998, and I wanted to give you a preview of what&#8217;s coming for 1999. As usual, these subjects are more 1999-adjacent than pedantically bound to that year. And also as usual, [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2025/06/its-1999-and-i-feel-fine/>
 
 ---
 
