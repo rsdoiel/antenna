@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-06-19 06:07:34
+updated: 2025-06-19 14:07:51
 ---
 
 # motorcycles
 
-(date: 2025-06-19 06:07:34)
+(date: 2025-06-19 14:07:51)
+
+---
+
+## Watch a Motorcyclist Smash Into a Deer at High-Speed But Somehow Not Crash
+
+date: 2025-06-19, from: Ride Apart, Electric Motorcycle News
+
+How this didn't end up killing the rider is beyond me.  
+
+<br> 
+
+<https://www.rideapart.com/news/763155/watch-motorcyclist-harley-davidson-deer-crash/>
 
 ---
 

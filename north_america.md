@@ -1,11 +1,125 @@
 ---
 title: north america
-updated: 2025-06-19 06:07:26
+updated: 2025-06-19 14:07:45
 ---
 
 # north america
 
-(date: 2025-06-19 06:07:26)
+(date: 2025-06-19 14:07:45)
+
+---
+
+## The rainbow flag still flies, even as the storm rages.
+
+date: 2025-06-19, from: The Contrarian
+
+Remembering and resisting this Pride month. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-rainbow-flag-still-flies-even>
+
+---
+
+## Where in the World is Tim Mak? Tim joins Jen to give an update on The Russia-Ukraine War
+
+date: 2025-06-19, from: The Contrarian
+
+"The war will end only when Russia is forced to end it." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166324300/b8e91d77d70093d582f22e4855e0e869.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166324300/b8e91d77d70093d582f22e4855e0e869.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/where-in-the-world-is-tim-mak-tim>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-06-19, from: The Contrarian
+
+Thursday: No Kings Day rallies in Idaho, D.C., California, and Ohio, an ICE protest, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## 50 years ago, NBA bypassed a Black candidate for commissioner, spurring boycott call
+
+date: 2025-06-19, from: The Contrarian
+
+Although the boycott didn&#8217;t catch on, the struggle helped to open the door for Black NBA executives. 
+
+<br> 
+
+<https://contrarian.substack.com/p/50-years-ago-nba-bypassed-a-black>
+
+---
+
+## Is the U.S. about to be dragged into a war in the Middle East? Wendy Sherman on the Israel-Iran conflict
+
+date: 2025-06-19, from: The Contrarian
+
+"No one should underestimate how difficult and, in my view, how profound this decision will be by President Trump" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166329277/e56398d5179e84007e8e2dacf5cc9661.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166329277/e56398d5179e84007e8e2dacf5cc9661.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/is-the-us-about-to-be-dragged-into>
+
+---
+
+## Lessons from Juneteenth: The military’s role in justice and freedom
+
+date: 2025-06-19, from: The Contrarian
+
+Our armed forces should protect our democracy and shared freedoms, not strike fear in the hearts of Americans. 
+
+<br> 
+
+<https://contrarian.substack.com/p/lessons-from-juneteenth-the-militarys>
+
+---
+
+## Uncertain Harvest: Agriculture’s Season of Gloom
+
+date: 2025-06-19, from: Capital and Main
+
+<p>While Trump considers expelling undocumented farm workers, California’s economy hangs in the balance.</p>
+<p>The post <a href="https://capitalandmain.com/uncertain-harvest-agricultures-season-of-gloom">Uncertain Harvest: Agriculture’s Season of Gloom</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/uncertain-harvest-agricultures-season-of-gloom>
+
+---
+
+## This Juneteenth, don’t let lies about DEI set us back
+
+date: 2025-06-19, from: The Contrarian
+
+Misinformation can hinder all of us from reaching our full potential. 
+
+<br> 
+
+<https://contrarian.substack.com/p/this-juneteenth-dont-let-lies-about>
+
+---
+
+## Coffee with Contrarians - Juneteenth Special
+
+date: 2025-06-19, from: The Contrarian
+
+A recording from Coffee with the Contrarians LIVE 06/19 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-contrarians-juneteenth>
 
 ---
 
@@ -332,18 +446,6 @@ Words & Phrases We Could Do Without
 <br> 
 
 <https://contrarian.substack.com/p/the-violence-and-incitement-are-coming>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-06-17, from: The Contrarian
-
-Tuesday: No Kings Day rallies across the country, including in Arkansas, Pennsylvania, Washington, South Carolina, Alaska, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

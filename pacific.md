@@ -1,11 +1,76 @@
 ---
 title: pacific
-updated: 2025-06-19 06:07:28
+updated: 2025-06-19 14:07:46
 ---
 
 # pacific
 
-(date: 2025-06-19 06:07:28)
+(date: 2025-06-19 14:07:46)
+
+---
+
+## China could be major beneficiary of New Zealand's move on Cook Islands - security expert
+
+date: 2025-06-19, from: 
+
+A Massey University security and defence observer says the New Zealand government's tactic of trying to punish partners over their decision-making is short-sighted. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564679/china-could-be-major-beneficiary-of-new-zealand-s-move-on-cook-islands-security-expert>
+
+---
+
+## UH Mānoa globally recognized for excellence in academics, research, sustainability
+
+date: 2025-06-19, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa placed in the top 2.2&#37; of universities worldwide and top 3&#37; in the U.S. in the latest <abbr>QS</abbr> global rankings.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/19/uh-manoa-qs-world-univ-rankings/"><abbr>UH</abbr> Mānoa globally recognized for excellence in academics, research, sustainability</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/19/uh-manoa-qs-world-univ-rankings/>
+
+---
+
+## O‘ahu Jail Update INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-06-19, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>The state has spent tens of millions of dollars over the past several years on planning for a new jail in Honolulu to replace the aging Oʻahu Community Correctional Center in Kalihi.</p>
+<p>The post <a href="https://www.pbshawaii.org/oahu-jail-update-insights-on-pbs-hawai%ca%bbi/">O‘ahu Jail Update &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/oahu-jail-update-insights-on-pbs-hawai%ca%bbi/>
+
+---
+
+## Rodeos
+
+date: 2025-06-19, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Isaac Rankin Before the nurse can draw back the bay curtain, you cup your hand and yell at a whisper, Your beard makes you look like Jesus! It’s not you but the valium talking, winding it’s way through your &#8230; <a href="https://hawaiipacificreview.org/2025/06/19/rodeos/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/06/19/rodeos/>
+
+---
+
+## Eye docs hit town
+
+date: 2025-06-19, from: Marshal Islands Journal
+
+<p>KAREN EARNSHAW Walking through the main entrance of Majuro hospital Tuesday morning was an eye-opener with a full house of patients lined up to register to get medical assistance. Strolling along to the outpatient area and to the right the picture was a mirror image with virtually every seat occupied as residents waited to see [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/eye-docs-hit-town/">Eye docs hit town</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/eye-docs-hit-town/>
 
 ---
 
@@ -205,6 +270,20 @@ date: 2025-06-19, from: Hawaii Tribune Harold
 
 ---
 
+## ABC launches Majuro service
+
+date: 2025-06-19, from: Marshal Islands Journal
+
+<p>ABC Radio Australia hit the airwaves in Majuro at 7pm last Friday going live for the first time in over a decade with its 24/7 programs on 106.7FM. To mark the milestone development, Australian Ambassador Paul Wilson hosted a gathering at Wallaby Downs Friday evening that featured a countdown to the official opening of the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/abc-launches-majuro-service/">ABC launches Majuro service</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/abc-launches-majuro-service/>
+
+---
+
 ## Nauru seeks to become a hub for blockchain industry with the launch of digital asset regulator
 
 date: 2025-06-19, from: Pacific Island Times
@@ -228,6 +307,20 @@ New Zealand has halted more than $18 million in development assistance to its re
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/564618/explainer-why-has-new-zealand-paused-funding-to-the-cook-islands-over-china-deal>
+
+---
+
+## RMI ‘no’ to deep sea mining
+
+date: 2025-06-19, from: Marshal Islands Journal
+
+<p>The Marshall Islands has joined a growing number of nations saying “no” to deep sea mining. At the Oceans Conference last week in Nice, France, President Hilda Heine announced that the RMI would join the countries calling for a moratorium on all deep sea mining, bringing the number to 37. Four other nations — Luxembourg, [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/rmi-no-to-deep-sea-mining/">RMI ‘no’ to deep sea mining</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/rmi-no-to-deep-sea-mining/>
 
 ---
 
@@ -301,6 +394,20 @@ Justice experts and fisheries officials from throughout the Pacific are gathered
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/564603/reinforcing-the-links-between-the-law-and-pacific-fisheries-sectors>
+
+---
+
+## Weavers new home at USP
+
+date: 2025-06-18, from: Marshal Islands Journal
+
+<p>Journal 6/18/1982 P1 Kwaj owners plan to occupy soonThis weekend Kwajalein landowners are planning to reoccupy their land being used by the Kwajalein Missile Range. A statement released by the Kwajalein Atoll Corporation office here said the occupation would take place sometime between Thursday and Saturday. The reason for the reoccupation is dissatisfaction with the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/weavers-new-home-at-usp/">Weavers new home at USP</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/weavers-new-home-at-usp/>
 
 ---
 
@@ -1884,6 +1991,20 @@ A round-up of sports news from around the region, including an ex-All Blacks for
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/564271/pasifika-sipoti-in-brief-for-16-june>
+
+---
+
+## Anchored in Purpose: Trinity’s final lap at USP
+
+date: 2025-06-16, from: University of the South Pacific (Fiji)
+
+<p>Growing up as the eldest of five siblings wasn’t an easy experience for Trinity Papaata,...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/anchored-in-purpose-trinitys-final-lap-at-usp/">Anchored in Purpose: Trinity’s final lap at USP</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/anchored-in-purpose-trinitys-final-lap-at-usp/>
 
 ---
 

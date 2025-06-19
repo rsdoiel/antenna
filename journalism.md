@@ -1,11 +1,24 @@
 ---
 title: journalism
-updated: 2025-06-19 06:07:32
+updated: 2025-06-19 14:07:49
 ---
 
 # journalism
 
-(date: 2025-06-19 06:07:32)
+(date: 2025-06-19 14:07:49)
+
+---
+
+## California State Legislature rejects Gov. Gavin Newsom’s proposed UC funding cuts
+
+date: 2025-06-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+The California State Legislature rejected Gov. Gavin Newsom&#8217;s proposed funding cuts to the UC in its June 9 revision of the state budget. 
+The legislature passed a state budget amounting to $325 billion Friday, rejecting Newsom&#8217;s proposed cuts of $129.7 million to the UC. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/19/california-state-legislature-rejects-gov-gavin-newsoms-proposed-uc-funding-cuts/>
 
 ---
 

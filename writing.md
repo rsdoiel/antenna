@@ -1,11 +1,74 @@
 ---
 title: writing
-updated: 2025-06-19 06:07:31
+updated: 2025-06-19 14:07:49
 ---
 
 # writing
 
-(date: 2025-06-19 06:07:31)
+(date: 2025-06-19 14:07:49)
+
+---
+
+## New Books Video for June 17th is Live!
+
+date: 2025-06-19, from: Locus Magazine
+
+<p>This weeks video on the top new SF, Fantasy, Horror, and YA releases is live, so come on by our YouTube channel and check it out! Consider subscribing to the channel as we post weekly and don&#8217;t want you to miss out on any fantastic new books! We hope to see you back next time!</p>
+<div class="fitvids-video">
+<div class="jetpack-video-wrapper"></div>
+</div>
+<p>&#160; <a href="https://locusmag.com/2025/06/new-books-video-for-june-17th-is-live/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/new-books-video-for-june-17th-is-live/>
+
+---
+
+## Wilbur Smith Adventure Writing Prize Shortlist
+
+date: 2025-06-19, from: Locus Magazine
+
+<p>The 2025 shortlist for the Wilbur Smith Adventure Writing Prize for Best Published Novel was announced June 4, 2025. Titles and authors of genre interest include:</p>
+<div class="nobullets">
+<ul>
+<li><b>Babylonia</b>, Costanza Casati (Penguin Michael Joseph)</li>
+<li><strong>Sycorax,</strong> Nydia Hetherington (Quercus)</li>
+<li><strong>A House for Miss Pauline,</strong> Diana McCaulay (Dialogue)</li>
+<li><strong>Water Moon</strong>, Samantha Sotto Yambao (Bantam, Transworld, Penguin Random House)</li>
+</ul>
+</div>
+<p>Voting is open from June 1st to August 8th. The winner of the £10,000  <a href="https://locusmag.com/2025/06/wilbur-smith-adventure-writing-prize-shortlist/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/wilbur-smith-adventure-writing-prize-shortlist/>
+
+---
+
+## Circular Motion by Alex Foster: Review by Abigail Nussbaum
+
+date: 2025-06-19, from: Locus Magazine
+
+<p><strong>Circular Motion</strong>, Alex Foster (Grove Press 978-0-8021-6448-3, $28.00, 358pp, hc) May 2025.</p>
+<p>There’s a meme that one seems to encounter more and more in these troubled times. A Venn diagram comprised of two circles. One is labeled “The Apocalypse,” and the other “having to go to work.” An arrow pointing at the intersecting segment reads YOU ARE HERE. It’s a relatable sentiment in this era of pandemics, climate catastrophes,  <a href="https://locusmag.com/2025/06/circular-motion-by-alex-foster-review-by-abigail-nussbaum/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/circular-motion-by-alex-foster-review-by-abigail-nussbaum/>
+
+---
+
+## Hal-Con
+
+date: 2025-06-19, from: Locus Magazine
+
+<p></p>
+<p>Science fiction, at its best, has always been about inclusiveness and acceptance of the “other,” a lens through which we can bet­ter understand the broadest and deepest reaches of our human condition. With the stated pur­pose of building relationships with an interna­tional gathering of writers from a broad range of interests and backgrounds, Hal-Con Japan continues to celebrate this view. This year’s Hal-Con took place at Kawasaki International Center on  <a href="https://locusmag.com/2025/06/hal-con/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/hal-con/>
 
 ---
 

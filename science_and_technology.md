@@ -1,11 +1,95 @@
 ---
 title: science and technology
-updated: 2025-06-19 06:07:29
+updated: 2025-06-19 14:07:47
 ---
 
 # science and technology
 
-(date: 2025-06-19 06:07:29)
+(date: 2025-06-19 14:07:47)
+
+---
+
+## Boffins devise voice-altering tech to jam 'vishing' schemes
+
+date: 2025-06-19, updated: 2025-06-19, from: The Register (UK I.T. News)
+
+<h4>To stop AI scam callers, break automatic speech recognition systems</h4> <p>Researchers based in Israel and India have developed a defense against automated call scams.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/19/voice_altering_vishing_jammer/>
+
+---
+
+## Jolla kills €25 yearly subscription for updates, guaranteeing five years of free updates instead
+
+date: 2025-06-19, from: OS News
+
+Welcome news coming out of Jolla, the company that develops Sailfish OS. Up until now, if you bought their Jolla C2 smartphone, you had to pay a yearly subscription fee in order to get updates (with the first year included in the purchase price). Today they&#8217;ve announced their dropping this construction, and they now guarantee five years of free updates. We’re happy to announce that from now onwards long-term Sailfish OS updates are included free-of-charge to all Jolla C2 devices for a minimum of 5 years. This applies also to everybody who have already purchased the Jolla C2. ↫ Announcement at the Jolla forums People don&#8217;t like subscriptions, and I wouldn&#8217;t be surprised if Jolla was simply running into a lot of resistance to this subscription model from potential customers. Nobody likes subscriptions, and I think that counts doubly so for the kinds of people interested in buying a phone like the C2 with Sailfish OS. 
+
+<br> 
+
+<https://www.osnews.com/story/142610/jolla-kills-e25-yearly-subscription-for-updates-guaranteeing-five-years-of-free-updates-instead/>
+
+---
+
+## Microsoft 365 brings the shutters down on legacy protocols
+
+date: 2025-06-19, updated: 2025-06-19, from: The Register (UK I.T. News)
+
+<h4>FrontPage Remote Procedure Call and others set to be blocked in the name of &#39;Secure by Default&#39;</h4> <p>Microsoft has warned administrators that legacy authentication protocols will be blocked by default from July, meaning that anyone who hasn&#39;t made preparations already could be in for a busy summer.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/19/the_microsoft_axeman_is_coming/>
+
+---
+
+## EU Advocate General advises top court to toss Google appeal against €4B fine
+
+date: 2025-06-19, updated: 2025-06-19, from: The Register (UK I.T. News)
+
+<h4>Case over bundling Play Store with Chrome and Google Search set to continue</h4> <p>A European court has <a target="_blank" href="https://curia.europa.eu/jcms/upload/docs/application/pdf/2025-06/cp250072en.pdf">advised</a> [PDF] that Google&#39;s appeal against a ruling that found it had abused its market dominance should be dismissed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/19/eu_court_advises_googles_appeal/>
+
+---
+
+## Uncle Sam seeks time in tower dump data grab case after judge calls it 'unconstitutional'
+
+date: 2025-06-19, updated: 2025-06-19, from: The Register (UK I.T. News)
+
+<h4>Feds told they can&#39;t demand a haystack to find a needle</h4> <p>The United States is <a target="_blank" rel="nofollow" href="https://storage.courtlistener.com/recap/gov.uscourts.mssd.127963/gov.uscourts.mssd.127963.14.0.pdf">requesting</a> [PDF] a month-long extension to the deadline for its final decision regarding an appeal against a judge&#39;s ruling that obtaining tower dumps is unconstitutional.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/19/us_tower_grab_appeal/>
+
+---
+
+## Interactive IEA tracker shows where AI is guzzling the most energy
+
+date: 2025-06-19, updated: 2025-06-19, from: The Register (UK I.T. News)
+
+<h4>Observatory maps datacenter hubs and power demand worldwide</h4> <p>The International Energy Agency (IEA) has unveiled an online platform to closely monitor and analyze the impact of AI across the energy sector worldwide.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/19/iea_observatory_ai/>
+
+---
+
+## Glazed and confused: Hole lotta highly sensitive data nicked from Krispy Kreme
+
+date: 2025-06-19, updated: 2025-06-19, from: The Register (UK I.T. News)
+
+<h4>Experts note &#39;major red flags&#39; in donut giant&#39;s security as 161,676 staff and families informed of attack details</h4> <p>Krispy Kreme finally revealed the number of people affected by its November cyberattack, and it&#39;s easy to see why analyzing the incident took the well-resourced company several months.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/19/krispy_kreme_reveals_staggering_breadth/>
 
 ---
 

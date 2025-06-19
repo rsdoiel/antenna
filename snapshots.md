@@ -1,11 +1,307 @@
 ---
 title: snapshots
-updated: 2025-06-19 06:07:37
+updated: 2025-06-19 14:07:54
 ---
 
 # snapshots
 
-(date: 2025-06-19 06:07:37)
+(date: 2025-06-19 14:07:54)
+
+---
+
+## playbackrate
+
+date: 2025-06-19, updated: 2025-06-19, from: Simon Willison’s Weblog
+
+<p>Here's a tip that works on YouTube and almost any other web page that shows you a video. You can increase the playback rate beyond the usually-exposed 2x by running this in your browser DevTools console:</p>
+<pre><span class="pl-smi">document</span><span class="pl-kos">.</span><span class="pl-en">querySelector</span><span class="pl-kos">(</span><span class="pl-s">'video'</span><span class="pl-kos">)</span><span class="pl-kos">.</span><span class="pl-c1">playbackRate</span> <span class="pl-c1">=</span> <span class="pl-c1">2.5</span></pre>
+
+<p>I find this is the fastest I can reasonably watch most videos at, with subtitles on to help my comprehension - it turns a 40 minute video into just 16 minutes, short enough that I don't feel too guilty taking time off whatever else I'm doing to watch it!</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/youtube">youtube</a>, <a href="https://simonwillison.net/tags/video">video</a>, <a href="https://simonwillison.net/tags/javascript">javascript</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/19/playbackrate/#atom-everything>
+
+---
+
+## Swift Assist, Part Deux
+
+date: 2025-06-19, from: Michael Tsai
+
+John Voorhees (Mastodon): I&#8217;m not a developer, so I&#8217;m not going to review Swift Assist (a name that is conspicuously absent from Apple&#8217;s developer tool press release, by the way), but the changes are so substantial that the feature I was shown this year hardly resembles what I saw in 2024. Unlike last year&#8217;s demo, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/19/swift-assist-part-deux/>
+
+---
+
+## SwiftData and Core Data at WWDC25
+
+date: 2025-06-19, from: Michael Tsai
+
+SwiftData: Dive into inheritance and schema migration: Discover how to use class inheritance to model your data. Learn how to optimize queries and seamlessly migrate your app&#8217;s data to use inheritance. Explore subclassing for building model graphs, crafting efficient fetches and queries, and implementing robust schema migrations. Understand how to use Observable and persistent history [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/19/swiftdata-and-core-data-at-wwdc25/>
+
+---
+
+## Apple’s Spotlight Clipboard Manager
+
+date: 2025-06-19, from: Michael Tsai
+
+Juli Clover: Spotlight got a major overhaul, and you can now use it to do just about anything on your Mac. It supports actions, so you can send emails and messages without ever opening up an app. Spotlight also incorporates a list of all of your apps plus a clipboard manager that keeps track of [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/19/apples-spotlight-clipboard-manager/>
+
+---
+
+## macOS Tahoe’s New Theming System
+
+date: 2025-06-19, from: Michael Tsai
+
+Tim Hardwick: In System Settings &#x279D; Appearance, there are still the standard Auto, Light, and Dark modes, but Apple has added several options that allow you to really mix things up and create your own stylized desktop environment.[&#8230;]Meanwhile, a new &#8220;Icon &#38; widget style&#8221; section offers three distinct modes alongside the Default. Like iOS 18, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/19/macos-tahoes-new-theming-system/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-19, from: Dave Winer's linkblog)
+
+Scripting News: Bill Atkinson and QuickDraw. 
+
+<br> 
+
+<http://scripting.com/2025/06/19/152802.html>
+
+---
+
+## Emmys 2025: FYC – actriz, serie limitada: Michelle Williams – Dying for Sex
+
+date: 2025-06-19, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Los Premios Emmy, el máximo reconocimiento de la industria de la televisión, es un escenario en donde se han distinguido algunas de las actuaciones más memorables de los últimos años y que podemos disfrutar en la pantalla chica. Cada año destacan aquellas interpretaciones que han dejado huella en el público y la crítica. Ya hemos [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/emmys-2025-fyc-actriz-serie-limitada-michelle-williams-dying-for-sex/">Emmys 2025: FYC – actriz, serie limitada: Michelle Williams – Dying for Sex</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/emmys-2025-fyc-actriz-serie-limitada-michelle-williams-dying-for-sex/?utm_source=rss&utm_medium=rss&utm_campaign=emmys-2025-fyc-actriz-serie-limitada-michelle-williams-dying-for-sex>
+
+---
+
+## How OpenElections Uses LLMs
+
+date: 2025-06-19, updated: 2025-06-19, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html">How OpenElections Uses LLMs</a></strong></p>
+The <a href="https://github.com/openelections">OpenElections project</a> collects detailed election data for the USA, all the way down to the precinct level. This is a <em>surprisingly</em> hard problem: while county and state-level results are widely available, precinct-level results are published in thousands of different ad-hoc ways and rarely aggregated once the election result has been announced.</p>
+<p>A lot of those precinct results are published as image-filled PDFs.</p>
+<p>Derek Willis has recently started leaning on Gemini to help parse those PDFs into CSV data:</p>
+<blockquote>
+<p>For parsing image PDFs into CSV files, Google’s Gemini is my model of choice, for two main reasons. First, the results are usually very, very accurate (with a few caveats I’ll detail below), and second, Gemini’s large context window means it’s possible to work with PDF files that can be multiple MBs in size.</p>
+</blockquote>
+<p>Is <a href="https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html">this piece</a> he shares the process and prompts for a real-world expert level data entry project, assisted by Gemini.</p>
+<p>This example from Limestone County, Texas is a great illustration of how tricky this problem can get. Getting traditional OCR software to correctly interpret multi-column layouts like this always requires some level of manual intervention:</p>
+<p><img alt="The results are typewritten and slightly wonky and come in several different columns" src="https://static.simonwillison.net/static/2025/election-results.jpg" /></p>
+<p>Derek's <a href="https://aistudio.google.com/app/prompts/1vZq4hi_eCqR58TkuzqPugDcOc2kE1tms">prompt against Gemini 2.5 Pro</a> throws in an example, some special instructions and a note about the two column format:</p>
+<blockquote>
+<p><code>Produce a CSV file from the attached PDF based on this example:</code></p>
+<p><code>county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day</code><br>
+<code>Limestone,Precinct 101,Registered Voters,,,,1858,,,</code><br>
+<code>Limestone,Precinct 101,Ballots Cast,,,,1160,,,</code><br>
+<code>Limestone,Precinct 101,President,,REP,Donald J. Trump,879,,,</code><br>
+<code>Limestone,Precinct 101,President,,DEM,Kamala D. Harris,271,,,</code><br>
+<code>Limestone,Precinct 101,President,,LIB,Chase Oliver,1,,,</code><br>
+<code>Limestone,Precinct 101,President,,GRN,Jill Stein,4,,,</code><br>
+<code>Limestone,Precinct 101,President,,,Write-ins,1,,,</code></p>
+<p><code>Skip Write-ins with candidate names and rows with "Cast Votes", "Not Assigned", "Rejected write-in votes", "Unresolved write-in votes" or "Contest Totals". Do not extract any values that end in "%"</code></p>
+<p><code>Use the following offices:</code></p>
+<p><code>President/Vice President -&gt; President</code><br>
+<code>United States Senator -&gt; U.S. Senate</code><br>
+<code>US Representative -&gt; U.S. House</code><br>
+<code>State Senator -&gt; State Senate</code></p>
+<p><code>Quote all office and candidate values. The results are split into two columns on each page; parse the left column first and then the right column.</code><br></p>
+</blockquote>
+<p>A spot-check and a few manual tweaks and <a href="https://github.com/openelections/openelections-data-tx/blob/master/2024/counties/20241105__tx__general__limestone__precinct.csv">the result</a> against a 42 page PDF was exactly what was needed.</p>
+<p>How about something harder? The results for Cameron County came as more than 600 pages and looked like this - note the hole-punch holes that obscure some of the text!</p>
+<p><img alt="Precinct results report, Cameron County Texas, November 5th 2024. A hole punch hole obscures Precinct 16 and another further down the page deletes the first three letters in both Undervotes and Overvotes" src="https://static.simonwillison.net/static/2025/cameron.png" /></p>
+<p>This file had to be split into chunks of 100 pages each, and the entire process still took a full hour of work - but the resulting table matched up with the official vote totals.</p>
+<p>I love how realistic this example is. AI data entry like this isn't a silver bullet - there's still a bunch of work needed to verify the results and creative thinking needed to work through limitations - but it represents a very real improvement in how small teams can take on projects of this scale.</p>
+<blockquote>
+<p>In the six weeks since we started working on Texas precinct results, we’ve been able to convert them for more than half of the state’s 254 counties, including many image PDFs like the ones on display here. That pace simply wouldn’t be possible with data entry or traditional OCR software.</p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44320001">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/data-journalism">data-journalism</a>, <a href="https://simonwillison.net/tags/derek-willis">derek-willis</a>, <a href="https://simonwillison.net/tags/ocr">ocr</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/structured-extraction">structured-extraction</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/19/how-openelections-uses-llms/#atom-everything>
+
+---
+
+## Lilbits: Hacking the Humane Ai Pin, Liberux NEXX Linux phone, and swearing at your Windows PC
+
+date: 2025-06-19, from: Liliputing
+
+<p>The Humane Ai Pin was supposed to be a wearable device that allowed you to interact with an AI assistant throughout the day without using your phone or computer. But when it hit the streets last year it was widely panned as an overpriced, underpowered device that largely failed to deliver on its promise. So [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-hacking-the-humane-ai-pin-liberux-nexx-linux-phone-and-swearing-at-your-windows-pc/">Lilbits: Hacking the Humane Ai Pin, Liberux NEXX Linux phone, and swearing at your Windows PC</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-hacking-the-humane-ai-pin-liberux-nexx-linux-phone-and-swearing-at-your-windows-pc/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-19, from: Dave Winer's linkblog)
+
+After blowing up FEMA and trying to overthrow the governor of California, reorganizing the financial system of the world, and plotting to blow up Iran, the hurricanes didn’t get the memo. 
+
+<br> 
+
+<https://www.nytimes.com/2025/06/19/world/americas/hurricane-erick-mexico-landfall.html>
+
+---
+
+## UP TWL is a credit card-sized PC with up to an Intel Core 3 N355 Twin Lake processor
+
+date: 2025-06-19, from: Liliputing
+
+<p>AAEON has launched two new credit card-sized computers with Intel Twin Lake processors. The UP TWL is a model aimed at developers and hobbyists that could easily be mistaken for a Raspberry Pi, while the UP TWLS is a version designed for IoT solutions. Both are available with support for Intel N150 or N250 quad-core processors [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/up-twl-is-a-credit-card-sized-pc-with-up-to-an-intel-core-3-n355-twin-lake-processor/">UP TWL is a credit card-sized PC with up to an Intel Core 3 N355 Twin Lake processor</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/up-twl-is-a-credit-card-sized-pc-with-up-to-an-intel-core-3-n355-twin-lake-processor/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-19, from: Dave Winer's linkblog)
+
+Why are these officers covering their faces if not to avoid accountability? 
+
+<br> 
+
+<https://wapo.st/4l7a1ch>
+
+---
+
+## GEEKOM IT15 Arrow lake-H mini PC now available for $749 and up
+
+date: 2025-06-19, from: Liliputing
+
+<p>The GEEKOM IT15 is a small desktop computer with support for up to an Intel Core Ultra 9 285H 16-core Arrow Lake processor with Intel Arc graphics, up to 64GB of DDR5-5600 dual-channel memory, and room inside the case for up to three storage devices. First unveiled during CES in January, the GEEKOM IT15 is now [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/geekom-it15-arrow-lake-h-mini-pc-now-available-for-749-and-up/">GEEKOM IT15 Arrow lake-H mini PC now available for $749 and up</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/geekom-it15-arrow-lake-h-mini-pc-now-available-for-749-and-up/>
+
+---
+
+## Los sobrevivientes: thriller genérico, pero entretenido
+
+date: 2025-06-19, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Disponible en: Netflix. Creador: Tony Ayres. Elenco: Charlie Vickers, Yerin Ha, Miriama Smith, Catherine McClements, Damien Garvey, Robyn Malcolm, Ned Morgan, Eloise Rothfield, Johnny Carr, George Mason, Martin Sacks, Jessica De Gouw, Don Hany, Thom Green, Benedict Hardie, Julian Weeks, Talon Hopper, Esther Son. Duración: seis episodios de una hora. País: Australia. Más información de [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-los-sobrevivientes/">Los sobrevivientes: thriller genérico, pero entretenido</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-los-sobrevivientes/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-los-sobrevivientes>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-19, from: Dave Winer's linkblog)
+
+A Time for Choosing: Should House Dems Break With Collaborationism? 
+
+<br> 
+
+<https://www.texasobserver.org/dems-89th-legislative-session-what-now/>
+
+---
+
+## The Pro-Cancer Lobby
+
+date: 2025-06-19, updated: 2025-06-19, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/06/19/the-pro-cancer-lobby/>
+
+---
+
+## How to Optimize Your Decision-Making
+
+date: 2025-06-19, from: Guy Kawasaki blog
+
+Why does your brain choose an orange over an apple? 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/how-to-optimize-your-decision-making>
+
+---
+
+## Clarified zucchini consommé
+
+date: 2025-06-19, updated: 2025-06-19, from: Simon Willison’s Weblog
+
+<p>I continue to have fun running fantasy cooking prompts through LLMs - this time <a href="https://chatgpt.com/share/685370a2-1d28-8006-8552-7d571742c1b4">I tried</a> "Give me a wildly ambitious recipe for zucchini cooked three ways" followed by "Go more ambitious" and now I need to get myself a centrifuge to help spherify my clarified zucchini consommé.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/cooking">cooking</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/19/clarified-zucchini-consomme/#atom-everything>
+
+---
+
+## Quoting Arvind Narayanan
+
+date: 2025-06-19, updated: 2025-06-19, from: Simon Willison’s Weblog
+
+<blockquote cite="https://twitter.com/random_walker/status/1935679764192256328"><p>Radiology has embraced AI enthusiastically, and the labor force is growing nevertheless. The augmentation-not-automation effect of AI is despite the fact that AFAICT there is no identified "task" at which human radiologists beat AI. So maybe the "jobs are bundles of tasks" model in labor economics is incomplete. [...]</p>
+<p>Can you break up your own job into a set of well-defined tasks such that if each of them is automated, your job as a whole can be automated? I suspect most people will say no. But when we think about <em>other people's jobs</em> that we don't understand as well as our own, the task model seems plausible because we don't appreciate all the nuances.</p></blockquote>
+<p class="cite">&mdash; <a href="https://twitter.com/random_walker/status/1935679764192256328">Arvind Narayanan</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/careers">careers</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/arvind-narayanan">arvind-narayanan</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/19/arvind-narayanan/#atom-everything>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-19, from: Feed for Alt USDS)
+
+Remembering the struggle, honoring the victory, and celebrating the inimitable Ms. Opal Lee.
+
+Out of adversity came unity, but the work is not done. We recommend watching Ava Duvernay’s documentary “13th” on Netflix to learn more about how racial inequity is still written into US law.
+
+ #Juneteenth 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lrxm5xwe6c2e>
 
 ---
 
@@ -351,7 +647,7 @@ Fascinating, detailed account by Monroe Clinton of a geospatial machine learning
     <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44307629">Hacker News</a></small></p>
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/machine-learning">machine-learning</a>, <a href="https://simonwillison.net/tags/geospatial">geospatial</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/python">python</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/geospatial">geospatial</a>, <a href="https://simonwillison.net/tags/machine-learning">machine-learning</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/ai">ai</a></p> 
 
 <br> 
 
@@ -604,7 +900,7 @@ llm 'Generate an SVG of a pelican riding a bicycle' \
 <p>In the Twitter Space they mentioned that the difference between thinking and non-thinking mode for 2.5 Flash Preview had caused a lot of confusion, and the new price should still work out cheaper for thinking-mode uses. Using that model in non-thinking mode was always a bit odd, and hopefully the new 2.5 Flash Lite can fit those cases better (though it's actually also a "thinking" model.)</p>
 <p>I've updated my <a href="https://www.llm-prices.com/">llm-prices.com</a> site with the prices of the new models.</p>
     
-        <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+        <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a></p> 
 
 <br> 
 
@@ -1102,7 +1398,7 @@ I only just heard about this Cloudflare initiative, though it's been around for 
 </blockquote>
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/journalism">journalism</a>, <a href="https://simonwillison.net/tags/cloudflare">cloudflare</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/denial-of-service">denial-of-service</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/denial-of-service">denial-of-service</a>, <a href="https://simonwillison.net/tags/journalism">journalism</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/cloudflare">cloudflare</a></p> 
 
 <br> 
 
@@ -1341,7 +1637,7 @@ date: 2025-06-16, updated: 2025-06-16, from: Simon Willison’s Weblog
 <p>Developers who misunderstand these terms and assume prompt injection is the same as jailbreaking will frequently ignore this issue as irrelevant to them, because they don't see it as their problem if an LLM embarrasses its vendor by spitting out a recipe for napalm. The issue really <em>is</em> relevant - both to developers building applications on top of LLMs and to the end users who are taking advantage of these systems by combining tools to match their own needs.</p>
 <p>As a user of these systems you <em>need to understand</em> this issue. The LLM vendors are not going to save us! We need to avoid the lethal trifecta combination of tools ourselves to stay safe.</p>
     
-        <p>Tags: <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/model-context-protocol">model-context-protocol</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/exfiltration-attacks">exfiltration-attacks</a></p> 
+        <p>Tags: <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/exfiltration-attacks">exfiltration-attacks</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/model-context-protocol">model-context-protocol</a></p> 
 
 <br> 
 
@@ -1627,7 +1923,7 @@ A few weeks ago Apple Research released a new paper <a href="https://machinelear
     <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44278403">Hacker News</a></small></p>
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/apple">apple</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/apple">apple</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a></p> 
 
 <br> 
 
@@ -1745,7 +2041,7 @@ ambiguous request like “email Mike about the project update” could lead the 
 </blockquote>
 <p>I'm much more interested in their layer 1 defences then the approaches they are taking in layer 2.</p>
     
-        <p>Tags: <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/exfiltration-attacks">exfiltration-attacks</a>, <a href="https://simonwillison.net/tags/paper-review">paper-review</a>, <a href="https://simonwillison.net/tags/agent-definitions">agent-definitions</a></p> 
+        <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/exfiltration-attacks">exfiltration-attacks</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/paper-review">paper-review</a>, <a href="https://simonwillison.net/tags/agent-definitions">agent-definitions</a></p> 
 
 <br> 
 

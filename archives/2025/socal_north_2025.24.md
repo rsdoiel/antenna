@@ -1,11 +1,142 @@
 ---
 title: socal north
-updated: 2025-06-19 06:07:27
+updated: 2025-06-19 14:07:46
 ---
 
 # socal north
 
-(date: 2025-06-19 06:07:27)
+(date: 2025-06-19 14:07:46)
+
+---
+
+## City Council OKs construction contract for grandstands at Queen Mary-adjacent amphitheater
+
+date: 2025-06-19, from: Longbeach Post
+
+<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-1024x576.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-1024x576.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-300x169.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-768x432.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-192x108.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-1200x675.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-400x225.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L.png 1440w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Initially projected to open by the fall, the shoreline amphitheater now has a tentative opening date of April 2026.</p>
+<p>The post <a href="https://lbpost.com/news/city-council-oks-construction-contract-for-grandstands-at-queen-mary-adjacent-amphitheater">City Council OKs construction contract for grandstands at Queen Mary-adjacent amphitheater</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city-council-oks-construction-contract-for-grandstands-at-queen-mary-adjacent-amphitheater>
+
+---
+
+## Dodgers turn federal agents away from stadium, team says. Crowd briefly protests outside
+
+date: 2025-06-19, updated: 2025-06-19, from: The LAist
+
+An official Dodgers social media account says the organization denied agents entry to the stadium parking lots Thursday morning. An LAist reporter saw people in tactical gear with their faces covered by masks on the road that leads to the Dodger Stadium downtown gate. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/protesters-media-and-police-gather-at-dodger-stadium-prompted-by-ice-rumors>
+
+---
+
+## Spectrum says its lines were cut in a ‘criminal act of vandalism’ that caused large internet outage
+
+date: 2025-06-19, from: Longbeach Post
+
+<figure><img width="507" height="323" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19114428/spetrum-1-photo-cut-521975-hqshkw5f-140425-nmhhBlv2.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19114428/spetrum-1-photo-cut-521975-hqshkw5f-140425-nmhhBlv2.jpg 507w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19114428/spetrum-1-photo-cut-521975-hqshkw5f-140425-nmhhBlv2-300x191.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19114428/spetrum-1-photo-cut-521975-hqshkw5f-140425-nmhhBlv2-170x108.jpg 170w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19114428/spetrum-1-photo-cut-521975-hqshkw5f-140425-nmhhBlv2-400x255.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Service was expected to be restored by 3 p.m., according to an update sent by Spectrum.</p>
+<p>The post <a href="https://lbpost.com/news/crime/spectrum-internet-outage-long-beach-vandalism-lines-cut">Spectrum says its lines were cut in a ‘criminal act of vandalism’ that caused large internet outage</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/spectrum-internet-outage-long-beach-vandalism-lines-cut>
+
+---
+
+## Screen addiction and suicidal behaviors are linked for teens, a study shows
+
+date: 2025-06-19, updated: 2025-06-19, from: The LAist
+
+The study, published in JAMA, followed teens for years and evaluated addictive behaviors, as well as suicidality. 
+
+<br> 
+
+<https://laist.com/news/health/screen-addiction-and-suicidal-behaviors-are-linked-for-teens-a-study-shows>
+
+---
+
+## Police, DA refuse to release records on Latina senator’s DUI arrest near Capitol
+
+date: 2025-06-19, updated: 2025-06-19, from: The LAist
+
+Sacramento police and the district attorney have refused to release records about the investigation that could show who’s telling the truth. 
+
+<br> 
+
+<https://laist.com/news/politics/police-da-refuse-to-release-records-on-latina-senators-dui-arrest-near-capitol>
+
+---
+
+## Santa Clarita Celebrates Freedom, Community and Hart Park at the Fourth of July Parade
+
+date: 2025-06-19, from: City of Santa Clarita
+
+<p>By Mayor Pro Tem Laurene Weste “America is another name for opportunity.” – Ralph Waldo Emerson &#160;&#160; Few traditions bring our community together quite like the Santa Clarita Valley Fourth of July Parade. It’s more than a celebration of our nation’s independence – it’s a reflection of who we are as a community. A day [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/19/santa-clarita-celebrates-freedom-community-and-hart-park-at-the-fourth-of-july-parade/">Santa Clarita Celebrates Freedom, Community and Hart Park at the Fourth of July Parade</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/19/santa-clarita-celebrates-freedom-community-and-hart-park-at-the-fourth-of-july-parade/>
+
+---
+
+## Trump administration cuts LGBTQ+ support from youth suicide hotline
+
+date: 2025-06-19, from: Longbeach Post
+
+<figure><img width="1024" height="668" src="https://img.lbpost.com/wp-content/uploads/2021/03/24194439/0324-Tower-6.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2021/03/24194439/0324-Tower-6.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2021/03/24194439/0324-Tower-6-460x300.jpg 460w, https://img.lbpost.com/wp-content/uploads/2021/03/24194439/0324-Tower-6-1110x724.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/03/24194439/0324-Tower-6-768x501.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/03/24194439/0324-Tower-6-1536x1001.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/03/24194439/0324-Tower-6-2048x1335.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/03/24194439/0324-Tower-6-1320x861.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Currently, those who call 988 and press 3 are connected with counselors who are specifically trained to assist LGBTQ+ youth. But, now, funding for that option will end.</p>
+<p>The post <a href="https://lbpost.com/news/lgbtq/trump-administration-cuts-lgbtq-support-from-youth-suicide-hotline">Trump administration cuts LGBTQ+ support from youth suicide hotline</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/lgbtq/trump-administration-cuts-lgbtq-support-from-youth-suicide-hotline>
+
+---
+
+## Community college adjunct professors optimistic as two lawsuits over pay progress
+
+date: 2025-06-19, updated: 2025-06-19, from: The LAist
+
+Two lawsuits, in courts in Sacramento and Los Angeles, advance the argument that adjunct professors should be paid more for the work they perform. 
+
+<br> 
+
+<https://laist.com/news/education/community-college-adjunct-professors-optimistic-as-two-lawsuits-over-pay-progress>
+
+---
+
+## Best things to do this weekend in LA and SoCal: June 20 - 22
+
+date: 2025-06-19, updated: 2025-06-19, from: The LAist
+
+Parade at the Ahmanson, the Pixies play the Palladium, OCMA’s biennial opens with The Linda Lindas, a Pride swim session in Santa Monica, glow-in-the-dark Groundlings comedy and more. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-weekend-los-angeles-southern-california-june-20-22>
+
+---
+
+## How Salt & Straw's head chef found solutions to ice cream's biggest problems
+
+date: 2025-06-19, updated: 2025-06-19, from: The LAist
+
+Tyler Malek reveals the inner operation of flavor pairing and problem solving. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/how-salt-straw-head-chef-found-solutions-to-ice-cream-problems>
 
 ---
 
@@ -61,7 +192,7 @@ Recent court drama follows five years of disputes between the L.A. Alliance for 
 
 date: 2025-06-19, from: Longbeach Post
 
-<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912.jpg 2000w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-450x300.jpg 450w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-1110x740.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-1536x1023.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-2048x1364.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-1320x880.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912.jpg 2000w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-450x300.jpg 450w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-1110x740.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-1536x1023.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-2048x1364.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-1320x880.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The driver was killed in the accident on Pier T Avenue, police said.</p>
 <p>The post <a href="https://lbpost.com/news/truck-driver-run-over-by-his-own-semi-when-its-rear-ended-long-beach-police-say">Truck driver run over by his own semi when it’s rear-ended, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -172,7 +303,7 @@ The reported deal with Dodgers chairman Mark Walter is worth $10 billion.
 
 date: 2025-06-18, from: Longbeach Post
 
-<figure><img width="1024" height="789" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-1024x789.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-1024x789.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-300x231.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-768x592.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-140x108.jpg 140w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-400x308.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="789" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-1024x789.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-1024x789.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-300x231.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-768x592.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-140x108.jpg 140w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-400x308.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The city will soon require grocery and drug stores to staff a minimum number of employees at self-checkout counters. They say the move will deter theft.</p>
 <p>The post <a href="https://lbpost.com/news/self-checkout-staffing-minimum-law-long-beach">Long Beach City Council votes to mandate more staffing at self-checkout lanes</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

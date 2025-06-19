@@ -1,15 +1,235 @@
 ---
 title: planet
-updated: 2025-06-19 06:07:24
+updated: 2025-06-19 14:07:43
 ---
 
 # planet
 
-(date: 2025-06-19 06:07:24)
+(date: 2025-06-19 14:07:43)
 
 ---
 
-## Man apologises for threating TD Paul Murphy's wife
+## Edward Walsh sworn in as US ambassador to Ireland
+
+date: 2025-06-19, from: RTÉ News
+
+American businessman Edward Walsh has been sworn in as the new US ambassador to Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0619/1519412-edward-walsh-sworn-in-as-us-ambassador-to-ireland/>
+
+---
+
+## Kneecap: 'We're getting upper hand on British Empire'
+
+date: 2025-06-19, from: RTÉ News
+
+DJ Próvaí of Belfast rap trio Kneecap has thanked fans who turned out to support them ahead of bandmate Liam Óg Ó hAnnaidh's court case in London for an alleged terrorism offence. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0619/1519391-kneecap-thankful-for-support-over-mo-chara-court-case/>
+
+---
+
+## Gardaí to conduct interviews in Iceland over Jónsson case
+
+date: 2025-06-19, from: RTÉ News
+
+Gardaí are due to go to Iceland next week to interview a number of people as part of the investigation into the disappearance of Icelandic man Jón Jónsson, police in Iceland have confirmed. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0619/1519408-gardai-iceland/>
+
+---
+
+## Watch: How US could become involved in attacks on Iran
+
+date: 2025-06-19, from: RTÉ News
+
+US President Donald Trump is considering whether to join Israel's campaign against Iran's military and nuclear capabilities. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0619/1519403-iran-israel-us/>
+
+---
+
+## MEP calls on EU official to apologise over Irish comments
+
+date: 2025-06-19, from: RTÉ News
+
+An Irish MEP has asked the EU's most senior foreign affairs official to apologise for suggesting Ireland's policy of neutrality is in part due to Ireland not having a modern-day understanding of "atrocities, mass deportations, suppression of culture and language". 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0619/1519390-ireland-remarks-kallas/>
+
+---
+
+## Bishop of Kharkiv: We are a Church under bombs that loves and defies death
+
+date: 2025-06-19, from: Vatican News
+
+
+                    <p>In an interview with Vatican Media, Bishop Pavlo Honcharuk of Kharkiv-Zaporizhzhia, who met Pope Leo XIV at the General Audience, says he will bring the Pope’s blessing to his suffering country, and recounts "a devastated city, where bombings strike even playgrounds, deepening civilians’ fear and soldiers’ pain," but in which, "sisters and priests remain, despite everything."</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/bishop-of-kharkiv-we-are-a-church-under-bombs-interview-ukraine.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/bishop-of-kharkiv-we-are-a-church-under-bombs-interview-ukraine.html>
+
+---
+
+## Mother fasting as she demands search of Regina landfill for daughter's remains
+
+date: 2025-06-19, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7565898.1750356584!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/michele-bear-regina-landfill-june-19-2025.jpeg' alt='A woman stands beside a poster that says &quot;Richele Bear: Her remains need to be located.&quot;' width='620' height='349' title='Michele Bear is calling for the Regina landfill to be searched for the remains of her daughter, Richele Bear. Richele Bear was murdered in 2013 and her killer is in prison, but her remains have never been found.'/><p>Michele Bear is fasting and says she will stay at the Regina landfill, which she believes holds the remains of her daughter, "as long as it takes." Clayton Bo Eichler pled guilty in 2016 to murdering Richele Bear in 2013, but her body has never been found.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatoon/mother-fasting-demands-search-regina-landfill-1.7565665?cmp=rss>
+
+---
+
+## Israel and Iran exchange missile fire as tensions escalate
+
+date: 2025-06-19, from: Vatican News
+
+
+                    <p>Iranian missiles have inflicted significant damage in Isreal after penetrating its air defences on the 7th day of the conflict.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/israel-and-iran-exchange-missile-fire-as-tensions-escalate.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/israel-and-iran-exchange-missile-fire-as-tensions-escalate.html>
+
+---
+
+## Ukraine, Russia talks uncertain amid deadly strikes on Kyiv 
+
+date: 2025-06-19, from: Vatican News
+
+
+                    <p>Russian President Vladimir Putin said Thursday he was ready to meet with Ukrainian counterpart Volodymyr Zelenskyy but only during a “final phase” of negotiations on ending Europe’s deadliest conflict since World War II. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/ukraine-russia-talks-uncertain-amid-deadly-strikes-on-kyiv.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/ukraine-russia-talks-uncertain-amid-deadly-strikes-on-kyiv.html>
+
+---
+
+## Bar manager wins €8,000 for unfair dismissal
+
+date: 2025-06-19, from: RTÉ News
+
+A bar manager who denied accusations that he was "defrauding" the patrons of a Dublin hotel by tacking on a 10% service charge to tables that weren't meant to pay it has won €8,000 for unfair dismissal. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0619/1519369-bar-manager-wins-8-000-for-unfair-dismissal/>
+
+---
+
+## Spotlight on CHI far from over after tense cttee hearing
+
+date: 2025-06-19, from: RTÉ News
+
+Today's appearance by Children's Health Ireland before the Joint Oireachtas Committee on Health was a very tense and difficult affair, writes Fergal Bowers. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0619/1519366-childrens-health-ireland/>
+
+---
+
+## Dallas Cowboys cheerleaders' 400% raise is a reminder of how little female athletes get paid
+
+date: 2025-06-19, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7565364.1750339623!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/commanders-cowboys-football.jpg' alt='A row of cheerleaders waving pom poms' width='620' height='349' title='Dallas Cowboys cheerleaders perform during pregame ceremonies before an NFL football game against the Washington Commanders on Sunday, Jan. 5, 2025, in Arlington, Texas.'/><p>The Dallas Cowboys Cheerleaders say they're getting a 400 per cent pay raise, shedding light on just how little NFL cheerleaders, and female athletes in general, get paid.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/dallas-cowboys-cheerleaders-pay-1.7565340?cmp=rss>
+
+---
+
+## Interview with VOSS Student Isabella Macias
+
+date: 2025-06-19, from: Vatican Obervatory
+
+A discussion with 2025 Vatican Observatory Summer School Student Isabella Macias 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/interview-with-voss-student-isabella-macias/>
+
+---
+
+## “León De Perú”: Vatican Media to release documentary on Prevost’s years of mission 
+
+date: 2025-06-19, from: Vatican News
+
+
+                    <p>At 5:00 PM (Rome time), the documentary will be released in three languages (Spanish, English, and Italian) across Vatican media channels. A special preview for accredited journalists, organized by the Holy See Press Office, will be held at 4:00 PM at the Vatican Film Library.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/leon-de-peru-vatican-media-to-release-documentary-on-prevost.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/leon-de-peru-vatican-media-to-release-documentary-on-prevost.html>
+
+---
+
+## Erick makes landfall in southern Mexico as Category 3 hurricane
+
+date: 2025-06-19, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/9faa7281-b23f-496a-920a-8879755cc58d,1750354314459/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C264%2C5078%2C2856%29%3BResize%3D%28620%29' alt='People walk through debris on the waterfront.' width='620' height='349' title='A walks through debris after Hurricane Erick hit near Puerto Escondido, Oaxaca state, Mexico, Thursday, June 19, 2025. (AP Photo/Luis Alberto Cruz)'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/hurricane-erick-mexico-oaxaca-1.7565692?cmp=rss>
+
+---
+
+## Ex-school bursar jailed for year over theft of €500,000
+
+date: 2025-06-19, from: RTÉ News
+
+A 63-year-old former school bursar who stole €500,000 from her employer over five years to fund a gambling addiction has been jailed for a year. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0619/1519355-mary-higgins-court/>
+
+---
+
+## We want land returned, Wolastoqey say as they fight to keep forestry parcels in claim
+
+date: 2025-06-19, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7565695.1750351171!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/renee-pelletier.jpg' alt='Photo of lawyer Renee Pelletier in front of the N.B. Court of Appeal ' width='620' height='349' title='Renée Pelletier, lawyer representing the Wolastoqey Nation in a title claim lawsuit says the case will likley go to Canada&apos;s highest court. '/><p>Lawyers for Wolastoqey Nation say just because the Crown gave away land, doesn't extinguish their claim to it, including the hundreds of thousands of hectares they want returned from New Brunswick forestry companies.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/new-brunswick/wolastoqey-title-claim-forestry-court-1.7565669?cmp=rss>
+
+---
+
+## Man apologises for threatening TD Paul Murphy's wife
 
 date: 2025-06-19, from: RTÉ News
 
@@ -18,6 +238,22 @@ A man who threatened Dublin South-West TD Paul Murphy with slitting his wife's t
 <br> 
 
 <https://www.rte.ie/news/courts/2025/0619/1519345-man-apologises-for-threating-td-paul-murphys-wife/>
+
+---
+
+## Pope Leo XIV visits Vatican Radio Transmission Center outside of Rome
+
+date: 2025-06-19, from: Vatican News
+
+
+                    <p>On the anniversary of his priestly ordination, Pope Leo XIV travels to the Vatican Radio shortwave transmission center in the town of Santa Maria di Galeria in the Lazio region, and expresses gratitude for the work carried out “with fidelity and continuity, even on a feast day” and for a service that reaches places “where few broadcasters are able to go.”</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/leo-xiv-visits-vatican-radio-transmission-center-outside-of-rome.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/leo-xiv-visits-vatican-radio-transmission-center-outside-of-rome.html>
 
 ---
 
@@ -33,6 +269,18 @@ An attempt to break the world record for the longest game of men's rugby is taki
 
 ---
 
+## Records for longest games of men and women's rugby broken
+
+date: 2025-06-19, from: RTÉ News
+
+The Guinness World Records for the longest game of both men and women's rugby have been broken. In 'The Longest Game', the men's record stood at 30 hours 29 minutes while the women's record was 24 hours and 5 minutes. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0619/1519333-rugby-record-attempt/>
+
+---
+
 ## Govt walking 'into disaster' over GP jobs, Dáil told
 
 date: 2025-06-19, from: RTÉ News
@@ -42,6 +290,90 @@ The Government is walking the country "into a disaster" by not taking the recrui
 <br> 
 
 <https://www.rte.ie/news/politics/2025/0619/1519331-gp-recruitment-ireland/>
+
+---
+
+## World News in Brief: Global investment plunges, hurricane season in Haiti, rising cholera and hunger in South Sudan
+
+date: 2025-06-19, from: United Nations, Top Stories
+
+Global investment fell a full 11 per cent to $1.5 trillion last year – it’s a huge blow for developing nations, the UN trade agency, UNCTAD, said on Thursday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164631>
+
+---
+
+## World Refugee Day: telling their stories
+
+date: 2025-06-19, from: United Nations, Top Stories
+
+Of the 122 million people globally displaced by persecution, violence or human rights violations, 42.7 million are refugees who have fled across borders, according to new data from the UN refugee agency (UNHCR).&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164626>
+
+---
+
+## Long after the guns fall silent, conflict-related sexual violence leaves lasting scars
+
+date: 2025-06-19, from: United Nations, Top Stories
+
+Sexual violence in conflict is a tactic of war, torture and terror. It does not only devastate survivors but also tears apart families and communities. The trauma, shame and stigma are borne by victims, not perpetrators – echoing across generations.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164621>
+
+---
+
+## UN warns of mounting humanitarian toll as Israel-Iran hostilities continue
+
+date: 2025-06-19, from: United Nations, Top Stories
+
+As deadly missile exchanges between Israel and Iran enter a second week, the United Nations is sounding alarm over the growing toll on civilians, warning of mass displacement and regional instability. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164616>
+
+---
+
+## Monitoring Iran and promoting peaceful nuclear use – IAEA role explained
+
+date: 2025-06-19, from: United Nations, Top Stories
+
+Just days before Israel launched a bombing campaign against Iran, the UN watchdog agency monitoring Iran’s nuclear activities warned that the country was in violation of its non-proliferation commitments.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164611>
+
+---
+
+## Development is ‘the first line of defense against conflict,’ Guterres tells Security Council
+
+date: 2025-06-19, from: United Nations, Top Stories
+
+Of the 700 million people worldwide living in extreme poverty, 40 per cent live in conflict-affected or fragile settings and this is on track to worsen, UN Secretary-General António Guterres told the Security Council on Thursday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164601>
+
+---
+
+## Gaza: As last fuel supplies run out, aid teams warn of catastrophe
+
+date: 2025-06-19, from: United Nations, Top Stories
+
+More than 100 days into Israel’s complete fuel blockade in Gaza, UN agencies still in the shattered enclave warned on Thursday that vital services are only “hours away” from shutting down. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164596>
 
 ---
 
@@ -57,7 +389,7 @@ The holder of the winning ticket in Tuesday night's €250m EuroMillions lottery
 
 ---
 
-## Gaza rescuers say 25 killed by Israeli fire
+## Israeli fire kills at least 72 in Gaza, rescuers say
 
 date: 2025-06-19, from: RTÉ News
 
@@ -66,6 +398,18 @@ Gaza's civil defence agency has said Israeli fire killed at least 25 people, inc
 <br> 
 
 <https://www.rte.ie/news/2025/0619/1519315-gaza-israel/>
+
+---
+
+## As death toll mounts, Gazans make life-risking journeys to seek food, aid
+
+date: 2025-06-19, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7565449.1750343991!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza-aid.JPG' alt='A woman cries as victims, including children, are taken from hospital.' width='620' height='349' title='A woman cries as victims, including children, are taken from hospital, after Palestinians were killed by an Israeli strike on a tent encampment sheltering displaced people, at Al-Shifa Hospital, in Gaza City, June 19, 2025. REUTERS/Mahmoud Issa'/><p>Medics said at least 51 people were killed by Israeli gunfire and military strikes Thursday, including 12 people who tried to approach a site operated by the U.S.-backed Gaza Humanitarian Foundation (GHF) in the central Gaza Strip.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/gaza-humanitarian-foundation-sites-israel-1.7565319?cmp=rss>
 
 ---
 
@@ -93,6 +437,18 @@ Hungarian police said they are banning the Budapest pride parade, which had been
 
 ---
 
+## O'Gorman to attend Pride parade in Budapest despite ban
+
+date: 2025-06-19, from: RTÉ News
+
+Green Party leader Roderic O'Gorman has said that he will travel to Hungary to attend the Budapest pride parade on 28 June. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0619/1519304-hungary-pride-march/>
+
+---
+
 ## Lord Henry – king of the castle who made Ireland rock
 
 date: 2025-06-19, from: RTÉ News
@@ -102,22 +458,6 @@ He was the lord of the manor who helped bring rock 'n' roll to the masses in Ire
 <br> 
 
 <https://www.rte.ie/entertainment/2025/0619/1519301-lord-henry-king-of-the-castle-who-made-ireland-rock/>
-
----
-
-## Bishop of Kharkiv: We are a Church under bombs that loves and defies death
-
-date: 2025-06-19, from: Vatican News
-
-
-                    <p>In an interview with Vatican Media, Bishop Pavlo Honcharuk of Kharkiv-Zaporizhzhia, who met Pope Leo XIV at the General Audience, says he will bring the Pope’s blessing to his suffering country, and recounts "a devastated city, where bombings strike even playgrounds, deepening civilians’ fear and soldiers’ pain," but in which, "sisters and priests remain, despite everything."</p>
-                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/bishop-of-kharkiv-we-are-a-church-under-bombs-interview-ukraine.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/church/news/2025-06/bishop-of-kharkiv-we-are-a-church-under-bombs-interview-ukraine.html>
 
 ---
 
@@ -161,6 +501,18 @@ Up to ten tents belonging to International Protection applicants were slashed at
 
 ---
 
+## Tents belonging to asylum seekers on Grand Canal slashed
+
+date: 2025-06-19, from: RTÉ News
+
+Up to ten tents belonging to International Protection applicants were slashed at a makeshift camp on the Grand Canal in Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0619/1519293-tents-grandcanal/>
+
+---
+
 ## As it happened: 'Frightening what was happening at CHI'
 
 date: 2025-06-19, from: RTÉ News
@@ -173,11 +525,11 @@ date: 2025-06-19, from: RTÉ News
 
 ---
 
-## Review to find Israel violated trade agreement with EU
+## Nine EU countries in call over Israeli settlement trading
 
 date: 2025-06-19, from: RTÉ News
 
-An eagerly awaited review of the EU-Israel trade agreement is expected to find that Israel has violated the agreement's human rights and international law clauses in the conduct of its war in Gaza, RTÉ News understands. 
+Ireland has joined eight other member states in asking the European Commission to examine how goods produced in illegal Jewish settlements in the Occupied Territories "can be brought into line with international law." 
 
 <br> 
 
@@ -210,6 +562,18 @@ date: 2025-06-19, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/news/canada/saskatchewan/father-daughter-tiktok-singing-indigenous-1.7563448?cmp=rss>
+
+---
+
+## Carney's contentious major projects bill clears committee
+
+date: 2025-06-19, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7562311.1750087219!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/canada-g7-20250615.JPG' alt='Prime Minister Mark Carney speaks to media as the G7 gets under way in Calgary, Alta., Sunday, June 15, 2025.' width='620' height='349' title='Prime Minister Mark Carney speaks to media as the G7 gets under way in Calgary, Alta., Sunday, June 15, 2025.'/><p>Running roughshod over the environment. Spawning the next Idle No More movement. Picking economic winners and losers. Prime Minister Mark Carney's Building Canada Act is anything if not a magnet for criticism.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/major-projects-bill-passes-clears-committee-1.7565285?cmp=rss>
 
 ---
 
@@ -277,11 +641,11 @@ A 1996 portrait of Liam and Noel Gallagher is going under the hammer in London n
 
 ---
 
-## Hurricane Erick makes landfall in Mexico
+## Major hurricane hits Mexico with flooding expected
 
 date: 2025-06-19, from: RTÉ News
 
-Hurricane Erick has made landfall in the west of Oaxaca state in Mexico, the US National Hurricane Center said. 
+Hurricane Erick made landfall on the coast of Oaxaca, Mexico, today, authorities said, potentially bringing intense rains and life-threatening floods and mudslides. 
 
 <br> 
 
@@ -301,6 +665,18 @@ Temperatures are set to soar as high as 28C tomorrow, with long spells of summer
 
 ---
 
+## Warmest day of year as 27C recorded in Co Roscommon
+
+date: 2025-06-19, from: RTÉ News
+
+A temperature of 27C has been recorded at Mount Dillon in Co Roscommon, making it, provisionally, the hottest day of the year. 
+
+<br> 
+
+<https://www.rte.ie/news/weather/2025/0619/1519237-weather-ireland/>
+
+---
+
 ## Fort Qu'Appelle, Sask., class teaches kids to sew by making ribbon skirts
 
 date: 2025-06-19, from: CBC, Indigenious News
@@ -313,11 +689,11 @@ date: 2025-06-19, from: CBC, Indigenious News
 
 ---
 
-## Khamenei 'can no longer be allowed to exist', says Katz
+## Trump to decide on Iran attack within two weeks
 
 date: 2025-06-19, from: RTÉ News
 
-Follow live developments as Iran and Israel traded further air attacks while President Donald Trump kept the world guessing about whether the US would join Israel's bombardment of Iranian nuclear and missile facilities 
+Follow live developments as Iran and Israel trade further air attacks while President Donald Trump keeps the world guessing about whether the US will join in. 
 
 <br> 
 
@@ -349,11 +725,11 @@ Sickle cell disease is the most common genetic blood disorder in the world, most
 
 ---
 
-## Next 24 hours 'crucial' in Israel-Iran war - Tánaiste
+## Harris in call with Jordanians amid repatriation efforts
 
 date: 2025-06-19, from: RTÉ News
 
-Tánaiste Simon Harris has warned that the next 24 to 48 hours will be crucial when it comes to avoiding any further escalation in the Israel-Iran conflict. 
+Tánaiste and Minister for Foreign Affairs Simon Harris has held talks with the foreign affairs ministers of Saudi Arabia and Jordan over the "increasingly dangerous" situation unfolding in the Middle East. 
 
 <br> 
 
@@ -397,11 +773,11 @@ date: 2025-06-19, from: CBC, World News
 
 ---
 
-## Fresh Iran, Israel strikes as Trump weighs US involvement
+## Iran could produce nuclear weapon 'within weeks', says US
 
 date: 2025-06-19, from: RTÉ News
 
-Iran and Israel have traded further air attacks as US President Donald Trump kept the world guessing about whether the United States would join Israel's bombardment of Iranian nuclear facilities. 
+Iran could produce a nuclear weapon in the space of a "couple of weeks," the White House has said, as US President Donald Trump debated whether to take military action against the Islamic republic. 
 
 <br> 
 
@@ -438,7 +814,7 @@ From carbon pollution to sea-level rise to global heating, the pace and level of
 
 date: 2025-06-18, from: RTÉ News
 
-Children's Health Ireland CEO Lucy Nugent has apologised to children and families impacted by recent revelations about CHI's culture, governance and practices. 
+Children's Health Ireland Chief Executive Lucy Nugent has apologised to children and families impacted by recent revelations about CHI's culture, governance and practices. 
 
 <br> 
 
@@ -950,7 +1326,7 @@ Renewable energy plants are being built across Indonesia, but for their electric
 
 ## Ahead of UN summit, countries finalise landmark ‘Compromiso de Sevilla’
 
-date: 2025-06-18, from: United Nations, Economic Development
+date: 2025-06-18, from: United Nations, Top Stories
 
 UN Member States have reached agreement on the outcome document for the Fourth International Conference on Financing for Development, to be formally adopted at an upcoming summit in Sevilla, Spain – though without the participation of the United States, which withdrew from the negotiations and announced it will not attend the conference. 
 
@@ -2917,22 +3293,6 @@ Gaza's civil defence agency said Israeli troops have killed 20 people waiting to
 
 ---
 
-## Exploring the cosmos fills us with wonder, Pope tells scientists
-
-date: 2025-06-16, from: Vatican News
-
-
-                    <p>Pope Leo XIV receives participants in the Vatican Observatory’s Summer School program, inviting them to share the joy they experience in exploring the cosmos and to contribute to a more peaceful and just world through the pursuit of knowledge.</p>
-                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/exploring-the-cosmos-fills-us-with-wonder-pope-tells-scientists.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/pope/news/2025-06/exploring-the-cosmos-fills-us-with-wonder-pope-tells-scientists.html>
-
----
-
 ## Areas in Dublin and Cork 'seriously littered' - IBAL
 
 date: 2025-06-16, from: RTÉ News
@@ -2954,6 +3314,18 @@ date: 2025-06-16, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/louvre-closed-overtourism-1.7562138?cmp=rss>
+
+---
+
+## Exploring the cosmos fills us with wonder, Pope tells scientists – Vatican News
+
+date: 2025-06-16, from: Vatican Obervatory
+
+Pope Leo XIV receives participants in the Vatican Observatory’s Summer School program, inviting them to share the joy they experience in exploring the cosmos... 
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/exploring-the-cosmos-fills-us-with-wonder-pope-tells-scientists.html>
 
 ---
 

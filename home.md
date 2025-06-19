@@ -1,11 +1,124 @@
 ---
 title: home
-updated: 2025-06-19 06:07:33
+updated: 2025-06-19 14:07:50
 ---
 
 # home
 
-(date: 2025-06-19 06:07:33)
+(date: 2025-06-19 14:07:50)
+
+---
+
+## A New Design Competition Aims to Put Thousands of Empty L.A. Lots to Use
+
+date: 2025-06-19, from: Dwell
+
+Small Lots, Big Impacts asked firms to propose dynamic infill projects to address housing scarcity and affordability. Here are some of our favorite ideas. 
+
+<br> 
+
+<https://www.dwell.com/article/small-lots-big-impacts-competition-los-angeles-d93ef4ea>
+
+---
+
+## From the Archive: How the Interstate Shaped the Tri-State Area
+
+date: 2025-06-19, from: Dwell
+
+In 2006, author and native New Yorker Robert Sullivan embarked on a road trip to explore how the way we move around impacts the places we live. 
+
+<br> 
+
+<https://www.dwell.com/article/how-transportation-shapes-america-5714bf95-54c6319a>
+
+---
+
+## Architect Conrad Buff’s Los Angeles Home Is on the Market for $2M
+
+date: 2025-06-19, from: Dwell
+
+The Buff & Hensman cofounder built hundreds of houses across Southern California—and his personal residence is an ’80s gem with a geometric facade and a lofted primary suite. 
+
+<br> 
+
+<https://www.dwell.com/article/conrad-buff-residence-donald-hensman-pasadena-los-angeles-real-estate-36b6325a>
+
+---
+
+## Two Days, One Helicopter, and the Perfect Prefab Cabin in British Columbia
+
+date: 2025-06-19, from: Dwell
+
+An afterthought of a sketch inspired the rustic, off-the-grid Keats Island love nest of a couple’s dream. 
+
+<br> 
+
+<https://www.dwell.com/article/the-nest-daria-sheina-prefab-cabin-keats-island-british-columbia-37c08ea3>
+
+---
+
+## Learn How to Grow Cucumbers in Pots and Containers
+
+date: 2025-06-19, from: The Gardener's Path
+
+<p>Homegrown cucumbers are a tasty treat for salads, slicing, and pickling, featuring a mildly sweet flavor and juicy, satisfying crunch. Easily cultivated, the compact varieties make attractive and productive potted plants as well. Learn how to plant and grow cucumbers in pots and containers in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-cucumbers-containers/">Learn How to Grow Cucumbers in Pots and Containers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-cucumbers-containers/>
+
+---
+
+## Passive Design Strategies Abound in This Expanded Victorian Cottage Outside Melbourne
+
+date: 2025-06-19, from: Dwell
+
+The secret to keeping the home comfortable lies largely in the design of its corrugated zinc roofs. 
+
+<br> 
+
+<https://www.dwell.com/article/passive-design-strategies-abound-in-this-expanded-victorian-cottage-outside-melbourne-f37f8fd6>
+
+---
+
+## Experience California Agriculture — Secretary Ross applauds new agritourism website from California Grown
+
+date: 2025-06-19, from: Calfifornia Dept. Aggriculture blog
+
+From a California Grown News Release CA GROWN has unveiled a new digital destination—Experience California Agriculture—to spotlight the state’s diverse and dynamic agritourism offerings. From u-pick orchards and vineyard tours to farm stays and farm-to-table restaurants, the website serves as &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29070">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29070>
+
+---
+
+## How Fascist Italy Used Modernist Design to Spread Its Ideology
+
+date: 2025-06-19, from: Dwell
+
+A fascinating new book dives into the subtle but effective role of furniture in the cultivation of 20th-century Italian nationalism. 
+
+<br> 
+
+<https://www.dwell.com/article/how-fascist-italy-used-modernist-design-to-spread-its-ideology-f86b0a99>
+
+---
+
+## 5 Common Scorpions in Nevada (With Pictures and Identification)
+
+date: 2025-06-19, from: Yard Life blog
+
+<p>Scorpions in Nevada are a familiar part of the landscape, especially in the southern desert areas such as Las Vegas ... </p>
+<p class="read-more-container"><a title="5 Common Scorpions in Nevada (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/5-common-scorpions-in-nevada-with-pictures-and-identification/#more-30584" aria-label="Read more about 5 Common Scorpions in Nevada (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/5-common-scorpions-in-nevada-with-pictures-and-identification/">5 Common Scorpions in Nevada (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/5-common-scorpions-in-nevada-with-pictures-and-identification/>
 
 ---
 
@@ -21,6 +134,30 @@ date: 2025-06-19, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/35-common-birds-in-louisiana-with-pictures-and-identification/>
+
+---
+
+## This Untouched ’70s Lake House Got a Fresh and Groovy Update
+
+date: 2025-06-19, from: Sunset Magazine - Living in the West
+
+This '70s lake house was completely untouched. It got a complete renovation, but its owners managed to retain its groovy character. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/70s-lake-house-makeover>
+
+---
+
+## The Best Sustainable Swimwear Brands to Shop This Summer
+
+date: 2025-06-19, from: Sunset Magazine - Living in the West
+
+Swim sustainably all summer long with these eco-friendly swimwear brands from the West. There's something for everyone here. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/sustainable-swimwear-brands>
 
 ---
 
@@ -394,18 +531,6 @@ date: 2025-06-18, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/20-types-of-birds-in-virginia-with-pictures-and-identification/>
-
----
-
-## The Best Sustainable Swimwear Brands to Shop This Summer
-
-date: 2025-06-18, from: Sunset Magazine - Living in the West
-
-Swim sustainably all summer long with these eco-friendly swimwear brands from the West. There's something for everyone here. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/shopping/sustainable-swimwear-brands>
 
 ---
 

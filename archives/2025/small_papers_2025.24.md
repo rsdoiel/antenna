@@ -1,11 +1,56 @@
 ---
 title: small papers
-updated: 2025-06-19 06:07:36
+updated: 2025-06-19 14:07:53
 ---
 
 # small papers
 
-(date: 2025-06-19 06:07:36)
+(date: 2025-06-19 14:07:53)
+
+---
+
+## City Council OKs construction contract for grandstands at Queen Mary-adjacent amphitheater
+
+date: 2025-06-19, from: Long Beach Post
+
+<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-1024x576.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-1024x576.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-300x169.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-768x432.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-192x108.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-1200x675.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-400x225.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L.png 1440w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Initially projected to open by the fall, the shoreline amphitheater now has a tentative opening date of April 2026.</p>
+<p>The post <a href="https://lbpost.com/news/city-council-oks-construction-contract-for-grandstands-at-queen-mary-adjacent-amphitheater">City Council OKs construction contract for grandstands at Queen Mary-adjacent amphitheater</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city-council-oks-construction-contract-for-grandstands-at-queen-mary-adjacent-amphitheater>
+
+---
+
+## Spectrum says its lines were cut in a ‘criminal act of vandalism’ that caused large internet outage
+
+date: 2025-06-19, from: Long Beach Post
+
+<figure><img width="507" height="323" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19114428/spetrum-1-photo-cut-521975-hqshkw5f-140425-nmhhBlv2.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19114428/spetrum-1-photo-cut-521975-hqshkw5f-140425-nmhhBlv2.jpg 507w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19114428/spetrum-1-photo-cut-521975-hqshkw5f-140425-nmhhBlv2-300x191.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19114428/spetrum-1-photo-cut-521975-hqshkw5f-140425-nmhhBlv2-170x108.jpg 170w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19114428/spetrum-1-photo-cut-521975-hqshkw5f-140425-nmhhBlv2-400x255.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Service was expected to be restored by 3 p.m., according to an update sent by Spectrum.</p>
+<p>The post <a href="https://lbpost.com/news/crime/spectrum-internet-outage-long-beach-vandalism-lines-cut">Spectrum says its lines were cut in a ‘criminal act of vandalism’ that caused large internet outage</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/spectrum-internet-outage-long-beach-vandalism-lines-cut>
+
+---
+
+## Trump administration cuts LGBTQ+ support from youth suicide hotline
+
+date: 2025-06-19, from: Long Beach Post
+
+<figure><img width="1024" height="668" src="https://img.lbpost.com/wp-content/uploads/2021/03/24194439/0324-Tower-6.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2021/03/24194439/0324-Tower-6.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2021/03/24194439/0324-Tower-6-460x300.jpg 460w, https://img.lbpost.com/wp-content/uploads/2021/03/24194439/0324-Tower-6-1110x724.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/03/24194439/0324-Tower-6-768x501.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/03/24194439/0324-Tower-6-1536x1001.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/03/24194439/0324-Tower-6-2048x1335.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/03/24194439/0324-Tower-6-1320x861.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Currently, those who call 988 and press 3 are connected with counselors who are specifically trained to assist LGBTQ+ youth. But, now, funding for that option will end.</p>
+<p>The post <a href="https://lbpost.com/news/lgbtq/trump-administration-cuts-lgbtq-support-from-youth-suicide-hotline">Trump administration cuts LGBTQ+ support from youth suicide hotline</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/lgbtq/trump-administration-cuts-lgbtq-support-from-youth-suicide-hotline>
 
 ---
 
@@ -115,8 +160,8 @@ date: 2025-06-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-06-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250617_Louie_SN_18-scaled-e1750302658684.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250617_Louie_SN_18-scaled-e1750302658684.jpeg?w=1900&amp;ssl=1 1900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250617_Louie_SN_18-scaled-e1750302658684.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250617_Louie_SN_18-scaled-e1750302658684.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250617_Louie_SN_18-scaled-e1750302658684.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Names have been changed or omitted in this story to protect identities due to immigration status.   An eerie stillness hangs in the air when Louie takes his daily bike [&#8230;]</p>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250617_Louie_SN_18-1.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250617_Louie_SN_18-1.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250617_Louie_SN_18-1.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250617_Louie_SN_18-1.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250617_Louie_SN_18-1.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250617_Louie_SN_18-1.jpeg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250617_Louie_SN_18-1.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250617_Louie_SN_18-1.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250617_Louie_SN_18-1.jpeg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250617_Louie_SN_18-1.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250617_Louie_SN_18-1.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250617_Louie_SN_18-1.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Names have been changed or omitted in this story to protect identities due to immigration status. &#160; An eerie stillness hangs in the air when Louie takes his daily bike [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/06/18/a-family-strives-for-normalcy-amid-the-uncertainty-of-immigration-raids/">A Family Strives for Normalcy Amid the Uncertainty of Immigration Raids</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
 
@@ -160,7 +205,7 @@ date: 2025-06-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-06-19, from: Long Beach Post
 
-<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912.jpg 2000w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-450x300.jpg 450w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-1110x740.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-1536x1023.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-2048x1364.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-1320x880.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912.jpg 2000w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-450x300.jpg 450w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-1110x740.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-1536x1023.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-2048x1364.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/11/18125927/PIER-T_0912-1320x880.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The driver was killed in the accident on Pier T Avenue, police said.</p>
 <p>The post <a href="https://lbpost.com/news/truck-driver-run-over-by-his-own-semi-when-its-rear-ended-long-beach-police-say">Truck driver run over by his own semi when it’s rear-ended, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -175,7 +220,7 @@ date: 2025-06-19, from: Long Beach Post
 
 date: 2025-06-18, from: Long Beach Post
 
-<figure><img width="1024" height="789" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-1024x789.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-1024x789.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-300x231.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-768x592.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-140x108.jpg 140w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-400x308.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="789" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-1024x789.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-1024x789.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-300x231.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-768x592.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-140x108.jpg 140w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H-400x308.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101122/img-7470-044564-mxvn2m0b-826802-aWBvdE8H.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The city will soon require grocery and drug stores to staff a minimum number of employees at self-checkout counters. They say the move will deter theft.</p>
 <p>The post <a href="https://lbpost.com/news/self-checkout-staffing-minimum-law-long-beach">Long Beach City Council votes to mandate more staffing at self-checkout lanes</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

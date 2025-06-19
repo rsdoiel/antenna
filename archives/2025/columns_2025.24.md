@@ -1,11 +1,210 @@
 ---
 title: columns
-updated: 2025-06-19 06:07:30
+updated: 2025-06-19 14:07:48
 ---
 
 # columns
 
-(date: 2025-06-19 06:07:30)
+(date: 2025-06-19 14:07:48)
+
+---
+
+##  Want to use your phone less? Try Forest. &#8220;Whenever you want to... 
+
+date: 2025-06-19, updated: 2025-06-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0046973-want-to-use-your-phone>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-19, from: Dave Winer's Scripting News)
+
+Until further notice dissent is an act of patriotism, support of and belief in our country. 
+
+<br> 
+
+<http://scripting.com/2025/06/19.html#a192910>
+
+---
+
+## Thursday, 19 June 2025
+
+date: 2025-06-19, from: Doc Searls (at Harvard), New Old Blog
+
+AI answers may vary, but less so over time, maybe. Some moral puzzles and answers to them. Good read. Lenin Peak (Қуллаи Ибни Сино) is a  7,134 m (23,406 ft) triangular prominence in the Trans-Alay Range that divides Tajikistan and Kyrgyzstan, but was still in the Soviet Union when an avalanche killed forty-three climbers. A Crushing Wave of Snow is the [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/06/19/thursday-19-june-2025/>
+
+---
+
+##  The Fear of Never Landing is a new album from ambient music... 
+
+date: 2025-06-19, updated: 2025-06-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0046977-the-fear-of-never-landing>
+
+---
+
+##  New Music Video for Talking Heads&#8217; Psycho Killer (feat. Saoirse Ronan) 
+
+date: 2025-06-19, updated: 2025-06-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/new-music-video-for-talking-heads-psycho-killer-feat-saoirse-ronan>
+
+---
+
+##  They are doing a Spaceballs 2. (&#8220;They&#8221; includes Mel Brooks and Rick... 
+
+date: 2025-06-19, updated: 2025-06-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0046982-they-are-doing-a-spacebal>
+
+---
+
+## Yours Truly on Peter Kafka’s ‘Channels’ Podcast
+
+date: 2025-06-19, updated: 2025-06-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://overcast.fm/+QL2dEoWo4>
+
+---
+
+## iPhone Mirroring Still Not Coming to the EU, Thanks to the DMA
+
+date: 2025-06-19, updated: 2025-06-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.numerama.com/tech/1988271-mauvaise-nouvelle-iphone-mirroring-narrivera-pas-en-france-avec-ios-26.html>
+
+---
+
+##  A new study from MIT&#8217;s Media Lab (not yet peer-reviewed & small... 
+
+date: 2025-06-19, updated: 2025-06-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0046972-a-new-study-from-mits>
+
+---
+
+## Apple’s New Foundation Model Speech APIs Outpace Whisper for Transcription
+
+date: 2025-06-19, updated: 2025-06-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macstories.net/stories/hands-on-how-apples-new-speech-apis-outpace-whisper-for-lightning-fast-transcription/>
+
+---
+
+## Bungie Indefinitely Delays Reboot of ‘Marathon’
+
+date: 2025-06-19, updated: 2025-06-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.bungie.net/7/en/News/Article/marathon_update>
+
+---
+
+##  The [NYC] Subway Is Not Scary. &#8220;It&#8217;s fine and safe. It&#8217;s full... 
+
+date: 2025-06-19, updated: 2025-06-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0046974-the-nyc-subway-is-not>
+
+---
+
+## Bill Atkinson and QuickDraw
+
+date: 2025-06-19, from: Dave Winer's Scripting News
+
+<p><a href="https://en.wikipedia.org/wiki/Bill_Atkinson">Bill Atkinson</a> died two weeks ago today. </p>
+<p>I was explaining to a friend why he was so important. Most people who know of him know about <a href="https://en.wikipedia.org/wiki/MacPaint">MacPaint</a> and <a href="https://en.wikipedia.org/wiki/HyperCard">Hypercard</a>, both were fantastic contributions to the evolution of personal computers. But underneath all that he created a layer of the Macintosh OS called <a href="https://en.wikipedia.org/wiki/QuickDraw">QuickDraw</a>, which was a core innovation of the Mac, its <a href="https://en.wikipedia.org/wiki/Graphical_user_interface">graphic system</a>. Every piece of software that ran on the Macintosh ran on top of QuickDraw.</p>
+<p>Here's what QuickDraw is. Software could do things at the pixel level, a dot so small it's barely visible to the eye. What you're seeing on the screen is made up of collections of those dots, forming lines, boxes, ovals and text, and later page layouts, beautiful photography, and the text you're reading right now. The software that does all that, on the earliest Macs, is called QuickDraw. (Later a successor called Quick<i>Time</i> made the dots move and added sound, and now we have streaming.)</p>
+<p>QuickDraw is great. </p>
+<p>That's the thing. You could tell from the API that the designers really understood the tech. It wasn't the first time this had been done. And either Atkinson did it himself, working on it for years, or he "stole from the best" -- probably a lot of both. The prior art came from Xerox in Palo Alto, and the experience came from being a hard-working dedicated hacker who didn't give up until it was done. That's like saying if he were a basketball hero, he was like Bill Russell or Steph Curry. We don't talk about our accomplishments that much in tech, on a personal level, we have an idea that Steve Jobs made the Mac, but it was really created by developers, designers, graphic artists, writers and application developers.  Like Bill Atkinson.</p>
+<p>I spent many years building on his work, and many more years wishing I still was. He made a contribution, and that's, imho, pretty much the best you can say for any person's life. </p>
+<p>Thanks Bill. <span class="spOldSchoolEmoji">😄</span></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/06/19/billAtkinson.png"></center>Bill Atkinson, on his creation, MacPaint on QuickDraw on Mac.</div></p>
+<p>PS: For programmers, here's a <a href="http://scripting.com/publicfolder/scripting/misc/quickdrawApiSummary.pdf">summary</a> of the QuickDraw API.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/19/152802.html?title=billAtkinsonAndQuickdraw>
+
+---
+
+## Aviation Report: An Example of Honesty, and One of Deceit.
+
+date: 2025-06-19, from: James Fallows, Substack
+
+William Langewiesche, famed writer and aviator, was the real thing. The man chosen to lead US aviation is not. 
+
+<br> 
+
+<https://fallows.substack.com/p/aviation-report-an-example-of-honesty>
+
+---
+
+##  What Is Juneteenth and Why Does It Matter? 
+
+date: 2025-06-19, updated: 2025-06-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/what-is-juneteenth-and-why-does-it-matter>
+
+---
+
+##  Just dropped yesterday: Lane 8&#8217;s Summer 2025 Mixtape. Got this on right... 
+
+date: 2025-06-19, updated: 2025-06-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0046970-just-dropped-yesterday-la>
 
 ---
 
@@ -35,7 +234,20 @@ date: 2025-06-19, updated: 2025-06-18, from: Bruce Schneier blog
 
 ---
 
-## Does the Supreme Court Exist to Protect White Straight Supremacy?
+## /e/ OS 3.0: Slightly less clunky, slightly more private
+
+date: 2025-06-19, updated: 2025-06-19, from: Liam Proven's articles at the Register
+
+<h4>Probably the easiest way to a Google-free smartphone or tablet</h4>
+      <p>Murena&#39;s /e/ OS is arguably the most mainstream de-Googled Android OS, and the new version catches up with important features.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/19/murena_e_os_3/>
+
+---
+
+## Does the Supreme Court Exist to Protect the Power of White Straight People?
 
 date: 2025-06-19, from: Robert Reich's blog
 
@@ -101,7 +313,7 @@ date: 2025-06-18, from: Heather Cox Richardson blog
 
 date: 2025-06-18, from: Doc Searls (at Harvard), New Old Blog
 
-A summer lamentation. Yesterday was the 69th birthday of Sparky, the puppy I got for my 8th birthday in 1956. He died at age one, and is buried under the parking lot at the Boulevard Square strip mall that paves the paradise of scrub oak and pitch pines that was our summer playground at the edge [&#8230;] 
+A summer lamentation Yesterday was the 69th birthday of Sparky, the puppy I got for my 8th birthday in 1956. He died at age one, and is buried under the parking lot at the Boulevard Square strip mall that paves the paradise of scrub oak and pitch pines that was our summer playground at the [&#8230;] 
 
 <br> 
 

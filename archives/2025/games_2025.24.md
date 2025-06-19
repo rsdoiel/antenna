@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-06-19 06:07:31
+updated: 2025-06-19 14:07:49
 ---
 
 # games
 
-(date: 2025-06-19 06:07:31)
+(date: 2025-06-19 14:07:49)
+
+---
+
+## Fortnite’s new mode is perfect for iPhone and terrible for Apple
+
+date: 2025-06-19, updated: 2025-06-19, from: Polygon Website
+
+It’s been a long, protracted journey for Fortnite’s return to iPhone, as developer Epic Games fought for the right to offer consumers more options on how to spend their money in-game (and make more money in the process). For five years, the world’s biggest game disappeared from its its most popular platform in an unprecedented [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/608094/epics-biggest-flex-on-apple-a-killer-fortnite-mode-for-phones>
+
+---
+
+## All Monoco outfits in Clair Obscur: Expedition 33 and how to unlock them
+
+date: 2025-06-19, updated: 2025-06-19, from: Polygon Website
+
+Monoco is the resident Gestral of the Clair Obscur: Expedition 33 party. He joins the team relatively late, but once he’s there, he brings a sort of unique whimsy to the team. One of the best things you can pair with a killer personality and sense of humor is the right clothing and accessories. Since [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/clair-obscur-expedition-33-guides/607830/monoco-outfits-hairstyles-all-how-to-unlock>
+
+---
+
+## All Lune outfits in Clair Obscur: Expedition 33 and how to unlock them
+
+date: 2025-06-19, updated: 2025-06-19, from: Polygon Website
+
+Lune is the brains behind the Clair Obscur: Expedition 33 operation — the mage of your party and primary source of elemental damage. But it doesn’t require a rocket scientist when it comes to swag, and luckily, there is plenty to go around. Just because Lune deal with stains doesn&#8217;t mean she can&#8217;t look clean [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/clair-obscur-expedition-33-guides/607765/lune-outfits-hairstyles-all-how-to-unlock>
+
+---
+
+## Sifu developer’s new game Rematch launches without crossplay, studio apologizes
+
+date: 2025-06-19, updated: 2025-06-19, from: Polygon Website
+
+Sifu developer Sloclap launched its new soccer title Rematch on Thursday, but the arcade-style soccer game has kicked off without crossplay, limiting players to their own platforms. As Rematch is an online, team-based experience, it’s only natural for players to expect crossplay to team up with their friends across platforms, but the functionality will not [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/608065/rematch-crossplay-developer-update>
+
+---
+
+## Hitchcock’s only R-rated movies are on Netflix and make a wild double feature
+
+date: 2025-06-19, updated: 2025-06-19, from: Polygon Website
+
+Ask five random people to name one Alfred Hitchcock movie, and chances are good they’ll all say Psycho first, whether they’re  classic-movie superfans who could name all his works going back to the British silent-movie days, or they couldn’t pick Hitch out of a crowd in one of his famous director’s cameos. You could argue [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/608082/psycho-netflix-frenzy-alfred-hitchcock-r-rated-movies>
+
+---
+
+## Claw machine deckbuilder Dungeon Clawler grabbed my attention
+
+date: 2025-06-19, updated: 2025-06-19, from: Polygon Website
+
+In mid-May, I boarded a cross-Atlantic flight from Paris to New York City. I put on my podcasts, opened up my phone, and proceeded to play Dungeon Clawler for about seven hours straight. This is a recommendation. Dungeon Clawler is basically Slay the Spire with a claw machine. In the roguelike/deckbuilder, you play as Sir [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/607727/dungeon-clawler-roguelike-recommendation>
+
+---
+
+## Switch 2’s non-Nintendo games are flopping for so many reasons
+
+date: 2025-06-19, updated: 2025-06-19, from: Polygon Website
+
+Since time immemorial, the axiom’s been that you buy a Nintendo console to play Nintendo games. Third-party games made by other publishers are worthwhile, but typically those are the sorts of experiences you can find on other platforms as well. For Nintendo’s latest hardware, the Switch 2, things are trending in a similar direction — [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/608015/nintendo-switch-2-third-party-game-sales>
+
+---
+
+## How to complete ‘Skillet’s Scheme’ in Fortnite
+
+date: 2025-06-19, updated: 2025-06-19, from: Polygon Website
+
+“Skillet’s Scheme” is a hidden island story quest line in Fortnite Chapter 6 Season 3 Super. As you progress through Midas’ “A Golden Shadow” island story quest line, you’ll be asked to complete “Skillet’s Scheme,” but the game won’t tell you how to do it. However, if you do a little digging in the Quest [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/607991/skillets-scheme-how-to-complete-quest>
+
+---
+
+## How to shoot better shots in Rematch
+
+date: 2025-06-19, updated: 2025-06-19, from: Polygon Website
+
+Among the tools you have to score goals in Rematch, shooting is the most basic and important one. To help get your shots in the goal, you need to target your aim — the two white brackets on the screen — in the same direction. Otherwise, you can make terrible mistakes, like scoring an own [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/607905/better-shots-goals-how-to-score>
+
+---
+
+## 28 Years Later needed to be a stark reminder that the infected aren’t zombies
+
+date: 2025-06-19, updated: 2025-06-19, from: Polygon Website
+
+28 Days Later offered a singular twist on a horror trope: Instead of the dead rising up from the graves, the “zombies” of Danny Boyle’s zombie movie would be normal humans transformed by the man-made “Rage Virus.” And they could run.&#160; So, after years and years of Boyle and writer Alex Garland debating whether to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/607977/28-years-later-danny-boyle-alex-garland-explain-meaning>
 
 ---
 
