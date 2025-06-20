@@ -1,11 +1,231 @@
 ---
 title: home
-updated: 2025-06-20 06:08:29
+updated: 2025-06-20 14:08:06
 ---
 
 # home
 
-(date: 2025-06-20 06:08:29)
+(date: 2025-06-20 14:08:06)
+
+---
+
+## Rare Plant of the Month: English sundew
+
+date: 2025-06-20, from: California Native Plants Society
+
+<p> English sundew is a rare perennial herb is in the sundew family (Droseraceae), a group of plants that have evolved carnivorous traps to ensnare insects.</p>
+<p>The post <a href="https://www.cnps.org/rare-plants/rare-plant-of-the-month-english-sundew-43724">Rare Plant of the Month: English sundew</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/rare-plants/rare-plant-of-the-month-english-sundew-43724>
+
+---
+
+## Streaming Goes IRL With "Netflix House" Venues—and Everything Else You Need to Know About This Week
+
+date: 2025-06-20, from: Dwell
+
+A floating pool heads to NYC’s East River, Brad Pitt adds a Greek UFO to his house collection, dog parks get the Airbnb treatment, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/streaming-goes-irl-with-netflix-house-venuesand-everything-else-you-need-to-know-about-this-week-a6ad323d>
+
+---
+
+## Why Some Traffic Lights Are Sideways—And How to Read Them
+
+date: 2025-06-20, from: Family Handyman Blog
+
+<p>Horizontal traffic lights are common in some parts of the U.S. and can confuse drivers unfamiliar with them. Here’s what you need to know about their meaning and why they're used.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/horizontal-traffic-light/">Why Some Traffic Lights Are Sideways—And How to Read Them</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/horizontal-traffic-light/>
+
+---
+
+## The Most Essential Things You’ll Need to Get for Your New Home
+
+date: 2025-06-20, from: Family Handyman Blog
+
+<p>Moving into a new home is exciting, especially when you have everything you need. Here's a list of essential items informed by real estate pros.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/the-most-essential-things-youll-need-to-get-for-your-new-home-newsletter/">The Most Essential Things You&#8217;ll Need to Get for Your New Home</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/the-most-essential-things-youll-need-to-get-for-your-new-home-newsletter/>
+
+---
+
+## Stop That Annoying Kitchen Faucet Drip for Good
+
+date: 2025-06-20, from: Family Handyman Blog
+
+<p>Save hundreds on plumber fees by following these straightforward steps on how to fix a leaky faucet yourself.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/stop-that-annoying-kitchen-faucet-drip-for-good/">Stop That Annoying Kitchen Faucet Drip for Good</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/stop-that-annoying-kitchen-faucet-drip-for-good/>
+
+---
+
+## Why Isn’t My Bird of Paradise Blooming? 7 Common Causes
+
+date: 2025-06-20, from: The Gardener's Path
+
+<p>Bird of paradise is loved for its bold foliage and striking, bird-like blooms. But when those flowers never appear, the impact falls flat. From low light and drought stress to poor soil and cramped roots, we explore seven common reasons these plants fail to bloom – and how to fix them – in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/bird-paradise-not-blooming/">Why Isn’t My Bird of Paradise Blooming? 7 Common Causes</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/bird-paradise-not-blooming/>
+
+---
+
+## How To Install Ikea Kitchen Cabinets: The Complete DIY Guide
+
+date: 2025-06-20, from: Family Handyman Blog
+
+<p>Save thousands on renovation costs by following our step-by-step project for installing Ikea kitchen cabinets in your home.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/ikea-kitchen-cabinets/">How To Install Ikea Kitchen Cabinets: The Complete DIY Guide</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/ikea-kitchen-cabinets/>
+
+---
+
+## Cheap DIY Kitchen Cabinet Add-Ons
+
+date: 2025-06-20, from: Family Handyman Blog
+
+<p>Cheap DIY kitchen cabinet add-ons are a great way to revamp your space and make it work better for you-without breaking the bank. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/cheap-diy-kitchen-cabinet-add-ons/">Cheap DIY Kitchen Cabinet Add-Ons</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/cheap-diy-kitchen-cabinet-add-ons/>
+
+---
+
+## 16 Tips for Turning a Basement Into a Living Space
+
+date: 2025-06-20, from: Family Handyman Blog
+
+<p>Homes that have extra, unused basement space have a readymade renovation project just waiting to be started. Finishing a basement to create an extra room can raise a home's value and provide a place for renters, relatives and friends who don't mind living in basement spaces.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/turn-basement-into-living-space-tips/">16 Tips for Turning a Basement Into a Living Space</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/turn-basement-into-living-space-tips/>
+
+---
+
+## Here’s What That Tiny Hole In Airplane Windows Is Actually For
+
+date: 2025-06-20, from: Family Handyman Blog
+
+<p>Ever noticed the tiny hole at the bottom of airplane windows? It’s not a design flaw—it plays a critical role in safety and comfort during flight.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/airplane-window-bleed-hole/">Here&#8217;s What That Tiny Hole In Airplane Windows Is Actually For</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/airplane-window-bleed-hole/>
+
+---
+
+## What Is the Home Price Index—And Why Should You Care?
+
+date: 2025-06-20, from: Family Handyman Blog
+
+<p>Learn what the Home Price Index is, how it's calculated and how it impacts the housing market and broader economy.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/home-price-index/">What Is the Home Price Index—And Why Should You Care?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/home-price-index/>
+
+---
+
+## This 19th-Century Brooklyn Factory Now Holds a Luxe $2.8M Town House
+
+date: 2025-06-20, from: Dwell
+
+Set in Dumbo’s Brick and Timber building, the two-floor residence has huge archways, a custom kitchen, and a roof deck. 
+
+<br> 
+
+<https://www.dwell.com/article/brick-and-timber-townhouse-alloy-development-dumbo-new-york-city-real-estate-aaaea555>
+
+---
+
+## Before & After: A Family’s D.C. Home Gets an Artful—and Art-Filled—$1.6M Renovation
+
+date: 2025-06-20, from: Dwell
+
+A boxy rear extension dramatically opened the residence, which now pairs Venetian plaster, funky floor tiles, and raw-edge stonework with a personal art collection. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-sheridan-kalorama-fowlkes-studio-family-home-renovation-31081643>
+
+---
+
+## 9 Woodpeckers in Pennsylvania (With Pictures and Identification)
+
+date: 2025-06-20, from: Yard Life blog
+
+<p>Woodpeckers in Pennsylvania are some of the most fascinating and colorful birds found across the state’s diverse forests and woodlands. ... </p>
+<p class="read-more-container"><a title="9 Woodpeckers in Pennsylvania (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/9-woodpeckers-in-pennsylvania-with-pictures-and-identification/#more-30704" aria-label="Read more about 9 Woodpeckers in Pennsylvania (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/9-woodpeckers-in-pennsylvania-with-pictures-and-identification/">9 Woodpeckers in Pennsylvania (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/9-woodpeckers-in-pennsylvania-with-pictures-and-identification/>
+
+---
+
+## 18 Gray Birds in Tennessee (With Pictures and Identification)
+
+date: 2025-06-20, from: Yard Life blog
+
+<p>Tennessee is home to many fascinating bird species, and gray birds are among the most easily spotted across the state. ... </p>
+<p class="read-more-container"><a title="18 Gray Birds in Tennessee (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/18-gray-birds-in-tennessee-with-pictures-and-identification/#more-30694" aria-label="Read more about 18 Gray Birds in Tennessee (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/18-gray-birds-in-tennessee-with-pictures-and-identification/">18 Gray Birds in Tennessee (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/18-gray-birds-in-tennessee-with-pictures-and-identification/>
+
+---
+
+## How To Build a Kitchen Island With Seating
+
+date: 2025-06-20, from: Family Handyman Blog
+
+<p>Here, we will show you how to build a kitchen island that’s totally unique, starting with basic IKEA components.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-build-a-kitchen-island/">How To Build a Kitchen Island With Seating</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-build-a-kitchen-island/>
 
 ---
 
@@ -35,6 +255,18 @@ date: 2025-06-20, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/list/tool-storage-tips-hacks/>
+
+---
+
+## Homepage 2025
+
+date: 2025-06-20, from: Sunset Magazine - Living in the West
+
+Restaurants, Travel Bar Issi Is Palm Springs&#8217; Hottest New Restaurant Opening Every night&#8217;s a party worthy of the Italian Riviera at the new Mediterranean hotspot inside the Thompson Hotel.  Read more:&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -615,6 +847,18 @@ Set a short drive from the beach, the getaway brings in countryside views with a
 
 ---
 
+## Save These Recipes for Your Next Summer Cookout
+
+date: 2025-06-18, from: Sunset Magazine - Living in the West
+
+Whether celebrating a holiday, birthday or simply the summer season, these dishes are perfect for your next backyard shindig. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/summer-cookout-recipes>
+
+---
+
 ## Troubleshooting Yellow Leaves on Zucchini: 7 Common Causes
 
 date: 2025-06-18, from: The Gardener's Path
@@ -704,18 +948,6 @@ Check in and learn how to surf. New programming at surf hotels in the West gives
 <br> 
 
 <https://www.sunset.com/travel/outdoor-adventure/surf-hotels-laguna-surf-lodge>
-
----
-
-## Homepage 2025
-
-date: 2025-06-18, from: Sunset Magazine - Living in the West
-
-Decorating &amp; Design, Home Tours Inside Two Brewers&#8217; Peaceful, Eco-Friendly Retreat in Sonoma County It&#8217;s an idyllic property that blends into its surroundings.  Read more: Inside Two Brewers&#8217; Peaceful, Eco-Friendly Retreat&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

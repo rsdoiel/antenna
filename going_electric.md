@@ -1,11 +1,236 @@
 ---
 title: going electric
-updated: 2025-06-20 06:08:31
+updated: 2025-06-20 14:08:07
 ---
 
 # going electric
 
-(date: 2025-06-20 06:08:31)
+(date: 2025-06-20 14:08:07)
+
+---
+
+## The Honda Prologue was the most leased non-Tesla EV in the first quarter
+
+date: 2025-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Hondas-Prologue-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/honda-prologue/">Honda Prologue</a> continues to surprise, ranking among the top ten most leased vehicles (gas-powered or EV) in the US in the first quarter. It was the only EV, outside of Tesla’s Model Y and Model 3, that made the list.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-lease,honda-prologue" data-layer-viewtype="unknown" data-post-id="421347" href="https://electrek.co/2025/06/20/honda-prologue-most-leased-non-tesla-ev/#more-421347" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/20/honda-prologue-most-leased-non-tesla-ev/>
+
+---
+
+## Enel + Nissan LEAF second life battery storage project goes online
+
+date: 2025-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/second_life.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Originally announced two years ago, a joint energy storage project between European energy firm Enel and Nissan has come online, giving LEAF batteries a second chance at life and ensuring electrical supply for more than 90,000 people.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-recycling,battery-storage,enel,nissan-leaf" data-layer-viewtype="unknown" data-post-id="421268" href="https://electrek.co/2025/06/20/enel-nissan-leaf-second-life-battery-storage-project-goes-online/#more-421268" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/20/enel-nissan-leaf-second-life-battery-storage-project-goes-online/>
+
+---
+
+## 'A/C Is Weakest I’ve Experienced From Any Car’: Tesla Driver Calls Out the Touchscreen Air Conditioning. He’s Not Alone
+
+date: 2025-06-20, from: Inside EVs News
+
+'It’s hot. I’m in New Orleans!' 
+
+<br> 
+
+<https://insideevs.com/news/763429/tesla-air-conditioning-issues/>
+
+---
+
+## The EV ‘Mandate’ May Not Be Dead In Congress Yet
+
+date: 2025-06-20, from: Inside EVs News
+
+Removing the Biden-era emissions rules that promised accelerated adoption of electric and hybrid vehicles is turning out far more difficult that once thought. 
+
+<br> 
+
+<https://insideevs.com/news/763428/ev-mandate-may-not-be-dead-in-congress-yet/>
+
+---
+
+## Ford is halting Mustang Mach-E sales due to a recall impacting over 300,000 vehicles
+
+date: 2025-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Ford-Saudi-Arabia-Mach-E-front.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford is recalling over 300,000 <a href="https://electrek.co/guides/ford-mach-e/">Mustang Mach-E</a> models globally due to a glitch that could leave you locked out or potentially trapped inside the vehicle. Nearly 200,000 are being recalled in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-mach-e" data-layer-viewtype="unknown" data-post-id="420959" href="https://electrek.co/2025/06/20/ford-halts-mustang-mach-e-sales-recalling-300000-models/#more-420959" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/20/ford-halts-mustang-mach-e-sales-recalling-300000-models/>
+
+---
+
+## Surprise! New York’s congestion pricing plan to fix traffic… actually fixed traffic
+
+date: 2025-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/benny-rotlevy-GibtF-RTQpc-unsplash-e1750443291309.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In January, New York City added a toll to all vehicles entering the city, the first in the US to do so. It was controversial at first, but now that it’s been around for months, residents support it and are seeing the positive effects – less traffic, less noise, more revenue, and more walkable spaces.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="new-york" data-layer-viewtype="unknown" data-post-id="421294" href="https://electrek.co/2025/06/20/surprise-new-yorks-congestion-pricing-plan-to-fix-traffic-actually-fixed-traffic/#more-421294" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/20/surprise-new-yorks-congestion-pricing-plan-to-fix-traffic-actually-fixed-traffic/>
+
+---
+
+## Ireland just became Europe’s newest coal-free country
+
+date: 2025-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/1920px-Tarbert_Lighthouse_20120831_IMG_5285.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Ireland has officially pulled the plug on coal power – the country shut down coal operations at Moneypoint, its only coal-fired power station and largest electricity generation station. That makes Ireland the sixth European country to fully kick coal out of its electricity mix.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="coal,egeb,energy-brief,solar,ireland,wind-power" data-layer-viewtype="unknown" data-post-id="421316" href="https://electrek.co/2025/06/20/ireland-europes-newest-coal-free-country/#more-421316" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/20/ireland-europes-newest-coal-free-country/>
+
+---
+
+## Navee ST3 Pro e-scooter back at $760 low, Bluetti AC180 350W solar bundle at $902 low, Tenways e-bike bundles up to $907 off, more
+
+date: 2025-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Navee-ST3-Pro-Electric-Scooter-lights-lifestyle.png?w=1600" /></div><p>Closing out this week’s Green Deals is <a href="https://9to5toys.com/2025/06/20/navees-independence-day-sale-st3-pro-760-low-more/">Navee’s Independence Day Sale</a> with up to 30% being taken off six e-scooters, including the new <a href="https://9to5toys.com/2025/06/20/navees-independence-day-sale-st3-pro-760-low-more/">flagship ST3 Pro Electric Scooter</a> that is back at its <a href="https://9to5toys.com/2025/06/20/navees-independence-day-sale-st3-pro-760-low-more/">$760 low</a>. There are also the continued <a href="https://9to5toys.com/2025/06/20/bluetti-ac180-solar-generator-bundle-902-low-more/">Bluetti Father’s Day Sale offers</a> we’ve rounded up that will last through the weekend, which has returned the <a href="https://9to5toys.com/2025/06/20/bluetti-ac180-solar-generator-bundle-902-low-more/">AC180 Solar Generator Bundle</a> with a 350W panel back to its <a href="https://9to5toys.com/2025/06/20/bluetti-ac180-solar-generator-bundle-902-low-more/">$902 low</a> for the second time, among others. <a href="https://9to5toys.com/2025/06/20/tenways-4th-of-july-sale-from-1499/">Tenways has launched its 4th of July Sale</a> with up to $907 in e-bike savings, which has brought the costs on its <a href="https://9to5toys.com/2025/06/20/tenways-4th-of-july-sale-from-1499/">CGO600 Pro e-bikes</a> lower than we’ve seen since March at <a href="https://9to5toys.com/2025/06/20/tenways-4th-of-july-sale-from-1499/">$1,499</a>. From there, we have two tool discounts: one on the <a href="https://9to5toys.com/2025/06/20/greenworks-82v-18-inch-commercial-chainsaw-bundle-new-400-low/">Greenworks 82V 18-inch Cordless Commercial Chainsaw</a> with 4.0Ah and 2.5Ah batteries at a new <a href="https://9to5toys.com/2025/06/20/greenworks-82v-18-inch-commercial-chainsaw-bundle-new-400-low/">$400 low</a>, and the other dropping <a href="https://9to5toys.com/2025/06/19/worxs-12a-corded-trivac-69-more/">Worx’s 12A Trivac 3-in-1 Electric Corded Leaf Blower/Mulcher/Vacuum to $69</a>. Plus, there’s all the rest of the hangover Green Deals in the links at the bottom of the page, like yesterday’s free center cargo console promotion on the <a href="https://9to5toys.com/2025/06/19/rad-powers-radrunner-plus-radrunner-max-e-bikes-from-1799/">new Rad Power RadRunner Plus and Max e-bikes</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="421295" href="https://electrek.co/2025/06/20/st3-pro-electric-scooter-bluetti-tenways-more/#more-421295" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/20/st3-pro-electric-scooter-bluetti-tenways-more/>
+
+---
+
+## Hyundai’s new electric SUV leaks in China, revealing new battery details and more
+
+date: 2025-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Hyundai-new-EV-China-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai is gearing up to launch what could be its most important EV in China to date. The Elexio, referred to as the Chinese version of <a href="https://electrek.co/guides/hyundai/">Hyundai’s</a> popular IONIQ 5 electric SUV, is expected to play a key role in the company’s comeback efforts in China. Ahead of its official launch later this year, we are learning a few new details.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="421289" href="https://electrek.co/2025/06/20/hyundais-new-electric-suv-leaks-china-revealing-more-details/#more-421289" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/20/hyundais-new-electric-suv-leaks-china-revealing-more-details/>
+
+---
+
+## Why Another Battery Maker Slammed The Brakes On More U.S. Plants
+
+date: 2025-06-20, from: Inside EVs News
+
+Two plants in the U.S. that AESC was building now lie partially finished due to “deep policy uncertainty” and tariffs. 
+
+<br> 
+
+<https://insideevs.com/news/763406/aesc-stops-us-factory-construction/>
+
+---
+
+## Toyota’s hot $15,000 EV in China costs nearly $50K in this overseas market
+
+date: 2025-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Toyota-bZ3X-EV-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota’s most affordable EV, which starts at about $15,000 in China, may not be so cheap overseas. The <a href="https://electrek.co/guides/toyota/">Toyota bZ3X</a> is launching in new markets at a price nearly three times the cost, starting at almost $50,000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="421266" href="https://electrek.co/2025/06/20/toyotas-15000-ev-china-costs-nearly-50k-overseas/#more-421266" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/20/toyotas-15000-ev-china-costs-nearly-50k-overseas/>
+
+---
+
+## Texas Politicians Warn Tesla: Robotaxis May Be Premature
+
+date: 2025-06-20, from: Inside EVs News
+
+Also: the U.S. might soon have more battery capacity than it needs, and why Brazil’s auto industry sounds the alarm over Chinese EVs.
+ 
+
+<br> 
+
+<https://insideevs.com/news/763383/tesla-delay-robotaxi-launch-texas/>
+
+---
+
+## BYD is testing solid-state EV batteries in its Seal sedan with nearly 1,200 miles of range
+
+date: 2025-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/BYD-Seal-North-America.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/byd/">BYD</a> has now begun testing solid-state EV batteries in its Tesla Model 3-rivalling Seal. Initial tests suggest that the total driving range could reach nearly 1,200 miles (1,875 km).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,byd-seal,solid-state-batteries,solid-state-battery" data-layer-viewtype="unknown" data-post-id="421249" href="https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/#more-421249" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/>
+
+---
+
+## Mercedes’ Porsche Taycan Rival Will Make V-8 Noises
+
+date: 2025-06-20, from: Inside EVs News
+
+More manufacturers are resorting to adding fake combustion engine sounds or gears to make their electric vehicles (EVs) more engaging. 
+
+<br> 
+
+<https://insideevs.com/news/763335/mercedes-amg-electric-sedan-sound/>
+
+---
+
+## Wheel-E Podcast: New VanMoofs, Urban Arrow cargo e-bike, more
+
+date: 2025-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes new e-bikes from Urban Arrow and VanMoof, testing of the Oh Wow Cycles Conductor Plus rickshaw tricycle, the new Olto electric moped, a Honda four-wheeled quad-bike, low cost Zero motorcycles, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="podcast,wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="421235" href="https://electrek.co/2025/06/20/wheel-e-podcast-new-vanmoofs-urban-arrow-cargo-e-bike-more/#more-421235" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/20/wheel-e-podcast-new-vanmoofs-urban-arrow-cargo-e-bike-more/>
 
 ---
 
@@ -85,7 +310,7 @@ date: 2025-06-20, from: Electrek Feed
 
 date: 2025-06-19, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/CUS_GOF_2024_HaulerXL_CC_5861.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>We’ve been big fans of highly capable LSVs for a while here on <em>Electrek</em>, and the newest Cushman Hauler XL ELiTE electric utility vehicle keeps that trend alive with an extra-long, 68.5″ aluminum bed for even more cargo-hauling capability.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/CUS_GOF_2024_HaulerXL_CC_5861.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>We’ve been big fans of highly capable LSVs (or “Low Speed Vehicles”) for a while here on <em>Electrek</em>, and the newest Cushman Hauler XL ELiTE electric utility vehicle keeps that trend alive with an extra-long, 68.5″ aluminum bed for even more cargo-hauling capability.</p>
 
 
 

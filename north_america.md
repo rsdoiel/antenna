@@ -1,11 +1,173 @@
 ---
 title: north america
-updated: 2025-06-20 06:08:22
+updated: 2025-06-20 14:08:00
 ---
 
 # north america
 
-(date: 2025-06-20 06:08:22)
+(date: 2025-06-20 14:08:00)
+
+---
+
+## Culture recs: America's Sweethearts are back--and they want a raise 
+
+date: 2025-06-20, from: The Contrarian
+
+Plus: a timely drama about the Mitford Sisters, a wrenching Grenfell documentary, and more... 
+
+<br> 
+
+<https://contrarian.substack.com/p/culture-recs-americas-sweethearts>
+
+---
+
+## Contrarian Pet of the Week
+
+date: 2025-06-20, from: The Contrarian
+
+Meet Henry Mancini! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-f33>
+
+---
+
+## An Ode to the Flag
+
+date: 2025-06-20, from: The Contrarian
+
+Last week, millions across the United States said no to kings&#8212;reclaiming the Constitution, the flag, and our future. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166369072/85c757ce8edc61e9b84683abf8862dc6.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166369072/85c757ce8edc61e9b84683abf8862dc6.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/an-ode-to-the-flag>
+
+---
+
+## A moveable feast
+
+date: 2025-06-20, from: The Contrarian
+
+Even on vacation, the kitchen calls. 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-moveable-feast>
+
+---
+
+## War horse
+
+date: 2025-06-20, from: The Contrarian
+
+A cartoon by Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/war-horse>
+
+---
+
+## For Trump, demonization is good politics 
+
+date: 2025-06-20, from: The Contrarian
+
+But now, unlike after the Civil War, the federal government is not combating injustice. 
+
+<br> 
+
+<https://contrarian.substack.com/p/for-trump-demonization-is-good-politics>
+
+---
+
+## Trump’s Big Bad Betrayal Bill is nothing but harmful. Rep. Chellie Pingree on how this disastrous bill impacts the people of Maine
+
+date: 2025-06-20, from: The Contrarian
+
+"It's just a big piece of shit, this bill. There's nothing good about it." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166410702/045866a99086f0e393f01cf9f32dc9b3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166410702/045866a99086f0e393f01cf9f32dc9b3.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/why-are-we-picking-fights-with-canada>
+
+---
+
+##  New York City Is About To Decide Democrats’ Future 
+
+date: 2025-06-20, from: The Lever News
+
+ The upcoming results of the mayoral election could determine the future of the Democratic Party.  
+
+<br> 
+
+<https://www.levernews.com/new-york-city-is-about-to-decide-democrats-future/>
+
+---
+
+## American morality requires us to protect Afghans
+
+date: 2025-06-20, from: The Contrarian
+
+Four years ago, Americans were angry over the Afghanistan withdrawal. Now, those we welcomed might be forced back. 
+
+<br> 
+
+<https://contrarian.substack.com/p/american-morality-requires-us-to>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-06-20, from: The Contrarian
+
+Friday: No Kings Day rallies in Texas, Pennsylvania, and California, and ICE protest in New York, plus looking ahead to July. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Why the feds want the Minnesota assassination case
+
+date: 2025-06-20, from: The Contrarian
+
+Signs point to an unexpected power grab by federal authorities. 
+
+<br> 
+
+<https://contrarian.substack.com/p/why-the-feds-want-the-minnesota-assassination>
+
+---
+
+## Cuts to Medicaid and SNAP hurt the most vulnerable: Anderson Clayton on Trump's Reconciliation Bill
+
+date: 2025-06-20, from: The Contrarian
+
+"I feel like the offices of our Congressional representatives are lying to people right now" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166396287/f3e9e2261041c3ad5458d507bb2e4921.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166396287/f3e9e2261041c3ad5458d507bb2e4921.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/cuts-to-medicaid-and-snap-hurt-the>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-06-20, from: The Contrarian
+
+Donald and John: A Boy ex-President and his Imaginary Publicist 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-fb5>
 
 ---
 
@@ -96,18 +258,6 @@ date: 2025-06-19, from: The Contrarian
 </audio> <a href="https://api.substack.com/feed/podcast/166324300/b8e91d77d70093d582f22e4855e0e869.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/where-in-the-world-is-tim-mak-tim>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-06-19, from: The Contrarian
-
-Thursday: No Kings Day rallies in Idaho, D.C., California, and Ohio, an ICE protest, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

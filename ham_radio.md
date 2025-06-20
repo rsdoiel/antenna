@@ -1,11 +1,61 @@
 ---
 title: ham radio
-updated: 2025-06-20 06:08:24
+updated: 2025-06-20 14:08:02
 ---
 
 # ham radio
 
-(date: 2025-06-20 06:08:24)
+(date: 2025-06-20 14:08:02)
+
+---
+
+## ARRL Announces Logbook of The World® Systems Upgrade
+
+date: 2025-06-20, from: Amateur Radio Relay League News
+
+<p><span>ARRL’s Logbook of The World</span>®<span> (LoTW</span>®<span>) is the 2nd most popular benefit among members. It is also an extremely popular service internationally for non-members, as it is the primary means for providing confirmations for ARRL Awards, such as DXCC and Worked All States.</span></p><p><span>As a part of the ongoing modernization of the ARRL systems infrastructure, LoTW will be receiving major upgrades to the operating sys...</span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-announces-logbook-of-the-world-systems-upgrade>
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-06-20, from: Amateur Radio Relay League News
+
+<p>On Friday, June 20, Spaceweather.com reports that, in addition to it<br />being the first day of Summer in the Northern Hemisphere, on June 19<br />the Sun produced another X-class flare causing a shortwave radio<br />blackout over the Pacific Ocean.<br /><br />Solar activity reached high levels when Region AR4114 produced the<br />strongest event of the period, an X1.9 flare at 2350 UTC. The region<br />remained the most complex on th...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-19>
+
+---
+
+## 2025 ARRL Field Day is Next Weekend
+
+date: 2025-06-20, from: Amateur Radio Relay League News
+
+<p>Lather on the sunscreen and get ready for the fun! 2025 ARRL Field Day is June 28 - 29. It is amateur radio’s biggest yearly event. The sun has been very active at the peak of Solar Cycle 25. ARRL is hopeful that it will mean 2025 becomes a <em>legendary</em> Field Day. Get out to an activation and enjoy a good time with your fellow hams.</p><p>Use the Field Day Site Locator, featuring more than 1200 sites, if...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/2025-arrl-field-day-is-next-weekend>
+
+---
+
+## Installing a car battery
+
+date: 2025-06-20, from: EDN Blog
+
+<img width="556" height="469" src="https://www.edn.com/wp-content/uploads/Car-Battery-1.png?fit=556%2C469" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Car-Battery-1.png?w=556 556w, https://www.edn.com/wp-content/uploads/Car-Battery-1.png?w=300 300w" sizes="(max-width: 556px) 100vw, 556px" /><p>John Dunn describes the dangerous job of installing a car battery and the safety measures one should take.</p>
+<p>The post <a href="https://www.edn.com/installing-a-car-battery/">Installing a car battery</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/installing-a-car-battery/>
 
 ---
 
@@ -13,7 +63,7 @@ updated: 2025-06-20 06:08:24
 
 date: 2025-06-19, from: EDN Blog
 
-<img width="800" height="443" src="https://www.edn.com/wp-content/uploads/pSemi-42448.jpg?fit=800%2C443" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/pSemi-42448.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/pSemi-42448.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/pSemi-42448.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The PE42448 SP4T RF switch from pSemi spans 10 MHz to 6 GHz, handling peak power of 52 dBm with IIP3 linearity of 88.5 dBm.</p>
+<img width="800" height="443" src="https://www.edn.com/wp-content/uploads/pSemi-42448.jpg?fit=800%2C443" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/pSemi-42448.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/pSemi-42448.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/pSemi-42448.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>The PE42448 SP4T RF switch from pSemi spans 10 MHz to 6 GHz, handling peak power of 52 dBm with IIP3 linearity of 88.5 dBm.</p>
 <p>The post <a href="https://www.edn.com/sp4t-rf-switch-delivers-strong-linearity-low-loss/">SP4T RF switch delivers strong linearity, low loss</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

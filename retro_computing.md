@@ -1,11 +1,26 @@
 ---
 title: retro computing
-updated: 2025-06-20 06:08:30
+updated: 2025-06-20 14:08:07
 ---
 
 # retro computing
 
-(date: 2025-06-20 06:08:30)
+(date: 2025-06-20 14:08:07)
+
+---
+
+## Alpha Centauri
+
+date: 2025-06-20, from: Digital Antiquarian
+
+This article tells part of the story of the Civilization series. In the spring of 1996, Brian Reynolds and Jeff Briggs took a long, hard look around them and decided that they&#8217;d rather be somewhere else. At that time, the two men were working for MicroProse Software, for whom they had just completed Civilization II, with [&#8230;] 
+
+<br><video crossorigin="anonymous" controls="controls" width="250">
+<source type="video/mp4" src="https://www.filfre.net/wp-content/uploads/2018/03/civ_intro.mp4"></source>
+	<source type="video/mp4" src="https://www.filfre.net/wp-content/uploads/2025/06/alpha2.mp4"></source>
+</video> <a href="https://www.filfre.net/wp-content/uploads/2018/03/civ_intro.mp4" target="_blank">download video/mp4</a> 
+
+<https://www.filfre.net/2025/06/alpha-centauri/>
 
 ---
 
@@ -153,9 +168,9 @@ date: 2025-06-16, from: Low-tech magazine
 </div>
 <div class="article-img ">
 <figure data-imgstate="dither">
-<img src="https://solar.lowtechmagazine.com/2025/06/dressing-and-undressing-the-home/images/dithers/eierdown2_dithered.png" alt='Image: Hanging an eiderdown beneath the roof of the Oskar and Zofia Hansen House in Szumin. Photograph by Michał Matejko, 2020. Republished with permission.' loading="lazy"/></figure>
+<img src="https://solar.lowtechmagazine.com/2025/06/dressing-and-undressing-the-home/images/dithers/eierdown2_dithered.png" alt='Image: Hanging an eiderdown beneath the roof of the Oskar and Zofia Hansen House in Szumin, Poland. Photograph by Michał Matejko, 2020. Republished with permission.' loading="lazy"/></figure>
 <figcaption class="caption">
- Image: Hanging an eiderdown beneath the roof of the [Oskar and Zofia Hansen House in Szumin](https://www.e-flux.com/architecture/after-comfort/568034/the-clothed-home/). Photograph by [Michał Matejko](https://matejkomichal.com), 2020. Republished with permission. 
+ Image: Hanging an eiderdown beneath the roof of the [Oskar and Zofia Hansen House in Szumin, Poland](https://www.e-flux.com/architecture/after-comfort/568034/the-clothed-home/). Photograph by [Michał Matejko](https://matejkomichal.com), 2020. Republished with permission. 
 </figcaption>
 </div>
 </div>
@@ -290,7 +305,7 @@ date: 2025-06-16, from: Low-tech magazine
 <p>Although toldos have been used predominantly in desert climates, climate change makes them increasingly useful for temperate climate regions as well.</p>
 </blockquote>
 <p>A 2020 study in Cordoba showed that street toldos decrease the temperature of pavement surfaces, building facades, and roofs by up to fifteen degrees Celsius. <sup id="fnref2:39"><a href="#fn:39" class="footnote-ref" role="doc-noteref">39</a></sup> Collective shading could thus replace individual awnings, but the cooling effect on buildings depends on street orientation. Although toldos have been used predominantly in desert climates, climate change makes them increasingly useful for temperate climate regions as well.</p>
-<p>Unlike air-conditioning, awnings and toldos are robust, low-cost, and technically simple solutions within reach of most households and societies. <sup id="fnref3:39"><a href="#fn:39" class="footnote-ref" role="doc-noteref">39</a></sup> In Egypt, rather than a top-down development initiated by authorities, toldos are made and installed by residents in a demonstration of an architectural bottom-up movement supported by a local industry of expertise and craftsmanship. <sup id="fnref3:38"><a href="#fn:38" class="footnote-ref" role="doc-noteref">38</a></sup></p>
+<p>Unlike air-conditioning, awnings and toldos are robust, low-cost, and technically simple solutions within reach of most households and societies. <sup id="fnref3:39"><a href="#fn:39" class="footnote-ref" role="doc-noteref">39</a></sup> In Egypt, rather than a top-down development initiated by authorities, toldos are made and installed by residents in a &ldquo;demonstration of an architectural bottom-up movement supported by a local industry of expertise and craftsmanship.&rdquo; <sup id="fnref3:38"><a href="#fn:38" class="footnote-ref" role="doc-noteref">38</a></sup></p>
 <div class="article-img ">
 <figure data-imgstate="dither">
 <img src="https://solar.lowtechmagazine.com/2025/06/dressing-and-undressing-the-home/images/dithers/street-toldo_dithered.png" alt='Image: Street toldo in Spain. Photo credit:  IL-Institute, University of Stuttgart. Image in the public domain.' loading="lazy"/></figure>

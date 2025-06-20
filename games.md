@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-06-20 06:08:27
+updated: 2025-06-20 14:08:05
 ---
 
 # games
 
-(date: 2025-06-20 06:08:27)
+(date: 2025-06-20 14:08:05)
+
+---
+
+## Final Fantasy 14 to finally be playable thanks to new hat technology
+
+date: 2025-06-20, updated: 2025-06-20, from: Polygon Website
+
+The cat and bunny people of Final Fantasy 14 Online are finally getting the headgear options they deserve, the MMO’s developer announced Friday in a new Letter from the Producer Live stream. Hrothgar and Viera characters will soon be able to display the headgear they’re wearing as part of Patch 7.3, Square Enix confirmed. Hrothgar [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/608333/final-fantasy-14-hrothgar-viera-headgear>
+
+---
+
+## Ryan Coogler’s Sinners hits Max this summer
+
+date: 2025-06-20, updated: 2025-06-20, from: Polygon Website
+
+Ryan Coogler’s vampiric box office hit Sinners is coming home to Max this summer. The film, starring Michael B. Jordan and Hailee Steinfeld, will make its streaming debut on July 4. The Black Panther and Creed director reunited with Jordan for Sinners, in which he plays identical twin gangsters Smoke and Stack. Set in 1932, the movie follows the brothers [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/608358/ryan-coogler-sinners-max-streaming-date>
+
+---
+
+## Mario Kart World fans are bagging races in a fight for last place
+
+date: 2025-06-20, updated: 2025-06-20, from: Polygon Website
+
+First place is one of the most dangerous places to be during a Mario Kart match. A lead can prove temporary as the game regales everyone else some of its most powerful items, many of which will be aimed directly at the front of the pack. First place, meanwhile, is relegated to garbage weapons like [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/608274/mario-kart-world-sandbagging-strategy-how-it-works-nintendo-switch-2>
+
+---
+
+## All Scale-Bearing Merchant deals and choices in Elden Ring Nightreign
+
+date: 2025-06-20, updated: 2025-06-20, from: Polygon Website
+
+When battling Libra, Creature of Night, also known as the Equilibrious Beast, in Elden Ring Nightreign, you’ll first encounter the Scale-Bearing Merchant, who will provide you with a list of choices. These choices include buffs (and debuffs) for your Nightfarer that can impact the forthcoming boss fight. Knowing what those choices truly mean is important [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/608308/scale-bearing-merchant-deals-choices-all>
+
+---
+
+## The Deadpool/Batman crossover’s backup stories sound more fun than the main event
+
+date: 2025-06-20, updated: 2025-06-20, from: Polygon Website
+
+Last month, Marvel and DC dropped a bombshell: The rival comic publishers will release crossover one-shots featuring Deadpool and Batman teaming up later this year. DC will publish Batman/Deadpool #1 from Grant Morrison and Dan Mora, while Marvel has tapped Zeb Wells and Greg Capullo for Deadpool/Batman #1. The backup stories and their creative pairs for Marvel’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/comics/608291/marvel-dc-crossover-captain-america-wonder-woman-krypto-jeff-land-shark>
+
+---
+
+## Rooftops &#038; Alleys could be the next big parkour game, but it trips over its own feet
+
+date: 2025-06-20, updated: 2025-06-20, from: Polygon Website
+
+I went into Rooftops &#38; Alleys: The Parkour Game expecting to love it from the jump. Mirror’s Edge and Assassin’s Creed — some of the best parkour games of all time — dominated my formative years. And since Rooftops &#38; Alleys has the same stylish flair as Mirror’s Edge, albeit with a stylish trick-focused twist, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/608253/rooftops-alleys-parkour-game>
+
+---
+
+## All trial locations in Dune Awakening
+
+date: 2025-06-20, updated: 2025-06-20, from: Polygon Website
+
+None have mastered Arrakis as the Fremen did. To survive in Dune: Awakening, you’ll have to follow their steps and learn their way by completing hidden trials.&#160; In the Trials of Aql, you learn that all Fremen deeply understand Arrakis and how to thrive in its hostile environment. Accessing these precious sources of information requires [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dune-awakening-guides/606703/trials-locations-all-where-to-find>
+
+---
+
+## China’s next big game is wowing fans with its high gloss action
+
+date: 2025-06-20, updated: 2025-06-20, from: Polygon Website
+
+Blood Message is the first narrative-driven game in development by NetEase, the Chinese publisher behind hits like Marvel Rivals and Naraka: Bladepoint, and it’s swinging for the fences based on its first moody trailer. The game is a third-person action-adventure game that has a hint of Uncharted meets Assassin’s Creed, which is another way of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/608227/blood-message-trailer-netease-announcement>
+
+---
+
+## Honkai: Star Rail 3.4 livestream codes
+
+date: 2025-06-20, updated: 2025-06-20, from: Polygon Website
+
+Honkai: Star Rail just closed out its version 3.4 livestream, teasing what’s to come in the next update, which launches the evening of July 1. Alongside new characters and events, Hoyoverse uses the stream to distribute codes that reward free Stellar Jade and other upgrade materials. This patch is going to be a big one, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/honkai-star-rail-guides/608023/3-4-livestream-codes-redeem-stellar-jade>
+
+---
+
+## The Solo Leveling video game makes you feel like Jinwoo — then the grind kicks in
+
+date: 2025-06-20, updated: 2025-06-20, from: Polygon Website
+
+[Ed. note:&#160;This review contains minor spoilers for Solo Leveling anime.] From the moment the demo for Solo Leveling: Arise Overdrive recreates JinWoo’s Awakening from the manhwa and anime, it’s clear the team at Netmarble Neo is doing everything it can to make players feel like the iconic protagonist. And in some ways, the game — [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/608028/solo-leveling-arise-overdrive-release-demo-impressions>
 
 ---
 

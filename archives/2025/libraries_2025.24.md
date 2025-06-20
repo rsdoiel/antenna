@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-06-20 06:08:28
+updated: 2025-06-20 14:08:05
 ---
 
 # libraries
 
-(date: 2025-06-20 06:08:28)
+(date: 2025-06-20 14:08:05)
+
+---
+
+## The Past and Future of Indirect Costs: An Interview with Hilary Craiglow
+
+date: 2025-06-20, from: Association of Research Libraries News
+
+<p>Last Updated on June 20, 2025, 3:14 pm ET Reimbursements to institutions for so-called indirect costs have been in the headlines this year. Even as ARL is supporting litigation that...</p>
+<p>The post <a href="https://www.arl.org/blog/the-past-and-future-of-indirect-costs-an-interview-with-hilary-craiglow/">The Past and Future of Indirect Costs: An Interview with Hilary Craiglow</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/the-past-and-future-of-indirect-costs-an-interview-with-hilary-craiglow/>
 
 ---
 
@@ -20,6 +34,18 @@ date: 2025-06-20, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/06/20/ask-the-fellows-what-did-you-take-away-from-ssps-2025-annual-meeting/>
+
+---
+
+## Predictive control for nonlinear stochastic systems: Closed-loop guarantees with unbounded noise - Supplement Code
+
+date: 2025-06-20, from: ETH Zurich, recently added
+
+Köhler, Johannes; Zeilinger, Melanie 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/741583>
 
 ---
 

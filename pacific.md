@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2025-06-20 06:08:23
+updated: 2025-06-20 14:08:02
 ---
 
 # pacific
 
-(date: 2025-06-20 06:08:23)
+(date: 2025-06-20 14:08:02)
 
 ---
 
@@ -258,6 +258,20 @@ date: 2025-06-20, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/06/20/nation-world-news/as-death-toll-rises-gazans-make-life-risking-journeys-to-seek-food/>
+
+---
+
+## Kilauea kicks off the first day of summer with 1,000-foot-high lava fountain
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>The 26th episode of the ongoing Kilauea eruption in Halema&#699;uma&#699;u crater began at approximately 1:40 a.m. this morning, with lava fountains and flows erupting from the north vent.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/hawaii-news/kilauea-kicks-off-the-first-day-of-summer-with-1000-foot-high-lava-fountain/>
 
 ---
 
@@ -514,6 +528,19 @@ Helen Clark says the Cook Islands government entered into a strategic partnershi
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/564714/former-new-zealand-pm-helen-clark-blames-cook-islands-for-creating-a-crisis>
+
+---
+
+## How Taylor Averillʻs second chance at UH led to an Olympic podium
+
+date: 2025-06-20, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa volleyball’s Taylor Averill turned heartbreak into hard work and Olympic glory.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/19/averill-volleyball-olympics-uh-manoa/">How Taylor Averillʻs second chance at <abbr>UH</abbr> led to an Olympic podium</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/19/averill-volleyball-olympics-uh-manoa/>
 
 ---
 

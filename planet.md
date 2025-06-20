@@ -1,11 +1,274 @@
 ---
 title: planet
-updated: 2025-06-20 06:08:21
+updated: 2025-06-20 14:07:59
 ---
 
 # planet
 
-(date: 2025-06-20 06:08:21)
+(date: 2025-06-20 14:07:59)
+
+---
+
+## British and Irish Lions v Argentina - updates
+
+date: 2025-06-20, from: RTÉ News
+
+Follow our minute by minute coverage as the British and Irish Lions take on Argentina at Aviva Stadium, ahead of their summer tour of Australia. 
+
+<br> 
+
+<https://www.rte.ie/sport/rugby/2025/0620/1519581-british-and-irish-lions-v-argentina-updates/>
+
+---
+
+## Podcast: The most brutal political race of all
+
+date: 2025-06-20, from: RTÉ News
+
+A small few have outlined their interest in running for the presidency later this year, but many more are tight-lipped. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0620/1519575-podcast-the-most-brutal-political-race-of-all/>
+
+---
+
+## Irish embassy in Iran shut amid 'deteriorating' situation
+
+date: 2025-06-20, from: RTÉ News
+
+The Irish embassy in Tehran has temporarily closed in light of escalating clashes between Iran and Israel, Tánaiste Simon Harris has said. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0620/1519577-irish-embassy-iran/>
+
+---
+
+## Pope Leo approves decrees for more than 170 martyrs
+
+date: 2025-06-20, from: Vatican News
+
+
+                    <p>The Pope authorizes several decrees including a Spanish diocesan priest, more than 100 martyrs, a seminrian, and four servants of God.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/pope-leo-approves-decrees-for-more-than-170-martyrs.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/pope-leo-approves-decrees-for-more-than-170-martyrs.html>
+
+---
+
+## Ex-assistant tells Diddy trial job included buying drugs
+
+date: 2025-06-20, from: RTÉ News
+
+Sean 'Diddy' Combs's former personal assistant has testified at the hip-hop mogul's sex trafficking trial that he often bought drugs for his boss and set up hotel rooms for sex parties known as "wild king nights." 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0620/1519563-sean-diddy-combs/>
+
+---
+
+## Mahmoud Khalil 'not a danger to the community,' says U.S. judge in ordering release of student protester
+
+date: 2025-06-20, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7567236.1750447227!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-columbia-khalil.JPG' alt='People hold signs that say release mahmoud khalil' width='620' height='349' title='DHS police officers stand guard as protesters take part in a rally organized by Jewish activists against the detention by ICE agents of Palestinian activist and Columbia University graduate student Mahmoud Khalil in New York City, U.S., March 20, 2025.  '/><p>A federal judge on Friday ordered the U.S. government to free former Columbia University graduate student Mahmoud Khalil from the immigration detention centre where he's been held since early March while the Trump administration sought to deport him over his role in pro-Palestinian protests.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/mahmoud-khalil-freed-1.7567219?cmp=rss>
+
+---
+
+## Italy salvages superyacht that sank off Sicily last year
+
+date: 2025-06-20, from: RTÉ News
+
+Salvage workers raised a superyacht that sank off Italy during a pre-dawn storm last year, killing UK tech mogul Mike Lynch and six others. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0620/1519559-sicily-yacht-salvaged/>
+
+---
+
+## Indigenous music moments
+
+date: 2025-06-20, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/da7d13d6-7089-4971-89c7-d8820da64bea,1750448428033/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='Reporter Miki Wolf oncam screenshot' width='620' height='349' title=''/><p>Moments you know or might have missed in Indigenous music since Canada’s broadcast history began.
+
+Hungry for more Indigenous music? Watch Resonate: Songs of Resilience starting National Indigenous Peoples Day, June 21 on CBC News streaming channels, CBC GEM, and YouTube.
+</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6806002?cmp=rss>
+
+---
+
+## All 7 members of K-pop band BTS have finished military service, with Suga discharged
+
+date: 2025-06-20, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7567158.1750444527!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/music-suga-bts-returns.jpg' alt='A man in a suit waves with a slight smile in front of a bright yellow backdrop. ' width='620' height='349' title='FILE - Suga, a member of South Korean K-pop band BTS, poses for photographers ahead of a press conference to introduce their new single &quot;Butter&quot; in Seoul, South Korea on May 21, 2021.'/><p>Suga, a rapper and songwriter in the global K-pop sensation BTS, has been discharged from South Korea's mandatory military service, marking the official return of all seven members from their enlistment duties.  </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/suga-bts-military-service-1.7567148?cmp=rss>
+
+---
+
+## 10% pay increase proposed for childcare workers
+
+date: 2025-06-20, from: RTÉ News
+
+A 10% increase to minimum rates of pay has been proposed for early years educators and school-age childcare practitioners. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0620/1519557-childcare-workers-pay/>
+
+---
+
+## Watch the documentary: "León de Perú"
+
+date: 2025-06-20, from: Vatican News
+
+
+                    <p>The Editorial Directorate of the Dicastery for Communication presents the documentary, “León de Perú”, featuring footage that retraces the mission of Robert Francis Prevost in Peru.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/watch-the-vatican-media-documentary-leon-de-peru.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/watch-the-vatican-media-documentary-leon-de-peru.html>
+
+---
+
+## Meet the helpers spending days on their feet to serve First Nations wildfire evacuees
+
+date: 2025-06-20, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7566302.1750445284!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/chateh-donations-team.jpeg' alt='X' width='620' height='349' title=''/><p>Thousands of First Nations people have had to leave their homes this year due to wildfires. Here's what it's like to be one — and help out others.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/chateh-stanley-mission-wildfire-evacuees-1.7566295?cmp=rss>
+
+---
+
+## Kelly receives correspondence over Arts Council IT system
+
+date: 2025-06-20, from: RTÉ News
+
+The chair of the Oireachtas Media Committee Alan Kelly has received copies of correspondence between the Arts Council and the Department of Arts and Media in relation to the €6.7m failed IT system. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0620/1519551-arts-council-it/>
+
+---
+
+## Man, 89, jailed for ten years over rape of girl in 1990s
+
+date: 2025-06-20, from: RTÉ News
+
+An 89-year-old Tipperary man who sexually abused a young girl has been jailed for ten years. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0620/1519553-elderly-man-jailed-rape/>
+
+---
+
+## Shop cleared of discrimination over €68 payment in coins
+
+date: 2025-06-20, from: RTÉ News
+
+A supermarket has been cleared of discriminating against two children who were asked by a cashier if they had "anything larger" when they tried to pay for €68 worth of groceries with 10c and 20c coins. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0620/1519549-shop-cleared-of-discrimination-over-68-payment-in-coins/>
+
+---
+
+## Three arrested over Castletown House criminal damage
+
+date: 2025-06-20, from: RTÉ News
+
+Three people have been arrested in connection with a number of criminal damage incidents at Castletown House in Co Kildare in recent weeks, in which over €400,000 worth of damage was caused. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0620/1519543-castletown-house-arrests/>
+
+---
+
+## UK MPs vote in favour of assisted dying bill
+
+date: 2025-06-20, from: RTÉ News
+
+Assisted dying is a step closer to being made legal in England and Wales after proposed legislation cleared the House of Commons in a historic vote. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0620/1519541-uk-assisted-dying/>
+
+---
+
+## High cost of IP housing 'not sustainable' - Minister
+
+date: 2025-06-20, from: RTÉ News
+
+The Minister of State for Migration has acknowledged the high costs of providing accommodation for International Protection applicants and Ukrainian refugees, which he said was "neither sustainable nor acceptable in the long term". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0620/1519538-ipa-accommodation/>
+
+---
+
+## Enforcement notice for daa over breach of passenger cap
+
+date: 2025-06-20, from: RTÉ News
+
+Fingal County Council has issued an enforcement notice to the operators of Dublin Airport for breaching the cap of 32 million passengers a year. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0620/1519520-airport-passenger-cap/>
+
+---
+
+## Slane Castle open to public for tributes to Lord Henry
+
+date: 2025-06-20, from: RTÉ News
+
+The family of Lord Henry Mount Charles will open the gates of Slane Castle this weekend, inviting members of the public to sign a Book of Condolence in honour of the late music promoter and custodian of one of Ireland's most iconic venues. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0620/1519533-slane-castle-open-to-public-for-tributes-to-lord-henry/>
+
+---
+
+## At least 43 killed by Israeli forces, say Gaza rescuers
+
+date: 2025-06-20, from: RTÉ News
+
+Gaza's civil defence agency said Israeli forces killed at least 43 people today, including 26 who had gathered near an aid distribution centre, the latest in a string of deadly incidents targeting aid seekers in the Palestinian territory. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0620/1519529-gaza-aid-deaths/>
 
 ---
 
@@ -21,15 +284,75 @@ Death and suffering in Gaza are ever-present and the enclave's people now have l
 
 ---
 
-## MIDDLE EAST CRISIS: Live updates for 20 June
+## MIDDLE EAST CRISIS LIVE: ‘Give peace a chance’ UN chief urges Israel and Iran
 
 date: 2025-06-20, from: United Nations, Top Stories
 
-One week since the Israel-Iran conflict erupted, diplomatic efforts to end the war are ramping up in Geneva today as foreign ministers from France, Germany, the UK and the European Union prepare to meet their Iranian counterpart. In New York, meanwhile, the UN Security Council is also set to discuss this latest worrying escalation, against the backdrop of the ongoing emergency in Gaza. We'll be covering these developments and more across the UN system today. UN News&nbsp;app users can follow here. 
+One week since the Israel-Iran conflict erupted, diplomatic efforts to end the war are ramping up in Geneva as foreign ministers from France, Germany, the UK and the EU prepare to meet their Iranian counterpart. In New York, meanwhile, the UN Security Council heard the UN Secretary-General warn ambassadors that “we are on course to chaos” if the war widens “which could ignite a fire that no one can can control.” UN News&nbsp;app users can follow here. 
 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/06/1164651>
+
+---
+
+## ‘A fire no one can control’: UN warns of spiralling Iran-Israel war
+
+date: 2025-06-20, from: United Nations, Top Stories
+
+The world stands on the edge of catastrophe, United Nations Secretary-General António Guterres warned on Friday, as Israel’s military campaign inside Iran intensifies and strikes on nuclear facilities threaten to trigger a catastrophe. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164721>
+
+---
+
+## UN Peace Building Commission ‘more needed than ever’ amid rising conflict
+
+date: 2025-06-20, from: United Nations, UN Affairs
+
+Former Liberian President Ellen Johnson-Sirleaf and other senior officials from across the world have spoken about how international support was critical to putting their countries on the path to peace. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164716>
+
+---
+
+## WHO warns of a health financing emergency
+
+date: 2025-06-20, from: United Nations, Top Stories
+
+The world is facing a health financing emergency, according to Dr. Kalipso Chalkidou, Director for Health Financing and Economics for the World Health Organization (WHO). 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164706>
+
+---
+
+## For too long, ‘unbound horrors’ have unfolded in Sudan
+
+date: 2025-06-20, from: United Nations, Top Stories
+
+Hostilities continue to escalate across Sudan’s&nbsp;North Darfur and&nbsp;Kordofan regions, with reports of civilian casualties, sexual violence, abductions and looting, the UN human rights chief warned on Friday, describing the consequences as disastrous. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164701>
+
+---
+
+## From Syria, UN refugee chief calls for greater solidarity with displaced people
+
+date: 2025-06-20, from: United Nations, Top Stories
+
+Although record numbers of people – over 122 million worldwide – have been uprooted due to war, violence and persecution, their ability to find safety and support is threatened more than ever.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164671>
 
 ---
 
@@ -77,6 +400,18 @@ date: 2025-06-20, from: Vatican News
 
 ---
 
+## Lava shoots into the sky as Hawaii's Kilauea erupts again
+
+date: 2025-06-20, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/a0e09062-acb5-4e15-abe8-75d43f3fd342,1750432332625/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='HAWAII VOLCANO ERUPTING' width='620' height='349' title=''/><p>Video from the U.S. Geological Survey recorded Friday shows fountains of lava spewing into the sky as Hawaii's Kilauea volcano erupts again.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6805331?cmp=rss>
+
+---
+
 ## Thousands expected in Dublin for major events
 
 date: 2025-06-20, from: RTÉ News
@@ -121,6 +456,18 @@ date: 2025-06-20, from: Vatican News
 
 ---
 
+## New college in Northern Quebec offers culturally rooted education for Cree students
+
+date: 2025-06-20, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7565790.1750359966!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/eeyou-istchee-college.jpg' alt='A group of people cut a moose-hide ribbon to open the Eeyou Istchee College. ' width='620' height='349' title='A new college has opened in the Cree Nation of Chisasibi, the first in Eeyou Istchee, celebrated on June 16 at the Mitchwuap building.'/><p>A new post-secondary institution, the Eeyou Istchee College of Science and Technology, has opened in Northern Quebec, aiming to provide accessible education for Cree students and professionals.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/new-college-in-northern-quebec-offers-culturally-rooted-education-for-cree-students-1.7565734?cmp=rss>
+
+---
+
 ## Supplementary register recommended for Seanad elections
 
 date: 2025-06-20, from: RTÉ News
@@ -130,6 +477,18 @@ The introduction of a supplementary register is among a number of recommendation
 <br> 
 
 <https://www.rte.ie/news/politics/2025/0620/1519500-seanad-review/>
+
+---
+
+## British Parliament votes in favour of assisted dying legislation
+
+date: 2025-06-20, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7566588.1750426986!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2220307019.jpg' alt='A woman in a pink baseball cap hugs another woman in an outdoor photo, amid a crowd of many people.' width='620' height='349' title='Campaigners for a change in the law on assisted dying celebrate outside The Palace of Westminster, home to the Houses of Parliament in central London, on June 20, 2025, after the vote to allow assisted dying for terminally ill people. Britain took a historic step towards allowing euthanasia on Friday when MPs backed legislation that would permit assisted dying for terminally ill people. Lawmakers in the lower House of Commons chamber voted 314 in favour to 291 against to advance the proposal to the upper House of Lords for further scrutiny and votes following four hours of emotional debate.        '/><p>After hours of emotional debate and references to personal stories in the chamber, Britain's Parliament voted on Friday in favour of a bill to legalize assisted dying.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/britain-assisted-dying-1.7566492?cmp=rss>
 
 ---
 
@@ -173,6 +532,18 @@ The owner of the shop that sold the winning EuroMillions ticket in Cork is celeb
 
 ---
 
+## Move over, Garth - the astonishing rise of Zach Bryan
+
+date: 2025-06-20, from: RTÉ News
+
+Two years ago, American country singer Zach Bryan played The Helix Theatre in Dublin - this weekend, he will play three sold-out gigs in the Phoenix Park. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0620/1519472-move-over-garth-the-astonishing-rise-of-zach-bryan/>
+
+---
+
 ## Staff fears over safety after Oberstown incidents
 
 date: 2025-06-20, from: RTÉ News
@@ -213,11 +584,11 @@ date: 2025-06-20, from: CBC, World News
 
 ---
 
-## Iran foreign minister to address UN council
+## Europe won't be much help on Iran-Israel war - Trump
 
 date: 2025-06-20, from: RTÉ News
 
-Follow live updates as European foreign ministers meet their Iranian counterpart aiming to create a pathway back to diplomacy over its contested nuclear programme despite the US considering joining Israeli strikes against Iran. 
+Follow live updates as European foreign ministers meet their Iranian counterpart aiming to create a pathway back to diplomacy as the US considers joining Israeli strikes against Iran. 
 
 <br> 
 
@@ -234,6 +605,18 @@ date: 2025-06-20, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/news/canada/saskatchewan/late-michif-language-keeper-honoured-with-new-stamp-1.7565136?cmp=rss>
+
+---
+
+## This First Nations chef went into a diabetic coma at 21. Now he teaches healthy traditional cooking
+
+date: 2025-06-20, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7562515.1750097537!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/chef-kirk-ermine.jpg' alt='Chef Kirk Ermine holds a bowl of sweet potatoes and wild mushrooms.' width='620' height='349' title='Chef Kirk Ermine loves using sweet potatoes in his cooking, due to their high fibre and low glycemic index.'/><p>Chef Kirk Ermine was diagnosed with Type 1 diabetes at age 21. Once he realized he could help heal his own body with food, he was determined to do just that. Now, he's sharing his healthy cooking tips with others.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatoon/chef-passion-traditional-ingredients-indigenous-1.7562376?cmp=rss>
 
 ---
 
@@ -273,15 +656,27 @@ date: 2025-06-20, from: CBC, Indigenious News
 
 ---
 
-## Review to find Israel violated trade agreement with EU
+## Review find Israel 'in breach' of trade agreement with EU
 
 date: 2025-06-20, from: RTÉ News
 
-A review into Israel's compliance with its human rights obligations, enshrined in its trade and political relations with the European Union, will be circulated to member states later today. 
+A review of Israel's conduct of the war in Gaza by the EU has concluded that it is "in breach" of the human rights obligations of the EU-Israel Association Agreement, according to an extract of the report seen by RTÉ News. 
 
 <br> 
 
 <https://www.rte.ie/news/europe/2025/0620/1519437-eu-israel/>
+
+---
+
+## Aysanabee, Shawnee Kish and more on the Indigenous artists who inspire them
+
+date: 2025-06-20, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7566432.1750435822!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/amanda-aysanabee-shawnee-sebastian.jpg' alt='A graphic with an orange background and photos of Amanda Rheaume (a Métis woman), Aysanabee (an Oji-Cree man), Shawnee Kish (a Two-spirit Mohawk person) and Sebastian Gaskin (a Cree nonbinary person). ' width='620' height='349' title='Fron left to right: Amanda Rheaume, Aysanabee, Shawnee Kish and Sebastian Gaskin tell us about the Indigenous artists that inspire them. '/><p>Amanda Rheaume and Sebastian Gaskin also share stories about the artists they love.</p> 
+
+<br> 
+
+<https://www.cbc.ca/music/indigenous-artists-aysanabee-shawnee-kish-sebastian-gaskin-amanda-rheaume-1.7565277?cmp=rss>
 
 ---
 
@@ -297,11 +692,11 @@ When it comes to the race to elect what our Constitution describes as the person
 
 ---
 
-## Tariffs key focus at North-South Ministerial Council
+## O'Neill not ruling out run for presidential election
 
 date: 2025-06-20, from: RTÉ News
 
-A key focus of the North South Ministerial Council has been the impact of international tariffs on both economies, Northern Ireland First Minister Michelle O'Neill has said. 
+Northern Ireland First Minister Michelle O'Neill has not ruled out a run for the upcoming presidential election. 
 
 <br> 
 
@@ -330,6 +725,18 @@ The State spent more than €401 million on accommodation for International Prot
 <br> 
 
 <https://www.rte.ie/news/clarity/2025/0620/1519404-ipas-clarity/>
+
+---
+
+## Hottest day for 3 years as 29.6C recorded in Roscommon
+
+date: 2025-06-20, from: RTÉ News
+
+Today has been the hottest day of the year so far and hottest day in Ireland for three years, with Met Éireann recording a temperature of 29.6C in Co Roscommon this afternoon. 
+
+<br> 
+
+<https://www.rte.ie/news/weather/2025/0620/1519425-weather-ireland-temperature/>
 
 ---
 
@@ -393,11 +800,23 @@ date: 2025-06-20, from: CBC, Indigenious News
 
 ---
 
-## Iran says no nuclear talks under Israeli fire
+## Former Mohawk Institute Residential School in Brantford, Ont., nearly ready to open as public museum
+
+date: 2025-06-20, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7338089.1727717585!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ont-residential-school-search-20211109.JPG' alt='Steps leading up to the site of former Indian Residential School, the Mohawk Institute, as phase one of a ground search begins for possible unmarked graves on the 500 acres of the lands in Brantford, Ont., Tuesday, November 9, 2021.' width='620' height='349' title='Steps leading up to the site of former Indian Residential School, the Mohawk Institute, as phase one of a ground search begins for possible unmarked graves on the 500 acres of the lands in Brantford, Ont., Tuesday, November 9, 2021.'/><p>The Woodland Cultural Centre in Brantford, Ont., will also be hosting Canada's longest-running contemporary Indigenous juried art show opening for National Indigenous Peoples Day this weekend.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/hamilton/mohawk-institute-woodland-cultural-centre-1.7565458?cmp=rss>
+
+---
+
+## Iran says no nuclear talks, atomic agency urges restraint
 
 date: 2025-06-20, from: RTÉ News
 
-Iran has said it would not discuss the future of its nuclear programme while under attack by Israel, as Europe tried to coax Tehran back into negotiations and the US considers whether to get involved in the conflict. 
+Iran has said it would not discuss the future of its nuclear programme while under attack by Israel, as Europe tried to coax Tehran back into negotiations and the United States considers whether to get involved in the conflict. 
 
 <br> 
 
@@ -514,6 +933,18 @@ US President Donald Trump is considering whether to join Israel's campaign again
 
 ---
 
+## London-area Grand Chief slams Ford's 'hat in hand' comments, says apology offers little relief
+
+date: 2025-06-19, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.4137818.1750371407!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/joel-abram.JPG' alt='Joel Abram of Oneida First Nation of the Thames is the new grand chief of the Association of Iroquois and Allied Indians. Elections was held Tuesday in Leamington.' width='620' height='349' title='Joel Abram of Oneida First Nation of the Thames is the new grand chief of the Association of Iroquois and Allied Indians. Elections was held Tuesday in Leamington.'/><p>Ontario Premier Doug Ford's apology for controversial comments he made about First Nations has little value unless he recognizes the historical and legal context of why many communities lack resources to begin with, an Indigenous leader in southwestern Ontario says. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/london/london-area-grand-chief-slams-ford-s-hat-in-hand-comments-says-apology-offers-little-relief-1.7565919?cmp=rss>
+
+---
+
 ## 'There was nothing we could do,' says South African woman who watched floodwaters engulf her home
 
 date: 2025-06-19, from: CBC, World News
@@ -575,6 +1006,18 @@ date: 2025-06-19, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/news/canada/saskatoon/mother-fasting-demands-search-regina-landfill-1.7565665?cmp=rss>
+
+---
+
+## Mother fasting as she demands search of Regina landfill for daughter's remains
+
+date: 2025-06-19, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7565898.1750356584!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/michele-bear-regina-landfill-june-19-2025.jpeg' alt='A woman stands beside a poster that says &quot;Richele Bear: Her remains need to be located.&quot;' width='620' height='349' title='Michele Bear is calling for the Regina landfill to be searched for the remains of her daughter, Richele Bear. Richele Bear was murdered in 2013 and her killer is in prison, but her remains have never been found.'/><p>Michele Bear is fasting and says she will stay at the Regina landfill, which she believes holds the remains of her daughter, "as long as it takes." Clayton Bo Eichler pled guilty in 2016 to murdering Richele Bear in 2013, but her body has never been found.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatchewan/mother-fasting-demands-search-regina-landfill-1.7565665?cmp=rss>
 
 ---
 
@@ -812,7 +1255,7 @@ The Government is walking the country "into a disaster" by not taking the recrui
 
 ## World News in Brief: Global investment plunges, hurricane season in Haiti, rising cholera and hunger in South Sudan
 
-date: 2025-06-19, from: United Nations, Top Stories
+date: 2025-06-19, from: United Nations, Economic Development
 
 Global investment fell a full 11 per cent to $1.5 trillion last year – it’s a huge blow for developing nations, the UN trade agency, UNCTAD, said on Thursday. 
 
@@ -870,7 +1313,7 @@ Just days before Israel launched a bombing campaign against Iran, the UN watchdo
 
 ---
 
-## Development is ‘the first line of defense against conflict,’ Guterres tells Security Council
+## Development is ‘the first line of defence against conflict,’ Guterres tells Security Council
 
 date: 2025-06-19, from: United Nations, Top Stories
 
@@ -1855,7 +2298,7 @@ Renewable energy plants are being built across Indonesia, but for their electric
 
 ## Ahead of UN summit, countries finalise landmark ‘Compromiso de Sevilla’
 
-date: 2025-06-18, from: United Nations, Top Stories
+date: 2025-06-18, from: United Nations, Economic Development
 
 UN Member States have reached agreement on the outcome document for the Fourth International Conference on Financing for Development, to be formally adopted at an upcoming summit in Sevilla, Spain – though without the participation of the United States, which withdrew from the negotiations and announced it will not attend the conference. 
 

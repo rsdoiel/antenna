@@ -1,11 +1,98 @@
 ---
 title: writing
-updated: 2025-06-20 06:08:26
+updated: 2025-06-20 14:08:04
 ---
 
 # writing
 
-(date: 2025-06-20 06:08:26)
+(date: 2025-06-20 14:08:04)
+
+---
+
+## ‘The Life of Chuck’ and How Stephen King Succeeds at Quiet Drama
+
+date: 2025-06-20, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/the-life-of-chuck-and-how-stephen-king-succeeds-at-quiet-drama" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Tom%20Hiddleston%20and%20Annalise%20Basso%20in%20The%20Life%20of%20Chuck.png" alt="Tom Hiddleston and Annalise Basso walking down the street holding hands and smiling in The Life of Chuck" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Stephen King is arguably the master of horror. His scary stories have consistently been made into classic films for almost 50 years starting with <em>Carrie</em>. In fact, he has four adaptations of his work releasing in theaters in 2025: <em>The Life of Chuck, The Monkey, The Running Man</em> and <em>The Long Walk</em>. If King is one thing, he’s prolific.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/the-life-of-chuck-and-how-stephen-king-succeeds-at-quiet-drama>
+
+---
+
+## Hexagon, Lightspeed, and Beneath Ceaseless Skies: Reviews by Charles Payseur
+
+date: 2025-06-20, from: Locus Magazine
+
+<p>Hexagon Spring ’25
+Lightspeed 3/25
+Beneath Ceaseless Skies 3/6/25</p>
+<p>I’m sad to report that the Spring issue of Hexa­gon is their last, at least for now. And the final issue opens with a reminder of the importance of community and care in <strong>Jordan Hirsch</strong>’s “<strong>Ant Soup</strong>”, In it, Penelope wants to take part in a remembering service for her former biology teacher (and all around inspiring guy)  <a href="https://locusmag.com/2025/06/hexagon-lightspeed-and-beneath-ceaseless-skies-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/hexagon-lightspeed-and-beneath-ceaseless-skies-reviews-by-charles-payseur/>
+
+---
+
+## Locus Bestsellers, June
+
+date: 2025-06-20, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+
+<strong>The Locus Bestsellers for May include top titles: Onyx Storm by Rebecca Yarros (Red Tower), Mistborn by Brandon Sanderson (Tor), </strong><strong>Fourth Wing by Rebecca Yarros (Red Tower), and DragonLance Chronicles by Margaret Weis &#38; Tracy Hickman (Random House Worlds).</strong>
+
+</div>
+<p></p>
+<div class="postcontent">
+
+
+
+
+HARDCOVERS
+Months
+on list
+Last
+month
+
+
+1)
+<strong>Onyx Storm</strong>, Rebecca Yarros (Red Tower)
+3
+1
+
+
+2)
+<strong>The Ragpicker King</strong>, Cassandra Clare (Del Rey)
+1
+&#8211;
+
+
+3)
+<strong>The River Has </strong></div> <a href="https://locusmag.com/2025/06/locus-bestsellers-june-4/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/06/locus-bestsellers-june-4/>
+
+---
+
+## What Happens if the AI Copyright Class Actions Settle?
+
+date: 2025-06-20, from: Author's Union blog
+
+As the high‑profile copyright lawsuits against AI companies proceed, the courtroom drama captures headlines. But I’ve long thought that settlement may be the real outcome to watch.
+
+We may already be entering “settlement watch” territory in one of the fastest-moving AI cases, Bartz v. Anthropic.  
+
+<br> 
+
+<https://www.authorsalliance.org/2025/06/20/what-happens-if-the-ai-copyright-class-actions-settle/>
 
 ---
 

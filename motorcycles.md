@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2025-06-20 06:08:29
+updated: 2025-06-20 14:08:06
 ---
 
 # motorcycles
 
-(date: 2025-06-20 06:08:29)
+(date: 2025-06-20 14:08:06)
+
+---
+
+## 8-Time Ice Speedway World Champion Dies At Age 40, But In a Car Crash
+
+date: 2025-06-20, from: Ride Apart, Electric Motorcycle News
+
+RIP, Nikolai Krasnikov. 
+
+<br> 
+
+<https://www.rideapart.com/news/763192/ice-speedway-champ-nikolai-krasnikov-obituary/>
+
+---
+
+## Some Lowlife Thief Stole a Woman's Motorcycle After She Crashed and Died
+
+date: 2025-06-20, from: Ride Apart, Electric Motorcycle News
+
+Are you (expletive) kidding me? 
+
+<br> 
+
+<https://www.rideapart.com/news/763259/motorcycle-thief-stole-dead-womans-bike-phoenix-arizona/>
 
 ---
 

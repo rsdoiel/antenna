@@ -1,11 +1,127 @@
 ---
 title: socal north
-updated: 2025-06-20 06:08:22
+updated: 2025-06-20 14:08:01
 ---
 
 # socal north
 
-(date: 2025-06-20 06:08:22)
+(date: 2025-06-20 14:08:01)
+
+---
+
+## Help for LA renters facing eviction at risk as city attorney refuses to sign contract, tenant advocates say
+
+date: 2025-06-20, updated: 2025-06-20, from: The LAist
+
+Renters have been getting legal aid and rent relief through Stay Housed L.A. for years. If Hydee Feldstein Soto lets the city’s contract lapse, those services could end June 30. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-city-attorney-stay-housed-la-tenant-legal-aid-rent-relief-hydee-feldstein-soto>
+
+---
+
+## SoCal Edison warns customers to prepare for more power shut offs this year
+
+date: 2025-06-20, updated: 2025-06-20, from: The LAist
+
+Last year, more than 137,000 SoCal Edison customers had their power shut off to help mitigate fire risk from utility lines. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/more-power-shut-offs-this-year-socal-edison>
+
+---
+
+## From 'save our state' to 'sanctuary,' California’s immigration views have shifted dramatically
+
+date: 2025-06-20, updated: 2025-06-20, from: The LAist
+
+Most Californians today see immigrants as a benefit to the state. What changed in the 31 years since they approved Proposition 187? 
+
+<br> 
+
+<https://laist.com/news/politics/from-save-our-state-to-sanctuary-californias-immigration-views-have-shifted-dramatically>
+
+---
+
+## Long Beach tests new rules to allow public drinking in downtown
+
+date: 2025-06-20, from: Longbeach Post
+
+<figure><img width="1024" height="522" src="https://img.lbpost.com/wp-content/uploads/2022/06/27133337/0626-Homeless-6.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2022/06/27133337/0626-Homeless-6.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2022/06/27133337/0626-Homeless-6-588x300.jpg 588w, https://img.lbpost.com/wp-content/uploads/2022/06/27133337/0626-Homeless-6-1110x566.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/06/27133337/0626-Homeless-6-768x392.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/06/27133337/0626-Homeless-6-1536x783.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/06/27133337/0626-Homeless-6-2048x1044.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/06/27133337/0626-Homeless-6-1320x673.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>“It doesn’t mean a 24/7 open-container policy; it’s more than likely going to be tailored to when a special event occurs,” according to one official helping craft the plan.</p>
+<p>The post <a href="https://lbpost.com/news/public-drinking-downtown-long-beach-test-pilot-rules">Long Beach tests new rules to allow public drinking in downtown</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/public-drinking-downtown-long-beach-test-pilot-rules>
+
+---
+
+## The beauty we found in Santa Ana by looking beyond ICE sweeps and demonstrations
+
+date: 2025-06-20, updated: 2025-06-20, from: The LAist
+
+The pandemic, a rail project and then immigration sweets have all disrupted businesses over the last several years — but not the community’s spirit. 
+
+<br> 
+
+<https://laist.com/news/politics/how-santa-ana-is-taking-care-of-its-own-amid-ice-raids-and-demonstations>
+
+---
+
+## What children in poverty could lose from the 'Big Beautiful Bill'
+
+date: 2025-06-20, updated: 2025-06-20, from: The LAist
+
+Republicans want to change or reduce key social safety net programs that provide health care, food benefits and financial assistance for millions of children. 
+
+<br> 
+
+<https://laist.com/news/education/what-children-in-poverty-could-lose-from-the-big-beautiful-bill>
+
+---
+
+## Matchbox Theatre Co. to Present “World Builders” at The MAIN
+
+date: 2025-06-20, from: City of Santa Clarita
+
+<p>What if the Cure Takes Away the Very Thing That Makes You… You? For one weekend only, Matchbox Theatre Co. is bringing their inaugural production of Johnna Adams’ World Builders to The MAIN (24266 Main Street). Max and Whitney both have personality disorders that cause them to live deep within their own imagined realities. When [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/20/matchbox-theatre-co-to-present-world-builders-at-the-main/">Matchbox Theatre Co. to Present &#8220;World Builders&#8221; at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/20/matchbox-theatre-co-to-present-world-builders-at-the-main/>
+
+---
+
+## Federal government could put millions of acres of SoCal public land up for sale
+
+date: 2025-06-20, updated: 2025-06-20, from: The LAist
+
+The sell-off would be part of the Trump administration’s efforts to cut the budget deficit, double down on fossil fuel production and expand affordable housing development. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/federal-government-could-put-millions-of-acres-of-socal-public-land-up-for-sale>
+
+---
+
+## Rescue crews rush to sinking vessel off Long Beach after fire in engine room
+
+date: 2025-06-20, from: Longbeach Post
+
+<figure><img width="1024" height="830" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20082132/boat-rescue-june-2025-1-001412-57cr3y2i-778256-OlWNPnRf-1024x830.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20082132/boat-rescue-june-2025-1-001412-57cr3y2i-778256-OlWNPnRf-1024x830.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20082132/boat-rescue-june-2025-1-001412-57cr3y2i-778256-OlWNPnRf-300x243.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20082132/boat-rescue-june-2025-1-001412-57cr3y2i-778256-OlWNPnRf-768x622.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20082132/boat-rescue-june-2025-1-001412-57cr3y2i-778256-OlWNPnRf-133x108.jpg 133w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20082132/boat-rescue-june-2025-1-001412-57cr3y2i-778256-OlWNPnRf-1536x1245.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20082132/boat-rescue-june-2025-1-001412-57cr3y2i-778256-OlWNPnRf-2048x1660.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20082132/boat-rescue-june-2025-1-001412-57cr3y2i-778256-OlWNPnRf-1200x973.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20082132/boat-rescue-june-2025-1-001412-57cr3y2i-778256-OlWNPnRf-1568x1271.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20082132/boat-rescue-june-2025-1-001412-57cr3y2i-778256-OlWNPnRf-400x324.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>There was heavy smoke billowing from the 44-foot power boat, according to the LBFD.</p>
+<p>The post <a href="https://lbpost.com/news/rescue-crews-rush-to-sinking-vessel-off-long-beach-after-fire-in-engine-room">Rescue crews rush to sinking vessel off Long Beach after fire in engine room</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/rescue-crews-rush-to-sinking-vessel-off-long-beach-after-fire-in-engine-room>
 
 ---
 
@@ -61,7 +177,7 @@ The museum spent months on recovery work deep cleaning the campus and is ready t
 
 date: 2025-06-20, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1536x1025.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1568x1046.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1536x1025.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1568x1046.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>President Trump had a legitimate interest in protecting federal employees when he deployed the National Guard to Los Angeles, an appeals court ruled.</p>
 <p>The post <a href="https://lbpost.com/news/trump-can-keep-troops-in-la-for-now-appeals-court-rules">Trump can keep troops in LA for now, appeals court rules</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -84,7 +200,7 @@ President Donald Trump had a legitimate interest in protecting federal employees
 
 ---
 
-## Trump's VA cut a program that's saving vets' homes. Even Republicans have questions
+## Trump's VA cut a program that's saving vets' homes. Republicans have questions
 
 date: 2025-06-19, updated: 2025-06-19, from: The LAist
 
@@ -112,7 +228,7 @@ Though protests have waned in recent days, several hundred people gathered in do
 
 date: 2025-06-19, from: Longbeach Post
 
-<figure><img width="1024" height="787" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826.jpg 1714w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-300x231.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1024x787.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-768x591.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-140x108.jpg 140w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1536x1181.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1200x923.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1568x1206.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-400x308.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="787" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826.jpg 1714w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-300x231.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1024x787.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-768x591.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-140x108.jpg 140w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1536x1181.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1200x923.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1568x1206.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-400x308.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The average household can expect an $8.26 per month increase in its water bill, $1.47 for sewer charges and $4.67 for gas service.</p>
 <p>The post <a href="https://lbpost.com/news/gas-water-sewer-rates-increase-long-beach">Gas, water and sewer rates set to increase to help cover $397 million Utilities Department budget</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -167,7 +283,7 @@ date: 2025-06-19, from: Longbeach Post
 
 ## Screen addiction and suicidal behaviors are linked for teens, a study shows
 
-date: 2025-06-19, updated: 2025-06-19, from: The LAist
+date: 2025-06-19, updated: 2025-06-20, from: The LAist
 
 The study, published in JAMA, followed teens for years and evaluated addictive behaviors, as well as suicidality. 
 
@@ -256,7 +372,7 @@ Tyler Malek reveals the inner operation of flavor pairing and problem solving.
 
 ## Two Filipino bakeries with a modern spin find their home in SoCal
 
-date: 2025-06-19, updated: 2025-06-19, from: The LAist
+date: 2025-06-19, updated: 2025-06-20, from: The LAist
 
 These new Filipino bakeries are putting a modern spin on their baking traditions. 
 
