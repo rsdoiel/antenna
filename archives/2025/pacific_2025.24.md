@@ -1,11 +1,591 @@
 ---
 title: pacific
-updated: 2025-06-19 14:07:46
+updated: 2025-06-20 06:08:23
 ---
 
 # pacific
 
-(date: 2025-06-19 14:07:46)
+(date: 2025-06-20 06:08:23)
+
+---
+
+## Court orders allegedly abused puppy to be forfeited
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>A judge has ordered the forfeiture of a pet puppy previously owned by a 58-year-old Hilo woman accused of abusing the animal.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/hawaii-news/court-orders-allegedly-abused-puppy-to-be-forfeited/>
+
+---
+
+## Poll: Dems want new leaders, focus on pocketbook issues
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Democrats want new leaders for their party, which many feel isn&#8217;t focusing enough on economic issues and is over-emphasizing issues like transgender rights and electric vehicles, a Reuters/Ipsos poll found.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/nation-world-news/poll-dems-want-new-leaders-focus-on-pocketbook-issues/>
+
+---
+
+## Trump buys himself time, and opens up some new options
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s sudden announcement that he could take up to two weeks to decide whether to plunge the United States into the heart of the Israel-Iran conflict is being advertised by the White House as giving diplomacy one more chance to work.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/nation-world-news/trump-buys-himself-time-and-opens-up-some-new-options/>
+
+---
+
+## Iranian missile hits Israeli hospital as Trump appears to put off US action
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; An Iranian missile struck a large hospital in southern Israel on Thursday, causing widespread damage and injuring several patients, as President Donald Trump said he would decide &#8220;within the next two weeks&#8221; whether to join Israel&#8217;s bombing campaign against Iran to stop its nuclear program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/nation-world-news/iranian-missile-hits-israeli-hospital-as-trump-appears-to-put-off-us-action/>
+
+---
+
+## Study: Maui wildfire survivors still struggling with health, housing
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>Nearly two years after the devastating Maui wildfires, survivors continue to struggle with the mental, physical and social impacts, according to researchers from the University of Hawaii at Manoa.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/hawaii-news/study-maui-wildfire-survivors-still-struggling-with-health-housing/>
+
+---
+
+## Harbor House hosts second annual golf tourney
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>Harbor House, Kona&#8217;s iconic waterfront restaurant known for its community roots and local flavors, has announced its second annual Golf Tournament taking place Saturday, July 19, at the Kona Country Club in Kailua-Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/community/harbor-house-hosts-second-annual-golf-tourney/>
+
+---
+
+## Na Leo TV awards three scholarships
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>Na Leo TV recently announced the winners of its second semiannual Ho&#8216;olono Scholarship, which supports Hawaii Island youth pursuing broadcast, journalism, digital and creative media or related fields.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/community/na-leo-tv-awards-three-scholarships/>
+
+---
+
+## Zonta Club offers $10K in grants to women entrepreneurs
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>The Zonta Club of Hilo is accepting microgrant applications to provide funding for women-owned small businesses on Hawaii Island. Women entrepreneurs who are seeking financial support are encouraged to apply.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/community/zonta-club-offers-10k-in-grants-to-women-entrepreneurs/>
+
+---
+
+## Yee-haw! Parker Ranch’s July 4th Rodeo returns to Waimea
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>Parker Ranch will present the 61st Annual July 4th Rodeo and Horse Races on Friday, July 4, at the Parker Ranch Rodeo Arena in Waimea.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/entertainment/yee-haw-parker-ranchs-july-4th-rodeo-returns-to-waimea/>
+
+---
+
+## Keiki encouraged to participate in HI-PAL Music Showcase
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Island keiki age 5 to 18 are encouraged to sign up for the first-ever HI-PAL Youth Music Showcase that will take place on Saturday, Aug. 9, in Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/community/keiki-encouraged-to-participate-in-hi-pal-music-showcase/>
+
+---
+
+## Banning plastic bags works to limit shoreline litter, study finds
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>At tens of thousands of shoreline cleanups across the United States in recent years, volunteers logged each piece of litter they pulled from the edges of lakes, rivers and beaches into a global database.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/nation-world-news/banning-plastic-bags-works-to-limit-shoreline-litter-study-finds/>
+
+---
+
+## News in brief for June 20
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>Listeria outbreak tied to chicken pasta sold at Walmart and Kroger</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/nation-world-news/news-in-brief-for-june-20/>
+
+---
+
+## Erick weakens to tropical storm over Mexico, leaves trail of damage
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>MEXICO CITY/PUERTO ESCONDIDO &#8212; Erick weakened to a tropical storm after making landfall as a major hurricane on Mexico&#8217;s southern Pacific coast on Thursday, leaving flooded streets, damaged boats and buildings in Oaxaca as authorities warned of dangerous rains.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/nation-world-news/erick-weakens-to-tropical-storm-over-mexico-leaves-trail-of-damage/>
+
+---
+
+## Trump administration puts new limits on Congress visits to immigration centers
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Department of Homeland Security has put new restrictions on visits by members of Congress to immigration enforcement field offices after several episodes where Democratic lawmakers have been refused access or even arrested.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/nation-world-news/trump-administration-puts-new-limits-on-congress-visits-to-immigration-centers/>
+
+---
+
+## Trump extends deadline for US TikTok sale to September
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump on Thursday extended to September 17 a deadline for China-based ByteDance to divest the U.S. assets of short-video app TikTok despite a law that mandated a sale or shutdown without significant progress.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/nation-world-news/trump-extends-deadline-for-us-tiktok-sale-to-september/>
+
+---
+
+## A significant heat wave will send temperatures soaring across the US
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>Summer isn&#8217;t wasting any time.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/nation-world-news/a-significant-heat-wave-will-send-temperatures-soaring-across-the-us/>
+
+---
+
+## SpaceX Starship rocket explodes in setback to Musk’s Mars mission
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>SpaceX&#8217;s massive Starship spacecraft exploded into a dramatic fireball during testing in Texas late on Wednesday, the latest in a series of setbacks for billionaire Elon Musk&#8217;s Mars rocket program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/nation-world-news/spacex-starship-rocket-explodes-in-setback-to-musks-mars-mission/>
+
+---
+
+## As death toll rises, Gazans make life-risking journeys to seek food
+
+date: 2025-06-20, from: Hawaii Tribune Harold
+
+
+				<p>GAZA/CAIRO &#8212; Like thousands of other Palestinians in Gaza, Hind Al-Nawajha takes a dangerous, miles-long journey every day to try to get some food for her family, hoping she makes it back alive.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/nation-world-news/as-death-toll-rises-gazans-make-life-risking-journeys-to-seek-food/>
+
+---
+
+## Guam not spared from escalating Israel-Iran conflict, governor says
+
+date: 2025-06-20, from: Pacific Island Times
+
+By Mar-Vic Cagurangan   Gov. Lou Leon Guerrero called on the people of Guam to “ensure readiness” amid the escalating conflict in the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-not-spared-from-escalating-israel-iran-conflict-governor-says>
+
+---
+
+## Young Talent, Veteran drive power Palau’s indoor Volleyball Dreams
+
+date: 2025-06-20, from: Island Times
+
+<figure><img width="1024" height="525" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Young-Talent-Veteran-Drive-Power-.jpg?fit=1024%2C525&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Young-Talent-Veteran-Drive-Power-.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Young-Talent-Veteran-Drive-Power-.jpg?resize=300%2C154&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Young-Talent-Veteran-Drive-Power-.jpg?resize=1024%2C525&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Young-Talent-Veteran-Drive-Power-.jpg?resize=768%2C394&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Young-Talent-Veteran-Drive-Power-.jpg?resize=1200%2C615&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Young-Talent-Veteran-Drive-Power-.jpg?resize=780%2C400&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Young-Talent-Veteran-Drive-Power-.jpg?resize=400%2C205&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Young-Talent-Veteran-Drive-Power-.jpg?resize=706%2C362&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Young-Talent-Veteran-Drive-Power-.jpg?fit=1024%2C525&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78239" data-permalink="https://islandtimes.org/palaus-rising-star-in-track-gears-up-for-2025-pacific-mini-games/young-talent-veteran-drive-power/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Young-Talent-Veteran-Drive-Power-.jpg?fit=1249%2C640&amp;ssl=1" data-orig-size="1249,640" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Young Talent, Veteran Drive Power" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Young-Talent-Veteran-Drive-Power-.jpg?fit=300%2C154&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Young-Talent-Veteran-Drive-Power-.jpg?fit=780%2C400&amp;ssl=1" /></figure>
+<p>By: Summer Kennard Koror, Palau — With just 10 days left until the 2025 Pacific Mini Games begin on June 30, members of Team Palau’s indoor volleyball squads are training hard and dreaming big, united by a shared love for the sport and a determination to compete with pride. From seasoned veterans to first-time national [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/young-talent-veteran-drive-power-palaus-indoor-volleyball-dreams/">Young Talent, Veteran drive power Palau&#8217;s indoor Volleyball Dreams</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/young-talent-veteran-drive-power-palaus-indoor-volleyball-dreams/>
+
+---
+
+## New Voter Database enhances Transparency and election integrity in Palau
+
+date: 2025-06-20, from: Island Times
+
+<figure><img width="1024" height="776" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Generic-Voter-Registration-System.jpeg?fit=1024%2C776&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Generic-Voter-Registration-System.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Generic-Voter-Registration-System.jpeg?resize=300%2C227&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Generic-Voter-Registration-System.jpeg?resize=1024%2C776&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Generic-Voter-Registration-System.jpeg?resize=768%2C582&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Generic-Voter-Registration-System.jpeg?resize=1200%2C910&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Generic-Voter-Registration-System.jpeg?resize=780%2C591&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Generic-Voter-Registration-System.jpeg?resize=400%2C303&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Generic-Voter-Registration-System.jpeg?resize=706%2C535&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Generic-Voter-Registration-System.jpeg?fit=1024%2C776&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78238" data-permalink="https://islandtimes.org/palaus-rising-star-in-track-gears-up-for-2025-pacific-mini-games/generic-voter-registration-system/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Generic-Voter-Registration-System.jpeg?fit=1249%2C947&amp;ssl=1" data-orig-size="1249,947" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Generic Voter Registration System" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Generic-Voter-Registration-System.jpeg?fit=300%2C227&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Generic-Voter-Registration-System.jpeg?fit=780%2C591&amp;ssl=1" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau — The Palau Election Commission (PEC) officially launched a new voter database system on Tuesday, June 17, introducing major upgrades aimed at enhancing voter data management, preventing fraud, and improving election transparency. Known as the GVRS Hybrid — short for Generic Voter Registration System — the software replaces an [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/new-voter-database-enhances-transparency-and-election-integrity-in-palau/">New Voter Database enhances Transparency and election integrity in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/new-voter-database-enhances-transparency-and-election-integrity-in-palau/>
+
+---
+
+## Palau’s Rising Star in Track Gears Up for 2025 Pacific Mini Games
+
+date: 2025-06-20, from: Island Times
+
+<figure><img width="600" height="771" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Craven-Ngirchomlei.jpeg?fit=600%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Craven-Ngirchomlei.jpeg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Craven-Ngirchomlei.jpeg?resize=233%2C300&amp;ssl=1 233w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Craven-Ngirchomlei.jpeg?resize=400%2C514&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Craven-Ngirchomlei.jpeg?fit=600%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78237" data-permalink="https://islandtimes.org/palaus-rising-star-in-track-gears-up-for-2025-pacific-mini-games/craven-ngirchomlei/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Craven-Ngirchomlei.jpeg?fit=600%2C771&amp;ssl=1" data-orig-size="600,771" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone X&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1750350416&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4&quot;,&quot;iso&quot;:&quot;40&quot;,&quot;shutter_speed&quot;:&quot;0.0083333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Craven Ngirchomlei" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Craven-Ngirchomlei.jpeg?fit=233%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Craven-Ngirchomlei.jpeg?fit=600%2C771&amp;ssl=1" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau — At just 15 years old, Craven Ngirchomlei is one of Palau’s rising stars in athletics, preparing to represent his country in the upcoming 2025 Pacific Mini Games. Ngirchomlei will compete in the 800-meter and 1500-meter races and may take on additional events depending on his coaches’ assessment. Ngirchomlei [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-rising-star-in-track-gears-up-for-2025-pacific-mini-games/">Palau’s Rising Star in Track Gears Up for 2025 Pacific Mini Games</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palaus-rising-star-in-track-gears-up-for-2025-pacific-mini-games/>
+
+---
+
+## Two Chinese nationals nabbed in meth trafficking cases amid rise in Foreign Involvement
+
+date: 2025-06-20, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau — Two Chinese nationals who are in Palau on tourist visa, have been charged with methamphetamine possession and trafficking in separate incidents last week, adding to growing concerns over foreign involvement in Palau’s illicit drug trade. The Office of the Attorney General (OAG) filed two separate cases against Lei [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/two-chinese-nationals-nabbed-in-meth-trafficking-cases-amid-rise-in-foreign-involvement/">Two Chinese nationals nabbed in meth trafficking cases amid rise in Foreign Involvement</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/two-chinese-nationals-nabbed-in-meth-trafficking-cases-amid-rise-in-foreign-involvement/>
+
+---
+
+## Koror, MOJ launch Joint Cleanup to promote unity, readiness for Mini Games
+
+date: 2025-06-20, from: Island Times
+
+<figure><img width="900" height="434" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/IMG_5076-1.jpg?fit=900%2C434&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/IMG_5076-1.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/IMG_5076-1.jpg?resize=300%2C145&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/IMG_5076-1.jpg?resize=768%2C370&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/IMG_5076-1.jpg?resize=780%2C376&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/IMG_5076-1.jpg?resize=400%2C193&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/IMG_5076-1.jpg?resize=706%2C340&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/IMG_5076-1.jpg?fit=900%2C434&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78230" data-permalink="https://islandtimes.org/koror-moj-launch-joint-cleanup-to-promote-unity-readiness-for-mini-games/img_5076-1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/IMG_5076-1.jpg?fit=900%2C434&amp;ssl=1" data-orig-size="900,434" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_5076 (1)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/IMG_5076-1.jpg?fit=300%2C145&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/IMG_5076-1.jpg?fit=780%2C376&amp;ssl=1" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau — More than 50 employees of the Koror State Government and officers from the Bureau of Public Safety joined forces on Tuesday, June 17, for a community clean-up campaign dubbed “Walk and Pick.” The event, a collaborative initiative led by Koror Governor Eyos Rudimch in partnership with Police Director [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/koror-moj-launch-joint-cleanup-to-promote-unity-readiness-for-mini-games/">Koror, MOJ launch Joint Cleanup to promote unity, readiness for Mini Games</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/koror-moj-launch-joint-cleanup-to-promote-unity-readiness-for-mini-games/>
+
+---
+
+## Palau Police Ramp Up Security for 2025 Pacific Mini Games
+
+date: 2025-06-20, from: Island Times
+
+<p>Koror, Palau — The Bureau of Public Safety (BPS) is intensifying preparations to ensure a safe and secure environment during the 2025 Pacific Mini Games, which will bring more than 2,200 athletes and officials to Palau from June 28 to July 9. A comprehensive and adaptive security plan is currently under development by Co-Lead Planners [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-police-ramp-up-security-for-2025-pacific-mini-games/">Palau Police Ramp Up Security for 2025 Pacific Mini Games</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-police-ramp-up-security-for-2025-pacific-mini-games/>
+
+---
+
+## Palau receives broadcasting equipment ahead of 2025 Pacific Mini Games
+
+date: 2025-06-20, from: Island Times
+
+<figure><img width="1024" height="771" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1.jpg?resize=1200%2C903&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1.jpg?resize=780%2C587&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1.jpg?resize=706%2C531&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78223" data-permalink="https://islandtimes.org/palau-receives-broadcasting-equipment-ahead-of-2025-pacific-mini-games/1-66/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1.jpg?fit=1249%2C940&amp;ssl=1" data-orig-size="1249,940" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1.jpg?fit=300%2C226&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/1.jpg?fit=780%2C587&amp;ssl=1" /></figure>
+<p>Australia’s AUD $240,000 Contribution Boosts Palau Media Coverage and Training Koror, Palau 18 June 2025 &#8211; A shipment of Australian funded professional broadcast and media production equipment has officially arrived in Palau in preparation for the 2025 Pacific Mini Games, set to take place from June 29 to July 9, 2025, under the auspices of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-receives-broadcasting-equipment-ahead-of-2025-pacific-mini-games/">Palau receives broadcasting equipment ahead of 2025 Pacific Mini Games</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-receives-broadcasting-equipment-ahead-of-2025-pacific-mini-games/>
+
+---
+
+## Dmakeiukl Rangers begin drone training to strengthen conservation efforts in Palau
+
+date: 2025-06-20, from: Island Times
+
+<figure><img width="595" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/shared-image-12.jpeg?fit=595%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/shared-image-12.jpeg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/shared-image-12.jpeg?resize=174%2C300&amp;ssl=1 174w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/shared-image-12.jpeg?resize=595%2C1024&amp;ssl=1 595w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/shared-image-12.jpeg?resize=400%2C688&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/shared-image-12.jpeg?fit=595%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78218" data-permalink="https://islandtimes.org/dmakeiukl-rangers-begin-drone-training-to-strengthen-conservation-efforts-in-palau/shared-image-12/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/shared-image-12.jpeg?fit=600%2C1032&amp;ssl=1" data-orig-size="600,1032" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="shared image (12)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/shared-image-12.jpeg?fit=174%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/shared-image-12.jpeg?fit=595%2C1024&amp;ssl=1" /></figure>
+<p>On June 6, rangers from the Dmakeiukl Alliance took part in a hands-on drone training to enhance the monitoring and protection of coastal and terrestrial ecosystems in Palau. The training is part of a broader effort to strengthen the rangers’ surveillance and enforcement work using drone and GPS technology. Nine rangers, two conservation officers, and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/dmakeiukl-rangers-begin-drone-training-to-strengthen-conservation-efforts-in-palau/">Dmakeiukl Rangers begin drone training to strengthen conservation efforts in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/dmakeiukl-rangers-begin-drone-training-to-strengthen-conservation-efforts-in-palau/>
+
+---
+
+## TNC and PICRC expand coral protection efforts to Yap
+
+date: 2025-06-20, from: Island Times
+
+<figure><img width="1024" height="689" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Yim-Uli-Asap.jpg?fit=1024%2C689&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Yim-Uli-Asap.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Yim-Uli-Asap.jpg?resize=300%2C202&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Yim-Uli-Asap.jpg?resize=1024%2C689&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Yim-Uli-Asap.jpg?resize=768%2C517&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Yim-Uli-Asap.jpg?resize=1200%2C807&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Yim-Uli-Asap.jpg?resize=780%2C525&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Yim-Uli-Asap.jpg?resize=400%2C269&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Yim-Uli-Asap.jpg?resize=706%2C475&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Yim-Uli-Asap.jpg?fit=1024%2C689&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78214" data-permalink="https://islandtimes.org/tnc-and-picrc-expand-coral-protection-efforts-to-yap/yim-uli-asap/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Yim-Uli-Asap.jpg?fit=1249%2C840&amp;ssl=1" data-orig-size="1249,840" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Yim, Uli, Asap" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Yim-Uli-Asap.jpg?fit=300%2C202&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/Yim-Uli-Asap.jpg?fit=780%2C525&amp;ssl=1" /></figure>
+<p>From June 3–7, staff from The Nature Conservancy (TNC) Micronesia and Polynesia, and the Palau International Coral Reef Center (PICRC) visited Yap State in the Federated States of Micronesia (FSM) to kick off a new collaboration focused on protecting climate-resilient reefs and restoring damaged areas. Dr. Yimnang Golbuu, Coral Resilience Director at TNC Micronesia and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tnc-and-picrc-expand-coral-protection-efforts-to-yap/">TNC and PICRC expand coral protection efforts to Yap</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/tnc-and-picrc-expand-coral-protection-efforts-to-yap/>
+
+---
+
+## PCS celebrates 31 Years of conservation at Annual General Membership Meeting
+
+date: 2025-06-20, from: Island Times
+
+<figure><img width="1024" height="819" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/PCS-Celebrates-31-Years-of-Conservation-at-Annual-General-Membership-Meeting.jpg?fit=1024%2C819&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/PCS-Celebrates-31-Years-of-Conservation-at-Annual-General-Membership-Meeting.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/PCS-Celebrates-31-Years-of-Conservation-at-Annual-General-Membership-Meeting.jpg?resize=300%2C240&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/PCS-Celebrates-31-Years-of-Conservation-at-Annual-General-Membership-Meeting.jpg?resize=1024%2C819&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/PCS-Celebrates-31-Years-of-Conservation-at-Annual-General-Membership-Meeting.jpg?resize=768%2C614&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/PCS-Celebrates-31-Years-of-Conservation-at-Annual-General-Membership-Meeting.jpg?resize=1200%2C960&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/PCS-Celebrates-31-Years-of-Conservation-at-Annual-General-Membership-Meeting.jpg?resize=780%2C624&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/PCS-Celebrates-31-Years-of-Conservation-at-Annual-General-Membership-Meeting.jpg?resize=400%2C320&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/PCS-Celebrates-31-Years-of-Conservation-at-Annual-General-Membership-Meeting.jpg?resize=706%2C565&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/PCS-Celebrates-31-Years-of-Conservation-at-Annual-General-Membership-Meeting.jpg?fit=1024%2C819&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78210" data-permalink="https://islandtimes.org/pcs-celebrates-31-years-of-conservation-at-annual-general-membership-meeting/pcs-celebrates-31-years-of-conservation-at-annual-general-membership-meeting/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/PCS-Celebrates-31-Years-of-Conservation-at-Annual-General-Membership-Meeting.jpg?fit=1249%2C999&amp;ssl=1" data-orig-size="1249,999" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PCS Celebrates 31 Years of Conservation at Annual General Membership Meeting" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/PCS-Celebrates-31-Years-of-Conservation-at-Annual-General-Membership-Meeting.jpg?fit=300%2C240&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/PCS-Celebrates-31-Years-of-Conservation-at-Annual-General-Membership-Meeting.jpg?fit=780%2C624&amp;ssl=1" /></figure>
+<p>Koror, Palau – The Palau Conservation Society (PCS) marked a major milestone on Thursday, June 12, 2025, as it hosted its 31st Annual General Membership Meeting (AGM) at the Bai ra Maiberel, celebrating thirty-one years of its commitment to environment conservation and community engagement. The annual event serves as a platform to renew and expand [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pcs-celebrates-31-years-of-conservation-at-annual-general-membership-meeting/">PCS celebrates 31 Years of conservation at Annual General Membership Meeting</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pcs-celebrates-31-years-of-conservation-at-annual-general-membership-meeting/>
+
+---
+
+## Learning history through arts and story telling
+
+date: 2025-06-20, from: Island Times
+
+<figure><img width="1024" height="333" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/LEARNING-HISTORY-THROUGH-ARTS-AND-STORY-TELLING.jpg?fit=1024%2C333&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/LEARNING-HISTORY-THROUGH-ARTS-AND-STORY-TELLING.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/LEARNING-HISTORY-THROUGH-ARTS-AND-STORY-TELLING.jpg?resize=300%2C98&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/LEARNING-HISTORY-THROUGH-ARTS-AND-STORY-TELLING.jpg?resize=1024%2C333&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/LEARNING-HISTORY-THROUGH-ARTS-AND-STORY-TELLING.jpg?resize=768%2C250&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/LEARNING-HISTORY-THROUGH-ARTS-AND-STORY-TELLING.jpg?resize=1200%2C390&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/LEARNING-HISTORY-THROUGH-ARTS-AND-STORY-TELLING.jpg?resize=780%2C254&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/LEARNING-HISTORY-THROUGH-ARTS-AND-STORY-TELLING.jpg?resize=400%2C130&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/LEARNING-HISTORY-THROUGH-ARTS-AND-STORY-TELLING.jpg?resize=706%2C229&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/LEARNING-HISTORY-THROUGH-ARTS-AND-STORY-TELLING.jpg?fit=1024%2C333&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78206" data-permalink="https://islandtimes.org/learning-history-through-arts-and-story-telling/learning-history-through-arts-and-story-telling/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/LEARNING-HISTORY-THROUGH-ARTS-AND-STORY-TELLING.jpg?fit=1249%2C406&amp;ssl=1" data-orig-size="1249,406" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="LEARNING HISTORY THROUGH ARTS AND STORY TELLING" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/LEARNING-HISTORY-THROUGH-ARTS-AND-STORY-TELLING.jpg?fit=300%2C98&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/LEARNING-HISTORY-THROUGH-ARTS-AND-STORY-TELLING.jpg?fit=780%2C254&amp;ssl=1" /></figure>
+<p>With the support of Minister Tmetuchel of Ministry of Human Resource, Culture, Tourism, and Development, Airai State Government – Historical &#38; Cultural Department and Tourism Department has partnered up with Airai Elementary School (AES) to teach the 8th graders stories related to the Airai State historical sites and other Palauan legends.  The students record what [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/learning-history-through-arts-and-story-telling/">Learning history through arts and story telling</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/learning-history-through-arts-and-story-telling/>
+
+---
+
+## The Brevity of Human Life
+
+date: 2025-06-20, from: Island Times
+
+<figure><img width="301" height="284" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?w=301&amp;ssl=1 301w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="60533" data-permalink="https://islandtimes.org/risk-of-growing-up/womens-corner-1-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" data-orig-size="301,284" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" /></figure>
+<p>The Air India plane crash. To some, just another breaking news story. To me, it was a soul-stirring reminder of how fragile and unpredictable life really is. Four lives. Four stories. Four powerful lessons that changed how I see time, purpose, and the grace of each moment. First: A family who had waited years to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-brevity-of-human-life/">The Brevity of Human Life</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/the-brevity-of-human-life/>
+
+---
+
+## Australia overtakes China in the Pacific as America vacates the lane
+
+date: 2025-06-20, from: Island Times
+
+<p>Public perceptions of influence measured in the latest Lowy Institute Poll see Australia surge ahead as the “permanent contest” unfolds By Mihai Sora CANBERRA (THE INTERPRETER)&#8212;Something interesting is happening in how Australians think about their own country’s influence in the Pacific. According to the Lowy Institute’s 2025 poll, 39 percent of Australians now see Australia [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/australia-overtakes-china-in-the-pacific-as-america-vacates-the-lane/">Australia overtakes China in the Pacific as America vacates the lane</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/australia-overtakes-china-in-the-pacific-as-america-vacates-the-lane/>
+
+---
+
+## Saipan casino operator warned
+
+date: 2025-06-20, from: Island Times
+
+<p>Renew insurance or face bankruptcy case dismissal SAIPAN (PACIFIC ISLAND TIMES)&#8212;The U.S Bankruptcy Court for the Northern Mariana Islands has issued an ultimatum to Imperial Pacific International, warning that its Chapter 11 bankruptcy case could be dismissed or converted to Chapter 7 unless the company immediately addresses critical operational failures. Judge Robert J. Faris ordered [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/saipan-casino-operator-warned/">Saipan casino operator warned</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/saipan-casino-operator-warned/>
+
+---
+
+## Donald Trump refuses to rule out US strikes as Iran-Israel conflict continues
+
+date: 2025-06-20, from: Island Times
+
+<p>By Middle East correspondent Matthew Doran in Tel Aviv and Thomas Morgan in London In short: (ABC-Australia) Donald Trump says he &#8220;may&#8221; or &#8220;may not&#8221; order US forces to join Israeli strikes on Iran, telling reporters &#8220;nobody knows what I&#8217;m going to do&#8221;. The US president said Iran had &#8220;reached out&#8221; and wanted to negotiate, but that it was [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/donald-trump-refuses-to-rule-out-us-strikes-as-iran-israel-conflict-continues/">Donald Trump refuses to rule out US strikes as Iran-Israel conflict continues</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/donald-trump-refuses-to-rule-out-us-strikes-as-iran-israel-conflict-continues/>
+
+---
+
+## Pasifika Sipoti in brief for 20 June
+
+date: 2025-06-20, from: 
+
+A round-up of sports news from around the region, including a re-signing for Moana Pasifika. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564719/pasifika-sipoti-in-brief-for-20-june>
+
+---
+
+## Former New Zealand PM Helen Clark blames Cook Islands for creating a crisis
+
+date: 2025-06-20, from: 
+
+Helen Clark says the Cook Islands government entered into a strategic partnership with a major power nation - China - without consulting New Zealand. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564714/former-new-zealand-pm-helen-clark-blames-cook-islands-for-creating-a-crisis>
+
+---
+
+## Tonga's health system hit by cyberattack
+
+date: 2025-06-20, from: 
+
+A team of Australian cyber experts flew to the island this week after its National Health Information System was breached, leading to a demand for payment from hackers. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564715/tonga-s-health-system-hit-by-cyberattack>
+
+---
+
+## Watch: Preparing for the biggest Cook Islands festival in Aotearoa
+
+date: 2025-06-20, from: 
+
+Te Maeva Nui NZ is seen as the largest Cook Islands cultural festival outside of the Cook Islands. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564716/watch-preparing-for-the-biggest-cook-islands-festival-in-aotearoa>
+
+---
+
+## Mark Brown slams New Zealand for its 'patronising approach' over China deal
+
+date: 2025-06-20, from: 
+
+The Cook Islands prime minister has suggested a double standard, after the New Zealand government cut its development assistance to the tune of nearly $20 million. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564705/mark-brown-slams-new-zealand-for-its-patronising-approach-over-china-deal>
+
+---
+
+## Aja Reyes paints persistence one layer at a time
+
+date: 2025-06-20, from: Pacific Island Times
+
+By Ron Rocky Coloma Before she answered a single question, Aja Reyes muted her phone, closed her curtains and settled into her chair at... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/aja-reyes-paints-persistence-one-layer-at-a-time>
+
+---
+
+## 700 troops coming to CNMI in summer for Air Force-led multilateral exercise 
+
+date: 2025-06-19, from: Pacific Island Times
+
+During a stakeholders’ meeting on Saipan on June 17-18, the Joint Region Marianas informed CNMI officials that the Pacific Air Forces-led multilateral exercise, Resolute Force Pacific, will deploy approximately 500 personnel to Saipan and 200 personnel between Tinian and Rota. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/700-troops-coming-to-cnmi-for-large-scale-air-force-led-exercise-in-summer>
+
+---
+
+## Pacific news in brief for 20 June 2025
+
+date: 2025-06-19, from: 
+
+A round-up of news from around the region, including cocaine seizures in New Caledonia. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564706/pacific-news-in-brief-for-20-june-2025>
 
 ---
 
@@ -18,6 +598,30 @@ A Massey University security and defence observer says the New Zealand governmen
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/564679/china-could-be-major-beneficiary-of-new-zealand-s-move-on-cook-islands-security-expert>
+
+---
+
+## Samoan woman stranded in Israel 'praying for Lord's protection'
+
+date: 2025-06-19, from: 
+
+Polino Falevaai, 25, was meant to fly home on Wednesday but her flight was cancelled due to the Israel-Iran conflict in the area. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564698/samoan-woman-stranded-in-israel-praying-for-lord-s-protection>
+
+---
+
+## Bougainville and Papua New Guinea struggle to find common ground
+
+date: 2025-06-19, from: 
+
+Bougainville's Attorney-General says the autonomous region and the PNG government might sign an agreement on the way ahead in their push for independence next week. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564696/bougainville-and-papua-new-guinea-struggle-to-find-common-ground>
 
 ---
 
@@ -267,6 +871,20 @@ date: 2025-06-19, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/06/19/nation-world-news/news-in-brief-for-june-19/>
+
+---
+
+## Vehicle-pedestrian crash results in attempted murder charge
+
+date: 2025-06-19, from: Hawaii Tribune Harold
+
+
+				<p>Police have charged a 22-year-old Ocean View woman with attempted murder and other offenses in connection with a Tuesday evening traffic collision in Ocean View that seriously injured a 24-year-old Ocean View man.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/19/hawaii-news/vehicle-pedestrian-crash-results-in-attempted-murder-charge/>
 
 ---
 
@@ -1403,7 +2021,7 @@ date: 2025-06-17, from: Home is Here
 
 date: 2025-06-17, from: Island Times
 
-<figure><img width="400" height="249" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/palau-mini-and-mhhs.jpg?fit=400%2C249&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/palau-mini-and-mhhs.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/palau-mini-and-mhhs.jpg?resize=300%2C187&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/palau-mini-and-mhhs.jpg?fit=400%2C249&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78168" data-permalink="https://islandtimes.org/palau-ramps-up-health-services-for-2025-pacific-mini-games/palau-mini-and-mhhs/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/palau-mini-and-mhhs.jpg?fit=400%2C249&amp;ssl=1" data-orig-size="400,249" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="palau mini and mhhs" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/palau-mini-and-mhhs.jpg?fit=300%2C187&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/palau-mini-and-mhhs.jpg?fit=400%2C249&amp;ssl=1" /></figure>
+<figure><img width="400" height="249" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/palau-mini-and-mhhs.jpg?fit=400%2C249&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/palau-mini-and-mhhs.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/palau-mini-and-mhhs.jpg?resize=300%2C187&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/palau-mini-and-mhhs.jpg?fit=400%2C249&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78168" data-permalink="https://islandtimes.org/palau-ramps-up-health-services-for-2025-pacific-mini-games/palau-mini-and-mhhs/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/palau-mini-and-mhhs.jpg?fit=400%2C249&amp;ssl=1" data-orig-size="400,249" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="palau mini and mhhs" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/palau-mini-and-mhhs.jpg?fit=300%2C187&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/06/palau-mini-and-mhhs.jpg?fit=400%2C249&amp;ssl=1" /></figure>
 <p>By: L.N. Reklai Koror, Palau — As more than 2,000 athletes, officials and spectators prepare to arrive in Palau for the 2025 Pacific Mini Games, the Ministry of Health and Human Services (MHHS) is mobilizing internal and external resources to ensure that healthcare services for both visitors and residents remain uninterrupted. Described as potentially the [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/palau-ramps-up-health-services-for-2025-pacific-mini-games/">Palau ramps Up Health Services for 2025 Pacific Mini Games</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  

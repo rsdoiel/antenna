@@ -1,11 +1,89 @@
 ---
 title: food
-updated: 2025-06-19 14:07:52
+updated: 2025-06-20 06:08:31
 ---
 
 # food
 
-(date: 2025-06-19 14:07:52)
+(date: 2025-06-20 06:08:31)
+
+---
+
+## Weekly Coffee News: Labor Allegations + New Ethiopian Coffee Auction
+
+date: 2025-06-20, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-farm-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee farm" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-farm-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-farm-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-farm-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-farm-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-farm.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. &#160; Public Eye and Repórter Brasil Outline Modern Slavery... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/20/weekly-coffee-news-labor-allegations-new-ethiopian-coffee-auction/>
+
+---
+
+## FairWave Is Challenging Anodyne’s Unanimous Vote In Favor Of Unionizing
+
+date: 2025-06-20, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A hearing with the National Labor Relations Board is scheduled for next week. 
+
+<br> 
+
+<https://sprudge.com/fairwave-is-challenging-anodynes-unanimous-vote-in-favor-of-unionizing-348690.html>
+
+---
+
+## The Most Iconic Comfort Food from Every State
+
+date: 2025-06-20, from: Taste of Home
+
+<p>Dig in to these iconic comfort foods from across America. We've got all the recipes right here.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/america-the-tasty-comfort-food/">The Most Iconic Comfort Food from Every State</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/america-the-tasty-comfort-food/>
+
+---
+
+## How The Canephora Flavor Wheel Could Redefine How We Taste and Value Robusta Coffee
+
+date: 2025-06-20, from: The Fresh Cup
+
+<p>The first-ever flavor wheel for robusta aims to change how we talk about, taste, and value Coffea canephora.</p>
+<p>The post <a href="https://freshcup.com/how-the-canephora-flavor-wheel-could-redefine-how-we-taste-and-value-robusta-coffee/">How The Canephora Flavor Wheel Could Redefine How We Taste and Value Robusta Coffee</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/how-the-canephora-flavor-wheel-could-redefine-how-we-taste-and-value-robusta-coffee/>
+
+---
+
+## Peach and Prosciutto Sandwich and More Recipes We Made This Week
+
+date: 2025-06-20, from: Bon Appetet
+
+Like mango salsa and stir-fried bok choy. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-june-2025>
+
+---
+
+## Cheese Enchiladas Recipe
+
+date: 2025-06-20, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/cheese-enchiladas/" title="Cheese Enchiladas Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Cheese-Enchilada-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Cheese enchiladas with chopped tomato and green onion - easy, melty, and loaded with bold flavor." style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Cheese-Enchilada-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Cheese-Enchilada-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Cheese-Enchilada-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Cheese-Enchilada-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Cheese-Enchilada-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Cheese-Enchilada-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Cheese-Enchilada-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>These easy cheese enchiladas are loaded with melty cheese, smothered in rich red enchilada sauce, and baked to bubbly perfection - classic, comforting, and packed with flavor!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/cheese-enchiladas/">Cheese Enchiladas Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/cheese-enchiladas/>
 
 ---
 
@@ -13,7 +91,7 @@ updated: 2025-06-19 14:07:52
 
 date: 2025-06-19, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/World-of-Coffee-Brussels-620x413.jpg" class="attachment-large size-large wp-post-image" alt="World of Coffee Brussels" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/World-of-Coffee-Brussels-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/World-of-Coffee-Brussels-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/World-of-Coffee-Brussels-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/World-of-Coffee-Brussels-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/World-of-Coffee-Brussels.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The Specialty Coffee Association just announced that its flagship European trade show will be taking place in Brussels, Belgium, in 2026.&#160; World of Coffee Brussels is expected to draw... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/World-of-Coffee-Brussels-620x413.jpg" class="attachment-large size-large wp-post-image" alt="World of Coffee Brussels" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/World-of-Coffee-Brussels-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/World-of-Coffee-Brussels-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/World-of-Coffee-Brussels-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/World-of-Coffee-Brussels-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/World-of-Coffee-Brussels.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The Specialty Coffee Association just announced that its flagship European trade show will be taking place in Brussels, Belgium, in 2026.&#160; World of Coffee Brussels is expected to draw... 
 
 <br> 
 
@@ -37,7 +115,7 @@ date: 2025-06-19, from: Daily Coffee News
 
 date: 2025-06-19, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/La-Venta-Cafe-inside-620x465.jpg" class="attachment-large size-large wp-post-image" alt="La Venta Café inside" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/La-Venta-Cafe-inside-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/La-Venta-Cafe-inside-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/La-Venta-Cafe-inside-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/La-Venta-Cafe-inside-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/La-Venta-Cafe-inside.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Family-owned and vertically integrated coffee company La Venta Specialty Coffee recently completed a farm-to-cup connection with the opening of La Venta Café in Dubuque, Iowa. Guests to the cozy... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/La-Venta-Cafe-inside-620x465.jpg" class="attachment-large size-large wp-post-image" alt="La Venta Café inside" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/La-Venta-Cafe-inside-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/La-Venta-Cafe-inside-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/La-Venta-Cafe-inside-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/La-Venta-Cafe-inside-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/La-Venta-Cafe-inside.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Family-owned and vertically integrated coffee company La Venta Specialty Coffee recently completed a farm-to-cup connection with the opening of La Venta Café in Dubuque, Iowa. Guests to the cozy shop... 
 
 <br> 
 
@@ -365,7 +443,7 @@ High on zucchini, corn, eggplant, and tomatoes. Low on dirty dishes.
 
 date: 2025-06-18, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/mango-habanero-hot-sauce/" title="Mango-Habanero Hot Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mike holding two bottles of sweet and spicy Mango-Habanero hot sauce" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Mango-habanero hot sauce is the perfect balance of fruity and spicy with sweet mango and fiery habanero peppers, just a few drops will make anything better!</p>
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/mango-habanero-hot-sauce/" title="Mango-Habanero Hot Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mike holding two bottles of sweet and spicy Mango-Habanero hot sauce" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Mango-Habanero-Hot-Sauce-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Mango-habanero hot sauce is the perfect balance of fruity and spicy with sweet mango and fiery habanero peppers, just a few drops will make anything better!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/mango-habanero-hot-sauce/">Mango-Habanero Hot Sauce Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

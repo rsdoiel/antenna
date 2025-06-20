@@ -1,11 +1,143 @@
 ---
 title: going electric
-updated: 2025-06-19 14:07:52
+updated: 2025-06-20 06:08:31
 ---
 
 # going electric
 
-(date: 2025-06-19 14:07:52)
+(date: 2025-06-20 06:08:31)
+
+---
+
+## Tesla releases details about ‘Robotaxi’ launch: there’s a ‘safety monitor’ in front seat
+
+date: 2025-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has released the details about its planned ‘Robotaxi’ launch in Austin, Texas, this weekend, and it’s even worse than we thought. There’s going to be a “safety monitor” in the front seat.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="421239" href="https://electrek.co/2025/06/20/tesla-releases-details-robotaxi-launch-safety-monitor-front-seat/#more-421239" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/20/tesla-releases-details-robotaxi-launch-safety-monitor-front-seat/>
+
+---
+
+## Podcast: Tesla Robotaxi launch, new Nissan Leaf, Ford low cost EVs, and more
+
+date: 2025-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the Tesla Robotaxi launch this weekend, the new Nissan Leaf, Ford’s upcoming low-cost EVs, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="421241" href="https://electrek.co/2025/06/20/podcast-tesla-robotaxi-launch-new-nissan-leaf-ford-low-cost-evs-and-more/#more-421241" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/20/podcast-tesla-robotaxi-launch-new-nissan-leaf-ford-low-cost-evs-and-more/>
+
+---
+
+## Watch A Rimac Nevera Effortlessly Overtake Everything On The Nurburgring
+
+date: 2025-06-20, from: Inside EVs News
+
+The driver didn’t even go full throttle, and the car was running on street tires. 
+
+<br> 
+
+<https://insideevs.com/news/763333/rimac-nevera-nurburgring-overtakes-tourist-drive/>
+
+---
+
+## Volvo Recalls 14,000 EVs And PHEVs Because Their Brakes Might Fail
+
+date: 2025-06-20, from: Inside EVs News
+
+Owners should refrain from using the one-pedal driving mode in EVs and the B mode in PHEVs. 
+
+<br> 
+
+<https://insideevs.com/news/763309/volvo-recall-brakes-ev-phev/>
+
+---
+
+## HOLMS develops self-powered attachments for electric equipment fleets
+
+date: 2025-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/HOLMS_eSL.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>HOLMS Attachments has made it easier for heavy equipment fleets to electrify with a new sweeper attachment that’s equipped with its own power source, freeing it from the need for a mechanical or battery (e) PTO.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-heavy-machinery,heavy-equipment" data-layer-viewtype="unknown" data-post-id="421206" href="https://electrek.co/2025/06/19/holms-develops-self-powered-attachments-for-electric-equipment-fleets/#more-421206" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/19/holms-develops-self-powered-attachments-for-electric-equipment-fleets/>
+
+---
+
+## E-quipment highlight: Cushman Hauler XL long bed LSV
+
+date: 2025-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/CUS_GOF_2024_HaulerXL_CC_5861.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>We’ve been big fans of highly capable LSVs for a while here on <em>Electrek</em>, and the newest Cushman Hauler XL ELiTE electric utility vehicle keeps that trend alive with an extra-long, 68.5″ aluminum bed for even more cargo-hauling capability.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-trucks" data-layer-viewtype="unknown" data-post-id="421183" href="https://electrek.co/2025/06/19/e-quipment-highlight-cushman-hauler-xl-long-bed-lsv/#more-421183" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/19/e-quipment-highlight-cushman-hauler-xl-long-bed-lsv/>
+
+---
+
+## California and Denmark Renew Partnership on Energy Innovation and Climate Resilience
+
+date: 2025-06-19, from: California Energy Blog
+
+By Elsa M. Beljean, Senior International Relations Advisor for the California Energy Commission California Energy Commission Chair David... 
+
+<br> 
+
+<https://www.calenergyblog.com/post/california-and-denmark-renew-partnership-on-energy-innovation-and-climate-resilience>
+
+---
+
+## Kia EV2 Coupe spotted for the first time: The entry-level electric SUV gains a new style
+
+date: 2025-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Kia-EV2-Coupe.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It kind of looks like the Genesis GV60. Kia’s smallest and most affordable electric SUV is set to receive a sleek new coupe variant. The <a href="https://electrek.co/guides/kia-ev2/">Kia EV2 Coupe</a> was spotted for the first time, giving us a clear look at how it compares to the SUV version.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev2" data-layer-viewtype="unknown" data-post-id="421143" href="https://electrek.co/2025/06/19/kia-ev2-coupe-spotted-first-time-as-new-entry-level-ev/#more-421143" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/19/kia-ev2-coupe-spotted-first-time-as-new-entry-level-ev/>
+
+---
+
+## SpaceX alums just supercharged EV charging at Costco
+
+date: 2025-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Electric_Era_Costco_Florida_2.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p><a href="https://electricera.tech/" target="_blank" rel="noreferrer noopener">Electric Era</a> just installed six fast EV charging stalls in 54 days from contract to go-live at a Costco in Northport, Florida. That kind of speed is rare in the EV charging world, and it’s thanks to a clever battery-backed system that skips a lot of the usual headaches like grid upgrades and long permitting delays.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,costco,dc-fast-charging,ev-chargers,ev-charging" data-layer-viewtype="unknown" data-post-id="421142" href="https://electrek.co/2025/06/19/spacex-alums-just-supercharged-ev-charging-at-costco/#more-421142" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/19/spacex-alums-just-supercharged-ev-charging-at-costco/>
 
 ---
 

@@ -1,11 +1,125 @@
 ---
 title: socal north
-updated: 2025-06-19 14:07:46
+updated: 2025-06-20 06:08:22
 ---
 
 # socal north
 
-(date: 2025-06-19 14:07:46)
+(date: 2025-06-20 06:08:22)
+
+---
+
+## ICE raids lead to another crisis for immigrant workers and families: How to pay rent
+
+date: 2025-06-20, updated: 2025-06-20, from: The LAist
+
+Two-thirds of undocumented households were already burdened by L.A. housing costs. With breadwinners locked up and workplaces closed, paying rent is only getting harder. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-ice-immigration-raids-detention-economy-housing-costs-rent>
+
+---
+
+## Don’t let your favorite cheeseburger get burned! Get in your vote by midnight
+
+date: 2025-06-20, updated: 2025-06-20, from: The LAist
+
+Last chance to give props to your fave SoCal burger in the second annual LAist Tournament of Cheeseburgers! 
+
+<br> 
+
+<https://laist.com/news/dont-let-your-favorite-cheeseburger-get-burned-get-in-your-vote-by-midnight>
+
+---
+
+## Best deal in town: the four-course $64 tasting menu at Matū in Beverly Hills
+
+date: 2025-06-20, updated: 2025-06-20, from: The LAist
+
+A modern steakhouse offers excellent food at a great price. 
+
+<br> 
+
+<https://laist.com/news/food/best-deal-in-town-the-four-64-tasting-menu-at-matu-in-beverly-hills>
+
+---
+
+## Planning to visit the Getty Villa when it reopens? Here’s a look at what to expect
+
+date: 2025-06-20, updated: 2025-06-20, from: The LAist
+
+The museum spent months on recovery work deep cleaning the campus and is ready to welcome back visitors. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/planning-to-visit-the-getty-villa-when-it-reopens-heres-a-look-at-what-to-expect>
+
+---
+
+## Trump can keep troops in LA for now, appeals court rules
+
+date: 2025-06-20, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1536x1025.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1568x1046.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>President Trump had a legitimate interest in protecting federal employees when he deployed the National Guard to Los Angeles, an appeals court ruled.</p>
+<p>The post <a href="https://lbpost.com/news/trump-can-keep-troops-in-la-for-now-appeals-court-rules">Trump can keep troops in LA for now, appeals court rules</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/trump-can-keep-troops-in-la-for-now-appeals-court-rules>
+
+---
+
+## Trump can keep troops in LA for now, appeals court rules
+
+date: 2025-06-20, updated: 2025-06-20, from: The LAist
+
+President Donald Trump had a legitimate interest in protecting federal employees when he deployed the National Guard to Los Angeles, an appeals court ruled. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-can-keep-troops-in-la-for-now-appeals-court-rules>
+
+---
+
+## Trump's VA cut a program that's saving vets' homes. Even Republicans have questions
+
+date: 2025-06-19, updated: 2025-06-19, from: The LAist
+
+The program had helped more than 1,800 veterans in California. Veterans now have worse options than most Americans. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/trumps-va-cut-a-program-thats-saving-vets-homes-even-republicans-have-questions>
+
+---
+
+## Faith leaders connect Juneteenth to immigration raids at downtown LA prayer vigil
+
+date: 2025-06-19, updated: 2025-06-19, from: The LAist
+
+Though protests have waned in recent days, several hundred people gathered in downtown Los Angeles on the eve of Juneteenth to pray about and condemn the separation of families because of immigration raids. 
+
+<br> 
+
+<https://laist.com/news/juneteenth-los-angeles-immigration-raids-prayer-walk-2025>
+
+---
+
+## Gas, water and sewer rates set to increase to help cover $397 million Utilities Department budget
+
+date: 2025-06-19, from: Longbeach Post
+
+<figure><img width="1024" height="787" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826.jpg 1714w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-300x231.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1024x787.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-768x591.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-140x108.jpg 140w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1536x1181.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1200x923.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1568x1206.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-400x308.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The average household can expect an $8.26 per month increase in its water bill, $1.47 for sewer charges and $4.67 for gas service.</p>
+<p>The post <a href="https://lbpost.com/news/gas-water-sewer-rates-increase-long-beach">Gas, water and sewer rates set to increase to help cover $397 million Utilities Department budget</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/gas-water-sewer-rates-increase-long-beach>
 
 ---
 
@@ -13,7 +127,7 @@ updated: 2025-06-19 14:07:46
 
 date: 2025-06-19, from: Longbeach Post
 
-<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-1024x576.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-1024x576.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-300x169.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-768x432.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-192x108.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-1200x675.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-400x225.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L.png 1440w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-1024x576.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-1024x576.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-300x169.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-768x432.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-192x108.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-1200x675.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L-400x225.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/14175928/small-amphitheater-1-792576-rwrcoufr-649150-ifkDd67L.png 1440w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Initially projected to open by the fall, the shoreline amphitheater now has a tentative opening date of April 2026.</p>
 <p>The post <a href="https://lbpost.com/news/city-council-oks-construction-contract-for-grandstands-at-queen-mary-adjacent-amphitheater">City Council OKs construction contract for grandstands at Queen Mary-adjacent amphitheater</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -28,7 +142,7 @@ date: 2025-06-19, from: Longbeach Post
 
 date: 2025-06-19, updated: 2025-06-19, from: The LAist
 
-An official Dodgers social media account says the organization denied agents entry to the stadium parking lots Thursday morning. An LAist reporter saw people in tactical gear with their faces covered by masks on the road that leads to the Dodger Stadium downtown gate. 
+An LAist reporter saw people in tactical gear with their faces covered by masks on the road that leads to the Dodger Stadium downtown gate. 
 
 <br> 
 
@@ -140,6 +254,18 @@ Tyler Malek reveals the inner operation of flavor pairing and problem solving.
 
 ---
 
+## Two Filipino bakeries with a modern spin find their home in SoCal
+
+date: 2025-06-19, updated: 2025-06-19, from: The LAist
+
+These new Filipino bakeries are putting a modern spin on their baking traditions. 
+
+<br> 
+
+<https://laist.com/news/food/two-filipino-bakeries-with-a-modern-spin-find-their-home-in-socal>
+
+---
+
 ## LA has spent nearly $20 million in response to protests so far
 
 date: 2025-06-19, updated: 2025-06-19, from: The LAist
@@ -161,18 +287,6 @@ Critics say the department has a history of using horses to "charge" at people a
 <br> 
 
 <https://laist.com/news/criminal-justice/lapd-officers-on-horseback-protests-complaints-use-of-force>
-
----
-
-## Two Filipino bakeries with a modern spin find their home in SoCal
-
-date: 2025-06-19, updated: 2025-06-19, from: The LAist
-
-These new Filipino bakeries are putting a modern spin on their baking traditions. 
-
-<br> 
-
-<https://laist.com/news/food/two-filipino-bakeries-with-a-modern-spin-find-their-home-in-socal>
 
 ---
 

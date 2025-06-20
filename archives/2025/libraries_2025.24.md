@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-06-19 14:07:50
+updated: 2025-06-20 06:08:28
 ---
 
 # libraries
 
-(date: 2025-06-19 14:07:50)
+(date: 2025-06-20 06:08:28)
+
+---
+
+## Ask The Fellows: What Did You Take Away from SSP’s 2025 Annual Meeting?
+
+date: 2025-06-20, from: Scholarly Kitchen
+
+<p>The 2025 SSP Fellows reflect on their experiences at the Annual Meeting in Baltimore.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/06/20/ask-the-fellows-what-did-you-take-away-from-ssps-2025-annual-meeting/">Ask The Fellows: What Did You Take Away from SSP’s 2025 Annual Meeting?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/06/20/ask-the-fellows-what-did-you-take-away-from-ssps-2025-annual-meeting/>
 
 ---
 

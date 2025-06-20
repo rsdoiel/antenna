@@ -1,11 +1,176 @@
 ---
 title: columns
-updated: 2025-06-19 14:07:48
+updated: 2025-06-20 06:08:25
 ---
 
 # columns
 
-(date: 2025-06-19 14:07:48)
+(date: 2025-06-20 06:08:25)
+
+---
+
+##  Your beginning-of-summer PSA: Drowning Doesn&#8217;t Look Like Drowning. &#8220;There is very little... 
+
+date: 2025-06-20, updated: 2025-06-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0046989-your-beginning-of-summer->
+
+---
+
+## Surveillance in the US
+
+date: 2025-06-20, updated: 2025-06-18, from: Bruce Schneier blog
+
+<p>Good <a href="https://www.404media.co/emails-reveal-the-casual-surveillance-alliance-between-ice-and-local-police/">article</a> from <i>404 Media</i> on the cozy surveillance relationship between local Oregon police and ICE:</p>
+<blockquote><p>In the email thread, crime analysts from several local police departments and the FBI introduced themselves to each other and made lists of surveillance tools and tactics they have access to and felt comfortable using, and in some cases offered to perform surveillance for their colleagues in other departments. The thread also includes a member of ICE&#8217;s Homeland Security Investigations (HSI) and members of Oregon&#8217;s State Police. In the thread, called the &#8220;Southern Oregon Analyst Group,&#8221; some members talked about making fake social media profiles to surveil people, and others discussed being excited to learn and try new surveillance techniques. The emails show both the wide array of surveillance tools that are available to even small police departments in the United States and also shows informal collaboration between local police departments and federal agencies, when ordinarily agencies like ICE are expected to follow their own legal processes for carrying out the surveillance...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/06/surveillance-in-the-us.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-20, from: Miguel de Icaza Mastondon feed)
+
+<p>I asked Claude to change my avatar to have a Kimono to use while I am in Japan.</p><p>The result:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114714731558657387>
+
+---
+
+## The Most Dangerous Corporation in America
+
+date: 2025-06-20, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/palantir-the-worst-of-the-corporate>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-20, from: Miguel de Icaza Mastondon feed)
+
+<p>Ok, I think I can officially live in Tokyo now</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114714124402096197>
+
+---
+
+## June 19, 2025 
+
+date: 2025-06-20, from: Heather Cox Richardson blog
+
+Just a week ago, the Trump administration was preparing for a sixth round of negotiations with Iran over its nuclear program, scheduled to be held in Oman on June 15. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-19-2025>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-20, from: Miguel de Icaza Mastondon feed)
+
+<p>When you are a swift developer, every day is Xmas!</p><p><a href="https://forums.swift.org/t/swift-sdks-for-webassembly-now-available-on-swift-org/80405" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">forums.swift.org/t/swift-sdks-</span><span class="invisible">for-webassembly-now-available-on-swift-org/80405</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114713026064269739>
+
+---
+
+## Friday 20 June, 2025
+
+date: 2025-06-19, from: John Naughton's online diary
+
+A plug for rural France This volcanic plug near Le Puy-en-Velay is my favorite sight on our drive southwards through the Massif Centrale. Quote of the Day “Learn from the mistakes of others. You can never live long enough to &#8230; <a href="https://memex.naughtons.org/friday-20-june-2025/40939/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-20-june-2025/40939/>
+
+---
+
+## How Apple Created a Custom iPhone Camera for ‘F1’
+
+date: 2025-06-19, updated: 2025-06-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wired.com/story/apple-created-a-custom-iphone-camera-for-f1/>
+
+---
+
+## ‘F1’ and Apple’s Movie Strategy
+
+date: 2025-06-19, updated: 2025-06-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://variety.com/2025/film/news/f1-apple-movie-strategy-tim-cook-lewis-hamilton-1236424270/>
+
+---
+
+## Not Trump’s Decision to Make
+
+date: 2025-06-19, from: Dan Rather's Steady
+
+The Constitution gives Congress the power to declare war 
+
+<br> 
+
+<https://steady.substack.com/p/not-trumps-decision-to-make>
+
+---
+
+## June 18, 2025
+
+date: 2025-06-19, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166355294/cc51f23c091624a3775b62917225a2e6.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166355294/cc51f23c091624a3775b62917225a2e6.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-18-2025>
+
+---
+
+## ★ One Week Out, Some Brief Thoughts and Observations on WWDC 2025
+
+date: 2025-06-19, updated: 2025-06-20, from: Daring Fireball
+
+My biggest takeaway from WWDC 2025 is that Apple seemingly took some lessons to heart from its unfulfilled promises of a year ago. This year’s WWDC wasn’t merely focused on what Apple is confident it can ship in the next 12 months, but on what they can ship *this fall*. 
+
+<br> 
+
+<https://daringfireball.net/2025/06/some_brief_thoughts_and_observations_on_wwdc_2025>
+
+---
+
+## Trump’s Biggest Economic Burden on the Working Middle Class 
+
+date: 2025-06-19, from: Robert Reich's blog
+
+And the three policies he&#8217;s pursuing will only worsen it 
+
+<br> 
+
+<https://robertreich.substack.com/p/trumps-biggest-economic-burden-on>
 
 ---
 
@@ -35,7 +200,7 @@ Until further notice dissent is an act of patriotism, support of and belief in o
 
 date: 2025-06-19, from: Doc Searls (at Harvard), New Old Blog
 
-AI answers may vary, but less so over time, maybe. Some moral puzzles and answers to them. Good read. Lenin Peak (Қуллаи Ибни Сино) is a  7,134 m (23,406 ft) triangular prominence in the Trans-Alay Range that divides Tajikistan and Kyrgyzstan, but was still in the Soviet Union when an avalanche killed forty-three climbers. A Crushing Wave of Snow is the [&#8230;] 
+Good read. Lenin Peak (Қуллаи Ибни Сино) is a 7,134 m (23,406 ft) triangular prominence in the Trans-Alay Range that divides Tajikistan and Kyrgyzstan, but was still in the Soviet Union when an avalanche killed forty-three climbers. A Crushing Wave of Snow is the disaster story told by Miguel Helft, a climber who was witness [&#8230;] 
 
 <br> 
 
@@ -247,7 +412,7 @@ date: 2025-06-19, updated: 2025-06-19, from: Liam Proven's articles at the Regis
 
 ---
 
-## Does the Supreme Court Exist to Protect the Power of White Straight People?
+## Does the Supreme Court Exist to Protect the Power of Straight White People?
 
 date: 2025-06-19, from: Robert Reich's blog
 

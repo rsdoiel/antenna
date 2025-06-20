@@ -1,11 +1,23 @@
 ---
 title: games
-updated: 2025-06-19 14:07:49
+updated: 2025-06-20 06:08:27
 ---
 
 # games
 
-(date: 2025-06-19 14:07:49)
+(date: 2025-06-20 06:08:27)
+
+---
+
+## Pokémon Go ‘Yamper’s Paw Prints’ event guide
+
+date: 2025-06-19, updated: 2025-06-19, from: Polygon Website
+
+Pokémon Go’s “Yamper’s Paw Prints” event is all about puppy Pokémon and it runs from June 20-22, making it a very short event. The event features doubled Stardust for catching Pokémon (which will overlap with the Jangmo-o Community Day event on Saturday) and debuts Yamper and its evolution Bolthund. Below we detail the perks and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/608029/yampers-paw-prints-event-timed-research-premium>
 
 ---
 

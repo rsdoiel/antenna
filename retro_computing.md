@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-06-19 14:07:51
+updated: 2025-06-20 06:08:30
 ---
 
 # retro computing
 
-(date: 2025-06-19 14:07:51)
+(date: 2025-06-20 06:08:30)
 
 ---
 
@@ -16,6 +16,18 @@ In Bad König, Westenwald, Germany, Matthias Schmitt and his wife have developed
 <br> 
 
 <http://retro.hansotten.nl/18147-2/>
+
+---
+
+## TECMUMAS museum
+
+date: 2025-06-19, from: Hans Otten's Retro blog
+
+In Bad König, Westenwald, Germany, Matthias Schmitt and his wife have developed a museum dedicated to Technik called TECMUMAS. Mostly retro computers from the early days to the nineteens. Here some photos of my visit in June 2025, when I was given the opportunity to see and photograph MOS Technology KIM-4 and KIM-5 devices and [&#8230;] 
+
+<br> 
+
+<http://retro.hansotten.nl/tecmumas-museum/>
 
 ---
 

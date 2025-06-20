@@ -1,11 +1,75 @@
 ---
 title: north america
-updated: 2025-06-19 14:07:45
+updated: 2025-06-20 06:08:22
 ---
 
 # north america
 
-(date: 2025-06-19 14:07:45)
+(date: 2025-06-20 06:08:22)
+
+---
+
+## Undaunted
+
+date: 2025-06-20, from: The Contrarian
+
+Senator Alex Padilla is an American hero 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-4eb>
+
+---
+
+##  Wall Street Gets A Trump Tax Break To Fire Workers 
+
+date: 2025-06-20, from: The Lever News
+
+ Lawmakers quietly added a line that effectively subsidizes Wall Street buying up companies, slashing wages, closing factories, and firing workers.  
+
+<br> 
+
+<https://www.levernews.com/wall-street-gets-a-trump-tax-break-to-fire-workers/>
+
+---
+
+## The Crackdown on L.A. Protests is Costing the City Millions.
+
+date: 2025-06-19, from: Capital and Main
+
+<p>LAPD’s response to anti-ICE protests, which has already resulted in litigation, is putting additional stress on the city’s budget.</p>
+<p>The post <a href="https://capitalandmain.com/the-crackdown-on-l-a-protests-is-costing-the-city-millions">The Crackdown on L.A. Protests is Costing the City Millions.</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/the-crackdown-on-l-a-protests-is-costing-the-city-millions>
+
+---
+
+## Evening Roundup, June 19
+
+date: 2025-06-19, from: The Contrarian
+
+Featuring Wendy Sherman & Jen Rubin; Kwame Raoul and Marc H. Morial; Tianna Mays and Jonathan Barry-Blocker; Azza Cohen; Frederic J. Frommer; Tim Mak; and "Tea with April" 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-19>
+
+---
+
+## The Tea with April Ryan, ft. Dr. Chris Jones and Derrick Johnson
+
+date: 2025-06-19, from: The Contrarian
+
+Thank you Dan Pfeiffer, Jonathan Wilson-Hartgrove, Debbie Hupp, Carla Atkinson, Rachel Sipper, and many others for tuning into The Tea with April Ryan featuring Dr. Chris Jones and Derrick Johnson. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166354072/5d30b7e069f0aa6a35385df768c8b3cf.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166354072/5d30b7e069f0aa6a35385df768c8b3cf.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-tea-with-april-ryan-ft-dr-chris>
 
 ---
 

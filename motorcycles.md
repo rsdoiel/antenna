@@ -1,11 +1,60 @@
 ---
 title: motorcycles
-updated: 2025-06-19 14:07:51
+updated: 2025-06-20 06:08:29
 ---
 
 # motorcycles
 
-(date: 2025-06-19 14:07:51)
+(date: 2025-06-20 06:08:29)
+
+---
+
+## Gaze At the Glorious New Royal Enfield Himalayan and Him-E in the Himalayas
+
+date: 2025-06-20, from: Ride Apart, Electric Motorcycle News
+
+The promise of a Himmy for everyone.  
+
+<br> 
+
+<https://www.rideapart.com/news/763271/himalayan-650-twin-cylinder-him-e-ev-testing-himalayas/>
+
+---
+
+## Brembo Partners With Specialized For Bicycle Brakes, Get Ready to Stop Ultra Fast
+
+date: 2025-06-20, from: Ride Apart, Electric Motorcycle News
+
+Will you soon be able to slap on flashy Brembos onto your mountain bike?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/763198/brembo-specialized-partnership-mtb-brakes/>
+
+---
+
+## Honda Will Make Its First Electric "Quad" at the Place It Built the NSX Supercar
+
+date: 2025-06-20, from: Ride Apart, Electric Motorcycle News
+
+Last-mile solutions are still something everyone is toying with.  
+
+<br> 
+
+<https://www.rideapart.com/news/763159/honda-electric-fastport-equad-prototype-ev/>
+
+---
+
+## Here's Every Off-Road Trail We'll Lose To the 250 Million Acre Public Lands Sale
+
+date: 2025-06-20, from: Ride Apart, Electric Motorcycle News
+
+Your favorite off-road and hunting spots are about to get sold. 
+
+<br> 
+
+<https://www.rideapart.com/news/763261/wilderness-society-interactive-map-public-lands-sale-senate-off-road/>
 
 ---
 

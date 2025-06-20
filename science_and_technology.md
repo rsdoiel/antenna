@@ -1,11 +1,155 @@
 ---
 title: science and technology
-updated: 2025-06-19 14:07:47
+updated: 2025-06-20 06:08:24
 ---
 
 # science and technology
 
-(date: 2025-06-19 14:07:47)
+(date: 2025-06-20 06:08:24)
+
+---
+
+## Windows 11 migration heats up... on desktops
+
+date: 2025-06-20, updated: 2025-06-20, from: The Register (UK I.T. News)
+
+<h4>What about notebooks, including AI-ready devices? Ah well, still months to go, eh Microsoft</h4> <p>With fewer than four months before Microsoft pulls the plug on standard support for Windows 10, businesses are replacing dusty – but in some cases perfectly working – desktop PCs in preparation for the migration to the little loved next generation of the Windows OS.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/20/windows_11_migration_heats_up/>
+
+---
+
+## SAP ECC 6.0 lives to fight another decade under Rimini Street
+
+date: 2025-06-20, updated: 2025-06-20, from: The Register (UK I.T. News)
+
+<h4>Third-party provider pledges to support legacy ERP until 2040</h4> <p>Enterprise software support specialist Rimini Street has announced that it will continue to support SAP&#39;s ECC 6.0 until 2040, more than ten years after the German vendor plans to retire support for the legacy ERP platform.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/20/rimini_street_sap_ecc/>
+
+---
+
+## Hubble Studies Small but Mighty Galaxy
+
+date: 2025-06-20, from: NASA breaking news
+
+This portrait from the NASA/ESA Hubble Space Telescope puts the nearby galaxy NGC 4449 in the spotlight. The galaxy is situated just 12.5 million light-years away in the constellation Canes Venatici (the Hunting Dogs). It is a member of the M94 galaxy group, which is near the Local Group of galaxies that the Milky Way […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-studies-small-but-mighty-galaxy/>
+
+---
+
+## Attack on Oxford City Council exposes 21 years of election worker data
+
+date: 2025-06-20, updated: 2025-06-20, from: The Register (UK I.T. News)
+
+<h4>Services coming back online after legacy systems compromised</h4> <p>Oxford City Council says a cyberattack earlier this month resulted in 21 years of data being compromised.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/20/oxford_city_council_breach/>
+
+---
+
+## Deal to 'save' UK colleges £45M in Oracle Java licensing fees followed audit requests
+
+date: 2025-06-20, updated: 2025-06-20, from: The Register (UK I.T. News)
+
+<h4>Framework agreement may rescue some unis from &#39;financial abyss&#39; after Oracle per-employee Java license, says insider</h4> <p><strong>Exclusive</strong>  Oracle requested Java audits with UK higher education institutions leading up to the negotiation of a national framework agreement — <a target="_blank" href="https://www.theregister.com/2025/06/13/jisc_java_oracle/">set to be worth up to £9.86 million ($13.33 million)</a> — which aims to save the institutions £45 million when compared to standard commercial pricing.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/20/uk_colleges_45m_saving_deal/>
+
+---
+
+## Remembering when NASA stuck a Space Shuttle on top of a Boeing 747
+
+date: 2025-06-20, updated: 2025-06-20, from: The Register (UK I.T. News)
+
+<h4>&#39;Black side down,&#39; Lego style</h4> <p>Lego has released another NASA-themed set; this time, a version of the US space agency&#39;s Boeing 747-based Shuttle Carrier Aircraft with a Space Shuttle perched on top.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/20/lego_nasa_space_shuttle_747/>
+
+---
+
+## Techie traveled 4 hours to fix software that worked perfectly until a new hire used it
+
+date: 2025-06-20, updated: 2025-06-20, from: The Register (UK I.T. News)
+
+<h4>Sometimes the &#39;R&#39; in RTFM stands for &#39;Remember&#39;</h4> <p><strong>On Call</strong>  The trek through the working week can be long and tiring, which is why <em>The Register</em> always offers a little Friday morning refresher in the form of On Call – the reader-contributed column in which you share tech support stories.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/20/on_call/>
+
+---
+
+## Australia finds age detection tech has many flaws but will work
+
+date: 2025-06-20, updated: 2025-06-20, from: The Register (UK I.T. News)
+
+<h4>Probe into how to implement social media ban finds privacy risks, developer overreach, infosec uncertainties</h4> <p>Australia’s trial of age assurance technology has found it’s up to the task of preventing children under 16 years of age from using social media, despite many problems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/20/australia_age_assurance_trial_findings/>
+
+---
+
+## AFRINIC election proceeds after ICANN’s attempt to replace officials fails
+
+date: 2025-06-20, updated: 2025-06-20, from: The Register (UK I.T. News)
+
+<h4>Regulator remains concerned about election integrity</h4> <p>Elections at troubled regional internet registry the African Network Information Centre (AFRINIC) will continue, after the Internet Corporation for Assigned Names and Numbers’ (ICANN’s) attempt to appoint new officials to oversee the poll failed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/20/afrinic_election_proceeds/>
+
+---
+
+## China just two years behind USA on chip design, says White House tech Czar
+
+date: 2025-06-20, updated: 2025-06-20, from: The Register (UK I.T. News)
+
+<h4>Expects Huawei to start exporting AI chips soon, creating global fight for tech stack dominance</h4> <p>China’s AI and chipmaking prowess lags the USA’s by just two years, and America’s efforts to slow its progress could be hobbling its own semiconductor industry, according to Trump administration tech czar David Sacks.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/20/china_us_chip_competition/>
+
+---
+
+## Japan's sequel to Fugaku supercomputer will be Arm'd to the teeth
+
+date: 2025-06-19, updated: 2025-06-19, from: The Register (UK I.T. News)
+
+<h4>Fujitsu picked to build system using &#39;MONAKA-X&#39; CPUs</h4> <p>Fujitsu has bagged the contract to design Japan&#39;s next-gen supercomputer to succeed the Fugaku system, and it looks set to be another Arm-based behemoth, using a CPU derived from its upcoming MONAKA datacenter silicon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/19/japan_fugakunext_fujitsu/>
+
+---
+
+## American coders are most likely to use AI
+
+date: 2025-06-19, updated: 2025-06-19, from: The Register (UK I.T. News)
+
+<h4>Baseball, apple pie, and assisted programming</h4> <p>US-based software developers are the world&#39;s most prolific users of AI coding assistants, a trend that researchers believe has national economic implications.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/19/us_coders_lead_world_in_ai/>
 
 ---
 

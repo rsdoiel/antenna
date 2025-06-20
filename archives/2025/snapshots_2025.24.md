@@ -1,11 +1,166 @@
 ---
 title: snapshots
-updated: 2025-06-19 14:07:54
+updated: 2025-06-20 06:08:33
 ---
 
 # snapshots
 
-(date: 2025-06-19 14:07:54)
+(date: 2025-06-20 06:08:33)
+
+---
+
+## New cohort of Cornell students turn in their Pico projects
+
+date: 2025-06-20, from: Raspberry Pi News (.com)
+
+<p>The latest electrical and computer engineering cohort at Cornell University delivered no fewer than 40 Raspberry Pi Pico–based projects.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/new-cohort-of-cornell-students-turn-in-their-pico-projects/">New cohort of Cornell students turn in their Pico projects</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/new-cohort-of-cornell-students-turn-in-their-pico-projects/>
+
+---
+
+## ‘Martyrdom or Bust:’ Texas Man Caught Plotting Terror Attack Through Roblox Chats
+
+date: 2025-06-20, from: 404 Media Group
+
+According to the FBI, a Texas man talked about killing christians on Roblox and searched for ‘are suicide attacks haram in islam’ on his iPhone. 
+
+<br> 
+
+<https://www.404media.co/martyrdom-or-bust-texas-man-caught-plotting-terror-attack-through-roblox-chats/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-20, from: Dave Winer's linkblog)
+
+I asked ChatGPT for 250 words on what the Democratic Party stands for. 
+
+<br> 
+
+<https://daveverse.org/2025/06/20/what-does-the-democratic-party-stand-for/>
+
+---
+
+## Why the Fed is on Hold
+
+date: 2025-06-20, from: Paul Krugman
+
+Trump, Powell and the fog of inflation 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/why-the-fed-is-on-hold>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-20, from: Dave Winer's linkblog)
+
+Washington cherry growers struggle to find pickers. 
+
+<br> 
+
+<https://www.spokesman.com/stories/2025/jun/18/washington-cherry-growers-struggle-to-find-pickers/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-20, from: Dave Winer's linkblog)
+
+The Subway Is Not Scary. 
+
+<br> 
+
+<https://www.hamiltonnolan.com/p/the-subway-is-not-scary>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-20, from: Dave Winer's linkblog)
+
+Los Angeles Dodgers say they denied Ice agents entry to Dodger Stadium. 
+
+<br> 
+
+<https://www.theguardian.com/us-news/2025/jun/19/ice-agents-dodger-stadium-los-angeles>
+
+---
+
+## RELOAD"*",8,1
+
+date: 2025-06-20, updated: 2025-06-20, from: Tedium site
+
+A discussion with Christian “Peri Fractic” Simpson, the YouTuber that wants to buy Commodore and bring it back to life. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17060025/peri-fractic-retro-recipes-commodore-profile>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-19, from: Robert's feed at BlueSky)
+
+Beautiful 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lryq4qcgbs2i>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-19, from: Robert's feed at BlueSky)
+
+Hope 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lryq3vs2t22i>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-19, from: Dave Winer's linkblog)
+
+Publishers facing existential threat from AI, Cloudflare CEO says. 
+
+<br> 
+
+<https://www.axios.com/2025/06/19/ai-search-traffic-publishers>
+
+---
+
+## Cato CTRL™ Threat Research: PoC Attack Targeting Atlassian’s Model Context Protocol (MCP) Introduces New “Living off AI” Risk
+
+date: 2025-06-19, updated: 2025-06-19, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.catonetworks.com/blog/cato-ctrl-poc-attack-targeting-atlassians-mcp/">Cato CTRL™ Threat Research: PoC Attack Targeting Atlassian’s Model Context Protocol (MCP) Introduces New “Living off AI” Risk</a></strong></p>
+Stop me if you've heard this one before:</p>
+<blockquote>
+<ul>
+<li>A threat actor (acting as an external user) submits a malicious support ticket. </li>
+<li>An internal user, linked to a tenant, invokes an MCP-connected AI action. </li>
+<li>A prompt injection payload in the malicious support ticket is executed with internal privileges. </li>
+<li>Data is exfiltrated to the threat actor’s ticket or altered within the internal system.</li>
+</ul>
+</blockquote>
+<p>It's the classic <a href="https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/">lethal trifecta</a> exfiltration attack, this time against Atlassian's <a href="https://www.atlassian.com/blog/announcements/remote-mcp-server">new MCP server</a>, which they describe like this:</p>
+<blockquote>
+<p>With our Remote MCP Server, you can summarize work, create issues or pages, and perform multi-step actions, all while keeping data secure and within permissioned boundaries.</p>
+</blockquote>
+<p>That's a single MCP that can access private data, consume untrusted data (from public issues) and communicate externally (by posting replies to those public issues). Classic trifecta.</p>
+<p>It's not clear to me if Atlassian have responded to this report with any form of a fix. It's hard to know what they <em>can</em> fix here - any MCP that combines the three trifecta ingredients is insecure by design.</p>
+<p>My recommendation would be to shut down any potential exfiltration vectors - in this case that would mean preventing the MCP from posting replies that could be visible to an attacker without at least gaining human-in-the-loop confirmation first.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/atlassian">atlassian</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/exfiltration-attacks">exfiltration-attacks</a>, <a href="https://simonwillison.net/tags/model-context-protocol">model-context-protocol</a>, <a href="https://simonwillison.net/tags/lethal-trifecta">lethal-trifecta</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/19/atlassian-prompt-injection-mcp/#atom-everything>
 
 ---
 
@@ -1637,7 +1792,7 @@ date: 2025-06-16, updated: 2025-06-16, from: Simon Willison’s Weblog
 <p>Developers who misunderstand these terms and assume prompt injection is the same as jailbreaking will frequently ignore this issue as irrelevant to them, because they don't see it as their problem if an LLM embarrasses its vendor by spitting out a recipe for napalm. The issue really <em>is</em> relevant - both to developers building applications on top of LLMs and to the end users who are taking advantage of these systems by combining tools to match their own needs.</p>
 <p>As a user of these systems you <em>need to understand</em> this issue. The LLM vendors are not going to save us! We need to avoid the lethal trifecta combination of tools ourselves to stay safe.</p>
     
-        <p>Tags: <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/exfiltration-attacks">exfiltration-attacks</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/model-context-protocol">model-context-protocol</a></p> 
+        <p>Tags: <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/exfiltration-attacks">exfiltration-attacks</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/model-context-protocol">model-context-protocol</a>, <a href="https://simonwillison.net/tags/lethal-trifecta">lethal-trifecta</a></p> 
 
 <br> 
 
