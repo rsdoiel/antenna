@@ -1,11 +1,11 @@
 ---
 title: socal north
-updated: 2025-06-21 06:08:47
+updated: 2025-06-21 14:06:31
 ---
 
 # socal north
 
-(date: 2025-06-21 06:08:47)
+(date: 2025-06-21 14:06:31)
 
 ---
 
@@ -151,7 +151,7 @@ date: 2025-06-20, from: City of Santa Clarita
 
 ## Federal government could put millions of acres of SoCal public land up for sale
 
-date: 2025-06-20, updated: 2025-06-20, from: The LAist
+date: 2025-06-20, updated: 2025-06-21, from: The LAist
 
 The sell-off would be part of the Trump administration’s efforts to cut the budget deficit, double down on fossil fuel production and expand affordable housing development. 
 

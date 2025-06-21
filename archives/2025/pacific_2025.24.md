@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2025-06-21 06:08:48
+updated: 2025-06-21 14:06:32
 ---
 
 # pacific
 
-(date: 2025-06-21 06:08:48)
+(date: 2025-06-21 14:06:32)
 
 ---
 
@@ -681,7 +681,7 @@ date: 2025-06-19, from: INSIGHTS ON PBS HAWAIʻI
 
 ## When Heroes Wear Scrubs: Nurses Go Above and Beyond with Compassionate Care
 
-date: 2025-06-19, updated: 2025-06-19, from: Marianas Variety
+date: 2025-06-19, updated: 2025-06-21, from: Marianas Variety
 
 (BPT) - Nurses are experts at their craft, delivering patient care with a unique blend of expertise, empathy and dedication — 24 hours a day, 365 days a year. Recognizing the profound role nurses play in caring for people enables healthcare organizations, patients and family members to express gratitude for the difference they make. 
 

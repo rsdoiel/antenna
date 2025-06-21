@@ -1,11 +1,11 @@
 ---
 title: going electric
-updated: 2025-06-21 06:08:55
+updated: 2025-06-21 14:06:38
 ---
 
 # going electric
 
-(date: 2025-06-21 06:08:55)
+(date: 2025-06-21 14:06:38)
 
 ---
 
@@ -13,7 +13,7 @@ updated: 2025-06-21 06:08:55
 
 date: 2025-06-20, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/AREVON_Eland-1_Kern-Cty-CA.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>A <a href="https://ember-energy.org/page-not-found/" target="_blank" rel="noreferrer noopener">new report</a> from global energy think tank Ember says batteries have officially hit the price point that lets solar power deliver affordable electricity almost every hour of the year in the sunniest parts of the world.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/AREVON_Eland-1_Kern-Cty-CA.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>A <a href="https://ember-energy.org/latest-insights/solar-electricity-every-hour-of-every-day-is-here-and-it-changes-everything/" target="_blank" rel="noreferrer noopener">new report</a> from global energy think tank Ember says batteries have officially hit the price point that lets solar power deliver affordable electricity almost every hour of the year in the sunniest parts of the world.</p>
 
 
 
@@ -242,6 +242,10 @@ date: 2025-06-20, from: Electrek Feed
 
 
 
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/06/WheelE_92.mp3"></audio></figure>
+
+
+
  <a data-layer-pagetype="post" data-layer-postcategory="podcast,wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="421235" href="https://electrek.co/2025/06/20/wheel-e-podcast-new-vanmoofs-urban-arrow-cargo-e-bike-more/#more-421235" class="more-link">more…</a> 
 
 <br> 
@@ -271,6 +275,10 @@ date: 2025-06-20, from: Electrek Feed
 date: 2025-06-20, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the Tesla Robotaxi launch this weekend, the new Nissan Leaf, Ford’s upcoming low-cost EVs, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Electrek_390.mp3"></audio></figure>
 
 
 

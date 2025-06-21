@@ -1,11 +1,11 @@
 ---
 title: north america
-updated: 2025-06-21 06:08:47
+updated: 2025-06-21 14:06:30
 ---
 
 # north america
 
-(date: 2025-06-21 06:08:47)
+(date: 2025-06-21 14:06:30)
 
 ---
 

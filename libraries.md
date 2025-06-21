@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-06-21 06:08:53
+updated: 2025-06-21 14:06:36
 ---
 
 # libraries
 
-(date: 2025-06-21 06:08:53)
+(date: 2025-06-21 14:06:36)
 
 ---
 
@@ -13,7 +13,7 @@ updated: 2025-06-21 06:08:53
 
 date: 2025-06-20, from: Association of Research Libraries News
 
-<p>Last Updated on June 20, 2025, 3:14 pm ET Reimbursements to institutions for so-called indirect costs have been in the headlines this year. Even as ARL is supporting litigation that...</p>
+<p>Last Updated on June 21, 2025, 9:47 am ET Reimbursements to institutions for so-called indirect costs have been in the headlines this year. Even as ARL is supporting litigation that...</p>
 <p>The post <a href="https://www.arl.org/blog/the-past-and-future-of-indirect-costs-an-interview-with-hilary-craiglow/">The Past and Future of Indirect Costs: An Interview with Hilary Craiglow</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
