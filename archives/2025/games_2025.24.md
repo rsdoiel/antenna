@@ -1,11 +1,35 @@
 ---
 title: games
-updated: 2025-06-20 14:08:05
+updated: 2025-06-21 06:08:52
 ---
 
 # games
 
-(date: 2025-06-20 14:08:05)
+(date: 2025-06-21 06:08:52)
+
+---
+
+## 28 Years Later&#8217;s ending is basically a post-credits scene for the trilogy’s next movie
+
+date: 2025-06-20, updated: 2025-06-20, from: Polygon Website
+
+28 Years Later might be the third entry in the horror series, but the moody film feels like it could be a standalone work – right up until its final moments. The post-apocalyptic coming-of-age story from director Danny Boyle (Slumdog Millionaire) and writer Alex Garland (Civil War) plays with time and perspective, only revealing the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/608187/28-years-laters-ending-post-credits-sequel-explained>
+
+---
+
+## Final Destination: Bloodlines, A Minecraft Movie, Love Me, and every movie new to streaming this weekend
+
+date: 2025-06-20, updated: 2025-06-20, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. After nearly 15 years, the Final Destination horror franchise returned to theaters last month with Final Destination: Bloodlines from Freaks writer-directors Zach Lipovsky and Adam B. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/608170/what-to-watch-this-weekend-6-20-2025-final-destination-bloodlines-a-minecraft-movie>
 
 ---
 
@@ -810,4 +834,76 @@ Following Grand Theft Auto 6’s retreat into 2026, last week’s launch of Nint
 <br> 
 
 <https://www.polygon.com/awards/606770/mario-kart-world-goty-game-of-the-year>
+
+---
+
+## Hell is Us terrifies in all the best ways
+
+date: 2025-06-14, updated: 2025-06-13, from: Polygon Website
+
+Hell is Us has been on my radar since it was first announced in April 2022, and I’ve finally been able to spend some time with it via its demo. The war-torn world of Hell is Us is immediately chilling and the demo’s brief glimpse of the gameplay, despite some minor hang-ups, has me eager [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/604103/hell-is-us-terrifies-demo-impressions>
+
+---
+
+## All Verso Outfits in Clair Obscur: Expedition 33 and how to unlock them
+
+date: 2025-06-14, updated: 2025-06-13, from: Polygon Website
+
+Verso is more than just a Devil May Cry stand-in. In Clair Obscur: Expedition 33, Verso’s combat playstyle evokes this feeling of style, but style doesn&#8217;t have to stop at combat. With the right fit, you can defeat the paintress in style. Verso’s outfits unlock many combinations of expression. As you play Clair Obscur: Expedition [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/clair-obscur-expedition-33-guides/606836/verso-outfits-haircuts-all-how-to-unlock>
+
+---
+
+## Pokémon Go ‘Phantom Ruins’ event guide
+
+date: 2025-06-14, updated: 2025-06-14, from: Polygon Website
+
+Pokémon Go’s third lead-up event for Go Fest 2025 is called “Phantom Ruins,” and it runs from June 14-18. The event features bonuses like Incense attracting some specific Pokémon, doubled catch XP, and bonuses for Max Particle collection — which comes just in time for Gigantamax Inteleon’s debut. Below, we list out the perks of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/606949/phantom-ruins-event-timed-research-collection-challenge>
+
+---
+
+## Keep an eye on Planet of Lana 2 — the first one was a secret gem of 2023
+
+date: 2025-06-14, updated: 2025-06-13, from: Polygon Website
+
+May 2023 was kind of a big deal. A little ol’ game called The Legend of Zelda: Tears of the Kingdom (ring any bells?) was released, and everyone was playing it; Tears sold almost 20 million copies in under two months. However, it wasn’t the only game that came out that month. While it may [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/606153/planet-of-lana-impressions>
+
+---
+
+## Marvel vs. Capcom spawned a new generation of tag fighters — by not showing up
+
+date: 2025-06-14, updated: 2025-06-13, from: Polygon Website
+
+It’s been nearly 30 years since Capcom popularized tag-based fighting games with X-Men vs. Street Fighter — and to a lesser extent, SNK with Kizuna Encounter: Super Tag Battle. But now, the subgenre appears to be thriving in the vacuum left by Capcom itself, which hasn’t delivered a new tag-based fighting game since 2017’s Marvel vs. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/606948/marvel-vs-capcom-tag-fighters-tokon-invincible-vs>
+
+---
+
+## Switch 2 Joy-Con drift is already haunting Nintendo
+
+date: 2025-06-14, updated: 2025-06-13, from: Polygon Website
+
+Stick drift comes for everyone, but Nintendo Switch hardware has a reputation for being particularly prone to failure. Naturally, everyone is wondering if the Nintendo Switch 2 and its new Joy-Con controller is any better than its predecessor. News that at least one person purchased a brand new Switch 2 that appeared to come out [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/606939/switch-2-joycon-drift-controller-fix-joystick>
 

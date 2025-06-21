@@ -1,11 +1,85 @@
 ---
 title: home
-updated: 2025-06-20 14:08:06
+updated: 2025-06-21 06:08:53
 ---
 
 # home
 
-(date: 2025-06-20 14:08:06)
+(date: 2025-06-21 06:08:53)
+
+---
+
+## What to do in a Southern California food garden in June
+
+date: 2025-06-20, from: Greg Alder's blog, Yard Post
+
+<p>June is the lush month. June is the jungle month, particularly toward the end. The days are at their longest and they are warm, so the garden begins to look verdant and tangled in a most wonderful way. Melon vines overtake your walking paths. Corn stalks tower overhead. Cherry tomato plants drip with red fruit. [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/southern-california-garden-june/">What to do in a Southern California food garden in June</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/southern-california-garden-june/>
+
+---
+
+## A Retired Couple Treated Themselves to a Bathroom Makeover—See the Luxe Transformation
+
+date: 2025-06-20, from: Sunset Magazine - Living in the West
+
+With their children already grown, a retired couple decided it was time to invest in a primary bathroom makeover. See the transformation. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/bathroom-makeover-retired-couple>
+
+---
+
+## This Stunning Makeover Is Proof That Guest Baths Shouldn’t Be an Afterthought
+
+date: 2025-06-20, from: Sunset Magazine - Living in the West
+
+A guest bathroom in a San Francisco was recently remodeled, but the new owners wanted to give it personality. See how they did it. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/sf-guest-bathroom-before-after>
+
+---
+
+## How a Seattle Bathroom Went from Deteriorating to Design Eye-Candy
+
+date: 2025-06-20, from: Sunset Magazine - Living in the West
+
+The hall bathroom in a Seattle house was falling apart. See how an interior designer remodeled the space without adding extra square footage. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/seattle-bathroom-makeover>
+
+---
+
+## Announcing the 2026 Sunset Wellness & Beauty Awards
+
+date: 2025-06-20, from: Sunset Magazine - Living in the West
+
+The West has always been a wellspring of innovation in wellness. We're honoring the best in the industry with our new awards program. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness/2026-sunset-wellness-beauty-awards>
+
+---
+
+## This Outrageously Pretty Purple Tile Is Actually Made out of Sea Urchins
+
+date: 2025-06-20, from: Sunset Magazine - Living in the West
+
+A Berkeley-based company is crafting tiles out of purple sea urchins, helping to rebalance California kelp forest ecosystems. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/sea-urchin-tile-urchinite>
 
 ---
 
@@ -102,6 +176,18 @@ date: 2025-06-20, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/project/ikea-kitchen-cabinets/>
+
+---
+
+## The Summer Solstice Is the Longest Day of the Year—Here’s How to Celebrate It
+
+date: 2025-06-20, from: Sunset Magazine - Living in the West
+
+The summer solstice is upon us, how are you celebrating the start of the summer season and longest day of the year? Here are rituals to try. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/summer-solstice-rituals>
 
 ---
 
@@ -686,18 +772,6 @@ date: 2025-06-19, from: Yard Life blog
 
 ---
 
-## The Summer Solstice Is the Longest Day of the Year—Here’s How to Celebrate It
-
-date: 2025-06-19, from: Sunset Magazine - Living in the West
-
-The summer solstice is upon us, how are you celebrating the start of the summer season and longest day of the year? Here are rituals to try. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/summer-solstice-rituals>
-
----
-
 ## 13 Venomous Snakes in Arizona (With Pictures and Identification)
 
 date: 2025-06-19, from: Yard Life blog
@@ -1062,18 +1136,6 @@ date: 2025-06-18, from: Yard Life blog
 
 ---
 
-## Announcing the 2026 Sunset Wellness & Beauty Awards
-
-date: 2025-06-17, from: Sunset Magazine - Living in the West
-
-The West has always been a wellspring of innovation in wellness. We're honoring the best in the industry with our new awards program. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/wellness/2026-sunset-wellness-beauty-awards>
-
----
-
 ## A Home in Portugal Connects Deeply With Its Setting—Down to a Fault Line
 
 date: 2025-06-17, from: Dwell
@@ -1164,18 +1226,6 @@ date: 2025-06-17, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/4-types-of-doves-in-new-york-pictures-and-identification/>
-
----
-
-## This Outrageously Pretty Purple Tile Is Actually Made Out of Sea Urchins
-
-date: 2025-06-17, from: Sunset Magazine - Living in the West
-
-A Berkeley-based company is crafting tiles out of purple sea urchins, helping to rebalance California kelp forest ecosystems. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/sea-urchin-tile-urchinite>
 
 ---
 
@@ -1595,4 +1645,107 @@ date: 2025-06-15, from: Greg Alder's blog, Yard Post
 <br> 
 
 <https://gregalder.com/yardposts/rotating-vegetables/>
+
+---
+
+## How to Plant and Grow Sweet Myrtle
+
+date: 2025-06-14, from: The Gardener's Path
+
+<p>Sweet myrtle (Myrtus communis) offers fragrant foliage, airy white blooms, and edible berries, flowers, and leaves. It’s drought-tolerant, low-maintenance, and perfect for borders, containers, or hedges where its year-round appeal can be appreciated. Learn how to grow and care for sweet myrtle in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/grow-sweet-myrtle/">How to Plant and Grow Sweet Myrtle</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/grow-sweet-myrtle/>
+
+---
+
+## 35 Most Common Birds in Mississippi (Pictures and Identification)
+
+date: 2025-06-14, from: Yard Life blog
+
+<p>Having spent many years living in Mississippi, I’ve come to appreciate the incredible variety of birds that fill the skies ... </p>
+<p class="read-more-container"><a title="35 Most Common Birds in Mississippi (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/35-most-common-birds-in-mississippi-pictures-and-identification/#more-30177" aria-label="Read more about 35 Most Common Birds in Mississippi (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/35-most-common-birds-in-mississippi-pictures-and-identification/">35 Most Common Birds in Mississippi (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/35-most-common-birds-in-mississippi-pictures-and-identification/>
+
+---
+
+## 2 Species of Eagles in Louisiana (Pictures and Identification)
+
+date: 2025-06-14, from: Yard Life blog
+
+<p>Eagles in Louisiana are powerful and captivating birds that often draw attention as they glide over lakes, rivers, and open ... </p>
+<p class="read-more-container"><a title="2 Species of Eagles in Louisiana (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/2-species-of-eagles-in-louisiana-pictures-and-identification/#more-30167" aria-label="Read more about 2 Species of Eagles in Louisiana (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/2-species-of-eagles-in-louisiana-pictures-and-identification/">2 Species of Eagles in Louisiana (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/2-species-of-eagles-in-louisiana-pictures-and-identification/>
+
+---
+
+## 8 Woodpeckers in West Virginia (Pictures and Identification)
+
+date: 2025-06-14, from: Yard Life blog
+
+<p>West Virginia’s forests are home to a variety of woodpeckers that bring sound and movement to the trees year-round. These ... </p>
+<p class="read-more-container"><a title="8 Woodpeckers in West Virginia (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/8-woodpeckers-in-west-virginia-pictures-and-identification/#more-30158" aria-label="Read more about 8 Woodpeckers in West Virginia (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/8-woodpeckers-in-west-virginia-pictures-and-identification/">8 Woodpeckers in West Virginia (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/8-woodpeckers-in-west-virginia-pictures-and-identification/>
+
+---
+
+## 12 Species of Hawks in Nevada (With Pictures and Identification)
+
+date: 2025-06-14, from: Yard Life blog
+
+<p>Nevada’s striking mix of deserts, wetlands, and mountain forests provides a rich environment for raptors. Hawks in Nevada are commonly ... </p>
+<p class="read-more-container"><a title="12 Species of Hawks in Nevada (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/12-species-of-hawks-in-nevada-with-pictures-and-identification/#more-30150" aria-label="Read more about 12 Species of Hawks in Nevada (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/12-species-of-hawks-in-nevada-with-pictures-and-identification/">12 Species of Hawks in Nevada (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/12-species-of-hawks-in-nevada-with-pictures-and-identification/>
+
+---
+
+## 4 Common Falcons in Illinois (With Pictures and Identification)
+
+date: 2025-06-14, from: Yard Life blog
+
+<p>Falcons in Illinois are some of the most fascinating and agile birds of prey found throughout the state. Known for ... </p>
+<p class="read-more-container"><a title="4 Common Falcons in Illinois (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/4-common-falcons-in-illinois-with-pictures-and-identification/#more-30143" aria-label="Read more about 4 Common Falcons in Illinois (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/4-common-falcons-in-illinois-with-pictures-and-identification/">4 Common Falcons in Illinois (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/4-common-falcons-in-illinois-with-pictures-and-identification/>
+
+---
+
+## California Native Plant Society Condemns the Proposal to Sell Off Western Public Lands
+
+date: 2025-06-14, from: California Native Plants Society
+
+<p>This week, Senator Lee (R-UT) and his allies on the Senate Energy and Natural Resources (SENR) Committee advanced language for the Senate’s budget reconciliation package that would mandate the sell-off of up to 3.25 million acres in the western United States.</p>
+<p>The post <a href="https://www.cnps.org/news-releases/california-native-plant-society-condemns-the-proposal-to-sell-off-western-public-lands-43686">California Native Plant Society Condemns the Proposal to Sell Off Western Public Lands</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/news-releases/california-native-plant-society-condemns-the-proposal-to-sell-off-western-public-lands-43686>
 

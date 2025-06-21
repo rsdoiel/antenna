@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-06-20 14:08:07
+updated: 2025-06-21 06:08:54
 ---
 
 # retro computing
 
-(date: 2025-06-20 14:08:07)
+(date: 2025-06-21 06:08:54)
+
+---
+
+## Debug/X v2.51 and JDeb386 1.4
+
+date: 2025-06-20, from: FreeDOS News
+
+<div class="markdown_content"><p>Japheth has released several updates to DEBUG and DEBUG/X. Japheth writes: "The PL0 variant DEBUGR has got a few fixes and additions. JDeb386, which uses that variant, will benefit from that. The "boot" variant DEBUGB (interesting for DOS kernel debugging only!) has changed slightly. However, for real progress here one has to use the preliminary Jemm version, v5.86 - it has a FASTBOOT JLM included, which greatly simplifies to load (and run) DEBUGB, without hassles." You can find the new versions on GitHub: <a class="" href="https://github.com/Baron-von-Riedesel/DOS-debug/releases/tag/v2.51" rel="nofollow">Debug/X v2.51</a> and <a class="" href="https://github.com/Baron-von-Riedesel/JDeb386/releases/tag/v1.4" rel="nofollow">JDeb386 1.4</a></p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/06/debugx-v251-and-jdeb386-14/>
+
+---
+
+## RPNV calculator
+
+date: 2025-06-20, from: FreeDOS News
+
+<div class="markdown_content"><p>RPNV is an RPN calculator inspired by HP Voyager calculator series. Davide Erbetta has been working on this for fun, using the <em>conio</em> library and the Open Watcom C compiler. The calculator has a 4 level stack (X,Y,Z,T registers), the Last-X register and 10 memory registers (named from 0 to 9) where values can be stored and recall. The basic operation, the trigonometric function and few others are available as well. No programming capability has been implemented. You can find it at <a class="" href="https://github.com/Dave1975-spring/RPNV_Calculator" rel="nofollow">RPNV at GitHub</a>. Davide has made steady releases for it, which you can find on the <a class="" href="https://github.com/Dave1975-spring/RPNV_Calculator/releases" rel="nofollow">RPNV Releases</a> page.</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/06/rpnv-calculator/>
 
 ---
 
@@ -699,4 +723,52 @@ Cake fail!, Vide grenier, Panasonic SD-253 Bread Maker, Another clock.
 <br> 
 
 <https://heyrick.eu/blog/index.php?diary=20250615>
+
+---
+
+## b.log 2025/06/14 - A peaceful Saturday, Satellite receiver repair, My unBirthday soon.
+
+date: 2025-06-14, from: Richard Murray's blog
+
+A peaceful Saturday, Satellite receiver repair, My unBirthday soon. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250614>
+
+---
+
+## Hugo Tyson talks to ROUGOL about his time at Acorn – 16th June
+
+date: 2025-06-14, from: RiscOS Story
+
+The guest speaker at the next RISC OS User Group of London (ROUGOL) meeting will be Hugo Tyson, who will be talking about what he did during the time he worked at Acorn. Having worked for the company from June 1980 (becoming a full time staffer in September 1982) all the way up until 1990, Hugo worked on many projects, such as Acorn&#8217;s disc filing systems (both DFS and ADFS), the Unix-based operating system RISC iX, and more &#8211; including Acorn&#8217;s most ambitious project, the development of the ARM CPU,&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/hugo-tyson-at-rougol-16th-june/>
+
+---
+
+## RISCOSbits unleashes FAST Linux with ECOS5
+
+date: 2025-06-14, from: RiscOS Story
+
+If you have a RISCOSbits FAST system, the company is now able to provide you with a new, additional piece of kit &#8211; which doubles up your RISC OS computer, making it a Linux one as well. Easy Concurrent Operating System (ECOS) 5 was announced in the run up to the RISC OS North show, with no product available to sell at that point, only to show off on the day. Although the reason ECOS5 wasn&#8217;t available was due to holiday timings, it means RISCOSbits was able to listen to&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/riscosbits-ecos5-unleashed/>
+
+---
+
+## CardInfo 1.03 released
+
+date: 2025-06-14, from: RiscOS Story
+
+Kevin Wells has released an update to his CardInfo application that uses Wget to look up information online about our flexible friends, using a remote Application Programmer Interface (API). Given the first six digits of a bank card number, it will relay that data to the BIN (Bank Identification Number) Checker API, which is provided by API Layer). The returned information is then displayed, which will include things like the issuing bank, its country, and so on. The first change in version 1.03 of the software is that it recognises&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/cardinfo-1-03/>
 

@@ -1,11 +1,49 @@
 ---
 title: north america
-updated: 2025-06-20 14:08:00
+updated: 2025-06-21 06:08:47
 ---
 
 # north america
 
-(date: 2025-06-20 14:08:00)
+(date: 2025-06-21 06:08:47)
+
+---
+
+## Under Trump, Black Organizations Matter
+
+date: 2025-06-20, from: Capital and Main
+
+<p>Black-led groups in Southern California demonstrate the urgency of continuing to invest in the fight for social justice.</p>
+<p>The post <a href="https://capitalandmain.com/why-the-black-pope-matters-from-new-orleans-7th-ward-to-south-los-angeles-and-beyond-2-2">Under Trump, Black Organizations Matter</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/why-the-black-pope-matters-from-new-orleans-7th-ward-to-south-los-angeles-and-beyond-2-2>
+
+---
+
+## Evening Roundup, June 20
+
+date: 2025-06-20, from: The Contrarian
+
+Featuring "An Ode to the Flag," Chellie Pingree & Jen Rubin, Mimi Rocah, Tom Malinowski, Guy Gugliotta, The Democracy Index, Meredith Blake, Emily Beyda, and our Pet of the Week! 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-20>
+
+---
+
+## The Democracy Index
+
+date: 2025-06-20, from: The Contrarian
+
+June 20, 2025 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-democracy-index-93f>
 
 ---
 
@@ -896,4 +934,28 @@ Coast-to-coast coverage of the resistance
 </audio> <a href="https://api.substack.com/feed/podcast/165803404/80f042116bcedc7d09f390a5c0bbeffd.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/no-kings-day-live-fbd>
+
+---
+
+## No Kings Day LIVE!
+
+date: 2025-06-14, from: The Contrarian
+
+You don&#8217;t need to watch that self-aggrandizing, wasteful birthday party Trump&#8217;s throwing for himself. 
+
+<br> 
+
+<https://contrarian.substack.com/p/no-kings-day-live>
+
+---
+
+## The Autocrat's Parade
+
+date: 2025-06-14, from: The Contrarian
+
+Your tax dollars at work. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-autocrats-parade>
 

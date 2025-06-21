@@ -1,11 +1,27 @@
 ---
 title: going electric
-updated: 2025-06-20 14:08:07
+updated: 2025-06-21 06:08:55
 ---
 
 # going electric
 
-(date: 2025-06-20 14:08:07)
+(date: 2025-06-21 06:08:55)
+
+---
+
+## Batteries are so cheap now, solar power doesn’t sleep
+
+date: 2025-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/AREVON_Eland-1_Kern-Cty-CA.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>A <a href="https://ember-energy.org/page-not-found/" target="_blank" rel="noreferrer noopener">new report</a> from global energy think tank Ember says batteries have officially hit the price point that lets solar power deliver affordable electricity almost every hour of the year in the sunniest parts of the world.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="421271" href="https://electrek.co/2025/06/20/batteries-are-so-cheap-now-solar-power-doesnt-sleep-ember/#more-421271" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/20/batteries-are-so-cheap-now-solar-power-doesnt-sleep-ember/>
 
 ---
 
@@ -1743,4 +1759,52 @@ date: 2025-06-15, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/06/15/lion-electric-leaves-us-school-districts-stuck-with-unsafe-broken-buses/>
+
+---
+
+## Mitsubishi debuts EV battery swap network for cars AND trucks in Tokyo
+
+date: 2025-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/mitsubishi_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Mitsubishi is partnering with <a href="https://electrek.co/2024/03/28/ample-eneos-bringing-first-ev-battery-swap-stations-to-japan/">Ample</a> and Yamoto Transports to deploy an innovative new battery swap network for electric cars in its Japanese home market — but it’s not just for electric <em>cars</em>. Mitsubishi Fuso commercial trucks are getting in on the action, too!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-swap,commercial-evs,last-mile-delivery-evs,mitsubishi" data-layer-viewtype="unknown" data-post-id="420368" href="https://electrek.co/2025/06/14/mitsubishi-debuts-ev-battery-swap-network-for-cars-and-trucks-in-tokyo/#more-420368" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/14/mitsubishi-debuts-ev-battery-swap-network-for-cars-and-trucks-in-tokyo/>
+
+---
+
+## Opel Grandland Blitz AWD electric SUV should give US Jeep fans hope
+
+date: 2025-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Opel_Grandland_Electric.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>After becoming the first European brand to offer fully electric versions of every model it sells — <a href="https://electrek.co/2024/10/13/price-parity-is-here-new-stellantis-crossover-is-the-same-price-ev-or-ice/">and at the same price as the ICE models</a> — Opel is going even further, with a new, AWD electric SUV that should give American Jeep fans hope for a new electric Cherokee!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="jeep,opel,stellantis" data-layer-viewtype="unknown" data-post-id="420346" href="https://electrek.co/2025/06/14/opel-grandland-blitz-awd-electric-suv-should-give-us-jeep-fans-hope/#more-420346" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/14/opel-grandland-blitz-awd-electric-suv-should-give-us-jeep-fans-hope/>
+
+---
+
+## With $25,000 off, is the Jeep Wagoneer S the best EV deal going?
+
+date: 2025-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/jeep_wagoneer_deals.jpg?quality=82&#038;strip=all&#038;w=1450" /></div><p>Like a 90s “gifted” kid that was supposed to be a lot of things, the electric Jeep Wagoneer S never really found its place — but with dealers discounting the Jeep brands forward-looking flagship by nearly $25,000, it might be time to give the go-fast Wagoneer S a second look.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,jeep,stellantis" data-layer-viewtype="unknown" data-post-id="420330" href="https://electrek.co/2025/06/14/with-25000-off-is-the-jeep-wagoneer-s-the-best-ev-deal-going/#more-420330" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/14/with-25000-off-is-the-jeep-wagoneer-s-the-best-ev-deal-going/>
 

@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2025-06-20 14:08:04
+updated: 2025-06-21 06:08:51
 ---
 
 # writing
 
-(date: 2025-06-20 14:08:04)
+(date: 2025-06-21 06:08:51)
 
 ---
 
@@ -568,4 +568,43 @@ date: 2025-06-15, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/06/when-the-tides-held-the-moon-by-venessa-vida-kelley-review-by-alex-brown/>
+
+---
+
+## Esperance by Adam Oyebanji: Review by Paul Di Filippo
+
+date: 2025-06-14, from: Locus Magazine
+
+<p><strong>Esperance</strong>, Adam Oyebanji (DAW ‎978-0756419912, hardcover, 432pp, $29.00) May 2025.</p>
+<p>Once upon a time, different generations of writers managed to coexist peacefully and fruitfully within the SF field. There was much less “OK Boomer” disdain and “Get Off My Lawn” vituperation. Of course, there always existed tensions between older folks doing things one way, and younger folks taking a different approach. Consider the New Wave and the Cyberpunk movements  <a href="https://locusmag.com/2025/06/esperance-by-adam-oyebanji-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/esperance-by-adam-oyebanji-review-by-paul-di-filippo/>
+
+---
+
+## Exit Zero: Stories by Marie-Helene Bertino: Review by Ian Mond
+
+date: 2025-06-14, from: Locus Magazine
+
+<p><strong>Exit Zero: Stories</strong>, Marie-Helene Bertino (FSG Originals 978-0-37461-647-2, $18.00, 208pp, tp) April 2025.</p>
+<p><strong>Beautyland </strong>by Marie-Helene Bertino was one of the best books of 2024. As is the way with these things, the novel – with its extraterrestrial (or is she?) protagonist reporting her observations of American culture back to her home planet via fax machine – captured the imagination of the mainstream and literary world (it appeared on  <a href="https://locusmag.com/2025/06/exit-zero-stories-by-marie-helene-bertino-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/exit-zero-stories-by-marie-helene-bertino-review-by-ian-mond/>
+
+---
+
+## Clarkesworld: Short Fiction Reviews by A.C. Wise
+
+date: 2025-06-14, from: Locus Magazine
+
+<p>Clarkesworld 3/25</p>
+<p>The March issue of Clarkesworld kicks off with a sweet, gentle, and hopeful story, “<strong>From Encela­dus, With Love</strong>” by <strong>Ryan Cole</strong>. Dezzi stows away on a ship headed for Enceladus, looking for her mother. She discovers the ship is conscious and has the personality of a young boy named Cal, whom she befriends and asks to keep her secret. “<strong>Mindtrips</strong>” by <strong>Tlotlo Tsamaase </strong> <a href="https://locusmag.com/2025/06/clarkesworld-short-fiction-reviews-by-a-c-wise-9/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/clarkesworld-short-fiction-reviews-by-a-c-wise-9/>
 

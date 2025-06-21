@@ -1,11 +1,37 @@
 ---
 title: columns
-updated: 2025-06-20 14:08:04
+updated: 2025-06-21 06:08:50
 ---
 
 # columns
 
-(date: 2025-06-20 14:08:04)
+(date: 2025-06-21 06:08:50)
+
+---
+
+## Friday Squid Blogging: Gonate Squid Video
+
+date: 2025-06-20, updated: 2025-06-18, from: Bruce Schneier blog
+
+<p>This is the <a href="https://www.nationalgeographic.com/animals/article/antarctic-squid-filmed-alive-first-video">first ever</a> video of the Antarctic Gonate Squid.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-gonate-squid-video.html>
+
+---
+
+##  For fans of Edith Zimmerman, a new Etsy offering: &#8220;A 4x6&#8221; made-to-order... 
+
+date: 2025-06-20, updated: 2025-06-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0046983-for-fans-of-edith-zimmerm>
 
 ---
 
@@ -783,6 +809,18 @@ X100VI, in direct comparison to the Sony A7 III.
 <br> 
 
 <https://xn--gckvb8fzb.com/fujifilm-x100vi/>
+
+---
+
+## Orange Bag Plastic Experimental Lab
+
+date: 2025-06-20, updated: 2025-06-20, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2025/06/20/orange-bag-plastics-lab/>
 
 ---
 
@@ -2368,4 +2406,201 @@ date: 2025-06-15, updated: 2025-06-15, from: Bruce Schneier blog
 <br> 
 
 <https://www.schneier.com/blog/archives/2025/06/upcoming-speaking-engagements-47.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-14, from: Miguel de Icaza Mastondon feed)
+
+<p>A small aside, during my vacation I finally started on writing a Metal backend for SwiftTerm.</p><p>It has a few missing features, so not worth comparing performance yet, but it is feeling great:</p><p><a href="https://github.com/migueldeicaza/SwiftTerm/tree/metal-backend" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/migueldeicaza/Swift</span><span class="invisible">Term/tree/metal-backend</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114684091651376434>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-14, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=NfekpCMlb5Q">Queen of the Roller Derby</a>. 
+
+<br> 
+
+<http://scripting.com/2025/06/14.html#a212937>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-14, from: Miguel de Icaza Mastondon feed)
+
+<p>Magical!<br /><a href="https://mastodon.social/@steipete/114682646957690315" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@steipete/1146</span><span class="invisible">82646957690315</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114683835154798968>
+
+---
+
+## June 13, 2025
+
+date: 2025-06-14, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165958177/028d2eb2049990a15bc8dbc6769a56a0.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/165958177/028d2eb2049990a15bc8dbc6769a56a0.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-13-2025-dae>
+
+---
+
+## Be peaceful. Be careful. Be safe. 
+
+date: 2025-06-14, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/be-peaceful-be-careful-be-safe>
+
+---
+
+## Cleaning Cupboards
+
+date: 2025-06-14, from: John's World Wide Wall Display
+
+Usually at this time of year I am busy 'tidying' things into cupboards. The summer holidays are approaching. This year I am having to clean the out - nine years of accumulated stuff. 
+
+<br> 
+
+<https://johnjohnston.info/blog/cleaning-cupboards/>
+
+---
+
+## ★ The Talk Show Live From WWDC 2025
+
+date: 2025-06-14, updated: 2025-06-15, from: Daring Fireball
+
+Recorded in front of a live audience at The California Theatre in San Jose Tuesday evening, special guests Joanna Stern and Nilay Patel join me to discuss Apple’s announcements at WWDC 2025. 
+
+<br> 
+
+<https://daringfireball.net/2025/06/the_talk_show_live_from_wwdc_2025>
+
+---
+
+## How I monitor and control all my powered devices (Zigbee + HA)
+
+date: 2025-06-14, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">How I monitor and control all my powered devices (Zigbee + HA)</span>
+
+            <p>Any time I show power consumption graphs for the SBCs, computers, and servers I test, I get a number of comments asking for more details about the setup.</p>
+
+<p></p>
+
+<p>It's quite simple, really: using my <a href="https://www.home-assistant.io/yellow/">Home Assistant Yellow</a>'s built-in Zigbee radio, I connect a number of <a href="https://amzn.to/45oROls">ThirdReality Zigbee Smart Outlets</a> to it, and then I use <a href="https://github.com/RomRider/apexcharts-card">ApexCharts Cards</a> to add graphs of power consumption over time on my Home Assistant dashboards.</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">June 14, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/how-i-monitor-and-control-all-my-powered-devices-zigbee-ha>
+
+---
+
+## Saturday,  14 June 2025
+
+date: 2025-06-14, from: Doc Searls (at Harvard), New Old Blog
+
+And that guidance led to what I&#8217;m doing here. Late in the last millennium, I was the creative director and main copy writer for Hodskins Simone &#38; Searls, a hot young advertising agency in North Carolina. I also still wrote often for a local Magazine called The Sun, which has since grown to become one [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/06/14/saturday-14-june-2025/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-14, from: Miguel de Icaza Mastondon feed)
+
+<p>Inspired by the talk, a nice 2.6x performance boost in a couple of hours for SwiftTerm:</p><p><a href="https://github.com/migueldeicaza/SwiftTerm/issues/373" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/migueldeicaza/Swift</span><span class="invisible">Term/issues/373</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114681687864387160>
+
+---
+
+## As RHEL clones hit version 10, Rocky and Alma chart diverging paths
+
+date: 2025-06-14, updated: 2025-06-14, from: Liam Proven's articles at the Register
+
+<h4>We take a quick look at the headline features – and the growing differences</h4>
+      <p>Rocky Linux 10 has caught up to the other high-profile RHELatives, but gaps between them are widening, both in tech and other ways.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/14/rocky_alma_and_rhel_10/>
+
+---
+
+## Fighting Trump | The Coffee Klatch for June 14, 2025
+
+date: 2025-06-14, from: Robert Reich's blog
+
+With special guest Ezra Levin of Indivisible, Michael Lahanas-Calder&#243;n, and yours truly, Robert Reich 
+
+<br> 
+
+<https://robertreich.substack.com/p/fighting-trump-the-coffee-klatch>
+
+---
+
+## the z80 technique reveals the source code for Atlassian's 'rovo' AI assistant
+
+date: 2025-06-14, from: Geoffrey Hunntley's blog
+
+<p>Ever wondered what happens if you take the technique at &quot;<a href="https://ghuntley.com/z80/">Can a LLM convert C, to ASM to specs and then to a working Z/80 Speccy tape? Yes.</a>&quot; and run it against the Atasslian Command Line (<a href="https://developer.atlassian.com/cloud/acli/guides/introduction/?ref=ghuntley.com">ACLI</a>) interface? Strap yourself in, as the Z80 is amongst one</p> 
+
+<br> 
+
+<https://ghuntley.com/atlassian-rovo-source-code/>
+
+---
+
+## Weeknotes: June 7-13, 2025
+
+date: 2025-06-14, from: Tracy Durnell Blog
+
+Highlight of the week: went on a neighborhood garden tour 🌼 had such a great time! 😊 Looking forward to: hoping to meet some neighbors at a community potluck 🤞 all the neighbors we knew moved away Stuff I did: 6.75 hours consulting &#8212; sent in a first draft deliverable for the new project 3.25 hours [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/06/13/weeknotes-june-7-13-2025/>
+
+---
+
+## June 13, 2025 
+
+date: 2025-06-14, from: Heather Cox Richardson blog
+
+Two hundred and fifty years ago, on June 14, 1775, the Second Continental Congress resolved &#8220;That six companies of expert riflemen, be immediately raised in Pennsylvania, two in Maryland, and two in Virginia; that each company consist of a captain, three lieutenants, four serjeants, four corporals, a drummer or trumpeter, and sixty-eight privates&#8230;[and that] each company, as soon as completed, shall march and join the army near Boston, to be there employed as light infantry, under the command of the chief Officer in that army.&#8221; 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-13-2025>
+
+---
+
+## Meta AI Users Are Inadvertently Sharing Their Private Chats With the World
+
+date: 2025-06-14, updated: 2025-06-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://techcrunch.com/2025/06/12/the-meta-ai-app-is-a-privacy-disaster/>
 

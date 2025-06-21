@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-06-20 14:08:06
+updated: 2025-06-21 06:08:54
 ---
 
 # motorcycles
 
-(date: 2025-06-20 14:08:06)
+(date: 2025-06-21 06:08:54)
+
+---
+
+## Kirkwood sets the pace early at Road America; DeFrancesco second
+
+date: 2025-06-20, from: Kickin the Tires blog
+
+Kyle Kirkwood brought his red-hot form into Road America, posting the fastest lap time of Friday’s practice session at 01:44.9881.&#160; Kirkwood, the winner at World Wide Technology Raceway on June&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/kirkwood-sets-the-pace-early-at-road-america/>
 
 ---
 
@@ -425,4 +437,28 @@ By Austin Lawton, Staff Writer IndyCar heads to primetime on Sunday night for th
 <br> 
 
 <https://kickinthetires.net/indycar/power-rockets-to-71st-career-pole-at-world-wide-technology-raceway/>
+
+---
+
+## NASCAR Driver Ryan Ellis Shares Story Of Mexico City-bound 39 Year Old Plane’s Aborted Takeoff
+
+date: 2025-06-14, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor MEXICO CITY – Having an engine fail due to a suspected bird strike at 160 mph just seconds before takeoff was likely on any NASCAR crew&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-driver-ryan-ellis-shares-story-of-mexico-city-bound-39-year-old-planes-aborted-takeoff/>
+
+---
+
+## GALLERY 1: NASCAR Visits Autodromo Hermano Rodriquez In Mexico City
+
+date: 2025-06-14, from: Kickin the Tires blog
+
+Photos by Jerry Jordan/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-1-nascar-visits-autodromo-hermano-rodriquez-in-mexico-city/>
 

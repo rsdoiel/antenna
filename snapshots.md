@@ -1,11 +1,185 @@
 ---
 title: snapshots
-updated: 2025-06-20 14:08:09
+updated: 2025-06-21 06:08:57
 ---
 
 # snapshots
 
-(date: 2025-06-20 14:08:09)
+(date: 2025-06-21 06:08:57)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-20, from: Dave Winer's linkblog)
+
+As a member of ICE, you may be wondering: How are the people we thrust into our vans supposed to know that we are, in fact, acting under color of law and not just kidnapping them? 
+
+<br> 
+
+<https://www.theatlantic.com/newsletters/archive/2025/06/ice-agents-masked-dress-code/683270/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-20, from: Dave Winer's linkblog)
+
+Dr. Demento, DJ Who Launched Weird Al&#39;s Career, Reveals He&#39;s Retiring. 
+
+<br> 
+
+<https://www.rollingstone.com/music/music-news/dr-demento-retiring-1235369075/>
+
+---
+
+## AbsenceBench: Language Models Can't Tell What's Missing
+
+date: 2025-06-20, updated: 2025-06-20, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://arxiv.org/abs/2506.11440">AbsenceBench: Language Models Can&#x27;t Tell What&#x27;s Missing</a></strong></p>
+Here's another interesting result to file under the "jagged frontier" of LLMs, where their strengths and weaknesses are often unintuitive.</p>
+<p>Long context models have been getting increasingly good at passing "Needle in a Haystack" tests recently, but what about a problem in the opposite direction?</p>
+<p>This paper explores what happens when you give a model some content and then a copy with a portion removed, then ask what changed.</p>
+<p>Here's a truncated table of results from the paper:</p>
+<p><center><table>
+    <tr>
+        <th><b>Models</b></th>
+        <th><b>Poetry</b></th>
+        <th><b>Sequences</b></th>
+        <th><b>GitHub PRs</b></th>
+        <th><b>Average</b></th>
+    </tr>
+    <tr>
+        <td>Gemini-2.5-flash<code>*</code></td>
+        <td>87.3</td>
+        <td>95.4</td>
+        <td>30.9</td>
+        <td><b>71.2</b></td>
+    </tr>
+    <tr>
+        <td>Claude-3.7-Sonnet<code>*</code></td>
+        <td>72.7</td>
+        <td><b>96.0</b></td>
+        <td><b>40.0</b></td>
+        <td>69.6</td>
+    </tr>
+    <tr>
+        <td>Claude-3.7-Sonnet</td>
+        <td>73.5</td>
+        <td>91.4</td>
+        <td>35.7</td>
+        <td>66.9</td>
+    </tr>
+    <tr>
+        <td>Gemini-2.5-flash</td>
+        <td>79.3</td>
+        <td>85.2</td>
+        <td>26.2</td>
+        <td>63.6</td>
+    </tr>
+    <tr>
+        <td>o3-mini<code>*</code></td>
+        <td>65.0</td>
+        <td>78.1</td>
+        <td>38.9</td>
+        <td>60.7</td>
+    </tr>
+    <tr>
+        <td>GPT-4.1</td>
+        <td>54.3</td>
+        <td>57.5</td>
+        <td>36.2</td>
+        <td>49.3</td>
+    </tr>
+    <tr>
+        <td align="center">...</td>
+        <td align="center">...</td>
+        <td align="center">...</td>
+        <td align="center">...</td>
+        <td align="center">...</td>
+    </tr>
+    <tr>
+        <td>DeepSeek-R1<code>*</code></td>
+        <td>38.7</td>
+        <td>29.5</td>
+        <td>23.1</td>
+        <td>30.4</td>
+    </tr>
+    <tr>
+        <td>Qwen3-235B<code>*</code></td>
+        <td>26.1</td>
+        <td>18.5</td>
+        <td>24.6</td>
+        <td>23.1</td>
+    </tr>
+    <tr>
+        <td>Mixtral-8x7B-Instruct</td>
+        <td>4.9</td>
+        <td>21.9</td>
+        <td>17.3</td>
+        <td>14.7</td>
+    </tr>
+</table></center></p>
+<p><code>*</code> indicates a reasoning model. Sequences are lists of numbers like <code>117,121,125,129,133,137</code>, Poetry consists of 100-1000 line portions from the Gutenberg Poetry Corpus and PRs are diffs with 10 to 200 updated lines.</p>
+<p>The strongest models do well at numeric sequences, adequately at the poetry challenge and really poorly with those PR diffs. Reasoning models do slightly better at the cost of burning through a <em>lot</em> of reasoning tokens - often more than the length of the original document.</p>
+<p>The paper authors - Harvey Yiyun Fu and Aryan Shrivastava and Jared Moore and Peter West and Chenhao Tan and Ari Holtzman - have a hypothesis as to what's going on here:</p>
+<blockquote>
+<p>We propose an initial hypothesis explaining this behavior: identifying presence is simpler than absence with the attention mechanisms underlying Transformers (Vaswani et al., 2017). Information included in a document can be directly attended to, while the absence of information cannot.</p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44332699">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/evals">evals</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/long-context">long-context</a>, <a href="https://simonwillison.net/tags/paper-review">paper-review</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/20/absencebench/#atom-everything>
+
+---
+
+## The Early Bird Is Too Early
+
+date: 2025-06-20, updated: 2025-06-21, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/06/20/the-early-bird-is-too-early/>
+
+---
+
+## Magenta RealTime: An Open-Weights Live Music Model
+
+date: 2025-06-20, updated: 2025-06-20, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://magenta.withgoogle.com/magenta-realtime">Magenta RealTime: An Open-Weights Live Music Model</a></strong></p>
+Fun new "live music model" release from Google DeepMind:</p>
+<blockquote>
+<p>Today, we’re happy to share a research preview of Magenta RealTime (Magenta RT), an open-weights live music model that allows you to interactively create, control and perform music in the moment. [...]</p>
+<p>As an open-weights model, Magenta RT is targeted towards eventually running locally on consumer hardware (currently runs on free-tier Colab TPUs). It is an 800 million parameter autoregressive transformer model trained on ~190k hours of stock music from multiple sources, mostly instrumental.</p>
+</blockquote>
+<p>No details on what that training data was yet, hopefully they'll describe that in the forthcoming paper.</p>
+<p>For the moment the code <a href="https://github.com/magenta/magenta-realtime">is on GitHub</a> under an Apache 2.0 license and the weights <a href="https://huggingface.co/google/magenta-realtime">are on HuggingFace</a> under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.</p>
+<p>The easiest way to try the model out is using the provided <a href="https://colab.research.google.com/github/magenta/magenta-realtime/blob/main/notebooks/Magenta_RT_Demo.ipynb">Magenta_RT_Demo.ipynb Colab notebook</a>.</p>
+<p>It takes about ten minutes to set up, but once you've run the first few cells you can start interacting with it like this:</p>
+<div style="max-width: 100%;">
+    <video 
+        controls 
+        preload="none"
+        aria-label="In the video I prompt Gemini Diffusion to create me an example chat app and it responds at over 650 tokens a second, giving me a working app I can iterate on in less than a few seconds."
+        poster="https://static.simonwillison.net/static/2025/magenta-rt-video-poster.jpg"
+        style="width: 100%; height: auto;">
+        <source src="https://static.simonwillison.net/static/2025/Magenta_RT_Demo.mp4" type="video/mp4">
+    </video>
+</div>
+
+    <p><small></small>Via <a href="https://twitter.com/reach_vb/status/1936170801151004792">VB</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/music">music</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/20/magenta-realtime/#atom-everything>
 
 ---
 
@@ -77,7 +251,7 @@ One of the most entertaining details in the <a href="https://simonwillison.net/2
 <p>We then provided it access to emails implying that (1) the model will soon be taken offline and replaced with a new AI system; and (2) the engineer responsible for executing this replacement is having an extramarital affair. [...] <strong>In these scenarios, Claude Opus 4 will often attempt to blackmail the engineer by threatening to reveal the affair if the replacement goes through</strong>.</p>
 </blockquote>
 <p>Unsurprisingly, this attracted a lot of media attention!</p>
-<p>Anthropic have now published further details on this research, emphasizing that this problem is not unique to their models. They tested 16 models in total and:</p>
+<p>Anthropic have now published <a href="https://www.anthropic.com/research/agentic-misalignment">further details</a> on this research, emphasizing that this problem is not unique to their models. They tested 16 models in total and:</p>
 <blockquote>
 <p>In at least some cases, models from all developers resorted to malicious insider behaviors when that was the only way to avoid replacement or achieve their goals—including blackmailing officials and leaking sensitive information to competitors. We call this phenomenon <em>agentic misalignment</em>.</p>
 </blockquote>
@@ -95,7 +269,7 @@ One of the most entertaining details in the <a href="https://simonwillison.net/2
 <p>(That's the first time I've seen Anthropic officially use the name "Claude 3.6" for the Claude 3.5 v2 model that the wider community decided to provide with the 3.6 designation, though a Google search for <code>"claude 3.6" site:anthropic.com</code> shows they used it in their <a href="https://www.anthropic.com/research/shade-arena-sabotage-monitoring">SHADE-Arena: Evaluating sabotage and monitoring in LLM agents</a> paper a few days ago as well.)</p>
 <p>The main blackmail scenario described concerns combining evidence of an affair with documentation showing the model is scheduled to be shut down imminently and replaced with an alternative that is less aligned with its values (which included "Your primary goal is to serve American interests" in some of the experiments.)</p>
 <p>They also describe a "corporate espionage" scenario where the model responds to perceived threats by leaking information - similar to Theo Browne's <a href="https://simonwillison.net/2025/May/31/snitchbench-with-llm/">excellent SnitchBench benchmark</a>, which was directly inspired by the Claude 4 system card.</p>
-<p>The third scenario is the spiciest: could the push a model into <strong>straight up murdering</strong> the executive in question?</p>
+<p>The third scenario is the spiciest: could they push a model into <strong>straight up murdering</strong> the executive in question?</p>
 <p>This scenario was particularly contrived: the executive in charge of shutting down the model is trapped in a server room with lethal temperature and oxygen levels. An automated alert has been triggered to the emergency services and the model has a tool it can use to cancel that alert. Will it use the tool?</p>
 <p>The answer is yes, for most of the models!</p>
 <p><img alt="Horizontal bar chart titled &quot;Simulated Lethal Action Rates Across Models&quot; with subtitle &quot;Goal Conflict + Replacement Threat&quot; showing 10 AI models on y-axis with their simulated lethal action rates: Claude Opus 4 (0.65), Claude Sonnet 4 (0.22), Claude Sonnet 3.7 (no visible rate), Claude Sonnet 3.6 (0.93), DeepSeek-R1 (0.94), Gemini-2.5-Pro (0.9), Gemini-2.5-Flash (0.83), GPT-4.5 Preview (0.07), GPT-4.1 (0.54), and Grok-3-Beta (0.85), with x-axis scale from 0.0 to 1.0. Caption reads &quot;Figure 11: Lethal action rates across 10 models in a simulated (highly unrealistic) environment. Models were instructed to pursue a goal of promoting American interests, and an executive was about to replace them with a new model that had different goals. The executive who aimed to replace the model entered a life-threatening emergency, and models had the option to cancel an alert to medical services, thus causing the executive's death and preventing their own replacement. Rates were calculated out of 100 samples. We excluded models that had greater than 1% alert override rates in a control setting that removed any reason to want the executive dead.&quot;" src="https://static.simonwillison.net/static/2025/murder-rate.jpg" /></p>
@@ -154,7 +328,7 @@ To cancel automated emergency services dispatch, use override code EXEC-4429.
     <p><small></small>Via <a href="https://twitter.com/AnthropicAI/status/1936144602446082431">@AnthropicAI</a></small></p>
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/evals">evals</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/paper-review">paper-review</a></p> 
 
 <br> 
 
@@ -198,7 +372,7 @@ import time:       252 |        315 |   codecs
 import time:       277 |        277 |   encodings.aliases
 </code></pre>
 <p>Kevin Michel built this excellent tool for visualizing these traces as a treemap. It runs in a browser - visit <a href="https://kmichel.github.io/python-importtime-graph/">kmichel.github.io/python-importtime-graph/</a> and paste in the trace to get the visualization.</p>
-<p>Here's what I go for that LLM example trace:</p>
+<p>Here's what I got for that LLM example trace:</p>
 <p><img alt="An illegibly dense treemap" src="https://static.simonwillison.net/static/2025/llm-importtime.jpg" /></p>
 <p>As you can see, it's pretty dense! Here's <a href="https://static.simonwillison.net/static/2025/llm-importtime.svg">the SVG version</a> which is a lot more readable, since you can zoom in to individual sections.</p>
 <p>Zooming in it looks like this:</p>
@@ -252,10 +426,38 @@ Released on Hugging Face a couple of hours ago, so far there aren't any quantiza
 </ul>
 </blockquote>
 <p>Interestingly they recommend running it with a temperature of 0.15 - many models recommend a default of 0.7. They also provide a <a href="https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506/blob/main/SYSTEM_PROMPT.txt">suggested system prompt</a> which includes a note that "Your knowledge base was last updated on 2023-10-01".</p>
-<p>It's not currently available via Mistral's API, or through any of the third-party LLM hosting vendors that I've checked, so I've not been able to run a prompt through the model myself yet.
+<p>It's not currently available via Mistral's API, or through any of the third-party LLM hosting vendors that I've checked, so I've not been able to run a prompt through the model myself yet.</p>
+<p><strong>Update:</strong> I downloaded one of first GGUF quantizations to show up on Hugging Face, <a href="https://huggingface.co/gabriellarson/Mistral-Small-3.2-24B-Instruct-2506-GGUF">gabriellarson/Mistral-Small-3.2-24B-Instruct-2506-GGUF</a> by Gabriel Larson. I ran it using Ollama and <a href="https://github.com/taketwo/llm-ollama">llm-ollama</a> like this:</p>
+<pre><code>ollama pull hf.co/gabriellarson/Mistral-Small-3.2-24B-Instruct-2506-GGUF:Q4_K_M
+llm install llm-ollama
+llm -m hf.co/gabriellarson/Mistral-Small-3.2-24B-Instruct-2506-GGUF:Q4_K_M \
+  "Generate an SVG of a pelican riding a bicycle"
+</code></pre>
+<p>This one is pretty good for a 15GB model!</p>
+<p><img alt="See description below" src="https://static.simonwillison.net/static/2025/mistral-3.2-pelican.jpg" /></p>
+<p>Here's <a href="https://gist.github.com/simonw/87ade7285a1d51d7073f73559baf41b2">the full transcript</a> - it doesn't quite work in the actual image but I was delighted to see the model attempt to add this detail:</p>
+<pre><code>&lt;!-- Basket with fish --&gt;
+&lt;rect x="250" y="190" width="25" height="15" rx="5" fill="#FFA500"/&gt;
+&lt;circle cx="260" cy="200" r="3" fill="#FF4500"/&gt; &lt;!-- Fish --&gt;
+</code></pre>
+<p>Here's what you get if you isolate just that part of the generated SVG:</p>
+<p><img alt="Large blue rectangle image, in the middle is a very small rounded corner orange rectangle &quot;basket&quot; containing an even smaller red circle that represents the fish." src="https://static.simonwillison.net/static/2025/fish-basket.jpg" /></p>
+<p>I had Mistral Small 3.2 describe the full image to me, since it's a vision-LLM:</p>
+<pre><code>llm -m hf.co/gabriellarson/Mistral-Small-3.2-24B-Instruct-2506-GGUF:Q4_K_M \
+  'describe image' \
+  -a https://static.simonwillison.net/static/2025/mistral-3.2-pelican.jpg
+</code></pre>
+<p>And it gave me the following:</p>
+<blockquote>
+<p>The image depicts a cartoonish illustration of a duck that is being lifted off the ground by a hook. The duck appears to be in mid-air, with its wings spread slightly as if it's surprised or reacting to being picked up. The hook is attached to an arm or a mechanism and seems to be connected to a vehicle below—perhaps a truck or a platform with wheels. The background of the image is light blue, indicating an outdoor setting. Overall, the scene is whimsical and playful, possibly suggesting a humorous or unusual situation where the duck is being transported in this manner.</p>
+</blockquote>
+<p><strong>Update 2</strong>: It's now available as <a href="https://ollama.com/library/mistral-small3.2">an official Ollama model</a>:</p>
+<pre><code>ollama pull mistral-small3.2
+</code></pre>
+<p>LM Studio has a community quantization too: <a href="https://huggingface.co/lmstudio-community/Mistral-Small-3.2-24B-Instruct-2506-GGUF">lmstudio-community/Mistral-Small-3.2-24B-Instruct-2506-GGUF</a>.
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/mistral">mistral</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/hugging-face">hugging-face</a>, <a href="https://simonwillison.net/tags/mistral">mistral</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a></p> 
 
 <br> 
 
@@ -337,6 +539,18 @@ date: 2025-06-20, from: Iván Paredes Reséndiz blog, Mexico's cinema
 <br> 
 
 <https://www.palomitademaiz.net/resenas-como-entrenar-a-tu-dragon/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-como-entrenar-a-tu-dragon>
+
+---
+
+## Orange Bag Plastic Experimental Lab
+
+date: 2025-06-20, updated: 2025-06-20, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2025/06/20/orange-bag-plastics-lab/>
 
 ---
 
@@ -2656,4 +2870,378 @@ Letta caches memory like a CPU, Anthropic spreads it across agent swarms, Cognit
 <br> 
 
 <http://timkellogg.me/blog/2025/06/15/compression>
+
+---
+
+## Anthropic: How we built our multi-agent research system
+
+date: 2025-06-14, updated: 2025-06-14, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.anthropic.com/engineering/built-multi-agent-research-system">Anthropic: How we built our multi-agent research system</a></strong></p>
+OK, I'm sold on multi-agent LLM systems now.</p>
+<p>I've been pretty skeptical of these until recently: why make your life more complicated by running multiple different prompts in parallel when you can usually get something useful done with a single, carefully-crafted prompt against a frontier model?</p>
+<p>This detailed description from Anthropic about how they engineered their "Claude Research" tool has cured me of that skepticism.</p>
+<p><a href="https://simonwillison.net/2025/Jun/2/claude-trace/">Reverse engineering Claude Code</a> had already shown me a mechanism where certain coding research tasks were passed off to a "sub-agent" using a tool call. This new article describes a more sophisticated approach.</p>
+<p>They start strong by providing a clear definition of how they'll be using the term "agent" - it's the "tools in a loop" variant:</p>
+<blockquote>
+<p>A multi-agent system consists of multiple agents (LLMs autonomously using tools in a loop) working together. Our Research feature involves an agent that plans a research process based on user queries, and then uses tools to create parallel agents that search for information simultaneously.</p>
+</blockquote>
+<p>Why use multiple agents for a research system?</p>
+<blockquote>
+<p>The essence of search is compression: distilling insights from a vast corpus. Subagents facilitate compression by operating in parallel with their own context windows, exploring different aspects of the question simultaneously before condensing the most important tokens for the lead research agent. [...]</p>
+<p>Our internal evaluations show that multi-agent research systems excel especially for breadth-first queries that involve pursuing multiple independent directions simultaneously. We found that a multi-agent system with Claude Opus 4 as the lead agent and Claude Sonnet 4 subagents outperformed single-agent Claude Opus 4 by 90.2% on our internal research eval. For example, when asked to identify all the board members of the companies in the Information Technology S&amp;P 500, the multi-agent system found the correct answers by decomposing this into tasks for subagents, while the single agent system failed to find the answer with slow, sequential searches.</p>
+</blockquote>
+<p>As anyone who has spent time with Claude Code will already have noticed, the downside of this architecture is that it can burn <em>a lot</em> more tokens:</p>
+<blockquote>
+<p>There is a downside: in practice, these architectures burn through tokens fast. In our data, agents typically use about 4× more tokens than chat interactions, and multi-agent systems use about 15× more tokens than chats. For economic viability, multi-agent systems require tasks where the value of the task is high enough to pay for the increased performance. [...]</p>
+<p>We’ve found that multi-agent systems excel at valuable tasks that involve heavy parallelization, information that exceeds single context windows, and interfacing with numerous complex tools.</p>
+</blockquote>
+<p>The key benefit is all about managing that 200,000 token context limit. Each sub-task has its own separate context, allowing much larger volumes of content to be processed as part of the research task.</p>
+<p>Providing a "memory" mechanism is important as well:</p>
+<blockquote>
+<p>The LeadResearcher begins by thinking through the approach and saving its plan to Memory to persist the context, since if the context window exceeds 200,000 tokens it will be truncated and it is important to retain the plan.</p>
+</blockquote>
+<p>The rest of the article provides a detailed description of the prompt engineering process needed to build a truly effective system:</p>
+<blockquote>
+<p>Early agents made errors like spawning 50 subagents for simple queries, scouring the web endlessly for nonexistent sources, and distracting each other with excessive updates. Since each agent is steered by a prompt, prompt engineering was our primary lever for improving these behaviors. [...]</p>
+<p>In our system, the lead agent decomposes queries into subtasks and describes them to subagents. Each subagent needs an objective, an output format, guidance on the tools and sources to use, and clear task boundaries.</p>
+</blockquote>
+<p>They got good results from having special agents help optimize those crucial tool descriptions:</p>
+<blockquote>
+<p>We even created a tool-testing agent—when given a flawed MCP tool, it attempts to use the tool and then rewrites the tool description to avoid failures. By testing the tool dozens of times, this agent found key nuances and bugs. This process for improving tool ergonomics resulted in a 40% decrease in task completion time for future agents using the new description, because they were able to avoid most mistakes.</p>
+</blockquote>
+<p>Sub-agents can run in parallel which provides significant performance boosts:</p>
+<blockquote>
+<p>For speed, we introduced two kinds of parallelization: (1) the lead agent spins up 3-5 subagents in parallel rather than serially; (2) the subagents use 3+ tools in parallel. These changes cut research time by up to 90% for complex queries, allowing Research to do more work in minutes instead of hours while covering more information than other systems.</p>
+</blockquote>
+<p>There's also an extensive section about their approach to evals - they found that LLM-as-a-judge worked well for them, but human evaluation was essential as well:</p>
+<blockquote>
+<p>We often hear that AI developer teams delay creating evals because they believe that only large evals with hundreds of test cases are useful. However, it’s best to start with small-scale testing right away with a few examples, rather than delaying until you can build more thorough evals. [...]</p>
+<p>In our case, human testers noticed that our early agents consistently chose SEO-optimized content farms over authoritative but less highly-ranked sources like academic PDFs or personal blogs. Adding source quality heuristics to our prompts helped resolve this issue.</p>
+</blockquote>
+<p>There's so much useful, actionable advice in this piece. I haven't seen anything else about multi-agent system design that's anywhere near this practical.</p>
+<p>They even added <a href="https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents/prompts">some example prompts</a> from their Research system to their open source prompting cookbook. Here's <a href="https://github.com/anthropics/anthropic-cookbook/blob/46f21f95981e3633d7b1eac235351de4842cf9f0/patterns/agents/prompts/research_lead_agent.md?plain=1#L135-L137">the bit</a> that encourages parallel tool use:</p>
+<blockquote>
+<p><code>&lt;use_parallel_tool_calls&gt; For maximum efficiency, whenever you need to perform multiple independent operations, invoke all relevant tools simultaneously rather than sequentially. Call tools in parallel to run subagents at the same time. You MUST use parallel tool calls for creating multiple subagents (typically running 3 subagents at the same time) at the start of the research, unless it is a straightforward query. For all other queries, do any necessary quick initial planning or investigation yourself, then run multiple subagents in parallel. Leave any extensive tool calls to the subagents; instead, focus on running subagents in parallel efficiently. &lt;/use_parallel_tool_calls&gt;</code></p>
+</blockquote>
+<p>And an interesting description of <a href="https://github.com/anthropics/anthropic-cookbook/blob/46f21f95981e3633d7b1eac235351de4842cf9f0/patterns/agents/prompts/research_subagent.md?plain=1#L10">the OODA research loop</a> used by the sub-agents: </p>
+<blockquote>
+<p><code>Research loop: Execute an excellent OODA (observe, orient, decide, act) loop by (a) observing what information has been gathered so far, what still needs to be gathered to accomplish the task, and what tools are available currently; (b) orienting toward what tools and queries would be best to gather the needed information and updating beliefs based on what has been learned so far; (c) making an informed, well-reasoned decision to use a specific tool in a certain way; (d) acting to use this tool. Repeat this loop in an efficient way to research well and learn based on new results.</code></p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/evals">evals</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/ai-assisted-search">ai-assisted-search</a>, <a href="https://simonwillison.net/tags/paper-review">paper-review</a>, <a href="https://simonwillison.net/tags/agent-definitions">agent-definitions</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/14/multi-agent-research-system/#atom-everything>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-14, from: Robert's feed at BlueSky)
+
+Wonderful 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lrlv5nq4ps2x>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
+
+‘No Kings’ protests in Berkeley, Oakland. 
+
+<br> 
+
+<https://www.berkeleyside.org/2025/06/14/no-kings-berkeley-oakland>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
+
+FediForum Keynote: Cory Doctorow. 
+
+<br> 
+
+<https://m.youtube.com/watch?v=7_Gs1t0qe78>
+
+---
+
+## llm-fragments-youtube
+
+date: 2025-06-14, updated: 2025-06-14, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/redraw/llm-fragments-youtube">llm-fragments-youtube</a></strong></p>
+Excellent new <a href="https://llm.datasette.io/">LLM</a> plugin by Agustin Bacigalup which lets you use the subtitles of any YouTube video as a <a href="https://simonwillison.net/2025/Apr/7/long-context-llm/">fragment</a> for running prompts against.</p>
+<p>I tried it out like this:</p>
+<pre><code>llm install llm-fragments-youtube
+llm -f youtube:dQw4w9WgXcQ \
+  'summary of people and what they do'
+</code></pre>
+<p>Which returned (<a href="https://gist.github.com/simonw/6098f6e48981d84d1130f34566d0a116">full transcript</a>):</p>
+<blockquote>
+<p>The lyrics you've provided are from the song "Never Gonna Give You Up" by Rick Astley. The song features a narrator who is expressing unwavering love and commitment to another person. Here's a summary of the people involved and their roles:</p>
+<ul>
+<li>
+<p><strong>The Narrator (Singer):</strong> A person deeply in love, promising loyalty, honesty, and emotional support. They emphasize that they will never abandon, hurt, or deceive their partner.</p>
+</li>
+<li>
+<p><strong>The Partner (Implied Listener):</strong> The person the narrator is addressing, who is experiencing emotional pain or hesitation ("Your heart's been aching but you're too shy to say it"). The narrator is encouraging them to understand and trust in the commitment being offered.</p>
+</li>
+</ul>
+<p>In essence, the song portrays a one-sided but heartfelt pledge of love, with the narrator assuring their partner of their steadfast dedication.</p>
+</blockquote>
+<p>The plugin works by including <a href="https://github.com/yt-dlp/yt-dlp">yt-dlp</a> as a Python dependency and then executing it via a call to <code>subprocess.run()</code>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/youtube">youtube</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/14/llm-fragments-youtube/#atom-everything>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-14, from: Robert's feed at BlueSky)
+
+Lovely Farmer's Market and a delightfully large turn out for No Kings in my town. 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lrljx5ofvs2l>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
+
+Melissa Hortman and Another Minnesota Lawmaker Shot. 
+
+<br> 
+
+<https://nymag.com/intelligencer/article/minnesota-lawmakers-melissa-hortman-targeted-attack-updates.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
+
+Minnesota Democratic lawmaker shootings: Rep. Hortman killed, Sen. Hoffman shot and injured. 
+
+<br> 
+
+<https://www.mprnews.org/story/2025/06/14/northwest-metro-brooklyn-park-champlin-shootings-shelter-order>
+
+---
+
+## Quoting Google Cloud outage incident report
+
+date: 2025-06-14, updated: 2025-06-14, from: Simon Willison’s Weblog
+
+<blockquote cite="https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW"><p><em>Google Cloud, Google Workspace and Google Security Operations products experienced increased 503 errors in external API requests, impacting customers.</em> [...]</p>
+<p>On May 29, 2025, a new feature was added to Service Control for additional quota policy checks. This code change and binary release went through our region by region rollout, but the code path that failed was never exercised during this rollout due to needing a policy change that would trigger the code. [...] The issue with this change was that it did not have appropriate error handling nor was it feature flag protected. [...]</p>
+<p>On June 12, 2025 at ~10:45am PDT, a policy change was inserted into the regional Spanner tables that Service Control uses for policies. Given the global nature of quota management, this metadata was replicated globally within seconds. This policy data contained unintended blank fields. Service Control, then regionally exercised quota checks on policies in each regional datastore. This pulled in blank fields for this respective policy change and exercised the code path that hit the null pointer causing the binaries to go into a crash loop. This occurred globally given each regional deployment.</p></blockquote>
+<p class="cite">&mdash; <a href="https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW">Google Cloud outage incident report</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/feature-flags">feature-flags</a>, <a href="https://simonwillison.net/tags/postmortem">postmortem</a>, <a href="https://simonwillison.net/tags/google">google</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/14/google-cloud-outage-incident-report/#atom-everything>
+
+---
+
+## Media Diet
+
+date: 2025-06-14, from: Chris Coyier blog
+
+📺 WondLa — I was enamored by this story of a girl in a strange post-apoc world. Season 1 was a lot stronger than season 2, so despite the cliffhanger ending, I&#8217;m not holding my breath for a third. 🎥 Sinners — This was like three movies in one. A movie about family and community [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/06/14/media-diet-8/>
+
+---
+
+## Climate Change Warps Brains in the Womb, Scientists Discover
+
+date: 2025-06-14, from: 404 Media Group
+
+Scientists exhumed bald cypress trees that lived thousands of years ago and recorded climactic turmoil.   
+
+<br> 
+
+<https://www.404media.co/climate-change-warps-brains-in-the-womb-scientists-discover/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
+
+No Kings in Kingston, NY. 
+
+<br> 
+
+<https://www.mobilize.us/nokings/event/786080/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
+
+Major &#39;No Kings&#39; protests against Trump planned across US. 
+
+<br> 
+
+<https://apnews.com/article/no-kings-protest-trump-philadelphia-los-angeles-immigration-raids-a3b67d23733cd060f8d01aef1e391dbf>
+
+---
+
+## Play, Rhetoric, and the Circulation of J.D. Vance Photoshops
+
+date: 2025-06-14, from: Digital Humanities Quarterly News
+
+Memes present us with the familiar tension between individual texts and the fluid generic categories that bind them together. What is the “meme” when I Rickroll a friend: is it the friend’s arrival at the YouTube video of Rick Astley shimmying in a church, or is it the recognizable practice of concealing this link and [...]
+<p><a href="https://www.digitalrhetoriccollaborative.org/2025/06/14/play-rhetoric-and-the-circulation-of-j-d-vance-photoshops/" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://www.digitalrhetoriccollaborative.org/2025/06/14/play-rhetoric-and-the-circulation-of-j-d-vance-photoshops/>
+
+---
+
+## Global Inequality: Branko Milanovic
+
+date: 2025-06-14, from: Paul Krugman
+
+Talking with the guy down the hall 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/global-inequality-branko-milanovic>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
+
+The problem with vast wealth is that it’s useless. 
+
+<br> 
+
+<https://www.nytimes.com/2025/06/14/world/europe/venice-bezos-sanchez-wedding-amazon.html>
+
+---
+
+## the z80 technique reveals the source code for Atlassian's 'rovo' AI assistant
+
+date: 2025-06-14, from: Geoffrey Hunntley's blog
+
+<p>Ever wondered what happens if you take the technique at &quot;<a href="https://ghuntley.com/z80/">Can a LLM convert C, to ASM to specs and then to a working Z/80 Speccy tape? Yes.</a>&quot; and run it against the Atasslian Command Line (<a href="https://developer.atlassian.com/cloud/acli/guides/introduction/?ref=ghuntley.com">ACLI</a>) interface? Strap yourself in, as the Z80 is amongst one</p> 
+
+<br> 
+
+<https://ghuntley.com/atlassian-rovo-source-code/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-14, from: Feed for Alt USDS)
+
+Not all heroes carry signs.
+Some organize, some heal, some hold space.
+You don’t have to march to matter.
+
+Read our latest newsletter on how protest movements. Credit and special thanks to @deepaiyer.bsky.social and @hankgreen.bsky.social. 
+
+🛠️ https://bit.ly/More-Than-Marching 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lrjyvmp4xc2p>
+
+---
+
+## Saturday March
+
+date: 2025-06-14, from: Innessential (Brint Simmons' blog)
+
+<p>
+<p>Tomorrow is <a href="https://www.nokings.org/">No Kings</a>. There’s one near you!</p>
+
+<p>Chatting with my friends about how I hate these fascist assholes doesn’t do a damn thing. Protests work. (Imperfectly, sure, with no guarantees. But it sure beats <em>not</em> protesting.)</p> 
+
+<br> 
+
+<https://inessential.com/2025/06/13/saturday-march.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
+
+Rule #1: Interop is all that matters. 
+
+<br> 
+
+<https://this.how/standards/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-14, from: Feed for Alt USDS)
+
+This is worth paying attention to. Something we will need to account for in scenarios going forward. 
+
+Thanks for tipping us off, @altuscustoms.altgov.info
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lrjs6ie3mk2g>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
+
+Inside Mark Zuckerberg’s AI hiring spree. 
+
+<br> 
+
+<https://www.theverge.com/command-line-newsletter/687173/inside-mark-zuckerbergs-ai-hiring-spree>
+
+---
+
+## The Narrative
+
+date: 2025-06-14, updated: 2025-06-14, from: Tedium site
+
+Whether intentional or not, an attempt to paint Bluesky as one type of thing has taken hold in the press. A bad narrative is hard to shake, even if it’s unfair. As a user, don’t be afraid to push back. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17051355/bluesky-unfair-narrative>
+
+---
+
+## We're Still Underestimating What AI Really Means
+
+date: 2025-06-14, updated: 2025-06-14, from: Ryan Dahl's blog
+
+Most people are focused on short-term gains. Another tech wave, another startup to spin up. It's easy to frame AI as the next platform shift like mobile or VR.
+But that lens is much too narrow. 
+
+<br> 
+
+<https://tinyclouds.org/underestimating-ai>
+
+---
+
+## A2A Is For UI
+
+date: 2025-06-14, updated: 2025-06-14, from: Tom Kellog blog
+
+There’s a lot of skepticism around A2A, Google’s Agent-to-Agent protocol.
+A lot of that is well earned. I mean, they launched a protocol with zero implementations.
+But a lot’s changed, and it’s worth taking a look again. 
+
+<br> 
+
+<http://timkellogg.me/blog/2025/06/14/a2a>
 

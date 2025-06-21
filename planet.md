@@ -1,15 +1,51 @@
 ---
 title: planet
-updated: 2025-06-20 14:07:59
+updated: 2025-06-21 06:08:45
 ---
 
 # planet
 
-(date: 2025-06-20 14:07:59)
+(date: 2025-06-21 06:08:45)
 
 ---
 
-## British and Irish Lions v Argentina - updates
+## Billions of login credentials may have leaked. Here's how you can protect your accounts
+
+date: 2025-06-20, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.2729020.1490384456!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/computer-passwords.jpg' alt='' width='620' height='349' title='A strong password is long, contains letters, numbers and symbols, and doesn&apos;t contain any words from the dictionary.'/><p>A recent report by Cybernews claimed that 16 billion login credentials were exposed and compiled into datasets online, giving cybercriminals access to accounts for online platforms like Google, Apple and Facebook. While much is still unconfirmed about the leak, experts have some tips on how to keep your accounts protected.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/business/login-credentials-leak-password-protection-1.7567621?cmp=rss>
+
+---
+
+## Early Lions setback as Argentina claim win in Dublin
+
+date: 2025-06-20, from: RTÉ News
+
+The British and Irish Lions were beaten by Argentina for the first time as their tour to Australia encountered an early setback with a 28-24 loss in Dublin. 
+
+<br> 
+
+<https://www.rte.ie/sport/rugby/2025/0620/1519481-early-lions-setback-as-argentina-claim-win-in-dublin/>
+
+---
+
+## Teenager dies while swimming in River Nanny in Meath
+
+date: 2025-06-20, from: RTÉ News
+
+A body has been recovered after a swimmer was reported missing in Laytown, Co Meath, this evening. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0620/1519592-search-under-way-for-teenage-swimmer-off-meath-coast/>
+
+---
+
+## British and Irish Lions 24-28 Argentina - recap
 
 date: 2025-06-20, from: RTÉ News
 
@@ -18,6 +54,30 @@ Follow our minute by minute coverage as the British and Irish Lions take on Arge
 <br> 
 
 <https://www.rte.ie/sport/rugby/2025/0620/1519581-british-and-irish-lions-v-argentina-updates/>
+
+---
+
+## Judge halts Trump's attempt to keep international students from Harvard
+
+date: 2025-06-20, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7567400.1750453129!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='A man in a blue suit and red baseball cap is pictured.' width='620' height='349' title='U.S. President Donald Trump speaks with reporters upon arriving at Morristown Municipal Airport in Morristown, N.J., on June 20, 2025.'/><p>A federal judge on Friday blocked the Trump administration’s efforts to keep Harvard University from hosting international students, delivering the Ivy League school another victory as it challenges multiple government sanctions amid a battle with the White House.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-harvard-foreign-students-order-1.7567393?cmp=rss>
+
+---
+
+## Nurses in First Nations communities overlooked in N.B. nursing retention bonus
+
+date: 2025-06-20, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6895529.1744828811!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/generic-nurse-doctor-photo.jpg' alt='Closeup of a person in scrubs wearing a stethoscope.' width='620' height='349' title='Registered psychiatric nurses cannot practice in jurisdictions like the Maritimes where they are not regulated.'/><p>Susan Holt's government kept a campaign promise to deliver thousands in bonus retention incentives to nurses in New Brunswick. A Wolastoqey nurse in New Brunswick is bringing attention to the lack of these retention incentives for nurses working in First Nations communities in the province.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/first-nations-nurses-retention-payment-1.7567283?cmp=rss>
 
 ---
 
@@ -45,12 +105,12 @@ The Irish embassy in Tehran has temporarily closed in light of escalating clashe
 
 ---
 
-## Pope Leo approves decrees for more than 170 martyrs
+## Pope Leo XIV approves decrees for more than 170 martyrs
 
 date: 2025-06-20, from: Vatican News
 
 
-                    <p>The Pope authorizes several decrees including a Spanish diocesan priest, more than 100 martyrs, a seminrian, and four servants of God.</p>
+                    <p>Pope Leo XIV authorizes several decrees, including a Spanish diocesan priest, more than 100 martyrs, a seminarian, and four servants of God.</p>
                     <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/pope-leo-approves-decrees-for-more-than-170-martyrs.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -73,11 +133,11 @@ Sean 'Diddy' Combs's former personal assistant has testified at the hip-hop mogu
 
 ---
 
-## Mahmoud Khalil 'not a danger to the community,' says U.S. judge in ordering release of student protester
+## Palestinian activist Mahmoud Khalil released from U.S. immigration detention
 
 date: 2025-06-20, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7567236.1750447227!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-columbia-khalil.JPG' alt='People hold signs that say release mahmoud khalil' width='620' height='349' title='DHS police officers stand guard as protesters take part in a rally organized by Jewish activists against the detention by ICE agents of Palestinian activist and Columbia University graduate student Mahmoud Khalil in New York City, U.S., March 20, 2025.  '/><p>A federal judge on Friday ordered the U.S. government to free former Columbia University graduate student Mahmoud Khalil from the immigration detention centre where he's been held since early March while the Trump administration sought to deport him over his role in pro-Palestinian protests.</p> 
+<img src='https://i.cbc.ca/1.7567666.1750464988!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/us-campus-protests-mahmoud-khalil.jpg' alt='People speak while being interviewed.' width='620' height='349' title='Palestinian activist Mahmoud Khalil, center, speaks after his release from federal immigration detention in Jena, La., Friday, June 20, 2025. (AP Photo/Matthew Hinton)'/><p>A federal judge on Friday ordered the U.S. government to free former Columbia University graduate student Mahmoud Khalil from the immigration detention centre where he's been held since early March while the Trump administration sought to deport him over his role in pro-Palestinian protests.</p> 
 
 <br> 
 
@@ -141,7 +201,7 @@ A 10% increase to minimum rates of pay has been proposed for early years educato
 date: 2025-06-20, from: Vatican News
 
 
-                    <p>The Editorial Directorate of the Dicastery for Communication presents the documentary, “León de Perú”, featuring footage that retraces the mission of Robert Francis Prevost in Peru.</p>
+                    <p>The Editorial Directorate of the Dicastery for Communication presents the documentary, “León de Perú”, featuring footage that retraces the mission of Robert Francis Prevost in Peru before he became Pope Leo XIV.</p>
                     <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/watch-the-vatican-media-documentary-leon-de-peru.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -197,6 +257,35 @@ A supermarket has been cleared of discriminating against two children who were a
 <br> 
 
 <https://www.rte.ie/news/business/2025/0620/1519549-shop-cleared-of-discrimination-over-68-payment-in-coins/>
+
+---
+
+## To die of hope: remembering those who died in the quest for a better life
+
+date: 2025-06-20, from: Vatican News
+
+
+                    <p>On the eve of World Refugee Day the Sant’Egidio community holds its annual prayer vigil in memory of all those who lost their lives on their journey to Europe.
+</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/a-prayer-for-those-who-have-lost-their-lives-searching-for-hope.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/a-prayer-for-those-who-have-lost-their-lives-searching-for-hope.html>
+
+---
+
+## Mercury poisoning in Peru's Amazon found in nearly 80 per cent of villagers in recent study
+
+date: 2025-06-20, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7567004.1750440088!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/global-environment-mercury-wildlife.JPG' alt='A large brown river is seen in an aerial shot that includes swathes of trees on either side of the riverbank. On one side of the riverbank, some sort of camp pockmarked with piles of dirt and sinkholes with water in them is visible. ' width='620' height='349' title='A camp of informal gold miners is pictured in Los Amigos, in the Madre de Dios region, Peru May 22, 2023. '/><p>Indigenous and riverine communities in the Loreto region of the Peruvian Amazon have "chronic exposure" to mercury, according to a new study — and experts say the biggest culprit is gold mining in the region. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/mercury-poisoning-gold-mining-1.7566978?cmp=rss>
 
 ---
 
@@ -308,7 +397,7 @@ The world stands on the edge of catastrophe, United Nations Secretary-General An
 
 ---
 
-## UN Peace Building Commission ‘more needed than ever’ amid rising conflict
+## UN Peacebuilding Commission ‘more needed than ever’ amid rising conflict
 
 date: 2025-06-20, from: United Nations, UN Affairs
 
@@ -353,6 +442,18 @@ Although record numbers of people – over 122 million worldwide – have been u
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/06/1164671>
+
+---
+
+## Ukraine: Security Council hears of escalating attacks, diplomatic developments
+
+date: 2025-06-20, from: United Nations, Top Stories
+
+The UN Security Council met on Friday to discuss the situation in Ukraine, where intensified fighting continues, affecting new areas and prompting further displacement.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164726>
 
 ---
 
@@ -584,7 +685,7 @@ date: 2025-06-20, from: CBC, World News
 
 ---
 
-## Europe won't be much help on Iran-Israel war - Trump
+## As it happened: Several nations close embassies in Iran
 
 date: 2025-06-20, from: RTÉ News
 
@@ -656,7 +757,7 @@ date: 2025-06-20, from: CBC, Indigenious News
 
 ---
 
-## Review find Israel 'in breach' of trade agreement with EU
+## Review finds Israel 'in breach' of EU trade agreement
 
 date: 2025-06-20, from: RTÉ News
 
@@ -1214,6 +1315,18 @@ date: 2025-06-19, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/pope/news/2025-06/leo-xiv-visits-vatican-radio-transmission-center-outside-of-rome.html>
+
+---
+
+## Short border, long history: Storied Tipp-Galway rivalry
+
+date: 2025-06-19, from: RTÉ News
+
+Galway have had the upper hand in recent years, but history teaches us that Tipperary-Galway encounters are hard fought and harder to predict. 
+
+<br> 
+
+<https://www.rte.ie/sport/hurling/2025/0619/1519347-short-border-long-history-storied-tipp-galway-rivalry/>
 
 ---
 
@@ -2669,18 +2782,6 @@ Taoiseach Micheál Martin has said he has "no issue" with "larger fines" being l
 <br> 
 
 <https://www.rte.ie/news/politics/2025/0618/1519016-hiqa-health-committee/>
-
----
-
-## Fiddling and jigging: 2 inseparable Indigenous traditions that run in families
-
-date: 2025-06-18, from: CBC, Indigenious News
-
-<img src='https://i.cbc.ca/1.7557273.1749575698!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/brianna-lizotte.jpg' alt='A woman wearing glasses and holding a fiddle.' width='620' height='349' title='Brianna Lizotte is a Métis fiddle player from Alberta whose most recent album was nominated for a Juno award. '/><p>Fiddling is synonymous with Métis music, and has been part of Métis, First Nations and Inuit culture since the Europeans brought the instrument to North America. Fiddling and jigging go together, and many people say you can't have one without the other.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/indigenous/fiddling-jigging-music-resonate-1.7557182?cmp=rss>
 
 ---
 
@@ -5051,4 +5152,540 @@ date: 2025-06-15, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/player/play/9.6795338?cmp=rss>
+
+---
+
+## Scott and Hovland loom as stars fail to fire at Oakmont
+
+date: 2025-06-14, from: RTÉ News
+
+Adam Scott put himself in prime position to collect his second major championship title with a back-nine charge for the ages to leave himself one shot adrift of Sam Burns ahead of the final round at the US Open. 
+
+<br> 
+
+<https://www.rte.ie/sport/golf/2025/0615/1518520-scott-and-hovland-loom-as-stars-fail-to-fire-at-oakmont/>
+
+---
+
+## Iran launches fresh air strikes on Israel
+
+date: 2025-06-14, from: RTÉ News
+
+Israeli emergency services say three people were killed and 74 wounded following Iran's latest missile strikes. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0615/1518516-iran-israel/>
+
+---
+
+## Trump basks in military parade as protests sweep US
+
+date: 2025-06-14, from: RTÉ News
+
+US President Donald Trump's long-sought military parade rolled though the streets of downtown Washington, but the celebration of the US Army's 250th anniversary was marred by a day of violence and protest. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0615/1518518-trump-parade-us/>
+
+---
+
+## From sitcoms to sagas - TV's top dads
+
+date: 2025-06-14, from: RTÉ News
+
+From grumpy sofa kings to emotionally complex crime lords, TV dads come in all shapes and sweater vests. They've made us laugh, cry, cringe and occasionally pick up the phone to call our own da. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0615/1518321-from-sitcoms-to-sagas-tvs-top-dads/>
+
+---
+
+## Military parade barrels through Washington with tanks, troops and 21-gun salute
+
+date: 2025-06-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7561710.1749946132!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-trump-military-parade.jpg' alt='Two army soldiers cheer.' width='620' height='349' title='Army soldiers cheer as President Donald Trump watches as he attends a military parade commemorating the Army&apos;s 250th anniversary, coinciding with his 79th birthday, Saturday, June 14, 2025, in Washington. (AP Photo/Julia Demaree Nikhinson)'/><p>The grand military parade that President Donald Trump had been wanting for years barrelled down Constitution Avenue on Saturday with tanks, troops and a 21-gun salute, playing out against the counterpoint of protests across the country by those who decried the U.S. leader as a dictator and would-be king.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/washington-military-parade-1.7561699?cmp=rss>
+
+---
+
+## Pope Leo to young people: Be agents of peace in a divided world
+
+date: 2025-06-14, from: Vatican News
+
+
+                    <p>Pope Leo XIV addresses young people gathered in his hometown – Chicago – and urges them to build community, embrace God’s love, and become “beacons of hope” in today’s world. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-video-message-chicago-young-people-hope-peace.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-video-message-chicago-young-people-hope-peace.html>
+
+---
+
+## Archaeologists find human remains at Limerick Gaol site
+
+date: 2025-06-14, from: RTÉ News
+
+Human remains believed to date from the 19th century have been uncovered by archaeologists on the site of the old Limerick jail near King John's Castle in Limerick city. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0614/1518503-limerick-skeletal-remains/>
+
+---
+
+## Leinster power past Bulls to end trophy drought
+
+date: 2025-06-14, from: RTÉ News
+
+Leinster have their hands on silverware. A four-year drought – by their standards at least – has finally come to an end, as they crushed the Bulls 32-7 in front of 46,127 people at Croke Park. 
+
+<br> 
+
+<https://www.rte.ie/sport/united-rugby-championship/2025/0614/1518493-leinster-power-past-bulls-to-end-trophy-drought/>
+
+---
+
+## The risk of global conflict
+
+date: 2025-06-14, from: Vatican News
+
+
+                    <p>Amid the escalation of hostilities between Iran and Israel, the possibility of a spillover of war beyond regional borders raises fears of disastrous consequences.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/risk-global-conflict-iran-israel-escalation-cetera.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/risk-global-conflict-iran-israel-escalation-cetera.html>
+
+---
+
+## Jubilee of Sport: ‘I can do all things through Christ who gives me strength’
+
+date: 2025-06-14, from: Vatican News
+
+
+                    <p>Amid the ongoing Jubilee of Sport, Father Chase Hilgenbrinck, a former professional football player, reflects on the positive values that sport offers as well as the fact that it can be a source of resilience and fraternity.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/jubilee-sport-interview-fr-chase-hilgenbrink-football-values.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/jubilee-sport-interview-fr-chase-hilgenbrink-football-values.html>
+
+---
+
+## As it happened: Manhunt in US after politician killed
+
+date: 2025-06-14, from: RTÉ News
+
+Look back on live updates after a gunman in Minnesota shot two Democratic state politicians, killing one and her husband and wounding the other, in what officials said were targeted attacks. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0614/1518489-minnesota-shooting/>
+
+---
+
+## Trump protests sweep across U.S. ahead of Saturday's military parade
+
+date: 2025-06-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7561691.1749942627!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-protest-new-york.JPG' alt='A protest in the streets.' width='620' height='349' title='Demonstrators hold up signs as they march on the streets during the &quot;No Kings Day&quot; protest against U.S. President Donald Trump&apos;s policies, in New York City, U.S., June 14, 2025.  REUTERS/Eduardo Munoz'/><p>Demonstrators crowded into streets, parks and plazas across the U.S. on Saturday to rally against President Donald Trump as officials urged calm and mobilized National Guard troops ahead of a military parade to mark the army's 250th anniversary, which coincides with Trump's birthday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/no-kings-protests-1.7561546?cmp=rss>
+
+---
+
+## Manhunt in Minnesota after Democratic politician killed
+
+date: 2025-06-14, from: RTÉ News
+
+A gunman posing as a police officer killed a senior Democratic state assemblywoman and her husband in an apparent "politically motivated assassination," and wounded a second politician and his spouse, said Minnesota Governor Tim Walz and law enforcement officials. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0614/1518487-minnesota-shooting/>
+
+---
+
+## NI 'petrol bomb away' from a racist murder, rally hears
+
+date: 2025-06-14, from: RTÉ News
+
+Northern Ireland is just "one petrol bomb away" from a racist murder, a rally in the centre of Belfast has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0614/1518471-ballymena-disorder/>
+
+---
+
+## Canadians urged to 'avoid all travel' to Israel amid escalating hostilities with Iran
+
+date: 2025-06-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7561518.1749917253!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/cda-iran-israel.jpg' alt='People stand amid destroyed buildings and cars' width='620' height='349' title='Israeli security forces inspect the site of homes destroyed by a missile fired from Iran, in Rishon Lezion, Israel, on Saturday, June 14, 2025. '/><p>The federal government is urging Canadians to "avoid all travel" to Israel as the country exchanges missile and air strikes with Iran.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/canada-travel-warning-israel-1.7561501?cmp=rss>
+
+---
+
+## Gibson-Park ruled out for Leinster's URC final v Bulls
+
+date: 2025-06-14, from: RTÉ News
+
+Leinster's hopes of a BKT United Rugby Championship success at Croke Park this afternoon have been hit by the forced withdrawal of Jamison Gibson-Park. 
+
+<br> 
+
+<https://www.rte.ie/sport/rugby/2025/0614/1518457-gibson-park-ruled-out-for-leinster/>
+
+---
+
+## Police in Minnesota searching for suspect in 'politically motivated assassination'
+
+date: 2025-06-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7561615.1749934051!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/minnesota-lawmakers-shot.jpg' alt='A person speaks at a lectern.' width='620' height='349' title='FILE - Speaker of the House Melissa Hortman addresses the house floor after being re-elected for her third term during the first day of the 2023 legislative session, Tuesday, Jan. 3, 2023, in St. Paul, Minn. (AP Photo/Abbie Parr, File)'/><p>Hundreds of law enforcement officers fanned out across a Minneapolis suburb on Saturday in pursuit of a man who authorities say posed as a police officer and fatally shot a Democratic state lawmaker in her home and wounded a second lawmaker.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/minnesota-lawmakers-shot-1.7561491?cmp=rss>
+
+---
+
+## Israel-Iran conflict: What we know
+
+date: 2025-06-14, from: RTÉ News
+
+International calls for Israeli and Iranian restraint are multiplying, as fears grow the Middle East could be on the threshold of a broader conflict. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0614/1518455-iran-israel-explainer/>
+
+---
+
+## Lowry laments 'weird couple of days' at US Open
+
+date: 2025-06-14, from: RTÉ News
+
+Shane Lowry summed up his US Open experience as a "weird" couple of days after missing the cut by a wide margin at a punishing Oakmont course. 
+
+<br> 
+
+<https://www.rte.ie/sport/golf/2025/0614/1518445-lowry-laments-weird-couple-of-days-at-us-open/>
+
+---
+
+## Israeli fire kills 45 people in Gaza, say medics
+
+date: 2025-06-14, from: RTÉ News
+
+Israeli firing and airstrikes have killed at least 45 Palestinians across Gaza, many of them near an aid distribution site operated by the US-backed Gaza Humanitarian Foundation, local health authorities have said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0614/1518454-israel-gaza/>
+
+---
+
+## Pope appeals for 'responsibility and reason' in Iran-Israel escalation
+
+date: 2025-06-14, from: Vatican News
+
+
+                    <p>Pope Leo XIV decries the military escalation between Iran and Israel and renews his appeal for dialogue and the pursuit of a world free from the nuclear threat.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-appeal-iran-israel-escalation-dialogue-nuclear-thre.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-appeal-iran-israel-escalation-dialogue-nuclear-thre.html>
+
+---
+
+## Durcan's return puts Mayo back on the front foot
+
+date: 2025-06-14, from: RTÉ News
+
+After making his long-awaited return in Mayo's victory in Omagh last time out, Eamon Donoghue pinpoints just how much of an impact Paddy Durcan already has had on the Connacht outfit. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0614/1518451-durcans-return-puts-mayo-back-on-the-front-foot/>
+
+---
+
+## Tales from Reliable Sources—Again
+
+date: 2025-06-14, from: Vatican Obervatory
+
+Have you seen the Smithsonian Atlas of Space? It’s a nice-looking new book that repeats tales that have been going around since the nineteenth century. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/tales-from-reliable-sources-again/>
+
+---
+
+## Murphy calls on Harris to 'put pressure' on Egyptian govt
+
+date: 2025-06-14, from: RTÉ News
+
+People before Profit TD Paul Murphy has called on Tánaiste Simon Harris to put pressure on the Egyptian government to allow the 'Global March to Gaza' to reach Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0614/1518447-ireland-egypt/>
+
+---
+
+## In L.A., some of those most connected to anti-immigration raids are on the protest sidelines
+
+date: 2025-06-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7561655.1749936778!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-migration-protest-los-angeles.JPG' alt='A protesters holds up an upside down U.S. flag in front of a federal building.' width='620' height='349' title='A person waves a U.S. flag upside down during a protest against federal immigration sweeps, in Los Angeles, California, U.S., June 14, 2025.  REUTERS/Pilar Olivares     TPX IMAGES OF THE DAY'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/los-angeles-protests-immigration-raids-no-kings-day-trump-1.7561652?cmp=rss>
+
+---
+
+## Ireland's Down syndrome futsal team eyeing European glory
+
+date: 2025-06-14, from: RTÉ News
+
+Ireland's first national Down syndrome futsal team will depart for the SUDS European Championships in Italy tomorrow. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0614/1518423-ireland-down-syndrome-futsal/>
+
+---
+
+## More than ever at the top of our game, speed is king
+
+date: 2025-06-14, from: RTÉ News
+
+We can all want every player to have a chance, but, when it comes to the top, maybe more than it ever was, speed is king, writes Enda McGinley. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0614/1518413-more-than-ever-at-the-top-of-the-game-speed-is-king/>
+
+---
+
+## What was the result of the UN Ocean Conference?
+
+date: 2025-06-14, from: RTÉ News
+
+The third United Nations Ocean Conference drew to a close in Nice yesterday following five days of high-level meetings between governments, experts, climate campaigners and community representatives. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0614/1518417-oceans-conference/>
+
+---
+
+## Pope Leo welcomes athletes to Vatican for Jubilee of Sport
+
+date: 2025-06-14, from: Vatican News
+
+
+                    <p>Pope Leo XIV continues his predecessor’s Saturday Jubilee audiences, focusing on St Irenaeus as a witness of hope as he welcomes athletes to St Peter’s Basilica for the Jubilee of Sport.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-welcomes-athletes-to-vatican-for-jubilee-of-sport.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-welcomes-athletes-to-vatican-for-jubilee-of-sport.html>
+
+---
+
+## Search teams scour Air India plane crash site as death toll rises to 270, relatives press for answers
+
+date: 2025-06-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7561472.1749902878!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/india-plane-crash.jpg' alt='Plane nose' width='620' height='349' title='A crane lifts the tail of the Air India plane, which crashed on Thursday, from the roof of a building in Ahmedabad, India, Saturday, June 14, 2025. (AP Photo/Ajit Solanki)'/><p>Search and recovery teams continued scouring the site of one of India's worst aviation disasters on Saturday, three days after an Air India plane bound for London fell crashed and killed at least 270 people in Gujarat state.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/air-india-plane-crash-survivor-1.7561465?cmp=rss>
+
+---
+
+## Death toll after Air India crash raised to 270
+
+date: 2025-06-14, from: RTÉ News
+
+The death toll in the deadly Air India plane crash rose to 270, with families increasingly getting upset due to delays in handing over the bodies of those killed in the tragedy in the western Indian city of Ahmedabad. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0614/1518415-air-india-crash/>
+
+---
+
+## Safeguarding concerns in the spotlight after RTÉ exposé
+
+date: 2025-06-14, from: RTÉ News
+
+For years, concerns have centred around safeguarding in nursing homes, writes Social Affairs Correspondent Ailbhe Conneely. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0614/1518390-safeguarding-nursing-homes/>
+
+---
+
+## Israel tells public to take shelter as strikes continue
+
+date: 2025-06-14, from: RTÉ News
+
+Follow developments in the Middle East as Iran and Israel traded missiles and airstrikes. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0614/1518410-middle-east-blog/>
+
+---
+
+## Thousands join US protests ahead of Trump's army rally
+
+date: 2025-06-14, from: RTÉ News
+
+US Marines deployed to Los Angeles have made their first detention of a civilian, part of a rare use of military force to support domestic police and coming ahead of national protests over President Donald Trump's military parade in Washington. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0614/1518409-us-protests/>
+
+---
+
+## Israel warns 'Tehran will burn' if Iran keeps up retaliatory strikes
+
+date: 2025-06-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7561639.1749935033!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/iran-nuclear-israel.JPG' alt='An emergency responder walks amid the rubble and past a destroyed car.' width='620' height='349' title='A rescue personnel walks next to a damaged vehicle at an impact site following missile attack from Iran on Israel, in Ramat Gan, Israel, June 14, 2025. REUTERS/Ronen Zvulun     TPX IMAGES OF THE DAY'/><p>Both Israel's military and Iran state television announced the latest round of missiles as explosions were heard overhead in parts of Israel, including Tel Aviv, less than an hour before midnight.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/iran-israel-missile-strikes-retaliation-1.7561455?cmp=rss>
+
+---
+
+## Did Ireland's 'bad bank' NAMA work?
+
+date: 2025-06-14, from: RTÉ News
+
+At the height of the financial crisis in 2009 Ireland set up the National Asset Management Agency, better known as NAMA. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0614/1518325-nama-analysis/>
+
+---
+
+## Watch: The psychology behind fast fashion shopping
+
+date: 2025-06-14, from: RTÉ News
+
+Why are so many of us addicted to fast fashion shopping, even though we know it's bad for the environment and for fast fashion factory workers? 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0614/1518147-fast-fashion-psychology/>
+
+---
+
+## Nunavut bodybuilder winning medals and hoping to lift Inuit in the process
+
+date: 2025-06-14, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7559950.1749761670!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/diane-marin-and-mom.jpg' alt='Two women, a mother and daughter, stand next to each other. The mother holds up two trophies ' width='620' height='349' title='Rachel Aliyak holds up her daughter&apos;s trophies at her bodybuilding competition in Red Deer, Alta earlier this month. '/><p>From a young age, the Diane Marin competed in sports in high school and university before finding bodybuilding in her late twenties. She said she hopes other young Inuit get excited about working out and living a healthy lifestyle. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/diane-marin-nunavut-bodybuilder-1.7559546?cmp=rss>
+
+---
+
+## EU and US sanctions on Russia: Timing is everything
+
+date: 2025-06-14, from: RTÉ News
+
+As G7 leaders converge on Kananaskis in the Canadian Rockies this weekend, the prospect of decisively tougher sanctions on Russia will loom large. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0614/1518384-eu-us-russia-sanctions/>
+
+---
+
+## TikTok Boom: The rise and reign of viral dance trends
+
+date: 2025-06-14, from: RTÉ News
+
+TikTok hasn't just reshaped social media; it's rewritten the rules of cultural fame. With a tap and a twist, a bedroom video can go global. Sarah McIntyre and Laura Delaney ask: What does it really take to go viral in 2025? 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0614/1517825-tiktok-boom-the-rise-and-reign-of-viral-dance-trends/>
+
+---
+
+## At least 10 dead, several missing in flooding in Texas
+
+date: 2025-06-14, from: RTÉ News
+
+At least ten people are dead following flooding from heavy rains in Texas, officials reported, with several more people reported missing. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0614/1518405-texas-flooding/>
+
+---
+
+## US Steel, Nippon Steel partnership deal approved
+
+date: 2025-06-14, from: RTÉ News
+
+US President Donald Trump signed an executive order approving a partnership between US Steel and Nippon Steel after the companies reached agreement on US national security guarantees. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0614/1518404-us-trade/>
+
+---
+
+## Israel says strikes 'nothing' compared to what is coming
+
+date: 2025-06-14, from: RTÉ News
+
+Iran and Israel have traded missiles and airstrikes, the day after Israel launched a sweeping air offensive against its old enemy, killing commanders and scientists and bombing nuclear sites in a stated bid to stop it building an atomic weapon. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0614/1518401-iran-israel/>
 
