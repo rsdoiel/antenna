@@ -1,11 +1,40 @@
 ---
 title: home
-updated: 2025-06-22 06:08:22
+updated: 2025-06-22 14:09:01
 ---
 
 # home
 
-(date: 2025-06-22 06:08:22)
+(date: 2025-06-22 14:09:01)
+
+---
+
+## Cactus Going Soft: 5 Reasons and Fixes
+
+date: 2025-06-22, from: The Gardener's Path
+
+<p>Cacti are appreciated for their easy-care nature, excellent drought tolerance, and unique appearance. And if they have problems such as mushy pads or stems, it’s usually down to a few common issues. To keep your plants strong and healthy, learn why your cactus is going soft and what to do in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/cactus-soft/">Cactus Going Soft: 5 Reasons and Fixes</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/cactus-soft/>
+
+---
+
+## 6 Squirrels in Florida (With Pictures and Identification)
+
+date: 2025-06-22, from: Yard Life blog
+
+<p>Squirrels in Florida play an important role in the state’s rich and varied wildlife. These quick and curious animals can ... </p>
+<p class="read-more-container"><a title="6 Squirrels in Florida (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/6-squirrels-in-florida-with-pictures-and-identification/#more-30892" aria-label="Read more about 6 Squirrels in Florida (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/6-squirrels-in-florida-with-pictures-and-identification/">6 Squirrels in Florida (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/6-squirrels-in-florida-with-pictures-and-identification/>
 
 ---
 

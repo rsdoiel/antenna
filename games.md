@@ -1,11 +1,35 @@
 ---
 title: games
-updated: 2025-06-22 06:08:20
+updated: 2025-06-22 14:09:00
 ---
 
 # games
 
-(date: 2025-06-22 06:08:20)
+(date: 2025-06-22 14:09:00)
+
+---
+
+## I can&#8217;t stop playing The Alters even though it&#8217;s stressing me out
+
+date: 2025-06-22, updated: 2025-06-20, from: Polygon Website
+
+Three days is all I had until Jan, Jan, Jan, and Jan burned to a crisp.&#160; I awoke and went to the elevator where Jan Miner passed by muttering something about the “fucked-up world we live it.” Agreed. I noticed an “Alter Rebellion” brewing on my tasks list. Great. I went down to the kitchen [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/608350/alters-review-11-bit-studios>
+
+---
+
+## Eagerly awaited Ranma 1/2 season 2 trailer reveals premiere date, new characters
+
+date: 2025-06-22, updated: 2025-06-22, from: Polygon Website
+
+The latest trailer of Ranma ½ Season 2 not only confirms that the new season will premiere in October 2025, but also introduces new characters like Mousse and Ukyo Kuonji, who are joining the cast in the upcoming season of the show. Adapted by studio MAPPA and published by Netflix, the new season will also [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/608405/ranma-1-2-season-2-trailer-premiere-date-new-characters>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2025-06-22 06:08:16
+updated: 2025-06-22 14:08:56
 ---
 
 # ham radio
 
-(date: 2025-06-22 06:08:16)
+(date: 2025-06-22 14:08:56)
+
+---
+
+## Local, County, and State Governments Proclaim Value of Amateur Radio
+
+date: 2025-06-22, from: Amateur Radio Relay League News
+
+<p>The Amateur Radio Service is of great value to communities around the nation. Through served agencies, the trained corps of technical and civic-minded operators provide a no-cost service to the public that has shown to be valuable before and When All Else Fails®.</p><p>The 2025 hurricane season has been forecast to be above normal by the National Oceanic and Atmospheric Administration (NOAA). As we sa...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/local-county-and-state-governments-proclaim-value-of-amateur-radio>
 
 ---
 

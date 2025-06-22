@@ -1,11 +1,11 @@
 ---
 title: food
-updated: 2025-06-22 06:08:25
+updated: 2025-06-22 14:09:03
 ---
 
 # food
 
-(date: 2025-06-22 06:08:25)
+(date: 2025-06-22 14:09:03)
 
 ---
 
@@ -18,6 +18,22 @@ date: 2025-06-22, from: The Sprudge
 <br> 
 
 <https://sprudge.com/its-pinky-pinky-and-bourbon-bon-bon-bon-bon-349043.html>
+
+---
+
+## Summer Recipes
+
+date: 2025-06-22, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2017/07/Summer-Recipes.jpg"/></div>
+<p>The best recipes for summer! Quick and easy recipes to enjoy summer produce, outdoor eating and recipes to help you keep cool! The first day of Summer was June 20 and I have thinking about all of my favourite summer recipes! Summer has to be the best time of the year as it&#8217;s just packed...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/50-summer-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/50-summer-recipes/">Summer Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/50-summer-recipes/>
 
 ---
 

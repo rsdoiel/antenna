@@ -1,11 +1,59 @@
 ---
 title: north america
-updated: 2025-06-22 06:08:15
+updated: 2025-06-22 14:08:55
 ---
 
 # north america
 
-(date: 2025-06-22 06:08:15)
+(date: 2025-06-22 14:08:55)
+
+---
+
+##  Can Trump’s War Be Stopped? 
+
+date: 2025-06-22, from: The Lever News
+
+ Inside the effort to block the president from getting the United States involved in yet another Middle East war.  
+
+<br> 
+
+<https://www.levernews.com/can-trumps-war-be-stopped/>
+
+---
+
+## America hit Iran’s nuclear core. Now what?
+
+date: 2025-06-22, from: The Contrarian
+
+Trump owns the consequences of crossing a line his predecessors avoided&#8212;and the obligations that follow. 
+
+<br> 
+
+<https://contrarian.substack.com/p/america-hit-irans-nuclear-core-now>
+
+---
+
+## Trump's National Insecurity and What We Can Do About It
+
+date: 2025-06-22, from: The Contrarian
+
+The Unconstitutional Iran Strike and Beyond&#8211;Publisher&#8217;s Roundup 23 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-national-insecurity-and-what>
+
+---
+
+##  LEVER WEEKLY: Sun’s Out, Lies Out 
+
+date: 2025-06-22, from: The Lever News
+
+ Trump’s energy czar’s questionable solar career, investing in Israel’s wars, and more from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/lever-weekly-suns-out-lies-out/>
 
 ---
 

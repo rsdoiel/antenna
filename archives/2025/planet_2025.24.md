@@ -1,11 +1,135 @@
 ---
 title: planet
-updated: 2025-06-22 06:08:13
+updated: 2025-06-22 14:08:54
 ---
 
 # planet
 
-(date: 2025-06-22 06:08:13)
+(date: 2025-06-22 14:08:54)
+
+---
+
+## Pope at Corpus Christi Mass: We are called to share our bread, proclaim God's Kingdom
+
+date: 2025-06-22, from: Vatican News
+
+
+                    <p>At Rome's Cathedral Basilica of Saint John Lateran, Pope Leo XIV presides at Mass on the Solemnity of the Most Holy Body and Blood of Christ, followed by the traditional Eucharistic procession to Saint Mary Major.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-on-corpus-christi-we-are-called-to-share-our-bread.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-on-corpus-christi-we-are-called-to-share-our-bread.html>
+
+---
+
+## As airstrikes intensify, Iranians are flocking to the borders
+
+date: 2025-06-22, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7568079.1750608255!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/turkishborder.JPG' alt='An adult holds a young child in her arms in front of luggage and a white van. ' width='620' height='349' title='Families are seen with their luggage at the Turkish border after fleeing Iran.'/><p>Some Iranians are fleeing the country to escape the attacks, while others are trying to enter Iran to reunite with their families, after days of internet blackouts made it impossible to contact them.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/as-airstrikes-intensify-iranians-are-flocking-to-the-borders-1.7568034?cmp=rss>
+
+---
+
+## Israel says remains of 3 more hostages recovered, as refugee camp in Gaza struck
+
+date: 2025-06-22, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7568108.1750612965!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-israel-palestinians.jpg' alt='A tent encampment is seen amid the rubble of a destroyed city.' width='620' height='349' title='A tent camp for displaced Palestinians stretches among the ruins of buildings destroyed by Israeli bombardments in west of Gaza City, Saturday, June 21, 2025. (AP Photo/Jehad Alshrafi)'/><p>Four people were killed on Sunday in an airstrike in the Nuseirat refugee camp in central Gaza, according to Al-Awda Hospital, where the bodies were brought. It said another 22 people were wounded while waiting for aid trucks.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/israel-hamas-gaza-war-1.7568104?cmp=rss>
+
+---
+
+## Man charged over attack on Belfast Islamic Centre
+
+date: 2025-06-22, from: RTÉ News
+
+A 34-year-old man has been charged in connection with an attack on the Belfast Islamic Centre. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0622/1519760-belfast-islamic-centre/>
+
+---
+
+## Duff makes shock exit from Shelbourne
+
+date: 2025-06-22, from: RTÉ News
+
+Manager Damien Duff has departed Premier Division champions Shelbourne. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0622/1519759-duff-makes-shock-exit-from-shelbourne/>
+
+---
+
+## Thousands take part in separate protests in Dublin
+
+date: 2025-06-22, from: RTÉ News
+
+Thousands of people have taken part in an anti-immigration protest in Dublin, with a counter-demonstration also staged in the city centre this afternoon. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0622/1519758-protests-dublin/>
+
+---
+
+## What is financing for development?
+
+date: 2025-06-22, from: United Nations, Top Stories
+
+According to the United Nations, the world needs an extra $4 trillion every year to tackle some of the world’s biggest challenges – ending poverty and hunger, fighting climate change, and reducing inequality.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164691>
+
+---
+
+## US strikes on Iran’s nuclear sites ‘marks perilous turn’: Diplomacy must prevail, says Guterres
+
+date: 2025-06-22, from: United Nations, Top Stories
+
+The UN Secretary-General António Guterres told an emergency meeting of the Security Council on Sunday that massive overnight strikes by the United States on Iran’s nuclear facilities only increase the risk of a wider war and “serious damage to the international order.” 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164756>
+
+---
+
+## SECURITY COUNCIL LIVE: ‘Diplomacy must prevail’ over Iran following US military intervention, urges Guterres
+
+date: 2025-06-22, from: United Nations, Top Stories
+
+The UN Secretary-General told the Security Council on Sunday that the bombing of Iran’s nuclear sites by the United States marks a “perilous turn”, warning that the region cannot endure yet another “cycle of destruction.” António Guterres said the must be an immediate ceasefire and returned to “serious, sustained negotiations.” We’ll have live updates from our Meetings Coverage&nbsp;team below and app users can follow here. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164746>
+
+---
+
+## Guterres condemns deadly attack on peacekeepers in Central African Republic
+
+date: 2025-06-22, from: United Nations, Top Stories
+
+The UN Secretary-General has strongly condemned a deadly attack on peacekeepers serving with the UN peacekeeping mission in the Central African Republic, or CAR, which claimed the life of a Zambian peacekeeper and left another wounded. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164751>
 
 ---
 
@@ -93,11 +217,11 @@ date: 2025-06-22, from: Vatican News
 
 ---
 
-## 'Urgent need for de-escalation, diplomacy' in Middle East
+## 15 Irish citizens evacuated from Israel, says Tánaiste
 
 date: 2025-06-22, from: RTÉ News
 
-Taoiseach Micheál Martin has said there is an urgent need for de-escalation, dialogue and diplomacy in the Middle East. 
+Tánaiste and Minister for Foreign Affairs Simon Harris has said that 15 Irish citizens who were seeking to leave Israel have been evacuated. 
 
 <br> 
 
@@ -129,7 +253,7 @@ date: 2025-06-22, from: CBC, World News
 
 ---
 
-## US strikes on Iran nuclear sites 'overwhelming success'
+## Guterres warns of cycle of destruction after US attacks
 
 date: 2025-06-22, from: RTÉ News
 
@@ -141,11 +265,11 @@ As the US targets key nuclear sites, Iran stikes back with missile strikes on Is
 
 ---
 
-## UN calls US strikes on Iran 'dangerous escalation'
+## UN Security Council to hold emergency Iran meeting
 
 date: 2025-06-22, from: RTÉ News
 
-Here we take a look at initial reactions after the United States carried out attacks on three nuclear sites in Iran overnight. 
+The UN Security Council will hold an emergency meeting tonight following the US strikes against Iran's nuclear facilities, said Guyana, which holds the body's rotating chair for June. 
 
 <br> 
 
@@ -225,11 +349,11 @@ date: 2025-06-22, from: CBC, World News
 
 ---
 
-## Iran warns US attack will have 'everlasting consequences'
+## Iran threatens US bases over nuclear facility attacks
 
 date: 2025-06-22, from: RTÉ News
 
-US President Donald Trump said the US has "obliterated" Iran's main nuclear sites in strikes overnight with massive bunker busting bombs, joining an Israeli assault in a significant new escalation of conflict in the Middle East. 
+Iran said its knowledge in the nuclear field "cannot be destroyed" after the United States carried out a series of attacks on three of its main nuclear facilities in Iran. 
 
 <br> 
 
@@ -866,6 +990,18 @@ The British and Irish Lions were beaten by Argentina for the first time as their
 <br> 
 
 <https://www.rte.ie/sport/rugby/2025/0620/1519481-early-lions-setback-as-argentina-claim-win-in-dublin/>
+
+---
+
+## What is the nuclear world order and how did we get here?
+
+date: 2025-06-20, from: RTÉ News
+
+US and Israeli strikes on Iran's nuclear facilities have reignited the debate over nuclear weapons. But what is the nuclear world order we live in and how did we get here? 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0620/1519595-what-is-the-nuclear-world-order-and-how-did-we-get-here/>
 
 ---
 
@@ -3175,7 +3311,7 @@ As the Iran-Israel crisis continued into a sixth day on Wednesday, the UN deputy
 
 ## Power of football inspires team effort towards development goals
 
-date: 2025-06-18, from: United Nations, Climate Change
+date: 2025-06-18, from: United Nations, Top Stories
 
 The power of football to inspire fans to take positive action for a healthier planet and a fairer society is taking centre stage at Expo 2025 in Osaka, Japan – a world fair focused on building a sustainable global future. 
 
@@ -5214,6 +5350,22 @@ Gaza's civil defence agency said Israeli troops have killed 20 people waiting to
 
 ---
 
+## Exploring the cosmos fills us with wonder, Pope tells scientists
+
+date: 2025-06-16, from: Vatican News
+
+
+                    <p>Pope Leo XIV receives participants in the Vatican Observatory’s Summer School program, inviting them to share the joy they experience in exploring the cosmos and to contribute to a more peaceful and just world through the pursuit of knowledge.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/exploring-the-cosmos-fills-us-with-wonder-pope-tells-scientists.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/exploring-the-cosmos-fills-us-with-wonder-pope-tells-scientists.html>
+
+---
+
 ## Areas in Dublin and Cork 'seriously littered' - IBAL
 
 date: 2025-06-16, from: RTÉ News
@@ -5235,18 +5387,6 @@ date: 2025-06-16, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/louvre-closed-overtourism-1.7562138?cmp=rss>
-
----
-
-## Exploring the cosmos fills us with wonder, Pope tells scientists – Vatican News
-
-date: 2025-06-16, from: Vatican Obervatory
-
-Pope Leo XIV receives participants in the Vatican Observatory’s Summer School program, inviting them to share the joy they experience in exploring the cosmos... 
-
-<br> 
-
-<https://www.vaticannews.va/en/pope/news/2025-06/exploring-the-cosmos-fills-us-with-wonder-pope-tells-scientists.html>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-06-22 06:08:22
+updated: 2025-06-22 14:09:02
 ---
 
 # motorcycles
 
-(date: 2025-06-22 06:08:22)
+(date: 2025-06-22 14:09:02)
+
+---
+
+## GALLERY: NASCAR Xfinity and Truck Series From Pocono Raceway
+
+date: 2025-06-22, from: Kickin the Tires blog
+
+Photos by Andrew Kaplan/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-nascar-xfinity-and-truck-series-from-pocono-raceway/>
 
 ---
 

@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2025-06-22 06:08:19
+updated: 2025-06-22 14:08:59
 ---
 
 # writing
 
-(date: 2025-06-22 06:08:19)
+(date: 2025-06-22 14:08:59)
+
+---
+
+## Chaos by Constance Fay: Review by Colleen Mondor
+
+date: 2025-06-22, from: Locus Magazine
+
+<p><strong>Chaos</strong>, Constance Fay (Bramble 978-1-250-33043-7, $19.99, 338pp, tp) March 2025.</p>
+<p>Constance Fay continues her Uncharted Hearts series with <strong>Chaos</strong>, another romantic adventure in the far reaches of space. The books are mov­ing through the members of the Calamity’s crew and this time around the focus is on the ship’s engineer, Caro Ogunyemi. During some much-deserved downtime after a harrowing mission in the opening pages, Caro suddenly sets off  <a href="https://locusmag.com/2025/06/chaos-by-constance-fay-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/chaos-by-constance-fay-review-by-colleen-mondor/>
 
 ---
 

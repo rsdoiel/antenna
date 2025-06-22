@@ -1,11 +1,95 @@
 ---
 title: going electric
-updated: 2025-06-22 06:08:24
+updated: 2025-06-22 14:09:03
 ---
 
 # going electric
 
-(date: 2025-06-22 06:08:24)
+(date: 2025-06-22 14:09:03)
+
+---
+
+## Tesla said you’d earn money with FSD. Now *it’s* earning money. Why cant you?
+
+date: 2025-06-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/tesla-robotaxi-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla spent years selling its Full Self-Driving software, for <a href="https://electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/">as much as $15,000</a>, with the promise that owners would be able to use that software to send their cars out as robotaxis to earn money when they’re not being used otherwise.</p>
+
+
+
+<p>Just today, Tesla CEO Elon Musk announced that Tesla will be charging a flat fee of $4.20 for rides in its <a href="https://electrek.co/2025/06/20/tesla-releases-details-robotaxi-launch-safety-monitor-front-seat/">highly-supervised “robotaxi”.</a> But that brings up the question: if Tesla spent so many years promising that you could use your car to earn money, and <em>it’s</em> using <em>its</em> cars to earn money, then why can’t you?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-network,tesla-robotaxi" data-layer-viewtype="unknown" data-post-id="419607" href="https://electrek.co/2025/06/22/tesla-said-youd-earn-money-with-fsd-now-its-earning-money-why-cant-you/#more-419607" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/22/tesla-said-youd-earn-money-with-fsd-now-its-earning-money-why-cant-you/>
+
+---
+
+## Your secret weapon against summer heat: home solar power + battery
+
+date: 2025-06-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/home-solar-heat-dome.png?w=1600" /></div><p>A record-breaking <a href="https://www.accuweather.com/en/weather-forecasts/dangerous-heat-wave-to-envelop-170-million-americans-through-late-june/1786921" target="_blank" rel="noreferrer noopener">heat dome</a> over the central United States is sending temperatures – and cooling bills! – soaring into triple digit territory. Luckily, there’s a readily available technology that can help keep your home cool without playing that infuriating and unwinnable “keep your thermostat at 79 degrees” game: <strong>a home solar and battery system</strong>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="climate-change,global-warming,solar-power" data-layer-viewtype="unknown" data-post-id="421550" href="https://electrek.co/2025/06/22/your-secret-weapon-against-summer-heat-home-solar-power-battery/#more-421550" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/22/your-secret-weapon-against-summer-heat-home-solar-power-battery/>
+
+---
+
+## Rising costs, market conditions blamed for Volvo Cars’ 2026 price hike [update]
+
+date: 2025-06-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Volvo-EX90-Featured_PRICES.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A leaked 2026 order guide shows the price on several Volvo models going up by nearly 6%. That’s thousands of dollars on some models – along with higher destination charges, fewer discounts, and precious little in the way of new tech or features to justify the price hike.</p>
+
+
+
+<p><strong>UPDATE</strong>: Volvo Cars has a response.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,tariffs,volvo-cars" data-layer-viewtype="unknown" data-post-id="420858" href="https://electrek.co/2025/06/22/rising-costs-market-conditions-blamed-for-volvo-cars-2026-price-hike/#more-420858" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/22/rising-costs-market-conditions-blamed-for-volvo-cars-2026-price-hike/>
+
+---
+
+## Ford’s electric Super Mustang Mach-E wins class in a tough Pike’s Peak race
+
+date: 2025-06-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Mach-E-Pikes-Peak-front.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>At the 103rd running of the Pike’s Peak International Hill Climb, electric cars once again impressed as Ford’s Super Mustang Mach-E won its class on a difficult race day where running was limited due to inclement weather.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-racing,ford,ford-mach-e,ford-performance,hyundai-ioniq-5-n,pikes-peak,pikes-peak-international-hill-climb" data-layer-viewtype="unknown" data-post-id="421507" href="https://electrek.co/2025/06/22/fords-electric-super-mustang-mach-e-wins-class-in-a-tough-pikes-peak-race/#more-421507" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/22/fords-electric-super-mustang-mach-e-wins-class-in-a-tough-pikes-peak-race/>
+
+---
+
+## Texas Tightens The Screws On Tesla's Robotaxi Rollout
+
+date: 2025-06-22, from: Inside EVs News
+
+The state has passed a new law requiring permits and safety assurances from robotaxi operators. 
+
+<br> 
+
+<https://insideevs.com/news/763486/tesla-texas-robotaxi-new-rules-signed-into-law/>
 
 ---
 

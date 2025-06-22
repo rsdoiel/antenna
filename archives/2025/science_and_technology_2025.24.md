@@ -1,11 +1,11 @@
 ---
 title: science and technology
-updated: 2025-06-22 06:08:17
+updated: 2025-06-22 14:08:57
 ---
 
 # science and technology
 
-(date: 2025-06-22 06:08:17)
+(date: 2025-06-22 14:08:57)
 
 ---
 
@@ -18,6 +18,18 @@ date: 2025-06-22, updated: 2025-06-22, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/06/22/ai_search_starves_publishers/>
+
+---
+
+## YouTube’s new anti-adblock measures
+
+date: 2025-06-22, from: OS News
+
+Over the past few months, YouTube has been trying another round of anti-adblock measures. Currently the anti-adblock stuff is being A/B tested, and one of my accounts is in the experimental group. I wrote a filter that partially avoids one of the anti-adblock measures, fake buffering, on uBlock Origin (and Brave browser, since it uses the same filter rules). (It’s already in the default filter lists, you don’t need to manually add the filter.) One thing that people have ran into is “fake buffering”, where videos will take a while to load due to a lot of buffering, but only at the very start of the video (there’s no mid-video fake buffering). As I’ll explain, the fake buffering is 80% of the length of the ads you would’ve seen, so even with fake buffering you’re still saving time using an adblocker. ↫ iter.ca The battle between YouTube on one side, and users wanting a non-shitty experience without paying for YouTube Premium on the other, is unlikely to end any time soon. Your computer, your rules, so I&#8217;m on the side of the people wanting to block ads on YouTube &#8211; the same applies to OSNews if you don&#8217;t want to pay for our ad-free version &#8211; but I&#8217;m still intrigued to find out just how far Google is willing to go. I sometimes see YouTube with ads at other people&#8217;s homes. It&#8217;s a nightmare. 
+
+<br> 
+
+<https://www.osnews.com/story/142624/youtubes-new-anti-adblock-measures/>
 
 ---
 

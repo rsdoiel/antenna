@@ -1,11 +1,135 @@
 ---
 title: snapshots
-updated: 2025-06-22 06:08:27
+updated: 2025-06-22 14:09:05
 ---
 
 # snapshots
 
-(date: 2025-06-22 06:08:27)
+(date: 2025-06-22 14:09:05)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-22, from: Dave Winer's linkblog)
+
+Kevin Durant trade: Rockets land Suns star in NBA blockbuster. 
+
+<br> 
+
+<https://www.cbssports.com/nba/news/kevin-durant-trade-rockets-land-suns-star-in-nba-blockbuster-as-jalen-green-headlines-return/>
+
+---
+
+## LLMs: Dishonest, unpredictable and potentially dangerous. 
+
+date: 2025-06-22, from: Gary Marcus blog
+
+Will we ever be able to control them? 
+
+<br> 
+
+<https://garymarcus.substack.com/p/llms-dishonest-unpredictable-and>
+
+---
+
+## Asus ExpertCenter PN54 with AMD Krackent Point now available for $589 and up
+
+date: 2025-06-22, from: Liliputing
+
+<p>The Asus ExpertCenter PN54 is a mini PC that measures 130 x 130 x 34mm (5.1&#8243; x 5.1&#8243; x 1.3&#8243;) and features support for up to an AMD Ryzen 7 350 &#8220;Krackan Point&#8221; processor. First unveiled during CES in January, the ExpertCenter PN54 is now available for purchase for $589 and up from B&#38;H and a [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/asus-expertcenter-pn54-with-amd-krackent-point-now-available-for-589-and-up/">Asus ExpertCenter PN54 with AMD Krackent Point now available for $589 and up</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/asus-expertcenter-pn54-with-amd-krackent-point-now-available-for-589-and-up/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-22, from: Dave Winer's linkblog)
+
+How the Grateful Dead built the internet. 
+
+<br> 
+
+<https://www.bbc.com/future/article/20250618-how-the-grateful-dead-shaped-social-media>
+
+---
+
+## GMK Evo-T1 mini PC with Intel Core Ultra 9 285H coming soon
+
+date: 2025-06-22, from: Liliputing
+
+<p>The GMK EVO-T1 is a small desktop computer that features an Intel Core Ultra 9 285H Arrow Lake processor, support for up to 96GB of DDR5-5600 RAM, and three M.2 2280 slots for PCIe 4.0 x4 storage. First introduced in May, it goes on sale soon in China, where a model with 64GB of RAM and [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/gmk-evo-t1-mini-pc-with-intel-core-ultra-9-285h-coming-soon/">GMK Evo-T1 mini PC with Intel Core Ultra 9 285H coming soon</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/gmk-evo-t1-mini-pc-with-intel-core-ultra-9-285h-coming-soon/>
+
+---
+
+## 2025 C&W Session Review: From Chatbot to Classroom: Understanding Student and Instructor Use and Perceptions of AI (Session C)
+
+date: 2025-06-22, from: Digital Humanities Quarterly News
+
+Niche Session: Students’ Use of AI  Speakers: Amber Buck and Amy Dayton (University of Alabama, Tuscaloosa) This panel featured four speakers who presented three different papers that explored various ongoing research on text-generating technologies, students’ current perceptions of AI, how they engage with it in their writing, and instructors&#8217; stances on AI in the writing [...]
+<p><a href="https://www.digitalrhetoriccollaborative.org/2025/06/22/2025-cw-session-review-from-chatbot-to-classroom-understanding-student-and-instructor-use-and-perceptions-of-ai-session-c/" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://www.digitalrhetoriccollaborative.org/2025/06/22/2025-cw-session-review-from-chatbot-to-classroom-understanding-student-and-instructor-use-and-perceptions-of-ai-session-c/>
+
+---
+
+## 2025 C&W Session Review: “Invention, AI, and Circulation” (Session F)
+
+date: 2025-06-22, from: Digital Humanities Quarterly News
+
+Speakers: Ashley Beardsley (Western Illinois University), Jason Palmer (Georgia State University), Antonio Hamilton (University of Illinois at Urbana-Champaign) This panel brought together three presentations that, on the surface, may not seem to belong in the same room: a history of Junior League cookbooks, an attempt to define the still-forming category of “AI rhetoric,” and a [...]
+<p><a href="https://www.digitalrhetoriccollaborative.org/2025/06/22/2025-cw-session-review-invention-ai-and-circulation-session-f/" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://www.digitalrhetoriccollaborative.org/2025/06/22/2025-cw-session-review-invention-ai-and-circulation-session-f/>
+
+---
+
+## 2025 C&W Session Review: “Moving through Space” (Session H)
+
+date: 2025-06-22, from: Digital Humanities Quarterly News
+
+Speakers: Maddie Brueger (University of Texas at Austin), Megan Mericle (Georgia Institute of Technology), Alba Newmann Holmes (Swarthmore College) At a conference where most panels centered on the expanding influence of generative AI, “Moving through Space” closed out the conference by refreshingly turning our attention to embodiment, place, and the “more-than-human” world. Each presentation explored [...]
+<p><a href="https://www.digitalrhetoriccollaborative.org/2025/06/22/2025-cw-session-review-moving-through-space-session-h/" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://www.digitalrhetoriccollaborative.org/2025/06/22/2025-cw-session-review-moving-through-space-session-h/>
+
+---
+
+## Quoting Kent Beck
+
+date: 2025-06-22, updated: 2025-06-22, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.youtube.com/watch?v=aSXaxOdVtAQ&amp;t=12m30s"><p>So you can think really big thoughts and the leverage of having those big thoughts has just suddenly expanded enormously. I had <a href="https://twitter.com/KentBeck/status/1648413998025707520">this tweet</a> two years ago where I said "90% of my skills just went to zero dollars and 10% of my skills just went up 1000x". And this is exactly what I'm talking about - having a vision, being able to set milestones towards that vision, keeping track of a design to maintain or control the levels of complexity as you go forward. Those are hugely leveraged skills now compared to knowing where to put the ampersands and the stars and the brackets in Rust.</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.youtube.com/watch?v=aSXaxOdVtAQ&amp;t=12m30s">Kent Beck</a>, interview with Gergely Orosz</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/gergely-orosz">gergely-orosz</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/careers">careers</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/22/kent-beck/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-22, from: Dave Winer's linkblog)
+
+Republicans can&#39;t stop wasting money - they want to scrap USPS&#39; awesome EVs. 
+
+<br> 
+
+<https://electrek.co/2025/06/22/republicans-cant-stop-wasting-money-they-want-to-scrap-usps-awesome-evs/>
 
 ---
 

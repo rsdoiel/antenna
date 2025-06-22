@@ -1,11 +1,143 @@
 ---
 title: pacific
-updated: 2025-06-22 06:08:16
+updated: 2025-06-22 14:08:56
 ---
 
 # pacific
 
-(date: 2025-06-22 06:08:16)
+(date: 2025-06-22 14:08:56)
+
+---
+
+## Pacific news in brief for 23 June
+
+date: 2025-06-22, from: 
+
+A round-up of news in brief from around the region, including reports of PNG nurses wanting payment for writing patient referrals. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564869/pacific-news-in-brief-for-23-june>
+
+---
+
+## Mark Brown slams New Zealand for its 'patronising approach' over China deal
+
+date: 2025-06-22, from: 
+
+The Cook Islands prime minister has suggested a double standard, after the New Zealand government cut its development assistance to the tune of nearly $20 million. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564705/mark-brown-slams-new-zealand-for-its-patronising-approach-over-china-deal>
+
+---
+
+## Middle East crisis poses 'no credible threats' to Guam for now, but troops are on standby  
+
+date: 2025-06-22, from: Pacific Island Times
+
+Lou Leon Guerrero By Pacific Island Times News Staff Reports about the deployment of B-2 stealth bombers to Guam turned out to be part of... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/middle-east-crisis-poses-no-credible-threats-to-guam-for-now-but-troops-are-on-standby>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-06-22, updated: 2025-06-22, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Dean’s Honor List
+
+date: 2025-06-22, updated: 2025-06-22, from: Marianas Variety
+
+CONGRATULATIONS to Andy Lee Quitugua Camacho of As Mahetog, Saipan for being on the Dean’s Honor List at Houghton University, Houghton, New York for Fall and Spring 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/dean-s-honor-list/article_b67d014a-ba45-4945-acd6-b1c48ec5931a.html>
+
+---
+
+## Marianas Variety backs 79th Liberation Day festivities as Platinum Sponsor
+
+date: 2025-06-22, updated: 2025-06-22, from: Marianas Variety
+
+(Liberation Day Committee) — The CNMI’s longest-running newspaper has signed on as a Platinum Sponsor for the 79th Liberation Day Festivities, contributing $10,000 in in-kind support to help power the biggest community celebration of the year. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/marianas-variety-backs-79th-liberation-day-festivities-as-platinum-sponsor/article_ea3e5334-766c-46bb-bd89-c68cecede4fd.html>
+
+---
+
+## Investors brace for oil price spike, rush to havens after US bombs Iran nuclear sites
+
+date: 2025-06-22, updated: 2025-06-22, from: Marianas Variety
+
+NEW YORK (Reuters) — A U.S. attack on Iranian nuclear sites could lead to a knee-jerk reaction in global markets when they reopen, sending oil prices higher and triggering a rush to safety, investors said, as they assessed how the latest escalation of tensions would ripple through the global economy. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/investors-brace-for-oil-price-spike-rush-to-havens-after-us-bombs-iran-nuclear-sites/article_b2e3523a-eb9c-4e79-a8b6-4e6a31453b23.html>
+
+---
+
+## F1 movie star Pitt finally gets to drive a Formula One car
+
+date: 2025-06-22, updated: 2025-06-22, from: Marianas Variety
+
+(Reuters) — Brad Pitt, whose new F1 movie is out this week, has now driven a Formula One car for real after testing a McLaren at Austin's Circuit of the Americas. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/f1-movie-star-pitt-finally-gets-to-drive-a-formula-one-car/article_b41270d7-e5d7-44d2-9118-e1ff732dcdbc.html>
+
+---
+
+## Free NMC info session on June 24
+
+date: 2025-06-22, updated: 2025-06-22, from: Marianas Variety
+
+NORTHERN Marianas College would like to kindly remind and invite all community members looking to further their education to attend NMC’s free information session regarding the upcoming fall 2025 semester on Tuesday, June 24, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/free-nmc-info-session-on-june-24/article_55f18b6f-5ee8-4140-bd2b-654214682beb.html>
+
+---
+
+## Poetry
+
+date: 2025-06-22, updated: 2025-06-22, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_3dcfab8e-f605-4f73-a0f0-8e20e4cb5f88.html>
+
+---
+
+## BTS member Suga discharged from South Korean military service
+
+date: 2025-06-22, updated: 2025-06-22, from: Marianas Variety
+
+SEOUL (Reuters) — K-pop group BTS member Suga was discharged from the South Korean military on Saturday, the seventh and final member to complete the country's mandatory national service amid expectations of the band's comeback from a hiatus. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/bts-member-suga-discharged-from-south-korean-military-service/article_5e14aaae-b3dd-4889-b02c-29515b8ca88a.html>
 
 ---
 
@@ -994,18 +1126,6 @@ Te Maeva Nui NZ is seen as the largest Cook Islands cultural festival outside of
 
 ---
 
-## Mark Brown slams New Zealand for its 'patronising approach' over China deal
-
-date: 2025-06-20, from: 
-
-The Cook Islands prime minister has suggested a double standard, after the New Zealand government cut its development assistance to the tune of nearly $20 million. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/564705/mark-brown-slams-new-zealand-for-its-patronising-approach-over-china-deal>
-
----
-
 ## Aja Reyes paints persistence one layer at a time
 
 date: 2025-06-20, from: Pacific Island Times
@@ -1686,18 +1806,6 @@ The post <a href="https://www.hawaii.edu/news/2025/06/18/maui-wes-report-two-yea
 <br> 
 
 <https://www.hawaii.edu/news/2025/06/18/maui-wes-report-two-years-after-wildfires/>
-
----
-
-## Variety editor’s 4th book available at Joeten Susupe
-
-date: 2025-06-18, updated: 2025-06-18, from: Marianas Variety
-
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
 
 ---
 

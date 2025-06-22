@@ -1,23 +1,50 @@
 ---
 title: socal north
-updated: 2025-06-22 06:08:15
+updated: 2025-06-22 14:08:55
 ---
 
 # socal north
 
-(date: 2025-06-22 06:08:15)
+(date: 2025-06-22 14:08:55)
 
 ---
 
-## How proposed federal food benefit cuts could affect Angelenos
+## World reacts to US strikes on Iran with alarm, caution — and some praise
 
 date: 2025-06-22, updated: 2025-06-22, from: The LAist
 
-Under the current proposed Budget Reconciliation Bill, California could see deep cuts to CalFresh food assistance. 
+As the world reacted to news of U.S. strikes on Iran's nuclear facilities, international officials largely responded with alarm and calls for restraint. 
 
 <br> 
 
-<https://laist.com/news/health/how-proposed-federal-food-benefit-cuts-could-affect-angelenos>
+<https://laist.com/news/world-reacts-to-us-strikes-on-iran-with-alarm-caution-and-some-praise>
+
+---
+
+## Pedestrian killed in traffic collision on Ocean Boulevard, authorities say
+
+date: 2025-06-22, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The victim was in a crosswalk when he was struck by a car — and then struck by two more after the initial collision, police said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/pedestrian-killed-in-traffic-collision-on-ocean-boulevard-authorities-say">Pedestrian killed in traffic collision on Ocean Boulevard, authorities say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/pedestrian-killed-in-traffic-collision-on-ocean-boulevard-authorities-say>
+
+---
+
+## Her father was taken by ICE in Pico Rivera. She's still searching for answers
+
+date: 2025-06-22, updated: 2025-06-22, from: The LAist
+
+Francisco Urizar, 64, was detained by ICE while on his work route delivering tortillas. His daughter Nancy is trying to find out what happened to him. 
+
+<br> 
+
+<https://laist.com/news/one-daughters-search-for-a-father-detained-by-ice>
 
 ---
 
@@ -33,19 +60,19 @@ A brand new Trader Joe’s opened right across the street from one that has been
 
 ---
 
-## One daughter's search for a father detained by ICE
+## How proposed federal food benefit cuts could affect Angelenos
 
 date: 2025-06-22, updated: 2025-06-22, from: The LAist
 
-Francisco Urizar, 64, was detained by ICE while on his work route delivering tortillas. His daughter Nancy is trying to find out what happened to him. 
+Under the current proposed Budget Reconciliation Bill, California could see deep cuts to CalFresh food assistance. 
 
 <br> 
 
-<https://laist.com/news/one-daughters-search-for-a-father-detained-by-ice>
+<https://laist.com/news/health/how-proposed-federal-food-benefit-cuts-could-affect-angelenos>
 
 ---
 
-## US completes strikes on Iran nuclear sites, Trump says
+## US strikes 3 nuclear sites in Iran, in major regional conflict escalation
 
 date: 2025-06-22, updated: 2025-06-22, from: The LAist
 
@@ -123,7 +150,7 @@ A rabbit hole journey into why not one, but two colas from Japan, pay homage to 
 
 date: 2025-06-20, from: Longbeach Post
 
-<figure><img width="1024" height="713" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-1024x713.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-1024x713.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-300x209.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-768x535.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-155x108.jpg 155w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-400x279.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="713" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-1024x713.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-1024x713.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-300x209.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-768x535.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-155x108.jpg 155w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-400x279.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Ralphs, Albertsons, Vons and Pavilions could all see work stoppages by the end of June, according to workers who rallied in Long Beach on Friday.</p>
 <p>The post <a href="https://lbpost.com/news/grocery-worker-strike-vons-albertsons-ufcw">Grocery workers threaten to strike if contract deal isn’t reached soon</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -591,6 +618,18 @@ date: 2025-06-19, from: Longbeach Post
 <br> 
 
 <https://lbpost.com/news/truck-driver-run-over-by-his-own-semi-when-its-rear-ended-long-beach-police-say>
+
+---
+
+## How the Israel-Iran war is hitting close to home for many Southern Californians with ties to both countries
+
+date: 2025-06-18, updated: 2025-06-22, from: The LAist
+
+A bomb alert and wondering if family members are safe — while driving on the 110 Freeway. 
+
+<br> 
+
+<https://laist.com/news/how-israel-iran-war-is-hitting-close-to-home-for-many-southern-californians>
 
 ---
 
