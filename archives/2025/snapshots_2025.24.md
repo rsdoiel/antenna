@@ -1,11 +1,428 @@
 ---
 title: snapshots
-updated: 2025-06-21 14:06:40
+updated: 2025-06-22 06:08:27
 ---
 
 # snapshots
 
-(date: 2025-06-21 14:06:40)
+(date: 2025-06-22 06:08:27)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-22, from: Dave Winer's linkblog)
+
+&quot;Trump has not put U.S. boots on the ground to fight Iran, but he has put U.S. troops on the ground for an uninvited military occupation of California.&quot; 
+
+<br> 
+
+<https://www.theatlantic.com/ideas/archive/2025/06/right-move-wrong-team/683283/?gift=f35zZN0v_gDFE8xNwlQAHUFSACi_DiUH7c0wJpT9H7w&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+## Inequality, Part IV: Oligarchs
+
+date: 2025-06-22, from: Paul Krugman
+
+The rise of mega-fortunes 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/inequality-part-iv-oligarchs>
+
+---
+
+## KDE Plasma 6.4 is out
+
+date: 2025-06-22, from: Libre News
+
+What's new? What's old? What's the meaning of life? 
+
+<br> 
+
+<https://thelibre.news/kde-plasma-6-4-is-out/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-22, from: Dave Winer's linkblog)
+
+Top Democrats left in dark on Iran strike plans. 
+
+<br> 
+
+<https://www.axios.com/2025/06/22/democrats-trump-iran-nuclear-facilities>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-22, from: Dave Winer's linkblog)
+
+Trump bombs Iranian nuclear sites without congressional authorization. 
+
+<br> 
+
+<https://reason.com/2025/06/21/trump-shreds-the-constitution-by-bombing-iran/>
+
+---
+
+## My First Open Source AI Generated Library
+
+date: 2025-06-21, updated: 2025-06-21, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://lucumr.pocoo.org/2025/6/21/my-first-ai-library/">My First Open Source AI Generated Library</a></strong></p>
+Armin Ronacher had Claude and Claude Code do almost <em>all of the work</em> in building, testing, packaging and publishing a new Python library based on his design:</p>
+<blockquote>
+<ul>
+<li>It wrote ~1100 lines of code for the parser</li>
+<li>It wrote ~1000 lines of tests</li>
+<li>It configured the entire Python package, CI, PyPI publishing</li>
+<li>Generated a README, drafted a changelog, designed a logo, made it theme-aware</li>
+<li>Did multiple refactorings to make me happier</li>
+</ul>
+</blockquote>
+<p>The project? <a href="https://github.com/mitsuhiko/sloppy-xml-py">sloppy-xml-py</a>, a lax XML parser (and violation of everything the XML Working Group hold sacred) which ironically is necessary because LLMs themselves frequently output "XML" that includes validation errors.</p>
+<p>Claude's SVG logo design is actually pretty decent, turns out it can draw <a href="https://simonwillison.net/2025/May/22/code-with-claude-live-blog/#live-update-357">more than just bad pelicans</a>!</p>
+<p><center>
+<img alt="Hand drawn style, orange rough rectangly containing &lt; { s } &gt; - then the text Sloppy XML below in black" src="https://static.simonwillison.net/static/2025/sloppy-xml.jpg" />
+</center></p>
+<p>I think experiments like this are a really valuable way to explore the capabilities of these models. Armin's conclusion:</p>
+<blockquote>
+<p>This was an experiment to see how far I could get with minimal manual effort, and to unstick myself from an annoying blocker. The result is good enough for my immediate use case and I also felt good enough to publish it to PyPI in case someone else has the same problem.</p>
+<p>Treat it as a curious side project which says more about what's possible today than what's necessarily advisable.</p>
+</blockquote>
+<p>I'd like to present a slightly different conclusion here. The most interesting thing about this project is that <strong>the code is good</strong>.</p>
+<p>My criteria for good code these days is the following:</p>
+<ol>
+<li>Solves a defined problem, well enough that I'm not tempted to solve it in a different way</li>
+<li>Uses minimal dependencies</li>
+<li>Clear and easy to understand</li>
+<li>Well tested, with tests prove that the code does what it's meant to do</li>
+<li>Comprehensive documentation</li>
+<li>Packaged and published in a way that makes it convenient for me to use</li>
+<li>Designed to be easy to maintain and make changes in the future</li>
+</ol>
+<p><code>sloppy-xml-py</code> fits all of those criteria. It's useful, well defined, <a href="https://github.com/mitsuhiko/sloppy-xml-py/blob/main/sloppy_xml.py">the code is readable</a> with just about the right level of comments, everything is tested, the documentation explains everything I need to know, and it's been shipped to PyPI.</p>
+<p>I'd be proud to have written this myself.</p>
+<p>This example is <em>not</em> an argument for replacing programmers with LLMs. The code is good because Armin is an expert programmer who stayed in full control throughout the process. As I wrote the other day, <a href="https://simonwillison.net/2025/Jun/18/coding-agents/">a skilled individual with both deep domain understanding and deep understanding of the capabilities of the agent</a>.
+
+    <p><small></small>Via <a href="https://bsky.app/profile/mitsuhiko.at/post/3ls4ov5fk7c2l">@mitsuhiko.at</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/armin-ronacher">armin-ronacher</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/xml">xml</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/21/my-first-open-source-ai-generated-library/#atom-everything>
+
+---
+
+## Newsboat 2.40 is out
+
+date: 2025-06-21, updated: 2025-06-21, from: Newsboat News
+
+
+            <p>
+                Please welcome the 30th minor release of Newsboat!
+            </p>
+
+            <p>
+                Packagers should take note that Newsboat no longer supports GCC
+                5 and 6. Other than that, this is your run-of-the-mill "updates
+                and improvements" kind of release, with nothing particular to
+                highlight.
+            </p>
+
+            <p>Without further ado, here are the links:
+                    <a href="https://newsboat.org/releases/2.40/newsboat-2.40.tar.xz">tar.xz</a>,
+                    <a href="https://newsboat.org/releases/2.40/newsboat-2.40.tar.xz.asc">asc</a>,
+                    <a href="https://newsboat.org/releases/2.40/docs/newsboat.html">docs</a>,
+                    <a href="https://newsboat.org/releases/2.40/docs/faq.html">FAQ</a>,
+                    <a href="https://github.com/newsboat/newsboat/blob/master/CHANGELOG.md#240---2025-06-21">changelog</a>.
+            </p>
+         
+
+<br> 
+
+<https://newsboat.org/releases/2.40/docs/newsboat.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-21, from: Dave Winer's linkblog)
+
+The incubator newsroom. 
+
+<br> 
+
+<https://werd.io/when-people-trust-people-more-than-brands-the-incubator-newsroom/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-21, from: Robert's feed at BlueSky)
+
+Something to think about👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ls5aa64iss2h>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-21, from: Robert's feed at BlueSky)
+
+This is the stupidity of Republican tax, trash and spend. 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ls5a3umuq22h>
+
+---
+
+## Edit is now open source
+
+date: 2025-06-21, updated: 2025-06-21, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://devblogs.microsoft.com/commandline/edit-is-now-open-source/">Edit is now open source</a></strong></p>
+Microsoft released a new text editor! Edit is a terminal editor - similar to Vim or nano - that's designed to ship with Windows 11 but is open source, written in Rust and supported across other platforms as well.</p>
+<blockquote>
+<p>Edit is a small, lightweight text editor. It is less than 250kB, which allows it to keep a small footprint in the Windows 11 image.</p>
+</blockquote>
+<p><img alt="Screenshot of alpine-edit text editor interface with File menu open showing: New File Ctrl+N, Open File... Ctrl+O, Save Ctrl+S, Save As..., Close File Ctrl+W, Exit Ctrl+Q. Window title shows &quot;alpine-edit — Untitled-1.txt - edit — com.docker.cli docker run --platform linux/arm...&quot;. Editor contains text &quot;le terminal text editor.&quot; Status bar shows &quot;LF UTF-8 Spaces:4 3:44 * Untitled-1.txt&quot;." src="https://static.simonwillison.net/static/2025/microsoft-edit.jpg" /></p>
+<p>The <a href="https://github.com/microsoft/edit/releases">microsoft/edit GitHub releases page</a> currently has pre-compiled binaries for Windows and Linux, but they didn't have one for macOS.</p>
+<p>(They do have <a href="https://github.com/microsoft/edit/blob/main/README.md#build-instructions">build instructions using Cargo</a> if you want to compile from source.)</p>
+<p>I decided to try and get their released binary working on my Mac using Docker. One thing lead to another, and I've now built and shipped a container to the GitHub Container Registry that anyone with Docker on Apple silicon can try out like this:</p>
+<pre><code>docker run --platform linux/arm64 \
+  -it --rm \
+  -v $(pwd):/workspace \
+  ghcr.io/simonw/alpine-edit
+</code></pre>
+<p>Running that command will download a 9.59MB container image and start Edit running against the files in your current directory. Hit Ctrl+Q or use File -&gt; Exit (the mouse works too) to quit the editor and terminate the container.</p>
+<p>Claude 4 has a training cut-off date of March 2025, so it was able to <a href="https://claude.ai/share/5f0e6547-a3e9-4252-98d0-56f3141c3694">guide me through almost everything</a> even down to which page I should go to in GitHub to create an access token with permission to publish to the registry!</p>
+<p>I wrote up a new TIL on <a href="https://til.simonwillison.net/github/container-registry">Publishing a Docker container for Microsoft Edit to the GitHub Container Registry</a> with a revised and condensed version of everything I learned today.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44306892">Hacker News comments</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/microsoft">microsoft</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/docker">docker</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/claude-4">claude-4</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/21/edit-is-now-open-source/#atom-everything>
+
+---
+
+## 1984, but with LLM’s
+
+date: 2025-06-21, from: Gary Marcus blog
+
+&#8220;Who controls the past,&#8217; ran the Party slogan, &#8216;controls the future: who controls the present controls the past.&#8217;&#8221; - 1984, George Orwell 
+
+<br> 
+
+<https://garymarcus.substack.com/p/1984-but-with-llms>
+
+---
+
+## model.yaml
+
+date: 2025-06-21, updated: 2025-06-21, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://modelyaml.org/">model.yaml</a></strong></p>
+From their <a href="https://github.com/modelyaml/modelyaml">GitHub repo</a> it looks like this effort quietly launched a couple of months ago, driven by the <a href="https://lmstudio.ai/">LM Studio</a> team. Their goal is to specify an "open standard for defining crossplatform, composable AI models".</p>
+<p>A model can be defined using a YAML file that <a href="https://lmstudio.ai/models/mistralai/mistral-small-3.2">looks like this</a>:</p>
+<pre><span class="pl-ent">model</span>: <span class="pl-s">mistralai/mistral-small-3.2</span>
+<span class="pl-ent">base</span>:
+  - <span class="pl-ent">key</span>: <span class="pl-s">lmstudio-community/mistral-small-3.2-24b-instruct-2506-gguf</span>
+    <span class="pl-ent">sources</span>:
+      - <span class="pl-ent">type</span>: <span class="pl-s">huggingface</span>
+        <span class="pl-ent">user</span>: <span class="pl-s">lmstudio-community</span>
+        <span class="pl-ent">repo</span>: <span class="pl-s">Mistral-Small-3.2-24B-Instruct-2506-GGUF</span>
+<span class="pl-ent">metadataOverrides</span>:
+  <span class="pl-ent">domain</span>: <span class="pl-s">llm</span>
+  <span class="pl-ent">architectures</span>:
+    - <span class="pl-s">mistral</span>
+  <span class="pl-ent">compatibilityTypes</span>:
+    - <span class="pl-s">gguf</span>
+  <span class="pl-ent">paramsStrings</span>:
+    - <span class="pl-c1">24B</span>
+  <span class="pl-ent">minMemoryUsageBytes</span>: <span class="pl-c1">14300000000</span>
+  <span class="pl-ent">contextLengths</span>:
+    - <span class="pl-c1">4096</span>
+  <span class="pl-ent">vision</span>: <span class="pl-c1">true</span></pre>
+
+<p>This should be enough information for an LLM serving engine - such as LM Studio - to understand where to get the model weights (here that's <a href="https://huggingface.co/lmstudio-community/Mistral-Small-3.2-24B-Instruct-2506-GGUF">lmstudio-community/Mistral-Small-3.2-24B-Instruct-2506-GGUF</a> on Hugging Face, but it leaves space for alternative providers) plus various other configuration options and important metadata about the capabilities of the model.</p>
+<p>I like this concept a lot. I've actually been considering something similar for my LLM tool - my idea was to use Markdown with a YAML frontmatter block - but now that there's an early-stage standard for it I may well build on top of this work instead.</p>
+<p>I couldn't find any evidence that anyone outside of LM Studio is using this yet, so it's effectively a one-vendor standard for the moment. All of the models in their <a href="https://lmstudio.ai/models">Model Catalog</a> are defined using model.yaml.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/standards">standards</a>, <a href="https://simonwillison.net/tags/yaml">yaml</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/lm-studio">lm-studio</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/21/model-yaml/#atom-everything>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-21, from: Robert's feed at BlueSky)
+
+Thread 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ls4ynxorec2p>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-21, from: Robert's feed at BlueSky)
+
+Stupid Congressional choices 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ls4y4x2l7k2p>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-21, from: Dave Winer's linkblog)
+
+The Copilot Delusion. (I use ChatGPT as a consultant. It&#39;s incredible about facts, it knows things I&#39;ll never find. But you can&#39;t let it drive the direction of the work, it has terrible judgement.) 
+
+<br> 
+
+<https://deplet.ing/the-copilot-delusion/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-21, from: Dave Winer's linkblog)
+
+How Tehran Might Be Playing Trump. 
+
+<br> 
+
+<https://www.theatlantic.com/ideas/archive/2025/06/iran-trump-taco-play/683271/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-21, from: Dave Winer's linkblog)
+
+Just a guess, but the people doing the &quot;ice&quot; raids are not real police any more than the &quot;doge&quot; people are/were actually part of the US government. 
+
+<br> 
+
+<http://scripting.com/2025/06/21.html#a142915>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-21, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ls4s6fqhts2n>
+
+---
+
+## Weekend Read: When Princess Diana Dropped the Mask
+
+date: 2025-06-21, from: Tina Brown
+
+My take on Dianaworld, a new biography about Diana that I couldn&#8217;t resist reviewing for one of my favorite brainy Brit mags, The New Statesman 
+
+<br> 
+
+<https://tinabrown.substack.com/p/weekend-read-when-princess-diana>
+
+---
+
+## ChatGPT May Be Linked to 'Cognitive Debt,' New Study Finds
+
+date: 2025-06-21, from: 404 Media Group
+
+A preprint study found that participants who used an LLM to write essays performed worse “at all levels” than those who didn’t. 
+
+<br> 
+
+<https://www.404media.co/is-chatgpt-rotting-our-brains-new-study-suggests-it-does/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-21, from: Dave Winer's linkblog)
+
+As ICE Raids Continue, Parts of a Vibrant City Go Empty. 
+
+<br> 
+
+<https://www.motherjones.com/politics/2025/06/los-angeles-immigration-ice-empty-hiding/>
+
+---
+
+## Will the Midterms Be a Blowout?
+
+date: 2025-06-21, from: Paul Krugman
+
+A conversation with David Nir and G. Elliott Morris 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/will-the-midterms-be-a-blowout>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-21, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ls3wbbws322i>
+
+---
+
+## Quoting FAQ for Your Brain on ChatGPT
+
+date: 2025-06-21, updated: 2025-06-21, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/#faq-is-it-safe-to-say-that-llms-are-in-essence-making-us-dumber"><p><strong>Is it safe to say that LLMs are, in essence, making us "dumber"?</strong></p>
+<p>No!  Please do not use the words like “stupid”, “dumb”, “brain rot”, "harm", "damage",  and so on. It does a huge disservice to this work, as we did not use this vocabulary in the paper, especially if you are a journalist reporting on it.</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/#faq-is-it-safe-to-say-that-llms-are-in-essence-making-us-dumber">FAQ for Your Brain on ChatGPT</a>, a paper that has attracted a lot of low quality coverage</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/21/faq-for-your-brain-on-chatgpt/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-21, from: Dave Winer's linkblog)
+
+ICE believes it will never face accountability again. 
+
+<br> 
+
+<https://www.doomsdayscenario.co/p/ice-believes-it-will-never-face-accountability-again>
+
+---
+
+## <default:div xmlns="http://www.w3.org/1999/xhtml" class="if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14"/>
+
+date: 2025-06-21, updated: 2025-06-21, from: Tantek Çelik's blog
+
+ 
+
+<br> 
+
+<https://tantek.com/2025/171/t1/microformats-20-years>
 
 ---
 
@@ -2870,378 +3287,4 @@ Letta caches memory like a CPU, Anthropic spreads it across agent swarms, Cognit
 <br> 
 
 <http://timkellogg.me/blog/2025/06/15/compression>
-
----
-
-## Anthropic: How we built our multi-agent research system
-
-date: 2025-06-14, updated: 2025-06-14, from: Simon Willison’s Weblog
-
-<p><strong><a href="https://www.anthropic.com/engineering/built-multi-agent-research-system">Anthropic: How we built our multi-agent research system</a></strong></p>
-OK, I'm sold on multi-agent LLM systems now.</p>
-<p>I've been pretty skeptical of these until recently: why make your life more complicated by running multiple different prompts in parallel when you can usually get something useful done with a single, carefully-crafted prompt against a frontier model?</p>
-<p>This detailed description from Anthropic about how they engineered their "Claude Research" tool has cured me of that skepticism.</p>
-<p><a href="https://simonwillison.net/2025/Jun/2/claude-trace/">Reverse engineering Claude Code</a> had already shown me a mechanism where certain coding research tasks were passed off to a "sub-agent" using a tool call. This new article describes a more sophisticated approach.</p>
-<p>They start strong by providing a clear definition of how they'll be using the term "agent" - it's the "tools in a loop" variant:</p>
-<blockquote>
-<p>A multi-agent system consists of multiple agents (LLMs autonomously using tools in a loop) working together. Our Research feature involves an agent that plans a research process based on user queries, and then uses tools to create parallel agents that search for information simultaneously.</p>
-</blockquote>
-<p>Why use multiple agents for a research system?</p>
-<blockquote>
-<p>The essence of search is compression: distilling insights from a vast corpus. Subagents facilitate compression by operating in parallel with their own context windows, exploring different aspects of the question simultaneously before condensing the most important tokens for the lead research agent. [...]</p>
-<p>Our internal evaluations show that multi-agent research systems excel especially for breadth-first queries that involve pursuing multiple independent directions simultaneously. We found that a multi-agent system with Claude Opus 4 as the lead agent and Claude Sonnet 4 subagents outperformed single-agent Claude Opus 4 by 90.2% on our internal research eval. For example, when asked to identify all the board members of the companies in the Information Technology S&amp;P 500, the multi-agent system found the correct answers by decomposing this into tasks for subagents, while the single agent system failed to find the answer with slow, sequential searches.</p>
-</blockquote>
-<p>As anyone who has spent time with Claude Code will already have noticed, the downside of this architecture is that it can burn <em>a lot</em> more tokens:</p>
-<blockquote>
-<p>There is a downside: in practice, these architectures burn through tokens fast. In our data, agents typically use about 4× more tokens than chat interactions, and multi-agent systems use about 15× more tokens than chats. For economic viability, multi-agent systems require tasks where the value of the task is high enough to pay for the increased performance. [...]</p>
-<p>We’ve found that multi-agent systems excel at valuable tasks that involve heavy parallelization, information that exceeds single context windows, and interfacing with numerous complex tools.</p>
-</blockquote>
-<p>The key benefit is all about managing that 200,000 token context limit. Each sub-task has its own separate context, allowing much larger volumes of content to be processed as part of the research task.</p>
-<p>Providing a "memory" mechanism is important as well:</p>
-<blockquote>
-<p>The LeadResearcher begins by thinking through the approach and saving its plan to Memory to persist the context, since if the context window exceeds 200,000 tokens it will be truncated and it is important to retain the plan.</p>
-</blockquote>
-<p>The rest of the article provides a detailed description of the prompt engineering process needed to build a truly effective system:</p>
-<blockquote>
-<p>Early agents made errors like spawning 50 subagents for simple queries, scouring the web endlessly for nonexistent sources, and distracting each other with excessive updates. Since each agent is steered by a prompt, prompt engineering was our primary lever for improving these behaviors. [...]</p>
-<p>In our system, the lead agent decomposes queries into subtasks and describes them to subagents. Each subagent needs an objective, an output format, guidance on the tools and sources to use, and clear task boundaries.</p>
-</blockquote>
-<p>They got good results from having special agents help optimize those crucial tool descriptions:</p>
-<blockquote>
-<p>We even created a tool-testing agent—when given a flawed MCP tool, it attempts to use the tool and then rewrites the tool description to avoid failures. By testing the tool dozens of times, this agent found key nuances and bugs. This process for improving tool ergonomics resulted in a 40% decrease in task completion time for future agents using the new description, because they were able to avoid most mistakes.</p>
-</blockquote>
-<p>Sub-agents can run in parallel which provides significant performance boosts:</p>
-<blockquote>
-<p>For speed, we introduced two kinds of parallelization: (1) the lead agent spins up 3-5 subagents in parallel rather than serially; (2) the subagents use 3+ tools in parallel. These changes cut research time by up to 90% for complex queries, allowing Research to do more work in minutes instead of hours while covering more information than other systems.</p>
-</blockquote>
-<p>There's also an extensive section about their approach to evals - they found that LLM-as-a-judge worked well for them, but human evaluation was essential as well:</p>
-<blockquote>
-<p>We often hear that AI developer teams delay creating evals because they believe that only large evals with hundreds of test cases are useful. However, it’s best to start with small-scale testing right away with a few examples, rather than delaying until you can build more thorough evals. [...]</p>
-<p>In our case, human testers noticed that our early agents consistently chose SEO-optimized content farms over authoritative but less highly-ranked sources like academic PDFs or personal blogs. Adding source quality heuristics to our prompts helped resolve this issue.</p>
-</blockquote>
-<p>There's so much useful, actionable advice in this piece. I haven't seen anything else about multi-agent system design that's anywhere near this practical.</p>
-<p>They even added <a href="https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents/prompts">some example prompts</a> from their Research system to their open source prompting cookbook. Here's <a href="https://github.com/anthropics/anthropic-cookbook/blob/46f21f95981e3633d7b1eac235351de4842cf9f0/patterns/agents/prompts/research_lead_agent.md?plain=1#L135-L137">the bit</a> that encourages parallel tool use:</p>
-<blockquote>
-<p><code>&lt;use_parallel_tool_calls&gt; For maximum efficiency, whenever you need to perform multiple independent operations, invoke all relevant tools simultaneously rather than sequentially. Call tools in parallel to run subagents at the same time. You MUST use parallel tool calls for creating multiple subagents (typically running 3 subagents at the same time) at the start of the research, unless it is a straightforward query. For all other queries, do any necessary quick initial planning or investigation yourself, then run multiple subagents in parallel. Leave any extensive tool calls to the subagents; instead, focus on running subagents in parallel efficiently. &lt;/use_parallel_tool_calls&gt;</code></p>
-</blockquote>
-<p>And an interesting description of <a href="https://github.com/anthropics/anthropic-cookbook/blob/46f21f95981e3633d7b1eac235351de4842cf9f0/patterns/agents/prompts/research_subagent.md?plain=1#L10">the OODA research loop</a> used by the sub-agents: </p>
-<blockquote>
-<p><code>Research loop: Execute an excellent OODA (observe, orient, decide, act) loop by (a) observing what information has been gathered so far, what still needs to be gathered to accomplish the task, and what tools are available currently; (b) orienting toward what tools and queries would be best to gather the needed information and updating beliefs based on what has been learned so far; (c) making an informed, well-reasoned decision to use a specific tool in a certain way; (d) acting to use this tool. Repeat this loop in an efficient way to research well and learn based on new results.</code></p>
-</blockquote>
-
-
-    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/evals">evals</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/ai-assisted-search">ai-assisted-search</a>, <a href="https://simonwillison.net/tags/paper-review">paper-review</a>, <a href="https://simonwillison.net/tags/agent-definitions">agent-definitions</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/Jun/14/multi-agent-research-system/#atom-everything>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-06-14, from: Robert's feed at BlueSky)
-
-Wonderful 👇
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3lrlv5nq4ps2x>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
-
-‘No Kings’ protests in Berkeley, Oakland. 
-
-<br> 
-
-<https://www.berkeleyside.org/2025/06/14/no-kings-berkeley-oakland>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
-
-FediForum Keynote: Cory Doctorow. 
-
-<br> 
-
-<https://m.youtube.com/watch?v=7_Gs1t0qe78>
-
----
-
-## llm-fragments-youtube
-
-date: 2025-06-14, updated: 2025-06-14, from: Simon Willison’s Weblog
-
-<p><strong><a href="https://github.com/redraw/llm-fragments-youtube">llm-fragments-youtube</a></strong></p>
-Excellent new <a href="https://llm.datasette.io/">LLM</a> plugin by Agustin Bacigalup which lets you use the subtitles of any YouTube video as a <a href="https://simonwillison.net/2025/Apr/7/long-context-llm/">fragment</a> for running prompts against.</p>
-<p>I tried it out like this:</p>
-<pre><code>llm install llm-fragments-youtube
-llm -f youtube:dQw4w9WgXcQ \
-  'summary of people and what they do'
-</code></pre>
-<p>Which returned (<a href="https://gist.github.com/simonw/6098f6e48981d84d1130f34566d0a116">full transcript</a>):</p>
-<blockquote>
-<p>The lyrics you've provided are from the song "Never Gonna Give You Up" by Rick Astley. The song features a narrator who is expressing unwavering love and commitment to another person. Here's a summary of the people involved and their roles:</p>
-<ul>
-<li>
-<p><strong>The Narrator (Singer):</strong> A person deeply in love, promising loyalty, honesty, and emotional support. They emphasize that they will never abandon, hurt, or deceive their partner.</p>
-</li>
-<li>
-<p><strong>The Partner (Implied Listener):</strong> The person the narrator is addressing, who is experiencing emotional pain or hesitation ("Your heart's been aching but you're too shy to say it"). The narrator is encouraging them to understand and trust in the commitment being offered.</p>
-</li>
-</ul>
-<p>In essence, the song portrays a one-sided but heartfelt pledge of love, with the narrator assuring their partner of their steadfast dedication.</p>
-</blockquote>
-<p>The plugin works by including <a href="https://github.com/yt-dlp/yt-dlp">yt-dlp</a> as a Python dependency and then executing it via a call to <code>subprocess.run()</code>.
-
-
-    <p>Tags: <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/youtube">youtube</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/Jun/14/llm-fragments-youtube/#atom-everything>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-06-14, from: Robert's feed at BlueSky)
-
-Lovely Farmer's Market and a delightfully large turn out for No Kings in my town. 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3lrljx5ofvs2l>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
-
-Melissa Hortman and Another Minnesota Lawmaker Shot. 
-
-<br> 
-
-<https://nymag.com/intelligencer/article/minnesota-lawmakers-melissa-hortman-targeted-attack-updates.html>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
-
-Minnesota Democratic lawmaker shootings: Rep. Hortman killed, Sen. Hoffman shot and injured. 
-
-<br> 
-
-<https://www.mprnews.org/story/2025/06/14/northwest-metro-brooklyn-park-champlin-shootings-shelter-order>
-
----
-
-## Quoting Google Cloud outage incident report
-
-date: 2025-06-14, updated: 2025-06-14, from: Simon Willison’s Weblog
-
-<blockquote cite="https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW"><p><em>Google Cloud, Google Workspace and Google Security Operations products experienced increased 503 errors in external API requests, impacting customers.</em> [...]</p>
-<p>On May 29, 2025, a new feature was added to Service Control for additional quota policy checks. This code change and binary release went through our region by region rollout, but the code path that failed was never exercised during this rollout due to needing a policy change that would trigger the code. [...] The issue with this change was that it did not have appropriate error handling nor was it feature flag protected. [...]</p>
-<p>On June 12, 2025 at ~10:45am PDT, a policy change was inserted into the regional Spanner tables that Service Control uses for policies. Given the global nature of quota management, this metadata was replicated globally within seconds. This policy data contained unintended blank fields. Service Control, then regionally exercised quota checks on policies in each regional datastore. This pulled in blank fields for this respective policy change and exercised the code path that hit the null pointer causing the binaries to go into a crash loop. This occurred globally given each regional deployment.</p></blockquote>
-<p class="cite">&mdash; <a href="https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW">Google Cloud outage incident report</a></p>
-
-    <p>Tags: <a href="https://simonwillison.net/tags/feature-flags">feature-flags</a>, <a href="https://simonwillison.net/tags/postmortem">postmortem</a>, <a href="https://simonwillison.net/tags/google">google</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/Jun/14/google-cloud-outage-incident-report/#atom-everything>
-
----
-
-## Media Diet
-
-date: 2025-06-14, from: Chris Coyier blog
-
-📺 WondLa — I was enamored by this story of a girl in a strange post-apoc world. Season 1 was a lot stronger than season 2, so despite the cliffhanger ending, I&#8217;m not holding my breath for a third. 🎥 Sinners — This was like three movies in one. A movie about family and community [&#8230;] 
-
-<br> 
-
-<https://chriscoyier.net/2025/06/14/media-diet-8/>
-
----
-
-## Climate Change Warps Brains in the Womb, Scientists Discover
-
-date: 2025-06-14, from: 404 Media Group
-
-Scientists exhumed bald cypress trees that lived thousands of years ago and recorded climactic turmoil.   
-
-<br> 
-
-<https://www.404media.co/climate-change-warps-brains-in-the-womb-scientists-discover/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
-
-No Kings in Kingston, NY. 
-
-<br> 
-
-<https://www.mobilize.us/nokings/event/786080/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
-
-Major &#39;No Kings&#39; protests against Trump planned across US. 
-
-<br> 
-
-<https://apnews.com/article/no-kings-protest-trump-philadelphia-los-angeles-immigration-raids-a3b67d23733cd060f8d01aef1e391dbf>
-
----
-
-## Play, Rhetoric, and the Circulation of J.D. Vance Photoshops
-
-date: 2025-06-14, from: Digital Humanities Quarterly News
-
-Memes present us with the familiar tension between individual texts and the fluid generic categories that bind them together. What is the “meme” when I Rickroll a friend: is it the friend’s arrival at the YouTube video of Rick Astley shimmying in a church, or is it the recognizable practice of concealing this link and [...]
-<p><a href="https://www.digitalrhetoriccollaborative.org/2025/06/14/play-rhetoric-and-the-circulation-of-j-d-vance-photoshops/" rel="nofollow">Source</a></p> 
-
-<br> 
-
-<https://www.digitalrhetoriccollaborative.org/2025/06/14/play-rhetoric-and-the-circulation-of-j-d-vance-photoshops/>
-
----
-
-## Global Inequality: Branko Milanovic
-
-date: 2025-06-14, from: Paul Krugman
-
-Talking with the guy down the hall 
-
-<br> 
-
-<https://paulkrugman.substack.com/p/global-inequality-branko-milanovic>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
-
-The problem with vast wealth is that it’s useless. 
-
-<br> 
-
-<https://www.nytimes.com/2025/06/14/world/europe/venice-bezos-sanchez-wedding-amazon.html>
-
----
-
-## the z80 technique reveals the source code for Atlassian's 'rovo' AI assistant
-
-date: 2025-06-14, from: Geoffrey Hunntley's blog
-
-<p>Ever wondered what happens if you take the technique at &quot;<a href="https://ghuntley.com/z80/">Can a LLM convert C, to ASM to specs and then to a working Z/80 Speccy tape? Yes.</a>&quot; and run it against the Atasslian Command Line (<a href="https://developer.atlassian.com/cloud/acli/guides/introduction/?ref=ghuntley.com">ACLI</a>) interface? Strap yourself in, as the Z80 is amongst one</p> 
-
-<br> 
-
-<https://ghuntley.com/atlassian-rovo-source-code/>
-
----
-
-**@Feed for Alt USDS** (date: 2025-06-14, from: Feed for Alt USDS)
-
-Not all heroes carry signs.
-Some organize, some heal, some hold space.
-You don’t have to march to matter.
-
-Read our latest newsletter on how protest movements. Credit and special thanks to @deepaiyer.bsky.social and @hankgreen.bsky.social. 
-
-🛠️ https://bit.ly/More-Than-Marching 
-
-<br> 
-
-<https://bsky.app/profile/altusds.altgov.info/post/3lrjyvmp4xc2p>
-
----
-
-## Saturday March
-
-date: 2025-06-14, from: Innessential (Brint Simmons' blog)
-
-<p>
-<p>Tomorrow is <a href="https://www.nokings.org/">No Kings</a>. There’s one near you!</p>
-
-<p>Chatting with my friends about how I hate these fascist assholes doesn’t do a damn thing. Protests work. (Imperfectly, sure, with no guarantees. But it sure beats <em>not</em> protesting.)</p> 
-
-<br> 
-
-<https://inessential.com/2025/06/13/saturday-march.html>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
-
-Rule #1: Interop is all that matters. 
-
-<br> 
-
-<https://this.how/standards/>
-
----
-
-**@Feed for Alt USDS** (date: 2025-06-14, from: Feed for Alt USDS)
-
-This is worth paying attention to. Something we will need to account for in scenarios going forward. 
-
-Thanks for tipping us off, @altuscustoms.altgov.info
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/altusds.altgov.info/post/3lrjs6ie3mk2g>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-14, from: Dave Winer's linkblog)
-
-Inside Mark Zuckerberg’s AI hiring spree. 
-
-<br> 
-
-<https://www.theverge.com/command-line-newsletter/687173/inside-mark-zuckerbergs-ai-hiring-spree>
-
----
-
-## The Narrative
-
-date: 2025-06-14, updated: 2025-06-14, from: Tedium site
-
-Whether intentional or not, an attempt to paint Bluesky as one type of thing has taken hold in the press. A bad narrative is hard to shake, even if it’s unfair. As a user, don’t be afraid to push back. 
-
-<br> 
-
-<https://feed.tedium.co/link/15204/17051355/bluesky-unfair-narrative>
-
----
-
-## We're Still Underestimating What AI Really Means
-
-date: 2025-06-14, updated: 2025-06-14, from: Ryan Dahl's blog
-
-Most people are focused on short-term gains. Another tech wave, another startup to spin up. It's easy to frame AI as the next platform shift like mobile or VR.
-But that lens is much too narrow. 
-
-<br> 
-
-<https://tinyclouds.org/underestimating-ai>
-
----
-
-## A2A Is For UI
-
-date: 2025-06-14, updated: 2025-06-14, from: Tom Kellog blog
-
-There’s a lot of skepticism around A2A, Google’s Agent-to-Agent protocol.
-A lot of that is well earned. I mean, they launched a protocol with zero implementations.
-But a lot’s changed, and it’s worth taking a look again. 
-
-<br> 
-
-<http://timkellogg.me/blog/2025/06/14/a2a>
 

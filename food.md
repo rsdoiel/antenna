@@ -1,11 +1,23 @@
 ---
 title: food
-updated: 2025-06-21 14:06:38
+updated: 2025-06-22 06:08:25
 ---
 
 # food
 
-(date: 2025-06-21 14:06:38)
+(date: 2025-06-22 06:08:25)
+
+---
+
+## It’s Pinky, Pinky And Bourbon-Bon-Bon-Bon-Bon
+
+date: 2025-06-22, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village. 
+
+<br> 
+
+<https://sprudge.com/its-pinky-pinky-and-bourbon-bon-bon-bon-bon-349043.html>
 
 ---
 

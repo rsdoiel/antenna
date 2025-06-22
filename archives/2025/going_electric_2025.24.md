@@ -1,11 +1,159 @@
 ---
 title: going electric
-updated: 2025-06-21 14:06:38
+updated: 2025-06-22 06:08:24
 ---
 
 # going electric
 
-(date: 2025-06-21 14:06:38)
+(date: 2025-06-22 06:08:24)
+
+---
+
+## Republicans can’t stop wasting money – they want to scrap USPS’ awesome EVs
+
+date: 2025-06-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/09/Oshkosh-USPS.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Senate version of the repubilcans’ tax bill won’t just add trillions of dollars to the deficit through a <a href="https://electrek.co/2025/05/22/house-republicans-vote-to-send-us-ev-jobs-to-china-give-trillions-to-us-elites/">massive giveaway to wealthy elites</a>, it will also take the US Postal Service’s awesome new EVs and sell them off for pennies on the dollar, wasting money simply out of spite for vehicles that were already cleaning your air and making your community safer.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="usps" data-layer-viewtype="unknown" data-post-id="421501" href="https://electrek.co/2025/06/22/republicans-cant-stop-wasting-money-they-want-to-scrap-usps-awesome-evs/#more-421501" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/22/republicans-cant-stop-wasting-money-they-want-to-scrap-usps-awesome-evs/>
+
+---
+
+## GM’s interesting electric motorcycle patent fuels two-wheeler speculation
+
+date: 2025-06-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/gm-motorcycle-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>General Motors may be better known for its lineup of full-size trucks and SUVs, but a recently published patent shows the legacy automaker has at least <em>considered</em> something much smaller and nimbler: an electric motorcycle. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle,gm" data-layer-viewtype="unknown" data-post-id="421510" href="https://electrek.co/2025/06/22/gms-interesting-electric-motorcycle-patent-fuels-two-wheeler-speculation/#more-421510" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/22/gms-interesting-electric-motorcycle-patent-fuels-two-wheeler-speculation/>
+
+---
+
+## Tesla Robotaxis Are Already Zooming Around Austin
+
+date: 2025-06-22, from: Inside EVs News
+
+Social media users caught a glimpse of several Tesla Model Ys driving around South Congress Avenue, with no one in the driver's seat. 
+
+<br> 
+
+<https://insideevs.com/news/763472/tesla-robotaxi-sightings-austin-launch/>
+
+---
+
+## Current Classics: Rolls-Royce Phantom V gets even smoother and quieter
+
+date: 2025-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/lunaz-rolls-royce-phantom-v-5-copy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The electric restomod experts at <a href="https://electrek.co/?s=lunaz">Lunaz</a> have turned their talents towards the classic Rolls-Royce Phantom V limousine – and the result is exactly the kind of smooth, quiet, and luxurious ride RR’s founders would have built.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lunaz-design,restomods,rolls-royce" data-layer-viewtype="unknown" data-post-id="421472" href="https://electrek.co/2025/06/21/current-classics-rolls-royce-phantom-v-gets-even-smoother-and-quieter/#more-421472" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/21/current-classics-rolls-royce-phantom-v-gets-even-smoother-and-quieter/>
+
+---
+
+## Trump Says He's Making Cars Cheaper. Nope
+
+date: 2025-06-21, from: Inside EVs News
+
+Tariffs, ending tax credits, driving up gas prices—it's hard to see where Trump's policies make cars actually cheaper. 
+
+<br> 
+
+<https://insideevs.com/news/763463/trump-tariffs-ev-costs-cheaper/>
+
+---
+
+## Fortescue Infinity Train electric locomotive never needs fuel or charging
+
+date: 2025-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/FORTESCUE_RAIL.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Fortescue has taken the wraps off a prototype of its proposed “Infinity Train” electric locomotive, making the 1,100 km (about 685 miles) trip from Perth to the Pilbara and marking a major milestone in the decarbonization of the company’s heavy haul operations.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-train,fortescue,heavy-equipment,mining" data-layer-viewtype="unknown" data-post-id="421446" href="https://electrek.co/2025/06/21/fortescue-infinity-train-electric-locomotive-never-needs-fuel-or-charging/#more-421446" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/21/fortescue-infinity-train-electric-locomotive-never-needs-fuel-or-charging/>
+
+---
+
+## Canadian study finds that 33% of commercial trucks are ready to electrify – today
+
+date: 2025-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/paccar_kenworth-t680e.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new study by the Pembina Institute shows that a third of the commercial trucks and vans on Toronto’s roads are ready to electrify today – while nearly half could be electrified by 2030.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="canada,commercial-evs,electric-trucks" data-layer-viewtype="unknown" data-post-id="421403" href="https://electrek.co/2025/06/21/canadian-study-finds-that-33-of-commercial-trucks-are-ready-to-electrify-today/#more-421403" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/21/canadian-study-finds-that-33-of-commercial-trucks-are-ready-to-electrify-today/>
+
+---
+
+## Tesla’s former head of AI warns against believing that self-driving is solved
+
+date: 2025-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/03/Andrej-Karpathy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s former head of artificial intelligence, Andrej Karpathy, who worked on the automaker’s self-driving effort until 2022, warns against believing that self-driving is solved, and fully autonomous vehicles are happening soon.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="421072" href="https://electrek.co/2025/06/21/tesla-former-head-ai-warns-against-believing-self-driving-solved/#more-421072" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/21/tesla-former-head-ai-warns-against-believing-self-driving-solved/>
+
+---
+
+## Porsche Macan EV Highway Range Test: Here's The Difference 10 MPH Makes
+
+date: 2025-06-21, from: Inside EVs News
+
+Usually, driving an EV slower on long trips is the way to go. With Porsche’s electric crossover, though, it’s not that simple. 
+
+<br> 
+
+<https://insideevs.com/news/763362/porsche-macan-ev-70-80-mph-range-test/>
+
+---
+
+## The ticket bot cometh: city is recording drivers that AI says are bad
+
+date: 2025-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/ai_tickets.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>In a high-tech move that we can all get behind and isn’t dystopian <em>at all</em>, the City of Barcelona is feeding camera data from its city buses into an advanced AI, but they swear they’re not using the footage to to issue tickets to bad drivers. Yet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ai,electric-buses,spain" data-layer-viewtype="unknown" data-post-id="421368" href="https://electrek.co/2025/06/20/the-ticket-bot-cometh-city-is-recording-drivers-that-ai-says-are-bad/#more-421368" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/20/the-ticket-bot-cometh-city-is-recording-drivers-that-ai-says-are-bad/>
 
 ---
 
@@ -1767,52 +1915,4 @@ date: 2025-06-15, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/06/15/lion-electric-leaves-us-school-districts-stuck-with-unsafe-broken-buses/>
-
----
-
-## Mitsubishi debuts EV battery swap network for cars AND trucks in Tokyo
-
-date: 2025-06-14, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/mitsubishi_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Mitsubishi is partnering with <a href="https://electrek.co/2024/03/28/ample-eneos-bringing-first-ev-battery-swap-stations-to-japan/">Ample</a> and Yamoto Transports to deploy an innovative new battery swap network for electric cars in its Japanese home market — but it’s not just for electric <em>cars</em>. Mitsubishi Fuso commercial trucks are getting in on the action, too!</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="battery-swap,commercial-evs,last-mile-delivery-evs,mitsubishi" data-layer-viewtype="unknown" data-post-id="420368" href="https://electrek.co/2025/06/14/mitsubishi-debuts-ev-battery-swap-network-for-cars-and-trucks-in-tokyo/#more-420368" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/06/14/mitsubishi-debuts-ev-battery-swap-network-for-cars-and-trucks-in-tokyo/>
-
----
-
-## Opel Grandland Blitz AWD electric SUV should give US Jeep fans hope
-
-date: 2025-06-14, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Opel_Grandland_Electric.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>After becoming the first European brand to offer fully electric versions of every model it sells — <a href="https://electrek.co/2024/10/13/price-parity-is-here-new-stellantis-crossover-is-the-same-price-ev-or-ice/">and at the same price as the ICE models</a> — Opel is going even further, with a new, AWD electric SUV that should give American Jeep fans hope for a new electric Cherokee!</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="jeep,opel,stellantis" data-layer-viewtype="unknown" data-post-id="420346" href="https://electrek.co/2025/06/14/opel-grandland-blitz-awd-electric-suv-should-give-us-jeep-fans-hope/#more-420346" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/06/14/opel-grandland-blitz-awd-electric-suv-should-give-us-jeep-fans-hope/>
-
----
-
-## With $25,000 off, is the Jeep Wagoneer S the best EV deal going?
-
-date: 2025-06-14, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/jeep_wagoneer_deals.jpg?quality=82&#038;strip=all&#038;w=1450" /></div><p>Like a 90s “gifted” kid that was supposed to be a lot of things, the electric Jeep Wagoneer S never really found its place — but with dealers discounting the Jeep brands forward-looking flagship by nearly $25,000, it might be time to give the go-fast Wagoneer S a second look.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,jeep,stellantis" data-layer-viewtype="unknown" data-post-id="420330" href="https://electrek.co/2025/06/14/with-25000-off-is-the-jeep-wagoneer-s-the-best-ev-deal-going/#more-420330" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/06/14/with-25000-off-is-the-jeep-wagoneer-s-the-best-ev-deal-going/>
 

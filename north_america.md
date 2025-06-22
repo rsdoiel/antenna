@@ -1,11 +1,37 @@
 ---
 title: north america
-updated: 2025-06-21 14:06:30
+updated: 2025-06-22 06:08:15
 ---
 
 # north america
 
-(date: 2025-06-21 14:06:30)
+(date: 2025-06-22 06:08:15)
+
+---
+
+## Breaking News: U.S. enters war
+
+date: 2025-06-22, from: The Contrarian
+
+A recording from Jennifer Rubin's live video with Steven A. Cook and Ilan Goldenberg. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166496524/f0ea3e37e46af0283b2c5efeb785e9ff.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166496524/f0ea3e37e46af0283b2c5efeb785e9ff.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/breaking-news-us-enters-war>
+
+---
+
+##  YOU LOVE TO SEE IT: PAC It Up! 
+
+date: 2025-06-21, from: The Lever News
+
+ Billionaire money gets backlash, millions march against a monarch, concert tickets meet market forces, and consumer safety advocates score a win.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-pac-it-up/>
 
 ---
 
@@ -934,28 +960,4 @@ Coast-to-coast coverage of the resistance
 </audio> <a href="https://api.substack.com/feed/podcast/165803404/80f042116bcedc7d09f390a5c0bbeffd.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/no-kings-day-live-fbd>
-
----
-
-## No Kings Day LIVE!
-
-date: 2025-06-14, from: The Contrarian
-
-You don&#8217;t need to watch that self-aggrandizing, wasteful birthday party Trump&#8217;s throwing for himself. 
-
-<br> 
-
-<https://contrarian.substack.com/p/no-kings-day-live>
-
----
-
-## The Autocrat's Parade
-
-date: 2025-06-14, from: The Contrarian
-
-Your tax dollars at work. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-autocrats-parade>
 

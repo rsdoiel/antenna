@@ -1,11 +1,437 @@
 ---
 title: pacific
-updated: 2025-06-21 14:06:32
+updated: 2025-06-22 06:08:16
 ---
 
 # pacific
 
-(date: 2025-06-21 14:06:32)
+(date: 2025-06-22 06:08:16)
+
+---
+
+## Paving work to begin at Onekahakaha park
+
+date: 2025-06-22, from: Hawaii Tribune Harold
+
+
+				<p>A paving project at Onekahakaha Beach Park will begin Monday to address concerns raised at a recent community meeting in Keaukaha.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/22/hawaii-news/paving-work-to-begin-at-onekahakaha-park/>
+
+---
+
+## Close call for police chief: Commission sets meeting to let Moszkowicz answer ‘tough questions’
+
+date: 2025-06-22, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Police Department Chief Benjamin Moszkowicz came within a single vote Friday of losing his job as the Big Island&#8217;s top cop at the Hawaii County Police Commission meeting in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/22/hawaii-news/close-call-for-police-chief-commission-sets-meeting-to-let-moszkowicz-answer-tough-questions/>
+
+---
+
+## Some progress made at Pacific Tsunami Museum: After being forced to close, revitalization effort is underway
+
+date: 2025-06-22, from: Hawaii Tribune Harold
+
+
+				<p>The Pacific Tsunami Museum has been stepping up its efforts to raise money while it works through a revitalization plan.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/22/hawaii-news/some-progress-made-at-pacific-tsunami-museum-after-being-forced-to-close-revitalization-effort-is-underway/>
+
+---
+
+## Public invited to learn about Kona open space plan
+
+date: 2025-06-22, from: Hawaii Tribune Harold
+
+
+				<p>The West Hawaii community is invited to a walk-through and talk-story event Saturday about the Kona Open Space Network.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/22/hawaii-news/public-invited-to-learn-about-kona-open-space-plan/>
+
+---
+
+## With decision to bomb Iran, Trump injects US into Mideast conflict
+
+date: 2025-06-22, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump announced Saturday that the U.S. military had &#8220;totally obliterated&#8221; three of Iran&#8217;s nuclear sites, including its uranium-enrichment facility deep underground at Fordo, injecting the United States directly into a war in the Middle East.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/22/nation-world-news/with-decision-to-bomb-iran-trump-injects-us-into-mideast-conflict/>
+
+---
+
+## GOP lawmakers cheer strike on Iran as top Dems condemn it
+
+date: 2025-06-22, from: Hawaii Tribune Harold
+
+
+				<p>Top Republicans in Congress swiftly rallied behind President Donald Trump on Saturday after he ordered strikes on three Iranian nuclear sites, even as senior Democrats and some GOP lawmakers condemned it as an unconstitutional move that could drag the United States into a broader war in the Middle East.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/22/nation-world-news/gop-lawmakers-cheer-strike-on-iran-as-top-dems-condemn-it/>
+
+---
+
+## Senate official rejects food aid cuts proposed by Republicans in megabill
+
+date: 2025-06-22, from: Hawaii Tribune Harold
+
+
+				<p>A top Senate official on Friday night rejected a bid by Republicans to slash federal food aid payments as part of their sweeping legislation carrying President Donald Trump&#8217;s domestic agenda, sending party leaders scrambling to find another way to help offset the massive cost of the bill.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/22/nation-world-news/senate-official-rejects-food-aid-cuts-proposed-by-republicans-in-megabill/>
+
+---
+
+## Mahmoud Khalil returns to New York after months in detention
+
+date: 2025-06-22, from: Hawaii Tribune Harold
+
+
+				<p>Mahmoud Khalil walked through a nondescript door into a Newark, New Jersey, airport lobby Saturday, his wife to his left, a member of Congress to his right and a stroller in front of him. His fist was raised and he could not stop smiling.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/22/nation-world-news/mahmoud-khalil-returns-to-new-york-after-months-in-detention/>
+
+---
+
+## As Iran and Israel battle, the rest of the Mideast fears what’s next
+
+date: 2025-06-22, from: Hawaii Tribune Harold
+
+
+				<p>ISTANBUL &#8212; Across a swath of the Middle East, fighter jets and missiles regularly streak across the sky. The newest war in the region, this time between Israel and Iran, has once again put millions of people in the crossfire of a conflict that they want nothing to do with.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/22/nation-world-news/as-iran-and-israel-battle-the-rest-of-the-mideast-fears-whats-next/>
+
+---
+
+## Midwest cities bake as heat wave blankets the central US
+
+date: 2025-06-22, from: Hawaii Tribune Harold
+
+
+				<p>Dick Kraklow rolled into Minneapolis this past week with three generations of his family and several vintage vehicles in tow, excited for an annual gathering of the Minnesota Street Rod Association that celebrates classic cars.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/22/nation-world-news/midwest-cities-bake-as-heat-wave-blankets-the-central-us/>
+
+---
+
+## Air India CEO’s remarks after plane crash draw scrutiny
+
+date: 2025-06-22, from: Hawaii Tribune Harold
+
+
+				<p>Campbell Wilson stood before a camera last week to read a carefully worded statement about the plane operated by Air India, the company he leads, that had crashed hours earlier in Ahmedabad, India, with 242 people aboard.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/22/nation-world-news/air-india-ceos-remarks-after-plane-crash-draw-scrutiny/>
+
+---
+
+## School’s out: Introducing new interns at HVO
+
+date: 2025-06-22, from: Hawaii Tribune Harold
+
+
+				<p>As another school year ends, the USGS Hawaiian Volcano Observatory welcomes two new summer interns: Kamalani Poepoe and Ruth Gale. With an ongoing eruption at the summit Kilauea, now is the perfect time for these interns to contribute to ongoing work to better understand eruptions in Hawaii.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/22/features/schools-out-introducing-new-interns-at-hvo/>
+
+---
+
+## 36 hours in East London
+
+date: 2025-06-22, from: Hawaii Tribune Harold
+
+
+				<p>There is no better time to visit East London than in the summer. From May to September, Londoners emerge to sip canned cocktails in parks, languish by the boats on Regent&#8217;s Canal and pick over tchotchkes at outdoor markets. But there is plenty of fun to be had inside, too. The area, which was included in The New York Times&#8217; 52 Places to Go in 2025, has undergone a cultural makeover in the years after the 2012 Olympics. Olympic Park, built on a former brownfield site in the district of Stratford, gained a dance theater and an outpost of the Victoria and Albert Museum this year. And the Soho Theater has opened a branch in Walthamstow, an area about 40 minutes from central London. A lot of this itinerary takes place in the many neighborhoods that make up the borough of Hackney, including Dalston, Shoreditch and Hoxton. The neighborhoods are magnets for the more trend-conscious and easily memed set, but there are places where you can still glimpse the area&#8217;s industrial roots and vibrant immigrant communities. It is the balance between old and new, established and evolving that makes East London hum.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/22/features/36-hours-in-east-london/>
+
+---
+
+## Steves: Bucharest is Romania’s ‘Little Paris of the East’
+
+date: 2025-06-22, from: Hawaii Tribune Harold
+
+
+				<p>Still haunted by the legend of a vampire count and the legacy of a communist dictator, Romania is complex &#8212; with an epic history, a multifaceted ethnic mix, and an unusually rich cultural heritage. It may not be the easiest place to travel, but for adventurous souls, it&#8217;s exceptionally rewarding.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/22/features/steves-bucharest-is-romanias-little-paris-of-the-east/>
+
+---
+
+## Walmart tries to shed a stodgy vibe to battle digital-native rivals
+
+date: 2025-06-22, from: Hawaii Tribune Harold
+
+
+				<p>BENTONVILLE, Ark. &#8212; &#8220;There are no cash registers in the home office.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/22/nation-world-news/walmart-tries-to-shed-a-stodgy-vibe-to-battle-digital-native-rivals/>
+
+---
+
+## Trump says US forces bombed Iran nuclear sites; says ‘Fordow is gone’
+
+date: 2025-06-22, updated: 2025-06-22, from: Marianas Variety
+
+WASHINGTON (Reuters) — President Donald Trump on Saturday said that a "very successful attack" on three nuclear sites in Iran had been successfully carried out, including at Fordow. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-says-us-forces-bombed-iran-nuclear-sites-says-fordow-is-gone/article_03caa463-1f1b-4d43-826a-973b04d4b348.html>
+
+---
+
+## Stealth bombers headed to Guam?
+
+date: 2025-06-21, from: Pacific Island Times
+
+By Pacific Island Times News Staff Six B-2 stealth bombers departed from Whiteman Air Force Base in Missouri and were speculated to be... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/stealth-bombers-headed-to-guam>
+
+---
+
+## Business Briefs
+
+date: 2025-06-21, from: Pacific Island Times
+
+New restaurant to open at LeoPalace The Tangantangan Grill at the LeoPalace Resort is set to open on June 27, with longtime Guam chef... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/business-briefs>
+
+---
+
+## Community Events: Friendship recital, skills showcase, Freedom Rocks, fitness expo
+
+date: 2025-06-21, from: Pacific Island Times
+
+Osaka students return for Friendship recital at Micronesia Mall Students from Sakai Liberal High School in Osaka, Japan returned to Guam... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/community-events-skills-showcase-freedom-rocks-fitness-expo>
+
+---
+
+## Trump’s rebuke of Gabbard signals an uneasy moment
+
+date: 2025-06-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump was angry.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/21/nation-world-news/trumps-rebuke-of-gabbard-signals-an-uneasy-moment/>
+
+---
+
+## AG wraps review of Lahaina wildfire
+
+date: 2025-06-21, from: Hawaii Tribune Harold
+
+
+				<p>After nearly two years, the state&#8217;s investigation into government response to the deadly Aug. 8, 2023, Lahaina wildfire has concluded, with future wildfire planning and coordination efforts transitioning to the newly established state fire marshal&#8217;s office and the Hawaii Wildfire Management Organization, state Attorney General Anne Lopez announced Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/21/hawaii-news/ag-wraps-review-of-lahaina-wildfire/>
+
+---
+
+## Seeking jobs and purpose, fired federal workers form new networks
+
+date: 2025-06-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; When Scott Gagnon was fired from his government job this year, he and his laid-off colleagues kept in touch to vent, comfort each other and share job opportunities. It quickly turned into an informal but crucial support group.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/21/nation-world-news/seeking-jobs-and-purpose-fired-federal-workers-form-new-networks/>
+
+---
+
+## ‘Little Lobbyists’ urge senators to oppose Trump’s bill cutting Medicaid
+
+date: 2025-06-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Landry Bell, a 1-year-old boy who was born with Down syndrome, wriggled and smiled in his big sister&#8217;s lap on the floor outside Republican Sen. Mike Lee&#8217;s office this week as he took a break from going office to office with his mother while she explained how cuts to Medicaid would devastate their family.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/21/nation-world-news/little-lobbyists-urge-senators-to-oppose-trumps-bill-cutting-medicaid/>
+
+---
+
+## Tropical Gardening: Hurricane season quiet — so far
+
+date: 2025-06-21, from: Hawaii Tribune Harold
+
+
+				<p>Even though hurricane season officially started June first, the first month is generally quiet and this year is forecasted to have relatively few storms in the Central Pacific. However, it only takes one storm hit to create a big mess.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/21/features/tropical-gardening-hurricane-season-quiet-so-far/>
+
+---
+
+## Appeals court lets Trump keep control of California National Guard in LA
+
+date: 2025-06-21, from: Hawaii Tribune Harold
+
+
+				<p>A federal appeals court late Thursday cleared the way for President Donald Trump to keep using the National Guard to respond to immigration protests in Los Angeles, declaring that a judge in San Francisco had erred last week when he ordered Trump to return control of the troops to Gov. Gavin Newsom of California.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/21/nation-world-news/appeals-court-lets-trump-keep-control-of-california-national-guard-in-la/>
+
+---
+
+## Judge blocks a Trump effort to prevent international students at Harvard
+
+date: 2025-06-21, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge in Boston sided with Harvard University on Friday and blocked a Trump administration effort to rescind the school&#8217;s right to host international students.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/21/nation-world-news/judge-blocks-a-trump-effort-to-prevent-international-students-at-harvard/>
+
+---
+
+## Mahmoud Khalil is released on bail after federal judge’s order
+
+date: 2025-06-21, from: Hawaii Tribune Harold
+
+
+				<p>Mahmoud Khalil, the first pro-Palestinian campus protester detained by the Trump administration, was released on bail Friday after a judge ordered an end to his monthslong imprisonment.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/21/nation-world-news/mahmoud-khalil-is-released-on-bail-after-federal-judges-order/>
+
+---
+
+## Europe attempts to provide an off-ramp to Iran in Geneva talks
+
+date: 2025-06-21, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; As missiles flew between Israel and Iran, diplomats from Europe convened Friday across a table from Iran&#8217;s foreign minister, Abbas Araghchi, in Switzerland to try to find an off-ramp for a rapidly accelerating regional conflict.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/21/nation-world-news/europe-attempts-to-provide-an-off-ramp-to-iran-in-geneva-talks/>
+
+---
+
+## LA Dodgers pledge $1 million to support families impacted by ICE raids
+
+date: 2025-06-21, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; The Los Angeles Dodgers have committed $1 million toward direct financial assistance for families of immigrants impacted by the surge in detentions and deportations in the region, the team announced on Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/21/nation-world-news/la-dodgers-pledge-1-million-to-support-families-impacted-by-ice-raids/>
+
+---
+
+## Skunk captured on Oahu, tested for rabies
+
+date: 2025-06-21, from: Hawaii Tribune Harold
+
+
+				<p>A skunk was captured, euthanized and tested for rabies after it was found running around Kakaako Waterfront Park in Honolulu on Wednesday night, state officials said Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/20/hawaii-news/skunk-captured-on-oahu-tested-for-rabies/>
+
+---
+
+## Fuaki aspires to make an impact
+
+date: 2025-06-21, from: University of the South Pacific (Fiji)
+
+<p>Watching news presenters on television deliver updates in a confident and professional manner introduced a...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/fuaki-aspires-to-make-an-impact/">Fuaki aspires to make an impact</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/fuaki-aspires-to-make-an-impact/>
 
 ---
 
@@ -691,45 +1117,9 @@ date: 2025-06-19, updated: 2025-06-21, from: Marianas Variety
 
 ---
 
-## HANMI occupancy at 22.7% in May 2025
-
-date: 2025-06-19, updated: 2025-06-19, from: Marianas Variety
-
-THE Hotel Association of the Northern Mariana Islands reported a 22.79% average occupancy rate among 11 member hotels for May 2025, 13.41% lower than 36.2% in May 2024. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/hanmi-occupancy-at-22-7-in-may-2025/article_b1b2993b-2b1b-49d0-8dc7-7ad96d79e7d7.html>
-
----
-
-## Trump faces uproar from MAGA base over possible Iran strike
-
-date: 2025-06-19, updated: 2025-06-19, from: Marianas Variety
-
-WASHINGTON (Reuters) — The prospect of a U.S. strike against Iran has exposed divisions in the coalition of supporters that brought President Donald Trump to power, with some of his base urging him not to get the country involved in a new Middle East war. 
-
-<br> 
-
-<https://www.mvariety.com/news/national/trump-faces-uproar-from-maga-base-over-possible-iran-strike/article_bb8be03b-b32a-43a7-8932-6ee44448c570.html>
-
----
-
-## CNMI, DoD leaders discuss regional defense during stakeholders meeting
-
-date: 2025-06-19, updated: 2025-06-19, from: Marianas Variety
-
-KEY leaders from the Department of Defense, Commonwealth of the Northern Mariana Islands government, federal agencies, and community representatives gathered for a CNMI Stakeholders Meeting in Garapan, Saipan on June 17-18. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/cnmi-dod-leaders-discuss-regional-defense-during-stakeholders-meeting/article_4d716123-79cb-4a57-bc6c-4db4c7d55d79.html>
-
----
-
 ## Mariana Trench contact station inaugurated
 
-date: 2025-06-19, updated: 2025-06-19, from: Marianas Variety
+date: 2025-06-19, updated: 2025-06-22, from: Marianas Variety
 
 (FOTM) — The Friends of the Mariana Trench extend heartfelt congratulations to the U.S. Fish and Wildlife Service and CNMI leaders on the momentous occasion of the ribbon-cutting ceremony for the Mariana Trench Visitor Contact Station on Wednesday. This important milestone marks a significant step towards enhancing public understanding and appreciation of one of the world’s most iconic protected areas. 
 
@@ -741,7 +1131,7 @@ date: 2025-06-19, updated: 2025-06-19, from: Marianas Variety
 
 ## MVA: May arrivals down 36%
 
-date: 2025-06-19, updated: 2025-06-19, from: Marianas Variety
+date: 2025-06-19, updated: 2025-06-22, from: Marianas Variety
 
 THE Marianas Visitors Authority reports that visitor arrivals to The Marianas totaled 11,957 in May 2025, a 36% decrease compared to 18,680 visitors received in May 2024. So far this fiscal year, visitor arrivals are 26% lower than over the same period last year. 
 
@@ -753,13 +1143,49 @@ THE Marianas Visitors Authority reports that visitor arrivals to The Marianas to
 
 ## TNC and PICRC expand coral protection efforts to Yap
 
-date: 2025-06-19, updated: 2025-06-19, from: Marianas Variety
+date: 2025-06-19, updated: 2025-06-22, from: Marianas Variety
 
 (TNC) — From June 3-7, staff from The Nature Conservancy Micronesia and Polynesia, and the Palau International Coral Reef Center or PICRC visited Yap State in the Federated States of Micronesia to kick off a new collaboration focused on protecting climate-resilient reefs and restoring damaged areas. Dr. Yimnang Golbuu, Coral Resilience Director at TNC Micronesia and Polynesia, Asap Bukurrou, PICRC Aquarium Supervisor, and Dawnette Olsudong, PICRC Coral Restoration Team Leader, met with partners and conducted field assessments to help identify priority sites and plan next steps. The initiative brings together local and regional partners to strengthen reef resilience and support the communities that rely on them. 
 
 <br> 
 
 <https://www.mvariety.com/news/regional_world/tnc-and-picrc-expand-coral-protection-efforts-to-yap/article_5287aa4f-3474-402c-ae59-2b940f0b9e23.html>
+
+---
+
+## HANMI occupancy at 22.7% in May 2025
+
+date: 2025-06-19, updated: 2025-06-22, from: Marianas Variety
+
+THE Hotel Association of the Northern Mariana Islands reported a 22.79% average occupancy rate among 11 member hotels for May 2025, 13.41% lower than 36.2% in May 2024. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/hanmi-occupancy-at-22-7-in-may-2025/article_b1b2993b-2b1b-49d0-8dc7-7ad96d79e7d7.html>
+
+---
+
+## Trump faces uproar from MAGA base over possible Iran strike
+
+date: 2025-06-19, updated: 2025-06-22, from: Marianas Variety
+
+WASHINGTON (Reuters) — The prospect of a U.S. strike against Iran has exposed divisions in the coalition of supporters that brought President Donald Trump to power, with some of his base urging him not to get the country involved in a new Middle East war. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-faces-uproar-from-maga-base-over-possible-iran-strike/article_bb8be03b-b32a-43a7-8932-6ee44448c570.html>
+
+---
+
+## CNMI, DoD leaders discuss regional defense during stakeholders meeting
+
+date: 2025-06-19, updated: 2025-06-22, from: Marianas Variety
+
+KEY leaders from the Department of Defense, Commonwealth of the Northern Mariana Islands government, federal agencies, and community representatives gathered for a CNMI Stakeholders Meeting in Garapan, Saipan on June 17-18. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-dod-leaders-discuss-regional-defense-during-stakeholders-meeting/article_4d716123-79cb-4a57-bc6c-4db4c7d55d79.html>
 
 ---
 
@@ -3010,235 +3436,4 @@ Before the end of his tour of duty on Guam, Rear Adm. Brent DeVore stressed the 
 <br> 
 
 <https://www.pacificislandtimes.com/post/shrinking-federal-assistance-leaves-guam-on-its-own>
-
----
-
-## Sweet serendipity: Lifelong friendships built in unexpected places
-
-date: 2025-06-14, from: Pacific Island Times
-
-Herta grew up in Romania during that time of limited freedoms, and so we had an instant connection. During our conversation, Hans asked me if I had been in Lansing, Michigan, years earlier.  It turns out that I had worked in the same office as his mother when I was fresh out of school. 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/sweet-serendipity>
-
----
-
-## CHamorus were skilled farmers
-
-date: 2025-06-14, from: Pacific Island Times
-
-Antonio Pigafetta, Magellan’s official “travel blogger,” wrote how amazed he was by Guam’s agricultural products, such as bananas, sweet potatoes, coconuts, breadfruit, yams and taro.  
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/chamorus-were-skilled-farmers>
-
----
-
-## Trump has cut science funding to its lowest level in decades
-
-date: 2025-06-14, from: Hawaii Tribune Harold
-
-
-				<p>The National Science Foundation, which funds much of the fundamental scientific research at American universities, is awarding new grants at the slowest pace in at least 35 years.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/14/nation-world-news/trump-has-cut-science-funding-to-its-lowest-level-in-decades/>
-
----
-
-## Iran retaliates and Israel vows more strikes after devastating attack
-
-date: 2025-06-14, from: Hawaii Tribune Harold
-
-
-				<p>Iran was reeling and firing missiles and drones Friday after Israel carried out its largest attack ever against Iran, waves of coordinated airstrikes that hit nuclear sites and killed much of the country&#8217;s military chain of command along with several nuclear scientists.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/14/nation-world-news/iran-retaliates-and-israel-vows-more-strikes-after-devastating-attack/>
-
----
-
-## Army celebrates with parade as it faces an uncertain future
-
-date: 2025-06-14, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The last time tanks paraded through the streets of Washington, the U.S. Army was at the peak of its confidence and power.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/14/nation-world-news/army-celebrates-with-parade-as-it-faces-an-uncertain-future/>
-
----
-
-## Hearing set for Hilo man accused of mail theft
-
-date: 2025-06-14, from: Hawaii Tribune Harold
-
-
-				<p>A judge on Thursday denied a request by a 31-year-old Hilo man facing 21 criminal charges, including mail theft and credit card fraud, to be freed from custody without posting cash bail.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/14/hawaii-news/hearing-set-for-hilo-man-accused-of-mail-theft/>
-
----
-
-## Protests could be ‘unprecedented’ in LA, where Marines are guarding federal building
-
-date: 2025-06-14, from: Hawaii Tribune Harold
-
-
-				<p>With a surge of demonstrations against the Trump administration&#8217;s crackdown on immigration expected on Saturday, authorities in Los Angeles said they were bracing for a turnout that &#8220;may be unprecedented&#8221; in the city that has been epicenter of days of sustained protests.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/14/nation-world-news/protests-could-be-unprecedented-in-la-where-marines-are-guarding-federal-building/>
-
----
-
-## What we know about the ‘No Kings’ protests today
-
-date: 2025-06-14, from: Hawaii Tribune Harold
-
-
-				<p>Planned protests against the Trump administration that are expected to be among the largest since the president&#8217;s second term began will be held across the country today.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/14/nation-world-news/what-we-know-about-the-no-kings-protests-today/>
-
----
-
-## Judge blocks Trump voting order requiring proof of citizenship
-
-date: 2025-06-14, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; A federal judge sided with a coalition of states Friday that had sued to stop stringent new voting ID requirements that President Donald Trump laid out in an executive order in March.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/14/nation-world-news/judge-blocks-trump-voting-order-requiring-proof-of-citizenship/>
-
----
-
-## Grieving relatives of India Air crash victims wait for bodies to be identified
-
-date: 2025-06-14, from: Hawaii Tribune Harold
-
-
-				<p>AHMEDABAD, India &#8212; Families of the victims of India&#8217;s deadliest aviation disaster in decades lined up at the main hospital in the western city of Ahmedabad early Friday, ready to offer DNA samples that could identify the bodies of loved ones they had seen off a day before.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/14/nation-world-news/grieving-relatives-of-india-air-crash-victims-wait-for-bodies-to-be-identified/>
-
----
-
-## Study shows mercury levels in Arctic wildlife could rise for centuries
-
-date: 2025-06-14, from: Hawaii Tribune Harold
-
-
-				<p>Levels of mercury in Arctic wildlife could continue to rise significantly even as countries curb their emissions, a new study suggests.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/14/nation-world-news/study-shows-mercury-levels-in-arctic-wildlife-could-rise-for-centuries/>
-
----
-
-## Trump leaves European leaders praying for a low-drama summit
-
-date: 2025-06-14, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The last time European leaders came together for a diplomatic gathering in Canada, it didn&#8217;t go so well.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/14/nation-world-news/trump-leaves-european-leaders-praying-for-a-low-drama-summit/>
-
----
-
-## Tropical Gardening: Father’s Day origin is not that old
-
-date: 2025-06-14, from: Hawaii Tribune Harold
-
-
-				<p>This weekend we celebrate Father&#8217;s Day, but this is a relatively new holiday when compared to Mother&#8217;s Day.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/14/features/tropical-gardening-fathers-day-origin-is-not-that-old-2/>
-
----
-
-## Sustainability success: High school students earn college credit from Kapiʻolani CC
-
-date: 2025-06-14, from: University of Hawaiʻi News
-
-<p><span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr> program empowers high school students with hands-on experience in sustainability and conservation.</p>
-The post <a href="https://www.hawaii.edu/news/2025/06/13/radford-sustainability-college-credit-kapiolani-cc/">Sustainability success: High school students earn college credit from Kapiʻolani <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/06/13/radford-sustainability-college-credit-kapiolani-cc/>
-
----
-
-## Rainbow Wahine basketball retro uniform up for national award
-
-date: 2025-06-14, from: University of Hawaiʻi News
-
-<p>Vote for Wahine basketball jersey for uniform of the year.</p>
-The post <a href="https://www.hawaii.edu/news/2025/06/13/wbkball-uniform-national-award/">Rainbow Wahine basketball retro uniform up for national award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/06/13/wbkball-uniform-national-award/>
-
----
-
-## UH Hilo soccer player receives NCAA Degree Completion Award
-
-date: 2025-06-14, from: University of Hawaiʻi News
-
-<p>Teani Arakawa will receive financial assistance to complete her degree.</p>
-The post <a href="https://www.hawaii.edu/news/2025/06/13/arakawa-ncaa-degree-completion-award/"><abbr>UH</abbr> Hilo soccer player receives <abbr>NCAA</abbr> Degree Completion Award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/06/13/arakawa-ncaa-degree-completion-award/>
-
----
-
-## From Coin Boxes to Commerce
-
-date: 2025-06-14, from: University of the South Pacific (Fiji)
-
-<p>Hailing from the village of Nabunikadamu in the province of Bua with maternal ties to...</p>
-<p>The post <a href="https://www.usp.ac.fj/news/from-coin-boxes-to-commerce/">From Coin Boxes to Commerce</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
- 
-
-<br> 
-
-<https://www.usp.ac.fj/news/from-coin-boxes-to-commerce/>
 

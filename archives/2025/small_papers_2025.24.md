@@ -1,11 +1,26 @@
 ---
 title: small papers
-updated: 2025-06-21 14:06:39
+updated: 2025-06-22 06:08:25
 ---
 
 # small papers
 
-(date: 2025-06-21 14:06:39)
+(date: 2025-06-22 06:08:25)
+
+---
+
+## Community Organizers Rally to Demand Release of Local Activist Arrested During an ICE Raid
+
+date: 2025-06-21, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/IMG_20250620_173748-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/IMG_20250620_173748-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/IMG_20250620_173748-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/IMG_20250620_173748-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/IMG_20250620_173748-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/IMG_20250620_173748-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/IMG_20250620_173748-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/IMG_20250620_173748-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/IMG_20250620_173748-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/IMG_20250620_173748-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/IMG_20250620_173748-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/IMG_20250620_173748-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/IMG_20250620_173748-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/IMG_20250620_173748-scaled.jpg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/IMG_20250620_173748-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/IMG_20250620_173748-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/IMG_20250620_173748-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Local community activists rallied on Friday, June 20, outside the Van Nuys Police Department Valley Jail Section to demand the release of Anthony Orendorff, who was arrested by the Los [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/20/community-organizers-rally-to-demand-release-of-local-activist-arrested-during-an-ice-raid/">Community Organizers Rally to Demand Release of Local Activist Arrested During an ICE Raid</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/20/community-organizers-rally-to-demand-release-of-local-activist-arrested-during-an-ice-raid/>
 
 ---
 
@@ -518,49 +533,4 @@ date: 2025-06-15, from: Long Beach Post
 <br> 
 
 <https://lbpost.com/news/crime/man-fatally-shot-in-west-long-beach-on-saturday-morning-police-say>
-
----
-
-## Police establish barricade around PCH motel; 2 arrested
-
-date: 2025-06-14, from: Long Beach Post
-
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The incident began when officers conducted a traffic stop at about 8:10 p.m. Friday in the area of Redondo Avenue and Pacific Coast Highway, authorities said. </p>
-<p>The post <a href="https://lbpost.com/news/police-establish-barricade-around-pch-motel-2-arrested">Police establish barricade around PCH motel; 2 arrested</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/police-establish-barricade-around-pch-motel-2-arrested>
-
----
-
-## Thousands turn out for No Kings Day to protest Trump after a week of ICE raids spark outrage
-
-date: 2025-06-14, from: Long Beach Post
-
-<figure><img width="1024" height="714" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145739/14jun25-6-14-25-no-king-11478-617627-zkspgt1v-233434-qAUcu24z-1024x714.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145739/14jun25-6-14-25-no-king-11478-617627-zkspgt1v-233434-qAUcu24z-1024x714.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145739/14jun25-6-14-25-no-king-11478-617627-zkspgt1v-233434-qAUcu24z-300x209.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145739/14jun25-6-14-25-no-king-11478-617627-zkspgt1v-233434-qAUcu24z-768x536.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145739/14jun25-6-14-25-no-king-11478-617627-zkspgt1v-233434-qAUcu24z-155x108.jpg 155w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145739/14jun25-6-14-25-no-king-11478-617627-zkspgt1v-233434-qAUcu24z-400x279.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145739/14jun25-6-14-25-no-king-11478-617627-zkspgt1v-233434-qAUcu24z.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Police briefly closed portions of Ocean Boulevard — a smaller crowd walked to Downtown, then returned to Alamitos Beach — but otherwise no incidents were reported. </p>
-<p>The post <a href="https://lbpost.com/news/ice-protests">Thousands turn out for No Kings Day to protest Trump after a week of ICE raids spark outrage</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/ice-protests>
-
----
-
-## Photo Art Installation in City of San Fernando Celebrates Immigrants
-
-date: 2025-06-14, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
-
-<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/PXL_20250613_222235393-scaled.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/PXL_20250613_222235393-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/PXL_20250613_222235393-scaled.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/PXL_20250613_222235393-scaled.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/PXL_20250613_222235393-scaled.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/PXL_20250613_222235393-scaled.jpg?resize=1536%2C1157&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/PXL_20250613_222235393-scaled.jpg?resize=2048%2C1542&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/PXL_20250613_222235393-scaled.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/PXL_20250613_222235393-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/PXL_20250613_222235393-scaled.jpg?resize=1200%2C904&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/PXL_20250613_222235393-scaled.jpg?resize=2000%2C1506&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/PXL_20250613_222235393-scaled.jpg?resize=780%2C587&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/PXL_20250613_222235393-scaled.jpg?resize=706%2C532&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/PXL_20250613_222235393-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/PXL_20250613_222235393-scaled.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Amidst the unrest and uncertainty brought on by the Immigration and Customs Enforcement (ICE) raids that took place across Los Angeles, Cry Baby&#8217;s Rodeo in the City of San Fernando [&#8230;]</p>
-<p>The post <a href="https://sanfernandosun.com/2025/06/13/photo-art-installation-in-city-of-san-fernando-celebrates-immigrants/">Photo Art Installation in City of San Fernando Celebrates Immigrants</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
- 
-
-<br> 
-
-<https://sanfernandosun.com/2025/06/13/photo-art-installation-in-city-of-san-fernando-celebrates-immigrants/>
 

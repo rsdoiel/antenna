@@ -1,11 +1,235 @@
 ---
 title: home
-updated: 2025-06-21 14:06:37
+updated: 2025-06-22 06:08:22
 ---
 
 # home
 
-(date: 2025-06-21 14:06:37)
+(date: 2025-06-22 06:08:22)
+
+---
+
+## 30 Common Birds in Georgia (With Pictures and Identification)
+
+date: 2025-06-22, from: Yard Life blog
+
+<p>Georgia is a wonderful place for bird lovers, offering a rich variety of feathered friends all year round. From bustling ... </p>
+<p class="read-more-container"><a title="30 Common Birds in Georgia (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/30-common-birds-in-georgia-with-pictures-and-identification/#more-30879" aria-label="Read more about 30 Common Birds in Georgia (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/30-common-birds-in-georgia-with-pictures-and-identification/">30 Common Birds in Georgia (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/30-common-birds-in-georgia-with-pictures-and-identification/>
+
+---
+
+## 5 Stunning Purple Birds in Mississippi (Pictures and Identification)
+
+date: 2025-06-22, from: Yard Life blog
+
+<p>Purple Birds in Mississippi add vibrant splashes of color to the state’s rich natural landscapes. From shimmering wetlands to open ... </p>
+<p class="read-more-container"><a title="5 Stunning Purple Birds in Mississippi (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/5-stunning-purple-birds-in-mississippi-pictures-and-identification/#more-30868" aria-label="Read more about 5 Stunning Purple Birds in Mississippi (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/5-stunning-purple-birds-in-mississippi-pictures-and-identification/">5 Stunning Purple Birds in Mississippi (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/5-stunning-purple-birds-in-mississippi-pictures-and-identification/>
+
+---
+
+## 15 Dragonflies in Massachusetts (With Pictures and Identification)
+
+date: 2025-06-22, from: Yard Life blog
+
+<p>Dragonflies in Massachusetts are among the most mesmerizing creatures to watch in nature. Alongside the delicate beauty of butterflies and ... </p>
+<p class="read-more-container"><a title="15 Dragonflies in Massachusetts (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/15-dragonflies-in-massachusetts-with-pictures-and-identification/#more-30853" aria-label="Read more about 15 Dragonflies in Massachusetts (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/15-dragonflies-in-massachusetts-with-pictures-and-identification/">15 Dragonflies in Massachusetts (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/15-dragonflies-in-massachusetts-with-pictures-and-identification/>
+
+---
+
+## 27 Butterflies in New York State (With Pictures and Identification)
+
+date: 2025-06-22, from: Yard Life blog
+
+<p>New York State hosts nearly 120 butterfly species, making it a vibrant and exciting place for butterfly enthusiasts and nature ... </p>
+<p class="read-more-container"><a title="27 Butterflies in New York State (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/27-butterflies-in-new-york-state-with-pictures-and-identification/#more-30837" aria-label="Read more about 27 Butterflies in New York State (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/27-butterflies-in-new-york-state-with-pictures-and-identification/">27 Butterflies in New York State (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/27-butterflies-in-new-york-state-with-pictures-and-identification/>
+
+---
+
+## 46 Birds in Massachusetts (With Pictures and Identification)
+
+date: 2025-06-22, from: Yard Life blog
+
+<p>If you ever have the chance to visit Massachusetts, prepare to be amazed by the incredible variety of birds that ... </p>
+<p class="read-more-container"><a title="46 Birds in Massachusetts (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/46-birds-in-massachusetts-with-pictures-and-identification/#more-30824" aria-label="Read more about 46 Birds in Massachusetts (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/46-birds-in-massachusetts-with-pictures-and-identification/">46 Birds in Massachusetts (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/46-birds-in-massachusetts-with-pictures-and-identification/>
+
+---
+
+## 12 Blue Birds in Maryland (With Pictures and Identification)
+
+date: 2025-06-22, from: Yard Life blog
+
+<p>As someone who is truly fascinated by colorful birds—especially those with brilliant blue feathers—I find Maryland to be an exceptional ... </p>
+<p class="read-more-container"><a title="12 Blue Birds in Maryland (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/12-blue-birds-in-maryland-with-pictures-and-identification/#more-30815" aria-label="Read more about 12 Blue Birds in Maryland (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/12-blue-birds-in-maryland-with-pictures-and-identification/">12 Blue Birds in Maryland (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/12-blue-birds-in-maryland-with-pictures-and-identification/>
+
+---
+
+## How to Grow Hairy Vetch as a Cover Crop
+
+date: 2025-06-21, from: The Gardener's Path
+
+<p>Hairy vetch (Vicia villosa) is a vigorous, sprawling legume with fine, silvery foliage and vibrant purple flowers. Often grown as a winter-hardy cover crop, it fixes nitrogen, suppresses weeds, improves soil structure, and supports pollinators. Learn how to use hairy vetch as a cover crop in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/composting/hairy-vetch-cover-crop/">How to Grow Hairy Vetch as a Cover Crop</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/composting/hairy-vetch-cover-crop/>
+
+---
+
+## 7 Red Birds in Maryland (With Pictures and Identification)
+
+date: 2025-06-21, from: Yard Life blog
+
+<p>For anyone who loves birdwatching, few sights are as thrilling as spotting vibrant red birds in Maryland. Their brilliant plumage ... </p>
+<p class="read-more-container"><a title="7 Red Birds in Maryland (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/7-red-birds-in-maryland-with-pictures-and-identification/#more-30802" aria-label="Read more about 7 Red Birds in Maryland (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/7-red-birds-in-maryland-with-pictures-and-identification/">7 Red Birds in Maryland (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/7-red-birds-in-maryland-with-pictures-and-identification/>
+
+---
+
+## 9 Common Owls in Pennsylvania (With Pictures and Identification)
+
+date: 2025-06-21, from: Yard Life blog
+
+<p>Owls in Pennsylvania are a true delight for birdwatchers who enjoy the quiet beauty of nighttime wildlife. From deep forests ... </p>
+<p class="read-more-container"><a title="9 Common Owls in Pennsylvania (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/9-common-owls-in-pennsylvania-with-pictures-and-identification/#more-30795" aria-label="Read more about 9 Common Owls in Pennsylvania (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/9-common-owls-in-pennsylvania-with-pictures-and-identification/">9 Common Owls in Pennsylvania (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/9-common-owls-in-pennsylvania-with-pictures-and-identification/>
+
+---
+
+## 18 Scorpions in California (With Pictures and Identification)
+
+date: 2025-06-21, from: Yard Life blog
+
+<p>California is home to an impressive diversity of scorpions, with species adapted to its deserts, forests, and coastal hills. These ... </p>
+<p class="read-more-container"><a title="18 Scorpions in California (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/18-scorpions-in-california-with-pictures-and-identification/#more-30768" aria-label="Read more about 18 Scorpions in California (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/18-scorpions-in-california-with-pictures-and-identification/">18 Scorpions in California (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/18-scorpions-in-california-with-pictures-and-identification/>
+
+---
+
+## 4 Types of Deer in Pennsylvania (With Pictures and Identification)
+
+date: 2025-06-21, from: Yard Life blog
+
+<p>Deer are an iconic part of Pennsylvania’s wildlife heritage, deeply woven into the natural landscape and the cultural traditions of ... </p>
+<p class="read-more-container"><a title="4 Types of Deer in Pennsylvania (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/4-types-of-deer-in-pennsylvania-with-pictures-and-identification/#more-30757" aria-label="Read more about 4 Types of Deer in Pennsylvania (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/4-types-of-deer-in-pennsylvania-with-pictures-and-identification/">4 Types of Deer in Pennsylvania (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/4-types-of-deer-in-pennsylvania-with-pictures-and-identification/>
+
+---
+
+## 12 Hawks in Kentucky (With Pictures and Identification)
+
+date: 2025-06-21, from: Yard Life blog
+
+<p>Kentucky offers a diverse habitat that attracts a wide variety of raptors throughout the year. Among these impressive birds of ... </p>
+<p class="read-more-container"><a title="12 Hawks in Kentucky (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/12-hawks-in-kentucky-with-pictures-and-identification/#more-30747" aria-label="Read more about 12 Hawks in Kentucky (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/12-hawks-in-kentucky-with-pictures-and-identification/">12 Hawks in Kentucky (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/12-hawks-in-kentucky-with-pictures-and-identification/>
+
+---
+
+## 22 Yellow Birds in Alabama (With Pictures and Identification)
+
+date: 2025-06-21, from: Yard Life blog
+
+<p>I’ve always found endless joy in watching birds, especially those with brilliant yellow feathers, and to me, Alabama is truly ... </p>
+<p class="read-more-container"><a title="22 Yellow Birds in Alabama (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/22-yellow-birds-in-alabama-with-pictures-and-identification/#more-30738" aria-label="Read more about 22 Yellow Birds in Alabama (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/22-yellow-birds-in-alabama-with-pictures-and-identification/">22 Yellow Birds in Alabama (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/22-yellow-birds-in-alabama-with-pictures-and-identification/>
+
+---
+
+## 4 Venomous Spiders in New Mexico (Pictures and Identification)
+
+date: 2025-06-21, from: Yard Life blog
+
+<p>New Mexico hosts several fascinating spider species, but some of the most important to know about are the venomous spiders ... </p>
+<p class="read-more-container"><a title="4 Venomous Spiders in New Mexico (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/4-venomous-spiders-in-new-mexico-pictures-and-identification/#more-30727" aria-label="Read more about 4 Venomous Spiders in New Mexico (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/4-venomous-spiders-in-new-mexico-pictures-and-identification/">4 Venomous Spiders in New Mexico (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/4-venomous-spiders-in-new-mexico-pictures-and-identification/>
+
+---
+
+## 3 Common Eagles in Utah (With Pictures and Identification)
+
+date: 2025-06-21, from: Yard Life blog
+
+<p>Eagles in Utah are a breathtaking sight, soaring across the state’s vast skies and rugged landscapes. With their massive wingspans ... </p>
+<p class="read-more-container"><a title="3 Common Eagles in Utah (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-common-eagles-in-utah-with-pictures-and-identification/#more-30716" aria-label="Read more about 3 Common Eagles in Utah (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-common-eagles-in-utah-with-pictures-and-identification/">3 Common Eagles in Utah (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-common-eagles-in-utah-with-pictures-and-identification/>
 
 ---
 
@@ -1645,107 +1869,4 @@ date: 2025-06-15, from: Greg Alder's blog, Yard Post
 <br> 
 
 <https://gregalder.com/yardposts/rotating-vegetables/>
-
----
-
-## How to Plant and Grow Sweet Myrtle
-
-date: 2025-06-14, from: The Gardener's Path
-
-<p>Sweet myrtle (Myrtus communis) offers fragrant foliage, airy white blooms, and edible berries, flowers, and leaves. It’s drought-tolerant, low-maintenance, and perfect for borders, containers, or hedges where its year-round appeal can be appreciated. Learn how to grow and care for sweet myrtle in this guide. Read more.</p>
-<p>The post <a href="https://gardenerspath.com/plants/ornamentals/grow-sweet-myrtle/">How to Plant and Grow Sweet Myrtle</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/ornamentals/grow-sweet-myrtle/>
-
----
-
-## 35 Most Common Birds in Mississippi (Pictures and Identification)
-
-date: 2025-06-14, from: Yard Life blog
-
-<p>Having spent many years living in Mississippi, I’ve come to appreciate the incredible variety of birds that fill the skies ... </p>
-<p class="read-more-container"><a title="35 Most Common Birds in Mississippi (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/35-most-common-birds-in-mississippi-pictures-and-identification/#more-30177" aria-label="Read more about 35 Most Common Birds in Mississippi (Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/35-most-common-birds-in-mississippi-pictures-and-identification/">35 Most Common Birds in Mississippi (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/35-most-common-birds-in-mississippi-pictures-and-identification/>
-
----
-
-## 2 Species of Eagles in Louisiana (Pictures and Identification)
-
-date: 2025-06-14, from: Yard Life blog
-
-<p>Eagles in Louisiana are powerful and captivating birds that often draw attention as they glide over lakes, rivers, and open ... </p>
-<p class="read-more-container"><a title="2 Species of Eagles in Louisiana (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/2-species-of-eagles-in-louisiana-pictures-and-identification/#more-30167" aria-label="Read more about 2 Species of Eagles in Louisiana (Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/2-species-of-eagles-in-louisiana-pictures-and-identification/">2 Species of Eagles in Louisiana (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/2-species-of-eagles-in-louisiana-pictures-and-identification/>
-
----
-
-## 8 Woodpeckers in West Virginia (Pictures and Identification)
-
-date: 2025-06-14, from: Yard Life blog
-
-<p>West Virginia’s forests are home to a variety of woodpeckers that bring sound and movement to the trees year-round. These ... </p>
-<p class="read-more-container"><a title="8 Woodpeckers in West Virginia (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/8-woodpeckers-in-west-virginia-pictures-and-identification/#more-30158" aria-label="Read more about 8 Woodpeckers in West Virginia (Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/8-woodpeckers-in-west-virginia-pictures-and-identification/">8 Woodpeckers in West Virginia (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/8-woodpeckers-in-west-virginia-pictures-and-identification/>
-
----
-
-## 12 Species of Hawks in Nevada (With Pictures and Identification)
-
-date: 2025-06-14, from: Yard Life blog
-
-<p>Nevada’s striking mix of deserts, wetlands, and mountain forests provides a rich environment for raptors. Hawks in Nevada are commonly ... </p>
-<p class="read-more-container"><a title="12 Species of Hawks in Nevada (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/12-species-of-hawks-in-nevada-with-pictures-and-identification/#more-30150" aria-label="Read more about 12 Species of Hawks in Nevada (With Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/12-species-of-hawks-in-nevada-with-pictures-and-identification/">12 Species of Hawks in Nevada (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/12-species-of-hawks-in-nevada-with-pictures-and-identification/>
-
----
-
-## 4 Common Falcons in Illinois (With Pictures and Identification)
-
-date: 2025-06-14, from: Yard Life blog
-
-<p>Falcons in Illinois are some of the most fascinating and agile birds of prey found throughout the state. Known for ... </p>
-<p class="read-more-container"><a title="4 Common Falcons in Illinois (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/4-common-falcons-in-illinois-with-pictures-and-identification/#more-30143" aria-label="Read more about 4 Common Falcons in Illinois (With Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/4-common-falcons-in-illinois-with-pictures-and-identification/">4 Common Falcons in Illinois (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/4-common-falcons-in-illinois-with-pictures-and-identification/>
-
----
-
-## California Native Plant Society Condemns the Proposal to Sell Off Western Public Lands
-
-date: 2025-06-14, from: California Native Plants Society
-
-<p>This week, Senator Lee (R-UT) and his allies on the Senate Energy and Natural Resources (SENR) Committee advanced language for the Senate’s budget reconciliation package that would mandate the sell-off of up to 3.25 million acres in the western United States.</p>
-<p>The post <a href="https://www.cnps.org/news-releases/california-native-plant-society-condemns-the-proposal-to-sell-off-western-public-lands-43686">California Native Plant Society Condemns the Proposal to Sell Off Western Public Lands</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
- 
-
-<br> 
-
-<https://www.cnps.org/news-releases/california-native-plant-society-condemns-the-proposal-to-sell-off-western-public-lands-43686>
 

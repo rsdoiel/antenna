@@ -28,7 +28,377 @@
 Items collected from feeds in <a href="columns.txt">columns.txt</a>
 </div>
 <h1 id="columns">columns</h1>
-<p>(date: 2025-06-21 14:06:33)</p>
+<p>(date: 2025-06-22 06:08:18)</p>
+<hr />
+<h2 id="steve-carell">Steve Carell</h2>
+<p>date: 2025-06-22, from: Dan Rather’s Steady</p>
+<p>A Reason To Smile</p>
+<p><br></p>
+<p><a href="https://steady.substack.com/p/steve-carell"
+class="uri">https://steady.substack.com/p/steve-carell</a></p>
+<hr />
+<h2 id="the-dogs-of-war">The Dogs of War</h2>
+<p>date: 2025-06-22, from: Robert Reich’s blog</p>
+<p>What’s really going on</p>
+<p><br></p>
+<p><a href="https://robertreich.substack.com/p/the-dogs-of-war"
+class="uri">https://robertreich.substack.com/p/the-dogs-of-war</a></p>
+<hr />
+<h2 id="june-21-2025">June 21, 2025</h2>
+<p>date: 2025-06-22, from: Heather Cox Richardson blog</p>
+<p>At 7:50 this evening, Eastern Time, President Donald J.</p>
+<p><br></p>
+<p><a href="https://heathercoxrichardson.substack.com/p/june-21-2025"
+class="uri">https://heathercoxrichardson.substack.com/p/june-21-2025</a></p>
+<hr />
+<h2 id="trying-to-understand-the-bots">2025-06-21 Trying to understand
+the bots</h2>
+<p>date: 2025-06-21, from: Alex Schroeder’s Blog</p>
+<h1 id="2025-06-21-trying-to-understand-the-bots">
+2025-06-21 Trying to understand the bots
+</h1>
+<p>
+I changed the limit of my <a href="2025-06-16-ban-asn">automatic ASN
+ban</a> from 1000 hits in 2h to 500 hits in 2h.
+</p>
+<p>
+That’s because the two biggest autonomous systems hitting my sites are
+from Vietnam and China and they’re currently keeping below that 1000
+hits per 2h limit:
+</p>
+<pre><code>site-log !^social | log-ip | asncounter --no-prefixes 2&gt;/dev/null
+count   percent ASN AS
+749 4.37    45899   VNPT-AS-VN VNPT Corp, VN
+539 3.15    45102   ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+448 2.61    24940   HETZNER-AS, DE
+427 2.49    16276   OVH, FR
+367 2.14    28573   Claro NXT Telecomunicacoes Ltda, BR
+331 1.93    9009    M247, RO
+312 1.82    62610   ZEN-DPS, US
+303 1.77    7922    COMCAST-7922, US
+299 1.74    212238  CDNEXT, GB
+264 1.54    7018    ATT-INTERNET4, US
+total: 17135
+</code></pre>
+<p>
+The numbers themselves are not that big, but I am annoyed. I live in an
+English/German world and I don’t see a reason for service providers from
+Vietnam, China, Brazil and Romania crawling my sites.
+</p>
+<p>
+(You can find all the fish functions I use in the
+<a href="/admin/">admin</a> directory.)
+</p>
+<p>
+Let’s take a look at what they are requesting!
+</p>
+<p>
+The Vietnamese bots:
+</p>
+<pre><code>site-log !^social | asn-access-log 45899 | log-request | rank-lines
+     74 /nobots
+      3 /emacs/?action=translate%3Bid%3Dmon-utils.el%3Bmissing%3Dde_es_fr_it_ja_ko_pt_ru_se_uk_zh
+      3 /emacs/?action=translate%3Bid%3DComments_on_SuperCollider%3Bmissing%3Dde_en_es_fr_it_ja_ko_pt_ru_se_uk_zh
+      3 /emacs/?action=translate%3Bid%3DComintModes%3Bmissing%3Dde_es_fr_it_ja_ko_pt_ru_se_uk_zh
+      3 /emacs/?action=edit%3Bid%3DCustomizeNewGUI
+      3 /emacs/?action=browse%3Bdiff%3D2%3Bid%3DDialog
+      3 /emacs/?action=admin%3Bid%3DApplyingPatches
+      2 /emacs/wang1zhen
+      2 /emacs/Comments_on_zenburn.el
+      2 /emacs?action=translate%3Bid%3DVbsReplMode%3Bmissing%3Dde_en_es_fr_it_ja_ko_pt_ru_se_uk_zh
+</code></pre>
+<p>
+Looks like they’re following all the links, so a misbehaved bot, if you
+ask me. They’re “hitting all the buttons” on the web app. The relevant
+part of <code>robots.txt</code>:
+</p>
+<pre><code>User-agent: *
+Crawl-delay: 240
+Disallow: /emacs?action=
+</code></pre>
+<p>
+The Chinese bots:
+</p>
+<pre><code>site-log !^social | asn-access-log 45102 | log-request | rank-lines
+    306 /robots.txt
+     12 /wiki?action=rc%3Brcfilteronly%3D%222005-10-06%22
+     12 /wiki?action=history%3Bid%3D2005-10-06
+     12 /wiki?action=edit%3Bid%3DMoneyPooling
+     12 /wiki?action=edit%3Bid%3DDorfWiki
+     12 /wiki?action=edit%3Bid%3DBarnstarSharing
+     12 /wiki?action=edit%3Bid%3D2005-10-06
+     12 /wiki?action=define%3Bname%3DMoneyPooling
+     12 /wiki?action=define%3Bname%3DBarnstarSharing
+     12 /wiki?action=browse%3Bdiff%3D2%3Bid%3D2005-10-06
+</code></pre>
+<p>
+Looks like they’re following all the links, so a misbehaved bot as well.
+</p>
+<p>
+Again, the relevant part of <code>robots.txt</code>:
+</p>
+<pre><code>User-agent: *
+Crawl-delay: 240
+Disallow: /wiki 
+</code></pre>
+<p>
+The German bots actually make reasonable requests:
+</p>
+<pre><code>site-log !^social | asn-access-log 24940 | log-request | rank-lines
+     90 /view/2025-06-16-ban-asn
+     52 /
+     50 /view/index
+     41 /rpg/feed.xml
+     29 /admin/ban-cidr
+     16 /view/index.rss
+     15 /emacs?action=rss
+     10 /robots.txt
+      8 /wiki/feed/full/
+      8 /osr/feed.xml
+</code></pre>
+<p>
+Let’s see what sort of user agents we see. I’m expecting feed readers.
+</p>
+<pre><code>site-log !^social | asn-access-log 24940 | log-user-agent | rank-lines
+     46 NewsBlur Page Fetcher
+     36 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+     32 NewsBlur Feed Fetcher
+     23 fiperbot/0.1 (+https://www.fiper.net)
+     21 Mozilla/5.0 (compatible; DataForSeoBot/1.0; +https://dataforseo.com/dataforseo-bot)
+     15 AwarioSmartBot/1.0 (+https://awario.com/bots.html; bots@awario.com)
+      9 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+      8 MyNewspaper Agent 1.0
+      8 Akkoma 3.9.3-0-g9d7c877; https://social.raccoon.college &lt;admin@raccoon.college&gt;, Akkoma 3.9.3-0-g9d7c877; https://social.raccoon.college &lt;admin@raccoon.college&gt;; Bot
+      7 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47
+</code></pre>
+<p>
+The one that stands out is “DataForSeoBot”. But it seems that this is
+not a problem. I already have this bot in my Apache config (as seen on
+<a href="2025-03-21-defence-summary">2025-03-21 A summary of my bot
+defence systems</a>). Still, <em>booo!</em> Hetzner for hosting this
+bot.
+</p>
+<pre><code>site-log !^social | grep DataForSeoBot | leech-detector 
+Total hits: 21
+IP                             |       Hits | Bandw. | Rel. | Interv. | Status
+------------------------------:|-----------:|-------:|-----:|--------:|-------
+               136.243.228.177 |         18 |     1K |  85% | -289.2s | 410 (55%), 301 (44%)
+               136.243.220.213 |          1 |     0K |   4% |         | 301 (100%)
+               136.243.228.178 |          1 |     0K |   4% |         | 301 (100%)
+               136.243.228.193 |          1 |     3K |   4% |         | 410 (100%)
+</code></pre>
+<p>
+The French bots also seem to be reasonable:
+</p>
+<pre><code>site-log !^social | asn-access-log 16276 | log-request | rank-lines
+    153 /view/2025-06-16-ban-asn
+     96 /
+     87 /view/index
+     45 /admin/ban-cidr
+     17 /robots.txt
+     17 /files/internet-office-hours.xml
+      8 /rpg/feed.xml
+      2 /wiki?action=rss;rcidonly=Page_Synchronization
+      2 /wiki?action=rss;match=%5EPingback_Server_Extension%24
+      2 /view/RPG.rss
+</code></pre>
+<p>
+The Brazilian bots seems to download the entire site:
+</p>
+<pre><code>site-log !^social | asn-access-log 28573 | log-request | rank-lines
+     72 /nobots
+      1 /wiki/Year_of_the_Copper_Titan/Comments_on_Character_sheet_template
+      1 /wiki/WilderlandsOfSwordsAndDevilry/Comments_on_Cutthroat_Inn_Hooks
+      1 /wiki/WerdnaWorld?search=%222019-02-17%22
+      1 /wiki/Waterdeep/Recap_April_18,_2020
+      1 /wiki/TheRoadToDwimmermount/Comments_on_Alia
+      1 /wiki/SmoothPointsofPride?action=history;id=Melee
+      1 /wiki/SmallHuman
+      1 /wiki?search=%22MicroPayment%22
+      1 /wiki?search=%22Gemini+Wiki+on+the+Internet%22
+</code></pre>
+<p>
+Look at the requests:
+</p>
+<pre><code>site-log !^social | asn-access-log 28573 | log-request | rank-lines
+     62 /nobots
+      1 /wiki/Year_of_the_Copper_Titan/Comments_on_Character_sheet_template
+      1 /wiki/WonderfulBreadIncrease
+      1 /wiki/Waterdeep/Recap_February_8,_2020
+      1 /wiki/Waterdeep/Recap_April_18,_2020
+      1 /wiki/TheRoadToDwimmermount/Comments_on_Alia
+      1 /wiki/TheBrokenLands/Comments_on_Symbol_of_Truth
+      1 /wiki/SmallHuman
+      1 /wiki?search=%22MyMacros%22
+      1 /wiki?search=%22ModularWiki%22
+</code></pre>
+<p>
+Specially those searches at the bottom! The relevant part of
+<code>robots.txt</code>:
+</p>
+<pre><code>User-agent: *
+Crawl-delay: 20
+Disallow: /wiki?
+</code></pre>
+<p>
+Same for the Romanian one:
+</p>
+<pre><code>site-log !^social | asn-access-log 9009 | log-request | rank-lines
+      5 /nobots
+      3 /
+      2 /emacs/Comments_on_SiteMap/
+      2 /diff/2021-07-29_Creative_projects%2C_perpetually_work_in_progress
+      2 /cw/2006-04-30
+      1 /wiki/Waterdeep/Comments_on_imp
+      1 /wiki/Unter_Piraten/Comments_on_Numqu'am_Solus
+      1 /wiki/Unter_Piraten/Comments_on_2023-04-07
+      1 /wiki/Unter_Piraten/Comments_on_2023-03-03
+      1 /wiki/TravellerTheSalamanderCrew/Comments_on_Yandee
+</code></pre>
+<p>
+And what I really hate are those random user agent strings.
+</p>
+<pre><code>site-log !^social | asn-access-log 9009 | log-user-agent | rank-lines
+     13 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.3
+     12 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+     12 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.3
+     11 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.3
+     11 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Trailer/93.3.8652.5
+      9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.3
+      8 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+      8 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
+      6 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1
+      2 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+</code></pre>
+<p>
+Do I really need to go to to the
+<a href="https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker">The
+Ultimate Apache Bad Bot &amp; Referrer Blocker</a>?
+</p>
+<p>
+<a class="tag" href="/search/?q=%23ButlerianJihad">#ButlerianJihad</a>
+</p>
+<p><br></p>
+<p><a href="https://alexschroeder.ch/view/2025-06-21-understanding-bots"
+class="uri">https://alexschroeder.ch/view/2025-06-21-understanding-bots</a></p>
+<hr />
+<h2 id="june-20-2025">June 20, 2025</h2>
+<p>date: 2025-06-21, from: Heather Cox Richardson blog</p>
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166475629/5b8fdef0a783045f070a93dc18386027.mp3">
+</source>
+</audio>
+<p><a href="https://api.substack.com/feed/podcast/166475629/5b8fdef0a783045f070a93dc18386027.mp3" target="_blank">download
+audio/mpeg</a><br></p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/june-20-2025-06e"
+class="uri">https://heathercoxrichardson.substack.com/p/june-20-2025-06e</a></p>
+<hr />
+<h2
+id="happening-all-day-today-a-reading-rainbow-marathon-on-pbs-retro.-pbs">Happening
+all day today: a Reading Rainbow marathon on PBS Retro. PBS…</h2>
+<p>date: 2025-06-21, updated: 2025-06-21, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/06/0046990-happening-all-day-today-a"
+class="uri">https://kottke.org/25/06/0046990-happening-all-day-today-a</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2025-06-21, from: Dave Winer’s Scripting
+News)</p>
+<p>Speak plainly. As <a href="https://nolearnings.com/">Brent says</a>,
+lessons not learnings. Keep it simple. This is one of the
+<a href="http://crimson1.scripting.com/dogma/2000">foundations</a> of
+blogging, btw. “Try to write correctly.”</p>
+<p><br></p>
+<p><a href="http://scripting.com/2025/06/21.html#a144023"
+class="uri">http://scripting.com/2025/06/21.html#a144023</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2025-06-21, from: Dave Winer’s Scripting
+News)</p>
+<p>Just a guess, but the people doing the “ice” raids are not real
+police any more than the “doge” people are/were actually part of the US
+government. In this New Yorker
+<a href="https://www.newyorker.com/podcast/political-scene/the-rise-and-fall-of-doge">podcast</a>,
+they dug into what “doge” actually was/is. Some weren’t actually Trump
+supporters, they just thought it would be interesting to be empowered to
+fix the government. They learned the government doesn’t work the way
+they thought it did. Spending is way up over the years, but number of
+government employees has stayed flat. It has already been largely
+privatized. Tangentially they appear to have found some things actually
+worth fixing. Tech culture isn’t just the billionaires, far from it.
+There’s a lot of hippie ethics in there too, you just have to look past
+the money, which seems too much work for some/most journalists. But The
+New Yorker tends to do this well, btw, sometimes. <span
+class="spOldSchoolEmoji">😄</span></p>
+<p><br></p>
+<p><a href="http://scripting.com/2025/06/21.html#a142915"
+class="uri">http://scripting.com/2025/06/21.html#a142915</a></p>
+<hr />
+<h2 id="trumps-ultimate-power-trip-the-coffee-klatch">Trump’s Ultimate
+Power Trip? | The Coffee Klatch</h2>
+<p>date: 2025-06-21, from: Robert Reich’s blog</p>
+<p>With Heather Lofthouse and yours truly, Robert Reich</p>
+<p><br></p>
+<p><a
+href="https://robertreich.substack.com/p/trumps-ultimate-power-trip-the-coffee"
+class="uri">https://robertreich.substack.com/p/trumps-ultimate-power-trip-the-coffee</a></p>
+<hr />
+<h2 id="weeknotes-june-14-20-2025">Weeknotes: June 14-20, 2025</h2>
+<p>date: 2025-06-21, from: Tracy Durnell Blog</p>
+<p>Win of the week: cooked up a giant pot of chickpeas (added a
+kinda-tadka of fresh rosemary sizzling in oil at the end) for a mildly
+awkward neighborhood potluck (where the only other handmade food was
+peanut butter celery sticks 😂 apparently my idea of potluck food is
+outdated) Looking forward to: finishing This Will […]</p>
+<p><br></p>
+<p><a
+href="https://tracydurnell.com/2025/06/20/weeknotes-june-14-20-2025/"
+class="uri">https://tracydurnell.com/2025/06/20/weeknotes-june-14-20-2025/</a></p>
+<hr />
+<h2 id="june-20-2025-1">June 20, 2025</h2>
+<p>date: 2025-06-21, from: Heather Cox Richardson blog</p>
+<p>Individuals in plain clothes with their faces covered and without
+badges or name tags are snatching people off the streets and taking them
+away.</p>
+<p><br></p>
+<p><a href="https://heathercoxrichardson.substack.com/p/june-20-2025"
+class="uri">https://heathercoxrichardson.substack.com/p/june-20-2025</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Miguel">@Miguel</span> de
+Icaza Mastondon feed</strong> (date: 2025-06-21, from: Miguel de Icaza
+Mastondon feed)</p>
+<p>
+The real magic is learning a few tricks from those performance talks
+(like switching from walltime to measure to measuring throughput, a nice
+mental model change, among others), how easy flamegraphs have become in
+Instruments, and how good the UI to support it has become.
+</p>
+<p><br></p>
+<p><a href="https://mastodon.social/@Migueldeicaza/114718448942265897"
+class="uri">https://mastodon.social/@Migueldeicaza/114718448942265897</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Miguel">@Miguel</span> de
+Icaza Mastondon feed</strong> (date: 2025-06-21, from: Miguel de Icaza
+Mastondon feed)</p>
+<p>
+Some updates, now at 8.3x performance boost since I started using the
+new tips and tricks from the Apple performance talk.
+</p>
+<p>
+Started to use third party benchmarks to compare notes.
+</p>
+<p>
+On VteBench, comparing MacOS Terminal, main, perf branch and Ghostty
+yields some amazing results, I couldn't believe my own eyes:
+</p>
+<p>
+When I first tried, "termbench small", it was a worthless experiment, it
+would never end. Now, it does better than both MacOS Tahoe and Ghostty:
+</p>
+<p><br></p>
+<p><a href="https://mastodon.social/@Migueldeicaza/114718433423948696"
+class="uri">https://mastodon.social/@Migueldeicaza/114718433423948696</a></p>
 <hr />
 <h2 id="friday-squid-blogging-gonate-squid-video">Friday Squid Blogging:
 Gonate Squid Video</h2>
@@ -3230,226 +3600,6 @@ The list is maintained on
 <p><a
 href="https://www.schneier.com/blog/archives/2025/06/upcoming-speaking-engagements-47.html"
 class="uri">https://www.schneier.com/blog/archives/2025/06/upcoming-speaking-engagements-47.html</a></p>
-<hr />
-<p><strong><span class="citation" data-cites="Miguel">@Miguel</span> de
-Icaza Mastondon feed</strong> (date: 2025-06-14, from: Miguel de Icaza
-Mastondon feed)</p>
-<p>
-A small aside, during my vacation I finally started on writing a Metal
-backend for SwiftTerm.
-</p>
-<p>
-It has a few missing features, so not worth comparing performance yet,
-but it is feeling great:
-</p>
-<p>
-<a href="https://github.com/migueldeicaza/SwiftTerm/tree/metal-backend" target="_blank" rel="nofollow noopener" translate="no"><span
-class="invisible">https://</span><span
-class="ellipsis">github.com/migueldeicaza/Swift</span><span
-class="invisible">Term/tree/metal-backend</span></a>
-</p>
-<p><br></p>
-<p><a href="https://mastodon.social/@Migueldeicaza/114684091651376434"
-class="uri">https://mastodon.social/@Migueldeicaza/114684091651376434</a></p>
-<hr />
-<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
-Scripting News</strong> (date: 2025-06-14, from: Dave Winer’s Scripting
-News)</p>
-<p>Today’s song:
-<a href="https://www.youtube.com/watch?v=NfekpCMlb5Q">Queen of the
-Roller Derby</a>.</p>
-<p><br></p>
-<p><a href="http://scripting.com/2025/06/14.html#a212937"
-class="uri">http://scripting.com/2025/06/14.html#a212937</a></p>
-<hr />
-<p><strong><span class="citation" data-cites="Miguel">@Miguel</span> de
-Icaza Mastondon feed</strong> (date: 2025-06-14, from: Miguel de Icaza
-Mastondon feed)</p>
-<p>
-Magical!<br /><a href="https://mastodon.social/@steipete/114682646957690315" target="_blank" rel="nofollow noopener" translate="no"><span
-class="invisible">https://</span><span
-class="ellipsis">mastodon.social/<span class="citation"
-data-cites="steipete/1146">@steipete/1146</span></span><span
-class="invisible">82646957690315</span></a>
-</p>
-<p><br></p>
-<p><a href="https://mastodon.social/@Migueldeicaza/114683835154798968"
-class="uri">https://mastodon.social/@Migueldeicaza/114683835154798968</a></p>
-<hr />
-<h2 id="june-13-2025">June 13, 2025</h2>
-<p>date: 2025-06-14, from: Heather Cox Richardson blog</p>
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/165958177/028d2eb2049990a15bc8dbc6769a56a0.mp3">
-</source>
-</audio>
-<p><a href="https://api.substack.com/feed/podcast/165958177/028d2eb2049990a15bc8dbc6769a56a0.mp3" target="_blank">download
-audio/mpeg</a><br></p>
-<p><a
-href="https://heathercoxrichardson.substack.com/p/june-13-2025-dae"
-class="uri">https://heathercoxrichardson.substack.com/p/june-13-2025-dae</a></p>
-<hr />
-<h2 id="be-peaceful.-be-careful.-be-safe.">Be peaceful. Be careful. Be
-safe.</h2>
-<p>date: 2025-06-14, from: Robert Reich’s blog</p>
-<p>Friends,</p>
-<p><br></p>
-<p><a
-href="https://robertreich.substack.com/p/be-peaceful-be-careful-be-safe"
-class="uri">https://robertreich.substack.com/p/be-peaceful-be-careful-be-safe</a></p>
-<hr />
-<h2 id="cleaning-cupboards">Cleaning Cupboards</h2>
-<p>date: 2025-06-14, from: John’s World Wide Wall Display</p>
-<p>Usually at this time of year I am busy ‘tidying’ things into
-cupboards. The summer holidays are approaching. This year I am having to
-clean the out - nine years of accumulated stuff.</p>
-<p><br></p>
-<p><a href="https://johnjohnston.info/blog/cleaning-cupboards/"
-class="uri">https://johnjohnston.info/blog/cleaning-cupboards/</a></p>
-<hr />
-<h2 id="the-talk-show-live-from-wwdc-2025">★ The Talk Show Live From
-WWDC 2025</h2>
-<p>date: 2025-06-14, updated: 2025-06-15, from: Daring Fireball</p>
-<p>Recorded in front of a live audience at The California Theatre in San
-Jose Tuesday evening, special guests Joanna Stern and Nilay Patel join
-me to discuss Apple’s announcements at WWDC 2025.</p>
-<p><br></p>
-<p><a
-href="https://daringfireball.net/2025/06/the_talk_show_live_from_wwdc_2025"
-class="uri">https://daringfireball.net/2025/06/the_talk_show_live_from_wwdc_2025</a></p>
-<hr />
-<h2 id="how-i-monitor-and-control-all-my-powered-devices-zigbee-ha">How
-I monitor and control all my powered devices (Zigbee + HA)</h2>
-<p>date: 2025-06-14, from: Jeff Geerling blog</p>
-<p><span
-class="field field--name-title field--type-string field--label-hidden">How
-I monitor and control all my powered devices (Zigbee + HA)</span></p>
-<pre><code>        &lt;p&gt;Any time I show power consumption graphs for the SBCs, computers, and servers I test, I get a number of comments asking for more details about the setup.&lt;/p&gt;</code></pre>
-<p>
-</p>
-<p>
-It’s quite simple, really: using my
-<a href="https://www.home-assistant.io/yellow/">Home Assistant
-Yellow</a>’s built-in Zigbee radio, I connect a number of
-<a href="https://amzn.to/45oROls">ThirdReality Zigbee Smart Outlets</a>
-to it, and then I use
-<a href="https://github.com/RomRider/apexcharts-card">ApexCharts
-Cards</a> to add graphs of power consumption over time on my Home
-Assistant dashboards.
-</p>
-<pre><code>  &lt;span class=&quot;field field--name-uid field--type-entity-reference field--label-hidden&quot;&gt;&lt;span&gt;Jeff Geerling&lt;/span&gt;&lt;/span&gt;</code></pre>
-<p><span
-class="field field--name-created field--type-created field--label-hidden">June
-14, 2025 </span></p>
-<p><br></p>
-<p><a
-href="https://www.jeffgeerling.com/blog/2025/how-i-monitor-and-control-all-my-powered-devices-zigbee-ha"
-class="uri">https://www.jeffgeerling.com/blog/2025/how-i-monitor-and-control-all-my-powered-devices-zigbee-ha</a></p>
-<hr />
-<h2 id="saturday-14-june-2025">Saturday,  14 June 2025</h2>
-<p>date: 2025-06-14, from: Doc Searls (at Harvard), New Old Blog</p>
-<p>And that guidance led to what I’m doing here. Late in the last
-millennium, I was the creative director and main copy writer for
-Hodskins Simone &amp; Searls, a hot young advertising agency in North
-Carolina. I also still wrote often for a local Magazine called The Sun,
-which has since grown to become one […]</p>
-<p><br></p>
-<p><a href="https://doc.searls.com/2025/06/14/saturday-14-june-2025/"
-class="uri">https://doc.searls.com/2025/06/14/saturday-14-june-2025/</a></p>
-<hr />
-<p><strong><span class="citation" data-cites="Miguel">@Miguel</span> de
-Icaza Mastondon feed</strong> (date: 2025-06-14, from: Miguel de Icaza
-Mastondon feed)</p>
-<p>
-Inspired by the talk, a nice 2.6x performance boost in a couple of hours
-for SwiftTerm:
-</p>
-<p>
-<a href="https://github.com/migueldeicaza/SwiftTerm/issues/373" target="_blank" rel="nofollow noopener" translate="no"><span
-class="invisible">https://</span><span
-class="ellipsis">github.com/migueldeicaza/Swift</span><span
-class="invisible">Term/issues/373</span></a>
-</p>
-<p><br></p>
-<p><a href="https://mastodon.social/@Migueldeicaza/114681687864387160"
-class="uri">https://mastodon.social/@Migueldeicaza/114681687864387160</a></p>
-<hr />
-<h2
-id="as-rhel-clones-hit-version-10-rocky-and-alma-chart-diverging-paths">As
-RHEL clones hit version 10, Rocky and Alma chart diverging paths</h2>
-<p>date: 2025-06-14, updated: 2025-06-14, from: Liam Proven’s articles
-at the Register</p>
-<h4>
-We take a quick look at the headline features – and the growing
-differences
-</h4>
-<pre><code>  &lt;p&gt;Rocky Linux 10 has caught up to the other high-profile RHELatives, but gaps between them are widening, both in tech and other ways.&lt;/p&gt; </code></pre>
-<p><br></p>
-<p><a
-href="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/14/rocky_alma_and_rhel_10/"
-class="uri">https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/14/rocky_alma_and_rhel_10/</a></p>
-<hr />
-<h2 id="fighting-trump-the-coffee-klatch-for-june-14-2025">Fighting
-Trump | The Coffee Klatch for June 14, 2025</h2>
-<p>date: 2025-06-14, from: Robert Reich’s blog</p>
-<p>With special guest Ezra Levin of Indivisible, Michael
-Lahanas-Calderón, and yours truly, Robert Reich</p>
-<p><br></p>
-<p><a
-href="https://robertreich.substack.com/p/fighting-trump-the-coffee-klatch"
-class="uri">https://robertreich.substack.com/p/fighting-trump-the-coffee-klatch</a></p>
-<hr />
-<h2
-id="the-z80-technique-reveals-the-source-code-for-atlassians-rovo-ai-assistant">the
-z80 technique reveals the source code for Atlassian’s ‘rovo’ AI
-assistant</h2>
-<p>date: 2025-06-14, from: Geoffrey Hunntley’s blog</p>
-<p>
-Ever wondered what happens if you take the technique at
-"<a href="https://ghuntley.com/z80/">Can a LLM convert C, to ASM to
-specs and then to a working Z/80 Speccy tape? Yes.</a>" and run it
-against the Atasslian Command Line
-(<a href="https://developer.atlassian.com/cloud/acli/guides/introduction/?ref=ghuntley.com">ACLI</a>)
-interface? Strap yourself in, as the Z80 is amongst one
-</p>
-<p><br></p>
-<p><a href="https://ghuntley.com/atlassian-rovo-source-code/"
-class="uri">https://ghuntley.com/atlassian-rovo-source-code/</a></p>
-<hr />
-<h2 id="weeknotes-june-7-13-2025">Weeknotes: June 7-13, 2025</h2>
-<p>date: 2025-06-14, from: Tracy Durnell Blog</p>
-<p>Highlight of the week: went on a neighborhood garden tour 🌼 had such
-a great time! 😊 Looking forward to: hoping to meet some neighbors at a
-community potluck 🤞 all the neighbors we knew moved away Stuff I did:
-6.75 hours consulting — sent in a first draft deliverable for the new
-project 3.25 hours […]</p>
-<p><br></p>
-<p><a
-href="https://tracydurnell.com/2025/06/13/weeknotes-june-7-13-2025/"
-class="uri">https://tracydurnell.com/2025/06/13/weeknotes-june-7-13-2025/</a></p>
-<hr />
-<h2 id="june-13-2025-1">June 13, 2025</h2>
-<p>date: 2025-06-14, from: Heather Cox Richardson blog</p>
-<p>Two hundred and fifty years ago, on June 14, 1775, the Second
-Continental Congress resolved “That six companies of expert riflemen, be
-immediately raised in Pennsylvania, two in Maryland, and two in
-Virginia; that each company consist of a captain, three lieutenants,
-four serjeants, four corporals, a drummer or trumpeter, and sixty-eight
-privates…[and that] each company, as soon as completed, shall march and
-join the army near Boston, to be there employed as light infantry, under
-the command of the chief Officer in that army.”</p>
-<p><br></p>
-<p><a href="https://heathercoxrichardson.substack.com/p/june-13-2025"
-class="uri">https://heathercoxrichardson.substack.com/p/june-13-2025</a></p>
-<hr />
-<h2
-id="meta-ai-users-are-inadvertently-sharing-their-private-chats-with-the-world">Meta
-AI Users Are Inadvertently Sharing Their Private Chats With the
-World</h2>
-<p>date: 2025-06-14, updated: 2025-06-15, from: Daring Fireball</p>
-<p><br></p>
-<p><a
-href="https://techcrunch.com/2025/06/12/the-meta-ai-app-is-a-privacy-disaster/"
-class="uri">https://techcrunch.com/2025/06/12/the-meta-ai-app-is-a-privacy-disaster/</a></p>
 </section>
 <footer>
 Antenna is a personal aggregation of items found around the web.

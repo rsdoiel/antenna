@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2025-06-21 14:06:35
+updated: 2025-06-22 06:08:20
 ---
 
 # journalism
 
-(date: 2025-06-21 14:06:35)
+(date: 2025-06-22 06:08:20)
+
+---
+
+## Peaceful protestors rally in Los Angeles on “No Kings Day”
+
+date: 2025-06-21, from: The Sundail (CSUN Student Newspaper)
+
+Tens of thousands of people flooded the streets of LA on Saturday, June 14, joining the “No Kings Day” protest that was held nationwide; the same day as Flag Day,... 
+
+<br> 
+
+<https://sundial.csun.edu/194534/news/peaceful-protestors-rally-in-los-angeles-on-no-kings-day/>
 
 ---
 
@@ -141,17 +153,4 @@ The ceremonies, which took place 11 a.m., 3 p.m.
 <br> 
 
 <https://dailybruin.com/2025/06/14/this-moment-belongs-to-all-of-you-ucla-commencement-celebrates-graduates/>
-
----
-
-## US Marines stationed at federal building in Westwood; 1 person detained
-
-date: 2025-06-14, from: The Daily Bruin (UCLA Student Newspaper)
-
-Around 40 United States Marines were stationed at the Wilshire Federal Building in Westwood – and had detained one person – as of 4:40 p.m Friday.&#160;
-About 200 Marines arrived in Westwood on Friday morning, according to CBS News. 
-
-<br> 
-
-<https://dailybruin.com/2025/06/13/us-marines-stationed-at-federal-building-in-westwood-1-person-detained/>
 

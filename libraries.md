@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2025-06-21 14:06:36
+updated: 2025-06-22 06:08:21
 ---
 
 # libraries
 
-(date: 2025-06-21 14:06:36)
+(date: 2025-06-22 06:08:21)
+
+---
+
+## The Rasp, by Philip MacDonald
+
+date: 2025-06-22, from: Standard Ebooks, new releaases
+
+A retired colonel investigates the elaborate murder of a cabinet minister. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/philip-macdonald/the-rasp>
 
 ---
 

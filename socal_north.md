@@ -1,11 +1,121 @@
 ---
 title: socal north
-updated: 2025-06-21 14:06:31
+updated: 2025-06-22 06:08:15
 ---
 
 # socal north
 
-(date: 2025-06-21 14:06:31)
+(date: 2025-06-22 06:08:15)
+
+---
+
+## How proposed federal food benefit cuts could affect Angelenos
+
+date: 2025-06-22, updated: 2025-06-22, from: The LAist
+
+Under the current proposed Budget Reconciliation Bill, California could see deep cuts to CalFresh food assistance. 
+
+<br> 
+
+<https://laist.com/news/health/how-proposed-federal-food-benefit-cuts-could-affect-angelenos>
+
+---
+
+## There are now two Trader Joe’s right across from one another in Sherman Oaks
+
+date: 2025-06-22, updated: 2025-06-22, from: The LAist
+
+A brand new Trader Joe’s opened right across the street from one that has been around for more than 50 years. Overkill or the more-the-merrier? 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/two-trader-joes-in-sherman-oaks>
+
+---
+
+## One daughter's search for a father detained by ICE
+
+date: 2025-06-22, updated: 2025-06-22, from: The LAist
+
+Francisco Urizar, 64, was detained by ICE while on his work route delivering tortillas. His daughter Nancy is trying to find out what happened to him. 
+
+<br> 
+
+<https://laist.com/news/one-daughters-search-for-a-father-detained-by-ice>
+
+---
+
+## US completes strikes on Iran nuclear sites, Trump says
+
+date: 2025-06-22, updated: 2025-06-22, from: The LAist
+
+The attack marks a major escalation in the burgeoning war between Iran and Israel and came despite years of promises by President Trump to keep the U.S. from entering another Middle East conflict. 
+
+<br> 
+
+<https://laist.com/news/u-s-completes-strikes-on-iran-nuclear-sites-trump-says>
+
+---
+
+## Preserving a Community Treasure – William S. Hart Park
+
+date: 2025-06-21, from: City of Santa Clarita
+
+<p>“My ranch William S. Hart Park is for the benefit of the American Public of every race and creed.” – William S. Hart By City Manager Ken Striplin William S. Hart Park has been a cherished part of the Santa Clarita community for nearly 70 years. Whether it’s enjoying a peaceful walk through the picturesque [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/21/preserving-a-community-treasure-william-s-hart-park/">Preserving a Community Treasure – William S. Hart Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/21/preserving-a-community-treasure-william-s-hart-park/>
+
+---
+
+## Gusty winds and fire weather watch on tap for parts of Los Angeles County
+
+date: 2025-06-21, updated: 2025-06-21, from: The LAist
+
+The Antelope Valley and areas along the I-5 corridor are the biggest concerns. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/gusty-winds-and-fire-weather-watch-on-tap-for-parts-of-los-angeles-county>
+
+---
+
+## ICE raids quiet SoCal's Asian hubs
+
+date: 2025-06-21, updated: 2025-06-22, from: The LAist
+
+Advocates say popular gathering spots for Asian immigrants are seeing less foot traffic in the wake of ongoing immigration sweeps. 
+
+<br> 
+
+<https://laist.com/news/ice-raids-quiet-socals-asian-hubs>
+
+---
+
+## LA Opera is having a once-in-a-decade costume sale
+
+date: 2025-06-21, updated: 2025-06-21, from: The LAist
+
+North America's fourth largest opera company is opening up its closet for a huge costume sale this Saturday. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/la-opera-is-having-a-once-in-a-decade-costume-sale>
+
+---
+
+## We went looking for a Japanese cola named 'Los Angeles' — and found a story about home
+
+date: 2025-06-21, updated: 2025-06-21, from: The LAist
+
+A rabbit hole journey into why not one, but two colas from Japan, pay homage to our great city. We don’t have the definitive answer, but we do have a great story to tell. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/japanese-cola-los-angeles>
 
 ---
 
@@ -484,9 +594,9 @@ date: 2025-06-19, from: Longbeach Post
 
 ---
 
-## How the Israel-Iran war is hitting close to home for many Southern Californians with ties to both countries
+## How the Israel-Iran war is hitting close to home for many Southern Californians with ties to both countries
 
-date: 2025-06-18, updated: 2025-06-19, from: The LAist
+date: 2025-06-18, updated: 2025-06-22, from: The LAist
 
 A bomb alert and wondering if family members are safe — while driving on the 110 Freeway. 
 
@@ -1263,241 +1373,4 @@ Workers are "terrified" as immigration agents sweep farms, the president of Unit
 <br> 
 
 <https://laist.com/news/americans-will-feel-impact-immigration-enforcement-on-farms-union-president-warns>
-
----
-
-## Keeping Our Community Safe from Wildfires and Fireworks
-
-date: 2025-06-14, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin As a longtime resident of Santa Clarita, I know that summer brings more than just high temperatures—it also marks a peak season for wildfire danger. Earlier this year, we witnessed the devastating impact of the Palisades and Eaton Fires in Los Angeles, as well as the Hughes Fire in Castaic, [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/06/14/keeping-our-community-safe-from-wildfires-and-fireworks/">Keeping Our Community Safe from Wildfires and Fireworks</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/06/14/keeping-our-community-safe-from-wildfires-and-fireworks/>
-
----
-
-## Fireworks and parachutists: Army celebrates its 250th year, Trump celebrates his 79th
-
-date: 2025-06-14, updated: 2025-06-14, from: The LAist
-
-The official focus of the parade was the commemoration of the U.S. Army's 250th anniversary. But critics say the president is using the military show of force to push a political agenda. 
-
-<br> 
-
-<https://laist.com/news/tanks-and-flyovers-army-celebrates-its-250th-year-trump-celebrates-his-79th>
-
----
-
-## Police establish barricade around PCH motel; 2 arrested
-
-date: 2025-06-14, from: Longbeach Post
-
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The incident began when officers conducted a traffic stop at about 8:10 p.m. Friday in the area of Redondo Avenue and Pacific Coast Highway, authorities said. </p>
-<p>The post <a href="https://lbpost.com/news/police-establish-barricade-around-pch-motel-2-arrested">Police establish barricade around PCH motel; 2 arrested</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/police-establish-barricade-around-pch-motel-2-arrested>
-
----
-
-## The eye-catching signs at LA's downtown No Kings protest
-
-date: 2025-06-14, updated: 2025-06-14, from: The LAist
-
-Homemade signs were everywhere as marchers flooded the streets of downtown Los Angeles on Saturday. 
-
-<br> 
-
-<https://laist.com/news/the-eye-catching-signs-at-las-downtown-no-kings-protest>
-
----
-
-## Saturday's military parade is the first in D.C. since 1991's Victory Celebration
-
-date: 2025-06-14, updated: 2025-06-14, from: The LAist
-
-The last time the United States held a national military parade was in June 1991, timed to welcome returning veterans of the 100-day Persian Gulf War. 
-
-<br> 
-
-<https://laist.com/news/saturdays-military-parade-will-be-the-first-in-d-c-since-1991s-victory-celebration>
-
----
-
-## Trump's immigration response poses political risks
-
-date: 2025-06-14, updated: 2025-06-14, from: The LAist
-
-President Trump's approach to deportations is giving Democrats a unifying message in opposition to him. But the Democratic Party still lacks a common vision for what it would do differently. 
-
-<br> 
-
-<https://laist.com/news/politics/trumps-immigration-response-poses-political-risks>
-
----
-
-## ¿Cómo elegir una escuela en Los Ángeles?
-
-date: 2025-06-14, updated: 2025-06-16, from: The LAist
-
-Solo en el Distrito Escolar Unificado de Los Ángeles, hay más de 400 escuelas primarias, además de cientos de programas especializados y docenas de escuelas autónomas administradas por organizaciones sin fines de lucro separadas. 
-
-<br> 
-
-<https://laist.com/news/education/los-angeles-school-choice-escuela-eliger-lausd-es>
-
----
-
-## ¿Cómo involucrarse en la educación de su hijo? Ya sea en un nuevo ciclo escolar o a mitad
-de año
-
-date: 2025-06-14, updated: 2025-06-15, from: The LAist
-
-Hay muchas formas de involucrarse en la educación de su hijo, no importa si tiene poco tiempo para hacerlo. 
-
-<br> 
-
-<https://laist.com/news/education/california-los-angeles-school-guide-parent-involvement-como-involucrarse-escuela-guia-es>
-
----
-
-## ¿Qué es la junta escolar de LAUSD y cómo los pongo a trabajar para mí?
-
-date: 2025-06-14, updated: 2025-06-14, from: The LAist
-
-Es la junta escolar más poderosa del país. Y se enfrenta a enormes desafíos, como la escasez de fondos, el ausentismo crónico y la seguridad. 
-
-<br> 
-
-<https://laist.com/news/education/lausd-los-angeles-unified-school-district-board-junta-distrito-escolar-unificado-guia-es>
-
----
-
-## Techos con goteras, aulas calurosas: una guía para padres sobre reparaciones escolares
-
-date: 2025-06-14, updated: 2025-06-14, from: The LAist
-
-Esta guía es para padres y familias que desean comprender mejor la condición de la escuela de sus hijos y cómo abogar para que se arregle. 
-
-<br> 
-
-<https://laist.com/news/education/school-maintenance-repairs-los-angeles-orange-county-condado-california-reparaciones-escolares-guia-es>
-
----
-
-## ¿Qué es el kínder transicional? ¿Qué esperar al inscribir a tu hijo?
-
-date: 2025-06-14, updated: 2025-06-14, from: The LAist
-
-California está haciendo que el kínder transicional esté disponible para todos los niños de 4 años. Entonces, ¿qué es y cómo sabes si es adecuado para tu hijo y tu familia? 
-
-<br> 
-
-<https://laist.com/news/education/what-is-transitional-kindergarten-que-es-kinder-transicional-es>
-
----
-
-## ¿Cómo puedes descubrir qué es una gran escuela sin usar GreatSchools?
-
-date: 2025-06-14, updated: 2025-06-14, from: The LAist
-
-Los puntajes de las pruebas son solo una medida de lo que sucede dentro de una escuela. Esto es lo que debes buscar para encontrar la mejor opción para tu hijo. 
-
-<br> 
-
-<https://laist.com/news/education/alternatives-greatschools-school-rankings-los-angeles-orange-county-condado-southern-sur-california-escuela-alternativa-es>
-
----
-
-## Thousands turn out for No Kings Day to protest Trump after a week of ICE raids spark outrage
-
-date: 2025-06-14, from: Longbeach Post
-
-<figure><img width="1024" height="714" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145739/14jun25-6-14-25-no-king-11478-617627-zkspgt1v-233434-qAUcu24z-1024x714.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145739/14jun25-6-14-25-no-king-11478-617627-zkspgt1v-233434-qAUcu24z-1024x714.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145739/14jun25-6-14-25-no-king-11478-617627-zkspgt1v-233434-qAUcu24z-300x209.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145739/14jun25-6-14-25-no-king-11478-617627-zkspgt1v-233434-qAUcu24z-768x536.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145739/14jun25-6-14-25-no-king-11478-617627-zkspgt1v-233434-qAUcu24z-155x108.jpg 155w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145739/14jun25-6-14-25-no-king-11478-617627-zkspgt1v-233434-qAUcu24z-400x279.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/14145739/14jun25-6-14-25-no-king-11478-617627-zkspgt1v-233434-qAUcu24z.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Police briefly closed portions of Ocean Boulevard — a smaller crowd walked to Downtown, then returned to Alamitos Beach — but otherwise no incidents were reported. </p>
-<p>The post <a href="https://lbpost.com/news/ice-protests">Thousands turn out for No Kings Day to protest Trump after a week of ICE raids spark outrage</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/ice-protests>
-
----
-
-## Tens of thousands of Angelenos gather for 'No Kings' protest, LAPD arrests dozens for alleged curfew violations
-
-date: 2025-06-14, updated: 2025-06-15, from: The LAist
-
-The LAPD said there were 35 arrests for allegedly violating the curfew order overnight. In all, the department said there have been 561 arrests related to protest activity since last Saturday. 
-
-<br> 
-
-<https://laist.com/news/politics/organizers-expect-thousands-of-protestors-at-no-kings-events-across-socal-today>
-
----
-
-## FIFA Club World Cup’s opening round at the Rose Bowl is a reminder of LA's 125 year soccer history
-
-date: 2025-06-14, updated: 2025-06-14, from: The LAist
-
-From L.A.’s first 1951 soccer team, to the birthplace of U.S. youth soccer, to Chicharito’s arrival, L.A.’s soccer DNA runs deep. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/fifa-club-world-cups-opening-round-at-the-rose-bowl-is-a-reminder-of-las-125-year-soccer-history>
-
----
-
-## Listen: What it was like on the ground at LA's ICE protests
-
-date: 2025-06-14, updated: 2025-06-14, from: The LAist
-
-What went down and where does Los Angeles go from here? 
-
-<br> 
-
-<https://laist.com/news/listen-what-it-was-like-on-the-ground-at-las-ice-protests>
-
----
-
-## California Democrats give in to GOP criticism on immigrant aid, tighten rules for defense fund
-
-date: 2025-06-14, updated: 2025-06-14, from: The LAist
-
-California Democrats set aside millions of dollars for immigrant legal services. They’re tightening that aid in a way that would deny it to people convicted of felonies. 
-
-<br> 
-
-<https://laist.com/news/politics/california-democrats-give-in-to-gop-criticism-on-immigrant-aid-tighten-rules-for-defense-fund>
-
----
-
-## At LA graduations, some families risk ICE detention to shower students with gifts and hugs
-
-date: 2025-06-14, updated: 2025-06-16, from: The LAist
-
-Students who started high school wearing face masks and testing for COVID-19 graduate in the midst of widespread immigration raids. 
-
-<br> 
-
-<https://laist.com/news/education/los-angeles-high-school-students-graduate-ice-immigration>
-
----
-
-## Altadena residents can now use LA County-approved blueprints to rebuild homes
-
-date: 2025-06-14, updated: 2025-06-14, from: The LAist
-
-Two nonprofits unite to offer fire-resistant designs and help people in Altadena bypass certain permitting and building hurdles. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/altadena-residents-can-now-use-la-county-approved-blueprints-to-rebuild-homes>
 

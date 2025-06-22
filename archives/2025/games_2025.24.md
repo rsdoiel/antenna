@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2025-06-21 14:06:35
+updated: 2025-06-22 06:08:20
 ---
 
 # games
 
-(date: 2025-06-21 14:06:35)
+(date: 2025-06-22 06:08:20)
+
+---
+
+## Can anything top Clair Obscur for Game of the Year?
+
+date: 2025-06-22, updated: 2025-06-21, from: Polygon Website
+
+Every June, the video game industry gets together in Los Angeles to tout its wares to the press and public. What used to be a massive festival of corporate marketing spend at the E3 trade show has downsized considerably to a handful of livestreams organized around Geoff Keighley’s Summer Game Fest, but it’s still an [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/awards/608104/clair-obscur-goty-2025-summer-game-fest>
+
+---
+
+## The 5 best Die Hard knockoffs
+
+date: 2025-06-22, updated: 2025-06-21, from: Polygon Website
+
+There are five official Die Hard movies. Given star Bruce Willis’ retirement from acting, it’s likely to stay that way for the foreseeable future. (Don’t rule out The Wholly Redundant Adventures of Young John McClane coming to theaters in summer 2035.) Regardless, the series will live on indefinitely, not just through the endlessly beloved, rewatchable, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/608247/5-best-movies-like-die-hard-knockoffs>
+
+---
+
+## We need a new Ring Fit Adventure on Switch 2
+
+date: 2025-06-21, updated: 2025-06-21, from: Polygon Website
+
+It has been six years since Ring Fit Adventure, the Nintendo Switch fitness game that asked players to defeat monsters (and a sexy dragon) through exercise. The workout game used the Joy-Cons’ accelerometers to measure your movements and translate them into fitness attacks on screen. It’s weird, it’s wacky, but it worked. I played quite [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/607550/ring-fit-adventure-2>
+
+---
+
+## Wizard of Legend 2 is the co-op game of the year — even if it’s broken
+
+date: 2025-06-21, updated: 2025-06-20, from: Polygon Website
+
+Wizard of Legend 2 is about as good as roguelikes get. It’s a shame then that I’ve spent more time trying to play Wizard of Legend 2 than I’ve spent actually playing Wizard of Legend 2. The original Wizard of Legend, developed by Contingent99, quickly amassed a cult following, due to charmingly minimalist vibes and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/608315/wizard-legend-2-co-op>
+
+---
+
+## Why 28 Months Later didn’t happen
+
+date: 2025-06-21, updated: 2025-06-20, from: Polygon Website
+
+Nearly 22 years after Danny Boyle shook up the zombie genre with 28 Days Later, the director makes a return to the saga of the infested with this week’s 28 Years Later. As the title implies, it’s been a long time coming.&#160; After making future Oscar-winner Cillian Murphy a breakout star and earning over $70 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/608237/why-28-months-later-skipped-28-years-later>
+
+---
+
+## Pokémon Go Jangmo-o Community Day guide
+
+date: 2025-06-21, updated: 2025-06-20, from: Polygon Website
+
+Pokémon Go is having a Jangmo-o Community Day event on June 21 from 2-5 p.m. in your local time. As expected with a Community Day event, Jangmo-o will spawn in huge numbers with a high chance to appear shiny. There are also several other bonuses and perks, which we’ve list out below. How do I [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/607806/jangmo-o-community-day-shiny-kommo-o-moveset>
 
 ---
 
@@ -834,76 +906,4 @@ Following Grand Theft Auto 6’s retreat into 2026, last week’s launch of Nint
 <br> 
 
 <https://www.polygon.com/awards/606770/mario-kart-world-goty-game-of-the-year>
-
----
-
-## Hell is Us terrifies in all the best ways
-
-date: 2025-06-14, updated: 2025-06-13, from: Polygon Website
-
-Hell is Us has been on my radar since it was first announced in April 2022, and I’ve finally been able to spend some time with it via its demo. The war-torn world of Hell is Us is immediately chilling and the demo’s brief glimpse of the gameplay, despite some minor hang-ups, has me eager [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/impressions/604103/hell-is-us-terrifies-demo-impressions>
-
----
-
-## All Verso Outfits in Clair Obscur: Expedition 33 and how to unlock them
-
-date: 2025-06-14, updated: 2025-06-13, from: Polygon Website
-
-Verso is more than just a Devil May Cry stand-in. In Clair Obscur: Expedition 33, Verso’s combat playstyle evokes this feeling of style, but style doesn&#8217;t have to stop at combat. With the right fit, you can defeat the paintress in style. Verso’s outfits unlock many combinations of expression. As you play Clair Obscur: Expedition [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/clair-obscur-expedition-33-guides/606836/verso-outfits-haircuts-all-how-to-unlock>
-
----
-
-## Pokémon Go ‘Phantom Ruins’ event guide
-
-date: 2025-06-14, updated: 2025-06-14, from: Polygon Website
-
-Pokémon Go’s third lead-up event for Go Fest 2025 is called “Phantom Ruins,” and it runs from June 14-18. The event features bonuses like Incense attracting some specific Pokémon, doubled catch XP, and bonuses for Max Particle collection — which comes just in time for Gigantamax Inteleon’s debut. Below, we list out the perks of [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/606949/phantom-ruins-event-timed-research-collection-challenge>
-
----
-
-## Keep an eye on Planet of Lana 2 — the first one was a secret gem of 2023
-
-date: 2025-06-14, updated: 2025-06-13, from: Polygon Website
-
-May 2023 was kind of a big deal. A little ol’ game called The Legend of Zelda: Tears of the Kingdom (ring any bells?) was released, and everyone was playing it; Tears sold almost 20 million copies in under two months. However, it wasn’t the only game that came out that month. While it may [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/impressions/606153/planet-of-lana-impressions>
-
----
-
-## Marvel vs. Capcom spawned a new generation of tag fighters — by not showing up
-
-date: 2025-06-14, updated: 2025-06-13, from: Polygon Website
-
-It’s been nearly 30 years since Capcom popularized tag-based fighting games with X-Men vs. Street Fighter — and to a lesser extent, SNK with Kizuna Encounter: Super Tag Battle. But now, the subgenre appears to be thriving in the vacuum left by Capcom itself, which hasn’t delivered a new tag-based fighting game since 2017’s Marvel vs. [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/606948/marvel-vs-capcom-tag-fighters-tokon-invincible-vs>
-
----
-
-## Switch 2 Joy-Con drift is already haunting Nintendo
-
-date: 2025-06-14, updated: 2025-06-13, from: Polygon Website
-
-Stick drift comes for everyone, but Nintendo Switch hardware has a reputation for being particularly prone to failure. Naturally, everyone is wondering if the Nintendo Switch 2 and its new Joy-Con controller is any better than its predecessor. News that at least one person purchased a brand new Switch 2 that appeared to come out [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/nintendo-switch-2/606939/switch-2-joycon-drift-controller-fix-joystick>
 

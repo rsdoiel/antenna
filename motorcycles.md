@@ -1,11 +1,85 @@
 ---
 title: motorcycles
-updated: 2025-06-21 14:06:37
+updated: 2025-06-22 06:08:22
 ---
 
 # motorcycles
 
-(date: 2025-06-21 14:06:37)
+(date: 2025-06-22 06:08:22)
+
+---
+
+## Ukraine’s Special Forces Are Using This Cheap Chinese Dual-Sport For Combat
+
+date: 2025-06-22, from: Ride Apart, Electric Motorcycle News
+
+Needless to say, the stealth and capability of a motorcycle seems to be working in their favor. 
+
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/763199/ukraine-special-forces-dual-sport-motorcycle-combat/>
+
+---
+
+## Christian Eckes 3rd in Pocono: ‘This is What This Team Should be Doing’
+
+date: 2025-06-21, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer For the second straight race, rookie Christian Eckes scored his career-best finish in the Xfinity Series. Last week at Mexico City, it was a fourth-place&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/christian-eckes-3rd-in-pocono-this-is-what-this-team-should-be-doing/>
+
+---
+
+## “I’m in shock”; Foster claims first career IndyCar pole for the XPEL Grand Prix at Road America
+
+date: 2025-06-21, from: Kickin the Tires blog
+
+For the second year in a row, a rookie is on the pole at Road America as Louie Foster (01:44.5141) will start Sunday’s race from the pole position for the&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/foster-claims-first-career-indycar-pole-for-the-xpel-grand-prix-at-road-america/>
+
+---
+
+## Drivers Who Are Looking for Stress Relief on Playoff Bubble
+
+date: 2025-06-21, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer With ten races left in the Cup Series regular season, the word &#8220;playoffs&#8221; has become the dominant word through the media center of each racetrack&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/drivers-who-are-looking-for-stress-relief-on-playoff-bubble/>
+
+---
+
+## NASCAR Hall of Fame Inductee Kurt Busch Named Grand Marshal For Great American Getaway 400 at Pocono
+
+date: 2025-06-21, from: Kickin the Tires blog
+
+LONG POND, Pa. (June 20, 2025) – Kurt Busch, a member of the 2026 NASCAR Hall of Fame class, has been named the Grand Marshal for The Great American Getaway 400&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-hall-of-fame-inductee-kurt-busch-named-grand-marshal-for-great-american-getaway-400-at-pocono/>
+
+---
+
+## After Raging Wildfires in Canada, Saskatchewan Reopens for ATV and UTV Use
+
+date: 2025-06-21, from: Ride Apart, Electric Motorcycle News
+
+You can get outdoors once again, but there are a few new rules.  
+
+<br> 
+
+<https://www.rideapart.com/news/763267/saskatchewan-wildfire-atv-utv-use-reopening/>
 
 ---
 
@@ -437,28 +511,4 @@ By Austin Lawton, Staff Writer IndyCar heads to primetime on Sunday night for th
 <br> 
 
 <https://kickinthetires.net/indycar/power-rockets-to-71st-career-pole-at-world-wide-technology-raceway/>
-
----
-
-## NASCAR Driver Ryan Ellis Shares Story Of Mexico City-bound 39 Year Old Plane’s Aborted Takeoff
-
-date: 2025-06-14, from: Kickin the Tires blog
-
-By Jerry Jordan, Editor MEXICO CITY – Having an engine fail due to a suspected bird strike at 160 mph just seconds before takeoff was likely on any NASCAR crew&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/nascar-driver-ryan-ellis-shares-story-of-mexico-city-bound-39-year-old-planes-aborted-takeoff/>
-
----
-
-## GALLERY 1: NASCAR Visits Autodromo Hermano Rodriquez In Mexico City
-
-date: 2025-06-14, from: Kickin the Tires blog
-
-Photos by Jerry Jordan/Kickin&#8217; the Tires 
-
-<br> 
-
-<https://kickinthetires.net/nascar/gallery-1-nascar-visits-autodromo-hermano-rodriquez-in-mexico-city/>
 

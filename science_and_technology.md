@@ -1,11 +1,47 @@
 ---
 title: science and technology
-updated: 2025-06-21 14:06:33
+updated: 2025-06-22 06:08:17
 ---
 
 # science and technology
 
-(date: 2025-06-21 14:06:33)
+(date: 2025-06-22 06:08:17)
+
+---
+
+## The AIpocalypse is here for web sites as search referrals plunge
+
+date: 2025-06-22, updated: 2025-06-22, from: The Register (UK I.T. News)
+
+<h4>Turn out the lights, the internet is over</h4> <p>Google AI Overviews and other AI search services appear to be starving the hand that fed them.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/22/ai_search_starves_publishers/>
+
+---
+
+## Teens used encrypted chats to recruit for 'violence as a service' murder ring, Europol says
+
+date: 2025-06-21, updated: 2025-06-21, from: The Register (UK I.T. News)
+
+<h4>Skull emoji knife emoji moneybag emoji</h4> <p>Seven people, including a 14-year-old, have been arrested or surrendered to Danish authorities after allegedly using encrypted messaging apps to hire other teenagers for contract killings in what Europol calls a &#34;violence-as-a-service&#34; operation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/21/teen_arrested_murder_for_hire/>
+
+---
+
+## Curiosity Blog, Sols 4577-4579: Watch the Skies
+
+date: 2025-06-21, from: NASA breaking news
+
+Written by Deborah Padgett, OPGS Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, June 20, 2025 During the plan covering Sols 4575-4576, Curiosity continued our investigation of mysterious boxwork structures on the shoulders of Mount Sharp. After a successful 56-meter drive (about 184 feet), Curiosity is now parked in a trough cutting […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4577-4579-watch-the-skies/>
 
 ---
 
@@ -1890,28 +1926,4 @@ date: 2025-06-15, updated: 2025-06-15, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/06/15/windows_95_testing_almost_stalled/>
-
----
-
-## Researchers claim spoof-proof random number generator breakthrough
-
-date: 2025-06-14, updated: 2025-06-14, from: The Register (UK I.T. News)
-
-<h4>Combining quantum entanglement with hash chains promises randomness which can be relied on</h4> <p>Scientists in the US have built a system for creating truly random numbers which cannot be tampered with by a third party.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/06/14/researchers_claim_spoofproof_random_number/>
-
----
-
-## As RHEL clones hit version 10, Rocky and Alma chart diverging paths
-
-date: 2025-06-14, updated: 2025-06-14, from: The Register (UK I.T. News)
-
-<h4>We take a quick look at the headline features – and the growing differences</h4> <p>Rocky Linux 10 has caught up to the other high-profile RHELatives, but gaps between them are widening, both in tech and other ways.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/06/14/rocky_alma_and_rhel_10/>
 

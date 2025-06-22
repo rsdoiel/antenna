@@ -1,11 +1,36 @@
 ---
 title: writing
-updated: 2025-06-21 14:06:34
+updated: 2025-06-22 06:08:19
 ---
 
 # writing
 
-(date: 2025-06-21 14:06:34)
+(date: 2025-06-22 06:08:19)
+
+---
+
+## 2025 Locus Awards Winners
+
+date: 2025-06-22, from: Locus Magazine
+
+<p>The Locus Science Fiction Foundation announced the winners in each category of the 2025 Locus Awards on June 21, 2025, during the Locus Awards Weekend. Authors Sarah Gailey and Tochi Onyebuchi were Guests of Honor, with Featured Local Author Kemi Ashing-Giwa and Featured Local Artist Stephanie Law. Additional weekend events included readings and panels with leading authors, plus program items including a limited-seating workshop with Henry Lien and a catered  <a href="https://locusmag.com/2025/06/2025-locus-awards-winners/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/2025-locus-awards-winners/>
+
+---
+
+## The Adventures of Mary Darling by Pat Murphy: Review by Gary K. Wolfe
+
+date: 2025-06-21, from: Locus Magazine
+
+<p><strong>The Adventures of Mary Darling</strong>, Pat Murphy (Tachyon 978-1-61696-438-2, $18.95, 320pp, tp) May 2025.</p>
+<p>Any number of fantasy writers have paid hom­age to Tolkien’s famous quotation about “the Pot of Soup, the Cauldron of Story,” or to Salman Rushdie’s less-cited “sea of stories,” but there are plenty of tales that have voluminous pots all their own. Two of the bigger pots involve Peter Pan and Sherlock Holmes, which Pat  <a href="https://locusmag.com/2025/06/the-adventures-of-mary-darling-by-pat-murphy-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/the-adventures-of-mary-darling-by-pat-murphy-review-by-gary-k-wolfe/>
 
 ---
 
@@ -568,43 +593,4 @@ date: 2025-06-15, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/06/when-the-tides-held-the-moon-by-venessa-vida-kelley-review-by-alex-brown/>
-
----
-
-## Esperance by Adam Oyebanji: Review by Paul Di Filippo
-
-date: 2025-06-14, from: Locus Magazine
-
-<p><strong>Esperance</strong>, Adam Oyebanji (DAW ‎978-0756419912, hardcover, 432pp, $29.00) May 2025.</p>
-<p>Once upon a time, different generations of writers managed to coexist peacefully and fruitfully within the SF field. There was much less “OK Boomer” disdain and “Get Off My Lawn” vituperation. Of course, there always existed tensions between older folks doing things one way, and younger folks taking a different approach. Consider the New Wave and the Cyberpunk movements  <a href="https://locusmag.com/2025/06/esperance-by-adam-oyebanji-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/06/esperance-by-adam-oyebanji-review-by-paul-di-filippo/>
-
----
-
-## Exit Zero: Stories by Marie-Helene Bertino: Review by Ian Mond
-
-date: 2025-06-14, from: Locus Magazine
-
-<p><strong>Exit Zero: Stories</strong>, Marie-Helene Bertino (FSG Originals 978-0-37461-647-2, $18.00, 208pp, tp) April 2025.</p>
-<p><strong>Beautyland </strong>by Marie-Helene Bertino was one of the best books of 2024. As is the way with these things, the novel – with its extraterrestrial (or is she?) protagonist reporting her observations of American culture back to her home planet via fax machine – captured the imagination of the mainstream and literary world (it appeared on  <a href="https://locusmag.com/2025/06/exit-zero-stories-by-marie-helene-bertino-review-by-ian-mond/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/06/exit-zero-stories-by-marie-helene-bertino-review-by-ian-mond/>
-
----
-
-## Clarkesworld: Short Fiction Reviews by A.C. Wise
-
-date: 2025-06-14, from: Locus Magazine
-
-<p>Clarkesworld 3/25</p>
-<p>The March issue of Clarkesworld kicks off with a sweet, gentle, and hopeful story, “<strong>From Encela­dus, With Love</strong>” by <strong>Ryan Cole</strong>. Dezzi stows away on a ship headed for Enceladus, looking for her mother. She discovers the ship is conscious and has the personality of a young boy named Cal, whom she befriends and asks to keep her secret. “<strong>Mindtrips</strong>” by <strong>Tlotlo Tsamaase </strong> <a href="https://locusmag.com/2025/06/clarkesworld-short-fiction-reviews-by-a-c-wise-9/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/06/clarkesworld-short-fiction-reviews-by-a-c-wise-9/>
 
