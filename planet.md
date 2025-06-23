@@ -1,11 +1,149 @@
 ---
 title: planet
-updated: 2025-06-23 06:07:11
+updated: 2025-06-23 14:08:33
 ---
 
 # planet
 
-(date: 2025-06-23 06:07:11)
+(date: 2025-06-23 14:08:33)
+
+---
+
+## Gardaí travel to Iceland over Jón Jónsson disappearance
+
+date: 2025-06-23, from: RTÉ News
+
+Gardaí have travelled to Iceland as part of an investigation into the disappearance of Icelandic man Jón Jónsson in Dublin over six years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0623/1519962-jon-jonsson-gardai/>
+
+---
+
+## Tanzania: Bishops issue liturgical guidelines to curb possible abuses and call for a day of national prayer
+
+date: 2025-06-23, from: Vatican News
+
+
+                    <p>Catholic Bishops in Tanzania have invited dioceses, parishes, and prayer centres to participate in a day of prayer, fasting, and adoration. As far as possible, they urge priests to make the Sacraments of Penance and Eucharist available on 23 August 2025. The purpose is to dedicate time to pray for the country to have peaceful elections and remain united—a nation that lives in justice and peace.
+ 
+</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-06/tanzania-bishops-issue-liturgical-guidelines-to-curb-possible-a.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-06/tanzania-bishops-issue-liturgical-guidelines-to-curb-possible-a.html>
+
+---
+
+## Podcast: Saipan the movie and what next for Iran?
+
+date: 2025-06-23, from: RTÉ News
+
+ 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0623/1519951-podcast-saipan-the-movie-and-what-next-for-iran/>
+
+---
+
+## Man twice raped by man he knew is 'broken, alone'
+
+date: 2025-06-23, from: RTÉ News
+
+A man who was twice raped by a man he had known for many years has said there are "not words strong enough to capture the pain" he has suffered. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0623/1519953-thomas-nyhan/>
+
+---
+
+## Two men jailed for life over murder of man in Co Meath
+
+date: 2025-06-23, from: RTÉ News
+
+Two men have been sentenced to life in prison at the Central Criminal Court for murdering a young footballer who had stolen €6,000 worth of cannabis. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0623/1519949-meath-murder/>
+
+---
+
+## Pride for U2's The Edge as he becomes Irish citizen
+
+date: 2025-06-23, from: RTÉ News
+
+It was a beautiful day for U2 guitarist David Howell Evans, known as The Edge, who was one of thousands of people to become Irish citizens at a ceremony in Co Kerry this morning. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0623/1519929-edge-u2-citizenship/>
+
+---
+
+## Why is the Strait of Hormuz so important?
+
+date: 2025-06-23, from: RTÉ News
+
+The Strait of Hormuz is a strategic waterway for seaborne oil that has long been used by Iran as a geopolitical bargaining chip. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0623/1519916-straitofhormuz-explainer/>
+
+---
+
+## Greece declares emergency on Chios as fires burn
+
+date: 2025-06-23, from: RTÉ News
+
+Greece has put the island of Chios under a state of emergency because of major fires that have raged since the weekend. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0623/1519921-greece-wildfires/>
+
+---
+
+## Emma Fogarty gets 2,000 messages ahead of 41st birthday
+
+date: 2025-06-23, from: RTÉ News
+
+Ireland's longest-surviving person battling the most severe type of the skin condition epidermolysis bullosa, also known as Butterfly Skin, has received 2,000 birthday messages ahead of her birthday this week. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0623/1519920-emma-fogarty-birthday-41/>
+
+---
+
+## Succession plans under way for Iran's Supreme leader
+
+date: 2025-06-23, from: RTÉ News
+
+Senior clerics in Iran are accelerating the hunt for a successor to Iran's Supreme leader Ayatollah Ali Khamenei following increased Israeli strikes. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0623/1519887-iran-leader-succession/>
+
+---
+
+## Renowned Italian sculptor Pomodoro dies aged 98
+
+date: 2025-06-23, from: RTÉ News
+
+Italian sculptor Arnaldo Pomodoro, renowned for his huge bronze spheres, including one at TCD, has died a day before his 99th birthday. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0623/1519909-renowned-italian-sculptor-pomodoro-dies-aged-98/>
 
 ---
 
@@ -21,6 +159,34 @@ Greenpeace has added its voice to protests against this week's celebrity wedding
 
 ---
 
+## Greenpeace joins protests over Bezos's Venice wedding
+
+date: 2025-06-23, from: RTÉ News
+
+Greenpeace has added its voice to protests against this week's celebrity wedding in Venice between American tech billionaire Jeff Bezos and journalist Laura Sanchez. 
+
+<br> 
+
+<https://www.rte.ie/news/environment/2025/0623/1519892-greenpeace-joins-protests-over-bezoss-venice-wedding/>
+
+---
+
+## Bishop Rhoades highlights religious freedom concerns
+
+date: 2025-06-23, from: Vatican News
+
+
+                    <p>Bishop Kevin Rhoades, chairman of the USCCB’s Committee on Religious Liberty, highlights the domestic and international issues the Church in the United States is focusing on during Religious Freedom Week 2025.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/bishop-rhoades-highlights-religious-freedom-concerns.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/bishop-rhoades-highlights-religious-freedom-concerns.html>
+
+---
+
 ## Iran-Israel crisis: IAEA chief calls for access to damaged nuclear sites
 
 date: 2025-06-23, from: United Nations, Top Stories
@@ -30,6 +196,90 @@ After surprise US bombing raids on Iranian uranium enrichment facilities over th
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/06/1164766>
+
+---
+
+## Asia is warming twice as fast as the rest of the world
+
+date: 2025-06-23, from: United Nations, Top Stories
+
+In April 2024, China broke the average temperature record that month. The following month, it was the same - and then again in August. And September. And November. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164781>
+
+---
+
+## Bearing the brunt of war: UNICEF chief meets some of Sudan’s 700,000 child refugees crossing into Chad
+
+date: 2025-06-23, from: United Nations, Top Stories
+
+Since fighting erupted in Sudan in April 2023, more than two million children have been displaced by the brutal war between rival militaries there. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164821>
+
+---
+
+## Human Rights Council hears concerns over displacement, genocide risks and migrant trafficking
+
+date: 2025-06-23, from: United Nations, Top Stories
+
+On day six of the&nbsp;59th Session of the Human Rights Council (HRC) in Geneva, the Council heard urgent updates on rising internal displacement driven by organised crime, escalating genocide risks and the trafficking of women in the domestic work sector. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164816>
+
+---
+
+## Tobacco control efforts protect three-quarters of the world’s population, WHO report finds
+
+date: 2025-06-23, from: United Nations, Top Stories
+
+Tobacco use still claims over seven million lives a year, the World Health Organization warned on Monday, calling for greater efforts to limit its use amid rising interference from the global tobacco industry. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164806>
+
+---
+
+## Senior envoy warns Iran-Israel conflict is deepening crisis in Afghanistan
+
+date: 2025-06-23, from: United Nations, Top Stories
+
+Afghanistan is already grappling with immense humanitarian and economic challenges and growing instability in the wider region following airstrikes by Israel and the United States in Iran is compounding the situation, the UN’s top envoy in the country told the Security Council on Monday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164771>
+
+---
+
+## UN condemns ‘heinous’ terrorist attack at Damascus church that killed dozens
+
+date: 2025-06-23, from: United Nations, Top Stories
+
+The United Nations has condemned a suicide bombing on Sunday at a Damascus church that killed at least 25 worshippers, including women and children during mass, as a “heinous crime”. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164786>
+
+---
+
+## Yemen: Nearly half the population facing acute food insecurity in some southern areas
+
+date: 2025-06-23, from: United Nations, Top Stories
+
+The food security situation in Government-controlled areas of southern Yemen is dire, with nearly half the population facing acute food insecurity and struggling to find their next meal. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164776>
 
 ---
 
@@ -57,6 +307,18 @@ Boots Ireland has been spared a court conviction after admitting last month to b
 
 ---
 
+## Boots Ireland gets Probation Act over Black Friday prices
+
+date: 2025-06-23, from: RTÉ News
+
+Boots Ireland has been spared a court conviction after admitting last month to breaking pricing laws during a 2023 Black Friday sale. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0623/1519882-boots-black-friday/>
+
+---
+
 ## HSE apologises after girl immunised with used needle
 
 date: 2025-06-23, from: RTÉ News
@@ -66,6 +328,34 @@ The HSE has apologised to and compensated a 13-year-old girl who was given a Cov
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0623/1519881-hse-covid-court/>
+
+---
+
+## HSE apologises after girl immunised with used needle
+
+date: 2025-06-23, from: RTÉ News
+
+The HSE has apologised to and compensated a 13-year-old girl who was given a Covid-19 vaccination with an already used needle. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0623/1519881-hse-covid-court/>
+
+---
+
+## Hot-air balloon accident in Brazil kills 8, leaves 13 others injured
+
+date: 2025-06-23, from: Vatican News
+
+
+                    <p>A hot-air balloon caught fire and tumbled from the sky on Saturday morning in Praia Grande, a municipality in Brazil’s southern state of Santa Catarina, killing eight people and injuring 13 others.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/hot-air-balloon-accident-in-brazil.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/hot-air-balloon-accident-in-brazil.html>
 
 ---
 
@@ -109,6 +399,18 @@ The US embassy in Dublin will "soon" recommence scheduling appointments for inte
 
 ---
 
+## Changes to vetting system for US visas excessive - Martin
+
+date: 2025-06-23, from: RTÉ News
+
+Changes to the vetting system for US student visas have been described by Taoiseach Micheál Martin as excessive. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0623/1519862-us-visas/>
+
+---
+
 ## Church in Seoul urges end to hostility, marks progress in inter-Korean relations
 
 date: 2025-06-23, from: Vatican News
@@ -141,11 +443,23 @@ date: 2025-06-23, from: Vatican News
 
 ---
 
-## Three Irish citizens evacuated from Iran
+## Staff at Michigan church averted mass shooting by killing gunman, police say
+
+date: 2025-06-23, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7568311.1750679888!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/michigan-church-shooting.jpg' alt='Police walk on grass near a truck outside a building. ' width='620' height='349' title='Police walk by an idle vehicle near CrossPointe Community Church in Wayne, Mich., Sunday, June 23, 2025.'/><p>A man who opened fire outside a Wayne, Mich., church filled with worshippers on Sunday was struck by a vehicle and then fatally shot by security staff who averted a potential mass shooting, police said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/windsor/church-shooter-michigan-1.7568308?cmp=rss>
+
+---
+
+## Irish mother and two children evacuated from Iran
 
 date: 2025-06-23, from: RTÉ News
 
-Three Irish citizens and their dependents have been evacuated from Iran, Tánaiste Simon Harris has confirmed. 
+A mother and two children are the three Irish citizens or dependents who have been safely evacuated from Iran after the US joined Israel's bombing campaign on the country. 
 
 <br> 
 
@@ -153,11 +467,11 @@ Three Irish citizens and their dependents have been evacuated from Iran, Tánais
 
 ---
 
-## All-Ireland SFC draw: Dubs to face Tyrone in last-eight
+## RTÉ to show Meath-Galway and Armagh-Kerry double-header
 
 date: 2025-06-23, from: RTÉ News
 
-Dublin will face Tyrone while Donegal are re-acquainted with provincial rivals Monaghan as the draw was made for the All-Ireland SFC quarter-finals this morning. 
+Sunday's All-Ireland SFC quarter-finals, which pit Meath against Galway and reigning champions Armagh against Kerry, will both be broadcast live from Croke Park on RTÉ 2 and RTÉ Player. 
 
 <br> 
 
@@ -213,11 +527,23 @@ Live coverage of developments in the Middle East as the world braces for Tehran'
 
 ---
 
-## Belfast court quashes decision to approve A5 upgrade
+## 'Very weak' response from Iran to US strikes - Trump
 
 date: 2025-06-23, from: RTÉ News
 
-A Belfast court has quashed a Stormont decision to approve a huge roads scheme in Northern Ireland. 
+Live coverage of developments in the Middle East as Iran responds to the US attack on its nuclear sites. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0623/1519813-middle-east/>
+
+---
+
+## A5 campaigners 'deeply disappointed' by court decision
+
+date: 2025-06-23, from: RTÉ News
+
+Campaigners say they are "deeply disappointed" by a decision by a Belfast court to quash a Stormont decision to approve a huge roads scheme in Northern Ireland. 
 
 <br> 
 
@@ -253,11 +579,11 @@ date: 2025-06-23, from: Vatican News
 
 ---
 
-## US attack on Iran 'unhelpful intervention', says Harris
+## Israeli breach of human rights to be brought to Tel Aviv
 
 date: 2025-06-23, from: RTÉ News
 
-Tánaiste and Minister for Foreign Affairs Simon Harris has described the US attack on Iran's nuclear facilities as "a very unhelpful intervention." 
+The EU's foreign policy chief Kaja Kallas has said she will address the EU's finding that Israel is in breach of the human rights obligations enshrined in the EU-Israel Association Agreement with the Israeli authorities. 
 
 <br> 
 
@@ -265,11 +591,11 @@ Tánaiste and Minister for Foreign Affairs Simon Harris has described the US att
 
 ---
 
-## Iran says its Fordow nuclear facility has been struck again
+## Iran launches attacks on U.S. base in Qatar after American bombing
 
 date: 2025-06-23, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7568294.1750676499!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/iran-nuclear-usa-damage.JPG' alt='A satellite image is shown of a mountainous and sparsely populated area with a few buildings.' width='620' height='349' title='A satellite view shows an overview of Fordow underground complex, after the U.S. struck the underground nuclear facility, near Qom, Iran June 22, 2025.     '/><p>Iran's underground enrichment site at Fordow was hit again Monday while Iran fired a salvo of missiles and drones at Israel and warned the United States that its military now has a "free hand" to attack American targets in the wake of the Trump administration's massive strikes on Iranian nuclear sites.</p> 
+<img src='https://i.cbc.ca/1.7568600.1750701124!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/iran-nuclear-qatar-explosions.JPG' alt='Night sky over Doha, Qatar' width='620' height='349' title='Traces are seen in the sky after Iran&apos;s armed forces say they targeted the Al-Udeid base in a missile attack, in Qatar, June 23, 2025. '/><p>Iran launched missile attacks Monday on U.S. military bases in Qatar and Iraq, retaliating for the American bombing of its nuclear sites and escalating tensions in the volatile region.</p> 
 
 <br> 
 
@@ -277,11 +603,11 @@ date: 2025-06-23, from: CBC, World News
 
 ---
 
-## Israel says strikes on Tehran are biggest yet
+## No personnel injured after Iran strikes US air base
 
 date: 2025-06-23, from: RTÉ News
 
-Israel has targeted Evin prison in Tehran, in what Israel called the most intense bombing yet of the Iranian capital, a day after the United States joined the war by blasting nuclear sites. 
+No US personnel were injured after Iran's military carried out a missile attack on the Al Udeid US airbase in Qatar after explosions were heard across the Qatari capital. 
 
 <br> 
 
@@ -301,11 +627,11 @@ Wearable sensors for stroke patients and chip-based cancer tumour simulations fe
 
 ---
 
-## Russian attacks on Kyiv kill seven and injure dozens
+## Starmer, Zelensky meet, agree military production project
 
 date: 2025-06-23, from: RTÉ News
 
-Russian drone and missile attacks in and around Kyiv overnight killed seven people, injured dozens, sparked fires in residential areas and damaged the entrance to a metro station bomb shelter, Ukrainian officials said. 
+Ukrainian President Volodymyr Zelensky and British Prime Minister Keir Starmer announced a new defence co-production initiative during a short visit by Mr Zelensky to London to discuss his country's defence against Russia. 
 
 <br> 
 
@@ -475,7 +801,7 @@ Thousands of people have taken part in an anti-immigration protest in Dublin, wi
 
 ## What is financing for development?
 
-date: 2025-06-22, from: United Nations, Economic Development
+date: 2025-06-22, from: United Nations, Top Stories
 
 According to the United Nations, the world needs an extra $4 trillion every year to tackle some of the world’s biggest challenges – ending poverty and hunger, fighting climate change, and reducing inequality.&nbsp; 
 
@@ -761,7 +1087,7 @@ date: 2025-06-22, from: CBC, World News
 
 ---
 
-## Syria's post-Assad leader vowed the country is for all. Some Syrians have their doubts
+## Syrians were already on edge over a fragile post-Assad peace even before this weekend's suicide bombing
 
 date: 2025-06-22, from: CBC, World News
 

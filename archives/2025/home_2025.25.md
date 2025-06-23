@@ -1,11 +1,177 @@
 ---
 title: home
-updated: 2025-06-23 06:07:18
+updated: 2025-06-23 14:08:40
 ---
 
 # home
 
-(date: 2025-06-23 06:07:18)
+(date: 2025-06-23 14:08:40)
+
+---
+
+## This "Sea Snail" Home Is Built From Thousands of Tiny Fossils
+
+date: 2025-06-23, from: Dwell
+
+Lanza Atelier salvages stone excavated from a building site to create a different kind of beach house in Cancún. 
+
+<br> 
+
+<https://www.dwell.com/article/sea-snail-house-casa-caracol-lanza-atelier-cancun-mexico-24f2b4a6>
+
+---
+
+## Boric Acid for Bugs: Is it Safe to Use in Your Home?
+
+date: 2025-06-23, from: Family Handyman Blog
+
+<p>Is boric acid for you? Learn how it works, and whether it's safe for your family and pets.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/boric-acid-pesticides/">Boric Acid for Bugs: Is it Safe to Use in Your Home?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/boric-acid-pesticides/>
+
+---
+
+## Ocean Views Steal the Show at This $7M Home by a Frank Lloyd Wright Apprentice
+
+date: 2025-06-23, from: Dwell
+
+Designed by Frederick Liebhardt, the recently renovated San Diego home captures seaside vistas in almost every room. 
+
+<br> 
+
+<https://www.dwell.com/article/frederick-liebhardt-la-jolla-ocean-view-home-san-diego-real-estate-bfb66cc2>
+
+---
+
+## Underfloor Heating, a Wine Room, Floor-to-Ceiling Windows—in a Houseboat?
+
+date: 2025-06-23, from: Dwell
+
+The Copenhagen residence pushes the limits of on-water living with a suite of refined finishes and features. 
+
+<br> 
+
+<https://www.dwell.com/article/ms-garde-garde-hvalsoe-floating-home-c4af2593>
+
+---
+
+## Chicago’s Iconic Marina City Is Having a Resurgence
+
+date: 2025-06-23, from: Dwell
+
+As longtime residents themselves, the leaders of MAS Studio have become the de facto renovators of these unique apartments, redefining what it means to live in a building with working-class history. 
+
+<br> 
+
+<https://www.dwell.com/article/marina-city-towers-chicago-mas-studio-7f989c53>
+
+---
+
+## How to Grow and Care for Eucalyptus
+
+date: 2025-06-23, from: The Gardener's Path
+
+<p>Eucalyptus trees and shrubs feature fragrant foliage, striking bark, and sculptural form, adding bold texture to the landscape. Most species prefer mild, frost-free climates, though there are some that can tolerate conditions as far north as Zone 6. Learn how to grow and care for eucalyptus in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/grow-eucalyptus/">How to Grow and Care for Eucalyptus</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/grow-eucalyptus/>
+
+---
+
+## 19 Sparrows in Florida (With Pictures and Identification)
+
+date: 2025-06-23, from: Yard Life blog
+
+<p>Florida offers a wonderful chance to observe a wide variety of sparrows, especially during the cooler months when migratory species ... </p>
+<p class="read-more-container"><a title="19 Sparrows in Florida (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/19-sparrows-in-florida-with-pictures-and-identification/#more-31017" aria-label="Read more about 19 Sparrows in Florida (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/19-sparrows-in-florida-with-pictures-and-identification/">19 Sparrows in Florida (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/19-sparrows-in-florida-with-pictures-and-identification/>
+
+---
+
+## How a Leaky, Dark, and Dated Bathroom Was Transformed Into a Spa-Like Space
+
+date: 2025-06-23, from: Sunset Magazine - Living in the West
+
+This Oakland, California, bathroom was leaky, dark, and dated. Designer Gina Gutierrez turned it into a spa-like space with clever design. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/oakland-condo-bathroom-before-after>
+
+---
+
+## Save These Recipes for Your Next Summer Cookout
+
+date: 2025-06-23, from: Sunset Magazine - Living in the West
+
+Whether celebrating a holiday, birthday or simply the summer season, these dishes are perfect for your next backyard shindig. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/summer-cookout-recipes>
+
+---
+
+## 9 Common Squirrels in California (With Pictures and Identification)
+
+date: 2025-06-23, from: Yard Life blog
+
+<p>Squirrels in California are found in a wide range of environments, from dense mountain forests to dry deserts and busy ... </p>
+<p class="read-more-container"><a title="9 Common Squirrels in California (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/9-common-squirrels-in-california-with-pictures-and-identification/#more-31002" aria-label="Read more about 9 Common Squirrels in California (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/9-common-squirrels-in-california-with-pictures-and-identification/">9 Common Squirrels in California (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/9-common-squirrels-in-california-with-pictures-and-identification/>
+
+---
+
+## Bar Issi Is Palm Springs’ Hottest New Restaurant Opening
+
+date: 2025-06-23, from: Sunset Magazine - Living in the West
+
+Every night’s a party worthy of the Italian Riviera at Bar Issi at the splashy new Thompson Hotel in Palm Springs. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/restaurants/bar-issi-palm-springs>
+
+---
+
+## Homepage 2025
+
+date: 2025-06-23, from: Sunset Magazine - Living in the West
+
+Edible Gardening, Garden Basics, Landscaping How to Create a Summer Garden That Smells Amazing Regional plant picks and design inspiration for building a fragrance-forward oasis.  Read more: How&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Announcing the 2026 Sunset Wellness & Beauty Awards
+
+date: 2025-06-23, from: Sunset Magazine - Living in the West
+
+The West has always been a wellspring of innovation in wellness. We're honoring the best in the industry with our new awards program. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness/2026-sunset-wellness-beauty-awards>
 
 ---
 

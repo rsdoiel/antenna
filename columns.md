@@ -1,11 +1,235 @@
 ---
 title: columns
-updated: 2025-06-23 06:07:15
+updated: 2025-06-23 14:08:37
 ---
 
 # columns
 
-(date: 2025-06-23 06:07:15)
+(date: 2025-06-23 14:08:37)
+
+---
+
+## June 22, 2025
+
+date: 2025-06-23, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166677231/2789605bcd4ad19466e9e1693de3c926.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166677231/2789605bcd4ad19466e9e1693de3c926.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-22-2025-ff4>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-23, from: Dave Winer's Scripting News)
+
+A great <a href="https://www.youtube.com/watch?v=UaXybzNk4-c">scene</a> from <a href="https://en.wikipedia.org/wiki/A_Proportional_Response">The West Wing</a>. Use your imagination, something similar is probably happening right now. 
+
+<br> 
+
+<http://scripting.com/2025/06/23.html#a205400>
+
+---
+
+##  &#8220;The web platform makes no demands because it offers nothing beyond the... 
+
+date: 2025-06-23, updated: 2025-06-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047004-the-web-platform-makes-no>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-06-23, from: Ryan Gantz Bluesky feed)
+
+fucking shit 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.com/post/3lscefytlsk23>
+
+---
+
+##  Hannah Arendt: Facing Tyranny (American Masters, PBS) 
+
+date: 2025-06-23, updated: 2025-06-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/hannah-arendt-facing-tyranny-american-masters-pbs>
+
+---
+
+## My Big Beta Weekend
+
+date: 2025-06-23, from: Om Malik blog
+
+This weekend I decided to bite the bullet and embrace the “betas” released by Apple at the recent WWDC. I wanted to try out all the new features that Apple had announced and separate the wheat from the chaff.  No, I didn’t download the beta on my main machines. My every day iPhone,&#160;iPad,&#160;and Mac Studio have been untouched. The only everyday &#8230; 
+
+<br><video crossorigin="anonymous" controls="controls" width="250">
+<source type="video/mp4" src="https://videos.files.wordpress.com/zQEEmwUA/apple-wwdc25-ipados-26-windowing-system-250609.mp4"></source>
+	<source type="video/mp4" src="https://videos.files.wordpress.com/cm8V4vo0/apple-wwdc25-visionos-26-hero-250609.mp4"></source>
+</video> <a href="https://videos.files.wordpress.com/zQEEmwUA/apple-wwdc25-ipados-26-windowing-system-250609.mp4" target="_blank">download video/mp4</a> 
+
+<https://om.co/2025/06/23/my-big-beta-weekend/>
+
+---
+
+##  &#8220;Between 2015 and 2020, ICE deported at least 70 people who were... 
+
+date: 2025-06-23, updated: 2025-06-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047002-between-2015-and-2020-ice>
+
+---
+
+## Back after a break
+
+date: 2025-06-23, from: Om Malik blog
+
+If you think it has been quiet around these ramparts, then it is intentional. I decided to take a break from&#160;everything,including writing and social media. Instead, I picked up my camera,&#160;packed&#160;my bags, and went on a&#160;photo&#160;trip to Svalbard.&#160; I have not been on photo adventures for almost a year, mostly because I was losing my &#8230; 
+
+<br> 
+
+<https://om.co/2025/06/23/back-after-a-break/>
+
+---
+
+##  The New Vera C. Rubin Observatory Is a Firehose of Astronomical Imagery & Data 
+
+date: 2025-06-23, updated: 2025-06-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/the-new-vera-c-rubin-observatory>
+
+---
+
+##  Last Week Tonight&#8217;s John Oliver on AI slop. &#8220;Do you hear us,... 
+
+date: 2025-06-23, updated: 2025-06-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0046998-last-week-tonights-john-o>
+
+---
+
+##  The Classic Web account on Bluesky is currently going through kottke.org&#8217;s blogroll... 
+
+date: 2025-06-23, updated: 2025-06-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0046995-the-classic-web-account-o>
+
+---
+
+##  Jaws turns 50 years old this summer. Here&#8217;s an interview with marine... 
+
+date: 2025-06-23, updated: 2025-06-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0046994-jaws-turns-50-years-old>
+
+---
+
+## If only DESQview/X had been launched when Quarterdeck starting talking about it
+
+date: 2025-06-23, from: Liam on Linux
+
+A response to an <a href="https://news.ycombinator.com/item?id=44353673">HN comment</a>...<br /><br />The PC press had rumours of Quarterdeck's successor to DESQview, Desqview/X, from around 1987-1988.<p>That is roughly when I entered the computer industry.<br /><br />Dv/X was remarkable tech, and if it had shipped earlier could have changed the course of the industry. Sadly, it came too late.&nbsp;Dv/X was rumoured  then, but the state of the art was OS/2 1.1, released late 1988 and the  first version of OS/2 with a GUI.</p><p>Dv/X was not released until <a href="https://winworldpc.com/product/desqview/desqview-x-1x">about 5Y later</a>...&nbsp;1992. That's the same year as Windows 3.1, but critically, Windows 3.0 was in 1990, 2 years <i>earlier</i>.</p><p>Windows 3.0 was a result of the flop of OS/2 1.x.</p><p>OS/2 1.x was a new 16-bit multitasking networking kernel -- but that meant new drivers.</p><p>MS  discarded the radical new OS, it discarded networking completely (until  later), and moved the multitasking into the GUI layer, allowing Win3 to  run on top of the single-tasking MS-DOS kernel. That meant excellent  compatibility: it ran on almost anything, can it could run almost all  DOS apps, <i>and multitask them</i>. And thanks to a brilliant  skunkworks project, mostly by one man, David Weise, assisted by Murray  Sargent, it combined 3 separate products (Windows 2, Windows/286 and  Windows/386) into a single product that ran on all 3 types of PC and  took good advantage of all of them. I wrote about its development here: <a href="https://www.theregister.com/2025/01/18/how_windows_got_to_v3/" rel="nofollow">https://www.theregister.com/2025/01/18/how_windows_got_to_v3...</a></p><p>It  also did bring in some of the GUI design from OS/2 1.1, mainly from  1.2, and 1.3 -- the Program Manager and File Manager UI, the  proportional fonts, the fake-3D controls, some of the Control Panel, and  so on. It kept the best user-facing parts and threw away the fancy  invisible stuff underneath which was problematic.</p><p>Result: smash  hit, redefined the PC market, and when Dv/X arrived it was doomed: too  late, same as OS/2 2.0, which came out the same year as Dv/X.</p><p>If Dv/X had come out in the late 1980s, before Windows 3, it could have changed the way the PC industry went.</p><p>Dv/X  combined the good bits of DOS, 386 memory management and multitasking,  Unix networking and Unix GUIs into an interesting value proposition:  network your DOS PCs with Unix boxes over Unix standards, get remote  access to powerful Unix apps, and if vendors wanted, it enabled ports of  Unix apps to this new multitasking networked DOS.</p><p>In the '80s  that could have been a contender. Soon afterwards it was followed by  Linux and the BSDs, which made that Unix stuff free and ran on the same  kit. That would have been a great combination -- Dv/X PCs talking to BSD  or Linux servers, when those Unix boxes didn't really have useful GUIs  yet.</p><p>Windows 3 offered a different deal: it combined the good bits  of DOS, OS/2 1.x's GUI, and Windows 2.x into a whole that ran on  anything and could run old DOS apps and new GUI apps, side by side.</p>Networking  didn't follow until Windows for Workgroups which followed Windows 3.1.  Only businesses wanted that, so MS postponed it. Good move.<br />&nbsp;<br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=95984" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+
+<br> 
+
+<https://liam-on-linux.dreamwidth.org/95984.html>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-06-23, from: Ryan Gantz Bluesky feed)
+
+hey how was everybody’s weekend 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.com/post/3lsbqnlowvc2n>
+
+---
+
+## Trademark Dispute Leads to the Disappearance of ‘io’, OpenAI and LoveFrom’s Secretive AI Collaboration
+
+date: 2025-06-23, updated: 2025-06-23, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware>
+
+---
+
+##  An excellent profile of design legend Michael Bierut, who recently &#8220;retired&#8221; as... 
+
+date: 2025-06-23, updated: 2025-06-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0046993-an-excellent-profile-of-d>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-23, from: Dave Winer's Scripting News)
+
+Podcast: <a href="https://shownotes.scripting.com/scripting/2025/06/23/wordpressAndMe.html">WordPress and me</a>. 
+
+<br> 
+
+<http://scripting.com/2025/06/23.html#a134737>
+
+---
+
+## Breaking the nerd internet: Three overlapping generations of tech history – in one selfie
+
+date: 2025-06-23, updated: 2025-06-23, from: Liam Proven's articles at the Register
+
+<h4>Bill Gates, Linus Torvalds, and Dave Cutler have dinner</h4>
+      <p>Sysinternals founder Mark Russinovich&#39;s after-dinner photo just flipped the nerd world into Kardashian-like levels of internet meltdown.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/23/history_tech_selfie/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-23, from: Dave Winer's Scripting News)
+
+Dan Knauss, one of the organizers of WordCamp Canada, <a href="https://canada.wordcamp.org/2025/the-connections-we-must-build-right-here-at-wordcamp-canada/">wrote a post</a> on their blog using WordLand. Here's a <a href="https://imgs.scripting.com/2025/06/23/dansPostInWordland.png">screen shot</a> of what that post looked like when he was editing it. That's all you need to see to understand the role that WordLand plays. It's a pretty self-describing product. 
+
+<br> 
+
+<http://scripting.com/2025/06/23.html#a121103>
 
 ---
 

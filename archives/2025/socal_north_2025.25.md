@@ -1,11 +1,170 @@
 ---
 title: socal north
-updated: 2025-06-23 06:07:12
+updated: 2025-06-23 14:08:34
 ---
 
 # socal north
 
-(date: 2025-06-23 06:07:12)
+(date: 2025-06-23 14:08:34)
+
+---
+
+## The politics of the U.S. strike on Iran's nuclear facilities: Here's what to watch next
+
+date: 2025-06-23, updated: 2025-06-23, from: The LAist
+
+President Trump ran on a pledge to end "forever wars," so what comes next is pivotal. Here are five things to watch. 
+
+<br> 
+
+<https://laist.com/news/the-politics-of-the-u-s-strike-on-irans-nuclear-facilities-heres-what-to-watch-next>
+
+---
+
+## As LAPD’s mounted unit faces scrutiny over protest tactics, police commission approves a new horse
+
+date: 2025-06-23, updated: 2025-06-23, from: The LAist
+
+The LAPD’s Metro Mounted Platoon focuses on “crime prevention, crowd management, and handling demonstrations.” But its recent deployments have prompted accusations of excessive force. 
+
+<br> 
+
+<https://laist.com/news/politics/as-lapds-mounted-unit-faces-scrutiny-over-protest-tactics-police-commission-approves-a-new-horse>
+
+---
+
+## California bill would prohibit ICE officers from wearing masks in the state
+
+date: 2025-06-23, updated: 2025-06-23, from: The LAist
+
+The proposal from two Bay Area lawmakers would prevent police at all levels from covering their faces and require them to be identifiable via uniform. 
+
+<br> 
+
+<https://laist.com/news/politics/california-bill-would-prohibit-ice-officers-from-wearing-masks-in-the-state>
+
+---
+
+## Iran attacks a U.S. base in Qatar
+
+date: 2025-06-23, updated: 2025-06-23, from: The LAist
+
+A U.S. defense official confirmed that the Al Udeid Air Base in Qatar "was attacked by short-range and medium-range ballistic missiles originating from Iran" and said there were no casualties. 
+
+<br> 
+
+<https://laist.com/news/iran-attacks-u-s-base-in-qatar>
+
+---
+
+## New California tool ranks extreme heat danger by neighborhood. Here's how it works
+
+date: 2025-06-23, updated: 2025-06-23, from: The LAist
+
+The California Communities Extreme Heat Scoring System — which the state is calling CalHeatScore — can tell you the level of heat-related health risk you face, on a scale of zero to four, and point you to cooling resources in your area. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/new-california-tool-ranks-extreme-heat-danger-by-neighborhood>
+
+---
+
+## Palm Springs payment lag reveals hurdles in California’s racial justice efforts
+
+date: 2025-06-23, updated: 2025-06-23, from: The LAist
+
+More than six months after Palm Springs approved a $5.9 million settlement for Black and Latino families displaced from Section 14, survivors are still waiting for payments. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/palm-springs-payment-lag-reveals-hurdles-in-californias-racial-justice-efforts>
+
+---
+
+## 86-year-old woman killed in crash on Studebaker Road, Long Beach police say
+
+date: 2025-06-23, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It happened around 2 p.m. Saturday at the intersection with Los Santos Drive, which is just north of the 405 Freeway.</p>
+<p>The post <a href="https://lbpost.com/news/crime/86-year-old-woman-killed-in-crash-on-studebaker-road-long-beach-police-say">86-year-old woman killed in crash on Studebaker Road, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/86-year-old-woman-killed-in-crash-on-studebaker-road-long-beach-police-say>
+
+---
+
+## 4 takeaways on the US airstrikes on Iran — and what might come next
+
+date: 2025-06-23, updated: 2025-06-23, from: The LAist
+
+The Trump administration said its strikes were intended to prevent Iran from developing a nuclear weapon. Now, Iran weighs a response against what it called an "outrageous" military operation. 
+
+<br> 
+
+<https://laist.com/news/4-takeaways-on-u-s-airstrikes-on-iran-and-what-might-come-next>
+
+---
+
+## Best things to do this week in Los Angeles and Southern California: June 23 - 26
+
+date: 2025-06-23, updated: 2025-06-23, from: The LAist
+
+A Pride skate night at Moonlight Rollerway, 'Dirty Dancing' screens on the beach, Mary Corse at Pace, Lake Street Dive at the Troubadour and more of the best things to do. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-this-week-in-los-angeles-and-southern-california-june-23-26>
+
+---
+
+## Here's how organizations across SoCal are offering aid to people affected by the immigration sweeps
+
+date: 2025-06-23, updated: 2025-06-23, from: The LAist
+
+LAist has put together an evolving list of what organizations are helping with grocery drop-offs, remote jobs and other resources. 
+
+<br> 
+
+<https://laist.com/news/politics/resource-guide-for-families-and-friends-after-immigration-actions>
+
+---
+
+## LA's historic Japanese American paper priced out of Little Tokyo
+
+date: 2025-06-23, updated: 2025-06-23, from: The LAist
+
+The Rafu Shimpo is moving to new quarters in Montebello. 
+
+<br> 
+
+<https://laist.com/news/historic-japanese-american-paper-rafu-shimpo-priced-out-of-little-tokyo>
+
+---
+
+## On the Eastside, communities turn to healing circles to cope with the trauma of ICE raids
+
+date: 2025-06-23, updated: 2025-06-23, from: The LAist
+
+Community members are turning to traditional medicine, touch and ceremony to resist and recover. 
+
+<br> 
+
+<https://laist.com/news/on-the-eastside-communities-turn-to-healing-circles-to-cope-with-the-trauma-of-ice-raids>
+
+---
+
+## AI supercomputers need lots of electricity. Should California raise their bills?
+
+date: 2025-06-23, updated: 2025-06-23, from: The LAist
+
+Tech-savvy California is still debating how to regulate the electricity use of AI data centers. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/ai-supercomputers-need-lots-of-electricity-should-california-raise-their-bills>
 
 ---
 
@@ -25,7 +184,7 @@ As the world reacted to news of U.S. strikes on Iran's nuclear facilities, inter
 
 date: 2025-06-22, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The victim was in a crosswalk when he was struck by a car — and then struck by two more after the initial collision, police said.</p>
 <p>The post <a href="https://lbpost.com/news/crime/pedestrian-killed-in-traffic-collision-on-ocean-boulevard-authorities-say">Pedestrian killed in traffic collision on Ocean Boulevard, authorities say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

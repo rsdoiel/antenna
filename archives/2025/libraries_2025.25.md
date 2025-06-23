@@ -1,11 +1,39 @@
 ---
 title: libraries
-updated: 2025-06-23 06:07:17
+updated: 2025-06-23 14:08:40
 ---
 
 # libraries
 
-(date: 2025-06-23 06:07:17)
+(date: 2025-06-23 14:08:40)
+
+---
+
+## Day in Review (June 23–26)
+
+date: 2025-06-23, from: Association of Research Libraries News
+
+<p>Last Updated on June 23, 2025, 4:29 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 24 &#124; Wednesday, June 25 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-june-23-26/">Day in Review (June 23–26)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-june-23-26/>
+
+---
+
+## Gale Etschmaier Reflects on Her Wide-Ranging Career and the Profession
+
+date: 2025-06-23, from: Association of Research Libraries News
+
+<p>Last Updated on June 23, 2025, 1:44 pm ET Gale Etschmaier is retiring this month as dean of University Libraries at Florida State University (FSU), after almost seven years at...</p>
+<p>The post <a href="https://www.arl.org/blog/gale-etschmaier-reflects-on-her-wide-ranging-career-and-the-profession/">Gale Etschmaier Reflects on Her Wide-Ranging Career and the Profession</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/gale-etschmaier-reflects-on-her-wide-ranging-career-and-the-profession/>
 
 ---
 

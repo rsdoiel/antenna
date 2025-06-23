@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-06-23 06:07:18
+updated: 2025-06-23 14:08:41
 ---
 
 # motorcycles
 
-(date: 2025-06-23 06:07:18)
+(date: 2025-06-23 14:08:41)
+
+---
+
+## More People Died and Got Hurt After Nebraska Repealed Its Motorcycle Helmet Laws
+
+date: 2025-06-23, from: Ride Apart, Electric Motorcycle News
+
+No shit.  
+
+<br> 
+
+<https://www.rideapart.com/news/763431/nebraska-motorcycle-helmet-repeal-laws-deaths-increase/>
 
 ---
 

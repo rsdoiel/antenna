@@ -1,11 +1,175 @@
 ---
 title: north america
-updated: 2025-06-23 06:07:12
+updated: 2025-06-23 14:08:34
 ---
 
 # north america
 
-(date: 2025-06-23 06:07:12)
+(date: 2025-06-23 14:08:34)
+
+---
+
+## Shannon Watts on her new book 'Fired Up: How to Turn Your Spark Into a Flame and Come Alive at Any Age'
+
+date: 2025-06-23, from: The Contrarian
+
+"Men are socialized to fulfill their desires, and women are socialized to fulfill their obligations" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166661256/2730f5a91abd1a591788a4845ac9c55e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166661256/2730f5a91abd1a591788a4845ac9c55e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/shannon-watts-on-her-new-book-fired>
+
+---
+
+## The World Cup meets Trump's travel ban
+
+date: 2025-06-23, from: The Contrarian
+
+If the United States bans citizens from a quarter of the world&#8217;s countries from entering, a boycott of the 2026 World Cup games in the U.S. might be in order. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-world-cup-meets-trumps-travel>
+
+---
+
+## Trump at War
+
+date: 2025-06-23, from: The Contrarian
+
+War Powers, bombing of Iran, domestic use of force, and more 
+
+<br> 
+
+<https://contrarian.substack.com/p/trump-at-war>
+
+---
+
+## The Los Angeles Dodgers stood up to ICE. Will other franchises follow suit?
+
+date: 2025-06-23, from: The Contrarian
+
+Nearly 30 percent of players in Major League Baseball are immigrants. One might expect more efforts to protect this workforce. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-los-angeles-dodgers-stood-up>
+
+---
+
+## Carving right by Congress
+
+date: 2025-06-23, from: The Contrarian
+
+A cartoon by Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/carving-right-by-congress>
+
+---
+
+## The path now for eliminating nukes from Iran
+
+date: 2025-06-23, from: The Contrarian
+
+There are two routes that could work and a third approach that will almost certainly fail. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-path-now-for-eliminating-nukes>
+
+---
+
+##  Cuomo’s Allies Spread Tax Flight Myth 
+
+date: 2025-06-23, from: The Lever News
+
+ Critics say mayoral candidate Zohran Mamdani’s plan to tax the rich would cause the wealthy to flee NYC — but research suggests otherwise.  
+
+<br> 
+
+<https://www.levernews.com/cuomos-allies-spread-tax-flight-myth/>
+
+---
+
+## Sanewashing the President
+
+date: 2025-06-23, from: Capital and Main
+
+<p>Since his return, newsrooms have downplayed Trump’s decline, helping normalize a presidency defined by incoherence, paranoia, and cruelty.</p>
+<p>The post <a href="https://capitalandmain.com/sanewashing-the-president">Sanewashing the President</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/sanewashing-the-president>
+
+---
+
+## Nurses Run Up Against Labor Board Stalled By Trump
+
+date: 2025-06-23, from: Capital and Main
+
+<p>Pennsylvania's largest hospital joins rise in employers citing federal changes to fight unionization.</p>
+<p>The post <a href="https://capitalandmain.com/nurses-run-up-against-labor-board-stalled-by-trump">Nurses Run Up Against Labor Board Stalled By Trump</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br><video crossorigin="anonymous" controls="controls" width="250">
+<source type="video/mp4" src="https://www.dropbox.com/scl/fi/lkrh86c2r8ebxjct49ksh/2025-06-11-NLRB-Hearing.mp4?rlkey=sr5ml1n3n4tcowix22jqkzdmp&e=1&st=g8cijwc0&dl=0"></source>
+</video> <a href="https://www.dropbox.com/scl/fi/lkrh86c2r8ebxjct49ksh/2025-06-11-NLRB-Hearing.mp4?rlkey=sr5ml1n3n4tcowix22jqkzdmp&e=1&st=g8cijwc0&dl=0" target="_blank">download video/mp4</a> 
+
+<https://capitalandmain.com/nurses-run-up-against-labor-board-stalled-by-trump>
+
+---
+
+## Elon Musk, Trump’s private citizen war lord?
+
+date: 2025-06-23, from: The Contrarian
+
+A unilateral decision to provide satellite internet in Iran could change the dynamic. 
+
+<br> 
+
+<https://contrarian.substack.com/p/elon-musk-trumps-private-citizen>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-06-23, from: The Contrarian
+
+Monday: Anti-war protests across the country, plus anti-ICE protests in California and Georgia (the state), anti-tyranny protest in Georgia (the country), and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Coffee with Contrarians and Terry Moran 06/23
+
+date: 2025-06-23, from: The Contrarian
+
+A recording from Coffee with the Contrarians LIVE 06/23 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-contrarians-and-terry>
+
+---
+
+## The U.S. strikes on Iran hit their targets. The region won’t be so contained.
+
+date: 2025-06-23, from: The Contrarian
+
+The shock may crack the Arab order. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-us-strikes-on-iran-hit-their>
 
 ---
 
@@ -27,9 +191,7 @@ date: 2025-06-22, from: The Contrarian
 
 A recording from Jennifer's live video with Steve Cook 
 
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166549929/3798d7cdd6b60759efbb12468dfd1b6c.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/166549929/3798d7cdd6b60759efbb12468dfd1b6c.mp3" target="_blank">download audio/mpeg</a><br> 
+<br> 
 
 <https://contrarian.substack.com/p/contrarian-special-going-to-war-on>
 
@@ -47,7 +209,7 @@ date: 2025-06-22, from: The Lever News
 
 ---
 
-## America hit Iran’s nuclear core. Now what?
+## America hit Iran’s nuclear facilities. Now what?
 
 date: 2025-06-22, from: The Contrarian
 

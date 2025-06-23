@@ -1,11 +1,239 @@
 ---
 title: science and technology
-updated: 2025-06-23 06:07:14
+updated: 2025-06-23 14:08:36
 ---
 
 # science and technology
 
-(date: 2025-06-23 06:07:14)
+(date: 2025-06-23 14:08:36)
+
+---
+
+## Asterinas: a new Linux-compatible kernel project
+
+date: 2025-06-23, from: OS News
+
+Asterinas is a new Linux-ABI-compatible kernel project written in Rust, based on what the authors call a &#8220;framekernel architecture&#8221;. The project overlaps somewhat with the goals of the Rust for Linux project, but approaches the problem space from a different direction by trying to get the best from both monolithic and microkernel designs. ↫ Ronja Koistinen at LWN.net Ronja Koistinen has done an outstanding job diving into this new operating system kernel and approach to kernel architecture, including its intended focus and goals. Head on over to the source and read it over there. 
+
+<br> 
+
+<https://www.osnews.com/story/142631/asterinas-a-new-linux-compatible-kernel-project/>
+
+---
+
+## Huawei’s latest notebook shows China is still generations behind in chipmaking
+
+date: 2025-06-23, updated: 2025-06-23, from: The Register (UK I.T. News)
+
+<h4>Kirin X90 SoC made on two-year-old 7nm N+2 process</h4> <p>Despite concerted efforts by the Chinese to bolster domestic semiconductor production in defiance of US trade policy, new evidence uncovered by Canadian research outlet TechInsights suggests SMIC, the Middle Kingdom&#39;s top chip manufacturer, remains generations behind the rest of the world.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/23/huaweis_foldable_shows_china_years_behind_tsmc/>
+
+---
+
+## NASA’s SLS Solid Rocket Boosters: What is DM-1?
+
+date: 2025-06-23, from: NASA breaking news
+
+Demonstration Motor-1 (DM-1) is the first full-scale ground test of the evolved five-segment solid rocket motor of NASA’s SLS (Space Launch System) rocket. The event will take place in Promontory, Utah, and will be used as an opportunity to test several upgrades made from the current solid rocket boosters. Each booster burns six tons of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-sls-solid-rocket-boosters-what-is-dm-1/>
+
+---
+
+## Iran cyberattacks against US biz more likely following air strikes
+
+date: 2025-06-23, updated: 2025-06-23, from: The Register (UK I.T. News)
+
+<h4>Plus &#39;low-level&#39; hacktivist attempts</h4> <p>The US Department of Homeland Security has warned American businesses to guard their networks against Iranian government-sponsored cyberattacks along with &#34;low-level&#34; digital intrusions by pro-Iran hacktivists.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/23/iran_cyberattacks_against_us/>
+
+---
+
+## The X Window System didn’t immediately have X terminals
+
+date: 2025-06-23, from: OS News
+
+For a while, X terminals were a reasonably popular way to give people comparatively inexpensive X desktops. These X terminals relied on X&#8217;s network transparency so that only the X server had to run on the X terminal itself, with all of your terminal windows and other programs running on a server somewhere and just displaying on the X terminal. For a long time, using a big server and a lab full of X terminals was significantly cheaper than setting up a lab full of actual workstations (until inexpensive and capable PCs showed up). Given that X started with network transparency and X terminals are so obvious, you might be surprised to find out that X didn&#8217;t start with them. ↫ Chris Siebenmann I did indeed assume X terminals were part of the ecosystem from day one, but it makes sense that it took a while, and that they didn&#8217;t enter the scene until X had established itself as the standard windowing system in the UNIX world. I&#8217;ve been trying to get my hands on specifically the last HP X terminal, but they&#8217;re hard to find and often very expensive. I&#8217;d love to get a taste of a proper networked X environment on real UNIX, in the way people actually used to use it professionally. As a sidenote, Siebenmann is doing such an excellent job with these stories about UNIX, X11, and related matters. He&#8217;s like the Raymond Chen of the UNIX world. 
+
+<br> 
+
+<https://www.osnews.com/story/142629/the-x-window-system-didnt-immediately-have-x-terminals/>
+
+---
+
+## postmarketOS v25.06 released with systemd
+
+date: 2025-06-23, from: OS News
+
+This is it, the one that adds systemd to postmarketOS! We have talked about the decision at length on this blog, make sure to read the initial announcement if this is the first time you are hearing about this. ↫ postmarketOS v25.06 release announcement While adding systemd to postmarketOS is certainly the tentpole feature of this release, it also updates the various user interfaces &#8211; GNOME&#8217;s and KDE&#8217;s mobile shells and applications &#8211; and moves to Alpine Linux 3.22 as its base. The mobile user interfaces for both Firefox and Thunderbird have been updated as well, there&#8217;s a ton of improvements and additions for individual devices, and a lot more. PostmarketOS, in case you are unaware, is a Linux distribution optimised for smartphones, focused on running mobile shells and applications. It&#8217;s not ready for prime-time quite yet, and device support will probably be the biggest hurdle for anyone wanting to try it out. 
+
+<br> 
+
+<https://www.osnews.com/story/142627/postmarketos-v25-06-released-with-systemd/>
+
+---
+
+## Empire State to site 1 GW nuke as AI bit barns guzzle power
+
+date: 2025-06-23, updated: 2025-06-23, from: The Register (UK I.T. News)
+
+<h4>It would be the first major US nuclear plant built in over 15 years</h4> <p>New York State is set to build America&#39;s first major new nuclear plant in more than 15 years, amid growing energy demands, particularly from power-hungry AI datacenters.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/23/new_york_plans_nuclear_plant/>
+
+---
+
+## Mission Accomplished! Artemis ROADS III National Challenge Competitors Celebrate their Achievements
+
+date: 2025-06-23, from: NASA breaking news
+
+The NASA Science Activation program’s Northwest Earth and Space Sciences Pathways (NESSP) team has successfully concluded the 2024–2025 Artemis ROADS III National Challenge, an educational competition that brought real NASA mission objectives to student teams (and reached more than 1,500 learners) across the country. From December 2024 through May 2025, over 300 teams of upper […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/artemis/mission-accomplished-artemis-roads-iii-national-challenge-competitors-celebrate-their-achievements/>
+
+---
+
+## NASA’s Curiosity Mars Rover Starts Unpacking Boxwork Formations
+
+date: 2025-06-23, from: NASA breaking news
+
+The rover recently drilled a sample from a new region with features that could reveal whether Mars’ subsurface once provided an environment suitable for life. New images from NASA’s Curiosity Mars rover show the first close-up views of a region scientists had previously observed only from orbit. The images and data being collected are already [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-starts-unpacking-boxwork-formations/>
+
+---
+
+## A Martian Volcano in the Mist
+
+date: 2025-06-23, from: NASA breaking news
+
+Arsia Mons, one of the Red Planet’s largest volcanoes, peeks through a blanket of water ice clouds in this image captured by NASA’s 2001 Mars Odyssey orbiter on May 2, 2025. Odyssey used a camera called the Thermal Emission Imaging System (THEMIS) to capture this view while studying the Martian atmosphere, which appears here as [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/a-martian-volcano-in-the-mist/>
+
+---
+
+## Clay Minerals From Mars’ Most Ancient Past?
+
+date: 2025-06-23, from: NASA breaking news
+
+Recent detections of clay-bearing bedrock on Jezero’s crater rim have the Perseverance Science Team excited and eager to sample. Written by Alex Jones, Ph.D. candidate at Imperial College London  Since finishing its exploration of spherule-rich stratigraphy at Witch Hazel Hill, Perseverance has been exploring the Krokodillen plateau, a relatively low-lying terrain on the outer slopes […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/clay-minerals-from-mars-most-ancient-past/>
+
+---
+
+## NASA Intern Took Career from Car Engines to Cockpits
+
+date: 2025-06-23, from: NASA breaking news
+
+Some career changes involve small shifts. But for one NASA engineering intern, the leap was much bigger –moving from under the hood of a car to helping air taxis take to the skies. Saré Culbertson spent more than a decade in the auto industry and had been working as a service manager in busy auto [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-intern-took-career-from-car-engines-to-cockpits/>
+
+---
+
+## Second attack on McLaren Health Care in a year affects 743k people
+
+date: 2025-06-23, updated: 2025-06-23, from: The Register (UK I.T. News)
+
+<h4>Criminals targeted the hospital and physician network’s Detroit cancer clinic this time</h4> <p>McLaren Health Care is in the process of writing to 743,131 individuals now that it fully understands the impact of its July 2024 cyberattack.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/23/second_suspected_ransomware_attack_on/>
+
+---
+
+## Private equity types to snap up NoSQL biz Couchbase
+
+date: 2025-06-23, updated: 2025-06-23, from: The Register (UK I.T. News)
+
+<h4>$1.5 billion offered for database company valued at $1.2 billion four years ago</h4> <p>Document database company Couchbase is set to be bought by a private equity biz in all-cash transaction valued at approximately $1.5 billion.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/23/private_equity_snaps_up_nosql/>
+
+---
+
+## NASA Fosters Innovative, Far-Out Tech for the Future of Aerospace
+
+date: 2025-06-23, from: NASA breaking news
+
+Through the NASA Innovative Advanced Concepts (NIAC) program, NASA nurtures visionary yet credible concepts that could one day “change the possible” in aerospace, while engaging America&#8217;s innovators and entrepreneurs as partners in the journey.&#160;&#160; These concepts span various disciplines and aim to advance capabilities such as finding resources on distant planets, making space travel safer [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/nasa-fosters-innovative-far-out-tech-for-the-future-of-aerospace/>
+
+---
+
+## Matter vs. Force: Why There Are Exactly Two Types of Particles
+
+date: 2025-06-23, from: Quanta Magazine
+
+Every elementary particle falls into one of two categories. Collectivist bosons account for the forces that move us while individualist fermions keep our atoms from collapsing.            <p>The post <a href="https://www.quantamagazine.org/matter-vs-force-why-there-are-exactly-two-types-of-particles-20250623/" target="_blank">Matter vs. Force: Why There Are Exactly Two Types of Particles</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/matter-vs-force-why-there-are-exactly-two-types-of-particles-20250623/>
+
+---
+
+## Breaking the nerd internet: Three overlapping generations of tech history – in one selfie
+
+date: 2025-06-23, updated: 2025-06-23, from: The Register (UK I.T. News)
+
+<h4>Bill Gates, Linus Torvalds, and Dave Cutler have dinner</h4> <p>Sysinternals founder Mark Russinovich&#39;s after-dinner photo just flipped the nerd world into Kardashian-like levels of internet meltdown.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/23/history_tech_selfie/>
+
+---
+
+## NASA Tests New RS-25 Engine
+
+date: 2025-06-23, from: NASA breaking news
+
+NASA tested RS-25 engine No. 20001 on June 20, at the Fred Haise Test Stand at NASA’s Stennis Space Center at Bay St. Louis, Mississippi. Test teams fired the engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during a launch of an SLS (Space Launch System) rocket on [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/new-rs-25-engine/>
+
+---
+
+## Wolfspeed to file for Chapter 11 in deal cutting 70% of debt
+
+date: 2025-06-23, updated: 2025-06-23, from: The Register (UK I.T. News)
+
+<h4>Power chip biz to hand over equity to lenders, wipe out most shareholders, and keep running during restructuring</h4> <p>Wolfspeed, maker of bandgap chips for power and radio frequency applications, is to file for Chapter 11 bankruptcy in the &#34;near future&#34; after striking an agreement with creditors to cut its $6.5 billion debt by roughly 70 percent.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/23/wolfspeed_chapter_11/>
 
 ---
 

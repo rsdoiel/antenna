@@ -1,11 +1,97 @@
 ---
 title: pacific
-updated: 2025-06-23 06:07:13
+updated: 2025-06-23 14:08:35
 ---
 
 # pacific
 
-(date: 2025-06-23 06:07:13)
+(date: 2025-06-23 14:08:35)
+
+---
+
+## Shaping the future of cybersecurity: UH professor leads panel in nation’s capital
+
+date: 2025-06-23, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> professor calls for bold collaboration to fix America’s cybersecurity system.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/23/shaping-the-future-of-cybersecurity/">Shaping the future of cybersecurity: <abbr>UH</abbr> professor leads panel in nation’s capital</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/23/shaping-the-future-of-cybersecurity/>
+
+---
+
+## Pasifika Sipoti in brief for 24 June
+
+date: 2025-06-23, from: 
+
+A round-up of sports news in brief from around the region, including Super Rugby signings. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564968/pasifika-sipoti-in-brief-for-24-june>
+
+---
+
+## How Western Highlands is bearing the brunt of gun violence in neighboring provinces
+
+date: 2025-06-23, from: 
+
+<i>Analysis -</i> The Papua New Guinea Highlands, a region celebrated for its stunning natural beauty, is increasingly overshadowed by the escalating threat of small arms violence. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564967/how-western-highlands-is-bearing-the-brunt-of-gun-violence-in-neighboring-provinces>
+
+---
+
+## Pacific news in brief for 24 June
+
+date: 2025-06-23, from: 
+
+A round-up of news in brief from around the region, including the latest update on Tonga's dengue cases. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564965/pacific-news-in-brief-for-24-june>
+
+---
+
+## All Blacks squad selection: Winners and losers
+
+date: 2025-06-23, from: 
+
+<i>Analysis</i> - Scott Robertson named 33 players yesterday but a lot of the talk in the aftermath has been about the ones that he didn't. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/sport/564920/all-blacks-squad-selection-winners-and-losers>
+
+---
+
+## Ghost gear vs. hackers: Hackathon launched to protect marine life, coral reefs
+
+date: 2025-06-23, from: University of Hawaiʻi News
+
+<p>Innovators are being called to tackle the ghost gear crisis with cutting-edge tech in a new ocean-focused hackathon.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/23/inaugural-marine-debris-hackathon/">Ghost gear <abbr>vs</abbr>. hackers: Hackathon launched to protect marine life, coral reefs</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/23/inaugural-marine-debris-hackathon/>
+
+---
+
+## Emigrant
+
+date: 2025-06-23, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Kalani Padilla The cabbages will survive at 24 degrees fahrenheit whether they tolerate or desire the frost is their secret. One winter a lover and I took turns driving between doubt and northwestern Montana He made me beautiful   &#8230; <a href="https://hawaiipacificreview.org/2025/06/23/emigrant/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/06/23/emigrant/>
 
 ---
 

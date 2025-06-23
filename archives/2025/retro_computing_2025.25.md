@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-06-23 06:07:18
+updated: 2025-06-23 14:08:41
 ---
 
 # retro computing
 
-(date: 2025-06-23 06:07:18)
+(date: 2025-06-23 14:08:41)
+
+---
+
+## Vote for the June 2025 + Post Topic
+
+date: 2025-06-23, from: Computer ads from the Past
+
+Past ads get a second chance. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/vote-for-the-june-2025-post-topic>
+
+---
+
+## Hydra’s extra heads have learnt to speak
+
+date: 2025-06-23, from: RiscOS Story
+
+Or play audio of any kind, really The Hydra computer range from R-Comp Interactive is so named because, like the creature of Greek myth, it is multi-headed &#8211; it&#8217;s a computer that can hold up to six Raspberry Pi-based boards, each running its own OS, and all concurrently. Being from R-Comp, it&#8217;s a RISC OS computer first and foremost &#8211; that&#8217;s the operating system running on the &#8216;first&#8217; head, while any of the others that are in use (the full six don&#8217;t have to be enabled) would most likely be&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/hydras-extra-heads-speak/>
 
 ---
 
