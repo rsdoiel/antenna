@@ -1,11 +1,143 @@
 ---
 title: going electric
-updated: 2025-06-23 14:08:42
+updated: 2025-06-24 06:07:39
 ---
 
 # going electric
 
-(date: 2025-06-23 14:08:42)
+(date: 2025-06-24 06:07:39)
+
+---
+
+## This new ultra-compact hub motor could change urban e-bikes forever
+
+date: 2025-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/hubmotor-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A new electric hub motor just dropped at Eurobike 2025, and it’s a big deal – mainly because it’s so small. Developed through a partnership between Moving Magnet Technologies (MMT), Swiss mechatronics firm Sonceboz, and French e-bike software company eBikeLabs, the new motor aims to set a new benchmark for premium urban e-bikes.</p>
+
+
+
+<p>And based on the specs alone, it just might.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="421888" href="https://electrek.co/2025/06/24/this-new-ultra-compact-hub-motor-could-change-urban-e-bikes-forever/#more-421888" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/24/this-new-ultra-compact-hub-motor-could-change-urban-e-bikes-forever/>
+
+---
+
+## The Rimac Nevera R Forces You to Recalibrate Your Brain
+
+date: 2025-06-24, from: Inside EVs News
+
+With over 2,000 horsepower, the Rimac Nevera R accelerates like little else. It's a lot to handle. 
+
+<br> 
+
+<https://insideevs.com/news/763597/rimac-nevera-r-top-gear-review/>
+
+---
+
+## Smart new Raleigh ONE e-bike unveiled with GPS, anti-theft, & fast charging
+
+date: 2025-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/raleigh-one-e-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Raleigh is rolling out a new chapter in its long legacy of bicycle design with the launch of the <em>Raleigh ONE</em>, a sleek, smart e-bike aimed squarely at the European urban mobility market. Officially unveiled today, the Raleigh ONE combines classic British cycling heritage with modern connected tech, delivering what the company calls “the only e-bike you’ll need in the city.”</p>
+
+
+
+<p>Taking a page out of Big Tech’s playbook, Raleigh is also offering a membership program to unlock extra features. But will riders pay up, or will they balk?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="421860" href="https://electrek.co/2025/06/24/smart-new-raleigh-one-e-bike-unveiled-with-gps-anti-theft-fast-charging/#more-421860" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/24/smart-new-raleigh-one-e-bike-unveiled-with-gps-anti-theft-fast-charging/>
+
+---
+
+## Tesla asks NHTSA to hide its response to Robotaxi questions
+
+date: 2025-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/tesla-robotaxi-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has requested that NHTSA withhold its response to the numerous questions the regulators had about its recent Robotaxi launch.</p>
+
+
+
+<p>As for the agency, it said that it is aware of some disturbing videos in which we can see Tesla’s system making serious mistakes on its first day.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="421851" href="https://electrek.co/2025/06/23/tesla-asks-nhtsa-to-hide-its-response-to-robotaxi-questions/#more-421851" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/23/tesla-asks-nhtsa-to-hide-its-response-to-robotaxi-questions/>
+
+---
+
+## These are the EVs that lose the least range in extreme heat
+
+date: 2025-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/2022-audi-rs-e-tron-gt-copy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>With much of the US sweltering under <a href="https://electrek.co/2025/06/22/your-secret-weapon-against-summer-heat-home-solar-power-battery/">a record-breaking heat dome</a>, many EV buyers and owners are left wondering how their favorite electric cars perform in extreme summer temperatures. A new study tracking over 29,700 electric cars in real-world conditions provides the answers, and we’re sharing them here: <strong>these are the EVs that handle the summer heat best</strong>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-range,range-anxiety" data-layer-viewtype="unknown" data-post-id="421808" href="https://electrek.co/2025/06/23/these-are-the-evs-that-lose-the-least-range-in-extreme-heat/#more-421808" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/23/these-are-the-evs-that-lose-the-least-range-in-extreme-heat/>
+
+---
+
+## Octopus Energy’s Texas power bill plan is compellingly simple
+
+date: 2025-06-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/Tera-EV-chargers-w01.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Time-of-use electricity plans are hardly a new concept, but what makes Octopus Energy’s new time-of-use plan, OctopusFlex, great is that it’s ridiculously simple. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-utility,electrical-grid,ev-charging,texas" data-layer-viewtype="unknown" data-post-id="421798" href="https://electrek.co/2025/06/23/octopus-energy-power-bill-plan/#more-421798" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/23/octopus-energy-power-bill-plan/>
+
+---
+
+## The 2026 Cadillac Optiq Will Be GM's First Tesla-Plug EV
+
+date: 2025-06-23, from: Inside EVs News
+
+Coming soon to a Tesla Supercharger station near you, no adapter needed: the Cadillac Optiq, which also gets an entry-level model for 2026. 
+
+<br> 
+
+<https://insideevs.com/news/763610/cadillac-optiq-tesla-nacs/>
+
+---
+
+## BYD is on a roll as another global EV hits a huge milestone
+
+date: 2025-06-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/BYD-Japans-EV-imports-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Are you sick of hearing <a href="https://electrek.co/guides/byd/">BYD’s</a> name yet? You may want to get used to it. Another one of its EV models crossed a major milestone on Monday as BYD’s global push heats up.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,byd-atto-3" data-layer-viewtype="unknown" data-post-id="421776" href="https://electrek.co/2025/06/23/byd-on-a-roll-as-another-global-ev-hits-huge-milestone/#more-421776" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/23/byd-on-a-roll-as-another-global-ev-hits-huge-milestone/>
 
 ---
 
@@ -329,7 +461,7 @@ The state has passed a new law requiring permits and safety assurances from robo
 
 ---
 
-## Republicans can’t stop wasting money – they want to scrap USPS’ awesome EVs
+## Republicans can’t stop wasting money: they want to scrap USPS’ awesome EVs
 
 date: 2025-06-22, from: Electrek Feed
 

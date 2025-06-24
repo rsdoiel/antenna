@@ -1,11 +1,155 @@
 ---
 title: columns
-updated: 2025-06-23 14:08:37
+updated: 2025-06-24 06:07:35
 ---
 
 # columns
 
-(date: 2025-06-23 14:08:37)
+(date: 2025-06-24 06:07:35)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-24, from: Dave Winer's Scripting News)
+
+<a class="anchorRightMargin" href="https://herve.bzh/wordpress-wordland-and-the-open-web/"><img class="imgRightMargin" src="https://imgs.scripting.com/2023/04/24/cheshireCat.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"></a><a href="https://github.com/jeherve">Jeremy Herve</a> is a developer at Automattic. Here's <a href="https://herve.bzh/wordpress-wordland-and-the-open-web/">what he said</a> about yesterday's <a href="https://shownotes.scripting.com/scripting/2025/06/23/wordpressAndMe.html">podcast</a>. He liked the idea of WordPress as the OS of the open social web. Glad that resonated. It has so much more than the other possible platforms. The others couldn't even realistically claim to be part of the web. They don't support writers very well. We're going to build slowly and deliberately around this idea, always staying open for competitors, because that's the most important thing about the web, beyond its simplicity, it <i>never</i> locks its users in. That's a deal-stopper. As I've learned how WordPress works internally, I immediately saw that they embraced the concepts of the web not just as words, but in their practice. I never hit a wall that kept me out of doing something they already did. And they also appear to never break users and developers. That's one of the basic rules of the web, it's an unchanging thing, no one can break it because everyone is a <a href="https://this.how/googleAndHttp/">guest</a>. Anyway, there is only one web. Keep that in mind. Nothing exclusive about it. 
+
+<br> 
+
+<http://scripting.com/2025/06/24.html#a115524>
+
+---
+
+## Here’s a Subliminal Channel You Haven’t Considered Before
+
+date: 2025-06-24, updated: 2025-06-23, from: Bruce Schneier blog
+
+<p>Scientists can <a href="https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00221-8">manipulate air bubbles</a> trapped in ice to encode messages.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/06/heres-a-subliminal-channel-you-havent-considered-before.html>
+
+---
+
+## Tiling terminal multiplexers for the console connoisseur
+
+date: 2025-06-24, updated: 2025-06-24, from: Liam Proven's articles at the Register
+
+<h4>Split your shell for fun and profit – even over remote connections</h4>
+      <p>All the fun of a tiling window manager right on the console, without needing a GUI at all. What&#39;s not to like?</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/24/tiling_multiplexers_survey/>
+
+---
+
+## A conversation on my 79th
+
+date: 2025-06-24, from: Robert Reich's blog
+
+With students and friends a half-century younger 
+
+<br> 
+
+<https://robertreich.substack.com/p/a-conversation-on-my-79th>
+
+---
+
+## June 23, 2025 
+
+date: 2025-06-24, from: Heather Cox Richardson blog
+
+In a timeline of Trump&#8217;s decision to drop 12 of the reportedly 20 Massive Ordnance Penetrator bombs the U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-23-2025>
+
+---
+
+## Second OS 26 Betas Are Out
+
+date: 2025-06-23, updated: 2025-06-24, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/06/23/apple-seeds-ios-26-beta-2/>
+
+---
+
+## Pixar’s Newest Movie, ‘Elio’,  Is a Box-Office Dud
+
+date: 2025-06-23, updated: 2025-06-23, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2025/06/22/business/elio-pixar-box-office.html>
+
+---
+
+## A remarkable message
+
+date: 2025-06-23, from: Robert Reich's blog
+
+You need to read this. 
+
+<br> 
+
+<https://robertreich.substack.com/p/a-remarkable-message>
+
+---
+
+## When Incompetence Goes to War
+
+date: 2025-06-23, from: Dan Rather's Steady
+
+Bombing was the easy part 
+
+<br> 
+
+<https://steady.substack.com/p/when-incompetence-goes-to-war>
+
+---
+
+##  From Heather Cox Richardson, a video series called Ten Steps to Revolution,... 
+
+date: 2025-06-23, updated: 2025-06-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047005-from-heather-cox-richards>
+
+---
+
+## Speechwriting, Then and Now.
+
+date: 2025-06-23, from: James Fallows, Substack
+
+A discussion with David Litt, 20-something speechwriter for Obama and author of a wonderful new book&#8212;not about politics. In a blurb I call it "an instant classic." In our discussion I explain why. 
+
+<br> 
+
+<https://fallows.substack.com/p/speechwriting-then-and-now>
+
+---
+
+##  Death of a Fantastic Machine 
+
+date: 2025-06-23, updated: 2025-06-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/death-of-a-fantastic-machine>
 
 ---
 
@@ -71,7 +215,7 @@ date: 2025-06-23, updated: 2025-06-23, from: Jason Kittke's blog
 
 date: 2025-06-23, from: Om Malik blog
 
-This weekend I decided to bite the bullet and embrace the “betas” released by Apple at the recent WWDC. I wanted to try out all the new features that Apple had announced and separate the wheat from the chaff.  No, I didn’t download the beta on my main machines. My every day iPhone,&#160;iPad,&#160;and Mac Studio have been untouched. The only everyday &#8230; 
+This weekend I decided to bite the&#160;bullet&#160;and embrace the “betas” released by Apple at the recent WWDC. I wanted to try out all the new features that Apple had&#160;announced&#160;and&#160;separate the&#160;wheat from the chaff.&#160; No, I didn’t download the beta on my main machines. My every day iPhone,&#160;iPad,&#160;and Mac Studio have been untouched. The only everyday &#8230; 
 
 <br><video crossorigin="anonymous" controls="controls" width="250">
 <source type="video/mp4" src="https://videos.files.wordpress.com/zQEEmwUA/apple-wwdc25-ipados-26-windowing-system-250609.mp4"></source>
@@ -139,6 +283,18 @@ date: 2025-06-23, updated: 2025-06-23, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/06/0046995-the-classic-web-account-o>
+
+---
+
+## EBR-I Museum, Nuclear Jet Engines, and Automation
+
+date: 2025-06-23, updated: 2025-06-23, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2025/06/23/ebr-i-tour-and-automation/>
 
 ---
 

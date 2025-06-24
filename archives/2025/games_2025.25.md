@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2025-06-23 14:08:38
+updated: 2025-06-24 06:07:36
 ---
 
 # games
 
-(date: 2025-06-23 14:08:38)
+(date: 2025-06-24 06:07:36)
+
+---
+
+## This VR headset is an Xbox
+
+date: 2025-06-24, updated: 2025-06-23, from: Polygon Website
+
+Xbox and Meta have teamed up to release the Meta Quest 3S Xbox Edition, which the companies say is the first-ever limited-edition Quest headset. The collaboration isn’t quite proof that Xbox is embracing VR and mixed reality — it’s being released to “celebrate the experience of Xbox Cloud Gaming” on Meta Quest, the companies say. The&#160;Meta&#160;Quest 3S&#160;Xbox&#160;Edition will be available for $399.99 in limited [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/608449/xbox-vr-meta-quest-3s-headset>
+
+---
+
+## With no BlizzCon this year, Blizzard’s next big reveal will be at Gamescom
+
+date: 2025-06-24, updated: 2025-06-24, from: Polygon Website
+
+Blizzard has always had a strong presence at Gamescom, the big German games expo that takes place in August — and this year it will be there in force with a major World of Warcraft expansion reveal. In the absence of a BlizzCon convention this year — Blizzard has confirmed that its big fan event [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/world-of-warcraft/608633/blizzard-wow-expansion-midnight-reveal-gamescom-2025>
+
+---
+
+## You&#8217;ll need to spend $165 to play Magic&#8217;s new limited format
+
+date: 2025-06-24, updated: 2025-06-24, from: Polygon Website
+
+Wizards of the Coast is trying to entice Commander players to spend even more money with a new Magic: the Gathering limited format that requires buying an entire Play Booster box. Commander Box League will be playable for the first time during the Edge of Eternities prerelease events running July 25-31. Players will purchase a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/608622/commnader-box-league-new-format-165-usd>
+
+---
+
+## When does the Eevee Grove expansion release in Pokémon TCG Pocket?
+
+date: 2025-06-24, updated: 2025-06-23, from: Polygon Website
+
+Eevee Grove is the next expansion in Pokémon TCG Pocket, adding the famously beloved “Eeveelutions” to the game via a booster pack containing more than 100 cards. Here’s&#160;when the&#160;Eevee Grove expansion will be released&#160;in&#160;Pokémon TCG Pocket&#160;in your time zone, plus details about what to expect. Pokémon TCG Pocket Eevee Grove expansion release time According to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/608446/eevee-grove-expansion-release-time-date-pdt-edt-bst>
+
+---
+
+## What time does Death Stranding 2 release, and can you play early access?
+
+date: 2025-06-23, updated: 2025-06-23, from: Polygon Website
+
+The mysterious waters in Hideo Kojima’s newest work are calling, but you’ll need to wait for the Death Stranding 2: On the Beach release time in your region before you can dive in. Death Stranding 2: On the Beach is the direct sequel to Hideo Kojima’s 2019 breakout, and will only be playable on PlayStation [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/608476/death-stranding-2-release-time-date-edt-pdt>
+
+---
+
+## 9 Peak beginner’s tips to know before starting
+
+date: 2025-06-23, updated: 2025-06-23, from: Polygon Website
+
+Peak is a cooperative climbing game where you and other scouts try to reach the top of a treacherous mountain. Whether you’re climbing solo or with a group of friends, reaching the peak of Peak is tough challenge. While the Wilderness Handbook by Scoutmaster Myres is great at teaching you the basics of “how to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/608514/peak-game-tips-tricks-beginners-before-you-start>
+
+---
+
+## It might be too hot to play your Switch 2 on-the-go this week
+
+date: 2025-06-23, updated: 2025-06-23, from: Polygon Website
+
+A heat wave is cooking much of the United States this week, bringing high temperatures to millions of people from the Midwest to the Mid-Atlantic and Northeast, and prompting health warnings across multiple states. As record-breaking temps are expected to affect North America and Europe this summer — it may be the second-hottest summer on record [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/608464/heat-wave-warnings-2025>
 
 ---
 

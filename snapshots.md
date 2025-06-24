@@ -1,11 +1,71 @@
 ---
 title: snapshots
-updated: 2025-06-23 14:08:45
+updated: 2025-06-24 06:07:41
 ---
 
 # snapshots
 
-(date: 2025-06-23 14:08:45)
+(date: 2025-06-24 06:07:41)
+
+---
+
+## This Queer Online Zine Can Only Be Read Via an Ancient Internet Protocol
+
+date: 2025-06-24, from: 404 Media Group
+
+New Session publishes poetry via Telnet, rejecting the internet’s fast-paced enshittification. 
+
+<br> 
+
+<https://www.404media.co/queer-online-zine-new-session-telnet/>
+
+---
+
+## How I Saved $59.95
+
+date: 2025-06-24, updated: 2025-06-24, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/06/24/how-i-saved-59-95/>
+
+---
+
+## Why Big Tech Turned Against Democrats — and Democracy
+
+date: 2025-06-24, from: Paul Krugman
+
+Trump&#8217;s America is turning its back on the future &#8212; with Big Tech&#8217;s help 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/why-big-tech-turned-against-democrats>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-24, from: Robert's feed at BlueSky)
+
+Fun background info on Deno.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lsdft5z6t22r>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-24, from: Robert's feed at BlueSky)
+
+👇should not be happening
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lsd7aqf2ik2m>
 
 ---
 
@@ -142,12 +202,12 @@ git push -u github main</pre></div>
 
 ---
 
-## GMK NucBox G10 now available for $190 and up (Mini PC with Ryzen 5 3500U
+## GMK NucBox G10 now available for $190 and up (Mini PC with Ryzen 5 3500U)
 
 date: 2025-06-23, from: Liliputing
 
 <p>The GMK NucBox G10 is a small, cheap computer with the beating heart of a laptop from&#8230; seven years ago. But that&#8217;s not necessarily a bad thing, because the AMD Ryzen 5 3500U &#8220;Picasso&#8221; processor powering this little computer has some advantages over the Intel &#8220;Twin Lake&#8221; chips that you usually find in mini PCs in [&#8230;]</p>
-<p>The post <a href="https://liliputing.com/gmk-nucbox-g10-now-available-for-190-and-up-mini-pc-with-ryzen-5-3500u/">GMK NucBox G10 now available for $190 and up (Mini PC with Ryzen 5 3500U</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+<p>The post <a href="https://liliputing.com/gmk-nucbox-g10-now-available-for-190-and-up-mini-pc-with-ryzen-5-3500u/">GMK NucBox G10 now available for $190 and up (Mini PC with Ryzen 5 3500U)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 
 <br> 
@@ -282,6 +342,18 @@ Discover how Bacalhau v1.8.0 transforms distributed computing with a native Splu
 <br> 
 
 <https://blog.bacalhau.org/p/announcing-bacalhau-v180>
+
+---
+
+## EBR-I Museum, Nuclear Jet Engines, and Automation
+
+date: 2025-06-23, updated: 2025-06-23, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2025/06/23/ebr-i-tour-and-automation/>
 
 ---
 

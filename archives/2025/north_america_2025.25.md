@@ -1,11 +1,61 @@
 ---
 title: north america
-updated: 2025-06-23 14:08:34
+updated: 2025-06-24 06:07:33
 ---
 
 # north america
 
-(date: 2025-06-23 14:08:34)
+(date: 2025-06-24 06:07:33)
+
+---
+
+## Words and Phrases We Could Do Without
+
+date: 2025-06-24, from: The Contrarian
+
+Are we really back to &#8216;regime change&#8217;? 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-we-could-do-without-e1c>
+
+---
+
+##  The Headmaster Of The AI Apocalypse 
+
+date: 2025-06-24, from: The Lever News
+
+ Backed by tech money and Donald Trump’s executive orders, MacKenzie Price is out to replace teachers everywhere with AI.  
+
+<br> 
+
+<https://www.levernews.com/the-headmaster-of-the-ai-apocalypse/>
+
+---
+
+## Evening Roundup, June 23
+
+date: 2025-06-23, from: The Contrarian
+
+Featuring Tom Malinowski, Jeff Nesbit, "Offsides" with Pablo Torre, Brian O'Neill, Shannon Watts & Jen Rubin, Carron J. Phillips, "Talking Feds," and Norm & Jen with Terry Moran 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-23>
+
+---
+
+## Offsides with Pablo Torre: Caitlin Clark, the Travelers Championship & The Dodgers' push against ICE
+
+date: 2025-06-23, from: The Contrarian
+
+"You don't need to be a political scientist to realize why it's a useful target." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166672954/455bc255921956e83104a6b1bed83114.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166672954/455bc255921956e83104a6b1bed83114.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/offsides-with-pablo-torre-kaitlin>
 
 ---
 

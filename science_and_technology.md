@@ -1,11 +1,155 @@
 ---
 title: science and technology
-updated: 2025-06-23 14:08:36
+updated: 2025-06-24 06:07:35
 ---
 
 # science and technology
 
-(date: 2025-06-23 14:08:36)
+(date: 2025-06-24 06:07:35)
+
+---
+
+## World's largest camera shows galaxy in 3,200 megapixel glory as Rubin telescope goes online
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>20TB of galactic shots a day, backed by Microsofties</h4> <p>High on a Chilean mountain the Vera C. Rubin Observatory is, at last, photographing the galaxy and the first shots have found 2,104 new asteroids in the Solar System in its initial ten hours of operation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/vera_galaxy_camera/>
+
+---
+
+## Four REvil ransomware crooks walk free, escape gulag fate, after admitting guilt
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>Russian judge lets off accused with time served – but others who refused to plead guilty face years in penal colony</h4> <p>Four convicted members of the once-supreme ransomware operation REvil are leaving captivity after completing most of their five-year sentences.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/four_revil_ransomware_suspects_time_served/>
+
+---
+
+## Google faces UK clampdown as watchdog floats market power rules
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>CMA roadmap outlines potential restrictions on how ad slinger operates in the country</h4> <p>Google is one step closer to strategic market status (SMS) designation in the UK following a proposal from the Competition and Markets Authority (CMA) regarding search and advertising.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/google_strategic_market_status/>
+
+---
+
+## Datacenter market offers us captive customer base, say investors
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>AI boom sparks surge in bit barn funding as firms tout high barriers and sticky clients</h4> <p>What do investors find most attractive about datacenters? One of the simple answers is customer lock-in. &#34;When your contracts come to an end, your customers typically prefer to stay at your datacenter,&#34; said one asset firm exec.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/datacenter_market_captive_audience/>
+
+---
+
+## Tiling terminal multiplexers for the console connoisseur
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>Split your shell for fun and profit – even over remote connections</h4> <p>All the fun of a tiling window manager right on the console, without needing a GUI at all. What&#39;s not to like?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/tiling_multiplexers_survey/>
+
+---
+
+## China’s trying to slim down, which will fatten the smartwatch market
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>Sales are already surging thanks to Beijing&#39;s subsidies and Trump&#39;s tariffs</h4> <p>China recently launched an initiative to reduce the incidence of obesity in the country, a move analyst firm IDC thinks will fatten the market for smartwatches and smart wristbands.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/idc_wrist_wearables_market/>
+
+---
+
+## Lenovo shows what a Chromebook packing a MediaTek Kompanio Ultra can do
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>Nothing startling, even with Google’s AI extras</h4> <p>Lenovo has released the first Chromebook Plus packing MediaTek’s Kompanio Ultra, the system-on-chip that includes a 50 TOPS neural processing unit, and at first glance it looks speedy and includes some AI features but is otherwise mundane.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/chromebook_plus_kompanio_ultra_lenovo/>
+
+---
+
+## 'Psylo' browser tries to obscure digital fingerprints by giving every tab its own IP address
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>Gotta keep &#39;em separated so the marketers and snoops can&#39;t come out and play</h4> <p>Psylo, which bills itself as a new kind of private web browser, debuted last Tuesday in Apple&#39;s App Store, one day ahead of a report warning about the widespread use of browser fingerprinting for ad tracking and targeting.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/psylo_browser_privacy_tab_silos/>
+
+---
+
+## Omnissa brings VDI-style app packaging to physical PCs
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>VMware spin-out is making friends and choosing some enemies</h4> <p>Omnissa, the independent company that acquired VMware’s former end-user compute portfolio, has tweaked its App Volumes product that packages and deploys desktop apps for use on virtual PCs so it works on physical machines too.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/omnissa_appvolumes_physical_extension/>
+
+---
+
+## Typhoon-like gang slinging TLS certificate 'signed' by the Los Angeles Police Department
+
+date: 2025-06-23, updated: 2025-06-23, from: The Register (UK I.T. News)
+
+<h4>Chinese crew built 1,000+ device network that runs on home devices then targets critical infrastructure</h4> <p>A stealthy, ongoing campaign to gain long-term access to networks bears all the markings of intrusions conducted by China’s ‘Typhoon’ crews and has infected at least 1,000 devices, primarily in the US and South East, according to Security Scorecard&#39;s Strike threat intel analysts. And it uses a phony certificate purportedly signed by the Los Angeles police department to try and gain access to critical infrastructure.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/23/lapdog_orb_network_attack_campaign/>
+
+---
+
+## If you want to keep using KDE and GNOME, you’re going to have to move to Wayland
+
+date: 2025-06-23, from: OS News
+
+With the transition from X11 to Wayland in full swing, from popular distributions removing X11 sessions altogether and the two major desktop environments planning for the removal of X11 support as well, there&#8217;s a ton of questions people are dealing with. Both the KDE and GNOME project published detailed blog posts about the matter. First, KDE&#8217;s Nathan Graham makes it very clear that KDE Plasma&#8217;s X11 sessions continues to be maintained. This means KDE Plasma will continue to work on X11, major bugs in the session (e.g. can&#8217;t log in) will be fixed, and really bad regressions in the session may eventually be fixed. That being said, minor bugs will probably not be fixed unless someone pays for it, and new features in the X11 session will not happen at all, unless someone pays for it. KDE currently has no time frame for when X11 support will be dropped from KDE Plasma, and Graham doesn&#8217;t expect it to happen within the next two years. The KDE project maintains a list of known significant issues with KDE Plasma on Wayland, and KDE plans on addressing everything on that list before removing X11 support. Graham notes that in the end, dropping X11 support from KDE Plasma is mostly up to distributions, as it wouldn&#8217;t make any sense to drop it if distributions aren&#8217;t on board. At the moment, about 70-80% of KDE Plasma users are using Wayland, he notes. On the GNOME side of things, Jordan Petridis also detailed GNOME&#8217;s position on Wayland and X11. GNOME will be disabling the X11 session in GNOME 49, with a full removal of the X11 code in GNOME 50. This won&#8217;t break any X11 applications (on either GNOME or KDE), since even if they don&#8217;t have a Wayland backend, they&#8217;ll run just fine using XWayland, which is an X server running on top of Wayland. XWayland isn&#8217;t going anywhere any time soon. According to Petridis, the Wayland session is as functional as the X11 session, and &#8220;in plenty of cases a lot more capable and efficient&#8221;. He further adds that &#8220;there’s some niche workflows that are only possible on X11, but there isn’t any functionality regression&#8221;. Basically, if you&#8217;re using your spacebar as a heater, you might run into problems. As for accessibility, Wayland is actually doing pretty great. There has been a lot of concerned trolling and misinformation specifically around this topic sadly from people that don’t care about it and have been abusing the discourse as a straw man argument. Drowning all the people that rely on it and need to be heard. Thankfully Aaron of fireborn fame wrote recently a blogpost talking about all this in detail and clearing up misconceptions. ↫ Jordan Petridis Finally, Petridis summarises why the Linux desktop world is moving to Wayland: No, the Xorg Server is still very much maintained, however its development is halted. It still receives occasional bugfixes and there are timely security releases when needed. The common sentiment, shared among Xorg, Graphics, Kernel, Platform and Application developers is that any future development is a dead-end and shortcomings can’t be addressed without breaking X11. That’s why the majority of Xorg developers moved on to make a new, separate, thing: Wayland. ↫ Jordan Petridis This pill is so hard to swallow for some people that they go full bananas and start seeing red hats and Illuminati symbols everywhere, losing their minds and spiraling deep into ludicrous conspiracy theories. The truth of the matter is, however, blatantly banal: the people developing X.org realised long ago that meaningfully improving it would irrevocably break it, and as such they developed something new so they wouldn&#8217;t have to break X11. That&#8217;s it. X.org will continue to exist and live on in its maintained state, and desktops relying on it will continue to function. If you want to keep using GNOME and KDE, though, you&#8217;ll have to drop X11, because the kinds of features and improvements these desktops want to deliver are not possible without breaking X11. Would you want an X11 that&#8217;s broken for everyone, or an X11 that keeps working as-is, while those that want to move on do so somewhere else? 
+
+<br> 
+
+<https://www.osnews.com/story/142633/if-you-want-to-keep-using-kde-and-gnome-youre-going-to-have-to-move-to-wayland/>
+
+---
+
+## America and Britain gear up with Project Flytrap to bring anti-drone kit to the battlefield
+
+date: 2025-06-23, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>Prepping to fight the next war, not the last one</h4> <p><strong>video</strong>  The US Army, alongside British and other NATO partners, is testing the latest counter-drone kit at a training area in Germany. Early feedback is promising, even if most of the hardware isn&#39;t American-made.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/23/us_army_drones/>
 
 ---
 
@@ -21,11 +165,11 @@ Asterinas is a new Linux-ABI-compatible kernel project written in Rust, based on
 
 ---
 
-## Huawei’s latest notebook shows China is still generations behind in chipmaking
+## Huawei's latest notebook shows China is still generations behind in chipmaking
 
-date: 2025-06-23, updated: 2025-06-23, from: The Register (UK I.T. News)
+date: 2025-06-23, updated: 2025-06-24, from: The Register (UK I.T. News)
 
-<h4>Kirin X90 SoC made on two-year-old 7nm N+2 process</h4> <p>Despite concerted efforts by the Chinese to bolster domestic semiconductor production in defiance of US trade policy, new evidence uncovered by Canadian research outlet TechInsights suggests SMIC, the Middle Kingdom&#39;s top chip manufacturer, remains generations behind the rest of the world.…</p> 
+<h4>Kirin X90 SoC made on two-year-old 7nm N+2 process</h4> <p>Despite concerted efforts by China to bolster domestic semiconductor production in defiance of US trade policy, new evidence uncovered by Canadian research outlet TechInsights suggests SMIC, the Middle Kingdom&#39;s top chip manufacturer, remains generations behind the rest of the world.…</p> 
 
 <br> 
 

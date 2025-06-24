@@ -1,11 +1,86 @@
 ---
 title: motorcycles
-updated: 2025-06-23 14:08:41
+updated: 2025-06-24 06:07:38
 ---
 
 # motorcycles
 
-(date: 2025-06-23 14:08:41)
+(date: 2025-06-24 06:07:38)
+
+---
+
+## Shoei’s Upcoming Retro Helmet Looks Dope, Let’s Hope It Gets Sold Outside Japan
+
+date: 2025-06-24, from: Ride Apart, Electric Motorcycle News
+
+Shoei’s Wyvern helmet looks like a perfect fit in today’s retro-crazed market. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/763501/shoei-wyvern-revival-coming-soon/>
+
+---
+
+## Can-Am Goes to Paris to Dominate Europe's Electric Motorcycle and Three-Wheeler Market
+
+date: 2025-06-24, from: Ride Apart, Electric Motorcycle News
+
+Will we see anything like this from the brand's biggest competitor? 
+
+<br> 
+
+<https://www.rideapart.com/news/763447/can-am-opens-paris-flagship-store/>
+
+---
+
+## Brembo Celebrates 50 Years Of Racing Brake Technology With This Special Part
+
+date: 2025-06-24, from: Ride Apart, Electric Motorcycle News
+
+It represents the very best of Brembo, and is limited to just 500 examples. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/763502/brembo-rcs-corsa-corta-mugello-2025/>
+
+---
+
+## Watch a Motorcycle Racer Crash, Dislocate His Shoulder, Then Set a Blistering Quali
+
+date: 2025-06-24, from: Ride Apart, Electric Motorcycle News
+
+It's not the first time we've seen something like this from a Factory Yamaha superstar. 
+
+<br> 
+
+<https://www.rideapart.com/news/763438/fabio-quartararo-dislocates-shoulder-qualifying/>
+
+---
+
+## This New Electric Scooter From Spain  Just Makes Sense
+
+date: 2025-06-24, from: Ride Apart, Electric Motorcycle News
+
+That is, of course, if the spec sheet proves itself in the real world. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/763277/nerva-exe-2-electric-scooter-specs-features-ev/>
+
+---
+
+## F1's Purchase Of MotoGP Was Just Approved, Here's What That Means Going Forward
+
+date: 2025-06-24, from: Ride Apart, Electric Motorcycle News
+
+Dorna is dead. Long live MotoGP under Liberty Media! 
+
+<br> 
+
+<https://www.rideapart.com/news/763568/liberty-media-dorna-motogp-f1-deal-eu-approved/>
 
 ---
 

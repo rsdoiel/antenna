@@ -1,11 +1,407 @@
 ---
 title: planet
-updated: 2025-06-23 14:08:33
+updated: 2025-06-24 06:07:32
 ---
 
 # planet
 
-(date: 2025-06-23 14:08:33)
+(date: 2025-06-24 06:07:32)
+
+---
+
+## Agency overseeing Dublin revival approved by Government
+
+date: 2025-06-24, from: RTÉ News
+
+The establishment of a new agency to oversee the rejuvenation of Dublin City Centre has been approved by Government. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0624/1520081-dublin-cty-centre-taskforce/>
+
+---
+
+## Gaza: Over 400 Palestinians killed around private aid hubs, UN rights office says
+
+date: 2025-06-24, from: United Nations, Top Stories
+
+At least 410 Palestinians have been killed by the Israeli military while trying to fetch from controversial new aid hubs in Gaza – a likely war crime – the UN human rights office, OHCHR, said on Tuesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164846>
+
+---
+
+## What time is it on the Moon? It’s all relative…
+
+date: 2025-06-24, from: United Nations, Top Stories
+
+Telling the time on the Moon is more complicated than you might think, but answering the question is becoming more important amid a resurgent interest in lunar exploration. The UN is helping to ensure the Moon is governed in a coordinated and peaceful way, and agreeing on a time zone is a central element of international discussions. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164686>
+
+---
+
+## Pope Leo to Order of Malta: Thank you for bearing witness to God's love
+
+date: 2025-06-24, from: Vatican News
+
+
+                    <p>On the occasion of the Solemnity of Saint John the Baptist, Pope Leo XIV expresses his gratitude to the Sovereign Military Order of Malta for their concrete witness to God's love, and underscores the need to foster prayer and appropriate formation.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-to-order-of-malta-thank-you-for-witnessing-god-love.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-to-order-of-malta-thank-you-for-witnessing-god-love.html>
+
+---
+
+## Pope Leo confirms election of Fr Francesco Ielpo as new Custos of the Holy Land
+
+date: 2025-06-24, from: Vatican News
+
+
+                    <p>Pope Leo XIV confirms the election of Fr Francesco as Custos of the Holy Land and Guardian of Mount Zion</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-confirms-election-of-fr-francesco-ielpo-as-new-custos.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-confirms-election-of-fr-francesco-ielpo-as-new-custos.html>
+
+---
+
+## Watch: Trump uses expletive, says Israel has to calm down
+
+date: 2025-06-24, from: RTÉ News
+
+US President Donald Trump has said that Israel has to calm down after he said both Israel and Iran violated a ceasefire he tried to broker. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0624/1520070-us-middle-east/>
+
+---
+
+## Cabo Verde: The role of Catholic Social Teaching in development and Social Justice
+
+date: 2025-06-24, from: Vatican News
+
+
+                    <p>The Justice and Peace Commission of the Diocese of Santiago in Cabo Verde recently organised a conference in the city of Praia on the role of the Catholic Church in promoting peace, justice, and sustainable, balanced development in Cabo Verde.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-06/cabo-verde-the-role-of-catholic-social-teaching-in-development.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-06/cabo-verde-the-role-of-catholic-social-teaching-in-development.html>
+
+---
+
+## Pope Leo to seminarians: Be passionate about priestly life
+
+date: 2025-06-24, from: Vatican News
+
+
+                    <p>Pope Leo XIV welcomes some 4000 seminarians and formators to the Vatican for their Jubilee, offering them a meditation on the Sacred Heart of Jesus and the priestly life. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-to-seminarians-be-passionate-about-priestly-life.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-to-seminarians-be-passionate-about-priestly-life.html>
+
+---
+
+## Damascus church bombing: ‘There is no justification’
+
+date: 2025-06-24, from: Vatican News
+
+
+                    <p>Following the bombing of the St. Elias Church in Damascus, Syria, the Assembly of the Catholic Ordinaries in Holy Land issues a statement condemning the violence and calling for protection of Christians. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/assembly-of-catholic-ordinaries-responds-to-damascus-bombing.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/assembly-of-catholic-ordinaries-responds-to-damascus-bombing.html>
+
+---
+
+## UN condemns 'weaponisation of food' in Gaza
+
+date: 2025-06-24, from: RTÉ News
+
+The UN human rights office has said that the "weaponisation" of food for civilians in Gaza constitutes a war crime, in its strongest remarks yet on a new model of aid distribution run by a US- and Israeli-backed organisation. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0624/1520036-israel-gaza/>
+
+---
+
+## Ex-school principal jailed for indecent assault of boys
+
+date: 2025-06-24, from: RTÉ News
+
+A former school principal who was convicted of the indecent assault of six boys over a 30-year period has been jailed for four years for some of the offences. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0624/1520027-aidan-clohessy-court/>
+
+---
+
+## Msgr. Formica: 'Urgent moral responsibility to address poverty'
+
+date: 2025-06-24, from: Vatican News
+
+
+                    <p>During the UN Security Council's Open Debate on Poverty, Underdevelopment, and Conflict in New York, Msgr. Marco Formica, official of the Vatican Secretariat of State, 'underscores the urgent moral responsibility to address the root causes of poverty,' and reiterates the Holy See's concern regarding 'the ever-growing military expenditure, which diverts significant resources from investments in development sectors such as healthcare, education and infrastructure.'</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/msgr-formica-on-urgent-moral-responsibility-to-address-causes.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/msgr-formica-on-urgent-moral-responsibility-to-address-causes.html>
+
+---
+
+## HSE says agreement reached on weekend rosters
+
+date: 2025-06-24, from: RTÉ News
+
+The Health Service Executive has said agreement has been reached with health unions on the introduction of an extended working day and week in the HSE and HSE funded agencies. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0624/1520019-hse-rosters/>
+
+---
+
+## NATO summit seeks to keep Trump happy, alliance united
+
+date: 2025-06-24, from: RTÉ News
+
+NATO leaders will seek to lock in US President Donald Trump's commitment to their alliance with a summit pledge to boost defence spending, as they gather in The Hague with global tensions soaring over Iran. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0624/1520012-nato-summit-seeks-to-keep-trump-happy-alliance-united/>
+
+---
+
+## Man, 20s, killed in Dublin hit-and-run incident
+
+date: 2025-06-24, from: RTÉ News
+
+A man in his 20s has died in a hit-and-run incident in Co Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0624/1520013-balbriggan-dublin-rtc/>
+
+---
+
+## Little Blue heroes get VIP treatment at Leinster House
+
+date: 2025-06-24, from: RTÉ News
+
+Leinster House is playing host to a group of very special VIP guests from Co Tipperary, with nine Little Blue Heroes arriving for a tour. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0624/1520011-little-blue-heroes/>
+
+---
+
+## Oil slumps as Iran-Israel ceasefire goes into effect
+
+date: 2025-06-24, from: RTÉ News
+
+Oil prices extended losses to hit a two-week low today after Israel agreed to US President Donald Trump's proposal for a ceasefire with Iran, alleviating worries over supply disruptions in the Middle East. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0624/1520002-oil-slumps-as-iran-israel-ceasefire-goes-into-effect/>
+
+---
+
+## US hit by first extreme heat wave of the year
+
+date: 2025-06-24, from: RTÉ News
+
+A potentially life-threatening heat wave has enveloped parts of the eastern United States impacting nearly 160 million people, with temperatures expected to climb to 40C (104F) in the New York metropolitan area. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0624/1520000-us-weather/>
+
+---
+
+## What impact will the changes to Senior Cycle have?
+
+date: 2025-06-24, from: RTÉ News
+
+Plans to overhaul how Leaving Certificate students are assessed will be discussed by the leadership of the ASTI teachers' union at a two-day meeting in Killarney which begins this afternoon. 
+
+<br> 
+
+<https://www.rte.ie/news/education/2025/0624/1519991-education-senior-cycle/>
+
+---
+
+## Trump tells Israel 'do not drop those bombs' on Iran
+
+date: 2025-06-24, from: RTÉ News
+
+Follow live developments as US President Donald Trump accused both Israel and Iran of violating a ceasefire, hours after he announced it. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0624/1519997-middle-east-conflict/>
+
+---
+
+## Student accommodation among items on Cabinet agenda
+
+date: 2025-06-24, from: RTÉ News
+
+Minister for Further and Higher Education James Lawless was due to bring a memo to Cabinet about putting in place a design guide for new State-supported student accommodation 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0624/1519999-ireland-politics/>
+
+---
+
+## Watch: Fashion student makes leather from fish bio-waste
+
+date: 2025-06-24, from: RTÉ News
+
+A fashion student committed to sustainable design has been creating their own leather out of fish bio-waste. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0624/1519943-sustainable-fashion-biowaste/>
+
+---
+
+## Tánaiste bringing Occupied Territories Bill to Cabinet
+
+date: 2025-06-24, from: RTÉ News
+
+Tánaiste Simon Harris is bringing the outline of the Occupied Territories Bill to the Cabinet today. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0624/1519976-occupied-territories-bill/>
+
+---
+
+## Hopes Irish wool brand can help raise prices at farm gate
+
+date: 2025-06-24, from: RTÉ News
+
+Stakeholders across Ireland are working collaboratively to establish an Irish wool brand mark to create additional value for the product across the industry. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0624/1519972-irish-wool-brand-mark/>
+
+---
+
+## U.S. expecting NATO members to show them the money at leaders' summit
+
+date: 2025-06-24, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7528395.1746584077!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/february-2022-file-photo-showing-f-a-18-landing-on-uss-harry-s-truman-aircraft-carrier.JPG' alt='A fighter jet landing on the USS Harry S. Truman aircraft carrier on Feb. 2, 2022.' width='620' height='349' title='A military plane F/A-18 lands onboard aircraft carrier USS Harry S. Truman, in the Adriatic Sea, February 2, 2022. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/nato-leaders-summit-1.7568938?cmp=rss>
+
+---
+
+## Ontario Human Rights Commission offers hiring guidance to avoid Indigenous identity fraud
+
+date: 2025-06-24, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6186876.1750439802!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/ont-law-enforcement-racism-20190919.jpg' alt='A sign of the Ontario Human Rights Commission is seen at a news conference.' width='620' height='349' title='A sign of the Ontario Human Rights Commission is seen at a news conference in Vaughan, Ont., on Friday, Sept. 20, 2019. THE CANADIAN PRESS/Colin Perkel'/><p>A new policy statement from the Ontario Human Rights Commission calls on employers hiring for Indigenous-specific positions to find ways to verify candidates' Indigenous identities, with help from Indigenous communities.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/identity-fraud-indigenous-hiring-1.7564978?cmp=rss>
+
+---
+
+## Here's what happened the last time the U.S. forced regime change on Iran
+
+date: 2025-06-24, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7569006.1750723369!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/iran-1953-coup-queen.jpg' alt='A man is held up by a crowd in a black and white photograph.' width='620' height='349' title='FILE - In this Sept. 27, 1951 file photo, Prime Minister Mohammad Mosaddegh rides on the shoulders of cheering crowds in Tehran&apos;s Majlis Square, outside the parliament building, after reiterating his oil nationalization views to his supporters. The U.S. ambassador to Iran mistakenly told the shah in 1953 that Britain&apos;s newly enthroned Queen Elizabeth II backed a plan to overthrow the country&apos;s elected prime minister and America maintained the fiction even after realizing the error, historians now say. (AP Photo, File)'/><p>The U.S. overthrew Iran's democratically elected government in 1953. Historians say the coup led to the very regime U.S. President Donald Trump has touted overthrowing. A ceasefire deal he announced Monday between Iran and Israel could put the idea of regime change to rest.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/iran-u-s-regime-change-1953-1.7568828?cmp=rss>
+
+---
+
+## Ombudsman to call for child homelessness strategy
+
+date: 2025-06-23, from: RTÉ News
+
+The impact of homelessness and unstable living conditions on children is catastrophic, the Ombudsman for Children Niall Muldoon will tell the Oireachtas Committee on Housing. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0624/1519975-child-and-family-homelessness-strategy/>
+
+---
+
+## New Israeli strikes on Iran reported by media
+
+date: 2025-06-23, from: RTÉ News
+
+Iranian and Israeli media reported new Israeli airstrikes on Iran, despite US President Donald Trump having said Israel had called them off at his instruction to preserve an hours-old ceasefire. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0624/1519794-israel-iran/>
+
+---
+
+## Nigerian judge convicts man of sextorting B.C. teen who died by suicide
+
+date: 2025-06-23, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7110750.1750725267!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/adedayo-olukeye.JPG' alt='Adedayo Olukeye has been charged in relation to the sextortion of a B.C. teenager who took his life. The 26-year-old is in custody in Lagos, Nigeria. He is a Black man holding a placard with his alleged crimes.' width='620' height='349' title='Adedayo Olukeye has been charged in relation to the sextortion of a B.C. teenager who took his life. The 26-year-old is in custody in Lagos, Nigeria.'/><p>Nigeria's Economic and Financial Crimes Commission said Olukeye Adedayo was sentenced last week to prison terms totalling 76 years, after offences that the RCMP said resulted in the boy's "sudden death" in February 2023.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/nigerian-man-convicted-bc-sextortion-1.7569049?cmp=rss>
+
+---
+
+## Trump administration can resume deporting migrants to 3rd countries, U.S. Supreme Court rules
+
+date: 2025-06-23, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7559085.1750720259!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ice-protest-new-york.jpg' alt='Demonstrators hold signs protesting against U.S. Immigration and Customs Enforcement.' width='620' height='349' title='Demonstrators hold signs and chant during a protest against deportation by Immigration and Customs Enforcement in New York, Wednesday, June 11, 2025. (AP Photo/Yuki Iwamura)'/><p>The U.S. Supreme Court cleared the way on Monday for President Donald Trump's administration to resume deporting migrants to countries other than their own without offering them a chance to show harms they could face, handing him another victory in his aggressive pursuit of mass deportations.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-supreme-court-deportations-1.7568872?cmp=rss>
 
 ---
 
@@ -18,6 +414,18 @@ Gardaí have travelled to Iceland as part of an investigation into the disappear
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0623/1519962-jon-jonsson-gardai/>
+
+---
+
+## Venetians plan to march in the streets, swim in the canals to disrupt Jeff Bezos's wedding
+
+date: 2025-06-23, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7568841.1750712265!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/people-bezos-wedding.JPG' alt='A bald man in a tuxedo poses next to a woman with long brown hair and a white gown.' width='620' height='349' title='FILE PHOTO: Lauren Sanchez and Jeff Bezos arrive at the Vanity Fair Oscars party after the 97th Academy Awards, in Beverly Hills, California, U.S., March 2, 2025. REUTERS/Danny Moloshok/File Photo'/><p>Activists are doing whatever they can to disrupt Amazon founder Jeff Bezos's lavish nuptials in Venice, an Italian city protesters accuse of prioritizing the desires of wealthy tourists over the needs of its own residents. </p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/asithappens/jeff-bezos-venice-wedding-protests-1.7568795?cmp=rss>
 
 ---
 
@@ -43,7 +451,7 @@ date: 2025-06-23, from: Vatican News
 
 date: 2025-06-23, from: RTÉ News
 
- 
+It was an event that divided the country: Roy Keane headed home from Saipan on the eve of the 2002 FIFA World Cup. But what side are Fran and Katie on? 
 
 <br> 
 
@@ -60,6 +468,18 @@ A man who was twice raped by a man he had known for many years has said there ar
 <br> 
 
 <https://www.rte.ie/news/courts/2025/0623/1519953-thomas-nyhan/>
+
+---
+
+## What is the Strait of Hormuz and what could happen to oil prices if Iran shuts it down?
+
+date: 2025-06-23, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7568507.1750692210!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/oil-shipping-hormuz.JPG' alt='An oil tanker in flat  waters' width='620' height='349' title='Oil tankers pass through the Strait of Hormuz, Dec. 21, 2018. REUTERS/Hamad I Mohammed/File Photo'/><p>Washington's strikes on Iran stoked fears that Iran could retaliate by closing the Strait of Hormuz, a waterway between Iran and Oman through which around 20 per cent of the oil and gas consumed globally flows. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/iran-strait-hormuz-1.7568486?cmp=rss>
 
 ---
 
@@ -201,7 +621,7 @@ After surprise US bombing raids on Iranian uranium enrichment facilities over th
 
 ## Asia is warming twice as fast as the rest of the world
 
-date: 2025-06-23, from: United Nations, Top Stories
+date: 2025-06-23, from: United Nations, Climate Change
 
 In April 2024, China broke the average temperature record that month. The following month, it was the same - and then again in August. And September. And November. 
 
@@ -280,6 +700,42 @@ The food security situation in Government-controlled areas of southern Yemen is 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/06/1164776>
+
+---
+
+## UN80 Initiative: What it is – and why it matters to the world
+
+date: 2025-06-23, from: United Nations, UN Affairs
+
+In a world grappling with growing crises, deepening inequalities, and eroding trust in global institutions, the United Nations has launched an ambitious effort to strengthen how it serves people everywhere. The UN80 Initiative, unveiled in March by Secretary-General António Guterres, is a system-wide push to streamline operations, sharpen impact, and reaffirm the UN’s relevance for a rapidly changing world. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164836>
+
+---
+
+## 80 years later, the UN Charter is a ‘living miracle,’ Secretary-General says
+
+date: 2025-06-23, from: United Nations, UN Affairs
+
+In front of a multimedia exhibit at United Nations Headquarters entitled “Reviving the Spirit of San Francisco,” Secretary-General António Guterres welcomed home the UN Charter which was signed in 1945 in the Californian city.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164831>
+
+---
+
+## Guterres condemns Iran attack on US airbase in Qatar
+
+date: 2025-06-23, from: United Nations, Top Stories
+
+UN Secretary-General António Guterres is “deeply alarmed” by the further escalation of the conflict in the Middle East, his Spokesperson said in a statement on Monday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164826>
 
 ---
 
@@ -527,11 +983,11 @@ Live coverage of developments in the Middle East as the world braces for Tehran'
 
 ---
 
-## 'Very weak' response from Iran to US strikes - Trump
+## As it happened: Iran, Israel agree to ceasefire - Trump
 
 date: 2025-06-23, from: RTÉ News
 
-Live coverage of developments in the Middle East as Iran responds to the US attack on its nuclear sites. 
+Look back on live developments in the Middle East after Iran responded to the US attack on its nuclear sites. 
 
 <br> 
 
@@ -639,6 +1095,18 @@ Ukrainian President Volodymyr Zelensky and British Prime Minister Keir Starmer a
 
 ---
 
+## Starmer, Zelensky agree military production project
+
+date: 2025-06-23, from: RTÉ News
+
+Ukrainian President Volodymyr Zelensky and British Prime Minister Keir Starmer announced a new defence co-production initiative during a short visit by Mr Zelensky to London to discuss his country's defence against Russia. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0623/1519803-ukraine-russia/>
+
+---
+
 ## Canada opens the door to deeper European defence and security partnership
 
 date: 2025-06-23, from: CBC, World News
@@ -663,11 +1131,11 @@ date: 2025-06-23, from: CBC, Indigenious News
 
 ---
 
-## Attack on Damascus church kills at least 25 people
+## Arrests after attack on Damascus church kills 25 people
 
 date: 2025-06-23, from: RTÉ News
 
-A shooting and bombing at a Damascus church during a packed service killed at least 25 people, authorities said. 
+Authorities in Syria have made a number of arrests after an attack on a church in which the health ministry said that 25 people were killed and 63 injured. 
 
 <br> 
 
@@ -699,7 +1167,7 @@ The UN Security Council met yesterday to discuss US strikes on Iran's nuclear si
 
 ---
 
-## Omagh inquiry told pace of disclosure 'must increase'
+## PSNI disclosing Omagh information 'as quickly as it can'
 
 date: 2025-06-22, from: RTÉ News
 
@@ -748,6 +1216,18 @@ date: 2025-06-22, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/as-airstrikes-intensify-iranians-are-flocking-to-the-borders-1.7568034?cmp=rss>
+
+---
+
+## As airstrikes intensify, Iranians are flocking to the borders
+
+date: 2025-06-22, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7568079.1750608255!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/turkishborder.JPG' alt='An adult holds a young child in her arms in front of luggage and a white van. ' width='620' height='349' title='Families are seen with their luggage at the Turkish border after fleeing Iran.'/><p>Some Iranians are fleeing the country to escape the attacks while others are trying to enter Iran to reunite with their families, after days of internet blackouts made it impossible to contact them.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/iranians-turkey-1.7568034?cmp=rss>
 
 ---
 
@@ -801,7 +1281,7 @@ Thousands of people have taken part in an anti-immigration protest in Dublin, wi
 
 ## What is financing for development?
 
-date: 2025-06-22, from: United Nations, Top Stories
+date: 2025-06-22, from: United Nations, Economic Development
 
 According to the United Nations, the world needs an extra $4 trillion every year to tackle some of the world’s biggest challenges – ending poverty and hunger, fighting climate change, and reducing inequality.&nbsp; 
 

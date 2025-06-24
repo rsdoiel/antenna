@@ -1,11 +1,82 @@
 ---
 title: home
-updated: 2025-06-23 14:08:40
+updated: 2025-06-24 06:07:38
 ---
 
 # home
 
-(date: 2025-06-23 14:08:40)
+(date: 2025-06-24 06:07:38)
+
+---
+
+## 50 Birds in Connecticut (With Pictures and Identification)
+
+date: 2025-06-24, from: Yard Life blog
+
+<p>Birds in Connecticut are incredibly diverse thanks to the state’s unique mix of coastal shores, forests, wetlands, and suburban areas. ... </p>
+<p class="read-more-container"><a title="50 Birds in Connecticut (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/50-birds-in-connecticut-with-pictures-and-identification/#more-31061" aria-label="Read more about 50 Birds in Connecticut (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/50-birds-in-connecticut-with-pictures-and-identification/">50 Birds in Connecticut (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/50-birds-in-connecticut-with-pictures-and-identification/>
+
+---
+
+## The Best Flowers for Fall Planting If You Want the Biggest Springtime Blooms
+
+date: 2025-06-24, from: Sunset Magazine - Living in the West
+
+Want a bodacious springtime garden? Plan ahead with fall planting; plant these flowers in fall for the biggest, healthiest spring plants. 
+
+<br> 
+
+<https://www.sunset.com/garden/flowers-plants/flowers-to-plant-in-fall>
+
+---
+
+## 21 White Birds in North Carolina (With Pictures and Identification)
+
+date: 2025-06-24, from: Yard Life blog
+
+<p>White Birds in North Carolina stand out with their bright feathers and graceful appearance. They can be found in many ... </p>
+<p class="read-more-container"><a title="21 White Birds in North Carolina (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/21-white-birds-in-north-carolina-with-pictures-and-identification/#more-31046" aria-label="Read more about 21 White Birds in North Carolina (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/21-white-birds-in-north-carolina-with-pictures-and-identification/">21 White Birds in North Carolina (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/21-white-birds-in-north-carolina-with-pictures-and-identification/>
+
+---
+
+## 39 Yellow Birds in Virginia (With Pictures and Identification)
+
+date: 2025-06-24, from: Yard Life blog
+
+<p>Yellow Birds in Virginia add vibrant splashes of color to the state&#8217;s diverse landscapes. From forests to wetlands, these bright ... </p>
+<p class="read-more-container"><a title="39 Yellow Birds in Virginia (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/39-yellow-birds-in-virginia-with-pictures-and-identification/#more-31034" aria-label="Read more about 39 Yellow Birds in Virginia (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/39-yellow-birds-in-virginia-with-pictures-and-identification/">39 Yellow Birds in Virginia (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/39-yellow-birds-in-virginia-with-pictures-and-identification/>
+
+---
+
+## Court Ruling Halts Proposed Alpine Park Development in San Diego County
+
+date: 2025-06-23, from: California Native Plants Society
+
+<p>With a profusion of brodiaea, calochortus, blue dicks, allium, and clarkia, this site is like walking in a spring kaleidoscope.</p>
+<p>The post <a href="https://www.cnps.org/news-releases/court-ruling-halts-proposed-alpine-park-development-in-san-diego-county-43739">Court Ruling Halts Proposed Alpine Park Development in San Diego County</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/news-releases/court-ruling-halts-proposed-alpine-park-development-in-san-diego-county-43739>
 
 ---
 

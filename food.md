@@ -1,11 +1,77 @@
 ---
 title: food
-updated: 2025-06-23 14:08:43
+updated: 2025-06-24 06:07:40
 ---
 
 # food
 
-(date: 2025-06-23 14:08:43)
+(date: 2025-06-24 06:07:40)
+
+---
+
+## Specialty Coffee Consumption Up 84% Since 2011, Says NCA Report
+
+date: 2025-06-24, from: The Fresh Cup
+
+<p>A new report shows an impressive rise in the popularity of specialty coffee: the number of people who drank specialty coffee in the last day had increased by 84% since 2011.</p>
+<p>The post <a href="https://freshcup.com/specialty-coffee-consumption-up-84-since-2011-says-nca-report/">Specialty Coffee Consumption Up 84% Since 2011, Says NCA Report</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/specialty-coffee-consumption-up-84-since-2011-says-nca-report/>
+
+---
+
+## 53 Healthy Summer Dinners That Aren’t All Salad
+
+date: 2025-06-23, from: Bon Appetet
+
+Like salmon and pineapple tacos, cold matcha noodles, and the greatest gazpacho. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/healthy-summer-dinner-ideas-recipes>
+
+---
+
+## Dunkin’ Summer Munchkins Buckets Are Here, and You Can Take Them to the Beach
+
+date: 2025-06-23, from: Taste of Home
+
+<p>Noshing on Munchkins and building sandcastles? The only thing that could make it better is an iced coffee!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/dunkin-summer-munchkins-buckets/">Dunkin&#8217; Summer Munchkins Buckets Are Here, and You Can Take Them to the Beach</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/dunkin-summer-munchkins-buckets/>
+
+---
+
+## Best Espresso Machines for Beginners & Coffee Nerds (2025)
+
+date: 2025-06-23, from: Bon Appetet
+
+A good espresso machine is an investment. But how much do you spend at the coffee shop every year? 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-espresso-machines>
+
+---
+
+## I Tried Meredith Hayden’s Most Viral Recipe, and Here’s What I Thought
+
+date: 2025-06-23, from: Taste of Home
+
+<p>Could Wishbone Kitchen's beet pasta be as delicious as it is cute? I tried it to find out.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/wishbone-kitchen-beet-pasta/">I Tried Meredith Hayden&#8217;s Most Viral Recipe, and Here&#8217;s What I Thought</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/wishbone-kitchen-beet-pasta/>
 
 ---
 
@@ -101,6 +167,18 @@ date: 2025-06-23, from: Taste of Home
 
 ---
 
+## SANA is Supporting the Mental Health of Women Coffee Farmers
+
+date: 2025-06-23, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/SANA-mental-health-women-coffee-farmers-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="SANA mental health women coffee farmers 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/SANA-mental-health-women-coffee-farmers-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SANA-mental-health-women-coffee-farmers-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SANA-mental-health-women-coffee-farmers-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SANA-mental-health-women-coffee-farmers-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SANA-mental-health-women-coffee-farmers-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; When Lucia Bawot published We Belong: An Anthology of Colombian Women Coffee Farmers in March 2023, she never imagined it would inspire her to launch SANA, an integrative psychosocial... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/23/sana-is-supporting-the-mental-health-of-women-coffee-farmers/>
+
+---
+
 ## The Sprudge Guide To Coffee In Toronto For 2025
 
 date: 2025-06-23, from: The Sprudge
@@ -110,6 +188,18 @@ date: 2025-06-23, from: The Sprudge
 <br> 
 
 <https://sprudge.com/the-sprudge-guide-to-coffee-in-toronto-for-2025-332251.html>
+
+---
+
+## The CremaLoop Slow Feeder Pro is Designed to Moderate the Grind
+
+date: 2025-06-23, from: Daily Coffee News
+
+<div><img width="620" height="359" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Slow-Feeder-Pro-1-620x359.png" class="attachment-large size-large wp-post-image" alt="Slow Feeder Pro" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Slow-Feeder-Pro-1-620x359.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Slow-Feeder-Pro-1-300x174.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Slow-Feeder-Pro-1-150x87.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Slow-Feeder-Pro-1-768x445.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Slow-Feeder-Pro-1.png 901w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A young, Zurich, Switzerland-based coffee accessories brand called CremaLoop is launching a tool called the Slow Feeder Pro, designed to throttle the flow of whole coffee beans into a... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/23/the-cremaloop-slow-feeder-pro-is-designed-to-moderate-the-grind/>
 
 ---
 
