@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2025-06-24 06:07:35
+updated: 2025-06-24 14:07:56
 ---
 
 # science and technology
 
-(date: 2025-06-24 06:07:35)
+(date: 2025-06-24 14:07:56)
+
+---
+
+## Microsoft grants stay of execution for Windows 10 users: use OneDrive, and get one additional free year of security updates
+
+date: 2025-06-24, from: OS News
+
+For a while now I&#8217;ve been wondering if Microsoft would blink when it comes to Windows 10&#8217;s rapidly approaching end of support date. Only a few weeks ago, Microsoft at the very least twitched by extending support for Microsoft Office on Windows 10, which should&#8217;ve been an indication of what was to come. Today, Microsoft actually blinked: regular consumers wishing to keep using Windows 10 after support ends in October will now be able to sign up for an additional year of security updates. Microsoft is making this possible by allowing Windows 10 users to sign up for the Windows 10 Extended Security Update program for one year of extended updates, for free. This program is normally only available to paying enterprise customers, and this marks the first time the company is letting regular consumers make use of it. The &#8220;for free&#8221; requires some serious caveats, though, as depending on how you look at it, it&#8217;s not free at all. You options are to either pay around $30, pay 1000 Microsoft points, or to sign up for the Windows Backup application to synchronise your settings to Microsoft&#8217;s computers (the &#8220;cloud&#8221;). This last option is technically free, but not only does the free tier include just 5GB of online storage, it also makes use of OneDrive, so if you&#8217;re using OneDrive to store your documents and other files you may need to pay for additional storage. On top of that, anything that requires the use of OneDrive is simply not &#8220;free&#8221;, and only allows Microsoft to further get its claws in you. If Sartre was alive today, Huis clos would&#8217;ve declared &#8220;L&#8217;enfer, c&#8217;est OneDrive&#8221; instead. Regardless, it&#8217;s the stay of execution many Windows 10 users have been waiting for, even if it isn&#8217;t entirely perfect. Sure, choosing between an unmaintained Windows 10, Windows 11, and using OneDrive is about as pleasant as shoving shards of glass underneath your fingernails, and I have a feeling quite a few people are about to find out. 
+
+<br> 
+
+<https://www.osnews.com/story/142638/microsoft-grants-stay-of-execution-for-windows-10-users-use-onedrive-and-get-one-additional-free-year-of-security-updates/>
+
+---
+
+## LLMs can hoover up data from books, judge rules
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>Anthropic scores a qualified victory in fair use case, but got slapped for using over 7 million pirated copies</h4> <p>One of the most tech-savvy judges in the US has ruled that Anthropic is within its rights to scan purchased books to train its Claude AI model, but that pirating content is legally out of bounds.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/anthropic_book_llm_training_ok/>
+
+---
+
+## IceWM 3.8.0 released
+
+date: 2025-06-24, from: OS News
+
+IceWM, the venerable X11 window manager, has released version 3.8.0, with some small tweaks, bug fixes, and changes. The theme menu now loads faster, the processor and memory graphs use less processor cycles, among other small tidbits. 
+
+<br> 
+
+<https://www.osnews.com/story/142636/icewm-3-8-0-released/>
+
+---
+
+## Axiom Mission 4 finally set for launch June 25
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>Fifth and final Crew Dragon ready for first flight to the ISS tomorrow</h4> <p>NASA has a launch date for Axiom Mission 4. The much-delayed private astronaut expedition is now targeting for liftoff on Wednesday, June 25.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/axiom_mission_4_finally_set/>
+
+---
+
+## WD escapes half a billion in patent damages as judge trims award to $1
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>SPEX Technologies still gets the win, but failed to &#39;adequately tie a dollar amount&#39; to infringing acts, says order</h4> <p>Western Digital has succeeded in having the sum it owed from a patent infringement case reduced from $553 million down to just $1 in post-trial motions, when the judge found the plaintiff&#39;s claims had shifted during the course of the litigation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/wd_escapes_half_a_billion/>
+
+---
+
+## NASA Sets Coverage for Axiom Mission 4 Launch, Arrival at Station
+
+date: 2025-06-24, from: NASA breaking news
+
+NASA, Axiom Space, and SpaceX are targeting 2:31 a.m. EDT, Wednesday, June 25, for launch of the fourth private astronaut mission to the International Space Station, Axiom Mission 4. The mission will lift off from Launch Complex 39A at NASA’s Kennedy Space Center in Florida. The crew will travel to the orbiting laboratory on a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-4-launch-arrival-at-station-2/>
+
+---
+
+## Mozilla rolls out Firefox 140 with ESR status and fresh features
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>Say hello to a year&#39;s support, but bid goodbye to Pocket</h4> <p>The latest Mozilla Firefox is trickling out – and it&#39;s an Extended Support Release (ESR).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/firefox_140_esr/>
+
+---
+
+## Beware of fake SonicWall VPN app that steals users' credentials
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>A good reminder not to download apps from non-vendor sites</h4> <p>Unknown miscreants are distributing a fake SonicWall app to steal users&#39; VPN credentials.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/unknown_crims_using_hacked_sonicwall/>
+
+---
+
+## NASA Astronaut Zena Cardman
+
+date: 2025-06-24, from: NASA breaking news
+
+NASA astronaut Zena Cardman inspects her spacesuit’s wrist mirror in this portrait taken at NASA’s Johnson Space Center in Houston on March 22, 2024. Cardman will launch to the International Space Station as part of NASA’s SpaceX Crew-11 mission. This will be her first spaceflight. Cardman was selected by NASA as a member of the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-astronaut-zena-cardman/>
+
+---
+
+## HPE puts all its chips in the agentic AI pot
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>Another OEM has decided we&#39;re now in the agentic AI age</h4> <p><strong>HPE Discover 2025</strong>  In another sign that AI agents have taken over the enterprise zeitgeist, the theme at HPE Discover this year is all about cramming the automated workflow bots anywhere they&#39;ll fit, whether or not agentic AI is mature for all use cases. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/hpe_puts_all_its_chips/>
+
+---
+
+## NICER Status Updates
+
+date: 2025-06-24, from: NASA breaking news
+
+June 24, 2025 NASA’s NICER (Neutron star Interior Composition Explorer), an X-ray telescope on the International Space Station, has paused observations due to a problem with one of the motors that drives its ability to track cosmic objects. The NICER team paused operations June 17 when performance degradation in the motor began affecting science observations. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/nicer-status-updates/>
+
+---
+
+## Bezos beams up batch two as Project Kuiper plays catch-up with Starlink
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>ULA&#39;s Atlas V deploys second load of Amazon&#39;s broadband satellites</h4> <p>The second batch of Amazon&#39;s Project Kuiper broadband satellites has launched, but Team Bezos has a long way to go to match the coverage of Elon Musk&#39;s Starlink.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/second_project_kuiper_launch/>
+
+---
+
+## AI may be after your job, but this AI agent promises to help you get a new one
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>&#39;Jobright Agent&#39; can apply for jobs on your behalf</h4> <p>The jury is still out on whether AI will take your job, but there&#39;s a new AI tool that promises to help you find a new one if you&#39;re pressed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/ai_may_take_jobs_but/>
+
+---
+
+## Microsoft is about to retire default outbound access for VMs in Azure
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>&#39;Things will break,&#39; Aviatrix CPO tells El Reg</h4> <p><strong>Interview</strong>  In September, Microsoft will retire default outbound access for VMs in Azure. &#34;It&#39;s not quite a Y2K moment,&#34; says Aviatrix CPO Chris McHenry, &#34;but things will break.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/outbound_access_vms_azure/>
+
+---
+
+## Live or Fly a Plane in California? Help NASA Measure Ozone Pollution!
+
+date: 2025-06-24, from: NASA breaking news
+
+Ozone high in the stratosphere protects us from the Sun’s ultraviolet light. But ozone near the ground is a pollutant that harms people and plants. The San Joaquin Valley has some of the most polluted air in the country, and NASA scientists with the new Ozone Where We Live (OWWL) project are working to measure […] 
+
+<br> 
+
+<https://science.nasa.gov/get-involved/citizen-science/live-or-fly-a-plane-in-california-help-nasa-measure-ozone-pollution/>
+
+---
+
+## Xlibre forks to the rescue – but Kubuntu gives X11 the boot
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>Summer Solstice release lands as another distro ditches the old display protocol</h4> <p>Depending on who you ask, the recent turbulent times in the world of X11 could be a new dawn – or the eddies around a sinking ship.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/mixed_news_for_x11/>
 
 ---
 
@@ -93,7 +285,7 @@ date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
 
 ---
 
-## 'Psylo' browser tries to obscure digital fingerprints by giving every tab its own IP address
+## Psylo browser tries to obscure digital fingerprints by giving every tab its own IP address
 
 date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
 

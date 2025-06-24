@@ -1,11 +1,273 @@
 ---
 title: home
-updated: 2025-06-24 06:07:38
+updated: 2025-06-24 14:08:01
 ---
 
 # home
 
-(date: 2025-06-24 06:07:38)
+(date: 2025-06-24 14:08:01)
+
+---
+
+## Van Morrison and The Smiths Recorded Albums Here. Now It’s a Family Home
+
+date: 2025-06-24, from: Dwell
+
+Before a recent renovation by Tuckey Design Studio, Tears for Fears turned the 16th-century building into their home and studio in the ’80s. 
+
+<br> 
+
+<https://www.dwell.com/article/the-wool-hall-tuckey-design-studio-family-home-renovation-5ec0433e>
+
+---
+
+## A Few Nights in Two Florida Keys Resorts, in Search of the All-American Beach Vacation
+
+date: 2025-06-24, from: Dwell
+
+Never having experienced the resort lifestyle, I went straight to the state with the most beachfront hotels to compare two typical options—during peak spring break. 
+
+<br> 
+
+<https://www.dwell.com/article/a-few-nights-in-two-florida-keys-resorts-in-search-of-the-all-american-beach-vacation-ad4c24de>
+
+---
+
+## What Is Waymo? Everything To Know About Google’s Autonomous Cars
+
+date: 2025-06-24, from: Family Handyman Blog
+
+<p>With Waymo stories making news, it's time to find out what this company is and how it may impact your daily life. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/what-is-waymo/">What Is Waymo? Everything To Know About Google’s Autonomous Cars</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/what-is-waymo/>
+
+---
+
+## Building And Planning A Family Compound From The Ground Up
+
+date: 2025-06-24, from: The Tiny Life blog
+
+<p>There’s something incredibly comforting about the idea of living on a compound. When done correctly, family compounds offer a lifestyle that many can only dream of. </p>
+<p>The post <a href="https://thetinylife.com/building-a-family-compound/">Building And Planning A Family Compound From The Ground Up</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/building-a-family-compound/>
+
+---
+
+## How to Interpret Percentage Chance of Rain the Right Way
+
+date: 2025-06-24, from: Family Handyman Blog
+
+<p>Does a 50% chance of rain mean it's time to cancel that outside project? Here's what those percentage chances really mean.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/percentage-chance-of-rain/">How to Interpret Percentage Chance of Rain the Right Way</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/percentage-chance-of-rain/>
+
+---
+
+## Student Driver Stickers—Do They Really Do Anything?
+
+date: 2025-06-24, from: Family Handyman Blog
+
+<p>Student driver stickers on cars are normally given to those who are learning as a comfort but do they actually have any real world implications?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/student-driver-sticker/">Student Driver Stickers—Do They Really Do Anything?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/student-driver-sticker/>
+
+---
+
+## You Can Score a Palatial Apartment on the French Riviera for $2M
+
+date: 2025-06-24, from: Dwell
+
+Built in 1906, the ornate residence has sumptuous interiors, a large central patio, and a 700-square-foot deck overlooking Nice. 
+
+<br> 
+
+<https://www.dwell.com/article/1906-apartment-historic-monument-nice-france-real-estate-d3675d75>
+
+---
+
+## 19 Tiny House Storage Hacks To Elevate Your Home
+
+date: 2025-06-24, from: The Tiny Life blog
+
+<p>Moving into a tiny home forces you to sit down and really reevaluate everything you own. After all, if there’s one thing a tiny house doesn’t have a lot of, it’s space.</p>
+<p>The post <a href="https://thetinylife.com/tiny-house-storage/">19 Tiny House Storage Hacks To Elevate Your Home</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/tiny-house-storage/>
+
+---
+
+## 21 of the Best Flowers for Weed Control
+
+date: 2025-06-24, from: The Gardener's Path
+
+<p>Most of us would rather avoid weeding our gardens. One method for deterring unwanted plants is to grow dense annual or perennial flowers that crowd them out. Plus, you can enjoy a stunning floral display in return! Discover 21 beautiful options, from vibrant dianthus to versatile yarrow, in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/best-flowers-weed-control/">21 of the Best Flowers for Weed Control</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/best-flowers-weed-control/>
+
+---
+
+## 2 Types of Cranes in Wisconsin (With Pictures and Identification)
+
+date: 2025-06-24, from: Yard Life blog
+
+<p>Cranes in Wisconsin are among the most captivating and iconic birds that grace the state’s vast wetlands and open landscapes. ... </p>
+<p class="read-more-container"><a title="2 Types of Cranes in Wisconsin (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/2-types-of-cranes-in-wisconsin-with-pictures-and-identification-2/#more-31079" aria-label="Read more about 2 Types of Cranes in Wisconsin (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/2-types-of-cranes-in-wisconsin-with-pictures-and-identification-2/">2 Types of Cranes in Wisconsin (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/2-types-of-cranes-in-wisconsin-with-pictures-and-identification-2/>
+
+---
+
+## Fruit-Laced Ice Cream Topping Ideas for Summer
+
+date: 2025-06-24, from: California Grown
+
+<p>Picture this: It’s a hot summer day, you’ve got a creamy ice cream bowl of classic vanilla ice cream (or maybe strawberry ice cream if you’re feeling wild), and you’re ready for that first bite. But wait. What’s missing? Oh, just the thing that takes ice cream from good to unforgettable—an epic ice cream topping. [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/ice-cream-topping/" data-wpel-link="internal" target="_self">Fruit-Laced Ice Cream Topping Ideas for Summer</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/ice-cream-topping/>
+
+---
+
+## Why We Didn’t Have a DIY Beach Wedding
+
+date: 2025-06-24, from: Dwell
+
+The idea of getting married on a sandy shore is nice, but executing an event that looks good and is also comfortable for all isn't worth the effort. 
+
+<br> 
+
+<https://www.dwell.com/article/why-we-didnt-have-a-diy-beach-wedding-9e4de295-de66ec3b>
+
+---
+
+## 7 Common Seagulls in Florida (With Pictures and Identification)
+
+date: 2025-06-24, from: Yard Life blog
+
+<p>Seagulls in Florida are a constant presence along shorelines, piers, and coastal towns. Their calls fill the air as they ... </p>
+<p class="read-more-container"><a title="7 Common Seagulls in Florida (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/7-common-seagulls-in-florida-with-pictures-and-identification/#more-31073" aria-label="Read more about 7 Common Seagulls in Florida (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/7-common-seagulls-in-florida-with-pictures-and-identification/">7 Common Seagulls in Florida (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/7-common-seagulls-in-florida-with-pictures-and-identification/>
+
+---
+
+## How a Leaky, Dark, and Dated Bathroom Was Transformed Into a Spa-Like Space
+
+date: 2025-06-24, from: Sunset Magazine - Living in the West
+
+This Oakland, California, bathroom was leaky, dark, and dated. Designer Gina Gutierrez turned it into a spa-like space with clever design. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/oakland-condo-bathroom-before-after>
+
+---
+
+## Inside Two Brewers’ Peaceful, Eco-Friendly Retreat in Sonoma County
+
+date: 2025-06-24, from: Sunset Magazine - Living in the West
+
+Two brewers wanted to build a retreat where they could retire and host love ones. The result is a stunning property full of special details. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/eco-friendly-retreat-sonoma>
+
+---
+
+## This Underrated Island in the Pacific Northwest Is the Perfect Weekend Getaway
+
+date: 2025-06-24, from: Sunset Magazine - Living in the West
+
+Orcas Island is a Pacific Northwest gem that's an agricultural and aquatic wonderland. Here's your itinerary for an Orcas Island trip. 
+
+<br> 
+
+<https://www.sunset.com/travel/things-to-do-on-orcas-island>
+
+---
+
+## Wine Sales Are in Decline—Here’s How Western Wineries Are Reaching Younger Generations
+
+date: 2025-06-24, from: Sunset Magazine - Living in the West
+
+Wine sales have been on a slow but steady decline in recent years, leaving wineries wondering how to reach out to younger generations. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/wine-industry-gen-z-millennials>
+
+---
+
+## Shipping Container Homes: Tips, Tricks & What to Know
+
+date: 2025-06-24, from: The Tiny Life blog
+
+<p>I get asked a lot about shipping container homes when people learn that I’m into tiny houses, and I do have some experience working with these alternative homes.</p>
+<p>The post <a href="https://thetinylife.com/shipping-container-homes-hard-learned/">Shipping Container Homes: Tips, Tricks &#038; What to Know</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/shipping-container-homes-hard-learned/>
+
+---
+
+## This Is the Secret to Designing the Chicest Outdoor Space
+
+date: 2025-06-24, from: Sunset Magazine - Living in the West
+
+Look to your favorite chic hotel for design inspiration for your outdoor space. Experts share how to get the look at home. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/outdoor-living/outdoor-design-inspiration-hotels>
+
+---
+
+## The Summer Solstice Is the Longest Day of the Year—Here’s How to Celebrate It
+
+date: 2025-06-24, from: Sunset Magazine - Living in the West
+
+The summer solstice is upon us, how are you celebrating the start of the summer season and longest day of the year? Here are rituals to try. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/summer-solstice-rituals>
 
 ---
 
@@ -168,18 +430,6 @@ date: 2025-06-23, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/19-sparrows-in-florida-with-pictures-and-identification/>
-
----
-
-## How a Leaky, Dark, and Dated Bathroom Was Transformed Into a Spa-Like Space
-
-date: 2025-06-23, from: Sunset Magazine - Living in the West
-
-This Oakland, California, bathroom was leaky, dark, and dated. Designer Gina Gutierrez turned it into a spa-like space with clever design. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/oakland-condo-bathroom-before-after>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-06-24 06:07:39
+updated: 2025-06-24 14:08:02
 ---
 
 # retro computing
 
-(date: 2025-06-24 06:07:39)
+(date: 2025-06-24 14:08:02)
+
+---
+
+## Power Mac G5 Quad – Which is Faster, PC2-3200U-288 or PC2-4200U-444 RAM?
+
+date: 2025-06-24, from: Happy Macs site
+
+I have always wondered whether equipping your Power Mac G5 Quad with PC2-4200U-444 RAM would make for a faster machine than if the same machine were equipped with PC2-3200U-288 RAM. It seems obvious that the faster RAM ought to make for a faster machine, but as we shall see in a moment, it doesn&#8217;t really [&#8230;] 
+
+<br> 
+
+<https://happymacs.wordpress.com/2025/06/24/power-mac-g5-quad-which-is-faster-pc2-3200u-288-or-pc2-4200u-444-ram/>
 
 ---
 

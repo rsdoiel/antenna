@@ -1,11 +1,74 @@
 ---
 title: pacific
-updated: 2025-06-24 06:07:34
+updated: 2025-06-24 14:07:55
 ---
 
 # pacific
 
-(date: 2025-06-24 06:07:34)
+(date: 2025-06-24 14:07:55)
+
+---
+
+## ʻImi Hoʻōla grads earn entry to JABSOM’s Class of 2029
+
+date: 2025-06-24, from: University of Hawaiʻi News
+
+<p>After a rigorous year of growth, nine students in the program earned their place in the <abbr>JABSOM</abbr> <abbr>MD</abbr> Class of 2029.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/24/imi-hoola-class-of-2029/">ʻImi Hoʻōla grads earn entry to <abbr>JABSOM</abbr>’s Class of 2029</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/24/imi-hoola-class-of-2029/>
+
+---
+
+## Protecting the beauty of reefs bolsters conservation, economy
+
+date: 2025-06-24, from: University of Hawaiʻi News
+
+<p>A new <abbr>UH</abbr> study finds that beautiful reefs rich in colorful, unique fish boost both biodiversity and local economies.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/24/beauty-of-reefs-conservation-economy/">Protecting the beauty of reefs bolsters conservation, economy</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/24/beauty-of-reefs-conservation-economy/>
+
+---
+
+## MIND diet may lower risk of Alzheimer’s disease at any age
+
+date: 2025-06-24, from: University of Hawaiʻi News
+
+<p>A new <abbr>UH</abbr> Cancer Center study based on Multiethnic Cohort data shows that adopting the <abbr>MIND</abbr> diet, even later in life, can help reduce the risk of dementia.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/24/mind-diet-study/">MIND diet may lower risk of Alzheimer’s disease at any age</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/24/mind-diet-study/>
+
+---
+
+## The choice facing Māngere families after Auckland anniversary floods
+
+date: 2025-06-24, from: 
+
+"Just feels like we've been cornered and just given no choice." 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565062/the-choice-facing-mangere-families-after-auckland-anniversary-floods>
+
+---
+
+## Building peace from the ground up: Angela Apa and Kup women for peace
+
+date: 2025-06-24, from: 
+
+Since its inception in 2000, KWP has rescued over 200 women survivors of sorcery accusation-related violence and tribal conflicts. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565063/building-peace-from-the-ground-up-angela-apa-and-kup-women-for-peace>
 
 ---
 

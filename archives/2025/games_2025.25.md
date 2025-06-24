@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-06-24 06:07:36
+updated: 2025-06-24 14:07:59
 ---
 
 # games
 
-(date: 2025-06-24 06:07:36)
+(date: 2025-06-24 14:07:59)
+
+---
+
+## &#8216;I won&#8217;t do it&#8217;: Death Stranding 2&#8217;s first big choice is scaring streamers but shouldn&#8217;t scare you
+
+date: 2025-06-24, updated: 2025-06-24, from: Polygon Website
+
+[Ed. note: This post contains spoilers for the first hour of Death Stranding 2, which is now in early access] Death Stranding 2: On the Beach&#8216;s &#8220;I won&#8217;t do it&#8221; choice, the first in Kojima Productions&#8217; long-awaited sequel, is a bit of a surprise. Here you are, presented with your first main-story mission – and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/608747/death-stranding-2-i-wont-do-it-choice-fragile>
+
+---
+
+## What time does Persona 5: The Phantom X release?
+
+date: 2025-06-24, updated: 2025-06-24, from: Polygon Website
+
+Persona 5: The Phantom X will give you more chances to collect personas and steal even more hearts alongside some new phantom thieves — all from the comfort of your own phone. Persona 5: The Phantom X (also known as P5X) is finally going global after being available for more than a year in countries [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/608542/persona-5-phantom-x-p5x-release-time-date-edt-pdt-bst>
+
+---
+
+## Even The Witcher author is dogpiling on George R. R. Martin now
+
+date: 2025-06-24, updated: 2025-06-24, from: Polygon Website
+
+George R. R. Martin just can’t catch a break, huh? The author of the A Song of Ice and Fire series, which adapted into the HBO show Game of Thrones, is suffering from perhaps the worst case of writer’s block in recorded history; Martin published A Dance with Dragons, the fifth ASOIAF book, in 2011 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/books/608740/witcher-author-george-rr-martin>
+
+---
+
+## 28 Years Later’s ending sets up a very controversial sequel
+
+date: 2025-06-24, updated: 2025-06-24, from: Polygon Website
+
+28 Years Later is a superb, multifaceted horror movie with a lot of different things on its mind, and over its two hours it moves through quite a few tonal shifts: folk horror, coming-of-age family drama, gory action movie, and surreal meditation on societal breakdown. Even in this context, though, the ending is jarring, and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/analysis/608741/28-years-later-ending-jimmy-savile-explained>
+
+---
+
+## Even Shazad Latif found his Star Trek: Discovery story hard to track
+
+date: 2025-06-24, updated: 2025-06-24, from: Polygon Website
+
+Actor Shazad Latif has a long history of playing characters at war with themselves. He portrayed the most archetypal example of internal conflict, Dr. Jekyll and Mr. Hyde, on Penny Dreadful; a Klingon sleeper agent on Star Trek: Discovery; and will soon be playing an Indian Prince who takes the name Nemo as he embarks [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-trek/608703/star-trek-discovery-shazad-latif-voq-story-ash-tyler>
+
+---
+
+## Where to find Grapple Gloves in Fortnite Chapter 6 Season 3
+
+date: 2025-06-24, updated: 2025-06-24, from: Polygon Website
+
+The Grapple Glove has been unvaulted in Fortnite as part of its 14 Days of Summer event. For day one of the summer event, you must swing consecutively with the Grapple Gloves without touching the ground. However, the Grapple Glove is only be available until the day two summer quest releases at 9 a.m. EDT [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/608708/grapple-glove-location-where-to-find-c6s3>
+
+---
+
+## Dropout&#8217;s beloved Dirty Laundry returns with new funny people and cult favorites
+
+date: 2025-06-24, updated: 2025-06-24, from: Polygon Website
+
+Secrets and stories run amok in the new trailer for season 5 of Dirty Laundry, Dropout’s alcohol-infused talk show where contestants reveal truths that can only be willingly shared by the inebriated. One guest admits to a cat kidnapping while another says, “my grandfather’s dick is crazy,” so that should give you an idea of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/608691/dropout-dirty-laundry-season-returns-july-15>
+
+---
+
+## K-Pop Demon Hunters and the Travis Scott doc are blowing up on Netflix — and they’re both weirdly similar
+
+date: 2025-06-24, updated: 2025-06-24, from: Polygon Website
+
+Hype culture is all around us. Industries leverage fandom obsession, distribution companies manufacture scarcity, and social media keeps the FOMO fires burning. In a striking bit of timing, Netflix has two new, wildly different titles that echo the same cautionary message about the cult of celebrity: K-Pop Demon Hunters, an animated pop fantasy, and The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/analysis/608526/k-pop-demon-hunters-trainwreck-astroworld-tragedy>
+
+---
+
+## Beavis and Butthead are snickering their way into Call of Duty Season 4 Reloaded
+
+date: 2025-06-24, updated: 2025-06-24, from: Polygon Website
+
+Mike Judge’s iconic ’90s duo, Beavis and Butthead, are grunting and giggling their way into Call of Duty: Black Ops 6 and Warzone as a part of the game’s upcoming mid-season update. The announcement was shared via a post on the official Call of Duty Twitter (formerly X) page, featuring an image of the skins [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/608690/beavis-and-butthead-are-snickering-their-way-into-call-of-duty-season-4-reloaded>
+
+---
+
+## A Sonic theme park? Sega is eying possibilities
+
+date: 2025-06-24, updated: 2025-06-24, from: Polygon Website
+
+Sega has plans to plant its location-based entertainment flag in America and beyond, and a Sonic the Hedgehog theme park could be on the way. During an interview with Attractions Magazine, Roberta Perry, president of the business development company Roberta Perry &#38; Associates, explained that she has been working closely with Sega to bring its [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/608646/sonic-the-hedgehog-theme-park-usa-sega-possible>
 
 ---
 

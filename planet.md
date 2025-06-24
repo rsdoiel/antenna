@@ -1,19 +1,303 @@
 ---
 title: planet
-updated: 2025-06-24 06:07:32
+updated: 2025-06-24 14:07:53
 ---
 
 # planet
 
-(date: 2025-06-24 06:07:32)
+(date: 2025-06-24 14:07:53)
 
 ---
 
-## Agency overseeing Dublin revival approved by Government
+## Senator Black unlikely to run in Presidential election
 
 date: 2025-06-24, from: RTÉ News
 
-The establishment of a new agency to oversee the rejuvenation of Dublin City Centre has been approved by Government. 
+Independent senator Frances Black has said she now feels it is unlikely she will be running as a candidate in the Presidential election. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0624/1520162-black-presidential-election/>
+
+---
+
+## Windfall to downfall: The inside story of a GAA club's collapse
+
+date: 2025-06-24, from: RTÉ News
+
+Once Ireland's wealthiest GAA club following a €22 million land sale, Parnells went into liquidation earlier this year. Internal club documents obtained by Prime Time show how years of financial mismanagement led to the collapse of the Dublin club. 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0624/1519977-windfall-to-downfall-the-inside-story-of-a-gaa-clubs-collapse/>
+
+---
+
+## Two seriously injured in explosion on ship in Foynes Port
+
+date: 2025-06-24, from: RTÉ News
+
+Two men have been seriously injured following an explosion on a ship at Shannon Foynes Port in Co Limerick this evening. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0624/1520151-foynes-incident/>
+
+---
+
+## Low pay blamed for air traffic controller shortage
+
+date: 2025-06-24, from: RTÉ News
+
+The head of the Defence Forces has blamed the crisis in military air traffic controllers on low pay and competition from the commercial sector. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0624/1520155-defence-committee/>
+
+---
+
+## Vatican Observatory Foundation 2024 Annual Report
+
+date: 2025-06-24, from: Vatican Obervatory
+
+The 2024 Vatican Observatory Annual Report is now available. It opens with a letter from VOF Chairman Mickey Pohl, followed by a note from VOF President Br.... 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/vatican-observatory-foundation-2024-annual-report/>
+
+---
+
+## SF tables motion on presidential voting rights in NI
+
+date: 2025-06-24, from: RTÉ News
+
+Sinn Féin has tabled a motion seeking to extend presidential voting rights to Irish citizens in Northern Ireland and overseas. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0624/1520144-presidential-voting-northern-ireland/>
+
+---
+
+## Galway Film Fleadh reels in 44 Irish features
+
+date: 2025-06-24, from: RTÉ News
+
+Forty-four Irish feature films are part of next month's Galway Film Fleadh, organisers have announced. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0624/1520095-galway-film-fleadh-reels-in-44-irish-features/>
+
+---
+
+## Iran-Israel war: latest developments
+
+date: 2025-06-24, from: RTÉ News
+
+Israel and Iran said they had agreed to US President Donald Trump's proposal for a ceasefire, on the 12th day of war between the foes. Here are the latest developments: 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0624/1520134-iran-israel-war/>
+
+---
+
+## How Iran's strikes on Qatari soil set up Israel truce
+
+date: 2025-06-24, from: RTÉ News
+
+Iran's unprecedented strikes on a US base in Qatar were carefully calculated to provide an exit from hostilities with Washington and set up a truce with Israel, according to analysts and an official. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0624/1520125-iran-strikes/>
+
+---
+
+## Search concludes at house in McCarrick investigation
+
+date: 2025-06-24, from: RTÉ News
+
+A search has concluded at a house in Dublin as part of the investigation into the disappearance and murder of Annie McCarrick. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0624/1520124-search-mccarrick-investigation/>
+
+---
+
+## Tánaiste criticises Hungary's block on Ukraine-EU talks
+
+date: 2025-06-24, from: RTÉ News
+
+The Tánaiste Simon Harris has accused Hungary of an "appalling act" in constantly blocking Ukraine from entering accession talks with the European Union. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0624/1520119-ukraine-ireland/>
+
+---
+
+## Survivors feel 'distress' over Mother and Baby scheme
+
+date: 2025-06-24, from: RTÉ News
+
+Eligibility requirements currently part of the Mother and Baby Institutions Payment Scheme have caused anger and distress to many survivors, according to the Special Advocate for Survivors. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0624/1520113-mother-baby-institutions-payment-scheme/>
+
+---
+
+## Cast and crew of 'The Chosen' host premiere screening in Vatican
+
+date: 2025-06-24, from: Vatican News
+
+
+                    <p>Members of 'The Chosen' TV series travel to Rome to discuss the importance of the newest season and its role in connecting viewers to Jesus.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/the-chosen-cast-and-crew-host-a-premiere-screening-in-vatican-ci.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/the-chosen-cast-and-crew-host-a-premiere-screening-in-vatican-ci.html>
+
+---
+
+## Man jailed over fatal road crash in Roscommon last year
+
+date: 2025-06-24, from: RTÉ News
+
+The mother of a young man killed in a two-vehicle collision involving a lorry and a car in Co Roscommon last year has said that they are "paying the ultimate price" for a truck driver's dangerous driving and she has appealed to all commercial drivers to put safety above all else. 
+
+<br> 
+
+<https://www.rte.ie/news/connacht/2025/0624/1520115-roscommon-crash/>
+
+---
+
+## New paper continues debate over link between lice from salmon farms and B.C. wild salmon
+
+date: 2025-06-24, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.4946607.1718850859!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/fish-health-audit-20181101.jpg' alt='sea farm with nets' width='620' height='349' title='The Okisollo fish farm is pictured during a DFO fish health audit near Campbell River, B.C. on Oct. 31, 2018.  '/><p>A new paper on sea lice from fish farms and wild salmon in B.C. shows a significant relationship between the two and critics say that contradicts a report from the federal government, which regulates the fish farms. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/salmon-farm-wild-lice-new-paper-1.7560737?cmp=rss>
+
+---
+
+## Food prices 'out of control', Dáil hears
+
+date: 2025-06-24, from: RTÉ News
+
+Households are being "hammered left, right, and centre" because food prices are "out of control", the Sinn Féin leader has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0624/1520100-leaders-questions/>
+
+---
+
+## RTÉ's Upfront programme to end after three seasons
+
+date: 2025-06-24, from: RTÉ News
+
+RTÉ has confirmed its Monday night television series Upfront with Katie Hannon has ended and will not be returning in September following three seasons on air. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0624/1520104-upfront-rte/>
+
+---
+
+## Ticket scam warning ahead of summer's big gigs
+
+date: 2025-06-24, from: RTÉ News
+
+Ahead of some huge gigs and festivals happening in Ireland this summer, Ticketmaster has shared its top tips on how to avoid ticketing scams and counterfeit tickets when attending live events. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0624/1520099-ticketmaster-shares-top-tips-to-avoid-ticket-scams/>
+
+---
+
+## For New York City mayoral candidates, the future could hinge on ranked ballots
+
+date: 2025-06-24, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7569390.1750785016!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/us-election-2025-nyc-mayor.jpg' alt='Two men are shown in a composite photo.' width='620' height='349' title='FILE- This combination photo shows on left, Democratic mayoral candidate Andrew Cuomo speaking during a Democratic mayoral primary debate, Wednesday, June 4, 2025, in New York and on right, Assemblyman Zohran Mamdani talking to people after the New York City Democratic Mayoral Primary Debate at the John Jay College of Criminal Justice in the Gerald W. Lynch Theater on Thursday, June 12, 2025 in New York City.  (AP Photo/Yuki Iwamura, file and Vincent Alban/The New York Times via AP, Pool, file)'/><p>New York City is using ranked-choice voting in its Democratic mayoral primary election on Tuesday, which means the final outcome might not be known until the second- or third-choice votes are counted.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/nyc-democratic-primary-cuomo-mamdani-1.7569184?cmp=rss>
+
+---
+
+## Vera C. Rubin Observatory First Images
+
+date: 2025-06-24, from: Vatican Obervatory
+
+The Vera Rubin Observatory has released its first images - they are astounding visually, and immense in size! 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/vera-c-rubin-observatory-first-images/>
+
+---
+
+## Jailed ex-principal took childhood away, survivor says
+
+date: 2025-06-24, from: RTÉ News
+
+A survivor of indecent assault perpetrated by a former school principal has said the prinicipal took away his childhood. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0624/1520097-aidan-clohessy-court/>
+
+---
+
+## Pope Leo XIV sends telegram to victims of Damascus bombing
+
+date: 2025-06-24, from: Vatican News
+
+
+                    <p>In a telegram on June 24, the Pope joins his voice to that of others offering their condolences and prayers for the victims and their families of the suicide bombing at St. Elias church in Damascus, Syris.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-sends-telegram-to-victims-of-damascus-bombing.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-sends-telegram-to-victims-of-damascus-bombing.html>
+
+---
+
+## Woman blinded in attack tells court of devastating impact
+
+date: 2025-06-24, from: RTÉ News
+
+A young woman who was left blind in one eye after an attack in Dublin almost four years ago has told a court she will never be the woman she was supposed to be. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0624/1520088-jack-cummins-court/>
+
+---
+
+## Body overseeing Dublin revival approved by Government
+
+date: 2025-06-24, from: RTÉ News
+
+The establishment of a new body to oversee the rejuvenation of Dublin City Centre has been approved by Government. 
 
 <br> 
 
@@ -61,6 +345,114 @@ date: 2025-06-24, from: Vatican News
 
 ---
 
+## UN urges renewed diplomacy on Iran nuclear deal, hails Tehran-Tel Aviv ceasefire as ‘significant achievement’
+
+date: 2025-06-24, from: United Nations, Top Stories
+
+A fragile ceasefire brokered by the United States between Iran and Israel appears to be holding, marking a tentative halt to a dangerous regional escalation that included airstrikes, retaliatory missile attacks and mounting civilian casualties.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164901>
+
+---
+
+## Bold new initiative aims to strengthen and improve the UN, senior officials tell Member States
+
+date: 2025-06-24, from: United Nations, UN Affairs
+
+Member States heard on Tuesday how the UN is progressing with a new plan to ensure the world body remains effective, cost-efficient and responsive to the billions of people it serves.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164896>
+
+---
+
+## Aftermath of Tripoli clashes puts Libya’s fragile stability to the test
+
+date: 2025-06-24, from: United Nations, Top Stories
+
+Libya once again stands at a critical juncture in its political transition, after armed clashes erupted in Tripoli last month, further destabilising the country, the UN Special Representative for the country told the Security Council on Tuesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164891>
+
+---
+
+## World News in Brief: Türk speaks out on sexual violence, Brazil floods update, Nicaraguan human rights violations
+
+date: 2025-06-24, from: United Nations, Top Stories
+
+Gender-based violence is rising - especially in conflict – something which is a “shameless repudiation of the basic rules of warfare,” according to the UN human rights chief&nbsp;Volker Türk. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164886>
+
+---
+
+## ‘Still reeling’: Myanmar quakes worsen humanitarian crisis in fractured country
+
+date: 2025-06-24, from: United Nations, Top Stories
+
+Nearly three months after Myanmar’s strongest earthquake in a century, more than six million people remain in urgent need of assistance, as the disaster compounds a humanitarian crisis driven by years of conflict, political turmoil and mass displacement. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164881>
+
+---
+
+## SECURITY COUNCIL LIVE: Political Affairs chief hails Iran-Israel ceasefire as ‘significant achievement’
+
+date: 2025-06-24, from: United Nations, Top Stories
+
+The Security Council is meeting over the future of the Joint Comprehensive Plan of Action put in place in 2015 to prevent Iran from weaponising its ambitious nuclear programme, which has been in effective limbo since the US withdrawal in 2018 and Iran’s rejection of parts of the deal. UN political affairs chief Rosemary DiCarlo described the US-brokered ceasefire overnight between Israel and Iran as a “significant achievement” and “an opportunity to avoid a catastrophic escalation and achieve a peaceful resolution of the Iran nuclear issue.” Follow our Meetings Coverage Section live coverage below and UN News app users can follow here. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164876>
+
+---
+
+## Power to the people; funding community-led development in Somalia
+
+date: 2025-06-24, from: United Nations, Top Stories
+
+A story of grassroots persistence in Somalia could serve as a powerful reminder of the impact of innovative financing mechanisms as the international community meets in Spain to discuss how to fund global sustainable development. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164871>
+
+---
+
+## Resettlement changed her life. Now she’s fighting for others to have the same chance
+
+date: 2025-06-24, from: United Nations, Top Stories
+
+Once a teenager without legal status or access to education, Madiha Ali Changezi is now speaking out as a living example of what refugee resettlement can achieve.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164866>
+
+---
+
+## Guterres urges Iran and Israel to ‘fully respect’ ceasefire
+
+date: 2025-06-24, from: United Nations, Top Stories
+
+The UN Secretary-General on Tuesday welcomed the ceasefire announcement between Iran and Israel which was announced on social media overnight by US President Donald Trump. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164851>
+
+---
+
 ## Pope Leo confirms election of Fr Francesco Ielpo as new Custos of the Holy Land
 
 date: 2025-06-24, from: Vatican News
@@ -74,6 +466,18 @@ date: 2025-06-24, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-confirms-election-of-fr-francesco-ielpo-as-new-custos.html>
+
+---
+
+## U.S. truckers fear job loss as new English language rules take effect
+
+date: 2025-06-24, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7569368.1750777431!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/truckers-english-only.jpg' alt='Trucking students practice reverse parking in training trucks at the Driving Academy on Thursday, Sept. 14, 2017 in Linden, N.J., where students prepare to obtain a Commercial Driver’s License (CDL) with multilingual instructors. ' width='620' height='349' title='Trucking students practice reverse parking in training trucks at the Driving Academy on Thursday, Sept. 14, 2017 in Linden, N.J., where students prepare to obtain a Commercial Driver’s License (CDL) with multilingual instructors. '/><p>Requiring truck drivers to speak and read English isn't new, but the penalty for not meeting the proficiency standard is becoming more severe.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/windsor/us-truckers-fear-job-loss-new-english-language-rules-1.7569308?cmp=rss>
 
 ---
 
@@ -105,6 +509,18 @@ date: 2025-06-24, from: Vatican News
 
 ---
 
+## Russian attacks on Ukraine kill 18 as Zelenskyy meets Western leaders
+
+date: 2025-06-24, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7569235.1750772652!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/nato-summit.JPG' alt='A man in a jacket with a beard stands next to a man in a suit near a NATO flag.' width='620' height='349' title='NATO Secretary General Mark Rutte speaks next to Ukraine&apos;s President Volodymyr Zelenskiy, European Commission President Ursula von der Leyen (not pictured) and European Council President Antonio Costa (not pictured) on the first day of a NATO summit in The Hague, Netherlands June 24, 2025. REUTERS/Yves Herman'/><p>Russian drones, missiles and artillery killed at least 18 civilians and injured more than 100 others in Ukraine, officials said Tuesday, as Ukrainian President Volodymyr Zelenskyy sought guarantees of further Western military aid for his country's efforts to repel Russia's invasion.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/ukraine-russia-1.7569204?cmp=rss>
+
+---
+
 ## Pope Leo to seminarians: Be passionate about priestly life
 
 date: 2025-06-24, from: Vatican News
@@ -118,6 +534,18 @@ date: 2025-06-24, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-to-seminarians-be-passionate-about-priestly-life.html>
+
+---
+
+## Relatives to take legal action over Omagh inquiry refusal
+
+date: 2025-06-24, from: RTÉ News
+
+Relatives of those killed in the Omagh bombing said they are preparing to take legal action over the refusal of the Irish government to establish a public inquiry in the Republic over the 1998 bombing. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0624/1520048-omagh-inquiry/>
 
 ---
 
@@ -141,7 +569,7 @@ date: 2025-06-24, from: Vatican News
 
 date: 2025-06-24, from: RTÉ News
 
-The UN human rights office has said that the "weaponisation" of food for civilians in Gaza constitutes a war crime, in its strongest remarks yet on a new model of aid distribution run by a US- and Israeli-backed organisation. 
+The UN human rights office has said that the "weaponisation" of food for civilians in Gaza constitutes a war crime, in its strongest remarks yet on a new model of aid distribution run by a US and Israeli-backed organisation. 
 
 <br> 
 
@@ -161,12 +589,12 @@ A former school principal who was convicted of the indecent assault of six boys 
 
 ---
 
-## Msgr. Formica: 'Urgent moral responsibility to address poverty'
+## Holy See: 'Urgent moral responsibility to address poverty'
 
 date: 2025-06-24, from: Vatican News
 
 
-                    <p>During the UN Security Council's Open Debate on Poverty, Underdevelopment, and Conflict in New York, Msgr. Marco Formica, official of the Vatican Secretariat of State, 'underscores the urgent moral responsibility to address the root causes of poverty,' and reiterates the Holy See's concern regarding 'the ever-growing military expenditure, which diverts significant resources from investments in development sectors such as healthcare, education and infrastructure.'</p>
+                    <p>During the UN Security Council's Open Debate on Poverty, Underdevelopment, and Conflict in New York, the Holy See 'underscores the urgent moral responsibility to address the root causes of poverty,' and reiterates concern regarding 'the ever-growing military expenditure, which diverts significant resources from investments in development sectors such as healthcare, education and infrastructure.'</p>
                     <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/msgr-formica-on-urgent-moral-responsibility-to-address-causes.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -189,11 +617,11 @@ The Health Service Executive has said agreement has been reached with health uni
 
 ---
 
-## NATO summit seeks to keep Trump happy, alliance united
+## Trump rattles NATO allies as he descends on summit
 
 date: 2025-06-24, from: RTÉ News
 
-NATO leaders will seek to lock in US President Donald Trump's commitment to their alliance with a summit pledge to boost defence spending, as they gather in The Hague with global tensions soaring over Iran. 
+US President Donald Trump swept into NATO's Hague summit, with allies hoping a pledge to ramp up defence spending will keep the mercurial leader of the military superpower committed to protecting them. 
 
 <br> 
 
@@ -201,11 +629,11 @@ NATO leaders will seek to lock in US President Donald Trump's commitment to thei
 
 ---
 
-## Man, 20s, killed in Dublin hit-and-run incident
+## Man arrested over fatal hit-and-run incident in Dublin
 
 date: 2025-06-24, from: RTÉ News
 
-A man in his 20s has died in a hit-and-run incident in Co Dublin. 
+A man has been arrested in connection with a fatal hit-and-run incident in Dublin, in which a man in his 30s died. 
 
 <br> 
 
@@ -213,7 +641,7 @@ A man in his 20s has died in a hit-and-run incident in Co Dublin.
 
 ---
 
-## Little Blue heroes get VIP treatment at Leinster House
+## Little Blue Heroes get VIP treatment at Leinster House
 
 date: 2025-06-24, from: RTÉ News
 
@@ -225,11 +653,11 @@ Leinster House is playing host to a group of very special VIP guests from Co Tip
 
 ---
 
-## Oil slumps as Iran-Israel ceasefire goes into effect
+## Oil extends losses as Israel and Iran ceasefire wobbles
 
 date: 2025-06-24, from: RTÉ News
 
-Oil prices extended losses to hit a two-week low today after Israel agreed to US President Donald Trump's proposal for a ceasefire with Iran, alleviating worries over supply disruptions in the Middle East. 
+Oil prices extended losses today to hit a two-week low on what the market viewed as lower risk of supply disruptions in the Middle East, though US President Donald Trump accused both Israel and Iran of violating a ceasefire he helped to broker. 
 
 <br> 
 
@@ -261,11 +689,11 @@ Plans to overhaul how Leaving Certificate students are assessed will be discusse
 
 ---
 
-## Trump tells Israel 'do not drop those bombs' on Iran
+## US set back Iran nuclear programme by months - sources
 
 date: 2025-06-24, from: RTÉ News
 
-Follow live developments as US President Donald Trump accused both Israel and Iran of violating a ceasefire, hours after he announced it. 
+Follow live developments as some NATO members called on Iran to come to the negotiating table with a fragile ceasefire with Israel appearing to hold. 
 
 <br> 
 
@@ -321,11 +749,23 @@ Stakeholders across Ireland are working collaboratively to establish an Irish wo
 
 ---
 
-## U.S. expecting NATO members to show them the money at leaders' summit
+## First Nations families in Ontario protest development laws by reasserting presence on the land
+
+date: 2025-06-24, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7568646.1750702714!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jeronimo-kataquapit-and-family.jpg' alt='Four memebrs of a family sit and stand on a rock.' width='620' height='349' title='Jeronimo Kataquapit and his family are planting family flags and teepee poles every half kilometre along the Attawapiskat river to demonstrate their continued use of the land. '/><p>A family from Attawapiskat First Nation is protesting new Ontario and federal legislation by travelling the river system, where they're planting flags symbolizing Indigenous presence on the land.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/sudbury/first-nations-families-in-ontario-protest-development-laws-by-reasserting-presence-on-the-land-1.7568643?cmp=rss>
+
+---
+
+## NATO's 5% benchmark would cost Canada $150B a year, Carney says
 
 date: 2025-06-24, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7528395.1746584077!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/february-2022-file-photo-showing-f-a-18-landing-on-uss-harry-s-truman-aircraft-carrier.JPG' alt='A fighter jet landing on the USS Harry S. Truman aircraft carrier on Feb. 2, 2022.' width='620' height='349' title='A military plane F/A-18 lands onboard aircraft carrier USS Harry S. Truman, in the Adriatic Sea, February 2, 2022. '/><p></p> 
+<img src='https://i.cbc.ca/1.7569630.1750788405!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/carney-europe-20250624.jpg' alt='A man is seen from the side.' width='620' height='349' title='Prime Minister Mark Carney takes part in a meeting on the sidelines of the NATO Summit in The Hague, Netherlands on Tuesday, June 24, 2025. THE CANADIAN PRESS/Sean Kilpatrick'/><p></p> 
 
 <br> 
 
@@ -390,6 +830,18 @@ date: 2025-06-23, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/canada/british-columbia/nigerian-man-convicted-bc-sextortion-1.7569049?cmp=rss>
+
+---
+
+## Treaty 1 First Nations leaders say gas bar at Naawi-Oodena will bring 'a brighter economic future'
+
+date: 2025-06-23, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7568889.1750714034!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/oodena-gas-bar-opening-in-winnipeg-june-23-2025.jpeg' alt='Blue, white and black gas station with signage that reads &quot;Oodena Gas and Convenience&quot;' width='620' height='349' title='On Monday, June 23, 2025, Treaty One First Nations held a soft opening event for the new Oodena gas bar and convenience store, located at 1871 Taylor Avenue in Winnipeg. The store is set to open to the public on June 30 and will operate 24 hours a day, seven days a week. '/><p>On Monday, Treaty One Development Corp. held a soft opening event for the Oodena Gas & Convenience filling station. It is set to open to the public on June 30, operating every day for 24 hours a day. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/treaty-one-first-nations-naawi-oodena-gas-station-opening-1.7568782?cmp=rss>
 
 ---
 
@@ -1463,7 +1915,7 @@ Tánaiste and Minister for Foreign Affairs Simon Harris has said that 15 Irish c
 
 date: 2025-06-22, from: CBC, Indigenious News
 
-<img src='https://i.cbc.ca/1.7550703.1749776147!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/highway-373-closed-toward-cross-lake.jpeg' alt='A road closed sign stands on a highway in the foreground. In the background is an RCMP vehicle. The sky is clouded in smoke from forest fires. ' width='620' height='349' title='Highway 373 toward Pimicikamak Cree Nation and Cross Lake, Man., was closed just off near the junction with Highway 6 due to wildfires on June 2, 2025.'/><p>Lori Osborne, her four children and her partner, Stephan Robinson, were among the thousands who had to leave Pimicikimak Cree Nation in northern Manitoba due to the threat of wildfires. She diarized their journey through photos and notes. </p> 
+<img src='https://i.cbc.ca/1.7550703.1750791966!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/highway-373-closed-toward-cross-lake.jpeg' alt='A road closed sign stands on a highway in the foreground. In the background is an RCMP vehicle. The sky is clouded in smoke from forest fires. ' width='620' height='349' title='Highway 373 toward Pimicikamak Cree Nation and Cross Lake, Man., was closed just off near the junction with Highway 6 due to wildfires on June 2, 2025.'/><p>Lori Osborne, her four children and her partner, Stephan Robinson, were among the thousands who had to leave Pimicikimak Cree Nation in northern Manitoba due to the threat of wildfires. She diarized their journey through photos and notes. </p> 
 
 <br> 
 

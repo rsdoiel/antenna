@@ -1,11 +1,26 @@
 ---
 title: small papers
-updated: 2025-06-24 06:07:40
+updated: 2025-06-24 14:08:04
 ---
 
 # small papers
 
-(date: 2025-06-24 06:07:40)
+(date: 2025-06-24 14:08:04)
+
+---
+
+## 19-year-old woman arrested on suspicion of fatally shooting young man
+
+date: 2025-06-24, from: Long Beach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>She was arrested last week on unrelated charges and rebooked on suspicion of murder, jail records show.</p>
+<p>The post <a href="https://lbpost.com/news/19-year-old-woman-arrested-on-suspicion-of-fatally-shooting-young-man">19-year-old woman arrested on suspicion of fatally shooting young man</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/19-year-old-woman-arrested-on-suspicion-of-fatally-shooting-young-man>
 
 ---
 
@@ -28,7 +43,7 @@ date: 2025-06-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-06-23, from: Long Beach Post
 
-<figure><img width="1024" height="748" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-1024x748.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-1024x748.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-300x219.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-768x561.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-148x108.jpg 148w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-400x292.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="748" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-1024x748.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-1024x748.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-300x219.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-768x561.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-148x108.jpg 148w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-400x292.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>“Losing him has hit our group hard. It’s the kind of pain that doesn’t just go away,” said one friend, who is among those planning ways to honor his memory.</p>
 <p>The post <a href="https://lbpost.com/news/crime/15-year-old-killed-bus-bench-long-beach-carlos-ramirez">Friends, family mourn 15-year-old killed when driver hit bus bench</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

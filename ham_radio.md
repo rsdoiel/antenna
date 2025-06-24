@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-06-24 06:07:34
+updated: 2025-06-24 14:07:55
 ---
 
 # ham radio
 
-(date: 2025-06-24 06:07:34)
+(date: 2025-06-24 14:07:55)
+
+---
+
+## New EDA tools arrive for chiplet integration, package verification
+
+date: 2025-06-24, from: EDN Blog
+
+<img width="931" height="935" src="https://www.edn.com/wp-content/uploads/Hero-image-3D-IC-design.jpg?fit=931%2C935" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-3D-IC-design.jpg?w=931 931w, https://www.edn.com/wp-content/uploads/Hero-image-3D-IC-design.jpg?w=150 150w, https://www.edn.com/wp-content/uploads/Hero-image-3D-IC-design.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-3D-IC-design.jpg?w=768 768w" sizes="(max-width: 931px) 100vw, 931px" /><p>Two EDA solutions aim to streamline the design and analysis of complex, heterogeneously integrated 3D ICs.</p>
+<p>The post <a href="https://www.edn.com/new-eda-tools-arrive-for-chiplet-integration-package-verification/">New EDA tools arrive for chiplet integration, package verification</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/new-eda-tools-arrive-for-chiplet-integration-package-verification/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-06-24 06:07:34
 
 date: 2025-06-24, from: EDN Blog
 
-<img width="1130" height="843" src="https://www.edn.com/wp-content/uploads/DIYIsolationTransformer_Figure2.png?fit=1130%2C843" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/DIYIsolationTransformer_Figure2.png?w=1130 1130w, https://www.edn.com/wp-content/uploads/DIYIsolationTransformer_Figure2.png?w=300 300w, https://www.edn.com/wp-content/uploads/DIYIsolationTransformer_Figure2.png?w=768 768w, https://www.edn.com/wp-content/uploads/DIYIsolationTransformer_Figure2.png?w=1024 1024w" sizes="(max-width: 1130px) 100vw, 1130px" /><p>Using a reconfigured common-mode choke as an isolation transformer to analyze the open-loop response of a Peltz oscillator.</p>
+<img width="1130" height="843" src="https://www.edn.com/wp-content/uploads/DIYIsolationTransformer_Figure2.png?fit=1130%2C843" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/DIYIsolationTransformer_Figure2.png?w=1130 1130w, https://www.edn.com/wp-content/uploads/DIYIsolationTransformer_Figure2.png?w=300 300w, https://www.edn.com/wp-content/uploads/DIYIsolationTransformer_Figure2.png?w=768 768w, https://www.edn.com/wp-content/uploads/DIYIsolationTransformer_Figure2.png?w=1024 1024w" sizes="auto, (max-width: 1130px) 100vw, 1130px" /><p>Using a reconfigured common-mode choke as an isolation transformer to analyze the open-loop response of a Peltz oscillator.</p>
 <p>The post <a href="https://www.edn.com/diy-isolation-transformer-enhances-bode-analysis-with-modern-dsos/">DIY isolation transformer enhances Bode analysis with modern DSOs</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

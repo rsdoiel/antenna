@@ -1,11 +1,126 @@
 ---
 title: writing
-updated: 2025-06-24 06:07:36
+updated: 2025-06-24 14:07:58
 ---
 
 # writing
 
-(date: 2025-06-24 06:07:36)
+(date: 2025-06-24 14:07:58)
+
+---
+
+## 2025 British Fantasy Awards Shortlist
+
+date: 2025-06-24, from: Locus Magazine
+
+<p>The British Fantasy Society (BFS) has announced the shortlist for the 2025 British Fantasy Awards:</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Fantasy Novel (the Robert Holdstock Award)</strong></p>
+<ul>
+<li><strong>Long Live Evil</strong>, Sarah Rees Brennan (Orbit)</li>
+<li><strong>Fathomfolk</strong>, Eliza Chan (Orbit)</li>
+<li><strong>A Shadow Over Haven</strong>, David Green (Eerie River)</li>
+<li><strong>The Green Man’s War</strong>, Juliet E. McKenna (Wizard’s Tower)</li>
+<li><strong>Masquerade</strong>, O.O. Sangoyomi (Forge)</li>
+</ul>
+<p><strong>Best Horror Novel (the August Derleth Award)</strong></p>
+<ul>
+<li><strong>Withered Hill</strong>, David </li></ul></div> <a href="https://locusmag.com/2025/06/2025-british-fantasy-awards-shortlist/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/06/2025-british-fantasy-awards-shortlist/>
+
+---
+
+## Anthropic wins on fair use for training its LLMs; loses on building a “central library” of pirated books
+
+date: 2025-06-24, from: Author's Union blog
+
+Yesterday, Judge Alsup released his decision on Anthropic’s motion for summary judgment in the fast-moving lawsuit it is defending, brought [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/06/24/anthropic-wins-on-fair-use-for-training-its-llms-loses-on-building-a-central-library-of-pirated-books/>
+
+---
+
+## New Book Releases: June 24, 2025
+
+date: 2025-06-24, from: Locus Magazine
+
+<p></p>
+<p style="text-align: center;"><strong data-wp-editing="1">Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
+
+<p style="text-align: center;"><strong>New science fiction, fantasy, and horror books for the week of June 24, 2025. </strong></p>
+<p>Barker, Clive: <b> Jump Tribe</b> (Subterranean Press 978-1645242000, $45.00, 96pp, formats: hardcover, ebook, 06/30/2025)</p>
+<p>Collection of four stories and four poems originally published individually to go with the plush toy series. Yaboo and Twoth must rescue Billum, their friend, who  <a href="https://locusmag.com/2025/06/new-book-releases-june-24-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/new-book-releases-june-24-2025/>
+
+---
+
+## 7 Screenwriting Prompts and Exercises to Strengthen Your Screenplay
+
+date: 2025-06-24, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/7-exercises-to-reboot-your-writing-process" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Uma%20Thurman%20%20in%20Kill%20Bill%20Vol.%201.png" alt="Uma Thurman brandishing a sword and standing at the ready in her yellow jumpsuit in Kill Bill: Vol. 1" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p style="font-size: 16px;">Inspiration doesn’t come easy for many screenwriters, and oftentimes certain mental tricks and daily routines are required to spur or facilitate the writing process. This is why <span style="font-weight: bold;">screenwriting prompts and exercises</span> are used by many writers looking to <a href="https://blog.finaldraft.com/staying-motivated-as-a-screenwriter">stay motivated</a> and write to the best of their abilities. Sometimes all it takes is asking yourself the right question to get the gears of your mind working. Similarly, a consistent <a href="https://blog.finaldraft.com/creating-a-personal-work-routine-for-your-writing">work routine</a> can keep you productive and in <a href="https://blog.finaldraft.com/5-tips-to-staying-in-screenwriting-shape">great screenwriting shape</a>. &nbsp; &nbsp;&nbsp;<br><br>The below prompts and exercises can help you come up with ideas, improve your writing, overcome creative fatigue, build consistency and reignite your momentum. They will not only help you to finish your screenplay but also strengthen it.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/7-exercises-to-reboot-your-writing-process>
+
+---
+
+## Crafting the Perfect Villain
+
+date: 2025-06-24, from: John August blog
+
+<p>In this craft compendium, John and Craig take a look at everything you need to make your bad guys compelling, memorable, and the perfect antagonist for your story. Using some favorite villains as examples, they look at the importance of understanding their motivations and offer seven tips for making a villain unforgettable. We also take [&#8230;]</p>
+The post <a href="https://johnaugust.com/2025/crafting-the-perfect-villain">Crafting the Perfect Villain</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/crafting-the-perfect-villain>
+
+---
+
+## Sọmadịna by Akwaeke Emezi: Review by Alex Brown
+
+date: 2025-06-24, from: Locus Magazine
+
+<p><strong>Sọmadịna</strong>, Akwaeke Emezi (Knopf 978-0-59330-907-0, $19.99. 304pp, hc) April 2025. Cover by Paul Davey.</p>
+<p>In Akwaeke Emezi’s Sọmadịna, 15-year-old twins Sọmadịna and Jayaike are different from other children in their village. They were a gift from Ala, the god of this world, to their mother, but like all god-given gifts, there are strings attached. Where their agemates’ bodies are maturing, theirs remain small and underdeveloped. Where their friends have  <a href="https://locusmag.com/2025/06/somadina-by-akwaeke-emezi-review-by-alex-brown/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/somadina-by-akwaeke-emezi-review-by-alex-brown/>
+
+---
+
+## 2025 Premios Kelvin Winners
+
+date: 2025-06-24, from: Locus Magazine
+
+<p>Winners have been announced for the 2025 Premios Kelvin 505 Awards, presented by the Celsius 232 festival and honoring the best science fiction, fantasy, and horror novels published in Spain.</p>
+<div class="nobullets">
+<p><strong>Mejor Novela Original (Best Original Novel)</strong></p>
+<ul>
+<li>WINNER: <strong>La península de las casas vacías</strong>, David Uclés (Siruela)</li>
+</ul>
+<ul>
+<li><strong>Epifanía</strong>, J.V. Gachs (Dolmen)</li>
+<li><strong>La casa de los cien escalones</strong>, David Jasso (Obscura)</li>
+<li><strong>La noche de Venus</strong>, Rubén Sánchez Trigos </li></ul></div> <a href="https://locusmag.com/2025/06/2025-premios-kelvin-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/06/2025-premios-kelvin-winners/>
 
 ---
 

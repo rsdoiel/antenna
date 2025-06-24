@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2025-06-24 06:07:38
+updated: 2025-06-24 14:08:01
 ---
 
 # motorcycles
 
-(date: 2025-06-24 06:07:38)
+(date: 2025-06-24 14:08:01)
+
+---
+
+## INDYCAR Power Rankings: After Kirkwood earns first oval victory, Alex Palou wins at Road America to strengthen hold on No. 1 spot
+
+date: 2025-06-24, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer After a one-week hiatus, the INDYCAR power rankings are back and to the surprise of nobody, Alex Palou remains on top after his sixth win&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/indycar-power-rankings-after-kirkwood-earns-first-oval-victory-alex-palou-wins-at-road-america-to-strengthen-hold-on-no-1-spot/>
+
+---
+
+## Italian Fans Who Booed at MotoGP Need To Move on and Show More Respect
+
+date: 2025-06-24, from: Ride Apart, Electric Motorcycle News
+
+It's old news, and these riders are putting their lives on the line. Show some bloody respect. 
+
+<br> 
+
+<https://www.rideapart.com/news/763485/italian-motogp-fans-boo-marquez/>
 
 ---
 

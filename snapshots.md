@@ -1,11 +1,264 @@
 ---
 title: snapshots
-updated: 2025-06-24 06:07:41
+updated: 2025-06-24 14:08:05
 ---
 
 # snapshots
 
-(date: 2025-06-24 06:07:41)
+(date: 2025-06-24 14:08:05)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-24, from: Dave Winer's linkblog)
+
+Key fair use ruling clarifies when books can be used for AI training. 
+
+<br> 
+
+<https://arstechnica.com/tech-policy/2025/06/key-fair-use-ruling-clarifies-when-books-can-be-used-for-ai-training/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-24, from: Robert's feed at BlueSky)
+
+Food for thought 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lsewqd5qek2x>
+
+---
+
+## macOS Tahoe Beta Forces Sharing FileVault Key
+
+date: 2025-06-24, from: Michael Tsai
+
+Jeff Johnson: Wait, what? macOS Tahoe beta 2 automatically enabled FileVault and uploaded a recovery key to iCloud. I did not have a choice in the matter. First, they silently enable iCloud Keychain, then they upload your FileVault key to it without asking. Sarah Reichelt: Beta 1 did this too. I turned it off immediately. [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/24/macos-tahoe-beta-forces-sharing-filevault-key/>
+
+---
+
+## macOS Tahoe 26 Developer Beta 2
+
+date: 2025-06-24, from: Michael Tsai
+
+Andrew Cunningham: We are not highlighting this second round of developer betas because we think you should go out and install them on the Macs, iPhones, iPads, and Apple Watches that you use daily. These are still early versions, and they&#8217;re likely to have significant performance, battery, and stability problems relative to the current publicly [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/24/macos-tahoe-26-developer-beta-2/>
+
+---
+
+## iOS 26 Developer Beta 2
+
+date: 2025-06-24, from: Michael Tsai
+
+Juli Clover: Apple provided developers with the second beta of iOS 26, introducing the first changes and refinements to the new operating system since it debuted after the WWDC keynote. Because we&#8217;re early in the beta testing process, there are quite a few tweaks to iOS 26, which we&#8217;ve rounded up below. The official release [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/24/ios-26-developer-beta-2/>
+
+---
+
+## $10 Off at Fandango
+
+date: 2025-06-24, from: Michael Tsai
+
+Casey Liss: &#x1F92E; In case you forgot after F1 got multiple sections of the keynote at Apple&#8217;s developer conference. Marco Arment: This is a core system app interrupting you, promoting a sale by a movie-ticketing company, to push you to go see the platform vendor&#8217;s new movie.Why not just pop up random ads all the [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/24/10-off-at-fandango/>
+
+---
+
+## Apple Pulls “Convince Your Parents to Get You a Mac” Ad
+
+date: 2025-06-24, from: Michael Tsai
+
+Joe Rossignol: Apple today shared The Parent Presentation, which explains why a Mac is a useful tool in college. The customizable 81-slide presentation is available in PowerPoint, Keynote, and Google Slides formats. After downloading the template on this page, you can fill in your name and some other key details, and make other edits to [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/24/apple-pulls-convince-your-parents-to-get-you-a-mac-ad/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-24, from: Dave Winer's linkblog)
+
+Why Are Federal Agents Wearing Masks? 
+
+<br> 
+
+<https://adamkinzinger.substack.com/p/why-are-federal-agents-wearing-masks>
+
+---
+
+## AI Models And Parents Don’t Understand ‘Let Him Cook’
+
+date: 2025-06-24, from: 404 Media Group
+
+LLMs are not familiar with “ate that up,” “secure the bag,” and “sigma,” showing that training data is not yet updated to Gen Alpha terminology.  
+
+<br> 
+
+<https://www.404media.co/ai-models-and-parents-dont-understand-let-him-cook/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-24, from: Feed for Alt USDS)
+
+A quiet but dangerous shift is happening at DOJ. This is not policy, and it's certainly not law and order.
+
+“Bove stated that D.O.J. would need to consider telling the courts ‘fuck you’ and ignore any such order.”
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lsem55bggs2r>
+
+---
+
+## C&W 2025 Session Review: “Whose Time is It, Anyway?” (Keynote)
+
+date: 2025-06-24, from: Digital Humanities Quarterly News
+
+Speaker: Jason Tham, Texas Tech University&#160; This year’s keynote address was given by Jason Tham, Assistant Chair and Associate Professor of Technical Communication and Rhetoric and Texas Tech University. Tham’s talk was titled, “Whose Time is It, Anyway?” and explored who truly benefits from AI usage when it is used to save time. Attendees left [...]
+<p><a href="https://www.digitalrhetoriccollaborative.org/2025/06/24/cw-2025-session-review-whose-time-is-it-anyway-keynote/" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://www.digitalrhetoriccollaborative.org/2025/06/24/cw-2025-session-review-whose-time-is-it-anyway-keynote/>
+
+---
+
+## Anthropic wins on fair use for training its LLMs; loses on building a “central library” of pirated books
+
+date: 2025-06-24, from: Authors Union blogs
+
+Yesterday, Judge Alsup released his decision on Anthropic’s motion for summary judgment in the fast-moving lawsuit it is defending, brought [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/06/24/anthropic-wins-on-fair-use-for-training-its-llms-loses-on-building-a-central-library-of-pirated-books/>
+
+---
+
+## Unihertz Titan 2 is an Android-powered BlackBerry Passport clone (crowdfunding)
+
+date: 2025-06-24, from: Liliputing
+
+<p>The Unihertz Titan 2 is a new smartphone that looks a lot like an old one &#8211; the 2014 BlackBerry Passport, to be specific. Like BlackBerry&#8217;s long-discontinued phone, the Titan 2 has a 4.5 inch square display positioned above a QWERTY keyboard designed for thumb typing. But under the hood the Titan 2 is a modern mid-range [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/unihertz-titan-2-is-an-android-powered-blackberry-passport-clone-crowdfunding/">Unihertz Titan 2 is an Android-powered BlackBerry Passport clone (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/unihertz-titan-2-is-an-android-powered-blackberry-passport-clone-crowdfunding/>
+
+---
+
+## The 80th Anniversary of the Signing of the United Nations Charter (Properties in the National Register of Historic Places related to the UN)
+
+date: 2025-06-24, from: National Archives, Text Message blog
+
+On June 26, 1945, the Charter of the United Nations was signed in San Francisco, California. There are approximately 100 properties in the National Register files that contain the term “United Nations,” including the San Francisco Civic Center (National Archives Identifier 123858074), where the organizational meeting for the international organization was held in 1945.&#160; “The &#8230; <a href="https://text-message.blogs.archives.gov/2025/06/24/the-80th-anniversary-of-the-signing-of-the-united-nations-charter-properties-in-the-national-register-of-historic-places-related-to-the-un/" class="more-link">Continue reading <span class="screen-reader-text">The 80th Anniversary of the Signing of the United Nations Charter (Properties in the National Register of Historic Places related to the UN)</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/06/24/the-80th-anniversary-of-the-signing-of-the-united-nations-charter-properties-in-the-national-register-of-historic-places-related-to-the-un/>
+
+---
+
+## Meta Quest 3S Xbox Edition is a $400 VR headset designed for cloud gaming
+
+date: 2025-06-24, from: Liliputing
+
+<p>The META Quest 3S Xbox Edition is a virtual reality headset that comes with a pair of Meta Quest Touch Plus controllers, a limited edition Xbox Wireless Controller, and and a 3-month subscription to Microsoft&#8217;s Xbox Game Pass Ultimate. Unlike the normal version of the Meta Quest 3S, which has a white body, the Xbox Edition also [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/meta-quest-3s-xbox-edition-is-a-400-vr-headset-designed-for-cloud-gaming/">Meta Quest 3S Xbox Edition is a $400 VR headset designed for cloud gaming</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/meta-quest-3s-xbox-edition-is-a-400-vr-headset-designed-for-cloud-gaming/>
+
+---
+
+## Bacalhau v1.8.0 - Day 2: Rerun, Update, and Version Your Bacalhau Jobs
+
+date: 2025-06-24, from: Bacalhau Blog
+
+How we're making job management less of a chore and more of a superpower 
+
+<br> 
+
+<https://blog.bacalhau.org/p/bacalhau-v180-day-2-rerun-update-version-bacalhau-jobs>
+
+---
+
+## Judge Rules Training AI on Authors' Books Is Legal But Pirating Them Is Not
+
+date: 2025-06-24, from: 404 Media Group
+
+A judge rules that Anthropic's training on copyrighted works without authors' permission was a legal fair use, but that stealing the books in the first place is illegal. 
+
+<br> 
+
+<https://www.404media.co/judge-rules-training-ai-on-authors-books-is-legal-but-pirating-them-is-not/>
+
+---
+
+## Contraception Rights Face New Threats
+
+date: 2025-06-24, from: Guy Kawasaki blog
+
+Cynthia H. Chuang, Professor of Medicine and Public Health Sciences, Penn State. Carol S. Weisman, Distinguished Professor Emerita of Public Health Sciences, Penn State. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/contraception-rights-face-new-threats>
+
+---
+
+## Massive Creator Platform Fansly Bans Furries
+
+date: 2025-06-24, from: 404 Media Group
+
+Blaming payment processor restrictions, Fansly—a platform creators flocked to after OnlyFans announced it'd ban sex—announced it's changing the rules for multiple types of content.  
+
+<br> 
+
+<https://www.404media.co/fansly-ban-furries-new-rules/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-24, from: Dave Winer's linkblog)
+
+In my latest podcast I talked about WordPress as &quot;the operating system for the open social web.&quot; Jeremy Hervé who works at Automattic on WordPress liked the idea, explained in this blog post. 
+
+<br> 
+
+<https://herve.bzh/wordpress-wordland-and-the-open-web/>
+
+---
+
+## ‘FuckLAPD.com’ Lets Anyone Use Facial Recognition to Instantly Identify Cops
+
+date: 2025-06-24, from: 404 Media Group
+
+A free tool that allows anyone to upload a photo of an LAPD officer to get their name and badge number.  
+
+<br> 
+
+<https://www.404media.co/fucklapd-com-lets-anyone-use-facial-recognition-to-instantly-identify-cops/>
 
 ---
 
@@ -66,6 +319,20 @@ Fun background info on Deno.
 <br> 
 
 <https://bsky.app/profile/rsdoiel.bsky.social/post/3lsd7aqf2ik2m>
+
+---
+
+## Why Purism Manufactures Electronics in the USA
+
+date: 2025-06-23, from: Purism News and Events
+
+<p>Purism manufactures the electronics of our <a href="https://puri.sm/products/liberty-phone/">Liberty Phone</a> and <a href="https://puri.sm/products/librem-key/">Librem Key</a> at our facility in the US for the following reasons:</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/why-purism-manufactures-electronics-in-the-usa/">Why Purism Manufactures Electronics in the USA</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br> 
+
+<https://puri.sm/posts/why-purism-manufactures-electronics-in-the-usa/>
 
 ---
 

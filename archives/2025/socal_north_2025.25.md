@@ -1,11 +1,110 @@
 ---
 title: socal north
-updated: 2025-06-24 06:07:33
+updated: 2025-06-24 14:07:54
 ---
 
 # socal north
 
-(date: 2025-06-24 06:07:33)
+(date: 2025-06-24 14:07:54)
+
+---
+
+## California urges court to answer how long Trump can keep National Guard in LA
+
+date: 2025-06-24, updated: 2025-06-24, from: The LAist
+
+A ruling expected in the next few days. 
+
+<br> 
+
+<https://laist.com/news/politics/california-urges-court-to-answer-how-long-trump-can-keep-national-guard-in-la>
+
+---
+
+## An earthquake with a preliminary 2.7 magnitude struck near Sherman Oaks
+
+date: 2025-06-24, updated: 2025-06-24, from: The LAist
+
+People reported feeling a short jolt, but damage is unlikely. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/sherman-oaks-quake>
+
+---
+
+## It’s not just ICE raids — immigration lawyer warns of reopened cases and how to prepare
+
+date: 2025-06-24, updated: 2025-06-24, from: The LAist
+
+Attorney Cynthia Santiago explains how families can prepare, avoid scams and respond to revived immigration cases. 
+
+<br> 
+
+<https://laist.com/news/politics/ice-raids-immigration-lawyer-warns-of-reopened-cases-how-to-prepare>
+
+---
+
+## State engineers get a reprieve from Newsom’s return-to-office mandate
+
+date: 2025-06-24, updated: 2025-06-24, from: The LAist
+
+Gov. Gavin Newsom in May announced that he wanted state workers in the office four days a week. One union negotiated a pause on that policy. 
+
+<br> 
+
+<https://laist.com/news/politics/state-workers-reprieve-from-newsoms-return-to-office-mandate>
+
+---
+
+## Street corner flower sellers are staying home. It’s a disaster for LA’s wholesale flower market
+
+date: 2025-06-24, updated: 2025-06-24, from: The LAist
+
+Vendors say since the immigration raids in downtown’s flower district, business is down 60%. 
+
+<br> 
+
+<https://laist.com/news/street-corner-flower-sellers-are-staying-home-disaster-for-la-wholesale-flower-market>
+
+---
+
+## Lista de recursos para personas afectadas por las redadas de inmigración
+
+date: 2025-06-24, updated: 2025-06-24, from: The LAist
+
+LAist ha reunido una lista de recursos para ayudar a las personas y familias preocupadas por la actividad migratoria en la actualidad. 
+
+<br> 
+
+<https://laist.com/news/politics/resource-guide-for-families-and-friends-after-immigration-actions-recursos-lista-afectadas-redadas-inmigracion-es>
+
+---
+
+## 19-year-old woman arrested on suspicion of fatally shooting young man
+
+date: 2025-06-24, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>She was arrested last week on unrelated charges and rebooked on suspicion of murder, jail records show.</p>
+<p>The post <a href="https://lbpost.com/news/19-year-old-woman-arrested-on-suspicion-of-fatally-shooting-young-man">19-year-old woman arrested on suspicion of fatally shooting young man</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/19-year-old-woman-arrested-on-suspicion-of-fatally-shooting-young-man>
+
+---
+
+## Purple Heart Army veteran self-deports after nearly 50 years in the US
+
+date: 2025-06-24, updated: 2025-06-24, from: The LAist
+
+Sae Joon Park left for South Korea on Monday. His removal order was the result of drug possession and bail jumping charges from over 15 years ago — offenses that, he said, stemmed from untreated PTSD. 
+
+<br> 
+
+<https://laist.com/news/purple-heart-army-veteran-self-deports-after-nearly-50-years-in-the-us>
 
 ---
 
@@ -85,7 +184,7 @@ Meanwhile, the city is collecting public input on what to do with the hangar's r
 
 date: 2025-06-23, from: Longbeach Post
 
-<figure><img width="1024" height="748" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-1024x748.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-1024x748.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-300x219.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-768x561.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-148x108.jpg 148w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-400x292.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="748" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-1024x748.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-1024x748.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-300x219.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-768x561.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-148x108.jpg 148w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-400x292.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>“Losing him has hit our group hard. It’s the kind of pain that doesn’t just go away,” said one friend, who is among those planning ways to honor his memory.</p>
 <p>The post <a href="https://lbpost.com/news/crime/15-year-old-killed-bus-bench-long-beach-carlos-ramirez">Friends, family mourn 15-year-old killed when driver hit bus bench</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

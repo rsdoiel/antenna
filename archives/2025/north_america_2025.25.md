@@ -1,11 +1,149 @@
 ---
 title: north america
-updated: 2025-06-24 06:07:33
+updated: 2025-06-24 14:07:54
 ---
 
 # north america
 
-(date: 2025-06-24 06:07:33)
+(date: 2025-06-24 14:07:54)
+
+---
+
+## ICE Raids Continue in L.A. Despite Community Opposition: Mayor Karen Bass on the State of the City
+
+date: 2025-06-24, from: The Contrarian
+
+"There is a blanket of fear. People are not going to work. People aren't patronizing businesses." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166745481/7a3400a68223818431b95523461e1449.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166745481/7a3400a68223818431b95523461e1449.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/ice-raids-continue-in-la-despite>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-06-24, from: The Contrarian
+
+Tuesday: Protests in support of transgender people, Venice, Italy, reacts to a wedding, protests in California, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## For better and sometimes for worse, Barbara Walters understood how power works
+
+date: 2025-06-24, from: The Contrarian
+
+A documentary about the legendary broadcaster highlights both her savvy and her unseemly connections 
+
+<br> 
+
+<https://contrarian.substack.com/p/for-better-and-sometimes-for-worse>
+
+---
+
+## The Senate GOP's budget bill is even worse than the House version
+
+date: 2025-06-24, from: The Contrarian
+
+It's not a continuation but a dangerous escalation of the assault on American health care. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-senate-gops-budget-bill-is-even>
+
+---
+
+## Let’s do Lunch! 06/24
+
+date: 2025-06-24, from: The Contrarian
+
+A recording from Let's Do Lunch LIVE 06/24 
+
+<br> 
+
+<https://contrarian.substack.com/p/lets-do-lunch-0624>
+
+---
+
+## Donald Trump’s man-made disaster 
+
+date: 2025-06-24, from: The Contrarian
+
+The president's unprecedented blitzkrieg inside and outside of government has threatened the foundation of our democracy. 
+
+<br> 
+
+<https://contrarian.substack.com/p/donald-trumps-man-made-disaster>
+
+---
+
+##  Dividends For Stephen Miller, Deportations For Everyone Else 
+
+date: 2025-06-24, from: The Lever News
+
+ The man behind the Trump administration’s migrant crackdown holds stock in an ICE surveillance contractor.  
+
+<br> 
+
+<https://www.levernews.com/dividends-for-stephen-miller-deportations-for-everyone-else/>
+
+---
+
+## Here’s What’s Happening to the People ICE Arrests in Immigration Court
+
+date: 2025-06-24, from: Capital and Main
+
+<p>Many are fighting to keep their court cases open so that they can still request asylum.</p>
+<p>The post <a href="https://capitalandmain.com/heres-whats-happening-to-the-people-ice-arrests-in-immigration-court">Here’s What&#8217;s Happening to the People ICE Arrests in Immigration Court</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/heres-whats-happening-to-the-people-ice-arrests-in-immigration-court>
+
+---
+
+## Was the U.S. strike on Iran worth it? Brian O'Neill on the ongoing Iran-Israel conflict 
+
+date: 2025-06-24, from: The Contrarian
+
+"Peace endures under one of two conditions: it's either total defeat or mutual deterrence" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166728823/0c4943e6c12a0b107bee318c9a6f2213.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166728823/0c4943e6c12a0b107bee318c9a6f2213.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/was-the-us-strike-on-iran-worth-it>
+
+---
+
+## Trump’s Pick for the Third Circuit Is Clearly Unfit
+
+date: 2025-06-24, from: The Contrarian
+
+Emil Bove&#8217;s tenure as acting deputy attorney general should disqualify him from serving as a federal judge. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-pick-for-the-third-circuit>
+
+---
+
+## The “Goldene Medine,” Once Upon A Time
+
+date: 2025-06-24, from: The Contrarian
+
+By Marvin Kalb 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-goldene-medine-once-upon-a-time>
 
 ---
 
@@ -184,18 +322,6 @@ A unilateral decision to provide satellite internet in Iran could change the dyn
 <br> 
 
 <https://contrarian.substack.com/p/elon-musk-trumps-private-citizen>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-06-23, from: The Contrarian
-
-Monday: Anti-war protests across the country, plus anti-ICE protests in California and Georgia (the state), anti-tyranny protest in Georgia (the country), and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

@@ -1,11 +1,295 @@
 ---
 title: going electric
-updated: 2025-06-24 06:07:39
+updated: 2025-06-24 14:08:03
 ---
 
 # going electric
 
-(date: 2025-06-24 06:07:39)
+(date: 2025-06-24 14:08:03)
+
+---
+
+## Tesla Is Once Again In Trouble Over Its Full Self-Driving Marketing
+
+date: 2025-06-24, from: Inside EVs News
+
+Regulators say Tesla misled buyers about autonomy and will begin fining the automaker unless it changes its marketing. 
+
+<br> 
+
+<https://insideevs.com/news/763712/tesla-fsd-marketing-france-58k/>
+
+---
+
+## QuantumScape has integrated its ‘Cobra’ process, reducing solid-state production time tenfold
+
+date: 2025-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/QuantumScape-EV.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Solid-state battery developer QuantumScape shared another exciting milestone today: integrating its long-developed “Cobra” solid-state separator manufacturing process into its baseline production. This step technology significantly reduces the overall footprint and production time of <a href="https://electrek.co/guides/quantumscape/">QuantumScape’s</a> proprietary solid-state cells, setting the stage for commercialized production.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="421729" href="https://electrek.co/2025/06/24/quantumscape-integrated-cobra-process-reducing-solid-state-production-times/#more-421729" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/24/quantumscape-integrated-cobra-process-reducing-solid-state-production-times/>
+
+---
+
+## 'We're Stranded': Woman is 1,500 Miles From Home On A Road Trip. Then Her Tesla's Doors Lock
+
+date: 2025-06-24, from: Inside EVs News
+
+"The closest Tesla dealership is literally three and a half hours away." 
+
+<br> 
+
+<https://insideevs.com/news/763717/tesla-doors-lock-road-trip/>
+
+---
+
+## The Volkswagen ID.4 is getting an extensive update with an all-new look and much more
+
+date: 2025-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Volkswagen-ID.4-new-look.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volkswagen’s electric SUV is set to receive an extensive facelift, both inside and out. The <a href="https://electrek.co/guides/vw-id-4/">Volkswagen ID.4</a> will adopt the brand’s new look, similar to the upcoming entry-level ID.2. Here’s what we know so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,volkswagen-id-4,vw-id-4" data-layer-viewtype="unknown" data-post-id="421994" href="https://electrek.co/2025/06/24/volkswagen-id-4-extensive-update-with-new-look/#more-421994" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/24/volkswagen-id-4-extensive-update-with-new-look/>
+
+---
+
+## Loganair, ZeroAvia ready 2500 kW electric motor for hydrogen aviation future
+
+date: 2025-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/LOGANAIR_MAIN.png?w=1384" /></div><p>Scotland’s Loganair is charting a new, hydrogen-powered course for sustainable aviation, partnering with ZeroAvia to develop new, zero-emissions offerings that could see the airline’s 40-80 passenger capacity aircraft operate emission-free on regional routes across the UK and Europe.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aviation,hydrogen,zeroavia" data-layer-viewtype="unknown" data-post-id="422003" href="https://electrek.co/2025/06/24/loganair-zeroavia-ready-2500-kw-electric-motor-for-hydrogen-aviation-future/#more-422003" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/24/loganair-zeroavia-ready-2500-kw-electric-motor-for-hydrogen-aviation-future/>
+
+---
+
+## General Motors Is Exploring Solid-State Batteries As EV Push Expands
+
+date: 2025-06-24, from: Inside EVs News
+
+The automaker is actively exploring solid-state and sodium-ion EV batteries, alongside a total of seven different anode and cathode chemistries. 
+
+<br> 
+
+<https://insideevs.com/news/763719/gm-ev-battery-assault-just-getting-started/>
+
+---
+
+## Waymo Brings Robotaxis To Atlanta Days After Tesla's Mini Launch
+
+date: 2025-06-24, from: Inside EVs News
+
+Tesla is chasing Waymo in the race to commercialize self-driving technology. Alphabet's company is way ahead.  
+
+<br> 
+
+<https://insideevs.com/news/763709/waymo-uber-atlanta-tesla-robotaxi/>
+
+---
+
+## Ford stands by controversial LFP battery plant to cut EV costs and help the US compete
+
+date: 2025-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Ford-EV-costs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/ford/">Ford</a> is on track to start producing LFP batteries in the US next year, a big milestone as it prepares to launch its lower-cost, next-gen EVs. The company said that the new facility will help deliver “truly affordable vehicles” and also enable the US to finally compete globally.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="421942" href="https://electrek.co/2025/06/24/ford-says-lfp-battery-plant-will-cut-ev-costs-help-us-compete/#more-421942" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/24/ford-says-lfp-battery-plant-will-cut-ev-costs-help-us-compete/>
+
+---
+
+## Uber Drivers Now Have EVs, But Nowhere To Plug Them In
+
+date: 2025-06-24, from: Inside EVs News
+
+Uber hired the former head of Tesla's Supercharging team to fix the problem. 
+
+<br> 
+
+<https://insideevs.com/news/763699/uber-driver-charging-ev-cost/>
+
+---
+
+## Early Prime Day Sales with up to 65% savings from Jackery + Anker SOLIX, EcoFlow dual expansion batteries $2,899 off,  more
+
+date: 2025-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Jackery-early-Prime-Day-July-2025-FI.png?w=1600" /></div><p>Today’s Green Deals are jam-packed with power station savings, led by <a href="https://9to5toys.com/2025/06/23/jackery-early-prime-day-sale-from-89/">Jackery’s early Prime Day Sale</a> that is taking up to 65% off power stations with some extra ways to save too. Among the lineup, we spotted the brand’s <a href="https://9to5toys.com/2025/06/23/jackery-early-prime-day-sale-from-89/">Explorer 2000 Plus Solar Generator Bundle</a> with two 200W panels down at <a href="https://9to5toys.com/2025/06/23/jackery-early-prime-day-sale-from-89/">$1,709</a>. Right behind it we have the first round of <a href="https://9to5toys.com/2025/06/24/anker-solix-early-prime-day-flash-sales-369-more/">Anker’s SOLIX early Prime Day flash sales</a>, with options like the <a href="https://9to5toys.com/2025/06/24/anker-solix-early-prime-day-flash-sales-369-more/">C300 AC 90,000mAh Power Station</a> getting a 100W solar panel at a <a href="https://9to5toys.com/2025/06/24/anker-solix-early-prime-day-flash-sales-369-more/">new $369 low</a>, among larger units. Next, there’s EcoFlow’s first early Prime Day flash sale that has <a href="https://9to5toys.com/2025/06/24/ecoflow-delta-pro-expansion-batteries-2699-more/">two DELTA Pro Smart Extra Batteries together at $2,699</a>, as well as a WAVE 3 portable AC/heater bundle too. Among our electric lawn care solutions today is the <a href="https://9to5toys.com/2025/06/23/greenworks-40v-17-inch-cordless-push-mower-new-230-low/">Greenworks 40V 17-inch​ Cordless Push Lawn Mower at a new $230 low</a>, as well as <a href="https://9to5toys.com/2025/06/24/40v-worx-nitro-cordless-trimmer-kit-190-low/">Worx’s Nitro 40V 15-inch Cordless String Trimmer</a> with Dual-Exit Bump Feed Head, two 4.0Ah batteries, and a dual-port charger at its <a href="https://9to5toys.com/2025/06/24/40v-worx-nitro-cordless-trimmer-kit-190-low/">$190 low</a>. Plus, there’s all the rest of the hangover Green Deals in the links at the bottom of the page, like yesterday’s full <a href="https://9to5toys.com/2025/06/23/ecoflows-early-prime-day-sale-from-179/">EcoFlow early Prime Day Sale</a> lineup, <a href="https://9to5toys.com/2025/06/20/lectric-4th-of-july-sale-xp4-e-bikes-from-999-more/">Lectric’s 4th of July e-bike sale</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="421946" href="https://electrek.co/2025/06/24/jackery-early-prime-day-sale-anker-solix-ecoflow-more/#more-421946" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/24/jackery-early-prime-day-sale-anker-solix-ecoflow-more/>
+
+---
+
+## France says Tesla lied about FSD and more, 4 months to comply or be fined
+
+date: 2025-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/France-EV-subsidy-Tesla.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The French Ministry of the Economy has found that Tesla violated the law in several ways related to “deceptive business practices,” and has ordered the company to comply in 4 months or face a fine for every day it does not.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="france,full-self-driving-fsd,tesla,tesla-france" data-layer-viewtype="unknown" data-post-id="421925" href="https://electrek.co/2025/06/24/france-says-tesla-lied-about-fsd-and-more-4-months-to-comply-or-be-fined/#more-421925" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/24/france-says-tesla-lied-about-fsd-and-more-4-months-to-comply-or-be-fined/>
+
+---
+
+## China's Zero-Mile 'Used' EVs Are Flooding Global Markets
+
+date: 2025-06-24, from: Inside EVs News
+
+China's automakers are juicing their sales figures by registering EVs locally and then shipping them overseas as used. 
+
+<br> 
+
+<https://insideevs.com/news/763687/china-zero-mile-used-evs/>
+
+---
+
+## The new Jeep Cherokee looks like a massive upgrade and it might even be an EV
+
+date: 2025-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/New-Jeep-Cherokee-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The new and improved 2026 Jeep Cherokee looks great, but will it be available as an EV? <a href="https://electrek.co/guides/jeep/">Jeep</a> teased the new model on Tuesday, giving us a closer look at the updated SUV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="jeep" data-layer-viewtype="unknown" data-post-id="421911" href="https://electrek.co/2025/06/24/new-jeep-cherokee-massive-upgrade-could-be-an-ev/#more-421911" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/24/new-jeep-cherokee-massive-upgrade-could-be-an-ev/>
+
+---
+
+## ONYX launches new 65 MPH electric moped, boosting power even higher
+
+date: 2025-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/ONYX-rcr-80v-moped-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>ONYX Motors has just announced the second version of its storied RCR electric moped launched since<a href="https://electrek.co/2024/12/31/retro-themed-electric-moped-brand-onyx-returns-with-55-mph-bikes/"> the brand’s revival</a> late last year. The new ONYX RCR 80V pushes the bike to its highest performance yet, breaking new power and speed records for the company while simultaneously raising questions about how to properly classify these fast electric motorbikes with pedals – and just who they’re for.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,electric-mopeds,electric-motorcycle" data-layer-viewtype="unknown" data-post-id="421874" href="https://electrek.co/2025/06/24/onyx-launches-new-65-mph-electric-moped-boosting-power-even-higher/#more-421874" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/24/onyx-launches-new-65-mph-electric-moped-boosting-power-even-higher/>
+
+---
+
+## Republicans keep wasting money: they want to scrap USPS’ new EVs (updated)
+
+date: 2025-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/09/Oshkosh-USPS.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Senate version of the repubilcans’ tax bill won’t just add trillions of dollars to the deficit through a <a href="https://electrek.co/2025/05/22/house-republicans-vote-to-send-us-ev-jobs-to-china-give-trillions-to-us-elites/">massive giveaway to wealthy elites</a>, it will also take the US Postal Service’s awesome new EVs and sell them off for pennies on the dollar, wasting money simply out of spite for vehicles that were already cleaning your air and making your community safer.</p>
+
+
+
+<p><em><strong>Update:</strong></em> The Senate parliamentarian has ruled that the body <a href="https://www.reuters.com/business/autos-transportation/senate-republicans-cannot-force-us-postal-service-scrap-evs-parliamentarian-says-2025-06-23/">can’t force USPS to scrap these EVs</a>, at least not without a 60-vote supermajority.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="usps" data-layer-viewtype="unknown" data-post-id="421501" href="https://electrek.co/2025/06/24/republicans-cant-stop-wasting-money-they-want-to-scrap-usps-awesome-evs/#more-421501" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/24/republicans-cant-stop-wasting-money-they-want-to-scrap-usps-awesome-evs/>
+
+---
+
+## Xiaomi aims for YU7 to outsell Tesla Model Y
+
+date: 2025-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Xiaomi-SUV-YU7-green-silver.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Xiaomi CEO Lei Jun has set a goal for the YU7 to outsell the Tesla Model Y, the best-selling electric premium SUV, in China.</p>
+
+
+
+<p>It could very well happen, considering Xiaomi’s SU7 is now outselling Tesla’s Model 3.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,xiaomi,xiaomi-yu7" data-layer-viewtype="unknown" data-post-id="421912" href="https://electrek.co/2025/06/24/xiaomi-aims-for-yu7-to-outsell-tesla-model-y/#more-421912" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/24/xiaomi-aims-for-yu7-to-outsell-tesla-model-y/>
+
+---
+
+## You Have To Win A Lottery To Tour Xiaomi's Factory
+
+date: 2025-06-24, from: Inside EVs News
+
+The maker of the SU7 and YU7 started factory tours for the public in January. Good luck getting tickets. 
+
+<br> 
+
+<https://insideevs.com/news/763692/xiaomi-factory-tour-lottery/>
+
+---
+
+## Toyota is tweaking EV plans in the US again with two new 3-row electric SUVs en route
+
+date: 2025-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Toyota-three-row-EV-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota is still planning to build a three-row electric SUV in the US, but it won’t be in Indiana as planned. In a sudden shift of plans, <a href="https://electrek.co/guides/toyota/">Toyota</a> will build it alongside a second electric three-row SUV as it consolidates EV production in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="subaru,toyota" data-layer-viewtype="unknown" data-post-id="421896" href="https://electrek.co/2025/06/24/toyota-tweaks-ev-plans-again-with-two-new-3-row-electric-suvs/#more-421896" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/24/toyota-tweaks-ev-plans-again-with-two-new-3-row-electric-suvs/>
+
+---
+
+## Tesla Tells Feds To Stay Tight-Lipped On Robotaxi Safety Data
+
+date: 2025-06-24, from: Inside EVs News
+
+Plus, scrapping USPS EV progress would be a $1.5 billion hit to taxpayers and China dumps excess EVs on Brazil. 
+
+<br> 
+
+<https://insideevs.com/news/763603/tesla-robotaxi-nhtsa-data-confidential/>
 
 ---
 
@@ -85,7 +369,11 @@ date: 2025-06-24, from: Electrek Feed
 
 date: 2025-06-24, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/2022-audi-rs-e-tron-gt-copy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>With much of the US sweltering under <a href="https://electrek.co/2025/06/22/your-secret-weapon-against-summer-heat-home-solar-power-battery/">a record-breaking heat dome</a>, many EV buyers and owners are left wondering how their favorite electric cars perform in extreme summer temperatures. A new study tracking over 29,700 electric cars in real-world conditions provides the answers, and we’re sharing them here: <strong>these are the EVs that handle the summer heat best</strong>.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/1920x1080-MY20-e-tron-Sportback-0363-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>With much of the US sweltering under <a href="https://electrek.co/2025/06/22/your-secret-weapon-against-summer-heat-home-solar-power-battery/">a record-breaking heat dome</a>, many EV buyers and owners are left wondering how their favorite electric cars perform in extreme summer temperatures. A new study tracking over 29,700 electric cars in real-world conditions provides the answers, and we’re sharing them here: <strong>these are the EVs that handle the summer heat best</strong>.</p>
+
+
+
+<p><strong>UPDATE</strong>: it’s the older e-tron (shown), not the RS.</p>
 
 
 

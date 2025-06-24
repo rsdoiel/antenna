@@ -1,11 +1,95 @@
 ---
 title: food
-updated: 2025-06-24 06:07:40
+updated: 2025-06-24 14:08:03
 ---
 
 # food
 
-(date: 2025-06-24 06:07:40)
+(date: 2025-06-24 14:08:03)
+
+---
+
+## Best Cookware Sets After Years of Testing Pots and Pans (2025)
+
+date: 2025-06-24, from: Bon Appetet
+
+Steer clear of those unwieldy 20 piece behemoths. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-cookware-sets>
+
+---
+
+## Instant Coffee Shown To Cause Age Related Macular Degeneration
+
+date: 2025-06-24, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The downside to instant coffee. 
+
+<br> 
+
+<https://sprudge.com/instant-coffee-shown-to-cause-age-related-macular-degeneration-350763.html>
+
+---
+
+## Study Finds Link Between Instant Coffee and Eye Disease Risk
+
+date: 2025-06-24, from: Daily Coffee News
+
+<div><img width="620" height="441" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/instant-coffee-1-620x441.jpg" class="attachment-large size-large wp-post-image" alt="instant coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/instant-coffee-1-620x441.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/instant-coffee-1-300x213.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/instant-coffee-1-150x107.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/instant-coffee-1-768x546.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/instant-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new genetics study found that drinking instant coffee may significantly increase the risk of developing dry age-related macular degeneration (AMD), a leading cause of vision loss in older adults.... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/24/study-finds-link-between-instant-coffee-and-eye-disease-risk/>
+
+---
+
+## From Tampa, Paul John Indian Caffeine Perks Up Perceptions of Quality
+
+date: 2025-06-24, from: Daily Coffee News
+
+<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Pouring-Bangelore-Dreams-Coffee-1-620x418.png" class="attachment-large size-large wp-post-image" alt="Pouring Bangelore Dreams Coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Pouring-Bangelore-Dreams-Coffee-1-620x418.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Pouring-Bangelore-Dreams-Coffee-1-300x202.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Pouring-Bangelore-Dreams-Coffee-1-150x101.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Pouring-Bangelore-Dreams-Coffee-1-768x518.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Pouring-Bangelore-Dreams-Coffee-1.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The granddaughter of an Indian coffee plantation owner is hoping to change certain preconceived notions in the United States with the launch of Paul John Indian Caffeine Co. in... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/24/from-tampa-paul-john-indian-caffeine-perks-up-perceptions-of-quality/>
+
+---
+
+## ICO Unveils Global Database of 400+ Coffee Sustainability Projects
+
+date: 2025-06-24, from: Daily Coffee News
+
+<div><img width="620" height="377" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Coffee-Sustainability-Support-Database-620x377.png" class="attachment-large size-large wp-post-image" alt="Coffee Sustainability Support Database" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Coffee-Sustainability-Support-Database-620x377.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Coffee-Sustainability-Support-Database-300x182.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Coffee-Sustainability-Support-Database-150x91.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Coffee-Sustainability-Support-Database-768x467.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Coffee-Sustainability-Support-Database.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; As organizations throughout the coffee value chain continue to call for more transparent and collective action for coffee sector sustainability, navigating the complex forest of sustainability initiatives remains a... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/24/ico-unveils-global-database-of-400-coffee-sustainability-projects/>
+
+---
+
+## Build-Outs Of Coffee: Small Batch In Vienna, Austria
+
+date: 2025-06-24, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Small Batch in Vienna, Austria. 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-small-batch-in-vienna-austria-338895.html>
+
+---
+
+## The Best Tomato Candles
+
+date: 2025-06-24, from: Bon Appetet
+
+Tomato is the reigning It Girl of scents. 
+
+<br> 
+
+<https://www.bonappetit.com/story/we-gave-9-tomato-scented-candles-the-smell-test-this-one-t6-the-best>
 
 ---
 
@@ -171,7 +255,7 @@ date: 2025-06-23, from: Taste of Home
 
 date: 2025-06-23, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/SANA-mental-health-women-coffee-farmers-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="SANA mental health women coffee farmers 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/SANA-mental-health-women-coffee-farmers-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SANA-mental-health-women-coffee-farmers-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SANA-mental-health-women-coffee-farmers-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SANA-mental-health-women-coffee-farmers-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SANA-mental-health-women-coffee-farmers-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; When Lucia Bawot published We Belong: An Anthology of Colombian Women Coffee Farmers in March 2023, she never imagined it would inspire her to launch SANA, an integrative psychosocial... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/SANA-mental-health-women-coffee-farmers-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="SANA mental health women coffee farmers 2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/SANA-mental-health-women-coffee-farmers-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SANA-mental-health-women-coffee-farmers-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SANA-mental-health-women-coffee-farmers-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SANA-mental-health-women-coffee-farmers-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/SANA-mental-health-women-coffee-farmers-2.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; When Lucia Bawot published We Belong: An Anthology of Colombian Women Coffee Farmers in March 2023, she never imagined it would inspire her to launch SANA, an integrative psychosocial... 
 
 <br> 
 
@@ -195,7 +279,7 @@ date: 2025-06-23, from: The Sprudge
 
 date: 2025-06-23, from: Daily Coffee News
 
-<div><img width="620" height="359" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Slow-Feeder-Pro-1-620x359.png" class="attachment-large size-large wp-post-image" alt="Slow Feeder Pro" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Slow-Feeder-Pro-1-620x359.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Slow-Feeder-Pro-1-300x174.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Slow-Feeder-Pro-1-150x87.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Slow-Feeder-Pro-1-768x445.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Slow-Feeder-Pro-1.png 901w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A young, Zurich, Switzerland-based coffee accessories brand called CremaLoop is launching a tool called the Slow Feeder Pro, designed to throttle the flow of whole coffee beans into a... 
+<div><img width="620" height="359" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Slow-Feeder-Pro-1-620x359.png" class="attachment-large size-large wp-post-image" alt="Slow Feeder Pro" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Slow-Feeder-Pro-1-620x359.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Slow-Feeder-Pro-1-300x174.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Slow-Feeder-Pro-1-150x87.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Slow-Feeder-Pro-1-768x445.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Slow-Feeder-Pro-1.png 901w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; A young, Zurich, Switzerland-based coffee accessories brand called CremaLoop is launching a tool called the Slow Feeder Pro, designed to throttle the flow of whole coffee beans into a... 
 
 <br> 
 

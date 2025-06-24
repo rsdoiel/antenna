@@ -1,11 +1,223 @@
 ---
 title: columns
-updated: 2025-06-24 06:07:35
+updated: 2025-06-24 14:07:57
 ---
 
 # columns
 
-(date: 2025-06-24 06:07:35)
+(date: 2025-06-24 14:07:57)
+
+---
+
+## [Sponsor] WorkOS: Scalable, Secure Authentication
+
+date: 2025-06-24, updated: 2025-06-24, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://workos.com/?utm_source=daringfireball&utm_medium=RSS&utm_campaign=q12025>
+
+---
+
+##  Stop Making New Oreos. Not sure what the best part of this... 
+
+date: 2025-06-24, updated: 2025-06-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0046997-stop-making-new-oreos-not>
+
+---
+
+##  Copaganda and Me. &#8220;The police are the good guys, or so I... 
+
+date: 2025-06-24, updated: 2025-06-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047015-copaganda-and-me-the-poli>
+
+---
+
+## Tuesday, 24 June 2025
+
+date: 2025-06-24, from: Doc Searls (at Harvard), New Old Blog
+
+Truth. I first set foot on Harvard soil (well, a sidewalk) in October 2003, while walking to the first BloggerCon, which was hosted by Dave Winer, then a fellow at what&#39;s now the Berkman Klein Center. I knew no more about Harvard, I suppose, than any other normal American. But I felt at home there, [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/06/24/tuesday-24-june-2025/>
+
+---
+
+## June 23, 2025
+
+date: 2025-06-24, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166750750/cc71a0e6c2892a35d8ae4d7774c0cc0d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166750750/cc71a0e6c2892a35d8ae4d7774c0cc0d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-23-2025-8c9>
+
+---
+
+##  An Interview With Andor&#8217;s Creator, Tony Gilroy 
+
+date: 2025-06-24, updated: 2025-06-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/an-interview-with-andors-creator-tony-gilroy>
+
+---
+
+## Mozilla rolls out Firefox 140 with ESR status and fresh features
+
+date: 2025-06-24, updated: 2025-06-24, from: Liam Proven's articles at the Register
+
+<h4>Say hello to a year&#39;s support, but bid goodbye to Pocket</h4>
+      <p>The latest Mozilla Firefox is trickling out – and it&#39;s an Extended Support Release (ESR).</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/24/firefox_140_esr/>
+
+---
+
+##  The Public Domain Cinematic Universe. Beloved characters like Mickey Mouse, Winnie-the-Pooh, and... 
+
+date: 2025-06-24, updated: 2025-06-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047007-the-public-domain-cinemat>
+
+---
+
+## Here comes the Internet of “tolls”
+
+date: 2025-06-24, from: Om Malik blog
+
+The decades-old doctrine of&#160;“Web&#160;traffic in exchange for permission to crawl” is over, writes Fred Vogelstein in his latest feature for our newsletter, Crazy StupidTech, and as a result, the Internet in the age of AI will be filled with much-needed “tolls.” This change has come&#160;quickly. “Google essentially invented the business of crawling in exchange for &#8230; 
+
+<br> 
+
+<https://om.co/2025/06/24/here-come-the-internet-of-tolls/>
+
+---
+
+##  On not being an asshole. &#8220;There&#8217;s real societal value to self censorship.... 
+
+date: 2025-06-24, updated: 2025-06-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047008-on-not-being-an-asshole>
+
+---
+
+##  Super Mario Clouds for 10 Minutes. Marc Weidenbaum got Cory Arcangel&#8217;s just-the-clouds... 
+
+date: 2025-06-24, updated: 2025-06-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047012-super-mario-clouds-for-10>
+
+---
+
+## The iyO One
+
+date: 2025-06-24, updated: 2025-06-24, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.iyo.audio/>
+
+---
+
+##  Diego Luna Guest-Hosts Kimmel, Talks Immigration 
+
+date: 2025-06-24, updated: 2025-06-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/diego-luna-guest-hosts-kimmel-talks-immigration>
+
+---
+
+## How I make thumbnails for YouTube
+
+date: 2025-06-24, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">How I make thumbnails for YouTube</span>
+
+            <p>Over on the 2nd channel, I posted a video detailing my process for making thumbnails for my YouTube channel:</p>
+
+
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+
+<p>My videos target a more technical audience—and often deal with subjects crowds like those on HN might find interesting.</p>
+
+<p>Technical audiences don't often enjoy the feeling of being 'bamboozled', especially in subtle ways that feels like marketing or deception.</p>
+
+<p>Therefore YouTube thumbnails are often a contentious topic. In the early days, thumbnails were just a still frame from the video, meaning it was harder (but not impossible) to 'game the system' and introduce <a href="https://en.wikipedia.org/wiki/Clickbait">clickbait</a>.</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">June 24, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/how-i-make-thumbnails-youtube>
+
+---
+
+##  A provocative piece about using AI coding agents: My AI Skeptic Friends... 
+
+date: 2025-06-24, updated: 2025-06-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0046996-a-provocative-piece-about>
+
+---
+
+## Xlibre forks to the rescue – but Kubuntu gives X11 the boot
+
+date: 2025-06-24, updated: 2025-06-24, from: Liam Proven's articles at the Register
+
+<h4>Summer Solstice release lands as another distro ditches the old display protocol</h4>
+      <p>Depending on who you ask, the recent turbulent times in the world of X11 could be a new dawn – or the eddies around a sinking ship.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/24/mixed_news_for_x11/>
 
 ---
 
@@ -69,7 +281,7 @@ In a timeline of Trump&#8217;s decision to drop 12 of the reportedly 20 Massive 
 
 ---
 
-## Second OS 26 Betas Are Out
+## OS 26 Betas Are Out
 
 date: 2025-06-23, updated: 2025-06-24, from: Daring Fireball
 
