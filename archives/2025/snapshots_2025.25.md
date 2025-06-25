@@ -1,11 +1,76 @@
 ---
 title: snapshots
-updated: 2025-06-24 14:08:05
+updated: 2025-06-25 06:08:53
 ---
 
 # snapshots
 
-(date: 2025-06-24 14:08:05)
+(date: 2025-06-25 06:08:53)
+
+---
+
+## Podcast: This Site Unmasks Cops With Facial Recognition
+
+date: 2025-06-25, from: 404 Media Group
+
+A tool that uses facial recognition to reveal cops' names, a big and complicated AI ruling, and the AI slop between Iran and Israel. 
+
+<br> 
+
+<https://www.404media.co/podcast-this-site-unmasks-cops-with-facial-recognition/>
+
+---
+
+## This Dog Won't Wag
+
+date: 2025-06-25, from: Paul Krugman
+
+Well whaddya know: Another fiasco 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/this-dog-wont-wag>
+
+---
+
+## Anthropic wins a major fair use victory for AI — but it’s still in trouble for stealing books
+
+date: 2025-06-24, updated: 2025-06-24, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.theverge.com/news/692015/anthropic-wins-a-major-fair-use-victory-for-ai-but-its-still-in-trouble-for-stealing-books">Anthropic wins a major fair use victory for AI — but it’s still in trouble for stealing books</a></strong></p>
+Major USA legal news for the AI industry today. Judge William Alsup released a "summary judgement" (a legal decision that results in some parts of a case skipping a trial) in a lawsuit between five authors and Anthropic concerning the use of their books in training data.</p>
+<p>The <a href="https://www.documentcloud.org/documents/25982181-authors-v-anthropic-ruling/">judgement itself</a> is a very readable 32 page PDF, and contains all sorts of interesting behind-the-scenes details about how Anthropic trained their models.</p>
+<p>The facts of the complaint go back to the very beginning of the company. Anthropic was founded by a group of ex-OpenAI researchers in February 2021. According to the judgement:</p>
+<blockquote>
+<p>So, in January or February 2021, another Anthropic cofounder, Ben Mann, downloaded Books3, an online library of 196,640 books that he knew had been assembled from unauthorized copies of copyrighted books — that is, pirated. Anthropic's next pirated acquisitions involved downloading distributed, reshared copies of other pirate libraries. In June 2021, Mann downloaded in this way at least five million copies of books from Library Genesis, or LibGen, which he knew had been pirated. And, in July 2022, Anthropic likewise downloaded at least two million copies of books from the Pirate Library Mirror, or PiLiMi, which Anthropic knew had been pirated.</p>
+</blockquote>
+<p>Books3 was also listed as <a href="https://simonwillison.net/2023/Aug/27/wordcamp-llms/#how-they-are-trained">part of the training data</a> for Meta's LLaMA training data!</p>
+<p>Anthropic apparently used these sources of data to help build an internal "research library" of content that they then filtered and annotated and used in training runs.</p>
+<p>Books turned out to be a very valuable component of the "data mix" to train strong models. By 2024 Anthropic had a new approach to collecting them: purchase and scan millions of print books!</p>
+<blockquote>
+<p>To find a new way to get books, in February 2024, Anthropic hired the former head of partnerships for Google's book-scanning project, Tom Turvey. He was tasked with obtaining "all the books in the world" while still avoiding as much "legal/practice/business slog" as possible (Opp. Exhs. 21, 27). [...] Turvey and his team emailed major book distributors and retailers about bulk-purchasing their print copies for the AI firm's "research library" (Opp. Exh. 22 at 145; Opp. Exh. 31 at -035589). Anthropic spent many millions of dollars to purchase millions of print books, often in used condition. Then, its service providers stripped the books from their bindings, cut their pages to size, and scanned the books into digital form — discarding the paper originals. Each print book resulted in a PDF copy containing images of the scanned pages with machine-readable text (including front and back cover scans for softcover books).</p>
+</blockquote>
+<p>The summary judgement found that these scanned books <em>did</em> fall under fair use, since they were transformative versions of the works and were not shared outside of the company. The downloaded ebooks did <em>not</em> count as fair use, and it looks like those will be the subject of a forthcoming jury trial.</p>
+<p>Here's that section of the decision:</p>
+<blockquote>
+<p>Before buying books for its central library, Anthropic downloaded over seven million pirated copies of books, paid nothing, and kept these pirated copies in its library even after deciding it would not use them to train its AI (at all or ever again). Authors argue Anthropic should have paid for these pirated library copies (e.g, Tr. 24–25, 65; Opp. 7, 12–13). This
+order agrees.</p>
+</blockquote>
+<p>The most important aspect of this case is the question of whether training an LLM on unlicensed data counts as "fair use". The judge found that it did. The argument for why takes up several pages of the document but this seems like a key point:</p>
+<blockquote>
+<p>Everyone reads texts, too, then writes new texts. They may need to pay for getting their hands on a text in the first instance. But to make anyone pay specifically for the use of a book each time they read it, each time they recall it from memory,
+each time they later draw upon it when writing new things in new ways would be unthinkable.
+For centuries, we have read and re-read books. We have admired, memorized, and internalized
+their sweeping themes, their substantive points, and their stylistic solutions to recurring writing problems.</p>
+</blockquote>
+<p>The judge who signed this summary judgement is an interesting character: <a href="https://en.wikipedia.org/wiki/William_Alsup">William Haskell Alsup</a> (yes, his middle name really is Haskell) presided over jury trials for Oracle America, Inc. v. Google, Inc in 2012 and 2016 where he famously used his hobbyist BASIC programming experience to challenge claims made by lawyers in the case.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/law">law</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/training-data">training-data</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/24/anthropic-training/#atom-everything>
 
 ---
 
@@ -319,6 +384,18 @@ Fun background info on Deno.
 <br> 
 
 <https://bsky.app/profile/rsdoiel.bsky.social/post/3lsd7aqf2ik2m>
+
+---
+
+## 62 new projects contribute to digital commons
+
+date: 2025-06-24, updated: 2025-06-24, from: nlnet feed
+
+ 
+
+<br> 
+
+<https://nlnet.nl/news/2025/20250624-announcement-grants-CommonsFund.html>
 
 ---
 

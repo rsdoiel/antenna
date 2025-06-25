@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-06-24 14:07:58
+updated: 2025-06-25 06:08:46
 ---
 
 # writing
 
-(date: 2025-06-24 14:07:58)
+(date: 2025-06-25 06:08:46)
+
+---
+
+## How to Use the Scrivener Scratchpad to Collect Research and Capture Ideas
+
+date: 2025-06-25, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-to-use-the-scrivener-scratchpad-to-collect-research-and-capture-ideas>
 
 ---
 

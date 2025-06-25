@@ -1,11 +1,198 @@
 ---
 title: home
-updated: 2025-06-24 14:08:01
+updated: 2025-06-25 06:08:48
 ---
 
 # home
 
-(date: 2025-06-24 14:08:01)
+(date: 2025-06-25 06:08:48)
+
+---
+
+## 39 Small Birds in New Hampshire (With Pictures and Identification)
+
+date: 2025-06-25, from: Yard Life blog
+
+<p>If you love birdwatching, New Hampshire is a great place to see many small birds. The state has a variety ... </p>
+<p class="read-more-container"><a title="39 Small Birds in New Hampshire (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/39-small-birds-in-new-hampshire-with-pictures-and-identification/#more-31174" aria-label="Read more about 39 Small Birds in New Hampshire (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/39-small-birds-in-new-hampshire-with-pictures-and-identification/">39 Small Birds in New Hampshire (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/39-small-birds-in-new-hampshire-with-pictures-and-identification/>
+
+---
+
+## 7 Types of Crows and Jays in New Jersey (With Pictures)
+
+date: 2025-06-25, from: Yard Life blog
+
+<p>Crows and jays in New Jersey are some of the most intelligent and vocal birds found throughout the state. They ... </p>
+<p class="read-more-container"><a title="7 Types of Crows and Jays in New Jersey (With Pictures)" class="read-more button" href="https://ownyardlife.com/7-types-of-crows-and-jays-in-new-jersey-with-pictures/#more-31165" aria-label="Read more about 7 Types of Crows and Jays in New Jersey (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/7-types-of-crows-and-jays-in-new-jersey-with-pictures/">7 Types of Crows and Jays in New Jersey (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/7-types-of-crows-and-jays-in-new-jersey-with-pictures/>
+
+---
+
+## Newsletter Signup Confirmation page
+
+date: 2025-06-25, from: Family Handyman Blog
+
+<p>No Content</p>
+<p>The post <a href="https://www.familyhandyman.com/newsletter-signup-confirmation-page/">Newsletter Signup Confirmation page</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/newsletter-signup-confirmation-page/>
+
+---
+
+## 20 Most Popular and Beautiful Wildflowers in California (w/Pictures)
+
+date: 2025-06-25, from: Yard Life blog
+
+<p>Wildflowers in California are among the most stunning natural displays in the United States. Every spring, fields, hillsides, and deserts ... </p>
+<p class="read-more-container"><a title="20 Most Popular and Beautiful Wildflowers in California (w/Pictures)" class="read-more button" href="https://ownyardlife.com/20-most-popular-and-beautiful-wildflowers-in-california-w-pictures/#more-31144" aria-label="Read more about 20 Most Popular and Beautiful Wildflowers in California (w/Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-most-popular-and-beautiful-wildflowers-in-california-w-pictures/">20 Most Popular and Beautiful Wildflowers in California (w/Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-most-popular-and-beautiful-wildflowers-in-california-w-pictures/>
+
+---
+
+## 19 Gray Birds in Colorado (With Pictures and Identification)
+
+date: 2025-06-25, from: Yard Life blog
+
+<p>Colorado is home to a fascinating variety of gray birds that add subtle beauty to its diverse landscapes. From mountains ... </p>
+<p class="read-more-container"><a title="19 Gray Birds in Colorado (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/19-gray-birds-in-colorado-with-pictures-and-identification/#more-31134" aria-label="Read more about 19 Gray Birds in Colorado (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/19-gray-birds-in-colorado-with-pictures-and-identification/">19 Gray Birds in Colorado (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/19-gray-birds-in-colorado-with-pictures-and-identification/>
+
+---
+
+## 38 Common Small Birds in Maine (Pictures and Identification)
+
+date: 2025-06-25, from: Yard Life blog
+
+<p>Maine has many small birds that live in forests, parks, and backyards all year round. These birds come in many ... </p>
+<p class="read-more-container"><a title="38 Common Small Birds in Maine (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/38-common-small-birds-in-maine-pictures-and-identification/#more-31123" aria-label="Read more about 38 Common Small Birds in Maine (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/38-common-small-birds-in-maine-pictures-and-identification/">38 Common Small Birds in Maine (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/38-common-small-birds-in-maine-pictures-and-identification/>
+
+---
+
+## 3 Types of Eagles in Iowa (With Pictures and Identification)
+
+date: 2025-06-25, from: Yard Life blog
+
+<p>Eagles in Iowa are a magnificent sight for bird watchers and nature lovers alike. The state hosts several impressive eagle ... </p>
+<p class="read-more-container"><a title="3 Types of Eagles in Iowa (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-types-of-eagles-in-iowa-with-pictures-and-identification/#more-31116" aria-label="Read more about 3 Types of Eagles in Iowa (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-types-of-eagles-in-iowa-with-pictures-and-identification/">3 Types of Eagles in Iowa (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-types-of-eagles-in-iowa-with-pictures-and-identification/>
+
+---
+
+## 8 Types of Crows and Magpies in Indiana (With Pictures)
+
+date: 2025-06-25, from: Yard Life blog
+
+<p>Indiana is home to a variety of fascinating birds from the Corvidae family. This guide covers 8 types of crows ... </p>
+<p class="read-more-container"><a title="8 Types of Crows and Magpies in Indiana (With Pictures)" class="read-more button" href="https://ownyardlife.com/8-types-of-crows-and-magpies-in-indiana-with-pictures/#more-31105" aria-label="Read more about 8 Types of Crows and Magpies in Indiana (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/8-types-of-crows-and-magpies-in-indiana-with-pictures/">8 Types of Crows and Magpies in Indiana (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/8-types-of-crows-and-magpies-in-indiana-with-pictures/>
+
+---
+
+## 9 Types of Doves and Pigeons in Alabama (With Pictures)
+
+date: 2025-06-25, from: Yard Life blog
+
+<p>Doves and pigeons in Alabama are a diverse and captivating part of the state’s birdlife. From the soft coos of ... </p>
+<p class="read-more-container"><a title="9 Types of Doves and Pigeons in Alabama (With Pictures)" class="read-more button" href="https://ownyardlife.com/9-types-of-doves-and-pigeons-in-alabama-with-pictures/#more-31097" aria-label="Read more about 9 Types of Doves and Pigeons in Alabama (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/9-types-of-doves-and-pigeons-in-alabama-with-pictures/">9 Types of Doves and Pigeons in Alabama (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/9-types-of-doves-and-pigeons-in-alabama-with-pictures/>
+
+---
+
+## 40 Small Birds in Delaware (With Pictures and Identification)
+
+date: 2025-06-25, from: Yard Life blog
+
+<p>Small birds in Delaware add vibrant life and charm to the state’s diverse habitats. From woodlands to wetlands, these birds ... </p>
+<p class="read-more-container"><a title="40 Small Birds in Delaware (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/40-small-birds-in-delaware-with-pictures-and-identification/#more-31088" aria-label="Read more about 40 Small Birds in Delaware (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/40-small-birds-in-delaware-with-pictures-and-identification/">40 Small Birds in Delaware (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/40-small-birds-in-delaware-with-pictures-and-identification/>
+
+---
+
+## This Hidden Surf Gem Can Be Found on the Oregon Coast
+
+date: 2025-06-25, from: Sunset Magazine - Living in the West
+
+Escape the crowds and catch a wave at Short Sands Beach, a secluded summer haven for surfers, hikers, and beach lovers. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/short-sands-beach-best-surfing>
+
+---
+
+## How Oregon Is Leading the Way in Sustainable Travel
+
+date: 2025-06-24, from: Sunset Magazine - Living in the West
+
+A new wave of sustainable and regenerative travel is taking hold in the Willamette Valley of Oregon. Find out what to do, stay, and eat there. 
+
+<br> 
+
+<https://www.sunset.com/travel/northwest/regenerative-travel-oregon>
+
+---
+
+## Carlsbad Strawberry Company: Farming, Family and Fun
+
+date: 2025-06-24, from: California Grown
+
+<p>Meet Jimmy Ukegawa, third-generation farmer and the mastermind behind Carlsbad Strawberry Company. Jimmy jokes that he was “drafted” into ag, but it’s clear that he has a passion for the family’s thriving San Diego u-pick farm. We caught up with Jimmy to learn more about why u-pick farms are an essential part of ag education…and [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/carlsbad-strawberry-company/" data-wpel-link="internal" target="_self">Carlsbad Strawberry Company: Farming, Family and Fun</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/carlsbad-strawberry-company/>
 
 ---
 
@@ -30,6 +217,18 @@ Never having experienced the resort lifestyle, I went straight to the state with
 <br> 
 
 <https://www.dwell.com/article/a-few-nights-in-two-florida-keys-resorts-in-search-of-the-all-american-beach-vacation-ad4c24de>
+
+---
+
+## These Are the Worst Airlines to Fly in 2025
+
+date: 2025-06-24, from: Sunset Magazine - Living in the West
+
+The Points Guy released their annual data on the best and worst airlines to fly in 2025, and the results may surprise you. 
+
+<br> 
+
+<https://www.sunset.com/travel/worst-airlines-2025>
 
 ---
 

@@ -1,11 +1,79 @@
 ---
 title: journalism
-updated: 2025-06-24 14:07:59
+updated: 2025-06-25 06:08:47
 ---
 
 # journalism
 
-(date: 2025-06-24 14:07:59)
+(date: 2025-06-25 06:08:47)
+
+---
+
+## USG confirms advocacy liaisons
+
+date: 2025-06-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Undergraduate Student Government released a statement of support for students amid protests against Immigration and Customs Enforcement.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/25/usg-confirms-advocacy-liaisons/">USG confirms advocacy liaisons</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/25/usg-confirms-advocacy-liaisons/>
+
+---
+
+## ‘Magic Mic’ leaves everything out there on stage
+
+date: 2025-06-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The original, student-written and -performed comedy show was surprisingly earnest.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/25/magic-mic-leaves-everything-out-there-on-stage/">&#8216;Magic Mic&#8217; leaves everything out there on stage</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/25/magic-mic-leaves-everything-out-there-on-stage/>
+
+---
+
+## Daily Trojan Spring 2024 staff wins LA Press Club award against professional outlets
+
+date: 2025-06-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The paper took home a combined five awards, including four first-place prizes on Sunday.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/25/daily-trojan-spring-2024-staff-wins-la-press-club-award-against-professional-outlets/">Daily Trojan Spring 2024 staff wins LA Press Club award against professional outlets</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/25/daily-trojan-spring-2024-staff-wins-la-press-club-award-against-professional-outlets/>
+
+---
+
+## ‘Razor blade throat’ COVID variant continues to spread
+
+date: 2025-06-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Chief Campus Health Officer Sarah Van Orman said the new "nimbus" variant appears more transmissible but is not causing more severe illness. </p>
+<p>The post <a href="https://dailytrojan.com/2025/06/25/razor-blade-throat-covid-variant-continues-to-spread/">‘Razor blade throat&#8217; COVID variant continues to spread</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/25/razor-blade-throat-covid-variant-continues-to-spread/>
+
+---
+
+## Beyond the Dining Hall: A Data-Driven Look at UCLA’s Food Trucks
+
+date: 2025-06-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Stack explores the food trucks that have become a staple of UCLA&#8217;s campus dining scene, examining their performance and sharing their perspectives. 
+
+<br> 
+
+<https://features.dailybruin.com/2025/stack-food-trucks/>
 
 ---
 

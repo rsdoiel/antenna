@@ -1,11 +1,483 @@
 ---
 title: planet
-updated: 2025-06-24 14:07:53
+updated: 2025-06-25 06:08:41
 ---
 
 # planet
 
-(date: 2025-06-24 14:07:53)
+(date: 2025-06-25 06:08:41)
+
+---
+
+## 'Step-change needed' to end violence against women - SF
+
+date: 2025-06-25, from: RTÉ News
+
+Achieving zero-tolerance of violence against women requires a "step-change from Government", Sinn Féin leader Mary Lou McDonald has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0625/1520264-womens-aid-report-reax/>
+
+---
+
+## Former solicitor jailed over false deeds scheme
+
+date: 2025-06-25, from: RTÉ News
+
+A former solicitor involved in a scheme in which false deeds were used to change the ownership of two Dublin properties has been jailed for two-and-a-half years. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0625/1520270-false-deeds-conviction/>
+
+---
+
+## Judgement deferred on future of Athlone IPAS centre
+
+date: 2025-06-25, from: RTÉ News
+
+A High Court judge has deferred giving her judgement on the future of an IPAS centre in Athlone, which was designed to house up to 1,000 asylum seekers. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0625/1520265-court-athlone-ipas-centre/>
+
+---
+
+## $1 towards a girl’s education = $3 for the global economy: That's how development works
+
+date: 2025-06-25, from: United Nations, Top Stories
+
+Helping those with less isn’t charity – it’s a shared investment in a better future. Yet global development financing is under strain. An upcoming UN conference in Sevilla, Spain, aims to change that by mobilizing large-scale investment for a more just and sustainable world. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164856>
+
+---
+
+## Irish acts to watch at Glastonbury 2025
+
+date: 2025-06-25, from: RTÉ News
+
+The fields of Worthy Farm are calling once again as Glastonbury 2025 gets underway from 25 - 29 June, and there's no shortage of Irish talent making the pilgrimage to the world's most iconic music festival. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0625/1520261-irish-acts-to-watch-at-glastonbury-2025/>
+
+---
+
+## Supply 'key' to housing issue, says Tánaiste
+
+date: 2025-06-25, from: RTÉ News
+
+Tánaiste Simon Harris has said the key to the housing issue is supply and that the Government's success will be seen when it provides 300,000 homes over the next five years. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0625/1520254-housing/>
+
+---
+
+## Andrew Tate's UK civil trial moved to 2026
+
+date: 2025-06-25, from: RTÉ News
+
+Andrew Tate, an internet personality and self-described misogynist, faces a trial in Britain next year in four women's civil lawsuits for alleged physical and sexual abuse, after the case was brought forward today. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0625/1520250-andrew-tate/>
+
+---
+
+## Fermanagh mother's book makes the jump to big screen
+
+date: 2025-06-25, from: RTÉ News
+
+A filmmaker mother of three from Co Fermanagh is to have her book-turned-animation premiere at the Galway Film Fleadh next month. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0625/1520235-fermanagh-mothers-book-makes-the-jump-to-big-screen/>
+
+---
+
+## Pope Leo calls on Bishops to be men of communion
+
+date: 2025-06-25, from: Vatican News
+
+
+                    <p>In a meditation for the Jubilee of Bishops, Pope Leo XIV says Bishops must be witnesses of hope through the example of “a life firmly grounded in God and completely devoted to the service of the Church.”</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-calls-on-bishops-to-be-men-of-communion.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-calls-on-bishops-to-be-men-of-communion.html>
+
+---
+
+## RTÉ union members vote to accept pay deal
+
+date: 2025-06-25, from: RTÉ News
+
+Union members at RTÉ have overwhelmingly voted in favour of a 6% pay increase between May this year and December 2027. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0625/1520244-rte-pay-deal/>
+
+---
+
+## Pope to seminarians: 'Keep your eyes on Jesus'
+
+date: 2025-06-25, from: Vatican News
+
+
+                    <p>Pope Leo XIV urges seminarians from the Dioceses of Triveneto to keep their eyes fixed on Jesus, cast every minute of their lives on the Lord's faithfulness, and to remember that Blessed John Paul I, who came from their region, was a "shepherd" who presents "a true model for priestly life."</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-to-seminarians-stay-rooted-in-jesus-word.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-to-seminarians-stay-rooted-in-jesus-word.html>
+
+---
+
+## Iran-Israel war: latest developments
+
+date: 2025-06-25, from: RTÉ News
+
+Classified US intelligence suggests that strikes on Iran set back its nuclear programme by just a few months, contradicting President Donald Trump's claim of total destruction. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0625/1520209-iran-israel-explainer/>
+
+---
+
+## Pope Leo to Christians in Middle East: ‘The whole Church stands with you’
+
+date: 2025-06-25, from: Vatican News
+
+
+                    <p>Pope Leo XIV expresses his closeness with the Christians of the Middle East and calls once again for the paths of diplomacy and dialogue to be chosen.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-to-christians-in-middle-east-whole-church-stands-with-you.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-to-christians-in-middle-east-whole-church-stands-with-you.html>
+
+---
+
+## Pope at Audience: Let's go to Jesus, our hope! He can heal us!
+
+date: 2025-06-25, from: Vatican News
+
+
+                    <p>During his weekly General Audience in the Vatican, Pope Leo XIV reflects on two miracles which demonstrate that the Lord can always heal us when we go to Him in trust and faith, for "Jesus is our hope" and will make us new.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-general-audience-25-june-2025.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-general-audience-25-june-2025.html>
+
+---
+
+## Govt to convene trade forum ahead of US tariffs deadline
+
+date: 2025-06-25, from: RTÉ News
+
+The Government is to hold a special meeting of Ireland's trade forum for next Wednesday - a week out from the scheduled lifting of the pause on higher tariffs by the US. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0625/1520210-govt-to-convene-trade-forum-ahead-of-us-tariffs-deadline/>
+
+---
+
+## NATO declares 'ironclad' commitment to mutual defence
+
+date: 2025-06-25, from: RTÉ News
+
+Follow live as world leaders attend the NATO summit in the Hague, where conflicts in Ukraine, the Middle East and an expected hike to member states' defence spending are on the agenda 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0625/1520205-nato-summit/>
+
+---
+
+## Children in Gaza are dying of thirst, says UNICEF
+
+date: 2025-06-25, from: RTÉ News
+
+UNICEF has warned that while the world's attention is focused elsewhere, the situation in Gaza is "at the worst it has ever been" with the Palestinian territory hitting "rock bottom". 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0625/1520187-israel-gaza/>
+
+---
+
+## Nuclear facilities 'badly damaged, Iran's foreign ministry says
+
+date: 2025-06-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7570166.1750838517!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/iran-nuclear-parliament-iaea.JPG' alt='A balding man with a beard and mustache wearing glasses and a suit ' width='620' height='349' title='FILE PHOTO: Iranian Parliament Speaker Mohammad Baqer Qalibaf looks on after a press conference with Lebanese Parliament Speaker Nabih Berri, in Beirut, Lebanon, October 12, 2024. REUTERS/Amr Abdallah Dalsh/File Photo'/><p>Iran's Foreign Ministry spokesperson, Esmail Baghaei, confirmed Wednesday that the country's nuclear facilities had been "badly damaged" in American strikes over the weekend.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/iran-un-nuclear-watchdog-1.7570165?cmp=rss>
+
+---
+
+## What does NATO's 5% spending deal really mean?
+
+date: 2025-06-25, from: RTÉ News
+
+NATO leaders are set to sign off at their Hague summit on a defence spending pledge to satisfy US President Donald Trump's demand for a headline figure of 5% of GDP. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0625/1520200-nato-funding-explainer/>
+
+---
+
+## EU politicians vote to bar carry-on luggage fees
+
+date: 2025-06-25, from: RTÉ News
+
+European politicians pushed to ban airlines from charging passengers for small carry-on luggage in a move strongly opposed by the aviation sector. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0625/1520195-travel-baggage/>
+
+---
+
+## Astronauts from India, Poland, Hungary blast off to ISS
+
+date: 2025-06-25, from: RTÉ News
+
+A US commercial mission carrying astronauts from India, Poland and Hungary lifted off to the International Space Station Wednesday, taking people from these countries to space for the first time in decades. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0625/1520196-space-axiom/>
+
+---
+
+## Revellers pour into Glastonbury Festival as gates open
+
+date: 2025-06-25, from: RTÉ News
+
+The gates to Glastonbury Festival have opened for the 2025 celebration of performing arts and music. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0625/1520190-thousands-to-descend-on-glastonbury-festival/>
+
+---
+
+## NATO summit commits to higher spending, mutual defence
+
+date: 2025-06-25, from: RTÉ News
+
+NATO leaders have backed a big increase in defence spending and restated their commitment to defend each other from attack after a brief summit tailor-made for US President Donald Trump. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0625/1520188-nato-summit/>
+
+---
+
+## Israel-Iran truce holding as both nations claim victory
+
+date: 2025-06-25, from: RTÉ News
+
+The ceasefire brokered by US President Donald Trump between Iran and Israel appears to be holding a day after both countries signalled that their air war had ended. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0625/1520184-iran-israel/>
+
+---
+
+## Funeral of Lord Henry Mount Charles takes place in Slane
+
+date: 2025-06-25, from: RTÉ News
+
+The funeral of Lord Henry Mount Charles has taken place in Slane, Co Meath. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0625/1520182-henry-mount-charles-funeral/>
+
+---
+
+## Survey uncovers public concern with licensing conditions
+
+date: 2025-06-25, from: RTÉ News
+
+New findings from a survey about the nightlife industry in Ireland show that 71% of respondents believe that nightclubs cannot survive under current licensing conditions. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0625/1520174-nightclub-survey/>
+
+---
+
+## Concrete industry warns of quarry materials shortfall
+
+date: 2025-06-25, from: RTÉ News
+
+The concrete industry has warned Ireland is facing a significant shortfall of materials such as stone, sand and gravel in future years because quarries are not being granted sufficient planning permissions. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0625/1520154-quarry-shortfalls/>
+
+---
+
+## Watch: Young designer says sustainable practice 'a must'
+
+date: 2025-06-25, from: RTÉ News
+
+A young designer has said people wishing to work in the fashion industry have no option but to think sustainably when it comes to their designs. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0625/1520136-sustainable-fashion-designer/>
+
+---
+
+## Underdog shocks former governor in New York mayor primary
+
+date: 2025-06-25, from: RTÉ News
+
+Zohran Mamdani, a 33-year-old state politician and self-described democratic socialist, appears poised to win New York City's Democratic mayoral primary election in a surprising upset over former New York governor Andrew Cuomo. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0625/1520180-mamdani-new-york-mayor/>
+
+---
+
+## Minister wants less reliance on NTPF for HSE hospitals
+
+date: 2025-06-25, from: RTÉ News
+
+Minister for Health Jennifer Carroll MacNeill has said she wants to see a reduced reliance on the National Treatment Purchase Fund insourcing for Health Service Executive hospitals and on private work to cut waiting lists. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0625/1520168-health-committee/>
+
+---
+
+## Watch: Should Irish diaspora be given presidential vote?
+
+date: 2025-06-25, from: RTÉ News
+
+Later this year, Ireland will go to the polls to elect the next president. Under the current Constitution, only citizens residing in the State have the right to vote in presidential elections. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0625/1520138-presidential-election/>
+
+---
+
+## Upstart Mamdani declares victory with stunning upset in NYC Democratic mayoral primary
+
+date: 2025-06-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7570154.1750827787!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/election-2025-nyc-mayor.jpg' alt='A man with a beard wearing a suit stands behind a podium with right hand over his heart.' width='620' height='349' title='Democratic mayoral candidate Zohran Mamdani takes the stage at his primary election party, Wednesday, June 25, 2025, in New York. (AP Photo/Heather Khalifa)'/><p>Zohran Mamdani declared victory in New York City's Democratic mayoral primary Tuesday night after Andrew Cuomo conceded the race in a stunning upset, as the young, progressive upstart who was virtually unknown when the contest began built a substantial lead over the more experienced but scandal-scarred former governor.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/zohran-mamdani-nyc-democratic-mayoral-primary-1.7570151?cmp=rss>
+
+---
+
+## Defence and prosecution rest case in Sean Combs trial
+
+date: 2025-06-25, from: RTÉ News
+
+Both legal teams in the trial of Sean "Diddy" Combs have rested their case, ushering in the final phases of the high-profile proceedings in a Manhattan federal courthouse. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0625/1520178-sean-combs-trial/>
+
+---
+
+## Intelligence on Iran strike 'inconclusive', Trump says
+
+date: 2025-06-25, from: RTÉ News
+
+US President Donald Trump has labelled an intelligence report into the damage done to the Iranian nuclear programme as "inconclusive". 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0625/1520177-middle-east/>
+
+---
+
+## Fresh appeal launched over fatal hit-and-run in 2011
+
+date: 2025-06-25, from: RTÉ News
+
+A fresh appeal for information has been made over the death of a man in a hit-and-run in Co Monaghan in 2011. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0625/1520176-fintan-traynor-appeal/>
+
+---
+
+## Planned presentation to U.S. vaccine advisory panel cited a study that doesn't exist
+
+date: 2025-06-24, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7570136.1750818295!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/cdc-logo-seen-on-sign-at-its-building-in-atlanta.jpg' alt='A sign showing the logo for the U.S. Centers for Disease Control and Prevention at its building in Atlanta.' width='620' height='349' title='This Tuesday, April 1, 2025 photo shows the Centers for Disease Control and Prevention building in Atlanta.'/><p>A report on the use of the preservative thimerosal in vaccines slated to be presented Thursday to the scientific committee that advises the U.S. Centers for Disease Control and Prevention on how to use vaccines cites a study that does not exist, according to the scientist listed as the study's co-author.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/cdc-outside-vaccine-committee-nonexistent-study-1.7570117?cmp=rss>
+
+---
+
+## 33% of Women's Aid contacts abused by ex-partner - report
+
+date: 2025-06-24, from: RTÉ News
+
+Women's Aid has said that 33% of women who contacted the domestic violence service last year, were subjected to abuse from their ex-partner. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0625/1520156-womens-aid-annual-report/>
+
+---
+
+## Dawn Meats co-founder Daniel (Dan) Browne dies at age 88
+
+date: 2025-06-24, from: RTÉ News
+
+Dawn Meats has announced that its co-founder Daniel (Dan) Browne, has died aged 88. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0624/1520166-dawn-meats-browne-dies/>
 
 ---
 
@@ -13,7 +485,7 @@ updated: 2025-06-24 14:07:53
 
 date: 2025-06-24, from: RTÉ News
 
-Independent senator Frances Black has said she now feels it is unlikely she will be running as a candidate in the Presidential election. 
+Independent senator Frances Black has said she feels it is unlikely she will be running as a candidate in the Presidential election. 
 
 <br> 
 
@@ -45,11 +517,11 @@ Two men have been seriously injured following an explosion on a ship at Shannon 
 
 ---
 
-## Low pay blamed for air traffic controller shortage
+## Lower pay blamed for air traffic controller shortage
 
 date: 2025-06-24, from: RTÉ News
 
-The head of the Defence Forces has blamed the crisis in military air traffic controllers on low pay and competition from the commercial sector. 
+The head of the Defence Forces has blamed lower pay and competition from the commercial sector for the crisis in military air traffic controllers. 
 
 <br> 
 
@@ -78,6 +550,30 @@ Sinn Féin has tabled a motion seeking to extend presidential voting rights to I
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0624/1520144-presidential-voting-northern-ireland/>
+
+---
+
+## U.S. airstrikes set back Iran's nuclear program by just months, report says
+
+date: 2025-06-24, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7569891.1750801957!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/security-guard-standing-on-a-street-in-tehran-iran.JPG' alt='A security guard stands on a street in the Iranian capital of Tehran.' width='620' height='349' title='A security guard stands on a street, during early hours of ceasefire, in Tehran, Iran, June 24, 2025.'/><p>A U.S. intelligence report suggests that Iran's nuclear program has been set back only a few months after U.S. strikes and was not "completely and fully obliterated" as President Donald Trump has said, according to two people familiar with the early assessment.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/pentagon-intelligence-assessment-iran-strikes-1.7569872?cmp=rss>
+
+---
+
+## Sean (Diddy) Combs's sex trafficking trial is nearing its end. Here's how it played out
+
+date: 2025-06-24, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7569355.1750797057!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/sean-diddy-combs-trial-june-23.JPG' alt='A courtroom artist&apos;s sketch of a man in a light brown suit sitting in court looking at a screen with the message &quot;Hey KK - I need more baby oil&quot; typed on it. ' width='620' height='349' title='Sean (Diddy) Combs watches proceedings as text messages between him and his former chief of staff Kristina Khorram are shown at Combs&apos; sex trafficking trial in New York City, New York, U.S., June 23, 2025 in this courtroom sketch. '/><p>Prosecutors in the sex trafficking and racketeering conspiracy trial of hip-hop mogul Sean (Diddy) Combs have rested their case after calling 34 witnesses. The defence rested without calling any witnesses, and closing arguments are set for Thursday. Here's a look at what's happened over the course of the more than six-week trial. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/sean-diddy-combs-trial-wrap-1.7569344?cmp=rss>
 
 ---
 
@@ -202,6 +698,18 @@ Households are being "hammered left, right, and centre" because food prices are 
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0624/1520100-leaders-questions/>
+
+---
+
+## Manitoba must cancel moose hunt licensing lottery as wildfires scorch habitats, chief says
+
+date: 2025-06-24, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7560117.1750711756!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/chief-david-monias.jpeg' alt='A man in a black t-shirt and glass stands in front of a picture. ' width='620' height='349' title='Pimicikamak Cree Nation Chief David Monias is shown in a June 12, 2025 photo. He says the Red Cross is in charge of covering accommodations and meals for evacuees from wildfires in Manitoba, but just until recently, they have started assuming the costs of those who are not staying in hotels arranged with them. '/><p>The chief of a First Nation in northern Manitoba says the province must cancel this year’s moose hunting licence lottery as wildfires continue to scorch the region.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/manitoba-moose-lottery-wildfire-1.7568813?cmp=rss>
 
 ---
 
@@ -409,7 +917,7 @@ Nearly three months after Myanmar’s strongest earthquake in a century, more th
 
 date: 2025-06-24, from: United Nations, Top Stories
 
-The Security Council is meeting over the future of the Joint Comprehensive Plan of Action put in place in 2015 to prevent Iran from weaponising its ambitious nuclear programme, which has been in effective limbo since the US withdrawal in 2018 and Iran’s rejection of parts of the deal. UN political affairs chief Rosemary DiCarlo described the US-brokered ceasefire overnight between Israel and Iran as a “significant achievement” and “an opportunity to avoid a catastrophic escalation and achieve a peaceful resolution of the Iran nuclear issue.” Follow our Meetings Coverage Section live coverage below and UN News app users can follow here. 
+The Security Council met Tuesday in New York over the future of the Joint Comprehensive Plan of Action put in place in 2015 to prevent Iran from weaponising its ambitious nuclear programme, which has been in effective limbo since the US withdrawal in 2018 and Iran’s rejection of parts of the deal. UN political affairs chief Rosemary DiCarlo described the US-brokered ceasefire overnight between Israel and Iran as a “significant achievement” and “an opportunity to avoid a catastrophic escalation and achieve a peaceful resolution of the Iran nuclear issue.” Follow our Meetings Coverage Section live coverage below and UN News app users can follow here. 
 
 <br> 
 
@@ -433,7 +941,7 @@ A story of grassroots persistence in Somalia could serve as a powerful reminder 
 
 date: 2025-06-24, from: United Nations, Top Stories
 
-Once a teenager without legal status or access to education, Madiha Ali Changezi is now speaking out as a living example of what refugee resettlement can achieve.&nbsp; 
+Once a teenager without legal status or access to education in Afghanistan, Madiha Ali Changezi is now speaking out as a living example of what refugee resettlement can achieve.&nbsp; 
 
 <br> 
 
@@ -490,6 +998,18 @@ US President Donald Trump has said that Israel has to calm down after he said bo
 <br> 
 
 <https://www.rte.ie/news/world/2025/0624/1520070-us-middle-east/>
+
+---
+
+## Former First Lady of Iceland Eliza Reid shares her life in books
+
+date: 2025-06-24, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7409978.1734111174!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/death-on-the-island-by-eliza-reid-1.jpg' alt='A book cover of an Icelandic coast. An author photo of a white woman with brown hair in a yellow blazer smiling against a blue background.' width='620' height='349' title='Death on the Island is a mystery by Eliza Reid.'/><p>The Canadian-born Reid worked as a journalist before stepping into the political spotlight. The bestselling mystery writer shares the most influential books in her life.</p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/thenextchapter/former-first-lady-of-iceland-eliza-reid-shares-her-life-in-books-1.7564400?cmp=rss>
 
 ---
 
@@ -665,6 +1185,18 @@ Oil prices extended losses today to hit a two-week low on what the market viewed
 
 ---
 
+## Firefighting sisters from Pinaymootang First Nation working on the front lines of Manitoba's wildfire effort
+
+date: 2025-06-24, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7569071.1750727430!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/heather-and-delilah-anderson-bissett-wildfire-june-2025.jpg' alt='Two firefighters wearing orange-yellow jumpsuits and orange hard hats use a hose to ' width='620' height='349' title='Delilah Anderson, left, and Heather Anderson, right, fight a wildfire near Bissett, Man., in mid-June 2025. '/><p>Two firefighting sisters from Pinaymootang First Nation in Manitoba’s Interlake region say they are looking forward to returning to the front lines of the provincial wildfire effort after a deployment battling the Nopiming Provincial Park blaze near Bissett.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/nopiming-wildfire-pinaymootang-first-nation-firefighters-1.7569053?cmp=rss>
+
+---
+
 ## US hit by first extreme heat wave of the year
 
 date: 2025-06-24, from: RTÉ News
@@ -689,11 +1221,11 @@ Plans to overhaul how Leaving Certificate students are assessed will be discusse
 
 ---
 
-## US set back Iran nuclear programme by months - sources
+## As it happened: Israel told to calm down amid ceasefire
 
 date: 2025-06-24, from: RTÉ News
 
-Follow live developments as some NATO members called on Iran to come to the negotiating table with a fragile ceasefire with Israel appearing to hold. 
+Read back through all the latest developments on the day US President Donald Trump told Israel to calm down amid reports of possible violations of a US-proposed ceasefire with Iran. 
 
 <br> 
 
@@ -770,6 +1302,18 @@ date: 2025-06-24, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/politics/nato-leaders-summit-1.7568938?cmp=rss>
+
+---
+
+## Canada promises to spend 5% of GDP on defence by 2035 in pact with NATO leaders
+
+date: 2025-06-24, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/d34c4aac-0a1f-43ad-b838-84eddf3db4b0,1750813446536/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3BResize%3D%28620%29' alt='' width='620' height='349' title=''/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/canada-agrees-five-percent-gdp-defence-spending-1.7570191?cmp=rss>
 
 ---
 

@@ -1,11 +1,214 @@
 ---
 title: socal north
-updated: 2025-06-24 14:07:54
+updated: 2025-06-25 06:08:43
 ---
 
 # socal north
 
-(date: 2025-06-24 14:07:54)
+(date: 2025-06-25 06:08:43)
+
+---
+
+## Video shows man arrested at immigration check-in, ICE says
+
+date: 2025-06-25, updated: 2025-06-25, from: The LAist
+
+The video, shared widely across social media, sparked questions from witnesses and the community. 
+
+<br> 
+
+<https://laist.com/news/video-shows-man-arrested-at-immigration-check-in-ice-says>
+
+---
+
+## Federal judge finds LA failed to create enough shelter for unhoused people as required in agreement
+
+date: 2025-06-25, updated: 2025-06-25, from: The LAist
+
+Federal judge orders stepped up monitoring and criticizes city officials for failures that "undermined public trust." 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/federal-judge-finds-la-failed-to-create-enough-shelter-for-unhoused-people-required-in-agreement>
+
+---
+
+## Orange County approves $10.8B budget — but there's one giant question mark
+
+date: 2025-06-25, updated: 2025-06-25, from: The LAist
+
+The county is facing at least $400 million in liability claims related to the Airport Fire, which was accidentally started by public crews. 
+
+<br> 
+
+<https://laist.com/news/politics/orange-county-approves-budget-but-what-about-airport-fire-liabilities>
+
+---
+
+## Trump says early report on damage to Iran's nuclear program was inconclusive
+
+date: 2025-06-24, updated: 2025-06-24, from: The LAist
+
+An early intelligence report found U.S. strikes on Iran sites may only have set its nuclear program back "a few months." Trump said it was inconclusive, but believes damage was more severe. 
+
+<br> 
+
+<https://laist.com/news/early-intel-assessment-says-irans-nuclear-program-was-only-set-back-a-few-months>
+
+---
+
+## Sacramento police release search warrant in California senator’s DUI investigation
+
+date: 2025-06-24, updated: 2025-06-24, from: The LAist
+
+CalMatters obtained the search warrant from Sen. Sabrina Cervantes’ DUI investigation. Here’s what it says. 
+
+<br> 
+
+<https://laist.com/news/politics/sacramento-police-release-search-warrant-in-california-senators-dui-investigation>
+
+---
+
+## LA County issues pollution warning for water around busy Santa Monica Pier
+
+date: 2025-06-24, updated: 2025-06-25, from: The LAist
+
+Bacteria in the ocean can make you sick. Here’s what you need to know. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-county-issues-water-pollution-warning-santa-monica-pier>
+
+---
+
+## LA County leaders vote to extend housing price-gouging protections for another month
+
+date: 2025-06-24, updated: 2025-06-25, from: The LAist
+
+An order against hiking rents more than 10% after January’s wildfires was set to expire on July 1. The L.A. County Board of Supervisors voted to extend it until July 31. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-county-board-of-supervisors-price-gouging-rent-housing-fire-protections-extend-july>
+
+---
+
+## As Sean Combs' prosecutors rest, here's the case they've made
+
+date: 2025-06-24, updated: 2025-06-24, from: The LAist
+
+The meandering trial of the hip-hop mogul can be difficult to parse. Here's a broad overview of the charges and the case the government has presented to the jury. 
+
+<br> 
+
+<https://laist.com/news/sean-combs-prosecutors-rest-here-is-the-case-theyve-made>
+
+---
+
+## A plan to put millions of acres of SoCal public lands up for sale could be scrapped  — for now
+
+date: 2025-06-24, updated: 2025-06-25, from: The LAist
+
+A GOP plan to sell off public land may be off the table after the advisor to the U.S. Senate said the plan would violate chamber rules. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/a-plan-to-put-millions-of-acres-of-socal-public-lands-up-for-sale-for-now>
+
+---
+
+## Accused accomplice in Palm Springs fertility clinic bombing dies in federal custody
+
+date: 2025-06-24, from: Longbeach Post
+
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>He allegedly supplied chemicals used in the May 17 attack that authorities say was carried out by the deceased “anti-life” bomber, Guy Edward Bartkus.</p>
+<p>The post <a href="https://lbpost.com/news/accused-accomplice-in-palm-springs-fertility-clinic-bombing-dies-in-federal-custody">Accused accomplice in Palm Springs fertility clinic bombing dies in federal custody</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/accused-accomplice-in-palm-springs-fertility-clinic-bombing-dies-in-federal-custody>
+
+---
+
+## With costs rising and relief money gone, LAUSD taps reserves to pay for new budget
+
+date: 2025-06-24, updated: 2025-06-25, from: The LAist
+
+Enrollment has declined for more than two decades and the district is spending more money than it brings in. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-los-angeles-unified-school-district-budget-fiscal-year-2026>
+
+---
+
+## After lashing out at Israel and Iran, Trump says the 'ceasefire is in effect'
+
+date: 2025-06-24, updated: 2025-06-24, from: The LAist
+
+President Trump demanded that Israel back off further attacks on Iran after accusing both countries of violating the ceasefire. 
+
+<br> 
+
+<https://laist.com/news/after-lashing-out-at-israel-and-iran-trump-says-the-ceasefire-is-in-effect>
+
+---
+
+## City of Santa Clarita to Host World’s Largest Wim Lesson at Aquatic Center
+
+date: 2025-06-24, from: City of Santa Clarita
+
+<p>The City of Santa Clarita is proud to host a location for the 2025 World’s Largest Swim Lesson on Thursday, June 26 from 10:30 to 11:00 a.m. at the Santa Clarita Aquatic Center, presented by Kaiser Permanente (20850 Centre Pointe Parkway). This free event is part of a global effort to raise awareness about the [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/24/dive-in-as-water-safety-day-returns-to-santa-clarita-2/">City of Santa Clarita to Host World&#8217;s Largest Wim Lesson at Aquatic Center</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/24/dive-in-as-water-safety-day-returns-to-santa-clarita-2/>
+
+---
+
+## California retires RICA, new teacher test to focus on phonics
+
+date: 2025-06-24, updated: 2025-06-24, from: The LAist
+
+On July 1, the unpopular Reading Instruction Competence Assessment will be replaced with a performance assessment to ensure teachers are prepared to teach students to read. 
+
+<br> 
+
+<https://laist.com/news/education/california-retires-rica-new-teacher-test-to-focus-on-phonics>
+
+---
+
+## Long Beach expands free shuttle service along the city’s coastline, downtown
+
+date: 2025-06-24, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>You can now take the free shuttles all the way to the Queen Mary and through many other areas where it's difficult or expensive to park.</p>
+<p>The post <a href="https://lbpost.com/news/city/lb-circuit-free-shuttle-service-belmont-downtown">Long Beach expands free shuttle service along the city&#8217;s coastline, downtown</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/lb-circuit-free-shuttle-service-belmont-downtown>
+
+---
+
+## Where to watch fireworks in and around Long Beach for the 4th of July
+
+date: 2025-06-24, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/05083603/4thofJuly_QueenMary_2023-9-scaled-e1688571608517.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/05083603/4thofJuly_QueenMary_2023-9-scaled-e1688571608517.jpg 1400w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/05083603/4thofJuly_QueenMary_2023-9-scaled-e1688571608517-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/05083603/4thofJuly_QueenMary_2023-9-scaled-e1688571608517-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/05083603/4thofJuly_QueenMary_2023-9-scaled-e1688571608517-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/05083603/4thofJuly_QueenMary_2023-9-scaled-e1688571608517-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/05083603/4thofJuly_QueenMary_2023-9-scaled-e1688571608517-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/05083603/4thofJuly_QueenMary_2023-9-scaled-e1688571608517-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Here's 10 options to catch Independence Day fireworks on and leading up to the holiday.</p>
+<p>The post <a href="https://lbpost.com/news/where-to-watch-fireworks-long-beach-4th-of-july">Where to watch fireworks in and around Long Beach for the 4th of July</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/where-to-watch-fireworks-long-beach-4th-of-july>
 
 ---
 
@@ -18,6 +221,21 @@ A ruling expected in the next few days.
 <br> 
 
 <https://laist.com/news/politics/california-urges-court-to-answer-how-long-trump-can-keep-national-guard-in-la>
+
+---
+
+## Long Beach congressman picked to be top Democrat on House Oversight Committee
+
+date: 2025-06-24, from: Longbeach Post
+
+<figure><img width="1024" height="623" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144129/22apr25-garcia-0-062963-0ac9rwsf-587301-pFxuZnNX-1024x623.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144129/22apr25-garcia-0-062963-0ac9rwsf-587301-pFxuZnNX-1024x623.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144129/22apr25-garcia-0-062963-0ac9rwsf-587301-pFxuZnNX-300x183.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144129/22apr25-garcia-0-062963-0ac9rwsf-587301-pFxuZnNX-768x467.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144129/22apr25-garcia-0-062963-0ac9rwsf-587301-pFxuZnNX-178x108.jpg 178w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144129/22apr25-garcia-0-062963-0ac9rwsf-587301-pFxuZnNX-400x243.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144129/22apr25-garcia-0-062963-0ac9rwsf-587301-pFxuZnNX.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It’s a powerful seat on an influential investigative committee, typically reserved for the House's most senior members. </p>
+<p>The post <a href="https://lbpost.com/news/politics/long-beach-congressman-picked-to-be-top-democrat-on-house-oversight-committee">Long Beach congressman picked to be top Democrat on House Oversight Committee</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/long-beach-congressman-picked-to-be-top-democrat-on-house-oversight-committee>
 
 ---
 
@@ -57,9 +275,9 @@ Gov. Gavin Newsom in May announced that he wanted state workers in the office fo
 
 ---
 
-## Street corner flower sellers are staying home. It’s a disaster for LA’s wholesale flower market
+## As street rose sellers stay home, LA’s wholesale flower market is upended
 
-date: 2025-06-24, updated: 2025-06-24, from: The LAist
+date: 2025-06-24, updated: 2025-06-25, from: The LAist
 
 Vendors say since the immigration raids in downtown’s flower district, business is down 60%. 
 
@@ -85,7 +303,7 @@ LAist ha reunido una lista de recursos para ayudar a las personas y familias pre
 
 date: 2025-06-24, from: Longbeach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>She was arrested last week on unrelated charges and rebooked on suspicion of murder, jail records show.</p>
 <p>The post <a href="https://lbpost.com/news/19-year-old-woman-arrested-on-suspicion-of-fatally-shooting-young-man">19-year-old woman arrested on suspicion of fatally shooting young man</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -184,7 +402,7 @@ Meanwhile, the city is collecting public input on what to do with the hangar's r
 
 date: 2025-06-23, from: Longbeach Post
 
-<figure><img width="1024" height="748" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-1024x748.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-1024x748.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-300x219.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-768x561.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-148x108.jpg 148w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-400x292.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="748" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-1024x748.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-1024x748.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-300x219.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-768x561.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-148x108.jpg 148w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG-400x292.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/16115354/16jun25-6-16-25-boy-0-971240-bpz1sivq-874150-z6spYgGG.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>“Losing him has hit our group hard. It’s the kind of pain that doesn’t just go away,” said one friend, who is among those planning ways to honor his memory.</p>
 <p>The post <a href="https://lbpost.com/news/crime/15-year-old-killed-bus-bench-long-beach-carlos-ramirez">Friends, family mourn 15-year-old killed when driver hit bus bench</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

@@ -1,11 +1,83 @@
 ---
 title: going electric
-updated: 2025-06-24 14:08:03
+updated: 2025-06-25 06:08:50
 ---
 
 # going electric
 
-(date: 2025-06-24 14:08:03)
+(date: 2025-06-25 06:08:50)
+
+---
+
+## EV Charger Funding Finally Gets Some Good News
+
+date: 2025-06-25, from: Inside EVs News
+
+A federal judge has ordered the Trump administration to release billions of dollars in funding for electric vehicle chargers. 
+
+<br> 
+
+<https://insideevs.com/news/763818/trump-judge-nevi-funding-june/>
+
+---
+
+## California man sues Amazon after catastrophic electric bike crash
+
+date: 2025-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/asldkfjasdfjkhk.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A man in California has sued Amazon as well as the maker of an electric bike that he purchased on Amazon after he claims that the bike malfunctioned, resulting in a crash that left him severely injured.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="422108" href="https://electrek.co/2025/06/25/california-man-sues-amazon-after-catastrophic-electric-bike-crash/#more-422108" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/25/california-man-sues-amazon-after-catastrophic-electric-bike-crash/>
+
+---
+
+## Now May Be The Time To Buy A Used Tesla Model 3
+
+date: 2025-06-24, from: Inside EVs News
+
+Tesla Model 3 values are tanking. You may want to get a bumper sticker or something, but then you can own a long-range EV for cheap. 
+
+<br> 
+
+<https://insideevs.com/news/763738/tesla-model-3-used-values-plummet/>
+
+---
+
+## 5,000 electric Mercedes vans join Amazon’s delivery fleet
+
+date: 2025-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Mercedes-Amazon-electric-van.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.mercedes-benz.co.uk/vans.html" target="_blank" rel="noreferrer noopener">Mercedes-Benz</a> is sending nearly 5,000 electric vans to Amazon’s European delivery partners in its biggest EV handoff to date. The fleet will hit the streets in five countries in the coming months.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="amazon,europe,mercedes-benz,mercedes-benz-esprinter,mercedes-benz-evito" data-layer-viewtype="unknown" data-post-id="422049" href="https://electrek.co/2025/06/24/5000-electric-mercedes-vans-join-amazon-delivery-fleet/#more-422049" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/24/5000-electric-mercedes-vans-join-amazon-delivery-fleet/>
+
+---
+
+## BYD is flooding Europe with new EVs faster than any other carmaker has
+
+date: 2025-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/BYDs-EV-price-cuts-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It already outsold Tesla in the UK and Europe, but this could be just the start. <a href="https://electrek.co/guides/byd/">BYD</a> said it’s launching new vehicles, including EVs, faster than any carmaker in Europe has done so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="422047" href="https://electrek.co/2025/06/24/byd-flooding-europe-with-new-evs-faster-than-any-carmaker/#more-422047" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/24/byd-flooding-europe-with-new-evs-faster-than-any-carmaker/>
 
 ---
 

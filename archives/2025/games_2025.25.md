@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-06-24 14:07:59
+updated: 2025-06-25 06:08:47
 ---
 
 # games
 
-(date: 2025-06-24 14:07:59)
+(date: 2025-06-25 06:08:47)
+
+---
+
+## After too many ‘hat sets,’ Magic is getting back to real worldbuilding with Edge of Eternities
+
+date: 2025-06-25, updated: 2025-06-25, from: Polygon Website
+
+After wrapping up 30 years of plot with the Avengers: Endgame-style crossover set March of the Machines, Magic: The Gathering’s storytelling has taken a backseat in the past few years. Wizards of the Coast increased its focus on Universes Beyond sets based on popular IP like Final Fantasy, The Lord of the Rings, and Doctor [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/608804/edge-of-eternities-lore-setting-original-unique>
+
+---
+
+## Ironheart won’t make Riri Williams Marvel’s next Tony Stark
+
+date: 2025-06-25, updated: 2025-06-24, from: Polygon Website
+
+In the timeline of the Marvel Cinematic Universe, brilliant inventor Riri Williams (Dominique Thorne) uses scavenged parts to build an Iron Man-style suit that manages to look just as good and work as well as anything crafted with the full resources of Stark Industries. However the composition of her new standalone series Ironheart is far [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/608523/ironheart-review-riri-williams-not-next-tony-stark>
+
+---
+
+## What’s left for Switch 2 in 2025?
+
+date: 2025-06-24, updated: 2025-06-24, from: Polygon Website
+
+Nintendo announced Tuesday that Switch 2 exclusive Drag x Drive — the company’s wheelchair basketball game that shows off the system’s mouse controls — will arrive on Aug. 14. That’s the same day another kind-of-a-big-deal sports game, Madden NFL 26, lands on Switch 2. The release date of Drag x Drive is also providing a little [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/608748/new-2025-games-release-dates-metroid-kirby>
 
 ---
 

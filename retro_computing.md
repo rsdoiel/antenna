@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-06-24 14:08:02
+updated: 2025-06-25 06:08:49
 ---
 
 # retro computing
 
-(date: 2025-06-24 14:08:02)
+(date: 2025-06-25 06:08:49)
+
+---
+
+## Orpheus Internet kills off Intel
+
+date: 2025-06-25, from: Icon Bar, RISC OS News
+
+If you have chatted to Richard Brown at recent RISC OS Shows you will know that he has been planning to migrate the servers Orpheus Internet uses from Intel Xeon systems to pure ARM. This is now has been competed and the 2 Xeon boxes have been replaced by a cluster of 16/17 Raspberry Pi 5 boxes. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2213.html>
+
+---
+
+## Two Local Privilege Escalation Flaws Discovered in Linux
+
+date: 2025-06-24, from: Linux Magazine
+
+<p>Qualys researchers have discovered two local privilege escalation vulnerabilities that allow hackers to gain root privileges on major Linux distributions.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Two-Local-Privilege-Escalation-Flaws-Discovered-in-Linux>
 
 ---
 

@@ -1,11 +1,73 @@
 ---
 title: motorcycles
-updated: 2025-06-24 14:08:01
+updated: 2025-06-25 06:08:49
 ---
 
 # motorcycles
 
-(date: 2025-06-24 14:08:01)
+(date: 2025-06-25 06:08:49)
+
+---
+
+## Watch Dax Shepard and Brad Pitt talk Isle of Man Doc, Motos, and More
+
+date: 2025-06-25, from: Ride Apart, Electric Motorcycle News
+
+It's unlikely you'll listen to something like this ever again. 
+
+<br> 
+
+<https://www.rideapart.com/news/763731/watch-dax-shepard-brad-pitt-iomtt-moto-interview/>
+
+---
+
+## Senate Excludes Public Land Sales From Budget, New Lee Proposal Put's It Back In
+
+date: 2025-06-25, from: Ride Apart, Electric Motorcycle News
+
+After public outcry, the Senate parliamentarian has supposedly stricken the public land sales from the budget reconciliation bill. But Senator Mike Lee wants to add it back in.  
+
+<br> 
+
+<https://www.rideapart.com/news/763685/utah-senator-mike-lee-public-land-sales-parliamentarian/>
+
+---
+
+## Beta Drops New RX 250 and 350 2-Strokes Dirt Bikes to Join Updated RX 450
+
+date: 2025-06-25, from: Ride Apart, Electric Motorcycle News
+
+Beta’s taking its motocross machines more seriously than ever before. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/763613/2026-beta-250-350-450-rx-launch-specs-features/>
+
+---
+
+## Some Dudes Stole a $35,000 Kawasaki Superbike Right Out of a Guy's Home
+
+date: 2025-06-25, from: Ride Apart, Electric Motorcycle News
+
+Y'all are just gonna walk into a man's home and steal his motorcycle? 
+
+<br> 
+
+<https://www.rideapart.com/news/763689/thieves-steal-35000-dollar-kawasaki-superbike-out-of-home/>
+
+---
+
+## This Electric Mountain Bike Has Too Much Horsepower, and It’s Totally Badass
+
+date: 2025-06-25, from: Ride Apart, Electric Motorcycle News
+
+6 kilowatts and 280 Nm of torque is definitely overkill for a pedal-assist bicycle. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/763615/nireeka-spectrx-electric-mtb-crazy-power-torque/>
 
 ---
 

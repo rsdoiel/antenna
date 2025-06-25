@@ -1,11 +1,59 @@
 ---
 title: north america
-updated: 2025-06-24 14:07:54
+updated: 2025-06-25 06:08:42
 ---
 
 # north america
 
-(date: 2025-06-24 14:07:54)
+(date: 2025-06-25 06:08:42)
+
+---
+
+## Time for a Democracy Revival
+
+date: 2025-06-25, from: The Contrarian
+
+A blueprint for reclaiming that which defines us 
+
+<br> 
+
+<https://contrarian.substack.com/p/time-for-a-democracy-revival>
+
+---
+
+##  Zohran Mamdani’s Mandate Is A Democratic Earthquake 
+
+date: 2025-06-25, from: The Lever News
+
+ There will now be a high-stakes battle to define the meaning of the New York mayoral candidate’s historic win.  
+
+<br> 
+
+<https://www.levernews.com/zohran-mamdanis-mandate-is-a-democratic-earthquake/>
+
+---
+
+## Evening Roundup, June 24
+
+date: 2025-06-24, from: The Contrarian
+
+Featuring Marvin Kalb; Norm Eisen & Tom Joscelyn; Mayor Karen Bass & Jen Rubin; Max Stier; Brian O'Neill; Jeff Nesbit; Meredith Blake; and Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-24>
+
+---
+
+## War and Peace
+
+date: 2025-06-24, from: The Contrarian
+
+A cartoon by Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/war-and-peace>
 
 ---
 

@@ -1,11 +1,486 @@
 ---
 title: pacific
-updated: 2025-06-24 14:07:55
+updated: 2025-06-25 06:08:43
 ---
 
 # pacific
 
-(date: 2025-06-24 14:07:55)
+(date: 2025-06-25 06:08:43)
+
+---
+
+## Man dies after being struck by lightning on his honeymoon in Florida
+
+date: 2025-06-25, from: Hawaii Tribune Harold
+
+
+				<p>A Colorado man who was on his honeymoon in central Florida died after being struck by lightning at New Smyrna Beach on Friday in what may have been the state&#8217;s first lightning fatality this year, authorities said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/25/nation-world-news/man-dies-after-being-struck-by-lightning-on-his-honeymoon-in-florida/>
+
+---
+
+## Hiker who fell off volcano trail in Indonesia is found dead, her family says
+
+date: 2025-06-25, from: Hawaii Tribune Harold
+
+
+				<p>A Brazilian woman who fell hundreds of feet while hiking on an active volcano in Indonesia and was unreachable for three days was found dead Tuesday, according to her family.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/25/nation-world-news/hiker-who-fell-off-volcano-trail-in-indonesia-is-found-dead-her-family-says/>
+
+---
+
+## Democrats forge ahead with efforts to reach war powers vote amid shaky ceasefire
+
+date: 2025-06-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Democrats on Capitol Hill are forging ahead with efforts to curb President Donald Trump&#8217;s ability to take further military action against Iran, moving amid a shaky ceasefire to build support for a measure that could come to a Senate vote as soon as the end of the week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/25/nation-world-news/democrats-forge-ahead-with-efforts-to-reach-war-powers-vote-amid-shaky-ceasefire/>
+
+---
+
+## Strike set back Iran’s nuclear program by only a few months, US report says
+
+date: 2025-06-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A preliminary classified U.S. report says the American bombing of three nuclear sites in Iran set back the country&#8217;s nuclear program by only a few months, according to officials familiar with the findings.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/25/nation-world-news/strike-set-back-irans-nuclear-program-by-only-a-few-months-us-report-says/>
+
+---
+
+## New Hilo zoo fees kick in Aug. 1
+
+date: 2025-06-25, from: Hawaii Tribune Harold
+
+
+				<p>Following extensive public input, the Hawaii County Department of Parks and Recreation is adopting rule amendments for the Pana&#8216;ewa Recreational Complex, including the introduction of admission fees to the Pana&#8216;ewa Rainforest Zoo and Gardens.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/25/hawaii-news/new-hilo-zoo-fees-kick-in-aug-1/>
+
+---
+
+## House conservatives warn they can’t back Senate bill to enact Trump’s agenda
+
+date: 2025-06-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump on Tuesday urged congressional Republicans not to leave Washington at the end of the week for a scheduled recess until they pass a sprawling bill to enact his domestic agenda, ratcheting up pressure on hard-liners in the House to swallow their objections and adopt the legislation the Senate is crafting.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/25/nation-world-news/house-conservatives-warn-they-cant-back-senate-bill-to-enact-trumps-agenda/>
+
+---
+
+## Luke signs bills expanding preschool eligibility
+
+date: 2025-06-25, from: Hawaii Tribune Harold
+
+
+				<p>Lt. Gov. Sylvia Luke, serving as acting governor, on Monday signed into law Act 203, a major expansion of the state&#8217;s Preschool Open Doors tuition subsidy program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/25/hawaii-news/luke-signs-bills-expanding-preschool-eligibility/>
+
+---
+
+## Bail reduced for Ocean View standoff suspect
+
+date: 2025-06-25, from: Hawaii Tribune Harold
+
+
+				<p>A judge on Tuesday reduced bail for a former fugitive who on Monday engaged in an hours-long armed standoff with police in Hawaiian Ocean View Estates.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/25/hawaii-news/bail-reduced-for-ocean-view-standoff-suspect/>
+
+---
+
+## Penn asks judge for ‘identity verification’ of his mother
+
+date: 2025-06-25, from: Hawaii Tribune Harold
+
+
+				<p>UFC Hall of Famer BJ Penn has said on social media he believes an identical imposter has taken the place of his mother, Lorraine Shin, his brothers and others around him.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/25/hawaii-news/penn-asks-judge-for-identity-verification-of-his-mother/>
+
+---
+
+## Missing bolts and other failures caused plane panel to blow off, NTSB says
+
+date: 2025-06-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Investigators for the National Transportation Safety Board said Tuesday that a single bolt could have averted a terrifying incident last year when a panel blew off an Alaska Airlines Boeing 737 Max 9 airplane midair.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/25/nation-world-news/missing-bolts-and-other-failures-caused-plane-panel-to-blow-off-ntsb-says/>
+
+---
+
+## Ceasefire between Israel and Iran appears to hold after Trump rebuke
+
+date: 2025-06-25, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; A fragile ceasefire between Israel and Iran appeared to take hold Tuesday after a final volley of deadly strikes between the two countries infuriated President Donald Trump and highlighted the difficulty of ending a war that had raged for 12 days.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/25/nation-world-news/ceasefire-between-israel-and-iran-appears-to-hold-after-trump-rebuke/>
+
+---
+
+## Cassidy, in break with Kennedy, calls for vaccine meeting delay
+
+date: 2025-06-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The chair of the Senate health committee, in his first significant break with Health Secretary Robert F. Kennedy Jr., called for a delay in this week&#8217;s meeting of a panel of vaccine advisers, saying the group Kennedy appointed lacks the experience and ideological diversity necessary to ensure public faith in its recommendations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/25/nation-world-news/cassidy-in-break-with-kennedy-calls-for-vaccine-meeting-delay/>
+
+---
+
+## NATO leaders set to back Trump defense spending goal at Hague summit
+
+date: 2025-06-25, from: Hawaii Tribune Harold
+
+
+				<p>THE HAGUE &#8212; NATO leaders gather in The Hague on Wednesday for a summit tailor-made for U.S. President Donald Trump, with European allies hoping a pledge to hike defense spending will prompt him to dispel doubts about his commitment to the alliance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/25/nation-world-news/nato-leaders-set-to-back-trump-defense-spending-goal-at-hague-summit/>
+
+---
+
+## FICO scores to include a shopper’s ‘buy now, pay later’ loan history
+
+date: 2025-06-25, from: Hawaii Tribune Harold
+
+
+				<p>How consumers use &#8220;buy now, pay later&#8221; loans will be incorporated into one of the key metrics used to determine credit worthiness.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/25/nation-world-news/fico-scores-to-include-a-shoppers-buy-now-pay-later-loan-history/>
+
+---
+
+## Extreme heat is exacerbating air pollution, a ‘double whammy’ for health
+
+date: 2025-06-25, from: Hawaii Tribune Harold
+
+
+				<p>The heat dome that is scorching more than 90 million people across the United States this week also threatens to deliver polluted air, something scientists say is a growing problem on a warming planet.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/25/nation-world-news/extreme-heat-is-exacerbating-air-pollution-a-double-whammy-for-health/>
+
+---
+
+## First time in 100 years: Young kayakers on a ride for the ages
+
+date: 2025-06-25, from: Hawaii Tribune Harold
+
+
+				<p>CHILOQUIN, Ore. &#8212; The remote and rugged Klamath River in Oregon and California, one of the mightiest in the American West and an ancient lifeline to Indigenous tribes, is running free again, mostly, for the first time in 100 years after the recent removal of four major dams.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/25/features/first-time-in-100-years-young-kayakers-on-a-ride-for-the-ages/>
+
+---
+
+## Hawaiian Word of the Week: ʻOihana
+
+date: 2025-06-25, from: University of Hawaiʻi News
+
+<p>&#699;Oihana&#8212;Occupation, trade, job.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/24/hawaiian-word-of-the-week-oihana/">Hawaiian Word of the Week: ʻOihana</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/24/hawaiian-word-of-the-week-oihana/>
+
+---
+
+## 'Slow but sure' economic rise in most of Pacific - World Bank
+
+date: 2025-06-25, from: 
+
+The economic story of the Pacific post-Covid has been a slow climb upwards, but a climb nonetheless. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/564994/slow-but-sure-economic-rise-in-most-of-pacific-world-bank>
+
+---
+
+## 'War does not solve problems:' Guam's church leader calls on the faithful to pray for peace
+
+date: 2025-06-25, from: Pacific Island Times
+
+Ryan Jimenez   By Pacific Island Times News Staff As U.S. President Donald Trump announced on Tuesday that a ceasefire between Israel and... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/war-does-not-solve-problems-guam-s-church-leader-calls-on-the-faithful-to-pray-for-peace>
+
+---
+
+## UH West Oʻahu alumna crowned Miss Hawaiʻi
+
+date: 2025-06-25, from: University of Hawaiʻi News
+
+<p>Emalia Dalire graduated from <abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> with a bachelor of arts in business administration with a concentration in marketing.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/24/uh-west-oahu-alumna-miss-hawaii/"><abbr>UH</abbr> West Oʻahu alumna crowned Miss Hawaiʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/24/uh-west-oahu-alumna-miss-hawaii/>
+
+---
+
+## Celeste Connors selected as next East-West Center president
+
+date: 2025-06-25, from: University of Hawaiʻi News
+
+<p>A recognized international leader in risk management, international affairs, and development policy will head <abbr>EWC</abbr>'s mission starting in July.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/24/celeste-connors-ewc-president/">Celeste Connors selected as next East-West Center president</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/24/celeste-connors-ewc-president/>
+
+---
+
+## Macron invites all New Caledonia stakeholders for Paris talks
+
+date: 2025-06-25, from: 
+
+The confirmation came on Thursday in the form of a letter sent individually to an undisclosed list of recipients. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565119/macron-invites-all-new-caledonia-stakeholders-for-paris-talks>
+
+---
+
+## Pasifika Sipoti in brief for 25 June
+
+date: 2025-06-25, from: 
+
+A round-up of sports news from around the region, including Fiji women's football team named for the OFC Women's Nations Cup. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565123/pasifika-sipoti-in-brief-for-25-june>
+
+---
+
+## Inaugural board named for Papua New Guinea NRL franchise ahead of 2028 debut
+
+date: 2025-06-25, from: 
+
+The NRL said the announcement is a major milestone and sets the franchise on a path to great success both on and off the field. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565116/inaugural-board-named-for-papua-new-guinea-nrl-franchise-ahead-of-2028-debut>
+
+---
+
+## 'Just want to go home': Solomon Islands students stranded in Israel await evacuation
+
+date: 2025-06-25, from: 
+
+Leeroy Enoch Wate, a Solomon Islands agriculture student stranded in Israel, says "It's not that safe here." 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565108/just-want-to-go-home-solomon-islands-students-stranded-in-israel-await-evacuation>
+
+---
+
+## NZ Taxpayers' Union-Curia poll reveals nearly half of Kiwis oppose automatic citizenship for Cook Islands
+
+date: 2025-06-25, from: 
+
+Thirty percent of the 1000-person sample supported Cook Islanders retaining citizenship, 46 percent were opposed and 24 percent were unsure. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565095/nz-taxpayers-union-curia-poll-reveals-nearly-half-of-kiwis-oppose-automatic-citizenship-for-cook-islands>
+
+---
+
+## Beyond the Aloha Shirt: UH study dives into Honolulu streetwear identity
+
+date: 2025-06-25, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> fashion researchers offer a comprehensive look at how Hawaiʻi residents express themselves through contemporary dress.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/24/beyond-the-aloha-shirt-uh-study/">Beyond the Aloha Shirt: <abbr>UH</abbr> study dives into Honolulu streetwear identity</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/24/beyond-the-aloha-shirt-uh-study/>
+
+---
+
+## Pacific news in brief for 25 June
+
+date: 2025-06-25, from: 
+
+A round-up of news from around the region, including a meeting to address negative social impacts of Pacific labour mobility. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565112/pacific-news-in-brief-for-25-june>
+
+---
+
+## The choice facing Māngere families after Auckland anniversary floods
+
+date: 2025-06-25, from: 
+
+"Just feels like we've been cornered and given no choice." 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565062/the-choice-facing-mangere-families-after-auckland-anniversary-floods>
+
+---
+
+## PNG and Bougainville leaders to finalise independence agreements on Thursday
+
+date: 2025-06-25, from: 
+
+The meeting on Thursday is also likely to mark the end of the involvement of former New Zealand governor-general Sir Jerry Mateparae. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565109/png-and-bougainville-leaders-to-finalise-independence-agreements-on-thursday>
+
+---
+
+## New UH climate tool delivers custom data to support wildfire, drought planning
+
+date: 2025-06-25, from: University of Hawaiʻi News
+
+<p>A new tool delivers personalized climate reports and wildfire risk data.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/24/uh-climate-tool-delivers-custom-data/">New <abbr>UH</abbr> climate tool delivers custom data to support wildfire, drought planning</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/24/uh-climate-tool-delivers-custom-data/>
+
+---
+
+## New UH Mānoa PEACE Room to promote emotional and spiritual wellness
+
+date: 2025-06-25, from: University of Hawaiʻi News
+
+<p>The shared space is meant to be a welcoming and respectful environment for all.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/24/peace-room-promotes-wellness/">New <abbr>UH</abbr> Mānoa <abbr>PEACE</abbr> Room to promote emotional and spiritual wellness</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/24/peace-room-promotes-wellness/>
+
+---
+
+## USP ranked in the 2025 Times Higher Education Impact Rankings
+
+date: 2025-06-25, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) has improved its rankings for two Sustainable Development...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-ranked-in-the-2025-times-higher-education-impact-rankings/">USP ranked in the 2025 Times Higher Education Impact Rankings</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-ranked-in-the-2025-times-higher-education-impact-rankings/>
+
+---
+
+## Women’s impact in data science highlighted by Mānoa researchers
+
+date: 2025-06-24, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa researchers highlight women’s often-overlooked contributions to data science and propose solutions to close the gender gap in the field.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/24/womens-impact-in-data-science/">Women’s impact in data science highlighted by Mānoa researchers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/24/womens-impact-in-data-science/>
+
+---
+
+## From empty to electric: Performing Arts Center lights up Kauaʻi CC
+
+date: 2025-06-24, from: University of Hawaiʻi News
+
+<p>Concerts, musicals, movies and more are drawing crowds back to Kauaʻi <abbr>CC</abbr>ʻs Performing Arts Center.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/24/performing-arts-center-kauai-cc/">From empty to electric: Performing Arts Center lights up Kauaʻi <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/24/performing-arts-center-kauai-cc/>
+
+---
+
+## Nā Hōkū award for UH Maui College’s Lahaina tribute album
+
+date: 2025-06-24, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Maui College studentsʻ Lahaina tribute album wins at 2025 Nā Hōkū Hanohano Awards</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/24/na-hoku-award-lahaina-tribute-album/">Nā Hōkū award for <abbr>UH</abbr> Maui College’s Lahaina tribute album</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/24/na-hoku-award-lahaina-tribute-album/>
 
 ---
 
@@ -45,18 +520,6 @@ The post <a href="https://www.hawaii.edu/news/2025/06/24/mind-diet-study/">MIND 
 <br> 
 
 <https://www.hawaii.edu/news/2025/06/24/mind-diet-study/>
-
----
-
-## The choice facing Māngere families after Auckland anniversary floods
-
-date: 2025-06-24, from: 
-
-"Just feels like we've been cornered and just given no choice." 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/565062/the-choice-facing-mangere-families-after-auckland-anniversary-floods>
 
 ---
 
@@ -648,18 +1111,6 @@ The post <a href="https://www.hawaii.edu/news/2025/06/23/data-driven-look-at-lob
 <br> 
 
 <https://www.hawaii.edu/news/2025/06/23/data-driven-look-at-lobbying/>
-
----
-
-## 'Slow but sure' economic rise in most of Pacific - World Bank
-
-date: 2025-06-24, from: 
-
-The economic story of the Pacific post-Covid has been a slow climb upwards, but a climb nonetheless. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/564994/slow-but-sure-economic-rise-in-most-of-pacific-world-bank>
 
 ---
 

@@ -1,11 +1,155 @@
 ---
 title: science and technology
-updated: 2025-06-24 14:07:56
+updated: 2025-06-25 06:08:44
 ---
 
 # science and technology
 
-(date: 2025-06-24 14:07:56)
+(date: 2025-06-25 06:08:44)
+
+---
+
+## Anthropic: All the major AI models will blackmail us if pushed hard enough
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>Just like people</h4> <p>Anthropic published research last week showing that all major AI models may resort to blackmail to avoid being shut down – but the researchers essentially pushed them into the undesired behavior through a series of artificial constraints that forced them into a binary decision.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/anthropic_ai_blackmail_study/>
+
+---
+
+## Germany asks if US hyperscalers hold keys to AI kingdom
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>Competition authorities listen to concerns over barriers to entry and reliance on AWS, Google and Microsoft</h4> <p>Three American hyperscalers are the gatekeepers to AI, as they possess the necessary compute infrastructure and access to the volumes of data required to train and deploy models at scale. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/germany_probes_ai_market_over_competition_concerns/>
+
+---
+
+## Brit politicians question Fujitsu's continued role in public sector contracts
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>Despite Horizon scandal promises to end bidding, bids keep popping up</h4> <p>British MPs and peers are questioning the government&#39;s decision to continue accepting bids for large-scale IT contracts from Fujitsu, despite the Japanese supplier&#39;s previous pledge to stop bidding.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/fujitsu_public_sector_contracts/>
+
+---
+
+## UK govt dept website that campaigns against encryption hijacked to advertise ... payday loans
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>Company at center of findings blamed SEO on outsourcer</h4> <p>A website developed for the UK Home Office&#39;s 2022 &#34;flop&#34; anti-encryption campaign has seemingly been hijacked to push a payday loan scheme.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/home_office_antiencryption_campaign_website/>
+
+---
+
+## Bank of England expands data and cloud framework by £26.7 million after revising data strategy
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>Dependent on SAP and Oracle, UK central bank wants to modernize in the cloud, refresh data strategy</h4> <p>The UK central bank is expecting a 45 percent hike in the maximum cost of support services as it moves to the cloud and executes a revised data and analytics plan.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/bank_of_england_expands_data/>
+
+---
+
+## HPE Aruba boasts that when network problems come along, its AI will whip them into shape
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>NetAdmins may be mere years away from devolving into babysitters for bots</h4> <p>Not all the autonomous agentic AI that HPE announced at its annual Discover conference this week is live and ready for customers, but don&#39;t tell that to the Aruba networking group – whose enthusiasm outpaces its parent company’s, at least in terms of talking points.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/hpe_aruba_touts_agentic_ai_network/>
+
+---
+
+## NASA to Welcome Fourth Private Astronaut Mission to Space Station
+
+date: 2025-06-25, from: NASA breaking news
+
+As part of NASA’s efforts to expand access to space, four private astronauts are in orbit following the successful launch of the fourth all private astronaut mission to the International Space Station. A SpaceX Dragon spacecraft lifted off at 2:31 a.m. EDT Wednesday from Launch Complex 39A at NASA’s Kennedy Space Center in Florida, carrying [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-to-welcome-fourth-private-astronaut-mission-to-space-station/>
+
+---
+
+## Anthropic won't fix a bug in its SQLite MCP server
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>Fork that - 5k+ times</h4> <p>Anthropic says it won&#39;t fix an SQL injection vulnerability in its SQLite Model Context Protocol (MCP) server that a researcher says could be used to hijack a support bot and prompt the AI agent to send customer data to an attacker&#39;s email, among other things.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/anthropic_sql_injection_flaw_unfixed/>
+
+---
+
+## Don't look up: NASA is struggling to execute its planetary defense plan
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>Audit finds budget uncertainties and tiny staff make it hard to mount a fight against killer space rocks</h4> <p>NASA is struggling to meet all the goals of its Planetary Defense Strategy and Action Plan, the effort that aims to prevent humanity being wiped out by space rocks that hit Earth.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/nasa_oig_planetary_defense_audit/>
+
+---
+
+## Tesla Robotaxi videos show Elon's way behind Waymo
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>Musk promised a million auto-autos by 2020. He&#39;s delivered maybe 10</h4> <p><strong>Video</strong>  On Monday, Elon Musk proudly launched his often-promised Robotaxi service in Austin, Texas, but early videos shot by riders show how far the service lags behind Waymo.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/tesla_robotaxi_austin/>
+
+---
+
+## Just say no to NO FAKES Act, EFF argues
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>The problem is focusing on property rights rather than privacy</h4> <p>The Electronic Frontier Foundation (EFF) says the revised version of the NO FAKES Act, reintroduced in April, would be a disaster for free speech and innovation if signed into law.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/say_no_to_no_fakes_act_eff/>
+
+---
+
+## Don't panic, but it's only a matter of time before critical 'CitrixBleed 2' is under attack
+
+date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+
+<h4>Why are you even reading this story? Patch now!</h4> <p>Citrix patched a critical vulnerability in its NetScaler ADC and NetScaler Gateway products that is already being compared to the infamous CitrixBleed flaw exploited by ransomware gangs and other cyber scum, although there haven&#39;t been any reports of active exploitation. Yet.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/24/critical_citrix_bug_citrixbleed/>
 
 ---
 
@@ -83,7 +227,7 @@ NASA, Axiom Space, and SpaceX are targeting 2:31 a.m. EDT, Wednesday, June 25, f
 
 ## Mozilla rolls out Firefox 140 with ESR status and fresh features
 
-date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+date: 2025-06-24, updated: 2025-06-25, from: The Register (UK I.T. News)
 
 <h4>Say hello to a year&#39;s support, but bid goodbye to Pocket</h4> <p>The latest Mozilla Firefox is trickling out – and it&#39;s an Extended Support Release (ESR).…</p> 
 

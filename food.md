@@ -1,11 +1,107 @@
 ---
 title: food
-updated: 2025-06-24 14:08:03
+updated: 2025-06-25 06:08:51
 ---
 
 # food
 
-(date: 2025-06-24 14:08:03)
+(date: 2025-06-25 06:08:51)
+
+---
+
+## The Coffee Human Resource: Before Milk Steaming, Teach Workplace Communication
+
+date: 2025-06-25, from: The Fresh Cup
+
+<p>Good workplace communication is essential for growing coffee businesses, and helps workers thrive. Here are three key communication strategies companies can implement now.</p>
+<p>The post <a href="https://freshcup.com/the-coffee-human-resource-before-milk-steaming-teach-workplace-communication/">The Coffee Human Resource: Before Milk Steaming, Teach Workplace Communication</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/the-coffee-human-resource-before-milk-steaming-teach-workplace-communication/>
+
+---
+
+## Wrenches at the Ready: Coffee Techs Battle in New Competition
+
+date: 2025-06-25, from: The Fresh Cup
+
+<p>Nuova Simonelli created a competition for technicians to demonstrate their skills and showcase the profession as a whole. </p>
+<p>The post <a href="https://freshcup.com/wrenches-at-the-ready-coffee-techs-battle-in-new-competition/">Wrenches at the Ready: Coffee Techs Battle in New Competition</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/wrenches-at-the-ready-coffee-techs-battle-in-new-competition/>
+
+---
+
+## Thai Shrimp Curry Recipe
+
+date: 2025-06-25, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/thai-shrimp-curry/" title="Thai Shrimp Curry Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Thai-Shrimp-Curry-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Thai Shrimp Curry served in a bowl with Jasmin rice" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Thai-Shrimp-Curry-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Thai-Shrimp-Curry-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Thai-Shrimp-Curry-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Thai-Shrimp-Curry-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Thai-Shrimp-Curry-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Thai-Shrimp-Curry-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Thai-Shrimp-Curry-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This easy Thai shrimp curry recipe is loaded with flavor, made with spicy curry paste, creamy coconut milk and succulent shrimp, great with rice or noodles.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/thai-shrimp-curry/">Thai Shrimp Curry Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/thai-shrimp-curry/>
+
+---
+
+## Newsletter Signup Confirmation page
+
+date: 2025-06-25, from: Taste of Home
+
+<p>No Content</p>
+<p>The post <a href="https://www.tasteofhome.com/newsletter-signup-confirmation-page/">Newsletter Signup Confirmation page</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/newsletter-signup-confirmation-page/>
+
+---
+
+## Chicharrones de Harina (Duros)
+
+date: 2025-06-25, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/chicharrones-de-harina-duros/"><img title="chicharrones-de-harina-25-small-8" src="https://www.isabeleats.com/wp-content/uploads/2025/06/chicharrones-de-harina-25-small-8-400x600.jpg" alt="A bowl of chicharrones de harina (aka duros) ready to eat." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Chicharrones de harina are a light and crispy popular Mexican snack topped with lime juice, hot sauce, or your favorite&#8230; 
+
+<br> 
+
+<https://www.isabeleats.com/chicharrones-de-harina-duros/>
+
+---
+
+## How to Outfit Your Kitchen Like Carmy From 'The Bear'
+
+date: 2025-06-24, from: Bon Appetet
+
+Turns out his favorite things are our favorite things too. 
+
+<br> 
+
+<https://www.bonappetit.com/story/bear-show-kitchen-tools>
+
+---
+
+## Best Vegetable Peelers for Gliding Through Prep Work
+
+date: 2025-06-24, from: Bon Appetet
+
+No more nicked knuckles. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-vegetable-peelers>
 
 ---
 
@@ -13,7 +109,7 @@ updated: 2025-06-24 14:08:03
 
 date: 2025-06-24, from: Bon Appetet
 
-Steer clear of those unwieldy 20 piece behemoths. 
+Steer clear of those unwieldy 20-piece behemoths. 
 
 <br> 
 
@@ -303,7 +399,7 @@ Bright, tangy Greek pork chops are finished on the grill or under the broiler in
 
 date: 2025-06-23, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/steak-tacos/" title="Steak Tacos Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Steak-Tacos-Recipe5-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Steak Tacos served on a plate" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Steak-Tacos-Recipe5-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Steak-Tacos-Recipe5-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Steak-Tacos-Recipe5-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Steak-Tacos-Recipe5-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Steak-Tacos-Recipe5-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Steak-Tacos-Recipe5-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Steak-Tacos-Recipe5.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Craving bold steak tacos? This simple recipe delivers juicy steak, vibrant toppings, and spicy flair Chili Pepper Madness-style.</p>
+<a href="https://www.chilipeppermadness.com/recipes/steak-tacos/" title="Steak Tacos Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Steak-Tacos-Recipe5-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Steak Tacos served on a plate" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Steak-Tacos-Recipe5-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Steak-Tacos-Recipe5-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Steak-Tacos-Recipe5-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Steak-Tacos-Recipe5-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Steak-Tacos-Recipe5-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Steak-Tacos-Recipe5-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Steak-Tacos-Recipe5.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Craving bold steak tacos? This simple recipe delivers juicy steak, vibrant toppings, and spicy flair Chili Pepper Madness-style.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/steak-tacos/">Steak Tacos Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
