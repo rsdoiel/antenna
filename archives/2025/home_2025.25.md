@@ -1,11 +1,136 @@
 ---
 title: home
-updated: 2025-06-25 06:08:48
+updated: 2025-06-25 14:08:02
 ---
 
 # home
 
-(date: 2025-06-25 06:08:48)
+(date: 2025-06-25 14:08:02)
+
+---
+
+## Never Toss Old License Plates in the Trash — Here’s Why
+
+date: 2025-06-25, from: Family Handyman Blog
+
+<p>Figuring out how to dispose of a license plate doesn't have to be difficult and can actually be done safely with proper instructions.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-dispose-of-old-license-plates/">Never Toss Old License Plates in the Trash — Here’s Why</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-dispose-of-old-license-plates/>
+
+---
+
+## Finding the Best SIP Manufacturers
+
+date: 2025-06-25, from: Elemental Green blog
+
+<p>Focus on quality, reputation, and reliability. A SIPS manufacturer far away may still provide better products, service, and value compared to local options.</p>
+<p>The post <a href="https://elemental.green/finding-the-best-sip-manufacturers/">Finding the Best SIP Manufacturers</a> first appeared on <a href="https://elemental.green">Elemental Green</a>.</p> 
+
+<br> 
+
+<https://elemental.green/finding-the-best-sip-manufacturers/>
+
+---
+
+## Construction Diary: This Coastal Cabin Renovation Is a Master Class in Craftsmanship
+
+date: 2025-06-25, from: Dwell
+
+Builder Nick Maimone drew on his artistic background and the ’60s counterculture movement as he reenvisioned a home set where the Russian River meets the Pacific in Northern California. 
+
+<br> 
+
+<https://www.dwell.com/article/construction-diary-goat-rock-cabin-renovation-sunrise-homestead-jenner-fa0d7dee>
+
+---
+
+## Why Surfing Is the New Golf at Luxury Developments
+
+date: 2025-06-25, from: Dwell
+
+Wave pools have become the next resort amenity for the wealthy who want guaranteed rides. 
+
+<br> 
+
+<https://www.dwell.com/article/wave-pools-resort-developments-cabo-real-surf-dsrt-surf-0c499ac4>
+
+---
+
+## This São Paulo Home Saw a Renovation—But Kept the ’70s Vibes
+
+date: 2025-06-25, from: Dwell
+
+Subtle layout changes preserved what make the Ennes Silveira Melo–designed home great: soaring ceilings, a concrete construction, and the right amount of glass. 
+
+<br> 
+
+<https://www.dwell.com/article/arches-house-arkitito-arquitetura-ennes-silveira-melo-family-renovation-88afec10>
+
+---
+
+## You Can Whale Watch From the Couch at This $1.2M Sea Ranch Home
+
+date: 2025-06-25, from: Dwell
+
+Set high on a hill in the utopian California community, the home comes with wraparound patio, a hot tub, and an outdoor shower. 
+
+<br> 
+
+<https://www.dwell.com/article/sea-ranch-home-northern-california-real-estate-22168b20>
+
+---
+
+## Is Lily of the Valley Toxic to Humans or Animals?
+
+date: 2025-06-25, from: The Gardener's Path
+
+<p>Don't let its delicate beauty fool you, lily of the valley is highly toxic to both people and pets. This innocent-looking perennial contains glycosides and saponins that can cause heart problems, digestive issues, and even death if ingested. Learn more about lily of the valley toxicity in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/lily-valley-toxic/">Is Lily of the Valley Toxic to Humans or Animals?</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/lily-valley-toxic/>
+
+---
+
+## Life’s Not Always a Beach at Your Beach House
+
+date: 2025-06-25, from: Dwell
+
+Does the dream of the waterside home outweigh the dilemmas? 
+
+<br> 
+
+<https://www.dwell.com/article/beach-house-pros-and-cons-c6756d20>
+
+---
+
+## Homepage 2025
+
+date: 2025-06-25, from: Sunset Magazine - Living in the West
+
+Decorating &amp; Design, Home Tours This 1950s Portland Home Leans Into Its Quintessential Mid-Century Style Historical charm meets contemporary flair in this remodel.  Read more: This 1950s Portland Home Leans Into&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## These Are the Most Anticipated Books of Summer 2025
+
+date: 2025-06-25, from: Sunset Magazine - Living in the West
+
+Goodreads shared a list of most-anticipated new releases for summer 2025. Add them to your summer reading list. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/culture/new-summer-books-2025>
 
 ---
 
@@ -668,18 +793,6 @@ Every night’s a party worthy of the Italian Riviera at Bar Issi at the splashy
 <br> 
 
 <https://www.sunset.com/food-wine/restaurants/bar-issi-palm-springs>
-
----
-
-## Homepage 2025
-
-date: 2025-06-23, from: Sunset Magazine - Living in the West
-
-Edible Gardening, Garden Basics, Landscaping How to Create a Summer Garden That Smells Amazing Regional plant picks and design inspiration for building a fragrance-forward oasis.  Read more: How&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

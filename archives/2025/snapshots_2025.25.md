@@ -1,11 +1,212 @@
 ---
 title: snapshots
-updated: 2025-06-25 06:08:53
+updated: 2025-06-25 14:08:06
 ---
 
 # snapshots
 
-(date: 2025-06-25 06:08:53)
+(date: 2025-06-25 14:08:06)
+
+---
+
+## MBP's Visual COBOL
+
+date: 2025-06-25, from: Computer ads from the Past
+
+Because Productivity Is The Key To Your Future 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/mbps-visual-cobol>
+
+---
+
+## Quoting Christoph Niemann
+
+date: 2025-06-25, updated: 2025-06-25, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.nytimes.com/interactive/2025/06/23/magazine/ai-art-artists-illustrator.html"><p>Creating art is a nonlinear process. I start with a rough goal. But then I head into dead ends and get lost or stuck.</p>
+<p>The secret to my process is to be on high alert in this deep jungle for unexpected twists and turns, because this is where a new idea is born.</p>
+<p>I can't make art when I'm excluded from the most
+crucial moments.</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.nytimes.com/interactive/2025/06/23/magazine/ai-art-artists-illustrator.html">Christoph Niemann</a>, An Illustrator Confronts His Fears About A.I. Art</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/art">art</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/25/christoph-niemann/#atom-everything>
+
+---
+
+## Daily Deals (6-25-2025)
+
+date: 2025-06-25, from: Liliputing
+
+<p>Amazon Prime Day is still two weeks away, but Amazon is already selling the Fire TV Stick 4K for half price ($25), and select customers may also find a coupon for the Fire TV Stick 4K Max that brings the price down to $30. Meanwhile several mini PC makers including ACEMAGIC and GMK are offering [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/daily-deals-6-25-2025/">Daily Deals (6-25-2025)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/daily-deals-6-25-2025/>
+
+---
+
+## Gemini CLI
+
+date: 2025-06-25, updated: 2025-06-25, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/">Gemini CLI</a></strong></p>
+First there was <a href="https://simonwillison.net/2025/Feb/24/claude-37-sonnet-and-claude-code/">Claude Code</a> in February, then <a href="https://simonwillison.net/2025/Apr/16/">OpenAI Codex (CLI)</a> in April, and now Gemini CLI in June. All three of the largest AI labs now have their own version of what I am calling a "terminal agent" - a CLI tool that can read and write files and execute commands on your behalf in the terminal.</p>
+<p>I'm honestly a little surprised at how significant this category has become: I had assumed that terminal tools like this would always be something of a niche interest, but given the number of people I've heard from spending hundreds of dollars a month on Claude Code this niche is clearly larger and more important than I had thought!</p>
+<p>I had a few days of early access to the Gemini one. It's very good - it takes advantage of Gemini's million token context and has good taste in things like when to read a file and when to run a command.</p>
+<p>Like OpenAI Codex and unlike Claude Code it's open source (Apache 2) - the full source code can be found in <a href="https://github.com/google-gemini/gemini-cli">google-gemini/gemini-cli</a> on GitHub. The core system prompt <a href="https://github.com/google-gemini/gemini-cli/blob/0915bf7d677504c28b079693a0fe1c853adc456e/packages/core/src/core/prompts.ts#L40-L109">lives in core/src/core/prompts.ts</a> - I've extracted that out as <a href="https://gist.github.com/simonw/9e5f13665b3112cea00035df7da696c6">a rendered Markdown Gist</a>.</p>
+<p>As usual, the system prompt doubles as extremely accurate and concise documentation of what the tool can do! Here's what it has to say about comments, for example:</p>
+<blockquote>
+<ul>
+<li><strong>Comments:</strong> Add code comments sparingly. Focus on <em>why</em> something is done, especially for complex logic, rather than <em>what</em> is done. Only add high-value comments if necessary for clarity or if requested by the user. Do not edit comments that are seperate from the code you are changing. <em>NEVER</em> talk to the user or describe your changes through comments.</li>
+</ul>
+</blockquote>
+<p>The list of preferred technologies is interesting too:</p>
+<blockquote>
+<p>When key technologies aren't specified prefer the following:</p>
+<ul>
+<li><strong>Websites (Frontend):</strong> React (JavaScript/TypeScript) with Bootstrap CSS, incorporating Material Design principles for UI/UX.</li>
+<li><strong>Back-End APIs:</strong> Node.js with Express.js (JavaScript/TypeScript) or Python with FastAPI.</li>
+<li><strong>Full-stack:</strong> Next.js (React/Node.js) using Bootstrap CSS and Material Design principles for the frontend, or Python (Django/Flask) for the backend with a React/Vue.js frontend styled with Bootstrap CSS and Material Design principles.</li>
+<li><strong>CLIs:</strong> Python or Go.</li>
+<li><strong>Mobile App:</strong> Compose Multiplatform (Kotlin Multiplatform) or Flutter (Dart) using Material Design libraries and principles, when sharing code between Android and iOS. Jetpack Compose (Kotlin JVM) with Material Design principles or SwiftUI (Swift) for native apps targeted at either Android or iOS, respectively.</li>
+<li><strong>3d Games:</strong> HTML/CSS/JavaScript with Three.js.</li>
+<li><strong>2d Games:</strong> HTML/CSS/JavaScript.</li>
+</ul>
+</blockquote>
+<p>As far as I can tell Gemini CLI only defines a small selection of tools:</p>
+<ul>
+<li><code>edit</code>: To modify files programmatically.</li>
+<li><code>glob</code>: To find files by pattern.</li>
+<li><code>grep</code>: To search for content within files.</li>
+<li><code>ls</code>: To list directory contents.</li>
+<li><code>shell</code>: To execute a command in the shell</li>
+<li><code>memoryTool</code>: To remember user-specific facts.</li>
+<li><code>read-file</code>: To read a single file</li>
+<li><code>write-file</code>: To write a single file</li>
+<li><code>read-many-files</code>: To read multiple files at once.</li>
+<li><code>web-fetch</code>: To get content from URLs.</li>
+<li><code>web-search</code>: To perform a web search (using <a href="https://ai.google.dev/gemini-api/docs/google-search">Grounding with Google Search</a> via the Gemini API).</li>
+</ul>
+<p>I found most of those by having Gemini CLI inspect its own code for me! Here's <a href="https://gist.github.com/simonw/12c7b072e8e21ef1e040fb3b69c1da28">that full transcript</a>, which used just over 300,000 tokens total.</p>
+<p>How much does it cost? The announcement describes a generous free tier:</p>
+<blockquote>
+<p>To use Gemini CLI free-of-charge, simply login with a personal Google account to get a free Gemini Code Assist license. That free license gets you access to Gemini 2.5 Pro and its massive 1 million token context window. To ensure you rarely, if ever, hit a limit during this preview, we offer the industry’s largest allowance: 60 model requests per minute and 1,000 requests per day at no charge.</p>
+</blockquote>
+<p>It's not yet clear to me if your inputs can be used to improve Google's models if you are using the free tier - that's been the situation with free prompt inference they have offered in the past.</p>
+<p>You can also drop in your own paid API key, at which point your data will not be used for model improvements and you'll be billed based on your token usage.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/25/gemini-cli/#atom-everything>
+
+---
+
+## The Bezos Bunker-Buster Wedding, and Big-Time Women Relegated to the Happy-Face Sidelines
+
+date: 2025-06-25, from: Tina Brown
+
+If men have become addicted to the manosphere, their female counterparts are endlessly distracted by the glamosphere. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/the-bezos-bunker-buster-wedding-and>
+
+---
+
+## Image generation: Still crazy after all these years
+
+date: 2025-06-25, from: Gary Marcus blog
+
+Three years ago Google promised us &#8220;deep language understanding&#8221; for image generation. I don&#8217;t think we are there yet. 
+
+<br> 
+
+<https://garymarcus.substack.com/p/image-generation-still-crazy-after>
+
+---
+
+## Fairphone (Gen. 6) is a thinner, lighter repairable phone with a modular design
+
+date: 2025-06-25, from: Liliputing
+
+<p>Dutch phone maker Fairphone is now taking orders for the Fairphone (Gen. 6), the company&#8217;s latest phone with a focus on sustainability. It has a modular design that makes it easy to repair and comes with a 5-year warranty and a promise of software updates for at least 8 years. With a €599 price tag, [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/fairphone-gen-6-is-a-thinner-lighter-repairable-phone-with-a-modular-design/">Fairphone (Gen. 6) is a thinner, lighter repairable phone with a modular design</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/fairphone-gen-6-is-a-thinner-lighter-repairable-phone-with-a-modular-design/>
+
+---
+
+## Bacalhau v1.8.0 - Day 3: How Bacalhau Boosts Daemon Job Reliability
+
+date: 2025-06-25, from: Bacalhau Blog
+
+A deep dive into the new orchestration logic that makes daemon jobs smarter, faster, and more resilient to infrastructure changes 
+
+<br> 
+
+<https://blog.bacalhau.org/p/bacalhau-v180-day-3-how-bacalhau-boosted-daemon-jobs>
+
+---
+
+## Flock Removes States From National Lookup Tool After ICE and Abortion Searches Revealed
+
+date: 2025-06-25, from: 404 Media Group
+
+Following 404 Media’s reporting and in light of new legislation, automatic license plate reader (ALPR) company Flock has stopped agencies reaching into cameras in California, Illinois, and Virginia. 
+
+<br> 
+
+<https://www.404media.co/flock-removes-states-from-national-lookup-tool-after-ice-and-abortion-searches-revealed/>
+
+---
+
+## Don't Be a Bully
+
+date: 2025-06-25, from: Guy Kawasaki blog
+
+Leading without fear. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/dont-be-a-bully>
+
+---
+
+## Balatro Ported to the Gameboy Advance’s e-Reader
+
+date: 2025-06-25, from: 404 Media Group
+
+A software engineer made a version of the game that runs off code printed onto a small card. 
+
+<br> 
+
+<https://www.404media.co/balatro-ported-to-the-gameboy-advances-e-reader/>
+
+---
+
+## If It’s Eerie, Please Be Leery
+
+date: 2025-06-25, updated: 2025-06-25, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/06/25/if-its-eerie-please-be-leery/>
 
 ---
 
@@ -18,6 +219,18 @@ A tool that uses facial recognition to reveal cops' names, a big and complicated
 <br> 
 
 <https://www.404media.co/podcast-this-site-unmasks-cops-with-facial-recognition/>
+
+---
+
+## The Career Calamity
+
+date: 2025-06-25, updated: 2025-06-25, from: Tedium site
+
+Two of the most prominent legacy job application sites file for Chapter 11 bankruptcy. Together. Maybe they lost their edge. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17063312/monster-careerbuilder-job-sites-bankruptcy>
 
 ---
 
@@ -44,7 +257,7 @@ Major USA legal news for the AI industry today. Judge William Alsup released a "
 <blockquote>
 <p>So, in January or February 2021, another Anthropic cofounder, Ben Mann, downloaded Books3, an online library of 196,640 books that he knew had been assembled from unauthorized copies of copyrighted books — that is, pirated. Anthropic's next pirated acquisitions involved downloading distributed, reshared copies of other pirate libraries. In June 2021, Mann downloaded in this way at least five million copies of books from Library Genesis, or LibGen, which he knew had been pirated. And, in July 2022, Anthropic likewise downloaded at least two million copies of books from the Pirate Library Mirror, or PiLiMi, which Anthropic knew had been pirated.</p>
 </blockquote>
-<p>Books3 was also listed as <a href="https://simonwillison.net/2023/Aug/27/wordcamp-llms/#how-they-are-trained">part of the training data</a> for Meta's LLaMA training data!</p>
+<p>Books3 was also listed as <a href="https://simonwillison.net/2023/Aug/27/wordcamp-llms/#how-they-are-trained">part of the training data</a> for Meta's first LLaMA model!</p>
 <p>Anthropic apparently used these sources of data to help build an internal "research library" of content that they then filtered and annotated and used in training runs.</p>
 <p>Books turned out to be a very valuable component of the "data mix" to train strong models. By 2024 Anthropic had a new approach to collecting them: purchase and scan millions of print books!</p>
 <blockquote>

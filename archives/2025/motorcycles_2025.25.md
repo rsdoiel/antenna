@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-06-25 06:08:49
+updated: 2025-06-25 14:08:02
 ---
 
 # motorcycles
 
-(date: 2025-06-25 06:08:49)
+(date: 2025-06-25 14:08:02)
+
+---
+
+## We're Not Willing to Give Up a Single Acre of Public Land, Senator Lee
+
+date: 2025-06-25, from: Ride Apart, Electric Motorcycle News
+
+This is a message directed at my Senator, Mike Lee.  
+
+<br> 
+
+<https://www.rideapart.com/news/763865/senator-mike-lee-public-lands-not-one-acre/>
+
+---
+
+## Yamaha’s 70th Anniversary Edition Motocross Lineup Looks Absolutely Sick
+
+date: 2025-06-25, from: Ride Apart, Electric Motorcycle News
+
+But would you rather a 50th YZ 50th Anniversary
+Edition model? 
+
+<br> 
+
+<https://www.rideapart.com/news/763552/yamaha-70th-anniversary-edition-motocross-lineup/>
 
 ---
 

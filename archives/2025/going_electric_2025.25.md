@@ -1,11 +1,235 @@
 ---
 title: going electric
-updated: 2025-06-25 06:08:50
+updated: 2025-06-25 14:08:04
 ---
 
 # going electric
 
-(date: 2025-06-25 06:08:50)
+(date: 2025-06-25 14:08:04)
+
+---
+
+## This new San Diego battery can power 200,000 homes during peak hours
+
+date: 2025-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Arevon-Peregrine-battery-San-Diego.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p><a href="https://arevonenergy.com/" target="_blank" rel="noreferrer noopener">Arevon Energy</a> just brought a massive new battery storage project online in San Diego’s Barrio Logan neighborhood, and it’s built to keep the lights on when the grid gets stressed.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,california,egeb,energy-brief,solar,san-diego" data-layer-viewtype="unknown" data-post-id="422253" href="https://electrek.co/2025/06/25/this-new-san-diego-battery-can-power-200000-homes-during-peak-hours/#more-422253" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/25/this-new-san-diego-battery-can-power-200000-homes-during-peak-hours/>
+
+---
+
+## EV Fast Charging Is Growing Up, And Growing Bigger
+
+date: 2025-06-25, from: Inside EVs News
+
+For the longest time, having one to two plugs for a DC fast-charger project was the norm. Now, they're much bigger. 
+
+<br> 
+
+<https://insideevs.com/news/763879/paren-dc-charging-station-port-growth/>
+
+---
+
+## Whoopsie! Uh oh! Oh my! Here’s all the goofs and gaffes by Tesla Robotaxi so far
+
+date: 2025-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/tesla-robotaxi-goofs-gaffes-mistakes2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The time is finally here: there are actual driverless Tesla Robotaxis on the road, at least in a portion of Austin, Texas, as of this weekend. And thanks to their ridership of exclusively Tesla influencers, almost all of the miles they’ve put under their belt has been filmed or livestreamed, which gives us plenty of footage to discover what’s gone right and what’s gone wrong.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-robotaxi" data-layer-viewtype="unknown" data-post-id="422205" href="https://electrek.co/2025/06/25/whoopsie-uh-oh-oh-my-heres-all-the-gaffes-and-goofs-by-tesla-robotaxi-so-far/#more-422205" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/25/whoopsie-uh-oh-oh-my-heres-all-the-gaffes-and-goofs-by-tesla-robotaxi-so-far/>
+
+---
+
+## Hyundai is halting IONIQ 5 and Kona EV production in Korea for the fourth time this year
+
+date: 2025-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Hyundai-Kona-Electric-N-Line-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>For the fourth time this year, <a href="https://electrek.co/guides/hyundai/">Hyundai</a> is temporarily halting EV production in Korea. Starting June 25, Hyundai will suspend output on a line at its Ulsan Plant dedicated to building the IONIQ 5 and Kona Electric.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5,hyundai-kona-ev" data-layer-viewtype="unknown" data-post-id="422215" href="https://electrek.co/2025/06/25/hyundai-halting-ioniq-5-kona-ev-production-in-korea-again/#more-422215" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/25/hyundai-halting-ioniq-5-kona-ev-production-in-korea-again/>
+
+---
+
+## ‘Oldest Trick in the Book’: Tesla Driver Says He Always Has To 'Sprint' To Avoid Supercharger Idle Fees. Here's What To Do
+
+date: 2025-06-25, from: Inside EVs News
+
+$1 per minute adds up fast. 
+
+<br> 
+
+<https://insideevs.com/news/763861/avoid-tesla-supercharger-fees/>
+
+---
+
+## Anker launches new SOLIX F3000 power station with up to $1,850 savings, Bluetti takes up to 50% off units + exclusive savings, more
+
+date: 2025-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Anker-SOLIX-F3000-Portable-Power-Station-1-e1750871694276.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Headlining today’s Green Deals is <a href="https://9to5toys.com/2025/06/25/anker-launches-solix-f3000-station-from-1699/">Anker’s new SOLIX F3000 Portable Power Station</a> that is launching with up to $1,850 in possible savings across various packages <a href="https://9to5toys.com/2025/06/25/anker-launches-solix-f3000-station-from-1699/">starting from $1,699</a>. Right behind it, there’s <a href="https://9to5toys.com/2025/06/24/bluetti-early-prime-day-sale-from-239/">Bluetti’s early Prime Day Sale</a> that includes an exclusive bonus 5% savings for our readers, which has models like the <a href="https://9to5toys.com/2025/06/24/bluetti-early-prime-day-sale-from-239/">Elite 200 V2 Portable Power Station</a> dropping to a <a href="https://9to5toys.com/2025/06/24/bluetti-early-prime-day-sale-from-239/">new $854 low</a>, among others. There’s also <a href="https://9to5toys.com/2025/06/25/heybike-cityrun-e-bike-1099-4th-of-july-sale/">Heybike’s 4th of July Sale</a> with up to $600 taken off e-bikes and up to $198 in free accompanying gear <a href="https://9to5toys.com/2025/06/25/heybike-cityrun-e-bike-1099-4th-of-july-sale/">starting from $999</a>. Among our tool deals today, you’ll find <a href="https://9to5toys.com/2025/06/24/ego-56v-3200-psi-cordless-pressure-washer-699-low/">EGO’s 56V 3,200 PSI Cordless Electric Pressure Washer</a> bundle with two 6.0Ah batteries back at its <a href="https://9to5toys.com/2025/06/24/ego-56v-3200-psi-cordless-pressure-washer-699-low/">$699 low</a>, as well as the <a href="https://9to5toys.com/2025/06/25/greenworks-40v-trimmer-edger-blower-kit-new-150-low/">Greenworks 40V Combo Kit</a> that gives you a 13-inch Cordless String Trimmer/Edger, a 350 CFM Leaf Blower, three spools of replacement line, and a 2.0Ah battery at a <a href="https://9to5toys.com/2025/06/25/greenworks-40v-trimmer-edger-blower-kit-new-150-low/">new $150 low</a>. Plus, there’s all the rest of the hangover Green Deals in the links at the bottom of the page, like yesterday’s early Prime Day Sales from <a href="https://9to5toys.com/2025/06/23/jackery-early-prime-day-sale-from-89/">Jackery</a> and <a href="https://9to5toys.com/2025/06/24/anker-solix-early-prime-day-flash-sales-369-more/">Anker SOLIX</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="422206" href="https://electrek.co/2025/06/25/anker-solix-f3000-power-station-bluetti-more/#more-422206" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/25/anker-solix-f3000-power-station-bluetti-more/>
+
+---
+
+## Ford stands by controversial LFP battery plant to cut EV costs and help the US compete
+
+date: 2025-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Ford-monster-vehicles.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/ford/">Ford</a> is on track to start producing LFP batteries in the US next year, a big milestone as it prepares to launch its lower-cost, next-gen EVs. The company said that the new facility will help deliver “truly affordable vehicles” and also enable the US to finally compete globally.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="421942" href="https://electrek.co/2025/06/25/ford-stands-by-controversial-lfp-battery-plant-to-cut-ev-costs/#more-421942" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/25/ford-stands-by-controversial-lfp-battery-plant-to-cut-ev-costs/>
+
+---
+
+## Mercedes-AMG’s 1,341-HP Tri-Motor EV Declares War On The Taycan
+
+date: 2025-06-25, from: Inside EVs News
+
+Meet the Concept AMG GT XX, a lightly disguised performance EV that simulates gears and a V8 engine. 
+
+<br> 
+
+<https://insideevs.com/news/763791/mercedes-amg-gt-xx-concept/>
+
+---
+
+## Court says US must free up billions in illegally-frozen electric car charger funds
+
+date: 2025-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Nevi-1-rivian-lansing.jpg?quality=82&#038;strip=all&#038;w=1558" /></div><p>A federal district judge in Washington ordered that $5 billion in National Electric Vehicle Infrastructure (NEVI) funds must be made available to states, after having been <a href="https://electrek.co/2025/02/06/trump-just-canceled-the-federal-nevi-ev-charger-program/">illegally frozen in February</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-charging,nevi" data-layer-viewtype="unknown" data-post-id="422172" href="https://electrek.co/2025/06/25/court-says-us-must-free-up-billions-in-illegally-frozen-electric-car-charger-funds/#more-422172" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/25/court-says-us-must-free-up-billions-in-illegally-frozen-electric-car-charger-funds/>
+
+---
+
+## Mazda’s new electric SUV already has +30,000 pre-orders in China and it’s going global
+
+date: 2025-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Mazdas-new-EV-SUV-5.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Mazda’s new electric SUV is about the size of a Tesla Model Y and will be sold globally. In just two months, the <a href="https://electrek.co/guides/mazda/">Mazda EZ-60</a> has secured over 30,000 pre-orders in China.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mazda" data-layer-viewtype="unknown" data-post-id="422159" href="https://electrek.co/2025/06/25/mazdas-new-ev-suv-30k-pre-orders-going-global/#more-422159" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/25/mazdas-new-ev-suv-30k-pre-orders-going-global/>
+
+---
+
+## Electrek Formula Sun Grand Prix 2025: A brief history, full schedule, and teams
+
+date: 2025-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/53866268093_7ef37885f6_k.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The countdown is on for another exciting week of solar car racing! Over 30 teams from the US, Canada, and worldwide have registered their hand-designed and built solar cars to compete in the 2025 Electrek Formula Sun Grand Prix (FSGP). What makes this year’s FSGP especially notable, aside from the impressive number of teams we expect to see, is that it marks the 25th anniversary of the track event, first held in 2000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="formula-sun-grand-prix" data-layer-viewtype="unknown" data-post-id="421685" href="https://electrek.co/2025/06/25/electrek-formula-sun-grand-prix-2025-a-brief-history-full-schedule-and-teams/#more-421685" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/25/electrek-formula-sun-grand-prix-2025-a-brief-history-full-schedule-and-teams/>
+
+---
+
+## The Volkswagen ID.4 Gets Huge Upgrades Next Year, Buttons Are Back
+
+date: 2025-06-25, from: Inside EVs News
+
+The electric crossover is headed to the plastic surgeon's office for a nose job. It will also get a revamped interior with more buttons. 
+
+<br> 
+
+<https://insideevs.com/news/763848/volkswagen-id4-ev-big-update/>
+
+---
+
+## Tesla Launches Robotaxi Service, Immediately Gets Attention From Feds
+
+date: 2025-06-25, from: Inside EVs News
+
+Federal auto safety regulators are already looking into erratic Robotaxi driving. Plus: BYD is slowing down. Here's what it means. 
+
+<br> 
+
+<https://insideevs.com/news/763833/tesla-robotaxi-nhtsa-investigation/>
+
+---
+
+## BYD is selling more EVs than ever, so why is it trimming production in China?
+
+date: 2025-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/BYD-cutting-EV-production.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD is coming off its best sales month of the year after slashing EV prices in late May. However, it may not be enough, as several sources claim <a href="https://electrek.co/guides/byd/">BYD</a> is cutting production in China due to slowing sales.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="422146" href="https://electrek.co/2025/06/25/byd-selling-more-evs-than-ever-so-why-is-it-cutting-production/#more-422146" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/25/byd-selling-more-evs-than-ever-so-why-is-it-cutting-production/>
+
+---
+
+## Major US e-bike brand pushes update to boost its bikes’ power
+
+date: 2025-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/aventon-level-3-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Aventon, one of the main electric bike makers in the US market, is quietly leveling up the power of its e-bike line, all without needing to buy a new bike. The brand announced yesterday that an over-the-air firmware rollout would activate a new Boost Mode on all its ACU-equipped hub-drive bikes.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="422121" href="https://electrek.co/2025/06/25/major-us-e-bike-brand-pushes-update-to-boost-its-bikes-power/#more-422121" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/25/major-us-e-bike-brand-pushes-update-to-boost-its-bikes-power/>
 
 ---
 

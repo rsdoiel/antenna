@@ -1,11 +1,61 @@
 ---
 title: pacific
-updated: 2025-06-25 06:08:43
+updated: 2025-06-25 14:07:56
 ---
 
 # pacific
 
-(date: 2025-06-25 06:08:43)
+(date: 2025-06-25 14:07:56)
+
+---
+
+## Tonga's government mum on health cyber breach
+
+date: 2025-06-25, from: 
+
+The Tongan government has yet to reveal more details about a cyber breach of its health records that occured 10 days ago. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565178/tonga-s-government-mum-on-health-cyber-breach>
+
+---
+
+## Papua New Guinea police blame overrun system for prison breakouts
+
+date: 2025-06-25, from: 
+
+Police in Papua New Guinea say the country's overrun courts and prisons are behind mass breakouts from police custody. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565177/papua-new-guinea-police-blame-overrun-system-for-prison-breakouts>
+
+---
+
+## UH launches AI Planning Group to equip students, faculty across 10 campuses
+
+date: 2025-06-25, from: University of Hawaiʻi News
+
+<p>The initiative aims to prepare <abbr>UH</abbr> students for a workforce where <abbr>AI</abbr> is rapidly reshaping jobs and the economy,</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/25/uh-launches-ai-planning-group/"><abbr>UH</abbr> launches <abbr>AI</abbr> Planning Group to equip students, faculty across 10 campuses</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/25/uh-launches-ai-planning-group/>
+
+---
+
+## Image of the Week: Watching a rainbow
+
+date: 2025-06-25, from: University of Hawaiʻi News
+
+<p>This weeks image is from the <abbr>UH</abbr> Cancer Center's Esme Infante.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/25/image-of-the-week-watching-a-rainbow/">Image of the Week: Watching a rainbow</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/25/image-of-the-week-watching-a-rainbow/>
 
 ---
 

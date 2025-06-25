@@ -1,11 +1,51 @@
 ---
 title: libraries
-updated: 2025-06-25 06:08:48
+updated: 2025-06-25 14:08:01
 ---
 
 # libraries
 
-(date: 2025-06-25 06:08:48)
+(date: 2025-06-25 14:08:01)
+
+---
+
+## Research & Analytics Impact Reports
+
+date: 2025-06-25, from: Association of Research Libraries News
+
+<p>Last Updated on June 25, 2025, 3:41 pm ET Impact reports capture transformative effects of specific research library programs on students, researchers, communities, and/or the higher education/research enterprise.</p>
+<p>The post <a href="https://www.arl.org/our-priorities/data-analytics/research-analytics-impact-reports/">Research &#038; Analytics Impact Reports</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/our-priorities/data-analytics/research-analytics-impact-reports/>
+
+---
+
+## Beauvallet, by Georgette Heyer
+
+date: 2025-06-25, from: Standard Ebooks, new releaases
+
+A daring English seaman plunders a Spanish ship and woos the beautiful, haughty, and spirited lady he finds aboard. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/georgette-heyer/beauvallet>
+
+---
+
+## Impacting Scholarly Communication: From Cells to Society
+
+date: 2025-06-25, from: Association of Research Libraries News
+
+<p>Last Updated on June 25, 2025, 12:11 pm ET Editor’s note: This is the first in a series of ARL Research &#38; Analytics Impact Reports, which capture transformative effects of...</p>
+<p>The post <a href="https://www.arl.org/blog/impacting-scholarly-communication-from-cells-to-society/">Impacting Scholarly Communication: From Cells to Society</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/impacting-scholarly-communication-from-cells-to-society/>
 
 ---
 
@@ -20,6 +60,18 @@ date: 2025-06-25, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/06/25/ask-the-librarians-what-did-you-take-away-from-ssps-2025-annual-meeting/>
+
+---
+
+## Dataset for the article: "The behaviour of Ni and its isotopes during early diagenesis of Mn-oxide-rich abyssal sediments"
+
+date: 2025-06-25, from: ETH Zurich, recently added
+
+Fleischmann, Sarah 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/742374>
 
 ---
 
@@ -135,7 +187,7 @@ alt="Screenshot of the XML feed entry for a Crossref blog post" width="120%"><fi
 
 date: 2025-06-23, from: Association of Research Libraries News
 
-<p>Last Updated on June 24, 2025, 4:23 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 24 &#124; Wednesday, June 25 &#124; Thursday,...</p>
+<p>Last Updated on June 25, 2025, 2:14 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 24 &#124; Wednesday, June 25 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-june-23-26/">Day in Review (June 23–26)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

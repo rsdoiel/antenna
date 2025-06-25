@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-06-25 06:08:47
+updated: 2025-06-25 14:08:00
 ---
 
 # games
 
-(date: 2025-06-25 06:08:47)
+(date: 2025-06-25 14:08:00)
+
+---
+
+## How to get free Crowned Sword Energy and Crowned Shield Energy with codes in Pokémon Go
+
+date: 2025-06-25, updated: 2025-06-25, from: Polygon Website
+
+Pokémon Go is giving away handfuls of free Crowned Sword Energy and Crowned Shield Energy via codes ahead of Pokémon Go Fest Global 2025. Similarly to how previous energy-based events have functioned, codes will be revealed every day from June 25-28, so long as the Pokémon Go YouTube channel gains at least 2,000 subscribers per [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/608858/crowned-sword-shield-energy-how-to-get-free-codes>
+
+---
+
+## Jack Black’s taking the piss in Tony Hawk’s Pro Skater 3+4
+
+date: 2025-06-25, updated: 2025-06-25, from: Polygon Website
+
+The Mario movie. The Minecraft movie. The Borderlands movie. Jack Black is everywhere in pop gaming culture lately, and will even make another appearance (well, technically two) in next month’s Tony Hawk&#8217;s Pro Skater 3 + 4 remake. Black will reprise his role as Officer Dick, in addition to voicing Constable Richard, Dick’s UK counterpart, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/609047/jack-black-tony-hawks-pro-skater-3-4-remaster-officer-dick-trailer>
+
+---
+
+## GI Joe is coming to Overwatch 2, and the Cobra Commander pick is perfect
+
+date: 2025-06-25, updated: 2025-06-25, from: Polygon Website
+
+The real American heroes of G.I. Joe — and the evil terrorist organization Cobra — are coming to Overwatch 2 next month in Blizzard’s latest collaboration with toymaker Hasbro. And this time, the picks are pretty much flawless, with Reaper cosplaying (and accurately whining) as Cobra Commander and Genji dressed up as Snake Eyes. Joining Cobra [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/608959/overwatch-2-gi-joe-skins-event>
+
+---
+
+## The real bridge between 28 Days and 28 Years Later isn’t a zombie movie
+
+date: 2025-06-25, updated: 2025-06-25, from: Polygon Website
+
+As divisive reactions to 28 Years Later continue to take shape, the movie has inspired some side chat about how, exactly, we’re expected to think about 28 Weeks Later, the other 28 Days Later sequel.&#160; Now that Boyle and Garland have made their own sequel, it feels like 28 Weeks Later has been squeezed out [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/608930/28-years-later-sunshine-connection-danny-boyle>
+
+---
+
+## Street Fighter movie enlists 50 Cent, giving shades of the classic JCVD Street Fighter
+
+date: 2025-06-25, updated: 2025-06-25, from: Polygon Website
+
+Capcom and Legendary Pictures’ live-action Street Fighter movie is shaping up its cast with the addition of Curtis “50 Cent” Jackson as Balrog the Boxer, who serves under villain M. Bison. Nexus Point News first reported the addition of Jackson to the Street Fighter cast, which appears to have been corroborated by 50 on his [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/608845/street-fighter-movie-casts-50-cent-callina-liang>
+
+---
+
+## Hellblade 2 finally gets that long-awaited PS5 release date
+
+date: 2025-06-25, updated: 2025-06-25, from: Polygon Website
+
+Ladies and gentlemen, grab your best headphones: Ninja Theory will finally release the enhanced edition of Senua&#8217;s Saga: Hellblade 2 — a lowkey 2024 game awards season victor — on the PlayStation 5 on Aug. 12. The enhanced edition will include several new features, including Performance, Dark Rot, Developer Commentary, and Enhanced Photo Mode, per Xbox [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/608881/hellblade-2-ps5-release-date-specs>
+
+---
+
+## Disco Elysium studio took sci-fi survival game The Alters and made it fashion
+
+date: 2025-06-25, updated: 2025-06-25, from: Polygon Website
+
+Disco Elysium developer ZA/UM doesn’t just make games. The company also has a fashion arm, ZA/UM Atelier, which has previously released a Disco Elysium-inspired range of clothing and accessories, including a bomber jacket, cargo pants, and a matching tie and pocket square set. Now, ZA/UM Atelier is expanding its brand of “fiction made fabric” fashion [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/608746/zaum-atelier-alters-11-bit-studios-fashion-clothing>
+
+---
+
+## Assassin&#8217;s Creed Shadows price slashed as Ubisoft adds Nightmare difficulty mode
+
+date: 2025-06-25, updated: 2025-06-25, from: Polygon Website
+
+Players who have been on the fence about purchasing Assassin&#8217;s Creed Shadows — or are just struggling to find something new to do in-game — will likely be pleased to learn that the latest entry in the Assassin&#8217;s Creed franchise is now available to purchase at 25% off, slashing its retail price from $69.99 to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/608871/assassins-creed-shadows-sale-price-nightmare-difficulty-mode>
 
 ---
 

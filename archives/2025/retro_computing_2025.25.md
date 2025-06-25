@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-06-25 06:08:49
+updated: 2025-06-25 14:08:03
 ---
 
 # retro computing
 
-(date: 2025-06-25 06:08:49)
+(date: 2025-06-25 14:08:03)
+
+---
+
+## MBP's Visual COBOL
+
+date: 2025-06-25, from: Computer ads from the Past
+
+Because Productivity Is The Key To Your Future 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/mbps-visual-cobol>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2025-06-25 06:08:49
 
 date: 2025-06-25, from: Icon Bar, RISC OS News
 
-If you have chatted to Richard Brown at recent RISC OS Shows you will know that he has been planning to migrate the servers Orpheus Internet uses from Intel Xeon systems to pure ARM. This is now has been competed and the 2 Xeon boxes have been replaced by a cluster of 16/17 Raspberry Pi 5 boxes. 
+If you have chatted to Richard Brown at recent RISC OS Shows you will know that he has been planning to migrate the servers Orpheus Internet uses from Intel Xeon systems to pure ARM. This has now been completed and the 2 Xeon boxes have been replaced by a cluster of 16/17 Raspberry Pi 5 boxes. 
 
 <br> 
 

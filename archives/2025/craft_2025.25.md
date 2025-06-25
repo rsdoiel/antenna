@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-06-25 06:08:51
+updated: 2025-06-25 14:08:04
 ---
 
 # craft
 
-(date: 2025-06-25 06:08:51)
+(date: 2025-06-25 14:08:04)
+
+---
+
+## Special: ‘Welsh Stick Chairs’ & ‘Good Work’
+
+date: 2025-06-25, from: Lost Arg Press blog
+
+Get two classic chairmaking books – &#8220;Welsh Stick Chairs&#8221; and &#8220;Good Work&#8221; – for one special price. Together, they&#8217;re just $ 49 – but only through August 7. The regular price for both is $87 – you save 44 percent. If you&#8217;re wondering where stick chairs came from, these two books will tell you the... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/06/25/special-welsh-stick-chairs-good-work/>
 
 ---
 

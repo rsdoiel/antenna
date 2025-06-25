@@ -1,11 +1,263 @@
 ---
 title: planet
-updated: 2025-06-25 06:08:41
+updated: 2025-06-25 14:07:54
 ---
 
 # planet
 
-(date: 2025-06-25 06:08:41)
+(date: 2025-06-25 14:07:54)
+
+---
+
+## Irish writer Donal Ryan wins prestigious Orwell Prize
+
+date: 2025-06-25, from: RTÉ News
+
+Irish writer Donal Ryan has been announced as the winner of the prestigious Orwell Prize for Political Fiction for his novel 'Heart, Be At Peace' this evening in London. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0625/1520374-donal-ryan/>
+
+---
+
+## Govt lobbying for strong EU fisheries and CAP funding
+
+date: 2025-06-25, from: RTÉ News
+
+The Government is lobbying for strong CAP and fisheries funding in the next seven-year EU budget as well as policies prioritising energy, connectivity and the digital sector, according to a Government policy paper issued to the European Commission which has been seen by RTÉ News. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0625/1520369-eu-budget/>
+
+---
+
+## VAT rate for small businesses to be cut in Budget
+
+date: 2025-06-25, from: RTÉ News
+
+Tánaiste Simon Harris has told the Fine Gael parliamentary party meeting that the VAT rate for small businesses will be cut permanently in the Budget. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0625/1520356-vat-rate/>
+
+---
+
+## Exclusion of services from OTB 'worrying' - Frances Black
+
+date: 2025-06-25, from: RTÉ News
+
+Independent Senator Frances Black has said it is "worrying" that services are not included in the draft Occupied Territories Bill and it is "absolutely crucial" that it should be. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0625/1520351-otb-draft/>
+
+---
+
+## Cork man died due to several wasp stings, inquest hears
+
+date: 2025-06-25, from: RTÉ News
+
+A 56-year-old man died at his home in Macroom, Co Cork, last year after he received five or six wasp stings as he picked up hedge clippings to the rear of his property, an inquest has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0625/1520348-inquest-cork-wasp-stings/>
+
+---
+
+## Calls for guaranteed employment for new radiographers
+
+date: 2025-06-25, from: RTÉ News
+
+Student and trade union representatives have called on the HSE to guarantee employment to student radiographers and radiation therapists graduating this year. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0625/1520346-radiography-graduates/>
+
+---
+
+## Podcast: NYC Mayoral shock and where are the nightclubs?
+
+date: 2025-06-25, from: RTÉ News
+
+A 33-year-old underdog has taken the Democratic nomination in the race for New York mayor. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0625/1520332-podcast/>
+
+---
+
+## ASTI to use dispute processes over senior cycle reforms
+
+date: 2025-06-25, from: RTÉ News
+
+Second level teachers' union the ASTI has said it will instigate dispute process mechanisms to seek to advance the "significant" concerns of teachers regarding senior cycle redevelopment. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0625/1520339-asti-senior-cycle-reforms/>
+
+---
+
+## Martin: EU's divided stance on Gaza war 'a stain' on bloc
+
+date: 2025-06-25, from: RTÉ News
+
+Taoiseach Micheál Martin has said the inability of member states to come to a unified position on Israel's assault on Gaza has become a "stain" on the EU. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0625/1520337-taoiseach-israel-gaza/>
+
+---
+
+## Lorry driver tells how he helped man escape Dublin fire
+
+date: 2025-06-25, from: RTÉ News
+
+A lorry driver has described how he reversed his vehicle up to a burning building in Dublin city centre to save a man trapped on the third floor. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0625/1520335-dublin-fire-lorry-driver/>
+
+---
+
+## Rapist given more time for not registering as offender
+
+date: 2025-06-25, from: RTÉ News
+
+A convicted rapist has had his prison sentence increased for not informing authorities that he was a sex offender. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0625/1520323-dublin-rape-gladstone/>
+
+---
+
+## Taoiseach pledges €21.6m at Global Vaccine Summit
+
+date: 2025-06-25, from: RTÉ News
+
+Taoiseach Micheál Martin has pledged €21.6 million in Irish funding to Gavi, the world vaccine alliance group. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0625/1520325-vaccine-funding/>
+
+---
+
+## Three on trial for rape, sexual assault of young girl
+
+date: 2025-06-25, from: RTÉ News
+
+Three people have gone on trial at the Central Criminal Court on a total of 21 charges, including the rape and sexual assault of a young girl, which allegedly began when she was three and a half years old. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0625/1520309-rape-trial/>
+
+---
+
+## Watch: 'Daddy' is NATO chief's new nickname for Trump
+
+date: 2025-06-25, from: RTÉ News
+
+US President Donald Trump has been given a new nickname - "Daddy" - by NATO Secretary General Mark Rutte. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0625/1520297-rutte-trump/>
+
+---
+
+## Offences Against the State Act renewed without vote
+
+date: 2025-06-25, from: RTÉ News
+
+Sinn Féin has insisted that it would have abstained on the renewal of the Offences Against the State Act but it was ultimately not put to a vote after the party's justice spokesperson was outside the Dáil chamber when it was passed. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0625/1520298-offences-against-the-state/>
+
+---
+
+## Sligo man cycles 2,100km from Madrid to Glastonbury
+
+date: 2025-06-25, from: RTÉ News
+
+After pedalling more than 2,100 kilometres over 27 days, Ollie White has arrived at Glastonbury with a ticket in his pocket and a grin on his face. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0625/1520269-sligo-man-cycles-2100km-from-madrid-to-glastonbury/>
+
+---
+
+## Report on man charged over Parnell Square attack complete
+
+date: 2025-06-25, from: RTÉ News
+
+A psychiatric report has now been completed on Riad Bouchaker, who is charged with assaulting a care worker and attempting to murder three children on Parnell Square in Dublin, a court has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0625/1520281-parnellsquare-stabbing-courts/>
+
+---
+
+## Postmasters warn of closure of 40% of post offices
+
+date: 2025-06-25, from: RTÉ News
+
+Postmasters have warned that 40% of post offices could close unless Government funding for the network is increased. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0625/1520286-post-office-closures/>
+
+---
+
+## Research shows significant gender disparity in para sport
+
+date: 2025-06-25, from: RTÉ News
+
+New research into disability sports has found there is a significant gender disparity when it comes to participation in such activities. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0625/1520285-parasport/>
+
+---
+
+## Around 100 jobs to be cut at Primark HQ in Dublin
+
+date: 2025-06-25, from: RTÉ News
+
+Primark, the parent company of Penneys, is planning to cut around 150 jobs in Ireland, the UK and the US. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0625/1520284-around-100-jobs-to-be-cut-at-primark-hq-in-dublin/>
+
+---
+
+## Forestry sector in 'total disarray', committee told
+
+date: 2025-06-25, from: RTÉ News
+
+Ireland's forestry sector is in "total disarray" with just a fraction of planting targets being met, the Climate Change Advisory Council has warned. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0625/1520280-forestry-industry/>
 
 ---
 
@@ -21,11 +273,27 @@ Achieving zero-tolerance of violence against women requires a "step-change from 
 
 ---
 
+## Kenyan Bishops urge citizens to 'remain peaceful, courageous' amid growing tensions
+
+date: 2025-06-25, from: Vatican News
+
+
+                    <p>The Catholic Bishops of Kenya express their sorrow for the violence afflicting the country, including those who died protesting Albert Ojwang’s death earlier this month following his arrest.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/kenyan-bishops-implore-all-for-peace-and-discussion.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/kenyan-bishops-implore-all-for-peace-and-discussion.html>
+
+---
+
 ## Former solicitor jailed over false deeds scheme
 
 date: 2025-06-25, from: RTÉ News
 
-A former solicitor involved in a scheme in which false deeds were used to change the ownership of two Dublin properties has been jailed for two-and-a-half years. 
+A former solicitor involved in a scheme in which false deeds were used to change the ownership of two Dublin properties has been jailed for two and a half years. 
 
 <br> 
 
@@ -33,11 +301,11 @@ A former solicitor involved in a scheme in which false deeds were used to change
 
 ---
 
-## Judgement deferred on future of Athlone IPAS centre
+## Judgment deferred on future of Athlone IPAS centre
 
 date: 2025-06-25, from: RTÉ News
 
-A High Court judge has deferred giving her judgement on the future of an IPAS centre in Athlone, which was designed to house up to 1,000 asylum seekers. 
+A High Court judge has deferred giving her judgment on the future of an IPAS centre in Athlone, which was designed to house up to 1,000 asylum seekers. 
 
 <br> 
 
@@ -47,13 +315,85 @@ A High Court judge has deferred giving her judgement on the future of an IPAS ce
 
 ## $1 towards a girl’s education = $3 for the global economy: That's how development works
 
-date: 2025-06-25, from: United Nations, Top Stories
+date: 2025-06-25, from: United Nations, Economic Development
 
 Helping those with less isn’t charity – it’s a shared investment in a better future. Yet global development financing is under strain. An upcoming UN conference in Sevilla, Spain, aims to change that by mobilizing large-scale investment for a more just and sustainable world. 
 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/06/1164856>
+
+---
+
+## UN rights mission condemns civilian toll in deadly missile strikes on Ukraine
+
+date: 2025-06-25, from: United Nations, Top Stories
+
+Dozens of civilians – including children and school staff – were killed or wounded in Russian missile attacks on Ukrainian cities this week, in what UN human rights monitors described as a “foreseeable” tragedy caused by strikes on populated areas. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164941>
+
+---
+
+## Sevilla conference on development financing shows optimism for multilateralism
+
+date: 2025-06-25, from: United Nations, Economic Development
+
+It’s been 10 years since the Addis Ababa Action Agenda was established to support the implementation of the 2030 Agenda for Sustainable Development.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164936>
+
+---
+
+## Iran: Return to inspections top priority for UN nuclear agency
+
+date: 2025-06-25, from: United Nations, Top Stories
+
+The head of the International Atomic Energy Agency (IAEA) said on Wednesday that his “number one priority” is for its inspectors to return to Iran’s nuclear sites to evaluate damage caused by recent bombing and to verify stockpiles of highly enriched uranium.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164931>
+
+---
+
+## Responsibility to Protect: An unfulfilled promise, a ray of hope
+
+date: 2025-06-25, from: United Nations, Top Stories
+
+The UN Secretary-General has warned that the world today is failing to protect civilians from mass atrocity crimes, calling for a renewed global commitment to the Responsibility to Protect – a principle adopted two decades ago that remains, in his words, “a moral imperative” and “an unfulfilled promise.” 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164926>
+
+---
+
+## ‘A moral failure’: Security Council hears about grave violations against children caught in war
+
+date: 2025-06-25, from: United Nations, Top Stories
+
+When Sila, a young woman from Idlib in Syria, was three years-old, she woke up to missiles falling around her, forcing her and her family to flee their home.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164921>
+
+---
+
+## Energy access has improved, but more funding is needed to address disparities: WHO
+
+date: 2025-06-25, from: United Nations, Top Stories
+
+Although nearly 92 per cent of the global population now has basic access to electricity, more than 666 million people still live without it, prompting the World Health Organization (WHO) to urge greater financial support for renewable energy.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164906>
 
 ---
 
@@ -205,7 +545,19 @@ The Government is to hold a special meeting of Ireland's trade forum for next We
 
 ---
 
-## NATO declares 'ironclad' commitment to mutual defence
+## McGrath hopeful of EU-US trade deal 'outline' by 9 July
+
+date: 2025-06-25, from: RTÉ News
+
+Ireland's European Commissioner Michael McGrath has said that he hopes the "outline" of a trade deal between the European Union and the United States can be agreed by 9 July. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0625/1520210-eu-us-tariffs/>
+
+---
+
+## Trump: Spain to 'pay' for resisting NATO spending hike
 
 date: 2025-06-25, from: RTÉ News
 
@@ -229,7 +581,7 @@ UNICEF has warned that while the world's attention is focused elsewhere, the sit
 
 ---
 
-## Nuclear facilities 'badly damaged, Iran's foreign ministry says
+## Nuclear facilities 'badly damaged,' Iran's foreign ministry says
 
 date: 2025-06-25, from: CBC, World News
 
@@ -245,7 +597,7 @@ date: 2025-06-25, from: CBC, World News
 
 date: 2025-06-25, from: RTÉ News
 
-NATO leaders are set to sign off at their Hague summit on a defence spending pledge to satisfy US President Donald Trump's demand for a headline figure of 5% of GDP. 
+NATO leaders have signed off at their summit on a defence spending pledge to satisfy US President Donald Trump's demand for a headline figure of 5% of GDP. 
 
 <br> 
 
@@ -313,11 +665,11 @@ The ceasefire brokered by US President Donald Trump between Iran and Israel appe
 
 ---
 
-## Funeral of Lord Henry Mount Charles takes place in Slane
+## Lord Henry Mount Charles remembered as a 'people person'
 
 date: 2025-06-25, from: RTÉ News
 
-The funeral of Lord Henry Mount Charles has taken place in Slane, Co Meath. 
+Lord Henry Mount Charles has been remembered as someone who lived his life with the "conviction" that music is a universal language that can bring people together. 
 
 <br> 
 
@@ -361,6 +713,34 @@ A young designer has said people wishing to work in the fashion industry have no
 
 ---
 
+## Watch: Young designer says sustainable practice 'a must'
+
+date: 2025-06-25, from: RTÉ News
+
+A young designer has said people wishing to work in the fashion industry have no option but to think sustainably when it comes to their designs. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0625/1520136-sustainable-fashion-designer/>
+
+---
+
+## New Apostolic Nuncio to Ethiopia receives warm welcome in Addis Ababa
+
+date: 2025-06-25, from: Vatican News
+
+
+                    <p>The Catholic Church in Ethiopia has warmly welcomed Archbishop Brian Ngozi Udaigwe as the new Apostolic Nuncio to Ethiopia, following his appointment by Pope Francis.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/apostolic-nuncio-brian-nudaigwe-ethiopia-welcome-addis-ababa.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/apostolic-nuncio-brian-nudaigwe-ethiopia-welcome-addis-ababa.html>
+
+---
+
 ## Underdog shocks former governor in New York mayor primary
 
 date: 2025-06-25, from: RTÉ News
@@ -394,6 +774,18 @@ Later this year, Ireland will go to the polls to elect the next president. Under
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0625/1520138-presidential-election/>
+
+---
+
+## Mi'kmaw chiefs want environmental racism report and recommendations released
+
+date: 2025-06-25, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7569539.1750785630!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/leah-martin-chief-terry-paul.jpg' alt='A tall woman with blond hair wearing a black suit listens as an older man with glasses wearing a green shirt and blue sweater gestures as he talks.' width='620' height='349' title='Nova Scotia L&apos;Nu Affairs Minster Leah Martin and Membertou Chief Terry Paul in Membertou on Tuesday, June 24, 2025.'/><p>The chief of Membertou First Nation says the report by a panel on environmental racism in Nova Scotia needs to be released.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/nova-scotia/environmental-racism-mikmaw-chiefs-leah-martain-1.7569890?cmp=rss>
 
 ---
 
@@ -857,7 +1249,7 @@ date: 2025-06-24, from: Vatican News
 
 date: 2025-06-24, from: United Nations, Top Stories
 
-A fragile ceasefire brokered by the United States between Iran and Israel appears to be holding, marking a tentative halt to a dangerous regional escalation that included airstrikes, retaliatory missile attacks and mounting civilian casualties.&nbsp; 
+A fragile ceasefire brokered by the United States between Iran and Israel appears to be holding, marking a tentative halt to a dangerous regional escalation that included airstrikes, retaliatory missile attacks and mounting civilian casualties. 
 
 <br> 
 
@@ -927,7 +1319,7 @@ The Security Council met Tuesday in New York over the future of the Joint Compre
 
 ## Power to the people; funding community-led development in Somalia
 
-date: 2025-06-24, from: United Nations, Top Stories
+date: 2025-06-24, from: United Nations, Economic Development
 
 A story of grassroots persistence in Somalia could serve as a powerful reminder of the impact of innovative financing mechanisms as the international community meets in Spain to discuss how to fund global sustainable development. 
 
@@ -1309,7 +1701,7 @@ date: 2025-06-24, from: CBC, World News
 
 date: 2025-06-24, from: CBC, World News
 
-<img src='https://i.cbc.ca/ais/d34c4aac-0a1f-43ad-b838-84eddf3db4b0,1750813446536/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3BResize%3D%28620%29' alt='' width='620' height='349' title=''/><p></p> 
+<img src='https://i.cbc.ca/ais/0529fe52-9d13-4c1b-9050-14c36fef704f,1750863612363/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C173%2C8513%2C4788%29%3BResize%3D%28620%29' alt='Mark Carney standing at podium with Anita Anand, left, and David McGuinty (right) behind him with Canadian flag' width='620' height='349' title='Prime Minister Mark Carney holds a closing press conference with Minister of Foreign Affairs Anita Anand, left and Minister of National Defence David McGuinty following the NATO Summit in The Hague, Netherlands on Wednesday, June 25, 2025. THE CANADIAN PRESS/Sean Kilpatrick'/><p></p> 
 
 <br> 
 

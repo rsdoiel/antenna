@@ -1,11 +1,70 @@
 ---
 title: small papers
-updated: 2025-06-25 06:08:51
+updated: 2025-06-25 14:08:05
 ---
 
 # small papers
 
-(date: 2025-06-25 06:08:51)
+(date: 2025-06-25 14:08:05)
+
+---
+
+## HOROSCOPE
+
+date: 2025-06-25, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>By Holiday Mathis (Creators.com) ARIES (March 21-April 19) You feel deeply and experience life in a complex, rich way &#8212; and not everyone around you can meet you there. When [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/06/25/horoscope-217/">HOROSCOPE</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/06/25/horoscope-217/>
+
+---
+
+## Sublime is returning to Long Beach for the Vans Warped Tour
+
+date: 2025-06-25, from: Long Beach Post
+
+<figure><img width="1024" height="627" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc-1024x627.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc-1024x627.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc-300x184.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc-768x470.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc-176x108.jpg 176w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc-400x245.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc.jpg 1086w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It’s a homecoming for the legendary local act. And it’s a sign of the city’s resurgence as a music and entertainment destination, Mayor Rex Richardson said.</p>
+<p>The post <a href="https://lbpost.com/news/sublime-is-returning-to-long-beach-for-the-vans-warped-tour">Sublime is returning to Long Beach for the Vans Warped Tour</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/sublime-is-returning-to-long-beach-for-the-vans-warped-tour>
+
+---
+
+## Newsom agrees to ease budget cuts as California seeks more time to fix growing deficit
+
+date: 2025-06-25, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25090426/052325-assembly-floor-fg-cm-03-926059-xsckvukj-347802-LguVjnAB-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25090426/052325-assembly-floor-fg-cm-03-926059-xsckvukj-347802-LguVjnAB-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25090426/052325-assembly-floor-fg-cm-03-926059-xsckvukj-347802-LguVjnAB-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25090426/052325-assembly-floor-fg-cm-03-926059-xsckvukj-347802-LguVjnAB-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25090426/052325-assembly-floor-fg-cm-03-926059-xsckvukj-347802-LguVjnAB-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25090426/052325-assembly-floor-fg-cm-03-926059-xsckvukj-347802-LguVjnAB-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25090426/052325-assembly-floor-fg-cm-03-926059-xsckvukj-347802-LguVjnAB.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The budget deal between Gov. Gavin Newsom and the Legislature forgoes or delays many of Newsom’s proposed cuts but the deficit is only likely to grow.</p>
+<p>The post <a href="https://lbpost.com/news/politics/newsom-agrees-to-ease-budget-cuts-as-california-seeks-more-time-to-fix-growing-deficit">Newsom agrees to ease budget cuts as California seeks more time to fix growing deficit</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/newsom-agrees-to-ease-budget-cuts-as-california-seeks-more-time-to-fix-growing-deficit>
+
+---
+
+## Pedestrian killed in crash on 405-to-710 freeway transition road in Long Beach
+
+date: 2025-06-25, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The crash was reported around 8:54 p.m. Tuesday, the CHP said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/pedestrian-killed-in-crash-on-405-to-710-freeway-transition-road-in-long-beach">Pedestrian killed in crash on 405-to-710 freeway transition road in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/pedestrian-killed-in-crash-on-405-to-710-freeway-transition-road-in-long-beach>
 
 ---
 
@@ -13,7 +72,7 @@ updated: 2025-06-25 06:08:51
 
 date: 2025-06-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="355" height="519" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/LAPDBadge.jpg?fit=355%2C519&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/LAPDBadge.jpg?w=355&amp;ssl=1 355w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/LAPDBadge.jpg?resize=205%2C300&amp;ssl=1 205w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/LAPDBadge.jpg?fit=355%2C519&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/LAPDBadge.jpg?fit=355%2C519&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="355" height="519" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/LAPDBadge.jpg?fit=355%2C519&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/LAPDBadge.jpg?w=355&amp;ssl=1 355w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/LAPDBadge.jpg?resize=205%2C300&amp;ssl=1 205w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/LAPDBadge.jpg?fit=355%2C519&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/LAPDBadge.jpg?fit=355%2C519&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>LOS ANGELES (CNS) &#8211; The City Council today approved a second reserve fund loan of approximately $17.3 million to cover overtime costs accrued by Los Angeles police officers during recent [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/06/24/la-council-authorizes-more-funding-to-cover-lapd-overtime-for-protest-response/">LA Council Authorizes More Funding to Cover LAPD Overtime for Protest Response</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -28,7 +87,7 @@ date: 2025-06-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-06-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="300" height="200" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/LA-City-Hall.jpeg?fit=300%2C200&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="photo is of exterior of LA City Hall" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/LA-City-Hall.jpeg?w=300&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/LA-City-Hall.jpeg?fit=300%2C200&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/LA-City-Hall.jpeg?fit=300%2C200&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="300" height="200" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/LA-City-Hall.jpeg?fit=300%2C200&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="photo is of exterior of LA City Hall" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/LA-City-Hall.jpeg?w=300&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/LA-City-Hall.jpeg?fit=300%2C200&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/LA-City-Hall.jpeg?fit=300%2C200&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>LOS ANGELES (CNS) &#8211; The Los Angeles City Council today approved a resolution declaring a state of fiscal emergency in response to decreased revenue and rising liabilities. In a 14-0 [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/06/24/la-city-council-oks-resolution-declaring-fiscal-emergency/">LA City Council OKs Resolution Declaring Fiscal Emergency</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -43,7 +102,7 @@ date: 2025-06-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-06-24, from: Long Beach Post
 
-<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>He allegedly supplied chemicals used in the May 17 attack that authorities say was carried out by the deceased “anti-life” bomber, Guy Edward Bartkus.</p>
 <p>The post <a href="https://lbpost.com/news/accused-accomplice-in-palm-springs-fertility-clinic-bombing-dies-in-federal-custody">Accused accomplice in Palm Springs fertility clinic bombing dies in federal custody</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -58,7 +117,7 @@ date: 2025-06-24, from: Long Beach Post
 
 date: 2025-06-24, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>You can now take the free shuttles all the way to the Queen Mary and through many other areas where it's difficult or expensive to park.</p>
 <p>The post <a href="https://lbpost.com/news/city/lb-circuit-free-shuttle-service-belmont-downtown">Long Beach expands free shuttle service along the city&#8217;s coastline, downtown</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -118,7 +177,7 @@ date: 2025-06-24, from: Long Beach Post
 
 date: 2025-06-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="731" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?fit=1024%2C731&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?w=1540&amp;ssl=1 1540w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?resize=300%2C214&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?resize=1024%2C731&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?resize=768%2C549&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?resize=1536%2C1097&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?resize=1200%2C857&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?resize=780%2C557&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?resize=400%2C286&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?resize=706%2C504&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?fit=1024%2C731&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="731" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?fit=1024%2C731&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?w=1540&amp;ssl=1 1540w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?resize=300%2C214&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?resize=1024%2C731&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?resize=768%2C549&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?resize=1536%2C1097&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?resize=1200%2C857&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?resize=780%2C557&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?resize=400%2C286&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?resize=706%2C504&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/9148967258925080200-e1750725415105.jpg?fit=1024%2C731&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Documentarian and activist Anthony Orendorff was released from police custody with all charges dropped. After being arrested by the Los Angeles Police Department (LAPD) Foothill Division last Thursday while documenting an [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/06/23/local-documentarian-arrested-for-photographing-ice-action-is-released-without-charges/">No Charges Filed for Documentarian Anthony Orendorff Released From Custody Today</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

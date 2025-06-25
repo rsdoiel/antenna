@@ -1,11 +1,137 @@
 ---
 title: north america
-updated: 2025-06-25 06:08:42
+updated: 2025-06-25 14:07:55
 ---
 
 # north america
 
-(date: 2025-06-25 06:08:42)
+(date: 2025-06-25 14:07:55)
+
+---
+
+## Rep. Maggie Goodlander on Trump's Attack on Iran and the Dangers of an Irrelevant Congress
+
+date: 2025-06-25, from: The Contrarian
+
+&#8220;There&#8217;s no good reason to leave Congress in the dark on this.&#8221; 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166836529/9f56b183c78873aee08fa1fa390ad0c9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166836529/9f56b183c78873aee08fa1fa390ad0c9.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/rep-maggie-goodlander-on-trumps-attack>
+
+---
+
+## Three years after Dobbs, the state of women's health is dire
+
+date: 2025-06-25, from: The Contrarian
+
+The true depth of the national crisis is felt in real-life disruptions and degradations, even deaths, that too often go unreported. 
+
+<br> 
+
+<https://contrarian.substack.com/p/three-years-after-dobbs-the-state>
+
+---
+
+## Adriana Smith and the ethics of indifference
+
+date: 2025-06-25, from: The Contrarian
+
+Fetal personhood laws created a medical and moral tragedy. 
+
+<br> 
+
+<https://contrarian.substack.com/p/adriana-smith-and-the-ethics-of-indifference>
+
+---
+
+## Military powers and Trump’s trust deficit
+
+date: 2025-06-25, from: The Contrarian
+
+Two things all Americans have the right to expect 
+
+<br> 
+
+<https://contrarian.substack.com/p/military-powers-and-trumps-trust>
+
+---
+
+##  Lawmakers Reward Their Crypto Benefactors… And Iran 
+
+date: 2025-06-25, from: The Lever News
+
+ The president and crypto-backed lawmakers are accused of making it easier for  terrorist organizations and rogue nations to deal in digital currencies.  
+
+<br> 
+
+<https://www.levernews.com/lawmakers-reward-their-crypto-benefactors-and-iran/>
+
+---
+
+## No one wants this: Rep. Jason Crow on Iran and MAGA cuts to SNAP
+
+date: 2025-06-25, from: The Contrarian
+
+"I would love somebody to tell me in this administration how they think sending kids to school hungry is good for any community" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166814808/98e70a0658498545778b034e6327f8f4.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166814808/98e70a0658498545778b034e6327f8f4.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/no-one-wants-this-rep-jason-crow>
+
+---
+
+## Coffee with Contrarians- The big Iran lie 06/25
+
+date: 2025-06-25, from: The Contrarian
+
+A recording from Coffee with the Contrarians LIVE 06/25 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-contrarians-the-big-iran>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-06-25, from: The Contrarian
+
+Wednesday: Singing protests, upcoming rallies, a reminder that every action counts, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Does Trump have any respect for the judicial system? Mary McCord on the National Guard and Emil Bove
+
+date: 2025-06-25, from: The Contrarian
+
+"He is getting away with it simply by doing it and racing so fast that the consequences and the courts can't keep up with him" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166809714/42846ac6656d85ae05a911d5db406334.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166809714/42846ac6656d85ae05a911d5db406334.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/does-trump-have-any-respect-for-the>
+
+---
+
+## A silver lining in the Ninth Circuit Court decision on use of troops in Los Angeles 
+
+date: 2025-06-25, from: The Contrarian
+
+The ruling might prevent Trump from invoking the Insurrection Act. 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-silver-lining-in-the-ninth-circuit>
 
 ---
 
@@ -68,18 +194,6 @@ date: 2025-06-24, from: The Contrarian
 </audio> <a href="https://api.substack.com/feed/podcast/166745481/7a3400a68223818431b95523461e1449.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/ice-raids-continue-in-la-despite>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-06-24, from: The Contrarian
-
-Tuesday: Protests in support of transgender people, Venice, Italy, reacts to a wedding, protests in California, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

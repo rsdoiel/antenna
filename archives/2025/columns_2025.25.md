@@ -1,11 +1,372 @@
 ---
 title: columns
-updated: 2025-06-25 06:08:45
+updated: 2025-06-25 14:07:58
 ---
 
 # columns
 
-(date: 2025-06-25 06:08:45)
+(date: 2025-06-25 14:07:58)
+
+---
+
+##  What Was Jim Crow? 
+
+date: 2025-06-25, updated: 2025-06-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/what-was-jim-crow>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-25, from: Dave Winer's Scripting News)
+
+<a href="https://www.nytimes.com/2024/07/15/nyregion/open-streets-new-york.html?unlocked_article_code=1.Rk8.6k8C.M00iQWY-xxEV&smid=url-share">A NYT article</a> from last year about 34th Ave in Jackson Heights where "a stretch of 26 blocks, running east to west, has been closed to cars from 7 a.m. to 8 p.m. every day since 2020." Before we moved to Flushing when I was in 5th grade, we lived on 92nd St and 34th Ave. What a difference that must make. I love it when cities take chances like this, and the people in the neighborhood seem to love it. 
+
+<br> 
+
+<http://scripting.com/2025/06/25.html#a195205>
+
+---
+
+##  A blog about sci-fi interfaces in movies and TV shows with lots... 
+
+date: 2025-06-25, updated: 2025-06-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047014-a-blog-about-sci-fi-inter>
+
+---
+
+## Lake Tahoe Boat Tragedy Claims Longtime Apple Employee Paula Bozinovich
+
+date: 2025-06-25, updated: 2025-06-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.sfchronicle.com/tahoe/article/lake-tahoe-boat-accident-victims-identified-june-20391411.php>
+
+---
+
+## June 24, 2025
+
+date: 2025-06-25, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166835477/4ad8862568b2cf921ea44e428ecc33f5.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166835477/4ad8862568b2cf921ea44e428ecc33f5.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-24-2025-ad5>
+
+---
+
+## 2025-06-25 Spending some days with friends in the Swiss mountains
+
+date: 2025-06-25, from: Alex Schroeder's Blog
+
+<h1 id="2025-06-25-spending-some-days-with-friends-in-the-swiss-mountains">2025-06-25 Spending some days with friends in the Swiss mountains</h1>
+
+<p>We’re spending Tuesday to Saturday in the Swiss mountains with friends.</p>
+
+<p>Gefleckte Fingerwurz (Artengruppe)<br>
+Dactylorhiza maculata agg.</p>
+
+<p><img loading="lazy" src="2025-06-25-wallis-1.jpg" alt="a small plant with a lot of tiny, spotted flowers" /></p>
+
+<p>Walking along the Bisse du Tsittoret.</p>
+
+<p><img loading="lazy" src="2025-06-25-wallis-2.jpg" alt="a woman walking on a trail next to a to a tiny creek" /></p>
+
+<p><img loading="lazy" src="2025-06-25-wallis-3.jpg" alt="the trail passes through a landscape of bushes below a rock wall; at the top there is a small overhang with pine trees clinging to the edge" /></p>
+
+<p>The bisse flows into this creek and a few meters below there’s a continuation on the other side, where water is taken out of the creek to continue the biss (with different water).</p>
+
+<p><img loading="lazy" src="2025-06-25-wallis-4.jpg" alt="water rushing down in a bed of stones" /></p>
+
+<p>We keep walking.</p>
+
+<p><img loading="lazy" src="2025-06-25-wallis-5.jpg" alt="two men walking along the bisse" /></p>
+
+<p>The mountain meadows are fantastic.</p>
+
+<p>At the front:</p>
+
+<p>Wiesen-Witwenblume (Artengruppe)<br>
+Knautia arvensis agg.</p>
+
+<p><img loading="lazy" src="2025-06-25-wallis-6.jpg" alt="a colourful meadow in front of a mountain panorama" /></p>
+
+<p>We’re approaching our goal. The buvette Cave du Sex. (Saxium is latin for “rock”, leading to all sort of interesting names.)</p>
+
+<p><img loading="lazy" src="2025-06-25-wallis-7.jpg" alt="two women in the distance on a trail next to a little waterway with mountains in the distance" /></p>
+
+<p>Gelber Enzian<br>
+Gentiana lutea</p>
+
+<p><img loading="lazy" src="2025-06-25-wallis-8.jpg" alt="a mountain meadow with a view into a big valley, a tall plant with yellow flowers in the foreground" /></p>
+
+<p><a class="tag" href="/search/?q=%23Vallais">#Vallais</a> <a class="tag" href="/search/?q=%23Plants">#Plants</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-06-25-wallis>
+
+---
+
+##  How Christoph Niemann Uses AI in His Work 
+
+date: 2025-06-25, updated: 2025-06-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/how-christoph-niemann-uses-ai-in-his-work>
+
+---
+
+## Cosmoe: New C++ toolkit for building native Wayland apps
+
+date: 2025-06-25, updated: 2025-06-25, from: Liam Proven's articles at the Register
+
+<h4>New UI library has 23 years of history – and unexpected roots</h4>
+      <p>Cosmoe is a modern C++ UI library, but it&#39;s also a new iteration of a project with roots in one of the most elegant GUIs ever written.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/25/cosmoe_new_cpp_toolkit/>
+
+---
+
+##  In case you need, like I do, some reminders on How to... 
+
+date: 2025-06-25, updated: 2025-06-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047022-in-case-you-need-like>
+
+---
+
+##  The Joy and Pain of Learning New Things as an Older Human 
+
+date: 2025-06-25, updated: 2025-06-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/the-joy-and-pain-of-learning-new-things-as-an-older-human>
+
+---
+
+## Finding Frontier
+
+date: 2025-06-25, from: Dave Winer's Scripting News
+
+<p>I tried an experiment, go back as far as I can in archive.org on scripting.com and see where it gets me. </p>
+<p>There are lots of paths to try out.</p>
+<p>The one I went for is the <a href="https://web.archive.org/web/19961203224609/http://scripting.com/">December 3, 1996 scripting.com home page</a>. </p>
+<p>This was where my <a href="https://web.archive.org/web/19961203224710/http://www.scripting.com/frontier/news.html">blog home page</a> was then. </p>
+<p>Then to DaveNet, and in the left margin <a href="https://web.archive.org/web/19961203224727/http://www.scripting.com/davenet/aboutthiswebsite.html">Nerd's guide to this website</a>. </p>
+<p>I love the screen shots that show what a good match the Frontier object database was to the way a website is organized.  </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/06/25/frontierScreenshot.png"></center>user.websites.davenet</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/25/160652.html?title=findingFrontier>
+
+---
+
+##  A recent trend in book cover design: &#8220;It tends to lay blaringly... 
+
+date: 2025-06-25, updated: 2025-06-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047021-a-recent-trend-in-book>
+
+---
+
+##  Noah Kalina on the observer&#8217;s paradox: &#8220;I&#8217;ve come to the unfortunate realization... 
+
+date: 2025-06-25, updated: 2025-06-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047020-noah-kalina-on-the-observ>
+
+---
+
+## Inverse text-sizing based on text-length with attr()
+
+date: 2025-06-25, from: Dave Rupert blog
+
+<p>Text reflow on the web has an interesting relationship with Responsive Web Design. As a column gets smaller text wraps and becomes taller<sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup>. But for large format display text, that’s not always what you want<sup class="footnote-ref"><a href="#fn2" id="fnref2">2</a></sup>. What I’ve wanted for awhile now is a way to inversely size text based on the text length (where the font-size gets smaller as the heading gets longer).</p>
+<p>I’ve been chasing the white whale of responsive text-sizing for over a decade and I think I’ve got my best attempt to-date with the new <code>attr()</code> upgrades that landed in CSS (Chromium-only at time of writing).</p>
+<p class="codepen" data-height="400" data-default-tab="result" data-slug-hash="jEPbMqp" data-pen-title="inverse text-sizing with attr" data-user="davatron5000" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/davatron5000/pen/jEPbMqp">
+  inverse text-sizing with attr</a> by Dave Rupert (<a href="https://codepen.io/davatron5000">@davatron5000</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<p>CSS’s <code>attr()</code> function got an upgrade this year where you can use it independent of <code>content</code> in pseudo-elements. They also added the ability to cast types to the values. Before that change all attributes were text strings and if you tried to use it in a <code>calc()</code> function, CSS would bail because you can’t multiply a pixel by a text string. With the new upgraded <code>attr()</code> function you can specify a type in the new <code>type()</code> function as the second parameter of <code>attr()</code>: <code>attr(foo type(&lt;number&gt;))</code> .</p>
+<p>Having these pieces of technology in place lets us mix in HTML attributes to our CSS math.</p>
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="css"><span class="nt">h1</span> <span class="p">{</span>
+  <span class="py">--ideal-cpl</span><span class="p">:</span> <span class="m">45</span><span class="p">;</span>  
+  <span class="py">--numchars</span><span class="p">:</span> <span class="n">attr</span><span class="p">(</span><span class="n">data-numchars</span> <span class="n">type</span><span class="p">(</span><span class="err">&lt;</span><span class="n">number</span><span class="err">&gt;</span><span class="p">));</span>
+  <span class="py">--ratio</span><span class="p">:</span> <span class="n">calc</span><span class="p">(</span><span class="n">var</span><span class="p">(</span><span class="n">--ideal-cpl</span><span class="p">)</span> <span class="p">/</span> <span class="n">var</span><span class="p">(</span><span class="n">--numchars</span><span class="p">));</span>
+  <span class="py">--min-font-size</span><span class="p">:</span> <span class="m">1.2rem</span><span class="p">;</span>
+  <span class="py">--max-font-size</span><span class="p">:</span> <span class="m">4rem</span><span class="p">;</span>
+  
+  <span class="nl">font-size</span><span class="p">:</span> <span class="n">clamp</span><span class="p">(</span>
+	  <span class="n">var</span><span class="p">(</span><span class="n">--min-font-size</span><span class="p">),</span> 
+	  <span class="n">var</span><span class="p">(</span><span class="n">--max-font-size</span><span class="p">)</span> <span class="err">*</span> <span class="n">var</span><span class="p">(</span><span class="n">--ratio</span><span class="p">),</span> 
+	  <span class="n">var</span><span class="p">(</span><span class="n">--max-font-size</span><span class="p">)</span>
+  <span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div></div>
+<p>We start with an <code>--ideal-cpl</code>, which is a typographic notion that there’s an ideal line-length at or near 66 characters per line and perhaps smaller on mobile (source: <a href="https://www.uxpin.com/studio/blog/optimal-line-length-for-readability/">UXPin</a>). Headings are probably less. We take that number and divide it by <code>--numchars</code> from our <code>data-numchars</code> attribute to get a ratio to multiply our text by (e.g. <code>45cpl / 60numchars = 0.75</code> or <code>45cpl / 30numchars = 1.5</code>).</p>
+<p>Then set some min/max variables and chuck it all into a <code>clamp()</code> function to enforce some limits. Anything under the <code>--ideal-cpl</code> will clamped to the <code>--max-font-size</code> and titles over the <code>--ideal-cpl</code> will shrink down until they hit the <code>--min-font-size</code>.</p>
+<p>To help with graceful degradation in unsupported browsers (Safari, Firefox), we need to use the CSSOM <code>@property</code> syntax to typecast our <code>--numchars</code> custom property. This is a hint to browsers like Mobile Safari that <code>--numchars</code> is going to be a <code>&lt;number&gt;</code> and we can set a fallback value as well.</p>
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="css"><span class="c">/* Property used to provide fallback to other browsers */</span>
+<span class="k">@property</span> <span class="n">--numchars</span> <span class="p">{</span>
+  <span class="py">syntax</span><span class="p">:</span> <span class="s1">"&lt;number&gt;"</span><span class="p">;</span>
+  <span class="py">inherits</span><span class="p">:</span> <span class="n">false</span><span class="p">;</span>
+  <span class="py">initial-value</span><span class="p">:</span> <span class="m">45</span><span class="p">;</span> <span class="c">/* set to same value as --ideal-cpl */</span>
+<span class="p">}</span>
+</code></pre></div></div>
+<p>Hopefully the “magic” here is pretty easy to understand but for completion’s sake, you’ll need to add <code>data-numchars</code> to your HTML to make this work.</p>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="html"><span class="nt">&lt;h1</span> <span class="na">data-numchars=</span><span class="s">"71"</span><span class="nt">&gt;</span>
+  Lorem ipsum dolor sit amet consectetur
+  adipisicing elit. Vitae, maxime.
+<span class="nt">&lt;/h1&gt;</span>
+</code></pre></div></div>
+<p>Templating languages can help. Here’s what I do in my Liquid templates for Jekyll:</p>
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="ruby"><span class="o">&lt;</span><span class="n">h1</span> <span class="n">data</span><span class="o">-</span><span class="n">numchars</span><span class="o">=</span><span class="s2">""</span><span class="o">&gt;&lt;</span><span class="sr">/h1&gt;
+</span></code></pre></div></div>
+<p>If you don’t have access to your template but somehow have access to JavaScript, you can do something this:</p>
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="js"><span class="nb">document</span><span class="p">.</span><span class="nf">querySelectorAll</span><span class="p">(</span><span class="dl">'</span><span class="s1">h1</span><span class="dl">'</span><span class="p">).</span><span class="nf">forEach</span><span class="p">(</span><span class="nx">el</span> <span class="o">=&gt;</span> 
+	<span class="nx">el</span><span class="p">.</span><span class="nx">dataset</span><span class="p">.</span><span class="nx">numchars</span> <span class="o">=</span> <span class="nx">el</span><span class="p">.</span><span class="nx">textContent</span><span class="p">.</span><span class="nx">length</span>
+<span class="p">);</span>
+</code></pre></div></div>
+<p>I’ve went ahead and rolled this technique out on my entire site and made a <a href="/all-titles">All Titles</a> page where I can tweak variables to my liking. The result is I get to keep my chonky headlines on mobile, but almost no heading wrap more than three lines. One improvement might be to use more CSS math to snap to different short/medium/long sizes, so its less cacophonous… but on my site you only see one display title at a time, so it’s less of a big deal.</p>
+<h2>Scaling text responsi<del>ve</del>bly</h2>
+<p>With all that in place, we have a HTML/CSS-based solution for responsive text-sizing with minimal overhead, no JS required, no extra DOM, and a graceful degradation to older browsers. I intentionally kept this dumb to allow for text wrapping, but <a href="https://codepen.io/paulirish/pen/YPXyxeZ">Paul Irish forked me</a> to make a <code>contenteditable</code> demo work edge-to-edge like Kizu’s <a href="https://kizu.dev/fit-to-width/">Fit-to-Width</a> or Zach Leatherman’s old <a href="https://github.com/zachleat/BigText">BigText</a> jQuery plugin.</p>
+<p class="codepen" data-height="400" data-default-tab="result" data-slug-hash="YPXyxeZ" data-pen-title="inverse text-sizing with attr - bigtext.js style - contenteditable dealio" data-user="paulirish" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/paulirish/pen/YPXyxeZ">
+  inverse text-sizing with attr - bigtext.js style - contenteditable dealio</a> by Paul Irish (<a href="https://codepen.io/paulirish">@paulirish</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<p>Impressive. There’s lots of ways to resize text responsively and I’ve added another one to the pile, so here’s a little guide with how I’m thinking about all the options.</p>
+<ul>
+<li>If you want <em>exact</em> edge-to-edge text-sizing I’d probably recommend Kizu’s clever Fit-to-Width technique.</li>
+<li>If you (and your designers) are okay with not-so-exact edge-to-edge sizing, Paul’s approach seems like a good candidate.</li>
+<li>Don’t forget about SVG. Converting display text to outlines in Figma and exporting as SVG is also a nice option for exact fitting text one-offs, but doesn’t localize well.</li>
+<li>If you want text to scale-inversely to its length but still wrap, use the approach in this post.</li>
+<li>If you want text to be a bit more fluid between breakpoints, use <code>clamp()</code> + <code>vw</code> units.</li>
+<li>If you want text to scale based on it’s parent’s width like a vector, then <strong>DON’T USE</strong> FitText and use <code>clamp(var(--min-font-size), 10cqi, var(--max-font-size))</code> with a CSS container instead.</li>
+<li>If you want strict typographic control at every breakpoint, use <code>rem</code> or <code>px</code>.</li>
+</ul>
+<p>Lots of options for scalable type out there that give type-setting control freak nerds nightmares, have fun!</p>
+<section class="footnotes">
+<ol>
+<li id="fn1">
+<p>Images have the opposite problem, wide desktop images lose hierarchy as the viewport gets smaller. And then portrait images get too much hierarchy when they scale up. <a href="#fnref1" class="footnote-backref">↩</a></p>
+</li>
+<li id="fn2">
+<p>Large format display text wrapping on mobile can even cause accessibility issues, whether it’s cognitive issue with one word per line or a motor issue where long words break the container and cause horizontal scrolling. <a href="#fnref2" class="footnote-backref">↩</a></p>
+</li>
+</ol>
+</section> 
+
+<br> 
+
+<https://daverupert.com/2025/06/fittext-too-attr-boogaloo/>
+
+---
+
+##  Chris Ware Creates Stamps For USPS 
+
+date: 2025-06-25, updated: 2025-06-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/chris-ware-creates-stamps-for-usps>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-25, from: Dave Winer's Scripting News)
+
+Podcast: <a href="https://shownotes.scripting.com/scripting/2025/06/25/holdingYourNoseTheAftermathAndItsNotPrettyImho.html">Holding your nose, the aftermath</a>. 
+
+<br> 
+
+<http://scripting.com/2025/06/25.html#a140401>
+
+---
+
+##  From Scientific American, a set of charts of vaccination recommendations for children... 
+
+date: 2025-06-25, updated: 2025-06-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047017-from-scientific-american->
+
+---
+
+## Microsoft dangles extended Windows 10 support in exchange for Reward Points
+
+date: 2025-06-25, updated: 2025-06-25, from: Liam Proven's articles at the Register
+
+<h4>Or your cloud-bound soul. Otherwise, $30 please</h4>
+      <p>Microsoft has found a new use for Reward Points – and another incentive to upload everything you hold dear to someone else&#39;s servers.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/25/microsoft_free_esu_tier/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-25, from: Dave Winer's Scripting News)
+
+A <a href="https://imgs.scripting.com/2025/06/25/linkblogInBlogroll.png">preview</a> of how a WordLand linkblog works, which is of course a WordPress site, <a href="https://imgs.scripting.com/2025/06/25/linkblogInBlogroll.png">viewed</a> in my blogroll. When I clicked on the link, I was surprised that it <a href="https://www.poynter.org/commentary/2025/trump-says-fudge-vulgarity-news/">goes to Poynter</a>, and not to the linkblog. But then I remembered that's the point of a linkblog. And it flows through to the feed, and the blogroll software understands. So now I have an end-to-end linkblog. 
+
+<br> 
+
+<http://scripting.com/2025/06/25.html#a131617>
+
+---
+
+##  Star Wars Lofi, chill music from a galaxy far, far away to... 
+
+date: 2025-06-25, updated: 2025-06-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047013-star-wars-lofi-chill-musi>
 
 ---
 
@@ -23,7 +384,7 @@ Another reason to love WordPress. Every freaking WordPress site had <a href="htt
 
 date: 2025-06-25, from: Doc Searls (at Harvard), New Old Blog
 
-A question: For iCloud Photos on Apple&#39;s Photos app (on the computer), what are the differences between what you get with Download Originals to this Mac and Optimize Mac Storage? I&#39;ve tried it both ways, and the sizes of the photos are the same. I&#39;ve asked this question to ChatGPT (which I pay) and Claude. ChatGPT [&#8230;] 
+Toward new dances in the online marketplace. Dig CC Signals, from Creative Commons.  It&#39;s good stuff. Go read it. Also this, which calls it &#34;A New Social Contract for the Age of AI.&#34; Here&#39;s a .pdf presenting current thinking and planning behind the project. The CC Signals Implementation page is where the work comes closest to [&#8230;] 
 
 <br> 
 

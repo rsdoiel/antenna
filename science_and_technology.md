@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-06-25 06:08:44
+updated: 2025-06-25 14:07:57
 ---
 
 # science and technology
 
-(date: 2025-06-25 06:08:44)
+(date: 2025-06-25 14:07:57)
+
+---
+
+## Rack-scale networks are the new hotness for massive AI training and inference workloads
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>Terabytes per second of bandwidth, miles of copper cabling, all crammed into the back of a single rack</h4> <p><strong>Analysis</strong>  If you thought AI networks weren&#39;t complicated enough, the rise of rack-scale architectures from the likes of Nvidia, AMD, and soon Intel has introduced a new layer of complexity.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/rack_scale_networking/>
+
+---
+
+## NASA Astronauts to Answer Questions from Alabama Students
+
+date: 2025-06-25, from: NASA breaking news
+
+Students attending the U.S. Space and Rocket Center Space Camp in Huntsville, Alabama, will have the chance to hear NASA astronauts aboard the International Space Station answer their prerecorded questions. At 12:40 p.m. EDT on Tuesday, July 1, NASA astronauts Anne McClain, Jonny Kim, and Nichole Ayers will answer student questions. Ayers is a space [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-alabama-students/>
+
+---
+
+## Amazon's Ring can now use AI to 'learn the routines of your residence'
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>It&#39;s meant to cut down on false positives but could be a trove for mischief-makers</h4> <p>Ring doorbells and cameras are using AI to &#34;learn the routines of your residence,&#34; via a new feature called Video Descriptions.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/amazons_ring_ai_video_description/>
+
+---
+
+## Waning Crescent Moon
+
+date: 2025-06-25, from: NASA breaking news
+
+NASA astronaut Bob Hines took this picture of the waning crescent moon on May 8, 2022, as the International Space Station flew into an orbital sunrise 260 miles above the Atlantic Ocean off the northwest coast of the United States. Since the station became operational in November 2000, crew members have produced hundreds of thousands [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/waning-crescent-moon/>
+
+---
+
+## Cosmoe: New C++ toolkit for building native Wayland apps
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>New UI library has 23 years of history – and unexpected roots</h4> <p>Cosmoe is a modern C++ UI library, but it&#39;s also a new iteration of a project with roots in one of the most elegant GUIs ever written.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/cosmoe_new_cpp_toolkit/>
+
+---
+
+## NASA-Assisted Scientists Get Bird’s-Eye View of Population Status
+
+date: 2025-06-25, from: NASA breaking news
+
+NASA satellite data and citizen science observations combine for new findings on bird populations. 
+
+<br> 
+
+<https://science.nasa.gov/earth/nasa-assisted-scientists-get-birds-eye-view-of-population-status/>
+
+---
+
+## What Are Asteroids? (Ages 14-18)
+
+date: 2025-06-25, from: NASA breaking news
+
+What are asteroids? Asteroids are rocky objects that orbit the Sun just like planets do. In fact, sometimes asteroids are called “minor planets.” These space rocks were left behind after our solar system formed about 4.6 billion years ago. Asteroids are found in a wide range of sizes. For example, one small asteroid, 2015 TC25, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/what-are-asteroids-ages-14-18/>
+
+---
+
+## Computer vision research feeds surveillance tech as patent links spike 5×
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>A bottomless appetite for tracking people as &#34;objects&#34;</h4> <p>A new study shows academic computer vision papers feeding surveillance-enabling patents jumped more than fivefold from the 1990s to the 2010s.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/computer_vision_research_surveillance/>
+
+---
+
+## Supply chain attacks surge with orgs 'flying blind' about dependencies
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>Who is the third party that does the thing in our thing? Yep. Attacks explode over past year</h4> <p>The vast majority of global businesses are handling at least one material supply chain attack per year, but very few are doing enough to counter the growing threat.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/supply_chain_attacks_hammer_organizations/>
+
+---
+
+## John Casani, Former Manager of Multiple NASA Missions, Dies
+
+date: 2025-06-25, from: NASA breaking news
+
+During his work on several historic missions, Casani rose through a series of technical and management positions, making an indelible mark on the nation’s space program. &#160; John R. Casani, a visionary engineer who served a central role in many of NASA’s historic deep space missions, died on Thursday, June 19, 2025, at the age [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/jpl/john-casani-former-manager-of-multiple-nasa-missions-dies/>
+
+---
+
+## Meet Rob Navias: Public Affairs Officer and Mission Commentator
+
+date: 2025-06-25, from: NASA breaking news
+
+Editor&#8217;s note: This interview was conducted in October 2023.&#160; As the International Space Station approaches 25 years of continuous human presence on Nov. 2, 2025, it is a meaningful moment to recognize those who have been there since the beginning—sharing the remarkable achievements of human spaceflight with the world.&#160;&#160;&#160; If you have ever witnessed the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/meet-rob-navias-public-affairs-officer-and-mission-commentator/>
+
+---
+
+## Three goes to zero as UK mobile provider suffers voice and text outage
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>Millions of customers left speechless</h4> <p>Britain&#39;s Three mobile network has suffered a major outage, with voice calls out of action and limitations on texting.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/three_uk_mobile_outage/>
+
+---
+
+## Hyperscalers to eat 61% of global datacenter capacity by decade's end
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>Cloud and AI demand propel rapid buildout as on-prem share drops to 22%</h4> <p>Hyperscale operators are expected to account for 61 percent of all datacenter capacity by 2030, thanks in part to the growth of cloud services and rising demand for compute to feed AI.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/hyperscaler_datacenter_capacity/>
+
+---
+
+## NASA’s Perseverance Rover Scours Mars for Science
+
+date: 2025-06-25, from: NASA breaking news
+
+In addition to drilling rock core samples, the science team has been grinding its way into rocks to make sense of the scientific evidence hiding just below the surface. On June 3, NASA’s Perseverance Mars rover ground down a portion of a rock surface, blew away the resulting debris, and then went to work studying [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-scours-mars-for-science/>
+
+---
+
+## French cybercrime police arrest five suspected BreachForums admins
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>Twentysomethings claimed to be linked to spate of high-profile cybercrimes</h4> <p>The Paris police force&#39;s cybercrime brigade (BL2C) has arrested a further four men as part of a long-running investigation into the criminals behind BreachForums.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/paris_police_claim_arrests_of/>
+
+---
+
+## A New Pyramid-Like Shape Always Lands the Same Side Up
+
+date: 2025-06-25, from: Quanta Magazine
+
+A tetrahedron is the simplest Platonic solid. Mathematicians have now made one that’s stable only on one side, confirming a decades-old conjecture.            <p>The post <a href="https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/" target="_blank">A New Pyramid-Like Shape Always Lands the Same Side Up</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/>
+
+---
+
+## CloudBees CEO says customers are slowing down on 'black box' code from AIs
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>Learning from the lessons of the past</h4> <p><strong>interview</strong>  Anuj Kapur, CEO of DevOps darling CloudBees, reckons that AI could retest the founding assumptions of DevOps as a whole, but warns against the risk of creating black-boxed code in the pursuit of greater efficiency. He also says that some customers who rushed into AI-generated code for fear of missing out (FOMO) are starting to slow down and be more considered.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/cloudbees_ceo_interview_ai/>
+
+---
+
+## Microsoft dangles extended Windows 10 support in exchange for Reward Points
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>Or your cloud-bound soul. Otherwise, $30 please</h4> <p>Microsoft has found a new use for Reward Points – and another incentive to upload everything you hold dear to someone else&#39;s servers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/microsoft_free_esu_tier/>
 
 ---
 
@@ -143,7 +359,7 @@ date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
 
 ## Don't panic, but it's only a matter of time before critical 'CitrixBleed 2' is under attack
 
-date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
+date: 2025-06-24, updated: 2025-06-25, from: The Register (UK I.T. News)
 
 <h4>Why are you even reading this story? Patch now!</h4> <p>Citrix patched a critical vulnerability in its NetScaler ADC and NetScaler Gateway products that is already being compared to the infamous CitrixBleed flaw exploited by ransomware gangs and other cyber scum, although there haven&#39;t been any reports of active exploitation. Yet.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
@@ -455,9 +671,9 @@ date: 2025-06-24, updated: 2025-06-24, from: The Register (UK I.T. News)
 
 ## Typhoon-like gang slinging TLS certificate 'signed' by the Los Angeles Police Department
 
-date: 2025-06-23, updated: 2025-06-23, from: The Register (UK I.T. News)
+date: 2025-06-23, updated: 2025-06-25, from: The Register (UK I.T. News)
 
-<h4>Chinese crew built 1,000+ device network that runs on home devices then targets critical infrastructure</h4> <p>A stealthy, ongoing campaign to gain long-term access to networks bears all the markings of intrusions conducted by China’s ‘Typhoon’ crews and has infected at least 1,000 devices, primarily in the US and South East, according to Security Scorecard&#39;s Strike threat intel analysts. And it uses a phony certificate purportedly signed by the Los Angeles police department to try and gain access to critical infrastructure.…</p> 
+<h4>Chinese crew built 1,000+ device network that runs on home devices then targets critical infrastructure</h4> <p>A stealthy, ongoing campaign to gain long-term access to networks bears all the markings of intrusions conducted by China’s ‘Typhoon’ crews and has infected at least 1,000 devices, primarily in the US and South East, according to SecurityScorecard&#39;s Strike threat intel analysts. And it uses a phony certificate purportedly signed by the Los Angeles police department to try and gain access to critical infrastructure.…</p> 
 
 <br> 
 

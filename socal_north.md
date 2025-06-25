@@ -1,19 +1,186 @@
 ---
 title: socal north
-updated: 2025-06-25 06:08:43
+updated: 2025-06-25 14:07:55
 ---
 
 # socal north
 
-(date: 2025-06-25 06:08:43)
+(date: 2025-06-25 14:07:55)
 
 ---
 
-## Video shows man arrested at immigration check-in, ICE says
+## City of Santa Clarita to Break Ground on Haskell Canyon Bike Park
+
+date: 2025-06-25, from: City of Santa Clarita
+
+<p>Get ready to ride! The City of Santa Clarita will officially break ground on the Haskell Canyon Bike Park (21450 Copper Hill Drive) on Tuesday, July 1, at 10:00 a.m. This exciting project will transform a portion of the City’s expansive open space into a premier destination for mountain bikers of all skill levels. Located [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/25/city-of-santa-clarita-to-break-ground-on-haskell-canyon-bike-park/">City of Santa Clarita to Break Ground on Haskell Canyon Bike Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/25/city-of-santa-clarita-to-break-ground-on-haskell-canyon-bike-park/>
+
+---
+
+## Judge in LA rules California FAIR Plan’s smoke-damage policy is illegal
 
 date: 2025-06-25, updated: 2025-06-25, from: The LAist
 
-The video, shared widely across social media, sparked questions from witnesses and the community. 
+The judge said the state’s fire insurance of last resort violates the state insurance code. 
+
+<br> 
+
+<https://laist.com/news/judge-in-la-rules-california-fair-plans-smoke-damage-policy-is-illegal>
+
+---
+
+## Locked doors, warning signs, and a pivot to delivery. How Eastside businesses are adapting amid ICE raids
+
+date: 2025-06-25, updated: 2025-06-25, from: The LAist
+
+Taco trucks, bakeries, and storefronts are making immediate changes to keep immigrant workers and customers safe. 
+
+<br> 
+
+<https://laist.com/news/locked-doors-warning-signs-and-a-pivot-to-delivery-how-eastside-businesses-are-adapting-amid-ice-raids>
+
+---
+
+## Construction begins on final phase of Agoura Hills wildlife crossing
+
+date: 2025-06-25, updated: 2025-06-25, from: The LAist
+
+The project to spare mountain lions and other animals from having to cross the 101 Freeway is set to be completed in the fall of 2026. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/construction-begins-on-annenberg-crossing-final-phase>
+
+---
+
+## Sublime is returning to Long Beach for the Vans Warped Tour
+
+date: 2025-06-25, from: Longbeach Post
+
+<figure><img width="1024" height="627" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc-1024x627.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc-1024x627.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc-300x184.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc-768x470.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc-176x108.jpg 176w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc-400x245.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc.jpg 1086w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It’s a homecoming for the legendary local act. And it’s a sign of the city’s resurgence as a music and entertainment destination, Mayor Rex Richardson said.</p>
+<p>The post <a href="https://lbpost.com/news/sublime-is-returning-to-long-beach-for-the-vans-warped-tour">Sublime is returning to Long Beach for the Vans Warped Tour</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/sublime-is-returning-to-long-beach-for-the-vans-warped-tour>
+
+---
+
+## California's much-touted IVF law may be delayed until 2026, leaving many in the lurch
+
+date: 2025-06-25, updated: 2025-06-25, from: The LAist
+
+California lawmakers are poised to approve a six-month delay in implementing the state’s in vitro fertilization law, pushing its start to January 2026. 
+
+<br> 
+
+<https://laist.com/news/health/california-ivf-law-may-be-delayed-until-2026>
+
+---
+
+## This beloved Mexican market in LA is losing business amid immigration raids
+
+date: 2025-06-25, updated: 2025-06-25, from: The LAist
+
+ICE raids have led to fear and anxiety for immigrants in Los Angeles. That fear extends even to those who are in the U.S. legally, keeping many away from public life. 
+
+<br> 
+
+<https://laist.com/news/beloved-mexican-market-in-la-is-losing-business-amid-immigration-raids>
+
+---
+
+## As egg crisis subsides, Langer's and others are dropping their surcharges
+
+date: 2025-06-25, updated: 2025-06-25, from: The LAist
+
+Langer's Deli and Swingers have removed surcharges caused by egg shortages. 
+
+<br> 
+
+<https://laist.com/news/food/the-price-of-your-diner-breakfast-may-be-going-down>
+
+---
+
+## Newsom agrees to ease budget cuts as California seeks more time to fix growing deficit
+
+date: 2025-06-25, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25090426/052325-assembly-floor-fg-cm-03-926059-xsckvukj-347802-LguVjnAB-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25090426/052325-assembly-floor-fg-cm-03-926059-xsckvukj-347802-LguVjnAB-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25090426/052325-assembly-floor-fg-cm-03-926059-xsckvukj-347802-LguVjnAB-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25090426/052325-assembly-floor-fg-cm-03-926059-xsckvukj-347802-LguVjnAB-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25090426/052325-assembly-floor-fg-cm-03-926059-xsckvukj-347802-LguVjnAB-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25090426/052325-assembly-floor-fg-cm-03-926059-xsckvukj-347802-LguVjnAB-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25090426/052325-assembly-floor-fg-cm-03-926059-xsckvukj-347802-LguVjnAB.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The budget deal between Gov. Gavin Newsom and the Legislature forgoes or delays many of Newsom’s proposed cuts but the deficit is only likely to grow.</p>
+<p>The post <a href="https://lbpost.com/news/politics/newsom-agrees-to-ease-budget-cuts-as-california-seeks-more-time-to-fix-growing-deficit">Newsom agrees to ease budget cuts as California seeks more time to fix growing deficit</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/newsom-agrees-to-ease-budget-cuts-as-california-seeks-more-time-to-fix-growing-deficit>
+
+---
+
+## Fatal overdoses in LA County — including fentanyl deaths — declined last year, health officials say
+
+date: 2025-06-25, updated: 2025-06-25, from: The LAist
+
+Officials say investments in overdose response, harm reduction methods and treatment are saving lives. 
+
+<br> 
+
+<https://laist.com/news/health/fentanyl-overdose-deaths-drop-los-angeles-county>
+
+---
+
+## Pedestrian killed in crash on 405-to-710 freeway transition road in Long Beach
+
+date: 2025-06-25, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The crash was reported around 8:54 p.m. Tuesday, the CHP said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/pedestrian-killed-in-crash-on-405-to-710-freeway-transition-road-in-long-beach">Pedestrian killed in crash on 405-to-710 freeway transition road in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/pedestrian-killed-in-crash-on-405-to-710-freeway-transition-road-in-long-beach>
+
+---
+
+## They were convicted of killing with their cars. No one told the DMV
+
+date: 2025-06-25, updated: 2025-06-25, from: The LAist
+
+A CalMatters investigation found that courts didn’t report hundreds of vehicular manslaughter convictions to the DMV, prompting officials to belatedly take many drivers’ licenses. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/they-were-convicted-of-killing-with-their-cars-no-one-told-the-dmv>
+
+---
+
+## Warmer conditions for SoCal valleys and inland areas
+
+date: 2025-06-25, updated: 2025-06-25, from: The LAist
+
+A warming trend kicks in today for Southern California, but temperatures are still around normal. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/warmer-conditions-for-socal-valleys-and-inland-areas>
+
+---
+
+## Widely-shared video taken in downtown LA shows arrest of man at immigration check-in, ICE says
+
+date: 2025-06-25, updated: 2025-06-25, from: The LAist
+
+The video of a man calling out in Chinese for help sparked questions from witnesses and the community. 
 
 <br> 
 
@@ -47,7 +214,7 @@ The county is facing at least $400 million in liability claims related to the Ai
 
 ## Trump says early report on damage to Iran's nuclear program was inconclusive
 
-date: 2025-06-24, updated: 2025-06-24, from: The LAist
+date: 2025-06-24, updated: 2025-06-25, from: The LAist
 
 An early intelligence report found U.S. strikes on Iran sites may only have set its nuclear program back "a few months." Trump said it was inconclusive, but believes damage was more severe. 
 
@@ -121,7 +288,7 @@ A GOP plan to sell off public land may be off the table after the advisor to the
 
 date: 2025-06-24, from: Longbeach Post
 
-<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/04140202/park-mug-untitled-design-786970-azaiz5p7-376574-tiQm7GQE.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>He allegedly supplied chemicals used in the May 17 attack that authorities say was carried out by the deceased “anti-life” bomber, Guy Edward Bartkus.</p>
 <p>The post <a href="https://lbpost.com/news/accused-accomplice-in-palm-springs-fertility-clinic-bombing-dies-in-federal-custody">Accused accomplice in Palm Springs fertility clinic bombing dies in federal custody</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -156,12 +323,12 @@ President Trump demanded that Israel back off further attacks on Iran after accu
 
 ---
 
-## City of Santa Clarita to Host World’s Largest Wim Lesson at Aquatic Center
+## City of Santa Clarita to Host World’s Largest Swim Lesson at Aquatic Center
 
 date: 2025-06-24, from: City of Santa Clarita
 
 <p>The City of Santa Clarita is proud to host a location for the 2025 World’s Largest Swim Lesson on Thursday, June 26 from 10:30 to 11:00 a.m. at the Santa Clarita Aquatic Center, presented by Kaiser Permanente (20850 Centre Pointe Parkway). This free event is part of a global effort to raise awareness about the [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/06/24/dive-in-as-water-safety-day-returns-to-santa-clarita-2/">City of Santa Clarita to Host World&#8217;s Largest Wim Lesson at Aquatic Center</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/24/dive-in-as-water-safety-day-returns-to-santa-clarita-2/">City of Santa Clarita to Host World&#8217;s Largest Swim Lesson at Aquatic Center</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
  
 
 <br> 
@@ -186,7 +353,7 @@ On July 1, the unpopular Reading Instruction Competence Assessment will be repla
 
 date: 2025-06-24, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/24134749/5-lb-circuit-vehicles-queen-mary-891653-vsoixntl-706505-7uvek96Y.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>You can now take the free shuttles all the way to the Queen Mary and through many other areas where it's difficult or expensive to park.</p>
 <p>The post <a href="https://lbpost.com/news/city/lb-circuit-free-shuttle-service-belmont-downtown">Long Beach expands free shuttle service along the city&#8217;s coastline, downtown</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

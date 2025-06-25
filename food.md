@@ -1,11 +1,111 @@
 ---
 title: food
-updated: 2025-06-25 06:08:51
+updated: 2025-06-25 14:08:04
 ---
 
 # food
 
-(date: 2025-06-25 06:08:51)
+(date: 2025-06-25 14:08:04)
+
+---
+
+## Epic Universe Offers Unique Theme Park Food and Drinks
+
+date: 2025-06-25, from: Bon Appetet
+
+Universal’s new Epic Universe takes theme park food to a whole new level. 
+
+<br> 
+
+<https://www.bonappetit.com/story/universal-studios-epic-universe-restaurants-dining>
+
+---
+
+## The Best Drip Coffee Makers, Reviewed by Our Experts (2025)
+
+date: 2025-06-25, from: Bon Appetet
+
+Coffee doesn’t need to be hard to be delicious. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-drip-coffee-makers>
+
+---
+
+## Cuisinart Stand Mixer Review: Can This Pretty Appliance Compete with KitchenAid?
+
+date: 2025-06-25, from: Taste of Home
+
+<p>Ready, set, bake! Here's everything you need to know about the oh-so-pretty Caskata x Cuisinart stand mixer.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/cuisinart-stand-mixer-review/">Cuisinart Stand Mixer Review: Can This Pretty Appliance Compete with KitchenAid?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/cuisinart-stand-mixer-review/>
+
+---
+
+## David Lynch’s Espresso Machine Sold For How Much!?
+
+date: 2025-06-25, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. You can buy a lot of espresso machines with that much money. 
+
+<br> 
+
+<https://sprudge.com/david-lynchs-espresso-machine-sold-for-how-much-351081.html>
+
+---
+
+## I Went to 7 Drive-Thrus to Find the Best Spicy Chicken Sandwich
+
+date: 2025-06-25, from: Taste of Home
+
+<p>The world deserves a ranked taste test to determine the best spicy chicken sandwich. Can your favorite fast-food joint stand the heat?</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-spicy-chicken-sandwich/">I Went to 7 Drive-Thrus to Find the Best Spicy Chicken Sandwich</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-spicy-chicken-sandwich/>
+
+---
+
+## Design Details: Drinking Espresso with Venetian Lagoon Water
+
+date: 2025-06-25, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-620x414.jpg" class="attachment-large size-large wp-post-image" alt="02_Canal Cafe_Photo by Iwan Baan" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/25/design-details-drinking-espresso-with-venetian-lagoon-water/>
+
+---
+
+## Cielo Coffee Roasters Takes Flight at Penrose in Kansas City
+
+date: 2025-06-25, from: Daily Coffee News
+
+<div><img width="620" height="470" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Cielo-Coffee-Roasters-Penrose-bags-1-620x470.jpg" class="attachment-large size-large wp-post-image" alt="Cielo Coffee Roasters Penrose bags" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Cielo-Coffee-Roasters-Penrose-bags-1-620x470.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Cielo-Coffee-Roasters-Penrose-bags-1-300x228.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Cielo-Coffee-Roasters-Penrose-bags-1-150x114.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Cielo-Coffee-Roasters-Penrose-bags-1.jpg 720w" sizes="(max-width: 620px) 100vw, 620px" /></div>The clouds have parted and the runway is clear for a new boutique coffee roaster outside Kansas City, Missouri, called Cielo Coffee Roasters. Led by Kyle Evans, who has held... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/25/cielo-coffee-roasters-takes-flight-at-penrose-in-kansas-city/>
+
+---
+
+## In Missouri, NūStory Coffee Expands the Guatemalan Coffee Narrative
+
+date: 2025-06-25, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/nustory-sacks-620x465.jpg" class="attachment-large size-large wp-post-image" alt="nustory-sacks" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/nustory-sacks-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/nustory-sacks-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/nustory-sacks-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/nustory-sacks-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/nustory-sacks.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A coffee roasting company based in southwestern Missouri called NūStory Coffee recently launched with a distinct focus on high-quality coffees from Guatemala. Based just south of Springfield in Nixa,... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/25/in-missouri-nustory-coffee-expands-the-guatemalan-coffee-narrative/>
 
 ---
 
@@ -133,7 +233,7 @@ date: 2025-06-24, from: The Sprudge
 
 date: 2025-06-24, from: Daily Coffee News
 
-<div><img width="620" height="441" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/instant-coffee-1-620x441.jpg" class="attachment-large size-large wp-post-image" alt="instant coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/instant-coffee-1-620x441.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/instant-coffee-1-300x213.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/instant-coffee-1-150x107.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/instant-coffee-1-768x546.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/instant-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new genetics study found that drinking instant coffee may significantly increase the risk of developing dry age-related macular degeneration (AMD), a leading cause of vision loss in older adults.... 
+<div><img width="620" height="441" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/instant-coffee-1-620x441.jpg" class="attachment-large size-large wp-post-image" alt="instant coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/instant-coffee-1-620x441.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/instant-coffee-1-300x213.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/instant-coffee-1-150x107.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/instant-coffee-1-768x546.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/instant-coffee-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A new genetics study found that drinking instant coffee may significantly increase the risk of developing dry age-related macular degeneration (AMD), a leading cause of vision loss in older adults.... 
 
 <br> 
 
@@ -145,7 +245,7 @@ date: 2025-06-24, from: Daily Coffee News
 
 date: 2025-06-24, from: Daily Coffee News
 
-<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Pouring-Bangelore-Dreams-Coffee-1-620x418.png" class="attachment-large size-large wp-post-image" alt="Pouring Bangelore Dreams Coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Pouring-Bangelore-Dreams-Coffee-1-620x418.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Pouring-Bangelore-Dreams-Coffee-1-300x202.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Pouring-Bangelore-Dreams-Coffee-1-150x101.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Pouring-Bangelore-Dreams-Coffee-1-768x518.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Pouring-Bangelore-Dreams-Coffee-1.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The granddaughter of an Indian coffee plantation owner is hoping to change certain preconceived notions in the United States with the launch of Paul John Indian Caffeine Co. in... 
+<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Pouring-Bangelore-Dreams-Coffee-1-620x418.png" class="attachment-large size-large wp-post-image" alt="Pouring Bangelore Dreams Coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Pouring-Bangelore-Dreams-Coffee-1-620x418.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Pouring-Bangelore-Dreams-Coffee-1-300x202.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Pouring-Bangelore-Dreams-Coffee-1-150x101.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Pouring-Bangelore-Dreams-Coffee-1-768x518.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Pouring-Bangelore-Dreams-Coffee-1.png 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; The granddaughter of an Indian coffee plantation owner is hoping to change certain preconceived notions in the United States with the launch of Paul John Indian Caffeine Co. in... 
 
 <br> 
 
@@ -157,7 +257,7 @@ date: 2025-06-24, from: Daily Coffee News
 
 date: 2025-06-24, from: Daily Coffee News
 
-<div><img width="620" height="377" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Coffee-Sustainability-Support-Database-620x377.png" class="attachment-large size-large wp-post-image" alt="Coffee Sustainability Support Database" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Coffee-Sustainability-Support-Database-620x377.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Coffee-Sustainability-Support-Database-300x182.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Coffee-Sustainability-Support-Database-150x91.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Coffee-Sustainability-Support-Database-768x467.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Coffee-Sustainability-Support-Database.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; As organizations throughout the coffee value chain continue to call for more transparent and collective action for coffee sector sustainability, navigating the complex forest of sustainability initiatives remains a... 
+<div><img width="620" height="377" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Coffee-Sustainability-Support-Database-620x377.png" class="attachment-large size-large wp-post-image" alt="Coffee Sustainability Support Database" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Coffee-Sustainability-Support-Database-620x377.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Coffee-Sustainability-Support-Database-300x182.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Coffee-Sustainability-Support-Database-150x91.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Coffee-Sustainability-Support-Database-768x467.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Coffee-Sustainability-Support-Database.png 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; As organizations throughout the coffee value chain continue to call for more transparent and collective action for coffee sector sustainability, navigating the complex forest of sustainability initiatives remains a... 
 
 <br> 
 
@@ -181,7 +281,7 @@ date: 2025-06-24, from: The Sprudge
 
 date: 2025-06-24, from: Bon Appetet
 
-Tomato is the reigning It Girl of scents. 
+Tomato is the reigning It girl of scents. 
 
 <br> 
 
