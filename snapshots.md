@@ -1,11 +1,288 @@
 ---
 title: snapshots
-updated: 2025-06-26 06:08:15
+updated: 2025-06-26 14:07:38
 ---
 
 # snapshots
 
-(date: 2025-06-26 06:08:15)
+(date: 2025-06-26 14:07:38)
+
+---
+
+## Software Is Changing (Again)
+
+date: 2025-06-26, from: Michael Tsai
+
+Y Combinator (transcript, slides, via Duncan Davidson, Hacker News): Drawing on his work at Stanford, OpenAI, and Tesla, Andrej [Karpathy] sees a shift underway. Software is changing, again. We&#8217;ve entered the era of &#8220;Software 3.0,&#8221; where natural language becomes the new programming interface and models do the rest.He explores what this shift means for developers, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/26/software-is-changing-again/>
+
+---
+
+## Open App Markets Act Reintroduced
+
+date: 2025-06-26, from: Michael Tsai
+
+Marcus Mendes: A bipartisan group of senators has reintroduced the 2021 Open App Markets Act, a bill aimed at curbing the gatekeeper power that Apple and Google hold over the so-called &#8220;mobile app economy.&#8221; Here&#8217;s what they&#8217;re going for.If passed, the legislation would effectively force Apple and Google (who are not specifically named in the [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/26/open-app-markets-act-reintroduced/>
+
+---
+
+## Paula Bozinovich, RIP
+
+date: 2025-06-26, from: Michael Tsai
+
+Brian Croll, quoted by John Gruber: Paula was an employee who you are not going to see profiled in any books on the history of Apple or Steve Jobs. She worked closely with the ops team to ensure CDs and then DVDs shipped on time and correctly packaged in a box. She knew all the [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/26/paula-bozinovich-rip/>
+
+---
+
+## iOS 26: Adaptive Power Mode
+
+date: 2025-06-26, from: Michael Tsai
+
+Joe Rossignol: Apple says that Adaptive Power Mode can make &#8220;small performance adjustments&#8221; when necessary to extend an iPhone&#8217;s battery life, including slightly lowering the display brightness or allowing some activities to &#8220;take a little longer.&#8221;[&#8230;]Adaptive Power Mode is only available on the iPhone 15 Pro models and newer. This is because the AI-powered feature [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/26/ios-26-adaptive-power-mode/>
+
+---
+
+## DNA from Prehistoric Proto-City Reveals 'Surprising' Signs of Female-Centered Society
+
+date: 2025-06-26, from: 404 Media Group
+
+An unprecedented study reveals maternal lineages, female-centered practices, and a “surprising shift” in a 9,000-year-old settlement associated with a goddess cult.  
+
+<br> 
+
+<https://www.404media.co/dna-from-prehistoric-proto-city-reveals-surprising-signs-of-female-centered-society/>
+
+---
+
+## Inside ‘AI Addiction’ Support Groups, Where People Try to Stop Talking to Chatbots
+
+date: 2025-06-26, from: 404 Media Group
+
+People are self treating themselves and other community members in subreddits like character_ai_recovery, ChatBotAddiction, and AIAddiction. 
+
+<br> 
+
+<https://www.404media.co/inside-ai-addiction-support-groups-where-people-try-to-stop-talking-to-chatbots/>
+
+---
+
+## Bank Error in Your Favor
+
+date: 2025-06-26, updated: 2025-06-26, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/06/26/bank-error-in-your-favor/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-26, from: Dave Winer's linkblog)
+
+Krugman doesn’t understand what’s coming for NYC. And doesn’t understand the leadership Cuomo uniquely provided at the height of Covid. It’s pretty likely what’s coming for the city is probably going to be worse than Covid or 9-11. 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/mamdani-and-the-moguls-of-madness?publication_id=277517&post_id=166903615&isFreemail=true&r=2fku&triedRedirect=true>
+
+---
+
+## Why Your Emotions Don't Have to Control You
+
+date: 2025-06-26, from: Guy Kawasaki blog
+
+What if the secret to emotional mastery isn&#8217;t avoiding negative feelings, but learning to use them as tools? 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/why-your-emotions-dont-have-to-control>
+
+---
+
+## ICE Is Using a New Facial Recognition App to Identify People, Leaked Emails Show
+
+date: 2025-06-26, from: 404 Media Group
+
+The new tool, called Mobile Fortify, uses the CBP system which ordinarily takes photos of people when they enter or exit the U.S., according to internal ICE emails viewed by 404 Media. Now ICE is using it in the field. 
+
+<br> 
+
+<https://www.404media.co/ice-is-using-a-new-facial-recognition-app-to-identify-people-leaked-emails-show/>
+
+---
+
+## Acer Chromebook Plus 514 with Core 3 N355 coming in July for $400 and up
+
+date: 2025-06-26, from: Liliputing
+
+<p>The new Acer Chromebook Plus 514 (CB514-6H/6HT) is ChromeOS laptop with an Intel Core 3 N355 octa-core processor based on Intel&#8217;s Twin Lake architecture, and a 14 inch, 1920 x 1200 pixel display with optional touchscreen support. It&#8217;s a relatively modest update over last year&#8217;s model, but the new version brings a slightly faster processor, a [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/acer-chromebook-plus-514-with-core-3-n355-coming-this-month-for-400-and-up/">Acer Chromebook Plus 514 with Core 3 N355 coming in July for $400 and up</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/acer-chromebook-plus-514-with-core-3-n355-coming-this-month-for-400-and-up/>
+
+---
+
+## Exterminio: la evolución – heredar la catástrofe, habitar los restos
+
+date: 2025-06-26, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Danny Boyle. Guion: Alex Garland. Elenco: Alfie Williams, Jodie Comer, Aaron Taylor-Johnson, Edvin Ryding, Ralph Fiennes. País: Reino Unido. Más información de la película: https://www.imdb.com/title/tt10548174/ En la trilogía de infectados —o de zombis, como a menudo se les describe pese a que sus propios creadores insisten en que no lo son—, iniciada con 28 [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-exterminio-la-evolucion/">Exterminio: la evolución – heredar la catástrofe, habitar los restos</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-exterminio-la-evolucion/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-exterminio-la-evolucion>
+
+---
+
+## What's coming to JavaScript
+
+date: 2025-06-26, updated: 2025-06-26, from: Deno blog
+
+Here are proposals that were advanced at the last TC39 meeting and what that means for the future of JavaScript. 
+
+<br> 
+
+<https://deno.com/blog/updates-from-tc39>
+
+---
+
+## Calling “Cut” on the First Take at Cannes, 1939
+
+date: 2025-06-26, from: National Archives, Text Message blog
+
+Cannes.&#160; Glitz.&#160; Glamor.&#160; Film stars.&#160; Today, the Cannes film festival – formal title Festival de Cannes &#8211; is considered the epitome of the international motion picture world.&#160; The festival had an uncertain beginning. &#160; The first official French notification to the U.S. government of the planned festival arrived in the Department of State in the &#8230; <a href="https://text-message.blogs.archives.gov/2025/06/26/calling-cut-on-the-first-take-at-cannes-1939/" class="more-link">Continue reading <span class="screen-reader-text">Calling “Cut” on the First Take at Cannes, 1939</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/06/26/calling-cut-on-the-first-take-at-cannes-1939/>
+
+---
+
+## Radxa NX150 is an Intel N150 compute module in an NVIDIA Jetson NX-compatible form factor
+
+date: 2025-06-26, from: Liliputing
+
+<p>The Radxa NX150 is a tiny computer with an Intel N150 quad-core Twin Lake processor, up to  16GB of LPDDR5 memory, and support for plenty of I/O features. It also looks like a stick of RAM rather than a full-fledged computer. That&#8217;s because the Radxa NX150 is a system-on-a-module (SoM) that follows the NVIDIA Jetson NX [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/radxa-nx150-is-an-intel-n150-compute-module-in-an-nvidia-jetson-nx-compatible-form-factor/">Radxa NX150 is an Intel N150 compute module in an NVIDIA Jetson NX-compatible form factor</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/radxa-nx150-is-an-intel-n150-compute-module-in-an-nvidia-jetson-nx-compatible-form-factor/>
+
+---
+
+## Geminiception
+
+date: 2025-06-26, updated: 2025-06-26, from: Simon Willison’s Weblog
+
+<p>Yesterday Anthropic got <a href="https://simonwillison.net/2025/Jun/25/ai-powered-apps-with-claude/">a bunch of buzz</a> out of their new <code>window.claude.complete()</code> API which allows Claude Artifacts to run their own API calls to execute prompts.</p>
+<p>It turns out Gemini had beaten them to that feature by over a month, but the announcement was tucked away in a bullet point of their <a href="https://gemini.google.com/updates">release notes</a> for the 20th of May:</p>
+<blockquote>
+<p>Vibe coding apps in Canvas just got better too! With just a few prompts, you can now build fully functional personalised apps in Canvas that can use Gemini-powered features, save data between sessions and share data between multiple users.</p>
+</blockquote>
+<p>Ethan Mollick <a href="https://x.com/emollick/status/1938091740121935929">has been building</a> some neat demos on top of Gemini Canvas, including this <a href="https://gemini.google.com/share/42dfb2004b7e">text adventure starship bridge simulator</a>.</p>
+<p>Similar to Claude Artifacts, Gemini Canvas detects if the application uses APIs that require authentication (to run prompts, for example) and requests the user sign in with their Google account:</p>
+<p><img alt="Futuristic sci-fi interface screenshot showing &quot;Helm Control&quot; at top with navigation buttons for Helm, Comms, Science, Tactical, Engineering, and Operations, displaying red error message &quot;[SYSTEM_ERROR] Connection to AI core failed: API error: 403. This may be an authentication issue.&quot; with command input field showing &quot;Enter command...&quot; and Send button, plus Google Account sign-in notification at bottom stating &quot;You need to sign in with your Google Account to see some features&quot; with Sign in button and X close icon" src="https://static.simonwillison.net/static/2025/gemini-auth.jpg" /></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/ethan-mollick">ethan-mollick</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/26/geminiception/#atom-everything>
+
+---
+
+## Mamdani and the Moguls of Madness
+
+date: 2025-06-26, from: Paul Krugman
+
+Will he be a good mayor? Nobody knows. But the hysteria is revealing. 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/mamdani-and-the-moguls-of-madness>
+
+---
+
+## Bacalhau v1.8.0 - Day 4: Seamless Result Storage with Managed Publishers with Expanso Cloud
+
+date: 2025-06-26, from: Bacalhau Blog
+
+Your workflow just got simpler. Announcing secure, managed, and automatic result storage in Expanso Cloud. 
+
+<br> 
+
+<https://blog.bacalhau.org/p/bacalhau-v180-day-4-seamless-result-storage-with-managed-publishers-in-expanso-cloud>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-26, from: Robert's feed at BlueSky)
+
+Interesting take on C02 reduction. Make industrial plastic from it. https://www.caltech.edu/about/news/making-plastic-from-carbon-dioxide-water-and-electricity 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lsjgq4zjfs27>
+
+---
+
+## Dell Premium laptops now available for $1650 and up (Basically a Dell XPS notebooks with Intel Arrow Lake and optional NVIDIA graphics)
+
+date: 2025-06-26, from: Liliputing
+
+<p>This year Dell reworked its laptop naming, and while few folks were sad to see the Inspiron, Latitude, or Precision brands go, I heard a lot of questions about what would happen to the iconic Dell XPS line of premium systems. Now we have the answer. The new Dell Premium 14 and Dell Premium 16 laptops are [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/dell-premium-laptops-now-available-for-1650-and-up-basically-a-dell-xps-notebooks-with-intel-arrow-lake-and-optional-nvidia-graphics/">Dell Premium laptops now available for $1650 and up (Basically a Dell XPS notebooks with Intel Arrow Lake and optional NVIDIA graphics)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/dell-premium-laptops-now-available-for-1650-and-up-basically-a-dell-xps-notebooks-with-intel-arrow-lake-and-optional-nvidia-graphics/>
+
+---
+
+## 'My Bad:' Babyface Vance Meme Creator On Norwegian Tourist's Detainment
+
+date: 2025-06-26, from: 404 Media Group
+
+404 Media spoke to Dave McNamee, the original creator of the babyface Vance meme, about free speech, our rights, and how it feels to see the thing you created being blamed for someone's denial of entry to the U.S. 
+
+<br> 
+
+<https://www.404media.co/vance-babyface-meme-mads-mikkelsen-norway-tourist/>
+
+---
+
+## Airline-Owned Data Broker Selling Your Flight Info to DHS Finally Registers as a Data Broker
+
+date: 2025-06-26, from: 404 Media Group
+
+It’s a legal requirement for data brokers to register in the state of California. ARC, the airlines-owned data broker that has been selling your flight information to the government for years, only just registered after being contacted by the office of Senator Ron Wyden. 
+
+<br> 
+
+<https://www.404media.co/airline-owned-data-broker-selling-your-flight-info-to-dhs-finally-registers-as-a-data-broker/>
 
 ---
 
@@ -694,7 +971,7 @@ Speaker: Jason Tham, Texas Tech University&#160; This year’s keynote address w
 
 ---
 
-## Anthropic wins on fair use for training its LLMs; loses on building a “central library” of pirated books
+## Anthropic Wins on Fair Use for Training its LLMs; Loses on Building a “Central Library” of Pirated Books
 
 date: 2025-06-24, from: Authors Union blogs
 

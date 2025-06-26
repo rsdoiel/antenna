@@ -1,11 +1,149 @@
 ---
 title: north america
-updated: 2025-06-26 06:08:04
+updated: 2025-06-26 14:07:27
 ---
 
 # north america
 
-(date: 2025-06-26 06:08:04)
+(date: 2025-06-26 14:07:27)
+
+---
+
+## Seven satirical war films that are somehow less ridiculous than real life
+
+date: 2025-06-26, from: The Contrarian
+
+Trump's bumbling decision to bomb Iran recalls classic comedies from Dr. Strangelove to In the Loop&#8212;but is much less funny 
+
+<br> 
+
+<https://contrarian.substack.com/p/seven-satirical-war-films-that-are>
+
+---
+
+## The power of unlikely friendship
+
+date: 2025-06-26, from: The Contrarian
+
+An excerpt from a new book by former Obama speechwriter David Litt 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-power-of-unlikely-friendship>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-06-26, from: The Contrarian
+
+Thursday: Italians signal their frustration with the Bezos wedding, protests against ICE, planning for upcoming rallies, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## One person’s fight? No. We’re in this together.
+
+date: 2025-06-26, from: The Contrarian
+
+When people play to their strengths to defend the rule of law, we can have their backs. 
+
+<br> 
+
+<https://contrarian.substack.com/p/one-persons-fight-no-were-in-this>
+
+---
+
+## Banner days
+
+date: 2025-06-26, from: The Contrarian
+
+A cartoon by RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/banner-days>
+
+---
+
+##  Iran Regime Change, Brought To You By Dark Money 
+
+date: 2025-06-26, from: The Lever News
+
+ Neocon think tanks demanding that Trump overthrow Iran’s government — no matter the risks — are funded by anti-Muslim billionaires and fossil fuel fortunes.  
+
+<br> 
+
+<https://www.levernews.com/iran-regime-change-brought-to-you-by-dark-money/>
+
+---
+
+## Congress needs to do everything it can to kill the Big, Brutish Bill: Senator Mark Warner explains
+
+date: 2025-06-26, from: The Contrarian
+
+"I don't want to be your damn conscience. I want you to vote your conscience!" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166905970/ac6a896b8bf5b14fb1e17c6d0a92ec6a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166905970/ac6a896b8bf5b14fb1e17c6d0a92ec6a.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/congress-needs-to-do-everything-it>
+
+---
+
+## How is it Possible For a Bill to Be This Bad? Andrea Ducas Breaks Down the Compounded Harms of Trump's Big, Ugly Bill 
+
+date: 2025-06-26, from: The Contrarian
+
+"There's something terrible for everyone in this bill." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166843449/13d0d67a85c15fd5cecc44d4dd7246da.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166843449/13d0d67a85c15fd5cecc44d4dd7246da.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/how-is-it-possible-for-a-bill-to>
+
+---
+
+## A Fear Pandemic Grips Safety Net Hospitals and Their Patients
+
+date: 2025-06-26, from: Capital and Main
+
+<p>With immigration raids on the rise, many in need of health care are choosing to remain at home.</p>
+<p>The post <a href="https://capitalandmain.com/a-fear-pandemic-grips-safety-net-hospitals-and-their-patients">A Fear Pandemic Grips Safety Net Hospitals and Their Patients</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/a-fear-pandemic-grips-safety-net-hospitals-and-their-patients>
+
+---
+
+## Don’t forget the human toll of immigration raids
+
+date: 2025-06-26, from: The Contrarian
+
+Beyond the economic cost of these deportations, each abduction leaves friends, family, and community members who have had a loved one ripped from their midst. 
+
+<br> 
+
+<https://contrarian.substack.com/p/dont-forget-the-human-toll-of-immigration>
+
+---
+
+## Coffee with Contrarians 06/26
+
+date: 2025-06-26, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 06/26 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-contrarians-0626>
 
 ---
 
@@ -156,18 +294,6 @@ A recording from Coffee with the Contrarians LIVE 06/25
 <br> 
 
 <https://contrarian.substack.com/p/coffee-with-contrarians-the-big-iran>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-06-25, from: The Contrarian
-
-Wednesday: Singing protests, upcoming rallies, a reminder that every action counts, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

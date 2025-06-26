@@ -1,11 +1,135 @@
 ---
 title: home
-updated: 2025-06-26 06:08:11
+updated: 2025-06-26 14:07:34
 ---
 
 # home
 
-(date: 2025-06-26 06:08:11)
+(date: 2025-06-26 14:07:34)
+
+---
+
+## For $4M, You Can Buy an Entire Island in Finland
+
+date: 2025-06-26, from: Dwell
+
+The off-grid getaway includes a wood-and-glass main house and guesthouse, geothermal and desalination systems, and the requisite sauna. 
+
+<br> 
+
+<https://www.dwell.com/article/finland-private-island-remmarholmen-joanna-maury-real-estate-2e7c4c6d>
+
+---
+
+## Inventory Is Up. Where Are All the Homebuyers?
+
+date: 2025-06-26, from: Dwell
+
+Experts say it’s way more complicated than high interest rates. 
+
+<br> 
+
+<https://www.dwell.com/article/why-arent-people-buying-houses-5b19a8b1>
+
+---
+
+## This Coastal Oregon Town Hosts an Epic Annual Sandcastle Contest. This Year? Rain—Lots of It
+
+date: 2025-06-26, from: Dwell
+
+Teams at Cannon Beach’s 61st event wore slickers and wetsuits to turn drenched sand into sasquatches, tyrannical pugs, and even a few castles. 
+
+<br> 
+
+<https://www.dwell.com/article/cannon-beach-sandcastle-building-contest-haystack-rock-1061c9af>
+
+---
+
+## How to Plant and Grow Mexican Zinnias
+
+date: 2025-06-26, from: The Gardener's Path
+
+<p>Looking for a reliable, low-maintenance flower that delivers nonstop color? Mexican zinnias are compact, vibrant, and perfect for borders, containers, and cutting gardens. Less common than their taller cousins, they’re just as eye-catching and incredibly easy to grow. Learn how to grow Zinnia haageana in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-mexican-zinnias/">How to Plant and Grow Mexican Zinnias</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-mexican-zinnias/>
+
+---
+
+## From the Archive: The Problem With Building Up Boomtowns
+
+date: 2025-06-26, from: Dwell
+
+Twenty years ago, people were flocking to smaller cities en masse, causing rapid architectural growth—for better or worse. 
+
+<br> 
+
+<https://www.dwell.com/article/from-the-archive-the-problem-with-building-up-boomtowns-fc6036a8>
+
+---
+
+## The Dark Underbelly of "the Waterpark Capital of the World"
+
+date: 2025-06-26, from: Dwell
+
+Filmmaker Nellie Kluz discusses what drew her to document the international workers that make the artificial paradise of the Wisconsin Dells function summer after summer. 
+
+<br> 
+
+<https://www.dwell.com/article/the-dells-documentary-nellie-kluz-q-and-a-28120334>
+
+---
+
+## The Smarties-Colored Shingles on This Toronto Home Look Sweet Enough to Eat
+
+date: 2025-06-26, from: Dwell
+
+The renovated row house’s cheery new color palette starts at the street with a bubble-gum pink facade. 
+
+<br> 
+
+<https://www.dwell.com/article/the-pink-house-sheeep-studio-home-renovation-candy-colored-706b84ff>
+
+---
+
+## A Pride Month Conversation with Cody Nicholson Stratton, of Foggy Bottoms Boys Farms
+
+date: 2025-06-26, from: Calfifornia Dept. Aggriculture blog
+
+On June 19, 2025, Cody Nicholson Stratton (pictured left), farmer/operator of Foggy Bottoms Boys Farm, joined virtually on Zoom for Pride Month Lunch and Learn; pictured right, Cody, his husband Thomas, and their six-year-old son. In celebration of Pride Month, &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29073">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29073>
+
+---
+
+## The Best Zucchini Relish Recipe (Canning, Freezer or Refrigerator)
+
+date: 2025-06-26, from: Homestead and Chil
+
+<p>Let's make zucchini relish! Full of classic sweet and tangy relish flavors, our delicious zucchini relish recipe is perfect for canning, freezing, or easy refrigerator storage. Zucchini relish is delicious with burgers, eggs, hot dogs, tacos, pizza, dips, dressings and more!</p>
+<p>The post <a href="https://homesteadandchill.com/zucchini-relish-recipe-canning-freezer-refrigerator/">The Best Zucchini Relish Recipe (Canning, Freezer or Refrigerator)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/zucchini-relish-recipe-canning-freezer-refrigerator/>
+
+---
+
+## How They Pulled It Off: A Stained-Glass Bench That Illuminates a Brooklyn Backyard
+
+date: 2025-06-26, from: Dwell
+
+The seat brings natural light into a dark basement and also serves as a beautiful spot to land for outdoor dining. 
+
+<br> 
+
+<https://www.dwell.com/article/brooklyn-studio-studio-solenne-stained-glass-bench-53823fdb>
 
 ---
 

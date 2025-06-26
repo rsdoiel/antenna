@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-06-26 06:08:10
+updated: 2025-06-26 14:07:33
 ---
 
 # libraries
 
-(date: 2025-06-26 06:08:10)
+(date: 2025-06-26 14:07:33)
 
 ---
 
@@ -213,7 +213,7 @@ alt="Screenshot of the XML feed entry for a Crossref blog post" width="120%"><fi
 
 date: 2025-06-23, from: Association of Research Libraries News
 
-<p>Last Updated on June 25, 2025, 2:14 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 24 &#124; Wednesday, June 25 &#124; Thursday,...</p>
+<p>Last Updated on June 26, 2025, 2:28 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 24 &#124; Wednesday, June 25 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-june-23-26/">Day in Review (June 23–26)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

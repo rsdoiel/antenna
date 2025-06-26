@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-06-26 06:08:12
+updated: 2025-06-26 14:07:35
 ---
 
 # retro computing
 
-(date: 2025-06-26 06:08:12)
+(date: 2025-06-26 14:07:35)
+
+---
+
+## b.log 2025/06/26 - Refreshing, Dying slowly and in great pain.
+
+date: 2025-06-26, from: Richard Murray's blog
+
+Refreshing, Dying slowly and in great pain. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250626>
+
+---
+
+## Live Coding with Gerph session on Sunday 29th June
+
+date: 2025-06-26, from: Icon Bar, RISC OS News
+
+If you want to learn from an expert doing some RISC OS coding, you are in for a treat this weekend! 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2215.html>
 
 ---
 

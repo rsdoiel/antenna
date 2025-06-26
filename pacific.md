@@ -1,11 +1,88 @@
 ---
 title: pacific
-updated: 2025-06-26 06:08:05
+updated: 2025-06-26 14:07:29
 ---
 
 # pacific
 
-(date: 2025-06-26 06:08:05)
+(date: 2025-06-26 14:07:29)
+
+---
+
+## Youth urged to complain
+
+date: 2025-06-26, from: Marshal Islands Journal
+
+<p>Journal 6/25/1982 P1 Protest growsA group of some 250 landowners of Kwajalein Atoll launched a protest invasion and occupation of several islands in the atoll on Saturday June 19. Marshall Islands President Amata Kabua was traveling in the Far East when the protest began, and he immediately cut short his journey and returned to Majuro [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/youth-urged-to-complain/">Youth urged to complain</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/youth-urged-to-complain/>
+
+---
+
+## Pacific news in brief for 27 June
+
+date: 2025-06-26, from: 
+
+A round-up of news from around the region, including PNG government announcing it will provide financial support Papua New Guinean students at the University of the South Pacific. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565275/pacific-news-in-brief-for-27-june>
+
+---
+
+## Rugby: Moana Pasifika owners confident they can continue to bankroll team
+
+date: 2025-06-26, from: 
+
+The owners of Moana Pasifika Super are confident they can continue to bankroll the team, despite the loss of lucrative government contracts. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/sport/565238/rugby-moana-pasifika-owners-confident-they-can-continue-to-bankroll-team>
+
+---
+
+## Program record 10 Telly Awards for UH’s ‘Voice of the Sea’ TV series
+
+date: 2025-06-26, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr>’s award-winning series showcases powerful stories of science, culture and conservation across the Pacific.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/26/program-record-voice-of-the-sea/">Program record 10 Telly Awards for <abbr>UH</abbr>’s ‘Voice of the Sea’ <abbr>TV</abbr> series</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/26/program-record-voice-of-the-sea/>
+
+---
+
+## The Blanket
+
+date: 2025-06-26, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Michael Brasier Her toys—every little figurine and stuffed animal I bought—rest in a cardboard box collecting dust, not touched since her last visit three months ago. While watching The Twilight Zone, once her and her mother’s evening tradition, I find five small socks—cheetah patterned, sweat-hardened sock calluses—under the recliner. She hated the way socks &#8230; &#8230; <a href="https://hawaiipacificreview.org/2025/06/26/the-blanket/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/06/26/the-blanket/>
+
+---
+
+## Big Apple pow-wow
+
+date: 2025-06-26, from: Marshal Islands Journal
+
+<p>Nuclear test justice advocates Benetick Kabua Maddison and Glenn Alcalay met with Marshall Islands Ambassador to the United Nations John Silk in New York City last week. Benetick, who was recently in Majuro, is the executive director of the Marshallese Educational Initiative based in Springdale, Arkansas. Both Ambassador John and Glenn are NYC residents, Glenn [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/big-apple-pow-wow/">Big Apple pow-wow</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/big-apple-pow-wow/>
 
 ---
 
@@ -270,6 +347,20 @@ date: 2025-06-26, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/06/26/nation-world-news/bezos-and-sanchez-arrive-in-venice-for-marathon-wedding-party/>
+
+---
+
+## DLNR: Pohoiki dredging progress ‘looking really good’
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Land and Natural Resources reported today that the dredging at Pohoiki Boat Ramp could be finished ahead of schedule. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/hawaii-news/dlnr-engineer-blown-away-by-pohoiki-dredging-progress/>
 
 ---
 
@@ -1842,7 +1933,7 @@ The post <a href="https://www.hawaii.edu/news/2025/06/23/inaugural-marine-debris
 
 date: 2025-06-23, from: Hawai'i Pacific Review (HPU Literary Magazine)
 
-by Kalani Padilla The cabbages will survive at 24 degrees fahrenheit whether they tolerate or desire the frost is their secret. One winter a lover and I took turns driving between doubt and northwestern Montana He made me beautiful   &#8230; <a href="https://hawaiipacificreview.org/2025/06/23/emigrant/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+by Kalani Padilla The cabbages will survive at 24 degrees fahrenheit whether they tolerate or desire the frost is their secret. One winter a lover and I took turns driving between doubt and northwestern Montana He made me beautiful      promises he hung them on my ears and pressed them into the big sky &#8230; &#8230; <a href="https://hawaiipacificreview.org/2025/06/23/emigrant/">Continue reading <span class="meta-nav">&#8594;</span></a> 
 
 <br> 
 

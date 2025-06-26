@@ -1,11 +1,264 @@
 ---
 title: going electric
-updated: 2025-06-26 06:08:13
+updated: 2025-06-26 14:07:36
 ---
 
 # going electric
 
-(date: 2025-06-26 06:08:13)
+(date: 2025-06-26 14:07:36)
+
+---
+
+## 'Don’t Invade Our Systems': Automakers Warn Apple Over CarPlay Ultra
+
+date: 2025-06-26, from: Inside EVs News
+
+Apple's CarPlay Ultra would take Apple's software to your entire screen, including your A/C and speed. Car companies say no thanks. 
+
+<br> 
+
+<https://insideevs.com/news/764017/apple-carplay-ultra-rollout-problems/>
+
+---
+
+## Xiaomi received over 200,000 real orders for its Tesla killer in just 3 minutes
+
+date: 2025-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Xiaomi-YU7-hero.png?w=1600" /></div><p>Xiaomi has confirmed receiving over 200,000 real orders for its Tesla killer, the YU7, in just three minutes. We are referring to actual orders, with a soon-to-be non-refundable deposit.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="xiaomi,xiaomi-yu7" data-layer-viewtype="unknown" data-post-id="422458" href="https://electrek.co/2025/06/26/xiaomi-received-over-200000-real-orders-for-its-tesla-killer-in-just-3-minutes/#more-422458" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/xiaomi-received-over-200000-real-orders-for-its-tesla-killer-in-just-3-minutes/>
+
+---
+
+## BYD denies rumors of cutting EV production, says sales are still growing steadily
+
+date: 2025-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/BYD-cutting-EV-production-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD says there’s no slowdown, despite the rumors. After several sources claimed that <a href="https://electrek.co/guides/byd/">BYD</a> was cutting EV production in China due to slowing sales, the company is pushing back, saying output is stable and sales are still growing.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="422146" href="https://electrek.co/2025/06/26/byd-denies-rumors-cutting-ev-production-sales-remain-strong/#more-422146" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/byd-denies-rumors-cutting-ev-production-sales-remain-strong/>
+
+---
+
+## Bill Gates-backed rectangular turbine pilot could upend wind power
+
+date: 2025-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Airloom_hero_images-14.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Airloom Energy just broke ground on a rectangular wind turbine pilot site near Rock River, Wyoming, and it has the potential to change how wind power gets built in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bill-gates,egeb,energy-brief,solar,wind-power,wind-turbine,wyoming" data-layer-viewtype="unknown" data-post-id="422456" href="https://electrek.co/2025/06/26/bill-gates-backed-rectangular-turbine-pilot-could-upend-wind-power/#more-422456" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/bill-gates-backed-rectangular-turbine-pilot-could-upend-wind-power/>
+
+---
+
+## Tesla fires Musk’s chief of staff who became head of North America and Europe
+
+date: 2025-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/07/Omead-Afshar-with-Elon-Musk-at-Tesla-Cyber-Rodeo.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has reportedly fired its head of operations for North America and Europe, a controversial employee who rose to the leadership position after serving as Elon Musk’s chief of staff.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="422453" href="https://electrek.co/2025/06/26/tesla-fires-musks-chief-of-staff-who-became-head-north-america-europe/#more-422453" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/tesla-fires-musks-chief-of-staff-who-became-head-north-america-europe/>
+
+---
+
+## LFP Batteries Revolutionized China's EVs. Now, America Steps Up Too
+
+date: 2025-06-26, from: Inside EVs News
+
+LG's American-made LFP batteries could help EVs charge in rural areas where the charging infrastructure isn’t mature. 
+
+<br> 
+
+<https://insideevs.com/news/764002/lges-opens-first-lfp-battery-plant-in-america/>
+
+---
+
+## Volvo is about to launch a new midsize electric SUV: Here’s what we know about the EX60
+
+date: 2025-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Volvo-EX60-electric-SUV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The XC60 just became the top-selling <a href="https://electrek.co/guides/volvo/">Volvo</a> vehicle of all time, and now it’s about to go electric. Volvo has shared new information about the upcoming EX60, its midsize electric SUV, including when we can expect to see it for the first time.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo" data-layer-viewtype="unknown" data-post-id="422410" href="https://electrek.co/2025/06/26/volvo-about-to-launch-new-ex60-midsize-electric-suv/#more-422410" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/volvo-about-to-launch-new-ex60-midsize-electric-suv/>
+
+---
+
+## Rad Power’s new Radster Trail and Road e-bikes hit $1,999 lows, EcoFlow 48-hour flash sale takes up to 54% off units from $429, more
+
+date: 2025-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Rad-Power-Radster-Trail-Off-Road-e-bike.png?w=1200" /></div><p>Leading today’s Green Deals is <a href="https://9to5toys.com/2025/06/26/rad-power-bikes-4th-of-july-radster-e-bikes-1999-lows-more/">Rad Power’s newly launched 4th of July Sale</a> that is taking up to $600 off three e-bikes and up to 50% off add-on accessories – with the standout offers being the <a href="https://9to5toys.com/2025/06/26/rad-power-bikes-4th-of-july-radster-e-bikes-1999-lows-more/">new Radster Road Commuter e-bike and the Radster Trail Off-Road e-bike</a> returning to their <a href="https://9to5toys.com/2025/06/26/rad-power-bikes-4th-of-july-radster-e-bikes-1999-lows-more/">$1,999 lows</a> for the second time ever. We also have a <a href="https://9to5toys.com/2025/06/26/ecoflow-48-hour-flash-sale-starting-from-429/">48-hour early Prime Day flash sale from EcoFlow</a> that is offering up to 54% off either the <a href="https://9to5toys.com/2025/06/26/ecoflow-48-hour-flash-sale-starting-from-429/">DELTA Pro or DELTA Pro Ultra</a> power stations, as well as the <a href="https://9to5toys.com/2025/06/26/ecoflow-48-hour-flash-sale-starting-from-429/">DELTA 2 expansion battery</a> with return lows <a href="https://9to5toys.com/2025/06/26/ecoflow-48-hour-flash-sale-starting-from-429/">starting from $429</a>. From there, we have two Greenworks deals, the first being the <a href="https://9to5toys.com/2025/06/26/greenworks-82v-25-inch-mower-three-batteries-700/">Greenworks 82V bundle</a> of the Commercial-Grade 25-inch Cordless Self-Propelled Lawn Mower with three 4.0Ah batteries and a dual-port rapid charger at <a href="https://9to5toys.com/2025/06/26/greenworks-82v-25-inch-mower-three-batteries-700/">$700</a>. Bringing up the rear is a roundup of the brand’s electric pressure washers, with the <a href="https://9to5toys.com/2025/06/25/greenworks-1800-psi-electric-pressure-washer-120/">1,800 PSI Open Frame model</a> with an onboard soap tank leading at <a href="https://9to5toys.com/2025/06/25/greenworks-1800-psi-electric-pressure-washer-120/">$120</a>. Plus, there’s all the rest of the hangover Green Deals in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/06/25/anker-launches-solix-f3000-station-from-1699/">Anker SOLIX F3000 power station launch deals</a>, the <a href="https://9to5toys.com/2025/06/24/bluetti-early-prime-day-sale-from-239/">exclusive Bluetti early Prime Day savings</a> we’ve secured for our readers, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="422412" href="https://electrek.co/2025/06/26/rad-powers-radster-trail-and-road-e-bikes-ecoflow-more/#more-422412" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/rad-powers-radster-trail-and-road-e-bikes-ecoflow-more/>
+
+---
+
+## 'Exactly The Same': This 225,000-Mile Tesla Model 3 Is Just As Efficient As An 18,000-Mile Car
+
+date: 2025-06-26, from: Inside EVs News
+
+I'm starting to think that miles barely matter on an EV. 
+
+<br> 
+
+<https://insideevs.com/news/763989/model-3-range-degradation-200,000-miles/>
+
+---
+
+## Hyundai and Kia are cutting prices with nearly $17,000 in discounts in some markets
+
+date: 2025-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Hyundai-Kia-cut-prices.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Are the Korean auto giants facing slowing sales? <a href="https://electrek.co/guides/hyundai/">Hyundai</a> and Kia are offering generous incentives globally, resulting in price cuts worldwide. In some markets, discounts can reach nearly $17,000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,kia" data-layer-viewtype="unknown" data-post-id="422392" href="https://electrek.co/2025/06/26/hyundai-kia-cut-prices-with-17000-in-discounts/#more-422392" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/hyundai-kia-cut-prices-with-17000-in-discounts/>
+
+---
+
+## Want to drive 6,000 miles for just $160? You actually can. Here’s how
+
+date: 2025-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/two-ryvid-anthems.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I know, it sounds like clickbait math, but it’s real: you can cover 6,000 miles for just $160 in fuel. There’s a catch, though. It’s not gasoline. Oh, and it’s not even in a car. You’ll need to trade in your four wheels for two. Specifically, you’ll need something like the Ryvid Anthem, a lightweight, street-legal electric motorcycle that was purpose-built for efficient urban commuting.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle" data-layer-viewtype="unknown" data-post-id="422314" href="https://electrek.co/2025/06/26/want-to-drive-6000-miles-for-just-160-you-actually-can-heres-how/#more-422314" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/want-to-drive-6000-miles-for-just-160-you-actually-can-heres-how/>
+
+---
+
+## The Xiaomi YU7 Goes On Sale At $35,000, Undercuts Tesla Model Y
+
+date: 2025-06-26, from: Inside EVs News
+
+Xiaomi has accepted Elon Musk's challenge to try and dethrone Tesla in China. And this high-tech SUV is cheaper than a Model Y. 
+
+<br> 
+
+<https://insideevs.com/news/763984/apple-car-xiaomi-yu7-tesla/>
+
+---
+
+## June's Almost Over—So Where Is Tesla’s 'Critical' $30,000 EV?
+
+date: 2025-06-26, from: Inside EVs News
+
+Tesla needs affordable EVs to bankroll its AI ambitions. Unless there’s a surprise in the next four days, a delay seems more likely.
+ 
+
+<br> 
+
+<https://insideevs.com/news/763971/tesla-affordable-ev-june-launch/>
+
+---
+
+## Lucid’s (LCID) midsize EV platform is coming next year, bringing three $50,000 ‘top hats’
+
+date: 2025-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Lucid-midsize-three.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As <a href="https://electrek.co/guides/lucid-motors/">Lucid</a> (LCID) ramps up production of its first electric SUV, the Gravity, the EV maker has several new lower-priced models in the works. Lucid confirmed its midsize platform is coming next year, which will spawn at least three new EVs priced at around $50,000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-mid-size,lucid-motors" data-layer-viewtype="unknown" data-post-id="422377" href="https://electrek.co/2025/06/26/lucids-lcid-50k-midsize-ev-platform-will-spawn-three-top-hats/#more-422377" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/lucids-lcid-50k-midsize-ev-platform-will-spawn-three-top-hats/>
+
+---
+
+## 'Downright Unsafe': Austin Man Takes a Tesla Robotaxi Ride. Here's What To Know Before Hailing One Yourself
+
+date: 2025-06-26, from: Inside EVs News
+
+"I'd be terrified." 
+
+<br> 
+
+<https://insideevs.com/news/763873/tesla-robotaxi-safe-fog-rain/>
+
+---
+
+## Xiaomi YU7 first drive: a $35,000 Ferrari-looking electric SUV with over 400 miles of real range
+
+date: 2025-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Xiaomi-YU7-Max-Electrek-Hero.png?w=1600" /></div><p>I had the chance to test drive the Xiaomi YU7 ahead of its launch today in China, and I came out of the entire experience both impressed and frustrated.</p>
+
+
+
+<p>Let me try to explain why, and also why Western automakers are scared of these new Chinese EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="xiaomi,xiaomi-yu7" data-layer-viewtype="unknown" data-post-id="422086" href="https://electrek.co/2025/06/26/xiaomi-yu7-first-drive-electric-ferrari-suv-tech/#more-422086" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/xiaomi-yu7-first-drive-electric-ferrari-suv-tech/>
+
+---
+
+## A Xiaomi SU7 Ultra Prototype Just Annihilated Its Own Nurburgring Record
+
+date: 2025-06-26, from: Inside EVs News
+
+The SU7 Ultra Prototype just pulled off an unfathomable lap time, and the production one gets a special edition to celebrate. 
+
+<br> 
+
+<https://insideevs.com/news/763959/xiaomi-su7-prototype-ring-record-broken/>
 
 ---
 
@@ -225,11 +478,11 @@ $1 per minute adds up fast.
 
 ---
 
-## Anker launches new SOLIX F3000 power station with up to $1,850 savings, Bluetti takes up to 50% off units + exclusive savings, more
+## Anker launches new SOLIX F3000 power station with up to $2,049 savings, Bluetti takes up to 50% off units + exclusive savings, more
 
 date: 2025-06-25, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Anker-SOLIX-F3000-Portable-Power-Station-1-e1750871694276.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Headlining today’s Green Deals is <a href="https://9to5toys.com/2025/06/25/anker-launches-solix-f3000-station-from-1699/">Anker’s new SOLIX F3000 Portable Power Station</a> that is launching with up to $1,850 in possible savings across various packages <a href="https://9to5toys.com/2025/06/25/anker-launches-solix-f3000-station-from-1699/">starting from $1,699</a>. Right behind it, there’s <a href="https://9to5toys.com/2025/06/24/bluetti-early-prime-day-sale-from-239/">Bluetti’s early Prime Day Sale</a> that includes an exclusive bonus 5% savings for our readers, which has models like the <a href="https://9to5toys.com/2025/06/24/bluetti-early-prime-day-sale-from-239/">Elite 200 V2 Portable Power Station</a> dropping to a <a href="https://9to5toys.com/2025/06/24/bluetti-early-prime-day-sale-from-239/">new $854 low</a>, among others. There’s also <a href="https://9to5toys.com/2025/06/25/heybike-cityrun-e-bike-1099-4th-of-july-sale/">Heybike’s 4th of July Sale</a> with up to $600 taken off e-bikes and up to $198 in free accompanying gear <a href="https://9to5toys.com/2025/06/25/heybike-cityrun-e-bike-1099-4th-of-july-sale/">starting from $999</a>. Among our tool deals today, you’ll find <a href="https://9to5toys.com/2025/06/24/ego-56v-3200-psi-cordless-pressure-washer-699-low/">EGO’s 56V 3,200 PSI Cordless Electric Pressure Washer</a> bundle with two 6.0Ah batteries back at its <a href="https://9to5toys.com/2025/06/24/ego-56v-3200-psi-cordless-pressure-washer-699-low/">$699 low</a>, as well as the <a href="https://9to5toys.com/2025/06/25/greenworks-40v-trimmer-edger-blower-kit-new-150-low/">Greenworks 40V Combo Kit</a> that gives you a 13-inch Cordless String Trimmer/Edger, a 350 CFM Leaf Blower, three spools of replacement line, and a 2.0Ah battery at a <a href="https://9to5toys.com/2025/06/25/greenworks-40v-trimmer-edger-blower-kit-new-150-low/">new $150 low</a>. Plus, there’s all the rest of the hangover Green Deals in the links at the bottom of the page, like yesterday’s early Prime Day Sales from <a href="https://9to5toys.com/2025/06/23/jackery-early-prime-day-sale-from-89/">Jackery</a> and <a href="https://9to5toys.com/2025/06/24/anker-solix-early-prime-day-flash-sales-369-more/">Anker SOLIX</a>, and more. </p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Anker-SOLIX-F3000-Portable-Power-Station-1-e1750871694276.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Headlining today’s Green Deals is <a href="https://9to5toys.com/2025/06/25/anker-launches-solix-f3000-station-from-1699/">Anker’s new SOLIX F3000 Portable Power Station</a> that is launching with up to $2,049 in possible savings across various packages <a href="https://9to5toys.com/2025/06/25/anker-launches-solix-f3000-station-from-1699/">starting from $1,699</a>. Right behind it, there’s <a href="https://9to5toys.com/2025/06/24/bluetti-early-prime-day-sale-from-239/">Bluetti’s early Prime Day Sale</a> that includes an exclusive bonus 5% savings for our readers, which has models like the <a href="https://9to5toys.com/2025/06/24/bluetti-early-prime-day-sale-from-239/">Elite 200 V2 Portable Power Station</a> dropping to a <a href="https://9to5toys.com/2025/06/24/bluetti-early-prime-day-sale-from-239/">new $854 low</a>, among others. There’s also <a href="https://9to5toys.com/2025/06/25/heybike-cityrun-e-bike-1099-4th-of-july-sale/">Heybike’s 4th of July Sale</a> with up to $600 taken off e-bikes and up to $198 in free accompanying gear <a href="https://9to5toys.com/2025/06/25/heybike-cityrun-e-bike-1099-4th-of-july-sale/">starting from $999</a>. Among our tool deals today, you’ll find <a href="https://9to5toys.com/2025/06/24/ego-56v-3200-psi-cordless-pressure-washer-699-low/">EGO’s 56V 3,200 PSI Cordless Electric Pressure Washer</a> bundle with two 6.0Ah batteries back at its <a href="https://9to5toys.com/2025/06/24/ego-56v-3200-psi-cordless-pressure-washer-699-low/">$699 low</a>, as well as the <a href="https://9to5toys.com/2025/06/25/greenworks-40v-trimmer-edger-blower-kit-new-150-low/">Greenworks 40V Combo Kit</a> that gives you a 13-inch Cordless String Trimmer/Edger, a 350 CFM Leaf Blower, three spools of replacement line, and a 2.0Ah battery at a <a href="https://9to5toys.com/2025/06/25/greenworks-40v-trimmer-edger-blower-kit-new-150-low/">new $150 low</a>. Plus, there’s all the rest of the hangover Green Deals in the links at the bottom of the page, like yesterday’s early Prime Day Sales from <a href="https://9to5toys.com/2025/06/23/jackery-early-prime-day-sale-from-89/">Jackery</a> and <a href="https://9to5toys.com/2025/06/24/anker-solix-early-prime-day-flash-sales-369-more/">Anker SOLIX</a>, and more.</p>
 
 
 
@@ -653,7 +906,7 @@ date: 2025-06-24, from: Electrek Feed
 
 ---
 
-## Republicans keep wasting money: they want to scrap USPS’ new EVs (updated)
+## Republicans can’t stop wasting money: they want to scrap USPS’ awesome EVs
 
 date: 2025-06-24, from: Electrek Feed
 

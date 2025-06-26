@@ -1,11 +1,60 @@
 ---
 title: motorcycles
-updated: 2025-06-26 06:08:11
+updated: 2025-06-26 14:07:34
 ---
 
 # motorcycles
 
-(date: 2025-06-26 06:08:11)
+(date: 2025-06-26 14:07:34)
+
+---
+
+## 2025 ARCA West at Bakersfield II: Team Reactions and Analysis
+
+date: 2025-06-26, from: Kickin the Tires blog
+
+The fifth race of the 2025 ARCA Menards West Series season took place at Kevin Harvick&#8217;s Kern Raceway in Bakersfield, CA. The NAPA Auto Parts 150 was won by championship&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/grassroots/2025-arca-west-at-bakersfield-ii-team-reactions-and-analysis/>
+
+---
+
+## Construction Underway for Upcoming MLB Speedway Classic at Bristol Motor Speedway
+
+date: 2025-06-26, from: Kickin the Tires blog
+
+BRISTOL, Tenn. (June 24, 2025) – Executives from all of the constituents who are coming together during the next month to build the baseball field inside Bristol Motor Speedway for&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/construction-underway-for-upcoming-mlb-speedway-classic-at-bristol-motor-speedway/>
+
+---
+
+## Nolan’s X-804 RS Ultra Carbon Iannone Replica Is Equal Parts Fire And Function
+
+date: 2025-06-26, from: Ride Apart, Electric Motorcycle News
+
+Stylistically, it’s meant to symbolize Iannone’s resilience as a racer. Beneath the surface, it’s top-level kit. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/763743/nolan-x804rs-ultra-carbon-iannone-replica/>
+
+---
+
+## Polaris Patents On-the-Fly Adjustable Shocks, It's Controlled From the Steering Wheel
+
+date: 2025-06-26, from: Ride Apart, Electric Motorcycle News
+
+The world at your fingertips.  
+
+<br> 
+
+<https://www.rideapart.com/news/763876/polaris-rzr-adjustable-shocks-on-the-fly-steernig-wheel-patent/>
 
 ---
 
@@ -107,7 +156,7 @@ It's unlikely you'll listen to something like this ever again.
 
 ---
 
-## Senate Excludes Public Land Sales From Budget, New Lee Proposal Put's It Back In
+## Senate Excludes Public Land Sales From Budget, New Lee Proposal Puts It Back In
 
 date: 2025-06-25, from: Ride Apart, Electric Motorcycle News
 

@@ -1,11 +1,123 @@
 ---
 title: food
-updated: 2025-06-26 06:08:13
+updated: 2025-06-26 14:07:36
 ---
 
 # food
 
-(date: 2025-06-26 06:08:13)
+(date: 2025-06-26 14:07:36)
+
+---
+
+## Best Muffin Pans for Muffins, Cupcakes, and More (2025)
+
+date: 2025-06-26, from: Bon Appetet
+
+Golden muffins, every time. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-muffin-pans>
+
+---
+
+## The Best Cheese Graters For Shredding & Zesting (2025)
+
+date: 2025-06-26, from: Bon Appetet
+
+Grating cheese doesn’t have to be a chore. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-cheese-graters>
+
+---
+
+## The Lil McDonald’s Happy Meal Has to Be the Cutest Collection Since Teenie Beanies
+
+date: 2025-06-26, from: Taste of Home
+
+<p>It's time to play like we're kids again.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/lil-mcdonalds-happy-meal/">The Lil McDonald&#8217;s Happy Meal Has to Be the Cutest Collection Since Teenie Beanies</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/lil-mcdonalds-happy-meal/>
+
+---
+
+## Basil Pesto
+
+date: 2025-06-26, from: Bon Appetet
+
+The most vibrant pesto isn’t just about the ingredients; it’s also about the order in which you blend them. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/homemade-basil-pesto>
+
+---
+
+## Typhoon Roasters Goes Fully Electric: A Smarter, Greener Future For Coffee Roasting
+
+date: 2025-06-26, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The European roaster manufacturer has switched fully to electric. 
+
+<br> 
+
+<https://sprudge.com/typhoon-roasters-goes-fully-electric-a-smarter-greener-future-for-coffee-roasting-360893.html>
+
+---
+
+## It’s Summerween! 8 Places to Shop Early for Spooky Season
+
+date: 2025-06-26, from: Taste of Home
+
+<p>Spooky season starts now! Shop the best early Halloween drops to get a head start on your haunted holiday prep.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/summerween-2025/">It&#8217;s Summerween! 8 Places to Shop Early for Spooky Season</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/summerween-2025/>
+
+---
+
+## Belgium’s Koppie Joins the Growing Coffee Substitute Crowd
+
+date: 2025-06-26, from: Daily Coffee News
+
+<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/KOPPIE_CLOUDS-108-1-620x418.jpg" class="attachment-large size-large wp-post-image" alt="KOPPIE_CLOUDS-108" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/KOPPIE_CLOUDS-108-1-620x418.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/KOPPIE_CLOUDS-108-1-300x202.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/KOPPIE_CLOUDS-108-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/KOPPIE_CLOUDS-108-1-768x517.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/KOPPIE_CLOUDS-108-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A Belgian startup called Koppie is joining the growing coffee substitute movement, developing a proprietary fermented legume-based ingredient that can be roasted, ground and brewed like coffee. Koppie just closed... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/26/belgiums-koppie-joins-the-growing-coffee-substitute-crowd/>
+
+---
+
+## Build-Outs Of Coffee: Hub Coffee Roasters In Reno, NV
+
+date: 2025-06-26, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Hub Coffee Roasters in Reno, Nevada. 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-hub-coffee-roasters-in-reno-nv-338985.html>
+
+---
+
+## New York’s Iconic Chrysler Building Now Houses a WatchHouse
+
+date: 2025-06-26, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/WatchHouse-Coffee-Chrysler-Building-New-York-bar-620x414.jpg" class="attachment-large size-large wp-post-image" alt="WatchHouse Coffee Chrysler Building New York bar" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/WatchHouse-Coffee-Chrysler-Building-New-York-bar-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/WatchHouse-Coffee-Chrysler-Building-New-York-bar-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/WatchHouse-Coffee-Chrysler-Building-New-York-bar-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/WatchHouse-Coffee-Chrysler-Building-New-York-bar-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/WatchHouse-Coffee-Chrysler-Building-New-York-bar.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The Chrysler Building in New York City, once the world&#8217;s tallest building and an enduring example of Art Deco, is now home to the second United States location of... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/26/new-yorks-iconic-chrysler-building-now-houses-a-watchhouse/>
 
 ---
 
@@ -41,7 +153,7 @@ date: 2025-06-26, from: Closet Cooking
 
 date: 2025-06-25, from: Bon Appetet
 
-Like miso-grilled potatoes, Sprite-marinated pork skewers, S’mores sandwich cookies, and more campfire goodies. 
+Like miso-grilled potatoes, Sprite-marinated pork skewers, s’mores sandwich cookies, and more campfire goodies. 
 
 <br> 
 
@@ -131,7 +243,7 @@ date: 2025-06-25, from: Taste of Home
 
 date: 2025-06-25, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-620x414.jpg" class="attachment-large size-large wp-post-image" alt="02_Canal Cafe_Photo by Iwan Baan" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-620x414.jpg" class="attachment-large size-large wp-post-image" alt="02_Canal Cafe_Photo by Iwan Baan" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
 
 <br> 
 
@@ -143,7 +255,7 @@ date: 2025-06-25, from: Daily Coffee News
 
 date: 2025-06-25, from: Daily Coffee News
 
-<div><img width="620" height="470" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Cielo-Coffee-Roasters-Penrose-bags-1-620x470.jpg" class="attachment-large size-large wp-post-image" alt="Cielo Coffee Roasters Penrose bags" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Cielo-Coffee-Roasters-Penrose-bags-1-620x470.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Cielo-Coffee-Roasters-Penrose-bags-1-300x228.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Cielo-Coffee-Roasters-Penrose-bags-1-150x114.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Cielo-Coffee-Roasters-Penrose-bags-1.jpg 720w" sizes="(max-width: 620px) 100vw, 620px" /></div>The clouds have parted and the runway is clear for a new boutique coffee roaster outside Kansas City, Missouri, called Cielo Coffee Roasters. Led by Kyle Evans, who has held... 
+<div><img width="620" height="470" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Cielo-Coffee-Roasters-Penrose-bags-1-620x470.jpg" class="attachment-large size-large wp-post-image" alt="Cielo Coffee Roasters Penrose bags" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Cielo-Coffee-Roasters-Penrose-bags-1-620x470.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Cielo-Coffee-Roasters-Penrose-bags-1-300x228.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Cielo-Coffee-Roasters-Penrose-bags-1-150x114.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Cielo-Coffee-Roasters-Penrose-bags-1.jpg 720w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The clouds have parted and the runway is clear for a new boutique coffee roaster outside Kansas City, Missouri, called Cielo Coffee Roasters. Led by Kyle Evans, who has held... 
 
 <br> 
 
@@ -155,7 +267,7 @@ date: 2025-06-25, from: Daily Coffee News
 
 date: 2025-06-25, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/nustory-sacks-620x465.jpg" class="attachment-large size-large wp-post-image" alt="nustory-sacks" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/nustory-sacks-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/nustory-sacks-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/nustory-sacks-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/nustory-sacks-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/nustory-sacks.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A coffee roasting company based in southwestern Missouri called NūStory Coffee recently launched with a distinct focus on high-quality coffees from Guatemala. Based just south of Springfield in Nixa,... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/nustory-sacks-620x465.jpg" class="attachment-large size-large wp-post-image" alt="nustory-sacks" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/nustory-sacks-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/nustory-sacks-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/nustory-sacks-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/nustory-sacks-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/nustory-sacks.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; A coffee roasting company based in southwestern Missouri called NūStory Coffee recently launched with a distinct focus on high-quality coffees from Guatemala. Based just south of Springfield in Nixa,... 
 
 <br> 
 

@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-06-26 06:08:09
+updated: 2025-06-26 14:07:32
 ---
 
 # games
 
-(date: 2025-06-26 06:08:09)
+(date: 2025-06-26 14:07:32)
+
+---
+
+## 20 beginner’s tips to know before playing Death Stranding 2 
+
+date: 2025-06-26, updated: 2025-06-26, from: Polygon Website
+
+Whether you’re new to the post-apocalyptic world of beaches and BTs or you’ve already connected a country as Sam Porter Bridges, Death Stranding 2: On the Beach isn’t like Those Other Games.&#160; Much like its predecessor, Death Stranding 2 is a largely singular, not-exactly-frictionless experience, from the social tools that allow you to interact and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/609317/death-stranding-2-beginners-tips-tricks>
+
+---
+
+## Where to find the Inventor in Death Stranding 2
+
+date: 2025-06-26, updated: 2025-06-26, from: Polygon Website
+
+An isolated man known as the Inventor offers some of the best upgrades for Sam in Death Stranding 2: On The Beach, but you’ll have to find him first. The Inventor is located on an island on the far North side of the Australia Map. You gain access to it at the start of Chapter [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/609184/death-stranding-2-ds2-where-to-find-inventor-location>
+
+---
+
+## Watch the new Capcom Spotlight for a closer look at Resident Evil 9, Pragmata, and more
+
+date: 2025-06-26, updated: 2025-06-26, from: Polygon Website
+
+Capcom’s latest games showcase, Capcom Spotlight, will stream on Thursday, June 26. Scheduled to last roughly 40 minutes, the live-streamed event will be showing off upcoming games like Pragmata, and Resident Evil Requiem, along with updates for pre-existing titles like Monster Hunter Wilds and Street Fighter 6.  The Capcom Spotlight showcase begins at 6 p.m. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/607978/capcom-spotlight-june-26-pragmata-resident-evil-9-monster-hunter-wilds>
+
+---
+
+## Persona 5 The Phantom X classroom answers and questions
+
+date: 2025-06-26, updated: 2025-06-26, from: Polygon Website
+
+Classroom questions and answers are back in Persona 5: The Phantom X and they’re as hard as ever. While you’re at school, you’ll occasionally need to answer a few questions that can be particularly difficult if you haven’t been reading all of the dialogue or if you haven’t been paying attention. Some questions will have [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/609183/persona-5-phantom-x-p5x-classroom-answers-questions>
+
+---
+
+## Where to find the Artist in Death Stranding 2
+
+date: 2025-06-26, updated: 2025-06-26, from: Polygon Website
+
+Finding the Artist, Lauren Tsai, in Death Stranding 2: On the Beach is technically optional. However, if you want to give Sam more color options that aren&#8217;t just drab gray, it&#8217;s worth tracking her down. You can start the process early in Death Stranding 2, and you don&#8217;t even need a side quest to do [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/609257/death-stranding-2-ds2-artist-location-rewards-color-data>
+
+---
+
+## Karlach’s fiery voice actor is taking on the role of an aquatic shapeshifter
+
+date: 2025-06-26, updated: 2025-06-26, from: Polygon Website
+
+Samantha Béart is perhaps best known for voicing Karlach in Baldur’s Gate 3 — a performance that won her critical acclaim and a BAFTA nomination. But some of her upcoming roles are a far cry from the fiery tiefling that captured the hearts of so many Baldur’s Gate 3 players. In fact, her next role [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/609306/bg3-karlach-voice-actor-aquatic-shape-shifter-fading-echo>
+
+---
+
+## The Poop Cruise has exploded onto the Netflix charts
+
+date: 2025-06-26, updated: 2025-06-26, from: Polygon Website
+
+A new entry in Netflix’s Trainwreck series of documentaries must have been a difficult one to hold in: Trainwreck: Poop Cruise takes a 55-minute look back at an infamous Carnival cruise ship disaster from early 2013, when thousands of passengers were stranded at sea for days in a largely electricity-free vessel. Tensions ran high, as [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/609337/poop-cruise-netflix-review>
+
+---
+
+## Where to find the stolen record collection in Death Stranding 2
+
+date: 2025-06-26, updated: 2025-06-26, from: Polygon Website
+
+As you expand the Chiral Network in Australia in Death Stranding 2, you’ll meet the Musician, who asks you to recover the stolen record collection. While this sub order doesn’t take long to complete, locating the records can be tricky. Doing so, however, will raise your Connection Rank with the Musician,. Below, you find a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/609244/death-stranding-2-stolen-record-collection-location-where-to-find>
+
+---
+
+## J-pop icon LiSA talks crafting perfect anime theme songs and one that’s stuck with her
+
+date: 2025-06-26, updated: 2025-06-26, from: Polygon Website
+
+This week, a giant screen in the lobby of Sony’s headquarters glowed with the image of J-pop rock icon LiSA to celebrate her first-ever tour stop in New York City. The mega-star beamed even brighter when we met in person days after the show.  Over the past decade, LiSA has carved out a powerful legacy [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/609089/j-pop-icon-lisa-talks-crafting-perfect-anime-theme-songs-and-one-thats-stuck-with-her>
+
+---
+
+## Zacian counters, weakness, and best moveset in Pokémon Go
+
+date: 2025-06-26, updated: 2025-06-26, from: Polygon Website
+
+Zacian, the Legendary wolf from the Galar region, debuted in Pokémon Go in August 2021 in its Hero of Many Battles form. As part of Pokémon Go Fest 2025, players will be able to raid against its Crowned Sword form, earning Crowned Sword Energy to get their own beefier sword dog. Like fellow Sword and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/485702/zacian-counters-weakness-best-moveset>
 
 ---
 

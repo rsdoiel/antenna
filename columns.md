@@ -1,11 +1,257 @@
 ---
 title: columns
-updated: 2025-06-26 06:08:07
+updated: 2025-06-26 14:07:31
 ---
 
 # columns
 
-(date: 2025-06-26 06:08:07)
+(date: 2025-06-26 14:07:31)
+
+---
+
+## June 25, 2025
+
+date: 2025-06-26, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166927193/3b43aeca9d982c74cc9461146492740d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166927193/3b43aeca9d982c74cc9461146492740d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-25-2025-e2e>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-26, from: Dave Winer's Scripting News)
+
+<a href="https://paulkrugman.substack.com/p/mamdani-and-the-moguls-of-madness">Krugman</a> doesn’t understand what’s coming for NYC. And doesn’t understand the leadership <a href="http://scripting.com/2020/07/01/152316.html?title=whatWouldCuomoDo">Cuomo</a> uniquely provided at the height of Covid. It’s pretty likely what’s <a href="https://www.bbc.com/news/articles/cvg430dx702o">starting</a> in NYC will be worse than Covid or 9-11. Funny thing is Krugman <i>did</i> get it, a few weeks ago when the crisis in Los Angeles was peaking. He wrote a <a href="https://paulkrugman.substack.com/p/this-is-not-a-drill">piece</a> that was terrified, and realistic. The National Guard had been nationalized. Marines were invading California. But now that Calif hasn't been in the news, it's easy to swing back. I bet if the election had happened during the worst of it, Cuomo would've won. 
+
+<br> 
+
+<http://scripting.com/2025/06/26.html#a203012>
+
+---
+
+##  Stupid-Americans feel about Trump the way Irish-Americans felt about JFK in 1960.... 
+
+date: 2025-06-26, updated: 2025-06-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047031-stupid-americans-feel-abo>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-26, from: Dave Winer's Scripting News)
+
+I, like a lot of other people, assumed that Americans would be terrible at authoritarianism. Shows we have a lot to learn. Americans are pretty good at it it turns out. 
+
+<br> 
+
+<http://scripting.com/2025/06/26.html#a202714>
+
+---
+
+## Apple Wallet Sends Push Notification Ad Pushing ‘F1 The Movie’
+
+date: 2025-06-26, updated: 2025-06-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://techcrunch.com/2025/06/24/iphone-customers-upset-by-apple-wallet-ad-pushing-f1-movie/>
+
+---
+
+##  Whoa, Anna Wintour is stepping down as Vogue&#8217;s editor-in-chief, a post she... 
+
+date: 2025-06-26, updated: 2025-06-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047036-whoa-anna-wintour-is-step>
+
+---
+
+##  Hope Is a Risk 
+
+date: 2025-06-26, updated: 2025-06-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/hope-is-a-risk>
+
+---
+
+## What if Microsoft just turned you off? Security pro counts the cost of dependency
+
+date: 2025-06-26, updated: 2025-06-26, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Comment</span> Czech researcher lays out a business case for reducing reliance on Redmond</h4>
+      <p>A sharply argued blog post warns that heavy reliance on Microsoft poses serious strategic risks for organizations – a viewpoint unlikely to win favor with Redmond or its millions of corporate customers.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/26/cost_of_microsoft_dependency/>
+
+---
+
+##  &#8220;Denis Villeneuve is set to direct the next James Bond film for... 
+
+date: 2025-06-26, updated: 2025-06-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047035-denis-villeneuve-is-set-t>
+
+---
+
+## Thursday, 26 June 2025
+
+date: 2025-06-26, from: Doc Searls (at Harvard), New Old Blog
+
+A history lesson. A neighbor who works in tech asked me what my new outdoor TV antenna was for. I told him it was for watching TV stations, mostly from Indianapolis, where the transmitters are about 60 miles away. &#34;Don&#39;t you have cable?&#34; he asked. I said no, we only have Internet service, which for [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/06/26/thursday-26-june-2025/>
+
+---
+
+##  How Field Notes Went From Side Project to Cult Notebook. &#8220;One by... 
+
+date: 2025-06-26, updated: 2025-06-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047010-how-field-notes-went-from>
+
+---
+
+##  Rick Rubin collaborated with Anthropic to create The Way of Code: The... 
+
+date: 2025-06-26, updated: 2025-06-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047023-inspired-by-laozis-dao-de>
+
+---
+
+## Exif marks the spot as fresh version of PNG image standard arrives
+
+date: 2025-06-26, updated: 2025-06-26, from: Liam Proven's articles at the Register
+
+<h4>22 years on from the last spec, you can now animate your PNGs</h4>
+      <p>The free graphics format that people actually know how to pronounce has been updated.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/26/new_version_of_png/>
+
+---
+
+##  This Sahara Railway Is One of the Most Extreme in the World 
+
+date: 2025-06-26, updated: 2025-06-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/this-sahara-railway-is-one-of-the-most-extreme-in-the-world>
+
+---
+
+##  The Weird Zombie Existence of the Family Circus. The long-running comic is... 
+
+date: 2025-06-26, updated: 2025-06-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047011-the-weird-zombie-existenc>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-26, from: Dave Winer's Scripting News)
+
+Masked <a href="https://www.nytimes.com/2025/06/25/opinion/trump-ice-arrests-los-angeles.html?unlocked_article_code=1.R08.JL5Y.t6czzQYX_BhK&smid=url-share">secret police</a> is pure terrorism. We should ask NYPD what we have to do to protect ourselves from them, and then do it. 
+
+<br> 
+
+<http://scripting.com/2025/06/26.html#a145727>
+
+---
+
+## Productivity traps I fall into regularly
+
+date: 2025-06-26, from: Dave Rupert blog
+
+<p>There’s some productivity traps I fall into on a regular basis. They all tie into my personal flavor of ADHD but it’s not totally fair to blame the ol’ meat-wad brain when I know when, where, and why it happens.</p>
+<ol>
+<li>There’s a Big Thing to do, so I can’t do anything else</li>
+<li>Boredom in meetings leads internet wanderings</li>
+<li>I should blog this real quick turns into work avoidance</li>
+</ol>
+<h2>The Big Thing…</h2>
+<p>One of my ADHD quirks is that if there’s a Big Thing to do that day (doctor’s appointment, package delivery, big presentation) then 100% of my brain goes to that important event. I can’t miss it. Nothing else gets done until The Big Thing gets done.</p>
+<p>Conversely, after The Big Thing gets done, nothing else gets done either because my brain –flooded with dopamine– feels an enormous sense of accomplishment for remembering to do The Big Thing. I did The Big Thing. The Big Thing is done. Mission accomplished.</p>
+<p>Completing that big task should free up new brain RAM allocation for the next task… but it doesn’t work that way. I spent so much energy keeping the horses in the barn, my brain won’t even consider letting them out again until much later in the evening. Hands numb from sitting on them try to grab a new task from the shelf, but can’t.</p>
+<p>If anyone deals with this and knows how to either a) make The Big Thing less blocking or b) perform a tactial reset after The Big Thing, I’d love to know.</p>
+<h2>Boredom in meetings…</h2>
+<p>I have a bad habit where I get dopamine starved in a meeting and I naturally hop over to YouTube and start queuing up interesting videos. This regrettably creates a backlog of open tabs for me to clear out when I’m out of the meeting. This isn’t good. It’s so bad because I’ll even look for other videos to watch <em>while I’m watching a video</em>. Why do I do this to myself?</p>
+<p>I need to reprogram my brain to smell boredom and find dopamine another –more temporary– way. I used to speed cube during meetings, that was probably my most successful era of doing meetings. I should try and go back to that. Or 3D print a bunch of fidgets. I bought a big drawing pad at Five Below and put it next to my desk and have had a little success sketching during meetings, but YouTube and social media are so damn convenient.</p>
+<p>It’s not just video, it happens with blog posts too. One social media link. Links to another link. Links to another. Now I have 5,000 tabs. Oof.</p>
+<p><a href="https://daverupert.com/2025/01/raycast-focus/">Focus</a> tools to block social media sites has been effective, but any other strategies I need to know about?</p>
+<h2>Blog this real quick…</h2>
+<p>If I ever think about something too much and it’s blogpost-worthy content, I try to fire up a draft to get the idea out of my head. If I can create a rough outline in my second brain now, I can come back to it later… but it’s a worm hole.</p>
+<p>While the intent is to capture the idea, I naturally switch into writing mode trying to fill out sentences and shape paragraphs. I think it’s dopamine starvation again. When I’m writing in my note taking app, I’m in a fun place where I’m a high functioning adult and the desire to go back to trudging through thousands of lines of JSON is low in comparison.</p>
+<p>Of all these productivity traps, writing a blog post is the least offensive to me. Writing ideas helps cement knowledge and that’s a good thing for a knowledge worker. It also keeps a skill I use at work (writing) sharp. But when it’s a form of escapism from what I actually need to do, I need to find efficient ways to curb that behavior. Time-boxing seems like a good idea here.</p>
+<h2>Here be dragons</h2>
+<p>I’m sharing these traps in the hope that I become more cognizant and accountable to myself. I can almost see myself falling down these traps in a third-person over camera angle. “The Big Thing” probably gets me the most often, I’d love to overcome it.</p>
+<p>I’m curious about other brains. Have you found other traps I need to know about? Do you embrace the chaos and let the day fall apart? Do you have systems built up to self-correct?</p> 
+
+<br> 
+
+<https://daverupert.com/2025/06/productivity-traps/>
+
+---
+
+##  Pathfinder: find and explore the relationships between two concepts.... 
+
+date: 2025-06-26, updated: 2025-06-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047019-pathfinder-find-and-explo>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-26, from: Dave Winer's Scripting News)
+
+WordLand <a href="https://this.how/wordland/versions.opml#1750945787000">v0.5.15</a> is out. 
+
+<br> 
+
+<http://scripting.com/2025/06/26.html#a140920>
 
 ---
 
@@ -134,6 +380,18 @@ date: 2025-06-26, updated: 2025-06-26, from: Daring Fireball
 <br> 
 
 <https://deadline.com/2025/06/denis-villeneuve-james-bond-amazon-mgm-studios-1236442917/>
+
+---
+
+## New zine: The Secret Rules of the Terminal
+
+date: 2025-06-26, updated: 2025-06-26, from: Julia Evans blog
+
+ 
+
+<br> 
+
+<https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/>
 
 ---
 
@@ -399,7 +657,9 @@ date: 2025-06-25, from: Dave Rupert blog
 <span class="nt">&lt;/h1&gt;</span>
 </code></pre></div></div>
 <p>Templating languages can help. Here’s what I do in my Liquid templates for Jekyll:</p>
-<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="ruby"><span class="o">&lt;</span><span class="n">h1</span> <span class="n">data</span><span class="o">-</span><span class="n">numchars</span><span class="o">=</span><span class="s2">""</span><span class="o">&gt;&lt;</span><span class="sr">/h1&gt;
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="ruby">
+<span class="o">&lt;</span><span class="n">h1</span> <span class="n">data</span><span class="o">-</span><span class="n">numchars</span><span class="o">=</span><span class="s2">"{{ title.size }}"</span><span class="o">&gt;</span><span class="p">{{</span> <span class="n">title</span> <span class="p">}}</span><span class="o">&lt;</span><span class="sr">/h1&gt;
+
 </span></code></pre></div></div>
 <p>If you don’t have access to your template but somehow have access to JavaScript, you can do something this:</p>
 <div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="js"><span class="nb">document</span><span class="p">.</span><span class="nf">querySelectorAll</span><span class="p">(</span><span class="dl">'</span><span class="s1">h1</span><span class="dl">'</span><span class="p">).</span><span class="nf">forEach</span><span class="p">(</span><span class="nx">el</span> <span class="o">=&gt;</span> 

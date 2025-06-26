@@ -1,11 +1,251 @@
 ---
 title: science and technology
-updated: 2025-06-26 06:08:06
+updated: 2025-06-26 14:07:30
 ---
 
 # science and technology
 
-(date: 2025-06-26 06:08:06)
+(date: 2025-06-26 14:07:30)
+
+---
+
+## Snow, a new classic Macintosh emulator
+
+date: 2025-06-26, from: OS News
+
+The world isn&#8217;t short of classic Macintosh emulators, but one more certainly cannot hurt. Snow emulates classic (Motorola 680&#215;0-based) Macintosh computers. It features a graphical user interface to operate the emulated machine and provides extensive debugging capabilities. The aim of this project is to emulate the Macintosh on a hardware-level as much as possible, as opposed to emulators that patch the ROM or intercept system calls. It currently emulates the Macintosh 128K, Macintosh 512K, Macintosh Plus, Macintosh SE, Macintosh Classic and Macintosh II. ↫ Snow&#8217;s homepage Snow is written in Rust and open source under the MIT license. 
+
+<br> 
+
+<https://www.osnews.com/story/142644/snow-a-new-classic-macintosh-emulator/>
+
+---
+
+## Microsoft is moving antivirus providers out of the Windows kernel
+
+date: 2025-06-26, from: OS News
+
+It’s been nearly a year since a faulty CrowdStrike update took down 8.5 million Windows-based machines around the world, and Microsoft wants to ensure such a problem never happens again. After holding a summit with security vendors last year, Microsoft is poised to release a private preview of Windows changes that will move antivirus (AV) and endpoint detection and response (EDR) apps out of the Windows kernel. ↫ Tom Warren at The Verge After the CrowdStrike incident, one of the first things Microsoft hinted as was moving antivirus and EDR applications out of the kernel, building an entirely new framework for these applications instead. The company has been working together with several large security vendors on these new frameworks and APIs, and it&#8217;s now finally ready to show off this new work to the outside world. Instead of designing the new frameworks and APIs in-house and just dumping them on the security vendors, Microsoft requested the security vendors send them detailed documentation on how they want the new frameworks and APIs to work. This first preview of the new implementation will be private, and will allow security vendors to request changes and additional features. Microsoft states it will take a few iterations before it&#8217;s ready for general availability, and on top of that, security software is only the first focus of this new effort. It turns out Microsoft wants to move more stuff out of the kernel, with anti-cheat software &#8211; more accurately described as rootkits, like Riot&#8217;s Vanguard &#8211; being an obvious next target. Perhaps this effort could have some beneficial side effects for gaming on Linux, which you should be doing anyway if you want better performance, because Windows games seem to perform better on Linux than they do on Windows. 
+
+<br> 
+
+<https://www.osnews.com/story/142647/microsoft-is-moving-antivirus-providers-out-of-the-windows-kernel/>
+
+---
+
+## PNG gets its first specification update in 20 years
+
+date: 2025-06-26, from: OS News
+
+Jokes aside, this is exciting news. PNG is back to its former glory after its progress stalled for over two decades. Did you know the U.S. Library of Congress, Library and Archives Canada, and the National Archives of Australia recommend PNG? It is important that we keep PNG current and competitive. After 20 years of stagnation, PNG is back with renewed vigor!  With these titans behind it, the image format is back with full momentum. Work has already begun on the next two PNG spec updates. ↫ Chris Blume The new PNG specification update adds proper HDR support, which is probably its most important new features. Chris Lilly, one of the original creators of PNG and actively involved in these new updates as well, has a detailed blog post diving into how HDR in PNG works. Other changes include officially adding Mozilla&#8217;s animated PNG implementation to PNG, support for EXIF data, and a ton of smaller changes and cleanups. 
+
+<br> 
+
+<https://www.osnews.com/story/142645/png-gets-its-first-specification-update-in-20-years/>
+
+---
+
+## Back in black: Microsoft Blue Screen of Death is going dark
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>At least the BSOD acronym will still work</h4> <p>The infamous Windows Blue Screen of Death (BSOD) will be replaced later this summer by a new black screen as part of Microsoft&#39;s Windows Resiliency Initiative (WRI).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/microsoft_bsod_goes_black/>
+
+---
+
+## I Am Artemis: Patrick Junen
+
+date: 2025-06-26, from: NASA breaking news
+
+For some people, a passion for space is something that might develop over time, but for Patrick Junen, the desire was there from the beginning. With a father and grandfather who both worked for NASA, space exploration is not just a dream; it remains a family legacy. Now, as the stage assembly and structures subsystem [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-patrick-junen/>
+
+---
+
+## FBI used bitcoin wallet records to peg notorious IntelBroker as UK national
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>Pro tip: Don&#39;t use your personal email account on BreachForums</h4> <p>The notorious data thief known as IntelBroker allegedly broke into computer systems belonging to more than 40 victims worldwide and stole their data, costing them at least $25 million in damages, according to newly unsealed court documents that also name IntelBroker as 25-year-old British national Kai West.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/fbi_used_bitcoin_wallet_id_intelbroker/>
+
+---
+
+## What if Microsoft just turned you off? Security pro counts the cost of dependency
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>Czech researcher lays out a business case for reducing reliance on Redmond</h4> <p><strong>Comment</strong>  A sharply argued blog post warns that heavy reliance on Microsoft poses serious strategic risks for organizations – a viewpoint unlikely to win favor with Redmond or its millions of corporate customers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/cost_of_microsoft_dependency/>
+
+---
+
+## Sparkling Andromeda
+
+date: 2025-06-26, from: NASA breaking news
+
+The Andromeda galaxy, also known as Messier 31 (M31), is a glittering beacon in this image released on June 25, 2025, in tribute to the groundbreaking legacy of astronomer Dr. Vera Rubin, whose observations transformed our understanding of the universe.&#160;In the 1960s, Rubin and her colleagues studied M31 and determined that there was some unseen [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/sparkling-andromeda/>
+
+---
+
+## Microsoft nuke power deal for Three Mile Island appears to be ahead of schedule
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>837 megawatt reactor now expected in 2027, energy CEO says</h4> <p>A revamped Three Mile Island nuclear plant could be fueling Microsoft&#39;s AI datacenters sooner than first thought, according to Constellation Energy executives.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/microsoft_tmi_nuclear/>
+
+---
+
+## Cisco fixes two critical make-me-root bugs on Identity Services Engine components
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>A 10.0 and a 9.8 – these aren’t patches to dwell on</h4> <p>Cisco has dropped patches for a pair of critical vulnerabilities that could allow unauthenticated remote attackers to execute code on vulnerable systems.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/patch_up_cisco_fixes_two/>
+
+---
+
+## Exif marks the spot as fresh version of PNG image standard arrives
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>22 years on from the last spec, you can now animate your PNGs</h4> <p>The free graphics format that people actually know how to pronounce has been updated.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/new_version_of_png/>
+
+---
+
+## By Air and by Sea: Validating NASA’s PACE Ocean Color Instrument
+
+date: 2025-06-26, from: NASA breaking news
+
+In autumn 2024, California’s Monterey Bay experienced an outsized phytoplankton bloom that attracted fish, dolphins, whales, seabirds, and – for a few weeks in October – scientists. A team from NASA’s Ames Research Center in Silicon Valley, with partners at the University of California, Santa Cruz (UCSC), and the Naval Postgraduate School, spent two weeks [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/ames/ames-science/by-air-and-by-sea-validating-nasas-pace-ocean-color-instrument/>
+
+---
+
+## NASA Mars Orbiter Learns New Moves After Nearly 20 Years in Space
+
+date: 2025-06-26, from: NASA breaking news
+
+The Mars Reconnaissance Orbiter is testing a series of large spacecraft rolls that will help it hunt for water. After nearly 20 years of operations, NASA’s Mars Reconnaissance Orbiter (MRO) is on a roll, performing a new maneuver to squeeze even more science out of the busy spacecraft as it circles the Red Planet. Engineers [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/mars-reconnaissance-orbiter/nasa-mars-orbiter-learns-new-moves-after-nearly-20-years-in-space/>
+
+---
+
+## NASA Citizen Scientists Find New Eclipsing Binary Stars
+
+date: 2025-06-26, from: NASA breaking news
+
+When two stars orbit one another in such a way that one blocks the other’s light each time it swings around, that’s an eclipsing binary. A new paper from NASA’s Eclipsing Binary Patrol citizen science project presents more than 10,000 of these rare pairs – 10,001 to be precise. These objects will help future researchers study […] 
+
+<br> 
+
+<https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-scientists-find-new-eclipsing-binary-stars/>
+
+---
+
+## Meet the Space Ops Team: Derrick Bailey
+
+date: 2025-06-26, from: NASA breaking news
+
+Since childhood, Derrick Bailey always had an early fascination with aeronautics. Military fighter jet pilots were his childhood heroes, and he dreamed of joining the aerospace industry. This passion was a springboard into his 17-year career at NASA, where Bailey plays an important role in enabling successful rocket launches. Bailey is the Launch Vehicle Certification [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-derrick-bailey/>
+
+---
+
+## The SmartNIC revolution fell flat, but AI might change that
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>The idea of handing off networking chores to DPUs persists even if it hasn&#39;t caught on beyond hyperscalers</h4> <p><strong>Analysis</strong>  In 2013, Amazon Web Services announced a new C3 instance type and made vague <a target="_blank" rel="nofollow" href="https://aws.amazon.com/blogs/aws/a-generation-of-ec2-instances-for-compute-intensive-workloads/">references</a> to what it described as &#34;enhanced networking&#34; enabled by an Intel Virtual Function interface.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/will_ai_save_dpus/>
+
+---
+
+## Gridlocked: AI's power needs could short-circuit US infrastructure
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>You are not prepared for 5 GW datacenters, Deloitte warns</h4> <p>Power required by AI datacenters in the US may be more than 30 times greater in a decade, with 5 GW facilities already in the pipeline..…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/us_datacenter_power_crunch/>
+
+---
+
+## NASA’s Webb Digs into Structural Origins of Disk Galaxies
+
+date: 2025-06-26, from: NASA breaking news
+
+Present-day disk galaxies often contain a thick, star-filled outer disk and an embedded thin disk of stars. For instance, our own Milky Way galaxy’s thick disk is approximately 3,000 light-years in height, and its thin disk is roughly 1,000 light-years thick. How and why does this dual disk structure form? By analyzing archival data from […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/webb/nasas-webb-digs-into-structural-origins-of-disk-galaxies/>
+
+---
+
+## How Does Graph Theory Shape Our World?
+
+date: 2025-06-26, from: Quanta Magazine
+
+Maria Chudnovsky reflects on her journey in graph theory, her groundbreaking solution to the long-standing perfect graph problem, and the unexpected ways this abstract field intersects with everyday life.            <p>The post <a href="https://www.quantamagazine.org/how-does-graph-theory-shape-our-world-20250626/" target="_blank">How Does Graph Theory Shape Our World?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-does-graph-theory-shape-our-world-20250626/>
+
+---
+
+## NICER science not so nice as ISS telescope pauses operations
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>Cosmic research on hold while engineers investigate a problematic motor</h4> <p>NASA&#39;s NICER X-ray telescope is pausing operations just weeks after the US space agency boasted that a January repair and reconfiguration had improved its daytime measurements.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/nicer_science_not_so_nice/>
 
 ---
 

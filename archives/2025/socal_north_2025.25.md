@@ -1,11 +1,153 @@
 ---
 title: socal north
-updated: 2025-06-26 06:08:04
+updated: 2025-06-26 14:07:27
 ---
 
 # socal north
 
-(date: 2025-06-26 06:08:04)
+(date: 2025-06-26 14:07:27)
+
+---
+
+## Federal judge orders Trump officials to be deposed after national troops deployment
+
+date: 2025-06-26, updated: 2025-06-26, from: The LAist
+
+U.S. District Judge Charles Breyer will allow California to question key Trump administration officials and seek details on how national troops have been used since their deployment earlier this month. 
+
+<br> 
+
+<https://laist.com/news/politics/federal-judge-orders-trump-officials-to-be-deposed-after-national-troops-deployment>
+
+---
+
+## Submission Period Open for Youth Grove at Central Park
+
+date: 2025-06-26, from: City of Santa Clarita
+
+<p>Release Forms Due July 11 for Inclusion in 2025 Evening of Remembrance Event The City of Santa Clarita is now accepting names for the Youth Grove in Central Park (27150 Bouquet Canyon Road). This project honors Santa Clarita youth, aged 24 years and younger, who tragically lost their lives in traffic-related incidents. Youth must have [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/26/submission-period-open-for-youth-grove-at-central-park-3/">Submission Period Open for Youth Grove at Central Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/26/submission-period-open-for-youth-grove-at-central-park-3/>
+
+---
+
+## How to navigate LAUSD’s magnet point system
+
+date: 2025-06-26, updated: 2025-06-26, from: The LAist
+
+What started as a strategy to integrate campuses can now feel like an opaque competition to get into a select group of schools. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-magnet-points-choices-application-los-angeles-unified>
+
+---
+
+## These 4 million acres of California forests could lose protection. Here’s what Trump’s ‘roadless rule’ repeal could do
+
+date: 2025-06-26, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The land at stake ranges from dense, remote coastal forests in the far north, to alpine conifer forests in the Sierra Nevada, to Southern California’s great expanses of brush. Experts dispute whether revoking the two-decade-old rule would help prevent wildfires.</p>
+<p>The post <a href="https://lbpost.com/news/these-4-million-acres-of-california-forests-could-lose-protection-heres-what-trumps-roadless-rule-repeal-could-do">These 4 million acres of California forests could lose protection. Here’s what Trump’s ‘roadless rule’ repeal could do</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/these-4-million-acres-of-california-forests-could-lose-protection-heres-what-trumps-roadless-rule-repeal-could-do>
+
+---
+
+## Create a rebuilding authority and fire control district, expert panel urges in post-LA fires report
+
+date: 2025-06-26, updated: 2025-06-26, from: The LAist
+
+Experts from UCLA and industry release recommendations, which one L.A. County supervisor calls a roadmap for future policymaking. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/post-fires-report-blue-ribbon-commission>
+
+---
+
+## Fourth of July changes: why some cities are skipping the fireworks and festivities this year
+
+date: 2025-06-26, updated: 2025-06-26, from: The LAist
+
+The reasons are varied, ranging from fire dangers to a lack of funding, environmental concerns — and fears of ICE sweeps. 
+
+<br> 
+
+<https://laist.com/news/politics/fourth-of-july-why-some-cities-are-skipping-the-fireworks-festivities>
+
+---
+
+## Congress is fighting over this tax deduction. Here’s how it affects Californians
+
+date: 2025-06-26, updated: 2025-06-26, from: The LAist
+
+The House wants to raise the SALT deduction cap, which would help wealthy Californians pay less in federal taxes. The Senate wants to keep it where it is. 
+
+<br> 
+
+<https://laist.com/news/politics/congress-is-fighting-over-this-tax-deduction-heres-how-it-affects-californians>
+
+---
+
+## DUI checkpoint planned for tonight in Long Beach
+
+date: 2025-06-26, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/2018/09/10144150/duicheckpoint.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2018/09/10144150/duicheckpoint.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/09/10144150/duicheckpoint-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/2018/09/10144150/duicheckpoint-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/2018/09/10144150/duicheckpoint-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/09/10144150/duicheckpoint-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/2018/09/10144150/duicheckpoint-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/2018/09/10144150/duicheckpoint-450x300.jpg 450w, https://img.lbpost.com/wp-content/uploads/2018/09/10144150/duicheckpoint-970x646.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police said the location was chosen based on data indicating where the most DUI crashes occur.</p>
+<p>The post <a href="https://lbpost.com/news/crime/dui-checkpoint-planned-for-tonight-in-long-beach">DUI checkpoint planned for tonight in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/dui-checkpoint-planned-for-tonight-in-long-beach>
+
+---
+
+## City Cinemas Returns with Movie Magic Under the Stars
+
+date: 2025-06-26, from: City of Santa Clarita
+
+<p>By Councilmember Patsy Ayala There is something magical about watching a movie under the stars, surrounded by your neighbors, friends and family, with a cool, summer breeze and a bucket of popcorn in hand. I am excited to announce that this magic is returning once again with City Cinemas, presented by Henry Rodriguez State Farm! [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/26/city-cinemas-returns-with-movie-magic-under-the-stars/">City Cinemas Returns with Movie Magic Under the Stars</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/26/city-cinemas-returns-with-movie-magic-under-the-stars/>
+
+---
+
+## Protesters say federal agents hit them with rubber bullets and tear gas. What happens to their complaints?
+
+date: 2025-06-26, updated: 2025-06-26, from: The LAist
+
+Angelenos say masked agents used excessive force against them at protests. But there's scant oversight of federal officers. 
+
+<br> 
+
+<https://laist.com/news/protesters-say-federal-agents-hit-them-with-rubber-bullets-and-tear-gas-what-happens-to-their-complaints>
+
+---
+
+## For the first time, two LA restaurants have been awarded three Michelin stars
+
+date: 2025-06-26, updated: 2025-06-26, from: The LAist
+
+It's an impressive achievement for Providence in Hollywood and Somni in West Hollywood. 
+
+<br> 
+
+<https://laist.com/news/food/for-the-first-time-two-la-restaurants-have-been-awarded-three-michelin-stars>
 
 ---
 
@@ -85,7 +227,7 @@ Lawmakers from both parties oppose Trump's proposed funding cuts to public broad
 
 date: 2025-06-25, from: Longbeach Post
 
-<figure><img width="1024" height="649" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-1024x649.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-1024x649.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-300x190.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-768x487.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-170x108.png 170w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-1200x761.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-400x254.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP.png 1207w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="649" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-1024x649.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-1024x649.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-300x190.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-768x487.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-170x108.png 170w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-1200x761.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-400x254.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP.png 1207w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Neighbors have complained about large groups of the bikers taking over streets. Police have said officers are discouraged from intervening in many cases.</p>
 <p>The post <a href="https://lbpost.com/news/crime/minibikers-video-circling-throwing-lbpd-officer-handcuff">Video shows minibikers circling LBPD officer, throwing bottles as he handcuffs one rider</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -186,7 +328,7 @@ The project to spare mountain lions and other animals from having to cross the 1
 
 date: 2025-06-25, from: Longbeach Post
 
-<figure><img width="1024" height="643" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb-1024x643.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb-1024x643.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb-300x189.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb-768x483.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb-172x108.jpg 172w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb-400x251.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="643" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb-1024x643.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb-1024x643.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb-300x189.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb-768x483.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb-172x108.jpg 172w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb-400x251.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>It’s a homecoming for the legendary local act. And it’s a sign of the city’s resurgence as a music and entertainment destination, Mayor Rex Richardson said.</p>
 <p>The post <a href="https://lbpost.com/news/sublime-is-returning-to-long-beach-for-the-vans-warped-tour">Sublime is returning to Long Beach for the Vans Warped Tour</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

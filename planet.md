@@ -1,11 +1,263 @@
 ---
 title: planet
-updated: 2025-06-26 06:08:03
+updated: 2025-06-26 14:07:25
 ---
 
 # planet
 
-(date: 2025-06-26 06:08:03)
+(date: 2025-06-26 14:07:25)
+
+---
+
+## How Trump finally learned to love NATO - for now
+
+date: 2025-06-26, from: RTÉ News
+
+It will go down as the summit where US President Donald Trump learned to stop worrying and love NATO. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0626/1520556-nato-analysis/>
+
+---
+
+## Anna Wintour to step aside as editor of American Vogue
+
+date: 2025-06-26, from: RTÉ News
+
+Anna Wintour is to step aside from her role as the day-to-day editor of American Vogue, with the magazine hiring a new head of editorial content. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0626/1520555-anna-wintour-to-step-aside-as-editor-of-american-vogue/>
+
+---
+
+## Greece forest fire forces evacuations near Athens
+
+date: 2025-06-26, from: RTÉ News
+
+A forest fire has devastated several seaside towns east of the Greek capital Athens, damaging homes and prompting dozens of evacuations in a popular tourist destination. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0626/1520540-greece-wildfires/>
+
+---
+
+## Inside the face scanning tech behind social media age limits
+
+date: 2025-06-26, from: RTÉ News
+
+As age restrictions on social media gain political momentum, biometric software is being explored as a way to effectively enforce any potential laws. So, should this technology be used to build a safer, more secure internet? 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0626/1520524-inside-the-face-scanning-tech-behind-social-media-age-limits/>
+
+---
+
+## Inside a data centre: Fourth Class students receive tour
+
+date: 2025-06-26, from: RTÉ News
+
+A group of local school children from Scoil Ghráinne Community National School in Dublin 15 got a tour of an Equinix data centre to learn what exactly happens inside the facilities. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0626/1520532-inside-data-centre/>
+
+---
+
+## Woman's earliest memory is abuse by mother, court told
+
+date: 2025-06-26, from: RTÉ News
+
+A young woman has told the Central Criminal Court that her earliest memory is of being sexually abused by her mother when she was three years old. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0626/1520526-courts-rape/>
+
+---
+
+## French man who robbed Kardashian dies of cancer aged 69
+
+date: 2025-06-26, from: RTÉ News
+
+A French robber convicted with seven others of stealing jewellery worth $10 million from reality television star Kim Kardashian in Paris in 2016 has died, a source close to the case said. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0626/1520518-kardashian-robber/>
+
+---
+
+## Pope to priests: 'No one here is alone'
+
+date: 2025-06-26, from: Vatican News
+
+
+                    <p>In his message to participants of the International Meeting with Priests, Pope Leo XIV stresses the importance of the fraternal aspect of priestly formation and life, reminding priests that they are never alone.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-speaks-at-interntional-meeting-for-priests-seminarians.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-speaks-at-interntional-meeting-for-priests-seminarians.html>
+
+---
+
+## Long Covid scheme for healthcare workers to end
+
+date: 2025-06-26, from: RTÉ News
+
+A special scheme for healthcare workers living with long Covid will finish at the end of June, Minister for Health Jennifer Carroll MacNeill has confirmed. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0626/1520517-long-covid/>
+
+---
+
+## Vogue's Anna Wintour exits editor-in-chief post, but remains brand's global boss
+
+date: 2025-06-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7571871.1750964272!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/anna-wintour-tony-awards-june-2025.jpg' alt='A close-up photograph of a woman with a light brown bob haircut wearing big dark sunglasses and gold beaded necklaces around her neck. ' width='620' height='349' title='Vogue editor Anna Wintour attends the 78th Tony Awards at Radio City Music Hall in New York on June 8, 2025.          '/><p>Anna Wintour is stepping away from her role as U.S. Vogue's editor-in-chief but will retain editorial control over the storied magazine.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/vogue-editor-anna-wintour-steps-down-1.7571845?cmp=rss>
+
+---
+
+## Canadian dies while in ICE custody in Florida, U.S. agency says
+
+date: 2025-06-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7564824.1750274717!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/new-york-immigration-court-arrest.jpg' alt='A man in handcuffs' width='620' height='349' title='A man holds his immigration paperwork while handcuffed after being detained by Immigration and Customs Enforcement (ICE) agents outside an immigration courtroom, Tuesday, June 17, 2025, at the Jacob K. Javits federal building in New York.'/><p>A Canadian citizen died while in custody of U.S. Immigration and Customs Enforcement earlier this week, the agency says.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/canadian-dies-in-ice-custody-1.7571876?cmp=rss>
+
+---
+
+## Vatican Observatory: fostering collaboration between young astronomers | The Society of Jesus
+
+date: 2025-06-26, from: Vatican Obervatory
+
+Since June 1, the corridors of the Jesuit-run Vatican Observatory in Castel Gandolfo have once again been filled with the voices and languages of young people... 
+
+<br> 
+
+<https://www.jesuits.global/2025/06/25/vatican-observatory-fostering-collaboration-between-young-astronomers/>
+
+---
+
+## Iranian opposition group strongly criticises Irish DFA
+
+date: 2025-06-26, from: RTÉ News
+
+An Iranian opposition group has strongly criticised Ireland's Department of Foreign Affairs for expressing concerns about its activities. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0626/1520506-iran-irish-government/>
+
+---
+
+## VIPs arrive in Venice as Bezos wedding festivities begin
+
+date: 2025-06-26, from: RTÉ News
+
+VIPs have been whizzing by speed boat through Venice as the three-day wedding party of businessman Jeff Bezos and journalist Lauren Sánchez begins as people protest in the Italian city. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0626/1520503-jeff-bezos-wedding/>
+
+---
+
+## Lack of catering services on trains 'unacceptable'
+
+date: 2025-06-26, from: RTÉ News
+
+Ireland is the only country in Western Europe that does not provide catering services on all train routes, a politician has claimed. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0626/1520504-train-catering/>
+
+---
+
+## Pope: Synodality is an attitude that helps Church foster communion
+
+date: 2025-06-26, from: Vatican News
+
+
+                    <p>Pope Leo XIV meets with members of the General Secretariat of the Synod of Bishops, and encourages the Church along the synodal path of participation and communion.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-council-synod-church-synodality-communion.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-council-synod-church-synodality-communion.html>
+
+---
+
+## Netanyahu asks court to postpone his corruption trial
+
+date: 2025-06-26, from: RTÉ News
+
+Israeli Prime Minister Benjamin Netanyahu has asked a court to postpone his testimony in his long-running corruption trial, after US President Donald Trump called for him to be pardoned. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0626/1520487-israel-netanyahu/>
+
+---
+
+## U of T offers to host some Harvard international students amid Trump turmoil
+
+date: 2025-06-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7571455.1750950009!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/harvard-university-campus.jpg' alt='An exterior shot of a red brick university building with a white letters standing on the grass in front, spelling the word Harvard.' width='620' height='349' title='A Harvard sign is seen at the Harvard University campus in Boston, Massachusetts, on May 27, 2025. Harvard students protested Tuesday after the US government said it intends to cancel all remaining financial contracts with the university, President Donald Trump&apos;s latest attempt to force the prestigious institution to submit to unprecedented oversight. '/><p>International students facing possible visas restrictions amid a legal dispute between U.S. President Donald Trump and Harvard University may have a back up plan to return to school in the fall — studying in Canada. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/harvard-munk-school-international-students-1.7571325?cmp=rss>
+
+---
+
+## Bills 5 and C-5 spur Six Nations teach-in on Haudenosaunee rights
+
+date: 2025-06-26, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7569933.1750801761!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/tm.jpg' alt='Woman stands in front of a banner that reads &quot;Haudenosaunee Sovereignty Forever.&quot;' width='620' height='349' title='Terri Monture, Kanien&apos;kehá ka, Wolf clan from Six Nations of the Grand River was a speaker on a panel at the event. She’s also a volunteer with Protect the Tract.'/><p>Protect the Tract, a Haudenosaunee-led environmental initiative, organized a Solidarity Teach-in on National Indigenous Peoples Day on Six Nations of the Grand River, near Hamilton, Ont., in response to Ontario's Bill 5 and Canada's Bill C-5.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/six-nations-haudenosaunee-bill-c5-5-1.7569924?cmp=rss>
+
+---
+
+## UN Charter: Eighty years of a fragile miracle
+
+date: 2025-06-26, from: Vatican News
+
+
+                    <p>Our Editorial Director reflects on the 80th anniversary of the Charter of the United Nations in the context of ongoing wars, the decline of multilateralism, and the prophetic voice of the Popes over the decades.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/united-nations-charter-80th-anniversary-editorial.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/united-nations-charter-80th-anniversary-editorial.html>
 
 ---
 
@@ -33,11 +285,23 @@ date: 2025-06-26, from: RTÉ News
 
 ---
 
+## Dublin's centenarians say hard work key to a long life
+
+date: 2025-06-26, from: RTÉ News
+
+14 centenarians have gathered for a special event at the Mansion House, hosted by Lord Mayor of Dublin Emma Blain. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0626/1520478-dublin-centenarians/>
+
+---
+
 ## Calls for uniform approach to hospital car park charges
 
 date: 2025-06-26, from: RTÉ News
 
-Aontú is calling for all party support for proposed legislation to make the first three hours of hospital car parking free to patients and their families. 
+Aontú is calling for all-party support for proposed legislation to make the first three hours of hospital car parking free to patients and their families. 
 
 <br> 
 
@@ -57,6 +321,18 @@ Supreme leader Ayatollah Ali Khamenei said US President Donald Trump "exaggerate
 
 ---
 
+## No known intelligence Iran moved uranium before US attack
+
+date: 2025-06-26, from: RTÉ News
+
+US Secretary of Defense Pete Hegseth has said that he is unaware of any intelligence suggesting Iran had moved any of its highly enriched uranium to shield it from American strikes over the weekend. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0626/1520463-iran-strikes/>
+
+---
+
 ## Despite the fall of Assad, the illicit drug trade in Syria is far from over
 
 date: 2025-06-26, from: United Nations, Top Stories
@@ -66,6 +342,66 @@ When Bashar Al-Assad ruled Syria, his regime was widely accused of profiting fro
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/06/1164696>
+
+---
+
+## Eighty years on, UN Charter marked by reflection, resolve – and a run
+
+date: 2025-06-26, from: United Nations, Top Stories
+
+It wasn’t an average Thursday morning in Manhattan. In the early hours, UN diplomats (and UN News) hit the streets in their sneakers – from Times Square to East River – following a route that traced the shape of “UN@80”. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164976>
+
+---
+
+## DR Congo: Conflict survivors ‘have been through hell,’ says UN aid chief
+
+date: 2025-06-26, from: United Nations, Top Stories
+
+The conflict-impacted people of the eastern Democratic Republic of the Congo (DRC) urgently need much more international assistance than they are getting today, the UN’s top aid official said on Thursday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164981>
+
+---
+
+## UN calls for restraint after deadly Kenya protests
+
+date: 2025-06-26, from: United Nations, Top Stories
+
+The UN is monitoring the situation in Kenya in the wake of deadly antigovernment protests on Wednesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164966>
+
+---
+
+## UN rights office sounds the alarm over forced displacement in the West Bank
+
+date: 2025-06-26, from: United Nations, Top Stories
+
+Palestinians in the occupied West Bank, including East Jerusalem, are increasingly being subjected to forced displacement and land seizures, the UN human rights office, OHCHR, has reported.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164971>
+
+---
+
+## ‘Our kids cry for food’: Most Gaza families survive on one meal a day
+
+date: 2025-06-26, from: United Nations, Top Stories
+
+Most families in the Gaza Strip are surviving on one meal a day and one-third go entire days without eating as a result of Israel’s continued bombardment of the enclave, according to the UN World Food Programme (WFP) and partners. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164951>
 
 ---
 
@@ -81,6 +417,30 @@ An independent review should be conducted into the murder of a Co Armagh teenage
 
 ---
 
+## NI Police Ombudsman recommends review of Beattie case
+
+date: 2025-06-26, from: RTÉ News
+
+An independent review should be conducted into the murder of a Co Armagh teenager more than 50 years ago, according to a report which found numerous failings in the original police inquiry. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0626/1520454-marian-beattie/>
+
+---
+
+## Golf contributes €717m to the Irish economy annually
+
+date: 2025-06-26, from: RTÉ News
+
+Around one in ten adults on the island of Ireland play golf at least once a year, with the sport contributing €717 million annually directly to the economy as well as supporting 15,600 jobs, according to a new study from Golf Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0626/1520450-golf-contributes-717m-to-the-irish-economy-annually/>
+
+---
+
 ## Garda assaulted with bladed weapon after Dublin burglary
 
 date: 2025-06-26, from: RTÉ News
@@ -90,6 +450,30 @@ A man has been arrested after a garda was assaulted with a bladed weapon, follow
 <br> 
 
 <https://www.rte.ie/news/2025/0626/1520453-garda-assault-dublin/>
+
+---
+
+## Garda assaulted with bladed weapon after Dublin burglary
+
+date: 2025-06-26, from: RTÉ News
+
+A man has been arrested after a garda was assaulted with a bladed weapon following a burglary at a business premises in Dublin in the early hours of this morning. 
+
+<br> 
+
+<https://www.rte.ie/news/crime/2025/0626/1520453-garda-assault-dublin/>
+
+---
+
+## July deadline for tariffs may be extended - White House
+
+date: 2025-06-26, from: RTÉ News
+
+US President Donald Trump could extend a July deadline for higher tariffs on imports, the White House has said. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0626/1520448-tariffs/>
 
 ---
 
@@ -105,7 +489,7 @@ Sinn Féin's justice spokesperson has said he missed a vote on his own amendment
 
 ---
 
-## Long Covid scheme for healthcare workers to end
+## As it happened: Windfarms, long Covid discussed in Dáil
 
 date: 2025-06-26, from: RTÉ News
 
@@ -164,11 +548,11 @@ date: 2025-06-26, from: Vatican News
 
 ---
 
-## Man charged in connection with Balbriggan hit-and-run
+## Man charged in connection with fatal Balbriggan collision
 
 date: 2025-06-26, from: RTÉ News
 
-A 41-year-old man has appeared before Dublin District Court, charged in connection with a fatal hit-and-run in Balbriggan in Co Dublin, on Monday night. 
+A 41-year-old man has been accused of severely injuring another man who died following a collision in Balbriggan, Co Dublin on Monday night. 
 
 <br> 
 
@@ -188,7 +572,7 @@ Social Democrats spokesperson on Health Padraig Rice has said that patients are 
 
 ---
 
-## Orwell Prize winner says ceremony 'very emotional'
+## Orwell Prize winner Ryan says ceremony 'very emotional'
 
 date: 2025-06-26, from: RTÉ News
 
@@ -244,11 +628,11 @@ date: 2025-06-26, from: Vatican News
 
 ---
 
-## Israeli strikes kill 35 in Gaza, medics say
+## Israeli forces kill 65 in Gaza, rescuers say
 
 date: 2025-06-26, from: RTÉ News
 
-Israeli gunfire and airstrikes killed 35 Palestinians in Gaza, Hamas-run health authorities said, as mediators reached out to Israel and Hamas to seek a resumption of ceasefire talks to end the war. 
+Spanish Prime Minister Pedro Sanchez became the most prominent European leader to describe the situation in Gaza as a genocide, as rescuers in the Palestinian territory said Israeli forces killed 65 people. 
 
 <br> 
 
@@ -280,6 +664,18 @@ Fine Gael's Seán Kelly has said he is still considering whether he will seek th
 
 ---
 
+## Defiant Ayatollah claims victory for Iran after hostilities with Israel, U.S.
+
+date: 2025-06-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7571333.1750944766!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/iran-nuclear.JPG' alt='A bearded bespectacled man wearing a turban and robes is shown seated in a room.' width='620' height='349' title='Iran&apos;s Supreme Leader Ayatollah Ali Khamenei speaks in a televised message, after the ceasefire between Iran and Israel, in Tehran, Iran, June 26, 2025.  '/><p>Ayatollah Ali Khamenei claimed victory over Israel on Thursday and said Iran had "delivered a hand slap to America's face," as he re-emerged after taking shelter in a secret location.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/iran-khamenei-statement-ceasefire-1.7571224?cmp=rss>
+
+---
+
 ## Cocaine use and production hits record high - UN report
 
 date: 2025-06-26, from: RTÉ News
@@ -289,6 +685,18 @@ Cocaine production, seizures and use all hit record highs in 2023, the UN drug a
 <br> 
 
 <https://www.rte.ie/news/world/2025/0626/1520402-cocaine-un-report/>
+
+---
+
+## Cocaine use and production hits record high - UN report
+
+date: 2025-06-26, from: RTÉ News
+
+Cocaine production, seizures and use all hit record highs in 2023, the UN drug agency said, with the illicit drug's market the world's fastest-growing. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0626/1520402-cocaine-un-report/>
 
 ---
 
@@ -352,15 +760,27 @@ The large-scale, illegal commercial extraction of peat is widespread in Ireland 
 
 ---
 
-## Israel needs to stop attacking reports on Gaza - Martin
+## EU leaders call for immediate ceasefire in Gaza
 
 date: 2025-06-26, from: RTÉ News
 
-Taoiseach Micheál Martin has called on Israel to stop attacking international reports on the situation in Gaza. 
+EU leaders have jointly called for an immediate ceasefire in Gaza, deploring the humanitarian situation there, as well as for the immediate release of all hostages. 
 
 <br> 
 
 <https://www.rte.ie/news/europe/2025/0626/1520382-eu-summit/>
+
+---
+
+## Sitansisk First Nation eager for plan tapping police to enforce band council bylaws
+
+date: 2025-06-26, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7564721.1750270645!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/allan-polchies.jpg' alt='Allan Polchies stands inside a board room at Sitansisk First Nation&apos;s office.' width='620' height='349' title='Sitansisk First Nation Chief Allan Polchies says the relationship between his community and the Fredericton Police Force has improved, but that he still wants to see officers enforce band council bylaws.'/><p>Sitansisk First Nation is welcoming the opening of Fredericton police satellite office in the community, but a sticking point remains over the force's unwillingness to enforce band council bylaws that fall within a legal grey area.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/new-brunswick/fredericton-police-force-sitansisk-st-marys-first-nation-1.7564608?cmp=rss>
 
 ---
 
@@ -532,11 +952,11 @@ Tánaiste Simon Harris has told the Fine Gael parliamentary party meeting that t
 
 ---
 
-## Celebrities arrive in Venice amid protests against Bezos-Sanchez wedding
+## Oprah, Kardashians arrive in Venice amid protests against Bezos-Sanchez wedding
 
 date: 2025-06-25, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7570860.1750882410!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/people-bezos-wedding.JPG' alt='Woman with long dark hair and bald man with sunglasses, both smiling, as they walk out of curtained area' width='620' height='349' title='Amazon founder Jeff Bezos and Lauren Sanchez leave the Aman Venice hotel, ahead of their expected wedding, in Venice, Italy, June 25, 2025.  '/><p>Amazon founder Jeff Bezos and his fiancée, former journalist Lauren Sanchez, arrived in Venice on Wednesday ahead of three days of lavish VIP parties in the romantic Italian lagoon city to celebrate their wedding, despite protests from locals.</p> 
+<img src='https://i.cbc.ca/1.7571353.1750945825!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/people-bezos-wedding.JPG' alt='A woman dressed in white carries a handbag while walking on a dock' width='620' height='349' title='Oprah Winfrey walks to get in a boat as she departs from Marco Polo Airport ahead of the anticipated wedding of Amazon founder Jeff Bezos and Lauren Sanchez in Venice, Italy, June 26, 2025. '/><p>Oprah Winfrey, Kim and Khloe Kardashian, and Tom Brady joined the star-studded list of celebrity guests arriving in Venice to start three days of lavish wedding celebrations for billionaire Amazon founder Jeff Bezos and former journalist Lauren Sanchez.</p> 
 
 <br> 
 
@@ -972,7 +1392,7 @@ The UN Secretary-General has warned that the world today is failing to protect c
 
 date: 2025-06-25, from: United Nations, Top Stories
 
-When Sila, a young woman from Idlib in Syria, was three-years-old, she woke up to missiles falling around her, forcing her and her family to flee their home.&nbsp;&nbsp; 
+When Sila, a young woman from Idlib in Syria, was three years old, she woke up to missiles falling around her, forcing her and her family to flee their home.&nbsp;&nbsp; 
 
 <br> 
 
@@ -1381,6 +1801,18 @@ Zohran Mamdani, a 33-year-old state politician and self-described democratic soc
 <br> 
 
 <https://www.rte.ie/news/world/2025/0625/1520180-mamdani-new-york-mayor/>
+
+---
+
+## Underdog shocks former governor in New York mayor primary
+
+date: 2025-06-25, from: RTÉ News
+
+Zohran Mamdani, a 33-year-old state politician and self-described democratic socialist, appears poised to win New York City's Democratic mayoral primary election in a surprising upset over former New York governor Andrew Cuomo. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0625/1520180-mamdani-new-york-mayor/>
 
 ---
 
@@ -2640,7 +3072,7 @@ After surprise US bombing raids on Iranian uranium enrichment facilities over th
 
 ## Asia is warming twice as fast as the rest of the world
 
-date: 2025-06-23, from: United Nations, Top Stories
+date: 2025-06-23, from: United Nations, Climate Change
 
 In April 2024, China broke the average temperature record that month. The following month, it was the same - and then again in August. And September. And November. 
 
