@@ -1,11 +1,155 @@
 ---
 title: going electric
-updated: 2025-06-25 14:08:04
+updated: 2025-06-26 06:08:13
 ---
 
 # going electric
 
-(date: 2025-06-25 14:08:04)
+(date: 2025-06-26 06:08:13)
+
+---
+
+## Automakers Now Say The Government Is 'Stifling Innovation'
+
+date: 2025-06-26, from: Inside EVs News
+
+Plus, Tesla's European sales fall for fifth consecutive month and CATL is focusing on taking over the world. 
+
+<br> 
+
+<https://insideevs.com/news/763862/nhtsa-stifling-innovation-alliance-testify/>
+
+---
+
+## Bosch just made its e-bike motors more powerful (among other upgrades)
+
+date: 2025-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/bosch-motor-head-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.bosch-ebike.com/us">Bosch eBike Systems</a>, which is Europe’s leading e‑bike drive supplier and powers more than 100 major bike brands, just dropped an impressive suite of upgrades across its Smart System lineup. The stars of the show are enhanced versions of the mid-drive motors in the Cargo Line, Performance Line Speed, Performance Line, and the beefed-up Performance Line SX, all designed to deliver smoother, quieter, and more customizable support.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="422341" href="https://electrek.co/2025/06/26/bosch-just-made-its-e-bike-motors-more-powerful-among-other-upgrades/#more-422341" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/bosch-just-made-its-e-bike-motors-more-powerful-among-other-upgrades/>
+
+---
+
+## DEVELON takes the wraps off new electric wheeled excavator at TKD
+
+date: 2025-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/develon_wheeled-excavator.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Wheeled excavators are making a comeback in the equipment market, delivering a winning combination of versatility and road-friendly mobility that offers municipal construction fleets a lot of bang for the buck. With its latest all-electric model in this category, DEVELON aims to capitalize <a href="https://electrek.co/2025/06/11/volvo-ce-set-to-invest-40-million-into-pa-excavator-plant/">on this growing construction trend</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,electric-heavy-machinery" data-layer-viewtype="unknown" data-post-id="422357" href="https://electrek.co/2025/06/26/develon-takes-the-wraps-off-new-electric-wheeled-excavator-at-tkd/#more-422357" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/develon-takes-the-wraps-off-new-electric-wheeled-excavator-at-tkd/>
+
+---
+
+## Stark Varg EX review: Our first look at the 80 HP street-legal dirt bike
+
+date: 2025-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/58A8959_ps.jpg?quality=82&#038;strip=all&#038;w=1499" /></div><p>Recently, the up-and-coming electric motorcycle manufacturer Stark Future invited us to the mountains of Spain to get hands-on with the Stark Varg EX – a fully electric street-legal enduro motorcycle selling in the U.S for $12,990 for the 60 HP configuration and $13,990 for the insane 80 HP configuration. After 2 days on trails, my biggest surprise was just how approachable and easy to ride the EX turned out to be for such a high-performance machine. It’s still far from being optimal as a commuter bike, but then again, that’s not quite what the EX is for.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="421934" href="https://electrek.co/2025/06/26/stark-varg-ex-review-our-first-look-at-the-80-hp-street-legal-dirt-bike/#more-421934" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/stark-varg-ex-review-our-first-look-at-the-80-hp-street-legal-dirt-bike/>
+
+---
+
+## Port of Los Angeles set to deploy 20 Orange EV yard trucks at Pier 400
+
+date: 2025-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/orange_EV.png?w=1600" /></div><p>With short runs at low speeds under heavy loads in a controlled space, heavy-duty terminal tractors represent an almost ideal use case for electrification. APM Terminals Pier 400 seems to have done the math and come to the same conclusion, and are now set to add twenty new Orange EVs to their fleet at the Port of Los Angeles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-trucks,orange-ev" data-layer-viewtype="unknown" data-post-id="422349" href="https://electrek.co/2025/06/26/port-of-los-angeles-set-to-deploy-20-orange-ev-yard-trucks-at-pier-400/#more-422349" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/port-of-los-angeles-set-to-deploy-20-orange-ev-yard-trucks-at-pier-400/>
+
+---
+
+## These are the best electric bicycles I’ve tested for under $1,000
+
+date: 2025-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/lectric-xp-lite-2-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Electric bikes are getting better, safer, and more affordable every year. Even so, in the US, e-bikes are still relatively expensive despite being such an incredibly price-sensitive market. Whenever someone asks me to recommend an e-bike for them, one of their first requirements is invariably that it doesn’t cost a fortune. Though the tradeoffs for dropping the price can sometimes rear their ugly head with their own hidden costs.</p>
+
+
+
+<p>And let’s be real: the sub-$1,000 category has always been a bit of a minefield. For every great deal, there are a dozen cheap frames with underpowered motors, sketchy brakes, or batteries that make me nervous just looking at them. But with a lot of digging (and a lot of riding), I’ve managed to find a few standout electric bikes that prove you <em>can</em> get a surprisingly good ride without breaking the bank.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="420641" href="https://electrek.co/2025/06/26/these-are-the-best-electric-bicycles-ive-tested-for-under-1000/#more-420641" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/these-are-the-best-electric-bicycles-ive-tested-for-under-1000/>
+
+---
+
+## Is the Honda Prologue the best EV to lease right now?
+
+date: 2025-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Honda-Prologue-record-sales-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/honda-prologue/">Honda Prologue</a> continues to surprise, ranking among the top ten most leased vehicles (gas-powered or EV) in the US in the first quarter. It was the only EV, outside of Tesla’s Model Y and Model 3, that made the list.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-lease,honda-prologue" data-layer-viewtype="unknown" data-post-id="421347" href="https://electrek.co/2025/06/25/honda-prologue-best-ev-to-lease-right-now/#more-421347" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/25/honda-prologue-best-ev-to-lease-right-now/>
+
+---
+
+## US energy storage set a new record in Q1 2025 but the future looks shaky
+
+date: 2025-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/sunrun-tesla-battery-storage1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The US energy storage market just posted its strongest Q1 ever, adding more than 2 gigawatts (GW) of capacity across all segments, according to the latest US Energy Storage Monitor from Wood Mackenzie and the American Clean Power Association (ACP).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,egeb,energy-brief,energy-storage,solar,home-battery" data-layer-viewtype="unknown" data-post-id="422291" href="https://electrek.co/2025/06/25/us-energy-storage-set-a-new-record-in-q1-2025-but-the-future-looks-shaky/#more-422291" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/25/us-energy-storage-set-a-new-record-in-q1-2025-but-the-future-looks-shaky/>
+
+---
+
+## Cadillac just delivered the first Celestiq, a hand-built ultra-luxury EV that costs $350,000
+
+date: 2025-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Cadillac-first-ultra-luxury-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The Celestiq is more than an ultra-luxury electric sedan. <a href="https://electrek.co/guides/cadillac/">Cadillac</a> is saying it “marks a new milestone in American luxury and innovation.” The ultra-luxury EV is hand-built at Cadillac House at Vanderbilt, but it’s not cheap. Cadillac’s flagship electric sedan starts at around $350,000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="cadillac,cadillac-celestiq" data-layer-viewtype="unknown" data-post-id="422258" href="https://electrek.co/2025/06/25/cadillac-delivers-first-350000-celestiq-ultra-luxury-ev-models/#more-422258" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/25/cadillac-delivers-first-350000-celestiq-ultra-luxury-ev-models/>
 
 ---
 
@@ -37,7 +181,7 @@ For the longest time, having one to two plugs for a DC fast-charger project was 
 
 ---
 
-## Whoopsie! Uh oh! Oh my! Here’s all the goofs and gaffes by Tesla Robotaxi so far
+## Whoopsie! Uh oh! Here’s all of Tesla Robotaxi’s goofs and gaffes so far
 
 date: 2025-06-25, from: Electrek Feed
 

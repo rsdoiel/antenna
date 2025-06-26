@@ -1,11 +1,66 @@
 ---
 title: journalism
-updated: 2025-06-25 14:08:00
+updated: 2025-06-26 06:08:09
 ---
 
 # journalism
 
-(date: 2025-06-25 14:08:00)
+(date: 2025-06-26 06:08:09)
+
+---
+
+## UCLA DataX panel experts review technological influence on human rights, democracy
+
+date: 2025-06-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students and faculty discussed how technological developments impact human rights and democracy at the DataX Impact Forum in May.
+The event &#8211; titled &#8220;Beyond Broligarchy: The Fight for a Better Future&#8221; &#8211; featured an hour-long conversation between Cory Doctorow, a journalist and science fiction author, and Ramesh Srinivasan, a professor at the UCLA School of Education and Information Studies. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/25/ucla-datax-panel-experts-review-technological-influence-on-human-rights-democracy/>
+
+---
+
+## Sproul Landing’s aeroponic Tower Gardens bring fresh produce from tower to table
+
+date: 2025-06-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated June 25 at 9:17 p.m.</em>
+Gina Osborne thought vegetables could not grow without soil.
+But at the Tower Gardens on the Sproul Landing Sun Deck, she does just that. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/25/sproul-landings-aeroponic-tower-gardens-bring-fresh-produce-from-tower-to-table/>
+
+---
+
+## Federal agents enter Ronald Reagan UCLA Medical Center, officials deny ICE raid
+
+date: 2025-06-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated June 25 at 7:06 p.m.</em>
+A United States Immigration and Customs Enforcement raid did not take place at the Ronald Reagan UCLA Medical Center on Tuesday, contrary to claims on social media.&#160;
+Rumors of an ICE raid circulated on social media after two federal agents brought a person in custody to the medical center emergency room for treatment, a UCLA Health spokesperson said in a June 24 emailed statement. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/25/federal-agents-enter-ronald-reagan-ucla-medical-center-officials-deny-ice-raid/>
+
+---
+
+## IYA dean to step down July 12
+
+date: 2025-06-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A search for the academy's next dean with begin later this summer, the Office of the Provost said.</p>
+<p>The post <a href="https://dailytrojan.com/2025/06/25/iya-dean-to-step-down-july-12/">IYA dean to step down July 12</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/06/25/iya-dean-to-step-down-july-12/>
 
 ---
 

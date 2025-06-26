@@ -1,11 +1,134 @@
 ---
 title: socal north
-updated: 2025-06-25 14:07:55
+updated: 2025-06-26 06:08:04
 ---
 
 # socal north
 
-(date: 2025-06-25 14:07:55)
+(date: 2025-06-26 06:08:04)
+
+---
+
+## 6 new books out this week, including true stories of trailblazers
+
+date: 2025-06-26, updated: 2025-06-26, from: The LAist
+
+For many working adults, the summer can often feel the same as the rest of the year. So maybe our idea of a "summer read" should encompass a wider swath of books? 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/6-new-books-out-this-week-including-true-stories-of-trailblazers>
+
+---
+
+## Why Hollywood Burbank Airport was once disguised to look like a California suburb
+
+date: 2025-06-26, updated: 2025-06-26, from: The LAist
+
+Under “Operation Camouflage,” the army brought in Hollywood pros. 
+
+<br> 
+
+<https://laist.com/news/la-history/burbank-lockheed-camouflage-world-war-ii>
+
+---
+
+## Best things to do this weekend in LA and SoCal: June 27 - 29
+
+date: 2025-06-26, updated: 2025-06-26, from: The LAist
+
+Dengue Fever at Levitt Pavilion, Grease sing-a-long at the Bowl, a ham radio enthusiasts day, a free sound bath at the library, puppy yoga and more. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-weekend-los-angeles-southern-california-june-27-29>
+
+---
+
+## One of LA’s beloved burrito spots is closing its doors after 50 years in its original East LA location
+
+date: 2025-06-26, updated: 2025-06-26, from: The LAist
+
+The burritos at La Azteca Tortilleria have been raved about by many, including the late food writer Jonathan Gold. 
+
+<br> 
+
+<https://laist.com/news/food/one-of-las-beloved-burrito-spots-is-closing-its-doors-after-50-years-in-its-original-east-la-location>
+
+---
+
+## Is pet insurance worth it?
+
+date: 2025-06-25, updated: 2025-06-25, from: The LAist
+
+As premiums skyrocket for some pet owners, they're questioning whether insurance is worth it. Here are a few things to think about. 
+
+<br> 
+
+<https://laist.com/news/is-pet-insurance-worth-it>
+
+---
+
+## Senators question Trump plan to kill federal funds for PBS, NPR and some foreign aid
+
+date: 2025-06-25, updated: 2025-06-25, from: The LAist
+
+Lawmakers from both parties oppose Trump's proposed funding cuts to public broadcasting and foreign aid. 
+
+<br> 
+
+<https://laist.com/news/senators-question-trump-plan-to-kill-federal-funds-pbs-npr-and-some-foreign-aid>
+
+---
+
+## Video shows minibikers circling LBPD officer, throwing bottles as he handcuffs one rider
+
+date: 2025-06-25, from: Longbeach Post
+
+<figure><img width="1024" height="649" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-1024x649.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-1024x649.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-300x190.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-768x487.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-170x108.png 170w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-1200x761.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP-400x254.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25152110/minibike-detain-185711-ztz8vexg-498191-LBAs9aAP.png 1207w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Neighbors have complained about large groups of the bikers taking over streets. Police have said officers are discouraged from intervening in many cases.</p>
+<p>The post <a href="https://lbpost.com/news/crime/minibikers-video-circling-throwing-lbpd-officer-handcuff">Video shows minibikers circling LBPD officer, throwing bottles as he handcuffs one rider</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/minibikers-video-circling-throwing-lbpd-officer-handcuff>
+
+---
+
+## Newsom agrees to ease budget cuts as California seeks more time to fix growing deficit
+
+date: 2025-06-25, updated: 2025-06-25, from: The LAist
+
+The budget deal between Gov. Gavin Newsom and the Legislature forgoes or delays many of Newsom’s proposed cuts, but the deficit is only likely to grow. 
+
+<br> 
+
+<https://laist.com/news/politics/newsom-budget-legislature-cuts-delay>
+
+---
+
+## Black community leaders respond to immigration enforcement in LA: 'This is our fight, too'
+
+date: 2025-06-25, updated: 2025-06-25, from: The LAist
+
+Several Black-led groups shared direct calls to action and suggested ways people can get involved, including supporting protests and mutual aid. 
+
+<br> 
+
+<https://laist.com/news/politics/black-leaders-respond-to-immigration-enforcement>
+
+---
+
+## Pandemic graduates: They had no prom, no pomp and circumstance, and started college on Zoom
+
+date: 2025-06-25, updated: 2025-06-25, from: The LAist
+
+Five years after COVID shut down most California high schools, today’s college students describe a difficult transition to adulthood, marked by fear, loss and a lack of preparation. 
+
+<br> 
+
+<https://laist.com/news/pandemic-graduates-they-had-no-prom-no-pomp-and-circumstance-and-started-college-on-zoom>
 
 ---
 
@@ -63,7 +186,7 @@ The project to spare mountain lions and other animals from having to cross the 1
 
 date: 2025-06-25, from: Longbeach Post
 
-<figure><img width="1024" height="627" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc-1024x627.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc-1024x627.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc-300x184.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc-768x470.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc-176x108.jpg 176w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc-400x245.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25121541/355f9013-f878-49a4-a764-7049ca338bba-068414-w617nxtb-038031-5xCYmnPc.jpg 1086w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="643" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb-1024x643.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb-1024x643.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb-300x189.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb-768x483.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb-172x108.jpg 172w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb-400x251.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/25131525/25jun25-6-25-25-sub-5-448439-7pmixihw-633524-qVUeMxZb.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>It’s a homecoming for the legendary local act. And it’s a sign of the city’s resurgence as a music and entertainment destination, Mayor Rex Richardson said.</p>
 <p>The post <a href="https://lbpost.com/news/sublime-is-returning-to-long-beach-for-the-vans-warped-tour">Sublime is returning to Long Beach for the Vans Warped Tour</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -190,7 +313,7 @@ The video of a man calling out in Chinese for help sparked questions from witnes
 
 ## Federal judge finds LA failed to create enough shelter for unhoused people as required in agreement
 
-date: 2025-06-25, updated: 2025-06-25, from: The LAist
+date: 2025-06-25, updated: 2025-06-26, from: The LAist
 
 Federal judge orders stepped up monitoring and criticizes city officials for failures that "undermined public trust." 
 

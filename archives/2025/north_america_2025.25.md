@@ -1,11 +1,73 @@
 ---
 title: north america
-updated: 2025-06-25 14:07:55
+updated: 2025-06-26 06:08:04
 ---
 
 # north america
 
-(date: 2025-06-25 14:07:55)
+(date: 2025-06-26 06:08:04)
+
+---
+
+## You can’t bargain with a compulsive deal breaker
+
+date: 2025-06-26, from: The Contrarian
+
+Trump&#8217;s loss of credibility and what it costs the U.S. 
+
+<br> 
+
+<https://contrarian.substack.com/p/you-cant-bargain-with-a-compulsive>
+
+---
+
+##  How Pharma, Oil, And Wall Street Funded Trump’s Tax Scam 
+
+date: 2025-06-26, from: The Lever News
+
+ Years of multimillion-dollar investments by conservative advocacy groups delivered Trump and congressional Republicans’ Big Beautiful Betrayal.  
+
+<br> 
+
+<https://www.levernews.com/how-pharma-oil-and-wall-street-funded-trumps-tax-scam/>
+
+---
+
+##  Zohran Mamdani: “This Is The Heart Of The Battle For The Future Of The Democratic Party” 
+
+date: 2025-06-26, from: The Lever News
+
+ David Sirota sat down with the democratic socialist upstart who just won New York City’s Democratic mayoral primary to discuss his plans for City Hall.  
+
+<br> 
+
+<https://www.levernews.com/zohran-mamdani-this-is-the-heart-of-the-battle-for-the-future-of-the-democratic-party/>
+
+---
+
+## Mike Lee Showed Us Who He Is
+
+date: 2025-06-25, from: The Contrarian
+
+and it's not pretty. Watch Now. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166850249/c116bd16244c3bea41bb2746cf846e0d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166850249/c116bd16244c3bea41bb2746cf846e0d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/mike-lee-showed-us-who-he-is>
+
+---
+
+## Evening Roundup, June 25
+
+date: 2025-06-25, from: The Contrarian
+
+Featuring Mary McCord, Austin Sarat, Rep. Jason Crow, Josh Levs, Dara Kass, Rep. Maggie Goodlander, and Jennifer Weiss-Wolf 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-25>
 
 ---
 

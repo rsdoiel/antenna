@@ -1,11 +1,474 @@
 ---
 title: planet
-updated: 2025-06-25 14:07:54
+updated: 2025-06-26 06:08:03
 ---
 
 # planet
 
-(date: 2025-06-25 14:07:54)
+(date: 2025-06-26 06:08:03)
+
+---
+
+## Father of peacekeeper killed in Lebanon to get pension
+
+date: 2025-06-26, from: RTÉ News
+
+The Government is set to change the law to facilitate the payment of a pension to an 84-year-old man whose son was killed while on peacekeeping duties with the Irish Defence Forces. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0626/1520477-pension-army-lebanon/>
+
+---
+
+## Dublin's centenarians say hard work key to a long life
+
+date: 2025-06-26, from: RTÉ News
+
+14 centenarians have gathered for a special event at the Mansion House, hosted by Dublin's Lord Mayor Emma Blain. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0626/1520478-dublin-centenarians/>
+
+---
+
+## Calls for uniform approach to hospital car park charges
+
+date: 2025-06-26, from: RTÉ News
+
+Aontú is calling for all party support for proposed legislation to make the first three hours of hospital car parking free to patients and their families. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0626/1520482-hospital-car-parks/>
+
+---
+
+## Trump 'exaggerated' impact of US strikes on nuclear sites
+
+date: 2025-06-26, from: RTÉ News
+
+Supreme leader Ayatollah Ali Khamenei said US President Donald Trump "exaggerated" the impact of US strikes on Iranian nuclear sites, in his first appearance since a ceasefire in the war with Israel took hold. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0626/1520463-iran-strikes/>
+
+---
+
+## Despite the fall of Assad, the illicit drug trade in Syria is far from over
+
+date: 2025-06-26, from: United Nations, Top Stories
+
+When Bashar Al-Assad ruled Syria, his regime was widely accused of profiting from the production and trafficking of Captagon, an illicit synthetic drug that is most commonly abused by users in the Middle East.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164696>
+
+---
+
+## NI Police Ombudsman recommends review of Beattie case
+
+date: 2025-06-26, from: RTÉ News
+
+An independent review should be conducted into the murder of a Co Armagh teenager more than 50 years ago, according to a report which found numerous failings in the original police inquiry. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0626/1520454-marian-beattie/>
+
+---
+
+## Garda assaulted with bladed weapon after Dublin burglary
+
+date: 2025-06-26, from: RTÉ News
+
+A man has been arrested after a garda was assaulted with a bladed weapon, following a burglary at a premises in Blanchardstown, Co Dublin in the early hours of this morning. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0626/1520453-garda-assault-dublin/>
+
+---
+
+## Sinn Féin TD denies 'tactical wee' after missing vote
+
+date: 2025-06-26, from: RTÉ News
+
+Sinn Féin's justice spokesperson has said he missed a vote on his own amendment to the Offences Against the State Act - due to the need to answer nature's call. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0626/1520445-vote-tactical-wee/>
+
+---
+
+## Long Covid scheme for healthcare workers to end
+
+date: 2025-06-26, from: RTÉ News
+
+Follow updates from the Dáil and various Oireachtas committees as the Garda Commissioner appears before the PAC and the issue of Long Covid is discussed in the Dáil. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0626/1520440-ireland-politics-blog/>
+
+---
+
+## Catholic World Women’s Observatory changing lives across Africa
+
+date: 2025-06-26, from: Vatican News
+
+
+                    <p>Since its launch in 2022, the World Women’s Observatory has made significant strides in empowering vulnerable women across Africa through advocacy, training, and strategic partnerships.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/catholic-world-womens-observatory-changing-lives-across-africa.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/catholic-world-womens-observatory-changing-lives-across-africa.html>
+
+---
+
+## Man in his 20s killed in road crash in Co Laois
+
+date: 2025-06-26, from: RTÉ News
+
+A man in his 20s has been killed in a single-car road crash in Co Laois. 
+
+<br> 
+
+<https://www.rte.ie/news/leinster/2025/0626/1520443-laois-rtc/>
+
+---
+
+## Pope: 'God does great things with those He frees from evil'
+
+date: 2025-06-26, from: Vatican News
+
+
+                    <p>On the World Day Against Drug Abuse and Illicit Trafficking, Pope Leo XIV offers words of comfort to everyone battling an addiction, recalling that though drug use can be a sort of "invisible prison" difficult to escape, we are called to freedom.
+
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-international-day-against-drugs.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-international-day-against-drugs.html>
+
+---
+
+## Man charged in connection with Balbriggan hit-and-run
+
+date: 2025-06-26, from: RTÉ News
+
+A 41-year-old man has appeared before Dublin District Court, charged in connection with a fatal hit-and-run in Balbriggan in Co Dublin, on Monday night. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0626/1520435-balbriggan-rtc-court/>
+
+---
+
+## Patients in 'postcode lottery' for cancer referral - Rice
+
+date: 2025-06-26, from: RTÉ News
+
+Social Democrats spokesperson on Health Padraig Rice has said that patients are facing a 'postcode lottery' when it comes to urgent referrals for suspected breast cancer. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0626/1520430-rice-cancer-referral/>
+
+---
+
+## Orwell Prize winner says ceremony 'very emotional'
+
+date: 2025-06-26, from: RTÉ News
+
+Irish writer Donal Ryan, who was named as the winner of the prestigious Orwell Prize for Political Fiction for his novel 'Heart, Be At Peace', said the award ceremony was "very emotional". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0626/1520416-donal-ryan-orwell-award/>
+
+---
+
+## Pope to ROACO: May Eastern Churches bear witness amid pain of conflict
+
+date: 2025-06-26, from: Vatican News
+
+
+                    <p>Pope Leo XIV meets with members of the Aid Agencies for the Oriental Churches, and encourages Eastern-rite Catholics to bear witness to Christ’s peace amid the destruction wrought by conflict.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-roaco-eastern-churches-witness-conflict.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-roaco-eastern-churches-witness-conflict.html>
+
+---
+
+## Annual review needed if Triple Lock removed, says expert
+
+date: 2025-06-26, from: RTÉ News
+
+Without the Triple Lock mechanism in place, any future Irish peacekeeping missions should be subjected to an annual review to ensure they align with the UN Charter, an Oireachtas committee has been told. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0626/1520422-ireland-triple-lock/>
+
+---
+
+## Pope Leo to Bishops: Continue working for good of Lord's flock
+
+date: 2025-06-26, from: Vatican News
+
+
+                    <p>Pope Leo XIV thanks Redemptorist and Scalabrinian Bishops for their commitment to serve God's flock with self-sacrifice, despite all difficulties.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-scalibrinians-redemptorists-bishops-address.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-scalibrinians-redemptorists-bishops-address.html>
+
+---
+
+## Israeli strikes kill 35 in Gaza, medics say
+
+date: 2025-06-26, from: RTÉ News
+
+Israeli gunfire and airstrikes killed 35 Palestinians in Gaza, Hamas-run health authorities said, as mediators reached out to Israel and Hamas to seek a resumption of ceasefire talks to end the war. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0626/1520413-israel-gaza/>
+
+---
+
+## Investigation after man dies following incident in Dublin
+
+date: 2025-06-26, from: RTÉ News
+
+An investigation is under way into the death of a man in his 50s following an incident at a house in Co Dublin last night. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0626/1520412-balgaddy-investigation/>
+
+---
+
+## Seán Kelly says he is yet to decide on presidential run
+
+date: 2025-06-26, from: RTÉ News
+
+Fine Gael's Seán Kelly has said he is still considering whether he will seek the party's nomination to contest the presidential election later this year. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0626/1520406-sean-kelly-presidential/>
+
+---
+
+## Cocaine use and production hits record high - UN report
+
+date: 2025-06-26, from: RTÉ News
+
+Cocaine production, seizures and use all hit record highs in 2023, the UN drug agency said, with the illicit drug's market the world's fastest-growing. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0626/1520402-cocaine-un-report/>
+
+---
+
+## Sheehan to captain Lions with eight Irish starters
+
+date: 2025-06-26, from: RTÉ News
+
+Dan Sheehan will captain a Lions team that contains eight Irish internationals for Saturday's opening fixture on Australian soil against Western Force in Perth (11am Irish time). 
+
+<br> 
+
+<https://www.rte.ie/sport/british-and-irish-lions/2025/0626/1520404-sheehan-to-captain-lions-team-with-eight-irish-starters/>
+
+---
+
+## Watch: Teen creates designs from plants and organic waste
+
+date: 2025-06-26, from: RTÉ News
+
+A teenager from Co Westmeath has been creating innovative sustainable fashion designs made from organic waste and living plants. 
+
+<br> 
+
+<https://www.rte.ie/news/environment/2025/0626/1520343-teen-creates-organic-fashion/>
+
+---
+
+## US man who spent nearly 50 years on death row executed
+
+date: 2025-06-26, from: RTÉ News
+
+A 79-year-old Mississippi man who had been on death row for nearly 50 years has been executed by lethal injection, one of two executions in the United States this week. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0626/1520396-richard-jordan-mississippi/>
+
+---
+
+## James Bond's new director is Dune's Denis Villeneuve
+
+date: 2025-06-26, from: RTÉ News
+
+Denis Villeneuve has been appointed to direct the next James Bond film, Amazon MGM Studios has announced. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0626/1520390-james-bonds-new-director-is-dunes-denis-villeneuve/>
+
+---
+
+## Illegal peat extraction causing catastrophic damage - EPA
+
+date: 2025-06-26, from: RTÉ News
+
+The large-scale, illegal commercial extraction of peat is widespread in Ireland and the sector does not operate within planning or environmental laws. 
+
+<br> 
+
+<https://www.rte.ie/news/environment/2025/0626/1520380-peat-enviroment-ireland/>
+
+---
+
+## Israel needs to stop attacking reports on Gaza - Martin
+
+date: 2025-06-26, from: RTÉ News
+
+Taoiseach Micheál Martin has called on Israel to stop attacking international reports on the situation in Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0626/1520382-eu-summit/>
+
+---
+
+## Mexico's top court orders release of case file on 43 missing students from 2014
+
+date: 2025-06-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7571219.1750922884!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/mexico-violence-students-anniversary.JPG' alt='Protesters walk forward while holding posters of missing people' width='620' height='349' title='Students follow relatives of the 43 missing students of Ayotzinapa Rural Teachers&apos; College and members of collectives of relatives of missing persons during the Ayotzinapa&apos;s monthly march to demand justice in Mexico City, Mexico, March 26, 2025 REUTERS/Raquel Cunha'/><p>Mexico's Supreme Court on Wednesday ordered the attorney general's office to release a public version of its investigation file into the 2014 disappearance of 43 students from the Ayotzinapa Rural Teachers College, one of the country's worst human rights atrocities.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/ayotzinapa-missing-students-case-1.7571218?cmp=rss>
+
+---
+
+## 'Important step' as tribunal on Russian aggression agreed
+
+date: 2025-06-26, from: RTÉ News
+
+Ukraine and the Council of Europe human rights body have signed an agreement on forming the basis for a special tribunal intended to bring to justice senior Russian officials for the crime of aggression against Ukraine. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0626/1520389-ukraine-russia/>
+
+---
+
+## Trump's 'revenge tax' on other countries could hit U.S.
+
+date: 2025-06-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7571062.1750893325!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/iran-nuclear-sanctions-usa.JPG' alt='A man&apos;s face.' width='620' height='349' title='U.S. President Donald Trump reacts during a press conference at a NATO summit in The Hague, Netherlands June 25, 2025. REUTERS/Yves Herman     TPX IMAGES OF THE DAY'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/trump-tax-impact-canada-1.7571016?cmp=rss>
+
+---
+
+## Israel's war with Iran lasted just 12 days. So why has the fight with Hamas in Gaza lasted for over 600?
+
+date: 2025-06-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7570384.1750879627!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza.JPG' alt='A view of a street in the Gaza Strip as it is seen from an Israeli military vehicle amid the ongoing ground operation of the Israeli army against Palestinian Islamist group Hamas, June 8, 2025. ' width='620' height='349' title='A view of a street in the Gaza Strip as it is seen from an Israeli military vehicle amid the ongoing ground operation of the Israeli army against Palestinian Islamist group Hamas, June 8, 2025. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/israel-iran-analysis-1.7570372?cmp=rss>
+
+---
+
+## Ecuador's most wanted gang leader captured
+
+date: 2025-06-26, from: RTÉ News
+
+Ecuador's president has announced that the country's most-wanted fugitive, Los Choneros gang leader 'Fito', had been recaptured over a year after his escape from prison triggered a wave of violence. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0626/1520388-ecuador/>
+
+---
+
+## Workers seeking new jobs for better commuting options
+
+date: 2025-06-26, from: RTÉ News
+
+More than a third of all commuters in Ireland are looking for a new job in order to have better commuting options, according to a new survey. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0626/1520386-sustainable-commuting-ireland/>
+
+---
+
+## ESRI downgrades house building, domestic growth forecasts
+
+date: 2025-06-25, from: RTÉ News
+
+The Economic and Social Research Institute has downgraded its forecast for house building and growth in the domestic economy for this year. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0626/1520359-esri-forecasts/>
+
+---
+
+## Irish NGOs say aid cuts putting millions of lives at risk
+
+date: 2025-06-25, from: RTÉ News
+
+Leaders in Ireland's humanitarian sector have said that millions of lives are at risk after Western countries drastically cut foreign aid budgets this year. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0626/1520355-humanitarian-aid-cuts/>
+
+---
+
+## Trump closes NATO summit promising proof Iran’s nuclear program destroyed
+
+date: 2025-06-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/f00753e0-734f-45f4-9f4e-5730f17e3562,1750895070662/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='a man in a suit points' width='620' height='349' title='U.S. President Donald Trump closed the NATO summit by praising his own intervention in the Israel-Iran conflict, and for U.S. airstrikes on Iran. He promised to provide proof that Iran’s nuclear program was destroyed at a news conference on Thursday.'/><p>U.S. President Donald Trump closed the NATO summit by praising his own intervention in the Israel-Iran conflict, and for U.S. airstrikes on Iran. He promised to provide proof that Iran’s nuclear program was destroyed at a news conference on Thursday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6811809?cmp=rss>
 
 ---
 
@@ -18,6 +481,30 @@ Irish writer Donal Ryan has been announced as the winner of the prestigious Orwe
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0625/1520374-donal-ryan/>
+
+---
+
+## Irish writer Donal Ryan wins prestigious Orwell Prize
+
+date: 2025-06-25, from: RTÉ News
+
+Irish writer Donal Ryan has been announced in London as the winner of the prestigious Orwell Prize for Political Fiction for his novel 'Heart, Be At Peace'. 
+
+<br> 
+
+<https://www.rte.ie/culture/2025/0625/1520374-donal-ryan/>
+
+---
+
+## McStay 'relieved from his role' by Mayo board
+
+date: 2025-06-25, from: RTÉ News
+
+Mayo GAA have made the decision to "relieve Kevin McStay and his management team from their roles" with the senior football team. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0625/1520371-mayo-cut-short-mcstays-reign-as-manager/>
 
 ---
 
@@ -45,6 +532,18 @@ Tánaiste Simon Harris has told the Fine Gael parliamentary party meeting that t
 
 ---
 
+## Celebrities arrive in Venice amid protests against Bezos-Sanchez wedding
+
+date: 2025-06-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7570860.1750882410!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/people-bezos-wedding.JPG' alt='Woman with long dark hair and bald man with sunglasses, both smiling, as they walk out of curtained area' width='620' height='349' title='Amazon founder Jeff Bezos and Lauren Sanchez leave the Aman Venice hotel, ahead of their expected wedding, in Venice, Italy, June 25, 2025.  '/><p>Amazon founder Jeff Bezos and his fiancée, former journalist Lauren Sanchez, arrived in Venice on Wednesday ahead of three days of lavish VIP parties in the romantic Italian lagoon city to celebrate their wedding, despite protests from locals.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/bezos-sanchez-wedding-venice-1.7570754?cmp=rss>
+
+---
+
 ## Exclusion of services from OTB 'worrying' - Frances Black
 
 date: 2025-06-25, from: RTÉ News
@@ -57,6 +556,18 @@ Independent Senator Frances Black has said it is "worrying" that services are no
 
 ---
 
+## Police crack down on Kenyan protesters with deadly force a year after anti-tax uprising
+
+date: 2025-06-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7570926.1750885508!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/kenya-security-protests-anniversary.JPG' alt='A man with toothpaste on his face and a kerchief around his neck holds both hands over his head and forms an X with his arms' width='620' height='349' title='A protester gestures during demonstrations to mark the first anniversary of the deadly 2024 anti-government protests that drew widespread condemnation over the use of force by security agencies, in Nairobi, Kenya June 25, 2025. REUTERS/John Muchucha'/><p>Sixteen people died during the nationwide demonstrations on Wednesday, according to Amnesty Kenya. Most of them were killed by police, the human rights group said. </p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/asithappens/kenya-deadly-protests-1.7570895?cmp=rss>
+
+---
+
 ## Cork man died due to several wasp stings, inquest hears
 
 date: 2025-06-25, from: RTÉ News
@@ -66,6 +577,42 @@ A 56-year-old man died at his home in Macroom, Co Cork, last year after he recei
 <br> 
 
 <https://www.rte.ie/news/munster/2025/0625/1520348-inquest-cork-wasp-stings/>
+
+---
+
+## Cork man died due to several wasp stings, inquest hears
+
+date: 2025-06-25, from: RTÉ News
+
+A 56-year-old man died at his home in Macroom, Co Cork, last year after he received five or six wasp stings as he picked up hedge clippings to the rear of his property, an inquest has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0625/1520348-michael-sheehan-inquest/>
+
+---
+
+## Canada says lawsuit by group claiming to represent B.C. Métis should be dismissed
+
+date: 2025-06-25, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6731467.1734649742!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/supreme-court.jpg' alt='Two people walk down a sunlit street past concrete pillars that support a concrete awning with the words Court of Appeal &amp; Supreme Court over a glass facade.' width='620' height='349' title='The mother of the 13-year-old girl who was found dead six years ago has taken the witness stand at the murder trial of the teen&apos;s accused killer. '/><p>The Government of Canada says a lawsuit filed by an organization claiming to represent Métis in B.C. should be dismissed as there is insufficient evidence of Métis rights-holding communities in the province, according to documents filled in B.C. Supreme Court. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/canada-says-lawsuit-by-group-claiming-to-represent-b-c-m%C3%A9tis-should-be-dismissed-1.7570622?cmp=rss>
+
+---
+
+## Iranian government turns to internal crackdown with arrests, executions
+
+date: 2025-06-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7570910.1750884950!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/iran-nuclear-borders-armenia.JPG' alt='A truck drives through a construction site.' width='620' height='349' title='A view shows a bridge under construction, which is a section of a new cross-border road connecting Armenia and Iran, near the town of Meghri in the Syunik Province, Armenia, June 25, 2025. Hayk Baghdasaryan/Photolure via REUTERS'/><p>Iranian authorities are pivoting from a ceasefire with Israel to intensify an internal security crackdown across the country with mass arrests, executions and military deployments, particularly in the restive Kurdish region, officials and activists said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/iran-internal-crackdown-1.7570782?cmp=rss>
 
 ---
 
@@ -102,6 +649,18 @@ Second level teachers' union the ASTI has said it will instigate dispute process
 <br> 
 
 <https://www.rte.ie/news/2025/0625/1520339-asti-senior-cycle-reforms/>
+
+---
+
+## Free sewing class teaches young people how to make their own ribbon skirts
+
+date: 2025-06-25, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/ff5ec0df-0432-49a5-bdea-bf4f25e2dbc9,1750884294645/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A young girl pushes colourful, floral-patterned fabric through a sewing machine.' width='620' height='349' title='Kids learn how to make ribbon skirts in this free class in Fort Qu&apos;Appelle, Sask.'/><p>Kids ages eight to 18 are learning how to make ribbon skirts thanks to free classes hosted in Fort Qu'Appelle, Sask. Some girls have signed up alongside their mothers and grandmothers.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6810947?cmp=rss>
 
 ---
 
@@ -189,6 +748,18 @@ Sinn Féin has insisted that it would have abstained on the renewal of the Offen
 
 ---
 
+## My Experience of VOSS 2025 – Sean van Staden, S.J.
+
+date: 2025-06-25, from: Vatican Obervatory
+
+Sean van Staden SJ tells of his experiences at the 2025 Vatican Observatory Summer School. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/my-experience-of-voss-2025-sean-van-staden-s-j/>
+
+---
+
 ## Sligo man cycles 2,100km from Madrid to Glastonbury
 
 date: 2025-06-25, from: RTÉ News
@@ -225,6 +796,18 @@ Postmasters have warned that 40% of post offices could close unless Government f
 
 ---
 
+## Postmasters warn of closure of 40% of post offices
+
+date: 2025-06-25, from: RTÉ News
+
+Postmasters have warned that 40% of post offices could close unless Government funding for the network is increased. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0625/1520286-post-office-closures/>
+
+---
+
 ## Research shows significant gender disparity in para sport
 
 date: 2025-06-25, from: RTÉ News
@@ -258,6 +841,18 @@ Ireland's forestry sector is in "total disarray" with just a fraction of plantin
 <br> 
 
 <https://www.rte.ie/news/politics/2025/0625/1520280-forestry-industry/>
+
+---
+
+## From the Backyard (of My Parents): Vacation
+
+date: 2025-06-25, from: Vatican Obervatory
+
+This past week I was blessed with a time of rest. This rest didn&#8217;t include an exciting trip to an exotic destination&#8230; well&#8230; depending on your... 
+
+<br> 
+
+<https://www.vaticanobservatory.org/general/from-the-backyard-of-my-parents-vacation/>
 
 ---
 
@@ -315,7 +910,7 @@ A High Court judge has deferred giving her judgment on the future of an IPAS cen
 
 ## $1 towards a girl’s education = $3 for the global economy: That's how development works
 
-date: 2025-06-25, from: United Nations, Economic Development
+date: 2025-06-25, from: United Nations, Top Stories
 
 Helping those with less isn’t charity – it’s a shared investment in a better future. Yet global development financing is under strain. An upcoming UN conference in Sevilla, Spain, aims to change that by mobilizing large-scale investment for a more just and sustainable world. 
 
@@ -339,9 +934,9 @@ Dozens of civilians – including children and school staff – were killed or w
 
 ## Sevilla conference on development financing shows optimism for multilateralism
 
-date: 2025-06-25, from: United Nations, Economic Development
+date: 2025-06-25, from: United Nations, Top Stories
 
-It’s been 10 years since the Addis Ababa Action Agenda was established to support the implementation of the 2030 Agenda for Sustainable Development.&nbsp;&nbsp; 
+It’s been 10 years since the Addis Ababa Action Agenda was established to support the implementation of the 2030 Agenda for Sustainable Development, the world’s roadmap for ending poverty, protecting the planet and tackling inequalities. 
 
 <br> 
 
@@ -377,7 +972,7 @@ The UN Secretary-General has warned that the world today is failing to protect c
 
 date: 2025-06-25, from: United Nations, Top Stories
 
-When Sila, a young woman from Idlib in Syria, was three years-old, she woke up to missiles falling around her, forcing her and her family to flee their home.&nbsp;&nbsp; 
+When Sila, a young woman from Idlib in Syria, was three-years-old, she woke up to missiles falling around her, forcing her and her family to flee their home.&nbsp;&nbsp; 
 
 <br> 
 
@@ -394,6 +989,18 @@ Although nearly 92 per cent of the global population now has basic access to ele
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/06/1164906>
+
+---
+
+## ‘Fuel for Gaza is a matter of life and death,’ UN warns
+
+date: 2025-06-25, from: United Nations, Top Stories
+
+The rapid depletion of the remaining fuel stocks in the Gaza Strip is threatening efforts to keep critical lifelines up and running, the UN reported on Wednesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164946>
 
 ---
 
@@ -653,6 +1260,18 @@ NATO leaders have backed a big increase in defence spending and restated their c
 
 ---
 
+## NATO summit commits to higher spending, mutual defence
+
+date: 2025-06-25, from: RTÉ News
+
+NATO leaders have backed a big increase in defence spending and restated their commitment to defend each other from attack after a brief summit tailor-made for US President Donald Trump. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0625/1520188-nato-summit/>
+
+---
+
 ## Israel-Iran truce holding as both nations claim victory
 
 date: 2025-06-25, from: RTÉ News
@@ -674,6 +1293,18 @@ Lord Henry Mount Charles has been remembered as someone who lived his life with 
 <br> 
 
 <https://www.rte.ie/news/2025/0625/1520182-henry-mount-charles-funeral/>
+
+---
+
+## Lord Henry Mount Charles remembered as a 'people person'
+
+date: 2025-06-25, from: RTÉ News
+
+Lord Henry Mount Charles has been remembered as someone who lived his life with the "conviction" that music is a universal language that can bring people together. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0625/1520182-henry-mount-charles-funeral/>
 
 ---
 
@@ -906,6 +1537,18 @@ Two men have been seriously injured following an explosion on a ship at Shannon 
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0624/1520151-foynes-incident/>
+
+---
+
+## 'We're bringing Ashley back,' mother says at memorial walk 1 year after 28-year-old's death
+
+date: 2025-06-24, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7570029.1750807190!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/memorial-walk-for-ashley-isabella-murdock-june-24-2025-winnipeg.jpg' alt='Group of women hold signs that read &quot;For Ashley&quot; and &quot;You are not forgotten&quot;' width='620' height='349' title='On Tuesday, June 24, 2025, the family of Ashley Isabella Murdock, 28, gathered at Central Park in downtown Winnipeg for a memorial walk to the Wahbung Abinoonjiiag Inc. centre on Dufferin Avenue, where a ceremony of life was held.  '/><p>A year after a First Nations woman was killed in downtown Winnipeg, her family and loved ones held a memorial walk on Tuesday to honour her life and bring her spirit back to the support centre where she felt most at home.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/mmiwg-ashley-murdock-memorial-walk-winnipeg-1.7569806?cmp=rss>
 
 ---
 
@@ -1259,7 +1902,7 @@ A fragile ceasefire brokered by the United States between Iran and Israel appear
 
 ## Bold new initiative aims to strengthen and improve the UN, senior officials tell Member States
 
-date: 2025-06-24, from: United Nations, UN Affairs
+date: 2025-06-24, from: United Nations, Top Stories
 
 Member States heard on Tuesday how the UN is progressing with a new plan to ensure the world body remains effective, cost-efficient and responsive to the billions of people it serves.&nbsp; 
 
@@ -1319,7 +1962,7 @@ The Security Council met Tuesday in New York over the future of the Joint Compre
 
 ## Power to the people; funding community-led development in Somalia
 
-date: 2025-06-24, from: United Nations, Economic Development
+date: 2025-06-24, from: United Nations, Top Stories
 
 A story of grassroots persistence in Somalia could serve as a powerful reminder of the impact of innovative financing mechanisms as the international community meets in Spain to discuss how to fund global sustainable development. 
 
@@ -1697,18 +2340,6 @@ date: 2025-06-24, from: CBC, World News
 
 ---
 
-## Canada promises to spend 5% of GDP on defence by 2035 in pact with NATO leaders
-
-date: 2025-06-24, from: CBC, World News
-
-<img src='https://i.cbc.ca/ais/0529fe52-9d13-4c1b-9050-14c36fef704f,1750863612363/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C173%2C8513%2C4788%29%3BResize%3D%28620%29' alt='Mark Carney standing at podium with Anita Anand, left, and David McGuinty (right) behind him with Canadian flag' width='620' height='349' title='Prime Minister Mark Carney holds a closing press conference with Minister of Foreign Affairs Anita Anand, left and Minister of National Defence David McGuinty following the NATO Summit in The Hague, Netherlands on Wednesday, June 25, 2025. THE CANADIAN PRESS/Sean Kilpatrick'/><p></p> 
-
-<br> 
-
-<https://www.cbc.ca/news/politics/canada-agrees-five-percent-gdp-defence-spending-1.7570191?cmp=rss>
-
----
-
 ## Ontario Human Rights Commission offers hiring guidance to avoid Indigenous identity fraud
 
 date: 2025-06-24, from: CBC, Indigenious News
@@ -2009,7 +2640,7 @@ After surprise US bombing raids on Iranian uranium enrichment facilities over th
 
 ## Asia is warming twice as fast as the rest of the world
 
-date: 2025-06-23, from: United Nations, Climate Change
+date: 2025-06-23, from: United Nations, Top Stories
 
 In April 2024, China broke the average temperature record that month. The following month, it was the same - and then again in August. And September. And November. 
 
@@ -2093,7 +2724,7 @@ The food security situation in Government-controlled areas of southern Yemen is 
 
 ## UN80 Initiative: What it is – and why it matters to the world
 
-date: 2025-06-23, from: United Nations, UN Affairs
+date: 2025-06-23, from: United Nations, Top Stories
 
 In a world grappling with growing crises, deepening inequalities, and eroding trust in global institutions, the United Nations has launched an ambitious effort to strengthen how it serves people everywhere. The UN80 Initiative, unveiled in March by Secretary-General António Guterres, is a system-wide push to streamline operations, sharpen impact, and reaffirm the UN’s relevance for a rapidly changing world. 
 
@@ -2105,7 +2736,7 @@ In a world grappling with growing crises, deepening inequalities, and eroding tr
 
 ## 80 years later, the UN Charter is a ‘living miracle,’ Secretary-General says
 
-date: 2025-06-23, from: United Nations, UN Affairs
+date: 2025-06-23, from: United Nations, Top Stories
 
 In front of a multimedia exhibit at United Nations Headquarters entitled “Reviving the Spirit of San Francisco,” Secretary-General António Guterres welcomed home the UN Charter which was signed in 1945 in the Californian city.&nbsp; 
 

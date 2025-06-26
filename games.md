@@ -1,11 +1,35 @@
 ---
 title: games
-updated: 2025-06-25 14:08:00
+updated: 2025-06-26 06:08:09
 ---
 
 # games
 
-(date: 2025-06-25 14:08:00)
+(date: 2025-06-26 06:08:09)
+
+---
+
+## What is the protagonist’s canon name in Persona 5 The Phantom X?
+
+date: 2025-06-26, updated: 2025-06-26, from: Polygon Website
+
+When you start Persona 5: The Phantom X, you’ll be tasked with naming the protagonist by writing down your name on a worksheet fairly early. If you’ve played Persona games before, you may be familiar with the protagonists’ “official” names from the series, and want to use the canon name for this game, too. Lucky [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/609030/persona-5-phantom-x-p5x-canon-protagonist-name-change-how-to>
+
+---
+
+## Persona 5 The Phantom X contract gacha banners, explained
+
+date: 2025-06-26, updated: 2025-06-25, from: Polygon Website
+
+Contracts act as the gacha banners in Persona 5: The Phantom X and pulling on a contract banner is how you’ll unlock your favorite character and their iconic weapon. The banners in Persona 5: The Phantom X work similarly to other gacha titles like Honkai: Star Rail, Zenless Zone Zero, and Wuthering Waves, but there [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/609063/persona-5-phantom-x-p5x-gacha-banners-pity-contracts>
 
 ---
 

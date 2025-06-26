@@ -1,11 +1,39 @@
 ---
 title: ham radio
-updated: 2025-06-25 14:07:57
+updated: 2025-06-26 06:08:05
 ---
 
 # ham radio
 
-(date: 2025-06-25 14:07:57)
+(date: 2025-06-26 06:08:05)
+
+---
+
+## Oscilloscope input coupling: Which input termination should be used?
+
+date: 2025-06-26, from: EDN Blog
+
+<img width="804" height="232" src="https://www.edn.com/wp-content/uploads/input-coupling-Figure-5.png?fit=804%2C232" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/input-coupling-Figure-5.png?w=804 804w, https://www.edn.com/wp-content/uploads/input-coupling-Figure-5.png?w=300 300w, https://www.edn.com/wp-content/uploads/input-coupling-Figure-5.png?w=768 768w, https://www.edn.com/wp-content/uploads/input-coupling-Figure-5.png?w=800 800w" sizes="(max-width: 804px) 100vw, 804px" /><p>Oscilloscopes offer 50-Ω and 1-MΩ input terminations for both channels and trigger inputs. When should each be used?</p>
+<p>The post <a href="https://www.edn.com/oscilloscope-input-coupling-which-input-termination-should-be-used/">Oscilloscope input coupling: Which input termination should be used?</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/oscilloscope-input-coupling-which-input-termination-should-be-used/>
+
+---
+
+## A nostalgic technology parade of classic amplifiers
+
+date: 2025-06-26, from: EDN Blog
+
+<img width="800" height="618" src="https://www.edn.com/wp-content/uploads/3-C1237HA-x2_TK.jpg?fit=800%2C618" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/3-C1237HA-x2_TK.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/3-C1237HA-x2_TK.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/3-C1237HA-x2_TK.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Here is how some analog chips pass the test of time and are still in action after so many years.</p>
+<p>The post <a href="https://www.edn.com/a-nostalgic-technology-parade-of-classic-amplifiers/">A nostalgic technology parade of classic amplifiers</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/a-nostalgic-technology-parade-of-classic-amplifiers/>
 
 ---
 
@@ -13,7 +41,7 @@ updated: 2025-06-25 14:07:57
 
 date: 2025-06-25, from: EDN Blog
 
-<img width="656" height="412" src="https://www.edn.com/wp-content/uploads/TBHPWM_Figure1.png?fit=656%2C412" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/TBHPWM_Figure1.png?w=656 656w, https://www.edn.com/wp-content/uploads/TBHPWM_Figure1.png?w=300 300w" sizes="(max-width: 656px) 100vw, 656px" /><p>Using the Take Back Half approach to effectively “take back” the error terms for theoretically zero integral nonlinearity.</p>
+<img width="656" height="412" src="https://www.edn.com/wp-content/uploads/TBHPWM_Figure1.png?fit=656%2C412" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/TBHPWM_Figure1.png?w=656 656w, https://www.edn.com/wp-content/uploads/TBHPWM_Figure1.png?w=300 300w" sizes="auto, (max-width: 656px) 100vw, 656px" /><p>Using the Take Back Half approach to effectively “take back” the error terms for theoretically zero integral nonlinearity.</p>
 <p>The post <a href="https://www.edn.com/take-back-half-improves-pwm-integral-linearity-and-settling-time/">Take back half improves PWM integral linearity and settling time</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

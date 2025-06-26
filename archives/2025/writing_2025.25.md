@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-06-25 14:07:59
+updated: 2025-06-26 06:08:08
 ---
 
 # writing
 
-(date: 2025-06-25 14:07:59)
+(date: 2025-06-26 06:08:08)
+
+---
+
+## Meta Wins on Fair Use for Now, but Court Leaves Door Open for “Market Dilution”
+
+date: 2025-06-26, from: Author's Union blog
+
+“Market dilution” suggests that “using copyrighted books to train an LLM might harm the market for those works because it enables the rapid generation of countless works that compete with the originals, even if those works aren’t themselves infringing.” 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/06/26/meta-wins-on-fair-use-for-now-but-court-leaves-door-open-for-market-dilution/>
 
 ---
 

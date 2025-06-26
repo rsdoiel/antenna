@@ -1,11 +1,72 @@
 ---
 title: motorcycles
-updated: 2025-06-25 14:08:02
+updated: 2025-06-26 06:08:11
 ---
 
 # motorcycles
 
-(date: 2025-06-25 14:08:02)
+(date: 2025-06-26 06:08:11)
+
+---
+
+## Giant Motorcycle Dealership Collapses Into Administration, Leaving Customers Hanging
+
+date: 2025-06-26, from: Ride Apart, Electric Motorcycle News
+
+The debt is absolutely staggering. 
+
+<br> 
+
+<https://www.rideapart.com/news/763745/motorcycle-retail-giant-peter-stevens-administratin/>
+
+---
+
+## NASCAR Channel & FloSports To Simulcast 7 Live Events
+
+date: 2025-06-26, from: Kickin the Tires blog
+
+DAYTONA BEACH, Fla. (June 25, 2025) – NASCAR and FloSports today announced that seven live events will be simulcast on the NASCAR Channel and FloRacing. June 30 – Cookout Summer&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-channel-flosports-to-simulcast-7-live-events/>
+
+---
+
+## Royal Enfield Has a New Flat-Track Motorcycle, But You Can’t Buy It
+
+date: 2025-06-26, from: Ride Apart, Electric Motorcycle News
+
+The FT450 could inspire future custom builds of the bike it’s based on, the Guerrilla 450. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/763757/royal-enfield-ft450-guerrilla-450-slide-school/>
+
+---
+
+## Here's When a Few New KTMs Will Hit Dealerships, But What About the Bikes Still Sitting On Lots?
+
+date: 2025-06-26, from: Ride Apart, Electric Motorcycle News
+
+It's great to see new KTMs hitting the shelves, but everyone wants to know when the deals are coming. 
+
+<br> 
+
+<https://www.rideapart.com/news/763736/new-ktm-models-dealer-launch-dates/>
+
+---
+
+## Harvard’s Crack-Proof Rubber Could Be a Game Changer For Motorcycles and More
+
+date: 2025-06-26, from: Ride Apart, Electric Motorcycle News
+
+And a whole lot of other things, too.  
+
+<br> 
+
+<https://www.rideapart.com/news/763764/harvard-crack-proof-rubber-big-deal-motorcycle-powersports/>
 
 ---
 

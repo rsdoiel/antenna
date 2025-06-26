@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2025-06-25 14:07:57
+updated: 2025-06-26 06:08:06
 ---
 
 # science and technology
 
-(date: 2025-06-25 14:07:57)
+(date: 2025-06-26 06:08:06)
+
+---
+
+## NASA, Australia Team Up for Artemis II Lunar Laser Communications Test
+
+date: 2025-06-26, from: NASA breaking news
+
+As NASA prepares for its Artemis II mission, researchers at the agency’s Glenn Research Center in Cleveland are collaborating with The Australian National University (ANU) to prove inventive, cost-saving laser communications technologies in the lunar environment. Communicating in space usually relies on radio waves, but NASA is exploring laser, or optical, communications, which can send [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/humans-in-space/nasa-australia-team-up-for-artemis-ii-lunar-laser-communications-test/>
+
+---
+
+## Kaseya CEO: Why AI adoption is below industry expectations
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>Business data is fragmented and change management is hard</h4> <p><strong>Interview</strong>  Adoption of generative AI for enterprise customers isn&#39;t taking off in the manner many in the industry expected – and there are major obstacles in the way, according to Rania Succar, recently appointed CEO at Kaseya.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/kaseya_ceo_why_ai_adoption/>
+
+---
+
+## Glasgow City Council online services crippled following cyberattack
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>Nothing confirmed but authority is operating under the assumption that data has been stolen</h4> <p>A cyberattack on Glasgow City Council is causing massive disruption with a slew of its digital services unavailable.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/glasgow_city_council_cyberattack/>
+
+---
+
+## Qilin ransomware attack on NHS supplier contributed to patient fatality
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>Pathology outage caused by Synnovis breach linked to harm across dozens of healthcare facilities</h4> <p>The NHS says Qilin&#39;s ransomware attack on pathology services provider Synnovis last year led to the death of a patient.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/qilin_ransomware_nhs_death/>
+
+---
+
+## OpenDylan sheds some parentheses in 2025.1 update
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>Apple&#39;s advanced next-generation Lisp is still being maintained as FOSS</h4> <p>OpenDylan is a Lisp without all the parentheses – just as John McCarthy originally intended for LISP-2.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/opendylan_20251_released/>
+
+---
+
+## UK to buy nuclear-capable F-35As that can't be refueled from RAF tankers
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>Aircraft meant to bolster NATO deterrent will rely on allied support to stay airborne</h4> <p>The UK government is to buy 12 F-35A fighters capable of carrying nuclear weapons as part of the NATO deterrent, but there&#39;s a snag: the new jets are incompatible with the RAF&#39;s refueling tanker aircraft.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/uk_f_35a_refuel_hitch/>
+
+---
+
+## Frozen foods supermarket chain deploys facial recognition tech
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>Privacy campaigner brands Iceland&#39;s use of &#39;Orwellian&#39; camera tech &#39;chilling,&#39; CEO responds: &#39;It&#39;ll cut violent crime&#39;</h4> <p>Privacy campaigners are branding frozen food retailer Iceland&#39;s decision to trial facial recognition technology (FRT) at several stores &#34;chilling&#34; – the UK supermarket chain says it&#39;s deploying the cameras to cut down on crime.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/iceland_facial_recognition/>
+
+---
+
+## Top AI models - even American ones - parrot Chinese propaganda, report finds
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>Communist Party tracts in, Communist Party opinions out</h4> <p>Five popular AI models all show signs of bias toward viewpoints promoted by the Chinese Communist Party, and censor material it finds distasteful, according to a new report.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/top_ai_models_parrot_chinese/>
+
+---
+
+## That WhatsApp from an Israeli infosec expert could be a Iranian phish
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>Charming Kitten unsheathes its claws and tries to catch credentials</h4> <p>The cyber-ops arm of Iran&#39;s Islamic Revolutionary Guard Corps has started a spear-phishing campaign intent on stealing credentials from Israeli journalists, cybersecurity experts, and computer science professors from leading Israeli universities.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/that_whatsapp_from_an_israeli/>
+
+---
+
+## French city of Lyon ditching Microsoft for open source office and collab tools
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>Ingredients of future software salade Lyonnaise will include Linux, PostgreSQL, and OnlyOffice</h4> <p>The French city of Lyon has decided to ditch Microsoft’s Office suite and plans to adopt Linux and PostgreSQL.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/lyon_leaving_microsoft/>
+
+---
+
+## Japanese company using mee-AI-ow to detect stressed cats
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>Rabo’s ‘Catlog’ smart collar sniffs for freaked-out felines, alerts owners with an app</h4> <p>A Japanese company called Rabo that makes a smart collar for cats and uses the motto “Because nine lives are never enough” has started using AI to monitor feline stress levels.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/rabo_catlog_ai_stress_detector/>
+
+---
+
+## AFRINIC election annulled after ICANN writes angry letter to African regional internet registry after election suspended
+
+date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>The group in charge of IP addresses for 54 countries hasn&#39;t had a board since 2022</h4> <p><strong>Updated</strong>  The Internet Corporation for Assigned Numbers (ICANN) has demanded the African Network Information Centre (AFRINIC) explain why the nomination committee overseeing its board elections suspended voting, or face disciplinary action.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/26/icann_letter_afrinic_election_suspended/>
+
+---
+
+## Intel totals automotive group
+
+date: 2025-06-25, updated: 2025-06-26, from: The Register (UK I.T. News)
+
+<h4>Lip-Bu Tan calls in the crusher</h4> <p>Intel is shuttering its automotive efforts and laying off the bulk of the team responsible.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/intel_automotive_layoffs/>
+
+---
+
+## Visiting students can't hide social media accounts from Uncle Sam anymore
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>Visa seekers are reportedly censoring their own posts to visit the land of the free</h4> <p>The US State Department last week said foreign nationals seeking to study in the US must make their social media profiles public, prompting some students to delete their social media posts.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/us_student_visa_applicants_social_media_public/>
+
+---
+
+## Citrix bleeds again: This time a zero-day exploited - patch now
+
+date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+
+<h4>Two emergency patches issued in two weeks</h4> <p>Hot on the heels of patching a critical bug in Citrix-owned Netscaler ADC and NetScaler Gateway that one security researcher dubbed &#34;CitrixBleed 2,&#34; the embattled networking device vendor today issued an emergency patch for yet another super-serious flaw in the same products — but not before criminals found and exploited it as a zero-day.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/25/citrix_netscaler_critical_bug_exploited/>
+
+---
+
+## NASA’s Chandra Shares a New View of Our Galactic Neighbor
+
+date: 2025-06-25, from: NASA breaking news
+
+The Andromeda galaxy, also known as Messier 31 (M31), is the closest spiral galaxy to the Milky Way at a distance of about 2.5 million light-years. Astronomers use Andromeda to understand the structure and evolution of our own spiral, which is much harder to do since Earth is embedded inside the Milky Way. The galaxy [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-chandra-shares-a-new-view-of-our-galactic-neighbor/>
 
 ---
 
@@ -25,7 +217,7 @@ date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
 
 date: 2025-06-25, from: NASA breaking news
 
-Students attending the U.S. Space and Rocket Center Space Camp in Huntsville, Alabama, will have the chance to hear NASA astronauts aboard the International Space Station answer their prerecorded questions. At 12:40 p.m. EDT on Tuesday, July 1, NASA astronauts Anne McClain, Jonny Kim, and Nichole Ayers will answer student questions. Ayers is a space [&#8230;] 
+Editor’s Note: This advisory was updated Thursday, June 26, to note that the time of the event has changed to 12:50 p.m. EDT. Students attending the U.S. Space and Rocket Center Space Camp in Huntsville, Alabama, will have the chance to hear NASA astronauts aboard the International Space Station answer their prerecorded questions. At 12:50 [&#8230;] 
 
 <br> 
 
@@ -97,7 +289,7 @@ What are asteroids? Asteroids are rocky objects that orbit the Sun just like pla
 
 date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
 
-<h4>A bottomless appetite for tracking people as &#34;objects&#34;</h4> <p>A new study shows academic computer vision papers feeding surveillance-enabling patents jumped more than fivefold from the 1990s to the 2010s.…</p> 
+<h4>A bottomless appetite for tracking people as &#39;objects&#39;</h4> <p>A new study shows academic computer vision papers feeding surveillance-enabling patents jumped more than fivefold from the 1990s to the 2010s.…</p> 
 
 <br> 
 
@@ -133,7 +325,7 @@ During his work on several historic missions, Casani rose through a series of te
 
 date: 2025-06-25, from: NASA breaking news
 
-Editor&#8217;s note: This interview was conducted in October 2023.&#160; As the International Space Station approaches 25 years of continuous human presence on Nov. 2, 2025, it is a meaningful moment to recognize those who have been there since the beginning—sharing the remarkable achievements of human spaceflight with the world.&#160;&#160;&#160; If you have ever witnessed the [&#8230;] 
+Editor&#8217;s note: This interview was conducted in October 2023.&#160; As the International Space Station approaches 25 years of continuous human presence on Nov. 2, 2025, it is a meaningful moment to recognize those who have been there since the beginning—sharing the story of human spaceflight with the world.&#160;&#160;&#160; If you have ever witnessed the live [&#8230;] 
 
 <br> 
 
@@ -251,9 +443,9 @@ date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
 
 ## Brit politicians question Fujitsu's continued role in public sector contracts
 
-date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
+date: 2025-06-25, updated: 2025-06-26, from: The Register (UK I.T. News)
 
-<h4>Despite Horizon scandal promises to end bidding, bids keep popping up</h4> <p>British MPs and peers are questioning the government&#39;s decision to continue accepting bids for large-scale IT contracts from Fujitsu, despite the Japanese supplier&#39;s previous pledge to stop bidding.…</p> 
+<h4>Despite Horizon scandal promises to end bidding, bids keep popping up</h4> <p><strong>Updated</strong>  British MPs and peers are questioning the government&#39;s decision to continue accepting bids for large-scale IT contracts from Fujitsu, despite the Japanese supplier&#39;s previous pledge to stop bidding.…</p> 
 
 <br> 
 
@@ -301,7 +493,7 @@ date: 2025-06-25, updated: 2025-06-25, from: The Register (UK I.T. News)
 
 date: 2025-06-25, from: NASA breaking news
 
-As part of NASA’s efforts to expand access to space, four private astronauts are in orbit following the successful launch of the fourth all private astronaut mission to the International Space Station. A SpaceX Dragon spacecraft lifted off at 2:31 a.m. EDT Wednesday from Launch Complex 39A at NASA’s Kennedy Space Center in Florida, carrying [&#8230;] 
+Editor’s note: This advisory was updated June 26, 2025, to reflect a change in the docking coverage on NASA+ for Axiom Mission 4, as well as the Dragon spacecraft’s arrival at the International Space Station. As part of NASA’s efforts to expand access to space, four private astronauts are in orbit following the successful launch [&#8230;] 
 
 <br> 
 

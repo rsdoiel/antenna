@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-06-25 14:08:04
+updated: 2025-06-26 06:08:14
 ---
 
 # craft
 
-(date: 2025-06-25 14:08:04)
+(date: 2025-06-26 06:08:14)
+
+---
+
+## Fitting the Lock – A Commentary on “The Joiner and Cabinet Maker”
+
+date: 2025-06-26, from: Lost Arg Press blog
+
+The following is excerpted from “The Joiner and Cabinet Maker,” by Anonymous, Christopher Schwarz and Joel Moskowitz. It begins in 1839. In that year, an English publisher issued a small book on woodworking that has – until now – escaped detection by scholars, historians and woodworkers.&#160;Titled “The Joiner and Cabinet Maker,” this short book was... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/06/26/fitting-the-lock-a-commentary-on-the-joiner-and-cabinet-maker/>
 
 ---
 

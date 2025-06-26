@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-06-25 14:08:01
+updated: 2025-06-26 06:08:10
 ---
 
 # libraries
 
-(date: 2025-06-25 14:08:01)
+(date: 2025-06-26 06:08:10)
+
+---
+
+## Digitizing Democracy: Louis Brizuela Takes Viewers Behind Microfiche Scanning Livestream
+
+date: 2025-06-26, from: Internet Archive Blog
+
+Louis Brizuela says managing the microfiche digitization center for Democracy’s Library gives him a sense of pride. “I feel like I’m making a difference,” said the 28-year-old who lives in [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/06/26/digitizing-democracy-louis-brizuela-takes-viewers-behind-microfiche-scanning-livestream/>
+
+---
+
+## Did My Father’s World Die with Him? Grieving the Incalculable Costs of “STEM.”
+
+date: 2025-06-26, from: Scholarly Kitchen
+
+<p>Grieving my father's death feels inextricably tangled with grieving the catastrophe overtaking the whole of our research infrastructure.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/06/26/did-my-fathers-world-die-with-him-grieving-the-incalculable-costs-of-stem/">Did My Father’s World Die with Him? Grieving the Incalculable Costs of “STEM.”</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/06/26/did-my-fathers-world-die-with-him-grieving-the-incalculable-costs-of-stem/>
 
 ---
 

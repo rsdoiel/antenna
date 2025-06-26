@@ -1,11 +1,465 @@
 ---
 title: pacific
-updated: 2025-06-25 14:07:56
+updated: 2025-06-26 06:08:05
 ---
 
 # pacific
 
-(date: 2025-06-25 14:07:56)
+(date: 2025-06-26 06:08:05)
+
+---
+
+## Why most Pacific governments stand with Israel
+
+date: 2025-06-26, from: 
+
+Amid uncertainty in the Middle East, one thing remains clear: most Pacific governments continue to align themselves with Israel. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565226/why-most-pacific-governments-stand-with-israel>
+
+---
+
+## California woman drowns in Ka‘u
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating a possible drowning Sunday afternoon in Naalehu.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/hawaii-news/california-woman-drowns-in-kau/>
+
+---
+
+## Scientists retrace 30,000-year-old sea voyage, in a hollowed-out log
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>In 1947, against the best navigational advice, Norwegian explorer Thor Heyerdahl and five crew members set sail from Peru on a balsa wood raft to test his theory that ancient South American cultures could have reached Polynesia. The frail vessel, called Kon-Tiki, crossed several thousand nautical miles of the Pacific in 103 days and showed that his anthropological hunch was at least feasible.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/nation-world-news/scientists-retrace-30000-year-old-sea-voyage-in-a-hollowed-out-log/>
+
+---
+
+## Popoki Target Area the subject of Pahoa meeting
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Army Corps of Engineers will be present at a public information booth from 11 a.m. to 2 p.m. on Sunday, July 20, at the Maku&#8216;u Farmer&#8217;s Market on Highway 130 near Pahoa.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/hawaii-news/popoki-target-area-the-subject-of-pahoa-meeting/>
+
+---
+
+## Plan to cut isle gas emissions from vehicles takes shape
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Department of Transportation has a draft plan to largely eliminate greenhouse gas emissions from ground, air and ocean transportation vehicles in the state by 2045.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/hawaii-news/plan-to-cut-isle-gas-emissions-from-vehicles-takes-shape/>
+
+---
+
+## Comparing US Iran strike to Hiroshima, Trump plays down intelligence report
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump compared the impact of American strikes on Iranian nuclear sites to the end of World War II on Wednesday, arguing that the damage was severe even though available intelligence reports were inconclusive.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/nation-world-news/comparing-us-iran-strike-to-hiroshima-trump-plays-down-intelligence-report/>
+
+---
+
+## Trump says Washington to hold talks with Iran after US ‘victory’
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump hailed the swift end to war between Iran and Israel and said Washington would likely seek a commitment from Tehran to end its nuclear ambitions at talks with Iranian officials next week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/nation-world-news/trump-says-washington-to-hold-talks-with-iran-after-us-victory/>
+
+---
+
+## A new political star emerges out of a fractured Democratic party
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; In a soaring speech on a Queens rooftop in the early minutes of Wednesday morning, Zohran Mamdani, the presumptive winner of the Democratic primary for mayor of New York City, promised to lift up New York City&#8217;s working class and serve as a model for the future of his party.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/nation-world-news/a-new-political-star-emerges-out-of-a-fractured-democratic-party/>
+
+---
+
+## News in brief for June 26
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>Meta fends off authors&#8217; &#0010;US copyright lawsuit over AI</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/nation-world-news/news-in-brief-for-june-26-2/>
+
+---
+
+## Trump’s budget plan shifts wealth from young to old, analysts say
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump&#8217;s sweeping tax-cut legislation would effectively transfer wealth from younger Americans to older generations, nonpartisan analysts say.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/nation-world-news/trumps-budget-plan-shifts-wealth-from-young-to-old-analysts-say/>
+
+---
+
+## Nvidia hits record high as analyst predicts AI ‘Golden Wave’
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>Nvidia&#8217;s stock hit a record high on Wednesday, and the chipmaker reclaimed the crown as the world&#8217;s most valuable company after an analyst said the chipmaker was set to ride a &#8220;Golden Wave&#8221; of artificial intelligence.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/nation-world-news/nvidia-hits-record-high-as-analyst-predicts-ai-golden-wave/>
+
+---
+
+## Kennedy’s US vaccine panel breaks norms, plans to review immunization schedule
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO &#8212; U.S. Health Secretary Robert F. Kennedy Jr.&#8217;s newly reconstituted vaccine advisory panel said during its first meeting on Wednesday that it would study the schedule of childhood and adolescent immunizations and review the use of older vaccines.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/nation-world-news/kennedys-us-vaccine-panel-breaks-norms-plans-to-review-immunization-schedule/>
+
+---
+
+## US is creating 2 new expanded military zones along border with Mexico
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Pentagon is creating two additional expanded military zones at the southwestern border, to be patrolled by U.S. soldiers, in the Trump administration&#8217;s latest step to militarize the boundary with Mexico to help further reduce already dwindling migrant crossings.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/nation-world-news/us-is-creating-2-new-expanded-military-zones-along-border-with-mexico/>
+
+---
+
+## Trump says he may send additional patriot systems to Ukraine
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; President Donald Trump said Wednesday that he was weighing sending additional Patriot air defense systems to Ukraine amid intensifying Russian attacks. But it was not immediately clear whether Trump was considering donating the Patriots to Ukraine &#8212; as his predecessor, former President Joe Biden, and several European allies have done &#8212; or selling them to Kyiv.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/nation-world-news/trump-says-he-may-send-additional-patriot-systems-to-ukraine/>
+
+---
+
+## NATO agrees to a big increase in military spending, pleasing Trump
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>THE HAGUE, Netherlands &#8212; A NATO summit designed to please President Donald Trump ended Wednesday with his European allies approving an ambitious spending goal to meet the threat of a militarizing Russia, and clinching a long-elusive public commitment from the mercurial American leader for the alliance&#8217;s collective defense.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/nation-world-news/nato-agrees-to-a-big-increase-in-military-spending-pleasing-trump/>
+
+---
+
+## Trump cannot end union bargaining for federal workers, judge rules
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge on Tuesday blocked Republican President Donald Trump&#8217;s administration from eliminating union bargaining for hundreds of thousands of federal workers at 21 agencies. U.S. District Judge James Donato in San Francisco agreed with the American Federation of Government Employees and other unions that Trump&#8217;s March 27 executive order exempting many federal agencies from obligations to bargain with unions was likely illegal.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/nation-world-news/trump-cannot-end-union-bargaining-for-federal-workers-judge-rules/>
+
+---
+
+## Astronauts from India, Poland, Hungary launched on first space station mission
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>CAPE CANAVERAL, Florida &#8212; NASA retiree turned private astronaut Peggy Whitson was launched on the fifth flight to orbit of her career early on Wednesday, joined by crewmates from India, Poland and Hungary heading for their countries&#8217; first visit to the International Space Station.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/nation-world-news/astronauts-from-india-poland-hungary-launched-on-first-space-station-mission/>
+
+---
+
+## US new home sales fall more than expected in May; inventory rises
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Sales of new U.S. single-family homes fell more than expected in May as high mortgage rates sapped demand, boosting the supply of unsold houses on the market. New home sales units dropped 13.7% to a seasonally adjusted annualized rate of 623,000 units last month, the Commerce Department&#8217;s Census Bureau said on Wednesday. The sales pace for April was revised lower to a rate of 722,000 units from the previously reported 743,000 units.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/nation-world-news/us-new-home-sales-fall-more-than-expected-in-may-inventory-rises/>
+
+---
+
+## Bezos and Sanchez arrive in Venice for marathon wedding party
+
+date: 2025-06-26, from: Hawaii Tribune Harold
+
+
+				<p>VENICE &#8212; Amazon founder Jeff Bezos and his journalist fiancee Lauren Sanchez arrived in Venice on Wednesday ahead of three days of lavish VIP parties in the romantic lagoon city to celebrate their wedding, despite protests from locals.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/26/nation-world-news/bezos-and-sanchez-arrive-in-venice-for-marathon-wedding-party/>
+
+---
+
+## ASTRO names key officer to lead off Guam’s 3D printing venture
+
+date: 2025-06-26, from: Pacific Island Times
+
+ASTRO named Alex Benham as director and general manager for the Guam Advanced Materials &#38; Manufacturing Accelerator or GAMMA. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/astro-names-key-officer-to-lead-off-guam-s-3d-printing-venture>
+
+---
+
+## Houses handed over
+
+date: 2025-06-26, from: Marshal Islands Journal
+
+<p>WILMER JOEL US Ambassador Laura Stone attended the turnover of two housing projects under the US Department of Agriculture and the Marshall Islands Development Bank in Jenrok and Delap earlier this month. Ambassador Stone praised the efforts of the housing program, stating that they demonstrate the partnership between the Marshall Islands and the United States. [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/houses-handed-over/">Houses handed over</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/houses-handed-over/>
+
+---
+
+## House OKs establishment of regional Veterans Affairs office on Guam
+
+date: 2025-06-26, from: Pacific Island Times
+
+The U.S. House of Representatives has voted for a proposal to open a permanent
+
+Veterans Affairs Regional Office on Guam, which would serve the needs of veterans on island and the region. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/house-oks-establishment-of-regional-veterans-affairs-office-on-guam>
+
+---
+
+## Public School System suspends off-island travel until further notice
+
+date: 2025-06-26, updated: 2025-06-26, from: Marianas Variety
+
+AS a cost-saving initiative, Commissioner of Education Dr. Lawrence F. Camacho has suspended all travel by Public School System employees “until further notice.” 
+
+<br> 
+
+<https://www.mvariety.com/news/local/public-school-system-suspends-off-island-travel-until-further-notice/article_b9c55f4c-d79f-4076-b3ce-0f5e7eae8b70.html>
+
+---
+
+## Liberation festivities canceled due to heavy rains and flooding
+
+date: 2025-06-26, updated: 2025-06-26, from: Marianas Variety
+
+THE Saipan Mayor’s Office and the Liberation Day Committee would like to inform the public that due to heavy rains and flooding, Thursday evening’s Liberation festivities have been canceled. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/liberation-festivities-canceled-due-to-heavy-rains-and-flooding/article_3c550147-ee5e-4bb7-a711-cad791229931.html>
+
+---
+
+## Concert highlights youth gathering
+
+date: 2025-06-26, from: Marshal Islands Journal
+
+<p>Every two years, the United Church of Christ or Jarin Rarik Doon convenes its youth convention, bringing over a thousand youth together for two weeks of bible studies, activities and fellowship. Youth convention year also means the always much-awaited concert night on the closing Sunday of the event. Last Sunday’s concert night was run with [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/concert-highlights-youth-gathering/">Concert highlights youth gathering</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/concert-highlights-youth-gathering/>
+
+---
+
+## Pasifika Sipoti in brief for 26 June
+
+date: 2025-06-26, from: 
+
+A round-up of sports news from around the region, including Pasifika heritage players in France's squad to face the All Blacks. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565221/pasifika-sipoti-in-brief-for-26-june>
+
+---
+
+## PNG hands over majority stakes in BCL to Autonomous Bougainville Government
+
+date: 2025-06-26, from: 
+
+This transfer, valued at approximately NZ$56 million at current market rates, is expected to be formally announced by Prime Minister James Marape on Thursday. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565215/png-hands-over-majority-stakes-in-bcl-to-autonomous-bougainville-government>
+
+---
+
+## Deep sea mining decision already made, Cook Islands opposition leader says
+
+date: 2025-06-26, from: 
+
+Tina Browne, who has called for a pause on deep sea mining, says she is fine with exploration and the actual mining if it is deemed environmentally safe. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565212/deep-sea-mining-decision-already-made-cook-islands-opposition-leader-says>
+
+---
+
+## 5 Rainbow Wahine earn Academic All-District honors
+
+date: 2025-06-26, from: University of Hawaiʻi News
+
+<p>Rose Forshaw, Helen Hoadley, Catherine Touchette, Lilian Turbin and Tara Wyllie represented the <abbr>UH</abbr> Mānoa track and field team.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/25/track-and-field-academic-all-district/">5 Rainbow Wahine earn Academic All-District honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/25/track-and-field-academic-all-district/>
+
+---
+
+## UH economist recognized for contributions to global economic research
+
+date: 2025-06-26, from: University of Hawaiʻi News
+
+<p>Sumner La Croix is honored for his influential work in economic history and Asia-Pacific research.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/25/economist-recognized-global-economic-research/"><abbr>UH</abbr> economist recognized for contributions to global economic research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/25/economist-recognized-global-economic-research/>
+
+---
+
+## Senator hits military's surreptitious use of Guam as a decoy in Iran strike 
+
+date: 2025-06-25, from: Pacific Island Times
+
+Before the U.S. launched air strikes on Iran, six B-2 stealth bombers departed from Whiteman Air Force Base in Missouri and were reportedly heading to Andersen Air Force Base on Guam. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/senator-hits-military-s-surreptitious-use-of-guam-as-a-decoy-in-iran-strike>
+
+---
+
+## Ronnie wins tourney
+
+date: 2025-06-25, from: Marshal Islands Journal
+
+<p>Team Kirtake with Captain Ronnie Reimers took out first place in Saturday’s Marshalls Billfish Club’s Total Qualifying Pounds Tuna and Lazarus Andrike Memorial Biggest Qualifying Yellowfin tournament. Kirtake’s catch included four qualifying yellowfin tuna weighing 40, 50, 54, and 75 pounds, making a total of 219 pounds to take out the total qualifying pounds tuna [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/ronnie-wins-tourney/">Ronnie wins tourney</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/ronnie-wins-tourney/>
+
+---
+
+## Pacific news in brief for 26 June
+
+date: 2025-06-25, from: 
+
+A round-up of Pacific news from around the region, including Tongan MPs to get approximately NZ$69,000 in constituency funds to spend ahead of the November election. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565194/pacific-news-in-brief-for-26-june>
+
+---
+
+## 'Diplomacy and peace are the way forward—not more bombs:' Activists protest military buildup in the CNMI 
+
+date: 2025-06-25, from: Pacific Island Times
+
+CNMI and Guam activists stage a rally protesting the military buildup in the CNMI. Photo by Bryan Manabat By Bryan Manabat Saipan —... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/diplomacy-and-peace-are-the-way-forward-not-more-bombs-activists-protest-military-buildup-in-the>
 
 ---
 
@@ -33,12 +487,12 @@ Police in Papua New Guinea say the country's overrun courts and prisons are behi
 
 ---
 
-## UH launches AI Planning Group to equip students, faculty across 10 campuses
+## UH launching AI Planning Group to equip students, faculty across 10 campuses
 
 date: 2025-06-25, from: University of Hawaiʻi News
 
 <p>The initiative aims to prepare <abbr>UH</abbr> students for a workforce where <abbr>AI</abbr> is rapidly reshaping jobs and the economy,</p>
-The post <a href="https://www.hawaii.edu/news/2025/06/25/uh-launches-ai-planning-group/"><abbr>UH</abbr> launches <abbr>AI</abbr> Planning Group to equip students, faculty across 10 campuses</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2025/06/25/uh-launches-ai-planning-group/"><abbr>UH</abbr> launching <abbr>AI</abbr> Planning Group to equip students, faculty across 10 campuses</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <br> 
 
@@ -56,6 +510,90 @@ The post <a href="https://www.hawaii.edu/news/2025/06/25/image-of-the-week-watch
 <br> 
 
 <https://www.hawaii.edu/news/2025/06/25/image-of-the-week-watching-a-rainbow/>
+
+---
+
+## CNMI launches Aquatic Health Code to protect swimmers and strengthen public health
+
+date: 2025-06-25, updated: 2025-06-26, from: Marianas Variety
+
+THE CNMI, through the Commonwealth Healthcare Corporation is taking a major step forward in public health by launching its first-ever Aquatic Health Code. This new initiative, led by the CNMI CHCC Environmental Health Disease Prevention Program in partnership with the National Environmental Health Association, aims to ensure the safety of pools, spas, splash pads, and other aquatic venues across the islands. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-launches-aquatic-health-code-to-protect-swimmers-and-strengthen-public-health/article_52efe551-5177-43a5-a9ee-3ce39d440a4d.html>
+
+---
+
+## DPL Tinian Director Bernie San Nicolas passes away
+
+date: 2025-06-25, updated: 2025-06-26, from: Marianas Variety
+
+DEPARTMENT of Public Lands Secretary Sixto Igisomar issued the following statement on Wednesday: 
+
+<br> 
+
+<https://www.mvariety.com/news/local/dpl-tinian-director-bernie-san-nicolas-passes-away/article_d7b0c9c0-aa32-461e-bca3-5797b7c7d570.html>
+
+---
+
+## Man struck by car in critical condition
+
+date: 2025-06-25, updated: 2025-06-26, from: Marianas Variety
+
+A 59-year-old man crossing Beach Road from the Moonlight store was struck by a sedan on Tuesday evening, according to the Department of Public Safety. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/man-struck-by-car-in-critical-condition/article_cb56c6df-797d-45af-a0a1-5ea7e7686faa.html>
+
+---
+
+## Oil steadies as investors assess Iran-Israel ceasefire, demand outlook
+
+date: 2025-06-25, updated: 2025-06-26, from: Marianas Variety
+
+LONDON (Reuters) — Oil prices recovered a little on Wednesday after sliding earlier this week, as investors assessed the stability of a ceasefire between Iran and Israel, while support also came from data that showed U.S. demand was relatively strong. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/oil-steadies-as-investors-assess-iran-israel-ceasefire-demand-outlook/article_a105ee8f-818c-4906-a601-8a03767f95cc.html>
+
+---
+
+## Mamdani on verge of winning New York City's Democratic mayoral contest after Cuomo concedes
+
+date: 2025-06-25, updated: 2025-06-26, from: Marianas Variety
+
+NEW YORK (Reuters) — Zohran Mamdani, a 33-year-old state lawmaker and self-described democratic socialist, was poised on Tuesday to win New York City's Democratic mayoral primary in a surprising upset over former New York Governor Andrew Cuomo. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/mamdani-on-verge-of-winning-new-york-citys-democratic-mayoral-contest-after-cuomo-concedes/article_eafe8ff7-652c-4b87-8d31-8f3c8c11bd30.html>
+
+---
+
+## Japanese Society of the NMI announces upcoming cultural and community events
+
+date: 2025-06-25, updated: 2025-06-26, from: Marianas Variety
+
+THE Japanese Society of the Northern Mariana Islands is pleased to announce two major upcoming events celebrating culture, friendship, and remembrance. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/japanese-society-of-the-nmi-announces-upcoming-cultural-and-community-events/article_4d94e42a-7210-4ef4-8292-51299fefef0c.html>
+
+---
+
+## Abraczinskas released from custody
+
+date: 2025-06-25, updated: 2025-06-26, from: Marianas Variety
+
+SUPERIOR Court Judge Pro Tem Elyze Iriarte has granted William Abraczinskas’ request to be released from the custody of the Department of Corrections after he posted a $100,000 appearance bond. He was placed under house arrest. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/abraczinskas-released-from-custody/article_68117c72-e215-429a-b8d3-c3636392e89e.html>
 
 ---
 

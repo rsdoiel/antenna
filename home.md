@@ -1,11 +1,157 @@
 ---
 title: home
-updated: 2025-06-25 14:08:02
+updated: 2025-06-26 06:08:11
 ---
 
 # home
 
-(date: 2025-06-25 14:08:02)
+(date: 2025-06-26 06:08:11)
+
+---
+
+## 18 Shorebirds in Florida (With Pictures and Identification)
+
+date: 2025-06-26, from: Yard Life blog
+
+<p>Florida’s coastline and wetlands provide an excellent home for a variety of shorebirds. These birds, known for their long legs ... </p>
+<p class="read-more-container"><a title="18 Shorebirds in Florida (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/18-shorebirds-in-florida-with-pictures-and-identification/#more-31245" aria-label="Read more about 18 Shorebirds in Florida (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/18-shorebirds-in-florida-with-pictures-and-identification/">18 Shorebirds in Florida (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/18-shorebirds-in-florida-with-pictures-and-identification/>
+
+---
+
+## 3 Common Eagles in Florida (With Pictures and Identification)
+
+date: 2025-06-26, from: Yard Life blog
+
+<p>Florida’s diverse ecosystems provide an ideal habitat for some of the most powerful birds of prey in North America. Among ... </p>
+<p class="read-more-container"><a title="3 Common Eagles in Florida (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-common-eagles-in-florida-with-pictures-and-identification/#more-31236" aria-label="Read more about 3 Common Eagles in Florida (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-common-eagles-in-florida-with-pictures-and-identification/">3 Common Eagles in Florida (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-common-eagles-in-florida-with-pictures-and-identification/>
+
+---
+
+## 10 Hawks in North Dakota (With Pictures and Identification)
+
+date: 2025-06-26, from: Yard Life blog
+
+<p>Hawks in North Dakota are some of the most fascinating birds of prey found across the state. From the widespread ... </p>
+<p class="read-more-container"><a title="10 Hawks in North Dakota (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/10-hawks-in-north-dakota-with-pictures-and-identification/#more-31227" aria-label="Read more about 10 Hawks in North Dakota (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/10-hawks-in-north-dakota-with-pictures-and-identification/">10 Hawks in North Dakota (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/10-hawks-in-north-dakota-with-pictures-and-identification/>
+
+---
+
+## 8 Species of Owls in Maryland (With Pictures and Identification)
+
+date: 2025-06-26, from: Yard Life blog
+
+<p>Maryland is home to a diverse range of owl species, each with its own unique appearance, behavior, and call. From ... </p>
+<p class="read-more-container"><a title="8 Species of Owls in Maryland (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/8-species-of-owls-in-maryland-with-pictures-and-identification/#more-31219" aria-label="Read more about 8 Species of Owls in Maryland (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/8-species-of-owls-in-maryland-with-pictures-and-identification/">8 Species of Owls in Maryland (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/8-species-of-owls-in-maryland-with-pictures-and-identification/>
+
+---
+
+## 35 Small Birds in Arkansas (With Pictures and Identification)
+
+date: 2025-06-26, from: Yard Life blog
+
+<p>Arkansas is home to a rich variety of small birds that brighten its forests, fields, and neighborhoods. Discovering the 35 ... </p>
+<p class="read-more-container"><a title="35 Small Birds in Arkansas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/35-small-birds-in-arkansas-with-pictures-and-identification/#more-31209" aria-label="Read more about 35 Small Birds in Arkansas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/35-small-birds-in-arkansas-with-pictures-and-identification/">35 Small Birds in Arkansas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/35-small-birds-in-arkansas-with-pictures-and-identification/>
+
+---
+
+## Cardinals in Arkansas: A Complete Guide for Bird Lovers
+
+date: 2025-06-26, from: Yard Life blog
+
+<p>The Northern Cardinal is one of the most beloved birds in North America, and in Arkansas, it holds a special ... </p>
+<p class="read-more-container"><a title="Cardinals in Arkansas: A Complete Guide for Bird Lovers" class="read-more button" href="https://ownyardlife.com/cardinals-in-arkansas-a-complete-guide-for-bird-lovers/#more-31204" aria-label="Read more about Cardinals in Arkansas: A Complete Guide for Bird Lovers">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/cardinals-in-arkansas-a-complete-guide-for-bird-lovers/">Cardinals in Arkansas: A Complete Guide for Bird Lovers</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/cardinals-in-arkansas-a-complete-guide-for-bird-lovers/>
+
+---
+
+## 8 Tyes of Squirrels in Texas (With Pictures and Identification)
+
+date: 2025-06-26, from: Yard Life blog
+
+<p>Squirrels in Texas are a familiar and lively part of the state’s wildlife, seen in forests, deserts, parks, and even ... </p>
+<p class="read-more-container"><a title="8 Tyes of Squirrels in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/8-tyes-of-squirrels-in-texas-with-pictures-and-identification/#more-31194" aria-label="Read more about 8 Tyes of Squirrels in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/8-tyes-of-squirrels-in-texas-with-pictures-and-identification/">8 Tyes of Squirrels in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/8-tyes-of-squirrels-in-texas-with-pictures-and-identification/>
+
+---
+
+## 4 Types of Swans in Oregon (With Pictures and Identification)
+
+date: 2025-06-26, from: Yard Life blog
+
+<p>Swans in Oregon are a beautiful sight, especially during the colder months when migratory flocks arrive. With their elegant forms ... </p>
+<p class="read-more-container"><a title="4 Types of Swans in Oregon (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/4-types-of-swans-in-oregon-with-pictures-and-identification/#more-31186" aria-label="Read more about 4 Types of Swans in Oregon (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/4-types-of-swans-in-oregon-with-pictures-and-identification/">4 Types of Swans in Oregon (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/4-types-of-swans-in-oregon-with-pictures-and-identification/>
+
+---
+
+## How to Create the Perfect Outdoor Kitchen, According to Interior Designers
+
+date: 2025-06-25, from: Sunset Magazine - Living in the West
+
+Thinking about adding an outdoor kitchen to your backyard? Designers share their outdoor kitchen ideas for a stylish and functional space. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/outdoor-living/outdoor-kitchen-design>
+
+---
+
+## Volvo Just Fixed a Problem You Didn’t Know Seatbelts Had
+
+date: 2025-06-25, from: Family Handyman Blog
+
+<p>Volvo has been an industry leader in vehicle safety technology and innovation. Their new smart seatbelt system takes safety to the next level.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/volvo-new-smart-seatbelt/">Volvo Just Fixed a Problem You Didn’t Know Seatbelts Had</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/volvo-new-smart-seatbelt/>
 
 ---
 
@@ -95,6 +241,18 @@ date: 2025-06-25, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/lily-valley-toxic/>
+
+---
+
+## Sip with Purpose: Iron Horse Vineyards Supports Coastal Conservation
+
+date: 2025-06-25, from: Sunset Magazine - Living in the West
+
+Popular Northern California vineyard, Iron Horse Vineyards, launched a partnership with Heal the Bay to protect our oceans. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/iron-horse-vineyards-coastal-conservation>
 
 ---
 
@@ -345,6 +503,18 @@ Never having experienced the resort lifestyle, I went straight to the state with
 
 ---
 
+## It’s Not Too Late to Plant These Veggies in Your Summer Garden
+
+date: 2025-06-24, from: Sunset Magazine - Living in the West
+
+Missed the spring planting window? Here are plants and vegetables that still have time to grow this summer.  
+
+<br> 
+
+<https://www.sunset.com/home-garden/edible-gardening/vegetables-to-plant-in-summer>
+
+---
+
 ## These Are the Worst Airlines to Fly in 2025
 
 date: 2025-06-24, from: Sunset Magazine - Living in the West
@@ -354,6 +524,18 @@ The Points Guy released their annual data on the best and worst airlines to fly 
 <br> 
 
 <https://www.sunset.com/travel/worst-airlines-2025>
+
+---
+
+## These Are the Best New Summer Products at Trader Joe’s
+
+date: 2025-06-24, from: Sunset Magazine - Living in the West
+
+What’s new at Trader Joe’s this summer? A lot of sweet treats, picnic essentials, and even some summer skincare finds. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/trader-joes-new-summer-products-2025>
 
 ---
 

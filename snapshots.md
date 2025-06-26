@@ -1,11 +1,287 @@
 ---
 title: snapshots
-updated: 2025-06-25 14:08:06
+updated: 2025-06-26 06:08:15
 ---
 
 # snapshots
 
-(date: 2025-06-25 14:08:06)
+(date: 2025-06-26 06:08:15)
+
+---
+
+## A Deepfake Nightmare: Stalker Allegedly Made Sexual AI Images of Ex-Girlfriends and Their Families
+
+date: 2025-06-26, from: 404 Media Group
+
+An Ohio man is accused of making violent, graphic deepfakes of women with their fathers, and of their children. Device searches revealed he searched for "undress" apps and "ai porn." 
+
+<br> 
+
+<https://www.404media.co/deepfake-harassment-ohio-undress-clothoff-nudify-apps/>
+
+---
+
+## California colleges spend millions to catch plagiarism and AI. Is the faulty tech worth it?
+
+date: 2025-06-26, from: The Markup blog
+
+Colleges and universities renew Turnitin subscriptions year after year even though its flawed detectors are expensive and require students to let the company keep their papers forever. 
+
+<br> 
+
+<https://themarkup.org/artificial-intelligence/2025/06/26/ai-detector-california>
+
+---
+
+## Turnitin charged colleges vastly different amounts to detect plagarism
+
+date: 2025-06-26, from: The Markup blog
+
+Purchasing records show some colleges are paying three times more than others. 
+
+<br> 
+
+<https://themarkup.org/artificial-intelligence/2025/06/26/plagiarism-detector-costs-california>
+
+---
+
+## Meta Wins on Fair Use for Now, but Court Leaves Door Open for “Market Dilution”
+
+date: 2025-06-26, from: Authors Union blogs
+
+“Market dilution” suggests that “using copyrighted books to train an LLM might harm the market for those works because it enables the rapid generation of countless works that compete with the originals, even if those works aren’t themselves infringing.” 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/06/26/meta-wins-on-fair-use-for-now-but-court-leaves-door-open-for-market-dilution/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-26, from: Dave Winer's linkblog)
+
+ICE Has No Right to Anonymity. 
+
+<br> 
+
+<https://www.nytimes.com/2025/06/25/opinion/trump-ice-arrests-los-angeles.html?unlocked_article_code=1.R08.JL5Y.t6czzQYX_BhK&smid=url-share>
+
+---
+
+## Raspberry Pi Pico–powered drum machine
+
+date: 2025-06-26, from: Raspberry Pi News (.com)
+
+<p>Phil King teaches us how to play drum samples at the press of a button with Raspberry Pi Pico.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/raspberry-pi-pico-powered-drum-machine/">Raspberry Pi Pico–powered drum machine</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/raspberry-pi-pico-powered-drum-machine/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-26, from: Feed for Alt USDS)
+
+There’s a kind of tired that sleep doesn’t fix. The world keeps punching and we keep trying to care.
+
+Turns out, we’re not invincible.
+
+You’re not broken. You're not alone. You’re paying attention.
+
+Read our latest: bit.ly/WTBOnBurnout
+https://bit.ly/WTBOnBurnout 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lsia2lbh322m>
+
+---
+
+## New sandboxes from Cloudflare and Vercel
+
+date: 2025-06-26, updated: 2025-06-26, from: Simon Willison’s Weblog
+
+<p>Two interesting new products for running code in a sandbox today.</p>
+<p>Cloudflare <a href="https://blog.cloudflare.com/containers-are-available-in-public-beta-for-simple-global-and-programmable/">launched their Containers product</a> in open beta, and added <a href="https://developers.cloudflare.com/changelog/2025-06-24-announcing-sandboxes/">a new Sandbox library</a> for Cloudflare Workers that can run commands in a "secure, container-based environment":</p>
+<div class="highlight highlight-source-js"><pre><span class="pl-k">import</span> <span class="pl-kos">{</span> <span class="pl-s1">getSandbox</span> <span class="pl-kos">}</span> <span class="pl-k">from</span> <span class="pl-s">"@cloudflare/sandbox"</span><span class="pl-kos">;</span>
+<span class="pl-k">const</span> <span class="pl-s1">sandbox</span> <span class="pl-c1">=</span> <span class="pl-en">getSandbox</span><span class="pl-kos">(</span><span class="pl-s1">env</span><span class="pl-kos">.</span><span class="pl-c1">Sandbox</span><span class="pl-kos">,</span> <span class="pl-s">"my-sandbox"</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+<span class="pl-k">const</span> <span class="pl-s1">output</span> <span class="pl-c1">=</span> <span class="pl-s1">sandbox</span><span class="pl-kos">.</span><span class="pl-en">exec</span><span class="pl-kos">(</span><span class="pl-s">"ls"</span><span class="pl-kos">,</span> <span class="pl-kos">[</span><span class="pl-s">"-la"</span><span class="pl-kos">]</span><span class="pl-kos">)</span><span class="pl-kos">;</span></pre></div>
+<p>Vercel shipped a similar feature, introduced in <a href="https://vercel.com/changelog/run-untrusted-code-with-vercel-sandbox">Run untrusted code with Vercel Sandbox</a>, which enables code that looks like this:</p>
+<div class="highlight highlight-source-js"><pre><span class="pl-k">import</span> <span class="pl-kos">{</span> <span class="pl-v">Sandbox</span> <span class="pl-kos">}</span> <span class="pl-k">from</span> <span class="pl-s">"@vercel/sandbox"</span><span class="pl-kos">;</span>
+
+<span class="pl-k">const</span> <span class="pl-s1">sandbox</span> <span class="pl-c1">=</span> <span class="pl-k">await</span> <span class="pl-v">Sandbox</span><span class="pl-kos">.</span><span class="pl-en">create</span><span class="pl-kos">(</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+<span class="pl-k">await</span> <span class="pl-s1">sandbox</span><span class="pl-kos">.</span><span class="pl-en">writeFiles</span><span class="pl-kos">(</span><span class="pl-kos">[</span>
+    <span class="pl-kos">{</span> <span class="pl-c1">path</span>: <span class="pl-s">"script.js"</span><span class="pl-kos">,</span> <span class="pl-c1">stream</span>: <span class="pl-v">Buffer</span><span class="pl-kos">.</span><span class="pl-en">from</span><span class="pl-kos">(</span><span class="pl-s1">result</span><span class="pl-kos">.</span><span class="pl-c1">text</span><span class="pl-kos">)</span> <span class="pl-kos">}</span><span class="pl-kos">,</span>
+  <span class="pl-kos">]</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+<span class="pl-k">await</span> <span class="pl-s1">sandbox</span><span class="pl-kos">.</span><span class="pl-en">runCommand</span><span class="pl-kos">(</span><span class="pl-kos">{</span>
+    <span class="pl-c1">cmd</span>: <span class="pl-s">"node"</span><span class="pl-kos">,</span>
+    <span class="pl-c1">args</span>: <span class="pl-kos">[</span><span class="pl-s">"script.js"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
+    <span class="pl-c1">stdout</span>: <span class="pl-s1">process</span><span class="pl-kos">.</span><span class="pl-c1">stdout</span><span class="pl-kos">,</span>
+    <span class="pl-c1">stderr</span>: <span class="pl-s1">process</span><span class="pl-kos">.</span><span class="pl-c1">stderr</span><span class="pl-kos">,</span>
+<span class="pl-kos">}</span><span class="pl-kos">)</span><span class="pl-kos">;</span></pre></div>
+<p>In both cases a major intended use-case is safely executing code that has been created by an LLM.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/vercel">vercel</a>, <a href="https://simonwillison.net/tags/cloudflare">cloudflare</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/sandboxing">sandboxing</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/26/sandboxes/#atom-everything>
+
+---
+
+## AI coding tools are perhaps our new terminal emulators
+
+date: 2025-06-26, from: Geoffrey Hunntley's blog
+
+<p>So I&apos;m currently over in San Francisco. I&apos;ve been here for almost two weeks now. I&apos;ll be heading home to my family in a couple of days. But over the weekend, I had the opportunity to drop into the Computer History Museum. I&apos;</p> 
+
+<br> 
+
+<https://ghuntley.com/vt100/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-26, from: Dave Winer's linkblog)
+
+Anthropic now lets you make apps right from its Claude AI chatbot. 
+
+<br> 
+
+<https://www.theverge.com/news/693342/anthropic-claude-ai-apps-artifact>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-25, from: Dave Winer's linkblog)
+
+The alarming rise of US officers hiding behind masks: ‘A police state.’ 
+
+<br> 
+
+<https://www.theguardian.com/us-news/2025/jun/25/immigration-officers-wearing-masks>
+
+---
+
+## Build and share AI-powered apps with Claude
+
+date: 2025-06-25, updated: 2025-06-25, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.anthropic.com/news/claude-powered-artifacts">Build and share AI-powered apps with Claude</a></strong></p>
+Anthropic have added one of the most important missing features to <a href="https://simonwillison.net/tags/claude-artifacts/">Claude Artifacts</a>: apps built as artifacts now have the ability to run their own prompts against Claude via a new API.</p>
+<p>Claude Artifacts are web apps that run in a strictly controlled browser sandbox: their access to features like localStorage or the ability to access external APIs via <code>fetch()</code> calls is restricted by CSP headers and the <code>&lt;iframe sandbox="..."</code> mechanism.</p>
+<p>The new <code>window.claude.complete()</code> method opens a hole that allows prompts composed by the JavaScript artifact application to be run against Claude.</p>
+<p>As before, you can publish apps built using artifacts such that anyone can see them. The moment your app tries to execute a prompt the current user will be required to sign into their own Anthropic account so that the prompt can be billed against them, and not against you.</p>
+<p>I'm amused that Anthropic turned "we added a window.claude.complete() function to Artifacts" into what looks like a major new product launch, but I can't say it's bad marketing for them to do that!</p>
+<p>As always, the crucial details about how this all works are tucked away in tool descriptions in the system prompt. Thankfully this one was <a href="https://claude.ai/share/42b70567-8534-4080-9227-b834e8c13d6e">easy to leak</a>. Here's <a href="https://gist.github.com/simonw/31957633864d1b7dd60012b2205fd747">the full set of instructions</a>, which start like this:</p>
+<blockquote>
+<p>When using artifacts and the analysis tool, you have access to window.claude.complete. This lets you send completion requests to a Claude API. This is a powerful capability that lets you orchestrate Claude completion requests via code. You can use this capability to do sub-Claude orchestration via the analysis tool, and to build Claude-powered applications via artifacts.</p>
+<p>This capability may be referred to by the user as "Claude in Claude" or "Claudeception".</p>
+<p>[...]</p>
+<p>The API accepts a single parameter -- the prompt you would like to complete. You can call it like so: <code>const response = await window.claude.complete('prompt you would like to complete')</code></p>
+</blockquote>
+<p>I haven't seen "Claudeception" in any of their official documentation yet! </p>
+<p>That <code>window.claude.complete(prompt)</code> method is also available to the Claude analysis tool. It takes a string and returns a string.</p>
+<p>The new function only handles strings. The tool instructions provide tips to Claude about prompt engineering a JSON response that will look frustratingly familiar:</p>
+<blockquote><ol start="3">
+<li>Use strict language: Emphasize that the response must be in JSON format only. For example: “Your entire response must be a single, valid JSON object. Do not include any text outside of the JSON structure, including backticks ```.”</li>
+<li>Be emphatic about the importance of having only JSON. If you really want Claude to care, you can put things in all caps – e.g., saying “DO NOT OUTPUT ANYTHING OTHER THAN VALID JSON. DON’T INCLUDE LEADING BACKTICKS LIKE ```json.”.</li></ol></blockquote>
+
+<p>Talk about Claudeception... now even Claude itself knows that you have to YELL AT CLAUDE to get it to output JSON sometimes.</p>
+<p>The API doesn't provide a mechanism for handling previous conversations, but Anthropic works round that by telling the artifact builder how to represent a prior conversation as a JSON encoded array:</p>
+<blockquote><p>Structure your prompt like this:</p>
+<pre><span class="pl-k">const</span> <span class="pl-s1">conversationHistory</span> <span class="pl-c1">=</span> <span class="pl-kos">[</span>
+  <span class="pl-kos">{</span> <span class="pl-c1">role</span>: <span class="pl-s">"user"</span><span class="pl-kos">,</span> <span class="pl-c1">content</span>: <span class="pl-s">"Hello, Claude!"</span> <span class="pl-kos">}</span><span class="pl-kos">,</span>
+  <span class="pl-kos">{</span> <span class="pl-c1">role</span>: <span class="pl-s">"assistant"</span><span class="pl-kos">,</span> <span class="pl-c1">content</span>: <span class="pl-s">"Hello! How can I assist you today?"</span> <span class="pl-kos">}</span><span class="pl-kos">,</span>
+  <span class="pl-kos">{</span> <span class="pl-c1">role</span>: <span class="pl-s">"user"</span><span class="pl-kos">,</span> <span class="pl-c1">content</span>: <span class="pl-s">"I'd like to know about AI."</span> <span class="pl-kos">}</span><span class="pl-kos">,</span>
+  <span class="pl-kos">{</span> <span class="pl-c1">role</span>: <span class="pl-s">"assistant"</span><span class="pl-kos">,</span> <span class="pl-c1">content</span>: <span class="pl-s">"Certainly! AI, or Artificial Intelligence, refers to..."</span> <span class="pl-kos">}</span><span class="pl-kos">,</span>
+  <span class="pl-c">// ... ALL previous messages should be included here</span>
+<span class="pl-kos">]</span><span class="pl-kos">;</span>
+
+<span class="pl-k">const</span> <span class="pl-s1">prompt</span> <span class="pl-c1">=</span> <span class="pl-s">`</span>
+<span class="pl-s">The following is the COMPLETE conversation history. You MUST consider ALL of these messages when formulating your response:</span>
+<span class="pl-s"><span class="pl-s1"><span class="pl-kos">${</span><span class="pl-c1">JSON</span><span class="pl-kos">.</span><span class="pl-en">stringify</span><span class="pl-kos">(</span><span class="pl-s1">conversationHistory</span><span class="pl-kos">)</span><span class="pl-kos">}</span></span></span>
+<span class="pl-s"></span>
+<span class="pl-s">IMPORTANT: Your response should take into account the ENTIRE conversation history provided above, not just the last message.</span>
+<span class="pl-s"></span>
+<span class="pl-s">Respond with a JSON object in this format:</span>
+<span class="pl-s">{</span>
+<span class="pl-s">  "response": "Your response, considering the full conversation history",</span>
+<span class="pl-s">  "sentiment": "brief description of the conversation's current sentiment"</span>
+<span class="pl-s">}</span>
+<span class="pl-s"></span>
+<span class="pl-s">Your entire response MUST be a single, valid JSON object.</span>
+<span class="pl-s">`</span><span class="pl-kos">;</span>
+
+<span class="pl-k">const</span> <span class="pl-s1">response</span> <span class="pl-c1">=</span> <span class="pl-k">await</span> <span class="pl-smi">window</span><span class="pl-kos">.</span><span class="pl-c1">claude</span><span class="pl-kos">.</span><span class="pl-en">complete</span><span class="pl-kos">(</span><span class="pl-s1">prompt</span><span class="pl-kos">)</span><span class="pl-kos">;</span></pre></blockquote>
+
+<p>There's another example in there showing how the state of play for a role playing game should be serialized as JSON and sent with every prompt as well.</p>
+<p>The tool instructions acknowledge another limitation of the current Claude Artifacts environment: code that executes there is effectively invisible to the main LLM - error messages are not automatically round-tripped to the model. As a result it makes the following recommendation:</p>
+<blockquote>
+<p>Using <code>window.claude.complete</code> may involve complex orchestration across many different completion requests. Once you create an Artifact, you are not able to see whether or not your completion requests are orchestrated correctly. Therefore, you SHOULD ALWAYS test your completion requests first in the analysis tool before building an artifact.</p>
+</blockquote>
+<p>I've already seen it do this in my own experiments: it will fire up the  "analysis" tool (which allows it to run JavaScript directly and see the results) to perform a quick prototype before it builds the full artifact.</p>
+<p>Here's my first attempt at an AI-enabled artifact: a translation app. I built it using the following single prompt:</p>
+<blockquote>
+<p><code>Let’s build an AI app that uses Claude to translate from one language to another</code></p>
+</blockquote>
+<p>Here's <a href="https://claude.ai/share/e26be9a8-739c-45de-8aee-86dafed4aa87">the transcript</a>. You can <a href="https://claude.ai/public/artifacts/1aeb7042-2004-4549-a97d-ca740d0f1bf0">try out the resulting app here</a> - the app it built me looks like this:</p>
+<p><img alt="Screenshot of Claude AI Translator interface showing: Claude AI Translator logo with blue circular icon containing &quot;文A&quot;, &quot;Powered by Claude AI for accurate, context-aware translations&quot;, language selection dropdowns showing &quot;From English&quot; and &quot;To Spanish&quot; with blue swap arrows button between them, text input area labeled &quot;Enter text to translate&quot; containing &quot;Tell me some fun facts about pelicans&quot;, &quot;Tip: Press Ctrl+Enter to translate&quot;, Translation section with &quot;high confidence&quot; indicator in green and Spanish translation &quot;Cuéntame algunos datos curiosos sobre los pelícanos&quot; with copy button icon." src="https://static.simonwillison.net/static/2025/ai-translator.jpg" /></p>
+<p>If you want to use this feature yourself you'll need to turn on "Create AI-powered artifacts" in the "Feature preview" section at the bottom of your "Settings -&gt; Profile" section. I had to do that in the Claude web app as I couldn't find the feature toggle in the Claude iOS application. This <a href="https://claude.ai/settings/profile">claude.ai/settings/profile</a> page should have it for your account.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/claude-artifacts">claude-artifacts</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/25/ai-powered-apps-with-claude/#atom-everything>
+
+---
+
+## Roundrect Dictator
+
+date: 2025-06-25, from: Michael Tsai
+
+Nick Heer: App icons across Apple&#8217;s three most popular operating systems share a similar rounded square mask, and it is a downgrade. Simon B. St&#248;vring correctly calls out the &#8220;expressive, varied app icons, a case of character over conformity&#8221; as a highlight of past versions of MacOS. I miss detailed and artistic app icons plenty. [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/25/roundrect-dictator/>
+
+---
+
+## Xcode 26 Beta 2
+
+date: 2025-06-25, from: Michael Tsai
+
+Apple (download): Added a new setting that dictates how function names are displayed in C++ frames: plugin.cplusplus.display.function-name-format[&#8230;]The span property of UTF8View does not support the small string representation in beta 1, and traps for small String instances. A future version of the Swift standard library will lift this restriction.[&#8230;]The packaging tool (ba-package) and the mock [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/25/xcode-26-beta-2/>
+
+---
+
+## Radar AI Training
+
+date: 2025-06-25, from: Michael Tsai
+
+Marko Zivkovic (via Ric Ford, Reddit): Apple announced its plans for a new opt-in Apple Intelligence training program. In essence, users can let Apple use content from their iPhone to train AI models. The training itself happens entirely on-device, and it incorporates a privacy-preserving method known as Differential Privacy. The opt out seems to be [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/25/radar-ai-training/>
+
+---
+
+## iPadOS 26 Audio and Video Capture
+
+date: 2025-06-25, from: Michael Tsai
+
+Jason Snell: It&#8217;s probably worth explaining why this feature has so many podcasters and other creators in a bit of a tizzy. Many podcasts record remotely, with people all over the world, and they usually use some sort of app to have that real-time conversation. It was Skype back in the day, and these days [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/25/ipados-26-audio-and-video-capture/>
 
 ---
 
@@ -104,7 +380,7 @@ First there was <a href="https://simonwillison.net/2025/Feb/24/claude-37-sonnet-
 <p>You can also drop in your own paid API key, at which point your data will not be used for model improvements and you'll be billed based on your token usage.
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p> 
 
 <br> 
 
@@ -1112,7 +1388,7 @@ Will we ever be able to control them?
 
 date: 2025-06-22, from: Liliputing
 
-<p>The Asus ExpertCenter PN54 is a mini PC that measures 130 x 130 x 34mm (5.1&#8243; x 5.1&#8243; x 1.3&#8243;) and features support for up to an AMD Ryzen 7 350 &#8220;Krackan Point&#8221; processor. First unveiled during CES in January, the ExpertCenter PN54 is now available for purchase for $589 and up from B&#38;H and a [&#8230;]</p>
+<p>The Asus ExpertCenter PN54 is a mini PC that measures 130 x 130 x 34mm (5.1&#8243; x 5.1&#8243; x 1.3&#8243;) and features support for up to an AMD Ryzen 7 350 &#8220;Krackan Point&#8221; processor. First unveiled during CES in January, the ExpertCenter PN54 is now available for purchase for $589 and up from B&#38;H and [&#8230;]</p>
 <p>The post <a href="https://liliputing.com/asus-expertcenter-pn54-with-amd-krackent-point-now-available-for-589-and-up/">Asus ExpertCenter PN54 with AMD Krackent Point now available for $589 and up</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 

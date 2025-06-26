@@ -1,11 +1,65 @@
 ---
 title: food
-updated: 2025-06-25 14:08:04
+updated: 2025-06-26 06:08:13
 ---
 
 # food
 
-(date: 2025-06-25 14:08:04)
+(date: 2025-06-26 06:08:13)
+
+---
+
+## Sparkling Wine And Coffee, Together At Last
+
+date: 2025-06-26, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Panther Cuvée is a brut-style sparkling wine by Mawby and Panther Coffee. 
+
+<br> 
+
+<https://sprudge.com/sparkling-wine-and-coffee-together-at-last-359157.html>
+
+---
+
+## Chicken Bacon Ranch Salad
+
+date: 2025-06-26, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/06/Chicken-Bacon-Ranch-Salad-1200-8739.jpg"/></div>
+<p>A salad with the classic flavour combo of chicken bacon and ranch! Chicken bacon and ranch is one of my favourite flavour combinations and it works so well in a salad! This salad salad starts out with chicken and I like to use a ranch grilled chicken (link) for even more ranch flavour, but you...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/chicken-bacon-ranch-salad/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/chicken-bacon-ranch-salad/">Chicken Bacon Ranch Salad</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/chicken-bacon-ranch-salad/>
+
+---
+
+## 37 Easy Camping Meals for Your Next Outdoor Adventure
+
+date: 2025-06-25, from: Bon Appetet
+
+Like miso-grilled potatoes, Sprite-marinated pork skewers, S’mores sandwich cookies, and more campfire goodies. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/easy-camping-meals-recipe-ideas>
+
+---
+
+## Your Most Common Pie Crust Questions, Answered
+
+date: 2025-06-25, from: Taste of Home
+
+<p>From baking times and choosing a pie dish to tips on lattice-making, these pie crust tips will turn you into a pie baking wizard.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/common-pie-crust-questions/">Your Most Common Pie Crust Questions, Answered</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/common-pie-crust-questions/>
 
 ---
 

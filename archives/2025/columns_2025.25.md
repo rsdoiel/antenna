@@ -1,11 +1,151 @@
 ---
 title: columns
-updated: 2025-06-25 14:07:58
+updated: 2025-06-26 06:08:07
 ---
 
 # columns
 
-(date: 2025-06-25 14:07:58)
+(date: 2025-06-26 06:08:07)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-26, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/05/02/lbj.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Bernie Sanders <a href="https://www.theguardian.com/commentisfree/2025/jun/25/democrats-learn-zohran-mamdani-victory">asks</a> what the Democrats should learn from Mr. Z's victory in the NYC primary this week. Here's what I say. Forget about ever rising from the ashes of what remains of the party. Right now, the issue is how to defend the city from the coming war with the US government. They're already holding the current mayor hostage. This will be worse than 9-11 and Covid. We have no leadership. We're totally fucked, what the Democratic Party does or doesn't do, at this point, simply doesn't matter. 
+
+<br> 
+
+<http://scripting.com/2025/06/26.html#a122239>
+
+---
+
+## Go 1.25 interactive tour
+
+date: 2025-06-26, from: Anton Zhiyanov blog
+
+Fake clock, new GC, flight recorder and more. 
+
+<br> 
+
+<https://antonz.org/go-1-25/>
+
+---
+
+## White House Bans WhatsApp
+
+date: 2025-06-26, updated: 2025-06-25, from: Bruce Schneier blog
+
+<p>Reuters is <a href="https://www.reuters.com/world/us/whatsapp-banned-us-house-representatives-devices-memo-2025-06-23/">reporting</a> that the White House has banned WhatsApp on all employee devices:</p>
+<blockquote><p>The notice said the &#8220;Office of Cybersecurity has deemed WhatsApp a high risk to users due to the lack of transparency in how it protects user data, absence of stored data encryption, and potential security risks involved with its use.&#8221;</p></blockquote>
+<p>TechCrunch has <a href="https://techcrunch.com/2025/06/24/us-bans-whatsapp-from-house-of-representatives-staff-devices/">more commentary</a>, but no more information.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/06/white-house-bans-whatsapp.html>
+
+---
+
+## OpenDylan sheds some parentheses in 2025.1 update
+
+date: 2025-06-26, updated: 2025-06-26, from: Liam Proven's articles at the Register
+
+<h4>Apple&#39;s advanced next-generation Lisp is still being maintained as FOSS</h4>
+      <p>OpenDylan is a Lisp without all the parentheses – just as John McCarthy originally intended for LISP-2.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/26/opendylan_20251_released/>
+
+---
+
+## How not to submit to a tyrant
+
+date: 2025-06-26, from: Robert Reich's blog
+
+Harvard should not negotiate 
+
+<br> 
+
+<https://robertreich.substack.com/p/how-not-to-submit-to-a-tyrant>
+
+---
+
+## June 25, 2025
+
+date: 2025-06-26, from: Heather Cox Richardson blog
+
+At The Hague, a city in the Netherlands, today for a summit of the North Atlantic Treaty Organization (NATO), Trump showed that he cannot let go of the intelligence assessment that his military strikes against Iran had set back Iran&#8217;s nuclear ambitions only by a few months. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-25-2025>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-26, from: Miguel de Icaza Mastondon feed)
+
+<p>Kyoto is a certified livable habitat for the Icaza household:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114748158242097081>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-26, from: Miguel de Icaza Mastondon feed)
+
+<p>When you are a Linux developer, every day is Xmas!<br /><a href="https://mastodon.social/@swiftlang/114656521337936477" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@swiftlang/114</span><span class="invisible">656521337936477</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114748042740771014>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-26, from: Miguel de Icaza Mastondon feed)
+
+<p>When you are an Android developer, every day is Xmas!<br /><a href="https://mastodon.social/@swiftlang/114746543007387382" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@swiftlang/114</span><span class="invisible">746543007387382</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114747927027862548>
+
+---
+
+## AI coding tools are perhaps our new terminal emulators
+
+date: 2025-06-26, from: Geoffrey Hunntley's blog
+
+<p>So I&apos;m currently over in San Francisco. I&apos;ve been here for almost two weeks now. I&apos;ll be heading home to my family in a couple of days. But over the weekend, I had the opportunity to drop into the Computer History Museum. I&apos;</p> 
+
+<br> 
+
+<https://ghuntley.com/vt100/>
+
+---
+
+## Denis Villeneuve to Direct Next James Bond Film
+
+date: 2025-06-26, updated: 2025-06-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://deadline.com/2025/06/denis-villeneuve-james-bond-amazon-mgm-studios-1236442917/>
+
+---
+
+##  Aaron Sorkin is writing and directing a sequel to The Social Network.... 
+
+date: 2025-06-25, updated: 2025-06-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047027-aaron-sorkin-is-writing-a>
 
 ---
 
@@ -45,7 +185,7 @@ date: 2025-06-25, updated: 2025-06-25, from: Jason Kittke's blog
 
 ## Lake Tahoe Boat Tragedy Claims Longtime Apple Employee Paula Bozinovich
 
-date: 2025-06-25, updated: 2025-06-25, from: Daring Fireball
+date: 2025-06-25, updated: 2025-06-26, from: Daring Fireball
 
  
 
@@ -175,9 +315,10 @@ date: 2025-06-25, updated: 2025-06-25, from: Jason Kittke's blog
 
 date: 2025-06-25, from: Dave Winer's Scripting News
 
-<p>I tried an experiment, go back as far as I can in archive.org on scripting.com and see where it gets me. </p>
+<p>I tried an experiment, <a href="https://imgs.scripting.com/2025/06/25/asfarasyoucango.png">go back</a> as far as I can in archive.org on scripting.com and see where it gets me. The <a href="https://web.archive.org/web/19961114163115/http://scripting.com/">first try</a> got me to a classified ads site I was experimenting with in mid-November 1996. A few weeks later, on <a href="https://web.archive.org/web/19961203224609/http://scripting.com/">December 3,</a> there was a colorful directory that took you to all the sub-sites on the server, DaveNet, <a href="https://web.archive.org/web/19961203224624/http://www.scripting.com/frontier/">Frontier</a>, Classified ads, our Midas Website (Macintosh Internet Developers Association), DocServer, a BBS, and Guestbook.  </p>
+<p>I went digging around in the <a href="https://web.archive.org/web/19961203224624/http://www.scripting.com/frontier/">Frontier</a> part. Lots of stuff there. By then we had been working on Frontier for eight years. It had been reborn once, from a Mac-focused single-user scripting environment to a networked one, all because the web had exploded and Apple didn't want us making system software for their platform. <span class="spOldSchoolEmoji">😄</span> </p>
+<p>BTW, some of this stuff is <a href="http://scripting.com/frontier/olddefault.html">still here</a>. </p>
 <p>There are lots of paths to try out.</p>
-<p>The one I went for is the <a href="https://web.archive.org/web/19961203224609/http://scripting.com/">December 3, 1996 scripting.com home page</a>. </p>
 <p>This was where my <a href="https://web.archive.org/web/19961203224710/http://www.scripting.com/frontier/news.html">blog home page</a> was then. </p>
 <p>Then to DaveNet, and in the left margin <a href="https://web.archive.org/web/19961203224727/http://www.scripting.com/davenet/aboutthiswebsite.html">Nerd's guide to this website</a>. </p>
 <p>I love the screen shots that show what a good match the Frontier object database was to the way a website is organized.  </p>
