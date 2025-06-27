@@ -1,11 +1,60 @@
 ---
 title: motorcycles
-updated: 2025-06-26 14:07:34
+updated: 2025-06-27 06:09:03
 ---
 
 # motorcycles
 
-(date: 2025-06-26 14:07:34)
+(date: 2025-06-27 06:09:03)
+
+---
+
+## This Guy Built a Working Motorcycle Out of Wood, As well as a "Helmet"
+
+date: 2025-06-27, from: Ride Apart, Electric Motorcycle News
+
+Life, uh, finds a way.  
+
+<br> 
+
+<https://www.rideapart.com/news/764005/working-wood-motorcycle-africa-custom-helmet-video/>
+
+---
+
+## This New Adventure Motorcycle Helmet Looks Seriously Good, Too Bad You Can’t Buy It
+
+date: 2025-06-27, from: Ride Apart, Electric Motorcycle News
+
+At least not in the US. 
+
+<br> 
+
+<https://www.rideapart.com/news/763883/caberg-tanami-dual-sport-helmet/>
+
+---
+
+## Revoking the Roadless Rule Isn't About Off-Roading, It's About Timber and Oil
+
+date: 2025-06-27, from: Ride Apart, Electric Motorcycle News
+
+Despite what some online "influencers" say, it ain't about giving you more off-road trails.  
+
+<br> 
+
+<https://www.rideapart.com/news/763991/trump-administration-roadless-rule-timber-oil-not-off-roading/>
+
+---
+
+## This Special Edition Moto Guzzi Blends Heritage With Modern Technology
+
+date: 2025-06-27, from: Ride Apart, Electric Motorcycle News
+
+It pays tribute to Moto Guzzi’s famed wind tunnel in its Mandello del Lario facility. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/763885/moto-guzzi-v100-mandello-wind-tunnel-edition/>
 
 ---
 

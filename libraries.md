@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-06-26 14:07:33
+updated: 2025-06-27 06:09:02
 ---
 
 # libraries
 
-(date: 2025-06-26 14:07:33)
+(date: 2025-06-27 06:09:02)
+
+---
+
+## Picnic Awareness: Lightning and Watermelons Do Not Mix
+
+date: 2025-06-27, from: Scholarly Kitchen
+
+<p>A public service announcement about the dangers of picnics in thunderstorms.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/06/27/picnic-awareness-lightning-and-watermelons-do-not-mix/">Picnic Awareness: Lightning and Watermelons Do Not Mix</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/06/27/picnic-awareness-lightning-and-watermelons-do-not-mix/>
 
 ---
 
@@ -98,6 +112,18 @@ Fleischmann, Sarah
 <br> 
 
 <http://hdl.handle.net/20.500.11850/742374>
+
+---
+
+## Xsummarizer: An eXplanatory Summarizer of Lecture Slides for Chemistry and Bioscience
+
+date: 2025-06-25, from: ETH Zurich, recently added
+
+Yao, Jianzhou; Pettersson, Rikard 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/742320>
 
 ---
 

@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-06-26 14:07:32
+updated: 2025-06-27 06:09:00
 ---
 
 # games
 
-(date: 2025-06-26 14:07:32)
+(date: 2025-06-27 06:09:00)
+
+---
+
+## The first addition to Switch 2’s GameCube library is a Mario multiplayer classic
+
+date: 2025-06-27, updated: 2025-06-27, from: Polygon Website
+
+Nintendo has revealed what will be the first post-launch addition to the GameCube library on the Switch 2: knockabout soccer title Super Mario Strikers, coming next week. Super Mario Strikers joins Soulcalibur 2, The Legend of Zelda: The Wind Waker, and F-Zero GX on the Nintendo Switch Online + Expansion Pack service on Thursday, July [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/609462/gamecube-super-mario-strikers-switch-online>
+
+---
+
+## Nintendo’s having a summer sale if you want to fill up your Switch 2 storage
+
+date: 2025-06-26, updated: 2025-06-26, from: Polygon Website
+
+Nintendo has done something rare: It put its first-party games on sale! The company’s Summer Sale on digital games through the Nintendo eShop kicked off Thursday and runs through July 9, at 11:59 p.m. PDT. So, for all the gamers who are in dire need of games for their Switch 2, there are a ton [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/609417/nintendo-summer-sale-switch-games-eshop>
+
+---
+
+## How to get free Crowned Sword Energy and Crowned Shield Energy with codes in Pokémon Go
+
+date: 2025-06-26, updated: 2025-06-26, from: Polygon Website
+
+Pokémon Go is giving away handfuls of free Crowned Sword Energy and Crowned Shield Energy via codes ahead of Pokémon Go Fest Global 2025. Similarly to how previous energy-based events have functioned, codes will be revealed every day from June 25-28, so long as the Pokémon Go YouTube channel gains at least 2,000 subscribers per [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/608858/crowned-sword-shield-energy-how-to-get-free-codes>
 
 ---
 
@@ -37,7 +73,7 @@ An isolated man known as the Inventor offers some of the best upgrades for Sam i
 
 date: 2025-06-26, updated: 2025-06-26, from: Polygon Website
 
-Capcom’s latest games showcase, Capcom Spotlight, will stream on Thursday, June 26. Scheduled to last roughly 40 minutes, the live-streamed event will be showing off upcoming games like Pragmata, and Resident Evil Requiem, along with updates for pre-existing titles like Monster Hunter Wilds and Street Fighter 6.  The Capcom Spotlight showcase begins at 6 p.m. [&#8230;] 
+Capcom’s latest games showcase, Capcom Spotlight, will stream on Thursday, June 26. Scheduled to last roughly 40 minutes, the live-streamed event will be showing off upcoming games like Pragmata, and Resident Evil Requiem, along with updates for pre-existing titles like Monster Hunter Wilds and Street Fighter 6.&#160; The Capcom Spotlight showcase begins at 6 p.m. [&#8230;] 
 
 <br> 
 
@@ -150,18 +186,6 @@ Contracts act as the gacha banners in Persona 5: The Phantom X and pulling on a 
 <br> 
 
 <https://www.polygon.com/guides/609063/persona-5-phantom-x-p5x-gacha-banners-pity-contracts>
-
----
-
-## How to get free Crowned Sword Energy and Crowned Shield Energy with codes in Pokémon Go
-
-date: 2025-06-25, updated: 2025-06-25, from: Polygon Website
-
-Pokémon Go is giving away handfuls of free Crowned Sword Energy and Crowned Shield Energy via codes ahead of Pokémon Go Fest Global 2025. Similarly to how previous energy-based events have functioned, codes will be revealed every day from June 25-28, so long as the Pokémon Go YouTube channel gains at least 2,000 subscribers per [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/608858/crowned-sword-shield-energy-how-to-get-free-codes>
 
 ---
 

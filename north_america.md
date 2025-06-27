@@ -1,11 +1,63 @@
 ---
 title: north america
-updated: 2025-06-26 14:07:27
+updated: 2025-06-27 06:08:55
 ---
 
 # north america
 
-(date: 2025-06-26 14:07:27)
+(date: 2025-06-27 06:08:55)
+
+---
+
+## Undaunted
+
+date: 2025-06-27, from: The Contrarian
+
+Finally, someone enforces the rules 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-10b>
+
+---
+
+## Evening Roundup, June 26
+
+date: 2025-06-26, from: The Contrarian
+
+Featuring Hope Ferris and Spencer Klein; Andrea Ducas and Jen Rubin; RJ Matson; Senator Mark Warner; Jacob Kovacs-Goodman; David Litt; Meredith Blake; and "The Tea" with April Ryan & guests! 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-26>
+
+---
+
+## The Tea w/ April Ryan ft. Senator Alex Padilla and Rep. Sydney Kamlager-Dove
+
+date: 2025-06-26, from: The Contrarian
+
+A recording from The Tea! With April Ryan 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166818760/e187254f46ef4d38833a684d20ece6b3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166818760/e187254f46ef4d38833a684d20ece6b3.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-tea-w-april-ryan-ft-senator-alex>
+
+---
+
+## NJ AG Platkin on fighting Trump in the courts & the need to resist the administration's intimidation tactics
+
+date: 2025-06-26, from: The Contrarian
+
+"We've been busy filing lawsuits because the President and his administration have been busy breaking the law." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166914249/943669aaefe0fc2daeabd2ddf25a6e6f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166914249/943669aaefe0fc2daeabd2ddf25a6e6f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/nj-ag-platkin-on-fighting-trump-in>
 
 ---
 
@@ -88,8 +140,8 @@ date: 2025-06-26, from: The Contrarian
 "I don't want to be your damn conscience. I want you to vote your conscience!" 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166905970/ac6a896b8bf5b14fb1e17c6d0a92ec6a.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/166905970/ac6a896b8bf5b14fb1e17c6d0a92ec6a.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166905970/e13bfc4208220a1baad537eee2994301.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166905970/e13bfc4208220a1baad537eee2994301.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/congress-needs-to-do-everything-it>
 
@@ -102,8 +154,8 @@ date: 2025-06-26, from: The Contrarian
 "There's something terrible for everyone in this bill." 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166843449/13d0d67a85c15fd5cecc44d4dd7246da.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/166843449/13d0d67a85c15fd5cecc44d4dd7246da.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166843449/aee5d7c518051f6556432207e0416857.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166843449/aee5d7c518051f6556432207e0416857.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/how-is-it-possible-for-a-bill-to>
 
@@ -190,8 +242,8 @@ date: 2025-06-25, from: The Contrarian
 and it's not pretty. Watch Now. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166850249/c116bd16244c3bea41bb2746cf846e0d.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/166850249/c116bd16244c3bea41bb2746cf846e0d.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166850249/d71d454f5b2b27fcaffa9a5ded234059.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166850249/d71d454f5b2b27fcaffa9a5ded234059.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/mike-lee-showed-us-who-he-is>
 
@@ -216,8 +268,8 @@ date: 2025-06-25, from: The Contrarian
 &#8220;There&#8217;s no good reason to leave Congress in the dark on this.&#8221; 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166836529/9f56b183c78873aee08fa1fa390ad0c9.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/166836529/9f56b183c78873aee08fa1fa390ad0c9.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166836529/ba61b88facfef7fe3629dcc1f7aa495b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166836529/ba61b88facfef7fe3629dcc1f7aa495b.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/rep-maggie-goodlander-on-trumps-attack>
 

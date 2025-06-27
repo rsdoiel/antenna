@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-06-26 14:07:36
+updated: 2025-06-27 06:09:05
 ---
 
 # craft
 
-(date: 2025-06-26 14:07:36)
+(date: 2025-06-27 06:09:05)
+
+---
+
+## Philippe Lafargue
+
+date: 2025-06-27, from: Lost Arg Press blog
+
+Philippe Lafargue died at his home from an undiagnosed glioblastoma on June 22. Philippe has been instrumental in the Roubo project, helping with translations for “Make as Perfectly as Possible: Roubo on Marquetry” and “With All Precision Possible: Roubo on Furniture.” “When we first met more than 35 years ago, I recognized immediately the talents... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/06/27/philippe-lafargue/>
 
 ---
 

@@ -1,11 +1,73 @@
 ---
 title: food
-updated: 2025-06-26 14:07:36
+updated: 2025-06-27 06:09:04
 ---
 
 # food
 
-(date: 2025-06-26 14:07:36)
+(date: 2025-06-27 06:09:04)
+
+---
+
+## Roastery Breakdown: Wicked Joe Organic Coffees
+
+date: 2025-06-27, from: The Fresh Cup
+
+<p>Maine’s Wicked Joe Organic Coffees utilizes technology to roast quality coffee on a large scale—and still manages to prioritize sustainability in the process.</p>
+<p>The post <a href="https://freshcup.com/roastery-breakdown-wicked-joe-organic-coffees/">Roastery Breakdown: Wicked Joe Organic Coffees</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/roastery-breakdown-wicked-joe-organic-coffees/>
+
+---
+
+## Cold Soy Milk Noodles and More Recipes We Made This Week
+
+date: 2025-06-27, from: Bon Appetet
+
+Like frozen margarita pie and a spicy salmon roll bowl. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-june-2025>
+
+---
+
+## The 8 Best Bars in Los Angeles Right Now
+
+date: 2025-06-27, from: Bon Appetet
+
+Big, national names are building a local audience, while homegrown talent dazzle with their attention to craft. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-bars-los-angeles>
+
+---
+
+## Lucy Wang’s Mini Ice Cream Tacos
+
+date: 2025-06-26, from: Taste of Home
+
+This ice cream taco is a '90s nostalgia recipe that I’d love to pass on to my toddler, Teddy. The mini sizes are perfect for little hands, but even more fun for adults. Make them ahead of time so they're ready for your next get-together. I promise there won't be any leftovers! —Lucy Wang, Los Angeles, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lucy-wang-mini-ice-cream-tacos/>
+
+---
+
+## Hetal Vasavada’s Tropical Cocktail Cookies
+
+date: 2025-06-26, from: Taste of Home
+
+These tropical cocktail cookies are a fun twist on a classic sugar cookie. The dough is infused with shredded coconut and coconut cream powder, which adds texture and a rich natural coconut flavor. Coconut cream powder can be found at Asian grocery stores or on Amazon. It’s a great way to punch up the coconut flavor in baked goods! I like to divide the batch of cookies and make two easy glazes: one with pineapple juice for a sweet, fruity finish reminiscent of a pina colada, and the other with lime juice for a bright, tangy kick. Using juice in glazes is a great way to add real flavor without artificial extracts. —Hetal Vasavada, San Francisco, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/hetal-vasavada-tropical-cocktail-cookies/>
 
 ---
 

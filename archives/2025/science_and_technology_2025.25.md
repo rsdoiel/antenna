@@ -1,11 +1,131 @@
 ---
 title: science and technology
-updated: 2025-06-26 14:07:30
+updated: 2025-06-27 06:08:58
 ---
 
 # science and technology
 
-(date: 2025-06-26 14:07:30)
+(date: 2025-06-27 06:08:58)
+
+---
+
+## There's no international protocol on what to do if an asteroid strikes Earth
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>Or so hear members of Parliament in the UK</h4> <p>UK lawmakers have learned there is no international protocol for making decisions over how to respond to a prospective life-threatening asteroid strike on Earth.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/mps_space_asteroid_strike/>
+
+---
+
+## Windows gets new “blue” screen of death and automated boot recovery
+
+date: 2025-06-27, from: OS News
+
+The blue screen of death has been such a core part of Windows that&#8217;s it&#8217;s become part of humanity&#8217;s collective consciousness. They&#8217;re not nearly as common anymore as they used to be back in the Windows 9x and early Windows XP days, but they do still occasionally when dealing with broken hardware, shoddy drivers, or other such faults. Well, the blue screen of death is losing its eponymous blue colour, and will now clearly mention the stop code and where &#8211; in which driver &#8211; the kernel panic occurred. The Windows 11 24H2 release included improvements to crash dump collection which reduced downtime during an unexpected restart to about two seconds for most users. We’re introducing a simplified user interface (UI) that pairs with the shortened experience. The updated UI improves readability and aligns better with Windows 11 design principles, while preserving the technical information on the screen for when it is needed. ↫ David Weston at the Windows Blogs This is part of a new feature in Windows 11 called quick machine recovery, or QMR. If a Windows PC gets stuck in a boot loop, ending up in the Windows Recovery Environment, Microsoft can now deploy fixes and remediations through WinRE. This feature will become available later this year by default on Windows 11 Home, while on Windows 11 Pro and Enterprise, administrators can control how this feature works. So far, it seems QMR is only intended to be used for widespread outages, but I wonder if it would be possible to eventually use QMR locally. It would be pretty neat if Microsoft released the server-side component of QMR so individuals can run and (ab)use it locally for their own machines. 
+
+<br> 
+
+<https://www.osnews.com/story/142655/windows-gets-new-blue-screen-of-death-and-automated-boot-recovery/>
+
+---
+
+## The network is indeed trying to become the computer
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>Masked networking costs are coming to AI systems</h4> <p><strong>Analysis</strong>  Moore&#39;s Law has run out of gas and AI workloads need massive amounts of parallel compute and high bandwidth memory right next to it – both of which have become terribly expensive. If it weren&#39;t for this situation, the beancounters of the world might be complaining about the cost of networking in the datacenter.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/analysis_network_computing/>
+
+---
+
+## The year of the European Union Linux desktop may finally arrive
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>True digital sovereignty begins at the desktop</h4> <p><strong>Opinion</strong>  Microsoft, tactically admitting it has failed at talking all the Windows 10 PC users into moving to Windows 11 after all, is – sort of, kind of – extending Windows 10 support for another year.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/the_european_union_linux_desktop/>
+
+---
+
+## Fresh UK postcode tool points out best mobile network in your area
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>Pick a provider based on how good their local 4G and 5G coverage is</h4> <p>The UK&#39;s telecoms regulator has released an overhauled tool comparing mobile coverage and performance across the country, claiming this will help the millions of Brits missing out on the best local network.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/ofcoms_postcode_checker_points_out/>
+
+---
+
+## Don't shoot, I'm only the system administrator!
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>When police come to investigate tech support, make sure you have your story straight</h4> <p><strong>On Call</strong>  Welcome once again to On Call, <i>The Register&#39;s</i> Friday column that celebrates the frolicsome fun that readers have experienced when asked to deliver tech support.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/on_call/>
+
+---
+
+## HPE customers on agentic AI: No, you go first
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>But like cloud computing and digital transformation, this may be a buzzword they can&#39;t ignore forever</h4> <p><strong>HPE Discover 2025</strong>  HPE envisions a future where customer systems are filled with its agentic AI products, but reactions from the HPE Discover show floor in Las Vegas this week suggest the company has a way to go to convince folks to buy in.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/hpe_agentic_ai_customer_skepticism/>
+
+---
+
+## Starlink helps eight more nations pass 50 percent IPv6 adoption
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>Brazil debuts, Japan bounces back, and tiny Tuvalu soars on Elon&#39;s broadband birds</h4> <p>Eight more nations have passed at least 50 percent IPv6 deployment, according to the Internet Society (ISOC).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/ipv6_adoption_statistics/>
+
+---
+
+## Australia not banning kids from YouTube – they’ll just have to use mum and dad’s logins
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>Regulator acknowledges that won’t stop video nasties, but welcomes extra ‘friction’</h4> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/australia_social_media_regulation/>
+
+---
+
+## More trouble for authors as Meta wins Llama drama AI scraping case
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>Authors are having a hard time protecting their works from the maws of the LLM makers</h4> <p><strong>Updated</strong>  Californian courts have not been kind to authors this week, with a second ruling going against an unlucky 13 who sought redress for use of their content in training AI models.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/meta_llama_author_lawsuit/>
 
 ---
 
@@ -18,6 +138,18 @@ The world isn&#8217;t short of classic Macintosh emulators, but one more certain
 <br> 
 
 <https://www.osnews.com/story/142644/snow-a-new-classic-macintosh-emulator/>
+
+---
+
+## Curiosity Blog, Sols 4580-4581: Something in the Air…
+
+date: 2025-06-26, from: NASA breaking news
+
+Written by Scott VanBommel, Planetary Scientist at Washington University in St. Louis Earth planning date: Monday, June 23, 2025 Curiosity was back at work on Monday, with a full slate of activities planned. While summer has officially arrived for much of Curiosity’s team back on Earth, Mars’ eldest active rover is recently through the depths […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4580-4581-something-in-the-air/>
 
 ---
 
@@ -381,9 +513,9 @@ date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
 
 ---
 
-## AFRINIC election annulled after ICANN writes angry letter to African regional internet registry after election suspended
+## AFRINIC election annulled after ICANN writes angry letter to African regional internet registry
 
-date: 2025-06-26, updated: 2025-06-26, from: The Register (UK I.T. News)
+date: 2025-06-26, updated: 2025-06-27, from: The Register (UK I.T. News)
 
 <h4>The group in charge of IP addresses for 54 countries hasn&#39;t had a board since 2022</h4> <p><strong>Updated</strong>  The Internet Corporation for Assigned Numbers (ICANN) has demanded the African Network Information Centre (AFRINIC) explain why the nomination committee overseeing its board elections suspended voting, or face disciplinary action.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 

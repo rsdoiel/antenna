@@ -1,11 +1,191 @@
 ---
 title: snapshots
-updated: 2025-06-26 14:07:38
+updated: 2025-06-27 06:09:06
 ---
 
 # snapshots
 
-(date: 2025-06-26 14:07:38)
+(date: 2025-06-27 06:09:06)
+
+---
+
+## The Coming Health Care Apocalypse
+
+date: 2025-06-27, from: Paul Krugman
+
+One chart on the Big Ugly Bill 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-coming-health-care-apocalypse>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-27, from: Dave Winer's linkblog)
+
+Pretty sure I would have hated ageism in politics before I got so old. I’m even older than Cuomo, but I still understand hackery. Wish there was an emoji for a raised <span style="letter-spacing: 0.01rem; -webkit-text-size-adjust: 100%;">middle finger.</span> 
+
+<br> 
+
+<https://www.politico.com/news/2025/06/27/inside-andrew-cuomos-flat-flailing-comeback-bid-00428791>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-27, from: Dave Winer's linkblog)
+
+Bill Moyers dies at 91. 
+
+<br> 
+
+<https://apnews.com/article/bill-moyers-dead-eed7ecae0e20c2db4b82500996916dfe>
+
+---
+
+## 302: All Seeing Eye
+
+date: 2025-06-27, from: Fix the News
+
+"The universe is universal." Plus, China's crazy month of solar, synthetic life, Gavi hits its target (despite US sabotage), painkillers from plastic, and good news for tigers in Thailand and turtles in Florida.  
+
+<br> 
+
+<https://fixthenews.com/302-all-seeing-eye/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-27, from: Dave Winer's linkblog)
+
+Top Hudson River Swimming Locations. 
+
+<br> 
+
+<https://hudsonvalleycountry.com/ixp/705/p/hudson-river-swimming-spots-ny/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-27, from: Dave Winer's linkblog)
+
+Canadian man dies at Miami ICE facility, cause unknown. 
+
+<br> 
+
+<https://www.miamiherald.com/news/local/immigration/article309501470.html>
+
+---
+
+## European Commission is Looking for Experts to Evaluate Funding Applications
+
+date: 2025-06-27, updated: 2025-06-27, from: nlnet feed
+
+ 
+
+<br> 
+
+<https://nlnet.nl/news/2025/20250627-eu-experts.html>
+
+---
+
+## Conferences, Clarity, and Smokescreens
+
+date: 2025-06-27, updated: 2025-06-27, from: Alex Russel's blog
+
+ 
+
+<br> 
+
+<https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/>
+
+---
+
+## How to caption videos in Javascript
+
+date: 2025-06-26, from: Peter Warden
+
+Pete Warden discusses the importance of captions, highlighting their utility in training speech-to-text AI and advocating for inclusion in more web videos. He announces the launch of MoonshineJS, a tool for developers to add captions easily. While machine-generated captions aren't perfect, they can enhance accessibility for those needing them. 
+
+<br> 
+
+<https://petewarden.com/2025/06/26/how-to-caption-videos-in-javascript/>
+
+---
+
+## Introducing Gemma 3n: The developer guide
+
+date: 2025-06-26, updated: 2025-06-26, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/">Introducing Gemma 3n: The developer guide</a></strong></p>
+Extremely consequential new open weights model release from Google today:</p>
+<blockquote>
+<ul>
+<li>
+<p><strong>Multimodal by design:</strong> Gemma 3n natively supports image, audio, video, and text inputs and text outputs.</p>
+</li>
+<li>
+<p><strong>Optimized for on-device:</strong> Engineered with a focus on efficiency, Gemma 3n models are available in two sizes based on <a href="https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/#per-layer-embeddings-(ple):-unlocking-more-memory-efficiency"><strong>effective</strong></a> parameters: E2B and E4B. While their raw parameter count is 5B and 8B respectively, architectural innovations allow them to run with a memory footprint comparable to traditional 2B and 4B models, operating with as little as 2GB (E2B) and 3GB (E4B) of memory.</p>
+</li>
+</ul>
+</blockquote>
+<p>This is <strong>very</strong> exciting: a 2B and 4B model optimized for end-user devices which accepts text, images <em>and</em> audio as inputs!</p>
+<p>Gemma 3n is also the most comprehensive day one launch I've seen for any model: Google partnered with "AMD, Axolotl, Docker, Hugging Face, llama.cpp, LMStudio, MLX, NVIDIA, Ollama, RedHat, SGLang, Unsloth, and vLLM" so there are dozens of ways to try this out right now.</p>
+<p>So far I've run two variants on my Mac laptop. Ollama offer <a href="https://ollama.com/library/gemma3n">a 7.5GB version</a> (full tag <code>gemma3n:e4b-it-q4_K_M0</code>) of the 4B model, which I ran like this:</p>
+<pre><code>ollama pull gemma3n
+llm install llm-ollama
+llm -m gemma3n:latest "Generate an SVG of a pelican riding a bicycle"
+</code></pre>
+<p>It drew me this:</p>
+<p><img alt="The pelican looks a bit like a grey pig. It is floating above a bicycle that looks more like a rail cart." src="https://static.simonwillison.net/static/2025/gemma3n-ollama.jpg" /></p>
+<p>The Ollama version doesn't appear to support image or audio input yet.</p>
+<p>... but the <a href="https://github.com/Blaizzy/mlx-vlm">mlx-vlm</a> version does!</p>
+<p>First I tried that on <a href="https://static.simonwillison.net/static/2025/pelican-joke-request.wav">this WAV file</a> like so (using a recipe adapted from <a href="https://www.youtube.com/watch?v=8-8R2UvUBrc">Prince Canuma's video</a>):</p>
+<pre><code>uv run --with mlx-vlm mlx_vlm.generate \
+  --model gg-hf-gm/gemma-3n-E4B-it \
+  --max-tokens 100 \
+  --temperature 0.7 \
+  --prompt "Transcribe the following speech segment in English:" \
+  --audio pelican-joke-request.wav
+</code></pre>
+<p>That downloaded a 15.74 GB bfloat16 version of the model and output the following correct transcription:</p>
+<blockquote>
+<p>Tell me a joke about a pelican.</p>
+</blockquote>
+<p>Then I had it draw me a pelican for good measure:</p>
+<pre><code>uv run --with mlx-vlm mlx_vlm.generate \
+  --model gg-hf-gm/gemma-3n-E4B-it \
+  --max-tokens 100 \
+  --temperature 0.7 \
+  --prompt "Generate an SVG of a pelican riding a bicycle"
+</code></pre>
+<p>I quite like this one:</p>
+<p><img alt="The bicycle is a sin wave, but you can make out which bits are the frame and the wheels. The pelican is white with a black triangular bill. It's a much better attempt than the Ollama one." src="https://static.simonwillison.net/static/2025/gemma3n-mlx-vlm.jpg" /></p>
+<p>It's interesting to see such a striking visual difference between those 7.5GB and 15GB model quantizations.</p>
+<p>Finally, I had it describe the image it had just created:</p>
+<pre><code>uv run --with mlx-vlm mlx_vlm.generate \
+  --model gg-hf-gm/gemma-3n-E4B-it \
+  --max-tokens 1000 \
+  --prompt "Describe image" \
+  --image gemma3n-mlx-vlm.jpg
+</code></pre>
+<p>Here's what I got back - it thought this was a chemical diagram!</p>
+<blockquote>
+<p>The image is a cartoon-style illustration depicting a molecular structure against a light blue background. The structure is composed of several differently colored and shaped elements connected by curved black lines. </p>
+<p>Here's a breakdown of the elements:</p>
+<ul>
+<li><strong>Large Black Circles:</strong> There are two large, solid black circles, likely representing larger molecules or components.</li>
+<li><strong>Cream-Colored Oval:</strong> A prominent cream-colored oval shape is centrally located and connected to other elements. It has a smaller, darker cream-colored sphere attached to its left side.</li>
+<li><strong>Red Oval:</strong> A smaller, solid red oval is positioned near one of the black circles and connected to the cream-colored oval.</li>
+<li><strong>Black Lines:</strong> These lines act as bonds, connecting the various molecular components. They are curved and dynamic, suggesting movement or interaction.</li>
+<li><strong>Triangular Shape:</strong> A small black triangle is attached to the smaller cream-colored sphere.</li>
+<li><strong>Letter "I":</strong> The letter "I" appears twice, likely labeling specific parts of the molecule. </li>
+</ul>
+<p>The overall impression is of a simplified representation of a biological molecule, possibly a protein or a complex organic compound. The use of different colors helps to distinguish the various components within the structure.</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/audio">audio</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/gemma">gemma</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/prince-canuma">prince-canuma</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/26/gemma-3n/#atom-everything>
 
 ---
 

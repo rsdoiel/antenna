@@ -1,11 +1,491 @@
 ---
 title: planet
-updated: 2025-06-26 14:07:25
+updated: 2025-06-27 06:08:54
 ---
 
 # planet
 
-(date: 2025-06-26 14:07:25)
+(date: 2025-06-27 06:08:54)
+
+---
+
+## Bishop Rojas on rise in ICE raids: ‘It is not of the Gospel of Jesus Christ'
+
+date: 2025-06-27, from: Vatican News
+
+
+                    <p>After the US Immigration and Customs Enforcement agents entered Church properties in California, Bishop Rojas has issued a message calling for an end to tactics that cause “a tremendous amount of fear, confusion, and anxiety.”</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/bishop-rojas-on-rise-in-ice-raids-it-is-not-the-gospel-of-christ.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/bishop-rojas-on-rise-in-ice-raids-it-is-not-the-gospel-of-christ.html>
+
+---
+
+## Catholic Sister brings synodal approach to prison through restorative justice
+
+date: 2025-06-27, from: Vatican News
+
+
+                    <p>Sr. Janet Ryan, OSF, facilitates restorative “justice circle keeper” trainings for staff and incarcerated individuals inside prisons in the US state of Illinois, as part of her ministry with Mobilizing Network.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/catholic-mobilizing-network-death-penalty-religious-sister.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/catholic-mobilizing-network-death-penalty-religious-sister.html>
+
+---
+
+## Star of "The Chosen": 'Life is only better with Jesus in it'
+
+date: 2025-06-27, from: Vatican News
+
+
+                    <p>Jonathan Roumie, who plays Jesus in “The Chosen”, shares his experience portraying such a prominent character and his hopes for what it can share about the works of Jesus to viewers. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/jonathan-roumie-from-the-chosen-talks-about-the-newest-season-re.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/jonathan-roumie-from-the-chosen-talks-about-the-newest-season-re.html>
+
+---
+
+## Man, 41, given minimum of 24 years over Tyrone murder
+
+date: 2025-06-27, from: RTÉ News
+
+A 41-year-old man who murdered, dismembered and dumped another man's body in a reservoir in Co Tyrone has been sentenced to a minimum of 24 years. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0627/1520657-belfast-crown-court/>
+
+---
+
+## Italian cities on red alert over extreme temperatures
+
+date: 2025-06-27, from: RTÉ News
+
+Rome, Venice and 19 other Italian cities are under a red alert for high temperatures this weekend, as temperatures also soared across the Balkans, triggering heatwave health warnings. 
+
+<br> 
+
+<https://www.rte.ie/news/weather/2025/0627/1520654-weather-europe/>
+
+---
+
+## Warning issued after strain of avian influenza detected
+
+date: 2025-06-27, from: RTÉ News
+
+The Department of Agriculture has issued a warning after a strain of avian influenza - or bird flu - was detected in a number of wild sea birds off the west coast of Ireland in recent weeks. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0627/1520656-bird-flu/>
+
+---
+
+## Damages awarded for 'hideous and harrowing' ferry sailing
+
+date: 2025-06-27, from: RTÉ News
+
+A former NBC war correspondent has been awarded €17,500 damages against Irish Ferries for what was described in court as "a hideous and harrowing experience" while travelling from Cherbourg to Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0627/1520655-susan-burt/>
+
+---
+
+## US approves funding for controversial Gaza aid group
+
+date: 2025-06-27, from: RTÉ News
+
+The US State Department has approved $30 million in funding for the Gaza Humanitarian Foundation, the State Department said, calling on other countries to also support the controversial group delivering aid in Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0627/1520642-israel-gaza/>
+
+---
+
+## Orthodox delegation visits Rome for the Feast of Saints Peter and Paul
+
+date: 2025-06-27, from: Vatican News
+
+
+                    <p>Following a long-standing tradition, a delegation of the Ecumenical Patriarchate of Constantinople is in Rome this week to help build unity between the Catholic and Orthodox Churches.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/orthodox-delegation-visit-vatican-feast-saints-peter-and-paul.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/orthodox-delegation-visit-vatican-feast-saints-peter-and-paul.html>
+
+---
+
+## Pope Leo calls on priests to be builders of unity and peace
+
+date: 2025-06-27, from: Vatican News
+
+
+                    <p>On the Day for the Sanctification of Priests, Pope Leo invites his brother presbyters to be builders of unity and peace, and to renew their devotion to the Sacred Heart of Jesus. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-calls-on-priests-to-be-builders-of-unity-and-peace.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-calls-on-priests-to-be-builders-of-unity-and-peace.html>
+
+---
+
+## Peter's Pence 2024 report shows increase in support for Pope's mission
+
+date: 2025-06-27, from: Vatican News
+
+
+                    <p>The 2024 report on Peter’s Pence just released shows an increase in donations supporting the Pope’s mission. The annual fund brings in donations for the Pope’s mission for the universal Church. It raised € 58 million in 2024, an increase from € 52 million in 2023. A total of € 13.3 million funded 239 direct assistance projects in 66 countries around the world.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/peter-s-pence-2024-shows-increase-in-support-for-pope-s-mission.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/peter-s-pence-2024-shows-increase-in-support-for-pope-s-mission.html>
+
+---
+
+## Iran denies plan for resumption of nuclear talks with US
+
+date: 2025-06-27, from: RTÉ News
+
+Iran has denied it is set to resume nuclear talks with the United States after the end of a 12-day war with Israel and accused Washington of exaggerating the impact of US strikes. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0627/1520629-middle-east-iran/>
+
+---
+
+## Tenth anniversary of Holy See's recognition of State of Palestine
+
+date: 2025-06-27, from: Vatican News
+
+
+                    <p>Ten years after the Holy See formally recognized the State of Palestine, Palestine's new Foreign Minister, Varsen Aghabekian, says the 2015 agreement offers a vision of hope for the future of the Holy Land, beginning with the continued presence of Christians in their homeland.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/palestine-holy-see-recognition-tenth-anniversary.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/palestine-holy-see-recognition-tenth-anniversary.html>
+
+---
+
+## Duffy says Liveline 'will go on' after his departure
+
+date: 2025-06-27, from: RTÉ News
+
+As he prepared to hang up his mic on RTÉ Radio 1's Liveline on Friday, veteran broadcaster Joe Duffy said that the show will "go on" after his departure. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0627/1520618-joe-duffy-says-liveline-will-go-on/>
+
+---
+
+## Australian priest ordained by Pope: ‘God has always been at work'
+
+date: 2025-06-27, from: Vatican News
+
+
+                    <p>Father John Vespa from Australia, one of the thirty-two deacons ordained by the Pope in St. Peter’s Basilica, shares his vocational journey, which has special ties to Rome.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/australian-priest-ordained-by-pope-god-has-always-been-at-work.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/australian-priest-ordained-by-pope-god-has-always-been-at-work.html>
+
+---
+
+## Six US citizens arrested over packages to North Korea
+
+date: 2025-06-27, from: RTÉ News
+
+South Korean police have detained six US citizens who were attempting to deliver around 1,300 plastic bottles filled with rice, dollar notes and Bibles to North Korea, a police official said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0627/1520621-south-korea/>
+
+---
+
+## Pope Leo XIV at Ordination Mass: May priests be shaped by God's love
+
+date: 2025-06-27, from: Vatican News
+
+
+                    <p>On the Solemnity of the Sacred Heart of Jesus, Pope Leo XIV ordains 32 new priests and invites them to always stay close to the Lord and let themselves be constantly shaped by His Love.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-to-new-priests-love-god-and-pray-fervently.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-to-new-priests-love-god-and-pray-fervently.html>
+
+---
+
+## EU leaders agree to extend Russian sanctions - officials
+
+date: 2025-06-27, from: RTÉ News
+
+The EU's 27 leaders have agreed to extend sanctions on Russia for another six months, resolving fears that Kremlin-friendly Hungary would let the measures lapse, officials said. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0627/1520601-eu-summit/>
+
+---
+
+## Brazil's outspoken first lady comes under fire, but refuses to stop speaking out
+
+date: 2025-06-27, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7572400.1751010910!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/brazil-first-lady.jpg' alt='People seen behind several posts walk between two houses' width='620' height='349' title='Brazil&apos;s President Luiz Inacio Lula da Silva and his wife Rosangela da Silva arrive to announce a housing program for the Moinho Favela, in Sao Paulo, Thursday, June, 26, 2025. (AP Photo/Ettore Chiereguini)'/><p>Brazilian President Luiz Inácio Lula da Silva's government is grappling with unpopularity that has dented his credentials as the frontrunner for reelection next year. Some analysts, including members of his government, attribute this partly to his wife's perceived overstepping in what was once a ceremonial role.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/rosangela-da-silva-brazil-first-lady-1.7572395?cmp=rss>
+
+---
+
+## 'Twitter killer' who murdered nine is executed in Japan
+
+date: 2025-06-27, from: RTÉ News
+
+A man who murdered and dismembered nine people he met online, has been executed in Japan, in the country's first enactment of the death penalty since 2022. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0627/1520595-japan-execution/>
+
+---
+
+## EU scheme on defence systems about 'common procurement'
+
+date: 2025-06-27, from: RTÉ News
+
+The Tánaiste has said that by signing Ireland up to an EU instrument called Security Action for Europe, or SAFE, it will "assist us in keeping our people and our country safe in terms of our defence force capabilities". 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0627/1520586-ireland-defence-systems/>
+
+---
+
+## Budapest Pride ban at centre of Orbán's culture war
+
+date: 2025-06-27, from: RTÉ News
+
+The banned Budapest Pride parade is expected to be attended by tens of thousands of members of Hungary's LGBTQ+ community tomorrow as it is every year. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0627/1520536-budapest-pride-hungary/>
+
+---
+
+## Watch: Meet the voice behind 'Talk to Joe'
+
+date: 2025-06-27, from: RTÉ News
+
+For 27 years, listeners across the country have heard Joe Duffy present RTÉ's Liveline programme. Meet the man behind the familiar 'Talk to Joe' audio. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0627/1520548-talk-to-joe-liveline/>
+
+---
+
+## New EU rules on digital accessibility to come into force
+
+date: 2025-06-27, from: RTÉ News
+
+New EU rules come into force tomorrow which will require websites, apps and devices to be accessible for people with disabilities and older people. 
+
+<br> 
+
+<https://www.rte.ie/news/technology/2025/0627/1520552-digital-accessibility/>
+
+---
+
+## Eight primary schools to close permanently from today
+
+date: 2025-06-27, from: RTÉ News
+
+As primary schools across the country close today for the summer holidays, eight will be shutting their doors for the last time. 
+
+<br> 
+
+<https://www.rte.ie/news/education/2025/0627/1520515-primary-school-closures/>
+
+---
+
+## Alex Dunne makes F1 practice session debut for McLaren
+
+date: 2025-06-27, from: RTÉ News
+
+Offaly's Alex Dunne has become the first Irish driver in 22 years to take to the track in Formula 1 at a practice session for the Austrian Grand Prix. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0627/1520562-alex-dunne/>
+
+---
+
+## Duffy hailed as radio 'genius' ahead of final Liveline
+
+date: 2025-06-27, from: RTÉ News
+
+Joe Duffy has been hailed as a "broadcasting genius" with "an innate sense of decency, great timing and superb journalistic instincts" ahead of his departure from RTÉ Radio 1's Liveline later today. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0627/1520024-duffy-hailed-as-radio-genius-ahead-of-final-liveline/>
+
+---
+
+## Matcha is having a moment — and it's putting pressure on Japan's tea industry
+
+date: 2025-06-27, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/f8e35851-8ac1-4fe4-888b-a3c10ed1b80d,1750968982113/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C195%2C4700%2C2643%29%3BResize%3D%28620%29' alt='Bright green powder in a bowl' width='620' height='349' title='This picture taken on May 20, 2025 shows matcha on offer for beverages at Kettl Tea in the Los Feliz neighbourhood of Los Angeles, California. With its deep grassy aroma, intense colour and pick-me-up effects, the popularity of matcha &quot;has grown just exponentially over the last decade, but much more so in the last two to three years&quot;, the 40-year-old explained. (Photo by Frederic J. BROWN / AFP) / TO GO WITH:  Japan-US-food-drink-lifestyle-internet-agriculture, FOCUS by Caroline Gardin, with Romain Fonsegrives in Los Angeles'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/business/global-matcha-shortage-1.7571280?cmp=rss>
+
+---
+
+## NATO's history of running hot and cold on Ukraine is running cold again
+
+date: 2025-06-27, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.6290369.1750976420!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1237265309.jpg' alt='Two men in suits stand at podiums. One gestures with his hands as he speaks, while the other watches.' width='620' height='349' title='Ukrainian President Volodymyr Zelensky and NATO Secretary General Jens Stoltenberg (R) talk during a press conference after their bilateral meeting at the European Union headquarters in Brussels on December 16, 2021. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/nato-ukraine-analysis-1.7571630?cmp=rss>
+
+---
+
+## Iranian officials are banned from Canada — but this former regime member landed in April
+
+date: 2025-06-27, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7571909.1751017711!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mahdi-nasiri.jpg' alt='An image of Mahdi Nasiri at the airport. ' width='620' height='349' title='Former Iranian regime official Mahdi Nasiri posted on Instagram in April that he was leaving Iran and on his way to Canada. '/><p>Canada banned all senior Iranian officials who served from 2003 onward from entering the country and vowed to crack down on members of the regime currently here. But the case of Mahdi Nasiri in Canada is raising questions about how effective that crackdown is.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/former-iranian-regime-official-in-canada-1.7571903?cmp=rss>
+
+---
+
+## Combs defence team set to make closing arguments
+
+date: 2025-06-27, from: RTÉ News
+
+Sean "Diddy" Combs used "power, violence, and fear" as the head of a decades-long criminal enterprise, prosecutors told jurors as they presented closing arguments in the final stages of the high-profile trial. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0627/1520581-combs/>
+
+---
+
+## Say goodbye to the infamous Windows 'blue screen of death'
+
+date: 2025-06-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7572361.1750992154!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/blue-screen-of-death.jpg' alt='An error message is displayed on a blue screen with a frowning emoticon and a QR code. ' width='620' height='349' title='After more than 40 years, Microsoft is making updates to its infamous &apos;blue screen of death,&apos; which is displayed when a PC encounters an error and needs to restart. The tech giant says its new error message will be shorter and appear on a black background.'/><p>Nearly every Windows user has had a run-in with the "Blue Screen of Death" at some point in their computing lives. Now, after more than 40 years of being set against a very recognizable blue, Microsoft is giving the notorious error message a makeover.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/microsoft-windows-blue-screen-of-death-1.7572342?cmp=rss>
+
+---
+
+## 31 enforcement actions over mental health safeguards
+
+date: 2025-06-26, from: RTÉ News
+
+Thirty-one enforcement actions were issued last year to safeguard mental health patients and residents in 20 centres nationwide. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0627/1520549-mental-health-commission/>
+
+---
+
+## 'Intolerable risk to life' at Irish Traveller London site
+
+date: 2025-06-26, from: RTÉ News
+
+Irish Travellers living on London's largest authorised caravan site are being asked to leave due to fire safety concerns. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0627/1520557-irish-travellers-london/>
+
+---
+
+## Bezos-Sanchez wedding draws A-list celebs, angry protesters
+
+date: 2025-06-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/f532a0eb-99cf-4844-a6b6-1abad15ab269,1750974258561/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3BResize%3D%28620%29' alt='two people kiss' width='620' height='349' title='Jeff Bezos, left, and Lauren Sanchez kiss as they leave a hotel for their pre wedding reception, in Venice, Italy, Thursday, June 26, 2025.'/><p>A-list celebrities including Oprah Winfrey, Mick Jagger and Leonardo DiCaprio are in Venice for the wedding of Amazon billionaire Jeff Bezos and Lauren Sanchez. The massive event has also drawn protesters, angry over the income inequality they say Bezos exemplifies. </p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6813286?cmp=rss>
+
+---
+
+## Age checks to be enforced on video sharing platforms from July
+
+date: 2025-06-26, from: RTÉ News
+
+Video sharing platforms based in Ireland will face new legal obligations to verify users' ages before showing adult content from July, according to Coimisiún na Meán's Online Safety Commissioner. 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0626/1520563-age-checks/>
+
+---
+
+## Lalo Schifrin, who wrote endlessly catchy Mission: Impossible theme, dead at 93
+
+date: 2025-06-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7572228.1750978313!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/obit-lalo-schifrin.jpg' alt='A man poses for a photo.' width='620' height='349' title='FILE - Lalo Schifrin appears at the Governors Awards in Los Angeles on Nov. 18, 2018. (Photo by Jordan Strauss/Invision/AP, File)'/><p>Lalo Schifrin, the composer who wrote the instantly recognizable theme for Mission: Impossible and more than 100 other arrangements for film and television, died Thursday. He was 93.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/lalo-schifrin-obit-1.7572205?cmp=rss>
 
 ---
 
@@ -45,6 +525,30 @@ A forest fire has devastated several seaside towns east of the Greek capital Ath
 
 ---
 
+## Canadian cleric arrested in Armenia in connection to alleged coup attempt
+
+date: 2025-06-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7572079.1750973211!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/armenia-politics-priest.JPG' alt='A man in dark clothing gets taken away by police. ' width='620' height='349' title='Armenia&apos;s National Security officers arrest Archbishop of the Armenian Apostolic Church Bagrat Galstanyan, who is charged with attempting to overthrow the government and destabilizing the state, in Yerevan, Armenia, June 25, 2025. Melik Baghdasaryan/Photolure via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY.'/><p>A prominent Canadian cleric of the Armenian Apostolic Church is among more than a dozen people Armenia’s security services have arrested in connection to an alleged coup attempt this week.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/bagrat-galstanyan-arrested-armenia-1.7572054?cmp=rss>
+
+---
+
+## Sask. First Nations leaders back recently removed RCMP commanding officer
+
+date: 2025-06-26, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7226646.1717709707!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/blackmore.jpeg' alt='A woman in an RCMP uniform with many medals sits in front of a microphone.' width='620' height='349' title='Assistant Commissioner Rhonda Blackmore requested the comprehensive review of the RCMP&apos;s response to the James Smith Cree Nation stabbings. '/><p>The Federation of Sovereign Indigenous Nations (FSIN) is demanding answers after the sudden removal of Rhonda Blackmore as commanding officer of Saskatchewan’s RCMP F Division.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatchewan/fsin-rhonda-blackmore-rcmp-accountability-1.7572031?cmp=rss>
+
+---
+
 ## Inside the face scanning tech behind social media age limits
 
 date: 2025-06-26, from: RTÉ News
@@ -66,6 +570,18 @@ A group of local school children from Scoil Ghráinne Community National School 
 <br> 
 
 <https://www.rte.ie/news/2025/0626/1520532-inside-data-centre/>
+
+---
+
+## Carney's 'nation-building' projects bill passes into law — but not without Indigenous pushback
+
+date: 2025-06-26, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7572015.1750968982!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/carney-europe-20250625.JPG' alt='Prime Minister Mark Carney holds a closing press conference following the NATO Summit in The Hague, Netherlands on Wednesday, June 25, 2025.' width='620' height='349' title='Prime Minister Mark Carney holds a closing press conference following the NATO Summit in The Hague, Netherlands on Wednesday, June 25, 2025.'/><p>The Senate passed Prime Minister Mark Carney's landmark 'nation-building' projects bill unamended Thursday, giving the federal government extraordinary new powers to fast-track initiatives that have the potential to boost the economy as Canada grapples with the U.S. trade war.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/carney-c5-passes-senate-1.7572005?cmp=rss>
 
 ---
 
@@ -121,6 +637,18 @@ A special scheme for healthcare workers living with long Covid will finish at th
 
 ---
 
+## Long Covid scheme extended after court recommendation
+
+date: 2025-06-26, from: RTÉ News
+
+The Labour Court has recommended a final extension of the current special scheme for healthcare workers living with long Covid to run up to 31 December 2025, which the Government has now accepted. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0626/1520517-long-covid-scheme/>
+
+---
+
 ## Vogue's Anna Wintour exits editor-in-chief post, but remains brand's global boss
 
 date: 2025-06-26, from: CBC, World News
@@ -130,18 +658,6 @@ date: 2025-06-26, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/entertainment/vogue-editor-anna-wintour-steps-down-1.7571845?cmp=rss>
-
----
-
-## Canadian dies while in ICE custody in Florida, U.S. agency says
-
-date: 2025-06-26, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7564824.1750274717!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/new-york-immigration-court-arrest.jpg' alt='A man in handcuffs' width='620' height='349' title='A man holds his immigration paperwork while handcuffed after being detained by Immigration and Customs Enforcement (ICE) agents outside an immigration courtroom, Tuesday, June 17, 2025, at the Jacob K. Javits federal building in New York.'/><p>A Canadian citizen died while in custody of U.S. Immigration and Customs Enforcement earlier this week, the agency says.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/politics/canadian-dies-in-ice-custody-1.7571876?cmp=rss>
 
 ---
 
@@ -309,6 +825,18 @@ Aontú is calling for all-party support for proposed legislation to make the fir
 
 ---
 
+## World leaders are arguing over the damage to Iran's nuclear sites. But where is its enriched uranium?
+
+date: 2025-06-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7568009.1750607783!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/iran-nuclear-usa.JPG' alt='A satellite view shows an overview of Fordow underground complex, after the U.S. struck the underground nuclear facility, near Qom, Iran June 22, 2025.    ' width='620' height='349' title='A satellite view shows an overview of Fordow underground complex, after the U.S. struck the underground nuclear facility, near Qom, Iran June 22, 2025.     '/><p>There is a lot of confusion about how much damage U.S. bombs did to Iran's nuclear sites. But experts say the bigger question is whether Iran moved the uranium, as its whereabouts are unknown to the world's governing body for nuclear energy.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/iran-nuclear-enrichment-us-bombing-damage-1.7571300?cmp=rss>
+
+---
+
 ## Trump 'exaggerated' impact of US strikes on nuclear sites
 
 date: 2025-06-26, from: RTÉ News
@@ -347,7 +875,7 @@ When Bashar Al-Assad ruled Syria, his regime was widely accused of profiting fro
 
 ## Eighty years on, UN Charter marked by reflection, resolve – and a run
 
-date: 2025-06-26, from: United Nations, Top Stories
+date: 2025-06-26, from: United Nations, UN Affairs
 
 It wasn’t an average Thursday morning in Manhattan. In the early hours, UN diplomats (and UN News) hit the streets in their sneakers – from Times Square to East River – following a route that traced the shape of “UN@80”. 
 
@@ -385,7 +913,7 @@ The UN is monitoring the situation in Kenya in the wake of deadly antigovernment
 
 date: 2025-06-26, from: United Nations, Top Stories
 
-Palestinians in the occupied West Bank, including East Jerusalem, are increasingly being subjected to forced displacement and land seizures, the UN human rights office, OHCHR, has reported.&nbsp; 
+Palestinians in the occupied West Bank, including East Jerusalem, are increasingly being subjected to forced displacement and land seizures, the UN human rights office, OHCHR, reported on Thursday.&nbsp; 
 
 <br> 
 
@@ -402,6 +930,42 @@ Most families in the Gaza Strip are surviving on one meal a day and one-third go
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/06/1164951>
+
+---
+
+## Millions remain invisible – but Asia-Pacific leaders pledge change by 2030
+
+date: 2025-06-26, from: United Nations, Top Stories
+
+More than a decade after Asian and Pacific nations launched a campaign to ensure every life is counted, millions across the region still remain “invisible” – born, living, and dying without formal recognition. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1165001>
+
+---
+
+## Upcoming elections ‘crucial opportunity’ for Central African Republic, UN top official tells Security Council
+
+date: 2025-06-26, from: United Nations, Top Stories
+
+As the Central African Republic (CAR) prepares for upcoming elections, the country continues to grapple with a fragile security and humanitarian context, the UN Security Council heard on Thursday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164996>
+
+---
+
+## Ukraine: Increasing hostilities displace civilians, limit humanitarian access
+
+date: 2025-06-26, from: United Nations, Top Stories
+
+Deadly hostilities continued along the front-line regions of Ukraine on Wednesday, displacing civilians and damaging civilian infrastructure, the UN has reported.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164986>
 
 ---
 
@@ -426,6 +990,18 @@ An independent review should be conducted into the murder of a Co Armagh teenage
 <br> 
 
 <https://www.rte.ie/news/ulster/2025/0626/1520454-marian-beattie/>
+
+---
+
+## From Bobby Sherman to Bieber, the mixed fortunes of teen idols
+
+date: 2025-06-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7570551.1750870878!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/osmond-sherman.jpg' alt='A cleanshaven man is shown in a black and white photo, along with several other photos. ' width='620' height='349' title='Osmond social media post'/><p>Former teen idol Bobby Sherman, who died this week at age 81, led an apparently productive and fulfilling life after fading from the spotlight. Justin Bieber, one of the last of the male teen idols, does not appear to be on that path.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/bobby-sherman-legacy-1.7570214?cmp=rss>
 
 ---
 
@@ -808,7 +1384,7 @@ Ukraine and the Council of Europe human rights body have signed an agreement on 
 
 ---
 
-## Trump's 'revenge tax' on other countries could hit U.S.
+## Treasury secretary calls to scrap Trump's 'revenge tax' that could hit Canada, U.S.
 
 date: 2025-06-26, from: CBC, World News
 
@@ -1330,7 +1906,7 @@ A High Court judge has deferred giving her judgment on the future of an IPAS cen
 
 ## $1 towards a girl’s education = $3 for the global economy: That's how development works
 
-date: 2025-06-25, from: United Nations, Top Stories
+date: 2025-06-25, from: United Nations, Economic Development
 
 Helping those with less isn’t charity – it’s a shared investment in a better future. Yet global development financing is under strain. An upcoming UN conference in Sevilla, Spain, aims to change that by mobilizing large-scale investment for a more just and sustainable world. 
 
@@ -1354,7 +1930,7 @@ Dozens of civilians – including children and school staff – were killed or w
 
 ## Sevilla conference on development financing shows optimism for multilateralism
 
-date: 2025-06-25, from: United Nations, Top Stories
+date: 2025-06-25, from: United Nations, Economic Development
 
 It’s been 10 years since the Addis Ababa Action Agenda was established to support the implementation of the 2030 Agenda for Sustainable Development, the world’s roadmap for ending poverty, protecting the planet and tackling inequalities. 
 
@@ -2334,7 +2910,7 @@ A fragile ceasefire brokered by the United States between Iran and Israel appear
 
 ## Bold new initiative aims to strengthen and improve the UN, senior officials tell Member States
 
-date: 2025-06-24, from: United Nations, Top Stories
+date: 2025-06-24, from: United Nations, UN Affairs
 
 Member States heard on Tuesday how the UN is progressing with a new plan to ensure the world body remains effective, cost-efficient and responsive to the billions of people it serves.&nbsp; 
 
@@ -2394,7 +2970,7 @@ The Security Council met Tuesday in New York over the future of the Joint Compre
 
 ## Power to the people; funding community-led development in Somalia
 
-date: 2025-06-24, from: United Nations, Top Stories
+date: 2025-06-24, from: United Nations, Economic Development
 
 A story of grassroots persistence in Somalia could serve as a powerful reminder of the impact of innovative financing mechanisms as the international community meets in Spain to discuss how to fund global sustainable development. 
 
@@ -3156,7 +3732,7 @@ The food security situation in Government-controlled areas of southern Yemen is 
 
 ## UN80 Initiative: What it is – and why it matters to the world
 
-date: 2025-06-23, from: United Nations, Top Stories
+date: 2025-06-23, from: United Nations, UN Affairs
 
 In a world grappling with growing crises, deepening inequalities, and eroding trust in global institutions, the United Nations has launched an ambitious effort to strengthen how it serves people everywhere. The UN80 Initiative, unveiled in March by Secretary-General António Guterres, is a system-wide push to streamline operations, sharpen impact, and reaffirm the UN’s relevance for a rapidly changing world. 
 
@@ -3168,7 +3744,7 @@ In a world grappling with growing crises, deepening inequalities, and eroding tr
 
 ## 80 years later, the UN Charter is a ‘living miracle,’ Secretary-General says
 
-date: 2025-06-23, from: United Nations, Top Stories
+date: 2025-06-23, from: United Nations, UN Affairs
 
 In front of a multimedia exhibit at United Nations Headquarters entitled “Reviving the Spirit of San Francisco,” Secretary-General António Guterres welcomed home the UN Charter which was signed in 1945 in the Californian city.&nbsp; 
 

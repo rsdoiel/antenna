@@ -1,11 +1,74 @@
 ---
 title: socal north
-updated: 2025-06-26 14:07:27
+updated: 2025-06-27 06:08:56
 ---
 
 # socal north
 
-(date: 2025-06-26 14:07:27)
+(date: 2025-06-27 06:08:56)
+
+---
+
+## Construction of high-speed internet project begins in Compton
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+The goal is to improve quality connection throughout southeast L.A. 
+
+<br> 
+
+<https://laist.com/news/construction-of-high-speed-internet-project-begins-in-compton>
+
+---
+
+## Trump’s Department of Justice sues Orange County for noncitizen voting records
+
+date: 2025-06-26, updated: 2025-06-26, from: The LAist
+
+The county says it’s willing to share the records under a strict confidentiality agreement. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-justice-department-sues-orange-county-noncitizen-voting-records>
+
+---
+
+## Metro to update protocols for closing stations after passengers were left 'stranded' during protests
+
+date: 2025-06-26, updated: 2025-06-26, from: The LAist
+
+“ I heard people were walking miles to try to get out, and these were people that were dispersing because they were ordered to disperse,” Metro board chair and L.A. County Supervisor Janice Hahn said. 
+
+<br> 
+
+<https://laist.com/news/transportation/la-metro-station-closures>
+
+---
+
+## Judge temporarily blocks SPCALA’s eviction from Long Beach animal shelter
+
+date: 2025-06-26, from: Longbeach Post
+
+<figure><img width="1024" height="670" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t-1024x670.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t-1024x670.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t-300x196.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t-768x502.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t-165x108.jpg 165w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t-400x262.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The two sides have been locked in a legal fight since the city accused the animal welfare nonprofit of violating its contract to handle pet adoptions.</p>
+<p>The post <a href="https://lbpost.com/news/city/judge-temporarily-blocks-spcalas-eviction-from-long-beach-animal-shelter">Judge temporarily blocks SPCALA’s eviction from Long Beach animal shelter</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/judge-temporarily-blocks-spcalas-eviction-from-long-beach-animal-shelter>
+
+---
+
+## California colleges spend millions to catch plagiarism and AI. Is the faulty tech worth it?
+
+date: 2025-06-26, updated: 2025-06-26, from: The LAist
+
+Turnitin’s AI detectors are flawed and the company demands forever access to student papers. 
+
+<br> 
+
+<https://laist.com/news/education/california-colleges-spend-millions-to-catch-plagiarism-and-ai-is-the-faulty-tech-worth-it>
 
 ---
 
@@ -51,7 +114,7 @@ What started as a strategy to integrate campuses can now feel like an opaque com
 
 date: 2025-06-26, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The land at stake ranges from dense, remote coastal forests in the far north, to alpine conifer forests in the Sierra Nevada, to Southern California’s great expanses of brush. Experts dispute whether revoking the two-decade-old rule would help prevent wildfires.</p>
 <p>The post <a href="https://lbpost.com/news/these-4-million-acres-of-california-forests-could-lose-protection-heres-what-trumps-roadless-rule-repeal-could-do">These 4 million acres of California forests could lose protection. Here’s what Trump’s ‘roadless rule’ repeal could do</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

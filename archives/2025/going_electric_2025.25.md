@@ -1,11 +1,87 @@
 ---
 title: going electric
-updated: 2025-06-26 14:07:36
+updated: 2025-06-27 06:09:04
 ---
 
 # going electric
 
-(date: 2025-06-26 14:07:36)
+(date: 2025-06-27 06:09:04)
+
+---
+
+## ‘Who Gives Their Phone to a Lot of People?:' Tesla Driver Says You Should Enable This Little-Known Feature. Viewers Aren’t Sure
+
+date: 2025-06-27, from: Inside EVs News
+
+"Might stop your 8-year-old from accidentally putting the car in drive." 
+
+<br> 
+
+<https://insideevs.com/news/764016/tesla-security-feature-divides-drivers/>
+
+---
+
+## California cops are teaching kids to ride electric bikes
+
+date: 2025-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/ebike-safety-course-header-teen-kid.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Electric bikes have exploded in popularity – and so have the risks. In Huntington Beach, California, rising e-bike crashes involving young riders prompted the city’s police department to launch what may be California’s first police-led e-bike safety course for kids, and it might be exactly the kind of inventive community-based program more places need.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="422520" href="https://electrek.co/2025/06/27/california-cops-are-teaching-kids-to-ride-electric-bikes/#more-422520" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/27/california-cops-are-teaching-kids-to-ride-electric-bikes/>
+
+---
+
+## Podcast: Xiaomi shocks with YU7,  Tesla Robotaxi launch, Rivian brings back tank mode, and more
+
+date: 2025-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Xiaomi shocking the industry with YU7, Tesla’s Robotaxi launch, Rivian bringing back tank mode, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="422501" href="https://electrek.co/2025/06/26/podcast-xiaomi-shocks-yu7-tesla-robotaxi-launch-rivian-brings-back-tank-mode/#more-422501" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/podcast-xiaomi-shocks-yu7-tesla-robotaxi-launch-rivian-brings-back-tank-mode/>
+
+---
+
+## US solar sets new records as renewables nearly match natural gas – EIA
+
+date: 2025-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Pittsburgh-Airport-solar.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Solar provided over 10% of total US electrical generation in April, wind and solar produced almost one-quarter, and the mix of all renewable energy generated nearly a third, according to data just released by the US Energy Information Administration (EIA).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="coal,egeb,eia,energy-brief,solar,hydropower,oil-and-gas,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="422483" href="https://electrek.co/2025/06/26/us-solar-sets-new-records-as-renewables-nearly-match-natural-gas-eia/#more-422483" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/us-solar-sets-new-records-as-renewables-nearly-match-natural-gas-eia/>
+
+---
+
+## Here’s a look at the Kia EV4 GT before you’re supposed to see it [Video]
+
+date: 2025-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Kia-EV4-GT-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s upcoming EV4 GT is gunning for the Tesla Model 3 Performance, but it’s expected to undercut the price. Could this be the affordable electric sports car we’ve been waiting for? A new video shows the <a href="https://electrek.co/guides/kia-ev4/">Kia EV4 GT</a> driving on US streets ahead of its debut.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" data-post-id="422479" href="https://electrek.co/2025/06/26/heres-a-look-at-kia-ev4-gt-before-youre-supposed-to-see-it/#more-422479" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/heres-a-look-at-kia-ev4-gt-before-youre-supposed-to-see-it/>
 
 ---
 

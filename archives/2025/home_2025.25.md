@@ -1,11 +1,171 @@
 ---
 title: home
-updated: 2025-06-26 14:07:34
+updated: 2025-06-27 06:09:02
 ---
 
 # home
 
-(date: 2025-06-26 14:07:34)
+(date: 2025-06-27 06:09:02)
+
+---
+
+## 8 Common Woodpeckers in Minnesota (Pictures and Identification)
+
+date: 2025-06-27, from: Yard Life blog
+
+<p>Woodpeckers in Minnesota are a familiar sight in forests, parks, and even neighborhood backyards. These unique birds are known for ... </p>
+<p class="read-more-container"><a title="8 Common Woodpeckers in Minnesota (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/8-common-woodpeckers-in-minnesota-pictures-and-identification/#more-31336" aria-label="Read more about 8 Common Woodpeckers in Minnesota (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/8-common-woodpeckers-in-minnesota-pictures-and-identification/">8 Common Woodpeckers in Minnesota (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/8-common-woodpeckers-in-minnesota-pictures-and-identification/>
+
+---
+
+## 6 Wild Rabbits in Texas (With Pictures and Identification)
+
+date: 2025-06-27, from: Yard Life blog
+
+<p>Wild rabbits in Texas live in many different places, from forests to deserts. They are an important part of nature ... </p>
+<p class="read-more-container"><a title="6 Wild Rabbits in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/6-wild-rabbits-in-texas-with-pictures-and-identification/#more-31326" aria-label="Read more about 6 Wild Rabbits in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/6-wild-rabbits-in-texas-with-pictures-and-identification/">6 Wild Rabbits in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/6-wild-rabbits-in-texas-with-pictures-and-identification/>
+
+---
+
+## 7 Squirrels in Colorado (With Pictures and Identification)
+
+date: 2025-06-27, from: Yard Life blog
+
+<p>Squirrels in Colorado are common and lively animals that many people enjoy watching outdoors. These small mammals live in forests, ... </p>
+<p class="read-more-container"><a title="7 Squirrels in Colorado (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/7-squirrels-in-colorado-with-pictures-and-identification/#more-31313" aria-label="Read more about 7 Squirrels in Colorado (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/7-squirrels-in-colorado-with-pictures-and-identification/">7 Squirrels in Colorado (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/7-squirrels-in-colorado-with-pictures-and-identification/>
+
+---
+
+## 13 Owls in New Mexico (With Pictures and Identification)
+
+date: 2025-06-27, from: Yard Life blog
+
+<p>Owls in New Mexico are fascinating birds that many people enjoy spotting in the wild. With a variety of species ... </p>
+<p class="read-more-container"><a title="13 Owls in New Mexico (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/13-owls-in-new-mexico-with-pictures-and-identification/#more-31304" aria-label="Read more about 13 Owls in New Mexico (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/13-owls-in-new-mexico-with-pictures-and-identification/">13 Owls in New Mexico (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/13-owls-in-new-mexico-with-pictures-and-identification/>
+
+---
+
+## Discover the Majestic Eagles in California: Where to Spot Them
+
+date: 2025-06-27, from: Yard Life blog
+
+<p>California is a state known for its diverse landscapes, ranging from towering mountains to vast coastlines, lush forests to expansive ... </p>
+<p class="read-more-container"><a title="Discover the Majestic Eagles in California: Where to Spot Them" class="read-more button" href="https://ownyardlife.com/discover-the-majestic-eagles-in-california-where-to-spot-them/#more-31296" aria-label="Read more about Discover the Majestic Eagles in California: Where to Spot Them">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/discover-the-majestic-eagles-in-california-where-to-spot-them/">Discover the Majestic Eagles in California: Where to Spot Them</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/discover-the-majestic-eagles-in-california-where-to-spot-them/>
+
+---
+
+## 11 Blue Birds in Ohio (With Pictures and Identification)
+
+date: 2025-06-27, from: Yard Life blog
+
+<p>Ohio is home to many beautiful blue birds that catch the eye of birdwatchers and nature lovers alike. From the ... </p>
+<p class="read-more-container"><a title="11 Blue Birds in Ohio (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/11-blue-birds-in-ohio-with-pictures-and-identification/#more-31288" aria-label="Read more about 11 Blue Birds in Ohio (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/11-blue-birds-in-ohio-with-pictures-and-identification/">11 Blue Birds in Ohio (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/11-blue-birds-in-ohio-with-pictures-and-identification/>
+
+---
+
+## 12 Red Birds in Michigan (With Pictures and Identification)
+
+date: 2025-06-27, from: Yard Life blog
+
+<p>Michigan&#8217;s forests, fields, and backyard feeders are alive with color throughout the year, and few sights are more striking than ... </p>
+<p class="read-more-container"><a title="12 Red Birds in Michigan (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/12-red-birds-in-michigan-with-pictures-and-identification/#more-31280" aria-label="Read more about 12 Red Birds in Michigan (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/12-red-birds-in-michigan-with-pictures-and-identification/">12 Red Birds in Michigan (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/12-red-birds-in-michigan-with-pictures-and-identification/>
+
+---
+
+## 37 Small Birds in Mississippi (With Pictures and Identification)
+
+date: 2025-06-27, from: Yard Life blog
+
+<p>Small Birds in Mississippi bring life and color to backyards, parks, and forests throughout the state. Birdwatchers and nature lovers ... </p>
+<p class="read-more-container"><a title="37 Small Birds in Mississippi (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/37-small-birds-in-mississippi-with-pictures-and-identification/#more-31270" aria-label="Read more about 37 Small Birds in Mississippi (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/37-small-birds-in-mississippi-with-pictures-and-identification/">37 Small Birds in Mississippi (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/37-small-birds-in-mississippi-with-pictures-and-identification/>
+
+---
+
+## These Are the Best New Summer Products at Trader Joe’s
+
+date: 2025-06-26, from: Sunset Magazine - Living in the West
+
+What’s new at Trader Joe’s this summer? A lot of sweet treats, picnic essentials, and even some summer skincare finds. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/trader-joes-new-summer-products-2025>
+
+---
+
+## If You See a Big “L” on Someone’s Car, Here’s What It Means
+
+date: 2025-06-26, from: Family Handyman Blog
+
+<p>L plates (or learner plates) are used around the world to signal that a driver is still learning. Discover where they’re used, who needs them, and why they matter for road safety.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/l-sticker-learner-plate/">If You See a Big &#8220;L&#8221; on Someone&#8217;s Car, Here&#8217;s What It Means</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/l-sticker-learner-plate/>
+
+---
+
+## Home Team
+
+date: 2025-06-26, from: California Native Plants Society
+
+<p>Six inspiring leaders on how we save what matters most in California.</p>
+<p>The post <a href="https://www.cnps.org/flora-magazine/cnps-conservation-panel-discussion-43694">Home Team</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/flora-magazine/cnps-conservation-panel-discussion-43694>
 
 ---
 
@@ -30,6 +190,18 @@ Experts say it’s way more complicated than high interest rates.
 <br> 
 
 <https://www.dwell.com/article/why-arent-people-buying-houses-5b19a8b1>
+
+---
+
+## These Are Hands Down the Easiest (and Tastiest) Camping Meals
+
+date: 2025-06-26, from: Sunset Magazine - Living in the West
+
+With some thoughtful prep work and a little know-how, you can still eat really well while camping. These are the best meals. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/easiest-tastiest-camping-meals>
 
 ---
 
@@ -315,6 +487,18 @@ Builder Nick Maimone drew on his artistic background and the ’60s countercultu
 <br> 
 
 <https://www.dwell.com/article/construction-diary-goat-rock-cabin-renovation-sunrise-homestead-jenner-fa0d7dee>
+
+---
+
+## This Modern-Day Rodeo Is Bringing Cowboy Culture to a New Generation
+
+date: 2025-06-25, from: Sunset Magazine - Living in the West
+
+IRON Rodeo is hosting rodeo events that's equal parts fashion show, day club, and social gathering, bringing the lifestyle to new audiences. 
+
+<br> 
+
+<https://www.sunset.com/travel/iron-rodeo>
 
 ---
 
@@ -648,18 +832,6 @@ The Points Guy released their annual data on the best and worst airlines to fly 
 <br> 
 
 <https://www.sunset.com/travel/worst-airlines-2025>
-
----
-
-## These Are the Best New Summer Products at Trader Joe’s
-
-date: 2025-06-24, from: Sunset Magazine - Living in the West
-
-What’s new at Trader Joe’s this summer? A lot of sweet treats, picnic essentials, and even some summer skincare finds. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/trader-joes-new-summer-products-2025>
 
 ---
 

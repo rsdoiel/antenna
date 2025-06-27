@@ -1,11 +1,49 @@
 ---
 title: journalism
-updated: 2025-06-26 14:07:32
+updated: 2025-06-27 06:09:01
 ---
 
 # journalism
 
-(date: 2025-06-26 14:07:32)
+(date: 2025-06-27 06:09:01)
+
+---
+
+## Department of Justice opens investigation for alleged UC employment discrimination
+
+date: 2025-06-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated June 26 at 6:00 p.m.</em>
+The United States Department of Justice launched an investigation against the UC on Thursday, citing concerns that the University may have engaged in race and sex-based employment discrimination. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/26/news-dojlawsuitjune2025/>
+
+---
+
+## One person arrested for weapons possession near Ronald Reagan UCLA Medical Center
+
+date: 2025-06-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Police Department arrested one person for the possession of weapons near the Ronald Reagan UCLA Medical Center following a domestic violence incident Wednesday.
+The suspect possessed a gun and multiple illegal knives that UCPD recovered upon apprehending the suspect, according to a UCPD Instagram post. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/26/one-person-arrested-for-weapons-possession-near-ronald-reagan-ucla-medical-center/>
+
+---
+
+## ‘Voyage into X’: CNBLUE’s Special Return to Los Angeles
+
+date: 2025-06-26, from: The Sundail (CSUN Student Newspaper)
+
+After more than a decade, the Korean pop-rock band CNBLUE returned to Los Angeles for their VOYAGE into X North America tour at The Novo on April 24, 2025. The... 
+
+<br> 
+
+<https://sundial.csun.edu/194633/uncategorized/voyage-into-x-cnblues-special-return-to-los-angeles/>
 
 ---
 

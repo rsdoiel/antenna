@@ -1,11 +1,179 @@
 ---
 title: columns
-updated: 2025-06-26 14:07:31
+updated: 2025-06-27 06:08:59
 ---
 
 # columns
 
-(date: 2025-06-26 14:07:31)
+(date: 2025-06-27 06:08:59)
+
+---
+
+## Friday, June 27, 2025
+
+date: 2025-06-27, from: Doc Searls (at Harvard), New Old Blog
+
+And, by making it personal, it&#39;s a story after all.  For every person we know who has had trouble getting into the U.S. from Europe, Asia, Canada, or elsewhere, we know dozens who have experienced the opposite. Since there are only facts in &#34;no trouble at all,&#34; and no story, the no-trouble non-story tends not [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/06/27/friday-june-27-2025/>
+
+---
+
+## The Age of Integrity
+
+date: 2025-06-27, updated: 2025-06-26, from: Bruce Schneier blog
+
+<p>We need to talk about data integrity.</p>
+<p>Narrowly, the term refers to ensuring that data isn’t tampered with, either in transit or in storage. Manipulating account balances in bank databases, removing entries from criminal records, and murder by removing notations about allergies from medical records are all integrity attacks.</p>
+<p>More broadly, integrity refers to ensuring that data is correct and accurate from the point it is collected, through all the ways it is used, modified, transformed, and eventually deleted. Integrity-related incidents include malicious actions, but also inadvertent mistakes...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/06/the-age-of-integrity.html>
+
+---
+
+## The Corporate Democrat’s Biggest Nightmare 
+
+date: 2025-06-27, from: Robert Reich's blog
+
+He&#8217;s on the way to becoming mayor of New York City 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-corporate-democrats-biggest-nightmare>
+
+---
+
+## June 26, 2025
+
+date: 2025-06-27, from: Heather Cox Richardson blog
+
+This morning&#8217;s press conference with Defense Secretary Pete Hegseth featured an apparently angry Hegseth yelling at the media for contradicting President Donald Trump&#8217;s claim that last weekend&#8217;s strikes against Iran had &#8220;completely obliterated&#8221; its nuclear weapons program. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-26-2025>
+
+---
+
+## More on Apple’s Trust-Eroding ‘F1 The Movie’ Wallet Ad
+
+date: 2025-06-27, updated: 2025-06-27, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://mastodon.social/@czeins/114739403773350112>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-27, from: Miguel de Icaza Mastondon feed)
+
+<p>I did the tourist thing and got myself some new kitchen knives.   Those tomatoes stand no chance against my new blade.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114752869459718802>
+
+---
+
+## The Talk Show: ‘Through the Wall Like Kool-Aid Man’
+
+date: 2025-06-27, updated: 2025-06-27, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/thetalkshow/2025/06/26/ep-425>
+
+---
+
+## Conferences, Clarity, and Smokescreens
+
+date: 2025-06-27, updated: 2025-06-27, from: Alex Russel's blog
+
+ 
+
+<br> 
+
+<https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/>
+
+---
+
+## Mac Finder Redesign? Snooze
+
+date: 2025-06-26, from: Om Malik blog
+
+512 Pixels: If you missed my previous post on the topic, the first version of Tahoe had the dark blue on the right side of the Finder icon, which was criminal. Our 14-day national nightmare is over. As of Developer Beta 2, the Finder icon in macOS Tahoe has been updated to reflect 30 years &#8230; 
+
+<br> 
+
+<https://om.co/2025/06/26/mac-finder-redesign-snooze/>
+
+---
+
+##  Ex-FBI agent on ICE masking: &#8220;Masking has always been associated with police... 
+
+date: 2025-06-26, updated: 2025-06-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047037-ex-fbi-agent-who-went-und>
+
+---
+
+## Friday 26 June, 2025
+
+date: 2025-06-26, from: John Naughton's online diary
+
+There’s a new sheriff in town Quote of the Day &#8220;It’s no surprise that the National Security Council, which is the part of the US policy apparatus that specializes in ensuring consistency, has gone through so much chaos and upheaval &#8230; <a href="https://memex.naughtons.org/friday-26-june-2025/40970/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-26-june-2025/40970/>
+
+---
+
+## Listen Up, Democrats
+
+date: 2025-06-26, from: Dan Rather's Steady
+
+Lessons to be learned from an NYC shocker 
+
+<br> 
+
+<https://steady.substack.com/p/listen-up-democrats>
+
+---
+
+##  Scammers are using AI tools to sell spectacular-looking but non-existent plant species... 
+
+date: 2025-06-26, updated: 2025-06-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047032-scammers-are-using-ai-too>
+
+---
+
+##  Cheating Expert Answers Casino Cheating Questions 
+
+date: 2025-06-26, updated: 2025-06-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/cheating-expert-answers-casino-cheating-questions>
 
 ---
 
@@ -57,7 +225,7 @@ I, like a lot of other people, assumed that Americans would be terrible at autho
 
 ## Apple Wallet Sends Push Notification Ad Pushing ‘F1 The Movie’
 
-date: 2025-06-26, updated: 2025-06-26, from: Daring Fireball
+date: 2025-06-26, updated: 2025-06-27, from: Daring Fireball
 
  
 
@@ -845,7 +1013,7 @@ We treat generative AI like magic&#8230; and magic systems have rules. When crea
 
 ## Sorry, MacOS Tahoe Beta 2 Still Does the Finder Icon Dirty
 
-date: 2025-06-25, updated: 2025-06-25, from: Daring Fireball
+date: 2025-06-25, updated: 2025-06-27, from: Daring Fireball
 
  
 
