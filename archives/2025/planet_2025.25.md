@@ -1,11 +1,268 @@
 ---
 title: planet
-updated: 2025-06-27 06:08:54
+updated: 2025-06-27 14:06:59
 ---
 
 # planet
 
-(date: 2025-06-27 06:08:54)
+(date: 2025-06-27 14:06:59)
+
+---
+
+## Mother describes being made homeless as 'traumatic'
+
+date: 2025-06-27, from: RTÉ News
+
+Lorraine and her two daughters have found themselves in a predicament they never envisaged. The landlord of the house they rented for many years needed the property back for a family member, which Lorraine understood entirely. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0627/1520750-homeless-mother/>
+
+---
+
+## Joe Duffy not approached about running for Áras
+
+date: 2025-06-27, from: RTÉ News
+
+Broadcaster Joe Duffy has said that he has not been approached to contest in the next presidential election. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0627/1520747-joe-duffy/>
+
+---
+
+## Podcast: School beating, defence spend and Bezos wedding
+
+date: 2025-06-27, from: RTÉ News
+
+The 'wild west' of corporal punishment in school is something that RTÉ's Political Correspondent Paul Cunningham remembers well. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0627/1520727-podcast-school-beating-defence-spend-and-bezos-wedding/>
+
+---
+
+## US court limits judges' power to block citizenship order
+
+date: 2025-06-27, from: RTÉ News
+
+The US Supreme Court dealt a blow to the power of federal judges by restricting their ability to grant broad legal relief in cases as the justices acted in a legal fight over President Donald Trump's bid to limit birthright citizenship. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0627/1520725-us-birthright-citizenship/>
+
+---
+
+## RTÉ denies making worker 'misrepresent' tax status
+
+date: 2025-06-27, from: RTÉ News
+
+A senior human resources manager at RTÉ has denied that it procured a media worker to "misrepresent his employment status" to the taxman to get shifts in its newsroom. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0627/1520728-work-relations-rte/>
+
+---
+
+## U.S. vaccine panel rejects flu shots with a specific preservative, despite safety data
+
+date: 2025-06-27, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7572803.1751040734!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/flu-vaccination-rates-20221214.JPG' alt='A close-up of gloved hands holding a needle and about to deliver a shot to someone&apos;s upper arm. ' width='620' height='349' title='In this file photo, a patient receives an influenza vaccine in Mesquite, Texas, in 2020. Despite the ongoing crush of sick children straining Canadian hospitals, not enough people are getting vaccinated against the flu virus, doctors say.'/><p>The Trump administration's new vaccine advisers on Thursday endorsed this fall's flu vaccinations for just about every American — but only if they use certain shots free of a preservative that has been safely used in vaccines for decades, a decision sparking concerns for medical organizations.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/health/thimerosal-vaccine-panel-1.7572755?cmp=rss>
+
+---
+
+## Investigators analyzing black box data from fatal Air India crash
+
+date: 2025-06-27, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7573155.1751054748!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/india-crash-blackbox.JPG' alt='A man stands next to a downed airplane.' width='620' height='349' title='FILE PHOTO: A fire officer stands next to the crashed Air India Boeing 787-8 Dreamliner aircraft, in Ahmedabad, India, June 13, 2025. REUTERS/Adnan Abidi/File Photo'/><p>Investigators have begun analyzing data extracted from the black boxes of the ill-fated Air India Boeing 787 Dreamliner that crashed on June 12, killing at least 270 people, India's Civil Aviation Ministry said on Thursday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/air-india-crash-black-box-1.7573145?cmp=rss>
+
+---
+
+## Donohoe faces challenge for Eurogroup president role
+
+date: 2025-06-27, from: RTÉ News
+
+Minister for Finance Paschal Donohoe will face two other candidates as he seeks a new term leading the Eurogroup panel of eurozone finance ministers in a vote next month. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0627/1520719-donohoe-eurozone-finance-ministers/>
+
+---
+
+## WHO says all Covid-19 origin theories still open
+
+date: 2025-06-27, from: RTÉ News
+
+All hypotheses on how the Covid-19 pandemic began remain open, the World Health Organization said Friday, following an inconclusive four-year investigation. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0627/1520717-who-covid-theories/>
+
+---
+
+## Netanyahu's request to delay corruption trial rejected
+
+date: 2025-06-27, from: RTÉ News
+
+An Israeli court has rejected Prime Minister Benjamin Netanyahu's request to postpone giving testimony in his corruption trial, after US President Donald Trump said the case should be cancelled. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0627/1520710-netanyahu-corruption-trial/>
+
+---
+
+## How basketball and a grandmother's love helped a high school grad overcome life's challenges
+
+date: 2025-06-27, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7572619.1751046267!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/david-crowe-and-his-grandma-melody-constant.JPG' alt='A male teenager posed in a suit and tie while smiling, with his arm around his grandma, who is wearing a dark long sleeved top and dress with her hair in a bun and glassess.' width='620' height='349' title='David Crowe said he and his grandmother Melody Constant have a close bond that no one can take away.'/><p>David Crowe, who is from George Gordon First Nation, received his high school diploma from Scott Collegiate in Regina earlier this week. The milestone was marked by celebration, but also reflection on how basketball played an important role growing up.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/basketball-a-grandmother-s-love-high-school-grad-overcome-life-s-challenges-1.7572558?cmp=rss>
+
+---
+
+## Newly trained Wabanaki wildland firefighters from New Brunswick lend support to Alberta
+
+date: 2025-06-27, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/8a50969d-3473-49a8-8aa9-5bdd499fc942,1751050895039/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1412%2C794%29%3BResize%3D%28620%29' alt='A woman in a blue t-shirt and ball cap kneels next to a yellow duffle bag in a garage' width='620' height='349' title=''/><p> A group of new wildland firefighters from First Nations in New Brunswick celebrated completing their training, a day before being deployed to fight wildfires in Alberta.
+</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6814322?cmp=rss>
+
+---
+
+## Cardinal Czerny asks Church to remember seafarers on Sea Sunday
+
+date: 2025-06-27, from: Vatican News
+
+
+                    <p>In his message for Sea Sunday, the second Sunday of July, Cardinal Michael Czerny recognizes seafarers as ‘pilgrims of hope’ and calls on Catholics to shine a light on the global economy and its effects on those who work on ships and in ports. </p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/cardinal-asks-church-to-remember-seafarers-on-sea-sunday.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/cardinal-asks-church-to-remember-seafarers-on-sea-sunday.html>
+
+---
+
+## Congo, Rwanda sign peace deal to end fighting — and help U.S. access critical minerals
+
+date: 2025-06-27, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7573068.1751050042!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/us-congo-rwanda-rubio.jpg' alt='A man stands between a man and woman as they shake hands.' width='620' height='349' title='Secretary of State Marco Rubio, center, stands with Rwanda&apos;s Foreign Minister Olivier Nduhungirehe, left, and Democratic Republic of the Congo&apos;s Foreign Minister Therese Kayikwamba Wagner, right, as they shake hands after signing a peace agreement at the State Department, Friday, June 27, 2025, in Washington. (AP Photo/Mark Schiefelbein).'/><p>Congo and Rwanda on Friday signed a peace deal facilitated by the U.S. to help end the decades-long deadly fighting in eastern Congo while helping the U.S. government and American companies gain access to critical minerals in the region.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/congo-rwanda-peace-deal-1.7572926?cmp=rss>
+
+---
+
+## Urgent inquiry by HSE after second ambulance catches fire
+
+date: 2025-06-27, from: RTÉ News
+
+The HSE has said an urgent examination is under way after a second ambulance caught fire in the last week. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0627/1520697-hse-ambulance-review/>
+
+---
+
+## Family clans try to secure aid convoys in Gaza from criminal lootings
+
+date: 2025-06-27, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7572616.1751035203!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/gaza-clans-securing-aid.jpg' alt='Young men carry sticks in their hand.' width='620' height='349' title='Young men carry sticks in their hand as Gaza&apos;s National Gathering of Palestinian Clans and Tribes says it has organized groups to secure aid from being looted by criminal gangs.'/><p>As food and aid distribution in Gaza continues to be deadly and plagued by violence, influential clans and tribes that have long existed in the territory are taking it upon themselves to secure aid convoys entering the region.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/gaza-aid-clans-israel-military-1.7572437?cmp=rss>
+
+---
+
+## Rise in number of people recorded as homeless last month
+
+date: 2025-06-27, from: RTÉ News
+
+The number of men, women and children experiencing homelessness increased in May compared to the previous month. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0627/1520675-homeless-figures-rise/>
+
+---
+
+## Joe Duffy signs off with fun-filled, heartfelt Liveline
+
+date: 2025-06-27, from: RTÉ News
+
+Joe Duffy has been joined by friends, fans, and well-wishers as he said goodbye to Liveline on RTÉ Radio 1. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0627/1520687-joe-duffy-signs-off-with-fun-filled-heartfelt-liveline/>
+
+---
+
+## Pentagon strips activist Harvey Milk's name from Navy ship in latest diversity purge
+
+date: 2025-06-27, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7572872.1751043264!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/navy-ship-harvey-milk.jpg' alt='The people stand in the foreground with a navy ship docked in the background' width='620' height='349' title='USMC Colonel Alison Thompson, left, talks with Jenn Onofrio, center, a White House Fellow to the Secretary of the Navy and Patrik Gallineaux, right, of the Richmond/Ermet Aid Foundation prior to the launching of the USNS Harvey Milk, a fleet replenishment oiler ship named after the first openly gay elected official, Saturday, Nov. 6, 2021 in San Diego.  (AP Photo/Alex Gallardo)'/><p>U.S. Defence Secretary Pete Hegseth announced Friday that the USNS Harvey Milk will be renamed after a Second World War sailor who received the Medal of Honor, stripping the ship of the name of a slain gay rights activist who served during the Korean War.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/harvey-milk-ship-renamed-1.7572838?cmp=rss>
+
+---
+
+## €910k spent on 11 new cars to transport officeholders
+
+date: 2025-06-27, from: RTÉ News
+
+More than €910,000 has been spent by gardaí over the past year to buy 11 new cars for the fleet that transports ministers, the Taoiseach, the President and other officeholders. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0627/1520678-gardai-transport-fleet-officeholders/>
+
+---
+
+## Origins of COVID-19 still unclear according to final report from WHO expert group
+
+date: 2025-06-27, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7572849.1751042425!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/covid-que-20211223.JPG' alt='A person in all dark clothing walks past a sandwich board sign that says &quot;Site de vaccination COVID-19&quot;. ' width='620' height='349' title='A man walks by a COVID-19 vaccination sign in Montreal, Thursday, December 23, 2021, as the COVID-19 pandemic continues in Canada and around the world. '/><p>An expert group charged by the World Health Organization to investigate how the COVID-19 pandemic started released its final report Friday, reaching an unsatisfying conclusion: Scientists still aren't sure how the worst health emergency in a century began.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/health/covid-19-origins-report-1.7572830?cmp=rss>
 
 ---
 
@@ -38,6 +295,78 @@ date: 2025-06-27, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/church/news/2025-06/catholic-mobilizing-network-death-penalty-religious-sister.html>
+
+---
+
+## New UN report charts path out of debt crisis threatening global development
+
+date: 2025-06-27, from: United Nations, Top Stories
+
+A decade after the adoption of the Sustainable Development Goals (SDGs), development is facing serious headwinds – including what UN officials describe as a “silent crisis” of surging debt service payments in low-income countries. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1165051>
+
+---
+
+## Sudan: ‘Fighting shows no signs of abating,’ senior UN official tells Security Council
+
+date: 2025-06-27, from: United Nations, Top Stories
+
+Three years into the conflict in Sudan, the Rapid Support Forces (RSF) and Sudan Armed Forces (SAF) continue to pursue a military solution, violating international law and the rights of civilians in the process. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1165046>
+
+---
+
+## Myanmar human rights crisis deepens as aid collapses, attacks intensify
+
+date: 2025-06-27, from: United Nations, Top Stories
+
+Myanmar is spiralling deeper into humanitarian catastrophe, the UN’s top human rights official warned on Friday, as escalating military attacks, crippling aid restrictions and collapsing international support push millions toward starvation and despair. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1165041>
+
+---
+
+## Short-range drone attacks deepen crisis on Ukrainian frontlines
+
+date: 2025-06-27, from: United Nations, Top Stories
+
+Attacks with short-range drones killed at least 395 civilians and injured 2,635 between February 2022 – the start of Russia’s full-scale invasion of Ukraine – and April 2025, the UN Human Rights Monitoring Mission (HRMMU) reported on Thursday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1165031>
+
+---
+
+## Guterres calls for immediate Gaza ceasefire as humanitarian crisis reaches ‘horrific proportions’
+
+date: 2025-06-27, from: United Nations, Top Stories
+
+UN Secretary-General António Guterres on Friday reiterated his call for an immediate ceasefire in Gaza, warning that the humanitarian crisis has reached “horrific proportions” and that the world must not let the suffering of Palestinians be overshadowed by other regional conflicts. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1165016>
+
+---
+
+## Gaza: Health system crumbles amid growing desperation over food, fuel
+
+date: 2025-06-27, from: United Nations, Top Stories
+
+The first delivery earlier this week of urgently needed medical goods to enter Gaza in months will provide scant relief to the enclave’s people, who continue to be shot and killed in their search for food, the UN World Health Organization (WHO) said on Friday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1165011>
 
 ---
 
@@ -105,11 +434,23 @@ A former NBC war correspondent has been awarded €17,500 damages against Irish 
 
 ---
 
-## US approves funding for controversial Gaza aid group
+## U.S. Supreme Court limits nationwide injunctions, in case on Trump birthright citizenship order
+
+date: 2025-06-27, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7572881.1751043672!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='A cleanshaven man in suit and tie gestures with his right hand in front of an American flag.' width='620' height='349' title='President Donald Trump speaks to the media, Friday, June 27, 2025, in the briefing room of the White House in Washington. (AP Photo/Jacquelyn Martin)'/><p>In a major victory for Donald Trump, and potentially future presidents, the U.S. Supreme Court dealt a blow on Friday to the power of federal judges by restricting their ability to grant broad legal relief nationally. The justices did not settle the merits of birthright citizenship.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/scotus-opinion-trump-casa-1.7572403?cmp=rss>
+
+---
+
+## 62 Palestinians killed by Israeli strikes - Gaza rescuers
 
 date: 2025-06-27, from: RTÉ News
 
-The US State Department has approved $30 million in funding for the Gaza Humanitarian Foundation, the State Department said, calling on other countries to also support the controversial group delivering aid in Gaza. 
+Gaza's civil defence agency has said Israeli forces killed at least 62 people, including ten who were waiting for aid. 
 
 <br> 
 
@@ -165,11 +506,23 @@ date: 2025-06-27, from: Vatican News
 
 ---
 
-## Iran denies plan for resumption of nuclear talks with US
+## Meet Elma Moses, new program manager for CBC North Cree Unit
+
+date: 2025-06-27, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7570463.1750867595!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/elma-moses.jpg' alt='Headshot of a dark-haired woman wearing a colorful scarf' width='620' height='349' title='Elma Moses is the new Program Manager for the CBC North Cree Unit. She begins this role in July.'/><p>Elma Moses is putting down the microphone and starting a new role in July. Moses will be the new program manager for the CBC North Cree Unit. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/montreal/community/new-program-manager-for-cbc-north-cree-unit-1.7570424?cmp=rss>
+
+---
+
+## Trump says he saved Iran leader from 'ignominious death'
 
 date: 2025-06-27, from: RTÉ News
 
-Iran has denied it is set to resume nuclear talks with the United States after the end of a 12-day war with Israel and accused Washington of exaggerating the impact of US strikes. 
+US President Donald Trump has said he had saved Iran's Ayatollah Ali Khameni from assassination and lashed out at the supreme leader for ingratitude, declaring he would order more bombing if the country tried to pursue nuclear weapons. 
 
 <br> 
 
@@ -297,11 +650,11 @@ The Tánaiste has said that by signing Ireland up to an EU instrument called Sec
 
 ---
 
-## Budapest Pride ban at centre of Orbán's culture war
+## Budapest Pride parade will go ahead despite ban - mayor
 
 date: 2025-06-27, from: RTÉ News
 
-The banned Budapest Pride parade is expected to be attended by tens of thousands of members of Hungary's LGBTQ+ community tomorrow as it is every year. 
+Budapest's mayor Gergely Karácsony has said that tomorrow's Budapest Pride parade will go ahead as planned despite a ban by Hungarian authorities. 
 
 <br> 
 
@@ -397,7 +750,7 @@ date: 2025-06-27, from: CBC, World News
 
 date: 2025-06-27, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7571909.1751017711!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mahdi-nasiri.jpg' alt='An image of Mahdi Nasiri at the airport. ' width='620' height='349' title='Former Iranian regime official Mahdi Nasiri posted on Instagram in April that he was leaving Iran and on his way to Canada. '/><p>Canada banned all senior Iranian officials who served from 2003 onward from entering the country and vowed to crack down on members of the regime currently here. But the case of Mahdi Nasiri in Canada is raising questions about how effective that crackdown is.</p> 
+<img src='https://i.cbc.ca/1.7571909.1751017711!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mahdi-nasiri.jpg' alt='An image of Mahdi Nasiri at the airport. ' width='620' height='349' title='Former Iranian regime official Mahdi Nasiri posted on Instagram in April that he was leaving Iran and on his way to Canada. '/><p>Canada banned all senior Iranian officials who served from 2003 onward from entering the country and vowed to crack down on members of the regime currently here. But the case of Mahdi Nasiri is raising questions about how effective that crackdown is.</p> 
 
 <br> 
 
@@ -405,11 +758,23 @@ date: 2025-06-27, from: CBC, World News
 
 ---
 
-## Combs defence team set to make closing arguments
+## Dismay in Nunavut as daughter in Inuit identity fraud case goes public with her story
+
+date: 2025-06-27, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6800697.1750965834!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/amira-and-nadya-gill.jpg' alt='Two twin sisters smile. One is in athletic clothing with her hair in a bun. She is hugging her sister, who is wearing a plaid scarf, from behind.' width='620' height='349' title='Nunavut Tunngavik Inc. says they are investigating Amira and Nadya Gill for &apos;possible fraudulent enrollment.&apos; '/><p>Nearly a year after her mother was sentenced to prison for defrauding Inuit organizations to help pay for her education, an Ontario woman went public for the first time about the case — and Jordan Archer's story has again stirred up anger and frustration among Inuit.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/dismay-in-nunavut-as-daughter-in-inuit-identity-fraud-case-goes-public-with-her-story-1.7571836?cmp=rss>
+
+---
+
+## Combs' defence urges jury to find him not guilty in trial
 
 date: 2025-06-27, from: RTÉ News
 
-Sean "Diddy" Combs used "power, violence, and fear" as the head of a decades-long criminal enterprise, prosecutors told jurors as they presented closing arguments in the final stages of the high-profile trial. 
+Sean "Diddy" Combs' defence lawyer has urged a jury to find the former hip-hop mogul not guilty in his sex trafficking trial, saying prosecutors are trying to criminalise his "unusual sexual preferences". 
 
 <br> 
 
@@ -450,6 +815,18 @@ Irish Travellers living on London's largest authorised caravan site are being as
 <br> 
 
 <https://www.rte.ie/news/uk/2025/0627/1520557-irish-travellers-london/>
+
+---
+
+## Treaty 8 First Nations call for 2% resource revenues from projects on their land
+
+date: 2025-06-26, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7572337.1750987264!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trevor-mercredi.jpg' alt='Trevor Mercredi, grand chief of Treaty 8 First Nations of Alberta, spoke with reporters on Thursday after his group met with Alberta Premier Danielle Smith in Calgary.' width='620' height='349' title='Trevor Mercredi, grand chief of Treaty 8 First Nations of Alberta, spoke with reporters on Thursday after his group met with Alberta Premier Danielle Smith in Calgary.'/><p>Treaty 8 First Nations chiefs in Alberta are calling for a two-per-cent share of royalties from projects that develop resources from their land. It is among the concerns they raised to Premier Danielle Smith on Thursday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/calgary/treaty-8-first-nations-call-for-2-resource-revenues-from-projects-on-their-land-1.7572284?cmp=rss>
 
 ---
 
@@ -525,6 +902,18 @@ A forest fire has devastated several seaside towns east of the Greek capital Ath
 
 ---
 
+## Suspended regional directors defiant in fight against Métis Nation-Saskatchewan
+
+date: 2025-06-26, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7572063.1750973053!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/wendy-gervais-and-sherry-mclennan.jpg' alt='Two people talk to a crowded room.' width='620' height='349' title='A crowd of almost 100 people came out to support MN-S regional directors Wendy Gervais and Sherry McLennan in their fight to have suspensions against them lifted.'/><p>Two suspended Métis Nation-Saskatchewan regional directors are not backing down from their fight with the organization.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatchewan/m%C3%A9tis-nation-saskatchewan-election-controversy-suspension-1.7571900?cmp=rss>
+
+---
+
 ## Canadian cleric arrested in Armenia in connection to alleged coup attempt
 
 date: 2025-06-26, from: CBC, World News
@@ -541,7 +930,7 @@ date: 2025-06-26, from: CBC, World News
 
 date: 2025-06-26, from: CBC, Indigenious News
 
-<img src='https://i.cbc.ca/1.7226646.1717709707!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/blackmore.jpeg' alt='A woman in an RCMP uniform with many medals sits in front of a microphone.' width='620' height='349' title='Assistant Commissioner Rhonda Blackmore requested the comprehensive review of the RCMP&apos;s response to the James Smith Cree Nation stabbings. '/><p>The Federation of Sovereign Indigenous Nations (FSIN) is demanding answers after the sudden removal of Rhonda Blackmore as commanding officer of Saskatchewan’s RCMP F Division.</p> 
+<img src='https://i.cbc.ca/1.7226646.1751047704!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/blackmore.jpeg' alt='A woman in an RCMP uniform with many medals sits in front of a microphone.' width='620' height='349' title='Assistant Commissioner Rhonda Blackmore requested the comprehensive review of the RCMP&apos;s response to the James Smith Cree Nation stabbings. '/><p>The Federation of Sovereign Indigenous Nations (FSIN) is demanding answers after the sudden removal of Rhonda Blackmore as commanding officer of Saskatchewan’s RCMP F Division.</p> 
 
 <br> 
 

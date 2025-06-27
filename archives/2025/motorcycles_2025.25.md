@@ -1,11 +1,37 @@
 ---
 title: motorcycles
-updated: 2025-06-27 06:09:03
+updated: 2025-06-27 14:07:06
 ---
 
 # motorcycles
 
-(date: 2025-06-27 06:09:03)
+(date: 2025-06-27 14:07:06)
+
+---
+
+## These New Sneakers Don’t Even Look Like Motorcycle Riding Shoes, But They Are
+
+date: 2025-06-27, from: Ride Apart, Electric Motorcycle News
+
+But they offer about as much protection you need for your daily ride. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/763884/stylmartin-tank-motorcycle-sneakers/>
+
+---
+
+## Shoei Found a Problem With Modular Helmets, So It Fixed It
+
+date: 2025-06-27, from: Ride Apart, Electric Motorcycle News
+
+Shoei’s solution not only makes modular helmets supposedly safer, it makes them better looking, too. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/764032/shoei-new-modular-helmet-design-patent/>
 
 ---
 

@@ -1,11 +1,199 @@
 ---
 title: north america
-updated: 2025-06-27 06:08:55
+updated: 2025-06-27 14:07:00
 ---
 
 # north america
 
-(date: 2025-06-27 06:08:55)
+(date: 2025-06-27 14:07:00)
+
+---
+
+## As DOJ Lawyers Face Alarming Pressure to be “Trump’s Lawyers,” Judges Are Sending Up Flares.
+
+date: 2025-06-27, from: The Contrarian
+
+Trump&#8217;s demand for fealty to him, rather than to the law, has broken DOJ. 
+
+<br> 
+
+<https://contrarian.substack.com/p/as-doj-lawyers-face-alarming-pressure>
+
+---
+
+## How much debt are we willing to take on? Rep. Adam Smith and Jen on the GOP's lack of fiscal responsibility 
+
+date: 2025-06-27, from: The Contrarian
+
+"Trump wants people who are loyal to Trump. And that's not the same thing as being good at your job." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166993361/069cfde8c596ada6e96c6feeacbfda30.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166993361/069cfde8c596ada6e96c6feeacbfda30.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/how-much-debt-are-we-willing-to-take>
+
+---
+
+## Documentary Spotlight: Call Me Dancer
+
+date: 2025-06-27, from: The Contrarian
+
+A young man from Mumbai is determined to make it as a professional dancer in this moving story about the resilience of artists 
+
+<br> 
+
+<https://contrarian.substack.com/p/documentary-spotlight-call-me-dancer>
+
+---
+
+## Contrarian Pet of the Week
+
+date: 2025-06-27, from: The Contrarian
+
+Meet Emily! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-f2c>
+
+---
+
+## LAPD Arrest of Journalist at ICE Raid Fuels Press Freedom Fears
+
+date: 2025-06-27, from: Capital and Main
+
+<p>Anthony Orendorff was jailed for four days without bail before charges were dropped. </p>
+<p>The post <a href="https://capitalandmain.com/lapd-arrest-of-journalist-at-ice-raid-fuels-press-freedom-fears">LAPD Arrest of Journalist at ICE Raid Fuels Press Freedom Fears</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/lapd-arrest-of-journalist-at-ice-raid-fuels-press-freedom-fears>
+
+---
+
+## Mixed Berry Prosecco Sorbet & Cherry Prosecco Granità
+
+date: 2025-06-27, from: The Contrarian
+
+The heat is on 
+
+<br> 
+
+<https://contrarian.substack.com/p/mixed-berry-prosecco-sorbet-and-cherry>
+
+---
+
+## 1984 meets 2025
+
+date: 2025-06-27, from: The Contrarian
+
+A cartoon by Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/1984-meets-2025>
+
+---
+
+##  Seventy-Two Minutes Until The End Of The World 
+
+date: 2025-06-27, from: The Lever News
+
+ Are we closer than ever to nuclear winter?  
+
+<br> 
+
+<https://www.levernews.com/seventy-two-minutes-until-the-end-of-the-world/>
+
+---
+
+## Trump’s ‘Trans Mice’ Line Got Laughs. The Science Behind It Could Save Lives.
+
+date: 2025-06-27, from: Capital and Main
+
+<p>Research on HIV, cancer and infertility is being quietly dismantled under Trump’s anti-DEI agenda.</p>
+<p>The post <a href="https://capitalandmain.com/trumps-trans-mice-line-got-laughs-the-science-behind-it-could-save-lives">Trump’s ‘Trans Mice’ Line Got Laughs. The Science Behind It Could Save Lives.</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/trumps-trans-mice-line-got-laughs-the-science-behind-it-could-save-lives>
+
+---
+
+## The Supreme Court’s Planned Parenthood Decision Isn’t Just Bad for Health Care—It’s Bad Law
+
+date: 2025-06-27, from: The Contrarian
+
+Endangering Medicaid and civil rights is all in a day&#8217;s work for the Republican-appointed justices 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-supreme-courts-planned-parenthood>
+
+---
+
+## Your Kids Are Online – Do They have the Tools to Avoid Falling into Rabbit Holes?
+
+date: 2025-06-27, from: The Contrarian
+
+By Christine German 
+
+<br> 
+
+<https://contrarian.substack.com/p/your-kids-are-online-do-they-have>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-06-27, from: The Contrarian
+
+Friday: People with disabilities protesting at Senate offices get arrested, protests against ICE, a Pride rally in Budapest, reminders on upcoming protests, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+##  Who’s Afraid Of Zohran Mamdani? 
+
+date: 2025-06-27, from: The Lever News
+
+ The mayoral candidate defeated the master plan for the first time ever — and that’s prompted an elite panic about who gets to control political outcomes.  
+
+<br> 
+
+<https://www.levernews.com/whos-afraid-of-zohran-mamdani/>
+
+---
+
+## April Ryan and Rep. Meeks on the Executive's authority to wage war in Iran
+
+date: 2025-06-27, from: The Contrarian
+
+"We've all have taken oaths of office, not to an individual, but to a Constitution" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166917425/a4e5166598e23505f43779d6c7a312cf.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166917425/a4e5166598e23505f43779d6c7a312cf.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/april-ryan-and-rep-meeks-on-the-executives>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-06-27, from: The Contrarian
+
+Elon Musk and his DOGE pals 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-9d8>
 
 ---
 
@@ -40,8 +228,8 @@ date: 2025-06-26, from: The Contrarian
 A recording from The Tea! With April Ryan 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166818760/e187254f46ef4d38833a684d20ece6b3.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/166818760/e187254f46ef4d38833a684d20ece6b3.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166818760/7dab52642685e5fa38e5f727efdf590b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166818760/7dab52642685e5fa38e5f727efdf590b.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/the-tea-w-april-ryan-ft-senator-alex>
 
@@ -54,8 +242,8 @@ date: 2025-06-26, from: The Contrarian
 "We've been busy filing lawsuits because the President and his administration have been busy breaking the law." 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166914249/943669aaefe0fc2daeabd2ddf25a6e6f.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/166914249/943669aaefe0fc2daeabd2ddf25a6e6f.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166914249/9477fcb620f3046cb127e78828c325da.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166914249/9477fcb620f3046cb127e78828c325da.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/nj-ag-platkin-on-fighting-trump-in>
 
@@ -82,18 +270,6 @@ An excerpt from a new book by former Obama speechwriter David Litt
 <br> 
 
 <https://contrarian.substack.com/p/the-power-of-unlikely-friendship>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-06-26, from: The Contrarian
-
-Thursday: Italians signal their frustration with the Bezos wedding, protests against ICE, planning for upcoming rallies, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 
@@ -140,8 +316,8 @@ date: 2025-06-26, from: The Contrarian
 "I don't want to be your damn conscience. I want you to vote your conscience!" 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166905970/e13bfc4208220a1baad537eee2994301.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/166905970/e13bfc4208220a1baad537eee2994301.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166905970/ac6a896b8bf5b14fb1e17c6d0a92ec6a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166905970/ac6a896b8bf5b14fb1e17c6d0a92ec6a.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/congress-needs-to-do-everything-it>
 

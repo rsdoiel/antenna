@@ -1,11 +1,167 @@
 ---
 title: food
-updated: 2025-06-27 06:09:04
+updated: 2025-06-27 14:07:08
 ---
 
 # food
 
-(date: 2025-06-27 06:09:04)
+(date: 2025-06-27 14:07:08)
+
+---
+
+## Elise Jesse’s Smash Chicken Caesar Tacos
+
+date: 2025-06-27, from: Taste of Home
+
+Allow me to introduce you to smash chicken Caesar tacos. Make this recipe once, and you’ll be adding it to your weekly rotation like I have. The seasoned ground chicken is smashed and cooked onto a warm, crispy tortilla before it’s topped with chilled romaine, a creamy Greek yogurt Caesar dressing, crunchy toasted bread crumbs and fresh Parmesan. Think of it as your favorite Caesar salad turned into a cheesy, flavorful taco. I love it for its simplicity, flavor and ease. —Elise Jesse, Cincinnati, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/elise-jesse-smash-chicken-caesar-tacos/>
+
+---
+
+## Tyler Smith’s Cheeseburger Queso
+
+date: 2025-06-27, from: Taste of Home
+
+Crumbled ground beef and a pickle de gallo topping take this queso to the next level. Add a dollop of sour cream, and dig in! —Tyler Smith, Virginia Beach, Virginia 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tyler-smith-cheeseburger-queso/>
+
+---
+
+## I Tried the Costco Peaches and Cream Bar Cake and Had to Buy One
+
+date: 2025-06-27, from: Taste of Home
+
+<p>If you spot the Costco peaches and cream bar cake, snatch it up! This quintessential summer dessert is selling fast, and you don't want to miss out on this peachy seasonal confection.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/costco-peaches-and-cream-bar-cake/">I Tried the Costco Peaches and Cream Bar Cake and Had to Buy One</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/costco-peaches-and-cream-bar-cake/>
+
+---
+
+## Coffee Is Your Cells’ Best Friend
+
+date: 2025-06-27, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Caffeine activates an ancient switch inside your cells. 
+
+<br> 
+
+<https://sprudge.com/coffee-is-your-cells-best-friend-361918.html>
+
+---
+
+## Does Ketchup Need to Be Refrigerated or Can You Leave It Out?
+
+date: 2025-06-27, from: Taste of Home
+
+<p>Everyone has ketchup in the kitchen. Some store it in the fridge and others put it in the pantry. But does ketchup need to be refrigerated?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/does-ketchup-need-to-be-refrigerated/">Does Ketchup Need to Be Refrigerated or Can You Leave It Out?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/does-ketchup-need-to-be-refrigerated/>
+
+---
+
+## Build-Outs Of Coffee: Tern Coffee & Tea In Brunswick, ME
+
+date: 2025-06-27, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Tern Coffee &#038; Tea in Brunswick, Maine. 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-tern-coffee-tea-in-brunswick-me-340955.html>
+
+---
+
+## 10 Secrets of People Who Always Have Dinner on the Table in 30 Minutes
+
+date: 2025-06-27, from: Taste of Home
+
+<p>From our kitchens to yours.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/easy-weeknight-cooking-tips/">10 Secrets of People Who Always Have Dinner on the Table in 30 Minutes</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/easy-weeknight-cooking-tips/>
+
+---
+
+## We Tried 7 American Cheese Singles and This One Made the Best Grilled Cheese
+
+date: 2025-06-27, from: Taste of Home
+
+<p>To perfect the old-school grilled cheese sandwich, we sampled seven brands of American cheese slices to determine the best one.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-american-cheese/">We Tried 7 American Cheese Singles and This One Made the Best Grilled Cheese</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-american-cheese/>
+
+---
+
+## This Cookie Dough Freezer Tray Is the Secret to On-the-Fly Cookies
+
+date: 2025-06-27, from: Taste of Home
+
+<p>Freeze, store and bake cookie dough all in one tray? We tried The Cookie Tray by Souper Cubes to see if we could truly have fresh-baked cookies ready at a moment’s notice.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/cookie-dough-freezer-tray/">This Cookie Dough Freezer Tray Is the Secret to On-the-Fly Cookies</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/cookie-dough-freezer-tray/>
+
+---
+
+## 3 Best Rotary Cheese Graters for Fast Food Prep
+
+date: 2025-06-27, from: Taste of Home
+
+<p>We used six different rotary cheese graters to shred cheese, carrots and more. These are the three that impressed our editors. </p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-rotary-cheese-grater/">3 Best Rotary Cheese Graters for Fast Food Prep</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-rotary-cheese-grater/>
+
+---
+
+## With Bioplastics Background, Mad Coffee Joins the ‘Premium Instant’ Field
+
+date: 2025-06-27, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Mad-Coffee_MadCup-Line-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Mad Coffee_MadCup Line" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Mad-Coffee_MadCup-Line-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mad-Coffee_MadCup-Line-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mad-Coffee_MadCup-Line-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mad-Coffee_MadCup-Line-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mad-Coffee_MadCup-Line.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new instant coffee brand called Mad Coffee formally arrived on June 25, with a solution for 3-second hot or cold coffee drinks and commercially compostable packaging. The brand comes... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/27/with-bioplastics-background-mad-coffee-joins-the-premium-instant-field/>
+
+---
+
+## Weekly Coffee News: Banking on Matcha + All 16 CoE Winners in Pods
+
+date: 2025-06-27, from: Daily Coffee News
+
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Blank-Street-Coffee-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Manhattan, New York" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Blank-Street-Coffee-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Blank-Street-Coffee-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Blank-Street-Coffee-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Blank-Street-Coffee-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Blank-Street-Coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. &#160; Wall Street Journal: Blank Street&#8217;s Not So Secret... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/27/weekly-coffee-news-banking-on-matcha-all-16-coe-winners-in-pods/>
 
 ---
 
@@ -44,6 +200,54 @@ Big, national names are building a local audience, while homegrown talent dazzle
 <br> 
 
 <https://www.bonappetit.com/story/best-bars-los-angeles>
+
+---
+
+## Salted Caramel Cream Cold Brew Rice Krispies Treats
+
+date: 2025-06-27, from: Taste of Home
+
+This recipe is a mashup of the creamy iced Starbucks drink and a classic Rice Krispies treat. Salted caramel cream cold brew Rice Krispies treats are a sweet, slightly caffeinated delight. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/salted-caramel-cream-cold-brew-rice-krispies-treats/>
+
+---
+
+## Dubai Chocolate Rice Krispies
+
+date: 2025-06-27, from: Taste of Home
+
+These Dubai chocolate Rice Krispies treats are the perfect combination of nutty, sweet, crunchy and chewy. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/dubai-chocolate-rice-krispies/>
+
+---
+
+## Blueberry Puppy Chow
+
+date: 2025-06-27, from: Taste of Home
+
+This blueberry puppy chow has all the sweet chocolate-peanut butter taste of the old-fashioned recipe with the addition of juicy, fruity blueberry bliss. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/blueberry-puppy-chow/>
+
+---
+
+## Orange Creamsicle Bars
+
+date: 2025-06-27, from: Taste of Home
+
+Cue the ice cream truck melody! These orange creamsicle bars have nostalgic flavor in an easy, no-bake dessert. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/orange-creamsicle-bars/>
 
 ---
 
@@ -151,7 +355,7 @@ date: 2025-06-26, from: Taste of Home
 
 date: 2025-06-26, from: Daily Coffee News
 
-<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/KOPPIE_CLOUDS-108-1-620x418.jpg" class="attachment-large size-large wp-post-image" alt="KOPPIE_CLOUDS-108" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/KOPPIE_CLOUDS-108-1-620x418.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/KOPPIE_CLOUDS-108-1-300x202.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/KOPPIE_CLOUDS-108-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/KOPPIE_CLOUDS-108-1-768x517.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/KOPPIE_CLOUDS-108-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A Belgian startup called Koppie is joining the growing coffee substitute movement, developing a proprietary fermented legume-based ingredient that can be roasted, ground and brewed like coffee. Koppie just closed... 
+<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/KOPPIE_CLOUDS-108-1-620x418.jpg" class="attachment-large size-large wp-post-image" alt="KOPPIE_CLOUDS-108" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/KOPPIE_CLOUDS-108-1-620x418.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/KOPPIE_CLOUDS-108-1-300x202.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/KOPPIE_CLOUDS-108-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/KOPPIE_CLOUDS-108-1-768x517.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/KOPPIE_CLOUDS-108-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A Belgian startup called Koppie is joining the growing coffee substitute movement, developing a proprietary fermented legume-based ingredient that can be roasted, ground and brewed like coffee. Koppie just closed... 
 
 <br> 
 
@@ -175,7 +379,7 @@ date: 2025-06-26, from: The Sprudge
 
 date: 2025-06-26, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/WatchHouse-Coffee-Chrysler-Building-New-York-bar-620x414.jpg" class="attachment-large size-large wp-post-image" alt="WatchHouse Coffee Chrysler Building New York bar" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/WatchHouse-Coffee-Chrysler-Building-New-York-bar-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/WatchHouse-Coffee-Chrysler-Building-New-York-bar-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/WatchHouse-Coffee-Chrysler-Building-New-York-bar-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/WatchHouse-Coffee-Chrysler-Building-New-York-bar-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/WatchHouse-Coffee-Chrysler-Building-New-York-bar.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The Chrysler Building in New York City, once the world&#8217;s tallest building and an enduring example of Art Deco, is now home to the second United States location of... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/WatchHouse-Coffee-Chrysler-Building-New-York-bar-620x414.jpg" class="attachment-large size-large wp-post-image" alt="WatchHouse Coffee Chrysler Building New York bar" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/WatchHouse-Coffee-Chrysler-Building-New-York-bar-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/WatchHouse-Coffee-Chrysler-Building-New-York-bar-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/WatchHouse-Coffee-Chrysler-Building-New-York-bar-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/WatchHouse-Coffee-Chrysler-Building-New-York-bar-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/WatchHouse-Coffee-Chrysler-Building-New-York-bar.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; The Chrysler Building in New York City, once the world&#8217;s tallest building and an enduring example of Art Deco, is now home to the second United States location of... 
 
 <br> 
 
@@ -305,7 +509,7 @@ date: 2025-06-25, from: Taste of Home
 
 date: 2025-06-25, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-620x414.jpg" class="attachment-large size-large wp-post-image" alt="02_Canal Cafe_Photo by Iwan Baan" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-620x414.jpg" class="attachment-large size-large wp-post-image" alt="02_Canal Cafe_Photo by Iwan Baan" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/02_Canal-Cafe_Photo-by-Iwan-Baan.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
 
 <br> 
 
@@ -801,7 +1005,7 @@ date: 2025-06-23, from: Isebel Eats
 	<div>
 	<a href="https://www.isabeleats.com/crunchwrap-supreme/"><img title="crunchwrap-supreme-25-small-7" src="https://www.isabeleats.com/wp-content/uploads/2025/06/crunchwrap-supreme-25-small-7-400x600.jpg" alt="Cross sections of many crunchwrap supremes stacked on top of one another." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
 	</div>
-	Skip the drive-thru and make a homemade crunchwrap supremes right in your kitchen! This copycat recipe features perfectly seasoned ground&#8230; 
+	Skip the drive-thru and make homemade crunchwrap supremes right in your own kitchen! This copycat recipe features perfectly seasoned ground&#8230; 
 
 <br> 
 

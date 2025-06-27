@@ -1,11 +1,236 @@
 ---
 title: socal north
-updated: 2025-06-27 06:08:56
+updated: 2025-06-27 14:07:00
 ---
 
 # socal north
 
-(date: 2025-06-27 06:08:56)
+(date: 2025-06-27 14:07:00)
+
+---
+
+## LA County’s new dispatch center for homeless services will soon take requests from the public
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+The center connects unsheltered people with housing, treatment and other services. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/dispatch-center-for-homeless-services>
+
+---
+
+## This child care provider works around the clock, but she's pinching pennies
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+While the state faces a growing deficit, child care providers say they can't wait for more pay. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/child-care-provider-union-negotiation-pinching-pennies>
+
+---
+
+## Time is running out for Rancho Palos Verdes residents to apply for landslide aid grants
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+The $10,000 grants can be used for things like home repairs or storage for those forced to leave because of ongoing land movement around Portuguese Bend. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/rancho-palos-verdes-landslide-grant-assistance-deadline>
+
+---
+
+## They were repeatedly ticketed because of their homelessness. What did it change?
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+In Los Angeles, Sacramento and San Diego, homeless Californians describe their experiences as camping ban enforcement has increased. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/they-were-repeatedly-ticketed-because-of-their-homelessness-what-did-it-change>
+
+---
+
+## Homeless-related arrests, citations soared in LA and other California cities after Supreme Court case
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+In major cities and more rural areas, arrests and citations rose in the months following last summer’s Supreme Court decision. In some places, officials insist the events are unrelated. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/homeless-related-arrests-citations-soared-in-la-and-other-california-cities-after-supreme-court-case>
+
+---
+
+## Proposed cuts to Medicaid would affect 2.9 million Angelenos
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+A new study says Medicaid patients and providers alike would suffer under a bill in Congress that would eliminate 12% of federal funding for the program. 
+
+<br> 
+
+<https://laist.com/news/health/proposed-cuts-to-medicaid-would-affect-2-9-million-angelenos-medi-cal>
+
+---
+
+## Taken: What happens after an LA immigration raid
+
+date: 2025-06-27, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>CalMatters spoke with a number of migrants about their arrests and detentions after the first weekend of LA raids. Their accounts raise potential legal questions about the government’s operation.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/taken-what-happens-after-an-la-immigration-raid">Taken: What happens after an LA immigration raid</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/taken-what-happens-after-an-la-immigration-raid>
+
+---
+
+## Motorcyclist killed when he sideswipes truck, crashes into curb, Long Beach police say
+
+date: 2025-06-27, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police said they believe speed was a factor in the crash.</p>
+<p>The post <a href="https://lbpost.com/news/crime/motorcyclist-killed-when-he-sideswipes-truck-crashes-into-curb-long-beach-police-say">Motorcyclist killed when he sideswipes truck, crashes into curb, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/motorcyclist-killed-when-he-sideswipes-truck-crashes-into-curb-long-beach-police-say>
+
+---
+
+## SCOTUS says parents can opt out of classes that teach books with gay characters
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+At issue was whether school systems are required to provide parents with an "opt-out" option when parents claim their religious beliefs conflict with their children's course material. 
+
+<br> 
+
+<https://laist.com/news/education/scotus-says-parents-can-opt-out-of-classes-that-teach-books-with-gay-characters>
+
+---
+
+## Supreme Court limits nationwide injunctions in birthright citizenship order
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+The decision issues some limits on the power of federal judges to universally block President Trump's executive order on birthright citizenship, asking lower courts to reconsider their rulings. 
+
+<br> 
+
+<https://laist.com/news/politics/supreme-court-limits-nationwide-injunctions-birthright-citizenship-order>
+
+---
+
+## Long-awaited Belmont Pool faces another delay after construction bids come in over budget, city says
+
+date: 2025-06-27, from: Longbeach Post
+
+<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/18100716/belmont-beach-and-aquatics-center-aerial-rendering-275045-geeivm4m-108774-a2a9Obkj-1024x576.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/18100716/belmont-beach-and-aquatics-center-aerial-rendering-275045-geeivm4m-108774-a2a9Obkj-1024x576.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/18100716/belmont-beach-and-aquatics-center-aerial-rendering-275045-geeivm4m-108774-a2a9Obkj-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/18100716/belmont-beach-and-aquatics-center-aerial-rendering-275045-geeivm4m-108774-a2a9Obkj-768x432.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/18100716/belmont-beach-and-aquatics-center-aerial-rendering-275045-geeivm4m-108774-a2a9Obkj-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/18100716/belmont-beach-and-aquatics-center-aerial-rendering-275045-geeivm4m-108774-a2a9Obkj-1536x864.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/18100716/belmont-beach-and-aquatics-center-aerial-rendering-275045-geeivm4m-108774-a2a9Obkj-2048x1152.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/18100716/belmont-beach-and-aquatics-center-aerial-rendering-275045-geeivm4m-108774-a2a9Obkj-1200x675.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/18100716/belmont-beach-and-aquatics-center-aerial-rendering-275045-geeivm4m-108774-a2a9Obkj-1568x882.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/18100716/belmont-beach-and-aquatics-center-aerial-rendering-275045-geeivm4m-108774-a2a9Obkj-400x225.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Long Beach officials have repeatedly scaled back the pool. When the city tried to find a firm to build the latest design, bids came in well above its price range.</p>
+<p>The post <a href="https://lbpost.com/news/city/belmont-pool-bids-another-delay-over-budget">Long-awaited Belmont Pool faces another delay after construction bids come in over budget, city says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/belmont-pool-bids-another-delay-over-budget>
+
+---
+
+## California colleges worry about lawsuit challenging funding for campuses with many Latino students
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+California has 167 of the campuses, the most in the country. A suit contends the program is discriminatory. 
+
+<br> 
+
+<https://laist.com/news/education/california-colleges-worry-about-lawsuit-challenging-funding-for-campuses-with-many-latino-students>
+
+---
+
+## How to help kids cope with ongoing ICE raids, deportations
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+As schools close for the summer, families can prepare for what experts are calling a child welfare and human rights crisis. 
+
+<br> 
+
+<https://laist.com/news/education/how-to-help-kids-cope-with-ongoing-ice-raids-deportations>
+
+---
+
+## Warm, breezy conditions brings fire weather concerns for SoCal
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+It will be warm and dry today, but the addition of gusty onshore winds for the interior portions are raising the risk of fire weather for SoCal. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/warm-breezy-conditions-brings-fire-weather-concerns-for-socal>
+
+---
+
+## You have the right to film ICE detentions. Here’s how to do it safely and effectively
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+Video footage can be used to keep government employees accountable. 
+
+<br> 
+
+<https://laist.com/news/politics/first-amendment-right-film-ice-detentions-bystander>
+
+---
+
+## Best deals in town: Baar Baar's $55 five course Indian tasting menu
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+Bold flavors and inventive takes on traditional Indian cuisine, for a very attractive price. 
+
+<br> 
+
+<https://laist.com/news/food/best-deals-in-town-baar-baars-55-five-course-indian-tasting-menu>
+
+---
+
+## Want residents, not politicians, to find answers to LA’s thorniest problems? Try a civic assembly
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+They’ve been used in cities across Europe. Some groups are now trying to make them happen in L.A. 
+
+<br> 
+
+<https://laist.com/news/politics/want-residents-not-politicians-to-find-answers-to-las-thorniest-problems-try-a-civic-assembly>
+
+---
+
+## Fact check: Are gas prices really going to skyrocket starting July 1?
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+A state gas tax increase will take effect ahead of Independence Day, with some reports predicting skyrocketing prices. Is it really true? 
+
+<br> 
+
+<https://laist.com/news/fact-check-california-gas-prices-july>
 
 ---
 
@@ -49,7 +274,7 @@ date: 2025-06-26, updated: 2025-06-26, from: The LAist
 
 date: 2025-06-26, from: Longbeach Post
 
-<figure><img width="1024" height="670" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t-1024x670.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t-1024x670.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t-300x196.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t-768x502.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t-165x108.jpg 165w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t-400x262.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="670" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t-1024x670.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t-1024x670.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t-300x196.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t-768x502.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t-165x108.jpg 165w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t-400x262.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/18121927/18mar25-animal-0-054714-bdez6rvc-930125-Utzbta9t.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The two sides have been locked in a legal fight since the city accused the animal welfare nonprofit of violating its contract to handle pet adoptions.</p>
 <p>The post <a href="https://lbpost.com/news/city/judge-temporarily-blocks-spcalas-eviction-from-long-beach-animal-shelter">Judge temporarily blocks SPCALA’s eviction from Long Beach animal shelter</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -114,7 +339,7 @@ What started as a strategy to integrate campuses can now feel like an opaque com
 
 date: 2025-06-26, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26111253/092624-lake-tahoe-fire-mg-cm-13-643466-ljvr0zig-518183-66pLCYeQ.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The land at stake ranges from dense, remote coastal forests in the far north, to alpine conifer forests in the Sierra Nevada, to Southern California’s great expanses of brush. Experts dispute whether revoking the two-decade-old rule would help prevent wildfires.</p>
 <p>The post <a href="https://lbpost.com/news/these-4-million-acres-of-california-forests-could-lose-protection-heres-what-trumps-roadless-rule-repeal-could-do">These 4 million acres of California forests could lose protection. Here’s what Trump’s ‘roadless rule’ repeal could do</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

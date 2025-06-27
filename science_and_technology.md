@@ -1,11 +1,215 @@
 ---
 title: science and technology
-updated: 2025-06-27 06:08:58
+updated: 2025-06-27 14:07:02
 ---
 
 # science and technology
 
-(date: 2025-06-27 06:08:58)
+(date: 2025-06-27 14:07:02)
+
+---
+
+## NASA Welcomes Axiom Mission 4 to the International Space Station
+
+date: 2025-06-27, from: NASA breaking news
+
+A SpaceX Dragon spacecraft carrying the Axiom Mission 4 crew docks to the space-facing port of the International Space Station’s Harmony module on June 26. Axiom Mission 4 is the fourth all-private astronaut mission to the orbiting laboratory, welcoming commander Peggy Whitson, former NASA astronaut and director of human spaceflight at Axiom Space, ISRO (Indian [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-welcomes-axiom-mission-4-to-the-international-space-station/>
+
+---
+
+## How Broadcom is quietly plotting a takeover of the AI infrastructure market
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>When AI is a nesting doll of networks, so why reinvent the wheel when you can license it instead</h4> <p><strong>feature</strong>  GPUs dominate the conversation when it comes to AI infrastructure. But while they&#39;re an essential piece of the puzzle, it&#39;s the interconnect fabrics that allow us to harness them to train and run multi-trillion-parameter models at scale.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/broadcom_ai_ip/>
+
+---
+
+## Uncle Sam wants you – to use memory-safe programming languages
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>&#39;Memory vulnerabilities pose serious risks to national security and critical infrastructure,&#39; say CISA and NSA</h4> <p>The US Cybersecurity and Infrastructure Security Agency (CISA) and the National Security Agency (NSA) this week published guidance urging software developers to adopt memory-safe programming languages.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/cisa_nsa_call_formemory_safe_languages/>
+
+---
+
+## NASA Announces Winners of 2025 Human Lander Challenge
+
+date: 2025-06-27, from: NASA breaking news
+
+NASA’s Human Lander Challenge marked its second year on June 26, awarding $18,000 in prize money to three university teams for their solutions for long-duration cryogenic, or super chilled, liquid storage and transfer systems for spaceflight. Building on the crewed Artemis II flight test, NASA’s Artemis III mission will send astronauts to explore the lunar [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/human-lander-challenge/nasa-announces-winners-of-2025-human-lander-challenge/>
+
+---
+
+## Fed chair Powell says AI is coming for your job
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>AI will make &#39;significant changes&#39; to economy, labor market</h4> <p>It may not happen today or even tomorrow, but US Federal Reserve chair Jerome Powell is confident that someday soon AI is going to seriously change the US economy and labor market. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/powell_ai_coming_for_your_job/>
+
+---
+
+## Palantir jumps aboard tech-nuclear bandwagon with software deal
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>The AI boom needs power, and startup The Nuclear Company aims to help build</h4> <p>Palantir has become the latest tech company to jump on the nuclear power bandwagon - not by making a datacenter deal like Microsoft or Amazon, mind you, but by providing its data analytics software to a startup aiming to help build nuclear plants faster and cheaper.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/palantir_joins_tech_nuclear_bandwagon/>
+
+---
+
+## Mars Reconnaissance Orbiter learns new trick at the age of 19: ‘very large rolls’
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>Now play dead, like a lot of NASA science programs if the White House gets its way</h4> <p>The team behind NASA&#39;s 19-year-old Mars Reconnaissance Orbiter (MRO) has been busy teaching an old spacecraft new tricks, persuading the vehicle to perform a 120-degree roll to peer more clearly into the red planet.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/mars_reconnaissance_orbiter_new_trick/>
+
+---
+
+## Astronaut Joe Engle Flies X-15
+
+date: 2025-06-27, from: NASA breaking news
+
+Former NASA astronaut Joe Engle poses in front of an X-15 plane in this Dec. 2, 1965, photo. On June 29, 1965, Engle flew the X-15 to 280,600 feet, becoming the youngest U.S. pilot to qualify as an astronaut. The Kansas native flew the X-15 for the U.S. Air Force 16 times from 1963 to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/astronaut-joe-engle-flies-x-15/>
+
+---
+
+## Cisco punts network-security integration as key for agentic AI
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>Getting it in might mean re-racking the entire datacenter and rebuilding the network, though</h4> <p>Cisco is talking up the integration of security into network infrastructure such as its latest Catalyst switches, claiming this is vital to AI applications, and in particular the current vogue for &#34;agentic AI.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/cisco_punts_networksecurity_integration/>
+
+---
+
+## Aloha, you’ve been pwned: Hawaiian Airlines discloses ‘cybersecurity event’
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>&#39;No impact on safety,&#39; FAA tells <em>The Reg</em></h4> <p><strong>update</strong>  Hawaiian Airlines said a &#34;cybersecurity incident&#34; affected some of its IT systems, but noted that flights are operating as scheduled. At least one researcher believes Scattered Spider, which previously targeted retailers and insurance companies, could be to blame.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/aloha_youve_been_pwned_hawaiian/>
+
+---
+
+## US Department of Defense will stop sending critical hurricane satellite data
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>No replacement in the wings for info streamed from past their prime rigs, &#39;termination will be permanent&#39;</h4> <p>Satellite data used for hurricane forecasting is to be abruptly cut off from the end of June due to &#34;recent service changes.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/us_hurricane_satellite_data_to_stop/>
+
+---
+
+## Sophia Roberts: Showcasing the Cosmos
+
+date: 2025-06-27, from: NASA breaking news
+
+Astrophysics Science Video Producer – Goddard Space Flight Center Growing up in Detroit with a camera in her hand, Sophia Roberts — now an award-winning astrophysics science video producer—never imagined that one day her path would wind through clean rooms, vacuum chambers, and even a beryllium mine. But framing the final frontier sometimes requires traveling [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/people-of-nasa/sophia-roberts-showcasing-the-cosmos/>
+
+---
+
+## So you CAN turn an entire car into a video game controller
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>Pen Test Partners hijack data from Renault Clio to steer, brake, and accelerate in SuperTuxKart</h4> <p>Cybersecurity nerds figured out a way to make those at-home racing simulators even more realistic by turning an actual car into a game controller.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/renault_clio_racing_controller/>
+
+---
+
+## Before the megabit: A trip through vintage datacenter networking
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>When it was all about the baud rate</h4> <p>The world of datacenter networking is crammed with exotic technology and capabilities beyond the imaginings of administrators charged with running big iron decades ago. However, while it might have been a slower and more proprietary time, it was also perhaps a little simpler.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/vintage_datacenter_networking/>
+
+---
+
+## When Did Nature Burst Into Vivid Color?
+
+date: 2025-06-27, from: Quanta Magazine
+
+Scientists reconstructed 500 million years of evolutionary history to reveal which came first: colorful signals or the color vision needed to see them.             <p>The post <a href="https://www.quantamagazine.org/when-did-nature-burst-into-vivid-color-20250627/" target="_blank">When Did Nature Burst Into Vivid Color?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/when-did-nature-burst-into-vivid-color-20250627/>
+
+---
+
+## Data spill in aisle 5: Grocery giant Ahold Delhaize says 2.2M affected after cyberattack
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>Finance, health, and national identification details compromised</h4> <p>Multinational grocery and retail megacorp Ahold Delhaize says upwards of 2.2 million people had their data compromised during its November cyberattack with personal, financial and health details among the trove.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/ahold_delhaize_breach/>
+
+---
+
+## Hubble Captures an Active Galactic Center
+
+date: 2025-06-27, from: NASA breaking news
+
+The light that the NASA/ESA Hubble Space Telescope collected to create this image reached the telescope after a journey of 250 million years. Its source was the spiral galaxy UGC 11397, which resides in the constellation Lyra (The Lyre). At first glance, UGC 11397 appears to be an average spiral galaxy: it sports two graceful spiral arms that are […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-captures-an-active-galactic-center/>
 
 ---
 
@@ -69,7 +273,7 @@ date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
 
 ---
 
-## Don't shoot, I'm only the system administrator!
+## Don't shoot me, I'm only the system administrator!
 
 date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
 

@@ -1,11 +1,187 @@
 ---
 title: going electric
-updated: 2025-06-27 06:09:04
+updated: 2025-06-27 14:07:08
 ---
 
 # going electric
 
-(date: 2025-06-27 06:09:04)
+(date: 2025-06-27 14:07:08)
+
+---
+
+## Solar panel maker Meyer Burger US files for Chapter 11 bankruptcy [Update]
+
+date: 2025-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/05/Meyer-Burger-Goodyear.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Swiss solar manufacturer Meyer Burger has filed for voluntary Chapter 11 bankruptcy relief in the US after filing for insolvency proceedings earlier this month in Germany.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="418391" href="https://electrek.co/2025/06/27/meyer-burger-us-solar-factory-and-laid-off-282-workers/#more-418391" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/27/meyer-burger-us-solar-factory-and-laid-off-282-workers/>
+
+---
+
+## Hurricanes, heat domes, and holding up the grid with home batteries
+
+date: 2025-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/power_lines.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Hurricanes, wildfires, <a href="https://electrek.co/2025/06/22/your-secret-weapon-against-summer-heat-home-solar-power-battery/">and triple-digit heat domes</a> are stressing America’s energy grid like never before, with millions experiencing rolling blackouts and brownouts as they struggle to keep their collective cool. As rooftop solar and home batteries show up in more and more places, however, we’re building something bigger than a backup: a virtual power plant that can keep things running when the grid can’t.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="home-battery-pack,home-energy-storage,solar-power,tesla-powerwall" data-layer-viewtype="unknown" data-post-id="422601" href="https://electrek.co/2025/06/27/hurricanes-heat-domes-and-holding-up-the-grid-with-home-batteries/#more-422601" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/27/hurricanes-heat-domes-and-holding-up-the-grid-with-home-batteries/>
+
+---
+
+## From $129/month: the 5 best EV lease deals right now
+
+date: 2025-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Hyundai-free-charger-EVs-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>CarsDirect just flagged some of the best <a href="https://electrek.co/guides/ev-lease/" target="_blank" rel="noreferrer noopener">EV lease</a> deals we’ve seen this summer. These five stand out for their low monthly costs and solid perks. Some expire at the end of June, others run into July – so if one catches your eye, don’t sleep on it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-lease,honda-prologue,hyundai-ioniq-5,hyundai-ioniq-6,nissan-ariya,subaru-solterra" data-layer-viewtype="unknown" data-post-id="422589" href="https://electrek.co/2025/06/27/5-best-ev-lease-deals-right-now/#more-422589" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/27/5-best-ev-lease-deals-right-now/>
+
+---
+
+## The Genesis GV90 interior takes luxury to a whole new level: Here’s our first look
+
+date: 2025-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Genesis-GV90-ultra-luxury-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The GV90 is not just the most luxurious Genesis EV to date. It’s an ultra-luxe tech powerhouse. <a href="https://electrek.co/guides/genesis/">Genesis</a> set out to redefine luxury with the GV90, and the interior proves it. Here’s our first look.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis" data-layer-viewtype="unknown" data-post-id="422572" href="https://electrek.co/2025/06/27/genesis-gv90-interior-takes-luxury-to-a-whole-new-level/#more-422572" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/27/genesis-gv90-interior-takes-luxury-to-a-whole-new-level/>
+
+---
+
+## Navee’s new GT3 Pro smart regen e-scooter at $520 low, Ride1Up 4th of July Sale, Aiper smart pool monitor + robots, lawn care tools, more
+
+date: 2025-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Navee-GT3-Pro-Electric-Scooter-e1751044799387.png?w=1600" /></div><p>We’re closing out this week’s Green Deals leading with a spotlight on <a href="https://9to5toys.com/2025/06/27/navee-gt3-pro-electric-scooter-520-low/">Navee’s new GT3 Pro Electric Scooter</a> that sports regenerative braking, Apple Find My, and more at its <a href="https://9to5toys.com/2025/06/27/navee-gt3-pro-electric-scooter-520-low/">$520 low</a> during the brand’s <a href="https://9to5toys.com/2025/06/27/navees-independence-day-sale-st3-pro-760-low-more/">Independence Day Sale</a>. Right behind it is <a href="https://9to5toys.com/2025/06/27/4th-of-july-ride1up-e-bikes-from-995/">Ride1Up’s 4th of July e-bike Sale with up to $500 discounts</a> its lineup of e-bikes starting <a href="https://9to5toys.com/2025/06/27/4th-of-july-ride1up-e-bikes-from-995/">from $995</a>. From there, we have <a href="https://9to5toys.com/2025/06/26/aiper-hydrocomm-monitor-350-more/">Aiper’s HydroComm Solar-Charging Smart Pool Monitor</a> in a blue colorway at <a href="https://9to5toys.com/2025/06/26/aiper-hydrocomm-monitor-350-more/">$350</a>, as well as several of the brand’s pool-cleaning robots. For our final tool deals of the week, we spotted <a href="https://9to5toys.com/2025/06/27/worx-40v-nitro-15-inch-powershare-pro-trimmer-bundle-230/">Worx’s Nitro 40V 15-inch PowerShare Pro Cordless Driveshare String Trimmer bundle</a> (two batteries and replacement head), which allows you to use alternate attachments from this brand or others, down at a <a href="https://9to5toys.com/2025/06/27/worx-40v-nitro-15-inch-powershare-pro-trimmer-bundle-230/">$230 annual low</a>. We also have <a href="https://9to5toys.com/2025/06/27/greenwork-24v-22-inch-hedge-trimmer-97/">Greenworks’ legacy 24V 22-inch Cordless Laser Cut Hedge Trimmer kit</a> at its best price in years for <a href="https://9to5toys.com/2025/06/27/greenwork-24v-22-inch-hedge-trimmer-97/">$97</a>. Plus, there’s all the rest of the hangover Green Deals in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/06/26/rad-power-bikes-4th-of-july-radster-e-bikes-1999-lows-more/">4th of July Rad Power e-bike savings</a>, the <a href="https://9to5toys.com/2025/06/26/ecoflow-48-hour-flash-sale-starting-from-429/">48-hour EcoFlow flash sale</a> on three units that will be ending tonight, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="422571" href="https://electrek.co/2025/06/27/navee-gt3-pro-electric-scooter-520-low-ride1up-aiper-tools-more/#more-422571" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/27/navee-gt3-pro-electric-scooter-520-low-ride1up-aiper-tools-more/>
+
+---
+
+## The Used EV Market Is Booming
+
+date: 2025-06-27, from: Inside EVs News
+
+Even as new EV sales struggle, the second-hand market is thriving. 
+
+<br> 
+
+<https://insideevs.com/news/764019/used-ev-boom/>
+
+---
+
+## Solid-state EV batteries with +1,800 miles range? It sounds too good to be true
+
+date: 2025-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Mercedes-solid-state-battery-EV-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Another company claims to have <a href="https://electrek.co/guides/solid-state-batteries/">solid-state EV batteries</a> in the works that will unlock well over 1,000 miles (3,000 km) of range and fast charging in just five minutes. And it’s not BYD this time. Is it too good to be true?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,solid-state-batteries,solid-state-battery" data-layer-viewtype="unknown" data-post-id="422548" href="https://electrek.co/2025/06/27/solid-state-ev-batteries-with-1800-miles-range-is-it-possible/#more-422548" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/27/solid-state-ev-batteries-with-1800-miles-range-is-it-possible/>
+
+---
+
+## Car Dealers Have Been No Friend To EVs. Here's Where They Stand On The Tax Credit
+
+date: 2025-06-27, from: Inside EVs News
+
+We also discuss the departure of a senior Tesla executive and close aide to Elon Musk, plus Rivian’s latest layoffs. 
+
+<br> 
+
+<https://insideevs.com/news/764098/ev-dealers-congress-tax-credits/>
+
+---
+
+## HappyRun G300 Pro review: It’s an electric motorcycle with pedals and I’ve got some thoughts
+
+date: 2025-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/g300-pro-happyrun-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The <a href="https://happyrunsports.com/products/happyrun-electric-dirt-bike-g300-pro?variant=45012911456356">HappyRun G300 Pro</a> is the epitome of an out-of-class electric bike. That is to say, it has many of the components of an electric bicycle, key among them the functional pedals, but its extremely high power and speed place it well outside the limits of traditional e-bike classifications. The result? Basically, an electric motorcycle with pedals. And I’ve got some thoughts about that.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,electric-motorcycle,review" data-layer-viewtype="unknown" data-post-id="422505" href="https://electrek.co/2025/06/27/happyrun-g300-pro-review-its-an-electric-motorcycle-with-pedals-and-ive-got-some-thoughts/#more-422505" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/27/happyrun-g300-pro-review-its-an-electric-motorcycle-with-pedals-and-ive-got-some-thoughts/>
+
+---
+
+## Toyota breaks ground on the first independent Lexus EV plant in China, but there’s more
+
+date: 2025-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Toyota-Lexus-EV-plant.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota is finally getting into the game in the world’s largest EV market. On Friday, <a href="https://electrek.co/guides/toyota/">Toyota</a> officially broke ground on the new Lexus EV plant in Shanghai, its first fully owned manufacturing facility in China and the second in the region, following Tesla.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lexus,toyota" data-layer-viewtype="unknown" data-post-id="422530" href="https://electrek.co/2025/06/27/toyota-breaks-ground-on-first-independent-lexus-ev-plant-china/#more-422530" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/27/toyota-breaks-ground-on-first-independent-lexus-ev-plant-china/>
+
+---
+
+## Tesla hires Head of Autonomy from GM’s failed self-driving startup (Update: Tesla denies)
+
+date: 2025-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Self-driving-Fremont-factory.png?w=1600" /></div><p>Tesla has hired Henry Kuang, the former ‘Head of Autonomy’ at GM’s failed self-driving startup, Cruise.</p>
+
+
+
+<p><strong>Update</strong>: Tesla denied hiring Kuang for the role listed in his LinkedIn profile.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="cruise,gm,tesla" data-layer-viewtype="unknown" data-post-id="422527" href="https://electrek.co/2025/06/27/tesla-hires-head-autonomy-gm-cruise-failed-self-driving-startup/#more-422527" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/27/tesla-hires-head-autonomy-gm-cruise-failed-self-driving-startup/>
 
 ---
 
@@ -37,11 +213,15 @@ date: 2025-06-27, from: Electrek Feed
 
 ---
 
-## Podcast: Xiaomi shocks with YU7,  Tesla Robotaxi launch, Rivian brings back tank mode, and more
+## Podcast: Xiaomi shocks with YU7,  Tesla Robotaxi launch and more
 
 date: 2025-06-27, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Xiaomi shocking the industry with YU7, Tesla’s Robotaxi launch, Rivian bringing back tank mode, and more.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Xiaomi shocking the industry with YU7, Tesla’s Robotaxi launch and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Electrek_391.mp3"></audio></figure>
 
 
 
@@ -82,6 +262,22 @@ date: 2025-06-26, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/06/26/heres-a-look-at-kia-ev4-gt-before-youre-supposed-to-see-it/>
+
+---
+
+## Here’s a look at the Kia EV4 GT before you’re supposed to see it [Video]
+
+date: 2025-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Kia-EV4-GT-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s upcoming EV4 GT is gunning for the Tesla Model 3 Performance, but it’s expected to undercut the price. Could this be the affordable electric sports car we’ve been waiting for? A new video shows the <a href="https://electrek.co/guides/kia-ev4/">Kia EV4 GT</a> driving on US streets ahead of its debut.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" data-post-id="422479" href="https://electrek.co/2025/06/26/kia-ev4-gt-spotted-in-the-us-ahead-of-upcoming-debut/#more-422479" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/26/kia-ev4-gt-spotted-in-the-us-ahead-of-upcoming-debut/>
 
 ---
 

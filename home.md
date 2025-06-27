@@ -1,11 +1,116 @@
 ---
 title: home
-updated: 2025-06-27 06:09:02
+updated: 2025-06-27 14:07:06
 ---
 
 # home
 
-(date: 2025-06-27 06:09:02)
+(date: 2025-06-27 14:07:06)
+
+---
+
+## The Foolproof Method for Harvesting Horse Radish the Right Way
+
+date: 2025-06-27, from: Family Handyman Blog
+
+<p>Horticulturists share best practices to successfully harvest horseradish, including not doing so prematurely and using correct tools. They also offer tips.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-harvest-horse-radish/">The Foolproof Method for Harvesting Horse Radish the Right Way</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-harvest-horse-radish/>
+
+---
+
+## How to Dispose of Cooking Oil Right Way
+
+date: 2025-06-27, from: Family Handyman Blog
+
+<p>Even a little vegetable oil down your drain can make a lasting mess. Plus, it might be illegal. Here's what to know.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-dispose-of-cooking-oil-right-way/">How to Dispose of Cooking Oil Right Way</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-dispose-of-cooking-oil-right-way/>
+
+---
+
+## An Experimental Eric Owen Moss Home Is Up for Rent a Block From the Beach
+
+date: 2025-06-27, from: Dwell
+
+Asking $24,500 a month, the one-of-a-kind Santa Monica residence has a bold chartreuse facade and CNC-sculpted interiors. 
+
+<br> 
+
+<https://www.dwell.com/article/a-and-m-house-eric-owen-moss-santa-monica-los-angeles-real-estate-89e0ccd9>
+
+---
+
+## How to Grow and Care for Dyer’s Woad
+
+date: 2025-06-27, from: The Gardener's Path
+
+<p>Dyer's woad (Isatis tinctoria) has been an invaluable plant throughout history, once prized for both its medicinal uses and its ability to produce a striking blue dye. Today, it’s enjoying a modern revival, especially among natural ink and dye makers. Learn how to grow this fascinating plant in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-woad/">How to Grow and Care for Dyer’s Woad</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-woad/>
+
+---
+
+## The Trump Family Plans to Develop an Island—and Everything Else You Need to Know About This Week
+
+date: 2025-06-27, from: Dwell
+
+Zillow faces a lawsuit from Compass, May marks the slowest housing market since 2009, Kim Kardashian settles her fake Judd furniture lawsuit, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/ivanka-trump-jared-kushner-mediterranean-island-resort-slow-home-sales-compass-zillow-lawsuit-89ccbd29>
+
+---
+
+## A Legendary Wave Put Puerto Escondido On the Map. Now Overtourism Could Ruin It
+
+date: 2025-06-27, from: Dwell
+
+Locals say development in this now buzzing Oaxacan town is reshaping their beloved break for the worse—but there’s still time to save it. 
+
+<br> 
+
+<https://www.dwell.com/article/puerto-escondido-overdevelopment-zicatela-beach-break-disappearing-wave-dbd3e0fa>
+
+---
+
+## 6 Common Doves and Pigeons in Iowa (Pictures and Identification)
+
+date: 2025-06-27, from: Yard Life blog
+
+<p>Doves and pigeons in Iowa are easy to spot in both cities and rural areas. These birds are often seen ... </p>
+<p class="read-more-container"><a title="6 Common Doves and Pigeons in Iowa (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/6-common-doves-and-pigeons-in-iowa-pictures-and-identification/#more-31344" aria-label="Read more about 6 Common Doves and Pigeons in Iowa (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/6-common-doves-and-pigeons-in-iowa-pictures-and-identification/">6 Common Doves and Pigeons in Iowa (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/6-common-doves-and-pigeons-in-iowa-pictures-and-identification/>
+
+---
+
+## You Can Rent These Floating Cabins Year-Round—Even When the Water Freezes
+
+date: 2025-06-27, from: Dwell
+
+A collection of on-lake, off-grid retreats across Québec encourages visitors to unplug in every season. 
+
+<br> 
+
+<https://www.dwell.com/article/bora-boreal-floating-cabins-four-season-rentals-agence-spatiale-d40b87e9>
 
 ---
 
@@ -21,6 +126,42 @@ date: 2025-06-27, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/8-common-woodpeckers-in-minnesota-pictures-and-identification/>
+
+---
+
+## These Fourth of July Party Recipes Will Make Menu Planning So Much Easier
+
+date: 2025-06-27, from: Sunset Magazine - Living in the West
+
+Looking for even more options? We've got a handful of Fourth of July party recipes in several categories—put them together in any combination you wish! 
+
+<br> 
+
+<https://www.sunset.com/food-wine/entertaining/fourth-july-party-recipes>
+
+---
+
+## New Year’s Eve Wine Pairings: Bubbles and Dishes to Impress Your Friends
+
+date: 2025-06-27, from: Sunset Magazine - Living in the West
+
+When these Western sparkling wines are paired with these dishes, they bring out the best in each other and are sure to enhance your New Year's Eve meal. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/entertaining/new-years-eve-wine-pairings>
+
+---
+
+## These Are the Best New Summer Products at Trader Joe’s
+
+date: 2025-06-27, from: Sunset Magazine - Living in the West
+
+What’s new at Trader Joe’s this summer? A lot of sweet treats, picnic essentials, and even some summer skincare finds. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/trader-joes-new-summer-products-2025>
 
 ---
 
@@ -126,18 +267,6 @@ date: 2025-06-27, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/37-small-birds-in-mississippi-with-pictures-and-identification/>
-
----
-
-## These Are the Best New Summer Products at Trader Joe’s
-
-date: 2025-06-26, from: Sunset Magazine - Living in the West
-
-What’s new at Trader Joe’s this summer? A lot of sweet treats, picnic essentials, and even some summer skincare finds. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/trader-joes-new-summer-products-2025>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-06-27 06:09:03
+updated: 2025-06-27 14:07:07
 ---
 
 # retro computing
 
-(date: 2025-06-27 06:09:03)
+(date: 2025-06-27 14:07:07)
+
+---
+
+## ONLYOFFICE v9 Embraces AI
+
+date: 2025-06-27, from: Linux Magazine
+
+<p>Like nearly all office suites on the market (except LibreOffice), ONLYOFFICE has decided to go the AI route.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/ONLYOFFICE-v9-Embraces-AI>
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2025-06-27, from: Digital Antiquarian
+
+The Voyage of Magellan, Epilogue: Sailor of Eternal Fame 
+
+<br> 
+
+<https://www.filfre.net/2025/06/this-week-on-the-analog-antiquarian/>
 
 ---
 

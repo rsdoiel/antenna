@@ -1,11 +1,60 @@
 ---
 title: pacific
-updated: 2025-06-27 06:08:57
+updated: 2025-06-27 14:07:01
 ---
 
 # pacific
 
-(date: 2025-06-27 06:08:57)
+(date: 2025-06-27 14:07:01)
+
+---
+
+## Business Brief: Meet Guam's young entrepreneurs at Bonita Baby 
+
+date: 2025-06-27, from: Pacific Island Times
+
+The Nenpire and Bonita Baby have launched The Nenpire Launch Pad Corner, a dedicated space at Bonita Baby located in Hagåtña, that shines... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/business-brief-meet-guam-s-young-entrepreneurs-at-bonita-baby>
+
+---
+
+## Community Events: GRMC to host diabetic foot awareness event 
+
+date: 2025-06-27, from: Pacific Island Times
+
+Guam Regional Medical City will host its next outreach event, Healing Starts Here: Foot Health and Wound Care for Diabetes, on June 28... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/community-events-grmc-to-host-diabetic-foot-awareness-event>
+
+---
+
+## UH to decommission 3rd Maunakea telescope
+
+date: 2025-06-27, from: University of Hawaiʻi News
+
+<p><abbr>UKIRT</abbr> will be the third Maunakea observatory to be decommissioned under <abbr>UH</abbr>’s Maunakea Comprehensive Management Plan.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/27/uh-to-decommission-3rd-maunakea-telescope/"><abbr>UH</abbr> to decommission 3rd Maunakea telescope</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/27/uh-to-decommission-3rd-maunakea-telescope/>
+
+---
+
+## Allegations public money used by Whānau Ora for 'electioneering' to be investigated
+
+date: 2025-06-27, from: 
+
+The use of public money by Whānau Ora commissioning services and whether contractual obligations were met are to be investigated. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/political/565354/allegations-public-money-used-by-whanau-ora-for-electioneering-to-be-investigated>
 
 ---
 
@@ -272,6 +321,20 @@ date: 2025-06-27, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/06/27/nation-world-news/supreme-court-rules-planned-parenthood-cannot-sue-over-south-carolina-defunding-effort/>
+
+---
+
+## UH to decommission third Maunakea telescope
+
+date: 2025-06-27, from: Hawaii Tribune Harold
+
+
+				<p>Another telescope on Maunakea is set to be decommissioned.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/27/hawaii-news/uh-to-decommission-third-maunakea-telescope/>
 
 ---
 
@@ -681,6 +744,30 @@ With the escalating Middle East crisis predicted to cause volatility in the fuel
 
 ---
 
+## Salute to Veterans Series offers insightful discussion, resources and solutions for the ongoing issues veterans face daily
+
+date: 2025-06-27, updated: 2025-06-27, from: Marianas Variety
+
+(BPT) - This national TV series and year-round program honors and pays tribute to the nation's 22 million veterans, and 89 million direct military family members. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/salute-to-veterans-series-offers-insightful-discussion-resources-and-solutions-for-the-ongoing-issues-veterans/article_ed99d23f-5c54-55ec-9a38-667e31197540.html>
+
+---
+
+## 2025 Saipan Ocean Fair postponed
+
+date: 2025-06-27, updated: 2025-06-27, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/2025-saipan-ocean-fair-postponed/article_99ecf97b-8cf7-4fa3-aea3-716c9fd7b237.html>
+
+---
+
 ## Waiawa Correctional Facility students cook for college credit
 
 date: 2025-06-27, from: University of Hawaiʻi News
@@ -892,6 +979,18 @@ The owners of Moana Pasifika Super are confident they can continue to bankroll t
 
 ---
 
+## The Virginia Beach vibe: A shore thing for every traveler's wish list
+
+date: 2025-06-26, updated: 2025-06-26, from: Marianas Variety
+
+(BPT) - Where the Chesapeake Bay meets the Atlantic Ocean, travelers are greeted by the welcoming shores of Virginia Beach. While its iconic boardwalk and sun-drenched shores beckon millions every year, this vibrant coastal city continues to blossom into a sophisticated, diverse and utterly irresistible destination that's tailor-made for every traveler's wish list. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/travel/the-virginia-beach-vibe-a-shore-thing-for-every-travelers-wish-list/article_862a5639-626e-55ae-a14e-c6658af30460.html>
+
+---
+
 ## Program record 10 Telly Awards for UH’s ‘Voice of the Sea’ TV series
 
 date: 2025-06-26, from: University of Hawaiʻi News
@@ -914,6 +1013,90 @@ by Michael Brasier Her toys—every little figurine and stuffed animal I bought�
 <br> 
 
 <https://hawaiipacificreview.org/2025/06/26/the-blanket/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-06-26, updated: 2025-06-26, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## With a primitive canoe, scientists replicate prehistoric seafaring
+
+date: 2025-06-26, updated: 2025-06-26, from: Marianas Variety
+
+(Reuters) — Our species arose in Africa roughly 300,000 years ago and later trekked worldwide, eventually reaching some of Earth's most remote places. In doing so, our ancestors surmounted geographic barriers including treacherous ocean expanses. But how did they do that with only rudimentary technology available to them? 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/with-a-primitive-canoe-scientists-replicate-prehistoric-seafaring/article_7c23ae27-7ecb-4379-852f-3328c11da04d.html>
+
+---
+
+## Denis Villeneuve to direct the next ‘James Bond’ movie
+
+date: 2025-06-26, updated: 2025-06-26, from: Marianas Variety
+
+(Reuters) — Oscar-nominated Denis Villeneuve will direct the next "James Bond" film, Amazon's MGM Studios said on Wednesday, taking charge of one of Hollywood's most enigmatic spies and longest-running movie series. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/denis-villeneuve-to-direct-the-next-james-bond-movie/article_2bbe46c7-223b-458d-b3f5-8f2c8dd3a6de.html>
+
+---
+
+## Poetry
+
+date: 2025-06-26, updated: 2025-06-26, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_c92fd26e-6c1a-4cbe-a68e-3f7eb89eb313.html>
+
+---
+
+## Saipan Ag Fair postponed due to weather conditions
+
+date: 2025-06-26, updated: 2025-06-26, from: Marianas Variety
+
+(SAFA) — Due to unforeseen weather conditions, the 38th Saipan Agricultural Fair will be postponed until further notice. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/saipan-ag-fair-postponed-due-to-weather-conditions/article_ec8dcf14-90ce-4188-94cc-9a3e75bed654.html>
+
+---
+
+## SHS announces upcoming spay and neuter clinic
+
+date: 2025-06-26, updated: 2025-06-26, from: Marianas Variety
+
+(SHS) — Saipan Humane Society is pleased to announce an upcoming spay and neuter clinic with visiting veterinarian Dr. Mariah Coakley, scheduled for July 1-3 and July 7-9, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/shs-announces-upcoming-spay-and-neuter-clinic/article_2b97ff06-e3a7-4561-bcc4-782336b1ff57.html>
+
+---
+
+## Updated military training plan includes civilian access, draws opposition
+
+date: 2025-06-26, updated: 2025-06-26, from: Marianas Variety
+
+SAIPAN residents met with subject matter experts on the revised Draft Environmental Impact Statement for the Commonwealth of the Northern Mariana Islands Joint Military Training or CNMI JMT project during a public consultation held Wednesday at the Crowne Plaza Resort. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/updated-military-training-plan-includes-civilian-access-draws-opposition/article_fcd87ccd-52f4-4d87-8352-49fd1de8a2df.html>
 
 ---
 
@@ -3237,18 +3420,6 @@ SEOUL (Reuters) — K-pop group BTS member Suga was discharged from the South Ko
 <br> 
 
 <https://www.mvariety.com/lifestyle/bts-member-suga-discharged-from-south-korean-military-service/article_5e14aaae-b3dd-4889-b02c-29515b8ca88a.html>
-
----
-
-## Variety editor’s 4th book available at Joeten Susupe
-
-date: 2025-06-22, updated: 2025-06-22, from: Marianas Variety
-
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
 
 ---
 

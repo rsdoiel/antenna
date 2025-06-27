@@ -1,11 +1,67 @@
 ---
 title: columns
-updated: 2025-06-27 06:08:59
+updated: 2025-06-27 14:07:03
 ---
 
 # columns
 
-(date: 2025-06-27 06:08:59)
+(date: 2025-06-27 14:07:03)
+
+---
+
+## June 26, 2025
+
+date: 2025-06-27, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167000746/958db4160192655142574035e70b4519.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167000746/958db4160192655142574035e70b4519.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-26-2025-1f4>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-27, from: Dave Winer's Scripting News)
+
+BTW, I think the right way to read Scripting News is getting the nightly email. That's the pulse. I jot stuff down during the day, mostly in the morning, and later add links and finish stuff up. The scripting.com feed is updated in realtime. So you may get many versions of an item over the course of a day, which might be a problem with feed readers that don't watch for changes. I noticed that my changes to my podcast shownotes page don't flow back out to Pocket Casts, which is the client I use on my Android phone. FeedLand btw, records changes, and they flow through to the timeline. Coupled with rssCloud, which is supported in every WordPress site, makes the whole thing realtime. People assume that feeds have to perform like a feed reader. But if you have a component running on the open internet, hooked up via websockets to the client, you get the flow they get in twitter-like systems. And the thing is we didn't have to invent anything that didn't already exist in 2009. 
+
+<br> 
+
+<http://scripting.com/2025/06/27.html#a181509>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-27, from: Dave Winer's Scripting News)
+
+I'm working my way through The Bear, and it's great because you remember that you love all these characters and you can immediately start living the ongoing drama of their lives. The scene they paint is intriguing. I feel like a cat perched on a window watching everyone doing their daily stuff. Looking forward to going back to the beginning and starting over. 
+
+<br> 
+
+<http://scripting.com/2025/06/27.html#a181311>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-27, from: Dave Winer's Scripting News)
+
+Glossary: Tiny Little Textbox. 
+
+<br> 
+
+<http://scripting.com/2025/06/27.html#a181208>
+
+---
+
+## ★ More on Apple’s Trust-Eroding ‘F1 The Movie’ Wallet Ad
+
+date: 2025-06-27, updated: 2025-06-27, from: Daring Fireball
+
+Sending this ad is completely destructive to all the hard work other teams at Apple have done to make Apple Wallet actually private — and, more importantly, *to get users to believe that it’s private*. 
+
+<br> 
+
+<https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad>
 
 ---
 
@@ -13,11 +69,22 @@ updated: 2025-06-27 06:08:59
 
 date: 2025-06-27, from: Doc Searls (at Harvard), New Old Blog
 
-And, by making it personal, it&#39;s a story after all.  For every person we know who has had trouble getting into the U.S. from Europe, Asia, Canada, or elsewhere, we know dozens who have experienced the opposite. Since there are only facts in &#34;no trouble at all,&#34; and no story, the no-trouble non-story tends not [&#8230;] 
+So now I&#39;ve been wrong for more than seven years. Two days ago, when this blog got almost six thousand visits (a recent record), the most visited post was GDPR will pop the adtech bubble, which went up on May 14, 2018. The GDPR became enforceable on May 25, eleven days later. In this post from [&#8230;] 
 
 <br> 
 
 <https://doc.searls.com/2025/06/27/friday-june-27-2025/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-27, from: Dave Winer's Scripting News)
+
+The longest continuously updated <a href="http://scripting.com/rss.xml">RSS feed</a> in the known universe.
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/27.html#a114647>
 
 ---
 

@@ -1,11 +1,109 @@
 ---
 title: writing
-updated: 2025-06-27 06:09:00
+updated: 2025-06-27 14:07:04
 ---
 
 # writing
 
-(date: 2025-06-27 06:09:00)
+(date: 2025-06-27 14:07:04)
+
+---
+
+## 2025 ITW Thriller Awards Winners
+
+date: 2025-06-27, from: Locus Magazine
+
+<p>International Thriller Writers has announced the winners of the 2025 Thriller Awards. Titles and authors of genre interest follow.</p>
+<p><strong>Best Standalone Thriller Novel
+</strong></p>
+<div class="mynomorebulletlist">
+<ul>
+<li>WINNER: <strong>The Last One at the Wedding</strong>, Jason Rekulak (Flatiron)</li>
+</ul>
+</div>
+<div class="mynomorebulletlist">
+<p><strong>Best Series Novel
+</strong></p>
+<div class="mynomorebulletlist">
+<ul>
+<li>WINNER: <strong>To Die For</strong>, David Baldacci (Grand Central)</li>
+</ul>
+<ul>
+<li><strong>Shadowheart</strong>, Meg Gardiner (Blackstone)</li>
+<li><strong>Flashback</strong>, Iris Johansen &#38; Roy Johansen (Grand Central)</li>
+</ul>
+</div>
+<div class="mynomorebulletlist">
+<p><strong>Best First Novel</strong></p>
+<ul>
+<li>WINNER: <strong>Deadly Animals</strong>, Marie Tierney (Henry </li></ul></div></div> <a href="https://locusmag.com/2025/06/2025-itw-thriller-awards-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/06/2025-itw-thriller-awards-winners/>
+
+---
+
+## 2025 Glass Bell Award Longlist
+
+date: 2025-06-27, from: Locus Magazine
+
+<p>The 12-title longlist for the ninth annual Goldsboro Books Glass Bell Award has been announced. Titles and authors of genre interest include:</p>
+<div class="nobullets">
+<ul>
+<li><strong>The Warm Hands of Ghosts</strong>, Katherine Arden (Century)</li>
+<li><strong>The Cautious Traveller&#8217;s Guide to the Wastelands</strong>, Sarah Brooks (W&#38;N)</li>
+<li><strong>James</strong>, Percival Everett (Mantle &#38; Picador)</li>
+<li><strong>The Silverblood Promise</strong>, James Logan (Arcadia)</li>
+<li><strong>There Are Rivers in the Sky</strong>, Elif Shafak (Viking)</li>
+</ul>
+</div>
+<p>The announcement dates for  <a href="https://locusmag.com/2025/06/2025-glass-bell-award-longlist/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/2025-glass-bell-award-longlist/>
+
+---
+
+## Garland and Boyle Change Up the Zombie Genre Again with ‘28 Years Later’
+
+date: 2025-06-27, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/garland-and-boyle-change-up-the-zombie-genre-again-with-28-years-later" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Aaron%20Taylor-Johnson%20and%20Alfie%20Williams%20in%2028%20Years%20Later%20%282%29.png" alt="Aaron Taylor-Johnson and Alfie Williams running across a green field being pursued by zombies in 28 Years Later" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>No one ever said making a movie was easy. Even for director Danny Boyle and writer/director Alex Garland, bringing their new film <em>28 Years Later</em> was 18 years in the making.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/garland-and-boyle-change-up-the-zombie-genre-again-with-28-years-later>
+
+---
+
+## Abeni and the Kingdom of Gold by P. Djèlí Clark: Review by Alex Brown
+
+date: 2025-06-27, from: Locus Magazine
+
+<p><strong>Abeni and the Kingdom of Gold</strong>, P. Djèlí Clark (Starscape 978-1-25082-585-8, $19.99. 368pp, hc) April 2025.</p>
+<p>With <strong>Abeni and the Kingdom of Gold</strong>, P. Djèlí Clark returns to the West African-inspired fantasy world he created in 2023’s middle-grade novel <strong>Abeni’s Song</strong>. The story picks up not long after the end of the first book. Abeni, Asha (the reincarnat­ed deity currently looking like a child), Songu (a mute  <a href="https://locusmag.com/2025/06/abeni-and-the-kingdom-of-gold-by-p-djeli-clark-review-by-alex-brown/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/abeni-and-the-kingdom-of-gold-by-p-djeli-clark-review-by-alex-brown/>
+
+---
+
+## Portalmania by Debbie Urbanski: Review by Niall Harrison
+
+date: 2025-06-27, from: Locus Magazine
+
+<p>Portalmania, Debbie Urbanski (Simon &#38; Schuster 978-1-6680-6111-4, $18.99, 320pp, tp) May 2025.</p>
+<p>For anyone who reads Debbie Urbanski’s debut collection <strong>Portalmania </strong>after being primed by <strong>Metallic Realms</strong>’s typology of contemporary SF writers, it is an understandable first reaction (be­cause I had it myself) to initially file her as a Jane Noh Johnson, because there are similarities with the deadpan strangeness and structural playful­ness of writers like Kelly Link and  <a href="https://locusmag.com/2025/06/portalmania-b-by-debbie-urbanski-review-by-niall-harrison/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/portalmania-b-by-debbie-urbanski-review-by-niall-harrison/>
 
 ---
 

@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-06-27 06:09:00
+updated: 2025-06-27 14:07:04
 ---
 
 # games
 
-(date: 2025-06-27 06:09:00)
+(date: 2025-06-27 14:07:04)
+
+---
+
+## How to fast travel in Death Stranding 2
+
+date: 2025-06-27, updated: 2025-06-27, from: Polygon Website
+
+Fast travel remains out of your reach for the first several hours of Death Stranding 2: On the Beach, so you&#8217;ll have to tip over, fall down cliffs, and travel around Mexico and Australia on foot for the first dozen missions. When you do unlock fast travel, it also comes with a caveat that&#8217;s worth [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/609687/death-stranding-2-fast-travel-unlock-magellan-evaluation>
+
+---
+
+## When are the daily and weekly reset times in Persona 5 The Phantom X
+
+date: 2025-06-27, updated: 2025-06-27, from: Polygon Website
+
+The daily reset time in Persona 5: The Phantom X is when your dailies refresh, allowing you to complete daily goals and collect rewards. If you’re playing on the global server, the daily reset time happens at the same time every day, but the time of day will be different depending on your time zone. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/609513/persona-5-phantom-x-p5x-reset-daily-weekly-times>
+
+---
+
+## Valorant, League fans lash out against Riot’s new gambling rules
+
+date: 2025-06-27, updated: 2025-06-27, from: Polygon Website
+
+League of Legends and Valorant developer Riot Games is endorsing and embracing the spread of sports betting in its esports competitions, the company announced Thursday. In a change announced by president of publishing an esports at Riot Games John Needham, Riot will allow esports gambling sponsorships for Tear 1 League of Legends and Valorant teams [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/609652/valorant-gambling-league-of-legends-sports-betting-riot>
+
+---
+
+## The Helldivers 2 review bomb cape is finally here, a year after PSN backlash
+
+date: 2025-06-27, updated: 2025-06-27, from: Polygon Website
+
+Helldivers 2 launched in February 2024 to critical acclaim, winning a multitude of awards, including Best Ongoing Game and Best Multiplayer Game at The Game Awards. Aside from some server issues resulting from the sheer number of players attempting to access the game, Helldivers 2 launched without a hitch… until May 2024, when it was [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/609611/helldivers-2-review-bomb-cape>
+
+---
+
+## Magic: The Gathering debuts new Sonic the Hedgehog collection
+
+date: 2025-06-27, updated: 2025-06-27, from: Polygon Website
+
+Magic: The Gathering is gearing up for yet another collaboration, this time with Sega’s Sonic the Hedgehog in a trio of Secret Lair one-off, limited edition card sets.&#160; Unlike the previous Final Fantasy collab, a wide release crossover with four pre-built Commander decks and an entire set of cards sold in randomized packs, the Sonic [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/609540/sonic-the-hedgehog-secret-lair-cards>
+
+---
+
+## New hotness Jonathan Bailey fulfills lifelong band nerd dream for Jurassic World Rebirth
+
+date: 2025-06-27, updated: 2025-06-27, from: Polygon Website
+
+Jonathan Bailey, who catapulted to fame in Bridgerton, wooed musical theater fans everywhere in 2024’s Wicked and this June checks a prerequisite heartthrob box of playing a nerdy paleontologist in Jurassic World Rebirth, will only earn more nerd cred with the release of a new behind-the-scenes look at his dino sequel. Loyalists and skeptics will [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/609537/jonathan-bailey-plays-clarinet-jurassic-world-rebirth-orchestra-score>
+
+---
+
+## REPO gets first major patch with content-rich Museum Update
+
+date: 2025-06-27, updated: 2025-06-27, from: Polygon Website
+
+Semiwork Studios is delivering the first major patch for REPO, bringing even more content to players with the new Museum Update on Thursday, June 26. A new map called the Museum of Human Art headlines the latest patch, v0.2.0, for players to retrieve and extract profitable artifacts in this cooperative operation — see what I [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/609512/repo-first-major-patch-museum-update>
+
+---
+
+## Capcom tries to explain why Leon isn’t the star of Resident Evil Requiem
+
+date: 2025-06-27, updated: 2025-06-27, from: Polygon Website
+
+Resident Evil Requiem will be a game that “pushes the Resident Evil series forward,” says its director, as Capcom focuses on the concept of “addictive fear” for next year’s survival horror game. And if you believe the people making Resident Evil Requiem, a superhero protagonist and clear fan favorite like Leon S. Kennedy is just [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/609440/resident-evil-requiem-leon-re9-capcom>
 
 ---
 
