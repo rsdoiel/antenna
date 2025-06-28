@@ -1,11 +1,11 @@
 ---
 title: columns
-updated: 2025-06-28 06:08:22
+updated: 2025-06-28 14:07:54
 ---
 
 # columns
 
-(date: 2025-06-28 06:08:22)
+(date: 2025-06-28 14:07:54)
 
 ---
 
@@ -108,7 +108,7 @@ Sending this ad is completely destructive to all the hard work other teams at Ap
 
 date: 2025-06-27, from: Doc Searls (at Harvard), New Old Blog
 
-Modest ambitions. I&#39;ll be on the Immergence podcast this coming Tuesday, July 1, at Noon Eastern time, talking with Nico Fara about The Intention Economy, ProjectVRM, Customer Commons, Personal AI, and using MyTerms to completely flip the script on agreements with websites and services, obsolescing all those annoying cookie notices, and blowing up surveillance-based adtech [&#8230;] 
+Modest ambitions. I&#8217;ll be on the Immergence podcast (above) this coming Tuesday, July 1, at Noon Eastern time, talking with Nico Fara about The Intention Economy, ProjectVRM, Customer Commons, Personal AI, and using MyTerms to completely flip the script on agreements with websites and services, obsolescing all those annoying cookie notices—and blowing up surveillance-based adtech [&#8230;] 
 
 <br> 
 

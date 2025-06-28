@@ -1,11 +1,11 @@
 ---
 title: planet
-updated: 2025-06-28 06:08:17
+updated: 2025-06-28 14:07:49
 ---
 
 # planet
 
-(date: 2025-06-28 06:08:17)
+(date: 2025-06-28 14:07:49)
 
 ---
 
@@ -302,11 +302,11 @@ More than €910,000 has been spent by gardaí over the past year to buy 11 new 
 
 ---
 
-## Origins of COVID-19 still unclear according to final report from WHO expert group
+## Origins of COVID-19 still unclear, according to final report from WHO expert group
 
 date: 2025-06-27, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7572849.1751042425!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/covid-que-20211223.JPG' alt='A person in all dark clothing walks past a sandwich board sign that says &quot;Site de vaccination COVID-19&quot;. ' width='620' height='349' title='A man walks by a COVID-19 vaccination sign in Montreal, Thursday, December 23, 2021, as the COVID-19 pandemic continues in Canada and around the world. '/><p>An expert group charged by the World Health Organization to investigate how the COVID-19 pandemic started released its final report Friday, reaching an unsatisfying conclusion: Scientists still aren't sure how the worst health emergency in a century began.</p> 
+<img src='https://i.cbc.ca/1.7572849.1751042425!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/covid-que-20211223.JPG' alt='A person in all dark clothing walks past a sandwich board sign that says &quot;Site de vaccination COVID-19&quot;. ' width='620' height='349' title='A man walks by a COVID-19 vaccination sign in Montreal, Thursday, December 23, 2021, as the COVID-19 pandemic continues in Canada and around the world. '/><p>An expert group charged by the World Health Organization to investigate how the COVID-19 pandemic started released its final report on Friday, reaching an unsatisfying conclusion: Scientists still aren't sure how the worst health emergency in a century began.</p> 
 
 <br> 
 
@@ -348,7 +348,7 @@ date: 2025-06-27, from: Vatican News
 
 ## New UN report charts path out of debt crisis threatening global development
 
-date: 2025-06-27, from: United Nations, Top Stories
+date: 2025-06-27, from: United Nations, Economic Development
 
 A decade after the adoption of the Sustainable Development Goals (SDGs), development is facing serious headwinds – including what UN officials describe as a “silent crisis” of surging debt service payments in low-income countries. 
 
@@ -2391,7 +2391,7 @@ A High Court judge has deferred giving her judgment on the future of an IPAS cen
 
 ## $1 towards a girl’s education = $3 for the global economy: That's how development works
 
-date: 2025-06-25, from: United Nations, Top Stories
+date: 2025-06-25, from: United Nations, Economic Development
 
 Helping those with less isn’t charity – it’s a shared investment in a better future. Yet global development financing is under strain. An upcoming UN conference in Sevilla, Spain, aims to change that by mobilizing large-scale investment for a more just and sustainable world. 
 
@@ -2415,7 +2415,7 @@ Dozens of civilians – including children and school staff – were killed or w
 
 ## Sevilla conference on development financing shows optimism for multilateralism
 
-date: 2025-06-25, from: United Nations, Top Stories
+date: 2025-06-25, from: United Nations, Economic Development
 
 It’s been 10 years since the Addis Ababa Action Agenda was established to support the implementation of the 2030 Agenda for Sustainable Development, the world’s roadmap for ending poverty, protecting the planet and tackling inequalities. 
 

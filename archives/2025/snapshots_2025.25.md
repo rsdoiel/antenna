@@ -1,11 +1,11 @@
 ---
 title: snapshots
-updated: 2025-06-28 06:08:30
+updated: 2025-06-28 14:08:02
 ---
 
 # snapshots
 
-(date: 2025-06-28 06:08:30)
+(date: 2025-06-28 14:08:02)
 
 ---
 
@@ -309,7 +309,7 @@ date: 2025-06-27, from: Raspberry Pi News (.com)
 
 ---
 
-## My Conversation with the brilliant David Frum from the Atlantic on why Billionaires Go Bonkers 
+## My Video Chat with the brilliant David Frum from the Atlantic on why Billionaires Go Bonkers 
 
 date: 2025-06-27, from: Tina Brown
 
