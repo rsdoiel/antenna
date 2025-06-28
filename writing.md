@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2025-06-27 14:07:04
+updated: 2025-06-28 06:08:23
 ---
 
 # writing
 
-(date: 2025-06-27 14:07:04)
+(date: 2025-06-28 06:08:23)
 
 ---
 
@@ -535,4 +535,17 @@ date: 2025-06-22, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/06/2025-locus-awards-winners/>
+
+---
+
+## The Adventures of Mary Darling by Pat Murphy: Review by Gary K. Wolfe
+
+date: 2025-06-21, from: Locus Magazine
+
+<p><strong>The Adventures of Mary Darling</strong>, Pat Murphy (Tachyon 978-1-61696-438-2, $18.95, 320pp, tp) May 2025.</p>
+<p>Any number of fantasy writers have paid hom­age to Tolkien’s famous quotation about “the Pot of Soup, the Cauldron of Story,” or to Salman Rushdie’s less-cited “sea of stories,” but there are plenty of tales that have voluminous pots all their own. Two of the bigger pots involve Peter Pan and Sherlock Holmes, which Pat  <a href="https://locusmag.com/2025/06/the-adventures-of-mary-darling-by-pat-murphy-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/the-adventures-of-mary-darling-by-pat-murphy-review-by-gary-k-wolfe/>
 

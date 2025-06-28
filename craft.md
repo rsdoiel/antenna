@@ -1,11 +1,11 @@
 ---
 title: craft
-updated: 2025-06-27 14:07:09
+updated: 2025-06-28 06:08:28
 ---
 
 # craft
 
-(date: 2025-06-27 14:07:09)
+(date: 2025-06-28 06:08:28)
 
 ---
 
@@ -18,6 +18,18 @@ Philippe Lafargue died at his home from an undiagnosed glioblastoma on June 22. 
 <br> 
 
 <https://blog.lostartpress.com/2025/06/27/philippe-lafargue/>
+
+---
+
+## Meet the Maker: Ted Megas
+
+date: 2025-06-27, from: Guild of American Luthiers
+
+Meet the Maker: Ted Megas by Jonathon Peterson Originally published in American Lutherie #101, 2010 Tell me about your life. Start from the beginning. I was born in Bethlehem, Pennsylvania. I lived there until I was five, when my father got transferred to Buffalo, New York. He was a metallurgist at Bethlehem Steel. When you were [&#8230;] 
+
+<br> 
+
+<https://luth.org/2010_0265800-peterson-meet-megas/>
 
 ---
 

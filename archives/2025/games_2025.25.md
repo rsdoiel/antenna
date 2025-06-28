@@ -1,11 +1,23 @@
 ---
 title: games
-updated: 2025-06-27 14:07:04
+updated: 2025-06-28 06:08:24
 ---
 
 # games
 
-(date: 2025-06-27 14:07:04)
+(date: 2025-06-28 06:08:24)
+
+---
+
+## How to raise Porter Grade stats in Death Stranding 2
+
+date: 2025-06-27, updated: 2025-06-27, from: Polygon Website
+
+Your Porter Grade might initially seem like a fluffy little throwaway system in Death Stranding 2: On the Beach, just a way to get new tags that show up when other players interact with your objects in the world. It&#8217;s much more than that, though. Increasing your Porter Grade unlocks new APAS enhancements once you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/609744/death-stranding-2-ds2-porter-grade-stats-increase>
 
 ---
 
@@ -798,4 +810,52 @@ There are five official Die Hard movies. Given star Bruce Willis’ retirement f
 <br> 
 
 <https://www.polygon.com/what-to-watch/608247/5-best-movies-like-die-hard-knockoffs>
+
+---
+
+## We need a new Ring Fit Adventure on Switch 2
+
+date: 2025-06-21, updated: 2025-06-21, from: Polygon Website
+
+It has been six years since Ring Fit Adventure, the Nintendo Switch fitness game that asked players to defeat monsters (and a sexy dragon) through exercise. The workout game used the Joy-Cons’ accelerometers to measure your movements and translate them into fitness attacks on screen. It’s weird, it’s wacky, but it worked. I played quite [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/607550/ring-fit-adventure-2>
+
+---
+
+## Wizard of Legend 2 is the co-op game of the year — even if it’s broken
+
+date: 2025-06-21, updated: 2025-06-20, from: Polygon Website
+
+Wizard of Legend 2 is about as good as roguelikes get. It’s a shame then that I’ve spent more time trying to play Wizard of Legend 2 than I’ve spent actually playing Wizard of Legend 2. The original Wizard of Legend, developed by Contingent99, quickly amassed a cult following, due to charmingly minimalist vibes and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/608315/wizard-legend-2-co-op>
+
+---
+
+## Why 28 Months Later didn’t happen
+
+date: 2025-06-21, updated: 2025-06-20, from: Polygon Website
+
+Nearly 22 years after Danny Boyle shook up the zombie genre with 28 Days Later, the director makes a return to the saga of the infested with this week’s 28 Years Later. As the title implies, it’s been a long time coming.&#160; After making future Oscar-winner Cillian Murphy a breakout star and earning over $70 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/608237/why-28-months-later-skipped-28-years-later>
+
+---
+
+## Pokémon Go Jangmo-o Community Day guide
+
+date: 2025-06-21, updated: 2025-06-20, from: Polygon Website
+
+Pokémon Go is having a Jangmo-o Community Day event on June 21 from 2-5 p.m. in your local time. As expected with a Community Day event, Jangmo-o will spawn in huge numbers with a high chance to appear shiny. There are also several other bonuses and perks, which we’ve list out below. How do I [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/607806/jangmo-o-community-day-shiny-kommo-o-moveset>
 

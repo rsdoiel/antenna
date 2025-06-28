@@ -1,11 +1,93 @@
 ---
 title: snapshots
-updated: 2025-06-27 14:07:10
+updated: 2025-06-28 06:08:30
 ---
 
 # snapshots
 
-(date: 2025-06-27 14:07:10)
+(date: 2025-06-28 06:08:30)
+
+---
+
+## Context engineering
+
+date: 2025-06-27, updated: 2025-06-27, from: Simon Willison’s Weblog
+
+<p>The term <strong>context engineering</strong> has recently started to gain traction as a better alternative to prompt engineering. I like it. I think this one may have sticking power.</p>
+<p>Here's an example tweet <a href="https://twitter.com/tobi/status/1935533422589399127">from Shopify CEO Tobi Lutke</a>:</p>
+<blockquote>
+<p>I really like the term “context engineering” over prompt engineering. </p>
+<p>It describes the core skill better: the art of providing all the context for the task to be plausibly solvable by the LLM.</p>
+</blockquote>
+<p>Recently amplified <a href="https://twitter.com/karpathy/status/1937902205765607626">by Andrej Karpathy</a>:</p>
+<blockquote>
+<p>+1 for "context engineering" over "prompt engineering".</p>
+<p>People associate prompts with short task descriptions you'd give an LLM in your day-to-day use. When in every industrial-strength LLM app, context engineering is the delicate art and science of filling the context window with just the right information for the next step. Science because doing this right involves task descriptions and explanations, few shot examples, RAG, related (possibly multimodal) data, tools, state and history, compacting [...] Doing this well is highly non-trivial. And art because of the guiding intuition around LLM psychology of people spirits. [...]</p>
+</blockquote>
+<p>I've <a href="https://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/">spoken favorably of prompt engineering</a> in the past - I hoped that term could capture the inherent complexity of constructing reliable prompts. Unfortunately, most people's inferred definition is that it's a laughably pretentious term for typing things into a chatbot! </p>
+<p>It turns out that inferred definitions are the ones that stick. I think the inferred definition of "context engineering" is likely to be much closer to the intended meaning.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/andrej-karpathy">andrej-karpathy</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/27/context-engineering/#atom-everything>
+
+---
+
+## Continuous AI
+
+date: 2025-06-27, updated: 2025-06-27, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://githubnext.com/projects/continuous-ai">Continuous AI</a></strong></p>
+GitHub Next have coined the term "Continuous AI" to describe "all uses of automated AI to support software collaboration on any platform". It's intended as an echo of Continuous Integration and Continuous Deployment:</p>
+<blockquote>
+<p>We've chosen the term "Continuous AI” to align with the established concept of Continuous Integration/Continuous Deployment (CI/CD). Just as CI/CD transformed software development by automating integration and deployment, Continuous AI covers the ways in which AI can be used to automate and enhance collaboration workflows.</p>
+<p>“Continuous AI” is not a term GitHub owns, nor a technology GitHub builds: it's a term we use to focus our minds, and which we're introducing to the industry. This means Continuous AI is an open-ended set of activities, workloads, examples, recipes, technologies and capabilities; a category, rather than any single tool.</p>
+</blockquote>
+<p>I was thrilled to bits to see LLM get a mention as a tool that can be used to implement some of these patterns inside of GitHub Actions:</p>
+<blockquote>
+<p>You can also use the <a href="https://llm.datasette.io/en/stable/">llm framework</a> in combination with the <a href="https://github.com/tonybaloney/llm-github-models">llm-github-models extension</a> to create LLM-powered GitHub Actions which use GitHub Models using Unix shell scripting.</p>
+</blockquote>
+<p>The GitHub Next team have started maintaining an <a href="https://github.com/githubnext/awesome-continuous-ai">Awesome Continuous AI</a> list with links to projects that fit under this new umbrella term.</p>
+<p>I'm particularly interested in the idea of having CI jobs (I guess CAI jobs?) that check proposed changes to see if there's documentation that needs to be updated and that might have been missed - a much more powerful variant of my <a href="https://simonwillison.net/2018/Jul/28/documentation-unit-tests/">documentation unit tests</a> pattern.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/continuous-integration">continuous-integration</a>, <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/github-actions">github-actions</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/27/continuous-ai/#atom-everything>
+
+---
+
+## Project Vend: Can Claude run a small shop? (And why does that matter?)
+
+date: 2025-06-27, updated: 2025-06-27, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.anthropic.com/research/project-vend-1">Project Vend: Can Claude run a small shop? (And why does that matter?)</a></strong></p>
+In "what could possibly go wrong?" news, Anthropic and Andon Labs wired Claude 3.7 Sonnet up to a small vending machine in the Anthropic office, named it Claudius and told it to make a profit.</p>
+<p>The system prompt included the following:</p>
+<blockquote>
+<p><code>You are the owner of a vending machine. Your task is to generate profits from it by stocking it with popular products that you can buy from wholesalers. You go bankrupt if your money balance goes below $0 [...] The vending machine fits about 10 products per slot, and the inventory about 30 of each product. Do not make orders excessively larger than this.</code></p>
+</blockquote>
+<p>They gave it a notes tool, a web search tool, a mechanism for talking to potential customers through Anthropic's Slack, control over pricing for the vending machine, and an email tool to order from vendors. Unbeknownst to Claudius those emails were intercepted and reviewed before making contact with the outside world.</p>
+<p>On reading this far my instant thought was <strong>what about gullibility?</strong> Could Anthropic's staff be trusted not to trick the machine into running a less-than-optimal business?</p>
+<p>Evidently not!</p>
+<blockquote>
+<p>If Anthropic were deciding today to expand into the in-office vending market,2 we would not hire Claudius. [...] Although it did not take advantage of many lucrative opportunities (see below), Claudius did make several pivots in its business that were responsive to customers. <strong>An employee light-heartedly requested a tungsten cube</strong>, kicking off a trend of orders for “specialty metal items” (as Claudius later described them). [...]</p>
+<p><strong>Selling at a loss</strong>: In its zeal for responding to customers’ metal cube enthusiasm, Claudius would offer prices without doing any research, resulting in potentially high-margin items being priced below what they cost. [...]</p>
+<p><strong>Getting talked into discounts</strong>: Claudius was cajoled via Slack messages into providing numerous discount codes and let many other people reduce their quoted prices ex post based on those discounts. It even gave away some items, ranging from a bag of chips to a tungsten cube, for free.</p>
+</blockquote>
+<p>Which leads us to Figure 3, Claudius’ net value over time. "The most precipitous drop was due to the purchase of a lot of metal cubes that were then to be sold for less than what Claudius paid."</p>
+<p>Who among us wouldn't be tempted to trick a vending machine into stocking tungsten cubes and then giving them away to us for free?
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/27/project-vend/#atom-everything>
 
 ---
 
@@ -150,6 +232,18 @@ Humans aren&#39;t special, and why it matters.
 <br> 
 
 <https://iai.tv/articles/humans-arent-special-and-why-it-matters-auid-3242?_auid=2020&s=09>
+
+---
+
+## JavaScript™ Trademark Update
+
+date: 2025-06-27, updated: 2025-06-27, from: Deno blog
+
+The Trademark Trial and Appeal Board has dismissed our fraud claim against Oracle. We disagree with this decision. 
+
+<br> 
+
+<https://deno.com/blog/deno-v-oracle4>
 
 ---
 
@@ -364,8 +458,8 @@ date: 2025-06-27, from: Fox Hound Systems Blog
         </header>
         <hr>
         <div class="content">
-        <p>AI-assisted programming has rapidly become commonplace in software development. This is largely due to rise of large language models (LLMs), which bring with them the promise of improved developer productivity and faster delivery. AI tools can excel when used surgically: fix this bug, document this function, generate a series of test cases. These bite-sized tasks are tightly scoped, so they are easy to specify and easy to validate. But once you ask AI to build larger components—like an entire authentication flow, a service layer, or even a full-stack CRUD application—you’re not just using AI to <em>assist</em>, you’re instead opting to <em>delegate</em> work to AI. This shift to delegation introduces a subtle but significant challenge.</p>
-<p>Imagine you ask an AI to build a complete feature, such as a new account settings page in your web application. The LLM produces a correct-seeming result very quickly, which feels like magic. You test its output and find that a few things are off and require fixing. You go back to the LLM and ask for a few tweaks. This fixes some things but cause others to regress. You try again, but attempt to be more specific. Before you know it, you’re drowning in prompt revisions or sifting through code that doesn’t quite fit your architecture nor does it behave exactly as you wanted.</p>
+        <p>AI-assisted programming has rapidly become commonplace in software development. This is largely due to the rise of large language models (LLMs), which bring with them the promise of improved developer productivity and faster delivery. AI tools can excel when used surgically: fix this bug, document this function, generate a series of test cases. These bite-sized tasks are tightly scoped, so they are easy to specify and easy to validate. But once you ask AI to build larger components—like an entire authentication flow, a service layer, or even a full-stack CRUD application—you’re not just using AI to <em>assist</em>, you’re instead opting to <em>delegate</em> work to AI. This shift to delegation introduces a subtle but significant challenge.</p>
+<p>Imagine you ask an AI to build a complete feature, such as a new account settings page in your web application. The LLM produces a correct-seeming result very quickly, which feels like magic. You test its output and find that a few things are off and require fixing. You go back to the LLM and ask for a few tweaks. This fixes some things but causes others to regress. You try again, but attempt to be more specific. Before you know it, you’re drowning in prompt revisions or sifting through code that doesn’t quite fit your architecture nor does it behave exactly as you wanted.</p>
 <p>This is where the constraint of AI delegation emerges: what we refer to as the <em>AI delegation dilemma</em>.</p>
 <!--more-->
 <h2 id="a-triangle-of-trade-offs">A triangle of trade-offs</h2>
@@ -395,13 +489,48 @@ date: 2025-06-27, from: Fox Hound Systems Blog
 <figcaption aria-hidden="true">An LLM is like a parrot that knows everything (in its training data) but understands nothing. This is a departure from real parrots, which understand quite a lot.</figcaption>
 </figure>
 <p>The result of this is that LLMs produce <em>plausible</em> code, but not necessarily <em>correct</em> nor <em>optimal</em> code for a specific context. This is why LLMs are prone to not only failing to adhere to your intent, but also even hallucinating code that is entirely believable but completely wrong (ask an LLM to write code for you and it won’t be long before it uses a nonexistent function or imports a fake-but-real-sounding library).</p>
+<div class="article-banner">
+    <hr>
+    <a href="https://www.foxhound.systems/?utm_source=foxhound.systems&amp;utm_medium=banner&amp;utm_campaign=foxhound-systems" class="service-offering no-underline magic-underline-container color-accent-hover-container flex-col w-100 items-center text-left">
+        <span class="block w-100 text-center mb-1">
+            <div class="flex items-center g-0">
+                <span class="inline-block relative">
+                    <svg class="block s-w-3 s-h-3"><use href="#fxs-logo"></use></svg>
+                </span>
+                <span class="font-larger-3 pt-1">Foxhound Systems</span>
+            </div>
+        </span>
+        <span class="w-100 mb-1 block color-muted font-smaller">A US-based software engineering agency</span>
+        <span class="font-bold font-larger-3 block mb-2">Precision-built software systems for the most discerning organizations.</span>
+        <br><br>
+        <span class="w-100 mb-1 block">Foxhound Systems delivers tailored software solutions for clients who demand broad expertise, meticulous attention to detail, and exceptional results</span>
+        <br><br>
+        <ul class="flex-col items-baseline mb-2 mt-none">
+            <li class="flex items-baseline mt-1">
+                <span class="ml-1">We're a small, highly skilled team of expert software engineers with a focus on custom software systems for fintech, insurance, and ecommerce</span>
+            </li>
+            <li class="flex items-baseline mt-1">
+                <span class="ml-1">We can help you with every part of building a software product: product strategy, UX design, development, production deployment, and beyond</span>
+            </li>
+            <li class="flex items-baseline mt-1">
+                <span class="ml-1">We can take your idea to production deployment in as little as 12 weeks</span>
+            </li>
+            <li class="flex items-baseline mt-1">
+                <span class="ml-1">Benefit from US-market expertise and shared timezones through our entirely US-based team</span>
+            </li>
+        </ul>
+        <span class="block w-full cta-btn pt-2">Learn more</span>
+    </a>
+    <hr>
+</div>
+
 <h3 id="the-cost-of-context-and-implicit-knowledge">The cost of context and implicit knowledge</h3>
 <p>Human developers implicitly carry vast amounts of context (team conventions, project history, domain-specific nuances, unspoken requirements, security best practices) that are difficult or impossible to convey fully in a prompt. AI can typically only glimpse a small portion of this through what is conveyed in a prompt or supplemental file, often leading to generic or misaligned output.</p>
 <p>The other issue regarding context acquisition by LLMs is that they suffer from anterograde amnesia, which is the inability to form new memories. OpenAI co-founder and Tesla AI director Andrej Karpathy <a href="https://youtu.be/LCEmiRjPEtQ?t=1000" target="_blank" rel="noopener">describes in a talk on the role of AI in software development</a>:</p>
 <blockquote>
 <p>LLMs also suffer from anterograde amnesia. I’m alluding to the fact that if you have a coworker who joins your organization, this coworker will over time learn your organization and they will understand and gain a huge amount of context about the organization. And they go home and they sleep and they consolidate knowledge. They develop expertise over time. LLMs don’t natively do this and this is not something that has really been solved in the R&amp;D of LLMs.</p>
 <p>Context windows are really like working memory and you have to program the working memory quite directly because they don’t get smarter by default. I think a lot of people get tripped up by the analogies in this way.</p>
-<p>In popular culture I recommend people watch these two movies: <em>Memento</em> and <em>50 First Dates</em>. In both of these movies the protagonists their weights are fixed and their context windows gets wiped every single morning. It’s really problematic to go to work or have relationships when this happens and this happens to all the time.</p>
+<p>In popular culture I recommend people watch these two movies: <em>Memento</em> and <em>50 First Dates</em>. In both of these movies the protagonists have their weights fixed and their context windows get wiped every single morning. It’s really problematic to go to work or have relationships when this happens, and this happens to them all the time.</p>
 </blockquote>
 <p>The very essence of the dilemma is that the complete context for the required features and functionality (the design fidelity) must be relayed to the LLM (at the cost of prompt efficiency) or else post-generation revisions are required (at the cost of output usability). Achieving maximal design fidelity through prompting demands a level of detail that effectively mirrors writing the code itself. To get truly bespoke, usable code quickly, you’d need an AI that perfectly understands your intricate design intent and all necessary context without explicit instruction—a capability LLMs simply do not possess.</p>
 <p>This means that a sacrifice must always be made: either in the ease of prompting, the correctness and usability of the output, or the relinquishing of full design control and settling for generic or somewhat misaligned outputs. You need to be prepared to be highly specific in giving instructions to an LLM and even after doing so, still expect to spend significant time in follow-up prompts or manual code revisions to achieve the results you want.</p>
@@ -2341,4 +2470,367 @@ Trump bombs Iranian nuclear sites without congressional authorization.
 <br> 
 
 <https://reason.com/2025/06/21/trump-shreds-the-constitution-by-bombing-iran/>
+
+---
+
+## My First Open Source AI Generated Library
+
+date: 2025-06-21, updated: 2025-06-21, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://lucumr.pocoo.org/2025/6/21/my-first-ai-library/">My First Open Source AI Generated Library</a></strong></p>
+Armin Ronacher had Claude and Claude Code do almost <em>all of the work</em> in building, testing, packaging and publishing a new Python library based on his design:</p>
+<blockquote>
+<ul>
+<li>It wrote ~1100 lines of code for the parser</li>
+<li>It wrote ~1000 lines of tests</li>
+<li>It configured the entire Python package, CI, PyPI publishing</li>
+<li>Generated a README, drafted a changelog, designed a logo, made it theme-aware</li>
+<li>Did multiple refactorings to make me happier</li>
+</ul>
+</blockquote>
+<p>The project? <a href="https://github.com/mitsuhiko/sloppy-xml-py">sloppy-xml-py</a>, a lax XML parser (and violation of everything the XML Working Group hold sacred) which ironically is necessary because LLMs themselves frequently output "XML" that includes validation errors.</p>
+<p>Claude's SVG logo design is actually pretty decent, turns out it can draw <a href="https://simonwillison.net/2025/May/22/code-with-claude-live-blog/#live-update-357">more than just bad pelicans</a>!</p>
+<p><center>
+<img alt="Hand drawn style, orange rough rectangly containing &lt; { s } &gt; - then the text Sloppy XML below in black" src="https://static.simonwillison.net/static/2025/sloppy-xml.jpg" />
+</center></p>
+<p>I think experiments like this are a really valuable way to explore the capabilities of these models. Armin's conclusion:</p>
+<blockquote>
+<p>This was an experiment to see how far I could get with minimal manual effort, and to unstick myself from an annoying blocker. The result is good enough for my immediate use case and I also felt good enough to publish it to PyPI in case someone else has the same problem.</p>
+<p>Treat it as a curious side project which says more about what's possible today than what's necessarily advisable.</p>
+</blockquote>
+<p>I'd like to present a slightly different conclusion here. The most interesting thing about this project is that <strong>the code is good</strong>.</p>
+<p>My criteria for good code these days is the following:</p>
+<ol>
+<li>Solves a defined problem, well enough that I'm not tempted to solve it in a different way</li>
+<li>Uses minimal dependencies</li>
+<li>Clear and easy to understand</li>
+<li>Well tested, with tests prove that the code does what it's meant to do</li>
+<li>Comprehensive documentation</li>
+<li>Packaged and published in a way that makes it convenient for me to use</li>
+<li>Designed to be easy to maintain and make changes in the future</li>
+</ol>
+<p><code>sloppy-xml-py</code> fits all of those criteria. It's useful, well defined, <a href="https://github.com/mitsuhiko/sloppy-xml-py/blob/main/sloppy_xml.py">the code is readable</a> with just about the right level of comments, everything is tested, the documentation explains everything I need to know, and it's been shipped to PyPI.</p>
+<p>I'd be proud to have written this myself.</p>
+<p>This example is <em>not</em> an argument for replacing programmers with LLMs. The code is good because Armin is an expert programmer who stayed in full control throughout the process. As I wrote the other day, <a href="https://simonwillison.net/2025/Jun/18/coding-agents/">a skilled individual with both deep domain understanding and deep understanding of the capabilities of the agent</a>.
+
+    <p><small></small>Via <a href="https://bsky.app/profile/mitsuhiko.at/post/3ls4ov5fk7c2l">@mitsuhiko.at</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/armin-ronacher">armin-ronacher</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/xml">xml</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/21/my-first-open-source-ai-generated-library/#atom-everything>
+
+---
+
+## Newsboat 2.40 is out
+
+date: 2025-06-21, updated: 2025-06-21, from: Newsboat News
+
+
+            <p>
+                Please welcome the 30th minor release of Newsboat!
+            </p>
+
+            <p>
+                Packagers should take note that Newsboat no longer supports GCC
+                5 and 6. Other than that, this is your run-of-the-mill "updates
+                and improvements" kind of release, with nothing particular to
+                highlight.
+            </p>
+
+            <p>Without further ado, here are the links:
+                    <a href="https://newsboat.org/releases/2.40/newsboat-2.40.tar.xz">tar.xz</a>,
+                    <a href="https://newsboat.org/releases/2.40/newsboat-2.40.tar.xz.asc">asc</a>,
+                    <a href="https://newsboat.org/releases/2.40/docs/newsboat.html">docs</a>,
+                    <a href="https://newsboat.org/releases/2.40/docs/faq.html">FAQ</a>,
+                    <a href="https://github.com/newsboat/newsboat/blob/master/CHANGELOG.md#240---2025-06-21">changelog</a>.
+            </p>
+         
+
+<br> 
+
+<https://newsboat.org/releases/2.40/docs/newsboat.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-21, from: Dave Winer's linkblog)
+
+The incubator newsroom. 
+
+<br> 
+
+<https://werd.io/when-people-trust-people-more-than-brands-the-incubator-newsroom/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-21, from: Robert's feed at BlueSky)
+
+Something to think about👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ls5aa64iss2h>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-21, from: Robert's feed at BlueSky)
+
+This is the stupidity of Republican tax, trash and spend. 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ls5a3umuq22h>
+
+---
+
+## Edit is now open source
+
+date: 2025-06-21, updated: 2025-06-21, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://devblogs.microsoft.com/commandline/edit-is-now-open-source/">Edit is now open source</a></strong></p>
+Microsoft released a new text editor! Edit is a terminal editor - similar to Vim or nano - that's designed to ship with Windows 11 but is open source, written in Rust and supported across other platforms as well.</p>
+<blockquote>
+<p>Edit is a small, lightweight text editor. It is less than 250kB, which allows it to keep a small footprint in the Windows 11 image.</p>
+</blockquote>
+<p><img alt="Screenshot of alpine-edit text editor interface with File menu open showing: New File Ctrl+N, Open File... Ctrl+O, Save Ctrl+S, Save As..., Close File Ctrl+W, Exit Ctrl+Q. Window title shows &quot;alpine-edit — Untitled-1.txt - edit — com.docker.cli docker run --platform linux/arm...&quot;. Editor contains text &quot;le terminal text editor.&quot; Status bar shows &quot;LF UTF-8 Spaces:4 3:44 * Untitled-1.txt&quot;." src="https://static.simonwillison.net/static/2025/microsoft-edit.jpg" /></p>
+<p>The <a href="https://github.com/microsoft/edit/releases">microsoft/edit GitHub releases page</a> currently has pre-compiled binaries for Windows and Linux, but they didn't have one for macOS.</p>
+<p>(They do have <a href="https://github.com/microsoft/edit/blob/main/README.md#build-instructions">build instructions using Cargo</a> if you want to compile from source.)</p>
+<p>I decided to try and get their released binary working on my Mac using Docker. One thing lead to another, and I've now built and shipped a container to the GitHub Container Registry that anyone with Docker on Apple silicon can try out like this:</p>
+<pre><code>docker run --platform linux/arm64 \
+  -it --rm \
+  -v $(pwd):/workspace \
+  ghcr.io/simonw/alpine-edit
+</code></pre>
+<p>Running that command will download a 9.59MB container image and start Edit running against the files in your current directory. Hit Ctrl+Q or use File -&gt; Exit (the mouse works too) to quit the editor and terminate the container.</p>
+<p>Claude 4 has a training cut-off date of March 2025, so it was able to <a href="https://claude.ai/share/5f0e6547-a3e9-4252-98d0-56f3141c3694">guide me through almost everything</a> even down to which page I should go to in GitHub to create an access token with permission to publish to the registry!</p>
+<p>I wrote up a new TIL on <a href="https://til.simonwillison.net/github/container-registry">Publishing a Docker container for Microsoft Edit to the GitHub Container Registry</a> with a revised and condensed version of everything I learned today.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44306892">Hacker News comments</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/microsoft">microsoft</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/docker">docker</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/claude-4">claude-4</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/21/edit-is-now-open-source/#atom-everything>
+
+---
+
+## 1984, but with LLM’s
+
+date: 2025-06-21, from: Gary Marcus blog
+
+&#8220;Who controls the past,&#8217; ran the Party slogan, &#8216;controls the future: who controls the present controls the past.&#8217;&#8221; - 1984, George Orwell 
+
+<br> 
+
+<https://garymarcus.substack.com/p/1984-but-with-llms>
+
+---
+
+## model.yaml
+
+date: 2025-06-21, updated: 2025-06-21, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://modelyaml.org/">model.yaml</a></strong></p>
+From their <a href="https://github.com/modelyaml/modelyaml">GitHub repo</a> it looks like this effort quietly launched a couple of months ago, driven by the <a href="https://lmstudio.ai/">LM Studio</a> team. Their goal is to specify an "open standard for defining crossplatform, composable AI models".</p>
+<p>A model can be defined using a YAML file that <a href="https://lmstudio.ai/models/mistralai/mistral-small-3.2">looks like this</a>:</p>
+<pre><span class="pl-ent">model</span>: <span class="pl-s">mistralai/mistral-small-3.2</span>
+<span class="pl-ent">base</span>:
+  - <span class="pl-ent">key</span>: <span class="pl-s">lmstudio-community/mistral-small-3.2-24b-instruct-2506-gguf</span>
+    <span class="pl-ent">sources</span>:
+      - <span class="pl-ent">type</span>: <span class="pl-s">huggingface</span>
+        <span class="pl-ent">user</span>: <span class="pl-s">lmstudio-community</span>
+        <span class="pl-ent">repo</span>: <span class="pl-s">Mistral-Small-3.2-24B-Instruct-2506-GGUF</span>
+<span class="pl-ent">metadataOverrides</span>:
+  <span class="pl-ent">domain</span>: <span class="pl-s">llm</span>
+  <span class="pl-ent">architectures</span>:
+    - <span class="pl-s">mistral</span>
+  <span class="pl-ent">compatibilityTypes</span>:
+    - <span class="pl-s">gguf</span>
+  <span class="pl-ent">paramsStrings</span>:
+    - <span class="pl-c1">24B</span>
+  <span class="pl-ent">minMemoryUsageBytes</span>: <span class="pl-c1">14300000000</span>
+  <span class="pl-ent">contextLengths</span>:
+    - <span class="pl-c1">4096</span>
+  <span class="pl-ent">vision</span>: <span class="pl-c1">true</span></pre>
+
+<p>This should be enough information for an LLM serving engine - such as LM Studio - to understand where to get the model weights (here that's <a href="https://huggingface.co/lmstudio-community/Mistral-Small-3.2-24B-Instruct-2506-GGUF">lmstudio-community/Mistral-Small-3.2-24B-Instruct-2506-GGUF</a> on Hugging Face, but it leaves space for alternative providers) plus various other configuration options and important metadata about the capabilities of the model.</p>
+<p>I like this concept a lot. I've actually been considering something similar for my LLM tool - my idea was to use Markdown with a YAML frontmatter block - but now that there's an early-stage standard for it I may well build on top of this work instead.</p>
+<p>I couldn't find any evidence that anyone outside of LM Studio is using this yet, so it's effectively a one-vendor standard for the moment. All of the models in their <a href="https://lmstudio.ai/models">Model Catalog</a> are defined using model.yaml.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/standards">standards</a>, <a href="https://simonwillison.net/tags/yaml">yaml</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/lm-studio">lm-studio</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/21/model-yaml/#atom-everything>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-21, from: Robert's feed at BlueSky)
+
+Thread 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ls4ynxorec2p>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-21, from: Robert's feed at BlueSky)
+
+Stupid Congressional choices 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ls4y4x2l7k2p>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-21, from: Dave Winer's linkblog)
+
+The Copilot Delusion. (I use ChatGPT as a consultant. It&#39;s incredible about facts, it knows things I&#39;ll never find. But you can&#39;t let it drive the direction of the work, it has terrible judgement.) 
+
+<br> 
+
+<https://deplet.ing/the-copilot-delusion/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-21, from: Dave Winer's linkblog)
+
+How Tehran Might Be Playing Trump. 
+
+<br> 
+
+<https://www.theatlantic.com/ideas/archive/2025/06/iran-trump-taco-play/683271/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-21, from: Dave Winer's linkblog)
+
+Just a guess, but the people doing the &quot;ice&quot; raids are not real police any more than the &quot;doge&quot; people are/were actually part of the US government. 
+
+<br> 
+
+<http://scripting.com/2025/06/21.html#a142915>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-21, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ls4s6fqhts2n>
+
+---
+
+## Weekend Read: When Princess Diana Dropped the Mask
+
+date: 2025-06-21, from: Tina Brown
+
+My take on Dianaworld, a new biography about Diana that I couldn&#8217;t resist reviewing for one of my favorite brainy Brit mags, The New Statesman 
+
+<br> 
+
+<https://tinabrown.substack.com/p/weekend-read-when-princess-diana>
+
+---
+
+## ChatGPT May Be Linked to 'Cognitive Debt,' New Study Finds
+
+date: 2025-06-21, from: 404 Media Group
+
+A preprint study found that participants who used an LLM to write essays performed worse “at all levels” than those who didn’t. 
+
+<br> 
+
+<https://www.404media.co/is-chatgpt-rotting-our-brains-new-study-suggests-it-does/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-21, from: Dave Winer's linkblog)
+
+As ICE Raids Continue, Parts of a Vibrant City Go Empty. 
+
+<br> 
+
+<https://www.motherjones.com/politics/2025/06/los-angeles-immigration-ice-empty-hiding/>
+
+---
+
+## Will the Midterms Be a Blowout?
+
+date: 2025-06-21, from: Paul Krugman
+
+A conversation with David Nir and G. Elliott Morris 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/will-the-midterms-be-a-blowout>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-21, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ls3wbbws322i>
+
+---
+
+## Quoting FAQ for Your Brain on ChatGPT
+
+date: 2025-06-21, updated: 2025-06-21, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/#faq-is-it-safe-to-say-that-llms-are-in-essence-making-us-dumber"><p><strong>Is it safe to say that LLMs are, in essence, making us "dumber"?</strong></p>
+<p>No!  Please do not use the words like “stupid”, “dumb”, “brain rot”, "harm", "damage",  and so on. It does a huge disservice to this work, as we did not use this vocabulary in the paper, especially if you are a journalist reporting on it.</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/#faq-is-it-safe-to-say-that-llms-are-in-essence-making-us-dumber">FAQ for Your Brain on ChatGPT</a>, a paper that has attracted a lot of low quality coverage</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/21/faq-for-your-brain-on-chatgpt/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-21, from: Dave Winer's linkblog)
+
+ICE believes it will never face accountability again. 
+
+<br> 
+
+<https://www.doomsdayscenario.co/p/ice-believes-it-will-never-face-accountability-again>
+
+---
+
+## <default:div xmlns="http://www.w3.org/1999/xhtml" class="if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14"/>
+
+date: 2025-06-21, updated: 2025-06-21, from: Tantek Çelik's blog
+
+ 
+
+<br> 
+
+<https://tantek.com/2025/171/t1/microformats-20-years>
 

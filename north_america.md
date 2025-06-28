@@ -1,11 +1,23 @@
 ---
 title: north america
-updated: 2025-06-27 14:07:00
+updated: 2025-06-28 06:08:18
 ---
 
 # north america
 
-(date: 2025-06-27 14:07:00)
+(date: 2025-06-28 06:08:18)
+
+---
+
+## Evening Roundup, June 27
+
+date: 2025-06-27, from: The Contrarian
+
+Featuring April Ryan, Leah Litman, Christine German, Michael de Adder, the Democracy Movement, Jamie Schler, Sheldon Whitehouse, David Litt, Congressman Adam Smith, and Ruben Bolling. 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-27>
 
 ---
 
@@ -28,8 +40,8 @@ date: 2025-06-27, from: The Contrarian
 "Trump wants people who are loyal to Trump. And that's not the same thing as being good at your job." 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166993361/069cfde8c596ada6e96c6feeacbfda30.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/166993361/069cfde8c596ada6e96c6feeacbfda30.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166993361/4b86766e7e1d39dc125cee0e3955ff90.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166993361/4b86766e7e1d39dc125cee0e3955ff90.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/how-much-debt-are-we-willing-to-take>
 
@@ -178,8 +190,8 @@ date: 2025-06-27, from: The Contrarian
 "We've all have taken oaths of office, not to an individual, but to a Constitution" 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166917425/a4e5166598e23505f43779d6c7a312cf.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/166917425/a4e5166598e23505f43779d6c7a312cf.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166917425/c0e021772f560b5e2d6af55f8f46b6e1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166917425/c0e021772f560b5e2d6af55f8f46b6e1.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/april-ryan-and-rep-meeks-on-the-executives>
 
@@ -228,8 +240,8 @@ date: 2025-06-26, from: The Contrarian
 A recording from The Tea! With April Ryan 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166818760/7dab52642685e5fa38e5f727efdf590b.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/166818760/7dab52642685e5fa38e5f727efdf590b.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166818760/e187254f46ef4d38833a684d20ece6b3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166818760/e187254f46ef4d38833a684d20ece6b3.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/the-tea-w-april-ryan-ft-senator-alex>
 
@@ -242,8 +254,8 @@ date: 2025-06-26, from: The Contrarian
 "We've been busy filing lawsuits because the President and his administration have been busy breaking the law." 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166914249/9477fcb620f3046cb127e78828c325da.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/166914249/9477fcb620f3046cb127e78828c325da.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166914249/943669aaefe0fc2daeabd2ddf25a6e6f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166914249/943669aaefe0fc2daeabd2ddf25a6e6f.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/nj-ag-platkin-on-fighting-trump-in>
 
@@ -1010,4 +1022,16 @@ A recording from Jennifer Rubin's live video with Steven A. Cook and Ilan Golden
 </audio> <a href="https://api.substack.com/feed/podcast/166496524/f0ea3e37e46af0283b2c5efeb785e9ff.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/breaking-news-us-enters-war>
+
+---
+
+##  YOU LOVE TO SEE IT: PAC It Up! 
+
+date: 2025-06-21, from: The Lever News
+
+ Billionaire money gets backlash, millions march against a monarch, concert tickets meet market forces, and consumer safety advocates score a win.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-pac-it-up/>
 

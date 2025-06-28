@@ -1,11 +1,59 @@
 ---
 title: going electric
-updated: 2025-06-27 14:07:08
+updated: 2025-06-28 06:08:28
 ---
 
 # going electric
 
-(date: 2025-06-27 14:07:08)
+(date: 2025-06-28 06:08:28)
+
+---
+
+## Elon Musk claims Tesla delivered its first car fully autonomously from factory to customer
+
+date: 2025-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Self-driving-Fremont-factory.png?w=1600" /></div><p>Elon Musk claims Tesla has delivered its first car fully autonomously from the factory to a customer’s home “across town.”</p>
+
+
+
+<p>If true, I’d argue that this is actually a bigger deal than its “Robotaxi” with supervisors, but there are still questions about the value of such a system.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="422677" href="https://electrek.co/2025/06/27/elon-musk-claims-tesla-delivered-first-car-fully-autonomously-factory-customer/#more-422677" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/27/elon-musk-claims-tesla-delivered-first-car-fully-autonomously-factory-customer/>
+
+---
+
+## The GMC Sierra EV pickup just got way more affordable
+
+date: 2025-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/GMC-Sierra-EV-affordable.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/gmc-sierra-ev/">2026 GMC Sierra EV</a> is already over $27,500 cheaper than the outgoing model. With new deals dropping this month, the electric pickup is even more affordable.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="gmc-sierra-ev" data-layer-viewtype="unknown" data-post-id="422642" href="https://electrek.co/2025/06/27/gmc-sierra-ev-pickup-way-more-affordable/#more-422642" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/27/gmc-sierra-ev-pickup-way-more-affordable/>
+
+---
+
+## The Kia EV9 And EV6 Are Seeing These Huge Discounts
+
+date: 2025-06-27, from: Inside EVs News
+
+The EV6 can start at just $33,875 with all incentives, and the EV9 is more competitive than ever. Both get NACS ports and EV tax credits. 
+
+<br> 
+
+<https://insideevs.com/news/764136/kia-ev6-ev9-2025-discounts-nacs/>
 
 ---
 
@@ -1755,4 +1803,108 @@ Social media users caught a glimpse of several Tesla Model Ys driving around Sou
 <br> 
 
 <https://insideevs.com/news/763472/tesla-robotaxi-sightings-austin-launch/>
+
+---
+
+## Current Classics: Rolls-Royce Phantom V gets even smoother and quieter
+
+date: 2025-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/lunaz-rolls-royce-phantom-v-5-copy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The electric restomod experts at <a href="https://electrek.co/?s=lunaz">Lunaz</a> have turned their talents towards the classic Rolls-Royce Phantom V limousine – and the result is exactly the kind of smooth, quiet, and luxurious ride RR’s founders would have built.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lunaz-design,restomods,rolls-royce" data-layer-viewtype="unknown" data-post-id="421472" href="https://electrek.co/2025/06/21/current-classics-rolls-royce-phantom-v-gets-even-smoother-and-quieter/#more-421472" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/21/current-classics-rolls-royce-phantom-v-gets-even-smoother-and-quieter/>
+
+---
+
+## Trump Says He's Making Cars Cheaper. Nope
+
+date: 2025-06-21, from: Inside EVs News
+
+Tariffs, ending tax credits, driving up gas prices—it's hard to see where Trump's policies make cars actually cheaper. 
+
+<br> 
+
+<https://insideevs.com/news/763463/trump-tariffs-ev-costs-cheaper/>
+
+---
+
+## Fortescue Infinity Train electric locomotive never needs fuel or charging
+
+date: 2025-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/FORTESCUE_RAIL.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Fortescue has taken the wraps off a prototype of its proposed “Infinity Train” electric locomotive, making the 1,100 km (about 685 miles) trip from Perth to the Pilbara and marking a major milestone in the decarbonization of the company’s heavy haul operations.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-train,fortescue,heavy-equipment,mining" data-layer-viewtype="unknown" data-post-id="421446" href="https://electrek.co/2025/06/21/fortescue-infinity-train-electric-locomotive-never-needs-fuel-or-charging/#more-421446" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/21/fortescue-infinity-train-electric-locomotive-never-needs-fuel-or-charging/>
+
+---
+
+## Canadian study finds that 33% of commercial trucks are ready to electrify – today
+
+date: 2025-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/paccar_kenworth-t680e.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new study by the Pembina Institute shows that a third of the commercial trucks and vans on Toronto’s roads are ready to electrify today – while nearly half could be electrified by 2030.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="canada,commercial-evs,electric-trucks" data-layer-viewtype="unknown" data-post-id="421403" href="https://electrek.co/2025/06/21/canadian-study-finds-that-33-of-commercial-trucks-are-ready-to-electrify-today/#more-421403" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/21/canadian-study-finds-that-33-of-commercial-trucks-are-ready-to-electrify-today/>
+
+---
+
+## Tesla’s former head of AI warns against believing that self-driving is solved
+
+date: 2025-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/03/Andrej-Karpathy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s former head of artificial intelligence, Andrej Karpathy, who worked on the automaker’s self-driving effort until 2022, warns against believing that self-driving is solved, and fully autonomous vehicles are happening soon.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="421072" href="https://electrek.co/2025/06/21/tesla-former-head-ai-warns-against-believing-self-driving-solved/#more-421072" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/21/tesla-former-head-ai-warns-against-believing-self-driving-solved/>
+
+---
+
+## Porsche Macan EV Highway Range Test: Here's The Difference 10 MPH Makes
+
+date: 2025-06-21, from: Inside EVs News
+
+Usually, driving an EV slower on long trips is the way to go. With Porsche’s electric crossover, though, it’s not that simple. 
+
+<br> 
+
+<https://insideevs.com/news/763362/porsche-macan-ev-70-80-mph-range-test/>
+
+---
+
+## The ticket bot cometh: city is recording drivers that AI says are bad
+
+date: 2025-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/ai_tickets.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>In a high-tech move that we can all get behind and isn’t dystopian <em>at all</em>, the City of Barcelona is feeding camera data from its city buses into an advanced AI, but they swear they’re not using the footage to to issue tickets to bad drivers. Yet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ai,electric-buses,spain" data-layer-viewtype="unknown" data-post-id="421368" href="https://electrek.co/2025/06/20/the-ticket-bot-cometh-city-is-recording-drivers-that-ai-says-are-bad/#more-421368" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/20/the-ticket-bot-cometh-city-is-recording-drivers-that-ai-says-are-bad/>
 

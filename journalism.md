@@ -1,11 +1,11 @@
 ---
 title: journalism
-updated: 2025-06-27 14:07:05
+updated: 2025-06-28 06:08:24
 ---
 
 # journalism
 
-(date: 2025-06-27 14:07:05)
+(date: 2025-06-28 06:08:24)
 
 ---
 
@@ -233,4 +233,16 @@ A May 19 forum put on by the UCLA Institute of Transportation Studies examined h
 <br> 
 
 <https://dailybruin.com/2025/06/22/ucla-forum-explores-how-2028-olympics-can-improve-la-accessibility-transportation/>
+
+---
+
+## Peaceful protestors rally in Los Angeles on “No Kings Day”
+
+date: 2025-06-21, from: The Sundail (CSUN Student Newspaper)
+
+Tens of thousands of people flooded the streets of LA on Saturday, June 14, joining the “No Kings Day” protest that was held nationwide; the same day as Flag Day,... 
+
+<br> 
+
+<https://sundial.csun.edu/194534/news/peaceful-protestors-rally-in-los-angeles-on-no-kings-day/>
 

@@ -1,11 +1,39 @@
 ---
 title: food
-updated: 2025-06-27 14:07:08
+updated: 2025-06-28 06:08:28
 ---
 
 # food
 
-(date: 2025-06-27 14:07:08)
+(date: 2025-06-28 06:08:28)
+
+---
+
+## I Just Learned How to Make Cold Foam at Home, and My Life Will Never Be the Same
+
+date: 2025-06-27, from: Taste of Home
+
+<p>As a former barista, I couldn't wait to see if the De'Longhi Rivelia Espresso Machine lived up to the hype.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/delonghi-rivelia-review/">I Just Learned How to Make Cold Foam at Home, and My Life Will Never Be the Same</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/delonghi-rivelia-review/>
+
+---
+
+## Who Has the Best Stuffed Crust Pizza: Papa Johns vs. Pizza Hut vs. Domino’s
+
+date: 2025-06-27, from: Taste of Home
+
+<p>We taste-tested three of the most popular 'zas to find out who makes the best stuffed crust pizza.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-stuffed-crust-pizza/">Who Has the Best Stuffed Crust Pizza: Papa Johns vs. Pizza Hut vs. Domino&#8217;s</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-stuffed-crust-pizza/>
 
 ---
 

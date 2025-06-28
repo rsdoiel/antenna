@@ -1,11 +1,50 @@
 ---
 title: columns
-updated: 2025-06-27 14:07:03
+updated: 2025-06-28 06:08:22
 ---
 
 # columns
 
-(date: 2025-06-27 14:07:03)
+(date: 2025-06-28 06:08:22)
+
+---
+
+## RFK Jr.’s CDC Panel Ditches Some Flu Shots Based on Anti-Vaccine Junk Data
+
+date: 2025-06-27, updated: 2025-06-27, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://arstechnica.com/health/2025/06/rfk-jr-s-cdc-panel-ditches-some-flu-shots-based-on-anti-vaccine-junk-data/>
+
+---
+
+## ‘Stupid-Americans Are the New Irish-Americans, Trump Is Their JFK’
+
+date: 2025-06-27, updated: 2025-06-27, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.reddit.com/r/thebulwark/comments/1ljbvtw/hottest_take_stupidamericans_are_the_new/>
+
+---
+
+## Friday Squid Blogging: What to Do When You Find a Squid “Egg Mop”
+
+date: 2025-06-27, updated: 2025-06-27, from: Bruce Schneier blog
+
+<p><a href="https://news.stv.tv/north/what-are-squid-egg-mops-and-what-to-do-if-you-find-one">Tips</a> on what to do if you find a mop of squid eggs.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-what-to-do-when-you-find-a-squid-egg-mop.html>
 
 ---
 
@@ -25,7 +64,7 @@ date: 2025-06-27, from: Heather Cox Richardson blog
 
 **@Dave Winer's Scripting News** (date: 2025-06-27, from: Dave Winer's Scripting News)
 
-BTW, I think the right way to read Scripting News is getting the nightly email. That's the pulse. I jot stuff down during the day, mostly in the morning, and later add links and finish stuff up. The scripting.com feed is updated in realtime. So you may get many versions of an item over the course of a day, which might be a problem with feed readers that don't watch for changes. I noticed that my changes to my podcast shownotes page don't flow back out to Pocket Casts, which is the client I use on my Android phone. FeedLand btw, records changes, and they flow through to the timeline. Coupled with rssCloud, which is supported in every WordPress site, makes the whole thing realtime. People assume that feeds have to perform like a feed reader. But if you have a component running on the open internet, hooked up via websockets to the client, you get the flow they get in twitter-like systems. And the thing is we didn't have to invent anything that didn't already exist in 2009. 
+BTW, I think the right way to read Scripting News is getting the <a href="https://subscribe.scripting.com/">nightly email</a>. That's the pulse. I jot stuff down during the day, mostly in the morning, and later add links and finish stuff up. The scripting.com feed is updated in realtime. So you may get many versions of an item over the day, which might be a problem with feed readers that don't watch for changes. I noticed that my changes to a recent podcast <a href="https://shownotes.scripting.com/scripting/2025/06/23/wordpressAndMe.html">shownotes page</a> don't flow back out to my podcast client app on Android. <a href="https://feedland.com/">FeedLand</a> btw, records changes, and they flow through to the timeline. Coupled with <a href="http://home.rsscloud.co/">rssCloud</a>, which is supported in every WordPress site, makes the whole thing realtime. People assume that feeds have to perform like a feed reader. But if you have a component running on the open internet, hooked up via websockets to the client, you get the flow they get in twitter-like systems. And we didn't have to invent anything that didn't already exist in 2009. 
 
 <br> 
 
@@ -35,7 +74,7 @@ BTW, I think the right way to read Scripting News is getting the nightly email. 
 
 **@Dave Winer's Scripting News** (date: 2025-06-27, from: Dave Winer's Scripting News)
 
-I'm working my way through The Bear, and it's great because you remember that you love all these characters and you can immediately start living the ongoing drama of their lives. The scene they paint is intriguing. I feel like a cat perched on a window watching everyone doing their daily stuff. Looking forward to going back to the beginning and starting over. 
+I'm working my way through <a href="https://www.metacritic.com/tv/the-bear/season-4/">The Bear</a>, and it's great because you remember that you love all these characters and you can immediately start living the ongoing drama of their lives. I feel like a cat perched on a window watching everyone doing their daily stuff. Looking forward to going back to the beginning and starting over. 
 
 <br> 
 
@@ -45,7 +84,7 @@ I'm working my way through The Bear, and it's great because you remember that yo
 
 **@Dave Winer's Scripting News** (date: 2025-06-27, from: Dave Winer's Scripting News)
 
-Glossary: Tiny Little Textbox. 
+Glossary: <a href="http://scripting.com/2024/01/14/031201.html">Tiny Little Textbox</a>. (An idea I might try, coupled with <a href="https://daytona.scripting.com/search?q=%22tiny%20little%20textbox%22">Daytona</a>, I should be able to build a glossary of terms I want in my official vocabulary. Ideas that have stood the test of time, that mean something now, but eventually will be set aside and no one will know what a TLTB was.) 
 
 <br> 
 
@@ -69,7 +108,7 @@ Sending this ad is completely destructive to all the hard work other teams at Ap
 
 date: 2025-06-27, from: Doc Searls (at Harvard), New Old Blog
 
-So now I&#39;ve been wrong for more than seven years. Two days ago, when this blog got almost six thousand visits (a recent record), the most visited post was GDPR will pop the adtech bubble, which went up on May 14, 2018. The GDPR became enforceable on May 25, eleven days later. In this post from [&#8230;] 
+Modest ambitions. I&#39;ll be on the Immergence podcast this coming Tuesday, July 1, at Noon Eastern time, talking with Nico Fara about The Intention Economy, ProjectVRM, Customer Commons, Personal AI, and using MyTerms to completely flip the script on agreements with websites and services, obsolescing all those annoying cookie notices, and blowing up surveillance-based adtech [&#8230;] 
 
 <br> 
 
@@ -292,7 +331,7 @@ I, like a lot of other people, assumed that Americans would be terrible at autho
 
 ## Apple Wallet Sends Push Notification Ad Pushing ‘F1 The Movie’
 
-date: 2025-06-26, updated: 2025-06-27, from: Daring Fireball
+date: 2025-06-26, updated: 2025-06-28, from: Daring Fireball
 
  
 
@@ -2039,4 +2078,320 @@ At 7:50 this evening, Eastern Time, President Donald J.
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/june-21-2025>
+
+---
+
+## 2025-06-21 Trying to understand the bots
+
+date: 2025-06-21, from: Alex Schroeder's Blog
+
+<h1 id="2025-06-21-trying-to-understand-the-bots">2025-06-21 Trying to understand the bots</h1>
+
+<p>I changed the limit of my <a href="2025-06-16-ban-asn">automatic ASN ban</a> from 1000 hits in 2h to 500 hits in 2h.</p>
+
+<p>That&rsquo;s because the two biggest autonomous systems hitting my sites are from Vietnam and China and they&rsquo;re currently keeping below that 1000 hits per 2h limit:</p>
+
+<pre><code>site-log !^social | log-ip | asncounter --no-prefixes 2&gt;/dev/null
+count	percent	ASN	AS
+749	4.37	45899	VNPT-AS-VN VNPT Corp, VN
+539	3.15	45102	ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+448	2.61	24940	HETZNER-AS, DE
+427	2.49	16276	OVH, FR
+367	2.14	28573	Claro NXT Telecomunicacoes Ltda, BR
+331	1.93	9009	M247, RO
+312	1.82	62610	ZEN-DPS, US
+303	1.77	7922	COMCAST-7922, US
+299	1.74	212238	CDNEXT, GB
+264	1.54	7018	ATT-INTERNET4, US
+total: 17135
+</code></pre>
+
+<p>The numbers themselves are not that big, but I am annoyed. I live in an English/German world and I don&rsquo;t see a reason for service providers from Vietnam, China, Brazil and Romania crawling my sites.</p>
+
+<p>(You can find all the fish functions I use in the <a href="/admin/">admin</a> directory.)</p>
+
+<p>Let&rsquo;s take a look at what they are requesting!</p>
+
+<p>The Vietnamese bots:</p>
+
+<pre><code>site-log !^social | asn-access-log 45899 | log-request | rank-lines
+     74 /nobots
+      3 /emacs/?action=translate%3Bid%3Dmon-utils.el%3Bmissing%3Dde_es_fr_it_ja_ko_pt_ru_se_uk_zh
+      3 /emacs/?action=translate%3Bid%3DComments_on_SuperCollider%3Bmissing%3Dde_en_es_fr_it_ja_ko_pt_ru_se_uk_zh
+      3 /emacs/?action=translate%3Bid%3DComintModes%3Bmissing%3Dde_es_fr_it_ja_ko_pt_ru_se_uk_zh
+      3 /emacs/?action=edit%3Bid%3DCustomizeNewGUI
+      3 /emacs/?action=browse%3Bdiff%3D2%3Bid%3DDialog
+      3 /emacs/?action=admin%3Bid%3DApplyingPatches
+      2 /emacs/wang1zhen
+      2 /emacs/Comments_on_zenburn.el
+      2 /emacs?action=translate%3Bid%3DVbsReplMode%3Bmissing%3Dde_en_es_fr_it_ja_ko_pt_ru_se_uk_zh
+</code></pre>
+
+<p>Looks like they&rsquo;re following all the links, so a misbehaved bot, if you ask me.
+They&rsquo;re &ldquo;hitting all the buttons&rdquo; on the web app.
+The relevant part of <code>robots.txt</code>:</p>
+
+<pre><code>User-agent: *
+Crawl-delay: 240
+Disallow: /emacs?action=
+</code></pre>
+
+<p>The Chinese bots:</p>
+
+<pre><code>site-log !^social | asn-access-log 45102 | log-request | rank-lines
+    306 /robots.txt
+     12 /wiki?action=rc%3Brcfilteronly%3D%222005-10-06%22
+     12 /wiki?action=history%3Bid%3D2005-10-06
+     12 /wiki?action=edit%3Bid%3DMoneyPooling
+     12 /wiki?action=edit%3Bid%3DDorfWiki
+     12 /wiki?action=edit%3Bid%3DBarnstarSharing
+     12 /wiki?action=edit%3Bid%3D2005-10-06
+     12 /wiki?action=define%3Bname%3DMoneyPooling
+     12 /wiki?action=define%3Bname%3DBarnstarSharing
+     12 /wiki?action=browse%3Bdiff%3D2%3Bid%3D2005-10-06
+</code></pre>
+
+<p>Looks like they&rsquo;re following all the links, so a misbehaved bot as well.</p>
+
+<p>Again, the relevant part of <code>robots.txt</code>:</p>
+
+<pre><code>User-agent: *
+Crawl-delay: 240
+Disallow: /wiki 
+</code></pre>
+
+<p>The German bots actually make reasonable requests:</p>
+
+<pre><code>site-log !^social | asn-access-log 24940 | log-request | rank-lines
+     90 /view/2025-06-16-ban-asn
+     52 /
+     50 /view/index
+     41 /rpg/feed.xml
+     29 /admin/ban-cidr
+     16 /view/index.rss
+     15 /emacs?action=rss
+     10 /robots.txt
+      8 /wiki/feed/full/
+      8 /osr/feed.xml
+</code></pre>
+
+<p>Let&rsquo;s see what sort of user agents we see. I&rsquo;m expecting feed readers.</p>
+
+<pre><code>site-log !^social | asn-access-log 24940 | log-user-agent | rank-lines
+     46 NewsBlur Page Fetcher
+     36 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+     32 NewsBlur Feed Fetcher
+     23 fiperbot/0.1 (+https://www.fiper.net)
+     21 Mozilla/5.0 (compatible; DataForSeoBot/1.0; +https://dataforseo.com/dataforseo-bot)
+     15 AwarioSmartBot/1.0 (+https://awario.com/bots.html; bots@awario.com)
+      9 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+      8 MyNewspaper Agent 1.0
+      8 Akkoma 3.9.3-0-g9d7c877; https://social.raccoon.college &lt;admin@raccoon.college&gt;, Akkoma 3.9.3-0-g9d7c877; https://social.raccoon.college &lt;admin@raccoon.college&gt;; Bot
+      7 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47
+</code></pre>
+
+<p>The one that stands out is &ldquo;DataForSeoBot&rdquo;. But it seems that this is not a problem. I already have this bot in my Apache config (as seen on <a href="2025-03-21-defence-summary">2025-03-21 A summary of my bot defence systems</a>). Still, <em>booo!</em> Hetzner for hosting this bot.</p>
+
+<pre><code>site-log !^social | grep DataForSeoBot | leech-detector 
+Total hits: 21
+IP                             |       Hits | Bandw. | Rel. | Interv. | Status
+------------------------------:|-----------:|-------:|-----:|--------:|-------
+               136.243.228.177 |         18 |     1K |  85% | -289.2s | 410 (55%), 301 (44%)
+               136.243.220.213 |          1 |     0K |   4% |         | 301 (100%)
+               136.243.228.178 |          1 |     0K |   4% |         | 301 (100%)
+               136.243.228.193 |          1 |     3K |   4% |         | 410 (100%)
+</code></pre>
+
+<p>The French bots also seem to be reasonable:</p>
+
+<pre><code>site-log !^social | asn-access-log 16276 | log-request | rank-lines
+    153 /view/2025-06-16-ban-asn
+     96 /
+     87 /view/index
+     45 /admin/ban-cidr
+     17 /robots.txt
+     17 /files/internet-office-hours.xml
+      8 /rpg/feed.xml
+      2 /wiki?action=rss;rcidonly=Page_Synchronization
+      2 /wiki?action=rss;match=%5EPingback_Server_Extension%24
+      2 /view/RPG.rss
+</code></pre>
+
+<p>The Brazilian bots seems to download the entire site:</p>
+
+<pre><code>site-log !^social | asn-access-log 28573 | log-request | rank-lines
+     72 /nobots
+      1 /wiki/Year_of_the_Copper_Titan/Comments_on_Character_sheet_template
+      1 /wiki/WilderlandsOfSwordsAndDevilry/Comments_on_Cutthroat_Inn_Hooks
+      1 /wiki/WerdnaWorld?search=%222019-02-17%22
+      1 /wiki/Waterdeep/Recap_April_18,_2020
+      1 /wiki/TheRoadToDwimmermount/Comments_on_Alia
+      1 /wiki/SmoothPointsofPride?action=history;id=Melee
+      1 /wiki/SmallHuman
+      1 /wiki?search=%22MicroPayment%22
+      1 /wiki?search=%22Gemini+Wiki+on+the+Internet%22
+</code></pre>
+
+<p>Look at the requests:</p>
+
+<pre><code>site-log !^social | asn-access-log 28573 | log-request | rank-lines
+     62 /nobots
+      1 /wiki/Year_of_the_Copper_Titan/Comments_on_Character_sheet_template
+      1 /wiki/WonderfulBreadIncrease
+      1 /wiki/Waterdeep/Recap_February_8,_2020
+      1 /wiki/Waterdeep/Recap_April_18,_2020
+      1 /wiki/TheRoadToDwimmermount/Comments_on_Alia
+      1 /wiki/TheBrokenLands/Comments_on_Symbol_of_Truth
+      1 /wiki/SmallHuman
+      1 /wiki?search=%22MyMacros%22
+      1 /wiki?search=%22ModularWiki%22
+</code></pre>
+
+<p>Specially those searches at the bottom!
+The relevant part of <code>robots.txt</code>:</p>
+
+<pre><code>User-agent: *
+Crawl-delay: 20
+Disallow: /wiki?
+</code></pre>
+
+<p>Same for the Romanian one:</p>
+
+<pre><code>site-log !^social | asn-access-log 9009 | log-request | rank-lines
+      5 /nobots
+      3 /
+      2 /emacs/Comments_on_SiteMap/
+      2 /diff/2021-07-29_Creative_projects%2C_perpetually_work_in_progress
+      2 /cw/2006-04-30
+      1 /wiki/Waterdeep/Comments_on_imp
+      1 /wiki/Unter_Piraten/Comments_on_Numqu'am_Solus
+      1 /wiki/Unter_Piraten/Comments_on_2023-04-07
+      1 /wiki/Unter_Piraten/Comments_on_2023-03-03
+      1 /wiki/TravellerTheSalamanderCrew/Comments_on_Yandee
+</code></pre>
+
+<p>And what I really hate are those random user agent strings.</p>
+
+<pre><code>site-log !^social | asn-access-log 9009 | log-user-agent | rank-lines
+     13 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.3
+     12 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+     12 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.3
+     11 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.3
+     11 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Trailer/93.3.8652.5
+      9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.3
+      8 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+      8 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
+      6 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1
+      2 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+</code></pre>
+
+<p>Do I really need to go to to the <a href="https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker">The Ultimate Apache Bad Bot &amp; Referrer Blocker</a>?</p>
+
+<p><a class="tag" href="/search/?q=%23ButlerianJihad">#ButlerianJihad</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-06-21-understanding-bots>
+
+---
+
+## June 20, 2025
+
+date: 2025-06-21, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166475629/5b8fdef0a783045f070a93dc18386027.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166475629/5b8fdef0a783045f070a93dc18386027.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-20-2025-06e>
+
+---
+
+##  Happening all day today: a Reading Rainbow marathon on PBS Retro. PBS... 
+
+date: 2025-06-21, updated: 2025-06-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0046990-happening-all-day-today-a>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-21, from: Dave Winer's Scripting News)
+
+Speak plainly. As <a href="https://nolearnings.com/">Brent says</a>, lessons not learnings. Keep it simple. This is one of the <a href="http://crimson1.scripting.com/dogma/2000">foundations</a> of blogging, btw. "Try to write correctly." 
+
+<br> 
+
+<http://scripting.com/2025/06/21.html#a144023>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-21, from: Dave Winer's Scripting News)
+
+Just a guess, but the people doing the "ice" raids are not real police any more than the "doge" people are/were actually part of the US government. In this New Yorker <a href="https://www.newyorker.com/podcast/political-scene/the-rise-and-fall-of-doge">podcast</a>, they dug into what "doge" actually was/is. Some weren't actually Trump supporters, they just thought it would be interesting to be empowered to fix the government. They learned the government doesn't work the way they thought it did. Spending is way up over the years, but number of government employees has stayed flat. It has already been largely privatized. Tangentially they appear to have found some things actually worth fixing. Tech culture isn't just the billionaires, far from it. There's a lot of hippie ethics in there too, you just have to look past the money, which seems too much work for some/most journalists. But The New Yorker tends to do this well, btw, sometimes. <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2025/06/21.html#a142915>
+
+---
+
+## Trump’s Ultimate Power Trip? | The Coffee Klatch
+
+date: 2025-06-21, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<br> 
+
+<https://robertreich.substack.com/p/trumps-ultimate-power-trip-the-coffee>
+
+---
+
+## Weeknotes: June 14-20, 2025
+
+date: 2025-06-21, from: Tracy Durnell Blog
+
+Win of the week: cooked up a giant pot of chickpeas (added a kinda-tadka of fresh rosemary sizzling in oil at the end) for a mildly awkward neighborhood potluck (where the only other handmade food was peanut butter celery sticks 😂 apparently my idea of potluck food is outdated) Looking forward to: finishing This Will [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/06/20/weeknotes-june-14-20-2025/>
+
+---
+
+## June 20, 2025 
+
+date: 2025-06-21, from: Heather Cox Richardson blog
+
+Individuals in plain clothes with their faces covered and without badges or name tags are snatching people off the streets and taking them away. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-20-2025>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-21, from: Miguel de Icaza Mastondon feed)
+
+<p>The real magic is learning a few tricks from those performance talks (like switching from walltime to measure to measuring throughput, a nice mental model change, among others), how easy flamegraphs have become in Instruments, and how good the UI to support it has become.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114718448942265897>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-21, from: Miguel de Icaza Mastondon feed)
+
+<p>Some updates, now at 8.3x performance boost since I started using the new tips and tricks from the Apple performance talk.</p><p>Started to use third party benchmarks to compare notes.</p><p>On VteBench, comparing MacOS Terminal, main, perf branch and Ghostty yields some amazing results, I couldn&#39;t believe my own eyes: </p><p>When I first tried, &quot;termbench small&quot;, it was a worthless experiment, it would never end.   Now, it does better than both MacOS Tahoe and Ghostty:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114718433423948696>
 

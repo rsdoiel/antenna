@@ -1,11 +1,104 @@
 ---
 title: socal north
-updated: 2025-06-27 14:07:00
+updated: 2025-06-28 06:08:19
 ---
 
 # socal north
 
-(date: 2025-06-27 14:07:00)
+(date: 2025-06-28 06:08:19)
+
+---
+
+## Amid ICE raids and student pressure, LAUSD allocates $5 million for Dream Centers
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+Students say the centers are about visibility, connection and safety, and are necessary spaces during Trump’s presidency. 
+
+<br> 
+
+<https://laist.com/news/education/amid-ice-raids-and-student-pressure-lausd-allocates-5-million-for-dream-centers>
+
+---
+
+## Officials call for probe into immigration officers’ presence on Terminal Island
+
+date: 2025-06-27, from: Longbeach Post
+
+<figure><img width="1024" height="713" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4-1024x713.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4-1024x713.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4-300x209.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4-768x535.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4-155x108.jpg 155w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4-400x279.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Activists say they’ve seen agents in military vests marked with “ICE” driving Border Patrol vehicles and unmarked cars in and out of a staging area.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/officials-call-for-probe-into-immigration-officers-presence-on-terminal-island">Officials call for probe into immigration officers&#8217; presence on Terminal Island</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/officials-call-for-probe-into-immigration-officers-presence-on-terminal-island>
+
+---
+
+## Neighbors sue Long Beach, demanding tighter enforcement of airport noise ordinance
+
+date: 2025-06-27, from: Longbeach Post
+
+<figure><img width="1024" height="615" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/09/07114243/06SEP23-Struff-7.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/09/07114243/06SEP23-Struff-7.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/09/07114243/06SEP23-Struff-7-300x180.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/09/07114243/06SEP23-Struff-7-1024x615.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/09/07114243/06SEP23-Struff-7-768x461.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/09/07114243/06SEP23-Struff-7-180x108.jpg 180w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/09/07114243/06SEP23-Struff-7-400x240.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>They say the city is letting flight schools exploit a loophole to fly thousands of late-night training operations that should be banned.</p>
+<p>The post <a href="https://lbpost.com/news/long-beach-airport-noise-lawsuit-ordinance">Neighbors sue Long Beach, demanding tighter enforcement of airport noise ordinance</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/long-beach-airport-noise-lawsuit-ordinance>
+
+---
+
+## Police arrest man who may have impersonated immigration agent, Huntington Park officials say
+
+date: 2025-06-27, from: Longbeach Post
+
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27150137/diaz-ice-mugshot-323656-dbgdhtui-221699-iHNXICdX-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27150137/diaz-ice-mugshot-323656-dbgdhtui-221699-iHNXICdX-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27150137/diaz-ice-mugshot-323656-dbgdhtui-221699-iHNXICdX-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27150137/diaz-ice-mugshot-323656-dbgdhtui-221699-iHNXICdX-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27150137/diaz-ice-mugshot-323656-dbgdhtui-221699-iHNXICdX-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27150137/diaz-ice-mugshot-323656-dbgdhtui-221699-iHNXICdX-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27150137/diaz-ice-mugshot-323656-dbgdhtui-221699-iHNXICdX-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27150137/diaz-ice-mugshot-323656-dbgdhtui-221699-iHNXICdX-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27150137/diaz-ice-mugshot-323656-dbgdhtui-221699-iHNXICdX-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27150137/diaz-ice-mugshot-323656-dbgdhtui-221699-iHNXICdX.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police said he had an SUV outfitted with police-type lights, a loaded gun and documents with headings from federal agencies like HSI and CBP.</p>
+<p>The post <a href="https://lbpost.com/news/crime/police-arrest-man-who-may-have-impersonated-immigration-agent-huntington-park-officials-say">Police arrest man who may have impersonated immigration agent, Huntington Park officials say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/police-arrest-man-who-may-have-impersonated-immigration-agent-huntington-park-officials-say>
+
+---
+
+## Newsom sues Fox News for $787 Million, saying it lied about Trump phone call
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+Gov. Gavin Newsom’s defamation lawsuit claims Fox News lied about when he spoke with President Donald Trump about the immigration raids and protests in Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/newsom-sues-fox-news-787-million-saying-it-lied-about-trump-phone-call>
+
+---
+
+## ICE arrested a 6-year-old boy with leukemia at an LA immigration court. His family is suing
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+A Honduran mother is suing the Trump administration after she and her two children — ages 6 and 9 — were arrested at a Los Angeles Immigration Court. 
+
+<br> 
+
+<https://laist.com/news/ice-arrested-a-6-year-old-boy-with-leukemia-at-an-immigration-court-his-family-is-suing>
+
+---
+
+## Taken: What happens after an LA immigration raid
+
+date: 2025-06-27, updated: 2025-06-27, from: The LAist
+
+Shared stories of LA ICE raids spark legal concern over poor facility conditions. 
+
+<br> 
+
+<https://laist.com/news/taken-what-happens-after-an-la-immigration-raid>
 
 ---
 
@@ -85,7 +178,7 @@ A new study says Medicaid patients and providers alike would suffer under a bill
 
 date: 2025-06-27, from: Longbeach Post
 
-<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27102220/062625-juan-flores-cm-01-636342-nd15mjzl-302308-sQV0iweU.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>CalMatters spoke with a number of migrants about their arrests and detentions after the first weekend of LA raids. Their accounts raise potential legal questions about the government’s operation.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/taken-what-happens-after-an-la-immigration-raid">Taken: What happens after an LA immigration raid</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -188,7 +281,7 @@ It will be warm and dry today, but the addition of gusty onshore winds for the i
 
 ## You have the right to film ICE detentions. Here’s how to do it safely and effectively
 
-date: 2025-06-27, updated: 2025-06-27, from: The LAist
+date: 2025-06-27, updated: 2025-06-28, from: The LAist
 
 Video footage can be used to keep government employees accountable. 
 
@@ -1405,4 +1498,66 @@ The attack marks a major escalation in the burgeoning war between Iran and Israe
 <br> 
 
 <https://laist.com/news/u-s-completes-strikes-on-iran-nuclear-sites-trump-says>
+
+---
+
+## Preserving a Community Treasure – William S. Hart Park
+
+date: 2025-06-21, from: City of Santa Clarita
+
+<p>“My ranch William S. Hart Park is for the benefit of the American Public of every race and creed.” – William S. Hart By City Manager Ken Striplin William S. Hart Park has been a cherished part of the Santa Clarita community for nearly 70 years. Whether it’s enjoying a peaceful walk through the picturesque [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/21/preserving-a-community-treasure-william-s-hart-park/">Preserving a Community Treasure – William S. Hart Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/21/preserving-a-community-treasure-william-s-hart-park/>
+
+---
+
+## Gusty winds and fire weather watch on tap for parts of Los Angeles County
+
+date: 2025-06-21, updated: 2025-06-21, from: The LAist
+
+The Antelope Valley and areas along the I-5 corridor are the biggest concerns. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/gusty-winds-and-fire-weather-watch-on-tap-for-parts-of-los-angeles-county>
+
+---
+
+## ICE raids quiet SoCal's Asian hubs
+
+date: 2025-06-21, updated: 2025-06-22, from: The LAist
+
+Advocates say popular gathering spots for Asian immigrants are seeing less foot traffic in the wake of ongoing immigration sweeps. 
+
+<br> 
+
+<https://laist.com/news/ice-raids-quiet-socals-asian-hubs>
+
+---
+
+## LA Opera is having a once-in-a-decade costume sale
+
+date: 2025-06-21, updated: 2025-06-21, from: The LAist
+
+North America's fourth largest opera company is opening up its closet for a huge costume sale this Saturday. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/la-opera-is-having-a-once-in-a-decade-costume-sale>
+
+---
+
+## We went looking for a Japanese cola named 'Los Angeles' — and found a story about home
+
+date: 2025-06-21, updated: 2025-06-21, from: The LAist
+
+A rabbit hole journey into why not one, but two colas from Japan, pay homage to our great city. We don’t have the definitive answer, but we do have a great story to tell. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/japanese-cola-los-angeles>
 

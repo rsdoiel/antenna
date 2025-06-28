@@ -1,11 +1,11 @@
 ---
 title: ham radio
-updated: 2025-06-27 14:07:02
+updated: 2025-06-28 06:08:21
 ---
 
 # ham radio
 
-(date: 2025-06-27 14:07:02)
+(date: 2025-06-28 06:08:21)
 
 ---
 
@@ -248,4 +248,16 @@ date: 2025-06-22, from: Amateur Radio Relay League News
 <br> 
 
 <http://www.arrl.org/news/view/local-county-and-state-governments-proclaim-value-of-amateur-radio>
+
+---
+
+## Protect the Most Important Element of Field Day: The People
+
+date: 2025-06-21, from: Amateur Radio Relay League News
+
+<p>That includes yourself! Late June holds the Summer Solstice, and in North America where Field Day takes place, that means a higher likelihood of long, hot, summer days. If it’s not everyday you’re working in the heat, you especially need to take care of yourself.</p><p>Dr. Carol Milazzo, M.D., KP4MD, is the Section Manager of the ARRL Sacramento Valley Section. She’s also a practicing physician. She k...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/protect-the-most-important-element-of-field-day-the-people>
 

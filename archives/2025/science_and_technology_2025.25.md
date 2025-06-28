@@ -1,11 +1,47 @@
 ---
 title: science and technology
-updated: 2025-06-27 14:07:02
+updated: 2025-06-28 06:08:21
 ---
 
 # science and technology
 
-(date: 2025-06-27 14:07:02)
+(date: 2025-06-28 06:08:21)
+
+---
+
+## Anthropic chucks chump change at studies on job-killing tech
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>$61B business offers $10K–$50K grants to assess AI’s job-market impact</h4> <p>AI biz Anthropic is trying to recruit academics to find out exactly how much its technology could crater the jobs market.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/anthropic_job_killing_tech_study/>
+
+---
+
+## Crims are posing as insurance companies to steal health records and payment info
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>Taking advantage of the ridiculously complex US healthcare billing system</h4> <p>Criminals masquerading as insurers are tricking patients and healthcare providers into handing over medical records and bank account information via emails and text messages, according to the FBI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/patients_providers_records_payment_scam/>
+
+---
+
+## Supremes uphold Texas law that forces age-check before viewing adult material
+
+date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+
+<h4>Over 18? Prove it</h4> <p>The US Supreme Court has ruled that Texas&#39; age certification law for viewing sexually explicit content is valid, meaning that viewers of such material will have to prove their age.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/27/supreme_court_texas_smut/>
 
 ---
 
@@ -1818,4 +1854,28 @@ Over the past few months, YouTube has been trying another round of anti-adblock 
 <br> 
 
 <https://www.osnews.com/story/142624/youtubes-new-anti-adblock-measures/>
+
+---
+
+## Teens used encrypted chats to recruit for 'violence as a service' murder ring, Europol says
+
+date: 2025-06-21, updated: 2025-06-21, from: The Register (UK I.T. News)
+
+<h4>Skull emoji knife emoji moneybag emoji</h4> <p>Seven people, including a 14-year-old, have been arrested or surrendered to Danish authorities after allegedly using encrypted messaging apps to hire other teenagers for contract killings in what Europol calls a &#34;violence-as-a-service&#34; operation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/21/teen_arrested_murder_for_hire/>
+
+---
+
+## Curiosity Blog, Sols 4577-4579: Watch the Skies
+
+date: 2025-06-21, from: NASA breaking news
+
+Written by Deborah Padgett, OPGS Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, June 20, 2025 During the plan covering Sols 4575-4576, Curiosity continued our investigation of mysterious boxwork structures on the shoulders of Mount Sharp. After a successful 56-meter drive (about 184 feet), Curiosity is now parked in a trough cutting […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4577-4579-watch-the-skies/>
 
