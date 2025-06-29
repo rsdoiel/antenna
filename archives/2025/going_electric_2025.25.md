@@ -1,11 +1,117 @@
 ---
 title: going electric
-updated: 2025-06-28 14:08:00
+updated: 2025-06-29 06:08:25
 ---
 
 # going electric
 
-(date: 2025-06-28 14:08:00)
+(date: 2025-06-29 06:08:25)
+
+---
+
+## Dahon unveils bold new electric and folding bike lineup for 2025
+
+date: 2025-06-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/dahon-k-feather-bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><br>At Eurobike 2025 in Frankfurt, folding bike pioneer Dr. David Hon made a major splash by showcasing a completely revamped lineup of Dahon bikes that includes new carbon models, upgraded folding designs, and a growing portfolio of electric two-wheelers aimed at changing how people get around cities. </p>
+
+
+
+<p>A major part of the reveal centered around <a href="http://www.dahon.com">Dahon’s</a> latest innovation, a patented frame platform called DAHON‑V, which promises significantly improved stiffness and aerodynamics, especially on folding and road bikes.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="422711" href="https://electrek.co/2025/06/29/dahon-unveils-bold-new-electric-and-folding-bike-lineup-for-2025/#more-422711" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/29/dahon-unveils-bold-new-electric-and-folding-bike-lineup-for-2025/>
+
+---
+
+## Republicans are now trying to kill $7,500 EV tax credit 3 months early
+
+date: 2025-06-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/gas-vs-electric.png?w=1600" /></div><p>Republicans in the Senate have now updated Trump’s tax and budget bill to kill the $7,500 tax credit for electric vehicles by the end of September.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-car" data-layer-viewtype="unknown" data-post-id="422702" href="https://electrek.co/2025/06/28/republicans-are-trying-kill-7500-ev-tax-credit-3-months-early/#more-422702" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/28/republicans-are-trying-kill-7500-ev-tax-credit-3-months-early/>
+
+---
+
+## Off‑Grid Farming: Maximizing Crop Health with NDVI imagery
+
+date: 2025-06-28, from: Off the Grid World
+
+<p>Off-grid farming is changing the way we grow food—putting sustainability, self-reliance, and environmental care front and center. Rather than relying on traditional power grids or water supplies, these farms turn &#8230;</p>
+<p>The post <a href="https://offgridworld.com/off%e2%80%91grid-farming-maximizing-crop-health-with-ndvi-imagery/">Off‑Grid Farming: Maximizing Crop Health with NDVI imagery</a> appeared first on <a href="https://offgridworld.com">Off Grid World</a>.</p>
+ 
+
+<br> 
+
+<https://offgridworld.com/off%e2%80%91grid-farming-maximizing-crop-health-with-ndvi-imagery/>
+
+---
+
+## A Tesla Model Y Drove Itself 15 Miles To A New Owner's Home—And We Have Questions
+
+date: 2025-06-28, from: Inside EVs News
+
+Tesla calls it the world's first autonomous delivery of a car, from the Giga Texas factory to a new owner's home in South Austin. 
+
+<br> 
+
+<https://insideevs.com/news/764156/tesla-model-y-driverless-delivery-austin/>
+
+---
+
+## You Can Put The New Tesla Model Y Suspension On The Old One
+
+date: 2025-06-28, from: Inside EVs News
+
+For around $800, you can address one of the original Model Y's biggest problems. 
+
+<br> 
+
+<https://insideevs.com/news/764141/model-y-juniper-suspension-old-model-y/>
+
+---
+
+## Wasn’t Tesla supposed to start making a more affordable model 2 days from now?
+
+date: 2025-06-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-prices-2025-lineup_3c8af3.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>For the better part of a year, Tesla has been promising “more affordable models” to replace the cancelled “Model 2.” The new models were supposed to go into production in the next 2 days, but it sure feels like that might not happen, because nobody’s heard anything at all about them.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-2" data-layer-viewtype="unknown" data-post-id="422420" href="https://electrek.co/2025/06/28/wasnt-tesla-supposed-to-start-making-a-more-affordable-model-2-days-from-now/#more-422420" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/28/wasnt-tesla-supposed-to-start-making-a-more-affordable-model-2-days-from-now/>
+
+---
+
+## Newly unveiled electric bike motor is ‘world’s lightest, most efficient’
+
+date: 2025-06-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/td-motor-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>TQ, the German force behind some of the lightest and quietest e-bike motors on the market, just took a leap forward – <em>again</em>. Barely weeks after debuting the lightweight HPR60 e-bike drive system, the company has introduced the HPR40, now claiming the title of the lightest and most efficient mid-drive motor in the world.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="422687" href="https://electrek.co/2025/06/28/newly-unveiled-electric-bike-motor-is-worlds-lightest-most-efficient/#more-422687" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/28/newly-unveiled-electric-bike-motor-is-worlds-lightest-most-efficient/>
 
 ---
 
@@ -1803,108 +1909,4 @@ Social media users caught a glimpse of several Tesla Model Ys driving around Sou
 <br> 
 
 <https://insideevs.com/news/763472/tesla-robotaxi-sightings-austin-launch/>
-
----
-
-## Current Classics: Rolls-Royce Phantom V gets even smoother and quieter
-
-date: 2025-06-21, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/lunaz-rolls-royce-phantom-v-5-copy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The electric restomod experts at <a href="https://electrek.co/?s=lunaz">Lunaz</a> have turned their talents towards the classic Rolls-Royce Phantom V limousine – and the result is exactly the kind of smooth, quiet, and luxurious ride RR’s founders would have built.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="lunaz-design,restomods,rolls-royce" data-layer-viewtype="unknown" data-post-id="421472" href="https://electrek.co/2025/06/21/current-classics-rolls-royce-phantom-v-gets-even-smoother-and-quieter/#more-421472" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/06/21/current-classics-rolls-royce-phantom-v-gets-even-smoother-and-quieter/>
-
----
-
-## Trump Says He's Making Cars Cheaper. Nope
-
-date: 2025-06-21, from: Inside EVs News
-
-Tariffs, ending tax credits, driving up gas prices—it's hard to see where Trump's policies make cars actually cheaper. 
-
-<br> 
-
-<https://insideevs.com/news/763463/trump-tariffs-ev-costs-cheaper/>
-
----
-
-## Fortescue Infinity Train electric locomotive never needs fuel or charging
-
-date: 2025-06-21, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/FORTESCUE_RAIL.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Fortescue has taken the wraps off a prototype of its proposed “Infinity Train” electric locomotive, making the 1,100 km (about 685 miles) trip from Perth to the Pilbara and marking a major milestone in the decarbonization of the company’s heavy haul operations.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="electric-train,fortescue,heavy-equipment,mining" data-layer-viewtype="unknown" data-post-id="421446" href="https://electrek.co/2025/06/21/fortescue-infinity-train-electric-locomotive-never-needs-fuel-or-charging/#more-421446" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/06/21/fortescue-infinity-train-electric-locomotive-never-needs-fuel-or-charging/>
-
----
-
-## Canadian study finds that 33% of commercial trucks are ready to electrify – today
-
-date: 2025-06-21, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/paccar_kenworth-t680e.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new study by the Pembina Institute shows that a third of the commercial trucks and vans on Toronto’s roads are ready to electrify today – while nearly half could be electrified by 2030.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="canada,commercial-evs,electric-trucks" data-layer-viewtype="unknown" data-post-id="421403" href="https://electrek.co/2025/06/21/canadian-study-finds-that-33-of-commercial-trucks-are-ready-to-electrify-today/#more-421403" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/06/21/canadian-study-finds-that-33-of-commercial-trucks-are-ready-to-electrify-today/>
-
----
-
-## Tesla’s former head of AI warns against believing that self-driving is solved
-
-date: 2025-06-21, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/03/Andrej-Karpathy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s former head of artificial intelligence, Andrej Karpathy, who worked on the automaker’s self-driving effort until 2022, warns against believing that self-driving is solved, and fully autonomous vehicles are happening soon.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="421072" href="https://electrek.co/2025/06/21/tesla-former-head-ai-warns-against-believing-self-driving-solved/#more-421072" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/06/21/tesla-former-head-ai-warns-against-believing-self-driving-solved/>
-
----
-
-## Porsche Macan EV Highway Range Test: Here's The Difference 10 MPH Makes
-
-date: 2025-06-21, from: Inside EVs News
-
-Usually, driving an EV slower on long trips is the way to go. With Porsche’s electric crossover, though, it’s not that simple. 
-
-<br> 
-
-<https://insideevs.com/news/763362/porsche-macan-ev-70-80-mph-range-test/>
-
----
-
-## The ticket bot cometh: city is recording drivers that AI says are bad
-
-date: 2025-06-21, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/ai_tickets.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>In a high-tech move that we can all get behind and isn’t dystopian <em>at all</em>, the City of Barcelona is feeding camera data from its city buses into an advanced AI, but they swear they’re not using the footage to to issue tickets to bad drivers. Yet.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="ai,electric-buses,spain" data-layer-viewtype="unknown" data-post-id="421368" href="https://electrek.co/2025/06/20/the-ticket-bot-cometh-city-is-recording-drivers-that-ai-says-are-bad/#more-421368" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/06/20/the-ticket-bot-cometh-city-is-recording-drivers-that-ai-says-are-bad/>
 

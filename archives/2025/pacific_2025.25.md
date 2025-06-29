@@ -1,11 +1,366 @@
 ---
 title: pacific
-updated: 2025-06-28 14:07:52
+updated: 2025-06-29 06:08:17
 ---
 
 # pacific
 
-(date: 2025-06-28 14:07:52)
+(date: 2025-06-29 06:08:17)
+
+---
+
+## Trump victorious again as US Supreme Court wraps up its term
+
+date: 2025-06-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Supreme Court on the last day of rulings for its current term gave Donald Trump his latest in a series of victories at the nation&#8217;s top judicial body, one that may make it easier for him to implement contentious elements of his sweeping agenda as he tests the limits of presidential power.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/29/nation-world-news/trump-victorious-again-as-us-supreme-court-wraps-up-its-term/>
+
+---
+
+## Trump administration’s actions rattle foreign students at UH Hilo, could hurt enrollment
+
+date: 2025-06-29, from: Hawaii Tribune Harold
+
+
+				<p>International students at the University of Hawaii at Hilo are grappling with anxiety about their visas, travel and social media as the university braces for a potential loss of enrollment because of those concerns.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/29/hawaii-news/trump-administrations-actions-rattle-foreign-students-at-uh-hilo-could-hurt-enrollment/>
+
+---
+
+## Senate takes up Trump’s policy bill, as GOP scrounges for votes to pass it
+
+date: 2025-06-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Senate on Saturday narrowly voted to begin debate on the sprawling domestic policy package carrying President Donald Trump&#8217;s agenda, clearing a key procedural hurdle after Republican leaders cut a series of deals with holdouts in hopes of winning the votes to pass it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/29/nation-world-news/senate-takes-up-trumps-policy-bill-as-gop-scrounges-for-votes-to-pass-it/>
+
+---
+
+## Iran holds state funeral for military commanders and nuclear scientists
+
+date: 2025-06-29, from: Hawaii Tribune Harold
+
+
+				<p>Thousands of mourners thronged the streets of Iran&#8217;s capital, Tehran, on Saturday at a funeral procession for about 60 people killed in the war with Israel, including some of the country&#8217;s top military commanders and nuclear scientists.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/29/nation-world-news/iran-holds-state-funeral-for-military-commanders-and-nuclear-scientists/>
+
+---
+
+## Canada, Europeans and Brazil, not US, issue statement backing LGBT rights
+
+date: 2025-06-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (Reuters) &#8212; The foreign ministries of Canada, Australia, Brazil and a host of European countries issued a statement on Saturday celebrating LGBT rights to coincide with Pride Day. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/29/nation-world-news/canada-europeans-and-brazil-not-us-issue-statement-backing-lgbt-rights/>
+
+---
+
+## Land board rejects Army’s final EIS for Oahu land
+
+date: 2025-06-29, from: Hawaii Tribune Harold
+
+
+				<p>The state Board of Land and Natural Resources voted Friday 5-1 to reject the Army&#8217;s final environmental impact statement on plans to retain state land on Oahu after leases expire in 2029.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/29/hawaii-news/land-board-rejects-armys-final-eis-for-oahu-land/>
+
+---
+
+## Chief justice urges political leaders to tone down rhetoric
+
+date: 2025-06-29, from: Hawaii Tribune Harold
+
+
+				<p>On the day after the Supreme Court issued a decision that sharply curtailed the power of federal judges to block Trump administration policies, Chief Justice John Roberts spoke before a hotel ballroom filled with them.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/29/nation-world-news/chief-justice-urges-political-leaders-to-tone-down-rhetoric/>
+
+---
+
+## Minnesota lawmaker and her husband remembered for their shared legacy
+
+date: 2025-06-29, from: Hawaii Tribune Harold
+
+
+				<p>MINNEAPOLIS &#8212; Minnesota state Rep. Melissa Hortman and her husband, Mark, were remembered at their funeral Saturday as &#8220;extraordinary public servants&#8221; who were killed in an inexplicable act of political violence.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/29/nation-world-news/minnesota-lawmaker-and-her-husband-remembered-for-their-shared-legacy/>
+
+---
+
+## Celebrating 50 years of ‘Jaws’ on Martha’s Vineyard
+
+date: 2025-06-29, from: Hawaii Tribune Harold
+
+
+				<p>EDGARTOWN, Mass. &#8212; It was Day 3 of &#8220;Amity Homecoming Weekend&#8221; on Martha&#8217;s Vineyard, and like thousands of other &#8220;Jaws&#8221; superfans celebrating the movie&#8217;s 50th anniversary on the island where it was filmed, David Scanlon was living his dream.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/29/features/celebrating-50-years-of-jaws-on-marthas-vineyard/>
+
+---
+
+## Volcano Watch: Where does Kilauea tephra go? The answer is blowin’ in the wind
+
+date: 2025-06-29, from: Hawaii Tribune Harold
+
+
+				<p>The spectacular series of Kilauea eruption episodes over the past six months has been remarkably safe for public viewing, but a simple change in the wind or brief vent collapse could cause dramatic changes in the hazards the volcano presents.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/29/features/volcano-watch-where-does-kilauea-tephra-go-the-answer-is-blowin-in-the-wind/>
+
+---
+
+## Market mamas 
+
+date: 2025-06-29, from: The Husk
+
+Weekender #57 
+
+<br> 
+
+<https://thehusk.substack.com/p/market-mamas>
+
+---
+
+## 'Do No Harm' bill could do more harm than good, Guam doctors warn 
+
+date: 2025-06-28, from: Pacific Island Times
+
+Guam's health care leaders discuss Bill 82-38 at a press conference held June 27, 2025, at Hyatt Regency Guam. Photo by Jann... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/do-no-harm-bill-could-do-more-harm-than-good-guam-doctors-warn>
+
+---
+
+## Supreme Court limits power of judges to block Trump policies
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court on Friday limited the ability of lower-court judges to block executive branch policies nationwide, opening the door for a majority of states to at least temporarily enforce President Donald Trump&#8217;s executive order ending birthright citizenship.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/supreme-court-limits-power-of-judges-to-block-trump-policies/>
+
+---
+
+## Senate blocks war powers resolution to limit Trump’s ability to strike Iran again
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Senate on Friday blocked a Democratic resolution that would have forced President Donald Trump to go to Congress for approval of further military action against Iran, dealing a blow to efforts to rein in his war powers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/senate-blocks-war-powers-resolution-to-limit-trumps-ability-to-strike-iran-again/>
+
+---
+
+## Rwanda and Congo sign US-brokered peace treaty
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The top diplomats from Rwanda and Congo signed a peace agreement in Washington on Friday to try to end a devastating war in eastern Congo that has resulted in thousands of deaths and displaced hundreds of thousands of people since fighting surged this year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/rwanda-and-congo-sign-us-brokered-peace-treaty/>
+
+---
+
+## University of Virginia president resigns under pressure from Trump administration
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>The University of Virginia&#8217;s president, James E. Ryan, has told the board overseeing the school that he will resign in the face of demands by the Trump administration that he step aside to help resolve a Justice Department inquiry into the school&#8217;s diversity, equity and inclusion efforts, according to three people briefed on the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/university-of-virginia-president-resigns-under-pressure-from-trump-administration/>
+
+---
+
+## Trump says US ending trade talks with Canada
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump on Friday said the United States would terminate all trade discussions with Canada, &#8220;effective immediately,&#8221; over the country&#8217;s plan to begin collecting digital services taxes from U.S. technology giants.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/trump-says-us-ending-trade-talks-with-canada/>
+
+---
+
+## Critical hurricane monitoring data is going offline
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>The National Atmospheric and Oceanic Administration has said that in the next few days it will stop providing data from satellites that have been helping hurricane forecasters do their jobs for decades, citing &#8220;recent service changes&#8221; as the cause.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/critical-hurricane-monitoring-data-is-going-offline/>
+
+---
+
+## France opens competition to expand overcrowded Louvre
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; France on Friday started an architectural competition for the daunting task of expanding the Louvre in Paris, in a bid to ease overcrowding at the world&#8217;s biggest and most visited museum.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/france-opens-competition-to-expand-overcrowded-louvre/>
+
+---
+
+## Minnesotans ring Capitol to honor slain lawmaker; hearing is postponed for suspect
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>ST. PAUL, Minn. &#8212; Elected officials, former President Joe Biden and everyday Minnesotans streamed into the white-domed state Capitol on Friday to pay their respects to state Rep. Melissa Hortman and her husband, Mark, who were fatally shot at their suburban Minneapolis home this month.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/minnesotans-ring-capitol-to-honor-slain-lawmaker-hearing-is-postponed-for-suspect/>
+
+---
+
+## In pursuit of godlike technology, Mark Zuckerberg amps up the AI race
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>SAN FRANCISCO &#8212; In April, Mark Zuckerberg&#8217;s lofty plans for the future of artificial intelligence crashed into reality.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/features/in-pursuit-of-godlike-technology-mark-zuckerberg-amps-up-the-ai-race/>
+
+---
+
+## Tropical Gardening: Insect repellents important because summer often means more insects
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>Some insects are more than just pesky especially when it comes to ones that spread disease. Malaria and other diseases are scary. However, it is even scarier when you realize how vulnerable we are when it comes to problems caused by rats, pigs, insects and diseases we find in Hawaii. Pig and rat populations also carry diseases than can cause human illnesses.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/features/tropical-gardening-insect-repellents-important-because-summer-often-means-more-insects/>
+
+---
+
+## Pasifika Medical Association rejects claims public funds used inappropriately
+
+date: 2025-06-28, from: 
+
+Te Puni Kōkiri is launching an independent review into allegations that money was used inappropriately for Whānau Ora commissioning services. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/political/565405/pasifika-medical-association-rejects-claims-public-funds-used-inappropriately>
+
+---
+
+## 3 powerful murals unveiled at UH Maui College
+
+date: 2025-06-28, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Maui College walls transformed through dynamic stories rooted in Maui.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/27/powerful-murals-at-uh-maui-college/">3 powerful murals unveiled at <abbr>UH</abbr> Maui College</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/27/powerful-murals-at-uh-maui-college/>
+
+---
+
+## Cancer care, Cirque du Soleil, more in UH magazine
+
+date: 2025-06-28, from: University of Hawaiʻi News
+
+<p>From cancer breakthroughs to creative careers, <abbr>UH</abbr> alumni and faculty are shaping <span aria-label="Hawaii">Hawai&#699;i</span>’s future.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/27/uh-magazine-2025/">Cancer care, Cirque du Soleil, more in <abbr>UH</abbr> magazine</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/27/uh-magazine-2025/>
+
+---
+
+## Education to employment: UH System tackles workforce shortage in parks and rec
+
+date: 2025-06-28, from: University of Hawaiʻi News
+
+<p>A new <abbr>UH</abbr> Community Colleges program is helping to rapidly fill parks and rec positions while preparing residents for green careers.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/27/uh-tackles-workforce-shortage-parks-and-rec/">Education to employment: <abbr>UH</abbr> System tackles workforce shortage in parks and rec</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/27/uh-tackles-workforce-shortage-parks-and-rec/>
 
 ---
 
@@ -3682,208 +4037,4 @@ WASHINGTON (Reuters) — President Donald Trump on Saturday said that a "very su
 <br> 
 
 <https://www.mvariety.com/news/national/trump-says-us-forces-bombed-iran-nuclear-sites-says-fordow-is-gone/article_03caa463-1f1b-4d43-826a-973b04d4b348.html>
-
----
-
-## Stealth bombers headed to Guam?
-
-date: 2025-06-21, from: Pacific Island Times
-
-By Pacific Island Times News Staff Six B-2 stealth bombers departed from Whiteman Air Force Base in Missouri and were speculated to be... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/stealth-bombers-headed-to-guam>
-
----
-
-## Business Briefs
-
-date: 2025-06-21, from: Pacific Island Times
-
-New restaurant to open at LeoPalace The Tangantangan Grill at the LeoPalace Resort is set to open on June 27, with longtime Guam chef... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/business-briefs>
-
----
-
-## Community Events: Friendship recital, skills showcase, Freedom Rocks, fitness expo
-
-date: 2025-06-21, from: Pacific Island Times
-
-Osaka students return for Friendship recital at Micronesia Mall Students from Sakai Liberal High School in Osaka, Japan returned to Guam... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/community-events-skills-showcase-freedom-rocks-fitness-expo>
-
----
-
-## Trump’s rebuke of Gabbard signals an uneasy moment
-
-date: 2025-06-21, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; President Donald Trump was angry.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/21/nation-world-news/trumps-rebuke-of-gabbard-signals-an-uneasy-moment/>
-
----
-
-## AG wraps review of Lahaina wildfire
-
-date: 2025-06-21, from: Hawaii Tribune Harold
-
-
-				<p>After nearly two years, the state&#8217;s investigation into government response to the deadly Aug. 8, 2023, Lahaina wildfire has concluded, with future wildfire planning and coordination efforts transitioning to the newly established state fire marshal&#8217;s office and the Hawaii Wildfire Management Organization, state Attorney General Anne Lopez announced Thursday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/21/hawaii-news/ag-wraps-review-of-lahaina-wildfire/>
-
----
-
-## Seeking jobs and purpose, fired federal workers form new networks
-
-date: 2025-06-21, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; When Scott Gagnon was fired from his government job this year, he and his laid-off colleagues kept in touch to vent, comfort each other and share job opportunities. It quickly turned into an informal but crucial support group.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/21/nation-world-news/seeking-jobs-and-purpose-fired-federal-workers-form-new-networks/>
-
----
-
-## ‘Little Lobbyists’ urge senators to oppose Trump’s bill cutting Medicaid
-
-date: 2025-06-21, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Landry Bell, a 1-year-old boy who was born with Down syndrome, wriggled and smiled in his big sister&#8217;s lap on the floor outside Republican Sen. Mike Lee&#8217;s office this week as he took a break from going office to office with his mother while she explained how cuts to Medicaid would devastate their family.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/21/nation-world-news/little-lobbyists-urge-senators-to-oppose-trumps-bill-cutting-medicaid/>
-
----
-
-## Tropical Gardening: Hurricane season quiet — so far
-
-date: 2025-06-21, from: Hawaii Tribune Harold
-
-
-				<p>Even though hurricane season officially started June first, the first month is generally quiet and this year is forecasted to have relatively few storms in the Central Pacific. However, it only takes one storm hit to create a big mess.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/21/features/tropical-gardening-hurricane-season-quiet-so-far/>
-
----
-
-## Appeals court lets Trump keep control of California National Guard in LA
-
-date: 2025-06-21, from: Hawaii Tribune Harold
-
-
-				<p>A federal appeals court late Thursday cleared the way for President Donald Trump to keep using the National Guard to respond to immigration protests in Los Angeles, declaring that a judge in San Francisco had erred last week when he ordered Trump to return control of the troops to Gov. Gavin Newsom of California.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/21/nation-world-news/appeals-court-lets-trump-keep-control-of-california-national-guard-in-la/>
-
----
-
-## Judge blocks a Trump effort to prevent international students at Harvard
-
-date: 2025-06-21, from: Hawaii Tribune Harold
-
-
-				<p>A federal judge in Boston sided with Harvard University on Friday and blocked a Trump administration effort to rescind the school&#8217;s right to host international students.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/21/nation-world-news/judge-blocks-a-trump-effort-to-prevent-international-students-at-harvard/>
-
----
-
-## Mahmoud Khalil is released on bail after federal judge’s order
-
-date: 2025-06-21, from: Hawaii Tribune Harold
-
-
-				<p>Mahmoud Khalil, the first pro-Palestinian campus protester detained by the Trump administration, was released on bail Friday after a judge ordered an end to his monthslong imprisonment.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/21/nation-world-news/mahmoud-khalil-is-released-on-bail-after-federal-judges-order/>
-
----
-
-## Europe attempts to provide an off-ramp to Iran in Geneva talks
-
-date: 2025-06-21, from: Hawaii Tribune Harold
-
-
-				<p>LONDON &#8212; As missiles flew between Israel and Iran, diplomats from Europe convened Friday across a table from Iran&#8217;s foreign minister, Abbas Araghchi, in Switzerland to try to find an off-ramp for a rapidly accelerating regional conflict.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/21/nation-world-news/europe-attempts-to-provide-an-off-ramp-to-iran-in-geneva-talks/>
-
----
-
-## LA Dodgers pledge $1 million to support families impacted by ICE raids
-
-date: 2025-06-21, from: Hawaii Tribune Harold
-
-
-				<p>LOS ANGELES &#8212; The Los Angeles Dodgers have committed $1 million toward direct financial assistance for families of immigrants impacted by the surge in detentions and deportations in the region, the team announced on Friday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/21/nation-world-news/la-dodgers-pledge-1-million-to-support-families-impacted-by-ice-raids/>
-
----
-
-## Skunk captured on Oahu, tested for rabies
-
-date: 2025-06-21, from: Hawaii Tribune Harold
-
-
-				<p>A skunk was captured, euthanized and tested for rabies after it was found running around Kakaako Waterfront Park in Honolulu on Wednesday night, state officials said Thursday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/20/hawaii-news/skunk-captured-on-oahu-tested-for-rabies/>
-
----
-
-## Fuaki aspires to make an impact
-
-date: 2025-06-21, from: University of the South Pacific (Fiji)
-
-<p>Watching news presenters on television deliver updates in a confident and professional manner introduced a...</p>
-<p>The post <a href="https://www.usp.ac.fj/news/fuaki-aspires-to-make-an-impact/">Fuaki aspires to make an impact</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
- 
-
-<br> 
-
-<https://www.usp.ac.fj/news/fuaki-aspires-to-make-an-impact/>
 

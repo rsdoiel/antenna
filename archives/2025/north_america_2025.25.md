@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-06-28 14:07:50
+updated: 2025-06-29 06:08:15
 ---
 
 # north america
 
-(date: 2025-06-28 14:07:50)
+(date: 2025-06-29 06:08:15)
+
+---
+
+## Contrarians to SCOTUS: we got your class action right here
+
+date: 2025-06-28, from: The Contrarian
+
+Publisher's Roundup 24 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarians-to-scotus-we-got-your>
+
+---
+
+##  YOU LOVE TO SEE IT: Psychedelic Southern Comfort 
+
+date: 2025-06-28, from: The Lever News
+
+ Republicans stumble in their war on the poor, a big state opens its mind, citizens take on dark money, and a prescription emerges for pharma profiteering.  
+
+<br> 
+
+<https://www.levernews.com/psychedelic-southern-comfort/>
 
 ---
 
@@ -1022,16 +1046,4 @@ A recording from Jennifer Rubin's live video with Steven A. Cook and Ilan Golden
 </audio> <a href="https://api.substack.com/feed/podcast/166496524/f0ea3e37e46af0283b2c5efeb785e9ff.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/breaking-news-us-enters-war>
-
----
-
-##  YOU LOVE TO SEE IT: PAC It Up! 
-
-date: 2025-06-21, from: The Lever News
-
- Billionaire money gets backlash, millions march against a monarch, concert tickets meet market forces, and consumer safety advocates score a win.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-pac-it-up/>
 

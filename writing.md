@@ -1,11 +1,87 @@
 ---
 title: writing
-updated: 2025-06-28 14:07:55
+updated: 2025-06-29 06:08:20
 ---
 
 # writing
 
-(date: 2025-06-28 14:07:55)
+(date: 2025-06-29 06:08:20)
+
+---
+
+## Landfall by James Bradley: Review by Ian Mond
+
+date: 2025-06-28, from: Locus Magazine
+
+<p><strong>Landfall</strong>, James Bradley (Penguin Australia 978-1-76134-988-1, A$34.99, 336pp, tp) April 2025.</p>
+<p>While reading James Bradley’s <strong>Landfall</strong>, Tropi­cal Cyclone Alfred was a day away from striking the southeast coast of Queensland and northern New South Wales. It made landfall just as I fin­ished the novel, downgraded to an ex-Tropical Cyclone but still leaving devastation in its wake. Cyclones are not uncommon in Queensland. In 2011, Cyclone Yassi, a category  <a href="https://locusmag.com/2025/06/landfall-by-james-bradley-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/landfall-by-james-bradley-review-by-ian-mond/>
+
+---
+
+## Meet Me at the Crossroads by Megan Giddings: Review by Abigail Nussbaum
+
+date: 2025-06-28, from: Locus Magazine
+
+<p><strong>Meet Me at the Crossroads</strong>, Megan Giddings (Amistad 978-0-06-333797-8, $28.99, 320pp, hc) June 2025.</p>
+<p>Megan Giddings’s third novel, <strong>Meet Me at the Crossroads</strong>, opens with the worldwide appearance of mysterious doors. They are impregnable and indestructible. They appear and disappear with no apparent schedule. People gather around them to pray, or speculate that they are proof of aliens, or of the theory that we are living in a  <a href="https://locusmag.com/2025/06/meet-me-at-the-crossroads-by-megan-giddings-review-by-abigail-nussbaum/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/meet-me-at-the-crossroads-by-megan-giddings-review-by-abigail-nussbaum/>
+
+---
+
+## A Mastery of Monsters by Liselle Sambury: Review by Alexandra Pierce
+
+date: 2025-06-28, from: Locus Magazine
+
+<p><strong>A Mastery of Monsters</strong>, Liselle Sambury (McElderry 978-1-66595-736-6, $24.99, 592pp, hc). July 2025. Cover by Tom Roberts.</p>
+<p>As Liselle Sambury’s <strong>A Master of Monsters </strong>opens, Augie Black is out clubbing alone with a stolen ID. She drinks and dances until she realises that she has missed the last ferry home, so she walks to her brother’s college dorm to sleep on his floor, reflecting on her miss­ing mother’s probable  <a href="https://locusmag.com/2025/06/a-mastery-of-monsters-by-liselle-sambury-review-by-alexandra-pierce/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/a-mastery-of-monsters-by-liselle-sambury-review-by-alexandra-pierce/>
+
+---
+
+## Magazines Received – June
+
+date: 2025-06-28, from: Locus Magazine
+
+<div class="blockquote">This list covers new SF/F/H print, online, and electronic periodicals (including regularly updated websites) seen by Locus magazine, focusing on those that publish fiction or reviews and criticism. To submit titles for listing on these pages, please send to Locus Publications, 655 13th St. #100, Oakland CA 94612 or email locus@locusmag.com.</div>
+<div>
+<div class="mynomorebulletlist">
+
+<p></p>
+<p>Space and Time</p>
+<ul>
+<li>Angela Yuriko Smith, ed.</li>
+<li>No. 148, Spring/Summer 2025, $12.00 print/$3.99 digital, bian­nual, 88pp, 21 x 27½ </li></ul></div></div> <a href="https://locusmag.com/2025/06/magazines-received-june-3/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/06/magazines-received-june-3/>
+
+---
+
+## Risky Business: Josh Pearce Reviews Mission: Impossible — The Final Reckoning
+
+date: 2025-06-28, from: Locus Magazine
+
+<div class="p-pdf_iframe__page" aria-label="Page 2" data-page-number="2">
+<div class="textLayer">
+<div class="p-pdf_iframe__page" aria-label="Page 1" data-page-number="1">
+<div class="textLayer">
+<p class="western">Amazing action, convoluted writing. Recommended for the spectacle and the stunts, just don&#8217;t expect anything to make much sense.</p>
+<p class="western">Though the franchise started out as spy-action, over the decades it has featured increasingly improbable villains, vehicles, superweapons, and MacGuffins until here we are now at full-on science fiction <b>Mission: Impossible</b>, with a malevolent AI threatening to take over the world&#8217;s nuclear arsenals and Skynet the human race out of </p></div></div></div></div> <a href="https://locusmag.com/2025/06/risky-business-josh-pearce-reviews-mission-impossible-the-final-reckoning/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/06/risky-business-josh-pearce-reviews-mission-impossible-the-final-reckoning/>
 
 ---
 
@@ -535,17 +611,4 @@ date: 2025-06-22, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/06/2025-locus-awards-winners/>
-
----
-
-## The Adventures of Mary Darling by Pat Murphy: Review by Gary K. Wolfe
-
-date: 2025-06-21, from: Locus Magazine
-
-<p><strong>The Adventures of Mary Darling</strong>, Pat Murphy (Tachyon 978-1-61696-438-2, $18.95, 320pp, tp) May 2025.</p>
-<p>Any number of fantasy writers have paid hom­age to Tolkien’s famous quotation about “the Pot of Soup, the Cauldron of Story,” or to Salman Rushdie’s less-cited “sea of stories,” but there are plenty of tales that have voluminous pots all their own. Two of the bigger pots involve Peter Pan and Sherlock Holmes, which Pat  <a href="https://locusmag.com/2025/06/the-adventures-of-mary-darling-by-pat-murphy-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/06/the-adventures-of-mary-darling-by-pat-murphy-review-by-gary-k-wolfe/>
 

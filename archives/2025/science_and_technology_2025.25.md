@@ -1,11 +1,47 @@
 ---
 title: science and technology
-updated: 2025-06-28 14:07:53
+updated: 2025-06-29 06:08:18
 ---
 
 # science and technology
 
-(date: 2025-06-28 14:07:53)
+(date: 2025-06-29 06:08:18)
+
+---
+
+## AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all
+
+date: 2025-06-29, updated: 2025-06-29, from: The Register (UK I.T. News)
+
+<h4>More fiction than science</h4> <p><strong>Feature</strong>  IT consultancy Gartner predicts that more than 40 percent of agentic AI projects will be cancelled by the end of 2027 due to rising costs, unclear business value, or insufficient risk controls.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/29/ai_agents_fail_a_lot/>
+
+---
+
+## Ex-NATO hacker: 'In the cyber world, there's no such thing as a ceasefire'
+
+date: 2025-06-28, updated: 2025-06-28, from: The Register (UK I.T. News)
+
+<h4>Watch out for supply chain hacks especially</h4> <p><strong>interview</strong>  The ceasefire between Iran and Israel may prevent the two countries from firing missiles at each other, but it won&#39;t carry any weight in cyberspace, according to former NATO hacker Candan Bolukbas.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/28/exnato_hacker_ceasefire_iran/>
+
+---
+
+## How to get free software from yesteryear's IT crowd – trick code into thinking it's running on a rival PC
+
+date: 2025-06-28, updated: 2025-06-28, from: The Register (UK I.T. News)
+
+<h4>&#39;This is not a copyright message&#39;</h4> <p>Before plug and play was blowing up Windows 98 on a Comdex stage, Windows 95 engineers were grappling with the technology – and on one fateful day they found some unusual text in the BIOS of several PCs that they had to work around.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/28/hacks_to_get_free_software/>
 
 ---
 
@@ -1854,28 +1890,4 @@ Over the past few months, YouTube has been trying another round of anti-adblock 
 <br> 
 
 <https://www.osnews.com/story/142624/youtubes-new-anti-adblock-measures/>
-
----
-
-## Teens used encrypted chats to recruit for 'violence as a service' murder ring, Europol says
-
-date: 2025-06-21, updated: 2025-06-21, from: The Register (UK I.T. News)
-
-<h4>Skull emoji knife emoji moneybag emoji</h4> <p>Seven people, including a 14-year-old, have been arrested or surrendered to Danish authorities after allegedly using encrypted messaging apps to hire other teenagers for contract killings in what Europol calls a &#34;violence-as-a-service&#34; operation.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/06/21/teen_arrested_murder_for_hire/>
-
----
-
-## Curiosity Blog, Sols 4577-4579: Watch the Skies
-
-date: 2025-06-21, from: NASA breaking news
-
-Written by Deborah Padgett, OPGS Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, June 20, 2025 During the plan covering Sols 4575-4576, Curiosity continued our investigation of mysterious boxwork structures on the shoulders of Mount Sharp. After a successful 56-meter drive (about 184 feet), Curiosity is now parked in a trough cutting […] 
-
-<br> 
-
-<https://science.nasa.gov/blog/curiosity-blog-sols-4577-4579-watch-the-skies/>
 

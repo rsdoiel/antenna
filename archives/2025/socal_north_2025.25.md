@@ -1,11 +1,145 @@
 ---
 title: socal north
-updated: 2025-06-28 14:07:51
+updated: 2025-06-29 06:08:15
 ---
 
 # socal north
 
-(date: 2025-06-28 14:07:51)
+(date: 2025-06-29 06:08:15)
+
+---
+
+## Los Angeles is the ink I used to write this book
+
+date: 2025-06-29, updated: 2025-06-29, from: The LAist
+
+LAist correspondent Adolfo Guzman-Lopez captures the region in poetry and prose in his first collection of writings. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/los-angeles-is-the-ink-i-used-to-write-this-book>
+
+---
+
+## California’s population shrank in Trump’s first immigration crackdown. It could happen again
+
+date: 2025-06-29, updated: 2025-06-29, from: The LAist
+
+Stricter immigration policies under President Trump could reduce migration to California, leading to economic losses and fewer electoral college votes. 
+
+<br> 
+
+<https://laist.com/news/politics/californias-population-shrank-in-trumps-first-immigration-crackdown-it-could-happen-again>
+
+---
+
+## As mosquito season peaks, officials brace for new normal of dengue cases
+
+date: 2025-06-29, updated: 2025-06-29, from: The LAist
+
+Dengue is spreading in parts of the U.S. like California, Texas and Florida. Climate change and limited vaccine access raise concerns for a long-term threat. 
+
+<br> 
+
+<https://laist.com/news/health/as-mosquito-season-peaks-officials-brace-for-new-normal-of-dengue-cases>
+
+---
+
+## Wildfire near Silverwood Lake in San Bernardino County triggers evacuations
+
+date: 2025-06-29, updated: 2025-06-29, from: The LAist
+
+The wildfire near Silverwood Lake started at 3:58 p.m. on Saturday and grew to nearly 500 acres in just hours. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/san-bernardino-county-lake-fire-silverwood>
+
+---
+
+## Fiscal Responsibility Pays Off with Another On-Time and Balanced City Budget
+
+date: 2025-06-28, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin At our meeting earlier this month, your City Council adopted another on-time and balanced budget for Fiscal Year 2025-26 totaling $344.6 million. Getting to this point was a six-month process, with City staff working closely with the City Council Budget Committee to determine what items would be funded for the [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/28/fiscal-responsibility-pays-off-with-another-on-time-and-balanced-city-budget/">Fiscal Responsibility Pays Off with Another On-Time and Balanced City Budget</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/28/fiscal-responsibility-pays-off-with-another-on-time-and-balanced-city-budget/>
+
+---
+
+## Don’t panic! Research planes are flying low over LA
+
+date: 2025-06-28, updated: 2025-06-28, from: The LAist
+
+Two NASA research planes will begin flying across SoCal at lower altitudes and doing some special maneuvers in the sky to collect air samples. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/dont-panic-research-planes-are-flying-low-over-la>
+
+---
+
+## Discover the delicate nature of Northeast LA's Elephant Hill
+
+date: 2025-06-28, updated: 2025-06-28, from: The LAist
+
+A guided nature hike on Saturday seeks to connect Angelenos to these 110 acres of open space in El Sereno. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/elephant-hill-el-sereno-conservation>
+
+---
+
+## New exhibit 'Ode to Dena' explores Altadena’s deep Black artistic legacy
+
+date: 2025-06-28, updated: 2025-06-28, from: The LAist
+
+The exhibit came about because of the wildfires, but its meaning is about much more than flames. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/la-county-altadena-caam-california-african-american-museum-ode-to-dena>
+
+---
+
+## In praise of jasmine, the quintessential LA scent
+
+date: 2025-06-28, updated: 2025-06-28, from: The LAist
+
+As we say goodbye to it’s oh-so-short season, we celebrate that special time when the city becomes drenched in its perfume. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/in-praise-of-jasmine-the-quintessential-la-scent>
+
+---
+
+## 100 ‘elephants’ migrate into Beverly Hills with a message of co-existance
+
+date: 2025-06-28, updated: 2025-06-28, from: The LAist
+
+An art exhibition celebrating interspecies peace will open July 1 at Beverly Gardens Park. And if you have a lot of space and a lot of cash, you can take one home. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/100-elephants-migrate-into-beverly-hills-with-a-message-of-co-existance>
+
+---
+
+## LA man arrested on suspicion of impersonating federal immigration agent in Huntington Park
+
+date: 2025-06-28, updated: 2025-06-28, from: The LAist
+
+The arrest comes amid heightened fears over immigration enforcement sweeps by masked agents across Southern California. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/la-man-arrested-on-suspicion-of-impersonating-federal-immigration-agent-in-huntington-park>
 
 ---
 
@@ -1498,66 +1632,4 @@ The attack marks a major escalation in the burgeoning war between Iran and Israe
 <br> 
 
 <https://laist.com/news/u-s-completes-strikes-on-iran-nuclear-sites-trump-says>
-
----
-
-## Preserving a Community Treasure – William S. Hart Park
-
-date: 2025-06-21, from: City of Santa Clarita
-
-<p>“My ranch William S. Hart Park is for the benefit of the American Public of every race and creed.” – William S. Hart By City Manager Ken Striplin William S. Hart Park has been a cherished part of the Santa Clarita community for nearly 70 years. Whether it’s enjoying a peaceful walk through the picturesque [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/06/21/preserving-a-community-treasure-william-s-hart-park/">Preserving a Community Treasure – William S. Hart Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/06/21/preserving-a-community-treasure-william-s-hart-park/>
-
----
-
-## Gusty winds and fire weather watch on tap for parts of Los Angeles County
-
-date: 2025-06-21, updated: 2025-06-21, from: The LAist
-
-The Antelope Valley and areas along the I-5 corridor are the biggest concerns. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/gusty-winds-and-fire-weather-watch-on-tap-for-parts-of-los-angeles-county>
-
----
-
-## ICE raids quiet SoCal's Asian hubs
-
-date: 2025-06-21, updated: 2025-06-22, from: The LAist
-
-Advocates say popular gathering spots for Asian immigrants are seeing less foot traffic in the wake of ongoing immigration sweeps. 
-
-<br> 
-
-<https://laist.com/news/ice-raids-quiet-socals-asian-hubs>
-
----
-
-## LA Opera is having a once-in-a-decade costume sale
-
-date: 2025-06-21, updated: 2025-06-21, from: The LAist
-
-North America's fourth largest opera company is opening up its closet for a huge costume sale this Saturday. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/la-opera-is-having-a-once-in-a-decade-costume-sale>
-
----
-
-## We went looking for a Japanese cola named 'Los Angeles' — and found a story about home
-
-date: 2025-06-21, updated: 2025-06-21, from: The LAist
-
-A rabbit hole journey into why not one, but two colas from Japan, pay homage to our great city. We don’t have the definitive answer, but we do have a great story to tell. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/japanese-cola-los-angeles>
 

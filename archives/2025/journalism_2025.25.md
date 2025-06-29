@@ -1,11 +1,37 @@
 ---
 title: journalism
-updated: 2025-06-28 14:07:56
+updated: 2025-06-29 06:08:21
 ---
 
 # journalism
 
-(date: 2025-06-28 14:07:56)
+(date: 2025-06-29 06:08:21)
+
+---
+
+## Coauthors Rob and Bob shed light on movie magic, creative leadership in new book
+
+date: 2025-06-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+Rob Carpenter pulls back the Ozian curtain on one of the most enigmatic leadership roles in Hollywood &#8211; the producer.
+This April, UCLA Communication Professor Carpenter published his sixth book, &#8220;The Creative Leader: What Every Leader Should Know About The Art and Science of Creative Intelligence,&#8221; a nonfiction guide to the practical application of creativity as a learnable skill essential to exceptional leadership. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/28/coauthors-rob-and-bob-shed-light-on-movie-magic-creative-leadership-in-new-book/>
+
+---
+
+## UCLA climatologist Marilyn Raphael elected to National Academy of Sciences
+
+date: 2025-06-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+A UCLA professor of geography was elected to the National Academy of Sciences in April.
+Marilyn Raphael is a leading scientist in Antarctic climate and ocean atmospheric interactions around Antarctica, said Laura Landrum, a project scientist at the National Center for Atmospheric Research. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/27/ucla-climatologist-marilyn-raphael-elected-to-national-academy-of-sciences/>
 
 ---
 
@@ -233,16 +259,4 @@ A May 19 forum put on by the UCLA Institute of Transportation Studies examined h
 <br> 
 
 <https://dailybruin.com/2025/06/22/ucla-forum-explores-how-2028-olympics-can-improve-la-accessibility-transportation/>
-
----
-
-## Peaceful protestors rally in Los Angeles on “No Kings Day”
-
-date: 2025-06-21, from: The Sundail (CSUN Student Newspaper)
-
-Tens of thousands of people flooded the streets of LA on Saturday, June 14, joining the “No Kings Day” protest that was held nationwide; the same day as Flag Day,... 
-
-<br> 
-
-<https://sundial.csun.edu/194534/news/peaceful-protestors-rally-in-los-angeles-on-no-kings-day/>
 

@@ -1,11 +1,254 @@
 ---
 title: snapshots
-updated: 2025-06-28 14:08:02
+updated: 2025-06-29 06:08:27
 ---
 
 # snapshots
 
-(date: 2025-06-28 14:08:02)
+(date: 2025-06-29 06:08:27)
+
+---
+
+## Sunday Read: Sex and Soft Power, The Book Everyone is Reading this Summer
+
+date: 2025-06-29, from: Tina Brown
+
+For some reason, everyone I know on both sides of the Atlantic seems to be devouring Kingmaker by Sonia Purnell, the biography of the famed political horizontale Pamela Harriman, perhaps because, with Trump cosplaying master and commander, we all want to be bunkered in those storied war rooms beneath the streets of Westminster, wreathed in her father-in-law Winston Churchill&#8217;s cigar smoke. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/sunday-read-sex-and-soft-power-the>
+
+---
+
+## Processing Cycles
+
+date: 2025-06-29, updated: 2025-06-29, from: Tedium site
+
+You may not have to imagine a world where air conditioning uses more energy than computing for much longer. Also: As the Commodore turns. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17065642/computing-air-conditioning-energy-usage>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-29, from: Dave Winer's linkblog)
+
+Iran will likely be able to produce enriched uranium ‘in a matter of months’, IAEA chief says. 
+
+<br> 
+
+<https://www.theguardian.com/world/2025/jun/29/iran-will-likely-be-able-to-produce-enriched-uranium-in-a-matter-of-months-iaea-chief-says>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-29, from: Dave Winer's linkblog)
+
+Trump Taps Palantir to Compile Data on Americans. 
+
+<br> 
+
+<https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html?unlocked_article_code=1.Sk8.K4sK.WNxui6nCcxOT&smid=url-share>
+
+---
+
+## Priorité à droite
+
+date: 2025-06-29, from: Status-Q blog
+
+I&#8217;m somewhat embarrassed to think of the number of miles I&#8217;ve driven in Europe without fully understanding the Priorité à droite rules &#8212; that&#8217;s the French name, at least, though other countries have something similar. This means you should often give way to traffic simply because it&#8217;s coming from the right, even if, say, you&#8217;re <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/06/29/13183/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<br> 
+
+<https://statusq.org/archives/2025/06/29/13183/>
+
+---
+
+## Inequality, Part V: Predatory Financialization
+
+date: 2025-06-29, from: Paul Krugman
+
+How Wall Street increases disparities 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/inequality-part-v-predatory-financialization>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-29, from: Dave Winer's linkblog)
+
+Senate’s tax bill seeks to gut clean energy; Musk calls it ‘utterly insane.’ 
+
+<br> 
+
+<https://www.washingtonpost.com/climate-environment/2025/06/28/solar-green-energy-tax-bill-trump/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-29, from: Dave Winer's linkblog)
+
+Families share their stories of damage done by vaccine-preventable diseases like measles and rubella. 
+
+<br> 
+
+<https://apnews.com/article/vaccines-measles-polio-whooping-cough-rubella-af4cd1aef8f408a960601df6372f9c32>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-29, from: Dave Winer's linkblog)
+
+Murkowski votes to advance GOP megabill after early misgivings over Medicaid, SNAP cuts. 
+
+<br> 
+
+<https://thehill.com/homenews/senate/5375462-murkowski-votes-to-advance-gop-megabill-after-early-misgivings-over-medicaid-snap-cuts/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-28, from: Dave Winer's linkblog)
+
+Substack Did Not See That Coming. 
+
+<br> 
+
+<https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/>
+
+---
+
+## Generative AI’s crippling and widespread failure to induce robust models of the world
+
+date: 2025-06-28, from: Gary Marcus blog
+
+LLM failures to reason, as documented in Apple&#8217;s Illusion of Thinking paper, are really only part of a much deeper problem 
+
+<br> 
+
+<https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-28, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lsowlstkhc24>
+
+---
+
+## iPadOS Windows
+
+date: 2025-06-28, from: furbo.org
+
+The first thing I installed after the WWDC25 Keynote was the beta for iPadOS. There was only one reason: it had the windows we have all wanted for so long. And generally, windows on iPad work exactly how we want them to. But there&#8217;s a problem, and I suspect that the root cause is that [&#8230;] 
+
+<br> 
+
+<https://furbo.org/2025/06/28/ipados-windows/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-28, from: Robert's feed at BlueSky)
+
+There are times in life when it's necessary to write the book you want to read. 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lsovryixek24>
+
+---
+
+## Maxell MXCP-P100 is a portable cassette player with modern features like Bluetooth and USB-C
+
+date: 2025-06-28, from: Liliputing
+
+<p>The Maxell MXCP-P100 is a portable music player that mixes old-school and modern features. Like any good modern device, it has a built-in rechargeable battery and a USB Type-C port for charging. And it has both a headphone jack and support for Bluetooth 5.4, allowing you to use wired or wireless headphones or speakers. But this [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/maxell-mxcp-p100-is-a-portable-cassette-player-with-modern-features-like-bluetooth-and-usb-c/">Maxell MXCP-P100 is a portable cassette player with modern features like Bluetooth and USB-C</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/maxell-mxcp-p100-is-a-portable-cassette-player-with-modern-features-like-bluetooth-and-usb-c/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-28, from: Dave Winer's linkblog)
+
+We Know Exactly Where the Supreme Court’s Change of Heart Has Come From. 
+
+<br> 
+
+<https://www.nytimes.com/2025/06/28/opinion/supreme-court-ketanji-jackson.html?unlocked_article_code=1.SU8.GXm8.lr97aZUqiDAQ&smid=url-share>
+
+---
+
+## USPS! It’s not possible for me to use your Change of Address tool
+
+date: 2025-06-28, from: Chris Coyier blog
+
+I&#8217;ve tried over the course of a couple of weeks. I&#8217;ve tried in Firefox, Safari, and Chrome. I&#8217;ve ensured there are no browser extensions at all running. I&#8217;ve tried changing little details on the forms in case one of them was tripping it up. I&#8217;ve tried on two different networks, neither of which has anything [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/06/28/usps-its-not-possible-for-me-to-use-your-change-of-address-tool/>
+
+---
+
+## One Fix for DNS Setting Itself On Restart to 127.0.0.1
+
+date: 2025-06-28, from: Chris Coyier blog
+
+For over a year every time I restarted my computer, the internet didn&#8217;t work. The trouble was, and I forgot how I even figured it out at first, was that the DNS Server was set 127.0.0.1 on my WiFi settings (regardless of what network). I&#8217;d come in here, delete it, and they would default back [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/06/28/one-fix-for-dns-setting-itself-on-restart-to-127-0-0-1/>
+
+---
+
+## Killer Whales Make Their Own Tools, Scientists Discover
+
+date: 2025-06-28, from: 404 Media Group
+
+It’s the first observed instance of a marine mammal manufacturing tools. 
+
+<br> 
+
+<https://www.404media.co/killer-whales-make-their-own-tools-scientists-discover/>
+
+---
+
+## Talking With Martin Wolf
+
+date: 2025-06-28, from: Paul Krugman
+
+A podcast series 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/talking-with-martin-wolf>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-28, from: Feed for Alt USDS)
+
+Meta, OpenAI, Palantir execs just became Army Reserve officers to advise on AI strategy.
+
+Defense budgets are up. Civic tech is down. The line between consumer tools and weapons? Almost gone.
+
+We have questions.
+
+https://open.substack.com/pub/altusds/p/when-tech-goes-to-war
+https://open.substack.com/pub/altusds/p/when-tech-goes-to-war?r=5fies6&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lsncgag73k2q>
 
 ---
 
@@ -2470,367 +2713,4 @@ Trump bombs Iranian nuclear sites without congressional authorization.
 <br> 
 
 <https://reason.com/2025/06/21/trump-shreds-the-constitution-by-bombing-iran/>
-
----
-
-## My First Open Source AI Generated Library
-
-date: 2025-06-21, updated: 2025-06-21, from: Simon Willison’s Weblog
-
-<p><strong><a href="https://lucumr.pocoo.org/2025/6/21/my-first-ai-library/">My First Open Source AI Generated Library</a></strong></p>
-Armin Ronacher had Claude and Claude Code do almost <em>all of the work</em> in building, testing, packaging and publishing a new Python library based on his design:</p>
-<blockquote>
-<ul>
-<li>It wrote ~1100 lines of code for the parser</li>
-<li>It wrote ~1000 lines of tests</li>
-<li>It configured the entire Python package, CI, PyPI publishing</li>
-<li>Generated a README, drafted a changelog, designed a logo, made it theme-aware</li>
-<li>Did multiple refactorings to make me happier</li>
-</ul>
-</blockquote>
-<p>The project? <a href="https://github.com/mitsuhiko/sloppy-xml-py">sloppy-xml-py</a>, a lax XML parser (and violation of everything the XML Working Group hold sacred) which ironically is necessary because LLMs themselves frequently output "XML" that includes validation errors.</p>
-<p>Claude's SVG logo design is actually pretty decent, turns out it can draw <a href="https://simonwillison.net/2025/May/22/code-with-claude-live-blog/#live-update-357">more than just bad pelicans</a>!</p>
-<p><center>
-<img alt="Hand drawn style, orange rough rectangly containing &lt; { s } &gt; - then the text Sloppy XML below in black" src="https://static.simonwillison.net/static/2025/sloppy-xml.jpg" />
-</center></p>
-<p>I think experiments like this are a really valuable way to explore the capabilities of these models. Armin's conclusion:</p>
-<blockquote>
-<p>This was an experiment to see how far I could get with minimal manual effort, and to unstick myself from an annoying blocker. The result is good enough for my immediate use case and I also felt good enough to publish it to PyPI in case someone else has the same problem.</p>
-<p>Treat it as a curious side project which says more about what's possible today than what's necessarily advisable.</p>
-</blockquote>
-<p>I'd like to present a slightly different conclusion here. The most interesting thing about this project is that <strong>the code is good</strong>.</p>
-<p>My criteria for good code these days is the following:</p>
-<ol>
-<li>Solves a defined problem, well enough that I'm not tempted to solve it in a different way</li>
-<li>Uses minimal dependencies</li>
-<li>Clear and easy to understand</li>
-<li>Well tested, with tests prove that the code does what it's meant to do</li>
-<li>Comprehensive documentation</li>
-<li>Packaged and published in a way that makes it convenient for me to use</li>
-<li>Designed to be easy to maintain and make changes in the future</li>
-</ol>
-<p><code>sloppy-xml-py</code> fits all of those criteria. It's useful, well defined, <a href="https://github.com/mitsuhiko/sloppy-xml-py/blob/main/sloppy_xml.py">the code is readable</a> with just about the right level of comments, everything is tested, the documentation explains everything I need to know, and it's been shipped to PyPI.</p>
-<p>I'd be proud to have written this myself.</p>
-<p>This example is <em>not</em> an argument for replacing programmers with LLMs. The code is good because Armin is an expert programmer who stayed in full control throughout the process. As I wrote the other day, <a href="https://simonwillison.net/2025/Jun/18/coding-agents/">a skilled individual with both deep domain understanding and deep understanding of the capabilities of the agent</a>.
-
-    <p><small></small>Via <a href="https://bsky.app/profile/mitsuhiko.at/post/3ls4ov5fk7c2l">@mitsuhiko.at</a></small></p>
-
-
-    <p>Tags: <a href="https://simonwillison.net/tags/armin-ronacher">armin-ronacher</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/xml">xml</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/Jun/21/my-first-open-source-ai-generated-library/#atom-everything>
-
----
-
-## Newsboat 2.40 is out
-
-date: 2025-06-21, updated: 2025-06-21, from: Newsboat News
-
-
-            <p>
-                Please welcome the 30th minor release of Newsboat!
-            </p>
-
-            <p>
-                Packagers should take note that Newsboat no longer supports GCC
-                5 and 6. Other than that, this is your run-of-the-mill "updates
-                and improvements" kind of release, with nothing particular to
-                highlight.
-            </p>
-
-            <p>Without further ado, here are the links:
-                    <a href="https://newsboat.org/releases/2.40/newsboat-2.40.tar.xz">tar.xz</a>,
-                    <a href="https://newsboat.org/releases/2.40/newsboat-2.40.tar.xz.asc">asc</a>,
-                    <a href="https://newsboat.org/releases/2.40/docs/newsboat.html">docs</a>,
-                    <a href="https://newsboat.org/releases/2.40/docs/faq.html">FAQ</a>,
-                    <a href="https://github.com/newsboat/newsboat/blob/master/CHANGELOG.md#240---2025-06-21">changelog</a>.
-            </p>
-         
-
-<br> 
-
-<https://newsboat.org/releases/2.40/docs/newsboat.html>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-21, from: Dave Winer's linkblog)
-
-The incubator newsroom. 
-
-<br> 
-
-<https://werd.io/when-people-trust-people-more-than-brands-the-incubator-newsroom/>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-06-21, from: Robert's feed at BlueSky)
-
-Something to think about👇
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3ls5aa64iss2h>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-06-21, from: Robert's feed at BlueSky)
-
-This is the stupidity of Republican tax, trash and spend. 👇
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3ls5a3umuq22h>
-
----
-
-## Edit is now open source
-
-date: 2025-06-21, updated: 2025-06-21, from: Simon Willison’s Weblog
-
-<p><strong><a href="https://devblogs.microsoft.com/commandline/edit-is-now-open-source/">Edit is now open source</a></strong></p>
-Microsoft released a new text editor! Edit is a terminal editor - similar to Vim or nano - that's designed to ship with Windows 11 but is open source, written in Rust and supported across other platforms as well.</p>
-<blockquote>
-<p>Edit is a small, lightweight text editor. It is less than 250kB, which allows it to keep a small footprint in the Windows 11 image.</p>
-</blockquote>
-<p><img alt="Screenshot of alpine-edit text editor interface with File menu open showing: New File Ctrl+N, Open File... Ctrl+O, Save Ctrl+S, Save As..., Close File Ctrl+W, Exit Ctrl+Q. Window title shows &quot;alpine-edit — Untitled-1.txt - edit — com.docker.cli docker run --platform linux/arm...&quot;. Editor contains text &quot;le terminal text editor.&quot; Status bar shows &quot;LF UTF-8 Spaces:4 3:44 * Untitled-1.txt&quot;." src="https://static.simonwillison.net/static/2025/microsoft-edit.jpg" /></p>
-<p>The <a href="https://github.com/microsoft/edit/releases">microsoft/edit GitHub releases page</a> currently has pre-compiled binaries for Windows and Linux, but they didn't have one for macOS.</p>
-<p>(They do have <a href="https://github.com/microsoft/edit/blob/main/README.md#build-instructions">build instructions using Cargo</a> if you want to compile from source.)</p>
-<p>I decided to try and get their released binary working on my Mac using Docker. One thing lead to another, and I've now built and shipped a container to the GitHub Container Registry that anyone with Docker on Apple silicon can try out like this:</p>
-<pre><code>docker run --platform linux/arm64 \
-  -it --rm \
-  -v $(pwd):/workspace \
-  ghcr.io/simonw/alpine-edit
-</code></pre>
-<p>Running that command will download a 9.59MB container image and start Edit running against the files in your current directory. Hit Ctrl+Q or use File -&gt; Exit (the mouse works too) to quit the editor and terminate the container.</p>
-<p>Claude 4 has a training cut-off date of March 2025, so it was able to <a href="https://claude.ai/share/5f0e6547-a3e9-4252-98d0-56f3141c3694">guide me through almost everything</a> even down to which page I should go to in GitHub to create an access token with permission to publish to the registry!</p>
-<p>I wrote up a new TIL on <a href="https://til.simonwillison.net/github/container-registry">Publishing a Docker container for Microsoft Edit to the GitHub Container Registry</a> with a revised and condensed version of everything I learned today.
-
-    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44306892">Hacker News comments</a></small></p>
-
-
-    <p>Tags: <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/microsoft">microsoft</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/docker">docker</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/claude-4">claude-4</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/Jun/21/edit-is-now-open-source/#atom-everything>
-
----
-
-## 1984, but with LLM’s
-
-date: 2025-06-21, from: Gary Marcus blog
-
-&#8220;Who controls the past,&#8217; ran the Party slogan, &#8216;controls the future: who controls the present controls the past.&#8217;&#8221; - 1984, George Orwell 
-
-<br> 
-
-<https://garymarcus.substack.com/p/1984-but-with-llms>
-
----
-
-## model.yaml
-
-date: 2025-06-21, updated: 2025-06-21, from: Simon Willison’s Weblog
-
-<p><strong><a href="https://modelyaml.org/">model.yaml</a></strong></p>
-From their <a href="https://github.com/modelyaml/modelyaml">GitHub repo</a> it looks like this effort quietly launched a couple of months ago, driven by the <a href="https://lmstudio.ai/">LM Studio</a> team. Their goal is to specify an "open standard for defining crossplatform, composable AI models".</p>
-<p>A model can be defined using a YAML file that <a href="https://lmstudio.ai/models/mistralai/mistral-small-3.2">looks like this</a>:</p>
-<pre><span class="pl-ent">model</span>: <span class="pl-s">mistralai/mistral-small-3.2</span>
-<span class="pl-ent">base</span>:
-  - <span class="pl-ent">key</span>: <span class="pl-s">lmstudio-community/mistral-small-3.2-24b-instruct-2506-gguf</span>
-    <span class="pl-ent">sources</span>:
-      - <span class="pl-ent">type</span>: <span class="pl-s">huggingface</span>
-        <span class="pl-ent">user</span>: <span class="pl-s">lmstudio-community</span>
-        <span class="pl-ent">repo</span>: <span class="pl-s">Mistral-Small-3.2-24B-Instruct-2506-GGUF</span>
-<span class="pl-ent">metadataOverrides</span>:
-  <span class="pl-ent">domain</span>: <span class="pl-s">llm</span>
-  <span class="pl-ent">architectures</span>:
-    - <span class="pl-s">mistral</span>
-  <span class="pl-ent">compatibilityTypes</span>:
-    - <span class="pl-s">gguf</span>
-  <span class="pl-ent">paramsStrings</span>:
-    - <span class="pl-c1">24B</span>
-  <span class="pl-ent">minMemoryUsageBytes</span>: <span class="pl-c1">14300000000</span>
-  <span class="pl-ent">contextLengths</span>:
-    - <span class="pl-c1">4096</span>
-  <span class="pl-ent">vision</span>: <span class="pl-c1">true</span></pre>
-
-<p>This should be enough information for an LLM serving engine - such as LM Studio - to understand where to get the model weights (here that's <a href="https://huggingface.co/lmstudio-community/Mistral-Small-3.2-24B-Instruct-2506-GGUF">lmstudio-community/Mistral-Small-3.2-24B-Instruct-2506-GGUF</a> on Hugging Face, but it leaves space for alternative providers) plus various other configuration options and important metadata about the capabilities of the model.</p>
-<p>I like this concept a lot. I've actually been considering something similar for my LLM tool - my idea was to use Markdown with a YAML frontmatter block - but now that there's an early-stage standard for it I may well build on top of this work instead.</p>
-<p>I couldn't find any evidence that anyone outside of LM Studio is using this yet, so it's effectively a one-vendor standard for the moment. All of the models in their <a href="https://lmstudio.ai/models">Model Catalog</a> are defined using model.yaml.
-
-
-    <p>Tags: <a href="https://simonwillison.net/tags/standards">standards</a>, <a href="https://simonwillison.net/tags/yaml">yaml</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/lm-studio">lm-studio</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/Jun/21/model-yaml/#atom-everything>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-06-21, from: Robert's feed at BlueSky)
-
-Thread 👇
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3ls4ynxorec2p>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-06-21, from: Robert's feed at BlueSky)
-
-Stupid Congressional choices 👇
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3ls4y4x2l7k2p>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-21, from: Dave Winer's linkblog)
-
-The Copilot Delusion. (I use ChatGPT as a consultant. It&#39;s incredible about facts, it knows things I&#39;ll never find. But you can&#39;t let it drive the direction of the work, it has terrible judgement.) 
-
-<br> 
-
-<https://deplet.ing/the-copilot-delusion/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-21, from: Dave Winer's linkblog)
-
-How Tehran Might Be Playing Trump. 
-
-<br> 
-
-<https://www.theatlantic.com/ideas/archive/2025/06/iran-trump-taco-play/683271/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-21, from: Dave Winer's linkblog)
-
-Just a guess, but the people doing the &quot;ice&quot; raids are not real police any more than the &quot;doge&quot; people are/were actually part of the US government. 
-
-<br> 
-
-<http://scripting.com/2025/06/21.html#a142915>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-06-21, from: Robert's feed at BlueSky)
-
-👇
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3ls4s6fqhts2n>
-
----
-
-## Weekend Read: When Princess Diana Dropped the Mask
-
-date: 2025-06-21, from: Tina Brown
-
-My take on Dianaworld, a new biography about Diana that I couldn&#8217;t resist reviewing for one of my favorite brainy Brit mags, The New Statesman 
-
-<br> 
-
-<https://tinabrown.substack.com/p/weekend-read-when-princess-diana>
-
----
-
-## ChatGPT May Be Linked to 'Cognitive Debt,' New Study Finds
-
-date: 2025-06-21, from: 404 Media Group
-
-A preprint study found that participants who used an LLM to write essays performed worse “at all levels” than those who didn’t. 
-
-<br> 
-
-<https://www.404media.co/is-chatgpt-rotting-our-brains-new-study-suggests-it-does/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-21, from: Dave Winer's linkblog)
-
-As ICE Raids Continue, Parts of a Vibrant City Go Empty. 
-
-<br> 
-
-<https://www.motherjones.com/politics/2025/06/los-angeles-immigration-ice-empty-hiding/>
-
----
-
-## Will the Midterms Be a Blowout?
-
-date: 2025-06-21, from: Paul Krugman
-
-A conversation with David Nir and G. Elliott Morris 
-
-<br> 
-
-<https://paulkrugman.substack.com/p/will-the-midterms-be-a-blowout>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-06-21, from: Robert's feed at BlueSky)
-
-👇
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3ls3wbbws322i>
-
----
-
-## Quoting FAQ for Your Brain on ChatGPT
-
-date: 2025-06-21, updated: 2025-06-21, from: Simon Willison’s Weblog
-
-<blockquote cite="https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/#faq-is-it-safe-to-say-that-llms-are-in-essence-making-us-dumber"><p><strong>Is it safe to say that LLMs are, in essence, making us "dumber"?</strong></p>
-<p>No!  Please do not use the words like “stupid”, “dumb”, “brain rot”, "harm", "damage",  and so on. It does a huge disservice to this work, as we did not use this vocabulary in the paper, especially if you are a journalist reporting on it.</p></blockquote>
-<p class="cite">&mdash; <a href="https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/#faq-is-it-safe-to-say-that-llms-are-in-essence-making-us-dumber">FAQ for Your Brain on ChatGPT</a>, a paper that has attracted a lot of low quality coverage</p>
-
-    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/Jun/21/faq-for-your-brain-on-chatgpt/#atom-everything>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-06-21, from: Dave Winer's linkblog)
-
-ICE believes it will never face accountability again. 
-
-<br> 
-
-<https://www.doomsdayscenario.co/p/ice-believes-it-will-never-face-accountability-again>
-
----
-
-## <default:div xmlns="http://www.w3.org/1999/xhtml" class="if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14"/>
-
-date: 2025-06-21, updated: 2025-06-21, from: Tantek Çelik's blog
-
- 
-
-<br> 
-
-<https://tantek.com/2025/171/t1/microformats-20-years>
 

@@ -1,11 +1,84 @@
 ---
 title: home
-updated: 2025-06-28 14:07:58
+updated: 2025-06-29 06:08:23
 ---
 
 # home
 
-(date: 2025-06-28 14:07:58)
+(date: 2025-06-29 06:08:23)
+
+---
+
+## 13 Blue Birds in North Carolina (With Pictures and Identification)
+
+date: 2025-06-29, from: Yard Life blog
+
+<p>North Carolina is home to a vibrant variety of bird species, and among them, blue birds stand out with their ... </p>
+<p class="read-more-container"><a title="13 Blue Birds in North Carolina (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/13-blue-birds-in-north-carolina-with-pictures-and-identification/#more-31390" aria-label="Read more about 13 Blue Birds in North Carolina (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/13-blue-birds-in-north-carolina-with-pictures-and-identification/">13 Blue Birds in North Carolina (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/13-blue-birds-in-north-carolina-with-pictures-and-identification/>
+
+---
+
+## 20 Yellow Birds in Georgia (With Pictures and Identification)
+
+date: 2025-06-29, from: Yard Life blog
+
+<p>Georgia is home to a vibrant variety of bird species, and among the most striking are the yellow birds in ... </p>
+<p class="read-more-container"><a title="20 Yellow Birds in Georgia (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/20-yellow-birds-in-georgia-with-pictures-and-identification/#more-31384" aria-label="Read more about 20 Yellow Birds in Georgia (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-yellow-birds-in-georgia-with-pictures-and-identification/">20 Yellow Birds in Georgia (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-yellow-birds-in-georgia-with-pictures-and-identification/>
+
+---
+
+## How to Grow and Care for Italian Jasmine
+
+date: 2025-06-28, from: The Gardener's Path
+
+<p>Italian jasmine is an easy-care plant with long, arching branches that burst with bright yellow flowers from late spring through fall. It tolerates drought, heat, and a range of soil conditions, and can be trained as a shrub or vine to suit your space. Learn how to grow and care for Italian jasmine in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-italian-jasmine/">How to Grow and Care for Italian Jasmine</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-italian-jasmine/>
+
+---
+
+## 25 Most Dangerous Animals in Florida (With Pictures)
+
+date: 2025-06-28, from: Yard Life blog
+
+<p>Florida is home to a diverse range of wildlife, including some of the most dangerous animals in the United States. ... </p>
+<p class="read-more-container"><a title="25 Most Dangerous Animals in Florida (With Pictures)" class="read-more button" href="https://ownyardlife.com/25-most-dangerous-animals-in-florida-with-pictures/#more-31353" aria-label="Read more about 25 Most Dangerous Animals in Florida (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/25-most-dangerous-animals-in-florida-with-pictures/">25 Most Dangerous Animals in Florida (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/25-most-dangerous-animals-in-florida-with-pictures/>
+
+---
+
+## Girdling Lamb avocado trees to get fruit every year
+
+date: 2025-06-28, from: Greg Alder's blog, Yard Post
+
+<p>While I like many things about the Lamb variety of avocado (one of which is how late the fruit can hang on the tree), one of its weaknesses is that it tends to make a lot of avocados one year but little the next. Alternate bearing, this is called. So a handful of years ago, [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/girdling-lamb-avocado-trees-to-get-fruit-every-year/">Girdling Lamb avocado trees to get fruit every year</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/girdling-lamb-avocado-trees-to-get-fruit-every-year/>
 
 ---
 
@@ -1660,138 +1733,4 @@ date: 2025-06-22, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/12-blue-birds-in-maryland-with-pictures-and-identification/>
-
----
-
-## How to Grow Hairy Vetch as a Cover Crop
-
-date: 2025-06-21, from: The Gardener's Path
-
-<p>Hairy vetch (Vicia villosa) is a vigorous, sprawling legume with fine, silvery foliage and vibrant purple flowers. Often grown as a winter-hardy cover crop, it fixes nitrogen, suppresses weeds, improves soil structure, and supports pollinators. Learn how to use hairy vetch as a cover crop in this guide. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/how-to/composting/hairy-vetch-cover-crop/">How to Grow Hairy Vetch as a Cover Crop</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/how-to/composting/hairy-vetch-cover-crop/>
-
----
-
-## 7 Red Birds in Maryland (With Pictures and Identification)
-
-date: 2025-06-21, from: Yard Life blog
-
-<p>For anyone who loves birdwatching, few sights are as thrilling as spotting vibrant red birds in Maryland. Their brilliant plumage ... </p>
-<p class="read-more-container"><a title="7 Red Birds in Maryland (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/7-red-birds-in-maryland-with-pictures-and-identification/#more-30802" aria-label="Read more about 7 Red Birds in Maryland (With Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/7-red-birds-in-maryland-with-pictures-and-identification/">7 Red Birds in Maryland (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/7-red-birds-in-maryland-with-pictures-and-identification/>
-
----
-
-## 9 Common Owls in Pennsylvania (With Pictures and Identification)
-
-date: 2025-06-21, from: Yard Life blog
-
-<p>Owls in Pennsylvania are a true delight for birdwatchers who enjoy the quiet beauty of nighttime wildlife. From deep forests ... </p>
-<p class="read-more-container"><a title="9 Common Owls in Pennsylvania (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/9-common-owls-in-pennsylvania-with-pictures-and-identification/#more-30795" aria-label="Read more about 9 Common Owls in Pennsylvania (With Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/9-common-owls-in-pennsylvania-with-pictures-and-identification/">9 Common Owls in Pennsylvania (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/9-common-owls-in-pennsylvania-with-pictures-and-identification/>
-
----
-
-## 18 Scorpions in California (With Pictures and Identification)
-
-date: 2025-06-21, from: Yard Life blog
-
-<p>California is home to an impressive diversity of scorpions, with species adapted to its deserts, forests, and coastal hills. These ... </p>
-<p class="read-more-container"><a title="18 Scorpions in California (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/18-scorpions-in-california-with-pictures-and-identification/#more-30768" aria-label="Read more about 18 Scorpions in California (With Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/18-scorpions-in-california-with-pictures-and-identification/">18 Scorpions in California (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/18-scorpions-in-california-with-pictures-and-identification/>
-
----
-
-## 4 Types of Deer in Pennsylvania (With Pictures and Identification)
-
-date: 2025-06-21, from: Yard Life blog
-
-<p>Deer are an iconic part of Pennsylvania’s wildlife heritage, deeply woven into the natural landscape and the cultural traditions of ... </p>
-<p class="read-more-container"><a title="4 Types of Deer in Pennsylvania (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/4-types-of-deer-in-pennsylvania-with-pictures-and-identification/#more-30757" aria-label="Read more about 4 Types of Deer in Pennsylvania (With Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/4-types-of-deer-in-pennsylvania-with-pictures-and-identification/">4 Types of Deer in Pennsylvania (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/4-types-of-deer-in-pennsylvania-with-pictures-and-identification/>
-
----
-
-## 12 Hawks in Kentucky (With Pictures and Identification)
-
-date: 2025-06-21, from: Yard Life blog
-
-<p>Kentucky offers a diverse habitat that attracts a wide variety of raptors throughout the year. Among these impressive birds of ... </p>
-<p class="read-more-container"><a title="12 Hawks in Kentucky (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/12-hawks-in-kentucky-with-pictures-and-identification/#more-30747" aria-label="Read more about 12 Hawks in Kentucky (With Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/12-hawks-in-kentucky-with-pictures-and-identification/">12 Hawks in Kentucky (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/12-hawks-in-kentucky-with-pictures-and-identification/>
-
----
-
-## 22 Yellow Birds in Alabama (With Pictures and Identification)
-
-date: 2025-06-21, from: Yard Life blog
-
-<p>I’ve always found endless joy in watching birds, especially those with brilliant yellow feathers, and to me, Alabama is truly ... </p>
-<p class="read-more-container"><a title="22 Yellow Birds in Alabama (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/22-yellow-birds-in-alabama-with-pictures-and-identification/#more-30738" aria-label="Read more about 22 Yellow Birds in Alabama (With Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/22-yellow-birds-in-alabama-with-pictures-and-identification/">22 Yellow Birds in Alabama (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/22-yellow-birds-in-alabama-with-pictures-and-identification/>
-
----
-
-## 4 Venomous Spiders in New Mexico (Pictures and Identification)
-
-date: 2025-06-21, from: Yard Life blog
-
-<p>New Mexico hosts several fascinating spider species, but some of the most important to know about are the venomous spiders ... </p>
-<p class="read-more-container"><a title="4 Venomous Spiders in New Mexico (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/4-venomous-spiders-in-new-mexico-pictures-and-identification/#more-30727" aria-label="Read more about 4 Venomous Spiders in New Mexico (Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/4-venomous-spiders-in-new-mexico-pictures-and-identification/">4 Venomous Spiders in New Mexico (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/4-venomous-spiders-in-new-mexico-pictures-and-identification/>
-
----
-
-## 3 Common Eagles in Utah (With Pictures and Identification)
-
-date: 2025-06-21, from: Yard Life blog
-
-<p>Eagles in Utah are a breathtaking sight, soaring across the state’s vast skies and rugged landscapes. With their massive wingspans ... </p>
-<p class="read-more-container"><a title="3 Common Eagles in Utah (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-common-eagles-in-utah-with-pictures-and-identification/#more-30716" aria-label="Read more about 3 Common Eagles in Utah (With Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/3-common-eagles-in-utah-with-pictures-and-identification/">3 Common Eagles in Utah (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/3-common-eagles-in-utah-with-pictures-and-identification/>
 

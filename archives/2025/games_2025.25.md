@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-06-28 14:07:56
+updated: 2025-06-29 06:08:20
 ---
 
 # games
 
-(date: 2025-06-28 14:07:56)
+(date: 2025-06-29 06:08:20)
+
+---
+
+## The Woman in the Yard, The Day the Earth Blew Up, and every movie new to streaming this weekend
+
+date: 2025-06-28, updated: 2025-06-26, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. Porky Pig and Daffy Duck fight sentient bubblegum monsters animated with John Carpenter-style body horror in The Day the Earth Blew Up: A Looney Tunes Movie, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/609119/new-movies-watch-woman-in-the-yard-looney-tunes-jurassic-games>
+
+---
+
+## Pokémon Go Fest 2025 event habitat spawns and bonuses
+
+date: 2025-06-28, updated: 2025-06-28, from: Polygon Website
+
+Pokémon Go&#8216;s big yearly event is upon us. Pokémon Go Fest 2025 comes with its usual perks, including rotating spawns and the global debut of the Crowned forms of Zacian and Zamazenta. The Crowned forms are the main feature here, encouraging all players to hop into raids to score energy to turn their Hero of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/609534/fest-2025-global-habitat-schedule-ticket-perks>
+
+---
+
+## The first Demon Slayer: Infinity Castle trailer kicks off a trilogy in epic fashion
+
+date: 2025-06-28, updated: 2025-06-28, from: Polygon Website
+
+After revolutionizing the anime industry with one of the most popular first seasons in the genre’s history (followed by five more that were just as successful) and the highest-grossing anime movie of all time, the Demon Slayer franchise is ready for the beginning of the end. Demon Slayer: Kimetsu no Yaiba Infinity Castle, the first [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/609538/demon-slayer-infinity-castle-trailer-trilogy>
+
+---
+
+## Atomic Heart team wants to &#8216;troll flat-earthers&#8217; with new MMO The Cube
+
+date: 2025-06-28, updated: 2025-06-28, from: Polygon Website
+
+We’ve all seen our fair share of battle arenas, but a battle arena in the form of a floating, rotating, basically shape-shifting block? That’s new. It’s called (what else?) The Cube, and it’s a massive multiplayer shooter from Atomic Heart developer Mundfish. Of all the 2025 Summer Game Fest announcements, The Cube struck me, thanks [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/preview/609494/the-cube-interview-atomic-heart-developers-mundfish>
+
+---
+
+## Denzel Washington’s most underrated thriller is about to leave Netflix
+
+date: 2025-06-28, updated: 2025-06-28, from: Polygon Website
+
+The Equalizer 3 wouldn’t qualify as the jewel of Denzel Washington’s filmography, but it belongs on the crown. Skeptics: Please watch this one on Netflix before it’s gone on July 1. Washington has two Oscars and nine nominations to his name, plus multiple Tonys for his stage work, and he’s devoted a good portion of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/609740/denzel-washington-equalizer-3-netflix>
+
+---
+
+## All celebrity cameos and cast in Death Stranding 2: On the Beach
+
+date: 2025-06-28, updated: 2025-06-27, from: Polygon Website
+
+Celebrity cameos are a huge part of Death Stranding 2: On the Beach, the PlayStation 5 game about going “Oh hey look, it’s that guy” while you navigate the apocalypse. The cast of Death Stranding 2 — both the main cast and the characters who pop up in bit parts — is full of stars [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/609570/death-stranding-2-cameos-celebrities-cast-all-where-to-find>
+
+---
+
+## Pokémon Go ‘A Hero’s Journey’ choose a path quest steps — Zacian or Zamazenta?
+
+date: 2025-06-28, updated: 2025-06-28, from: Polygon Website
+
+If you bought the $14.99 ticket for Pokémon Go Fest 2025, you’ll have access to the “A Hero’s Journey” Special Research, which sets you up with resources one of the two Legendary dogs, Zacian and Zamazenta, including enough Crowned Energy to power one of them up. This research will only be available to you if [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/609636/heros-journey-choose-a-path-quest-steps-zacian-zamazenta-special-research>
+
+---
+
+## Pokémon Go &#8216;Full Steam Ahead&#8217; Volcanion Special Research quest
+
+date: 2025-06-28, updated: 2025-06-28, from: Polygon Website
+
+If you&#8217;re participating in the full-ticketed Pokémon Go Fest: Global 2025 event, then you&#8217;ll get access to a new Special Research set focused on the Pokémon Volcanion. You will need to login during the Go Fest event (on June 28 and 29 from 10 a.m. until 6 p.m.) to get the research. Once you do [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/609615/volcanion-special-research-full-steam-ahead>
+
+---
+
+## How to get Crowned Sword Zacian and Crowned Shield Zamazenta in Pokémon Go
+
+date: 2025-06-28, updated: 2025-06-28, from: Polygon Website
+
+The Crowned forms of Zacian and Zamazenta are getting their time in the spotlight as part of Pokémon Go Fest 2025, allowing you to power up these puppies into their big strong forms – that can even be used in Max Battles, even though they&#8217;re not Dynamax. Unlike previous special Legendary Pokémon that use energy, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/609521/crowned-form-zacian-zamazenta-energy-how-to-get>
 
 ---
 
@@ -810,52 +918,4 @@ There are five official Die Hard movies. Given star Bruce Willis’ retirement f
 <br> 
 
 <https://www.polygon.com/what-to-watch/608247/5-best-movies-like-die-hard-knockoffs>
-
----
-
-## We need a new Ring Fit Adventure on Switch 2
-
-date: 2025-06-21, updated: 2025-06-21, from: Polygon Website
-
-It has been six years since Ring Fit Adventure, the Nintendo Switch fitness game that asked players to defeat monsters (and a sexy dragon) through exercise. The workout game used the Joy-Cons’ accelerometers to measure your movements and translate them into fitness attacks on screen. It’s weird, it’s wacky, but it worked. I played quite [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/nintendo-switch-2/607550/ring-fit-adventure-2>
-
----
-
-## Wizard of Legend 2 is the co-op game of the year — even if it’s broken
-
-date: 2025-06-21, updated: 2025-06-20, from: Polygon Website
-
-Wizard of Legend 2 is about as good as roguelikes get. It’s a shame then that I’ve spent more time trying to play Wizard of Legend 2 than I’ve spent actually playing Wizard of Legend 2. The original Wizard of Legend, developed by Contingent99, quickly amassed a cult following, due to charmingly minimalist vibes and [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/impressions/608315/wizard-legend-2-co-op>
-
----
-
-## Why 28 Months Later didn’t happen
-
-date: 2025-06-21, updated: 2025-06-20, from: Polygon Website
-
-Nearly 22 years after Danny Boyle shook up the zombie genre with 28 Days Later, the director makes a return to the saga of the infested with this week’s 28 Years Later. As the title implies, it’s been a long time coming.&#160; After making future Oscar-winner Cillian Murphy a breakout star and earning over $70 [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/horror/608237/why-28-months-later-skipped-28-years-later>
-
----
-
-## Pokémon Go Jangmo-o Community Day guide
-
-date: 2025-06-21, updated: 2025-06-20, from: Polygon Website
-
-Pokémon Go is having a Jangmo-o Community Day event on June 21 from 2-5 p.m. in your local time. As expected with a Community Day event, Jangmo-o will spawn in huge numbers with a high chance to appear shiny. There are also several other bonuses and perks, which we’ve list out below. How do I [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/607806/jangmo-o-community-day-shiny-kommo-o-moveset>
 

@@ -1,11 +1,888 @@
 ---
 title: planet
-updated: 2025-06-28 14:07:49
+updated: 2025-06-29 06:08:13
 ---
 
 # planet
 
-(date: 2025-06-28 14:07:49)
+(date: 2025-06-29 06:08:13)
+
+---
+
+## Move to halt project to build social homes 'a setback'
+
+date: 2025-06-29, from: RTÉ News
+
+The Government has been forced to defend the decision to stop a public-private partnership project that would have built thousands of new homes in Dublin city and surrounding counties. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0629/1520915-housing-public-private-partnerships/>
+
+---
+
+## Israeli court postpones Netanyahu appearance in trial
+
+date: 2025-06-29, from: RTÉ News
+
+An Israeli court has postponed its prime minister Benjamin Netanyahu's testimony in his corruption trial after he requested a delay with the support of US President Donald Trump, in a ruling published by the premier's party. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0629/1520916-netanyahu-israeli-court/>
+
+---
+
+## Climate shelters as Europe heatwave intensifies
+
+date: 2025-06-29, from: RTÉ News
+
+Authorities across southern Europe have urged people to seek shelter and protect the most vulnerable as punishing temperatures from Spain to Portugal, Italy and France climbed higher in the summer's first major heatwave. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0629/1520910-heatwave-europe/>
+
+---
+
+## More Palestinians killed in new wave of Gaza strikes
+
+date: 2025-06-29, from: Vatican News
+
+
+                    <p>At least 81 Palestinians were killed in Israeli airstrikes across Gaza over a 24-hour period, according to Gaza health officials, as Israeli forces targeted areas where displaced civilians were sheltering.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/palestians-killed-israeli-strikes-gaza-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/palestians-killed-israeli-strikes-gaza-war.html>
+
+---
+
+## All-Ireland quarter-final: Galway v Meath updates
+
+date: 2025-06-29, from: RTÉ News
+
+The All-Ireland football semi-final will be known by this evening, with Galway taking on Meath, and Armagh and Kerry locking horns in the last eight today. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0629/1520897-all-ireland-quarter-final-galway-v-meath-updates/>
+
+---
+
+## DR Congo: New initiative to eliminate HIV in children ‘a beacon of hope’
+
+date: 2025-06-29, from: United Nations, Top Stories
+
+The Democratic Republic of the Congo (DRC) has launched a bold new national initiative aimed at eliminating AIDS among children by 2030 – a move hailed by the United Nations as “a beacon of hope” amid growing global funding constraints.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1165036>
+
+---
+
+## Pope Leo XIV thanks faithful for support of Peter’s Pence Collection
+
+date: 2025-06-29, from: Vatican News
+
+
+                    <p>On the Solemnity of Saints Peter and Paul, Pope Leo XIV expresses gratitude for the faithful’s support of the Peter’s Pence collection, highlighting its significance as a sign of communion with the papacy. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-peters-pence-pallium-rome-feast-quo-vadis.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-peters-pence-pallium-rome-feast-quo-vadis.html>
+
+---
+
+## Mary Hanafin seeking FF nomination to run for President
+
+date: 2025-06-29, from: RTÉ News
+
+Former government minister Mary Hanafin has said she would love the opportunity to run for President as a Fianna Fáil candidate. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0629/1520904-mary-hanafin/>
+
+---
+
+## Pope prays for Bangui school tragedy victims and appeals for peace through diplomacy
+
+date: 2025-06-29, from: Vatican News
+
+
+                    <p>Pope Leo XIV expresses closeness to all those affected by a stampede at a High School in the Central African Republic, assuring his prayers for the victims.  He also appeals for a diplomatic solution to the wars afflicting the globe.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-prayers-bangui-central-african-republic-tragedy.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-prayers-bangui-central-african-republic-tragedy.html>
+
+---
+
+## Iran has 'serious doubts' over Israel's truce commitment
+
+date: 2025-06-29, from: RTÉ News
+
+Iran's armed forces chief of staff Abdolrahim Mousavi has said that Tehran was not convinced Israel would abide by a ceasefire that ended their 12-day war earlier this month. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0629/1520902-iran-israel-war/>
+
+---
+
+## People on sinking Tuvalu seek Australia's climate visas
+
+date: 2025-06-29, from: RTÉ News
+
+More than one-third of the people in the tiny Pacific nation of Tuvalu, which scientists predict will be submerged by rising seas, have applied for a landmark climate visa to migrate to Australia, according to official figures. 
+
+<br> 
+
+<https://www.rte.ie/news/newslens/2025/0629/1520898-tuvalu-climate-visa/>
+
+---
+
+## Pope Leo XIV at Angelus: May unity be forged in witness and forgiveness
+
+date: 2025-06-29, from: Vatican News
+
+
+                    <p>On the Feast of Saints Peter and Paul, Pope Leo XIV highlights the enduring call to Christian unity, grounded in the shared witness of martyrdom and the transformative power of forgiveness. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-angelus-feast-sts-peter-paul-christian-unity.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-angelus-feast-sts-peter-paul-christian-unity.html>
+
+---
+
+## Kneecap, Bob Vylan Glastonbury shows examined by police
+
+date: 2025-06-29, from: RTÉ News
+
+British police have said they were considering whether to launch an investigation after performers at Glastonbury Festival, including Belfast rap trio Kneecap, made anti-Israel comments during their shows. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0629/1520889-kneecap-glastonbury/>
+
+---
+
+## Pope Leo XIV: Peter and Paul, examples of communion and harmony
+
+date: 2025-06-29, from: Vatican News
+
+
+                    <p>Presiding over the Mass on the Solemnity of the patron Saints of the Diocese and City of Rome, with the blessing and imposition of the pallium on the new Metropolitan Archbishops — Leo XIV invites the faithful to contemplate the two Apostles. Though different in their gifts and approaches, they lived “a fruitful harmony in diversity.”</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-peter-and-paul-examples-of-communion-and-harmony.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-peter-and-paul-examples-of-communion-and-harmony.html>
+
+---
+
+## Israel tells people in northern Gaza to evacuate as Trump issues call for war to end
+
+date: 2025-06-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7573781.1751199899!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza.JPG' alt='Women weep at a funeral in Gaza.' width='620' height='349' title='Mourners react during the funeral of Palestinians killed in an overnight Israeli strike on a tent, according to Gaza&apos;s health ministry, at Nasser Hospital in Khan Younis, southern Gaza Strip, June 29, 2025. REUTERS/Hatem Khaled'/><p>The Israeli military ordered Palestinians to evacuate areas in northern Gaza on Sunday before intensified fighting against Hamas, as U.S. President Donald Trump called for an end to the war amid renewed efforts to broker a ceasefire.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/israel-army-evacuations-north-gaza-trump-1.7573777?cmp=rss>
+
+---
+
+## Evacuation orders as Trump says 'make the deal in Gaza'
+
+date: 2025-06-29, from: RTÉ News
+
+The Israeli military has ordered Palestinians to evacuate areas in northern Gaza as US President Donald Trump called for an end to the conflict amid renewed efforts to broker a ceasefire. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0629/1520880-israel-gaza/>
+
+---
+
+## Zelensky calls for aid amid large-scale Russian attack
+
+date: 2025-06-29, from: RTÉ News
+
+A Ukrainian F-16 fighter pilot died in a crash while repelling a Russian air attack that involved hundreds of drones, cruise and ballistic missiles, authorities have said as Moscow intensifies night-time air barrages in the fourth year of war. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0629/1520873-ukraine-russia-strikes/>
+
+---
+
+## Murder inquiry after pregnant woman found dead in Co Down
+
+date: 2025-06-29, from: RTÉ News
+
+Police have begun a murder inquiry after a pregnant woman was found dead in Co Down. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0629/1520870-woman-down-death/>
+
+---
+
+## Senate Republicans advance Trump's 'Big Beautiful Bill' after dramatic late-night vote
+
+date: 2025-06-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7497486.1743364334!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='A person waves in the backseat of a car.' width='620' height='349' title='President Donald Trump waves to supporters from his limousine as he arrives at Trump International Golf Club, Saturday, March 29, 2025, in West Palm Beach, Fla. (AP Photo/Manuel Balce Ceneta)'/><p>Senate Republicans voting in a dramatic late Saturday session narrowly cleared a key procedural step as they race to advance U.S. President Donald Trump's package of tax breaks, spending cuts and bolstered deportation funds by his Fourth of July deadline.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-president-trump-big-beautiful-bill-1.7573754?cmp=rss>
+
+---
+
+## 'Die trying to live' - Survivor on Srebrenica genocide
+
+date: 2025-06-29, from: RTÉ News
+
+On the 30th anniversary of the genocide at Srebrenica in eastern Bosnia Herzegovina, Paul Cunningham tells the story of one man who survived the genocide, but whose four brothers were killed. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0629/1520853-anniversary-srebrenica-genocide/>
+
+---
+
+## Who is going to inspect Iran's nuclear sites now?
+
+date: 2025-06-29, from: RTÉ News
+
+Following US and Israeli attacks on Iran's nuclear sites, Tehran is considering withdrawing from the UN's nuclear non-proliferation treaty and ejecting inspectors from the country. What will this mean for international oversight of Iran's nuclear programme as well as the world's nuclear safeguards? 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0629/1520754-iran-nuclear-inspections/>
+
+---
+
+## Report raises questions about viability of Irish farming
+
+date: 2025-06-29, from: RTÉ News
+
+The State agency responsible for agriculture and food development has been teasing out the findings of its 2024 National Farm Survey, which raised the question: Who will be farming our land in the coming decades and what will they be doing with it? 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0629/1520859-teagasc-report-irish-farming/>
+
+---
+
+## Death of young Galway farmer leaves family devastated
+
+date: 2025-06-29, from: RTÉ News
+
+Behind the statistics are the people. Behind the people are the families. 174 people were killed on Irish roads last year. Among them Rian Sheridan, a young man from Renvyle in Co Galway, described by his family as a person "who brought joy and happiness" wherever he went. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0629/1520835-road-traffic-death/>
+
+---
+
+## A5 ruling reverberates through Stormont and beyond
+
+date: 2025-06-29, from: RTÉ News
+
+A Belfast court ruled in favour of a legal challenge to the upgrade of the A5 - a road that has become synonymous with death and serious injury. But what does this ruling mean? 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0629/1520831-a5-analysis/>
+
+---
+
+## Russia launched its largest aerial attack since war began, Ukraine says
+
+date: 2025-06-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7573758.1751184327!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-smila.JPG' alt='An apartment building is pictured with some windows and balconies near the top centre blown out.' width='620' height='349' title='A view shows an apartment building damaged during Russian drone and missile strikes, amid Russia&apos;s attack on Ukraine, in the town of Smila, Cherkasy region, Ukraine June 29, 2025. '/><p>Russia launched its biggest aerial attack against Ukraine overnight, a Ukrainian official said Sunday, part of an escalating bombing campaign that has further dashed hopes for a breakthrough to end the three-year-old war.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/russia-attacks-on-ukraine-1.7573757?cmp=rss>
+
+---
+
+## Scarlett Johansson finally sees Jurassic wish come true
+
+date: 2025-06-29, from: RTÉ News
+
+Scarlett Johansson has told RTÉ Entertainment that she is living her "childhood dream" by starring in Jurassic World Rebirth, as Steven Spielberg's original Jurassic Park was one of the first films she saw in the cinema. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0629/1520868-scarlett-johansson-finally-sees-jurassic-wish-come-true/>
+
+---
+
+## More 'soft power signals': On heels of King's visit, Prince Edward takes week-long trip to P.E.I., Ontario
+
+date: 2025-06-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7573065.1751050028!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/prince-edward.jpg' alt='A person shakes hands with another people as people standing nearby look on.' width='620' height='349' title=''/><p>Prince Edward, King Charles's younger brother, is focusing on a range of issues during his week-long trip to Canada, including support of young Canadians and the military. His visit will also focus on issues that have become a priority for the Crown in Canada and send signals of the soft power the monarchy can try to wield.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/prince-edward-visit-princess-of-wales-misses-ascot-royal-horses-rcmp-1.7572753?cmp=rss>
+
+---
+
+## Canada is getting a second shot at becoming a major LNG player
+
+date: 2025-06-29, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7571668.1750960025!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cedar-lng-rendering.jpg' alt='A rendering of the future Cedar LNG project in Kitimat.' width='620' height='349' title='A rendering of the future Cedar LNG project, which is the result of a partnership between Pembina Pipeline Corporation and the Haisla Nation.'/><p>A long-awaited liquified natural gas (LNG) export facility in Kitimat, B.C., is up and running and there are several more projects in various stages of development. Global appetite for LNG is on the rise, but some caution Canada faces significant challenges in becoming a significant industry player.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/calgary/canada-major-lng-player-1.7571405?cmp=rss>
+
+---
+
+## Browne criticised for not stating wait times for planning
+
+date: 2025-06-28, from: RTÉ News
+
+Minister for Housing James Browne and the Department of Housing have been criticised for not stating what the average waiting time for a planning decision from An Coimisiún Pleanála is. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0629/1520865-wait-times-planning/>
+
+---
+
+## Dozens detained after Serbian riot police and anti-government protesters clash
+
+date: 2025-06-28, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7573739.1751160891!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/serbia-protests.JPG' alt='Police chase and hit protesters.' width='620' height='349' title='Law enforcement officers detain protesters during an anti-government protest by Serbian students and other demonstrators, demanding snap elections, in Belgrade, Serbia, June 28, 2025. REUTERS/Zorana Jevtic     TPX IMAGES OF THE DAY'/><p>The protest by tens of thousands of people was held after nearly eight months of persistent dissent led by Serbia's university students that have rattled President Aleksandar Vucic's firm grip on power in the Balkan country.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/anti-government-protest-serbia-riot-police-clash-1.7573737?cmp=rss>
+
+---
+
+## 'Kisses Yes, Bezos No': Hundreds protest 3rd and final day of billionaire's Venice wedding
+
+date: 2025-06-28, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7573700.1751142491!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/people-bezos-wedding.JPG' alt='Protesters hold smoke flares and unfurl a banner over a bridge that reads, &apos;No space for Bezos.&apos;' width='620' height='349' title='Demonstrators on the Rialto Bridge, hold smoke flares while standing by a banner that reads &apos;No space for Bezos&apos; as they take part in a protest against Amazon founder Jeff Bezos, on the third day of Jeff Bezos and his wife Lauren Sanchez Bezos&apos; wedding festivities, in Venice, Italy, June 28, 2025. REUTERS/Manuel Silvestri       TPX IMAGES OF THE DAY'/><p>Hundreds of protesters marched through Venice's central streets on Saturday to say "No" to billionaire Jeff Bezos, his bride and their much-awaited wedding extravaganza, which reached its third and final day amid celebrity-crowded parties and the outcries of tired residents.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/protest-jeff-bezos-wedding-venice-1.7573695?cmp=rss>
+
+---
+
+## Thousands march in banned Budapest Pride parade
+
+date: 2025-06-28, from: RTÉ News
+
+Tens of thousands of protesters have marched through Hungary's capital as a banned LGBTQ+ rights rally swelled into a mass demonstration against the government. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0628/1520829-hungary-pride/>
+
+---
+
+## Don’t press the button: A peaceful protest against Gaza bombings
+
+date: 2025-06-28, from: Vatican News
+
+
+                    <p>An Israeli pacifist network launches a silent and powerful initiative aimed at raising awareness among Israeli Air Force pilots about the human cost of the ongoing bombing campaign in Gaza. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/gaza-israel-war-peace-protest-campaign.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/gaza-israel-war-peace-protest-campaign.html>
+
+---
+
+## EU plans to buy carbon credits to meet climate targets
+
+date: 2025-06-28, from: RTÉ News
+
+The European Commission is set to propose counting carbon credits bought from other countries towards the European Union's 2040 climate target, a commission document seen by Reuters shows. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0628/1520825-eu-climate-credits/>
+
+---
+
+## All-Ireland SFC quarter-finals results and reports
+
+date: 2025-06-28, from: RTÉ News
+
+Read how it all unfolded as Donegal and Tyrone made it through to the All-Ireland semi-finals. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0628/1520782-saturdays-all-ireland-sfc-quarter-final-updates/>
+
+---
+
+## Heatwave warning for tourist hotspots amid highs of 40C
+
+date: 2025-06-28, from: RTÉ News
+
+Tourist hotspots around Europe are facing the first major heatwave of the summer with extreme temperature warnings in place in Spain, while Greece has seen highs in excess of 40C with authorities advising people to stay indoors. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0628/1520812-europe-heatwave-warning/>
+
+---
+
+## Russian strike on Ukraine's Odesa kills two, wounds 14
+
+date: 2025-06-28, from: RTÉ News
+
+A Russian drone strike on Ukraine's southern port city of Odesa has killed two people and wounded 14, including children, local authorities said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0628/1520819-ukraine-russia/>
+
+---
+
+## Pope encourages European Bishops’ efforts for synodality and peace
+
+date: 2025-06-28, from: Vatican News
+
+
+                    <p>Pope Leo XIV meets with the President and Vice President of the Council of European Bishops' Conferences to discuss ecumenical dialogue, synodal challenges, and evangelisation in Europe. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-audience-ccee-synodality-peace-europe-church.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-audience-ccee-synodality-peace-europe-church.html>
+
+---
+
+## Manitoba healing village offers land-based programs for women
+
+date: 2025-06-28, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/9b63307d-6e5b-4076-b0ba-6c89dfaae989,1751128930344/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Clan Mothers Healing Lodge celebrates opening' width='620' height='349' title=''/><p>The Clan Mothers Healing Village celebrated its grand opening last week in Belair, in eastern Manitoba, offering support for women who have experienced trauma and abuse.
+</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6813083?cmp=rss>
+
+---
+
+## McCarthy stars as Lions hammer Western Force
+
+date: 2025-06-28, from: RTÉ News
+
+The British and Irish Lions claimed their first victory on Australian soil by overwhelming Western Force 54-7, but a possible injury crisis is brewing at scrum-half after Tomos Williams was forced off 
+
+<br> 
+
+<https://www.rte.ie/sport/rugby/2025/0628/1520784-mccarthy-stars-as-lions-hammer-western-force/>
+
+---
+
+## ‘Global solidarity benefits us all’: Spain makes the case for development funding
+
+date: 2025-06-28, from: United Nations, Economic Development
+
+Funding cuts to international development have cast a pall over a major UN-led international conference set to address the huge challenges faced by countries in the Global South. Despite this sobering backdrop, Eva Granados, Spanish Secretary of State for International Cooperation, insists that global solidarity is still alive, despite indications to the contrary. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1165006>
+
+---
+
+## Guterres welcomes peace deal between DR Congo and Rwanda
+
+date: 2025-06-28, from: United Nations, Top Stories
+
+UN Secretary-General António Guterres has welcomed the peace agreement between the Democratic Republic of the Congo (DRC) and Rwanda signed on Friday in the United States capital, Washington, DC. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1165071>
+
+---
+
+## Faith in finance: Indonesia's innovative path to sustainable development
+
+date: 2025-06-28, from: United Nations, Economic Development
+
+Indonesia has been putting its faith in innovative approaches to financing to achieve the Sustainable Development Goals (SDGs), the internationally agreed targets to end poverty, hunger and inequality, fight climate change and preserve the planet. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1165026>
+
+---
+
+## Tide of change in Philippines as women revive watersheds and livelihoods
+
+date: 2025-06-28, from: United Nations, Climate Change
+
+In the coastal town of Sasmuan, Philippines, life flows with the river’s tide. At dawn, slender boats glide through calm waters as fishing nets are cast beneath the warming sky. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1164991>
+
+---
+
+## Thousands march in Hungary as 2SLGBTQ+ rally becomes anti-government protest
+
+date: 2025-06-28, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7573608.1751122472!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-hungary-pride-march.jpg' alt='A person dressed in rainbow colours cheers with arms up, with a large crowd in the background.' width='620' height='349' title='A participant in the Pride march cheers in Budapest, Hungary, Saturday, June 28, 2025. '/><p>Tens of thousands of protesters marched through Hungary's capital on Saturday as a banned 2SLGBTQ+ rights rally swelled into a mass demonstration against the government led by Prime Minister Viktor Orban.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/protesters-2slgbtq-rights-rally-hungary-1.7573599?cmp=rss>
+
+---
+
+## Pope Leo XIV receives the President of the Republic of Equatorial Guinea
+
+date: 2025-06-28, from: Vatican News
+
+
+                    <p>Pope Leo XIV receives the President of the Republic of Equatorial Guinea, Mr. Teodoro Obiang Nguema Mbasogo, in the Vatican on Saturday, who subsequently met with the Holy See's Secretary for Relations with States and International Organizations, Archbishop Paul Richard Gallagher.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-receives-president-of-the-republic-of-equatorial-guinea.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-receives-president-of-the-republic-of-equatorial-guinea.html>
+
+---
+
+## Rwanda and Congo sign peace deal in US after rebel sweep
+
+date: 2025-06-28, from: RTÉ News
+
+Rwanda and the Democratic Republic of Congo signed a peace agreement yesterday in Washington to end fighting that has killed thousands, with the two countries pledging to pull back support for guerrillas - and President Donald Trump boasting of securing mineral wealth. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0628/1520803-rwanda-congo-peace-deal/>
+
+---
+
+## Man charged after slurry spread ahead of Ballymena Pride
+
+date: 2025-06-28, from: RTÉ News
+
+A 19-year-old man has been charged in connection with an incident in which slurry was spread along part of the route of a Co Antrim town's first Pride parade. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0628/1520802-ballymena-slurry-pride/>
+
+---
+
+## Pope to Ukrainian Greek Catholics: 'Your faith is being put to the test'
+
+date: 2025-06-28, from: Vatican News
+
+
+                    <p>Pope Leo XIV acknowledges that the faith of Ukrainian Greek Catholics is being put to a severe test, "amid this senseless war," but stresses that the Lord will have the final word and life will triumph over death.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-to-ukrainian-greek-catholics-your-faith-put-to-a-test.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-to-ukrainian-greek-catholics-your-faith-put-to-a-test.html>
+
+---
+
+## Man, in his 20s, dies after being struck by car in Dublin
+
+date: 2025-06-28, from: RTÉ News
+
+A pedestrian, in his 20s, has died after being hit by a car in Ballymun, Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0628/1520796-ballymun-pedestrian-death/>
+
+---
+
+## The Speed of Light and the Strangeness of Time: (1) The Constant
+
+date: 2025-06-28, from: Vatican Obervatory
+
+You hear that at the Big Bang space and time were distorted beyond what the laws of physics allow us to investigate. But how can space and time be distorted? 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/the-speed-of-light-and-the-strangeness-of-time-1-the-constant/>
+
+---
+
+## Trump ends Canada trade talks over taxes hitting US firms
+
+date: 2025-06-28, from: RTÉ News
+
+US President Donald Trump said he is calling off trade negotiations with Canada in retaliation for taxes impacting US tech firms, adding that Ottawa will learn of their new tariff rate within a week. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0628/1520792-canada-us-trade/>
+
+---
+
+## Pope encourages monks to ‘reform, renew, and simplify’ the Christian life
+
+date: 2025-06-28, from: Vatican News
+
+
+                    <p>Pope Leo XIV receives participants in the General Chapter of the Vallumbrosan Congregation of the Order of Saint Benedict, encouraging them to “Let nothing hold you back from the original call to reform, renew, and simplify that Christian life, which still has the power to widen the horizons and deepen the breath of every human existence.” </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-vallumbrosans-reform-renew-simplify-christian-life.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-vallumbrosans-reform-renew-simplify-christian-life.html>
+
+---
+
+## Western Force 7-54 British and Irish Lions - recap
+
+date: 2025-06-28, from: RTÉ News
+
+Having warmed up with a disappointing loss to Argentina in Dublin, the Lions will be hoping to mark their Australia arrival with a commanding win over Perth's Western Force. 
+
+<br> 
+
+<https://www.rte.ie/sport/rugby/2025/0628/1520783-british-and-irish-lions-v-western-force-updates/>
+
+---
+
+## Kneecap lead Glastonbury in chants against Starmer
+
+date: 2025-06-28, from: RTÉ News
+
+Kneecap led Glastonbury crowds in chants of "f*** Keir Starmer" during their set at the festival on Saturday. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0628/1520755-kneecap-to-perform-at-glastonbury-amid-calls-for-ban/>
+
+---
+
+## France bans smoking at beaches, parks and bus shelters
+
+date: 2025-06-28, from: RTÉ News
+
+France will ban smoking on beaches and in parks, public gardens and bus shelters from tomorrow. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0628/1520791-france-smoking/>
+
+---
+
+## Qatar urges Israel, Hamas to seize truce 'opportunity'
+
+date: 2025-06-28, from: RTÉ News
+
+Gaza mediators are engaging with Israel and Hamas to build on momentum from this week's ceasefire with Iran and work towards a truce in the Palestinian territory, Qatar foreign ministry spokesperson Majed al-Ansari said. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0628/1520787-gaza-israel-conflict/>
+
+---
+
+## Thousands gather to celebrate Dublin Pride festivities
+
+date: 2025-06-28, from: RTÉ News
+
+Organisers say 12,500 people are marching as part of Dublin's Pride parade including members of the LBGTQ+ community, their families and friends. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0628/1520781-dublin-pride/>
+
+---
+
+## 2 dead after Russian drone hits residential building, Ukrainian officials say
+
+date: 2025-06-28, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7573572.1751113052!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-odesa.JPG' alt='A residential tower, made of brick, has blown out windows and black soot on the exterior after fire.' width='620' height='349' title='A view shows an apartment building hit by a Russian drone strike, amid Russia&apos;s attack on Ukraine, in Odesa, Ukraine June 28, 2025.'/><p>Russian drones struck the southern Ukrainian port city of Odesa overnight, killing two people died and injuring at least 17, Ukrainian authorities said on Saturday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/russian-drone-strikes-ukraine-1.7573564?cmp=rss>
+
+---
+
+## Pope reaffirms commitment to full communion with Orthodox Church
+
+date: 2025-06-28, from: Vatican News
+
+
+                    <p>Addressing a delegation from the Ecumenical Patriarchate on the Solemnity of Saints Peter and Paul, Pope Leo XIV reiterates his commitment to respectful dialogue and collaboration aimed at restoring full visible communion.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-ecumenical-delegation-patriarchate-constantinople.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-ecumenical-delegation-patriarchate-constantinople.html>
+
+---
+
+## Minister would 'be before PAC' over delayed housing costs
+
+date: 2025-06-28, from: RTÉ News
+
+Taoiseach Micheál Martin has said the cost of almost 3,000 social homes which were to be delivered, and have now been delayed over value for money concerns, were so high that if they had gone ahead then the Minister for Housing would have been "up before the Public Accounts Committee". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0628/1520774-social-housing-dublin/>
+
+---
+
+## Lord's Day Reflection: Stability and missionary zeal
+
+date: 2025-06-28, from: Vatican News
+
+
+                    <p>As the Church celebrates the Solemnity of Saints Peter and Paul, Fr Edmund Power reflects on the dynamic relationship between the two great Apostles and patrons of Rome, and their significance in the Church. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/lord-s-day-reflection-stability-and-missionary-zeal.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/lord-s-day-reflection-stability-and-missionary-zeal.html>
+
+---
+
+## Bombs away - what now after US attack on Iran?
+
+date: 2025-06-28, from: RTÉ News
+
+You can actually understand why Donald Trump was a bit miffed about the public (i.e. media) reaction to last weekend's bombing raid on Iran, writes Sean Whelan. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0628/1520769-us-iran/>
+
+---
+
+## Quiet man of Govt Seán Canney emerges from the shadows
+
+date: 2025-06-28, from: RTÉ News
+
+As the fledgling Iran and Israel ceasefire unexpectedly took root last Tuesday morning, a less dramatic act of consolidation was playing out in front of the cameras in Government Buildings, writes Mícheál Lehane. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0628/1520737-politics-analysis/>
+
+---
+
+## Why new homes may not get planning in Dublin after 2028
+
+date: 2025-06-28, from: RTÉ News
+
+"The chain is only as strong as its weakest link." Eighteenth century philosopher Thomas Reid's quote could be applied to building houses in Dublin. That weak link is water. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0628/1520706-dublin-house-building-water-supply/>
+
+---
+
+## How fluctuating oil prices affect motorists at the pumps
+
+date: 2025-06-28, from: RTÉ News
+
+Motorists are feeling the pinch at the pumps this month, as both petrol and diesel prices are rising 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0628/1520714-how-oil-fluctuations-affect-prices-at-pumps/>
+
+---
+
+## Confessions of a gun smuggler: Former trafficker reveals how she brought weapons into Canada
+
+date: 2025-06-28, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7570429.1750867647!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/composite-image-for-story-on-gun-smuggler-naomi-haynes.jpg' alt='A composite of images, including an image of Naomi Haynes, who was raised in Montreal and spent time in a U.S. prison for smuggling.' width='620' height='349' title=''/><p>Everyone knows guns used by Canadian criminals are often smuggled from the U.S. Not everyone knows how — not like Naomi Haynes does. That's because she did the smuggling. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/confessions-of-a-gun-smuggler-1.7567377?cmp=rss>
+
+---
+
+## Indigenous-led projects are landing hits and winning awards. How are they making inroads?
+
+date: 2025-06-28, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7077104.1704697457!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1908170096.jpg' alt='A smiling woman holds a golden statue topped with a globe.' width='620' height='349' title='Lily Gladstone poses with the award for best performance by a female actor in a motion picture (drama) for Killers of the Flower Moon in the press room during the 81st annual Golden Globe Awards in Beverly Hills, California, on Jan. 7, 2024. Gladstone was reported to have made history as the first Indigenous actress to win the film.'/><p>From Reservation Dogs and Rutherford Falls to North of North and Alaska Daily, Indigenous-led TV and film productions are becoming more prevalent. Mentorship programs, centralized funding and a societal shift are behind the surge, say some who work in the industry.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/indigenous-productions-talent-awards-1.7569856?cmp=rss>
+
+---
+
+## Iran holds funeral for commanders killed in Israel war
+
+date: 2025-06-28, from: RTÉ News
+
+Large crowds of mourners dressed in black lined streets in Iran's capital Tehran as the country held a funeral for top military commanders, nuclear scientists and some of the civilians killed during this month's aerial war with Israel. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0628/1520767-middle-east/>
 
 ---
 
@@ -5100,612 +5977,4 @@ Iran said its knowledge in the nuclear field "cannot be destroyed" after the Uni
 <br> 
 
 <https://www.rte.ie/news/world/2025/0622/1519709-us-iran-attack/>
-
----
-
-## Pope Leo gifted GAA jersey during audience at the Vatican
-
-date: 2025-06-21, from: RTÉ News
-
-Pope Leo has been gifted a special GAA jersey during a recent audience at the Vatican for the Jubilee of Sport. 
-
-<br> 
-
-<https://www.rte.ie/news/ireland/2025/0622/1519708-pope-leo-jersey/>
-
----
-
-## Iran threatens 'devastating' response to Israel's attacks
-
-date: 2025-06-21, from: RTÉ News
-
-Iran's President Masoud Pezeshkian warned of a "more devastating" retaliation should Israel's nine-day bombing campaign continue, saying the Islamic republic would not halt its nuclear programme "under any circumstances". 
-
-<br> 
-
-<https://www.rte.ie/news/middle-east/2025/0621/1519705-israel-iran-war/>
-
----
-
-## Starmer claims Kneecap Glastonbury set 'not appropriate'
-
-date: 2025-06-21, from: RTÉ News
-
-UK Prime Minister Keir Starmer has claimed he does not think Belfast rap trio Kneecap's planned Glastonbury Festival performance is "appropriate". 
-
-<br> 
-
-<https://www.rte.ie/entertainment/2025/0621/1519701-kneecap-glastonbury-starmer/>
-
----
-
-## Govt concerned UNIFIL's Lebanon mandate won't be renewed
-
-date: 2025-06-21, from: RTÉ News
-
-There is mounting concern in Government that the United Nation's peacekeeping operation in southern Lebanon may not have its mandate renewed in August. 
-
-<br> 
-
-<https://www.rte.ie/news/ireland/2025/0621/1519693-unifil-mandate-harris/>
-
----
-
-## Eight people dead after Brazil hot-air balloon accident
-
-date: 2025-06-21, from: RTÉ News
-
-At least eight people died after a hot-air balloon carrying 21 passengers, including the pilot, crashed in Brazil's southern state of Santa Catarina, state officials said. 
-
-<br> 
-
-<https://www.rte.ie/news/world/2025/0621/1519688-brazil-hot-air-balloon/>
-
----
-
-## Dublin earn famous win over Limerick to book semi spot
-
-date: 2025-06-21, from: RTÉ News
-
-Dublin pulled off a shock win over Limerick at Croke Park with a 2-24 to 0-18 victory to advance to the All-Ireland SHC semi-finals. 
-
-<br> 
-
-<https://www.rte.ie/sport/hurling/2025/0621/1519647-dublin-earn-famous-win-over-limerick-to-book-semi-spot/>
-
----
-
-## The future of 12 Palestinian villages in the West Bank under threat 
-
-date: 2025-06-21, from: Vatican News
-
-
-                    <p>Twelve Palestinian villages in Masafer Yatta face imminent demolition following an Israeli decision to designate the area as a military firing zone. Local communities warn that the move paves the way for further displacement and settlement expansion. </p>
-                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/israel-palestine-west-bank-war-villages-destroyed.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/world/news/2025-06/israel-palestine-west-bank-war-villages-destroyed.html>
-
----
-
-## Funeral details announced for Lord Henry Mount Charles
-
-date: 2025-06-21, from: RTÉ News
-
-Funeral arrangements have been announced for Lord Henry Mount Charles, the eighth Marquess Conyngham, of Slane Castle, who died on Tuesday aged 74 after a long illness. 
-
-<br> 
-
-<https://www.rte.ie/entertainment/2025/0621/1519668-funeral-details-announced-for-lord-henry-mount-charles/>
-
----
-
-## Belarus opposition leader Tikhanovsky freed from jail
-
-date: 2025-06-21, from: RTÉ News
-
-Belarus opposition leader Sergei Tikhanovsky has been released from jail after being pardoned, Belarusian human rights group Viasna has said. 
-
-<br> 
-
-<https://www.rte.ie/news/world/2025/0621/1519667-belarus-tikhanovsky-released/>
-
----
-
-## Cycling tour to raise awareness for COPD reaches Galway
-
-date: 2025-06-21, from: RTÉ News
-
-Ireland's former professional cycling champion Sean Kelly and Italy's Claudio Chiappucci are in Galway for the last leg of an international tour to raise awareness of Chronic Obstructive Pulmonary Disease. 
-
-<br> 
-
-<https://www.rte.ie/news/ireland/2025/0621/1519664-cycling-tour-to-raise-awareness-for-copd-reaches-galway/>
-
----
-
-## All-Ireland SHC: Dublin and Tipp progress to semis
-
-date: 2025-06-21, from: RTÉ News
-
-Fourteen-man Dublin stunned Limerick at Croke Park, while Tipperary joined them in the semi-finals, beating Galway at the Gaelic Grounds. 
-
-<br> 
-
-<https://www.rte.ie/sport/hurling/2025/0621/1519649-all-ireland-shc-limerick-v-dublin-updates/>
-
----
-
-## Probe after fire destroys ambulance outside Mayo hospital
-
-date: 2025-06-21, from: RTÉ News
-
-An investigation is under way after an ambulance was destroyed by fire while parked close to Sacred Heart Hospital in Co Mayo in the early hours of this morning. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0621/1519665-castlebar-ambulance-fire/>
-
----
-
-## Canada celebrates National Indigenous Peoples Day
-
-date: 2025-06-21, from: Vatican News
-
-
-                    <p>The summer solstice, June 21, marks a day dedicated to celebrating the languages, cultures, and traditions of the First Nations, Inuit, and Métis communities across Canada.</p>
-                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/canada-celebrates-national-indigenous-peoples-day.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/world/news/2025-06/canada-celebrates-national-indigenous-peoples-day.html>
-
----
-
-## US Bishops: Promote religious freedom through prayer, reflection, and action
-
-date: 2025-06-21, from: Vatican News
-
-
-                    <p>The United States Conference of Catholic Bishops commemorate Religious Freedom Week, 22-29 June, inviting the faithful to promote religious freedom for all believers through prayer, education, and public action.</p>
-                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/us-bishops-promote-religious-freedom-through-prayer-reflection.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/church/news/2025-06/us-bishops-promote-religious-freedom-through-prayer-reflection.html>
-
----
-
-## Why is the manosphere on the rise? UN Women sounds the alarm over online misogyny
-
-date: 2025-06-21, from: United Nations, Top Stories
-
-A growing network of online communities known collectively as the “manosphere” is emerging as a serious threat to gender equality, as toxic digital spaces increasingly influence real-world attitudes, behaviours, and policies, the UN agency dedicated to ending gender discrimination has warned.&nbsp; 
-
-<br> 
-
-<https://news.un.org/feed/view/en/story/2025/06/1164531>
-
----
-
-## From the Global South to the stars: expanding access to outer space
-
-date: 2025-06-21, from: United Nations, Economic Development
-
-Once the exclusive domain of a handful of technologically advanced countries, outer space is now within the reach of emerging nations from the Global South, as costs fall and technology becomes more widely available. 
-
-<br> 
-
-<https://news.un.org/feed/view/en/story/2025/06/1164681>
-
----
-
-## ‘One Earth, One Health’: Yoga Day provides respite in a tumultuous world
-
-date: 2025-06-21, from: United Nations, UN Affairs
-
-In an age marked by conflicts, disease, dysfunction and mental health challenges, yoga offers a steady, time-trusted path to help find calm and harmony within – and without. 
-
-<br> 
-
-<https://news.un.org/feed/view/en/story/2025/06/1164736>
-
----
-
-## UN reiterates call for urgent de-escalation amid Iran-Israel conflict, worsening Gaza crisis
-
-date: 2025-06-21, from: United Nations, Top Stories
-
-Senior UN officials reiterated an appeal for urgent restraint on Saturday as conflict spiral between Israel and Iran, amid a wider regional crisis exacerbated by Israel’s war in Gaza and the worsening humanitarian situation facing Palestinian civilians. 
-
-<br> 
-
-<https://news.un.org/feed/view/en/story/2025/06/1164731>
-
----
-
-## UN chief ‘gravely alarmed’ by US bombing of Iranian nuclear sites
-
-date: 2025-06-21, from: United Nations, Top Stories
-
-The UN Secretary-General António Guterres described the United States’ bombing of three nuclear sites in Iran as a “dangerous escalation” on Saturday following eight days of deadly strikes and counter strikes between Tehran and Tel Aviv. 
-
-<br> 
-
-<https://news.un.org/feed/view/en/story/2025/06/1164741>
-
----
-
-## Man arrested under terror act after Islamic centre attack
-
-date: 2025-06-21, from: RTÉ News
-
-A 34-year-old man has been arrested under the Terrorism Act and is being questioned by police after an attack on the Belfast Islamic Centre. 
-
-<br> 
-
-<https://www.rte.ie/news/ulster/2025/0621/1519640-islamic-centre-belfast/>
-
----
-
-## Holy See urges nations to ratify UN anti-landmine convention
-
-date: 2025-06-21, from: Vatican News
-
-
-                    <p>The Holy See has invited nations to ratify the Anti-Personnel Landmines Convention, upholding the link between development and disarmament.</p>
-                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/holy-see-united-nations-anti-personnel-landmine-convention.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/vatican-city/news/2025-06/holy-see-united-nations-anti-personnel-landmine-convention.html>
-
----
-
-## Jackson leads the way as goalkeeper MVP
-
-date: 2025-06-21, from: RTÉ News
-
-For much of last year, Mark Jackson was envisioning himself deciding games in the NFL in 2025, but instead this weekend he could be the match winner for his own county as they contest their first Tailteann Cup semi-final. 
-
-<br> 
-
-<https://www.rte.ie/sport/football/2025/0621/1519637-jackson-leads-the-way-as-goalkeeper-mvp/>
-
----
-
-## Religious Scientists at VaticanObservatory.org
-
-date: 2025-06-21, from: Vatican Obervatory
-
-Have you taken a look at our “Religious Scientists” section here at VaticanObservatory.org? It is part of our Faith &#038; Science Resource Center. 
-
-<br> 
-
-<https://www.vaticanobservatory.org/sacred-space-astronomy/religious-scientists-at-vaticanobservatory-org/>
-
----
-
-## Pope Leo warns politicians of the challenges posed by AI
-
-date: 2025-06-21, from: RTÉ News
-
-Pope Leo has warned politicians of the challenges posed by the rise of artificial intelligence (AI), addressing its potential impact on younger people as a prime concern. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0621/1519631-pope-leo/>
-
----
-
-## Tributes paid after teenager dies while swimming in Meath
-
-date: 2025-06-21, from: RTÉ News
-
-Tributes have been paid to a teenager who died while swimming in Laytown, Co Meath. The boy has been named locally as 15-year-old Kofi Owusu who had been living in the Blackrock area of Dundalk, Co Louth. 
-
-<br> 
-
-<https://www.rte.ie/news/ireland/2025/0621/1519626-laytown-death/>
-
----
-
-## Pope: ‘St. Thomas More offers politicians example of martyr for primacy of conscience’
-
-date: 2025-06-21, from: Vatican News
-
-
-                    <p>During the Jubilee of Governments, Pope Leo XIV meets with legislators from various nations and recalls the importance of natural law, entrusting them to St. Thomas More, whose "readiness to sacrifice his life rather than betray the truth makes him a martyr for freedom and for the primacy of conscience."</p>
-                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-responsibilities-politicians-jubilee-governments.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-responsibilities-politicians-jubilee-governments.html>
-
----
-
-## Helping migrants at 3,000 meters above sea level in Peruvian Andes
-
-date: 2025-06-21, from: Vatican News
-
-
-                    <p>A Christian-inspired nonprofit provides Venezuelan migrants seeking a better life in Peru guidance and physical assistance integrating into the new country.</p>
-                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/helping-migrants-at-3-000-meters-high-in-the-peruvian-andes.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/church/news/2025-06/helping-migrants-at-3-000-meters-high-in-the-peruvian-andes.html>
-
----
-
-## Castletown House group agree to trial for OPW vehicles
-
-date: 2025-06-21, from: RTÉ News
-
-A group that had been objecting to vehicles entering Castletown House in Kildare via a traditional pedestrian entrance on Lime Avenue have agreed to two weeks trial of service vehicles entering the site this way. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0621/1519621-castletown-house-kildare/>
-
----
-
-## Resonate: Songs of Resilience
-
-date: 2025-06-21, from: CBC, Indigenious News
-
-<img src='https://i.cbc.ca/ais/1a56d6c6-c46e-46c5-9916-4bb764ee7657,1750434560232/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3BResize%3D%28620%29' alt='CBC News Explore written in white text on a gradient blue-green background.' width='620' height='349' title='CBC News Explore written in white text on a gradient blue-green background.'/><p>From CBC Indigenous, Resonate: Songs of Resilience celebrates communities and families through music. We take you into Indigenous country, to hear songs of roots, resistance and all our relations.</p> 
-
-<br> 
-
-<https://www.cbc.ca/player/play/9.6800000?cmp=rss>
-
----
-
-## New children's book explores history of Canada's potlatch ban
-
-date: 2025-06-21, from: CBC, Indigenious News
-
-<img src='https://i.cbc.ca/1.7566010.1750363747!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/celebrating-potlatches-by-samantha-beynon.jpeg' alt='Artwork on a book cover labeled Celebrating Potlatches, a lot of bright colors and a sketch of people dancing. ' width='620' height='349' title='Samantha Beynon is the author of the new children&apos;s book Celebrating Potlatches, being released this Saturday on National Indigenous People&apos;s Day. '/><p>Samantha Beynon is a Nisga'a educator and the author of a newly released children's book, Celebrating Potlatches. The official book launch is scheduled for June 21, National Indigenous Peoples Day, at the Royal B.C. Museum in Victoria.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/canada/british-columbia/celebrating-potlatches-book-1.7566088?cmp=rss>
-
----
-
-## Increase in litter on beaches during fine weather
-
-date: 2025-06-21, from: RTÉ News
-
-There is a "noticeable" increase in litter on beaches during the fine weather, according to those who are part of clean-up operations. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0621/1519614-beach-cleanup/>
-
----
-
-## Lord's Day Reflection: Friends, fish, a a feast that costs everything
-
-date: 2025-06-21, from: Vatican News
-
-
-                    <p>As the Church celebrates the Solemnity of the Body and Blood of the Lord, Jenny Kraska reflects on the theme, "Friends, fish, and a feast that costs everything"</p>
-                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/lord-s-day-reflection-friends-fish-and-a-feast.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/church/news/2025-06/lord-s-day-reflection-friends-fish-and-a-feast.html>
-
----
-
-## Pope urges Church to foster a culture that does not tolerate abuse
-
-date: 2025-06-21, from: Vatican News
-
-
-                    <p>Pope Leo XIV sends a message on the occasion of a Peruvian theatre performance honouring investigative journalist Paola Ugaz, and calls for a culture that does not tolerate any kind of abuse in the Church and for the defence of press freedom. He praises journalists who expose abuse, stating that silencing them threatens democracy and undermines the Gospel's call for justice and truth.</p>
-                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-abuse-zero-tollerance-church-message-peru.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/pope/news/2025-06/pope-leo-xiv-abuse-zero-tollerance-church-message-peru.html>
-
----
-
-## Putin's counter-narratives and stalled talks
-
-date: 2025-06-21, from: RTÉ News
-
-Russian President Vladimir Putin delivered a series of counter-narratives on the war in Ukraine at economic forum in St Peterburg while Russian drones and missiles killed civilians in Kyiv this week. It comes as US-led efforts to broker a ceasefire deal in the three-year war have stalled. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0621/1519610-putins-counter-narratives-reflect-stalled-talks/>
-
----
-
-## 'Combined opposition' set to continue, but for how long?
-
-date: 2025-06-21, from: RTÉ News
-
-The sight of Opposition leaders gathering together on the plinth at Leinster House has become very familiar in recent weeks. But, overall, there are mixed views as to how long the combined opposition will last. 
-
-<br> 
-
-<https://www.rte.ie/news/analysis-and-comment/2025/0621/1519555-politics-opposition/>
-
----
-
-## EU's indictment of Israel in Gaza: the hard work starts
-
-date: 2025-06-21, from: RTÉ News
-
-The review into whether Israel is in violation of its obligations under its trade relations with the European Union, due to its conduct of the war in Gaza, was shrouded in secrecy and hobbled by last minute timing. RTÉ's Europe Editor Tony Connelly looks at what reactions may be expected on Monday. 
-
-<br> 
-
-<https://www.rte.ie/news/analysis-and-comment/2025/0621/1519609-connelly-analysis-eu/>
-
----
-
-## Rap Battle: How Gilbert O'Sullivan changed hip hop
-
-date: 2025-06-21, from: RTÉ News
-
-Gilbert O'Sullivan has been a respected hit-maker since the 1970s – but less well-known is how his music forever reshaped the genre of hip hop, writes Adam Maguire. 
-
-<br> 
-
-<https://www.rte.ie/news/business/2025/0621/1519584-hip-hop-gilbert/>
-
----
-
-## ‘Our children are what prompted us’: 25 years of celebration for the St. Mary’s Powwow
-
-date: 2025-06-21, from: CBC, Indigenious News
-
-<img src='https://i.cbc.ca/ais/524ec295-aa6f-4bd0-a763-ccd038777405,1750440819298/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='A native man and woman dancing during the Pow Wow' width='620' height='349' title=''/><p>The Sitansisk (St. Mary’s) First Nation Powwow kicks off the New Brunswick powwow trail. And this year, the community celebrated a quarter of a century. Here’s what that means for the youth, the elders and everyone in between.</p> 
-
-<br> 
-
-<https://www.cbc.ca/player/play/9.6805725?cmp=rss>
-
----
-
-## Summer Solstice: the longest day and shortest night of the year
-
-date: 2025-06-21, from: RTÉ News
-
-The ancient Celtic festival acts as a timely reminder and celebration of who, where and what we really are. 
-
-<br> 
-
-<https://www.rte.ie/brainstorm/2025/0621/1056342-summer-solstice/>
-
----
-
-## Fiddling and jigging: 2 inseparable Indigenous traditions that run in families
-
-date: 2025-06-21, from: CBC, Indigenious News
-
-<img src='https://i.cbc.ca/1.6865824.1686339884!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/john-arcand.jpg' alt='A man stands playing a fiddle while wearing traditional Metis clothing - a white collared shirt with a black vest adorned with orange and blue beaded flower designs' width='620' height='349' title=''/><p></p> 
-
-<br> 
-
-<https://www.cbc.ca/news/indigenous/fiddling-jigging-music-resonate-1.7557182?cmp=rss>
-
----
-
-## This activist spent 4 gruelling days in Israeli custody, but says he'll try again to bring aid to Gaza
-
-date: 2025-06-21, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7567515.1750467998!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/avila-was-held-in-solitary-confinement-for-half-his-detainment-in-israel.jpg' alt='a man holds his passport up' width='620' height='349' title='Avila says the cells he was held in were infested with bugs, the water was dark in colour and tasted bad and he was deprived of sleep. '/><p>Thiago Avila spent four days in Israeli custody, two of them in solitary, after he and 11 others tried to bring humanitarian aid into Gaza by sea. Their vessel was intercepted leading to what he describes as a gruelling stay marked by inhumane treatment and a brief hunger strike.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/aid-vessel-gaza-madleen-thiago-avila-1.7567344?cmp=rss>
-
----
-
-## How music fuelled, and was fuelled by, the No Kings protests
-
-date: 2025-06-21, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7567355.1750451272!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2220148888.jpg' alt='A group of people play brass instruments in a crowd. The words &apos;No Kings&apos; have been written in blue tape on the bell of a sousaphone.' width='620' height='349' title='People march in the &quot;No Kings&quot; protest along Fifth Avenue on June 14, 2025 in New York, New York. Hundreds of marches and protests as part of a &quot;national day of peaceful protest&quot; against the Trump administration are happening across the United States today in opposition to his presidency and his policies. The national protest comes as President Donald Trump&apos;s military parade celebrating the 250th anniversary of the U.S. Army is taking place in Washington, DC. Today&apos;s parade coincides with U.S. President Trump&apos;s birthday.'/><p>If you were online last week, you probably saw footage from the No Kings protests.The gigantic demonstration against U.S. President Donald Trump took place across the United States and portions of Canada — but was connected by one prevailing aspect: music. </p> 
-
-<br> 
-
-<https://www.cbc.ca/news/entertainment/protest-music-1.7567329?cmp=rss>
-
----
-
-## With no embassy in Tehran, Canada reacts to turmoil in Iran from afar
-
-date: 2025-06-21, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7567506.1750457147!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/a-photojournalist-takes-pictures-of-a-damaged-broadcasting-building-in-iran.jpg' alt='A journalist takes pictures from the inside of a heavily damaged broadcasting building in Iran.' width='620' height='349' title='A photojournalist takes pictures of the damaged headquarters of Islamic Republic of Iran Broadcasting, Iranian state television, in Tehran, Iran, Thursday, June 19, 2025. '/><p>Neither Israel nor Iran is backing down from an escalating conflict that has endangered civilians in both countries. Because Canada has no embassy in Iran, Ottawa is having to work from afar to support thousands of Canadian citizens stuck there. </p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/iran-emergency-canada-no-embassy-1.7567370?cmp=rss>
-
----
-
-## Pay cap scrapped: Will bankers' salaries skyrocket?
-
-date: 2025-06-21, from: RTÉ News
-
-More than 15 years after the banking collapse rocked the economy and public trust, the Government has lifted the long-standing cap on bankers' pay. 
-
-<br> 
-
-<https://www.rte.ie/news/business/2025/0621/1519534-banker-pay-cap-ends-big-payday-boom-incoming/>
-
----
-
-## Macron says Europe to 'accelerate negotiations' with Iran
-
-date: 2025-06-21, from: RTÉ News
-
-French President Emmanuel Macron has said that France and its European partners would ramp up talks with Iran following more than a week of hostilities between the Islamic Republic and Israel. 
-
-<br> 
-
-<https://www.rte.ie/news/middle-east/2025/0621/1519608-iran-israel-launch-fresh-attacks-tehran-rules-out-talks/>
-
----
-
-## US moves bombers to Pacific as Trump mulls attacking Iran
-
-date: 2025-06-21, from: RTÉ News
-
-The US is moving B-2 stealth bombers to the Pacific island of Guam, two officials told Reuters, as President Donald Trump weighs whether the United States should take part in Israel's strikes against Iran. 
-
-<br> 
-
-<https://www.rte.ie/news/middle-east/2025/0621/1519608-iran-israel-war/>
-
----
-
-## Women at heart of Inuit drum dance revival
-
-date: 2025-06-21, from: CBC, Indigenious News
-
-<img src='https://i.cbc.ca/ais/8698515f-11ae-4109-aa68-9ba286fb06a4,1750173328030/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='Photo of singer in church' width='620' height='349' title=''/><p>For the last two decades Kilautiup Songuninga has been gathering songs and stories to revive the age-old tradition of Inuit drum dance. Although the songs were often performed by men, it’s women who are leading the resurgence.</p> 
-
-<br> 
-
-<https://www.cbc.ca/player/play/9.6795420?cmp=rss>
-
----
-
-## JD Vance says US troops need to stay in LA
-
-date: 2025-06-21, from: RTÉ News
-
-Republican Vice President JD Vance met troops who have been deployed in Los Angeles to quell protests against immigration raids, as he accused Democratic state and city leaders of encouraging immigrants to cross the US border illegally. 
-
-<br> 
-
-<https://www.rte.ie/news/us/2025/0621/1519605-us-vance-la/>
 
