@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2025-06-29 06:08:20
+updated: 2025-06-29 14:06:50
 ---
 
 # writing
 
-(date: 2025-06-29 06:08:20)
+(date: 2025-06-29 14:06:50)
+
+---
+
+## Slow Gods by Claire North: Review by Alexandra Pierce
+
+date: 2025-06-29, from: Locus Magazine
+
+<p><strong>Slow Gods</strong>, Claire North (Orbit US 978-0-31658-630-6, 480pp, $19.99, tp). November 2025. Cover by Nico Taylor.</p>
+<p>The first section of Claire North’s <strong>Slow Gods </strong>(in a very different novel from 2024’s <strong>The Last Song of Penelope</strong>) is entitled “How I Died”. It introduces Mawukana na-Vdnaze, who claims to be “a very poor copy” of himself. Born on the planet Tu-mdo, within the human polity known as the Shine,  <a href="https://locusmag.com/2025/06/slow-gods-by-claire-north-review-by-alexandra-pierce/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/06/slow-gods-by-claire-north-review-by-alexandra-pierce/>
 
 ---
 

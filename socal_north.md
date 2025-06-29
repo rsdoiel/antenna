@@ -1,11 +1,50 @@
 ---
 title: socal north
-updated: 2025-06-29 06:08:15
+updated: 2025-06-29 14:06:46
 ---
 
 # socal north
 
-(date: 2025-06-29 06:08:15)
+(date: 2025-06-29 14:06:46)
+
+---
+
+## The Trump administration is building a national citizenship data system
+
+date: 2025-06-29, updated: 2025-06-29, from: The LAist
+
+The Department of Homeland Security, with help from DOGE, has rolled out a tool that purports to be able to check the citizenship status of almost all Americans. 
+
+<br> 
+
+<https://laist.com/news/politics/the-trump-administration-is-building-a-national-citizenship-data-system>
+
+---
+
+## Culver City gathers to support a paleta vendor detained by federal immigration agents
+
+date: 2025-06-29, updated: 2025-06-29, from: The LAist
+
+Family members to sell everything out of Ambrocio “Enrique” Lozano's ice cream cart to raise money for his bond. 
+
+<br> 
+
+<https://laist.com/news/culver-city-gathers-to-support-a-paleta-vendor-detained-by-federal-immigration-agents>
+
+---
+
+## California’s population shrank in Trump’s first immigration crackdown. It could happen again
+
+date: 2025-06-29, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-1536x1025.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-1568x1046.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>California could lose votes in the electoral college and suffer economic setbacks if President Trump’s immigration crackdown deters people from moving to the state.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/californias-population-shrank-in-trumps-first-immigration-crackdown-it-could-happen-again">California’s population shrank in Trump’s first immigration crackdown. It could happen again</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/californias-population-shrank-in-trumps-first-immigration-crackdown-it-could-happen-again>
 
 ---
 
@@ -45,7 +84,7 @@ Dengue is spreading in parts of the U.S. like California, Texas and Florida. Cli
 
 ---
 
-## Wildfire near Silverwood Lake in San Bernardino County triggers evacuations
+## Afternoon winds ahead as firefighters gain control of Lake Fire in San Bernardino
 
 date: 2025-06-29, updated: 2025-06-29, from: The LAist
 
@@ -159,7 +198,7 @@ Students say the centers are about visibility, connection and safety, and are ne
 
 date: 2025-06-27, from: Longbeach Post
 
-<figure><img width="1024" height="713" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4-1024x713.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4-1024x713.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4-300x209.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4-768x535.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4-155x108.jpg 155w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4-400x279.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="713" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4-1024x713.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4-1024x713.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4-300x209.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4-768x535.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4-155x108.jpg 155w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4-400x279.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27125903/27jun25-6-27-25-japanese-0-609091-gfgx7ece-838674-NKgLdhy4.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Activists say they’ve seen agents in military vests marked with “ICE” driving Border Patrol vehicles and unmarked cars in and out of a staging area.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/officials-call-for-probe-into-immigration-officers-presence-on-terminal-island">Officials call for probe into immigration officers&#8217; presence on Terminal Island</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

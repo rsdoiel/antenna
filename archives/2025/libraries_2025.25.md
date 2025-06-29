@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-06-29 06:08:22
+updated: 2025-06-29 14:06:51
 ---
 
 # libraries
 
-(date: 2025-06-29 06:08:22)
+(date: 2025-06-29 14:06:51)
 
 ---
 
@@ -126,6 +126,18 @@ Wang X.; Geiser L.; Wüest R.; Weikert S.; Kucera L.
 <br> 
 
 <http://hdl.handle.net/20.500.11850/741681>
+
+---
+
+## A Win for Fair Use Is a Win for Libraries
+
+date: 2025-06-29, from: Internet Archive Blog
+
+A recent legal decision has reaffirmed the power of fair use in the digital age, and it’s a big win for libraries and the future of public access to knowledge. [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/06/29/a-win-for-fair-use-is-a-win-for-libraries/>
 
 ---
 

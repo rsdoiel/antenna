@@ -1,11 +1,120 @@
 ---
 title: pacific
-updated: 2025-06-29 06:08:17
+updated: 2025-06-29 14:06:47
 ---
 
 # pacific
 
-(date: 2025-06-29 06:08:17)
+(date: 2025-06-29 14:06:47)
+
+---
+
+## Fresh faces join political veterans in Samoa's 2025 election race
+
+date: 2025-06-29, from: 
+
+With less than nine weeks left until Samoa's early election, several senior public servants are throwing their hats in the ring. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565490/fresh-faces-join-political-veterans-in-samoa-s-2025-election-race>
+
+---
+
+## Fijian government unveils US$2b budget as deficit widens
+
+date: 2025-06-29, from: 
+
+Deputy Prime Minister and Finance Minister Biman Prasad told parliament that his government has guided the country to a better economic position than where he found it. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565486/fijian-government-unveils-us-2b-budget-as-deficit-widens>
+
+---
+
+## Tahiti prepares for its first Matari'i public holiday
+
+date: 2025-06-29, from: 
+
+In November, Tahiti will mark Matari'i as a national public holiday for the first time, following in the footsteps of Matariki in Aotearoa. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/national/565465/tahiti-prepares-for-its-first-matari-i-public-holiday>
+
+---
+
+## Eyes on the world: Hawaiʻi HS students explore intelligence careers at free UH program
+
+date: 2025-06-29, from: University of Hawaiʻi News
+
+<p>Students explored real-time global conflicts while earning college credit in an immersive <abbr>UH</abbr> Mānoa summer course.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/29/academy-for-hawaii-intelligence-studies-2025/">Eyes on the world: Hawaiʻi <abbr>HS</abbr> students explore intelligence careers at free <abbr>UH</abbr> program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/29/academy-for-hawaii-intelligence-studies-2025/>
+
+---
+
+## Trump’s sweeping tax-cut, spending bill clears first US Senate hurdle
+
+date: 2025-06-29, updated: 2025-06-29, from: Marianas Variety
+
+WASHINGTON (Reuters) — The Republican-controlled U.S. Senate narrowly advanced President Donald Trump's, sweeping tax-cut and spending bill on Saturday, during a marathon weekend session marked by political drama, division and lengthy delays as Democrats sought to slow the legislation's path to passage. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-s-sweeping-tax-cut-spending-bill-clears-first-us-senate-hurdle/article_e399c965-1049-440b-a4d0-66904de5db9d.html>
+
+---
+
+## Korean air seat capacity climbs as GVB reports tourism recovery momentum
+
+date: 2025-06-29, updated: 2025-06-29, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — The Guam Visitors Bureau is experiencing a significant rebound in Korean airline capacity with potentially 1,000 additional seats per day expected within a month, GVB Board Chairman George Chiu reported during Thursday's board meeting. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/korean-air-seat-capacity-climbs-as-gvb-reports-tourism-recovery-momentum/article_1e216a0d-91dc-436b-89e2-69444a025f10.html>
+
+---
+
+## Shriners Children’s Hawaii provides essential orthopedic care in CNMI
+
+date: 2025-06-29, updated: 2025-06-29, from: Marianas Variety
+
+(Commonwealth Healthcare Corp.) — From June 2 to 4, CHCC Public Health Services in partnership with Shriners Hospitals for Children Hawaii delivered vital orthopedic services to 84 children and adolescents from Saipan, Tinian, and Rota — including children with special healthcare needs. For over 20 years and counting, CHCC Public Health Services and Shriners Hospital Hawaii have collaborated to bring these specialty pediatric services to CNMI's children, regardless of ability to pay. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/shriners-children-s-hawaii-provides-essential-orthopedic-care-in-cnmi/article_3bae6488-79a3-48b2-8cc4-f38ec8282555.html>
+
+---
+
+## Arenovski appointed to AHLEI’s Education Certification Advisory Council
+
+date: 2025-06-29, updated: 2025-06-29, from: Marianas Variety
+
+JAMES “Jim” Arenovski, CEO of Island Training Solutions, has been appointed to the American Hotel &amp; Lodging Educational Institute’s Education Certification Advisory Council. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/arenovski-appointed-to-ahlei-s-education-certification-advisory-council/article_a66258b2-42a6-4886-9a2f-64703edc9469.html>
+
+---
+
+## House honors Gloria Cavanagh
+
+date: 2025-06-29, updated: 2025-06-29, from: Marianas Variety
+
+(Office of Rep. Julie Ogo) — The 24th CNMI House of Representatives proudly honored former Marianas Visitors Authority Board Chair Gloria Cruz Cavanagh with the presentation of House Resolution 24-10 on June 26, 2025, during a special session in the House chamber on Capital Hill. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/house-honors-gloria-cavanagh/article_9799d617-3704-497d-b00e-faea8e01014f.html>
 
 ---
 

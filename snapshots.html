@@ -28,7 +28,146 @@
 Items collected from feeds in <a href="snapshots.txt">snapshots.txt</a>
 </div>
 <h1 id="snapshots">snapshots</h1>
-<p>(date: 2025-06-29 06:08:27)</p>
+<p>(date: 2025-06-29 14:06:56)</p>
+<hr />
+<h2 id="tip-use-keyword-only-arguments-in-python-dataclasses">Tip: Use
+keyword-only arguments in Python dataclasses</h2>
+<p>date: 2025-06-29, updated: 2025-06-29, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/">Tip:
+Use keyword-only arguments in Python dataclasses</a></strong>
+</p>
+<p>Useful tip from Christian Hammond: if you create a Python dataclass
+using <code><span class="citation"
+data-cites="dataclass">@dataclass</span>(kw_only=True)</code> its
+constructor will require keyword arguments, making it easier to add
+additional properties in the future, including in subclasses, without
+risking breaking existing code.</p>
+<pre><code>&lt;p&gt;&lt;small&gt;&lt;/small&gt;Via &lt;a href=&quot;https://bsky.app/profile/chipx86.bsky.social/post/3lsrjodkfgs2h&quot;&gt;@chipx86.bsky.social&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+
+&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/python&quot;&gt;python&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Jun/29/keyword-only-arguments/#atom-everything"
+class="uri">https://simonwillison.net/2025/Jun/29/keyword-only-arguments/#atom-everything</a></p>
+<hr />
+<h2 id="how-to-fix-your-context">How to Fix Your Context</h2>
+<p>date: 2025-06-29, updated: 2025-06-29, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html">How
+to Fix Your Context</a></strong>
+</p>
+Drew Breunig has been publishing some very detailed notes on
+<a href="https://simonwillison.net/2025/Jun/27/context-engineering/">context
+engineering</a> recently. In
+<a href="https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html">How
+Long Contexts Fail</a> he described four common patterns for
+<a href="https://simonwillison.net/2025/Jun/18/context-rot/">context
+rot</a>, which he summarizes like so:
+</p>
+<blockquote>
+<ul>
+<li>
+<strong>Context Poisoning</strong>: When a hallucination or other error
+makes it into the context, where it is repeatedly referenced.
+</li>
+<li>
+<strong>Context Distraction</strong>: When a context grows so long that
+the model over-focuses on the context, neglecting what it learned during
+training.
+</li>
+<li>
+<strong>Context Confusion</strong>: When superfluous information in the
+context is used by the model to generate a low-quality response.
+</li>
+<li>
+<strong>Context Clash</strong>: When you accrue new information and
+tools in your context that conflicts with other information in the
+prompt.
+</li>
+</ul>
+</blockquote>
+<p>
+In
+<a href="https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html">this
+follow-up</a> he introduces neat ideas (and more new terminology) for
+addressing those problems.
+</p>
+<p>
+<strong>Tool Loadout</strong> describes selecting a subset of tools to
+enable for a prompt, based on research that shows anything beyond 20 can
+confuse some models.
+</p>
+<p>
+<strong>Context Quarantine</strong> is “the act of isolating contexts in
+their own dedicated threads” - I’ve called rhis sub-agents in the past,
+it’s the pattern
+<a href="https://simonwillison.net/2025/Jun/2/claude-trace/">used by
+Claude Code</a> and explored in depth in
+<a href="https://simonwillison.net/2025/Jun/14/multi-agent-research-system/">Anthropic’s
+multi-agent research paper</a>.
+</p>
+<p>
+<strong>Context Pruning</strong> is “removing irrelevant or otherwise
+unneeded information from the context”, and <strong>Context
+Summarization</strong> is the act of boiling down an accrued context
+into a condensed summary. These techniques become particularly important
+as conversations get longer and run closer to the model’s token limits.
+</p>
+<p>
+<strong>Context Offloading</strong> is “the act of storing information
+outside the LLM’s context”. I’ve seen several systems implement their
+own “memory” tool for saving and then revisiting notes as they work, but
+an even more interesting example recently is how various coding agents
+create and update <code>plan.md</code> files as they work through larger
+problems.
+</p>
+<p>
+Drew’s conclusion:
+</p>
+<blockquote>
+<p>
+The key insight across all the above tactics is that <em>context is not
+free</em>. Every token in the context influences the model’s behavior,
+for better or worse. The massive context windows of modern LLMs are a
+powerful capability, but they’re not an excuse to be sloppy with
+information management.
+</p>
+</blockquote>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/prompt-engineering&quot;&gt;prompt-engineering&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/drew-breunig&quot;&gt;drew-breunig&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm-tool-use&quot;&gt;llm-tool-use&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai-agents&quot;&gt;ai-agents&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Jun/29/how-to-fix-your-context/#atom-everything"
+class="uri">https://simonwillison.net/2025/Jun/29/how-to-fix-your-context/#atom-everything</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-06-29, from: Dave Winer’s linkblog)</p>
+<p>Thom Tillis Will Not Run Again.</p>
+<p><br></p>
+<p><a
+href="https://politicalwire.com/2025/06/29/thom-tillis-will-not-run-again/"
+class="uri">https://politicalwire.com/2025/06/29/thom-tillis-will-not-run-again/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-06-29, from: Dave Winer’s linkblog)</p>
+<p>A $1 Trillion Medicaid Cut Is THIS Close to Happening. Here’s What
+It’d Look Like.</p>
+<p><br></p>
+<p><a
+href="https://www.thebulwark.com/p/medicaid-cuts-republicans-severing-lifeline-north-carolina"
+class="uri">https://www.thebulwark.com/p/medicaid-cuts-republicans-severing-lifeline-north-carolina</a></p>
+<hr />
+<h2 id="computer-games-mag-interviews-don-bluth-1984">Computer Games mag
+Interviews Don Bluth (1984)</h2>
+<p>date: 2025-06-29, from: Computer ads from the Past</p>
+<p>Talks about the famous Dragon’s Lair</p>
+<p><br></p>
+<p><a
+href="https://computeradsfromthepast.substack.com/p/computer-games-mag-interviews-don"
+class="uri">https://computeradsfromthepast.substack.com/p/computer-games-mag-interviews-don</a></p>
 <hr />
 <h2
 id="sunday-read-sex-and-soft-power-the-book-everyone-is-reading-this-summer">Sunday

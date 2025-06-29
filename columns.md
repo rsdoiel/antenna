@@ -1,11 +1,47 @@
 ---
 title: columns
-updated: 2025-06-29 06:08:19
+updated: 2025-06-29 14:06:49
 ---
 
 # columns
 
-(date: 2025-06-29 06:08:19)
+(date: 2025-06-29 14:06:49)
+
+---
+
+## Sunday, June 29, 2025
+
+date: 2025-06-29, from: Doc Searls (at Harvard), New Old Blog
+
+A question for readers in Vijayawada. Why are statues of Avatar characters gone from Avatar Park? 
+
+<br> 
+
+<https://doc.searls.com/2025/06/29/sunday-june-29-2025/>
+
+---
+
+## June 28, 2025
+
+date: 2025-06-29, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167110870/890e494c62b29820a79c391df077e4af.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167110870/890e494c62b29820a79c391df077e4af.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-28-2025-440>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-29, from: Dave Winer's Scripting News)
+
+<a href="https://github.com/scripting/Scripting-News/issues/322">A case study in APIs</a>. Creating a new post via Bluesky's API. 
+
+<br> 
+
+<http://scripting.com/2025/06/29.html#a142739>
 
 ---
 
@@ -15,14 +51,15 @@ date: 2025-06-29, from: Dave Winer's Scripting News
 
 <p>Now that we know the outcome of the 2024 election, not just in numbers but in what it's doing to our beloved country and the rest of the world, it's interesting to revisit the campaign that journalism ran last year to force President Biden to step aside. That's one of the functions of Facebook, they play back your posts from years ago, so you can see how things changed, or didn't. </p>
 <p>Anyway, last year on this day I <a href="https://www.facebook.com/dave.winer.12/posts/pfbid0254HASiWbtuPTJvn29xiHUgPDUuS4yqHfQwtLHMn9xPADiTbqkyY6KauyCGn58o69l">wrote this</a> on Facebook: "Why don't journalists cover the Biden base? Do they even consider the possibility that there is one? Or do they think they are the base? I thought they weren't supposed to care who the nominees are? Why do they feel entitled to say one candidate should withdraw but not the other? Have any of them even thought this through?"</p>
-<p><a href="https://www.amazon.com/stores/author/B06VVR3DX6/about?ccs_id=add77910-b4f6-4323-80d0-494d4da9650f">Nick Arnett</a>, a former tech journalist, said in a comment: "Until I read this, the madness of the Times calling on Biden, but not Trump, to withdraw didn't dawn on me." </p>
+<p><a href="https://www.amazon.com/stores/author/B06VVR3DX6/about?ccs_id=add77910-b4f6-4323-80d0-494d4da9650f">Nick Arnett</a>, a former tech journalist, said in a <a href="https://www.facebook.com/dave.winer.12/posts/pfbid0254HASiWbtuPTJvn29xiHUgPDUuS4yqHfQwtLHMn9xPADiTbqkyY6KauyCGn58o69l?comment_id=399566229765683">comment</a>: "Until I read this, the madness of the Times calling on Biden, but not Trump, to withdraw didn't dawn on me." </p>
 <p>I had followed his metamorphosis over years from a journalist to a worker who goes where there are fires or other natural disasters, for the government, to support the effort to save people's homes and lives. I watched him via Facebook, in awe, as he went around the country, not being paid very much I imagine, but doing good. </p>
-<p>I learned something important when my father was in the hospital many years ago, in a coma, after losing a lot of blood and being unconscious for hours before he was found. He was in a ward in <a href="https://en.wikipedia.org/wiki/Flushing_Hospital_Medical_Center">Flushing Hospital</a>, along with a lot of other people in various stages of incapacity. All were unconscious, unable to feed themselves. Hard to know if they had any awareness. From an outside perspect they, and my father included, were lost. Some had been there for years, probably weren't ever going to come out of it. We were lucky, my father survived, after a month, and had seven more years to live.  </p>
-<p>I visited him every day, and got to know the flow of the hospital. Workers came in and out of the room to attend to these comatose people. Imagine the kind of support they needed just to keep their bodies functioning and not wasting away for lack of movement. I thought these people have the worst jobs imaginable, imagining myself in their shoes.</p>
-<p>I got to know them, asked about what else they do, how they got here, where they live, etc. Somehow I got up the courage to ask one of them if they liked their job, imagining I'd get a New Yorker comment like "You know, it's a living." But what I heard was a complete surprise. "It's the best job in the world," they said, because I can see so clearly how my work helps real people. He was looking right at me. It hit me, this man is doing what I can't do, what my father's parents, who were long gone, couldn't do. <i>Caring.</i> Caring for my dad. Then I got it.  </p>
+<p>I learned something important when my father was in the hospital many years ago, in a coma, after losing a lot of blood and being unconscious for hours before he was found. He was in a ward in <a href="https://en.wikipedia.org/wiki/Flushing_Hospital_Medical_Center">Flushing Hospital</a>, along with a lot of other comatose people. All were unconscious, unable to feed themselves. Hard to know if they had any awareness. From an outside perspective they, and my father included, were lost. Some had been there for years, probably weren't ever going to come out of it. We were lucky, my father survived, after a month, and had seven more years to live.  </p>
+<p>I visited him every day, and got to know the flow of the hospital. Workers came in and out of the room to attend to these comatose people. Imagine the kind of support they needed just to keep their bodies functioning and not wasting away for lack of movement. I thought these people must have the worst jobs imaginable, imagining myself in their shoes.</p>
+<p>I got to know them, asked about what else they do, how they got here, where they live, etc. Somehow I got up the courage to ask one of them if they liked their job, imagining I'd get a New Yorker comment like "You know, it's a living." But what I heard was a complete surprise. "It's the best job in the world," he said, because I can see so clearly how my work helps real people. He was looking right at me. It hit me, this man is doing what I can't do, what my father's parents, who were long gone, couldn't do. <i>Caring.</i> Caring for my dad. Then I got it.  </p>
 <p>Back to Nick, who was and still is, and probably always will be doing things to help other people, no matter what he does. </p>
 <p>He was canned in one of the DOGE purges this spring. </p>
 <p>Now you tell me whether the "Trump base" deserved a chance you wouldn't let us have with Biden? Why journalism felt entitled to make this decision for all of us? When are you going to get the idea that you're supposed to help us. Do the right thing. I get so angry at journalism for getting in the way. Once informed of the facts, it was their job to get out of the way and let us, the voters, make the decision. </p>
+<p>PS: In the very next post on FB, I <a href="https://www.facebook.com/dave.winer.12/posts/pfbid02nENpETJNZ48ZKVGmL8ZRpjrFWPjejG3jQAiJkqL4ofqhYNHvdQBPVaEaNQj2Anuyl">wrote</a> an <a href="https://imgs.scripting.com/2025/06/29/nytPleaseStayInYourFuckingLane.png">HTML hack</a> that makes the same point, more concisely. </p>
  
 
 <br> 
@@ -126,7 +163,7 @@ date: 2025-06-28, updated: 2025-06-28, from: Daring Fireball
 
 ## Apple’s Full List of Differences between ‘Tier 1’ and ‘Tier 2’ in the EU App Store
 
-date: 2025-06-28, updated: 2025-06-28, from: Daring Fireball
+date: 2025-06-28, updated: 2025-06-29, from: Daring Fireball
 
  
 
@@ -893,7 +930,7 @@ I've been looking for hard-hitting stories about yesterday's Supreme Court decis
 
 date: 2025-06-28, from: Doc Searls (at Harvard), New Old Blog
 
-Dots to connect. First, AI Is Breaking The Internet. Can Bill Gross Fix It?, by John Battelle. Bill&#39;s invention is prorata.ai. Hard to explain in brief, so read John&#39;s piece. Second, Om Malik&#39;s Here comes the Internet of &#34;tolls&#34;. Third,  Ezra Klein&#39;s podcast with Chris Hayes, titled Mamdani, Trump and the End of the Old Politics. Fourth, Kyla [&#8230;] 
+Obsession persists. I&#8217;ll never stop being a radio guy, no matter how much listening &#8220;what&#8217;s on&#8221; goes down, and radio itself becomes as anachronistic as steam engines. This is why, five years ago, I wrote on Quora how cars saved radio when TV got huge in the 1950s. And now I have just learned, from [&#8230;] 
 
 <br> 
 

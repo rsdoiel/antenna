@@ -1,11 +1,47 @@
 ---
 title: science and technology
-updated: 2025-06-29 06:08:18
+updated: 2025-06-29 14:06:48
 ---
 
 # science and technology
 
-(date: 2025-06-29 06:08:18)
+(date: 2025-06-29 14:06:48)
+
+---
+
+## Wayback: experimental layer to run X desktop environments on Wayland
+
+date: 2025-06-29, from: OS News
+
+With X.org being in maintenance mode, with the process of replacing it with Wayland accelerating pretty quickly now, a lot of projects using X.org are looking for ways to prepare for the future. Alpine Linux, a distribution focused on musl, BusyBox, and OpenRC, also wants to reduce its maintenance burden for X11 applications, and so Alpine Linux maintainer Ariadne Conill has come up with something interesting. Wayback is an experimental X compatibility layer which allows for running full X desktop environments using Wayland components. It is essentially a stub compositor which provides just enough Wayland capabilities to host a rootful Xwayland server. It is intended to eventually replace the classic X.org server in Alpine, thus reducing maintenance burden of X applications in Alpine, but a lot of work needs to be done first. ↫ Wayback GitHub page It&#8217;s nowhere near done and most likely contains massive amounts of bugs and issues, but the seed has been planted. Wayback will make it possible to keep running X11-based desktop environments even in a full-Wayland environment. This may be necessary in case you need a specific feature not yet available in the Wayland version of your desktop environment, or if your desktop environment of choice simply isn&#8217;t going to move to Wayland at all (due to lack of maintainers or whatever). It&#8217;ll also be a boon for retrocomputing, especially as over the coming years and decades unmaintained X11 desktop environments become become ever harder to keep running on modern Linux distributions. While X.org as it exists today certainly isn&#8217;t going anywhere any time soon, it will, eventually, stop working properly on Linux distributions who don&#8217;t ship it by default anymore, and it&#8217;s awesome to already have the beginnings of a project to address this problem. 
+
+<br> 
+
+<https://www.osnews.com/story/142664/wayback-experimental-layer-to-run-x-desktop-environments-on-wayland/>
+
+---
+
+## Microsoft to remove all but the latest versions of drivers from Windows Update
+
+date: 2025-06-29, from: OS News
+
+This blog post is intended to notify all Windows Hardware program partners that Microsoft has taken a strategic initiative to clean up legacy drivers published on Windows Update to reduce security and compatibility risks. The rationale behind this initiative is to ensure that we have the optimal set of drivers on Windows Update that cater to a variety of hardware devices across the windows ecosystem, while making sure that Microsoft Windows security posture is not compromised. This initiative involves periodic cleanup of drivers from Windows Update, thereby resulting in some drivers not being offered to any systems in the ecosystem. ↫ Microsoft&#8217;s Hardware Dev Center The general gist is that Microsoft is going to remove all drivers from Windows Update for which newer versions exist &#8211; or, to put it in a different way, only the latest versions of a driver are going to remain available on Windows Update. It&#8217;s effectively a clean-up of Windows Update, and the only way older versions of drivers will remain available on Windows Update is if the manufacturer in question can make a &#8220;business justification&#8221; to keep them around. Some of this may sound surprising, since many people assume Windows Update only offers the latest versions of drivers &#8211; annoyingly so, sometimes &#8211; but this isn&#8217;t the case. Corporations with fleets of devices can actually determine exactly which drivers get sent to their devices, including opting for older versions in case newer versions have regressions or otherwise cause issues. Sometimes you just don&#8217;t have a choice. According to Adam Demasi, the creator and maintainer of the amazing Legacy Update service, Microsoft hasn&#8217;t deleted a single driver or update from Windows Update since 2001 (save for problematic updates). This results in a truly massive collection of updates and drivers, and that&#8217;s causing real problems for Microsoft. Windows Update has a pretty cool system of describing whether an update is necessary to be installed on the current system, or if it is already installed. It also builds a relationship graph between updates, to indicate when they have been replaced by a newer update that includes all changes from the previous update. That system is also its downfall, causing the Windows Update service to be incredibly slow in checking for updates, possibly never completing the check at all. This issue also applies to WSUS, which despite being based on the very robust SQL Server, struggles with the number of drivers Microsoft hosts on Windows Update. As of April, we know that Windows Update hosts 1,799,339 drivers, and this creates a 138 GB database that requires almost 16 days to synchronise down from the main servers. The WSUS server is brought to its knees, with frequent timeouts while it furiously tries to complete database queries. (The PC used is a Ryzen 5700G with 32 GB of 3600 MHz RAM and 500 GB of NVMe, running Windows Server 2025 and SQL Server 2022.) ↫ Adam Demasi From this, it&#8217;s easy to understand why Microsoft would want to perform some housekeeping, followed by a new set of rules around only keeping the latest versions of drivers around in Windows Update. Demasi also notes that these plans by Microsoft won&#8217;t affect drivers for old devices, since they will still be served their &#8220;newest&#8221; driver version, and it won&#8217;t affect Legacy Update either. 
+
+<br> 
+
+<https://www.osnews.com/story/142662/microsoft-to-remove-all-but-the-latest-versions-of-drivers-from-windows-update/>
+
+---
+
+## “I want a good parallel computer”
+
+date: 2025-06-29, from: OS News
+
+The GPU in your computer is about 10 to 100 times more powerful than the CPU, depending on workload. For real-time graphics rendering and machine learning, you are enjoying that power, and doing those workloads on a CPU is not viable. Why aren’t we exploiting that power for other workloads? What prevents a GPU from being a more general purpose computer? ↫ Raph Levien Fascinating thoughts on parallel computation, including some mentions of earlier projects like Intel&#8217;s Larabee or the Connection Machine with 64k processors the &#8217;80s, as well as a defense of the PlayStation 3&#8217;s Cell architecture. 
+
+<br> 
+
+<https://www.osnews.com/story/142658/i-want-a-good-parallel-computer/>
 
 ---
 
@@ -35,7 +71,7 @@ date: 2025-06-28, updated: 2025-06-28, from: The Register (UK I.T. News)
 
 ## How to get free software from yesteryear's IT crowd – trick code into thinking it's running on a rival PC
 
-date: 2025-06-28, updated: 2025-06-28, from: The Register (UK I.T. News)
+date: 2025-06-28, updated: 2025-06-29, from: The Register (UK I.T. News)
 
 <h4>&#39;This is not a copyright message&#39;</h4> <p>Before plug and play was blowing up Windows 98 on a Comdex stage, Windows 95 engineers were grappling with the technology – and on one fateful day they found some unusual text in the BIOS of several PCs that they had to work around.…</p> 
 
@@ -311,7 +347,7 @@ The blue screen of death has been such a core part of Windows that&#8217;s it&#8
 
 ## The network is indeed trying to become the computer
 
-date: 2025-06-27, updated: 2025-06-27, from: The Register (UK I.T. News)
+date: 2025-06-27, updated: 2025-06-29, from: The Register (UK I.T. News)
 
 <h4>Masked networking costs are coming to AI systems</h4> <p><strong>Analysis</strong>  Moore&#39;s Law has run out of gas and AI workloads need massive amounts of parallel compute and high bandwidth memory right next to it – both of which have become terribly expensive. If it weren&#39;t for this situation, the beancounters of the world might be complaining about the cost of networking in the datacenter.…</p> 
 

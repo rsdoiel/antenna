@@ -1,11 +1,71 @@
 ---
 title: going electric
-updated: 2025-06-29 06:08:25
+updated: 2025-06-29 14:06:54
 ---
 
 # going electric
 
-(date: 2025-06-29 06:08:25)
+(date: 2025-06-29 14:06:54)
+
+---
+
+## Volvo delivers 5,000th electric semi with little fanfare, sending a BIG message
+
+date: 2025-06-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/volvo-trucks-range-runway-2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>With the Tesla Semi making headlines consistently since its first public appearance <em>waaay</em> back back in 2017, you might think they were some kind of market leaders. Meanwhile, Volvo Trucks has quietly delivered its 5,000th electric semi truck … and they’re just getting started.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-semi-truck,volvo-trucks" data-layer-viewtype="unknown" data-post-id="422764" href="https://electrek.co/2025/06/29/volvo-delivers-5000th-electric-semi-with-little-fanfare-sending-a-big-message/#more-422764" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/29/volvo-delivers-5000th-electric-semi-with-little-fanfare-sending-a-big-message/>
+
+---
+
+## 100,000 EVs Will Retire This Year. What Will Happen To Their Batteries?
+
+date: 2025-06-29, from: Inside EVs News
+
+The second-life EV battery market is on the cusp of explosive growth thanks to companies such as Redwood Materials. 
+
+<br> 
+
+<https://insideevs.com/news/764186/ev-battery-redwood-second-life/>
+
+---
+
+## CASE expands compact equipment lineup with new CX25EV electric excavator
+
+date: 2025-06-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/CX25EV.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>CASE CE is expanding its mini excavator lineup with the launch of four models this week, including an all-new electric model designed to delivers emissions-free performance that rivals any of its comparably-sized diesel counterparts — including its CASE-branded siblings!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="case,electric-construction-equipment" data-layer-viewtype="unknown" data-post-id="422737" href="https://electrek.co/2025/06/29/case-expands-compact-equipment-lineup-with-new-cx25ev-electric-excavator/#more-422737" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/29/case-expands-compact-equipment-lineup-with-new-cx25ev-electric-excavator/>
+
+---
+
+## E-quipment highlight: Manitou telehandler gets electric retrofit
+
+date: 2025-06-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/MAINTOU.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>No matter how badly a fleet may want to electrify, harsh economic realities and the greater up-front costs typically associated with battery electric remain high hurdles to overcome — but a new retrofit option from French equipment manufacturer Manitou could help lower those barriers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,ev-conversion" data-layer-viewtype="unknown" data-post-id="422718" href="https://electrek.co/2025/06/29/e-quipment-highlight-manitou-telehandler-gets-electric-retrofit/#more-422718" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/29/e-quipment-highlight-manitou-telehandler-gets-electric-retrofit/>
 
 ---
 

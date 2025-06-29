@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2025-06-29 06:08:24
+updated: 2025-06-29 14:06:53
 ---
 
 # retro computing
 
-(date: 2025-06-29 06:08:24)
+(date: 2025-06-29 14:06:53)
+
+---
+
+## RISCOSbits at WROCC – 2nd July
+
+date: 2025-06-29, from: RiscOS Story
+
+The Wakefield RISC OS Computer Club (WROCC) will be holding their next meeting on Wednesday, 2nd July, and the guest speaker will be Andy Marks, of RISCOSbits. Back in the run up to the RISC OS North show, RISCOSbits announced &#8216;Easy Concurrent Operating System&#8217; (ECOS) 5, although it only became available more recently. The product is an update for the company&#8217;s FAST computers, and allows it to operate as both a RISC OS and a Linux system &#8211; as its full name suggest, concurrently, with Linux accessible (via some internal&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/riscosbits-at-wrocc-2nd-july/>
+
+---
+
+## b.log 2025/06/29 - Forgetting the past, Starmer needs to go, Proscribed terrorists, Peas, Repairing a pizza.
+
+date: 2025-06-29, from: Richard Murray's blog
+
+Forgetting the past, Starmer needs to go, Proscribed terrorists, Peas, Repairing a pizza. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250629>
+
+---
+
+## Computer Games mag Interviews Don Bluth (1984)
+
+date: 2025-06-29, from: Computer ads from the Past
+
+Talks about the famous Dragon's Lair 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/computer-games-mag-interviews-don>
 
 ---
 

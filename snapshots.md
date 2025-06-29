@@ -1,11 +1,94 @@
 ---
 title: snapshots
-updated: 2025-06-29 06:08:27
+updated: 2025-06-29 14:06:56
 ---
 
 # snapshots
 
-(date: 2025-06-29 06:08:27)
+(date: 2025-06-29 14:06:56)
+
+---
+
+## Tip: Use keyword-only arguments in Python dataclasses
+
+date: 2025-06-29, updated: 2025-06-29, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/">Tip: Use keyword-only arguments in Python dataclasses</a></strong></p>
+Useful tip from Christian Hammond: if you create a Python dataclass using <code>@dataclass(kw_only=True)</code> its constructor will require keyword arguments, making it easier to add additional properties in the future, including in subclasses, without risking breaking existing code.
+
+    <p><small></small>Via <a href="https://bsky.app/profile/chipx86.bsky.social/post/3lsrjodkfgs2h">@chipx86.bsky.social</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/python">python</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/29/keyword-only-arguments/#atom-everything>
+
+---
+
+## How to Fix Your Context
+
+date: 2025-06-29, updated: 2025-06-29, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html">How to Fix Your Context</a></strong></p>
+Drew Breunig has been publishing some very detailed notes on <a href="https://simonwillison.net/2025/Jun/27/context-engineering/">context engineering</a> recently. In <a href="https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html">How Long Contexts Fail</a> he described four common patterns for <a href="https://simonwillison.net/2025/Jun/18/context-rot/">context rot</a>, which he summarizes like so:</p>
+<blockquote>
+<ul>
+<li><strong>Context Poisoning</strong>: When a hallucination or other error makes it into the context, where it is repeatedly referenced.</li>
+<li><strong>Context Distraction</strong>: When a context grows so long that the model over-focuses on the context, neglecting what it learned during training.</li>
+<li><strong>Context Confusion</strong>: When superfluous information in the context is used by the model to generate a low-quality response.</li>
+<li><strong>Context Clash</strong>: When you accrue new information and tools in your context that conflicts with other information in the prompt.</li>
+</ul>
+</blockquote>
+<p>In <a href="https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html">this follow-up</a> he introduces neat ideas (and more new terminology) for addressing those problems.</p>
+<p><strong>Tool Loadout</strong> describes selecting a subset of tools to enable for a prompt, based on research that shows anything beyond 20 can confuse some models. </p>
+<p><strong>Context Quarantine</strong> is "the act of isolating contexts in their own dedicated threads" - I've called rhis sub-agents in the past, it's the pattern <a href="https://simonwillison.net/2025/Jun/2/claude-trace/">used by Claude Code</a> and explored in depth in <a href="https://simonwillison.net/2025/Jun/14/multi-agent-research-system/">Anthropic's multi-agent research paper</a>.</p>
+<p><strong>Context Pruning</strong> is "removing irrelevant or otherwise unneeded information from the context", and <strong>Context Summarization</strong> is the act of boiling down an accrued context into a condensed summary. These techniques become particularly important as conversations get longer and run closer to the model's token limits.</p>
+<p><strong>Context Offloading</strong> is "the act of storing information outside the LLM’s context". I've seen several systems implement their own "memory" tool for saving and then revisiting notes as they work, but an even more interesting example recently is how various coding agents create and update <code>plan.md</code> files as they work through larger problems.</p>
+<p>Drew's conclusion:</p>
+<blockquote>
+<p>The key insight across all the above tactics is that <em>context is not free</em>. Every token in the context influences the model’s behavior, for better or worse. The massive context windows of modern LLMs are a powerful capability, but they’re not an excuse to be sloppy with information management.</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/drew-breunig">drew-breunig</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/29/how-to-fix-your-context/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-29, from: Dave Winer's linkblog)
+
+Thom Tillis Will Not Run Again. 
+
+<br> 
+
+<https://politicalwire.com/2025/06/29/thom-tillis-will-not-run-again/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-29, from: Dave Winer's linkblog)
+
+A $1 Trillion Medicaid Cut Is THIS Close to Happening. Here’s What It’d Look Like. 
+
+<br> 
+
+<https://www.thebulwark.com/p/medicaid-cuts-republicans-severing-lifeline-north-carolina>
+
+---
+
+## Computer Games mag Interviews Don Bluth (1984)
+
+date: 2025-06-29, from: Computer ads from the Past
+
+Talks about the famous Dragon's Lair 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/computer-games-mag-interviews-don>
 
 ---
 

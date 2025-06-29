@@ -1,11 +1,23 @@
 ---
 title: north america
-updated: 2025-06-29 06:08:15
+updated: 2025-06-29 14:06:45
 ---
 
 # north america
 
-(date: 2025-06-29 06:08:15)
+(date: 2025-06-29 14:06:45)
+
+---
+
+##  LEVER WEEKLY: School’s Out, Zohran’s In 
+
+date: 2025-06-29, from: The Lever News
+
+ Robots take over schools, a democratic socialist takes over New York, and more from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/lever-weekly-schools-out-zohrans-in/>
 
 ---
 

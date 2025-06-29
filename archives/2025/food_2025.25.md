@@ -1,11 +1,23 @@
 ---
 title: food
-updated: 2025-06-29 06:08:25
+updated: 2025-06-29 14:06:54
 ---
 
 # food
 
-(date: 2025-06-29 06:08:25)
+(date: 2025-06-29 14:06:54)
+
+---
+
+## Here Are The Four New World Coffee Champions From Geneva
+
+date: 2025-06-29, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Congratulations to all the winners! 
+
+<br> 
+
+<https://sprudge.com/here-are-the-four-new-world-coffee-champions-from-geneva-362236.html>
 
 ---
 

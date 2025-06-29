@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2025-06-29 06:08:20
+updated: 2025-06-29 14:06:49
 ---
 
 # weather
 
-(date: 2025-06-29 06:08:20)
+(date: 2025-06-29 14:06:49)
 
 ---
 
 ## There are no tropical cyclones at this time.
 
-date: 2025-06-30, from: Central Pacific Basin Tropical Cyclones
+date: 2025-07-01, from: Central Pacific Basin Tropical Cyclones
 
-No tropical cyclones as of Sun, 29 Jun 2025 13:00:46 GMT 
+No tropical cyclones as of Sun, 29 Jun 2025 20:40:36 GMT 
 
 <br> 
 
@@ -30,6 +30,1578 @@ No tropical cyclones as of Sat, 28 Jun 2025 21:00:06 GMT
 <br> 
 
 <https://www.nhc.noaa.gov/gis/>
+
+---
+
+## SPC MD 1513
+
+date: 2025-06-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1513.html"><img src="https://www.spc.noaa.gov/products/md/mcd1513.png" border="1" alt="MD 1513 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1513
+NWS Storm Prediction Center Norman OK
+0337 PM CDT Sun Jun 29 2025
+
+Areas affected...southeast Kansas...southwest Missouri...and far
+northeast Oklahoma
+
+Concerning...Severe Thunderstorm Watch 478...
+
+Valid 292037Z - 292200Z
+
+The severe weather threat for Severe Thunderstorm Watch 478
+continues.
+
+SUMMARY...Thunderstorms will continue through the afternoon.
+Isolated wind damage should be the primary threat.
+
+DISCUSSION...Thunderstorms continue to develop/loosely organize
+across southeast Kansas and southwest Missouri this afternoon along
+the leading edge of an advancing cold pool from overnight
+convection. The airmass along and ahead of these storms is strongly
+to extremely unstable, with MUCAPE values in excess of 5000 J/kg
+across northeast Oklahoma and northwest Arkansas, with very little
+convective inhibition remaining. 
+
+The degree of instability and loose organization should continue a
+severe threat through the afternoon despite the presence of meager
+deep-layer shear. The extreme instability, and precipitable water
+values near 2 inches in the vicinity of these thunderstorms should
+lead to continued water-loaded downdrafts and a reinforcement of the
+cold pool, leading to continued thunderstorm development. An
+isolated severe wind gust or wind damage will be possible this
+afternoon, especially on or near area lakes where frictional effects
+will be minimized.
+
+..Marsh.. 06/29/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...SGF...EAX...TSA...ICT...
+
+LAT...LON   37009649 37569652 37619597 38029590 38019464 38059457
+            38049405 38199404 38199350 38089350 38059303 37909306
+            37909321 37749320 37739314 37449318 37429306 37139308
+            37089290 36849290 36839277 36519279 36499461 36679463
+            36669501 36539500 36519531 36599532 36599579 37009579
+            37009649 
+
+MOST PROBABLE PEAK TORNADO INTENSITY...UP TO 95 MPH
+MOST PROBABLE PEAK WIND GUST...55-70 MPH
+MOST PROBABLE PEAK HAIL SIZE...UP TO 1.25 IN
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1513.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md1513.html>
+
+---
+
+## SPC MD 1512
+
+date: 2025-06-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1512.html"><img src="https://www.spc.noaa.gov/products/md/mcd1512.png" border="1" alt="MD 1512 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1512
+NWS Storm Prediction Center Norman OK
+0322 PM CDT Sun Jun 29 2025
+
+Areas affected...Portions of Wisconsin
+
+Concerning...Severe Thunderstorm Watch 477...
+
+Valid 292022Z - 292145Z
+
+The severe weather threat for Severe Thunderstorm Watch 477
+continues.
+
+SUMMARY...Thunderstorms will continue this afternoon in a strongly
+unstable airmass. Large hail and isolated wind damage are possible
+with the strongest thunderstorms.
+
+DISCUSSION...Thunderstorms continue along a diffuse frontal zone
+across Wisconsin this afternoon in response to strong diurnal
+heating and  minimal inhibition. Despite most-unstable CAPE values
+in excess of 2000 J/kg, these thunderstorms have shown little
+organization nor longevity -- likely owing to the weak deep-layer
+shear. 
+
+Given the degree of instability, freezing heights are sufficiently
+low to support an isolated large hail threat through the afternoon,
+especially with the strongest thunderstorm cores. Additionally, the
+potential for isolated wind damage may occur with any strong
+thunderstorm updraft collapse.
+
+..Marsh.. 06/29/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...MQT...GRB...LOT...MKX...DVN...ARX...
+
+LAT...LON   42488934 42519060 42629069 42739104 43119119 43269107
+            43359120 43699125 43719091 44149091 44139030 44229028
+            44228970 44488970 44478980 44658977 44658922 45038918
+            44998896 45108894 45108859 45338868 45338840 45718837
+            45708807 45758806 45708781 45428783 45348783 45378769
+            45188772 45078758 45418736 45378676 45018697 44588736
+            44318743 44198743 44098749 44108761 43908763 43868816
+            43568816 43538842 43228840 43208897 42868899 42858936
+            42488934 
+
+MOST PROBABLE PEAK WIND GUST...55-70 MPH
+MOST PROBABLE PEAK HAIL SIZE...1.00-1.75 IN
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1512.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md1512.html>
+
+---
+
+## SPC MD 1511
+
+date: 2025-06-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1511.html"><img src="https://www.spc.noaa.gov/products/md/mcd1511.png" border="1" alt="MD 1511 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1511
+NWS Storm Prediction Center Norman OK
+0300 PM CDT Sun Jun 29 2025
+
+Areas affected...southeast CO and northeast NM
+
+Concerning...Severe potential...Watch unlikely 
+
+Valid 292000Z - 292130Z
+
+Probability of Watch Issuance...20 percent
+
+SUMMARY...Isolated severe gusts and small to marginally severe hail
+will be possible through late afternoon across southeast Colorado
+into northeast New Mexico. After coordination with WFO PUB, watch
+issuance in the near-term is unlikely, but may increase later
+towards the Kansas border.
+
+DISCUSSION...Several cells have formed from the Pikes Peak region
+southward along the Sangre de Cristo Mountains. Much of this region
+lies on the fringe of meager buoyancy with a deep, well-mixed
+boundary layer across the adjacent High Plains. PUB VWP data sampled
+slightly stronger low-level northeasterlies relative to mid-level
+westerlies, indicative of the modest deep-layer flow and shear
+environment. Nevertheless, the large surface temperature-dew point
+spreads will be favorable for microbursts capable of strong to
+severe gusts. Convection is expected to remain disorganized over the
+next few hours. There is signal that some uptick may occur into
+early evening as outflows impinge on increasingly greater buoyancy
+towards the KS border.
+
+..Grams/Hart.. 06/29/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...AMA...PUB...ABQ...
+
+LAT...LON   38630494 38980467 38720418 38430412 38370334 38380309
+            38260286 37650284 36940287 36600286 36210318 35730460
+            35810497 37100483 38260499 38630494 
+
+MOST PROBABLE PEAK WIND GUST...55-70 MPH
+MOST PROBABLE PEAK HAIL SIZE...UP TO 1.25 IN
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1511.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md1511.html>
+
+---
+
+## Advisory #003 Forecast [shp] - Tropical Storm Flossie (EP1/EP062025)
+
+date: 2025-06-29, from: Eastern Pacific Basin GIS Data
+
+Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Sun, 29 Jun 2025 20:40:26 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep062025_5day_003.zip>
+
+---
+
+## Advisory #003 Watches/Warnings [kmz] - Tropical Storm Flossie (EP1/EP062025)
+
+date: 2025-06-29, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Sun, 29 Jun 2025 20:40:23 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP062025_003adv_WW.kmz>
+
+---
+
+## Tropical Storm Flossie Graphics
+
+date: 2025-06-29, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/204021.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP06/EP062025_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Flossie 5-Day Uncertainty Track Image" width="500" height="400" /></a>
+<br />5-Day Uncertainty Track last updated Sun, 29 Jun 2025 20:40:08 GMT
+<br />
+<br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/204021.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP06/EP062025_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Flossie 34-Knot Wind Speed Probabilities" width="500" height="400" /> </a>
+<br />Wind Speed Probabilities last updated Sun, 29 Jun 2025 20:40:08 GMT
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/204021.shtml?cone>
+
+---
+
+## Advisory #003 Forecast Track [kmz] - Tropical Storm Flossie (EP1/EP062025)
+
+date: 2025-06-29, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Sun, 29 Jun 2025 20:40:20 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP062025_003adv_TRACK.kmz>
+
+---
+
+## Advisory #003 Cone of Uncertainty [kmz] - Tropical Storm Flossie (EP1/EP062025)
+
+date: 2025-06-29, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Sun, 29 Jun 2025 20:40:12 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP062025_003adv_CONE.kmz>
+
+---
+
+## Tropical Storm Flossie Forecast Discussion Number 3
+
+date: 2025-06-29, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>000
+WTPZ41 KNHC 292037
+TCDEP1
+ 
+Tropical Storm Flossie Discussion Number   3
+NWS National Hurricane Center Miami FL       EP062025
+300 PM CST Sun Jun 29 2025
+ 
+Earlier SSMIS microwave data and satellite imagery depicted Flossie 
+becoming better organized with curved banding features. However, 
+recent imagery shows that banding has become a little more broken 
+since the previous advisory, as Flossie is still trying to organize 
+and consolidate. A 1600 UTC METOP-C scatterometer pass shows that 
+the low-level center has become better defined, however was slightly 
+south of the previously estimated position, and satellite-derived 
+winds were around 31 kt. Using the scatterometer data and the latest 
+subjective Dvorak intensity estimates T2.5, from both TAFB and SAB, 
+the intensity is held at 35 kt for this advisory.
+ 
+Flossie is located within a favorable environment for strengthening 
+with warm sea surface temperatures, plentiful moisture and low to 
+moderate wind shear. As the system becomes better organized, steady 
+strengthening is forecast. Rapid intensification indices remain 
+elevated in latest SHIPS guidance, however RI is not explicitly 
+forecast at this time. The latest NHC intensity forecast is similar 
+to the previous, closest to the hurricane regional aids, but lies 
+slightly below the HCCA corrected consensus.
+ 
+The current motion is estimated to be westward-northwestward around 
+295/7 kt. The storm is forecast moving west-northwestward  with a 
+turn towards the northwest anticipated tomorrow around the western 
+periphery of a subtropical ridge. The latest track forecast is near 
+the previous, and lies between the simple and HCCA corrected 
+consensus aids.
+ 
+Residents of Mexico should stay updated on the latest forecast.  A 
+track even a little more to the right of the official forecast could 
+bring more significant impacts to the coast of southwestern Mexico.
+ 
+KEY MESSAGES:
+ 
+1. The outer bands of Tropical Storm Flossie may bring locally heavy 
+rainfall to the Mexican states of Oaxaca, Guerrero, Michoacán, 
+Colima, and Jalisco through early this week. Life-threatening 
+flooding and mudslides are possible, particularly in areas of steep 
+terrain.
+ 
+2. A tropical storm watch is in effect for southwestern Mexico, and 
+tropical storm warnings could be required later tonight for a 
+portion of the coast of southern Mexico.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  29/2100Z 13.5N 100.4W   35 KT  40 MPH
+ 12H  30/0600Z 14.3N 101.2W   45 KT  50 MPH
+ 24H  30/1800Z 15.5N 102.7W   55 KT  65 MPH
+ 36H  01/0600Z 16.8N 104.3W   70 KT  80 MPH
+ 48H  01/1800Z 17.9N 106.0W   80 KT  90 MPH
+ 60H  02/0600Z 19.0N 107.4W   85 KT 100 MPH
+ 72H  02/1800Z 20.0N 108.8W   80 KT  90 MPH
+ 96H  03/1800Z 22.0N 110.8W   55 KT  65 MPH
+120H  04/1800Z 24.0N 113.1W   30 KT  35 MPH...POST-TROP/REMNT LOW
+ 
+$$
+Forecaster Kelly</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCDEP1+shtml/292037.shtml>
+
+---
+
+## Tropical Storm Flossie Wind Speed Probabilities Number 3
+
+date: 2025-06-29, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>000
+FOPZ11 KNHC 292037
+PWSEP1
+                                                                    
+TROPICAL STORM FLOSSIE WIND SPEED PROBABILITIES NUMBER   3          
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP062025               
+2100 UTC SUN JUN 29 2025                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM FLOSSIE WAS LOCATED NEAR      
+LATITUDE 13.5 NORTH...LONGITUDE 100.4 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 35 KTS...40 MPH...65 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z SUN AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z SUN 06Z MON 18Z MON 06Z TUE 18Z TUE 18Z WED 18Z THU
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z MON 18Z MON 06Z TUE 18Z TUE 18Z WED 18Z THU 18Z FRI
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+CABO SAN LUCAS 34  X   X( X)   X( X)   X( X)  16(16)  23(39)   1(40)
+CABO SAN LUCAS 50  X   X( X)   X( X)   X( X)   1( 1)   7( 8)   X( 8)
+CABO SAN LUCAS 64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+ 
+SAN JOSE CABO  34  X   X( X)   X( X)   X( X)  14(14)  18(32)   1(33)
+SAN JOSE CABO  50  X   X( X)   X( X)   X( X)   1( 1)   6( 7)   X( 7)
+SAN JOSE CABO  64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+ 
+LA PAZ         34  X   X( X)   X( X)   X( X)   5( 5)  12(17)   3(20)
+ 
+LORETO         34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   1( 5)
+ 
+ISLAS MARIAS   34  X   X( X)   2( 2)   8(10)  27(37)   1(38)   X(38)
+ISLAS MARIAS   50  X   X( X)   X( X)   1( 1)   3( 4)   1( 5)   X( 5)
+ 
+MAZATLAN       34  X   X( X)   X( X)   1( 1)   9(10)   2(12)   X(12)
+ 
+SAN BLAS       34  X   X( X)   2( 2)   6( 8)  12(20)   1(21)   X(21)
+ 
+P VALLARTA     34  X   X( X)   1( 1)   5( 6)   6(12)   1(13)   X(13)
+ 
+15N 105W       34  1   9(10)  20(30)   3(33)   2(35)   X(35)   X(35)
+ 
+BARRA NAVIDAD  34  X   X( X)   5( 5)  22(27)   4(31)   X(31)   X(31)
+BARRA NAVIDAD  50  X   X( X)   X( X)   3( 3)   1( 4)   X( 4)   X( 4)
+ 
+MANZANILLO     34  X   2( 2)  26(28)  27(55)   5(60)   X(60)   X(60)
+MANZANILLO     50  X   X( X)   1( 1)   9(10)   1(11)   X(11)   X(11)
+MANZANILLO     64  X   X( X)   X( X)   2( 2)   X( 2)   X( 2)   X( 2)
+ 
+L CARDENAS     34  1  12(13)  18(31)   3(34)   2(36)   X(36)   X(36)
+ 
+ZIHUATANEJO    34  1  13(14)   9(23)   3(26)   1(27)   X(27)   X(27)
+ 
+15N 100W       34 56   1(57)   1(58)   X(58)   X(58)   X(58)   X(58)
+ 
+ACAPULCO       34  3   4( 7)   3(10)   1(11)   X(11)   X(11)   X(11)
+ 
+P MALDONADO    34  1   2( 3)   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+15N 110W       34  X   X( X)   X( X)   2( 2)   3( 5)   X( 5)   X( 5)
+ 
+20N 110W       34  X   X( X)   X( X)   4( 4)  48(52)  10(62)   X(62)
+20N 110W       50  X   X( X)   X( X)   X( X)  15(15)   7(22)   X(22)
+20N 110W       64  X   X( X)   X( X)   X( X)   6( 6)   4(10)   X(10)
+ 
+ISLA SOCORRO   34  X   X( X)   X( X)   2( 2)  19(21)   3(24)   X(24)
+ISLA SOCORRO   50  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   X( 3)
+ISLA SOCORRO   64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+20N 115W       34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   X( 3)
+ 
+25N 115W       34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   3( 4)
+ 
+$$                                                                  
+FORECASTER KELLY</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIAPWSEP1+shtml/292037.shtml>
+
+---
+
+## Summary for Tropical Storm Flossie (EP1/EP062025)
+
+date: 2025-06-29, from: Eastern Pacific Basin GIS Data
+
+...FLOSSIE CONTINUES WEST-NORTHWESTWARD... As of 3:00 PM CST Sun Jun 29 the center of Flossie was located near 13.5, -100.4 with movement WNW at 8 mph. The minimum central pressure was 1005 mb with maximum sustained winds of about 40 mph. 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATCPEP1.shtml>
+
+---
+
+## Tropical Storm Flossie Public Advisory Number 3
+
+date: 2025-06-29, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>164 
+WTPZ31 KNHC 292036
+TCPEP1
+ 
+BULLETIN
+Tropical Storm Flossie Advisory Number   3
+NWS National Hurricane Center Miami FL       EP062025
+300 PM CST Sun Jun 29 2025
+ 
+...FLOSSIE CONTINUES WEST-NORTHWESTWARD...
+ 
+ 
+SUMMARY OF 300 PM CST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...13.5N 100.4W
+ABOUT 235 MI...380 KM S OF ACAPULCO MEXICO
+ABOUT 460 MI...740 KM SE OF MANZANILLO MEXICO
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...WNW OR 295 DEGREES AT 8 MPH...13 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Watch is in effect for...
+* Southwest coast of Mexico from Zihuatanejo to Cabo Corrientes
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+Interests elsewhere in southwestern Mexico should monitor the
+progress of Tropical Storm Flossie.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 300 PM CST (2100 UTC), the center of Tropical Storm Flossie was 
+located near latitude 13.5 North, longitude 100.4 West. Flossie is 
+moving toward the west-northwest near 8 mph (13 km/h). A 
+west-northwest to northwestward motion should continue over the next 
+few days.
+
+Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
+Steady strengthening is forecast during the next few days, and the
+system is expected to become a hurricane late Monday or Tuesday.
+ 
+Tropical-storm-force winds extend outward up to 105 miles (165 km)
+from the center.
+ 
+The estimated minimum central pressure is 1005 mb (29.68 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Tropical Storm Flossie can be found in the Tropical
+Cyclone Discussion under AWIPS header MIATCDEP1 and WMO header
+WTPZ41 KNHC.
+ 
+RAINFALL: Tropical Storm Flossie is expected to produce rainfall 
+totals of 3 to 6 inches, with isolated maximum totals of 10 inches, 
+across portions of the Mexican states of Oaxaca, Guerrero, 
+Michoacán, Colima, and Jalisco through early this week. This 
+rainfall may lead to areas of life-threatening flooding and 
+mudslides, especially in areas of steep terrain. 
+
+For a complete depiction of forecast rainfall associated with 
+Tropical Storm Flossie, please see the National Weather Service 
+Storm Total Rainfall Graphic available at 
+hurricanes.gov/graphics_ep1.shtml?rainqpf
+ 
+WIND: Tropical storm conditions are possible along the coast within
+the watch area late Monday and Tuesday.
+ 
+SURF: Swells generated by Flossie will affect portions of the coast
+of southwestern Mexico during the next few days. These swells are
+likely to cause life-threatening surf and rip current conditions.
+Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 600 PM CST.
+Next complete advisory at 900 PM CST.
+ 
+$$
+Forecaster Kelly</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/292036.shtml>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2025-06-29, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Sun Jun 29 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on <br>recently upgraded Tropical Storm Barry, nearing the eastern <br>coast of Mexico in the Bay of Campeche.<br><br>1. Southeastern U.S. Coastline:<br>Towards the end of this week into next weekend, an area of low <br>pressure could develop from a remnant frontal boundary near or along <br>the southeastern U.S. Atlantic or Gulf coasts. Some gradual tropical <br>or subtropical development could occur thereafter as it drifts <br>slowly just off the U.S. coastline. <br>* Formation chance through 48 hours...low...near 0 percent. <br>* Formation chance through 7 days...low...20 percent.<br><br><br><br>Public Advisories on Tropical Storm Barry are issued under WMO <br>header WTNT32 KNHC and under AWIPS header MIATCPAT2. <br>Forecast/Advisories on Tropical Storm Barry are issued under WMO <br>header WTNT22 KNHC and under AWIPS header MIATCMAT2.<br><br><br>Forecaster Papin<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Tropical Storm Flossie Forecast Advisory Number 3
+
+date: 2025-06-29, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>000
+WTPZ21 KNHC 292035
+TCMEP1
+ 
+TROPICAL STORM FLOSSIE FORECAST/ADVISORY NUMBER   3
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP062025
+2100 UTC SUN JUN 29 2025
+ 
+TROPICAL STORM CENTER LOCATED NEAR 13.5N 100.4W AT 29/2100Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST-NORTHWEST OR 295 DEGREES AT   7 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1005 MB
+MAX SUSTAINED WINDS  35 KT WITH GUSTS TO  45 KT.
+34 KT....... 90NE   0SE  50SW  90NW.
+4 M SEAS.... 90NE   0SE   0SW  90NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 13.5N 100.4W AT 29/2100Z
+AT 29/1800Z CENTER WAS LOCATED NEAR 13.4N 100.1W
+ 
+FORECAST VALID 30/0600Z 14.3N 101.2W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 90NE  40SE  50SW  80NW.
+ 
+FORECAST VALID 30/1800Z 15.5N 102.7W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 20NE  20SE   0SW  10NW.
+34 KT...110NE  80SE  70SW  80NW.
+ 
+FORECAST VALID 01/0600Z 16.8N 104.3W
+MAX WIND  70 KT...GUSTS  85 KT.
+64 KT... 10NE   0SE   0SW  10NW.
+50 KT... 40NE  30SE  10SW  20NW.
+34 KT...110NE 100SE  70SW  80NW.
+ 
+FORECAST VALID 01/1800Z 17.9N 106.0W
+MAX WIND  80 KT...GUSTS 100 KT.
+64 KT... 20NE  10SE  10SW  20NW.
+50 KT... 40NE  30SE  20SW  30NW.
+34 KT...120NE 110SE  60SW  80NW.
+ 
+FORECAST VALID 02/0600Z 19.0N 107.4W
+MAX WIND  85 KT...GUSTS 105 KT.
+64 KT... 20NE  20SE  10SW  20NW.
+50 KT... 40NE  30SE  30SW  30NW.
+34 KT...120NE  90SE  60SW  70NW.
+ 
+FORECAST VALID 02/1800Z 20.0N 108.8W
+MAX WIND  80 KT...GUSTS 100 KT.
+64 KT... 20NE  20SE  10SW  15NW.
+50 KT... 40NE  30SE  30SW  30NW.
+34 KT...110NE  80SE  50SW  70NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 03/1800Z 22.0N 110.8W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 20NE  10SE  10SW  10NW.
+34 KT... 70NE  50SE  40SW  40NW.
+ 
+OUTLOOK VALID 04/1800Z 24.0N 113.1W...POST-TROP/REMNT LOW
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 13.5N 100.4W
+ 
+INTERMEDIATE PUBLIC ADVISORY...WTNT31 KNHC/MIATCPEP1...AT 30/0000Z
+ 
+NEXT ADVISORY AT 30/0300Z
+ 
+$$
+FORECASTER KELLY</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCMEP1+shtml/292035.shtml>
+
+---
+
+## SPC Severe Thunderstorm Watch 479
+
+date: 2025-06-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0479.html"><img src="https://www.spc.noaa.gov/products/watch/ww0479_radar.gif" border="1" alt="WW 0479 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Watch Number 479
+NWS Storm Prediction Center Norman OK
+145 PM MDT Sun Jun 29 2025
+
+The NWS Storm Prediction Center has issued a
+
+* Severe Thunderstorm Watch for portions of 
+  Northeast Colorado
+  Western Nebraska
+  Southwest South Dakota
+  Eastern Wyoming
+
+* Effective this Sunday afternoon and evening from 145 PM until
+  900 PM MDT.
+
+* Primary threats include...
+  Scattered large hail and isolated very large hail events to 2.5
+    inches in diameter possible
+  Scattered damaging wind gusts to 70 mph possible
+
+SUMMARY...Clusters of thunderstorms will develop from eastern
+Wyoming into central Colorado this afternoon.  These storms will
+spread eastward into western South Dakota/Nebraska through the
+evening.  Damaging winds and large hail will be possible.
+
+The severe thunderstorm watch area is approximately along and 60
+statute miles east and west of a line from 85 miles north northwest
+of Chadron NE to 15 miles southwest of Limon CO. For a complete
+depiction of the watch see the associated watch outline update
+(WOUS64 KWNS WOU9).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Severe Thunderstorm Watch means conditions are
+favorable for severe thunderstorms in and close to the watch area.
+Persons in these areas should be on the lookout for threatening
+weather conditions and listen for later statements and possible
+warnings. Severe thunderstorms can and occasionally do produce
+tornadoes.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 477...WW 478...
+
+AVIATION...A few severe thunderstorms with hail surface and aloft to
+2.5 inches. Extreme turbulence and surface wind gusts to 60 knots. A
+few cumulonimbi with maximum tops to 500. Mean storm motion vector
+28030.
+
+...Hart
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0479.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ww0479.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 479 Status Reports
+
+date: 2025-06-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0479.html"><img src="https://www.spc.noaa.gov/products/watch/ww0479_radar.gif" border="1" alt="WW 0479 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 479
+
+THE SEVERE WEATHER THREAT CONTINUES ACROSS THE ENTIRE WATCH AREA.
+
+..GRAMS..06/29/25
+
+ATTN...WFO...BOU...CYS...LBF...UNR...
+
+
+STATUS REPORT FOR WS 479 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+COC001-005-013-014-031-039-069-073-075-087-095-115-121-123-
+292140-
+
+CO 
+.    COLORADO COUNTIES INCLUDED ARE
+
+ADAMS                ARAPAHOE            BOULDER             
+BROOMFIELD           DENVER              ELBERT              
+LARIMER              LINCOLN             LOGAN               
+MORGAN               PHILLIPS            SEDGWICK            
+WASHINGTON           WELD                
+
+
+NEC007-013-033-045-049-069-105-123-157-161-165-292140-
+
+NE 
+.    NEBRASKA COUNTIES INCLUDED ARE
+
+BANNER               BOX BUTTE           CHEYENNE            
+DAWES                DEUEL               GARDEN              
+KIMBALL              MORRILL             SCOTTS BLUFF        
+SHERIDAN             SIOUX               
+
+
+SDC007-033-047-071-081-093-102-103-292140-
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0479.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ws0479.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 478 Status Reports
+
+date: 2025-06-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0478.html"><img src="https://www.spc.noaa.gov/products/watch/ww0478_radar.gif" border="1" alt="WW 0478 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 478
+
+THE SEVERE WEATHER THREAT CONTINUES ACROSS THE ENTIRE WATCH AREA.
+
+FOR ADDITIONAL INFORMATION SEE FORTHCOMING MESOSCALE DISCUSSION 1513.
+
+..GRAMS..06/29/25
+
+ATTN...WFO...ICT...SGF...TSA...
+
+
+STATUS REPORT FOR WS 478 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+KSC001-011-019-021-037-049-099-125-133-205-207-292140-
+
+KS 
+.    KANSAS COUNTIES INCLUDED ARE
+
+ALLEN                BOURBON             CHAUTAUQUA          
+CHEROKEE             CRAWFORD            ELK                 
+LABETTE              MONTGOMERY          NEOSHO              
+WILSON               WOODSON             
+
+
+MOC009-011-039-043-057-077-085-097-109-119-145-167-185-209-213-
+217-292140-
+
+MO 
+.    MISSOURI COUNTIES INCLUDED ARE
+
+BARRY                BARTON              CEDAR               
+CHRISTIAN            DADE                GREENE              
+HICKORY              JASPER              LAWRENCE            
+MCDONALD             NEWTON              POLK                
+ST. CLAIR            STONE               TANEY               
+VERNON               
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0478.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ws0478.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 478
+
+date: 2025-06-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0478.html"><img src="https://www.spc.noaa.gov/products/watch/ww0478_radar.gif" border="1" alt="WW 0478 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Watch Number 478
+NWS Storm Prediction Center Norman OK
+220 PM CDT Sun Jun 29 2025
+
+The NWS Storm Prediction Center has issued a
+
+* Severe Thunderstorm Watch for portions of 
+  Southeast Kansas
+  Southwest Missouri
+  Northeast Oklahoma
+
+* Effective this Sunday afternoon and evening from 220 PM until
+  900 PM CDT.
+
+* Primary threats include...
+  Scattered damaging wind gusts to 70 mph possible
+  Isolated large hail events to 1 inch in diameter possible
+
+SUMMARY...A line of thunderstorms has developed across east-central
+Kansas and western Missouri.  These storms will track southeastward
+into a very warm/humid, and unstable air mass through the afternoon.
+ Locally damaging wind gusts will be possible.
+
+The severe thunderstorm watch area is approximately along and 35
+statute miles north and south of a line from 60 miles west southwest
+of Chanute KS to 15 miles northeast of Springfield MO. For a
+complete depiction of the watch see the associated watch outline
+update (WOUS64 KWNS WOU8).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Severe Thunderstorm Watch means conditions are
+favorable for severe thunderstorms in and close to the watch area.
+Persons in these areas should be on the lookout for threatening
+weather conditions and listen for later statements and possible
+warnings. Severe thunderstorms can and occasionally do produce
+tornadoes.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 477...
+
+AVIATION...A few severe thunderstorms with hail surface and aloft to
+1 inch. Extreme turbulence and surface wind gusts to 60 knots. A few
+cumulonimbi with maximum tops to 500. Mean storm motion vector
+30025.
+
+...Hart
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0478.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ww0478.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 477 Status Reports
+
+date: 2025-06-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0477.html"><img src="https://www.spc.noaa.gov/products/watch/ww0477_radar.gif" border="1" alt="WW 0477 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 477
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 20 NNE VOK
+TO 30 S ESC.
+
+FOR ADDITIONAL INFORMATION SEE MESOSCALE DISCUSSION 1512.
+
+..MARSH..06/29/25
+
+ATTN...WFO...ARX...GRB...MKX...
+
+
+STATUS REPORT FOR WS 477 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+WIC001-009-015-021-023-025-027-029-039-043-045-047-049-057-061-
+065-071-077-081-083-087-097-103-111-115-123-135-137-139-
+292140-
+
+WI 
+.    WISCONSIN COUNTIES INCLUDED ARE
+
+ADAMS                BROWN               CALUMET             
+COLUMBIA             CRAWFORD            DANE                
+DODGE                DOOR                FOND DU LAC         
+GRANT                GREEN               GREEN LAKE          
+IOWA                 JUNEAU              KEWAUNEE            
+LAFAYETTE            MANITOWOC           MARQUETTE           
+MONROE               OCONTO              OUTAGAMIE           
+PORTAGE              RICHLAND            SAUK                
+SHAWANO              VERNON              WAUPACA             
+WAUSHARA             WINNEBAGO           
+
+
+LMZ521-522-541-542-543-292140-
+
+CW 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0477.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ws0477.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 477
+
+date: 2025-06-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0477.html"><img src="https://www.spc.noaa.gov/products/watch/ww0477_radar.gif" border="1" alt="WW 0477 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Watch Number 477
+NWS Storm Prediction Center Norman OK
+130 PM CDT Sun Jun 29 2025
+
+The NWS Storm Prediction Center has issued a
+
+* Severe Thunderstorm Watch for portions of 
+  Central and Southern Wisconsin
+  Lake Michigan
+
+* Effective this Sunday afternoon and evening from 130 PM until
+  900 PM CDT.
+
+* Primary threats include...
+  Scattered damaging wind gusts to 65 mph possible
+  Isolated large hail events to 1 inch in diameter possible
+
+SUMMARY...Thunderstorms are intensifying along a weak cold front
+across Wisconsin.  These storms will spread northeastward across the
+watch area through the afternoon, posing a risk of locally damaging
+wind gusts and perhaps hail.
+
+The severe thunderstorm watch area is approximately along and 60
+statute miles east and west of a line from 45 miles southwest of
+Lonerock WI to 60 miles north northeast of Green Bay WI. For a
+complete depiction of the watch see the associated watch outline
+update (WOUS64 KWNS WOU7).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Severe Thunderstorm Watch means conditions are
+favorable for severe thunderstorms in and close to the watch area.
+Persons in these areas should be on the lookout for threatening
+weather conditions and listen for later statements and possible
+warnings. Severe thunderstorms can and occasionally do produce
+tornadoes.
+
+&&
+
+AVIATION...A few severe thunderstorms with hail surface and aloft to
+1 inch. Extreme turbulence and surface wind gusts to 55 knots. A few
+cumulonimbi with maximum tops to 500. Mean storm motion vector
+24025.
+
+...Hart
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0477.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ww0477.html>
+
+---
+
+## SPC Jun 29, 2025 2000 UTC Day 1 Convective Outlook
+
+date: 2025-06-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0300 PM CDT Sun Jun 29 2025
+
+Valid 292000Z - 301200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS OVER PARTS OF THE
+CENTRAL PLAINS INTO THE MIDDLE MISSISSIPPI VALLEY...AND OVER PARTS
+OF THE UPPER MIDWEST...
+
+...SUMMARY...
+Isolated to scattered strong to severe thunderstorms are possible
+from the upper Great Lakes into the central High Plains. Wind is the
+primary risk, though hail is expected across portions of the High
+Plains.
+
+...20Z Update...
+The Slight risk was expanded southeastward from parts of the central
+Plains into the Middle MS Valley, where a cluster of thunderstorms
+is intensifying as it impinges on a strongly unstable air mass. The
+primary concern with this activity is damaging wind gusts. For
+information on the severe risk here, reference Severe Thunderstorm
+Watch 478. Additionally, 2-percent tornado probabilities were added
+along this corridor and westward into southeast/south-central KS and
+far northeast/north-central OK. Here, antecedent outflow is
+diurnally destabilizing amid rich boundary-layer moisture.
+Clockwise-curved low-level hodographs will support a localized
+tornado risk with any cells that can develop in this corridor.
+
+Farther west, significant-wind probabilities were added over
+northwest KS, southwest NE, and far eastern CO. Any thunderstorm
+clusters that evolve out of CO and move through this area will have
+the potential of producing gusts upward of 75 mph -- aided by steep
+deep-layer lapse rates and sufficiently elongated hodographs.
+Additionally, visible satellite imagery shows a shallow
+boundary-layer cumulus field along a surface wind shift in this
+general area. As storms move into this area of enhanced moisture and
+steep lapse rates, a brief tornado will be possible.
+
+Reference Severe Thunderstorm Watch 477 and MCD 1508 for the severe
+risk in the Upper Midwest, and MCDs 1509 and 1510 for the High
+Plains severe risk.
+
+..Weinman.. 06/29/2025
+
+.PREV DISCUSSION... /ISSUED 1130 AM CDT Sun Jun 29 2025/
+
+...Eastern KS/Western MO...
+An overnight MCS is slowly weakening over central MO, with an
+associated outflow boundary extending from eastern KS into
+south-central MO.  Strong heating will occur along and south of the
+boundary, where several 12z CAM solutions indicate development of
+afternoon thunderstorms.  Given this scenario, have extended the
+SLGT risk farther south into this region.  Locally damaging wind
+gusts would be the main concern.  Refer to MCD #1506 for further
+short-term details.
+
+...WY/CO/SD/NE...
+A low-amplitude shortwave trough is digging into WY.  As forcing
+associated with this system overspreads the High Plains of WY,
+high-based convection is expected.  Thunderstorms will intensify as
+they track into a moderately unstable air mass and weak but backed
+low-level flow.  Severe storms capable of large hail and damaging
+winds may affect the Black Hills region and southward into the NE
+Panhandle.  
+
+Storms will also develop southward into the foothills of CO this
+afternoon and spread eastward.  Winds and temperatures aloft are
+less favorable for organized/severe storms that far south, but at
+least isolated instances of large hail and damaging winds are
+possible.
+
+...IA/WI...
+Strong heating is occurring across much of WI today, where a moist
+air mass will lead to moderate CAPE values.  Thunderstorms will
+develop by mid-afternoon along a remnant weak boundary across
+central WI/northeast IA and spread northeastward through the day. 
+Vertical shear is not particularly strong, and overall convective
+organization is expected to be low.  Nevertheless, steep low-level
+lapse rates and ample instability will promote strong downdrafts and
+some hail in the strongest cells.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2025-06-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0255 PM CDT Sun Jun 29 2025
+
+Valid 301200Z - 011200Z
+
+...Northwest...
+Northern extent of isolated dry thunderstorm threat was trimmed
+owing to expected decrease in thunderstorm intensity/lightning
+production late Monday, closer to the Columbia Gorge. Otherwise,
+forecast (see below) remains on track.
+
+...Great Basin...
+Advancing mid-level trough into the Western U.S. with attendant
+increasing mid-level winds atop a very dry/well-mixed boundary later
+will support Elevated fire weather conditions across portions of
+central and eastern Nevada Monday. Sustained south winds of around
+15 mph combined with afternoon relative humidity of 10-15 percent
+along with dry fuels will increase wildfire spread potential.
+
+...Southwest and Upper-Colorado River Basin...
+Shower and thunderstorm development is expected along higher terrain
+Monday afternoon as monsoon moisture advances into the Great Four
+Corners Region. A few dry thunderstorms are expected across
+southwest Colorado, western New Mexico and into the White Mountains
+of southeast Arizona. Slow thunderstorm motions in proximity to a
+Four Corners high, a marked increase in monsoon moisture magnitude
+and relative humidity into the region through midweek along with
+improving fuel indices should limit potential spread of ignitions.
+
+..Williams.. 06/29/2025
+
+.PREV DISCUSSION... /ISSUED 0204 AM CDT Sun Jun 29 2025/
+
+...Synopsis...
+As mid-level ridging builds over the western US, a weak subtropical
+low will deepen along the western periphery of the ridge across CA
+Monday. The building mid-level heights and approach of the upper
+trough will allow robust mid-level moisture to shift northward
+across portions of the West. 
+
+...Northwest...
+Heating across the higher terrain, coupled with weak ascent from the
+approaching upper trough will allow for isolated to widely scattered
+thunderstorms across northern CA and southern OR Monday afternoon
+and evening. Dry sub-cloud layers with steep lapse rates below 500mb
+will support a mixed wet/dry thunderstorm environment. Given the
+potential for dry lightning atop receptive fuels, an IsoDryT area
+has been added across parts of the Northwest where fire starts are
+possible.
+
+...Great Basin...
+Farther south, beneath the upper ridge, very hot surface
+temperatures are expected over parts of NV and western UT. While
+surface winds are not expected to be overly strong, widespread RH
+values below 15% will be present. Occasional 15 mph wind gusts on a
+local basis and the hot/dry conditions could support a few hours of
+locally elevated fire-weather potential over dry fuels.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
+
+---
+
+## SPC Jun 29, 2025 1930 UTC Day 3 Severe Thunderstorm Outlook
+
+date: 2025-06-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day3otlk.gif" border="1" alt="Day 3 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0226 PM CDT Sun Jun 29 2025
+
+Valid 011200Z - 021200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR PORTIONS OF
+THE MID-ATLANTIC...
+
+...SUMMARY...
+Scattered strong to severe storms are possible across parts of the
+Mid-Atlantic into the Northeast on Tuesday afternoon/evening. An
+isolated severe storm may also occur over parts of the central High
+Plains.
+
+...Synopsis...
+A mid-level trough will track across the Northeast as upper-ridging
+remains in place across the central CONUS, and an upper low meanders
+along the West Coast on Tuesday. At the surface, a cold front will
+sweep across the Northeast/Mid-Atlantic regions while a surface
+anticyclone overspreads much of the U.S. between the Rockies and
+Appalachians. Ahead of the surface cold front, ample moisture and
+instability, coinciding with modest deep-layer shear, will support
+scattered strong thunderstorms, a few of which may be severe.
+
+...Northeast into the Mid-Atlantic...
+As the surface cold front advances east across the central/northern
+Appalachians, surface heating should support surface temperatures
+rising into the 80s to 90 F amid low to mid 70s F dewpoints,
+resulting in moderate buoyancy. The rich low-level moisture,
+overspread by mediocre lapse rates, will support 2500+ J/kg MLCAPE,
+constrained to tall/thin profiles. With the approach of the trough,
+enough strengthening with height of the 850-500 mb wind fields will
+encourage 25-40 kts of effective bulk shear and the subsequent
+development of multicells and short line segments. At least isolated
+damaging gusts are possible throughout the Northeast. However, a
+Category 2/Slight risk was added across parts of the Mid-Atlantic,
+where the latest guidance depicts relatively robust convective
+development, and where forecast buoyancy is strongest. Here, wind
+damage may occur on a more frequent basis.
+
+...Central High Plains...
+Weak upslope low-level flow around the aforementioned surface
+anticyclone will encourage the northwestward advection of upper 50s
+to 60 F surface dewpoints into the Nebraska Panhandle and immediate
+adjacent areas by Tuesday afternoon. These dewpoints will be
+overspread by 7.5-8.5 C/km mid-level lapse rates, resulting in at
+least 1500 J/kg MLCAPE. Isolated thunderstorms are expected to
+develop off of the higher terrain as they progress eastward.
+Multicellular or perhaps transient supercellular storm modes are
+possible given lackluster vertical wind shear. Nonetheless, a stray
+severe thunderstorm is possible, accompanied by mainly a severe
+wind/hail threat.
+
+..Squitieri.. 06/29/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
+
+---
+
+## Advisory #002a Wind Field [shp] - Tropical Storm Flossie (EP1/EP062025)
+
+date: 2025-06-29, from: Eastern Pacific Basin GIS Data
+
+Initial and Forecast Surface Winds. Shapefile last updated Sun, 29 Jun 2025 17:40:07 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep062025_fcst_002A.zip>
+
+---
+
+## Preliminary Best Track [shp] - Tropical Storm Flossie (EP1/EP062025)
+
+date: 2025-06-29, from: Eastern Pacific Basin GIS Data
+
+Track, Points, and Wind Swath. Shapefile last updated Sun, 29 Jun 2025 17:39:59 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep062025_best_track.zip>
+
+---
+
+## Preliminary Best Track [shp] - Tropical Storm Flossie (EP1/EP062025)
+
+date: 2025-06-29, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Sun, 29 Jun 2025 17:39:56 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep062025_best_track.kmz>
+
+---
+
+## Central North Pacific Tropical Weather Outlook
+
+date: 2025-06-29, from: Central Pacific Basin Tropical Cyclones
+
+520 <br />ACPN50 PHFO 291726<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />800 AM HST Sun Jun 29 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on recently<br />upgraded Tropical Storm Flossie, located in the eastern Pacific<br />basin a few hundred miles south of Acapulco, Mexico.<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />&&<br />Public Advisories on Tropical Storm Flossie are issued under WMO<br />header WTPZ31 KNHC and under AWIPS header MIATCPEP1.<br />Forecast/Advisories on Tropical Storm Flossie are issued under<br />WMO header WTPZ21 KNHC and under AWIPS header MIATCMEP1.<br /><br />$$<br />Forecaster Kelly<br />NNNN 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2025-06-29, from: Eastern Pacific Basin Tropical Cyclones
+
+519 <br />ABPZ20 KNHC 291726<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Sun Jun 29 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on recently <br />upgraded Tropical Storm Flossie, located in the eastern Pacific <br />basin a few hundred miles south of Acapulco, Mexico. <br /><br />South of Southwestern Mexico:<br />An area of low pressure could form several hundred miles offshore <br />southwestern Mexico late this week. Some gradual development of this <br />system is possible thereafter while it moves generally <br />west-northwestward.<br />* Formation chance through 48 hours...low...near 0 percent.<br />* Formation chance through 7 days...low...20 percent. <br /><br />&&<br />Public Advisories on Tropical Storm Flossie are issued under WMO <br />header WTPZ31 KNHC and under AWIPS header MIATCPEP1. <br />Forecast/Advisories on Tropical Storm Flossie are issued under <br />WMO header WTPZ21 KNHC and under AWIPS header MIATCMEP1.<br /><br />$$<br />Forecaster Kelly 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2025-06-29, from: Eastern Pacific Tropical Weather Outlook
+
+519 <br />ABPZ20 KNHC 291726<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Sun Jun 29 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on recently <br />upgraded Tropical Storm Flossie, located in the eastern Pacific <br />basin a few hundred miles south of Acapulco, Mexico. <br /><br />South of Southwestern Mexico:<br />An area of low pressure could form several hundred miles offshore <br />southwestern Mexico late this week. Some gradual development of this <br />system is possible thereafter while it moves generally <br />west-northwestward.<br />* Formation chance through 48 hours...low...near 0 percent.<br />* Formation chance through 7 days...low...20 percent. <br /><br />&&<br />Public Advisories on Tropical Storm Flossie are issued under WMO <br />header WTPZ31 KNHC and under AWIPS header MIATCPEP1. <br />Forecast/Advisories on Tropical Storm Flossie are issued under <br />WMO header WTPZ21 KNHC and under AWIPS header MIATCMEP1.<br /><br />$$<br />Forecaster Kelly 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2025-06-29, from: Central Pacific Tropical Weather Outlook
+
+520 <br />ACPN50 PHFO 291726<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />800 AM HST Sun Jun 29 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on recently<br />upgraded Tropical Storm Flossie, located in the eastern Pacific<br />basin a few hundred miles south of Acapulco, Mexico.<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />&&<br />Public Advisories on Tropical Storm Flossie are issued under WMO<br />header WTPZ31 KNHC and under AWIPS header MIATCPEP1.<br />Forecast/Advisories on Tropical Storm Flossie are issued under<br />WMO header WTPZ21 KNHC and under AWIPS header MIATCMEP1.<br /><br />$$<br />Forecaster Kelly<br />NNNN 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
+
+---
+
+## SPC Jun 29, 2025 1730 UTC Day 2 Convective Outlook
+
+date: 2025-06-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1210 PM CDT Sun Jun 29 2025
+
+Valid 301200Z - 011200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FOR PARTS OF THE
+MIDWEST INTO THE OHIO VALLEY...THE MID-ATLANTIC...AND ALONG THE
+CALIFORNIA/OREGON BORDER...
+
+...SUMMARY...
+Scattered strong to severe thunderstorms remain possible across
+parts of the Ohio Valley, Midwest and the Mid-Atlantic tomorrow
+(Monday). A couple of severe thunderstorms also cannot be ruled out
+over parts of the Pacific Northwest.
+
+...Synopsis...
+A mid-level trough will amplify while traversing the Great Lakes and
+Ohio Valley regions, as upper ridging builds over the Plains states
+and an upper-level low impinges on the California coastline tomorrow
+(Monday). A cold front will accompany the Midwest mid-level trough,
+and is poised to progress across the Mid-MS and OH Valley regions
+while draping across the southern Plains through the day. In advance
+of the cold front, adequate moisture and overall instability will be
+present to support at least scattered thunderstorms. Given the
+presence of modest vertical wind shear, a few of the storms could
+become strong to locally severe. Thunderstorms may also develop
+north of a surface low along the CA/OR border, amid an unstable
+airmass supportive of scattered strong thunderstorms.
+
+...Midwest into the OH Valley...
+Preceding an advancing cold front, diurnal heating of a moist
+boundary layer, atop relatively poor mid-level lapse rates, will
+result in airmass destabilization and 1500-3000 J/kg SBCAPE by
+afternoon. While MLCINH will minimize by late morning, the poor
+mid-level lapse rates suggest that CAPE should be constrained to
+tall/thin profiles. Furthermore, unidirectional vertical wind
+profiles with little strengthening with height, should lead to
+mediocre deep-layer shear. While many scattered storms should
+develop along the cold front, and ahead in the uncapped warm sector,
+most storms should be pulse-cellular to multicellular in nature. A
+few of the stronger storms may support wet downbursts capable of
+producing localized damaging gusts.
+
+...Mid-Atlantic...
+Similar to the Great Lakes/OH Valley vicinity, strong boundary-layer
+heating will quickly reduce convective inhibition and support
+scattered thunderstorm development amid weak vertical wind shear.
+2000+ J/kg of tall/thin SBCAPE will support wet downburst potential,
+and a couple of damaging wind gusts are possible. 
+
+...Southern Plains...
+Scattered thunderstorms should develop by afternoon peak heating
+ahead of the trailing cold front over the southern Plains. Surface
+temperatures should warm to near 90 F amid low to mid 70s F
+dewpoints, yielding as much as 3000-4000 J/kg MLCAPE given modest
+mid-level lapse rates. Though vertical wind shear should be
+relatively poor, the strong buoyancy in place may compensate to
+support wet downbursts and associated isolated severe gusts with the
+stronger storms.
+
+...Northern California into Southern Oregon...
+Scattered thunderstorms will develop immediately north of a weak
+surface low, where localized forcing for ascent will be in place.
+These thunderstorms should develop atop a mixed boundary layer that
+may deepen to 600-500 mb. Furthermore, the presence of 9+ C/km lapse
+rates through the troposphere may promote enough
+thermodynamically-driven downward momentum transport to support
+isolated strong to severe wind gusts. Point forecast soundings also
+depict curved/elongated hodographs, which may support multicells and
+transient supercells with a marginal hail threat.
+
+..Squitieri.. 06/29/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2025-06-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1142 AM CDT Sun Jun 29 2025
+
+Valid 291700Z - 301200Z
+
+The previous forecast (see below) remains on track with no changes
+to Elevated highlights across southwestern Wyoming. Locally elevated
+fire weather conditions are possible across southern Arizona.
+Drought conditions and above normal fine fuel loading along with
+sustained west winds of 10-15 mph and relative humidity of 10-15
+percent will bring a brief and localized fire weather threat to
+southern Arizona today.
+
+..Williams.. 06/29/2025
+
+.PREV DISCUSSION... /ISSUED 0204 AM CDT Sun Jun 29 2025/
+
+...Synopsis...
+Shortwave troughing over the northern US is forecast to move
+eastward as sub-tropical ridging begins to build over the West. A
+weak cold front will move south shifting winds to northwesterly over
+the Rockies and northern Plains. While weaker than the preceding
+days, lingering flow aloft will still aid in sustaining breezy
+northwest winds of 15-20 mph across the Interstate 80 corridor in
+southwest WY. The winds overlapping with relative humidity in the
+15-20 percent range amid very dry fuels will support elevated fire
+weather conditions across southwest WY.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## SPC Jun 29, 2025 1630 UTC Day 1 Convective Outlook
+
+date: 2025-06-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1130 AM CDT Sun Jun 29 2025
+
+Valid 291630Z - 301200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS OVER PORTIONS OF
+THE CENTRAL PLAINS...AND PORTIONS OF IOWA/WISCONSIN....
+
+...SUMMARY...
+Isolated to scattered strong to severe thunderstorms are possible
+from the upper Great Lakes into the central High Plains. Wind is the
+primary risk, though hail is expected across portions of the High
+Plains.
+
+...Eastern KS/Western MO...
+An overnight MCS is slowly weakening over central MO, with an
+associated outflow boundary extending from eastern KS into
+south-central MO.  Strong heating will occur along and south of the
+boundary, where several 12z CAM solutions indicate development of
+afternoon thunderstorms.  Given this scenario, have extended the
+SLGT risk farther south into this region.  Locally damaging wind
+gusts would be the main concern.  Refer to MCD #1506 for further
+short-term details.
+
+...WY/CO/SD/NE...
+A low-amplitude shortwave trough is digging into WY.  As forcing
+associated with this system overspreads the High Plains of WY,
+high-based convection is expected.  Thunderstorms will intensify as
+they track into a moderately unstable air mass and weak but backed
+low-level flow.  Severe storms capable of large hail and damaging
+winds may affect the Black Hills region and southward into the NE
+Panhandle.  
+
+Storms will also develop southward into the foothills of CO this
+afternoon and spread eastward.  Winds and temperatures aloft are
+less favorable for organized/severe storms that far south, but at
+least isolated instances of large hail and damaging winds are
+possible.
+
+...IA/WI...
+Strong heating is occurring across much of WI today, where a moist
+air mass will lead to moderate CAPE values.  Thunderstorms will
+develop by mid-afternoon along a remnant weak boundary across
+central WI/northeast IA and spread northeastward through the day. 
+Vertical shear is not particularly strong, and overall convective
+organization is expected to be low.  Nevertheless, steep low-level
+lapse rates and ample instability will promote strong downdrafts and
+some hail in the strongest cells.
+
+..Hart/Marsh.. 06/29/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 
@@ -142,26 +1714,6 @@ No Mesoscale Discussions are in effect as of Sun Jun 29 12:35:02 UTC 2025.
 
 ---
 
-## NHC Atlantic Outlook
-
-date: 2025-06-29, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Sun Jun 29 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Tropical <br>Depression Two, located in the Bay of Campeche.<br><br>1. Southeastern U.S. Coastline:<br>Towards the end of this week into next weekend, an area of low <br>pressure could develop from a remnant frontal boundary near or along <br>the southeastern U.S. Atlantic and or Gulf coasts. Some gradual <br>tropical or subtropical development could occur thereafter as it <br>drifts slowly just off the U.S. coastline. <br>* Formation chance through 48 hours...low...near 0 percent. <br>* Formation chance through 7 days...low...20 percent.<br><br><br><br>Public Advisories on Tropical Depression Two are issued under<br>WMO header WTNT32 KNHC and under AWIPS header MIATCPAT2.<br>Forecast/Advisories on Tropical Depression Two are issued under WMO <br>header WTNT22 KNHC and under AWIPS header MIATCMAT2.<br><br><br>Forecaster Papin<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
 ## Advisory #001a Wind Field [shp] - Tropical Depression Six-E (EP1/EP062025)
 
 date: 2025-06-29, from: Eastern Pacific Basin GIS Data
@@ -171,42 +1723,6 @@ Initial and Forecast Surface Winds. Shapefile last updated Sun, 29 Jun 2025 11:4
 <br> 
 
 <https://www.nhc.noaa.gov/gis/forecast/archive/ep062025_fcst_001A.zip>
-
----
-
-## Preliminary Best Track [shp] - Tropical Depression Six-E (EP1/EP062025)
-
-date: 2025-06-29, from: Eastern Pacific Basin GIS Data
-
-Track, Points, and Wind Swath. Shapefile last updated Sun, 29 Jun 2025 11:40:06 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep062025_best_track.zip>
-
----
-
-## Preliminary Best Track [shp] - Tropical Depression Six-E (EP1/EP062025)
-
-date: 2025-06-29, from: Eastern Pacific Basin GIS Data
-
-KMZ last updated Sun, 29 Jun 2025 11:40:02 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep062025_best_track.kmz>
-
----
-
-## Summary for Tropical Depression Six-E (EP1/EP062025)
-
-date: 2025-06-29, from: Eastern Pacific Basin GIS Data
-
-...DEPRESSION BECOMING BETTER ORGANIZED... As of 6:00 AM CST Sun Jun 29 the center of Six-E was located near 13.2, -99.7 with movement W at 12 mph. The minimum central pressure was 1006 mb with maximum sustained winds of about 35 mph. 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/MIATCPEP1.shtml>
 
 ---
 
@@ -377,62 +1893,6 @@ KMZ last updated Sun, 29 Jun 2025 11:39:45 GMT
 <br> 
 
 <https://www.nhc.noaa.gov/storm_graphics/api/EP062025_001Aadv_CONE.kmz>
-
----
-
-## CPHC Central North Pacific Outlook
-
-date: 2025-06-29, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>Issued by NWS National Hurricane Center Miami FL<br>200 AM HST Sun Jun 29 2025<br><br>For the central North Pacific...between 140W and 180W:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on newly formed<br>Tropical Depression Six-E, located several hundred miles south of<br>Acapulco, Mexico.<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>&&<br>Public Advisories on Tropical Depression Six-E are issued under WMO<br>header WTPZ31 KNHC and under AWIPS header MIATCPEP1.<br>Forecast/Advisories on Tropical Depression Six-E are issued under<br>WMO header WTPZ21 KNHC and under AWIPS header MIATCMEP1.<br><br>$$<br>Forecaster Kelly<br>NNNN<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2025-06-29, from: Eastern Pacific Basin Tropical Cyclones
-
-109 <br />ABPZ20 KNHC 291133<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Sun Jun 29 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on newly formed <br />Tropical Depression Six-E, located several hundred miles south of <br />Acapulco, Mexico. <br /><br />Tropical cyclone formation is not expected over the next 7 days. <br /><br />&&<br />Public Advisories on Tropical Depression Six-E are issued under WMO <br />header WTPZ31 KNHC and under AWIPS header MIATCPEP1. <br />Forecast/Advisories on Tropical Depression Six-E are issued under <br />WMO header WTPZ21 KNHC and under AWIPS header MIATCMEP1.<br /><br />$$<br />Forecaster Kelly 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2025-06-29, from: Eastern Pacific Tropical Weather Outlook
-
-109 <br />ABPZ20 KNHC 291133<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Sun Jun 29 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on newly formed <br />Tropical Depression Six-E, located several hundred miles south of <br />Acapulco, Mexico. <br /><br />Tropical cyclone formation is not expected over the next 7 days. <br /><br />&&<br />Public Advisories on Tropical Depression Six-E are issued under WMO <br />header WTPZ31 KNHC and under AWIPS header MIATCPEP1. <br />Forecast/Advisories on Tropical Depression Six-E are issued under <br />WMO header WTPZ21 KNHC and under AWIPS header MIATCMEP1.<br /><br />$$<br />Forecaster Kelly 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
-
----
-
-## Central Pacific Tropical Weather Outlook
-
-date: 2025-06-29, from: Central Pacific Tropical Weather Outlook
-
-110 <br />ACPN50 PHFO 291133<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />200 AM HST Sun Jun 29 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on newly formed<br />Tropical Depression Six-E, located several hundred miles south of<br />Acapulco, Mexico.<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />&&<br />Public Advisories on Tropical Depression Six-E are issued under WMO<br />header WTPZ31 KNHC and under AWIPS header MIATCPEP1.<br />Forecast/Advisories on Tropical Depression Six-E are issued under<br />WMO header WTPZ21 KNHC and under AWIPS header MIATCMEP1.<br /><br />$$<br />Forecaster Kelly<br />NNNN 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
 
 ---
 
@@ -856,193 +2316,6 @@ MOST PROBABLE PEAK HAIL SIZE...1.50-2.50 IN
 
 ---
 
-## SPC Jun 28, 2025 2000 UTC Day 1 Convective Outlook
-
-date: 2025-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0300 PM CDT Sat Jun 28 2025
-
-Valid 282000Z - 291200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS OF
-PENNSYLVANIA AND NEW YORK AS WELL AS ACROSS PORTIONS OF THE NORTHERN
-PLAINS....
-
-...SUMMARY...
-Scattered severe thunderstorms are possible across portions of the
-Upper Midwest into the north-central Great Plains.  All severe
-hazards are possible centered on southern Minnesota and eastern
-South Dakota.  Scattered damaging gusts are possible across parts of
-New York into Pennsylvania.
-
-...20Z Update...
-
-The main change with this update is to expand the hail threat
-farther north and west into portions of east-central North Dakota
-and west-central Minnesota. Here, strong instability and
-developing/ongoing thunderstorms will be capable of producing large
-hail. See MCD #1492 for additional meteorological discussion.
-
-Elsewhere, only minor changes were made to the ongoing forecast.
-
-..Marsh.. 06/28/2025
-
-.PREV DISCUSSION... /ISSUED 1126 AM CDT Sat Jun 28 2025/
-
-...Eastern SD/MN/WI...
-Current radar loops show a persistent MCS slowly weakening across
-southern MN.  This feature has driven an associated outflow boundary
-into northwest IA and eastern SD.  Morning model solutions are in
-general agreement that the low-level air mass will rapidly recover
-in the wake of the MCS, leading to rapid and intense thunderstorm
-development by late afternoon over western MN.  It is unclear if the
-models are handling the lingering effects of the morning convection,
-but the eventual re-development of storms poses risks of tornadoes,
-very large hail, and damaging winds.  An upgrade to ENH risk over
-parts of central/southern MN for this evening was considered, but
-will defer to the 20z outlook, after further evaluation of the
-ongoing convection and trends in destabilization.
-
-...Western SD Vicinity...
-Full sun will lead to strong heating and deep mixing across much of
-eastern WY today.  High-based convection will develop by late
-afternoon in this region and spread eastward into a progressively
-more moist and unstable air mass over western SD.  Scattered intense
-storms are expected to develop, posing a risk of large hail and
-damaging wind gusts.  These storms may persist through the evening
-and grow upscale, with a risk of damaging winds into southern
-SD/northern NE.
-
-...NY/PA/Mid-Atlantic...
-A surface cold front is sagging southward into NY and western PA
-today.  Thunderstorms have begun to intensify along/ahead of the
-front, with locally damaging wind gusts expected through the
-afternoon.  Low clouds are limiting heating/destabilization over
-eastern NY/PA and the Mid-Atlantic region.  However, heating should
-commence by mid/late afternoon, allowing storms approaching from the
-west to maintain a damaging wind threat into the early evening.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2025-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0236 PM CDT Sat Jun 28 2025
-
-Valid 291200Z - 301200Z
-
-A departing mid-level trough will aid in sustaining breezy northwest
-winds of 15-20 mph across the Interstate 80 corridor in southwest
-Wyoming Sunday. The winds overlapping with relative humidity in the
-15-20 percent range amid a very dry fuelscape will support elevated
-fire weather conditions across southwest Wyoming.  Otherwise, fire
-weather concerns across much of the western U.S. will be mitigated
-by a building upper-level ridge bringing warming temperatures and
-generally light, terrain-driven winds.
-
-..Williams.. 06/28/2025
-
-.PREV DISCUSSION... /ISSUED 0203 AM CDT Sat Jun 28 2025/
-
-...Synopsis...
-Upper ridging is forecast to steadily build over the West Coast
-Sunday, as weak troughing shifts eastward. As heights continue to
-rise, weakening the flow aloft over the northern Rockies, a cold
-front will move out of the Northwest ushering in a cooler and higher
-humidity air mass. Some residual mid-level flow will linger across
-WY and western CO Sunday, but surface winds are expected to be much
-weaker and will shift to northwesterly. The weaker winds, along with
-increasing humidity should limit broader fire-weather potential.
-Some localized dry and breezy conditions will remain possible over
-southwest WY, but widespread fire-weather concerns are not expected.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## SPC Jun 28, 2025 1930 UTC Day 3 Severe Thunderstorm Outlook
-
-date: 2025-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day3otlk.gif" border="1" alt="Day 3 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0228 PM CDT Sat Jun 28 2025
-
-Valid 301200Z - 011200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FOR PORTIONS OF
-THE OHIO VALLEY...MIDWEST...AND MID-ATLANTIC...
-
-...SUMMARY...
-Scattered strong to severe thunderstorms are possible across parts
-of the Ohio Valley, Midwest and the Mid-Atlantic on Monday.
-
-...Synopsis...
-An amplifying midlevel trough and accompanying jet streak will
-advance eastward across the Midwest and Great Lakes on Monday. At
-the same time, a related cold front will overspread the OH Valley
-through the afternoon.
-
-...Ohio Valley and Midwest...
-Widely scattered thunderstorms are expected along/ahead of the
-eastward-moving cold front in the OH Valley, aided by large-scale
-ascent preceding the midlevel trough. While midlevel lapse rates
-will be modest over the warm sector, diurnal heating of a moist air
-mass (lower 70s dewpoints) will still contribute to moderate-strong
-surface-based buoyancy (highest over the lower OH Valley). Around 30
-kt of deep-layer shear and the destabilizing air mass will favor
-organized multicell clusters capable of producing wind damage
-through the afternoon. 
-
-Farther west, large-scale ascent in the left-exit region of the
-midlevel jet will promote isolated thunderstorms across the Midwest
-during the afternoon. Sufficient post-frontal moisture beneath steep
-midlevel lapse rates, and elongated/straight hodographs (30-40 kt of
-deep-layer shear), will support isolated severe hail in the stronger
-cells.
-
-...Mid-Atlantic...
-Despite weak deep-layer flow/shear, a few wet microbursts will be
-possible east of the Appalachians during the afternoon, where steep
-low-level lapse rates will develop amid deep/rich tropospheric
-moisture (PW around 2 inches).
-
-..Weinman.. 06/28/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
-
----
-
 ## SPC Severe Thunderstorm Watch 471
 
 date: 2025-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -1157,210 +2430,6 @@ CLINTON              COLUMBIA            CUMBERLAND
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/ws0471.html>
-
----
-
-## SPC Jun 28, 2025 1730 UTC Day 2 Convective Outlook
-
-date: 2025-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1230 PM CDT Sat Jun 28 2025
-
-Valid 291200Z - 301200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM THE UPPER
-MIDWEST INTO THE LOWER MISSOURI VALLEY...
-
-...SUMMARY...
-Scattered strong to severe storms are possible Sunday from the
-central Plains into the upper Great Lakes region, with some
-potential for the evolution of a large, organized severe storm
-cluster across parts of the mid into lower Missouri Valley and
-central Great Plains late Sunday through Sunday night.
-
-...Synopsis...
-An amplifying midlevel trough will advance east-southeastward from
-the north-central Plains toward the Upper MS Valley through the
-period. Related large-scale ascent will overspread the Middle/Upper
-MS Valley, while a related cold front moves southeastward across the
-region.  
-
-...Upper Midwest...
-In the wake of several overnight storm clusters and related cloud
-debris, gradual clearing should support boundary-layer
-destabilization and the development of moderate-strong surface-based
-buoyancy. As the cold front intercepts this increasing buoyancy,
-around 30 kt of deep-layer shear should favor a few organized
-clusters capable of producing widely scattered damaging wind gusts
-during the afternoon.
-
-...Central Plains to the Middle/Lower Missouri Valley...
-A separate area of thunderstorms is expected along the front in IA
-and the Lower MO Valley during the late afternoon into the overnight
-hours. Ahead of these evolving storms, lower/middle 70s dewpoints
-beneath steep midlevel lapse rates will contribute to strong-extreme
-surface-based buoyancy. Initial storms will be capable of producing
-isolated large hail and locally severe wind gusts. However,
-strengthening deep-layer shear accompanying the digging midlevel
-trough, coupled with an increasing low-level jet, will support the
-development of a southward-moving MCS into the overnight hours. The
-Slight risk was expanded southward to account for this scenario, and
-higher wind probabilities may eventually be needed as the scenario
-becomes more clear. 
-
-Farther west, semi-discrete storms are expected over the central
-High Plains during the afternoon. Elongated/straight hodographs and
-moderate surface-based buoyancy should favor large hail with any
-supercell structures that can develop.
-
-...Mid-Atlantic...
-Despite marginal deep-layer flow/shear, diurnal heating amid deep
-tropospheric moisture (around 2 inch PW) will favor wet microbursts
-and the potential for wind damage with the stronger thunderstorms.
-
-..Weinman.. 06/28/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2025-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-1153 AM CDT Sat Jun 28 2025
-
-Valid 281700Z - 291200Z
-
-...Snake River Plain...
-A broad area of elevated mid-level winds on the southern periphery
-of a mid-level trough along with daytime boundary layer mixing will
-support breezy winds across the Snake River Plain this afternoon.
-Elevated highlights were trimmed across portions of the Magic Valley
-Region owing to a now marginal overlap of winds and low relative
-humidity based on the latest model guidance consensus.
-
-...Southwestern Wyoming...
-Only minor changes were noted to Elevated highlights across
-southwestern Wyoming. Increased mid-level flow coupled with lee
-troughing farther east will enhance westerly winds across the area.
-The breezy winds combined with dry fuels and relative humidity
-dropping into the 15-20 percent range will promote elevated fire
-weather conditions this afternoon.
-
-..Williams.. 06/28/2025
-
-.PREV DISCUSSION... /ISSUED 0203 AM CDT Sat Jun 28 2025/
-
-...Synopsis...
-Subtle mid-level troughing on the northern periphery of the sub
-tropical ridge will continue over the northern Rockies and Northwest
-today. A belt of stronger mid-level flow will remain in place over
-parts of the Intermountain West, supporting dry downslope flow ahead
-of a weak cold front over the Northwest. Lee troughing and the
-increased flow aloft will encourage breezy westerly flow amid dry
-conditions, conducive for elevated fire-weather conditions.
-
-...Snake River Plain into western WY...
-Increasing mid-level flow attendant to a passing mid-level shortwave
-trough will overspread a dry and well-mixed boundary layer across
-portions of ID and western WY this afternoon. Aided by lee
-troughing, elevated surface winds are expected across the
-central/eastern portions of the Snake River Plain and through the
-Red Desert in southwest WY. Westerly winds of 15-20 mph, combined
-with warm afternoon temperatures and relative humidity in the 15-20
-percent range, will support elevated fire weather conditions this
-afternoon and evening.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
-
----
-
-## SPC Jun 28, 2025 1630 UTC Day 1 Convective Outlook
-
-date: 2025-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1126 AM CDT Sat Jun 28 2025
-
-Valid 281630Z - 291200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON
-FROM CENTRAL PENNSYLVANIA INTO SOUTHEAST NEW YORK.  OTHER SEVERE
-STORMS WILL OCCUR FROM THE BLACK HILLS REGION INTO PARTS OF
-MINNESOTA AND WESTERN WISCONSIN....
-
-...SUMMARY...
-Scattered severe thunderstorms are possible across portions of the
-Upper Midwest into the north-central Great Plains.  All severe
-hazards are possible centered on southern Minnesota and eastern
-South Dakota.  Scattered damaging gusts are possible across parts of
-New York into Pennsylvania.
-
-...Eastern SD/MN/WI...
-Current radar loops show a persistent MCS slowly weakening across
-southern MN.  This feature has driven an associated outflow boundary
-into northwest IA and eastern SD.  Morning model solutions are in
-general agreement that the low-level air mass will rapidly recover
-in the wake of the MCS, leading to rapid and intense thunderstorm
-development by late afternoon over western MN.  It is unclear if the
-models are handling the lingering effects of the morning convection,
-but the eventual re-development of storms poses risks of tornadoes,
-very large hail, and damaging winds.  An upgrade to ENH risk over
-parts of central/southern MN for this evening was considered, but
-will defer to the 20z outlook, after further evaluation of the
-ongoing convection and trends in destabilization.
-
-...Western SD Vicinity...
-Full sun will lead to strong heating and deep mixing across much of
-eastern WY today.  High-based convection will develop by late
-afternoon in this region and spread eastward into a progressively
-more moist and unstable air mass over western SD.  Scattered intense
-storms are expected to develop, posing a risk of large hail and
-damaging wind gusts.  These storms may persist through the evening
-and grow upscale, with a risk of damaging winds into southern
-SD/northern NE.
-
-...NY/PA/Mid-Atlantic...
-A surface cold front is sagging southward into NY and western PA
-today.  Thunderstorms have begun to intensify along/ahead of the
-front, with locally damaging wind gusts expected through the
-afternoon.  Low clouds are limiting heating/destabilization over
-eastern NY/PA and the Mid-Atlantic region.  However, heating should
-commence by mid/late afternoon, allowing storms approaching from the
-west to maintain a damaging wind threat into the early evening.
-
-..Hart/Squitieri.. 06/28/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 

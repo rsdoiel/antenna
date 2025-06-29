@@ -1,11 +1,75 @@
 ---
 title: planet
-updated: 2025-06-29 06:08:13
+updated: 2025-06-29 14:06:44
 ---
 
 # planet
 
-(date: 2025-06-29 06:08:13)
+(date: 2025-06-29 14:06:44)
+
+---
+
+## Zimbabwe's Catholic faithful embrace Jubilee of Hope pilgrimages to Rome
+
+date: 2025-06-29, from: Vatican News
+
+
+                    <p>The launch of the 2025 Jubilee Year of Hope in Zimbabwe marked the beginning of a spiritual journey for Catholics across the country. Halfway through the Jubilee Year, Zimbabwe’s Catholic faithful have responded in great numbers to local diocesan pilgrimages. Thanks to meticulous planning and seamless collaboration with Italian embassy officials in Harare by diocesan and national pastoral coordinators, the Church in Zimbabwe has seen unprecedented numbers travelling to Italy for the various 2025</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-06/zimbabwe-s-catholic-faithful-embrace-the-2025-jubilee-of-hope-wi.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-06/zimbabwe-s-catholic-faithful-embrace-the-2025-jubilee-of-hope-wi.html>
+
+---
+
+## Student fees to revert to previous levels, says Lawless
+
+date: 2025-06-29, from: RTÉ News
+
+Minister for Further and Higher Education James Lawless has said that "as things stand" third level students will have to pay €1,000 extra in student fees this year, as fees are restored to levels seen prior to last year's reduction under a cost-of-living package. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0629/1520921-third-level-fees/>
+
+---
+
+## No further Police Ombudsman action in Carlow gunman case
+
+date: 2025-06-29, from: RTÉ News
+
+The Police Ombudsman, Fiosrú, has said it has decided to take no further action in relation to the case of Evan Fitzgerald, who fired shots in the air in a Co Carlow shopping centre before taking his own life. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0629/1520927-police-ombudsman-fitzgerald/>
+
+---
+
+## Ukraine on track to withdraw from Ottawa Convention banning anti-personnel mines
+
+date: 2025-06-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7538658.1747682002!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-zelenskiy.JPG' alt='A man speaks in front of a yellow and blue flag.' width='620' height='349' title='Ukraine&apos;s President Volodymyr Zelenskyy speaks during a press briefing following phone calls with U.S. President Donald Trump, amid Russia’s attack on Ukraine, in Kyiv, Ukraine, May 19, 2025. '/><p>Ukraine President Volodymyr Zelenskyy has signed a decree on the country's withdrawal from the Ottawa Convention, which bans the production and use of anti-personnel mines, the presidential website said on Sunday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/ukraine-on-track-to-withdraw-from-ottawa-convention-banning-anti-personnel-mines-1.7573868?cmp=rss>
+
+---
+
+## Plans to redevelop GPO a betrayal of history, says SF
+
+date: 2025-06-29, from: RTÉ News
+
+Plans approved by the government to redevelop the GPO in Dublin city have been branded a shameful betrayal of Ireland's proud revolutionary history by Sinn Féin. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0629/1520924-gpo-sinn-fein/>
 
 ---
 
@@ -33,11 +97,11 @@ An Israeli court has postponed its prime minister Benjamin Netanyahu's testimony
 
 ---
 
-## Climate shelters as Europe heatwave intensifies
+## Fires break out in France as Europe heatwave intensifies
 
 date: 2025-06-29, from: RTÉ News
 
-Authorities across southern Europe have urged people to seek shelter and protect the most vulnerable as punishing temperatures from Spain to Portugal, Italy and France climbed higher in the summer's first major heatwave. 
+French firefighters have been mobilised to tackle early summer fires as 84 of the country's 101 administrative areas were put on a heatwave alert from tomorrow until midweek. 
 
 <br> 
 
@@ -70,6 +134,18 @@ The All-Ireland football semi-final will be known by this evening, with Galway t
 <br> 
 
 <https://www.rte.ie/sport/football/2025/0629/1520897-all-ireland-quarter-final-galway-v-meath-updates/>
+
+---
+
+## All-Ireland quarter-finals recap: Meath & Kerry advance
+
+date: 2025-06-29, from: RTÉ News
+
+Read how it all unfolded as Meath and Kerry booked their All-Ireland semi-final berths. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0629/1520897-all-ireland-quarter-final-armagh-v-kerry-updates/>
 
 ---
 
@@ -169,11 +245,11 @@ date: 2025-06-29, from: Vatican News
 
 ---
 
-## Kneecap, Bob Vylan Glastonbury shows examined by police
+## Starmer condemns anti-IDF chants at Glastonbury Festival
 
 date: 2025-06-29, from: RTÉ News
 
-British police have said they were considering whether to launch an investigation after performers at Glastonbury Festival, including Belfast rap trio Kneecap, made anti-Israel comments during their shows. 
+British Prime Minister Keir Starmer has said chants of "death" to the Israel Defence Forces (IDF) at Glastonbury were "appalling hate speech" and urged the BBC to explain how the scenes were broadcast. 
 
 <br> 
 
@@ -209,11 +285,11 @@ date: 2025-06-29, from: CBC, World News
 
 ---
 
-## Evacuation orders as Trump says 'make the deal in Gaza'
+## Gaza rescuers: Children among 23 killed in Israel attacks
 
 date: 2025-06-29, from: RTÉ News
 
-The Israeli military has ordered Palestinians to evacuate areas in northern Gaza as US President Donald Trump called for an end to the conflict amid renewed efforts to broker a ceasefire. 
+Israeli airstrikes and gunfire killed 23 people, including at least three children, in Gaza, its civil defence agency has said. 
 
 <br> 
 
@@ -338,6 +414,18 @@ Scarlett Johansson has told RTÉ Entertainment that she is living her "childhood
 <br> 
 
 <https://www.rte.ie/entertainment/2025/0629/1520868-scarlett-johansson-finally-sees-jurassic-wish-come-true/>
+
+---
+
+## Scotsman is one of at least 100 people who still hold the title of Baronet of Nova Scotia
+
+date: 2025-06-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7573073.1751197696!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sir-crispin-agnew.jpg' alt='Man in uniform ' width='620' height='349' title='Sir Crispin Agnew as a a Herald at the Court of the Lord Lyon. The upper badge round his neck is the Badge of a Baronet of Nova Scotia granted by King Charles I in 1629. '/><p>An 81-year-old man from Edinburgh, Scotland, is one of at least 100 people who still hold the title of Baronet of Nova Scotia, which was first granted 400 years ago.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/nova-scotia/edinburgh-man-one-of-few-remaining-people-1.7573017?cmp=rss>
 
 ---
 
@@ -2237,7 +2325,7 @@ When Bashar Al-Assad ruled Syria, his regime was widely accused of profiting fro
 
 ## Eighty years on, UN Charter marked by reflection, resolve – and a run
 
-date: 2025-06-26, from: United Nations, UN Affairs
+date: 2025-06-26, from: United Nations, Top Stories
 
 It wasn’t an average Thursday morning in Manhattan. In the early hours, UN diplomats (and UN News) hit the streets in their sneakers – from Times Square to East River – following a route that traced the shape of “UN@80”. 
 
