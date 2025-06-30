@@ -1,11 +1,178 @@
 ---
 title: columns
-updated: 2025-06-30 06:08:04
+updated: 2025-06-30 14:07:54
 ---
 
 # columns
 
-(date: 2025-06-30 06:08:04)
+(date: 2025-06-30 14:07:54)
+
+---
+
+##  Large Hadron Couture Collider 
+
+date: 2025-06-30, updated: 2025-06-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/large-hadron-couture-collider>
+
+---
+
+##  I Randomly Decided To Pay Off A School&#8217;s Lunch Debt. Then Something... 
+
+date: 2025-06-30, updated: 2025-06-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047045-i-randomly-decided-to-pay>
+
+---
+
+## June 29, 2025
+
+date: 2025-06-30, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167203141/9e31fa0c4b0c3a4b1db5188550302114.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167203141/9e31fa0c4b0c3a4b1db5188550302114.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-29-2025-d85>
+
+---
+
+##  The Music of Pixar&#8217;s Elio, Created by a Choir of Wooden Dolls 
+
+date: 2025-06-30, updated: 2025-06-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/the-music-of-pixars-elio-created-by-a-choir-of-wooden-dolls>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-30, from: Dave Winer's Scripting News)
+
+If the Dems were competitive they would run ads now with <a href="https://www.youtube.com/watch?v=hjbTZXOyfzA">Senator Tillis talking</a> about the damage the new Repub bill will do to Americans, emphasizing this is a <i>Republican</i> speaking, taking one for the country. 
+
+<br> 
+
+<http://scripting.com/2025/06/30.html#a175949>
+
+---
+
+##  Could Should Might Don&#8217;t. &#8220;This isn&#8217;t a book filled with predictions and... 
+
+date: 2025-06-30, updated: 2025-06-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047044-could-should-might-dont-t>
+
+---
+
+##  Retraction Watch: a blog that tracks corrected and retracted scientific papers.... 
+
+date: 2025-06-30, updated: 2025-06-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047043-retraction-watch-a-blog-t>
+
+---
+
+## Mitch Kapor finally completes MIT master's degree after 45-year detour
+
+date: 2025-06-30, updated: 2025-06-30, from: Liam Proven's articles at the Register
+
+<h4>During which he coded Lotus 1-2-3 and co-founded Mozilla and the EFF</h4>
+      <p>The man behind Lotus 1-2-3 and the Electronic Frontier Foundation (EFF) has wrapped up a master&#39;s degree at MIT Sloan, decades after dropping out to help kickstart the PC software boom.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/06/30/mitch_kapor_mba/>
+
+---
+
+##  Project Hail Mary, Official Trailer 
+
+date: 2025-06-30, updated: 2025-06-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/project-hail-mary-official-trailer>
+
+---
+
+##  Ted Chiang writes about the earliest works of fiction about superintelligence. &#8220;The... 
+
+date: 2025-06-30, updated: 2025-06-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047034-ted-chiang-writes-about-t>
+
+---
+
+## Do a backup now
+
+date: 2025-06-30, from: Dave Winer's Scripting News
+
+<p>Advice from a longtime developer. </p>
+<ul>
+<li>If you think "I should do a backup," do it. Now, don't wait. </li>
+<li>Make it really easy to do a backup. Choose a menu item that's always available when you're working.</li>
+</ul>
+<p>The reason is karma. God hears all your thoughts. When that thought pops into your head and you don't do a backup, or don't do it soon enough, He crashes your data, and you think "I should have done a backup when I thought of doing it." Even this doesn't please Him. At that moment it's even more urgent that you do a backup. </p>
+<p>My hippie uncle taught me this. God has a terrible sense of humor, and thinks it's really funny when you have a good thought and ignore it. When something didn't work he would say that's God goofing on me. </p>
+<p>In this case, we're talking about is the Programmer God. There are all kinds of gods, a <a href="http://scripting.com/davenet/1995/04/24/thebaseballgod.html">baseball god</a>, a basketball god, and very specifically a Knicks god. That god has the absolutely worst sense of humor of them all and by worst I mean best. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/30/144019.html?title=doABackupNow>
+
+---
+
+## Updates 2025/Q2
+
+date: 2025-06-30, from: mrusme blog
+
+Life and project updates from the current consecutive three-month period. You
+might find this interesting in case you're using any of my open source tools
+or you just want to read random things. :-) 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/updates-2025-q2/>
+
+---
+
+##  The History of Electronic Music in 476 Tracks (1937–2001). &#8220;Spanning the years... 
+
+date: 2025-06-30, updated: 2025-06-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047033-the-history-of-electronic>
 
 ---
 
@@ -13,7 +180,7 @@ updated: 2025-06-30 06:08:04
 
 date: 2025-06-30, from: Doc Searls (at Harvard), New Old Blog
 
-Has stuff that&#39;s too important for news stories. Even if you disagree with it. Heather Cox Richardson interviews Barack Obama. Are we in one now? On a call right now where the topic of verifiable community is being discussed. We experienced it yesterday. Anyone know the significance of 1, 8, 15, 22, and 29? 
+Toward future downtowns. Two tabs I just opened on a conference call that I need to read later: Re:Permissioning the City, and Permissioning the City 2025 Update. Has stuff that&#39;s too important for news stories. Even if you disagree with it. Heather Cox Richardson interviews Barack Obama. Are we in one now? On a call [&#8230;] 
 
 <br> 
 

@@ -1,11 +1,211 @@
 ---
 title: planet
-updated: 2025-06-30 06:08:00
+updated: 2025-06-30 14:07:49
 ---
 
 # planet
 
-(date: 2025-06-30 06:08:00)
+(date: 2025-06-30 14:07:49)
+
+---
+
+## Woman denies mother was not present for alleged assault
+
+date: 2025-06-30, from: RTÉ News
+
+A woman has denied a suggestion that her mother was not present during a holiday in which she is alleged to have sexually assaulted her when she was four. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0630/1521159-courts-sexual-assault/>
+
+---
+
+## Man, 38, charged with manslaughter of grandmother in Cork
+
+date: 2025-06-30, from: RTÉ News
+
+A 38-year-old man has been charged with the unlawful killing of his 82-year-old maternal grandmother in February of this year at her home in Carrigaline, Co Cork. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0630/1521152-cork-grandmother/>
+
+---
+
+## Podcast: A stormy year for UK Prime Minister Keir Starmer
+
+date: 2025-06-30, from: RTÉ News
+
+ 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0630/1521140-podcast-a-stormy-year-for-uk-prime-minister-keir-starmer/>
+
+---
+
+## Garda's actions were 'calculated, predatory', court told
+
+date: 2025-06-30, from: RTÉ News
+
+A garda who impersonated a female colleague online and encouraged strangers to come to her house to rape her and her young daughters, will be sentenced next month. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0630/1521143-courts-flanagan/>
+
+---
+
+## Jury in 'Diddy' sex trafficking trial starts deliberating
+
+date: 2025-06-30, from: RTÉ News
+
+The jury in Sean "Diddy" Combs' sex trafficking trial has begun its deliberations, after hearing dueling narratives from prosecutors and defence lawyers last week about whether the music mogul forced his former girlfriends to take part in drug-fueled sexual performances. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0630/1521137-jury-deliberates-in-sean-diddy-combs-sex-crimes-trial/>
+
+---
+
+## Private refused to stop bus for toilet break, court hears
+
+date: 2025-06-30, from: RTÉ News
+
+A driver in the Defence Forces has appeared before a military court over his alleged repeated failure to stop a coach to allow troops to go to the toilet on a trip between Finner Camp in Co Donegal and Dublin six years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0630/1521134-military-court/>
+
+---
+
+## Woman charged with murder of man in Newry on Saturday
+
+date: 2025-06-30, from: RTÉ News
+
+A woman in her 50s has been charged with the murder of a man in Co Down on Saturday. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0630/1521128-newry-murder-charge/>
+
+---
+
+## Assault charge against barrister struck out
+
+date: 2025-06-30, from: RTÉ News
+
+An assault charge against barrister and law professor Diarmuid Rossa Phelan has been struck out by a judge, who said the 56-year-old would not get a fair trial. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0630/1521122-court-phelan/>
+
+---
+
+## Cardinal Parolin at World Expo: ‘Beauty is an antidote to cynicism’
+
+date: 2025-06-30, from: Vatican News
+
+
+                    <p>To mark the National Day of the Holy See at the World Expo in Japan, Cardinal Pietro Parolin explains how beauty and hope are antidotes to cynicism and fear.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-06/cardinal-parolin-world-expo-beauty-is-an-antidote-to-cynicism.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-06/cardinal-parolin-world-expo-beauty-is-an-antidote-to-cynicism.html>
+
+---
+
+## From Sydney to the Andes: A journey of hope through youth
+
+date: 2025-06-30, from: Vatican News
+
+
+                    <p>SACRU’s first joint report showcases how students and staff from Catholic universities worldwide are actively contributing to the UN Sustainable Development Goals.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/from-sydney-to-the-andes-a-journey-of-hope-through-youth.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/from-sydney-to-the-andes-a-journey-of-hope-through-youth.html>
+
+---
+
+## Bishop Carlassare: South Sudan needs the peace of the Gospel
+
+date: 2025-06-30, from: Vatican News
+
+
+                    <p>The Bishop of Bentiu reflects on the fragile state of South Sudan as the nation moves toward the 2026 elections. The Comboni missionary calls for a courageous embrace of Gospel peace and nonviolence, urging the Church, schools, and local communities to take an active role in educating the young in peace, justice, and reconciliation. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/bishop-carlassare-south-sudan-elections-war-peace-reconciliation.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/bishop-carlassare-south-sudan-elections-war-peace-reconciliation.html>
+
+---
+
+## Thousands in Norway wrongly told they won big on lottery
+
+date: 2025-06-30, from: RTÉ News
+
+A Norwegian lottery company has apologised to 47,000 people who were mistakenly told they had won huge sums in a lottery, with the firm blaming a currency conversion error. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0630/1521116-norway-lottery/>
+
+---
+
+## Lisdoonvarna GP service 'would be closed' without support
+
+date: 2025-06-30, from: RTÉ News
+
+A GP practice in Co Clare has avoided closure after a doctor agreed not to retire and to take over the service in Lisdoonvarna. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0630/1521103-gps-clare-meath/>
+
+---
+
+## Ukrainian sister on meeting the Pope: ‘Prayer and faith help us not give up'
+
+date: 2025-06-30, from: Vatican News
+
+
+                    <p>Ahead of her order’s General Chapter, Sr. Emanujila Vishka, OSBM, recounts her experience meeting Pope Leo XIV and the ongoing aid her congregation provides to those in need in Ukraine.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-06/ukrainian-sister-on-meeting-the-pope-prayer-and-faith-help-us.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-06/ukrainian-sister-on-meeting-the-pope-prayer-and-faith-help-us.html>
+
+---
+
+## Vatican Radio participates in European Broadcasting Summit in London
+
+date: 2025-06-30, from: Vatican News
+
+
+                    <p>From 2 to 4 July, the BBC headquarters in London host the 94th General Assembly of the European Broadcasting Union (EBU), marking the organisation's 75th anniversary. Vatican Radio, a founding member of the EBU, will be represented by Alessandro Gisotti, Deputy Editorial Director of Vatican Media. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-06/vatican-radio-european-broadcasting-summit-london.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-06/vatican-radio-european-broadcasting-summit-london.html>
 
 ---
 
@@ -18,6 +218,18 @@ A 25-year-old man has been jailed for six years and three months for the manslau
 <br> 
 
 <https://www.rte.ie/news/courts/2025/0630/1521087-calvin-dunne-court/>
+
+---
+
+## Stena Line withdrawing Rosslare to Cherbourg service
+
+date: 2025-06-30, from: RTÉ News
+
+Stena Line is withdrawing its three-day Rosslare to Cherbourg ferry service from the end of September. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0630/1521075-stena-line/>
 
 ---
 
@@ -57,15 +269,111 @@ From rising debt and shrinking investment, to the aid funding crisis and struggl
 
 ---
 
+## Gaza: UN urges Israel to allow fuel into Strip
+
+date: 2025-06-30, from: United Nations, Top Stories
+
+The crisis in Gaza is worsening, UN humanitarians warned on Monday, as ongoing hostilities and access restrictions drive displaced communities deeper into despair. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1165131>
+
+---
+
+## Gaza: ‘Unbearable’ suffering continues, UN official tells Security Council
+
+date: 2025-06-30, from: United Nations, Top Stories
+
+The humanitarian crisis in Gaza is deepening at an alarming rate, a senior United Nations official warned on Monday, as Israeli military operations and attacks on civilians seeking aid continue to exact a devastating toll on lives and infrastructure. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1165126>
+
+---
+
+## Report reveals significant rise in civilian casualties and rights violations in Ukraine
+
+date: 2025-06-30, from: United Nations, Top Stories
+
+Civilian casualties and violations in Ukraine have significantly escalated in recent months, including a sharp rise in often deadly drone attacks, the UN human rights office, OHCHR, said in a report published on Monday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1165116>
+
+---
+
+## Afghanistan: Surging returns from Iran overwhelm fragile support systems, UN agencies warn
+
+date: 2025-06-30, from: United Nations, Top Stories
+
+More than 700,000 Afghan migrants have returned from Iran so far this year, including 256,000 in June alone, the UN International Organization for Migration (IOM) reported on Monday, warning of immense pressures on Afghanistan’s overstretched support systems.&nbsp;&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1165111>
+
+---
+
+## Human rights can be a ‘strong lever for progress’ in climate change, says UN rights chief
+
+date: 2025-06-30, from: United Nations, Climate Change
+
+The UN’s top rights official on Monday urged the international community to confront the growing human rights implications of climate change. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1165106>
+
+---
+
+## Every hour, 100 people die of loneliness-related causes, UN health agency reports
+
+date: 2025-06-30, from: United Nations, Top Stories
+
+One in six people are affected by loneliness, with significant implications for health and well-being, according to a new report from the UN World Health Organization (WHO).&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1165101>
+
+---
+
+## After the big development pledges in Sevilla, UN says action starts now
+
+date: 2025-06-30, from: United Nations, Economic Development
+
+Now the big promises have been formally adopted in the Spanish city of Sevilla to turbocharge financing for sustainable development, how are the ambitious goals going to be met – and how quickly? 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/06/1165096>
+
+---
+
 ## Central Bank chief warns Donohoe of VAT 'vulnerability'
 
 date: 2025-06-30, from: RTÉ News
 
-Central Bank Governor Gabriel Makhlouf has warned the Minister for Finance Paschal Donohoe about the vulnerability of VAT as a source of revenue, as the Government plans to cut the rate of the tax for the hospitality and retails sectors. 
+Central Bank Governor Gabriel Makhlouf has warned Minister for Finance Paschal Donohoe about the vulnerability of VAT as a source of revenue, as the Government plans to cut the rate of the tax for the hospitality and retails sectors. 
 
 <br> 
 
 <https://www.rte.ie/news/business/2025/0630/1521072-central-bank-letter-to-finance-minister/>
+
+---
+
+## Passenger video shows 'miracle' rescue after child and father fall overboard on Disney cruise
+
+date: 2025-06-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7574162.1751295936!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/disney-dream.JPG' alt='A cruise ship in the water' width='620' height='349' title='Disney Dream, a Disney Cruise Lines&apos; ship, sails to the Bahamas from Port Canaveral in Florida on Aug. 9, 2021. '/><p>A trip aboard a Disney Dream cruise nearly turned into a nightmare this weekend after a child reportedly fell overboard and her dad jumped in after her.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/disney-cruise-child-overboard-1.7574063?cmp=rss>
 
 ---
 
@@ -105,15 +413,27 @@ The son of an Irish man will make his debut at Wimbledon tomorrow, describing it
 
 ---
 
-## University fee hikes 'calculated betrayal' - student body
+## Budget can still help students amid fee hikes - Harris
 
 date: 2025-06-30, from: RTÉ News
 
-Ireland's student union body has described the Government's decision to have student's pay an extra €1,000 in fees this year as a "calculated betrayal". 
+Tánaiste Simon Harris has said this year's budget can still be used to help students and their families, but that there will be no cost-of-living package in advance of Christmas. 
 
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0630/1521054-student-fees/>
+
+---
+
+## U.K. police say Bob Vylan, Kneecap gigs at Glastonbury subject to criminal investigation
+
+date: 2025-06-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7574084.1751290216!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/britain-glastonbury-music-festival-day-4.jpg' alt='A man in a white t-shirt and shorts stands -- eyes closed, arms raised overhead and stands steepled -- in front of a sign onstage reading: &apos;Bob Vylan is killing punk rock.&apos;' width='620' height='349' title='Bob Vylan performs on the West Holts Stage, during the Glastonbury Festival at Worthy Farm in Somerset. England, Saturday, June 28, 2025. (Yui Mok/PA via AP)'/><p>U.K. police say the weekend performances by rap punk duo Bob Vylan and Irish-language band Kneecap are subject to a criminal investigation after chants calling for 'death' to the Israeli military and chants of 'Free Palestine' at the Glastonbury Festival.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/glastonbury-bob-vylan-1.7574078?cmp=rss>
 
 ---
 
@@ -138,6 +458,18 @@ The BBC has said it "should have pulled" the live stream of Bob Vylan's performa
 <br> 
 
 <https://www.rte.ie/entertainment/2025/0630/1521049-bbc-says-bob-vylan-coverage-should-have-been-pulled/>
+
+---
+
+## UK police probe Kneecap, Bob Vylan Glastonbury sets
+
+date: 2025-06-30, from: RTÉ News
+
+British police have launched a criminal investigation into Belfast rap trio Kneecap and Bob Vylan's performances at Glastonbury music festival over the weekend. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0630/1521049-bob-vylan-glastonbury/>
 
 ---
 
@@ -170,7 +502,19 @@ date: 2025-06-30, from: Vatican News
 
 ---
 
-## Pope: ‘Hunger must not be used as an weapon of war’
+## Thousands flee wildfires in Turkey as early heat wave hits parts of Europe
+
+date: 2025-06-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7574085.1751290270!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/europe-weather-turkey-wildfire.JPG' alt='Firefighters and local residents respond to a wildfire.' width='620' height='349' title='Firefighters and local residents respond to a wildfire in Menderes district of the Aegean city of Izmir, Turkey, June 29, 2025. Ihlas News Agency (IHA) via REUTERS ATTENTION EDITORS - THIS PICTURE WAS PROVIDED BY A THIRD PARTY. NO RESALES. NO ARCHIVES. TURKEY OUT. NO COMMERCIAL OR EDITORIAL SALES IN TURKEY.'/><p>Firefighters battled wildfires in Turkey and France on Monday as an early heat wave hit the region.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/wildfires-turkey-france-heatwave-europe-1.7574083?cmp=rss>
+
+---
+
+## Pope: ‘Hunger must not be used as a weapon of war’
 
 date: 2025-06-30, from: Vatican News
 
@@ -186,11 +530,11 @@ date: 2025-06-30, from: Vatican News
 
 ---
 
-## Israel steps up Gaza bombardment ahead of ceasefire talks
+## 60 dead in Israeli strikes on Gaza ahead of US talks
 
 date: 2025-06-30, from: RTÉ News
 
-Palestinians in northern Gaza reported one of the worst nights of Israeli bombardment in weeks after the military issued mass evacuation orders this morning, while Israeli officials were due in the US for a new ceasefire push by the Trump administration. 
+Israeli strikes killed at least 60 people across Gaza in some of the heaviest attacks in weeks as Israeli officials were due in Washington for a new ceasefire push by US President Donald Trump. 
 
 <br> 
 
@@ -278,6 +622,18 @@ A punishing heatwave has gripped southern Europe, prompting authorities to issue
 
 ---
 
+## 'Unprecedented' alerts in France amid European heatwave
+
+date: 2025-06-30, from: RTÉ News
+
+A punishing heatwave has gripped southern Europe, prompting authorities to issue health and wildfire warnings as temperatures are expected to soar again. 
+
+<br> 
+
+<https://www.rte.ie/news/weather/2025/0630/1520996-europe-weather-heatwave/>
+
+---
+
 ## Glastonbury 2025 ends after weekend of surprises
 
 date: 2025-06-30, from: RTÉ News
@@ -290,11 +646,11 @@ The 2025 edition of Glastonbury Festival has come to an end after a weekend of c
 
 ---
 
-## Man held over Co Down woman's murder questioned by police
+## Second arrest over murder of pregnant woman in Down
 
 date: 2025-06-30, from: RTÉ News
 
-Police are continuing to question a 28-year-old man as part of an investigation into the murder of a pregnant woman in Co Down. 
+Police investigating the murder of a pregnant woman in Co Down have arrested a second person. 
 
 <br> 
 
@@ -314,11 +670,11 @@ date: 2025-06-30, from: CBC, World News
 
 ---
 
-## Israeli strikes hit 4 school shelters in Gaza after hundreds of families ordered to evacuate
+## 58 killed in intensified Israeli strikes in Gaza, ahead of another ceasefire push
 
 date: 2025-06-30, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7574056.1751283299!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/unrwa-school-airstrike.jpeg' alt='A child carries paper left in the aftermath of an Israeli strike on a school shelter.' width='620' height='349' title='A child carries paper left in the aftermath of an Israeli strike on Al-Falah School in the Zeitoun area of Gaza City on Monday, June 30, 2025.'/><p>Palestinians in northern Gaza reported one of the worst nights of Israeli bombardment in weeks after the military issued mass evacuation orders on Monday. It comes as Israeli officials were due in Washington for a new ceasefire push by the Trump administration.</p> 
+<img src='https://i.cbc.ca/1.7574056.1751283299!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/unrwa-school-airstrike.jpeg' alt='A child carries paper left in the aftermath of an Israeli strike on a school shelter.' width='620' height='349' title='A child carries paper left in the aftermath of an Israeli strike on Al-Falah School in the Zeitoun area of Gaza City on Monday, June 30, 2025.'/><p>Israeli strikes killed at least 58 people across Gaza on Monday as residents in the enclave's north reported one of the heaviest bombardments in weeks, while Israeli officials were due in Washington for a new ceasefire push by the Trump administration.</p> 
 
 <br> 
 
@@ -350,7 +706,7 @@ date: 2025-06-30, from: CBC, Indigenious News
 
 ---
 
-## Williams Lions tour is over, Irish duo make first start
+## Williams' Lions tour over, Irish duo make first start
 
 date: 2025-06-30, from: RTÉ News
 

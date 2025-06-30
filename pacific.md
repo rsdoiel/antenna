@@ -1,11 +1,143 @@
 ---
 title: pacific
-updated: 2025-06-30 06:08:01
+updated: 2025-06-30 14:07:52
 ---
 
 # pacific
 
-(date: 2025-06-30 06:08:01)
+(date: 2025-06-30 14:07:52)
+
+---
+
+## Taputu claims 2025 Pacific Mini Games' first gold medal as Tahiti dominates opening day
+
+date: 2025-06-30, from: 
+
+Tahiti's Teimoana Taputu claimed the first gold medal in Palau, taking out the V1 500 metres open men's final in va'a (outrigger) racing. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565584/taputu-claims-2025-pacific-mini-games-first-gold-medal-as-tahiti-dominates-opening-day>
+
+---
+
+## Two firefighters killed in Idaho ambush, suspect dead, sheriff says
+
+date: 2025-06-30, updated: 2025-06-30, from: Marianas Variety
+
+(Reuters) — A gunman ambushed and shot dead two firefighters responding to a forest fire in northern Idaho on Sunday, wounding one other during an hours-long incident before the suspect was found dead, the Kootenai County Sheriff's Office said. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/two-firefighters-killed-in-idaho-ambush-suspect-dead-sheriff-says/article_ff7774e1-dfff-4a40-9978-ce7684334370.html>
+
+---
+
+## Micronesian Summit in Majuro this week
+
+date: 2025-06-30, updated: 2025-06-30, from: Marianas Variety
+
+MAJURO — The Micronesian Islands Forum cranks up with officials meetings Monday and Tuesday this week in Majuro, with the official opening for top leadership from the islands on Wednesday morning. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/micronesian-summit-in-majuro-this-week/article_511e71e9-c0a1-4a9e-9380-bb77d5169f9c.html>
+
+---
+
+## Who will be the next Liberation Queen? Coronation night this Wednesday, July 2
+
+date: 2025-06-30, updated: 2025-06-30, from: Marianas Variety
+
+(Liberation Day Committee) — The public is cordially invited to attend the Coronation Night of the 2025 Liberation Day Royal Court on Wednesday, July 2 at 7 p.m. at the Festival Grounds in Civic Center, Susupe. This year’s impressive roster of candidates proudly represents the three major islands of the CNMI: Saipan, Tinian, and Rota. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/who-will-be-the-next-liberation-queen-coronation-night-this-wednesday-july-2/article_6ab9c753-2dbe-478d-b23e-9bf64aa9895b.html>
+
+---
+
+## Saipan Chamber of Commerce to meet this Wednesday; RSVP now
+
+date: 2025-06-30, updated: 2025-06-30, from: Marianas Variety
+
+(SCC) — The Saipan Chamber of Commerce reminds all members and guests to RSVP now for the July general membership meeting happening this Wednesday, July 2 at the Taga Hall of World Resort Saipan. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/saipan-chamber-of-commerce-to-meet-this-wednesday-rsvp-now/article_6e760eb5-b200-4113-99c1-0dfb7480c42c.html>
+
+---
+
+## Registration open for Marianas maritime mapping workshops on July 8-21
+
+date: 2025-06-30, updated: 2025-06-30, from: Marianas Variety
+
+REGISTRATION is now open for three public workshops in July in Saipan, Tinian, and Rota aimed at documenting and mapping the maritime heritage sites and practices in the archipelago.  Additional mapping sessions are scheduled with specific target groups toward the goal of spreading a wide net to capture community input. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/registration-open-for-marianas-maritime-mapping-workshops-on-july-8-21/article_59de6946-5d52-455e-83bd-b71bc3435bc6.html>
+
+---
+
+## Ogo requests expedited review of RFP for former Rota Resort & Country Club
+
+date: 2025-06-30, updated: 2025-06-30, from: Marianas Variety
+
+(Press Release) — Rep. Julie A. Ogo has formally requested the Department of Public Lands, under the leadership of Secretary Sixto K. Igisomar, to expedite the review of RFP25-RED002 – Lease &amp; Development of Public Lands on Rota (the former Rota Resort &amp; Country Club), which closed on June 23, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/ogo-requests-expedited-review-of-rfp-for-former-rota-resort-country-club/article_89becb7a-ada0-401d-9154-2b9c03227481.html>
+
+---
+
+## Marianas’ nature is most memorable: Korea survey
+
+date: 2025-06-30, updated: 2025-06-30, from: Marianas Variety
+
+(MVA) — Nature was deemed the most memorable aspect of The Marianas in a recent survey conducted by the Marianas Visitors Authority at the Seoul International Travel Fair 2025 in Korea earlier this month. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/marianas-nature-is-most-memorable-korea-survey/article_2817645a-b2a2-4c49-8ef9-c7b46ef3974b.html>
+
+---
+
+## USDOL approves CNMI’s 2025 Prevailing Wage Study for CW-1 program
+
+date: 2025-06-30, updated: 2025-06-30, from: Marianas Variety
+
+(Office of the Governor) — The U.S. Department of Labor has officially approved the Commonwealth of the Northern Mariana Islands’ 2025 Prevailing Wage Study or PWS Report for the CW-1 visa program. The updated wage data will take effect from July 1, 2025, through June 30, 2026, for all CW-1 determinations. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/usdol-approves-cnmi-s-2025-prevailing-wage-study-for-cw-1-program/article_b048638c-caf7-4dd1-abba-3727808f6571.html>
+
+---
+
+## Fuel Adjustment Charge remains the same for July 2025
+
+date: 2025-06-30, updated: 2025-06-30, from: Marianas Variety
+
+(CUC) — The Commonwealth Utilities Corporation announces that the Fuel Adjustment Charge remains the same at $0.19706 per kWh for the month of July. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/fuel-adjustment-charge-remains-the-same-for-july-2025/article_97037d5a-2df7-4e49-9ac3-7f2f904c01c1.html>
+
+---
+
+## Canada rescinds digital services tax to advance stalled US trade talks
+
+date: 2025-06-30, updated: 2025-06-30, from: Marianas Variety
+
+OTTAWA (Reuters) — Canada scrapped its digital services tax targeting U.S. technology firms late on Sunday, just hours before it was due to take effect, in a bid to advance stalled trade negotiations with the United States. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/canada-rescinds-digital-services-tax-to-advance-stalled-us-trade-talks/article_d8dcc245-00a1-4b5d-a1b6-4e1cf4e1b390.html>
 
 ---
 
@@ -172,6 +304,20 @@ A round-up of sports news from around the region, including Peter V'landys prais
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/565531/pasifika-sipoti-in-brief-for-30-june>
+
+---
+
+## USP Journalism co-organises workshop on the role of the Fiji media in social cohesion
+
+date: 2025-06-30, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific’s (USP) Journalism Programme, in partnership with the UN Office...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-journalism-co-organises-workshop-on-the-role-of-the-fiji-media-in-social-cohesion/">USP Journalism co-organises workshop on the role of the Fiji media in social cohesion</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-journalism-co-organises-workshop-on-the-role-of-the-fiji-media-in-social-cohesion/>
 
 ---
 

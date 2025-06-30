@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-06-30 06:08:06
+updated: 2025-06-30 14:07:57
 ---
 
 # libraries
 
-(date: 2025-06-30 06:08:06)
+(date: 2025-06-30 14:07:57)
 
 ---
 
@@ -126,6 +126,18 @@ Wang X.; Geiser L.; Wüest R.; Weikert S.; Kucera L.
 <br> 
 
 <http://hdl.handle.net/20.500.11850/741681>
+
+---
+
+## Dr. Mabuse, the Gambler, by Norbert Jacques
+
+date: 2025-06-30, from: Standard Ebooks, new releaases
+
+A detective hunts a criminal mastermind and hypnotist in the gambling dens of post-Great-War Munich. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/norbert-jacques/dr-mabuse-the-gambler/lilian-a-clare>
 
 ---
 

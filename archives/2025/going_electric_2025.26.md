@@ -1,11 +1,239 @@
 ---
 title: going electric
-updated: 2025-06-30 06:08:09
+updated: 2025-06-30 14:08:00
 ---
 
 # going electric
 
-(date: 2025-06-30 06:08:09)
+(date: 2025-06-30 14:08:00)
+
+---
+
+## Nissan is in crisis mode as job cuts begin and suppliers are caught in the crosshairs
+
+date: 2025-06-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Nissan-N7-EV-DeepSeek.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Is Nissan raising the red flag? <a href="https://electrek.co/guides/nissan/">Nissan</a> is cutting about 15% of its workforce and is now asking suppliers for more time to make payments. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan" data-layer-viewtype="unknown" data-post-id="422843" href="https://electrek.co/2025/06/30/nissan-is-in-crisis-mode-job-cuts-loom-suppliers-told-to-wait/#more-422843" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/30/nissan-is-in-crisis-mode-job-cuts-loom-suppliers-told-to-wait/>
+
+---
+
+## Plug-In Hybrids Now Have More Problems Than EVs Do: J.D. Power
+
+date: 2025-06-30, from: Inside EVs News
+
+Plug-in hybrids are among the most mechanically complex vehicles on the road. Unfortunately, that means more problems as well. 
+
+<br> 
+
+<https://insideevs.com/news/764309/phev-ev-problems-jd-power-2025/>
+
+---
+
+## Chevy Equinox EV Lease And Finance Deals: They're Practically Giving Them Away
+
+date: 2025-06-30, from: Inside EVs News
+
+You can lease a Chevy Equinox EV for as low as $7 per month right now. 
+
+<br> 
+
+<https://insideevs.com/news/764296/gm-ev-lease-crazy-deal/>
+
+---
+
+## Elon Musk said to bet on Tesla delivering Robotaxi in June, yet those who did just lost big
+
+date: 2025-06-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Elon-Musk-Tesla-Money-hero.png?w=1600" /></div><p>Elon Musk said just a few weeks ago that betting on Tesla delivering its promised Robotaxi in June is a “money-making opportunity,” and yet, those who listened to him just lost big.</p>
+
+
+
+<p>A fan of Musk lost $50,000 betting on Tesla Robotaxi.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="422886" href="https://electrek.co/2025/06/30/elon-musk-bet-tesla-delivering-robotaxi-june-lost-big/#more-422886" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/30/elon-musk-bet-tesla-delivering-robotaxi-june-lost-big/>
+
+---
+
+## BYD adds range to its most affordable EV with a new trim, and it only costs $11,000
+
+date: 2025-06-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/BYD-price-war-not-sustainable.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD’s top-selling and most affordable EV just got another upgrade. <a href="https://electrek.co/guides/byd/">BYD</a> introduced a new variant for its popular Seagull EV, which is now being sold in Europe as the Dolphin Surf. The new Seagull EV variant is still priced at just $11,000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="422882" href="https://electrek.co/2025/06/30/byd-adds-range-to-most-affordable-ev-only-costs-11000/#more-422882" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/30/byd-adds-range-to-most-affordable-ev-only-costs-11000/>
+
+---
+
+## Tesla Will Begin Virtual Supercharger Lines This Week
+
+date: 2025-06-30, from: Inside EVs News
+
+If all goes right, this means no more throwing elbows when getting to a busy Supercharger this Thanksgiving. 
+
+<br> 
+
+<https://insideevs.com/news/764194/tesla-supercharger-queueing-pilot-starts/>
+
+---
+
+## Schumacher Level 2 EV charger $364, NIU’s 300P electric scooter $719, Anker 90K mAh power station from $170, more
+
+date: 2025-06-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Schumacher-240V-40A-Level-2-Electric-Vehicle-Wall-Charger.webp?w=1600" /></div><p>A new week kicks off with a notable power station markdown, powerful electric scooter discount, and even a level 2 EV charger. More specifically, we’ve spotted <a href="https://9to5toys.com/2025/06/30/anker-solix-c300-portable-power-station/">Anker’s 90,000mAh SOLIX C300 Portable Power Station at $220</a> alongside the <a href="https://9to5toys.com/2025/06/30/anker-solix-c300-portable-power-station/">DC model for $170</a>. The others we just called out include <a href="https://9to5toys.com/2025/06/30/niu-300p-scooter/">NIU’s 300P electric scooter</a> with a 30-mile range <a href="https://9to5toys.com/2025/06/30/niu-300p-scooter/">at $719</a> and <a href="https://9to5toys.com/2025/06/30/schumacher-240v-40a-level-2-electric-vehicle-wall-charger/">Schumacher’s 40A Level 2 wall charger</a> which can add up to ’48 miles of range per hour’ to your EV <a href="https://9to5toys.com/2025/06/30/schumacher-240v-40a-level-2-electric-vehicle-wall-charger/">down at $364</a>.</p>
+
+
+
+<p>Head below for more and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="422891" href="https://electrek.co/2025/06/30/green-deals-june-30/#more-422891" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/30/green-deals-june-30/>
+
+---
+
+## Some Republicans Quietly Urge Trump To Keep EV Money Flowing
+
+date: 2025-06-30, from: Inside EVs News
+
+Mercedes-Benz wants to build a new electric van in South Carolina. Some Republicans are reportedly fighting to unblock the federal funds for it. 
+
+<br> 
+
+<https://insideevs.com/news/764268/republicans-urge-trump-to-keep-ev-money-flowing/>
+
+---
+
+## Kia is about to launch another ‘Big, Bold’ three-row EV, but you can’t have this one
+
+date: 2025-06-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Kia-three-row-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia is preparing to introduce a new three-row electric SUV in less than two weeks, and it’s not the EV9. The “Big, Bold Family Vehicle” marks a milestone for <a href="https://electrek.co/guides/kia/">Kia</a>, but it might be tough to get your hands on one.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia" data-layer-viewtype="unknown" data-post-id="422861" href="https://electrek.co/2025/06/30/kia-about-to-launch-another-big-bold-three-row-ev/#more-422861" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/30/kia-about-to-launch-another-big-bold-three-row-ev/>
+
+---
+
+## Pebble begins deliveries of electric Flow travel trailer, which now includes automated ‘Auto Dump’ [Video]
+
+date: 2025-06-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Pebble-deliveries-electric-trailer.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Less than three months after kicking off production of its flagship, solar-electric travel trailer called the Flow, electric mobility startup Pebble has begun deliveries to early customers in the US. The deliveries of these unique <a href="https://electrek.co/guides/pebble/">Pebble</a> trailers will also include a new automated waste disposal feature called “Auto Dump,” a first for the industry.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-rv,pebble,pebble-flow,solar-electric-trailer" data-layer-viewtype="unknown" data-post-id="421287" href="https://electrek.co/2025/06/30/pebble-begins-deliveries-electric-flow-travel-trailer-automated-auto-dump/#more-421287" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/30/pebble-begins-deliveries-electric-flow-travel-trailer-automated-auto-dump/>
+
+---
+
+## My Secret Tesla Master Plan (Part 4)
+
+date: 2025-06-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2020/12/Tesla-Elon-Musk-Secret.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla CEO Elon Musk has been talking about releasing his ‘Tesla Master Plan Part 4’ for over a year now. It has yet to come, and Tesla has yet to complete the goals in Parts 2 and 3. So I decided to come up with my own Tesla Master Plan. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="420668" href="https://electrek.co/2025/06/30/my-secret-tesla-master-plan-part-4/#more-420668" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/30/my-secret-tesla-master-plan-part-4/>
+
+---
+
+## Science Says Hard Acceleration Might Be Good For Your EV Battery
+
+date: 2025-06-30, from: Inside EVs News
+
+A new study has found that the occasional spirited acceleration in an EV is actually good for its long-term battery health. 
+
+<br> 
+
+<https://insideevs.com/news/764150/ev-battery-flooring-it-good/>
+
+---
+
+## 'Tesla Knows How To Use Them': How Influencers Drive The Robotaxi Narrative
+
+date: 2025-06-30, from: Inside EVs News
+
+Once again, Tesla skips traditional media as it rolls out the Robotaxi service. Plus: Seoul is getting into the autonomous taxi game too. 
+
+<br> 
+
+<https://insideevs.com/news/764270/tesla-robotaxi-influencer-cm/>
+
+---
+
+## Ford CEO shuts down Tesla Full Self-Driving deal, says Waymo is better
+
+date: 2025-06-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Ford-CEO-Jim-Farley-F-150-Lightning.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford has long been rumored to be in discussions with Tesla about licensing its Full Self-Driving technology, but CEO Jim Farley has now shut down those rumors.</p>
+
+
+
+<p>Farley confirmed that Ford talked with Tesla, but he believes Waymo has a better solution.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="422705" href="https://electrek.co/2025/06/30/ford-ceo-shuts-down-tesla-full-self-driving-deal-says-waymo-is-better/#more-422705" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/30/ford-ceo-shuts-down-tesla-full-self-driving-deal-says-waymo-is-better/>
+
+---
+
+## Joby Aviation (JOBY) begins piloted eVTOL flights in the United Arab Emirates [Video]
+
+date: 2025-06-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Joby-flights-UAE.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>International eVTOL developer <a href="https://electrek.co/guides/joby-aviation/">Joby Aviation</a> has hit a key milestone overseas, as it moves closer to commercial air taxi operations. This morning, the company shared news that it has begun eVTOL flights in the United Arab Emirates with a pilot onboard, a key step in the necessary certification process. Peep the flight footage from Joby below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="evtol,joby-aviation,united-arab-emirates" data-layer-viewtype="unknown" data-post-id="422836" href="https://electrek.co/2025/06/30/joby-aviation-begins-piloted-evtol-flights-united-arab-emirates-video/#more-422836" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/30/joby-aviation-begins-piloted-evtol-flights-united-arab-emirates-video/>
 
 ---
 

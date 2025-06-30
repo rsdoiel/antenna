@@ -1,11 +1,171 @@
 ---
 title: socal north
-updated: 2025-06-30 06:08:01
+updated: 2025-06-30 14:07:51
 ---
 
 # socal north
 
-(date: 2025-06-30 06:08:01)
+(date: 2025-06-30 14:07:51)
+
+---
+
+## Go! Santa Clarita Has a New Ride-Ready App: Transit OnDemand
+
+date: 2025-06-30, from: City of Santa Clarita
+
+<p>Same Convenient Curb-To-Curb Service Now Turbo-Charged for Speed and Reliability Beginning Tuesday, July 1, Go! Santa Clarita will be available on a powerful, new Transit OnDemand app, replacing the existing TripShot platform. This all-in-one solution delivers quicker pick-ups, shorter waits and more ride availability. Riders can download the app now from both the App Store [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/30/go-santa-clarita-has-a-new-ride-ready-app-transit-ondemand/">Go! Santa Clarita Has a New Ride-Ready App: Transit OnDemand</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/30/go-santa-clarita-has-a-new-ride-ready-app-transit-ondemand/>
+
+---
+
+## Olympic sailing events to be split between Long Beach, San Pedro
+
+date: 2025-06-30, from: Longbeach Post
+
+<figure><img width="1024" height="637" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-1024x637.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-1024x637.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-300x187.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-768x478.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-173x108.jpg 173w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-400x249.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Belmont Shore will stage men’s and women’s windsurfing, as well as men’s and women’s kite surfing. </p>
+<p>The post <a href="https://lbpost.com/news/olympic-sailing-events-to-be-split-between-long-beach-san-pedro">Olympic sailing events to be split between Long Beach, San Pedro </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/olympic-sailing-events-to-be-split-between-long-beach-san-pedro>
+
+---
+
+## Santa Clarita Shakespeare and Eclipse Theatre LA to Present “Fairies” at The MAIN
+
+date: 2025-06-30, from: City of Santa Clarita
+
+<p>In Community Theatre, the Best Drama Happens Off-Stage! Santa Clarita Shakespeare, in collaboration with Eclipse Theatre LA, is proud to present Fairies, a new original comedy-drama, written by Phil Lantis and directed by Nancy Lantis. This lively and heartfelt production premieres as part of the Santa Clarita Shakespeare annual summer festival this July at The [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/30/santa-clarita-shakespeare-and-eclipse-theatre-la-to-present-fairies-at-the-main/">Santa Clarita Shakespeare and Eclipse Theatre LA to Present &#8220;Fairies&#8221; at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/30/santa-clarita-shakespeare-and-eclipse-theatre-la-to-present-fairies-at-the-main/>
+
+---
+
+## What the new state budget holds in store for education
+
+date: 2025-06-30, updated: 2025-06-30, from: The LAist
+
+Education will remain mostly shielded from the pain of weak projected state revenues in a 2025-26 budget compromise between Gov. Gavin Newsom and the Legislature. 
+
+<br> 
+
+<https://laist.com/news/education/what-new-california-state-budget-holds-for-education>
+
+---
+
+## Trump administration sues Los Angeles over its sanctuary city policies
+
+date: 2025-06-30, updated: 2025-06-30, from: The LAist
+
+The city’s policy prohibits federal agents from using city resources for immigration enforcement. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-adminstration-sues-los-angeles-sanctuary-city-policies>
+
+---
+
+## Controversial climate rule, which could raise gas prices, about to go into effect
+
+date: 2025-06-30, updated: 2025-06-30, from: The LAist
+
+No immediate hike in gas prices will occur. But Democrats and Republicans in the Legislature fear the effects of the clean-fuel program. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/controversial-climate-rule-which-could-raise-gas-prices-about-to-go-into-effect>
+
+---
+
+## Trump Administration sues Los Angeles over ‘sanctuary city’ policy
+
+date: 2025-06-30, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1536x1025.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1568x1046.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The lawsuit contends that the sanctuary laws — in which local law enforcement officials refuse to assist immigration enforcement efforts — are illegal. </p>
+<p>The post <a href="https://lbpost.com/news/trump-administration-sues-los-angeles-over-sanctuary-city-policy">Trump Administration sues Los Angeles over &#8216;sanctuary city&#8217; policy</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/trump-administration-sues-los-angeles-over-sanctuary-city-policy>
+
+---
+
+## Man identified after drowning in LA River dam in Long Beach
+
+date: 2025-06-30, from: Longbeach Post
+
+<figure><img width="1024" height="663" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/12134105/la-river-snow-0661-467790-3stm5hnn-060889-AG7WYdqv-1024x663.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/12134105/la-river-snow-0661-467790-3stm5hnn-060889-AG7WYdqv-1024x663.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/12134105/la-river-snow-0661-467790-3stm5hnn-060889-AG7WYdqv-300x194.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/12134105/la-river-snow-0661-467790-3stm5hnn-060889-AG7WYdqv-768x497.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/12134105/la-river-snow-0661-467790-3stm5hnn-060889-AG7WYdqv-167x108.jpg 167w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/12134105/la-river-snow-0661-467790-3stm5hnn-060889-AG7WYdqv-1536x994.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/12134105/la-river-snow-0661-467790-3stm5hnn-060889-AG7WYdqv-1200x777.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/12134105/la-river-snow-0661-467790-3stm5hnn-060889-AG7WYdqv-1568x1015.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/12134105/la-river-snow-0661-467790-3stm5hnn-060889-AG7WYdqv-400x259.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/12134105/la-river-snow-0661-467790-3stm5hnn-060889-AG7WYdqv.jpg 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Khrystopher Lemus of Long Beach died around 3:15 p.m. Sunday, according to the county Medical Examiner's office.</p>
+<p>The post <a href="https://lbpost.com/news/man-identified-after-drowning-in-la-river-dam-in-long-beach">Man identified after drowning in LA River dam in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/man-identified-after-drowning-in-la-river-dam-in-long-beach>
+
+---
+
+## Lineage, not race: California’s strategy to advance equity for descendants of slavery
+
+date: 2025-06-30, updated: 2025-06-30, from: The LAist
+
+In a bold legal test, California legislators are advancing bills that would benefit descendants of enslaved people without mentioning race, setting the stage for a court battle. 
+
+<br> 
+
+<https://laist.com/news/politics/lineage-not-race-californias-strategy-to-advance-equity-for-descendants-of-slavery>
+
+---
+
+## DOJ announces plans to prioritize cases to revoke citizenship
+
+date: 2025-06-30, updated: 2025-06-30, from: The LAist
+
+Denaturalization is a tactic heavily used during the McCarthy era and one that was expanded during the Obama administration and grew further during President Trump's first term. It's a tool usually used in only the most serious and rare of cases: dealing with Nazis or war criminals. 
+
+<br> 
+
+<https://laist.com/news/politics/doj-announces-plans-to-prioritize-cases-revoke-citizenship>
+
+---
+
+## After the LA fires, mortgage companies promised to give devastated homeowners a break. Some have not
+
+date: 2025-06-30, updated: 2025-06-30, from: The LAist
+
+Borrowers who lost homes tell LAist their banks are not following the rules of a state mortgage relief program. Some have been told they could face foreclosure. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/fires-mortgage-relief-problems>
+
+---
+
+## We’ve launched a cheaper, better ticketing platform for Long Beach locals; use it for free now
+
+date: 2025-06-30, from: Longbeach Post
+
+<figure><img width="1024" height="1024" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/30065318/lb-post-tickets-instagram-1-177761-dmdwpj1t-192749-QCarysNy-1024x1024.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/30065318/lb-post-tickets-instagram-1-177761-dmdwpj1t-192749-QCarysNy-1024x1024.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/30065318/lb-post-tickets-instagram-1-177761-dmdwpj1t-192749-QCarysNy-300x300.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/30065318/lb-post-tickets-instagram-1-177761-dmdwpj1t-192749-QCarysNy-150x150.png 150w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/30065318/lb-post-tickets-instagram-1-177761-dmdwpj1t-192749-QCarysNy-768x768.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/30065318/lb-post-tickets-instagram-1-177761-dmdwpj1t-192749-QCarysNy-108x108.png 108w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/30065318/lb-post-tickets-instagram-1-177761-dmdwpj1t-192749-QCarysNy-800x800.png 800w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/30065318/lb-post-tickets-instagram-1-177761-dmdwpj1t-192749-QCarysNy-600x600.png 600w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/30065318/lb-post-tickets-instagram-1-177761-dmdwpj1t-192749-QCarysNy-400x400.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/30065318/lb-post-tickets-instagram-1-177761-dmdwpj1t-192749-QCarysNy-200x200.png 200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/30065318/lb-post-tickets-instagram-1-177761-dmdwpj1t-192749-QCarysNy.png 1080w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Post is debuting a new ticketing platform that is cheaper for customers, with proceeds staying local to help support our journalism. </p>
+<p>The post <a href="https://lbpost.com/news/weve-launched-a-cheaper-better-ticketing-platform-for-long-beach-locals-use-it-for-free-now">We’ve launched a cheaper, better ticketing platform for Long Beach locals; use it for free now</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/weve-launched-a-cheaper-better-ticketing-platform-for-long-beach-locals-use-it-for-free-now>
 
 ---
 
@@ -85,7 +245,7 @@ Family members to sell everything out of Ambrocio “Enrique” Lozano's ice cre
 
 date: 2025-06-29, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-1536x1025.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-1568x1046.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-1536x1025.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-1568x1046.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/27135631/020325-day-without-immigrants-jwh-06-953614-tmp5mcye-564872-PVazjPYy.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>California could lose votes in the electoral college and suffer economic setbacks if President Trump’s immigration crackdown deters people from moving to the state.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/californias-population-shrank-in-trumps-first-immigration-crackdown-it-could-happen-again">California’s population shrank in Trump’s first immigration crackdown. It could happen again</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

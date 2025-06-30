@@ -1,11 +1,208 @@
 ---
 title: snapshots
-updated: 2025-06-30 06:08:11
+updated: 2025-06-30 14:08:03
 ---
 
 # snapshots
 
-(date: 2025-06-30 06:08:11)
+(date: 2025-06-30 14:08:03)
+
+---
+
+## Proton v. Apple
+
+date: 2025-06-30, from: Michael Tsai
+
+Proton (PDF): We believe that Apple&#8217;s conduct, as detailed in the complaint we filed, constitutes further violations of US antitrust law. Without this case, Apple could get away with behavior in the US that is already outlawed in the European Union. If this were to happen, American consumers, and developers focused on the American market, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/30/proton-v-apple/>
+
+---
+
+## Free Speech Coalition v. Paxton
+
+date: 2025-06-30, from: Michael Tsai
+
+Adi Robertson: Age verification is perhaps the hottest battleground for online speech, and the Supreme Court just settled a pivotal question: does using it to gate adult content violate the First Amendment in the US? For roughly the past 20 years the answer has been &#8220;yes&#8221; &#8212; now, as of Friday, it&#8217;s an unambiguous &#8220;no.&#8221;Justice [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/30/free-speech-coalition-v-paxton/>
+
+---
+
+## Assorted Notes on Liquid Glass
+
+date: 2025-06-30, from: Michael Tsai
+
+Riccardo Mori: I&#8217;ve been trying to make sense of Apple&#8217;s latest user-interface redesign &#8212; Apple calls it Liquid Glass &#8212; that will affect all their platforms in the next iteration of their respective OS versions. But it&#8217;s hard to make sense of it when, after checking Apple&#8217;s own guidance, I&#8217;m mostly left with the feeling [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/30/assorted-notes-on-liquid-glass/>
+
+---
+
+## Technotes Safari Extension
+
+date: 2025-06-30, from: Michael Tsai
+
+Zhenyi Tan (via Kyle Howells): A few months ago, I posted this image on Mastodon, because the Apple documentation website sometimes feel&#8230; err, underwhelming. Many people have already pointed this out, so I won&#8217;t repeat their complaints. When people complain about Apple&#8217;s documentation, they often compare it to php.net, saying that php.net has sample code [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/06/30/technotes-safari-extension/>
+
+---
+
+## Ploopy Knob is a $49 customizable dial for your computer that runs open source firmware (open hardware)
+
+date: 2025-06-30, from: Liliputing
+
+<p>The Ploopy Knob is a USB accessory that gives your computer a dial with support for high-resolution scrolling. Out of the box it&#8217;s designed to act as a vertical scroll wheel, but it runs open source, customizable firmware. So you can program its QMK firmware for horizontal scrolling, media controls (like volume adjustments or scrubbing forward [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/ploopy-knob-is-a-49-customizable-dial-for-your-computer-that-runs-open-source-firmware-open-hardware/">Ploopy Knob is a $49 customizable dial for your computer that runs open source firmware (open hardware)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/ploopy-knob-is-a-49-customizable-dial-for-your-computer-that-runs-open-source-firmware-open-hardware/>
+
+---
+
+## Stay Safe During Dangerous Heat
+
+date: 2025-06-30, from: Guy Kawasaki blog
+
+Brian Bossak, Professor of Public Health, College of Charleston. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/stay-safe-during-dangerous-heat>
+
+---
+
+## llvm: InstCombine: improve optimizations for ceiling division with no overflow - a PR by Alex Gaynor and Claude Code
+
+date: 2025-06-30, updated: 2025-06-30, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/llvm/llvm-project/pull/142869">llvm: InstCombine: improve optimizations for ceiling division with no overflow - a PR by Alex Gaynor and Claude Code</a></strong></p>
+Alex Gaynor maintains <a href="https://github.com/alex/rust-asn1">rust-asn1</a>, and recently spotted a missing LLVM compiler optimization while hacking on it, with <a href="https://claude.ai/share/d998511d-45ee-4132-bee4-fe7f70350a67">the assistance of Claude</a> (Alex works for Anthropic).</p>
+<p>He describes how he confirmed that optimization in <a href="https://alexgaynor.net/2025/jun/20/serialize-some-der/">So you want to serialize some DER?</a>, taking advantage of a tool called <a href="https://github.com/AliveToolkit/alive2">Alive2</a> to automatically verify that the potential optimization resulted in the same behavior.</p>
+<p>Alex <a href="https://github.com/llvm/llvm-project/issues/142497">filed a bug</a>, and then... </p>
+<blockquote>
+<p>Obviously the next move is to see if I can send a PR to LLVM, but it’s been years since I was doing compiler development or was familiar with the LLVM internals and I wasn’t really prepared to invest the time and energy necessary to get back up to speed. But as a friend pointed out… what about Claude?</p>
+<p>At this point my instinct was, "Claude is great, but I'm not sure if I'll be able to effectively code review any changes it proposes, and I'm <em>not</em> going to be the asshole who submits an untested and unreviewed PR that wastes a bunch of maintainer time". But excitement got the better of me, and I asked <code>claude-code</code> to see if it could implement the necessary optimization, based on nothing more than the test cases.</p>
+</blockquote>
+<p>Alex reviewed the resulting code <em>very</em> carefully to ensure he wasn't wasting anyone's time, then submitted <a href="https://github.com/llvm/llvm-project/pull/142869">the PR</a> and had Claude Code help implement the various changes requested by the reviewers. The optimization <a href="https://github.com/llvm/llvm-project/commit/632151fbeea972f4aa3c14921eca1e45c07646f3">landed</a> two weeks ago.</p>
+<p>Alex's conclusion (emphasis mine):</p>
+<blockquote>
+<p>I am incredibly leery about <a href="https://alexgaynor.net/2025/mar/05/generality/">over-generalizing</a> how to understand the capacity of the models, but at a minimum it seems safe to conclude that <strong>sometimes you should just let the model have a shot at a problem and you may be surprised -- particularly when the problem has very clear success criteria</strong>. This only works if you have the capacity to review what it produces, of course. [...]</p>
+</blockquote>
+<p>This echoes Ethan Mollick's advice to "always invite AI to the table". For programming tasks the "very clear success criteria" is extremely important, as it helps fit the tools-in-a-loop pattern implemented by coding agents such as Claude Code.</p>
+<p>LLVM have <a href="https://llvm.org/docs/DeveloperPolicy.html#ai-generated-contributions">a policy</a> on AI-assisted contributions which is compatible with Alex's work here:</p>
+<blockquote>
+<p>[...] the LLVM policy is that contributors are permitted to use artificial intelligence tools to produce contributions, provided that they have the right to license that code under the project license. Contributions found to violate this policy will be removed just like any other offending contribution.</p>
+<p>While the LLVM project has a liberal policy on AI tool use, contributors are considered responsible for their contributions. We encourage contributors to review all generated code before sending it for review to verify its correctness and to understand it so that they can answer questions during code review.</p>
+</blockquote>
+<p>Back in April Ben Evans <a href="https://mastodon.social/@kittylyst/114397697851381604">put out a call</a> for concrete evidence that LLM tools were being used to solve non-trivial problems in mature open source projects:</p>
+<blockquote>
+<p>I keep hearing #AI boosters / talking heads claiming that #LLMs have transformed software development [...] Share some AI-derived pull requests that deal with non-obvious corner cases or non-trivial bugs from mature #opensource  projects.</p>
+</blockquote>
+<p>I think this LLVM optimization definitely counts!</p>
+<p>(I also like how this story supports the idea that AI tools amplify existing human expertise rather than replacing it. Alex had previous experience with LLVM, albeit rusty, and could lean on that knowledge to help direct and evaluate Claude's work.)
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/alex-gaynor">alex-gaynor</a>, <a href="https://simonwillison.net/tags/compilers">compilers</a>, <a href="https://simonwillison.net/tags/llvm">llvm</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/30/llvm/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-30, from: Dave Winer's linkblog)
+
+Supreme Court to decide whether ISPs must disconnect users accused of piracy. 
+
+<br> 
+
+<https://arstechnica.com/tech-policy/2025/06/supreme-court-to-decide-whether-isps-must-disconnect-users-accused-of-piracy/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-30, from: Dave Winer's linkblog)
+
+Tumblr’s move to WordPress and fediverse integration is ‘on hold.’ 
+
+<br> 
+
+<https://www.theverge.com/news/695124/tumblr-wordpress-automattic-fediverse-integration-on-hold-decoder>
+
+---
+
+## TCL NXTPAPER 11 Plus tablet now available in the US for $249
+
+date: 2025-06-30, from: Liliputing
+
+<p>The TCL NXTPAPER 11 Plus is a mid-range Android tablet with one stand-out feature, TCL&#8217;s NXTPAPER 4.0 display technology that offers an anti-glare, paper-like viewing experience. First introduced during CES in January, the NXTPAPER 11 Plus is now available from Walmart for $249. The tablet features an 11.5 inch, 2200 x 1400 pixel IPS LCD display [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/tcl-nxtpaper-11-plus-tablet-now-available-in-the-us-for-249/">TCL NXTPAPER 11 Plus tablet now available in the US for $249</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/tcl-nxtpaper-11-plus-tablet-now-available-in-the-us-for-249/>
+
+---
+
+## Updates 2025/Q2
+
+date: 2025-06-30, from: mrusme blog
+
+Life and project updates from the current consecutive three-month period. You
+might find this interesting in case you're using any of my open source tools
+or you just want to read random things. :-) 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/updates-2025-q2/>
+
+---
+
+## Name that Ware, June 2025
+
+date: 2025-06-30, from: Bunnie's Studio Blog
+
+The ware for June 2025 is shown below. A big thanks to Chris Combs for this handsome contribution! Despite being 80&#8217;s vintage, the board is in mint condition. 
+
+<br> 
+
+<https://www.bunniestudios.com/blog/2025/name-that-ware-june-2025/>
+
+---
+
+## Winner, Name that Ware May 2025
+
+date: 2025-06-30, from: Bunnie's Studio Blog
+
+The Ware for May 2025 is a Facebook (now Meta) Portal. I&#8217;ll give the prize to opticron for the quick guess, email me for your prize! I actually considered redacting the audio DSP, but decided to leave it in because it&#8217;s an interesting detail. Despite having a big burly SoC with multiple cores and a [&#8230;] 
+
+<br> 
+
+<https://www.bunniestudios.com/blog/2025/winner-name-that-ware-may-2025/>
+
+---
+
+## Sweaty Walls
+
+date: 2025-06-30, updated: 2025-06-30, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/06/30/sweaty-walls/>
 
 ---
 
@@ -68,6 +265,19 @@ A primer on geothermal energy, and why it provides just 0.3% of the world's elec
 <br> 
 
 <https://www.sustainabilitybynumbers.com/p/geothermal-energy>
+
+---
+
+## Build a Static Web Server with Deno
+
+date: 2025-06-30, from: Robert's Ramblings
+
+This chapter demonstrates how to build a static web server using Deno.
+ 
+
+<br> 
+
+<https://rsdoiel.github.io/blog/2025/06/30/Build_a_Static_Web_Server.html>
 
 ---
 
@@ -274,6 +484,19 @@ How Wall Street increases disparities
 <br> 
 
 <https://paulkrugman.substack.com/p/inequality-part-v-predatory-financialization>
+
+---
+
+## US-RSE June 2025 Newsletter
+
+date: 2025-06-29, from: The United States Research Software Engineer Association
+
+🔍 This Month: A Peek at the US-RSE Website — What Brings You Here? 🔍 - 
+          Welcome to this month’s edition of the US-RSE Newsletter! A few weeks ago, I found myself wondering: Who visits the US-RSE website? What are they looking for? How are they finding us? To satisfy that curiosity, I took a dive into our Google Analytics data, and uncovered some interesting patterns.... 
+
+<br> 
+
+<https://us-rse.org/2025-06-29-newsletter/>
 
 ---
 

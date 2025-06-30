@@ -1,11 +1,246 @@
 ---
 title: home
-updated: 2025-06-30 06:08:07
+updated: 2025-06-30 14:07:58
 ---
 
 # home
 
-(date: 2025-06-30 06:08:07)
+(date: 2025-06-30 14:07:58)
+
+---
+
+## Don’t Get Burned: Anker Recalls Over 1 Million Power Banks Over Fire Risk
+
+date: 2025-06-30, from: Family Handyman Blog
+
+<p>Your Anker power bank may be a fire risk. The company has announced a recall of more of its products following a prior recall this month. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/anker-power-bank-fire-risk-recall/">Don&#8217;t Get Burned: Anker Recalls Over 1 Million Power Banks Over Fire Risk</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/anker-power-bank-fire-risk-recall/>
+
+---
+
+## 8 Stylish Ideas to Refresh Your Kitchen in 2025
+
+date: 2025-06-30, from: Family Handyman Blog
+
+<p>Interior designers share 2025 kitchen trends.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/stylish-kitchen-trends/">8 Stylish Ideas to Refresh Your Kitchen in 2025</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/stylish-kitchen-trends/>
+
+---
+
+## How to Use a ScrubDaddy to Its Full Potential
+
+date: 2025-06-30, from: Family Handyman Blog
+
+<p>Are you using your ScrubDaddy the right way? The kitchen sponges are designed to take on different textures as you use them. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-use-a-scrubdaddy/">How to Use a ScrubDaddy to Its Full Potential</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-use-a-scrubdaddy/>
+
+---
+
+## How to Remove Gnats from Your Home
+
+date: 2025-06-30, from: Family Handyman Blog
+
+<p>These little black beasts can be infuriating, but luckily it's not terribly hard to evict them from your home. Here's how.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-remove-gnats/">How to Remove Gnats from Your Home</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-remove-gnats/>
+
+---
+
+## The Truth About Inflatable Hot Tubs: Pros, Cons and Safety Concerns
+
+date: 2025-06-30, from: Family Handyman Blog
+
+<p>Inflatable hot tubs can be beneficial for those looking to unwind in a smaller space at a more affordable price point especially when summer comes around.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/inflatable-hot-tub-safety/">The Truth About Inflatable Hot Tubs: Pros, Cons and Safety Concerns</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/inflatable-hot-tub-safety/>
+
+---
+
+## At First, Their Home’s Plan Didn’t Fit Into the Forest—So They Wove It Between the Trees
+
+date: 2025-06-30, from: Dwell
+
+The glass-walled residence snakes across the plot to connect with the surrounding woods in unexpected ways. 
+
+<br> 
+
+<https://www.dwell.com/article/s-house-by-plarchitekci-floor-to-ceiling-glass-5d77fbe3>
+
+---
+
+## One of Frank Lloyd Wright’s Original Apprentices Designed This $1M Home North of NYC
+
+date: 2025-06-30, from: Dwell
+
+Edgar Tafel worked on Fallingwater before he devised the 1949 Bookstaber House, which just hit the market for the second time. 
+
+<br> 
+
+<https://www.dwell.com/article/bookstaber-house-edgar-tafel-upstate-new-york-real-estate-feeb9e57>
+
+---
+
+## Hertz’s New AI Inspection Scanner Could MakeCar Rentals More Expensive
+
+date: 2025-06-30, from: Family Handyman Blog
+
+<p>Hertz’s new AI-powered scanner automatically checks rental cars for damage, bills customers instantly, and limits access to human support—changing the rental experience for better or worse.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/hertz-car-rental-ai-scanner/">Hertz&#8217;s New AI Inspection Scanner Could MakeCar Rentals More Expensive</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/hertz-car-rental-ai-scanner/>
+
+---
+
+## The Corporations Quietly Buying Up Altadena
+
+date: 2025-06-30, from: Dwell
+
+I combed through public records to uncover who’s been scooping up burned lots in and around the L.A. community—and it’s not your neighbor. 
+
+<br> 
+
+<https://www.dwell.com/article/corporations-buying-burned-los-angeles-properties-eaton-fire-d8029cb9>
+
+---
+
+## Curtains Open vs. Closed: Which Is Better to Combat Summer Heat?
+
+date: 2025-06-30, from: Family Handyman Blog
+
+<p>Keeping your curtains opened or closed can affect the temperature of your home. Energy efficiency experts and interior designers share helpful insights.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/curtains-open-or-closed-in-winter-summer/">Curtains Open vs. Closed: Which Is Better to Combat Summer Heat?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/curtains-open-or-closed-in-winter-summer/>
+
+---
+
+## Upgrade Your Shower With These 8 Gorgeous Tile Design Ideas
+
+date: 2025-06-30, from: Family Handyman Blog
+
+<p>Turn your shower into a stunning statement with these elegant shower tile ideas.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/shower-tile-design-ideas/">Upgrade Your Shower With These 8 Gorgeous Tile Design Ideas</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/shower-tile-design-ideas/>
+
+---
+
+## How to Grow and Care for Sweet Almond Bush
+
+date: 2025-06-30, from: The Gardener's Path
+
+<p>Sweet almond bush is suited to cultivation in Zones 8 to 11 and prefers full sun and fertile, well-draining soil. The terminal ends of the slender arching branches display spiky clusters of fragrant white blossoms from summer to fall. Learn how to grow these ornamental shrubs in your outdoor living space in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/grow-sweet-almond-bush/">How to Grow and Care for Sweet Almond Bush</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/grow-sweet-almond-bush/>
+
+---
+
+## 7 Species of Thrushes in Connecticut (Pictures and Identification)
+
+date: 2025-06-30, from: Yard Life blog
+
+<p>Thrushes in Connecticut are a diverse and captivating group of birds, admired for their spotted plumage and beautiful, flute-like songs. ... </p>
+<p class="read-more-container"><a title="7 Species of Thrushes in Connecticut (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/7-species-of-thrushes-in-connecticut-pictures-and-identification/#more-31477" aria-label="Read more about 7 Species of Thrushes in Connecticut (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/7-species-of-thrushes-in-connecticut-pictures-and-identification/">7 Species of Thrushes in Connecticut (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/7-species-of-thrushes-in-connecticut-pictures-and-identification/>
+
+---
+
+## If You See a Bag of Dirt Tied to a Tree Branch, Here’s What It Means
+
+date: 2025-06-30, from: Family Handyman Blog
+
+<p>Wondering what is marcotting? Learn how this propagation technique can help you produce more of your favourite plants in our expert-approved guide.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/what-is-marcotting/">If You See a Bag of Dirt Tied to a Tree Branch, Here&#8217;s What It Means</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/what-is-marcotting/>
+
+---
+
+## 7 Black and White Birds in Virginia (Pictures and Identification)
+
+date: 2025-06-30, from: Yard Life blog
+
+<p>Virginia is home to a fascinating variety of bird species, and among them, the striking Black and White Birds in ... </p>
+<p class="read-more-container"><a title="7 Black and White Birds in Virginia (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/7-black-and-white-birds-in-virginia-pictures-and-identification/#more-31469" aria-label="Read more about 7 Black and White Birds in Virginia (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/7-black-and-white-birds-in-virginia-pictures-and-identification/">7 Black and White Birds in Virginia (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/7-black-and-white-birds-in-virginia-pictures-and-identification/>
+
+---
+
+## 10 Things New Homeowners Should Never Buy New
+
+date: 2025-06-30, from: Family Handyman Blog
+
+<p>No need to shell out retail prices when you can get equally stylish and functional items secondhand, for any interior aesthetic.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/home-items-to-buy-used/">10 Things New Homeowners Should Never Buy New</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/home-items-to-buy-used/>
+
+---
+
+## 30 Backyard Birds in Arkansas (With Pictures and Identification)
+
+date: 2025-06-30, from: Yard Life blog
+
+<p>If you enjoy watching birds or want to attract more feathered friends, learning about common backyard birds in Arkansas is ... </p>
+<p class="read-more-container"><a title="30 Backyard Birds in Arkansas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/30-backyard-birds-in-arkansas-with-pictures-and-identification/#more-31461" aria-label="Read more about 30 Backyard Birds in Arkansas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/30-backyard-birds-in-arkansas-with-pictures-and-identification/">30 Backyard Birds in Arkansas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/30-backyard-birds-in-arkansas-with-pictures-and-identification/>
 
 ---
 

@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-06-30 06:08:02
+updated: 2025-06-30 14:07:53
 ---
 
 # science and technology
 
-(date: 2025-06-30 06:08:02)
+(date: 2025-06-30 14:07:53)
+
+---
+
+## AIs have a favorite number, and it's not 42
+
+date: 2025-06-30, updated: 2025-06-30, from: The Register (UK I.T. News)
+
+<h4>Ask a model to guess a number from 1 to 50 and it&#39;s likely to answer 27</h4> <p>Asked to guess a number between 1 and 50, OpenAI&#39;s ChatGPT, Anthropic&#39;s Claude Sonnet 4, Google&#39;s Gemini 2.5 Flash, and Meta&#39;s Llama 4 all provided the same answer: 27.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/30/ai_models_favorite_number_27/>
+
+---
+
+## NASA Awards Electrical Utility Services Contract for Kennedy
+
+date: 2025-06-30, from: NASA breaking news
+
+NASA has awarded a task order to Florida Power and Light of Juno Beach, Florida, to provide electric distribution utility service at the agency’s Kennedy Space Center in Florida. This is a fixed-price task order with an estimated value of $70 million over five years. The contract consists of a two-year base period beginning July [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-electrical-utility-services-contract-for-kennedy/>
+
+---
+
+## Google to buy power from fusion energy startup Commonwealth - if they can ever make it work
+
+date: 2025-06-30, updated: 2025-06-30, from: The Register (UK I.T. News)
+
+<h4>Someday, my prince will come</h4> <p>Google has agreed to purchase 200 megawatts of fusion energy from Commonwealth Fusion Systems (CFS). That&#39;s assuming, of course, the Massachusetts-based startup can actually get the miniaturized sun to make more power than it consumes, something even the Chocolate Factory admits is a bit of a &#34;moonshot.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/30/google_fusion_commonwealth/>
+
+---
+
+## NASA to Provide Coverage of Progress 92 Launch, Space Station Docking
+
+date: 2025-06-30, from: NASA breaking news
+
+NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft delivering approximately three tons of food, fuel, and supplies to the Expedition 73 crew aboard the International Space Station. The unpiloted Roscosmos Progress 92 spacecraft is scheduled to launch at 3:32 p.m. EDT, Thursday, July 3 (12:32 a.m. Baikonur time, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-92-launch-space-station-docking/>
+
+---
+
+## British IT worker sentenced to seven months after trashing company network
+
+date: 2025-06-30, updated: 2025-06-30, from: The Register (UK I.T. News)
+
+<h4>Don&#39;t leave the door open to disgruntled workers</h4> <p>A judge has sentenced a disgruntled IT worker to more than seven months in prison after he wreaked havoc on his employer&#39;s network following his suspension, according to West Yorkshire Police.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/30/british_rogue_admin/>
+
+---
+
+## Norwegian lotto mistakenly told thousands they were filthy rich after math error
+
+date: 2025-06-30, updated: 2025-06-30, from: The Register (UK I.T. News)
+
+<h4>Oh, you have to <em>divide</em> by 100?</h4> <p>Thousands of Norwegians mistakenly thought they&#39;d won life-changing sums in last week&#39;s Eurojackpot after a manual coding slip at state-owned operator Norsk Tipping.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/30/norwegian_lotto_error/>
+
+---
+
+## Scattered Spider crime spree takes flight as focus turns to aviation sector
+
+date: 2025-06-30, updated: 2025-06-30, from: The Register (UK I.T. News)
+
+<h4>Time ticking for defenders as social engineering pros weave wider web</h4> <p>Just a few weeks after warning about Scattered Spider&#39;s tactics shifting toward the insurance industry, the same experts now say the aviation industry is now on the ransomware crew&#39;s radar.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/30/scattered_spider_aviation/>
+
+---
+
+## NASA+ is Coming to Netflix This Summer
+
+date: 2025-06-30, from: NASA breaking news
+
+NASA announced Monday its latest plans to team up with a streaming service to bring space a little closer to home. Starting this summer, NASA+ live programming will be available on Netflix. Audiences now will have another option to stream rocket launches, astronaut spacewalks, mission coverage, and breathtaking live views of Earth from the International [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-is-coming-to-netflix-this-summer/>
+
+---
+
+## Northrop Grumman shows SpaceX doesn't have a monopoly on explosions
+
+date: 2025-06-30, updated: 2025-06-30, from: The Register (UK I.T. News)
+
+<h4>NASA&#39;s future Artemis booster sputters during test</h4> <p><strong>video</strong>  Old Space has shown itself to be just as adept at explosive malfunctions as New Space, with Northrop Grumman encountering an anomaly during a static fire test of an updated solid rocket booster design.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/30/northrop_grumman_test_anomaly/>
+
+---
+
+## Mitch Kapor finally completes MIT master's degree after 45-year detour
+
+date: 2025-06-30, updated: 2025-06-30, from: The Register (UK I.T. News)
+
+<h4>During which he coded Lotus 1-2-3 and co-founded Mozilla and the EFF</h4> <p>The man behind Lotus 1-2-3 and the Electronic Frontier Foundation (EFF) has wrapped up a master&#39;s degree at MIT Sloan, decades after dropping out to help kickstart the PC software boom.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/30/mitch_kapor_mba/>
+
+---
+
+## Hubble Captures an Active Galactic Center
+
+date: 2025-06-30, from: NASA breaking news
+
+The light that the NASA/ESA&#160;Hubble Space Telescope&#160;collected to create this image&#160;reached the telescope after a journey of 250 million years. Its source was the spiral galaxy UGC 11397, which resides in the constellation Lyra&#160;(The Lyre). At first glance, UGC 11397 appears to be an average spiral galaxy: it sports two graceful spiral arms that are [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/hubble-captures-an-active-galactic-center/>
+
+---
+
+## VMware must support crucial Dutch govt agency as it migrates off the platform, judge rules
+
+date: 2025-06-30, updated: 2025-06-30, from: The Register (UK I.T. News)
+
+<h4>Court says State arm cannot be left without maintenance, patches and upgrades because of Broadcom&#39;s new licensing model</h4> <p>Broadcom&#39;s VMware subsidiary must provide a Dutch government organization with continued software support for at least two years while it manages a migration to an alternative platform, according to a court ruling, or else face fines up to €25 million ($29 million).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/30/dutch_agency_wins_right_to/>
+
+---
+
+## Researchers Uncover Hidden Ingredients Behind AI Creativity
+
+date: 2025-06-30, from: Quanta Magazine
+
+Image generators are designed to mimic their training data, so where does their apparent creativity come from? A recent study suggests that it’s an inevitable by-product of their architecture.            <p>The post <a href="https://www.quantamagazine.org/researchers-uncover-hidden-ingredients-behind-ai-creativity-20250630/" target="_blank">Researchers Uncover Hidden Ingredients Behind AI Creativity</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/researchers-uncover-hidden-ingredients-behind-ai-creativity-20250630/>
+
+---
+
+## Sinaloa drug cartel hired a cybersnoop to identify and kill FBI informants
+
+date: 2025-06-30, updated: 2025-06-30, from: The Register (UK I.T. News)
+
+<h4>Device compromises and deep-seated access to critical infrastructure exposed surveillance vulnerabilities in agency&#39;s work</h4> <p>A major Mexican drug cartel insider grassed on his fellow drug-peddlers back in 2018, telling the FBI that a cartel &#34;hacker&#34; was tracking a federal official and using their deep-rooted access to the country&#39;s critical infrastructure to kill informants.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/30/sinaloa_drug_cartel_hired_cybersnoop/>
 
 ---
 

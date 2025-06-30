@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-06-30 06:08:08
+updated: 2025-06-30 14:07:59
 ---
 
 # retro computing
 
-(date: 2025-06-30 06:08:08)
+(date: 2025-06-30 14:07:59)
+
+---
+
+## Linux Kernel 6.17 Drops bcachefs
+
+date: 2025-06-30, from: Linux Magazine
+
+<p>After a clash over some late fixes and disagreements between bcachefs's lead developer and Linus Torvalds, bachefs is out.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Linux-Kernel-6.17-Drops-bcachefs>
 
 ---
 

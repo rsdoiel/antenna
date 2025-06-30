@@ -1,11 +1,47 @@
 ---
 title: motorcycles
-updated: 2025-06-30 06:08:07
+updated: 2025-06-30 14:07:58
 ---
 
 # motorcycles
 
-(date: 2025-06-30 06:08:07)
+(date: 2025-06-30 14:07:58)
+
+---
+
+## Prock, Ashley, Reed & Hall Scoop Up Wins at Summit Racing Equipment NHRA Nationals
+
+date: 2025-06-30, from: Kickin the Tires blog
+
+NORWALK, Ohio (June 29, 2025) – Funny Car points leader Austin Prock won back-to-back races for the second time this year for John Force Racing, taking down Matt Hagan in&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nhra/prock-ashley-reed-hall-scoop-up-wins-at-summit-racing-equipment-nhra-nationals/>
+
+---
+
+## There's a Bunch of New Burly Ass Off-Road Accessories for the Harley Pan America
+
+date: 2025-06-30, from: Ride Apart, Electric Motorcycle News
+
+And everything was torture tested in Baja, Mexico. 
+
+<br> 
+
+<https://www.rideapart.com/news/764004/harley-davidson-pan-america-off-road-accessories/>
+
+---
+
+## The Messiest Drama Queen in MotoGP is Getting Special Treatment At Aprilia...Again
+
+date: 2025-06-30, from: Ride Apart, Electric Motorcycle News
+
+Honestly, I would've cut him already.  
+
+<br> 
+
+<https://www.rideapart.com/news/764124/jorge-martin-special-motogp-test-aprilia-contract/>
 
 ---
 
