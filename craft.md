@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-07-01 06:08:59
+updated: 2025-07-01 14:07:52
 ---
 
 # craft
 
-(date: 2025-07-01 06:08:59)
+(date: 2025-07-01 14:07:52)
+
+---
+
+## 2 New Products: A Video & Something for Your Wounds
+
+date: 2025-07-01, from: Lost Arg Press blog
+
+We’ve launched two new products today for those of you who like hatchets – and sometimes need to clean up the blood they leave behind&#8230;. — Christopher Schwarz 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/07/01/2-new-products-a-video-something-for-your-wounds/>
 
 ---
 

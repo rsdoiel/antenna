@@ -1,11 +1,327 @@
 ---
 title: snapshots
-updated: 2025-07-01 06:09:01
+updated: 2025-07-01 14:07:53
 ---
 
 # snapshots
 
-(date: 2025-07-01 06:09:01)
+(date: 2025-07-01 14:07:53)
+
+---
+
+## GPD MicroPC 2 is portable computer with a 7 inch display, Intel N250 processor and a thumb keyboard
+
+date: 2025-07-01, from: Liliputing
+
+<p>Six years after releasing the original GPD MicroPC as a palm-sized computer aimed at IT professionals, GPD is bringing back the form factor with a new model sporting a bigger screen, faster processor, and more storage. After unveiling the new GPD MicroPC 2 in June, GPD has now posted a preview for an upcoming Indiegogo crowdfunding [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/gpd-micropc-2-is-portable-computer-with-a-7-inch-display-intel-n250-processor-and-a-thumb-keyboard/">GPD MicroPC 2 is portable computer with a 7 inch display, Intel N250 processor and a thumb keyboard</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/gpd-micropc-2-is-portable-computer-with-a-7-inch-display-intel-n250-processor-and-a-thumb-keyboard/>
+
+---
+
+## Nothing Phone (3) combines flagship specs with unique design (including a Glyph Matrix display)
+
+date: 2025-07-01, from: Liliputing
+
+<p>It&#8217;s hard to make a smartphone that stands out these days, but since introducing its first smartphone in 2022, Nothing has found ways to make its Android phones distinctive with features like LED light &#8220;glyphs&#8221; and modular accessories. But the new Nothing Phone (3) is the first model that the company feels comfortable calling a [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/nothing-phone-3-combines-flagship-specs-with-unique-design-including-a-glyph-matrix-display/">Nothing Phone (3) combines flagship specs with unique design (including a Glyph Matrix display)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/nothing-phone-3-combines-flagship-specs-with-unique-design-including-a-glyph-matrix-display/>
+
+---
+
+## PlanetScale's classy retirement
+
+date: 2025-07-01, updated: 2025-07-01, from: Simon Willison’s Weblog
+
+<p>Sometimes a service with a free plan will decide to stop supporting it. I understand why this happens, but I'm often disappointed at the treatment of existing user's data. It's easy to imagine users forgetting about their old accounts, missing the relevant emails and then discovering too late that their data is gone.</p>
+<p>Inspired by today's news <a href="https://simonwillison.net/2025/Jul/1/planetscale-for-postgres/">about PlanetScale PostgreSQL</a> I signed into PlanetScale and found I had a long-forgotten trial account there with a three-year-old database on their free tier. That free tier was retired <a href="https://planetscale.com/blog/planetscale-forever">in March 2024</a>.</p>
+<p>Here's the screen that greeted me in their control panel:</p>
+<p><img alt="Database is sleeping PlanetScale has retired the free plan. Please upgrade your plan or you may wake this database for 24 hours to retrieve your data. Two buttons: Wake for 24 hours and Delete database" src="https://static.simonwillison.net/static/2025/planetscale-retire.jpg" /></p>
+<p>What a great way to handle retiring a free plan! My data is still there, and I have the option to spin up a database for 24 hours to help get it back out again.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/saas">saas</a>, <a href="https://simonwillison.net/tags/databases">databases</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/1/classy-retirement/#atom-everything>
+
+---
+
+## A custom template system from the mid-2000s era
+
+date: 2025-07-01, updated: 2025-07-01, from: Simon Willison’s Weblog
+
+<p>Using LLMs for <strong>code archaeology</strong> is pretty fun.</p>
+<p>I stumbled across <a href="https://simonwillison.net/2003/Jul/17/phpAndColdFusion/">this blog entry from 2003</a> today, in which I had gotten briefly excited about ColdFusion and implemented an experimental PHP template engine that used XML tags to achieve a similar effect:</p>
+<pre>&lt;<span class="pl-ent">h1</span>&gt;%title%&lt;/<span class="pl-ent">h1</span>&gt;
+&lt;<span class="pl-ent">sql</span> <span class="pl-e">id</span>=<span class="pl-s"><span class="pl-pds">"</span>recent<span class="pl-pds">"</span></span>&gt;
+select title
+from entries 
+order by added desc
+limit 0, %limit%
+&lt;/<span class="pl-ent">sql</span>&gt;
+&lt;<span class="pl-ent">ul</span>&gt;
+  &lt;<span class="pl-ent">output</span> <span class="pl-e">sql</span>=<span class="pl-s"><span class="pl-pds">"</span>recent<span class="pl-pds">"</span></span>&gt;
+    &lt;<span class="pl-ent">li</span>&gt;%title%&lt;/<span class="pl-ent">li</span>&gt;
+  &lt;/<span class="pl-ent">output</span>&gt;
+&lt;/<span class="pl-ent">ul</span>&gt;</pre>
+
+<p>I'd completely forgotten about this, and in scanning through the PHP it looked like it had extra features that I hadn't described in the post.</p>
+<p>So... I fed my 22 year old <code>TemplateParser.class.php</code> file into Claude and prompted:</p>
+<blockquote>
+<p><code>Write detailed markdown documentation for this template language</code></p>
+</blockquote>
+<p>Here's <a href="https://static.simonwillison.net/static/2003/template-docs.html">the resulting documentation</a>. It's pretty good, but the highlight was the <a href="https://claude.ai/share/1627f1f3-4b07-4eb3-af24-5ac2da96b712">Claude transcript</a> which concluded:</p>
+<blockquote>
+<p>This appears to be a custom template system from the mid-2000s era, designed to separate presentation logic from PHP code while maintaining database connectivity for dynamic content generation.</p>
+</blockquote>
+<p>Mid-2000s era indeed!</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/coldfusion">coldfusion</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/php">php</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/projects">projects</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/1/mid-2000s/#atom-everything>
+
+---
+
+## Join me Wednesday at 1pET for a live video chat with zeitgeist-making millennial Audrey Gelman, who founded The Wing and now has a new hotel venture
+
+date: 2025-07-01, from: Tina Brown
+
+We&#8217;ll talk about what she's learned about feminist politics, the rewards and pitfalls of being a young female entrepreneur, her views on the women&#8217;s movement, and her spin on retro hospitality 
+
+<br> 
+
+<https://tinabrown.substack.com/p/join-me-wednesday-at-1pet-for-a-live>
+
+---
+
+## Book: Decisive
+
+date: 2025-07-01, from: Accidentally in Code
+
+The overall thesis of Decisive by Chip and Dan Heath is that you make better decisions when you use a process called “WRAP”. It’s a really interesting book, I got a lot out of reading it. Some stuff that’s like, oh that does work, and some stuff that gave me a new perspective and caused [&#8230;] 
+
+<br> 
+
+<https://cate.blog/2025/07/01/book-decisive/>
+
+---
+
+## Brazil Recommends Sanctions for Apple Over App Store and NFC Rules
+
+date: 2025-07-01, from: Michael Tsai
+
+Hartley Charlton: The recommendation was issued by the General Superintendence of Brazil&#8217;s Administrative Council for Economic Defense (SG/CADE), the technical body of the federal antitrust authority. In a public statement translated from Portuguese, SG/CADE determined that Apple&#8217;s conduct with iOS constitutes a violation of Brazilian competition law and urged CADE&#8217;s internal tribunal to impose penalties, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/01/brazil-recommends-sanctions-for-apple-over-app-store-and-nfc-rules/>
+
+---
+
+## Tim Robertson, RIP
+
+date: 2025-07-01, from: Michael Tsai
+
+Peter Cohen: Confirmed with the family this morning that @mymac founder Tim Robertson passed away after a recent illness.Tim was not just a mainstay of Apple blogging, podcasting and smart analysis for decades, but one of the very nicest people I&#8217;ve ever met. Like ATPM, My Mac began in 1995 and was originally published in [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/01/tim-robertson-rip/>
+
+---
+
+## Grammarly Acquires Superhuman
+
+date: 2025-07-01, from: Michael Tsai
+
+Krystal Hu (via Hacker News): Grammarly has signed a deal to acquire email efficiency tool Superhuman as part of the company&#8217;s push to build an artificial intelligence-powered productivity suite and diversify its business, its executives told Reuters in an interview.The San Francisco-based companies declined to disclose the financial terms of the deal. Superhuman, once an [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/01/grammarly-acquires-superhuman/>
+
+---
+
+## iPadOS Windows Mess Up Data Saving
+
+date: 2025-07-01, from: Michael Tsai
+
+Craig Hockenberry (Mastodon): From the very beginning, iOS has had a notion of an app being in the foreground or background. When you saw an app on screen it was active and when it was gone it was inactive. [&#8230;] It was simple system that let you do what you needed to do, when you [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/01/ipados-windows-mess-up-data-saving/>
+
+---
+
+## Announcing PlanetScale for Postgres
+
+date: 2025-07-01, updated: 2025-07-01, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://planetscale.com/blog/planetscale-for-postgres#vitess-for-postgres">Announcing PlanetScale for Postgres</a></strong></p>
+PlanetScale formed in 2018 to build a commercial offering on top of the Vitess MySQL sharding open source project, which was originally released by YouTube in 2012. The PlanetScale founders were the co-creators and maintainers of Vitess.</p>
+<p>Today PlanetScale are announcing a private preview of their new horizontally sharded PostgreSQL solution, due to "overwhelming" demand.</p>
+<p>Notably, it doesn't use Vitess under the hood:</p>
+<blockquote>
+<p>Vitess is one of PlanetScale’s greatest strengths [...] We have made explicit sharding accessible to hundreds of thousands of users and it is time to bring this power to Postgres. We will not however be using Vitess to do this.</p>
+<p>Vitess’ achievements are enabled by leveraging MySQL’s strengths and engineering around its weaknesses. To achieve Vitess’ power for Postgres we are architecting from first principles.</p>
+</blockquote>
+<p>Meanwhile, on June 10th Supabase announced that they had <a href="https://supabase.com/blog/multigres-vitess-for-postgres">hired Vitess co-creator  Sugu Sougoumarane</a> to help them build "Multigres: Vitess for Postgres". Sugu said:</p>
+<blockquote>
+<p>For some time, I've been considering a Vitess adaptation for Postgres, and this feeling had been gradually intensifying. The recent explosion in the popularity of Postgres has fueled this into a full-blown obsession. [...]</p>
+<p>The project to address this problem must begin now, and I'm convinced that Vitess provides the most promising foundation.</p>
+</blockquote>
+<p>I remember when MySQL was an order of magnitude more popular than PostgreSQL, and Heroku's decision to only offer PostgreSQL back in 2007 was a surprising move. The vibes have certainly shifted.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/databases">databases</a>, <a href="https://simonwillison.net/tags/mysql">mysql</a>, <a href="https://simonwillison.net/tags/postgresql">postgresql</a>, <a href="https://simonwillison.net/tags/scaling">scaling</a>, <a href="https://simonwillison.net/tags/sharding">sharding</a>, <a href="https://simonwillison.net/tags/vitess">vitess</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/1/planetscale-for-postgres/#atom-everything>
+
+---
+
+## Daily Deals (7-01-2025)
+
+date: 2025-07-01, from: Liliputing
+
+<p>Amazon Prime Day keeps getting bigger &#8211; Amazon&#8217;s next big sale is coming up from July 8th through July 11th, which means it actually takes place over four days. But that hasn&#8217;t stopped Amazon from launching some deals early. At the moment you can pick up an Amazon Fire HD 10 for half price or [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/daily-deals-7-01-2025/">Daily Deals (7-01-2025)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/daily-deals-7-01-2025/>
+
+---
+
+## Lost Freedom Declaration Still Mourns
+
+date: 2025-07-01, from: Guy Kawasaki blog
+
+Maurizio Valsania, Professor of American History, Universit&#224; di Torino. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/lost-freedom-declaration-still-mourns>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-01, from: Robert's feed at BlueSky)
+
+I've written up how to create a static content web server intended to run on localhost. The post covers how to use Deno to create an executable program so you can add the static web server to your web toolbox
+
+See https://rsdoiel.github.io/blog/2025/06/30/Build_a_Static_Web_Server.html 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lsw7bhymac2s>
+
+---
+
+## State AI regulations safe after Senate strips moratorium from ‘big, beautiful bill’
+
+date: 2025-07-01, from: The Markup blog
+
+In the end, both Republicans and Democrats helped doom a 10-year moratorium on state AI regulation after it cleared the House 
+
+<br> 
+
+<https://themarkup.org/artificial-intelligence/2025/07/01/state-ai-regulations-safe-after-senate-strips-moratorium-from-big-beautiful-bill>
+
+---
+
+## Quoting mrmincent
+
+date: 2025-07-01, updated: 2025-07-01, from: Simon Willison’s Weblog
+
+<blockquote cite="https://news.ycombinator.com/item?id=44429225#44431095"><p>To misuse a woodworking metaphor, I think we’re experiencing a shift from hand tools to power tools.</p>
+<p>You still need someone who understands the basics to get the good results out of the tools, but they’re not chiseling fine furniture by hand anymore, they’re throwing heaps of wood through the tablesaw instead. More productive, but more likely to lose a finger if you’re not careful.</p></blockquote>
+<p class="cite">&mdash; <a href="https://news.ycombinator.com/item?id=44429225#44431095">mrmincent</a>, Hacker News comment on Claude Code</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/hacker-news">hacker-news</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/1/mrmincent/#atom-everything>
+
+---
+
+## Eric LaRue: heridas que no cierran
+
+date: 2025-07-01, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Michael Shannon. Guion: Brett Neveu. Elenco: Judy Greer, Alexander Skarsgård, Alison Pill, Tracy Letts, Paul Sparks, Annie Parisse, Kate Arrington, Jennifer Engstrom, Nation Sage Henrikson. País: Estados Unidos. Más información de la película: https://www.imdb.com/title/tt21221514/ ¿Cómo debería sentirse y actuar públicamente una madre cuyo hijo ha cometido un acto atroz con consecuencias terribles sobre el [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-eric-larue/">Eric LaRue: heridas que no cierran</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-eric-larue/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-eric-larue>
+
+---
+
+## Olimex RP2350pc single-board PC combines a RP2350B chip with plenty of I/O
+
+date: 2025-07-01, from: Liliputing
+
+<p>Raspberry Pi&#8217;s RP2350 microcontroller debuted last year as a tiny, low-power chip for inexpensive devices. Compared with the previous-gen RP2040 microcontroller, the RP2350 brings faster MCU cores, twice as much memory, support for more I/O and two RISC-V CPU cores &#8211; it&#8217;s even possible to run a minimal Linux distro on hardware featuring the RP2350 processor. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/olimex-rp2350pc-single-board-pc-combines-a-rp2350b-chip-with-plenty-of-i-o/">Olimex RP2350pc single-board PC combines a RP2350B chip with plenty of I/O</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/olimex-rp2350pc-single-board-pc-combines-a-rp2350b-chip-with-plenty-of-i-o/>
+
+---
+
+## MINISFORUM N5 Pro now available for pre-order (Feature-packed NAS with AMD Ryzen inside)
+
+date: 2025-07-01, from: Liliputing
+
+<p>The MINISFORUM N5 and N5 Pro are network-attached storage (NAS) devices with the kind of specs that that read like a power user&#8217;s wish list. There&#8217;s support for up to eight storage devices (5 hard drives and three NVMe SSDs), a PCIe x16 slot, 10 Gigabit and 5 Gigabit LAN ports, and an OCuLink connector. After [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/minisforum-n5-pro-now-available-for-pre-order-feature-packed-nas-with-amd-ryzen-inside/">MINISFORUM N5 Pro now available for pre-order (Feature-packed NAS with AMD Ryzen inside)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/minisforum-n5-pro-now-available-for-pre-order-feature-packed-nas-with-amd-ryzen-inside/>
+
+---
+
+## NIH Public Access Policy: Implementation and Feedback
+
+date: 2025-07-01, from: Authors Union blogs
+
+The NIH Public Access Policy is in effect as of July 1, 2025. In response, Authors Alliance and SPARC have created a form to collect information about challenges or questions faced by authors, librarians and their institutions in complying with the roll out of new public access policies by federal grant making agencies in compliance with the OSTP directive to make federally funded research freely available to the public immediately upon publication.  
+
+<br> 
+
+<https://www.authorsalliance.org/2025/07/01/nih-public-access-policy-implementation-and-feedback/>
+
+---
+
+## Mamdani on Billionaires
+
+date: 2025-07-01, updated: 2025-07-01, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/07/01/mamdani-on-billionaires/>
 
 ---
 
@@ -210,12 +526,12 @@ Zhenyi Tan (via Kyle Howells): A few months ago, I posted this image on Mastodon
 
 ---
 
-## Ploopy Knob is a $49 customizable dial for your computer that runs open source firmware (open hardware)
+## Ploopy Knob is a $37 customizable dial for your computer that runs open source firmware (open hardware)
 
 date: 2025-06-30, from: Liliputing
 
 <p>The Ploopy Knob is a USB accessory that gives your computer a dial with support for high-resolution scrolling. Out of the box it&#8217;s designed to act as a vertical scroll wheel, but it runs open source, customizable firmware. So you can program its QMK firmware for horizontal scrolling, media controls (like volume adjustments or scrubbing forward [&#8230;]</p>
-<p>The post <a href="https://liliputing.com/ploopy-knob-is-a-49-customizable-dial-for-your-computer-that-runs-open-source-firmware-open-hardware/">Ploopy Knob is a $49 customizable dial for your computer that runs open source firmware (open hardware)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+<p>The post <a href="https://liliputing.com/ploopy-knob-is-a-49-customizable-dial-for-your-computer-that-runs-open-source-firmware-open-hardware/">Ploopy Knob is a $37 customizable dial for your computer that runs open source firmware (open hardware)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 
 <br> 
@@ -425,7 +741,7 @@ A primer on geothermal energy, and why it provides just 0.3% of the world's elec
 
 date: 2025-06-30, from: Robert's Ramblings
 
-This chapter demonstrates how to build a static web server using Deno.
+This post discusses static web server implementation using Deno.
  
 
 <br> 

@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-07-01 06:08:55
+updated: 2025-07-01 14:07:48
 ---
 
 # libraries
 
-(date: 2025-07-01 06:08:55)
+(date: 2025-07-01 14:07:48)
 
 ---
 
@@ -18,6 +18,34 @@ Weinold, Michael
 <br> 
 
 <http://hdl.handle.net/20.500.11850/742383>
+
+---
+
+## Day in Review (July 1–2)
+
+date: 2025-07-01, from: Association of Research Libraries News
+
+<p>Last Updated on July 1, 2025, 3:18 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 2 &#124; Wednesday, July 3 Tuesday, July...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-1-2/">Day in Review (July 1–2)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-july-1-2/>
+
+---
+
+## June 2025
+
+date: 2025-07-01, from: Association of Research Libraries News
+
+<p>Last Updated on July 1, 2025, 11:24 am ET Subscribe to the email version of the Public Policy Briefing. ARL Public Policy Briefing (June 2025) This issue includes: Canadian Government Canadian...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/june-2025/">June 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/june-2025/>
 
 ---
 
@@ -164,6 +192,18 @@ Wang X.; Geiser L.; Wüest R.; Weikert S.; Kucera L.
 <br> 
 
 <http://hdl.handle.net/20.500.11850/741681>
+
+---
+
+## FEAR-1.2024 Earthquake Catalogue Versions 0 and 1 Release
+
+date: 2025-07-01, from: ETH Zurich, recently added
+
+Massin, Frédérick; Scarabello, Luca; Clinton, John Francis; Meier, Men-Andrin; Gischig, Valentin; the FEAR1 team 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/743181>
 
 ---
 

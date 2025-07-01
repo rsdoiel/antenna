@@ -1,11 +1,75 @@
 ---
 title: home
-updated: 2025-07-01 06:08:56
+updated: 2025-07-01 14:07:49
 ---
 
 # home
 
-(date: 2025-07-01 06:08:56)
+(date: 2025-07-01 14:07:49)
+
+---
+
+## Before & After: They Updated a 1980 Catskills Cabin—by Making It Look Like the 1880s
+
+date: 2025-07-01, from: Dwell
+
+"We take houses built in the ’70s, ’80s, or ’90s, and we make them look like the 1870s or 1880s or 1890s," explains Jack Alessio Pretto of Retroject Projects. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-sallys-alley-catskills-cabin-renovation-retroject-projects-d5b14691>
+
+---
+
+## Want to Live Like a Hobbit? This $775K SoCal Home Is Straight Out of Middle Earth
+
+date: 2025-07-01, from: Dwell
+
+Designed James Hubbell, the curvaceous gunite home is packed with whimsical details, and it was hand built by a single family over the course of four years. 
+
+<br> 
+
+<https://www.dwell.com/article/davidson-residence-james-hubbell-curvaceous-gunite-home-san-diego-real-estate-04936517>
+
+---
+
+## The Kids Moved Out, So They Turned Their Bedrooms Into a Greenroom
+
+date: 2025-07-01, from: Dwell
+
+An empty nester couple reimagined the upstairs spaces with a glass roof and rammed earth wall to grow a winter garden. 
+
+<br> 
+
+<https://www.dwell.com/article/omloop-farmhouse-he-architectuur-aging-in-place-greenhouse-renovation-cb9fc55c>
+
+---
+
+## Learn How to Grow Goldmoss Sedum (Mossy Stonecrop)
+
+date: 2025-07-01, from: The Gardener's Path
+
+<p>Goldmoss sedum (Sedum acre) is a hardy, mat-forming succulent with bright yellow, star-shaped flowers and evergreen, light green foliage. It thrives in full sun and poor, well-draining soil in Zones 3 to 9, making it ideal for rock gardens or as a ground cover. Learn how to grow goldmoss sedum in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/grow-goldmoss-sedum/">Learn How to Grow Goldmoss Sedum (Mossy Stonecrop)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/grow-goldmoss-sedum/>
+
+---
+
+## When and How to Prune Sedum (Stonecrop)
+
+date: 2025-07-01, from: The Gardener's Path
+
+<p>Sedum is easy to grow and doesn’t need much maintenance, but occasional pruning can improve its form, reduce flopping, and control spreading growth. Different types benefit from different approaches, whether you’re working with creeping ground covers or upright varieties. Learn when and how to prune sedum in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/prune-sedum/">When and How to Prune Sedum (Stonecrop)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/prune-sedum/>
 
 ---
 
@@ -21,6 +85,30 @@ date: 2025-07-01, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/7-common-woodpeckers-in-maryland-pictures-and-identification/>
+
+---
+
+## Food and Drink
+
+date: 2025-07-01, from: Sunset Magazine - Living in the West
+
+Delicious recipes, food and wine pairings, and more ways to savor the West. 
+
+<br> 
+
+<https://www.sunset.com/food-wine>
+
+---
+
+## Homepage 2025
+
+date: 2025-07-01, from: Sunset Magazine - Living in the West
+
+Decorating &amp; Design, Home Tours A Tiny Bathroom Felt Like a Dingy Cave—Now It&#8217;s a Colorful, Whimsical Jewel Box Huge design risks paid off here.  Read more: A Tiny Bathroom Felt&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 

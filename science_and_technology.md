@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-07-01 06:08:51
+updated: 2025-07-01 14:07:45
 ---
 
 # science and technology
 
-(date: 2025-07-01 06:08:51)
+(date: 2025-07-01 14:07:45)
+
+---
+
+## Donkey Kong Country 2 and open bus
+
+date: 2025-07-01, from: OS News
+
+Apparently, Donkey Kong Country 2 has runs into a bug in the old SNES emulator ZSNES, where one of the barrels that you&#8217;re supposed to be able to precisely control the spinning direction of ends up spinning forever. This bug is caused by ZSNES not emulating open bus behavior. I believe this was originally discovered by Anomie roughly two decades ago, who subsequently fixed the same bug in Snes9x. This original fix hardcoded the specific addresses to return the values that the game depends on rather than properly emulating open bus, but it fixed DKC2 and probably didn’t break anything else. The bug was never fixed in ZSNES, which is now a long abandoned project (last release in 2007). Purely out of curiosity, I wanted to dig into this a little more to figure out what exactly in the game code causes these barrels to spin forever in an emulator that doesn’t emulate open bus behavior. ↫ jsgroth Just in case you&#8217;ve always wanted to know. 
+
+<br> 
+
+<https://www.osnews.com/story/142673/donkey-kong-country-2-and-open-bus/>
+
+---
+
+## Cloudflare creates AI crawler tollbooth to pay publishers
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>The bargain between content makers and crawlers has broken down</h4> <p><strong>ai-pocalypse</strong>  Cloudflare has started blocking AI web crawlers by default in a bid to become the internet&#39;s gatekeeper.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/cloudflare_creates_ai_crawler_toll/>
+
+---
+
+## NASA Missions Help Explain, Predict Severity of Solar Storms
+
+date: 2025-07-01, from: NASA breaking news
+
+An unexpectedly strong solar storm rocked our planet on April 23, 2023, sparking auroras as far south as southern Texas in the U.S. and taking the world by surprise.  Two days earlier, the Sun blasted a coronal mass ejection (CME) — a cloud of energetic particles, magnetic fields, and solar material — toward Earth. Space scientists […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/nasa-missions-help-explain-predict-severity-of-solar-storms/>
+
+---
+
+## Pódcast en español de la NASA estrena su tercera temporada
+
+date: 2025-07-01, from: NASA breaking news
+
+Read this release in English here. La NASA estrenó el martes el primer episodio de la tercera temporada de Universo curioso de la NASA, el único pódcast en español de la agencia. Los episodios se centran en algunas de las principales misiones y temas de investigación de la NASA para 2025, llevando la maravilla de [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/es/podcast-en-espanol-de-la-nasa-estrena-su-tercera-temporada/>
+
+---
+
+## NASA’s Spanish-language Podcast Debuts Third Season
+
+date: 2025-07-01, from: NASA breaking news
+
+Lee esta nota en español aquí. NASA released the first episode Tuesday of its third season of Universo curioso de la NASA, the agency’s only Spanish-language podcast. Episodes focus on some of NASA’s top missions and research topics for 2025, bringing the wonder of exploration, space technology, and scientific discoveries to Spanish-speaking audiences around the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/audio/podcasts/nasas-spanish-language-podcast-debuts-third-season/>
+
+---
+
+## Microsoft admits to Intune forgetfulness
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>Customizations not saved with security baseline policy update</h4> <p>Microsoft Intune administrators may face a few days of stress after Redmond acknowledged a problem with security baseline customizations.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/microsoft_intune_forgetfulness/>
+
+---
+
+## Senate decides free rein for AI companies isn't such a good thing
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>Trump&#39;s budget bill moves back to the House with some mods</h4> <p>It took a tie-breaking vote from the Vice President JD Vance to pass Trump&#39;s budget reconciliation bill through the Senate on Tuesday, but a controversial section that would have barred states from regulating AI was struck down in a much clearer fashion. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/senate_passes_trumps_big_beastly/>
+
+---
+
+## Chip design is a RISC-y business: Codasip puts itself up for sale
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>R&amp;D teams are &#39;separable&#39; says biz, which is open to offers for parts or the whole</h4> <p>European RISC-V biz Codasip has put itself up for sale, citing an expression of interest during a recent funding round, and is now openly touting for buyers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/codasip_sale/>
+
+---
+
+## Apple accuses former engineer of taking Vision Pro secrets to Snap
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>He didn&#39;t cover his tracks very well, the iGiant claims in a court filing</h4> <p>An ex-Apple employee who allegedly thought he was clever enough to sneak out the back door to a job at Snap loaded up with Cupertino&#39;s secrets has instead found himself on the receiving end of a lawsuit. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/apple_accuses_exengineer_of_stealing/>
+
+---
+
+## NASA Assigns Astronaut Anil Menon to First Space Station Mission
+
+date: 2025-07-01, from: NASA breaking news
+
+NASA astronaut Anil Menon will embark on his first mission to the International Space Station, serving as a flight engineer and Expedition 75 crew member. Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft in June 2026, accompanied by Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina. After launching from the Baikonur Cosmodrome in Kazakhstan, the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-assigns-astronaut-anil-menon-to-first-space-station-mission/>
+
+---
+
+## International Criminal Court swats away 'sophisticated and targeted' cyberattack
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>Body stays coy on details but alludes to similarities with 2023 espionage campaign</h4> <p>The International Criminal Court (ICC) says a &#34;sophisticated&#34; cyberattack targeted the institution, the second such incident in two years.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/international_criminal_court_cyberattack/>
+
+---
+
+## Fedora 43 won't drop 32-bit app support – or adopt Xlibre
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>Community vetoes plans to axe i686 compatibility and switch X11 forks</h4> <p>The Fedora community has quickly dropped a couple of recent proposed changes – one highly controversial, the other rather less so.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/fedora_43_i686_32bit/>
+
+---
+
+## NASA, SpaceX Invite Media to Watch Crew-11 Launch to Space Station
+
+date: 2025-07-01, from: NASA breaking news
+
+Media accreditation is open for the launch of NASA’s 11th rotational mission of a SpaceX Falcon 9 rocket and Dragon spacecraft carrying astronauts to the International Space Station for a science expedition. NASA’s SpaceX Crew-11 mission is targeted to launch in the late July/early August timeframe from Launch Complex 39A at the agency’s Kennedy Space [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-11-launch-to-space-station/>
+
+---
+
+## NASA Hosts ISRO Officials at Johnson, Kennedy
+
+date: 2025-07-01, from: NASA breaking news
+
+NASA astronaut Raja Chari and Dr. V. Narayanan, chairman of ISRO (Indian Space Research Organisation), interact outside the Orion spacecraft mockup at NASA’s Johnson Space Center in Houston. Narayanan and Indian officials visited NASA Johnson and NASA’s Kennedy Space Center in Florida, ahead of the Axiom Mission 4 launch to the International Space Station. As [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-hosts-isro-officials-at-johnson-kennedy/>
+
+---
+
+## NASA gives Lunar Trailblazer a few more weeks to pick up the phone
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>Stricken probe giving US space agency the silent treatment</h4> <p>NASA has extended recovery efforts for its stricken Lunar Trailblazer spacecraft to mid-July, but is warning that if the probe remains silent, the mission could end.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/nasa_lunar_trailblazer_lost/>
+
+---
+
+## EU rattles its purse and AI datacenter builders come running
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>176 expressions of interest to erect &#39;gigafactories&#39; across 16 member states, with 3 million GPUs needed</h4> <p>It&#39;s pork barrel time in Europe for Nvidia (and possibly AMD) as corporations bid for a slice of the €20 billion ($23.6 billion) fund to build proposed AI Gigafactories to advance the EU&#39;s AI credentials.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/eu_shakes_its_purse_and/>
+
+---
+
+## A New Alloy is Enabling Ultra-Stable Structures Needed for Exoplanet Discovery
+
+date: 2025-07-01, from: NASA breaking news
+
+A unique new material that shrinks when it is heated and expands when it is cooled could help enable the ultra-stable space telescopes that future NASA missions require to search for habitable worlds. One of the goals of NASA’s Astrophysics Division is to determine whether we are alone in the universe. NASA’s astrophysics missions seek […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-alloy-is-enabling-ultra-stable-structures-needed-for-exoplanet-discovery/>
+
+---
+
+## Microsoft Copilot joins ChatGPT at the feet of the mighty Atari 2600 Video Chess
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>Copilot&#39;s confidence was... misplaced</h4> <p>Not content with humiliating ChatGPT at the hands of Video Chess on an Atari 2600 emulator, Robert Caruso has tried again, this time with Microsoft&#39;s Copilot.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/microsoft_copilot_joins_chatgpt_at/>
 
 ---
 
@@ -395,7 +611,7 @@ date: 2025-06-30, updated: 2025-06-30, from: The Register (UK I.T. News)
 
 ## Your browser has ad tech's fingerprints all over it, but there's a clean-up squad in town
 
-date: 2025-06-30, updated: 2025-06-30, from: The Register (UK I.T. News)
+date: 2025-06-30, updated: 2025-07-01, from: The Register (UK I.T. News)
 
 <h4>Like being hard to spot? They’d much rather you didn’t</h4> <p><strong>Opinion</strong>  There are few tech deceptions more successful than Chrome&#39;s Incognito Mode.…</p> 
 

@@ -1,11 +1,159 @@
 ---
 title: pacific
-updated: 2025-07-01 06:08:50
+updated: 2025-07-01 14:07:44
 ---
 
 # pacific
 
-(date: 2025-07-01 06:08:50)
+(date: 2025-07-01 14:07:44)
+
+---
+
+## Taitague: Shut the door on sweetheart land deals
+
+date: 2025-07-01, from: Pacific Island Times
+
+By Pacific Island Times News Staff Sen. Telo T. Taitague, author of Bill 119-38, doubled down on her efforts to restore legislative... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/taitague-shut-the-door-on-sweetheart-land-deals>
+
+---
+
+## Record 2.5 tonnes of cocaine seized off New Caledonia on Panama-flagged vessel bound for Australia
+
+date: 2025-07-01, from: 
+
+The drugs were found in the Panama-flagged vessel named <i>SM Dante</i>, which had left Peru in May and was headed to Australia. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565695/record-2-point-5-tonnes-of-cocaine-seized-off-new-caledonia-on-panama-flagged-vessel-bound-for-australia>
+
+---
+
+## From map maker to author: UH alumnus publishes first children’s book
+
+date: 2025-07-01, from: University of Hawaiʻi News
+
+<p>The Blue Jay Comes Home released in April 2025.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/01/uh-alumnus-publishes-first-book/">From map maker to author: <abbr>UH</abbr> alumnus publishes first children’s book</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/01/uh-alumnus-publishes-first-book/>
+
+---
+
+## OHA withdraws Maunakea lawsuits, citing ‘pivotal shift’ in stewardship
+
+date: 2025-07-01, from: University of Hawaiʻi News
+
+<p>The two lawsuits were withdrawn by the <abbr>OHA</abbr> Board of Trustees on June 26.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/01/oha-withdraws-maunakea-lawsuits/"><abbr>OHA</abbr> withdraws Maunakea lawsuits, citing ‘pivotal shift’ in stewardship</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/01/oha-withdraws-maunakea-lawsuits/>
+
+---
+
+## Message from new UH Mānoa Interim Provost Vassilis L. Syrmos
+
+date: 2025-07-01, from: University of Hawaiʻi News
+
+<p>&#8220;I am committed to fostering an environment where excellence is nurtured, opportunities are expanded, innovation is encouraged, and our students are empowered to thrive.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/01/message-from-interim-provost-syrmos/">Message from new <abbr>UH</abbr> Mānoa Interim Provost Vassilis L. Syrmos</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/01/message-from-interim-provost-syrmos/>
+
+---
+
+## July 2025 anniversaries
+
+date: 2025-07-01, from: University of Hawaiʻi News
+
+<p>The University of <span aria-label="Hawaii">Hawai&#699;i</span> celebrates July 2025 faculty and staff anniversaries.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/01/july-2025-anniversaries/">July 2025 anniversaries</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/01/july-2025-anniversaries/>
+
+---
+
+## 2024 tax refund disbursements update
+
+date: 2025-07-01, updated: 2025-07-01, from: Marianas Variety
+
+(DOF) — The Department of Finance has officially disbursed an additional 15,245 tax refund checks for the 2024 tax year, totaling $23.10 million. This means a significant number of taxpayers have already received their refund and the process is still ongoing. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/2024-tax-refund-disbursements-update/article_23659efa-22c7-42fb-af69-53f02adea6e8.html>
+
+---
+
+## CUC charts path to sustainability with long-term financial plan and rate strategy
+
+date: 2025-07-01, updated: 2025-07-01, from: Marianas Variety
+
+(CUC) — In its ongoing efforts to provide safe, reliable, and sustainable utility services to the people of the CNMI, the Commonwealth Utilities Corporation, along with its consultant, Economists.com, presented its 2025 Cost of Service Rate Study and Long-Term Financial Plan to its Board of Directors during a recent meeting. The study outlines the corporation's ﬁnancial realities and the strategic options available to ensure the long-term stability of electric, water, and wastewater services. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cuc-charts-path-to-sustainability-with-long-term-financial-plan-and-rate-strategy/article_935eb672-28f8-4a80-ab91-5af57ca32790.html>
+
+---
+
+## More NMC nursing grads pass NCLEX-RN
+
+date: 2025-07-01, updated: 2025-07-01, from: Marianas Variety
+
+(NMC) — Northern Marianas College nursing graduates Leana Cristobal and Stephanie Lumbad have joined the ranks of many NMC students by successfully passing the National Council Licensure Examination for Registered Nurses. Both are members of NMC’s Class of 2024. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/more-nmc-nursing-grads-pass-nclex-rn/article_4a5957e6-6e45-48a4-a301-d53db3553ff5.html>
+
+---
+
+## Red flags at 2 Saipan sites
+
+date: 2025-07-01, updated: 2025-07-01, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan’s west coast recreational beaches and storm drainages every week. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/red-flags-at-2-saipan-sites/article_8cef970a-a005-46d6-b046-27de9ba4776a.html>
+
+---
+
+## Tiny Tuvalu seeks assurance from US its citizens won't be barred
+
+date: 2025-07-01, updated: 2025-07-01, from: Marianas Variety
+
+SYDNEY (Reuters) — Tuvalu, a tiny Pacific nation that scientists predict will be submerged by rising seas, said it is seeking written assurance from the United States that its citizens will not be barred from entry after being apparently mistakenly included in a list of 36 countries facing visa bans. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/tiny-tuvalu-seeks-assurance-from-us-its-citizens-wont-be-barred/article_3e555595-0475-4e5a-907d-b386e5fc5716.html>
+
+---
+
+## Trump lawyer says no immediate deportations under birthright citizenship order, as judges to decide on challenges
+
+date: 2025-07-01, updated: 2025-07-01, from: Marianas Variety
+
+(Reuters) — President Donald Trump's administration will not deport children deemed ineligible for U.S. citizenship until his executive order curtailing birthright citizenship takes effect on July 27, a government lawyer said on Monday after being pressed by two federal judges. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-lawyer-says-no-immediate-deportations-under-birthright-citizenship-order-as-judges-to-decide-on/article_b76a3db5-626c-4baa-9c85-253ecdef1a34.html>
 
 ---
 
@@ -202,6 +350,20 @@ date: 2025-07-01, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/07/01/hawaii-news/kona-teen-seriously-hurt-in-sunday-morning-crash/>
+
+---
+
+## Police investigating possible drowning in Keaukaha
+
+date: 2025-07-01, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating the possible drowning Monday afternoon of a 51-year-old male visitor in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/01/hawaii-news/police-investigating-possible-drowning-in-keaukaha/>
 
 ---
 

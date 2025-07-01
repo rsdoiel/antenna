@@ -1,11 +1,47 @@
 ---
 title: journalism
-updated: 2025-07-01 06:08:54
+updated: 2025-07-01 14:07:48
 ---
 
 # journalism
 
-(date: 2025-07-01 06:08:54)
+(date: 2025-07-01 14:07:48)
+
+---
+
+## The Job Market for Newly Graduated Financial Analysts
+
+date: 2025-07-01, from: The Sundail (CSUN Student Newspaper)
+
+The job market for financial analysts has remained robust during the post-COVID era. The strong profitability of financial institutions, which benefit from higher interest rates and a multi-year stock market... 
+
+<br> 
+
+<https://sundial.csun.edu/194713/sundialbrandstudio/sundial-marketplace/the-job-market-for-newly-graduated-financial-analysts/>
+
+---
+
+## What Skills Matter Most for First-Time Teachers in 2025
+
+date: 2025-07-01, from: The Sundail (CSUN Student Newspaper)
+
+(Image created by Microsoft Copilot) Starting your first teaching job in 2025 brings a whole new set of expectations and opportunities. As classrooms grow more diverse and digital tools continue... 
+
+<br> 
+
+<https://sundial.csun.edu/194725/sundialbrandstudio/sundial-marketplace/what-skills-matter-most-for-first-time-teachers-in-2025/>
+
+---
+
+## How Campus Leaders Can Tackle Cybersecurity in 2025
+
+date: 2025-07-01, from: The Sundail (CSUN Student Newspaper)
+
+Image by StockSnap from Pixabay Technology has evolved, and with it, attackers and ill-intended actors have become more sophisticated. Nowadays, thugs don’t have to break into spaces to steal money... 
+
+<br> 
+
+<https://sundial.csun.edu/194720/sundialbrandstudio/sundial-marketplace/194720/>
 
 ---
 

@@ -1,11 +1,121 @@
 ---
 title: north america
-updated: 2025-07-01 06:08:49
+updated: 2025-07-01 14:07:42
 ---
 
 # north america
 
-(date: 2025-07-01 06:08:49)
+(date: 2025-07-01 14:07:42)
+
+---
+
+## Marco Rubio has abandoned his fight for freedoms
+
+date: 2025-07-01, from: The Contrarian
+
+Once a stalwart defender of freedom everywhere, he has turned into another Trump sycophant. 
+
+<br> 
+
+<https://contrarian.substack.com/p/marco-rubio-has-abandoned-his-fight>
+
+---
+
+## The Democracy Index
+
+date: 2025-07-01, from: The Contrarian
+
+July 1, 2025 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-democracy-index-caa>
+
+---
+
+## You’ve Inherited Millions of Acres. Republicans Are Stealing It From You.
+
+date: 2025-07-01, from: The Contrarian
+
+This land may not be your land for much longer 
+
+<br> 
+
+<https://contrarian.substack.com/p/youve-inherited-millions-of-acres>
+
+---
+
+## Deficit pyrotechnics
+
+date: 2025-07-01, from: The Contrarian
+
+A cartoon by Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/deficit-pyrotechnics>
+
+---
+
+## The Paper Trail Matters
+
+date: 2025-07-01, from: The Contrarian
+
+What happens when government erases its memory 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-paper-trail-matters>
+
+---
+
+##  Immediate Reaction To Cruelest Bill Ever
+
+date: 2025-07-01, from: The Contrarian
+
+A recording from Let's Do Lunch LIVE 06/24 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167277826/07c6538e5762087ec636ca88b72bf904.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167277826/07c6538e5762087ec636ca88b72bf904.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/lets-do-lunch-0701>
+
+---
+
+##  Why Is Trump Rushing To Pass The Tax Cut Bill? 
+
+date: 2025-07-01, from: The Lever News
+
+ Pennsylvania Gov. Josh Shapiro explains what Republicans don’t want you to know about their legislation — and how it “screws over the people who voted for this president.”  
+
+<br> 
+
+<https://www.levernews.com/why-is-trump-rushing-to-pass-the-tax-cut-bill/>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-07-01, from: The Contrarian
+
+Tuesday: Protests at the Capitol against inhumane budget cuts, protests against 'Alligator Alcatraz' in Florida, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## You Thought Medicare Was Safe? Think Again.
+
+date: 2025-07-01, from: The Contrarian
+
+Sequestration threatens more than $530 billion in cuts to the program over nine years. The results will be catastrophic. 
+
+<br> 
+
+<https://contrarian.substack.com/p/you-thought-medicare-was-safe-think>
 
 ---
 
@@ -108,18 +218,6 @@ date: 2025-06-30, from: Capital and Main
 <br> 
 
 <https://capitalandmain.com/trained-volunteers-patrol-l-a-streets-as-ice-raids-intensify>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-06-30, from: The Contrarian
-
-Mnonday: Because Pride is still a protest, Pride rallies in St. Louis, Minneapolis, Nashville, and Hungary, and education protest, a Tesla Takedown, and more 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

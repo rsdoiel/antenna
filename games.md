@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-07-01 06:08:54
+updated: 2025-07-01 14:07:47
 ---
 
 # games
 
-(date: 2025-07-01 06:08:54)
+(date: 2025-07-01 14:07:47)
+
+---
+
+## Where to find Academy Tech Lab locations in Fortnite
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+Finding Fortnite&#8216;s Academy Tech Lab locations is a good idea in general, thanks to the loot you can pick up, but you&#8217;ll also need to enter them several times to complete one of Chapter 6 Season 3 week 4&#8217;s quests. Finding them isn&#8217;t enough, though. Clearing the quest also requires you to increase your hero [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/610309/academy-tech-lab-locations-c6s3-hero-rank>
+
+---
+
+## The newly announced adaptation of Neuromancer faces a real uphill battle
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+William Gibson’s 1984 novel Neuromancer helped establish the cyberpunk genre, fusing detective story tropes with a version of a dark near future packed with cyborgs and hackers navigating cyberspace. There have been numerous attempts at film adaptations of the book, with abandoned projects involving music video director Chris Cunningham, Deadpool’s Tim Miller and Cube director [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/610401/apple-tv-neuromancer-teaser-trailer>
+
+---
+
+## Cat in the Hat’s new animated movie might finally reclaim Dr. Seuss’ character from Mike Myers
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+Our long national Cat in the Hat-related nightmare is nearly over. For decades, the classic Dr. Seuss character from the 1957 picture book of the same name was a quaint, urbane charmer who created chaos and weathered it with equal aplomb. From the direct sequel book to the 1971 animated TV special and its spinoffs [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/610310/cat-in-the-hat-animated-teaser-2026-movie>
+
+---
+
+## Marvel’s Black Panther spin-off Eyes of Wakanda gets a first-look teaser and a new, delayed release date
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+Marvel Animation’s upcoming Black Panther anthology series Eyes of Wakanda, from showrunner and director Todd Harris and executive producer Ryan Coogler, just premiered its first-look teaser trailer, and announced a new release date: August 27. The four-episode animated series explores the life and times of brave Wakandan warriors through the ages. Heroes of Wakanda’s Hatut [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/610327/black-panther-eyes-of-wakanda-teaser-trailer-release-date>
+
+---
+
+## How Tusk Love, the most popular romance novel in Critical Role’s D&#038;D setting, became a real book
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+In the second season of the hit Dungeons &#38; Dragons actual play series Critical Role, Laura Bailey’s character Jester Lavorre visits a bookstore and walks out with a copy of Tusk Love, a popular smutty novel about the romance between half-orc Oskar and human merchant’s daughter Guinevere. The story became a running gag on the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/critical-role/610358/tusk-love-critical-role-interview>
+
+---
+
+## How to get Gimmighoul and Gholdengo with Coin Bags and gold PokéStops in Pokémon Go
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+Pokémon Go introduced Gimmighoul and Gholdengo officially in Feb. 2023, though you’ll need some good luck, or a copy of Pokémon Scarlet and Violet, to get your hands on both. Gimmighoul works similarly to Meltan; you’ll need to connect your Pokémon Go to your Nintendo Switch, exchange some items, and then use the Coin Bag [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/23616714/gimmighoul-coins-coin-bag-gholdengo-golden-lure>
+
+---
+
+## Pokémon Go shiny Jirachi ‘Wish Granted’ Masterwork Research Tasks and rewards
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+In Feb. 2023, a set of Masterwork Research dropped in Pokémon Go, rewarding a shiny Jirachi to those who complete it. “Wish Granted” is a lengthy set of Special Research made to keep you busy for a while, just like the Johto Masterwork Research from the previous year. This research is available yet again as [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/23608501/jirachi-wish-granted-masterwork-research-tasks-steps-rewards>
+
+---
+
+## Pokémon Go ‘9th Anniversary Party’ event guide
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+Pokémon Go’s 9th Anniversary Party is upon us, celebrating the launch of the game from all the way back in 2016 (geez!). The event runs from July 1-6, and focuses on Pokémon in party garb as well as Gimmighoul. This event also has a ton of bonuses associated with it, including an increased chance to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/610230/9th-anniversary-party-timed-research-field-perks-party-hat>
+
+---
+
+## How to get the Surf Cube in Fortnite
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+The Surf Cube is a Hero Item that lets you ride a hoverboard around the map in Fortnite Chapter 6 Season 3 Super. In Chapter 6 Season 3, there seems to be a lack of items that let you speed across the map, but the Surf Cube alleviates some of those pains. However, as the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/610235/surf-cube-c6s3-how-to-get-where-find>
+
+---
+
+## Mario Kart World’s hated change shows Nintendo still doesn’t get online games
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+The Switch 2 isn’t just a new hardware release — it’s a chance to change the narrative about Nintendo as a company. At first, the release of the Switch 2 appeared to be an all-out victory lap for the Japanese publisher, whose first fully online console arguably won the console war of its generation. You [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/609983/mario-kart-world-switch-2-random-track-change-nintendo-online-fans>
 
 ---
 

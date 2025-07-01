@@ -1,11 +1,133 @@
 ---
 title: food
-updated: 2025-07-01 06:08:58
+updated: 2025-07-01 14:07:52
 ---
 
 # food
 
-(date: 2025-07-01 06:08:58)
+(date: 2025-07-01 14:07:52)
+
+---
+
+## Celebrate Princess Diana’s Birthday By Making Her All-Time Favorite Meal
+
+date: 2025-07-01, from: Taste of Home
+
+<p>Her personal chef said this pepper dish was on Diana's menu nearly three times a week. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/princess-diana-favorite-meal/">Celebrate Princess Diana&#8217;s Birthday By Making Her All-Time Favorite Meal</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/princess-diana-favorite-meal/>
+
+---
+
+## How LGBTQ+ Wine Professionals Are Changing Wine Culture
+
+date: 2025-07-01, from: Bon Appetet
+
+“We have to change seeing our job as being all about wine.” 
+
+<br> 
+
+<https://www.bonappetit.com/story/meet-the-queer-wine-pros-rewriting-the-rules-and-the-wine-list>
+
+---
+
+## The Best Rice Cooker, Reviewed by Our Experts (2025)
+
+date: 2025-07-01, from: Bon Appetet
+
+Whether you’re on a budget or want a model that’s practically sentient, there’s a rice cooker for you. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-rice-cookers>
+
+---
+
+## How to Make a Lattice Pie Crust
+
+date: 2025-07-01, from: Taste of Home
+
+Mastering the lattice pie crust will turn you into a pie-making pro. We'll show you how with step-by-step pictures and lattice pie tips. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lattice-pie-crust/>
+
+---
+
+## The Best Gas Grills for Fast, Easy, Hot Outdoor Cooking (2025)
+
+date: 2025-07-01, from: Bon Appetet
+
+These grills are worth lighting up. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-gas-grills>
+
+---
+
+## Experimental Hogg Batch Coffee Shines in St. Pete at the HB Gold Bar
+
+date: 2025-07-01, from: Daily Coffee News
+
+<div><img width="620" height="398" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/HB-Gold-Bar-St-Pete-620x398.jpg" class="attachment-large size-large wp-post-image" alt="HB Gold Bar St Pete" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/HB-Gold-Bar-St-Pete-620x398.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/HB-Gold-Bar-St-Pete-300x193.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/HB-Gold-Bar-St-Pete-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/HB-Gold-Bar-St-Pete-768x493.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/HB-Gold-Bar-St-Pete.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Craft coffee roaster Hogg Batch Coffee is setting a high standard with its first cafe in St. Petersburg, Florida, called the HB Gold Bar. Elevated both stylistically and physically,... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/01/experimental-hogg-batch-coffee-shines-in-st-pete-at-the-hb-gold-bar/>
+
+---
+
+## Federal Court Issues $31 Million Judgement in Green Coffee Dispute
+
+date: 2025-07-01, from: Daily Coffee News
+
+<div><img width="620" height="376" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/green-coffee-sacks-1-620x376.jpg" class="attachment-large size-large wp-post-image" alt="green coffee sacks" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/green-coffee-sacks-1-620x376.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/green-coffee-sacks-1-300x182.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/green-coffee-sacks-1-150x91.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/green-coffee-sacks-1-768x466.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/green-coffee-sacks-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A federal judge in Florida issued a $31 million judgment in favor of green coffee trader Neumann Gruppe USA Inc. after hundreds of containers of green coffee from Nicaragua were... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/01/federal-court-issues-31-million-judgement-in-green-coffee-dispute/>
+
+---
+
+## The Sprudge Guide To Coffee In Margate, United Kingdom
+
+date: 2025-07-01, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Where to drink coffee in Margate, United Kingdom. 
+
+<br> 
+
+<https://sprudge.com/the-sprudge-guide-to-coffee-in-margate-united-kingdom-311575.html>
+
+---
+
+## Seattle Cold Brew Brand Fights Nestlé Trademark Petition
+
+date: 2025-07-01, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Seattle-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Seattle" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Seattle-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Seattle-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Seattle-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Seattle-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Seattle.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The owners of a Seattle-based cold brew brand called Seattle Strong are fighting back in a trademark dispute with Swiss multinational food giant Nestlé, owner of the Seattle&#8217;s Best Coffee... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/01/seattle-cold-brew-brand-fights-nestle-trademark-petition/>
+
+---
+
+## Beef Pot Pie
+
+date: 2025-07-01, from: Taste of Home
+
+Save this beef pot pie recipe for chilly nights. The generously meaty filling will warm you right up. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/steak-pot-pie/>
 
 ---
 
@@ -25,7 +147,7 @@ date: 2025-07-01, from: The Sprudge
 
 date: 2025-07-01, from: Bon Appetet
 
-July’s Feel-Good Food Plan delivers the best produce of the season right to your al fresco dining table. 
+July’s Feel-Good Food Plan delivers the best produce of the season right to your alfresco dining table. 
 
 <br> 
 
@@ -243,7 +365,7 @@ date: 2025-06-30, from: Irish Food Hub
 
 date: 2025-06-30, from: Daily Coffee News
 
-<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Latte-Art-620x415.jpg" class="attachment-large size-large wp-post-image" alt="2025 World Latte Art" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Latte-Art-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Latte-Art-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Latte-Art-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Latte-Art-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Latte-Art.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Four new World Coffee Champions were crowned last week in Geneva, Switzerland, following multiple days of competition under the bright lights of the World of Coffee trade event.&#160; As sanctioned... 
+<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Latte-Art-620x415.jpg" class="attachment-large size-large wp-post-image" alt="2025 World Latte Art" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Latte-Art-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Latte-Art-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Latte-Art-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Latte-Art-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Latte-Art.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Four new World Coffee Champions were crowned last week in Geneva, Switzerland, following multiple days of competition under the bright lights of the World of Coffee trade event.&#160; As sanctioned... 
 
 <br> 
 
@@ -255,7 +377,7 @@ date: 2025-06-30, from: Daily Coffee News
 
 date: 2025-06-30, from: Daily Coffee News
 
-<div><img width="620" height="406" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-620x406.jpg" class="attachment-large size-large wp-post-image" alt="Mahlkönig X64 SD &#8211; Mood 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-620x406.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-300x196.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-150x98.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-768x503.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; German commercial coffee grinder maker Mahlkönig recently unveiled its second machine designed for home use, the Mahlkönig X64 SD. Quietly introduced at recent Mahlkönig branded events and then launched... 
+<div><img width="620" height="406" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-620x406.jpg" class="attachment-large size-large wp-post-image" alt="Mahlkönig X64 SD &#8211; Mood 2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-620x406.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-300x196.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-150x98.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-768x503.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; German commercial coffee grinder maker Mahlkönig recently unveiled its second machine designed for home use, the Mahlkönig X64 SD. Quietly introduced at recent Mahlkönig branded events and then launched... 
 
 <br> 
 

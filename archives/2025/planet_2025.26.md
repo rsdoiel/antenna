@@ -1,11 +1,241 @@
 ---
 title: planet
-updated: 2025-07-01 06:08:47
+updated: 2025-07-01 14:07:41
 ---
 
 # planet
 
-(date: 2025-07-01 06:08:47)
+(date: 2025-07-01 14:07:41)
+
+---
+
+## Fees issue calls into question cohesiveness of Govt
+
+date: 2025-07-01, from: RTÉ News
+
+ 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0701/1521348-fees-analysis/>
+
+---
+
+## Former swimming coach George Gibney arrested in US
+
+date: 2025-07-01, from: RTÉ News
+
+Former Irish national swimming coach George Gibney has been arrested in the United States. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0701/1521345-george-gibney/>
+
+---
+
+## Brennan brings curtain down on Louth tenure
+
+date: 2025-07-01, from: RTÉ News
+
+Ger Brennan has left his role as manager of the Louth senior footballers after two seasons in charge. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0701/1521328-brennan-brings-curtain-down-on-louth-tenure/>
+
+---
+
+## Bill seeks to disregard historic offences for gay men
+
+date: 2025-07-01, from: RTÉ News
+
+A bill has been introduced in the Dáil that would establish a process for the disregard of historic offences for consensual sexual activity between men. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0701/1521331-historic-offences-gay-men/>
+
+---
+
+## Inquest into baby's death after birth in Co Laois reopens
+
+date: 2025-07-01, from: RTÉ News
+
+An inquest into the death of a baby boy who suffered a lack of oxygen to the brain when delivered at the Midland Regional Hospital in Portlaoise nine years ago has reopened at Dublin District Coroner's Court after fresh evidence emerged around the circumstances of his birth. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0701/1521329-baby-aaron-cullen-inquest/>
+
+---
+
+## US Senate approves Trump's 'big beautiful bill'
+
+date: 2025-07-01, from: RTÉ News
+
+The Republican-controlled US Senate has passed President Donald Trump's tax and spending bill, signing off on a massive package that will enshrine many of his top priorities into law while adding $3.3trillion to the national debt. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0701/1521321-senate-tax-spending-bill/>
+
+---
+
+## Woman denies suggestion she imagined rape, court told
+
+date: 2025-07-01, from: RTÉ News
+
+A woman has denied a suggestion from counsel for her uncle that she has imagined being raped by him as a child. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0701/1521322-court-sexual-assault/>
+
+---
+
+## Renaming of An Bord Pleanála cost €77,000
+
+date: 2025-07-01, from: RTÉ News
+
+The renaming of An Bord Pleanála to An Coimisiún Pleanála has cost the State planning watchdog just under €77,000 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0701/1521317-an-bord-pleanala-renaming/>
+
+---
+
+## Man in 60s dies in work-related incident in Kilkenny city
+
+date: 2025-07-01, from: RTÉ News
+
+A man in his 60s has died in a work-related incident in Kilkenny city. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0701/1521316-kilkenny-death/>
+
+---
+
+## Pope Francis’ ‘Teacher of Mercy’, Cardinal Dri, dies aged 98
+
+date: 2025-07-01, from: Vatican News
+
+
+                    <p>Cardinal Luis Pascual Dri, the Capuchin friar known for his tireless ministry in the confessional and his role as a spiritual model for Pope Francis, died on June 30 in Buenos Aires at the age of 98. His funeral will be held on Wednesday, July 2, at the Shrine of Our Lady of Pompeii, where he had lived in retirement since 2007.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/cardinal-dri-death-buenos-aires-pope-francis-teacher-mercy.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/cardinal-dri-death-buenos-aires-pope-francis-teacher-mercy.html>
+
+---
+
+## As Musk melts down over budget bill, Trump threatens his government contracts
+
+date: 2025-07-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7489161.1742502906!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-workers-cuts.JPG' alt='Elon Musk listens to U.S. President Donald Trump speak in the Oval Office of the White House in Washington, D.C., U.S., February 11, 2025.   ' width='620' height='349' title='FILE PHOTO: Elon Musk listens to U.S. President Donald Trump speak in the Oval Office of the White House in Washington, D.C., U.S., February 11, 2025.   '/><p>U.S. President Donald Trump and tech titan Elon Musk are feuding again, as Trump's "big, beautiful bill" — a budget reconciliation bill that is projected to add trillions to the country's federal deficit — passes a vote in the Senate.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-musk-subsidies-contracts-1.7574786?cmp=rss>
+
+---
+
+## Non-profit run by 23andMe co-founder gets court approval to buy the genetic testing company
+
+date: 2025-07-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7492910.1742924653!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/23andme.jpg' alt='A sign outside a building that says 23andMe' width='620' height='349' title='A sign is posted in front of the 23andMe headquarters on February 01, 2024 in Sunnyvale, Calif. '/><p>Anne Wojcicki's nonprofit TTAM Research Institute will purchase "substantially all" of San Francisco-based 23andMe's assets. The sale comes amid a lawsuit filed by a number of U.S. states that sought to block 23andMe from selling genetic data without customers' consent.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/business/23andme-court-approval-1.7574842?cmp=rss>
+
+---
+
+## Over 14 million could die from US aid cuts - study
+
+date: 2025-07-01, from: RTÉ News
+
+More than 14 million of the world's most vulnerable people, a third of them small children, could die by 2030 because of the Trump administration's dismantling of US foreign aid, according to a new study. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0701/1521298-us-aid-cuts-study/>
+
+---
+
+## Woman asks to meet attacker to ask how he was 'so cruel'
+
+date: 2025-07-01, from: RTÉ News
+
+A Spanish tourist who was raped in Dublin city centre during New Year's Eve celebrations has said she wants to meet her attacker in a safe space and ask him how he could have been so cruel. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0701/1521297-central-criminal-court/>
+
+---
+
+## McCabe loses in straight sets on Wimbledon debut
+
+date: 2025-07-01, from: RTÉ News
+
+An Australian tennis player, whose father is Irish, has lost on his debut at Wimbledon. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0701/1521286-wimbledon-mcabe/>
+
+---
+
+## A woman dies and her child goes missing in yet another migrant boat tragedy
+
+date: 2025-07-01, from: Vatican News
+
+
+                    <p>A shipwreck off Lampedusa claims a mother’s life while her young son remains missing, calling attention to a dire need for safer migration and significant shielding for families and their children 
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/migration-lampedusa-tragedy-boat-sinking-mediterranean.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/migration-lampedusa-tragedy-boat-sinking-mediterranean.html>
+
+---
+
+## U.S. Senate passes Trump's 'Big Beautiful Bill,' sends to House for final approval
+
+date: 2025-07-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7574813.1751389401!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-congress-tax.JPG' alt='People pass by the National Debt Clock.' width='620' height='349' title='People pass by the National Debt Clock in New York City, U.S., July 1, 2025.  REUTERS/Brendan McDermid'/><p>The Republican-controlled U.S. Senate passed President Donald Trump's tax and spending bill on Tuesday, signing off on a massive package that would enshrine many of his top priorities into law while adding $3.3 trillion to the national debt.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/senate-republican-trump-tax-spending-bill-1.7574808?cmp=rss>
+
+---
+
+## Bishops’ conferences and councils appeal for ecological conversion
+
+date: 2025-07-01, from: Vatican News
+
+
+                    <p>The bishops’ conferences and councils from Asia, Africa and Latin America (SECAM, CELAM and FABC) and the Pontifical Commission for Latin America publish a document calling for climate justice and ecological conversion in light of the UN climate change conference, COP30, which will take place in November in Brazil. </p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/bishops-conferences-ecological-conversion-press-office-vatican.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/bishops-conferences-ecological-conversion-press-office-vatican.html>
 
 ---
 
@@ -21,11 +251,11 @@ An Oireachtas committee has heard that the Triple Lock dilutes Ireland's soverei
 
 ---
 
-## Opposition parties to hold rally over student fees hike
+## Bacik: Student's budget plans in 'disarray' over fee hike
 
 date: 2025-07-01, from: RTÉ News
 
-Opposition parties are planning a major protest against any increase to student fees outside the Dáil next Tuesday. 
+The Minister for Further Education's remarks about student fees have thrown the budgetary plans for those aiming to go to university "into disarray", Labour leader Ivana Bacik has said. 
 
 <br> 
 
@@ -42,6 +272,114 @@ It is more likely than not that there will be a united left-wing candidate runni
 <br> 
 
 <https://www.rte.ie/news/politics/2025/0701/1521276-presidential-election/>
+
+---
+
+## Gaza: Families deprived of the means for survival, humanitarians warn
+
+date: 2025-07-01, from: United Nations, Top Stories
+
+The United Nations on Tuesday reported that humanitarian operations in Gaza are facing escalating strain, as ongoing fuel shortages, access restrictions and military activity continue to undermine aid delivery and essential services.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165181>
+
+---
+
+## Sudan: UN warns of soaring displacement and looming floods
+
+date: 2025-07-01, from: United Nations, Top Stories
+
+UN humanitarians on Tuesday sounded the alarm over worsening humanitarian conditions in Sudan, as escalating violence continues to displace civilians and the rising risk of severe flooding during the current rainy season.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165176>
+
+---
+
+## Iran crisis: UN stays and delivers
+
+date: 2025-07-01, from: United Nations, Top Stories
+
+A clearer picture of needs across Iran is beginning to emerge after the conflict this month with Israel, which left hundreds dead, several hospitals hit and a spike in Afghan refugees returning home, the UN’s top official in Tehran said on Tuesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165166>
+
+---
+
+## Children’s lives ‘turned upside down’ by wars across Middle East, North Africa, warns UNICEF
+
+date: 2025-07-01, from: United Nations, Top Stories
+
+Conflicts in the Middle East and North Africa in the last two years reportedly killed, maimed, or displaced over 12 million children across the region, according to the UN Children’s Fund (UNICEF). 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165171>
+
+---
+
+## ‘The margins of the budget’: Gender equality in developing countries underfunded by $420 billion annually
+
+date: 2025-07-01, from: United Nations, Economic Development
+
+Developing countries currently face a staggering $420 billion annual gap in the funding needed to achieve gender equality, UN Women estimates. This gap means that programmes and services for women and girls are chronically underfunded.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165161>
+
+---
+
+## 50 years of CITES: Shielding wildlife from trade-driven extinction
+
+date: 2025-07-01, from: United Nations, Climate Change
+
+The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) marks 50 years since it entered into force on Tuesday, celebrating five decades of protecting endangered wildlife from overexploitation through international trade.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165151>
+
+---
+
+## Spain and Brazil push global action to tax the super-rich and curb inequality
+
+date: 2025-07-01, from: United Nations, Economic Development
+
+Spain and Brazil have launched a joint initiative to promote a higher tax take from the super-rich worldwide, aiming to tackle soaring inequality by ensuring those with the most, pay their fair share. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165146>
+
+---
+
+## Northern hemisphere heatwave underscores value of early-warning alerts
+
+date: 2025-07-01, from: United Nations, Climate Change
+
+The blistering early-summer heatwave that’s brought life-threatening temperatures across much of the northern hemisphere is a worrying sign of things to come, UN weather experts said on Tuesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165141>
+
+---
+
+## Jury deliberating in Sean (Diddy) Combs sex trafficking trial asks to review ex-girlfriend's testimony
+
+date: 2025-07-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7574883.1751396717!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/people-sean-combs.JPG' alt='a sketch drawing in which two men lean in over a table to talk to eachother. In the background, other people in suits discuss with one another in small groups.' width='620' height='349' title='Sean &quot;Diddy&quot; Combs and his attorney Marc Agnifilo discuss with other defense lawyers on how to respond to a new note sent by jurors, during Combs&apos; sex trafficking trial in New York City, New York, U.S., July 1, 2025 in this courtroom sketch.'/><p>On the second day of deliberations in New York City, the jury in the sex trafficking trial for Sean (Diddy) Combs asked Tuesday to review critical testimony from one of the prosecution's most important witnesses: the hip-hop mogul's former longtime girlfriend, Cassie.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/diddy-trial-deliberations-day-2-1.7574787?cmp=rss>
 
 ---
 
@@ -69,6 +407,18 @@ A human leg discovered on a beach in Scotland last month is understood to relate
 
 ---
 
+## People in Gaza 'starve or risk being shot': NGOs urge end to aid work backed by U.S., Israel as deaths rise
+
+date: 2025-07-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7574767.1751381116!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg' alt='Palestinians carry humanitarian aid packages near the Gaza Humanitarian Foundation distribution center.' width='620' height='349' title='Palestinians carry humanitarian aid packages near the Gaza Humanitarian Foundation distribution center operated by the U.S.-backed organization in Khan Younis, southern Gaza Strip, Thursday, June 26, 2025. (AP Photo/Abdel Kareem Hana)'/><p>More than 170 non-governmental organizations have issued a joint call for the dismantling of a food distribution system run by the Gaza Humanitarian Foundation, a U.S.- and Israeli-backed group, as civilian deaths and injuries mount near aid sites in Gaza. In response, GHF is calling for other aid groups to collaborate with them.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/charities-ghf-gaza-aid-distribution-1.7574757?cmp=rss>
+
+---
+
 ## Man, 92, jailed for rape and murder of UK woman in 1967
 
 date: 2025-07-01, from: RTÉ News
@@ -81,11 +431,11 @@ A 92-year-old man has been told he will die in prison after he was jailed at Bri
 
 ---
 
-## Two arrests after almost €35m drugs seized in Co Cork
+## Four arrested after drugs worth €31m seized in Co Cork
 
 date: 2025-07-01, from: RTÉ News
 
-Two men have been arrested in connection with the seizure of drugs worth up to €35 million in Co Cork. 
+Four men have been arrested in connection with the seizure of drugs worth over €31 million in Co Cork. 
 
 <br> 
 
@@ -105,15 +455,27 @@ British police said they had arrested three members of the senior leadership tea
 
 ---
 
-## McGregor appeal proceeding on previous grounds
+## McGregor withdraws application in rape appeal
 
 date: 2025-07-01, from: RTÉ News
 
-Former MMA fighter Conor McGregor has withdrawn his application to bring in fresh evidence in support of his appeal against the finding of a High Court jury in a civil trial that he raped Nikita Hand. 
+Former MMA fighter Conor McGregor has withdrawn his application to introduce new evidence in his appeal against the finding of a High Court jury in a civil trial that he raped Nikita Hand. 
 
 <br> 
 
 <https://www.rte.ie/news/courts/2025/0701/1521229-conor-mcgregor-court/>
+
+---
+
+## Orcas might be trying to learn 'who we are' when they share prey with humans, study suggests
+
+date: 2025-07-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7235343.1751377260!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/orca-whale-pod.JPG' alt='A bird&apos;s eye view on the pod of four orca whales, with two breaching, surrounded by blue-green ocean water' width='620' height='349' title='Researchers have confirmed that orca whales only take gulp of air in between dives.'/><p>The rare and awe-inspiring gestures were documented off the coasts of B.C., California, New Zealand and Norway. Researchers say their new study is the first documentation of these kinds of gestures by the whales.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/orcas-sharing-prey-1.7574759?cmp=rss>
 
 ---
 
@@ -129,6 +491,18 @@ Conor McGregor has withdrawn his application to bring in fresh evidence in suppo
 
 ---
 
+## As it happened: McGregor rape appeal concludes for day
+
+date: 2025-07-01, from: RTÉ News
+
+Conor McGregor has withdrawn his application to bring in fresh evidence in support of his appeal against the finding of a High Court jury in a civil trial that he raped Nikita Hand. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0701/1521204-court-mcgregor/>
+
+---
+
 ## Planning for Slane bypass in Co Meath gets green light
 
 date: 2025-07-01, from: RTÉ News
@@ -141,6 +515,18 @@ A planning application for the Slane bypass in Co Meath has been approved by An 
 
 ---
 
+## Planning for Slane bypass in Co Meath gets green light
+
+date: 2025-07-01, from: RTÉ News
+
+A planning application for the Slane bypass in Co Meath has been approved by An Coimisiún Pleanála. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0701/1521220-slane-bypass/>
+
+---
+
 ## Man accused of killing 2 Idaho firefighters had once aspired to be one
 
 date: 2025-07-01, from: CBC, World News
@@ -150,6 +536,18 @@ date: 2025-07-01, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/idaho-firefighter-shooting-suspect-1.7574739?cmp=rss>
+
+---
+
+## Man charged with murder of pregnant woman in Co Down
+
+date: 2025-07-01, from: RTÉ News
+
+A 28-year-old man has been charged with murder and child destruction following the death of a pregnant woman in Co Down on Saturday. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0701/1521212-sarah-montgomery-investigation/>
 
 ---
 
@@ -201,11 +599,11 @@ date: 2025-07-01, from: CBC, World News
 
 ---
 
-## Trump to visit 'Alligator Alcatraz' detention centre
+## Trump visits 'Alligator Alcatraz' detention centre
 
 date: 2025-07-01, from: RTÉ News
 
-US President Donald Trump joked about escaped migrants getting eaten by Florida wildlife as he headed to the official opening of a detention centre dubbed "Alligator Alcatraz." 
+US President Donald Trump has visited a new migrant detention centre dubbed "Alligator Alcatraz" in Florida, joking that any escapees would be taught to run away from the reptiles to avoid being eaten. 
 
 <br> 
 
@@ -213,11 +611,11 @@ US President Donald Trump joked about escaped migrants getting eaten by Florida 
 
 ---
 
-## France shuts schools as heatwave grips Europe
+## Italy limits outdoor work as heatwave grips Europe
 
 date: 2025-07-01, from: RTÉ News
 
-More than 1,000 schools were closed in France and the top floor of the Eiffel Tower was shut to tourists as a severe heatwave continued to grip Europe, triggering health alerts across the region. 
+Italy has banned outdoor work in some regions during the warmest hours, France shut schools and part of the Eiffel Tower and Spain confirmed its hottest June on record as a severe heatwave grips Europe, triggering widespread health alerts. 
 
 <br> 
 
@@ -318,6 +716,18 @@ Gaza's civil defence agency has said that Israeli forces killed at least 51 peop
 <br> 
 
 <https://www.rte.ie/news/middle-east/2025/0701/1521178-gaza-israel/>
+
+---
+
+## Israeli attacks on Gaza ramp up before Netanyahu US visit
+
+date: 2025-07-01, from: RTÉ News
+
+Residents in Gaza have reported fierce Israeli gunfire and shelling as Israel's military said that it had expanded its operations, days before a planned trip to Washington by Prime Minister Benjamin Netanyahu. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0701/1521178-israel-gaza/>
 
 ---
 
@@ -457,7 +867,7 @@ date: 2025-06-30, from: CBC, World News
 
 date: 2025-06-30, from: RTÉ News
 
- 
+Twelve months is a long time in politics, especially if you are British Prime Minister Keir Starmer. 
 
 <br> 
 
@@ -691,7 +1101,7 @@ Stena Line is withdrawing its three-day Rosslare to Cherbourg ferry service from
 
 ## It’s time to finance our future and ‘change course’, Guterres tells world leaders in Sevilla
 
-date: 2025-06-30, from: United Nations, Top Stories
+date: 2025-06-30, from: United Nations, Economic Development
 
 “We’re here in Sevilla to change course,” the UN chief told world leaders on Monday, calling on them to grasp a once-in-a-decade opportunity to close a $4 trillion financing gap facing developing countries to meet sustainable development goals – and build a better world for all. 
 
@@ -715,7 +1125,7 @@ Critical shortfalls in global humanitarian funding now threaten millions of Suda
 
 ## LIVE: World leaders in Sevilla launch ambitious push to finance the future
 
-date: 2025-06-30, from: United Nations, Top Stories
+date: 2025-06-30, from: United Nations, Economic Development
 
 From rising debt and shrinking investment, to the aid funding crisis and struggles to meet ambitious development goals, the global financial system is failing the people it's supposed to serve: fixing that is the challenge facing world leaders gathered in Spain's sweltering southern jewel of Sevilla this week, as the UN's 4th International Conference on Financing for Development gets underway. Follow our live Meetings Coverage below; app users can catch all the action from the opening session here and you'll find all related stories on our special dedicated page right here. 
 
@@ -775,7 +1185,7 @@ More than 700,000 Afghan migrants have returned from Iran so far this year, incl
 
 ## Human rights can be a ‘strong lever for progress’ in climate change, says UN rights chief
 
-date: 2025-06-30, from: United Nations, Top Stories
+date: 2025-06-30, from: United Nations, Climate Change
 
 The UN’s top rights official on Monday urged the international community to confront the growing human rights implications of climate change. 
 
@@ -799,7 +1209,7 @@ One in six people are affected by loneliness, with significant implications for 
 
 ## After the big development pledges in Sevilla, UN says action starts now
 
-date: 2025-06-30, from: United Nations, Top Stories
+date: 2025-06-30, from: United Nations, Economic Development
 
 Now the big promises have been formally adopted in the Spanish city of Sevilla to turbocharge financing for sustainable development, how are the ambitious goals going to be met – and how quickly? 
 

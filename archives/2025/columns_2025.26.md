@@ -1,11 +1,297 @@
 ---
 title: columns
-updated: 2025-07-01 06:08:52
+updated: 2025-07-01 14:07:46
 ---
 
 # columns
 
-(date: 2025-07-01 06:08:52)
+(date: 2025-07-01 14:07:46)
+
+---
+
+##  &#8220;[Showing] people they are not alone in caring about an issue&#8221; is... 
+
+date: 2025-07-01, updated: 2025-07-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047066-showing-people-they-are-n>
+
+---
+
+##  &#8220;When I was in high school, my friends and I had a... 
+
+date: 2025-07-01, updated: 2025-07-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047049-when-i-was-in-high>
+
+---
+
+##  ImillaSkate: The Cholita Skaters of Bolivia 
+
+date: 2025-07-01, updated: 2025-07-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/imillaskate-the-cholita-skaters-of-bolivia>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-01, from: Dave Winer's Scripting News)
+
+<a href="https://www.politico.com/live-updates/2025/07/01/congress/lisa-murkowski-repulican-megabill-alaska-00435150">Bullshit</a>. Lisa Murkowski goes on a <a href="https://podcasts.apple.com/us/podcast/murkowski-could-lead-gop-revolt-against-trump-4-21-25/id1633301179?i=1000704258553&l=ru">press tour</a> and sounds like she could be the one that breaks away from Trump in the Republican Senate. As with all of them, always, it was an act. She has a role to play, she's The Agonizer. They are amazing in terms of how organized and orchestrated their campaign is. 
+
+<br> 
+
+<http://scripting.com/2025/07/01.html#a184018>
+
+---
+
+##  Busting the Top 5 Myths About the Big Bang. &#8220;Even asking this... 
+
+date: 2025-07-01, updated: 2025-07-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047056-busting-the-top-5-myths>
+
+---
+
+## June 30, 2025
+
+date: 2025-07-01, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167283636/73a600893bcf1723551c47dbdf79f1d7.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167283636/73a600893bcf1723551c47dbdf79f1d7.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/june-30-2025-ebe>
+
+---
+
+##  The Internet Archive estimates the Wayback Machine will hit a lifetime total... 
+
+date: 2025-07-01, updated: 2025-07-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047067-the-internet-archive-esti>
+
+---
+
+## [Sponsor] Phoenix.new
+
+date: 2025-07-01, updated: 2025-07-01, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://phoenix.new/?utm_source=df>
+
+---
+
+##  Now that summer is in full swing, you might need this Comprehensive... 
+
+date: 2025-07-01, updated: 2025-07-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047061-now-that-summer-is-in>
+
+---
+
+##  &#8220;He Painted Bugs Like Jewels&#8221; 
+
+date: 2025-07-01, updated: 2025-07-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/he-painted-bugs-like-jewels>
+
+---
+
+## Gist of Go: Semaphores
+
+date: 2025-07-01, from: Anton Zhiyanov blog
+
+Limiting the concurrency and waiting for the peers. 
+
+<br> 
+
+<https://antonz.org/go-concurrency/semaphores/>
+
+---
+
+## Fedora 43 won't drop 32-bit app support – or adopt Xlibre
+
+date: 2025-07-01, updated: 2025-07-01, from: Liam Proven's articles at the Register
+
+<h4>Community vetoes plans to axe i686 compatibility and switch X11 forks</h4>
+      <p>The Fedora community has quickly dropped a couple of recent proposed changes – one highly controversial, the other rather less so.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/01/fedora_43_i686_32bit/>
+
+---
+
+## Tesla's Robotaxi Revolution!
+
+date: 2025-07-01, from: David Rosenthal's blog
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0pvL_uFGu7LBhQPQLJY3_H47YRdvy0pqFHFElDI1QEdL4znjxWKrAY0NG64Q2zzG8MG7L2x3_63QYM1xRCJUPhcJH87F_IGSXskZyDT8ccx6KYQjLp4t5J8T41pISJmCmF9HFXYPFSMOJjJ6xTYSxv4FDL6gq4ZpCnqKcn4CVt53OOQ4E66AitntkGHSD/s1308/Screenshot%202025-06-27%20at%2014.41.48.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="666" data-original-width="1308" height="102" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0pvL_uFGu7LBhQPQLJY3_H47YRdvy0pqFHFElDI1QEdL4znjxWKrAY0NG64Q2zzG8MG7L2x3_63QYM1xRCJUPhcJH87F_IGSXskZyDT8ccx6KYQjLp4t5J8T41pISJmCmF9HFXYPFSMOJjJ6xTYSxv4FDL6gq4ZpCnqKcn4CVt53OOQ4E66AitntkGHSD/w200-h102/Screenshot%202025-06-27%20at%2014.41.48.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://techcentral.co.za/meet-tesla-cybercab-autonomous-robo-taxi/253198/">The mythical CyberCab</a></td></tr></tbody></table>
+<a href="https://x.com/ChrisO_wiki/status/1928011420177670418">@ChrisO_wiki</a> tweeted:<br />
+<blockquote>
+How to tell if someone's bullshitting: watch for them to give a deadline that they repeatedly push back.
+</blockquote>
+This was apropos of Donald Trump's approach to tariffs and Ukraine, but below the fold I apply the criterion to Elon Musk basing Tesla's future on its robotaxi service.<br />
+<span><a name='more'></a></span>
+<br />
+Jonathan V. Last's <a href="https://www.thebulwark.com/p/elon-musk-self-driving-fsd-tesla-tony-stark-michael-scott"><i>A Song of “Full Self-Driving”: Elon Isn’t Tony Stark. He’s Michael Scott.</i></a> shows that Musk's bullshitting started almost a decade ago:<br />
+<blockquote>
+  For years, Elon Musk has been promising that Teslas will operate completely autonomously in “Full Self Driving” (FSD) mode. And when I say years, I mean <a href="https://motherfrunker.ca/fsd/">years</a>:<br />
+<ul>
+<li><a href="https://fortune.com/2015/12/21/elon-musk-interview/">December 2015</a>: “We’re going to end up with complete autonomy, and I think we will have complete autonomy in approximately two years.”</li>
+<li><a href="https://x.com/elonmusk/status/686279251293777920">January 2016</a>: “In ~2 years, summon should work anywhere connected by land &amp; not blocked by borders, eg you’re in LA and the car is in NY.”</li>
+<li><a href="https://youtu.be/wsixsRI-Sz4?si=Mylq3wbbVuENBWxL&amp;t=4710">June 2016</a>: “I really would consider autonomous driving to be basically a solved problem. . . . I think we’re basically less than two years away from complete autonomy, complete—safer than a human. However regulators will take at least another year.”</li>
+<li><a href="https://www.nbcnews.com/business/autos/driverless-tesla-will-travel-l-nyc-2017-says-musk-n670206">October 2016</a>: By the end of 2017 Tesla will demonstrate a fully autonomous drive from “a home in L.A., to Times Square . . . without the need for a single touch, including the charging.”</li>
+<li><a href="https://electrek.co/2018/03/11/tesla-ceo-elon-musk-self-driving-next-year/">March 2018</a>: “I think probably by end of next year [end of 2019] self-driving will encompass essentially all modes of driving”</li>
+<li><a href="https://www.youtube.com/watch?v=MOy3MTZ9Dyg">February 2019</a>: “I think we will be feature complete—full self-driving—this year. Meaning the car will be able to find you in a parking lot, pick you up, take you all the way to your destination without an intervention, this year."</li>
+</ul>
+</blockquote>
+<a href="https://motherfrunker.ca/fsd/">@motherfrunker"</a> tracks this BS, and the most recent entry is:<br />
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Vwq_PhtvLwo">January 2022</a>: I will be shocked if we don't achieve FSD safer than a human this year</li>
+</ul>
+But finally, on June 22<sup>nd</sup>, Tesla's robotaxi revolution arrived. Never one to miss an opportunity to <a href="https://gizmodo.com/elon-musks-trillion-dollar-robotaxi-gamble-is-here-2000618771">pump the stock with bullshit</a>, Musk:<br />
+<blockquote>
+envisions a future fleet, including a new “Cybercab” and “Robovan” with no steering wheels or pedals, that could boost Tesla’s market value by an astonishing $5 trillion to $10 trillion. On June 20, Tesla was worth $1.04 trillion
+</blockquote>
+As usual, there are plenty of cult members <a href="https://gizmodo.com/elon-musks-trillion-dollar-robotaxi-gamble-is-here-2000618771">lapping up the BS</a>:<br />
+<blockquote>
+“My view is the golden age of autonomous vehicles starting on Sunday in Austin for Tesla,” said Wedbush analyst Dan Ives. “I believe it’s a trillion dollar valuation opportunity for Tesla.”
+</blockquote>
+Dan Ives obviously only sipped 10-20% of Musk's CoolAid. Others <a href="https://gizmodo.com/elon-musks-trillion-dollar-robotaxi-gamble-is-here-2000618771">drank deeper</a>:<br />
+<blockquote>
+Investor Cathie Wood’s ARK Invest predicts robotaxis could account for 90% of Tesla’s profits by 2029. If they are right, this weekend’s launch was existential.
+</blockquote>
+Tesla's net income from the trailing 12 months is <a href="https://finance.yahoo.com/quote/TSLA/financials/">around $6.1B</a> and falling. Assuming, optimistically, that  they can continue to sell cars at the current rate, Cathie Woods is assuming that robotaxi <i>profits</i> would be around $60B. Tesla's net margin is around 6%, so this implies revenue of almost $1T in 2029. Tesla charges $4.20/ride (ha! ha!), so this implies that they are delivering 231B rides/year, or around 23,000 times the rate of the entire robotaxi industry currently. Woods is projecting that in four year's time Tesla's robotaxi business will have almost as much revenue as Amazon ($638B), Microsoft ($245B) and Nvidia ($130B) <i>combined</i>.<br />
+<br />
+Liam Denning's analysis in <a href="https://www.bloomberg.com/opinion/articles/2025-06-27/tesla-s-800-billion-robotaxi-dream-is-finally-facing-reality"><i>Tesla’s $800 Billion Robotaxi Dream Is Finally Facing Reality</i></a> is only somewhat less optimistic:<br />
+<blockquote>
+"On generous assumptions, Tesla’s core EV business, generating 75% of gross profit but with falling sales, might be worth roughly $50 per share, only 15% of the current price. Much of the remainder relates to expectations around self driving. RBC Capital, for example, ascribes 59% of its price target, or $181 per share, to robotaxis and a further $53 to monetizing Full Self Driving technology. Combined, that is a cool $815 billion based on double-digit multiples ascribed to modeled revenue — not earnings — 10 to 15 years from now because, after all, it relates to businesses that barely make money today."
+</blockquote>
+This all seems a tad optimistic, given the current state of Tesla's and the competition's robotaxi offerings.  Brad Templeton says "<a href="https://www.forbes.com/sites/bradtempleton/2025/06/22/tesla-misses-robotaxi-launch-date-goes-with-safety-drivers/">pay no attention to the person in the passenger seat</a>":<br />
+<blockquote>
+Tesla’s much-anticipated June 22 “no one in the vehicle” “unsupervised” Robotaxi launch in Austin is not ready. Instead, Tesla is operating a limited service with Tesla employees on board the vehicle to maintain safety.<br />
+...<br />
+Having an employee who can intervene on board, commonly called a safety driver, is the approach that every robocar company has used for testing, including testing of passenger operations. Most companies spend many years (Waymo spent a decade) testing with safety drivers, and once they are ready to take passengers, there are typically some number of years testing in that mode, though the path to removing the safety driver depends primarily on evaluation of the safety case for the vehicle, and less on the presence of passengers.<br />
+<br />
+In addition to Musk’s statements about the vehicle being unsupervised, with nobody inside, in general the removal of the safety driver is the biggest milestone in development of a true robotaxi, not an incremental step that can be ignored. As such, Tesla has yet to meet its goals.<br />
+</blockquote>
+Seven-and-a-half years after Musk's deadline for "complete autonomy" the best Tesla can do is a small robotaxi service for invited guests in a geofenced area of Austin with a safety driver in daylight. Waymo has <a href="tesla_robotaxi_austin">100 robotaxis in service in Austin</a>. Three months ago <a href="https://www.forbes.com/sites/bradtempleton/2025/03/07/robotaxis-mostly-waymo-are-giving-13-million-ridesmonth--why/">Brad Templeton reported that</a>:<br />
+<blockquote>
+Waymo, the self-driving unit of Alphabet, announced recently that they are now providing 200,000 self-driving taxi rides every week with no safety driver in the car, only passengers.<br />
+...<br />
+In China, though, several companies are giving rides with no safety driver. The dominant player is Baidu Apollo, which reports they did 1.1 million rides last quarter, which is 84,000 per week, and they now are all no-safety-driver. Pony.AI claims 26,000 per week, but it is not clear if all are with no safety driver. AutoX does not report numbers, but says it has 1,000 cars in operation. WeRide also does not report numbers.
+</blockquote>
+It turns out that the safety driver is necessary. Craig Trudell and Kara Carlson's <a href="https://www.bloomberg.com/news/articles/2025-06-23/tesla-robotaxi-videos-show-speeding-driving-into-wrong-lane"><i>Tesla Robotaxi Incidents Draw Scrutiny From US Safety Agency</i></a> reports on the first day of the robotaxi revolution:<br />
+<blockquote>
+US auto safety regulators are looking into incidents where Tesla Inc.’s self-driving robotaxis appeared to violate traffic laws during the company’s first day offering paid rides in Austin.<br />
+...<br />
+In one video taken by investor Rob Maurer, who used to host a Tesla podcast, a Model Y he’s riding in enters an Austin intersection in a left-turn-only lane. The Tesla hesitates to make the turn, swerves right and proceeds into an unoccupied lane meant for traffic moving in the opposite direction.<br />
+<br />
+A honking horn can be heard as the Tesla re-enters the correct lane over a double-yellow line, which drivers aren’t supposed to cross.<br />
+<br />
+In two other posts on X, initial riders in driverless Model Ys shared footage of Teslas speeding. A vehicle carrying Sawyer Merritt, a Tesla investor, reached 35 miles per hour shortly after passing a 30 miles per hour speed limit sign, a video he posted shows.
+</blockquote>
+Tesla's level of incompetence is not a surprise. Tesla added "(Supervised)" to FSD in the US. They aren't allowed to call the technology <a href="https://electrek.co/2025/03/25/tesla-drops-fsd-from-name-of-its-driver-assist-tech-in-china/">"Full Self-Driving" in China</a>. They recently rolled out <a href="https://electrek.co/2025/03/25/tesla-drops-fsd-from-name-of-its-driver-assist-tech-in-china/">"Intelligent Assisted Driving" in China</a>:<br />
+<blockquote>
+But immediately after that rollout, Tesla drivers started <a href="https://electrek.co/2025/02/27/tesla-drivers-are-racking-up-fines-using-fsd-in-china/">racking up fines</a> for violating the law. Many roads in China are watched by CCTV cameras, and fines are automatically handed out to drivers to break the law.<br />
+<br />
+It’s clear that the system still needs more knowledge about Chinese roads in general, because it kept mistaking bike lanes for right turn lanes, etc. One driver racked up 7 tickets within the span of a single drive after driving through bike lanes and crossing over solid lines. If a driver gets enough points on their license, they could even have their license suspended. 
+</blockquote>
+Why did Tesla roll out their $8K "Intelligent Assisted Driving" in China? It might have something to do with <a href="https://electrek.co/2025/03/25/tesla-drops-fsd-from-name-of-its-driver-assist-tech-in-china/">this</a>:<br />
+<blockquote>
+BYD recently pushed a software update giving <a href="https://electrek.co/2025/02/10/byds-most-affordable-evs-smart-driving-upgrade-free/">smart driving features to all of its vehicles – for free</a>.
+</blockquote>
+There are already many competing robotaxi services in China. <a href="https://www.channelnewsasia.com/east-asia/china-robotaxis-baidu-tesla-driverless-vehicles-4670506">For example</a>:<br />
+<blockquote>
+Baidu is already operating robotaxi services in multiple cities in China. It provided close to 900,000 rides in the second quarter of the year, up 26 per cent year-on-year, according to its latest earnings call. More than 7 million robotaxi rides in total had been operated as of late July.
+</blockquote>
+That was a year ago. It isn't just Waymo that is in a whole different robotaxi league than Tesla. And lets not talk about the fact that BYD, <a href="https://blog.dshr.org/2025/04/elon-musk-threat-or-menace-part-6.html">Xiaomi</a> and others outsell Tesla in China because their products are better and cheaper. Tesla's response? Getting the White House to put a <a href="https://www.bloomberg.com/news/articles/2025-03-26/trump-prepares-auto-tariff-announcement-as-soon-as-wednesday">25% tariff on imported cars</a>.<br />
+<br /> 
+
+<br> 
+
+<https://blog.dshr.org/2025/07/teslas-robotaxi-revolution.html>
+
+---
+
+##  Trying to cut back on social media? The methaphone is a phone-shaped... 
+
+date: 2025-07-01, updated: 2025-07-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047059-trying-to-cut-back-on>
+
+---
+
+## Tuesday, 1 July, 2025
+
+date: 2025-07-01, from: Doc Searls (at Harvard), New Old Blog
+
+Just some perspective. I just removed this from a post I&#39;ve been writing: Walt Whitman put the profundity of human life in a kind of perspective when he said, &#34;and I know the amplitude of time&#34;—which is far more immense than most scientists imagined in Whitman&#39;s lifetime, which lasted five years less than mine so far. [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/01/tuesday-1-july-2025/>
+
+---
+
+##  Against AI: An Open Letter From Writers to Publishers. &#8220;We want our... 
+
+date: 2025-07-01, updated: 2025-07-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047054-against-ai-an-open-letter>
+
+---
+
+##  &#8220;The Big, Beautiful Bill assigns each American a billionaire who will live... 
+
+date: 2025-07-01, updated: 2025-07-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047053-the-big-beautiful-bill-as>
 
 ---
 
@@ -13,7 +299,7 @@ updated: 2025-07-01 06:08:52
 
 date: 2025-07-01, from: Dave Winer's Scripting News
 
-<p>Here's the address of the feed for my linkblog: <a href="https://dave.linkblog.org/">dave.linkblog.org</a>. </p>
+<p>This is the address of my linkblog feed: <a href="https://dave.linkblog.org/">dave.linkblog.org</a>. </p>
 <p>I think it's kind of interesting to have the top page of a site be a feed. I don't hide the XML-ness of it. I never supported the obfuscation, it's confusing, makes people not trust RSS, imho. </p>
 <p>I think the feed is pretty stable now, so if you want to subscribe, go ahead. I haven't redirected from the old feed yet, probably should do that soon, since it more or less has stopped updating. </p>
 <p>This is all managed in <a href="https://wordland.social/">WordLand</a> and therefore is part of the WordPress ecosystem. </p>
@@ -23,6 +309,7 @@ date: 2025-07-01, from: Dave Winer's Scripting News
 <p>I only want really good feeds. It's time to stop being so careless about what we transmit to the world. If we want an open web we're all going to have to be good gardeners. It's like a food system where all the food is grown by family farmers and I'm running a restaurant, and only want the good stuff, and we want it to look good too! :-)</p>
 <p>PS: Another thing, the feed items must have working <a href="https://cyber.harvard.edu/rss/rss.html#ltguidgtSubelementOfLtitemgt">guids</a>. All software that runs on feeds should be able to depend on this. </p>
 <p>PPS: Linkblogs aren't the only kinds of feeds that will be used in this RSS-based feediverse. Scripting News will work with it. You would be able to read this post in this new medium (not yet delivered, btw).</p>
+<p>PPPS: More <a href="https://this.how/davewiner/myLinkblog.opml">here</a> and <a href="https://github.com/scripting/wordlandDev/issues/1">here</a>.</p>
  
 
 <br> 

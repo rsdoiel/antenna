@@ -1,11 +1,125 @@
 ---
 title: socal north
-updated: 2025-07-01 06:08:49
+updated: 2025-07-01 14:07:43
 ---
 
 # socal north
 
-(date: 2025-07-01 06:08:49)
+(date: 2025-07-01 14:07:43)
+
+---
+
+## Audit: Long Beach spends millions fixing its streets; they’re still among the worst
+
+date: 2025-07-01, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The city poured hundreds of millions of dollars into street repairs but didn’t effectively track cost overruns and was unable to show if the money was well-spent, City Auditor Laura Doud said.</p>
+<p>The post <a href="https://lbpost.com/news/audit-streets-roads-pavement-index">Audit: Long Beach spends millions fixing its streets; they’re still among the worst</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/audit-streets-roads-pavement-index>
+
+---
+
+## California proposal would allow soft helmet pads in youth football leagues
+
+date: 2025-07-01, updated: 2025-07-01, from: The LAist
+
+Three former college football players in the California Legislature think youth leagues should allow padded helmet add-ons like NFL players wear. 
+
+<br> 
+
+<https://laist.com/news/education/california-proposal-would-allow-soft-helmet-pads-in-youth-football-leagues>
+
+---
+
+## More unsheltered Angelenos are ‘rough sleeping’ without a tent, study says
+
+date: 2025-07-01, updated: 2025-07-01, from: The LAist
+
+A 2024 RAND study shows a shift in the population on L.A.’s streets. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/unsheltered-rough-sleepers-count-decline-venice-skid-row-hollywood-homeless>
+
+---
+
+## What to know about California’s English learners
+
+date: 2025-07-01, updated: 2025-07-01, from: The LAist
+
+About 1 in 3 students in California’s K-12 schools were not fluent in English when they started school. 
+
+<br> 
+
+<https://laist.com/news/education/what-to-know-about-californias-english-learners>
+
+---
+
+## Senate GOP passes Trump's sweeping policy bill, setting up decisive vote in the House
+
+date: 2025-07-01, updated: 2025-07-01, from: The LAist
+
+The Republican megabill cuts trillions in taxes, while scaling back spending on Medicaid and other federal programs. It now heads to the House, where some GOP lawmakers are signaling major objections. 
+
+<br> 
+
+<https://laist.com/news/politics/senate-gop-passes-trumps-sweeping-policy-bill-setting-up-decisive-vote-in-the-house>
+
+---
+
+## Woman’s murder conviction upheld in 2014 beating death
+
+date: 2025-07-01, from: Longbeach Post
+
+<figure><img width="900" height="597" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/21122537/gavel-1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/21122537/gavel-1.jpg 900w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/21122537/gavel-1-300x199.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/21122537/gavel-1-768x509.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/21122537/gavel-1-163x108.jpg 163w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/21122537/gavel-1-400x265.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p> Jazmin Montanez was retried and convicted again of first-degree murder for the 2014 bludgeoning of Thomas Taylor after a three-justice panel from California's 2nd District Court of Appeal overturned her conviction.</p>
+<p>The post <a href="https://lbpost.com/news/womans-murder-conviction-upheld-in-2014-beating-death">Woman&#8217;s murder conviction upheld in 2014 beating death</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/womans-murder-conviction-upheld-in-2014-beating-death>
+
+---
+
+## Trained volunteers patrol LA streets as ICE raids intensify
+
+date: 2025-07-01, updated: 2025-07-01, from: The LAist
+
+Neighborhood groups monitor immigration enforcement amid rising fear and federal scrutiny. 
+
+<br> 
+
+<https://laist.com/news/trained-volunteers-patrol-la-streets-as-ice-raids-intensify>
+
+---
+
+## One of the biggest obstacles to building new housing in California has now vanished
+
+date: 2025-07-01, updated: 2025-07-01, from: The LAist
+
+In a legislative battle a decade in the making, lawmakers just exempted infill urban development from the California Environmental Quality Act. That’s a big deal. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/one-of-the-biggest-obstacles-to-building-new-housing-in-california-has-now-vanished>
+
+---
+
+## June Gloom conditions to continue for SoCal, but fire risk remains
+
+date: 2025-07-01, updated: 2025-07-01, from: The LAist
+
+The low clouds will come back this morning, bringing temperatures down a few degrees across the region. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/june-gloom-conditions-to-continue-for-socal-but-fire-risk-remains>
 
 ---
 
@@ -18,6 +132,18 @@ The Altadena Historical Society, responding to the loss of photos and heirlooms,
 <br> 
 
 <https://laist.com/news/volunteer-historians-are-racing-to-record-the-stories-and-voices-of-eaton-fire-survivors>
+
+---
+
+## Your guide to safely enjoying fireworks in SoCal
+
+date: 2025-07-01, updated: 2025-07-01, from: The LAist
+
+All you need to know about how to enjoy the “rocket’s red glare” safely this Fourth of July. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/firework-safety-guide-socal>
 
 ---
 
@@ -69,11 +195,11 @@ Volume of business at the Port of L.A. complex was down 20% in May, compared wit
 
 ---
 
-## LA fire property owners who chose to clear debris themselves must have it completed — or face consequences
+## Nearly 1,000 LA fire property owners who chose to clear debris themselves are overdue
 
-date: 2025-06-30, updated: 2025-06-30, from: The LAist
+date: 2025-06-30, updated: 2025-07-01, from: The LAist
 
-They were given until June 30 to have it done. Roughly 2,000 property owners declined to join the program. 
+Thirty percent of overdue properties didn't receive the necessary permit to even begin removal. 
 
 <br> 
 
@@ -83,7 +209,7 @@ They were given until June 30 to have it done. Roughly 2,000 property owners dec
 
 ## LA City Council votes to extend contract for renter aid days before expiration
 
-date: 2025-06-30, updated: 2025-06-30, from: The LAist
+date: 2025-06-30, updated: 2025-07-01, from: The LAist
 
 Legal aid and rent relief for L.A. tenants facing eviction is set to continue after the City Council voted to temporarily extend a contract the city attorney refused to sign. 
 
@@ -97,7 +223,7 @@ Legal aid and rent relief for L.A. tenants facing eviction is set to continue af
 
 date: 2025-06-30, from: Longbeach Post
 
-<figure><img width="900" height="600" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3.png 900w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-300x200.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-768x512.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-162x108.png 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-400x267.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="900" height="600" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3.png 900w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-300x200.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-768x512.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-162x108.png 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-400x267.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The identity of the victim is being withheld pending notification of the next of kin by the Los Angeles County Department of the Medical Examiner.</p>
 <p>The post <a href="https://lbpost.com/news/man-killed-in-shooting-near-davenport-park">Man killed in shooting near Davenport Park</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -112,7 +238,7 @@ date: 2025-06-30, from: Longbeach Post
 
 date: 2025-06-30, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Long Beach police said the woman, 78, was struck by a 2005 Dodge Ram pickup being driven by a 38-year-old resident of Long Beach who was traveling north on Orange Avenue.</p>
 <p>The post <a href="https://lbpost.com/news/woman-killed-in-fatal-collision-in-north-long-beach">Woman killed in fatal collision in North Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

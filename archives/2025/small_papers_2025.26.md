@@ -1,11 +1,41 @@
 ---
 title: small papers
-updated: 2025-07-01 06:08:59
+updated: 2025-07-01 14:07:52
 ---
 
 # small papers
 
-(date: 2025-07-01 06:08:59)
+(date: 2025-07-01 14:07:52)
+
+---
+
+## Audit: Long Beach spends millions fixing its streets; they’re still among the worst
+
+date: 2025-07-01, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The city poured hundreds of millions of dollars into street repairs but didn’t effectively track cost overruns and was unable to show if the money was well-spent, City Auditor Laura Doud said.</p>
+<p>The post <a href="https://lbpost.com/news/audit-streets-roads-pavement-index">Audit: Long Beach spends millions fixing its streets; they’re still among the worst</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/audit-streets-roads-pavement-index>
+
+---
+
+## Woman’s murder conviction upheld in 2014 beating death
+
+date: 2025-07-01, from: Long Beach Post
+
+<figure><img width="900" height="597" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/21122537/gavel-1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/21122537/gavel-1.jpg 900w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/21122537/gavel-1-300x199.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/21122537/gavel-1-768x509.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/21122537/gavel-1-163x108.jpg 163w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/21122537/gavel-1-400x265.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p> Jazmin Montanez was retried and convicted again of first-degree murder for the 2014 bludgeoning of Thomas Taylor after a three-justice panel from California's 2nd District Court of Appeal overturned her conviction.</p>
+<p>The post <a href="https://lbpost.com/news/womans-murder-conviction-upheld-in-2014-beating-death">Woman&#8217;s murder conviction upheld in 2014 beating death</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/womans-murder-conviction-upheld-in-2014-beating-death>
 
 ---
 
@@ -13,7 +43,7 @@ updated: 2025-07-01 06:08:59
 
 date: 2025-06-30, from: Long Beach Post
 
-<figure><img width="900" height="600" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3.png 900w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-300x200.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-768x512.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-162x108.png 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-400x267.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="900" height="600" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3.png 900w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-300x200.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-768x512.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-162x108.png 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-400x267.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The identity of the victim is being withheld pending notification of the next of kin by the Los Angeles County Department of the Medical Examiner.</p>
 <p>The post <a href="https://lbpost.com/news/man-killed-in-shooting-near-davenport-park">Man killed in shooting near Davenport Park</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -28,7 +58,7 @@ date: 2025-06-30, from: Long Beach Post
 
 date: 2025-06-30, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Long Beach police said the woman, 78, was struck by a 2005 Dodge Ram pickup being driven by a 38-year-old resident of Long Beach who was traveling north on Orange Avenue.</p>
 <p>The post <a href="https://lbpost.com/news/woman-killed-in-fatal-collision-in-north-long-beach">Woman killed in fatal collision in North Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-07-01 06:08:56
+updated: 2025-07-01 14:07:50
 ---
 
 # motorcycles
 
-(date: 2025-07-01 06:08:56)
+(date: 2025-07-01 14:07:50)
+
+---
+
+## Harley-Davdison Japan Gets $1.4 Million Fine After an Anti-Monopoly Investigation
+
+date: 2025-07-01, from: Ride Apart, Electric Motorcycle News
+
+The Japanese authority investigated for almost a year before announcing its decision. 
+
+<br> 
+
+<https://www.rideapart.com/news/764322/harley-japan-fined-dealer-quotas/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2025-07-01 06:08:56
 
 date: 2025-07-01, from: Ride Apart, Electric Motorcycle News
 
-We all love the outdoors, just differently.  
+Be excellent to one another.  
 
 <br> 
 
