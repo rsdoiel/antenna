@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-06-30 14:07:56
+updated: 2025-07-01 06:08:54
 ---
 
 # games
 
-(date: 2025-06-30 14:07:56)
+(date: 2025-07-01 06:08:54)
+
+---
+
+## Donkey Kong Bananza is being made by the Super Mario Odyssey team
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+It’s official: The team at Nintendo behind 2017’s Super Mario Odyssey is responsible for upcoming Switch 2 exclusive Donkey Kong Bananza, Nintendo has confirmed. Confirmation of Donkey Kong Bananza’s developer is something of a deviation from Nintendo. In recent years, the company has sidestepped questions about which teams and studios are behind its unreleased games. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/609042/donkey-kong-bananza-developer-super-mario-odyssey-team>
+
+---
+
+## Donkey Kong Bananza gets really fun when it gets hard
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+Playing Donkey Kong Bananza recently at a hands-on event in New York, I started to question: Does Donkey Kong have the juice? Yes, Donkey Kong’s new action-adventure game looks great running on Nintendo Switch 2, and the level of environmental destruction made possible by DK’s meaty paws is very technically impressive. But after beating my [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/610100/donkey-kong-bananza-hands-on-impressions>
+
+---
+
+## There’s a Fantastic Four-flavored milk drink now (superpowers not included)
+
+date: 2025-07-01, updated: 2025-06-30, from: Polygon Website
+
+If you&#8217;re like me, you&#8217;ve likely wondered at least once what it would be like to have superpowers. And with Marvel&#8217;s latest collaboration with TruMoo, we&#8217;ll finally get a taste via the power of Fantastic Four-flavored milk! Wait, what? TruMoo and Marvel Studios joined forces to celebrate the upcoming release of The Fantastic Four: First [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/609756/trumoo-team-up-fantastic-four-flavored-milk-drink>
+
+---
+
+## Ryan Coogler’s Sinners is making Black history yet again
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+Ryan Coogler&#8217;s Sinners was released in April to critical acclaim. Since then, the movie has managed to break several box office records and accomplish a list of &#8220;firsts,&#8221; making history for Black cinema and otherwise in the process. Three months after Sinner&#8217;s theatrical debut, Warner Bros. and Coogler are poised to extend the film&#8217;s historic [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/610104/sinners-ryan-coogler-black-american-sign-language>
+
+---
+
+## FFXIV housing lottery schedule for June 2025
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+If you’re trying to get a house in Final Fantasy 14, you’ll need to play the lottery system. The FFXIV lottery system consists of five “entry period” days, followed by four “results period” days. You’ll need to place your bid during the entry period days and if you win, finalize your purchase during the results [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period>
+
+---
+
+## Pokémon Go Ditto disguises list for July 2025
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+Ditto is an elusive Pokémon in Pokémon Go, as it disguises itself and you can’t actually just catch one straight-up. In order to find Ditto, you’ll want to find the Pokémon that it currently disguises itself as. For example, you may see a Diglett, and it’ll stay a Diglett once you tap on it, but [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny>
+
+---
+
+## Pokémon Go leader counters for Sierra, Arlo, and Cliff in July 2025
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+Pokémon Go has its own version of the notorious Team Rocket, called Team Go Rocket. In this Pokémon Go guide, we’ll break down how to find leaders Sierra, Cliff, and Arlo and take them down. Below, we list their parties and strategies as it stands in July 2025, with the most recent changes following the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses>
+
+---
+
+## Pokémon Go raid schedule for July 2025’s Legendary and Mega Pokémon
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+Using a raid schedule helps you work out which creatures to save your raid passes (remote or otherwise) for in Pokémon Go. The raid targets swap out every 10 days approximately, so you’ll definitely want to keep track on who is coming next. If you’re unfamiliar with raids, they spawn in gyms from 10 a.m. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star>
+
+---
+
+## Pokémon Go Spotlight Hour schedule for July 2025
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+Pokémon Go hosts a Spotlight Hour every Tuesday. This special event sees spawn rates for one Pokémon boosted greatly. There’s also usually some kind of doubled up bonus, like doubled candy or XP, during this time, giving you an additional reason to check in. During July 2025, with the way the dates line up, we [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule>
+
+---
+
+## Pokémon Go Giovanni counters, team line-up in July 2025
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+Giovanni’s team had a refresh in Pokémon Go following the arrival of the spring 2025 “Crown Clash: Taken Over” event. As it stands in July 2025, following an update rolled out on May 13, Giovanni’s team sees several possibilities, including a finale against Dialga, the latest legendary to see the Shadow treatment. For those who [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket>
 
 ---
 

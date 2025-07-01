@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-06-30 14:07:57
+updated: 2025-07-01 06:08:55
 ---
 
 # libraries
 
-(date: 2025-06-30 14:07:57)
+(date: 2025-07-01 06:08:55)
 
 ---
 
@@ -18,6 +18,44 @@ Weinold, Michael
 <br> 
 
 <http://hdl.handle.net/20.500.11850/742383>
+
+---
+
+## Wayback Machine to Hit ‘Once-in-a-Generation Milestone’ this October: One Trillion Web Pages Archived
+
+date: 2025-07-01, from: Internet Archive Blog
+
+This October, the Internet Archive’s Wayback Machine is projected to hit a once-in-a-generation milestone: 1 trillion web pages archived. That’s one trillion memories, moments, and movements—preserved for the public, forever. [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/07/01/wayback-machine-to-hit-once-in-a-generation-milestone-this-october-one-trillion-web-pages-archived/>
+
+---
+
+## Guest Post — Fiesole 2025: A Step Back to Move Forward in the Era of ‘Postnormal Publishing’
+
+date: 2025-07-01, from: Scholarly Kitchen
+
+<p>A report from this year's Fiesole Retreat: Learning from the Past, Informing the Future.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/07/01/guest-post-fiesole-2025-a-step-back-to-move-forward-in-the-era-of-postnormal-publishing/">Guest Post &#8212; Fiesole 2025: A Step Back to Move Forward in the Era of ‘Postnormal Publishing’</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/07/01/guest-post-fiesole-2025-a-step-back-to-move-forward-in-the-era-of-postnormal-publishing/>
+
+---
+
+## Welcome to the new OpenCitations website!
+
+date: 2025-07-01, from: Open Citation blog at Hypotheses.org
+
+After months of work behind the scenes, we’re thrilled to unveil the new OpenCitations website!   Whether you’re a researcher, service provider, librarian, or open knowledge advocate, we want the new site to help you engage more easily and meaningfully with our work. This new website is part of a wider rebranding initiative that began earlier this year. In February, we launched our new OpenCitations logo, reflecting our mission as a reliable and community-focused infrastructure for open scholarly metadata.   This visual update now lives across &#8230; <a href="https://opencitations.hypotheses.org/3918" class="more-link">Continue reading <span class="screen-reader-text">Welcome to the new OpenCitations website!</span></a> 
+
+<br> 
+
+<https://opencitations.hypotheses.org/3918>
 
 ---
 

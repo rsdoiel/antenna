@@ -1,11 +1,167 @@
 ---
 title: science and technology
-updated: 2025-06-30 14:07:53
+updated: 2025-07-01 06:08:51
 ---
 
 # science and technology
 
-(date: 2025-06-30 14:07:53)
+(date: 2025-07-01 06:08:51)
+
+---
+
+## Folks aren’t buying the PCs that US vendors stockpiled to dodge tariffs
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>Plus: Consumers respond to imminent Win 10 cutoff date with collective &#39;Meh&#39;</h4> <p><strong>World War Fee</strong>  Total PC shipments in the US will increase by just 2 percent this year, thanks to Trump&#39;s tariffs and little appetite from consumers for spending on &#34;big-ticket&#34; items, despite the looming end of Windows 10 support.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/pc_united_states_shipping_figs/>
+
+---
+
+## Ames Science Directorate’s Stars of the Month: July 2025
+
+date: 2025-07-01, from: NASA breaking news
+
+The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Sigrid Reinsch, Lori Munar, Kevin Sims, and Matthew Fladeland. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star: Sigrid Reinsch As Director&#160;of&#160;the&#160;SHINE (Space Health Impacts [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/ames-science-directorates-stars-of-the-month-july-2025/>
+
+---
+
+## Linus Torvalds hints Bcachefs may get dropped from the Linux kernel
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>Kernel 6.16 may be the last with the new disk format</h4> <p>The geek titans are clashing once again, and Linux supremo Linus Torvalds has warned: &#34;I think we&#39;ll be parting ways&#34; as of kernel 6.17.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/bcachefs_may_get_dropped/>
+
+---
+
+## People have empathy with AI… as long as they think it's human
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>Study finds emotional support from chatbots is more readily accepted if participants don&#39;t know it&#39;s an AI</h4> <p>A study of AI chat sessions has shown people tend to have more empathy with a chatbot if they think it is human.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/people_have_empathy_with_ai/>
+
+---
+
+## Terrible tales of opsec oversights: How cybercrooks get themselves caught
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>The silly mistakes to the flagrant failures</h4> <p>They say that success breeds complacency, and complacency leads to failure. For cybercriminals, taking too many shortcuts when it comes to opsec delivers a little more than that. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/terrible_tales_of_opsec_oversights/>
+
+---
+
+## Critics blast Microsoft's limited reprieve for those stuck on Windows 10
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>Users tired of being &#39;yanked around&#39; as end of support looms</h4> <p>Microsoft&#39;s latest attempts to ease the transition to Windows 11 for Windows 10 users &#34;don&#39;t go far enough,&#34; according to privacy campaigners that worry about the prospect of millions of PCs going to landfill.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/windows_10_updates_criticism/>
+
+---
+
+## A lot of product makers snub Right to Repair laws
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>Refrigerators and game consoles are the worst, but Apple, surprisingly, rates well</h4> <p>A year after the Right to Repair laws passed in California and Minnesota, many product makers still aren&#39;t doing much to help consumers fix the gear they bought.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/right_to_repair_laws_manufacturers/>
+
+---
+
+## Proton bashes Apple and joins antitrust suit that seeks to throw the App Store wide open
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>Makes the usual complaints about control and cost, adds argument Apple&#39;s practices harm privacy</h4> <p>Secure comms biz Proton has joined a lawsuit that alleges Apple’s anticompetitive ways are harming developers, consumers, and privacy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/proton_lawsuit_apple/>
+
+---
+
+## DRAM spot prices doubled last week
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>Fears that DDR4 has hit the end of the road and the return of tariffs may be to blame</h4> <p>Spot prices for DRAM have doubled in the last week.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/dram_spot_prices_surge/>
+
+---
+
+## China successfully tests hypersonic aircraft, maybe at Mach 12
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>America recently extended tech export bans specifically to stop Beijing building this sort of thing</h4> <p>China’s Northwestern Polytechnical University last week flew a hypersonic craft and claimed the test achieved some world-first feats.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/china_successfully_tests_hypersonic_aircraft/>
+
+---
+
+## Oracle just signed one mystery customer that will double its cloud revenue in 2028
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>Could it be an AI model builder? A Chinese e-tailer? Perhaps a TikTok mass migration</h4> <p>Oracle has landed a mystery customer that will add more than $30 billion to the database giant&#39;s annual revenues, more than doubling the size of its current cloud business.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/oracle_cloud_ai/>
+
+---
+
+## US shuts down a string of North Korean IT worker scams
+
+date: 2025-06-30, updated: 2025-06-30, from: The Register (UK I.T. News)
+
+<h4>Resulting in two indictments, one arrest, and 137 laptops seized</h4> <p>The US Department of Justice has announced a major disruption of multiple North Korean fake IT worker scams.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/30/us_north_korea_workers/>
+
+---
+
+## Want a job? Just put 'AI skills' on your resume
+
+date: 2025-06-30, updated: 2025-06-30, from: The Register (UK I.T. News)
+
+<h4>It could just be the new &#39;proficient with MS Word&#39;</h4> <p><strong>ai-pocalypse</strong>  For job seekers wondering which AI skills to bone up on, the answer appears to be simple based on a look at the past year of employment data: Just learn to use it. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/30/ai_skills_job_postings_comptia/>
 
 ---
 
@@ -59,7 +215,7 @@ NASA will provide live coverage of the launch and docking of a Roscosmos cargo s
 
 ## British IT worker sentenced to seven months after trashing company network
 
-date: 2025-06-30, updated: 2025-06-30, from: The Register (UK I.T. News)
+date: 2025-06-30, updated: 2025-07-01, from: The Register (UK I.T. News)
 
 <h4>Don&#39;t leave the door open to disgruntled workers</h4> <p>A judge has sentenced a disgruntled IT worker to more than seven months in prison after he wreaked havoc on his employer&#39;s network following his suspension, according to West Yorkshire Police.…</p> 
 
@@ -143,7 +299,7 @@ The light that the NASA/ESA&#160;Hubble Space Telescope&#160;collected to create
 
 ## VMware must support crucial Dutch govt agency as it migrates off the platform, judge rules
 
-date: 2025-06-30, updated: 2025-06-30, from: The Register (UK I.T. News)
+date: 2025-06-30, updated: 2025-07-01, from: The Register (UK I.T. News)
 
 <h4>Court says State arm cannot be left without maintenance, patches and upgrades because of Broadcom&#39;s new licensing model</h4> <p>Broadcom&#39;s VMware subsidiary must provide a Dutch government organization with continued software support for at least two years while it manages a migration to an alternative platform, according to a court ruling, or else face fines up to €25 million ($29 million).…</p> 
 

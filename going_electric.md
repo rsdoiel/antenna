@@ -1,11 +1,127 @@
 ---
 title: going electric
-updated: 2025-06-30 14:08:00
+updated: 2025-07-01 06:08:58
 ---
 
 # going electric
 
-(date: 2025-06-30 14:08:00)
+(date: 2025-07-01 06:08:58)
+
+---
+
+## Why Ford Thinks LIDAR Is 'Mission Critical' For Self-Driving Cars
+
+date: 2025-07-01, from: Inside EVs News
+
+Plus, Tesla's Q2 deliveries are expected this week and feds are proposing to end the EV tax credit even sooner. 
+
+<br> 
+
+<https://insideevs.com/news/764311/ford-farley-mission-critical-lidar/>
+
+---
+
+## Tesla (TSLA) is about to release Q2 deliveries: here’s what to expect
+
+date: 2025-07-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2016/03/img_1665-e1457955946161.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) is about to release its Q2 2025 delivery and production results. Here, we examine what Wall Street expects and what would make sense in reality.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="422985" href="https://electrek.co/2025/07/01/tesla-tsla-release-q2-deliveries-heres-what-to-expect/#more-422985" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/01/tesla-tsla-release-q2-deliveries-heres-what-to-expect/>
+
+---
+
+## Tesla (TSLA) crashes after Trump threatens to set DOGE on Elon Musk
+
+date: 2025-07-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Donald-Trump-Elon-Musk-heartbreak-e1749169363684.jpg?quality=82&#038;strip=all&#038;w=923" /></div><p>Tesla’s stock (TSLA) crashed by as much as 5% in pre-market trading after President Trump threatened to set DOGE on Elon Musk, who has been criticizing his ‘Big Beautiful Bill’.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="422969" href="https://electrek.co/2025/07/01/tesla-tsla-crashes-after-trump-threathens-to-set-doge-on-elon-musk/#more-422969" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/01/tesla-tsla-crashes-after-trump-threathens-to-set-doge-on-elon-musk/>
+
+---
+
+## How California cops are now using simple drones to catch illegal e-bike riders
+
+date: 2025-07-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/stark-varg-towing-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Police across the US are cracking down on illegal use of out-of-class e-bikes or non-street-legal electric motorcycles used on public roads. It used to be that if you sped off on an illegal electric dirt bike or mini bike after a traffic stop in California, there was a good chance you’d get away. Most police departments don’t want to engage in high-speed chases over these types of violations, especially if the rider isn’t wearing a helmet or is weaving through dense traffic. And since these types of bikes almost never have license plates, merely outrunning or outmaneuvering a police cruiser through some bushes or over a sidewalk was usually enough to evade justice. But lately, a new kind of chase is happening – from above.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,police" data-layer-viewtype="unknown" data-post-id="420655" href="https://electrek.co/2025/07/01/how-california-cops-are-now-using-simple-drones-to-catch-illegal-e-bike-riders/#more-420655" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/01/how-california-cops-are-now-using-simple-drones-to-catch-illegal-e-bike-riders/>
+
+---
+
+## EV with fake engine noises recalled for not having the correct fake engine noises
+
+date: 2025-07-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/CHARGER_RECALL.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Dodge Charger Daytona EV made headlines when it rolled out fake engine noises as a way to make the EV appeal to muscle car drivers. As it turns out, they weren’t the right sort of fake engine noises – and now Stellantis has to recall 8,000 of them for a fix.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-dodge-charger,recall,stellantis" data-layer-viewtype="unknown" data-post-id="422948" href="https://electrek.co/2025/06/30/ev-with-fake-engine-noises-recalled-for-not-having-the-correct-fake-engine-noises/#more-422948" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/30/ev-with-fake-engine-noises-recalled-for-not-having-the-correct-fake-engine-noises/>
+
+---
+
+## The AMG GT XX Concept Has Bluetooth-Connected Aero Wheels
+
+date: 2025-06-30, from: Inside EVs News
+
+Add ‘Bluetooth-controlled wheels’ to the growing list of sentences I never expected to write covering cars. 
+
+<br> 
+
+<https://insideevs.com/news/764233/amg-gt-xx-bluetooth-wheels/>
+
+---
+
+## Kia’s electric van spotted with an open bed and it actually looks like a real truck
+
+date: 2025-06-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Kia-PV5-electric-truck.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Is it an electric van or a truck? The <a href="https://electrek.co/guides/kia-pv5/">Kia PV5</a> might be in a class of its own. Kia’s electric van was recently spotted charging in public with an open bed, and it looks like a real truck.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-pv5" data-layer-viewtype="unknown" data-post-id="422929" href="https://electrek.co/2025/06/30/kias-electric-van-spotted-with-open-bed-looks-like-a-truck/#more-422929" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/06/30/kias-electric-van-spotted-with-open-bed-looks-like-a-truck/>
+
+---
+
+## ‘The Most Humbling Thing I’ve Ever Seen’: Ford CEO On China’s Car Industry
+
+date: 2025-06-30, from: Inside EVs News
+
+Ford CEO Jim Farley said Chinese cars have "far superior" technology, lower costs and great quality.  
+
+<br> 
+
+<https://insideevs.com/news/764318/ford-ceo-china-evs-humbled/>
 
 ---
 

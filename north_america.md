@@ -1,11 +1,49 @@
 ---
 title: north america
-updated: 2025-06-30 14:07:50
+updated: 2025-07-01 06:08:49
 ---
 
 # north america
 
-(date: 2025-06-30 14:07:50)
+(date: 2025-07-01 06:08:49)
+
+---
+
+## Words & Phrases we can ‘totally and completely obliterate’
+
+date: 2025-07-01, from: The Contrarian
+
+Trump&#8217;s falsehoods endanger national security. 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-we-can-totally>
+
+---
+
+## Evening Roundup, June 30
+
+date: 2025-06-30, from: The Contrarian
+
+Featuring Pablo Torres and Jen Rubin, Jeff Nesbit, RJ Matson, Mia Ives-Rublee and Nicole Jorwic, Talking Feds, the Democracy Movement, and Ben Sheehan 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-june-30>
+
+---
+
+## Why do we still have the electoral college? Ben Sheehan on the importance of civic education 
+
+date: 2025-06-30, from: The Contrarian
+
+"People agree on far more than they realize." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167201496/662ad4105c7eb4cf4182ae503bfe7640.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167201496/662ad4105c7eb4cf4182ae503bfe7640.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/why-do-we-still-have-the-electoral>
 
 ---
 

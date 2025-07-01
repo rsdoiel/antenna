@@ -1,11 +1,144 @@
 ---
 title: home
-updated: 2025-06-30 14:07:58
+updated: 2025-07-01 06:08:56
 ---
 
 # home
 
-(date: 2025-06-30 14:07:58)
+(date: 2025-07-01 06:08:56)
+
+---
+
+## 7 Common Woodpeckers in Maryland (Pictures and Identification)
+
+date: 2025-07-01, from: Yard Life blog
+
+<p>Woodpeckers in Maryland are easy to spot thanks to their bold markings, drumming behavior, and energetic presence in forests and ... </p>
+<p class="read-more-container"><a title="7 Common Woodpeckers in Maryland (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/7-common-woodpeckers-in-maryland-pictures-and-identification/#more-31538" aria-label="Read more about 7 Common Woodpeckers in Maryland (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/7-common-woodpeckers-in-maryland-pictures-and-identification/">7 Common Woodpeckers in Maryland (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/7-common-woodpeckers-in-maryland-pictures-and-identification/>
+
+---
+
+## How to Grow Black-eyed Susan in Alabama: A Complete Guide
+
+date: 2025-07-01, from: Yard Life blog
+
+<p>Black-eyed Susan is one of the most beloved wildflowers that thrive beautifully in Alabama’s unique climate. With its vibrant yellow ... </p>
+<p class="read-more-container"><a title="How to Grow Black-eyed Susan in Alabama: A Complete Guide" class="read-more button" href="https://ownyardlife.com/how-to-grow-black-eyed-susan-in-alabama-a-complete-guide/#more-31531" aria-label="Read more about How to Grow Black-eyed Susan in Alabama: A Complete Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-to-grow-black-eyed-susan-in-alabama-a-complete-guide/">How to Grow Black-eyed Susan in Alabama: A Complete Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-to-grow-black-eyed-susan-in-alabama-a-complete-guide/>
+
+---
+
+## How to Grow Sunflowers from Seed Successfully in Kansas
+
+date: 2025-07-01, from: Yard Life blog
+
+<p>Sunflowers are one of the most iconic and beloved garden flowers in Kansas. Their bright yellow petals and towering stalks ... </p>
+<p class="read-more-container"><a title="How to Grow Sunflowers from Seed Successfully in Kansas" class="read-more button" href="https://ownyardlife.com/how-to-grow-sunflowers-from-seed-successfully-in-kansas/#more-31524" aria-label="Read more about How to Grow Sunflowers from Seed Successfully in Kansas">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-to-grow-sunflowers-from-seed-successfully-in-kansas/">How to Grow Sunflowers from Seed Successfully in Kansas</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-to-grow-sunflowers-from-seed-successfully-in-kansas/>
+
+---
+
+## How to Grow Tulips in Washington from Bulb to Bloom
+
+date: 2025-07-01, from: Yard Life blog
+
+<p>Tulips are one of the most beloved spring flowers, and in the state of Washington, they flourish with stunning brilliance. ... </p>
+<p class="read-more-container"><a title="How to Grow Tulips in Washington from Bulb to Bloom" class="read-more button" href="https://ownyardlife.com/how-to-grow-tulips-in-washington-from-bulb-to-bloom/#more-31519" aria-label="Read more about How to Grow Tulips in Washington from Bulb to Bloom">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-to-grow-tulips-in-washington-from-bulb-to-bloom/">How to Grow Tulips in Washington from Bulb to Bloom</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-to-grow-tulips-in-washington-from-bulb-to-bloom/>
+
+---
+
+## 26 Warblers in Georgia (With Pictures and Identification)
+
+date: 2025-07-01, from: Yard Life blog
+
+<p>Georgia is a fantastic destination for birdwatchers, especially during migration seasons when a dazzling variety of warblers pass through the ... </p>
+<p class="read-more-container"><a title="26 Warblers in Georgia (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/26-warblers-in-georgia-with-pictures-and-identification/#more-31506" aria-label="Read more about 26 Warblers in Georgia (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/26-warblers-in-georgia-with-pictures-and-identification/">26 Warblers in Georgia (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/26-warblers-in-georgia-with-pictures-and-identification/>
+
+---
+
+## 25 Backyard Birds in Florida (With Pictures and Identification)
+
+date: 2025-07-01, from: Yard Life blog
+
+<p>Florida’s warm climate and diverse habitats make it a haven for birdlife, especially in residential areas. From colorful songbirds to ... </p>
+<p class="read-more-container"><a title="25 Backyard Birds in Florida (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/25-backyard-birds-in-florida-with-pictures-and-identification/#more-31496" aria-label="Read more about 25 Backyard Birds in Florida (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/25-backyard-birds-in-florida-with-pictures-and-identification/">25 Backyard Birds in Florida (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/25-backyard-birds-in-florida-with-pictures-and-identification/>
+
+---
+
+## 12 Finches in Michigan (With Pictures and Identification)
+
+date: 2025-07-01, from: Yard Life blog
+
+<p>If you enjoy watching birds flit through trees or gather at feeders, discovering the variety of finches in Michigan can ... </p>
+<p class="read-more-container"><a title="12 Finches in Michigan (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/12-finches-in-michigan-with-pictures-and-identification/#more-31488" aria-label="Read more about 12 Finches in Michigan (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/12-finches-in-michigan-with-pictures-and-identification/">12 Finches in Michigan (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/12-finches-in-michigan-with-pictures-and-identification/>
+
+---
+
+## Map Quest
+
+date: 2025-06-30, from: California Native Plants Society
+
+<p>How CNPS is working with partners to map millions of acres of vegetation in California—a vital tool in a long-term conservation effort within the state.</p>
+<p>The post <a href="https://www.cnps.org/flora-magazine/vegetation-mapping-native-plants-43765">Map Quest</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/flora-magazine/vegetation-mapping-native-plants-43765>
+
+---
+
+## California Court Strikes Down Dangerous Development in Wildfire Zone
+
+date: 2025-06-30, from: California Native Plants Society
+
+<p>The ruling affirms that the county violated state law by failing to thoroughly analyze and reduce climate and wildfire risk when approving Tejon Ranchcorp’s Centennial. </p>
+<p>The post <a href="https://www.cnps.org/news-releases/california-court-strikes-down-dangerous-development-in-wildfire-zone-43893">California Court Strikes Down Dangerous Development in Wildfire Zone</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/news-releases/california-court-strikes-down-dangerous-development-in-wildfire-zone-43893>
 
 ---
 
@@ -100,6 +233,30 @@ Edgar Tafel worked on Fallingwater before he devised the 1949 Bookstaber House, 
 <br> 
 
 <https://www.dwell.com/article/bookstaber-house-edgar-tafel-upstate-new-york-real-estate-feeb9e57>
+
+---
+
+## Booking a Hotel? 5 Red Flags You Should Never Overlook
+
+date: 2025-06-30, from: Sunset Magazine - Living in the West
+
+Choosing the right hotel can make or break your vacation. Travel experts share the red flags to look for when booking a hotel. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels/hotel-booking-red-flags>
+
+---
+
+## Here’s Exactly How to Beat Fourth of July Holiday Traffic (Plus Other Essential Travel Tips)
+
+date: 2025-06-30, from: Sunset Magazine - Living in the West
+
+These are the busiest and best times to be on the road for the 4th of July holiday in 2025, plus other essential travel tips. 
+
+<br> 
+
+<https://www.sunset.com/travel/worst-time-to-drive-july-4th-2025>
 
 ---
 

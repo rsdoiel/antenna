@@ -1,11 +1,137 @@
 ---
 title: socal north
-updated: 2025-06-30 14:07:51
+updated: 2025-07-01 06:08:49
 ---
 
 # socal north
 
-(date: 2025-06-30 14:07:51)
+(date: 2025-07-01 06:08:49)
+
+---
+
+## Volunteer historians are racing to record the stories and voices of Eaton Fire survivors
+
+date: 2025-07-01, updated: 2025-07-01, from: The LAist
+
+The Altadena Historical Society, responding to the loss of photos and heirlooms, launches an oral history project for fire survivors. 
+
+<br> 
+
+<https://laist.com/news/volunteer-historians-are-racing-to-record-the-stories-and-voices-of-eaton-fire-survivors>
+
+---
+
+## Big Bear’s July 4th fireworks show will go on despite concerns from bald eagle fans
+
+date: 2025-07-01, updated: 2025-07-01, from: The LAist
+
+Visit Big Bear, the event co-organizer, said it’s deeply committed to balancing the desires of the local community with the natural environment. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/big-bear-july-4th-fireworks-show-bald-eagle-concerns>
+
+---
+
+## Your guide to safely enjoying fireworks in SoCal
+
+date: 2025-07-01, updated: 2025-07-01, from: The LAist
+
+All you need to know about how to enjoy the “rocket’s red glare” safely this Fourth of July. 
+
+<br> 
+
+<https://laist.com/news/firework-safety-guide-socal>
+
+---
+
+## LA's new budget kicks in today. Here's what your tax dollars are paying for
+
+date: 2025-07-01, updated: 2025-07-01, from: The LAist
+
+Use our calculator to see how your money breaks down in the new city budget. 
+
+<br> 
+
+<https://laist.com/news/politics/la-new-budget-kicks-in-your-tax-dollars>
+
+---
+
+## Port of L.A. officials worry the return of high tariffs next week could weaken regional economy
+
+date: 2025-06-30, updated: 2025-06-30, from: The LAist
+
+Volume of business at the Port of L.A. complex was down 20% in May, compared with the previous month. 
+
+<br> 
+
+<https://laist.com/news/port-of-l-a-officials-worry-the-return-of-high-tariffs-next-week-could-weaken-regional-economy>
+
+---
+
+## LA fire property owners who chose to clear debris themselves must have it completed — or face consequences
+
+date: 2025-06-30, updated: 2025-06-30, from: The LAist
+
+They were given until June 30 to have it done. Roughly 2,000 property owners declined to join the program. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-county-fire-debris-removal-program-opt-out-deadline>
+
+---
+
+## LA City Council votes to extend contract for renter aid days before expiration
+
+date: 2025-06-30, updated: 2025-06-30, from: The LAist
+
+Legal aid and rent relief for L.A. tenants facing eviction is set to continue after the City Council voted to temporarily extend a contract the city attorney refused to sign. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-city-council-attorney-stay-housed-renter-tenant-legal-aid-contract-extension>
+
+---
+
+## Man killed in shooting near Davenport Park
+
+date: 2025-06-30, from: Longbeach Post
+
+<figure><img width="900" height="600" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3.png 900w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-300x200.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-768x512.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-162x108.png 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/06135246/police-lights-3-400x267.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The identity of the victim is being withheld pending notification of the next of kin by the Los Angeles County Department of the Medical Examiner.</p>
+<p>The post <a href="https://lbpost.com/news/man-killed-in-shooting-near-davenport-park">Man killed in shooting near Davenport Park</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/man-killed-in-shooting-near-davenport-park>
+
+---
+
+## Woman killed in fatal collision in North Long Beach
+
+date: 2025-06-30, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Long Beach police said the woman, 78, was struck by a 2005 Dodge Ram pickup being driven by a 38-year-old resident of Long Beach who was traveling north on Orange Avenue.</p>
+<p>The post <a href="https://lbpost.com/news/woman-killed-in-fatal-collision-in-north-long-beach">Woman killed in fatal collision in North Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/woman-killed-in-fatal-collision-in-north-long-beach>
+
+---
+
+## Pollution from wildfires can contaminate our water for up to 8 years, study finds
+
+date: 2025-06-30, updated: 2025-06-30, from: The LAist
+
+An analysis of 500 watersheds found levels of organic carbon, phosphorus, and other pollutants up to 103 times higher after a wildfire. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/pollution-from-wildfires-can-contaminate-our-water-for-up-to-8-years-study-finds>
 
 ---
 
@@ -27,7 +153,7 @@ date: 2025-06-30, from: City of Santa Clarita
 
 date: 2025-06-30, from: Longbeach Post
 
-<figure><img width="1024" height="637" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-1024x637.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-1024x637.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-300x187.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-768x478.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-173x108.jpg 173w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-400x249.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="637" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-1024x637.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-1024x637.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-300x187.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-768x478.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-173x108.jpg 173w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-400x249.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Belmont Shore will stage men’s and women’s windsurfing, as well as men’s and women’s kite surfing. </p>
 <p>The post <a href="https://lbpost.com/news/olympic-sailing-events-to-be-split-between-long-beach-san-pedro">Olympic sailing events to be split between Long Beach, San Pedro </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -92,7 +218,7 @@ No immediate hike in gas prices will occur. But Democrats and Republicans in the
 
 date: 2025-06-30, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1536x1025.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1568x1046.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1536x1025.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-1568x1046.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/19200152/060825-seiu-ice-protest-ts-29-980816-lsxolpow-118723-Olfc2jIP.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The lawsuit contends that the sanctuary laws — in which local law enforcement officials refuse to assist immigration enforcement efforts — are illegal. </p>
 <p>The post <a href="https://lbpost.com/news/trump-administration-sues-los-angeles-over-sanctuary-city-policy">Trump Administration sues Los Angeles over &#8216;sanctuary city&#8217; policy</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

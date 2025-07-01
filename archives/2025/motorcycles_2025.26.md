@@ -1,11 +1,73 @@
 ---
 title: motorcycles
-updated: 2025-06-30 14:07:58
+updated: 2025-07-01 06:08:56
 ---
 
 # motorcycles
 
-(date: 2025-06-30 14:07:58)
+(date: 2025-07-01 06:08:56)
+
+---
+
+## The Outdoor Community Came Together and Beat D.C. Politics, Remember That on the Trail
+
+date: 2025-07-01, from: Ride Apart, Electric Motorcycle News
+
+We all love the outdoors, just differently.  
+
+<br> 
+
+<https://www.rideapart.com/news/764283/public-lands-sell-off-defeated-mike-lee-trail-etiquette/>
+
+---
+
+## Netherlands Reinstates EV Motorcycle Incentives After Mistakenly Scrapping Them
+
+date: 2025-07-01, from: Ride Apart, Electric Motorcycle News
+
+It didn’t take long for someone to realize a big mistake had been made. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/764221/netherlands-ev-motorcycle-incentives-reinstated/>
+
+---
+
+## Aprilia’s New RS 125 GP Replica Is Probably the Most Advanced Small Bike Ever
+
+date: 2025-07-01, from: Ride Apart, Electric Motorcycle News
+
+But I'd still take the same model from two decades ago over this—easy choice. 
+
+<br> 
+
+<https://www.rideapart.com/news/764147/2026-aprilia-rs-125-gp-replica-specs-price/>
+
+---
+
+## Wait What, There’s An Even More Affordable Small Displacement Triumph?
+
+date: 2025-07-01, from: Ride Apart, Electric Motorcycle News
+
+It’s called the Triumph Speed T4, and no, we can’t buy it—at least not yet. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/764213/triumph-speed-t4-exclusive-india/>
+
+---
+
+## Digital hygiene: Emails
+
+date: 2025-07-01, from: Herman Bear Blog
+
+Email is your most important online account, so keep it clean. 
+
+<br> 
+
+<https://herman.bearblog.dev/digital-hygiene-emails/>
 
 ---
 

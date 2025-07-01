@@ -1,11 +1,164 @@
 ---
 title: snapshots
-updated: 2025-06-30 14:08:03
+updated: 2025-07-01 06:09:01
 ---
 
 # snapshots
 
-(date: 2025-06-30 14:08:03)
+(date: 2025-07-01 06:09:01)
+
+---
+
+## REDMAGIC Astra Gaming Tablet has a 165 Hz OLED display, Snapdragon 8 Elite, and up to 24GB RAM
+
+date: 2025-07-01, from: Liliputing
+
+<p>After launching in China last month, the REDMAGIC Astra Gaming Tablet is getting a global launch this month. The tablet has a 9.06 inch, 2400 x 1504 pixel OLED display, a Qualcomm Snapdragon 8 Elite processor, and a cooling system that includes liquid metal and a 20,000 RPM fan to help keep the system from [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/redmagic-astra-gaming-tablet-has-a-165-hz-oled-display-snapdragon-8-elite-and-up-to-24gb-ram/">REDMAGIC Astra Gaming Tablet has a 165 Hz OLED display, Snapdragon 8 Elite, and up to 24GB RAM</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/redmagic-astra-gaming-tablet-has-a-165-hz-oled-display-snapdragon-8-elite-and-up-to-24gb-ram/>
+
+---
+
+## Republicans Beware: Medicaid Is Not a Soft Target
+
+date: 2025-07-01, from: Paul Krugman
+
+America&#8217;s health backstop is more popular than ever 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/republicans-beware-medicaid-is-not>
+
+---
+
+## June newsletter for sponsors has been sent
+
+date: 2025-07-01, updated: 2025-07-01, from: Simon Willison’s Weblog
+
+<p>I just sent out the second edition of my <a href="https://simonwillison.net/2025/May/25/sponsors-only-newsletter/">sponsors only monthly newsletter</a>. Anyone who sponsors me for <a href="https://github.com/sponsors/simonw/">$10/month or more on GitHub</a> gets this carefully hand-curated summary of the last month in AI/LLMs/my projects designed to be readable in ten minutes or less.</p>
+<p>My <a href="https://simonw.substack.com/">regular newsletter</a> remains free - the monthly one is the only paywalled content I produce, the idea being that you can <strong>pay me to send you less</strong>.</p>
+<p>Here's <a href="https://gist.github.com/simonw/07eb3f32bad5b9f21b4e65f86327e302">the first edition for May 2025</a> as a preview of what you can expect. You'll get access to the June digest and the full archive automatically if you decide to start sponsoring.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/newsletter">newsletter</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/1/monthly/#atom-everything>
+
+---
+
+## Using Claude Code to build a GitHub Actions workflow
+
+date: 2025-07-01, updated: 2025-07-01, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.youtube.com/watch?v=VC6dmPcin2E">Using Claude Code to build a GitHub Actions workflow</a></strong></p>
+I wanted to add a small feature to one of my GitHub repos - an automatically updated README index listing other files in the repo - so I decided to use <a href="https://www.descript.com/">Descript</a> to record my process using Claude Code. Here's a 7 minute video showing what I did.</p>
+<p><lite-youtube videoid="VC6dmPcin2E" js-api="js-api"
+  title=" Using Claude Code to build a GitHub Actions workflow"
+  playlabel="Play:  Using Claude Code to build a GitHub Actions workflow"
+> </lite-youtube></p>
+
+<p>I've been wanting to start producing more video content for a while - this felt like a good low-stakes opportunity to put in some reps.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/screencast">screencast</a>, <a href="https://simonwillison.net/tags/youtube">youtube</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/github-actions">github-actions</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/1/claude-code-github-actions/#atom-everything>
+
+---
+
+## [Updated Deadline: July 15th] 2025-26 DRC Graduate Fellowship Application
+
+date: 2025-06-30, from: Digital Humanities Quarterly News
+
+The Digital Rhetoric Collaborative invites graduate students to apply for our 2025-26 fellowship!&#160; Digital Rhetoric Collaborative (DRC) Graduate Fellows&#160;are graduate students currently doing research in areas of digital rhetoric who seek professional development experience in online publishing with a major university press and a website that serves the community of Computers and Writing. Fellows will [...]
+<p><a href="https://www.digitalrhetoriccollaborative.org/2025/06/30/2025-26-drc-graduate-fellowship-application/" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://www.digitalrhetoriccollaborative.org/2025/06/30/2025-26-drc-graduate-fellowship-application/>
+
+---
+
+## microsoft/vscode-copilot-chat
+
+date: 2025-06-30, updated: 2025-06-30, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/microsoft/vscode-copilot-chat">microsoft/vscode-copilot-chat</a></strong></p>
+As <a href="https://github.com/newsroom/press-releases/coding-agent-for-github-copilot">promised</a> at Build 2025 in May, Microsoft have released the GitHub Copilot Chat client for VS Code under an open source (MIT) license.</p>
+<p>So far this is just the extension that provides the chat component of Copilot, but <a href="https://code.visualstudio.com/blogs/2025/06/30/openSourceAIEditorFirstMilestone">the launch announcement</a> promises that Copilot autocomplete will be coming in the near future:</p>
+<blockquote>
+<p>Next, we will carefully refactor the relevant components of the extension into VS Code core. The <a href="https://marketplace.visualstudio.com/items?itemName=GitHub.copilot">original GitHub Copilot extension</a> that provides inline completions remains closed source -- but in the following months we plan to have that functionality be provided by the open sourced <a href="https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat">GitHub Copilot Chat extension</a>.</p>
+</blockquote>
+<p>I've started spelunking around looking for the all-important prompts. So far the most interesting I've found are in <a href="https://github.com/microsoft/vscode-copilot-chat/blob/v0.29.2025063001/src/extension/prompts/node/agent/agentInstructions.tsx">prompts/node/agent/agentInstructions.tsx</a>, with a <code>&lt;Tag name='instructions'&gt;</code> block that <a href="https://github.com/microsoft/vscode-copilot-chat/blob/v0.29.2025063001/src/extension/prompts/node/agent/agentInstructions.tsx#L39">starts like this</a>:</p>
+<blockquote>
+<p><code>You are a highly sophisticated automated coding agent with expert-level knowledge across many different programming languages and frameworks. The user will ask a question, or ask you to perform a task, and it may require lots of research to answer correctly. There is a selection of tools that let you perform actions or retrieve helpful context to answer the user's question.</code></p>
+</blockquote>
+<p>There are <a href="https://github.com/microsoft/vscode-copilot-chat/blob/v0.29.2025063001/src/extension/prompts/node/agent/agentInstructions.tsx#L54">tool use instructions</a> - some edited highlights from those:</p>
+<blockquote>
+<ul>
+<li><code>When using the ReadFile tool, prefer reading a large section over calling the ReadFile tool many times in sequence. You can also think of all the pieces you may be interested in and read them in parallel. Read large enough context to ensure you get what you need.</code></li>
+<li><code>You can use the FindTextInFiles to get an overview of a file by searching for a string within that one file, instead of using ReadFile many times.</code></li>
+<li><code>Don't call the RunInTerminal tool multiple times in parallel. Instead, run one command and wait for the output before running the next command.</code></li>
+<li><code>After you have performed the user's task, if the user corrected something you did, expressed a coding preference, or communicated a fact that you need to remember, use the UpdateUserPreferences tool to save their preferences.</code></li>
+<li><code>NEVER try to edit a file by running terminal commands unless the user specifically asks for it.</code></li>
+<li><code>Use the ReplaceString tool to replace a string in a file, but only if you are sure that the string is unique enough to not cause any issues. You can use this tool multiple times per file.</code></li>
+</ul>
+</blockquote>
+<p>That file also has separate <a href="https://github.com/microsoft/vscode-copilot-chat/blob/v0.29.2025063001/src/extension/prompts/node/agent/agentInstructions.tsx#L127">CodesearchModeInstructions</a>, as well as a <a href="https://github.com/microsoft/vscode-copilot-chat/blob/v0.29.2025063001/src/extension/prompts/node/agent/agentInstructions.tsx#L160">SweBenchAgentPrompt</a> class with a comment saying that it is "used for some evals with swebench".</p>
+<p>Elsewhere in the code, <a href="https://github.com/microsoft/vscode-copilot-chat/blob/v0.29.2025063001/src/extension/prompt/node/summarizer.ts">prompt/node/summarizer.ts</a> illustrates one of their approaches to <a href="https://simonwillison.net/2025/Jun/29/how-to-fix-your-context/">Context Summarization</a>, with a prompt that looks like this:</p>
+<blockquote>
+<p><code>You are an expert at summarizing chat conversations.</code><br></p>
+<p><code>You will be provided:</code><br></p>
+<p><code>- A series of user/assistant message pairs in chronological order</code><br>
+<code>- A final user message indicating the user's intent.</code><br></p>
+<p><code>[...]</code><br></p>
+<p><code>Structure your summary using the following format:</code><br></p>
+<p><code>TITLE: A brief title for the summary</code><br>
+<code>USER INTENT: The user's goal or intent for the conversation</code><br>
+<code>TASK DESCRIPTION: Main technical goals and user requirements</code><br>
+<code>EXISTING: What has already been accomplished. Include file paths and other direct references.</code><br>
+<code>PENDING: What still needs to be done. Include file paths and other direct references.</code><br>
+<code>CODE STATE: A list of all files discussed or modified. Provide code snippets or diffs that illustrate important context.</code><br>
+<code>RELEVANT CODE/DOCUMENTATION SNIPPETS: Key code or documentation snippets from referenced files or discussions.</code><br>
+<code>OTHER NOTES: Any additional context or information that may be relevant.</code><br></p>
+</blockquote>
+<p><a href="https://github.com/microsoft/vscode-copilot-chat/blob/v0.29.2025063001/src/extension/prompts/node/panel/terminalQuickFix.tsx">prompts/node/panel/terminalQuickFix.tsx</a> looks interesting too, with prompts to help users fix problems they are having in the terminal:</p>
+<blockquote>
+<p><code>You are a programmer who specializes in using the command line. Your task is to help the user fix a command that was run in the terminal by providing a list of fixed command suggestions. Carefully consider the command line, output and current working directory in your response. [...]</code></p>
+</blockquote>
+<p>That file also has <a href="https://github.com/microsoft/vscode-copilot-chat/blob/v0.29.2025063001/src/extension/prompts/node/panel/terminalQuickFix.tsx#L201">a PythonModuleError prompt</a>:</p>
+<blockquote>
+<p><code>Follow these guidelines for python:</code><br>
+<code>- NEVER recommend using "pip install" directly, always recommend "python -m pip install"</code><br>
+<code>- The following are pypi modules: ruff, pylint, black, autopep8, etc</code><br>
+<code>- If the error is module not found, recommend installing the module using "python -m pip install" command.</code><br>
+<code>- If activate is not available create an environment using "python -m venv .venv".</code><br></p>
+</blockquote>
+<p>There's so much more to explore in here. <a href="https://github.com/microsoft/vscode-copilot-chat/blob/v0.29.2025063001/src/extension/xtab/common/promptCrafting.ts#L34">xtab/common/promptCrafting.ts</a> looks like it may be part of the code that's intended to replace Copilot autocomplete, for example.</p>
+<p>The way it handles evals is really interesting too. The code for that lives <a href="https://github.com/microsoft/vscode-copilot-chat/tree/v0.29.2025063001/test">in the test/</a> directory. There's a <em>lot</em> of it, so I engaged Gemini 2.5 Pro to help figure out how it worked:</p>
+<pre><code>git clone https://github.com/microsoft/vscode-copilot-chat
+cd vscode-copilot-chat/chat
+files-to-prompt -e ts -c . | llm -m gemini-2.5-pro -s \
+  'Output detailed markdown architectural documentation explaining how this test suite works, with a focus on how it tests LLM prompts'
+</code></pre>
+<p>Here's <a href="https://github.com/simonw/public-notes/blob/main/vs-code-copilot-evals.md">the resulting generated documentation</a>, which even includes a Mermaid chart (I had to save the Markdown in a regular GitHub repository to get that to render - Gists still don't handle Mermaid.)</p>
+<p>The neatest trick is the way it uses <a href="https://github.com/simonw/public-notes/blob/main/vs-code-copilot-evals.md#the-golden-standard-cached-responses">a SQLite-based caching mechanism</a> to cache the results of prompts from the LLM, which allows the test suite to be run deterministically even though LLMs themselves are famously non-deterministic.
+
+    <p><small></small>Via <a href="https://twitter.com/ashtom/status/1939724483448717369">@ashtom</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/microsoft">microsoft</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/github-copilot">github-copilot</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/vs-code">vs-code</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/evals">evals</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jun/30/vscode-copilot-chat/#atom-everything>
 
 ---
 

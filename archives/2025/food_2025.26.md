@@ -1,11 +1,149 @@
 ---
 title: food
-updated: 2025-06-30 14:08:01
+updated: 2025-07-01 06:08:58
 ---
 
 # food
 
-(date: 2025-06-30 14:08:01)
+(date: 2025-07-01 06:08:58)
+
+---
+
+## No Touching! A Cute New Contactless Thermometer For Your Hot Drinks
+
+date: 2025-07-01, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The S137M is live on Kickstarter now. 
+
+<br> 
+
+<https://sprudge.com/no-touching-a-cute-new-contactless-thermometer-for-your-hot-drinks-363740.html>
+
+---
+
+## Gnocchi Caprese Makes the Most of My Summer Garden
+
+date: 2025-07-01, from: Bon Appetet
+
+July’s Feel-Good Food Plan delivers the best produce of the season right to your al fresco dining table. 
+
+<br> 
+
+<https://www.bonappetit.com/story/feel-good-food-plan-july-2025>
+
+---
+
+## Crispy Gnocchi Caprese
+
+date: 2025-07-01, from: Bon Appetet
+
+The summer salad stalwart gets a makeover. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/crispy-gnocchi-caprese>
+
+---
+
+## Uganda Emerges as Africa’s Top Coffee Exporter
+
+date: 2025-07-01, from: The Fresh Cup
+
+<p>Uganda has almost doubled its coffee production over the past 10 years. In May 2025, the country exported nearly 48,000 tons of coffee, compared to Ethiopia’s almost 43,500 tons, Uganda’s agriculture ministry said in a report.</p>
+<p>The post <a href="https://freshcup.com/uganda-emerges-as-africas-top-coffee-exporter/">Uganda Emerges as Africa’s Top Coffee Exporter</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/uganda-emerges-as-africas-top-coffee-exporter/>
+
+---
+
+## A Crusty Bread Perfect for Beginners (And Everybody)
+
+date: 2025-07-01, from: Bon Appetet
+
+Bake Club is back with Jesse’s no-knead bread studded with jalapeños and cheddar. 
+
+<br> 
+
+<https://www.bonappetit.com/story/bake-club>
+
+---
+
+## Cheddar Jalapeño Bread
+
+date: 2025-07-01, from: Bon Appetet
+
+A homemade loaf featuring a crackly crust, loaded with cheese and plenty of fresh chilis. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/no-knead-cheddar-jalapeno-bread>
+
+---
+
+## Green Chef Review: Simple and Healthy Eating Doesn't Have to Be Boring
+
+date: 2025-07-01, from: Bon Appetet
+
+I tried the certified-organic meal kit for a week. 
+
+<br> 
+
+<https://www.bonappetit.com/story/green-chef-review>
+
+---
+
+## Costco’s Kirkland Ice Cream Bars vs Häagen-Dazs: Which Ones Are Better?
+
+date: 2025-06-30, from: Taste of Home
+
+<p>A cool ice cream bar is a special treat during the hot summer months, so we set out to find the most delicious indulgence from Costco. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/kirkland-ice-cream-bars/">Costco&#8217;s Kirkland Ice Cream Bars vs Häagen-Dazs: Which Ones Are Better?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/kirkland-ice-cream-bars/>
+
+---
+
+## I’ll Be Making Ina Garten’s Vanilla Coffee Shakerato All Summer Long
+
+date: 2025-06-30, from: Taste of Home
+
+<p>The need for a caffeine fix doesn't go away just because the temperatures go up. Ina Garten's vanilla coffee shakerato is the easiest iced coffee to make at home.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ina-garten-vanilla-coffee-shakerato/">I&#8217;ll Be Making Ina Garten&#8217;s Vanilla Coffee Shakerato All Summer Long</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ina-garten-vanilla-coffee-shakerato/>
+
+---
+
+## Cranberry Curd Tart
+
+date: 2025-06-30, from: Taste of Home
+
+This cranberry curd tart features a nutty pecan-oat crust filled with a vibrant cranberry-orange filling and sparkly sugared cranberries. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cranberry-curd-tart/>
+
+---
+
+## Firecracker Casserole
+
+date: 2025-06-30, from: Taste of Home
+
+As its name implies, this Tex-Mex flavored firecracker casserole is exploding with the spicy, savory flavors of the Southwest. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/firecracker-casserole/>
 
 ---
 
@@ -21,7 +159,7 @@ Dependable, reliable, and virtually indestructible.
 
 ---
 
-## The Sprudge Twenty Class of 2025Presented By Pacific Barista Series
+## The Sprudge Twenty Class of 2025—Presented By Pacific Barista Series
 
 date: 2025-06-30, from: The Sprudge
 
@@ -101,11 +239,23 @@ date: 2025-06-30, from: Irish Food Hub
 
 ---
 
+## Four New World Coffee Champions Crowned in Geneva
+
+date: 2025-06-30, from: Daily Coffee News
+
+<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Latte-Art-620x415.jpg" class="attachment-large size-large wp-post-image" alt="2025 World Latte Art" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Latte-Art-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Latte-Art-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Latte-Art-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Latte-Art-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Latte-Art.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Four new World Coffee Champions were crowned last week in Geneva, Switzerland, following multiple days of competition under the bright lights of the World of Coffee trade event.&#160; As sanctioned... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/06/30/four-new-world-coffee-champions-crowned-in-geneva/>
+
+---
+
 ## Mahlkönig Grows Home With New X64 SD Grinder
 
 date: 2025-06-30, from: Daily Coffee News
 
-<div><img width="620" height="406" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-620x406.jpg" class="attachment-large size-large wp-post-image" alt="Mahlkönig X64 SD &#8211; Mood 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-620x406.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-300x196.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-150x98.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-768x503.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; German commercial coffee grinder maker Mahlkönig recently unveiled its second machine designed for home use, the Mahlkönig X64 SD. Quietly introduced at recent Mahlkönig branded events and then launched... 
+<div><img width="620" height="406" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-620x406.jpg" class="attachment-large size-large wp-post-image" alt="Mahlkönig X64 SD &#8211; Mood 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-620x406.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-300x196.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-150x98.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2-768x503.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Mahlkonig-X64-SD-Mood-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; German commercial coffee grinder maker Mahlkönig recently unveiled its second machine designed for home use, the Mahlkönig X64 SD. Quietly introduced at recent Mahlkönig branded events and then launched... 
 
 <br> 
 

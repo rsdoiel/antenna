@@ -1,11 +1,154 @@
 ---
 title: columns
-updated: 2025-06-30 14:07:54
+updated: 2025-07-01 06:08:52
 ---
 
 # columns
 
-(date: 2025-06-30 14:07:54)
+(date: 2025-07-01 06:08:52)
+
+---
+
+## My new linkblog feed
+
+date: 2025-07-01, from: Dave Winer's Scripting News
+
+<p>Here's the address of the feed for my linkblog: <a href="https://dave.linkblog.org/">dave.linkblog.org</a>. </p>
+<p>I think it's kind of interesting to have the top page of a site be a feed. I don't hide the XML-ness of it. I never supported the obfuscation, it's confusing, makes people not trust RSS, imho. </p>
+<p>I think the feed is pretty stable now, so if you want to subscribe, go ahead. I haven't redirected from the old feed yet, probably should do that soon, since it more or less has stopped updating. </p>
+<p>This is all managed in <a href="https://wordland.social/">WordLand</a> and therefore is part of the WordPress ecosystem. </p>
+<p>I felt it was time to do a definitive linkblog, since as far as I could tell no one has tried to explain what it is: basically, a feed where the &lt;link> element of each &lt;item> points to some other site. That's the basic difference.  </p>
+<p>Also a linkblog feed should specify the channel-level &lt;image> element, which is used as the avatar for the feed when it appears in a twitter-like timeline.</p>
+<p>I think the only other product that is open to feeds being part of the open social web is <a href="https://about.flipboard.com/press/announcing-surf-the-first-browser-for-the-open-social-web/?utm_source=chatgpt.com">Surf</a> from Mike McCue's company, Flipboard. I asked ChatGPT to <a href="https://chatgpt.com/share/6863cadb-46ec-8012-9ec8-c5e67595f954">brief me</a> on how it works with feeds, and saw that we're more or less doing the same thing, except I'm not trying to work with the output from Twitter, Bluesky, etc. Even when they have outbound RSS feeds they aren't good enough to be part of the social web defined by feeds.</p>
+<p>I only want really good feeds. It's time to stop being so careless about what we transmit to the world. If we want an open web we're all going to have to be good gardeners. It's like a food system where all the food is grown by family farmers and I'm running a restaurant, and only want the good stuff, and we want it to look good too! :-)</p>
+<p>PS: Another thing, the feed items must have working <a href="https://cyber.harvard.edu/rss/rss.html#ltguidgtSubelementOfLtitemgt">guids</a>. All software that runs on feeds should be able to depend on this. </p>
+<p>PPS: Linkblogs aren't the only kinds of feeds that will be used in this RSS-based feediverse. Scripting News will work with it. You would be able to read this post in this new medium (not yet delivered, btw).</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/01/114429.html?title=myNewLinkblogFeed>
+
+---
+
+## It’s US publication day for Face with Tears of Joy!
+
+date: 2025-07-01, from: Shady Characters blog
+
+<p>It’s publication day! <cite>Face with Tears of Joy: A Natural History of Emoji</cite> is published today in the <abbr class="initialism">USA</abbr>.  You can order a copy from <a href="https://wwnorton.com/books/9781324075158">Norton</a>, <a href="https://www.amazon.com/Face-Tears-Joy-Natural-History/dp/1324075147/">Amazon.com</a>, <a href="https://www.barnesandnoble.com/w/face-with-tears-of-joy-keith-houston/1146267808">Barnes &#38; Noble</a>, <a href="https://www.booksamillion.com/p/Face-Tears-Joy/Keith-Houston/9781324075141">Books A Million</a>, <a href="https://bookshop.org/p/books/face-with-tears-of-joy-a-natural-history-of-emoji/b7e482367ef72daf">Bookshop.org</a>, <a href="https://www.hudsonbooksellers.com/book/9781324075141">Hudson</a>, <a href="https://www.powells.com/book/face-with-tears-of-joy-9781324075141">Powell’s</a>,  or <a href="https://www.walmart.com/ip/Face-with-Tears-of-Joy-A-Natural-History-of-Emoji-Paperback-9781324075141/11400706311">Walmart</a>.</p><a class="more-link" href="https://shadycharacters.co.uk/2025/07/us-publication-face-with-tears-of-joy/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/07/us-publication-face-with-tears-of-joy/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-01, from: Dave Winer's Scripting News)
+
+The <a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2025/06.opml">archived source</a> for June 2025. 
+
+<br> 
+
+<http://scripting.com/2025/07/01.html#a112531>
+
+---
+
+## Linus Torvalds hints Bcachefs may get dropped from the Linux kernel
+
+date: 2025-07-01, updated: 2025-07-01, from: Liam Proven's articles at the Register
+
+<h4>Kernel 6.16 may be the last with the new disk format</h4>
+      <p>The geek titans are clashing once again, and Linux supremo Linus Torvalds has warned: &#34;I think we&#39;ll be parting ways&#34; as of kernel 6.17.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/01/bcachefs_may_get_dropped/>
+
+---
+
+## Iranian Blackout Affected Misinformation Campaigns
+
+date: 2025-07-01, updated: 2025-06-30, from: Bruce Schneier blog
+
+<p>Dozens of accounts on X that promoted Scottish independence <a href="https://www.scottishdailyexpress.co.uk/news/politics/iranian-pro-scottish-independence-accounts-35450209">went dark</a> during an internet blackout in Iran.</p>
+<p>Well, that&#8217;s one way to identify fake accounts and misinformation campaigns.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/07/iranian-blackout-affected-misinformation-campaigns.html>
+
+---
+
+## Trump, Musk, Republicans, and the Empathy Bug
+
+date: 2025-07-01, from: Robert Reich's blog
+
+The real crisis we are living through 
+
+<br> 
+
+<https://robertreich.substack.com/p/trump-musk-and-the-empathy-bug>
+
+---
+
+## June 30, 2025
+
+date: 2025-07-01, from: Heather Cox Richardson blog
+
+"This is the most deeply immoral piece of legislation I have ever voted on in my entire time in Congress,&#8221; said Senator Chris Murphy (D-CT). 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-30-2025>
+
+---
+
+## What Founders Can Learn From Topaz Labs
+
+date: 2025-06-30, from: Om Malik blog
+
+I recently interviewed Eric Yang,&#160;the&#160;chief executive officer of Dallas, Texas-based visual AI&#160;company&#160;Topaz&#160;Labs,&#160;for my newsletter, CrazyStupidTech. His father,&#160;Albert,&#160;started the business. The company stands in sharp contrast to our&#160;valuation-obsessed&#160;startup culture known for blitzscaling, infinite venture&#160;funding,&#160;and hypergrowth. Topaz is bootstrapped and has quietly built a $48 million business by breaking nearly every Silicon Valley rule. Here are some &#8230; 
+
+<br> 
+
+<https://om.co/2025/06/30/what-founder-can-learn-from-topaz-labs/>
+
+---
+
+## The Talk Show: ‘The Cutting Edge Latest Supermodel’
+
+date: 2025-06-30, updated: 2025-06-30, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/thetalkshow/2025/06/30/ep-426>
+
+---
+
+##  Great Art Explained: Jackson Pollock 
+
+date: 2025-06-30, updated: 2025-06-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/great-art-explained-jackson-pollock>
+
+---
+
+##  A decade-plus in the making and now on Kickstarter: a book of... 
+
+date: 2025-06-30, updated: 2025-06-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/06/0047047-a-decade-plus-in-the-maki>
 
 ---
 

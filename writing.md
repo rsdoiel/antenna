@@ -1,11 +1,36 @@
 ---
 title: writing
-updated: 2025-06-30 14:07:55
+updated: 2025-07-01 06:08:53
 ---
 
 # writing
 
-(date: 2025-06-30 14:07:55)
+(date: 2025-07-01 06:08:53)
+
+---
+
+## Issue 774 Table of Contents, July 2025
+
+date: 2025-07-01, from: Locus Magazine
+
+<p>The July 2025 issue of Locus has interviews with Fran Wilde and H.E. Edgmon. News includes the 2025 Locus Awards winners and Locus Poll writeup, as well as the Nebula and Bram Stoker Awards winners, Ignyte and Sturgeon Award finalists, Clarion West&#8217;s announcement that it will host in-person summer camps for teens, and much more. The SFWA Nebula Conference and WisCon 47 are covered with reports and photos. Obituaries remember  <a href="https://locusmag.com/2025/07/issue-774-table-of-contents-july-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/issue-774-table-of-contents-july-2025/>
+
+---
+
+## Constructing a great action sequence
+
+date: 2025-06-30, from: John August blog
+
+<p>On Scriptnotes, we often explore craft topics, looking at the specific choices writers make on the page. But there&#8217;s an obvious challenge when discussing visual storytelling in an audio medium. That&#8217;s why for the most recent Scripnotes video, I wanted to revisit my conversation with Christina Hodson on writing action sequences. In this new format, [&#8230;]</p>
+The post <a href="https://johnaugust.com/2025/constructing-a-great-action-sequence">Constructing a great action sequence</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/constructing-a-great-action-sequence>
 
 ---
 

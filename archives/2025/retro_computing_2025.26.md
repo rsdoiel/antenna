@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-06-30 14:07:59
+updated: 2025-07-01 06:08:56
 ---
 
 # retro computing
 
-(date: 2025-06-30 14:07:59)
+(date: 2025-07-01 06:08:56)
+
+---
+
+## Seawell Little Motherboard
+
+date: 2025-07-01, from: Hans Otten's Retro blog
+
+I have added some photos from a Seawell Little Mother Board and Seawall SRAM card on the Seawell page. KIM-1 SYM_1 and AIM 65 expansion boards. See also:Focal-65 V3D for TIM and KIM-1Focal on the 6502, a page on this small language, originating for Digital Equipment. A small interpreter (about 5K) for...John Bell Engineering catalogsThanks [&#8230;] 
+
+<br> 
+
+<http://retro.hansotten.nl/seawell-little-motherboard/>
 
 ---
 
@@ -21,7 +33,7 @@ date: 2025-06-30, from: Linux Magazine
 
 ---
 
-## WROCC July 2025 talk on Wednesday
+## WROCC July 2025 talk on Wednesday with RISCOSbits
 
 date: 2025-06-30, from: Icon Bar, RISC OS News
 
