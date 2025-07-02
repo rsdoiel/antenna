@@ -1,11 +1,171 @@
 ---
 title: food
-updated: 2025-07-02 06:08:39
+updated: 2025-07-02 14:07:18
 ---
 
 # food
 
-(date: 2025-07-02 06:08:39)
+(date: 2025-07-02 14:07:18)
+
+---
+
+## Inside The Fancy Food Show, Where Grocery Stores Select Their Best Snacks
+
+date: 2025-07-02, from: Bon Appetet
+
+At the Comic Con of snacks, we track down the latest in sweet treats, sauces, and drinks. 
+
+<br> 
+
+<https://www.bonappetit.com/story/summer-fancy-food-show-2025>
+
+---
+
+## Julianne Moore’s Favorite Comfort Food Is a Classic One-Pan Meal
+
+date: 2025-07-02, from: Taste of Home
+
+<p>A winning meal from an award-winning actor.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/julianne-moore-favorite-food/">Julianne Moore’s Favorite Comfort Food Is a Classic One-Pan Meal</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/julianne-moore-favorite-food/>
+
+---
+
+## 46 Best Early Prime Day Kitchen Deals on Amazon 2025
+
+date: 2025-07-02, from: Bon Appetet
+
+Replace your worn-out kitchen towels, send your dad an espresso machine, and finally get that Vitamix you’ve been coveting. 
+
+<br> 
+
+<https://www.bonappetit.com/story/early-amazon-prime-day-kitchen-deals-2025-07-02>
+
+---
+
+## Chocolate Mousse
+
+date: 2025-07-02, from: Bon Appetet
+
+A splash of espresso or strong coffee makes this chocolaty dessert all the richer. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/chocolate-mousse>
+
+---
+
+## “The Bear” Now Features A Coffee Program (And We Have Questions)
+
+date: 2025-07-02, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A frustratingly accurate depiction of coffee at high-end restaurants. 
+
+<br> 
+
+<https://sprudge.com/the-bear-now-features-a-coffee-program-and-we-have-questions-366199.html>
+
+---
+
+## LDC Inaugurates Expanded Green Coffee Center in Minas Gerais
+
+date: 2025-07-02, from: Daily Coffee News
+
+<div><img width="620" height="431" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/LDC-Brazil-coffee-processing-center-620x431.jpg" class="attachment-large size-large wp-post-image" alt="LDC Brazil coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/LDC-Brazil-coffee-processing-center-620x431.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/LDC-Brazil-coffee-processing-center-300x209.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/LDC-Brazil-coffee-processing-center-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/LDC-Brazil-coffee-processing-center-768x534.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/LDC-Brazil-coffee-processing-center.jpg 1006w" sizes="(max-width: 620px) 100vw, 620px" /></div>Louis Dreyfus Company (LDC) officially inaugurated its expanded green coffee processing facility in Varginha, Minas Gerais, completing a major investment in the company’s longstanding Brazilian coffee operations. The expansion adds... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/02/ldc-inaugurates-expanded-green-coffee-center-in-minas-gerais/>
+
+---
+
+## It's the Summer of Two-Ingredient Cocktails
+
+date: 2025-07-02, from: Bon Appetet
+
+There is a time and a place for a fussy beverage, but not in this economy. 
+
+<br> 
+
+<https://www.bonappetit.com/story/its-the-summer-of-two-ingredient-cocktails>
+
+---
+
+## The Easiest Veggie Burger Is a Juicy Slice of Tomato
+
+date: 2025-07-02, from: Bon Appetet
+
+Hold the beef. With summer produce, it’s unneeded. 
+
+<br> 
+
+<https://www.bonappetit.com/story/tomato-burger-no-beef>
+
+---
+
+## Archer & Co. Aims for the Hearts of Northern Kentucky Coffee Drinkers
+
+date: 2025-07-02, from: Daily Coffee News
+
+<div><img width="620" height="403" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Archer-and-Co-Coffee-Hebron-1-620x403.jpeg" class="attachment-large size-large wp-post-image" alt="Archer and Co Coffee Hebron 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Archer-and-Co-Coffee-Hebron-1-620x403.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Archer-and-Co-Coffee-Hebron-1-300x195.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Archer-and-Co-Coffee-Hebron-1-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Archer-and-Co-Coffee-Hebron-1-768x499.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Archer-and-Co-Coffee-Hebron-1.jpeg 1005w" sizes="(max-width: 620px) 100vw, 620px" /></div>A trio of women in Hebron, Kentucky, decided to shoot their shot with the launch of Archer &#38; Co. Roasters, a new small-batch direct-to-consumer and wholesale roasting company.&#160; Launched last... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/02/archer-co-aims-for-the-hearts-of-northern-kentucky-coffee-drinkers/>
+
+---
+
+## Seltzer Water vs. Club Soda vs. Tonic Water: What’s the Difference?
+
+date: 2025-07-02, from: Taste of Home
+
+<p>It's easy to confuse these bubbly beverages. Here's what makes each one unique, and the best time to use each one.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/seltzer-water-vs-club-soda-vs-tonic-water/">Seltzer Water vs. Club Soda vs. Tonic Water: What&#8217;s the Difference?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/seltzer-water-vs-club-soda-vs-tonic-water/>
+
+---
+
+## Build-Outs Of Coffee: Night Swim Coffee In Charlotte, NC
+
+date: 2025-07-02, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Night Swim Coffee in Charlotte, North Carolina. 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-night-swim-coffee-in-charlotte-nc-341515.html>
+
+---
+
+## The Best Cookbooks of Summer 2025
+
+date: 2025-07-02, from: Bon Appetet
+
+Here are the titles we’re keeping cracked in our own kitchens—recipes included. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-cookbooks-summer-2025>
+
+---
+
+## JDE Peet’s Execs Outline New Direction for Peet’s Coffee in the U.S.
+
+date: 2025-07-02, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-beans-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee beans" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-beans-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-beans-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-beans-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-beans-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-beans.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>At an investor conference today in Amsterdam, executives from the multinational coffee conglomerate JDE Peet&#8217;s outlined a new vision for California-based Peet&#8217;s Coffee, focusing on omni-channel growth above concepts such... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/02/jde-peets-execs-outline-new-direction-for-peets-coffee-in-the-u-s/>
 
 ---
 
@@ -133,7 +293,7 @@ These grills are worth lighting up.
 
 date: 2025-07-01, from: Daily Coffee News
 
-<div><img width="620" height="398" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/HB-Gold-Bar-St-Pete-620x398.jpg" class="attachment-large size-large wp-post-image" alt="HB Gold Bar St Pete" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/HB-Gold-Bar-St-Pete-620x398.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/HB-Gold-Bar-St-Pete-300x193.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/HB-Gold-Bar-St-Pete-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/HB-Gold-Bar-St-Pete-768x493.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/HB-Gold-Bar-St-Pete.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Craft coffee roaster Hogg Batch Coffee is setting a high standard with its first cafe in St. Petersburg, Florida, called the HB Gold Bar. Elevated both stylistically and physically,... 
+<div><img width="620" height="398" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/HB-Gold-Bar-St-Pete-620x398.jpg" class="attachment-large size-large wp-post-image" alt="HB Gold Bar St Pete" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/HB-Gold-Bar-St-Pete-620x398.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/HB-Gold-Bar-St-Pete-300x193.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/HB-Gold-Bar-St-Pete-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/HB-Gold-Bar-St-Pete-768x493.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/HB-Gold-Bar-St-Pete.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Craft coffee roaster Hogg Batch Coffee is setting a high standard with its first cafe in St. Petersburg, Florida, called the HB Gold Bar. Elevated both stylistically and physically,... 
 
 <br> 
 
@@ -145,7 +305,7 @@ date: 2025-07-01, from: Daily Coffee News
 
 date: 2025-07-01, from: Daily Coffee News
 
-<div><img width="620" height="376" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/green-coffee-sacks-1-620x376.jpg" class="attachment-large size-large wp-post-image" alt="green coffee sacks" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/green-coffee-sacks-1-620x376.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/green-coffee-sacks-1-300x182.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/green-coffee-sacks-1-150x91.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/green-coffee-sacks-1-768x466.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/green-coffee-sacks-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A federal judge in Florida issued a $31 million judgment in favor of green coffee trader Neumann Gruppe USA Inc. after hundreds of containers of green coffee from Nicaragua were... 
+<div><img width="620" height="376" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/green-coffee-sacks-1-620x376.jpg" class="attachment-large size-large wp-post-image" alt="green coffee sacks" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/green-coffee-sacks-1-620x376.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/green-coffee-sacks-1-300x182.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/green-coffee-sacks-1-150x91.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/green-coffee-sacks-1-768x466.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/green-coffee-sacks-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A federal judge in Florida issued a $31 million judgment in favor of green coffee trader Neumann Gruppe USA Inc. after hundreds of containers of green coffee from Nicaragua were... 
 
 <br> 
 
@@ -169,7 +329,7 @@ date: 2025-07-01, from: The Sprudge
 
 date: 2025-07-01, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Seattle-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Seattle" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Seattle-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Seattle-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Seattle-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Seattle-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Seattle.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The owners of a Seattle-based cold brew brand called Seattle Strong are fighting back in a trademark dispute with Swiss multinational food giant Nestlé, owner of the Seattle&#8217;s Best Coffee... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Seattle-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Seattle" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Seattle-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Seattle-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Seattle-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Seattle-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Seattle.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The owners of a Seattle-based cold brew brand called Seattle Strong are fighting back in a trademark dispute with Swiss multinational food giant Nestlé, owner of the Seattle&#8217;s Best Coffee... 
 
 <br> 
 

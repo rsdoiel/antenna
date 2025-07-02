@@ -1,11 +1,158 @@
 ---
 title: home
-updated: 2025-07-02 06:08:37
+updated: 2025-07-02 14:07:16
 ---
 
 # home
 
-(date: 2025-07-02 06:08:37)
+(date: 2025-07-02 14:07:16)
+
+---
+
+## Discover the Roots of California With Livermore Wine History
+
+date: 2025-07-02, from: California Grown
+
+<p>California wine country evokes images of Napa or Sonoma for most. But to understand the Golden State&#8217;s roots, you&#8217;ll want to learn about Livermore wine history. Set just east of San Francisco, this lesser-known area played a significant role in shaping California&#8217;s winemaking history. It is one of the oldest wine-growing areas in the state, [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/livermore-wine-history/" data-wpel-link="internal" target="_self">Discover the Roots of California With Livermore Wine History</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/livermore-wine-history/>
+
+---
+
+## Ever Hydroplaned? Here’s Why It Happens—and How to Stop It
+
+date: 2025-07-02, from: Family Handyman Blog
+
+<p>If you read any of my articles, you are aware that the tire "contact patch" or the tread area contacting the road is about the size of your palm....</p>
+<p>The post <a href="https://www.familyhandyman.com/article/hydroplaning-safety/">Ever Hydroplaned? Here’s Why It Happens—and How to Stop It</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/hydroplaning-safety/>
+
+---
+
+## Ford Issues “Do Not Drive” Warning on 2,000+ Cars With Risky Brake Defect
+
+date: 2025-07-02, from: Family Handyman Blog
+
+<p>Thousands of Ford vehicles are subject to a "Do Not Drive" order after it was discovered that they have faulty brakes. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/ford-do-not-drive-brakes-recall/">Ford Issues &#8220;Do Not Drive&#8221; Warning on 2,000+ Cars With Risky Brake Defect</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/ford-do-not-drive-brakes-recall/>
+
+---
+
+## Why Does It Feel Like Our Phones Are Eavesdropping?
+
+date: 2025-07-02, from: Family Handyman Blog
+
+<p>If it seems that your phone is listening to your conversations and knows your thoughts, don't worry. It's just AI.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/are-our-phones-listening/">Why Does It Feel Like Our Phones Are Eavesdropping?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/are-our-phones-listening/>
+
+---
+
+## How to Make Homemade Lavender Oil: Easy Step-by-Step Guide
+
+date: 2025-07-02, from: Homestead and Chil
+
+<p>Learn how to make lavender oil with our easy step-by-step guide. All you need is a carrier oil, dry lavender flowers, and a little time! Then you can use homemade lavender oil on it's own (e.g. as moisturizer or massage oil), as an ingredient in DIY skincare products like soap or salve, in culinary creations, and more. </p>
+<p>The post <a href="https://homesteadandchill.com/homemade-lavender-oil/">How to Make Homemade Lavender Oil: Easy Step-by-Step Guide</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/homemade-lavender-oil/>
+
+---
+
+## San Francisco Just Got Its First Floating Sauna. It’s About Time
+
+date: 2025-07-02, from: Dwell
+
+The Bay Area is finally figuring out what Nordic countries have been doing for years, placing community above data-driven contrast therapy. 
+
+<br> 
+
+<https://www.dwell.com/article/san-francisco-first-floating-sauna-fjord-good-hot-alchemy-springs-contrast-therapy-fd61b03f>
+
+---
+
+## Frank Lloyd Wright’s Fountainhead Residence Just Hit the Market in Mississippi for $2.5M
+
+date: 2025-07-02, from: Dwell
+
+The legendary architect designed the Usonian home with cypress interiors, plentiful built-ins, and a copper roof. 
+
+<br> 
+
+<https://www.dwell.com/article/frank-lloyd-wright-fountainhead-jackson-mississippi-real-estate-d6c0aa84>
+
+---
+
+## We Tried Lloyd from Solo Stove: This Indoor/Outdoor Fireplace is Our New BFF
+
+date: 2025-07-02, from: Family Handyman Blog
+
+<p>We tried Solo Stove’s Lloyd Fireplace, which promises flickering flames and retro charm. Here’s what we thought.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/solo-stove-lloyd-fireplace-review/">We Tried Lloyd from Solo Stove: This Indoor/Outdoor Fireplace is Our New BFF</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/solo-stove-lloyd-fireplace-review/>
+
+---
+
+## This Duplex in Croatia Takes Inspiration From the Eames House
+
+date: 2025-07-02, from: Dwell
+
+A central atrium references that of the famous Los Angeles residence—just one of several ways the building connects with its green city plot. 
+
+<br> 
+
+<https://www.dwell.com/article/double-villa-njiric-arhitekti-duplex-eames-house-inspiration-48126147>
+
+---
+
+## Top 25 Waterfowl in Louisiana (With Pictures and Identification)
+
+date: 2025-07-02, from: Yard Life blog
+
+<p>Louisiana is famous for its vast wetlands, rivers, and coastal marshes that provide ideal homes for many species of waterfowl. ... </p>
+<p class="read-more-container"><a title="Top 25 Waterfowl in Louisiana (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/top-25-waterfowl-in-louisiana-with-pictures-and-identification/#more-31546" aria-label="Read more about Top 25 Waterfowl in Louisiana (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/top-25-waterfowl-in-louisiana-with-pictures-and-identification/">Top 25 Waterfowl in Louisiana (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/top-25-waterfowl-in-louisiana-with-pictures-and-identification/>
+
+---
+
+## Homepage 2025
+
+date: 2025-07-02, from: Sunset Magazine - Living in the West
+
+Decorating &amp; Design, Home Tours This Pacific Northwest Beach Cabin Was Transformed to Withstand Extreme Weather Step inside the stylish space inspired by nature.  Read more: This Pacific Northwest Beach Cabin&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -25,7 +172,7 @@ When a family in Austin needed room to grow, Low Design Office gave them 1,000 s
 
 date: 2025-07-02, from: California Grown
 
-<p>Nestled in the heart of Grover Beach, Okui&#8217;s Strawberry n Fruit Stand is a shining example of the enduring spirit of family farming. With three generations of expertise and a deep-rooted commitment to quality, the Okui family has turned their fruit stand into a Central Coast destination. Their story is one of resilience, evolution, and [&#8230;]</p>
+<p>Nestled in the heart of Grover Beach is Okui&#8217;s Strawberry n Fruit Stand. It is a shining example of the enduring spirit of family farming. With three generations of expertise and a deep-rooted commitment to quality, the Okui family has turned their fruit stand into a Central Coast destination. Their story is one of resilience, [&#8230;]</p>
 <p>The post <a href="https://californiagrown.org/blog/okuis-strawberry-n-fruit-stand/" data-wpel-link="internal" target="_self">Don’t Miss Okui’s Strawberry n Fruit Stand in Grover Beach</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
  
 
@@ -86,6 +233,30 @@ Figuring out gratuity at your hotel can be tricky. Experts share their advice on
 <br> 
 
 <https://www.sunset.com/travel/hotels/how-much-to-tip-at-hotel>
+
+---
+
+## The All-Glass Home of the Artist Behind Obama’s "Hope" Poster Asks $4.6M
+
+date: 2025-07-01, from: Dwell
+
+Shepard Fairey’s L.A. home features a lap pool, wine room, and an 18-foot glass doorway. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-obama-hope-obey-la-real-estate-e85a8f0d>
+
+---
+
+## A New England Shingle-Style Home in Atlanta Seeks $5.3M
+
+date: 2025-07-01, from: Dwell
+
+This expansive wooded retreat offers the tranquility of coastal-inspired living in the heart of the city. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-new-england-atlanta-real-estate-b5c0d009>
 
 ---
 
@@ -201,18 +372,6 @@ Delicious recipes, food and wine pairings, and more ways to savor the West.
 <br> 
 
 <https://www.sunset.com/food-wine>
-
----
-
-## Homepage 2025
-
-date: 2025-07-01, from: Sunset Magazine - Living in the West
-
-Decorating &amp; Design, Home Tours A Tiny Bathroom Felt Like a Dingy Cave—Now It&#8217;s a Colorful, Whimsical Jewel Box Huge design risks paid off here.  Read more: A Tiny Bathroom Felt&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

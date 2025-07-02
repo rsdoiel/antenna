@@ -1,11 +1,173 @@
 ---
 title: north america
-updated: 2025-07-02 06:08:30
+updated: 2025-07-02 14:07:12
 ---
 
 # north america
 
-(date: 2025-07-02 06:08:30)
+(date: 2025-07-02 14:07:12)
+
+---
+
+## Jen Rubin with Rep Jamie Raskin
+
+date: 2025-07-02, from: The Contrarian
+
+A recording from Jennifer Rubin's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167384020/89c04ae6cb06a351cba4e7fada5e4e8b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167384020/89c04ae6cb06a351cba4e7fada5e4e8b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-with-rep-jamie-raskin>
+
+---
+
+## Stop saying 'this isn't who we are'
+
+date: 2025-07-02, from: The Contrarian
+
+What we're seeing now is who we've always been. 
+
+<br> 
+
+<https://contrarian.substack.com/p/stop-saying-this-isnt-who-we-are>
+
+---
+
+## The American people are driven by fairness and decency
+
+date: 2025-07-02, from: The Contrarian
+
+Everyone who has a heart and conscience needs to rail against indecency if we are to retain any semblance of our American ideals. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-american-people-are-driven-by>
+
+---
+
+## Big Tech & The Democratic Backslide (ft. Jen Rubin, Carole Cadwalladr & Yael Eisenstat)
+
+date: 2025-07-02, from: The Contrarian
+
+A recording from Jennifer Rubin and The Citizens's live video 
+
+<br> 
+
+<https://contrarian.substack.com/p/big-tech-and-the-democratic-backslide>
+
+---
+
+## The Big, Bad Bill passed the Senate: Neera Tanden on what's next
+
+date: 2025-07-02, from: The Contrarian
+
+"These people know Trump is asking them to vote for legislation that will hurt their constituents." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167362489/dff4ad409a4a3c817f57a938884075eb.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167362489/dff4ad409a4a3c817f57a938884075eb.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-big-bad-bill-passed-the-senate>
+
+---
+
+## In crackdown on women’s health, the White House gets an assist from legacy media
+
+date: 2025-07-02, from: The Contrarian
+
+When news confusion puts lives at risk 
+
+<br> 
+
+<https://contrarian.substack.com/p/in-crackdown-on-womens-health-the>
+
+---
+
+## ‘It’s Time to Ring the Alarm Bell’
+
+date: 2025-07-02, from: Capital and Main
+
+<p>Labor leaders say a May Supreme Court decision could turn the agency that protects workers into a rubber stamp for President Trump.</p>
+<p>The post <a href="https://capitalandmain.com/its-time-to-ring-the-alarm-bell">‘It’s Time to Ring the Alarm Bell’</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/its-time-to-ring-the-alarm-bell>
+
+---
+
+## Don't be fooled: A national abortion ban is still the GOP goal
+
+date: 2025-07-02, from: The Contrarian
+
+The fight continues to closely track Project 2025&#8217;s plan to eviscerate the right to bodily autonomy across the nation. 
+
+<br> 
+
+<https://contrarian.substack.com/p/dont-be-fooled-a-national-abortion>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-07-02, from: The Contrarian
+
+Wednesday: A large turnout at a town hall in Kansas, budget bill protests in Washington, D.C., and California, planning for July 4 events, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Call Your Representative
+
+date: 2025-07-02, from: The Contrarian
+
+U.S. Capitol switchboard: (202) 224-3121 
+
+<br> 
+
+<https://contrarian.substack.com/p/call-your-representative>
+
+---
+
+## Helping hands
+
+date: 2025-07-02, from: The Contrarian
+
+A cartoon by Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/helping-hands>
+
+---
+
+## Coffee with Contrarians 7/2
+
+date: 2025-07-02, from: The Contrarian
+
+A recording from Coffee with Contrarians LIVE 06/30 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-contrarians-72>
+
+---
+
+## How metaphors catalyze and crystallize anti-immigrant sentiment and policy
+
+date: 2025-07-02, from: The Contrarian
+
+To shift the dialogue, we can open a conversational 'side door' into a topic that Americans typically enter through well-worn partisan arguments. 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-metaphors-catalyze-and-crystallize>
 
 ---
 
@@ -130,18 +292,6 @@ date: 2025-07-01, from: The Lever News
 <br> 
 
 <https://www.levernews.com/why-is-trump-rushing-to-pass-the-tax-cut-bill/>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-07-01, from: The Contrarian
-
-Tuesday: Protests at the Capitol against inhumane budget cuts, protests against 'Alligator Alcatraz' in Florida, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

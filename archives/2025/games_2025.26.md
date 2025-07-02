@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-07-02 06:08:35
+updated: 2025-07-02 14:07:15
 ---
 
 # games
 
-(date: 2025-07-02 06:08:35)
+(date: 2025-07-02 14:07:15)
+
+---
+
+## Despite review bombing, ‘censored’ shooter becomes a Steam top seller
+
+date: 2025-07-02, updated: 2025-07-02, from: Polygon Website
+
+Ready or Not is a tactical shooter that’s been out on Windows PC for a couple of years now, and developer VOID Interactive is currently gearing up for a July 15 release on PlayStation 5 and Xbox Series X. Accordingly, the creators of the game announced on Steam that an update would tweak certain animations [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/610685/ready-or-not-steam-pc-review-bombing-console-certification>
+
+---
+
+## Why Netflix’s Sandman adaptation cut a major plot arc from the comics
+
+date: 2025-07-02, updated: 2025-07-02, from: Polygon Website
+
+Neil Gaiman’s comic book series The Sandman alternates between focusing on Morpheus, the immortal Lord of Dreams, and on humans who encounter him or his immortal siblings. The first season of Netflix’s highly faithful adaptation kept that format — but The Sandman showrunner Allan Heinberg found the structure didn’t resonate with TV viewers the way [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/610668/netflix-sandman-adaptation-game-of-you-cut-interview>
+
+---
+
+## Where to find all Amphoreus nymphs in Honkai: Star Rail
+
+date: 2025-07-02, updated: 2025-07-02, from: Polygon Website
+
+Honkai: Star Rail’s 3.0 update added a new type of collectible to the game: nymphs in Amphoreus. These critters are scattered around the maps, with each map featuring a “Garmentmaker” looking to find them. Help the “Garmentmaker” out and you’ll be able to get Stellar Jade and other goodies for your time. These little bugs [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/honkai-star-rail-guides/507070/nymph-locations-butterfly-beetles-map>
+
+---
+
+## Neil Druckmann exits HBO’s The Last of Us ahead of season 3
+
+date: 2025-07-02, updated: 2025-07-02, from: Polygon Website
+
+Co-creator of The Last of Us Neil Druckmann announced Wednesday that he’s stepping away from the HBO series ahead of season 3. In a statement posted to Naughty Dog’s Instagram account, Druckmann said, “I’ve made the difficult decision to step away from my creative involvement in The Last of Us on HBO. With work completed [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/610657/neil-druckmann-exits-the-last-of-us-hbo-season-3>
+
+---
+
+## Anger Foot is just funny enough to distract you from how challenging it is
+
+date: 2025-07-02, updated: 2025-07-02, from: Polygon Website
+
+No matter how skilled you are or how lucky you get, failure is unavoidable. But it’s what you do with failure that counts. And as the first-person shooter Anger Foot posits, you’re not only allowed to laugh but should laugh at your failures. Compared to many modern games, the intentional friction in Anger Foot is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/610559/anger-foot-impression-gameplay-difficulty-humor>
+
+---
+
+## Netflix’s clumsy action-fantasy sequel The Old Guard 2 only does one thing right
+
+date: 2025-07-02, updated: 2025-07-02, from: Polygon Website
+
+In retrospect, the 2020 Netflix action movie The Old Guard gave itself away with its very premise. Millennia-old warrior Andy (Charlize Theron) leads a group of near-immortals who attempt to protect and preserve humanity. They can heal from fatal wounds, reminiscent of fellow comic book character Wolverine. But at some point, their healing abilities falter, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/610552/netflix-old-guard-2-review-charlize-theron>
+
+---
+
+## Microsoft cancels Perfect Dark reboot, shuts down studio
+
+date: 2025-07-02, updated: 2025-07-02, from: Polygon Website
+
+Xbox Game Studios’ new Perfect Dark game — the project that was first revealed in 2020 as the debut title from internal studio The Initiative — has been canceled. Matt Booty, head of Xbox Game Studios, confirmed the game’s cancellation and the closure of The Initiative in a note to employees, according to a report from Windows [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/606229/perfect-dark-reboot-canceled-xbox-initiative>
+
+---
+
+## How to fight the Moon Lord in Palworld
+
+date: 2025-07-02, updated: 2025-07-02, from: Polygon Website
+
+Defeat the Moon Lord in Palworld, and you’ve overcome the toughest opponent from the Tides of Terraria update. As we’re talking about a level 50 Raid Boss, it’s best to wait until level 60 or so before taking on this multi-eyed Terraria-inspired monster, but once you’ve gained enough experience, it’s well worth the effort. Craft [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/palworld-guides/610287/moon-lord-summon-fight-location>
+
+---
+
+## Where to get Celestial Sigils in Palworld
+
+date: 2025-07-02, updated: 2025-07-02, from: Polygon Website
+
+Palword’s Celestial Sigils are a crafting item needed to summon the Moon Lord boss. Both the boss and the Sigils were introduced in Palworld’s Tides of Terraria update, which means that the key to crafting the Celestial Sigil lies within the Terraria-themed dungeon. You can craft a Celestial Sigil at any workbench, even a primitive [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/palworld-guides/610313/celestial-sigils-location-hallowed-bars>
+
+---
+
+## Palworld Technology tree Pal equip unlock list
+
+date: 2025-07-02, updated: 2025-07-02, from: Polygon Website
+
+In Palworld, you’ll need to unlock new recipes for furniture, crafting benches, Pal equipment, weapons, armor — practically everything — via the Technology tab in the menu. This serves as a skill tree, in a way. There’s a bunch of stuff that will appear as question marks in your Technology tab until you catch a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/palworld-guides/24055957/technology-tree-pal-unlocks-equips>
 
 ---
 

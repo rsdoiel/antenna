@@ -1,11 +1,11 @@
 ---
 title: journalism
-updated: 2025-07-02 06:08:36
+updated: 2025-07-02 14:07:16
 ---
 
 # journalism
 
-(date: 2025-07-02 06:08:36)
+(date: 2025-07-02 14:07:16)
 
 ---
 
@@ -107,6 +107,18 @@ Image by StockSnap from Pixabay Technology has evolved, and with it, attackers a
 <br> 
 
 <https://sundial.csun.edu/194720/sundialbrandstudio/sundial-marketplace/194720/>
+
+---
+
+## How Campus Leaders Can Tackle Cybersecurity in 2025
+
+date: 2025-07-01, from: The Sundail (CSUN Student Newspaper)
+
+Image by StockSnap from Pixabay Technology has evolved, and with it, attackers and ill-intended actors have become more sophisticated. Nowadays, thugs don’t have to break into spaces to steal money... 
+
+<br> 
+
+<https://sundial.csun.edu/194720/sundialbrandstudio/sundial-marketplace/how-campus-leaders-tackle-cybersecurity/>
 
 ---
 

@@ -1,11 +1,60 @@
 ---
 title: pacific
-updated: 2025-07-02 06:08:32
+updated: 2025-07-02 14:07:13
 ---
 
 # pacific
 
-(date: 2025-07-02 06:08:32)
+(date: 2025-07-02 14:07:13)
+
+---
+
+## Proposed changes to New Zealand dawn raid laws not enough, Pacific advocates say
+
+date: 2025-07-02, from: 
+
+Pacific advocates in Aotearoa say a proposed law change for out-of-hours immigration visits - like dawn raids - doesn't go far enough. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565807/proposed-changes-to-new-zealand-dawn-raid-laws-not-enough-pacific-advocates-say>
+
+---
+
+## Fiji PM says China's military bases are 'not welcome' in the Pacific
+
+date: 2025-07-02, from: 
+
+But Sitiveni Rabuka also stressed he doesn't believe that Beijing is actively looking for such a security foothold in the Pacific - because it doesn't need to. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/world/565776/fiji-s-pm-sitiveni-rabuka-says-china-s-military-bases-are-not-welcome-in-the-pacific>
+
+---
+
+## Niue not at 2025 Pacific Mini Games due to travel costs to Palau
+
+date: 2025-07-02, from: 
+
+Niue was not listed on the medal table after day two of competition. It had been there on day one. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565802/niue-not-at-2025-pacific-mini-games-due-to-travel-costs-to-palau>
+
+---
+
+## Image of the Week: Honey harvesting
+
+date: 2025-07-02, from: University of Hawaiʻi News
+
+<p>This week's image is from <span aria-label="Kauai">Kaua&#699;i</span> Community College's Caitlin Fowlkes.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/02/image-of-the-week-honey/">Image of the Week: Honey harvesting</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/02/image-of-the-week-honey/>
 
 ---
 

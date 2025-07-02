@@ -1,11 +1,178 @@
 ---
 title: snapshots
-updated: 2025-07-02 06:08:41
+updated: 2025-07-02 14:07:20
 ---
 
 # snapshots
 
-(date: 2025-07-02 06:08:41)
+(date: 2025-07-02 14:07:20)
+
+---
+
+## Cloudflare Creates AI Crawler Tollbooth
+
+date: 2025-07-02, from: Michael Tsai
+
+Matthew Prince (Hacker News, Slashdot): The problem is whether you create content to sell ads, sell subscriptions, or just to know that people value what you&#8217;ve created, an AI-driven web doesn&#8217;t reward content creators the way that the old search-driven web did. And that means the deal that Google made to take content in exchange [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/02/cloudflare-creates-ai-crawler-tollbooth/>
+
+---
+
+## Figma Files for IPO
+
+date: 2025-07-02, from: Michael Tsai
+
+Thomas Claburn (Figma, Hacker News): The company prospectus mentions AI more than 150 times, characterizing it both as a creative accelerant and a potential threat.[&#8230;]Back to Figma, whose prospectus says that as of the first three months of 2025 it has 13 million monthly active users.For the year that ended on December 31, 2024, Figma [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/02/figma-files-for-ipo/>
+
+---
+
+## Fakespot Shuts Down
+
+date: 2025-07-02, from: Michael Tsai
+
+Bryson Thill (via Hacker News): Fakespot&#8217;s technology revealed some eye-opening statistics. About 43% of the best-selling Amazon products had reviews that were unreliable or fabricated, according to a study by app company Circuit. The problem was even worse in certain categories. Clothing and jewelry led the pack with a staggering 88% of reviews deemed unreliable.[&#8230;]As [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/02/fakespot-shuts-down/>
+
+---
+
+## macOS Tahoe Drops FireWire Support
+
+date: 2025-07-02, from: Michael Tsai
+
+Joe Rossignol: The first macOS Tahoe developer beta does not support the legacy FireWire 400 and FireWire 800 data-transfer standards, according to @NekoMichi on X, and a Reddit post. As a result, the first few iPod models and old external storage drives that rely on FireWire cannot be synced with or mounted on a Mac [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/02/macos-tahoe-drops-firewire-support/>
+
+---
+
+## My Video Chat with former Wing founder Audrey Gelman about reinvention, the lure of nostalgia, and the future of feminism. 
+
+date: 2025-07-02, from: Tina Brown
+
+I have admired Audrey since she took flight with the Wing and am enjoying seeing her major pivot as an entrepreneur. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167381424/69985591bd4a424cd019ff923a2c65c4.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167381424/69985591bd4a424cd019ff923a2c65c4.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://tinabrown.substack.com/p/my-video-chat-with-former-wing-founder>
+
+---
+
+## Derek Thompson and Paul Krugman on politics, econ, and AI
+
+date: 2025-07-02, from: Paul Krugman
+
+A recording from Paul Krugman and Derek Thompson's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167375850/518d97938d88b994315231e1922cb338.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167375850/518d97938d88b994315231e1922cb338.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://paulkrugman.substack.com/p/derek-thompson-and-paul-krugman-on>
+
+---
+
+## Your next laptop’s touchpad could double as an E Ink display
+
+date: 2025-07-02, from: Liliputing
+
+<p>Most modern laptops have a trackpad below the keyboard, but every now and then a PC maker will decide that this space could be used for something more. We&#8217;ve seen laptops with  touchpads made from touchscreen LCD displays, as well as laptops with touchpads that serve double duty as numeric keypads. Soon we could see [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/your-next-laptops-touchpad-could-double-as-an-e-ink-displa/">Your next laptop&#8217;s touchpad could double as an E Ink display</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/your-next-laptops-touchpad-could-double-as-an-e-ink-displa/>
+
+---
+
+## Claude Sonnet is a small-brained mechanical squirrel of <T>
+
+date: 2025-07-02, from: Geoffrey Hunntley's blog
+
+    
+
+<br> 
+
+<https://ghuntley.com/cars/>
+
+---
+
+## ONEXPLAYER X1 Air is an Intel Lunar Lake handheld gaming PC with a big screen and detachable controllers and keyboard
+
+date: 2025-07-02, from: Liliputing
+
+<p>One Netbook&#8217;s next handheld gaming PC is actually the latest in a line of 3-in-1 devices from the company. With a 10.95 inch, 2560 x 1600 pixel display and detachable controllers you can use the ONEXPLAYER X1 Air as a Windows tablet or a handheld game system. There&#8217;s also a detachable keyboard that the company says lets you [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/onexplayer-x1-air-is-an-intel-lunar-lake-handheld-gaming-pc-with-a-big-screen-and-detachable-controllers-and-keyboard/">ONEXPLAYER X1 Air is an Intel Lunar Lake handheld gaming PC with a big screen and detachable controllers and keyboard</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/onexplayer-x1-air-is-an-intel-lunar-lake-handheld-gaming-pc-with-a-big-screen-and-detachable-controllers-and-keyboard/>
+
+---
+
+## Quoting Charles Babbage
+
+date: 2025-07-02, updated: 2025-07-02, from: Simon Willison’s Weblog
+
+<blockquote cite="https://archive.org/details/passagesfromlife03char/page/67/mode/1up"><p>On two occasions I have been asked, — "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out ?" In one case a member of the Upper, and in the other a member of the Lower, House put this question. I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.</p></blockquote>
+<p class="cite">&mdash; <a href="https://archive.org/details/passagesfromlife03char/page/67/mode/1up">Charles Babbage</a>, Passages from the Life of a Philosopher, 1864</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/charles-babbage">charles-babbage</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/2/charles-babbage/#atom-everything>
+
+---
+
+## “Loud Luxury” Should Shut Up
+
+date: 2025-07-02, updated: 2025-07-02, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/07/02/loud-luxury-is-gross/>
+
+---
+
+## How to Build a Brand People Love (Not Just Like)
+
+date: 2025-07-02, from: Guy Kawasaki blog
+
+Creating emotional connections with customers isn&#8217;t just a nice-to-have&#8212;it&#8217;s the secret sauce that turns casual buyers into lifelong fans. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/how-to-build-a-brand-people-love>
+
+---
+
+## Ann Arbor Software's Textra Word Processing
+
+date: 2025-07-02, from: Computer ads from the Past
+
+The shortest distance between your thoughts and the printed word. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/ann-arbor-softwares-textra-word-processing>
 
 ---
 
@@ -68,6 +235,18 @@ Schools and lawmakers are grappling with how to address a new form of peer-on-pe
 <br> 
 
 <https://themarkup.org/artificial-intelligence/2025/07/02/kids-are-making-deepfakes-of-each-other-and-laws-arent-keeping-up>
+
+---
+
+## Deno 2.4: deno bundle is back
+
+date: 2025-07-02, updated: 2025-07-02, from: Deno blog
+
+Deno bundle is back, alongside the addition of bytes and text imports, stabilized built-in OpenTelemetry, a new --preload flag, simplified dependency management with deno update, and more. 
+
+<br> 
+
+<https://deno.com/blog/v2.4>
 
 ---
 

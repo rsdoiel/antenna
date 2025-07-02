@@ -1,11 +1,227 @@
 ---
 title: going electric
-updated: 2025-07-02 06:08:39
+updated: 2025-07-02 14:07:18
 ---
 
 # going electric
 
-(date: 2025-07-02 06:08:39)
+(date: 2025-07-02 14:07:18)
+
+---
+
+## Rivian Just Got Another $1 Billion From Volkswagen
+
+date: 2025-07-02, from: Inside EVs News
+
+Rivian capped off a sluggish sales quarter with a fat check from its new partner.  
+
+<br> 
+
+<https://insideevs.com/news/764576/rivian-billion-volkwagen-joint-venture/>
+
+---
+
+## Hyundai and Kia are cutting prices with nearly $17,000 in discounts in some markets
+
+date: 2025-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Hyundai-Kia-cut-prices.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Are the Korean auto giants facing slowing sales? <a href="https://electrek.co/guides/hyundai/">Hyundai</a> and Kia are offering generous incentives globally, resulting in price cuts worldwide. In some markets, discounts can reach nearly $17,000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,kia" data-layer-viewtype="unknown" data-post-id="422392" href="https://electrek.co/2025/07/02/hyundai-kia-cut-prices-with-17000-in-discounts/#more-422392" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/02/hyundai-kia-cut-prices-with-17000-in-discounts/>
+
+---
+
+## The Mercedes EQS Is Struggling—And Its Radical Design Might Be Why
+
+date: 2025-07-02, from: Inside EVs News
+
+Mercedes-Benz's design boss says the car was introduced "probably 10 years too early" because of its polarizing styling. 
+
+<br> 
+
+<https://insideevs.com/news/764560/mercedes-eqs-sales-poor-design/>
+
+---
+
+## First-ever savings on Ford Mustang and Bronco e-bikes from $3,500, Anker SOLIX F3800 Plus units at new lows from $2,659, more
+
+date: 2025-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Ford-Mustang-60th-Anniversary-e-bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Today’s Green Deals are headlined by the first-ever savings we’ve spotted on <a href="https://9to5toys.com/2025/07/02/ford-mustang-bronco-e-bikes-from-3500/">Ford’s Mustang and Bronco e-bikes starting from $3,500</a>, when using the provided promo code. We also spotted <a href="https://9to5toys.com/2025/07/02/anker-solix-f3800-plus-new-low-prices-from-2659/">Anker’s SOLIX F3800 Plus Portable Power Station and its bundle options</a> hitting their lowest prices yet in early Prime Day savings, starting <a href="https://9to5toys.com/2025/07/02/anker-solix-f3800-plus-new-low-prices-from-2659/">from $2,659</a>. Among our tool discounts today, you can bundle the commercial-grade <a href="https://9to5toys.com/2025/07/02/greenworks-82v-short-or-fixed-mid-pole-trimmers-from-250/">Greenworks 82V 24-inch Cordless Short Pole Hedge Trimmer or its Fixed Mid Pole counterpart</a> with two batteries and a dual-port rapid charger at new low prices starting <a href="https://9to5toys.com/2025/07/02/greenworks-82v-short-or-fixed-mid-pole-trimmers-from-250/">from $250</a>. You can also pick up <a href="https://9to5toys.com/2025/07/02/ego-56v-18-inch-chainsaw-349/">EGO’s 56V 18-inch Cordless Electric Chainsaw</a> for all your wood-cutting needs at <a href="https://9to5toys.com/2025/07/02/ego-56v-18-inch-chainsaw-349/">$349</a>. Plus, there’s all the rest of the hangover Green Deals in the links at the bottom of the page, like the <a href="https://9to5toys.com/2025/07/02/anker-launches-solix-f3000-station-from-1699/">expanded Anker SOLIX F3000 bundles</a>, and much more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="423219" href="https://electrek.co/2025/07/02/ford-mustang-e-bike-3500-anker-solix-f3800-plus-more/#more-423219" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/02/ford-mustang-e-bike-3500-anker-solix-f3800-plus-more/>
+
+---
+
+## 'No Sign Of Recovery': New Tesla Brand Report Is Full Of Bad News
+
+date: 2025-07-02, from: Inside EVs News
+
+A new survey reveals Musk’s time in government caused great harm to Tesla, alienating consumers across party lines. 
+
+<br> 
+
+<https://insideevs.com/news/764563/tesla-elon-musk-brand-reputation/>
+
+---
+
+## BYD launches new discounts, offering +50% off smart driving tech
+
+date: 2025-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/BYD-new-discounts-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Despite the warnings, <a href="https://electrek.co/guides/byd/">BYD</a> continues introducing new discounts. On Wednesday, BYD’s luxury off-road brand began offering over 50% Huawei’s smart driving tech.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="423202" href="https://electrek.co/2025/07/02/byd-launches-new-discounts-offering-50-off-smart-driving-tech/#more-423202" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/02/byd-launches-new-discounts-offering-50-off-smart-driving-tech/>
+
+---
+
+## Dahon launches first super-lightweight e-bike that is actually affordable
+
+date: 2025-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/dahon-k-feather-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Every year, it seems like there’s a new headline about the world’s lightest electric bike. Each year, engineers manage to shave a few more grams off of an exotically designed frame built with even more exotic materials. And each year, the continuously lower weight is balanced by continuously higher prices – often exorbitantly high. But now Dahon has bucked that trend, offering us an incredibly lightweight electric bike at a price that normal e-bike riders can afford. Meet the Dahon K-Feather.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,foldable" data-layer-viewtype="unknown" data-post-id="423138" href="https://electrek.co/2025/07/02/dahon-launches-first-super-lightweight-e-bike-that-is-actually-affordable/#more-423138" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/02/dahon-launches-first-super-lightweight-e-bike-that-is-actually-affordable/>
+
+---
+
+## The Honda Prologue is a hit, but Acura’s luxury EV is the real surprise
+
+date: 2025-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Acura-Cadillac-Lyriq.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/honda-prologue/">Honda Prologue</a> remains a top-selling EV in the US, but it’s Acura’s luxury electric SUV that’s been the surprise hit this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="acura,acura-zdx,honda,honda-prologue" data-layer-viewtype="unknown" data-post-id="423181" href="https://electrek.co/2025/07/02/honda-prologue-is-a-hit-but-acuras-ev-is-real-surprise/#more-423181" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/02/honda-prologue-is-a-hit-but-acuras-ev-is-real-surprise/>
+
+---
+
+## Tesla confirms Cybertruck sales are down to just ~5,000 units
+
+date: 2025-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Screenshot-2025-04-10-at-4.41.14 PM.jpg?quality=82&#038;strip=all&#038;w=1137" /></div><p>Tesla has confirmed through its delivery report that Cybertruck sales have now dropped to ~5,000 units per quarter.</p>
+
+
+
+<p>After planning for a production capacity of over 250,000 units per year, Tesla is currently selling the pickup truck at a rate of ~20,000 units annually.</p>
+
+
+
+<p>What will happen to the vehicle program?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="423178" href="https://electrek.co/2025/07/02/tesla-confirms-cybertruck-sales-are-down-to-just-5000-units/#more-423178" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/02/tesla-confirms-cybertruck-sales-are-down-to-just-5000-units/>
+
+---
+
+## Mercedes shows off upcoming VLE multi-purpose vehicle, driving from Stuttgart to Rome
+
+date: 2025-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Mercedes-VLE-Rome.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/mercedes-benz/">Mercedes-Benz</a> continues to demonstrate the capabilities of its future lineup of all-electric vans and multi-purpose vehicles (MPVs), all atop its new 800V Van Architecture. Most recently, Mercedes drove two test versions of its VLE MPVs nearly 1,100 kilometers, from Germany to Rome, Italy.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz" data-layer-viewtype="unknown" data-post-id="423169" href="https://electrek.co/2025/07/02/mercedes-upcoming-vle-multi-purpose-vehicle-driving-stuttgart-rome/#more-423169" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/02/mercedes-upcoming-vle-multi-purpose-vehicle-driving-stuttgart-rome/>
+
+---
+
+## Surprise EV Tax Credit Deadline May Hit Buyers Harder Than Expected
+
+date: 2025-07-02, from: Inside EVs News
+
+If the Big Beautiful Bill passes, the EV tax credit would end on Sept. 30. Start making plans now. 
+
+<br> 
+
+<https://insideevs.com/news/764531/ev-tax-credit-ending-september/>
+
+---
+
+## Toyota is still struggling to sell EVs so it’s back to gas-powered SUVs
+
+date: 2025-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Toyota-Honda-batteries.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As it struggles to sell EVs in the US, <a href="https://electrek.co/guides/toyota/">Toyota</a> is resorting to bigger, gas-powered SUVs. That new Toyota electric SUV we are still waiting on? It’s delayed again, but there’s more to it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="423147" href="https://electrek.co/2025/07/02/toyota-still-struggling-to-sell-evs-turning-back-to-gas-suvs/#more-423147" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/02/toyota-still-struggling-to-sell-evs-turning-back-to-gas-suvs/>
+
+---
+
+## Tesla Deliveries Down 13% As Decline Continues In Q2 2025
+
+date: 2025-07-02, from: Inside EVs News
+
+After years of rapid growth, Tesla has been struggling with declining sales. The second quarter of 2025 was no different.  
+
+<br> 
+
+<https://insideevs.com/news/764450/tesla-q2-deliveries-2025/>
+
+---
+
+## The forgotten 1970s GE electric lawn tractor you’ve never heard of
+
+date: 2025-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/elec-trak-tractor-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>As a passion that probably fits nicely in between <a href="https://electrek.co/2022/05/20/electric-bikes-instead-of-cars/">my car-free lifestyle</a> and my love of strange <a href="https://electrek.co/2025/03/07/remember-that-2000-electric-mini-truck-i-bought-from-china-now-theyre-down-to-1000/">electric off-road work vehicles</a>, I’ve got a bit of a thing for electric tractors. And so when an awesome little retro electric lawn tractor known as the General Electric Elec-Trak popped into my algorithm, it sent me down one of the most enjoyable rabbit holes I’ve explored in quite some time. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-mowers,electric-tractors,lawn-mower" data-layer-viewtype="unknown" data-post-id="423145" href="https://electrek.co/2025/07/02/the-forgotten-1970s-ge-electric-lawn-tractor-youve-never-heard-of/#more-423145" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/02/the-forgotten-1970s-ge-electric-lawn-tractor-youve-never-heard-of/>
 
 ---
 
@@ -13,7 +229,7 @@ updated: 2025-07-02 06:08:39
 
 date: 2025-07-02, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Model-Y-hero-new-design.png?w=1600" /></div><p>Tesla (TSLA) has released its Q2 2025 production and delivery results this morning, confirming it delivered electric vehicles during the second quarter.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Model-Y-hero-new-design.png?w=1600" /></div><p>Tesla (TSLA) has released its Q2 2025 production and delivery results this morning, confirming it delivered 384,122 electric vehicles during the second quarter.</p>
 
 
 

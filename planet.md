@@ -1,11 +1,291 @@
 ---
 title: planet
-updated: 2025-07-02 06:08:29
+updated: 2025-07-02 14:07:10
 ---
 
 # planet
 
-(date: 2025-07-02 06:08:29)
+(date: 2025-07-02 14:07:10)
+
+---
+
+## UNHCR's Ireland office to lose several positions
+
+date: 2025-07-02, from: RTÉ News
+
+UNHCR's Ireland office is to lose several positions in Dublin while other roles are being downgraded. It follows a wider review of positions within the UN refugee agency, which has been impacted by the global cuts being imposed across the sector. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0702/1521546-unhcr-ireland/>
+
+---
+
+## Nurse tells inquest into baby's death of oxygen concerns
+
+date: 2025-07-02, from: RTÉ News
+
+A nurse has told an inquest into the death of a boy days after his birth that she was concerned the oxygen in equipment being used to resuscitate him was "off or at a low level" for the first 11 minutes of his life. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0702/1521538-aaron-cullen-inquest/>
+
+---
+
+## FAI again asked before cttee over knowledge of claims
+
+date: 2025-07-02, from: RTÉ News
+
+The FAI will be asked again to appear before an Oireachtas Committee to answer claims by a Fianna Fáil TD that it knew of allegations about a former national team manager's behaviour towards female footballers as far back as 2023. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0702/1521536-fai-oireachtas-committee/>
+
+---
+
+## Podcast: Student fee uncertainty and Westminster tears
+
+date: 2025-07-02, from: RTÉ News
+
+ 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0702/1521530-podcast-student-fee-uncertainty-and-westminster-tears/>
+
+---
+
+## Sacked Irish Rail worker wins €12k for unfair dismissal
+
+date: 2025-07-02, from: RTÉ News
+
+An Iarnród Éireann worker who defied orders and took control of a crane when he saw that its load had became unstable - only for the load to trap another worker's foot when he set it down - has won €12,000 for unfair dismissal. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0702/1521537-sacked-irish-rail-worker-wins-12k-for-unfair-dismissal/>
+
+---
+
+## What to know about the Sean 'Diddy' Combs trial
+
+date: 2025-07-02, from: RTÉ News
+
+After a trial lasting around seven weeks, Sean 'Diddy' Combs has been found guilty of prostitution-related offences, but acquitted of other charges. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0702/1521533-combs-trial-explainer/>
+
+---
+
+## Donegal 'forgotten county' in terms of rail, Dáil hears
+
+date: 2025-07-02, from: RTÉ News
+
+Sinn Féin's Pearse Doherty has told the Dáil it is "simply unacceptable" that Donegal is among a few counties on the island of Ireland which still has no rail network, describing it as "a forgotten county". 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0702/1521535-donegal-forgotten-county-in-terms-of-rail-dail-hears/>
+
+---
+
+## Farmers call for changes to protect livestock attacks
+
+date: 2025-07-02, from: RTÉ News
+
+Farming organisations have called for measures including DNA testing, disqualification from dog ownership, and a ban on non-working dogs on hills and farmland to help protect livestock from dog attacks. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0702/1521532-dog-attacks-livestock/>
+
+---
+
+## Cardinal Turkson presides at Ghana’s maiden National Day of Prayer and Thanksgiving
+
+date: 2025-07-02, from: Vatican News
+
+
+                    <p>Chancellor of the Pontifical Academy of Sciences and Social Sciences, Cardinal Peter Appiah Turkson, recently visited his home country of Ghana. While in Ghana, Cardinal Turkson was the guest of honour and main presider at the country’s maiden National Day of Prayer and Thanksgiving</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-07/cardinal-turkson-presides-at-ghana-s-maiden-national-day-of-pray.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-07/cardinal-turkson-presides-at-ghana-s-maiden-national-day-of-pray.html>
+
+---
+
+## Tesla sales slump as electric carmaker faces 2nd year of falling sales
+
+date: 2025-07-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7233545.1718272680!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/tesla-layoffs.jpg' alt='Several electric vehicles of different colours are shown at charging stations' width='620' height='349' title='FILE - Drivers charge their Teslas in Santa Ana, Calif., on March 20, 2024. After reporting dismal first-quarter sales, Tesla is planning to lay off about a tenth of its workforce as it tries to cut costs, multiple media outlets reported Monday. '/><p>Sales plunged 13 per cent in the second quarter, which overlapped with protests at Tesla showrooms and CEO Elon Musk's exit from the Trump administration.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/business/tesla-sales-slump-1.7575455?cmp=rss>
+
+---
+
+## Ex-swim coach Gibney faces 79 charges over alleged abuse
+
+date: 2025-07-02, from: RTÉ News
+
+Former Irish national and Olympic swimming coach George Gibney is facing 79 charges in connection with the alleged sexual abuse of four girls in the 1970s and 1980s, according to court documents filed in the United States. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0702/1521527-ex-swim-coach-gibney-faces-79-charges-over-alleged-abuse/>
+
+---
+
+## Bill on treatment for scoliosis patients passed by Seanad
+
+date: 2025-07-02, from: RTÉ News
+
+A Bill requiring the HSE to treat patients with scoliosis in a "timely fashion" has been passed by the Seanad. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0702/1521525-scoliosis-bill-seanad/>
+
+---
+
+## Pope Leo XIV receives Italian Prime Minister Giorgia Meloni
+
+date: 2025-07-02, from: Vatican News
+
+
+                    <p>Pope Leo XIV receives the Italian Premier, Giorgia Meloni, in private audience.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-audience-meloni-italy-pm-diplomacy-parolin-gallaghe.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-audience-meloni-italy-pm-diplomacy-parolin-gallaghe.html>
+
+---
+
+## The 'Diddy' story - from studio to criminal trial
+
+date: 2025-07-02, from: RTÉ News
+
+Sean 'Diddy' Combs has been found guilty of prostitution-related offences but acquitted of racketeering conspiracy and two counts of sex trafficking. Here is a timeline of his career and legal troubles. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0702/1521517-the-diddy-story-from-studio-to-criminal-trial/>
+
+---
+
+## Microsoft to lay off nearly 4% of global workforce
+
+date: 2025-07-02, from: RTÉ News
+
+Microsoft is to cut around 9,000 jobs worldwide in the latest round of staff cuts as the US technology company looks to reduce costs. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0702/1521510-microsoft-to-lay-off-nearly-4-of-global-workforce/>
+
+---
+
+## The Kanien'kehá:ka say a vast swath of Montreal's South Shore is theirs. They want their claim settled
+
+date: 2025-07-02, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7574548.1751375840!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/cody-diabo.JPG' alt='A man wearing a suit jacket and burgundy shirt stands in front of two large framed maps hung on the wall behind him. ' width='620' height='349' title='Mohawk Council of Kahnawà:ke Grand Chief Cody Diabo.'/><p>The Mohawk Council of Kahnawà:ke says negotiations on a centuries-old land claim are moving too slowly. The area in question, about 97 square kilometres, extends beyond Kahnawà:ke's current borders.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/montreal/kahnawake-sssl-land-grievance-1.7574544?cmp=rss>
+
+---
+
+## The Dalai Lama has shared plans for his succession. China has other ideas
+
+date: 2025-07-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7575410.1751478061!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2222424102.jpg' alt='Two hands hold a smartphone horizontally. The phone displays an image of the Dalai Lama reading off two pieces of paper. Chyrons on the screen say, &quot;OHHDL&quot; and &quot;TTV&quot; ' width='620' height='349' title='A Tibetan resident watches a video broadcast of Tibetan spiritual leader the Dalai Lama, on her phone in Delhi on Wednesday. The exiled leader said at the start of the 15th Tibetan Religious Conference that the 600-year-old institution will continue after his death, a decision that will have profound impact on his Buddhist followers.'/><p>As the Dalai Lama's 90th birthday approaches, a standoff between the Tibetan spiritual leader and the Chinese government has some experts warning of a future where two purported Dalai Lamas each stake claim to the title.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/dalai-lama-1.7575322?cmp=rss>
+
+---
+
+## Young Christians launch spiritual manifesto to restore the soul of Europe
+
+date: 2025-07-02, from: Vatican News
+
+
+                    <p>The Holy See Press Office holds a conference to present the “Manifesto of Young Christians of Europe”. Ignited by their pilgrimage route starting in Rome and ending in Jerusalem, this initiative aims to revive Europe’s Christian identity and hope.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/young-christians-manifesto-holy-see-press-office-jubilee-faith.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/young-christians-manifesto-holy-see-press-office-jubilee-faith.html>
+
+---
+
+## Bryan Kohberger pleads guilty to killing 4 University of Idaho students
+
+date: 2025-07-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7575447.1751479793!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/idaho-students-plea.JPG' alt='A man in a shirt and tie sits in a courtroom.' width='620' height='349' title='Bryan Kohberger appears at the Ada County Courthouse, in Boise, Idaho on July 2, 2025.'/><p>A former criminology student pleaded guilty on Wednesday to murdering four University of Idaho students as part of a deal with prosecutors to avoid the death penalty.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/bryan-kohberger-pleads-guilty-plea-deal-idaho-1.7575383?cmp=rss>
+
+---
+
+## Sandy Lake repatriation efforts beginning Friday, First Nation says
+
+date: 2025-07-02, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7558342.1749659448!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/canadian-armed-forces-evacuate-people-from-sandy-lake-first-nation.jpg' alt='People are seen walking toward a large grey plane.' width='620' height='349' title='Canadian Armed Forces members were called into Sandy Lake First Nation this week to support the evacuation of community members due to a nearby wildfire. '/><p>Sandy Lake First Nation announced that efforts to return community members home will begin on Friday. Members of the First Nation were forced to evacuate to host locations across Ontario last month as the Red Lake 12 wildfire encroached upon the community.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/sandy-lake-repatriation-1.7575211?cmp=rss>
+
+---
+
+## Astronomy & Space Science Education & Public Outreach Newsletter – July 2025, Part 1
+
+date: 2025-07-02, from: Vatican Obervatory
+
+Dr. Larry Lebofsky covers a wide range of topics in his twice-a-month astronomy and space science newsletter. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/astronomy-space-science-education-public-outreach-newsletter-july-2025-part-1/>
+
+---
+
+## Secretariat of State
+
+date: 2025-07-02, from: Vatican News
+
+
+                    <p>The Secretariat of State is the Curial office that works most closely with the Pope in the exercise of his supreme mission, effectively acting as the ‘driving force’ behind the political and diplomatic activities of the Holy See, as well as the ‘link’ and an organising factor in the coordination of the Roman Curia. </p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/secretariat-of-state.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/secretariat-of-state.html>
 
 ---
 
@@ -33,15 +313,131 @@ Belfast City Council has said that a portrait of President Michael D Higgins has
 
 ---
 
-## France reports two deaths in heatwave, 300 hospitalised
+## UNICEF: Conflicts leave millions of children displaced or killed
+
+date: 2025-07-02, from: Vatican News
+
+
+                    <p>The United Nations Children’s Fund (UNICEF) has issued a warning that conflicts in the Middle East and North Africa are causing a child to flee their home every five seconds, with a child killed or injured every 15 minutes. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/unicef-children-middle-east-north-africa-conflict.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/unicef-children-middle-east-north-africa-conflict.html>
+
+---
+
+## Protecting the seeds of life: Our duty to defend African farmers
+
+date: 2025-07-02, from: Vatican News
+
+
+                    <p>As African and European leaders met to shape agricultural policy, farmers and civil society groups gathered nearby to raise urgent concerns over the future of farming in Africa; calling especially on protection for traditional seed systems and a ban on the export of toxic pesticides.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/protecting-the-seeds-of-life-our-duty-to-defend-african-farmers.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/protecting-the-seeds-of-life-our-duty-to-defend-african-farmers.html>
+
+---
+
+## Director of north Gaza hospital killed alongside his family in Israeli strike on apartment
+
+date: 2025-07-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7575232.1751468972!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza-doctor.JPG' alt='Palestinians react over bodies as they mourn doctor killed.' width='620' height='349' title='Palestinians react over bodies as they mourn doctor Marwan al-Sultan, director of the Indonesian Hospital in northern Gaza Strip, his wife, his daughter and and his sister, who were killed in an Israeli strike on Wednesday, according to Gaza’s health ministry, at Al-Shifa hospital in Gaza City, July 2, 2025. REUTERS/Mahmoud Issa'/><p>The director of one of north Gaza's largest hospitals was killed, along with his wife, daughter and sister, in an Israeli strike on their apartment, medical officials said Wednesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/hospital-director-north-gaza-israeli-strike-1.7575148?cmp=rss>
+
+---
+
+## Heatwave across Europe leaves eight people dead
 
 date: 2025-07-02, from: RTÉ News
 
-France has reported two heat-related deaths, while wildfires have killed two people in Spain in a heatwave that has gripped Europe and forced the closure of a nuclear reactor at a Swiss power plant. 
+Four people have died in Spain, two in France and two in Italy as an early summer heatwave continues to grip much of Europe, triggering health alerts and forest fires and forcing the closure of a nuclear reactor at a Swiss power plant. 
 
 <br> 
 
 <https://www.rte.ie/news/weather/2025/0702/1521463-europe-weather/>
+
+---
+
+## Space is not the final frontier – it is the foundation of our future: UN deputy chief
+
+date: 2025-07-02, from: United Nations, Top Stories
+
+Space technologies are no longer a distant frontier but a critical foundation for daily life and global development, the UN Deputy Secretary-General said on Wednesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165251>
+
+---
+
+## INTERVIEW: Sevilla ‘a critical test’ of multilateralism
+
+date: 2025-07-02, from: United Nations, Top Stories
+
+Nations taking part in a flagship UN conference have pledged to address the debt crisis in the Global South and boost sustainable development. However, the real test will be whether or not these commitments will be translated into action. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165241>
+
+---
+
+## Sevilla: Without sustainable development, there is neither hope nor security
+
+date: 2025-07-02, from: United Nations, Top Stories
+
+A senior UN official has told UN News that the global development challenge is not lack of money, but how to align public and private capital flows. The Sevilla Agreement adopted this week, sets out a roadmap for all UN Member States — except the US which pulled out earlier this month — with the aim of mobilizing that capital. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165231>
+
+---
+
+## Drowning in debt: New forum in Sevilla offers borrowers chance to rebalance the books
+
+date: 2025-07-02, from: United Nations, Top Stories
+
+A new mechanism offering debt-distressed countries a way to coordinate action and amplify their voice in the global financial system, has been launched at the UN’s pivotal sustainable development conference in Sevilla.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165196>
+
+---
+
+## Adhering to bans on mines only in peace time will not work: UN rights chief
+
+date: 2025-07-02, from: United Nations, Top Stories
+
+The UN’s top human rights official on Wednesday expressed grave alarm that six European countries are either in the process of or are considering withdrawing from the international treaty prohibiting anti-personnel mines.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165261>
+
+---
+
+## Haitian capital ‘paralysed and isolated’ by gang violence, Security Council hears
+
+date: 2025-07-02, from: United Nations, Top Stories
+
+More than 1.3 million people have been displaced in Haiti as surging gang violence, lawlessness, and impunity expose the population – especially women and girls – to heightened risks of exploitation and sexual violence.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165246>
 
 ---
 
@@ -54,6 +450,18 @@ Parents need to know what student fees they will have to pay in September, the S
 <br> 
 
 <https://www.rte.ie/news/education/2025/0702/1521461-third-level-fees/>
+
+---
+
+## No decision yet to revert student fees to €3,000 - Harris
+
+date: 2025-07-02, from: RTÉ News
+
+Tánaiste Simon Harris has told the Fine Gael parliamentary party that no decision has been made to return student contribution fees to €3,000 for a full college year. 
+
+<br> 
+
+<https://www.rte.ie/news/education/2025/0702/1521461-third-level-fees-ireland/>
 
 ---
 
@@ -109,11 +517,23 @@ date: 2025-07-02, from: Vatican News
 
 ---
 
-## Combs jury to resume deliberations after partial verdict
+## How Mamdani beat Cuomo
+
+date: 2025-07-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/0b325d93-0a69-4622-82b9-61363f5e33b3,1751471665040/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt=' Zohran Mamdani defeated Andrew Cuomo in New York City&apos;s mayoral Democratic primary election.' width='620' height='349' title=''/><p>About That producer Anand Ram explains how Zohran Mamdani defeated Andrew Cuomo in New York City's mayoral Democratic primary election.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6817633?cmp=rss>
+
+---
+
+## Sean 'Diddy' Combs convicted over prostitution offences
 
 date: 2025-07-02, from: RTÉ News
 
-The jury in Sean 'Diddy' Combs' trial will continue deliberations a day after reaching a verdict on four of the five counts the music mogul faces in his sex trafficking case but failing to agree on a racketeering conspiracy charge. 
+Sean 'Diddy' Combs has been found guilty of prostitution-related offences but cleared of more serious charges, in a blow to prosecutors who had urged a jury to find him guilty of racketeering conspiracy and sex trafficking. 
 
 <br> 
 
@@ -121,7 +541,7 @@ The jury in Sean 'Diddy' Combs' trial will continue deliberations a day after re
 
 ---
 
-## President Higgins leads tributes to Brother Kevin Crowley
+## Br Kevin Crowley 'made invaluable contribution' to Dublin
 
 date: 2025-07-02, from: RTÉ News
 
@@ -133,11 +553,11 @@ President Michael D Higgins has led tributes to Brother Kevin Crowley, the found
 
 ---
 
-## Appeal court to decide on referring McGregor move to DPP
+## McGregor's withdrawal of evidence to be referred to DPP
 
 date: 2025-07-02, from: RTÉ News
 
-The Court of Appeal will decide later today whether to refer matters relating to Conor McGregor's application to withdraw so called "fresh evidence" from his appeal to the Director of Public Prosecutions. 
+The Court of Appeal is to refer documentation relating to Conor McGregor's application to withdraw so-called new evidence from his appeal to the Director of Public Prosecutions. 
 
 <br> 
 
@@ -213,7 +633,7 @@ From the Faith &#038; Science Resource Center: A 1933 New York Times interview w
 
 date: 2025-07-02, from: RTÉ News
 
-The costs incurred for legal redress by The Arts Council in relation to its failed IT system have cost almost double what was previously stated, the Oireachtas Committee on Media has been told. 
+The costs incurred for legal redress by The Arts Council in relation to its failed IT system are almost double what was previously stated, the Oireachtas Committee on Media has been told. 
 
 <br> 
 
@@ -233,11 +653,23 @@ Follow developments on the second day of an appeal taken by Conor McGregor again
 
 ---
 
-## Man charged with murder of pregnant woman in Co Down
+## As it happened: McGregor case concludes for second day
 
 date: 2025-07-02, from: RTÉ News
 
-A 28-year-old man has appeared in court charged with the murder of pregnant mother-of-two Sarah Montgomery in Co Down. 
+Follow developments on the second day of an appeal taken by Conor McGregor against the finding of a High Court jury in a civil trial that he raped Nikita Hand. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0702/1521406-conor-mcgregor-court-blog/>
+
+---
+
+## Man remanded in custody over murder of Co Down woman
+
+date: 2025-07-02, from: RTÉ News
+
+A 28-year-old man has been remanded in custody charged with the murder of Sarah Montgomery in Co Down. 
 
 <br> 
 
@@ -258,6 +690,30 @@ date: 2025-07-02, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/world/news/2025-07/usaid-cuts-reports-un-conference-spain-developing-nations.html>
+
+---
+
+## IN PHOTOS | Heat wave sweeps parts of Europe
+
+date: 2025-07-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7575117.1751464033!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/spain-heat-wave-weather.jpg' alt='A tourist protects herself from the sun with a large floppy yellow hat and a blue umbrella while taking photos with a cellphone.' width='620' height='349' title='A tourist protects herself from the sun with a hat and an umbrella while taking photos of the Sagrada Familia church in a hot day in Barcelona, Spain, Monday, June 30, 2025. '/><p>A punishing heat wave, which gripped parts of Europe beginning Monday, continues to affect Britain, France, Portugal, Spain and Germany.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/photos/in-photos-heat-wave-sweeps-parts-of-europe-1.7575094?cmp=rss>
+
+---
+
+## Iran suspends co-operation with UN nuclear watchdog
+
+date: 2025-07-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7575091.1751461081!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/iran-army-parade.jpg' alt='A cleanshaven older man with thinning grey hair speaks into a microphone. A dark haired man with sunglasses and facial hair stands behind him, and a green and red flag is shown.' width='620' height='349' title='Iranian President Masoud Pezeshkian makes an address during the army parade commemorating National Army Day in front of the shrine of the late revolutionary founder Ayatollah Khomeini, just outside Tehran, Iran, Friday, April 18, 2025.  '/><p>Iran's president has ordered the country to suspend its co-operation with the International Atomic Energy Agency after American and Israeli airstrikes hit its most-important nuclear facilities.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/iran-inspections-un-iaea-1.7575079?cmp=rss>
 
 ---
 
@@ -353,6 +809,18 @@ The Tánaiste and Minister for Foreign Affairs is due to hold a meeting with the
 
 ---
 
+## Tánaiste discusses Gaza truce efforts with Qatari PM
+
+date: 2025-07-02, from: RTÉ News
+
+The Tánaiste and Minister for Foreign Affairs is due to hold a meeting with the Prime Minister of Qatar in Dublin in which they will discuss efforts to secure a ceasefire in the Gaza conflict. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0702/1521403-ireland-middle-east/>
+
+---
+
 ## US President threatens Musk with deportation
 
 date: 2025-07-02, from: RTÉ News
@@ -365,11 +833,23 @@ US President Donald Trump and tech billionaire Elon Musk have reignited their bi
 
 ---
 
-## US halting some shipments of military aid to Ukraine
+## Amid new infrastructure bills, First Nations are concerned about the environment and their rights
+
+date: 2025-07-02, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7570718.1750877162!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/senate-20190218.jpg' alt='The Senate of Canada building and Senate Chamber are pictured in Ottawa on Monday, Feb. 18, 2019.' width='620' height='349' title='The Senate of Canada building and Senate Chamber are pictured in Ottawa on Monday, Feb. 18, 2019.'/><p>Many First Nations are concerned about three recent bills that aim to fast-track infrastructure and energy projects in B.C. and the rest of Canada. A lawyer in British Columbia says the bills are deeply flawed and could face legal challenges. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/first-nations-concerns-bill-15-bill-c5-1.7574871?cmp=rss>
+
+---
+
+## Ukraine asks US for clarity as some military aid halted
 
 date: 2025-07-02, from: RTÉ News
 
-The White House has said it is halting some key weapons shipments to Ukraine that were promised under the Biden administration for Kyiv's battle against the Russian invasion. 
+Ukraine has appealed to the United States for clarity after it was caught off guard by a White House announcement that Washington was halting some arms shipments to the war-torn country. 
 
 <br> 
 
@@ -401,11 +881,11 @@ date: 2025-07-02, from: CBC, World News
 
 ---
 
-## Committee to discuss insourcing work in public hospitals
+## HSE: Insourcing work in hospitals should end by next June
 
 date: 2025-07-02, from: RTÉ News
 
-The CEO of the Health Service Executive is to warn of an overreliance on insourcing work in public hospitals, to support core care and cut waiting lists and has said the dependency on this funding needs to be removed. 
+HSE Chief Executive Bernard Gloster has said that he wants to see an end, by next June, to public hospitals getting insource funding from the National Treatment Purchase Fund to cut waiting lists. 
 
 <br> 
 
@@ -449,6 +929,18 @@ Taoiseach Micheál Martin and Japanese Prime Minister Shigeru Ishiba have held t
 
 ---
 
+## Taoiseach discusses deepening trade links with Japan PM
+
+date: 2025-07-02, from: RTÉ News
+
+Taoiseach Micheál Martin and Japanese Prime Minister Shigeru Ishiba have held talks in Tokyo to discuss deepening trade links, bilateral relations and cybersecurity. 
+
+<br> 
+
+<https://www.rte.ie/news/asia/2025/0702/1521374-taoiseach-japan-visit/>
+
+---
+
 ## Water supplies for 497,000 at risk of disruption - EPA
 
 date: 2025-07-02, from: RTÉ News
@@ -473,6 +965,30 @@ date: 2025-07-02, from: CBC, World News
 
 ---
 
+## Sued for $1.45M by Calgary art gallery, Norval Morrisseau Estate Ltd. denies all claims
+
+date: 2025-07-02, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7574535.1751315541!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/norval-morrisseau.jpeg' alt='A black and white image shows a man in a jean jacket. He&apos;s visible from the side, painting on a wall in front of him. He appears to be concentrating on a line he&apos;s painting. ' width='620' height='349' title='Norval Morrisseau is pictured painting for an exhibition in Saint-Paul-de-Vence, France, in September 1969.'/><p>Norval Morrisseau Estate Ltd. is denying claims it defamed and breached a contract with an Alberta art gallery by implying its works could be fakes. In March, the gallery launched a lawsuit alleging defamation and breach of contract.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/norval-morrisseau-estate-ltd-denies-calgary-gallery-lawsuit-claims-1.7574533?cmp=rss>
+
+---
+
+## The Kanien'kehá:ka say 97km² of Montreal’s South Shore is theirs. They want their claim settled
+
+date: 2025-07-02, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/d64eef8f-e1fa-49bf-8a04-ff6f9ed51bbd,1751326159726/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='In front of images of a map and a sign reading &quot;This is Mohawk Land&quot; a man poses for the camera in a suit' width='620' height='349' title=''/><p>While Kahnawà:ke currently encompasses about 50km² of territory across the St. Lawrence river from Montreal, the territory dedicated to the Kanien'kehá:ka’s ancestors in the 17th century was nearly twice the size. Much of that land has gradually been developed into Montreal suburbs and infrastructure projects.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6816640?cmp=rss>
+
+---
+
 ## Emeis Ireland pauses all nursing home admissions - HIQA
 
 date: 2025-07-02, from: RTÉ News
@@ -485,11 +1001,11 @@ Emeis Ireland, the nursing home group which operates the two care centres featur
 
 ---
 
-## Trump urges Hamas to agree 'final' ceasefire proposal
+## Hamas mulls ceasefire proposal labelled 'final' by Trump
 
 date: 2025-07-02, from: RTÉ News
 
-US President Donald Trump has urged Hamas to agree to what he called a "final proposal" for a 60-day ceasefire with Israel in Gaza that will be delivered by mediating officials from Qatar and Egypt. 
+Hamas has said it is studying what US President Donald Trump has called a "final" ceasefire proposal for Gaza but that Israel must pull out of the enclave, while Israeli leader Benjamin Netanyahu said Hamas would be eliminated. 
 
 <br> 
 
@@ -497,11 +1013,23 @@ US President Donald Trump has urged Hamas to agree to what he called a "final pr
 
 ---
 
-## 10% US tariffs are 'new normal', says Tánaiste
+## Boy who died in Kerry incident had 'radiated positivity'
 
 date: 2025-07-01, from: RTÉ News
 
-Tánaiste Simon Harris has told a trade forum that US tariffs of 10% on exports from Ireland will be the "new normal" but that efforts are continuing to agree zero for zero taxes in some key areas. 
+Tributes have been paid to 16-year-old Darragh Byrne who died after falling from a height close to a lake near Daingean Uí Chúis in Co Kerry, with his school describing him as a "bright and uplifting presence". 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0702/1521363-kerry-incident-lake/>
+
+---
+
+## Minister 'hopeful rather than confident' at tariff deal
+
+date: 2025-07-01, from: RTÉ News
+
+Minister for Enterprise, Tourism and Employment Peter Burke has said that he is "hopeful rather than confident" that a deal on tariffs can be reached between the US and European Union by 9 July. 
 
 <br> 
 
@@ -614,6 +1142,18 @@ An inquest into the death of a baby boy who suffered a lack of oxygen to the bra
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0701/1521329-baby-aaron-cullen-inquest/>
+
+---
+
+## Iconic Sauble Beach welcome sign changed to reflect First Nation ownership
+
+date: 2025-07-01, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7574922.1751399403!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/saugeen-beach.jpg' alt='Members of Saugeen First Nation change the sign that&apos;s been a landmark at the Lake Huron beach on July 1, 2025. ' width='620' height='349' title='Members of Saugeen First Nation change the sign that&apos;s been a landmark at the Lake Huron beach on July 1, 2025. '/><p>A landmark sign that's welcomed beach-goers to a popular strip of sand on the Lake Huron shoreline for decades looked a little different this Canada Day.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/london/iconic-sauble-beach-welcome-sign-changed-to-reflect-first-nation-ownership-1.7574920?cmp=rss>
 
 ---
 
@@ -1381,6 +1921,18 @@ date: 2025-06-30, from: CBC, World News
 
 ---
 
+## Gwich'in language symposium was 'good medicine,' says organizer
+
+date: 2025-06-30, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7574688.1751329516!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/gwich-in-language-symposium.JPG' alt='People at a table outside cleaning fish.' width='620' height='349' title='Participants at a 5-day symposium on the Gwich&apos;in language, held near Inuvik, N.W.T., June 2025.'/><p>A five-day symposium on the Gwich'in language was held last week near Inuvik, N.W.T. The week was one of storytelling, sharing knowledge, and traditional activities like fish cutting and fiddling.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/gwich-in-language-symposium-was-good-medicine-says-organizer-1.7574671?cmp=rss>
+
+---
+
 ## Woman denies mother was not present for alleged assault
 
 date: 2025-06-30, from: RTÉ News
@@ -1674,6 +2226,18 @@ Stena Line is withdrawing its three-day Rosslare to Cherbourg ferry service from
 <br> 
 
 <https://www.rte.ie/news/business/2025/0630/1521075-stena-line/>
+
+---
+
+## Horror writer Stephen Graham Jones explains 'what it really means to be a vampire'
+
+date: 2025-06-30, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7573756.1751179762!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/stephen-graham-jones.jpg' alt='A black-and-white headshot of Stephen Graham Jones.' width='620' height='349' title='A headshot of Stephen Graham Jones.'/><p>In a Q interview with guest host Talia Schlanger, the indigenous horror writer talks about why vampirism is like colonialism</p> 
+
+<br> 
+
+<https://www.cbc.ca/arts/q/horror-writer-stephen-graham-jones-explains-what-it-really-means-to-be-a-vampire-1.7573755?cmp=rss>
 
 ---
 

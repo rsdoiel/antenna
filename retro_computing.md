@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-07-02 06:08:38
+updated: 2025-07-02 14:07:17
 ---
 
 # retro computing
 
-(date: 2025-07-02 06:08:38)
+(date: 2025-07-02 14:07:17)
+
+---
+
+## Ann Arbor Software's Textra Word Processing
+
+date: 2025-07-02, from: Computer ads from the Past
+
+The shortest distance between your thoughts and the printed word. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/ann-arbor-softwares-textra-word-processing>
 
 ---
 

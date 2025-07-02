@@ -1,11 +1,134 @@
 ---
 title: socal north
-updated: 2025-07-02 06:08:31
+updated: 2025-07-02 14:07:12
 ---
 
 # socal north
 
-(date: 2025-07-02 06:08:31)
+(date: 2025-07-02 14:07:12)
+
+---
+
+## ICE targets men near Inland Empire church grounds
+
+date: 2025-07-02, updated: 2025-07-02, from: The LAist
+
+Immigration arrests near two Inland Empire Catholic churches have sparked backlash and raised questions about ICE operations on religious grounds. 
+
+<br> 
+
+<https://laist.com/news/ice-targets-men-inland-empire-church-grounds>
+
+---
+
+## A quick guide to safely throwing out fireworks
+
+date: 2025-07-02, updated: 2025-07-02, from: The LAist
+
+CalFire and the L.A. County Fire Department share steps for disposing these combustible items. 
+
+<br> 
+
+<https://laist.com/news/california-fireworks-disposal-guide-july-fourth>
+
+---
+
+## In a first, California moves toward paying incarcerated firefighters minimum wage
+
+date: 2025-07-02, updated: 2025-07-02, from: The LAist
+
+California deployed incarcerated firefighters to combat wildfires in Los Angeles earlier this year. Now, a new state budget aims to ensure they receive minimum wage for their emergency response work. 
+
+<br> 
+
+<https://laist.com/news/california-moves-toward-paying-incarcerated-firefighters-minimum-wage>
+
+---
+
+## Santa Ana appoints its first police oversight director, paving the way for investigations into possible misconduct
+
+date: 2025-07-02, updated: 2025-07-02, from: The LAist
+
+City Council appointed T. Jack Morse, but also proposed sweeping changes to the commission’s powers. 
+
+<br> 
+
+<https://laist.com/news/politics/santa-ana-appoints-first-police-oversight-director-investigations-misconduct>
+
+---
+
+## California schools are scrambling as Trump administration withholds almost $811 million
+
+date: 2025-07-02, updated: 2025-07-02, from: The LAist
+
+Congress already approved the education funding, which pays for migrant education, after school programs and other services. 
+
+<br> 
+
+<https://laist.com/news/education/california-schools-are-scrambling-as-trump-administration-withholds-almost-811-million>
+
+---
+
+## California schools are scrambling as Trump administration withholds almost $811 million
+
+date: 2025-07-02, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1024x682.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1024x682.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp.jpg 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>California districts have not received Congressionally appropriated money for after school programs, academic enrichment, English-learner services, teacher professional development and migrant education.</p>
+<p>The post <a href="https://lbpost.com/news/california-schools-trump-administration-withholds-funds">California schools are scrambling as Trump administration withholds almost $811 million</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/california-schools-trump-administration-withholds-funds>
+
+---
+
+## States sue Trump administration for sharing health data with DHS
+
+date: 2025-07-02, updated: 2025-07-02, from: The LAist
+
+California is leading 20 state attorneys general in a lawsuit seeking to block health officials from further sharing Medicaid data and the Trump administration from using it for immigration enforcement or "population surveillance." 
+
+<br> 
+
+<https://laist.com/news/states-sue-trump-administration-sharing-health-data-with-dhs>
+
+---
+
+## Sean Combs found guilty on two counts, but acquitted on most serious charges
+
+date: 2025-07-02, updated: 2025-07-02, from: The LAist
+
+The music mogul was found guilty of transportation to engage in prostitution, but the jury found him not guilty on three counts related to racketeering conspiracy and sex trafficking. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/sean-combs-found-guilty-on-two-counts-acquitted-on-most-serious-charges>
+
+---
+
+## Low clouds bring slight cooling to SoCal
+
+date: 2025-07-02, updated: 2025-07-02, from: The LAist
+
+Temperatures will be a couple degrees cooler today in SoCal compared to earlier this week. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/low-clouds-bring-slight-cooling-to-socal>
+
+---
+
+## This Echo Park barbecue joint will ruin all other BBQ for you
+
+date: 2025-07-02, updated: 2025-07-02, from: The LAist
+
+At The Park’s Finest, chef and co-founder Johneric Concordia’s rubs and banana leaf cornbread rewrite the rules of flavor. 
+
+<br> 
+
+<https://laist.com/news/food/this-echo-park-barbecue-joint-will-ruin-all-other-bbq-for-you>
 
 ---
 
@@ -18,18 +141,6 @@ Pets frightened by fireworks may run away from home. We have tips from experts o
 <br> 
 
 <https://laist.com/news/how-to-keep-pets-safe-calm-fourth-of-july>
-
----
-
-## This Echo Park barbecue joint will ruin all other BBQ For you
-
-date: 2025-07-02, updated: 2025-07-02, from: The LAist
-
-At The Park’s Finest, chef and co-founder Johneric Concordia’s rubs and banana leaf cornbread rewrite the rules of flavor. 
-
-<br> 
-
-<https://laist.com/news/food/this-echo-park-barbecue-joint-will-ruin-all-other-bbq-for-you>
 
 ---
 
@@ -47,7 +158,7 @@ The new director is not expected to be named until their employment contract is 
 
 ## New rent increase caps start in LA as city delays updating rent control formula
 
-date: 2025-07-01, updated: 2025-07-01, from: The LAist
+date: 2025-07-01, updated: 2025-07-02, from: The LAist
 
 Most L.A. apartments are covered by the city’s decades-old rent control law. New limits on annual rent hikes take effect July 1 without reforms that have been waiting for a City Council vote. 
 
@@ -59,7 +170,7 @@ Most L.A. apartments are covered by the city’s decades-old rent control law. N
 
 ## LAUSD to lose millions for English language learners, afterschool programs after Trump admin withholds funds
 
-date: 2025-07-01, updated: 2025-07-01, from: The LAist
+date: 2025-07-01, updated: 2025-07-02, from: The LAist
 
 Superintendent Carvalho says the $110.5 million cuts target immigrant communities and vulnerable students. 
 
@@ -73,7 +184,7 @@ Superintendent Carvalho says the $110.5 million cuts target immigrant communitie
 
 date: 2025-07-01, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The penguins arrived at the local aquarium as part of the Species Survival Program, which matches species based on their genetics.</p>
 <p>The post <a href="https://lbpost.com/news/meet-inca-and-milo-the-newest-penguins-at-the-aquarium-of-the-pacific">Meet Inca and Milo, the newest penguins at the Aquarium of the Pacific</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

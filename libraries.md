@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-07-02 06:08:37
+updated: 2025-07-02 14:07:16
 ---
 
 # libraries
 
-(date: 2025-07-02 06:08:37)
+(date: 2025-07-02 14:07:16)
 
 ---
 
@@ -18,6 +18,31 @@ Weinold, Michael
 <br> 
 
 <http://hdl.handle.net/20.500.11850/742383>
+
+---
+
+## Short Fiction, by J. Sheridan Le Fanu
+
+date: 2025-07-02, from: Standard Ebooks, new releaases
+
+A collection of J. Sheridan Le Fanu’s short fiction, including some of his famous ghost stories, gothic horror and sensation. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/j-sheridan-le-fanu/short-fiction>
+
+---
+
+## Bad science—what’s next?
+
+date: 2025-07-02, from: SciELO in Perspective
+
+<p>The dissemination of dubious quality research is a problem that is increasingly worrying scientific journals editors. The various cases during the covid-19 pandemic have put the problem on everyone's radar. The need to discuss this issue is becoming more and more pressing. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2025/07/02/bad-science-whats-next/" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/en/2025/07/02/bad-science-whats-next/">Bad science—what’s next?</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<br> 
+
+<https://blog.scielo.org/en/2025/07/02/bad-science-whats-next/>
 
 ---
 
@@ -39,7 +64,7 @@ date: 2025-07-02, from: Scholarly Kitchen
 
 date: 2025-07-01, from: Association of Research Libraries News
 
-<p>Last Updated on July 1, 2025, 3:18 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 2 &#124; Wednesday, July 3 Tuesday, July...</p>
+<p>Last Updated on July 2, 2025, 2:00 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 2 &#124; Wednesday, July 3 Note: Day...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-1-2/">Day in Review (July 1–2)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

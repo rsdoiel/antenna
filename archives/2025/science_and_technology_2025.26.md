@@ -1,15 +1,255 @@
 ---
 title: science and technology
-updated: 2025-07-02 06:08:33
+updated: 2025-07-02 14:07:14
 ---
 
 # science and technology
 
-(date: 2025-07-02 06:08:33)
+(date: 2025-07-02 14:07:14)
 
 ---
 
-## US drops sanctions on second Russian bulletproof hosting vehicle this year
+## CISA warns the Signal clone used by natsec staffers is being attacked, so patch now
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>Two flaws in TeleMessage are &#39;frequent attack vectors for malicious cyber actors&#39;</h4> <p>The US security watchdog CISA has warned that malicious actors are actively exploiting two flaws in the Signal clone TeleMessage TM SGNL, and has directed federal agencies to patch the flaws or discontinue use of the app by July 22.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/cisa_telemessage_patch/>
+
+---
+
+## NASA Awards Simulation and Advanced Software Services II Contract
+
+date: 2025-07-02, from: NASA breaking news
+
+NASA has awarded a contract to MacLean Engineering &#38; Applied Technologies, LLC of Houston to provide simulation and advanced software services to the agency. The Simulation and Advanced Software Services II (SASS II) contract includes services from Oct. 1, 2025, through Sept. 30, 2030, with a maximum potential value not to exceed $150 million. The [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-simulation-and-advanced-software-services-ii-contract/>
+
+---
+
+## Call center staffers explain to researchers how their AI assistants aren't very helpful
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>Lots of manual corrections and data entry still required</h4> <p><strong>ai-pocalypse</strong>  Recent research details how customer service reps at a Chinese utility&#39;s call center often struggled when trying to use an AI assistant, and were forced to make manual fixes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/call_center_ai_assistants/>
+
+---
+
+## How NASA’s SPHEREx Mission Will Share Its All-Sky Map With the World
+
+date: 2025-07-02, from: NASA breaking news
+
+NASA’s newest astrophysics space telescope launched in March on a mission to create an all-sky map of the universe. Now settled into low-Earth orbit, SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) has begun delivering its sky survey data to a public archive on a weekly basis, allowing anyone […] 
+
+<br> 
+
+<https://science.nasa.gov/open-science/spherex-universe-map/>
+
+---
+
+## The new troll diet
+
+date: 2025-07-02, from: OS News
+
+We need a new framework for how to defend against &#8220;trolls&#8221;. The feeding metaphor ran its course many years ago. It is done and will not be coming back. New online risks demand that we adapt and become proactive in protecting our spaces. We have to loudly and proudly set the terms of what is permissible. Those holding social or institutional power in communities should be willing to drop a few loud fuck offs to anyone trying to work their way in by weaponizing optics, concern trolling, or the well known &#8220;tolerance paradox&#8221;. Conceding through silence, or self-censorship, only emboldens those who benefit from attacking a community. ↫ diegoebe Een volk dat voor tirannen zwicht, zal meer dan lijf en goed verliezen, dan dooft het licht. 
+
+<br> 
+
+<https://www.osnews.com/story/142675/the-new-troll-diet/>
+
+---
+
+## HPE finally closes Juniper deal, but offers no details on what happens next
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>A big shrug to early integration questions</h4> <p>HPE has completed its takeover of Juniper Networks, but the conjoined pair isn&#39;t yet ready to discuss details about how the networking business will fit into HPE&#39;s existing lineup alongside Aruba.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/hpe_closes_juniper_acquisition/>
+
+---
+
+## MethaneSAT 'likely not recoverable' after losing contact with Earth
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>Methane monitoring satellite managed just over a year in orbit before its sudden demise</h4> <p>The Bezos-backed MethaneSAT satellite has been declared &#34;likely not recoverable&#34; after losing contact with controllers just over a week ago.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/methanesat_likely_not_recoverable/>
+
+---
+
+## 23andMe's new owner says your DNA is safe this time
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>Nonprofit TTAM assures everything is BAU. Whether that makes customers feel better is another matter</h4> <p>The medical research nonprofit vying to buy 23andMe is informing existing customers that it plans to complete the deal on July 8.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/23andme_buyer_writes_to_customers/>
+
+---
+
+## What’s Up: July 2025 Skywatching Tips from NASA
+
+date: 2025-07-02, from: NASA breaking news
+
+A.M./P.M. Planet Watching, Plus the Eagle Constellation Mars shines in the evening, and is joined briefly by Mercury. Jupiter joins Venus as the month goes on. And all month, look for Aquila the eagle. Skywatching Highlights All Month – Planet Visibility: Daily Highlights: July 1 – 7 – Mercury is relatively bright and easy to […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/whats-up-july-2025-skywatching-tips-from-nasa/>
+
+---
+
+## Huawei can't wriggle out of Iran sanctions trial, judge rules
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>Dismissal bid denied as 16-count indictment moves toward trial in May 2026</h4> <p>Huawei will still have to face trial in the US next year over alleged breaches of sanctions against Iran after a judge declined its request to dismiss various charges.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/huawei_iran_appeal/>
+
+---
+
+## To the Spacemobile!
+
+date: 2025-07-02, from: NASA breaking news
+
+In this Nov. 1, 1964, image, three members of NASA&#8217;s Lewis Research Center’s (now NASA’s Glenn Research Center in Cleveland) Educational Services Office pose with one of the center’s Spacemobile space science demonstration units. Once the NACA (National Advisory Committee for Aeronautics) became NASA, public outreach became one of the agency’s core tenets. Lewis, which [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/to-the-spacemobile/>
+
+---
+
+## Discovery Alert: Flaring Star, Toasted Planet
+
+date: 2025-07-02, from: NASA breaking news
+
+The Discovery A giant planet some 400 light-years away, HIP 67522 b, orbits its parent star so tightly that it appears to cause frequent flares from the star’s surface, heating and inflating the planet’s atmosphere. Key Facts On planet Earth, “space weather” caused by solar flares might disrupt radio communications, or even damage satellites. But […] 
+
+<br> 
+
+<https://science.nasa.gov/universe/exoplanets/discovery-alert-flaring-star-toasted-planet/>
+
+---
+
+## Microsoft kicks off new fiscal year with more layoffs
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>Reports of 9,000 staff cut</h4> <p>Microsoft&#39;s recent trend of wide-scale workforce reduction continues, with reports that Redmond is preparing to slash an additional 4 percent of its employees – or around 9,000 people.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/microsoft_layoffs/>
+
+---
+
+## Near-Earth Asteroids as of July 2025
+
+date: 2025-07-02, from: NASA breaking news
+
+Each month, NASA’s Planetary Defense Coordination Office releases a monthly update featuring the most recent figures on NASA’s planetary defense efforts, near-Earth object close approaches, and other timely facts about comets and asteroids that could pose an impact hazard with Earth. Here is what we’ve found so far. Updated: July 2, 2025 
+
+<br> 
+
+<https://science.nasa.gov/science-research/planetary-science/planetary-defense/near-earth-asteroids/>
+
+---
+
+## 'Elevated' moisture reading ignored before Heathrow-closing conflagration, says NESO
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>Datacenters kept humming along, but there&#39;s plenty of blame to be passed around elsewhere</h4> <p>The cause of a power outage that cut the juice to London Heathrow airport in March has been identified - along with a chain of failures that allowed it to happen.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/moist_bushing_behind_heathrowclosing_conflagration/>
+
+---
+
+## 3 Years of Science: 10 Cosmic Surprises from NASA’s Webb Telescope
+
+date: 2025-07-02, from: NASA breaking news
+
+Since July 2022, NASA’s James Webb Space Telescope has been unwaveringly focused on our universe. With its unprecedented power to detect and analyze otherwise invisible infrared light, Webb is making observations that were once impossible, changing our view of the cosmos from the most distant galaxies to our own solar system. Webb was built with […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/webb/3-years-of-science-10-cosmic-surprises-from-nasas-webb-telescope/>
+
+---
+
+## Trump's One Big Beautiful Bill bankrolls $85M Space Shuttle shuffle
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>NASA science might be cut, but cash can be found to move a &#39;space vehicle&#39; from museum to museum</h4> <p>Lurking in the text contained within the One Big Beautiful Bill, which was passed by the <a target="_blank" href="https://www.congress.gov/bill/119th-congress/house-bill/1">US Senate</a> yesterday, is an $85 million allocation for shifting a &#34;space vehicle&#34; to a new location, widely interpreted as a move of the retired Space Shuttle Discovery orbiter from Virginia to Houston.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/space_shuttle_relocation_bill/>
+
+---
+
+## Physicists Start To Pin Down How Stars Forge Heavy Atoms
+
+date: 2025-07-02, from: Quanta Magazine
+
+The precursors of heavy elements might arise in the plasma underbellies of swollen stars or in smoldering stellar corpses. They definitely exist in East Lansing, Michigan.            <p>The post <a href="https://www.quantamagazine.org/physicists-start-to-pin-down-how-stars-forge-heavy-atoms-20250702/" target="_blank">Physicists Start To Pin Down How Stars Forge Heavy Atoms</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/physicists-start-to-pin-down-how-stars-forge-heavy-atoms-20250702/>
+
+---
+
+## NASA Stennis Engineer Takes Pride in Test Support Work
+
+date: 2025-07-02, from: NASA breaking news
+
+As a controls engineer at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, Dwayne Lavigne does not just fix problems – he helps put pieces together at America’s largest rocket propulsion test site. “There are a lot of interesting problems to solve, and they are never the same,” Lavigne said. “Sometimes, it is like [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/dwayne-lavigne-takes-pride-in-test-work/>
+
+---
+
+## Impact of Microsoft taking over Enterprise Account renewals starts to 'bite'
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>Cutting out middle man dents coffers of larger service providers, helps Redmond offset AI investments</h4> <p>The sweeping changes Microsoft is making to its licensing incentives for large service providers is taking hold.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/impact_of_microsoft_taking_over_ea_begins/>
+
+---
+
+## US imposes sanctions on second Russian bulletproof hosting vehicle this year
 
 date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
 
@@ -73,7 +313,7 @@ date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
 
 date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
 
-<h4>Mysterious ‘Alloy 30’ gets smaller when heated, which could help stabilize super-sensitive space telescopes</h4> <p>NASA is exploring the properties of a metal alloy that shrinks as it is heated, as boffins in its Astrophysics Division think it may be needed if the planned Habitable Worlds Observatory (HBO) is to succeed.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Mysterious ‘Alloy 30’ gets smaller when heated, which could help stabilize super-sensitive space telescopes</h4> <p>NASA is exploring the properties of a metal alloy that shrinks as it is heated, as boffins in its Astrophysics Division think it may be needed if the planned Habitable Worlds Observatory (HWO) is to succeed.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -395,7 +635,7 @@ date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
 
 ## Folks aren’t buying the PCs that US vendors stockpiled to dodge tariffs
 
-date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+date: 2025-07-01, updated: 2025-07-02, from: The Register (UK I.T. News)
 
 <h4>Plus: Consumers respond to imminent Win 10 cutoff date with collective &#39;Meh&#39;</h4> <p><strong>World War Fee</strong>  Total PC shipments in the US will increase by just 2 percent this year, thanks to Trump&#39;s tariffs and little appetite from consumers for spending on &#34;big-ticket&#34; items, despite the looming end of Windows 10 support.…</p> 
 

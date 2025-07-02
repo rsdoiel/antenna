@@ -1,11 +1,40 @@
 ---
 title: small papers
-updated: 2025-07-02 06:08:40
+updated: 2025-07-02 14:07:18
 ---
 
 # small papers
 
-(date: 2025-07-02 06:08:40)
+(date: 2025-07-02 14:07:18)
+
+---
+
+## HOROSCOPE
+
+date: 2025-07-02, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>By Holiday Mathis (Creators.com) ARIES (March 21-April 19) You’ll outsource a problem, like hiring someone to help with tech, repairs, admin work or emotional labor. You won’t hand it off [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/02/horoscope-218/">HOROSCOPE</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/02/horoscope-218/>
+
+---
+
+## California schools are scrambling as Trump administration withholds almost $811 million
+
+date: 2025-07-02, from: Long Beach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1024x682.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1024x682.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp.jpg 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>California districts have not received Congressionally appropriated money for after school programs, academic enrichment, English-learner services, teacher professional development and migrant education.</p>
+<p>The post <a href="https://lbpost.com/news/california-schools-trump-administration-withholds-funds">California schools are scrambling as Trump administration withholds almost $811 million</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/california-schools-trump-administration-withholds-funds>
 
 ---
 
@@ -13,7 +42,7 @@ updated: 2025-07-02 06:08:40
 
 date: 2025-07-01, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The penguins arrived at the local aquarium as part of the Species Survival Program, which matches species based on their genetics.</p>
 <p>The post <a href="https://lbpost.com/news/meet-inca-and-milo-the-newest-penguins-at-the-aquarium-of-the-pacific">Meet Inca and Milo, the newest penguins at the Aquarium of the Pacific</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

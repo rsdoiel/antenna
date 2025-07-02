@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-07-02 06:08:37
+updated: 2025-07-02 14:07:17
 ---
 
 # motorcycles
 
-(date: 2025-07-02 06:08:37)
+(date: 2025-07-02 14:07:17)
+
+---
+
+## Polaris' New UTV Patent Is a Game-Changer
+
+date: 2025-07-02, from: Ride Apart, Electric Motorcycle News
+
+Did the company finally solve the issue that is four-seat-only go-fast UTVs? 
+
+<br> 
+
+<https://www.rideapart.com/news/764417/polaris-rzr-utv-adaptable-seat-configuration-patent/>
 
 ---
 

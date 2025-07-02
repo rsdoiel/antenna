@@ -1,11 +1,101 @@
 ---
 title: writing
-updated: 2025-07-02 06:08:35
+updated: 2025-07-02 14:07:15
 ---
 
 # writing
 
-(date: 2025-07-02 06:08:35)
+(date: 2025-07-02 14:07:15)
+
+---
+
+## Quirk Layoffs
+
+date: 2025-07-02, from: Locus Magazine
+
+<p>Independent publisher Quirk Books has paused its publishing program and laid off &#8220;a significant portion of its staff.&#8221; In a statement to Publishers Weekly, David Borgenicht, Quirk Books founder and publisher, said:</p>
+<p>We have a plan in place that required us to really make some staff reductions and change the nature of the list moving forward so that we can be profitable and grow again &#8230; The layoffs had been  <a href="https://locusmag.com/2025/07/quirk-layoffs/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/quirk-layoffs/>
+
+---
+
+## 2025 ESFS Awards Winners
+
+date: 2025-07-02, from: Locus Magazine
+
+<p>The European Science Fiction Society (ESFS) announced the Hall of Fame Awards, Achievement Awards, and winners of the Chrysalis Awards for emerging talent.</p>
+<div class="mynomorebulletlist">
+<p><strong>Hall of Fame Awards</strong></p>
+<p><strong>Best Author</strong></p>
+<ul>
+<li>WINNER: Aliette de Bodard (France)</li>
+</ul>
+<ul>
+<li>Marc Elsberg (Austria)</li>
+<li>Lanfranco Fabriani (Italy)</li>
+<li>Cristian Hriscu &#38; Lucian Merișca (Romania)</li>
+<li>Макс Кідрук/Max Kidruk (Ukraine)</li>
+<li>Darko Macan (Croatia)</li>
+<li>Aiki Mira (Germany)</li>
+<li>Tais Teng (Netherlands)</li>
+<li>Marin Troshanov (Bulgaria)</li>
+</ul>
+<p><strong>Best Artist</strong></p>
+<ul>
+<li>WINNER: Johan Egerkrans (Sweden)</li>
+</ul>
+<ul>
+<li>benSwerk/S. Beneš </li></ul></div> <a href="https://locusmag.com/2025/07/2025-esfs-awards-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/07/2025-esfs-awards-winners/>
+
+---
+
+## 'Jurassic World: Rebirth' Writer David Koepp on the Screenwriting Mistake That Dooms Scripts
+
+date: 2025-07-02, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/jurassic-world-rebirth-writer-david-koepp-on-the-screenwriting-mistake-that-dooms-scripts" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Jonathan%20Bailey%20and%20Scarlett%20Johansson%20in%20Jurassic%20World_%20Rebirth.png" alt="Jonathan Bailey and Scarlett Johansson duck behind greenery in Jurassic World: Rebirth" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>David Koepp is a Hollywood legend. One of the most successful screenwriters of all time, Koepp is the iconic voice behind works like <em>Jurassic Park, The Lost World, Death Becomes Her, Mission: Impossible</em>, and many more.&nbsp;<br><br>Koepp is known for his versatility. He has achieved both critical and commercial success in a wide variety of genres, including thriller, science fiction, comedy, action, drama, crime, superhero, horror, <a href="https://blog.finaldraft.com/big-break-winners-sell-true-life-adventure-script-faster-than-horses">adventure</a>, and fantasy. He can write in essentially any world or tone and deliver consistent blockbusters.&nbsp;<br><br>Recently, he rejoined Steven Spielberg to take on dinosaurs again for <em>Jurassic World: Rebirth</em>, the next entry in the <em>Jurassic</em> franchise. Set five years after the events of <a href="https://blog.finaldraft.com/jurassic-world-dominion-screenwriter-on-her-writing-process-and-tips"><em>Jurassic World: Dominion</em></a>, in <span style="font-style: italic;">Rebirth</span> the world’s environment has become mostly inhospitable to dinosaurs, leaving them only the tropical regions that feel like their original habitats. Directed by Gareth Edwards, the film stars Scarlett Johansson, Jonathan Bailey, and Mahershala Ali.<br><br>We were delighted to be able to speak with Koepp ahead of <span style="font-style: italic;">Jurassic World: Rebirth</span> and learn about his process on the film, as well as get his advice on structure and more.<br><br><span style="font-style: italic;">Editor’s note: The following conversation has been edited for length and clarity.</span><br></p> 
+
+<br> 
+
+<https://blog.finaldraft.com/jurassic-world-rebirth-writer-david-koepp-on-the-screenwriting-mistake-that-dooms-scripts>
+
+---
+
+## Mastering the Rewrite: How to Tackle a Screenplay You Didn’t Write
+
+date: 2025-07-02, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/mastering-the-rewrite-how-to-tackle-a-screenplay-you-didnt-write" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Wooden%20block%20letters%20of%20the%20word%20REWRITE%20lay%20on%20a%20laptop%20keyboard.png" alt="Wooden block letters of the word REWRITE lay on a laptop keyboard" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Most screenwriters focus heavily on their original spec scripts (screenplays written under speculation that they will be sold) — and rightfully so. We get into screenwriting because we have cinematic stories we want to tell.&nbsp;<br><br>However, a majority of screenwriting contracts both in and out of the Hollywood system entail screenwriters writing other people’s ideas. That’s right — a majority of what you will be doing as a professional screenwriter is a work-for-hire experience where you will be developing and writing screenplays based on other people’s concept, intellectual property, and, yes, rewriting other people’s screenplays.&nbsp;<br><br>Here we offer a look into the world of pro screenwriting contracts, namely writing assignments where a screenwriter is being brought in to rewrite a script that a company owns — a script that was written by another screenwriter.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/mastering-the-rewrite-how-to-tackle-a-screenplay-you-didnt-write>
+
+---
+
+## The Legendary Scarlett & Browne by Jonathan Stroud: Review by Colleen Mondor
+
+date: 2025-07-02, from: Locus Magazine
+
+<p><strong>The Legendary Scarlett &#38; Browne</strong>, Jonathan Stroud (Knopf Books for Young Readers 978-0-593-70736-4, $17.99, 448pp, hc) March 2025.</p>
+<p>Jonathan Stroud, who gained many fans with his Lockwood &#38; Co. series, recently released the last entry in a separate series, the Scarlett and Browne trilogy. Set in a futuristic and frag­mented England, (after “the Great Cataclysm” and “the Great Dying”), <strong>The Legendary Scarlett &#38; Browne </strong>ties up all the questions  <a href="https://locusmag.com/2025/07/the-legendary-scarlett-browne-by-jonathan-stroud-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/the-legendary-scarlett-browne-by-jonathan-stroud-review-by-colleen-mondor/>
 
 ---
 

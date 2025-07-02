@@ -1,25 +1,188 @@
 ---
 title: columns
-updated: 2025-07-02 06:08:34
+updated: 2025-07-02 14:07:14
 ---
 
 # columns
 
-(date: 2025-07-02 06:08:34)
+(date: 2025-07-02 14:07:14)
 
 ---
 
-## Ubuntu Disables Spectre/Meltdown Protections
+##  Architect David Romero has built several digital models of Frank Lloyd Wright&#8217;s... 
 
-date: 2025-07-02, updated: 2025-07-01, from: Bruce Schneier blog
+date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
 
-<p>A whole class of speculative execution attacks against CPUs <a href="https://www.schneier.com/blog/archives/2018/01/spectre_and_mel_1.html">were published</a> in 2018. They seemed pretty catastrophic at the time. But the fixes were as well. Speculative execution was a way to speed up CPUs, and removing those enhancements resulted in significant performance drops.</p>
-<p>Now, people are rethinking the trade-off. Ubuntu <a href="https://bugs.launchpad.net/ubuntu/+source/intel-compute-runtime/+bug/2110131">has disabled</a> some protections, resulting in  20% performance boost.</p>
-<blockquote><p>After discussion between Intel and Canonical&#8217;s security teams, we are in agreement that Spectre no longer needs to be mitigated for the GPU at the Compute Runtime level. At this point, Spectre has been mitigated in the kernel, and a clear warning from the Compute Runtime build serves as a notification for those running modified kernels without those patches. For these reasons, we feel that Spectre mitigations in Compute Runtime no longer offer enough security impact to justify the current performance tradeoff...</p></blockquote> 
+ 
 
 <br> 
 
-<https://www.schneier.com/blog/archives/2025/07/ubuntu-disables-spectre-meltdown-protections.html>
+<https://kottke.org/25/07/0047055-architect-david-romero-ha>
+
+---
+
+##  8 Forgotten Figures From the American Revolution, including Margaret Corbin, Joseph Brant,... 
+
+date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047060-8-forgotten-figures-from->
+
+---
+
+##  On global homogenetic culture. &#8220;GHC is Trader Joe&#8217;s bags outside of the... 
+
+date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047058-on-global-homogenetic-cul>
+
+---
+
+## Claude Sonnet is a small-brained mechanical squirrel of <T>
+
+date: 2025-07-02, from: Geoffrey Hunntley's blog
+
+    
+
+<br> 
+
+<https://ghuntley.com/cars/>
+
+---
+
+##  The Kindly Brontosaurus 
+
+date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/the-kindly-brontosaurus-1>
+
+---
+
+## You will own nothing and be happy (Stop Killing Games)
+
+date: 2025-07-02, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">You will own nothing and be happy (Stop Killing Games)</span>
+
+            <blockquote>
+  <p><strong>tl;dr</strong>: If you're an EU citizen, <a href="https://eci.ec.europa.eu/045/public/#/screen/home">sign the Stop Killing Games initiative here</a>. Or, if you're in the UK, <a href="https://petition.parliament.uk/petitions/702074/">sign this petition</a>.</p>
+</blockquote>
+
+<p>A month ago, I had a <em>second</em> video on self-hosting <a href="https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated">taken down</a>. YouTube said it was 'harmful or dangerous content'. I appealed that, but my appeal was rejected.</p>
+
+<p><em>Luckily</em>, I have enough reach I was able to get a <a href="https://x.com/TeamYouTube/status/1931119648675701161">second chance</a>. Most content creators aren't so lucky, and content about tools like Jellyfin and LibreELEC get buried over time.</p>
+
+<p>But it's not just self-hosting.</p>
+
+<blockquote>
+  <p><strong>Note</strong>: This blog post is a lightly edited transcript of my most recent YouTube video, <a href="https://www.youtube.com/watch?v=rAsgjKBkKMA">You will own NOTHING and be HAPPY (SKG)</a>.</p></blockquote>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">July 2, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/you-will-own-nothing-and-be-happy-stop-killing-games-0>
+
+---
+
+## Jason Snell: ‘About That A18 Pro MacBook Rumor’
+
+date: 2025-07-02, updated: 2025-07-02, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sixcolors.com/post/2025/07/about-that-a16-macbook-rumor/>
+
+---
+
+##  Before he died, David Lynch talked to Natasha Lyonne about AI. &#8220;Natasha,... 
+
+date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047057-before-he-died-david-lync>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-02, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/03/12/hamstercage.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Software internally is mostly pipes connected to other pipes, each adding a specific quality to whatever passes through it. If you have nice standards for what you send through the pipes, you can do more of what you imagine. This is called <a href="https://en.wikipedia.org/wiki/Orthogonality_(programming)">orthogonality</a>. <a href="https://en.wikipedia.org/wiki/Code_refactoring">Factoring</a> is when you notice a repeating pattern, give it a name, and a set of things you can do to it, those would be names of pipes. I have to ask ChatGPT what it thinks about this, but I am also asking my human friends. BTW I expect this seems so natural because our minds probably work that way too, internally, below our conscious awareness. 
+
+<br> 
+
+<http://scripting.com/2025/07/02.html#a152605>
+
+---
+
+## 2025-07-02 Cloudflare? No.
+
+date: 2025-07-02, from: Alex Schroeder's Blog
+
+<h1 id="2025-07-02-cloudflare-no">2025-07-02 Cloudflare? No.</h1>
+
+<p><a class="account" href="https://social.tchncs.de/@babelcarp" title="@babelcarp@social.tchncs.de">@babelcarp</a> asked me about Cloudflare. I think their efforts to block bots and other forms of distributed denial of service (DDOS) attacks are commendable and interesting. But at the same time, I don&rsquo;t want to use them.</p>
+
+<p>Whatever tech they are using to identify bots is proprietary. Is it the list of user agents? The behaviour of certain IP numbers or networks? I mean, I try to do the same thing, right? But using their solution costs money and puts me at their mercy. This is problematic even if they give me their protection for free. If I can no longer defend myself, I&rsquo;ll be happy to accept their help. But until then, I&rsquo;m going to look for other ways.</p>
+
+<p>As a society, handing over control over vast swaths of the web to a single US company is problematic, too. Sure, this gives them great power to find bots and analyse their behaviour across a gazillion websites. But when Cloudflare is down, a large part of the public Internet is down, too. If they censor a country, a company, or an individual, everybody using their service automatically partakes in the action.</p>
+
+<p>Those problems remain even if Cloudflare decided to share their blocklists. Everybody would have an auto-update on short notice, like every 15min at least. And therefore, we&rsquo;d all accept their decisions. If the US president decides that Canada or Greenland or Ukraine or Iran or Palestine needs to be blocked, Cloudflare will have to comply. And without human oversight, everybody using their services will be an accomplice.</p>
+
+<p>What I think would be best is more people experimenting and documenting approaches to the problem. We need to find solutions, collectively. <a href="https://anubis.techaro.lol/">Anubis</a> relies on proof-of-work and JavaScript. This is not ideal for the environment and it&rsquo;s not ideal for browsers without JavaScript. <a href="https://iocaine.madhouse-project.org/">Iocaine</a> uses various ways of identifying bots and feeds them auto-generated drivel in order to poison their data sources. <a href="https://zadzmo.org/code/nepenthes/">Nephentes</a> is a similar tarpit. These solutions are also not ideal for the environment. But process is exactly what we need: More people researching ways to keep the web free.</p>
+
+<p>I wish Cloudflare would share their techniques of keeping the web free. But that, of course, is a bad idea under capitalism.</p>
+
+<p>People using Cloudflare need to weigh the costs and benefits. The ease of use and the ubiquity is a boon. You will never walk alone. It might cost money and a little bit of independence, but it keeps the websites up, so the primary goal is achieved.</p>
+
+<p>Luckily, I&rsquo;m not there, yet. I&rsquo;ve had a few days of downtime but my websites are also not very important. So I can keep on experimenting and documenting approaches to keeping the web free.</p>
+
+<p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-07-02-cloudflare>
+
+---
+
+##  That Dropped Call With Customer Service? It Was on Purpose. &#8220;Not hiring... 
+
+date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047064-that-dropped-call-with-cu>
+
+---
+
+## Wednesday, July 2, 2025
+
+date: 2025-07-02, from: Doc Searls (at Harvard), New Old Blog
+
+And if insurers aren&#39;t buying, hospitals close. Time has a good piece making clear that the socialized part of the U.S. health care system—Medicare and Medicaid—are socialist gravy on a vast B2B insurance business operating inside a captured regulatorium. Patient problems are products bought and sold. Also that it has more than four million views. [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/02/wednesday-july-2-2025/>
 
 ---
 
@@ -680,31 +843,12 @@ It&rsquo;s a Vietnamese autonomous system.</p>
 | grep -v &quot;Monit&quot; \
 | leech-detector \
 | head -n 4
+Total hits: 125
+IP                                       |       Hits | Bandw. | Rel. | Interv. | Status
+----------------------------------------:|-----------:|-------:|-----:|--------:|-------
+                           50.32.203.123 |         32 |     7K |  25% |  552.4s | 200 (40%), 404 (31%), 302 (28%)
 </code></pre>
 
-<table>
-<thead>
-<tr>
-<th align="right">IP</th>
-<th align="right">Hits</th>
-<th align="right">Bandw.</th>
-<th align="right">Rel.</th>
-<th align="right">Interv.</th>
-<th>Status</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td align="right">50.32.203.123</td>
-<td align="right">32</td>
-<td align="right">7K</td>
-<td align="right">29%</td>
-<td align="right">552.4s</td>
-<td>200 (40%), 404 (31%), 302 (28%)</td>
-</tr>
-</tbody>
-</table>
 <p>And who is that?</p>
 
 <pre><code>asn 50.32.203.123
@@ -725,9 +869,9 @@ It&rsquo;s a Vietnamese autonomous system.</p>
       1 /c2-search?url=http%3A%2F%2Fwiki.c2.com%2F%3Fsearch%3D%22TheIdeal%22
 </code></pre>
 
-<p>Clearly, bots. And four of these requests my Apache configuration already detected. The Apache configuration detects some suspicious requests and redirects these to <code>/nobots</code>. My thinking is: I could use this information to extrapolate!</p>
+<p>Clearly, bots. The Apache configuration detects some suspicious requests and redirects these to <code>/nobots</code>. My thinking is: I could use this information to extrapolate!</p>
 
-<p>Who is getting those <code>/nobots</code> results?</p>
+<p>Who is getting the <code>/nobots</code> results?</p>
 
 <pre><code>/root/bin/2h-access-log !^social \
 | grep &quot;GET /nobots&quot; \
@@ -752,7 +896,7 @@ total: 1584
 <p>I have migrated <code>/etc/cron.hourly/butlerian-jihad</code> to <code>/etc/cron.d/butlerian-jigad</code> and it now has two jobs to run.</p>
 
 <pre><code>SHELL=/usr/bin/fish
-IGNORE_IP=!something !something !something
+# Don't forget to replace the !IP argument with your own server or home IPs or you'll end up banning yourself.
 
 # ban very active autonomous systems
 1,16,31,46 *  * * *   root  /root/bin/2h-access-log !^social !178.209.50.237 | awk '{print $2}' | /root/bin/asncounter --no-prefixes 2&gt;/dev/null | awk '/^[0-9]/ &amp;&amp; $1&gt;500 { print $3 }' | ifne xargs /root/bin/asn-networks | ifne xargs fail2ban-client set butlerian-jihad banip &gt; /dev/null
@@ -766,6 +910,32 @@ IGNORE_IP=!something !something !something
 <br> 
 
 <https://alexschroeder.ch/view/2025-06-16-ban-asn>
+
+---
+
+##  Editorial Template for Every Time the United States Goes to War. &#8220;President... 
+
+date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047068-editorial-template-for-ev>
+
+---
+
+## Ubuntu Disables Spectre/Meltdown Protections
+
+date: 2025-07-02, updated: 2025-07-01, from: Bruce Schneier blog
+
+<p>A whole class of speculative execution attacks against CPUs <a href="https://www.schneier.com/blog/archives/2018/01/spectre_and_mel_1.html">were published</a> in 2018. They seemed pretty catastrophic at the time. But the fixes were as well. Speculative execution was a way to speed up CPUs, and removing those enhancements resulted in significant performance drops.</p>
+<p>Now, people are rethinking the trade-off. Ubuntu <a href="https://bugs.launchpad.net/ubuntu/+source/intel-compute-runtime/+bug/2110131">has disabled</a> some protections, resulting in  20% performance boost.</p>
+<blockquote><p>After discussion between Intel and Canonical&#8217;s security teams, we are in agreement that Spectre no longer needs to be mitigated for the GPU at the Compute Runtime level. At this point, Spectre has been mitigated in the kernel, and a clear warning from the Compute Runtime build serves as a notification for those running modified kernels without those patches. For these reasons, we feel that Spectre mitigations in Compute Runtime no longer offer enough security impact to justify the current performance tradeoff...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/07/ubuntu-disables-spectre-meltdown-protections.html>
 
 ---
 
