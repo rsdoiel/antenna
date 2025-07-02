@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2025-07-01 14:07:44
+updated: 2025-07-02 06:08:32
 ---
 
 # ham radio
 
-(date: 2025-07-01 14:07:44)
+(date: 2025-07-02 06:08:32)
+
+---
+
+## ARRL® Logbook of The World® Return to Service
+
+date: 2025-07-01, from: Amateur Radio Relay League News
+
+<p>ARRL The National Association for Amateur Radio® will return Logbook of The World® (LoTW®) to service at <strong>10:00 AM EDT on Wednesday, July 2, 2025.</strong></p><p>We are happy to be bringing the upgraded LoTW servers online, as we know radio amateurs around the world rely on LoTW to receive QSLs and apply for awards. The improvements we made will make no change in the visual appearance of LoTW but will provide e...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-logbook-of-the-world-return-to-service>
 
 ---
 

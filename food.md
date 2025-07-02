@@ -1,11 +1,69 @@
 ---
 title: food
-updated: 2025-07-01 14:07:52
+updated: 2025-07-02 06:08:39
 ---
 
 # food
 
-(date: 2025-07-01 14:07:52)
+(date: 2025-07-02 06:08:39)
+
+---
+
+## Rethinking Robusta: Inside Mikołaj Pociecha’s Mission To Make Canephora Unignorable
+
+date: 2025-07-02, from: The Fresh Cup
+
+<p>The Amsterdam-based roaster’s new book, “Robusta/Canephora: A Brief Guide To Loving It,” brings together global voices to reframe coffee’s “second” species.</p>
+<p>The post <a href="https://freshcup.com/rethinking-robusta-inside-mikolaj-pociechas-mission-to-make-canephora-unignorable/">Rethinking Robusta: Inside Mikołaj Pociecha’s Mission To Make Canephora Unignorable</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/rethinking-robusta-inside-mikolaj-pociechas-mission-to-make-canephora-unignorable/>
+
+---
+
+## Candied Bacon Recipe
+
+date: 2025-07-02, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/candied-bacon/" title="Candied Bacon Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A baking sheet filled with candied bacon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Learn how to make candied bacon! Crispy, sweet, and perfect for brunch, burgers, or Bloody Marys. Easy recipe with spicy options included!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/candied-bacon/">Candied Bacon Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/candied-bacon/>
+
+---
+
+## New Initiative Prioritizes Mental Health Care for Women Coffee Farmers
+
+date: 2025-07-02, from: The Fresh Cup
+
+<p>After a successful trial, the nonprofit SANA has launched a project to provide integrative psychosocial teletherapy sessions, as well as education and community support, for women coffee farmers in Colombia.</p>
+<p>The post <a href="https://freshcup.com/new-initiative-prioritizes-mental-health-care-for-women-coffee-farmers/">New Initiative Prioritizes Mental Health Care for Women Coffee Farmers</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/new-initiative-prioritizes-mental-health-care-for-women-coffee-farmers/>
+
+---
+
+## Breakfast Quesadillas
+
+date: 2025-07-02, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/easy-breakfast-quesadillas/"><img title="breakfast-quesadillas-small-4" src="https://www.isabeleats.com/wp-content/uploads/2025/06/breakfast-quesadillas-small-4-400x600.jpg" alt="Four crispy and golden breakfast quesadillas on a plate served with salsa and sour cream." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Crispy, cheesy breakfast quesadillas filled with eggs, bacon, and veggies. Ready in 20 minutes for a quick brunch, breakfast, or&#8230; 
+
+<br> 
+
+<https://www.isabeleats.com/easy-breakfast-quesadillas/>
 
 ---
 
@@ -427,7 +485,7 @@ The first thing you should make with sweet summer corn.
 
 date: 2025-06-30, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/curry-chicken-salad/" title="Curry Chicken Salad Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Curry-Chicken-Salad-Recipe-BOWL2b-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Curry Chicken Salad in a bowl for serving" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Curry-Chicken-Salad-Recipe-BOWL2b-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Curry-Chicken-Salad-Recipe-BOWL2b-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Curry-Chicken-Salad-Recipe-BOWL2b-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Curry-Chicken-Salad-Recipe-BOWL2b-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Curry-Chicken-Salad-Recipe-BOWL2b-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Curry-Chicken-Salad-Recipe-BOWL2b-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Curry-Chicken-Salad-Recipe-BOWL2b.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Bold, creamy, and packed with sweet heat, this curry chicken salad has mango, avocado, crunchy nuts, and a spicy kick. Perfect for meal prep, lettuce wraps, or sandwiches!</p>
+<a href="https://www.chilipeppermadness.com/recipes/curry-chicken-salad/" title="Curry Chicken Salad Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Curry-Chicken-Salad-Recipe-BOWL2b-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Curry Chicken Salad in a bowl for serving" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Curry-Chicken-Salad-Recipe-BOWL2b-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Curry-Chicken-Salad-Recipe-BOWL2b-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Curry-Chicken-Salad-Recipe-BOWL2b-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Curry-Chicken-Salad-Recipe-BOWL2b-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Curry-Chicken-Salad-Recipe-BOWL2b-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Curry-Chicken-Salad-Recipe-BOWL2b-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Curry-Chicken-Salad-Recipe-BOWL2b.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Bold, creamy, and packed with sweet heat, this curry chicken salad has mango, avocado, crunchy nuts, and a spicy kick. Perfect for meal prep, lettuce wraps, or sandwiches!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/curry-chicken-salad/">Curry Chicken Salad Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

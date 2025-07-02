@@ -1,11 +1,26 @@
 ---
 title: small papers
-updated: 2025-07-01 14:07:52
+updated: 2025-07-02 06:08:40
 ---
 
 # small papers
 
-(date: 2025-07-01 14:07:52)
+(date: 2025-07-02 06:08:40)
+
+---
+
+## Meet Inca and Milo, the newest penguins at the Aquarium of the Pacific
+
+date: 2025-07-01, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The penguins arrived at the local aquarium as part of the Species Survival Program, which matches species based on their genetics.</p>
+<p>The post <a href="https://lbpost.com/news/meet-inca-and-milo-the-newest-penguins-at-the-aquarium-of-the-pacific">Meet Inca and Milo, the newest penguins at the Aquarium of the Pacific</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/meet-inca-and-milo-the-newest-penguins-at-the-aquarium-of-the-pacific>
 
 ---
 
@@ -13,7 +28,7 @@ updated: 2025-07-01 14:07:52
 
 date: 2025-07-01, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The city poured hundreds of millions of dollars into street repairs but didn’t effectively track cost overruns and was unable to show if the money was well-spent, City Auditor Laura Doud said.</p>
 <p>The post <a href="https://lbpost.com/news/audit-streets-roads-pavement-index">Audit: Long Beach spends millions fixing its streets; they’re still among the worst</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

@@ -1,11 +1,49 @@
 ---
 title: north america
-updated: 2025-07-01 14:07:42
+updated: 2025-07-02 06:08:30
 ---
 
 # north america
 
-(date: 2025-07-01 14:07:42)
+(date: 2025-07-02 06:08:30)
+
+---
+
+## The bottom line: The bill is cruel.
+
+date: 2025-07-02, from: The Contrarian
+
+Republicans don&#8217;t care about hurting people. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-bottom-line-the-bill-is-cruel>
+
+---
+
+## Contrarian special: how to still stop the cruelest bill
+
+date: 2025-07-01, from: The Contrarian
+
+A recording from Jennifer Rubin's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167306649/a9d7eae301e968b912983ff6fa293743.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167306649/a9d7eae301e968b912983ff6fa293743.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/contrarian-special-how-to-still-stop>
+
+---
+
+## Jeff Bezos's big fat Venetian wedding proves one thing
+
+date: 2025-07-01, from: The Contrarian
+
+Money can't buy you class, but it can buy you a bunch of famous guests. 
+
+<br> 
+
+<https://contrarian.substack.com/p/jeff-bezoss-big-fat-venetian-wedding>
 
 ---
 

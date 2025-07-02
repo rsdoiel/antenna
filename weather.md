@@ -1,11 +1,11 @@
 ---
 title: weather
-updated: 2025-07-01 14:07:46
+updated: 2025-07-02 06:08:35
 ---
 
 # weather
 
-(date: 2025-07-01 14:07:46)
+(date: 2025-07-02 06:08:35)
 
 ---
 
@@ -13,11 +13,689 @@ updated: 2025-07-01 14:07:46
 
 date: 2025-07-03, from: Central Pacific Basin Tropical Cyclones
 
-No tropical cyclones as of Tue, 01 Jul 2025 21:00:06 GMT 
+No tropical cyclones as of Wed, 02 Jul 2025 13:00:09 GMT 
 
 <br> 
 
 <https://www.nhc.noaa.gov/>
+
+---
+
+## SPC Jul 2, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-07-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0750 AM CDT Wed Jul 02 2025
+
+Valid 021300Z - 031200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR CENTRAL INTO
+NORTHERN PORTIONS OF MONTANA...
+
+...SUMMARY...
+Scattered severe thunderstorm gusts are possible across Montana this
+afternoon into the evening.  Isolated severe thunderstorms may occur
+today across parts of the Great Basin and Upper Midwest/Great Lakes.
+
+...Northern Rockies/High Plains...
+Water-vapor imagery shows a mid- to upper-level trough/low centered
+over CA with downstream upper ridging centered over the
+north-central Rockies and adjacent northern High Plains.  Modest
+mid- to high-level west-southwesterly 500-250 mb flow (20-50 kt) is
+forecast to remain across the northern Rockies and plains per model
+data.  Surface observations this morning show 40s to lower 50s deg F
+dewpoints over MT.  Strong heating will contribute to weak to
+moderate buoyancy over the plains (500-1250 J/kg MLCAPE) and very
+steep lapse rates from the surface into the mid levels.  Orographic
+ascent will likely lead to isolated to scattered storms developing
+by mid afternoon initially over southern MT and other
+terrain-favored locales.  This activity is forecast to spread
+north/northeast during the late afternoon/evening.  Thunderstorm
+coverage will probably increase by the early evening in the form of
+a few clusters and perhaps linearly oriented outflow surges. 
+Evaporative cooling will facilitate efficient downdrafts and severe
+gusts (60-70 mph) with the stronger cores. 
+
+...Great Basin...
+Modestly enhanced southerly flow will be present today over parts of
+the Great Basin in association with a decaying/weak upper trough/low
+over CA and the western Great Basin.  Scattered thunderstorms should
+spread northward across these areas this afternoon/evening, with
+isolated severe wind gusts possible.
+
+...Upper Midwest/Great Lakes...
+As upper ridging builds over the Plains today, a shortwave trough
+over Ontario will dig southeastward and provide glancing large-scale
+ascent over parts of the Upper Midwest and Great Lakes.  Model
+guidance varies considerably on storm coverage, which is likely
+related to capping concerns especially with westward extent into the
+SD/IA/southwest MN vicinity.  Nonetheless, a seasonably
+moist low-level airmass is expected to remain over most of these
+regions, and daytime heating will likely aid in the development of
+moderate to strong instability along/south of a front. Some
+enhancement to the mid/upper-level west-northwesterly flow should
+support sufficient deep-layer shear for organized thunderstorms with
+an attendant hail/wind risk with the stronger storms.
+
+...Eastern North Carolina...
+Weak upper troughing will advance eastward today across the southern
+Mid-Atlantic and Carolinas as a surface cold front likewise moves
+slowly east-southeastward across these areas. Poor lapse rates aloft
+will likely limit updraft strength, and deep-layer shear is also
+expected to remain weak. While thunderstorms should develop through
+the afternoon along/ahead of the front across eastern NC and
+vicinity, the potential for damaging winds continues to appear to be
+too limited for low probabilities.
+
+..Smith/Broyles.. 07/02/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC - No watches are valid as of Wed Jul  2 12:55:02 UTC 2025
+
+date: 2025-07-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Wed Jul  2 12:55:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Wed Jul  2 12:55:02 UTC 2025
+
+date: 2025-07-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Wed Jul  2 12:55:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2025-07-02, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Wed Jul 2 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>1. Near the Southeastern U.S.:<br>An area of low pressure could develop near the southeast U.S. <br>Atlantic or Gulf coasts by this weekend along a weakening frontal <br>boundary. Environmental conditions appear only marginally conducive <br>for some slow development, but a tropical or subtropical depression <br>could form in this region over the weekend or early next week while <br>the system moves little. Regardless of development, heavy rainfall <br>is possible across portions of the southeast U.S., particularly <br>across the west-central Florida coast. <br>* Formation chance through 48 hours...low...near 0 percent. <br>* Formation chance through 7 days...medium...40 percent.<br><br><br><br>Forecaster Beven<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## CPHC Central North Pacific Outlook
+
+date: 2025-07-02, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>Issued by NWS National Hurricane Center Miami FL<br>200 AM HST Wed Jul 02 2025<br><br>For the central North Pacific...between 140W and 180W:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Hurricane<br>Flossie, located in the eastern Pacific basin, a few hundred miles<br>south of the southern tip of the Baja California peninsula.<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br><br>Forecaster Kelly<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## NHC Eastern North Pacific Outlook
+
+date: 2025-07-02, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_2d0_resize.gif" alt="Eastern North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_7d0_resize.gif" alt="Eastern North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOEP ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>500 AM PDT Wed Jul 2 2025<br><br>For the eastern and central North Pacific east of 180 longitude:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Hurricane <br>Flossie, located in the eastern Pacific basin, a few hundred miles <br>south of the southern tip of the Baja California peninsula.<br><br>1. South of Southwestern Mexico:<br>An area of low pressure is forecast to develop several hundred miles <br>offshore of southwestern Mexico in a few days.  Environmental <br>conditions appear conducive for some gradual development of this <br>system thereafter, and a tropical depression could form over the <br>weekend or early next week while it moves generally <br>west-northwestward.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...medium...50 percent.<br><br><br><br>Forecaster Kelly<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2025-07-02, from: Eastern Pacific Tropical Weather Outlook
+
+000<br />ABPZ20 KNHC 021134<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Wed Jul 2 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on Hurricane <br />Flossie, located in the eastern Pacific basin, a few hundred miles <br />south of the southern tip of the Baja California peninsula. <br /><br />South of Southwestern Mexico:<br />An area of low pressure is forecast to develop several hundred miles <br />offshore of southwestern Mexico in a few days.  Environmental <br />conditions appear conducive for some gradual development of this <br />system thereafter, and a tropical depression could form over the <br />weekend or early next week while it moves generally <br />west-northwestward.<br />* Formation chance through 48 hours...low...near 0 percent.<br />* Formation chance through 7 days...medium...50 percent. <br /><br />$$<br />Forecaster Kelly 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2025-07-02, from: Central Pacific Tropical Weather Outlook
+
+000<br />ACPN50 PHFO 021134<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />200 AM HST Wed Jul 02 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on Hurricane<br />Flossie, located in the eastern Pacific basin, a few hundred miles<br />south of the southern tip of the Baja California peninsula.<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Kelly<br />NNNN 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
+
+---
+
+## Hurricane Flossie Graphics
+
+date: 2025-07-02, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/092148.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP06/EP062025_5day_cone_with_line_and_wind_sm2.png"
+alt="Hurricane Flossie 5-Day Uncertainty Track Image" width="500" height="400" /></a>
+<br />5-Day Uncertainty Track last updated Wed, 02 Jul 2025 08:36:47 GMT
+<br />
+<br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/092148.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP06/EP062025_wind_probs_34_F120_sm2.png"
+alt="Hurricane Flossie 34-Knot Wind Speed Probabilities" width="500" height="400" /> </a>
+<br />Wind Speed Probabilities last updated Wed, 02 Jul 2025 09:21:48 GMT
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/092148.shtml?cone>
+
+---
+
+## SPC Jul 2, 2025 Day 4-8 Severe Weather Outlook
+
+date: 2025-07-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 4-8 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0357 AM CDT Wed Jul 02 2025
+
+Valid 051200Z - 101200Z
+
+...DISCUSSION...
+Some severe weather is possible on Day 5/Sunday and Day6/Monday
+across portions of northern Montana and North Dakota as moderate
+instability builds into the area with moderate mid-level flow
+southeast of a trough across western Canada. The evolution and
+timing of this trough remains uncertain and therefore, no severe
+weather probabilities will be added at this time.
+
+Beyond this timeframe, moderate to strong instability is forecast
+across much of the central and eastern CONUS for much of the
+extended forecast period with widespread thunderstorm activity
+likely. Despite this storm coverage and instability, organized
+severe weather seems unlikely given mostly weak deep-layer
+shear/flow.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/day4-8/>
+
+---
+
+## Advisory #013 Wind Field [shp] - Hurricane Flossie (EP1/EP062025)
+
+date: 2025-07-02, from: Eastern Pacific Basin GIS Data
+
+Initial and Forecast Surface Winds. Shapefile last updated Wed, 02 Jul 2025 08:37:18 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep062025_fcst_013.zip>
+
+---
+
+## Preliminary Best Track [shp] - Hurricane Flossie (EP1/EP062025)
+
+date: 2025-07-02, from: Eastern Pacific Basin GIS Data
+
+Track, Points, and Wind Swath. Shapefile last updated Wed, 02 Jul 2025 08:37:10 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep062025_best_track.zip>
+
+---
+
+## Preliminary Best Track [shp] - Hurricane Flossie (EP1/EP062025)
+
+date: 2025-07-02, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Wed, 02 Jul 2025 08:37:07 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep062025_best_track.kmz>
+
+---
+
+## Advisory #013 Forecast [shp] - Hurricane Flossie (EP1/EP062025)
+
+date: 2025-07-02, from: Eastern Pacific Basin GIS Data
+
+Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Wed, 02 Jul 2025 08:37:00 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep062025_5day_013.zip>
+
+---
+
+## Advisory #013 Forecast Track [kmz] - Hurricane Flossie (EP1/EP062025)
+
+date: 2025-07-02, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Wed, 02 Jul 2025 08:36:57 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP062025_013adv_TRACK.kmz>
+
+---
+
+## Advisory #013 Cone of Uncertainty [kmz] - Hurricane Flossie (EP1/EP062025)
+
+date: 2025-07-02, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Wed, 02 Jul 2025 08:36:50 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP062025_013adv_CONE.kmz>
+
+---
+
+## Hurricane Flossie Forecast Discussion Number 13
+
+date: 2025-07-02, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>974 
+WTPZ41 KNHC 020835
+TCDEP1
+ 
+Hurricane Flossie Discussion Number  13
+NWS National Hurricane Center Miami FL       EP062025
+200 AM MST Wed Jul 02 2025
+ 
+Flossie remains an impressive hurricane early this morning, although 
+the well-defined eye evident earlier tonight has become less 
+distinct and somewhat cloud filled in recent satellite images.  The 
+latest subjective Dvorak intensity estimates were T5.5/102 knots 
+from TAFB and T5.0/90 knots from SAB. Meanwhile, the objective 
+intensity estimates ranged from 96 to 107 knots at 06z.  Based on a 
+blend of these data, the initial intensity will be held at 100 knots 
+for this advisory. 
+
+Flossie is heading toward the west-northwest or 300/9 knots. This 
+general motion is expected to continue during the next several days 
+as the cyclone is steered into a weakness in the mid-level ridge to 
+the northwest of the system. A turn more to the west is expected 
+beyond 48 hours as the increasingly shallow system becomes steered 
+by the low-level trade wind flow.  The track forecast has been 
+shifted slightly to the left of the previous advisory to align with 
+the latest consensus guidance trends, and closely follows a blend of 
+the latest GDMI, FSSE and TVCE consensus aids.
+
+The window for additional strengthening appears to be closing 
+quickly, as Flossie begins to move over slightly less conducive 
+waters for intensification with sea surface temperatures now around 
+27C.  Wind shear remains light and mid-level moisture remains high 
+during the next 12 hours, so with the system remaining over 
+adequately warm water, the intensity should change little.  Flossie 
+will move over much cooler water between 12 and 24 hours, and into a 
+drier mid-level environment.  This should result in rather rapid 
+weakening of the system, with Flossie expected to become a 
+post-tropical low by 48 hours, with dissipation following by 96 
+hours. The intensity forecast has been adjusted to show a bit faster 
+weakening of the system which is in line with the latest intensity 
+consensus aids.
+ 
+ 
+KEY MESSAGES:
+ 
+1. Outer bands of Hurricane Flossie continue to bring locally heavy 
+rainfall to coastal portions of the Mexican states of Michoacán, 
+Colima, and Jalisco into Wednesday. Localized flash flooding is 
+possible.
+ 
+2. Large swells generated by Flossie will cause life-threatening 
+surf and rip current conditions along portions of the coast of 
+southwestern Mexico, and the Baja California peninsula during the
+next few days.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  02/0900Z 18.6N 108.3W  100 KT 115 MPH
+ 12H  02/1800Z 19.3N 109.4W   95 KT 110 MPH
+ 24H  03/0600Z 20.2N 110.9W   75 KT  85 MPH
+ 36H  03/1800Z 21.0N 112.3W   55 KT  65 MPH
+ 48H  04/0600Z 22.1N 113.9W   40 KT  45 MPH...POST-TROPICAL
+ 60H  04/1800Z 23.0N 115.5W   30 KT  35 MPH...POST-TROP/REMNT LOW
+ 72H  05/0600Z 23.7N 117.3W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 96H  06/0600Z...DISSIPATED
+ 
+$$
+Forecaster Jelsema</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCDEP1+shtml/020835.shtml>
+
+---
+
+## Summary - Hurricane Flossie (EP1/EP062025)
+
+date: 2025-07-02, from: Eastern Pacific Basin GIS Data
+
+...TROPICAL STORM WATCHES DISCONTINUED FOR ALL OF SOUTHWESTERN MEXICO... As of 2:00 AM MST Wed Jul 02 the center of Flossie was located near 18.6, -108.3 with movement WNW at 10 mph. The minimum central pressure was 962 mb with maximum sustained winds of about 115 mph. 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATCPEP1.shtml>
+
+---
+
+## Hurricane Flossie Public Advisory Number 13
+
+date: 2025-07-02, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>834 
+WTPZ31 KNHC 020834
+TCPEP1
+ 
+BULLETIN
+Hurricane Flossie Advisory Number  13
+NWS National Hurricane Center Miami FL       EP062025
+200 AM MST Wed Jul 02 2025
+ 
+...TROPICAL STORM WATCHES DISCONTINUED FOR ALL OF SOUTHWESTERN
+MEXICO...
+ 
+ 
+SUMMARY OF 200 AM MST...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...18.6N 108.3W
+ABOUT 315 MI...505 KM SSE OF CABO SAN LUCAS MEXICO
+MAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H
+PRESENT MOVEMENT...WNW OR 300 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...962 MB...28.41 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The government of Mexico has discontinued the Tropical Storm
+Warning from Punta San Telmo to Playa Perula.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+There are no coastal watches and warnings in effect.
+
+For storm information specific to your area, please monitor 
+products issued by your national meteorological service.
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 200 AM MST (0900 UTC), the center of Hurricane Flossie was
+located near latitude 18.6 North, longitude 108.3 West. Flossie is
+moving toward the west-northwest near 10 mph (17 km/h). This 
+general motion is expected to continue during the next couple of 
+days.
+ 
+Maximum sustained winds are near 115 mph (185 km/h) with higher 
+gusts.  Flossie is a category 3 hurricane on the Saffir-Simpson 
+Hurricane Wind Scale.  Little change in strength is forecast this 
+morning, with rapid weakening expected to begin by the end of the 
+day. 
+ 
+Hurricane-force winds extend outward up to 25 miles (35 km) from the
+center and tropical-storm-force winds extend outward up to 90 miles
+(150 km).
+ 
+The estimated minimum central pressure is 962 mb (28.41 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Hurricane Flossie can be found in the Tropical
+Cyclone Discussion under AWIPS header MIATCDEP1 and WMO header
+WTPZ41 KNHC.
+ 
+RAINFALL: Hurricane Flossie should produce additional rainfall
+totals of 1 to 2 inches, with isolated maximum totals of 3 inches,
+across coastal portions of the Mexican states of Michoacán, Colima,
+and Jalisco through today. This rainfall could lead to localized
+flash flooding.
+ 
+For a complete depiction of forecast rainfall associated with
+Hurricane Flossie, please see the National Weather Service Storm
+Total Rainfall Graphic available at
+hurricanes.gov/graphics_ep1.shtml?rainqpf
+ 
+SURF: Swells generated by Flossie will affect portions of the coast
+of southwestern Mexico, and the Baja California peninsula during the
+next few days. These swells are likely to cause life-threatening
+surf and rip current conditions. Please consult products from your
+local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 800 AM MST.
+ 
+$$
+Forecaster Jelsema</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/020834.shtml>
+
+---
+
+## Hurricane Flossie Wind Speed Probabilities Number 13
+
+date: 2025-07-02, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>839 
+FOPZ11 KNHC 020834
+PWSEP1
+                                                                    
+HURRICANE FLOSSIE WIND SPEED PROBABILITIES NUMBER  13               
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP062025               
+0900 UTC WED JUL 02 2025                                            
+                                                                    
+AT 0900Z THE CENTER OF HURRICANE FLOSSIE WAS LOCATED NEAR LATITUDE  
+18.6 NORTH...LONGITUDE 108.3 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 
+100 KTS...115 MPH...185 KM/H.                                       
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z WED AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z WED 18Z WED 06Z THU 18Z THU 06Z FRI 06Z SAT 06Z SUN
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z WED 06Z THU 18Z THU 06Z FRI 06Z SAT 06Z SUN 06Z MON
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+CABO SAN LUCAS 34  1   3( 4)   2( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+SAN JOSE CABO  34  1   2( 3)   2( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+LA PAZ         34  X   2( 2)   2( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+ISLAS MARIAS   34  1   2( 3)   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+20N 110W       34 72  27(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+20N 110W       50 12  70(82)   1(83)   X(83)   X(83)   X(83)   X(83)
+20N 110W       64  2  48(50)   1(51)   X(51)   X(51)   X(51)   X(51)
+ 
+ISLA SOCORRO   34  7  33(40)   2(42)   X(42)   X(42)   X(42)   X(42)
+ISLA SOCORRO   50  X   5( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ISLA SOCORRO   64  X   1( 1)   X( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+ISLA CLARION   34  X   2( 2)   2( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+20N 115W       34  X   2( 2)   2( 4)   1( 5)   X( 5)   X( 5)   X( 5)
+ 
+25N 115W       34  X   X( X)   1( 1)   1( 2)   2( 4)   X( 4)   X( 4)
+ 
+$$                                                                  
+FORECASTER JELSEMA</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIAPWSEP1+shtml/020834.shtml>
+
+---
+
+## Hurricane Flossie Forecast Advisory Number 13
+
+date: 2025-07-02, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>922 
+WTPZ21 KNHC 020834
+TCMEP1
+ 
+HURRICANE FLOSSIE FORECAST/ADVISORY NUMBER  13
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP062025
+0900 UTC WED JUL 02 2025
+ 
+HURRICANE CENTER LOCATED NEAR 18.6N 108.3W AT 02/0900Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST-NORTHWEST OR 300 DEGREES AT   9 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  962 MB
+MAX SUSTAINED WINDS 100 KT WITH GUSTS TO 120 KT.
+64 KT....... 20NE  20SE  10SW  15NW.
+50 KT....... 40NE  40SE  20SW  30NW.
+34 KT....... 80NE  60SE  50SW  60NW.
+4 M SEAS....120NE  90SE  90SW 120NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 18.6N 108.3W AT 02/0900Z
+AT 02/0600Z CENTER WAS LOCATED NEAR 18.4N 107.9W
+ 
+FORECAST VALID 02/1800Z 19.3N 109.4W
+MAX WIND  95 KT...GUSTS 115 KT.
+64 KT... 20NE  20SE  10SW  15NW.
+50 KT... 35NE  35SE  20SW  30NW.
+34 KT... 80NE  60SE  50SW  60NW.
+ 
+FORECAST VALID 03/0600Z 20.2N 110.9W
+MAX WIND  75 KT...GUSTS  90 KT.
+64 KT... 15NE  10SE   0SW  10NW.
+50 KT... 30NE  20SE  15SW  20NW.
+34 KT... 60NE  50SE  40SW  50NW.
+ 
+FORECAST VALID 03/1800Z 21.0N 112.3W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 20NE  15SE   0SW  15NW.
+34 KT... 40NE  30SE  30SW  40NW.
+ 
+FORECAST VALID 04/0600Z 22.1N 113.9W...POST-TROPICAL
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 20NE  20SE  10SW  10NW.
+ 
+FORECAST VALID 04/1800Z 23.0N 115.5W...POST-TROP/REMNT LOW
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 05/0600Z 23.7N 117.3W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 06/0600Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 18.6N 108.3W
+ 
+NEXT ADVISORY AT 02/1500Z
+ 
+$$
+FORECASTER JELSEMA</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCMEP1+shtml/020834.shtml>
+
+---
+
+## Advisory #012a Watches/Warnings [kmz] - Hurricane Flossie (EP1/EP062025)
+
+date: 2025-07-02, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Wed, 02 Jul 2025 05:54:35 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP062025_012Aadv_WW.kmz>
 
 ---
 
@@ -164,30 +842,6 @@ alt="Hurricane Flossie 34-Knot Wind Speed Probabilities" width="500" height="400
 
 ---
 
-## Preliminary Best Track [shp] - Hurricane Flossie (EP1/EP062025)
-
-date: 2025-07-01, from: Eastern Pacific Basin GIS Data
-
-Track, Points, and Wind Swath. Shapefile last updated Tue, 01 Jul 2025 20:34:55 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep062025_best_track.zip>
-
----
-
-## Preliminary Best Track [shp] - Hurricane Flossie (EP1/EP062025)
-
-date: 2025-07-01, from: Eastern Pacific Basin GIS Data
-
-KMZ last updated Tue, 01 Jul 2025 20:34:53 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep062025_best_track.kmz>
-
----
-
 ## Advisory #011 Forecast [shp] - Hurricane Flossie (EP1/EP062025)
 
 date: 2025-07-01, from: Eastern Pacific Basin GIS Data
@@ -307,18 +961,6 @@ Forecaster Kelly/E.Adams</pre>
 <br> 
 
 <https://www.nhc.noaa.gov/text/refresh/MIATCDEP1+shtml/012032.shtml>
-
----
-
-## Summary - Hurricane Flossie (EP1/EP062025)
-
-date: 2025-07-01, from: Eastern Pacific Basin GIS Data
-
-...FLOSSIE MOVING WEST-NORTHWESTWARD... As of 2:00 PM MST Tue Jul 01 the center of Flossie was located near 17.7, -106.7 with movement NW at 7 mph. The minimum central pressure was 966 mb with maximum sustained winds of about 110 mph. 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/MIATCPEP1.shtml>
 
 ---
 
@@ -517,26 +1159,6 @@ FORECASTER KELLY/E.ADAMS</pre>
 <br> 
 
 <https://www.nhc.noaa.gov/text/refresh/MIAPWSEP1+shtml/012032.shtml>
-
----
-
-## NHC Eastern North Pacific Outlook
-
-date: 2025-07-01, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_2d0_resize.gif" alt="Eastern North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_7d0_resize.gif" alt="Eastern North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOEP ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>1100 AM PDT Tue Jul 1 2025<br><br>For the eastern and central North Pacific east of 180 longitude:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Hurricane <br>Flossie, located in the eastern Pacific basin around 180 miles <br>offshore the coast of southwestern Mexico.<br><br>1. South of Southwestern Mexico:<br>An area of low pressure is forecast to develop several hundred miles <br>offshore of southwestern Mexico late this week. Environmental <br>conditions appear conducive for some gradual development of this <br>system thereafter, and a tropical depression could form over the <br>weekend while it moves generally west-northwestward.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...medium...40 percent.<br><br><br><br>Forecaster Beven<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 
@@ -1001,50 +1623,6 @@ moving cells and on the edges of the most intense downdraft cores.
 
 ---
 
-## Central Pacific Tropical Weather Outlook
-
-date: 2025-07-01, from: Central Pacific Tropical Weather Outlook
-
-659 <br />ACPN50 PHFO 011733<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />800 AM HST Tue Jul 01 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on Hurricane<br />Flossie, located in the eastern Pacific basin around 180 miles<br />offshore the coast of southwestern Mexico.<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Beven<br />NNNN 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2025-07-01, from: Eastern Pacific Tropical Weather Outlook
-
-651 <br />ABPZ20 KNHC 011733<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Tue Jul 1 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on Hurricane <br />Flossie, located in the eastern Pacific basin around 180 miles <br />offshore the coast of southwestern Mexico. <br /><br />South of Southwestern Mexico:<br />An area of low pressure is forecast to develop several hundred miles <br />offshore of southwestern Mexico late this week. Environmental <br />conditions appear conducive for some gradual development of this <br />system thereafter, and a tropical depression could form over the <br />weekend while it moves generally west-northwestward.<br />* Formation chance through 48 hours...low...near 0 percent.<br />* Formation chance through 7 days...medium...40 percent. <br /><br />$$<br />Forecaster Beven 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
-
----
-
-## CPHC Central North Pacific Outlook
-
-date: 2025-07-01, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>Issued by NWS National Hurricane Center Miami FL<br>800 AM HST Tue Jul 01 2025<br><br>For the central North Pacific...between 140W and 180W:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Hurricane<br>Flossie, located in the eastern Pacific basin around 180 miles<br>offshore the coast of southwestern Mexico.<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br><br>Forecaster Beven<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
 ## SPC Jul 1, 2025 1730 UTC Day 2 Convective Outlook
 
 date: 2025-07-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -1111,26 +1689,6 @@ few instances of severe wind and/or hail.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2025-07-01, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>Issued by the NWS Weather Prediction Center College Park MD<br>200 PM EDT Tue Jul 1 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>1. Near the Southeastern U.S.:<br>A frontal boundary is expected to stall and weaken off the southeast <br>U.S. coast late this week. An area of low pressure could develop <br>from the weakening front by the weekend over the Atlantic waters off <br>the southeast U.S., over Florida, or over the eastern Gulf. Some <br>gradual tropical or subtropical development could occur thereafter <br>as the low drifts and moves little. Regardless of development, heavy <br>rainfall is possible across portions of the southeast U.S., <br>particularly across the west-central Florida coast. <br>* Formation chance through 48 hours...low...near 0 percent. <br>* Formation chance through 7 days...low...30 percent.<br><br><br><br>Forecaster Churchill<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
@@ -1306,105 +1864,6 @@ damaging winds are possible.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
-
----
-
-## SPC Jul 1, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-07-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0747 AM CDT Tue Jul 01 2025
-
-Valid 011300Z - 021200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR PARTS OF THE
-MID-ATLANTIC REGION AND ACROSS WESTERN PORTIONS OF NEBRASKA AND
-SOUTH DAKOTA...
-
-...SUMMARY...
-Scattered strong to severe storms are possible across parts of the
-Mid-Atlantic into the Northeast this afternoon/evening.  A few
-severe thunderstorms are possible over western parts of Nebraska and
-South Dakota.
-
-...Mid-Atlantic states into the Northeast and Southeast...
-Water-vapor imagery this morning indicates an upper trough is moving
-east across the Great Lakes/lower OH Valley and other minor
-perturbations are located over the Mid South.  The primary
-disturbance will overspread the Appalachians by mid-late evening. 
-In the low levels, a cold front analyzed over the southern Great
-Lakes into the lower OH Valley/Mid South will gradually progress
-east/southeast during the period.
-
-12 UTC raob data from the OH Valley and Mid South eastward to the
-Mid-Atlantic region shows a very moist troposphere with limited
-700-500 mb lapse rates (less than 5.5 deg C/km).  Nonetheless,
-diurnal heating of the moist boundary layer will result in moderate
-buoyancy from portions of the Northeast southwestward through the
-Mid-Atlantic states and into the Southeast.  Models continue to
-indicate modest southwesterly mid-level flow across the Mid-Atlantic
-states will contribute to adequate shear, supporting some
-organization of storms into line segments/clusters.  Scattered
-thunderstorms will increase in coverage with time and numerous
-thunderstorms are expected by mid-late afternoon while moving east
-across PA/WV/VA/MD.  Strong to severe gusts (50-65 mph) are possible
-with the stronger downdrafts.  Less organized but scattered to
-numerous storms are forecast farther southwest into portions of the
-southern Appalachians with a risk for damaging gusts with the
-stronger storms.  Strong-severe convection should spread off the
-Middle Atlantic Coast during the evening.
-
-...Black Hills into the central High Plains...
-A weak mid-level disturbance is moving east across northern
-WY/southern MT towards the SD/NE vicinity later today.  A weak lee
-trough will likely serve as a focus for thunderstorm development
-this afternoon from near the Black Hills southward into northeast
-CO.  Forecast soundings show around 30-kt effective shear in the
-presence of steep lapse rates and moderate MLCAPE (1000-2500 J/kg). 
-Some of the recent MPAS guidance indicates a few stronger
-thunderstorms will develop across western NE and perhaps into
-western SD.  A couple of supercells with an attendant large-hail
-risk are possible, thereby prompting an increase in hail
-probabilities this outlook update.  Some severe risk may linger into
-the mid-late evening coincident with a strengthening of a southerly
-LLJ centered over west-central NE before this activity dissipates.
-
-..Smith/Broyles.. 07/01/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## SPC - No watches are valid as of Tue Jul  1 12:52:01 UTC 2025
-
-date: 2025-07-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Tue Jul  1 12:52:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Tue Jul  1 12:52:01 UTC 2025
-
-date: 2025-07-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Tue Jul  1 12:52:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -1602,57 +2061,6 @@ Forecaster Beven</pre>
 <br> 
 
 <https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/011131.shtml>
-
----
-
-## SPC Jul 1, 2025 Day 4-8 Severe Weather Outlook
-
-date: 2025-07-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 4-8 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0400 AM CDT Tue Jul 01 2025
-
-Valid 041200Z - 091200Z
-
-...DISCUSSION...
-A mid-level trough will traverse the Northern Plains and Upper
-Midwest on Friday. This will likely be the most substantial severe
-weather threat during the extended period before broad, strong
-ridging builds across much of the eastern/central CONUS. 
-
-...Day 4/Friday...
-As a positively tilted mid-level trough traverses the northern
-Plains on Friday, strong southerly flow will advect moisture
-northward across a broad warm sector near the Upper Midwest. This
-will result in moderate to strong instability as temperatures warm
-well into the 80s. Widespread thunderstorms are likely along the
-frontal zone during the afternoon/evening. 35 to 40 knots of
-mid-level flow will overspread the warm sector which will provide
-some shear for storm organization. However, southwesterly surface
-winds will also increase during the afternoon within the warm front
-and therefore, the net shear may remain somewhat minimal. Some
-organized storms with a threat for large hail and severe wind gusts
-are possible, but the aforementioned concerns about deep-layer shear
-preclude the confidence needed for 15% severe weather probabilities
-at this time.
-
-Beyond Day 4, moderate to strong instability is forecast across much
-of the central and eastern CONUS with widespread thunderstorm
-activity likely. However, shear will remain mostly nebulous with the
-stronger mid-level flow confined to areas north of the better
-instability. Therefore, some marginal regional severe weather threat
-will be likely most days, but a more organized severe weather risk
-appears unlikely at this time.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 

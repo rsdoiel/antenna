@@ -1,11 +1,134 @@
 ---
 title: socal north
-updated: 2025-07-01 14:07:43
+updated: 2025-07-02 06:08:31
 ---
 
 # socal north
 
-(date: 2025-07-01 14:07:43)
+(date: 2025-07-02 06:08:31)
+
+---
+
+## Fourth of July fireworks can be hell for pets. Here's how to keep them safe and calm
+
+date: 2025-07-02, updated: 2025-07-02, from: The LAist
+
+Pets frightened by fireworks may run away from home. We have tips from experts on how to keep animals safe. 
+
+<br> 
+
+<https://laist.com/news/how-to-keep-pets-safe-calm-fourth-of-july>
+
+---
+
+## This Echo Park barbecue joint will ruin all other BBQ For you
+
+date: 2025-07-02, updated: 2025-07-02, from: The LAist
+
+At The Park’s Finest, chef and co-founder Johneric Concordia’s rubs and banana leaf cornbread rewrite the rules of flavor. 
+
+<br> 
+
+<https://laist.com/news/food/this-echo-park-barbecue-joint-will-ruin-all-other-bbq-for-you>
+
+---
+
+## LA County officials select leader of new homelessness department
+
+date: 2025-07-02, updated: 2025-07-02, from: The LAist
+
+The new director is not expected to be named until their employment contract is finalized and the salary has been approved. County leaders haven't said when that will be. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-county-officials-select-leader-of-new-homelessness-department>
+
+---
+
+## New rent increase caps start in LA as city delays updating rent control formula
+
+date: 2025-07-01, updated: 2025-07-01, from: The LAist
+
+Most L.A. apartments are covered by the city’s decades-old rent control law. New limits on annual rent hikes take effect July 1 without reforms that have been waiting for a City Council vote. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-city-rent-control-new-limits-caps-3-5-percent-july-1-2025-stabilization-ordinance>
+
+---
+
+## LAUSD to lose millions for English language learners, afterschool programs after Trump admin withholds funds
+
+date: 2025-07-01, updated: 2025-07-01, from: The LAist
+
+Superintendent Carvalho says the $110.5 million cuts target immigrant communities and vulnerable students. 
+
+<br> 
+
+<https://laist.com/news/education/trump-administration-funding-cuts-education-lausd-california>
+
+---
+
+## Meet Inca and Milo, the newest penguins at the Aquarium of the Pacific
+
+date: 2025-07-01, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/01145804/3w3a0627-3-136180-esbkrodh-295224-9YKPQ0Mc-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The penguins arrived at the local aquarium as part of the Species Survival Program, which matches species based on their genetics.</p>
+<p>The post <a href="https://lbpost.com/news/meet-inca-and-milo-the-newest-penguins-at-the-aquarium-of-the-pacific">Meet Inca and Milo, the newest penguins at the Aquarium of the Pacific</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/meet-inca-and-milo-the-newest-penguins-at-the-aquarium-of-the-pacific>
+
+---
+
+## Trump administration is withholding over $6 billion in education grants for schools
+
+date: 2025-07-01, updated: 2025-07-01, from: The LAist
+
+The federal grant funding traditionally goes out by July 1. It includes support for migrant education, after-school programs and English language learners. 
+
+<br> 
+
+<https://laist.com/news/education/the-trump-admin-is-withholding-over-6-billion-in-education-grants-for-schools>
+
+---
+
+## Lululemon accuses Costco of selling knockoffs of the athleisure brand in new lawsuit
+
+date: 2025-07-01, updated: 2025-07-01, from: The LAist
+
+The athleisure brand is accusing Costco of selling knockoffs of several of its signature designs and offering them at a lower price under the wholesale club giant's Kirkland Signature brand. 
+
+<br> 
+
+<https://laist.com/news/lululemon-accuses-costco-of-selling-knockoffs-of-the-athleisure-brand-lawsuit>
+
+---
+
+## SoCal National Parks are recruiting campsite volunteers. Here's how to apply
+
+date: 2025-07-01, updated: 2025-07-01, from: The LAist
+
+Campsite hosts can live inside the parks for several months to help visitors with resources and more. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-national-parks-are-recruiting-campsite-volunteers-heres-how-to-apply>
+
+---
+
+## Orange County mental health line makes huge cuts after funding is pulled
+
+date: 2025-07-01, updated: 2025-07-01, from: The LAist
+
+More than 100 staff members laid off and operating hours cut in half. 
+
+<br> 
+
+<https://laist.com/news/orange-county-mental-health-line-makes-huge-cuts-after-funding-is-pulled>
 
 ---
 
@@ -13,7 +136,7 @@ updated: 2025-07-01 14:07:43
 
 date: 2025-07-01, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/26133041/26jun25-6-26-25-street-9-753343-9lh2dbju-118900-F9d8VM3A.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The city poured hundreds of millions of dollars into street repairs but didn’t effectively track cost overruns and was unable to show if the money was well-spent, City Auditor Laura Doud said.</p>
 <p>The post <a href="https://lbpost.com/news/audit-streets-roads-pavement-index">Audit: Long Beach spends millions fixing its streets; they’re still among the worst</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

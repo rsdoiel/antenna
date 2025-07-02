@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-07-01 14:07:52
+updated: 2025-07-02 06:08:39
 ---
 
 # craft
 
-(date: 2025-07-01 14:07:52)
+(date: 2025-07-02 06:08:39)
+
+---
+
+## Dare To Know – Dare To Create
+
+date: 2025-07-02, from: Learn The Art of Lutherie
+
+ 
+
+<br> 
+
+<https://theartoflutherie.com/dare-to-know-dare-to-create/>
 
 ---
 

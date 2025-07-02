@@ -1,11 +1,547 @@
 ---
 title: planet
-updated: 2025-07-01 14:07:41
+updated: 2025-07-02 06:08:29
 ---
 
 # planet
 
-(date: 2025-07-01 14:07:41)
+(date: 2025-07-02 06:08:29)
+
+---
+
+## Starmer gives backing to Reeves after she appeared upset
+
+date: 2025-07-02, from: RTÉ News
+
+British Prime Minister Keir Starmer gave Rachel Reeves his full backing after the finance minister appeared visibly upset in parliament following a series of U-turns on welfare that blew a hole in her budget plans. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0702/1521479-reeves/>
+
+---
+
+## 'No rationale' for removal of President Higgins' portrait
+
+date: 2025-07-02, from: RTÉ News
+
+Belfast City Council has said that a portrait of President Michael D Higgins has been safely stored at City Hall while the newly-elected lord mayor "considers options" for the space. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0702/1521476-belfast-higgins-portrait/>
+
+---
+
+## France reports two deaths in heatwave, 300 hospitalised
+
+date: 2025-07-02, from: RTÉ News
+
+France has reported two heat-related deaths, while wildfires have killed two people in Spain in a heatwave that has gripped Europe and forced the closure of a nuclear reactor at a Swiss power plant. 
+
+<br> 
+
+<https://www.rte.ie/news/weather/2025/0702/1521463-europe-weather/>
+
+---
+
+## Govt 'pleads poor mouth when it comes to students' - SF
+
+date: 2025-07-02, from: RTÉ News
+
+Parents need to know what student fees they will have to pay in September, the Sinn Féin leader has told the Dáil. 
+
+<br> 
+
+<https://www.rte.ie/news/education/2025/0702/1521461-third-level-fees/>
+
+---
+
+## EU proposes a 90% cut in greenhouse gases by 2040
+
+date: 2025-07-02, from: RTÉ News
+
+The European Commission has proposed a target of a 90% reduction in net greenhouse gases compared to 1990 levels by 2040. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0702/1521456-european-commission-climate/>
+
+---
+
+## Many online games contain manipulating design techniques
+
+date: 2025-07-02, from: RTÉ News
+
+An international sweep of 439 mobile and online games by national consumer agencies has found many of them contain design techniques that may aim to manipulate players as young as three years old into making decisions or purchases they would not otherwise. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0702/1521457-many-online-games-contain-manipulating-design-techniques/>
+
+---
+
+## Labour raises motion on nursing home reform
+
+date: 2025-07-02, from: RTÉ News
+
+Labour has raised a motion on nursing homes in the Dáil, mandating the Government "to respond with a sense of urgency" to issues in a number of nursing homes. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0702/1521448-dail-nursing-homes/>
+
+---
+
+## Pope Leo sends condolences upon death of Cardinal Dri
+
+date: 2025-07-02, from: Vatican News
+
+
+                    <p>Pope Leo XIV sends his condolences upon the death of Cardinal Luis Pascual Dri, OFMCap., who was known for his tireless ministry in the Sacrament of Reconciliation.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-telegram-condolences-cardinal-luis-dri.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-telegram-condolences-cardinal-luis-dri.html>
+
+---
+
+## Combs jury to resume deliberations after partial verdict
+
+date: 2025-07-02, from: RTÉ News
+
+The jury in Sean 'Diddy' Combs' trial will continue deliberations a day after reaching a verdict on four of the five counts the music mogul faces in his sex trafficking case but failing to agree on a racketeering conspiracy charge. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0702/1521447-combs-trial/>
+
+---
+
+## President Higgins leads tributes to Brother Kevin Crowley
+
+date: 2025-07-02, from: RTÉ News
+
+President Michael D Higgins has led tributes to Brother Kevin Crowley, the founder of the Capuchin Day Centre in Dublin, who died aged 90. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0702/1521441-kevin-crowley/>
+
+---
+
+## Appeal court to decide on referring McGregor move to DPP
+
+date: 2025-07-02, from: RTÉ News
+
+The Court of Appeal will decide later today whether to refer matters relating to Conor McGregor's application to withdraw so called "fresh evidence" from his appeal to the Director of Public Prosecutions. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0702/1521446-conor-mcgregor-court/>
+
+---
+
+## Pope: God’s creation is not a battleground for vital resources
+
+date: 2025-07-02, from: Vatican News
+
+
+                    <p>In his Message for the 10th World Day of Prayer for the Care of Creation, Pope Leo XIV quotes extensively from Pope Francis’ encyclical Laudato si’, denouncing environmental and social injustice and noting that God’s creation is not intended to be a battleground for vital resources.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-message-10-world-day-prayer-care-creation-laudato-s.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-message-10-world-day-prayer-care-creation-laudato-s.html>
+
+---
+
+## Significant fall in burglaries and homicides - CSO
+
+date: 2025-07-02, from: RTÉ News
+
+There has been a significant decrease in burglaries, robberies, kidnapping and homicides according to the latest CSO crime figures. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0702/1521444-crime-cso/>
+
+---
+
+## Taoiseach says banning sunbeds is a 'no-brainer'
+
+date: 2025-07-02, from: RTÉ News
+
+Taoiseach Micheál Martin has said he is "in favour" of banning sunbeds, calling the move a "no-brainer". 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0702/1521439-sunbed-ban/>
+
+---
+
+## Kanye blocked from entering Australia over Hitler song
+
+date: 2025-07-02, from: RTÉ News
+
+American rapper Ye, formerly known as Kanye West, has been blocked from entering Australia following the release of his controversial song praising Nazi leader Adolf Hitler. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0702/1521432-kanye-blocked-from-entering-australia-over-hitler-song/>
+
+---
+
+## From the Vatican Observatory Faith and Science Pages — Lemaitre follows two paths to truth
+
+date: 2025-07-02, from: Vatican Obervatory
+
+From the Faith &#038; Science Resource Center: A 1933 New York Times interview with Fr. Georges Lemaître, Father of the “Big Bang Theory”. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/from-the-vatican-observatory-faith-and-science-pages-lemaitre-follows-two-paths-to-truth/>
+
+---
+
+## Arts Council's IT system legal costs doubled, cttee told
+
+date: 2025-07-02, from: RTÉ News
+
+The costs incurred for legal redress by The Arts Council in relation to its failed IT system have cost almost double what was previously stated, the Oireachtas Committee on Media has been told. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0702/1521424-arts-council/>
+
+---
+
+## Judge's costs ruling in McGregor case 'wrong'
+
+date: 2025-07-02, from: RTÉ News
+
+Follow developments on the second day of an appeal taken by Conor McGregor against the finding of a High Court jury in a civil trial that he raped Nikita Hand. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0702/1521406-conor-mcgregor-court-blog/>
+
+---
+
+## Man charged with murder of pregnant woman in Co Down
+
+date: 2025-07-02, from: RTÉ News
+
+A 28-year-old man has appeared in court charged with the murder of pregnant mother-of-two Sarah Montgomery in Co Down. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0702/1521431-zak-hughes-court/>
+
+---
+
+## USAID cuts predicted to have deep global impact, require urgent response
+
+date: 2025-07-02, from: Vatican News
+
+
+                    <p>Reports show that the US Administration’s funding cuts to foreign humanitarian aid could lead to 14 million deaths by the end of 2030, with world leaders meeting in Spain to discuss the best way to offset the cuts. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/usaid-cuts-reports-un-conference-spain-developing-nations.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/usaid-cuts-reports-un-conference-spain-developing-nations.html>
+
+---
+
+## DJ Carey pleads guilty to 10 charges of deception
+
+date: 2025-07-02, from: RTÉ News
+
+Former Kilkenny hurler DJ Carey has pleaded guilty to ten counts of defrauding a number of people out of money while pretending that he had cancer. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0702/1521426-dj-carey-court/>
+
+---
+
+## IDA Ireland secures 179 investments in first half of 2025
+
+date: 2025-07-02, from: RTÉ News
+
+The number of investments into Ireland by foreign multinational companies increased by almost 37% during the first six months of the year compared to the same time in 2024. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0702/1521421-ida-ireland-half-year-review/>
+
+---
+
+## Pope to Ukrainian Bishops: Let us remain united in faith, hope
+
+date: 2025-07-02, from: Vatican News
+
+
+                    <p>In an Audience with members of the Holy Synod of the Ukrainian Greek Catholic Church, Pope Leo XIV recalls the duty of Bishops “to serve Christ in every wounded and suffering person who turns to your communities for concrete help”, and prays that peace may return to Ukraine “as soon as possible”.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-to-ukrainian-bishops-let-us-remain-united-in-faith-hope.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-to-ukrainian-bishops-let-us-remain-united-in-faith-hope.html>
+
+---
+
+## Dalai Lama says his Trust will lead search for successor
+
+date: 2025-07-02, from: RTÉ News
+
+The Dalai Lama has said that he will be reincarnated and that his non-profit institution will have the sole authority to identify his reincarnation, countering China's insistence that it will choose the successor of the Tibetan Buddhist leader. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0702/1521414-dalai-lama/>
+
+---
+
+## Four remain in custody after €31m cocaine seizure
+
+date: 2025-07-02, from: RTÉ News
+
+Four men are still being questioned in connection with the seizure of cocaine worth more than €31 million in Co Cork yesterday. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0702/1521410-cork-drug-seizure/>
+
+---
+
+## Ukraine: Religious Sisters bringing peace and joy amidst suffering and uncertainty
+
+date: 2025-07-02, from: Vatican News
+
+
+                    <p>In the city of Kryvyi Rih, nestled in Ukraine’s embattled Dnipropetrovsk region, the Franciscan Missionaries of Mary (FMM) bring peace and joy to the community. Amid the relentless sounds of air raid sirens and the daily hardships of conflict, they tirelessly serve meals to the poor, support local children, and create moments of comfort through music.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/sisters-project-134-ukraine-franciscan-missionaries-mercy-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/sisters-project-134-ukraine-franciscan-missionaries-mercy-war.html>
+
+---
+
+## Tánaiste to discuss Gaza truce efforts with Qatari PM
+
+date: 2025-07-02, from: RTÉ News
+
+The Tánaiste and Minister for Foreign Affairs is due to hold a meeting with the Prime Minister of Qatar in Dublin in which they will discuss efforts to secure a ceasefire in the Gaza conflict. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0702/1521403-ireland-middle-east/>
+
+---
+
+## US President threatens Musk with deportation
+
+date: 2025-07-02, from: RTÉ News
+
+US President Donald Trump and tech billionaire Elon Musk have reignited their bitter feud, with Mr Trump threatening to deport Mr Musk and strip federal funds from his businesses for criticising the president's flagship spending bill. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0702/1521390-donald-trump-elon-musk/>
+
+---
+
+## US halting some shipments of military aid to Ukraine
+
+date: 2025-07-02, from: RTÉ News
+
+The White House has said it is halting some key weapons shipments to Ukraine that were promised under the Biden administration for Kyiv's battle against the Russian invasion. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0702/1521384-ukraine-russia/>
+
+---
+
+## Paramount settles lawsuit filed by Trump over CBS interview with Kamala Harris
+
+date: 2025-07-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7575042.1751449948!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/media-trump-60-minutes.jpg' alt='The side of a building is shown as people walk past on a sidewalk. There is a billboard depicting faces and television program names.' width='620' height='349' title='The CBS Broadcast Center on 57th Street in New York City i shown on April 20, 2023.  '/><p>CBS parent company Paramount on Wednesday settled a lawsuit filed by U.S. President Donald Trump over an interview broadcast in October, the latest concession by a media company to a president who has targeted outlets over what he describes as false or misleading coverage.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/paramount-cbs-trump-lawsuit-1.7575039?cmp=rss>
+
+---
+
+## 20 states sue Trump administration over release of private Medicaid data to Homeland Security
+
+date: 2025-07-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7575027.1751427651!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/california-attorney-general.jpg' alt='A man with grey hair wearing a suit stands behind a podium with a microphone. A sign that says &quot;Immigrants are the backbone of California&quot; stands behind him.' width='620' height='349' title='California Attorney General Rob Bonta discusses the California Department of Justice&apos;s efforts to protect rights of the state&apos;s immigrant communities at a news conference at the San Francisco Public Library&apos;s Bernal Heights branch in San Francisco, Wednesday, Dec. 4, 2024. (AP Photo/Jeff Chiu)'/><p>The Trump administration violated federal privacy laws when it turned over Medicaid data on millions of enrollees to deportation officials last month, California Attorney General Rob Bonta alleged on Tuesday, saying he and 19 other state attorneys general have sued over the move. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-medicaid-data-homeland-security-1.7575026?cmp=rss>
+
+---
+
+## Committee to discuss insourcing work in public hospitals
+
+date: 2025-07-02, from: RTÉ News
+
+The CEO of the Health Service Executive is to warn of an overreliance on insourcing work in public hospitals, to support core care and cut waiting lists and has said the dependency on this funding needs to be removed. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0702/1521344-oireachtas-health-committee/>
+
+---
+
+## 'Canary in the mine' - tariff threat impacts Offaly firm
+
+date: 2025-07-02, from: RTÉ News
+
+The threat of tariffs is having an impact on Irish businesses, and the uncertainty is leaving many in limbo. 
+
+<br> 
+
+<https://www.rte.ie/news/leinster/2025/0702/1521367-irish-businesses-tariffs/>
+
+---
+
+## Dalai Lama says he will be reincarnated, non-profit will name his successor
+
+date: 2025-07-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7575032.1751437137!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/tibet-dalai-lama.JPG' alt='A video screen shows a man wearing a red and yellow robe speaks into a lapel microphone.' width='620' height='349' title='Tibetan spiritual leader Dalai Lama addresses via a video message at the inaugural session at the 15th Tibetan Religious Conference at the Dalai Lama Library and Archive near Tsuglagkhang, also known as Dalai Lama&apos;s Temple complex, in the northern hill town of Dharamshala, India, July 2, 2025. REUTERS/Anushree Fadnavis'/><p>The Dalai Lama said on Wednesday that a non-profit that he has founded will have the sole authority to recognize his future reincarnation, countering China's insistence that it will choose the successor of the Tibetan spiritual leader.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/dalai-lama-succession-plan-1.7575005?cmp=rss>
+
+---
+
+## Taoiseach discusses deepening trade links with Japan PM
+
+date: 2025-07-02, from: RTÉ News
+
+Taoiseach Micheál Martin and Japanese Prime Minister Shigeru Ishiba have held talks in Tokyo to discuss deepening trade links, bilateral relations and cybersecurity. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0702/1521374-taoiseach-japan-visit/>
+
+---
+
+## Water supplies for 497,000 at risk of disruption - EPA
+
+date: 2025-07-02, from: RTÉ News
+
+The Environmental Protection Agency has described as "at risk" 45 public water supplies which serve almost half a million people. 
+
+<br> 
+
+<https://www.rte.ie/news/environment/2025/0702/1521373-epa-report/>
+
+---
+
+## Is Canada beating ploughshares into swords with its NATO 5% pledge? Not likely
+
+date: 2025-07-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7574667.1751326281!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_620/pm-carney-ft-york.jpg' alt='Three people walk in front of a line of soldiers and a large Canadian flag.' width='620' height='349' title='Prime Minister Mark Carney holds a press conference at Ft. York Armoury, in Toronto, on June 9, 2025.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/canada-defence-rearmament-analysis-1.7574659?cmp=rss>
+
+---
+
+## Emeis Ireland pauses all nursing home admissions - HIQA
+
+date: 2025-07-02, from: RTÉ News
+
+Emeis Ireland, the nursing home group which operates the two care centres featured in an RTÉ Investigates programme last month, has paused admissions to all 25 homes it runs in Ireland, the Health Information and Quality Authority has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0702/1521372-emeis-ireland/>
+
+---
+
+## Trump urges Hamas to agree 'final' ceasefire proposal
+
+date: 2025-07-02, from: RTÉ News
+
+US President Donald Trump has urged Hamas to agree to what he called a "final proposal" for a 60-day ceasefire with Israel in Gaza that will be delivered by mediating officials from Qatar and Egypt. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0702/1521370-gaza-israel/>
+
+---
+
+## 10% US tariffs are 'new normal', says Tánaiste
+
+date: 2025-07-01, from: RTÉ News
+
+Tánaiste Simon Harris has told a trade forum that US tariffs of 10% on exports from Ireland will be the "new normal" but that efforts are continuing to agree zero for zero taxes in some key areas. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0702/1521354-trade-forum/>
+
+---
+
+## England's wine industry growing due to climate change
+
+date: 2025-07-01, from: RTÉ News
+
+England's wine industry has seen significant growth in recent years due to warmer temperatures brought about by climate change. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0702/1521361-england-wine/>
+
+---
+
+## As Musk melts down over budget bill, Trump threatens his government contracts
+
+date: 2025-07-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7489161.1742502906!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-workers-cuts.JPG' alt='Elon Musk listens to U.S. President Donald Trump speak in the Oval Office of the White House in Washington, D.C., U.S., February 11, 2025.   ' width='620' height='349' title='FILE PHOTO: Elon Musk listens to U.S. President Donald Trump speak in the Oval Office of the White House in Washington, D.C., U.S., February 11, 2025.   '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-musk-subsidies-contracts-1.7574786?cmp=rss>
+
+---
+
+## Teenage boy dies following incident at lake in Co Kerry
+
+date: 2025-07-01, from: RTÉ News
+
+A teenage boy has died in an incident at a lake close to Daingean Uí Chúis in the west Kerry gaeltacht of Corca Dhuibhne. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0701/1521363-kerry-incident/>
 
 ---
 
@@ -13,7 +549,7 @@ updated: 2025-07-01 14:07:41
 
 date: 2025-07-01, from: RTÉ News
 
- 
+The faces on the Government benches in the Dáil were strikingly solemn today, following on from a ferocious few days for TDs having to respond to calls from worried parents and students. 
 
 <br> 
 
@@ -30,6 +566,18 @@ Former Irish national swimming coach George Gibney has been arrested in the Unit
 <br> 
 
 <https://www.rte.ie/news/2025/0701/1521345-george-gibney/>
+
+---
+
+## Former swimming coach George Gibney arrested in US
+
+date: 2025-07-01, from: RTÉ News
+
+Former Irish national swimming coach George Gibney has been arrested in the United States. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0701/1521345-george-gibney-us/>
 
 ---
 
@@ -130,18 +678,6 @@ date: 2025-07-01, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/vatican-city/news/2025-07/cardinal-dri-death-buenos-aires-pope-francis-teacher-mercy.html>
-
----
-
-## As Musk melts down over budget bill, Trump threatens his government contracts
-
-date: 2025-07-01, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7489161.1742502906!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-workers-cuts.JPG' alt='Elon Musk listens to U.S. President Donald Trump speak in the Oval Office of the White House in Washington, D.C., U.S., February 11, 2025.   ' width='620' height='349' title='FILE PHOTO: Elon Musk listens to U.S. President Donald Trump speak in the Oval Office of the White House in Washington, D.C., U.S., February 11, 2025.   '/><p>U.S. President Donald Trump and tech titan Elon Musk are feuding again, as Trump's "big, beautiful bill" — a budget reconciliation bill that is projected to add trillions to the country's federal deficit — passes a vote in the Senate.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/trump-musk-subsidies-contracts-1.7574786?cmp=rss>
 
 ---
 
@@ -325,7 +861,7 @@ Conflicts in the Middle East and North Africa in the last two years reportedly k
 
 ## ‘The margins of the budget’: Gender equality in developing countries underfunded by $420 billion annually
 
-date: 2025-07-01, from: United Nations, Economic Development
+date: 2025-07-01, from: United Nations, Top Stories
 
 Developing countries currently face a staggering $420 billion annual gap in the funding needed to achieve gender equality, UN Women estimates. This gap means that programmes and services for women and girls are chronically underfunded.&nbsp;&nbsp; 
 
@@ -335,11 +871,11 @@ Developing countries currently face a staggering $420 billion annual gap in the 
 
 ---
 
-## 50 years of CITES: Shielding wildlife from trade-driven extinction
+## 50 years of CITES: Protecting wildlife from trade-driven extinction
 
 date: 2025-07-01, from: United Nations, Climate Change
 
-The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) marks 50 years since it entered into force on Tuesday, celebrating five decades of protecting endangered wildlife from overexploitation through international trade.&nbsp; 
+The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) marks 50 years since it entered into force on Tuesday, celebrating five decades of protecting endangered wildlife from overexploitation through international trade. 
 
 <br> 
 
@@ -349,9 +885,9 @@ The Convention on International Trade in Endangered Species of Wild Fauna and Fl
 
 ## Spain and Brazil push global action to tax the super-rich and curb inequality
 
-date: 2025-07-01, from: United Nations, Economic Development
+date: 2025-07-01, from: United Nations, Top Stories
 
-Spain and Brazil have launched a joint initiative to promote a higher tax take from the super-rich worldwide, aiming to tackle soaring inequality by ensuring those with the most, pay their fair share. 
+Spain and Brazil have launched a joint initiative to promote higher tax contributions from the super-rich worldwide, aimed at tackling soaring inequality by ensuring those with the most pay their fair share. 
 
 <br> 
 
@@ -371,11 +907,23 @@ The blistering early-summer heatwave that’s brought life-threatening temperatu
 
 ---
 
-## Jury deliberating in Sean (Diddy) Combs sex trafficking trial asks to review ex-girlfriend's testimony
+## General Assembly approves $5.4 billion UN peacekeeping budget for 2025-2026
+
+date: 2025-07-01, from: United Nations, UN Affairs
+
+The General Assembly on Monday approved a $5.38 billion budget for UN peacekeeping operations for the 2025-2026 fiscal year, down slightly from the previous year, as delegates wrapped up weeks of negotiations amid warnings about persistent funding challenges. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165191>
+
+---
+
+## Jury reaches verdict on all but one charge in Sean (Diddy) Combs trial
 
 date: 2025-07-01, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7574883.1751396717!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/people-sean-combs.JPG' alt='a sketch drawing in which two men lean in over a table to talk to eachother. In the background, other people in suits discuss with one another in small groups.' width='620' height='349' title='Sean &quot;Diddy&quot; Combs and his attorney Marc Agnifilo discuss with other defense lawyers on how to respond to a new note sent by jurors, during Combs&apos; sex trafficking trial in New York City, New York, U.S., July 1, 2025 in this courtroom sketch.'/><p>On the second day of deliberations in New York City, the jury in the sex trafficking trial for Sean (Diddy) Combs asked Tuesday to review critical testimony from one of the prosecution's most important witnesses: the hip-hop mogul's former longtime girlfriend, Cassie.</p> 
+<img src='https://i.cbc.ca/1.7574883.1751396717!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/people-sean-combs.JPG' alt='a sketch drawing in which two men lean in over a table to talk to eachother. In the background, other people in suits discuss with one another in small groups.' width='620' height='349' title='Sean &quot;Diddy&quot; Combs and his attorney Marc Agnifilo discuss with other defense lawyers on how to respond to a new note sent by jurors, during Combs&apos; sex trafficking trial in New York City, New York, U.S., July 1, 2025 in this courtroom sketch.'/><p>The jury in Sean (Diddy) Combs's sex-trafficking trial said Tuesday that it has reached a verdict on four of five counts against the hip-hop mogul but was unable to reach a decision on the top charge: racketeering conspiracy.</p> 
 
 <br> 
 
@@ -476,6 +1024,24 @@ date: 2025-07-01, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/science/orcas-sharing-prey-1.7574759?cmp=rss>
+
+---
+
+## UN dismay at latest strike on Gaza
+
+date: 2025-07-01, from: Vatican News
+
+
+                    <p>New Israeli evacuation orders for the northern Gaza Strip have alarmed UN Secretary-General Antonio Guterres.
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/united-nations-guterrez-appeal-israeli-strikes-gaza-food-civilia.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/united-nations-guterrez-appeal-israeli-strikes-gaza-food-civilia.html>
 
 ---
 
@@ -764,6 +1330,18 @@ The Government is due to consider a number of memos on housing and planning bein
 <br> 
 
 <https://www.rte.ie/news/politics/2025/0701/1521162-cabinet-latest/>
+
+---
+
+## Pope Leo XIV Inspires Young Astronomers at Vatican Observatory Summer School | EWTN News Nightly
+
+date: 2025-06-30, from: Vatican Obervatory
+
+Pope Leo XIV recently praised the achievements of modern astronomers, highlighting the awe-inspiring work of the James Webb Space Telescope. Speaking to... 
+
+<br> 
+
+<https://www.vaticanobservatory.org/press/pope-leo-xiv-inspires-young-astronomers-at-vatican-observatory-summer-school-ewtn-news-nightly/>
 
 ---
 
@@ -1101,7 +1679,7 @@ Stena Line is withdrawing its three-day Rosslare to Cherbourg ferry service from
 
 ## It’s time to finance our future and ‘change course’, Guterres tells world leaders in Sevilla
 
-date: 2025-06-30, from: United Nations, Economic Development
+date: 2025-06-30, from: United Nations, Top Stories
 
 “We’re here in Sevilla to change course,” the UN chief told world leaders on Monday, calling on them to grasp a once-in-a-decade opportunity to close a $4 trillion financing gap facing developing countries to meet sustainable development goals – and build a better world for all. 
 
@@ -1125,7 +1703,7 @@ Critical shortfalls in global humanitarian funding now threaten millions of Suda
 
 ## LIVE: World leaders in Sevilla launch ambitious push to finance the future
 
-date: 2025-06-30, from: United Nations, Economic Development
+date: 2025-06-30, from: United Nations, Top Stories
 
 From rising debt and shrinking investment, to the aid funding crisis and struggles to meet ambitious development goals, the global financial system is failing the people it's supposed to serve: fixing that is the challenge facing world leaders gathered in Spain's sweltering southern jewel of Sevilla this week, as the UN's 4th International Conference on Financing for Development gets underway. Follow our live Meetings Coverage below; app users can catch all the action from the opening session here and you'll find all related stories on our special dedicated page right here. 
 
@@ -1209,7 +1787,7 @@ One in six people are affected by loneliness, with significant implications for 
 
 ## After the big development pledges in Sevilla, UN says action starts now
 
-date: 2025-06-30, from: United Nations, Economic Development
+date: 2025-06-30, from: United Nations, Top Stories
 
 Now the big promises have been formally adopted in the Spanish city of Sevilla to turbocharge financing for sustainable development, how are the ambitious goals going to be met – and how quickly? 
 

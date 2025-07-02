@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-07-01 14:07:47
+updated: 2025-07-02 06:08:35
 ---
 
 # writing
 
-(date: 2025-07-01 14:07:47)
+(date: 2025-07-02 06:08:35)
+
+---
+
+## Write Now with Scrivener, Episode no. 52: Jane Friedman, Publishing Industry Specialist
+
+date: 2025-07-02, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-52-jane-friedman-publishing-industry-specialist>
 
 ---
 

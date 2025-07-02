@@ -29,7 +29,335 @@
 An experiment in personal news aggregation.
 </div>
 <h1 id="snapshots">snapshots</h1>
-<p>(date: 2025-07-01 14:07:53)</p>
+<p>(date: 2025-07-02 06:08:41)</p>
+<hr />
+<h2 id="avanade-intelligent-garden-at-the-chelsea-flower-show">Avanade
+Intelligent Garden at the Chelsea Flower Show</h2>
+<p>date: 2025-07-02, from: Raspberry Pi News (.com)</p>
+<p>
+Visitors at the 2025 Chelsea Flower Show could interact with the plants
+thanks to AI and Raspberry Pi 5.
+</p>
+<p>
+The post
+<a href="https://www.raspberrypi.com/news/avanade-intelligent-garden-at-the-chelsea-flower-show/">Avanade
+Intelligent Garden at the Chelsea Flower Show</a> appeared first on
+<a href="https://www.raspberrypi.com">Raspberry Pi</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://www.raspberrypi.com/news/avanade-intelligent-garden-at-the-chelsea-flower-show/"
+class="uri">https://www.raspberrypi.com/news/avanade-intelligent-garden-at-the-chelsea-flower-show/</a></p>
+<hr />
+<h2
+id="after-a-week-trump-mobile-drops-claim-that-the-t1-phone-is-made-in-the-usa">After
+a week, Trump Mobile drops claim that the T1 Phone is “Made in the
+USA”</h2>
+<p>date: 2025-07-02, from: Purism News and Events</p>
+<p>
+Trump Phone’s “Made in USA” Claims Raised Eyebrows a week ago, today it
+has been confirmed that the device is not made in the USA according to
+ARS Technica (link to article).
+</p>
+<p>
+The post
+<a rel="nofollow" href="https://puri.sm/posts/after-a-week-trump-mobile-drops-claim-that-the-t1-phone-is-made-in-the-usa/">After
+a week, Trump Mobile drops claim that the T1 Phone is “Made in the
+USA”</a> appeared first on
+<a rel="nofollow" href="https://puri.sm/">Purism</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://puri.sm/posts/after-a-week-trump-mobile-drops-claim-that-the-t1-phone-is-made-in-the-usa/"
+class="uri">https://puri.sm/posts/after-a-week-trump-mobile-drops-claim-that-the-t1-phone-is-made-in-the-usa/</a></p>
+<hr />
+<p><strong><span class="citation"
+data-cites="Tomosino">@Tomosino</span>’s Mastodon feed</strong> (date:
+2025-07-02, from: Tomosino’s Mastodon feed)</p>
+<p>
+Bowel-shaking earthquakes of doubt and remorse
+</p>
+<p><br></p>
+<p><a href="https://tilde.zone/@tomasino/114783230413726549"
+class="uri">https://tilde.zone/@tomasino/114783230413726549</a></p>
+<hr />
+<h2 id="muskenfreude">Muskenfreude</h2>
+<p>date: 2025-07-02, from: Paul Krugman</p>
+<p>When an oligarch confronts an autocrat, guess who wins?</p>
+<p><br></p>
+<p><a href="https://paulkrugman.substack.com/p/muskenfreude"
+class="uri">https://paulkrugman.substack.com/p/muskenfreude</a></p>
+<hr />
+<h2
+id="kids-are-making-deepfakes-of-each-other-and-laws-arent-keeping-up">Kids
+are making deepfakes of each other, and laws aren’t keeping up</h2>
+<p>date: 2025-07-02, from: The Markup blog</p>
+<p>Schools and lawmakers are grappling with how to address a new form of
+peer-on-peer image-based sexual abuse that disproportionately targets
+girls.</p>
+<p><br></p>
+<p><a
+href="https://themarkup.org/artificial-intelligence/2025/07/02/kids-are-making-deepfakes-of-each-other-and-laws-arent-keeping-up"
+class="uri">https://themarkup.org/artificial-intelligence/2025/07/02/kids-are-making-deepfakes-of-each-other-and-laws-arent-keeping-up</a></p>
+<hr />
+<h2 id="mandelbrot-in-x86-assembly-by-claude">Mandelbrot in x86 assembly
+by Claude</h2>
+<p>date: 2025-07-02, updated: 2025-07-02, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://gist.github.com/simonw/ba1e9fa26fc8af08934d7bc0805b9b80">Mandelbrot
+in x86 assembly by Claude</a></strong>
+</p>
+Inspired by
+<a href="https://twitter.com/russnelson/status/1940144705192542369">a
+tweet</a> asking if Claude knew x86 assembly, I decided to run a bit of
+an experiment.
+</p>
+<p>
+I prompted Claude Sonnet 4:
+</p>
+<blockquote>
+<p>
+<code>Write me an ascii art mandelbrot fractal generator in x86
+assembly</code>
+</p>
+</blockquote>
+<p>
+And
+<a href="https://claude.ai/share/abda7710-16f8-4d6d-9012-6b342fff175c">got
+back code</a> that looked… like assembly code I guess?
+</p>
+<p>
+So I copied some jargon out of that response and asked:
+</p>
+<blockquote>
+<p>
+<code>I have some code written for x86-64 assembly using NASM syntax,
+targeting Linux (using system calls for output).</code>
+</p>
+<p>
+<code>How can I run that on my Mac?</code>
+</p>
+</blockquote>
+<p>
+That
+<a href="https://claude.ai/share/27107b9a-f40e-4f81-9348-5944a3c4e82f">gave
+me a Dockerfile</a>.
+</p>
+<p>
+I tried running it on my Mac and… it failed to compile.
+</p>
+<p>
+So I fired up Claude Code (with the
+<code>–dangerously-skip-permissions</code> option) in that directory and
+told it what to run:
+</p>
+<blockquote>
+<p>
+<code>Run this: docker build -t myasm .</code>
+</p>
+</blockquote>
+<p>
+It started crunching. It read the errors, inspected the assembly code,
+made changes, tried running it again in a loop, added more comments…
+</p>
+<p>
+<img alt="Terminal window showing code diff for Mandelbrot fractal program. • Now I need to fix the Mandelbrot iteration logic as well. The current fixed-point arithmetic has issues: • Read(program.asm) └ Read 30 lines (Ctrl+r to expand) • The Mandelbrot iteration logic also has issues with fixed-point arithmetic. Let me fix this too: • Update(program.asm) └ Updated program.asm with 18 additions and 12 removals showing assembly code diff with line numbers 63-91, including removed lines marked in red for fixed point multiplication calculations and added lines in green with 64-bit arithmetic conversions, comments describing z_real and z_imag calculations, and mandel_done logic checks." src="https://static.simonwillison.net/static/2025/claude-code-x86.jpg" />
+</p>
+<p>
+…and eventually produced an ASCII art image of a fractal! Claude Code
+proudly declared:
+</p>
+<blockquote>
+<p>
+Success! The Docker container ran and generated a Mandelbrot set
+visualization using ASCII characters. The output shows all @ symbols,
+which indicates the algorithm is working but all points are inside the
+set (high iteration count). The program compiled and executed
+successfully on x86_64 architecture via emulation.
+</p>
+</blockquote>
+<p>
+Yeah… I was not satisfied with an image that was entirely @ symbols! I
+said:
+</p>
+<blockquote>
+<p>
+<code>That is a bad result - it is just @ signs, I cannot see the
+fractal</code>
+</p>
+</blockquote>
+<p>
+Claude made a few more changes and gave me the result I wanted:
+</p>
+<p>
+<img alt="A terminal window showing a pleasing ASCII art Mandelbrot set, zoomed to the expected level" src="https://static.simonwillison.net/static/2025/mandelbrot-x86.jpg" />
+</p>
+<p>
+<p>Here’s the finished
+<a href="https://gist.github.com/simonw/ba1e9fa26fc8af08934d7bc0805b9b80#file-program-asm">assembly
+code</a>, the
+<a href="https://gist.github.com/simonw/ba1e9fa26fc8af08934d7bc0805b9b80#file-dockerfile">Dockerfile</a>
+to run it on a Mac and the
+<a href="https://gist.github.com/simonw/ba1e9fa26fc8af08934d7bc0805b9b80#file-claude-code-txt">full
+transcript</a> of the Claude Code session that got it there.</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/mandelbrot&quot;&gt;mandelbrot&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai-assisted-programming&quot;&gt;ai-assisted-programming&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/anthropic&quot;&gt;anthropic&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/claude&quot;&gt;claude&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/vibe-coding&quot;&gt;vibe-coding&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/claude-code&quot;&gt;claude-code&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/#atom-everything"
+class="uri">https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/#atom-everything</a></p>
+<hr />
+<h2
+id="section"><default:div xmlns="http://www.w3.org/1999/xhtml" class="if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14"/></h2>
+<p>date: 2025-07-02, updated: 2025-07-02, from: Tantek Çelik’s blog</p>
+<p><br></p>
+<p><a
+href="https://tantek.com/2025/182/t1/movie-club-tomorrowland-submissions"
+class="uri">https://tantek.com/2025/182/t1/movie-club-tomorrowland-submissions</a></p>
+<hr />
+<h2 id="til-using-playwright-mcp-with-claude-code">TIL: Using Playwright
+MCP with Claude Code</h2>
+<p>date: 2025-07-01, updated: 2025-07-01, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://til.simonwillison.net/claude-code/playwright-mcp-claude-code">TIL:
+Using Playwright MCP with Claude Code</a></strong>
+</p>
+Inspired
+<a href="https://simonwillison.net/2025/Jun/29/agentic-coding/">by
+Armin</a> (“I personally use only one MCP - I only use Playwright”) I
+decided to figure out how to use the official
+<a href="https://github.com/microsoft/playwright-mcp">Playwright MCP
+server</a> with
+<a href="https://simonwillison.net/tags/claude-code/">Claude Code</a>.
+</p>
+<p>
+It turns out it’s easy:
+</p>
+<pre><code>claude mcp add playwright npx '@playwright/mcp@latest'
+claude
+</code></pre>
+<p>
+The <code>claude mcp add</code> command only affects the current
+directory by default - it gets persisted in the
+<code>~/.claude.json</code> file.
+</p>
+<p>
+Now Claude can use Playwright to automate a Chrome browser! Tell it to
+“Use playwright mcp to open a browser to example.com” and watch it go -
+it can navigate pages, submit forms, execute custom JavaScript and take
+screenshots to feed back into the LLM.
+</p>
+<p>
+<p>The browser window stays visible which means you can interact with it
+too, including signing into websites so Claude can act on your
+behalf.</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/armin-ronacher&quot;&gt;armin-ronacher&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/til&quot;&gt;til&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/playwright&quot;&gt;playwright&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai-assisted-programming&quot;&gt;ai-assisted-programming&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/anthropic&quot;&gt;anthropic&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/claude&quot;&gt;claude&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/claude-code&quot;&gt;claude-code&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Jul/1/using-playwright-mcp-with-claude-code/#atom-everything"
+class="uri">https://simonwillison.net/2025/Jul/1/using-playwright-mcp-with-claude-code/#atom-everything</a></p>
+<hr />
+<h2 id="coyier.com">coyier.com</h2>
+<p>date: 2025-07-01, from: Chris Coyier blog</p>
+<p>Somebody emailed me out of the blue offering to sell me coyier.com.
+Usually I’m not interested in domains. I have this one, it’s fine.
+Subdomains are cool. You can put dashes in domains and get them cheap
+(see: css-tricks.com). There are a billion TLDs now and you don’t really
+need the dot-com. But I thought […]</p>
+<p><br></p>
+<p><a href="https://chriscoyier.net/2025/07/01/coyier-com/"
+class="uri">https://chriscoyier.net/2025/07/01/coyier-com/</a></p>
+<hr />
+<h2 id="quoting-kevin-webb">Quoting Kevin Webb</h2>
+<p>date: 2025-07-01, updated: 2025-07-01, from: Simon Willison’s
+Weblog</p>
+<blockquote cite="https://bsky.app/profile/triangulator.org/post/3lqqgkkst2k2r">
+<p>
+One of the best examples of LLM developer tooling I’ve heard is from a
+team that supports software from the 80s-90s. Their only source of
+documentation is <em>video interviews</em> with retired employees. So
+they feed them into transcription software and get summarized searchable
+notes out the other end.
+</p>
+</blockquote>
+<p class="cite">
+—
+<a href="https://bsky.app/profile/triangulator.org/post/3lqqgkkst2k2r">Kevin
+Webb</a>, a couple million lines of Smalltalk
+</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/small&quot;&gt;small&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai-assisted-programming&quot;&gt;ai-assisted-programming&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Jul/1/kevin-webb/#atom-everything"
+class="uri">https://simonwillison.net/2025/Jul/1/kevin-webb/#atom-everything</a></p>
+<hr />
+<p><strong><span class="citation"
+data-cites="Tomosino">@Tomosino</span>’s Mastodon feed</strong> (date:
+2025-07-01, from: Tomosino’s Mastodon feed)</p>
+<p>
+There’s so many stupid people believing really stupid things right now
+and increasing the suffering in the world as a result. It’s infuriating.
+</p>
+<p>
+I’m not letting them get away with it. I’m gonna believe my own stupid
+things that increase my happiness to spite them.
+</p>
+<p>
+Let’s see… I’m starting with, uh… dragons! Dragons are real now. Take
+that, fuckers.
+</p>
+<p><br></p>
+<p><a href="https://tilde.zone/@tomasino/114780148747918216"
+class="uri">https://tilde.zone/@tomasino/114780148747918216</a></p>
+<hr />
+<h2
+id="liberux-isnt-giving-up-on-its-ambitious-linux-phone-despite-crowdfunding-fail">Liberux
+isn’t giving up on its ambitious Linux phone (despite crowdfunding
+fail)</h2>
+<p>date: 2025-07-01, from: Liliputing</p>
+<p>
+The Liberux NEXX was designed to be the most powerful Linux phone to
+date, with features including a Rockchip RK3588S processor, support for
+up to 32GB of user-replaceable RAM and 512GB of storage, an OLED
+display, and support for 5G networks. But when the Liberux team launched
+a crowdfunding campaign in early June the nearly $1.7 […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/liberux-isnt-giving-up-on-its-ambitious-linux-phone-despite-crowdfunding-fail/">Liberux
+isn’t giving up on its ambitious Linux phone (despite crowdfunding
+fail)</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/liberux-isnt-giving-up-on-its-ambitious-linux-phone-despite-crowdfunding-fail/"
+class="uri">https://liliputing.com/liberux-isnt-giving-up-on-its-ambitious-linux-phone-despite-crowdfunding-fail/</a></p>
+<hr />
+<h2
+id="lilbits-two-new-single-board-pcs-phosh-0.48-msi-claw-a8-ryzen-edition-and-synologys-overpriced-ssds">Lilbits:
+Two new single-board PCs, Phosh 0.48, MSI Claw A8 Ryzen Edition, and
+Synology’s overpriced SSDs</h2>
+<p>date: 2025-07-01, from: Liliputing</p>
+<p>
+Radxa has a new Raspberry Pi-sized single-board computer on the way
+powered by an Allwinner A733 processor. Pricing hasn’t been revealed
+yet, but the developers at the linux-sunxi wiki have posted some
+details. Meanwhile Orange Pi also has a new single-board computer on the
+way. But since it’s powered by a Loongson 2K3000 processor, it’s […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/lilbits-two-new-single-board-pcs-phosh-0-48-msi-claw-a8-ryzen-edition-and-synologys-overpriced-ssds/">Lilbits:
+Two new single-board PCs, Phosh 0.48, MSI Claw A8 Ryzen Edition, and
+Synology’s overpriced SSDs</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/lilbits-two-new-single-board-pcs-phosh-0-48-msi-claw-a8-ryzen-edition-and-synologys-overpriced-ssds/"
+class="uri">https://liliputing.com/lilbits-two-new-single-board-pcs-phosh-0-48-msi-claw-a8-ryzen-edition-and-synologys-overpriced-ssds/</a></p>
 <hr />
 <h2
 id="gpd-micropc-2-is-portable-computer-with-a-7-inch-display-intel-n250-processor-and-a-thumb-keyboard">GPD

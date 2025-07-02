@@ -1,11 +1,61 @@
 ---
 title: motorcycles
-updated: 2025-07-01 14:07:50
+updated: 2025-07-02 06:08:37
 ---
 
 # motorcycles
 
-(date: 2025-07-01 14:07:50)
+(date: 2025-07-02 06:08:37)
+
+---
+
+## Would These Seats Finally Fix The One Nagging Issue With My Can-Am UTV?
+
+date: 2025-07-02, from: Ride Apart, Electric Motorcycle News
+
+Tall torso + short seats = not a great fit. 
+
+<br> 
+
+<https://www.rideapart.com/news/764403/tmi-suspension-sport-seats-can-am-maverick-utv/>
+
+---
+
+## Yamaha Just Made Some Big Corporate Changes, and Here’s Why They Matter
+
+date: 2025-07-02, from: Ride Apart, Electric Motorcycle News
+
+Yamaha Motor USA, for instance, has a new boss. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/764324/yamaha-global-corporate-changes-2025/>
+
+---
+
+## Family Snowmobile Trip Ends With No Snow, 6-Month Legal Battle Ensues
+
+date: 2025-07-02, from: Ride Apart, Electric Motorcycle News
+
+This might divide opinions, but I don't think it should. 
+
+<br> 
+
+<https://www.rideapart.com/news/764308/snowmobile-trip-no-snow-family-sues/>
+
+---
+
+## This New Electric Motorcycle Looks Seriously Cool, But Will It Stick Around?
+
+date: 2025-07-02, from: Ride Apart, Electric Motorcycle News
+
+The Danish startup is betting on more beginner riders to swing a leg over electric two-wheelers. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/764327/diem-x01-concept-electric-motorcycle/>
 
 ---
 

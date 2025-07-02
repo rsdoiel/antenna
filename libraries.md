@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-07-01 14:07:48
+updated: 2025-07-02 06:08:37
 ---
 
 # libraries
 
-(date: 2025-07-01 14:07:48)
+(date: 2025-07-02 06:08:37)
 
 ---
 
@@ -18,6 +18,20 @@ Weinold, Michael
 <br> 
 
 <http://hdl.handle.net/20.500.11850/742383>
+
+---
+
+## Chefs de Cuisine: Perspectives from Publishing’s Top Table — Matthew Kissner
+
+date: 2025-07-02, from: Scholarly Kitchen
+
+<p>Robert Harington talks to Matt Kissner, CEO of Wiley, in this series of perspectives from some of Publishing’s leaders across the non-profit and for-profit sectors of our industry.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/07/02/chefs-de-cuisine-perspectives-from-publishings-top-table-matthew-kissner/">Chefs de Cuisine: Perspectives from Publishing&#8217;s Top Table &#8212; Matthew Kissner</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/07/02/chefs-de-cuisine-perspectives-from-publishings-top-table-matthew-kissner/>
 
 ---
 
@@ -204,6 +218,18 @@ Massin, Frédérick; Scarabello, Luca; Clinton, John Francis; Meier, Men-Andrin;
 <br> 
 
 <http://hdl.handle.net/20.500.11850/743181>
+
+---
+
+## Analysis of Hyperexpanded T Cell Clones in SARS-CoV-2 Vaccine-Associated Liver Injury by Spatial Proteomics and Transcriptomics
+
+date: 2025-07-01, from: ETH Zurich, recently added
+
+Uzun, Sarp; Pant, Asmita; Bartoszek, Ewelina; Gueguen, Paul; Frei, Stefan; Heusler, Hélène; Arborelli, Ilaria; Zinner, Carl Philipp; Soylu, Neşe Karadağ; Terziroli Beretta-Piccoli, Benedetta; Efe, Cumali; Matter, Matthias S. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/741629>
 
 ---
 

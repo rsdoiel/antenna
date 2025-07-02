@@ -1,11 +1,421 @@
 ---
 title: pacific
-updated: 2025-07-01 14:07:44
+updated: 2025-07-02 06:08:32
 ---
 
 # pacific
 
-(date: 2025-07-01 14:07:44)
+(date: 2025-07-02 06:08:32)
+
+---
+
+## Hawaii Performing Arts Festival unveils 21st season
+
+date: 2025-07-02, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Performing Arts Festival is kicking off its 21st season of summer performing arts shows starting tonight.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/02/entertainment/hawaii-performing-arts-festival-unveils-21st-season/>
+
+---
+
+## DOH: East Hawaii Urgent Care clinics are ‘now in compliance’
+
+date: 2025-07-02, from: Hawaii Tribune Harold
+
+
+				<p>The laboratories at the Hilo Urgent Care and Keaau Urgent Care clinics are now in full state and federal compliance and are legally able to conduct the same type of lab testing they&#8217;ve done for 22 years, according to the state Department of Health.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/02/hawaii-news/doh-east-hawaii-urgent-care-clinics-are-now-in-compliance/>
+
+---
+
+## DLNR: State marine patrols now operating in all counties
+
+date: 2025-07-02, from: Hawaii Tribune Harold
+
+
+				<p>Marine patrol units from the state Department of Land and Natural Resources are now active on Hawaii Island, Oahu, Maui and Kauai, the DLNR announced Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/02/hawaii-news/dlnr-state-marine-patrols-now-operating-in-all-counties/>
+
+---
+
+## Fireworks, fancy cars, parade, rodeo, rubber duckies and more on Friday
+
+date: 2025-07-02, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County has announced its Fourth of July celebrations in Hilo and Kailua-Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/02/community/fireworks-fancy-cars-parade-rodeo-rubber-duckies-and-more-on-friday/>
+
+---
+
+## US Senate passes Trump’s sweeping tax-cut and spending bill, setting up House battle
+
+date: 2025-07-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. Senate Republicans passed President Donald Trump&#8217;s massive tax-cut and spending bill on Tuesday by the narrowest of margins, advancing a package that would slash taxes, reduce social safety net programs and boost military and immigration enforcement spending while adding $3.3 trillion to the national debt.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/02/nation-world-news/us-senate-passes-trumps-sweeping-tax-cut-and-spending-bill-setting-up-house-battle/>
+
+---
+
+## Trump pulls back 150 National Guard troops from federal duties in California
+
+date: 2025-07-02, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; The Trump administration released about 150 National Guard troops on Tuesday in the first pullback since it dispatched a military force to the Los Angeles area last month, allowing the soldiers to return to regular duty fighting wildfires in California.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/02/nation-world-news/trump-pulls-back-150-national-guard-troops-from-federal-duties-in-california/>
+
+---
+
+## DOGE now targeting SEC policy, eyes SPAC rules, sources say
+
+date: 2025-07-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/NEW YORK &#8212; President Donald Trump&#8217;s Department of Government Efficiency initiative has pushed the U.S. markets watchdog to loosen Wall Street rules around blank-check companies and confidential reporting by private investment funds, according to two people familiar with the matter. DOGE officials at the SEC, who have so far focused on cutting costs, have in recent weeks sought meetings with staff to explore relaxing what some companies have described as burdensome and unnecessary regulations, including reworking Biden-era rules adopted last year on so-called Special Purpose Acquisition Companies, or SPACs, and requirements that private investment advisers confidentially disclose more data so regulators can better spot systemic risk, the sources said. The efforts, which have not been previously reported, are part of a broader deregulatory push by the administration, which has said it wants to spur economic growth by slashing government oversight. In a February executive order, Trump directed DOGE officials at federal agencies to identify regulations the administration may seek to eliminate for any of a range of different reasons, such as imposing &#8220;undue burdens&#8221; or costs on businesses.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/02/nation-world-news/doge-now-targeting-sec-policy-eyes-spac-rules-sources-say/>
+
+---
+
+## Trump escalates feud with Musk, threatens Tesla, SpaceX support
+
+date: 2025-07-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump on Tuesday threatened to cut off the billions of dollars in subsidies that Elon Musk&#8217;s companies receive from the federal government, in an escalation of the war of words between the president and the world&#8217;s richest man, one-time allies who have since fallen out. The feud reignited on Monday when Musk, who spent hundreds of millions on Trump&#8217;s re-election, renewed his criticism of Trump&#8217;s tax-cut and spending bill, which would eliminate subsidies for electric vehicle purchases that have benefited Tesla, the leading U.S. EV maker. That bill passed the Senate by a narrow margin midday Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/02/nation-world-news/trump-escalates-feud-with-musk-threatens-tesla-spacex-support/>
+
+---
+
+## Jurors in Sean Combs trial reach verdict on all but one count
+
+date: 2025-07-02, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A jury in Manhattan reached a partial verdict Tuesday in the federal case against music mogul Sean Combs, but it did not announce its decision because it was deadlocked on a final charge of racketeering conspiracy. The jury left for the night and will return to continue deliberating Wednesday morning.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/02/nation-world-news/jurors-in-sean-combs-trial-reach-verdict-on-all-but-one-count/>
+
+---
+
+## Google hit with $314 million US verdict in cellular data class action
+
+date: 2025-07-02, from: Hawaii Tribune Harold
+
+
+				<p>A jury in San Jose, California, said on Tuesday that Google misused customers&#8217; cell phone data and must pay more than $314.6 million to Android smartphone users in the state, according to an attorney for the plaintiffs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/02/nation-world-news/google-hit-with-314-million-us-verdict-in-cellular-data-class-action/>
+
+---
+
+## News in brief for July 2
+
+date: 2025-07-02, from: Hawaii Tribune Harold
+
+
+				<p>Trump floats daughter-in-law&#0010;for Senate run in North Carolina</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/02/nation-world-news/news-in-brief-for-july-2/>
+
+---
+
+## Trump urges Hamas to accept ‘final proposal’ for 60-day Gaza ceasefire
+
+date: 2025-07-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump urged Iran-backed Hamas militants on Tuesday to agree to what he called a &#8220;final proposal&#8221; for a 60-day ceasefire with Israel in Gaza that will be delivered by mediating officials from Qatar and Egypt.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/02/nation-world-news/trump-urges-hamas-to-accept-final-proposal-for-60-day-gaza-ceasefire/>
+
+---
+
+## Pardoned Jan. 6 Rioter Who Threatened Police Joins Justice Dept.
+
+date: 2025-07-02, from: Hawaii Tribune Harold
+
+
+				<p>A former FBI agent who was charged with encouraging the mob that stormed the Capitol on Jan. 6, 2021, to kill police officers has been named as an adviser to the Justice Department task force that President Donald Trump established to seek retribution against his political enemies.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/02/nation-world-news/pardoned-jan-6-rioter-who-threatened-police-joins-justice-dept/>
+
+---
+
+## Trump tours ‘Alligator Alcatraz’ as he pushes for more deportations
+
+date: 2025-07-02, from: Hawaii Tribune Harold
+
+
+				<p>OCHOPEE, Florida &#8212; U.S. President Donald Trump on Tuesday toured a remote migrant detention center in the Florida Everglades dubbed &#8220;Alligator Alcatraz&#8221; as his Republican allies advanced a sweeping spending bill that could ramp up deportations. The facility sits some 37 miles (60 km) from Miami in a vast subtropical wetland teeming with alligators, crocodiles and pythons, fearsome imagery the White House has leveraged to show its determination to purge migrants it says were wrongly allowed to stay in the country under former President Joe Biden&#8217;s administration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/02/nation-world-news/trump-tours-alligator-alcatraz-as-he-pushes-for-more-deportations/>
+
+---
+
+## Jimmy Swaggart, passionate televangelist ousted by scandal, dies at 90
+
+date: 2025-07-02, from: Hawaii Tribune Harold
+
+
+				<p>The Rev. Jimmy Swaggart, who emerged from the backwoods of Louisiana to become a television evangelist with global reach, preaching about an eternal struggle between good and evil and warning of the temptations of the flesh, a theme that played out in his own life in a sex scandal, died Tuesday. He was 90.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/02/nation-world-news/jimmy-swaggart-passionate-televangelist-ousted-by-scandal-dies-at-90/>
+
+---
+
+## Dalai Lama to meet senior Buddhist monks before likely reincarnation statement
+
+date: 2025-07-02, from: Hawaii Tribune Harold
+
+
+				<p>DHARAMSHALA, India &#8212; The Dalai Lama will meet 11 senior Buddhist monks this morning before delivering a written statement that will &#8220;most probably&#8221; talk about his eventual succession as the spiritual head of Tibetan Buddhists, an official said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/02/nation-world-news/dalai-lama-to-meet-senior-buddhist-monks-before-likely-reincarnation-statement/>
+
+---
+
+## Dangerous heat grips much of Europe, with more to come
+
+date: 2025-07-02, from: Hawaii Tribune Harold
+
+
+				<p>A heat wave sweeping much of Europe showed few signs of relenting Monday, when temperatures soared past 100 degrees Fahrenheit, or 37.8 Celsius, in many places in the south.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/02/nation-world-news/dangerous-heat-grips-much-of-europe-with-more-to-come/>
+
+---
+
+## Solomon Islands PM fires chief of staff over unauthorised Vietnam deal
+
+date: 2025-07-02, from: 
+
+Prime Minister Jeremiah Manele sacked his chief of staff on Friday after an "unauthorised" deal with two Vietnamese firms. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565722/solomon-islands-pm-fires-chief-of-staff-over-unauthorised-vietnam-deal>
+
+---
+
+## Tonga cybersecurity attack wake-up call for Pacific, warns expert
+
+date: 2025-07-02, from: 
+
+A former director of Tonga's cybersecurity agency says the country's health data hack last month is a "wake-up call" for the whole region. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565717/tonga-cybersecurity-attack-wake-up-call-for-pacific-warns-expert>
+
+---
+
+## Former Hurricanes star Salesi Rayasi poised for Flying Fijians debut against Wallabies
+
+date: 2025-07-02, from: 
+
+Salesi Rayasi is with the Fiji squad ahead of their test against Australia on Sunday. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565744/former-hurricanes-star-salesi-rayasi-poised-for-flying-fijians-debut-against-wallabies>
+
+---
+
+## Pasifika Sipoti in brief for 2 July
+
+date: 2025-07-02, from: 
+
+A round-up of sports news from around the region, including a veteran Kiwi sports commentator expressing concerns about the "run it straight" phenomenon. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565738/pasifika-sipoti-in-brief-for-2-july>
+
+---
+
+## Pacific news in brief for 2 July
+
+date: 2025-07-02, from: 
+
+A round-up of news from around the region, including Fijian prime minister visiting Australia this week. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565733/pacific-news-in-brief-for-2-july>
+
+---
+
+## 80% of Samoan voters fully registered - electoral office
+
+date: 2025-07-02, from: 
+
+The country's electoral commissioner says based on the 2021 Census, that's 81 percent of all eligible voters who have completed full registration, including biometrics and photos. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565731/80-percent-of-samoan-voters-fully-registered-electoral-office>
+
+---
+
+## 2025 Pacific Mini Games day two: Tahiti continues dominance, baseball 'field is not playable'
+
+date: 2025-07-01, from: 
+
+Tahiti's lead on the medal table continues to grow, as day two came to an end on Tuesday night. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565705/2025-pacific-mini-games-day-two-tahiti-continues-dominance-baseball-field-is-not-playable>
+
+---
+
+## Cultural practitioner Kuiokalani Gapero appointed to UH Board of Regents
+
+date: 2025-07-01, from: University of Hawaiʻi News
+
+<p>Gapero will fill the seat held by outgoing regent Ernest Wilson.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/01/kuiokalani-gapero-appointed-bor/">Cultural practitioner Kuiokalani Gapero appointed to <abbr>UH</abbr> Board of Regents</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/01/kuiokalani-gapero-appointed-bor/>
+
+---
+
+## Groundwater discharge found to alter coral reef ecosystems
+
+date: 2025-07-01, from: University of Hawaiʻi News
+
+<p>New <abbr>UH</abbr> study reveals how just the right amount of groundwater can boost coral reef productivity while too much causes harm.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/01/groundwater-discharge-coral-reef-ecosystems/">Groundwater discharge found to alter coral reef ecosystems</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/01/groundwater-discharge-coral-reef-ecosystems/>
+
+---
+
+## Matt Elliott ushers in new era at UH Mānoa athletics
+
+date: 2025-07-01, from: University of Hawaiʻi News
+
+<p>Matt Elliott brings a deep personal connection to <span aria-label="Hawaii">Hawai&#699;i</span> and decades of experience to his new role leading <abbr>UH</abbr> Mānoa athletics.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/01/matt-elliott-new-era-uh-manoa-athletics/">Matt Elliott ushers in new era at <abbr>UH</abbr> Mānoa athletics</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/01/matt-elliott-new-era-uh-manoa-athletics/>
+
+---
+
+## What is the Indo-Pacific’s defense outlook midway through 2025?
+
+date: 2025-07-01, from: Pacific Island Times
+
+A few weeks later was the NATO summit at The Hague. Ukraine was the topic of conversation here, and suffice it to say that absolutely nothing came out of it. But the Pentagon is now reviewing US defense policy in the Indo-Pacific.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/what-is-the-indo-pacific-s-defense-outlook-midway-through-2025>
+
+---
+
+## Growing the Native Hawaiian Physician Network
+
+date: 2025-07-01, from: University of Hawaiʻi News
+
+<p>This article by <abbr>JABSOM</abbr> Native Hawaiian Center of Excellence and <span aria-label="Ahahui">&#699;Ahahui</span> o n&#257; Kauka was first published in Ka Wai Ola on June 1.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/01/growing-native-hawaiian-physician-network/">Growing the Native Hawaiian Physician Network</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/01/growing-native-hawaiian-physician-network/>
+
+---
+
+## Business Briefs: AK, UOG team up to build local workforce; Women business summit set for Sept. 26
+
+date: 2025-07-01, from: Pacific Island Times
+
+From left,   Ryan Garduno, Inchcape South Asia &#38; Pacific talent acquisition manager; Trina Cruz, Atkins Kroll marketing &#38; customer... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/business-briefs-ak-uog-team-up-to-build-local-workforce-women-business-summit-set-for-sept-26>
+
+---
+
+## Guam seeks clarity on federal remittance tax proposal
+
+date: 2025-07-01, from: Pacific Island Times
+
+By Pacific Island Times News Staff Acting Gov. Josh Tenorio sought clarification on whether a proposed federal remittance tax will apply... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-seeks-clarity-on-federal-remittance-tax-proposal>
 
 ---
 
@@ -367,7 +777,7 @@ date: 2025-07-01, from: Hawaii Tribune Harold
 
 ---
 
-## Community Events: Freedom fest 
+## Community Events: Freedom fest, art show, live concert and musicals 
 
 date: 2025-07-01, from: Pacific Island Times
 

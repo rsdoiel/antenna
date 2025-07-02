@@ -1,11 +1,76 @@
 ---
 title: journalism
-updated: 2025-07-01 14:07:48
+updated: 2025-07-02 06:08:36
 ---
 
 # journalism
 
-(date: 2025-07-01 14:07:48)
+(date: 2025-07-02 06:08:36)
+
+---
+
+## Gov. Gavin Newsom, California State Legislature reach final state budget agreement
+
+date: 2025-07-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Gov. Gavin Newsom and the California State Legislature reached a final state budget agreement June 24 that will not reduce UC funding for the 2025-26 fiscal year. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/01/gov-gavin-newsom-california-state-legislature-reach-final-state-budget-agreement/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-02, from: The Daily Bruin (UCLA Student Newspaper))
+
+The first day of arguments in the trial concluded at around 4:20 p.m. Klein was the only witness at the stand. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/01/490557/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-02, from: The Daily Bruin (UCLA Student Newspaper))
+
+Klein said he intended to challenge the student&#8217;s logic when responding to their request for accomodations, adding that he had no intention of humiliating or insulting them. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/01/490555/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-02, from: The Daily Bruin (UCLA Student Newspaper))
+
+Upon receiving an email from a student titled “An Appeal on Behalf of Black Bruins,” Klein said he believed the student was requesting preferential accomodations, adding that he thought it was “unlawful.” Given the changes to online instruction during the COVID-19 pandemic, Klein said he only assigned a “simple and straightforward final exam” during the 2020 class. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/01/490553/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-01, from: The Daily Bruin (UCLA Student Newspaper))
+
+<em>The Daily Bruin covers breaking news relevant to the UCLA community as it happens. This page includes coverage of the July 2025 trial between plaintiff Gordon Klein, a UCLA accounting lecturer, and defendants Antonio Bernardo, dean of the Anderson School of Management, and the UC Board of Regents.</em> 
+
+<br> 
+
+<https://dailybruin.com/2025/07/01/490550/>
+
+---
+
+## Eric Swartz’s MFA directing project aims to leave audiences with new perspective
+
+date: 2025-07-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Eric Swartz is redesigning the borders between language and livelihood.
+The UCLA graduate student showcased his second-year master of fine arts  directing project on Phillip Howze&#8217;s &#8220;Frontieres sans Frontieres&#8221; from May 22 to May 24 at Macgowan Hall. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/01/eric-swartzs-mfa-directing-project-aims-to-leave-audiences-with-new-perspective/>
 
 ---
 

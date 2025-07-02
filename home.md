@@ -1,11 +1,103 @@
 ---
 title: home
-updated: 2025-07-01 14:07:49
+updated: 2025-07-02 06:08:37
 ---
 
 # home
 
-(date: 2025-07-01 14:07:49)
+(date: 2025-07-02 06:08:37)
+
+---
+
+## How They Pulled It Off: Warming Up a Concrete Basement to Match a Plywood Home
+
+date: 2025-07-02, from: Dwell
+
+When a family in Austin needed room to grow, Low Design Office gave them 1,000 square feet of subterranean space for a playroom and guest suite. 
+
+<br> 
+
+<https://www.dwell.com/article/lowdo-garden-street-plywood-basement-e293ae43>
+
+---
+
+## Don’t Miss Okui’s Strawberry n Fruit Stand in Grover Beach
+
+date: 2025-07-02, from: California Grown
+
+<p>Nestled in the heart of Grover Beach, Okui&#8217;s Strawberry n Fruit Stand is a shining example of the enduring spirit of family farming. With three generations of expertise and a deep-rooted commitment to quality, the Okui family has turned their fruit stand into a Central Coast destination. Their story is one of resilience, evolution, and [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/okuis-strawberry-n-fruit-stand/" data-wpel-link="internal" target="_self">Don’t Miss Okui’s Strawberry n Fruit Stand in Grover Beach</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/okuis-strawberry-n-fruit-stand/>
+
+---
+
+## CNPS Responds to Monday’s CEQA Rollback
+
+date: 2025-07-02, from: California Native Plants Society
+
+<p>Exempting projects from CEQA silences the voices of communities by eliminating public comment or analysis of a project’s impacts. It also silences the voices of the plants, animals, and habitats that organizations like CNPS represent.</p>
+<p>The post <a href="https://www.cnps.org/news-releases/cnps-responds-to-mondays-ceqa-rollback-43911">CNPS Responds to Monday&#8217;s CEQA Rollback</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/news-releases/cnps-responds-to-mondays-ceqa-rollback-43911>
+
+---
+
+## Sinor-LaVallee Estate Wines Are A Family Affair
+
+date: 2025-07-02, from: California Grown
+
+<p>Just over a mile from the Pacific Ocean, you’ll find Sinor-LaVallee Estate Wines. Many winemakers talk about a sense of place, but in this case, it is place that sets the tone.&#160; This family-run winery, situated in the heart of the San Luis Obispo Coast American Viticultural Area (SLO Coast AVA), is dedicated to passion, [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/sinor-lavallee/" data-wpel-link="internal" target="_self">Sinor-LaVallee Estate Wines Are A Family Affair</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/sinor-lavallee/>
+
+---
+
+## For El Lugar Wines, San Luis Obispo Coast Is Truly The Place
+
+date: 2025-07-01, from: California Grown
+
+<p>In the heart of San Luis Obispo’s growing wine scene, El Lugar Wines is crafting wines with a deep sense of place. Founded by Coby Parker-Garcia and his wife Katie Noonan, El Lugar focuses on small-lot, vineyard-designate Pinot Noir that truly captures the essence of its origins.&#160; The winery&#8217;s name perfectly encapsulates its philosophy. &#8220;El [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/el-lugar-wines/" data-wpel-link="internal" target="_self">For El Lugar Wines, San Luis Obispo Coast Is Truly The Place</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/el-lugar-wines/>
+
+---
+
+## Everything You Need to Know About Tipping at Hotels
+
+date: 2025-07-01, from: Sunset Magazine - Living in the West
+
+Figuring out gratuity at your hotel can be tricky. Experts share their advice on how to tip during your next hotel stay. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels/how-much-to-tip-at-hotel>
+
+---
+
+## These Are the 4th of July Sales Our Editors Will Actually Be Shopping
+
+date: 2025-07-01, from: Sunset Magazine - Living in the West
+
+When you get a break from your 4th of July weekend festivities, make sure to do some shopping. These are the best deals. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/4th-of-july-sales-2025>
 
 ---
 
@@ -18,6 +110,18 @@ date: 2025-07-01, from: Dwell
 <br> 
 
 <https://www.dwell.com/article/before-and-after-sallys-alley-catskills-cabin-renovation-retroject-projects-d5b14691>
+
+---
+
+## How to Price Your Home Correctly, According to a Real Estate Expert
+
+date: 2025-07-01, from: Sunset Magazine - Living in the West
+
+When selling your house, it's important to set it at the right price so it can sell quickly. A real estate expert shares how to do it. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/how-to-price-your-home>
 
 ---
 

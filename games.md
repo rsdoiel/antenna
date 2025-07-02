@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-07-01 14:07:47
+updated: 2025-07-02 06:08:35
 ---
 
 # games
 
-(date: 2025-07-01 14:07:47)
+(date: 2025-07-02 06:08:35)
+
+---
+
+## Xbox VR might be my handheld of choice
+
+date: 2025-07-02, updated: 2025-07-02, from: Polygon Website
+
+“Personally, I think Xbox hardware is dead,&#8221; decried Laura Fryer, one of Microsoft Game Studios’ founding employees, in a recent YouTube video.&#160; Sparking Fryer’s fear for the hardware legacy of Xbox was Microsoft’s reveal of the ROG Xbox Ally, a collaboration revealed during Summer Game Fest that fluffed a longtime dream of Microsoft Gaming CEO [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/610167/xbox-vr-handheld-quest-3s-game-pass>
+
+---
+
+## So far Mecha Break accomplishes the one thing a mecha hero shooter should
+
+date: 2025-07-02, updated: 2025-07-02, from: Polygon Website
+
+Video games about mechas just feel right. From flying to shooting giant laser guns, mechas are fun — and it’s the fun behind these giant robots that defines Mecha Break, a PvPvE game that puts you in control of one of these machines. But while Mecha Break presents an easy on-ramp into the mecha genre, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/610297/mecha-break-impressions-mech-game>
+
+---
+
+## How to customize your mecha in Mecha Break
+
+date: 2025-07-02, updated: 2025-07-01, from: Polygon Website
+
+Customizing your mecha by changing its looks is part of the fun in Mecha Break. Simply altering the colors can make your favorite Striker look more fierce. The game offers you varying options of each cosmetic – except skins – for free, but many still need to be unlocked. While you can’t get your hands [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/610435/mecha-break-how-to-customize-striker-paint-skin-pattern-insignia-accent-unlock>
+
+---
+
+## How to get mods in Mecha Break
+
+date: 2025-07-02, updated: 2025-07-01, from: Polygon Website
+
+When preparing your mecha to fight in Mecha Break’s extraction mode, equipping mods is a top priority. They allow you to customize your giant robot and maximize its strengths while playing around its weaknesses. Each Striker in Mecha Break has a kit of skills and a playstyle that you want to enhance by using mods. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/610370/mecha-break-mods-unlock-add-how-to-get>
+
+---
+
+## Ironheart finally brought a long-anticipated Marvel character into the MCU
+
+date: 2025-07-02, updated: 2025-07-02, from: Polygon Website
+
+At its core, Ironheart explores how far people will go to make up for their past failings —&#160;and how those efforts can go wrong. Even a noble goal can lead someone down a dark path, the show suggests, once personal desire starts clouding their plans. The MCU has consistently explored how the road to hell [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/610474/ironheart-mephisto-cameo-first-appearance-explained-sacha-baron-cohen>
+
+---
+
+## All celebrity cameos and cast in Death Stranding 2: On the Beach
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+Celebrity cameos are a huge part of Death Stranding 2: On the Beach, the PlayStation 5 game about going “Oh hey look, it’s that guy” while you navigate the apocalypse. The cast of Death Stranding 2 — both the main cast and the characters who pop up in bit parts — is full of stars [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/609570/death-stranding-2-cameos-celebrities-cast-all-where-to-find>
+
+---
+
+## Cyborg schoolgirls destroy capitalism in cheeky new action game from Earth Defense Force devs
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+In a futuristic world where Japanese office workers are forced to toil for 24 hours a day, who will mete out justice to the evil corporation that employs/enslaves them? A “fully armed cyborg heroine” who will shoot and slash those cybernetic employees and the entire evil org chart, in Full Metal Schoolgirl. Full Metal Schoolgirl [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/610462/full-metal-schoolgirl-yukes-d3-publisher>
+
+---
+
+## ‘Treasure Tail Shinjuku’ quest walkthrough in Persona 5 The Phantom X
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+As part of the “Treasure Tail: Shinjuku” quest in Persona 5: The Phantom X, you’ll need to help the Orange Tabby Cat find their Orange Tabby Treasures around Shinjuku. The treasure hunt in Shinjuku requires you to pay close attention to each store front as these treasures will make you complete a couple extra steps. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/persona-5-phantom-x-guides/610446/treasure-tail-shinjuku-orange-tabby-cat-quest-walkthrough-p5x>
+
+---
+
+## ‘Treasure Tail Yongen-jaya’ quest walkthrough in Persona 5 The Phantom X
+
+date: 2025-07-01, updated: 2025-07-01, from: Polygon Website
+
+As part of the “Treasure Tail: Yongen-jaya” quest in Persona 5: The Phantom X, you’ll need to help the Orange Tabby Cat find their Orange Tabby Treasures around Yongen-jaya. The treasure hunt in Yongen-jaya is even harder than before as the Orange Tabby Treasures are extremely well hidden. You’ll need to look in every nook [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/persona-5-phantom-x-guides/610288/treasure-tail-yongen-jaya-orange-tabby-quest-walkthrough>
 
 ---
 

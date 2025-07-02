@@ -1,11 +1,103 @@
 ---
 title: going electric
-updated: 2025-07-01 14:07:51
+updated: 2025-07-02 06:08:39
 ---
 
 # going electric
 
-(date: 2025-07-01 14:07:51)
+(date: 2025-07-02 06:08:39)
+
+---
+
+## Tesla (TSLA) confirms 384,000 deliveries in Q2 2025, right on expectations
+
+date: 2025-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Model-Y-hero-new-design.png?w=1600" /></div><p>Tesla (TSLA) has released its Q2 2025 production and delivery results this morning, confirming it delivered electric vehicles during the second quarter.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="423131" href="https://electrek.co/2025/07/02/tesla-tsla-deliveries-q2-2025/#more-423131" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/02/tesla-tsla-deliveries-q2-2025/>
+
+---
+
+## Review: DJI’s first 2,000Wh power station is here, and it’s built like a tank
+
+date: 2025-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/DJI-power-station-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>DJI may be best known for drones, but the company just launched a ground-based product that has the power to keep all your tech airborne – and then some. The new <a href="https://www.dji.com/products/power-series?site=brandsite&amp;from=nav">DJI Power 2000</a> is a 2,048 Wh portable power station with a 3,000 W output that quietly muscles its way into the heavy-hitter end of the mobile power world. I’ve been testing it for the past week in a wide range of scenarios – from charging up my electric tractor in the field to power my family’s chest freezer. And of course smaller jobs like charging up my phone and drone are easy jobs too. From my experience so far, I can tell you that this thing delivers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-backup,dji" data-layer-viewtype="unknown" data-post-id="417730" href="https://electrek.co/2025/07/02/review-djis-first-2000wh-power-station-is-here-and-its-built-like-a-tank/#more-417730" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/02/review-djis-first-2000wh-power-station-is-here-and-its-built-like-a-tank/>
+
+---
+
+## Europe’s Favorite Cheap SUV Is Going Electric
+
+date: 2025-07-02, from: Inside EVs News
+
+The Dacia Duster proved that cheap doesn’t have to mean bad, but can it make it as a pure electric vehicle? 
+
+<br> 
+
+<https://insideevs.com/news/764498/dacia-duster-electric-vehicle-confirmed/>
+
+---
+
+## New ‘world’s lightest, most efficient’ e-bike motor lands on another model
+
+date: 2025-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/gravel-ebike-header-fitness.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Last week, we reported that the e-bike world had a new motor <a href="https://electrek.co/2025/06/28/newly-unveiled-electric-bike-motor-is-worlds-lightest-most-efficient/">claiming to be</a> the lightest and most efficient. Now, we’re already seeing TQ’s new TQHPR40 motor proliferate on more road and gravel e-bikes, including the recently announced E-ASTR from Ridely.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="423134" href="https://electrek.co/2025/07/01/new-worlds-lightest-most-efficient-e-bike-motor-lands-on-another-model/#more-423134" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/01/new-worlds-lightest-most-efficient-e-bike-motor-lands-on-another-model/>
+
+---
+
+## Tesla, Trump alliance falls apart – but there’s BIG news for electric semi fleets
+
+date: 2025-07-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Donald-Trump-Elon-Musk-heartbreak-e1749169363684-copy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>After a month off trying to wrap our heads around all the chaos surrounding EVs, solar, and everything else in Washington, we’re back with the biggest EV news stories of the day from Tesla, Ford, Volvo, and everyone else on today’s hiatus-busting episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,quick-charge,tesla,volvo-trucks" data-layer-viewtype="unknown" data-post-id="423042" href="https://electrek.co/2025/07/01/tesla-trump-alliance-falls-apart-but-theres-big-news-for-electric-semi-fleets/#more-423042" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/01/tesla-trump-alliance-falls-apart-but-theres-big-news-for-electric-semi-fleets/>
+
+---
+
+## Hyundai is about to reveal a new EV and it could be the affordable IONIQ 2
+
+date: 2025-07-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Hyundai-IONIQ-2-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai is getting ready to shake things up. A new electric crossover SUV, likely the Hyundai IONIQ 2, is set to debut in the coming months. It will sit below the Kona Electric as <a href="https://electrek.co/guides/hyundai/">Hyundai</a> expands its entry-level EV lineup.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="423090" href="https://electrek.co/2025/07/01/hyundai-about-to-reveal-new-ev-ioniq-2/#more-423090" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/01/hyundai-about-to-reveal-new-ev-ioniq-2/>
 
 ---
 

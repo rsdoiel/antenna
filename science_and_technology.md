@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-07-01 14:07:45
+updated: 2025-07-02 06:08:33
 ---
 
 # science and technology
 
-(date: 2025-07-01 14:07:45)
+(date: 2025-07-02 06:08:33)
+
+---
+
+## US drops sanctions on second Russian bulletproof hosting vehicle this year
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>Aeza Group accused of assisting data bandits and BianLian ransomware crooks</h4> <p>The US Treasury has sanctioned Aeza Group, a Russian bulletproof hosting (BPH) provider, and four of its cronies for enabling ransomware and other cybercriminal activity.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/aeza_group_us_sanctions/>
+
+---
+
+## Microsoft's on-prem Exchange and Skype for Business Server go subscription-only
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>Are you sure you wouldn&#39;t rather run in our cloud?</h4> <p>Microsoft has made Subscription Editions (SE) of Exchange Server and Skype for Business Server generally available, marking an end to year-numbered versions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/exchange_skype_subscription_versions/>
+
+---
+
+## Coming to PostgreSQL: On-disk database encryption
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>Open source initiative aims to offer enterprise security feature without vendor lock-in</h4> <p>Transparent Data Encryption (TDE) is a popular approach to encrypting data at the storage layer, beefing up database security. While PostgreSQL has steadily climbed in popularity – <a target="_blank" href="https://survey.stackoverflow.co/2024/technology#most-popular-technologies-database-prof">especially among professional developers</a> – it has so far lacked this enterprise feature, at least in open source.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/postgresql_ondisk_database_encryption/>
+
+---
+
+## Cl0p cybercrime gang's data exfiltration tool found vulnerable to RCE attacks
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>Experts say they don&#39;t expect the MOVEit menace to do much about it</h4> <p>Security experts have uncovered a hole in Cl0p&#39;s data exfiltration tool that could potentially leave the cybercrime group vulnerable to attack.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/cl0p_rce_vulnerability/>
+
+---
+
+## UK eyes new laws as cable sabotage blurs line between war and peace
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>It might be time to update the Submarine Telegraph Act of 1885</h4> <p>Cyberattacks and undersea cable sabotage are blurring the line between war and peace and exposing holes in UK law, a government minister has warned lawmakers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/uk_cable_sabotage_law/>
+
+---
+
+## NASA tests shrinking metals to help it find more exoplanets
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>Mysterious ‘Alloy 30’ gets smaller when heated, which could help stabilize super-sensitive space telescopes</h4> <p>NASA is exploring the properties of a metal alloy that shrinks as it is heated, as boffins in its Astrophysics Division think it may be needed if the planned Habitable Worlds Observatory (HBO) is to succeed.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/nasa_negative_thermal_expansion_alloy_tests/>
+
+---
+
+## Amazon's latest Graviton 4 EC2 instances pack dual 300Gbps NICs
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>And no, that&#39;s not a typo</h4> <p>Amazon Web Services has cooked up a new Graviton 4-powered instance tuned for network-intensive applications like cloud firewalls and load balancers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/amazons_graviton_4_network/>
+
+---
+
+## Arista acquires VMware’s VeloCloud SD-WAN outfit from Broadcom
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>It&#39;s 2025 so even this networking deal is about AI, which is apparently about to change wide area networks</h4> <p>Broadcom has sold VeloCloud, the software-defined WAN business VMware acquired in 2017, to Arista.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/arista_acquires_velocloud_from_broadcom/>
+
+---
+
+## Australian airline Qantas reveals data theft impacting six million customers
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>Frequent flyers’ info takes flight</h4> <p>Australian airline Qantas on Wednesday revealed it fell victim to a cyberattack that saw information describing six million customers stolen.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/qantas_data_theft/>
+
+---
+
+## Curiosity Blog, Sols 4586-4587: Straight Drive, Strategic Science
+
+date: 2025-07-02, from: NASA breaking news
+
+Written by Scott VanBommel, Planetary Scientist at Washington University in St. Louis Earth planning date: Monday, June 30, 2025 Our weekend drive placed Curiosity exactly where we had hoped: on lighter-toned, resistant bedrock we have been eyeing for close study. Curiosity’s workspace tosol did not contain any targets suitable for DRT. After a detailed discussion […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4586-4587-straight-drive-strategic-science/>
+
+---
+
+## An Update From the 2025 Mars 2020 Science Team Meeting
+
+date: 2025-07-02, from: NASA breaking news
+
+A behind-the-scenes look at the annual Mars 2020 Science Team Meeting Written by Katie Stack Morgan, Mars 2020 Acting Project Scientist  The Mars 2020 Science Team gathered for a week in June to discuss recent science results, synthesize earlier mission observations, and discuss future plans for continued exploration of Jezero’s crater rim. It was also […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/an-update-from-the-2025-mars-2020-science-team-meeting/>
+
+---
+
+## Figma files for an (A)IPO with prospectus that mentions AI 150+ times
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>Warns investors its codebase is harder to maintain as it bakes in brainboxes</h4> <p>Web design tools developer Figma on Tuesday filed with the US Securities and Exchange Commission to propose an initial public offering of company shares.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/figma_files_to_go_public/>
+
+---
+
+## With OpenAI, there are no allegiances - just compute at all costs
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>Google&#39;s TPUs might not be on Altman&#39;s menu just yet, but he&#39;s never been all that picky about hardware</h4> <p><strong>Analysis</strong>  No longer bound to Microsoft&#39;s infrastructure, OpenAI is looking to expand its network of compute providers to the likes of Oracle, CoreWeave, and apparently even rival model builder Google.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/openai_google_tpu/>
+
+---
+
+## Microsoft pulls plug on generous Azure credit program for startups
+
+date: 2025-07-01, updated: 2025-07-01, from: The Register (UK I.T. News)
+
+<h4>Up to $150K tier shelved, perks folded into two-track system</h4> <p>Microsoft has retired its program that granted incorporated AI startups with a validated business plan up to $150,000 in Azure credits and replaced it with a two-track system.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/01/microsoft_azure_startup/>
 
 ---
 
