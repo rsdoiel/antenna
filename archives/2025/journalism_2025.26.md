@@ -1,11 +1,137 @@
 ---
 title: journalism
-updated: 2025-07-02 14:07:16
+updated: 2025-07-03 06:08:24
 ---
 
 # journalism
 
-(date: 2025-07-02 14:07:16)
+(date: 2025-07-03 06:08:24)
+
+---
+
+## Student governments across UC campuses banned from anti-Israel boycotts
+
+date: 2025-07-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated July 3 at 12:29 a.m.</em>
+UC President Michael Drake announced in a Wednesday letter that student governments at all UC campuses are banned from boycotting companies associated with Israel. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/03/student-governments-across-uc-campuses-banned-from-anti-israel-boycotts/>
+
+---
+
+## Marianna Bezhanyan labeled ‘extremist’ by Russian government for her political art
+
+date: 2025-07-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Marianna Bezhanyan created art symbolizing Russian identity. The Russian government then labeled her as an &#8220;extremist.&#8221;
+Bezhanyan, a third-year design media arts student, said she decided to search her name around May on a public database after her friend Nikita Shekhovtsov found himself on a similar list. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/02/marianna-bezhanyan-labeled-extremist-by-russian-government-for-her-political-art/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-03, from: The Daily Bruin (UCLA Student Newspaper))
+
+The second day of arguments in the trial concluded at around 4:22 p.m., with Klein as the only witness on the stand. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/02/490589/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-03, from: The Daily Bruin (UCLA Student Newspaper))
+
+Klein testified that he began receiving criticism via email within 24 hours of sending his message denying accommodations for Black students. Threats, some of which came over voicemail, came in the following days, he said, adding that the situation had gained widespread attention by the time the dean issued his suspension. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/02/490587/>
+
+---
+
+## Lecturer sues UCLA dean of Anderson School of Management, UC Regents – Live trial coverage
+
+date: 2025-07-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Daily Bruin covers breaking news relevant to the UCLA community as it happens. This page includes coverage of the July 2025 trial between plaintiff Gordon Klein, a UCLA accounting lecturer, and defendants Antonio Bernardo, dean of the Anderson School of Management, and the UC Board of Regents. 
+
+<br> 
+
+<https://dailybruin.com/category/breaking/klein-trial-coverage>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-02, from: The Daily Bruin (UCLA Student Newspaper))
+
+Grant Gailys, a family friend of Klein&#8217;s who attended the trial, said he witnessed the &#8220;personal distress&#8221; Klein experienced following his suspension and wanted to support him in the courtroom. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/02/490580/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-02, from: The Daily Bruin (UCLA Student Newspaper))
+
+Nan Zhong, a spectator, said he attended the trial because he is also suing the UC.
+In his lawsuit against the UC Regents, Zhong alleged that the University is using affirmative action – which has been banned in California since 1996 – in its admissions processes. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/02/490578/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-02, from: The Daily Bruin (UCLA Student Newspaper))
+
+Klein testified that he experienced emotional distress because of his suspension, saying he had difficulty sleeping and eating and developed a full-body rash. He became visibly emotional while testifying about the situation&#8217;s impact on his relationship with his daughter, whom he said became upset with him. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/02/490576/>
+
+---
+
+## Making Space at the Table: Founder Cindy Giovacchino on Why Representation in Financial Services Matters
+
+date: 2025-07-02, from: The Sundail (CSUN Student Newspaper)
+
+The financial services industry has made strides toward inclusivity, but the lack of diversity in leadership remains a persistent challenge. For decades, finance was largely shaped by a narrow band... 
+
+<br> 
+
+<https://sundial.csun.edu/194760/sundialbrandstudio/sundial-marketplace/making-space-at-the-table-founder-cindy-giovacchino-on-why-representation-in-financial-services-matters/>
+
+---
+
+## USC appoints next Ostrow dean
+
+date: 2025-07-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Ostrow School of Dentistry Dean Yang Chai previously served as interim dean of the school.</p>
+<p>The post <a href="https://dailytrojan.com/2025/07/02/usc-appoints-next-ostrow-dean/">USC appoints next Ostrow dean</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/07/02/usc-appoints-next-ostrow-dean/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-02, from: The Daily Bruin (UCLA Student Newspaper))
+
+The trial restarted around 1:40 p.m. Wednesday, with attorneys set to continue presenting evidence.
+(Zimo Li/Daily Bruin senior staff) 
+
+<br> 
+
+<https://dailybruin.com/2025/07/02/490573/>
 
 ---
 

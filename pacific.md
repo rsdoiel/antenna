@@ -1,11 +1,372 @@
 ---
 title: pacific
-updated: 2025-07-02 14:07:13
+updated: 2025-07-03 06:08:20
 ---
 
 # pacific
 
-(date: 2025-07-02 14:07:13)
+(date: 2025-07-03 06:08:20)
+
+---
+
+## Prosecutors seek to deny bail for alleged Kona drug dealer
+
+date: 2025-07-03, from: Hawaii Tribune Harold
+
+
+				<p>A motion has been filed in federal court in Honolulu to hold without bail a 54-year-old Kailua-Kona man accused of intending to distribute more than 500 grams of methamphetamine and cocaine.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/03/hawaii-news/prosecutors-seek-to-deny-bail-for-alleged-kona-drug-dealer/>
+
+---
+
+## Trump policy bill stalls as Johnson works to wear down GOP resistance
+
+date: 2025-07-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s marquee domestic policy bill was stalled in the House on Wednesday, with the chamber frozen in place as House Speaker Mike Johnson labored to overcome resistance in his own ranks and push the measure to a final vote.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/03/nation-world-news/trump-policy-bill-stalls-as-johnson-works-to-wear-down-gop-resistance/>
+
+---
+
+## Police seek leads in 2021 Puna murder
+
+date: 2025-07-03, from: Hawaii Tribune Harold
+
+
+				<p>Police detectives are renewing their request for information about an unsolved 2021 murder.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/03/hawaii-news/police-seek-leads-in-2021-puna-murder/>
+
+---
+
+## They tried Made in the USA – it was too expensive for their customers
+
+date: 2025-07-03, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; When Plufl co-founders Yuki Kinoshita and Noah Silverman pitched their &#8220;dog beds for humans&#8221; prototype to Shark Tank in 2022, they envisioned making the plush, snuggly, memory foam beds in China and selling them at retail in the U.S. for $299.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/03/nation-world-news/they-tried-made-in-the-usa-it-was-too-expensive-for-their-customers/>
+
+---
+
+## Governor’s state budget veto trims public school maintenance
+
+date: 2025-07-03, from: Hawaii Tribune Harold
+
+
+				<p>The trimming that Gov. Josh Green has given to the new biennium state budget is pretty light compared with the last one and mainly holds back cash that lawmakers appropriated for public school maintenance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/03/hawaii-news/governors-state-budget-veto-trims-public-school-maintenance/>
+
+---
+
+## Tax cuts now, benefit cuts later: The timeline in the Republican megabill
+
+date: 2025-07-03, from: Hawaii Tribune Harold
+
+
+				<p>At the core of Republicans&#8217; sprawling domestic policy package is an important political calculation. It provides its most generous tax breaks early on and reserves some of its most painful benefit cuts until after the 2026 midterm elections.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/03/nation-world-news/tax-cuts-now-benefit-cuts-later-the-timeline-in-the-republican-megabill/>
+
+---
+
+## It came from outside our solar system, and it might be big
+
+date: 2025-07-03, from: Hawaii Tribune Harold
+
+
+				<p>For only the third time, astronomers have found something passing through our solar system that looks like it came from outside the solar system.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/03/nation-world-news/it-came-from-outside-our-solar-system-and-it-might-be-big/>
+
+---
+
+## Trump asks Supreme Court to allow removal of consumer product safety commissioners
+
+date: 2025-07-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s administration asked the U.S. Supreme Court on Wednesday to intervene in his bid to fire three Democratic Consumer Product Safety Commission members by putting on hold a judicial order calling for their reinstatement. In the latest fight over presidential powers to reach the top U.S. judicial body since Trump returned to office in January, the three commissioners in a separate filing told the justices they should be allowed to continue serving while the Supreme Court considers the administration&#8217;s request. Maryland-based U.S. District Judge Matthew Maddox ruled last month that the Republican president had overstepped his authority when he dismissed Commissioners Mary Boyle, Alexander Hoehn-Saric and Richard Trumka Jr, all of whom were appointed by Democratic former President Joe Biden. The Justice Department in Wednesday&#8217;s filing told the Supreme Court that Trump had acted within his powers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/03/nation-world-news/trump-asks-supreme-court-to-allow-removal-of-consumer-product-safety-commissioners/>
+
+---
+
+## US judge blocks Trump asylum ban at US-Mexico border, says he exceeded authority
+
+date: 2025-07-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A federal judge on Wednesday blocked President Donald Trump&#8217;s asylum ban at the U.S.-Mexico border, saying Trump exceeded his authority when he issued a proclamation declaring illegal immigration an emergency and setting aside existing legal processes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/03/nation-world-news/us-judge-blocks-trump-asylum-ban-at-us-mexico-border-says-he-exceeded-authority/>
+
+---
+
+## Trump touts deal to put 20% tariff on Vietnam’s exports
+
+date: 2025-07-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/HANOI &#8212; The United States will place a lower-than-promised 20% tariff on many Vietnamese exports, Donald Trump said on Wednesday, cooling tensions with its tenth-biggest trading partner days before the U.S. president could raise levies on most imports.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/03/nation-world-news/trump-touts-deal-to-put-20-tariff-on-vietnams-exports/>
+
+---
+
+## Bryan Kohberger pleads guilty to murdering four Idaho college students
+
+date: 2025-07-03, from: Hawaii Tribune Harold
+
+
+				<p>BOISE, Idaho &#8212; The man accused of fatally stabbing four University of Idaho students in 2022 pleaded guilty on Wednesday to first-degree murder in a deal with prosecutors that spares the former criminal-justice doctoral student from the death penalty.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/03/nation-world-news/bryan-kohberger-pleads-guilty-to-murdering-four-idaho-college-students/>
+
+---
+
+## Sean ‘Diddy’ Combs to remain jailed ahead of sentencing, judge rules
+
+date: 2025-07-03, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A U.S. judge denied Sean &#8220;Diddy&#8221; Combs&#8217; request to be released from jail on Wednesday ahead of his sentencing, after the music mogul was cleared of sex trafficking and racketeering charges that could have put him behind bars for life but found guilty of lesser prostitution-related offenses.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/03/nation-world-news/sean-diddy-combs-to-remain-jailed-ahead-of-sentencing-judge-rules/>
+
+---
+
+## Ukraine voices concern as US halts some missile shipments
+
+date: 2025-07-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/KYIV &#8212; A decision by Washington to halt some shipments of critical weapons to Ukraine prompted warnings by Kyiv on Wednesday that the move would weaken its ability to defend against intensifying airstrikes and battlefield advances. Ukraine said it had called in the acting U.S. envoy to Kyiv to underline the importance of military aid from Washington continuing, and cautioned that any cut-off would embolden Russia in its war in Ukraine. The Pentagon&#8217;s decision &#8212; tied to concerns that U.S. military stockpiles are too low &#8212; began in recent days and includes 30 Patriot air defense missiles, which Ukraine relies on to destroy fast-moving ballistic missiles, four people familiar with the decision said on Wednesday. It also includes nearly 8,500 155mm artillery shells, more than 250 precision GMLRS (mobile rocket artillery) missiles and 142 Hellfire air-to-surface missiles, they said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/03/nation-world-news/ukraine-voices-concern-as-us-halts-some-missile-shipments/>
+
+---
+
+## Record July Fourth travel expected as Americans hit the road and the skies
+
+date: 2025-07-03, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A record number of Americans are set to travel for the Fourth of July holiday by road and air, travel industry statistics show, but many last-minute travelers say their plans depend on whether they can get a good deal on airline tickets.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/03/nation-world-news/record-july-fourth-travel-expected-as-americans-hit-the-road-and-the-skies/>
+
+---
+
+## News in brief for July 3
+
+date: 2025-07-03, from: Hawaii Tribune Harold
+
+
+				<p>Warehouse full of fireworks explodes, 7 people missing </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/03/nation-world-news/news-in-brief-for-july-3-2/>
+
+---
+
+## Macron, top leaders open New Caledonia’s summit in Paris
+
+date: 2025-07-03, from: 
+
+A delegation from political leaders as well as representatives from New Caledonia's economic and civil society have converged to Paris over the past few days. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565868/macron-top-leaders-open-new-caledonia-s-summit-in-paris>
+
+---
+
+## Eyes of Fire’s new edition
+
+date: 2025-07-03, from: Marshal Islands Journal
+
+<p>Author David Robie and Little Island Press is about to publish a 40th anniversary edition of Eyes of Fire, a first-hand account of the relocation of the Rongelap people by Greenpeace’s Rainbow Warrior in 1985. Robie joined what turned out to be the ill-fated voyage of the Rainbow Warrior from Hawaii across the Pacific, with [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/eyes-of-fires-new-edition/">Eyes of Fire’s new edition</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/eyes-of-fires-new-edition/>
+
+---
+
+## Fiji willing to provide 5000 personnel to Australian Defence Force - Rabuka
+
+date: 2025-07-03, from: 
+
+The Fijian prime minister says his country is ready to offer 5000 soldiers to help address the Australian Defence Force's personnel shortage. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565854/fiji-willing-to-provide-5000-personnel-to-australian-defence-force-rabuka>
+
+---
+
+## Bougainville parliament wrapping up ahead of election process
+
+date: 2025-07-03, from: 
+
+President Ishmael Toroama says he is "committed to building a government that is efficient, accountable, and fully capable of leading Bougainville into the future." 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565859/bougainville-parliament-wrapping-up-ahead-of-election-process>
+
+---
+
+## NTA’s CEO focused on key areas
+
+date: 2025-07-03, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON Dr. Yukiko Muller took over the reigns at the National Telecommunications Authority six weeks ago and is focused on a series of improvement projects. The new CEO updated the Journal about the many projects on the priority list for NTA in the coming months. Two of the upgrade projects are funded and in [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/ntas-ceo-focused-on-key-areas/">NTA’s CEO focused on key areas</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/ntas-ceo-focused-on-key-areas/>
+
+---
+
+## Flying Fijians coach Byrne: 'We will be ready' for Australia
+
+date: 2025-07-03, from: 
+
+The Fijian mentor told reporters this week that players have been challenged to stay focused on Sunday's clash agains the Wallabies in Sydney. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565837/flying-fijians-coach-byrne-we-will-be-ready-for-australia>
+
+---
+
+## Bougainville pins hopes on Melanesian Agreement for independence
+
+date: 2025-07-03, from: 
+
+"To demand that Bougainville should meet some economic threshold or be economically independent before political independence, is a foolish argument." 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565853/bougainville-pins-hopes-on-melanesian-agreement-for-independence>
+
+---
+
+## Possible interstellar visitor headed toward Sun discovered by UH telescope
+
+date: 2025-07-03, from: University of Hawaiʻi News
+
+<p>The rare object, possibly a comet from another solar system, is racing toward the Sun at over 150,000 miles per hour.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/02/possible-interstellar-visitor-discovered-by-uh/">Possible interstellar visitor headed toward Sun discovered by <abbr>UH</abbr> telescope</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/02/possible-interstellar-visitor-discovered-by-uh/>
+
+---
+
+## Fishermen under investigation
+
+date: 2025-07-02, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON Community complaints about a large group of fishermen living in an apartment building in the Batkan area of Majuro led to law enforcement raiding the building and removing the men from the location last week, first to the MIPD Uliga jail and later to the former Covid quarantine facilities at CMI’s Arrak Campus. [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/fishermen-under-investigation/">Fishermen under investigation</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/fishermen-under-investigation/>
+
+---
+
+## So many rules, so little time: Navigating Guam’s procurement maze
+
+date: 2025-07-02, from: Pacific Island Times
+
+By Mar-Vic Cagurangan   Simon Sanchez High School was the epitome of the government of Guam’s procurement weaknesses. The construction of... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/so-many-rules-so-little-time-navigating-guam-s-procurement-maze>
+
+---
+
+## Australia-Tuvalu mobility pathway: does it address the climate crisis?
+
+date: 2025-07-02, from: Pacific Island Times
+
+Tuvalu/Photo courtesy of Jess Marinaccio By Jess Marinaccio On June 11, the Tuvaluan and Australian governments issued press releases... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/australia-tuvalu-mobility-pathway-does-it-address-the-climate-crisis>
+
+---
+
+## Tahiti's golden run continues at Palau Mini Games
+
+date: 2025-07-02, from: 
+
+Samoa now has nine gold medals to its name, while Fiji and Australia have jumped into third and fourth spots, respectively. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565819/tahiti-s-golden-run-continues-at-palau-mini-games>
 
 ---
 
@@ -613,6 +974,18 @@ date: 2025-07-01, updated: 2025-07-01, from: Marianas Variety
 <br> 
 
 <https://www.mvariety.com/news/national/trump-lawyer-says-no-immediate-deportations-under-birthright-citizenship-order-as-judges-to-decide-on/article_b76a3db5-626c-4baa-9c85-253ecdef1a34.html>
+
+---
+
+## DOD's investments in Guam reach $3.9B 
+
+date: 2025-07-01, from: Pacific Island Times
+
+However, its outstanding public debt has increased to $2.6 billion, accounting for 38 percent of its gross domestic product, according to the Government Accountability Office. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/dod-s-investments-in-guam-reach-3-9b>
 
 ---
 

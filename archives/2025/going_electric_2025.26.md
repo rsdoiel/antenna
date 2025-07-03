@@ -1,11 +1,99 @@
 ---
 title: going electric
-updated: 2025-07-02 14:07:18
+updated: 2025-07-03 06:08:28
 ---
 
 # going electric
 
-(date: 2025-07-02 14:07:18)
+(date: 2025-07-03 06:08:28)
+
+---
+
+## Tesla Optimus is in shambles as head of program exits, production delayed
+
+date: 2025-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Tesla-Bot-Optimus-hero.webp?w=1500" /></div><p>Tesla’s humanoid robot program, Optimus, is reportedly in disarray amid the departure of the senior vice president in charge, Milan Kovac.</p>
+
+
+
+<p>Production has been delayed due to a new redesign, as the robot has yet to prove useful in Tesla’s factories.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-optimus" data-layer-viewtype="unknown" data-post-id="423276" href="https://electrek.co/2025/07/03/tesla-optimus-shambles-head-of-program-exits-production-delayed/#more-423276" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/03/tesla-optimus-shambles-head-of-program-exits-production-delayed/>
+
+---
+
+## Honda’s new electric two-wheeler doubles the power and range
+
+date: 2025-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/honda-cuv-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Honda is stepping up its electric scooter game with the launch of its second electric model for Europe, the CUV e:. Following Honda’s <a href="https://electrek.co/2022/11/08/honda-em1-unveiled-electric-scooter-europe/">previous debut of the EM1 e:</a>, a compact, city-focused moped, the CUV e: brings more power, more range, and more real-world usability to riders who want a practical electric alternative to a 125cc scooter.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-scooter,honda" data-layer-viewtype="unknown" data-post-id="423275" href="https://electrek.co/2025/07/03/hondas-new-electric-two-wheeler-doubles-the-power-and-range/#more-423275" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/03/hondas-new-electric-two-wheeler-doubles-the-power-and-range/>
+
+---
+
+## Former DOT official says NYC’s 15 MPH e-bike speed limit will risk lives
+
+date: 2025-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/NYC-bike-street-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>If Mayor Adams gets his way, New York City <a href="https://electrek.co/2025/06/05/its-official-nyc-will-impose-a-new-15-mph-speed-limit-on-electric-bikes/">will institute a new speed limit </a>on electric bicycles, reducing the cap to just 15 mph (24.1 km/h) from the previous e-bike speed limit of 25 mph (40 km/h). It’s a move that is ostensibly meant to protect New Yorkers, but which experts have said will actually result in risking more lives.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,new-york" data-layer-viewtype="unknown" data-post-id="423268" href="https://electrek.co/2025/07/03/former-dot-official-says-nycs-15-mph-e-bike-speed-limit-will-risk-lives/#more-423268" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/03/former-dot-official-says-nycs-15-mph-e-bike-speed-limit-will-risk-lives/>
+
+---
+
+## Electrek FSGP 2025: New teams, new cars, same solar spirit
+
+date: 2025-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/54622990419_436a88d084_k.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The sun has set on a frantic day of scrutineering at this year’s Electrek <a href="https://electrek.co/guides/formula-sun-grand-prix/">Formula Sun Grand Prix (FSGP)</a>, as teams scramble to qualify for a spot on the starting line tomorrow morning. Electrek FSGP 2025 is shaping up to be one of the event’s most attended ever, thanks to a strong showing of first-time and returning schools. But that also means new and unproven vehicles on the track.</p>
+
+
+
+<p>Today, I walked through a couple of bays and talked with a few of the teams able to spare a minute; almost all of them were debuting completely new cars that were years in the making. Building a solar car is no easy feat. It’s not just the engineering and technical know-how that’s often a hurdle for them; it’s more often monetary. However, one of the things that makes this event so special is the camaraderie and collaboration that happen behind the scenes.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="formula-sun-grand-prix" data-layer-viewtype="unknown" data-post-id="423242" href="https://electrek.co/2025/07/02/electrek-fsgp-2025-new-teams-new-cars-same-solar-spirit/#more-423242" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/02/electrek-fsgp-2025-new-teams-new-cars-same-solar-spirit/>
+
+---
+
+## Troubling times for Tesla, Nissan, and Dodge – plus some fun yellow stuff!
+
+date: 2025-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/charger_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s Q2 results are in, and they are way, way down from Q2 of 2024. At the same time, Nissan seems to be in serious trouble and the first-ever all-electric Dodge muscle car is getting recalled because its dumb engine noises are the wrong kind of dumb engine noises. All this and more on today’s deeply troubled episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dodge,komatsu,nissan,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="423231" href="https://electrek.co/2025/07/02/troubling-times-for-tesla-nissan-and-dodge-plus-some-fun-yellow-stuff/#more-423231" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/02/troubling-times-for-tesla-nissan-and-dodge-plus-some-fun-yellow-stuff/>
 
 ---
 
@@ -405,7 +493,7 @@ date: 2025-07-01, from: Electrek Feed
 
 date: 2025-07-01, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Lee_Zeldin_48513771307.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Nearly 500 employees of the Environmental Protection Agency have published a “Declaration of Dissent” opposing the actions of the current EPA head, Lee Zeldin, who is working to politicize the agency, ignore science, and spread misinformation.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Lee_Zeldin_48513771307.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Over 500 employees of the Environmental Protection Agency have published a “Declaration of Dissent” opposing the actions of the current EPA head, Lee Zeldin, who is working to politicize the agency, ignore science, and spread misinformation.</p>
 
 
 
@@ -469,7 +557,7 @@ date: 2025-07-01, from: Electrek Feed
 
 ---
 
-## Hyundai’s Hybrids Are On A Tear: Q2 Sales
+## Hyundai’s Hybrids Are On A Tear: Q2 Sales [Updated]
 
 date: 2025-07-01, from: Inside EVs News
 

@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-07-02 14:07:13
+updated: 2025-07-03 06:08:20
 ---
 
 # ham radio
 
-(date: 2025-07-02 14:07:13)
+(date: 2025-07-03 06:08:20)
+
+---
+
+## Tenstorrent’s Blue Cheetah deal a harbinger of chiplet acquisition spree
+
+date: 2025-07-03, from: EDN Blog
+
+<img width="1200" height="627" src="https://www.edn.com/wp-content/uploads/Hero-image-16.jpg?fit=1200%2C627" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-16.jpg?w=1200 1200w, https://www.edn.com/wp-content/uploads/Hero-image-16.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-16.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-16.jpg?w=1024 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /><p>Blue Cheetah will bring Tenstorrent interconnect IPs and analog/mixed-signal expertise critical in chiplet design.</p>
+<p>The post <a href="https://www.edn.com/tenstorrents-blue-cheetah-deal-a-harbinger-of-chiplet-acquisition-spree/">Tenstorrent’s Blue Cheetah deal a harbinger of chiplet acquisition spree</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/tenstorrents-blue-cheetah-deal-a-harbinger-of-chiplet-acquisition-spree/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-07-02 14:07:13
 
 date: 2025-07-02, from: EDN Blog
 
-<img width="800" height="800" src="https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?fit=800%2C800" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?w=150 150w, https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Here are some insights on RC snubber circuits along with a few handy tips for inductive load suppression.</p>
+<img width="800" height="800" src="https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?fit=800%2C800" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?w=150 150w, https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Here are some insights on RC snubber circuits along with a few handy tips for inductive load suppression.</p>
 <p>The post <a href="https://www.edn.com/a-hands-on-guide-for-rc-snubbers-and-inductive-load-suppression/">A hands-on guide for RC snubbers and inductive load suppression</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

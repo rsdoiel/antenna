@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-07-02 14:07:15
+updated: 2025-07-03 06:08:24
 ---
 
 # games
 
-(date: 2025-07-02 14:07:15)
+(date: 2025-07-03 06:08:24)
+
+---
+
+## Batman Ninja vs. Yakuza League is a hilariously chaotic mashup of DC Comics and anime tropes
+
+date: 2025-07-03, updated: 2025-07-03, from: Polygon Website
+
+“I sure hope something makes sense soon,” Batman’s son and sidekick Damian Wayne (Yuki Kaji/Bryson Baugus) says while taking a seat in the Batmobile to respond to a report of a “yakuza hurricane” hitting Gotham City in the first minutes of the anime film Batman Ninja vs. Yakuza League, now streaming on Max. It&#8217;s the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/610759/batman-ninja-vs-yakuza-league-anime-review>
+
+---
+
+## Persona 5: The Phantom X Revelation Cards, explained
+
+date: 2025-07-02, updated: 2025-07-02, from: Polygon Website
+
+Revelation Cards are a type of equipment in Persona 5: The Phantom X that boost a character’s stats and provide them with extra effects. For those struggling to defeat Shadow bosses, Revelation Cards might be your key to victory. Revelation Cards are vital to improving your characters’ damage and survivability. However, the card system can [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/persona-5-phantom-x-guides/610482/revelation-cards-space-effects-sets-how-to-get-p5x>
+
+---
+
+## When is the next Pokémon Presents?
+
+date: 2025-07-02, updated: 2025-07-02, from: Polygon Website
+
+The Pokémon Company has a Pokémon Presents showcase planned for July, promising viewers “the latest updates and news from the world of Pokémon.” It’s the second of these events in 2025 so far, following February’s Pokémon Day event. The latest Pokémon Presents showcase will stream on the official Pokémon YouTube channel on Tuesday, July 22, starting [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon/610583/pokemon-presents-july-2025-schedule>
 
 ---
 

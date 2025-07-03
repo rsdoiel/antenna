@@ -1,11 +1,189 @@
 ---
 title: small papers
-updated: 2025-07-02 14:07:18
+updated: 2025-07-03 06:08:29
 ---
 
 # small papers
 
-(date: 2025-07-02 14:07:18)
+(date: 2025-07-03 06:08:29)
+
+---
+
+## Recursos para Reportar la Actividad de ICE y Localizar a los Detenidos
+
+date: 2025-07-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?fit=1024%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?resize=1536%2C1536&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?resize=2048%2C2048&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?resize=1200%2C1200&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?resize=2000%2C2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?resize=780%2C780&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/4-scaled.jpg?fit=1024%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Durante el último mes, sin un final a la vista, bajo las órdenes y la autoridad presidencial de Donald Trump, agentes enmascarados de ICE y la Oficina de Aduanas y [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/02/recursos-para-reportar-la-actividad-de-icey-localizar-a-los-detenidos/">Recursos para Reportar la Actividad de ICE y Localizar a los Detenidos</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/02/recursos-para-reportar-la-actividad-de-icey-localizar-a-los-detenidos/>
+
+---
+
+## Los Residentes de SFV Ayudan a Sus Vecinos Indocumentados a hacer un Viaje de Comestibles a la Vez
+
+date: 2025-07-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250701_Amor-Al-Valle_SN_02-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250701_Amor-Al-Valle_SN_02-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250701_Amor-Al-Valle_SN_02-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250701_Amor-Al-Valle_SN_02-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250701_Amor-Al-Valle_SN_02-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250701_Amor-Al-Valle_SN_02-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250701_Amor-Al-Valle_SN_02-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250701_Amor-Al-Valle_SN_02-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250701_Amor-Al-Valle_SN_02-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250701_Amor-Al-Valle_SN_02-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250701_Amor-Al-Valle_SN_02-scaled.jpeg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250701_Amor-Al-Valle_SN_02-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250701_Amor-Al-Valle_SN_02-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250701_Amor-Al-Valle_SN_02-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250701_Amor-Al-Valle_SN_02-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A medida que el calor del día comenzaba a enfriarse por la noche, dos docenas de voluntarios se reunieron en el estacionamiento afuera de Food 4 Less en Laurel Canyon [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/02/los-residentes-de-sfv-ayudan-a-sus-vecinos-indocumentados-a-hacer-un-viaje-de-comestibles-a-la-vez/">Los Residentes de SFV Ayudan a Sus Vecinos Indocumentados a hacer un Viaje de Comestibles a la Vez</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/02/los-residentes-de-sfv-ayudan-a-sus-vecinos-indocumentados-a-hacer-un-viaje-de-comestibles-a-la-vez/>
+
+---
+
+## El Partido Paz y Libertad se Extiende al Noreste del Valle para Oponerse a las Redadas de ICE
+
+date: 2025-07-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/PXL_20250628_020949917-scaled.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/PXL_20250628_020949917-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/PXL_20250628_020949917-scaled.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/PXL_20250628_020949917-scaled.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/PXL_20250628_020949917-scaled.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/PXL_20250628_020949917-scaled.jpg?resize=1536%2C1157&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/PXL_20250628_020949917-scaled.jpg?resize=2048%2C1542&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/PXL_20250628_020949917-scaled.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/PXL_20250628_020949917-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/PXL_20250628_020949917-scaled.jpg?resize=1200%2C904&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/PXL_20250628_020949917-scaled.jpg?resize=2000%2C1506&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/PXL_20250628_020949917-scaled.jpg?resize=780%2C587&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/PXL_20250628_020949917-scaled.jpg?resize=706%2C532&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/PXL_20250628_020949917-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/PXL_20250628_020949917-scaled.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Reunidos en la Iglesia Cristiana de Mission Hills, los miembros del Partido Paz y Libertad (PFP, por sus siglas en inglés) celebraron una reunión comunitaria para discutir las redadas en [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/02/el-partido-paz-y-libertad-se-extiende-al-noreste-del-valle-para-oponerse-a-las-redadas-de-ice/">El Partido Paz y Libertad se Extiende al Noreste del Valle para Oponerse a las Redadas de ICE</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/02/el-partido-paz-y-libertad-se-extiende-al-noreste-del-valle-para-oponerse-a-las-redadas-de-ice/>
+
+---
+
+## Horóscopo
+
+date: 2025-07-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Externalizarás un problema, como contratar a alguien para que te ayude con la tecnología, las reparaciones, el trabajo [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/02/horoscopo-221/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/02/horoscopo-221/>
+
+---
+
+## EVENTOS Locales – Semana de 3 de julio, 2025
+
+date: 2025-07-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Julio 4 ¡Extravagancia del 4 de julio de 2025 del concejal Bob Blumenfield! Warner Park 5800 Topanga Canyon Blvd. Woodland Hills 6 p.m. – 9:30 p.m. Con una de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/02/eventos-locales-semana-de-3-de-julio-2025/">EVENTOS Locales &#8211; Semana de 3 de julio, 2025 </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/02/eventos-locales-semana-de-3-de-julio-2025/>
+
+---
+
+## Taken: ¿Qué Sucede Después de una Redada de Inmigración en Los Ángeles?
+
+date: 2025-07-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/062625-Juan-Flores-CM-01-1.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/062625-Juan-Flores-CM-01-1.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/062625-Juan-Flores-CM-01-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/062625-Juan-Flores-CM-01-1.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/062625-Juan-Flores-CM-01-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/062625-Juan-Flores-CM-01-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/062625-Juan-Flores-CM-01-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/062625-Juan-Flores-CM-01-1.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/062625-Juan-Flores-CM-01-1.jpg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/062625-Juan-Flores-CM-01-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/062625-Juan-Flores-CM-01-1.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/062625-Juan-Flores-CM-01-1.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Por Sergio Olmos, Wendy Fry, Lauren Hepler y Anat RubinCalMatters  Traducción del personal de San Fernando Valley Sun/el Sol Los agentes enmascarados se detienen rápidamente. Saltan de camionetas o camiones [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/02/taken-que-sucede-despues-de-una-redada-de-inmigracion-en-los-angeles/">Taken: ¿Qué Sucede Después de una Redada de Inmigración en Los Ángeles?</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/02/taken-que-sucede-despues-de-una-redada-de-inmigracion-en-los-angeles/>
+
+---
+
+## Los Músicos del Programa de Maestros Aprendices de Mariachi de San Fernando se están Presentando en D.C.
+
+date: 2025-07-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="577" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Photo-1-1-scaled.jpg?fit=1024%2C577&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Photo-1-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Photo-1-1-scaled.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Photo-1-1-scaled.jpg?resize=1024%2C577&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Photo-1-1-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Photo-1-1-scaled.jpg?resize=1536%2C865&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Photo-1-1-scaled.jpg?resize=2048%2C1153&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Photo-1-1-scaled.jpg?resize=1200%2C676&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Photo-1-1-scaled.jpg?resize=2000%2C1126&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Photo-1-1-scaled.jpg?resize=780%2C439&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Photo-1-1-scaled.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Photo-1-1-scaled.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Photo-1-1-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Photo-1-1-scaled.jpg?fit=1024%2C577&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los jóvenes miembros del renombrado Programa de Maestros Aprendices de Mariachi &#8211; Tesoro de San Fernando están en Washington, D.C. esta semana como artistas invitados en el Festival de Folklife [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/02/los-musicos-del-programa-de-maestros-aprendices-de-mariachi-de-san-fernando-se-estan-presentando-en-d-c/">Los Músicos del Programa de Maestros Aprendices de Mariachi de San Fernando se están Presentando en D.C.</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/02/los-musicos-del-programa-de-maestros-aprendices-de-mariachi-de-san-fernando-se-estan-presentando-en-d-c/>
+
+---
+
+## Greenland has a Message for the Rest of the World: Come Visit
+
+date: 2025-07-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25177474656742-scaled.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25177474656742-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25177474656742-scaled.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25177474656742-scaled.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25177474656742-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25177474656742-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25177474656742-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25177474656742-scaled.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25177474656742-scaled.jpg?resize=2000%2C1125&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25177474656742-scaled.jpg?resize=780%2C439&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25177474656742-scaled.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25177474656742-scaled.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25177474656742-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25177474656742-scaled.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>By Kwiyeon Ha Associated Press NUUK, Greenland (AP) — Greenland has a message for the rest of the world: We’re waiting for you. “Come visit Greenland,” said Nukartaa Andreassen, who works [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/02/greenland-has-a-message-for-the-rest-of-the-world-come-visit/">Greenland has a Message for the Rest of the World: Come Visit</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/02/greenland-has-a-message-for-the-rest-of-the-world-come-visit/>
+
+---
+
+## Trump Keeps Saying the GOP Mega Bill will Eliminate Taxes on Social Security. It Does Not
+
+date: 2025-07-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25169577625460-scaled-e1751517871299.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25169577625460-scaled-e1751517871299.jpg?w=1900&amp;ssl=1 1900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25169577625460-scaled-e1751517871299.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25169577625460-scaled-e1751517871299.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25169577625460-scaled-e1751517871299.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>By Fatima Hussein Associated Press WASHINGTON (AP) — President Donald Trump keeps saying that Republicans’ mega tax and spending cut legislation will eliminate taxes on federal Social Security benefits. It does [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/02/trump-keeps-saying-the-gop-mega-bill-will-eliminate-taxes-on-social-security-it-does-not/">Trump Keeps Saying the GOP Mega Bill will Eliminate Taxes on Social Security. It Does Not</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/02/trump-keeps-saying-the-gop-mega-bill-will-eliminate-taxes-on-social-security-it-does-not/>
+
+---
+
+## Resources for Reporting ICE Activity and Locating Those Detained
+
+date: 2025-07-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="867" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/1-scaled-e1751515802930.png?fit=1024%2C867&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/1-scaled-e1751515802930.png?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/1-scaled-e1751515802930.png?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/1-scaled-e1751515802930.png?fit=1024%2C867&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/1-scaled-e1751515802930.png?fit=1024%2C867&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>For the past month, with no end in sight, under the orders and presidential authority of Donald Trump, masked Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP) [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/02/resources-for-reporting-ice-activity-and-locating-those-detained/">Resources for Reporting ICE Activity and Locating Those Detained</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/02/resources-for-reporting-ice-activity-and-locating-those-detained/>
+
+---
+
+## Grocery workers reach deal, averting strike at Vons, Ralphs and other stores
+
+date: 2025-07-02, from: Long Beach Post
+
+<figure><img width="1024" height="713" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-1024x713.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-1024x713.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-300x209.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-768x535.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-155x108.jpg 155w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-400x279.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>No specific details of the proposed agreement were released, although union officials said it includes higher wages, additional pension contributions and improvements in health, welfare and staffing. </p>
+<p>The post <a href="https://lbpost.com/news/grocery-workers-strike-union-contract">Grocery workers reach deal, averting strike at Vons, Ralphs and other stores</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/grocery-workers-strike-union-contract>
+
+---
+
+## Police arrest man on suspicion of raping woman early Tuesday
+
+date: 2025-07-02, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police said they arrested a 29-year-old man on suspicion of knocking a woman unconscious, then raping her near Downtown Long Beach. The incident happened shortly after 2:35 a.m. Tuesday near the intersection of Alamitos Avenue and Fourth Street, according to Long Beach police. A woman was walking in the area when a man approached her, [&#8230;]</p>
+<p>The post <a href="https://lbpost.com/news/police-arrest-man-on-suspicion-of-raping-woman-early-tuesday">Police arrest man on suspicion of raping woman early Tuesday</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/police-arrest-man-on-suspicion-of-raping-woman-early-tuesday>
 
 ---
 
@@ -27,7 +205,7 @@ date: 2025-07-02, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-07-02, from: Long Beach Post
 
-<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1024x682.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1024x682.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp.jpg 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1024x682.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1024x682.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp.jpg 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>California districts have not received Congressionally appropriated money for after school programs, academic enrichment, English-learner services, teacher professional development and migrant education.</p>
 <p>The post <a href="https://lbpost.com/news/california-schools-trump-administration-withholds-funds">California schools are scrambling as Trump administration withholds almost $811 million</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

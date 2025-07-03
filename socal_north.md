@@ -1,11 +1,125 @@
 ---
 title: socal north
-updated: 2025-07-02 14:07:12
+updated: 2025-07-03 06:08:19
 ---
 
 # socal north
 
-(date: 2025-07-02 14:07:12)
+(date: 2025-07-03 06:08:19)
+
+---
+
+## America has a major birthday coming up — here's what to expect for the big 2-5-0
+
+date: 2025-07-03, updated: 2025-07-03, from: The LAist
+
+It's the nation's semiquincentennial! July 4, 2026, is the 250th anniversary of the signing of the Declaration of Independence. Here's how the United States of America is planning to party. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/america-has-a-major-birthday-coming-up-heres-what-to-expect>
+
+---
+
+## Six months after the fires, are LA beaches safe?
+
+date: 2025-07-03, updated: 2025-07-03, from: The LAist
+
+A nonprofit has run tests on sand and water samples and reports that risks to human health appear to be low. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-beaches-water-quality-safe-six-months-after-fires>
+
+---
+
+## Would property owners agree to pay more to improve LA's street lights?
+
+date: 2025-07-03, updated: 2025-07-03, from: The LAist
+
+A unique ballot process that’s expected to take place this fall is an attempt to “right-size operations to match the needs today,” the head of the city’s streetlights bureau said. 
+
+<br> 
+
+<https://laist.com/news/transportation/street-light-repair-plan>
+
+---
+
+## Federal immigration arrests in SoCal are violating constitutional rights, new lawsuit argues
+
+date: 2025-07-02, updated: 2025-07-02, from: The LAist
+
+Civil rights groups allege feds have targeted people based on skin color and blocked detainees from seeing lawyers. Officials say actions have been lawful and “highly targeted.” 
+
+<br> 
+
+<https://laist.com/news/politics/los-angeles-federal-immigration-ice-raids-lawsuit-constitutional-rights-dentention>
+
+---
+
+## Republican Megabill will mean higher health costs for many Americans
+
+date: 2025-07-02, updated: 2025-07-02, from: The LAist
+
+Spending cuts hitting medical providers, Medicaid and Affordable Care Act enrollees, and lawfully present immigrants are just some of the biggest changes the GOP has in store for health care — with ramifications that could touch all Americans. 
+
+<br> 
+
+<https://laist.com/news/health/republican-megabill-will-mean-higher-health-costs-for-many-americans>
+
+---
+
+## Whether you're driving or flying, here are travel tips for the Fourth of July weekend
+
+date: 2025-07-02, updated: 2025-07-02, from: The LAist
+
+The AAA anticipates that a record 72.2 million people will travel this holiday weekend. Here's how to prepare if you're one of them. 
+
+<br> 
+
+<https://laist.com/news/travel-tips-july-4th-weekend>
+
+---
+
+## Grocery workers reach deal, averting strike at Vons, Ralphs and other stores
+
+date: 2025-07-02, from: Longbeach Post
+
+<figure><img width="1024" height="713" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-1024x713.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-1024x713.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-300x209.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-768x535.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-155x108.jpg 155w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-400x279.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>No specific details of the proposed agreement were released, although union officials said it includes higher wages, additional pension contributions and improvements in health, welfare and staffing. </p>
+<p>The post <a href="https://lbpost.com/news/grocery-workers-strike-union-contract">Grocery workers reach deal, averting strike at Vons, Ralphs and other stores</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/grocery-workers-strike-union-contract>
+
+---
+
+## Police arrest man on suspicion of raping woman early Tuesday
+
+date: 2025-07-02, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police said they arrested a 29-year-old man on suspicion of knocking a woman unconscious, then raping her near Downtown Long Beach. The incident happened shortly after 2:35 a.m. Tuesday near the intersection of Alamitos Avenue and Fourth Street, according to Long Beach police. A woman was walking in the area when a man approached her, [&#8230;]</p>
+<p>The post <a href="https://lbpost.com/news/police-arrest-man-on-suspicion-of-raping-woman-early-tuesday">Police arrest man on suspicion of raping woman early Tuesday</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/police-arrest-man-on-suspicion-of-raping-woman-early-tuesday>
+
+---
+
+## What more can local newsrooms do for civic education? Lessons from LAist's 2024 ballot workshops
+
+date: 2025-07-02, updated: 2025-07-02, from: The LAist
+
+Participants told us they were more prepared to vote in local races and more likely to vote after these workshops. The wheels in our heads have been turning ever since. 
+
+<br> 
+
+<https://laist.com/news/politics/what-more-can-local-newsrooms-do-for-civic-education-lessons-from-laists-2024-ballot-workshops>
 
 ---
 
@@ -73,7 +187,7 @@ Congress already approved the education funding, which pays for migrant educatio
 
 date: 2025-07-02, from: Longbeach Post
 
-<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1024x682.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1024x682.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp.jpg 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1024x682.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1024x682.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/02112800/cal1-927108-ln2rbgzf-404411-GXhldjrp.jpg 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>California districts have not received Congressionally appropriated money for after school programs, academic enrichment, English-learner services, teacher professional development and migrant education.</p>
 <p>The post <a href="https://lbpost.com/news/california-schools-trump-administration-withholds-funds">California schools are scrambling as Trump administration withholds almost $811 million</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

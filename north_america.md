@@ -1,19 +1,83 @@
 ---
 title: north america
-updated: 2025-07-02 14:07:12
+updated: 2025-07-03 06:08:18
 ---
 
 # north america
 
-(date: 2025-07-02 14:07:12)
+(date: 2025-07-03 06:08:18)
 
 ---
 
-## Jen Rubin with Rep Jamie Raskin
+## Check out the Declaration’s list of grievances
+
+date: 2025-07-03, from: The Contrarian
+
+It&#8217;s time to recapture our freedoms. 
+
+<br> 
+
+<https://contrarian.substack.com/p/check-out-the-declarations-list-of>
+
+---
+
+## Evening Roundup, July 2
 
 date: 2025-07-02, from: The Contrarian
 
-A recording from Jennifer Rubin's live video 
+Featuring Jen Rubin and Neera Tanden, Jen and Ezra Levin, Eliza Orlins, Shalise Manza Young, Norman Ornstein, Josh Levs, Jennifer Weiss-Wolf and Jennifer Klein, Michael de Adder, and Julie Sweetland 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-2>
+
+---
+
+## How they vote tells you everything: Ezra Levin on the destructive results of the Reconciliation Bill 
+
+date: 2025-07-02, from: The Contrarian
+
+"They know that the more people learn about this, including Republicans, the more they oppose it." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167381832/007870ba003da3c66fbc86c94eddba67.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167381832/007870ba003da3c66fbc86c94eddba67.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/how-they-vote-tells-you-everything>
+
+---
+
+## Eliza Orlins explains the Diddy verdict
+
+date: 2025-07-02, from: The Contrarian
+
+Sean &#8220;Diddy&#8221; Combs was just acquitted of the most serious charges against him&#8212;sex trafficking and racketeering. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167389903/60862e163f9a2ca42b21dc6308c5db7b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167389903/60862e163f9a2ca42b21dc6308c5db7b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/eliza-orlins-explains-the-diddy-verdict>
+
+---
+
+## Imagine a Black woman head coach in the NBA. In this time.
+
+date: 2025-07-02, from: The Contrarian
+
+Dawn Staley&#8217;s resume demonstrates that she's capable. Trump would have had a meltdown. 
+
+<br> 
+
+<https://contrarian.substack.com/p/imagine-a-black-woman-head-coach>
+
+---
+
+## Jen Rubin & Rep. Jamie Raskin on the Reconciliation Bill's passage through the Senate 
+
+date: 2025-07-02, from: The Contrarian
+
+A recording from Jennifer Rubin's live video with Rep. Raskin 
 
 <audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167384020/89c04ae6cb06a351cba4e7fada5e4e8b.mp3"></source>

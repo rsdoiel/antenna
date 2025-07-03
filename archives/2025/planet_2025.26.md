@@ -1,11 +1,504 @@
 ---
 title: planet
-updated: 2025-07-02 14:07:10
+updated: 2025-07-03 06:08:17
 ---
 
 # planet
 
-(date: 2025-07-02 14:07:10)
+(date: 2025-07-03 06:08:17)
+
+---
+
+## 223% rise in those leaving by voluntary return - minister
+
+date: 2025-07-03, from: RTÉ News
+
+The number of people who have left Ireland by voluntary return this year has increased by 223% compared to last year, according to Minister of State with special responsibility for migration. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0703/1521665-voluntary-return-programme/>
+
+---
+
+## Archbishop Caccia: ‘Development should serve the well-being of all’
+
+date: 2025-07-03, from: Vatican News
+
+
+                    <p>The Holy See’s Permanent Observer to the United Nations, Archbishop Gabriele Caccia, speaks at the Conference on Financial Development in Seville, Spain, emphasizing the importance of fostering development on those most in need while upholding the dignity of every human being. </p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/holy-see-spain-seville-un-conference-caccia-development.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/holy-see-spain-seville-un-conference-caccia-development.html>
+
+---
+
+## The Sevilla Commitment: A vital step to rebuild trust in global cooperation
+
+date: 2025-07-03, from: United Nations, Economic Development
+
+Civil society organisations have welcomed the consensus reached at the landmark sustainable development conference concluding this Thursday in Sevilla, while cautioning that real progress will depend on sustained action. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165276>
+
+---
+
+## Defence Forces monitor Russian vessel off Irish coast
+
+date: 2025-07-03, from: RTÉ News
+
+The Irish Defence Forces monitored a Russian cargo ship off the Irish coast yesterday. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0703/1521670-russian-vessel-ireland/>
+
+---
+
+## BBC rethink on 'high-risk' performances after Bob Vylan
+
+date: 2025-07-03, from: RTÉ News
+
+The BBC has said it will no longer live broadcast performances deemed "high risk" after controversy over punk rap duo Bob Vylan's appearance at Glastonbury last Saturday. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0703/1521667-bbc-rethink-on-high-risk-performances-after-bob-vylan/>
+
+---
+
+## Ukrainian and Vatican summer camp children receive visit by Pope Leo
+
+date: 2025-07-03, from: Vatican News
+
+
+                    <p>Pope Leo XIV meets with over 600 children in the Paul VI Hall, including participants from the Vatican’s summer camp and Ukrainian children hosted by Caritas Italiana. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-children-summer-camp-vatican-ukraine.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-children-summer-camp-vatican-ukraine.html>
+
+---
+
+## Over 80k Ukrainians who fled war remain in Ireland - CSO
+
+date: 2025-07-03, from: RTÉ News
+
+More than 80,000 people who fled the war in Ukraine and travelled to Ireland were still here as of 3 June, according to data from the Central Statistics Office. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0703/1521659-cso-ukraine/>
+
+---
+
+## Pope Leo XIV receives President of the Republic of Poland 
+
+date: 2025-07-03, from: Vatican News
+
+
+                    <p>Pope Leo XIV receives in private audience President Andrzej Duda, of Poland. One topic to which particular attention was given is the ongoing war in Ukraine.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-audience-president-duda-poland-ukraine-war-diplomacy.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-audience-president-duda-poland-ukraine-war-diplomacy.html>
+
+---
+
+## Legal advice on report must be respected, CHI says
+
+date: 2025-07-03, from: RTÉ News
+
+Children's Health Ireland said it has not been evasive in relation to the publication of its internal audit which looked at a number of issues, including culture and the use of waiting list funds. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0703/1521621-legal-advice-on-report-must-be-respected-chi-says/>
+
+---
+
+## Jamie Bryson, two others cleared in NAMA misconduct trial
+
+date: 2025-07-03, from: RTÉ News
+
+Three men have been cleared at Belfast Crown Court of charges relating to misconduct in public office. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0703/1521654-nama-bryson-stormont/>
+
+---
+
+## Ashling Murphy's boyfriend settles BBC defamation case
+
+date: 2025-07-03, from: RTÉ News
+
+The partner of murdered school teacher Ashling Murphy has settled his High Court claim for defamation against the BBC. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0703/1521615-bbc-ryan-casey/>
+
+---
+
+## Klopp 'heartbroken' over death of 'great friend' Jota
+
+date: 2025-07-03, from: RTÉ News
+
+Tributes are being paid by clubs, countries and footballers around the world to Liverpool forward Diogo Jota, who has died in a car crash in Spain - follow live updates here. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0703/1521630-tributes-paid-to-liverpools-diogo-jota/>
+
+---
+
+## Liverpool star Diogo Jota dies in car crash
+
+date: 2025-07-03, from: RTÉ News
+
+Liverpool star Diogo Jota has died in a car crash near Zamora, in northwestern Spain, aged 28. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0703/1521624-liverpool-star-diogo-jota-dies-in-car-crash/>
+
+---
+
+## Four men charged over €31m cocaine seizure in Co Cork
+
+date: 2025-07-03, from: RTÉ News
+
+Four men have appeared before Bandon District Court charged in connection with Tuesday's €31 million cocaine seizure. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0703/1521616-cork-drug-seizure/>
+
+---
+
+## Hundreds evacuated as Greece wildfire rages on Crete
+
+date: 2025-07-03, from: RTÉ News
+
+Officials said a wildfire fanned by gale force winds on the southern Greek island of Crete has forced the evacuation of locals and tourists. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0703/1521613-crete-wildfire/>
+
+---
+
+## Amnesty report says militarized Gaza aid system shows continued use of starvation as weapon of war
+
+date: 2025-07-03, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7575985.1751543197!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg' alt='Palestinians carry bags containing food and humanitarian aid packages.' width='620' height='349' title='Palestinians carry bags containing food and humanitarian aid packages delivered by the Gaza Humanitarian Foundation, a U.S.-backed organization, in Rafah, southern Gaza Strip, Monday, June 16, 2025. (AP Photo/Abdel Kareem Hana)'/><p>A new Amnesty International report says the Gaza Humanitarian Foundation — a controversial U.S.- and Israel-backed group that took over aid distribution in Gaza more than a month ago —  uses a militarized aid mechanism to allow for starvation of civilians to inflict genocide against Palestinians.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/amnesty-report-gaza-starvation-airstrikes-shootings-1.7575953?cmp=rss>
+
+---
+
+## Gaza rescuers say 12 killed in Israeli strike on shelter
+
+date: 2025-07-03, from: RTÉ News
+
+Gaza's civil defence agency has said an Israeli air strike has hit a school sheltering displaced people, killing at least 12, mostly women and children. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0703/1521609-israel-gaza/>
+
+---
+
+## Study finds inducements lead to gamblers spending more
+
+date: 2025-07-03, from: RTÉ News
+
+A new study has found that gambling companies encourage people to gamble more than they would otherwise through special offers and inducements. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0703/1521603-study-gambling-inducements/>
+
+---
+
+## 16 Dublin flights cancelled due to French ATC strike
+
+date: 2025-07-03, from: RTÉ News
+
+A total of 16 flights between Dublin Airport and Paris, Biarritz, Nice and Murcia in Spain have been cancelled due to a nationwide air traffic controller strike in France today and tomorrow. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0703/1521604-ryanair-on-french-atc-strikes/>
+
+---
+
+## Ireland debuts for O'Brien and Murray against Georgia
+
+date: 2025-07-03, from: RTÉ News
+
+Tommy O'Brien and Darragh Murray will make their Ireland debuts in Saturday's Test against Georgia in Tbilisi, with Craig Casey set to captain the side for the first time. 
+
+<br> 
+
+<https://www.rte.ie/sport/rugby/2025/0703/1521600-casey-to-lead-ireland-into-battle-against-georgia/>
+
+---
+
+## 600 families to be moved from IPAS centres, dept says
+
+date: 2025-07-03, from: RTÉ News
+
+The Department of Justice has confirmed that 600 families with status to remain in Ireland will be moved from IPAS accommodation centres across the country in the coming months. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0703/1521584-ipas-relocations/>
+
+---
+
+## Sean 'Diddy' Combs to remain in jail for now
+
+date: 2025-07-03, from: RTÉ News
+
+A judge has ruled that Sean 'Diddy' Combs will remain in jail for now, after the music mogul was cleared of sex trafficking and racketeering charges that could have put him behind bars for life, but was found guilty of lesser prostitution-related offences. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0703/1521595-sean-diddy-combs-court/>
+
+---
+
+## Candidates mooted as presidential election nears
+
+date: 2025-07-03, from: RTÉ News
+
+Those with very long political memories around Leinster House were yesterday recalling the return of Charles Haughey from his trip to Japan in 1989. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0703/1521567-ireland-presidency/>
+
+---
+
+## New 'likely scam' tag for texts comes into effect
+
+date: 2025-07-03, from: RTÉ News
+
+A new 'likely scam' label will from today be added to text messages which mobile phone users receive from companies or organisations that have not yet registered with the Commission for Communications Regulation, in a bid to protect mobile users from falling victim to scams. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0703/1521541-text-scams/>
+
+---
+
+## Community 'raw with grief' as girl dies in Donegal crash
+
+date: 2025-07-03, from: RTÉ News
+
+A community in Co Donegal is said to be "raw with grief" after a seven-year-old girl died and three other people, including a two-year-old girl, were seriously injured in a road crash yesterday evening. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0703/1521580-donegal-rtc/>
+
+---
+
+## Women in Ireland 'still not safe', say Plunkett sisters
+
+date: 2025-07-03, from: RTÉ News
+
+The sisters of Dublin woman Elizabeth Plunkett believe women in Ireland are "still not safe" almost 50 years after her murder. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0703/1521359-plunkett-sisters/>
+
+---
+
+## CEA says it disqualified 22 company directors last year
+
+date: 2025-07-03, from: RTÉ News
+
+The Corporate Enforcement Authority (CEA) has said it secured the restriction of 98 company directors and the disqualification of a further 22 company directors last year. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0703/1521589-cea-company-directors/>
+
+---
+
+## Five dead, 29 missing after Indonesian ferry sinks
+
+date: 2025-07-03, from: RTÉ News
+
+At least five people have died and dozens are unaccounted for after a ferry sank in rough seas on its way to Indonesian resort island Bali, according to rescue authorities, who said 31 people were rescued from the water. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0703/1521588-indonesia-ferry/>
+
+---
+
+## Standoff between Tibet, China could could lead to two rival Dalai Lamas
+
+date: 2025-07-03, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/efb10600-12e9-4cf9-b245-1edabe08bd8d,1751490722784/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Two attendant monks help Tibetan spiritual leader the Dalai Lama exit an event celebrating his 90th birthday.' width='620' height='349' title='Attendant monks help Tibetan spiritual leader the Dalai Lama to leave after presiding over an event celebrating his 90th birthday according to a Tibetan calendar at the Tsuglakhang temple in Dharamshala, India, Monday, June 30, 2025, ahead of his birthday according to the Gregorian calendar on July 6.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/dalai-lama-1.7575322?cmp=rss>
+
+---
+
+## Taoiseach attends Expo 25 following talks with Japan PM
+
+date: 2025-07-03, from: RTÉ News
+
+Taoiseach Micheál Martin is attending Expo 25 in Osaka, Japan - a global exhibition of cutting-edge technology and industry which is expected to attract 28 million visitors over six months. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0703/1521587-taoiseach-japan/>
+
+---
+
+## Cost of settling motor insurance claims increased 23%
+
+date: 2025-07-03, from: RTÉ News
+
+There was a 23% increase in the cost of settling motor insurance claims during the first half of last year compared to the second half of 2023, according to latest figures from the Central Bank's National Claims Information Database. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0703/1521583-motor-claims/>
+
+---
+
+## Several people missing after fire, explosion level California fireworks facility
+
+date: 2025-07-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7575933.1751512520!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-california-fireworks-fire.JPG' alt='Clouds of smoke rise in the distance from the ground. ' width='620' height='349' title='Clouds of smoke rise following explosions at a firework storage warehouse in Esparto, California, United States, July 1, 2025 in this screengrab taken from a social media video. Hudson Sheats/via REUTERS  '/><p>Seven people were missing after a fire and powerful explosion levelled a commercial fireworks facility in a rural northern California town west of Sacramento, authorities said on Wednesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/california-fireworks-facility-explosion-1.7575931?cmp=rss>
+
+---
+
+## Crucial areas for conserving Irish seabirds identified
+
+date: 2025-07-02, from: RTÉ News
+
+A map identifying the 73 most important areas for Ireland's seabirds is being launched by BirdWatch Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/environment/2025/0703/1521559-map-birdwatch-ireland/>
+
+---
+
+## Ireland and Wales agree new co-operation programme
+
+date: 2025-07-02, from: RTÉ News
+
+A new programme of co-operation between Ireland and Wales, running to 2030, has been signed by Tánaiste Simon Harris and Welsh First Minister Eluned Morgan at the Ireland-Wales Forum in Liverpool. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0703/1521575-tanaiste-wales-meeting/>
+
+---
+
+## Further closures if VAT not reduced for hospitality - RAI
+
+date: 2025-07-02, from: RTÉ News
+
+The Restaurants Association of Ireland is warning of further closures and job losses if the VAT rate for food-led hospitality businesses is not reduced. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0703/1521565-vat-restaurants/>
+
+---
+
+## Jan. 6 rioter pardoned by Trump gets life in prison for plot on FBI
+
+date: 2025-07-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7436799.1737421014!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/u-s-president-donald-trump-holds-up-order-he-signed-pardoning-certain-jan-6-defendants.JPG' alt='U.S. President Donald Trump holds up an order he signed to pardon certain Jan. 6 defendants.' width='620' height='349' title='U.S. President Donald Trump signs pardons for January 6 defendants in the Oval Office at the White House on Inauguration Day in Washington, U.S., January 20, 2025. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/jan-6-veteran-sentenced-trump-pardon-1.7575687?cmp=rss>
+
+---
+
+## Trump’s Big Beautiful Bill nears approval
+
+date: 2025-07-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/7b742529-cf96-440d-bd65-aa9f80204bc3,1751506437229/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A man in a hat speaks at a microphone.' width='620' height='349' title='US President President Donald Trump speaks during a roundtable discussion as he visits a migrant detention center, dubbed &quot;Alligator Alcatraz,&quot; located at the site of the Dade-Collier Training and Transition Airport in Ochopee, Florida, on July 1, 2025. '/><p>The U.S. Congress inched towards approving Donald Trump’s Big Beautiful Bill, despite attempts by Democrats to stop it. The bill is the president's signature legislation, which includes massive spending increases on the military and immigration enforcement while slashing social programs.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6818661?cmp=rss>
+
+---
+
+## Energy operators propose investment of up to €18.98bn
+
+date: 2025-07-02, from: RTÉ News
+
+The operators of Ireland's energy system, ESB Networks and Eirgrid, have proposed an investment of up to €18.98 billion over the next five years to maintain and upgrade their networks to meet current and future demand. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0702/1521576-energy-investment/>
+
+---
+
+## As France swelters, residents and tourists look for relief — including in caves
+
+date: 2025-07-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/1749f06a-751f-4b6c-8f65-3037d45a30bc,1751494356398/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='People walk through a dark, cool cave in order to avoid the heat outside.' width='620' height='349' title=''/><p>A heat wave continued to grip parts of France on Wednesday. In Paris, where temperatures were expected to reach 33 C, one restaurant revamped its menu to feature more cold dishes. Meanwhile, others sought cool relief in the caves of Isere.
+</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6818424?cmp=rss>
+
+---
+
+## Astronomers may have discovered 3rd-known interstellar visitor
+
+date: 2025-07-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7575608.1751486362!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/a11pl3z-interstellar-object.jpg' alt='A black image with some elongated dots and one circular object at the centre in red crosshairs.' width='620' height='349' title='Dan Rankin, an engineer at the Catalina Sky Survey, captured A11pl3Z from his home observatory in southern Arizona.'/><p>It appears our solar system is getting more popular with out-of-towners. Astronomers have found a third interstellar object, something that has origins beyond our own solar system. The object, dubbed A11pl3Z, is not believed to pose any danger to Earth.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/a11pl3z-discovery-interstellar-object-1.7575576?cmp=rss>
 
 ---
 
@@ -45,6 +538,18 @@ The FAI will be asked again to appear before an Oireachtas Committee to answer c
 
 ---
 
+## Microsoft says it is cutting thousands of jobs in second round of layoffs in recent months
+
+date: 2025-07-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7572346.1750988776!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/microsoft-logo-on-company-s-offices-near-paris.JPG' alt='A view shows a Microsoft logo at Microsoft offices in Issy-les-Moulineaux near Paris.' width='620' height='349' title='A view shows a Microsoft logo at Microsoft offices in Issy-les-Moulineaux near Paris, France, March 21, 2025. '/><p>Microsoft says it is cutting thousands of jobs in its second round of mass layoffs in recent months. While it is unclear whether or not any Canadian jobs will be lost, the union representing 120 gaming industry workers employed by Microsoft in Quebec says it's likely the cuts will mostly impact U.S. workers.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/business/microsoft-layoffs-1.7575145?cmp=rss>
+
+---
+
 ## Podcast: Student fee uncertainty and Westminster tears
 
 date: 2025-07-02, from: RTÉ News
@@ -78,6 +583,18 @@ After a trial lasting around seven weeks, Sean 'Diddy' Combs has been found guil
 <br> 
 
 <https://www.rte.ie/news/us/2025/0702/1521533-combs-trial-explainer/>
+
+---
+
+## U.S. delays cutoff of valuable satellite data for hurricane forecasting
+
+date: 2025-07-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7569731.1750792296!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/tropical-storm-andrea-hurricane.jpg' alt='A satellite image shows storm clouds over the North Atlantic' width='620' height='349' title='This satellite image provided by the National Oceanic and Atmospheric Administration (NOAA) shows Tropical Storm Andrea on June 24, 2025.'/><p>The U.S. National Oceanic and Atmospheric Administration said Monday it is delaying by one month the planned cutoff of satellite data that helps forecasters track hurricanes. Environment and Climate Change Canada does not expect the suspension to impact the quality of its forecasts.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/u-s-delays-cutoff-of-valuable-satellite-data-for-hurricane-forecasting-1.7575604?cmp=rss>
 
 ---
 
@@ -197,6 +714,18 @@ Microsoft is to cut around 9,000 jobs worldwide in the latest round of staff cut
 
 ---
 
+## Microsoft to lay off nearly 4% of global workforce
+
+date: 2025-07-02, from: RTÉ News
+
+Microsoft is to cut around 9,000 jobs worldwide in the latest round of staff cuts as the US technology company looks to reduce costs. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0702/1521510-microsoft-workforce/>
+
+---
+
 ## The Kanien'kehá:ka say a vast swath of Montreal's South Shore is theirs. They want their claim settled
 
 date: 2025-07-02, from: CBC, Indigenious News
@@ -206,18 +735,6 @@ date: 2025-07-02, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/news/canada/montreal/kahnawake-sssl-land-grievance-1.7574544?cmp=rss>
-
----
-
-## The Dalai Lama has shared plans for his succession. China has other ideas
-
-date: 2025-07-02, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7575410.1751478061!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2222424102.jpg' alt='Two hands hold a smartphone horizontally. The phone displays an image of the Dalai Lama reading off two pieces of paper. Chyrons on the screen say, &quot;OHHDL&quot; and &quot;TTV&quot; ' width='620' height='349' title='A Tibetan resident watches a video broadcast of Tibetan spiritual leader the Dalai Lama, on her phone in Delhi on Wednesday. The exiled leader said at the start of the 15th Tibetan Religious Conference that the 600-year-old institution will continue after his death, a decision that will have profound impact on his Buddhist followers.'/><p>As the Dalai Lama's 90th birthday approaches, a standoff between the Tibetan spiritual leader and the Chinese government has some experts warning of a future where two purported Dalai Lamas each stake claim to the title.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/dalai-lama-1.7575322?cmp=rss>
 
 ---
 
@@ -345,18 +862,6 @@ date: 2025-07-02, from: Vatican News
 
 ---
 
-## Director of north Gaza hospital killed alongside his family in Israeli strike on apartment
-
-date: 2025-07-02, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7575232.1751468972!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza-doctor.JPG' alt='Palestinians react over bodies as they mourn doctor killed.' width='620' height='349' title='Palestinians react over bodies as they mourn doctor Marwan al-Sultan, director of the Indonesian Hospital in northern Gaza Strip, his wife, his daughter and and his sister, who were killed in an Israeli strike on Wednesday, according to Gaza’s health ministry, at Al-Shifa hospital in Gaza City, July 2, 2025. REUTERS/Mahmoud Issa'/><p>The director of one of north Gaza's largest hospitals was killed, along with his wife, daughter and sister, in an Israeli strike on their apartment, medical officials said Wednesday.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/hospital-director-north-gaza-israeli-strike-1.7575148?cmp=rss>
-
----
-
 ## Heatwave across Europe leaves eight people dead
 
 date: 2025-07-02, from: RTÉ News
@@ -371,7 +876,7 @@ Four people have died in Spain, two in France and two in Italy as an early summe
 
 ## Space is not the final frontier – it is the foundation of our future: UN deputy chief
 
-date: 2025-07-02, from: United Nations, Top Stories
+date: 2025-07-02, from: United Nations, Economic Development
 
 Space technologies are no longer a distant frontier but a critical foundation for daily life and global development, the UN Deputy Secretary-General said on Wednesday. 
 
@@ -383,7 +888,7 @@ Space technologies are no longer a distant frontier but a critical foundation fo
 
 ## INTERVIEW: Sevilla ‘a critical test’ of multilateralism
 
-date: 2025-07-02, from: United Nations, Top Stories
+date: 2025-07-02, from: United Nations, Economic Development
 
 Nations taking part in a flagship UN conference have pledged to address the debt crisis in the Global South and boost sustainable development. However, the real test will be whether or not these commitments will be translated into action. 
 
@@ -395,7 +900,7 @@ Nations taking part in a flagship UN conference have pledged to address the debt
 
 ## Sevilla: Without sustainable development, there is neither hope nor security
 
-date: 2025-07-02, from: United Nations, Top Stories
+date: 2025-07-02, from: United Nations, Economic Development
 
 A senior UN official has told UN News that the global development challenge is not lack of money, but how to align public and private capital flows. The Sevilla Agreement adopted this week, sets out a roadmap for all UN Member States — except the US which pulled out earlier this month — with the aim of mobilizing that capital. 
 
@@ -407,7 +912,7 @@ A senior UN official has told UN News that the global development challenge is n
 
 ## Drowning in debt: New forum in Sevilla offers borrowers chance to rebalance the books
 
-date: 2025-07-02, from: United Nations, Top Stories
+date: 2025-07-02, from: United Nations, Economic Development
 
 A new mechanism offering debt-distressed countries a way to coordinate action and amplify their voice in the global financial system, has been launched at the UN’s pivotal sustainable development conference in Sevilla.&nbsp; 
 
@@ -438,6 +943,18 @@ More than 1.3 million people have been displaced in Haiti as surging gang violen
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/07/1165246>
+
+---
+
+## Gaza: Access to key water facility in Khan Younis disrupted, UN reports
+
+date: 2025-07-02, from: United Nations, Top Stories
+
+A key water reservoir serving Khan Younis in southern Gaza has become inaccessible following new Israeli displacement orders, sparking fears of a collapse in the city’s water distribution network and worsening already dire humanitarian conditions, the United Nations warned on Wednesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165266>
 
 ---
 
@@ -538,6 +1055,18 @@ Sean 'Diddy' Combs has been found guilty of prostitution-related offences but cl
 <br> 
 
 <https://www.rte.ie/news/us/2025/0702/1521447-combs-trial/>
+
+---
+
+## Combs denied bail after prostitution offences conviction
+
+date: 2025-07-02, from: RTÉ News
+
+Sean 'Diddy' Combs has been found guilty of prostitution-related offences but cleared of more serious charges, in a blow to prosecutors who had urged a jury to find him guilty of racketeering conspiracy and sex trafficking. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0702/1521447-sean-combs-us-court/>
 
 ---
 
@@ -1401,7 +1930,7 @@ Conflicts in the Middle East and North Africa in the last two years reportedly k
 
 ## ‘The margins of the budget’: Gender equality in developing countries underfunded by $420 billion annually
 
-date: 2025-07-01, from: United Nations, Top Stories
+date: 2025-07-01, from: United Nations, Economic Development
 
 Developing countries currently face a staggering $420 billion annual gap in the funding needed to achieve gender equality, UN Women estimates. This gap means that programmes and services for women and girls are chronically underfunded.&nbsp;&nbsp; 
 
@@ -1425,7 +1954,7 @@ The Convention on International Trade in Endangered Species of Wild Fauna and Fl
 
 ## Spain and Brazil push global action to tax the super-rich and curb inequality
 
-date: 2025-07-01, from: United Nations, Top Stories
+date: 2025-07-01, from: United Nations, Economic Development
 
 Spain and Brazil have launched a joint initiative to promote higher tax contributions from the super-rich worldwide, aimed at tackling soaring inequality by ensuring those with the most pay their fair share. 
 
@@ -2243,7 +2772,7 @@ date: 2025-06-30, from: CBC, Indigenious News
 
 ## It’s time to finance our future and ‘change course’, Guterres tells world leaders in Sevilla
 
-date: 2025-06-30, from: United Nations, Top Stories
+date: 2025-06-30, from: United Nations, Economic Development
 
 “We’re here in Sevilla to change course,” the UN chief told world leaders on Monday, calling on them to grasp a once-in-a-decade opportunity to close a $4 trillion financing gap facing developing countries to meet sustainable development goals – and build a better world for all. 
 
@@ -2267,7 +2796,7 @@ Critical shortfalls in global humanitarian funding now threaten millions of Suda
 
 ## LIVE: World leaders in Sevilla launch ambitious push to finance the future
 
-date: 2025-06-30, from: United Nations, Top Stories
+date: 2025-06-30, from: United Nations, Economic Development
 
 From rising debt and shrinking investment, to the aid funding crisis and struggles to meet ambitious development goals, the global financial system is failing the people it's supposed to serve: fixing that is the challenge facing world leaders gathered in Spain's sweltering southern jewel of Sevilla this week, as the UN's 4th International Conference on Financing for Development gets underway. Follow our live Meetings Coverage below; app users can catch all the action from the opening session here and you'll find all related stories on our special dedicated page right here. 
 
@@ -2351,7 +2880,7 @@ One in six people are affected by loneliness, with significant implications for 
 
 ## After the big development pledges in Sevilla, UN says action starts now
 
-date: 2025-06-30, from: United Nations, Top Stories
+date: 2025-06-30, from: United Nations, Economic Development
 
 Now the big promises have been formally adopted in the Spanish city of Sevilla to turbocharge financing for sustainable development, how are the ambitious goals going to be met – and how quickly? 
 

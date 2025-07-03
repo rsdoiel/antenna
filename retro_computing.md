@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-07-02 14:07:17
+updated: 2025-07-03 06:08:27
 ---
 
 # retro computing
 
-(date: 2025-07-02 14:07:17)
+(date: 2025-07-03 06:08:27)
+
+---
+
+## WROCC July 2025 meeting - RISCOSbits
+
+date: 2025-07-03, from: Icon Bar, RISC OS News
+
+Wakefield's July speaker was Andy Marks, from RISCOSbits, telling us all about ECOS5. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2217.html>
+
+---
+
+## Fedora Continues 32-Bit Support
+
+date: 2025-07-02, from: Linux Magazine
+
+<p>In a move that should come as a relief to some portions of the Linux community, Fedora will continue supporting 32-bit architecture.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Fedora-Continues-32-Bit-Support>
 
 ---
 

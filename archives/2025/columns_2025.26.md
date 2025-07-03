@@ -1,194 +1,41 @@
 ---
 title: columns
-updated: 2025-07-02 14:07:14
+updated: 2025-07-03 06:08:22
 ---
 
 # columns
 
-(date: 2025-07-02 14:07:14)
+(date: 2025-07-03 06:08:22)
 
 ---
 
-##  Architect David Romero has built several digital models of Frank Lloyd Wright&#8217;s... 
+## curl user survey 2025 analysis
 
-date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
+date: 2025-07-03, from: Daniel Stenberg Blog
 
- 
+I&#8217;m pleased to announce that once again I have collected the results, generated the graphs and pondered over conclusions to make after the annual curl user survey. Get the curl user survey 2025 analysis here Take-aways I don&#8217;t think I spoil it too much if I say that there aren&#8217;t too many drastic news in &#8230; <a href="https://daniel.haxx.se/blog/2025/07/03/curl-user-survey-2025-analysis/" class="more-link">Continue reading <span class="screen-reader-text">curl user survey 2025 analysis</span> <span class="meta-nav">&#8594;</span></a> 
 
 <br> 
 
-<https://kottke.org/25/07/0047055-architect-david-romero-ha>
+<https://daniel.haxx.se/blog/2025/07/03/curl-user-survey-2025-analysis/>
 
 ---
 
-##  8 Forgotten Figures From the American Revolution, including Margaret Corbin, Joseph Brant,... 
+## Thursday, 3 July 2025
 
-date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
+date: 2025-07-03, from: Doc Searls (at Harvard), New Old Blog
 
- 
-
-<br> 
-
-<https://kottke.org/25/07/0047060-8-forgotten-figures-from->
-
----
-
-##  On global homogenetic culture. &#8220;GHC is Trader Joe&#8217;s bags outside of the... 
-
-date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
-
- 
+How about borrowing Subweb? I was about to share a Medium post, but just saw it&#39;s &#34;Members only.&#34; So I won&#39;t share it. I&#39;m doing more of that now. Even though I subscribe to Medium, the NYTimes, the LATimes, and the WSJ, I&#39;m avoiding linking to them, unless there&#39;s an easy way to pull the piece [&#8230;] 
 
 <br> 
 
-<https://kottke.org/25/07/0047058-on-global-homogenetic-cul>
-
----
-
-## Claude Sonnet is a small-brained mechanical squirrel of <T>
-
-date: 2025-07-02, from: Geoffrey Hunntley's blog
-
-    
-
-<br> 
-
-<https://ghuntley.com/cars/>
-
----
-
-##  The Kindly Brontosaurus 
-
-date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/25/07/the-kindly-brontosaurus-1>
-
----
-
-## You will own nothing and be happy (Stop Killing Games)
-
-date: 2025-07-02, from: Jeff Geerling blog
-
-<span class="field field--name-title field--type-string field--label-hidden">You will own nothing and be happy (Stop Killing Games)</span>
-
-            <blockquote>
-  <p><strong>tl;dr</strong>: If you're an EU citizen, <a href="https://eci.ec.europa.eu/045/public/#/screen/home">sign the Stop Killing Games initiative here</a>. Or, if you're in the UK, <a href="https://petition.parliament.uk/petitions/702074/">sign this petition</a>.</p>
-</blockquote>
-
-<p>A month ago, I had a <em>second</em> video on self-hosting <a href="https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated">taken down</a>. YouTube said it was 'harmful or dangerous content'. I appealed that, but my appeal was rejected.</p>
-
-<p><em>Luckily</em>, I have enough reach I was able to get a <a href="https://x.com/TeamYouTube/status/1931119648675701161">second chance</a>. Most content creators aren't so lucky, and content about tools like Jellyfin and LibreELEC get buried over time.</p>
-
-<p>But it's not just self-hosting.</p>
-
-<blockquote>
-  <p><strong>Note</strong>: This blog post is a lightly edited transcript of my most recent YouTube video, <a href="https://www.youtube.com/watch?v=rAsgjKBkKMA">You will own NOTHING and be HAPPY (SKG)</a>.</p></blockquote>
-      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
-<span class="field field--name-created field--type-created field--label-hidden">July 2, 2025
-</span>
- 
-
-<br> 
-
-<https://www.jeffgeerling.com/blog/2025/you-will-own-nothing-and-be-happy-stop-killing-games-0>
-
----
-
-## Jason Snell: ‘About That A18 Pro MacBook Rumor’
-
-date: 2025-07-02, updated: 2025-07-02, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://sixcolors.com/post/2025/07/about-that-a16-macbook-rumor/>
-
----
-
-##  Before he died, David Lynch talked to Natasha Lyonne about AI. &#8220;Natasha,... 
-
-date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/25/07/0047057-before-he-died-david-lync>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-07-02, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2023/03/12/hamstercage.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Software internally is mostly pipes connected to other pipes, each adding a specific quality to whatever passes through it. If you have nice standards for what you send through the pipes, you can do more of what you imagine. This is called <a href="https://en.wikipedia.org/wiki/Orthogonality_(programming)">orthogonality</a>. <a href="https://en.wikipedia.org/wiki/Code_refactoring">Factoring</a> is when you notice a repeating pattern, give it a name, and a set of things you can do to it, those would be names of pipes. I have to ask ChatGPT what it thinks about this, but I am also asking my human friends. BTW I expect this seems so natural because our minds probably work that way too, internally, below our conscious awareness. 
-
-<br> 
-
-<http://scripting.com/2025/07/02.html#a152605>
-
----
-
-## 2025-07-02 Cloudflare? No.
-
-date: 2025-07-02, from: Alex Schroeder's Blog
-
-<h1 id="2025-07-02-cloudflare-no">2025-07-02 Cloudflare? No.</h1>
-
-<p><a class="account" href="https://social.tchncs.de/@babelcarp" title="@babelcarp@social.tchncs.de">@babelcarp</a> asked me about Cloudflare. I think their efforts to block bots and other forms of distributed denial of service (DDOS) attacks are commendable and interesting. But at the same time, I don&rsquo;t want to use them.</p>
-
-<p>Whatever tech they are using to identify bots is proprietary. Is it the list of user agents? The behaviour of certain IP numbers or networks? I mean, I try to do the same thing, right? But using their solution costs money and puts me at their mercy. This is problematic even if they give me their protection for free. If I can no longer defend myself, I&rsquo;ll be happy to accept their help. But until then, I&rsquo;m going to look for other ways.</p>
-
-<p>As a society, handing over control over vast swaths of the web to a single US company is problematic, too. Sure, this gives them great power to find bots and analyse their behaviour across a gazillion websites. But when Cloudflare is down, a large part of the public Internet is down, too. If they censor a country, a company, or an individual, everybody using their service automatically partakes in the action.</p>
-
-<p>Those problems remain even if Cloudflare decided to share their blocklists. Everybody would have an auto-update on short notice, like every 15min at least. And therefore, we&rsquo;d all accept their decisions. If the US president decides that Canada or Greenland or Ukraine or Iran or Palestine needs to be blocked, Cloudflare will have to comply. And without human oversight, everybody using their services will be an accomplice.</p>
-
-<p>What I think would be best is more people experimenting and documenting approaches to the problem. We need to find solutions, collectively. <a href="https://anubis.techaro.lol/">Anubis</a> relies on proof-of-work and JavaScript. This is not ideal for the environment and it&rsquo;s not ideal for browsers without JavaScript. <a href="https://iocaine.madhouse-project.org/">Iocaine</a> uses various ways of identifying bots and feeds them auto-generated drivel in order to poison their data sources. <a href="https://zadzmo.org/code/nepenthes/">Nephentes</a> is a similar tarpit. These solutions are also not ideal for the environment. But process is exactly what we need: More people researching ways to keep the web free.</p>
-
-<p>I wish Cloudflare would share their techniques of keeping the web free. But that, of course, is a bad idea under capitalism.</p>
-
-<p>People using Cloudflare need to weigh the costs and benefits. The ease of use and the ubiquity is a boon. You will never walk alone. It might cost money and a little bit of independence, but it keeps the websites up, so the primary goal is achieved.</p>
-
-<p>Luckily, I&rsquo;m not there, yet. I&rsquo;ve had a few days of downtime but my websites are also not very important. So I can keep on experimenting and documenting approaches to keeping the web free.</p>
-
-<p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-07-02-cloudflare>
-
----
-
-##  That Dropped Call With Customer Service? It Was on Purpose. &#8220;Not hiring... 
-
-date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/25/07/0047064-that-dropped-call-with-cu>
-
----
-
-## Wednesday, July 2, 2025
-
-date: 2025-07-02, from: Doc Searls (at Harvard), New Old Blog
-
-And if insurers aren&#39;t buying, hospitals close. Time has a good piece making clear that the socialized part of the U.S. health care system—Medicare and Medicaid—are socialist gravy on a vast B2B insurance business operating inside a captured regulatorium. Patient problems are products bought and sold. Also that it has more than four million views. [&#8230;] 
-
-<br> 
-
-<https://doc.searls.com/2025/07/02/wednesday-july-2-2025/>
+<https://doc.searls.com/2025/07/03/thursday-3-july-2025/>
 
 ---
 
 ## 2025-06-16 Ban autonomous systems
 
-date: 2025-07-02, from: Alex Schroeder's Blog
+date: 2025-07-03, from: Alex Schroeder's Blog
 
 <h1 id="2025-06-16-ban-autonomous-systems">2025-06-16 Ban autonomous systems</h1>
 
@@ -198,7 +45,7 @@ date: 2025-07-02, from: Alex Schroeder's Blog
 
 <p>I want code that bridges this gap.</p>
 
-<p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p>
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23fail2ban">#fail2ban</a></p>
 
 <h2 id="where-to-start">Where to start</h2>
 
@@ -657,6 +504,8 @@ I say five times because <code>maxretry</code> is set to 5 in <code>/etc/fail2ba
 
 <p>Let&rsquo;s see how this goes for a while.</p>
 
+<p><strong>Note</strong>: This doesn&rsquo;t actually work, as I discovered later. See <a href="2025-07-03-fail2ban-some-more">a follow-up post</a> for how to ban repeated offenders.</p>
+
 <p>I&rsquo;m already looking forward to dropping my <code>banlist</code> and <code>banlist6</code> sets I created for <a href="/admin/ban-cidr">ban-cidr</a>.</p>
 
 <h2 id="aftermath-cleaning-up-ban-cidr">Aftermath: cleaning up <code>ban-cidr</code></h2>
@@ -910,6 +759,440 @@ total: 1584
 <br> 
 
 <https://alexschroeder.ch/view/2025-06-16-ban-asn>
+
+---
+
+## 2025-07-03 fail2ban some more
+
+date: 2025-07-03, from: Alex Schroeder's Blog
+
+<h1 id="2025-07-03-fail2ban-some-more">2025-07-03 fail2ban some more</h1>
+
+<p>This is a continuation of <a href="2025-06-16-ban-asn">2025-06-16 Ban autonomous systems</a>.</p>
+
+<p>I kept wondering why the &ldquo;recidive&rdquo; jail never found any repeated offenders from the &ldquo;butlerian-jihad&rdquo; jail. I think I know why, now. The &ldquo;recidive&rdquo; jail uses the following:</p>
+
+<pre><code>failregex = ^%(__prefix_line)s(?:\s*fail2ban\.actions\s*%(__pid_re)s?:\s+)?NOTICE\s+\[(?!%(_jailname)s\])(?:.*)\]\s+Ban\s+&lt;HOST&gt;\s*$
+</code></pre>
+
+<p>Far to the right, it uses <code>HOST</code> and that only matches a single IP number. If you examine the regular expression generated and scroll over far enough to the right, you&rsquo;ll see the named groups <code>&lt;ip4&gt;</code> and <code>&lt;ip6&gt;</code>.</p>
+
+<pre><code># fail2ban-client get recidive failregex
+The following regular expression are defined:
+`- [0]: ^(?:\[\])?\s*(?:&lt;[^.]+\.[^.]+&gt;\s+)?(?:\S+\s+)?(?:kernel:\s?\[ *\d+\.\d+\]:?\s+)?(?:@vserver_\S+\s+)?(?:(?:(?:\[\d+\])?:\s+[\[\(]?(?:fail2ban(?:-server|\.actions)\s*)(?:\(\S+\))?[\]\)]?:?|[\[\(]?(?:fail2ban(?:-server|\.actions)\s*)(?:\(\S+\))?[\]\)]?:?(?:\[\d+\])?:?)\s+)?(?:\[ID \d+ \S+\]\s+)?(?:\s*fail2ban\.actions\s*(?:\[\d+\])?:\s+)?NOTICE\s+\[(?!recidive\])(?:.*)\]\s+Ban\s+(?:\[?(?:(?:::f{4,6}:)?(?P&lt;ip4&gt;(?:\d{1,3}\.){3}\d{1,3})|(?P&lt;ip6&gt;(?:[0-9a-fA-F]{1,4}::?|::){1,7}(?:[0-9a-fA-F]{1,4}|(?&lt;=:):)))\]?|(?P&lt;dns&gt;[\w\-.^_]*\w))\s*$
+</code></pre>
+
+<p>I decided to create an additional jail.</p>
+
+<p>In my own <code>/etc/fail2ban/jail.d/alex.conf</code> I added a second jail:</p>
+
+<pre><code>[butlerian-jihad]
+enabled = true
+bantime = 1h
+
+[butlerian-jihad-week]
+logpath = /var/log/fail2ban.log
+enabled = true
+findtime = 1d
+bantime = 1w
+maxretry = 5
+</code></pre>
+
+<p>The first one uses the filter <code>/etc/fail2ban/filter.d/butlerian-jihad.conf</code> which remains empty. Remember, entries are added to this jail via a cron job discussed in an <a href="2025-06-16-ban-asn">earlier post</a>.</p>
+
+<pre><code>[Definition]
+</code></pre>
+
+<p>The second one uses a new filter <code>/etc/fail2ban/filter.d/butlerian-jihad-week.conf</code> defining the date pattern and the regular expression to detect &ldquo;failures&rdquo; (i.e. a hit).</p>
+
+<pre><code>[Init]
+# 2025-06-29 01:17:08,887 fail2ban.actions [543]: NOTICE  [butlerian-jihad] Ban 1.12.0.0/14
+datepattern = ^%%Y-%%m-%%d %%H:%%M:%%S
+
+[Definition]
+failregex = NOTICE\s+\[butlerian-jihad\] Ban &lt;SUBNET&gt;
+</code></pre>
+
+<p>The important part is that this uses <code>&lt;SUBNET&gt;</code> instead of <code>&lt;HOST&gt;</code>. If you scroll over to the right, you&rsquo;ll find a new <code>&lt;cidr&gt;</code> group:</p>
+
+<pre><code># fail2ban-client get butlerian-jihad-week failregex
+The following regular expression are defined:
+`- [0]: NOTICE\s+\[butlerian-jihad\] Ban \[?(?:(?:::f{4,6}:)?(?P&lt;ip4&gt;(?:\d{1,3}\.){3}\d{1,3})|(?P&lt;ip6&gt;(?:[0-9a-fA-F]{1,4}::?|::){1,7}(?:[0-9a-fA-F]{1,4}|(?&lt;=:):)))(?:/(?P&lt;cidr&gt;\d+))?\]?
+</code></pre>
+
+<p>And it seems to be working.</p>
+
+<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-1.jpg" alt="The Munin graph shows how the butlerian-jihad-week jail immediately jumps to 3000 members" /></p>
+
+<p>I had to restart this particular jail a few times. Using <code>--unban</code> makes sense because those deserving of a new ban will be discovered immediately as the <code>findtime</code> was set to one day up above.</p>
+
+<pre><code>fail2ban-client restart --unban butlerian-jihad-week
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23fail2ban">#fail2ban</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-07-03-fail2ban-some-more>
+
+---
+
+##  Diogo Jota, Liverpool and Portugal footballer, dies aged 28 in car crash.... 
+
+date: 2025-07-03, updated: 2025-07-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047078-diogo-jota-liverpool-and->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-03, from: Dave Winer's Scripting News)
+
+BTW, this is where we're going with WordLand. I think we can have a simpler social web that builds on simple open formats. That's the plan. I will make an instance of this to show it can be done, both sides, reading and writing. They will work wonderfully with each other. You can write a nice reader and/or writer and it will work with this simple network. Think of the MacWrite and MacPaint of the open social web. Enough to get the ball rolling. 
+
+<br> 
+
+<http://scripting.com/2025/07/03.html#a113600>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-03, from: Dave Winer's Scripting News)
+
+Looking forward to putting linkblogs in WordLand to bed, I don't think too many people other than myself will use the feature, but I wanted to get it right and then move on. 
+
+<br> 
+
+<http://scripting.com/2025/07/03.html#a113429>
+
+---
+
+## Surveillance Used by a Drug Cartel
+
+date: 2025-07-03, updated: 2025-07-02, from: Bruce Schneier blog
+
+<p>Once you build a surveillance system, you <a href="https://www.theguardian.com/world/2025/jun/27/sinaloa-cartel-fbi-hackers">can&#8217;t control</a> who will use it:</p>
+<blockquote><p>A hacker working for the Sinaloa drug cartel was able to obtain an FBI official’s phone records and use Mexico City’s surveillance cameras to help track and kill the agency’s informants in 2018, according to a new US justice department report.</p>
+<p>The incident was disclosed in a justice department inspector general’s audit of the FBI’s efforts to mitigate the effects of &#8220;ubiquitous technical surveillance,&#8221; a term used to describe the global proliferation of cameras and the thriving trade in vast stores of communications, travel, and location data...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/07/surveillance-used-by-a-drug-cartel.html>
+
+---
+
+## Canonical adds extra shots to Ubuntu Java
+
+date: 2025-07-03, updated: 2025-07-03, from: Liam Proven's articles at the Register
+
+<h4>Juices the tooling and support for developers and enterprise customers</h4>
+      <p>Canonical has some extra toppings, flavorings, and offers coming for its bigger Java fans – because the suits swallow a lot of the stuff.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/03/canonical_java_extra_shot/>
+
+---
+
+## 2025-07-03 Israeli crimes against humanity continue
+
+date: 2025-07-03, from: Alex Schroeder's Blog
+
+<h1 id="2025-07-03-israeli-crimes-against-humanity-continue">2025-07-03 Israeli crimes against humanity continue</h1>
+
+<p>I don&rsquo;t want to blog about this shit show more than once a month. Here we go. Let nobody claim they didn&rsquo;t know. Let nobody who supported Israel get away with it.</p>
+
+<blockquote>
+<p>The power of Doctors Under Attack comes in the unhurried way it chooses to unfurl its thesis. There is no clear manipulation, no central villain. What there is, however, is an unceasing timeline of horrors. We are shown doctors doing their best in overwhelmed hospitals with no water or electricity, racing to treat wounds that have already begun to rot. We are shown them coming under what seem like targeted attacks, being detained in black sites where they will be tortured and interrogated. There is footage of a gang rape by soldiers. We are shown children, injured and dead, in vast numbers. &ndash; <a href="https://www.theguardian.com/tv-and-radio/2025/jul/03/gaza-doctors-under-attack-review-channel-4-crucial-film-stuff-of-nightmares">Gaza: Doctors Under Attack review – this crucial film is the stuff of nightmares. But the world needs to see it</a>, by Stuart Heritage, for The Guardian, reviewing the film Doctors Under Attack</p>
+</blockquote>
+
+<p>I am waiting for a reckoning. Others are, too.</p>
+
+<blockquote>
+<p>This report investigates the corporate machinery sustaining Israel’s settler-colonial project of displacement and replacement of the Palestinians in the occupied territory. While political leaders and governments shirk their obligations, far too many corporate entities have profited from Israel’s economy of illegal occupation, apartheid and now, genocide. The complicity exposed by this report is just the tip of the iceberg; ending it will not happen without holding the private sector accountable, including its executives. International law recognizes varying degrees of responsibility – each requiring scrutiny and accountability, particularly in this case, where a people’s self-determination and very existence are at stake. This is a necessary step to end the genocide and dismantle the global system that has allowed it. &ndash; <a href="https://www.ohchr.org/en/documents/country-reports/ahrc5923-economy-occupation-economy-genocide-report-special-rapporteur">A/HRC/59/23: From economy of occupation to economy of genocide - Report of the Special Rapporteur on the situation of human rights in the Palestinian territories occupied since 1967 (Advance edited version)</a>, by Francesca Albanese, Special Rapporteur on the situation of human rights in the Palestinian territories occupied since 1967, for the Human Rights Council Fifty-ninth session, United Nations</p>
+</blockquote>
+
+<p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-07-03-israel>
+
+---
+
+## Wayback gives X11 desktops a fighting chance in a Wayland world
+
+date: 2025-07-03, updated: 2025-07-03, from: Liam Proven's articles at the Register
+
+<h4>Minimalist glue code offers surprising lifeline for stubborn display setups</h4>
+      <p>A new project addresses one of the biggest differences between how X11 and Wayland work, and that could be a winning combination.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/03/wayback_wayland_display_server/>
+
+---
+
+## Why They Hate Education
+
+date: 2025-07-03, from: Robert Reich's blog
+
+What Trump, Vance, Stefanik, and Viktor Orban have in common 
+
+<br> 
+
+<https://robertreich.substack.com/p/why-they-hate-higher-education>
+
+---
+
+## July 2, 2025
+
+date: 2025-07-03, from: Heather Cox Richardson blog
+
+The Senate&#8217;s passage of its version of the budget reconciliation bill yesterday sent House members rushing back to Washington today to debate passing what the Senate had sent them. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-2-2025>
+
+---
+
+##  Kilmar Ábrego García says he was tortured in El Salvadorian prison. Hundreds... 
+
+date: 2025-07-03, updated: 2025-07-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047076-kilmar-abrego-garcia-says>
+
+---
+
+##  Wanna Sit Down? You Gotta Solve The Rubik&#8217;s Cube Chair. 
+
+date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/wanna-sit-down-you-gotta-solve-the-rubiks-cube-chair>
+
+---
+
+##  American science to soon face its largest brain drain in history. &#8220;Over... 
+
+date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047073-american-science-to-soon->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-02, from: Dave Winer's Scripting News)
+
+<a href="https://this.how/wordland/versions.opml#1751488476000">WordLand 0.5.16</a> -- Rounding out the linkblogging features. 
+
+<br> 
+
+<http://scripting.com/2025/07/02.html#a211347>
+
+---
+
+## July 1, 2025
+
+date: 2025-07-02, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167388486/cadb1d81511824bb98a06e0b30bd6f4c.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167388486/cadb1d81511824bb98a06e0b30bd6f4c.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-1-2025-264>
+
+---
+
+##  Architect David Romero has built several digital models of Frank Lloyd Wright&#8217;s... 
+
+date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047055-architect-david-romero-ha>
+
+---
+
+##  8 Forgotten Figures From the American Revolution, including Margaret Corbin, Joseph Brant,... 
+
+date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047060-8-forgotten-figures-from->
+
+---
+
+##  On global homogenetic culture. &#8220;GHC is Trader Joe&#8217;s bags outside of the... 
+
+date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047058-on-global-homogenetic-cul>
+
+---
+
+## Claude Sonnet is a small-brained mechanical squirrel of <T>
+
+date: 2025-07-02, from: Geoffrey Hunntley's blog
+
+    
+
+<br> 
+
+<https://ghuntley.com/cars/>
+
+---
+
+##  The Kindly Brontosaurus 
+
+date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/the-kindly-brontosaurus-1>
+
+---
+
+## You will own nothing and be happy (Stop Killing Games)
+
+date: 2025-07-02, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">You will own nothing and be happy (Stop Killing Games)</span>
+
+            <blockquote>
+  <p><strong>tl;dr</strong>: If you're an EU citizen, <a href="https://eci.ec.europa.eu/045/public/#/screen/home">sign the Stop Killing Games initiative here</a>. Or, if you're in the UK, <a href="https://petition.parliament.uk/petitions/702074/">sign this petition</a>.</p>
+</blockquote>
+
+<p>A month ago, I had a <em>second</em> video on self-hosting <a href="https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated">taken down</a>. YouTube said it was 'harmful or dangerous content'. I appealed that, but my appeal was rejected.</p>
+
+<p><em>Luckily</em>, I have enough reach I was able to get a <a href="https://x.com/TeamYouTube/status/1931119648675701161">second chance</a>. Most content creators aren't so lucky, and content about tools like Jellyfin and LibreELEC get buried over time.</p>
+
+<p>But it's not just self-hosting.</p>
+
+<blockquote>
+  <p><strong>Note</strong>: This blog post is a lightly edited transcript of my most recent YouTube video, <a href="https://www.youtube.com/watch?v=rAsgjKBkKMA">You will own NOTHING and be HAPPY (SKG)</a>.</p></blockquote>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">July 2, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/you-will-own-nothing-and-be-happy-stop-killing-games-0>
+
+---
+
+## Jason Snell: ‘About That A18 Pro MacBook Rumor’
+
+date: 2025-07-02, updated: 2025-07-02, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sixcolors.com/post/2025/07/about-that-a16-macbook-rumor/>
+
+---
+
+##  Before he died, David Lynch talked to Natasha Lyonne about AI. &#8220;Natasha,... 
+
+date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047057-before-he-died-david-lync>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-02, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/03/12/hamstercage.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Software internally is mostly pipes connected to other pipes, each adding a specific quality to whatever passes through it. If you have nice standards for what you send through the pipes, you can do more of what you imagine. This is called <a href="https://en.wikipedia.org/wiki/Orthogonality_(programming)">orthogonality</a>. <a href="https://en.wikipedia.org/wiki/Code_refactoring">Factoring</a> is when you notice a repeating pattern, give it a name, and a set of things you can do to it, those would be names of pipes. I have to ask ChatGPT what it thinks about this, but I am also asking my human friends. BTW I expect this seems so natural because our minds probably work that way too, internally, below our conscious awareness. 
+
+<br> 
+
+<http://scripting.com/2025/07/02.html#a152605>
+
+---
+
+## 2025-07-02 Cloudflare? No.
+
+date: 2025-07-02, from: Alex Schroeder's Blog
+
+<h1 id="2025-07-02-cloudflare-no">2025-07-02 Cloudflare? No.</h1>
+
+<p><a class="account" href="https://social.tchncs.de/@babelcarp" title="@babelcarp@social.tchncs.de">@babelcarp</a> asked me about Cloudflare. I think their efforts to block bots and other forms of distributed denial of service (DDOS) attacks are commendable and interesting. But at the same time, I don&rsquo;t want to use them.</p>
+
+<p>Whatever tech they are using to identify bots is proprietary. Is it the list of user agents? The behaviour of certain IP numbers or networks? I mean, I try to do the same thing, right? But using their solution costs money and puts me at their mercy. This is problematic even if they give me their protection for free. If I can no longer defend myself, I&rsquo;ll be happy to accept their help. But until then, I&rsquo;m going to look for other ways.</p>
+
+<p>As a society, handing over control over vast swaths of the web to a single US company is problematic, too. Sure, this gives them great power to find bots and analyse their behaviour across a gazillion websites. But when Cloudflare is down, a large part of the public Internet is down, too. If they censor a country, a company, or an individual, everybody using their service automatically partakes in the action.</p>
+
+<p>Those problems remain even if Cloudflare decided to share their blocklists. Everybody would have an auto-update on short notice, like every 15min at least. And therefore, we&rsquo;d all accept their decisions. If the US president decides that Canada or Greenland or Ukraine or Iran or Palestine needs to be blocked, Cloudflare will have to comply. And without human oversight, everybody using their services will be an accomplice.</p>
+
+<p>What I think would be best is more people experimenting and documenting approaches to the problem. We need to find solutions, collectively. <a href="https://anubis.techaro.lol/">Anubis</a> relies on proof-of-work and JavaScript. This is not ideal for the environment and it&rsquo;s not ideal for browsers without JavaScript. <a href="https://iocaine.madhouse-project.org/">Iocaine</a> uses various ways of identifying bots and feeds them auto-generated drivel in order to poison their data sources. <a href="https://zadzmo.org/code/nepenthes/">Nephentes</a> is a similar tarpit. These solutions are also not ideal for the environment. But process is exactly what we need: More people researching ways to keep the web free.</p>
+
+<p>I wish Cloudflare would share their techniques of keeping the web free. But that, of course, is a bad idea under capitalism.</p>
+
+<p>People using Cloudflare need to weigh the costs and benefits. The ease of use and the ubiquity is a boon. You will never walk alone. It might cost money and a little bit of independence, but it keeps the websites up, so the primary goal is achieved.</p>
+
+<p>Luckily, I&rsquo;m not there, yet. I&rsquo;ve had a few days of downtime but my websites are also not very important. So I can keep on experimenting and documenting approaches to keeping the web free.</p>
+
+<p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-07-02-cloudflare>
+
+---
+
+##  That Dropped Call With Customer Service? It Was on Purpose. &#8220;Not hiring... 
+
+date: 2025-07-02, updated: 2025-07-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047064-that-dropped-call-with-cu>
+
+---
+
+## Wednesday, July 2, 2025
+
+date: 2025-07-02, from: Doc Searls (at Harvard), New Old Blog
+
+And if insurers aren&#39;t buying, hospitals close. Time has a good piece making clear that the socialized part of the U.S. health care system—Medicare and Medicaid—are socialist gravy on a vast B2B insurance business operating inside a captured regulatorium. Patient problems are products bought and sold. Also that it has more than four million views. [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/02/wednesday-july-2-2025/>
 
 ---
 

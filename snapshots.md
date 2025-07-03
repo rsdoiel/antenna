@@ -1,11 +1,119 @@
 ---
 title: snapshots
-updated: 2025-07-02 14:07:20
+updated: 2025-07-03 06:08:30
 ---
 
 # snapshots
 
-(date: 2025-07-02 14:07:20)
+(date: 2025-07-03 06:08:30)
+
+---
+
+**@Feed for Alt USDS** (date: 2025-07-03, from: Feed for Alt USDS)
+
+The bill in Congress is projected to terminate coverage for 17 million people through harmful policies. 
+
+One of our loved ones has hemophilia and the community is alarmed deeply and has prepared a petition. Please join us in learning more and signing. 
+
+https://win.newmode.net/hemophiliaalliance/fightcutsjuly2025 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lt2oyeqyzs2m>
+
+---
+
+## Abee Ai Station is a liquid-cooled mini PC with AMD Strix Halo and 10 Gigabit networking
+
+date: 2025-07-03, from: Liliputing
+
+<p>AMD&#8217;s Ryzen AI MAX+ 395 Strix Halo processor is a powerhouse of a chip that&#8217;s theoretically designed for laptops and other mobile devices. But it&#8217;s also an expensive chip that hasn&#8217;t actually shown up in many mobile devices yet. What we have seen are announcements for a whole bunch of small form-factor desktop computers featuring the [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/abee-ai-station-is-a-liquid-cooled-mini-pc-with-amd-strix-halo-and-10-gigabit-networking/">Abee Ai Station is a liquid-cooled mini PC with AMD Strix Halo and 10 Gigabit networking</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/abee-ai-station-is-a-liquid-cooled-mini-pc-with-amd-strix-halo-and-10-gigabit-networking/>
+
+---
+
+## Trump’s Big Beautiful Debt Bomb
+
+date: 2025-07-03, from: Paul Krugman
+
+The budget bill is both devastatingly cruel and deeply irresponsible 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/trumps-big-beautiful-debt-bomb>
+
+---
+
+## Podcast: The Life Changing Power of Lifting
+
+date: 2025-07-03, from: 404 Media Group
+
+Jason speaks to Casey Johnston, author of A Physical Education, about TK TK. 
+
+<br> 
+
+<https://www.404media.co/404-media-podcast-casey-johnston/>
+
+---
+
+## Table saws
+
+date: 2025-07-03, updated: 2025-07-03, from: Simon Willison’s Weblog
+
+<p>Quitting programming as a career right now because of LLMs would be like quitting carpentry as a career thanks to the invention of the table saw.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/careers">careers</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/3/table-saws/#atom-everything>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-07-03, from: Feed for Alt USDS)
+
+Elon Musk wants to start a third party. Sure, it could split votes.
+But the bigger question isn’t: “Who wins?”
+It’s: “Who gets heard?”
+
+Third parties rarely last. But they force us to ask who we are and what we believe we deserve.
+
+Read more 👉 https://open.substack.com/pub/altusds/p/beyond-spoiler-votes?r=5fies6&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lszs2bgpp22d>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-03, from: Robert's feed at BlueSky)
+
+Good point. 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lszoegy4gk2d>
+
+---
+
+## Google will reduce battery life for some Pixel 6a phones on July 8th to reduce risk of overheating
+
+date: 2025-07-02, from: Liliputing
+
+<p>Earlier this year Google rolled out a software update to the Pixel 4a that was said to &#8220;improve the stability&#8221; of battery performance, but it quickly became clear that part of the way it did that was by cutting battery life in half. While the move may have prevented some phones from overheating and catching [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/google-will-reduce-battery-life-for-some-pixel-6a-phones-on-july-8th-to-reduce-risk-of-overheating/">Google will reduce battery life for some Pixel 6a phones on July 8th to reduce risk of overheating</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/google-will-reduce-battery-life-for-some-pixel-6a-phones-on-july-8th-to-reduce-risk-of-overheating/>
 
 ---
 
@@ -687,7 +795,7 @@ date: 2025-07-01, from: Liliputing
 
 ---
 
-## NIH Public Access Policy: Implementation and Feedback
+## The NIH Public Access Policy: Implementation and Feedback
 
 date: 2025-07-01, from: Authors Union blogs
 

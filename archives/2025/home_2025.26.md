@@ -1,11 +1,125 @@
 ---
 title: home
-updated: 2025-07-02 14:07:16
+updated: 2025-07-03 06:08:26
 ---
 
 # home
 
-(date: 2025-07-02 14:07:16)
+(date: 2025-07-03 06:08:26)
+
+---
+
+## In Mongolia, a Traditional Housing Type Meets the Changing Realities of Its Residents
+
+date: 2025-07-03, from: Dwell
+
+The country’s seminomadic herders have used tentlike, portable homes for millennia. Photographer Matt Dutile visited a few to see how their modern inhabitants are bringing them into the digital age. 
+
+<br> 
+
+<https://www.dwell.com/article/mongolian-ger-nomadic-homes-photo-essay-30f87ff3>
+
+---
+
+## 11 Colorful Birds in Maine You Can Spot Year-Round (With Images)
+
+date: 2025-07-03, from: Yard Life blog
+
+<p>Maine is known for its diverse landscapes, ranging from dense forests and wetlands to rugged coastlines. This variety of habitats ... </p>
+<p class="read-more-container"><a title="11 Colorful Birds in Maine You Can Spot Year-Round (With Images)" class="read-more button" href="https://ownyardlife.com/11-colorful-birds-in-maine-you-can-spot-year-round-with-images/#more-31607" aria-label="Read more about 11 Colorful Birds in Maine You Can Spot Year-Round (With Images)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/11-colorful-birds-in-maine-you-can-spot-year-round-with-images/">11 Colorful Birds in Maine You Can Spot Year-Round (With Images)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/11-colorful-birds-in-maine-you-can-spot-year-round-with-images/>
+
+---
+
+## 5 Common Squirrels in Iowa (With Pictures and Identification)
+
+date: 2025-07-03, from: Yard Life blog
+
+<p>Squirrels in Iowa are a familiar and fascinating part of the state’s wildlife. They can be seen darting across roads, ... </p>
+<p class="read-more-container"><a title="5 Common Squirrels in Iowa (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/5-common-squirrels-in-iowa-with-pictures-and-identification/#more-31599" aria-label="Read more about 5 Common Squirrels in Iowa (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/5-common-squirrels-in-iowa-with-pictures-and-identification/">5 Common Squirrels in Iowa (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/5-common-squirrels-in-iowa-with-pictures-and-identification/>
+
+---
+
+## 25 Best Wild Birds to Spot in Indiana (Pictures and Identification)
+
+date: 2025-07-03, from: Yard Life blog
+
+<p>Indiana boasts a rich variety of wild birds that attract birdwatchers and nature enthusiasts throughout the year. From vibrant songbirds ... </p>
+<p class="read-more-container"><a title="25 Best Wild Birds to Spot in Indiana (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/25-best-wild-birds-to-spot-in-indiana-pictures-and-identification/#more-31589" aria-label="Read more about 25 Best Wild Birds to Spot in Indiana (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/25-best-wild-birds-to-spot-in-indiana-pictures-and-identification/">25 Best Wild Birds to Spot in Indiana (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/25-best-wild-birds-to-spot-in-indiana-pictures-and-identification/>
+
+---
+
+## Top 20 Summer Birds of Kansas (With Pictures and Identification)
+
+date: 2025-07-03, from: Yard Life blog
+
+<p>Kansas bursts with life every summer, offering birdwatchers a chance to see a stunning variety of species. The Summer Birds ... </p>
+<p class="read-more-container"><a title="Top 20 Summer Birds of Kansas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/top-20-summer-birds-of-kansas-with-pictures-and-identification/#more-31580" aria-label="Read more about Top 20 Summer Birds of Kansas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/top-20-summer-birds-of-kansas-with-pictures-and-identification/">Top 20 Summer Birds of Kansas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/top-20-summer-birds-of-kansas-with-pictures-and-identification/>
+
+---
+
+## 20 Notable Mountain Birds of California (Pictures and Identification)
+
+date: 2025-07-03, from: Yard Life blog
+
+<p>California’s mountain regions host a rich variety of bird species, from dense pine forests to open alpine meadows. These environments ... </p>
+<p class="read-more-container"><a title="20 Notable Mountain Birds of California (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/20-notable-mountain-birds-of-california-pictures-and-identification/#more-31569" aria-label="Read more about 20 Notable Mountain Birds of California (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-notable-mountain-birds-of-california-pictures-and-identification/">20 Notable Mountain Birds of California (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-notable-mountain-birds-of-california-pictures-and-identification/>
+
+---
+
+## 20 Desert Birds of West Texas (With Pictures and Identification)
+
+date: 2025-07-03, from: Yard Life blog
+
+<p>The rugged beauty of West Texas is home to a surprising diversity of wildlife, especially birds that have adapted to ... </p>
+<p class="read-more-container"><a title="20 Desert Birds of West Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/20-desert-birds-of-west-texas-with-pictures-and-identification/#more-31556" aria-label="Read more about 20 Desert Birds of West Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-desert-birds-of-west-texas-with-pictures-and-identification/">20 Desert Birds of West Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-desert-birds-of-west-texas-with-pictures-and-identification/>
+
+---
+
+## This Pacific Northwest Beach Cabin Was Transformed to Withstand Extreme Weather
+
+date: 2025-07-02, from: Sunset Magazine - Living in the West
+
+A charming '70s cabin on Camano Island was designed to withstand extreme weather and updated for modern living. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/camano-island-beach-cottage>
 
 ---
 
@@ -62,6 +176,30 @@ date: 2025-07-02, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/are-our-phones-listening/>
+
+---
+
+## 25 Delicious Sides and Desserts You Can Cook on the Grill
+
+date: 2025-07-02, from: Sunset Magazine - Living in the West
+
+Why not grill up the sides, salads, and desserts to serve alongside your barbecue feast? Here are favorite grilling recipes from the archives. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/grilled-bbq-sides-and-desserts>
+
+---
+
+## Sunset’s Menlo Park Campus Earns National Recognition for Historic Significance
+
+date: 2025-07-02, from: Sunset Magazine - Living in the West
+
+The Cliff May-designed former Sunset headquarters in Menlo Park, California is important to history—and to us. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/culture/sunset-menlo-park-campus-national-register-of-historic-places>
 
 ---
 
@@ -126,6 +264,18 @@ A central atrium references that of the famous Los Angeles residence—just one 
 <br> 
 
 <https://www.dwell.com/article/double-villa-njiric-arhitekti-duplex-eames-house-inspiration-48126147>
+
+---
+
+## These Are the 4th of July Sales Our Editors Will Actually Be Shopping
+
+date: 2025-07-02, from: Sunset Magazine - Living in the West
+
+When you get a break from your 4th of July weekend festivities, make sure to do some shopping. These are the best deals. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/4th-of-july-sales-2025>
 
 ---
 
@@ -248,6 +398,18 @@ Shepard Fairey’s L.A. home features a lap pool, wine room, and an 18-foot glas
 
 ---
 
+## Deadheading Tips Every Lazy Gardener Needs to Know
+
+date: 2025-07-01, from: Sunset Magazine - Living in the West
+
+From self-cleaning varieties to smart timing tricks, here's how to do less work when pruning and deadheading flowers. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/deadheading-tips>
+
+---
+
 ## A New England Shingle-Style Home in Atlanta Seeks $5.3M
 
 date: 2025-07-01, from: Dwell
@@ -257,18 +419,6 @@ This expansive wooded retreat offers the tranquility of coastal-inspired living 
 <br> 
 
 <https://www.dwell.com/article/sothebys-international-new-england-atlanta-real-estate-b5c0d009>
-
----
-
-## These Are the 4th of July Sales Our Editors Will Actually Be Shopping
-
-date: 2025-07-01, from: Sunset Magazine - Living in the West
-
-When you get a break from your 4th of July weekend festivities, make sure to do some shopping. These are the best deals. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/shopping/4th-of-july-sales-2025>
 
 ---
 

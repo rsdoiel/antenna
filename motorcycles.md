@@ -1,11 +1,73 @@
 ---
 title: motorcycles
-updated: 2025-07-02 14:07:17
+updated: 2025-07-03 06:08:26
 ---
 
 # motorcycles
 
-(date: 2025-07-02 14:07:17)
+(date: 2025-07-03 06:08:26)
+
+---
+
+## More Than Merch, Indian’s Newest Drop Tells a Story and Supports a Cause
+
+date: 2025-07-03, from: Ride Apart, Electric Motorcycle News
+
+The historic motorcycle company has teamed up with Native American artist Jeremy Arviso for a unique capsule collection. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/764452/indian-motorcycle-rvso-lifestyle-collab-for-cause/>
+
+---
+
+## Triumph’s New Paint Schemes Put Other Manufacturers to Shame
+
+date: 2025-07-03, from: Ride Apart, Electric Motorcycle News
+
+Don't just wander into a Triumph dealership unless you're ready to spend. 
+
+<br> 
+
+<https://www.rideapart.com/news/764447/triumph-2026-new-paing-schemes/>
+
+---
+
+## Yamaha Is Thinking Beyond Motorcycles, E-Bikes With Another Strategic Move
+
+date: 2025-07-03, from: Ride Apart, Electric Motorcycle News
+
+E-bikes were once thought to be Team Blue's future, but not anymore. 
+
+<br> 
+
+<https://www.rideapart.com/news/764444/yamaha-robotics-chip-manufacturing-ebikes/>
+
+---
+
+## CFMoto’s Working On a Badass Small Motorcycle, But Will It Finally Come To the US?
+
+date: 2025-07-03, from: Ride Apart, Electric Motorcycle News
+
+CFMoto’s doubling down on this bike’s retro racer aesthetic. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/764455/cfmoto-500sr-voom-updates-coming-europe-soon/>
+
+---
+
+## U.S. Marine Josh White Returning to ARCA with Renewed Focus, Purpose
+
+date: 2025-07-03, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer For more than a decade, Charleston, West Virginia&#8217;s Josh White has been racing for awareness in the ARCA Menard&#8217;s Series. And it&#8217;s not just to&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/u-s-marine-josh-white-returning-to-arca-with-renewed-focus-purpose/>
 
 ---
 

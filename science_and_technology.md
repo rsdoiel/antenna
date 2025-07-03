@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-07-02 14:07:14
+updated: 2025-07-03 06:08:21
 ---
 
 # science and technology
 
-(date: 2025-07-02 14:07:14)
+(date: 2025-07-03 06:08:21)
+
+---
+
+## AI note takers are flooding Zoom calls as workers opt to skip meetings
+
+date: 2025-07-03, from: OS News
+
+Clifton Sellers attended a Zoom meeting last month where robots outnumbered humans. He counted six people on the call including himself, Sellers recounted in an interview. The 10 others attending were note-taking apps powered by artificial intelligence that had joined to record, transcribe and summarize the meeting. ↫ Lisa Bonos and Danielle Abril at The Bezos Post Management strongly encourages &#8211; mandates &#8211; that everyone use &#8220;AI&#8221; to improve productivity, but then gets all uppity when people actually do. Welcome to &#8220;finding out&#8221;. 
+
+<br> 
+
+<https://www.osnews.com/story/142689/ai-note-takers-are-flooding-zoom-calls-as-workers-opt-to-skip-meetings/>
+
+---
+
+## Elementary OS makes meaningful accessibility improvements
+
+date: 2025-07-03, from: OS News
+
+With recent efforts to improve accessibility in GNOME and KDE, as well as a renewed focus on highlighting the many issues that still need fixing, the Linux desktop is making meaningful strides in becoming more accessible to those among us with disabilities. Obviously, the Linux desktop is bigger than just GNOME and KDE, so today we have elementary OS improving its accessibility features in a variety of ways. July is Disability Pride Month, an opportunity for us to consider how we’re serving our disabled community and work on breaking down barriers to access. Last year we had the pleasure of being introduced to Florian—a fully blind cybersecurity enthusiast—and thanks to his feedback we completely rewrote navigation in Onboarding to be more keyboard and screen reader friendly, as well as took another look at Installation and Initial Setup to vastly improve our entire first run experience for blind folks. Plus, we implemented the screen reader interface in the  +  window switcher. Thanks to this feedback, elementary OS 8 can be installed and set up completely blind, an important win for maintaining your independence as a person with vision disabilities. Since the release of OS 8 we’ve been working on things like improving contrast, support for Dark Mode screenshots and brand colors in AppCenter, turning on or snoozing Dark Mode without canceling your schedule, expanding the scope of the “Reduce Motion” setting, and adding more options to reduce distracting notification bubbles. Plus, thanks to feedback from Aaron who you may know from his blog series on Linux accessibility, Notifications and the Shortcut Overlay both got releases that add screen reader support. ↫ Danielle Foré at elementary&#8217;s blog I&#8217;m glad we&#8217;re finally putting to rest this idea that accessibility features should be afterthoughts, relevant to only a minute percentage of people. Not only is the disabled community way bigger than we might think, many of the features they require are simply also extremely nice and beneficial to users who might not actually require them. I know tons of people who, for instance, love reduce motion features simply because it makes their operating system feel faster, or people who just don&#8217;t want to be bothered with notifications the instant they arrive. Accessibility goes far beyond what we traditionally think of as accessibility features, like screen readers or high contrast modes. Making software more accessible for those that require it, also makes software more accessible for those that merely desire it. Even though elementary OS probably isn&#8217;t the type of distribution that appeals to the average OSNews reader, I&#8217;m incredibly happy they&#8217;re taking accessibility seriously, and I intend to continue to highlight such improvements. 
+
+<br> 
+
+<https://www.osnews.com/story/142687/elementary-os-makes-meaningful-accessibility-improvements/>
+
+---
+
+## Meta calls €200M EU fine over pay-or-consent ad model 'unlawful'
+
+date: 2025-07-03, updated: 2025-07-03, from: The Register (UK I.T. News)
+
+<h4>&#39;Deserves fair compensation for the valuable and innovative services&#39;? Which ones are those then?</h4> <p>Meta has come out swinging following the European Commission&#39;s decision that its pay-or-consent model falls foul of the Digital Markets Act (DMA).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/03/meta_ec_dma_sulk/>
+
+---
+
+## Ransomware crew Hunters International shuts down, hands out keys to victims
+
+date: 2025-07-03, updated: 2025-07-03, from: The Register (UK I.T. News)
+
+<h4>Don&#39;t let their kind words sway you – leaders are still up to no good</h4> <p>Ransomware gang Hunters International has shut up shop and offered decryption keys to all victims as a parting favor.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/03/hunters_international_shutdown/>
+
+---
+
+## Canonical adds extra shots to Ubuntu Java
+
+date: 2025-07-03, updated: 2025-07-03, from: The Register (UK I.T. News)
+
+<h4>Juices the tooling and support for developers and enterprise customers</h4> <p>Canonical has some extra toppings, flavorings, and offers coming for its bigger Java fans – because the suits swallow a lot of the stuff.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/03/canonical_java_extra_shot/>
+
+---
+
+## UK charity bank branded a 'disaster' after platform migration goes wrong
+
+date: 2025-07-03, updated: 2025-07-03, from: The Register (UK I.T. News)
+
+<h4>Customers booted from system and technical integration missing from upgrade</h4> <p>A UK bank serving charities has come under fire from customers unable to log in or make transactions on its new online platform.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/03/uk_charity_bank_migration_disaster/>
+
+---
+
+## Wayback gives X11 desktops a fighting chance in a Wayland world
+
+date: 2025-07-03, updated: 2025-07-03, from: The Register (UK I.T. News)
+
+<h4>Minimalist glue code offers surprising lifeline for stubborn display setups</h4> <p>A new project addresses one of the biggest differences between how X11 and Wayland work, and that could be a winning combination.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/03/wayback_wayland_display_server/>
+
+---
+
+## Let's Encrypt rolls out free security certs for IP addresses
+
+date: 2025-07-03, updated: 2025-07-03, from: The Register (UK I.T. News)
+
+<h4>You probably don&#39;t need one, but it&#39;s nice to have the option</h4> <p>Let&#39;s Encrypt, a certificate authority (CA) known for its free TLS/SSL certificates, has begun issuing digital certificates for IP addresses.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/03/lets_encrypt_rolls_out_free/>
+
+---
+
+## ChatGPT creates phisher’s paradise by recommending the wrong URLs for major companies
+
+date: 2025-07-03, updated: 2025-07-03, from: The Register (UK I.T. News)
+
+<h4>Crims have cottoned on to a new way to lead you astray</h4> <p>AI-powered chatbots often deliver incorrect information when asked to name the address for major companies’ websites, and threat intelligence business Netcraft thinks that creates an opportunity for criminals.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/03/ai_phishing_websites/>
+
+---
+
+## 'Quad' nations launch plan to stop China making critical minerals into Unobtanium
+
+date: 2025-07-03, updated: 2025-07-03, from: The Register (UK I.T. News)
+
+<h4>India, Japan, USA and Australia see risks and opportunities in rare earths</h4> <p>India, Japan, USA and Australia have launched a “Critical Minerals Initiative” they hope will harden supply chains.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/03/quad_critical_minerals_initiative/>
+
+---
+
+## Alibaba Cloud reveals DB cluster manager it says can beat rival hyperscalers
+
+date: 2025-07-03, updated: 2025-07-03, from: The Register (UK I.T. News)
+
+<h4>‘Eigen+’ finds instances likely to cause out of memory errors and makes sure they can’t do damage</h4> <p>Alibaba Cloud has revealed a cluster manager it says allows it to run databases more efficiently than its hyperscale rivals.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/03/alibaba_cloud_eigen_plus_cluster_manager/>
+
+---
+
+## Cisco scores a perfect 10 - sadly for a critical flaw in its comms platform
+
+date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+
+<h4>The second max score this week for Netzilla - not a good look</h4> <p>If you&#39;re running the Engineering-Special (ES) builds of Cisco Unified Communications Manager or its Session Management Edition, you need to apply Cisco&#39;s urgent patch after someone at Switchzilla made a big mistake.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/02/cisco_patch_cvss/>
+
+---
+
+## Servers and thin clients in every home is the future they stole from us
+
+date: 2025-07-02, from: OS News
+
+I’ve used thin clients at home for quite a while &#8211; both for their intended use (remotely accessing a desktop of another system); and in the sense of “modern thin clients are x86 boxes that are wildly overpowered for what they run, so they make good mini servers.” Recently, I saw a bulk lot of Sun Ray thin clients pop up on Trade Me (NZ’s eBay-like auction site) &#8211; and with very little idea of how many clients were actually included in this lot, I jumped on it. After a 9 hour round-trip drive (on some of the worst roads I’ve seen!), I returned home with the back of my car completely packed with Sun Rays. Time for some interesting shenanigans! ↫ catstret.ch I was unaware you could still set up a Sun Ray environment with latest versions of OpenIndiana, and that has me quite interested in buying a few Sun Rays off eBay and follow in the author&#8217;s footsteps. It seems like it&#8217;s not too difficult, and while there&#8217;s some manual nonsense you have to do to get everything to install correctly, it&#8217;s nothing crazy. To this day, I firmly believe that the concept of dumb thin clients connected to powerful servers is an alluring and interesting way of computing. I&#8217;m not talking about connecting up to servers owned by massive technology corporations &#8211; I&#8217;m talking about a few powerful servers down in your own basement or attic or whatever, serving applications and desktops straight to basic thin clients all around your house. These thin clients can take the shape of anything, from something like a desktop setup in your office, down to a basic display in your kitchen for showing recipes, setting timers, and other basic stuff &#8211; and everything in between. Sun Rays could &#8216;hot desk&#8217; using personal smart cards, but of course, in this day and age you&#8217;d have your smartphone. The thin clients around your house would know it was you through your smartphone, and serve up the applications, desktop, tools, and so on that you use, but everything would be running on the servers in your house. Of course, my wife would have her own account on the server, as would our children, when they are old enough. None of this is impossible with today&#8217;s tools and computing power, but it wouldn&#8217;t be easy to set up. There are no integrated solutions out there to make this happen; you&#8217;d have to scrap it together from disparate parts and tools, and I doubt such a house of cards would end up being reliable enough not to quickly become a massive annoyance and time sink. On top of that, we live in a rental apartment, so we don&#8217;t even have a basement or attic to store loud servers in, nor are we allowed to drill holes and route Ethernet cabling for optimal performance. Anyway, there&#8217;s no chance in hell any of the major technology companies would build such a complex ecosystem in a world where it&#8217;s much easier and more profitable to force people to subscribe to shitty services. In my ideal computing world, though &#8211; a server in every home, with cheap thin clients in every room. 
+
+<br> 
+
+<https://www.osnews.com/story/142677/servers-and-thin-clients-in-every-home-is-the-future-they-stole-from-us/>
+
+---
+
+## NASA Sets Briefings for SpaceX Crew-11 Mission to Space Station
+
+date: 2025-07-02, from: NASA breaking news
+
+NASA and its partners will discuss the upcoming crew rotation to the International Space Station during a pair of news conferences on Thursday, July 10, from the agency’s Johnson Space Center in Houston. First is an overview news conference at 12 p.m. EDT with mission leadership discussing final launch and mission preparations on the agency’s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-11-mission-to-space-station/>
 
 ---
 
@@ -121,7 +289,7 @@ A.M./P.M. Planet Watching, Plus the Eagle Constellation Mars shines in the eveni
 
 date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
 
-<h4>Dismissal bid denied as 16-count indictment moves toward trial in May 2026</h4> <p>Huawei will still have to face trial in the US next year over alleged breaches of sanctions against Iran after a judge declined its request to dismiss various charges.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Dismissal bid denied as 16-count indictment moves toward court in May 2026</h4> <p>Huawei will still have to face trial in the US next year over alleged breaches of sanctions against Iran after a judge declined its request to dismiss various charges.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 

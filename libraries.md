@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-07-02 14:07:16
+updated: 2025-07-03 06:08:25
 ---
 
 # libraries
 
-(date: 2025-07-02 14:07:16)
+(date: 2025-07-03 06:08:25)
+
+---
+
+## Guest Post — Invisible by Design? Rethinking Global Indexing to Include MENA Journals
+
+date: 2025-07-03, from: Scholarly Kitchen
+
+<p>This post explores why many Middle East- and North Africa-based journals remain underrepresented in global indexing databases, how this affects both local and international knowledge flows, and what alternative pathways can bring the region into fuller view.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/07/03/guest-post-invisible-by-design-rethinking-global-indexing-to-include-mena-journals/">Guest Post &#8212; Invisible by Design? Rethinking Global Indexing to Include MENA Journals</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/07/03/guest-post-invisible-by-design-rethinking-global-indexing-to-include-mena-journals/>
 
 ---
 

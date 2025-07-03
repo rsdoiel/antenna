@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2025-07-02 14:07:15
+updated: 2025-07-03 06:08:23
 ---
 
 # writing
 
-(date: 2025-07-02 14:07:15)
+(date: 2025-07-03 06:08:23)
 
 ---
 
@@ -56,14 +56,14 @@ date: 2025-07-02, from: Locus Magazine
 
 ---
 
-## 'Jurassic World: Rebirth' Writer David Koepp on the Screenwriting Mistake That Dooms Scripts
+## 'Jurassic World Rebirth' Writer David Koepp on the Screenwriting Mistake That Dooms Scripts
 
 date: 2025-07-02, from: Final Draft blog
 
 <div class="hs-featured-image-wrapper"> 
  <a href="https://blog.finaldraft.com/jurassic-world-rebirth-writer-david-koepp-on-the-screenwriting-mistake-that-dooms-scripts" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Jonathan%20Bailey%20and%20Scarlett%20Johansson%20in%20Jurassic%20World_%20Rebirth.png" alt="Jonathan Bailey and Scarlett Johansson duck behind greenery in Jurassic World: Rebirth" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
 </div> 
-<p>David Koepp is a Hollywood legend. One of the most successful screenwriters of all time, Koepp is the iconic voice behind works like <em>Jurassic Park, The Lost World, Death Becomes Her, Mission: Impossible</em>, and many more.&nbsp;<br><br>Koepp is known for his versatility. He has achieved both critical and commercial success in a wide variety of genres, including thriller, science fiction, comedy, action, drama, crime, superhero, horror, <a href="https://blog.finaldraft.com/big-break-winners-sell-true-life-adventure-script-faster-than-horses">adventure</a>, and fantasy. He can write in essentially any world or tone and deliver consistent blockbusters.&nbsp;<br><br>Recently, he rejoined Steven Spielberg to take on dinosaurs again for <em>Jurassic World: Rebirth</em>, the next entry in the <em>Jurassic</em> franchise. Set five years after the events of <a href="https://blog.finaldraft.com/jurassic-world-dominion-screenwriter-on-her-writing-process-and-tips"><em>Jurassic World: Dominion</em></a>, in <span style="font-style: italic;">Rebirth</span> the world’s environment has become mostly inhospitable to dinosaurs, leaving them only the tropical regions that feel like their original habitats. Directed by Gareth Edwards, the film stars Scarlett Johansson, Jonathan Bailey, and Mahershala Ali.<br><br>We were delighted to be able to speak with Koepp ahead of <span style="font-style: italic;">Jurassic World: Rebirth</span> and learn about his process on the film, as well as get his advice on structure and more.<br><br><span style="font-style: italic;">Editor’s note: The following conversation has been edited for length and clarity.</span><br></p> 
+<p>David Koepp is a Hollywood legend. One of the most successful screenwriters of all time, Koepp is the iconic voice behind works like <em>Jurassic Park, The Lost World, Death Becomes Her, Mission: Impossible</em>, and many more.&nbsp;<br><br>Koepp is known for his versatility. He has achieved both critical and commercial success in a wide variety of genres, including thriller, science fiction, comedy, action, drama, crime, superhero, horror, <a href="https://blog.finaldraft.com/big-break-winners-sell-true-life-adventure-script-faster-than-horses">adventure</a>, and fantasy. He can write in essentially any world or tone and deliver consistent blockbusters.&nbsp;<br><br>Recently, he rejoined Steven Spielberg to take on dinosaurs again for <em>Jurassic World Rebirth</em>, the next entry in the <em>Jurassic</em> franchise. Set five years after the events of <a href="https://blog.finaldraft.com/jurassic-world-dominion-screenwriter-on-her-writing-process-and-tips"><em>Jurassic World Dominion</em></a>, in <span style="font-style: italic;">Rebirth</span> the world’s environment has become mostly inhospitable to dinosaurs, leaving them only the tropical regions that feel like their original habitats. Directed by Gareth Edwards, the film stars Scarlett Johansson, Jonathan Bailey, and Mahershala Ali.<br><br>We were delighted to be able to speak with Koepp ahead of <span style="font-style: italic;">Jurassic World Rebirth</span> and learn about his process on the film, as well as get his advice on structure and more.<br><br><span style="font-style: italic;">Editor’s note: The following conversation has been edited for length and clarity.</span><br></p> 
 
 <br> 
 
@@ -208,7 +208,7 @@ Fiyah Spring ’25</p>
 
 ---
 
-## NIH Public Access Policy: Implementation and Feedback
+## The NIH Public Access Policy: Implementation and Feedback
 
 date: 2025-07-01, from: Author's Union blog
 

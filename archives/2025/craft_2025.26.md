@@ -1,11 +1,37 @@
 ---
 title: craft
-updated: 2025-07-02 14:07:18
+updated: 2025-07-03 06:08:28
 ---
 
 # craft
 
-(date: 2025-07-02 14:07:18)
+(date: 2025-07-03 06:08:28)
+
+---
+
+## Backwoods Chairmakers – Setting Out
+
+date: 2025-07-03, from: Lost Arg Press blog
+
+The following is excerpted from “Backwoods Chairmakers,” by Andrew D. Glenn. Part travelogue, part profile and part how-to, “Backwoods Chairmakers” explores the tradition of the enduring Appalachian ladderback form. Glenn takes you inside the shops of more than 20 makers, with photos and personal interviews about their lives and techniques. We sat for a moment... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/07/03/backwoods-chairmakers-setting-out/>
+
+---
+
+## 103. Andy Manson
+
+date: 2025-07-03, from: Luthier on Luthier with Michael Bashkin
+
+<p>For episode 103 of the podcast, we speak with legendary guitar maker Andy Manson.</p> <p>Andy shares stories from his early days of building and tells us about his commitment to traditional construction techniques and how his craft has evolved over the years. Andy also discusses some of his most iconic instruments, how his approach has shifted with age, and the benefits of Thai massage.</p> <p>Link: <a href= "https://www.andymanson.com">https://www.andymanson.com</a></p> <p>Luthier on Luthier is hosted by Michael Bashkin of <a href= "https://www.bashkinguitars.com">Bashkin Guitars</a> and brought to you by the <a href= "https://shop.fretboardjournal.com/products/fretboard-journal-annual-subscription"> Fretboard Journal</a>. This episode is sponsored by <a href= "https://www.dreamguitars.com/">Dream Guitars</a> and <a href= "https://www.stewmac.com/?irclickid=VA-TmuXZ%3AxyPUn0Ut-05ZTupUkHUPAzGE2bmy00&utm_source=3755630&utm_medium=Impact&utm_campaign=3755630&utm_content=Online%20Tracking%20Link_1303370&irgwc=1&partner=Fretboard%20Journal&mpid=3755630&group="> StewMac</a>.</p> <p>Want to support Luthier on Luthier? <a href= "https://www.patreon.com/luthieronluthier">Join our Patreon</a> to get access to exclusive photos and content from Michael and his builds.</p> 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://traffic.libsyn.com/secure/luthieronluthier/LOL103.mp3?dest-id=480616"></source>
+</audio> <a href="https://traffic.libsyn.com/secure/luthieronluthier/LOL103.mp3?dest-id=480616" target="_blank">download audio/mpeg</a><br> 
+
+<https://luthieronluthier.libsyn.com/103-andy-manson>
 
 ---
 
