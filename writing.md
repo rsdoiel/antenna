@@ -1,11 +1,97 @@
 ---
 title: writing
-updated: 2025-07-03 06:08:23
+updated: 2025-07-03 14:07:37
 ---
 
 # writing
 
-(date: 2025-07-03 06:08:23)
+(date: 2025-07-03 14:07:37)
+
+---
+
+## New Books Video for July 1st!
+
+date: 2025-07-03, from: Locus Magazine
+
+<p>Locus is here to kick off the month of July with a lovely new video on the top releases of the week! We&#8217;re going over the best of the best in the SF, Fantasy, Horror, and YA fields! Support what we do and never miss out on future releases by subscribing to the YouTube channel to keep up-to-date! We hope to see you next week!</p>
+<div class="fitvids-video">
+<div class="jetpack-video-wrapper"></div>
+</div> <a href="https://locusmag.com/2025/07/new-books-video-for-july-1st/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/07/new-books-video-for-july-1st/>
+
+---
+
+## ‘M3GAN 2.0’ and 10 Movies That Show Tech Gone Wild
+
+date: 2025-07-03, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/m3gan-2.0-and-10-movies-that-show-tech-gone-wild" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Amie%20Donald%20in%20M3GAN%202.0.png" alt="Amie Donald as M3gan in M3GAN 2.0" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><em>M3GAN</em> is a horror movie about a doll with artificial intelligence who is programmed for one mission: protect Cady (Violet McGraw). This combination turns M3gan into a near-unstoppable killing machine as she becomes self-aware and misinterprets the meaning behind her programming.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/m3gan-2.0-and-10-movies-that-show-tech-gone-wild>
+
+---
+
+## IFComp 2025 Now Accepting Intents &amp; Entries
+
+date: 2025-07-03, from: IF Competition Blog
+
+<p>Hello, everyone, and happy (slightly belated) start of July! With a new July comes a new season of the Interactive Fiction Competition!</p><h2><b>From now through <i>August 1st</i> 2025, 11:59pm Eastern (23:59 ET), the <a href="https://href.li/?https://ifcomp.org">IF Comp website</a> will be open for authors to declare their intent to enter this year’s competition!</b></h2><p>Final entries are due on <b>August 28th</b> 2025, 11:59pm Eastern, but you must register by <b>August 1st</b>! </p><p>If you miss it, there’s always 2026… If you register and then can’t complete your game in time, you may always back out of the competition and enter the game elsewhere or next year.</p><p>As with the previous iterations of the IFComp, authors will be allowed to participate as judges, vote, and review entries other than their own.</p><p>If you have any questions about the competition or its rules, you can contact us at <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=ifcomp@ifcomp.org">ifcomp@ifcomp.org</a></p><p>In addition to entries, <b>we are also accepting prizes to award contestants!</b> If you would like to donate a prize for this year’s competition, you can email us at <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=prizes@ifcomp.org">prizes@ifcomp.org</a> — no prize is too humble or too grand.</p><p>If you would prefer to donate money, our Colossal Fundraiser will launch by August. Another announcement will be made then.</p><p>Thank you, everyone. We’re looking forward to another fun year.</p> 
+
+<br> 
+
+<https://blog.ifcomp.org/post/788067590629146624>
+
+---
+
+## 2025 CSFFA Hall of Fame Inductees
+
+date: 2025-07-03, from: Locus Magazine
+
+<p>The Canadian Science Fiction &#38; Fantasy Association (CSFFA) announced three inductees to the Canadian Science Fiction and Fantasy Hall of Fame for 2025: organizer Clint Budd, author Charles R. Saunders, and On Spec co-founder Diane L. Walton.</p>
+<p>This year&#8217;s jury included David Clink (chair), Rebecca Diem, Candas Jane Dorsey, Stephen Kotowych, and Randy McCharles.</p>
+<p>For more information, see the CSFFA website.</p>
+
+<p><strong>While you are here,</strong> please take a moment to  <a href="https://locusmag.com/2025/07/2025-csffa-hall-of-fame-inductees/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/2025-csffa-hall-of-fame-inductees/>
+
+---
+
+## Writer Ehren Kruger Helps ‘F1: The Movie’ Find Its Place in 100+ Years of Racing Movies
+
+date: 2025-07-03, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/writer-ehren-kruger-helps-f1-the-movie-find-its-place" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Brad%20Pitt%20and%20Damson%20Idris%20in%20F1_%20The%20Movie.png" alt="Brad Pitt and Damson Idris in F1: The Movie" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>You know Ehren Kruger. He has written some of the biggest blockbusters of the last 20 years, two of which were the highest grossing films of their respective year: <em>Transformers: Revenge of the Fallen</em> (2009) and <em>Top Gun: Maverick</em> (2022). Further back, in 2002, he scared the hell out of us with <em>The Ring</em>.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/writer-ehren-kruger-helps-f1-the-movie-find-its-place>
+
+---
+
+## The Fourth Consort by Edward Ashton: Review by Russell Letson
+
+date: 2025-07-03, from: Locus Magazine
+
+<p><strong>The Fourth Consort</strong>, Edward Ashton (St. Mar­tin’s Press, 978-1-250-28633-8, $29.00, 288pp, hc) February 2025.</p>
+<p>I sometimes find myself wondering whether the recurrence of a motif or trope or set­ting in some slice of SF history represents a kind of collective anxiety dream – certainly the postnuclear-apocalypse stories that were common when I was first reading SF in the 1950s were not utterly disconnected from the duck-and-cover drills I recall.  <a href="https://locusmag.com/2025/07/the-fourth-consort-by-edward-ashton-review-by-russell-letson/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/the-fourth-consort-by-edward-ashton-review-by-russell-letson/>
 
 ---
 

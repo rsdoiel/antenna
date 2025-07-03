@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-07-03 06:08:24
+updated: 2025-07-03 14:07:37
 ---
 
 # games
 
-(date: 2025-07-03 06:08:24)
+(date: 2025-07-03 14:07:37)
+
+---
+
+## All Synergy Bonds and romance candidates in Persona 5 The Phantom X
+
+date: 2025-07-03, updated: 2025-07-03, from: Polygon Website
+
+Social Links and Confidants return in Persona 5: The Phantom X, but they go by a new name: Synergy Bonds. Synergy Bonds are The Phantom X’s take on social stats tied to NPCs that you can unlock once specific criteria are met. While the name is different than elsewhere in the series, long-time fans will [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/persona-5-phantom-x-guides/610797/p5x-romance-synergy-bonds-social-links-confidants>
+
+---
+
+## Best Strikers mechs tier list in Mecha Break
+
+date: 2025-07-03, updated: 2025-07-03, from: Polygon Website
+
+The multiplayer experience in Mecha Break revolves around finding the best Strikers for the role you want to play in the party and locking it in. That’s where a tier list of best mechas comes in handy.&#160; For this tier list, we compared the mechas based on the role they play in a party. There [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/610808/mecha-break-best-strikers-mechs-tier-list>
+
+---
+
+## All Palworld Pals, types, and skills in the Paldeck
+
+date: 2025-07-03, updated: 2025-07-03, from: Polygon Website
+
+Palworld features more than 100 creatures, titularly dubbed “Pals.” You can treat your Pals with love, or you can put them to work in a factory — and even butcher them. With this many Pals in one game, it can be hard to tell which ones are worth keeping or employing your base. Pals have [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/palworld-guides/24047325/pals-list-types-elements-base-skills-paldeck>
+
+---
+
+## How to fish in Palworld
+
+date: 2025-07-03, updated: 2025-07-03, from: Polygon Website
+
+Palworld’s fishing mini-game allows you to catch Pals without any Pal Spheres. Introduced in the Tides of Terraria update, you can fish them straight from the ocean. All you need is a fishing rod, some bait, and a bit of practice with the surprisingly tricky mini-game. Learning how to fish in Palworld is well worth [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/palworld-guides/610800/how-to-fish-craft-rod-bait-pond-unlock-locations-magnet>
+
+---
+
+## EA is shutting down Anthem’s servers, which were still up
+
+date: 2025-07-03, updated: 2025-07-03, from: Polygon Website
+
+Electronic Arts announced Thursday it will be shutting down the servers for Anthem, the BioWare-developed, always-online, cooperative multiplayer action game, effective next year. “After careful consideration,” EA’s statement begins, “we will be sunsetting Anthem on January 12, 2026. This means that the game will still be playable online for the next 180+ days. As of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/610958/bioware-anthem-server-shutdown-ea-play>
+
+---
+
+## OK, Phoenix’s gameplay in Marvel Rivals looks terrifying
+
+date: 2025-07-03, updated: 2025-07-03, from: Polygon Website
+
+Canonically, Jean Grey is supposed to be one of the most powerful mutants not just in the world of X-Men, but within the larger Marvel universe — which makes her arrival to hero shooter Marvel Rivals a hugely anticipated event. How exactly do you translate an immortal being that can undo and remake existence into [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/610913/marvel-rivals-phoenix-jean-grey-terrifying>
+
+---
+
+## Hades 2 gets final early access update before the full release
+
+date: 2025-07-03, updated: 2025-07-03, from: Polygon Website
+
+Last month, Hades 2 blessed the world with a hefty update that included new weapons, more story beats, expanded romantic options, and the major reveal of Narcissus’ true face. A couple of weeks later, the godly roguelike is receiving yet another update with a host of gameplay adjustments focused on core aspects, like weapons and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/610842/hades-2-final-early-access-update-launch-release-date-patch-notes>
+
+---
+
+## An easy Elden Ring Nightreign boss just became one of the game’s best after new update
+
+date: 2025-07-03, updated: 2025-07-03, from: Polygon Website
+
+Some FromSoft boss battles make you tear your hair out, but every so often, you’ll get a big enemy who goes down on your first try, no sweat. In Elden Ring Nightreign, Sentient Pest is a cool idea for a boss fight — it’s a parasitic moth that controls a bulky scorpion — but it’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring/610802/nightreign-sentient-pest-everdark-soverign-animus-how-to-beat>
+
+---
+
+## Switch 2 set to make Summer Games Done Quick debut
+
+date: 2025-07-03, updated: 2025-07-03, from: Polygon Website
+
+Summer Games Done Quick is back for its annual speedrunning event, and this year, the Nintendo Switch 2 will make its GDQ debut with Mario Kart World. Summer Games Done Quick 2025 will kick off the pre-show at 12:30 p.m. EDT on Sunday, July 6, before officially opening up with a Sonic the Hedgehog speedrun [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/events/610829/summer-games-done-quick-2025-mario-kart-world>
 
 ---
 

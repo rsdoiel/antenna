@@ -1,11 +1,111 @@
 ---
 title: north america
-updated: 2025-07-03 06:08:18
+updated: 2025-07-03 14:07:33
 ---
 
 # north america
 
-(date: 2025-07-03 06:08:18)
+(date: 2025-07-03 14:07:33)
+
+---
+
+## Contrarian Pet of the Week
+
+date: 2025-07-03, from: The Contrarian
+
+Meet Noodle! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-1b7>
+
+---
+
+## Name Game: Did Los Angeles Businesses Use Bait and Switch Tactics to Push a Petition?
+
+date: 2025-07-03, from: Capital and Main
+
+<p>Hospitality unions claim a ballot-measure proposal blocking Olympics wage hikes rests on fraudulently obtained signatures.</p>
+<p>The post <a href="https://capitalandmain.com/name-game-did-los-angeles-businesses-use-bait-and-switch-tactics-to-push-a-petition">Name Game: Did Los Angeles Businesses Use Bait and Switch Tactics to Push a Petition?</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/name-game-did-los-angeles-businesses-use-bait-and-switch-tactics-to-push-a-petition>
+
+---
+
+## Frozen passion fruit pie
+
+date: 2025-07-03, from: The Contrarian
+
+Thank my friend Melanie for my summer take on key lime pie. 
+
+<br> 
+
+<https://contrarian.substack.com/p/frozen-passion-fruit-pie>
+
+---
+
+## Waiting on the judicial branch to save democracy: Janai Nelson on the legal battles ahead
+
+date: 2025-07-03, from: The Contrarian
+
+"We know that we have white supremacist, patriarchal origins to our Constitution. But we also know that we quickly learned that the original constitution was unsustainable for American democracy" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167296889/7a41eb0a688001506d5abc8e0ef6e22f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167296889/7a41eb0a688001506d5abc8e0ef6e22f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/waiting-on-the-judicial-branch-to>
+
+---
+
+## The Science of the Declaration
+
+date: 2025-07-03, from: The Contrarian
+
+Appreciating an endangered legacy 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-science-of-the-declaration>
+
+---
+
+## Can Harvard ever be Harvard again?
+
+date: 2025-07-03, from: The Contrarian
+
+Harvard is doing its best in a tough fight it might not win. 
+
+<br> 
+
+<https://contrarian.substack.com/p/can-harvard-ever-be-harvard-again>
+
+---
+
+## Coffee with Contrarians: What Now??
+
+date: 2025-07-03, from: The Contrarian
+
+A recording from Coffee with Contrarians LIVE 07/3 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-contrarians-what-now>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-07-03, from: The Contrarian
+
+Know Your ICE Agent 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-f8e>
 
 ---
 

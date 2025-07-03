@@ -1,11 +1,107 @@
 ---
 title: columns
-updated: 2025-07-03 06:08:22
+updated: 2025-07-03 14:07:36
 ---
 
 # columns
 
-(date: 2025-07-03 06:08:22)
+(date: 2025-07-03 14:07:36)
+
+---
+
+## A Reading List for America's Birthday.
+
+date: 2025-07-03, from: James Fallows, Substack
+
+Books, films, speeches, interviews on how we got here, and where else we can go. 
+
+<br> 
+
+<https://fallows.substack.com/p/a-reading-list-for-americas-birthday>
+
+---
+
+##  Hued is a daily game in the vein of Wordle/Spelling Bee where... 
+
+date: 2025-07-03, updated: 2025-07-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047080-hued-is-a-daily-game>
+
+---
+
+## July 2, 2025
+
+date: 2025-07-03, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167461541/7d65f6335fd925f2b5d40493ffe9f314.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167461541/7d65f6335fd925f2b5d40493ffe9f314.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-2-2025-2c5>
+
+---
+
+##  French artist Mantra paints photo-realistic murals that look like massive butterfly specimen... 
+
+date: 2025-07-03, updated: 2025-07-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047072-french-artist-mantra-pain>
+
+---
+
+##  There&#8217;s No Undo Button For Our Fallen Democracy 
+
+date: 2025-07-03, updated: 2025-07-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/theres-no-undo-button-for-our-fallen-democracy>
+
+---
+
+## CBS News: ‘Paramount, President Trump Reach $16 Million Settlement Over “60 Minutes” Lawsuit’
+
+date: 2025-07-03, updated: 2025-07-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.cbsnews.com/news/paramount-trump-60-minutes-lawsuit-settlement/>
+
+---
+
+##  I Will Do Anything to End Homelessness Except Build More Homes. &#8220;Look,... 
+
+date: 2025-07-03, updated: 2025-07-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047075-i-will-do-anything-to>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-03, from: Dave Winer's Scripting News)
+
+<a href="https://this.how/wordland/versions.opml#1751548301000">WordLand v0.5.17</a> -- Two changes with linkblog support. 
+
+<br> 
+
+<http://scripting.com/2025/07/03.html#a132234>
 
 ---
 
@@ -851,7 +947,7 @@ date: 2025-07-03, updated: 2025-07-03, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2025-07-03, from: Dave Winer's Scripting News)
 
-BTW, this is where we're going with WordLand. I think we can have a simpler social web that builds on simple open formats. That's the plan. I will make an instance of this to show it can be done, both sides, reading and writing. They will work wonderfully with each other. You can write a nice reader and/or writer and it will work with this simple network. Think of the MacWrite and MacPaint of the open social web. Enough to get the ball rolling. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/07/03/houseOfCards.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">BTW, this is where we're going with WordLand. We can have a nice social web that builds on simple open formats. I will make an instance of this to show it can be done, both sides, reading and writing. They will work wonderfully with each other. You can write a nice reader and/or writer and it will work with this simple network. A technological <a href="http://scripting.com/stories/2007/04/28/twitterAsCoralReef.html">coral reef</a>. Think of the MacWrite and MacPaint of the open social web. Enough to get the ball rolling. 
 
 <br> 
 
@@ -1085,7 +1181,7 @@ date: 2025-07-02, from: Jeff Geerling blog
 
 <span class="field field--name-title field--type-string field--label-hidden">You will own nothing and be happy (Stop Killing Games)</span>
 
-            <blockquote>
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><blockquote>
   <p><strong>tl;dr</strong>: If you're an EU citizen, <a href="https://eci.ec.europa.eu/045/public/#/screen/home">sign the Stop Killing Games initiative here</a>. Or, if you're in the UK, <a href="https://petition.parliament.uk/petitions/702074/">sign this petition</a>.</p>
 </blockquote>
 
@@ -1096,11 +1192,10 @@ date: 2025-07-02, from: Jeff Geerling blog
 <p>But it's not just self-hosting.</p>
 
 <blockquote>
-  <p><strong>Note</strong>: This blog post is a lightly edited transcript of my most recent YouTube video, <a href="https://www.youtube.com/watch?v=rAsgjKBkKMA">You will own NOTHING and be HAPPY (SKG)</a>.</p></blockquote>
+  <p><strong>Note</strong>: This blog post is a lightly edited transcript of my most recent YouTube video, <a href="https://www.youtube.com/watch?v=rAsgjKBkKMA">You will own NOTHING and be HAPPY (SKG)</a>.</p></blockquote></div>
       <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
-<span class="field field--name-created field--type-created field--label-hidden">July 2, 2025
-</span>
- 
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-07-02T11:25:10-05:00" title="Wednesday, July 2, 2025 - 11:25" class="datetime">July 2, 2025</time>
+</span> 
 
 <br> 
 

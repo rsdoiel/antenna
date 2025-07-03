@@ -1,11 +1,221 @@
 ---
 title: pacific
-updated: 2025-07-03 06:08:20
+updated: 2025-07-03 14:07:34
 ---
 
 # pacific
 
-(date: 2025-07-03 06:08:20)
+(date: 2025-07-03 14:07:34)
+
+---
+
+## In Pacific island societies, sharing isn’t just a nice gesture; it’s a moral obligation
+
+date: 2025-07-03, from: Pacific Island Times
+
+In a world increasingly shaped by individualism and market-driven values, the Pacific’s enduring ethic of sharing offers a compelling alternative: a cultural model where generosity and mutual obligation are embraced not as burdens, but as expressions of dignity, kinship and social integrity. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/in-pacific-island-societies-sharing-isn-t-just-a-nice-gesture-it-s-a-moral-obligation>
+
+---
+
+## Tinian’s growing geopolitical relevance receiving mixed reactions
+
+date: 2025-07-03, from: Pacific Island Times
+
+By Bryan Manabat   Saipan —As the Department of Defense moves forward with its billion-dollar investment plan to transform the pristine... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/tinian-s-growing-geopolitical-relevance-receiving-mixed-reactions>
+
+---
+
+## Snapshots of a journey around Guam
+
+date: 2025-07-03, from: Pacific Island Times
+
+As we visited sites commemorating WWII battles, the Marine beach assault locations affected me deeply. Seeing the iconic mountain backdrop in Hågat, captured by wartime photographers as they stormed the beach, I could envision the beach approaches and the fallen soldiers in the water. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/snapshots-of-a-journey-around-guam>
+
+---
+
+## A glimpse into the 2025 Pacific Mini Games - voices of athletes in Palau
+
+date: 2025-07-03, from: 
+
+Amid the action and energy in Palau on Thursday, RNZ Pacific caught up with a few athletes on the ground to hear about their experiences so far. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565920/a-glimpse-into-the-2025-pacific-mini-games-voices-of-athletes-in-palau>
+
+---
+
+## Congress passes Trump’s megabill
+
+date: 2025-07-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s tax-cut package cleared its final hurdle in the U.S. Congress today, as the Republican-controlled House of Representatives narrowly approved the massive bill and sent it to him to sign into law.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/03/nation-world-news/congress-passes-trumps-tax-cut-and-spending-bill/>
+
+---
+
+## New Safety Rules for Skateboards and Mopeds INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-07-03, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. &#160;</p>
+<p>The post <a href="https://www.pbshawaii.org/new-safety-rules-for-skateboards-and-mopeds-insights-on-pbs-hawai%ca%bbi/">New Safety Rules for Skateboards and Mopeds &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/new-safety-rules-for-skateboards-and-mopeds-insights-on-pbs-hawai%ca%bbi/>
+
+---
+
+## As trade war truce with China holds, US lifts curbs for chip design software and ethane
+
+date: 2025-07-03, updated: 2025-07-03, from: Marianas Variety
+
+NEW YORK (Reuters) — The United States has lifted restrictions on exports to China for chip design software developers and ethane producers, a further sign of de-escalating U.S.-Sino trade tensions including concessions from Beijing over rare earths. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/as-trade-war-truce-with-china-holds-us-lifts-curbs-for-chip-design-software-and/article_a23c995b-e69b-4963-92d0-63a871599bea.html>
+
+---
+
+## AK Saipan launches ‘Corolla Miles That Matter’ social media campaign
+
+date: 2025-07-03, updated: 2025-07-03, from: Marianas Variety
+
+(Special Advertising Feature) — Atkins Kroll, Inc. is proud to announce the launch of “Corolla Miles That Matter,” a community engagement campaign designed to honor the drivers, families, and stories behind one of Saipan’s most trusted vehicles: the Toyota Corolla. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/ak-saipan-launches-corolla-miles-that-matter-social-media-campaign/article_d39d35a1-f03f-44dc-b5e2-00a75def9709.html>
+
+---
+
+## JKPL celebrates successful completion of phase 1 of ‘Color Our World’ Summer Reading Program”
+
+date: 2025-07-03, updated: 2025-07-03, from: Marianas Variety
+
+(JKPL) — Joeten-Kiyu Public Library proudly announces the successful completion of the first phase of its 2025 “Color Our World” Summer Reading Program, held from June 17 to June 27, 2025. The program welcomed over 90 children during our ages 6–12 program, who engaged in enriching activities designed to spark creativity, promote literacy, and encourage community connection. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/jkpl-celebrates-successful-completion-of-phase-1-of-color-our-world-summer-reading-program/article_89ebe410-586b-491b-8f17-8f1f2fad88ac.html>
+
+---
+
+## Scheduled water service interruption for Kagman on July 7
+
+date: 2025-07-03, updated: 2025-07-03, from: Marianas Variety
+
+(Commonwealth Utilities Corporation) — There will be a scheduled water service interruption on Monday, July 7, from 9 a.m. to 2 p.m. in Kagman. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/scheduled-water-service-interruption-for-kagman-on-july-7/article_72ed239a-1516-4062-b364-1ac4c249199c.html>
+
+---
+
+## Latest issue of ‘From Capitol Hill: Across the Agencies Newsletter’ now available
+
+date: 2025-07-03, updated: 2025-07-03, from: Marianas Variety
+
+(Office of the Governor) — “From Capitol Hill: Across the Agencies – July 2025, Volume 12” is now available! 
+
+<br> 
+
+<https://www.mvariety.com/news/local/latest-issue-of-from-capitol-hill-across-the-agencies-newsletter-now-available/article_77f4df91-82a9-434a-9ede-9be55b187e39.html>
+
+---
+
+## COTA: Fixed Route Blue Line 1B buses to follow detour route
+
+date: 2025-07-03, updated: 2025-07-03, from: Marianas Variety
+
+ON Friday, July 4, 2025, due to the Beach Road closure for the Liberation Day parade, the Fixed Route Blue Line 1B buses of the Commonwealth Office of Transit Authority will follow a detour route. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cota-fixed-route-blue-line-1b-buses-to-follow-detour-route/article_f83c20d2-566f-4de9-9553-f59ab94781cb.html>
+
+---
+
+## CNMI DOL to hold job fair on July 25
+
+date: 2025-07-03, updated: 2025-07-03, from: Marianas Variety
+
+(CNMI DOL) — The CNMI Department of Labor will hold a job fair on Friday, July 25, 2025, from 9 a.m. to 3 p.m. at the Marianas Beach Resort (formerly Hyatt). 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-dol-to-hold-job-fair-on-july-25/article_04002e4b-eac1-4c26-a0e7-ec79fc2e14f4.html>
+
+---
+
+## Scheduled power service interruption for Rota on July 8
+
+date: 2025-07-03, updated: 2025-07-03, from: Marianas Variety
+
+(Commonwealth Utilities Corporation) — There will be a scheduled power service interruption on Rota, Tuesday, July 8, from 8 a.m. to 12:30 p.m. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/scheduled-power-service-interruption-for-rota-on-july-8/article_16ecf050-da38-4975-98d9-1b5798a687aa.html>
+
+---
+
+## The problem isn’t revenue. It’s spending.
+
+date: 2025-07-03, updated: 2025-07-03, from: Marianas Variety
+
+Sticky-fingered politicians 
+
+<br> 
+
+<https://www.mvariety.com/views/editorials/the-problem-isn-t-revenue-it-s-spending/article_c876a8ba-da1f-42dd-b2f5-16f049dc074d.html>
+
+---
+
+## Poetry
+
+date: 2025-07-03, updated: 2025-07-03, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_72ed92d3-fbe2-4b99-b6c3-bf4b66f02428.html>
+
+---
+
+## 16 new UH grads
+
+date: 2025-07-03, from: Marshal Islands Journal
+
+<p>Sixteen Marshallese graduated last weekend in Majuro with the master’s degrees from a University of Hawaii program. This was the fourth group in the Pacific Master’s in Education program run by the University of Hawaii at Manoa. The graduation was held at the USP Campus. The group of 16 included one from Jaluit, Tom Phillimon, [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/16-new-uh-grads/">16 new UH grads</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/16-new-uh-grads/>
 
 ---
 
@@ -304,6 +514,20 @@ date: 2025-07-03, from:
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/565853/bougainville-pins-hopes-on-melanesian-agreement-for-independence>
+
+---
+
+## N-POC Organises Session II of its Qualitative Data Analysis Workshop
+
+date: 2025-07-03, from: University of the South Pacific (Fiji)
+
+<p>The Norway-Pacific Ocean-Climate Scholarship Programme (N-POC) at The University of the South Pacific (USP) wrapped...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/n-poc-organises-session-ii-of-its-qualitative-data-analysis-workshop/">N-POC Organises Session II of its Qualitative Data Analysis Workshop</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/n-poc-organises-session-ii-of-its-qualitative-data-analysis-workshop/>
 
 ---
 

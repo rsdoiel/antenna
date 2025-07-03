@@ -1,11 +1,119 @@
 ---
 title: ham radio
-updated: 2025-07-03 06:08:20
+updated: 2025-07-03 14:07:34
 ---
 
 # ham radio
 
-(date: 2025-07-03 06:08:20)
+(date: 2025-07-03 14:07:34)
+
+---
+
+## AI-focused MCUs embed neural processor
+
+date: 2025-07-03, from: EDN Blog
+
+<img width="800" height="445" src="https://www.edn.com/wp-content/uploads/Renesas-RA8P1.jpg?fit=800%2C445" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Renesas-RA8P1.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Renesas-RA8P1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Renesas-RA8P1.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Aimed at AI/ML applications, Renesas’ RA8P1 MCUs leverage an Arm Ethos-U55 neural processing unit (NPU) delivering 256 GOPS at 500 MHz. </p>
+<p>The post <a href="https://www.edn.com/ai-focused-mcus-embed-neural-processor/">AI-focused MCUs embed neural processor</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/ai-focused-mcus-embed-neural-processor/>
+
+---
+
+## Off-line converter trims component count
+
+date: 2025-07-03, from: EDN Blog
+
+<img width="700" height="465" src="https://www.edn.com/wp-content/uploads/STMicro-VIPER11B.jpg?fit=700%2C465" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/STMicro-VIPER11B.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/STMicro-VIPER11B.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>ST’s VIPER11B voltage converter integrates an 800-V avalanche-rugged MOSFET to power smart home and lighting applications up to 8 W.</p>
+<p>The post <a href="https://www.edn.com/off-line-converter-trims-component-count/">Off-line converter trims component count</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/off-line-converter-trims-component-count/>
+
+---
+
+## MLCC saves board space in vehicle designs
+
+date: 2025-07-03, from: EDN Blog
+
+<img width="700" height="442" src="https://www.edn.com/wp-content/uploads/Murata-GCM21.jpg?fit=700%2C442" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Murata-GCM21.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Murata-GCM21.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>Designed for automotive use, Murata’s 50-V MLCC delivers higher capacitance in a compact 0805-size SMD package.</p>
+<p>The post <a href="https://www.edn.com/mlcc-saves-board-space-in-vehicle-designs/">MLCC saves board space in vehicle designs</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/mlcc-saves-board-space-in-vehicle-designs/>
+
+---
+
+## Isolated driver enables fast, stable GaN control
+
+date: 2025-07-03, from: EDN Blog
+
+<img width="800" height="489" src="https://www.edn.com/wp-content/uploads/Rohm-BM6GD.jpg?fit=800%2C489" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Rohm-BM6GD.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Rohm-BM6GD.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Rohm-BM6GD.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Rohm has introduced the BM6GD11BFJ-LB, an isolated gate driver optimized for 600-V-class GaN HEMTs in industrial equipment.</p>
+<p>The post <a href="https://www.edn.com/isolated-driver-enables-fast-stable-gan-control/">Isolated driver enables fast, stable GaN control</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/isolated-driver-enables-fast-stable-gan-control/>
+
+---
+
+## Primemas unveils CXL 3.0 SoC controller
+
+date: 2025-07-03, from: EDN Blog
+
+<img width="800" height="458" src="https://www.edn.com/wp-content/uploads/Primemas-CXL-controller.jpg?fit=800%2C458" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Primemas-CXL-controller.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Primemas-CXL-controller.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Primemas-CXL-controller.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Primemas, a fabless company specializing in SoC Hublets (hub chiplets), is now sampling its Compute Express Link (CXL) 3.0 memory controller.</p>
+<p>The post <a href="https://www.edn.com/primemas-unveils-cxl-3-0-soc-controller/">Primemas unveils CXL 3.0 SoC controller</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/primemas-unveils-cxl-3-0-soc-controller/>
+
+---
+
+## 2025 ARRL Field Day a Success
+
+date: 2025-07-03, from: Amateur Radio Relay League News
+
+<p>Tens of thousands of hams are celebrating a successful 2025 ARRL Field Day! The largest annual amateur radio event is also one of the most beloved, as shown by countless social media posts. Activity was high, with 1536 sites in the ARRL Field Day Site Locator, and that doesn’t even count home stations, portable operations, or other participants.</p><p>“There’s a reason that hams look forward to ARRL F...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/2025-arrl-field-day-a-success>
+
+---
+
+## ARRL Headquarters Will be Closed on Independence Day, Friday, July 4
+
+date: 2025-07-03, from: Amateur Radio Relay League News
+
+<p>ARRL The National Association for Amateur Radio® Headquarters will be closed on Friday July 4, 2025, for the Independence Day holiday. There will be no W1AW bulletin or code practice transmissions on that day. ARRL Headquarters will reopen on Monday July 7, at 8 AM ET. We wish everyone a festive and safe holiday!</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-headquarters-will-be-closed-on-independence-day-friday-july-4>
+
+---
+
+## Push ON, Push OFF for AC voltages
+
+date: 2025-07-03, from: EDN Blog
+
+<img width="904" height="543" src="https://www.edn.com/wp-content/uploads/PushOn-PushOFF_Figure2.png?fit=904%2C543" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/PushOn-PushOFF_Figure2.png?w=904 904w, https://www.edn.com/wp-content/uploads/PushOn-PushOFF_Figure2.png?w=300 300w, https://www.edn.com/wp-content/uploads/PushOn-PushOFF_Figure2.png?w=768 768w" sizes="auto, (max-width: 904px) 100vw, 904px" /><p>Extending Woodward's original "Flip ON Flop OFF" for AC voltages, switching power ON and OFF using a pushbutton or a solid-state relay. </p>
+<p>The post <a href="https://www.edn.com/push-on-push-off-for-ac-voltages/">Push ON, Push OFF for AC voltages</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/push-on-push-off-for-ac-voltages/>
 
 ---
 
@@ -13,7 +121,7 @@ updated: 2025-07-03 06:08:20
 
 date: 2025-07-03, from: EDN Blog
 
-<img width="1200" height="627" src="https://www.edn.com/wp-content/uploads/Hero-image-16.jpg?fit=1200%2C627" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-16.jpg?w=1200 1200w, https://www.edn.com/wp-content/uploads/Hero-image-16.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-16.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-16.jpg?w=1024 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /><p>Blue Cheetah will bring Tenstorrent interconnect IPs and analog/mixed-signal expertise critical in chiplet design.</p>
+<img width="1200" height="627" src="https://www.edn.com/wp-content/uploads/Hero-image-16.jpg?fit=1200%2C627" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-16.jpg?w=1200 1200w, https://www.edn.com/wp-content/uploads/Hero-image-16.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-16.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-16.jpg?w=1024 1024w" sizes="auto, (max-width: 1200px) 100vw, 1200px" /><p>Blue Cheetah will bring Tenstorrent interconnect IPs and analog/mixed-signal expertise critical in chiplet design.</p>
 <p>The post <a href="https://www.edn.com/tenstorrents-blue-cheetah-deal-a-harbinger-of-chiplet-acquisition-spree/">Tenstorrent’s Blue Cheetah deal a harbinger of chiplet acquisition spree</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 
@@ -27,7 +135,7 @@ date: 2025-07-03, from: EDN Blog
 
 date: 2025-07-02, from: EDN Blog
 
-<img width="800" height="800" src="https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?fit=800%2C800" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?w=150 150w, https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Here are some insights on RC snubber circuits along with a few handy tips for inductive load suppression.</p>
+<img width="800" height="800" src="https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?fit=800%2C800" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?w=150 150w, https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/0-RC-Snubbers-Hunter-AC-Solenoid_Intro-Art_TK.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Here are some insights on RC snubber circuits along with a few handy tips for inductive load suppression.</p>
 <p>The post <a href="https://www.edn.com/a-hands-on-guide-for-rc-snubbers-and-inductive-load-suppression/">A hands-on guide for RC snubbers and inductive load suppression</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

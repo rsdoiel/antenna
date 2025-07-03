@@ -1,11 +1,35 @@
 ---
 title: libraries
-updated: 2025-07-03 06:08:25
+updated: 2025-07-03 14:07:38
 ---
 
 # libraries
 
-(date: 2025-07-03 06:08:25)
+(date: 2025-07-03 14:07:38)
+
+---
+
+## The Man in Lower Ten, by Mary Roberts Rinehart
+
+date: 2025-07-03, from: Standard Ebooks, new releaases
+
+A young attorney is on his way to deliver evidence for a forgery case when he’s accused of killing a fellow train passenger. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/mary-roberts-rinehart/the-man-in-lower-ten>
+
+---
+
+## The Room in the Dragon Volant, by J. Sheridan Le Fanu
+
+date: 2025-07-03, from: Standard Ebooks, new releaases
+
+After an Englishman traveling in France meets a mysterious woman, he becomes embroiled in a dangerous intrigue. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant>
 
 ---
 
@@ -32,6 +56,18 @@ Weinold, Michael
 <br> 
 
 <http://hdl.handle.net/20.500.11850/742383>
+
+---
+
+## EUCLID-TOP
+
+date: 2025-07-03, from: ETH Zurich, recently added
+
+Ghouli, Saeid; Flaschel, Moritz; Kumar, Siddhant; De Lorenzis, Laura 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/743656>
 
 ---
 

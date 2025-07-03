@@ -1,11 +1,175 @@
 ---
 title: snapshots
-updated: 2025-07-03 06:08:30
+updated: 2025-07-03 14:07:42
 ---
 
 # snapshots
 
-(date: 2025-07-03 06:08:30)
+(date: 2025-07-03 14:07:42)
+
+---
+
+## Frequently Asked Questions (And Answers) About AI Evals
+
+date: 2025-07-03, updated: 2025-07-03, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://hamel.dev/blog/posts/evals-faq/">Frequently Asked Questions (And Answers) About AI Evals</a></strong></p>
+Hamel Husain and Shreya Shankar have been running a paid, cohort-based course on <a href="https://maven.com/parlance-labs/evals">AI Evals For Engineers &amp; PMs</a> over the past few months. Here Hamel collects answers to the most common questions asked during the course.</p>
+<p>There's a ton of actionable advice in here. I continue to believe that a robust approach to evals is the single most important distinguishing factor between well-engineered, reliable AI systems and YOLO cross-fingers and hope it works development.</p>
+<p>Hamel says:</p>
+<blockquote>
+<p>It’s important to recognize that evaluation is part of the development process rather than a distinct line item, similar to how debugging is part of software development. [...]</p>
+<p>In the projects we’ve worked on, <strong>we’ve spent 60-80% of our development time on error analysis and evaluation</strong>. Expect most of your effort to go toward understanding failures (i.e. looking at data) rather than building automated checks.</p>
+</blockquote>
+<p>I found this tip to be useful and surprising:</p>
+<blockquote>
+<p>If you’re passing 100% of your evals, you’re likely not challenging your system enough. A 70% pass rate might indicate a more meaningful evaluation that’s actually stress-testing your application.</p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44430117">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/hamel-husain">hamel-husain</a>, <a href="https://simonwillison.net/tags/evals">evals</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/3/faqs-about-ai-evals/#atom-everything>
+
+---
+
+## Trial Court Decides Case Based On AI-Hallucinated Caselaw
+
+date: 2025-07-03, updated: 2025-07-03, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://abovethelaw.com/2025/07/trial-court-decides-case-based-on-ai-hallucinated-caselaw/">Trial Court Decides Case Based On AI-Hallucinated Caselaw</a></strong></p>
+Joe Patrice writing for Above the Law:</p>
+<blockquote>
+<p>[...] it was always only a matter of time before a poor litigant representing themselves fails to know enough to sniff out and flag <em>Beavis v. Butthead</em> and a busy or apathetic judge rubberstamps one side’s proposed order without probing the cites for verification. [...]</p>
+<p>It finally happened with a trial judge issuing an order based off fake cases (<a href="https://x.com/RobertFreundLaw/status/1939805015423820183">flagged by Rob Freund</a>). While the appellate court put a stop to the matter, the fact that it got this far should terrify everyone.</p>
+</blockquote>
+<p>It's already listed in the <a href="https://www.damiencharlotin.com/hallucinations/?sort_by=-date&amp;states=USA&amp;period_idx=0">AI Hallucination Cases database</a> (now listing 168 cases, it was 116 when I first wrote about it <a href="https://simonwillison.net/2025/May/25/ai-hallucination-cases/">on 25th May</a>) which lists a $2,500 monetary penalty.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/law">law</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/hallucinations">hallucinations</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/3/trial-court-decides-case-based-on-ai-hallucinated-caselaw/#atom-everything>
+
+---
+
+## I built something that changed my friend group's social fabric
+
+date: 2025-07-03, updated: 2025-07-03, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/">I built something that changed my friend group&#x27;s social fabric</a></strong></p>
+I absolutely love this as an illustration of the thing where the tiniest design decisions in software can have an outsized effect on the world.</p>
+<p>Dan Petrolito noticed that his friend group weren't chatting to each other using voice chat on their Discord server because they usually weren't online at the same time. He wired up a ~20 lines of Python Discord bot to turn people joining the voice channel into a message that could be received as a notification and had a huge uptick in conversations between the group, lasting several years.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44403988">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/social-software">social-software</a>, <a href="https://simonwillison.net/tags/discord">discord</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/3/i-built-something-that-changed-my-friend-groups-social-fabric/#atom-everything>
+
+---
+
+## Daily Deals (7-03-2025)
+
+date: 2025-07-03, from: Liliputing
+
+<p>Ahead of Prime Day, Amazon Prime Video is offering discounts on a bunch of premium channels. You can snag subscriptions to STARZ, AMC+, MGM+, Acorn, Britbox, Crunchyroll, and other channels for $1 per month for up to 2 months. Or you can snag an Apple TV+ subscription for half price for up to 2 months, [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/daily-deals-7-03-2025/">Daily Deals (7-03-2025)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/daily-deals-7-03-2025/>
+
+---
+
+## Bluefox NX1 global edition goes up for pre-order for $99 (Smartphone with a 4 inch display)
+
+date: 2025-07-03, from: Liliputing
+
+<p>The Bluefox NX1 is a budget smartphone with something you don&#8217;t see very often on other modern phones: a small screen. It has a 4 inch, 1168 x 540 pixel IPS LCD display and a body that measures 100.6 x 39.4 x 12.5mm and weighs just 106 grams, making it smaller and lighter than most phones [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/bluefox-nx1-global-edition-goes-up-for-pre-order-for-99-smartphone-with-a-4-inch-display/">Bluefox NX1 global edition goes up for pre-order for $99 (Smartphone with a 4 inch display)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/bluefox-nx1-global-edition-goes-up-for-pre-order-for-99-smartphone-with-a-4-inch-display/>
+
+---
+
+## Something to Fear and Embrace
+
+date: 2025-07-03, updated: 2025-07-03, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/07/03/something-to-fear-and-embrace/>
+
+---
+
+## Who Defends Your Digital Rights? 
+
+date: 2025-07-03, from: Guy Kawasaki blog
+
+Meet EFF's Cindy Cohn. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/who-defends-your-digital-rights>
+
+---
+
+## Spanfelled
+
+date: 2025-07-03, updated: 2025-07-03, from: Tedium site
+
+G/O Media, the company that tried to get Deadspin to stick to sports, bows out. They leave behind a scrappier media ecosystem with more business-savvy writers. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17068646/go-media-jim-spanfeller-gawker-influence>
+
+---
+
+## Sandboxed tools in a loop
+
+date: 2025-07-03, updated: 2025-07-03, from: Simon Willison’s Weblog
+
+<p>Something I've realized about <a href="https://simonwillison.net/tags/llm-tool-use/">LLM tool use</a> is that it means that if you can reduce a problem to something that can be solved by an LLM in a sandbox using tools in a loop, you can brute force that problem.</p>
+<p>The challenge then becomes identifying those problems and figuring out how to configure a sandbox for them, what tools to provide and how to define the success criteria for the model.</p>
+<p>That still takes significant skill and experience, but it's at a higher level than chewing through that problem using trial and error by hand.</p>
+<p>My <a href="https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/">x86 assembly experiment</a> with Claude Code was the thing that made this click for me.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/sandboxing">sandboxing</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/3/sandboxed-tools-in-a-loop/#atom-everything>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-07-03, from: Feed for Alt USDS)
+
+Leader @hakeem-jeffries.bsky.social began speaking at 4:53am and is currently reading messages from Americans who are terrified about the reconciliation bill. Take a listen ⤵️
+
+Do you have a story to tell? Reach out to us: submissions@wethebuilders.org
+
+@dpcc.house.gov
+https://www.youtube.com/watch?v=3pbFrchqNY8 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lt2wogtqj22d>
 
 ---
 

@@ -1,11 +1,127 @@
 ---
 title: home
-updated: 2025-07-03 06:08:26
+updated: 2025-07-03 14:07:39
 ---
 
 # home
 
-(date: 2025-07-03 06:08:26)
+(date: 2025-07-03 14:07:39)
+
+---
+
+## 11 Projects That Can Lower Your Home Insurance Rates
+
+date: 2025-07-03, from: Family Handyman Blog
+
+<p>Complete these home projects for potential home insurance savings.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/projects-lower-your-home-insurance-rate/">11 Projects That Can Lower Your Home Insurance Rates</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/projects-lower-your-home-insurance-rate/>
+
+---
+
+## 14 Things You Should Do When You Find a Burst Pipe
+
+date: 2025-07-03, from: Family Handyman Blog
+
+<p>A burst pipe is the last thing anyone wants to tackle. But there are some quick temporary fixes you can do to slow the impact of a burst pipe.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/what-to-do-when-pipe-burst/">14 Things You Should Do When You Find a Burst Pipe</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/what-to-do-when-pipe-burst/>
+
+---
+
+## 250,000 Stellantis Cars Recalled Over Faulty Airbags
+
+date: 2025-07-03, from: Family Handyman Blog
+
+<p>Is your Stellantis on the recall list? Find out here.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/stellantis-airbag-recall/">250,000 Stellantis Cars Recalled Over Faulty Airbags</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/stellantis-airbag-recall/>
+
+---
+
+## Rental Revamp: How a Creator Found a Flat in London’s Tight Housing Market—and Made It Her Own
+
+date: 2025-07-03, from: Dwell
+
+For Kristabel Plummer, the London Living Rent program was the key to locking down a long-term one bedroom for several hundred pounds less than similar units in the area. 
+
+<br> 
+
+<https://www.dwell.com/article/rental-revamp-kristabel-plummer-apartment-london-living-rent-program-bfa8a00b>
+
+---
+
+## The Loft in This Madrid Flat Hangs From the Ceiling With a Metal Truss
+
+date: 2025-07-03, from: Dwell
+
+The level is cradled by a network of tubes and accessed by an equally efficient stair. 
+
+<br> 
+
+<https://www.dwell.com/article/casa-cometa-bardo-loft-renovation-collapsing-roof-38dad88d>
+
+---
+
+## This $900K Cottage Is a Little Slice of Scandinavia Near Joshua Tree
+
+date: 2025-07-03, from: Dwell
+
+The renovated ’50s home has Japandi interiors, an original brick fireplace, a pool, and prime access to the high desert landscape. 
+
+<br> 
+
+<https://www.dwell.com/article/heiwa-cottage-nickey-kehoe-japandi-renovation-joshua-tree-real-estate-0ecd59c4>
+
+---
+
+## From the Archive: Wait, Frank Lloyd Wright’s Son Invented Lincoln Logs?
+
+date: 2025-07-03, from: Dwell
+
+Of course a famous architect’s offspring created a toy that for over 100 years has fostered an interest in building at an early age. 
+
+<br> 
+
+<https://www.dwell.com/article/from-the-archive-wait-frank-lloyd-wrights-son-invented-lincoln-logs-3bcf913f>
+
+---
+
+## $600 million for CDFA in new budget year
+
+date: 2025-07-03, from: Calfifornia Dept. Aggriculture blog
+
+The state budget signed by Governor Newsom for 2025-2026 includes $600 million for CDFA programs, between baseline funding for core programs and new funding for the following projects: Animal and Human Health Emergency Infrastructure:&#160;The budget includes&#160;$6.1&#160;million&#160;and 29 positions to allow CDFA to &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29084">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29084>
+
+---
+
+## How To Remove Yucca Plants from the Landscape
+
+date: 2025-07-03, from: The Gardener's Path
+
+<p>Whether they’re outgrowing their space, clashing with your landscape, or posing a hazard with their sharp, rigid leaves, yucca plants can sometimes require removal. But these persistent succulents can be difficult to get rid of unless you do the job properly. Learn how to remove yucca plants in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/remove-yucca/">How To Remove Yucca Plants from the Landscape</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/remove-yucca/>
 
 ---
 
@@ -18,6 +134,18 @@ The country’s seminomadic herders have used tentlike, portable homes for mille
 <br> 
 
 <https://www.dwell.com/article/mongolian-ger-nomadic-homes-photo-essay-30f87ff3>
+
+---
+
+## Everybody Now Loves... Brown?
+
+date: 2025-07-03, from: Dwell
+
+If you’re tired of gray, and white walls bore you, surrender to embrace of something warmer. 
+
+<br> 
+
+<https://www.dwell.com/article/why-is-brown-popular-f868122f>
 
 ---
 
@@ -364,7 +492,7 @@ date: 2025-07-02, from: California Grown
 
 date: 2025-07-01, from: California Grown
 
-<p>In the heart of San Luis Obispo’s growing wine scene, El Lugar Wines is crafting wines with a deep sense of place. Founded by Coby Parker-Garcia and his wife Katie Noonan, El Lugar focuses on small-lot, vineyard-designate Pinot Noir that truly captures the essence of its origins.&#160; The winery&#8217;s name perfectly encapsulates its philosophy. &#8220;El [&#8230;]</p>
+<p>In the heart of San Luis Obispo’s growing wine scene, El Lugar Wines is crafting wines with a deep sense of place. Founded by Coby Parker-Garcia and his wife Katie Noonan, El Lugar focuses on small-lot, vineyard-designate Pinot Noir that truly captures the essence of its origins.  The winery&#8217;s name perfectly encapsulates its philosophy. &#8220;El [&#8230;]</p>
 <p>The post <a href="https://californiagrown.org/blog/el-lugar-wines/" data-wpel-link="internal" target="_self">For El Lugar Wines, San Luis Obispo Coast Is Truly The Place</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
  
 
@@ -407,6 +535,18 @@ From self-cleaning varieties to smart timing tricks, here's how to do less work 
 <br> 
 
 <https://www.sunset.com/home-garden/garden-basics/deadheading-tips>
+
+---
+
+## Take Over a Sustainable Inn With Eight Chalets in Rio de Janeiro for $2.7M
+
+date: 2025-07-01, from: Dwell
+
+A stunning self-sufficient paradise awaits with six natural springs, trout tanks, solar energy, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-sustainable-inn-rio-de-janeiro-real-estate-717029c3>
 
 ---
 

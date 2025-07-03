@@ -1,11 +1,151 @@
 ---
 title: food
-updated: 2025-07-03 06:08:28
+updated: 2025-07-03 14:07:41
 ---
 
 # food
 
-(date: 2025-07-03 06:08:28)
+(date: 2025-07-03 14:07:41)
+
+---
+
+## I Made Giada de Laurentiis’s Lemon Raspberry Sheet Cake, and It Was Perfect for a Party
+
+date: 2025-07-03, from: Taste of Home
+
+<p>Giada de Laurentiis's lemon raspberry sheet cake is the ideal summer dessert for a party! It's easy, seasonal and absolutely beautiful on a sweets table.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/giada-de-laurentiis-lemon-raspberry-sheet-cake/">I Made Giada de Laurentiis&#8217;s Lemon Raspberry Sheet Cake, and It Was Perfect for a Party</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/giada-de-laurentiis-lemon-raspberry-sheet-cake/>
+
+---
+
+## Big & Buttery Chocolate Chip Cookies
+
+date: 2025-07-03, from: Taste of Home
+
+I developed this recipe for the Taste of Home Test Kitchen. It's our signature chocolate chip cookie that's big, thick and chewy—perfect for dunking. —Irene Yeh, Mequon, Wisconsin 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/big-buttery-chocolate-chip-cookies/>
+
+---
+
+## I Recreated the Disney Blue Ribbon Corn Dogs So You Can Have a Taste of Disney at Home
+
+date: 2025-07-03, from: Taste of Home
+
+<p>A hot dog inside of a pickle inside of crispy corn dog batter? Dipped in peanut butter? Here's how and why to make Disney Blue Ribbon Corn Dogs at home.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/disney-blue-ribbon-corn-dogs/">I Recreated the Disney Blue Ribbon Corn Dogs So You Can Have a Taste of Disney at Home</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/disney-blue-ribbon-corn-dogs/>
+
+---
+
+## Ina Garten’s Tips for Perfectly Roasted Summer Vegetables
+
+date: 2025-07-03, from: Taste of Home
+
+<p>Ina Garten's roasted vegetable tips will save your summer meal prep. Use her three key reminders to elevate every kind of vegetable dish.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ina-garten-roasted-vegetable-tips/">Ina Garten&#8217;s Tips for Perfectly Roasted Summer Vegetables</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ina-garten-roasted-vegetable-tips/>
+
+---
+
+## The Best Nakiri Knife for Slicing Vegetables Beautifully (2025)
+
+date: 2025-07-03, from: Bon Appetet
+
+It’s sturdy and sharp, and it feels like the perfect extension of your hand. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-nakiri-knife>
+
+---
+
+## Grilled Stuffed Zucchini
+
+date: 2025-07-03, from: Taste of Home
+
+Grilled stuffed zucchini is filled with a light and savory blend of sauteed vegetables, breadcrumbs, melty cheese and fresh mint. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/stuffed-grilled-zucchini/>
+
+---
+
+## Obscure Coffee Roasters Shines a Light on Puerto Rican Coffee in Brooklyn
+
+date: 2025-07-03, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Obscure-coffee-brewed-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Obscure Coffee 2025" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Obscure-coffee-brewed-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Obscure-coffee-brewed-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Obscure-coffee-brewed-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Obscure-coffee-brewed-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Obscure-coffee-brewed.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The first brick-and-mortar cafe from three-year-old Obscure Coffee Roasters is open for business in Brooklyn, New York, offering coffees that shine brightly in the cup.&#160; Located at the entrance... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/03/obscure-coffee-roasters-shines-a-light-on-puerto-rican-coffee-in-brooklyn/>
+
+---
+
+## The Best Pellet Smokers for Easy Wood-Fired Cooking (2025)
+
+date: 2025-07-03, from: Bon Appetet
+
+Why obsess over a fire when the grill can do that for you? 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-pellet-smokers>
+
+---
+
+## Single O Arrives In Central Tokyo With New Yurakucho Cafe
+
+date: 2025-07-03, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Single O Yurakucho is the latest Tokyo cafe for the Australian coffee company. 
+
+<br> 
+
+<https://sprudge.com/single-o-arrives-in-central-tokyo-with-new-yurakucho-cafe-370450.html>
+
+---
+
+## Morning Brew: The Grateful Dead And Verve Coffee On The Coffee Sprudgecast
+
+date: 2025-07-03, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Coffee Sprudgecast is available wherever you get your podcasts. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/flac" src="https://archive.org/details/gd1983-09-24.163639.senn421.vita.miller.clugston.flac1648/gd83-09-24+s1t10+Day+Job.flac"></source>
+</audio> <a href="https://archive.org/details/gd1983-09-24.163639.senn421.vita.miller.clugston.flac1648/gd83-09-24+s1t10+Day+Job.flac" target="_blank">download audio/flac</a><br> 
+
+<https://sprudge.com/morning-brew-the-grateful-dead-and-verve-coffee-on-the-coffee-sprudgecast-364134.html>
+
+---
+
+## Roastery Equipment Maker Sovda Names Brice Sturmer CEO
+
+date: 2025-07-03, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Sovda_Quarter_Horse_May_25_EE-85-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Sovda_Quarter_Horse_May_25_EE-85" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Sovda_Quarter_Horse_May_25_EE-85-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Sovda_Quarter_Horse_May_25_EE-85-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Sovda_Quarter_Horse_May_25_EE-85-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Sovda_Quarter_Horse_May_25_EE-85-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Sovda_Quarter_Horse_May_25_EE-85.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Coffee roasting equipment maker Sovda (styled &#8220;SOVDA&#8221; by the company) recently appointed Brice Sturmer as CEO.&#160; Sturmer, the founder of Michigan-based specialty coffee company Velodrome Coffee Company, succeeds Chris... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/03/roastery-equipment-maker-sovda-names-brice-sturmer-ceo/>
 
 ---
 
@@ -18,6 +158,20 @@ date: 2025-07-03, from: The Sprudge
 <br> 
 
 <https://sprudge.com/driving-while-espresso-with-the-new-audi-q7-signature-edition-369762.html>
+
+---
+
+## This Is How Maraschino Cherries Turn Neon Red
+
+date: 2025-07-03, from: Taste of Home
+
+<p>Electric red and syrupy sweet maraschino cherries don't exactly look natural, but their neon color connotes cheerful nostalgia. Here's how maraschinos are made.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/why-are-maraschino-cherries-so-red/">This Is How Maraschino Cherries Turn Neon Red</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/why-are-maraschino-cherries-so-red/>
 
 ---
 
@@ -143,7 +297,7 @@ date: 2025-07-02, from: The Sprudge
 
 date: 2025-07-02, from: Daily Coffee News
 
-<div><img width="620" height="431" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/LDC-Brazil-coffee-processing-center-620x431.jpg" class="attachment-large size-large wp-post-image" alt="LDC Brazil coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/LDC-Brazil-coffee-processing-center-620x431.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/LDC-Brazil-coffee-processing-center-300x209.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/LDC-Brazil-coffee-processing-center-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/LDC-Brazil-coffee-processing-center-768x534.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/LDC-Brazil-coffee-processing-center.jpg 1006w" sizes="(max-width: 620px) 100vw, 620px" /></div>Louis Dreyfus Company (LDC) officially inaugurated its expanded green coffee processing facility in Varginha, Minas Gerais, completing a major investment in the company’s longstanding Brazilian coffee operations. The expansion adds... 
+<div><img width="620" height="431" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/LDC-Brazil-coffee-processing-center-620x431.jpg" class="attachment-large size-large wp-post-image" alt="LDC Brazil coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/LDC-Brazil-coffee-processing-center-620x431.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/LDC-Brazil-coffee-processing-center-300x209.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/LDC-Brazil-coffee-processing-center-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/LDC-Brazil-coffee-processing-center-768x534.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/LDC-Brazil-coffee-processing-center.jpg 1006w" sizes="(max-width: 620px) 100vw, 620px" /></div>Louis Dreyfus Company (LDC) officially inaugurated its expanded green coffee processing facility in Varginha, Minas Gerais, completing a major investment in the company’s longstanding Brazilian coffee operations. The expansion adds... 
 
 <br> 
 
@@ -179,7 +333,7 @@ Hold the beef. With summer produce, it’s unneeded.
 
 date: 2025-07-02, from: Daily Coffee News
 
-<div><img width="620" height="403" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Archer-and-Co-Coffee-Hebron-1-620x403.jpeg" class="attachment-large size-large wp-post-image" alt="Archer and Co Coffee Hebron 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Archer-and-Co-Coffee-Hebron-1-620x403.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Archer-and-Co-Coffee-Hebron-1-300x195.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Archer-and-Co-Coffee-Hebron-1-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Archer-and-Co-Coffee-Hebron-1-768x499.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Archer-and-Co-Coffee-Hebron-1.jpeg 1005w" sizes="(max-width: 620px) 100vw, 620px" /></div>A trio of women in Hebron, Kentucky, decided to shoot their shot with the launch of Archer &#38; Co. Roasters, a new small-batch direct-to-consumer and wholesale roasting company.&#160; Launched last... 
+<div><img width="620" height="403" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Archer-and-Co-Coffee-Hebron-1-620x403.jpeg" class="attachment-large size-large wp-post-image" alt="Archer and Co Coffee Hebron 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Archer-and-Co-Coffee-Hebron-1-620x403.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Archer-and-Co-Coffee-Hebron-1-300x195.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Archer-and-Co-Coffee-Hebron-1-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Archer-and-Co-Coffee-Hebron-1-768x499.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Archer-and-Co-Coffee-Hebron-1.jpeg 1005w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A trio of women in Hebron, Kentucky, decided to shoot their shot with the launch of Archer &#38; Co. Roasters, a new small-batch direct-to-consumer and wholesale roasting company.&#160; Launched last... 
 
 <br> 
 
@@ -229,7 +383,7 @@ Here are the titles we’re keeping cracked in our own kitchens—recipes includ
 
 date: 2025-07-02, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-beans-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee beans" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-beans-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-beans-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-beans-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-beans-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-beans.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>At an investor conference today in Amsterdam, executives from the multinational coffee conglomerate JDE Peet&#8217;s outlined a new vision for California-based Peet&#8217;s Coffee, focusing on omni-channel growth above concepts such... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-beans-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee beans" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-beans-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-beans-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-beans-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-beans-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-beans.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>At an investor conference today in Amsterdam, executives from the multinational coffee conglomerate JDE Peet&#8217;s outlined a new vision for California-based Peet&#8217;s Coffee, focusing on omni-channel growth above concepts such... 
 
 <br> 
 

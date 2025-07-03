@@ -1,11 +1,323 @@
 ---
 title: planet
-updated: 2025-07-03 06:08:17
+updated: 2025-07-03 14:07:31
 ---
 
 # planet
 
-(date: 2025-07-03 06:08:17)
+(date: 2025-07-03 14:07:31)
+
+---
+
+## Acclaimed songwriter Mickey MacConnell dies
+
+date: 2025-07-03, from: RTÉ News
+
+The death of the writer of the popular song 'Only our rivers run free', Mickey MacConnell, has been confirmed by his family in Cork. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0703/1521763-acclaimed-songwriter-mickey-macconnell-dies/>
+
+---
+
+## 'No hope' of accommodation for those moving from IPAS
+
+date: 2025-07-03, from: RTÉ News
+
+Two agencies providing services to asylum applicants who have been granted permission to remain in Ireland have called on the Minister for Housing and Minister for Justice to work together to prevent thousands more people ending up in homeless services in the coming weeks and months. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0703/1521758-minister-asylum-applicants/>
+
+---
+
+## Trump's 'big beautiful bill' passed by US Congress
+
+date: 2025-07-03, from: RTÉ News
+
+US President Donald Trump's tax cut and spending package has cleared its final hurdle in Congress as the Republican-controlled House of Representatives narrowly approved the bill and sent it to him to sign into law. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0703/1521759-us-tax-bill/>
+
+---
+
+## Reservoir Dogs star Michael Madsen dies aged 67
+
+date: 2025-07-03, from: RTÉ News
+
+Michael Madsen, whose menacing characters in Reservoir Dogs and Kill Bill made him a standout performer in Quentin Tarantino's films, has died aged 67. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0703/1521760-reservoir-dogs-star-michael-madsen-dies-aged-66/>
+
+---
+
+## PAC seeks update on ship costing State €120k per week
+
+date: 2025-07-03, from: RTÉ News
+
+The Public Accounts Committee is seeking an update from the Revenue Commissioners on how much longer it will take to dispose of a ship on which a major consignment of drugs was seized in 2023. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0703/1521757-pac-drugs-ship/>
+
+---
+
+## Just Passing Through, Redux!
+
+date: 2025-07-03, from: Vatican Obervatory
+
+Another object from interstellar space has been discovered passing through the solar system. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/just-passing-through-redux/>
+
+---
+
+## Israel’s economic interests and the threat of annexation
+
+date: 2025-07-03, from: Vatican News
+
+
+                    <p>Israel’s economic interests, particularly in offshore gas resources, intersect with recent moves toward the annexation of occupied Palestinian territories and could impact the two-state solution, Palestinian sovereignty, and regional stability.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/israel-palestine-west-bank-hamas-war-economic-interests-annexati.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/israel-palestine-west-bank-hamas-war-economic-interests-annexati.html>
+
+---
+
+## 'Serious player' in drugs trade given 10-year jail term
+
+date: 2025-07-03, from: RTÉ News
+
+A man described by a judge as a "serious player" in the east Cork drugs trade has been jailed for ten years. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0703/1521729-cork-drugs-sentence/>
+
+---
+
+## United Ireland would cost €3bn in first year, report says
+
+date: 2025-07-03, from: RTÉ News
+
+New research has shown that a united Ireland would cost €3 billion in the first year, but that any financial burdens would disappear within a decade. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0703/1521710-united-ireland/>
+
+---
+
+## Pope Leo XIV’s upcoming schedule released
+
+date: 2025-07-03, from: Vatican News
+
+
+                    <p>The Office for the Liturgical Celebrations publishes the Pope‘s summer calendar of engagements. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-schedule-august-september-masses-jubilee-of-youth-beati.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-schedule-august-september-masses-jubilee-of-youth-beati.html>
+
+---
+
+## U.S. House passes Trump's tax and spending cuts bill by narrow margin
+
+date: 2025-07-03, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7576546.1751570091!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/u-s-house-speaker-mike-johnson-gavels-the-passing-of-u-s-president-donald-trump-s-tax-bill.jpg' alt='U.S. House Speaker Mike Johnson gavels the passing of U.S. President Donald Trump&apos;s tax bill at the U.S. Capitol.' width='620' height='349' title='US Speaker of the House Mike Johnson gavels the passing of US President Donald Trump&apos;s tax bill on the floor of the House of Representatives at the US Capitol in Washington, DC, on July 3, 2025. Congress passed the &quot;One Big Beautiful Bill,&quot; despite misgivings in his party over a text that would balloon the national debt and launch a historic assault on the social safety net.'/><p>House Republicans propelled U.S. President Donald Trump's $4.5-trillion US tax breaks and spending cuts bill to final congressional passage on Thursday, overcoming multiple setbacks to approve his policy package before a Fourth of July deadline.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-bill-passes-house-1.7576532?cmp=rss>
+
+---
+
+## ‘How Kids Roll’: The film about Gaza’s children praised by Pope Francis
+
+date: 2025-07-03, from: Vatican News
+
+
+                    <p>Director Loris Lai speaks to Vatican News about his new film ‘How Kids Roll’, about the unlikely friendship between two young boys, one Palestinian and one Israeli, brought together by a shared love of surfing. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/how-kids-roll-gaza-children-pope-francis-loris-lai.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/how-kids-roll-gaza-children-pope-francis-loris-lai.html>
+
+---
+
+## Tax collected in first half of year up 7% to nearly €48bn
+
+date: 2025-07-03, from: RTÉ News
+
+The amount of money collected in tax in the first half of the year rose almost 7% to €47.7bn compare to the same period last year reflecting strong economic growth despite concerns about the impact of US tariffs. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0703/1521715-tax-collected-in-first-half-of-year-up-7-to-nearly-48bn/>
+
+---
+
+## Russia will not 'give up' Ukraine goals, Putin told Trump
+
+date: 2025-07-03, from: RTÉ News
+
+Russian President Vladimir Putin has told US counterpart Donald Trump that Moscow will not "give up" on its aims in Ukraine while pledging it will also keep up a negotiating process on the conflict, the Kremlin said after a call between the leaders. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0703/1521706-ukraine-russia-talks/>
+
+---
+
+## Building Canada Act leaves much open to interpretation on Indigenous consultation, says lawyer
+
+date: 2025-07-03, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.4823834.1751567809!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/fort-hills-mining-truck.jpg' alt='.' width='620' height='349' title='A heavy hauler mining truck dumps a load of bitumen ore at the Fort Hills oilsands facility.'/><p>An Anishinaabe lawyer says "fuller," "meaningful" engagement needs to happen with Indigenous Peoples if the federal government wants to make the right decisions on projects under the new Building Canada Act. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/bill-c5-bc-north-coast-pipeline-1.7576258?cmp=rss>
+
+---
+
+## Pax: The Monastery’s missionary witness
+
+date: 2025-07-03, from: Vatican News
+
+
+                    <p>As the world is wracked by war and injustice, Abbot Marion Nguyen offers a reflection on how monks live out a missionary spirit of peace.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/monastery-prayer-peace-missionary-welcome.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/monastery-prayer-peace-missionary-welcome.html>
+
+---
+
+## ⓜ Full Moon-th Meetup with Sean van Staden, S.J. – July 10, 2025
+
+date: 2025-07-03, from: Vatican Obervatory
+
+Join us on July 10th for our next Full Moon-th On-line Meetup! Our guest will be Sean van Staden SJ., a Jesuit scholastic about to begin his Theology... 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/%e2%93%9c-full-moon-th-meetup-with-sean-van-staden-s-j-july-10-2025/>
+
+---
+
+## Caritas joins global call for immediate Gaza ceasefire
+
+date: 2025-07-03, from: Vatican News
+
+
+                    <p>Caritas Internationalis joins more than 160 NGOs calling urgently for an immediate ceasefire in Gaza, denouncing the humanitarian catastrophe faced by the civilians, especially children. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/caritas-internationalis-appeal-gaza-ceasefire-humanitarian-acces.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/caritas-internationalis-appeal-gaza-ceasefire-humanitarian-acces.html>
+
+---
+
+## Pope’s July prayer intention: ‘For formation in discernment’
+
+date: 2025-07-03, from: Vatican News
+
+
+                    <p>Pope Leo XIV releases his prayer intention for the month of July, and invites us to pray that we may know how to choose the right path for our life and reject anything that leads us away from Christ.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-july-prayer-intention-formation-discernment.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-july-prayer-intention-formation-discernment.html>
+
+---
+
+## Murphy fined £70k and banned from driving for 20 months
+
+date: 2025-07-03, from: RTÉ News
+
+Multiple champion jockey Oisín Murphy has been fined £70,000 and banned from driving for 20 months after admitting to drink driving after he crashed his car into a tree earlier this year. 
+
+<br> 
+
+<https://www.rte.ie/sport/racing/2025/0703/1521699-murphy-fined-l70k-and-banned-from-driving-for-20-months/>
+
+---
+
+## McGregor refused planning permission for Straffan house
+
+date: 2025-07-03, from: RTÉ News
+
+Conor McGregor has been refused planning permission by An Coimisiún Pleanála to construct a six-bedroomed house, complete with a cinema, bar and two swimming pools in Co Kildare. 
+
+<br> 
+
+<https://www.rte.ie/news/leinster/2025/0703/1521696-conor-mcgregor-straffan/>
+
+---
+
+## Bezos-backed methane tracking satellite lost in space
+
+date: 2025-07-03, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7132777.1709569367!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/methanesat-rendering.jpg' alt='An animated rendering of a satellite hovering above the Earth. A beam shoots down as it scans for hotspots of methane, a potent greenhouse gas.' width='620' height='349' title='MethaneSAT, a satellite designed to hunt for &apos;super-emitters&apos; of the potent greenhouse gas, shown in an animated rendering. '/><p>The satellite was part of groundbreaking efforts to track methane pollution and make information public. Capping methane leaks is one of the quickest ways to tackle global warning, say scientists, and MethaneSAT was a publicly-available global map of emissions.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/methane-tracking-satellite-1.7576283?cmp=rss>
+
+---
+
+## Ex-cathaoirleach pleads guilty to theft of charity money
+
+date: 2025-07-03, from: RTÉ News
+
+A former cathaoirleach of Cavan County Council has pleaded guilty to the theft of money from a Co Meath charity. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0703/1521691-trim-court-councillor/>
+
+---
+
+## EU warns of retaliation if US trade agreement not reached
+
+date: 2025-07-03, from: RTÉ News
+
+European Commission President Ursula von der Leyen has said the EU is ready for a trade deal with the US, but warned that Brussels is ready to retaliate if "no satisfactory agreement is reached". 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0703/1521686-eu-us-trade/>
 
 ---
 
@@ -49,6 +361,66 @@ Civil society organisations have welcomed the consensus reached at the landmark 
 
 ---
 
+## Chile and Argentina among coldest places on Earth as polar anticyclone grips region
+
+date: 2025-07-03, from: United Nations, Top Stories
+
+Temperatures across lower South America have plummeted – falling as low as -15° Celsius or 5° Fahrenheit in some places – as a rare polar cold wave grips the region, the World Meteorological Organization (WMO) reported on Thursday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165286>
+
+---
+
+## UN Human Rights Council hears grim updates on Ukraine, Gaza and global racism
+
+date: 2025-07-03, from: United Nations, Top Stories
+
+The UN Human Rights Council on Thursday heard sobering briefings on the human rights situations in Ukraine and Gaza, along with a call to confront structural racism and intersectional discrimination worldwide. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165326>
+
+---
+
+## UN chief ‘appalled’ by worsening Gaza crisis as civilians face displacement, aid blockades
+
+date: 2025-07-03, from: United Nations, Top Stories
+
+The UN Secretary-General is “appalled” by the deepening humanitarian crisis in Gaza, as civilians face yet another wave of mass displacement with few safe places to go. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165321>
+
+---
+
+## Landless and locked out: Young farmers struggle for a future
+
+date: 2025-07-03, from: United Nations, Economic Development
+
+Agricultural land is more than just a resource to produce food – for many older adults around the world, a land deed is the only safety net they have as they enter their old age. As a result, they hold onto it tightly.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165316>
+
+---
+
+## With sustainable development under threat, Sevilla summit rekindles hope and unity
+
+date: 2025-07-03, from: United Nations, Economic Development
+
+The landmark Financing for Development conference in Sevilla has concluded with a renewed sense of resolve and a focus on action that can change lives worldwide, according to UN Deputy Secretary-General Amina Mohammed. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165281>
+
+---
+
 ## Defence Forces monitor Russian vessel off Irish coast
 
 date: 2025-07-03, from: RTÉ News
@@ -70,6 +442,22 @@ The BBC has said it will no longer live broadcast performances deemed "high risk
 <br> 
 
 <https://www.rte.ie/entertainment/2025/0703/1521667-bbc-rethink-on-high-risk-performances-after-bob-vylan/>
+
+---
+
+## Pope Leo XIV will celebrate a Mass for the Care of Creation on July 9
+
+date: 2025-07-03, from: Vatican News
+
+
+                    <p>The Dicastery for Promoting Integral Human Development and the Dicastery for Divine Worship and the Discipline of the Sacraments present at the Holy See Press Office, a new formulary of the Roman Missal dedicated to the “Care for Creation”. </p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/mass-care-for-creation-roman-missal-pope-leo-xiv-laudato-si.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/mass-care-for-creation-roman-missal-pope-leo-xiv-laudato-si.html>
 
 ---
 
@@ -117,11 +505,11 @@ date: 2025-07-03, from: Vatican News
 
 ---
 
-## Legal advice on report must be respected, CHI says
+## Two hospitals to provide clarity on NTPF use, PAC told
 
 date: 2025-07-03, from: RTÉ News
 
-Children's Health Ireland said it has not been evasive in relation to the publication of its internal audit which looked at a number of issues, including culture and the use of waiting list funds. 
+Two hospitals have to provide more information on their use of National Treatment Purchase Fund waiting list funding, the Public Accounts Committee has heard. 
 
 <br> 
 
@@ -141,6 +529,18 @@ Three men have been cleared at Belfast Crown Court of charges relating to miscon
 
 ---
 
+## The Reverie Indigenous Music Residency is back for a 2nd year
+
+date: 2025-07-03, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7575937.1751548710!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/reverie-2025-cohort.jpg' alt='Photos of Big Tones (an Indigenous man) and Jessa Sky (an Indigenous woman) are superimposed over a royal purple background. ' width='620' height='349' title='Big Tones (left) and Jessa Sky (right) are 2 of the artists participating in the 2025 Reverie Indigenous Music Residency. '/><p>The month-long program will provide 4 Indigenous musicians with the opportunity to make new music, receive mentorship and make industry connections.</p> 
+
+<br> 
+
+<https://www.cbc.ca/music/reverie-indigenous-music-residency-2025-1.7575493?cmp=rss>
+
+---
+
 ## Ashling Murphy's boyfriend settles BBC defamation case
 
 date: 2025-07-03, from: RTÉ News
@@ -153,7 +553,35 @@ The partner of murdered school teacher Ashling Murphy has settled his High Court
 
 ---
 
-## Klopp 'heartbroken' over death of 'great friend' Jota
+## Ashling Murphy's boyfriend settles BBC defamation case
+
+date: 2025-07-03, from: RTÉ News
+
+The partner of murdered school teacher Ashling Murphy has settled his High Court claim for defamation against the BBC. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0703/1521615-bbc-ryan-casey/>
+
+---
+
+## Fear is as strong as death: Bishop Dunia on violence in Nigeria
+
+date: 2025-07-03, from: Vatican News
+
+
+                    <p>Nigerian Bishop Dunia appeals for peace and international support as communities in his country continue to face relentless violence and displacement.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/fear-is-as-strong-as-death-bishop-dunia-on-nigeria.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/fear-is-as-strong-as-death-bishop-dunia-on-nigeria.html>
+
+---
+
+## As it happened: Tributes as Liverpool's Diogo Jota dies
 
 date: 2025-07-03, from: RTÉ News
 
@@ -177,6 +605,18 @@ Liverpool star Diogo Jota has died in a car crash near Zamora, in northwestern S
 
 ---
 
+## Gangs have 'near-total control' in Haiti, UN warns
+
+date: 2025-07-03, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7575976.1751541530!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/haiti-protest.jpg' alt='People with weapons and camouflaged uniforms are shown riding the back of a truck down an urban street.' width='620' height='349' title='Haitian army soldiers patrol during a protest against insecurity in Port-au-Prince, Haiti, Wednesday, April 16, 2025.  '/><p>Haiti's gangs have gained "near-total control" of the capital and authorities are unable to stop escalating violence across the impoverished Caribbean nation, senior UN officials warned Wednesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/un-warnings-haiti-1.7575959?cmp=rss>
+
+---
+
 ## Four men charged over €31m cocaine seizure in Co Cork
 
 date: 2025-07-03, from: RTÉ News
@@ -189,11 +629,23 @@ Four men have appeared before Bandon District Court charged in connection with T
 
 ---
 
-## Hundreds evacuated as Greece wildfire rages on Crete
+## Four men charged over €31m cocaine seizure in Co Cork
 
 date: 2025-07-03, from: RTÉ News
 
-Officials said a wildfire fanned by gale force winds on the southern Greek island of Crete has forced the evacuation of locals and tourists. 
+Four men have appeared before Bandon District Court charged in connection with Tuesday's €31 million cocaine seizure. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0703/1521616-cork-drug-seizure/>
+
+---
+
+## Thousands evacuated as Greece wildfire rages on Crete
+
+date: 2025-07-03, from: RTÉ News
+
+A wildfire fanned by gale-force winds on the southern Greek island of Crete has forced the evacuation of thousands of residents and tourists, officials have said. 
 
 <br> 
 
@@ -201,11 +653,11 @@ Officials said a wildfire fanned by gale force winds on the southern Greek islan
 
 ---
 
-## Amnesty report says militarized Gaza aid system shows continued use of starvation as weapon of war
+## Militarized Gaza aid system shows Israel's continued use of starvation as weapon of war, Amnesty report says
 
 date: 2025-07-03, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7575985.1751543197!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg' alt='Palestinians carry bags containing food and humanitarian aid packages.' width='620' height='349' title='Palestinians carry bags containing food and humanitarian aid packages delivered by the Gaza Humanitarian Foundation, a U.S.-backed organization, in Rafah, southern Gaza Strip, Monday, June 16, 2025. (AP Photo/Abdel Kareem Hana)'/><p>A new Amnesty International report says the Gaza Humanitarian Foundation — a controversial U.S.- and Israel-backed group that took over aid distribution in Gaza more than a month ago —  uses a militarized aid mechanism to allow for starvation of civilians to inflict genocide against Palestinians.</p> 
+<img src='https://i.cbc.ca/1.7575985.1751543197!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg' alt='Palestinians carry bags containing food and humanitarian aid packages.' width='620' height='349' title='Palestinians carry bags containing food and humanitarian aid packages delivered by the Gaza Humanitarian Foundation, a U.S.-backed organization, in Rafah, southern Gaza Strip, Monday, June 16, 2025. (AP Photo/Abdel Kareem Hana)'/><p>A new Amnesty International report published Thursday says the Gaza Humanitarian Foundation uses a militarized aid mechanism that enables Israel to use starvation as a weapon of war and inflict genocide against Palestinians.</p> 
 
 <br> 
 
@@ -213,11 +665,11 @@ date: 2025-07-03, from: CBC, World News
 
 ---
 
-## Gaza rescuers say 12 killed in Israeli strike on shelter
+## Hamas seeks truce guarantees as 59 killed in Gaza
 
 date: 2025-07-03, from: RTÉ News
 
-Gaza's civil defence agency has said an Israeli air strike has hit a school sheltering displaced people, killing at least 12, mostly women and children. 
+Hamas is seeking guarantees that a new US ceasefire proposal for Gaza would lead to the war's end, a source close to the militant group said, as medics said Israeli strikes across the enclave had killed at least 59 people. 
 
 <br> 
 
@@ -234,6 +686,18 @@ A new study has found that gambling companies encourage people to gamble more th
 <br> 
 
 <https://www.rte.ie/news/2025/0703/1521603-study-gambling-inducements/>
+
+---
+
+## Ancient Saskatchewan archaeological site falls victim to illegal scavenging
+
+date: 2025-07-03, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7573224.1751492173!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/dave-rondeau.jpg' alt='A man walking along a site in Saskatchewan ' width='620' height='349' title='Rondeau says he&apos;s seen pieces of rocks missing from the site&apos;s profile and clear evidence of digging. '/><p>Âsowanânihk, which means "a place to cross" in Cree, is located near Prince Albert and is estimated to be around 11,000 years old. It holds a wealth of evidence of Indigenous settlements that likely existed there.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatoon/ancient-saskatchewan-archaeological-site-battles-illegal-pot-hunters-1.7573120?cmp=rss>
 
 ---
 
@@ -309,11 +773,11 @@ A new 'likely scam' label will from today be added to text messages which mobile
 
 ---
 
-## Community 'raw with grief' as girl dies in Donegal crash
+## 'Dark cloud' in Donegal as mother, daughter die in crash
 
 date: 2025-07-03, from: RTÉ News
 
-A community in Co Donegal is said to be "raw with grief" after a seven-year-old girl died and three other people, including a two-year-old girl, were seriously injured in a road crash yesterday evening. 
+The mother of a six-year-old girl who was killed in a road collision in Co Donegal yesterday evening, has also died in hospital this evening. 
 
 <br> 
 
@@ -330,6 +794,30 @@ The sisters of Dublin woman Elizabeth Plunkett believe women in Ireland are "sti
 <br> 
 
 <https://www.rte.ie/news/2025/0703/1521359-plunkett-sisters/>
+
+---
+
+## Indigenous man's 'jaw nearly hit the counter' when told he could write driver's test in Ojibwe
+
+date: 2025-07-03, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.5712734.1751482707!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/kettle-and-stony-point-first-nation-chief-jason-henry.JPG' alt='Former Kettle and Stony Point First Nation Chief Jason Henry was the first person at his Drive Test location to take a test in Ojibwe.' width='620' height='349' title='Former Kettle and Stony Point First Nation Chief Jason Henry was the first person at his Drive Test location to take a test in Ojibwe.'/><p>The former chief of the Chippewas of Kettle and Stony Point First Nation got an early birthday surprise when he was finally able to do his written driver’s test in Ojibwe.   </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/london/indigenous-man-s-jaw-nearly-hit-the-counter-when-told-he-could-write-driver-s-test-in-ojibwe-1.7575376?cmp=rss>
+
+---
+
+## Northwestern Ontario's new Indigenous football team heads to Winnipeg
+
+date: 2025-07-03, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7574423.1751310561!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/indigenous-football.jpg' alt='Football players practice hand-offs. ' width='620' height='349' title='Members of northwestern Ontario&apos;s new Indigenous football team practice at Hammarskjold High School in Thunder Bay last week. The team is competing at the U18 Indigenous Cup in Winnipeg starting Thursday.'/><p>Ashton Storm Parr is hoping northwestern Ontario's new Indigenous tackle football team will bring some new Indigenous players to the sport.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/indigenous-football-northwestern-ontario-1.7574173?cmp=rss>
 
 ---
 
@@ -357,7 +845,7 @@ At least five people have died and dozens are unaccounted for after a ferry sank
 
 ---
 
-## Standoff between Tibet, China could could lead to two rival Dalai Lamas
+## The Dalai Lama has shared plans for his succession. China has other ideas
 
 date: 2025-07-03, from: CBC, World News
 
@@ -441,6 +929,18 @@ The Restaurants Association of Ireland is warning of further closures and job lo
 
 ---
 
+## Ireland and Wales agree new co-operation programme
+
+date: 2025-07-02, from: RTÉ News
+
+A new programme of co-operation between Ireland and Wales, running to 2030, has been signed by Tánaiste Simon Harris and Welsh First Minister Eluned Morgan at the Ireland-Wales Forum in Swansea. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0703/1521575-tanaiste-wales-meeting/>
+
+---
+
 ## Jan. 6 rioter pardoned by Trump gets life in prison for plot on FBI
 
 date: 2025-07-02, from: CBC, World News
@@ -494,7 +994,7 @@ date: 2025-07-02, from: CBC, World News
 
 date: 2025-07-02, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7575608.1751486362!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/a11pl3z-interstellar-object.jpg' alt='A black image with some elongated dots and one circular object at the centre in red crosshairs.' width='620' height='349' title='Dan Rankin, an engineer at the Catalina Sky Survey, captured A11pl3Z from his home observatory in southern Arizona.'/><p>It appears our solar system is getting more popular with out-of-towners. Astronomers have found a third interstellar object, something that has origins beyond our own solar system. The object, dubbed A11pl3Z, is not believed to pose any danger to Earth.</p> 
+<img src='https://i.cbc.ca/1.7575608.1751486362!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/a11pl3z-interstellar-object.jpg' alt='A black image with some elongated dots and one circular object at the centre in red crosshairs.' width='620' height='349' title='Dan Rankin, an engineer at the Catalina Sky Survey, captured A11pl3Z from his home observatory in southern Arizona.'/><p>It appears our solar system is getting more popular with out-of-towners. Astronomers have found a third interstellar object, something that has origins beyond our own solar system. The object, dubbed 3I/ATLAS, is not believed to pose any danger to Earth.</p> 
 
 <br> 
 
@@ -619,6 +1119,18 @@ Farming organisations have called for measures including DNA testing, disqualifi
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0702/1521532-dog-attacks-livestock/>
+
+---
+
+## 'Our Grandmothers' artifact collection acquired for future Métis centre at newly reopened Portage and Main
+
+date: 2025-07-02, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7575524.1751482565!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/gregory-scofield.jpeg' alt='A man in a light blue collared shirt poses next to a jacket with frills and beadwork.' width='620' height='349' title='Author, professor and Métis artist Gregory Scofield poses next to a jacket, adorned in beadwork, that&apos;s part of the collection he helped curate, &apos;Our Grandmothers,&apos; unveiled Wednesday, July 2, 2025, at the Red River Métis National Heritage Centre, scheduled to open at Portage and Main in 2027.'/><p>A trove of artifacts dating back two centuries — including silk- and quillwork, beaded jackets and fur stretchers — have found their way to the site of a forthcoming centre at the heart of downtown Winnipeg showcasing Métis history.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/metis-museum-collection-portage-main-1.7575216?cmp=rss>
 
 ---
 
@@ -1942,7 +2454,7 @@ Developing countries currently face a staggering $420 billion annual gap in the 
 
 ## 50 years of CITES: Protecting wildlife from trade-driven extinction
 
-date: 2025-07-01, from: United Nations, Climate Change
+date: 2025-07-01, from: United Nations, Top Stories
 
 The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) marks 50 years since it entered into force on Tuesday, celebrating five decades of protecting endangered wildlife from overexploitation through international trade. 
 
@@ -1966,7 +2478,7 @@ Spain and Brazil have launched a joint initiative to promote higher tax contribu
 
 ## Northern hemisphere heatwave underscores value of early-warning alerts
 
-date: 2025-07-01, from: United Nations, Climate Change
+date: 2025-07-01, from: United Nations, Top Stories
 
 The blistering early-summer heatwave that’s brought life-threatening temperatures across much of the northern hemisphere is a worrying sign of things to come, UN weather experts said on Tuesday. 
 
@@ -2856,7 +3368,7 @@ More than 700,000 Afghan migrants have returned from Iran so far this year, incl
 
 ## Human rights can be a ‘strong lever for progress’ in climate change, says UN rights chief
 
-date: 2025-06-30, from: United Nations, Climate Change
+date: 2025-06-30, from: United Nations, Top Stories
 
 The UN’s top rights official on Monday urged the international community to confront the growing human rights implications of climate change. 
 

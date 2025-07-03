@@ -1,11 +1,163 @@
 ---
 title: socal north
-updated: 2025-07-03 06:08:19
+updated: 2025-07-03 14:07:33
 ---
 
 # socal north
 
-(date: 2025-07-03 06:08:19)
+(date: 2025-07-03 14:07:33)
+
+---
+
+## Police make arrest in March death of man who was assaulted
+
+date: 2025-07-03, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The victim was identified as Chamrong Sok, a 52-year-old man experiencing homelessness, according to police.</p>
+<p>The post <a href="https://lbpost.com/news/police-make-arrest-in-march-death-of-man-who-was-assaulted">Police make arrest in March death of man who was assaulted</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/police-make-arrest-in-march-death-of-man-who-was-assaulted>
+
+---
+
+## Home is Where the Hart is This Fourth of July
+
+date: 2025-07-03, from: City of Santa Clarita
+
+<p>Honoring Our Roots and Our Heroes By Mayor Bill Miranda As we prepare for the City’s Fourth of July Parade, we are reminded of the values that bind us together as a community and as a nation: service, freedom and unity. This year, our Fourth of July parade theme,“Home is Where the Hart Is&#8230;Welcome Hart [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/03/home-is-where-the-hart-is-this-fourth-of-july/">Home is Where the Hart is This Fourth of July</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/03/home-is-where-the-hart-is-this-fourth-of-july/>
+
+---
+
+## California lawmakers side with landlords to kill renter eviction relief
+
+date: 2025-07-03, updated: 2025-07-03, from: The LAist
+
+California legislators rejected a progressive proposal to give past due renters a two-week grace period on evictions. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/california-lawmakers-side-with-landlords-to-kill-renter-eviction-relief>
+
+---
+
+## Actor Michael Madsen, known for 'Kill Bill' and 'Reservoir Dogs,' dead at 67
+
+date: 2025-07-03, updated: 2025-07-03, from: The LAist
+
+His representatives confirmed that his death followed a cardiac arrest Thursday morning. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/actor-michael-madsen-known-for-kill-bill-reservoir-dogs-dead-at-67>
+
+---
+
+## ‘Amoeba monster,’ ‘elegant,’ ‘bunker,’ ‘futurist’: Angelenos react to the new LACMA building
+
+date: 2025-07-03, updated: 2025-07-03, from: The LAist
+
+LACMA’s new David Geffen Galleries are open to members for previews this week ahead of the official opening (with art installed) next year. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/angelenos-react-to-the-new-lacma-building>
+
+---
+
+## LAPD to use drones for routine emergency response calls. Here's what experts say
+
+date: 2025-07-03, updated: 2025-07-03, from: The LAist
+
+The civilian oversight body for the Los Angeles Police Department approved expanding the use of drones. We talked with another police department that's been using drones this way since 2018 and a privacy expert about concerns over surveillance. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/lapd-to-use-drones-for-routine-emergency-response-calls>
+
+---
+
+## House Republicans pass Trump's megabill, sending the package to his desk to be signed
+
+date: 2025-07-03, updated: 2025-07-03, from: The LAist
+
+The Republican leaders overcame objections from within their own party, marking a victory in their quest to fulfill President Trump's campaign promises. 
+
+<br> 
+
+<https://laist.com/news/politics/house-republicans-pass-trumps-mega-bill>
+
+---
+
+## Mental health support centers are reeling from California budget cuts, with layoffs expected
+
+date: 2025-07-03, updated: 2025-07-03, from: The LAist
+
+California mental health support lines say they're getting more calls than ever. Several are scaling back services and laying off staff because of budget cuts. 
+
+<br> 
+
+<https://laist.com/news/health/mental-health-support-centers-are-reeling-from-california-budget-cuts-with-layoffs-expected>
+
+---
+
+## LA County names leader of its first-ever department on homelessness
+
+date: 2025-07-03, updated: 2025-07-03, from: The LAist
+
+The inaugural director will help lead the county’s overhaul of the homeless services system. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-county-names-leader-of-its-first-ever-department-on-homelessness>
+
+---
+
+## ‘Joy turned into shame’: California’s Latino Caucus agonized over slashing immigrant health care
+
+date: 2025-07-03, updated: 2025-07-03, from: The LAist
+
+One of the most powerful political blocs, the Latino Caucus had to balance reining in Medi-Cal's rising costs with helping undocumented immigrants. All but four overcame their misgivings and cut their health insurance. 
+
+<br> 
+
+<https://laist.com/news/health/joy-turned-into-shame-californias-latino-caucus-agonized-over-slashing-immigrant-health-care>
+
+---
+
+## Civil rights groups sue federal government over LA immigration raids
+
+date: 2025-07-03, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The proposed class-action suit alleges that DHS has unconstitutionally arrested and detained people in order to meet arbitrary arrest quotas set by the administration of President Donald Trump.</p>
+<p>The post <a href="https://lbpost.com/news/civil-rights-groups-sue-federal-government-over-la-immigration-raids">Civil rights groups sue federal government over LA immigration raids</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/civil-rights-groups-sue-federal-government-over-la-immigration-raids>
+
+---
+
+## Best things to do Fourth of July weekend in LA and Southern California: July 4 - 6
+
+date: 2025-07-03, updated: 2025-07-03, from: The LAist
+
+Fourth of July celebrations, an ABBA disco party, the 70mm festival at American Cinematheque, last chance for Olafur Eliasson at MOCA and more to do over the holiday. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-fourth-of-july-weekend-los-angeles-southern-california-2025>
 
 ---
 
@@ -85,7 +237,7 @@ The AAA anticipates that a record 72.2 million people will travel this holiday w
 
 date: 2025-07-02, from: Longbeach Post
 
-<figure><img width="1024" height="713" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-1024x713.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-1024x713.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-300x209.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-768x535.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-155x108.jpg 155w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-400x279.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="713" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-1024x713.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-1024x713.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-300x209.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-768x535.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-155x108.jpg 155w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t-400x279.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/20141512/20jun25-6-20-25-ralphs-11782-338401-xd3rw1ab-232158-sTItEw5t.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>No specific details of the proposed agreement were released, although union officials said it includes higher wages, additional pension contributions and improvements in health, welfare and staffing. </p>
 <p>The post <a href="https://lbpost.com/news/grocery-workers-strike-union-contract">Grocery workers reach deal, averting strike at Vons, Ralphs and other stores</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -100,7 +252,7 @@ date: 2025-07-02, from: Longbeach Post
 
 date: 2025-07-02, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Police said they arrested a 29-year-old man on suspicion of knocking a woman unconscious, then raping her near Downtown Long Beach. The incident happened shortly after 2:35 a.m. Tuesday near the intersection of Alamitos Avenue and Fourth Street, according to Long Beach police. A woman was walking in the area when a man approached her, [&#8230;]</p>
 <p>The post <a href="https://lbpost.com/news/police-arrest-man-on-suspicion-of-raping-woman-early-tuesday">Police arrest man on suspicion of raping woman early Tuesday</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -236,7 +388,7 @@ Temperatures will be a couple degrees cooler today in SoCal compared to earlier 
 
 ## This Echo Park barbecue joint will ruin all other BBQ for you
 
-date: 2025-07-02, updated: 2025-07-02, from: The LAist
+date: 2025-07-02, updated: 2025-07-03, from: The LAist
 
 At The Park’s Finest, chef and co-founder Johneric Concordia’s rubs and banana leaf cornbread rewrite the rules of flavor. 
 

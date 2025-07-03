@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-07-03 06:08:27
+updated: 2025-07-03 14:07:39
 ---
 
 # retro computing
 
-(date: 2025-07-03 06:08:27)
+(date: 2025-07-03 14:07:39)
+
+---
+
+## b.log 2025/07/03 - Copyright, Bots, Koi-Koi!, Heat and distance.
+
+date: 2025-07-03, from: Richard Murray's blog
+
+Copyright, Bots, Koi-Koi!, Heat and distance. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250703>
 
 ---
 

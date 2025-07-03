@@ -1,11 +1,163 @@
 ---
 title: going electric
-updated: 2025-07-03 06:08:28
+updated: 2025-07-03 14:07:40
 ---
 
 # going electric
 
-(date: 2025-07-03 06:08:28)
+(date: 2025-07-03 14:07:40)
+
+---
+
+## Tesla launches Oasis Supercharger with solar farm and off-grid batteries
+
+date: 2025-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Tesla-Supercharger-Oasis-hero.png?w=1600" /></div><p>Tesla has launched its new Oasis Supercharger, the long-promised EV charging station of the future, with a solar farm and off-grid batteries.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="423351" href="https://electrek.co/2025/07/03/tesla-launches-oasis-supercharger-with-solar-farm-off-grid-batteries/#more-423351" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/03/tesla-launches-oasis-supercharger-with-solar-farm-off-grid-batteries/>
+
+---
+
+## The EV Tax Credit Is Dead. Here's Why I Still Have Hope
+
+date: 2025-07-03, from: Inside EVs News
+
+Automakers and politicians can try to snuff out EV enthusiasm, but the cars are too damn good to go away. 
+
+<br> 
+
+<https://insideevs.com/news/764703/ev-tax-credit-dead/>
+
+---
+
+## Congress votes to send 2 million US jobs to China, increase deficit, energy costs
+
+date: 2025-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Capitol_Building_Full_View-public-domain-e1713472940371.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Congressional republicans have passed the republican tax bill that kills a slew of tax credits to help working families become more energy efficient, improve US air quality, and boost US manufacturing – instead channeling that money to wealthy elites, <a href="https://apnews.com/article/cbo-trump-tax-bill-republicans-senate-5f591bea21bd95eec45ba90c93c50687">increasing the deficit by $3.3 trillion dollars</a> along the way.</p>
+
+
+
+<p>(<em>Update, July 3</em> – this article has been updated to reflect the House passage of the reconciliation bill)</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-manufacturing,inflation-reduction-act" data-layer-viewtype="unknown" data-post-id="423082" href="https://electrek.co/2025/07/03/senate-votes-to-send-2-million-us-jobs-to-china-increase-deficit-energy-costs/#more-423082" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/03/senate-votes-to-send-2-million-us-jobs-to-china-increase-deficit-energy-costs/>
+
+---
+
+## Toyota Was ‘Flabbergasted’ By BYD’s EV Development Speed
+
+date: 2025-07-03, from: Inside EVs News
+
+Tesla first upended how cars are made. Chinese carmakers took Tesla’s playbook and went ballistic with it. 
+
+<br> 
+
+<https://insideevs.com/news/764698/toyota-flabbergasted-by-byd-ev-speed/>
+
+---
+
+## Tesla Model Y no longer the world’s best selling car… with a possible asterisk
+
+date: 2025-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/07/Model-Y-Hero-2021.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Tesla Model Y was dethroned as the world’s best selling car last year, according to data from JATO dynamics. It was beaten by the Toyota RAV4, by a margin of just 0.16%.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla-model-y" data-layer-viewtype="unknown" data-post-id="423319" href="https://electrek.co/2025/07/03/tesla-model-y-no-longer-the-worlds-best-selling-car-with-a-possible-asterisk/#more-423319" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/03/tesla-model-y-no-longer-the-worlds-best-selling-car-with-a-possible-asterisk/>
+
+---
+
+## Aventon and Velotric 4th of July sales take up to $720 off e-bikes to annual lows, EcoFlow 48-hour flash sale, LG, Husqvarna, more
+
+date: 2025-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Aventon-Aventure-2-All-Terrain-e-bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>We’ve got plenty of seasonal sales in today’s Green Deals, led by <a href="https://9to5toys.com/2025/07/02/aventon-aventure-2-e-bike-1599-more/">Aventon’s 4th of July Sale</a> that is taking up to $500 off its e-bike lineup, with prices getting lower than we’ve seen this year, like on the <a href="https://9to5toys.com/2025/07/02/aventon-aventure-2-e-bike-1599-more/">Aventure 2 All-Terrain e-bike</a> that has dropped to a <a href="https://9to5toys.com/2025/07/02/aventon-aventure-2-e-bike-1599-more/">$1,599 annual low</a>, among others. EcoFlow has launched another <a href="https://9to5toys.com/2025/07/03/ecoflow-flash-sale-delta-pro-from-1709-batteries-from-429/">48-hour early Prime Day flash sale</a> that gives you another shot at the best pricing on the <a href="https://9to5toys.com/2025/07/03/ecoflow-flash-sale-delta-pro-from-1709-batteries-from-429/">DELTA Pro Portable Power Station</a> (with varying options for free gear/savings) <a href="https://9to5toys.com/2025/07/03/ecoflow-flash-sale-delta-pro-from-1709-batteries-from-429/">starting from $1,709</a>, as well as two expansion battery offers for DELTA 2 and DELTA Pro Ultra setups. Next, <a href="https://9to5toys.com/2025/07/02/velotric-4th-of-july-sale-from-599/">Velotric’s 4th of July event</a> is offering up to $720 in savings on its e-bikes – legacy and new releases – with models like the <a href="https://9to5toys.com/2025/07/02/velotric-4th-of-july-sale-from-599/">Discover 1 Plus Commuter e-bike</a> going lower than ever this year at <a href="https://9to5toys.com/2025/07/02/velotric-4th-of-july-sale-from-599/">$1,199</a>. We also spotted <a href="https://9to5toys.com/2025/07/02/lg-washcombo-from-1800/">LG’s WashCombo All-in-One Electric Washer/Dryer</a> with a ventless inverter heat pump <a href="https://9to5toys.com/2025/07/02/lg-washcombo-from-1800/">starting from $1,800</a>, as well as <a href="https://9to5toys.com/2025/07/03/husqvarna-automower-115h-robot-499/">Husqvarna’s Automower 115H Robot Lawn Mower</a> down at <a href="https://9to5toys.com/2025/07/03/husqvarna-automower-115h-robot-499/">$499</a>. Plus, there’s all the rest of the hangover Green Deals in the links at the bottom of the page, like yesterday’s first-ever savings on the <a href="https://9to5toys.com/2025/07/02/ford-mustang-bronco-e-bikes-from-3500/">Ford Mustang and Bronco e-bikes</a>, the new low prices hitting <a href="https://9to5toys.com/2025/07/02/anker-solix-f3800-plus-new-low-prices-from-2659/">Anker’s SOLIX F3800 Plus units</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="423320" href="https://electrek.co/2025/07/03/aventon-velotric-e-bikes-ecoflow-lg-husqvarna-more/#more-423320" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/03/aventon-velotric-e-bikes-ecoflow-lg-husqvarna-more/>
+
+---
+
+## Tesla Model Y Dethroned As World's Best Selling Car
+
+date: 2025-07-03, from: Inside EVs News
+
+Plus, nearly 1-in-5 new car buyers are paying more than $1,000 per month for their new cars and Tesla is struggling to sell Cybertrucks 
+
+<br> 
+
+<https://insideevs.com/news/764577/tesla-model-y-dethroned-best/>
+
+---
+
+## Xiaomi YU7 First Look: Here Are Some Of The Most Clever Accessories And Features
+
+date: 2025-07-03, from: Inside EVs News
+
+Extra buttons, a projector and a magnetic tissue box. China's Apple crossover is really clever.  
+
+<br> 
+
+<https://insideevs.com/news/764635/xiaomi-yu7-accessories-china-launch/>
+
+---
+
+## Xpeng launches G7, a new Tesla Model Y competitor for just $27,000
+
+date: 2025-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Xpeng-G7-3.png?w=1600" /></div><p>Xpeng has officially launched its new G7 electric SUV in China, entering the fiercely competitive electric crossover market with a starting price of just 195,800 yuan ($27,325 USD). The G7 is positioned squarely to compete with the Tesla Model Y and <a href="https://electrek.co/2025/06/26/xiaomi-yu7-first-drive-electric-ferrari-suv-tech/" target="_blank" rel="noreferrer noopener">the newly unveiled Xiaomi YU7</a>.</p>
+
+
+
+<p>It is priced significantly more aggressively than the YU7, which shook up the industry just last week.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="xpeng-g7,xpeng-motors" data-layer-viewtype="unknown" data-post-id="423290" href="https://electrek.co/2025/07/03/xpeng-g7-tesla-model-y-competitor/#more-423290" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/03/xpeng-g7-tesla-model-y-competitor/>
+
+---
+
+## Volvo Will Build Polestar 7 In Slovakia To Dodge China Tariffs
+
+date: 2025-07-03, from: Inside EVs News
+
+Volvo will build the Polestar 7 in Slovakia and it will share plenty of technology with the EX60. 
+
+<br> 
+
+<https://insideevs.com/news/764652/volvo-polestar-7-production-europe-slovakia/>
 
 ---
 
