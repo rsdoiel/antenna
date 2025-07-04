@@ -1,11 +1,123 @@
 ---
 title: going electric
-updated: 2025-07-04 06:08:47
+updated: 2025-07-04 14:08:23
 ---
 
 # going electric
 
-(date: 2025-07-04 06:08:47)
+(date: 2025-07-04 14:08:23)
+
+---
+
+## Podcast: Trump/GOP go after EV/solar, Tesla, Ford, GM EV sales, Electrek Formula Sun, and more
+
+date: 2025-07-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Trump’s Big Beautiful bill becoming law and going after EVs and solar, Tesla, Ford, and GM EV sales, Electrek Formula Sun, and more</p>
+
+
+
+<p><strong><em>Today’s episode is brought to you by Bosch Mobility Aftermarket—A global leader and trusted provider of automotive aftermarket parts. To celebrate Amazon Prime Day July 8th through 11th, Bosch Mobility is offering exclusive savings on must-have auto parts and tools. <a href="https://bit.ly/3TI50e9" target="_blank" rel="noreferrer noopener">Learn more here.</a></em></strong></p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="423475" href="https://electrek.co/2025/07/04/podcast-trump-gop-go-after-ev-solar-tesla-ford-gm-ev-sales-electrek-formula-sun/#more-423475" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/04/podcast-trump-gop-go-after-ev-solar-tesla-ford-gm-ev-sales-electrek-formula-sun/>
+
+---
+
+## Slate Truck’s Under $20,000 Price Tag Just Became A Political Casualty
+
+date: 2025-07-04, from: Inside EVs News
+
+The electric truck may still enter production next year, but that tempting sub $20,000 price now appears like a dream. 
+
+<br> 
+
+<https://insideevs.com/news/764827/slate-truck-affordable-ev-price-dead/>
+
+---
+
+## Tesla prototype sparks speculation: a Model Y, maybe slightly smaller
+
+date: 2025-07-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Tesla-prototype-overlay.png?w=1600" /></div><p>A new Tesla prototype was spotted again, reigniting speculation among Tesla shareholders, even though it’s likely just a Model Y, potentially a bit smaller, and the upcoming stripped-down, cheaper version.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="423464" href="https://electrek.co/2025/07/04/tesla-prototype-sparks-speculation-a-model-y-maybe-slightly-smaller/#more-423464" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/04/tesla-prototype-sparks-speculation-a-model-y-maybe-slightly-smaller/>
+
+---
+
+## Mercedes' Electric Luxury Van Packs Some Serious Range
+
+date: 2025-07-04, from: Inside EVs News
+
+The Mercedes VLE will set a new bar for range in the segment. 
+
+<br> 
+
+<https://insideevs.com/news/764689/mercedes-vle-stuttgart-to-rome/>
+
+---
+
+## July 4th edition: first savings on Aventon Pace 4 smart cruiser e-bike $1,699, Bluetti’s new Elite 100 V2 station at $379, Velotric, Rad, Worx, more
+
+date: 2025-07-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/4th-of-July-Green-Deals-hub-FI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Happy 4th of July, everyone! We’ve got a jam-packed Green Deals for you today, with plenty of new and returning low prices worth considering before they’re gone. Headlining today’s edition is the first chance at savings on <a href="https://9to5toys.com/2025/07/03/aventon-first-savings-pace-4-e-bike-1699/">Aventon’s new Pace 4 Step-Through Cruiser e-bike</a> that comes with many theft-deterring smart features at <a href="https://9to5toys.com/2025/07/03/aventon-first-savings-pace-4-e-bike-1699/">$1,699</a>. That’s not all we have in the EV category either, as Velotric has dropped its <a href="https://9to5toys.com/2025/07/03/velotric-fold-1-lite-e-bike-new-599-low/">Fold 1 Lite e-bike to a new $599 low</a>, while Rad Power has added the <a href="https://9to5toys.com/2025/07/04/rad-power-radtrike-july-4th-weekend-at-1399-low/">RadTrike to its 4th of July Sale</a> through this weekend only at its <a href="https://9to5toys.com/2025/07/04/rad-power-radtrike-july-4th-weekend-at-1399-low/">$1,399 low</a>. We also have the launch of <a href="https://9to5toys.com/2025/07/04/bluetti-elite-100-v2-power-station-launch-379/">Bluetti’s new Elite 100 V2 Portable Power Station</a> with bonus exclusive savings for our readers that takes things to <a href="https://9to5toys.com/2025/07/04/bluetti-elite-100-v2-power-station-launch-379/">$379</a>. The rear is being brought up by two outdoor tool deals, with the first being <a href="https://9to5toys.com/2025/07/04/worx-20v-jawsaw-109/">Worx’s 20V JawSaw Cordless PowerShare Chainsaw</a> at its best pricing of the last 12 months for <a href="https://9to5toys.com/2025/07/04/worx-20v-jawsaw-109/">$109</a>, as well as <a href="https://9to5toys.com/2025/07/03/karcher-k1700-electric-pressure-washer-130/">Kärcher’s K1700 Electric Pressure Washer falling to $130</a>. Plus, we’ve rounded together all the live savings across EVs, power stations, tools, appliances, and more within our <a href="https://9to5toys.com/2025/07/04/july-4th-eco-friendly-deals-from-97/">one-stop-shop July 4th Green Deals hub</a> in the links at the bottom of the page.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="423447" href="https://electrek.co/2025/07/04/4th-of-july-edition/#more-423447" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/04/4th-of-july-edition/>
+
+---
+
+## Heybike’s new Galaxy series brings sleek design and serious power to the e-bike world
+
+date: 2025-07-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/heybike-galaxy-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://eu.heybike.com/en/collections/e-bikes?ref=tjpagjxw">Heybike</a>, one of several fast-growing electric bike makers in the US and European markets, unveiled its new Galaxy Series last week. The new e-bike series isn’t just a single model, but rather a fleet of five new e-bikes comprising the Galaxy line.</p>
+
+
+
+<p>The various designs seem to cover riders looking for an e-bike designed for commuting, exploring, hauling gear, or just hitting mountain trails.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="423433" href="https://electrek.co/2025/07/04/heybikes-new-galaxy-series-brings-sleek-design-and-serious-power-to-the-e-bike-world/#more-423433" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/04/heybikes-new-galaxy-series-brings-sleek-design-and-serious-power-to-the-e-bike-world/>
+
+---
+
+## There's A New Best-Selling Non-Tesla EV On The Block
+
+date: 2025-07-04, from: Inside EVs News
+
+Chevy's cheap, little SUV could end up being the most popular non-Tesla EV ever this year.  
+
+<br> 
+
+<https://insideevs.com/news/764706/chevy-equinox-ev-sales-tesla/>
 
 ---
 

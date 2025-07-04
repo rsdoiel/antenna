@@ -1,11 +1,331 @@
 ---
 title: planet
-updated: 2025-07-04 06:08:40
+updated: 2025-07-04 14:08:12
 ---
 
 # planet
 
-(date: 2025-07-04 06:08:40)
+(date: 2025-07-04 14:08:12)
+
+---
+
+## Small number of Irish-based jobs to go at TikTok
+
+date: 2025-07-04, from: RTÉ News
+
+A small number of Irish-based roles are expected to be cut at TikTok's global e-commerce division. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0704/1521938-tiktok-job-cuts/>
+
+---
+
+## Farmer cause of death unknown due to embalming - inquest
+
+date: 2025-07-04, from: RTÉ News
+
+The cause of death of an elderly Offaly farmer who died a day after he got married two years ago could not be determined because his body had been embalmed, a pathologist has told an inquest. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0704/1521925-inquest-farmer-death/>
+
+---
+
+## Ciara Mageean reveals cancer diagnosis
+
+date: 2025-07-04, from: RTÉ News
+
+European 1500m champion and Irish record holder Ciara Mageean has revealed she has been diagnosed with cancer. 
+
+<br> 
+
+<https://www.rte.ie/sport/athletics/2025/0704/1521927-ciara-mageean-reveals-cancer-diagnosis/>
+
+---
+
+## 'Why not try it' - largest GAA competition in UK begins
+
+date: 2025-07-04, from: RTÉ News
+
+The largest GAA competition in Britain is under way this weekend, with a record number of participants expected to take part. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0704/1521920-gaa-britain-competition/>
+
+---
+
+## Behind the Story: Inside the Conor McGregor appeal
+
+date: 2025-07-04, from: RTÉ News
+
+There was a surprise turn of events in the Court of Appeal this week after Conor McGregor withdrew his application to introduce new evidence in his appeal against a High Court civil finding that he raped Nikita Hand. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0704/1521911-behind-the-story-inside-the-conor-mcgregor-appeal/>
+
+---
+
+## Two in court over petrol bomb attack of Dublin home
+
+date: 2025-07-04, from: RTÉ News
+
+Two people have appeared in court charged in connection with a petrol bomb attack at a home in Dublin in May earlier this year. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0704/1521910-dublin-arson-court/>
+
+---
+
+## Pope Leo dialogues with children: "Build bridges from an early age"
+
+date: 2025-07-04, from: Vatican News
+
+
+                    <p>Pope Leo has a dialogue with children participating in the Vatican's summer camp who gathered with him yesterday in the Paul VI Hall. With them also a group of around 300 young students from Ukraine, hosted in Italy by Caritas for the summer.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-dialogues-with-children-build-bridges-from-early-age.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-dialogues-with-children-build-bridges-from-early-age.html>
+
+---
+
+## 2 First Nations players from Manitoba drafted to NHL credit family support
+
+date: 2025-07-04, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7573537.1751076229!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/nhl-hockey-draft.jpg' alt='A young man puts on a Detroit Red Wings jersey while standing next to a shorter man in a suit.' width='620' height='349' title='Carter Bear dons a Detroit Red Wings jersey while standing next to NHL commissioner Gary Bettman after being taken with the 13th overall pick in the 2025 NHL draft Friday night.'/><p>Two First Nation hockey stars from Manitoba heard their names called at the 2025 NHL Draft.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/first-nations-manitoba-hockey-nhl-1.7577634?cmp=rss>
+
+---
+
+## Cork couple in 80s were 'inseparable', funeral hears
+
+date: 2025-07-04, from: RTÉ News
+
+A man and a woman in their 80s who were found dead near the stairs of their home in Glounthaune, Co Cork earlier this week were remembered at their funeral mass today as being a "tremendous couple" who were "inseparable from each other". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0704/1521909-cork-funeral/>
+
+---
+
+## Woman who was getaway driver in Thompson murder jailed
+
+date: 2025-07-04, from: RTÉ News
+
+A former HSE addiction counsellor has been jailed for two years for acting as a getaway driver for the "violent and abusive thug" who murdered mother-of-two Lisa Thompson in Dublin three years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0704/1521901-deirdre-arnold-lisa-thompson-court/>
+
+---
+
+## The Administration of the Patrimony of the Apostolic See
+
+date: 2025-07-04, from: Vatican News
+
+
+                    <p>APSA - The Administration of the Patrimony of the Apostolic See - is the body responsible for the administration of goods and financial management of the patrimony of the Holy See. It does so in the spirit of maximum transparency, as called for in the reform initiated by Pope Francis in 2014.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/administration-patrimony-holy-see-apsa-tasks-mandate-vatican.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/administration-patrimony-holy-see-apsa-tasks-mandate-vatican.html>
+
+---
+
+## Trump, Zelensky discuss weapons, escalating strikes
+
+date: 2025-07-04, from: RTÉ News
+
+Ukrainian President Volodymyr Zelensky said he discussed air defences in a conversation with US President Donald Trump, and agreed to work on increasing Kyiv's capability to "defend the sky" as Russian attacks escalate. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0704/1521896-zelensky-trump-call/>
+
+---
+
+## Enlivened Oasis kick off reunion tour in Cardiff
+
+date: 2025-07-04, from: RTÉ News
+
+Oasis have kicked off their long-awaited worldwide reunion tour in Cardiff, their first concert in almost 16 years. Follow the action live here. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0704/1521898-oasis-kick-off-reunion-tour-in-cardiff/>
+
+---
+
+## Got Netflix? Watch NASA!
+
+date: 2025-07-04, from: Vatican Obervatory
+
+NASA+ is Coming to Netflix in the Summer of 2025 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/got-netflix-watch-nasa/>
+
+---
+
+## The Dicastery for Evangelization
+
+date: 2025-07-04, from: Vatican News
+
+
+                    <p>"Praedicate Evangelium", promulgated by Pope Francis in 2022, outlines the mandate and tasks of each Dicastery.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-evangelization-tasks-mission-praedicate-evangelium.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-evangelization-tasks-mission-praedicate-evangelium.html>
+
+---
+
+## Fr. Paul Gabor, S.J. Gives Keynote at the Catholic Media Conference
+
+date: 2025-07-04, from: Vatican Obervatory
+
+The Catholic Media Conference was held in Phoenix, Arizona June 24-27, 2025, and Fr. Paul Gabor, S.J., Vice Director of the Vatican Observatory gave a Keynote... 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/fr-paul-gabor-s-j-gives-keynote-at-the-catholic-media-conference/>
+
+---
+
+## Former Arsenal footballer Thomas Partey charged with rape
+
+date: 2025-07-04, from: RTÉ News
+
+Former Arsenal footballer Thomas Partey has been charged with raping two women. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0704/1521891-partey-arsenal-arrest/>
+
+---
+
+## Rising hunger and poverty impacting families in the West Bank
+
+date: 2025-07-04, from: Vatican News
+
+
+                    <p>Hunger, poverty, and uncertainty are increasing across the West Bank. A new report reveals that 74% of families now live below the minimum standard of living, with the most affected being children.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/report-west-bank-poverty-violence-world-vision-report-interview.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/report-west-bank-poverty-violence-world-vision-report-interview.html>
+
+---
+
+## Man guilty of manslaughter after fatal Kildare stabbing
+
+date: 2025-07-04, from: RTÉ News
+
+A man who said he was acting in self defence when he stabbed his aunt's "violent" partner 15 times has been found not guilty of murder but guilty of manslaughter by a Central Criminal Court jury. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0704/1521889-ryan-kearney-court/>
+
+---
+
+## Freddie Thompson has assault trial application refused
+
+date: 2025-07-04, from: RTÉ News
+
+An application by convicted killer Freddie Thompson for the disclosure of a number of documents in advance of his upcoming trial for assault and threats to kill has been refused. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0704/1521886-thompson-courts/>
+
+---
+
+## The U.S. turns 249 today. Can Americans still find common ground?
+
+date: 2025-07-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7577505.1751650763!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/independence-day-washington.jpg' alt='People carrying U.S. flags gather outside a Classical Revival-style building.' width='620' height='349' title='Children wave American flags during Fourth of July festivities at the National Archives, Friday, July 4, 2025, in Washington. (AP Photo/Mark Schiefelbein)'/><p>Poll after poll has shown where Americans are apart from each other: on Trump's presidency, his immigration crackdown, U.S. support for Ukraine, and on the massive spending bill just passed by Congress, among other issues. So what — if anything — still brings Americans together across party lines?</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-common-ground-americans-1.7576803?cmp=rss>
+
+---
+
+## Despite provincial opposition, federal minister planning to table First Nations water bill
+
+date: 2025-07-04, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7321649.1728578309!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/alta-water-lawsuit-20240911.jpg' alt='Drinking water is poured into a glass from a faucet ' width='620' height='349' title='Drinking water is poured into a glass from a faucet in North Vancouver, July, 30, 2019. An Alberta First Nation has revived a lawsuit it first launched 10 years ago in an effort to get the federal government to recognize its human right to clean, safe water.  THE CANADIAN PRESS/Jonathan Hayward'/><p>The federal minister of Indigenous services says her government plans to reintroduce legislation to ensure First Nations' rights to clean drinking water — despite calls from Alberta and Ontario for it to scrap the bill altogether.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/edmonton/despite-provincial-opposition-federal-minister-planning-to-table-first-nations-water-bill-1.7577443?cmp=rss>
+
+---
+
+## Ontario architect's seal forged by remote worker believed to be North Korean fraudster
+
+date: 2025-07-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7577103.1751646526!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/global-creative-consultant-engineers.jpg' alt='This blueprint for a &apos;boutique studio,&apos; obtained by an X user called Cookier Connoisseur, contains a forgery of an architectural stamp belonging to Stephen Mauro, who is based in the Greater Toronto Area' width='620' height='349' title='This blueprint for a &apos;boutique studio,&apos; obtained by an X user called Cookier Connoisseur, contains a forgery of an architectural stamp belonging to Stephen Mauro, who is based in the Greater Toronto Area'/><p>In mid-May, an online researcher posted a series of professional stamps on X bearing the names of engineers across the United States. The researcher claimed they were being used by North Korean remote workers. Among them was the seal of Canadian architect Stephen Mauro.</p> 
+
+<br> 
+
+<https://www.cbc.ca/television/the-fifth-estate/ontario-architect-seal-north-korean-remote-worker-1.7577096?cmp=rss>
+
+---
+
+## Call for guidelines on climate change and coastal erosion
+
+date: 2025-07-04, from: RTÉ News
+
+There have been renewed calls for the Government to draw up national guidelines on how to best manage the effects of climate change on our coasts. 
+
+<br> 
+
+<https://www.rte.ie/news/environment/2025/0704/1521873-coastal-erosion/>
+
+---
+
+## ‘Holy Father, we’re sinking’: Archbishop of the Pacific meets with Pope Leo
+
+date: 2025-07-04, from: Vatican News
+
+
+                    <p>Archbishop Ryan Jimenez of Agaña, Guam, speaks to Vatican News about his recent meeting with Pope Leo XIV and the struggles and joys of life in the Pacific.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/holy-father-were-sinking-archbishop-pacific-ryan-jimenez.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/holy-father-were-sinking-archbishop-pacific-ryan-jimenez.html>
 
 ---
 
@@ -14,7 +334,7 @@ updated: 2025-07-04 06:08:40
 date: 2025-07-04, from: Vatican News
 
 
-                    <p>The mission of this Office that came out of the economic and administrative reforms initiated by Pope Francis is to contribute to the proper and transparent management of the Holy See’s assets. It is responsible for auditing the consolidated financial statements of the Holy See and those of the Governorate of Vatican City State.</p>
+                    <p>The mission of this Office, that came out of the economic and administrative reforms initiated by Pope Francis, is to contribute to the proper and transparent management of the Holy See’s assets. It is responsible for auditing the consolidated financial statements of the Holy See and those of the Governorate of Vatican City State.</p>
                     <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/the-office-of-the-auditor-general.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -37,6 +357,18 @@ At least 15 Palestinians have been killed overnight in an Israeli airstrike in G
 
 ---
 
+## Hamas responds in 'positive spirit' to ceasefire proposal
+
+date: 2025-07-04, from: RTÉ News
+
+Hamas said it had responded in "a positive spirit" to a US-brokered Gaza ceasefire proposal and was prepared to enter into talks on implementing the deal which envisages a release of hostages and negotiations on ending the conflict. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0704/1521868-middle-east-gaza/>
+
+---
+
 ## Diogo Jota mourned by family, Portugal's PM in hometown
 
 date: 2025-07-04, from: RTÉ News
@@ -49,11 +381,11 @@ Portugese Prime Minister Luis Montenegro joined members of Diogo Jota's family f
 
 ---
 
-## Eight jailed over MV Matthew cocaine seizure
+## Eight jailed over largest cocaine seizure in Ireland
 
 date: 2025-07-04, from: RTÉ News
 
-Eight men have been jailed for between 13 and a half and 20 years for their roles in trying to smuggle 2.2 tonnes of cocaine worth over €157m, the largest cocaine seizure in Irish history. 
+Eight men have been jailed for between 13 and a half and 20 years for their roles in trying to smuggle 2.2 tonnes of cocaine, worth over €157m, the largest cocaine seizure in Irish history. 
 
 <br> 
 
@@ -65,7 +397,7 @@ Eight men have been jailed for between 13 and a half and 20 years for their role
 
 date: 2025-07-04, from: RTÉ News
 
-There have been more than 103,000 calls for help to St Vincent De Paul this year and almost half were requests for help with food. 
+There have been more than 103,000 calls for help to St Vincent de Paul this year and almost half were requests for help with food. 
 
 <br> 
 
@@ -89,7 +421,7 @@ date: 2025-07-04, from: Vatican News
 
 ---
 
-## Pope Leo prays for those affected by accidental explosion in Rome
+## Pope Leo prays for those affected by gas explosion in Rome
 
 date: 2025-07-04, from: Vatican News
 
@@ -117,11 +449,23 @@ A Clare-based GP has said "there's been a big change" in people attending the me
 
 ---
 
-## Russia fired record number of drones overnight - Ukraine
+## More presenting with hay fever due to high pollen levels
 
 date: 2025-07-04, from: RTÉ News
 
-Russia hit Kyiv with the largest drone attack of the war, injuring at least 23 people and damaging buildings across the capital, according to officials. 
+A Clare-based GP has said "there's been a big change" in people attending the medical practice for hay fever, as higher pollen levels are reported in parts of Europe. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0704/1521842-hay-fever/>
+
+---
+
+## Russia pounds Ukraine with largest drone attack of war
+
+date: 2025-07-04, from: RTÉ News
+
+Russia has repeatedly struck the Ukrainian capital Kyiv in the largest drone attack of the war, killing one person, injuring at least 23 and damaging buildings across the capital. 
 
 <br> 
 
@@ -145,7 +489,19 @@ date: 2025-07-04, from: Vatican News
 
 ---
 
-## Various religions meet in Tokyo to reject war and promote dialogue
+## Gaza hospital 'one massive trauma ward' treating Palestinians shot trying to access food: WHO
+
+date: 2025-07-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7577139.1751636099!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza-aid.JPG' alt='Mourners carry bodies shrouded in white bags' width='620' height='349' title='Mourners carry the bodies of Palestinians, who, according to Gaza&apos;s health ministry, were killed in an overnight Israeli strike on a tent, outside Nasser Hospital in Khan Younis, southern Gaza Strip, July 3, 2025. '/><p>Nasser Hospital in Gaza is operating as "one massive trauma ward" due to an influx of patients wounded at non-United Nations food distribution sites run by the Gaza Humanitarian Foundation, the World Health Organization said on Friday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/gaza-aid-who-1.7577063?cmp=rss>
+
+---
+
+## Religions meet in Tokyo to reject war and promote dialogue
 
 date: 2025-07-04, from: Vatican News
 
@@ -161,6 +517,18 @@ date: 2025-07-04, from: Vatican News
 
 ---
 
+## Ekrem Imamoglu, rival of Turkish president Erdogan, faces a new criminal charge
+
+date: 2025-07-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7577125.1751636829!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2223124864.jpg' alt='People are gathered outdoors as far as the photo lens captures, in an apparent protest. In the foreground, a woman holds up a sign bearing the photo of a cleanshaven, bespectacled man. ' width='620' height='349' title='ISTANBUL, TURKEY - JULY 01: A supporter holds a poster of Ekrem Imamoglu during a protest rally organized by the main opposition Republican People’s Party (CHP) in Sarachane on the 100th day of his imprisonment, on July 1, 2025, in Istanbul, Turkey. Since March 19, five police operations linked to an investigation involving Istanbul Municipality have led to the arrest of 156 people. Following the detention and subsequent imprisonment of Mayor Ekrem Imamoglu, protests organized by CHP leader Ozgur Ozel took place in Sarachane, near the municipality’s headquarters building, marking the largest demonstrations the country has seen since the 2013 Gezi Park protests. Those rallies continued for days and later spread to other cities and districts. Imamoglu, seen as the main political rival to President Recep Tayyip Erdoğan, denies the charges against him, calling the investigations politically motivated. Political pressure on the main opposition CHP continues, with a court set to decide on September 8 whether to appoint a trustee to the party leadership. This morning, 157 people, including the former mayor of Izmir of CHP, were detained as part of a separate investigation into allegations of corruption and misconduct.  '/><p>Turkish prosecutors has charged Istanbul's mayor, Ekrem Imamoglu, with falsifying his university diploma, a new case threatening more years in prison for President Recep Tayyip Erdogan's main rival, already jailed pending corruption charges he denies.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/turkey-imamoglu-new-charges-1.7577038?cmp=rss>
+
+---
+
 ## At least 27 injured in Rome petrol station explosion
 
 date: 2025-07-04, from: RTÉ News
@@ -170,6 +538,18 @@ At least 27 people, including ten police officers and a firefighter, were injure
 <br> 
 
 <https://www.rte.ie/news/world/2025/0704/1521824-rome-explosion/>
+
+---
+
+## At least 45 injured in Rome petrol station explosion
+
+date: 2025-07-04, from: RTÉ News
+
+At least 45 people have been injured in a huge explosion at a petrol station in Rome, according to Italian authorities. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0704/1521824-rome-explosion/>
 
 ---
 
@@ -217,11 +597,11 @@ date: 2025-07-04, from: Vatican News
 
 ---
 
-## Wildfire on Greek island of Crete 'retreating'
+## Greece on high alert as heat and wind fuel fire outbreaks
 
 date: 2025-07-04, from: RTÉ News
 
-A wildfire on the Greek island of Crete that forced the evacuation of 5,000 tourists and locals is "retreating", firefighters have said. 
+A new fire has broken out near the Greek capital, Athens, as the country was put on high alert for wildfires due to increased temperatures and strong winds. 
 
 <br> 
 
@@ -241,7 +621,7 @@ The American singer Katy Perry and the British actor Orlando Bloom have official
 
 ---
 
-## Mother and daughter killed in Donegal crash named locally
+## Carndonagh 'devastated' over deaths of mother, daughter
 
 date: 2025-07-04, from: RTÉ News
 
@@ -301,6 +681,18 @@ There has been no immediate breakthrough in the EU-US trade negotiations, accord
 
 ---
 
+## EU diplomats downbeat as US trade deal not yet reached
+
+date: 2025-07-04, from: RTÉ News
+
+EU diplomats have said there is still no trade deal with the United States, and have given a downbeat assessment of how US President Donald Trump might respond when the deadline to reach agreement expires next Wednesday and a 90 day pause on higher tariffs runs out. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0704/1521785-eu-us-trade-talks/>
+
+---
+
 ## Pope Leo visits Castel Gandolfo ahead of his summer holiday
 
 date: 2025-07-04, from: Vatican News
@@ -317,7 +709,7 @@ date: 2025-07-04, from: Vatican News
 
 ---
 
-## Countdown begins as Oasis kick-off reunion tour tonight
+## Countdown continues as Oasis kick-off reunion tonight
 
 date: 2025-07-04, from: RTÉ News
 
@@ -353,6 +745,18 @@ Peter's first near death experience got him used to the idea that, from now on, 
 
 ---
 
+## 'They're like my kids': Mi'kmaw elder stitching together high school memories
+
+date: 2025-07-04, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7572646.1751569985!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/wagmatcook-elder-nancy-nano-bernard.jpg' alt='Wagmatcook Elder Nancy (Nano) Bernard points to her first ever graduation quilt that she started in 1992. Over the past 33 years, Bernard has featured more than 200 people on her quilts as a way of honouring Wagmatcook&apos;s school graduates. ' width='620' height='349' title='Nancy (Nano) Bernard points to her first ever graduation quilt that she started in 1992. Over the past 33 years, the Wagmatcook Elder has featured more than 200 people on her quilts as a way of honouring Wagmatcook&apos;s high school graduates. '/><p>The Mi'kmaw elder has made quilts for more than 30 years featuring her community's high school grads.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/nova-scotia/mikmaw-elder-quilts-wagmatcook-1.7576516?cmp=rss>
+
+---
+
 ## Palestinian students say visa delays have stranded them despite admission to Canadian schools
 
 date: 2025-07-04, from: CBC, World News
@@ -365,11 +769,11 @@ date: 2025-07-04, from: CBC, World News
 
 ---
 
-## Trump declares 'phenomenal victory' as tax bill passes
+## Trump to sign 'big, beautiful' bill on Independence Day
 
 date: 2025-07-04, from: RTÉ News
 
-US President Donald Trump boasted of a "phenomenal victory" to cheering supporters at a rally in Iowa after Congress narrowly passed his signature tax and spending bill, cementing his radical second-term agenda. 
+US President Donald Trump has prepared to sign his flagship tax and spending bill in a pomp-laden Independence Day ceremony featuring fireworks and a flypast by the type of stealth bomber that bombed Iran. 
 
 <br> 
 
@@ -578,6 +982,18 @@ Liverpool head coach Arne Slot insists everyone associated with the club owes it
 <br> 
 
 <https://www.rte.ie/sport/soccer/2025/0703/1521751-slot-words-cant-describe-pain-of-diogo-jotas-death/>
+
+---
+
+## Manitoba Indigenous Summer Games postponed to 2026 due to wildfires
+
+date: 2025-07-03, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7496341.1743184273!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2025-manitoba-indigenous-summer-games.jpg' alt='The Manitoba Aboriginal Sports and Recreation Council organizes the games.' width='620' height='349' title='Norway House Cree Nation and Sagkeeng Anicinabe Nation are hosting the 2025 edition of the Manitoba Indigenous Summer Games. '/><p>The Manitoba Indigenous Summer Games (MISG) that were scheduled to begin next week in Norway House Cree Nation, have been postponed to next year.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/misg-postponed-2026-wildfires-1.7576505?cmp=rss>
 
 ---
 
@@ -863,7 +1279,7 @@ date: 2025-07-03, from: Vatican News
 
 ## The Sevilla Commitment: A vital step to rebuild trust in global cooperation
 
-date: 2025-07-03, from: United Nations, Top Stories
+date: 2025-07-03, from: United Nations, Economic Development
 
 Civil society organisations have welcomed the consensus reached at the landmark sustainable development conference concluding this Thursday in Sevilla, while cautioning that real progress will depend on sustained action. 
 
@@ -875,7 +1291,7 @@ Civil society organisations have welcomed the consensus reached at the landmark 
 
 ## Chile and Argentina among coldest places on Earth as polar anticyclone grips region
 
-date: 2025-07-03, from: United Nations, Top Stories
+date: 2025-07-03, from: United Nations, Climate Change
 
 Temperatures across lower South America have plummeted – falling as low as -15° Celsius or 5° Fahrenheit in some places – as a rare polar cold wave grips the region, the World Meteorological Organization (WMO) reported on Thursday.&nbsp; 
 
@@ -911,7 +1327,7 @@ The UN Secretary-General is “appalled” by the deepening humanitarian crisis 
 
 ## Landless and locked out: Young farmers struggle for a future
 
-date: 2025-07-03, from: United Nations, Top Stories
+date: 2025-07-03, from: United Nations, Economic Development
 
 Agricultural land is more than just a resource to produce food – for many older adults around the world, a land deed is the only safety net they have as they enter their old age. As a result, they hold onto it tightly.&nbsp;&nbsp; 
 
@@ -923,7 +1339,7 @@ Agricultural land is more than just a resource to produce food – for many olde
 
 ## With sustainable development under threat, Sevilla summit rekindles hope and unity
 
-date: 2025-07-03, from: United Nations, Top Stories
+date: 2025-07-03, from: United Nations, Economic Development
 
 The landmark Financing for Development conference in Sevilla has concluded with a renewed sense of resolve and a focus on action that can change lives worldwide, according to UN Deputy Secretary-General Amina Mohammed. 
 
@@ -1900,7 +2316,7 @@ Four people have died in Spain, two in France and two in Italy as an early summe
 
 ## Space is not the final frontier – it is the foundation of our future: UN deputy chief
 
-date: 2025-07-02, from: United Nations, Top Stories
+date: 2025-07-02, from: United Nations, Economic Development
 
 Space technologies are no longer a distant frontier but a critical foundation for daily life and global development, the UN Deputy Secretary-General said on Wednesday. 
 
@@ -1912,7 +2328,7 @@ Space technologies are no longer a distant frontier but a critical foundation fo
 
 ## INTERVIEW: Sevilla ‘a critical test’ of multilateralism
 
-date: 2025-07-02, from: United Nations, Top Stories
+date: 2025-07-02, from: United Nations, Economic Development
 
 Nations taking part in a flagship UN conference have pledged to address the debt crisis in the Global South and boost sustainable development. However, the real test will be whether or not these commitments will be translated into action. 
 
@@ -1924,7 +2340,7 @@ Nations taking part in a flagship UN conference have pledged to address the debt
 
 ## Sevilla: Without sustainable development, there is neither hope nor security
 
-date: 2025-07-02, from: United Nations, Top Stories
+date: 2025-07-02, from: United Nations, Economic Development
 
 A senior UN official has told UN News that the global development challenge is not lack of money, but how to align public and private capital flows. The Sevilla Agreement adopted this week, sets out a roadmap for all UN Member States — except the US which pulled out earlier this month — with the aim of mobilizing that capital. 
 
@@ -1936,7 +2352,7 @@ A senior UN official has told UN News that the global development challenge is n
 
 ## Drowning in debt: New forum in Sevilla offers borrowers chance to rebalance the books
 
-date: 2025-07-02, from: United Nations, Top Stories
+date: 2025-07-02, from: United Nations, Economic Development
 
 A new mechanism offering debt-distressed countries a way to coordinate action and amplify their voice in the global financial system, has been launched at the UN’s pivotal sustainable development conference in Sevilla.&nbsp; 
 
@@ -2978,7 +3394,7 @@ Conflicts in the Middle East and North Africa in the last two years reportedly k
 
 ## ‘The margins of the budget’: Gender equality in developing countries underfunded by $420 billion annually
 
-date: 2025-07-01, from: United Nations, Top Stories
+date: 2025-07-01, from: United Nations, Economic Development
 
 Developing countries currently face a staggering $420 billion annual gap in the funding needed to achieve gender equality, UN Women estimates. This gap means that programmes and services for women and girls are chronically underfunded.&nbsp;&nbsp; 
 
@@ -2990,7 +3406,7 @@ Developing countries currently face a staggering $420 billion annual gap in the 
 
 ## 50 years of CITES: Protecting wildlife from trade-driven extinction
 
-date: 2025-07-01, from: United Nations, Top Stories
+date: 2025-07-01, from: United Nations, Climate Change
 
 The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) marks 50 years since it entered into force on Tuesday, celebrating five decades of protecting endangered wildlife from overexploitation through international trade. 
 
@@ -3002,7 +3418,7 @@ The Convention on International Trade in Endangered Species of Wild Fauna and Fl
 
 ## Spain and Brazil push global action to tax the super-rich and curb inequality
 
-date: 2025-07-01, from: United Nations, Top Stories
+date: 2025-07-01, from: United Nations, Economic Development
 
 Spain and Brazil have launched a joint initiative to promote higher tax contributions from the super-rich worldwide, aimed at tackling soaring inequality by ensuring those with the most pay their fair share. 
 
@@ -3014,7 +3430,7 @@ Spain and Brazil have launched a joint initiative to promote higher tax contribu
 
 ## Northern hemisphere heatwave underscores value of early-warning alerts
 
-date: 2025-07-01, from: United Nations, Top Stories
+date: 2025-07-01, from: United Nations, Climate Change
 
 The blistering early-summer heatwave that’s brought life-threatening temperatures across much of the northern hemisphere is a worrying sign of things to come, UN weather experts said on Tuesday. 
 
@@ -3026,7 +3442,7 @@ The blistering early-summer heatwave that’s brought life-threatening temperatu
 
 ## General Assembly approves $5.4 billion UN peacekeeping budget for 2025-2026
 
-date: 2025-07-01, from: United Nations, Top Stories
+date: 2025-07-01, from: United Nations, UN Affairs
 
 The General Assembly on Monday approved a $5.38 billion budget for UN peacekeeping operations for the 2025-2026 fiscal year, down slightly from the previous year, as delegates wrapped up weeks of negotiations amid warnings about persistent funding challenges. 
 
@@ -3904,7 +4320,7 @@ More than 700,000 Afghan migrants have returned from Iran so far this year, incl
 
 ## Human rights can be a ‘strong lever for progress’ in climate change, says UN rights chief
 
-date: 2025-06-30, from: United Nations, Top Stories
+date: 2025-06-30, from: United Nations, Climate Change
 
 The UN’s top rights official on Monday urged the international community to confront the growing human rights implications of climate change. 
 
@@ -3928,7 +4344,7 @@ One in six people are affected by loneliness, with significant implications for 
 
 ## After the big development pledges in Sevilla, UN says action starts now
 
-date: 2025-06-30, from: United Nations, Top Stories
+date: 2025-06-30, from: United Nations, Economic Development
 
 Now the big promises have been formally adopted in the Spanish city of Sevilla to turbocharge financing for sustainable development, how are the ambitious goals going to be met – and how quickly? 
 

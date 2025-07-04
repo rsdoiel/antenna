@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-07-04 06:08:41
+updated: 2025-07-04 14:08:13
 ---
 
 # north america
 
-(date: 2025-07-04 06:08:41)
+(date: 2025-07-04 14:08:13)
+
+---
+
+## Why aren't there any good movies about the Revolutionary War? 
+
+date: 2025-07-04, from: The Contrarian
+
+And all the summery things you should watch this weekend instead, from sharks to popcorn movies 
+
+<br> 
+
+<https://contrarian.substack.com/p/why-arent-there-any-good-movies-about>
+
+---
+
+## Where we go from here
+
+date: 2025-07-04, from: The Contrarian
+
+Some July 4th Optimism&#8212;Publisher&#8217;s Roundup 25 
+
+<br> 
+
+<https://contrarian.substack.com/p/where-we-go-from-here>
 
 ---
 

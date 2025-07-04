@@ -1,11 +1,103 @@
 ---
 title: home
-updated: 2025-07-04 06:08:46
+updated: 2025-07-04 14:08:21
 ---
 
 # home
 
-(date: 2025-07-04 06:08:46)
+(date: 2025-07-04 14:08:21)
+
+---
+
+## When and How to Divide Sedum (Stonecrop)
+
+date: 2025-07-04, from: The Gardener's Path
+
+<p>Dividing sedum helps manage overgrown clumps, refresh tired plants, and create free new starts for the garden. Whether you’re working with upright or creeping types, this simple task encourages healthier growth and better structure with minimal effort. Learn when and how to divide stonecrop in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/divide-sedum/">When and How to Divide Sedum (Stonecrop)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/divide-sedum/>
+
+---
+
+## You Can Live in the Treetops at This $800K Portland Home
+
+date: 2025-07-04, from: Dwell
+
+Perched on a forested hillside, the cedar-clad house conjures up tree house vibes with organic materials, double-height ceilings, and an elevated deck. 
+
+<br> 
+
+<https://www.dwell.com/article/forest-home-james-g-tropfenbaum-portland-oregon-real-estate-012ed04e>
+
+---
+
+## 6 Swallows and Martins in Wisconsin (Pictures and Identification)
+
+date: 2025-07-04, from: Yard Life blog
+
+<p>Wisconsin is home to a diverse group of swallows and martins that grace the skies each spring and summer. These ... </p>
+<p class="read-more-container"><a title="6 Swallows and Martins in Wisconsin (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/6-swallows-and-martins-in-wisconsin-pictures-and-identification/#more-31660" aria-label="Read more about 6 Swallows and Martins in Wisconsin (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/6-swallows-and-martins-in-wisconsin-pictures-and-identification/">6 Swallows and Martins in Wisconsin (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/6-swallows-and-martins-in-wisconsin-pictures-and-identification/>
+
+---
+
+## 3 Hummingbirds in Pennsylvania (With Pictures and Identification)
+
+date: 2025-07-04, from: Yard Life blog
+
+<p>Pennsylvania offers excellent opportunities to observe a few remarkable hummingbird species during the warmer months and fall migration. While only ... </p>
+<p class="read-more-container"><a title="3 Hummingbirds in Pennsylvania (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-hummingbirds-in-pennsylvania-with-pictures-and-identification/#more-31653" aria-label="Read more about 3 Hummingbirds in Pennsylvania (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-hummingbirds-in-pennsylvania-with-pictures-and-identification/">3 Hummingbirds in Pennsylvania (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-hummingbirds-in-pennsylvania-with-pictures-and-identification/>
+
+---
+
+## My House: When a Hawk Screeched, Musician Nathaniel Rateliff Knew This Was the Place
+
+date: 2025-07-04, from: Dwell
+
+The touring songwriter took a break during the pandemic to renovate a neglected home near Red Rocks in Colorado. 
+
+<br> 
+
+<https://www.dwell.com/article/red-rocks-residence-nathaniel-rateliff-the-night-sweats-neoera-architecture-and-design-8d919144>
+
+---
+
+## Tech Bros Plan a Federal Land Grab—and Everything Else You Need to Know About This Week
+
+date: 2025-07-04, from: Dwell
+
+American kids are biking less, urban parks are shown to cool cities, San Francisco gets its first floating sauna, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/colorado-federal-land-grab-kids-are-biking-less-mauricio-umansky-national-association-of-realtors-a1bfe932>
+
+---
+
+## Santa Cruz Is a Central Coast Gem. Here’s What to Do on a Weekend Visit.
+
+date: 2025-07-04, from: Sunset Magazine - Living in the West
+
+Santa Cruz is relaxed, crunchy, coastal gem of a town. A local shares her go-to spots to visit on your next getaway. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/santa-cruz-things-to-do>
 
 ---
 
@@ -450,18 +542,6 @@ The Bay Area is finally figuring out what Nordic countries have been doing for y
 <br> 
 
 <https://www.dwell.com/article/san-francisco-first-floating-sauna-fjord-good-hot-alchemy-springs-contrast-therapy-fd61b03f>
-
----
-
-## Santa Cruz Is a Central Coast Gem. Here’s What to Do on a Weekend Visit.
-
-date: 2025-07-02, from: Sunset Magazine - Living in the West
-
-Santa Cruz is relaxed, crunchy, coastal gem of a town. A local shares her go-to spots to visit on your next getaway. 
-
-<br> 
-
-<https://www.sunset.com/travel/insider-guides/santa-cruz-things-to-do>
 
 ---
 

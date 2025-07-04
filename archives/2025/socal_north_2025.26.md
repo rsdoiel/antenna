@@ -1,11 +1,116 @@
 ---
 title: socal north
-updated: 2025-07-04 06:08:41
+updated: 2025-07-04 14:08:14
 ---
 
 # socal north
 
-(date: 2025-07-04 06:08:41)
+(date: 2025-07-04 14:08:14)
+
+---
+
+## Immigrants with no criminal convictions represent sharpest growth in ICE detention population
+
+date: 2025-07-04, updated: 2025-07-04, from: The LAist
+
+The number of people in ICE detention without criminal convictions nearly doubled in the last month — a significant increase compared to detainees who have been convicted of crimes. 
+
+<br> 
+
+<https://laist.com/news/immigrants-with-no-criminal-convictions-represent-sharpest-growth-in-ice-detention-population>
+
+---
+
+## Congress passed no tax on tips in Trump's 'big, beautiful bill.' Here's how it works
+
+date: 2025-07-04, updated: 2025-07-04, from: The LAist
+
+Congress passed the tax cut and spending megabill with President Trump's legislative priorities which includes new tax exemptions for tipped hourly workers. But how will it work? 
+
+<br> 
+
+<https://laist.com/news/no-tax-on-tips-how-it-works>
+
+---
+
+## 'Antagonized for being Hispanic': Growing claims of racial profiling in LA raids
+
+date: 2025-07-04, updated: 2025-07-04, from: The LAist
+
+Immigration agents are raiding known hubs for Latino workers: day laborer gathering spots, street vendor corners and car washes. Legal advocacy groups say their tactics are unconstitutional. 
+
+<br> 
+
+<https://laist.com/news/antagonized-for-being-hispanic-growing-claims-of-racial-profiling-in-la-raids>
+
+---
+
+## Fireworks explosions in SoCal leaves two dead, multiple homes burned
+
+date: 2025-07-04, updated: 2025-07-04, from: The LAist
+
+Ahead of July 4th celebrations, stockpiles of fireworks exploded inside homes in Pacoima and Simi Valley. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-fourth-july-pacoima-simi-valley-deadly-fireworks-explosions>
+
+---
+
+## Cats seized from Long Beach may soon be up for adoption, police say
+
+date: 2025-07-04, from: Longbeach Post
+
+<figure><img width="1024" height="821" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119-1024x821.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119-1024x821.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119-300x241.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119-768x616.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119-135x108.jpg 135w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119-400x321.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119.jpg 1087w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Merced County Sheriff’s Office may soon offer up the more than 100 cats saved from a Long Beach Woman’s U-Haul truck for adoption. </p>
+<p>The post <a href="https://lbpost.com/news/cats-seized-from-long-beach-may-soon-be-up-for-adoption-police-say">Cats seized from Long Beach may soon be up for adoption, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/cats-seized-from-long-beach-may-soon-be-up-for-adoption-police-say>
+
+---
+
+## Motorcyclist killed, passenger injured in North Long Beach collision
+
+date: 2025-07-04, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The crash occurred about 9:20 p.m. Thursday near the intersection of Downey Avenue and South Street, the Long Beach Police Department reported.  </p>
+<p>The post <a href="https://lbpost.com/news/motorcyclist-killed-passenger-injured-in-north-long-beach-collision">Motorcyclist killed, passenger injured in North Long Beach collision</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/motorcyclist-killed-passenger-injured-in-north-long-beach-collision>
+
+---
+
+## The last fireworks show on the Bay? Tens of thousands come to see show
+
+date: 2025-07-04, from: Longbeach Post
+
+<figure><img width="683" height="1024" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04065306/3w3a0842-2jpg-421120-ys4idjnm-791399-svSThwKv-683x1024.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04065306/3w3a0842-2jpg-421120-ys4idjnm-791399-svSThwKv-683x1024.jpg 683w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04065306/3w3a0842-2jpg-421120-ys4idjnm-791399-svSThwKv-200x300.jpg 200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04065306/3w3a0842-2jpg-421120-ys4idjnm-791399-svSThwKv-768x1152.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04065306/3w3a0842-2jpg-421120-ys4idjnm-791399-svSThwKv-72x108.jpg 72w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04065306/3w3a0842-2jpg-421120-ys4idjnm-791399-svSThwKv-1024x1536.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04065306/3w3a0842-2jpg-421120-ys4idjnm-791399-svSThwKv-1200x1800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04065306/3w3a0842-2jpg-421120-ys4idjnm-791399-svSThwKv-400x600.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04065306/3w3a0842-2jpg-421120-ys4idjnm-791399-svSThwKv-rotated.jpg 1280w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>An estimated 100,000 see the fireworks each year, including those crowded on beach, waiting in traffic or picnicking on the lawn and greenways along the canals. </p>
+<p>The post <a href="https://lbpost.com/news/the-last-fireworks-show-on-the-bay-tens-of-thousands-come-to-see-show">The last fireworks show on the Bay? Tens of thousands come to see show</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/the-last-fireworks-show-on-the-bay-tens-of-thousands-come-to-see-show>
+
+---
+
+## Rolling Hills, also grappling with landslide damage, seeks its own buyout program for affected residents
+
+date: 2025-07-04, updated: 2025-07-04, from: The LAist
+
+Rancho Palos Verdes has already started its FEMA-funded buyout program for homes destroyed by the land movement. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/rolling-hills-also-grappling-with-landslide-damage-seeks-its-own-buyout-program-for-affected-residents>
 
 ---
 
@@ -109,7 +214,7 @@ Jim McDonnell, chief of LAPD, has issued new guidance instructing officers to id
 
 date: 2025-07-03, from: Longbeach Post
 
-<figure><img width="640" height="425" src="https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168.png 640w, https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168-730x484.png 730w, https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168-1110x737.png 1110w, https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168-768x510.png 768w, https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168-1536x1020.png 1536w, https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168-2048x1360.png 2048w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="640" height="425" src="https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168.png 640w, https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168-730x484.png 730w, https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168-1110x737.png 1110w, https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168-768x510.png 768w, https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168-1536x1020.png 1536w, https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168-2048x1360.png 2048w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Last year, the most calls came from a neighborhood just south of Pacific Coast Highway and west of Redondo Avenue.</p>
 <p>The post <a href="https://lbpost.com/news/illegal-firework-complaints-have-declined-with-tougher-enforcement-city-says">Illegal firework complaints have declined with tougher enforcement, city says </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

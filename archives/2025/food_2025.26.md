@@ -1,11 +1,23 @@
 ---
 title: food
-updated: 2025-07-04 06:08:47
+updated: 2025-07-04 14:08:24
 ---
 
 # food
 
-(date: 2025-07-04 06:08:47)
+(date: 2025-07-04 14:08:24)
+
+---
+
+## Hawai‘i the Local Way
+
+date: 2025-07-04, from: Bon Appetet
+
+This chain of volcanic islands spanning 1,500 miles of the Pacific Ocean is an ecological wonder. Those who call Hawai‘i home also know of a different bounty: a highly unique culinary tradition as lush and enticing as the landscape itself. 
+
+<br> 
+
+<https://www.bonappetit.com/story/hawaii-print-summer-2025>
 
 ---
 

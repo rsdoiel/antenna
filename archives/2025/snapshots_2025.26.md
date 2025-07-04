@@ -1,11 +1,164 @@
 ---
 title: snapshots
-updated: 2025-07-04 06:08:49
+updated: 2025-07-04 14:08:26
 ---
 
 # snapshots
 
-(date: 2025-07-04 06:08:49)
+(date: 2025-07-04 14:08:26)
+
+---
+
+## DOJ’s iPhone Monopoly Case Moves Forward
+
+date: 2025-07-04, from: Michael Tsai
+
+Juli Clover: Apple failed in its attempt to get the antitrust lawsuit that the U.S. Department of Justice filed against it dismissed, reports Reuters. U.S. District Judge Julien Neals, who is overseeing the case, today denied Apple&#8217;s motion for dismissal.[&#8230;]The DOJ accused Apple of a smartphone monopoly in the United States, citing Apple&#8217;s restriction of [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/04/dojs-iphone-monopoly-case-moves-forward/>
+
+---
+
+## iOS 26 Recovery Assistant
+
+date: 2025-07-04, from: Michael Tsai
+
+Joe Rossignol: iOS 26 adds a new Recovery Assistant feature to all compatible iPhones, and it can help return the device to a working state, with no Mac or PC required.[&#8230;]According to a Reddit post, Recovery Assistant can help you return an iPhone to a working state with help from another Apple device, such as [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/04/ios-26-recovery-assistant/>
+
+---
+
+## iOS 26 Information Density
+
+date: 2025-07-04, from: Michael Tsai
+
+Nate Parrott: didn&#8217;t realize everything in iOS 26 is just a little bigger and way less stuff fits on screen now? Riccardo Mori: Let&#8217;s make a fun comparison about information density across various versions of iOS and device screen sizes. In reverse chronological order. Corollary: iOS 26 kinda sucks at information density. Riccardo Mori: [Apple:] [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/04/ios-26-information-density/>
+
+---
+
+## Common Vulnerabilities and Exposures (CVE) Funding
+
+date: 2025-07-04, from: Michael Tsai
+
+Cynthia Brumfield (via Hacker News): After DHS did not renew its funding contract for reasons unspecified, MITRE&#8217;s 25-year-old Common Vulnerabilities and Exposures (CVE) program was slated for an abrupt shutdown on April 16, which would have left security flaw tracking in limbo. Gavin D. Howard (via Hacker News): The CVE system has been less good [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/04/common-vulnerabilities-and-exposures-cve-funding/>
+
+---
+
+## Identify, solve, verify
+
+date: 2025-07-04, updated: 2025-07-04, from: Simon Willison’s Weblog
+
+<p>The more time I spend using LLMs for code, the less I worry for my career - even as their coding capabilities continue to improve.</p>
+<p>Using LLMs as part of my process helps me understand how much of my job isn't just bashing out code.</p>
+<p>My job is to identify problems that can be solved with code, then solve them, then verify that the solution works and has actually addressed the problem.</p>
+<p>A more advanced LLM may eventually be able to completely handle the middle piece. It can help with the first and last pieces, but only when operated by someone who understands both the problems to be solved and how to interact with the LLM to help solve them.</p>
+<p>No matter how good these things get, they will still need someone to find problems for them to solve, define those problems and confirm that they are solved. That's a job - one that other humans will be happy to outsource to an expert practitioner.</p>
+<p>It's also about 80% of what I do as a software developer already.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/careers">careers</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/4/identify-solve-verify/#atom-everything>
+
+---
+
+## Offerwall + Supertab
+
+date: 2025-07-04, from: Chris Coyier blog
+
+Offerwall lets sites provide potentially a few ways to monetize content, and for users to choose the one that they prefer. For example, a publisher can set up to allow reading their site in exchange for watching an ad (similar to YouTube&#8217;s model). That&#8217;s pretty interesting, but far more interesting to me, is that it integrates with [&#8230;] 
+
+<br><video crossorigin="anonymous" controls="controls" width="250">
+<source type="video/mp4" src="https://videos.files.wordpress.com/PmnTY0oS/669ae70a26bc152b6bae4f13-674876fcdc97e780aba99394_66e7076d0ab8f79f72cf196d_66e742d74f137113dda02c0a_bib7-transcode-transcode.mp4"></source>
+</video> <a href="https://videos.files.wordpress.com/PmnTY0oS/669ae70a26bc152b6bae4f13-674876fcdc97e780aba99394_66e7076d0ab8f79f72cf196d_66e742d74f137113dda02c0a_bib7-transcode-transcode.mp4" target="_blank">download video/mp4</a> 
+
+<https://chriscoyier.net/2025/07/04/offerwall-supertab/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-04, from: Robert's feed at BlueSky)
+
+Inspiring 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lt5svqnfrs2g>
+
+---
+
+## Why does my phone sometimes not ring when people call?
+
+date: 2025-07-04, from: Guy Kawasaki blog
+
+Jairo Gutierrez, Professor, Department of Computer and Information Sciences, Auckland University of Technology. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/why-does-my-phone-sometimes-not-ring>
+
+---
+
+## The Red Sox Retro Broadcast
+
+date: 2025-07-04, updated: 2025-07-04, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/07/04/the-red-sox-retro-broadcast/>
+
+---
+
+## awwaiid/gremllm
+
+date: 2025-07-04, updated: 2025-07-04, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/awwaiid/gremllm">awwaiid/gremllm</a></strong></p>
+Delightfully <em>cursed</em> Python library by Brock Wilcox, built on top of <a href="https://llm.datasette.io/">LLM</a>:</p>
+<pre><span class="pl-k">from</span> <span class="pl-s1">gremllm</span> <span class="pl-k">import</span> <span class="pl-v">Gremllm</span>
+
+<span class="pl-s1">counter</span> <span class="pl-c1">=</span> <span class="pl-en">Gremllm</span>(<span class="pl-s">"counter"</span>)
+<span class="pl-s1">counter</span>.<span class="pl-c1">value</span> <span class="pl-c1">=</span> <span class="pl-c1">5</span>
+<span class="pl-s1">counter</span>.<span class="pl-c1">increment</span>()
+<span class="pl-en">print</span>(<span class="pl-s1">counter</span>.<span class="pl-c1">value</span>)  <span class="pl-c"># 6?</span>
+<span class="pl-en">print</span>(<span class="pl-s1">counter</span>.<span class="pl-c1">to_roman_numerals</span>()) <span class="pl-c"># VI?</span></pre>
+
+<p>You tell your Gremllm what it should be in the constructor, then it uses an LLM to hallucinate method implementations based on the method name every time you call them!</p>
+<blockquote>
+<p>This utility class can be used for a variety of purposes. Uhm. Also please don't use this and if you do please tell me because WOW. Or maybe don't tell me. Or do.</p>
+</blockquote>
+<p>Here's <a href="https://github.com/awwaiid/gremllm/blob/a2bd807b2338bd867b8f25a679723c25eb6302f4/gremllm/core.py#L128">the system prompt</a>, which starts:</p>
+<blockquote>
+<p><code>You are a helpful AI assistant living inside a Python object called '{self._identity}'.</code><br>
+<code>Someone is interacting with you and you need to respond by generating Python code that will be eval'd in your context.</code></p>
+<p><code>You have access to 'self' (the object) and can modify self._context to store data.</code></p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://mastodon.social/@awwaiid/114781009945415816">@awwaiid</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/4/gremllm/#atom-everything>
 
 ---
 
@@ -94,6 +247,21 @@ Progress isn't a rule, it's contested terrain, fought for daily by millions of p
 <br> 
 
 <https://bsky.app/profile/rsdoiel.bsky.social/post/3lt47resx6s2i>
+
+---
+
+## Carl Bialorucki hired to improve ReactOS test suite
+
+date: 2025-07-04, from: ReactOS News
+
+<p>Hi, my name is Carl J. Bialorucki.
+I started making a name for myself in the ReactOS community by contributing several shell improvements.
+In May of 2024 I was added to the core development team and in March of 2025 I led the release of ReactOS 0.4.15 after the previous release manager was unable to continue working on the project.</p>
+<p>I’m pleased to announce that I was hired for a full-time contract position with ReactOS Deutschland e.V. in May of 2025.</p> 
+
+<br> 
+
+<https://reactos.org/blogs/cbialorucki-tests/>
 
 ---
 
@@ -1601,6 +1769,21 @@ This post discusses static web server implementation using Deno.
 <br> 
 
 <https://rsdoiel.github.io/blog/2025/06/30/Build_a_Static_Web_Server.html>
+
+---
+
+## This Month in Redox - June 2025
+
+date: 2025-06-30, from: Redox OS News
+
+Redox OS is a Unix-like general-purpose microkernel-based operating system written in Rust. June was a very exciting month for Redox! Here&rsquo;s all the latest news.
+Donate to Redox If you would like to support Redox, please consider donating or buying some merch!
+Donate Patreon Merch NLnet/NGI Zero Grants! Redox has been awarded two new grants by the NGI Zero Commons fund and NLnet Foundation.
+Capability-based security for Redox is our first step to supporting Capabilities as the underlying mechanism for file descriptors. 
+
+<br> 
+
+<https://www.redox-os.org/news/this-month-250630/>
 
 ---
 

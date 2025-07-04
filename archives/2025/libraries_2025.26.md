@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-07-04 06:08:45
+updated: 2025-07-04 14:08:21
 ---
 
 # libraries
 
-(date: 2025-07-04 06:08:45)
+(date: 2025-07-04 14:08:21)
 
 ---
 
@@ -121,6 +121,18 @@ date: 2025-07-02, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/07/02/chefs-de-cuisine-perspectives-from-publishings-top-table-matthew-kissner/>
+
+---
+
+## Microbial and antimicrobial resistance diagnostics by gas sensors and machine learning
+
+date: 2025-07-02, from: ETH Zurich, recently added
+
+Bilgin, Mehmet Berk; Shin, Hamin; Jutzeler, Catherine R.; Kessler, Thomas M.; Slack, Emma; Egli, Adrian; Güntner, Andreas 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/743799>
 
 ---
 

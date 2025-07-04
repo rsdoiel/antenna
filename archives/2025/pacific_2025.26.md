@@ -1,11 +1,47 @@
 ---
 title: pacific
-updated: 2025-07-04 06:08:42
+updated: 2025-07-04 14:08:15
 ---
 
 # pacific
 
-(date: 2025-07-04 06:08:42)
+(date: 2025-07-04 14:08:15)
+
+---
+
+## Nauru signs two landmark agreements in Majuro
+
+date: 2025-07-04, from: 
+
+The two deals were signed on the margins of the Micronesian Islands Leaders' Forum this week. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566030/nauru-signs-two-landmark-agreements-in-majuro>
+
+---
+
+## Macron suggests new options for New Caledonia’s future status
+
+date: 2025-07-04, from: 
+
+As part of a range of possible options, the French president reportedly put on the table an "associated State" status for for the French territory, with a "strong link with France". 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566029/macron-suggests-new-options-for-new-caledonia-s-future-status>
+
+---
+
+## Salesi Rayasi debuts for Fiji at fullback against the Wallabies
+
+date: 2025-07-04, from: 
+
+The former All Blacks Sevens rep has achieved what his dad did 30-odd years ago. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566023/salesi-rayasi-debuts-for-fiji-at-fullback-against-the-wallabies>
 
 ---
 

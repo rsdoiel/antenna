@@ -1,11 +1,94 @@
 ---
 title: columns
-updated: 2025-07-04 06:08:43
+updated: 2025-07-04 14:08:17
 ---
 
 # columns
 
-(date: 2025-07-04 06:08:43)
+(date: 2025-07-04 14:08:17)
+
+---
+
+## Friday, July 4th, 2025
+
+date: 2025-07-04, from: Doc Searls (at Harvard), New Old Blog
+
+A big value-substract for higher ed. Among the crowning distinctions of Indiana University are its international scope and many supported disciplines. (An example.) Now, reports Inside Higher Ed, &#34;Indiana’s public higher education institutions plan to eliminate or consolidate over 400 programs, equaling roughly one-fifth of their degree offerings statewide, the Indiana Commission for Higher Education [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/04/friday-july-4th-2025/>
+
+---
+
+## RSS ==> ActivityPub
+
+date: 2025-07-04, from: Dave Winer's Scripting News
+
+<p>I'd love to see a bridge from <a href="http://scripting.com/2025/04/14/121946.html">RSS</a> to ActivityPub. I've asked people at various companies if they'd do this. I'm happy to help with the software but operating the service is something for a trusted company to do.</p>
+<p>I think this would go all the way to putting the "open" in open social web, because people who already know how to build RSS feeds would be able to quickly write apps that hook into AP networks. And of course it wouldn't have to be limited to RSS, it could build on Atom and RDF equally well.  </p>
+<p>It think it's tragic that it's taking Ghost, for example, so long to get their service up fully, and it suggests that smaller devs don't stand a chance. I can't wake up one day and have an idea of something that would work well with Mastodon, for example, and have a prototype running the next day. </p>
+<p>If you think this is a good idea, post a link to this post somewhere developers live, and let's see if we can get a cooperative project up and running. </p>
+<p>And if you don't like RSS, Atom or RDF, invent an orthogonal format and we can work with that too. I know people have strong feelings about this stuff, not a problem. </p>
+<p>PS: I asked <a href="https://mastodon.social/@davew/114796352889094954">Tim Bray</a> to comment, and  he <a href="https://mastodon.social/@timbray@cosocial.ca/114796687727557412">responded</a>. Sounds good. We've known each other for decades, going back to the early days of XML. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/04/181125.html?title=rssActivitypub>
+
+---
+
+## Mini NASes marry NVMe to Intel's efficient chip
+
+date: 2025-07-04, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Mini NASes marry NVMe to Intel's efficient chip</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/mini-nas-lineup-with-coffee-mug.jpg" width="700" height="394" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-52822dcf-5b98-45a2-94d2-73959391c90b" data-insert-attach="{&quot;id&quot;:&quot;52822dcf-5b98-45a2-94d2-73959391c90b&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Mini NAS lineup with Coffee Mug"></p>
+
+<p>I'm in the process of rebuilding my homelab from the ground up, moving from a 24U full-size 4-post rack to a <a href="https://mini-rack.jeffgeerling.com">mini rack</a>.</p>
+
+<p>One of the most difficult devices to downsize (especially <em>economically</em>) is a NAS. But as my needs have changed, I'm bucking the trend of all <a href="https://www.reddit.com/r/DataHoarder/">datahoarders</a> and I need <em>less</em> storage than the 120 TB (80 TB usable) I currently have.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-07-04T09:00:57-05:00" title="Friday, July 4, 2025 - 09:00" class="datetime">July 4, 2025</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-04, from: Dave Winer's Scripting News)
+
+How odd on Independence Day a law goes into effect that funds a secret police for the US. The goal is to flow people from inside the United States into concentration camps, and ostensibly deport them to other countries. It may turn out to be easier and less expensive to just gas them and burn the bodies right here in the USA. I listened to this morning's <a href="https://podcasts.apple.com/us/podcast/how-the-megabill-will-change-america/id1200361736?i=1000715713632">Daily podcast</a> to hear how they summed up the bill. They focused on taxes and health care as most of the other news orgs have been doing. They were puzzled why the Repubs didn't seem to care if it hurt their electorate, but they didn't state the obvious answer. They <i>don't</i> care. Remember <a href="http://scripting.com/2020/09/22/123759.html?title=weNeedOccamsNews">Occam's News</a>. I guess they didn't want to say it out loud so they just telegraphed the question. It worked, <a href="https://bsky.app/profile/scripting.com/post/3lt2zupgbm22n">message</a> received. 
+
+<br> 
+
+<http://scripting.com/2025/07/04.html#a133226>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-04, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/11/26/uncleSam.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Today is Independence Day in the US, so how about an Independence Day for the web. One <a href="http://scripting.com/2025/07/04/181125.html">simple way</a> would be to hook RSS up to ActivityPub, turning Mastodon and Threads into a big feed reader. It could easily be done in software, it would just take money to keep it running. Not something I could attempt personally. But I would totally help with the software and design. It would open the door for lots of new apps that could communicate with users through a single <i>simple</i> API. I want to talk with people about this at <a href="http://scripting.com/2025/06/22/132405.html">WordCamp Canada</a> in October. 
+
+<br> 
+
+<http://scripting.com/2025/07/04.html#a133135>
+
+---
+
+## Make Some Noise
+
+date: 2025-07-04, from: Dan Rather's Steady
+
+Among the most patriotic things you can do is speak out 
+
+<br> 
+
+<https://steady.substack.com/p/make-some-noise>
 
 ---
 
@@ -1738,7 +1821,20 @@ There are already many competing robotaxi services in China. <a href="https://ww
 Baidu is already operating robotaxi services in multiple cities in China. It provided close to 900,000 rides in the second quarter of the year, up 26 per cent year-on-year, according to its latest earnings call. More than 7 million robotaxi rides in total had been operated as of late July.
 </blockquote>
 That was a year ago. It isn't just Waymo that is in a whole different robotaxi league than Tesla. And lets not talk about the fact that BYD, <a href="https://blog.dshr.org/2025/04/elon-musk-threat-or-menace-part-6.html">Xiaomi</a> and others outsell Tesla in China because their products are better and cheaper. Tesla's response? Getting the White House to put a <a href="https://www.bloomberg.com/news/articles/2025-03-26/trump-prepares-auto-tariff-announcement-as-soon-as-wednesday">25% tariff on imported cars</a>.<br />
-<br /> 
+<br />
+<h3>Update: 4<sup>th</sup> July 2025</h3>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcKzEidzLWCYAxT9i5aAGSu3pKVDlB5pA-H8rn-3vmzkjpgGDXWxK7wPL2q6zClE-1e7_X9InITLK66lbgVGjW3_3nqyFyuUgpZmzlOosXn3IWgvNFGnW1XmH0uU57aIcTexE5uth9-XiFEV6kSNkWb0bRjBAbgOmLV2e7OxZm0z5GWHATQ9x1Y1RRHc5t/s2352/Zeekr.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1348" data-original-width="2352" height="114" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcKzEidzLWCYAxT9i5aAGSu3pKVDlB5pA-H8rn-3vmzkjpgGDXWxK7wPL2q6zClE-1e7_X9InITLK66lbgVGjW3_3nqyFyuUgpZmzlOosXn3IWgvNFGnW1XmH0uU57aIcTexE5uth9-XiFEV6kSNkWb0bRjBAbgOmLV2e7OxZm0z5GWHATQ9x1Y1RRHc5t/w200-h114/Zeekr.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://techcrunch.com/2025/01/07/zeekr-rt-the-robotaxi-built-for-waymo-has-the-tiniest-wipers/">Source</a></td></tr></tbody></table>
+I should have done more research for this post, then I would have found out that, unlike Tesla's CyberCab, Waymo's custom robotaxi is real. This morning I drove alongside a test vehicle in Palo Alto. Wikipedia has <a href="https://en.wikipedia.org/wiki/Waymo#Waymo">the details</a>:<br />
+<blockquote>
+In July 2024, Waymo began testing its sixth-generation robotaxis which are based on electric vehicles by Chinese automobile company Zeekr, developed in a partnership first announced in 2021.
+</blockquote>
+Zeekr is a brand of the Chinese company <a href="https://en.wikipedia.org/wiki/Geely">Geely</a>. Waymo plans to <a href="https://www.cnbc.com/2025/05/05/waymo-to-double-robotaxi-production-at-arizona-plant-by-end-of-2026.html">buiid their robotaxi at</a>:<br />
+<blockquote>
+The "Waymo Driver Integration Plant," a 239,000 square foot facility outside of Phoenix, will assemble more than 2,000 Jaguar I-PACE robotaxis, the Alphabet company said in a statement. Waymo will add those self-driving vehicles to its existing fleet that already includes around 1,500 robotaxis.<br />
+<br />
+The plant will be "capable of building tens of thousands of fully autonomous Waymo vehicles per year," when it is fully built out, Waymo said. The company also said it plans to build its more advanced Geely Zeekr RT robotaxis that feature its "6th-generation Waymo Driver" technology later this year at the plant.
+</blockquote>
+It seems likely that Waymo will be offering unsupervised rides in a custom robotaxi before Tesla can do it in a Model Y.<br /> 
 
 <br> 
 

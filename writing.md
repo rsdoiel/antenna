@@ -1,11 +1,38 @@
 ---
 title: writing
-updated: 2025-07-04 06:08:44
+updated: 2025-07-04 14:08:18
 ---
 
 # writing
 
-(date: 2025-07-04 06:08:44)
+(date: 2025-07-04 14:08:18)
+
+---
+
+## Analog: Short Fiction Reviews by A.C. Wise
+
+date: 2025-07-04, from: Locus Magazine
+
+<p>Analog 3-4/25</p>
+<p><strong>Beth Goder</strong>’s novella “<strong>Murder on the Eris Express</strong>”<strong>, </strong>an Agatha Christie-esque locked-room style mystery set aboard a spaceship, starts the March/April issue of Analog on a strong note. Mo, the ship’s AI, “wakes” to discover three hours of her memory have been deleted and the captain murdered. Having always dreamed of being a detective, Mo sets out to solve the mystery, discovering that all  <a href="https://locusmag.com/2025/07/analog-short-fiction-reviews-by-a-c-wise-5/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/analog-short-fiction-reviews-by-a-c-wise-5/>
+
+---
+
+## Photo Story: Brooklyn Books & Booze
+
+date: 2025-07-04, from: Locus Magazine
+
+<p class="normal" xml:lang="en-us">Jeffrey Ford and Elizabeth Bear &#38; Scott Lynch read at the Barrow&#8217;s Intense Tasting Room in Industry City, Brooklyn NY on May 20, 2025 as part of the Brooklyn Books &#38; Booze Reading series, hosted by Randee Dawn. This was the fourth anniversary of the series, originally launched as Rooftop Readings and held at Ample Hills in Gowanus, Brooklyn, until moving to the current location in 2022.</p>
+
+<p><strong>Photographer: Randee Dawn</strong> <a href="https://locusmag.com/2025/07/photo-story-brooklyn-books-booze-2/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/photo-story-brooklyn-books-booze-2/>
 
 ---
 

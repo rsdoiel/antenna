@@ -1,11 +1,83 @@
 ---
 title: science and technology
-updated: 2025-07-04 06:08:43
+updated: 2025-07-04 14:08:16
 ---
 
 # science and technology
 
-(date: 2025-07-04 06:08:43)
+(date: 2025-07-04 14:08:16)
+
+---
+
+## Ubuntu 25.10 to drop support for effectively all existing RISC-V hardware, focuses on future RISC-V hardware instead
+
+date: 2025-07-04, from: OS News
+
+A recent bug report filed against Ubuntu’s upgrading tool confirmed a major change with regards to the RISC-V requirements for the upcoming Ubuntu 25.10 release — most existing RISC-V devices will&#160;not&#160;be able to run Ubuntu 25.10. How come? ↫ Joey Sneddon at omgubuntu.co.uk RISC-V just isn&#8217;t delivering. That&#8217;s the cold and harsh truth more and more people are having to deal with, such as Chimera Linux dropping RISC-V support because the ecosystem is simply lacking the kind of powerful and available hardware to sustain itself (Chimera got lucky, though, and gained access to a Milk-V Pioneer through Adélie Linux). The number of systems and boards that are both powerful and available is close enough to zero that it might as well be zero, and if neither users nor developers can buy RISC-V hardware, what&#8217;s the point in supporting it? The issue for Ubuntu specifically is that version 25.10 of the distribution intends to target only the RVA23 baseline RISC-V profile, while currently Ubuntu supports RVA20 as the baseline. This higher baseline profile requires a number of extensions to the instruction set that no existing hardware yet supports, making 25.10 effectively a clean break for all existing RISC-V hardware. In other words, if you&#8217;re running Ubuntu on RISC-V hardware today, you won&#8217;t be able to upgrade to 25.10 or higher. RISC-V really needs vastly improved hardware availability, because right now it&#8217;s just not delivering on the years of promises. 
+
+<br> 
+
+<https://www.osnews.com/story/142698/ubuntu-25-10-to-drop-support-for-effectively-all-existing-risc-v-hardware-focuses-on-future-risc-v-hardware-instead/>
+
+---
+
+## The Amiga 3000 UNIX and Sun Microsystems: deal or no deal?
+
+date: 2025-07-04, from: OS News
+
+Amiga lore is full of exciting tales. Many of them are retold to demonstrate how the incompetence of Commodore&#8217;s management destroyed a platform that, by rights, was destined for success.&#160;Coulda, shoulda,&#160;and the Amiga&#160;woulda&#160;risen as rightful ruler of all other computer platforms, forever and ever. Amen. One of those stories is about how Sun Microsystems allegedly showed interest in the Amiga 3000 during the early 1990s. It&#8217;s a classic Amiga anecdote, usually recounted without much reflection, and one&#160;I&#8217;ve certainly helped perpetuate. Alas, the more I think about it, the less it adds up. Fact or factoid? Let&#8217;s speculate! ↫ Carl Svensson Great speculation with some solid reasoning and sourcing. Considering that had been some minor joint marketing between Sun and Commodore, my money is on the talks around that deal birthing rumours about more extensive Sun involvement in the Amiga 3000. At this point in time, however, decades after the fact and with several conflicting account, it&#8217;s unlikely we&#8217;ll ever get a solid answer. 
+
+<br> 
+
+<https://www.osnews.com/story/142696/the-amiga-3000-unix-and-sun-microsystems-deal-or-no-deal/>
+
+---
+
+## Ousted US copyright chief argues Trump did not have power to remove her
+
+date: 2025-07-04, updated: 2025-07-04, from: The Register (UK I.T. News)
+
+<h4>Shira Perlmutter lost her job after her office published report on generative AI and fair use limits</h4> <p>The former head of the US Copyright Office has pushed back against arguments from President Donald Trump&#39;s team that her dismissal was lawful.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/04/copyright_office_trump_filing/>
+
+---
+
+## Microsoft finally bids farewell to PowerShell 2.0
+
+date: 2025-07-04, updated: 2025-07-04, from: The Register (UK I.T. News)
+
+<h4>Venerable command line tool to depart Windows</h4> <p>Users still clinging on to PowerShell 2.0 just received notice to quit as the command-line tool is officially leaving Windows.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/04/microsoft_finally_bids_farewell_to/>
+
+---
+
+## Amazon built a massive AI supercluster for Anthropic called Project Rainier – here's what we know so far
+
+date: 2025-07-04, updated: 2025-07-04, from: The Register (UK I.T. News)
+
+<h4>It&#39;s almost like AWS is building its own Stargate</h4> <p><strong>deep dive</strong>  Amazon Web Services (AWS) is in the process of building out a massive supercomputing cluster containing &#34;hundreds of thousands&#34; of accelerators that promises to give its model building buddies at Anthropic a leg up in the AI arms race.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/04/project_rainier_deep_dive/>
+
+---
+
+## Mars was once a desert with intermittent oases, Curiosity data suggests
+
+date: 2025-07-04, updated: 2025-07-04, from: The Register (UK I.T. News)
+
+<h4>New modeling of carbon cycle shows unsteady but habitable history before liquid water disappeared</h4> <p>New models from recent Martian probe data suggest the fourth planet from the Sun once hosted a fluctuating desert environment with intermittent oases of water.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/04/mars_was_once_a_desert/>
 
 ---
 

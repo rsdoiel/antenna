@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-07-04 06:08:46
+updated: 2025-07-04 14:08:22
 ---
 
 # retro computing
 
-(date: 2025-07-04 06:08:46)
+(date: 2025-07-04 14:08:22)
+
+---
+
+## EverQuest
+
+date: 2025-07-04, from: Digital Antiquarian
+
+This article tells part of the story of MMORPGs. It isn&#8217;t always or even usually the pioneers who reap the rewards of the trails they blaze. As often as not, some pragmatic Johnny-come-lately pops in to make off with the booty. Such was the case in the MMORPG space in the late 1990s. There Ultima [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2025/07/everquest/>
 
 ---
 

@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-07-04 06:08:44
+updated: 2025-07-04 14:08:19
 ---
 
 # games
 
-(date: 2025-07-04 06:08:44)
+(date: 2025-07-04 14:08:19)
+
+---
+
+## The 12 best Switch 2 games
+
+date: 2025-07-04, updated: 2025-07-04, from: Polygon Website
+
+Nintendo’s Switch 2 is at the very start of its life — and, as with every young console, excitement for the new hardware is held in check by the quest for something to  play on it. Nintendo debuted the system with one of the biggest guns in its arsenal: a new Mario Kart. Elsewhere, the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-play/611102/best-switch-2-games>
+
+---
+
+## J-pop icon LiSA sees herself in the anime movie Perfect Blue
+
+date: 2025-07-04, updated: 2025-07-04, from: Polygon Website
+
+A ’90s psychological thriller like Satoshi Kon’s Perfect Blue and a modern-day comedy like Spy x Family didn’t seem like they had much in common, until J-pop star LiSA connected the dots for us. In a moment of serendipity, I wore a Perfect Blue T-shirt to my interview with J-pop rock icon LiSA, a powerhouse [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/610720/lisa-jpop-anime-perfect-blue-spy-family>
+
+---
+
+## Thunderbolts*, Ballerina, Bring Her Back, and every movie new to streaming this weekend
+
+date: 2025-07-04, updated: 2025-07-04, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, there’s a packed lineup of VOD options for viewers looking to enjoy their Fourth of July weekend from the comfort of their air conditioned [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/610936/new-movies-watch-thunderbolts-bring-her-back-ballerina-6-4-2025>
+
+---
+
+## Aniplex announces new Resident Evil mobile game
+
+date: 2025-07-04, updated: 2025-07-04, from: Polygon Website
+
+Resident Evil fans have a lot to be excited for with Resident Evil Survival Unit, a new mobile strategy game announced by Anniplex Inc. during AnimeExpo 2025. The game is being co-developed by the JOYCITY corporation. Resident Evil Survival Unit is going to be released globally on mobile platforms, iOS, and Android. More information will [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/611092/new-resident-evil-mobile-game-survivor-unit>
+
+---
+
+## What really goes into fine-tuning a roguelike, according to Lost in Random: The Eternal Die director
+
+date: 2025-07-04, updated: 2025-07-03, from: Polygon Website
+
+Balancing a game’s difficulty, especially one that’s meant to challenge the player, presents its own challenge for developers. Sometimes, the final game ends up being easier than some developers desired. Such is the case with Lost in Random: The Eternal Die, a roguelike spinoff of 2021’s Lost in Random that casts players as a remorseful [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/610928/lost-random-eternal-die-roguelike-developer-insights>
 
 ---
 
