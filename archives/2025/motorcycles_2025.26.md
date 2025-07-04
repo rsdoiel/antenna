@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-07-03 14:07:39
+updated: 2025-07-04 06:08:46
 ---
 
 # motorcycles
 
-(date: 2025-07-03 14:07:39)
+(date: 2025-07-04 06:08:46)
+
+---
+
+## This Sure Looks Like the First All-Electric Mountain Snowmobile
+
+date: 2025-07-04, from: Ride Apart, Electric Motorcycle News
+
+Who's ready to shred the frosted backcountry in silence? 
+
+<br> 
+
+<https://www.rideapart.com/news/764580/ski-doo-patent-all-electric-mountain-snowmobile/>
 
 ---
 

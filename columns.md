@@ -1,11 +1,96 @@
 ---
 title: columns
-updated: 2025-07-03 14:07:36
+updated: 2025-07-04 06:08:43
 ---
 
 # columns
 
-(date: 2025-07-03 14:07:36)
+(date: 2025-07-04 06:08:43)
+
+---
+
+## Wikidata: Attempting to bridge FOSS ideals and direct democracy
+
+date: 2025-07-04, updated: 2025-07-04, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Comment</span> There&#39;s more to the Wikimedia organization than the famous encyclopedia</h4>
+      <p>Multiple other projects also use the vast linked data store that underpins ubiquitous internet encyclopaedia Wikipedia, and some of them are helping the fight for democracy.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/04/wikidata_foss_democracy/>
+
+---
+
+## What Patriotism Requires
+
+date: 2025-07-04, from: Robert Reich's blog
+
+An ode to a disappearing America 
+
+<br> 
+
+<https://robertreich.substack.com/p/what-patriotism-requires>
+
+---
+
+## July 3, 2025
+
+date: 2025-07-04, from: Heather Cox Richardson blog
+
+And on July 4, 1776, the Second Continental Congress adopted the Declaration of Independence, declaring: &#8220;We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable rights, that among these are Life, Liberty and the Pursuit of Happiness.&#8221; 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-3-2025>
+
+---
+
+## Friday 4 July, 2025
+
+date: 2025-07-03, from: John Naughton's online diary
+
+Horsepower Interesting artwork outside a gallery in the Var. I liked the detail of the animal’s &#8216;head&#8217;. Quote of the Day “So long as men worship Caesars and Napoleons, Caesars and Napoleons will duly arise and make them miserable” Aldous &#8230; <a href="https://memex.naughtons.org/friday-4-july-2025/40986/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-4-july-2025/40986/>
+
+---
+
+##  NPR Tiny Desk Concert by the cast of Buena Vista Social Club,... 
+
+date: 2025-07-03, updated: 2025-07-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047081-npr-tiny-desk-concert-by>
+
+---
+
+## This is Fascism 
+
+date: 2025-07-03, from: Robert Reich's blog
+
+Trump&#8217;s Big Ugly Bill is fascist &#8212; not only in what it does and authorizes, but in how it got enacted 
+
+<br> 
+
+<https://robertreich.substack.com/p/this-is-fascism>
+
+---
+
+##  An original technicolor print of Star Wars (before all of Lucas&#8217;s tinkering)... 
+
+date: 2025-07-03, updated: 2025-07-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047062-an-original-technicolor-p>
 
 ---
 

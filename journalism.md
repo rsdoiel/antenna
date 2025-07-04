@@ -1,11 +1,35 @@
 ---
 title: journalism
-updated: 2025-07-03 14:07:37
+updated: 2025-07-04 06:08:45
 ---
 
 # journalism
 
-(date: 2025-07-03 14:07:37)
+(date: 2025-07-04 06:08:45)
+
+---
+
+## UCLA cuts funding, class credit status from undergraduate research journal ‘Aleph’
+
+date: 2025-07-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Aleph, UCLA&#8217;s only official undergraduate research journal for the humanities, arts and social sciences, was two weeks away from printing its final volume of the academic year when student editors learned the journal would lose all of its funding from the university. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/03/ucla-cuts-funding-class-credit-status-from-undergraduate-research-journal-aleph/>
+
+---
+
+## 5 Nutrients That Can Sustain Liver Function
+
+date: 2025-07-03, from: The Sundail (CSUN Student Newspaper)
+
+The liver plays a vital role in maintaining overall health. It filters toxins, supports digestion through bile production, stores nutrients, and regulates blood sugar and fat metabolism. Because of these... 
+
+<br> 
+
+<https://sundial.csun.edu/194779/sundialbrandstudio/sundial-marketplace/5-nutrients-sustain-liver-function/>
 
 ---
 

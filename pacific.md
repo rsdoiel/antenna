@@ -1,11 +1,752 @@
 ---
 title: pacific
-updated: 2025-07-03 14:07:34
+updated: 2025-07-04 06:08:42
 ---
 
 # pacific
 
-(date: 2025-07-03 14:07:34)
+(date: 2025-07-04 06:08:42)
+
+---
+
+## Republicans muscle Trump’s sweeping tax-cut and spending bill through Congress
+
+date: 2025-07-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s tax-cut package cleared its final hurdle in the U.S. Congress on Thursday, as the Republican-controlled House of Representatives narrowly approved the massive bill and sent it to him to sign into law.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/04/nation-world-news/republicans-muscle-trumps-sweeping-tax-cut-and-spending-bill-through-congress/>
+
+---
+
+## Mexican boxer Chavez Jr arrested by US immigration officers, DHS says
+
+date: 2025-07-04, from: Hawaii Tribune Harold
+
+
+				<p>MEXICO CITY &#8212; Mexican boxer Julio Cesar Chavez Jr. has been arrested by U.S. immigration officers and faces deportation, the Department of Homeland Security said in a statement on Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/04/nation-world-news/mexican-boxer-chavez-jr-arrested-by-us-immigration-officers-dhs-says/>
+
+---
+
+## Green signs bill aimed at helping kupuna with dementia
+
+date: 2025-07-04, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green signed three bills on Thursday to enhance protections for vulnerable citizens in Hawaii, including one measure focused on helping kupuna living with dementia.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/04/hawaii-news/green-signs-bill-aimed-at-helping-kupuna-with-dementia/>
+
+---
+
+## Hamakua man sentenced to 10 years for sex assault
+
+date: 2025-07-04, from: Hawaii Tribune Harold
+
+
+				<p>A 61-year-old Hamakua man was sentenced Tuesday to 10 years imprisonment for the repeated sexual assault of a teenage girl almost nine years ago.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/04/hawaii-news/hamakua-man-sentenced-to-10-years-for-sex-assault/>
+
+---
+
+## FBI pursuing cyber-gang in Hawaiian Airlines hack
+
+date: 2025-07-04, from: Hawaii Tribune Harold
+
+
+				<p>The Federal Bureau of Investigation is investigating the &#8220;cybersecurity event&#8221; that plagued Hawaiian Airlines for at least three days last week as part of the alleged actions of an international group of cyber-thieves known as Scattered Spider.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/04/hawaii-news/fbi-pursuing-cyber-gang-in-hawaiian-airlines-hack/>
+
+---
+
+## Hawaii lawmakers demand immigration arrest briefings
+
+date: 2025-07-04, from: Hawaii Tribune Harold
+
+
+				<p>Three of Hawaii&#8217;s four congressional delegates sent a letter to the U.S. Department of Homeland Security condemning &#8220;aggressive immigration enforcement actions&#8221; in the islands, demanding basic information about arrests and deportations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/04/hawaii-news/hawaii-lawmakers-demand-immigration-arrest-briefings/>
+
+---
+
+## Key healthcare provisions in Trump’s tax bill
+
+date: 2025-07-04, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. House of Representatives passed President Donald Trump&#8217;s tax-cut and spending bill on Thursday, which contains sweeping changes to the government&#8217;s Medicaid healthcare program covering about 71 million low-income Americans.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/04/nation-world-news/key-healthcare-provisions-in-trumps-tax-bill/>
+
+---
+
+## News in brief for July 4
+
+date: 2025-07-04, from: Hawaii Tribune Harold
+
+
+				<p>Pardoned Jan. 6 rioter sentenced to life in assassination plot</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/04/nation-world-news/news-in-brief-for-july-4/>
+
+---
+
+## Supreme Court agrees to hear cases involving transgender athletes
+
+date: 2025-07-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court announced Thursday that it would hear two cases testing the constitutionality of state laws that bar transgender athletes from girls&#8217; and women&#8217;s sports teams.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/04/nation-world-news/supreme-court-agrees-to-hear-cases-involving-transgender-athletes/>
+
+---
+
+## Over 100 former senior officials warn against planned staff cuts at US State Department
+
+date: 2025-07-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; More than 130 retired diplomats and other former senior U.S. officials issued an open letter on Thursday criticizing a planned overhaul of the State Department that could see thousands of employees laid off.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/04/nation-world-news/over-100-former-senior-officials-warn-against-planned-staff-cuts-at-us-state-department/>
+
+---
+
+## EPA suspends 144 employees after they signed a letter criticizing Trump
+
+date: 2025-07-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Environmental Protection Agency on Thursday placed 144 employees on administrative leave and opened an investigation into their decision to sign a letter accusing the Trump administration of politicizing the agency.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/04/nation-world-news/epa-suspends-144-employees-after-they-signed-a-letter-criticizing-trump/>
+
+---
+
+## Trump says call with Putin yields no progress on Ukraine ceasefire
+
+date: 2025-07-04, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump said Thursday that a phone call with President Vladimir Putin of Russia had not resulted in any movement toward ending the war in Ukraine, adding that he was &#8220;not happy&#8221; with the conflict grinding on.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/04/nation-world-news/trump-says-call-with-putin-yields-no-progress-on-ukraine-ceasefire/>
+
+---
+
+## How Trump’s China tariffs are jeopardizing America’s fireworks extravaganzas
+
+date: 2025-07-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump may soon have to decide between his love of tariffs and his affection for fireworks.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/04/nation-world-news/how-trumps-china-tariffs-are-jeopardizing-americas-fireworks-extravaganzas/>
+
+---
+
+## Hamas seeks ceasefire guarantees as scores more are killed in Gaza
+
+date: 2025-07-04, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/GAZA &#8212; Hamas is seeking guarantees that a new U.S.-backed ceasefire proposal for Gaza would lead to the war&#8217;s end, a source close to the militant group said on Thursday, as medics said Israeli strikes across the territory had killed scores more people.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/04/nation-world-news/hamas-seeks-ceasefire-guarantees-as-scores-more-are-killed-in-gaza/>
+
+---
+
+## Manga doomsday prediction spooks tourists to Japan
+
+date: 2025-07-04, from: Hawaii Tribune Harold
+
+
+				<p>TOKYO/HONG KONG &#8212; Viral rumors of impending disaster stemming from a comic book prediction have taken the sheen off Japan&#8217;s tourism boom, with some airlines canceling flights from Hong Kong where passengers numbers have plunged.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/04/nation-world-news/manga-doomsday-prediction-spooks-tourists-to-japan/>
+
+---
+
+## Extreme heat shuts down some nuclear reactors in Europe
+
+date: 2025-07-04, from: Hawaii Tribune Harold
+
+
+				<p>A record-breaking heat wave in Europe is warming up the river water that some nuclear power plants use for cooling, prompting operators to shut down at least three reactors at two separate sites.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/04/nation-world-news/extreme-heat-shuts-down-some-nuclear-reactors-in-europe/>
+
+---
+
+## 1,500 people evacuated as wildfire rages on Greek island of Crete
+
+date: 2025-07-04, from: Hawaii Tribune Harold
+
+
+				<p>About 1,500 people, many of them tourists, were evacuated from hotels and homes on the Greek island of Crete on Thursday as firefighters struggled to control a wildfire in arid conditions.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/04/nation-world-news/1500-people-evacuated-as-wildfire-rages-on-greek-island-of-crete/>
+
+---
+
+## Palau rises to Sixth in Medal standings, Wrestling Team drives success at Pacific Mini Games
+
+date: 2025-07-04, from: Island Times
+
+<figure><img width="1024" height="658" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/20250702-anoc-palau-pmg-4171.jpg?fit=1024%2C658&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/20250702-anoc-palau-pmg-4171.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/20250702-anoc-palau-pmg-4171.jpg?resize=300%2C193&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/20250702-anoc-palau-pmg-4171.jpg?resize=1024%2C658&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/20250702-anoc-palau-pmg-4171.jpg?resize=768%2C493&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/20250702-anoc-palau-pmg-4171.jpg?resize=1200%2C771&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/20250702-anoc-palau-pmg-4171.jpg?resize=780%2C501&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/20250702-anoc-palau-pmg-4171.jpg?resize=400%2C257&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/20250702-anoc-palau-pmg-4171.jpg?resize=706%2C453&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/20250702-anoc-palau-pmg-4171.jpg?fit=1024%2C658&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78649" data-permalink="https://islandtimes.org/palau-rises-to-sixth-in-medal-standings-wrestling-team-drives-success-at-pacific-mini-games/20250702-anoc-palau-pmg-4171/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/20250702-anoc-palau-pmg-4171.jpg?fit=1249%2C802&amp;ssl=1" data-orig-size="1249,802" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20250702-anoc-palau-pmg-4171" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/20250702-anoc-palau-pmg-4171.jpg?fit=300%2C193&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/20250702-anoc-palau-pmg-4171.jpg?fit=780%2C501&amp;ssl=1" /></figure>
+<p>KOROR, Palau — Palau’s Wrestling Team powered the nation to sixth place in the overall medal standings at the 2025 Pacific Mini Games, collecting 16 of Palau’s 23 medals as of the end of Day 3. Palau’s current tally includes five gold, seven silver, and eleven bronze medals — a significant improvement from its 11th-place [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-rises-to-sixth-in-medal-standings-wrestling-team-drives-success-at-pacific-mini-games/">Palau rises to Sixth in Medal standings, Wrestling Team drives success at Pacific Mini Games</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-rises-to-sixth-in-medal-standings-wrestling-team-drives-success-at-pacific-mini-games/>
+
+---
+
+## Senator calls for Supplemental Audit of Palau stablecoin project, citing oversight gaps and legal concerns
+
+date: 2025-07-04, from: Island Times
+
+<figure><img width="200" height="231" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/mark.jpg?fit=200%2C231&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/mark.jpg?w=200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/mark.jpg?fit=200%2C231&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/mark.jpg?fit=200%2C231&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78652" data-permalink="https://islandtimes.org/senator-calls-for-supplemental-audit-of-palau-stablecoin-project-citing-oversight-gaps-and-legal-concerns/mark/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/mark.jpg?fit=200%2C231&amp;ssl=1" data-orig-size="200,231" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mark" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/mark.jpg?fit=200%2C231&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/mark.jpg?fit=200%2C231&amp;ssl=1" /></figure>
+<p>KOROR, Palau — Senator Mark Rudimch is calling on the Office of the Public Auditor to conduct a supplemental audit of the Palau Stablecoin Pilot Project, citing serious concerns over legal compliance, use of government resources, and what he describes as a lack of accountability in the initial audit report. In a formal letter to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/senator-calls-for-supplemental-audit-of-palau-stablecoin-project-citing-oversight-gaps-and-legal-concerns/">Senator calls for Supplemental Audit of Palau stablecoin project, citing oversight gaps and legal concerns</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/senator-calls-for-supplemental-audit-of-palau-stablecoin-project-citing-oversight-gaps-and-legal-concerns/>
+
+---
+
+## Project supporting the PNMS ends successfully
+
+date: 2025-07-04, from: Island Times
+
+<figure><img width="1024" height="653" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Project-Supporting-the-Palau-.jpg?fit=1024%2C653&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Project-Supporting-the-Palau-.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Project-Supporting-the-Palau-.jpg?resize=300%2C191&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Project-Supporting-the-Palau-.jpg?resize=1024%2C653&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Project-Supporting-the-Palau-.jpg?resize=768%2C489&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Project-Supporting-the-Palau-.jpg?resize=1200%2C765&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Project-Supporting-the-Palau-.jpg?resize=780%2C497&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Project-Supporting-the-Palau-.jpg?resize=400%2C255&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Project-Supporting-the-Palau-.jpg?resize=706%2C450&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Project-Supporting-the-Palau-.jpg?fit=1024%2C653&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78638" data-permalink="https://islandtimes.org/project-supporting-the-pnms-ends-successfully/project-supporting-the-palau/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Project-Supporting-the-Palau-.jpg?fit=1249%2C796&amp;ssl=1" data-orig-size="1249,796" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Project Supporting the Palau" data-image-description="" data-image-caption="&lt;p&gt;June 30, 2025 Bryde’s whale lunge feeding approximately 10 miles outside of Aimeliik. Researchers from Whaleology and PICRC documented the species for the first time on a scientific survey in Palau. Photo: PICRC&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Project-Supporting-the-Palau-.jpg?fit=300%2C191&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Project-Supporting-the-Palau-.jpg?fit=780%2C497&amp;ssl=1" /></figure>
+<p>Koror, Palau:&#160;A national project to strengthen management efforts for the Palau National Marine Sanctuary (PNMS) has successfully concluded after four years and $1.8 million in support of fisheries management, enforcement &#38; surveillance, and research and outreach efforts.&#160; Funded by the Global Environment Facility with support from the United Nations Development Programme (UNDP), the project enabled [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/project-supporting-the-pnms-ends-successfully/">Project supporting the PNMS ends successfully</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/project-supporting-the-pnms-ends-successfully/>
+
+---
+
+## Team Palau athletes find support and focus at Meyuns Athlete Village
+
+date: 2025-07-04, from: Island Times
+
+<p>By: Summer Kennard Koror, Palau — Amid the cheers of competition and the pursuit of gold, Team Palau athletes are finding something just as valuable at the Pacific Mini Games 2025: camaraderie, support, and renewed focus inside their temporary home — the athlete village at Meyuns Elementary School. For 17-year-old wrestler Filomoto, living in the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/team-palau-athletes-find-support-and-focus-at-meyuns-athlete-village/">Team Palau athletes find support and focus at Meyuns Athlete Village</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/team-palau-athletes-find-support-and-focus-at-meyuns-athlete-village/>
+
+---
+
+## Police seize meth, cash in drug bust linked to Chinese nationals
+
+date: 2025-07-04, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau &#8211; Last friday, yet another 2 chinese nationals Wenhao Zhu and Zhihua Yu were charged for trafficking and possession of drugs &#8211; methamphetamine(Meth). According to the case filled by the Attorney General, it alleges that last week Tuesday June 24 at around 10:45 pm two police officers Hubson Sechalboy [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/police-seize-meth-cash-in-drug-bust-linked-to-chinese-nationals/">Police seize meth, cash in drug bust linked to Chinese nationals</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/police-seize-meth-cash-in-drug-bust-linked-to-chinese-nationals/>
+
+---
+
+## PHS earns full six-year Accreditation from WASC
+
+date: 2025-07-04, from: Island Times
+
+<p>Koror, Palau — Palau High School has proudly secured a full six-year accreditation from the Accrediting Commission for Schools, Western Association of Schools and Colleges (ACS WASC), reaffirming the school’s commitment to academic excellence and institutional integrity. The accreditation, effective through June 30, 2031, underscores the school’s ongoing efforts to provide high-quality education to Palau’s [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/phs-earns-full-six-year-accreditation-from-wasc/">PHS earns full six-year Accreditation from WASC</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/phs-earns-full-six-year-accreditation-from-wasc/>
+
+---
+
+## PICRC launches new student program on building underwater robots
+
+date: 2025-07-04, from: Island Times
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo1_PICRC-launches-new-student-program-on-building-underwater-robots.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo1_PICRC-launches-new-student-program-on-building-underwater-robots.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo1_PICRC-launches-new-student-program-on-building-underwater-robots.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo1_PICRC-launches-new-student-program-on-building-underwater-robots.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo1_PICRC-launches-new-student-program-on-building-underwater-robots.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo1_PICRC-launches-new-student-program-on-building-underwater-robots.jpg?resize=1200%2C799&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo1_PICRC-launches-new-student-program-on-building-underwater-robots.jpg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo1_PICRC-launches-new-student-program-on-building-underwater-robots.jpg?resize=400%2C266&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo1_PICRC-launches-new-student-program-on-building-underwater-robots.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo1_PICRC-launches-new-student-program-on-building-underwater-robots.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78618" data-permalink="https://islandtimes.org/picrc-launches-new-student-program-on-building-underwater-robots/photo1_picrc-launches-new-student-program-on-building-underwater-robots/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo1_PICRC-launches-new-student-program-on-building-underwater-robots.jpg?fit=1249%2C832&amp;ssl=1" data-orig-size="1249,832" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Photo1_PICRC launches new student program on building underwater robots" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo1_PICRC-launches-new-student-program-on-building-underwater-robots.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo1_PICRC-launches-new-student-program-on-building-underwater-robots.jpg?fit=780%2C519&amp;ssl=1" /></figure>
+<p>A new student program at the Palau International Coral Reef Center (PICRC) offered an exciting hands-on learning experience for 16 students from grades 8 and 9. The STEM Summer Camp, held from June 16-20, was conducted in partnership with Palau Community College-Talent Search Program. Selected students from George B. Harris Elementary School, Koror Elementary School, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-launches-new-student-program-on-building-underwater-robots/">PICRC launches new student program on building underwater robots</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/picrc-launches-new-student-program-on-building-underwater-robots/>
+
+---
+
+## Strengthening Taiwan-Palau Friendship
+
+date: 2025-07-04, from: Island Times
+
+<p>Trade and Culture Expo Ignites Island Carnival Spirit The Taiwan External Trade Development Council (TAITRA), under the auspices of the Embassy of the Republic of China (Taiwan), is proud to present the Taiwan-Palau Trade and Cultural Show, held from July 11 to 13, 2025, at the Surangel &#38; Son’s Super Center in Airai, Palau. The [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/strengthening-taiwan-palau-friendship/">Strengthening Taiwan-Palau Friendship</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/strengthening-taiwan-palau-friendship/>
+
+---
+
+## Maturity and integrity
+
+date: 2025-07-04, from: Island Times
+
+<figure><img width="537" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?w=537&amp;ssl=1 537w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=284%2C300&amp;ssl=1 284w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=400%2C422&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="61696" data-permalink="https://islandtimes.org/self-compassion/womens-corner-1-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" data-orig-size="537,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=284%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" /></figure>
+<p>Life is a journey built on choices and integrity. Maturity is often defined as the ability to take responsibility for one&#8217;s actions and to show empathy towards others, rather than being solely based on age. It involves understanding one&#8217;s own emotions and behaviors, and responding to challenging situations with self-awareness and consideration. Maturity also encompasses [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/maturity-and-integrity/">Maturity and integrity</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/maturity-and-integrity/>
+
+---
+
+## Taiwan plans to attend Pacific Islands Forum in Solomon Islands
+
+date: 2025-07-04, from: Island Times
+
+<p>TAIPEI (TAIWAN NEWS) &#8212;Taiwan will send a delegation to attend the Pacific Islands Forum in the Solomon Islands despite the absence of formal diplomatic relations, the Ministry of Foreign Affairs (MOFA) said Tuesday. The Solomon Islands government announced on 12 June that China was donating US$1 million to buy 27 cars for use by the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwan-plans-to-attend-pacific-islands-forum-in-solomon-islands/">Taiwan plans to attend Pacific Islands Forum in Solomon Islands</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/taiwan-plans-to-attend-pacific-islands-forum-in-solomon-islands/>
+
+---
+
+## ‘Do No Harm’ bill could do more harm than good, Guam doctors warn
+
+date: 2025-07-04, from: Island Times
+
+<p>HAGATNA (PACIFIC ISLAND TIMES) &#8212; Guam&#8217;s medical community has warned that a bill proposing to replace the arbitration system with a pre-litigation process for medical malpractice complaints could drive physicians away, making it even harder for patients to access care. Speaking at a press conference held Friday at the Hyatt Regency Guam, physicians and advocates [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/do-no-harm-bill-could-do-more-harm-than-good-guam-doctors-warn/">&#8216;Do No Harm&#8217; bill could do more harm than good, Guam doctors warn</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/do-no-harm-bill-could-do-more-harm-than-good-guam-doctors-warn/>
+
+---
+
+## Betel nut can earn K4bil for PNG: World Bank
+
+date: 2025-07-04, from: Island Times
+
+<p>PORT MORESBY (THE NATIONAL) &#8212;Betel nut has the potential to earn more than K4 billion (US$969 million) for the Papua New Guinea economy if it is properly researched, says a World Bank official. Senior agriculture specialist for PNG Allan Tobalbal Oliver said: “Betel nut is a major part of our informal sector, and prior to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/betel-nut-can-earn-k4bil-for-png-world-bank/">Betel nut can earn K4bil for PNG: World Bank</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/betel-nut-can-earn-k4bil-for-png-world-bank/>
+
+---
+
+## Niue not at 2025 Pacific Mini Games due to travel costs to Palau
+
+date: 2025-07-04, from: Island Times
+
+<p>ALOFI/KOROR (RNZ PACIFIC) &#8212;Team Niue is not competing at the 2025 Pacific Mini Games in Palau. Both the Niue Island Sports and Commonwealth Games Association and the Pacific Games Council confirmed to RNZ Pacific on Wednesday that Niue pulled out of the event in May. “It is just too expensive,” general secretary Sidney Lui said [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/niue-not-at-2025-pacific-mini-games-due-to-travel-costs-to-palau-2/">Niue not at 2025 Pacific Mini Games due to travel costs to Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/niue-not-at-2025-pacific-mini-games-due-to-travel-costs-to-palau-2/>
+
+---
+
+## At least 8 deaths as Europe’s heatwave causes forest fires, health alerts and shuts a nuclear reactor
+
+date: 2025-07-04, from: Island Times
+
+<p>In short: The heatwave in Europe has left at least eight people dead as summer temperatures hit record highs. The weather has forced the closure of a nuclear reactor at a Swiss power plant and triggered health alerts and forest fires. Italy, France and Germany have been warned of the risk of heavy storms. Four [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/at-least-8-deaths-as-europes-heatwave-causes-forest-fires-health-alerts-and-shuts-a-nuclear-reactor/"> At least 8 deaths as Europe&#8217;s heatwave causes forest fires, health alerts and shuts a nuclear reactor</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/at-least-8-deaths-as-europes-heatwave-causes-forest-fires-health-alerts-and-shuts-a-nuclear-reactor/>
+
+---
+
+## Paramount settles legal battle with Donald Trump over Kamala Harris interview
+
+date: 2025-07-04, from: Island Times
+
+<p>In short: (ABC-Australia) CBS parent media group Paramount will pay Donald Trump $US16 million to settle a lawsuit over an interview with former presidential rival Kamala Harris. Mr Trump alleged the interview with Ms Harris was edited to tip the scales in favour of her Democratic Party. The settlement comes as Paramount seeks government approval [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/paramount-settles-legal-battle-with-donald-trump-over-kamala-harris-interview/">Paramount settles legal battle with Donald Trump over Kamala Harris interview</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/paramount-settles-legal-battle-with-donald-trump-over-kamala-harris-interview/>
+
+---
+
+## Fiji says China military base not welcome as Pacific islands steer between superpowers
+
+date: 2025-07-04, from: Island Times
+
+<p>CANBERRA (REUTERS)&#8212;- Fiji is opposed to China setting up a military base in the Pacific Islands, Prime Minister Sitiveni Rabuka said on Wednesday, adding that it did not need such a base to project power, as shown by an intercontinental ballistic missile test. Strategically placed between the United States and Asia, the Pacific Islands are [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/fiji-says-china-military-base-not-welcome-as-pacific-islands-steer-between-superpowers/">Fiji says China military base not welcome as Pacific islands steer between superpowers</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/fiji-says-china-military-base-not-welcome-as-pacific-islands-steer-between-superpowers/>
+
+---
+
+## Why Guam needs a year-round pavilion
+
+date: 2025-07-04, from: Pacific Island Times
+
+By Patricia L. Diego I recently had the chance to attend Expo 2025 in Osaka, Japan. It’s not just an expo; it’s a global showcase, a... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/why-guam-needs-a-year-round-pavilion>
+
+---
+
+## USP helped me reconnect with my identity – Lang
+
+date: 2025-07-04, from: University of the South Pacific (Fiji)
+
+<p>At 23 years-old, Miracle Jazel Lang has already embarked on a transformative journey &#8211; one...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-helped-me-reconnect-with-my-identity-lang/">USP helped me reconnect with my identity – Lang</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-helped-me-reconnect-with-my-identity-lang/>
+
+---
+
+## Pasifika Sipoti in brief for 4 July
+
+date: 2025-07-04, from: 
+
+A round up of sports news from around the region, including players of Pasifika heritage in the All Blacks' matchday 23 to face France. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565976/pasifika-sipoti-in-brief-for-4-july>
+
+---
+
+## Guam nuclear radiation survivors 'heartbroken' after being excluded from compensation bill
+
+date: 2025-07-04, from: 
+
+The president of the Pacific Association for Radiation Survivors (PARS) says the US Congress "seems to not understand that we are no different than any state". 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565973/guam-nuclear-radiation-survivors-heartbroken-after-being-excluded-from-compensation-bill>
+
+---
+
+## New Zealand floods trigger tsunami flashbacks for Samoan man
+
+date: 2025-07-04, from: 
+
+Tauinaola Timuiaiala, who lives and works on a farm in Marlborough with his wife children, said the flooding reminded him of the deadly tsunami in Samoa in 2009. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565975/new-zealand-floods-trigger-tsunami-flashbacks-for-samoan-man>
+
+---
+
+## UH ʻōlelo alum lands role in Lilo & Stitch
+
+date: 2025-07-04, from: University of Hawaiʻi News
+
+<p>&#699;Ōlelo <span aria-label="Hawaii">Hawai&#699;i</span> and Hawaiian studies alumnus Brutus La Benz stars in Disney’s live-action <em>Lilo &#38; Stitch</em>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/03/uh-olelo-alum-lilo-and-stitch/"><abbr>UH</abbr> ʻōlelo alum lands role in Lilo & Stitch</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/03/uh-olelo-alum-lilo-and-stitch/>
+
+---
+
+## $295M contract awarded for Guam's defense system command center project
+
+date: 2025-07-04, from: Pacific Island Times
+
+The Naval Facilities Engineering Systems Command Pacific has awarded a $295 million contract to Core Tech-HDCC-Kajima LLC for the construction of a defense system command center in Guam.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/295m-contract-awarded-for-guam-defense-system-command-center>
+
+---
+
+## No ka Hawaiʻi na ka Hawaiʻi
+
+date: 2025-07-04, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Kanaka <span aria-label="Oiwi">&#699;&#332;iwi</span> (Native Hawaiian) librarians published a column about working towards the restoration of Hawaiian knowledge sovereignty.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/03/no-ka-hawaii-na-ka-hawaii/">No ka Hawaiʻi na ka Hawaiʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/03/no-ka-hawaii-na-ka-hawaii/>
+
+---
+
+## Guam and CNMI among Pacific islands eyeing blue carbon solutions to tackle climate crisis
+
+date: 2025-07-04, from: Pacific Island Times
+
+By Ron Rocky Coloma Facing long-term climate threats like rising seas and coastal erosion, communities in Guam and the Northern Mariana... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-and-cnmi-among-pacific-islands-eyeing-blue-carbon-solutions-to-tackle-climate-crisis>
+
+---
+
+## 79 UH Mānoa student athletes named to Academic All-Big West list
+
+date: 2025-07-04, from: University of Hawaiʻi News
+
+<p>Honorees from 10 different teams were named to the list.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/03/79-uh-athletes-named-academic-all-big-west/">79 <abbr>UH</abbr> Mānoa student athletes named to Academic All-Big West list</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/03/79-uh-athletes-named-academic-all-big-west/>
+
+---
+
+## Solomon King FC in contention for inaugural OFC Professional League
+
+date: 2025-07-03, from: 
+
+Solomon Islands PM has confirmed that Solomon King FC is one of the 13 clubs now awaiting final selection by the OFC for the pro-league set to kick-off in January 2026. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565954/solomon-king-fc-in-contention-for-inaugural-ofc-professional-league>
+
+---
+
+## Honolulu CC alum behind bold design featured at UH Alumni Makers’ Market
+
+date: 2025-07-03, from: University of Hawaiʻi News
+
+<p>Honolulu <abbr>CC</abbr> alum’s design journey comes full circle.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/03/honolulu-cc-alum-behind-bold-design/">Honolulu <abbr>CC</abbr> alum behind bold design featured at <abbr>UH</abbr> Alumni Makers’ Market</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/03/honolulu-cc-alum-behind-bold-design/>
+
+---
+
+## US seeking deep-sea miners interested in leasing American Samoa's seabed 
+
+date: 2025-07-03, from: Pacific Island Times
+
+By Jayvee Vallejera   The U.S. is soliciting interest from prospective companies to lease American Samoa's seabed for deep-sea mining,... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-seeking-deep-sea-miners-interested-in-leasing-american-samoa-s-seabed>
+
+---
+
+## Pacific news in brief for 3 July
+
+date: 2025-07-03, from: 
+
+A round-up of news from around the region, including King Charles III made a "care-holder" of one square kilometre of the Moana Mahu marine protected area in Niue. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565949/pacific-news-in-brief-for-3-july>
+
+---
+
+## American Samoa on alert after imported dengue fever cases confirmed
+
+date: 2025-07-03, from: 
+
+The territory's health department says the disease was found in travelers who recently returned from Samoa. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565948/american-samoa-on-alert-after-imported-dengue-fever-cases-confirmed>
+
+---
+
+## Catholic Church voices opposition to PNG's Christian nation declaration
+
+date: 2025-07-03, from: 
+
+An archbishop from a township in East New Britain warns the constitutional amendment risks damaging the country's future. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565947/catholic-church-voices-opposition-to-png-s-christian-nation-declaration>
+
+---
+
+## New leadership for UH Board of Regents and research office
+
+date: 2025-07-03, from: University of Hawaiʻi News
+
+<p>Regent Gabriel Lee was re-elected chair, Mike Miyahira was voted first vice chair, and student regent Joshua Faumuina was voted second vice chair.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/03/new-leadership-uh-bor-research-office/">New leadership for <abbr>UH</abbr> Board of Regents and research office</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/03/new-leadership-uh-bor-research-office/>
+
+---
+
+## Palau Mini Games: Samoa, Fiji and Northern Marianas break Tahiti's golden streak in the pool
+
+date: 2025-07-03, from: 
+
+Tahiti's dominance in swimming on day four of the 2025 Pacific Mini Games was broken by some golden moments shared by other Pacific Island swimmers. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565938/palau-mini-games-samoa-fiji-and-northern-marianas-break-tahiti-s-golden-streak-in-the-pool>
+
+---
+
+## UH scientist explores bioprinting to save soldiers
+
+date: 2025-07-03, from: University of Hawaiʻi News
+
+<p>A retired Army colonel at <abbr>JABSOM</abbr> is pioneering bioprinting research to develop life-saving treatments for soldiers and civilians alike.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/03/bioprinting-to-save-soldiers/"><abbr>UH</abbr> scientist explores bioprinting to save soldiers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/03/bioprinting-to-save-soldiers/>
+
+---
+
+## Federal funding shift brings UH Hilo STEM support program to a close
+
+date: 2025-07-03, from: University of Hawaiʻi News
+
+<p>The Islands of Opportunity Alliance provided mentorship, research stipends and academic pathways for Native Hawaiian, Pacific Islander and first-generation college students.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/03/federal-cuts-uh-hilo-stem-support-program-ends/">Federal funding shift brings <abbr>UH</abbr> Hilo <abbr>STEM</abbr> support program to a close</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/03/federal-cuts-uh-hilo-stem-support-program-ends/>
+
+---
+
+## Fiji willing to provide 5000 personnel to Australian Defence Force - Rabuka
+
+date: 2025-07-03, from: 
+
+The Fijian prime minister says his country is ready to offer 5000 soldiers to help address the Australian Defence Force's personnel shortage. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565854/fiji-willing-to-provide-5000-personnel-to-australian-defence-force-rabuka>
+
+---
+
+## A glimpse into the 2025 Pacific Mini Games - voices of athletes in Palau
+
+date: 2025-07-03, from: 
+
+Amid the action and energy in Palau on Thursday, RNZ Pacific caught up with a few athletes on the ground to hear about their experiences so far. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/565920/a-glimpse-into-the-2025-pacific-mini-games-voices-of-athletes-in-palau>
 
 ---
 
@@ -45,15 +786,17 @@ As we visited sites commemorating WWII battles, the Marine beach assault locatio
 
 ---
 
-## A glimpse into the 2025 Pacific Mini Games - voices of athletes in Palau
+## Fishing excitement builds
 
-date: 2025-07-03, from: 
+date: 2025-07-03, from: Marshal Islands Journal
 
-Amid the action and energy in Palau on Thursday, RNZ Pacific caught up with a few athletes on the ground to hear about their experiences so far. 
+<p>Journal 7/6/1982 P1 New plane for AMIPeople knew it was coming because of the numerous announcements but few expected it to fly past so quietly and quickly. It was the BAC 748 plane which is on loan to Air Marshall Islands until its own is completed in December this year. P1 Kwajalein occupation continuesThe Kwajalein [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/fishing-excitement-builds/">Fishing excitement builds</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
 
 <br> 
 
-<https://www.rnz.co.nz/international/pacific-news/565920/a-glimpse-into-the-2025-pacific-mini-games-voices-of-athletes-in-palau>
+<https://marshallislandsjournal.com/fishing-excitement-builds/>
 
 ---
 
@@ -429,6 +1172,34 @@ date: 2025-07-03, from: Hawaii Tribune Harold
 
 ---
 
+## Police investigate burglary, shooting in Ocean View
+
+date: 2025-07-03, from: Hawaii Tribune Harold
+
+
+				<p>A shooting Monday during a reported home burglary in Ocean View left a 42-year-old Captain Cook woman in critical condition, police said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/03/hawaii-news/police-investigate-burglary-shooting-in-ocean-view/>
+
+---
+
+## Private plane crash closes Kekaha Kai State Park
+
+date: 2025-07-03, from: Hawaii Tribune Harold
+
+
+				<p>A private pilot walked away from his aircraft with minor injuries this morning after an emergency crash landing north of Ellison Onizuka Kona International Airport.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/03/hawaii-news/private-plane-crash-closes-kekaha-kai-state-park/>
+
+---
+
 ## Macron, top leaders open New Caledonia’s summit in Paris
 
 date: 2025-07-03, from: 
@@ -452,18 +1223,6 @@ date: 2025-07-03, from: Marshal Islands Journal
 <br> 
 
 <https://marshallislandsjournal.com/eyes-of-fires-new-edition/>
-
----
-
-## Fiji willing to provide 5000 personnel to Australian Defence Force - Rabuka
-
-date: 2025-07-03, from: 
-
-The Fijian prime minister says his country is ready to offer 5000 soldiers to help address the Australian Defence Force's personnel shortage. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/565854/fiji-willing-to-provide-5000-personnel-to-australian-defence-force-rabuka>
 
 ---
 

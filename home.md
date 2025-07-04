@@ -1,11 +1,71 @@
 ---
 title: home
-updated: 2025-07-03 14:07:39
+updated: 2025-07-04 06:08:46
 ---
 
 # home
 
-(date: 2025-07-03 14:07:39)
+(date: 2025-07-04 06:08:46)
+
+---
+
+## 4 Common Jay Species in New Mexico (Pictures and Identification)
+
+date: 2025-07-04, from: Yard Life blog
+
+<p>New Mexico’s diverse landscapes—ranging from high mountain forests to arid desert woodlands—provide a perfect home for several species of jays. ... </p>
+<p class="read-more-container"><a title="4 Common Jay Species in New Mexico (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/4-common-jay-species-in-new-mexico-pictures-and-identification/#more-31647" aria-label="Read more about 4 Common Jay Species in New Mexico (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/4-common-jay-species-in-new-mexico-pictures-and-identification/">4 Common Jay Species in New Mexico (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/4-common-jay-species-in-new-mexico-pictures-and-identification/>
+
+---
+
+## 14 Stunning Blue Birds in Utah (With Pictures and Identification)
+
+date: 2025-07-04, from: Yard Life blog
+
+<p>Utah is home to a variety of beautiful blue birds that bring vibrant color to its diverse landscapes. From open ... </p>
+<p class="read-more-container"><a title="14 Stunning Blue Birds in Utah (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/14-stunning-blue-birds-in-utah-with-pictures-and-identification/#more-31623" aria-label="Read more about 14 Stunning Blue Birds in Utah (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/14-stunning-blue-birds-in-utah-with-pictures-and-identification/">14 Stunning Blue Birds in Utah (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/14-stunning-blue-birds-in-utah-with-pictures-and-identification/>
+
+---
+
+## 35 Backyard Birds in California (With Pictures and Identification)
+
+date: 2025-07-04, from: Yard Life blog
+
+<p>Discover the vibrant world of Backyard Birds in California, where everyday moments outdoors can turn into exciting bird‐watching adventures. From ... </p>
+<p class="read-more-container"><a title="35 Backyard Birds in California (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/35-backyard-birds-in-california-with-pictures-and-identification/#more-31627" aria-label="Read more about 35 Backyard Birds in California (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/35-backyard-birds-in-california-with-pictures-and-identification/">35 Backyard Birds in California (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/35-backyard-birds-in-california-with-pictures-and-identification/>
+
+---
+
+## 10 Red Birds in North Carolina (With Pictures and Identification)
+
+date: 2025-07-04, from: Yard Life blog
+
+<p>North Carolina offers a wide variety of bird species, and among the most eye-catching are the red birds that bring ... </p>
+<p class="read-more-container"><a title="10 Red Birds in North Carolina (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/10-red-birds-in-north-carolina-with-pictures-and-identification/#more-31614" aria-label="Read more about 10 Red Birds in North Carolina (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/10-red-birds-in-north-carolina-with-pictures-and-identification/">10 Red Birds in North Carolina (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/10-red-birds-in-north-carolina-with-pictures-and-identification/>
 
 ---
 
@@ -37,6 +97,18 @@ date: 2025-07-03, from: Family Handyman Blog
 
 ---
 
+## 5 Things to Do If You Get Injured on Vacation, According to a Travel Nurse
+
+date: 2025-07-03, from: Sunset Magazine - Living in the West
+
+A travel nurse shares advice on how to prepare for vacation injuries, and what to do if you're injured on vacation. 
+
+<br> 
+
+<https://www.sunset.com/travel/what-to-do-if-injured-on-vacation>
+
+---
+
 ## 250,000 Stellantis Cars Recalled Over Faulty Airbags
 
 date: 2025-07-03, from: Family Handyman Blog
@@ -60,6 +132,30 @@ For Kristabel Plummer, the London Living Rent program was the key to locking dow
 <br> 
 
 <https://www.dwell.com/article/rental-revamp-kristabel-plummer-apartment-london-living-rent-program-bfa8a00b>
+
+---
+
+## 25 Delicious Sides and Desserts You Can Cook on the Grill
+
+date: 2025-07-03, from: Sunset Magazine - Living in the West
+
+Why not grill up the sides, salads, and desserts to serve alongside your barbecue feast? Here are favorite grilling recipes from the archives. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/grilled-bbq-sides-and-desserts>
+
+---
+
+## Homepage 2025
+
+date: 2025-07-03, from: Sunset Magazine - Living in the West
+
+Flowers &amp; Plants, Garden Basics Deadheading Tips Every Lazy Gardener Needs to Know How to do less work when pruning flowers and still get bountiful blooms.  Read more: Deadheading Tips Every&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -108,6 +204,18 @@ The state budget signed by Governor Newsom for 2025-2026 includes $600 million f
 <br> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29084>
+
+---
+
+## Sip with Purpose: Iron Horse Vineyards Supports Coastal Conservation
+
+date: 2025-07-03, from: Sunset Magazine - Living in the West
+
+Popular Northern California vineyard, Iron Horse Vineyards, launched a partnership with Heal the Bay to protect our oceans. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/iron-horse-vineyards-coastal-conservation>
 
 ---
 
@@ -307,18 +415,6 @@ date: 2025-07-02, from: Family Handyman Blog
 
 ---
 
-## 25 Delicious Sides and Desserts You Can Cook on the Grill
-
-date: 2025-07-02, from: Sunset Magazine - Living in the West
-
-Why not grill up the sides, salads, and desserts to serve alongside your barbecue feast? Here are favorite grilling recipes from the archives. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/grilled-bbq-sides-and-desserts>
-
----
-
 ## Sunset’s Menlo Park Campus Earns National Recognition for Historic Significance
 
 date: 2025-07-02, from: Sunset Magazine - Living in the West
@@ -354,6 +450,18 @@ The Bay Area is finally figuring out what Nordic countries have been doing for y
 <br> 
 
 <https://www.dwell.com/article/san-francisco-first-floating-sauna-fjord-good-hot-alchemy-springs-contrast-therapy-fd61b03f>
+
+---
+
+## Santa Cruz Is a Central Coast Gem. Here’s What to Do on a Weekend Visit.
+
+date: 2025-07-02, from: Sunset Magazine - Living in the West
+
+Santa Cruz is relaxed, crunchy, coastal gem of a town. A local shares her go-to spots to visit on your next getaway. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/santa-cruz-things-to-do>
 
 ---
 
@@ -419,18 +527,6 @@ date: 2025-07-02, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/top-25-waterfowl-in-louisiana-with-pictures-and-identification/>
-
----
-
-## Homepage 2025
-
-date: 2025-07-02, from: Sunset Magazine - Living in the West
-
-Decorating &amp; Design, Home Tours This Pacific Northwest Beach Cabin Was Transformed to Withstand Extreme Weather Step inside the stylish space inspired by nature.  Read more: This Pacific Northwest Beach Cabin&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

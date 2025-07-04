@@ -1,11 +1,207 @@
 ---
 title: snapshots
-updated: 2025-07-03 14:07:42
+updated: 2025-07-04 06:08:49
 ---
 
 # snapshots
 
-(date: 2025-07-03 14:07:42)
+(date: 2025-07-04 06:08:49)
+
+---
+
+## Post-Glitch
+
+date: 2025-07-04, from: Chris Coyier blog
+
+Jenn Schiffer, in what was surely a bummer post to write because of all the time and heart she put into Glitch, lists out what&#8217;s she&#8217;s doing to move her glitch.com projects elsewhere post-shutdown. i&#8217;ve been using codepen since the beginning. i just found this&#160;&#8220;in progress&#8221; live horse birth in css&#160;that was last saved 11 [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/07/04/post-glitch/>
+
+---
+
+## iKKO Mind One smartphone has a 4 inch square display and a 50MP camera that flips to face forward or back (crowdfunding)
+
+date: 2025-07-04, from: Liliputing
+
+<p>Two years after launching a crowdfunding campaign for a set of AI-enabled earbuds, iKKO Audio is preparing to launch a campaign for the company&#8217;s first full-fledged smartphone&#8230; albeit an unusual one. The iKKO Mind One is a phone with a 4.02 inch AMOLED display that&#8217;s either square or something close to it and a 50MP Sony [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/ikko-mind-one-smartphone-has-a-4-inch-square-display-and-a-50mp-camera-that-flips-to-face-forward-or-back-crowdfunding/">iKKO Mind One smartphone has a 4 inch square display and a 50MP camera that flips to face forward or back (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/ikko-mind-one-smartphone-has-a-4-inch-square-display-and-a-50mp-camera-that-flips-to-face-forward-or-back-crowdfunding/>
+
+---
+
+## Comics from Winter 1980 Issue of Electronics Today International
+
+date: 2025-07-04, from: Computer ads from the Past
+
+AI and everything in between. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/comics-from-winter-1980-issue-of>
+
+---
+
+## Sewing with LEDs and Raspberry Pi Pico
+
+date: 2025-07-04, from: Raspberry Pi News (.com)
+
+<p>Why should a handy storage pouch be boring? Bling yours up with Raspberry Pi Pico and some light-emitting silicon.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/sewing-with-leds-and-raspberry-pi-pico/">Sewing with LEDs and Raspberry Pi Pico</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/sewing-with-leds-and-raspberry-pi-pico/>
+
+---
+
+## Taking Today Off
+
+date: 2025-07-04, from: Paul Krugman
+
+Jack thinks I need a holiday break 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/taking-today-off>
+
+---
+
+## Giving Update 2025
+
+date: 2025-07-04, from: Fix the News
+
+Progress isn't a rule, it's contested terrain, fought for daily by millions of people who refuse to give in to despair. 
+
+<br> 
+
+<https://fixthenews.com/giving-update-2025/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-04, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lt47resx6s2i>
+
+---
+
+## SummerFest 2025 for Indie Mac Apps
+
+date: 2025-07-03, from: Michael Tsai
+
+SummerFest: Your inspiration doesn&#8217;t come from a factory. Neither does artisanal software. For a limited time, we&#8217;re all offering you a great price on great software, right at the workshop door. No ridiculous bundles, no silly gimmicks. Great software, great support, great (but sustainable) prices. [&#8230;] These are terrific tools for thinking, writing, organizing, and [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/03/summerfest-2025-for-indie-mac-apps/>
+
+---
+
+## Alifix 1.4
+
+date: 2025-07-03, from: Michael Tsai
+
+Howard Oakley: If you have old Finder aliases that need to be checked and repaired, Alifix will do that job with you. Use it to scan a folder containing those aliases, and it will warn you which can&#8217;t be resolved any longer, and can rewrite those that need to be updated. I&#8217;d forgotten about this [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/03/alifix-1-4/>
+
+---
+
+## Magic Lasso Adblock 5.0
+
+date: 2025-07-03, from: Michael Tsai
+
+Matthew Bickham: Magic Lasso Adblock v5.0 now lets you block ads and trackers across all apps on your iPhone, iPad, or Mac &#8212; not just in Safari. [&#8230;] Whether you&#8217;re scrolling through social media, playing games, or reading the news (including Apple News), ads are blocked automatically &#8212; creating a cleaner, faster experience across your [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/03/magic-lasso-adblock-5-0/>
+
+---
+
+## CodableWithConfiguration
+
+date: 2025-07-03, from: Michael Tsai
+
+John Sundell: When a type conforms to either EncodableWithConfiguration or DecodableWithConfiguration, it requires an additional configuration value to be passed when either encoding or decoding it (and the compiler will enforce that requirement). [&#8230;] CodableWithConfiguration is really quite useful when using Swift&#8217;s built-in serialization API to encode and decode types that require additional data in [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/03/codablewithconfiguration/>
+
+---
+
+## Lilbits: Could AMD’s Strix Halo chips be used in handhelds and fanless desktops?
+
+date: 2025-07-03, from: Liliputing
+
+<p>AMD&#8217;s Ryzen AI Max+ 395 Strix Halo processor is a powerhouse chip with 16 cores, 32 threads, Radeon 8060S integrated graphics with a 40-core GPU, and an NPU that delivers up to 50 TOPS of AI performance. It&#8217;s nominally a mobile chip designed for laptops, but most PCs using this chip so far are small [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-could-amds-strix-halo-chips-be-used-in-handhelds-and-fanless-desktops/">Lilbits: Could AMD&#8217;s Strix Halo chips be used in handhelds and fanless desktops?</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-could-amds-strix-halo-chips-be-used-in-handhelds-and-fanless-desktops/>
+
+---
+
+## Quoting Adam Gordon Bell
+
+date: 2025-07-03, updated: 2025-07-03, from: Simon Willison’s Weblog
+
+<blockquote cite="https://corecursive.com/coding-agents/#tools-vs-identity"><p>I think that a lot of resistance to AI coding tools comes from the same place: fear of losing something that has defined you for so long. People are reacting against overblown hype, and there is overblown hype. I get that, but I also think there’s something deeper going on here. When you’ve worked hard to build your skills, when coding is part of your identity and where you get your worth, the idea of a tool that might replace some of that is very threatening.</p></blockquote>
+<p class="cite">&mdash; <a href="https://corecursive.com/coding-agents/#tools-vs-identity">Adam Gordon Bell</a>, When AI Codes, What’s Left for me?</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/careers">careers</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/3/adam-gordon-bell/#atom-everything>
+
+---
+
+## TIL: Rate limiting by IP using Cloudflare's rate limiting rules
+
+date: 2025-07-03, updated: 2025-07-03, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://til.simonwillison.net/cloudflare/rate-limiting">TIL: Rate limiting by IP using Cloudflare&#x27;s rate limiting rules</a></strong></p>
+My blog started timing out on some requests a few days ago, and it turned out there were misbehaving crawlers that were spidering my <code>/search/</code> page even though it's restricted by <code>robots.txt</code>.</p>
+<p>I run this site behind Cloudflare and it turns out Cloudflare's WAF (Web Application Firewall) has a rate limiting tool that I could use to restrict requests to <code>/search/*</code> by a specific IP to a maximum of 5 every 10 seconds.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/rate-limiting">rate-limiting</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/cloudflare">cloudflare</a>, <a href="https://simonwillison.net/tags/til">til</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/3/rate-limiting-by-ip/#atom-everything>
+
+---
+
+## System76 Meerkat mini Linux PC now available with up to Intel Core Ultra 7 255H Arrow Lake
+
+date: 2025-07-03, from: Liliputing
+
+<p>Linux PC maker System76 has updated its Meerkat line of mini PCs for the second time this year. In January the company launched models powered by Intel Core Ultra Series 1 (Meteor Lake) processor options. Now those are gone. In their place are new Meerkat models with support for up to an Intel Core Ultra [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/system76-meerkat-mini-linux-pc-now-available-with-up-to-intel-core-ultra-7-255h-arrow-lake/">System76 Meerkat mini Linux PC now available with up to Intel Core Ultra 7 255H Arrow Lake</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/system76-meerkat-mini-linux-pc-now-available-with-up-to-intel-core-ultra-7-255h-arrow-lake/>
 
 ---
 

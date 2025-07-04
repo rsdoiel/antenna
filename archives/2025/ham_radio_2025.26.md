@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-07-03 14:07:34
+updated: 2025-07-04 06:08:42
 ---
 
 # ham radio
 
-(date: 2025-07-03 14:07:34)
+(date: 2025-07-04 06:08:42)
+
+---
+
+## Can microchannels, manifolds, and two-phase cooling keep chips happy?
+
+date: 2025-07-04, from: EDN Blog
+
+<img width="375" height="375" src="https://www.edn.com/wp-content/uploads/Power-Points-172_chip-cooling-channels_eye-candy.png?fit=375%2C375" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Power-Points-172_chip-cooling-channels_eye-candy.png?w=375 375w, https://www.edn.com/wp-content/uploads/Power-Points-172_chip-cooling-channels_eye-candy.png?w=150 150w, https://www.edn.com/wp-content/uploads/Power-Points-172_chip-cooling-channels_eye-candy.png?w=300 300w" sizes="(max-width: 375px) 100vw, 375px" /><p>An embedded-in-chip two-phase cooling design with manifold and micropillar capillary structure enhances thin-film evaporation.</p>
+<p>The post <a href="https://www.edn.com/can-microchannels-manifolds-and-two-phase-cooling-keep-chips-happy/">Can microchannels, manifolds, and two-phase cooling keep chips happy?</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/can-microchannels-manifolds-and-two-phase-cooling-keep-chips-happy/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-07-03 14:07:34
 
 date: 2025-07-03, from: EDN Blog
 
-<img width="800" height="445" src="https://www.edn.com/wp-content/uploads/Renesas-RA8P1.jpg?fit=800%2C445" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Renesas-RA8P1.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Renesas-RA8P1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Renesas-RA8P1.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Aimed at AI/ML applications, Renesas’ RA8P1 MCUs leverage an Arm Ethos-U55 neural processing unit (NPU) delivering 256 GOPS at 500 MHz. </p>
+<img width="800" height="445" src="https://www.edn.com/wp-content/uploads/Renesas-RA8P1.jpg?fit=800%2C445" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Renesas-RA8P1.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Renesas-RA8P1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Renesas-RA8P1.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Aimed at AI/ML applications, Renesas’ RA8P1 MCUs leverage an Arm Ethos-U55 neural processing unit (NPU) delivering 256 GOPS at 500 MHz. </p>
 <p>The post <a href="https://www.edn.com/ai-focused-mcus-embed-neural-processor/">AI-focused MCUs embed neural processor</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

@@ -1,11 +1,35 @@
 ---
 title: games
-updated: 2025-07-03 14:07:37
+updated: 2025-07-04 06:08:44
 ---
 
 # games
 
-(date: 2025-07-03 14:07:37)
+(date: 2025-07-04 06:08:44)
+
+---
+
+## Gachiakuta goes places I’ve never seen in an anime series, and that’s an instant win
+
+date: 2025-07-04, updated: 2025-07-04, from: Polygon Website
+
+It’s hard to reinvent the wheel when the wheel opens the way to success in a billion-dollar industry. But even with well-established, successful genres like shonen anime, some creators aren’t afraid to get creative. Enter Gachiakuta, an anime series that follows the shonen formula, but frames it with a fresh setting that becomes an immediate [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/recommends/610721/gachiakuta-anime-review-premiere-dark-shonen>
+
+---
+
+## Best gifts to give characters in Persona 5 The Phantom X
+
+date: 2025-07-03, updated: 2025-07-03, from: Polygon Website
+
+Preferred gifts in Persona 5: The Phantom X are just like regular gifts, but they’ll give your synergies an extra boost. As you meet and hang out with confidants in Persona 5: The Phantom X, your synergy will increase, but you can give them a gift to increase your synergy even further. However, be on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/persona-5-phantom-x-guides/610722/best-preferred-gifts-give-p5x-synergy>
 
 ---
 

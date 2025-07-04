@@ -1,11 +1,146 @@
 ---
 title: socal north
-updated: 2025-07-03 14:07:33
+updated: 2025-07-04 06:08:41
 ---
 
 # socal north
 
-(date: 2025-07-03 14:07:33)
+(date: 2025-07-04 06:08:41)
+
+---
+
+## Best deals in town: a three course $64 dinner at David Chang’s Majordomo in Chinatown
+
+date: 2025-07-04, updated: 2025-07-04, from: The LAist
+
+The most well-known hidden restaurant in L.A. offers a deal on a prix fixe menu. 
+
+<br> 
+
+<https://laist.com/news/food/best-deals-in-town-a-three-course-64-dinner-at-david-changs-majordomo-in-chinatown>
+
+---
+
+## A plan to build 900 townhomes and establish a vast nature preserve in Irvine begins to take shape
+
+date: 2025-07-04, updated: 2025-07-04, from: The LAist
+
+The housing development could come in front of the council later in the year. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/townhomes-and-nature-preserve-in-irvine>
+
+---
+
+## Nicole Rucker's tip for the best chocolate brownies? Rip up the rulebook
+
+date: 2025-07-04, updated: 2025-07-04, from: The LAist
+
+Fat and Flour founder Nicole Rucker shares her subversive brownie recipe that shouldn’t work, but somehow does. 
+
+<br> 
+
+<https://laist.com/news/food/nicole-ruckers-tip-for-the-best-chocolate-brownies-rip-up-the-rulebook>
+
+---
+
+## When Fourth of July fireworks are over, what is LA breathing?
+
+date: 2025-07-04, updated: 2025-07-04, from: The LAist
+
+Air quality is uniquely terrible after all those official and illegal fireworks are detonated to celebrate Independence Day. What exactly is in the air and what should you do about it? 
+
+<br> 
+
+<https://laist.com/news/climate-environment/when-fourth-of-july-fireworks-are-over-what-is-la-breathing>
+
+---
+
+## How Trump's tax cut and policy bill aims to 'supercharge' immigration enforcement
+
+date: 2025-07-04, updated: 2025-07-04, from: The LAist
+
+The bill includes a major federal investment for President Trump's mass deportation plans, while also limiting eligibility for some safety net programs based on immigration status. 
+
+<br> 
+
+<https://laist.com/news/how-trumps-big-beautiful-bill-aims-to-supercharge-immigration-enforcement>
+
+---
+
+## Feds seize $1M OC home at center of corruption scandal
+
+date: 2025-07-03, updated: 2025-07-03, from: The LAist
+
+The house in unincorporated Tustin was purchased by the daughter of disgraced former supervisor Andrew Do with stolen taxpayer money. He has been sentenced to prison after pleading guilty to a federal bribery charge. 
+
+<br> 
+
+<https://laist.com/news/andrew-do-rhiannon-do-tustin-home-bribery-seizure>
+
+---
+
+## Priced out of LA homeownership? City Council proposal could allow sale of cheaper ADUs
+
+date: 2025-07-03, updated: 2025-07-03, from: The LAist
+
+L.A. homeowners are building thousands of backyard units. A new City Council motion aims to let them sell, and not just rent out, those ADUs. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-city-council-motion-adu-purchase-raman>
+
+---
+
+## LAPD chief instructs officers to verify identity of federal immigration agents
+
+date: 2025-07-03, updated: 2025-07-03, from: The LAist
+
+Jim McDonnell, chief of LAPD, has issued new guidance instructing officers to identify federal agents conducting immigration enforcement on body-cam footage. 
+
+<br> 
+
+<https://laist.com/news/lapd-federal-immigration-agents>
+
+---
+
+## Illegal firework complaints have declined with tougher enforcement, city says
+
+date: 2025-07-03, from: Longbeach Post
+
+<figure><img width="640" height="425" src="https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168.png 640w, https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168-730x484.png 730w, https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168-1110x737.png 1110w, https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168-768x510.png 768w, https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168-1536x1020.png 1536w, https://img.lbpost.com/wp-content/uploads/2021/06/02133806/E185y8ZWEAAFO6z-e1622666372168-2048x1360.png 2048w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Last year, the most calls came from a neighborhood just south of Pacific Coast Highway and west of Redondo Avenue.</p>
+<p>The post <a href="https://lbpost.com/news/illegal-firework-complaints-have-declined-with-tougher-enforcement-city-says">Illegal firework complaints have declined with tougher enforcement, city says </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/illegal-firework-complaints-have-declined-with-tougher-enforcement-city-says>
+
+---
+
+## Mexican boxer Julio César Chávez Jr. arrested by ICE in LA for deportation
+
+date: 2025-07-03, updated: 2025-07-03, from: The LAist
+
+Federal officials say the boxer overstayed his visa and lied on a green card application. He now faces deportation to Mexico. 
+
+<br> 
+
+<https://laist.com/news/mexican-boxer-julio-cesar-chavez-jr-arrested-ice-in-la-deportation>
+
+---
+
+## At ELAC’s Vincent Price Art Museum, an exhibition pays tribute to 30 years of Latina lesbian activism
+
+date: 2025-07-03, updated: 2025-07-04, from: The LAist
+
+The activists took on a range of issues, from LGBTQ healthcare to immigrants’ rights. 
+
+<br> 
+
+<https://laist.com/news/education/on-the-side-of-angels-elac-vincent-price-art-museum-latina-lesbian-activism>
 
 ---
 
@@ -13,7 +148,7 @@ updated: 2025-07-03 14:07:33
 
 date: 2025-07-03, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The victim was identified as Chamrong Sok, a 52-year-old man experiencing homelessness, according to police.</p>
 <p>The post <a href="https://lbpost.com/news/police-make-arrest-in-march-death-of-man-who-was-assaulted">Police make arrest in March death of man who was assaulted</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -138,7 +273,7 @@ One of the most powerful political blocs, the Latino Caucus had to balance reini
 
 date: 2025-07-03, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The proposed class-action suit alleges that DHS has unconstitutionally arrested and detained people in order to meet arbitrary arrest quotas set by the administration of President Donald Trump.</p>
 <p>The post <a href="https://lbpost.com/news/civil-rights-groups-sue-federal-government-over-la-immigration-raids">Civil rights groups sue federal government over LA immigration raids</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -921,6 +1056,18 @@ date: 2025-06-30, from: Longbeach Post
 
 ---
 
+## We've got fireworks, drone shows and more: The LAist guide to celebrating the 4th of July
+
+date: 2025-06-30, updated: 2025-07-02, from: The LAist
+
+We also have some ... unconventional ways to celebrate, such as a 5K run in Anaheim and monster truck rallies. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/july-4-fireworks-drone-shows-events-socal-la-oc-guide>
+
+---
+
 ## Best things to do this week in Los Angeles and Southern California: June 30 - July 3
 
 date: 2025-06-30, updated: 2025-06-30, from: The LAist
@@ -954,18 +1101,6 @@ The Randall Preserve lies along the Santa Ana River between Newport Beach, Costa
 <br> 
 
 <https://laist.com/news/climate-environment/orange-county-coastal-nature-preserve-plans>
-
----
-
-## We've got fireworks, drone shows and more: The LAist guide to celebrating the 4th of July
-
-date: 2025-06-30, updated: 2025-06-30, from: The LAist
-
-We also have some ... unconventional ways to celebrate, such as a 5K run in Anaheim and monster truck rallies. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/july-4-fireworks-drone-shows-events-socal-la-oc-guide>
 
 ---
 

@@ -1,11 +1,51 @@
 ---
 title: north america
-updated: 2025-07-03 14:07:33
+updated: 2025-07-04 06:08:41
 ---
 
 # north america
 
-(date: 2025-07-03 14:07:33)
+(date: 2025-07-04 06:08:41)
+
+---
+
+## Evening Roundup, July 3
+
+date: 2025-07-03, from: The Contrarian
+
+Featuring "The Tea" with April Ryan and Governor Wes Moore; Ted Widmer; Marvin Kalb; Janai Nelson; Ruben Bolling; Marissa Rothkopf; and introducing...Noodles! 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-3>
+
+---
+
+## The Tea w/ April Ryan ft. Gov. Wes Moore
+
+date: 2025-07-03, from: The Contrarian
+
+A recording from The Contrarian's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167373777/01977e7a0970d502d3d8c44f72043f05.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167373777/01977e7a0970d502d3d8c44f72043f05.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-tea-w-april-ryan-ft-gov-wes-moore>
+
+---
+
+## The Big, Bold Betrayal
+
+date: 2025-07-03, from: The Contrarian
+
+The &#8220;Big, Beautiful Bill&#8221; is a big, dangerous lie. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167476799/e535cef56e1dbf9b9d5f87f149e40f3d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167476799/e535cef56e1dbf9b9d5f87f149e40f3d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-big-bold-betrayal>
 
 ---
 

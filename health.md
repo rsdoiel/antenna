@@ -1,11 +1,59 @@
 ---
 title: health
-updated: 2025-07-03 14:07:40
+updated: 2025-07-04 06:08:47
 ---
 
 # health
 
-(date: 2025-07-03 14:07:40)
+(date: 2025-07-04 06:08:47)
+
+---
+
+## Editorial: The immune evasion and survival mechanisms in aquatic organism infections
+
+date: 2025-07-04, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1648166>
+
+---
+
+## Impact of Terminalia chebula Retz polysaccharide and Rubia cordifolia L. processed Terminalia chebula Retz polysaccharides on cyclophosphamide-induced immunosuppression in Chinese yellow quail
+
+date: 2025-07-04, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionImmunosuppression in poultry production, particularly in high-value species like the Chinese yellow quail (Coturnix japonica), increases disease susceptibility and economic losses. Plant-derived polysaccharides, such as those from Terminalia chebula Retz (TC) and Rubia cordifolia L. processed Terminalia chebula Retz polysaccharide (RTCP), offer promising alternatives due to their ability to enhance host defense mechanisms without adverse effects. This study investigates RTCP’s efficacy in mitigating cyclophosphamide (CTX)-induced immunosuppression in quails, focusing on immune function restoration.MethodsOne hundred and twenty 21-day-old healthy quails were randomly divided into six groups (n=20/group): a blank control (saline), a model group (saline + CTX), and four RTCP-treated groups (0.25, 0.5, 0.75, 1 g/kg + CTX). CTX (80 mg/kg) was administered intramuscularly (days 4–7) to induce immunosuppression, except in the blank control. Spleen indices, histology, cytokine profiles, antibody titers, GATA-3/T-bet mRNA expression, and transcriptional networks were analyzed.ResultsCTX significantly reduced spleen weight, organ indices, cytokine levels, and antibody titers (P<0.05). Compared to the model group, 0.5 g/kg RTCP restored spleen morphology and function, elevated cytokines (e.g., IL-2, IFN-γ) and immunoglobulins, and upregulated complement components (C3, C5) and acute-phase proteins, enhancing T-cell and B-cell activation (P<0.05). RTCP also rebalanced the Th1/Th2 axis by normalizing the T-bet/GATA-3 ratio, indicating immune homeostasis recovery.DiscussionRTCP effectively counteracted CTX-induced immunosuppression by modulating innate and adaptive immunity, including complement activation and Th1/Th2 balance. These findings highlight RTCP’s potential as a natural immunomodulator in poultry. Further research should optimize dosing and explore gut-microbiota-immune interactions to enhance therapeutic applications. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1620053>
+
+---
+
+## Editorial: Leishmaniasis: control and elimination, volume II
+
+date: 2025-07-04, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1628558>
+
+---
+
+## Editorial: The bodyguards to the rescue: understanding the molecular and immunological mechanisms involved in host-insect pathogenic microbe interactions
+
+date: 2025-07-04, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1646507>
 
 ---
 

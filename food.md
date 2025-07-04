@@ -1,11 +1,89 @@
 ---
 title: food
-updated: 2025-07-03 14:07:41
+updated: 2025-07-04 06:08:47
 ---
 
 # food
 
-(date: 2025-07-03 14:07:41)
+(date: 2025-07-04 06:08:47)
+
+---
+
+## Crispy Gnocchi Caprese and More Recipes We Made This Week
+
+date: 2025-07-04, from: Bon Appetet
+
+Like French toast and creamy spinach and chickpeas. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-july-2025>
+
+---
+
+## The Best Bars in Portland, Oregon
+
+date: 2025-07-04, from: Bon Appetet
+
+From dreamy escapes to a drinking den built for film buffs, the bars in PDX are dripping in personality and vibes. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-bars-in-portland-oregon>
+
+---
+
+## Cowboy Butter
+
+date: 2025-07-04, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/cowboy-butter/" title="Cowboy Butter" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2023/05/Cowboy-Butter-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Cowboy Butter Recipe" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2023/05/Cowboy-Butter-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2023/05/Cowboy-Butter-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2023/05/Cowboy-Butter-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2023/05/Cowboy-Butter-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2023/05/Cowboy-Butter-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2023/05/Cowboy-Butter-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2023/05/Cowboy-Butter-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This cowboy butter recipe is the perfect topping or dipping sauce for grilled steak, chicken, shrimp, or veggies, loaded with fresh herbs and spices!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/cowboy-butter/">Cowboy Butter</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/cowboy-butter/>
+
+---
+
+## I Made Savory S’mores, and They’re Even Better than the Sweet Ones
+
+date: 2025-07-03, from: Taste of Home
+
+<p>Toast pieces of cheese over a fire, slide 'em onto hearty crackers, slather on your favorite spreads, and you've got savory s'mores—the snack that's become a viral sensation.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/savory-smores/">I Made Savory S&#8217;mores, and They&#8217;re Even Better than the Sweet Ones</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/savory-smores/>
+
+---
+
+## I Tried a 1-Ingredient Orange Soda Granita for Summer Dessert in a Pinch
+
+date: 2025-07-03, from: Taste of Home
+
+<p>Buy a liter of soda, and let your freezer do the work!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/orange-soda-granita/">I Tried a 1-Ingredient Orange Soda Granita for Summer Dessert in a Pinch</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/orange-soda-granita/>
+
+---
+
+## Lucy Wang’s Ube Bread
+
+date: 2025-07-03, from: Taste of Home
+
+Ube (pronounced oo-bay) is a root vegetable that's popular in Southeast Asia. You might know it as a purple sweet potato. It smells like a mix of milk candy and sweet vanilla, and it has a rich purple color. —Lucy Wang, Los Angeles, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lucy-wang-ube-bread/>
 
 ---
 
@@ -409,7 +487,7 @@ date: 2025-07-02, from: The Fresh Cup
 
 date: 2025-07-02, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/candied-bacon/" title="Candied Bacon Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A baking sheet filled with candied bacon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Learn how to make candied bacon! Crispy, sweet, and perfect for brunch, burgers, or Bloody Marys. Easy recipe with spicy options included!</p>
+<a href="https://www.chilipeppermadness.com/recipes/candied-bacon/" title="Candied Bacon Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A baking sheet filled with candied bacon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Candied-Bacon-Recipe7.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Learn how to make candied bacon! Crispy, sweet, and perfect for brunch, burgers, or Bloody Marys. Easy recipe with spicy options included!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/candied-bacon/">Candied Bacon Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

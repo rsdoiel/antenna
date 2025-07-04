@@ -1,11 +1,487 @@
 ---
 title: planet
-updated: 2025-07-03 14:07:31
+updated: 2025-07-04 06:08:40
 ---
 
 # planet
 
-(date: 2025-07-03 14:07:31)
+(date: 2025-07-04 06:08:40)
+
+---
+
+## The Office of the Auditor General
+
+date: 2025-07-04, from: Vatican News
+
+
+                    <p>The mission of this Office that came out of the economic and administrative reforms initiated by Pope Francis is to contribute to the proper and transparent management of the Holy See’s assets. It is responsible for auditing the consolidated financial statements of the Holy See and those of the Governorate of Vatican City State.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/the-office-of-the-auditor-general.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/the-office-of-the-auditor-general.html>
+
+---
+
+## 15 killed in Gaza, US waits for Hamas ceasefire response
+
+date: 2025-07-04, from: RTÉ News
+
+At least 15 Palestinians have been killed overnight in an Israeli airstrike in Gaza, according to local health officials, as US President Donald Trump said he expected Hamas to respond to his "final proposal" for a ceasefire in Gaza in the next 24 hours. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0704/1521868-middle-east/>
+
+---
+
+## Diogo Jota mourned by family, Portugal's PM in hometown
+
+date: 2025-07-04, from: RTÉ News
+
+Portugese Prime Minister Luis Montenegro joined members of Diogo Jota's family for a private wake in the Liverpool footballer's hometown in northern Portugal following his death alongside his brother Andre Silva in a car crash in Spain. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0704/1521867-diogo-jota-portugal/>
+
+---
+
+## Eight jailed over MV Matthew cocaine seizure
+
+date: 2025-07-04, from: RTÉ News
+
+Eight men have been jailed for between 13 and a half and 20 years for their roles in trying to smuggle 2.2 tonnes of cocaine worth over €157m, the largest cocaine seizure in Irish history. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0704/1521808-mv-matthew-court/>
+
+---
+
+## 'Mad money' - Shoppers struggling with food price hikes
+
+date: 2025-07-04, from: RTÉ News
+
+There have been more than 103,000 calls for help to St Vincent De Paul this year and almost half were requests for help with food. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0704/1521841-vincent-de-paul/>
+
+---
+
+## US Bishops express deep concern over final passage of Budget Bill
+
+date: 2025-07-04, from: Vatican News
+
+
+                    <p>Following the passage of the "One Big Beautiful Bill Act"  by the U.S. Congress, the President of the U.S. Conference of Catholic Bishops expresses serious concerns about its impact on the poor and vulnerable. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/us-budget-bill-bishops-concern-inequality-migrants-environment.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/us-budget-bill-bishops-concern-inequality-migrants-environment.html>
+
+---
+
+## Pope Leo prays for those affected by accidental explosion in Rome
+
+date: 2025-07-04, from: Vatican News
+
+
+                    <p>Pope Leo XIV offers his prayers for his diocese following an explosion at a petrol station in Rome, which injured over 20 people, including several emergency responders.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-gas-station-explosion-post-x.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-gas-station-explosion-post-x.html>
+
+---
+
+## More presenting with hay fever due to high pollen levels
+
+date: 2025-07-04, from: RTÉ News
+
+A Clare-based GP has said "there's been a big change" in people attending the medical practice for hay fever, as higher pollen levels are reported in parts of Europe. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0704/1521842-hay-fever/>
+
+---
+
+## Russia fired record number of drones overnight - Ukraine
+
+date: 2025-07-04, from: RTÉ News
+
+Russia hit Kyiv with the largest drone attack of the war, injuring at least 23 people and damaging buildings across the capital, according to officials. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0704/1521837-ukraine-russia-war/>
+
+---
+
+## Pope Leo meets with Prime Minister of Montenegro
+
+date: 2025-07-04, from: Vatican News
+
+
+                    <p>Pope Leo XIV receives Milojko Spajić, the Prime Minister of Montenegro, in an audience at the Vatican on Friday. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-receives-prime-minister-of-montenegro-in-audience.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-receives-prime-minister-of-montenegro-in-audience.html>
+
+---
+
+## Various religions meet in Tokyo to reject war and promote dialogue
+
+date: 2025-07-04, from: Vatican News
+
+
+                    <p>Religious representatives from all over the world meet in Tokyo, Japan, for a roundtable on peace organized by the coalition Religions for Peace International, discussing ways to build trust among religious leaders and work with political leaders on humanitarian responses.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/tokyo-roundtable-peace-religions-for-peace.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/tokyo-roundtable-peace-religions-for-peace.html>
+
+---
+
+## At least 27 injured in Rome petrol station explosion
+
+date: 2025-07-04, from: RTÉ News
+
+At least 27 people, including ten police officers and a firefighter, were injured in a huge explosion at a petrol station in an eastern district of Rome, Italian authorities said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0704/1521824-rome-explosion/>
+
+---
+
+## People in Gaza experiencing 'deprivation of water'
+
+date: 2025-07-04, from: RTÉ News
+
+Children in Gaza are within weeks from dying of thirst due to a blockade of fuel, a spokesperson for UNICEF has said. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0704/1521821-gaza-unicef/>
+
+---
+
+## Dicastery for Bishops
+
+date: 2025-07-04, from: Vatican News
+
+
+                    <p>The mission of the Dicastery for Bishops is to assist the Pope in choosing pastors to whom he can entrust ecclesiastical communities within their respective territories. After identifying priests to be proposed for the episcopate, the final decision rests with the Pope.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-bishops.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-bishops.html>
+
+---
+
+## ‘Poorest always suffer’: Indian Church mourns victims of chemical factory disaster
+
+date: 2025-07-04, from: Vatican News
+
+
+                    <p>Following a massive explosion at a chemical plant in India's Telangana state that killed over 40 people, the spokesperson for the country's Catholic Bishops' Conference laments their deaths and the exploitation of workers.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/india-telangana-factory-disaster-church-mourning.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/india-telangana-factory-disaster-church-mourning.html>
+
+---
+
+## Wildfire on Greek island of Crete 'retreating'
+
+date: 2025-07-04, from: RTÉ News
+
+A wildfire on the Greek island of Crete that forced the evacuation of 5,000 tourists and locals is "retreating", firefighters have said. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0704/1521810-crete-greece-wildfires/>
+
+---
+
+## Katy Perry and Orlando Bloom confirm split
+
+date: 2025-07-04, from: RTÉ News
+
+The American singer Katy Perry and the British actor Orlando Bloom have officially confirmed that they have split, according to a statement released to US media. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0704/1521789-katy-perry-and-orlando-bloom-confirm-split/>
+
+---
+
+## Mother and daughter killed in Donegal crash named locally
+
+date: 2025-07-04, from: RTÉ News
+
+The mother and daughter who died in a road collision in Co Donegal have been named locally as six-year-old Ella McLaughlin and her mother Natalie McLaughlin, who was in her 20s. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0704/1521795-donegal-rtc/>
+
+---
+
+## Kelleher pays tribute to former team-mate Jota
+
+date: 2025-07-04, from: RTÉ News
+
+Republic of Ireland international Caoimhín Kelleher has paid a heartfelt tribute to former team-mate Diogo Jota, who died yesterday in a car crash in Spain. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0704/1521793-mourners-to-gather-in-portugal-for-wake-of-jota/>
+
+---
+
+## Freed Columbia University activist Mahmoud Khalil seizes new public platform amid efforts to deport him
+
+date: 2025-07-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7577000.1751607216!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-columbia.JPG' alt='A man with a mustache and beard wearing a red polo shirt' width='620' height='349' title='Mahmoud Khalil looks out the window of his apartment in New York City, U.S., July 2, 2025.  REUTERS/Angelina Katsanis'/><p>Donald Trump's fight with elite American universities was only a few days old when immigration agents arrested Palestinian student activist Mahmoud Khalil at his Columbia University apartment last March. Khalil believes the U.S. government is trying to silence him, but has instead given him a bigger platform.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/mahmoud-khalil-1.7576998?cmp=rss>
+
+---
+
+## Bob Vylan: Is there a clear legal basis for a case against them?
+
+date: 2025-07-04, from: RTÉ News
+
+UK police are investigating Bob Vylan's Glastonbury performance — but what does the law actually say about protest, free speech, and hate crime? 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0704/1521764-bob-vylan-is-there-a-clear-legal-basis-for-a-case-against-them/>
+
+---
+
+## No breakthrough on EU trade, as US prepares tariff rates
+
+date: 2025-07-04, from: RTÉ News
+
+There has been no immediate breakthrough in the EU-US trade negotiations, according to the EU's trade commissioner Maroš Šefčovič, while Donald Trump plans to start sending letters informing trading partners of their tariff rates as soon as today. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0704/1521785-eu-us-trade/>
+
+---
+
+## Pope Leo visits Castel Gandolfo ahead of his summer holiday
+
+date: 2025-07-04, from: Vatican News
+
+
+                    <p>Pope Leo XIV makes a brief visit to the town of Castel Gandolfo to inspect the works in progress at the Papal residence, where he will spend his summer holiday starting on Sunday, July 6. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-castel-gandolfo-visit.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-castel-gandolfo-visit.html>
+
+---
+
+## Countdown begins as Oasis kick-off reunion tour tonight
+
+date: 2025-07-04, from: RTÉ News
+
+Oasis will kickstart their long-awaited worldwide reunion tour in Cardiff tonight, their first concert in almost 16 years. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0704/1521713-countdown-begins-as-oasis-kick-off-reunion-tour-tonight/>
+
+---
+
+## Charity urges Irish Ukraine veterans to avail of support
+
+date: 2025-07-04, from: RTÉ News
+
+An Irish veterans charity is calling on former Defence Forces members who fought in Ukraine to come forward for support. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0704/1521733-irish-veterans-ukraine/>
+
+---
+
+## 'In combat mode' - Irish veteran's life after Ukraine war
+
+date: 2025-07-04, from: RTÉ News
+
+Peter's first near death experience got him used to the idea that, from now on, it was going to be a regular occurrence. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0704/1521742-ukraine-irish-soldier/>
+
+---
+
+## Palestinian students say visa delays have stranded them despite admission to Canadian schools
+
+date: 2025-07-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7576941.1751593231!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/meera.jpg' alt='A woman wearing a hijab stands in front of rubble. ' width='620' height='349' title='Meera, a university student who has been accepted into a Master&apos;s program at the University of Regina, is stranded waiting in Gaza. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/university-students-gaza-visa-applications-1.7576935?cmp=rss>
+
+---
+
+## Trump declares 'phenomenal victory' as tax bill passes
+
+date: 2025-07-04, from: RTÉ News
+
+US President Donald Trump boasted of a "phenomenal victory" to cheering supporters at a rally in Iowa after Congress narrowly passed his signature tax and spending bill, cementing his radical second-term agenda. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0704/1521782-trump-bill/>
+
+---
+
+## OTB must not 'disadvantage Ireland unduly' - Martin
+
+date: 2025-07-04, from: RTÉ News
+
+Taoiseach Micheál Martin has said the aim of the Occupied Territories Bill must be to apply pressure on Israel to end the war in Gaza, rather than "disadvantage Ireland unduly". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0704/1521781-ireland-middle-east/>
+
+---
+
+## Greenhouse emissions down, but further cuts needed - EPA
+
+date: 2025-07-04, from: RTÉ News
+
+Ireland emitted 54 million tonnes of climate polluting greenhouse gases last year, according to the Environmental Protection Agency - 2% lower than in 2023. 
+
+<br> 
+
+<https://www.rte.ie/news/environment/2025/0704/1521779-epa-emissions/>
+
+---
+
+## It's been 'an honour' to visit Hiroshima - Taoiseach
+
+date: 2025-07-03, from: RTÉ News
+
+Taoiseach Micheál Martin has said it has been "an honour" to visit Hiroshima. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0704/1521776-taoiseach-japan-visit/>
+
+---
+
+## US multinationals to increase employee numbers in Ireland
+
+date: 2025-07-03, from: RTÉ News
+
+60% of US multinationals that are members of the American Chamber of Commerce Ireland plan to increase employee numbers here over the next year. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0704/1521772-us-multinationals/>
+
+---
+
+## Tánaiste in Germany to discuss EU-US trade deal
+
+date: 2025-07-03, from: RTÉ News
+
+Tánaiste and Minister for Foreign Affairs and Trade Simon Harris is in Berlin to meet with his new German counterpart Federal Minister for Foreign Affairs Johann Wadephul. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0704/1521750-simon-harris-germany/>
+
+---
+
+## Recruitment campaign to hire 300 prison officers begins
+
+date: 2025-07-03, from: RTÉ News
+
+A recruitment campaign aimed at hiring 300 new prison officers in full-time positions is under way. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0704/1521740-prison-service-recruitment/>
+
+---
+
+## Facebook owner Meta backs EU digital majority age
+
+date: 2025-07-03, from: RTÉ News
+
+Meta, the parent company of Facebook, Instagram and WhatsApp, has said it supports proposals for a common digital majority age across EU member states. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0704/1521746-meta-eu/>
+
+---
+
+## 'We are listening' - Drone company CEO responds to noise concerns
+
+date: 2025-07-03, from: RTÉ News
+
+The founder of Irish drone company Manna has defended plans to expand aerial delivery services across Dublin despite concerns raised by local TDs and councillors in one test area about noise and privacy issues. 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0703/1521771-we-are-listening-drone-company-ceo-responds-to-noise-concerns/>
+
+---
+
+## Key provisions in Donald Trump's 'Big Beautiful Bill'
+
+date: 2025-07-03, from: RTÉ News
+
+US Republicans have passed a major legislative package, dubbed the "One Big Beautiful Bill," giving President Donald Trump the biggest legislative victory of his second term. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0703/1521768-trump-bill-explained/>
 
 ---
 
@@ -18,6 +494,18 @@ The death of the writer of the popular song 'Only our rivers run free', Mickey M
 <br> 
 
 <https://www.rte.ie/entertainment/2025/0703/1521763-acclaimed-songwriter-mickey-macconnell-dies/>
+
+---
+
+## Acclaimed songwriter Mickey MacConnell dies
+
+date: 2025-07-03, from: RTÉ News
+
+The death of Mickey MacConnell, writer of the popular song 'Only Our Rivers Run Free', has been confirmed by his family in Cork. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0703/1521763-acclaimed-songwriter-mickey-macconnell-dies/>
 
 ---
 
@@ -81,6 +569,30 @@ Another object from interstellar space has been discovered passing through the s
 
 ---
 
+## Slot: Words can't describe pain of Diogo Jota's death
+
+date: 2025-07-03, from: RTÉ News
+
+Liverpool head coach Arne Slot insists everyone associated with the club owes it to Diogo Jota to "stand together and be there for one another". 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0703/1521751-slot-words-cant-describe-pain-of-diogo-jotas-death/>
+
+---
+
+## Boxer Julio César Chávez Jr. arrested by ICE, to be deported to Mexico, officials say
+
+date: 2025-07-03, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7576666.1751574320!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-migration-mexico-boxer.JPG' alt='Two boxers in the ring.' width='620' height='349' title='Mexican boxer Julio Cesar Chavez Jr. squares up against Jake Paul at Honda Center in Anaheim, Calif., on June 28, 2025. '/><p>Famed Mexican boxer Julio César Chávez Jr. has been arrested for entering the United States illegally and will be deported to Mexico, where he faces organized crime charges, U.S. federal officials said Thursday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/julio-c%C3%A9sar-ch%C3%A1vez-jr-ice-arrest-deportation-1.7576656?cmp=rss>
+
+---
+
 ## Israel’s economic interests and the threat of annexation
 
 date: 2025-07-03, from: Vatican News
@@ -137,18 +649,6 @@ date: 2025-07-03, from: Vatican News
 
 ---
 
-## U.S. House passes Trump's tax and spending cuts bill by narrow margin
-
-date: 2025-07-03, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7576546.1751570091!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/u-s-house-speaker-mike-johnson-gavels-the-passing-of-u-s-president-donald-trump-s-tax-bill.jpg' alt='U.S. House Speaker Mike Johnson gavels the passing of U.S. President Donald Trump&apos;s tax bill at the U.S. Capitol.' width='620' height='349' title='US Speaker of the House Mike Johnson gavels the passing of US President Donald Trump&apos;s tax bill on the floor of the House of Representatives at the US Capitol in Washington, DC, on July 3, 2025. Congress passed the &quot;One Big Beautiful Bill,&quot; despite misgivings in his party over a text that would balloon the national debt and launch a historic assault on the social safety net.'/><p>House Republicans propelled U.S. President Donald Trump's $4.5-trillion US tax breaks and spending cuts bill to final congressional passage on Thursday, overcoming multiple setbacks to approve his policy package before a Fourth of July deadline.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/trump-bill-passes-house-1.7576532?cmp=rss>
-
----
-
 ## ‘How Kids Roll’: The film about Gaza’s children praised by Pope Francis
 
 date: 2025-07-03, from: Vatican News
@@ -181,7 +681,7 @@ The amount of money collected in tax in the first half of the year rose almost 7
 
 date: 2025-07-03, from: RTÉ News
 
-Russian President Vladimir Putin has told US counterpart Donald Trump that Moscow will not "give up" on its aims in Ukraine while pledging it will also keep up a negotiating process on the conflict, the Kremlin said after a call between the leaders. 
+Russian President Vladimir Putin has told his US counterpart that Moscow will not "give up" on its aims in Ukraine while pledging it will also keep up a negotiating process on the conflict, the Kremlin said after a call between the leaders. 
 
 <br> 
 
@@ -258,6 +758,18 @@ date: 2025-07-03, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-july-prayer-intention-formation-discernment.html>
+
+---
+
+## The Americans fighting back against Trump's attacks on climate
+
+date: 2025-07-03, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7554476.1749227185!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/woe-climate-resistance-cover.jpg' alt='Headshots of Brandon Jones, Aru Shiney-Ajay, Glen Brand, and Dominique Browning' width='620' height='349' title=''/><p>In this issue of our environmental newsletter, we meet some of the Americans fighting back against U.S. cuts to climate science and policies, visualize how hot our cities will feel by the end of this century and check out a new kind of cat litter made from waste.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/what-on-earth-us-climate-activists-1.7575978?cmp=rss>
 
 ---
 
@@ -351,7 +863,7 @@ date: 2025-07-03, from: Vatican News
 
 ## The Sevilla Commitment: A vital step to rebuild trust in global cooperation
 
-date: 2025-07-03, from: United Nations, Economic Development
+date: 2025-07-03, from: United Nations, Top Stories
 
 Civil society organisations have welcomed the consensus reached at the landmark sustainable development conference concluding this Thursday in Sevilla, while cautioning that real progress will depend on sustained action. 
 
@@ -399,7 +911,7 @@ The UN Secretary-General is “appalled” by the deepening humanitarian crisis 
 
 ## Landless and locked out: Young farmers struggle for a future
 
-date: 2025-07-03, from: United Nations, Economic Development
+date: 2025-07-03, from: United Nations, Top Stories
 
 Agricultural land is more than just a resource to produce food – for many older adults around the world, a land deed is the only safety net they have as they enter their old age. As a result, they hold onto it tightly.&nbsp;&nbsp; 
 
@@ -411,13 +923,25 @@ Agricultural land is more than just a resource to produce food – for many olde
 
 ## With sustainable development under threat, Sevilla summit rekindles hope and unity
 
-date: 2025-07-03, from: United Nations, Economic Development
+date: 2025-07-03, from: United Nations, Top Stories
 
 The landmark Financing for Development conference in Sevilla has concluded with a renewed sense of resolve and a focus on action that can change lives worldwide, according to UN Deputy Secretary-General Amina Mohammed. 
 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/07/1165281>
+
+---
+
+## Shelter and safety elude Afghan women returnees from Iran and Pakistan
+
+date: 2025-07-03, from: United Nations, Top Stories
+
+As returns of Afghan refugees and those living in refugee-like conditions from Iran and Pakistan increase – many forcibly – women and girls are arriving in a country where their rights, safety, and futures face severe threats, according to a new UN-led report. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165331>
 
 ---
 
@@ -650,18 +1174,6 @@ A wildfire fanned by gale-force winds on the southern Greek island of Crete has 
 <br> 
 
 <https://www.rte.ie/news/world/2025/0703/1521613-crete-wildfire/>
-
----
-
-## Militarized Gaza aid system shows Israel's continued use of starvation as weapon of war, Amnesty report says
-
-date: 2025-07-03, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7575985.1751543197!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg' alt='Palestinians carry bags containing food and humanitarian aid packages.' width='620' height='349' title='Palestinians carry bags containing food and humanitarian aid packages delivered by the Gaza Humanitarian Foundation, a U.S.-backed organization, in Rafah, southern Gaza Strip, Monday, June 16, 2025. (AP Photo/Abdel Kareem Hana)'/><p>A new Amnesty International report published Thursday says the Gaza Humanitarian Foundation uses a militarized aid mechanism that enables Israel to use starvation as a weapon of war and inflict genocide against Palestinians.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/amnesty-report-gaza-starvation-airstrikes-shootings-1.7575953?cmp=rss>
 
 ---
 
@@ -1388,7 +1900,7 @@ Four people have died in Spain, two in France and two in Italy as an early summe
 
 ## Space is not the final frontier – it is the foundation of our future: UN deputy chief
 
-date: 2025-07-02, from: United Nations, Economic Development
+date: 2025-07-02, from: United Nations, Top Stories
 
 Space technologies are no longer a distant frontier but a critical foundation for daily life and global development, the UN Deputy Secretary-General said on Wednesday. 
 
@@ -1400,7 +1912,7 @@ Space technologies are no longer a distant frontier but a critical foundation fo
 
 ## INTERVIEW: Sevilla ‘a critical test’ of multilateralism
 
-date: 2025-07-02, from: United Nations, Economic Development
+date: 2025-07-02, from: United Nations, Top Stories
 
 Nations taking part in a flagship UN conference have pledged to address the debt crisis in the Global South and boost sustainable development. However, the real test will be whether or not these commitments will be translated into action. 
 
@@ -1412,7 +1924,7 @@ Nations taking part in a flagship UN conference have pledged to address the debt
 
 ## Sevilla: Without sustainable development, there is neither hope nor security
 
-date: 2025-07-02, from: United Nations, Economic Development
+date: 2025-07-02, from: United Nations, Top Stories
 
 A senior UN official has told UN News that the global development challenge is not lack of money, but how to align public and private capital flows. The Sevilla Agreement adopted this week, sets out a roadmap for all UN Member States — except the US which pulled out earlier this month — with the aim of mobilizing that capital. 
 
@@ -1424,7 +1936,7 @@ A senior UN official has told UN News that the global development challenge is n
 
 ## Drowning in debt: New forum in Sevilla offers borrowers chance to rebalance the books
 
-date: 2025-07-02, from: United Nations, Economic Development
+date: 2025-07-02, from: United Nations, Top Stories
 
 A new mechanism offering debt-distressed countries a way to coordinate action and amplify their voice in the global financial system, has been launched at the UN’s pivotal sustainable development conference in Sevilla.&nbsp; 
 
@@ -2102,6 +2614,18 @@ date: 2025-07-01, from: CBC, World News
 
 ---
 
+## U.S. House passes Trump's tax and spending cuts bill by narrow margin
+
+date: 2025-07-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/f6a6d48f-13ca-461d-bdba-998575467d99,1751571492023/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A group of people surround a man in a suit with glasses' width='620' height='349' title='Republican members of Congress reach to shake hands with Speaker of the House Mike Johnson, R-La., center bottom, after Johnson signed President Donald Trump&apos;s signature bill of tax breaks and spending cuts, Thursday, July 3, 2025, at the Capitol in Washington. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-bill-passes-house-1.7576532?cmp=rss>
+
+---
+
 ## Teenage boy dies following incident at lake in Co Kerry
 
 date: 2025-07-01, from: RTÉ News
@@ -2111,6 +2635,18 @@ A teenage boy has died in an incident at a lake close to Daingean Uí Chúis in 
 <br> 
 
 <https://www.rte.ie/news/munster/2025/0701/1521363-kerry-incident/>
+
+---
+
+## Is the Dublin hurling melting pot coming to the boil?
+
+date: 2025-07-01, from: RTÉ News
+
+If Dublin do the unthinkable – again – and make it to the final, there'll be a cohort of Cork people watching in three weeks' time, in Phibsboro and Rathfarnham, from Dalkey to Portmarnock, who'll have to put the disappointment of another year of waiting behind them. 
+
+<br> 
+
+<https://www.rte.ie/sport/hurling/2025/0701/1521356-is-the-dublin-hurling-melting-pot-coming-to-the-boil/>
 
 ---
 
@@ -2442,7 +2978,7 @@ Conflicts in the Middle East and North Africa in the last two years reportedly k
 
 ## ‘The margins of the budget’: Gender equality in developing countries underfunded by $420 billion annually
 
-date: 2025-07-01, from: United Nations, Economic Development
+date: 2025-07-01, from: United Nations, Top Stories
 
 Developing countries currently face a staggering $420 billion annual gap in the funding needed to achieve gender equality, UN Women estimates. This gap means that programmes and services for women and girls are chronically underfunded.&nbsp;&nbsp; 
 
@@ -2466,7 +3002,7 @@ The Convention on International Trade in Endangered Species of Wild Fauna and Fl
 
 ## Spain and Brazil push global action to tax the super-rich and curb inequality
 
-date: 2025-07-01, from: United Nations, Economic Development
+date: 2025-07-01, from: United Nations, Top Stories
 
 Spain and Brazil have launched a joint initiative to promote higher tax contributions from the super-rich worldwide, aimed at tackling soaring inequality by ensuring those with the most pay their fair share. 
 
@@ -2490,7 +3026,7 @@ The blistering early-summer heatwave that’s brought life-threatening temperatu
 
 ## General Assembly approves $5.4 billion UN peacekeeping budget for 2025-2026
 
-date: 2025-07-01, from: United Nations, UN Affairs
+date: 2025-07-01, from: United Nations, Top Stories
 
 The General Assembly on Monday approved a $5.38 billion budget for UN peacekeeping operations for the 2025-2026 fiscal year, down slightly from the previous year, as delegates wrapped up weeks of negotiations amid warnings about persistent funding challenges. 
 
@@ -3392,7 +3928,7 @@ One in six people are affected by loneliness, with significant implications for 
 
 ## After the big development pledges in Sevilla, UN says action starts now
 
-date: 2025-06-30, from: United Nations, Economic Development
+date: 2025-06-30, from: United Nations, Top Stories
 
 Now the big promises have been formally adopted in the Spanish city of Sevilla to turbocharge financing for sustainable development, how are the ambitious goals going to be met – and how quickly? 
 

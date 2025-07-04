@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-07-03 14:07:39
+updated: 2025-07-04 06:08:46
 ---
 
 # retro computing
 
-(date: 2025-07-03 14:07:39)
+(date: 2025-07-04 06:08:46)
+
+---
+
+## R-Comp 5erves up two new Pi-based systems
+
+date: 2025-07-04, from: RiscOS Story
+
+There are two new systems available from R-Comp Interactive, both based around Raspberry Pi 5 tech. The first of these is called 5idekick, and is a Linux system intended to run alongside (and used via) an existing RISC OS computer, while the second expands on the 5idekick with multiple SSD drives, and is intended to be used as a network attached storage (NAS) device. Starting at £99, with a more powerful version (more RAM, nVME storage) priced at £199, the 5idekick is based on the same ideas as the Sidekick&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/r-comp-5erves-up-two-new-systems/>
+
+---
+
+## Comics from Winter 1980 Issue of Electronics Today International
+
+date: 2025-07-04, from: Computer ads from the Past
+
+AI and everything in between. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/comics-from-winter-1980-issue-of>
 
 ---
 

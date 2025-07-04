@@ -1,11 +1,167 @@
 ---
 title: science and technology
-updated: 2025-07-03 14:07:35
+updated: 2025-07-04 06:08:43
 ---
 
 # science and technology
 
-(date: 2025-07-03 14:07:35)
+(date: 2025-07-04 06:08:43)
+
+---
+
+## We're number 1! Windows 11 finally overtakes Windows 10
+
+date: 2025-07-04, updated: 2025-07-04, from: The Register (UK I.T. News)
+
+<h4>Three months to go until support ends, and Microsoft&#39;s flagship operating system squeaks past its predecessor</h4> <p>Windows 11 has finally overtaken the market share of its predecessor, with just three months remaining until Microsoft discontinues support for Windows 10.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/04/windows_11_market_share/>
+
+---
+
+## 14-hour+ global blackout at Ingram Micro halts customer orders
+
+date: 2025-07-04, updated: 2025-07-04, from: The Register (UK I.T. News)
+
+<h4>Fears mount while distie remains silent and phone lines down</h4> <p><strong>Exclusive</strong>  Widespread outages across Ingram Micro&#39;s websites and client service portals are being attributed to &#34;technical difficulties.&#34; …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/04/ingram_micro_technical_difficulties/>
+
+---
+
+## Former and current Microsofties react to the latest round of layoffs
+
+date: 2025-07-04, updated: 2025-07-04, from: The Register (UK I.T. News)
+
+<h4>&#39;JFC, again?&#39;</h4> <p>Microsoft&#39;s latest round of layoffs has triggered an outpouring of emotion from inside and outside the company, with at least one former staffer asking: &#34;How many billions must be burned in the AI furnace before this stops?&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/04/former_and_current_microsofties_react_layoffs/>
+
+---
+
+## Wikidata: Attempting to bridge FOSS ideals and direct democracy
+
+date: 2025-07-04, updated: 2025-07-04, from: The Register (UK I.T. News)
+
+<h4>There&#39;s more to the Wikimedia organization than the famous encyclopedia</h4> <p><strong>Comment</strong>  Multiple other projects also use the vast linked data store that underpins ubiquitous internet encyclopaedia Wikipedia, and some of them are helping the fight for democracy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/04/wikidata_foss_democracy/>
+
+---
+
+## 'Trained monkey' from tech support saved know-it-all manager's mistake with a single keypress
+
+date: 2025-07-04, updated: 2025-07-04, from: The Register (UK I.T. News)
+
+<h4>Righteous mockery entranced execs in ways slideware could not</h4> <p><strong>On Call</strong>  Friday dawns with the promise of precious freedom, yet the world of tech support is seldom free from trouble. <em>The Register</em> always finds a way to celebrate anyway, by bringing you a fresh instalment of On Call, the reader-contributed column that tells your tales of breaking away from bad bosses and ungrateful users.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/04/on_call/>
+
+---
+
+## EU businesses want a pause on AI regulations so they can cope with unregulated Big Tech players
+
+date: 2025-07-04, updated: 2025-07-04, from: The Register (UK I.T. News)
+
+<h4>Mistral fears continental companies may not get time to escape &#39;distant, behemoth corporations&#39;</h4> <p>French AI business Mistral on Thursday announced an initiative called “AI for Citizens,” which it says offers a way to work with governments and public institutions to transform public services using AI.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/04/eu_businesses_push_for_freedom/>
+
+---
+
+## Won’t somebody think of the European children? Meta and Google put up their hands to help on the same day
+
+date: 2025-07-04, updated: 2025-07-04, from: The Register (UK I.T. News)
+
+<h4>Zuck backs a ‘digital majority age’ and Google open sources tech that might enforce it</h4> <p>Google and Meta have independently taken actions to support a safer internet for kids – and given blockchain boosters a moment to celebrate.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/04/meta_google_europe_age_assurance/>
+
+---
+
+## Kawasaki and Foxconn build robot nursing assistant to tackle hospital scutwork
+
+date: 2025-07-04, updated: 2025-07-04, from: The Register (UK I.T. News)
+
+<h4>If you come out of a coma in 2026, this is the machine you might see staring down at you</h4> <p>Taiwanese tech manufacturer Foxconn and Japan’s Kawasaki Heavy Industries have revealed a jointly developed robotic nursing assistant they hope to start selling in 2026.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/04/kawasaki_foxconn_/>
+
+---
+
+## Microsoft leaves Pakistan but promises customers won't notice the change
+
+date: 2025-07-03, updated: 2025-07-03, from: The Register (UK I.T. News)
+
+<h4>Job cuts aren’t big, symbolism of quitting the world’s fifth-most-populous nation might be</h4> <p><strong>Exclusive</strong>  Microsoft has decided to close its presence in Pakistan.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/03/microsoft_quits_pakistan/>
+
+---
+
+## Cold without the compressor: Boffins build better ice box
+
+date: 2025-07-03, updated: 2025-07-03, from: The Register (UK I.T. News)
+
+<h4>A thermoelectric material called CHESS is pretty cool</h4> <p>Scientists at Johns Hopkins and Samsung have developed a nano-engineered thermoelectric material that is twice as efficient at material-level cooling as existing alternatives, paving the way for broader adoption of solid-state refrigeration technology.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/03/cold_without_the_compressor_boffins/>
+
+---
+
+## US budget bill passes without controversial block on states regulating AI
+
+date: 2025-07-03, updated: 2025-07-03, from: The Register (UK I.T. News)
+
+<h4>And with some increases to rural broadband funds, fresh spectrum auctions, and wholesale dismantling of clean energy subsidies</h4> <p>Lawmakers have passed President Trump&#39;s budget reconciliation but removed one of its most tech-contentious measures - the ban of state-level AI regulation – meaning the law will have little effect on the tech industry.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/03/trump_budget_bill_tech_impact/>
+
+---
+
+## AI models just don't understand what they're talking about
+
+date: 2025-07-03, updated: 2025-07-03, from: The Register (UK I.T. News)
+
+<h4>Researchers find models&#39; success at tests hides illusion of understanding</h4> <p>Researchers from MIT, Harvard, and the University of Chicago have proposed the term &#34;potemkin understanding&#34; to describe a newly identified failure mode in large language models that ace conceptual benchmarks but lack the true grasp needed to apply those concepts in practice.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/03/ai_models_potemkin_understanding/>
+
+---
+
+## NASA Remembers Former Johnson Director Jefferson Howell
+
+date: 2025-07-03, from: NASA breaking news
+
+July 3, 2025 Jefferson Davis Howell, Jr., former director of NASA’s Johnson Space Center in Houston, died July 2, in Bee Cave, Texas. He was 85 years old. Howell was a champion of the construction of the International Space Station, working on a deadline to complete the orbiting lab by 2004. He oversaw four space [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-remembers-former-johnson-director-jefferson-howell/>
 
 ---
 
@@ -551,7 +707,7 @@ As a controls engineer at NASA’s Stennis Space Center near Bay St. Louis, Miss
 
 ## Impact of Microsoft taking over Enterprise Account renewals starts to 'bite'
 
-date: 2025-07-02, updated: 2025-07-02, from: The Register (UK I.T. News)
+date: 2025-07-02, updated: 2025-07-03, from: The Register (UK I.T. News)
 
 <h4>Cutting out middle man dents coffers of larger service providers, helps Redmond offset AI investments</h4> <p>The sweeping changes Microsoft is making to its licensing incentives for large service providers is taking hold.…</p> 
 

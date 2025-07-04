@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-07-03 14:07:38
+updated: 2025-07-04 06:08:45
 ---
 
 # libraries
 
-(date: 2025-07-03 14:07:38)
+(date: 2025-07-04 06:08:45)
+
+---
+
+## Happy 4th of July — Surf’s Up!
+
+date: 2025-07-04, from: Scholarly Kitchen
+
+<p>Celebrating American Independence Day with a truly great American art form.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/07/04/happy-4th-of-july-surfs-up/">Happy 4th of July &#8212; Surf&#8217;s Up!</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/07/04/happy-4th-of-july-surfs-up/>
 
 ---
 

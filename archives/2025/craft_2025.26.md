@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-07-03 14:07:41
+updated: 2025-07-04 06:08:47
 ---
 
 # craft
 
-(date: 2025-07-03 14:07:41)
+(date: 2025-07-04 06:08:47)
+
+---
+
+## Glen Huey (1959-2025): One of the Greats
+
+date: 2025-07-03, from: Lost Arg Press blog
+
+Glen Huey, a great furniture maker, teacher and (I hope) friend, died unexpectedly on July 27 after posting a short notice about an upcoming medical procedure on Facebook. You can read his full obituary here. I first met Glen in the late 1990s as he and his father, Malcolm, launched their custom furniture business and... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/07/03/glen-huey-1959-2025-one-of-the-greats/>
 
 ---
 
