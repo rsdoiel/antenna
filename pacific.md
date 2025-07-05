@@ -1,11 +1,35 @@
 ---
 title: pacific
-updated: 2025-07-04 14:08:15
+updated: 2025-07-05 06:09:37
 ---
 
 # pacific
 
-(date: 2025-07-04 14:08:15)
+(date: 2025-07-05 06:09:37)
+
+---
+
+## Mum's prayers help 16yo Fijian weightlifter win 3 gold medals and smash 9 records in Palau
+
+date: 2025-07-04, from: 
+
+Nehemiah Elder created history in Koror winning tripple gold medals and set nine records in the men's 88kh categoty on day five of the 2025 Pacific Mini Games. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566036/mum-s-prayers-help-16yo-fijian-weightlifter-win-3-gold-medals-and-smash-9-records-in-palau>
+
+---
+
+## Swimming prodigy Aleksenko rakes up six golds for Northern Mariana Islands
+
+date: 2025-07-04, from: 
+
+Isaiah Aleksenko, 19, is leading the charge among Pacific swimmers at the Mini Games 2025. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566041/swimming-prodigy-aleksenko-rakes-up-six-golds-for-northern-mariana-islands>
 
 ---
 
@@ -25,7 +49,7 @@ The two deals were signed on the margins of the Micronesian Islands Leaders' For
 
 date: 2025-07-04, from: 
 
-As part of a range of possible options, the French president reportedly put on the table an "associated State" status for for the French territory, with a "strong link with France". 
+As part of a range of possible options, the French president reportedly put on the table an "associated State" status for the French territory, with a "strong link with France". 
 
 <br> 
 
@@ -3298,4 +3322,207 @@ Weekender #57
 <br> 
 
 <https://thehusk.substack.com/p/market-mamas>
+
+---
+
+## 'Do No Harm' bill could do more harm than good, Guam doctors warn 
+
+date: 2025-06-28, from: Pacific Island Times
+
+Guam's health care leaders discuss Bill 82-38 at a press conference held June 27, 2025, at Hyatt Regency Guam. Photo by Jann... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/do-no-harm-bill-could-do-more-harm-than-good-guam-doctors-warn>
+
+---
+
+## Supreme Court limits power of judges to block Trump policies
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court on Friday limited the ability of lower-court judges to block executive branch policies nationwide, opening the door for a majority of states to at least temporarily enforce President Donald Trump&#8217;s executive order ending birthright citizenship.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/supreme-court-limits-power-of-judges-to-block-trump-policies/>
+
+---
+
+## Senate blocks war powers resolution to limit Trump’s ability to strike Iran again
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Senate on Friday blocked a Democratic resolution that would have forced President Donald Trump to go to Congress for approval of further military action against Iran, dealing a blow to efforts to rein in his war powers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/senate-blocks-war-powers-resolution-to-limit-trumps-ability-to-strike-iran-again/>
+
+---
+
+## Rwanda and Congo sign US-brokered peace treaty
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The top diplomats from Rwanda and Congo signed a peace agreement in Washington on Friday to try to end a devastating war in eastern Congo that has resulted in thousands of deaths and displaced hundreds of thousands of people since fighting surged this year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/rwanda-and-congo-sign-us-brokered-peace-treaty/>
+
+---
+
+## University of Virginia president resigns under pressure from Trump administration
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>The University of Virginia&#8217;s president, James E. Ryan, has told the board overseeing the school that he will resign in the face of demands by the Trump administration that he step aside to help resolve a Justice Department inquiry into the school&#8217;s diversity, equity and inclusion efforts, according to three people briefed on the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/university-of-virginia-president-resigns-under-pressure-from-trump-administration/>
+
+---
+
+## Trump says US ending trade talks with Canada
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump on Friday said the United States would terminate all trade discussions with Canada, &#8220;effective immediately,&#8221; over the country&#8217;s plan to begin collecting digital services taxes from U.S. technology giants.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/trump-says-us-ending-trade-talks-with-canada/>
+
+---
+
+## Critical hurricane monitoring data is going offline
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>The National Atmospheric and Oceanic Administration has said that in the next few days it will stop providing data from satellites that have been helping hurricane forecasters do their jobs for decades, citing &#8220;recent service changes&#8221; as the cause.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/critical-hurricane-monitoring-data-is-going-offline/>
+
+---
+
+## France opens competition to expand overcrowded Louvre
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; France on Friday started an architectural competition for the daunting task of expanding the Louvre in Paris, in a bid to ease overcrowding at the world&#8217;s biggest and most visited museum.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/france-opens-competition-to-expand-overcrowded-louvre/>
+
+---
+
+## Minnesotans ring Capitol to honor slain lawmaker; hearing is postponed for suspect
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>ST. PAUL, Minn. &#8212; Elected officials, former President Joe Biden and everyday Minnesotans streamed into the white-domed state Capitol on Friday to pay their respects to state Rep. Melissa Hortman and her husband, Mark, who were fatally shot at their suburban Minneapolis home this month.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/minnesotans-ring-capitol-to-honor-slain-lawmaker-hearing-is-postponed-for-suspect/>
+
+---
+
+## In pursuit of godlike technology, Mark Zuckerberg amps up the AI race
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>SAN FRANCISCO &#8212; In April, Mark Zuckerberg&#8217;s lofty plans for the future of artificial intelligence crashed into reality.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/features/in-pursuit-of-godlike-technology-mark-zuckerberg-amps-up-the-ai-race/>
+
+---
+
+## Tropical Gardening: Insect repellents important because summer often means more insects
+
+date: 2025-06-28, from: Hawaii Tribune Harold
+
+
+				<p>Some insects are more than just pesky especially when it comes to ones that spread disease. Malaria and other diseases are scary. However, it is even scarier when you realize how vulnerable we are when it comes to problems caused by rats, pigs, insects and diseases we find in Hawaii. Pig and rat populations also carry diseases than can cause human illnesses.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/06/28/features/tropical-gardening-insect-repellents-important-because-summer-often-means-more-insects/>
+
+---
+
+## Pasifika Medical Association rejects claims public funds used inappropriately
+
+date: 2025-06-28, from: 
+
+Te Puni Kōkiri is launching an independent review into allegations that money was used inappropriately for Whānau Ora commissioning services. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/political/565405/pasifika-medical-association-rejects-claims-public-funds-used-inappropriately>
+
+---
+
+## 3 powerful murals unveiled at UH Maui College
+
+date: 2025-06-28, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Maui College walls transformed through dynamic stories rooted in Maui.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/27/powerful-murals-at-uh-maui-college/">3 powerful murals unveiled at <abbr>UH</abbr> Maui College</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/27/powerful-murals-at-uh-maui-college/>
+
+---
+
+## Cancer care, Cirque du Soleil, more in UH magazine
+
+date: 2025-06-28, from: University of Hawaiʻi News
+
+<p>From cancer breakthroughs to creative careers, <abbr>UH</abbr> alumni and faculty are shaping <span aria-label="Hawaii">Hawai&#699;i</span>’s future.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/27/uh-magazine-2025/">Cancer care, Cirque du Soleil, more in <abbr>UH</abbr> magazine</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/27/uh-magazine-2025/>
+
+---
+
+## Education to employment: UH System tackles workforce shortage in parks and rec
+
+date: 2025-06-28, from: University of Hawaiʻi News
+
+<p>A new <abbr>UH</abbr> Community Colleges program is helping to rapidly fill parks and rec positions while preparing residents for green careers.</p>
+The post <a href="https://www.hawaii.edu/news/2025/06/27/uh-tackles-workforce-shortage-parks-and-rec/">Education to employment: <abbr>UH</abbr> System tackles workforce shortage in parks and rec</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/06/27/uh-tackles-workforce-shortage-parks-and-rec/>
 

@@ -1,11 +1,52 @@
 ---
 title: columns
-updated: 2025-07-04 14:08:17
+updated: 2025-07-05 06:09:39
 ---
 
 # columns
 
-(date: 2025-07-04 14:08:17)
+(date: 2025-07-05 06:09:39)
+
+---
+
+## A way to triumph over cynicism
+
+date: 2025-07-04, from: Robert Reich's blog
+
+Nationwide showings of The Last Class film 
+
+<br> 
+
+<https://robertreich.substack.com/p/a-way-to-triumph-over-cynicism>
+
+---
+
+## July 3, 2025
+
+date: 2025-07-04, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167552553/7b550313f5b1fbb560f2bab55b3af738.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167552553/7b550313f5b1fbb560f2bab55b3af738.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-3-2025-2f5>
+
+---
+
+## Friday Squid Blogging: How Squid Skin Distorts Light
+
+date: 2025-07-04, updated: 2025-07-02, from: Bruce Schneier blog
+
+<p>New <a href="https://www.earth.com/news/scientists-unlock-the-light-bending-secrets-of-squid-skin/">research</a>.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-how-squid-skin-distorts-light.html>
 
 ---
 
@@ -1023,81 +1064,6 @@ total: 1584
 <br> 
 
 <https://alexschroeder.ch/view/2025-06-16-ban-asn>
-
----
-
-## 2025-07-03 fail2ban some more
-
-date: 2025-07-03, from: Alex Schroeder's Blog
-
-<h1 id="2025-07-03-fail2ban-some-more">2025-07-03 fail2ban some more</h1>
-
-<p>This is a continuation of <a href="2025-06-16-ban-asn">2025-06-16 Ban autonomous systems</a>.</p>
-
-<p>I kept wondering why the &ldquo;recidive&rdquo; jail never found any repeated offenders from the &ldquo;butlerian-jihad&rdquo; jail. I think I know why, now. The &ldquo;recidive&rdquo; jail uses the following:</p>
-
-<pre><code>failregex = ^%(__prefix_line)s(?:\s*fail2ban\.actions\s*%(__pid_re)s?:\s+)?NOTICE\s+\[(?!%(_jailname)s\])(?:.*)\]\s+Ban\s+&lt;HOST&gt;\s*$
-</code></pre>
-
-<p>Far to the right, it uses <code>HOST</code> and that only matches a single IP number. If you examine the regular expression generated and scroll over far enough to the right, you&rsquo;ll see the named groups <code>&lt;ip4&gt;</code> and <code>&lt;ip6&gt;</code>.</p>
-
-<pre><code># fail2ban-client get recidive failregex
-The following regular expression are defined:
-`- [0]: ^(?:\[\])?\s*(?:&lt;[^.]+\.[^.]+&gt;\s+)?(?:\S+\s+)?(?:kernel:\s?\[ *\d+\.\d+\]:?\s+)?(?:@vserver_\S+\s+)?(?:(?:(?:\[\d+\])?:\s+[\[\(]?(?:fail2ban(?:-server|\.actions)\s*)(?:\(\S+\))?[\]\)]?:?|[\[\(]?(?:fail2ban(?:-server|\.actions)\s*)(?:\(\S+\))?[\]\)]?:?(?:\[\d+\])?:?)\s+)?(?:\[ID \d+ \S+\]\s+)?(?:\s*fail2ban\.actions\s*(?:\[\d+\])?:\s+)?NOTICE\s+\[(?!recidive\])(?:.*)\]\s+Ban\s+(?:\[?(?:(?:::f{4,6}:)?(?P&lt;ip4&gt;(?:\d{1,3}\.){3}\d{1,3})|(?P&lt;ip6&gt;(?:[0-9a-fA-F]{1,4}::?|::){1,7}(?:[0-9a-fA-F]{1,4}|(?&lt;=:):)))\]?|(?P&lt;dns&gt;[\w\-.^_]*\w))\s*$
-</code></pre>
-
-<p>I decided to create an additional jail.</p>
-
-<p>In my own <code>/etc/fail2ban/jail.d/alex.conf</code> I added a second jail:</p>
-
-<pre><code>[butlerian-jihad]
-enabled = true
-bantime = 1h
-
-[butlerian-jihad-week]
-logpath = /var/log/fail2ban.log
-enabled = true
-findtime = 1d
-bantime = 1w
-maxretry = 5
-</code></pre>
-
-<p>The first one uses the filter <code>/etc/fail2ban/filter.d/butlerian-jihad.conf</code> which remains empty. Remember, entries are added to this jail via a cron job discussed in an <a href="2025-06-16-ban-asn">earlier post</a>.</p>
-
-<pre><code>[Definition]
-</code></pre>
-
-<p>The second one uses a new filter <code>/etc/fail2ban/filter.d/butlerian-jihad-week.conf</code> defining the date pattern and the regular expression to detect &ldquo;failures&rdquo; (i.e. a hit).</p>
-
-<pre><code>[Init]
-# 2025-06-29 01:17:08,887 fail2ban.actions [543]: NOTICE  [butlerian-jihad] Ban 1.12.0.0/14
-datepattern = ^%%Y-%%m-%%d %%H:%%M:%%S
-
-[Definition]
-failregex = NOTICE\s+\[butlerian-jihad\] Ban &lt;SUBNET&gt;
-</code></pre>
-
-<p>The important part is that this uses <code>&lt;SUBNET&gt;</code> instead of <code>&lt;HOST&gt;</code>. If you scroll over to the right, you&rsquo;ll find a new <code>&lt;cidr&gt;</code> group:</p>
-
-<pre><code># fail2ban-client get butlerian-jihad-week failregex
-The following regular expression are defined:
-`- [0]: NOTICE\s+\[butlerian-jihad\] Ban \[?(?:(?:::f{4,6}:)?(?P&lt;ip4&gt;(?:\d{1,3}\.){3}\d{1,3})|(?P&lt;ip6&gt;(?:[0-9a-fA-F]{1,4}::?|::){1,7}(?:[0-9a-fA-F]{1,4}|(?&lt;=:):)))(?:/(?P&lt;cidr&gt;\d+))?\]?
-</code></pre>
-
-<p>And it seems to be working.</p>
-
-<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-1.jpg" alt="The Munin graph shows how the butlerian-jihad-week jail immediately jumps to 3000 members" /></p>
-
-<p>I had to restart this particular jail a few times. Using <code>--unban</code> makes sense because those deserving of a new ban will be discovered immediately as the <code>findtime</code> was set to one day up above.</p>
-
-<pre><code>fail2ban-client restart --unban butlerian-jihad-week
-</code></pre>
-
-<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23fail2ban">#fail2ban</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-07-03-fail2ban-some-more>
 
 ---
 
@@ -2445,4 +2411,266 @@ Last night just before midnight, Republicans released their new version of the o
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/june-28-2025>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-28, from: Dave Winer's Scripting News)
+
+With any luck this will be the final test. Hahaha. 
+
+<br> 
+
+<http://scripting.com/2025/06/28.html#a222617>
+
+---
+
+## Fast & easy Open Social Web
+
+date: 2025-06-28, from: Dave Winer's Scripting News
+
+<p>You hear the term <a href="https://www.google.com/search?q=%22Open+Social+Web%22">Open Social Web</a> used in places where things that are social are neither open or web. They aren't that far, and here today I'm going to give you a fast and easy recipe for linking the collection of social twitter-like sites into a real honest to goodness open social web</p>
+<ol>
+<li>Add inbound RSS feeds. The social site allows a user to specify an RSS feed that represents their posts. When a new one shows up, it appears in the timelines of people who are following the user. They can add items to that feed however they like. It can come from anywhere. That's 1/2 of "open."</li>
+<li>Add outbound RSS feeds. This gives you the other half. When a new item shows up in a users feed, however it got there, it appears in their outbound feed, which can be tied into the input feed of one or more other sites. </li>
+<li>Support links in users' posts. You really can't claim to be part of the web if you don't implement this core feature of the web. </li>
+</ol>
+<p>That's all there is, except this: The feeds have to be good. Don't be cheap with the information they contain. Work with other developers to make sure all the information they need that you have is present in the outbound feeds you generate. Same with the inbound feeds, be reasonable, if you can accept certain information and match it up with your service, then you should do it. Think of the users first. </p>
+<p>You could try to use ActivityPub or AT Proto to play the role of RSS. I think you'll find that's more work, and not that many people have mastered these formats. RSS is simple and lightweight and has had 20+ years of burn in. Lots of familiarity, lots of working code. </p>
+<p>It's time to stop claiming you are the open social web when it's so easy to be the open and on the web. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/28/211301.html?title=fastEasyOpenSocialWeb>
+
+---
+
+## Upcoming Sponsorship Openings at Daring Fireball
+
+date: 2025-06-28, updated: 2025-06-28, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/feeds/sponsors/>
+
+---
+
+## Apple’s Full List of Differences between ‘Tier 1’ and ‘Tier 2’ in the EU App Store
+
+date: 2025-06-28, updated: 2025-06-29, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://developer.apple.com/help/app-store-connect/reference/store-services-tiers/>
+
+---
+
+## ★ Apple Announces Sweeping but Complicated Policy Changes for Apps in the EU, Attempting to Comply With the Latest Dictums Regarding the DMA
+
+date: 2025-06-28, updated: 2025-06-29, from: Daring Fireball
+
+It’s a natural consequence that an overly complicated law (the DMA) has resulted in an ever-more-complicated set of guidelines and policies (from Apple). It’s all downright byzantine. 
+
+<br> 
+
+<https://daringfireball.net/2025/06/apple_app_store_policy_updates_dma>
+
+---
+
+## Email to my Representative re: tabling impeachment
+
+date: 2025-06-28, from: Tracy Durnell Blog
+
+My representative, Suzan DelBene, was one of 128 Democratic Congresspeople who voted to table impeachment charges against the &#8220;President&#8221; for the unauthorized bombing of Iranian nuclear sites. Her office&#8217;s voicemail asked for email instead 😒 fine, I&#8217;ll play along, but then I want a reply! &#8230;I&#8217;ll expect that in October 🙄 I am writing to [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/06/28/email-to-my-representative-re-tabling-impeachment/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-28, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/08/01/picklesAplenty.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">We live in interesting times. Never a dull moment! <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2025/06/28.html#a162936>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-28, from: Dave Winer's Scripting News)
+
+Recipe for a fast and easy <a href="https://daytona.scripting.com/search?q=%22open%20social%20web%22">open social web</a>. A lot of interop can be attained quickly by connecting the input and output of each distinct network to other networks that don't currently interop via <a href="https://daytona.scripting.com/search?q=%22inbound%20rss%22">inbound</a> and <a href="https://daytona.scripting.com/search?q=%22outbound%20rss%22">outbound RSS</a>. ActivityPub and AT Proto are not optimal. Too complicated. RSS is simple and lightweight and has has 20+ years of burn in. Lots of familiarity, and lots of working code. And WordPress is built around it and imho that is going to matter. When people get really serious about interop, and are willing to sacrifice a little personal glory, there's a very good compromise available. 
+
+<br> 
+
+<http://scripting.com/2025/06/28.html#a160228>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-28, from: Dave Winer's Scripting News)
+
+Net-net: I would pay money to hear a podcast with Frum and Stewart interviewing each other. That would be very powerful stuff imho, and probably very funny, and respectful. 
+
+<br> 
+
+<http://scripting.com/2025/06/28.html#a155442>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-28, from: Dave Winer's Scripting News)
+
+The latest David Frum podcast is about <a href="https://www.theatlantic.com/podcasts/archive/2025/06/david-frum-show-tina-brown-iran-nuclear-program/683320/">crazy tech billionaires</a>. Once again he talks about who he's willing to listen to. He's really smart, thinks about things, and speaks brilliantly, but cultivates his ignorance and seems somewhat proud of it. In contrast, I listened to Jon Stewart's weekly podcast <a href="https://podcasts.apple.com/us/podcast/iran-beyond-the-headlines-with-maziar-bahari/id1583132133?i=1000714626073">yesterday</a> and it was as usual outstanding. Like Frum he thinks and speaks brilliantly, with the addition of being hilarious at times. In this episode he talks to an <a href="https://en.wikipedia.org/wiki/Maziar_Bahari">Iranian friend</a>, a new perspective we don't hear often, but fits in with what I had <a href="https://daytona.scripting.com/search?q=iran">understood</a> about Iran. It's a highly educated country, a good standard of living and are mired with a repressive government and no options for regime change. When you hear that talked about on other podcasts and cable news shows, remember -- it's impossible to change regimes unless the country has prepared for that. There is no regime-in-waiting in Iran, hasn't been one since the 1979 revolution. This is the next danger in the US. Will there be anything remaining of our political system? It's almost all gone now. Funny to listen to the people on TV about surviving the next 3.5 years -- what do they think will happen then? Nothing will happen, that's the most likely thing. Back to Frum, what a shame there's such a smart guy, so cloistered, and boastful about it. That's not a good way to proceed now imho. 
+
+<br> 
+
+<http://scripting.com/2025/06/28.html#a154223>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-28, from: Dave Winer's Scripting News)
+
+I'm working on the next part of linkblogging in <a href="https://wordland.social/">WordLand</a>. I want to really switch over to the new routine. There was a question of whether I wanted to push the links to the social sites, Bluesky, Mastodon, etc. I've decided I do, but for the moment only to push to Bluesky. It's the only one with a simple enough-enough API or feels worth the effort to me. I'm basically focusing my politics on Bluesky these days. Also seems there are people there who are interested in the development I do. I have far more "followers" on Twitter, but at this point I think most of them are gone. And Threads dropped off my radar a while back. I'm just not interested. For me now it's mostly Bluesky and Facebook. 
+
+<br> 
+
+<http://scripting.com/2025/06/28.html#a152653>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-28, from: Dave Winer's Scripting News)
+
+I've been looking for hard-hitting stories about yesterday's Supreme Court decision that gives Trump far more power than any American president has ever had. And unlike military power, which they are clearly not very good at using, the people running the show in the White House are very much <a href="https://static.heritage.org/project2025/2025_MandateForLeadership_FULL.pdf">prepared</a> for how they will use the new power, which appears to be unlimited. 
+
+<br> 
+
+<http://scripting.com/2025/06/28.html#a152446>
+
+---
+
+## Saturday, June 28, 2025
+
+date: 2025-06-28, from: Doc Searls (at Harvard), New Old Blog
+
+Obsession persists. I&#8217;ll never stop being a radio guy, no matter how much listening &#8220;what&#8217;s on&#8221; goes down, and radio itself becomes as anachronistic as steam engines. This is why, five years ago, I wrote on Quora how cars saved radio when TV got huge in the 1950s. And now I have just learned, from [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/06/28/saturday-june-28-2025/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-06-28, from: Dave Winer's Scripting News)
+
+Fixed the images that broke on <a href="https://morningcoffeenotes.com/">morningcoffeenotes.com</a>, a site that dates back to 2003, when it transitioned to https in 2024. 
+
+<br> 
+
+<http://scripting.com/2025/06/28.html#a130147>
+
+---
+
+## Hallucinating myths into fact
+
+date: 2025-06-28, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2023/06/10/bear.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I have a Google Alerts query for my own name, just to see if any journalism outlets mention me. When it happens, it's often to give me credit for co-creating an app called iPodder, which they say was where podcasting started. None of that is true. But that's what journalism says about me.</p>
+<p>On the other hand if you ask ChatGPT what role I played in developing podcasting it gives a more accurate answer. </p>
+<p>So tell me what the role of journalism is. Hallucinating myths into fact? That would be my estimate.</p>
+<p>Here's <a href="https://imgs.scripting.com/2025/06/28/chatgpt.png">the ChatGPT result</a>. I actually did a bit more than that, but what they say is closer to the truth and gives an idea of how things like podcasting come into existence. A lot of work and struggle against people's disbelief, and most of the time it doesn't work -- podcasting is one of the successes.</p>
+<p>BTW, the second item in ChatGPT's list is not true. Adam's <i>Daily Source Code</i> came after my own podcast <i><a href="https://morningcoffeenotes.com/">Morning Coffee Notes</a>. </i>I was urging him to do a podast but he didn't get one going until after I went first, proving the old adage "People don't listen to their friends, they listen to their competitors." So somewhere along the line it got confused and it hallucinated just like the journalists. The actual first podcast was a Grateful Dead song in 2001 which I used to test Radio UserLand which was the first software to implement podcasting. There's a documentary coming out soon and I believe they have a bit about that, so maybe that'll get on the record. </p>
+<p>If this is how history is written btw, I wouldn't trust <i>anything</i> in the history books. ;-) </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/06/28/115146.html?title=hallucinatingMythsIntoFact>
+
+---
+
+## Mamdani! | The Saturday Coffee Klatch for June 28, 2025 
+
+date: 2025-06-28, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166994432/8e99c73720fa52955680ea635ad0f858.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/166994432/8e99c73720fa52955680ea635ad0f858.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/mamdani-the-saturday-coffee-klatch>
+
+---
+
+## Weeknotes: June 21-27, 2025
+
+date: 2025-06-28, from: Tracy Durnell Blog
+
+Win of the week: husband finally got the offer letter for the new job he&#8217;s been coordinating for months!!! they wrote the job description just for him 🥰 only one more week of the current hell job 🙌 Looking forward to: chilling out and reading this weekend Stuff I did: 7.75 hours consulting &#8212; wrapping up the [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/06/27/weeknotes-june-21-27-2025/>
+
+---
+
+## June 27, 2025
+
+date: 2025-06-28, from: Heather Cox Richardson blog
+
+After the Supreme Court today decided the case of Trump v. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/june-27-2025>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-06-28, from: Miguel de Icaza Mastondon feed)
+
+<p>Those that poop on AI chatbots for websites have never had to use an american bank website.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114758970263274510>
+
+---
+
+## Getting weather data from my Acurite sensors was shockingly easy
+
+date: 2025-06-28, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Getting weather data from my Acurite sensors was shockingly easy</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>I've had a Pi and SDR earmarked for 'getting weather data from my weather station' for a long time now. I don't know why I waited so long, because it was shockingly easy.</p>
+
+<p>I have a <a href="https://amzn.to/44p0yFV">Acurite 5-in-1 weather station (with separate lightning detector)</a> mounted about 15' in the air in my back yard. It comes with a fancy little LCD display to show all the stats it transmits over the 433 MHz wireless frequency.</p>
+
+<p>But I want to ingest that data into my Home Assistant installation, so I can have better access to historical data, set up alerts (like if wind speed is above 50 mph, or there's lightnining less than 10 miles away), etc.</p>
+
+<p>I'll work on the HA integration later, likely using MQTT. But for now, just getting the data to decode on a Raspberry Pi 5 was quick:</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-06-27T20:46:38-05:00" title="Friday, June 27, 2025 - 20:46" class="datetime">June 27, 2025</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/getting-weather-data-my-acurite-sensors-was-shockingly-easy>
+
+---
+
+## Apple’s Other ‘F1 The Movie’ In-App Promotions
+
+date: 2025-06-28, updated: 2025-06-28, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/06/27/f1-the-movie-now-playing-in-theaters/>
 

@@ -1,11 +1,35 @@
 ---
 title: socal north
-updated: 2025-07-04 14:08:14
+updated: 2025-07-05 06:09:36
 ---
 
 # socal north
 
-(date: 2025-07-04 14:08:14)
+(date: 2025-07-05 06:09:36)
+
+---
+
+## Hundreds of demonstrators march in downtown LA on Independence Day
+
+date: 2025-07-04, updated: 2025-07-04, from: The LAist
+
+The “End the Occupation” march began outside City Hall as hundreds rallied against recent federal immigration enforcement sweeps. 
+
+<br> 
+
+<https://laist.com/news/politics/demonstrators-march-downtown-la-independence-day>
+
+---
+
+## Madre Fire burns over 70k acres, more 'extreme' fire weather ahead
+
+date: 2025-07-04, updated: 2025-07-04, from: The LAist
+
+The Madre Fire burning in San Luis Obispo near Highway 166 is California's largest fire this year. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/madre-fire>
 
 ---
 
@@ -326,11 +350,11 @@ The civilian oversight body for the Los Angeles Police Department approved expan
 
 ---
 
-## House Republicans pass Trump's megabill, sending the package to his desk to be signed
+## Trump on Fourth of July signs 'One Big Beautiful Bill' to implement his agenda
 
 date: 2025-07-03, updated: 2025-07-03, from: The LAist
 
-The Republican leaders overcame objections from within their own party, marking a victory in their quest to fulfill President Trump's campaign promises. 
+President Trump signed a massive tax and spending bill to implement much of his domestic agenda during a celebration for the Fourth of July. 
 
 <br> 
 
@@ -1293,4 +1317,90 @@ The wildfire near Silverwood Lake started at 3:58 p.m. on Saturday and grew to n
 <br> 
 
 <https://laist.com/news/climate-environment/san-bernardino-county-lake-fire-silverwood>
+
+---
+
+## Fiscal Responsibility Pays Off with Another On-Time and Balanced City Budget
+
+date: 2025-06-28, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin At our meeting earlier this month, your City Council adopted another on-time and balanced budget for Fiscal Year 2025-26 totaling $344.6 million. Getting to this point was a six-month process, with City staff working closely with the City Council Budget Committee to determine what items would be funded for the [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/06/28/fiscal-responsibility-pays-off-with-another-on-time-and-balanced-city-budget/">Fiscal Responsibility Pays Off with Another On-Time and Balanced City Budget</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/06/28/fiscal-responsibility-pays-off-with-another-on-time-and-balanced-city-budget/>
+
+---
+
+## Don’t panic! Research planes are flying low over LA
+
+date: 2025-06-28, updated: 2025-06-28, from: The LAist
+
+Two NASA research planes will begin flying across SoCal at lower altitudes and doing some special maneuvers in the sky to collect air samples. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/dont-panic-research-planes-are-flying-low-over-la>
+
+---
+
+## Discover the delicate nature of Northeast LA's Elephant Hill
+
+date: 2025-06-28, updated: 2025-06-28, from: The LAist
+
+A guided nature hike on Saturday seeks to connect Angelenos to these 110 acres of open space in El Sereno. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/elephant-hill-el-sereno-conservation>
+
+---
+
+## New exhibit 'Ode to Dena' explores Altadena’s deep Black artistic legacy
+
+date: 2025-06-28, updated: 2025-06-28, from: The LAist
+
+The exhibit came about because of the wildfires, but its meaning is about much more than flames. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/la-county-altadena-caam-california-african-american-museum-ode-to-dena>
+
+---
+
+## In praise of jasmine, the quintessential LA scent
+
+date: 2025-06-28, updated: 2025-06-28, from: The LAist
+
+As we say goodbye to it’s oh-so-short season, we celebrate that special time when the city becomes drenched in its perfume. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/in-praise-of-jasmine-the-quintessential-la-scent>
+
+---
+
+## 100 ‘elephants’ migrate into Beverly Hills with a message of co-existance
+
+date: 2025-06-28, updated: 2025-06-28, from: The LAist
+
+An art exhibition celebrating interspecies peace will open July 1 at Beverly Gardens Park. And if you have a lot of space and a lot of cash, you can take one home. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/100-elephants-migrate-into-beverly-hills-with-a-message-of-co-existance>
+
+---
+
+## LA man arrested on suspicion of impersonating federal immigration agent in Huntington Park
+
+date: 2025-06-28, updated: 2025-06-28, from: The LAist
+
+The arrest comes amid heightened fears over immigration enforcement sweeps by masked agents across Southern California. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/la-man-arrested-on-suspicion-of-impersonating-federal-immigration-agent-in-huntington-park>
 

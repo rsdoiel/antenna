@@ -1,11 +1,35 @@
 ---
 title: snapshots
-updated: 2025-07-04 14:08:26
+updated: 2025-07-05 06:09:47
 ---
 
 # snapshots
 
-(date: 2025-07-04 14:08:26)
+(date: 2025-07-05 06:09:47)
+
+---
+
+## Botshit Gone Wild
+
+date: 2025-07-04, from: Gary Marcus blog
+
+The downsides of generative AI are growing like wildfire 
+
+<br> 
+
+<https://garymarcus.substack.com/p/botshit-gone-wild>
+
+---
+
+## July 4th Weekend Sale
+
+date: 2025-07-04, from: Computer ads from the Past
+
+Hurry in to save 40%! 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/july-4th-weekend-sale>
 
 ---
 
@@ -262,6 +286,18 @@ In May of 2024 I was added to the core development team and in March of 2025 I l
 <br> 
 
 <https://reactos.org/blogs/cbialorucki-tests/>
+
+---
+
+## AI Safety in the Presence of Multiple ASI Systems
+
+date: 2025-07-04, from: Pointers gone wild blog
+
+ 
+
+<br> 
+
+<https://pointersgonewild.com/2025-07-04-ai-safety-in-the-presence-of-multiple-asi-systems/>
 
 ---
 
@@ -2033,4 +2069,149 @@ Murkowski votes to advance GOP megabill after early misgivings over Medicaid, SN
 <br> 
 
 <https://thehill.com/homenews/senate/5375462-murkowski-votes-to-advance-gop-megabill-after-early-misgivings-over-medicaid-snap-cuts/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-28, from: Dave Winer's linkblog)
+
+Substack Did Not See That Coming. 
+
+<br> 
+
+<https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/>
+
+---
+
+## Generative AI’s crippling and widespread failure to induce robust models of the world
+
+date: 2025-06-28, from: Gary Marcus blog
+
+LLM failures to reason, as documented in Apple&#8217;s Illusion of Thinking paper, are really only part of a much deeper problem 
+
+<br> 
+
+<https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-28, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lsowlstkhc24>
+
+---
+
+## iPadOS Windows
+
+date: 2025-06-28, from: furbo.org
+
+The first thing I installed after the WWDC25 Keynote was the beta for iPadOS. There was only one reason: it had the windows we have all wanted for so long. And generally, windows on iPad work exactly how we want them to. But there&#8217;s a problem, and I suspect that the root cause is that [&#8230;] 
+
+<br> 
+
+<https://furbo.org/2025/06/28/ipados-windows/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-06-28, from: Robert's feed at BlueSky)
+
+There are times in life when it's necessary to write the book you want to read. 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lsovryixek24>
+
+---
+
+## Maxell MXCP-P100 is a portable cassette player with modern features like Bluetooth and USB-C
+
+date: 2025-06-28, from: Liliputing
+
+<p>The Maxell MXCP-P100 is a portable music player that mixes old-school and modern features. Like any good modern device, it has a built-in rechargeable battery and a USB Type-C port for charging. And it has both a headphone jack and support for Bluetooth 5.4, allowing you to use wired or wireless headphones or speakers. But this [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/maxell-mxcp-p100-is-a-portable-cassette-player-with-modern-features-like-bluetooth-and-usb-c/">Maxell MXCP-P100 is a portable cassette player with modern features like Bluetooth and USB-C</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/maxell-mxcp-p100-is-a-portable-cassette-player-with-modern-features-like-bluetooth-and-usb-c/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-06-28, from: Dave Winer's linkblog)
+
+We Know Exactly Where the Supreme Court’s Change of Heart Has Come From. 
+
+<br> 
+
+<https://www.nytimes.com/2025/06/28/opinion/supreme-court-ketanji-jackson.html?unlocked_article_code=1.SU8.GXm8.lr97aZUqiDAQ&smid=url-share>
+
+---
+
+## USPS! It’s not possible for me to use your Change of Address tool
+
+date: 2025-06-28, from: Chris Coyier blog
+
+I&#8217;ve tried over the course of a couple of weeks. I&#8217;ve tried in Firefox, Safari, and Chrome. I&#8217;ve ensured there are no browser extensions at all running. I&#8217;ve tried changing little details on the forms in case one of them was tripping it up. I&#8217;ve tried on two different networks, neither of which has anything [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/06/28/usps-its-not-possible-for-me-to-use-your-change-of-address-tool/>
+
+---
+
+## One Fix for DNS Setting Itself On Restart to 127.0.0.1
+
+date: 2025-06-28, from: Chris Coyier blog
+
+For over a year every time I restarted my computer, the internet didn&#8217;t work. The trouble was, and I forgot how I even figured it out at first, was that the DNS Server was set 127.0.0.1 on my WiFi settings (regardless of what network). I&#8217;d come in here, delete it, and they would default back [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/06/28/one-fix-for-dns-setting-itself-on-restart-to-127-0-0-1/>
+
+---
+
+## Killer Whales Make Their Own Tools, Scientists Discover
+
+date: 2025-06-28, from: 404 Media Group
+
+It’s the first observed instance of a marine mammal manufacturing tools. 
+
+<br> 
+
+<https://www.404media.co/killer-whales-make-their-own-tools-scientists-discover/>
+
+---
+
+## Talking With Martin Wolf
+
+date: 2025-06-28, from: Paul Krugman
+
+A podcast series 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/talking-with-martin-wolf>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-06-28, from: Feed for Alt USDS)
+
+Meta, OpenAI, Palantir execs just became Army Reserve officers to advise on AI strategy.
+
+Defense budgets are up. Civic tech is down. The line between consumer tools and weapons? Almost gone.
+
+We have questions.
+
+https://open.substack.com/pub/altusds/p/when-tech-goes-to-war
+https://open.substack.com/pub/altusds/p/when-tech-goes-to-war?r=5fies6&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lsncgag73k2q>
 

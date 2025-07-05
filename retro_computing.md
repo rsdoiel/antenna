@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-07-04 14:08:22
+updated: 2025-07-05 06:09:43
 ---
 
 # retro computing
 
-(date: 2025-07-04 14:08:22)
+(date: 2025-07-05 06:09:43)
+
+---
+
+## July 4th Weekend Sale
+
+date: 2025-07-04, from: Computer ads from the Past
+
+Hurry in to save 40%! 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/july-4th-weekend-sale>
 
 ---
 

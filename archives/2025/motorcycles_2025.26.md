@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2025-07-04 14:08:22
+updated: 2025-07-05 06:09:43
 ---
 
 # motorcycles
 
-(date: 2025-07-04 14:08:22)
+(date: 2025-07-05 06:09:43)
 
 ---
 
@@ -337,4 +337,16 @@ A snapped seat post is one of the dumbest ways to crash.
 <br> 
 
 <https://www.rideapart.com/news/764036/specialized-recall-electric-cargo-bikes-seatpost-failure/>
+
+---
+
+## Thieves Tried, Failed to Steal Itchy Boots' Bike in Wales
+
+date: 2025-06-28, from: Ride Apart, Electric Motorcycle News
+
+A well-hidden Airtag is apparently a bike's best friend. 
+
+<br> 
+
+<https://www.rideapart.com/news/764009/itchy-boots-motorcycle-stolen-wales/>
 

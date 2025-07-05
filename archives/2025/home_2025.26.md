@@ -1,11 +1,23 @@
 ---
 title: home
-updated: 2025-07-04 14:08:21
+updated: 2025-07-05 06:09:42
 ---
 
 # home
 
-(date: 2025-07-04 14:08:21)
+(date: 2025-07-05 06:09:42)
+
+---
+
+## From No-Cook Dinner Ideas to Summer Fruit Desserts, Here’s What to Cook in July
+
+date: 2025-07-04, from: Sunset Magazine - Living in the West
+
+From grilling recipes to no-cook meals to summer fruit desserts, we're sharing our favorite summer dishes to cook in July. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/recipes-to-cook-july-2025>
 
 ---
 
@@ -1394,4 +1406,47 @@ date: 2025-06-29, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/20-yellow-birds-in-georgia-with-pictures-and-identification/>
+
+---
+
+## How to Grow and Care for Italian Jasmine
+
+date: 2025-06-28, from: The Gardener's Path
+
+<p>Italian jasmine is an easy-care plant with long, arching branches that burst with bright yellow flowers from late spring through fall. It tolerates drought, heat, and a range of soil conditions, and can be trained as a shrub or vine to suit your space. Learn how to grow and care for Italian jasmine in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-italian-jasmine/">How to Grow and Care for Italian Jasmine</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-italian-jasmine/>
+
+---
+
+## 25 Most Dangerous Animals in Florida (With Pictures)
+
+date: 2025-06-28, from: Yard Life blog
+
+<p>Florida is home to a diverse range of wildlife, including some of the most dangerous animals in the United States. ... </p>
+<p class="read-more-container"><a title="25 Most Dangerous Animals in Florida (With Pictures)" class="read-more button" href="https://ownyardlife.com/25-most-dangerous-animals-in-florida-with-pictures/#more-31353" aria-label="Read more about 25 Most Dangerous Animals in Florida (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/25-most-dangerous-animals-in-florida-with-pictures/">25 Most Dangerous Animals in Florida (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/25-most-dangerous-animals-in-florida-with-pictures/>
+
+---
+
+## Girdling Lamb avocado trees to get fruit every year
+
+date: 2025-06-28, from: Greg Alder's blog, Yard Post
+
+<p>While I like many things about the Lamb variety of avocado (one of which is how late the fruit can hang on the tree), one of its weaknesses is that it tends to make a lot of avocados one year but little the next. Alternate bearing, this is called. So a handful of years ago, [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/girdling-lamb-avocado-trees-to-get-fruit-every-year/">Girdling Lamb avocado trees to get fruit every year</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/girdling-lamb-avocado-trees-to-get-fruit-every-year/>
 

@@ -1,11 +1,11 @@
 ---
 title: science and technology
-updated: 2025-07-04 14:08:16
+updated: 2025-07-05 06:09:38
 ---
 
 # science and technology
 
-(date: 2025-07-04 14:08:16)
+(date: 2025-07-05 06:09:38)
 
 ---
 
@@ -1686,4 +1686,28 @@ date: 2025-06-29, updated: 2025-06-29, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/06/29/ai_agents_fail_a_lot/>
+
+---
+
+## Ex-NATO hacker: 'In the cyber world, there's no such thing as a ceasefire'
+
+date: 2025-06-28, updated: 2025-06-28, from: The Register (UK I.T. News)
+
+<h4>Watch out for supply chain hacks especially</h4> <p><strong>interview</strong>  The ceasefire between Iran and Israel may prevent the two countries from firing missiles at each other, but it won&#39;t carry any weight in cyberspace, according to former NATO hacker Candan Bolukbas.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/28/exnato_hacker_ceasefire_iran/>
+
+---
+
+## How to get free software from yesteryear's IT crowd – trick code into thinking it's running on a rival PC
+
+date: 2025-06-28, updated: 2025-06-29, from: The Register (UK I.T. News)
+
+<h4>&#39;This is not a copyright message&#39;</h4> <p>Before plug and play was blowing up Windows 98 on a Comdex stage, Windows 95 engineers were grappling with the technology – and on one fateful day they found some unusual text in the BIOS of several PCs that they had to work around.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/06/28/hacks_to_get_free_software/>
 

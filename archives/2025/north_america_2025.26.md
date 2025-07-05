@@ -1,11 +1,11 @@
 ---
 title: north america
-updated: 2025-07-04 14:08:13
+updated: 2025-07-05 06:09:35
 ---
 
 # north america
 
-(date: 2025-07-04 14:08:13)
+(date: 2025-07-05 06:09:35)
 
 ---
 
@@ -682,4 +682,28 @@ date: 2025-06-29, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-schools-out-zohrans-in/>
+
+---
+
+## Contrarians to SCOTUS: we got your class action right here
+
+date: 2025-06-28, from: The Contrarian
+
+Publisher's Roundup 24 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarians-to-scotus-we-got-your>
+
+---
+
+##  YOU LOVE TO SEE IT: Psychedelic Southern Comfort 
+
+date: 2025-06-28, from: The Lever News
+
+ Republicans stumble in their war on the poor, a big state opens its mind, citizens take on dark money, and a prescription emerges for pharma profiteering.  
+
+<br> 
+
+<https://www.levernews.com/psychedelic-southern-comfort/>
 

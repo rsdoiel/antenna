@@ -1,11 +1,11 @@
 ---
 title: journalism
-updated: 2025-07-04 14:08:19
+updated: 2025-07-05 06:09:41
 ---
 
 # journalism
 
-(date: 2025-07-04 14:08:19)
+(date: 2025-07-05 06:09:41)
 
 ---
 
@@ -308,4 +308,30 @@ Carolina Buhler, a rising fourth-year earth and environmental science student, a
 <br> 
 
 <https://dailybruin.com/2025/06/30/ucla-student-carolina-buhler-to-compete-in-2026-california-gubernatorial-primary/>
+
+---
+
+## Coauthors Rob and Bob shed light on movie magic, creative leadership in new book
+
+date: 2025-06-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+Rob Carpenter pulls back the Ozian curtain on one of the most enigmatic leadership roles in Hollywood &#8211; the producer.
+This April, UCLA Communication Professor Carpenter published his sixth book, &#8220;The Creative Leader: What Every Leader Should Know About The Art and Science of Creative Intelligence,&#8221; a nonfiction guide to the practical application of creativity as a learnable skill essential to exceptional leadership. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/28/coauthors-rob-and-bob-shed-light-on-movie-magic-creative-leadership-in-new-book/>
+
+---
+
+## UCLA climatologist Marilyn Raphael elected to National Academy of Sciences
+
+date: 2025-06-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+A UCLA professor of geography was elected to the National Academy of Sciences in April.
+Marilyn Raphael is a leading scientist in Antarctic climate and ocean atmospheric interactions around Antarctica, said Laura Landrum, a project scientist at the National Center for Atmospheric Research. 
+
+<br> 
+
+<https://dailybruin.com/2025/06/27/ucla-climatologist-marilyn-raphael-elected-to-national-academy-of-sciences/>
 
