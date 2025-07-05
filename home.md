@@ -1,11 +1,11 @@
 ---
 title: home
-updated: 2025-07-05 06:09:42
+updated: 2025-07-05 14:08:45
 ---
 
 # home
 
-(date: 2025-07-05 06:09:42)
+(date: 2025-07-05 14:08:45)
 
 ---
 
@@ -98,18 +98,6 @@ American kids are biking less, urban parks are shown to cool cities, San Francis
 <br> 
 
 <https://www.dwell.com/article/colorado-federal-land-grab-kids-are-biking-less-mauricio-umansky-national-association-of-realtors-a1bfe932>
-
----
-
-## Santa Cruz Is a Central Coast Gem. Here’s What to Do on a Weekend Visit.
-
-date: 2025-07-04, from: Sunset Magazine - Living in the West
-
-Santa Cruz is relaxed, crunchy, coastal gem of a town. A local shares her go-to spots to visit on your next getaway. 
-
-<br> 
-
-<https://www.sunset.com/travel/insider-guides/santa-cruz-things-to-do>
 
 ---
 

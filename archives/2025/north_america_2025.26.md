@@ -1,11 +1,11 @@
 ---
 title: north america
-updated: 2025-07-05 06:09:35
+updated: 2025-07-05 14:08:39
 ---
 
 # north america
 
-(date: 2025-07-05 06:09:35)
+(date: 2025-07-05 14:08:39)
 
 ---
 
@@ -511,7 +511,7 @@ A recording from Let's Do Lunch LIVE 06/24
 
 ---
 
-##  Why Is Trump Rushing To Pass The Tax Cut Bill? 
+##  Why Did Trump Rush To Pass The Tax Cut Bill? 
 
 date: 2025-07-01, from: The Lever News
 

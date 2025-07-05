@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2025-07-05 06:09:37
+updated: 2025-07-05 14:08:41
 ---
 
 # pacific
 
-(date: 2025-07-05 06:09:37)
+(date: 2025-07-05 14:08:41)
 
 ---
 
@@ -66,6 +66,18 @@ The former All Blacks Sevens rep has achieved what his dad did 30-odd years ago.
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/566023/salesi-rayasi-debuts-for-fiji-at-fullback-against-the-wallabies>
+
+---
+
+## Outdoor Power Equipment  Helps Weather A Storm or Power Outage
+
+date: 2025-07-04, updated: 2025-07-04, from: Marianas Variety
+
+(NAPSI)—Storms are growing more powerful and frequent, so having the right outdoor power equipment on hand can help you weather it better, says the Outdoor Power Equipment Institute (OPEI). Home and business owners should think ahead before foul weather or a power outage occurs. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/green_living/outdoor-power-equipment-helps-weather-a-storm-or-power-outage/article_20dbacd7-1a5e-58ec-a4e0-f9be76e91443.html>
 
 ---
 
@@ -609,6 +621,18 @@ The post <a href="https://www.hawaii.edu/news/2025/07/03/uh-olelo-alum-lilo-and-
 <br> 
 
 <https://www.hawaii.edu/news/2025/07/03/uh-olelo-alum-lilo-and-stitch/>
+
+---
+
+## Republicans muscle Trump's sweeping tax-cut and spending bill through Congress
+
+date: 2025-07-04, updated: 2025-07-04, from: Marianas Variety
+
+WASHINGTON (Reuters) — President Donald Trump 's tax-cut legislation cleared its final hurdle in the U.S. Congress on Thursday, as the Republican-controlled House of Representatives narrowly approved a massive package that would fund his domestic agenda and push millions of Americans off health insurance 
+
+<br> 
+
+<https://www.mvariety.com/news/national/republicans-muscle-trumps-sweeping-tax-cut-and-spending-bill-through-congress/article_ea880cdf-d57e-405b-8e08-94196e657d13.html>
 
 ---
 

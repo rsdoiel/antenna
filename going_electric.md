@@ -1,11 +1,11 @@
 ---
 title: going electric
-updated: 2025-07-05 06:09:44
+updated: 2025-07-05 14:08:47
 ---
 
 # going electric
 
-(date: 2025-07-05 06:09:44)
+(date: 2025-07-05 14:08:47)
 
 ---
 
@@ -18,6 +18,10 @@ date: 2025-07-04, from: Electrek Feed
 
 
 <p><strong><em>Today’s episode is brought to you by Bosch Mobility Aftermarket—A global leader and trusted provider of automotive aftermarket parts. To celebrate Amazon Prime Day July 8th through 11th, Bosch Mobility is offering exclusive savings on must-have auto parts and tools. <a href="https://bit.ly/3TI50e9" target="_blank" rel="noreferrer noopener">Learn more here.</a></em></strong></p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Electrek_392.mp3"></audio></figure>
 
 
 
@@ -130,6 +134,10 @@ date: 2025-07-04, from: Electrek Feed
 
 
 <p><em>Today’s episode is sponsored by CYCROWN, an e-Bike company born from a passion for cycling. Its lineup now includes the new CYCROWN Dremax – a high-performance urban commuter e-bike <a href="https://bit.ly/4lsZmIE" target="_blank" rel="noreferrer noopener">now on sale in the US and Canada</a>. Use Electrek50 to save $50 off your new eBike when you order.</em></p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Wheele_93.mp3"></audio></figure>
 
 
 

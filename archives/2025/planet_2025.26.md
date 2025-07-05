@@ -1,19 +1,19 @@
 ---
 title: planet
-updated: 2025-07-05 06:09:34
+updated: 2025-07-05 14:08:37
 ---
 
 # planet
 
-(date: 2025-07-05 06:09:34)
+(date: 2025-07-05 14:08:37)
 
 ---
 
-## Texas flash flood death toll rises to 24, over 20 missing
+## Texas flood death toll rises to 32, including 14 children
 
 date: 2025-07-04, from: RTÉ News
 
-At least 24 people have died following flash floods in Texas, with rescuers searching for a number of girls missing from a riverside summer camp, officials have said. 
+Some 32 people, including 14 children have been confirmed dead after flash floods in central Texas, authorities have said, as rescuers continued a frantic search for survivors including dozens still missing from a girls' summer camp. 
 
 <br> 
 
@@ -102,6 +102,18 @@ The largest GAA competition in Britain is under way this weekend, with a record 
 <br> 
 
 <https://www.rte.ie/news/2025/0704/1521920-gaa-britain-competition/>
+
+---
+
+## Hamas says it's given 'positive' response to U.S. ceasefire proposal, but more talks needed
+
+date: 2025-07-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7577816.1751661550!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-israel-palestinians.jpg' alt='Smoke rises from Israeli bombardment of the Gaza Strip.' width='620' height='349' title='Smoke rises from Israeli bombardment of the Gaza Strip, seen from southern Israel on July 3, 2025.'/><p>Hamas says it has given a “positive” response to the latest proposal for a ceasefire in Gaza but said further talks were needed on implementation.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/hamas-israel-ceasefire-deal-positive-1.7577804?cmp=rss>
 
 ---
 
@@ -2438,7 +2450,7 @@ The UN’s top human rights official on Wednesday expressed grave alarm that six
 
 date: 2025-07-02, from: United Nations, Top Stories
 
-More than 1.3 million people have been displaced in Haiti as surging gang violence, lawlessness, and impunity expose the population – especially women and girls – to heightened risks of exploitation and sexual violence.&nbsp; 
+More than 1.3 million people have been displaced in Haiti as surging gang violence, lawlessness, and impunity expose the population – especially women and girls – to heightened risks of exploitation and sexual violence. 
 
 <br> 
 
