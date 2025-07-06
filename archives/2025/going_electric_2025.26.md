@@ -1,11 +1,83 @@
 ---
 title: going electric
-updated: 2025-07-05 14:08:47
+updated: 2025-07-06 06:07:25
 ---
 
 # going electric
 
-(date: 2025-07-05 14:08:47)
+(date: 2025-07-06 06:07:25)
+
+---
+
+## EVs Will Decimate Big Oil. Even Without U.S. Tax Credits.
+
+date: 2025-07-06, from: Inside EVs News
+
+Electric vehicles are already displacing millions of barrels of oil per day globally. Oil demand is expected to fall spectacularly over the next decade. 
+
+<br> 
+
+<https://insideevs.com/news/764730/evs-displace-millions-of-barrels-of-oil/>
+
+---
+
+## BMW ups the ante with the fastest, most powerful electric maxi-scooter
+
+date: 2025-07-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/cmw-ce-04-2025-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>BMW Motorrad’s futuristic electric scooter just got its first real refresh since <a href="https://electrek.co/2021/11/09/bmw-begins-full-production-of-its-75-mph-ce-04-futuristic-electric-motorbike/">beginning production in 2021</a>. The BMW CE 04, already one of the most capable and stylish electric maxi-scooters on the market, now gets a set of upgraded trim options, new aesthetic touches, and a more robust list of features that aim to make this urban commuter even more appealing to riders looking for serious electric performance on two wheels.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bmw,electric-motorcycle,electric-scooter" data-layer-viewtype="unknown" data-post-id="423495" href="https://electrek.co/2025/07/05/bmw-ups-the-ante-with-the-fastest-most-powerful-electric-maxi-scooter/#more-423495" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/05/bmw-ups-the-ante-with-the-fastest-most-powerful-electric-maxi-scooter/>
+
+---
+
+## This Early Hyundai Ioniq 9 Charge Test Looks Really Good
+
+date: 2025-07-05, from: Inside EVs News
+
+Hyundai's three-row absolutely blitzes through a 10-80% charge test. 
+
+<br> 
+
+<https://insideevs.com/news/764727/hyundai-ioniq-9-charge-test/>
+
+---
+
+## BYD Just Sold Its Millionth Seagull
+
+date: 2025-07-05, from: Inside EVs News
+
+Whether you call it the Dolphin Mini, Dolphin Surf or Seagull, BYD has moved more than a million of them.  
+
+<br> 
+
+<https://insideevs.com/news/764711/byd-seagull-one-million-sales/>
+
+---
+
+## I found this cheap Chinese e-cargo trike that hauls more than your car!
+
+date: 2025-07-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/handlebarista-alibaba.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>If you’ve ever wondered what happens when you combine a fruit cart, a cargo bike, and a Piaggio Ape all in one vehicle, now you’ve got your answer. I submit, for your approval, this week’s feature for the <a href="http://electrek.co/guides/alibaba">Awesomely Weird Alibaba Electric Vehicle of the Week</a> column – and it’s a beautiful doozie. </p>
+
+
+
+<p>Feast your eyes on this salad slinging, coleslaw cruising, tuber taxiing produce chariot!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="alibaba" data-layer-viewtype="unknown" data-post-id="423480" href="https://electrek.co/2025/07/05/i-found-this-cheap-chinese-e-cargo-trike-that-hauls-more-than-your-car/#more-423480" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/05/i-found-this-cheap-chinese-e-cargo-trike-that-hauls-more-than-your-car/>
 
 ---
 
@@ -1466,90 +1538,4 @@ date: 2025-06-29, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/06/29/dahon-unveils-bold-new-electric-and-folding-bike-lineup-for-2025/>
-
----
-
-## Republicans are now trying to kill $7,500 EV tax credit 3 months early
-
-date: 2025-06-28, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/gas-vs-electric.png?w=1600" /></div><p>Republicans in the Senate have now updated Trump’s tax and budget bill to kill the $7,500 tax credit for electric vehicles by the end of September.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="electric-car" data-layer-viewtype="unknown" data-post-id="422702" href="https://electrek.co/2025/06/28/republicans-are-trying-kill-7500-ev-tax-credit-3-months-early/#more-422702" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/06/28/republicans-are-trying-kill-7500-ev-tax-credit-3-months-early/>
-
----
-
-## Off‑Grid Farming: Maximizing Crop Health with NDVI imagery
-
-date: 2025-06-28, from: Off the Grid World
-
-<p>Off-grid farming is changing the way we grow food—putting sustainability, self-reliance, and environmental care front and center. Rather than relying on traditional power grids or water supplies, these farms turn &#8230;</p>
-<p>The post <a href="https://offgridworld.com/off%e2%80%91grid-farming-maximizing-crop-health-with-ndvi-imagery/">Off‑Grid Farming: Maximizing Crop Health with NDVI imagery</a> appeared first on <a href="https://offgridworld.com">Off Grid World</a>.</p>
- 
-
-<br> 
-
-<https://offgridworld.com/off%e2%80%91grid-farming-maximizing-crop-health-with-ndvi-imagery/>
-
----
-
-## A Tesla Model Y Drove Itself 15 Miles To A New Owner's Home—And We Have Questions
-
-date: 2025-06-28, from: Inside EVs News
-
-Tesla calls it the world's first autonomous delivery of a car, from the Giga Texas factory to a new owner's home in South Austin. 
-
-<br> 
-
-<https://insideevs.com/news/764156/tesla-model-y-driverless-delivery-austin/>
-
----
-
-## You Can Put The New Tesla Model Y Suspension On The Old One
-
-date: 2025-06-28, from: Inside EVs News
-
-For around $800, you can address one of the original Model Y's biggest problems. 
-
-<br> 
-
-<https://insideevs.com/news/764141/model-y-juniper-suspension-old-model-y/>
-
----
-
-## Wasn’t Tesla supposed to start making a more affordable model 2 days from now?
-
-date: 2025-06-28, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-prices-2025-lineup_3c8af3.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>For the better part of a year, Tesla has been promising “more affordable models” to replace the cancelled “Model 2.” The new models were supposed to go into production in the next 2 days, but it sure feels like that might not happen, because nobody’s heard anything at all about them.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-2" data-layer-viewtype="unknown" data-post-id="422420" href="https://electrek.co/2025/06/28/wasnt-tesla-supposed-to-start-making-a-more-affordable-model-2-days-from-now/#more-422420" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/06/28/wasnt-tesla-supposed-to-start-making-a-more-affordable-model-2-days-from-now/>
-
----
-
-## Newly unveiled electric bike motor is ‘world’s lightest, most efficient’
-
-date: 2025-06-28, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/td-motor-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>TQ, the German force behind some of the lightest and quietest e-bike motors on the market, just took a leap forward – <em>again</em>. Barely weeks after debuting the lightweight HPR60 e-bike drive system, the company has introduced the HPR40, now claiming the title of the lightest and most efficient mid-drive motor in the world.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="422687" href="https://electrek.co/2025/06/28/newly-unveiled-electric-bike-motor-is-worlds-lightest-most-efficient/#more-422687" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/06/28/newly-unveiled-electric-bike-motor-is-worlds-lightest-most-efficient/>
 

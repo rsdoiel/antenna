@@ -1,11 +1,282 @@
 ---
 title: columns
-updated: 2025-07-05 14:08:43
+updated: 2025-07-06 06:07:19
 ---
 
 # columns
 
-(date: 2025-07-05 14:08:43)
+(date: 2025-07-06 06:07:19)
+
+---
+
+## 2025-07-03 fail2ban some more
+
+date: 2025-07-06, from: Alex Schroeder's Blog
+
+<h1 id="2025-07-03-fail2ban-some-more">2025-07-03 fail2ban some more</h1>
+
+<p>This is a continuation of <a href="2025-06-16-ban-asn">2025-06-16 Ban autonomous systems</a>.</p>
+
+<p>I kept wondering why the &ldquo;recidive&rdquo; jail never found any repeated offenders from the &ldquo;butlerian-jihad&rdquo; jail. I think I know why, now. The &ldquo;recidive&rdquo; jail uses the following:</p>
+
+<pre><code>failregex = ^%(__prefix_line)s(?:\s*fail2ban\.actions\s*%(__pid_re)s?:\s+)?NOTICE\s+\[(?!%(_jailname)s\])(?:.*)\]\s+Ban\s+&lt;HOST&gt;\s*$
+</code></pre>
+
+<p>Far to the right, it uses <code>HOST</code> and that only matches a single IP number. If you examine the regular expression generated and scroll over far enough to the right, you&rsquo;ll see the named groups <code>&lt;ip4&gt;</code> and <code>&lt;ip6&gt;</code>.</p>
+
+<pre><code># fail2ban-client get recidive failregex
+The following regular expression are defined:
+`- [0]: ^(?:\[\])?\s*(?:&lt;[^.]+\.[^.]+&gt;\s+)?(?:\S+\s+)?(?:kernel:\s?\[ *\d+\.\d+\]:?\s+)?(?:@vserver_\S+\s+)?(?:(?:(?:\[\d+\])?:\s+[\[\(]?(?:fail2ban(?:-server|\.actions)\s*)(?:\(\S+\))?[\]\)]?:?|[\[\(]?(?:fail2ban(?:-server|\.actions)\s*)(?:\(\S+\))?[\]\)]?:?(?:\[\d+\])?:?)\s+)?(?:\[ID \d+ \S+\]\s+)?(?:\s*fail2ban\.actions\s*(?:\[\d+\])?:\s+)?NOTICE\s+\[(?!recidive\])(?:.*)\]\s+Ban\s+(?:\[?(?:(?:::f{4,6}:)?(?P&lt;ip4&gt;(?:\d{1,3}\.){3}\d{1,3})|(?P&lt;ip6&gt;(?:[0-9a-fA-F]{1,4}::?|::){1,7}(?:[0-9a-fA-F]{1,4}|(?&lt;=:):)))\]?|(?P&lt;dns&gt;[\w\-.^_]*\w))\s*$
+</code></pre>
+
+<p>I decided to create an additional jail.</p>
+
+<p>In my own <code>/etc/fail2ban/jail.d/alex.conf</code> I added a second jail:</p>
+
+<pre><code>[butlerian-jihad]
+enabled = true
+bantime = 1h
+
+[butlerian-jihad-week]
+logpath = /var/log/fail2ban.log
+enabled = true
+findtime = 1d
+bantime = 1w
+maxretry = 5
+</code></pre>
+
+<p>The first one uses the filter <code>/etc/fail2ban/filter.d/butlerian-jihad.conf</code> which remains empty. Remember, entries are added to this jail via a cron job discussed in an <a href="2025-06-16-ban-asn">earlier post</a>.</p>
+
+<pre><code>[Definition]
+</code></pre>
+
+<p>The second one uses a new filter <code>/etc/fail2ban/filter.d/butlerian-jihad-week.conf</code> defining the date pattern and the regular expression to detect &ldquo;failures&rdquo; (i.e. a hit).</p>
+
+<pre><code>[Init]
+# 2025-06-29 01:17:08,887 fail2ban.actions [543]: NOTICE  [butlerian-jihad] Ban 1.12.0.0/14
+datepattern = ^%%Y-%%m-%%d %%H:%%M:%%S
+
+[Definition]
+failregex = NOTICE\s+\[butlerian-jihad\] Ban &lt;SUBNET&gt;
+</code></pre>
+
+<p>The important part is that this uses <code>&lt;SUBNET&gt;</code> instead of <code>&lt;HOST&gt;</code>. If you scroll over to the right, you&rsquo;ll find a new <code>&lt;cidr&gt;</code> group:</p>
+
+<pre><code># fail2ban-client get butlerian-jihad-week failregex
+The following regular expression are defined:
+`- [0]: NOTICE\s+\[butlerian-jihad\] Ban \[?(?:(?:::f{4,6}:)?(?P&lt;ip4&gt;(?:\d{1,3}\.){3}\d{1,3})|(?P&lt;ip6&gt;(?:[0-9a-fA-F]{1,4}::?|::){1,7}(?:[0-9a-fA-F]{1,4}|(?&lt;=:):)))(?:/(?P&lt;cidr&gt;\d+))?\]?
+</code></pre>
+
+<p>And it seems to be working.</p>
+
+<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-1.jpg" alt="The Munin graph shows how the butlerian-jihad-week jail immediately jumps to 3000 members" /></p>
+
+<p>I had to restart this particular jail a few times. Using <code>--unban</code> makes sense because those deserving of a new ban will be discovered immediately as the <code>findtime</code> was set to one day up above.</p>
+
+<pre><code>fail2ban-client restart --unban butlerian-jihad-week
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23fail2ban">#fail2ban</a></p>
+
+<p><strong>2025-07-05</strong>. Two days later.</p>
+
+<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-2.jpg" alt="" /></p>
+
+<p><strong>2025-07-06</strong>. Hm. I made a change to Emacs Wiki search, hoping to get rid of the DuckDuckGo dependency:</p>
+
+<ul>
+<li>I made the page title match much more prominent</li>
+<li>I switched the search from GET to POST</li>
+<li>I count the search via GET as a bot (since it&rsquo;s no longer doable via the user interface)</li>
+<li>I reinstated the old full-text search (essentially a grep within Perl)</li>
+</ul>
+
+<p>I was hoping that it would have very little effect.
+At about the same time, however, load started creeping up.
+The question is whether this is caused by so many search requests or not.
+There aren&rsquo;t many search requests in the logs, and the process monitors don&rsquo;t show unusually activity for the Emacs Wiki processes. Therefore, I think the answer is that the problem lies elsewhere.
+But where?</p>
+
+<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-3.jpg" alt="Somewhere around the 3rd of July load minimum seems to raise up from 0.5 to 1.0" /></p>
+
+<p>This virtual server has two cores so load should remain below 2.0, ideally.</p>
+
+<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-4.jpg" alt="Somewhere around the 3rd of July the number of hosts banned for a week goes up from 2000 to more than 7000" /></p>
+
+<p>Is it the processing of all the bans? I don&rsquo;t think so, since the firewall had many thousands of banned networks before.</p>
+
+<p>Is it the extra cron jobs monitoring the logs? I don&rsquo;t think so because there&rsquo;s no 15min or 20min periodicity to see.</p>
+
+<p>And note how load does come back down to 0.5 for a very short moment around midnight from the 4th to the 5th and in the early morning hours of the 6th.</p>
+
+<p>How strange.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-07-03-fail2ban-some-more>
+
+---
+
+## ‘Mockingbird’
+
+date: 2025-07-06, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/mockingbird>
+
+---
+
+## Sunday thought: A national reckoning
+
+date: 2025-07-06, from: Robert Reich's blog
+
+As we slide further into a dysfunctional police state 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-thought-a-national-reckoning>
+
+---
+
+## July 5, 2025 
+
+date: 2025-07-06, from: Heather Cox Richardson blog
+
+Yesterday afternoon, President Donald J. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-5-2025>
+
+---
+
+## Saturday, 5 July 2025
+
+date: 2025-07-05, from: Doc Searls (at Harvard), New Old Blog
+
+Examples abound. I like Nicolas Gruen&#39;s conversation with a silicon friend. A pull quote, and part of Nicolas&#39; argument (as reflected by silicon): &#34;institutions blend power and purpose.&#34; Think of how new power today is trashing old purposes. As if a panel full of unwanted designs in PowerPoint wasn&#39;t annoying enough. Ted Gioia shares my [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/05/saturday-5-july-2025/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-05, from: Dave Winer's Scripting News)
+
+<a href="https://github.com/scripting/tinyFeedReader">tinyFeedReader</a> is a hit. But the docs aren't clear enough. It has no user interface, it's a package you can include in a Node app that calls back to you when a new item comes in from one of the feeds you've told it to watch. It's a totally teeny little framework for a feed reader, you get all the standard stuff tucked away out of site, you write the functionality you want to implement. It would be a good thing to turn over to your AI programming partner. It's for people who want to add a feed reader to something else. 
+
+<br> 
+
+<http://scripting.com/2025/07/05.html#a214224>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-05, from: Dave Winer's Scripting News)
+
+An improvement in WordLand on <a href="https://github.com/scripting/wpIdentity/blob/main/worknotes.md#7525-101112-am-by-dw">the server</a>, we now post metadata to WordPress, along with the HTML rendering so that code that runs on the server can now access and possibly in the future even talk back to WordLand. You never know where this stuff can go if the developers take advantage of opportunities to interop. 
+
+<br> 
+
+<http://scripting.com/2025/07/05.html#a174731>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-05, from: Dave Winer's Scripting News)
+
+<a href="https://this.how/wordland/versions.opml#1751664824000">WordLand v0.5.19</a> -- Lots of little fixes. 
+
+<br> 
+
+<http://scripting.com/2025/07/05.html#a174648>
+
+---
+
+## Nostalgic revisionism
+
+date: 2025-07-05, from: Tracy Durnell Blog
+
+The futility of constructing a better past &#38; the necessity of imagining a better future by Paul Watson [I]n our collective despair at failing to build one of the myriad of better futures, we’ve resorted to futilely constructing ourselves a better past&#8230; + AI slopaganda by Ryan Broderick And I’ve written before about how AI [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/07/05/nostalgic-revisionism/>
+
+---
+
+## The Decade of Linux on the Desktop. You're in it.
+
+date: 2025-07-05, from: Liam on Linux
+
+<div>Apple macOS is a UNIX&trade;. It's the best-selling commercial Unix of all time. I wonder if how many old-school Unix folks consider all Mac users in the 21st century to be their brothers-in-arms? Not many, I'd guess. <br /><br />When it happened, many Unix folks don't consider it a _real_ Unix. Even thought just a few years later, and AIUI after spending a _lot_ on the exercise, Apple got the UNIX&trade; branding.</div><div>&nbsp;</div><div>Now, by contrast:</div><div>&nbsp;</div><div>I've spent proper time trying to get some rough estimates on Linux distro usage. Ubuntu is cagey but claims ITRO low double-digit millions of machines fetching updates. Let's say circa 20M users.</div><div>&nbsp;</div><div>Apparently, over 95% on LTS and the vast majority on the default GNOME edition. (Poor sods.)</div><div>&nbsp;</div><div>The others are cagier still, but Statistica and others have vaguely replicable numbers.</div><div>&nbsp;</div><div>My estimates are:</div><div>&nbsp;</div><div>~2x as many Ubuntu as Debian users</div><div>&nbsp;</div><div>Between them they are about 2/3 of Linux users</div><div>&nbsp;</div><div>All Red Hat/CentOS/Fedora derivatives are about 10% of the market.</div><div>&nbsp;</div><div>Comparing them to Steam client numbers, Arch is much of the rest: the gap between ~75% Debian family and ~10% RH family.</div><div>&nbsp;</div><div>In China, the government has been pushing Linux *hard* for 8-9 years. Uniontech (Deepin) is one of the biggest and last November boasted 3M paid users.&nbsp;</div><div>&nbsp;</div><div>Is that all?&nbsp;</div><div>&nbsp;</div><div>Kylin is also big but let's guess it's #2.&nbsp;&nbsp;</div><div>&nbsp;</div><div>So, if, optimistically, 10% pay, then that's only 20-30M, comparable to Ubuntu in ROTW.</div><div>&nbsp;</div><div>Maybe Kylin (also a Debian BTW, they both are) brings it to 50M.&nbsp;</div><div>&nbsp;</div><div>ChromeOS is a Linux. It's Gentoo underneath. Google sells hundreds of millions. Estimated user base is 200-300M and probably a lot more.</div><div>&nbsp;</div><div>Chromebooks outsold Macs (by $ not units, so 10x over) in the US by 2017 and worldwide by 2020.</div><div>&nbsp;</div><div>Which means there are, ballpark, order of magnitude scale, 10x as many ChromeOS users as all other Linuxes put together.</div><div>&nbsp;</div><div>The year of Linux came 5-6 years ago.</div><div>&nbsp;</div><div>But it's the _wrong kind_ of Linux so the Penguinisti didn't even notice.&nbsp;</div><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=96112" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+
+<br> 
+
+<https://liam-on-linux.dreamwidth.org/96112.html>
+
+---
+
+## iFixit gives new Fairphone 6 top marks for repairability: 10/10
+
+date: 2025-07-05, updated: 2025-07-05, from: Liam Proven's articles at the Register
+
+<h4>It&#39;s not cheap or high end, but it should last you for years to come</h4>
+      <p>The sixth generation of the Fairphone repairable mobile was launched at the end of June. Now spunger-flingers iFixit have got their hands on it, and liked the result.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/05/ifixit_gives_fairphone_10/>
+
+---
+
+## Why are some people happy with fakery, or even delight in it?
+
+date: 2025-07-05, from: Liam Proven blog
+
+This is the outline of a sketch of something deep, maybe, possibly. Don't expect greatness from it.<br /><br />DON'T&nbsp;start in with &quot;just let people like what they like&quot;. Not interested. I have a point, a question, here. I am not interested in your grumbling.<br /><br />A 1990s Britpop band called Oasis are touring the UK&nbsp;right now. Apparently it's the most massively sold-out tour&nbsp;_ever_ or something. My preferred radio station, BBC&nbsp;6music, is absolutely full of Oasis. I had to turn it off for most of yesterday.<br /><br />Today there was a report from a radio music journalist I like, Matt Everitt, from the first gig in Cardiff last night. Apparently it was a big success. The crowd was &quot;mad for it&quot;, throwing (very expensive) beer at each other from the first song, and so on. This is exactly the sort of thing I hate about that kind of gig, and Oasis fans...<br /><br />But as an experienced music journo -- I loved his Glastonbury report -- he noted things I'd not&nbsp; thought of.&nbsp;<br /><br />No original material.<br />Set list published in advance.<br />Same set list for the whole tour.<br /><br />No new material:&nbsp;well, it's a cash-in tour, that's blatant. The band only reunited for the tour.&nbsp;<br /><br />Set list:&nbsp;I hadn't thought of that. Everitt, Radcliffe and Maconie debated this. The unique experience of a gig where, given the costs, given the price, every fan present knew every word of every song? Live music isn't always like this.&nbsp;&nbsp;<br /><br />And whether fans would _enjoy_ them getting more familiar and looser and experimental as it went on, or, would they resent it and want a faithful rendition?<br /><br />I _detest_ Oasis and its music. The singer can't sing. I lack the musical vocab The melodies are trite and simple, like a playground &quot;na-na-nee-na-na&quot; chant. The words are mostly meaningless: they _sound_ like they're expressive, but from my minimal exposure, they're not. The musicians are competent enough: the riffs are boring and stale and derivative, but they're played well.<br /><br />We are in the 2nd quarter of the 21st century now. Since the middle of this week, we are closer to 2050 than 2000.<br /><br />This band, this tour, reminds me of some other things I've hated in the first quarter of C21.<br /><br />The all-female _Ghostbusters_ reboot. I am a big fan of groups of women and girls reclaiming stuff. I like women in art, in music, in comedy, whatever. But that film was _awful_. It failed to get any of the whipcrack tight repart&eacute;e of the first film, but it was full of incomprehending imitation of it.<br /><br />The script of Ghostbusters was a work of art. It's immensely quotable. It is full of gags. GB2 was all right, it has moments. GB3 -- nothing. Zip. Zero.&nbsp;<br /><br />It's a copy without comprehension. It's not a cover version -- I like a good cover. A near unique thing about Oasis is that almost any cover version of any Oasis song will be _sung better than Liam Gallagher can sing_ so it will be better in some aspects. (Also true of Bob&nbsp;Dylan, for my money, but he can write, at least. Can't sing, can't play, but can write.)&nbsp;<br /><br />Then Ghostbusters 4 _Afterlife_ came out and I liked it a lot. It isn't great but it's fun, it's entertaning, it has some good dialogue. It skips over the flat empty GB3 and hearkens back to the original funny two. GB&nbsp;5 _Frozen Empire_ is... diverting. Weak, the seam is nearly mined out now, but it had moments. Still better than 3.<br /><br />GB3 reminded me of a performer I'm conflicted about:&nbsp;Ricky Gervais. I find his comedy awful:&nbsp;he's an actor, trying to role-play a comedian. He wanders the stage behaving like a stand-up comedian but he isn't one, he's just pretending. It's abhorrent to me. But some people seem to love it.&nbsp;<br /><br />I hated the original _Office_&nbsp;TV&nbsp;show. Can't watch more than 2 minutes, partly because of Gervais's gurning. But, like a Dylan cover, the American remake is doable, because it lacks the irritant of the original. I don't like it, never watched a whole episode, but the clips are tolerable to amusing. (I think it's a &quot;comedy of manners&quot; which is not a genre I care for at all. Maybe these are modern versions of Laurence Sterne?)<br /><br />However -- however -- Gervais's jokes about and comments about atheism are _good_. Religious folks many not know but there is a thriving meme subculture of atheists making jokes about religions -- all of them -- and the meaner, the nastier, the funnier.&nbsp;<br /><br />Gervais is often mean-spirited, I suspect, but when he directs it at religion, I find him funny and quotable. I do not want to see the act but it makes for good memes, good quotes.<br /><br />(Maybe it's all about who is the target? Of course all the religious folks squeal about persecution, but always remember, when they were in charge, they tortured heretics to death. Now they are not but they are still destroying lives and their churches are still billionaire-level rich. Don't forget, don't forgive.)<br /><br />It suddenly reminds me of &quot;AI&quot;. LLM-bot generated averaged staleness.<br /><br />I now keep seeing people using bot-slop cartoons to illustrate original blog posts, soc.net comments, articles, etc. I see people in 1980s home-computer fora using bot-slop photos of children waving home computers at one another in the playground.&nbsp;<br /><br />I am aware of the subgenre of short video-clips of disaster scenes. River floods, tidal waves (post Banda Aceh, the first tsunami on video and at its time the most-filmed natural disaster ever, I believe), ships sinking, animal attacks, etc.<br /><br />But now I am seeing bot-slop versions. This morning I saw a bot-slop video that starts with a real rogue wave hit shore, then it's followed by a blatantly fake one. If it were real, hundreds would have died. That's a nasty form of &quot;entertainment&quot;.&nbsp;<br /><br />I have been bot-slop tiktok length videos of impossibly huge whales, boats in impossibly still seas. There are plenty of Chinese ones of impossibly thin girls with impossibly long legs.&nbsp;<br /><br />If people are making them, then audiences must be consuming this. Liking and sharing and bloody subscribing or whatever.<br /><br />Oasis does a roleplay of a comeback tour, with a fixed setlist. I am sure Liam G still can't sing the meaningless lyrics, the riffs will still be poor Beatles ripoffs, but the fans won't care it's all totally choreographed. It's more of the same and that's what they wanted.<br /><br />Gervais filled theatres for his curious roleplay of comedy. Maybe he is as mean-spirited &quot;punching down&quot; at other subgroups and the audiences *like* that, and it only so happens that when it aligns with the religious-mockery I find funny, I get on with that bit and that bit alone.<br /><br />GB3 filled cinemas. People lapped it up. Friends of mine defended it to me. They could not name a single joke, quote a single punchline, but they liked it.<br /><br />Now, this stale derivative incomprehending-cover-version work, which Oasis and Gervais and the GB3 team hand-created, now this can be automated.<br /><br />And audiences lap it up.<br /><br />In my business, it applies to code. Bots can generate awful code on industrial scale, and many programmers are embracing it. Presumably they wrote awful code anyway.<br /><br />Entire companies are leaning in to it.<br /><br />Some programmers are despairing.&nbsp;<br /><br />I thought this essay made some good points:<br /><br />&laquo;<br />The rise of Whatever <br />&raquo;<br /><br /><a href="https://eev.ee/blog/2025/07/03/the-rise-of-whatever/">https://eev.ee/blog/2025/07/03/the-rise-of-whatever/</a><br /><br />It's illustrated with that weird furry stuff that's so prevalent now, which squicks me a bit, but try to ignore it.<br /><br />Why is it that some people are happy with poor quality second or third generation fakery, while it repels others?<br /><br />And what is it going to do with us now that many simply cannot tell, they don't care enough to notice?<br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=lproven&ditemid=310263" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+
+<br> 
+
+<https://lproven.dreamwidth.org/310263.html>
+
+---
+
+## Fascism On The Fourth | The Coffee Klatch for July 5, 2025
+
+date: 2025-07-05, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<br> 
+
+<https://robertreich.substack.com/p/fascism-on-the-fourth-the-coffee>
+
+---
+
+## July 4, 2025
+
+date: 2025-07-05, from: Heather Cox Richardson blog
+
+An American flag in the rigging of &#8220;Old Ironsides,&#8221; the U.S.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-4-2025>
+
+---
+
+## Weeknotes: June 28-July 4, 2025
+
+date: 2025-07-05, from: Tracy Durnell Blog
+
+Win of the week: got a print framed that I&#8217;ve had since 2017 or so 🖼️ Looking forward to: long weekend 🙌 bought 2# of blueberries, I&#8217;m thinking I&#8217;ll bake a coffee cake one day Stuff I did: 2.75 hours consulting 2.25 hours business development &#8212; updated my roster profile and website 4.25 hours writing [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/07/04/weeknotes-june-28-july-4-2025/>
 
 ---
 
@@ -2411,266 +2682,4 @@ Last night just before midnight, Republicans released their new version of the o
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/june-28-2025>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-06-28, from: Dave Winer's Scripting News)
-
-With any luck this will be the final test. Hahaha. 
-
-<br> 
-
-<http://scripting.com/2025/06/28.html#a222617>
-
----
-
-## Fast & easy Open Social Web
-
-date: 2025-06-28, from: Dave Winer's Scripting News
-
-<p>You hear the term <a href="https://www.google.com/search?q=%22Open+Social+Web%22">Open Social Web</a> used in places where things that are social are neither open or web. They aren't that far, and here today I'm going to give you a fast and easy recipe for linking the collection of social twitter-like sites into a real honest to goodness open social web</p>
-<ol>
-<li>Add inbound RSS feeds. The social site allows a user to specify an RSS feed that represents their posts. When a new one shows up, it appears in the timelines of people who are following the user. They can add items to that feed however they like. It can come from anywhere. That's 1/2 of "open."</li>
-<li>Add outbound RSS feeds. This gives you the other half. When a new item shows up in a users feed, however it got there, it appears in their outbound feed, which can be tied into the input feed of one or more other sites. </li>
-<li>Support links in users' posts. You really can't claim to be part of the web if you don't implement this core feature of the web. </li>
-</ol>
-<p>That's all there is, except this: The feeds have to be good. Don't be cheap with the information they contain. Work with other developers to make sure all the information they need that you have is present in the outbound feeds you generate. Same with the inbound feeds, be reasonable, if you can accept certain information and match it up with your service, then you should do it. Think of the users first. </p>
-<p>You could try to use ActivityPub or AT Proto to play the role of RSS. I think you'll find that's more work, and not that many people have mastered these formats. RSS is simple and lightweight and has had 20+ years of burn in. Lots of familiarity, lots of working code. </p>
-<p>It's time to stop claiming you are the open social web when it's so easy to be the open and on the web. </p>
- 
-
-<br> 
-
-<http://scripting.com/2025/06/28/211301.html?title=fastEasyOpenSocialWeb>
-
----
-
-## Upcoming Sponsorship Openings at Daring Fireball
-
-date: 2025-06-28, updated: 2025-06-28, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://daringfireball.net/feeds/sponsors/>
-
----
-
-## Apple’s Full List of Differences between ‘Tier 1’ and ‘Tier 2’ in the EU App Store
-
-date: 2025-06-28, updated: 2025-06-29, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://developer.apple.com/help/app-store-connect/reference/store-services-tiers/>
-
----
-
-## ★ Apple Announces Sweeping but Complicated Policy Changes for Apps in the EU, Attempting to Comply With the Latest Dictums Regarding the DMA
-
-date: 2025-06-28, updated: 2025-06-29, from: Daring Fireball
-
-It’s a natural consequence that an overly complicated law (the DMA) has resulted in an ever-more-complicated set of guidelines and policies (from Apple). It’s all downright byzantine. 
-
-<br> 
-
-<https://daringfireball.net/2025/06/apple_app_store_policy_updates_dma>
-
----
-
-## Email to my Representative re: tabling impeachment
-
-date: 2025-06-28, from: Tracy Durnell Blog
-
-My representative, Suzan DelBene, was one of 128 Democratic Congresspeople who voted to table impeachment charges against the &#8220;President&#8221; for the unauthorized bombing of Iranian nuclear sites. Her office&#8217;s voicemail asked for email instead 😒 fine, I&#8217;ll play along, but then I want a reply! &#8230;I&#8217;ll expect that in October 🙄 I am writing to [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/06/28/email-to-my-representative-re-tabling-impeachment/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-06-28, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2020/08/01/picklesAplenty.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">We live in interesting times. Never a dull moment! <span class="spOldSchoolEmoji">😄</span> 
-
-<br> 
-
-<http://scripting.com/2025/06/28.html#a162936>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-06-28, from: Dave Winer's Scripting News)
-
-Recipe for a fast and easy <a href="https://daytona.scripting.com/search?q=%22open%20social%20web%22">open social web</a>. A lot of interop can be attained quickly by connecting the input and output of each distinct network to other networks that don't currently interop via <a href="https://daytona.scripting.com/search?q=%22inbound%20rss%22">inbound</a> and <a href="https://daytona.scripting.com/search?q=%22outbound%20rss%22">outbound RSS</a>. ActivityPub and AT Proto are not optimal. Too complicated. RSS is simple and lightweight and has has 20+ years of burn in. Lots of familiarity, and lots of working code. And WordPress is built around it and imho that is going to matter. When people get really serious about interop, and are willing to sacrifice a little personal glory, there's a very good compromise available. 
-
-<br> 
-
-<http://scripting.com/2025/06/28.html#a160228>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-06-28, from: Dave Winer's Scripting News)
-
-Net-net: I would pay money to hear a podcast with Frum and Stewart interviewing each other. That would be very powerful stuff imho, and probably very funny, and respectful. 
-
-<br> 
-
-<http://scripting.com/2025/06/28.html#a155442>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-06-28, from: Dave Winer's Scripting News)
-
-The latest David Frum podcast is about <a href="https://www.theatlantic.com/podcasts/archive/2025/06/david-frum-show-tina-brown-iran-nuclear-program/683320/">crazy tech billionaires</a>. Once again he talks about who he's willing to listen to. He's really smart, thinks about things, and speaks brilliantly, but cultivates his ignorance and seems somewhat proud of it. In contrast, I listened to Jon Stewart's weekly podcast <a href="https://podcasts.apple.com/us/podcast/iran-beyond-the-headlines-with-maziar-bahari/id1583132133?i=1000714626073">yesterday</a> and it was as usual outstanding. Like Frum he thinks and speaks brilliantly, with the addition of being hilarious at times. In this episode he talks to an <a href="https://en.wikipedia.org/wiki/Maziar_Bahari">Iranian friend</a>, a new perspective we don't hear often, but fits in with what I had <a href="https://daytona.scripting.com/search?q=iran">understood</a> about Iran. It's a highly educated country, a good standard of living and are mired with a repressive government and no options for regime change. When you hear that talked about on other podcasts and cable news shows, remember -- it's impossible to change regimes unless the country has prepared for that. There is no regime-in-waiting in Iran, hasn't been one since the 1979 revolution. This is the next danger in the US. Will there be anything remaining of our political system? It's almost all gone now. Funny to listen to the people on TV about surviving the next 3.5 years -- what do they think will happen then? Nothing will happen, that's the most likely thing. Back to Frum, what a shame there's such a smart guy, so cloistered, and boastful about it. That's not a good way to proceed now imho. 
-
-<br> 
-
-<http://scripting.com/2025/06/28.html#a154223>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-06-28, from: Dave Winer's Scripting News)
-
-I'm working on the next part of linkblogging in <a href="https://wordland.social/">WordLand</a>. I want to really switch over to the new routine. There was a question of whether I wanted to push the links to the social sites, Bluesky, Mastodon, etc. I've decided I do, but for the moment only to push to Bluesky. It's the only one with a simple enough-enough API or feels worth the effort to me. I'm basically focusing my politics on Bluesky these days. Also seems there are people there who are interested in the development I do. I have far more "followers" on Twitter, but at this point I think most of them are gone. And Threads dropped off my radar a while back. I'm just not interested. For me now it's mostly Bluesky and Facebook. 
-
-<br> 
-
-<http://scripting.com/2025/06/28.html#a152653>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-06-28, from: Dave Winer's Scripting News)
-
-I've been looking for hard-hitting stories about yesterday's Supreme Court decision that gives Trump far more power than any American president has ever had. And unlike military power, which they are clearly not very good at using, the people running the show in the White House are very much <a href="https://static.heritage.org/project2025/2025_MandateForLeadership_FULL.pdf">prepared</a> for how they will use the new power, which appears to be unlimited. 
-
-<br> 
-
-<http://scripting.com/2025/06/28.html#a152446>
-
----
-
-## Saturday, June 28, 2025
-
-date: 2025-06-28, from: Doc Searls (at Harvard), New Old Blog
-
-Obsession persists. I&#8217;ll never stop being a radio guy, no matter how much listening &#8220;what&#8217;s on&#8221; goes down, and radio itself becomes as anachronistic as steam engines. This is why, five years ago, I wrote on Quora how cars saved radio when TV got huge in the 1950s. And now I have just learned, from [&#8230;] 
-
-<br> 
-
-<https://doc.searls.com/2025/06/28/saturday-june-28-2025/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-06-28, from: Dave Winer's Scripting News)
-
-Fixed the images that broke on <a href="https://morningcoffeenotes.com/">morningcoffeenotes.com</a>, a site that dates back to 2003, when it transitioned to https in 2024. 
-
-<br> 
-
-<http://scripting.com/2025/06/28.html#a130147>
-
----
-
-## Hallucinating myths into fact
-
-date: 2025-06-28, from: Dave Winer's Scripting News
-
-<p><img class="imgRightMargin" src="https://imgs.scripting.com/2023/06/10/bear.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I have a Google Alerts query for my own name, just to see if any journalism outlets mention me. When it happens, it's often to give me credit for co-creating an app called iPodder, which they say was where podcasting started. None of that is true. But that's what journalism says about me.</p>
-<p>On the other hand if you ask ChatGPT what role I played in developing podcasting it gives a more accurate answer. </p>
-<p>So tell me what the role of journalism is. Hallucinating myths into fact? That would be my estimate.</p>
-<p>Here's <a href="https://imgs.scripting.com/2025/06/28/chatgpt.png">the ChatGPT result</a>. I actually did a bit more than that, but what they say is closer to the truth and gives an idea of how things like podcasting come into existence. A lot of work and struggle against people's disbelief, and most of the time it doesn't work -- podcasting is one of the successes.</p>
-<p>BTW, the second item in ChatGPT's list is not true. Adam's <i>Daily Source Code</i> came after my own podcast <i><a href="https://morningcoffeenotes.com/">Morning Coffee Notes</a>. </i>I was urging him to do a podast but he didn't get one going until after I went first, proving the old adage "People don't listen to their friends, they listen to their competitors." So somewhere along the line it got confused and it hallucinated just like the journalists. The actual first podcast was a Grateful Dead song in 2001 which I used to test Radio UserLand which was the first software to implement podcasting. There's a documentary coming out soon and I believe they have a bit about that, so maybe that'll get on the record. </p>
-<p>If this is how history is written btw, I wouldn't trust <i>anything</i> in the history books. ;-) </p>
- 
-
-<br> 
-
-<http://scripting.com/2025/06/28/115146.html?title=hallucinatingMythsIntoFact>
-
----
-
-## Mamdani! | The Saturday Coffee Klatch for June 28, 2025 
-
-date: 2025-06-28, from: Robert Reich's blog
-
-With Heather Lofthouse and Yours Truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/166994432/8e99c73720fa52955680ea635ad0f858.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/166994432/8e99c73720fa52955680ea635ad0f858.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/mamdani-the-saturday-coffee-klatch>
-
----
-
-## Weeknotes: June 21-27, 2025
-
-date: 2025-06-28, from: Tracy Durnell Blog
-
-Win of the week: husband finally got the offer letter for the new job he&#8217;s been coordinating for months!!! they wrote the job description just for him 🥰 only one more week of the current hell job 🙌 Looking forward to: chilling out and reading this weekend Stuff I did: 7.75 hours consulting &#8212; wrapping up the [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/06/27/weeknotes-june-21-27-2025/>
-
----
-
-## June 27, 2025
-
-date: 2025-06-28, from: Heather Cox Richardson blog
-
-After the Supreme Court today decided the case of Trump v. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/june-27-2025>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-06-28, from: Miguel de Icaza Mastondon feed)
-
-<p>Those that poop on AI chatbots for websites have never had to use an american bank website.</p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114758970263274510>
-
----
-
-## Getting weather data from my Acurite sensors was shockingly easy
-
-date: 2025-06-28, from: Jeff Geerling blog
-
-<span class="field field--name-title field--type-string field--label-hidden">Getting weather data from my Acurite sensors was shockingly easy</span>
-
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>I've had a Pi and SDR earmarked for 'getting weather data from my weather station' for a long time now. I don't know why I waited so long, because it was shockingly easy.</p>
-
-<p>I have a <a href="https://amzn.to/44p0yFV">Acurite 5-in-1 weather station (with separate lightning detector)</a> mounted about 15' in the air in my back yard. It comes with a fancy little LCD display to show all the stats it transmits over the 433 MHz wireless frequency.</p>
-
-<p>But I want to ingest that data into my Home Assistant installation, so I can have better access to historical data, set up alerts (like if wind speed is above 50 mph, or there's lightnining less than 10 miles away), etc.</p>
-
-<p>I'll work on the HA integration later, likely using MQTT. But for now, just getting the data to decode on a Raspberry Pi 5 was quick:</p></div>
-      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
-<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-06-27T20:46:38-05:00" title="Friday, June 27, 2025 - 20:46" class="datetime">June 27, 2025</time>
-</span> 
-
-<br> 
-
-<https://www.jeffgeerling.com/blog/2025/getting-weather-data-my-acurite-sensors-was-shockingly-easy>
-
----
-
-## Apple’s Other ‘F1 The Movie’ In-App Promotions
-
-date: 2025-06-28, updated: 2025-06-28, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.macrumors.com/2025/06/27/f1-the-movie-now-playing-in-theaters/>
 

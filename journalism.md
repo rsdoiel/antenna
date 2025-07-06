@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2025-07-05 14:08:44
+updated: 2025-07-06 06:07:21
 ---
 
 # journalism
 
-(date: 2025-07-05 14:08:44)
+(date: 2025-07-06 06:07:21)
+
+---
+
+## USAC recap – June 24
+
+date: 2025-07-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council typically allocates money &#8211; sometimes upwards of six-figure sums &#8211; to student organizations during its meetings but did not make any funding allocations during its first meeting of the summer June 24. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/05/usac-recap-june-24-3/>
 
 ---
 
@@ -308,30 +320,4 @@ Carolina Buhler, a rising fourth-year earth and environmental science student, a
 <br> 
 
 <https://dailybruin.com/2025/06/30/ucla-student-carolina-buhler-to-compete-in-2026-california-gubernatorial-primary/>
-
----
-
-## Coauthors Rob and Bob shed light on movie magic, creative leadership in new book
-
-date: 2025-06-28, from: The Daily Bruin (UCLA Student Newspaper)
-
-Rob Carpenter pulls back the Ozian curtain on one of the most enigmatic leadership roles in Hollywood &#8211; the producer.
-This April, UCLA Communication Professor Carpenter published his sixth book, &#8220;The Creative Leader: What Every Leader Should Know About The Art and Science of Creative Intelligence,&#8221; a nonfiction guide to the practical application of creativity as a learnable skill essential to exceptional leadership. 
-
-<br> 
-
-<https://dailybruin.com/2025/06/28/coauthors-rob-and-bob-shed-light-on-movie-magic-creative-leadership-in-new-book/>
-
----
-
-## UCLA climatologist Marilyn Raphael elected to National Academy of Sciences
-
-date: 2025-06-28, from: The Daily Bruin (UCLA Student Newspaper)
-
-A UCLA professor of geography was elected to the National Academy of Sciences in April.
-Marilyn Raphael is a leading scientist in Antarctic climate and ocean atmospheric interactions around Antarctica, said Laura Landrum, a project scientist at the National Center for Atmospheric Research. 
-
-<br> 
-
-<https://dailybruin.com/2025/06/27/ucla-climatologist-marilyn-raphael-elected-to-national-academy-of-sciences/>
 

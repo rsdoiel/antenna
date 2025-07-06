@@ -1,11 +1,36 @@
 ---
 title: libraries
-updated: 2025-07-05 14:08:45
+updated: 2025-07-06 06:07:22
 ---
 
 # libraries
 
-(date: 2025-07-05 14:08:45)
+(date: 2025-07-06 06:07:22)
+
+---
+
+## How to transport carbon dioxide with minimal environmental impacts today and tomorrow? A prospective life cycle assessment
+
+date: 2025-07-10, from: ETH Zurich, recently added
+
+Nöhl J.; Burger J.; Oeuvray P.; Becattini V.; Seiler J.; Shu D.Y.; Mazzotti M.; Bardow A. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/738534>
+
+---
+
+## Before Vegas: The “Red Hackers” Who Shaped China’s Cyber Ecosystem
+
+date: 2025-07-08, from: ETH Zurich, recently added
+
+Benincasa, Eugenio
+Soesanto, Stefan 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/743657>
 
 ---
 

@@ -1,11 +1,59 @@
 ---
 title: motorcycles
-updated: 2025-07-05 14:08:46
+updated: 2025-07-06 06:07:23
 ---
 
 # motorcycles
 
-(date: 2025-07-05 14:08:46)
+(date: 2025-07-06 06:07:23)
+
+---
+
+## Ty Dillon, Denny Hamlin Say NASCAR In-Season Bracket Challenge Building Fun Rivalries, Driver Trash-Talking
+
+date: 2025-07-05, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor CHICAGO – The NASCAR in-season bracket challenge is having its intended effect, even if it’s with drivers who weren’t expected to advance past the first round,&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-in-season-bracket-challenge-building-fun-rivalries-driver-trash-talking/>
+
+---
+
+## Palou wins third pole of the season at Mid-Ohio, Team Penske woes continue
+
+date: 2025-07-05, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer For the third time this season, Alex Palou starts from the pole in an IndyCar series race, taking pole for the Honda Indy 200 at&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/palou-wins-third-pole-of-the-season-at-mid-ohio-team-penske-woes-continue/>
+
+---
+
+## Ahead of Jack Perkins first Xfinity Series start, here’s how past Supercar drivers have fared in their NASCAR debuts
+
+date: 2025-07-05, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer In a wave started by Shane van Gisbergen two years ago, another former Australian Supercars driver is set to make his NASCAR debut this weekend.&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/ahead-of-jack-perkins-first-xfinity-series-start-heres-how-past-supercar-drivers-have-fared-in-their-nascar-debuts/>
+
+---
+
+## Marc Marquez Makes and Breaks All-New MotoGP Record, Looks Like He’ll Do It Again
+
+date: 2025-07-05, from: Ride Apart, Electric Motorcycle News
+
+The record only starts to get interesting now. 
+
+<br> 
+
+<https://www.rideapart.com/news/764588/marc-marquez-breaks-motogp-sprint-race-win-record/>
 
 ---
 
@@ -337,16 +385,4 @@ A snapped seat post is one of the dumbest ways to crash.
 <br> 
 
 <https://www.rideapart.com/news/764036/specialized-recall-electric-cargo-bikes-seatpost-failure/>
-
----
-
-## Thieves Tried, Failed to Steal Itchy Boots' Bike in Wales
-
-date: 2025-06-28, from: Ride Apart, Electric Motorcycle News
-
-A well-hidden Airtag is apparently a bike's best friend. 
-
-<br> 
-
-<https://www.rideapart.com/news/764009/itchy-boots-motorcycle-stolen-wales/>
 

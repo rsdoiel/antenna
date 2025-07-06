@@ -1,11 +1,443 @@
 ---
 title: pacific
-updated: 2025-07-05 14:08:41
+updated: 2025-07-06 06:07:17
 ---
 
 # pacific
 
-(date: 2025-07-05 14:08:41)
+(date: 2025-07-06 06:07:17)
+
+---
+
+## Dozens dead in Texas as search for missing grows more dire
+
+date: 2025-07-06, from: Hawaii Tribune Harold
+
+
+				<p>KERRVILLE, Texas &#8212; Rescuers swarmed the area around the swollen Guadalupe River by air, land and water Saturday in a desperate search for more than two dozen campers and others still missing after intense flooding the day before.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/06/nation-world-news/dozens-dead-in-texas-as-search-for-missing-grows-more-dire/>
+
+---
+
+## Honolulu’s Federal Detention Center to house ICE detainees
+
+date: 2025-07-06, from: Hawaii Tribune Harold
+
+
+				<p>The Federal Detention Center in Honolulu is one of three that have been approved to house immigrant detainees &#8212; including a jail in New York City known for violent and poor conditions that has held high profile individuals such as Ghislaine Maxwell and Sean &#8220;Diddy&#8221; Combs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/06/hawaii-news/honolulus-federal-detention-center-to-house-ice-detainees/>
+
+---
+
+## Police chief to face commission on Thursday
+
+date: 2025-07-06, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Police Commission has scheduled a special meeting for 10 a.m. Thursday, with the only agenda items relating to the fate of Hawaii Police Department Chief Benjamin Moszkowicz as the Big Island&#8217;s top cop.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/06/hawaii-news/police-chief-to-face-commission-on-thursday/>
+
+---
+
+## Volcano Watch: So what on Earth is a “gas piston”?
+
+date: 2025-07-06, from: Hawaii Tribune Harold
+
+
+				<p>If you&#8217;ve been following the ongoing eruption of Kilauea, you may have seen the terms &#8220;gas piston&#8221; or &#8220;gas pistoning&#8221; show up in some of the USGS Hawaiian Volcano Observatory updates, photo captions, and other places.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/06/features/volcano-watch-so-what-on-earth-is-a-gas-piston/>
+
+---
+
+## Madre fire grows to nearly 80,000 acres, prompting evacuations in California
+
+date: 2025-07-06, from: Hawaii Tribune Harold
+
+
+				<p>A wildfire in California&#8217;s San Luis Obispo County grew for the second night in a row and covered almost 80,000 acres by Saturday, prompting evacuation orders, closing part of a highway and sending thick smoke billowing into neighboring counties. It is the biggest wildfire the state has seen this year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/06/nation-world-news/madre-fire-grows-to-nearly-80000-acres-prompting-evacuations-in-california/>
+
+---
+
+## Israel to send delegation to Qatar for talks on Gaza truce
+
+date: 2025-07-06, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; The Israeli government said it would send a delegation to Qatar on Sunday for talks on the latest U.S.-backed effort to reach a ceasefire in the Gaza Strip after Hamas said it was ready for negotiations on the proposal.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/06/nation-world-news/israel-to-send-delegation-to-qatar-for-talks-on-gaza-truce/>
+
+---
+
+## Khamenei appears in public for first time since Israel war began
+
+date: 2025-07-06, from: Hawaii Tribune Harold
+
+
+				<p>Iran&#8217;s supreme leader, Ayatollah Ali Khamenei, appeared publicly Saturday night for the first time since the 12-day war with Israel began last month, Iran&#8217;s state media and his official website reported.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/06/nation-world-news/khamenei-appears-in-public-for-first-time-since-israel-war-began/>
+
+---
+
+## Annual Hilo Orchid Show and Sale set for July 25-27
+
+date: 2025-07-06, from: Hawaii Tribune Harold
+
+
+				<p>The 71st annual Hilo Orchid Show and Sale&#8217;s theme of &#8220;Orchid Isle: Mauka to Makai&#8221; will celebrate how perfect the Big Island naturally is for these ethereal flowers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/06/hawaii-news/annual-hilo-orchid-show-and-sale-set-for-july-25-27/>
+
+---
+
+## Steves: Discovering ‘undiscovered’ Hamburg
+
+date: 2025-07-06, from: Hawaii Tribune Harold
+
+
+				<p>Germany&#8217;s second-largest city, Hamburg, is awash with history &#8212; and played especially key roles in the stories of 19th-century emigration, World War II and the Beatles. It&#8217;s also a thriving 21st-century metropolis with an inviting harbor boardwalk, avant-garde architecture, and Las Vegas-style nightlife. Every visit here makes me wonder why so many Americans skip it. I love this city.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/06/features/steves-discovering-undiscovered-hamburg/>
+
+---
+
+## Elon Musk says he will start a new political party
+
+date: 2025-07-06, from: Hawaii Tribune Harold
+
+
+				<p>Elon Musk, the world&#8217;s wealthiest person and the country&#8217;s biggest political donor, said Saturday that he would create a new political party, an enormous and challenging undertaking that would test the billionaire&#8217;s newfound influence on American politics.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/06/nation-world-news/elon-musk-says-he-will-start-a-new-political-party/>
+
+---
+
+## US turns eight migrants over to South Sudan, ending weeks of legal limbo
+
+date: 2025-07-06, from: Hawaii Tribune Harold
+
+
+				<p>A flight carrying eight men who had been held for weeks on a U.S. military base in Djibouti landed in South Sudan just before midnight Friday, officials said, bringing an end to a six-week legal battle that was resolved by an emergency intervention by the Supreme Court.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/06/nation-world-news/us-turns-eight-migrants-over-to-south-sudan-ending-weeks-of-legal-limbo/>
+
+---
+
+## Wilson saves Wallabies in close win over Fiji
+
+date: 2025-07-06, from: 
+
+Skipper David Wilson scored in the dying minutes to help Australia clinch victory and avenge their 2023 World Cup loss. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566124/wilson-saves-wallabies-in-close-win-over-fiji>
+
+---
+
+## Youth MP wants to see Pasifika voices in politics amplified
+
+date: 2025-07-06, from: 
+
+Marques Tominiko has returned from Parliament feeling proud of how he represented his people, but he thinks that South Auckland remains under the radar. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/ldr/566097/youth-mp-wants-to-see-pasifika-voices-in-politics-amplified>
+
+---
+
+## NZ team flagbearer David Liti lifts through grief to win double gold at Pacific Mini Games
+
+date: 2025-07-06, from: 
+
+Aotearoa's champion Tongan-Kiwi weightlifter David Liti won two gold medals in the men's 110kg+ clean and jerk and the men's overall, and a silver in the snatch. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566107/nz-team-flagbearer-david-liti-lifts-through-grief-to-win-double-gold-at-pacific-mini-games>
+
+---
+
+## 'We're still in disbelief': Tongan archers return home after record-breaking run in Palau
+
+date: 2025-07-05, from: 
+
+Tonga's archery team headed home on Saturday after winning an unprecedented 11 medals across recurve and compound events, still stunned by their remarkable run at the 2025 Pacific Mini Games. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566090/we-re-still-in-disbelief-tongan-archers-return-home-after-record-breaking-run-in-palau>
+
+---
+
+## Dengue scare hits Pacific Mini Games; athlete receives medical care, health alert issued
+
+date: 2025-07-05, from: 
+
+Palau's Health Ministry is asking athletes, teams, visitors and the people of the islands to protect themselves as much as possible from mosquito bites. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566081/dengue-scare-hits-pacific-mini-games-athlete-receives-medical-care-health-alert-issued>
+
+---
+
+## Community Events: Vax outreach
+
+date: 2025-07-05, from: Pacific Island Times
+
+The Department of Public Health and Social Services (DPHSS) will be conducting a Back-to-School Immunization Outreach on July 25 from 10... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/community-events-vax-outreach>
+
+---
+
+## At least 13 are killed in Texas flood, and 20 girls from summer camp are missing
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>KERRVILLE, Texas &#8212; A rain-swelled Guadalupe River swept through a summer camp and nearby areas before dawn on Friday in Central Texas, killing at least 13 people and setting off frantic searches for missing children and others.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/at-least-13-are-killed-in-texas-flood-and-20-girls-from-summer-camp-are-missing/>
+
+---
+
+## There’s a race to power the future — China is pulling away
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>In China, more wind turbines and solar panels were installed last year than in the rest of the world combined. And China&#8217;s clean energy boom is going global. Chinese companies are building electric vehicle and battery factories in Brazil, Thailand, Morocco, Hungary and beyond.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/theres-a-race-to-power-the-future-china-is-pulling-away/>
+
+---
+
+## Trump signs signature tax-cut and spending bill into law
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON, July 4 (Reuters) &#8212; U.S. President Donald Trump signed into law a massive package of tax and spending cuts in a ceremony at the White House on Friday, one day after the Republican-controlled House of Representatives narrowly approved the signature legislation of Trump&#8217;s second term.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/trump-signs-signature-tax-cut-and-spending-bill-into-law/>
+
+---
+
+## From court to Congress to the Mideast, Trump tallies his wins
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Just hours after his domestic policy megabill squeaked through Congress on Thursday, President Donald Trump stood before a crowd of supporters and marveled at how well it all seemed to be going for him lately.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/from-court-to-congress-to-the-mideast-trump-tallies-his-wins/>
+
+---
+
+## States brace for added burdens of Trump’s tax and spending law
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>The ink is not even dry on the far-reaching domestic policy law that President Donald Trump will sign Friday, and already, state governments are bracing for impact as Washington shifts much of the burden for health care, food assistance and other programs onto them.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/states-brace-for-added-burdens-of-trumps-tax-and-spending-law/>
+
+---
+
+## News in brief for July 5
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>Trump: WH to start &#0010;notifying countries about tariffs </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/news-in-brief-for-july-5/>
+
+---
+
+## Judge pauses transfer of eight migrants to South Sudan
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>The fate of eight men, now held on a U.S. military base in Djibouti, is once again unclear after a district court judge in Washington issued a brief administrative stay that blocked the government from deporting them to South Sudan.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/judge-pauses-transfer-of-eight-migrants-to-south-sudan/>
+
+---
+
+## Russia hits Ukraine with large air barrage hours after Trump-Putin call
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Russia attacked Kyiv and other Ukrainian cities on Friday with the largest number of drones and missiles launched in a single barrage so far in the war, according to the Ukrainian air force, just hours after a phone call between President Donald Trump and President Vladimir Putin of Russia.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/russia-hits-ukraine-with-large-air-barrage-hours-after-trump-putin-call/>
+
+---
+
+## The Madre fire grows to 70,800 acres, triggering evacuations in California
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>A wildfire in California&#8217;s San Luis Obispo County rapidly expanded overnight and was covering about 70,800 acres by Friday morning, prompting evacuation orders, closing part of a highway and sending thick smoke billowing into neighboring counties. It is the biggest wildfire the state has seen this year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/the-madre-fire-grows-to-70800-acres-triggering-evacuations-in-california/>
+
+---
+
+## US Air Force suspends SpaceX rocket project on Pacific atoll, report says
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Air Force has suspended plans it had proposed with Elon Musk&#8217;s SpaceX to test hypersonic rocket cargo deliveries from a remote Pacific atoll, according to a report this week in Stars and Stripes, an independent publication of the U.S. military. The suspension came after Reuters reported that biologists and experts said the project would harm many seabirds that nest at the wildlife refuge on the Johnston Atoll, an unincorporated U.S. territory nearly 800 miles (1,300 km) southwest of Hawaii.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/us-air-force-suspends-spacex-rocket-project-on-pacific-atoll-report-says/>
+
+---
+
+## Hamas says it is ready to negotiate truce proposal
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; The Palestinian militant group Hamas said Friday that it had responded positively to a new proposal for a 60-day Gaza Strip ceasefire with Israel and was ready to immediately enter negotiations on implementing it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/hamas-says-it-is-ready-to-negotiate-truce-proposal/>
+
+---
+
+## Nuclear inspectors leave Iran after cooperation halted with UN watchdog
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>The United Nations&#8217; nuclear watchdog said Friday that its inspectors have left Iran, days after the country &#8212; still reeling from its war with Israel &#8212; suspended cooperation with the international agency.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/nuclear-inspectors-leave-iran-after-cooperation-halted-with-un-watchdog/>
+
+---
+
+## As Americans celebrate Independence Day, some protest the Trump administration
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>As many Americans gathered for cookouts and patriotic parades to celebrate Independence Day on Friday, others assembled at hundreds of planned demonstrations against the Trump administration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/as-americans-celebrate-independence-day-some-protest-the-trump-administration/>
+
+---
+
+## Time for some glee
+
+date: 2025-07-05, from: Pacific Island Times
+
+Yes&#38;Know By Aline Yamashita There was always joy in my preschool classroom. During a time when we enjoyed open-air classrooms at M.U.... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/time-for-some-glee>
+
+---
+
+## In July 4 ceremony, Trump signs tax and spending bill into law
+
+date: 2025-07-05, updated: 2025-07-05, from: Marianas Variety
+
+WASHINGTON (Reuters) — President Donald Trump signed into law a massive package of tax and spending cuts at the White House on Friday, staging an outdoor ceremony on the Fourth of July holiday that took on the air of a Trump political rally. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/in-july-4-ceremony-trump-signs-tax-and-spending-bill-into-law/article_1841fbec-ff10-4cbb-b672-6ad08ea6c197.html>
 
 ---
 
@@ -3346,207 +3778,4 @@ Weekender #57
 <br> 
 
 <https://thehusk.substack.com/p/market-mamas>
-
----
-
-## 'Do No Harm' bill could do more harm than good, Guam doctors warn 
-
-date: 2025-06-28, from: Pacific Island Times
-
-Guam's health care leaders discuss Bill 82-38 at a press conference held June 27, 2025, at Hyatt Regency Guam. Photo by Jann... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/do-no-harm-bill-could-do-more-harm-than-good-guam-doctors-warn>
-
----
-
-## Supreme Court limits power of judges to block Trump policies
-
-date: 2025-06-28, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The Supreme Court on Friday limited the ability of lower-court judges to block executive branch policies nationwide, opening the door for a majority of states to at least temporarily enforce President Donald Trump&#8217;s executive order ending birthright citizenship.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/supreme-court-limits-power-of-judges-to-block-trump-policies/>
-
----
-
-## Senate blocks war powers resolution to limit Trump’s ability to strike Iran again
-
-date: 2025-06-28, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The Senate on Friday blocked a Democratic resolution that would have forced President Donald Trump to go to Congress for approval of further military action against Iran, dealing a blow to efforts to rein in his war powers.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/senate-blocks-war-powers-resolution-to-limit-trumps-ability-to-strike-iran-again/>
-
----
-
-## Rwanda and Congo sign US-brokered peace treaty
-
-date: 2025-06-28, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The top diplomats from Rwanda and Congo signed a peace agreement in Washington on Friday to try to end a devastating war in eastern Congo that has resulted in thousands of deaths and displaced hundreds of thousands of people since fighting surged this year.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/rwanda-and-congo-sign-us-brokered-peace-treaty/>
-
----
-
-## University of Virginia president resigns under pressure from Trump administration
-
-date: 2025-06-28, from: Hawaii Tribune Harold
-
-
-				<p>The University of Virginia&#8217;s president, James E. Ryan, has told the board overseeing the school that he will resign in the face of demands by the Trump administration that he step aside to help resolve a Justice Department inquiry into the school&#8217;s diversity, equity and inclusion efforts, according to three people briefed on the matter.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/university-of-virginia-president-resigns-under-pressure-from-trump-administration/>
-
----
-
-## Trump says US ending trade talks with Canada
-
-date: 2025-06-28, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; President Donald Trump on Friday said the United States would terminate all trade discussions with Canada, &#8220;effective immediately,&#8221; over the country&#8217;s plan to begin collecting digital services taxes from U.S. technology giants.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/trump-says-us-ending-trade-talks-with-canada/>
-
----
-
-## Critical hurricane monitoring data is going offline
-
-date: 2025-06-28, from: Hawaii Tribune Harold
-
-
-				<p>The National Atmospheric and Oceanic Administration has said that in the next few days it will stop providing data from satellites that have been helping hurricane forecasters do their jobs for decades, citing &#8220;recent service changes&#8221; as the cause.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/critical-hurricane-monitoring-data-is-going-offline/>
-
----
-
-## France opens competition to expand overcrowded Louvre
-
-date: 2025-06-28, from: Hawaii Tribune Harold
-
-
-				<p>PARIS &#8212; France on Friday started an architectural competition for the daunting task of expanding the Louvre in Paris, in a bid to ease overcrowding at the world&#8217;s biggest and most visited museum.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/france-opens-competition-to-expand-overcrowded-louvre/>
-
----
-
-## Minnesotans ring Capitol to honor slain lawmaker; hearing is postponed for suspect
-
-date: 2025-06-28, from: Hawaii Tribune Harold
-
-
-				<p>ST. PAUL, Minn. &#8212; Elected officials, former President Joe Biden and everyday Minnesotans streamed into the white-domed state Capitol on Friday to pay their respects to state Rep. Melissa Hortman and her husband, Mark, who were fatally shot at their suburban Minneapolis home this month.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/28/nation-world-news/minnesotans-ring-capitol-to-honor-slain-lawmaker-hearing-is-postponed-for-suspect/>
-
----
-
-## In pursuit of godlike technology, Mark Zuckerberg amps up the AI race
-
-date: 2025-06-28, from: Hawaii Tribune Harold
-
-
-				<p>SAN FRANCISCO &#8212; In April, Mark Zuckerberg&#8217;s lofty plans for the future of artificial intelligence crashed into reality.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/28/features/in-pursuit-of-godlike-technology-mark-zuckerberg-amps-up-the-ai-race/>
-
----
-
-## Tropical Gardening: Insect repellents important because summer often means more insects
-
-date: 2025-06-28, from: Hawaii Tribune Harold
-
-
-				<p>Some insects are more than just pesky especially when it comes to ones that spread disease. Malaria and other diseases are scary. However, it is even scarier when you realize how vulnerable we are when it comes to problems caused by rats, pigs, insects and diseases we find in Hawaii. Pig and rat populations also carry diseases than can cause human illnesses.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/06/28/features/tropical-gardening-insect-repellents-important-because-summer-often-means-more-insects/>
-
----
-
-## Pasifika Medical Association rejects claims public funds used inappropriately
-
-date: 2025-06-28, from: 
-
-Te Puni Kōkiri is launching an independent review into allegations that money was used inappropriately for Whānau Ora commissioning services. 
-
-<br> 
-
-<https://www.rnz.co.nz/news/political/565405/pasifika-medical-association-rejects-claims-public-funds-used-inappropriately>
-
----
-
-## 3 powerful murals unveiled at UH Maui College
-
-date: 2025-06-28, from: University of Hawaiʻi News
-
-<p><abbr>UH</abbr> Maui College walls transformed through dynamic stories rooted in Maui.</p>
-The post <a href="https://www.hawaii.edu/news/2025/06/27/powerful-murals-at-uh-maui-college/">3 powerful murals unveiled at <abbr>UH</abbr> Maui College</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/06/27/powerful-murals-at-uh-maui-college/>
-
----
-
-## Cancer care, Cirque du Soleil, more in UH magazine
-
-date: 2025-06-28, from: University of Hawaiʻi News
-
-<p>From cancer breakthroughs to creative careers, <abbr>UH</abbr> alumni and faculty are shaping <span aria-label="Hawaii">Hawai&#699;i</span>’s future.</p>
-The post <a href="https://www.hawaii.edu/news/2025/06/27/uh-magazine-2025/">Cancer care, Cirque du Soleil, more in <abbr>UH</abbr> magazine</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/06/27/uh-magazine-2025/>
-
----
-
-## Education to employment: UH System tackles workforce shortage in parks and rec
-
-date: 2025-06-28, from: University of Hawaiʻi News
-
-<p>A new <abbr>UH</abbr> Community Colleges program is helping to rapidly fill parks and rec positions while preparing residents for green careers.</p>
-The post <a href="https://www.hawaii.edu/news/2025/06/27/uh-tackles-workforce-shortage-parks-and-rec/">Education to employment: <abbr>UH</abbr> System tackles workforce shortage in parks and rec</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/06/27/uh-tackles-workforce-shortage-parks-and-rec/>
 

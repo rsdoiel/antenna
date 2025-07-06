@@ -1,11 +1,109 @@
 ---
 title: socal north
-updated: 2025-07-05 14:08:40
+updated: 2025-07-06 06:07:16
 ---
 
 # socal north
 
-(date: 2025-07-05 14:08:40)
+(date: 2025-07-06 06:07:16)
+
+---
+
+## ICE raids have not only inspired activism — but art
+
+date: 2025-07-06, updated: 2025-07-06, from: The LAist
+
+L.A.-area artists tap into cartooning, one-color graphic design and painting to give a voice to people protesting detentions. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/ice-raids-have-not-only-inspired-activism-but-art>
+
+---
+
+## This UCLA research project needs your help studying birds after wildfires
+
+date: 2025-07-06, updated: 2025-07-06, from: The LAist
+
+"Project Phoenix" relies on community science to study how wildfire smoke effects birds. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/this-ucla-research-project-needs-your-help-studying-birds-after-wildfires>
+
+---
+
+## North Korea has a new luxury beach resort. But the country isn't open to most tourists
+
+date: 2025-07-06, updated: 2025-07-06, from: The LAist
+
+North Korean leader Kim Jong Un said he wants the luxury resort on the eastern seacoast to become a "world destination," but the country has been reluctant to allow in foreign tourists. 
+
+<br> 
+
+<https://laist.com/npr-news/north-korea-has-a-new-luxury-beach-resort-but-the-country-isnt-open-to-most-tourists>
+
+---
+
+## A Community-Favorite Tradition Returns to Central ParkBy City Manager Ken Striplin
+
+date: 2025-07-05, from: City of Santa Clarita
+
+<p>Each summer, families, friends and neighbors from across Santa Clarita eagerly await the return of a cherished tradition — an evening under the stars filled with live music, laughter and community spirit. Now celebrating its 35th year, Concerts in the Park, presented by Logix Federal Credit Union, remains a summer staple that draws thousands to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/05/a-community-favorite-tradition-returns-to-central-parkby-city-manager-ken-striplin/">A Community-Favorite Tradition Returns to Central ParkBy City Manager Ken Striplin</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/05/a-community-favorite-tradition-returns-to-central-parkby-city-manager-ken-striplin/>
+
+---
+
+## Just got laid off? Get back on your feet with this step-by-step guide
+
+date: 2025-07-05, updated: 2025-07-05, from: The LAist
+
+When you lose your job, it can be tough to know what to do next. Career coach Octavia Goredema shares a practical checklist of next moves, from reviewing exit paperwork to securing health care. 
+
+<br> 
+
+<https://laist.com/news/just-got-laid-off-get-back-on-your-feet-with-this-step-by-step-guide>
+
+---
+
+## ‘A Great Day in East LA’: The largest Eastside music exhibition ever assembled is now on display
+
+date: 2025-07-05, updated: 2025-07-05, from: The LAist
+
+From punk and soul to jarocho and Chicano rock, the landmark L.A. Plaza exhibit celebrates generations of musicians often overlooked by the mainstream 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/largest-eastside-music-exhibition-ever-assembled-now-on-display>
+
+---
+
+## ‘A view to die for’: The macabre history of the Verdugo Hills Cemetery in Sunland-Tujunga
+
+date: 2025-07-05, updated: 2025-07-05, from: The LAist
+
+The cemetery atop a hill contains more than 100 years of Sunland-Tujunga history — and yes, killer views. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/the-macabre-history-of-verdugo-hills-cemetery>
+
+---
+
+## Crystal Cave in Sequoia National Park reopens after four years of repairs
+
+date: 2025-07-05, updated: 2025-07-05, from: The LAist
+
+A majestic “counterpoint” to the park’s namesake trees, the cave is welcoming visitors back after recovering from fire and storm damage. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/crystal-cave-sequoia-national-park-reopens>
 
 ---
 
@@ -1317,90 +1415,4 @@ The wildfire near Silverwood Lake started at 3:58 p.m. on Saturday and grew to n
 <br> 
 
 <https://laist.com/news/climate-environment/san-bernardino-county-lake-fire-silverwood>
-
----
-
-## Fiscal Responsibility Pays Off with Another On-Time and Balanced City Budget
-
-date: 2025-06-28, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin At our meeting earlier this month, your City Council adopted another on-time and balanced budget for Fiscal Year 2025-26 totaling $344.6 million. Getting to this point was a six-month process, with City staff working closely with the City Council Budget Committee to determine what items would be funded for the [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/06/28/fiscal-responsibility-pays-off-with-another-on-time-and-balanced-city-budget/">Fiscal Responsibility Pays Off with Another On-Time and Balanced City Budget</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/06/28/fiscal-responsibility-pays-off-with-another-on-time-and-balanced-city-budget/>
-
----
-
-## Don’t panic! Research planes are flying low over LA
-
-date: 2025-06-28, updated: 2025-06-28, from: The LAist
-
-Two NASA research planes will begin flying across SoCal at lower altitudes and doing some special maneuvers in the sky to collect air samples. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/dont-panic-research-planes-are-flying-low-over-la>
-
----
-
-## Discover the delicate nature of Northeast LA's Elephant Hill
-
-date: 2025-06-28, updated: 2025-06-28, from: The LAist
-
-A guided nature hike on Saturday seeks to connect Angelenos to these 110 acres of open space in El Sereno. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/elephant-hill-el-sereno-conservation>
-
----
-
-## New exhibit 'Ode to Dena' explores Altadena’s deep Black artistic legacy
-
-date: 2025-06-28, updated: 2025-06-28, from: The LAist
-
-The exhibit came about because of the wildfires, but its meaning is about much more than flames. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/la-county-altadena-caam-california-african-american-museum-ode-to-dena>
-
----
-
-## In praise of jasmine, the quintessential LA scent
-
-date: 2025-06-28, updated: 2025-06-28, from: The LAist
-
-As we say goodbye to it’s oh-so-short season, we celebrate that special time when the city becomes drenched in its perfume. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/in-praise-of-jasmine-the-quintessential-la-scent>
-
----
-
-## 100 ‘elephants’ migrate into Beverly Hills with a message of co-existance
-
-date: 2025-06-28, updated: 2025-06-28, from: The LAist
-
-An art exhibition celebrating interspecies peace will open July 1 at Beverly Gardens Park. And if you have a lot of space and a lot of cash, you can take one home. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/100-elephants-migrate-into-beverly-hills-with-a-message-of-co-existance>
-
----
-
-## LA man arrested on suspicion of impersonating federal immigration agent in Huntington Park
-
-date: 2025-06-28, updated: 2025-06-28, from: The LAist
-
-The arrest comes amid heightened fears over immigration enforcement sweeps by masked agents across Southern California. 
-
-<br> 
-
-<https://laist.com/news/criminal-justice/la-man-arrested-on-suspicion-of-impersonating-federal-immigration-agent-in-huntington-park>
 

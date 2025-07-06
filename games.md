@@ -1,11 +1,35 @@
 ---
 title: games
-updated: 2025-07-05 14:08:44
+updated: 2025-07-06 06:07:21
 ---
 
 # games
 
-(date: 2025-07-05 14:08:44)
+(date: 2025-07-06 06:07:21)
+
+---
+
+## The Eternal Die team always knew Lost In Random would make a great roguelike
+
+date: 2025-07-05, updated: 2025-07-04, from: Polygon Website
+
+While 2021’s Lost in Random was far from a roguelike, the team behind the adventure game always knew its zany world and dice-based gameplay would be a great fit for the fast-paced, combat-focused genre. “Lost in Random being a roguelike sounded like a great idea and [way] to continue with the IP, but taking a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/611005/eternal-die-developer-lost-in-random-roguelike>
+
+---
+
+## Pokémon Go Eevee Community Day Classic guide
+
+date: 2025-07-05, updated: 2025-07-03, from: Polygon Website
+
+Pokémon Go is having an Eevee Community Day Classic event on both July 5 and 6 from 2-5 p.m. in your local time. As expected with a Community Day event, Eevee will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/610745/eevee-community-day-shiny-flareon-jolteon-vaporeon-umbreon-espeon-sylveon-glaceon-leafeon>
 
 ---
 
@@ -858,88 +882,4 @@ In the new horror sequel M3GAN 2.0, the killer robot doll from the first movie m
 <br> 
 
 <https://www.polygon.com/horror/609197/movie-like-m3gan-the-boy-brahms-evil-doll-horror>
-
----
-
-## The Woman in the Yard, The Day the Earth Blew Up, and every movie new to streaming this weekend
-
-date: 2025-06-28, updated: 2025-06-26, from: Polygon Website
-
-Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. Porky Pig and Daffy Duck fight sentient bubblegum monsters animated with John Carpenter-style body horror in The Day the Earth Blew Up: A Looney Tunes Movie, [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/movies/609119/new-movies-watch-woman-in-the-yard-looney-tunes-jurassic-games>
-
----
-
-## The first Demon Slayer: Infinity Castle trailer kicks off a trilogy in epic fashion
-
-date: 2025-06-28, updated: 2025-06-28, from: Polygon Website
-
-After revolutionizing the anime industry with one of the most popular first seasons in the genre’s history (followed by five more that were just as successful) and the highest-grossing anime movie of all time, the Demon Slayer franchise is ready for the beginning of the end. Demon Slayer: Kimetsu no Yaiba Infinity Castle, the first [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/anime/609538/demon-slayer-infinity-castle-trailer-trilogy>
-
----
-
-## Atomic Heart team wants to &#8216;troll flat-earthers&#8217; with new MMO The Cube
-
-date: 2025-06-28, updated: 2025-06-28, from: Polygon Website
-
-We’ve all seen our fair share of battle arenas, but a battle arena in the form of a floating, rotating, basically shape-shifting block? That’s new. It’s called (what else?) The Cube, and it’s a massive multiplayer shooter from Atomic Heart developer Mundfish. Of all the 2025 Summer Game Fest announcements, The Cube struck me, thanks [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/preview/609494/the-cube-interview-atomic-heart-developers-mundfish>
-
----
-
-## Denzel Washington’s most underrated thriller is about to leave Netflix
-
-date: 2025-06-28, updated: 2025-06-28, from: Polygon Website
-
-The Equalizer 3 wouldn’t qualify as the jewel of Denzel Washington’s filmography, but it belongs on the crown. Skeptics: Please watch this one on Netflix before it’s gone on July 1. Washington has two Oscars and nine nominations to his name, plus multiple Tonys for his stage work, and he’s devoted a good portion of [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/609740/denzel-washington-equalizer-3-netflix>
-
----
-
-## Pokémon Go ‘A Hero’s Journey’ choose a path quest steps — Zacian or Zamazenta?
-
-date: 2025-06-28, updated: 2025-06-28, from: Polygon Website
-
-If you bought the $14.99 ticket for Pokémon Go Fest 2025, you’ll have access to the “A Hero’s Journey” Special Research, which sets you up with resources one of the two Legendary dogs, Zacian and Zamazenta, including enough Crowned Energy to power one of them up. This research will only be available to you if [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/609636/heros-journey-choose-a-path-quest-steps-zacian-zamazenta-special-research>
-
----
-
-## Pokémon Go &#8216;Full Steam Ahead&#8217; Volcanion Special Research quest
-
-date: 2025-06-28, updated: 2025-06-28, from: Polygon Website
-
-If you&#8217;re participating in the full-ticketed Pokémon Go Fest: Global 2025 event, then you&#8217;ll get access to a new Special Research set focused on the Pokémon Volcanion. You will need to login during the Go Fest event (on June 28 and 29 from 10 a.m. until 6 p.m.) to get the research. Once you do [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/609615/volcanion-special-research-full-steam-ahead>
-
----
-
-## How to get Crowned Sword Zacian and Crowned Shield Zamazenta in Pokémon Go
-
-date: 2025-06-28, updated: 2025-06-28, from: Polygon Website
-
-The Crowned forms of Zacian and Zamazenta are getting their time in the spotlight as part of Pokémon Go Fest 2025, allowing you to power up these puppies into their big strong forms – that can even be used in Max Battles, even though they&#8217;re not Dynamax. Unlike previous special Legendary Pokémon that use energy, [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/609521/crowned-form-zacian-zamazenta-energy-how-to-get>
 

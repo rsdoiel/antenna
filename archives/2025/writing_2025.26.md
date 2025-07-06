@@ -1,11 +1,36 @@
 ---
 title: writing
-updated: 2025-07-05 14:08:43
+updated: 2025-07-06 06:07:20
 ---
 
 # writing
 
-(date: 2025-07-05 14:08:43)
+(date: 2025-07-06 06:07:20)
+
+---
+
+## Legal News
+
+date: 2025-07-05, from: Locus Magazine
+
+<p>A federal court judge has sanctioned Jesse David Spurlock and Vanguard Productions after finding that Spurlock forged a document that purported to give permission to use artwork by Frank Frazetta on a book cover. Frazetta Properties, LLC, has prevailed, and summary judgment against Vanguard has been reinstated. US District Judge William F. Jung wrote on June 2, 2025: “In essence, Mr. Spurlock fooled the Court (and the lawyers) into thinking  <a href="https://locusmag.com/2025/07/legal-news-8/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/legal-news-8/>
+
+---
+
+## The Unworthy by Agustina Bazterrica: Review by Gabino Iglesias
+
+date: 2025-07-05, from: Locus Magazine
+
+<p><strong>The Unworthy</strong>, Agustina Bazterrica (Scribner 978-1-66805-188-7, $28.99, 192pp, hc) March 2025.</p>
+<p>I like feeling a little lost from time to time when I’m reading. I like being pulled into a world so alien and complex that I feel destabilized, like I have to hustle and pay atten­tion so I can learn things and feel a little more comfortable, more in the know. I like having to pull apart a  <a href="https://locusmag.com/2025/07/the-unworthy-by-agustina-bazterrica-review-by-gabino-iglesias/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/the-unworthy-by-agustina-bazterrica-review-by-gabino-iglesias/>
 
 ---
 
@@ -497,80 +522,4 @@ date: 2025-06-29, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/06/slow-gods-by-claire-north-review-by-alexandra-pierce/>
-
----
-
-## Landfall by James Bradley: Review by Ian Mond
-
-date: 2025-06-28, from: Locus Magazine
-
-<p><strong>Landfall</strong>, James Bradley (Penguin Australia 978-1-76134-988-1, A$34.99, 336pp, tp) April 2025.</p>
-<p>While reading James Bradley’s <strong>Landfall</strong>, Tropi­cal Cyclone Alfred was a day away from striking the southeast coast of Queensland and northern New South Wales. It made landfall just as I fin­ished the novel, downgraded to an ex-Tropical Cyclone but still leaving devastation in its wake. Cyclones are not uncommon in Queensland. In 2011, Cyclone Yassi, a category  <a href="https://locusmag.com/2025/06/landfall-by-james-bradley-review-by-ian-mond/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/06/landfall-by-james-bradley-review-by-ian-mond/>
-
----
-
-## Meet Me at the Crossroads by Megan Giddings: Review by Abigail Nussbaum
-
-date: 2025-06-28, from: Locus Magazine
-
-<p><strong>Meet Me at the Crossroads</strong>, Megan Giddings (Amistad 978-0-06-333797-8, $28.99, 320pp, hc) June 2025.</p>
-<p>Megan Giddings’s third novel, <strong>Meet Me at the Crossroads</strong>, opens with the worldwide appearance of mysterious doors. They are impregnable and indestructible. They appear and disappear with no apparent schedule. People gather around them to pray, or speculate that they are proof of aliens, or of the theory that we are living in a  <a href="https://locusmag.com/2025/06/meet-me-at-the-crossroads-by-megan-giddings-review-by-abigail-nussbaum/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/06/meet-me-at-the-crossroads-by-megan-giddings-review-by-abigail-nussbaum/>
-
----
-
-## A Mastery of Monsters by Liselle Sambury: Review by Alexandra Pierce
-
-date: 2025-06-28, from: Locus Magazine
-
-<p><strong>A Mastery of Monsters</strong>, Liselle Sambury (McElderry 978-1-66595-736-6, $24.99, 592pp, hc). July 2025. Cover by Tom Roberts.</p>
-<p>As Liselle Sambury’s <strong>A Master of Monsters </strong>opens, Augie Black is out clubbing alone with a stolen ID. She drinks and dances until she realises that she has missed the last ferry home, so she walks to her brother’s college dorm to sleep on his floor, reflecting on her miss­ing mother’s probable  <a href="https://locusmag.com/2025/06/a-mastery-of-monsters-by-liselle-sambury-review-by-alexandra-pierce/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/06/a-mastery-of-monsters-by-liselle-sambury-review-by-alexandra-pierce/>
-
----
-
-## Magazines Received – June
-
-date: 2025-06-28, from: Locus Magazine
-
-<div class="blockquote">This list covers new SF/F/H print, online, and electronic periodicals (including regularly updated websites) seen by Locus magazine, focusing on those that publish fiction or reviews and criticism. To submit titles for listing on these pages, please send to Locus Publications, 655 13th St. #100, Oakland CA 94612 or email locus@locusmag.com.</div>
-<div>
-<div class="mynomorebulletlist">
-
-<p></p>
-<p>Space and Time</p>
-<ul>
-<li>Angela Yuriko Smith, ed.</li>
-<li>No. 148, Spring/Summer 2025, $12.00 print/$3.99 digital, bian­nual, 88pp, 21 x 27½ </li></ul></div></div> <a href="https://locusmag.com/2025/06/magazines-received-june-3/" class="read-more">...Read More </a> 
-
-<br> 
-
-<https://locusmag.com/2025/06/magazines-received-june-3/>
-
----
-
-## Risky Business: Josh Pearce Reviews Mission: Impossible — The Final Reckoning
-
-date: 2025-06-28, from: Locus Magazine
-
-<div class="p-pdf_iframe__page" aria-label="Page 2" data-page-number="2">
-<div class="textLayer">
-<div class="p-pdf_iframe__page" aria-label="Page 1" data-page-number="1">
-<div class="textLayer">
-<p class="western">Amazing action, convoluted writing. Recommended for the spectacle and the stunts, just don&#8217;t expect anything to make much sense.</p>
-<p class="western">Though the franchise started out as spy-action, over the decades it has featured increasingly improbable villains, vehicles, superweapons, and MacGuffins until here we are now at full-on science fiction <b>Mission: Impossible</b>, with a malevolent AI threatening to take over the world&#8217;s nuclear arsenals and Skynet the human race out of </p></div></div></div></div> <a href="https://locusmag.com/2025/06/risky-business-josh-pearce-reviews-mission-impossible-the-final-reckoning/" class="read-more">...Read More </a> 
-
-<br> 
-
-<https://locusmag.com/2025/06/risky-business-josh-pearce-reviews-mission-impossible-the-final-reckoning/>
 

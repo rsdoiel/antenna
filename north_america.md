@@ -1,11 +1,11 @@
 ---
 title: north america
-updated: 2025-07-05 14:08:39
+updated: 2025-07-06 06:07:15
 ---
 
 # north america
 
-(date: 2025-07-05 14:08:39)
+(date: 2025-07-06 06:07:15)
 
 ---
 
@@ -52,8 +52,8 @@ date: 2025-07-03, from: The Contrarian
 A recording from The Contrarian's live video 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167373777/01977e7a0970d502d3d8c44f72043f05.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/167373777/01977e7a0970d502d3d8c44f72043f05.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167373777/e042c440ed640d7298e8e89f803b827e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167373777/e042c440ed640d7298e8e89f803b827e.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/the-tea-w-april-ryan-ft-gov-wes-moore>
 
@@ -66,8 +66,8 @@ date: 2025-07-03, from: The Contrarian
 The &#8220;Big, Beautiful Bill&#8221; is a big, dangerous lie. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167476799/e535cef56e1dbf9b9d5f87f149e40f3d.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/167476799/e535cef56e1dbf9b9d5f87f149e40f3d.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167476799/3334d31de33093f9a5197275d1236905.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167476799/3334d31de33093f9a5197275d1236905.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/the-big-bold-betrayal>
 
@@ -118,8 +118,8 @@ date: 2025-07-03, from: The Contrarian
 "We know that we have white supremacist, patriarchal origins to our Constitution. But we also know that we quickly learned that the original constitution was unsustainable for American democracy" 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167296889/7a41eb0a688001506d5abc8e0ef6e22f.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/167296889/7a41eb0a688001506d5abc8e0ef6e22f.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167296889/224ad1aece3477d61fcd016e2a1e7ef8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167296889/224ad1aece3477d61fcd016e2a1e7ef8.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/waiting-on-the-judicial-branch-to>
 
@@ -204,8 +204,8 @@ date: 2025-07-02, from: The Contrarian
 "They know that the more people learn about this, including Republicans, the more they oppose it." 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167381832/007870ba003da3c66fbc86c94eddba67.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/167381832/007870ba003da3c66fbc86c94eddba67.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167381832/2161e8a844c805c2ca6cf6d87554e16a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167381832/2161e8a844c805c2ca6cf6d87554e16a.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/how-they-vote-tells-you-everything>
 
@@ -218,8 +218,8 @@ date: 2025-07-02, from: The Contrarian
 Sean &#8220;Diddy&#8221; Combs was just acquitted of the most serious charges against him&#8212;sex trafficking and racketeering. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167389903/60862e163f9a2ca42b21dc6308c5db7b.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/167389903/60862e163f9a2ca42b21dc6308c5db7b.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167389903/0959f2a8d39b048508aed10206837290.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167389903/0959f2a8d39b048508aed10206837290.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/eliza-orlins-explains-the-diddy-verdict>
 
@@ -244,8 +244,8 @@ date: 2025-07-02, from: The Contrarian
 A recording from Jennifer Rubin's live video with Rep. Raskin 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167384020/89c04ae6cb06a351cba4e7fada5e4e8b.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/167384020/89c04ae6cb06a351cba4e7fada5e4e8b.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167384020/418fa5c80e4c13e752321aba00dbbcf9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167384020/418fa5c80e4c13e752321aba00dbbcf9.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/jen-rubin-with-rep-jamie-raskin>
 
@@ -682,28 +682,4 @@ date: 2025-06-29, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-schools-out-zohrans-in/>
-
----
-
-## Contrarians to SCOTUS: we got your class action right here
-
-date: 2025-06-28, from: The Contrarian
-
-Publisher's Roundup 24 
-
-<br> 
-
-<https://contrarian.substack.com/p/contrarians-to-scotus-we-got-your>
-
----
-
-##  YOU LOVE TO SEE IT: Psychedelic Southern Comfort 
-
-date: 2025-06-28, from: The Lever News
-
- Republicans stumble in their war on the poor, a big state opens its mind, citizens take on dark money, and a prescription emerges for pharma profiteering.  
-
-<br> 
-
-<https://www.levernews.com/psychedelic-southern-comfort/>
 

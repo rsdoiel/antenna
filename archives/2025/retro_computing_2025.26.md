@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-07-05 14:08:46
+updated: 2025-07-06 06:07:23
 ---
 
 # retro computing
 
-(date: 2025-07-05 14:08:46)
+(date: 2025-07-06 06:07:23)
+
+---
+
+## RISC OS Coding double bill weekend
+
+date: 2025-07-05, from: Icon Bar, RISC OS News
+
+This weekend you are in for a treat if you are interested in RISC OS coding. And you don't even have to leave the house.... 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2219.html>
 
 ---
 
