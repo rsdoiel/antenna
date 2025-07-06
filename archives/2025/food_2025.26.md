@@ -1,11 +1,11 @@
 ---
 title: food
-updated: 2025-07-06 06:07:25
+updated: 2025-07-06 14:07:51
 ---
 
 # food
 
-(date: 2025-07-06 06:07:25)
+(date: 2025-07-06 14:07:51)
 
 ---
 
@@ -18,6 +18,22 @@ date: 2025-07-06, from: The Sprudge
 <br> 
 
 <https://sprudge.com/fireworks-bald-eagles-and-a-fine-selection-of-coffees-371063.html>
+
+---
+
+## Get Your Grill On!
+
+date: 2025-07-06, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/07/Get-Your-Grill-On-Recipes.jpg"/></div>
+<p>The best grilling recipes of all time! Sizzling hot and tasty recipes for the grill that are quick and super easy to make! It&#8217;s officially Summer and that means that grilling season is here! (Well, for those of us that were not willing to bundle up, get out and fire up the grill all winter...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/25-recipes-for-grill/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/25-recipes-for-grill/">Get Your Grill On!</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/25-recipes-for-grill/>
 
 ---
 

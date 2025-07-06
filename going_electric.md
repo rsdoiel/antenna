@@ -1,11 +1,27 @@
 ---
 title: going electric
-updated: 2025-07-06 06:07:25
+updated: 2025-07-06 14:07:51
 ---
 
 # going electric
 
-(date: 2025-07-06 06:07:25)
+(date: 2025-07-06 14:07:51)
+
+---
+
+## Honda now has an electric Ruckus. Will they bring it to the US?
+
+date: 2025-07-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Honda-zoomer-e-ruckus-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Honda Ruckus has earned cult status thanks to its minimalist styling, exposed frame, and seemingly endless customizability. The scooter, also known in international markets as the Honda Zoomer, has spent years being seen as a blank canvas for scooter tuners, urban commuters, and anyone who just wanted something simple, small, and kind of weird to zip around town. A few years ago, Honda finally answered the call for an updated version by announcing and producing the “Zoomer e:”, which was an electric version of the Honda Ruckus. So where is it?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,electric-motorcycle,honda" data-layer-viewtype="unknown" data-post-id="420843" href="https://electrek.co/2025/07/06/honda-now-has-an-electric-ruckus-will-they-bring-it-to-the-us/#more-420843" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/06/honda-now-has-an-electric-ruckus-will-they-bring-it-to-the-us/>
 
 ---
 

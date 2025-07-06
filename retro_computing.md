@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-07-06 06:07:23
+updated: 2025-07-06 14:07:50
 ---
 
 # retro computing
 
-(date: 2025-07-06 06:07:23)
+(date: 2025-07-06 14:07:50)
+
+---
+
+## b.log 2025/07/06 - Going to Big Town, Chocolate bar drinks - review, Scumbags, Imperial 200 Typewriter.
+
+date: 2025-07-06, from: Richard Murray's blog
+
+Going to Big Town, Chocolate bar drinks - review, Scumbags, Imperial 200 Typewriter. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250706>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: science and technology
-updated: 2025-07-06 06:07:18
+updated: 2025-07-06 14:07:44
 ---
 
 # science and technology
 
-(date: 2025-07-06 06:07:18)
+(date: 2025-07-06 14:07:44)
+
+---
+
+## Stalkerware firm gets scooped by SQL-slinging security snoop
+
+date: 2025-07-06, updated: 2025-07-06, from: The Register (UK I.T. News)
+
+<h4>Also, Swiss ransomware posture looks like its cheese, the CVE Program wants YOU, more sus checks and more</h4> <p><strong>Infosec In Brief</strong>  A security researcher looking at samples of stalkerware discovered an SQL vulnerability that allowed him to steal a database of 62,000 user accounts. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/06/infosec_roundup/>
+
+---
+
+## Ingram Micro confirms ransomware behind multi-day outage
+
+date: 2025-07-06, updated: 2025-07-06, from: The Register (UK I.T. News)
+
+<h4>SafePay crew claims responsibility for intrusion at one of world&#39;s largest tech distributors</h4> <p>Ingram Micro, one of the world’s largest distributors, has confirmed it is trying to restore systems following a ransomware attack.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/06/ingram_micro_confirms_ransomware_behind/>
 
 ---
 

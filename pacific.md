@@ -1,11 +1,107 @@
 ---
 title: pacific
-updated: 2025-07-06 06:07:17
+updated: 2025-07-06 14:07:43
 ---
 
 # pacific
 
-(date: 2025-07-06 06:07:17)
+(date: 2025-07-06 14:07:43)
+
+---
+
+## Life goes on: For Taiwanese, China’s threats of invasion are a part of life
+
+date: 2025-07-06, from: Pacific Island Times
+
+An aerial view o f Taipei. Photo by Mar-Voc Cagurangan/Pacific Island Times  By Mar-Vic Cagurangan   Ramping up its military pressure on... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/life-goes-on-for-taiwanese-china-s-threats-of-invasion-are-a-part-of-life>
+
+---
+
+## Fiji’s navigates pediatric palliative care amid limited resources
+
+date: 2025-07-06, from: Pacific Island Times
+
+Fiji Cancer Society launched its Community Palliative Care Program in 2022. Photo courtesy of Women's Fund Fiji By Ron Rocky Coloma When... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/fiji-s-navigates-pediatric-palliative-care-amid-limited-resources>
+
+---
+
+## Blind visionaries
+
+date: 2025-07-06, from: Pacific Island Times
+
+Democracy, however, is also a system of government fueled by promises of free goods and services. Not surprisingly, throughout known human history, the root of most government crises lies in the failure to finance the benefits pledged by those in power. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/blind-visionaries>
+
+---
+
+## Teaching and learning in the age of AI: Guam rewriting its education system  
+
+date: 2025-07-06, from: Pacific Island Times
+
+By Ron Rocky Coloma   When Arleen Suplido teaches her eighth graders about personal finance, she doesn’t just hand them a worksheet. She... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/teaching-and-learning-in-the-age-of-ai-guam-rewriting-its-education-system>
+
+---
+
+## NZDF not considering recruiting from Pacific nations
+
+date: 2025-07-06, from: 
+
+New Zealand's Defence Force is not considering recruiting from across the Pacific as talk continues of Australia doing so. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566154/nzdf-not-considering-recruiting-from-pacific-nations>
+
+---
+
+## 'We're still in disbelief': Tongan archers return home after record-breaking run in Palau
+
+date: 2025-07-06, from: 
+
+Tonga's archery team headed home on Saturday after winning an unprecedented 10 medals across recurve and compound events, still stunned by their remarkable run at the 2025 Pacific Mini Games. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566090/we-re-still-in-disbelief-tongan-archers-return-home-after-record-breaking-run-in-palau>
+
+---
+
+## The Pacific isn’t remote—it’s simply ignored
+
+date: 2025-07-06, from: Pacific Island Times
+
+The association with the South Pacific is undoubtedly due to the famous James Michener book “Tales of the South Pacific,” which was made into a movie and a Broadway play that most high school drama departments have staged at one time or another. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-pacific-isn-t-remote-it-s-simply-ignored>
+
+---
+
+## Wanderlust: Seeing the world one cruise at a time
+
+date: 2025-07-06, from: Pacific Island Times
+
+Lessons from Everyday Life By Thedore Lewis   Bridgman, MI —I grew up in Holly, Michigan, and by the time I reached my high school days... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/wanderlust-seeing-the-world-one-cruise-at-a-time>
 
 ---
 
@@ -196,18 +292,6 @@ Aotearoa's champion Tongan-Kiwi weightlifter David Liti won two gold medals in t
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/566107/nz-team-flagbearer-david-liti-lifts-through-grief-to-win-double-gold-at-pacific-mini-games>
-
----
-
-## 'We're still in disbelief': Tongan archers return home after record-breaking run in Palau
-
-date: 2025-07-05, from: 
-
-Tonga's archery team headed home on Saturday after winning an unprecedented 11 medals across recurve and compound events, still stunned by their remarkable run at the 2025 Pacific Mini Games. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/566090/we-re-still-in-disbelief-tongan-archers-return-home-after-record-breaking-run-in-palau>
 
 ---
 

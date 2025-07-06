@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-07-06 06:07:22
+updated: 2025-07-06 14:07:48
 ---
 
 # libraries
 
-(date: 2025-07-06 06:07:22)
+(date: 2025-07-06 14:07:48)
 
 ---
 
@@ -356,6 +356,19 @@ Uzun, Sarp; Pant, Asmita; Bartoszek, Ewelina; Gueguen, Paul; Frei, Stefan; Heusl
 <br> 
 
 <http://hdl.handle.net/20.500.11850/741629>
+
+---
+
+## Language, Ethnicity, and Political Preferences
+
+date: 2025-07-01, from: ETH Zurich, recently added
+
+Knott, Eleanor; Slav, Maxim; Gobbat, Margherita
+Baltag, Dorina; Dollbaum, Jan Matti; Eaglestone, Amy; Knott, Eleanor; Marandici, Ion; Perović, Jeronim; Suveica, Svetlana; Ursprung, Daniel 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/743886>
 
 ---
 

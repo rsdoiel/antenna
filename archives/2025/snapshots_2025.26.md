@@ -1,11 +1,74 @@
 ---
 title: snapshots
-updated: 2025-07-06 06:07:27
+updated: 2025-07-06 14:07:53
 ---
 
 # snapshots
 
-(date: 2025-07-06 06:07:27)
+(date: 2025-07-06 14:07:53)
+
+---
+
+## Neutralizing Drones
+
+date: 2025-07-06, updated: 2025-07-06, from: Tedium site
+
+The evolution of drone shows, a concept that went from an art collective experiment in de-fanging warfare tech to a municipal favorite in record time. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17081425/drone-show-fireworks-evolution>
+
+---
+
+## Manually Flashing Firmware on the Star Labs StarBook
+
+date: 2025-07-06, from: mrusme blog
+
+A short write-up on how to manually update the firmware on your Star Labs
+StarBook. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/manually-flashing-firmware-on-the-star-labs-starbook/>
+
+---
+
+## Organizándonos para afrontar la crueldad
+
+date: 2025-07-06, from: Our Future.org
+
+Pronto, cada uno de nosotros tendrá su propia historia que contar sobre un hospital que cerró o un ser querido que falleció, se enfermó, pasó hambre o se vio obligado a vivir en la calle para que Trump pueda dar más regalos a sus amigos multimillonarios. Cuando Hakeem Jeffries, el líder demócrata en el Congreso, [&#8230;]
+<p><a href="https://ourfuture.org/20250706/organizandonos-para-afrontar-la-crueldad" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://ourfuture.org/20250706/organizandonos-para-afrontar-la-crueldad>
+
+---
+
+## Organizing to Confront Cruelty
+
+date: 2025-07-06, from: Our Future.org
+
+Every one of us will soon have our own story to tell about a hospital that closed or a loved one who died, fell sick, went hungry, or was forced onto the street to pay for Trump’s tax breaks for billionaires. When Democratic Leader Hakeem Jeffries took the floor of Congress for his last speech [&#8230;]
+<p><a href="https://ourfuture.org/20250706/organizing-to-meet-a-moment-of-cruelty" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://ourfuture.org/20250706/organizing-to-meet-a-moment-of-cruelty>
+
+---
+
+## “Medical Superintelligence”
+
+date: 2025-07-06, from: Chris Coyier blog
+
+Benchmarked against real-world case records published each week in the New England Journal of Medicine, we show that the Microsoft AI Diagnostic Orchestrator (MAI-DxO) correctly diagnoses up to 85% of NEJM case proceedings, a rate&#160;more than four times higher than a group of experienced physicians.&#160;MAI-DxO also gets to the correct diagnosis more cost-effectively than physicians. [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/07/06/medical-superintelligence/>
 
 ---
 

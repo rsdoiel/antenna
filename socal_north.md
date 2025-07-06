@@ -1,11 +1,50 @@
 ---
 title: socal north
-updated: 2025-07-06 06:07:16
+updated: 2025-07-06 14:07:42
 ---
 
 # socal north
 
-(date: 2025-07-06 06:07:16)
+(date: 2025-07-06 14:07:42)
+
+---
+
+## ‘Joy turned into shame’: California’s Latino Caucus agonized over slashing immigrant health care
+
+date: 2025-07-06, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/06112533/cal3-919626-codupuvb-132113-dV82z3aG-1024x682.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/06112533/cal3-919626-codupuvb-132113-dV82z3aG-1024x682.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/06112533/cal3-919626-codupuvb-132113-dV82z3aG-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/06112533/cal3-919626-codupuvb-132113-dV82z3aG-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/06112533/cal3-919626-codupuvb-132113-dV82z3aG-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/06112533/cal3-919626-codupuvb-132113-dV82z3aG-1536x1024.jpeg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/06112533/cal3-919626-codupuvb-132113-dV82z3aG-1200x800.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/06112533/cal3-919626-codupuvb-132113-dV82z3aG-1568x1045.jpeg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/06112533/cal3-919626-codupuvb-132113-dV82z3aG-400x267.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/06112533/cal3-919626-codupuvb-132113-dV82z3aG.jpeg 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>One of the most powerful political blocs in California, the Latino Caucus had to balance reining in Medi-Cal’s rising costs with helping undocumented immigrants. All but four overcame their misgivings and voted to freeze new enrollment and make other cuts to immigrant health insurance.</p>
+<p>The post <a href="https://lbpost.com/news/joy-turned-into-shame-californias-latino-caucus-agonized-over-slashing-immigrant-health-care">‘Joy turned into shame’: California’s Latino Caucus agonized over slashing immigrant health care</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/joy-turned-into-shame-californias-latino-caucus-agonized-over-slashing-immigrant-health-care>
+
+---
+
+## Triple-digit heatwave starting Tuesday, elevating fire risks
+
+date: 2025-07-06, updated: 2025-07-06, from: The LAist
+
+Heatwave expected to last through Friday, with hottest days forecast for Wednesday and Thursday. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/triple-digit-heatwave-could-hit-starting-tuesday-elevating-fire-risk>
+
+---
+
+## NASA spots a new comet flying in from a distant star system
+
+date: 2025-07-06, updated: 2025-07-06, from: The LAist
+
+The newly discovered interstellar visitor is just the third of its kind and fascinates astronomers who hope to learn from it about galaxies far, far away. 
+
+<br> 
+
+<https://laist.com/news/nasa-spots-a-new-comet-flying-in-from-a-distant-star-system>
 
 ---
 
@@ -121,7 +160,7 @@ The “End the Occupation” march began outside City Hall as hundreds rallied a
 
 ## Madre Fire burns over 70k acres, more 'extreme' fire weather ahead
 
-date: 2025-07-04, updated: 2025-07-04, from: The LAist
+date: 2025-07-04, updated: 2025-07-06, from: The LAist
 
 The Madre Fire burning in San Luis Obispo near Highway 166 is California's largest fire this year. 
 
@@ -183,7 +222,7 @@ Ahead of July 4th celebrations, stockpiles of fireworks exploded inside homes in
 
 date: 2025-07-04, from: Longbeach Post
 
-<figure><img width="1024" height="821" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119-1024x821.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119-1024x821.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119-300x241.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119-768x616.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119-135x108.jpg 135w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119-400x321.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119.jpg 1087w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="821" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119-1024x821.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119-1024x821.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119-300x241.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119-768x616.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119-135x108.jpg 135w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119-400x321.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/04114936/img-7510-619527-hazppky7-967990-fcIqnqKu-e1751655032119.jpg 1087w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The Merced County Sheriff’s Office may soon offer up the more than 100 cats saved from a Long Beach Woman’s U-Haul truck for adoption. </p>
 <p>The post <a href="https://lbpost.com/news/cats-seized-from-long-beach-may-soon-be-up-for-adoption-police-say">Cats seized from Long Beach may soon be up for adoption, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -198,7 +237,7 @@ date: 2025-07-04, from: Longbeach Post
 
 date: 2025-07-04, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The crash occurred about 9:20 p.m. Thursday near the intersection of Downey Avenue and South Street, the Long Beach Police Department reported.  </p>
 <p>The post <a href="https://lbpost.com/news/motorcyclist-killed-passenger-injured-in-north-long-beach-collision">Motorcyclist killed, passenger injured in North Long Beach collision</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

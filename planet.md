@@ -1,11 +1,125 @@
 ---
 title: planet
-updated: 2025-07-06 06:07:14
+updated: 2025-07-06 14:07:39
 ---
 
 # planet
 
-(date: 2025-07-06 06:07:14)
+(date: 2025-07-06 14:07:39)
+
+---
+
+## Dublin Bus takes trip down memory lane with vintage fleet
+
+date: 2025-07-06, from: RTÉ News
+
+Dublin Bus celebrated 100 years of public bus transport in the city centre today, featuring a vintage fleet reenacting the service's first ever route. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0706/1522129-vitange-buses-dublin/>
+
+---
+
+## ‘Welcome!’ Pope Leo arrives in Castel Gandolfo 
+
+date: 2025-07-06, from: Vatican News
+
+
+                    <p>Pope Francis arrives at Castel Gandolfo, where he will spend a period of rest, at around 5 p.m. A large group of faithful, including a group of nuns, waited hours for his arrival. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/welcome-pope-leo-arrives-in-castel-gandolfo.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/welcome-pope-leo-arrives-in-castel-gandolfo.html>
+
+---
+
+## Supersub O'Donoghue fires 14-man Tipperary into final
+
+date: 2025-07-06, from: RTÉ News
+
+Tipperary came from behind with 14 men to edge an intense battle with Kilkenny 4-20 to 0-30 and set up a first All-Ireland final meeting with Munster rivals Cork. 
+
+<br> 
+
+<https://www.rte.ie/sport/hurling/2025/0706/1522075-supersub-odonoghue-fires-14-man-tipperary-into-final/>
+
+---
+
+## HSE chief highlights issues with third party insourcing
+
+date: 2025-07-06, from: RTÉ News
+
+HSE Chief Executive Bernard Gloster has said an increase in dependency on third party "insourcing" in hospitals can create a number of problems. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0706/1522117-third-party-insourcing/>
+
+---
+
+## All-Ireland semi-final recap: Kilkenny 0-30 Tipp 4-20
+
+date: 2025-07-06, from: RTÉ News
+
+Ancient foes, Kilkenny and Tipperary, met in the All-Ireland SHC final four with Tipp earning the right to meet Cork in the decider in two weeks' time. 
+
+<br> 
+
+<https://www.rte.ie/sport/hurling/2025/0706/1522116-all-ireland-shc-semi-final-kilkenny-tipperary-updates/>
+
+---
+
+## Israel to send delegation to Qatar for Gaza ceasefire talks
+
+date: 2025-07-06, from: Vatican News
+
+
+                    <p>Israel will send a delegation to Qatar for proximity talks with Hamas on the latest proposal for a Gaza ceasefire and hostage release deal.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/israel-to-send-delegation-to-qatar-for-gaza-ceasefire-talks.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/israel-to-send-delegation-to-qatar-for-gaza-ceasefire-talks.html>
+
+---
+
+## Concerns mount over the use of chemical weapons in Ukraine
+
+date: 2025-07-06, from: Vatican News
+
+
+                    <p>Western intelligence raises grave concerns over Moscow's military conduct, calling for restraint and investigation.
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/concernd-mount-over-the-use-of-chemical-weapons-in-ukraine.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/concernd-mount-over-the-use-of-chemical-weapons-in-ukraine.html>
+
+---
+
+## Colombia: Suspect held in attack on presidential candidate
+
+date: 2025-07-06, from: Vatican News
+
+
+                    <p>Authorities in Colombia confirm that they have arrested a person they claim is the main conspirator in the assassination attempt on a Presidential Candidate, who remains in critical condition in hospital after being shot twice in the head at a political rally.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/colombia-suspect-held-in-attack-on-senator-miguel-uribe.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/colombia-suspect-held-in-attack-on-senator-miguel-uribe.html>
 
 ---
 
@@ -53,11 +167,11 @@ The closure of the country's main prison for housing sex offenders has been reco
 
 ---
 
-## Ceasefire talks to begin in Doha as 33 killed in Gaza
+## Ceasefire talks to begin in Doha as 38 killed in Gaza
 
 date: 2025-07-06, from: RTÉ News
 
-International mediators seeking to secure a ceasefire deal to end the Israel-Hamas war in Gaza have informed the Palestinian group that negotiations would resume today, while officials in the embattled enclave say 33 Palestinians have died in the latest Israeli strikes. 
+An Israeli delegation is in Qatar for talks on a possible Gaza hostage and ceasefire deal, an Israeli official said, as hospital officials in Gaza said 38 people were killed in Israeli airstrikes. 
 
 <br> 
 
@@ -93,6 +207,18 @@ A reduction in the minimum size of studio apartments is among the measures that 
 
 ---
 
+## Man charged over alleged arson attack on Melbourne synagogue with worshippers inside
+
+date: 2025-07-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7578340.1751806565!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/australia-antisemitism.jpg' alt='A group of people stand outside a building with microphones pointed at them.' width='620' height='349' title='Australian government lawmaker Sarah Witty, center left, Home Affairs Minister Tony Burke, center, and Jewish government lawmaker Mark Dreyfus, center right, address the media outside the East Melbourne Synagogue in Melbourne, Australia Sunday, July 6, 2025, after someone set fire to the synagogue&apos;s front door two days earlier. (AP Photo/Rod McGuirk)'/><p>Australian police have charged a man in connection with an alleged arson attack on a Melbourne synagogue with worshippers inside the building, the latest in a series of incidents targeting the nation's Jewish community.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/man-charged-melbourne-australia-synagogue-1.7578337?cmp=rss>
+
+---
+
 ## Tibetan spiritual leader Dalai Lama marks 90th birthday
 
 date: 2025-07-06, from: RTÉ News
@@ -102,18 +228,6 @@ The spiritual leader of Tibetan Buddhists, the Dalai Lama, has turned 90 after a
 <br> 
 
 <https://www.rte.ie/news/world/2025/0706/1522087-dalai-lama/>
-
----
-
-## Man charged over alleged arson attack on Melbourne synagogue with worshippers inside
-
-date: 2025-07-06, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7578340.1751787158!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/australia-antisemitism.jpg' alt='A group of people stand outside a building with microphones pointed at them.' width='620' height='349' title='Australian government lawmaker Sarah Witty, center left, Home Affairs Minister Tony Burke, center, and Jewish government lawmaker Mark Dreyfus, center right, address the media outside the East Melbourne Synagogue in Melbourne, Australia Sunday, July 6, 2025, after someone set fire to the synagogue&apos;s front door two days earlier. (AP Photo/Rod McGuirk)'/><p>Australian police have charged a man in connection with an alleged arson attack on a Melbourne synagogue with worshippers in the building, the latest in a series of incidents targeting the nation's Jewish community.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/man-charged-melbourne-australia-synagogue-1.7578337?cmp=rss>
 
 ---
 
@@ -201,6 +315,18 @@ BRICS leaders meeting in Rio de Janeiro are expected to decry US President Donal
 
 ---
 
+## US says it is close to agreements on several trade deals
+
+date: 2025-07-06, from: RTÉ News
+
+US Treasury Secretary Scott Bessent has said that the US is close to reaching agreements on several trade deals ahead of this Wednesday's deadline when higher tariffs were due to kick in. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0706/1522066-tariffs-trade/>
+
+---
+
 ## Man charged with setting fire to synagogue in Australia
 
 date: 2025-07-06, from: RTÉ News
@@ -213,11 +339,11 @@ A man suspected of setting fire to an Australian synagogue as worshippers ate di
 
 ---
 
-## Texas flood death toll rises to 50, including 15 children
+## Texas flood death toll rises to 67, including 21 children
 
 date: 2025-07-05, from: RTÉ News
 
-At least 50 people, including 15 children, are confirmed to have died following flash floods in central Texas, authorities have said, as rescuers continued a frantic search for people who were still missing. 
+The death toll from catastrophic floods in Texas reached at least 67, including 21 children, as the search for girls missing from a summer camp entered a third day. 
 
 <br> 
 
@@ -317,7 +443,7 @@ Cork strolled into the All-Ireland SHC final with a ruthless scoring display aga
 
 date: 2025-07-05, from: CBC, Indigenious News
 
-<img src='https://i.cbc.ca/1.7578249.1751739113!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/tataskweyak-wildfire-rcmp.jpg' alt='A vehicle&apos;s view of the road ahead of it is seen from the dashboard, with two vehicles sitting in front of it.' width='620' height='349' title='RCMP vehicles block access to road heading to Tataskweyak Cree Nation in northern Manitoba on Saturday, July 5, 2025.'/><p>Several homes on Tataskweyak Cree Nation in northern Manitoba have been destroyed by wildfire that has forced nearly 200 people to evacuate, the community's chief and council said in a social media post on Saturday.</p> 
+<img src='https://i.cbc.ca/1.7578511.1751827601!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/tastakweyak-fire.jpg' alt='Heavy smoke around a fire on a wooded area.' width='620' height='349' title='Photo of the fire near Tataskweyak Cree Nation posted on social media by Coun. Ivan Keeper on Sunday, July 6, 2025.'/><p>Several homes on Tataskweyak Cree Nation in northern Manitoba have been destroyed by wildfire that has forced nearly 200 people to evacuate, the community's chief and council said in a social media post on Saturday.</p> 
 
 <br> 
 
@@ -406,6 +532,18 @@ date: 2025-07-05, from: CBC, World News
 
 ---
 
+## Death toll rises in Texas floods, with summer campers among dozens still missing
+
+date: 2025-07-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/e5316b4c-9d59-4523-84a7-d552a2b10167,1751823871115/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C105%2C2048%2C1152%29%3BResize%3D%28620%29' alt='Stuffed animals after flood in Texas.' width='620' height='349' title=''/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/search-texas-flood-third-day-1.7578368?cmp=rss>
+
+---
+
 ## UN chief condemns Russian strikes on Ukraine, warns of nuclear safety risk
 
 date: 2025-07-05, from: United Nations, Top Stories
@@ -420,7 +558,7 @@ The UN Secretary-General on Saturday strongly condemned Russia’s latest wave o
 
 ## ‘A spirit of oneness’: Cooperatives cultivating peace in South Sudan
 
-date: 2025-07-05, from: United Nations, Top Stories
+date: 2025-07-05, from: United Nations, Economic Development
 
 Within one year, a maize and sorghum cooperative of 20 members in the Central Equatorial State of South Sudan had grown to over 150 members allowing many members to boost their income and provide for their families for the first time. 
 
@@ -439,6 +577,18 @@ date: 2025-07-05, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/news/canada/montreal/journalists-kahnawake-survival-concordia-1.7575820?cmp=rss>
+
+---
+
+## First Person: Japanese UN volunteer ‘motivated by the passion of others’ to support peace
+
+date: 2025-07-05, from: United Nations, UN Affairs
+
+A United Nations volunteer from Japan has said as a teenager he was motivated by the “passion” of young people he met on an exchange programme to contribute to peace and development initiatives. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1164911>
 
 ---
 
@@ -2025,7 +2175,7 @@ date: 2025-07-03, from: Vatican News
 
 ## The Sevilla Commitment: A vital step to rebuild trust in global cooperation
 
-date: 2025-07-03, from: United Nations, Top Stories
+date: 2025-07-03, from: United Nations, Economic Development
 
 Civil society organisations have welcomed the consensus reached at the landmark sustainable development conference concluding this Thursday in Sevilla, while cautioning that real progress will depend on sustained action. 
 
@@ -2037,7 +2187,7 @@ Civil society organisations have welcomed the consensus reached at the landmark 
 
 ## Chile and Argentina among coldest places on Earth as polar anticyclone grips region
 
-date: 2025-07-03, from: United Nations, Top Stories
+date: 2025-07-03, from: United Nations, Climate Change
 
 Temperatures across lower South America have plummeted – falling as low as -15° Celsius or 5° Fahrenheit in some places – as a rare polar cold wave grips the region, the World Meteorological Organization (WMO) reported on Thursday.&nbsp; 
 
@@ -2073,7 +2223,7 @@ The UN Secretary-General is “appalled” by the deepening humanitarian crisis 
 
 ## Landless and locked out: Young farmers struggle for a future
 
-date: 2025-07-03, from: United Nations, Top Stories
+date: 2025-07-03, from: United Nations, Economic Development
 
 Agricultural land is more than just a resource to produce food – for many older adults around the world, a land deed is the only safety net they have as they enter their old age. As a result, they hold onto it tightly.&nbsp;&nbsp; 
 
@@ -2085,7 +2235,7 @@ Agricultural land is more than just a resource to produce food – for many olde
 
 ## With sustainable development under threat, Sevilla summit rekindles hope and unity
 
-date: 2025-07-03, from: United Nations, Top Stories
+date: 2025-07-03, from: United Nations, Economic Development
 
 The landmark Financing for Development conference in Sevilla has concluded with a renewed sense of resolve and a focus on action that can change lives worldwide, according to UN Deputy Secretary-General Amina Mohammed. 
 
@@ -3062,7 +3212,7 @@ Four people have died in Spain, two in France and two in Italy as an early summe
 
 ## Space is not the final frontier – it is the foundation of our future: UN deputy chief
 
-date: 2025-07-02, from: United Nations, Top Stories
+date: 2025-07-02, from: United Nations, Economic Development
 
 Space technologies are no longer a distant frontier but a critical foundation for daily life and global development, the UN Deputy Secretary-General said on Wednesday. 
 
@@ -3074,7 +3224,7 @@ Space technologies are no longer a distant frontier but a critical foundation fo
 
 ## INTERVIEW: Sevilla ‘a critical test’ of multilateralism
 
-date: 2025-07-02, from: United Nations, Top Stories
+date: 2025-07-02, from: United Nations, Economic Development
 
 Nations taking part in a flagship UN conference have pledged to address the debt crisis in the Global South and boost sustainable development. However, the real test will be whether or not these commitments will be translated into action. 
 
@@ -3086,7 +3236,7 @@ Nations taking part in a flagship UN conference have pledged to address the debt
 
 ## Sevilla: Without sustainable development, there is neither hope nor security
 
-date: 2025-07-02, from: United Nations, Top Stories
+date: 2025-07-02, from: United Nations, Economic Development
 
 A senior UN official has told UN News that the global development challenge is not lack of money, but how to align public and private capital flows. The Sevilla Agreement adopted this week, sets out a roadmap for all UN Member States — except the US which pulled out earlier this month — with the aim of mobilizing that capital. 
 
@@ -3098,7 +3248,7 @@ A senior UN official has told UN News that the global development challenge is n
 
 ## Drowning in debt: New forum in Sevilla offers borrowers chance to rebalance the books
 
-date: 2025-07-02, from: United Nations, Top Stories
+date: 2025-07-02, from: United Nations, Economic Development
 
 A new mechanism offering debt-distressed countries a way to coordinate action and amplify their voice in the global financial system, has been launched at the UN’s pivotal sustainable development conference in Sevilla.&nbsp; 
 
@@ -3792,7 +3942,7 @@ date: 2025-07-01, from: CBC, World News
 
 date: 2025-07-01, from: CBC, World News
 
-<img src='https://i.cbc.ca/ais/adb9f66a-0f97-4970-8685-57b01bfe097b,1749664085815/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Donald Trump and Elon Musk, &quot;staggering escalation&quot; text inbetween them' width='620' height='349' title=''/><p></p> 
+<img src='https://i.cbc.ca/1.7546603.1748481520!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/elon-musk-attending-a-meeting-in-the-oval-office.jpg' alt='A side profile of the face of Elon Musk.' width='620' height='349' title='Elon Musk attends a meeting between U.S. President Donald Trump and South Africa President Cyril Ramaphosa in the Oval Office at the White House on May 21, 2025 in Washington, DC.'/><p></p> 
 
 <br> 
 
@@ -4152,7 +4302,7 @@ Conflicts in the Middle East and North Africa in the last two years reportedly k
 
 ## ‘The margins of the budget’: Gender equality in developing countries underfunded by $420 billion annually
 
-date: 2025-07-01, from: United Nations, Top Stories
+date: 2025-07-01, from: United Nations, Economic Development
 
 Developing countries currently face a staggering $420 billion annual gap in the funding needed to achieve gender equality, UN Women estimates. This gap means that programmes and services for women and girls are chronically underfunded.&nbsp;&nbsp; 
 
@@ -4164,7 +4314,7 @@ Developing countries currently face a staggering $420 billion annual gap in the 
 
 ## 50 years of CITES: Protecting wildlife from trade-driven extinction
 
-date: 2025-07-01, from: United Nations, Top Stories
+date: 2025-07-01, from: United Nations, Climate Change
 
 The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) marks 50 years since it entered into force on Tuesday, celebrating five decades of protecting endangered wildlife from overexploitation through international trade. 
 
@@ -4176,7 +4326,7 @@ The Convention on International Trade in Endangered Species of Wild Fauna and Fl
 
 ## Spain and Brazil push global action to tax the super-rich and curb inequality
 
-date: 2025-07-01, from: United Nations, Top Stories
+date: 2025-07-01, from: United Nations, Economic Development
 
 Spain and Brazil have launched a joint initiative to promote higher tax contributions from the super-rich worldwide, aimed at tackling soaring inequality by ensuring those with the most pay their fair share. 
 
@@ -4188,7 +4338,7 @@ Spain and Brazil have launched a joint initiative to promote higher tax contribu
 
 ## Northern hemisphere heatwave underscores value of early-warning alerts
 
-date: 2025-07-01, from: United Nations, Top Stories
+date: 2025-07-01, from: United Nations, Climate Change
 
 The blistering early-summer heatwave that’s brought life-threatening temperatures across much of the northern hemisphere is a worrying sign of things to come, UN weather experts said on Tuesday. 
 
@@ -4200,7 +4350,7 @@ The blistering early-summer heatwave that’s brought life-threatening temperatu
 
 ## General Assembly approves $5.4 billion UN peacekeeping budget for 2025-2026
 
-date: 2025-07-01, from: United Nations, Top Stories
+date: 2025-07-01, from: United Nations, UN Affairs
 
 The General Assembly on Monday approved a $5.38 billion budget for UN peacekeeping operations for the 2025-2026 fiscal year, down slightly from the previous year, as delegates wrapped up weeks of negotiations amid warnings about persistent funding challenges. 
 
@@ -5078,7 +5228,7 @@ More than 700,000 Afghan migrants have returned from Iran so far this year, incl
 
 ## Human rights can be a ‘strong lever for progress’ in climate change, says UN rights chief
 
-date: 2025-06-30, from: United Nations, Top Stories
+date: 2025-06-30, from: United Nations, Climate Change
 
 The UN’s top rights official on Monday urged the international community to confront the growing human rights implications of climate change. 
 

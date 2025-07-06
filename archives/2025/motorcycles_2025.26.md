@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2025-07-06 06:07:23
+updated: 2025-07-06 14:07:50
 ---
 
 # motorcycles
 
-(date: 2025-07-06 06:07:23)
+(date: 2025-07-06 14:07:50)
+
+---
+
+## Joey Logano looks to end decade-long drought on road courses this weekend in Chicago
+
+date: 2025-07-06, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer On Aug. 9, 2015, a 25-year-old Joey Logano took the checkered flag at Watkins Glen for the 10th win of his NASCAR Cup Series career,&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/joey-logano-looks-to-end-decade-long-drought-on-road-courses-this-weekend-in-chicago/>
+
+---
+
+## Camp Staff Pleads Guilty to Homicide Charges After Fatal PWC Crash With the Scouts
+
+date: 2025-07-06, from: Ride Apart, Electric Motorcycle News
+
+The victim was just 10 years old.  
+
+<br> 
+
+<https://www.rideapart.com/news/764587/camp-staff-fatal-jet-ski-crash/>
 
 ---
 

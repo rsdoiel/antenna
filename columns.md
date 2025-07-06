@@ -1,11 +1,68 @@
 ---
 title: columns
-updated: 2025-07-06 06:07:19
+updated: 2025-07-06 14:07:46
 ---
 
 # columns
 
-(date: 2025-07-06 06:07:19)
+(date: 2025-07-06 14:07:46)
+
+---
+
+## July 5, 2025
+
+date: 2025-07-06, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167672945/3ee9ef5c735e3460a139be41d0909d76.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167672945/3ee9ef5c735e3460a139be41d0909d76.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-5-2025-8c7>
+
+---
+
+## Manually Flashing Firmware on the Star Labs StarBook
+
+date: 2025-07-06, from: mrusme blog
+
+A short write-up on how to manually update the firmware on your Star Labs
+StarBook. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/manually-flashing-firmware-on-the-star-labs-starbook/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-06, from: Dave Winer's Scripting News)
+
+<a href="https://www.dailykos.com/story/2025/7/6/2331527/-Daily-Kos-is-moving-to-WordPress">Kos is moving to WordPress</a>. This is very cool. It means people who write for Kos probably will be able to use my writing tools. I am sold on the idea of WordPress being the OS for the social web. That's the point of having a platform, we used to call it "users and developers party together." 
+
+<br> 
+
+<http://scripting.com/2025/07/06.html#a154211>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-06, from: Dave Winer's Scripting News)
+
+I asked ChatGPT for two sentences on the <a href="https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma">Innovator's Dilemma</a> -- "[It] describes how successful companies can fail by focusing too heavily on sustaining innovations—improvements to existing products for current customers—while ignoring disruptive innovations that initially serve smaller markets but eventually overtake the mainstream. These disruptions often seem inferior at first, so established companies dismiss them, leaving space for new entrants to rise and dominate." 
+
+<br> 
+
+<http://scripting.com/2025/07/06.html#a142617>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-06, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/17/innovatorsDilemma.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I saw that <a href="https://techcrunch.com/2025/07/01/automattic-puts-tumblr-migration-to-wordpress-on-hold/">Matt backed off</a> from porting <a href="https://daytona.scripting.com/search?q=tumblr">Tumblr</a> to run on top of WordPress, basically turning WP into an OS. I thought it was a brilliant idea, but probably overwhelming in complexity. But it was the right idea. We need fewer runtimes. If you can merge two runtimes, go for it. Anyway, this is all related to the "open social web" -- in fact it's central to it. We've got all these philosophically compatible platforms that are technologically unable to work with each other. But what if they all were really on the web? What could we build then? Everything. We would go back to the potential the web had before Twitter and Google Reader split the blogging world in two. I swear the answer is make it so that all these networks can do <a href="http://scripting.com/2025/04/14/121946.html">inbound</a> and outbound RSS and build on the reality of the open social web, not just the hype. 
+
+<br> 
+
+<http://scripting.com/2025/07/06.html#a130724>
 
 ---
 
