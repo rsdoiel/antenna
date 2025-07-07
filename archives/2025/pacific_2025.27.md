@@ -1,11 +1,168 @@
 ---
 title: pacific
-updated: 2025-07-07 06:07:03
+updated: 2025-07-07 14:08:23
 ---
 
 # pacific
 
-(date: 2025-07-07 06:07:03)
+(date: 2025-07-07 14:08:23)
+
+---
+
+## Guam educators: AI is not a substitute for critical thinking and human judgment
+
+date: 2025-07-07, from: Pacific Island Times
+
+By Jayvee Vallejera   The most commonly known artificial intelligence model, ChatGPT, was first released in November 2022. Less than... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-educators-ai-is-not-a-substitute-for-critical-thinking-and-human-judgment>
+
+---
+
+## As the sea recedes, Pacific nations turn to ancestral knowledge to withstand climate change
+
+date: 2025-07-07, from: Pacific Island Times
+
+From marine protections rooted in taboo, to village governance woven through coconut mats and sea knowledge, Pacific peoples are showing how relational systems—between people, land and ocean—can hold the line where legal codes and budgets fail. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/as-the-sea-recedes-pacific-nations-turn-to-ancestral-knowledge-to-withstand-climate-change>
+
+---
+
+## Bougainville election process begins as writs issued
+
+date: 2025-07-07, from: 
+
+Voting is scheduled for one week starting on 2 September, allowing seven weeks of campaigning. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566255/bougainville-election-process-begins-as-writs-issued>
+
+---
+
+## Drug use driving HIV surge in Fij - UNAIDS
+
+date: 2025-07-07, from: 
+
+"The response here in Fiji is about 15 years behind what is needed. We're still not getting testing done within a shorter period of time," the head of UNAIDS in the Pacific says. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566254/drug-use-driving-hiv-surge-in-fij-unaids>
+
+---
+
+## $300K endowment honors Susan Hirano, supports cancer care at UH
+
+date: 2025-07-07, from: University of Hawaiʻi News
+
+<p>A new endowment honors Susan Hirano’s legacy by supporting emotional and educational resources for cancer patients and their families.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/07/susan-hirano-cancer-care-endowment/">$300K endowment honors Susan Hirano, supports cancer care at <abbr>UH</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/07/susan-hirano-cancer-care-endowment/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-07-07, updated: 2025-07-07, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Poetry
+
+date: 2025-07-07, updated: 2025-07-07, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_72ed92d3-fbe2-4b99-b6c3-bf4b66f02428.html>
+
+---
+
+## Stocks slip in Asia on US tariff confusion, oil skids
+
+date: 2025-07-07, updated: 2025-07-07, from: Marianas Variety
+
+SYDNEY (Reuters) — Stock markets slipped in Asia on Monday amid confusion as U.S. officials flagged a delay on tariffs but failed to provide much detail on the change, while oil prices slid as OPEC+ opened the supply spigots more than expected. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/stocks-slip-in-asia-on-us-tariff-confusion-oil-skids/article_7fe2cab3-a7c4-435a-b6fc-35ebc71dc2de.html>
+
+---
+
+## Oasis returns after 16-year hiatus to a UK crowd ecstatic for the band’s 1990s hits
+
+date: 2025-07-07, updated: 2025-07-07, from: Marianas Variety
+
+CARDIFF, Wales (AP) — Oasis ended a 16-year hiatus on Friday with a punchy, powerful trip through one of Britpop’s greatest songbooks, kicking off a reunion tour in Cardiff, Wales to a crowd ecstatic for the band’s 1990s hits. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/oasis-returns-after-16-year-hiatus-to-a-uk-crowd-ecstatic-for-the-band-s/article_1e9b3314-f7f7-40e9-86e8-41c67b0dd0ab.html>
+
+---
+
+## Saipan Chamber to host workplace communication training on July 25
+
+date: 2025-07-07, updated: 2025-07-07, from: Marianas Variety
+
+(SCC) — The Saipan Chamber of Commerce is excited to announce its upcoming 3rd quarter professional development training on effective communication in the workplace, scheduled for Friday, July 25, 2025, at Northern Marianas College campus, Room K-1/K-2. This event is proudly hosted in partnership with NMC’s Community Development Institute. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/saipan-chamber-to-host-workplace-communication-training-on-july-25/article_aada240f-132d-4d4e-a10f-1a4725d52a67.html>
+
+---
+
+## Thank you Bank of Guam!
+
+date: 2025-07-07, updated: 2025-07-07, from: Marianas Variety
+
+In celebration of the 2025 Liberation Day theme, “Weaving Heritage and Embracing Peace,” Bank of Guam proudly joins the community in supporting the 2025 CNMI Liberation Committee with a special donation. Pictured from left: Gus Palacios (Bank of Guam resource support officer), Jeanette Sarabia (CNMI Liberation Committee), Michi Ciches (CNMI Liberation Committee), Merced Tomokane (Bank of Guam regional development manager), Frances Santos (CNMI Liberation Committee chairwoman), and Bridget M. Deleon Guerrero (CNMI Liberation Committee vice chairwoman). 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/thank-you-bank-of-guam/article_b83787b4-9bad-48d2-863c-dd3694254fd5.html>
+
+---
+
+## ‘Jurassic World Rebirth’ bites off $318 million at the global box office
+
+date: 2025-07-07, updated: 2025-07-07, from: Marianas Variety
+
+(AP) — Dinosaur fatigue may be a theme in “Jurassic World Rebirth,” but moviegoing audiences don’t seem to have that reservation. The newest installment in the “Jurassic World” franchise ruled the Fourth of July holiday box office with a global, five-day launch of $318.3 million, according to studio estimates Sunday. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/jurassic-world-rebirth-bites-off-318-million-at-the-global-box-office/article_224c903f-4e45-4a49-a274-ed07bf8c7fdb.html>
+
+---
+
+## Emancipation
+
+date: 2025-07-07, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by M. Anne Kala`i I. Mother didn’t teach me how to garden. She taught me to pack up a house after the water turned off, then the lights. Well-labeled boxes swallowed our things and spit out new cities. I learned &#8230; <a href="https://hawaiipacificreview.org/2025/07/07/emancipation/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/07/07/emancipation/>
 
 ---
 
@@ -174,6 +331,20 @@ date: 2025-07-07, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/07/07/nation-world-news/nbas-first-7-team-trade-makes-kevin-durant-officially-a-rocket/>
+
+---
+
+## Police investigating fatal home fire in Mountain View
+
+date: 2025-07-07, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating a fatal structure fire that occurred on Huina Road in Mountain View late Sunday night.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/07/hawaii-news/police-investigating-fatal-home-fire-in-mountain-view/>
 
 ---
 

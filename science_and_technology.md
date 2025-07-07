@@ -1,11 +1,119 @@
 ---
 title: science and technology
-updated: 2025-07-07 06:07:03
+updated: 2025-07-07 14:08:24
 ---
 
 # science and technology
 
-(date: 2025-07-07 06:07:03)
+(date: 2025-07-07 14:08:24)
+
+---
+
+## CitrixBleed 2 exploits are on the loose as security researchers yell and wave their hands
+
+date: 2025-07-07, updated: 2025-07-07, from: The Register (UK I.T. News)
+
+<h4>NetScaler vendor issued a patch but otherwise, stony silence</h4> <p>Multiple exploits are circulating for CVE-2025-5777, a critical bug in Citrix NetScaler ADC and NetScaler Gateway dubbed CitrixBleed 2, and security analysts are warning a &#34;significant portion&#34; of users still haven&#39;t patched.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/07/citrixbleed_2_exploits/>
+
+---
+
+## CoreWeave's $9B Core Scientific acquisition is a bid for more power
+
+date: 2025-07-07, updated: 2025-07-07, from: The Register (UK I.T. News)
+
+<h4>All the GPUs in the world aren&#39;t worth much if you don&#39;t have a place to put them</h4> <p>CoreWeave just added 1.3 gigawatts of datacenter capacity to its rent-a-GPU scheme with the $9 billion acquisition of crypto-mining outfit Core Scientific, the companies announced Monday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/07/coreweave_core_scientific_buy/>
+
+---
+
+## Working in Space
+
+date: 2025-07-07, from: NASA breaking news
+
+In this May 23, 2025, image, NASA astronaut Jonny Kim works inside the SpaceX Dragon cargo spacecraft completing cargo operations before it undocked from the International Space Station&#8217;s Harmony module several hours later. Kim launched to the International Space Station on April 8, 2025; this is his first mission. See what Kim and other space [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/working-in-space/>
+
+---
+
+## Apple tries get €500M EU fine tossed
+
+date: 2025-07-07, updated: 2025-07-07, from: The Register (UK I.T. News)
+
+<h4>The iMaker&#39;s fight with European regulators continues</h4> <p>Apple is on the hook for a €500 million (US $587 million) anti-steering fine in the EU, so it&#39;s reportedly doing what any profit-driven enterprise in such a position would do: Appealing.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/07/apple_appeals_500m_eu_antisteering/>
+
+---
+
+## Double-detonation supernova could explain why the universe is full of candles
+
+date: 2025-07-07, updated: 2025-07-07, from: The Register (UK I.T. News)
+
+<h4>Lucy in the sky with calcium</h4> <p>Astroboffins have found the first evidence of a double-detonated Type Ia supernova, which could explain why we have enough bright points of reference in the skies to plot our place in the universe.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/07/doubledetonation_supernova/>
+
+---
+
+## NASA’s Hubble and Webb Telescopes Reveal Two Faces of a Star Cluster Duo
+
+date: 2025-07-07, from: NASA breaking news
+
+A riotous expanse of gas, dust, and stars stake out the dazzling territory of a duo of star clusters in this combined image from NASA’s Hubble and Webb space telescopes. Open clusters NGC 460 and NGC 456 reside in the Small Magellanic Cloud, a dwarf galaxy orbiting the Milky Way. Open clusters consist of anywhere […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/nasas-hubble-and-webb-reveal-two-faces-of-star-cluster-duo/>
+
+---
+
+## Move over bit barns, here come Japan’s floating bit barges
+
+date: 2025-07-07, updated: 2025-07-07, from: The Register (UK I.T. News)
+
+<h4>As power concerns beset builds, this floating datacenter can plug into powership next door</h4> <p>Japanese shipping biz Mitsui OSK Lines (MOL) is planning to fit out a ship as a floating datacenter that can draw energy from the shore or from an accompanying powership.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/07/datacenter_float_powership_concept/>
+
+---
+
+## New Sphere-Packing Record Stems From an Unexpected Source
+
+date: 2025-07-07, from: Quanta Magazine
+
+After just a few months of work, a complete newcomer to the world of sphere packing has solved one of its biggest open problems.            <p>The post <a href="https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/" target="_blank">New Sphere-Packing Record Stems From an Unexpected Source</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/>
+
+---
+
+## Game, set, botch: AI umpiring at Wimbledon goes long
+
+date: 2025-07-07, updated: 2025-07-07, from: The Register (UK I.T. News)
+
+<h4>Line-judging tech flubs crucial point, leaving players and fans seeing red</h4> <p>&#34;You cannot be serious&#34; was likely uttered by more than a few folk watching Russia&#39;s Anastasia Pavlyuchenkova versus Britain&#39;s Sonay Kartal at Wimbledon yesterday after the tennis tournament&#39;s AI line-calling tech dropped the ball.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/07/ai_wimbledon_fail/>
 
 ---
 
@@ -181,7 +289,7 @@ date: 2025-07-06, updated: 2025-07-06, from: The Register (UK I.T. News)
 
 date: 2025-07-06, updated: 2025-07-07, from: The Register (UK I.T. News)
 
-<h4>SafePay crew claims responsibility for intrusion at one of world&#39;s largest tech distributors</h4> <p>Ingram Micro, one of the world&#39;s largest distributors, has confirmed it is trying to restore systems following a ransomware attack.…</p> 
+<h4>SafePay crew claims responsibility for intrusion at one of world&#39;s largest tech distributors</h4> <p><strong>Updated</strong>  Ingram Micro, one of the world&#39;s largest distributors, has confirmed it is trying to restore systems following a ransomware attack.…</p> 
 
 <br> 
 

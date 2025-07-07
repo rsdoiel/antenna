@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-07-07 06:07:07
+updated: 2025-07-07 14:08:30
 ---
 
 # retro computing
 
-(date: 2025-07-07 06:07:07)
+(date: 2025-07-07 14:08:30)
+
+---
+
+## Bugs Found in sudo
+
+date: 2025-07-07, from: Linux Magazine
+
+<p>Two critical flaws allow users to gain access to root privileges.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Bugs-Found-in-sudo>
 
 ---
 

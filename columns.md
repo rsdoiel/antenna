@@ -1,11 +1,213 @@
 ---
 title: columns
-updated: 2025-07-07 06:07:04
+updated: 2025-07-07 14:08:25
 ---
 
 # columns
 
-(date: 2025-07-07 06:07:04)
+(date: 2025-07-07 14:08:25)
+
+---
+
+##  Always worth a read: the latest issue of Jodi Ettenberg&#8217;s The Curious... 
+
+date: 2025-07-07, updated: 2025-07-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047095-always-worth-a-read-the>
+
+---
+
+## Open + web == lost cause?
+
+date: 2025-07-07, from: Dave Winer's Scripting News
+
+<p><i>A longish thread that probably isn't going anywhere. My final <a href="https://mastodon.social/@davew/114813658742530184">thoughts</a>, cc'd here to get on the record.</i></p>
+<p>anyway it's feeling like a lost cause. </p>
+<p>to be really blunt, i don't think AP or ATP are the answer. </p>
+<p>and i also don't care so much about this style of conversation. and i loathe the character limits and the lack of style and links, and no titles, etc.</p>
+<p>it can't only be for wordpress. i love the potential of wordpress, i think even more than matt does, but it isn't enough.</p>
+<p>if it's going to be open and of the web it has to be simple and easy, and neither of them are.</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2020/08/02/francoAplenty.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">bonus for blog readers: i would add, since i ran out of characters on masto, that the great thing about the web is that you can have an idea and be using it the next day. you can't say imho that you're part of the web if you don't deliver that kind of ease of access. it's not enough to have the <i>potential</i> of being open, it has to be accessible. I have that ability these days, but people who use the AP and ATP systems are in tight little boxes with no easy way to try something out quickly. (i know because i've been hooking things up to them for a couple of years now, and so far it's just an added slog, everything is far more complex than it should be)</p>
+<p>maybe we'll get there through their api's, but i think at this point we know that won't happen.</p>
+<p>ps: the web is a <a href="https://this.how/googleAndHttp/#1519490474000">miracle</a>. but maybe it's too fucked up now to have the miracle be something we can all experience.  </p>
+<p>pps: when i write on other systems i often leave out upper case, saving a little energy as i type. i find it more relaxing. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/07/194335.html?title=openWebLostCause>
+
+---
+
+## Linkblogging back to normal
+
+date: 2025-07-07, from: Dave Winer's Scripting News
+
+<p><i>I wrote this early this morning as a <a href="https://daveverse.org/2025/07/07/linkblogging-back-to-normal-after-corner-turn/">test post</a> for my WordLand site. </i></p>
+<p>Happy to report that my linkblog routine is back to normal.</p>
+<p>I really shook things up there, and it probably wasn't a great time investment.</p>
+<p>I had been using a custom front-end to FeedLand, which has a built in blogging tool, that publishes to the database that FeedLand manages, and of course also publishes an RSS feed. It was debugged and works. But now I have a new editor, and I want to use it for this, because my reader knows how to view all kinds of stuff, and one of the things I wanted it to work well with are linkblog posts. So, do a quick addition of linkblog stuff to WordLand. </p>
+<p>Only thing is there is no such thing as a "quick addition" in a world built on CSS and HTML objects. Everything is a slog. </p>
+<p>Anyway the slog is over! Whew. </p>
+<p>Now back to my other slog -- timelines. </p>
+<p>It's also starting to feel usable. People imagine that you just design something and write the code and voila it's usable (if they even think about it that much). But only until you have the pieces put together can you see the things you forgot to consider, and now you have to decide whether to rip up the thing you built or try to iterate to where you need to go. A lot of times it would be easier to start over, but programmers always want to do that. I'm no exception. Once it's working somewhat the code becomes locked into how the pieces fit together. If somehow they need to fit together differently, given it's CSS and HTML you'd better scrap it and do it again or you'll go out of your mind adding the next layer of features. </p>
+<p>Honestly we were much better off before we tried to shoehorn an object model into a document format! Apps and documents are really different things you know.</p>
+<p>Anyway now I have my first test post of the day.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/07/193441.html?title=linkbloggingBackToNormal>
+
+---
+
+## Monday, 7 July 2025
+
+date: 2025-07-07, from: Doc Searls (at Harvard), New Old Blog
+
+Entrails. This vs. this. Bonus link. Naturally, it was over Texas. The best photo ever taken of gigantic jet lightning (aka upper-atmospheric lightning, ionospheric lightning, and transient luminous events, or TLEs) was shot on Saturday from the International Space Station. SpaceWeather has the story. The photographer was astronaut Nichole “Vapor” Ayers, aka @Astro_Ayers on X.  Here [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/07/monday-7-july-2025/>
+
+---
+
+## ‘F1’ Is Doing Well at the Box Office, and Is Now Already Apple’s Top-Grossing Theatrical Film
+
+date: 2025-07-07, updated: 2025-07-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://variety.com/2025/film/box-office/f1-movie-apple-highest-grossing-film-napoleon-1236448149/>
+
+---
+
+## ★ Full-Screen Ad for ‘F1 The Movie’ in Apple’s TV App Linked Directly to the Web, and Nothing Bad Seemed to Happen
+
+date: 2025-07-07, updated: 2025-07-07, from: Daring Fireball
+
+I can see the argument that Apple’s answer is “Yes, it’s potentially confusing for many users”. But I can’t see the argument that the answer is “Yes, it’s potentially confusing for many users, but only if they’re trying to buy in-app content or subscriptions, but not confusing at all if they’re trying to buy, say, movie tickets.” 
+
+<br> 
+
+<https://daringfireball.net/2025/07/full-screen_ad_for_f1_the_movie_in_apples_tv_app_linked_directly_to_the_web>
+
+---
+
+## July 6, 2025
+
+date: 2025-07-07, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167746139/754520a19779e3c5c64a2908c87d3cb8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167746139/754520a19779e3c5c64a2908c87d3cb8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-6-2025-d3b>
+
+---
+
+##  Every Wes Anderson Movie, Explained by Wes Anderson 
+
+date: 2025-07-07, updated: 2025-07-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/every-wes-anderson-movie-explained-by-wes-anderson>
+
+---
+
+##  &#8220;The fundamental dilemma [of media like NYT]: journalism is, by its nature,... 
+
+date: 2025-07-07, updated: 2025-07-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047087-the-fundamental-dilemma-o>
+
+---
+
+## One month of using iOS/MacOS developer builds
+
+date: 2025-07-07, from: Matt Haughey blog
+
+<p>Every June, Apple shows off new features coming to their devices at WWDC, but it was only a couple years ago when I realized I was no longer working at a big company with security protocols that prohibited beta software, so I could install them on day one. So I</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/one-month-of-using-ios-macos-developer-builds/>
+
+---
+
+## A miscellany of reading
+
+date: 2025-07-07, from: Enlightenment Economics blog
+
+The weeks shoot past, and here I am again doing a catch-up &#8211; I blame the end of term, and a week of lectures at the University of Bayreuth, as well as general day job activities. Anyway, I&#8217;ve read a &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/07/a-miscellany-of-reading/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2025/07/a-miscellany-of-reading/>
+
+---
+
+##  Here&#8217;s what Tom Holland&#8217;s lip-sync of Umbrella can teach us about stormwater... 
+
+date: 2025-07-07, updated: 2025-07-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047082-heres-what-tom-hollands-l>
+
+---
+
+##  Science writer Jennifer Ouellette reflects on the 30th anniversary of Apollo 13,... 
+
+date: 2025-07-07, updated: 2025-07-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047065-science-writer-jennifer-o>
+
+---
+
+##  A Great Art Explained Book? Sign Me Up! 
+
+date: 2025-07-07, updated: 2025-07-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/a-great-art-explained-book-sign-me-up>
+
+---
+
+##  The detention center in Florida easily fits the definition of concentration camp.... 
+
+date: 2025-07-07, updated: 2025-07-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047086-the-detention-center-in-f>
 
 ---
 

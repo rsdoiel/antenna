@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-07-07 06:07:06
+updated: 2025-07-07 14:08:28
 ---
 
 # libraries
 
-(date: 2025-07-07 06:07:06)
+(date: 2025-07-07 14:08:28)
 
 ---
 
@@ -31,6 +31,32 @@ Soesanto, Stefan
 <br> 
 
 <http://hdl.handle.net/20.500.11850/743657>
+
+---
+
+## Day in Review (July 7–10)
+
+date: 2025-07-07, from: Association of Research Libraries News
+
+<p>Last Updated on July 7, 2025, 4:30 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 8 &#124; Wednesday, July 9 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-7-10/">Day in Review (July 7–10)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-july-7-10/>
+
+---
+
+## The Survivors, by Tom Godwin
+
+date: 2025-07-07, from: Standard Ebooks, new releaases
+
+A group of humans stranded on a deadly planet try to survive the harsh conditions and take revenge on the aliens that left them there. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/tom-godwin/the-survivors>
 
 ---
 

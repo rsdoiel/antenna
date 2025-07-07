@@ -1,11 +1,191 @@
 ---
 title: planet
-updated: 2025-07-07 06:07:00
+updated: 2025-07-07 14:08:21
 ---
 
 # planet
 
-(date: 2025-07-07 06:07:00)
+(date: 2025-07-07 14:08:21)
+
+---
+
+## From the Backyard: What Camera Gear Am I Using These Days?
+
+date: 2025-07-07, from: Vatican Obervatory
+
+You may have noticed a slightly different look to my astrophotography as of late. The reason is that I&#8217;ve taken a little bit of a risk on something... 
+
+<br> 
+
+<https://www.vaticanobservatory.org/general/from-the-backyard-what-camera-gear-am-i-using-these-days/>
+
+---
+
+## US mother and son remanded in custody over drug seizure
+
+date: 2025-07-07, from: RTÉ News
+
+A US mother and son charged over a seizure of almost €1 million worth of cannabis at Dublin Airport on Sunday have been remanded in custody. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0707/1522317-dublin-district-court/>
+
+---
+
+## Controversial copy of Peter the Great flagship off Dublin
+
+date: 2025-07-07, from: RTÉ News
+
+A controversial sailing ship which is a replica of a vessel built by Russia's Peter the Great in the early eighteenth century is anchored off the Irish coast in Killiney Bay. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0707/1522312-shtandart-dublin/>
+
+---
+
+## Senator recalls 'blood everywhere' after attack on mother
+
+date: 2025-07-07, from: RTÉ News
+
+When she was a child, Senator Nicole Ryan lived in a home where domestic abuse was commonplace. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0707/1522308-senator-recalls-blood-everywhere-after-attack-on-mother/>
+
+---
+
+## Teenager who stabbed man jailed for 13 years for murder
+
+date: 2025-07-07, from: RTÉ News
+
+A teenager who stabbed a man to death in front of shoppers and children using a knife he had bought for self-protection has been jailed for 13 years. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0707/1522310-aaron-keating/>
+
+---
+
+## Côte d’Ivoire: Sisters of Our Lady of Peace celebrate Diamond Jubilee 
+
+date: 2025-07-07, from: Vatican News
+
+
+                    <p>The Congregation of religious sisters of Our Lady of Peace in Ivory Coast this week concluded celebrations marking its 60 years of foundation with Holy Mass presided over by Cardinal Ignace Bessi Dogbo, Archbishop of Abidjan. </p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-07/seek-and-live-by-the-peace-of-christ-founded-on-29-june1965-b.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-07/seek-and-live-by-the-peace-of-christ-founded-on-29-june1965-b.html>
+
+---
+
+## Jury in murder trial of Joseph Lawlor discharged by judge
+
+date: 2025-07-07, from: RTÉ News
+
+A judge at the Central Criminal Court has discharged a jury after two weeks of a murder trial, saying she was left with no alternative due to "matters beyond my control". 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0707/1522307-lawlor-case/>
+
+---
+
+## Sr. Becquart: New Synod document to foster exchange of gifts among local Churches
+
+date: 2025-07-07, from: Vatican News
+
+
+                    <p>Sister Nathalie Becquart, Undersecretary of the General Secretariat of the Synod of Bishops, speaks to Vatican News about the new document "Pathways for the Implementation Phase of the Synod," highlighting the realization of synodality within the local Churches, as well as the exchange of gifts among them.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/becquart-new-document-promotes-implementation-of-synod.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/becquart-new-document-promotes-implementation-of-synod.html>
+
+---
+
+## Group of staff at Shanahan's on the Green left short €35k
+
+date: 2025-07-07, from: RTÉ News
+
+A group of staff at Dublin restaurant Shanahan's on the Green were left short nearly €35,000 when it shut abruptly last year, a tribunal has found. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0707/1522299-group-of-staff-at-shanahans-on-the-green-left-short-35k/>
+
+---
+
+## No client list, no new files coming in Jeffrey Epstein case, says U.S. Justice Department
+
+date: 2025-07-07, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.5251799.1751913287!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/people-jeffrey-epstein.JPG' alt='Mug shot of white man with grey hair and facial har' width='620' height='349' title='FILE PHOTO:    U.S. financier Jeffrey Epstein appears in a photograph taken for the New York State Division of Criminal Justice Services&apos; sex offender registry March 28, 2017 and obtained by Reuters July 10, 2019.  New York State Division of Criminal Justice Services/Handout via REUTERS. THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY.        NO RESALES. NO ARCHIVES.'/><p>Jeffrey Epstein did not maintain a "client list," the U.S. Justice Department said Monday, announcing that no more files related to the wealthy financier's sex trafficking investigation would be made public, despite suggestions to the contrary from the Trump administration.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/jeffrey-epstein-no-list-justice-department-1.7578991?cmp=rss>
+
+---
+
+## Minister fired by Putin found dead, Russia says
+
+date: 2025-07-07, from: RTÉ News
+
+Russia's former transport minister Roman Starovoyt died hours after being officially dismissed by President Vladimir Putin, the country's investigative committee has said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0707/1522285-roman-starovoyt/>
+
+---
+
+## Israel-Hamas ceasefire talks continue for a second day in Qatar
+
+date: 2025-07-07, from: Vatican News
+
+
+                    <p>As the peace talks continue in Qatar, Israeli Prime Minister Netanyahu travels to Washington D.C. to meet with US President Trump to further discussions.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/israel-hamas-ceasefire-talks-continue-for-a-second-day-in-qatar.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/israel-hamas-ceasefire-talks-continue-for-a-second-day-in-qatar.html>
+
+---
+
+## Paschal Donohoe re-elected as Eurogroup President
+
+date: 2025-07-07, from: RTÉ News
+
+Minister for Finance Paschal Donohoe has been re-elected as Eurogroup President for a third term. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0707/1522274-paschal-donohoe-eurogroup/>
+
+---
+
+## Govt told to conserve sites to retain nitrates derogation
+
+date: 2025-07-07, from: RTÉ News
+
+The European Commission has told the Government that in order for Ireland to retain a nitrates derogation for farmers from next year it must demonstrate efforts to conserve designated sites or species under the EU's Habitats Directive. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0707/1522267-nitrates-farmers-ireland/>
 
 ---
 
@@ -21,11 +201,27 @@ Guy Consolmagno, SJ, is a Jesuit brother and planetary scientist whose research 
 
 ---
 
-## Funeral held for mother and daughter who died after crash
+## History and art of Pope’s summer residence in Castel Gandolfo
+
+date: 2025-07-07, from: Vatican News
+
+
+                    <p>As Pope Leo XIV becomes the 16th Successor of Peter to take his summer holidays in Castel Gandolfo, we explore the town near Rome that has hosted the papal summer residence since the mid-1600s.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/summer-papal-residence-castel-gandolfo-history-art.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/summer-papal-residence-castel-gandolfo-history-art.html>
+
+---
+
+## Mother and daughter's funeral told of 'unspeakable loss'
 
 date: 2025-07-07, from: RTÉ News
 
-The funeral of a mother and daughter who died following a road crash last week heard their passing has left an unspeakable loss and an emptiness in the hearts of the community. 
+The funeral of a mother and daughter who died following a road collision heard their passing has left an unspeakable loss and an emptiness in the hearts of the community in Inishowen. 
 
 <br> 
 
@@ -45,11 +241,71 @@ Two brothers of convicted murderer Jozef Puska, along with their wives, who were
 
 ---
 
+## Tipperary's goal-chasing won the day - McGrath
+
+date: 2025-07-07, from: RTÉ News
+
+Goals win games goes the old cliche, and Shane McGrath feels that Tipperary were rewarded for their attacking approach against Kilkenny in Sunday's All-Ireland SHC semi-final. 
+
+<br> 
+
+<https://www.rte.ie/sport/hurling/2025/0707/1522247-tipperarys-goal-chasing-won-the-day-mcgrath/>
+
+---
+
+## Human rights must anchor the digital age, says UN’s Türk
+
+date: 2025-07-07, from: United Nations, Top Stories
+
+As digital technologies rapidly reshape every aspect of society, the UN’s top human rights official has called for human rights to be placed at the centre of this transformation. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165338>
+
+---
+
+## ‘Cooperation is humanity’s greatest innovation,’ UN chief declares at BRICS summit
+
+date: 2025-07-07, from: United Nations, Top Stories
+
+UN Secretary-General António Guterres on Monday warned that the environment is being attacked on all fronts and called on the international community to urgently tackle the intersection of health and climate issues.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165341>
+
+---
+
+## UN warns of worsening humanitarian crisis in Sudan as displacement, hunger and disease escalate
+
+date: 2025-07-07, from: United Nations, Top Stories
+
+UN humanitarians on Monday sounded the alarm over the worsening conditions in Sudan, as violence continues, and food and water remain at critically low levels.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165340>
+
+---
+
+## UN chief ‘deeply saddened’ by devastating Texas floods as toll climbs past 80
+
+date: 2025-07-07, from: United Nations, Top Stories
+
+The United Nations Secretary-General has expressed deep sorrow over the deadly floods in Texas that reportedly killed at least 80 people over the holiday weekend, including more than two dozen children at a summer camp. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165337>
+
+---
+
 ## Murder investigation launched after fatal Dublin stabbing
 
 date: 2025-07-07, from: RTÉ News
 
-A murder investigation has been launched after a man in his 30s was fatally stabbed in west Dublin early this morning. 
+A man who died after he was stabbed in west Dublin early this morning has been named as 34-year-old Joseph McEvoy from Greenfort Avenue, Clondalkin. 
 
 <br> 
 
@@ -161,11 +417,23 @@ Thirty-two people have gone on trial in Turkey over a fire at a luxury ski resor
 
 ---
 
+## Saudi Arabia executing foreigners, drug offenders at record pace: Amnesty
+
+date: 2025-07-07, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7578671.1751894695!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/saudi-arabia-us-blinken.jpg' alt='A bearded man in an Arabic headress and robes is shown.' width='620' height='349' title='Saudi Crown Prince and Prime Minister Mohammed bin Salman meets U.S. Secretary of State Antony Blinken, not pictured, in Jeddah, Saudi Arabia, Wednesday, March 20, 2024. '/><p>Executions in Saudi Arabia surged last year to a record high, Amnesty International said Monday, as activists increasingly warn about the kingdom's use of the death penalty in non-violent drug cases.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/saudi-executions-amnesty-report-1.7578614?cmp=rss>
+
+---
+
 ## High Court hears challenge over 'super junior' ministers
 
 date: 2025-07-07, from: RTÉ News
 
-A three-judge division of the High Court is hearing a challenge by Sinn Féin TD Pa Daly to the attendance of "super junior" ministers at Cabinet meetings. 
+A three judge division of the High Court is hearing a challenge by Sinn Féin TD Pa Daly to the attendance of so called super junior ministers at Cabinet meetings. 
 
 <br> 
 
@@ -237,6 +505,18 @@ Efforts are under way in nine towns and cities across the country to encourage a
 
 ---
 
+## Irish man killed after being struck by car in California
+
+date: 2025-07-07, from: RTÉ News
+
+A young Irish man has been killed in a traffic collision in the US. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0707/1522188-irish-man-us/>
+
+---
+
 ## Four killed, dozens wounded in Russian strikes on Ukraine
 
 date: 2025-07-07, from: RTÉ News
@@ -273,11 +553,11 @@ date: 2025-07-07, from: CBC, Indigenious News
 
 ---
 
-## Coming hours crucial for US-EU trade talks, says Tánaiste
+## 'Cautious optimism' after US extends tariff deadline
 
 date: 2025-07-07, from: RTÉ News
 
-Tánaiste Simon Harris has said the coming hours will be crucial ahead of Wednesday's deadline for the end of the US "pause" on higher tariff rates. 
+Tánaiste Simon Harris has said he remains "cautiously optimistic about reaching agreement in principle" with the US after the White House postponed a deadline for higher tariffs taking effect on dozens of economies, including the EU. 
 
 <br> 
 
@@ -294,6 +574,18 @@ A HSE clinic offering healthcare to women in the sex industry has seen attendanc
 <br> 
 
 <https://www.rte.ie/news/2025/0707/1522123-hse-womens-health-service/>
+
+---
+
+## Australian woman found guilty of murder after serving poisonous mushrooms to in-laws for lunch
+
+date: 2025-07-07, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7550674.1749035475!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/australia-mushroom-murder-trial.jpg' alt='A woman with long hair wearing glasses peers around a concrete column.' width='620' height='349' title='Erin Patterson, the woman accused of serving her ex-husband&apos;s family poisonous mushrooms, is photographed in Melbourne, Australia, on April 15, 2025. (James Ross/AAP Image via AP)'/><p>An Australian woman has been convicted of murdering three elderly relatives of her estranged husband with a meal laced with poisonous mushrooms, in a case that has gripped the country.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/erin-patterson-australia-mushroom-deaths-1.7578579?cmp=rss>
 
 ---
 
@@ -321,11 +613,11 @@ An Australian woman was convicted of murdering three elderly relatives of her es
 
 ---
 
-## Camp confirms 27 children, staff killed in Texas floods
+## Texas floods death toll passes 80, likely to rise further
 
 date: 2025-07-07, from: RTÉ News
 
-Christian summer camp Camp Mystic has confirmed that 27 campers and counsellors have died in catastrophic flooding on the Guadalupe River in central Texas. 
+A Christian girls' summer camp in central Texas has said that at least 27 campers and counsellors were among those who perished in the catastrophic flooding over the weekend, while emergency responders are still searching for dozens of missing people. 
 
 <br> 
 
@@ -345,11 +637,11 @@ Britain's King Charles and British Prime Minister Keir Starmer have paid tribute
 
 ---
 
-## Netanyahu to land in US after Gaza ceasefire talks begin
+## Latest Gaza truce talks end with 'no breakthrough'
 
 date: 2025-07-06, from: RTÉ News
 
-Israeli Prime Minister Benjamin Netanyahu said he believed his discussions with US President Donald Trump would help advance talks on a Gaza hostage release and ceasefire deal, as Mr Trump predicted an agreement could be reached this week. 
+Israel and Hamas did not achieve a breakthrough in their latest round of indirect talks earlier in Doha for a Gaza ceasefire, a Palestinian official has said. 
 
 <br> 
 
@@ -478,6 +770,18 @@ Tipperary came from behind with 14 men to edge an intense battle with Kilkenny 4
 <br> 
 
 <https://www.rte.ie/sport/hurling/2025/0706/1522075-supersub-odonoghue-fires-14-man-tipperary-into-final/>
+
+---
+
+## Palestinians fear Israel is preparing to annex the West Bank
+
+date: 2025-07-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/407b1852-4cae-4f82-bc4f-5b7ab476d431,1751662871528/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Armoured vehicles drive down a dirt road' width='620' height='349' title='Israeli army vehicles are seen during a military operation in the West Bank city of Jenin, Tuesday, March 11, 2025.'/><p>Since January, Israel has forced tens of thousands of people out of decades-old refugee camps in the occupied West Bank and installed barriers to restrict movement across the territory. The IDF says it's preventing terrorism, but displaced Palestinians tell CBC’s Margaret Evans they’re worried it could be a precursor to annexation. </p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6821076?cmp=rss>
 
 ---
 
