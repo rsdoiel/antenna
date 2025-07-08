@@ -10,3 +10,8 @@ https://www.smithsonianmag.com/rss/smart-news/ "~Smithsonian Magazine" curl/8.5.
 https://www.osnews.com/feed/ "~OS News"
 https://magazine.caltech.edu/index?format=rss "~Caltech Magazine" curl/8.5.0
 https://davisinstituteai.colby.edu/feed/ "~Davis Institute for AI" curl/8.5.0 (rsdoiel@caltech.edu, caltechlibrary.github.io)
+
+#
+# Open Source Projects
+#
+https://servo.org/blog/feed.xml "~Servo blog"

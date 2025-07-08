@@ -1,11 +1,137 @@
 ---
 title: north america
-updated: 2025-07-08 06:09:10
+updated: 2025-07-08 14:08:17
 ---
 
 # north america
 
-(date: 2025-07-08 06:09:10)
+(date: 2025-07-08 14:08:17)
+
+---
+
+## Neera Tanden & Debu Gandhi on our broken immigration system
+
+date: 2025-07-08, from: The Contrarian
+
+"The Trump Administration is creating a false choice between their essential terror tactics and a secure border 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167833682/501c97749cd3ad062afeffa8f33e566a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167833682/501c97749cd3ad062afeffa8f33e566a.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/neera-tanden-and-debu-gandhi-on-our>
+
+---
+
+## 'There's floodin' down in Texas'
+
+date: 2025-07-08, from: The Contrarian
+
+A cartoon by Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/wholl-stop-the-rain>
+
+---
+
+## What LinkedIn Told Me This Weekend About U.S. National Security
+
+date: 2025-07-08, from: The Contrarian
+
+A flood of personal messages&#8212;many from inside the IC&#8212;confirmed the system isn&#8217;t just fraying. It&#8217;s starting to fold. 
+
+<br> 
+
+<https://contrarian.substack.com/p/what-linkedin-told-me-this-weekend>
+
+---
+
+## Why are we taking away services that help people? Rep. Pingree on the harms of the Reconciliation Bill
+
+date: 2025-07-08, from: The Contrarian
+
+"We're the wealthiest country in the world, and the one place we've gone to fund these tax cuts for the billionaires is in food and feeding hungry families." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167819095/b7dbdd814d264cb88775337220536e3b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167819095/b7dbdd814d264cb88775337220536e3b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/why-are-we-taking-away-services-that>
+
+---
+
+## Let’s do Lunch! 07/08
+
+date: 2025-07-08, from: The Contrarian
+
+A recording from Let's Do Lunch LIVE 07/08 
+
+<br> 
+
+<https://contrarian.substack.com/p/lets-do-lunch-0708>
+
+---
+
+## United Steelworkers pledge to hold Trump, Nippon, U.S. Steel accountable
+
+date: 2025-07-08, from: The Contrarian
+
+For the USW, this transaction was always about the security of our members, our jobs and our communities. 
+
+<br> 
+
+<https://contrarian.substack.com/p/united-steelworkers-pledge-to-hold>
+
+---
+
+##  Republicans Deliver A Campaign Finance Bomb To The Supreme Court 
+
+date: 2025-07-08, from: The Lever News
+
+ The high court just took up a Trump-backed lawsuit designed to destroy some of the country’s last remaining campaign finance laws.  
+
+<br> 
+
+<https://www.levernews.com/republicans-deliver-a-campaign-finance-bomb-to-the-supreme-court/>
+
+---
+
+## With a Jar of Blood as Evidence, Detained Man Tells Immigration Judge ‘I am Dying Little by Little’
+
+date: 2025-07-08, from: Capital and Main
+
+<p>Judge denies bond for Guatemalan man worried about colon cancer as his condition appears to have grown worse in recent court hearings.</p>
+<p>The post <a href="https://capitalandmain.com/with-a-jar-of-blood-as-evidence-detained-man-tells-immigration-judge-i-am-dying-little-by-little">With a Jar of Blood as Evidence, Detained Man Tells Immigration Judge &#8216;I am Dying Little by Little&#8217;</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/with-a-jar-of-blood-as-evidence-detained-man-tells-immigration-judge-i-am-dying-little-by-little>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-07-08, from: The Contrarian
+
+Tuesday: July 4 protests in Florida, New Jersey, and North Carolina, anti-ICE protests, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## The GOP's budget bill will hurt America’s global standing 
+
+date: 2025-07-08, from: The Contrarian
+
+And it will benefit our adversaries. But there's one glimmer of hope. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-gops-budget-bill-will-hurt-americas>
 
 ---
 
@@ -92,18 +218,6 @@ How we can safeguard against further such abuses of power.
 <br> 
 
 <https://contrarian.substack.com/p/trumps-attack-on-iran-and-restoring>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-07-07, from: The Contrarian
-
-Monday: July 4 protests all across the country, protests against ICE in Los Angeles and Schaumburg, Ill., and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

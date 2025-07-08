@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-07-08 06:09:12
+updated: 2025-07-08 14:08:20
 ---
 
 # science and technology
 
-(date: 2025-07-08 06:09:12)
+(date: 2025-07-08 14:08:20)
+
+---
+
+## Jack Dorsey floats specs for decentralized messaging app that uses Bluetooth
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>It connects using peer-to-peer networking instead of the internet</h4> <p>Serial entrepreneur Jack Dorsey, who co-founded Twitter and currently acts as CEO of payments company Block, has released the source code for a peer-to-peer messaging app called bitchat that relies on Bluetooth for network connectivity.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/jack_dorsey_debuts_bitchat/>
+
+---
+
+## Army and Navy have both asked for right to repair, now Senators want to give it to them
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>You want that military contract? Then no more proprietary repairability clauses!</h4> <p>A bipartisan pair of Senators is so happy with the US Army&#39;s right to repair policy that they want to enshrine it in federal law as the standard across military branches. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/senators_military_right_to_repair/>
+
+---
+
+## Continuing the Quest for Clays
+
+date: 2025-07-08, from: NASA breaking news
+
+Written by Eleanor Moreland, Ph.D. Student Collaborator at Rice University For the past month and a half, Perseverance has been exploring the Krokodillen plateau in search of clay-bearing rocks. An earlier blog discussed that these rocks could hold clues to Mars’ watery past, and Perseverance has been exploring multiple potential locations to find a suitable […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/continuing-the-quest-for-clays/>
+
+---
+
+## Massive browser hijacking campaign infects 2.3M Chrome, Edge users
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>These extensions weren&#39;t malware-laced from the start, researcher says</h4> <p>A Chrome and Edge extension with more than 100,000 downloads that displays Google&#39;s verified badge does what it purports to do: It delivers a color picker to users. Unfortunately, it also hijacks every browser session, tracks activities across websites, and backdoors victims&#39; web browsers, according to Koi Security researchers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/browser_hijacking_campaign/>
+
+---
+
+## Helio Highlights: May 2025
+
+date: 2025-07-08, from: NASA breaking news
+
+The Sun is 93 million miles away, but its presence is felt strongly even at this distance. One of the more beautiful effects of this presence are the auroras which light up the sky in the Northern and Southern polar regions. These displays, also called the Northern and Southern Lights, are caused by interactions between particles of energy from the Sun and the molecules in the atmosphere above Earth’s poles. 
+
+<br> 
+
+<https://science.nasa.gov/uncategorized/helio-highlights-may-2025/>
+
+---
+
+## Trump's budget bill opens wide swath of spectrum for sale
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>Including frequencies that overlap with Wi-Fi 6E and private mobile networking</h4> <p><strong>updated</strong>  A provision in the new US budget bill opens a wide swath of spectrum for sale, including some that overlaps with frequencies currently allotted for private mobile networks and Wi-Fi 6E. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/trump_budget_bill_spectrum_auctions/>
+
+---
+
+## Semiconductor industry could short out as copper runs dry
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>Climate risks threaten to fry the supply chain for essential chipmaking metal</h4> <p>Climate change could pose a threat to the technology industry as copper production is vulnerable to drought, while demand may grow to outstrip supply anyway.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/copper_supplies_climate_change/>
+
+---
+
+## One Big Brutal Bill: Ex-NASA brass decry Trump's proposed budget cuts
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>&#39;If this is the priority for our tax dollars, we are doomed&#39;</h4> <p>The US Congress has passed President Donald Trump&#39;s budget bill. In addition to the possibility of a Space Shuttle move, significant changes are on the way for NASA.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/nasa_boss_budget_reaction/>
+
+---
+
+## Post Office and Fujitsu execs 'should have known' Horizon IT system was flawed
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>First volume of inquiry report focuses on the scandal&#39;s human impact</h4> <p>Senior Post Office staff – and those working for suppliers Fujitsu and ICL – knew or should have known about the defects causing errors in the Horizon system that contributed to the wrongful prosecution of hundreds of branch workers, 13 of whom committed suicide, most probably as a result, according to the first volume of a government report into the computer scandal.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/post_office_horizon_inquiry/>
+
+---
+
+## Stellar Duo
+
+date: 2025-07-08, from: NASA breaking news
+
+NASA’s Hubble Space Telescope captured a bright variable star, V 372 Orionis, and its companion in this festive image in this image released on Jan. 27, 2023. The pair lie in the Orion Nebula, a colossal region of star formation roughly 1,450 light-years from Earth. V 372 Orionis is a particular type of variable star [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/stellar-duo/>
+
+---
+
+## The cloud-native imperative for effective cyber resilience
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>Modern threats demand modern defenses. Cloud-native is the new baseline</h4> <p><strong>Partner content</strong>  Every organization is investing in cyberresilience tools, training, and processes. Unfortunately, only some of them will be able to successfully respond and recover from an attack. Regardless of how hard they work, many IT and security teams are constrained by legacy technology architectures that were built for the challenges of 2015, not 2025.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/cloud-native-cyber-resilience/>
+
+---
+
+## Georgia court throws out earlier ruling that relied on fake cases made up by AI
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>&#39;We are troubled by the citation of bogus cases in the trial court’s order&#39;</h4> <p>The Georgia Court of Appeals has tossed a state trial court&#39;s order because it relied on court cases that do not exist, presumably generated by an AI model.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/georgia_appeals_court_ai_caselaw/>
+
+---
+
+## Two weeks of Wayback: first alpha release in a few weeks
+
+date: 2025-07-08, from: OS News
+
+Alpine Linux maintainer Ariadne Conill only started working on Wayback a few weeks ago, but in a blog post today they dive into a few more details about how much progress has already been achieved. To refresh your memory, Wayback allows you to run a legacy X11-based desktop environment on top of Wayland by running a stub Wayland compositor in front of Xwayland, capable of serving as a full X server. This way, the transition to Wayland and the removal of X.org from popular distributions won&#8217;t mean you can&#8217;t run X11-based desktop environments anymore. Within just a few weeks, the project has made serious progress. There’s a lot still left to do before we can confidently say that Wayback is ready for distributions to switch to. This work is across the stack: Wayback still needs to expose surfaces that Xwayland can use, Xwayland needs to implement a few new features such as cursor warping and some X extensions inside Xwayland itself need to be properly plumbed (such as Xinerama being able to make use of the Wayland output layout data). Longer term goals aside, we are at most a few weeks away from the first alpha-quality release of Wayback. The main focus of this release is to get to a point where enough is working that users with basic setups and requirements can be reasonably served by Wayback in place of the X.org server, to allow for further testing. It’s already to a point where I am daily driving it. ↫ Ariadne Conill Of course, there&#8217;s still tons of bugs to figure out and missing functionality to implement, but the fact that they&#8217;re just weeks away from a first alpha release is honestly impressive. I really hope Wayback picks up even more and gets adopted by other distributions as well, since it&#8217;s such an elegant and future-proof solution to a very real problem. It&#8217;s important that desktop environments that will not or cannot transition to Wayland remain available to Linux users regardless of their choice of Wayland or X11. When facing the slow sunsetting of a windowing system, some people go off on deranged neofascist conspiracy rants against the woke illuminati, while others sit down and develop real forward-looking solutions. I&#8217;m glad virtually every Linux distribution that matters trusts the latter over the former. 
+
+<br> 
+
+<https://www.osnews.com/story/142730/two-weeks-of-wayback-first-alpha-release-in-a-few-weeks/>
+
+---
+
+## SUSE launching region-locked support for the sovereignty-conscious
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>Move targets European orgs wary of cross-border data exposure</h4> <p>Linux veteran SUSE has unveiled a new support package aimed at customers concerned about data sovereignty.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/suse_sovereign_support/>
 
 ---
 
@@ -85,7 +253,7 @@ date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
 
 date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
 
-<h4>Plus: Qantas makes contact with &#39;potential cyber criminal&#39;</h4> <p>While the aviation industry has borne the brunt of Scattered Spider&#39;s latest round of social engineering attacks, the criminals aim to catch manufacturing and medical tech companies — and even Chipotle Mexican Grill — in tjeor web, as evidenced by hundreds of domains that security researchers say look a lot like phishing websites used by the criminal crews.…</p> 
+<h4>Plus: Qantas makes contact with &#39;potential cyber criminal&#39;</h4> <p>While the aviation industry has borne the brunt of Scattered Spider&#39;s latest round of social engineering attacks, the criminals aim to catch manufacturing and medical tech companies — and even Chipotle Mexican Grill — in their web, as evidenced by hundreds of domains that security researchers say look a lot like phishing websites used by the criminal crews.…</p> 
 
 <br> 
 

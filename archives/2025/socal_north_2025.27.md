@@ -1,11 +1,167 @@
 ---
 title: socal north
-updated: 2025-07-08 06:09:10
+updated: 2025-07-08 14:08:18
 ---
 
 # socal north
 
-(date: 2025-07-08 06:09:10)
+(date: 2025-07-08 14:08:18)
+
+---
+
+## California rejects Trump administration demand to ban transgender athletes
+
+date: 2025-07-08, from: Longbeach Post
+
+<figure><img width="1024" height="720" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-1024x720.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-1024x720.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-300x211.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-768x540.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-154x108.jpg 154w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-400x281.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The state and CIF refused to sign a pledge to ban transgender athletes from competition, putting them at odds with the Trump administration.</p>
+<p>The post <a href="https://lbpost.com/news/education/california-rejects-trump-administration-demand-to-ban-transgender-athletes">California rejects Trump administration demand to ban transgender athletes</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/california-rejects-trump-administration-demand-to-ban-transgender-athletes>
+
+---
+
+## Long Beach internet services will be temporarily down for network upgrades
+
+date: 2025-07-08, updated: 2025-07-08, from: The LAist
+
+A planned outage will affect city websites, online pay portals and Wi-Fi. 
+
+<br> 
+
+<https://laist.com/news/long-beach-internet-services-will-be-temporarily-down-network-upgrades>
+
+---
+
+## Worksite immigration raids are supposed to free up jobs for citizens. Here’s what really happens
+
+date: 2025-07-08, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Research shows worksite immigration raids can depress local economies as people stay home and stop spending money. So far, they aren’t known to free up jobs for citizens.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/worksite-immigration-raids-are-supposed-to-free-up-jobs-for-citizens-heres-what-really-happens">Worksite immigration raids are supposed to free up jobs for citizens. Here’s what really happens</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/worksite-immigration-raids-are-supposed-to-free-up-jobs-for-citizens-heres-what-really-happens>
+
+---
+
+## Teenager arrested on suspicion of starting Laguna Beach fire with fireworks
+
+date: 2025-07-08, updated: 2025-07-08, from: The LAist
+
+Laguna Beach police said they used video to identify a 13-year-old they arrested on suspicion of "felony reckless burning of forest land." 
+
+<br> 
+
+<https://laist.com/news/teenager-arrested-on-suspicion-of-starting-laguna-beach-fire-with-fireworks>
+
+---
+
+## In a nation growing hostile toward drugs and homelessness, LA tries leniency
+
+date: 2025-07-08, updated: 2025-07-08, from: The LAist
+
+The Skid Row Care Campus officially opened this spring with ample offerings for people living on the streets of this historically downtrodden neighborhood. 
+
+<br> 
+
+<https://laist.com/news/health/in-a-nation-growing-hostile-toward-drugs-and-homelessness-la-tries-leniency>
+
+---
+
+## How to care for your mental health during ICE raids, according to a therapist
+
+date: 2025-07-08, updated: 2025-07-08, from: The LAist
+
+A therapist shares tools for coping with stress, fear and uncertainty, from breathing techniques to creating safe spaces at home. 
+
+<br> 
+
+<https://laist.com/news/health/how-to-care-for-your-mental-health-during-ice-raids-according-to-a-therapist>
+
+---
+
+## Worksite immigration raids are supposed to free up jobs for citizens. Here’s what really happens
+
+date: 2025-07-08, updated: 2025-07-08, from: The LAist
+
+Research shows worksite immigration raids can depress local economies as people stay home and stop spending money. So far, they aren't known to free up jobs for citizens. 
+
+<br> 
+
+<https://laist.com/news/politics/worksite-immigration-raids-are-supposed-to-free-up-jobs-for-citizens-heres-what-really-happens>
+
+---
+
+## License plate readers coming to West LA's Cheviot Hills amid privacy and immigration concerns
+
+date: 2025-07-08, updated: 2025-07-08, from: The LAist
+
+People living in the West L.A. community requested the cameras because of recent home burglaries and calls for more safety measures. 
+
+<br> 
+
+<https://laist.com/news/transportation/license-plate-readers-coming-to-west-las-cheviot-hills-amid-privacy-and-immigration-concerns>
+
+---
+
+## Long Beach will warm up this week as heat wave hits much of SoCal
+
+date: 2025-07-08, from: Longbeach Post
+
+<figure><img width="1024" height="583" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/10141850/10mar25-skate-7jpg-205902-jzm9utvj-916608-zpKcm1P4-1024x583.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/10141850/10mar25-skate-7jpg-205902-jzm9utvj-916608-zpKcm1P4-1024x583.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/10141850/10mar25-skate-7jpg-205902-jzm9utvj-916608-zpKcm1P4-300x171.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/10141850/10mar25-skate-7jpg-205902-jzm9utvj-916608-zpKcm1P4-768x437.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/10141850/10mar25-skate-7jpg-205902-jzm9utvj-916608-zpKcm1P4-190x108.jpg 190w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/10141850/10mar25-skate-7jpg-205902-jzm9utvj-916608-zpKcm1P4-400x228.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/10141850/10mar25-skate-7jpg-205902-jzm9utvj-916608-zpKcm1P4.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>As usual, Long Beach will escape the highest temperatures forecast elsewhere in the triple digits. Expect low-to-mid 80s locally.</p>
+<p>The post <a href="https://lbpost.com/news/long-beach-weather-heat-wave-socal">Long Beach will warm up this week as heat wave hits much of SoCal</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/long-beach-weather-heat-wave-socal>
+
+---
+
+## Trump’s tax bill defunded abortion providers. Planned Parenthood is fighting back
+
+date: 2025-07-08, updated: 2025-07-08, from: The LAist
+
+Planned Parenthood centers in California face major funding cuts under Trump’s new budget, threatening access to reproductive and basic healthcare for millions. 
+
+<br> 
+
+<https://laist.com/news/trumps-tax-bill-defunded-abortion-providers-planned-parenthood-is-fighting-back>
+
+---
+
+## Long Beach man pleads guilty to defrauding FEMA by claiming his home was destroyed by wildfire
+
+date: 2025-07-08, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/2020/11/02103403/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2020/11/02103403/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2020/11/02103403/1030-Body-96-450x300.jpg 450w, https://img.lbpost.com/wp-content/uploads/2020/11/02103403/1030-Body-96-1110x741.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2020/11/02103403/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/2020/11/02103403/1030-Body-96-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2020/11/02103403/1030-Body-96-2048x1366.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2020/11/02103403/1030-Body-96-1320x881.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>As a result of his fraudulent application, he obtained about $28,300 in FEMA benefits, prosecutors said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/long-beach-man-to-admit-he-defrauded-fema-by-claiming-his-home-was-destroyed-by-wildfire">Long Beach man pleads guilty to defrauding FEMA by claiming his home was destroyed by wildfire</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/long-beach-man-to-admit-he-defrauded-fema-by-claiming-his-home-was-destroyed-by-wildfire>
+
+---
+
+## School’s out, so are phones. Tips for navigating summer screen time
+
+date: 2025-07-08, updated: 2025-07-08, from: The LAist
+
+There’s no one-size-fits-all solution, but researchers say there are key times to consider limiting screen time. 
+
+<br> 
+
+<https://laist.com/news/education/kids-summer-screen-time-cellphone-video-games>
 
 ---
 
@@ -85,7 +241,7 @@ People living on some streets in the Bluebird Canyon area were told to evacuate 
 
 date: 2025-07-07, from: Longbeach Post
 
-<figure><img width="1024" height="731" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-scaled.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-scaled.jpg 2560w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-300x214.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-1024x731.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-768x548.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-1536x1097.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-2048x1463.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-1200x857.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-1568x1120.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-400x286.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="731" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-scaled.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-scaled.jpg 2560w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-300x214.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-1024x731.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-768x548.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-1536x1097.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-2048x1463.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-1200x857.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-1568x1120.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-400x286.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The city’s website, including its customer service and payment portals, will also be closed.</p>
 <p>The post <a href="https://lbpost.com/news/city/long-beach-plans-outage-of-public-wi-fi-website-as-it-upgrades-routers">Long Beach plans outage of public Wi-Fi, website as it upgrades routers</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -124,7 +280,7 @@ Over half of California farmworkers are undocumented. Recent raids have put the 
 
 date: 2025-07-07, from: Longbeach Post
 
-<figure><img width="1024" height="554" src="https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-554x300.jpg 554w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1110x600.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-768x416.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1536x831.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-2048x1108.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1320x714.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="554" src="https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-554x300.jpg 554w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1110x600.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-768x416.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1536x831.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-2048x1108.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1320x714.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>With 7 of its most ambitious rules for cars, trucks and trains repealed, California officials now must find new ways to clean up the nation’s worst air pollution. But officials face growing pushback about affordability and costs.</p>
 <p>The post <a href="https://lbpost.com/news/cleaning-up-smog-is-suddenly-much-harder-reined-in-by-trump-what-will-california-do-next">Cleaning up smog is suddenly much harder. Reined in by Trump, what will California do next?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

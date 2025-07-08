@@ -1,11 +1,70 @@
 ---
 title: writing
-updated: 2025-07-08 06:09:13
+updated: 2025-07-08 14:08:21
 ---
 
 # writing
 
-(date: 2025-07-08 06:09:13)
+(date: 2025-07-08 14:08:21)
+
+---
+
+## New Book Releases: July 8, 2025
+
+date: 2025-07-08, from: Locus Magazine
+
+<p></p>
+<p style="text-align: center;"><strong data-wp-editing="1">Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
+
+<p style="text-align: center;"><strong>New science fiction, fantasy, and horror books for the week of July 8, 2025. </strong></p>
+<p>Aaronovitch, Ben: <b> Stone &#38; Sky</b> (Astra House/DAW 978-0756407230, $29.00, 304pp, formats: hardcover, ebook, audiobook, 07/08/2025)</p>
+<p>Urban fantasy/detective novel, tenth in the Peter Grant/Rivers of London series. Peter&#8217;s on family holiday in Scotland, and planning on investigating some sheep deaths,  <a href="https://locusmag.com/2025/07/new-book-releases-july-8-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/new-book-releases-july-8-2025/>
+
+---
+
+## Screenwriting Prep: 5 Things to Do Before You Write a Single Word
+
+date: 2025-07-08, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/screenwriting-prep-5-things-to-do-before-you-write-a-single-word" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Richard%20Dreyfuss%2c%20Roy%20Scheider%2c%20and%20Robert%20Shaw%20in%20Jaws.png" alt="Richard Dreyfuss, Roy Scheider, and Robert Shaw in Jaws" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>It’s both exciting and terrifying to start a new screenplay — whether it’s your first, second, third, or beyond.&nbsp;<br><br>The excitement takes hold because you’ve had this idea playing in your head for a while and you’re finally committed to getting that idea — and its story and character elements — onto the page. It’s always exciting to see your concepts come to life.&nbsp;<br><br>The terror can reside in the fact that you now have to bring those visuals and thoughts into the realm of screenwriting structure by way of laying it out in script format, story structure, scene description, dialogue, and characterization.&nbsp;<br><br>That’s the thrill though. That’s why screenwriters do this. You want to see your ideas and concepts grow into compelling and engaging cinematic tales that entice Hollywood to buy them and bring them to life on the screen for audiences to experience.&nbsp;<br><br>But for all of that to happen, your scripts have to not just be good — they need to be amazing. You always want to showcase your best work to the powers that be.&nbsp;<br><br>With that in mind, here we’ll share five screenwriting prep exercises you should do <span style="font-weight: bold;">before you write a single word</span>. Front-end screenwriting tasks are key to the success of any screenplay. If you do the front-end work before you jump into the writing process, your script will be far, far more successful than just jumping into the writing and “vomiting” out a quick first draft.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/screenwriting-prep-5-things-to-do-before-you-write-a-single-word>
+
+---
+
+## Reviving the Spoof Movie
+
+date: 2025-07-08, from: John August blog
+
+<p>John welcomes back Dan Gregor and Doug Mand (Chip n’ Dale: Rescue Rangers, Pretty Smart) to ask, how do you revive a dead genre? Using their upcoming movie The Naked Gun, they look at why the spoof genre fell apart, the challenges of introducing it to a new generation, and why turning genre tropes into [&#8230;]</p>
+The post <a href="https://johnaugust.com/2025/reviving-the-spoof-movie">Reviving the Spoof Movie</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/reviving-the-spoof-movie>
+
+---
+
+## Esperance by Adam Oyebanji: Review by Adrienne Martini
+
+date: 2025-07-08, from: Locus Magazine
+
+<p><strong>Esperance</strong>, Adam Oyebanji (DAW 978-07564-1991-2, $29.00, 432pp, hc) May 2025.</p>
+<p>In the first scene of Adam Oyebanji’s <strong>Es­perance</strong>, detective Ethan Krol is called to the scene of a drowning. One problem: The drowning occurred on a high floor of a tall apartment building. Another problem: The freshly dead man and his infant son have lungs full of seawater and the apartment is in Chicago.</p>
+<p>As Krol works to  <a href="https://locusmag.com/2025/07/esperance-by-adam-oyebanji-review-by-adrienne-martini/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/esperance-by-adam-oyebanji-review-by-adrienne-martini/>
 
 ---
 

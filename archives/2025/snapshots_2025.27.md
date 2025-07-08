@@ -1,11 +1,173 @@
 ---
 title: snapshots
-updated: 2025-07-08 06:09:19
+updated: 2025-07-08 14:08:27
 ---
 
 # snapshots
 
-(date: 2025-07-08 06:09:19)
+(date: 2025-07-08 14:08:27)
+
+---
+
+## Vienna RSS at 20
+
+date: 2025-07-08, from: Michael Tsai
+
+Barijaona Ramaholimihaso: After some minor fiddling, I got the initial version of Vienna running on VirtualBox on my retro hack.[&#8230;]Founding father of Vienna, Steve contributed mostly from 2004 to 2008, made a short comeback in 2010, and is definitely at the root of Vienna&#8217;s ethics: making a clean, spartan, and highly useful app.He almost never [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/08/vienna-rss-at-20/>
+
+---
+
+## Hearing Aids vs. AirPods Pro
+
+date: 2025-07-08, from: Michael Tsai
+
+Steve Hayman: Apple has spent a ton of money getting AirPods Pro approved by the FDA and other regulators to work as over-the-counter hearing aids, including providing a hearing test app on the iPhone that tweaks the audio profile on the headphones. This feature is available in a whole lot of countries, not yet including [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/08/hearing-aids-vs-airpods-pro/>
+
+---
+
+## iOS 26 Developer Beta 3
+
+date: 2025-07-08, from: Michael Tsai
+
+Juli Clover: In some apps like Apple Music, Podcasts, and the App Store, Apple has toned down the transparency of the navigation bars. The look is more opaque to make the buttons more legible.[&#8230;]Apple added new color options for the default &#8220;iOS&#8221; wallpaper that it designed for iOS 26 , so now we have Halo, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/08/ios-26-developer-beta-3/>
+
+---
+
+## iPadOS 26 Developer Beta 3
+
+date: 2025-07-08, from: Michael Tsai
+
+Federico Viticci: How much has Apple really &#8220;nerfed&#8221; Liquid Glass in the latest beta? Here&#8217;s a comparison between iPadOS 26 developer beta 2 (first image) and beta 3. Steve Troughton-Smith: Wow they kinda did the thing? Fullscreen apps on iPadOS work a lot more like fullscreen apps on macOS now &#8212; they generate a new [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/08/ipados-26-developer-beta-3/>
+
+---
+
+## GlobalFoundries to acquire MIPS, bringing together RISC-V chip design and manufacturing
+
+date: 2025-07-08, from: Liliputing
+
+<p>Semiconductor manufacturing company GlobalFoundries has announced plans to acquire chip design company MIPS. While GlobalFoundries says it plans to continue to operate MIPS as a standalone business, the move will bring together two big players in the chip industry, potentially creating a one-stop-shop for RISC-V design and manufacturing. MIPS is a company that&#8217;s been around [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/globalfoundries-to-acquire-mips-bringing-together-risc-v-chip-design-and-manufacturing/">GlobalFoundries to acquire MIPS, bringing together RISC-V chip design and manufacturing</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/globalfoundries-to-acquire-mips-bringing-together-risc-v-chip-design-and-manufacturing/>
+
+---
+
+## NanoPi R76S is a 2.5 inch router board with dual 2.5 GbE LAN ports, HDMI, and a RK3576 processor
+
+date: 2025-07-08, from: Liliputing
+
+<p>It&#8217;s been less than two weeks since FriendlyELEC introduced the NanoPi R3S-LTS as a cheap, tiny router board with a Rokchip RK3566 processor, two Gigabit Ethernet ports, and an HDMI port for video output. Now the company has introduced a new model that&#8217;s a tiny bit larger, but significantly more powerful. The NanoPi R76S has a Rockchip [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/nanopi-r76s-is-a-2-5-inch-router-board-with-dual-2-5-gbe-lan-ports-hdmi-and-a-rk3576-processor/">NanoPi R76S is a 2.5 inch router board with dual 2.5 GbE LAN ports, HDMI, and a RK3576 processor</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/nanopi-r76s-is-a-2-5-inch-router-board-with-dual-2-5-gbe-lan-ports-hdmi-and-a-rk3576-processor/>
+
+---
+
+## 'Save Our Signs' Wants to Save the Real History of National Parks Before Trump Erases It
+
+date: 2025-07-08, from: 404 Media Group
+
+Trump wants to erase any "negative" content from educational sites at National Parks. A group of data preservationists asks visitors to help them document placards and monuments, before they disappear. 
+
+<br> 
+
+<https://www.404media.co/save-our-signs-national-parks-archive-qr-codes/>
+
+---
+
+## Emmys 2025: predicciones finales de nominaciones
+
+date: 2025-07-08, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>¡La cuenta atrás para los Premios Emmy 2025 ha comenzado! La 77ª edición de esta ceremonia, que celebra lo mejor de la televisión estadounidense, revelará sus nominaciones el próximo martes, 15 de julio. La gala de premiación se llevará a cabo el 14 de septiembre en el Peacock Theater de Los Ángeles, California, Estados Undios. [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/emmys-2025-predicciones-finales-de-nominaciones/">Emmys 2025: predicciones finales de nominaciones</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/emmys-2025-predicciones-finales-de-nominaciones/?utm_source=rss&utm_medium=rss&utm_campaign=emmys-2025-predicciones-finales-de-nominaciones>
+
+---
+
+## Advice from the President, 1908
+
+date: 2025-07-08, from: National Archives, Text Message blog
+
+On November 30, 1908, Secretary of State Elihu Root and Japanese ambassador to the United States Baron Kogoro Takahira, in a process initiated by Takahira on October 26, exchanged diplomatic notes discussing the policies of the U.S. and Japan in the Far East – what has since been known as the Root-Takahira Agreement. &#160;The arrangement &#8230; <a href="https://text-message.blogs.archives.gov/2025/07/08/advice-from-the-president-1908/" class="more-link">Continue reading <span class="screen-reader-text">Advice from the President, 1908</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/07/08/advice-from-the-president-1908/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-08, from: Robert's feed at BlueSky)
+
+👇 Thoughtfully put.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lthk2xuju22j>
+
+---
+
+## All Is Politics
+
+date: 2025-07-08, updated: 2025-07-08, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/07/08/all-is-politics/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-08, from: Robert's feed at BlueSky)
+
+Yep, most United States people outside of Hawaii and territories have no clue about the Pacific. https://www.pacificislandtimes.com/post/the-pacific-isn-t-remote-it-s-simply-ignored 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lthhlbn3es2j>
+
+---
+
+## GTBOX G-DOCK Review: A compact graphics dock with OCuLink and USB4
+
+date: 2025-07-08, from: Liliputing
+
+<p>The GTBOX G-DOCK is a dock that lets you add discrete graphics to a mini PC, laptop, handheld, or tablet with an OCuLink or USB4 cable. Some of the other external graphics solutions I&#8217;ve reviewed recently, like the AYANEO AG01 and GPD G1 have a GPU built in. But the GTBOX G-Dock is really just a [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/gtbox-g-dock-review-a-compact-graphics-dock-with-oculink-and-usb/">GTBOX G-DOCK Review: A compact graphics dock with OCuLink and USB4</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/gtbox-g-dock-review-a-compact-graphics-dock-with-oculink-and-usb/>
 
 ---
 
@@ -42,6 +204,56 @@ News flash: Trump is still Trump
 <br> 
 
 <https://paulkrugman.substack.com/p/the-tariff-beatings-will-continue>
+
+---
+
+## One Thing
+
+date: 2025-07-08, from: Ed Summers blog, Inkdroid
+
+<figure>
+<a href="https://www.flickr.com/photos/inkdroid/54641857545/">
+<img class="img-fluid" src="https://live.staticflickr.com/65535/54641857545_f3e641e3b5_c.jpg">
+</a>
+<figcaption>
+The One Thing in Life by Gerald Stern
+</figcaption>
+</figure>
+<p>
+Gerald Stern:
+</p>
+<blockquote>
+<p>
+If I could choose one poem of mine to explain my stance, or my artistic
+position, it would be “The One Thing in Life,” which appears in Lucky
+Life. In this poem I stake out a place for myself, so to speak, that was
+overlooked or ignored or disdained, a place no one else wanted. I mean
+this in a psychological and metaphorical and philosophical sense.
+</p>
+<p>
+When I think about the place “no one else wanted,” I think of an
+abandoned or despised area. I think of weeds, a ruin, a desert, but I
+think of these things not as remote in time or place from that which is
+familiar and cherished and valuable—our civilization—but as things that
+lie just under the surface and just out of eyesight. (Bradish,
+pp. 1486-1487).
+</p>
+</blockquote>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Y81WmFnOTQY?si=NQec65iApEyvtsoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+<h3 id="references">
+References
+</h3>
+<p>
+Bradish, G. (1980). Gerald Stern. Vinson, J. (Ed.), <em>Contemporary
+Poets</em> (Third ed.), St. Martins Press. <a
+href="https://archive.org/details/contemporarypoet0000unse_w1g9/page/1486/">https://archive.org/details/contemporarypoet0000unse_w1g9/page/1486/</a>.
+</p>
+ 
+
+<br> 
+
+<https://inkdroid.org/2025/07/08/one-thing/>
 
 ---
 
@@ -183,6 +395,20 @@ date: 2025-07-07, from: Liliputing
 <br> 
 
 <https://liliputing.com/playtiles-game-controllers-stick-to-your-phone-screen-come-bundled-with-a-season-of-indie-games-for-14-and-up/>
+
+---
+
+## Trump T1 Phone Android OS vs. PureOS
+
+date: 2025-07-07, from: Purism News and Events
+
+<p>Is the Trump T1 Phone Secure, Private, and Truly Made in America? The newly launched Trump T1 Phone is being marketed as a secure, privacy-respecting smartphone made in America. But while the hardware may be assembled in the U.S., the operating system—Android 15—raises significant concerns for anyone who values digital privacy, sovereignty, and freedom from surveillance capitalism.</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/trump-t1-phone-android-os-vs-pureos/">Trump T1 Phone Android OS vs. PureOS</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br> 
+
+<https://puri.sm/posts/trump-t1-phone-android-os-vs-pureos/>
 
 ---
 
@@ -480,7 +706,7 @@ We'll put.
 date: 2025-07-06, updated: 2025-07-06, from: Simon Willison’s Weblog
 
 <p><strong><a href="https://www.generalanalysis.com/blog/supabase-mcp-blog">Supabase MCP can leak your entire SQL database</a></strong></p>
-Here's yet another example of a <a href="">lethal trifecta</a> attack, where an LLM system combines access to private data, exposure to potentially malicious instructions and a mechanism to communicate data back out to an attacker.</p>
+Here's yet another example of a <a href="https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/">lethal trifecta</a> attack, where an LLM system combines access to private data, exposure to potentially malicious instructions and a mechanism to communicate data back out to an attacker.</p>
 <p>In this case, General Analysis identify all three components in a single MCP - the <a href="https://supabase.com/docs/guides/getting-started/mcp">Supabase MCP</a>.</p>
 <p>They imagine a scenario where a developer asks Cursor, running the Supabase MCP, to "use cursor’s agent to list the latest support tickets":</p>
 <blockquote>

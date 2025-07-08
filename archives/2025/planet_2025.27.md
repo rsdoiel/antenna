@@ -1,11 +1,339 @@
 ---
 title: planet
-updated: 2025-07-08 06:09:08
+updated: 2025-07-08 14:08:16
 ---
 
 # planet
 
-(date: 2025-07-08 06:09:08)
+(date: 2025-07-08 14:08:16)
+
+---
+
+## Opposition call on Govt to scrap fees hike for students
+
+date: 2025-07-08, from: RTÉ News
+
+Opposition parties have urged Government to scrap a potential €1,000 student fees hike, saying rise is creating "barriers" to third level education and could force people not to go to college. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0708/1522557-opposition-fees/>
+
+---
+
+## US court clears way for Trump to sack federal workers
+
+date: 2025-07-08, from: RTÉ News
+
+The US Supreme Court has cleared the way for the Trump administration to resume its plans to carry out mass job cuts and elements of his campaign to downsize and reshape the federal government 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0708/1522552-trump-government-workers/>
+
+---
+
+## LDA purchase site in Dublin, may deliver 700 new homes
+
+date: 2025-07-08, from: RTÉ News
+
+The Land Development Agency has purchased a significant industrial site in southwest Dublin, which it says has the potential to deliver over 700 new homes. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0708/1522551-lda-purchase-site/>
+
+---
+
+## Science and the stars – a call to the spiritual, says Vatican astrophysicist
+
+date: 2025-07-08, from: Vatican Obervatory
+
+PHOENIX (OSV News) &#8212; The Vatican Observatory attests that &#8220;science is not against God&#8221; &#8212; and the nexus of science and spirituality... 
+
+<br> 
+
+<https://news.diocesetucson.org/news/science-and-the-stars-a-call-to-the-spiritual-says-vatican-astrophysicist>
+
+---
+
+## Commission's complex work spans years of societal change
+
+date: 2025-07-08, from: RTÉ News
+
+The work that lies ahead for the Commission of Investigation into the Handling of Child Sexual Abuse in Schools is significant, complex and spans decades of huge societal changes in Ireland, writes Ailbhe Conneely. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0708/1522543-commission-analysis/>
+
+---
+
+## Govt nominates eight judges under new appointment process
+
+date: 2025-07-08, from: RTÉ News
+
+The Government has nominated eight new judges, the first nominated for appointment to the judiciary following the introduction of a new process for choosing judges in January this year. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0708/1522541-judges/>
+
+---
+
+## Message in a bottle found in Kerry after 12 years at sea
+
+date: 2025-07-08, from: RTÉ News
+
+A message in a bottle that spent nearly 13 years traversing the Atlantic Ocean has washed up on the shores of Co Kerry. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0708/1522517-message-bottle-kerry/>
+
+---
+
+## Comreg scam text regulator experiencing difficulties
+
+date: 2025-07-08, from: RTÉ News
+
+A new system, launched by Comreg, aimed at clamping down on fraudulent text messages is experiencing significant difficulties. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0708/1522526-scam-text-difficulties/>
+
+---
+
+## Pharma tariffs could reach 200%, says US President
+
+date: 2025-07-08, from: RTÉ News
+
+US President Donald Trump has said he is planning to announce tariffs on imported semiconductor and pharmaceuticals, saying the rate for medicines could reach 200% but that he would give drugmakers about one year "to get their act together". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0708/1522524-eu-us-tariffs/>
+
+---
+
+## Legal proceedings initiated over cancelled social housing
+
+date: 2025-07-08, from: RTÉ News
+
+Minister for Housing James Browne has confirmed that legal proceedings in relation to a cancelled social housing programme have been initiated by way of judicial review against the Department of Housing. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0708/1522513-social-housing-legal-proceedings/>
+
+---
+
+## Man released without charge after seizure of explosives
+
+date: 2025-07-08, from: RTÉ News
+
+Police in Northern Ireland have confirmed that they have carried out a search in south Armagh in connection with the discovery of a number of attempted improvised explosive devices. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0708/1522514-explosive-seized-armagh/>
+
+---
+
+## Trump and Netanyahu set to meet again Tuesday on Gaza
+
+date: 2025-07-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7579349.1752005608!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-trump-netanyahu.JPG' alt='Two men wearing dark suits and red ties' width='620' height='349' title='FILE PHOTO: U.S. President Donald Trump welcomes Israeli Prime Minister Benjamin Netanyahu at the entrance of the White House in Washington, D.C., U.S., April 7, 2025.  '/><p>U.S. President Donald Trump and Israeli Prime Minister Benjamin Netanyahu will meet for a second time in two days Tuesday afternoon to discuss Gaza.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/israel-gaza-ceasefire-trump-netanyahu-1.7580102?cmp=rss>
+
+---
+
+## TSA to stop asking people to remove shoes for security screenings at U.S. airports: reports
+
+date: 2025-07-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7580130.1752004855!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/traveller-putting-his-shoes-in-a-bin-during-an-airport-security-check-in-l-a.jpg' alt='An air traveler places his shoes in a bin before a security check at Los Angeles International Airport.' width='620' height='349' title='An air traveler places his shoes in a bin before passing through the Transportation Security Administration (TSA) security check at Los Angeles International Airport (LAX) on February 20, 2014 in Los Angeles, California. The TSA recently launched a PreCheck program that allows those enrolled in a trusted traveler network to enter about 100 US airports through a special security lane where they dont have to take off shoes, belts and jackets or remove laptops, liquids or gels'/><p>For the first time in almost 20 years, air travellers may no longer be required to take off their shoes during security screenings at U.S. airports.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-air-travellers-shoes-security-1.7580111?cmp=rss>
+
+---
+
+## EC welcomes steps by Ireland to reform litigation costs
+
+date: 2025-07-08, from: RTÉ News
+
+The European Commission has welcomed steps taken here to reform litigation costs to improve access to justice. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0708/1522510-litigation-costs/>
+
+---
+
+## Court cannot regulate Cabinet meetings - Attorney General
+
+date: 2025-07-08, from: RTÉ News
+
+The Attorney General has said the courts cannot regulate who can attend Cabinet meetings and any intervention would be an unprecedented intrusion into that branch of government. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0708/1522504-super-junior-cabinet/>
+
+---
+
+## Palestinians, human rights activists slam Israeli defence minister's plan to build camp on Rafah's ruins
+
+date: 2025-07-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7579809.1751991763!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-hamas-pressures.JPG' alt='A drone view shows Palestinian houses and buildings lying in ruins.' width='620' height='349' title='FILE PHOTO: A drone view shows Palestinian houses and buildings lying in ruins, following a ceasefire between Israel and Hamas, in Rafah in the southern Gaza Strip, January 22, 2025. REUTERS/Mohammed Salem/File Photo'/><p>Critics expressed alarm Tuesday after Israel's defence minister said he plans to move all Palestinians in Gaza into a camp at the southern tip of the war-battered enclave, according to Israeli media, with some saying it would violate international law and amount to crimes against humanity.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/gaza-israel-defence-minister-rafah-1.7579499?cmp=rss>
+
+---
+
+## Man charged with murder after fatal west Dublin stabbing
+
+date: 2025-07-08, from: RTÉ News
+
+A 34-year-old man has appeared in court charged with the murder of Joseph McEvoy, who was attacked and killed in Dublin early yesterday morning. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0708/1522493-fatal-assault-charge/>
+
+---
+
+## Man jailed for manslaughter of friend near Antrim beach
+
+date: 2025-07-08, from: RTÉ News
+
+A 42-year-old man has been handed an indeterminate sentence, with a minimum of eight years in jail, for killing his friend in an attack near a beach in Portrush, Co Antrim. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0708/1522489-jason-murray/>
+
+---
+
+## Man dies after being sucked into plane engine in Italy
+
+date: 2025-07-08, from: RTÉ News
+
+A man has died after being sucked into the engine of a plane preparing to take off at Bergamo Airport in northern Italy, an airport spokesperson said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0708/1522490-italy-plane-death/>
+
+---
+
+## Elon Musk wants to start a new political party. Here's what could stop him (or slow him down)
+
+date: 2025-07-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7579784.1751990898!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='A man in a black baseball cap and logo folds his arms while standing near a ceramic bust of a head.' width='620' height='349' title='Elon Musk is shown at the Oval Office at the White House on May 30, near a bust of Abraham Lincoln. '/><p>Elon Musk has the money and, at least for the moment, the motivation to steer America's politics away from its two dominant parties. But long-standing obstacles to third parties, as well as Musk's own unique profile, could prove too formidable.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/musk-third-party-prospects-1.7579467?cmp=rss>
+
+---
+
+## ICC issues arrest warrants for senior Taliban leaders
+
+date: 2025-07-08, from: RTÉ News
+
+The International Criminal Court (ICC) has issued arrest warrants for two senior Taliban leaders, accusing them of crimes against humanity for persecuting women and girls. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0708/1522485-icc-taliban-women/>
+
+---
+
+## Scale of investigation reflects 'deep impact on families'
+
+date: 2025-07-08, from: RTÉ News
+
+The scale of the Commission of Investigation into allegations of historical sexual abuse in schools across the country reflects the thousands of lives affected and the deep impact on families and communities for generations, according to an organisation working with abuse survivors. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0708/1522482-commission-reax/>
+
+---
+
+## Patient speaks of inappropriate relationship with doctor
+
+date: 2025-07-08, from: RTÉ News
+
+A patient with whom a doctor was found to have engaged in an inappropriate sexual relationship has spoken publicly for the first time about her experience. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0708/1522464-cian-hughes/>
+
+---
+
+## Korean Church celebrates 100th anniversary of martyrs’ beatification
+
+date: 2025-07-08, from: Vatican News
+
+
+                    <p>The Archdiocese of Seoul celebrates the centenary of the beatification of the 79 Korean martyrs of the Gihae and Byeong-o persecutions in the 1800s with a Mass, the release of a new report and a history exhibition. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/korea-seoul-martyrs-beatification-centenary.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/korea-seoul-martyrs-beatification-centenary.html>
+
+---
+
+## 3 First Nations teams compete on new season of The Amazing Race Canada
+
+date: 2025-07-08, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7579647.1751987205!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/blair-and-skylene.jpg' alt='Couple posing' width='620' height='349' title='Blair and Skylene Gladue are a Cree husband and wife team living in Edmonton, A.B. When they&apos;re not competing on The Amazing Race Canada, they can often be found cheering on the Edmonton Oilers and working with youth. '/><p>In the new season of The Amazing Race Canada, three of the 11 teams racing for the win are made up of First Nations competitors.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/first-nations-teams-amazing-race-canada-1.7579587?cmp=rss>
+
+---
+
+## French firefighters battle wildfire threatening Marseille
+
+date: 2025-07-08, from: RTÉ News
+
+Hundreds of firefighters are battling a fast-moving wildfire that reached the outskirts of the southern French city of Marseille, forcing people to stay indoors and the nearby airport to close. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0708/1522457-europe-weather/>
+
+---
+
+## Jota thought to have been driving before fatal crash
+
+date: 2025-07-08, from: RTÉ News
+
+Diogo Jota is thought to have been driving when he and his brother Andre Silva died in a car crash last week, Spanish police have said. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0708/1522471-liverpool-report-for-pre-season-after-jota-funeral/>
 
 ---
 
@@ -21,6 +349,74 @@ Left-leaning opposition parties are due to meet tomorrow to continue discussions
 
 ---
 
+## United Nations warns of dire humanitarian situation in Sudan
+
+date: 2025-07-08, from: Vatican News
+
+
+                    <p>The United Nations renews its warnings of a dire situation in Sudan’s North Darfur province, where conflict is causing extreme shortages in food and clean water.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/sudan-united-nations-humanitarian-emergency-dujarric.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/sudan-united-nations-humanitarian-emergency-dujarric.html>
+
+---
+
+## Pope Leo XIV and a world in the measure of children
+
+date: 2025-07-08, from: Vatican News
+
+
+                    <p>Two months after the election of Pope Leo XIV, several symbolic images from his papacy have begun to circulate, among them an image of the Pope posing for a photo with a young girl offering him a handmade drawing.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-second-month-anniversary-children.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-second-month-anniversary-children.html>
+
+---
+
+## UN summit confronts AI’s dawn of wonders and warnings
+
+date: 2025-07-08, from: United Nations, Top Stories
+
+The UN’s flagship platform on artificial intelligence opened in Geneva on Tuesday, launching four days of high-level dialogue, cutting-edge demonstrations and urgent calls for inclusive AI governance. The event comes as autonomous and generative systems evolve faster than regulatory frameworks can keep pace. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165346>
+
+---
+
+## Srebrenica, 30 years on: UN officials and survivors call for truth, justice and vigilance
+
+date: 2025-07-08, from: United Nations, Top Stories
+
+At the UN General Assembly on Tuesday, survivors of the Srebrenica genocide joined top officials in marking 30 years since thousands of Bosnian Muslims were systematically killed in the worst atrocity on European soil since World War II. The affirmed the need to counter denial, support survivors and promote lasting peace.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165345>
+
+---
+
+## UN rights office urges restraint in Kenya as fresh protests turn deadly
+
+date: 2025-07-08, from: United Nations, Top Stories
+
+The UN human rights office, OHCHR, has expressed deep concern over the killing of at least ten protesters in Kenya on Monday, amid reports that police and security forces used lethal force to quell violent demonstrations in Nairobi and across the country. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165343>
+
+---
+
 ## NCPC urges rethink on personal injury awards increase
 
 date: 2025-07-08, from: RTÉ News
@@ -33,11 +429,11 @@ The National Competitiveness and Productivity Council (NCPC) has advised the Gov
 
 ---
 
-## Commission to examine sexual abuse allegations in schools
+## Groups involved in abuse to be held accountable - McEntee
 
 date: 2025-07-08, from: RTÉ News
 
-The Government is to establish a Commission of Investigation into allegations of historical sexual abuse in schools across the country. 
+Minister for Education Helen McEntee has said the religious groups involved in the abuse "will be held accountable". 
 
 <br> 
 
@@ -69,6 +465,18 @@ Scientists have unearthed in Arizona fossils from an assemblage of animals, incl
 
 ---
 
+## IN PHOTOS | Injuries mount on 2nd day of the running of the bulls
+
+date: 2025-07-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7579760.1751989829!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2223444038.jpg' alt='A man lays on the ground of a cobblestone street as 6 bulls run past him.' width='620' height='349' title='A fallen runner crouches low as the bulls ran past during the second running of the bulls of the San Fermin festival in Pamplona, northern Spain, on July 8, 2025. Thousands of people every year attend the week-long festival and its famous &quot;encierros&quot; or bull runs, every day at 8:00 a.m. through the narrow streets of the old town over an 850 meters (yard) course while runners ahead of them try to stay close to the bulls without falling over or being gored.'/><p>City officials reported eight people were hurt during the second day of the San Fermin festival, per Reuters. The nine-day, centuries-old festival held in Pamplona, Spain, is known for its famous running of the bulls.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/photos/in-photos-injuries-mount-on-2nd-day-of-the-running-of-the-bulls-1.7579648?cmp=rss>
+
+---
+
 ## Gaza civil defence says 29 killed in Israeli strikes
 
 date: 2025-07-08, from: RTÉ News
@@ -78,6 +486,18 @@ Gaza's civil defence agency said that 29 people were killed in Israeli strikes a
 <br> 
 
 <https://www.rte.ie/news/2025/0708/1522425-displaced-people-gaza/>
+
+---
+
+## International court issues arrest warrants for Taliban leaders for persecuting women, girls
+
+date: 2025-07-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7224794.1717539999!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/international-criminal-court-the-hague-2024.jpg' alt='An exterior view of a building in the background with a large blue sign in front, on an angle, with the image of two olive branches surrounding a set of scales next to the words &quot;International Criminal Court&quot; written in white letters in English and French. ' width='620' height='349' title='Exterior view of the International Criminal Court, or ICC, in The Hague, Netherlands, Tuesday, April 30, 2024. The International Criminal Court&apos;s chief prosecutor said Monday, May 20, 2024, that he’s seeking arrest warrants for both Israeli and Hamas leaders in connection with their actions during the seven-month war. '/><p>The International Criminal Court issued arrest warrants Tuesday for the Taliban’s supreme leader and the head of Afghanistan’s Supreme Court on charges of persecuting women and girls since seizing power nearly four years ago.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/taliban-arrest-warrants-international-criminal-court-women-girls-1.7579637?cmp=rss>
 
 ---
 
@@ -93,11 +513,11 @@ Less than four-in-ten people are aware that drinking alcohol can increase the ri
 
 ---
 
-## Chair of commission examining abuse claims appointed
+## As it happened: Govt outlines apartment plans
 
 date: 2025-07-08, from: RTÉ News
 
-Follow live developments as they happen in Leinster House, where Cabinet is meeting to discuss a number of proposals ahead of Leaders' Questions. 
+Follow live developments from Leinster House, where the Housing Committee is meeting to discussing Government's plans for apartments and Committee of Investigation into historic sexual abuse in schools was announced. 
 
 <br> 
 
@@ -153,6 +573,18 @@ The Irish music industry contributes €1 billion annually to the Irish economy,
 
 ---
 
+## Israeli report accuses Hamas of using sexual violence as weapon of war on Oct. 7
+
+date: 2025-07-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7579514.1751980073!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/dinah-project.jpg' alt='A woman wearing a ring on her thumb holds a bound report in her hands. ' width='620' height='349' title='A copy of the report by the Dinah Project on sexual violence committed on Oct. 7, 2023 by Hamas is displayed by a journalist before a ceremony presenting the report to Israel&apos;s first lady Michal Herzog in Jerusalem, Tuesday, July 8, 2025.'/><p>An Israeli report released Tuesday said that Hamas used sexual violence as a “tactical weapon of war” in its Oct. 7, 2023, attacks, building on other investigations by international and Israeli rights groups and the United Nations into the militant group’s assault.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/israeli-report-hamas-sexual-violence-1.7579503?cmp=rss>
+
+---
+
 ## Six million visitors to Notre Dame Cathedral in six months
 
 date: 2025-07-08, from: Vatican News
@@ -169,12 +601,12 @@ date: 2025-07-08, from: Vatican News
 
 ---
 
-## How to spend your holidays according to the popes 
+## How to spend your holidays according to the Popes 
 
 date: 2025-07-08, from: Vatican News
 
 
-                    <p>As Pope Leo XIV’s takes some time off at the Pontifical Villas of Castel Gandolfo from July 6 to 20, Vatican News looks at what past popes have said about holidays. </p>
+                    <p>As Pope Leo XIV’s takes some time off at the Pontifical Villas of Castel Gandolfo from July 6 to 20, Vatican News looks at what past Popes have said about holidays. </p>
                     <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/popes-holidays-rest-relaxing-vacations.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -293,7 +725,7 @@ date: 2025-07-08, from: RTÉ News
 
 ---
 
-## Texas death toll climbs, little hope of more survivors
+## Texas floods death toll climbs to 108, more rain expected
 
 date: 2025-07-08, from: RTÉ News
 
@@ -341,11 +773,11 @@ date: 2025-07-08, from: CBC, World News
 
 ---
 
-## US to send 'more weapons' to Ukraine, says Trump
+## Trump unhappy with Putin, considering sanctions on Russia
 
 date: 2025-07-08, from: RTÉ News
 
-US President Donald Trump said the United States will send additional weapons to Ukraine, after Russia claimed new gains in its ongoing war against its neighbour. 
+US President Donald Trump has said he was not happy with Russian President Vladimir Putin and was considering additional sanctions on Moscow, underscoring his frustration over the growing death toll in Russia's war with Ukraine. 
 
 <br> 
 
@@ -357,7 +789,7 @@ US President Donald Trump said the United States will send additional weapons to
 
 date: 2025-07-07, from: RTÉ News
 
-Indirect negotiations on a Gaza ceasefire between Israel and Hamas have resumed in Qatar as US President Donald Trump pressed Israeli Prime Minister Benjamin Netanyahu for a deal to end the war. 
+US President Donald Trump has said Israeli Prime Minister Benjamin Netanyahu will return to the White House for talks in a bid to end the "tragedy" of Israel's Gaza war. 
 
 <br> 
 
@@ -389,11 +821,11 @@ A group of senior lecturers at Munster Technological University, who are members
 
 ---
 
-## Macron arrives in UK for three-day state visit
+## Macron urges reduction of trade dependency on US, China
 
 date: 2025-07-07, from: RTÉ News
 
-French President Emmanuel Macron has arrived in the UK for a three-day state visit, which will include an address both houses of the British parliament later today. 
+French President Emmanuel Macron has said Britain and France must reduce risks posed by relying too much on the United States and China for trade. 
 
 <br> 
 
@@ -707,7 +1139,7 @@ Goals win games goes the old cliche, and Shane McGrath feels that Tipperary were
 
 ## Human rights must anchor the digital age, says UN’s Türk
 
-date: 2025-07-07, from: United Nations, Economic Development
+date: 2025-07-07, from: United Nations, Top Stories
 
 As digital technologies rapidly reshape every aspect of society, the UN’s top human rights official has called for human rights to be placed at the centre of this transformation. 
 
@@ -719,7 +1151,7 @@ As digital technologies rapidly reshape every aspect of society, the UN’s top 
 
 ## ‘Cooperation is humanity’s greatest innovation,’ UN chief declares at BRICS summit
 
-date: 2025-07-07, from: United Nations, Economic Development
+date: 2025-07-07, from: United Nations, Top Stories
 
 UN Secretary-General António Guterres on Monday warned that the environment is being attacked on all fronts and called on the international community to urgently tackle the intersection of health and climate issues. 
 
@@ -750,6 +1182,18 @@ The United Nations Secretary-General has expressed deep sorrow over the deadly f
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/07/1165337>
+
+---
+
+## UN calls on Taliban to end repressive policies
+
+date: 2025-07-07, from: United Nations, Top Stories
+
+The UN General Assembly on Monday overwhelmingly adopted a resolution expressing deep concern over Afghanistan’s deteriorating humanitarian, economic and human rights conditions, urging the Taliban to reverse repressive policies and ensure inclusive governance. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165342>
 
 ---
 

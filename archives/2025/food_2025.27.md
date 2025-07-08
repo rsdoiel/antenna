@@ -1,11 +1,169 @@
 ---
 title: food
-updated: 2025-07-08 06:09:17
+updated: 2025-07-08 14:08:25
 ---
 
 # food
 
-(date: 2025-07-08 06:09:17)
+(date: 2025-07-08 14:08:25)
+
+---
+
+## The Best Prime Day KitchenAid Stand Mixer Deals
+
+date: 2025-07-08, from: Bon Appetet
+
+The core of your kitchen arsenal is more than $100 off. 
+
+<br> 
+
+<https://www.bonappetit.com/story/prime-day-kitchenaid-deals-2025-07-08>
+
+---
+
+## I Tried the New McDonald’s Spicy McMuffin and, Yes, It’s Actually Spicy
+
+date: 2025-07-08, from: Taste of Home
+
+<p>The famous breakfast sammie from McDonald's has kicked up the heat. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/mcdonalds-spicy-mcmuffin/">I Tried the New McDonald&#8217;s Spicy McMuffin and, Yes, It&#8217;s Actually Spicy</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mcdonalds-spicy-mcmuffin/>
+
+---
+
+## 60+ Best Prime Day Kitchen Sales Actually Worth Your Money (2025)
+
+date: 2025-07-08, from: Bon Appetet
+
+Shop deals from Le Creuset, Breville, KitchenAid, Vitamix, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/amazon-prime-day-kitchen-deals-2025-07-08>
+
+---
+
+## Shop the Best Anti-Prime Day Deals from Sur La Table, Cuisinart, and More
+
+date: 2025-07-08, from: Bon Appetet
+
+Amazon’s not the only retailer offering major savings right now. 
+
+<br> 
+
+<https://www.bonappetit.com/story/anti-prime-day-deals-2025>
+
+---
+
+## Sucafina Launching German Trading Office in 2026
+
+date: 2025-07-08, from: Daily Coffee News
+
+<div><img width="620" height="407" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-620x407.jpg" class="attachment-large size-large wp-post-image" alt="bremen ports" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-620x407.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-300x197.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-150x98.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-768x504.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Multinational green coffee company Sucafina is expanding its footprint in Europe with the launch of a new trading office in Germany, the region&#8217;s largest coffee-consuming country by volume. Slated to... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/08/sucafina-launching-german-trading-office-in-2026/>
+
+---
+
+## Lucy Wang’s Shaved Ice
+
+date: 2025-07-08, from: Taste of Home
+
+This shaved ice recipe is all about making it your own! The tiny pieces of ice melt harmoniously with fresh seasonal fruits, sweetened condensed milk and a mix of toppings. I like sprinkling on crunchy, colorful cereal and something chewy like mochi or gummy candy. —Lucy Wang, Los Angeles, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lucy-wang-shaved-ice/>
+
+---
+
+## Best Prime Day Deals Under $25 for Your Kitchen (2025)
+
+date: 2025-07-08, from: Bon Appetet
+
+Kitchen upgrades for less than a decent bottle of pét-nat. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-prime-day-deals-under-25-dollars-07-08-2025>
+
+---
+
+## Tyler Smith’s Cheesy Italian Shells
+
+date: 2025-07-08, from: Taste of Home
+
+I'm taking you back in time with these classic cheesy, saucy shells. This updated version is bursting with flavor, thanks to a creamy vodka sauce packed with sirloin and Italian sausage. —Tyler Smith, Virginia Beach, Virginia 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tyler-smith-cheesy-italian-shells/>
+
+---
+
+## Salto Coffee Reaches New Elevations Outside Boulder, Colorado
+
+date: 2025-07-08, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Salto-Coffee-Rollinsville-4-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Salto Coffee Rollinsville 4" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Salto-Coffee-Rollinsville-4-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Salto-Coffee-Rollinsville-4-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Salto-Coffee-Rollinsville-4-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Salto-Coffee-Rollinsville-4-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Salto-Coffee-Rollinsville-4.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>While Colorado&#8217;s Salto Coffee continues to draw inspiration from the surrounding aspen trees, alpine lakes and granite facades, its more immediate surroundings have undergone some changes. The 13-year-old company owned... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/08/salto-coffee-reaches-new-elevations-outside-boulder-colorado/>
+
+---
+
+## The Best Prime Day Deal Is Actually This Incredible Blender
+
+date: 2025-07-08, from: Bon Appetet
+
+Incredible and incredibly cheap. A tough combination to beat. 
+
+<br> 
+
+<https://www.bonappetit.com/story/amazon-prime-day-nutribullet-ultra-sale>
+
+---
+
+## In Mozambique, The Gorongosa Coffee Project Means “Coffee For A Better Future”
+
+date: 2025-07-08, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Read "In Mozambique, The Gorongosa Coffee Project Is Changing Lives (And Saving Forests)" on Sprudge Special Projects. 
+
+<br> 
+
+<https://sprudge.com/in-mozambique-the-gorongosa-coffee-project-means-coffee-for-a-better-future-374771.html>
+
+---
+
+## A Case for Just One More Ice Cream Maker
+
+date: 2025-07-08, from: Bon Appetet
+
+Editor in chief Jamila Robinson shares how ice cream became her favorite summer ritual. 
+
+<br> 
+
+<https://www.bonappetit.com/story/a-case-for-just-one-more-ice-cream-maker>
+
+---
+
+## The Electric Convection DirectRoaster is Coming Straight From The Netherlands
+
+date: 2025-07-08, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/DirectRoaster-iStill-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="DirectRoaster iStill 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/DirectRoaster-iStill-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/DirectRoaster-iStill-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/DirectRoaster-iStill-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/DirectRoaster-iStill-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/DirectRoaster-iStill-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A new all-electric commercial coffee roaster from The Netherlands called DirectRoaster is entering the market with a distinctive physical form plus a distinctive method of heat delivery.&#160; Following its... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/08/the-electric-convection-directroaster-is-coming-straight-from-the-netherlands/>
 
 ---
 
@@ -49,18 +207,6 @@ date: 2025-07-08, from: The Sprudge
 
 ---
 
-## Best Prime Day Deals Under $25 for Your Kitchen (2025)
-
-date: 2025-07-08, from: Bon Appetet
-
-Kitchen upgrades for less than a decent bottle of pét-nat. 
-
-<br> 
-
-<https://www.bonappetit.com/story/best-prime-day-deals-under-25-dollars-07-08-2025>
-
----
-
 ## 19 Best Prime Day Espresso Machine Deals on Amazon and Beyond 2025
 
 date: 2025-07-08, from: Bon Appetet
@@ -70,18 +216,6 @@ Why go to the coffee shop for espresso when the espresso can come to you?
 <br> 
 
 <https://www.bonappetit.com/story/amazon-prime-day-espresso-maker-deals-2025-07-08>
-
----
-
-## 52 Best Prime Day Kitchen Deals on Amazon 2025
-
-date: 2025-07-08, from: Bon Appetet
-
-Replace your worn-out kitchen towels, send your dad an espresso machine, and finally get that Vitamix you’ve been coveting. 
-
-<br> 
-
-<https://www.bonappetit.com/story/amazon-prime-day-kitchen-deals-2025-07-08>
 
 ---
 
@@ -401,7 +535,7 @@ date: 2025-07-07, from: Irish Food Hub
 
 date: 2025-07-07, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/drinking-coffee-while-pregnant-620x414.jpg" class="attachment-large size-large wp-post-image" alt="drinking coffee while pregnant" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/drinking-coffee-while-pregnant-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/drinking-coffee-while-pregnant-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/drinking-coffee-while-pregnant-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/drinking-coffee-while-pregnant-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/drinking-coffee-while-pregnant.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new study from a team of researchers in China suggests that coffee or tea consumption during pregnancy does not have a negative impact on the cognitive development of children.... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/drinking-coffee-while-pregnant-620x414.jpg" class="attachment-large size-large wp-post-image" alt="drinking coffee while pregnant" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/drinking-coffee-while-pregnant-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/drinking-coffee-while-pregnant-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/drinking-coffee-while-pregnant-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/drinking-coffee-while-pregnant-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/drinking-coffee-while-pregnant.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A new study from a team of researchers in China suggests that coffee or tea consumption during pregnancy does not have a negative impact on the cognitive development of children.... 
 
 <br> 
 
@@ -413,7 +547,7 @@ date: 2025-07-07, from: Daily Coffee News
 
 date: 2025-07-07, from: Daily Coffee News
 
-<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Actual Coffee Ohio opening" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-1536x1157.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-2048x1542.jpg 2048w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; After 12 years of roasting,&#160; Northwest Ohio&#8217;s Actual Coffee recently opened its first real-as-can-be coffee bar.&#160; Located inside Actual&#8217;s roastery and headquarters just east of Toledo in Northwood, the... 
+<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Actual Coffee Ohio opening" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-1536x1157.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-2048x1542.jpg 2048w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; After 12 years of roasting,&#160; Northwest Ohio&#8217;s Actual Coffee recently opened its first real-as-can-be coffee bar.&#160; Located inside Actual&#8217;s roastery and headquarters just east of Toledo in Northwood, the... 
 
 <br> 
 
@@ -425,7 +559,7 @@ date: 2025-07-07, from: Daily Coffee News
 
 date: 2025-07-07, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Equation-Biochar-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Equation Biochar 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Equation-Biochar-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Equation-Biochar-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Equation-Biochar-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Equation-Biochar-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Equation-Biochar-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Colombia-based green coffee seller Equation Coffee recently introduced Biochar Origins, a line of coffees resulting from a collective regenerative agriculture initiative. The first coffee from the initiative recently came to... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Equation-Biochar-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Equation Biochar 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Equation-Biochar-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Equation-Biochar-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Equation-Biochar-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Equation-Biochar-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Equation-Biochar-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Colombia-based green coffee seller Equation Coffee recently introduced Biochar Origins, a line of coffees resulting from a collective regenerative agriculture initiative. The first coffee from the initiative recently came to... 
 
 <br> 
 

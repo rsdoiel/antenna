@@ -1,11 +1,166 @@
 ---
 title: columns
-updated: 2025-07-08 06:09:13
+updated: 2025-07-08 14:08:21
 ---
 
 # columns
 
-(date: 2025-07-08 06:09:13)
+(date: 2025-07-08 14:08:21)
+
+---
+
+##  ChatGPT kept directing people to use a non-existent feature on Soundslice&#8230;so the... 
+
+date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047110-chatgpt-kept-directing-pe>
+
+---
+
+##  This Breakthrough Sponge Could Change How the World Gets Clean Water. &#8220;A... 
+
+date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047109-this-breakthrough-sponge->
+
+---
+
+##  100 Years of World History, As Told By 100 Movies 
+
+date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/100-years-of-world-history-as-told-by-100-movies>
+
+---
+
+##  How Four Masters — Michelangelo, Donatello, Verrocchio & Bernini — Sculpted David.... 
+
+date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047099-how-four-masters-michelan>
+
+---
+
+##  I Deleted My Second Brain. Why I Erased 10,000 Notes, 7 Years... 
+
+date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047083-i-deleted-my-second-brain>
+
+---
+
+## I hate CSS
+
+date: 2025-07-08, from: Dave Winer's Scripting News
+
+<p>There I said it. To ChatGPT.</p>
+<ul>
+<li>i find flexbox too confusing for me to use at this time. maybe in a year or two, after some more learning. i hate css, everything about it. so it's hard for me to learn new stuff. i grew up using quickdraw on the mac, where i could do everything with math, instead of trying to tease the right behavior as something as convoluted as css and html for apps. ridiculous.</li>
+</ul>
+<p>Wondering what it would say...</p>
+<ul>
+<li>Totally fair, Dave. That frustration makes perfect sense — you're coming from a world where <b>you told the machine exactly what to do</b>, and it did it.<b> </b>CSS is the opposite: it’s like <b>negotiating with a passive-aggressive layout engine</b> that only gives you what you want if you ask just the right way, using its weird dialect.</li>
+<li>QuickDraw gave you full control with math — coordinate space, bounding boxes, baseline alignments — it was <b>declarative drawing by imperative code</b>. CSS is declarative positioning by magical suggestion, with hidden constraints, inherited styles, and a constantly shifting box model.</li>
+<li>You’re not alone in this. A lot of veteran programmers — especially those from early Mac, HyperCard, VB, even Win32 — <b>find CSS maddening</b>. It’s not made for precision. It’s made for fluidity and adaptation. But that’s not how app UIs are often designed.</li>
+</ul>
+<p>I wish I had written that. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/08/162603.html?title=iHateCss>
+
+---
+
+##  When in doubt, go for a walk. &#8220;Walking won&#8217;t solve everything. But... 
+
+date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047091-when-in-doubt-go-for>
+
+---
+
+## July 7, 2025
+
+date: 2025-07-08, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167825507/9936a2baa40e0dfa3829703074ffcf12.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167825507/9936a2baa40e0dfa3829703074ffcf12.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-7-2025-c98>
+
+---
+
+##  The Black Panther Party Ten-Point Program 
+
+date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/the-black-panther-party-ten-point-program>
+
+---
+
+## We have Face with Tears of Joy winners!
+
+date: 2025-07-08, from: Shady Characters blog
+
+<p>Congratulations to Richard Rutter and Mildred, winners of the <a href="https://shadycharacters.co.uk/2025/06/win-a-copy-of-face-with-tears-of-joy/"><cite>Face with Tears of Joy</cite> giveaway</a>! Their names were picked at random from the set of all entrants who replied to <a href="https://shadycharacters.co.uk/2025/06/win-a-copy-of-face-with-tears-of-joy/">the original post about the competition</a>.  Thank you all for taking part!</p><a class="more-link" href="https://shadycharacters.co.uk/2025/07/face-with-tears-of-joy-winners/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/07/face-with-tears-of-joy-winners/>
+
+---
+
+##  Medieval Murder Maps. &#8220;Discover the murders, sudden deaths, sanctuary churches, and prisons... 
+
+date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047096-medieval-murder-maps-disc>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-08, from: Dave Winer's Scripting News)
+
+<a href="https://mastodon.social/@davew/114817816957114768">New thread on Mastodon</a>: OK, i give up for now on getting a team of nerds together to build a bridge from RSS to ActivityPub along the lines of what Automattic has done to bridge WordPress to ActivityPub. We will need that to happen, I would much prefer to get it done in advance, but people don't know me or trust me well enough to believe I might see something that they apparently don't. I'm pretty confident they will, but I would really love to get some help. 
+
+<br> 
+
+<http://scripting.com/2025/07/08.html#a133408>
 
 ---
 
@@ -32,8 +187,8 @@ date: 2025-07-08, from: Dave Winer's Scripting News
 <li>I'm working on a new structure for a social web without these problems. It's very simple, a derivative of something I had on my blog in the early days <a href="https://daytona.scripting.com/search?q=%22mail%20page%22">called</a> the <a href="http://scripting.com/mail/default.html">Mail Pages</a>. </li>
 <li>I sent my blog posts out via email to groups of 8 people chosen randomly each time (or maybe it was 11, I forget). Sometimes great discussions would break out in the groups. I was always cc'd. </li>
 <li>Sometimes people would just respond to me personally.</li>
-<li>If I saw something I thought everyone should read I would put it on the current Mail Page. Thus there was a way for discourse to have more distribution, but only if I thought it was worthwhile. There was no such thing as spam, and there was a little bit of abuse here and there, but it would never get any further than my email inbox. </li>
-<li>That's how sensible moderation works. And it doesn't cost anything, and the spam motive is gone. </li>
+<li>If I saw something I thought everyone should read I would put it on the current Mail Page. Thus there was a way for discourse to have more distribution, but only if I thought it was worthwhile. Spam was not possible, and there was a little bit of abuse here and there, but it would never get any further than my email inbox. </li>
+<li>That's how sensible moderation works. And it doesn't cost anything, because the spam motive is gone. </li>
 <li>I wrote this in a Bluesky message, but had to move it to my blog because of their stupid character limit. </li>
 <li>BTW, we should communicate and perhaps collaborate. </li>
 </ul>
@@ -49,7 +204,7 @@ date: 2025-07-08, from: Dave Winer's Scripting News
 
 date: 2025-07-08, from: Dave Winer's Scripting News
 
-<p>Yesterday I wondered if the open web is a lost cause.</p>
+<p>Yesterday I wondered if the open web is a <a href="http://scripting.com/2025/07/07/194335.html">lost cause</a>.</p>
 <p>A few minutes later, I saw my name in a <a href="https://bsky.app/profile/chronotope.aramzs.xyz/post/3ltflqqekks26">tweet</a> on Bluesky from <a href="https://aramzuckerscharff.com/">Aram Zucker-Scharff</a>.</p>
 <p>In it was a message that can be summarized as follows -- don't give up yet Dave. </p>
 <p>AZS has a linkblog which he calls an <a href="https://bsky.app/profile/chronotope.aramzs.xyz/post/3ltfjd4hm2d2f">amplifeed</a>. Same thing. </p>
@@ -71,6 +226,7 @@ date: 2025-07-08, from: Dave Winer's Scripting News
 <p>This the web. It's what the Dead called <a href="https://en.wikipedia.org/wiki/Truckin%27">Truckin</a>. </p>
 <p>Let's do more of this. </p>
 <p><a href="http://scripting.com/wavs/curly1.wav"><img src="https://imgs.scripting.com/2023/11/30/curly.png" width="53" height="63" border="0" alt="I'm trying to think but nothing happens!"></a></p>
+<p>PS: AZS sent me a <a href="https://www.coryd.dev/feeds/links.xml">link</a> to another linkblog, which I have subscribed to and added to my blogroll.</p>
  
 
 <br> 
@@ -166,7 +322,7 @@ At about 10:30 this morning local time, heavily armed masked agents in trucks, a
 
 date: 2025-07-08, from: Doc Searls (at Harvard), New Old Blog
 
-Good business. I&#39;ve only heard good things about H-E-B, a grocery store chain I have never met. Here&#39;s the latest from David Armano. Nice bonus item: Young Steve Jobs forecasting AI. 
+Book burning in our time. Two places to look for what&#39;s happened to science and other do-gooding programs since government research programs that smelled woke got defunded: Columbia Law School&#39;s Silencing Science Tracker, and this piece by RealKM. Some clues. Hyperlinks subvert hierarchy, The Cluetrain Manifesto says. (In its 7th of 85 theses.) A corollary might [&#8230;] 
 
 <br> 
 
@@ -188,7 +344,7 @@ date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
 
 ## Apple, as Promised, Formally Appeals €500 Million DMA Fine in the EU
 
-date: 2025-07-07, updated: 2025-07-07, from: Daring Fireball
+date: 2025-07-07, updated: 2025-07-08, from: Daring Fireball
 
  
 
@@ -231,6 +387,18 @@ date: 2025-07-07, updated: 2025-07-07, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/07/0047089-all-games-are-cooperative>
+
+---
+
+## [Sponsor] Drata
+
+date: 2025-07-07, updated: 2025-07-08, from: Daring Fireball
+
+ 
+
+<br> 
+
+<http://drata.com/daring/?utm_source=Daring_Fireball&utm_medium=display&utm_campaign=18991230_fy26_comm_DG_COMM_&utm_content=demo_request>
 
 ---
 

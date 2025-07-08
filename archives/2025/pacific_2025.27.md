@@ -1,11 +1,48 @@
 ---
 title: pacific
-updated: 2025-07-08 06:09:11
+updated: 2025-07-08 14:08:19
 ---
 
 # pacific
 
-(date: 2025-07-08 06:09:11)
+(date: 2025-07-08 14:08:19)
+
+---
+
+## From soil to crown: UH Mānoa alumna digs deep for pageant success
+
+date: 2025-07-08, from: University of Hawaiʻi News
+
+<p>India Kawelolani Calso Ching cultivated success in science and pageantry.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/08/uh-ctahr-alumna-pageant-success/">From soil to crown: <abbr>UH</abbr> Mānoa alumna digs deep for pageant success</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/08/uh-ctahr-alumna-pageant-success/>
+
+---
+
+## Running the show: The youngsters behind the scenes at the Pacific Mini Games
+
+date: 2025-07-08, from: 
+
+An unexpected group has been playing a key role in making the Mini Games a success. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566289/running-the-show-the-youngsters-behind-the-scenes-at-the-pacific-mini-games>
+
+---
+
+## Palau president on Pacific Mini Games: 'It is all about...lifting each other up'
+
+date: 2025-07-08, from: 
+
+"It is about sharing, supporting, and lifting each other up." 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566372/palau-president-on-pacific-mini-games-it-is-all-about-lifting-each-other-up>
 
 ---
 
@@ -685,18 +722,6 @@ By Pacific Island Times News Staff   The Port Authority of Guam has filed a pet
 
 ---
 
-## Running the show: The youngsters behind the scenes at the Pacific Mini Games
-
-date: 2025-07-08, from: 
-
-An unexpected group has been playing a key role in making the Mini Games a success. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/566289/running-the-show-the-youngsters-behind-the-scenes-at-the-pacific-mini-games>
-
----
-
 ## Immigration NZ confirms fraud in Samoa: Staff bribed to help Samoan nationals obtain visas
 
 date: 2025-07-08, from: 
@@ -810,12 +835,12 @@ date: 2025-07-07, from:
 
 ---
 
-## $300K endowment honors Susan Hirano, supports cancer care at UH
+## $250K endowment honors Susan Hirano, supports cancer care at UH
 
 date: 2025-07-07, from: University of Hawaiʻi News
 
 <p>A new endowment honors Susan Hirano’s legacy by supporting emotional and educational resources for cancer patients and their families.</p>
-The post <a href="https://www.hawaii.edu/news/2025/07/07/susan-hirano-cancer-care-endowment/">$300K endowment honors Susan Hirano, supports cancer care at <abbr>UH</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2025/07/07/susan-hirano-cancer-care-endowment/">$250K endowment honors Susan Hirano, supports cancer care at <abbr>UH</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <br> 
 

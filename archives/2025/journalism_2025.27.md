@@ -1,11 +1,35 @@
 ---
 title: journalism
-updated: 2025-07-08 06:09:14
+updated: 2025-07-08 14:08:22
 ---
 
 # journalism
 
-(date: 2025-07-08 06:09:14)
+(date: 2025-07-08 14:08:22)
+
+---
+
+## Can Medical Cannabis Help Revitalise Regional NSW
+
+date: 2025-07-08, from: The Sundail (CSUN Student Newspaper)
+
+As parts of regional New South Wales wrestle with population decline, agricultural instability, and economic uncertainty, a surprising contender for revitalisation is gaining momentum: legal cannabis. From medicinal cultivation to... 
+
+<br> 
+
+<https://sundial.csun.edu/194850/sundialbrandstudio/sundial-marketplace/can-medical-cannabis-help-revitalise-regional-nsw/>
+
+---
+
+## 7 Options To Consider If You Didn’t Get Into Your Dream Grad School
+
+date: 2025-07-08, from: The Sundail (CSUN Student Newspaper)
+
+Are you feeling disappointed because your dream grad school didn&#8217;t send that coveted acceptance letter? Take a deep breath and pause for a moment. This setback might just be a... 
+
+<br> 
+
+<https://sundial.csun.edu/194846/sundialbrandstudio/sundial-marketplace/7-options-to-consider-if-you-didnt-get-into-your-dream-grad-school/>
 
 ---
 

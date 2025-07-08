@@ -1,11 +1,47 @@
 ---
 title: motorcycles
-updated: 2025-07-08 06:09:16
+updated: 2025-07-08 14:08:24
 ---
 
 # motorcycles
 
-(date: 2025-07-08 06:09:16)
+(date: 2025-07-08 14:08:24)
+
+---
+
+## “I’ve sat in a wood chassis five months ago”, Drivers react to the 2028 IndyCar regulations
+
+date: 2025-07-08, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer On June 21, IndyCar announced the long awaited specs for the new chassis formula set to debut in 2028.&#160; “The time has come for a&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/feature/ive-sat-in-a-wood-chassis-five-months-ago-drivers-react-to-the-2028-indycar-regulations/>
+
+---
+
+## These New Leatherman Knives Are Just Knives, and That's Good
+
+date: 2025-07-08, from: Ride Apart, Electric Motorcycle News
+
+Nothing more, nothing less.  
+
+<br> 
+
+<https://www.rideapart.com/news/765005/leatherman-tool-fixed-folding-pocket-knife/>
+
+---
+
+## Stop Riding Your Honda NC750X, There's a Front Tire Recall On
+
+date: 2025-07-08, from: Ride Apart, Electric Motorcycle News
+
+A manufacturing defect could lead to an unsafe front tire and increase the risk of a crash. 
+
+<br> 
+
+<https://www.rideapart.com/news/765020/2024-honda-nc750x-front-tire-recall/>
 
 ---
 
@@ -147,7 +183,7 @@ The list of features will make you wonder whether every purchase you make is a r
 
 date: 2025-07-07, from: Kickin the Tires blog
 
-After 10 races, there are now three different winners in the 2025 NTT IndyCar Series season.&#160; Scott Dixon brought home his 59th career IndyCar win, inching closer to A.J. Foyt’s&#8230;  
+By Austin Lawton, Staff Writer After 10 races, there are now three different winners in the 2025 NTT IndyCar Series season.&#160; Scott Dixon brought home his 59th career IndyCar win,&#8230;  
 
 <br> 
 

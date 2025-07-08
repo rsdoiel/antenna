@@ -1,11 +1,103 @@
 ---
 title: home
-updated: 2025-07-08 06:09:15
+updated: 2025-07-08 14:08:23
 ---
 
 # home
 
-(date: 2025-07-08 06:09:15)
+(date: 2025-07-08 14:08:23)
+
+---
+
+## How to Deadhead Flowers for More Blooms and Healthier Plants (Photos)
+
+date: 2025-07-08, from: Homestead and Chil
+
+<p>Come learn when, why, and how to deadhead flowers to extend the blooming season and grow larger, healthier plants. Deadheading is easy to do the reward is huge! Tips for both annual and perennial flowers included.</p>
+<p>The post <a href="https://homesteadandchill.com/how-to-deadhead-flowers/">How to Deadhead Flowers for More Blooms and Healthier Plants (Photos)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/how-to-deadhead-flowers/>
+
+---
+
+## When Are You Too Old to Drive? Experts Weigh In
+
+date: 2025-07-08, from: Family Handyman Blog
+
+<p>There is no legal age to stop driving, but it is vital to be aware of pitfalls, so you can keep yourself and others safe on the road.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/when-are-you-too-old-to-drive/">When Are You Too Old to Drive? Experts Weigh In</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/when-are-you-too-old-to-drive/>
+
+---
+
+## Can Alexa Call 911 in an Emergency?
+
+date: 2025-07-08, from: Family Handyman Blog
+
+<p>If you have an Amazon device, you can sometimes use it to initiate calls. But can your Alexa call 911 for you?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/can-alexa-call-911-in-an-emergency/">Can Alexa Call 911 in an Emergency?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/can-alexa-call-911-in-an-emergency/>
+
+---
+
+## This $1.1M Tennessee Midcentury Is a Ray of ’60s Sunshine
+
+date: 2025-07-08, from: Dwell
+
+The completely revamped Chattanooga home has bright-yellow accents, a pristine pool, and plenty of vintage charm. 
+
+<br> 
+
+<https://www.dwell.com/article/renovated-midcentury-home-chattanooga-tennessee-real-estate-45a46da1>
+
+---
+
+## How to Identify, Prevent, and Treat Sunburn on Cactus Plants
+
+date: 2025-07-08, from: The Gardener's Path
+
+<p>Cactus sunburn can cause permanent scarring, tissue damage, and rot if left untreated. It can happen when plants are moved too quickly into intense light or during unexpected heatwaves. Learn how to prevent cactus sunburn, recognize the early signs, and the right steps to help your plant recover in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/cactus-sunburn/">How to Identify, Prevent, and Treat Sunburn on Cactus Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/cactus-sunburn/>
+
+---
+
+## An Exposed Steel Skeleton Revived This 115-Year-Old Vancouver Home
+
+date: 2025-07-08, from: Dwell
+
+The framework reinforces the wood-framed structure, which had been a rooming house and a hospital before being turned into a family residence. 
+
+<br> 
+
+<https://www.dwell.com/article/3789-redo-darcy-jones-architects-family-home-renovation-ffc39671>
+
+---
+
+## The Only Amazon Prime Day Deals Worth Shopping, According to Our Editors
+
+date: 2025-07-08, from: Sunset Magazine - Living in the West
+
+Amazon Prime Day is the biggest shopping event of the year. Sunset editors are sharing their favorite deals. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/best-prime-day-deals-2025>
 
 ---
 
@@ -167,6 +259,30 @@ Welcome to our annual exploration of destination homes around the world.
 
 ---
 
+## Our Favorite House Museums, From Kyoto to Queens
+
+date: 2025-07-08, from: Dwell
+
+We picked some of the best places to see how design luminaries and artists around the world really lived. 
+
+<br> 
+
+<https://www.dwell.com/article/best-house-museums-in-the-world-according-to-dwell-editors-2e592c4c>
+
+---
+
+## What It’s Like to Live in a Pop Culture Landmark
+
+date: 2025-07-08, from: Dwell
+
+Whether you’re a superfan, a savvy businessperson, or not quite sure what you’re getting yourself into, the experience of owning a movie-famous pad is hard to put a price tag on. 
+
+<br> 
+
+<https://www.dwell.com/article/what-its-like-to-live-in-a-movie-famous-pop-culture-house-a11db58e>
+
+---
+
 ## An Unconventional Toronto Development Offers a Template for "Gentle Density"
 
 date: 2025-07-08, from: Dwell
@@ -176,6 +292,34 @@ The experimental condo project provides a proof of concept for how new multifami
 <br> 
 
 <https://www.dwell.com/article/ulster-house-lga-architectural-partners-toronto-canada-8f73c7b3>
+
+---
+
+## Building A Tiny House On A Foundation – What You Need To Know Before You Build
+
+date: 2025-07-08, from: The Tiny Life blog
+
+<p>When I built my own tiny home, I hadn&#8217;t really considered building a tiny house on a foundation. But in recent years, more and more people are skipping the trailer and directly building a tiny home on a foundation. So today let&#8217;s talk about how to build</p>
+<p>The post <a href="https://thetinylife.com/building-a-tiny-house-on-a-foundation-what-you-need-to-know-before-you-build/">Building A Tiny House On A Foundation &#8211; What You Need To Know Before You Build</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/building-a-tiny-house-on-a-foundation-what-you-need-to-know-before-you-build/>
+
+---
+
+## Amazon Prime Day Is Here! These Are the Home and Garden Deals Worth Your Money
+
+date: 2025-07-08, from: Family Handyman Blog
+
+<p>Amazon Prime Day is back, and it's better than ever. Score four days of deep discounts on trusted brands across home, garden, tools and more. Here are some of our all-time favorite Family Handyman products, and they're on sale now!</p>
+<p>The post <a href="https://www.familyhandyman.com/list/amazon-prime-day-2025/">Amazon Prime Day Is Here! These Are the Home and Garden Deals Worth Your Money</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/amazon-prime-day-2025/>
 
 ---
 
@@ -283,18 +427,6 @@ date: 2025-07-07, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/f-j-keyboard-keys-raised-lines/>
-
----
-
-## The Only Amazon Prime Day Deals Worth Shopping, According to Our Editors
-
-date: 2025-07-07, from: Sunset Magazine - Living in the West
-
-Amazon Prime Day is the biggest shopping event of the year. Sunset editors are sharing their favorite deals. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/shopping/best-prime-day-deals-2025>
 
 ---
 

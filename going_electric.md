@@ -1,11 +1,283 @@
 ---
 title: going electric
-updated: 2025-07-08 06:09:17
+updated: 2025-07-08 14:08:25
 ---
 
 # going electric
 
-(date: 2025-07-08 06:09:17)
+(date: 2025-07-08 14:08:25)
+
+---
+
+## This $15,000 Toyota EV is selling faster than expected
+
+date: 2025-07-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Toyota-bZ3X-EV-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota’s new electric SUV is a surprise hit in China. Starting at just $15,000, the <a href="https://electrek.co/guides/toyota/">Toyota bZ3X</a> is already the top-selling joint venture brand EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="423902" href="https://electrek.co/2025/07/08/15000-toyota-ev-selling-faster-than-expected/#more-423902" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/08/15000-toyota-ev-selling-faster-than-expected/>
+
+---
+
+## Bentley's New EV Makes Jaguar's Reboot Look Tame
+
+date: 2025-07-08, from: Inside EVs News
+
+Meet the Bentley EXP 15, a "design vision for the future" that's sure to upset some purists.  
+
+<br> 
+
+<https://insideevs.com/news/765185/bentley-exp-design-jaguar-ev/>
+
+---
+
+## Elon Musk tells Tesla’s biggest cheerleader on Wall Street to ‘shut up’ , here’s why
+
+date: 2025-07-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Elon-Musk-Game-of-Thrones.webp?w=1500" /></div><p>Elon Musk told Tesla’s biggest cheerleader on Wall Street, Wedbush analyst Dan Ives, to ‘shut up’ and the reason why is absolutely ridiculous.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="423901" href="https://electrek.co/2025/07/08/elon-musk-tells-teslas-biggest-cheerleader-on-wall-street-to-shut-up-heres-why/#more-423901" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/08/elon-musk-tells-teslas-biggest-cheerleader-on-wall-street-to-shut-up-heres-why/>
+
+---
+
+## Porsche is already selling lots more electric Macans than gas ones
+
+date: 2025-07-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/IMG_0932-e1751997694814.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Porsche released its sales numbers for the first half of 2025 today, and the brand is doing impressively well at EV sales.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="porsche,porsche-macan" data-layer-viewtype="unknown" data-post-id="423878" href="https://electrek.co/2025/07/08/porsche-is-already-selling-lots-more-electric-macans-than-gas-ones/#more-423878" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/08/porsche-is-already-selling-lots-more-electric-macans-than-gas-ones/>
+
+---
+
+## This EV Just Set A Guinness World Record For The Longest Drive On A Single Charge
+
+date: 2025-07-08, from: Inside EVs News
+
+The Lucid Air Grand Touring is the world's official long-range EV champion. 
+
+<br> 
+
+<https://insideevs.com/news/765158/lucid-air-range-guinness-record/>
+
+---
+
+## Prime Day-1 Green Deals: Lectric’s new XP Trike2, EcoFlow, Segway e-bikes, ECOVACS robot mowers, Anker SOLIX, and much more
+
+date: 2025-07-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Lectric-XP-Trike2-1.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Amazon’s Prime Day is in full swing through the rest of the week, and we’ve got a jam-packed edition of Green Deals for you today from the first round of savings that we’ve spotted so far, with all the rest being added to our <a href="https://electrek.co/2025/07/08/july-prime-day-2025-green-deals-evs-power-stations-tools-appliances-more/">Prime Day Green Deals hub here</a>, which we’ll be updating regularly. Leading the pack is the preorder launch of <a href="https://9to5toys.com/2025/07/08/lectric-xp-trike2-preorder-1499/">Lectric’s new XP Trike2</a> that is getting $227 in free gear at <a href="https://9to5toys.com/2025/07/08/lectric-xp-trike2-preorder-1499/">$1,499 through July 28th</a>. We also have some EcoFlow direct-website Prime Day savings, like the <a href="https://9to5toys.com/2025/07/08/ecoflow-delta-pro-3-bundle-new-2849-low-more/">DELTA Pro 3 bundle</a> with a 400W panel and a transfer switch at a <a href="https://9to5toys.com/2025/07/08/ecoflow-delta-pro-3-bundle-new-2849-low-more/">new $2,849 low</a>, among others. There’s also the new low price hitting <a href="https://9to5toys.com/2025/07/08/segway-xafari-and-xyber-e-bikes-from-new-2000-low/">Segway’s Xafari e-bike for $2,000</a>, while the <a href="https://9to5toys.com/2025/07/08/segway-xafari-and-xyber-e-bikes-from-new-2000-low/">Xyber e-bike is down at $3,000</a>. All that and much more are waiting for you below. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="423871" href="https://electrek.co/2025/07/08/lectric-xp-trike2-ecoflow-segway-e-bikes-more/#more-423871" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/08/lectric-xp-trike2-ecoflow-segway-e-bikes-more/>
+
+---
+
+## Ford launches new $0 down, 0% interest summer sales promo and you get a free EV charger
+
+date: 2025-07-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/2025-Ford-F-150-Lightning.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford has a new idea to help you save this summer: $0 down payment, 0% interest, and zero payments for the first 90 days. The new summer sales promo is available on most <a href="https://electrek.co/guides/ford/">Ford</a> and Lincoln models. Those buying an electric vehicle can also score a free home EV charger.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="423877" href="https://electrek.co/2025/07/08/ford-launches-new-0-down-0-interest-summer-sales-promo/#more-423877" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/08/ford-launches-new-0-down-0-interest-summer-sales-promo/>
+
+---
+
+## Ford’s LFP Battery Plant Survived Trump’s Anti-EV Blitz. Here’s How
+
+date: 2025-07-08, from: Inside EVs News
+
+The plant is crucial to Ford's affordable EV ambitions. 
+
+<br> 
+
+<https://insideevs.com/news/765170/ford-lfp-battery-plant-qualify-production-credits/>
+
+---
+
+## The big, glaring problem with Kawasaki’s electric motorcycles
+
+date: 2025-07-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/kawasaki-ninja-e-1-header.webp?w=1600" /></div><p>It’s not often we get to applaud a legacy motorcycle manufacturer for doing what so many still haven’t: actually bringing an electric motorcycle to market. So credit where credit is due – Kawasaki didn’t just make one electric motorcycle, they made two: the<a href="https://electrek.co/2023/11/27/closer-look-at-kawasakis-new-electric-motorcycles-ninja-e-1-and-z-e-1/"> Ninja e-1 and Z e-1.</a> </p>
+
+
+
+<p>They’re sleek, affordable, and surprisingly refined machines that show real promise in design and execution. But once you get past the glossy panels and respected nameplate, there’s still one glaring issue that we can’t ignore.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle" data-layer-viewtype="unknown" data-post-id="423765" href="https://electrek.co/2025/07/08/the-big-glaring-problem-with-kawasakis-electric-motorcycles/#more-423765" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/08/the-big-glaring-problem-with-kawasakis-electric-motorcycles/>
+
+---
+
+## Nissan is already cutting production of the new LEAF EV and it hasn’t even launched yet
+
+date: 2025-07-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Nissan-LEAF-EV-production.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Nissan is already scaling back production plans for the new<a href="https://electrek.co/guides/nissan-leaf/"> LEAF</a>, which is set to launch later this year. As it scrambles to turn things around, this could further complicate Nissan’s recovery plan.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,nissan-leaf" data-layer-viewtype="unknown" data-post-id="423860" href="https://electrek.co/2025/07/08/nissan-cuts-new-leaf-ev-production-and-it-hasnt-even-launched/#more-423860" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/08/nissan-cuts-new-leaf-ev-production-and-it-hasnt-even-launched/>
+
+---
+
+## Volvo Will Now Sell You An Armored Plug-In Hybrid SUV
+
+date: 2025-07-08, from: Inside EVs News
+
+Take an XC90 and XC60 PHEV. Now add bulletproofing, and voila.  
+
+<br> 
+
+<https://insideevs.com/news/765134/volvo-armored-phev-xc90-xc60/>
+
+---
+
+## Hyundai’s new Elexio electric SUV interior looks like a huge upgrade
+
+date: 2025-07-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Hyundai-Elexio-EV-interior.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai has an answer to BYD and other leaders in the world’s largest EV market. The Elexio is more than just another electric SUV. It’s a technology powerhouse. <a href="https://electrek.co/guides/hyundai/">Hyundai</a> unveiled the Elexio interior for the first time with a massive 27″ infotainment system at the center.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="423826" href="https://electrek.co/2025/07/08/hyundais-new-elexio-electric-suv-interior-looks-like-a-big-upgrade/#more-423826" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/08/hyundais-new-elexio-electric-suv-interior-looks-like-a-big-upgrade/>
+
+---
+
+## Nissan’s EV Strategy Hits Another Roadblock
+
+date: 2025-07-08, from: Inside EVs News
+
+Plus, Tesla's problem in China isn't political and Kia looks to build a sub-$30k city car. 
+
+<br> 
+
+<https://insideevs.com/news/765052/nissan-ev-crossover-delayed-leaf/>
+
+---
+
+## July Prime Day 2025 Green Deals: EVs, power stations, tools, appliances, more
+
+date: 2025-07-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Amazon-Prime-Day_ev_f9a8f9.png?w=1600" /></div><p>It’s that time of the year once again, with Amazon’s Prime Day officially kicking off with plenty of <a href="https://9to5toys.com/guides/green-deals/">amazing Green Deals</a> and beyond – with several even continuing from earlier July 4th events. The savings train has officially rolled into the station, and this year we’re getting four days of deals that are dropping prices to some of the lowest of the year, alongside many of our favorite eco-friendly tech brands also offering direct parallel sales too. You’ll find price cuts on EVs, power stations, electric tools, ENERGY STAR-certified appliances, and much more below, curated together in this one-stop shopping hub. Don’t miss your chance to electrify your life at the best prices while they last during this event. We will be regularly updating this hub over the course of the event, so check back later if nothing catches your eye yet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="423670" href="https://electrek.co/2025/07/08/july-prime-day-2025-green-deals-evs-power-stations-tools-appliances-more/#more-423670" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/08/july-prime-day-2025-green-deals-evs-power-stations-tools-appliances-more/>
+
+---
+
+## Rivian R1 Quad kick turns into the new EV Halo car brand
+
+date: 2025-07-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/image_ad1fd6.png?w=1600" /></div><p>Rivian flew us out to Lake Tahoe to show off the crazy capabilities of its new quad-motor powertrain on both its R1T pickup truck and R1S SUV. Rivian’s original R1S and R1T were quad-motor vehicles, but as of the second generation of the R1 platform, only dual and tri-motor variants existed. So why quad? Why now?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="423588" href="https://electrek.co/2025/07/08/rivian-r1-quad-kick-turns-into-the-new-ev-halo-car-brand/#more-423588" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/08/rivian-r1-quad-kick-turns-into-the-new-ev-halo-car-brand/>
+
+---
+
+## Kia reveals the upgraded EV5 electric SUV with up to 329 miles range
+
+date: 2025-07-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Kia-EV5-Europe-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia unveiled the new EV5, which will be sold in global markets like Europe and Korea. It’s slightly smaller than the Tesla Model Y, but <a href="https://electrek.co/guides/kia/">Kia </a>says the EV5 is “a cornerstone” to its growth strategy.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev5" data-layer-viewtype="unknown" data-post-id="423788" href="https://electrek.co/2025/07/08/kia-reveals-upgraded-ev5-with-up-to-329-miles-range/#more-423788" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/08/kia-reveals-upgraded-ev5-with-up-to-329-miles-range/>
+
+---
+
+## Lucid Air nabs Guinness World Record for longest distance traveled by an EV on a single charge [Video]
+
+date: 2025-07-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Lucid-Air-World-Record-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>American EV automaker <a href="https://electrek.co/guides/lucid-motors/">Lucid Motors</a> has demonstrated another lesson in premium efficiency. Earlier this week, Lucid took a Grand Touring version of its flagship Air sedan on a Guinness World Record-setting trip from Switzerland to Germany, showcasing the capabilities of its technology while providing more evidence that all-electric models are the future of long-distance travel.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="guinness-world-record,lucid-air,lucid-motors" data-layer-viewtype="unknown" data-post-id="423780" href="https://electrek.co/2025/07/08/lucid-air-nabs-guinness-world-record-for-longest-distance-traveled-by-an-ev-on-a-single-charge-video/#more-423780" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/08/lucid-air-nabs-guinness-world-record-for-longest-distance-traveled-by-an-ev-on-a-single-charge-video/>
+
+---
+
+## Chevy's BrightDrop Van Becomes A 270-Mile Electric Camper—Here’s What’s Inside
+
+date: 2025-07-08, from: Inside EVs News
+
+Thanks to its General Motors bones, the Grounded G3 RV is more than just a gimmick. And it's compatible with Tesla Superchargers. 
+
+<br> 
+
+<https://insideevs.com/news/765112/grounded-g3-brightdrop-electric-rv/>
 
 ---
 

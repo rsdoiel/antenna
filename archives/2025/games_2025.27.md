@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-07-08 06:09:14
+updated: 2025-07-08 14:08:22
 ---
 
 # games
 
-(date: 2025-07-08 06:09:14)
+(date: 2025-07-08 14:08:22)
+
+---
+
+## Jeffrey Wright’s Dispatch performance surprised developer AdHoc Studio in the best way
+
+date: 2025-07-08, updated: 2025-07-08, from: Polygon Website
+
+Dispatch features a lot of characters, and you’re going to recognize the voices behind all of them. AdHoc Studio’s upcoming Telltale-like superhero workplace comedy, where you play as a former superhero who oversees a team of superpowered misfits, stars actors like Aaron Paul, acclaimed voice actors like Laura Bailey, YouTuber Jacksepticeye, and many more. Jeffrey [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/611609/dispatch-jeffrey-wright-chase-superhero-interview>
+
+---
+
+## James Gunn’s DCU reboot builds a more vulnerable (and sillier) Superman
+
+date: 2025-07-08, updated: 2025-07-08, from: Polygon Website
+
+Ever since the 1978-1987 run of Superman movies starring Christopher Reeve ended, filmmakers have been puzzling over how to make the character vulnerable in a meaningful way, to ensure that dramatic conflict in his stories doesn’t look like a breeze for such a godlike figure. Usually, this has involved looking to whatever version came directly [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/611560/superman-james-gunn-dcu-reboot-review>
+
+---
+
+## Bayonetta creator is demanding an apology after voice acting controversy
+
+date: 2025-07-08, updated: 2025-07-08, from: Polygon Website
+
+Around three years ago, Hellena Taylor, the former voice behind Bayonetta, posted a series of incendiary social media posts that called out PlatinumGames, the studio behind the Japanese action game franchise. Though Taylor had voiced the sultry character for years, she had been replaced for Bayonetta 3 — and she claimed it was over an [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/611602/bayonetta-3-hideki-kamiya-helena-taylor-voice-acting-controversy-response>
+
+---
+
+## How to get Hisuian Zorua and Hisuian Zoroark in Pokémon Go
+
+date: 2025-07-08, updated: 2025-07-08, from: Polygon Website
+
+Hisuian Zorua and Zoroark made their Pokémon Go debuts as part of the “Ultra Unlock: Hisui Celebration” event in July 2025, and if you’re lucky, you can find these tricky little foxes around. They work the same way as their Unovan versions, though these white and red foxes are normal- and ghost-type, rather than dark-type. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/611527/how-to-get-hisuian-zorua-zoroark>
+
+---
+
+## The best gaming deals of Amazon Prime Day 2025
+
+date: 2025-07-08, updated: 2025-07-08, from: Polygon Website
+
+Prime Day gaming deals are here, with discounts on dozens of the best games across PlayStation 5, Xbox Series X, and Nintendo Switch. This year&#8217;s Prime Day sales run a little longer than usual — three days, until July 11, 2025 — so you&#8217;ve got a bit of extra time to peruse what&#8217;s on offer [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/611626/amazon-prime-day-best-gaming-deals-2025>
+
+---
+
+## 10 Umamusume Pretty Derby tips to know before starting
+
+date: 2025-07-08, updated: 2025-07-08, from: Polygon Website
+
+Umamusume: Pretty Derby has released globally and taken over streaming platforms and social media for good reason. Although Umamusume: Pretty Derby is a gacha game, it’s a horse racing simulation game with many in-depth mechanics that can be very confusing for both new players and sports sim fans. Additionally, the game is chock full of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/611183/uma-musume-tips-tricks-beginner-before-you-start>
+
+---
+
+## The Expanse: Osiris Reborn devs welcome all the Mass Effect comparisons
+
+date: 2025-07-08, updated: 2025-07-08, from: Polygon Website
+
+With the next Mass Effect a ways off, maybe The Expanse can fill the void. The Expanse: Osiris Reborn, developed by Owlcat Games, debuted at Summer Game Fest with a trailer showcasing a third-person action-RPG set in a rugged, realistic version of the distant future. Shortly after the trailer aired, viewers began comparing the upcoming [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/611007/expanse-osiris-reborn-mass-effect-comparisons>
+
+---
+
+## Your Commander can now be a spaceship thanks to Magic’s new Edge of Eternities set
+
+date: 2025-07-08, updated: 2025-07-08, from: Polygon Website
+
+Magic: The Gathering is embracing science fantasy for its upcoming space opera-inspired set Edge of Eternities, which will be released on Aug. 1. The genre shift required new mechanics and factions, but has allowed the game to bring back some old enemies too. Vehicles, artifacts that need to be crewed to unlock their full potential [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/611168/edge-of-eternities-new-mechanics-cards-spoilers>
 
 ---
 
