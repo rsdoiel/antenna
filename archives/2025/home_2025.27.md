@@ -1,11 +1,232 @@
 ---
 title: home
-updated: 2025-07-07 14:08:29
+updated: 2025-07-08 06:09:15
 ---
 
 # home
 
-(date: 2025-07-07 14:08:29)
+(date: 2025-07-08 06:09:15)
+
+---
+
+## The Best Prime Day Alternatives on Home, Garden and Outdoor Gear
+
+date: 2025-07-08, from: Family Handyman Blog
+
+<p>Black Friday in July? Score big this month with epic summer sales beyond Amazon Prime Day. Power tools, fire pits, mattresses and even holiday decor are all on sale right now.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/black-friday-july-2025/">The Best Prime Day Alternatives on Home, Garden and Outdoor Gear</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/black-friday-july-2025/>
+
+---
+
+## A South Bronx Garden Offers a Place for New York’s Immigrant Communities to Keep Traditions Alive
+
+date: 2025-07-08, from: Dwell
+
+Local restaurateurs, a community land trust, and a design nonprofit teamed up to create H.earth, a refuge in a neighborhood long abused by the city. 
+
+<br> 
+
+<https://www.dwell.com/article/hearth-south-bronx-garden-new-york-immigrant-communities-preserve-traditions-9c2c242d>
+
+---
+
+## Construction Diary: How Two Artists Turned a Cabin Outside Joshua Tree Into a Clear-Minded Retreat
+
+date: 2025-07-08, from: Dwell
+
+They invite creatives to stay and work at the 1950s homestead structure, which they restored piece by piece with objects gifted, thrifted, and found. 
+
+<br> 
+
+<https://www.dwell.com/article/construction-diary-jana-koya-aaron-glasson-mojave-desert-artist-residency-cabins-2422642a>
+
+---
+
+## Phish Bassist Mike Gordon’s Home Studio Is Just as Psychedelic as You’d Expect
+
+date: 2025-07-08, from: Dwell
+
+The musician bucked convention with his new space, channeling the playful rigor that’s been central to his decades-long career. 
+
+<br> 
+
+<https://www.dwell.com/article/phish-bassist-mike-gordon-vermont-house-megaplum-birdseye-design-78e05971>
+
+---
+
+## Before & After: In the Caribbean, a Couple Bring an Old Wooden Prefab Back to Shipshape Condition
+
+date: 2025-07-08, from: Dwell
+
+Jennifer and Kenard Bunkley fixed up the former sailing clubhouse and outfitted it for spending time with their relatives in the Dominican Republic. 
+
+<br> 
+
+<https://www.dwell.com/article/casa-madera-studio-bunkley-prefab-renovation-dominican-republic-b6ebc2e6>
+
+---
+
+## They Turned a Traditional Kyoto Townhouse Into a Hub for Creatives
+
+date: 2025-07-08, from: Dwell
+
+A photographer and set designer revitalized a pre-1950s machiya to connect travelers with local artistry, including photo books on display in the home. 
+
+<br> 
+
+<https://www.dwell.com/article/834-mibu-amulet-studios-kyoto-japan-3a38f370>
+
+---
+
+## The Case Against Glass Houses
+
+date: 2025-07-08, from: Dwell
+
+The transparent box is the ideal of modern living, but hardly ideal for modern living. 
+
+<br> 
+
+<https://www.dwell.com/article/the-case-against-glass-houses-c705da20>
+
+---
+
+## This Glassy Getaway in the Mountains of Japan Is Not Your Typical Cabin
+
+date: 2025-07-08, from: Dwell
+
+Architect Rei Mitsui drew inspiration from ancient structures to create a two-winged home with a sunken living area and a steeply pitched roofline. 
+
+<br> 
+
+<https://www.dwell.com/article/tull-weekend-home-rei-mitsui-architects-cabin-nagano-japan-39e3e379>
+
+---
+
+## Glassware Traditions We Love From Around the World—and Their Modern Interpretations
+
+date: 2025-07-08, from: Dwell
+
+Whether it’s Murano or Czech crystal, there’s a beloved form out there that’s right for you. We collected contemporary pieces for your home that find inspiration in the classics. 
+
+<br> 
+
+<https://www.dwell.com/article/glassware-traditions-around-the-world-and-modern-interpretations-d38bd3d4>
+
+---
+
+## How Gio Ponti Shaped the Style of Modern Leisure
+
+date: 2025-07-08, from: Dwell
+
+In the mid-20th century, the prolific Italian architect designed elegant railcars, cruise ships, and cliffside hotels that formed a distinct travel aesthetic. 
+
+<br> 
+
+<https://www.dwell.com/article/gio-ponti-hotel-train-naval-travel-designs-316523b8>
+
+---
+
+## Why an Architect Keeps Hand-Carved Icelandic Birds on Her Shelf
+
+date: 2025-07-08, from: Dwell
+
+London-based Sigrún Sumarliðadóttir recalls how her collection started with gifts from her parents and became touchstones of her work. 
+
+<br> 
+
+<https://www.dwell.com/article/architect-sigrun-sumarlidadottir-wooden-icelandic-birds-1f1c7566>
+
+---
+
+## One Night in Atlantis, the Resort of Mythical Possibility
+
+date: 2025-07-08, from: Dwell
+
+Now in its third decade, the luxury Bahamas getaway is designed to offer a sanitized version of hedonism on a grand scale. I went to see how it lives up to the lore. 
+
+<br> 
+
+<https://www.dwell.com/article/one-night-in-atlantis-the-resort-of-mythical-possibility-91c0db82>
+
+---
+
+## Editor’s Letter: The Travel Issue 2025
+
+date: 2025-07-08, from: Dwell
+
+Welcome to our annual exploration of destination homes around the world. 
+
+<br> 
+
+<https://www.dwell.com/article/editors-letter-travel-issue-july-august-2025-e54b296c>
+
+---
+
+## An Unconventional Toronto Development Offers a Template for "Gentle Density"
+
+date: 2025-07-08, from: Dwell
+
+The experimental condo project provides a proof of concept for how new multifamily houses can integrate into their neighborhoods. 
+
+<br> 
+
+<https://www.dwell.com/article/ulster-house-lga-architectural-partners-toronto-canada-8f73c7b3>
+
+---
+
+## 18 Brown Birds in North Carolina (With Pictures and Identification)
+
+date: 2025-07-08, from: Yard Life blog
+
+<p>Brown birds in North Carolina are often easy to miss because of their subtle colors, but they are full of ... </p>
+<p class="read-more-container"><a title="18 Brown Birds in North Carolina (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/18-brown-birds-in-north-carolina-with-pictures-and-identification/#more-31810" aria-label="Read more about 18 Brown Birds in North Carolina (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/18-brown-birds-in-north-carolina-with-pictures-and-identification/">18 Brown Birds in North Carolina (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/18-brown-birds-in-north-carolina-with-pictures-and-identification/>
+
+---
+
+## 25 Delicious Sides and Desserts You Can Cook on the Grill
+
+date: 2025-07-07, from: Sunset Magazine - Living in the West
+
+Why not grill up the sides, salads, and desserts to serve alongside your barbecue feast? Here are favorite grilling recipes from the archives. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/grilled-bbq-sides-and-desserts>
+
+---
+
+## 5 Things to Do If You Get Injured on Vacation, According to a Travel Nurse
+
+date: 2025-07-07, from: Sunset Magazine - Living in the West
+
+A travel nurse shares advice on how to prepare for vacation injuries, and what to do if you're injured on vacation. 
+
+<br> 
+
+<https://www.sunset.com/travel/what-to-do-if-injured-on-vacation>
+
+---
+
+## 4 Minor Exterior Renovations That Can Transform Your Outdoor Space
+
+date: 2025-07-07, from: Sunset Magazine - Living in the West
+
+If you need a little inspiration for updating your outdoor space, there are a few expert-approved areas to address. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/easy-outdoor-renovations>
 
 ---
 
@@ -62,6 +283,18 @@ date: 2025-07-07, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/f-j-keyboard-keys-raised-lines/>
+
+---
+
+## The Only Amazon Prime Day Deals Worth Shopping, According to Our Editors
+
+date: 2025-07-07, from: Sunset Magazine - Living in the West
+
+Amazon Prime Day is the biggest shopping event of the year. Sunset editors are sharing their favorite deals. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/best-prime-day-deals-2025>
 
 ---
 

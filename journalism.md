@@ -1,11 +1,62 @@
 ---
 title: journalism
-updated: 2025-07-07 14:08:27
+updated: 2025-07-08 06:09:14
 ---
 
 # journalism
 
-(date: 2025-07-07 14:08:27)
+(date: 2025-07-08 06:09:14)
+
+---
+
+## How political battles over ever-growing American tech sector impact Bruins
+
+date: 2025-07-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Technology is deeply intertwined in Bruins&#8217; lives, from everyday social media usage to future career plans.
+The technology industry contributed $2 trillion to the American economy in 2024, 9% of the nation’s economic output, according to the James Madison Institute. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/07/how-political-battles-over-ever-growing-american-tech-sector-impact-bruins/>
+
+---
+
+## UCLA staff react to RFK Jr.’s vaccine advisory committee dismissals, appointments
+
+date: 2025-07-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA clinicians and policy experts said Robert F. Kennedy Jr.&#8217;s overhaul of a vaccine advisory committee could create healthcare disparities and undermine public trust in vaccine recommendations. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/07/ucla-staff-react-to-rfk-jr-s-vaccine-advisory-committee-dismissals-appointments/>
+
+---
+
+## Crimewatch: June 2025
+
+date: 2025-07-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+﻿
+Sources: UCPD. Graphic reporting by Maggie Konecky, assistant News editor. Interactive by Ayushi Kadakia, Data editor.
+UCPD recorded 643 unique entries in its June 1 to June 30 daily crime log. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/07/crimewatch-june-2025/>
+
+---
+
+## One month with the Switch 2 – Does Nintendo bring the heat?
+
+date: 2025-07-07, from: The Sundail (CSUN Student Newspaper)
+
+The Nintendo Switch 2 launched on June 5, 2025. Many players have been anticipating the release of the system mainly for Mario Kart World, the console’s premiere title. The Switch... 
+
+<br> 
+
+<https://sundial.csun.edu/194825/arts-entertainment/one-month-with-the-switch-2-does-nintendo-bring-the-heat/>
 
 ---
 

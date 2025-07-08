@@ -1,11 +1,248 @@
 ---
 title: columns
-updated: 2025-07-07 14:08:25
+updated: 2025-07-08 06:09:13
 ---
 
 # columns
 
-(date: 2025-07-07 14:08:25)
+(date: 2025-07-08 06:09:13)
+
+---
+
+## The topology of social networks
+
+date: 2025-07-08, from: Dave Winer's Scripting News
+
+<p>I wrote <a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lth2enjxls2d">this</a> on Bluesky this morning.</p>
+<ul>
+<li>Most of what passes for discourse on platforms like Bluesky amounts to spam and abuse. Makes expensive moderation necessary and who’s going to pay for that on an open system. It’s why this approach can’t lead anywhere but to yet another Twitter or Threads, a place for billionaires to control us.</li>
+</ul>
+<p>Hardly the first time I've said this, but this time I got a <a href="https://bsky.app/profile/johngpettus.bsky.social/post/3lth2oar4bk24">response</a>.</p>
+<ul>
+<li>Yep. I've said for years—your platform's experience will be determined by its mechanics, not whatever culture you think you want to foster. </li>
+<li>Mechanics > culture in the medium term.</li>
+<li>All systems are adversarial systems now.</li>
+</ul>
+<p>That was from <a href="https://bsky.app/profile/johngpettus.bsky.social">John Pettus</a>. I could tell right off that we're thinking the same way. This morning I started to write a reply but quickly ran out of space because of Bluesky's stupid character limit. So I just pasted it into this blog post. </p>
+<ul>
+<li>I've been saying that for years myself. </li>
+<li>I ran a BBS in the early 80s, and was on Compuserve CB Simulator (my handle was Mastodon), and started blogging in 1994, and on and on. Mail lists always flame out. Same thing we're seeing in the tweetersphere. </li>
+<li>Blogging has the inverse problem. Spam abuse is impossible, but then it's hard for people to find your brilliance. But at least you get to finish a thought before the trolls attack. ;-)</li>
+<li>I was also a math major, studied combinatorics and graph theory. The connections between nodes determines a lot, as you pointed out. Most people don't even begin to get this.</li>
+<li>I'm working on a new structure for a social web without these problems. It's very simple, a derivative of something I had on my blog in the early days <a href="https://daytona.scripting.com/search?q=%22mail%20page%22">called</a> the <a href="http://scripting.com/mail/default.html">Mail Pages</a>. </li>
+<li>I sent my blog posts out via email to groups of 8 people chosen randomly each time (or maybe it was 11, I forget). Sometimes great discussions would break out in the groups. I was always cc'd. </li>
+<li>Sometimes people would just respond to me personally.</li>
+<li>If I saw something I thought everyone should read I would put it on the current Mail Page. Thus there was a way for discourse to have more distribution, but only if I thought it was worthwhile. There was no such thing as spam, and there was a little bit of abuse here and there, but it would never get any further than my email inbox. </li>
+<li>That's how sensible moderation works. And it doesn't cost anything, and the spam motive is gone. </li>
+<li>I wrote this in a Bluesky message, but had to move it to my blog because of their stupid character limit. </li>
+<li>BTW, we should communicate and perhaps collaborate. </li>
+</ul>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/08/124210.html?title=theTopologyOfSocialNetworks>
+
+---
+
+## This is what the web feels like
+
+date: 2025-07-08, from: Dave Winer's Scripting News
+
+<p>Yesterday I wondered if the open web is a lost cause.</p>
+<p>A few minutes later, I saw my name in a <a href="https://bsky.app/profile/chronotope.aramzs.xyz/post/3ltflqqekks26">tweet</a> on Bluesky from <a href="https://aramzuckerscharff.com/">Aram Zucker-Scharff</a>.</p>
+<p>In it was a message that can be summarized as follows -- don't give up yet Dave. </p>
+<p>AZS has a linkblog which he calls an <a href="https://bsky.app/profile/chronotope.aramzs.xyz/post/3ltfjd4hm2d2f">amplifeed</a>. Same thing. </p>
+<p>And here's the best part. </p>
+<p>Even though we were working separately -- our feeds are 100% compatible.</p>
+<p>When I saw it I subscribed to it in <a href="https://feedland.com/">FeedLand</a> and added it to my <a href="https://blogroll.social/">blogroll</a>.</p>
+<p>It will work in my timeline software (still working on it).</p>
+<p>This gave me goosebumps.</p>
+<p>I remember what this felt like.</p>
+<p>Working on something and someone else working on the same thing and because we're on the mother freaking web our stuff works the same way.</p>
+<p>That my friends is what the web feels like. Goosebumps. Power. Interop. This is what most people who use the net these days have never experienced. </p>
+<p>I used to write about this on my blog every day. I would say things that annoyed some of my readers like this: zoooooom and coooooool. There he goes again. Hey it's been a while. </p>
+<p>I celebrated this with a suggestion to AZS.</p>
+<ul>
+<li>If you also add a channel-level &lt;image> element it'll work with my timeline app. I'm doing it the same way WordPress does it.</li>
+</ul>
+<p>He did it in a minute.</p>
+<p>So the web isn't a lost cause after all. <span class="spOldSchoolEmoji">😄</span></p>
+<p>This the web. It's what the Dead called <a href="https://en.wikipedia.org/wiki/Truckin%27">Truckin</a>. </p>
+<p>Let's do more of this. </p>
+<p><a href="http://scripting.com/wavs/curly1.wav"><img src="https://imgs.scripting.com/2023/11/30/curly.png" width="53" height="63" border="0" alt="I'm trying to think but nothing happens!"></a></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/08/123406.html?title=thisIsWhatTheWebFeelsLike>
+
+---
+
+## Firefox is fine. The people running it are not
+
+date: 2025-07-08, updated: 2025-07-08, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Opinion</span> Mozilla&#39;s management is a bug, not a feature</h4>
+      <p>Dominance does not equal importance, nor is dominance the same as relevance. The snag at Mozilla is a management layer that doesn&#39;t appear to understand what works for its product nor which parts of it matter most to users.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/08/firefox_isnt_dead/>
+
+---
+
+## keeping tabs on curl’s memory use
+
+date: 2025-07-08, from: Daniel Stenberg Blog
+
+One of the harder things to look out for in a software project is slow or gradual decay over a long period of time. Like if we gradually make a library 1% slower or use 2% more memory every other month. Sometimes it is totally acceptable to make code slower and use more memory because &#8230; <a href="https://daniel.haxx.se/blog/2025/07/08/keeping-tabs-on-curls-memory-use/" class="more-link">Continue reading <span class="screen-reader-text">keeping tabs on curl&#8217;s memory use</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/07/08/keeping-tabs-on-curls-memory-use/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-07-08, from: Miguel de Icaza Mastondon feed)
+
+<p>I mean the EU just ignored the Rome statute they signed, and allowed a wanted war criminal to use the European air space.</p><p>So I am guessing EU is just paying lip service to the rule of law.<br /><a href="https://ec.social-network.europa.eu/@EUCommission/114816474605844037" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">ec.social-network.europa.eu/@E</span><span class="invisible">UCommission/114816474605844037</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114816649069101557>
+
+---
+
+## What To Do About the Tinpot Dictator
+
+date: 2025-07-08, from: Robert Reich's blog
+
+He can be stopped only with people power 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-thought-trump-decides>
+
+---
+
+## Concise test assertions with Be
+
+date: 2025-07-08, from: Anton Zhiyanov blog
+
+Go package with a minimal API and flexible error checking. 
+
+<br> 
+
+<https://antonz.org/be/>
+
+---
+
+## Day Zero Activities of WeAreDevelopers World Congress tomorrow
+
+date: 2025-07-08, from: Chris Heilmann's blog
+
+Hi there, I am currently slightly freaking out as this week is the WeAreDevelopers World Congress in Berlin and I am moderating the main stage with 23 talks in two days and still have to write the closing keynote. Officially the event starts on Thursday, but if you are already in Berlin tomorrow, I put [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2025/07/08/day-zero-activities-of-wearedevelopers-world-congress-tomorrow/>
+
+---
+
+## July 7, 2025 
+
+date: 2025-07-08, from: Heather Cox Richardson blog
+
+At about 10:30 this morning local time, heavily armed masked agents in trucks, armored vehicles, a helicopter, on foot, and on horseback, accompanied by a gun mounted on a truck raided the MacArthur Park area of Los Angeles. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-7-2025>
+
+---
+
+## Tuesday, 8 July, 2025
+
+date: 2025-07-08, from: Doc Searls (at Harvard), New Old Blog
+
+Good business. I&#39;ve only heard good things about H-E-B, a grocery store chain I have never met. Here&#39;s the latest from David Armano. Nice bonus item: Young Steve Jobs forecasting AI. 
+
+<br> 
+
+<https://doc.searls.com/2025/07/07/tuesday-8-july-2025/>
+
+---
+
+##  A Swim Through Jellyfish Lake 
+
+date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/a-swim-through-jellyfish-lake-1>
+
+---
+
+## Apple, as Promised, Formally Appeals €500 Million DMA Fine in the EU
+
+date: 2025-07-07, updated: 2025-07-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/07/07/apple-formally-appeals-e500-million-dma-fine-in-the-eu/>
+
+---
+
+## Don’t Take Advice From This Guy
+
+date: 2025-07-07, from: Dan Rather's Steady
+
+Why Robert F. Kennedy Jr. is bad for your health 
+
+<br> 
+
+<https://steady.substack.com/p/dont-take-advice-from-this-guy>
+
+---
+
+##  How Silicon Valley Got Rich. &#8220;When Apple went public in 1980, it... 
+
+date: 2025-07-07, updated: 2025-07-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047052-how-silicon-valley-got-ri>
+
+---
+
+##  &#8220;All games are cooperative. The very act of agreeing to & honouring... 
+
+date: 2025-07-07, updated: 2025-07-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047089-all-games-are-cooperative>
+
+---
+
+##  Bookshop.org&#8217;s 100 Bestselling Books of 2025 (So Far) 
+
+date: 2025-07-07, updated: 2025-07-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/bookshoporgs-100-bestselling-books-of-2025-so-far>
 
 ---
 
@@ -27,7 +264,7 @@ date: 2025-07-07, from: Dave Winer's Scripting News
 
 <p><i>A longish thread that probably isn't going anywhere. My final <a href="https://mastodon.social/@davew/114813658742530184">thoughts</a>, cc'd here to get on the record.</i></p>
 <p>anyway it's feeling like a lost cause. </p>
-<p>to be really blunt, i don't think AP or ATP are the answer. </p>
+<p>to be really blunt, i don't think <a href="https://en.wikipedia.org/wiki/ActivityPub">AP</a> or <a href="https://en.wikipedia.org/wiki/AT_Protocol">ATP</a> are the answer. </p>
 <p>and i also don't care so much about this style of conversation. and i loathe the character limits and the lack of style and links, and no titles, etc.</p>
 <p>it can't only be for wordpress. i love the potential of wordpress, i think even more than matt does, but it isn't enough.</p>
 <p>if it's going to be open and of the web it has to be simple and easy, and neither of them are.</p>
@@ -69,7 +306,7 @@ date: 2025-07-07, from: Dave Winer's Scripting News
 
 date: 2025-07-07, from: Doc Searls (at Harvard), New Old Blog
 
-Entrails. This vs. this. Bonus link. Naturally, it was over Texas. The best photo ever taken of gigantic jet lightning (aka upper-atmospheric lightning, ionospheric lightning, and transient luminous events, or TLEs) was shot on Saturday from the International Space Station. SpaceWeather has the story. The photographer was astronaut Nichole “Vapor” Ayers, aka @Astro_Ayers on X.  Here [&#8230;] 
+Entrails. This vs. this. Bonus link. Earth is a tiny blue exception to it. Here is why space matters. Bargains. Amazon currently has the Airpods 4 for $89 and the Airpods Pro 2 for $149. They are [$179 and $249 at Apple](Amazon currently has the Airpods 4 for $89 and the Airpods Pro 2 for $149. [&#8230;] 
 
 <br> 
 
@@ -91,7 +328,7 @@ date: 2025-07-07, updated: 2025-07-07, from: Daring Fireball
 
 ## ★ Full-Screen Ad for ‘F1 The Movie’ in Apple’s TV App Linked Directly to the Web, and Nothing Bad Seemed to Happen
 
-date: 2025-07-07, updated: 2025-07-07, from: Daring Fireball
+date: 2025-07-07, updated: 2025-07-08, from: Daring Fireball
 
 I can see the argument that Apple’s answer is “Yes, it’s potentially confusing for many users”. But I can’t see the argument that the answer is “Yes, it’s potentially confusing for many users, but only if they’re trying to buy in-app content or subscriptions, but not confusing at all if they’re trying to buy, say, movie tickets.” 
 

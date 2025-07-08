@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2025-07-07 14:08:26
+updated: 2025-07-08 06:09:13
 ---
 
 # writing
 
-(date: 2025-07-07 14:08:26)
+(date: 2025-07-08 06:09:13)
+
+---
+
+## Scriptnotes, Episode 691: Collaborative Storytelling and RPGs, Transcript
+
+date: 2025-07-07, from: John August blog
+
+<p>The original post for this episode can be found here. John August: Hello, and welcome. My name is John August. Craig Mazin: Oh, my name is Craig Mazin. John: You’re listening to episode 691 of Scriptnotes. It’s a podcast about screenwriting and things that are interesting to screenwriters. Most weeks we discuss storytelling designed to [&#8230;]</p>
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-691-collaborative-storytelling-and-rpgs-transcript">Scriptnotes, Episode 691: Collaborative Storytelling and RPGs, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-691-collaborative-storytelling-and-rpgs-transcript>
 
 ---
 

@@ -1,11 +1,72 @@
 ---
 title: motorcycles
-updated: 2025-07-07 14:08:29
+updated: 2025-07-08 06:09:16
 ---
 
 # motorcycles
 
-(date: 2025-07-07 14:08:29)
+(date: 2025-07-08 06:09:16)
+
+---
+
+## That Time Some Geniuses Took a Vespa Scooter to the Dakar Off-Road Rally
+
+date: 2025-07-08, from: Ride Apart, Electric Motorcycle News
+
+Dakar is all about the bike, the rider, and the support crew (if they're lucky). 
+
+<br> 
+
+<https://www.rideapart.com/news/764718/vespa-insanity-dakar-rally-history/>
+
+---
+
+## Did This Tesla Driver Just Straight-Up Murder a Motorcyclist?
+
+date: 2025-07-08, from: Ride Apart, Electric Motorcycle News
+
+And he's actually been charged with murder. 
+
+<br> 
+
+<https://www.rideapart.com/news/764732/tesla-driver-motorcyclist-murder-california/>
+
+---
+
+## The Ariel Atom 4RR Is a Bonkers Race-Focused UTV—Change My Mind
+
+date: 2025-07-08, from: Ride Apart, Electric Motorcycle News
+
+Sure, it's a utility task vehicle, so long as that task is shredding corners at a race track.  
+
+<br> 
+
+<https://www.rideapart.com/news/764903/ariel-atom-4rr-bonkers-utv-change-my-mind/>
+
+---
+
+## Is Suzuki’s New Retro Motorcycle Actually the True Successor To the SV650?
+
+date: 2025-07-08, from: Ride Apart, Electric Motorcycle News
+
+Suzuki has taken a tried and tested recipe and given it a retro-inspired twist. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/764902/suzuki-gsx8t-8tt-unveiled-specs-features-details-price-debut/>
+
+---
+
+## Thomas Annunziata overcomes meeting with tire barrier, records best ever Xfinity Series finish
+
+date: 2025-07-08, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer Thomas Annunziata arrived in the Windy City this weekend looking to make newer, happier memories, after all he had to show for a trip here&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/thomas-annunziata-overcomes-meeting-with-tire-barrier-records-best-ever-xfinity-series-finish/>
 
 ---
 

@@ -1,11 +1,439 @@
 ---
 title: planet
-updated: 2025-07-07 14:08:21
+updated: 2025-07-08 06:09:08
 ---
 
 # planet
 
-(date: 2025-07-07 14:08:21)
+(date: 2025-07-08 06:09:08)
+
+---
+
+## Left-wing TDs to meet over potential candidate for Áras
+
+date: 2025-07-08, from: RTÉ News
+
+Left-leaning opposition parties are due to meet tomorrow to continue discussions over running a potential combined presidential candidate. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0708/1522460-left-wing-tds-to-meet-over-potential-candidate-for-aras/>
+
+---
+
+## NCPC urges rethink on personal injury awards increase
+
+date: 2025-07-08, from: RTÉ News
+
+The National Competitiveness and Productivity Council (NCPC) has advised the Government to reconsider a controversial 16.5% increase in personal injury awards recommended by the Judicial Council last year. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0708/1522449-ncpc-urges-rethink-on-personal-injury-awards-increase/>
+
+---
+
+## Commission to examine sexual abuse allegations in schools
+
+date: 2025-07-08, from: RTÉ News
+
+The Government is to establish a Commission of Investigation into allegations of historical sexual abuse in schools across the country. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0708/1522447-commission-sexual-abuse-schools/>
+
+---
+
+## UK Post Office 'maintained fiction' Horizon was accurate
+
+date: 2025-07-08, from: RTÉ News
+
+UK Post Office bosses should have known Horizon was faulty but "maintained the fiction that its data was always accurate" when prosecuting sub-postmasters, the first tranche of a public inquiry's final report has concluded. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0708/1522441-uk-post-office/>
+
+---
+
+## Arizona fossil find reveals an ecosystem in flux
+
+date: 2025-07-08, from: RTÉ News
+
+Scientists have unearthed in Arizona fossils from an assemblage of animals, including North America's oldest-known flying reptile, that reveal a time of transition when venerable lineages that were destined soon to vanish lived alongside newcomers early in the age of dinosaurs. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0708/1522427-arizona-fossils/>
+
+---
+
+## Gaza civil defence says 29 killed in Israeli strikes
+
+date: 2025-07-08, from: RTÉ News
+
+Gaza's civil defence agency said that 29 people were killed in Israeli strikes across the Palestinian territory devastated by 21 months of war. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0708/1522425-displaced-people-gaza/>
+
+---
+
+## Four-in-ten aware alcohol can increase cancer risk - HSE
+
+date: 2025-07-08, from: RTÉ News
+
+Less than four-in-ten people are aware that drinking alcohol can increase the risk of developing cancer, according to new research from the HSE. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0708/1522433-health-alcohol-cancer/>
+
+---
+
+## Chair of commission examining abuse claims appointed
+
+date: 2025-07-08, from: RTÉ News
+
+Follow live developments as they happen in Leinster House, where Cabinet is meeting to discuss a number of proposals ahead of Leaders' Questions. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0708/1522421-politics-live/>
+
+---
+
+## Two crew dead after attack on Greek vessel in Red Sea
+
+date: 2025-07-08, from: RTÉ News
+
+Two crew members of the Liberia-flagged, Greek-operated, bulk carrier Eternity C have been killed following an attack by sea drones and speed boats, Liberia's shipping delegation told a meeting of the UN shipping agency IMO. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0708/1522429-red-sea-attack/>
+
+---
+
+## Irish economy grew by 4.8% in 2024 - CSO
+
+date: 2025-07-08, from: RTÉ News
+
+Ireland's national income, a key measure of economic growth, rose by 4.8% last year according to the latest figures from the Central Statistics Office. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0708/1522428-cso-gdp-figures/>
+
+---
+
+## More than 250 post offices closed over last ten years
+
+date: 2025-07-08, from: RTÉ News
+
+Over the last ten years, 257 post offices have closed across the country, according to data provided to Sinn Féin TD David Cullinane via parliamentary question. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0708/1522418-post-office-closures/>
+
+---
+
+## Music industry contributes €1bn to Irish economy - IMRO
+
+date: 2025-07-08, from: RTÉ News
+
+The Irish music industry contributes €1 billion annually to the Irish economy, according to a new report published today by IMRO. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0708/1522350-irish-music-economy/>
+
+---
+
+## Six million visitors to Notre Dame Cathedral in six months
+
+date: 2025-07-08, from: Vatican News
+
+
+                    <p>After a five-year renovation following a fire, the Cathedral in Paris is projected to welcome 12 million visitors by the end of 2025.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/six-million-visitors-to-notre-dame-cathedral-in-six-months.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/six-million-visitors-to-notre-dame-cathedral-in-six-months.html>
+
+---
+
+## How to spend your holidays according to the popes 
+
+date: 2025-07-08, from: Vatican News
+
+
+                    <p>As Pope Leo XIV’s takes some time off at the Pontifical Villas of Castel Gandolfo from July 6 to 20, Vatican News looks at what past popes have said about holidays. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/popes-holidays-rest-relaxing-vacations.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/popes-holidays-rest-relaxing-vacations.html>
+
+---
+
+## Trade group warns US could intervene on passenger cap row
+
+date: 2025-07-08, from: RTÉ News
+
+A trade association representing US airlines said it expects US Department of Transportation officials to travel to Ireland to raise concerns over the passenger cap at Dublin Airport. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0708/1522402-dublin-airport-cap-bad-for-economy-airlines-for-america/>
+
+---
+
+## Teen eyes 'Triple Crown' after Ireland to Scotland swim
+
+date: 2025-07-08, from: RTÉ News
+
+A 15-year-old boy from Lurgan in Co Armagh, has set his sights on a swimming 'Triple Crown', after he became the youngest person to swim the North Channel from Ireland to Scotland solo. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0708/1522391-oscar-black/>
+
+---
+
+## Former British MP Norman Tebbit dies aged 94
+
+date: 2025-07-08, from: RTÉ News
+
+Former British MP and minster Norman Tebbit, who was one of Margaret Thatcher's closest political allies, has died at the age of 94. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0708/1522378-norman-tebbit/>
+
+---
+
+## Former Dublin captain Seán Doherty dies
+
+date: 2025-07-08, from: RTÉ News
+
+Seán Doherty, who captained Dublin to All-Ireland SFC glory in 1974, has died. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0708/1522368-former-dublin-captain-sean-doherty-dies/>
+
+---
+
+## Japan, South Korea face 25% US tariffs in trade war
+
+date: 2025-07-08, from: RTÉ News
+
+US President Donald Trump has opened a new phase in the trade war he launched this year, telling partners, from powerhouse suppliers such as Japan and South Korea to minor players, that they face sharply higher tariffs from 1 August. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0708/1522370-tariffs-trump/>
+
+---
+
+## New guidelines on apartment sizes, open spaces issued
+
+date: 2025-07-08, from: RTÉ News
+
+Minister for Housing James Browne has issued new guidelines on building apartments, which will see changes to minimum sizes, allow for the reduced provision of private open spaces and preclude local authorities from requiring mandatory communal, community and cultural facilities. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0708/1522374-housing-politics/>
+
+---
+
+## How Trump's trade war is upending the global economy
+
+date: 2025-07-08, from: RTÉ News
+
+US President Donald Trump's tariff decisions since he took office on 20 January have shocked financial markets and sent a wave of uncertainty through the global economy, here we look back on what has happened so far. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0708/1522362-trump-tariffs-timeline/>
+
+---
+
+## Ireland considering hosting global AI summit
+
+date: 2025-07-08, from: RTÉ News
+
+Consideration is being given to Ireland hosting a global artificial intelligence summit next year, similar to an event which was held in Paris in February. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0708/1522371-ireland-ai-summit/>
+
+---
+
+## Texas floods: How climate and policy failures collided
+
+date: 2025-07-08, from: RTÉ News
+
+"There's no such thing as a natural disaster," geographers like to say - a reminder that human choices turn hazards into tragedies. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0708/1522363-texas-floods-climate/>
+
+---
+
+## Texas death toll climbs, little hope of more survivors
+
+date: 2025-07-08, from: RTÉ News
+
+A search operation continues in Texas following recent heavy floods, as hopes dimmed of finding any survivors among the dozens still missing from the disaster that has claimed over 100 lives, many of them children. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0708/1522361-texas-floods/>
+
+---
+
+## EU gives green light for Bulgaria to join euro
+
+date: 2025-07-08, from: RTÉ News
+
+EU finance ministers have given the final green light for Bulgaria to adopt the euro on 1 January 2026. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0708/1522357-bulgaria-euro/>
+
+---
+
+## Criminal assets legislation to be brought to Cabinet
+
+date: 2025-07-08, from: RTÉ News
+
+Legislation which aims to strengthen the State's ability to identify, freeze and confiscate assets which have been linked to serious and organised crime, will be brought to the Cabinet by Minister for Justice Jim O'Callaghan. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0708/1522351-ireland-politics/>
+
+---
+
+## Federal Court says RCMP must hand over solicitor-client information in terror plot case
+
+date: 2025-07-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.4585253.1751928301!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/father-and-son.jpg' alt='Osama El Bahnasawy  was active in getting help for his son, Abdulrahman, battling drug addiction in his teens. The family moved from Kuwait to Canada in 2004.' width='620' height='349' title='Osama El Bahnasawy  was active in getting help for his son, Abdulrahman, battling drug addiction in his teens. The family moved from Kuwait to Canada in 2004.'/><p>The Federal Court says the RCMP must hand over solicitor-client information to the country's national security review agency — allowing a long-stalled review into whether the Mounties mishandled the case of a Canadian convicted of plotting ISIS-inspired terror attacks in the U.S. to move ahead.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/rcmp-nsira-el-bahnasawy-1.7578711?cmp=rss>
+
+---
+
+## US to send 'more weapons' to Ukraine, says Trump
+
+date: 2025-07-08, from: RTÉ News
+
+US President Donald Trump said the United States will send additional weapons to Ukraine, after Russia claimed new gains in its ongoing war against its neighbour. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0708/1522353-russia-ukraine/>
+
+---
+
+## Gaza truce talks resume as Trump pushes for deal
+
+date: 2025-07-07, from: RTÉ News
+
+Indirect negotiations on a Gaza ceasefire between Israel and Hamas have resumed in Qatar as US President Donald Trump pressed Israeli Prime Minister Benjamin Netanyahu for a deal to end the war. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0708/1522349-us-israel-politics/>
+
+---
+
+## 40% of parents borrowed money to buy essentials - report
+
+date: 2025-07-07, from: RTÉ News
+
+One third of parents went into arrears on energy bills due to insufficient income in the 12 months to April this year, according to Barnardos. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0708/1522331-barnardos-cost-of-living-report/>
+
+---
+
+## Group of TUI members at MTU to take industrial action
+
+date: 2025-07-07, from: RTÉ News
+
+A group of senior lecturers at Munster Technological University, who are members of the Teachers' Union of Ireland, are due to begin industrial action in a dispute over new duties and titles. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0708/1522326-mtu-industrial-action/>
+
+---
+
+## Macron arrives in UK for three-day state visit
+
+date: 2025-07-07, from: RTÉ News
+
+French President Emmanuel Macron has arrived in the UK for a three-day state visit, which will include an address both houses of the British parliament later today. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0708/1522327-macron-uk-visit/>
+
+---
+
+## Video shows French police slashing migrant boat in crackdown
+
+date: 2025-07-07, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/15093a06-c558-48c2-9848-3f4a2fc7a2ca,1751974868673/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='An image from video of police officers in water beside a crowded boat.' width='620' height='349' title=''/><p>Video captured by a BBC News crew shows French police slashing a boat filled with migrants trying to cross into the U.K. The crackdown comes ahead of a summit this week between the French president and British prime minister.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6823554?cmp=rss>
+
+---
+
+## Trump says U.S. will 'have to' send Ukraine more weapons so it can defend itself
+
+date: 2025-07-07, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7579397.1751936778!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/u-s-president-donald-trump-at-the-white-house-during-meeting-with-israeli-pm-benjamin-netanyahu.jpg' alt='A close-up of U.S. President Donald Trump, as seen during a meeting with Israeli Prime Minister Benjamin Netanyahu at the White House.' width='620' height='349' title='U.S. President Donald Trump speaks during a meeting with Israel&apos;s Prime Minister Benjamin Netanyahu in the Blue Room of the White House, Monday, July 7, 2025, in Washington.'/><p>U.S. President Donald Trump said Monday that his country will have to send more weapons to Ukraine so that it can defend itself.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-weapons-ukraine-1.7579388?cmp=rss>
+
+---
+
+## DCC raises 'grave concern' over Govt's apartment plans
+
+date: 2025-07-07, from: RTÉ News
+
+Dublin City Council has supported an emergency motion accusing central Government of "overreach" amid reports of plans, expected to go before Cabinet tomorrow, that local authorities would be precluded from requiring community facilities within apartment schemes. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0707/1522337-dublin-city-council-motion/>
 
 ---
 
@@ -113,6 +541,18 @@ date: 2025-07-07, from: Vatican News
 
 ---
 
+## Trump announces tariff rates for numerous countries — but not Canada
+
+date: 2025-07-07, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7547282.1748551026!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-tariffs-lawsuit.JPG' alt='A red, white and blue flag flying in front of multi-coloured shipping containers.' width='620' height='349' title='A U.S. flag flutters near shipping containers as a ship is unloaded at the Port of Los Angeles.'/><p>Japan and Korea were the first to receive letters informing them of a 25 per cent tariff rate each. But Canada is likely not going to be affected by the administration's flurry of trade deals and letters this week.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/business/trump-tariff-letters-1.7579036?cmp=rss>
+
+---
+
 ## Group of staff at Shanahan's on the Green left short €35k
 
 date: 2025-07-07, from: RTÉ News
@@ -122,6 +562,18 @@ A group of staff at Dublin restaurant Shanahan's on the Green were left short ne
 <br> 
 
 <https://www.rte.ie/news/business/2025/0707/1522299-group-of-staff-at-shanahans-on-the-green-left-short-35k/>
+
+---
+
+## Group of staff at Shanahan's on the Green left short €35k
+
+date: 2025-07-07, from: RTÉ News
+
+A group of staff at Dublin restaurant Shanahan's on the Green were left short nearly €35,000 when it shut abruptly last year, a tribunal has found. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0707/1522299-shanahans-wrc/>
 
 ---
 
@@ -255,7 +707,7 @@ Goals win games goes the old cliche, and Shane McGrath feels that Tipperary were
 
 ## Human rights must anchor the digital age, says UN’s Türk
 
-date: 2025-07-07, from: United Nations, Top Stories
+date: 2025-07-07, from: United Nations, Economic Development
 
 As digital technologies rapidly reshape every aspect of society, the UN’s top human rights official has called for human rights to be placed at the centre of this transformation. 
 
@@ -267,9 +719,9 @@ As digital technologies rapidly reshape every aspect of society, the UN’s top 
 
 ## ‘Cooperation is humanity’s greatest innovation,’ UN chief declares at BRICS summit
 
-date: 2025-07-07, from: United Nations, Top Stories
+date: 2025-07-07, from: United Nations, Economic Development
 
-UN Secretary-General António Guterres on Monday warned that the environment is being attacked on all fronts and called on the international community to urgently tackle the intersection of health and climate issues.&nbsp; 
+UN Secretary-General António Guterres on Monday warned that the environment is being attacked on all fronts and called on the international community to urgently tackle the intersection of health and climate issues. 
 
 <br> 
 
@@ -305,7 +757,7 @@ The United Nations Secretary-General has expressed deep sorrow over the deadly f
 
 date: 2025-07-07, from: RTÉ News
 
-A man who died after he was stabbed in west Dublin early this morning has been named as 34-year-old Joseph McEvoy from Greenfort Avenue, Clondalkin. 
+The man who died after he was stabbed in west Dublin early this morning has been named as 34-year-old Joseph McEvoy from Greenfort Avenue, Clondalkin. 
 
 <br> 
 
@@ -553,11 +1005,11 @@ date: 2025-07-07, from: CBC, Indigenious News
 
 ---
 
-## 'Cautious optimism' after US extends tariff deadline
+## Trump signs order delaying tariff deadline to 1 August
 
 date: 2025-07-07, from: RTÉ News
 
-Tánaiste Simon Harris has said he remains "cautiously optimistic about reaching agreement in principle" with the US after the White House postponed a deadline for higher tariffs taking effect on dozens of economies, including the EU. 
+US President Donald Trump has signed an executive order delaying the date on which so-called "reciprocal tariffs" affecting dozens of economies, including the EU, will take effect. 
 
 <br> 
 

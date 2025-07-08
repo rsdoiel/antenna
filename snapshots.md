@@ -1,11 +1,47 @@
 ---
 title: snapshots
-updated: 2025-07-07 14:08:33
+updated: 2025-07-08 06:09:19
 ---
 
 # snapshots
 
-(date: 2025-07-07 14:08:33)
+(date: 2025-07-08 06:09:19)
+
+---
+
+## Researchers Jailbreak AI by Flooding It With Bullshit Jargon
+
+date: 2025-07-08, from: 404 Media Group
+
+LLMs don’t read the danger in requests if you use enough big words. 
+
+<br> 
+
+<https://www.404media.co/researchers-jailbreak-ai-by-flooding-it-with-bullshit-jargon/>
+
+---
+
+## Q2 2025
+
+date: 2025-07-08, from: Accidentally in Code
+
+I like the idea of doing a quarterly review of my annual theme, as a way to reset, re-evaluate, figure out what I want to change and celebrate what I did actually accomplish. I set my intention for the year as “health”,and after a rough start in Q1, Q2 was when I tried to come [&#8230;] 
+
+<br> 
+
+<https://cate.blog/2025/07/08/q2-2025/>
+
+---
+
+## The Tariff Beatings Will Continue Until Morale Improves
+
+date: 2025-07-08, from: Paul Krugman
+
+News flash: Trump is still Trump 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-tariff-beatings-will-continue>
 
 ---
 

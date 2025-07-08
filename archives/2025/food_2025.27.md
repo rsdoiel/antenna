@@ -1,11 +1,333 @@
 ---
 title: food
-updated: 2025-07-07 14:08:31
+updated: 2025-07-08 06:09:17
 ---
 
 # food
 
-(date: 2025-07-07 14:08:31)
+(date: 2025-07-08 06:09:17)
+
+---
+
+## The Best Prime Day Alternatives on Home and Kitchen Gear
+
+date: 2025-07-08, from: Taste of Home
+
+<p>We found the best competitor sales boasting big savings in cookware, home, cleaning and kitchen categories—no membership required!</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/black-friday-july-2025/">The Best Prime Day Alternatives on Home and Kitchen Gear</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/black-friday-july-2025/>
+
+---
+
+## Christmas in July Sales: 18 Deals on Trees, Decor and Holiday Essentials
+
+date: 2025-07-08, from: Taste of Home
+
+<p>It's hot and humid outside, so why not spend some time in the AC shopping these Christmas in July sales? These markdowns are too good to miss!</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/christmas-in-july-2025/">Christmas in July Sales: 18 Deals on Trees, Decor and Holiday Essentials</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/christmas-in-july-2025/>
+
+---
+
+## New Coffee Farms May Bolster Global Supply Shortage
+
+date: 2025-07-08, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. It will take three years for the new farms to start producing. 
+
+<br> 
+
+<https://sprudge.com/new-coffee-farms-may-bolster-global-supply-shortage-374745.html>
+
+---
+
+## Best Prime Day Deals Under $25 for Your Kitchen (2025)
+
+date: 2025-07-08, from: Bon Appetet
+
+Kitchen upgrades for less than a decent bottle of pét-nat. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-prime-day-deals-under-25-dollars-07-08-2025>
+
+---
+
+## 19 Best Prime Day Espresso Machine Deals on Amazon and Beyond 2025
+
+date: 2025-07-08, from: Bon Appetet
+
+Why go to the coffee shop for espresso when the espresso can come to you? 
+
+<br> 
+
+<https://www.bonappetit.com/story/amazon-prime-day-espresso-maker-deals-2025-07-08>
+
+---
+
+## 52 Best Prime Day Kitchen Deals on Amazon 2025
+
+date: 2025-07-08, from: Bon Appetet
+
+Replace your worn-out kitchen towels, send your dad an espresso machine, and finally get that Vitamix you’ve been coveting. 
+
+<br> 
+
+<https://www.bonappetit.com/story/amazon-prime-day-kitchen-deals-2025-07-08>
+
+---
+
+## These Are the Amazon Prime Day Deals Worth Your Money (Everything Is 30% Off or More!)
+
+date: 2025-07-08, from: Taste of Home
+
+<p>Our expert shopping editors found the best Prime Day deals for the kitchen and home. Save more than 30% on cookware, decor and cleaning!</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/amazon-prime-day-2025/">These Are the Amazon Prime Day Deals Worth Your Money (Everything Is 30% Off or More!)</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/amazon-prime-day-2025/>
+
+---
+
+## It’s Time to Start Your Christmas Shopping: 15 Top Gifts to Buy on Sale Right Now
+
+date: 2025-07-08, from: Taste of Home
+
+<p>It's beginning to look a lot like the holiday shopping season! In 2025, we're buying our Christmas gifts early—and deeply discounted. Here's what you can buy now on major sale. </p>
+<p>The post <a href="https://www.tasteofhome.com/collection/early-christmas-gifts-2025/">It’s Time to Start Your Christmas Shopping: 15 Top Gifts to Buy on Sale Right Now</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/early-christmas-gifts-2025/>
+
+---
+
+## The Best Amazon Prime Day Deals on Products We Personally Tested (and Vouch For!)
+
+date: 2025-07-08, from: Taste of Home
+
+<p>Finding the best Amazon Prime Day deals​ is no small task. Our editors scoured the site to find discounts on our favorite tested products. </p>
+<p>The post <a href="https://www.tasteofhome.com/collection/amazon-prime-day-editors-picks-2025/">The Best Amazon Prime Day Deals on Products We Personally Tested (and Vouch For!)</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/amazon-prime-day-editors-picks-2025/>
+
+---
+
+## Best Prime Day Vitamix Deals to Save on BA’s Favorite Blender (2025)
+
+date: 2025-07-08, from: Bon Appetet
+
+You can score the Bon Appétit test kitchen’s favorite blender for over 15% off during Prime Day 2024. 
+
+<br> 
+
+<https://www.bonappetit.com/story/prime-day-vitamix-deals-07-08-2025>
+
+---
+
+## Juicy Bison Burger With Cucumber–Red Onion Slaw
+
+date: 2025-07-08, from: Bon Appetet
+
+Upgrade any cookout—or keep the cooking on the stovetop—with these smashed cast-iron bison burgers, then stack with lemon mayo and a crisp cucumber-onion slaw. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/juicy-bison-burger-with-cucumber-red-onion-slaw>
+
+---
+
+## Jalapeño Popper Skillet Tacos
+
+date: 2025-07-08, from: Bon Appetet
+
+Roasted poblanos, jalapeños, and red onion are coated with a melty sauce—warm with the flavors of pepper jack, and stabilized with a block of cream cheese. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/jalapeno-popper-skillet-tacos>
+
+---
+
+## Pork Dinakdakan
+
+date: 2025-07-08, from: Bon Appetet
+
+Braise tender pork belly in soy and vinegar, then grill with shishito peppers and toss with ginger and a tangy dressing for bold, savory Filipino dinakdakan. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/pork-dinakdakan>
+
+---
+
+## Bicycle Bandit
+
+date: 2025-07-08, from: Bon Appetet
+
+A riff on the Bicycle Thief cocktail, a citrusy, low ABV riff on a Negroni, this three-ingredient, party-ready twist features grapefruit soda. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/bicycle-bandit>
+
+---
+
+## Spicy Eggplant Frittata
+
+date: 2025-07-08, from: Bon Appetet
+
+Silky Japanese eggplant and fiery serrano chile unite in this no-fuss frittata that’s brunch-ready, dinner-worthy, and wildly good. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/spicy-eggplant-frittata>
+
+---
+
+## Grilled Purple Sweet Potato Salad
+
+date: 2025-07-08, from: Bon Appetet
+
+Charred purple potato salad with mayo, lemon, and soy is smoky, creamy, and designed to be the star of any summer picnic or barbecue. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/grilled-purple-sweet-potato-salad>
+
+---
+
+## Turmeric-Dill Shrimp Stir Fry
+
+date: 2025-07-08, from: Bon Appetet
+
+This quick shrimp stir-fry pairs earthy turmeric with a plethora of dill for a flavorful and fresh dinner that comes together in a flash. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/turmeric-dill-shrimp-stir-fry>
+
+---
+
+## Minty Chicken Meatballs
+
+date: 2025-07-08, from: Bon Appetet
+
+Who says ground chicken is boring? Two whole bunches of mint and some aromatics give these chicken meatballs their bracingly herby flavor. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/minty-chicken-meatballs>
+
+---
+
+## Matcha-Berry Frozen Yogurt
+
+date: 2025-07-08, from: Bon Appetet
+
+Froyo for one, made in a blender and topped with a crackly magic shell. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/matcha-berry-frozen-yogurt>
+
+---
+
+## Sausage With Charred Cabbage and Giardiniera
+
+date: 2025-07-08, from: Bon Appetet
+
+A bed of charred cabbage speckled with chopped giardiniera makes the perfect landing place of sweet Italian sausages and plenty of basil. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/sausage-with-charred-cabbage-and-giardiniera>
+
+---
+
+## Marinated Grilled Peppers
+
+date: 2025-07-08, from: Bon Appetet
+
+Letting just-grilled, still-warm peppers marinate in a bright and punchy vinaigrette allows the flavors to permeate even further. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/marinated-grilled-peppers>
+
+---
+
+## Cilantro Pesto Pasta
+
+date: 2025-07-08, from: Bon Appetet
+
+This vibrant cilantro pesto recipe blends blanched herbs, Cotija cheese, garlic, and toasted pepitas. Toss with pasta for a fresh and bold spaghetti pesto. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/cilantro-pesto-pasta>
+
+---
+
+## Soy-Glazed Salmon Bowls
+
+date: 2025-07-08, from: Bon Appetet
+
+Saucy, soy-honey salmon—cut into cubes to speed up the cooking process—makes a savory topping for a quick weeknight bowl. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/soy-glazed-salmon-bowls>
+
+---
+
+## Mango Bread
+
+date: 2025-07-08, from: Bon Appetet
+
+This sunny mango bread is ultra-moist and bursting with tropical flavor; the loaf is topped with a tangy mango-lime glaze that sets to a glossy finish. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/mango-bread>
+
+---
+
+## Chipotle-Citrus Ribs
+
+date: 2025-07-08, from: Bon Appetet
+
+Tender, well-glazed, and just spicy enough, these ribs are the ultimate grill-out food. Cook fully in the oven ahead of time and finish them on the grill. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/chipotle-citrus-ribs>
+
+---
+
+## Grilled Pound Cake Sundae With Raspberries
+
+date: 2025-07-08, from: Bon Appetet
+
+This is the perfect summer party dessert, featuring grilled pound cake, Cointreau-spiked raspberries, and classic vanilla ice cream. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/grilled-pound-cake-sundae-with-raspberries>
 
 ---
 
@@ -72,6 +394,54 @@ date: 2025-07-07, from: Irish Food Hub
 <br> 
 
 <https://irishfoodhub.com/irish-stew-pie-pops/>
+
+---
+
+## Study Says Drinking Coffee While Pregnant Does Not Affect Cognitive Development of Children
+
+date: 2025-07-07, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/drinking-coffee-while-pregnant-620x414.jpg" class="attachment-large size-large wp-post-image" alt="drinking coffee while pregnant" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/drinking-coffee-while-pregnant-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/drinking-coffee-while-pregnant-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/drinking-coffee-while-pregnant-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/drinking-coffee-while-pregnant-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/drinking-coffee-while-pregnant.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new study from a team of researchers in China suggests that coffee or tea consumption during pregnancy does not have a negative impact on the cognitive development of children.... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/07/study-says-drinking-coffee-while-pregnant-does-not-affect-cognitive-development-of-children/>
+
+---
+
+## Actual Coffee Hosting Real-Life Experiences at Ohio Roastery
+
+date: 2025-07-07, from: Daily Coffee News
+
+<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Actual Coffee Ohio opening" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-1536x1157.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Actual-Coffee-Ohio-opening-2048x1542.jpg 2048w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; After 12 years of roasting,&#160; Northwest Ohio&#8217;s Actual Coffee recently opened its first real-as-can-be coffee bar.&#160; Located inside Actual&#8217;s roastery and headquarters just east of Toledo in Northwood, the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/07/actual-coffee-hosting-real-life-experiences-at-ohio-roastery/>
+
+---
+
+## Regenerative Collaboration in Colombia Leads to ‘Biochar Origins’ Coffee Line
+
+date: 2025-07-07, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Equation-Biochar-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Equation Biochar 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Equation-Biochar-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Equation-Biochar-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Equation-Biochar-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Equation-Biochar-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Equation-Biochar-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Colombia-based green coffee seller Equation Coffee recently introduced Biochar Origins, a line of coffees resulting from a collective regenerative agriculture initiative. The first coffee from the initiative recently came to... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/07/regenerative-collaboration-in-colombia-leads-to-biochar-origins-coffee-line/>
+
+---
+
+## Weekly Coffee News: Luckin Enters U.S. + Good Food Awards Entry Period
+
+date: 2025-07-07, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/New-York-620x414.jpg" class="attachment-large size-large wp-post-image" alt="New York" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/New-York-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/New-York-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/New-York-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/New-York-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/New-York.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. &#160; Luckin Coffee Officially Enters the U.S. Market Following... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/07/weekly-coffee-news-luckin-enters-u-s-good-food-awards-entry-period/>
 
 ---
 

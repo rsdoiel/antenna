@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2025-07-07 14:08:24
+updated: 2025-07-08 06:09:12
 ---
 
 # science and technology
 
-(date: 2025-07-07 14:08:24)
+(date: 2025-07-08 06:09:12)
+
+---
+
+## Feds brag about hefty Oracle discount – licensing experts smell a lock-in
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>If a deal looks too good to be true, it probably is</h4> <p>The US General Services Administration (GSA) has announced an agreement with Oracle it claims offers a 75 percent discount on the vendor&#39;s license-based technology.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/gsa_oracle_deal/>
+
+---
+
+## Suspected Chinese cybersnoop grounded in Italy after US tipoff
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>Zewei Xu&#39;s family reportedly bemused at arrest as extradition tabled</h4> <p>A man who US authorities allege is a member of Chinese state-sponsored cyberespionage outfit Silk Typhoon was arrested in Milan last week following a tipoff from the US embassy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/silk_typhoon_italy_arrest/>
+
+---
+
+## Britain's 5G experience 'among the worst in Europe' says MedUX
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>Official figures for network performance don&#39;t play out in user&#39;s reality, says monitoring biz</h4> <p>The UK&#39;s 5G networks are among the worst in Europe when it comes to measurements such as download speed, upload speed, latency, and packet loss, according to a report published today.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/britains_5g_experience_among_the/>
+
+---
+
+## Firefox is fine. The people running it are not
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>Mozilla&#39;s management is a bug, not a feature</h4> <p><strong>Opinion</strong>  Dominance does not equal importance, nor is dominance the same as relevance. The snag at Mozilla is a management layer that doesn&#39;t appear to understand what works for its product nor which parts of it matter most to users.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/firefox_isnt_dead/>
+
+---
+
+## UK police dangle £75 million to digitize its VHS tape archives
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>Those pirated video nasties won’t last forever</h4> <p>The UK police service is planning to launch a procurement to purchase tech and services worth up to £75 million ($102 million) in order to digitize its VHS archive.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/uk_police_dangle_75_million/>
+
+---
+
+## Microsoft developer ported vector database coded in SAP’s ABAP to the ZX Spectrum
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>The mighty Z80 processor ran the code at astounding speed, proving retro-tech got a lot of things right</h4> <p>A Microsoft senior software engineer named Alice Vinogradova has ported a database she wrote in SAP’s ABAP language to the venerable Z80 processor that powered the Sinclair ZX Spectrum – and marveled at the results.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/sap_abap_db_spectrum_port/>
+
+---
+
+## Suspected Scattered Spider domains target everyone from manufacturers to Chipotle
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>Plus: Qantas makes contact with &#39;potential cyber criminal&#39;</h4> <p>While the aviation industry has borne the brunt of Scattered Spider&#39;s latest round of social engineering attacks, the criminals aim to catch manufacturing and medical tech companies — and even Chipotle Mexican Grill — in tjeor web, as evidenced by hundreds of domains that security researchers say look a lot like phishing websites used by the criminal crews.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/suspected_scattered_spider_domains_target/>
+
+---
+
+## Epic Games settles its antitrust side quest that sought battle royale with Samsung
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>They&#39;re both silent on what, if anything, has changed</h4> <p>Epic Games has settled the case it brought against Samsung over the Korean giant’s treatment of third-party app stores on its Galaxy handsets.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/epic_games_samsung_settle/>
+
+---
+
+## Trump administration announces tariffs that may make plenty of tech more expensive from August 1
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>Memory from Korea, hard disks from Thailand, plenty of stuff from Japan</h4> <p><strong>World War Fee</strong>  The Trump administration on Monday announced the tariff rates it will impose on fourteen nations starting on August 1st, and several big technology-producing nations made the list.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/trump_administration_reciprocal_tariffs/>
+
+---
+
+## Samsung predicts profit slump as its HBM3e apparently continues to underwhelm Nvidia
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>Investors advised to brace for massive fall from Q1 to Q2</h4> <p><strong>Analysis</strong>  During the AI gold rush, the next best thing to selling the shovels – that is, the GPUs –is manufacturing the silicon that makes them possible. But while TSMC and SK-Hynix continue to cash in on Nvidia&#39;s successes, Samsung hasn&#39;t been nearly so fortunate.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/samsung_q2_2025_guidance/>
+
+---
+
+## Curiosity Blog, Sols 4589 – 4592: Setting up to explore Volcán Peña Blanca
+
+date: 2025-07-07, from: NASA breaking news
+
+Written by Abigail Fraeman, Deputy Project Scientist at NASA’s Jet Propulsion Laboratory Earth planning date: Thursday, July 3, 2025 The team was delighted this morning to learn that Wednesday’s drive had completed flawlessly, placing us in a stable position facing a ~3 foot high ridge located ~35 feet away.  This ridge is the eastern edge […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4589-4592-setting-up-to-explore-volcan-pena-blanca/>
+
+---
+
+## Curiosity Blog, Sol 4588: Ridges and troughs
+
+date: 2025-07-07, from: NASA breaking news
+
+Written by Lucy Thompson, APXS Collaborator and Senior Research Scientist at the University of New Brunswick, CanadaEarth planning date: Wednesday, July 2, 2025As we traverse the boxwork terrain, we are encountering a series of more resistant ridges/bedrock patches, and areas that are more rubbly and tend to form lower relief polygonal or trough-like features. We […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sol-4588-ridges-and-troughs/>
+
+---
+
+## Scholars sneaking phrases into papers to fool AI reviewers
+
+date: 2025-07-07, updated: 2025-07-07, from: The Register (UK I.T. News)
+
+<h4>Using prompt injections to play a Jedi mind trick on LLMs</h4> <p>A handful of international computer science researchers appear to be trying to influence AI reviews with a new class of prompt injection attack.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/07/scholars_try_to_fool_llm_reviewers/>
+
+---
+
+## Nuclear reactors smaller than a semi truck to be tested in Idaho
+
+date: 2025-07-07, updated: 2025-07-07, from: The Register (UK I.T. News)
+
+<h4>Forget small modular reactors. Microreactors are the new hotness</h4> <p>The new nuclear age of small modular reactors may not have materialized yet, but that&#39;s not stopping the US Department of Energy from getting to work on even smaller, more modular reactors with a couple of new commercial partners. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/07/trailer_sized_microreactors/>
+
+---
+
+## Windows 11 finally overtakes Windows 10’s user share
+
+date: 2025-07-07, from: OS News
+
+As of today, Stat Counter reports that Windows 11 now has 50.88% of the Windows market, with Windows 10 dropping to 46.2%, giving it a comfortable lead over its predecessor. Windows 11 has been on the market since 2021 but had only amassed less than 10% of the market by 2022. It&#8217;s been a slow but steady climb since then, growing from 18% to 28% in 2023, with similar growth to 36% in 2024. It&#8217;s this year where Windows 11 really started taking off, likely aided by the fact that Microsoft is now pushing&#160;Windows 10&#8217;s end of support&#160;hard. ↫ Zac Bowden at Windows Central Up to 50% of all Windows users, mere months before Windows 10 is no longer supported, and it took them 4 years to get here. Windows users really don&#8217;t like Windows 11, do they? 
+
+<br> 
+
+<https://www.osnews.com/story/142717/windows-11-finally-overtakes-windows-10s-user-share/>
+
+---
+
+## Microsoft broke Windows Update on Windows 7 (again)
+
+date: 2025-07-07, from: OS News
+
+The developers of Legacy Update, the tool that allows users of older Windows versions to keep downloading updates from Microsoft, recently discovered that users of the tool on Windows 7 were having issues. After doing some debugging they figured out it was DNS it was an expired Microsoft certificate. This certificate was set to expire on 1 July 2025, and when it did, nobody at Microsoft bothered to correct it until a few days later. As you can see from &#38;lt;ExpiryDate&#62;, it definitely stopped working because the expiry date lapsed. As seems to happen too often in our industry, apparently nobody set a reminder to make sure it would be updated in advance of the date. You might notice that it has an &#38;lt;IssuedDate&#62; of 2017-12-01. That’s fairly recent! After digging further, we learned that this already happened once! On the 4th of that month, Bleeping Computer covered an error Windows 7 users were receiving when checking for updates. That error is 80248015 &#8211; pretty familiar, right? Microsoft allowed this file to expire, not on the 1st but rather on the 4th (more specifically, 35 seconds before midnight in US Pacific time, or 8:00 PM UTC), and did not manage to upload a new file until the 6th at 10:02 AM Pacific (6:02 PM UTC). This left Microsoft Update broken for 3 days. ↫ Adam Demasi Microsoft moved the expiry date up to 2033, thereby fixing the problem. Legacy Update&#8217;s developer Adam Demasi expected that once 2033 comes around, Legacy Update will probably have to add Widnows 7 to its proxy server that it&#8217;s already using for older versions, as improvements in TLS and ciphers will probably lock Windows 7 out of Windows Update definitively. But hey, 2033 is decades away. Right? 
+
+<br> 
+
+<https://www.osnews.com/story/142715/microsoft-broke-windows-update-on-windows-7-again/>
 
 ---
 

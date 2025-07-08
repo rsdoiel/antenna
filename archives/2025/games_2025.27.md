@@ -1,11 +1,35 @@
 ---
 title: games
-updated: 2025-07-07 14:08:27
+updated: 2025-07-08 06:09:14
 ---
 
 # games
 
-(date: 2025-07-07 14:08:27)
+(date: 2025-07-08 06:09:14)
+
+---
+
+## A Pokémon fan got the Pope to sign his Popplio card
+
+date: 2025-07-07, updated: 2025-07-07, from: Polygon Website
+
+One recent visitor to the Vatican may have pulled off a historical first: getting the sitting Pope to autograph a Pokémon card. But that Pokémon fan’s interaction with Pope Leo XIV has another layer, because the choice of Pokémon card is so, well, choice. On Saturday, Pope Leo XIV welcomed visitors from across Europe and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/611394/pokemon-popplio-pope-leo-card-autograph>
+
+---
+
+## Sorry, but the ‘best’ Mario Kart World kart is ugly
+
+date: 2025-07-07, updated: 2025-07-07, from: Polygon Website
+
+For some people, Mario Kart World is a nonstop cow party. For others, it’s a slow stroll that’s periodically interrupted by lightning strikes. But based on the emerging “meta” for Mario Kart World, the open-world kart competition has been diminished into a droll series of clones. If you’re in the know, you’re probably playing with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/611373/mario-kart-world-what-is-the-best-kart-baby-blooper>
 
 ---
 

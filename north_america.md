@@ -1,11 +1,73 @@
 ---
 title: north america
-updated: 2025-07-07 14:08:22
+updated: 2025-07-08 06:09:10
 ---
 
 # north america
 
-(date: 2025-07-07 14:08:22)
+(date: 2025-07-08 06:09:10)
+
+---
+
+## Words & Phrases We Can Do Without
+
+date: 2025-07-08, from: The Contrarian
+
+DHS is a human rights monstrosity 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-we-can-do-without-f7e>
+
+---
+
+##  Amid Deadly Floods, Lawmakers Left Gap In Warning System 
+
+date: 2025-07-08, from: The Lever News
+
+ Before the Texas disaster, Congress and successive presidents ignored demands to fully fund a nationwide system monitoring rivers for signs of flash floods.  
+
+<br> 
+
+<https://www.levernews.com/amid-deadly-floods-lawmakers-left-gap-in-warning-system/>
+
+---
+
+## Evening Roundup, July 7
+
+date: 2025-07-07, from: The Contrarian
+
+Featuring Austin Sarat, Rep. Jake Auchincloss & Jen Rubin, Azza Cohen, Donald M. Berwick, Brian Finucane, Mimi Rocah & Berit Berger, The Democracy Movement, and "Talking Feds" 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-7>
+
+---
+
+## Split Screen: The visual politics of Independence Day
+
+date: 2025-07-07, from: The Contrarian
+
+Presidents use this moment to define what the American celebration should look like, revealing what they see as the future and past of our country. 
+
+<br> 
+
+<https://contrarian.substack.com/p/split-screen-the-visual-politics-bb3>
+
+---
+
+## Prices are rising faster than pay: Rep. Jake Auchincloss on 'cost disease' 
+
+date: 2025-07-07, from: The Contrarian
+
+"There's too much hubris about what Washington, D.C. knows and can accomplish in a $30 trillion economy" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167748360/11f0f4a9da4bd2155a269c718d479628.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167748360/11f0f4a9da4bd2155a269c718d479628.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/prices-are-rising-faster-than-pay>
 
 ---
 

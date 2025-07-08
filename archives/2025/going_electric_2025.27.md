@@ -1,11 +1,111 @@
 ---
 title: going electric
-updated: 2025-07-07 14:08:31
+updated: 2025-07-08 06:09:17
 ---
 
 # going electric
 
-(date: 2025-07-07 14:08:31)
+(date: 2025-07-08 06:09:17)
+
+---
+
+## Tesla (TSLA) sales decline in China despite Model Y refresh and record discounts
+
+date: 2025-07-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Model-Y-hero-new-design.png?w=1600" /></div><p>Tesla (TSLA) sales declined quarter-over-quarter in China despite the Model Y refresh being available and offering record discounts. It goes directly against what the automaker claimed after the first quarter.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="423768" href="https://electrek.co/2025/07/08/tesla-tsla-sales-decline-china-despite-model-y-refresh-record-discounts/#more-423768" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/08/tesla-tsla-sales-decline-china-despite-model-y-refresh-record-discounts/>
+
+---
+
+## All the EVs you can buy with 0% financing in July, 2025
+
+date: 2025-07-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Cybertruck_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The feces-filled freight train of dystopian horrors rolls on with the passage of <a href="https://electrek.co/2025/07/07/america-its-a-party-now-plus-an-electric-honda-ruckus-and-updated-bmw/">the Big Beautiful Bill</a> and the <a href="https://electrek.co/2025/06/28/republicans-are-trying-kill-7500-ev-tax-credit-3-months-early/">untimely demise of the $7,500 federal EV tax credit</a>. But if you’re ready to pull the trigger on a new EV this month, you’re in luck! There are plenty of great options with zero interest financing to choose from … and one with zero interest in general.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="0-financing,ev-deals,tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="423721" href="https://electrek.co/2025/07/08/all-the-evs-you-can-buy-with-0-financing-in-july-2025/#more-423721" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/08/all-the-evs-you-can-buy-with-0-financing-in-july-2025/>
+
+---
+
+## Lectric XP Trike2 launched as the affordable new electric trike every senior needs!
+
+date: 2025-07-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/lectric-xp-trike2-header-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The new <a href="https://lectricebikes.sjv.io/Z6e6zR">Lectric XP Trike2</a>, just unveiled today, is the hands-down winner in the best-bang-for-your-buck category of electric trikes. And as perhaps the longest-running electric bike reviewer in the industry, I can say that with confidence. I’ve seen a lot of electric bikes in my time. I’ve spent a lot of butt-in-saddle hours on e-trikes. But I’ve never before seen a value like this roll by on three wheels.</p>
+
+
+
+<p>As an able-bodied, mid-30s electric bike rider (and writer), I’ll be the first to say that electric trikes aren’t just for older folks. They’re fun e-bikes in their own right. But let’s face it – the vast majority of the market for electric three-wheelers are those who just aren’t as comfortable on two wheels due to age, accessibility, or other reasons. And so if you’re a senior or otherwise on the hunt for a fun and affordable electric trike, the Lectric XP Trike2 is probably the one you’re going to end up getting, and deservingly so!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="423534" href="https://electrek.co/2025/07/08/lectric-xp-trike2-launched-as-the-affordable-new-electric-trike-every-senior-needs/#more-423534" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/08/lectric-xp-trike2-launched-as-the-affordable-new-electric-trike-every-senior-needs/>
+
+---
+
+## E-quipment highlight: Kubota mini excavator goes from diesel to EV and back
+
+date: 2025-07-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/kubota_retrofit.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Japanese equipment giant Kubota brought 22 new or updated machines to the 2025 bauma expo earlier this year, but tucked away in the corners was a new retrofit kit that can help existing customers decarbonize more quickly, and more affordably.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,ev-conversion,kubota" data-layer-viewtype="unknown" data-post-id="423694" href="https://electrek.co/2025/07/07/e-quipment-highlight-kubota-mini-excavator-goes-from-diesel-to-ev-and-back/#more-423694" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/07/e-quipment-highlight-kubota-mini-excavator-goes-from-diesel-to-ev-and-back/>
+
+---
+
+## America – it’s a party now! Plus: an electric Honda Ruckus and updated BMW
+
+date: 2025-07-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/america-party.jpg?quality=82&#038;strip=all&#038;w=1536" /></div><p>Elon Musk isn’t happy about Trump passing the Big Beautiful Bill and killing off the $7,500 EV tax credit – but there’s a lot more bad news for Tesla baked into the BBB. We’ve got all that and more on today’s budget-busting episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="elon-musk,honda,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="423685" href="https://electrek.co/2025/07/07/america-its-a-party-now-plus-an-electric-honda-ruckus-and-updated-bmw/#more-423685" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/07/america-its-a-party-now-plus-an-electric-honda-ruckus-and-updated-bmw/>
+
+---
+
+## FERC: Solar + wind made up 96% of new US power generating capacity in first third of 2025
+
+date: 2025-07-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Prairie_Ronde_0022-1.jpg?quality=82&#038;strip=all&#038;w=1335" /></div><p>Solar and wind accounted for almost 96% of new US electrical generating capacity added in the first third of 2025. In April, solar provided 87% of new capacity, making it the 20th consecutive month solar has taken the lead, according to data belatedly posted on July 1 by the Federal Energy Regulatory Commission (<a href="https://electrek.co/guides/ferc/" target="_blank" rel="noreferrer noopener">FERC</a>) and reviewed by the SUN DAY Campaign.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="coal,egeb,energy-brief,ferc,solar,oil-and-gas,renewables,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="423654" href="https://electrek.co/2025/07/07/ferc-solar-wind-new-us-power-generating-capacity-first-third-2025/#more-423654" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/07/ferc-solar-wind-new-us-power-generating-capacity-first-third-2025/>
 
 ---
 
@@ -105,7 +205,7 @@ date: 2025-07-07, from: Electrek Feed
 
 ---
 
-## The Porsche Cayenne EV flexes its power towing 3-tons in public
+## The Porsche Cayenne EV flexes its power towing 3 tons in public
 
 date: 2025-07-07, from: Electrek Feed
 

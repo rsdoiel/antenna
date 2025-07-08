@@ -1,11 +1,122 @@
 ---
 title: socal north
-updated: 2025-07-07 14:08:22
+updated: 2025-07-08 06:09:10
 ---
 
 # socal north
 
-(date: 2025-07-07 14:08:22)
+(date: 2025-07-08 06:09:10)
+
+---
+
+## School’s out, so are phones. Tips for navigating summer screentime
+
+date: 2025-07-08, updated: 2025-07-08, from: The LAist
+
+There’s no one-size-fits-all solution, but researchers say there are key times to consider limiting screentime. 
+
+<br> 
+
+<https://laist.com/news/education/kids-summer-screentime-cellphone-video-games>
+
+---
+
+## Immigration enforcement agents descend on MacArthur Park, causing uproar
+
+date: 2025-07-07, updated: 2025-07-08, from: The LAist
+
+Local officials say the display was an overreach by the federal government. 
+
+<br> 
+
+<https://laist.com/news/immigration-agents-macarthur-park>
+
+---
+
+## What's new at the OC Fair this year? Bacon cotton candy, bacon-wrapped burritos
+
+date: 2025-07-07, updated: 2025-07-07, from: The LAist
+
+The fair attracts over 1 million visitors a year and many days sell out, so plan accordingly if you have your heart set on a particular day. 
+
+<br> 
+
+<https://laist.com/news/food/new-at-the-oc-fair-bacon-cotton-candy-bacon-wrapped-burritos>
+
+---
+
+## What a former LA medical examiner learned about death from years on the job
+
+date: 2025-07-07, updated: 2025-07-08, from: The LAist
+
+Paul Parker shares his story in a new memoir, In the Shadows of Death: Writing Life's Final Chapter. 
+
+<br> 
+
+<https://laist.com/news/what-a-former-la-medical-examiner-learned-about-death-from-years-on-the-job>
+
+---
+
+## Jackie and Shadow spotted in Big Bear after 4th of July fireworks. Where are their eaglets?
+
+date: 2025-07-07, updated: 2025-07-07, from: The LAist
+
+Eagle lovers can breathe a partial sigh of relief after contentious fireworks display went on. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/jackie-and-shadow-spotted-in-big-bear-after-4th-of-july-fireworks>
+
+---
+
+## Rancho Fire in Laguna Beach burns near hillside homes
+
+date: 2025-07-07, updated: 2025-07-08, from: The LAist
+
+People living on some streets in the Bluebird Canyon area were told to evacuate because of Monday's brush fire. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/rancho-fire-orange-county-2025>
+
+---
+
+## Long Beach plans outage of public Wi-Fi, website as it upgrades routers
+
+date: 2025-07-07, from: Longbeach Post
+
+<figure><img width="1024" height="731" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-scaled.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-scaled.jpg 2560w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-300x214.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-1024x731.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-768x548.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-1536x1097.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-2048x1463.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-1200x857.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-1568x1120.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/15091358/Civic_Center_07-25-19_004-400x286.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The city’s website, including its customer service and payment portals, will also be closed.</p>
+<p>The post <a href="https://lbpost.com/news/city/long-beach-plans-outage-of-public-wi-fi-website-as-it-upgrades-routers">Long Beach plans outage of public Wi-Fi, website as it upgrades routers</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/long-beach-plans-outage-of-public-wi-fi-website-as-it-upgrades-routers>
+
+---
+
+## Before LA immigration raids, California prisons tried to help ICE deport its top targets
+
+date: 2025-07-07, updated: 2025-07-07, from: The LAist
+
+California and federal officials disagree over recent ICE enforcement in Los Angeles, sparking debate over the state’s sanctuary law and cooperation with ICE. 
+
+<br> 
+
+<https://laist.com/news/la-immigration-raids-california-prisons-tried-to-help-ice-deport-its-top-targets>
+
+---
+
+## Immigration enforcement and the future of California farming
+
+date: 2025-07-07, updated: 2025-07-07, from: The LAist
+
+Over half of California farmworkers are undocumented. Recent raids have put the industry on edge. 
+
+<br> 
+
+<https://laist.com/news/immigration-enforcement-and-the-future-of-california-farming>
 
 ---
 
@@ -13,7 +124,7 @@ updated: 2025-07-07 14:08:22
 
 date: 2025-07-07, from: Longbeach Post
 
-<figure><img width="1024" height="554" src="https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-554x300.jpg 554w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1110x600.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-768x416.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1536x831.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-2048x1108.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1320x714.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="554" src="https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-554x300.jpg 554w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1110x600.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-768x416.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1536x831.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-2048x1108.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1320x714.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>With 7 of its most ambitious rules for cars, trucks and trains repealed, California officials now must find new ways to clean up the nation’s worst air pollution. But officials face growing pushback about affordability and costs.</p>
 <p>The post <a href="https://lbpost.com/news/cleaning-up-smog-is-suddenly-much-harder-reined-in-by-trump-what-will-california-do-next">Cleaning up smog is suddenly much harder. Reined in by Trump, what will California do next?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -26,7 +137,7 @@ date: 2025-07-07, from: Longbeach Post
 
 ## Cole’s French Dip, the historic downtown LA eatery, is closing after 117 years
 
-date: 2025-07-07, updated: 2025-07-07, from: The LAist
+date: 2025-07-07, updated: 2025-07-08, from: The LAist
 
 The restaurant, which claims to have invented the French dip sandwich, is closing on Aug. 3 after “numerous attempts at last-ditch efforts.” 
 
@@ -51,7 +162,7 @@ date: 2025-07-07, from: Longbeach Post
 
 ---
 
-## Trump sends letters with new tariff rates on goods to 7 countries, with more to come
+## Trump sends letters with new tariff rates on goods to 14 countries, with more to come
 
 date: 2025-07-07, updated: 2025-07-07, from: The LAist
 
@@ -138,6 +249,30 @@ Congress passed the tax cut and spending megabill with President Trump's legisla
 
 ---
 
+## Best things to do this week in LA and SoCal
+
+date: 2025-07-07, updated: 2025-07-08, from: The LAist
+
+The Reservoir at the Geffen Playhouse, Macy Gray at House of Blues Anaheim, make your own comic book character at Skirball, an award-winning cocktail pop-up in Echo Park and more of the best things to do this week. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-this-week-in-los-angeles-and-southern-california-july-7-10>
+
+---
+
+## Six months after January’s fires, recovery is just beginning for many
+
+date: 2025-07-07, updated: 2025-07-08, from: The LAist
+
+There’s been significant progress in the recovery effort, but there’s a long road ahead. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/six-months-after-fires>
+
+---
+
 ## Childcare is a key issue in NYC's mayoral race. Advocates in California are taking note
 
 date: 2025-07-07, updated: 2025-07-07, from: The LAist
@@ -150,18 +285,6 @@ Access to affordable child care was a talking point throughout the NYC mayoral c
 
 ---
 
-## Best things to do this week in Los Angeles and Southern California: July 7-10
-
-date: 2025-07-07, updated: 2025-07-07, from: The LAist
-
-The Reservoir at the Geffen Playhouse, Macy Gray at House of Blues Anaheim, make your own comic book character at Skirball, an award-winning cocktail pop-up in Echo Park and more of the best things to do this week. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/best-things-to-do-this-week-in-los-angeles-and-southern-california-july-7-10>
-
----
-
 ## Few people vote in LA neighborhood council elections. And this year, turnout hit a historic low
 
 date: 2025-07-07, updated: 2025-07-07, from: The LAist
@@ -171,18 +294,6 @@ Fewer than 8,000 people across the entire city, with a population of 4 million, 
 <br> 
 
 <https://laist.com/news/politics/neighborhood-council-election-turnout>
-
----
-
-## Six months after January’s fires, recovery is just beginning for many
-
-date: 2025-07-07, updated: 2025-07-07, from: The LAist
-
-There’s been significant progress in the recovery effort, but there’s a long road ahead. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/six-months-after-fires>
 
 ---
 
