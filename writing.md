@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-07-08 14:08:21
+updated: 2025-07-09 06:09:34
 ---
 
 # writing
 
-(date: 2025-07-08 14:08:21)
+(date: 2025-07-09 06:09:34)
+
+---
+
+## From Hobbyist to Professional: How to Change Your Mindset as You Embark on a Writing Career
+
+date: 2025-07-09, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/from-hobbyist-to-professional-how-to-change-your-mindset-as-you-embark-on-a-writing-career>
 
 ---
 

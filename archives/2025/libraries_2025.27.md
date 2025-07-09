@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-07-08 14:08:23
+updated: 2025-07-09 06:09:36
 ---
 
 # libraries
 
-(date: 2025-07-08 14:08:23)
+(date: 2025-07-09 06:09:36)
 
 ---
 
@@ -18,6 +18,46 @@ Nöhl J.; Burger J.; Oeuvray P.; Becattini V.; Seiler J.; Shu D.Y.; Mazzotti M.;
 <br> 
 
 <http://hdl.handle.net/20.500.11850/738534>
+
+---
+
+## ARL Joins Academic Library and Publishing Associations to Affirm Shared Commitment to Scientific Integrity
+
+date: 2025-07-09, from: Association of Research Libraries News
+
+<p>Last Updated on July 9, 2025, 8:17 am ET In the face of dramatic actions by the Trump administration to restructure the US scientific enterprise, ARL joined with association colleagues...</p>
+<p>The post <a href="https://www.arl.org/blog/arl-joins-academic-library-and-publishing-associations-to-affirm-shared-commitment-to-scientific-integrity/">ARL Joins Academic Library and Publishing Associations to Affirm Shared Commitment to Scientific Integrity</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/arl-joins-academic-library-and-publishing-associations-to-affirm-shared-commitment-to-scientific-integrity/>
+
+---
+
+## Trust and Integrity: A Research Imperative
+
+date: 2025-07-09, from: Scholarly Kitchen
+
+<p>Libraries and publishers represent the interests of thousands of authors, readers, scientists, researchers, students, and lifelong learners. Today, we stand united to face the mounting risks to public trust and the social benefit that research delivers. </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/07/09/trust-and-integrity-a-research-imperative/">Trust and Integrity: A Research Imperative</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/07/09/trust-and-integrity-a-research-imperative/>
+
+---
+
+## Building Community Infrastructure for Collaborative Metadata Enrichment
+
+date: 2025-07-09, from: ETH Zurich Research Archives
+
+On 10 September 2025, the ETH Library invites you to the sixth SYoS Lecture at ETH Zurich. Juan Pablo Alperin will speak on open metadata and collaborative research infrastructures. Read more 
+
+<br> 
+
+<https://rc-blog.ethz.ch/en/building-community-infrastructure-for-collaborative-metadata-enrichment-2/>
 
 ---
 

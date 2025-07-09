@@ -1,11 +1,101 @@
 ---
 title: food
-updated: 2025-07-08 14:08:25
+updated: 2025-07-09 06:09:39
 ---
 
 # food
 
-(date: 2025-07-08 14:08:25)
+(date: 2025-07-09 06:09:39)
+
+---
+
+## Bentwood and GH Grinding & Brewing Launching the Vertical 75 Grinder
+
+date: 2025-07-09, from: Daily Coffee News
+
+<div><img width="620" height="419" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Bentwood-Grinder-Vertical-75-1-1-620x419.jpg" class="attachment-large size-large wp-post-image" alt="Bentwood Grinder Vertical 75 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Bentwood-Grinder-Vertical-75-1-1-620x419.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Bentwood-Grinder-Vertical-75-1-1-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Bentwood-Grinder-Vertical-75-1-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Bentwood-Grinder-Vertical-75-1-1-768x518.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Bentwood-Grinder-Vertical-75-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A new commercial grinder called the Vertical 75 is slated to launch later this summer, courtesy of a collaboration between Swiss grinder maker Bentwood and North Carolina-based equipment seller... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/09/bentwood-and-gh-grinding-brewing-launching-the-vertical-75-grinder/>
+
+---
+
+## Nut Milk Vs. Cow’s Milk: Which Is Better In Coffee? Science Weighs In
+
+date: 2025-07-09, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A new study examines physicochemical and sensory properties. 
+
+<br> 
+
+<https://sprudge.com/nut-milk-vs-cows-milk-which-is-better-in-coffee-science-weighs-in-375032.html>
+
+---
+
+## Slow Cooker Birria Recipe (Birria Tacos + Quesabirria!)
+
+date: 2025-07-09, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/slow-cooker-birria/" title="Slow Cooker Birria Recipe (Birria Tacos + Quesabirria!)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Slow Cooker Birria served in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This easy Slow Cooker Birria recipe is perfect for making juicy birria tacos, cheesy quesabirria, or rich Mexican beef stew, all from your crockpot! Big flavor, no fuss.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/slow-cooker-birria/">Slow Cooker Birria Recipe (Birria Tacos + Quesabirria!)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/slow-cooker-birria/>
+
+---
+
+## Cannabis Coffee Shops Give New Meaning to Third Places
+
+date: 2025-07-09, from: The Fresh Cup
+
+<p>As recreational cannabis becomes more widely accepted, coffee-serving businesses from Amsterdam to Raleigh are offering a blueprint for how it may change traditional third spaces. </p>
+<p>The post <a href="https://freshcup.com/cannabis-coffee-shops-give-new-meaning-to-third-places/">Cannabis Coffee Shops Give New Meaning to Third Places</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/cannabis-coffee-shops-give-new-meaning-to-third-places/>
+
+---
+
+## 60+ Best Prime Day Kitchen Sales Actually Worth Your Money (2025)
+
+date: 2025-07-09, from: Bon Appetet
+
+Shop deals from Le Creuset, Breville, KitchenAid, Vitamix, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/amazon-prime-day-kitchen-deals-2025-07-09>
+
+---
+
+## 10 Prime Day Cleaning Deals Our Expert Highly Recommends (2025)
+
+date: 2025-07-08, from: Bon Appetet
+
+I review cleaning gear. Here's what I think you should buy on sale right now. 
+
+<br> 
+
+<https://www.bonappetit.com/story/prime-day-vacuum-cleaning-deals>
+
+---
+
+## Here’s How to Make a Kryptonite Cocktail for the New Superman Movie
+
+date: 2025-07-08, from: Taste of Home
+
+<p>Although it's Superman's weakness, this vibrant Kryptonite cocktail does make for quite the movie libation.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/kryptonite-cocktail/">Here&#8217;s How to Make a Kryptonite Cocktail for the New Superman Movie</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/kryptonite-cocktail/>
 
 ---
 
@@ -63,7 +153,7 @@ Amazon’s not the only retailer offering major savings right now.
 
 date: 2025-07-08, from: Daily Coffee News
 
-<div><img width="620" height="407" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-620x407.jpg" class="attachment-large size-large wp-post-image" alt="bremen ports" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-620x407.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-300x197.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-150x98.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-768x504.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Multinational green coffee company Sucafina is expanding its footprint in Europe with the launch of a new trading office in Germany, the region&#8217;s largest coffee-consuming country by volume. Slated to... 
+<div><img width="620" height="407" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-620x407.jpg" class="attachment-large size-large wp-post-image" alt="bremen ports" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-620x407.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-300x197.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-150x98.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-768x504.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Multinational green coffee company Sucafina is expanding its footprint in Europe with the launch of a new trading office in Germany, the region&#8217;s largest coffee-consuming country by volume. Slated to... 
 
 <br> 
 
@@ -159,7 +249,7 @@ Editor in chief Jamila Robinson shares how ice cream became her favorite summer 
 
 date: 2025-07-08, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/DirectRoaster-iStill-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="DirectRoaster iStill 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/DirectRoaster-iStill-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/DirectRoaster-iStill-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/DirectRoaster-iStill-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/DirectRoaster-iStill-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/DirectRoaster-iStill-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A new all-electric commercial coffee roaster from The Netherlands called DirectRoaster is entering the market with a distinctive physical form plus a distinctive method of heat delivery.&#160; Following its... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/DirectRoaster-iStill-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="DirectRoaster iStill 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/DirectRoaster-iStill-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/DirectRoaster-iStill-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/DirectRoaster-iStill-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/DirectRoaster-iStill-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/DirectRoaster-iStill-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; A new all-electric commercial coffee roaster from The Netherlands called DirectRoaster is entering the market with a distinctive physical form plus a distinctive method of heat delivery.&#160; Following its... 
 
 <br> 
 
@@ -595,7 +685,7 @@ date: 2025-07-07, from: The Sprudge
 
 date: 2025-07-07, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/chili-powder/" title="Homemade Chili Powder Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Chili-Powder-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Homemade Chili Powder in a bowl, ready for making chili" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Chili-Powder-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Chili-Powder-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Chili-Powder-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Chili-Powder-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Chili-Powder-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Chili-Powder-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Chili-Powder-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This homemade chili powder recipe is easy to make with simple spices, just what you need for the perfect bowl of chili, soups, stews and more. So much better than anything from grocery stores. Create your own signature blend!</p>
+<a href="https://www.chilipeppermadness.com/recipes/chili-powder/" title="Homemade Chili Powder Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Chili-Powder-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Homemade Chili Powder in a bowl, ready for making chili" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Chili-Powder-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Chili-Powder-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Chili-Powder-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Chili-Powder-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Chili-Powder-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Chili-Powder-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Chili-Powder-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This homemade chili powder recipe is easy to make with simple spices, just what you need for the perfect bowl of chili, soups, stews and more. So much better than anything from grocery stores. Create your own signature blend!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/chili-powder/">Homemade Chili Powder Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

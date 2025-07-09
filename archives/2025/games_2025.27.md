@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2025-07-08 14:08:22
+updated: 2025-07-09 06:09:35
 ---
 
 # games
 
-(date: 2025-07-08 14:08:22)
+(date: 2025-07-09 06:09:35)
+
+---
+
+## A24 is bringing the world’s biggest animated hit ever back to theaters, now in English
+
+date: 2025-07-09, updated: 2025-07-09, from: Polygon Website
+
+Production company/distribution studio A24 announced on Wednesday that it will bring 2025’s biggest international box office hit back into theaters, now in a new English version. Ne Zha 2, sequel to the 2019 animated movie Ne Zha, sits atop the 2025 worldwide box office, with nearly $1.9 billion in theatrical receipts. It’s the most profitable [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/animation-cartoons/611726/ne-zha-2-return-to-theaters-a24-august-2025>
+
+---
+
+## All stats in Umamusume Pretty Derby, explained
+
+date: 2025-07-08, updated: 2025-07-08, from: Polygon Website
+
+Advancing the career of an uma in Umamusume: Pretty Derby depends on you understanding how each stat affects their performance. Regardless of whose career you&#8217;re working on, every uma will need to train and have their stats raised before it&#8217;s time to race. As their trainer, you need to understand the racer you&#8217;re preparing well [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/611455/umamusume-pretty-derby-stats-all-best>
+
+---
+
+## How to solve the Briefing Room puzzles in Missile Command Delta
+
+date: 2025-07-08, updated: 2025-07-08, from: Polygon Website
+
+The Briefing Room puzzles are tough early challenges in Missile Command Delta. The keypad on the wall, the missile schematics, the colorful control panel, and the hidden buttons are part of not one but two separate puzzles, both of which involve an odd red projection. If only it came with a manual… While the keypad [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/611536/missile-command-delta-briefing-room-solutions-puzzles-how-to-solve>
+
+---
+
+## What is the Training Room code in Missile Command Delta?
+
+date: 2025-07-08, updated: 2025-07-08, from: Polygon Website
+
+You’ll need the Training Room code to open a locked door in Missile Command Delta. Once you punch the right code into the keypad in the Training Lounge, you’ll be able to open the Training Room, which gives you access to the next batch of missile defense systems. Below, we’ll show you how to solve [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/611440/missile-command-delta-training-room-code-puzzle-solution>
+
+---
+
+## Where to find the access card in Missile Command Delta
+
+date: 2025-07-08, updated: 2025-07-08, from: Polygon Website
+
+Finding the access card in Missile Command Delta is key to solving the emergency that arises early on. While your friend Marta is panicking, it’s up to you to save the day. If you’re looking for the access card location, this guide will show you where to find the access card in Missile Command Delta. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/611433/missile-command-delta-access-card-location-where-to-find>
+
+---
+
+## How to solve the Breaker Room puzzle in Missile Command Delta
+
+date: 2025-07-08, updated: 2025-07-08, from: Polygon Website
+
+Switch the power on in Missile Command Delta, and you shall see a magnificent Cold War bunker full of missile detection systems. Unfortunately, doing so requires finding a keycard, fixing a broken switch, and solving a tricky energy puzzle. If you’re eager to start exploring the bunker, here’s where to find the missing power switch [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/611413/missile-command-delta-breaker-room-puzzle-solution>
+
+---
+
+## What time does Persona 5 The Phantom X version 1.1 release?
+
+date: 2025-07-08, updated: 2025-07-08, from: Polygon Website
+
+Persona 5: The Phantom X version 1.1 is coming on Thursday, July 10 with potentially new characters and story content. The first update is on its way, but what’s actually in the update is a little ambiguous. All we know so far is when the update will occur, but as Persona 5: The Phantom X [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/persona-5-phantom-x-guides/611474/version-1-1-release-time-maintenance-end-start-zone-utc>
 
 ---
 

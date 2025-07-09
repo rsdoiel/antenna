@@ -1,11 +1,61 @@
 ---
 title: north america
-updated: 2025-07-08 14:08:17
+updated: 2025-07-09 06:09:29
 ---
 
 # north america
 
-(date: 2025-07-08 14:08:17)
+(date: 2025-07-09 06:09:29)
+
+---
+
+## Force Republicans to run on the big, ugly bill
+
+date: 2025-07-09, from: The Contrarian
+
+Democrats can champion &#8220;Do the Opposite&#8221; 
+
+<br> 
+
+<https://contrarian.substack.com/p/force-republicans-to-run-on-the-big>
+
+---
+
+## When ICE Came Up Empty
+
+date: 2025-07-09, from: Capital and Main
+
+<p>A community’s rapid response to a heavily militarized raid targeting undocumented immigrants in Los Angeles’ diverse MacArthur Park neighborhood helped stave off authorities.</p>
+<p>The post <a href="https://capitalandmain.com/when-ice-came-up-empty">When ICE Came Up Empty</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/when-ice-came-up-empty>
+
+---
+
+## Evening Roundup, July 8
+
+date: 2025-07-08, from: The Contrarian
+
+Featuring Tom Malinowski; Jen Rubin with Rep. Chellie Pingree; David McCall; Neera Tanden & Debu Gandhi; Brian O'Neill; Meredith Blake; "Let's Do Lunch" with Jared Bernstein; and Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-8>
+
+---
+
+## Documentary Spotlight: Housewife of the Year
+
+date: 2025-07-08, from: The Contrarian
+
+Contestants recall their experiences in an Irish TV pageant that celebrated traditional motherhood but barely captured the darker reality many women faced at home 
+
+<br> 
+
+<https://contrarian.substack.com/p/documentary-spotlight-housewife-of>
 
 ---
 

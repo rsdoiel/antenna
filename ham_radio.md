@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-07-08 14:08:19
+updated: 2025-07-09 06:09:31
 ---
 
 # ham radio
 
-(date: 2025-07-08 14:08:19)
+(date: 2025-07-09 06:09:31)
+
+---
+
+## System-level test’s expanding role in producing complex chips
+
+date: 2025-07-09, from: EDN Blog
+
+<img width="917" height="503" src="https://www.edn.com/wp-content/uploads/Hero-image-SLT.png?fit=917%2C503" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-SLT.png?w=917 917w, https://www.edn.com/wp-content/uploads/Hero-image-SLT.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-SLT.png?w=768 768w" sizes="(max-width: 917px) 100vw, 917px" /><p>System-level test (SLT) has evolved into a necessary test insertion for high-performance processors and chiplets.</p>
+<p>The post <a href="https://www.edn.com/system-level-tests-expanding-role-in-producing-complex-chips/">System-level test’s expanding role in producing complex chips</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/system-level-tests-expanding-role-in-producing-complex-chips/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-07-08 14:08:19
 
 date: 2025-07-08, from: EDN Blog
 
-<img width="2937" height="1117" src="https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?fit=2937%2C1117" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=2937 2937w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=300 300w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=768 768w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=2048 2048w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=1900 1900w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=2850 2850w" sizes="(max-width: 2937px) 100vw, 2937px" /><p>Autozero circuit that allows the user to automatically adjust the zero-point virtual ground terminal of the scope with the push of a button. </p>
+<img width="2937" height="1117" src="https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?fit=2937%2C1117" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=2937 2937w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=300 300w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=768 768w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=2048 2048w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=1900 1900w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=2850 2850w" sizes="(max-width: 2937px) 100vw, 2937px" /><p>Autozero circuit that allows the user to automatically adjust the zero-point virtual ground terminal of the scope with the push of a button. </p>
 <p>The post <a href="https://www.edn.com/handy-automatic-zero-reference-for-hall-effect-probes/">Handy automatic zero reference for Hall effect probes</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

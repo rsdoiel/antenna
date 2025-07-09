@@ -1,11 +1,138 @@
 ---
 title: snapshots
-updated: 2025-07-08 14:08:27
+updated: 2025-07-09 06:09:41
 ---
 
 # snapshots
 
-(date: 2025-07-08 14:08:27)
+(date: 2025-07-09 06:09:41)
+
+---
+
+## Podcast: How to Fight Back Against AI Bot Scrapers
+
+date: 2025-07-09, from: 404 Media Group
+
+The rise of Anubis; ICE's new facial recognition app; and a bunch of articles about LLMs. 
+
+<br> 
+
+<https://www.404media.co/podcast-how-to-fight-back-against-ai-bot-scrapers/>
+
+---
+
+## California's fire protection agency made an AI chatbot. Don't ask it about evacuation orders
+
+date: 2025-07-09, from: The Markup blog
+
+The bot fails at some basic questions about fires. Cal Fire says it is working on fixes. 
+
+<br> 
+
+<https://themarkup.org/artificial-intelligence/2025/07/09/californias-fire-protection-agency-made-an-ai-chatbot-dont-ask-it-about-evacuation-orders>
+
+---
+
+## Build HAT firmware now fully open source
+
+date: 2025-07-09, from: Raspberry Pi News (.com)
+
+<p>The Raspberry Pi Build HAT helps you bring LEGO and Raspberry Pi together. Its firmware is now fully open source.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/build-hat-firmware-now-fully-open-source/">Build HAT firmware now fully open source</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/build-hat-firmware-now-fully-open-source/>
+
+---
+
+## Build Baby Build
+
+date: 2025-07-09, from: Paul Krugman
+
+Three tales of urban America 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/build-baby-build>
+
+---
+
+## My new book — Clearing the Air — is coming out in September!
+
+date: 2025-07-09, from: Hannah Richie at Substack
+
+A Hopeful Guide to Solving Climate Change &#8212; in 50 Questions and Answers. 
+
+<br> 
+
+<https://www.sustainabilitybynumbers.com/p/clearing-the-air-announcement>
+
+---
+
+## Hack your Amazon Fire tablet with Fire Toolbox (Install Google Play, change default apps & behavior, and more)
+
+date: 2025-07-09, from: Liliputing
+
+<p>Amazon&#8217;s Fire tablets offer a lot of bang for the buck. With list prices starting as low as $60 for an entry-level model, they&#8217;re far cheaper than any recent iPad or Android tablet from Samsung, Google, or Lenovo. And you can often find Fire tablets on sale for even lower prices &#8211; during Amazon&#8217;s July [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/hack-your-amazon-fire-tablet-with-fire-toolbox-v10/">Hack your Amazon Fire tablet with Fire Toolbox (Install Google Play, change default apps &#038; behavior, and more)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/hack-your-amazon-fire-tablet-with-fire-toolbox-v10/>
+
+---
+
+## Lately (July 2025)
+
+date: 2025-07-09, from: Rachel Kwon blog
+
+<p>I know it looks like not a lot is happening here; my last update was in April of this year.</p>
+<p>What can I say — life has been life-ing.</p>
+<p>It&rsquo;s a hot hot summer in New York. My family has been going through health challenges. A few weeks ago I got into a car accident on Highway 1 while visiting my parents in California which is the scariest thing that has happened to me in my adult life.</p> 
+
+<br> 
+
+<https://kwon.nyc/notes/lately-july-2025/>
+
+---
+
+## uv cache prune
+
+date: 2025-07-08, updated: 2025-07-08, from: Simon Willison’s Weblog
+
+<p>If you're running low on disk space and are a <a href="https://github.com/astral-sh/uv">uv</a> user, don't forget about <a href="https://docs.astral.sh/uv/concepts/cache/#clearing-the-cache">uv cache prune</a>:</p>
+<blockquote>
+<p><code>uv cache prune</code> removes all <em>unused</em> cache entries. For example, the cache directory may contain entries created in previous uv versions that are no longer necessary and can be safely removed. <code>uv cache prune</code> is safe to run periodically, to keep the cache directory clean.</p>
+</blockquote>
+<p>My Mac just ran out of space. I ran <a href="https://www.omnigroup.com/more">OmniDiskSweeper</a> and noticed that the <code>~/.cache/uv</code> directory was 63.4GB - so I ran this:</p>
+<pre><code>uv cache prune                    
+Pruning cache at: /Users/simon/.cache/uv
+Removed 1156394 files (37.3GiB)
+</code></pre>
+<p>And now my computer can breathe again!</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/python">python</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/8/uv-cache-prune/#atom-everything>
+
+---
+
+## Best Prime Day mobile tech deals at Amazon (and beyond) for July, 2025
+
+date: 2025-07-08, from: Liliputing
+
+<p>Amazon Prime Day is here&#8230; but it&#8217;s really more of a Prime half-week that runs from July 8 through July 11th. Prime members can score deals on thousands of items &#8211; although some deals are better than others. But there are some good ones: the Logitech MX Master 3S Mouse is on sale for 21% [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/best-prime-day-deals-and-beyond-for-july-2025/">Best Prime Day mobile tech deals at Amazon (and beyond) for July, 2025</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/best-prime-day-deals-and-beyond-for-july-2025/>
 
 ---
 

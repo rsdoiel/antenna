@@ -1,11 +1,509 @@
 ---
 title: pacific
-updated: 2025-07-08 14:08:19
+updated: 2025-07-09 06:09:31
 ---
 
 # pacific
 
-(date: 2025-07-08 14:08:19)
+(date: 2025-07-09 06:09:31)
+
+---
+
+## Confronted over Epstein files, Trump and Bondi tell supporters to move on
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump and Attorney General Pam Bondi once suggested they would expose the hidden, potentially sinister truth about Jeffrey Epstein&#8217;s death in 2019. On Tuesday, they had a message to supporters incensed by the decision to close the case once and for all: Get over it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/nation-world-news/confronted-over-epstein-files-trump-and-bondi-tell-supporters-to-move-on/>
+
+---
+
+## Flash flooding in New Mexico resort town traps dozens in homes and vehicles
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>Flash flooding triggered by heavy monsoon rains in New Mexico trapped dozens of people in homes and vehicles in and around the mountain resort village of Ruidoso on Tuesday and swept away an entire house, according to a state emergency official said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/nation-world-news/flash-flooding-in-new-mexico-resort-town-traps-dozens-in-homes-and-vehicles/>
+
+---
+
+## Two invasive beetle breeding sites found in W. Hawaii
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>Surveys conducted last week located two breeding sites of coconut rhinoceros beetle (CRB) in West Hawaii, according to the state Department of Land and Natural Resources.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/hawaii-news/two-invasive-beetle-breeding-sites-found-in-w-hawaii/>
+
+---
+
+## Trump says steep copper tariffs in store as he broadens his trade war
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/TOKYO &#8212; U.S. President Donald Trump on Tuesday said he would impose a 50% tariff on imported copper and soon introduce long-threatened levies on semiconductors and pharmaceuticals, broadening his trade war that has rattled markets worldwide. One day after he pressured 14 trading partners, including powerhouse U.S. suppliers like South Korea and Japan, with sharply higher tariffs, Trump reiterated his threat of 10% tariffs on products from Brazil, India and other members of the BRICS group of countries.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/nation-world-news/trump-says-steep-copper-tariffs-in-store-as-he-broadens-his-trade-war/>
+
+---
+
+## June rain brings relief to portions of island
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>June&#8217;s weather was a tale of two Hawaii Islands, rain-wise.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/hawaii-news/june-rain-brings-relief-to-portions-of-island/>
+
+---
+
+## Supreme Court clears way for Trump to pursue mass federal layoffs
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Supreme Court on Tuesday cleared the way for Donald Trump&#8217;s administration to pursue mass government job cuts and the sweeping downsizing of numerous agencies, a decision that could lead to tens of thousands of layoffs while dramatically reshaping the federal bureaucracy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/nation-world-news/supreme-court-clears-way-for-trump-to-pursue-mass-federal-layoffs/>
+
+---
+
+## Auditions set for upcoming stage comedy in Hilo
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>Kilauea Drama &#38;Entertainment Network, or KDEN, has announced auditions for the Tom Stoppard comedy &#8220;Rosencrantz and Guildenstern Are Dead.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/entertainment/auditions-set-for-upcoming-stage-comedy-in-hilo/>
+
+---
+
+## Shakespeare in the Park returns to Hilo with ‘The Winter’s Tale’
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>One of East Hawaii&#8217;s longest-running theatrical traditions returns this month as the Hilo Community Players present the 48th Annual Shakespeare in the Park Festival, featuring two versions of William Shakespeare&#8217;s &#8220;The Winter&#8217;s Tale.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/entertainment/shakespeare-in-the-park-returns-to-hilo-with-the-winters-tale/>
+
+---
+
+## MADD honors three HPD officers
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>Three Hawaii Police Department recently were honored by Mothers Against Drunk Driving Hawaii and the state Department of Transportation for their efforts and dedication in the fight against drunken and drugged driving to reduce injuries and deaths on our island roadways.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/community/madd-honors-three-hpd-officers/>
+
+---
+
+## Revitalize Puna event this Saturday will focus on community disaster preparedness and recovery updates
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County invites the community to the next Revitalize Puna event from 10 a.m. to 2 p.m. Saturday at the William &#8220;Billy&#8221; Kenoi District Park Gym in Pahoa.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/community/revitalize-puna-event-this-saturday-will-focus-on-community-disaster-preparedness-and-recovery-updates/>
+
+---
+
+## 161 still missing in a single Texas county, governor says
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>At least 161 people remained missing in Kerr County, the place hit hardest by devastating floods that swept through Texas&#8217; Hill Country five days ago, Gov. Greg Abbott said Tuesday, as the slim hopes of finding survivors continued to fade.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/nation-world-news/161-still-missing-in-a-single-texas-county-governor-says/>
+
+---
+
+## Trump pledges to send more weapons to Ukraine
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump said that the United States would send more weapons to Ukraine to help it fend off Russia&#8217;s invasion, arguing that Moscow&#8217;s recent assault on Ukrainian cities left him with little choice.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/nation-world-news/trump-pledges-to-send-more-weapons-to-ukraine/>
+
+---
+
+## Netanyahu releases letter nominating Trump for Nobel Peace Prize
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>The office of Prime Minister Benjamin Netanyahu of Israel on Tuesday released the letter in which he nominated President Donald Trump for the Nobel Peace Prize, citing his &#8220;pivotal role&#8221; in negotiating diplomatic relations between Israel and several Arab states in 2020.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/nation-world-news/netanyahu-releases-letter-nominating-trump-for-nobel-peace-prize/>
+
+---
+
+## Rubio impersonator using AI contacted foreign ministers, cable says
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; An individual using an artificially generated voice to impersonate Secretary of State Marco Rubio contacted three foreign ministers and two U.S. officials last month, pretending to be the top U.S. diplomat, according to a diplomatic cable seen by Reuters on Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/nation-world-news/rubio-impersonator-using-ai-contacted-foreign-ministers-cable-says/>
+
+---
+
+## News in brief for July 9
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>Man dies at Milan airport &#0010;after being sucked into jet engine</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/nation-world-news/news-in-brief-for-july-9/>
+
+---
+
+## IBM rolls out new chips and servers, aims for simplified AI
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>SAN FRANCISCO &#8212; International Business Machines on Tuesday announced a new line of data center chips and servers that it says will be more power-efficient than rivals and will simplify the process of rolling out artificial intelligence in business operations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/nation-world-news/ibm-rolls-out-new-chips-and-servers-aims-for-simplified-ai/>
+
+---
+
+## US farm secretary says ‘no amnesty’ for farmworkers from deportation
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. Agriculture Secretary Brooke Rollins said on Tuesday that there will be &#8220;no amnesty&#8221; for agricultural workers from the Trump administration&#8217;s efforts to deport all immigrants in the country illegally.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/nation-world-news/us-farm-secretary-says-no-amnesty-for-farmworkers-from-deportation/>
+
+---
+
+## UN passes climate change motion after Marshall Islands drops fossil fuels focus
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>GENEVA &#8212; The U.N. Human Rights Council passed a motion on climate change and human rights on Tuesday after the Marshall Islands withdrew a divisive amendment that called on states to recommit to a phase-out of fossil fuels.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/nation-world-news/un-passes-climate-change-motion-after-marshall-islands-drops-fossil-fuels-focus/>
+
+---
+
+## Wildfires burn in Spain and France after blistering heat wave
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; Wildfires were raging in Spain and France on Tuesday, prompting the closure of an international airport, after a dayslong heat wave parched landscapes in the region and turned woodlands into tinderboxes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/nation-world-news/wildfires-burn-in-spain-and-france-after-blistering-heat-wave/>
+
+---
+
+## Defense Department plans to invest $5 billion in new projects on Guam
+
+date: 2025-07-09, from: Pacific Island Times
+
+While the DOD is investing billions of dollars in military projects on Guam, Vice Speaker V. Anthony Ada said the much-ballyhooed revenue generated for the island has not been fully realized due to tax avoidance.   
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-senator-seeks-congressional-backing-in-chasing-tax-delinquent-military-contractors>
+
+---
+
+## Depolitization of Guam's health care  services sought; autonomy proposed for Community Health Center
+
+date: 2025-07-09, from: Pacific Island Times
+
+“This change is critical to protect the federal funding that keeps the Northern and Southern health centers running and to give the CHC board the authority to improve services, hire more staff, and respond faster to the island’s healthcare needs,” Terlaje said. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/depolitization-of-guam-s-health-care-sought-autonomy-proposed-for-community-health-centers>
+
+---
+
+## 'Political dynamics in Fiji are unpredictable': Will Ratu Tevita Mara step into politics?
+
+date: 2025-07-09, from: 
+
+A Fijian political commentator predicts "it's likely" the "humble" son of Fiji's first prime minister "will be approached" to enter politics once he gains chiefly status. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566423/political-dynamics-in-fiji-are-unpredictable-will-ratu-tevita-mara-step-into-politics>
+
+---
+
+## PNG police offer reward to try and solve Hela sorcery murder
+
+date: 2025-07-09, from: 
+
+There has long been an effort to curb what is known as Sorcery Accusation Relation Violence, but the practice continues. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566422/png-police-offer-reward-to-try-and-solve-hela-sorcery-murder>
+
+---
+
+## Guam's stray population crisis: Three dogcatchers, one truck, 60,000 free-roaming animals
+
+date: 2025-07-09, from: Pacific Island Times
+
+Humane and sustainable solutions sought amid the struggle to manage a surging stray population   By Jayvee Vallejera   Gu am’s... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-s-stray-animal-crisis-three-dogcatchers-one-truck-60-000-free-roaming-animals>
+
+---
+
+## Hawaiian Word of the Week: Kauwela
+
+date: 2025-07-09, from: University of Hawaiʻi News
+
+<p>Kauwela&#8212;Summer.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/08/hawaiian-word-of-the-week-kauwela/">Hawaiian Word of the Week: Kauwela</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/08/hawaiian-word-of-the-week-kauwela/>
+
+---
+
+## Solomon Islands, Fijian students stranded in Israel return home safely
+
+date: 2025-07-09, from: 
+
+Five Solomon Islands and 13 Fijian students have all returned home after being caught in the 12-day Isreal-Iran war. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566413/solomon-islands-fijian-students-stranded-in-israel-return-home-safely>
+
+---
+
+## American Samoa declares dengue outbreak
+
+date: 2025-07-09, from: 
+
+Territorial epidemiologist Adam Konrote said four of the confirmed cases were imported, but the two newest ones are locally acquired. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566417/american-samoa-declares-dengue-outbreak>
+
+---
+
+## Manusina player asks for financial help for Rugby World Cup
+
+date: 2025-07-09, from: 
+
+"Funding for teams like Manusina is scarce and financially has been weighing heavy on our minds." 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566412/manusina-player-asks-for-financial-help-for-rugby-world-cup>
+
+---
+
+## Fiji's central bank, TV network warn public to avoid fake investment scheme
+
+date: 2025-07-09, from: 
+
+The warning comes after a video circulating on social media groups showed the Reserve Bank of Fiji governor promoting a "get-rich-quick" scheme. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566411/fiji-s-central-bank-tv-network-warn-public-to-avoid-fake-investment-scheme>
+
+---
+
+## UH law alumnus leads fight for deported U.S. veteran
+
+date: 2025-07-09, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> law graduate Danicole Ramos and the Refugee &#038; Immigration Law Clinic are leading efforts to bring deported U.S. veteran Sae Joon Park back home.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/08/alumnus-leads-fight-for-deported-veteran/"><abbr>UH</abbr> law alumnus leads fight for deported <abbr>U.S.</abbr> veteran</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/08/alumnus-leads-fight-for-deported-veteran/>
+
+---
+
+## Micronesian Island Forum or Second Island Chain Alliance?
+
+date: 2025-07-09, from: Pacific Island Times
+
+Many promote Pacific Islander unity everywhere, especially in countries like New Zealand and the United States. Nesian Kulture offers island gear and T-shirts that promote “Nesian” pride, with the historic divisions being deliberately underplayed. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/micronesian-island-forum-or-second-island-chain-alliance>
+
+---
+
+## SOEST alumna, more than a dozen others named to PBN 40 Under 40 list
+
+date: 2025-07-09, from: University of Hawaiʻi News
+
+<p>Alyssa Agustin and more than a dozen <abbr>UH</abbr>-connected professionals were recognized for leadership and community impact in <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/08/pbn-40-under-40-uh-ties/"><abbr>SOEST</abbr> alumna, more than a dozen others named to <abbr>PBN</abbr> 40 Under 40 list</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/08/pbn-40-under-40-uh-ties/>
+
+---
+
+## Palau president on Pacific Mini Games: 'It is all about...lifting each other up'
+
+date: 2025-07-08, from: 
+
+"It is about sharing, supporting, and lifting each other up." 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566372/palau-president-on-pacific-mini-games-it-is-all-about-lifting-each-other-up>
+
+---
+
+## Crocs that spent 25 years in concrete cage rehomed in sanctuary
+
+date: 2025-07-08, from: 
+
+After a quarter of a century living in a caged concrete pit, two salt water crocodiles in the Solomon Islands have been moved to a sanctuary thanks to a NZ animal charity. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/national/566335/crocodiles-that-spent-25-years-in-concrete-cage-behind-a-cafe-rehomed-in-sanctuary>
+
+---
+
+## Fiji's ex-anti-corruption head to fight 'destroyed career' after damning inquiry
+
+date: 2025-07-08, from: 
+
+Barbara Malimali - described as "universally corrupt" by the commissioner of the inquiry - was suspended by Fijian Prime Minister Sitiveni Rabuka on 29 May. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566323/fiji-s-ex-anti-corruption-head-to-fight-destroyed-career-after-damning-inquiry>
+
+---
+
+## Tonga claims shot put gold as 2025 Pacific Mini Games draw to a close
+
+date: 2025-07-08, from: 
+
+And Tahiti has stamped its mark as the team to beat when it hosts the Pacific Games in two years' time. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566395/tonga-claims-shot-put-gold-as-2025-pacific-mini-games-draw-to-a-close>
+
+---
+
+## Tobias takes command of NAVFAC Pacific
+
+date: 2025-07-08, from: Pacific Island Times
+
+Rear Adm. Jeff Kilian, Naval Facilities Engineering Systems Command Pacific, receives the Legion of Merit award during his Change of... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/tobias-takes-command-of-navfac-pacific>
+
+---
+
+## Kennedy Theatre announces lineup for 62nd season
+
+date: 2025-07-08, from: University of Hawaiʻi News
+
+<p>Kennedy Theatre’s new season hopes to inspire, challenge and uplift through diverse stories and bold new voices.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/08/kennedy-theatre-lineup-for-62nd-season/">Kennedy Theatre announces lineup for 62nd season</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/08/kennedy-theatre-lineup-for-62nd-season/>
 
 ---
 
@@ -34,15 +532,111 @@ An unexpected group has been playing a key role in making the Mini Games a succe
 
 ---
 
-## Palau president on Pacific Mini Games: 'It is all about...lifting each other up'
+## Hopes fade for missing Texas flood victims as death toll hovers around 100
 
-date: 2025-07-08, from: 
+date: 2025-07-08, updated: 2025-07-09, from: Marianas Variety
 
-"It is about sharing, supporting, and lifting each other up." 
+KERRVILLE, Texas (Reuters) — Search teams plodded through muddy riverbanks and flew aircraft over flood-ravaged central Texas on Monday as hopes dimmed of finding survivors among dozens still missing from a disaster that has claimed at least 96 lives, many of them children. 
 
 <br> 
 
-<https://www.rnz.co.nz/international/pacific-news/566372/palau-president-on-pacific-mini-games-it-is-all-about-lifting-each-other-up>
+<https://www.mvariety.com/news/national/hopes-fade-for-missing-texas-flood-victims-as-death-toll-hovers-around-100/article_fb54de4f-0c9c-4a2b-83b4-a71ad44f6617.html>
+
+---
+
+## DPL clarifies land compensation process for Commonwealth acquisitions
+
+date: 2025-07-08, updated: 2025-07-09, from: Marianas Variety
+
+THE Department of Public Lands on Tuesday released public outreach information to help clarify the land compensation process for individuals whose private properties were acquired by the Commonwealth for public use. This effort is part of DPL’s ongoing initiative to promote transparency and awareness of landowner rights under Article XIII, Section 2 of the CNMI Constitution, which guarantees the right to just compensation.  DPL’s outreach aims to inform the public of the key steps involved in processing land claims, the availability of monetary or land exchange options, and the procedures for administrative hearings when disputes arise. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/dpl-clarifies-land-compensation-process-for-commonwealth-acquisitions/article_d85fff89-a77b-4fba-846e-e8ecd568e415.html>
+
+---
+
+## Joy of the Marianas
+
+date: 2025-07-08, updated: 2025-07-09, from: Marianas Variety
+
+THE joy of the Marianas was revived today as the July 4 festival and parade showed what truly these islands and their people value so much. 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/joy-of-the-marianas/article_18c9a55a-3e70-40e4-a625-e1e968d8c105.html>
+
+---
+
+## Liberation Day Parade
+
+date: 2025-07-08, updated: 2025-07-09, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/liberation-day-parade/article_c51f93a3-8f9e-494b-9923-c39b13081ec1.html>
+
+---
+
+## Michael Madsen, ‘Reservoir Dogs’ and ‘Kill Bill’ star, dies at 67
+
+date: 2025-07-08, updated: 2025-07-09, from: Marianas Variety
+
+LOS ANGELES (AP) — Michael Madsen, the actor best known for his coolly menacing, steely-eyed, often sadistic characters in the films of Quentin Tarantino including “Reservoir Dogs” and “Kill Bill: Vol. 2,” has died. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/michael-madsen-reservoir-dogs-and-kill-bill-star-dies-at-67/article_229cb019-5dc9-468b-beba-8b165509df7a.html>
+
+---
+
+## Hands-on livestock training held at Kumoi Farms
+
+date: 2025-07-08, updated: 2025-07-09, from: Marianas Variety
+
+THE CNMI Department of Lands and Natural Resources, the Secretariat of the Pacific Community, and Australia’s Department of Agriculture, Fisheries and Forestry or ADAFF are training residents of Guam, Palau, and the CNMI in animal husbandry and livestock handling as part of collaborative paraveterinary training. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/hands-on-livestock-training-held-at-kumoi-farms/article_f13f4b2d-0ed8-4b34-b22b-b6d6c5b84ad1.html>
+
+---
+
+## Miss Northern Marianas Asia Pacific hosts first sash-pinning ceremony
+
+date: 2025-07-08, updated: 2025-07-09, from: Marianas Variety
+
+THE CNMI is elevating its stature on the international pageantry stage with the launch of Miss Northern Marianas Asia Pacific on June 28. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/miss-northern-marianas-asia-pacific-hosts-first-sash-pinning-ceremony/article_2f377994-a927-4064-a2b8-4a69e5193ad9.html>
+
+---
+
+## Japan, South Korea seek to negotiate on tariffs before August deadline
+
+date: 2025-07-08, updated: 2025-07-09, from: Marianas Variety
+
+WASHINGTON/TOKYO (Reuters) — Powerhouse Asian economies Japan and South Korea said on Tuesday they would try to negotiate with the U.S. to soften the impact of sharply higher tariffs that President Donald Trump now plans to impose from the start of August. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/japan-south-korea-seek-to-negotiate-on-tariffs-before-august-deadline/article_cf02db7e-fb1b-41fa-9141-6c23b1efb584.html>
+
+---
+
+## STEM research program opens to Saipan high school students
+
+date: 2025-07-08, updated: 2025-07-08, from: Marianas Variety
+
+THE PSS CLDS TEAMS Program is excited to announce that the application for students is now available. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/stem-research-program-opens-to-saipan-high-school-students/article_3b2ba709-5cd5-46ee-bb0f-6c1cf0d92a6a.html>
 
 ---
 
@@ -584,18 +1178,6 @@ date: 2025-07-08, from: Island Times
 <br> 
 
 <https://islandtimes.org/texas-floods-death-toll-rises-as-search-for-missing-girls-continues-amid-forecasts-for-heavy-rain/>
-
----
-
-## Fiji's ex-anti-corruption head to fight 'destroyed career' after damning inquiry
-
-date: 2025-07-08, from: 
-
-Barbara Malimali - described as "universally corrupt" by the commissioner of the inquiry - was suspended by Fijian Prime Minister Sitiveni Rabuka on 29 May. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/566323/fiji-s-ex-anti-corruption-head-to-fight-destroyed-career-after-damning-inquiry>
 
 ---
 

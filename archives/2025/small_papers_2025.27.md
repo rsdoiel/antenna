@@ -1,11 +1,41 @@
 ---
 title: small papers
-updated: 2025-07-08 14:08:26
+updated: 2025-07-09 06:09:40
 ---
 
 # small papers
 
-(date: 2025-07-08 14:08:26)
+(date: 2025-07-09 06:09:40)
+
+---
+
+## 72-year-old man beaten by teens who chased him down on their E-bikes, his wife says
+
+date: 2025-07-09, from: Long Beach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>She said the July 3 attack happened as he was headed home from the Big Bang on the Bay fireworks show.</p>
+<p>The post <a href="https://lbpost.com/news/crime/teenagers-ebike-attack-belmont-shore-july-3-fireworks">72-year-old man beaten by teens who chased him down on their E-bikes, his wife says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/teenagers-ebike-attack-belmont-shore-july-3-fireworks>
+
+---
+
+## Long Beach plans to sell ads on its lifeguard towers
+
+date: 2025-07-08, from: Long Beach Post
+
+<figure><img width="1024" height="678" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08140311/08jul25-7-8-25-lifeguard-7-966460-swpqhv4r-389687-6j6QZzu2-1024x678.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08140311/08jul25-7-8-25-lifeguard-7-966460-swpqhv4r-389687-6j6QZzu2-1024x678.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08140311/08jul25-7-8-25-lifeguard-7-966460-swpqhv4r-389687-6j6QZzu2-300x199.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08140311/08jul25-7-8-25-lifeguard-7-966460-swpqhv4r-389687-6j6QZzu2-768x509.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08140311/08jul25-7-8-25-lifeguard-7-966460-swpqhv4r-389687-6j6QZzu2-163x108.jpg 163w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08140311/08jul25-7-8-25-lifeguard-7-966460-swpqhv4r-389687-6j6QZzu2-400x265.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08140311/08jul25-7-8-25-lifeguard-7-966460-swpqhv4r-389687-6j6QZzu2.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Hoping to raise money it can spend on coastal areas, Long Beach has begun selecting a company to run the advertising program. </p>
+<p>The post <a href="https://lbpost.com/news/city/long-beach-plans-to-sell-advertising-on-its-lifeguard-towers">Long Beach plans to sell ads on its lifeguard towers</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/long-beach-plans-to-sell-advertising-on-its-lifeguard-towers>
 
 ---
 
@@ -13,7 +43,7 @@ updated: 2025-07-08 14:08:26
 
 date: 2025-07-08, from: Long Beach Post
 
-<figure><img width="1024" height="720" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-1024x720.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-1024x720.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-300x211.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-768x540.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-154x108.jpg 154w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-400x281.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="720" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-1024x720.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-1024x720.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-300x211.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-768x540.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-154x108.jpg 154w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27-400x281.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/18133744/18nov24-flag-8-021544-kv5git6x-023687-1IGSkW27.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The state and CIF refused to sign a pledge to ban transgender athletes from competition, putting them at odds with the Trump administration.</p>
 <p>The post <a href="https://lbpost.com/news/education/california-rejects-trump-administration-demand-to-ban-transgender-athletes">California rejects Trump administration demand to ban transgender athletes</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -28,7 +58,7 @@ date: 2025-07-08, from: Long Beach Post
 
 date: 2025-07-08, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/08124320/060625-ice-raid-dtla-jwbh-cm-13-929500-zatsbfsm-925268-YlSp92ZN.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Research shows worksite immigration raids can depress local economies as people stay home and stop spending money. So far, they aren’t known to free up jobs for citizens.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/worksite-immigration-raids-are-supposed-to-free-up-jobs-for-citizens-heres-what-really-happens">Worksite immigration raids are supposed to free up jobs for citizens. Here’s what really happens</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

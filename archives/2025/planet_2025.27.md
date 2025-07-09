@@ -1,11 +1,487 @@
 ---
 title: planet
-updated: 2025-07-08 14:08:16
+updated: 2025-07-09 06:09:28
 ---
 
 # planet
 
-(date: 2025-07-08 14:08:16)
+(date: 2025-07-09 06:09:28)
+
+---
+
+## Local authorities working in 'vacuum' to regulate drones
+
+date: 2025-07-09, from: RTÉ News
+
+Local authorities are working in a "vacuum" due to regulatory gaps in laws that govern commercial drones, an Oireachtas committee has been told. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0709/1522654-drone-regulation-oireachtas/>
+
+---
+
+## Irish anti-migrant mobilisation now 'more organised'
+
+date: 2025-07-09, from: RTÉ News
+
+Anti-migrant mobilisation across the island of Ireland has entered a new, more organised phase, according to the organisation which monitors disinformation and extremism. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522655-irish-anti-migrant-mobilisation/>
+
+---
+
+## 16.7% personal injury award increase will not go ahead
+
+date: 2025-07-09, from: RTÉ News
+
+A controversial proposed 16.7% increase in personal injury awards will not go ahead. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522647-personal-injury-awards/>
+
+---
+
+## 'High risk' pregnancy antenatal care to be moved from PUH
+
+date: 2025-07-09, from: RTÉ News
+
+Expectant mothers with pregnancies deemed to be "high risk" are to have their antenatal care moved from Portiuncula University Hospital, to other locations. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522649-portiuncula-pregnancy-care/>
+
+---
+
+## Call to ensure Gaza children receive treatment in Ireland
+
+date: 2025-07-09, from: RTÉ News
+
+Sinn Féin leader Mary Lou McDonald has called on the Government to immediately intervene to bring 18 children from Gaza to Ireland for vital medical treatment. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522642-gaza-children/>
+
+---
+
+## High Court hearing second case over junior ministers
+
+date: 2025-07-09, from: RTÉ News
+
+The High Court is hearing a second case challenging the constitutionality of junior ministers attending Cabinet meeting. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522643-super-junior-ministers-court/>
+
+---
+
+## Mortgage interest rates fall to over two year low in May
+
+date: 2025-07-09, from: RTÉ News
+
+Irish mortgage interest rates fell to their lowest rate in over two years in May, according to new figures from the Central Bank. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0709/1522636-central-bank-mortgage-rates/>
+
+---
+
+## Apartment building behind lower home delivery - Browne
+
+date: 2025-07-09, from: RTÉ News
+
+The Minister for Housing has said that the slowdown in apartment building is largely behind the poorer-than-expected number of new homes delivered last year. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522634-housing/>
+
+---
+
+## Agricultural entrepreneurial income jumped 73% last year
+
+date: 2025-07-09, from: RTÉ News
+
+Higher milk prices, rising livestock and crop values, as well as a fall in the cost of fertiliser, saw agricultural entrepreneurial income increase by 73% last year - from €1.5 billion to €3.5 billion. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0709/1522630-cso-farming-stats-for-2024/>
+
+---
+
+## RTÉ crèche kitchen among closures over food safety issues
+
+date: 2025-07-09, from: RTÉ News
+
+The kitchen and staff canteen of the Wee Care crèche on RTÉ's Donnybrook campus was among four premises issued with closure orders by the Food Safety Authority last month. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522632-fsai-closures/>
+
+---
+
+## Migrant boat model on Tyrone bonfire 'deplorable'
+
+date: 2025-07-09, from: RTÉ News
+
+Models of migrants in a boat have been placed on a loyalist bonfire in Co Tyrone, prompting condemnation and calls for the display to be removed ahead of the pyre being lit. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522628-bonfire-tyrone/>
+
+---
+
+## Leinster House hit with intermittent power outages
+
+date: 2025-07-09, from: RTÉ News
+
+Intermittent power outages have impacted Dáil, Seanad and Oireachtas committee hearings this morning. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0709/1522631-leinster-house-power-outages/>
+
+---
+
+## France battles smouldering fire near Marseille
+
+date: 2025-07-09, from: RTÉ News
+
+A wildfire that reached the northwestern outskirts of Marseille in France lost intensity overnight, though firefighters are continuing to battle the smouldering blaze and warned that it could flare up again. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0709/1522626-france-wildfires/>
+
+---
+
+## Grok removes posts after complaints of anti-Semitism
+
+date: 2025-07-09, from: RTÉ News
+
+Grok has removed what it called "inappropriate" social media posts after complaints from X users and the Anti-Defamation League that Grok produced content with anti-Semitism tropes. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522620-grok-content-complaints/>
+
+---
+
+## Pope at Mass for Care of Creation: Ecological crisis requires contemplative gaze
+
+date: 2025-07-09, from: Vatican News
+
+
+                    <p>Pope Leo XIV celebrates the first Mass for the Care of Creation at the Laudato Si’ Village in Castel Gandolfo, and urges Christians to embrace our mission to bring peace and reconciliation to our world and all creation.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-mass-care-creation-borgo-laudato-si-castel-gandolfo.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-mass-care-creation-borgo-laudato-si-castel-gandolfo.html>
+
+---
+
+## Lidl owes French rival €43m after ads ruled deceptive
+
+date: 2025-07-09, from: RTÉ News
+
+German supermarket chain Lidl faces a €43 million payout to a French rival after an appeals court ruled its ads to be deceptive. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0709/1522618-lidl-intermarche/>
+
+---
+
+## Horner replaced as Red Bull chief
+
+date: 2025-07-09, from: RTÉ News
+
+Christian Horner has been dismissed and replaced as Red Bull team principal by Laurent Mekies. 
+
+<br> 
+
+<https://www.rte.ie/sport/motorsport/2025/0709/1522617-horner-replaced-as-red-bull-chief-by-mekies/>
+
+---
+
+## Brumbies 24-36 British and Irish Lions - recap
+
+date: 2025-07-09, from: RTÉ News
+
+Follow our minute by minute coverage as the British and Irish Lions continue their tour of Australia against the Brumbies in Canberra 
+
+<br> 
+
+<https://www.rte.ie/sport/rugby/2025/0709/1522611-brumbies-v-british-and-irish-lions-updates/>
+
+---
+
+## Zelensky calls for sanctions after record Russian attack
+
+date: 2025-07-09, from: RTÉ News
+
+Russia targeted Ukraine with a record 728 drones overnight with Volodymyr Zelensky calling for "biting sanctions" on Russia. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522610-ukraine-russia-war/>
+
+---
+
+## Rapporteur welcomes commission into abuse in schools
+
+date: 2025-07-09, from: RTÉ News
+
+The Special Rapporteur on Child Protection has welcomed a Commission of Investigation into allegations of historical sexual abuse in schools, adding she hopes Ireland can replicate what other countries have done in removing the statue of limitations in relation to child sexual abuse. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522592-historical-abuse-schools/>
+
+---
+
+## 20 killed in Israeli air strikes, says Gaza civil defence
+
+date: 2025-07-09, from: RTÉ News
+
+Gaza's civil defence agency has said that 20 people, including at least six children, were killed in two Israeli air strikes overnight. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0709/1522603-gaza-israel-air-strikes/>
+
+---
+
+## Musk chatbot Grok removes posts after complaints of antisemitism, praise for Hitler
+
+date: 2025-07-09, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7580487.1752060801!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/turkey-socialmedia-grok.JPG' alt='Grok logo are seen in this illustration taken.' width='620' height='349' title='FILE PHOTO: xAI and Grok logos are seen in this illustration taken, February 16, 2025. REUTERS/Dado Ruvic/Illustration/File Photo'/><p>Grok, the chatbot developed by the Elon Musk-founded company xAI, has removed what it called "inappropriate" social media posts after complaints from X users and the Anti-Defamation League that Grok produced content with antisemitic tropes and praise for Adolf Hitler.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/grok-chatbot-antisemitism-1.7580485?cmp=rss>
+
+---
+
+## EU ready 'for all scenarios' amid trade talks with US
+
+date: 2025-07-09, from: RTÉ News
+
+The European Union is working closely with US President Donald Trump's administration to reach a trade deal, but Brussels is getting ready for all scenarios, European Commission President Ursula von der Leyen has said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522593-us-eu-trade-talks/>
+
+---
+
+## Russia unleashes another record drone attack on Ukraine, including near Polish border
+
+date: 2025-07-09, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7580467.1752055049!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-ukraine-war.jpg' alt='Firefighters in uniform are shown utilizing fire hoses inside a structure that has charred debris on the ground and broken glass.' width='620' height='349' title='In this photo provided by the Ukrainian Emergency Service, firefighters put out the fire following a Russian attack in Volyn region, Ukraine, on Wednesday.'/><p>Russia targeted Ukraine with a record 728 drones overnight, shortly after U.S. President Donald Trump pledged to send more defensive weapons to Kyiv and aimed unusually direct criticism at Russian President Vladimir Putin.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/ukraine-russia-drone-attack-poland-1.7580464?cmp=rss>
+
+---
+
+## Drought status in several areas as warm spell continues
+
+date: 2025-07-09, from: RTÉ News
+
+Uisce Éireann has issued an appeal to the public to conserve water amid a spell of warmer weather, with 31 catchment areas across 12 counties currently in "drought status". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522581-water-conservation/>
+
+---
+
+## Watch: House washed away by flash floods in New Mexico
+
+date: 2025-07-09, from: RTÉ News
+
+Footage shows the moment a house is swept away following flash flooding in New Mexico. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0709/1522582-new-mexico-flash-floods/>
+
+---
+
+## Vatican grants ‘Nihil obstat’ for Marian devotion on Mount Zvir in Slovakia
+
+date: 2025-07-09, from: Vatican News
+
+
+                    <p>The Dicastery for the Doctrine of the Faith has sent a letter to the Archbishop of Prešov for Byzantine Rite Catholics, confirming the many spiritual fruits connected to Mount Zvir, in Slovakia, where apparitions of Mary allegedly occurred between 1990 and 1995 near the small village of Litmanová.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/ddf-vatican-nihil-obstat-marian-devotion-slovakia-mount-zvir.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/ddf-vatican-nihil-obstat-marian-devotion-slovakia-mount-zvir.html>
+
+---
+
+## Referrals to Tusla increased to more than 96,600 in 2024
+
+date: 2025-07-09, from: RTÉ News
+
+Tusla's social workers dealt with 96,666 child protection and welfare referrals last year which was a 5% increase on referrals in 2023. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0709/1522573-tusla-report-children/>
+
+---
+
+## Climate change made Europe's heatwave up to 4C hotter
+
+date: 2025-07-09, from: RTÉ News
+
+Human-caused climate change made recent European heatwaves up to 4C hotter in many cities, scientists said, pushing temperatures into deadly territory for thousands of vulnerable people. 
+
+<br> 
+
+<https://www.rte.ie/news/weather/2025/0709/1522575-heatwave-europe-study/>
+
+---
+
+## Finland's president on the Ukraine war, golfing with Trump and elbows up
+
+date: 2025-07-09, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7580347.1752048263!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/alexander-stubb.jpg' alt='Finnish President Alexander Stubb spoke to CBC news in Naantali, Finland on July 3rd. ' width='620' height='349' title='Finnish President Alexander Stubb spoke to CBC news in Naantali, Finland on July 3rd. '/><p>Finland's President Alexander Stubb is the head of state for one of NATO's newest members, and he sat down with CBC News to talk Trump, the war in Ukraine and what it's like sharing a 1,300-kilometre border with Russia.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/finnish-president-interview-1.7580071?cmp=rss>
+
+---
+
+## Starmer and Macron to hold talks on migrant crossings
+
+date: 2025-07-09, from: RTÉ News
+
+The British Prime Minister Keir Starmer and the French President Emmanuel Macron will hold talks as the UK pushes for France to do more to stop migrant crossings. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0709/1522574-starmer-macron-talks/>
+
+---
+
+## More than 160 still missing after Texas floods
+
+date: 2025-07-09, from: RTÉ News
+
+More than 160 people remain unaccounted for after devastating floods in Texas, the state governor has said, marking a dramatic increase in the number missing from a tragedy that has so far claimed 109 lives. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0709/1522571-texas-flood-missing/>
+
+---
+
+## Trump, Netanyahu discuss Gaza ceasefire and hostages
+
+date: 2025-07-08, from: RTÉ News
+
+Israeli Prime Minister Benjamin Netanyahu has said that his meeting with US President Donald Trump focused on freeing hostages held in Gaza, and stressed his determination to "eliminate" the military and governmental capabilities of Hamas. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0709/1522569-us-israel-gaza/>
+
+---
+
+## Rise in 'self-generated' child sex abuse material online
+
+date: 2025-07-08, from: RTÉ News
+
+There was a big increase last year in the levels of "self-generated" child sexual abuse material appearing online, according to the annual report of the Irish Internet Hotline. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0709/1522549-internet-safety/>
+
+---
+
+## Adult education tutors to protest over feared layoffs
+
+date: 2025-07-08, from: RTÉ News
+
+Adult education tutors are to protest outside Leinster House today calling on the Minister for Higher Education James Lawless to protect hundreds of teachers who are potentially facing redundancy. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0709/1522547-adult-tutor-protest/>
+
+---
+
+## Variations in cancer care 'causing avoidable deaths'
+
+date: 2025-07-08, from: RTÉ News
+
+The Irish Cancer Society has said that there are shocking variations across the country in terms of access to cancer tests and treatments. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522548-ics-cancer/>
+
+---
+
+## Avoidable costs worth €76m saved by injuries board
+
+date: 2025-07-08, from: RTÉ News
+
+A total of €76 million was saved in "avoided costs" by the Injuries Resolution Board (IRB) last year, due to claims not proceeding to litigation. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522540-injuries-board-costs/>
+
+---
+
+## Committee hears concerns over outsourcing content at RTÉ
+
+date: 2025-07-08, from: RTÉ News
+
+Offering existing RTÉ programmes "out to tender" to outside production companies "does not enhance the cultural life of this nation", a Dáil committee has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0708/1522566-committee-hears-concerns-over-outsourcing-content-at-rte/>
+
+---
+
+## Camp Mystic's emergency plan passed state inspection 2 days before deadly flooding
+
+date: 2025-07-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7580213.1752008592!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/texas-extreme-weather.jpg' alt='A torn sign in the foreground reads &quot;Jesus Wept.&quot; Behind it, a stone-covered camp with a file of flood bags in front of it.' width='620' height='349' title='Camper&apos;s belongings sit outside one of Camp Mystic&apos;s cabins near the Guadalupe River after a flash flood swept through the area Monday, July 7, 2025, in Hunt, Texas. (AP Photo/Eli Hartman)'/><p>Texas inspectors signed off on Camp Mystic's emergency planning just two days before catastrophic flooding killed more than two dozen people at the all-girls Christian summer camp, most of them children.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/camp-mystic-inspection-approved-emergency-plan-1.7580418?cmp=rss>
 
 ---
 
@@ -30,6 +506,31 @@ The US Supreme Court has cleared the way for the Trump administration to resume 
 <br> 
 
 <https://www.rte.ie/news/world/2025/0708/1522552-trump-government-workers/>
+
+---
+
+## She ain't heavy, she's my wife: Wife-carrying contest returns in Finland
+
+date: 2025-07-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/179ccee0-2005-4779-8a92-45acac171c5c,1752020882462/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A crowd cheers as a man carries a woman, who is hanging upside-down off his shoulders, in a race.' width='620' height='349' title=''/><p>The 2025 Wife-Carrying World Championships concluded over the weekend in Sonkajärvi, Finland, with this year's edition featuring a team event and a separate women's series. Altogether, more than 200 people from 18 countries took part, with U.S. couple Caleb and Justine Roesler emerging victorious in the main race.
+</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6824894?cmp=rss>
+
+---
+
+## Marseille wildfire grounds all flights, forces hundreds of home evacuations
+
+date: 2025-07-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7580366.1752022328!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2223497823.jpg' alt='A person uses a water hose in an attempt to douse a burning car.' width='620' height='349' title='A police officer tries to extinguish a car on fire in L&apos;Estaque a district of Marseille, southern France on July 8, 2025, as the smoke from a wildfire rises. The fire that started late on July 8, 2025 morning in Les Pennes-Mirabeau (Bouches-du-Rhone), a town bordering Marseille, has entered France&apos;s second-largest city, where some residents were urged to shelter in place, according to a warning message at 4:00 PM from the prefect of Bouches-du-Rhone. (Photo by Clement MAHOUDEAU / AFP) (Photo by CLEMENT MAHOUDEAU/AFP via Getty Images)          '/><p>A wildfire spurred by hot summer winds reached France's second-largest city Tuesday, grounding all flights to and from Marseille, injuring at least nine people and forcing many residents to evacuate their homes or barricade themselves indoors as smoke choked the Mediterranean air.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/marseille-france-wildfire-1.7580354?cmp=rss>
 
 ---
 
@@ -69,6 +570,18 @@ The work that lies ahead for the Commission of Investigation into the Handling o
 
 ---
 
+## Aspiring Indigenous 'wise women' become UNESCO chairs to promote traditional knowledge
+
+date: 2025-07-08, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7580126.1752005052!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/minz-and-parent.jpg' alt='A composite image of two photos. Left, Minz appears wearing a pink sari and smiling. Right, Parent appears wearing a tradition Nisga&apos;a hat with red and black.' width='620' height='349' title='Sonajharia Minz (left) and Amy Parent will spend the next four years working together as UNESCO co-chairs promoting Indigenous knowledge and data sovereignty.'/><p>Two Indigenous women — one from Canada and one from India —are partnering to protect Indigenous knowledge and move toward matriarchal values to achieve that goal. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/unesco-chairs-rematriation-1.7580136?cmp=rss>
+
+---
+
 ## Govt nominates eight judges under new appointment process
 
 date: 2025-07-08, from: RTÉ News
@@ -105,6 +618,18 @@ A new system, launched by Comreg, aimed at clamping down on fraudulent text mess
 
 ---
 
+## Building Canada Act a 'troubling threat' to Indigenous rights, says Amnesty International Canada
+
+date: 2025-07-08, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7532773.1747072604!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/afn-assembly-20241203.JPG' alt='Senator Paul Prosper speaks during a plenary session on economic reconciliation the first day of the Assembly of First Nations. He is shown in profile at a podium wearing a grey suit, white shirt and dark tie. ' width='620' height='349' title='Senator Paul Prosper speaks during a plenary session on economic reconciliation the first day of the Assembly of First Nations (AFN) Special Chiefs Assembly in Ottawa, on Tuesday, Dec. 3, 2024. '/><p>A global human rights organization has added to calls condemning federal legislation that many say will impact Indigenous rights in Canada.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/bill-c5-amnesty-international-1.7580152?cmp=rss>
+
+---
+
 ## Pharma tariffs could reach 200%, says US President
 
 date: 2025-07-08, from: RTÉ News
@@ -114,6 +639,18 @@ US President Donald Trump has said he is planning to announce tariffs on importe
 <br> 
 
 <https://www.rte.ie/news/2025/0708/1522524-eu-us-tariffs/>
+
+---
+
+## Italian airport temporarily closed after man dies on runway
+
+date: 2025-07-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7580190.1752008467!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/italy-airport-death.JPG' alt='Planes are seen parked on a tarmac.' width='620' height='349' title='Aircrafts are seen at Milan Bergamo Airport, after flight operations were temporarily suspended when a person died on a runway during take-off preparations, in Orio al Serio, near Bergamo, Italy, July 8, 2025. REUTERS/Claudia Greco'/><p>Italy's Milan Bergamo airport, which offers low-cost airline connections to and from Milan, was temporarily closed on Tuesday after a man died on a runway during takeoff preparations for a flight.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/italy-bergamo-airport-runway-death-1.7580180?cmp=rss>
 
 ---
 
@@ -141,11 +678,11 @@ Police in Northern Ireland have confirmed that they have carried out a search in
 
 ---
 
-## Trump and Netanyahu set to meet again Tuesday on Gaza
+## No word of ceasefire as Netanyahu leaves White House after 2nd meeting with Trump
 
 date: 2025-07-08, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7579349.1752005608!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-trump-netanyahu.JPG' alt='Two men wearing dark suits and red ties' width='620' height='349' title='FILE PHOTO: U.S. President Donald Trump welcomes Israeli Prime Minister Benjamin Netanyahu at the entrance of the White House in Washington, D.C., U.S., April 7, 2025.  '/><p>U.S. President Donald Trump and Israeli Prime Minister Benjamin Netanyahu will meet for a second time in two days Tuesday afternoon to discuss Gaza.</p> 
+<img src='https://i.cbc.ca/1.7579349.1752005608!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-trump-netanyahu.JPG' alt='Two men wearing dark suits and red ties' width='620' height='349' title='FILE PHOTO: U.S. President Donald Trump welcomes Israeli Prime Minister Benjamin Netanyahu at the entrance of the White House in Washington, D.C., U.S., April 7, 2025.  '/><p>U.S. President Donald Trump on Tuesday met for a second time in two days with Israeli Prime Minister Benjamin Netanyahu to discuss Gaza as Trump's Middle East envoy said Israel and Hamas were closing their differences on a ceasefire deal.</p> 
 
 <br> 
 
@@ -153,11 +690,11 @@ date: 2025-07-08, from: CBC, World News
 
 ---
 
-## TSA to stop asking people to remove shoes for security screenings at U.S. airports: reports
+## Travellers no longer have to remove shoes for U.S. airport security checks
 
 date: 2025-07-08, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7580130.1752004855!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/traveller-putting-his-shoes-in-a-bin-during-an-airport-security-check-in-l-a.jpg' alt='An air traveler places his shoes in a bin before a security check at Los Angeles International Airport.' width='620' height='349' title='An air traveler places his shoes in a bin before passing through the Transportation Security Administration (TSA) security check at Los Angeles International Airport (LAX) on February 20, 2014 in Los Angeles, California. The TSA recently launched a PreCheck program that allows those enrolled in a trusted traveler network to enter about 100 US airports through a special security lane where they dont have to take off shoes, belts and jackets or remove laptops, liquids or gels'/><p>For the first time in almost 20 years, air travellers may no longer be required to take off their shoes during security screenings at U.S. airports.</p> 
+<img src='https://i.cbc.ca/1.7580130.1752004855!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/traveller-putting-his-shoes-in-a-bin-during-an-airport-security-check-in-l-a.jpg' alt='An air traveler places his shoes in a bin before a security check at Los Angeles International Airport.' width='620' height='349' title='An air traveler places his shoes in a bin before passing through the Transportation Security Administration (TSA) security check at Los Angeles International Airport (LAX) on February 20, 2014 in Los Angeles, California. The TSA recently launched a PreCheck program that allows those enrolled in a trusted traveler network to enter about 100 US airports through a special security lane where they dont have to take off shoes, belts and jackets or remove laptops, liquids or gels'/><p>Air travellers racing to catch flights at U.S. airports are no longer required to remove their shoes during security screenings, U.S. Homeland Security Secretary Kristi Noem said Tuesday.</p> 
 
 <br> 
 
@@ -383,7 +920,7 @@ date: 2025-07-08, from: Vatican News
 
 ## UN summit confronts AI’s dawn of wonders and warnings
 
-date: 2025-07-08, from: United Nations, Top Stories
+date: 2025-07-08, from: United Nations, Economic Development
 
 The UN’s flagship platform on artificial intelligence opened in Geneva on Tuesday, launching four days of high-level dialogue, cutting-edge demonstrations and urgent calls for inclusive AI governance. The event comes as autonomous and generative systems evolve faster than regulatory frameworks can keep pace. 
 
@@ -414,6 +951,66 @@ The UN human rights office, OHCHR, has expressed deep concern over the killing o
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/07/1165343>
+
+---
+
+## US tariff delay deepens trade uncertainty, warns top UN economist
+
+date: 2025-07-08, from: United Nations, Economic Development
+
+A leading UN trade official warned on Tuesday that the United States’ decision to delay the end of a tariff suspension by a few weeks risks prolonging global uncertainty and undermining long-term investments and commercial contracts. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165351>
+
+---
+
+## In South Asia, anaemia threatens women’s health and economic futures
+
+date: 2025-07-08, from: United Nations, Top Stories
+
+Anaemia remains one of South Asia’s quietest but most pervasive health crises, disproportionately affecting the region’s poorest women and girls – and with 18 million more cases projected by 2030, experts say urgent, unified action is critical. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165350>
+
+---
+
+## Ukraine: UN refugee agency helps repair homes amid ongoing conflict
+
+date: 2025-07-08, from: United Nations, Top Stories
+
+As relentless attacks continue to damage homes and communities across Ukraine, the UN refugee agency (UNHCR) has now helped repair over 40,000 war-damaged homes – marking a major step in helping displaced families return and recover.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165349>
+
+---
+
+## South Sudan’s longest cholera outbreak enters critical stage
+
+date: 2025-07-08, from: United Nations, Climate Change
+
+On the eve of the fourteenth anniversary of its independence, South Sudan – the world’s youngest country – is experiencing its worst and longest cholera outbreak.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165348>
+
+---
+
+## Gaza: Hospitals rationing critical supplies, ambulances stalling
+
+date: 2025-07-08, from: United Nations, Top Stories
+
+UN humanitarians have warned that the catastrophic conditions in Gaza are worsening, as tents, schools, homes and medical facilities come under attack, and fuel supplies run out.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165347>
 
 ---
 
@@ -1139,7 +1736,7 @@ Goals win games goes the old cliche, and Shane McGrath feels that Tipperary were
 
 ## Human rights must anchor the digital age, says UN’s Türk
 
-date: 2025-07-07, from: United Nations, Top Stories
+date: 2025-07-07, from: United Nations, Economic Development
 
 As digital technologies rapidly reshape every aspect of society, the UN’s top human rights official has called for human rights to be placed at the centre of this transformation. 
 
@@ -1151,7 +1748,7 @@ As digital technologies rapidly reshape every aspect of society, the UN’s top 
 
 ## ‘Cooperation is humanity’s greatest innovation,’ UN chief declares at BRICS summit
 
-date: 2025-07-07, from: United Nations, Top Stories
+date: 2025-07-07, from: United Nations, Economic Development
 
 UN Secretary-General António Guterres on Monday warned that the environment is being attacked on all fronts and called on the international community to urgently tackle the intersection of health and climate issues. 
 

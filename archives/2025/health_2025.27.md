@@ -1,11 +1,83 @@
 ---
 title: health
-updated: 2025-07-08 14:08:24
+updated: 2025-07-09 06:09:38
 ---
 
 # health
 
-(date: 2025-07-08 14:08:24)
+(date: 2025-07-09 06:09:38)
+
+---
+
+## A comparative study using Xpert MTB/RIF and culture methods evaluates MassARRAY technology for rapid detection of Mycobacterium tuberculosis and drug resistance
+
+date: 2025-07-09, from: Frontiers in Cellular and Infection Microbiology
+
+Tuberculosis (TB) remains a major global health threat, with the urgent need for rapid and accurate diagnostic methods to improve control and treatment outcomes. This study evaluates the performance of MassARRAY technology for detecting Mycobacterium tuberculosis (MTB) and identifying drug resistance, compared to traditional culture methods and Xpert MTB/RIF. From July 2021 to February 2024, bronchoalveolar lavage fluid (BALF) samples from 289 suspected pulmonary tuberculosis patients at Henan Provincial Chest Hospital, China, were tested using MassARRAY, Xpert MTB/RIF, and conventional culturing techniques. The performance of each method was assessed for MTB detection, and the ability of MassARRAY to identify drug resistance was compared with standard drug susceptibility testing (DST). MassARRAY demonstrated a sensitivity of 96.5% and a specificity of 34.6% for MTB detection, outperforming the Xpert MTB/RIF assay in sensitivity (94.7%) but showing lower specificity. In detecting rifampicin resistance, MassARRAY achieved concordance rates of 83.93% with Xpert MTB/RIF and 72.73% with DST. Furthermore, MassARRAY successfully identified key genetic mutations associated with drug resistance, such as rpoB 531 for rifampicin and katG 315 for isoniazid. MassARRAY demonstrated high concordance with DST for several drugs, including isoniazid, kanamycin, and streptomycin, but exhibited limitations in detecting resistance to pyrazinamide, clofazimine, cycloserine, and linezolid. Overall, MassARRAY provides a rapid, cost-effective, and high-throughput diagnostic platform for MTB and drug resistance, particularly for first-line anti-tuberculosis drugs. While limitations in specificity and resistance detection for certain second-line drugs exist, its ability to rapidly provide comprehensive resistance profiles makes it a valuable tool for TB management. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1539240>
+
+---
+
+## Gut microbiota changes in postmenopausal women with low bone density linked to serum amino acid metabolism
+
+date: 2025-07-09, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe gut microbiota (GM) has been linked to changes in bone mineral density (BMD), potentially contributing to the development of osteopenia or osteoporosis. Although the relationship between specific bacterial taxa and bone remodeling has been documented in various populations, data on the Mexican population remain limited. This study aimed to analyze the changes in the taxonomic composition of GM associated with low BMD (osteopenia/osteoporosis) and explore potential mechanisms influencing bone metabolism in Mexican postmenopausal women.MethodsBMD was measured by dual-energy X-ray absorptiometry. GM composition was analyzed through 16S rRNA amplicon sequencing in Mexican postmenopausal women. Metabolic functions were predicted using PICRUSt2 based on KEGG pathways at hierarchy level 3. Serum amino acid (AA) concentrations were measured in a sub-sample using tandem mass spectrometry.ResultsOur findings indicated that beta diversity significantly differed among BMD groups (p<0.05). Women with low BMD showed higher relative abundances of Bacteroides, Parabacteroides, Barnesiella, Odoribacter, Sutterella, Butyricimonas, Coprobacter, Angelakisiella, and Oscillibacter. Functional prediction revealed differences in alanine, valine, leucine, and methionine-related metabolic pathways. These findings were supported by lower serum concentrations of valine, leucine, and methionine in the low BMD group compared to the normal BMD group (p<0.05).ConclusionThis study provides evidence of the relationship between GM composition and AA concentrations with changes in BMD. These findings highlight promising areas for the development of potential therapeutic interventions 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1627519>
+
+---
+
+## Saxifraga stolonifera inhibits porcine epidemic diarrhea virus infection by disrupting nucleocapsid protein-p53 interaction
+
+date: 2025-07-09, from: Frontiers in Cellular and Infection Microbiology
+
+Porcine epidemic diarrhea (PED) is an acute, highly contagious intestinal disease caused by the porcine epidemic diarrhea virus (PEDV), which has devastating effects on the global swine industry. Currently, no effective therapeutic agents have been identified for treating PEDV infections. Saxifraga stolonifera (S. stolonifera), valued in traditional Chinese medicine for its anti-inflammatory properties, remains poorly studied regarding its efficacy against PEDV. This study demonstrated the dose-dependent inhibition of PEDV nucleocapsid expression by S. stolonifera in vitro. S. stolonifera strongly inhibited the expression levels of pro-inflammatory cytokines. Using the network pharmacology, key components such as gallic acid, quercetin, coumarin, and caffeic acid were identified. KEGG pathway enrichment analysis revealed that S. stolonifera mainly targeted pathways including p53, MAPK, and TNF to exert anti-PEDV effects. S. stolonifera treatment disrupted the interaction of PEDV N protein and p53. It also modulated the p53-DREAM signaling pathway by reducing p53 and p21 protein levels, while enhancing p130 (Ser672) phosphorylation, E2F4, and Cyclin A protein expression levels. Molecular docking revealed stable hydrogen bonding between the seven core components and the PEDV N protein, with quercetin exhibiting the lowest binding energy. Amino acid sequence analysis showed that quercetin and other components share conserved binding sites with the PEDV N protein. These findings underscore the potential of S. stolonifera as a natural antiviral agent against PEDV infection. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1615300>
+
+---
+
+## Analysis of phosphomotifs coupled to phosphoproteome and interactome unveils potential human kinase substrate proteins in SARS-CoV-2
+
+date: 2025-07-09, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionViruses exploit host kinases to phosphorylate their proteins, enabling viral replication and interference with host-cell functions. Understanding phosphorylation in SARS-CoV-2 proteins necessitates identifying viral phosphoproteins, their phosphosites, and the host kinase–viral protein interactions critical for evading host antiviral responses.MethodsEmploying the protein kinase substrate sequence-preference motifs derived by Poll B G. et. al., 2024, we performed kinase-substrate phosphomotif pattern analysis on the SARS-CoV-2 proteome. We identified major host kinases by analyzing SARS-CoV-2 perturbed phosphoproteomes from various studies and cell systems. These kinases were subjected to interactome analysis and literature-based validation for the impact of kinase inhibitors on infection. Further, conservation of viral phosphosites across SARS CoV-2 variants were also assessed.ResultsThe human kinome–substrate phosphomotif analysis predicted 49 kinases capable of phosphorylating 639 phosphosites across 33 SARS-CoV-2 proteins. From these, 24 kinases were also perturbed in SARS-CoV-2-infected phosphoproteomes. Literature review identified seven kinases, including MAP2K1, whose inhibition may reduce viral replication. MAP2K1 was found to target key viral phosphosites, including N protein (S206, T198) and ORF9b (S50), conserved across SARS-CoV-2 variants. Docking analysis showed MAP2K1 forms stronger, closer interactions with N protein compared to SRPK1, highlighting MAP2K1 as a potential host kinase for therapeutic targeting in SARS-CoV-2 infection.Discussion and ConclusionsThis study presents a framework for predicting human kinases of specific SARS-CoV-2 protein phosphosites by integrating kinase specificity, virus–host interactions, and post-translational modifications. MAP2K1 was identified as a key host kinase, showing stronger interactions than SRPK1, and is proposed as an antiviral drug target for repurposing in SARS-CoV-2 infections. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1554760>
+
+---
+
+## Human papillomavirus infection and disease recurrence/persistence after treatment for women of high-grade cervical intraepithelial neoplasia with coexisting vaginal intraepithelial neoplasia
+
+date: 2025-07-09, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundCoexistent cervical intraepithelial neoplasia (CIN) and vaginal intraepithelial neoplasia (VaIN) is problematic, posing challenges for patient management. This study focused on the clinical characteristics of coexistent CIN 2/3 and VaIN (all degrees), evaluating the proclivity for disease recurrence/persistence at 6 months after treatment.MethodsA retrospective case–control study of women treated for coexistent CIN 2/3 and VaIN (CE group) was undertaken between January 2018 and December 2020. During the same period, women with CIN 2/3 only were selected chronologically (1:2 ratio) for comparison (sCIN group). A loop electrosurgical excision procedure (LEEP) was the standard treatment for CIN 2/3, performing electrofulguration of VaIN in tandem. First follow-up visits at 6 months thereafter entailed testing for human papillomavirus (HPV). Univariate and multivariate analyses served to assess pertinent risk factors.ResultsThere were 91 CE group members, each treated for coexistent CIN 2/3 and VaIN (VaIN 1, 35; VaIN 2/3, 56). Age ≥50 years (OR = 3.362, 95% CI: 1.421–7.954) emerged as an independent risk factor for coexistent disease. Positive margins and persistent high-risk HPV (HR-HPV) infection after treatment were more common in the CE (vs. sCIN) group (p = 0.012 and p < 0.001, respectively), as was recurrent/persistent high-grade disease (17.6% vs. 2.2%; p < 0.001). In the CE group, persistent HR-HPV infection 6 months after treatment (OR = 21.320, 95% CI: 2.509–181.188) was the sole independent risk factor for disease recurrence/persistence at 6 months.ConclusionsComprehensive vaginal wall examinations are warranted for women with CIN 2/3, particularly those >50 years old. Close follow-up by HPV test is also indicated if CIN 2/3 and VaIN coexist, given a heightened incidence of recurrent/persistent disease. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1602216>
+
+---
+
+## Jian-Pi-Yi-Shen formula improves kidney function by regulating gut microbiome in rats with chronic kidney disease
+
+date: 2025-07-09, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionRecent studies have underscored the role of interactions between Traditional Chinese Medicine (TCM) and the gut microbiome (GM) in mediating therapeutic effects. Jian-Pi-Yi-Shen Formula (JPYSF) has shown efficacy in ameliorating chronic kidney disease (CKD) symptoms, but its mechanisms via GM modulation remain unclear.MethodsIn this study, 8-week-old rats were assigned to three groups after a two-week acclimation: C (normal diet for six weeks), M (adenine diet for four weeks then normal diet for two weeks), and T (same as M, with JPYSF administered during the final three weeks). Fecal samples were collected at three timepoints (T1: post-acclimation; T2: after three weeks on respective diets; T3: after three weeks of JPYSF treatment) for metagenomic sequencing. Serum creatinine (SCR) was measured at T2 and T3. ResultsAt T2, adenine-fed rats showed elevated SCR (C: 28.4 ± 1.5 µmol/L; M: 189.6 ± 25.8µmol/L; T: 186.4 ± 32.5µmol/L; p < 0.001). By T3, SCR decreased more in T (86.0 ± 14.9µmol/L) than in M (119.6 ± 16.3µmol/L; p = 0.012), with C remaining stable (30.8 ± 4.4µmol/L). Adenine feeding induced significant GM shifts, evidenced by increased Aitchison distance (p < 0.01) and altered co-abundance interaction groups (CIGs): CIG3, 6, 9, 10 increased; CIG1, 2, 4, 12 decreased (all p < 0.05). After JPYSF treatment, only CIG4 significantly rebounded (T3 vs. M, p = 0.0079), and T3-T1 dissimilarity was lower in T than M (p < 0.05). SCR levels were significantly lower in T than M after returning to a normal diet, suggesting a renoprotective effect of JPYSF. Co-occurrence analysis linked SCR positively with toxin-associated CIGs (CIG3, 6, 7, 9, 10) and pathways (purine metabolism, toluene degradation), and negatively with CIG4.DiscussionThese results demonstrate that JPYSF lowers SCR and selectively modulates GM modules, particularly CIG4, which inversely correlates with uremic toxin–producing pathways, suggesting improved renal function and specific gut microbiota modulation in CKD rats. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1526863>
 
 ---
 

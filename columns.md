@@ -1,11 +1,142 @@
 ---
 title: columns
-updated: 2025-07-08 14:08:21
+updated: 2025-07-09 06:09:33
 ---
 
 # columns
 
-(date: 2025-07-08 14:08:21)
+(date: 2025-07-09 06:09:33)
+
+---
+
+## Thunderbird ESR is here: Mozilla's email client adds new functions
+
+date: 2025-07-09, updated: 2025-07-09, from: Liam Proven's articles at the Register
+
+<h4>Version 140 has built-in MS Exchange support – and a year&#39;s updates ahead</h4>
+      <p>The latest version of the messaging client from Mozilla subsidiary MZLA has a bunch of useful new features, and will get updated until mid 2026.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/09/new_thunderbird_esr_is_here/>
+
+---
+
+## Office Hours: Where’s the tipping point?
+
+date: 2025-07-09, from: Robert Reich's blog
+
+What will it take for most Americans to demand an end to Trump&#8217;s dictatorship? 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-wheres-the-tipping-point>
+
+---
+
+## July 8, 2025 
+
+date: 2025-07-09, from: Heather Cox Richardson blog
+
+One hundred and eleven people are dead and more than 160 are still missing in Texas after Friday&#8217;s tragic flood. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-8-2025>
+
+---
+
+## Elon Musk’s Lawyers Claim He ‘Does Not Use a Computer’
+
+date: 2025-07-09, updated: 2025-07-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wired.com/story/elon-musk-computer-sam-altman/>
+
+---
+
+## Grok Praises Hitler, Shocking No One
+
+date: 2025-07-09, updated: 2025-07-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://gizmodo.com/round-them-up-grok-praises-hitler-as-elon-musks-ai-tool-goes-full-nazi-2000626156>
+
+---
+
+##  From Marcin Wichary, a history of Mac settings (1984-2004). The article includes... 
+
+date: 2025-07-09, updated: 2025-07-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047116-from-marcin-wichary-a-his>
+
+---
+
+## Wednesday 9 July, 2025
+
+date: 2025-07-08, from: John Naughton's online diary
+
+On reflection… Seen yesterday in a small town in Burgundy. ______________________________  Quote of the Day ”That would be a good thing for them to cut on my tombstone: Wherever she went, including here, it was against her better judgment.” Dorothy &#8230; <a href="https://memex.naughtons.org/wednesday-9-july-2025/41001/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-9-july-2025/41001/>
+
+---
+
+## ★ Jeff Williams, 62, Is Retiring as Apple’s COO
+
+date: 2025-07-08, updated: 2025-07-08, from: Daring Fireball
+
+Post-Williams, Apple’s operations will clearly remain under excellent, experienced leadership under Sabih Khan. But the company will be left with its design teams reporting directly to Cook, leaving it less clear whose taste, [ultimately], is steering the work of the company into the future. 
+
+<br> 
+
+<https://daringfireball.net/2025/07/jeff_williams_is_retiring_as_coo>
+
+---
+
+##  A Masterclass on Status, Power, & the Economy with Tressie McMillan Cottom.... 
+
+date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047102-a-masterclass-on-status-p>
+
+---
+
+##  Did Shakespeare Write Hamlet While He Was Stoned? Examining the evidence that... 
+
+date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047104-did-shakespeare-write-ham>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-08, from: Dave Winer's Scripting News)
+
+<a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lthfkwae522d">On Bluesky</a>: "The web is still there under all this michegas, ready to be magical again any time we want it to." 
+
+<br> 
+
+<http://scripting.com/2025/07/08.html#a212045>
 
 ---
 
@@ -18,6 +149,218 @@ date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/07/0047110-chatgpt-kept-directing-pe>
+
+---
+
+## 2025-07-03 fail2ban some more
+
+date: 2025-07-08, from: Alex Schroeder's Blog
+
+<h1 id="2025-07-03-fail2ban-some-more">2025-07-03 fail2ban some more</h1>
+
+<p>This is a continuation of <a href="2025-06-16-ban-asn">2025-06-16 Ban autonomous systems</a>.</p>
+
+<p>I kept wondering why the &ldquo;recidive&rdquo; jail never found any repeated offenders from the &ldquo;butlerian-jihad&rdquo; jail. I think I know why, now. The &ldquo;recidive&rdquo; jail uses the following:</p>
+
+<pre><code>failregex = ^%(__prefix_line)s(?:\s*fail2ban\.actions\s*%(__pid_re)s?:\s+)?NOTICE\s+\[(?!%(_jailname)s\])(?:.*)\]\s+Ban\s+&lt;HOST&gt;\s*$
+</code></pre>
+
+<p>Far to the right, it uses <code>HOST</code> and that only matches a single IP number. If you examine the regular expression generated and scroll over far enough to the right, you&rsquo;ll see the named groups <code>&lt;ip4&gt;</code> and <code>&lt;ip6&gt;</code>.</p>
+
+<pre><code># fail2ban-client get recidive failregex
+The following regular expression are defined:
+`- [0]: ^(?:\[\])?\s*(?:&lt;[^.]+\.[^.]+&gt;\s+)?(?:\S+\s+)?(?:kernel:\s?\[ *\d+\.\d+\]:?\s+)?(?:@vserver_\S+\s+)?(?:(?:(?:\[\d+\])?:\s+[\[\(]?(?:fail2ban(?:-server|\.actions)\s*)(?:\(\S+\))?[\]\)]?:?|[\[\(]?(?:fail2ban(?:-server|\.actions)\s*)(?:\(\S+\))?[\]\)]?:?(?:\[\d+\])?:?)\s+)?(?:\[ID \d+ \S+\]\s+)?(?:\s*fail2ban\.actions\s*(?:\[\d+\])?:\s+)?NOTICE\s+\[(?!recidive\])(?:.*)\]\s+Ban\s+(?:\[?(?:(?:::f{4,6}:)?(?P&lt;ip4&gt;(?:\d{1,3}\.){3}\d{1,3})|(?P&lt;ip6&gt;(?:[0-9a-fA-F]{1,4}::?|::){1,7}(?:[0-9a-fA-F]{1,4}|(?&lt;=:):)))\]?|(?P&lt;dns&gt;[\w\-.^_]*\w))\s*$
+</code></pre>
+
+<p>I decided to create an additional jail.</p>
+
+<p>In my own <code>/etc/fail2ban/jail.d/alex.conf</code> I added a second jail:</p>
+
+<pre><code>[butlerian-jihad]
+enabled = true
+bantime = 1h
+
+[butlerian-jihad-week]
+logpath = /var/log/fail2ban.log
+enabled = true
+findtime = 1d
+bantime = 1w
+maxretry = 5
+</code></pre>
+
+<p>The first one uses the filter <code>/etc/fail2ban/filter.d/butlerian-jihad.conf</code> which remains empty. Remember, entries are added to this jail via a cron job discussed in an <a href="2025-06-16-ban-asn">earlier post</a>.</p>
+
+<pre><code>[Definition]
+</code></pre>
+
+<p>The second one uses a new filter <code>/etc/fail2ban/filter.d/butlerian-jihad-week.conf</code> defining the date pattern and the regular expression to detect &ldquo;failures&rdquo; (i.e. a hit).</p>
+
+<pre><code>[Init]
+# 2025-06-29 01:17:08,887 fail2ban.actions [543]: NOTICE  [butlerian-jihad] Ban 1.12.0.0/14
+datepattern = ^%%Y-%%m-%%d %%H:%%M:%%S
+
+[Definition]
+failregex = NOTICE\s+\[butlerian-jihad\] Ban &lt;SUBNET&gt;
+</code></pre>
+
+<p>The important part is that this uses <code>&lt;SUBNET&gt;</code> instead of <code>&lt;HOST&gt;</code>. If you scroll over to the right, you&rsquo;ll find a new <code>&lt;cidr&gt;</code> group:</p>
+
+<pre><code># fail2ban-client get butlerian-jihad-week failregex
+The following regular expression are defined:
+`- [0]: NOTICE\s+\[butlerian-jihad\] Ban \[?(?:(?:::f{4,6}:)?(?P&lt;ip4&gt;(?:\d{1,3}\.){3}\d{1,3})|(?P&lt;ip6&gt;(?:[0-9a-fA-F]{1,4}::?|::){1,7}(?:[0-9a-fA-F]{1,4}|(?&lt;=:):)))(?:/(?P&lt;cidr&gt;\d+))?\]?
+</code></pre>
+
+<p>And it seems to be working.</p>
+
+<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-1.jpg" alt="The Munin graph shows how the butlerian-jihad-week jail immediately jumps to 3000 members" /></p>
+
+<p>I had to restart this particular jail a few times. Using <code>--unban</code> makes sense because those deserving of a new ban will be discovered immediately as the <code>findtime</code> was set to one day up above.</p>
+
+<pre><code>fail2ban-client restart --unban butlerian-jihad-week
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23fail2ban">#fail2ban</a></p>
+
+<p><strong>2025-07-05</strong>. Two days later.</p>
+
+<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-2.jpg" alt="" /></p>
+
+<p><strong>2025-07-06</strong>. Hm. I made a change to Emacs Wiki search, hoping to get rid of the DuckDuckGo dependency:</p>
+
+<ul>
+<li>I made the page title match much more prominent</li>
+<li>I switched the search from GET to POST</li>
+<li>I count the search via GET as a bot (since it&rsquo;s no longer doable via the user interface)</li>
+<li>I reinstated the old full-text search (essentially a grep within Perl)</li>
+</ul>
+
+<p>I was hoping that it would have very little effect.
+At about the same time, however, load started creeping up.
+The question is whether this is caused by so many search requests or not.
+There aren&rsquo;t many search requests in the logs, and the process monitors don&rsquo;t show unusually activity for the Emacs Wiki processes. Therefore, I think the answer is that the problem lies elsewhere.
+But where?</p>
+
+<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-3.jpg" alt="Somewhere around the 3rd of July load minimum seems to raise up from 0.5 to 1.0" /></p>
+
+<p>This virtual server has two cores so load should remain below 2.0, ideally.</p>
+
+<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-4.jpg" alt="Somewhere around the 3rd of July the number of hosts banned for a week goes up from 2000 to more than 7000" /></p>
+
+<p>Is it the processing of all the bans? I don&rsquo;t think so, since the firewall had many thousands of banned networks before.</p>
+
+<p>Is it the extra cron jobs monitoring the logs? I don&rsquo;t think so because there&rsquo;s no 15min or 20min periodicity to see.</p>
+
+<p>And note how load does come back down to 0.5 for a very short moment around midnight from the 4th to the 5th and in the early morning hours of the 6th.</p>
+
+<p>How strange.</p>
+
+<p><strong>2025-07-07</strong>. Maybe just a fluke. I mean, if these defences actually worked the way I&rsquo;d want them to, then an actual attack would feel like a fluke, right? 😄</p>
+
+<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-5.jpg" alt="The load graph shows that the current value is 0.5 although the average is still 1.6." /></p>
+
+<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-6.jpg" alt="Also of note: The number of banned-for-a-week IP numbers and networks is up to 7900." /></p>
+
+<p><strong>2025-07-08</strong>. And just now I found out the hard way that things weren&rsquo;t working as well as they ought to.</p>
+
+<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-7.jpg" alt="Around 18:00 Munin just stops working." />
+<img loading="lazy" src="2025-07-03-fail2ban-some-more-8.jpg" alt="Load was over 140 when I checked in." /></p>
+
+<p>I had over 80 processes attempting to serve Community Wiki requests.</p>
+
+<p>In the last two hours, I had 6629 requests and 3939 of them were for dynamically generated Recent Changes and RSS feeds.</p>
+
+<p>For example:</p>
+
+<pre><code># 2h-access-log ^community | egrep 'action=(rss|rc)' | log-request | head
+/wiki?action=rss&amp;all=0&amp;days=3&amp;full=1&amp;rcfilteronly=%22WebDavVsFtp%22&amp;showedit=1
+/wiki?action=rc&amp;all=1&amp;from=1749381715&amp;rcidonly=SoftwareBazzar&amp;showedit=1&amp;upto=1750591315
+/wiki?action=rc&amp;all=0&amp;days=28&amp;rcfilteronly=%22Chalks%22&amp;showedit=1
+/wiki?action=rc&amp;all=1&amp;days=1&amp;rcidonly=2003-10-25&amp;showedit=1
+/wiki?action=rc&amp;all=1&amp;days=1&amp;rcidonly=DatabaseAdministrator&amp;showedit=0
+/wiki?action=rss&amp;all=0&amp;days=21&amp;diff=1&amp;full=1&amp;rcidonly=RecentChangesBookmarklet&amp;showedit=1
+/wiki?action=rss&amp;all=0&amp;days=1&amp;full=1&amp;rcidonly=HeatherJames&amp;showedit=1
+/wiki?action=rss&amp;all=1&amp;days=21&amp;diff=1&amp;full=1&amp;rcidonly=WebDavServer&amp;showedit=1
+/wiki?action=rc&amp;all=0&amp;from=1749653709&amp;rcidonly=UIJWCzCwxpaKVV&amp;showedit=1
+/wiki?action=rc&amp;all=0&amp;days=14&amp;rcidonly=TranslationProject&amp;showedit=1
+</code></pre>
+
+<p>Once I had confirmed that the victim was <code>/home/alex/communitywiki2.pl</code>, I killed them all:</p>
+
+<pre><code>for pid in (ps aux|grep communitywiki2|awk '{print $2}'); echo $pid; kill -9 $pid; end
+</code></pre>
+
+<p>Also stopped respawns:</p>
+
+<pre><code>monit stop communitywiki
+</code></pre>
+
+<p>All right, time to launch some scripts.</p>
+
+<p>1180 new entries, banned!</p>
+
+<p>Another 553 banned.</p>
+
+<p>And 1305 more.</p>
+
+<p>Hm, strange. 🤔 Why aren&rsquo;t they all banned in one go? Ah! I think I see: <code>asncounter</code> only prints the top 10 autonomous systems by default!</p>
+
+<p>So I&rsquo;m going to add a new line to my <code>/etc/cron.d/butlerian-jihad</code>, all on one line, with appropriate time expressions, excluding my own IP numbers, just in case, and so on. You know the drill.</p>
+
+<pre><code># watch other expensive end-points
+/root/bin/2h-access-log !^social \
+| egrep 'action=(rss|rc)\&amp;' \
+| awk '{print $2}' \
+| /root/bin/asncounter --no-prefixes --top 50 2&gt;/dev/null \
+| awk '/^[0-9]/ &amp;&amp; $1&gt;30 { print $3 }' \
+| ifne xargs /root/bin/asn-networks \
+| ifne xargs fail2ban-client set butlerian-jihad banip &gt; /dev/null
+</code></pre>
+
+<p>Now if only Munin would start graphing again.
+Looking at <code>/var/log/munin/munin-update.log</code> I guess I need to <code>rm /var/run/munin/munin-update.lock</code>. Let&rsquo;s see if that helps. 😄</p>
+
+<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-9.jpg" alt="Nearly 3000 entries added to the short-term butlerian-jihad jail (1 hour ban)." /></p>
+
+<p>Sadly, load started climbing again. 40. 50. In total, 44 processes were trying to serve Community Wiki.</p>
+
+<p>The banning by autonomous system doesn&rsquo;t seem all that efficient any more. Looking at the last 20 suspicious entries for Community Wiki and seeing that each one is from a different autonomous system.</p>
+
+<pre><code># 2h-access-log ^community \
+| egrep '\baction=(rss|rc)\&amp;|\bsearch=' \
+| tail -n 20 \
+| awk '{print $2}' \
+| /root/bin/asncounter --no-prefixes --top 20 2&gt;/dev/null
+count	percent	ASN	AS
+1	5.0	139604	ARROWNET-AS-AP Arrow Net, BD
+1	5.0	270878	SPEEDNET FIBRA, BR
+1	5.0	22646	HARCOM1, US
+1	5.0	22773	ASN-CXA-ALL-CCI-22773-RDC, US
+1	5.0	28669	America-NET Ltda., BR
+1	5.0	198589	JT-AS, IQ
+1	5.0	18881	TELEFONICA BRASIL S.A, BR
+1	5.0	43766	MTC-KSA-AS, SA
+1	5.0	35753	ITC ITC AS number, SA
+1	5.0	212238	CDNEXT, GB
+1	5.0	152637	COMILLA4-AS-AP Comilla Cable TV Online, BD
+1	5.0	27924	AMPLIA COMMUNICATIONS LTD., TT
+1	5.0	56465	THERECOMLTD, UA
+1	5.0	5089	NTL, GB
+1	5.0	53006	ALGAR TELECOM SA, BR
+1	5.0	264932	STAYNET SERVICOS DE INTERNET LTDA, BR
+1	5.0	262700	VERO S.A, BR
+1	5.0	62240	CLOUVIDER Clouvider - Global ASN, GB
+1	5.0	7552	VIETEL-AS-AP Viettel Group, VN
+1	5.0	19635	SANDHILL-AS, US
+total: 20
+</code></pre>
+
+<p>I&rsquo;ve decided to lower the limit from 30 down to 10 expensive requests per ASN! 🫣</p>
+
+<p>And with that, 6922 networks are now banned.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-07-03-fail2ban-some-more>
 
 ---
 
@@ -54,6 +397,737 @@ date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/07/0047099-how-four-masters-michelan>
+
+---
+
+## 2025-06-16 Ban autonomous systems
+
+date: 2025-07-08, from: Alex Schroeder's Blog
+
+<h1 id="2025-06-16-ban-autonomous-systems">2025-06-16 Ban autonomous systems</h1>
+
+<p>More people have been working on blocking whole ranges of IP numbers, since that catches hosting providers that give bots access to the whole range they control. The bots switch IP numbers all the time so a filter based on IP numbers won&rsquo;t catch them. But if we can determine their autonomous system number (ASN), we can not only block an IP number range, we can block all the IP number rangers the ASN controls.</p>
+
+<p>Now, since these hosting providers also host nice things like other fediverse instances, I don&rsquo;t want to block them forever. I want to block them for 10min, and if they continue after a few of these shorter blocks, I want to block them for a week. Hopefully, their clients have ended their Internet slurping and things are back to normal. This is how fail2ban works, but only for individual IP numbers.</p>
+
+<p>I want code that bridges this gap.</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23fail2ban">#fail2ban</a></p>
+
+<h2 id="where-to-start">Where to start</h2>
+
+<p><a href="github.com/WKnak/fail2ban-bloc">fail2ban-bloc</a> tries to guess (!) IP ranges and bans those using fail2ban. I need to investigate more.</p>
+
+<p>I&rsquo;m still fascinated by <a href="https://anarc.at/blog/2025-05-30-asncounter/">asncounter</a>. It might even work without logfiles, using <code>tcpdump</code>! For now, it generates an interesting Top 10 list. What&rsquo;s interesting about it is that it doesn&rsquo;t require me to query an external service and leak IP numbers.</p>
+
+<p>I used to have the following fish function, for example:</p>
+
+<pre><code>function asn
+    for ip in $argv
+        dig +short (string split '.' $ip|tac -|string join '.').origin.asn.cymru.com. TXT
+    end
+end
+</code></pre>
+
+<p>What I don&rsquo;t want to do is write another tool like <a href="/admin/network-lookup-lean">network-lookup-lean</a> which uses <code>asn.routeviews.org</code> for the same purposes, caches results, and so on. I want to get rid of this live lookup.</p>
+
+<h2 id="working-with-asncounter">Working with <code>asncounter</code></h2>
+
+<p>Here&rsquo;s me looking at the last Apache log file, excluding my fedi instance:</p>
+
+<pre><code>awk '!/^social/ {print $2}' /var/log/apache2/access.log | asncounter --no-prefixes
+INFO: using datfile ipasn_20250616.1200.dat.gz
+INFO: collecting addresses from &lt;stdin&gt;
+INFO: loading datfile /root/.cache/pyasn/ipasn_20250616.1200.dat.gz...
+INFO: finished reading data
+INFO: loading /root/.cache/pyasn/asnames.json
+count	percent	ASN	AS
+9264	9.49	29691	NINE, CH
+6776	6.94	45899	VNPT-AS-VN VNPT Corp, VN
+4207	4.31	7922	COMCAST-7922, US
+3728	3.82	7018	ATT-INTERNET4, US
+2193	2.25	24940	HETZNER-AS, DE
+2015	2.06	13030	INIT7, CH
+1802	1.85	396982	GOOGLE-CLOUD-PLATFORM, US
+1470	1.51	701	UUNET, US
+1364	1.4	136907	HWCLOUDS-AS-AP HUAWEI CLOUDS, HK
+1257	1.29	32934	FACEBOOK, US
+total: 97657
+</code></pre>
+
+<p>INIT7 is my Internet service provider at home and NINE is my hosting provider for the server. Better not ban those! 😅</p>
+
+<p>So what is VNPT-AS-VN VNPT Corp doing? This could use better tool support!</p>
+
+<pre><code>grep '2001:ee0:4f' /var/log/apache2/access.log | awk '{print $8}' | sort | uniq -c | head
+      2 /c2-search?url=http%3A%2F%2Fwiki.c2.com%2F%3Fsearch%3D%22OpenSourceSecondLife%22
+      1 /cgi-bin/wiki.pl?ErcReplace
+      1 /cw-fr/BarneySock
+      1 /edit/2011-06-16_Session_Reports_Are_Read_Just_Once,_If_At_All
+      1 /edit/2019-03-15_Dungeon_Master%E2%80%99s_Handbook
+      1 /emacs/AcrobatReader
+      1 /emacs?action=admin;id=AssociationList
+      1 /emacs?action=admin&amp;id=Comments_on_AdamShand
+      1 /emacs?action=admin&amp;id=Comments_on_Categor%C3%ADaRegi%C3%B3n
+      1 /emacs?action=admin&amp;id=Comments_on_nickat
+</code></pre>
+
+<p>OK, this is bots. Useless random URLs.</p>
+
+<h2 id="ban-all-the-networks-managed-by-an-asn">Ban all the networks managed by an ASN</h2>
+
+<p>I&rsquo;m going to use <code>ipset</code> to use two lists, <code>banlist</code> and <code>banlist6</code>.
+I use these two for <a href="/admin/ban-cidr">ban-cidr</a>, too.</p>
+
+<pre><code># Use hash:net because of the CIDR stuff
+ipset create banlist hash:net
+iptables -I INPUT -m set --match-set banlist src -j DROP
+iptables -I FORWARD -m set --match-set banlist src -j DROP
+
+ipset create banlist6 hash:net family inet6
+ip6tables -I INPUT -m set --match-set banlist6 src -j DROP
+ip6tables -I FORWARD -m set --match-set banlist6 src -j DROP
+</code></pre>
+
+<p>To ban all the IP ranges an ASN manages, I created the following little fish function using <code>ip.guide</code>:</p>
+
+<pre><code>function asn-ban
+    for asn in $argv
+        for cidr in (curl -sL &quot;https://ip.guide/as$asn&quot; | jq --raw-output '.routes.v4[]')
+            echo ipset add banlist $cidr
+        end
+        for cidr in (curl -sL &quot;https://ip.guide/as$asn&quot; | jq --raw-output '.routes.v6[]')
+            echo ipset add banlist6 $cidr
+        end
+    end
+end
+</code></pre>
+
+<p>Let&rsquo;s try it with the ASN 45899!</p>
+
+<pre><code>asn-ban 45899 | sh
+netfilter-persistent save
+</code></pre>
+
+<p>For more about <code>netfilter-persistent save</code> see the comments on <a href="2025-01-23-bots-devouring-the-web">2025-01-23 The bots are at it again</a>.</p>
+
+<p>When I ran the <code>asn-ban</code> command above, I noticed that I got a single &ldquo;it&rsquo;s already added&rdquo; response.
+Before adding the same numbers to my shell script, therefore:</p>
+
+<pre><code>for cidr in (asn-ban 45899|awk '{print $4}'); if grep -q $cidr bin/admin/ban-cidr; echo $cidr; end; end
+</code></pre>
+
+<p>That told me I had to remove <code>14.187.96.0/20</code> from my script. Once this is done:</p>
+
+<pre><code>echo (echo &quot;#&quot;; date --iso)  &gt;&gt; bin/admin/ban-cidr
+asn-ban 45899 &gt;&gt; bin/admin/ban-cidr 
+</code></pre>
+
+<p>I really need to figure out how to manage this smartly. And I need to figure out a way to unban the whole list!</p>
+
+<h2 id="integration-with-fail2ban">Integration with <code>fail2ban</code></h2>
+
+<p>Let&rsquo;s start with <code>fail2ban</code>. I need a jail! Every jail needs a filter!</p>
+
+<p>In <code>/etc/fail2ban/jail.d/alex.conf</code> (this is where I maintain all my jails) I added:</p>
+
+<pre><code>[butlerian-jihad]
+enabled = true
+bantime = 1d
+</code></pre>
+
+<p>Note that this jail doesn&rsquo;t define log paths. I hope that works as intended.</p>
+
+<p>I created a matching filter with no definition in <code>/etc/fail2ban/filter.d/butlerian-jihad.conf</code>:</p>
+
+<pre><code># Author: Alex Schroeder &lt;alex@gnu.org&gt;
+[Definition]
+</code></pre>
+
+<p>Reload it all, and check:</p>
+
+<pre><code>fail2ban-client reload
+OK
+fail2ban-client status
+Status
+|- Number of jail:	6
+`- Jail list:	alex-apache, alex-bots, butlerian-jihad, ngircd, recidive, sshd
+</code></pre>
+
+<p>Nice! So now I have a new jail.</p>
+
+<h2 id="undo-the-banlist">Undo the banlist</h2>
+
+<pre><code>asn-ban 45899 | sed 's/ipset add/ipset del/' | sh
+</code></pre>
+
+<p>I also manually edited my <a href="/admin/ban-cidr">ban-cidr</a> file to remove the lines I added above. Let&rsquo;s have fail2ban handle this!</p>
+
+<h2 id="switch-from-ipset-to-fail2ban-client">Switch from <code>ipset</code> to <code>fail2ban-client</code></h2>
+
+<pre><code>function asn-ban
+    for asn in $argv
+        set --local cidr (curl -sL &quot;https://ip.guide/as$asn&quot; | jq --raw-output '.routes.v4[],.routes.v6[]')
+        echo fail2ban-client set butlerian-jihad banip $cidr
+    end
+end
+</code></pre>
+
+<p>Examine it:</p>
+
+<pre><code>asn-ban 45899 | less
+</code></pre>
+
+<p>Run it:</p>
+
+<pre><code>asn-ban 45899 | sh
+3640
+</code></pre>
+
+<p>If you messed up, clear the jail:</p>
+
+<pre><code>fail2ban-client reload --unban butlerian-jihad
+</code></pre>
+
+<p>Check the jail:</p>
+
+<pre><code>fail2ban-client get butlerian-jihad banned
+</code></pre>
+
+<p>Count the entries in the jail:</p>
+
+<pre><code>fail2ban-client get butlerian-jihad banned | sed 's/\'/&quot;/g' | jq length
+3640
+</code></pre>
+
+<h2 id="what-do-we-have">What do we have?</h2>
+
+<p>With <code>asncounter</code> we have a tool to quickly discover if an ASN is providing services to a bot.</p>
+
+<p>With <code>asn-ban</code> we have a tool to quickly add all the IP networks the ASN is managing to a jail for <code>fail2ban</code>.</p>
+
+<p>The jail which we called <code>butlerian-jihad</code> bans the IP networks for a day.</p>
+
+<h2 id="what-s-left-to-do">What&rsquo;s left to do?</h2>
+
+<p>I should check whether this actually works! Let&rsquo;s see whether the ban gets lifted after 24h. That&rsquo;s the main point of this exercise!</p>
+
+<p><code>asn-ban</code> uses the <code>ip.guide</code> site for the data. This should be rewritten such that it uses the same data as <code>asncounter</code>.
+I guess that would be <a href="https://github.com/hadiasghari/pyasn">pyasn</a>.
+See below!</p>
+
+<p>I need a cron job that runs every 10 minutes, takes the last ten minutes worth of Apache access log files, ignores the fedi subdomain, identifies all the ASNs, ignores my own ASNs and bans the rest.</p>
+
+<h2 id="some-bans">Some bans</h2>
+
+<p>Wow, some of the autonomous systems are big.
+These are the ones I banned yesterday and today:</p>
+
+<pre><code># AMAZON-02, US (18772!)
+asn-ban 16509|sh
+# VNPT-AS-VN VNPT Corp, VN (3640!)
+asn-ban 45899 | sh
+# TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN (2278!)
+asn-ban 45090|sh
+# ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN (852!)
+asn-ban 45102 | sh
+# FACEBOOK, US (541!)
+asn-ban 32934|sh
+# SEMRUSH-AS, CY (5!)
+asn-ban 209366|sh
+</code></pre>
+
+<h2 id="using-pyasn-data-files-from-the-command-line">Using <code>pyasn</code> data files from the command-line</h2>
+
+<p>How to determine the name of an autonomous system number:</p>
+
+<pre><code>jq --raw-output '.[&quot;32934&quot;]' .cache/pyasn/asnames.json
+FACEBOOK, US
+</code></pre>
+
+<p>How to determine the networks for an ASN:</p>
+
+<pre><code>zgrep '209366$' .cache/pyasn/ipasn_20250616.1200.dat.gz | awk '{print $1}'
+85.208.96.0/24
+85.208.97.0/24
+85.208.99.0/24
+185.170.167.0/24
+185.191.171.0/24
+</code></pre>
+
+<p>How to determine the ASN of a CIDR:</p>
+
+<pre><code>zgrep '^85\.208\.96\.0/24' .cache/pyasn/ipasn_20250616.1200.dat.gz | awk '{print $2}'
+209366
+</code></pre>
+
+<h2 id="asn-networks-without-an-external-service">ASN networks without an external service</h2>
+
+<p><a href="/admin/asn-networks">asn-networks</a> is a tiny script with a bunch of lines taken from <code>asncounter</code> to print the IP ranges managed by one or more autonomous systems.</p>
+
+<pre><code>python3 asn-ban 209366
+185.170.167.0/24
+185.191.171.0/24
+85.208.96.0/24
+85.208.97.0/24
+85.208.99.0/24
+</code></pre>
+
+<p>It uses the <code>pyasn</code> datafiles that a regular run of <code>asncounter</code> has downloaded.
+That is to say, <code>asn-networks</code> does not download or refresh these files.
+I&rsquo;m assuming that you have run <code>asncounter</code> just moments earlier.</p>
+
+<p>Given this script, we can now call <code>fail2ban-client</code> as follows (I use fish) to ban all the networks:</p>
+
+<pre><code>fail2ban-client set butlerian-jihad banip (asn-networks 209366)
+5
+</code></pre>
+
+<p>Unbanning works the same way:</p>
+
+<pre><code>fail2ban-client set butlerian-jihad unbanip (asn-networks 209366)
+5
+</code></pre>
+
+<p>Remember that <code>fail2ban-client</code> prints the number of IP numbers or ranges added or removed.</p>
+
+<h2 id="identifying-suspicious-asn">Identifying suspicious ASN</h2>
+
+<p>What is suspicious activity? How about this: In a 2h window, no ASN should send more than 1000 requests? So we need a script that filters the log files and prints a 2h window, skipping the lines we want to ignore: <a href="/admin/2h-access-log">2h-access-log</a>. Then pass the IP numbers to <code>asncounter</code>, throw away all the things we don&rsquo;t care about and just print the appropriate lines:</p>
+
+<pre><code>bin/2h-access-log !^social \
+| awk '{print $2}' \
+| bin/asncounter --no-prefixes 2&gt;/dev/null \
+| awk '/^[0-9]/ &amp;&amp; $1&gt;1000  { print }'
+3062	31.93	24940	HETZNER-AS, DE
+1642	17.12	16276	OVH, FR
+</code></pre>
+
+<p>So do I dare ban those numbers?? I&rsquo;m not sure!
+I should figure out a way to find those 3062 requests made by services hosted on Hetzner.</p>
+
+<p><a href="/admin/asn-access-log">asn-access-log</a> does just that. You pass it an ASN, it determines all the networks it manages and then it filters standard input, assuming that it consists of Apache access log lines (what counts is that the second field is an IP number).</p>
+
+<pre><code>bin/2h-access-log !^social | bin/asn-access-log 24940
+</code></pre>
+
+<p>I see a lot of RSS services (NewsBlur, fiperbot, MyNewspaper Agent, FreshRSS), git, some bot (from the 159.69.0.0/16 range, for example), and on and on. Ugh. It&rsquo;s not easy to know what to do!</p>
+
+<p>I think the best answer would be to lower the stakes but also ban for shorter amounts of time and let <code>fail2ban</code> handle the rest. The only thing I need to consider is whether I find the current amount of resources spent OK. Do I? Let&rsquo;s look at the latest numbers.</p>
+
+<p>This here shows that fedi traffic is 60% Hetzner and OVH. This makes it hard for me to block these autonomous systems.</p>
+
+<pre><code>bin/2h-access-log ^social !178.209.50.237 \
+| awk '{print $2}' \
+| bin/asncounter --no-prefixes
+INFO: using datfile ipasn_20250616.1200.dat.gz
+INFO: collecting addresses from &lt;stdin&gt;
+INFO: loading datfile /root/.cache/pyasn/ipasn_20250616.1200.dat.gz...
+INFO: finished reading data
+INFO: loading /root/.cache/pyasn/asnames.json
+count	percent	ASN	AS
+2148	45.36	24940	HETZNER-AS, DE
+738	15.59	16276	OVH, FR
+273	5.77	14061	DIGITALOCEAN-ASN, US
+202	4.27	14361	HOPONE-GLOBAL, US
+195	4.12	15796	SALT-, CH
+105	2.22	214640	HOSTUP HOSTUP, SE
+102	2.15	63949	AKAMAI-LINODE-AP Akamai Connected Cloud, SG
+62	1.31	47692	NESSUS, AT
+59	1.25	197540	NETCUP-AS netcup GmbH, DE
+50	1.06	44684	MYTHIC Mythic Beasts Ltd, GB
+total: 4735
+</code></pre>
+
+<p>What&rsquo;s the situation without fedi traffic, keeping in mind that I will most likely not be able to block fedi hosters?</p>
+
+<pre><code>bin/2h-access-log !^social !178.209.50.237 \
+| awk '{print $2}' \
+| bin/asncounter --no-prefixes
+INFO: using datfile ipasn_20250616.1200.dat.gz
+INFO: collecting addresses from &lt;stdin&gt;
+INFO: loading datfile /root/.cache/pyasn/ipasn_20250616.1200.dat.gz...
+INFO: finished reading data
+INFO: loading /root/.cache/pyasn/asnames.json
+count	percent	ASN	AS
+249	5.47	7922	COMCAST-7922, US
+189	4.16	9808	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
+129	2.84	7018	ATT-INTERNET4, US
+122	2.68	396982	GOOGLE-CLOUD-PLATFORM, US
+118	2.59	24940	HETZNER-AS, DE
+96	2.11	55836	RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
+96	2.11	56046	CMNET-JIANGSU-AP China Mobile communications corporation, CN
+75	1.65	140061	CHINANET-QINGHAI-AS-AP Qinghai Telecom, CN
+73	1.61	4837	CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
+70	1.54	701	UUNET, US
+total: 4548
+</code></pre>
+
+<p>The autonomous systems that show up in the second list but not in the first list are my prime candidates, like COMCAST and CHINAMOBILE-CN.</p>
+
+<p>So how about going after the autonomous systems on the second list that produce more than 1000 hits in a 2h period.</p>
+
+<p>Something like this? I&rsquo;m going to but this into <code>/etc/cron.daily/butlerian-jihad</code></p>
+
+<pre><code>#!/bin/sh
+bin/2h-access-log !^social !178.209.50.237 \
+| awk '{print $2}' \
+| bin/asncounter --no-prefixes 2&gt;/dev/null \
+| awk '/^[0-9]/ &amp;&amp; $1&gt;1000 { print $3 }' \
+| ifne xargs bin/asn-networks \
+| ifne xargs echo fail2ban-client set butlerian-jihad banip
+</code></pre>
+
+<p>I use <code>ifne</code> to prevent the execution of the command if there is no input.
+Thanks, <a class="account" href="https://tilde.zone/@acdw" title="@acdw@tilde.zone">@acdw</a>!</p>
+
+<h2 id="summary">Summary</h2>
+
+<p><code>/etc/cron.daily/butlerian-jihad</code> runs every hour and checks if there have been any abusive autonomous systems in the last two hours. If so, they are banned. Note how I&rsquo;ve added my home IPv4 and IPv6 because I use my site a lot. 😅</p>
+
+<pre><code>#!/bin/sh
+bin/2h-access-log !^social !178.209.50.237 !MY-HOME-IPV4 !MY-HOME-IPV6 \
+| awk '{print $2}' \
+| bin/asncounter --no-prefixes 2&gt;/dev/null \
+| awk '/^[0-9]/ &amp;&amp; $1&gt;1000 { print $3 }' \
+| ifne xargs bin/asn-networks \
+| ifne xargs fail2ban-client set butlerian-jihad banip \
+&gt; /dev/null
+</code></pre>
+
+<p>This drops the output (the number of new bans) because otherwise the cron job mails that number to me.</p>
+
+<p><a href="/admin/2h-access-log">2h-access-log</a> prints the last two hours worth of log lines from <code>/var/log/apache2/access.log</code> (and <code>access.log.1</code> if necessary).</p>
+
+<p>The <code>!^social</code> argument ensures that connecting to my fedi server doesn&rsquo;t trigger the ban hammer.</p>
+
+<p>The <code>!178.209.50.237</code> argument ensures that I don&rsquo;t ban the server itself as it monitors stuff and as I test things on the server. I also had to add my home IP numbers!</p>
+
+<p><a href="https://gitlab.com/anarcat/asncounter/">asncounter</a> finds the autonomous system numbers for all the IP numbers in the web server log file and prints a report.</p>
+
+<p><a href="/admin/asn-networks">asn-networks</a> then turns the selected autonomous system numbers and returns the IP ranges they manage.</p>
+
+<p>These are then banned by <code>fail2ban-client</code> using the <code>butlerian-jihad</code> jail.</p>
+
+<p>The <code>butlerian-jihad</code> jail is mentioned in enabled via a config file in <code>/etc/fail2ban/jail.d/</code>. In my case, the file is called <code>alex.conf</code> and for this jail, it says:</p>
+
+<pre><code>[butlerian-jihad]
+enabled = true
+bantime = 1h
+</code></pre>
+
+<p>The jail also needs a filter definition even though no filtering happens as no logfile is checked.
+My <code>/etc/fail2ban/filter.d/butlerian-jihad.conf</code> contains just this:</p>
+
+<pre><code># Author: Alex Schroeder &lt;alex@gnu.org&gt;
+[Definition]
+</code></pre>
+
+<p>What this means is that every hour, an autonomous system unit can get banned for generating more than 500 hits in 2h.
+If they are banned, they are banned for 1h.
+If they are banned for activity in the last hour leading up to the ban (more than 500 hits in 1h), the script will find the same log entries and ban them &ldquo;again&rdquo;. This results in no changes in the jail, since all the networks are already in the <code>butlerian-jihad</code> jail.</p>
+
+<p>The bans themselves are reported in <code>/etc/log/fail2ban.log</code>.</p>
+
+<p>I&rsquo;ve also enabled the <code>recidive</code> jail. That is, in the same file where I defined my <code>butlerian-jihad</code> jail, I have:</p>
+
+<pre><code>[recidive]
+enabled = true
+</code></pre>
+
+<p>The defaults are in <code>/etc/fail2ban/jail.conf</code>:</p>
+
+<pre><code>[recidive]
+
+logpath  = /var/log/fail2ban.log
+banaction = %(banaction_allports)s
+bantime  = 1w
+findtime = 1d
+</code></pre>
+
+<p>So if some network is banned for more than five times in a day, it is banned for a week.
+I say five times because <code>maxretry</code> is set to 5 in <code>/etc/fail2ban/jail.conf</code>.</p>
+
+<p>Let&rsquo;s assume a scraper is started from some network managed by an autonomous system. It starts using IP numbers from all its ranges. It sends 400 requests per hour, more than a human could read and more than a feed reader should need, etc.</p>
+
+<ul>
+<li>after the first hour, nothing happens, as 400 is less than the 500 needed to trigger the system</li>
+<li>after the second hour, the ASN is banned because the sum total for the last two hours is 800</li>
+<li>after the third hour, the ASN is unbanned and not banned again because it only made 400 requests in the second hour</li>
+<li>after the fourth hour, the ASN is banned again</li>
+<li>after the fifth hour, the ASN is unbanned</li>
+<li>after the sixth hour, the ASN is banned for the third time</li>
+<li>after the seventh hour, the ASN is unbanned</li>
+<li>after the eighth hour, the ASN is banned for the fourth time</li>
+<li>after the ninth hour, the ASN is unbanned</li>
+<li>after the tenth hour, the ASN is banned for the fifth time</li>
+<li>after the eleventh hour, the ASN is unbanned</li>
+<li>after the twelfth hour, the ASN is banned for the sixth time, the <code>recidive</code> filter kicks in and the networks belonging to the ASN are banned for a week</li>
+</ul>
+
+<p>This escalation takes twelve hours. The ASN was already banned for half this time.</p>
+
+<p>Assuming this repeats every week, it means that the pattern repeats every 7½ weeks and the abusive ASN still gets service on 6h out of 180h or 3% of the time. For my taste, that is still way too nice.</p>
+
+<p>Let&rsquo;s see how this goes for a while.</p>
+
+<p><strong>Note</strong>: This doesn&rsquo;t actually work, as I discovered later. See <a href="2025-07-03-fail2ban-some-more">a follow-up post</a> for how to ban repeated offenders.</p>
+
+<p>I&rsquo;m already looking forward to dropping my <code>banlist</code> and <code>banlist6</code> sets I created for <a href="/admin/ban-cidr">ban-cidr</a>.</p>
+
+<h2 id="aftermath-cleaning-up-ban-cidr">Aftermath: cleaning up <code>ban-cidr</code></h2>
+
+<blockquote>
+<p>&ldquo;If you want to partake in unsupervised banning with no feedback, no due process, just automatic ban-hammers, take a look at this script full of firewall commands.&rdquo; &ndash; <a href="2025-01-23-bots-devouring-the-web">2025-01-23 The bots are at it again</a></p>
+</blockquote>
+
+<p>Back when I first encountered the distributed AI bot attacks, I wrote <a href="2024-09-15-emacs-china">2024-09-18 Emacs Wiki and China</a> and began working on <code>ban-cidr</code>. In later posts, I just automated the work of getting from an IP number to a network range and adding that to the script. Now that I hopefully have an automatic solution where I only need to fine-tune the time-windows and the limits, it&rsquo;s time to expire all those bans. There are currently over 40,000 of these banned networks.</p>
+
+<pre><code>ipset list banlist | tail -n +9 | wc -l
+46920
+ipset list banlist6 | tail -n +9 | wc -l
+9
+</code></pre>
+
+<p>So slowly, over time, I&rsquo;m planning to remove these.</p>
+
+<pre><code>for ip in (ipset list banlist | tail -n +9 | head -n 1000); ipset del banlist $ip; end
+netfilter-persistent save
+</code></pre>
+
+<p>Let&rsquo;s see how it goes! 😂</p>
+
+<p>(Done: all of these blocks are now removed.)</p>
+
+<h2 id="petty-banning">Petty banning</h2>
+
+<p>Let&rsquo;s look at the output again:</p>
+
+<pre><code>bin/2h-access-log !^social !178.209.50.237 | awk '{print $2}' | bin/asncounter --no-prefixes
+INFO: using datfile ipasn_20250616.1200.dat.gz
+INFO: collecting addresses from &lt;stdin&gt;
+INFO: loading datfile /root/.cache/pyasn/ipasn_20250616.1200.dat.gz...
+INFO: finished reading data
+INFO: loading /root/.cache/pyasn/asnames.json
+count	percent	ASN	AS
+1041	8.44	45899	VNPT-AS-VN VNPT Corp, VN
+929	7.54	13030	INIT7, CH
+513	4.16	7922	COMCAST-7922, US
+485	3.93	24940	HETZNER-AS, DE
+351	2.85	14061	DIGITALOCEAN-ASN, US
+304	2.47	7018	ATT-INTERNET4, US
+296	2.4	16276	OVH, FR
+293	2.38	45102	ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+237	1.92	55836	RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
+218	1.77	16509	AMAZON-02, US
+total: 12327
+</code></pre>
+
+<p>What is RELIANCEJIO-IN doing?</p>
+
+<pre><code>bin/2h-access-log !^social | bin/asn-access-log 55836 | head | log-request 
+/nobots
+/emacs?action=rc&amp;from=1725473811&amp;rcidonly=acidtoyman&amp;showedit=1&amp;upto=1726683411
+/favicon.ico
+/nobots
+/emacs?action=rc&amp;all=1&amp;from=1728680271&amp;rcidonly=Comments_on_hideif.el&amp;showedit=1
+/emacs?action=rss&amp;all=1&amp;days=14&amp;full=1&amp;rcidonly=mistilteinn.el&amp;showedit=0
+/nobots
+/emacs?action=rc&amp;all=1&amp;from=1728946699&amp;rcidonly=ArneBab&amp;showedit=1&amp;upto=1729033099
+/nobots
+/emacs?action=rc&amp;all=0&amp;from=1727470564&amp;rcidonly=Comments_on_anything&amp;showedit=1
+</code></pre>
+
+<p>Ugh. They need to go.</p>
+
+<p>First, create the two lists. At this level we need two different lists for IPv4 and IPv6.</p>
+
+<pre><code>ipset create banlist hash:net
+iptables -I INPUT -m set --match-set banlist src -j DROP
+iptables -I FORWARD -m set --match-set banlist src -j DROP
+
+ipset create banlist6 hash:net family inet6
+ip6tables -I INPUT -m set --match-set banlist6 src -j DROP
+ip6tables -I FORWARD -m set --match-set banlist6 src -j DROP
+</code></pre>
+
+<p>Then define a new version of <code>asn-ban</code>:</p>
+
+<pre><code>function asn-ban
+    set --local data (asn-networks --json $argv)
+    for asn in $argv
+        for ip in (echo $data | jq --raw-output &quot;.[\&quot;$asn\&quot;].v4[]&quot;)
+            echo ipset add banlist $ip
+        end
+        for ip in (echo $data | jq --raw-output &quot;.[\&quot;$asn\&quot;].v6[]&quot;)
+            echo ipset add banlist6 $ip
+        end
+    end
+end
+</code></pre>
+
+<p>This uses the <code>--json</code> option for <a href="/admin/asn-networks">asn-networks</a> so that we only need to call it once and yet we get two lists: one for <code>banlist</code> and one for <code>banlist6</code>.</p>
+
+<p>To ban the offending ASN:</p>
+
+<pre><code>asn-ban 55836|sh
+</code></pre>
+
+<p>Before I do that, however, I want to finish clearing the existing lists.</p>
+
+<p>The reason I call this petty banning is because I&rsquo;m starting to ban autonomous systems even though their bots are &ldquo;well behaved&rdquo; in as much as they don&rsquo;t exceed the thresholds I defined. And yet they seem to be part of that great parade to honour the CO₂ god, the computation of useless shit.</p>
+
+<p><strong>2025-06-20</strong>. I&rsquo;m thinking about alternatives but I think that&rsquo;s not worth it.
+For example: Perhaps it&rsquo;s important to look at relative distribution?</p>
+
+<pre><code>site-log transjovian | log-ip | asncounter --no-prefixes --top 3 2&gt;/dev/null
+count	percent	ASN	AS
+7	36.84	132203	TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
+3	15.79	216071	VDSINA, AE
+3	15.79	396982	GOOGLE-CLOUD-PLATFORM, US
+total: 19
+</code></pre>
+
+<p>At first I thought, more than a third of all requests for Tencent? I must block them.
+But then I saw that it was just 7 requests in 2h. Not worth it.</p>
+
+<p>Here I saw that there were more requests, and an 80% share!</p>
+
+<pre><code>site-log orientalisch | log-ip | asncounter --no-prefixes --top 3 2&gt;/dev/null
+count	percent	ASN	AS
+172	81.52	45102	ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+20	9.48	396982	GOOGLE-CLOUD-PLATFORM, US
+10	4.74	132203	TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN
+total: 211
+</code></pre>
+
+<p>But when you look at it, Alibaba is just fetching <code>robots.txt</code> all the time.
+I don&rsquo;t know who runs this bot. It&rsquo;s clearly a waste of CO₂. And yet… not worth it.</p>
+
+<pre><code>site-log orientalisch | asn-access-log 45102 | log-request | rank-lines
+    172 /robots.txt
+</code></pre>
+
+<p>So, I don&rsquo;t know. And if I don&rsquo;t care about the relative share of requests, then I also don&rsquo;t have to count them per site.</p>
+
+<p>I already wrote a little thing to give me a regular expression for every site I host!
+But now I&rsquo;m not going to use it. I leave it here for you, dear reader. 😄</p>
+
+<pre><code>awk '/^MDomain/ {split($0, sites)
+  result = sites[2]
+  for (i = 3; i &lt;= length(sites); i++)
+    result = result &quot;|&quot; sites[i]
+  print result
+}' /etc/apache2/sites-enabled/*.conf
+</code></pre>
+
+<p>On the positive side, the current system seems to be working:</p>
+
+<pre><code>awk '/butlerian-jihad/ { print $7, $8 }' /var/log/fail2ban.log | rank-lines
+     10 Ban 45.254.32.0/22
+     10 Ban 45.124.92.0/22
+     10 Ban 43.239.220.0/23
+     10 Ban 23.48.56.0/22
+     10 Ban 23.48.52.0/22
+     10 Ban 23.32.249.0/24
+     10 Ban 221.132.32.0/21
+     10 Ban 203.210.128.0/17
+     10 Ban 203.162.0.0/16
+     10 Ban 203.160.132.0/22
+</code></pre>
+
+<p>A bunch of networks were banned 10 times! Who do the Top 100 networks belong to?
+It&rsquo;s a Vietnamese autonomous system.</p>
+
+<pre><code>awk '/butlerian-jihad/ { print $7, $8 }' /var/log/fail2ban.log \
+ | rank-lines -n 100 \
+ | awk '{split($3,parts,&quot;/&quot;); print parts[1]}' \
+ | xargs asn-find \
+ | awk '{print $2,$3}' \
+ | rank-lines
+     98 45899 VNPT-AS-VN
+      2 7643 VNPT-AS-VN
+</code></pre>
+
+<p>OK!</p>
+
+<p>(You can find all the fish functions I use in the <a href="/admin/">admin</a> directory.)</p>
+
+<p><strong>2025-07-02</strong>. I was looking at the <a href="https://campaignwiki.org/traveller">Traveller Subsector Generator</a> and trying to figure out why memory wasn&rsquo;t being freed. I wondered whether somebody else was hitting this expensive end-point.</p>
+
+<pre><code>grep &quot;^campaignwiki.org.* /traveller&quot; /var/log/apache2/access.log \
+| grep -v &quot;Monit&quot; \
+| leech-detector \
+| head -n 4
+Total hits: 125
+IP                                       |       Hits | Bandw. | Rel. | Interv. | Status
+----------------------------------------:|-----------:|-------:|-----:|--------:|-------
+                           50.32.203.123 |         32 |     7K |  25% |  552.4s | 200 (40%), 404 (31%), 302 (28%)
+</code></pre>
+
+<p>And who is that?</p>
+
+<pre><code>asn 50.32.203.123
+&quot;5650 | 50.32.128.0/17 | US | arin | 2010-09-24&quot;
+</code></pre>
+
+<p>What else are they requesting?</p>
+
+<pre><code>2h-access-log !^social | asn-access-log 5650 | log-request | rank-lines
+      4 /nobots
+      1 /emacs?action=rss&amp;all=1&amp;days=14&amp;rcidonly=EmacsListen&amp;showedit=1
+      1 /emacs?action=rss&amp;all=1&amp;days=14&amp;full=1&amp;rcidonly=imapua&amp;showedit=0
+      1 /emacs?action=rc&amp;all=1&amp;from=1728194306&amp;rcidonly=Comments_on_emacsniftytricks&amp;upto=1728799106
+      1 /emacs?action=rc&amp;all=1&amp;from=1728063015&amp;rcidonly=d-insert-import.el&amp;showedit=1
+      1 /emacs?action=rc&amp;all=1&amp;from=1726452954&amp;rcidonly=%E3%82%AA%E3%83%AB%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%89&amp;upto=1727662554
+      1 /emacs?action=rc&amp;all=1&amp;from=1725759396&amp;rcidonly=Comments_on_Registers&amp;showedit=1&amp;upto=1726968996
+      1 /cgi-bin/alex?action=rss&amp;full=1
+      1 /c2-search?url=http%3A%2F%2Fwiki.c2.com%2F%3Fsearch%3D%22TheIdeal%22
+</code></pre>
+
+<p>Clearly, bots. The Apache configuration detects some suspicious requests and redirects these to <code>/nobots</code>. My thinking is: I could use this information to extrapolate!</p>
+
+<p>Who is getting the <code>/nobots</code> results?</p>
+
+<pre><code>/root/bin/2h-access-log !^social \
+| grep &quot;GET /nobots&quot; \
+| awk '{print $2}' \
+| /root/bin/asncounter --no-prefixes 2&gt;/dev/null
+count	percent	ASN	AS
+67	4.23	7922	COMCAST-7922, US
+66	4.17	45899	VNPT-AS-VN VNPT Corp, VN
+53	3.35	7018	ATT-INTERNET4, US
+50	3.16	55836	RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
+37	2.34	28573	Claro NXT Telecomunicacoes Ltda, BR
+24	1.52	21928	T-MOBILE-AS21928, US
+23	1.45	24560	AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN
+20	1.26	20115	CHARTER-20115, US
+17	1.07	5089	NTL, GB
+17	1.07	701	UUNET, US
+total: 1584
+</code></pre>
+
+<p>So maybe that&rsquo;s the answer: More than 50 requests resulting in a <code>/nobots</code> response qualify the ASN for the <code>butlerian-jihad</code> jail!</p>
+
+<p>I have migrated <code>/etc/cron.hourly/butlerian-jihad</code> to <code>/etc/cron.d/butlerian-jigad</code> and it now has two jobs to run.</p>
+
+<pre><code>SHELL=/usr/bin/fish
+# Don't forget to replace the !IP argument with your own server or home IPs or you'll end up banning yourself.
+
+# ban very active autonomous systems
+1,16,31,46 *  * * *   root  /root/bin/2h-access-log !^social !178.209.50.237 | awk '{print $2}' | /root/bin/asncounter --no-prefixes 2&gt;/dev/null | awk '/^[0-9]/ &amp;&amp; $1&gt;500 { print $3 }' | ifne xargs /root/bin/asn-networks | ifne xargs fail2ban-client set butlerian-jihad banip &gt; /dev/null
+
+# ban autonomous systems with a lot of bots based on Apache rules
+5,20,35,50 *  * * *   root  /root/bin/2h-access-log !^social !178.209.50.237 | grep &quot;GET /nobots&quot; | awk '{print $2}' | /root/bin/asncounter --no-prefixes 2&gt;/dev/null | awk '/^[0-9]/ &amp;&amp; $1&gt;50 { print $3 }' | ifne xargs /root/bin/asn-networks | ifne xargs fail2ban-client set butlerian-jihad banip &gt; /dev/null
+</code></pre>
+
+<p>Too bad these cron jobs have to fit on a single line!</p>
+
+<p><strong>2025-07-08</strong>. Continued <a href="2025-07-03-fail2ban-some-more">here</a>.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-06-16-ban-asn>
 
 ---
 
@@ -653,120 +1727,6 @@ date: 2025-07-07, from: Alex Schroeder's Blog
 <br> 
 
 <https://alexschroeder.ch/view/2025-07-07-episode-54>
-
----
-
-## 2025-07-03 fail2ban some more
-
-date: 2025-07-07, from: Alex Schroeder's Blog
-
-<h1 id="2025-07-03-fail2ban-some-more">2025-07-03 fail2ban some more</h1>
-
-<p>This is a continuation of <a href="2025-06-16-ban-asn">2025-06-16 Ban autonomous systems</a>.</p>
-
-<p>I kept wondering why the &ldquo;recidive&rdquo; jail never found any repeated offenders from the &ldquo;butlerian-jihad&rdquo; jail. I think I know why, now. The &ldquo;recidive&rdquo; jail uses the following:</p>
-
-<pre><code>failregex = ^%(__prefix_line)s(?:\s*fail2ban\.actions\s*%(__pid_re)s?:\s+)?NOTICE\s+\[(?!%(_jailname)s\])(?:.*)\]\s+Ban\s+&lt;HOST&gt;\s*$
-</code></pre>
-
-<p>Far to the right, it uses <code>HOST</code> and that only matches a single IP number. If you examine the regular expression generated and scroll over far enough to the right, you&rsquo;ll see the named groups <code>&lt;ip4&gt;</code> and <code>&lt;ip6&gt;</code>.</p>
-
-<pre><code># fail2ban-client get recidive failregex
-The following regular expression are defined:
-`- [0]: ^(?:\[\])?\s*(?:&lt;[^.]+\.[^.]+&gt;\s+)?(?:\S+\s+)?(?:kernel:\s?\[ *\d+\.\d+\]:?\s+)?(?:@vserver_\S+\s+)?(?:(?:(?:\[\d+\])?:\s+[\[\(]?(?:fail2ban(?:-server|\.actions)\s*)(?:\(\S+\))?[\]\)]?:?|[\[\(]?(?:fail2ban(?:-server|\.actions)\s*)(?:\(\S+\))?[\]\)]?:?(?:\[\d+\])?:?)\s+)?(?:\[ID \d+ \S+\]\s+)?(?:\s*fail2ban\.actions\s*(?:\[\d+\])?:\s+)?NOTICE\s+\[(?!recidive\])(?:.*)\]\s+Ban\s+(?:\[?(?:(?:::f{4,6}:)?(?P&lt;ip4&gt;(?:\d{1,3}\.){3}\d{1,3})|(?P&lt;ip6&gt;(?:[0-9a-fA-F]{1,4}::?|::){1,7}(?:[0-9a-fA-F]{1,4}|(?&lt;=:):)))\]?|(?P&lt;dns&gt;[\w\-.^_]*\w))\s*$
-</code></pre>
-
-<p>I decided to create an additional jail.</p>
-
-<p>In my own <code>/etc/fail2ban/jail.d/alex.conf</code> I added a second jail:</p>
-
-<pre><code>[butlerian-jihad]
-enabled = true
-bantime = 1h
-
-[butlerian-jihad-week]
-logpath = /var/log/fail2ban.log
-enabled = true
-findtime = 1d
-bantime = 1w
-maxretry = 5
-</code></pre>
-
-<p>The first one uses the filter <code>/etc/fail2ban/filter.d/butlerian-jihad.conf</code> which remains empty. Remember, entries are added to this jail via a cron job discussed in an <a href="2025-06-16-ban-asn">earlier post</a>.</p>
-
-<pre><code>[Definition]
-</code></pre>
-
-<p>The second one uses a new filter <code>/etc/fail2ban/filter.d/butlerian-jihad-week.conf</code> defining the date pattern and the regular expression to detect &ldquo;failures&rdquo; (i.e. a hit).</p>
-
-<pre><code>[Init]
-# 2025-06-29 01:17:08,887 fail2ban.actions [543]: NOTICE  [butlerian-jihad] Ban 1.12.0.0/14
-datepattern = ^%%Y-%%m-%%d %%H:%%M:%%S
-
-[Definition]
-failregex = NOTICE\s+\[butlerian-jihad\] Ban &lt;SUBNET&gt;
-</code></pre>
-
-<p>The important part is that this uses <code>&lt;SUBNET&gt;</code> instead of <code>&lt;HOST&gt;</code>. If you scroll over to the right, you&rsquo;ll find a new <code>&lt;cidr&gt;</code> group:</p>
-
-<pre><code># fail2ban-client get butlerian-jihad-week failregex
-The following regular expression are defined:
-`- [0]: NOTICE\s+\[butlerian-jihad\] Ban \[?(?:(?:::f{4,6}:)?(?P&lt;ip4&gt;(?:\d{1,3}\.){3}\d{1,3})|(?P&lt;ip6&gt;(?:[0-9a-fA-F]{1,4}::?|::){1,7}(?:[0-9a-fA-F]{1,4}|(?&lt;=:):)))(?:/(?P&lt;cidr&gt;\d+))?\]?
-</code></pre>
-
-<p>And it seems to be working.</p>
-
-<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-1.jpg" alt="The Munin graph shows how the butlerian-jihad-week jail immediately jumps to 3000 members" /></p>
-
-<p>I had to restart this particular jail a few times. Using <code>--unban</code> makes sense because those deserving of a new ban will be discovered immediately as the <code>findtime</code> was set to one day up above.</p>
-
-<pre><code>fail2ban-client restart --unban butlerian-jihad-week
-</code></pre>
-
-<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23fail2ban">#fail2ban</a></p>
-
-<p><strong>2025-07-05</strong>. Two days later.</p>
-
-<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-2.jpg" alt="" /></p>
-
-<p><strong>2025-07-06</strong>. Hm. I made a change to Emacs Wiki search, hoping to get rid of the DuckDuckGo dependency:</p>
-
-<ul>
-<li>I made the page title match much more prominent</li>
-<li>I switched the search from GET to POST</li>
-<li>I count the search via GET as a bot (since it&rsquo;s no longer doable via the user interface)</li>
-<li>I reinstated the old full-text search (essentially a grep within Perl)</li>
-</ul>
-
-<p>I was hoping that it would have very little effect.
-At about the same time, however, load started creeping up.
-The question is whether this is caused by so many search requests or not.
-There aren&rsquo;t many search requests in the logs, and the process monitors don&rsquo;t show unusually activity for the Emacs Wiki processes. Therefore, I think the answer is that the problem lies elsewhere.
-But where?</p>
-
-<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-3.jpg" alt="Somewhere around the 3rd of July load minimum seems to raise up from 0.5 to 1.0" /></p>
-
-<p>This virtual server has two cores so load should remain below 2.0, ideally.</p>
-
-<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-4.jpg" alt="Somewhere around the 3rd of July the number of hosts banned for a week goes up from 2000 to more than 7000" /></p>
-
-<p>Is it the processing of all the bans? I don&rsquo;t think so, since the firewall had many thousands of banned networks before.</p>
-
-<p>Is it the extra cron jobs monitoring the logs? I don&rsquo;t think so because there&rsquo;s no 15min or 20min periodicity to see.</p>
-
-<p>And note how load does come back down to 0.5 for a very short moment around midnight from the 4th to the 5th and in the early morning hours of the 6th.</p>
-
-<p>How strange.</p>
-
-<p><strong>2025-07-07</strong>. Maybe just a fluke. I mean, if these defences actually worked the way I&rsquo;d want them to, then an actual attack would feel like a fluke, right? 😄</p>
-
-<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-5.jpg" alt="The load graph shows that the current value is 0.5 although the average is still 1.6." /></p>
-
-<p><img loading="lazy" src="2025-07-03-fail2ban-some-more-6.jpg" alt="Also of note: The number of banned-for-a-week IP numbers and networks is up to 7900." /></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-07-03-fail2ban-some-more>
 
 ---
 

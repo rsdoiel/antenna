@@ -1,11 +1,66 @@
 ---
 title: journalism
-updated: 2025-07-08 14:08:22
+updated: 2025-07-09 06:09:35
 ---
 
 # journalism
 
-(date: 2025-07-08 14:08:22)
+(date: 2025-07-09 06:09:35)
+
+---
+
+## Classifieds – July 9, 2025
+
+date: 2025-07-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/07/09/classifieds-july-9-2025/">Classifieds &#8211; July 9, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/07/09/classifieds-july-9-2025/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Leslie Giovanny, who sent the original email to Klein proposing grading accommodations for Black students in June 2020, also took the witness stand. He said in his testimony that he did not find Klein’s email response to be racist.&#160;
+“I don’t think he said anything wrong,” Giovanny said. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/08/490734/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Attorneys representing the UC Board of Regents and Bernardo highlighted a post on Twitter – now known as X – from Olivia Truong, a student of Klein&#8217;s who claimed he has a history of sending inappropriate emails. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/08/490732/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Laurence Shiekman, who has made recommendations on which expert witnesses to hire for trials, was the first witness to take the stand Tuesday. He said he would refrain from hiring Klein as an expert witness following his involuntary administrative leave and UCLA Anderson School of Management Dean Antonio Bernardo&#8217;s “troubling” and “suggestive” email announcement. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/08/490730/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Today&#8217;s trial time ended at 4:20 p.m., with two witnesses appearing on the stand. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/08/490725/>
 
 ---
 

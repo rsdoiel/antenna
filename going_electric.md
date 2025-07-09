@@ -1,11 +1,131 @@
 ---
 title: going electric
-updated: 2025-07-08 14:08:25
+updated: 2025-07-09 06:09:39
 ---
 
 # going electric
 
-(date: 2025-07-08 14:08:25)
+(date: 2025-07-09 06:09:39)
+
+---
+
+## ‘A Tougher Sell:’ $20,000 Slate Truck Slammed By The End Of EV Tax Credits
+
+date: 2025-07-09, from: Inside EVs News
+
+America's most affordable upcoming EV just got thousands of dollars more expensive. Thank Donald Trump and Congress for that. 
+
+<br> 
+
+<https://insideevs.com/news/765197/slate-truck-ev-tax-credit/>
+
+---
+
+## The backup battery choice you didn’t know you had: li-ion, or vanadium flow?
+
+date: 2025-07-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/li-ion_vanadium_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Whether it’s to keep the lights on after a natural disaster or just to avoid peak energy rates, more people than ever are adding battery energy storage to their home solar systems. With some 45% of home solar customers saying yes to home batteries last year, the big question isn’t whether or not to get one – it’s what kind to get.</p>
+
+
+
+<p>Two options stand out: <strong>lithium ion</strong>, and <strong>vanadium flow</strong>. Here’s the information you need to make the right choice.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="423956" href="https://electrek.co/2025/07/09/the-backup-battery-choice-you-didnt-know-you-had-li-ion-or-vanadium-flow/#more-423956" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/09/the-backup-battery-choice-you-didnt-know-you-had-li-ion-or-vanadium-flow/>
+
+---
+
+## Gogoro goes affordable with new Ezzy battery-swapping scooter
+
+date: 2025-07-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/gogoro-ezzy-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Taiwanese smart-scooter pioneer Gogoro is taking a step into more accessible territory with its newest model, the Ezzy. The company hopes to leverage its massive lead in battery-swapping technology while also bringing its smart scooters to a broader audience by lowering its price point.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-scooter,gogoro" data-layer-viewtype="unknown" data-post-id="423968" href="https://electrek.co/2025/07/09/gogoro-goes-affordable-with-new-ezzy-battery-swapping-scooter/#more-423968" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/09/gogoro-goes-affordable-with-new-ezzy-battery-swapping-scooter/>
+
+---
+
+## Are Plug-In Hybrid Pickups Any Good? Here’s What This Grueling 2,500-Mile Test Reveals
+
+date: 2025-07-09, from: Inside EVs News
+
+Three PHEV pickups were driven in the Australian outback alongside three diesel rigs. Here’s how they fared. 
+
+<br> 
+
+<https://insideevs.com/news/765241/phev-pickup-test-vs-diesel-byd-shark-gwm-cannon-ford-ranger/>
+
+---
+
+## 750W e-bikes in Europe? Discussions underway to update e-bike laws
+
+date: 2025-07-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/bosch-motor-head-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The e-bike industry in the West has long been a tale of two territories. North Americans enjoy higher speeds and power limits for their electric bicycles while Europeans are held to much stricter (i.e. slower and lower) speed and power limits. However, things might change based on current discussions on rewriting European e-bike regulations.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="423966" href="https://electrek.co/2025/07/08/750w-e-bikes-in-europe-discussions-underway-to-update-e-bike-laws/#more-423966" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/08/750w-e-bikes-in-europe-discussions-underway-to-update-e-bike-laws/>
+
+---
+
+## China overhauls EV charging: 100,000 ultra-fast public stations by 2027
+
+date: 2025-07-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/BYD-fast-charger-1000-kW-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China just laid out a plan to roll out over 100,000 ultra-fast EV charging stations by 2027 – and they’ll all be open to the public.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="423942" href="https://electrek.co/2025/07/08/china-overhauls-ev-charging-100000-ultra-fast-public-stations-by-2027/#more-423942" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/08/china-overhauls-ev-charging-100000-ultra-fast-public-stations-by-2027/>
+
+---
+
+## Tesla forced to refund $10,000 FSD payment and 0% interest on Cybertruck
+
+date: 2025-07-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/elon_checks.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is starting to experience some consequences for misleading Full Self Driving customers – at least that’s the finding of one arbitration ruling that has Tesla refunding one customer $10,000 plus legal fees for failing to deliver on their promises. Find out more on today’s legally challenging episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,full-self-driving-fsd,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="423918" href="https://electrek.co/2025/07/08/tesla-forced-to-refund-10000-fsd-payment-and-0-interest-on-cybertruck/#more-423918" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/08/tesla-forced-to-refund-10000-fsd-payment-and-0-interest-on-cybertruck/>
+
+---
+
+## 'We're Unbendable There': Why Rivian Won't Ever Use Dealers
+
+date: 2025-07-08, from: Inside EVs News
+
+The CEO says the company is willing to "forego sales to make sure we maintain a direct relationship with consumers." 
+
+<br> 
+
+<https://insideevs.com/news/765188/rivian-dealership-model/>
 
 ---
 
@@ -69,7 +189,7 @@ date: 2025-07-08, from: Electrek Feed
 
 ---
 
-## This EV Just Set A Guinness World Record For The Longest Drive On A Single Charge
+## This EV Just Went 749 Miles, Crushing Its EPA Range Estimate And Breaking A World Record
 
 date: 2025-07-08, from: Inside EVs News
 

@@ -1,11 +1,73 @@
 ---
 title: motorcycles
-updated: 2025-07-08 14:08:24
+updated: 2025-07-09 06:09:37
 ---
 
 # motorcycles
 
-(date: 2025-07-08 14:08:24)
+(date: 2025-07-09 06:09:37)
+
+---
+
+## This New EV Scooter Has Too Much Tech, Probably Shouldn’t Be Called a Scooter
+
+date: 2025-07-09, from: Ride Apart, Electric Motorcycle News
+
+The Omo X can be configured for different types of riders. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/765058/omoway-omo-x-electric-scooter/>
+
+---
+
+## The Supercharged, Fire-Breathing Kawasaki H2 Side-By-Side Will Somehow Seat 5 People
+
+date: 2025-07-09, from: Ride Apart, Electric Motorcycle News
+
+It's gonna have Fox's 3.0 Live Valve Shocks, too.  
+
+<br> 
+
+<https://www.rideapart.com/news/765184/supercharged-kawasaki-h2-side-by-side-utv-5-seater/>
+
+---
+
+## This Awesome New Beginner Motorcycle Wants More Young Riders On the Road
+
+date: 2025-07-09, from: Ride Apart, Electric Motorcycle News
+
+I could only dream of tech like this when I first started riding. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/765057/morbidelli-f125-beginner-naked-bike-specs/>
+
+---
+
+## Motorcycle Company Suzuki Will Now Sell You Curry, Perfect for the Sportbike Rider
+
+date: 2025-07-09, from: Ride Apart, Electric Motorcycle News
+
+When the phrase 'tasty bike' is taken very, very literally (and also internally). 
+
+<br> 
+
+<https://www.rideapart.com/news/765032/suzuki-hayabusa-v-strom-instant-curry/>
+
+---
+
+## Look at the Free Accessories the Triumph Speed 400 Gets in India (For a Limited Time)
+
+date: 2025-07-09, from: Ride Apart, Electric Motorcycle News
+
+Feeling jealous yet? 
+
+<br> 
+
+<https://www.rideapart.com/news/764737/triumph-speed-400-free-accessory-kit-india/>
 
 ---
 

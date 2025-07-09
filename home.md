@@ -1,11 +1,101 @@
 ---
 title: home
-updated: 2025-07-08 14:08:23
+updated: 2025-07-09 06:09:37
 ---
 
 # home
 
-(date: 2025-07-08 14:08:23)
+(date: 2025-07-09 06:09:37)
+
+---
+
+## How Often to Water Pothos Indoors and Outdoors for Best Growth
+
+date: 2025-07-09, from: Yard Life blog
+
+<p>Pothos plants have gained immense popularity as easy-to-care-for houseplants. Their attractive trailing vines and vibrant heart-shaped leaves add a touch ... </p>
+<p class="read-more-container"><a title="How Often to Water Pothos Indoors and Outdoors for Best Growth" class="read-more button" href="https://ownyardlife.com/how-often-to-water-pothos-indoors-and-outdoors-for-best-growth/#more-31852" aria-label="Read more about How Often to Water Pothos Indoors and Outdoors for Best Growth">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-often-to-water-pothos-indoors-and-outdoors-for-best-growth/">How Often to Water Pothos Indoors and Outdoors for Best Growth</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-often-to-water-pothos-indoors-and-outdoors-for-best-growth/>
+
+---
+
+## How Often to Water Monstera Indoors vs. Outdoors
+
+date: 2025-07-09, from: Yard Life blog
+
+<p>Monstera deliciosa, commonly known as the Swiss cheese plant or split-leaf philodendron, is a tropical plant loved for its striking ... </p>
+<p class="read-more-container"><a title="How Often to Water Monstera Indoors vs. Outdoors" class="read-more button" href="https://ownyardlife.com/how-often-to-water-monstera-indoors-vs-outdoors/#more-31846" aria-label="Read more about How Often to Water Monstera Indoors vs. Outdoors">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-often-to-water-monstera-indoors-vs-outdoors/">How Often to Water Monstera Indoors vs. Outdoors</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-often-to-water-monstera-indoors-vs-outdoors/>
+
+---
+
+## How Often to Water Grass Seed for Every Climate
+
+date: 2025-07-09, from: Yard Life blog
+
+<p>Watering grass seed properly is one of the most important steps to establishing a lush, healthy lawn. Many homeowners invest ... </p>
+<p class="read-more-container"><a title="How Often to Water Grass Seed for Every Climate" class="read-more button" href="https://ownyardlife.com/how-often-to-water-grass-seed-for-every-climate/#more-31841" aria-label="Read more about How Often to Water Grass Seed for Every Climate">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-often-to-water-grass-seed-for-every-climate/">How Often to Water Grass Seed for Every Climate</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-often-to-water-grass-seed-for-every-climate/>
+
+---
+
+## How Often to Water Tomato Plants for Juicy, Healthy Tomatoes
+
+date: 2025-07-09, from: Yard Life blog
+
+<p>Tomatoes are among the most beloved crops in home gardens, and for good reason. They are versatile, delicious, and relatively ... </p>
+<p class="read-more-container"><a title="How Often to Water Tomato Plants for Juicy, Healthy Tomatoes" class="read-more button" href="https://ownyardlife.com/how-often-to-water-tomato-plants-for-juicy-healthy-tomatoes/#more-31835" aria-label="Read more about How Often to Water Tomato Plants for Juicy, Healthy Tomatoes">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-often-to-water-tomato-plants-for-juicy-healthy-tomatoes/">How Often to Water Tomato Plants for Juicy, Healthy Tomatoes</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-often-to-water-tomato-plants-for-juicy-healthy-tomatoes/>
+
+---
+
+## 3 Types of Squirrels in Georgia (With Pictures and Identification)
+
+date: 2025-07-09, from: Yard Life blog
+
+<p>Squirrels in Georgia are easy to spot in parks, forests, and even residential areas. Their quick movements, fluffy tails, and ... </p>
+<p class="read-more-container"><a title="3 Types of Squirrels in Georgia (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-types-of-squirrels-in-georgia-with-pictures-and-identification/#more-31826" aria-label="Read more about 3 Types of Squirrels in Georgia (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-types-of-squirrels-in-georgia-with-pictures-and-identification/">3 Types of Squirrels in Georgia (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-types-of-squirrels-in-georgia-with-pictures-and-identification/>
+
+---
+
+## 30 Backyard Birds in Kentucky (With Pictures and Identification)
+
+date: 2025-07-09, from: Yard Life blog
+
+<p>Backyard birds in Kentucky add color and life to gardens, parks, and neighborhoods throughout the state. Learning to identify these ... </p>
+<p class="read-more-container"><a title="30 Backyard Birds in Kentucky (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/30-backyard-birds-in-kentucky-with-pictures-and-identification/#more-31817" aria-label="Read more about 30 Backyard Birds in Kentucky (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/30-backyard-birds-in-kentucky-with-pictures-and-identification/">30 Backyard Birds in Kentucky (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/30-backyard-birds-in-kentucky-with-pictures-and-identification/>
 
 ---
 
@@ -51,6 +141,30 @@ date: 2025-07-08, from: Family Handyman Blog
 
 ---
 
+## The Amazon Home Decor Finds That Interior Designers Love
+
+date: 2025-07-08, from: Sunset Magazine - Living in the West
+
+Interior designers shop on Amazon, too. They shared their favorite home decor picks with us to upgrade your space. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/interior-designers-favorite-amazon-products>
+
+---
+
+## This ADU Was Built to Solve What the Main House Was Missing
+
+date: 2025-07-08, from: Sunset Magazine - Living in the West
+
+This Mill Valley ADU was constructed to be a multipurpose space that could serve as a guest bedroom, yoga room, office, gathering space. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/mill-valley-adu>
+
+---
+
 ## This $1.1M Tennessee Midcentury Is a Ray of ’60s Sunshine
 
 date: 2025-07-08, from: Dwell
@@ -60,6 +174,18 @@ The completely revamped Chattanooga home has bright-yellow accents, a pristine p
 <br> 
 
 <https://www.dwell.com/article/renovated-midcentury-home-chattanooga-tennessee-real-estate-45a46da1>
+
+---
+
+## Santa Cruz Is a Central Coast Gem. Here’s What to Do on a Weekend Visit.
+
+date: 2025-07-08, from: Sunset Magazine - Living in the West
+
+Santa Cruz is relaxed, crunchy, coastal gem of a town. A local shares her go-to spots to visit on your next getaway. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/santa-cruz-things-to-do>
 
 ---
 
@@ -77,6 +203,18 @@ date: 2025-07-08, from: The Gardener's Path
 
 ---
 
+## The Only Amazon Prime Day Deals Worth Shopping, According to Our Editors
+
+date: 2025-07-08, from: Sunset Magazine - Living in the West
+
+Amazon Prime Day is the biggest shopping event of the year. Sunset editors are sharing their favorite deals. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/best-prime-day-deals-2025>
+
+---
+
 ## An Exposed Steel Skeleton Revived This 115-Year-Old Vancouver Home
 
 date: 2025-07-08, from: Dwell
@@ -89,15 +227,15 @@ The framework reinforces the wood-framed structure, which had been a rooming hou
 
 ---
 
-## The Only Amazon Prime Day Deals Worth Shopping, According to Our Editors
+## Homepage 2025
 
 date: 2025-07-08, from: Sunset Magazine - Living in the West
 
-Amazon Prime Day is the biggest shopping event of the year. Sunset editors are sharing their favorite deals. 
+Decorating &amp; Design, DIY Projects 4 Minor Exterior Renovations That Can Transform Your Outdoor Space Low-lift and budget-conscious alfresco focal points.  Read more: 4 Minor Exterior Renovations That Can Transform Your&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
 
 <br> 
 
-<https://www.sunset.com/lifestyle/shopping/best-prime-day-deals-2025>
+<https://www.sunset.com/>
 
 ---
 
@@ -507,30 +645,6 @@ date: 2025-07-07, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/20-gray-birds-in-mississippi-with-pictures-and-identification/>
-
----
-
-## Homepage 2025
-
-date: 2025-07-07, from: Sunset Magazine - Living in the West
-
-Decorating &amp; Design, Home Tours A Tight, Dated Kitchen Was Creatively Reimagined for a Family of 6 It was just one part of a complete remodel.  Read more: A Tight, Dated&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
-## Santa Cruz Is a Central Coast Gem. Here’s What to Do on a Weekend Visit.
-
-date: 2025-07-07, from: Sunset Magazine - Living in the West
-
-Santa Cruz is relaxed, crunchy, coastal gem of a town. A local shares her go-to spots to visit on your next getaway. 
-
-<br> 
-
-<https://www.sunset.com/travel/insider-guides/santa-cruz-things-to-do>
 
 ---
 

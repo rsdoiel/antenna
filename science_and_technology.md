@@ -1,11 +1,155 @@
 ---
 title: science and technology
-updated: 2025-07-08 14:08:20
+updated: 2025-07-09 06:09:32
 ---
 
 # science and technology
 
-(date: 2025-07-08 14:08:20)
+(date: 2025-07-09 06:09:32)
+
+---
+
+## Thunderbird ESR is here: Mozilla's email client adds new functions
+
+date: 2025-07-09, updated: 2025-07-09, from: The Register (UK I.T. News)
+
+<h4>Version 140 has built-in MS Exchange support – and a year&#39;s updates ahead</h4> <p>The latest version of the messaging client from Mozilla subsidiary MZLA has a bunch of useful new features, and will get updated until mid 2026.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/09/new_thunderbird_esr_is_here/>
+
+---
+
+## Qantas begins telling some customers that mystery attackers have their home address
+
+date: 2025-07-09, updated: 2025-07-09, from: The Register (UK I.T. News)
+
+<h4>Plus: Confirms less serious data points like meal preferences also leaked</h4> <p>Qantas says that when cybercrooks attacked a &#34;third party platform&#34; used by the airline&#39;s contact center systems, they accessed the personal information and frequent flyer numbers of the &#34;majority&#34; of the circa 5.7 million people affected.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/09/qantas_begins_telling_customers_data/>
+
+---
+
+## ESA backs five rockets in Launcher Challenge – only some have exploded
+
+date: 2025-07-09, updated: 2025-07-09, from: The Register (UK I.T. News)
+
+<h4>Oodles of euros on offer for not accidentally blowing up stuff</h4> <p><strong>Comment</strong>  The European Space Agency (ESA) is pressing ahead with its European Launcher Challenge (ELC), and the good news is that three of the five pre-selected candidates have yet to explode anything in public.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/09/esa_elc_challengers/>
+
+---
+
+## Ingram Micro restarts orders – for some – following ransomware attack
+
+date: 2025-07-09, updated: 2025-07-09, from: The Register (UK I.T. News)
+
+<h4>Customers say things are still far from perfect as lengthy support queues hamper business dealings</h4> <p>Ingram Micro says it is gradually reactivating customer&#39;s ordering capabilities across the world, region by region, now its ransomware attack is thought to be &#34;contained&#34;.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/09/ingram_micro_restarts_orders_for/>
+
+---
+
+## Privacy campaigners pour cold water on London cops' 1,000 facial recognition arrests
+
+date: 2025-07-09, updated: 2025-07-09, from: The Register (UK I.T. News)
+
+<h4>Activists argue the resources spent on tech aren&#39;t leading to worthwhile numbers</h4> <p>Privacy activists are unimpressed with London&#39;s Metropolitan Police and its use of live facial recognition (LFR) to catch criminals, saying it is not effective use of taxpayer money and an overreach by government.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/09/big_brother_watch_met_lfr/>
+
+---
+
+## C-suite sours on AI despite rising investment, survey finds
+
+date: 2025-07-09, updated: 2025-07-09, from: The Register (UK I.T. News)
+
+<h4>Akkodis report suggests people skills may be helpful to bring out the best in AI</h4> <p>Executives are losing faith in AI initiatives despite rising investment, according to a study conducted by consultancy Akkodis.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/09/csuite_sours_on_ai/>
+
+---
+
+## Iranian ransomware crew reemerges, promises big bucks for attacks on US or Israel
+
+date: 2025-07-09, updated: 2025-07-09, from: The Register (UK I.T. News)
+
+<h4>Tells would-be affiliates they don&#39;t need to worry because cyberattacks don&#39;t violate a cease fire</h4> <p>An Iranian ransomware-as-a-service operation with ties to a government-backed cyber crew has reemerged after a nearly five-year hiatus, and is offering would-be cybercriminals cash to infect organizations in the US and Israel.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/09/iranian_ransomware_crew_reemerges/>
+
+---
+
+## Chipmaker GlobalFoundries acquires chip designer MIPS
+
+date: 2025-07-09, updated: 2025-07-09, from: The Register (UK I.T. News)
+
+<h4>A big bet that RISC-V can make a dent in the AI market</h4> <p>GlobalFoundries has acquired chip design firm MIPS, creating a company that both designs and creates semiconductors.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/09/globalfoundries_acquires_mips/>
+
+---
+
+## Samsung acquires Xealth to merge hospital records with data from wearables
+
+date: 2025-07-09, updated: 2025-07-09, from: The Register (UK I.T. News)
+
+<h4>Envisions info from your watch informing treatment. What could possibly go wrong?</h4> <p>Samsung has acquired US company Xealth to combine data drawn from its wearable devices and hospital records.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/09/samsung_acquires_xealth/>
+
+---
+
+## Tim Cook's Tim Cook stepping down from Apple
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>Operations king Jeff Williams abdicates – just don&#39;t give him a watch</h4> <p>Apple Chief Operating Officer Jeff Williams is stepping down from his role next month and leaving the company later this year to spend more time with friends and family.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/apple_coo_williams_retiring/>
+
+---
+
+## Microsoft enjoys first Patch Tuesday of 2025 with no active exploits
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>Sure, 130 fixes were sent out, but bask in the security goodness</h4> <p>For the first time this year, Microsoft has released a Patch Tuesday bundle with no exploited security problems, although one has been made public already, and there are ten critical flaws to fix.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/microsoft_patch_tuesday/>
+
+---
+
+## IBM boasts new Power11 chips are stingy on power usage
+
+date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+
+<h4>More efficient cores plus an optional energy saver mode in Big Blue&#39;s latest CPUs</h4> <p>In case you&#39;d forgotten, IBM is still blazing its own trail with regard to silicon. And in terms of speeds and feeds, Big Blue&#39;s latest crop of Power chips boasts up to 55 percent faster cores than its Power9 chips.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/08/ibm_claims_x86_beating_efficiency/>
 
 ---
 
@@ -95,7 +239,7 @@ date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
 
 ## One Big Brutal Bill: Ex-NASA brass decry Trump's proposed budget cuts
 
-date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+date: 2025-07-08, updated: 2025-07-09, from: The Register (UK I.T. News)
 
 <h4>&#39;If this is the priority for our tax dollars, we are doomed&#39;</h4> <p>The US Congress has passed President Donald Trump&#39;s budget bill. In addition to the possibility of a Space Shuttle move, significant changes are on the way for NASA.…</p> 
 
@@ -107,9 +251,9 @@ date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
 
 ## Post Office and Fujitsu execs 'should have known' Horizon IT system was flawed
 
-date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+date: 2025-07-08, updated: 2025-07-09, from: The Register (UK I.T. News)
 
-<h4>First volume of inquiry report focuses on the scandal&#39;s human impact</h4> <p>Senior Post Office staff – and those working for suppliers Fujitsu and ICL – knew or should have known about the defects causing errors in the Horizon system that contributed to the wrongful prosecution of hundreds of branch workers, 13 of whom committed suicide, most probably as a result, according to the first volume of a government report into the computer scandal.…</p> 
+<h4>First volume of inquiry report focuses on the UKscandal&#39;s human impact</h4> <p>Senior Post Office staff in the UK – and those working for suppliers Fujitsu and ICL – knew or should have known about the defects causing errors in the Horizon system that contributed to the wrongful prosecution of hundreds of branch workers, 13 of whom committed suicide, most probably as a result, according to the first volume of a report submitted by the independent public inquiry into the computer scandal.…</p> 
 
 <br> 
 
@@ -323,7 +467,7 @@ Written by Lucy Thompson, APXS Collaborator and Senior Research Scientist at the
 
 ## Scholars sneaking phrases into papers to fool AI reviewers
 
-date: 2025-07-07, updated: 2025-07-07, from: The Register (UK I.T. News)
+date: 2025-07-07, updated: 2025-07-08, from: The Register (UK I.T. News)
 
 <h4>Using prompt injections to play a Jedi mind trick on LLMs</h4> <p>A handful of international computer science researchers appear to be trying to influence AI reviews with a new class of prompt injection attack.…</p> 
 
