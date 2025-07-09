@@ -1,11 +1,67 @@
 ---
 title: writing
-updated: 2025-07-09 06:09:34
+updated: 2025-07-09 14:09:06
 ---
 
 # writing
 
-(date: 2025-07-09 06:09:34)
+(date: 2025-07-09 14:09:06)
+
+---
+
+## Birdigo comes out July 30th!
+
+date: 2025-07-09, from: John August blog
+
+<p>Birdigo, the fun word game I made with Corey Martin, comes out on Steam on July 30th. (That&#8217;s a Wednesday.) Here&#8217;s a brand new trailer: Birdigo began with a mention on Scriptnotes that I was looking for a developer to collaborate with on a new videogame. Corey wrote in; we zoomed; we had a demo [&#8230;]</p>
+The post <a href="https://johnaugust.com/2025/birdigo-comes-out-july-29th">Birdigo comes out July 30th!</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/birdigo-comes-out-july-29th>
+
+---
+
+## 2025 Heinlein Scholarship Recipients
+
+date: 2025-07-09, from: Locus Magazine
+
+<p>Winners of the Heinlein Society&#8217;s annual undergraduate scholarships for the 2025-2026 academic year were announced on July 7, 2025, Robert A. Heinlein&#8217;s 118th birthday.</p>
+<p>This year&#8217;s winners are Kat Crawford, Nora Kane, Nivriti Varanasi, and Natalie Yen. The scholarship awards $4,000 to each recipient. Winners were selected from 289 applications, including 50 international submissions from 31 different countries.</p>
+<p>Crawford received the Virginia Heinlein Memorial Scholarship, which is &#8220;dedicated to a  <a href="https://locusmag.com/2025/07/2025-heinlein-scholarship-recipients/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/2025-heinlein-scholarship-recipients/>
+
+---
+
+## What Is a Final Girl and How To Write One
+
+date: 2025-07-09, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/what-is-a-final-girl-and-how-to-write-one" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Jamie%20Lee%20Curtis%20in%20Halloween.png" alt="Jamie Lee Curtis in Halloween" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<h2>What Is a Final Girl?</h2> 
+<p>A <span style="font-weight: bold;">Final Girl</span> is <a href="https://blog.finaldraft.com/using-film-tropes-in-screenwriting">a trope</a> and <a href="https://blog.finaldraft.com/mean-screenplay-arch">character archetype</a> associated with the horror <a href="https://blog.finaldraft.com/what-genre-is-my-screenplay">genre</a> and sometimes more specifically the slasher subgenre (although Final Girls aren’t limited to slasher films).&nbsp;<br><br>One crucial element to a Final Girl is they’re the protagonist and survivor of a film with a body count (hence, why they often appear in slasher films). A cast of characters are slowly killed off by the film’s antagonist and, in most cases, the Final Girl has to face the antagonist head on, after trying to evade them throughout the film and always narrowly escaping. Typically, the Final Girl bests or kills the antagonist and lives to see another day (and sometimes a sequel if not <span style="font-style: italic;">several</span> sequels).&nbsp;<br><br>This trope/archetype was especially popular in 1980s horror films, but you’ll still find Final Girls in many movies today. Because of this, screenwriters are always looking to put a new spin on the Final Girl and this presents a challenge: how do you create one that’s fresh and different from their predecessors? And how do you make the reader connect with and care about them?&nbsp;<br><br>But before we give tips on how to write a Final Girl, let’s take a look at some past examples.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/what-is-a-final-girl-and-how-to-write-one>
+
+---
+
+## Major Arcana by John Pistelli: Review by Ian Mond
+
+date: 2025-07-09, from: Locus Magazine
+
+<p><strong>Major Arcana</strong>, John Pistelli (Self-published 978-1735076935, 753pp, tp) March 2024. (Belt Publishing 978-1-95336-892-8, $24.95, 564pp, tp) April 2025.</p>
+<p>After some initial reluctance – did I really want to sign up for another social media site? – I joined Substack in November last year. Eight months on, and despite the app’s clunky user interface, I’ve grown rather fond of the place. I’ve discovered a clutch of witty, erudite and enthusiastic  <a href="https://locusmag.com/2025/07/major-arcana-by-john-pistelli-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/major-arcana-by-john-pistelli-review-by-ian-mond/>
 
 ---
 

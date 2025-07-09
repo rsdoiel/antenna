@@ -1,11 +1,60 @@
 ---
 title: motorcycles
-updated: 2025-07-09 06:09:37
+updated: 2025-07-09 14:09:08
 ---
 
 # motorcycles
 
-(date: 2025-07-09 06:09:37)
+(date: 2025-07-09 14:09:08)
+
+---
+
+## Cook Out Clash Returns to Historic Bowman Gray Stadium on Feb. 1, 2026
+
+date: 2025-07-09, from: Kickin the Tires blog
+
+WINSTON SALEM, N.C. (July 9, 2025) – Today, NASCAR announced the Cook Out Clash will return to Bowman Gray Stadium as the opening exhibition event for the 2026 season. Following&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/cook-out-clash-returns-to-historic-bowman-gray-stadium-on-feb-1-2026/>
+
+---
+
+## Triumph Is Bringing Another Small Off-Road Motorcycle Stateside, It's a Trend
+
+date: 2025-07-09, from: Ride Apart, Electric Motorcycle News
+
+Another small displacement bike for the win! 
+
+<br> 
+
+<https://www.rideapart.com/news/765187/2026-triumph-scrambler-400-xc-specs-details-price-engine/>
+
+---
+
+## 'He Rear-Ends Me, Knocks Me Off the Bike and Then Floors It Over Me': Jackass Driver Hits Motorcyclist At Stoplight
+
+date: 2025-07-09, from: Ride Apart, Electric Motorcycle News
+
+This was a blatant act of road rage, hopefully the driver pays the price sooner than later.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/765210/jackass-driver-hits-motorcyclist-intentionally-dragged-along-pavement/>
+
+---
+
+## This Custom Scooter Build Is An Insane Work Of Alternate Timeline Art
+
+date: 2025-07-09, from: Ride Apart, Electric Motorcycle News
+
+Wait'll you see the handcrafted mufflers this guy makes. 
+
+<br> 
+
+<https://www.rideapart.com/news/765190/custom-dieselpunk-soviet-scooter-build/>
 
 ---
 

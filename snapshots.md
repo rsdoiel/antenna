@@ -1,11 +1,200 @@
 ---
 title: snapshots
-updated: 2025-07-09 06:09:41
+updated: 2025-07-09 14:09:12
 ---
 
 # snapshots
 
-(date: 2025-07-09 06:09:41)
+(date: 2025-07-09 14:09:12)
+
+---
+
+## Hugging Face’s Reachy Mini is an open source robot aimed at developers, priced at $299 and up
+
+date: 2025-07-09, from: Liliputing
+
+<p>AI software company Hugging Face is now taking pre-orders for a small robot aimed at developers an folks learning to code. It&#8217;s called Reachy Mini, and it&#8217;s basically a programmable toy that sits on your desk and interacts with people around it by moving its head, rotating its body, or waving its antenna. The robot [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/hugging-faces-reachy-mini-is-an-open-source-robot-aimed-at-developers-priced-at-299-and-up/">Hugging Face&#8217;s Reachy Mini is an open source robot aimed at developers, priced at $299 and up</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/hugging-faces-reachy-mini-is-an-open-source-robot-aimed-at-developers-priced-at-299-and-up/>
+
+---
+
+## Infinite Monkey
+
+date: 2025-07-09, updated: 2025-07-09, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://infinitemac.org/monkey/">Infinite Monkey</a></strong></p>
+Mihai Parparita's <a href="https://infinitemac.org/">Infinite Mac</a> lets you run classic MacOS emulators directly in your browser. <a href="https://infinitemac.org/monkey/">Infinite Monkey</a> is a new feature which taps into the <a href="https://platform.openai.com/docs/guides/tools-computer-use">OpenAI Computer Use</a> and <a href="https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/computer-use-tool">Claude Computer Use</a> APIs using your own API keys and uses them to remote control the emulated Mac!</p>
+<p>Here's what happened when I told OpenAI Computer Use to "Open MacPaint and draw a pelican riding a bicycle" - video sped up 3x.</p>
+<div style="max-width: 100%;">
+    <video 
+        controls 
+        preload="none"
+        aria-label="Shows a classic Mac desktop, which then opens MacPaint and draws a very clumsy attempt at some shapes before ending with an error message in the chat window showing what the LLM was trying to do."
+        poster="https://static.simonwillison.net/static/2025/macpaint.jpg"
+        style="width: 100%; height: auto;">
+        <source src="https://static.simonwillison.net/static/2025/macpaint.mp4" type="video/mp4">
+    </video>
+</div>
+
+    <p><small></small>Via <a href="https://bsky.app/profile/persistent.info/post/3ltk6lke5ek2m">@persistent.info</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/macos">macos</a>, <a href="https://simonwillison.net/tags/mihai-parparita">mihai-parparita</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/webassembly">webassembly</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/9/infinite-monkey/#atom-everything>
+
+---
+
+## Archaeology 1.3
+
+date: 2025-07-09, from: Michael Tsai
+
+Mothers Ruin Software: macOS uses many different binary file formats.Some &#8212; like binary property lists &#8212; have broad tool support and are relatively easy to inspect&#8230;Some &#8212; like X.509 certificates, configuration and provisioning profiles or App Store receipts &#8212; use standard formats, but lack macOS-native inspection tools, or only have command-line tools that can be [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/09/archaeology-1-3/>
+
+---
+
+## Jeff Williams Retiring as Apple’s COO
+
+date: 2025-07-09, from: Michael Tsai
+
+Apple (MacRumors, 2, Hacker News): Jeff Williams will transition his role as chief operating officer later this month to Sabih Khan, Apple&#8217;s senior vice president of Operations, as part of a long-planned succession. Williams will continue reporting to Apple CEO Tim Cook and overseeing Apple&#8217;s world-class design team and Apple Watch alongside the company&#8217;s Health [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/09/jeff-williams-retiring-as-apples-coo/>
+
+---
+
+## Downloading Xcode With a Passkey
+
+date: 2025-07-09, from: Michael Tsai
+
+When I went to download the new Xcode beta, I again ran into an annoying Safari behavior, which seems to be specific to Apple&#8217;s sites. It pops up an Apple Account sheet offering to sign me in. But it can only sign in with my personal Apple ID, not my developer one. I have to [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/09/downloading-xcode-with-a-passkey/>
+
+---
+
+## Xcode 26 Beta 3
+
+date: 2025-07-09, from: Michael Tsai
+
+Apple: Removed support for creating new Style Transfer projects. This is the only change that&#8217;s noted as being in beta 3. Why can&#8217;t Apple write release notes that tell us what&#8217;s actually new in this build? Ryan Ashcraft: The Beta 3 SDK adds support for Glass.clear, which looks like the glass material used more commonly [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/09/xcode-26-beta-3/>
+
+---
+
+## Are LLMs starting to become sentient?
+
+date: 2025-07-09, from: Gary Marcus blog
+
+A compassionate but skeptical letter that Douglas Hofstadter wrote to one of his readers 
+
+<br> 
+
+<https://garymarcus.substack.com/p/are-llms-starting-to-become-a-sentient>
+
+---
+
+## Samsung launches Galaxy Z Flip7 with a bigger cover screen along with cheaper Galaxy Z Flip7 FE
+
+date: 2025-07-09, from: Liliputing
+
+<p>Samsung is expanding its Galaxy Z Flip line of phones with foldable screens with two new models launching this month. The Samsung Galaxy Z Flip7 is a new premium model with a larger cover display and faster processor than the previous-gen Flip6. And the company is also introducing its first FE (Fan Edition) model with a [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/samsung-launches-galaxy-z-flip7-with-a-bigger-cover-screen-along-with-cheaper-galaxy-z-flip7-fe/">Samsung launches Galaxy Z Flip7 with a bigger cover screen along with cheaper Galaxy Z Flip7 FE</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/samsung-launches-galaxy-z-flip7-with-a-bigger-cover-screen-along-with-cheaper-galaxy-z-flip7-fe/>
+
+---
+
+## Samsung Galaxy Z Fold7 is a thinner, faster, and more expensive foldable (without S-Pen support)
+
+date: 2025-07-09, from: Liliputing
+
+<p>The promise of foldable phones has long been that you could have a phone-sized device that also has a tablet-sized screen available when unfolded. But in order to accomplish that, phone makers have typically had to make compromises &#8211; early models were plagued by screens that were prone to collecting dust under the display. And [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/samsung-galaxy-z-fold7-is-a-thinner-faster-and-more-expensive-foldable-without-s-pen-support/">Samsung Galaxy Z Fold7 is a thinner, faster, and more expensive foldable (without S-Pen support)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/samsung-galaxy-z-fold7-is-a-thinner-faster-and-more-expensive-foldable-without-s-pen-support/>
+
+---
+
+## Scott Alexander’s Misleading Victory Lap
+
+date: 2025-07-09, from: Gary Marcus blog
+
+Whatever happened to steelmanning? 
+
+<br> 
+
+<https://garymarcus.substack.com/p/scott-alexanders-misleading-victory>
+
+---
+
+**@IIIF Mastodon feed** (date: 2025-07-09, from: IIIF Mastodon feed)
+
+<p>The latest <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> Newsletter is out! Open for: </p><p>🎥 Recordings from the 2025 Conference<br />🎨 Manifests from The Courtauld<br />🗺️ The location of the 2026 IIIF Conference</p><p>Read it in full: <a href="https://mailchi.mp/iiif/jul25" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">mailchi.mp/iiif/jul25</span><span class="invisible"></span></a><br />Sign-up for future newsletters: <a href="https://iiif.io/newsletter/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">iiif.io/newsletter/</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://glammr.us/@IIIF/114823754523498240>
+
+---
+
+## Preserving Democracy
+
+date: 2025-07-09, from: Guy Kawasaki blog
+
+The fight of our lives 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/preserving-democracy>
+
+---
+
+## ICE Is Searching a Massive Insurance and Medical Bill Database to Find Deportation Targets
+
+date: 2025-07-09, from: 404 Media Group
+
+The database, called ISO ClaimSearch, is nearly all encompassing and contains details on more than 1.8 billion insurance claims and 58 million medical bills. 
+
+<br> 
+
+<https://www.404media.co/ice-is-searching-a-massive-insurance-and-medical-bill-database-to-find-deportation-targets/>
+
+---
+
+## Don’t Steal a Car on Nantucket
+
+date: 2025-07-09, updated: 2025-07-09, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/07/09/dont-steal-a-car-on-nantucket/>
 
 ---
 

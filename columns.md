@@ -1,76 +1,15 @@
 ---
 title: columns
-updated: 2025-07-09 06:09:33
+updated: 2025-07-09 14:09:05
 ---
 
 # columns
 
-(date: 2025-07-09 06:09:33)
+(date: 2025-07-09 14:09:05)
 
 ---
 
-## Thunderbird ESR is here: Mozilla's email client adds new functions
-
-date: 2025-07-09, updated: 2025-07-09, from: Liam Proven's articles at the Register
-
-<h4>Version 140 has built-in MS Exchange support – and a year&#39;s updates ahead</h4>
-      <p>The latest version of the messaging client from Mozilla subsidiary MZLA has a bunch of useful new features, and will get updated until mid 2026.</p> 
-
-<br> 
-
-<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/09/new_thunderbird_esr_is_here/>
-
----
-
-## Office Hours: Where’s the tipping point?
-
-date: 2025-07-09, from: Robert Reich's blog
-
-What will it take for most Americans to demand an end to Trump&#8217;s dictatorship? 
-
-<br> 
-
-<https://robertreich.substack.com/p/office-hours-wheres-the-tipping-point>
-
----
-
-## July 8, 2025 
-
-date: 2025-07-09, from: Heather Cox Richardson blog
-
-One hundred and eleven people are dead and more than 160 are still missing in Texas after Friday&#8217;s tragic flood. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/july-8-2025>
-
----
-
-## Elon Musk’s Lawyers Claim He ‘Does Not Use a Computer’
-
-date: 2025-07-09, updated: 2025-07-09, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.wired.com/story/elon-musk-computer-sam-altman/>
-
----
-
-## Grok Praises Hitler, Shocking No One
-
-date: 2025-07-09, updated: 2025-07-09, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://gizmodo.com/round-them-up-grok-praises-hitler-as-elon-musks-ai-tool-goes-full-nazi-2000626156>
-
----
-
-##  From Marcin Wichary, a history of Mac settings (1984-2004). The article includes... 
+##  Who Goes MAGA? &#8220;His Substack has 10,000 subscribers and a name like... 
 
 date: 2025-07-09, updated: 2025-07-09, from: Jason Kittke's blog
 
@@ -78,83 +17,383 @@ date: 2025-07-09, updated: 2025-07-09, from: Jason Kittke's blog
 
 <br> 
 
-<https://kottke.org/25/07/0047116-from-marcin-wichary-a-his>
+<https://kottke.org/25/07/0047118-who-goes-maga-his-substac>
 
 ---
 
-## Wednesday 9 July, 2025
+## Education 3.0
 
-date: 2025-07-08, from: John Naughton's online diary
+date: 2025-07-09, from: Doc Searls (at Harvard), New Old Blog
 
-On reflection… Seen yesterday in a small town in Burgundy. ______________________________  Quote of the Day ”That would be a good thing for them to cut on my tombstone: Wherever she went, including here, it was against her better judgment.” Dorothy &#8230; <a href="https://memex.naughtons.org/wednesday-9-july-2025/41001/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+Education 1.0 was about learning one one-on-one, or one one-on-few. Also by ourselves. This kind of on-site discovery and mentorship gave us stone tools, cave art, clothing, shelter, writing, engineering, construction on every scale, and great artists in every age. Writing was involved, mostly of the scribal kind before the Gutenberg Parenthesis began. After that, [&#8230;] 
 
 <br> 
 
-<https://memex.naughtons.org/wednesday-9-july-2025/41001/>
+<https://doc.searls.com/2025/07/09/education-3-0/>
 
 ---
 
-## ★ Jeff Williams, 62, Is Retiring as Apple’s COO
+##  Something Extraordinary Is Happening All Over the World. &#8220;Millions of people from... 
 
-date: 2025-07-08, updated: 2025-07-08, from: Daring Fireball
-
-Post-Williams, Apple’s operations will clearly remain under excellent, experienced leadership under Sabih Khan. But the company will be left with its design teams reporting directly to Cook, leaving it less clear whose taste, [ultimately], is steering the work of the company into the future. 
-
-<br> 
-
-<https://daringfireball.net/2025/07/jeff_williams_is_retiring_as_coo>
-
----
-
-##  A Masterclass on Status, Power, & the Economy with Tressie McMillan Cottom.... 
-
-date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
+date: 2025-07-09, updated: 2025-07-09, from: Jason Kittke's blog
 
  
 
 <br> 
 
-<https://kottke.org/25/07/0047102-a-masterclass-on-status-p>
+<https://kottke.org/25/07/0047117-something-extraordinary-i>
 
 ---
 
-##  Did Shakespeare Write Hamlet While He Was Stoned? Examining the evidence that... 
+## ★ Save Yourself Some Dough on Apple Kit and Make Me Rich on Amazon Prime Day
 
-date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
+date: 2025-07-09, updated: 2025-07-09, from: Daring Fireball
+
+You can support Daring Fireball and save yourself a veritable bundle through some Prime Day discounts. 
+
+<br> 
+
+<https://daringfireball.net/2025/07/make_me_rich_on_amazon_prime_day>
+
+---
+
+##  &#8220;REFLECTIVE URBANISMS: Mapping New York Chinatown is an interactive web project that... 
+
+date: 2025-07-09, updated: 2025-07-09, from: Jason Kittke's blog
 
  
 
 <br> 
 
-<https://kottke.org/25/07/0047104-did-shakespeare-write-ham>
+<https://kottke.org/25/07/0047106-reflective-urbanisms-mapp>
 
 ---
 
-**@Dave Winer's Scripting News** (date: 2025-07-08, from: Dave Winer's Scripting News)
+##  When Your Baggage Goes Through an Insecurity Inspection 
 
-<a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lthfkwae522d">On Bluesky</a>: "The web is still there under all this michegas, ready to be magical again any time we want it to." 
-
-<br> 
-
-<http://scripting.com/2025/07/08.html#a212045>
-
----
-
-##  ChatGPT kept directing people to use a non-existent feature on Soundslice&#8230;so the... 
-
-date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
+date: 2025-07-09, updated: 2025-07-09, from: Jason Kittke's blog
 
  
 
 <br> 
 
-<https://kottke.org/25/07/0047110-chatgpt-kept-directing-pe>
+<https://kottke.org/25/07/when-your-baggage-goes-through-an-insecurity-inspection>
+
+---
+
+## Apple TV+ Renews ‘Slow Horses’ for a Seventh Season
+
+date: 2025-07-09, updated: 2025-07-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.apple.com/tv-pr/news/2025/07/apple-tv-announces-seventh-season-for-celebrated-emmy-and-bafta-award-winning-spy-drama-slow-horses-starring-academy-award-winner-sir-gary-oldman/>
+
+---
+
+## 2025-07-09 systemd timers for the Butlerian Jihad
+
+date: 2025-07-09, from: Alex Schroeder's Blog
+
+<h1 id="2025-07-09-systemd-timers-for-the-butlerian-jihad">2025-07-09 systemd timers for the Butlerian Jihad</h1>
+
+<p>I was reading a post about the good parts of systemd (<a href="https://blog.tjll.net/the-systemd-revolution-has-been-a-success/">systemd has been a complete, utter, unmitigated success</a>) and started wondering about the use of timers instead of cron jobs.</p>
+
+<p>The benefits:</p>
+
+<ul>
+<li>each job is a complete script</li>
+<li>each job can be sandboxed</li>
+<li>each job has output in the log instead of mailing it to me</li>
+</ul>
+
+<p>And if every job is a complete script, then I can also add more stuff, like lowering the limits if load starts to overshoot again.</p>
+
+<p>So here we go.</p>
+
+<p>I have three jobs:</p>
+
+<ul>
+<li>watch-active-autonomous-systems</li>
+<li>watch-expensive-end-points</li>
+<li>watch-nobots</li>
+</ul>
+
+<p>Each of them gets a service and a timer.</p>
+
+<p>Since I wanted the service to protect a good part of the system, I had to move things around a bit.</p>
+
+<h2 id="asncounter"><code>asncounter</code></h2>
+
+<p>I had to install <a href="https://gitlab.com/anarcat/asncounter/">asncounter</a> in <code>/usr/local</code>.
+Since I already had a copy of it all I just moved things around, but things to work out next time, my <code>root</code> user has <code>PIPX_HOME</code> set to <code>/usr/local/pipx</code>.
+This is very messy. I hope that <code>asncounter</code> makes it into Debian, soon. ❤️</p>
+
+<p>So:</p>
+
+<pre><code>mv ~/.local/pipx /usr/local
+</code></pre>
+
+<p>I also edited the first line of <code>asncounter</code> to read as follows:</p>
+
+<pre><code>#!/usr/local/pipx/venvs/asncounter/bin/python
+</code></pre>
+
+<h2 id="etc-butlerian-jihad"><code>/etc/butlerian-jihad</code></h2>
+
+<p>I created this directory for the scripts and its dependencies.</p>
+
+<ul>
+<li><a href="/admin/2h-access-log">2h-access-log</a></li>
+<li><a href="/admin/asn-networks">asn-networks</a></li>
+</ul>
+
+<p>I also create a <code>data</code> directory here for the <code>pyasn</code> data. This is not the default location so we must always pass <code>--cache-directory /etc/butlerian-jihad/data</code> when running <code>asncounter</code>.</p>
+
+<h2 id="scripts">scripts</h2>
+
+<p>The three scripts all exclude some more IP numbers in their call to <code>2h-access-log</code> (my home IP numbers, my server&rsquo;s IP numbers) so I don&rsquo;t accidentally ban myself, as well as the <code>social</code> subdomain which is where my fedi instance is.</p>
+
+<h3 id="watch-active-autonomous-systems"><code>watch-active-autonomous-systems</code></h3>
+
+<pre><code>#!/usr/bin/sh
+export PATH=/etc/butlerian-jihad:/usr/local/pipx/venvs/asncounter/bin:$PATH
+2h-access-log !^social $MY_IPS \
+    | awk '{print $2}' \
+    | asncounter --top 50 --no-prefixes --cache-directory /etc/butlerian-jihad/data 2&gt;/dev/null \
+    | awk '/^[0-9]/ &amp;&amp; $1&gt;500 { print $3 }' \
+    | ifne xargs /etc/butlerian-jihad/asn-networks \
+    | ifne xargs fail2ban-client set butlerian-jihad banip
+</code></pre>
+
+<h3 id="watch-expensive-end-points"><code>watch-expensive-end-points</code></h3>
+
+<pre><code>#!/usr/bin/sh
+export PATH=/etc/butlerian-jihad:/usr/local/pipx/venvs/asncounter/bin:$PATH
+2h-access-log !^social $MY_IPS \
+    | egrep '\baction=(rss|rc)\&amp;|\bsearch=' \
+    | awk '{print $2}' \
+    | asncounter --top 50 --no-prefixes --cache-directory /etc/butlerian-jihad/data 2&gt;/dev/null \
+    | awk '/^[0-9]/ &amp;&amp; $1&gt;10 { print $3 }' \
+    | ifne xargs /root/bin/asn-networks \
+    | ifne xargs fail2ban-client set butlerian-jihad banip
+</code></pre>
+
+<h3 id="watch-nobots"><code>watch-nobots</code></h3>
+
+<pre><code>#!/usr/bin/sh
+export PATH=/etc/butlerian-jihad:/usr/local/pipx/venvs/asncounter/bin:$PATH
+2h-access-log !^social $MY_IPS \
+    | grep &quot;GET /nobots&quot; \
+    | awk '{print $2}' \
+    | asncounter --top 50 --no-prefixes --cache-directory /etc/butlerian-jihad/data 2&gt;/dev/null \
+    | awk '/^[0-9]/ &amp;&amp; $1&gt;30 { print $3 }' \
+    | ifne xargs /root/bin/asn-networks \
+    | ifne xargs fail2ban-client set butlerian-jihad banip
+</code></pre>
+
+<h2 id="service"><code>*.service</code></h2>
+
+<p>Each script gets a service file. I&rsquo;m only going to post <code>watch-active-autonomous-systems.service</code>. The only thing that changes from service to service is the <code>Description</code> and the <code>ExecStart</code> naming the script to run.</p>
+
+<pre><code>[Unit]
+Description=Watch active autonomous systems
+RequiresMountsFor=/var/log
+ConditionACPower=true
+
+[Service]
+Type=oneshot
+ExecStart=/etc/butlerian-jihad/watch-active-autonomous-systems
+
+# Priority has to be higher than the regular web services so that banning can still happen.
+# See systemd.exec(5) for more.
+Nice=9
+IOSchedulingClass=best-effort
+IOSchedulingPriority=3
+
+# asncounter needs to download new route view data
+# PrivateNetwork=true
+
+# asncounter needs to save the data somewhere
+ReadWritePaths=/etc/butlerian-jihad/data
+
+LockPersonality=true
+MemoryDenyWriteExecute=true
+NoNewPrivileges=true
+PrivateDevices=true
+PrivateTmp=true
+ProtectClock=true
+ProtectControlGroups=true
+ProtectHome=true
+ProtectHostname=true
+ProtectKernelLogs=true
+ProtectKernelModules=true
+ProtectKernelTunables=true
+ProtectSystem=full
+RestrictNamespaces=true
+RestrictRealtime=true
+RestrictSUIDSGID=true
+</code></pre>
+
+<h2 id="timer"><code>*.timer</code></h2>
+
+<p>Each script gets a timer file. I&rsquo;m only going to post one of them. The only thing that changes from service to service is the <code>Description</code> as by default the timer applies for the service with the same name. Win!</p>
+
+<p>I&rsquo;m adding a <code>RandomizedDelaySec</code> of two minutes, hoping that over time the three timers will start to diverge.</p>
+
+<pre><code>[Unit]
+Description=Watch active autonomous systems
+
+[Timer]
+OnCalendar=*:00,10,20,30,40,50:00
+RandomizedDelaySec=120
+
+[Install]
+WantedBy=timers.target
+</code></pre>
+
+<h2 id="systemd-cheat-sheet">systemd cheat-sheet</h2>
+
+<pre><code># install service or timer (only once)
+systemctl enable --now ./the-job.service
+systemctl enable --now ./the-job.timer
+# check how it went
+systemctl status the-job.service
+systemctl status the-job.timer
+# run it again
+systemctl start the-job.service
+systemctl start the-job.timer
+# check the logs (use --follow for watching)
+journalctl --unit the-job.service
+journalctl --unit the-job.timer
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23systemd">#systemd</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-07-09-systemd-timers>
+
+---
+
+## OpenAI Officially Acquires ‘io Products Inc.’
+
+date: 2025-07-09, updated: 2025-07-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://openai.com/sam-and-jony/?asset=video>
+
+---
+
+##  On the Expert Generalist. &#8220;We&#8217;ve seen this capability be an essential quality... 
+
+date: 2025-07-09, updated: 2025-07-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047084-on-the-expert-generalist->
+
+---
+
+## Anubis guards gates against hordes of LLM bot crawlers
+
+date: 2025-07-09, updated: 2025-07-09, from: Liam Proven's articles at the Register
+
+<h4>Using proof of work to block the web-crawlers of &#39;AI&#39; companies</h4>
+      <p>Anubis is a sort of CAPTCHA test, but flipped: instead of checking visitors are human, it aims to make web crawling prohibitively expensive for companies trying to feed their hungry LLM bots.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/09/anubis_fighting_the_llm_hordes/>
+
+---
+
+## Teaching ChatGPT how to work with me
+
+date: 2025-07-09, from: Dave Winer's Scripting News
+
+<p>Earlier I wrote this post:</p>
+<ul>
+<li>The worst thing about Claude and ChatGPT is that you can't get them to work with you the way you want them to. They always run off and <i>do</i> the things I asked about. So if I say "what if the middle column must be at least 600 pixels wide? What I want is literally an answer to the question I asked. It was not an instruction to do it. I've been a CEO, and this infuriates me. I want to understand the limits are, I don't want to impose them. I'm trying to figure out what the cost would be in doing something, again -- not requesting it be done. No matter how many times I tell it not to do this, it just does it. And Claude has absolutely no memory. If I want it to work with me a certain way I have to tell it how to do it every time. I can save it off in a document, but even the simplest automation is impossible. In that sense it is very primitive software. If I were using a spreadsheet for example, I'd have settings that I could change, and unless the software had a bug it would never forget it until I told it otherwise. </li>
+</ul>
+<p>Because it can be so stubborn and uncooperative, I often try to solve complicated problems myself. Then I decided to try again, and brought a problem to ChatGPT and we did eventually figure it out, but at the end I wanted to review how inefficient the process was because it doesn't look all around at the options, I had to do that for it, and it wasn't even aware it needed that kind of help. After exploring this, I asked if it would remember what we concluded, and this is what came back.</p>
+<ul>
+<li>You want me to think first, not code.</li>
+<li>You want me to challenge assumptions, including my own.</li>
+<li>You expect me to give up on a theory when the evidence contradicts it, and look for more plausible explanations.</li>
+<li>You're a deeply experienced debugger (almost 50 years), and you know how important it is to notice the obvious.</li>
+<li>You're not here for code generation — you're here for sharp, collaborative thinking.</li>
+</ul>
+<p>When I said that was worth publishing on my blog, it proceeded to muddy it up, even trying to write in my voice. I insisted that the list it came up with was perfect. </p>
+<p>Feel free to steal these bullet points and feed them to your ChatGPT. I think it can be made to work much better for us humans. ;-)</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/09/160306.html?title=teachingChatgptHowToWorkWithMe>
+
+---
+
+## July 8, 2025
+
+date: 2025-07-09, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167917326/589bb25c10d051268e6e1294b5c787a7.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167917326/589bb25c10d051268e6e1294b5c787a7.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-8-2025-22d>
+
+---
+
+##  Vintage recordings of J.R.R. Tolkien reading (and singing, in Elvish) selections from... 
+
+date: 2025-07-09, updated: 2025-07-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047111-vintage-recordings-of-jrr>
+
+---
+
+## Wednesday , 9 July 2025
+
+date: 2025-07-09, from: Doc Searls (at Harvard), New Old Blog
+
+Not that you&#39;ll listen. Thank this guy for keeping AM radios in new Ford cars. Another small step away from the open Web. On a radio show sponsored by a podcast of another show, the announcement said the sponsoring show was available on &#34;your favorite podcast app,&#34; rather than the usual &#34;wherever you get your [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/09/wednesday-9-july-2025/>
+
+---
+
+##  Social media can support or undermine democracy — it comes down to... 
+
+date: 2025-07-09, updated: 2025-07-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047107-social-media-can-support->
 
 ---
 
 ## 2025-07-03 fail2ban some more
 
-date: 2025-07-08, from: Alex Schroeder's Blog
+date: 2025-07-09, from: Alex Schroeder's Blog
 
 <h1 id="2025-07-03-fail2ban-some-more">2025-07-03 fail2ban some more</h1>
 
@@ -356,11 +595,281 @@ total: 20
 
 <p>I&rsquo;ve decided to lower the limit from 30 down to 10 expensive requests per ASN! 🫣</p>
 
-<p>And with that, 6922 networks are now banned.</p> 
+<p>And with that, 6922 networks are now banned.</p>
+
+<p><strong>2025-07-09</strong>. As I was trying to start my netnews client (<code>tin</code>), I got a message saying that it wouldn&rsquo;t connect to the server as load was too high (over 17). Wow! Now here&rsquo;s a client that respects the server&rsquo;s needs!</p>
+
+<p>I lowered my limit from 10 to 5 and manually ran my command without waiting for the cron job:</p>
+
+<pre><code>2h-access-log !^social $MY_IP_NUMBERS \
+| egrep '\baction=(rss|rc)\&amp;|\bsearch=' \
+| awk '{print $2}' \
+| /root/bin/asncounter --top 50 --no-prefixes 2&gt;/dev/null \
+| awk '/^[0-9]/ &amp;&amp; $1&gt;5 { print $3 }' \
+| ifne xargs /root/bin/asn-networks \
+| ifne xargs fail2ban-client set butlerian-jihad banip
+</code></pre>
+
+<p>Ran it a while ago: 2187 banned. Ran it again just now: 430 banned.</p>
+
+<p>The distribution was very international. My limit goes against that first number, the count.</p>
+
+<pre><code>count	percent	ASN	AS
+10	1.41	8075	MICROSOFT-CORP-MSN-AS-BLOCK, US
+9	1.27	26599	TELEFONICA BRASIL S.A, BR
+9	1.27	8193	BRM-AS, UZ
+8	1.13	9299	IPG-AS-AP Philippine Long Distance Telephone Company, PH
+8	1.13	7552	VIETEL-AS-AP Viettel Group, VN
+7	0.99	60653	FEEDLY-DEVHD, US
+7	0.99	396982	GOOGLE-CLOUD-PLATFORM, US
+6	0.85	45475	AMURINET-NZ Amuri Net, NZ
+6	0.85	203214	HULUMTELE, IQ
+6	0.85	5650	FRONTIER-FRTR, US
+6	0.85	45609	BHARTI-MOBILITY-AS-AP Bharti Airtel Ltd. AS for GPRS Service, IN
+6	0.85	6939	HURRICANE, US
+5	0.7	28210	GIGA MAIS FIBRA TELECOMUNICACOES S.A., BR
+5	0.7	18881	TELEFONICA BRASIL S.A, BR
+5	0.7	262773	PROXXIMA TELECOMUNICACOES SA, BR
+5	0.7	11427	TWC-11427-TEXAS, US
+5	0.7	28126	BRISANET SERVICOS DE TELECOMUNICACOES S.A, BR
+5	0.7	10796	TWC-10796-MIDWEST, US
+4	0.56	199739	EARTHLINK-DMCC-IQ, AE
+4	0.56	6167	CELLCO-PART, US
+4	0.56	36903	MT-MPLS, MA
+4	0.56	27882	Telefonica Celular de Bolivia S.A., BO
+4	0.56	6057	Administracion Nacional de Telecomunicaciones, UY
+4	0.56	15557	LDCOMNET --- I3Dnet ---, FR
+4	0.56	25019	SAUDINETSTC-AS, SA
+4	0.56	8452	TE-AS TE-AS, EG
+4	0.56	22927	Telefonica de Argentina, AR
+4	0.56	133661	NETPLUS-AS Netplus Broadband Services Private Limited, IN
+4	0.56	17639	CONVERGE-AS Converge ICT Solutions Inc., PH
+3	0.42	17072	TOTAL PLAY TELECOMUNICACIONES SA DE CV, MX
+3	0.42	39891	ALJAWWALSTC-AS, SA
+3	0.42	9038	BAT-AS9038, JO
+3	0.42	28649	Desktop Sigmanet Comunicacao Multimidia SA, BR
+3	0.42	212238	CDNEXT, GB
+3	0.42	53006	ALGAR TELECOM SA, BR
+3	0.42	43766	MTC-KSA-AS, SA
+3	0.42	206206	KNET, IQ
+3	0.42	22773	ASN-CXA-ALL-CCI-22773-RDC, US
+3	0.42	9541	CYBERNET-AP Cyber Internet Services Pvt Ltd., PK
+3	0.42	52613	GIGA MAIS FIBRA TELECOMUNICACOES S.A. VIP, BR
+3	0.42	216071	VDSINA, AE
+2	0.28	5713	SAIX-NET, ZA
+2	0.28	5416	Internet Service Provider, BH
+2	0.28	28343	UNIFIQUE TELECOMUNICACOES SA, BR
+2	0.28	12389	ROSTELECOM-AS PJSC Rostelecom. Technical Team, RU
+2	0.28	3462	HINET Data Communication Business Group, TW
+2	0.28	7713	TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
+2	0.28	21299	KAR-TEL-AS Almaty, Republic of Kazakhstan, KZ
+2	0.28	5384	EMIRATES-INTERNET Emirates Internet, AE
+2	0.28	36884	MAROCCONNECT, MA
+total: 710
+</code></pre>
+
+<p>At least we can all agree that it&rsquo;s no longer just Emacs Wiki and China! Remember <a href="https://alexschroeder.ch/view/2024-09-15-emacs-china">2024-11-25 Emacs Wiki and it&rsquo;s still China</a> and <a href="https://alexschroeder.ch/view/2024-11-25-emacs-china">2024-11-25 Emacs Wiki and it&rsquo;s still China</a>. Now it&rsquo;s Community Wiki and the USA, Brazil, Uzbekistan, the Philippines, Vietnam, New Zealand, Iraq, India, the Arab Emirates, Morocco, Bolivia, Uruguay, France, Saudi Arabia, Egypt, Argentina, Mexico, Jordan, Great Britain, Pakistan, South Africa, Bahrain, Russia, Taiwan, Indonesia, Kazakhstan.</p>
+
+<p>With apologies to Mercutio: <em>A plague on all your houses!</em></p> 
 
 <br> 
 
 <https://alexschroeder.ch/view/2025-07-03-fail2ban-some-more>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-09, from: Dave Winer's Scripting News)
+
+How did they get soldiers <a href="https://bsky.app/profile/nytimes.com/post/3lthrhk7ut22v">to do this</a>? American soldiers? We are truly lost. Were they masked too? What happened to their honor? Why the fuck would an American soldier need to hide their identity? Anywhere, but esp in America? Why don’t they put down their weapons? 
+
+<br> 
+
+<http://scripting.com/2025/07/09.html#a143225>
+
+---
+
+##  I&#8217;m not ignoring your message – I&#8217;m overwhelmed by the tyranny of... 
+
+date: 2025-07-09, updated: 2025-07-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047108-im-not-ignoring-your-mess>
+
+---
+
+## Why I want RSS ==> ActivityPub
+
+date: 2025-07-09, from: Dave Winer's Scripting News
+
+<p>I've been asked by a number of people why I want a bridge from RSS to ActivityPub. Fair question. Here's why. </p>
+<p>WordPress has demonstrated that most of the features of the web in regard to documents also work in Mastodon, via ActivityPub. </p>
+<p>To demonstrate here's a <a href="https://daveverse.org/2025/07/09/example-of-a-wordpress-post-in-mastodon/">WordPress post</a>, and because there is a bridge between it and ActivityPub, you can read the same post <a href="https://mastodon.social/@scripting@daveverse.org/114823624237979477">in Mastodon</a>, which also supports ActivityPub. </p>
+<p>To really nail that down: <a href="https://daveverse.org/2025/07/09/example-of-a-wordpress-post-in-mastodon/">WordPress version</a>, <a href="https://mastodon.social/@scripting@daveverse.org/114823624237979477">Mastodon version</a>.</p>
+<p>Pretty remarkable, yes?</p>
+<p>Here's a list of the features I was using in that demo.</p>
+<ul>
+<li>The post has a title (it's optional).</li>
+<li>Simple styling: bold, italic, numbered lists, bulleted lists.</li>
+<li>Hyperlinks, the defining feature of the web.</li>
+<li>I can edit my post. </li>
+<li>No character limit.</li>
+</ul>
+<p>These are most of the features of <a href="https://textcasting.org/">textcasting</a>, a spec I published in 2022 to list the features of the web I wanted from the twitter-like services, that call themselves part of the web, which is fairly dishonest because they don't support most of the basic features of the web. But Mastodon <i>does</i> support them. </p>
+<p>But so far they are only accessible via WordPress. And as much as I love WordPress, and am thankful it exists, that is not enough. </p>
+<p>So here's the punchline: Why I want the RSS to ActivityPub bridge. </p>
+<p>As a developer, I can easily create apps that generate RSS feeds. I just want Mastodon to understand those feeds as well as they understand WordPress. And that means <b>we need a bridge for developers that supports all these features.</b> </p>
+<p>Hope that helps! :-)</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/09/133129.html?title=whyIWantRssActivitypub>
+
+---
+
+## Thunderbird ESR is here: Mozilla's email client adds new functions
+
+date: 2025-07-09, updated: 2025-07-09, from: Liam Proven's articles at the Register
+
+<h4>Version 140 has built-in MS Exchange support – and a year&#39;s updates ahead</h4>
+      <p>The latest version of the messaging client from Mozilla subsidiary MZLA has a bunch of useful new features, and will get updated until mid 2026.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/09/new_thunderbird_esr_is_here/>
+
+---
+
+## Office Hours: Where’s the tipping point?
+
+date: 2025-07-09, from: Robert Reich's blog
+
+What will it take for most Americans to demand an end to Trump&#8217;s dictatorship? 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-wheres-the-tipping-point>
+
+---
+
+## July 8, 2025 
+
+date: 2025-07-09, from: Heather Cox Richardson blog
+
+One hundred and eleven people are dead and more than 160 are still missing in Texas after Friday&#8217;s tragic flood. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-8-2025>
+
+---
+
+## Elon Musk’s Lawyers Claim He ‘Does Not Use a Computer’
+
+date: 2025-07-09, updated: 2025-07-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wired.com/story/elon-musk-computer-sam-altman/>
+
+---
+
+## Grok Praises Hitler, Shocking No One
+
+date: 2025-07-09, updated: 2025-07-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://gizmodo.com/round-them-up-grok-praises-hitler-as-elon-musks-ai-tool-goes-full-nazi-2000626156>
+
+---
+
+##  From Marcin Wichary, a history of Mac settings (1984-2004). The article includes... 
+
+date: 2025-07-09, updated: 2025-07-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047116-from-marcin-wichary-a-his>
+
+---
+
+## Wednesday 9 July, 2025
+
+date: 2025-07-08, from: John Naughton's online diary
+
+On reflection… Seen yesterday in a small town in Burgundy. ______________________________  Quote of the Day ”That would be a good thing for them to cut on my tombstone: Wherever she went, including here, it was against her better judgment.” Dorothy &#8230; <a href="https://memex.naughtons.org/wednesday-9-july-2025/41001/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-9-july-2025/41001/>
+
+---
+
+## ★ Jeff Williams, 62, Is Retiring as Apple’s COO
+
+date: 2025-07-08, updated: 2025-07-08, from: Daring Fireball
+
+Post-Williams, Apple’s operations will clearly remain under excellent, experienced leadership under Sabih Khan. But the company will be left with its design teams reporting directly to Cook, leaving it less clear whose taste, [ultimately], is steering the work of the company into the future. 
+
+<br> 
+
+<https://daringfireball.net/2025/07/jeff_williams_is_retiring_as_coo>
+
+---
+
+##  A Masterclass on Status, Power, & the Economy with Tressie McMillan Cottom.... 
+
+date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047102-a-masterclass-on-status-p>
+
+---
+
+##  Did Shakespeare Write Hamlet While He Was Stoned? Examining the evidence that... 
+
+date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047104-did-shakespeare-write-ham>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-08, from: Dave Winer's Scripting News)
+
+<a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lthfkwae522d">On Bluesky</a>: "The web is still there under all this michegas, ready to be magical again any time we want it to." 
+
+<br> 
+
+<http://scripting.com/2025/07/08.html#a212045>
+
+---
+
+##  ChatGPT kept directing people to use a non-existent feature on Soundslice&#8230;so the... 
+
+date: 2025-07-08, updated: 2025-07-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047110-chatgpt-kept-directing-pe>
 
 ---
 

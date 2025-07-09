@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-07-09 06:09:35
+updated: 2025-07-09 14:09:06
 ---
 
 # games
 
-(date: 2025-07-09 06:09:35)
+(date: 2025-07-09 14:09:06)
+
+---
+
+## What time does Tony Hawk’s Pro Skater 3+4 release?
+
+date: 2025-07-09, updated: 2025-07-09, from: Polygon Website
+
+Secret tapes and the praise of fans await in Tony Hawk&#8217;s Pro Skater 3+4, the modernized version of two classic skate games. This new version is about to be released and it comes with an updated roster of skaters, more challenges to complete, and more modes to explore. Tony Hawk&#8217;s Pro Skater 3+4 is not [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/611781/tony-hawk-pro-skater-3-4-thps-release-time-edt-pdt>
+
+---
+
+## GameStop’s stapled Switch 2 has gone from PR nightmare to absolute goldmine
+
+date: 2025-07-09, updated: 2025-07-09, from: Polygon Website
+
+Console releases only happen every few years, so they’re a huge occasion for major retailers. That’s especially the case for an enthusiast storefront like GameStop; early adopters will flock to specialist stores before considering mainstream options that may not offer the same breadth of options. You’d think that when news started to spread that GameStop [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/612022/gamestop-switch-2-stapler-auction-ebay-ryan-cohen>
+
+---
+
+## Peak went from a canceled game that couldn’t get funding to selling millions on Steam
+
+date: 2025-07-09, updated: 2025-07-09, from: Polygon Website
+
+The folks at Aggro Crab were feeling the fatigue. Their previous game, the underwater Souls-like Another Crab’s Treasure, was their biggest undertaking since the studio was started back in 2019. While the creative action game had been received well by reviewers and players alike, it also took three years to make. A prototype for their [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/611853/peak-steam-game-sales-survival-game-making-of-development>
+
+---
+
+## Slivers are back in Magic: The Gathering in a way players didn&#8217;t expect
+
+date: 2025-07-09, updated: 2025-07-09, from: Polygon Website
+
+Magic: The Gathering players have a refined concept of “cute” — one that includes parasitic, shapeshifting creatures that can ravage entire ecosystems. Old and new aficionados of the popular trading card game know that I’m talking about slivers, the creature type introduced in Tempest, 1997’s MTG expansion set. Slivers have always been a popular creature [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/611786/slivers-return-edge-of-eternities-cards>
+
+---
+
+## Cyberpunk 2077 leads a big drop of free PlayStation Plus July games
+
+date: 2025-07-09, updated: 2025-07-09, from: Polygon Website
+
+Are you somebody who has yet to hit the streets of Night City in Cyberpunk 2077? Consider today your lucky day, as the dystopian open-world RPG is now free on PlayStation Plus as part of the service&#8217;s 15th anniversary celebration. The celebration also includes a special 30% discount for Cyberpunk 2077: Phantom Liberty DLC — [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-play/611959/playstation-plus-new-free-games-july-2025>
+
+---
+
+## How Dispatch survived COVID-19 and evolved into a familiar Telltale-like game
+
+date: 2025-07-09, updated: 2025-07-09, from: Polygon Website
+
+Like any superhero worth their salt, Dispatch has an interesting origin story. AdHoc Studio was founded in 2018 by Telltale vets Michael Choung, Nick Herman, Dennis Lenart, and Pierre Shorette. Originally, AdHoc was going to work in multimedia spaces, and not strictly games, with chief creative officer Shorette telling Variety in 2019, “As a group [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/611909/dispatch-preview-adhoc-interview>
+
+---
+
+## Toad is such a little stinker in Super Mario Strikers
+
+date: 2025-07-09, updated: 2025-07-09, from: Polygon Website
+
+No matter the koopa-related danger, Toad has always stood by the side of Mario, Luigi, and Peach with a cheery smile. Tested by everything from face-offs with Bowser to tracking treasures to 18 holes of obstacle-heavy golf and Mario’s cursed parties, the loyal servant of the Mushroom Kingdom has been an unshakeable source of positivity [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/611669/super-mario-strikers-toad>
+
+---
+
+## Twisted Metal season 2 should actually deliver on the game&#8217;s vehicular carnage
+
+date: 2025-07-09, updated: 2025-07-09, from: Polygon Website
+
+Twisted Metal season 2 is set to premiere on July 31, and based on the trailer, it appears the Peacock show will finally be taking its in-game premise of a demolition derby to heart with a proper tournament. The first season detoured from adapting the video games in a straightforward way to give our protagonist, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/611947/twisted-metal-season-2-trailer-release-date>
+
+---
+
+## What time does Persona 5 The Phantom X version 1.1 release?
+
+date: 2025-07-09, updated: 2025-07-09, from: Polygon Website
+
+Persona 5: The Phantom X version 1.1 is coming on Thursday, July 10 with potentially new characters and story content. The first update is on its way, but what’s actually in the update is a little ambiguous. All we know so far is when the update will occur, but as Persona 5: The Phantom X [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/persona-5-phantom-x-guides/611474/version-1-1-release-time-maintenance-end-start-zone-utc>
 
 ---
 
@@ -78,18 +186,6 @@ Switch the power on in Missile Command Delta, and you shall see a magnificent Co
 <br> 
 
 <https://www.polygon.com/guides/611413/missile-command-delta-breaker-room-puzzle-solution>
-
----
-
-## What time does Persona 5 The Phantom X version 1.1 release?
-
-date: 2025-07-08, updated: 2025-07-08, from: Polygon Website
-
-Persona 5: The Phantom X version 1.1 is coming on Thursday, July 10 with potentially new characters and story content. The first update is on its way, but what’s actually in the update is a little ambiguous. All we know so far is when the update will occur, but as Persona 5: The Phantom X [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/persona-5-phantom-x-guides/611474/version-1-1-release-time-maintenance-end-start-zone-utc>
 
 ---
 

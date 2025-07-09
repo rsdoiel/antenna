@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-07-09 06:09:36
+updated: 2025-07-09 14:09:07
 ---
 
 # libraries
 
-(date: 2025-07-09 06:09:36)
+(date: 2025-07-09 14:09:07)
 
 ---
 
@@ -106,7 +106,7 @@ Soesanto, Stefan
 
 date: 2025-07-07, from: Association of Research Libraries News
 
-<p>Last Updated on July 8, 2025, 3:18 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 8 &#124; Wednesday, July 9 &#124; Thursday,...</p>
+<p>Last Updated on July 9, 2025, 3:52 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 8 &#124; Wednesday, July 9 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-7-10/">Day in Review (July 7–10)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

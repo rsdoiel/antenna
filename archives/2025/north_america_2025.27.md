@@ -1,11 +1,145 @@
 ---
 title: north america
-updated: 2025-07-09 06:09:29
+updated: 2025-07-09 14:09:01
 ---
 
 # north america
 
-(date: 2025-07-09 06:09:29)
+(date: 2025-07-09 14:09:01)
+
+---
+
+## Draft Jokes and Drone Strikes: The Dark Humor of a Doomed Generation
+
+date: 2025-07-09, from: The Contrarian
+
+WWIII Is Trending Again&#8212;And Gen Z Is Laughing Through It 
+
+<br> 
+
+<https://contrarian.substack.com/p/draft-jokes-and-drone-strikes-the>
+
+---
+
+## My Dad Got a Deepfake Scam Call. Marco Rubio Got One, Too.
+
+date: 2025-07-09, from: The Contrarian
+
+AI impersonation is going mainstream, and Trump&#8217;s government isn&#8217;t ready. 
+
+<br> 
+
+<https://contrarian.substack.com/p/my-dad-got-a-deepfake-scam-call-marco>
+
+---
+
+## From Project 2025 and the ‘One Big Beautiful Bill’ — America did this to America
+
+date: 2025-07-09, from: The Contrarian
+
+This isn't just about one election; Americans have been voting against their own interests for a long time. 
+
+<br> 
+
+<https://contrarian.substack.com/p/from-project-2025-and-the-one-big>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-07-09, from: The Contrarian
+
+Wednesday: Scientists protest on Capitol Hill, plus protests in Boston, Charlottesville, and the Atlanta suburbs, planning for July 17, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Help is here!
+
+date: 2025-07-09, from: The Contrarian
+
+A cartoon by Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/help-is-here>
+
+---
+
+##  A Cursed New Crypto Bank Could Tank The Economy 
+
+date: 2025-07-09, from: The Lever News
+
+ The nationally chartered Erebor Bank could add legitimacy and value to crypto assets, but risks destabilizing the financial system.  
+
+<br> 
+
+<https://www.levernews.com/a-cursed-new-crypto-bank-could-tank-the-economy/>
+
+---
+
+## JFK cited America’s ‘moral obligations’ in urging creation of USAID
+
+date: 2025-07-09, from: The Contrarian
+
+'A program of assistance to the underdeveloped nations must continue because the nation's interest and the cause of political freedom require it,' President Kennedy said. 
+
+<br> 
+
+<https://contrarian.substack.com/p/jfk-cited-americas-moral-obligations>
+
+---
+
+## A 100-years flood
+
+date: 2025-07-09, from: The Contrarian
+
+A cartoon by RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-100-years-flood>
+
+---
+
+## Trump’s FEMA Proposals and Feud With Gavin Newsom Could Devastate California’s Disaster Response
+
+date: 2025-07-09, from: Capital and Main
+
+<p>Changes to FEMA could cost the state billions as climate-driven disasters intensify.</p>
+<p>The post <a href="https://capitalandmain.com/trumps-fema-proposals-and-feud-with-gavin-newsom-could-devastate-californias-disaster-response">Trump’s FEMA Proposals and Feud With Gavin Newsom Could Devastate California’s Disaster Response</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/trumps-fema-proposals-and-feud-with-gavin-newsom-could-devastate-californias-disaster-response>
+
+---
+
+## A warning bell for all women in America
+
+date: 2025-07-09, from: The Contrarian
+
+The gap in access is only going to stretch further and affect more of us in the years to come. We better make sure our voices are heard. 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-warning-bell-for-all-women-in-america>
+
+---
+
+## Coffee with the Contrarians and special guest 07/09
+
+date: 2025-07-09, from: The Contrarian
+
+A recording from Coffee with Contrarians LIVE 07/08 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-and-special>
 
 ---
 
@@ -158,18 +292,6 @@ date: 2025-07-08, from: Capital and Main
 <br> 
 
 <https://capitalandmain.com/with-a-jar-of-blood-as-evidence-detained-man-tells-immigration-judge-i-am-dying-little-by-little>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-07-08, from: The Contrarian
-
-Tuesday: July 4 protests in Florida, New Jersey, and North Carolina, anti-ICE protests, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

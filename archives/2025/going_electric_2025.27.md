@@ -1,15 +1,215 @@
 ---
 title: going electric
-updated: 2025-07-09 06:09:39
+updated: 2025-07-09 14:09:09
 ---
 
 # going electric
 
-(date: 2025-07-09 06:09:39)
+(date: 2025-07-09 14:09:09)
 
 ---
 
-## ‘A Tougher Sell:’ $20,000 Slate Truck Slammed By The End Of EV Tax Credits
+## Here’s our closest look at the Kia EV2 caught testing in the Alps [Video]
+
+date: 2025-07-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Kia-EV2-closest-look.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The EV2 may be Kia’s smallest electric vehicle, but it has a big presence on the road. Kia promises it won’t feel so small when you’re inside, thanks to clever storage and flexible seating. After a prototype was spotted testing in the Alps, we are getting our closest look at the <a href="https://electrek.co/guides/kia-ev2/">Kia EV2</a> so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev2" data-layer-viewtype="unknown" data-post-id="424163" href="https://electrek.co/2025/07/09/closest-look-kia-ev2-caught-in-alps-video/#more-424163" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/09/closest-look-kia-ev2-caught-in-alps-video/>
+
+---
+
+## Volkswagen’s 47% BEV sales jump includes a 24% boost in the US
+
+date: 2025-07-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Volkswagen-ID.4-production-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://www.volkswagen-group.com/en" target="_blank" rel="noreferrer noopener">Volkswagen Group</a>‘s global EV deliveries surged by about 50% in the first half of 2025 year-over-year, with 465,500 battery electric vehicles (BEVs) delivered globally by the end of June.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="424152" href="https://electrek.co/2025/07/09/volkswagen-47-percent-ev-sales-jump-includes-a-24-boost-in-the-us/#more-424152" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/09/volkswagen-47-percent-ev-sales-jump-includes-a-24-boost-in-the-us/>
+
+---
+
+## Lamppost Chargers, Curbside Plugs: How New York Is Pushing Back On Trump's EV Cuts
+
+date: 2025-07-09, from: Inside EVs News
+
+The Empire State just awarded millions to companies specializing in connecting EVs to the grid, plus those making curbside chargers. 
+
+<br> 
+
+<https://insideevs.com/news/765318/new-york-curbside-ev-charger-voltpost/>
+
+---
+
+## The new Nissan LEAF EV is already facing production cuts, but that’s not the whole story
+
+date: 2025-07-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/New-Nissan-LEAF-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Nissan is already pulling back production plans for the new<a href="https://electrek.co/guides/nissan-leaf/"> LEAF</a>, which is set to launch later this year. As it scrambles to turn things around, this could further complicate Nissan’s recovery plan. And there’s even more going on behind the scenes.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,nissan-leaf" data-layer-viewtype="unknown" data-post-id="423860" href="https://electrek.co/2025/07/09/nissan-cuts-new-leaf-ev-production-but-thats-not-the-whole-story/#more-423860" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/09/nissan-cuts-new-leaf-ev-production-but-thats-not-the-whole-story/>
+
+---
+
+## Prime Day-2 Green Deals: Anker SOLIX F3800 Plus, GE 2-in-1 washer/dryer, Lectric e-bikes, EcoFlow, Jackery, Aiper, Greenworks, more
+
+date: 2025-07-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Anker-SOLIX-F3800-Plus-Portable-Power-Station-at-home-lifestyle-1-e1747676270355.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s the second day of the Prime Day seasonal savings and we’ve got another jam-packed edition of Green Deals focusing on some of the best discounts we’ve spotted so far, with all the others rounded up in our <a href="https://electrek.co/2025/07/09/july-prime-day-2025-green-deals-evs-power-stations-tools-appliances-more/">Prime Day Green Deals hub here</a>, which is regularly being updated throughout the days, so be sure to check back often. Leading our top three picks today is <a href="https://9to5toys.com/2025/07/09/anker-solix-f3800-plus-new-low-prices-from-2564/">Anker’s SOLIX F3800 Plus Portable Power Station</a> and its bundle packages, which are seeing up to $7,994 in savings to new low prices <a href="https://9to5toys.com/2025/07/09/anker-solix-f3800-plus-new-low-prices-from-2564/">starting from $2,564</a>. Next, we have <a href="https://9to5toys.com/2025/07/07/ge-2-in-1-smart-combo-electric-washer-dryer-1750-low/">GE’s Smart Combo Electric Washer &amp; Dryer</a> with Ventless Heat Pump at its <a href="https://9to5toys.com/2025/07/07/ge-2-in-1-smart-combo-electric-washer-dryer-1750-low/">$1,750 low</a>, as well as <a href="https://9to5toys.com/2025/07/08/lectric-better-than-prime-sale-starting-from-799/">Lectric’s full Better Than Prime Day sale</a> that is taking up to $654 off e-bike bundles <a href="https://9to5toys.com/2025/07/08/lectric-better-than-prime-sale-starting-from-799/">starting from $799</a>. All that and much more are waiting for you below.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="424117" href="https://electrek.co/2025/07/09/prime-day-2-green-deals-anker-solix-f3800-plus-ge-lectric-more/#more-424117" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/09/prime-day-2-green-deals-anker-solix-f3800-plus-ge-lectric-more/>
+
+---
+
+## Is the Hyundai IONIQ 5 the best EV lease deal at just $179 a month?
+
+date: 2025-07-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Hyundai-IONIQ-5-lease.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The 2025 Hyundai IONIQ 5 got a major glow up with extra driving range, a sleek interior and exterior facelift, and even Tesla Supercharger access with an added NACS port. With leases starting at just $179 per month, the <a href="https://electrek.co/guides/hyundai-ioniq-5/">Hyundai IONIQ 5</a> might be your best bet to get into an EV right now.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="424102" href="https://electrek.co/2025/07/09/hyundai-ioniq-5-best-ev-lease-deal-at-179-month/#more-424102" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/09/hyundai-ioniq-5-best-ev-lease-deal-at-179-month/>
+
+---
+
+## Ford’s Giving Away EV Chargers—Until The Tax Credit Runs Out
+
+date: 2025-07-09, from: Inside EVs News
+
+The Ford Power Promise, which covers a home Level 2 charger and installation, has been extended through Sept. 30. 
+
+<br> 
+
+<https://insideevs.com/news/765313/ford-power-promise-charger-tax-credit/>
+
+---
+
+## Tesla Semi efficiency improves in real-world trucking test covering 4,494 miles over 3 weeks
+
+date: 2025-07-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Tesla-Semi-Costco.jpg?quality=82&#038;strip=all&#038;w=1478" /></div><p>The Tesla Semi, Tesla’s electric Class 8 semi-truck, saw its efficiency improve in a new real-world trucking test covering 4,494 miles over three weeks.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-semi" data-layer-viewtype="unknown" data-post-id="424088" href="https://electrek.co/2025/07/09/tesla-semi-efficiency-improves-in-real-world-trucking-test/#more-424088" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/09/tesla-semi-efficiency-improves-in-real-world-trucking-test/>
+
+---
+
+## Range Rover finally has a logo, just in time for the brand’s first electric SUV
+
+date: 2025-07-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Range-Rover-first-logo-EV-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/range-rover/">Range Rover</a> now has its own logo for the first time. The luxury automaker is unveiling a sleek new look as it gears up to launch its first electric SUV later this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="range-rover,range-rover-electric" data-layer-viewtype="unknown" data-post-id="424074" href="https://electrek.co/2025/07/09/range-rover-finally-has-a-logo-just-first-electric-suv/#more-424074" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/09/range-rover-finally-has-a-logo-just-first-electric-suv/>
+
+---
+
+## MAN electric semi truck gets real as series production begins
+
+date: 2025-07-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/MAN_EV_JPG.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://electrek.co/2024/04/13/man-to-build-200-hydrogen-trucks-to-prove-that-hydrogen-doesnt-work/">MAN Trucks are always good for a headline</a>, but despite the company’s pro-battery bluster they’ve barely managed to get 200 battery electric semi trucks on the road … until now that is: <strong>the company announced that series production of its heavy-duty eTruck prime mover is officially underway</strong>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,man-truck-bus" data-layer-viewtype="unknown" data-post-id="424057" href="https://electrek.co/2025/07/09/man-electric-semi-truck-gets-real-as-series-production-begins/#more-424057" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/09/man-electric-semi-truck-gets-real-as-series-production-begins/>
+
+---
+
+## The Numbers Are In: Volkswagen Smokes Tesla Again
+
+date: 2025-07-09, from: Inside EVs News
+
+The Volkswagen Group's electric-vehicle hot streak continues. Plus: Now's the time to buy an EV, and Mercedes-Benz is going to the mall. 
+
+<br> 
+
+<https://insideevs.com/news/765283/volkswagen-tesla-sales-europe-cm/>
+
+---
+
+## NYC creates new department to hassle e-bike delivery riders
+
+date: 2025-07-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/NYC-bike-street-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>New York City is creating a new department aimed at cracking down on e-bike delivery workers, and critics say it’s the latest move in a growing pattern of targeting micromobility riders instead of the real threats on the road.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,new-york" data-layer-viewtype="unknown" data-post-id="423754" href="https://electrek.co/2025/07/09/nyc-creates-new-department-to-hassle-e-bike-delivery-riders/#more-423754" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/09/nyc-creates-new-department-to-hassle-e-bike-delivery-riders/>
+
+---
+
+## BYD is the first to unlock L4 smart parking and it comes with a surprise guarantee
+
+date: 2025-07-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/BYD-L4-smart-parking-5.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s EV leader, <a href="https://electrek.co/guides/byd/">BYD</a>, just reached another major breakthrough: its smart parking feature now offers L4 autonomy. To sweeten the deal, BYD says it will fully cover any losses associated with the new feature.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="424034" href="https://electrek.co/2025/07/09/byd-unlocks-l4-smart-parking-and-offers-surprise-guarantee/#more-424034" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/09/byd-unlocks-l4-smart-parking-and-offers-surprise-guarantee/>
+
+---
+
+## Slate Truck: What The End Of Tax Credits Means For The $20,000 EV
 
 date: 2025-07-09, from: Inside EVs News
 
@@ -33,7 +233,7 @@ date: 2025-07-09, from: Electrek Feed
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="423956" href="https://electrek.co/2025/07/09/the-backup-battery-choice-you-didnt-know-you-had-li-ion-or-vanadium-flow/#more-423956" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,lithium-ion-battery,rooftop-solar,tesla-powerwall" data-layer-viewtype="unknown" data-post-id="423956" href="https://electrek.co/2025/07/09/the-backup-battery-choice-you-didnt-know-you-had-li-ion-or-vanadium-flow/#more-423956" class="more-link">more…</a> 
 
 <br> 
 
@@ -66,6 +266,22 @@ Three PHEV pickups were driven in the Australian outback alongside three diesel 
 <br> 
 
 <https://insideevs.com/news/765241/phev-pickup-test-vs-diesel-byd-shark-gwm-cannon-ford-ranger/>
+
+---
+
+## July Prime Day 2025 Green Deals: EVs, power stations, tools, appliances, more
+
+date: 2025-07-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Amazon-Prime-Day_ev_f9a8f9.png?w=1600" /></div><p>It’s that time of the year once again, with Amazon’s Prime Day officially kicking off with plenty of <a href="https://9to5toys.com/guides/green-deals/">amazing Green Deals</a> and beyond – with several even continuing from earlier July 4th events. The savings train has officially rolled into the station, and this year we’re getting four days of deals that are dropping prices to some of the lowest of the year, alongside many of our favorite eco-friendly tech brands also offering direct parallel sales too. You’ll find price cuts on EVs, power stations, electric tools, ENERGY STAR-certified appliances, and much more below, curated together in this one-stop shopping hub. Don’t miss your chance to electrify your life at the best prices while they last during this event. We will be regularly updating this hub over the course of the event, so check back later if nothing catches your eye yet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="423670" href="https://electrek.co/2025/07/09/july-prime-day-2025-green-deals-evs-power-stations-tools-appliances-more/#more-423670" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/09/july-prime-day-2025-green-deals-evs-power-stations-tools-appliances-more/>
 
 ---
 

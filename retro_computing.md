@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-07-09 06:09:38
+updated: 2025-07-09 14:09:08
 ---
 
 # retro computing
 
-(date: 2025-07-09 06:09:38)
+(date: 2025-07-09 14:09:08)
+
+---
+
+## b.log 2025/07/09 - Palestine Action, Throwing shade.
+
+date: 2025-07-09, from: Richard Murray's blog
+
+Palestine Action, Throwing shade. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250709>
 
 ---
 

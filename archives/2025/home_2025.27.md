@@ -1,11 +1,151 @@
 ---
 title: home
-updated: 2025-07-09 06:09:37
+updated: 2025-07-09 14:09:08
 ---
 
 # home
 
-(date: 2025-07-09 06:09:37)
+(date: 2025-07-09 14:09:08)
+
+---
+
+## In India, a Daring New Tiny House Shows What Social Housing Can Be
+
+date: 2025-07-09, from: Dwell
+
+Working pro bono for a single mother and her two children, No Architects creates an experimental home with a vaulted roof, permeable walls, and custom furniture. 
+
+<br> 
+
+<https://www.dwell.com/article/koodu-weaving-a-nest-no-architects-affordable-brick-house-kerala-india-f4d33068>
+
+---
+
+## Car Dealerships’ Secret Sticker System (And How to Use It to Your Advantage)
+
+date: 2025-07-09, from: Family Handyman Blog
+
+<p>Spotting a small sticker or dot on a dealership car’s windshield might signal a hidden opportunity. Learn how this subtle sign could lead to serious savings on your next vehicle.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/car-dealership-sticker/">Car Dealerships’ Secret Sticker System (And How to Use It to Your Advantage)</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/car-dealership-sticker/>
+
+---
+
+## Debadging 101: Is It Safe (and Legal) to Remove Car Logos?
+
+date: 2025-07-09, from: Family Handyman Blog
+
+<p>Whether you desire a streamlined look or are making a political statement, here's how to legally and safely remove the brand badge from your car.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/debadge-remove-brand-logo-from-car/">Debadging 101: Is It Safe (and Legal) to Remove Car Logos?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/debadge-remove-brand-logo-from-car/>
+
+---
+
+## Stop Using These Grinder Discs Immediately
+
+date: 2025-07-09, from: Family Handyman Blog
+
+<p>If you're an avid DIYer, you should be aware that DEWALT Grinder Flap Discs are being recalled due to safety hazards that they pose. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/dewalt-grinder-flap-discs-recall/">Stop Using These Grinder Discs Immediately</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/dewalt-grinder-flap-discs-recall/>
+
+---
+
+## This $875K Bay Area Condo Stems From the Same Design Style as Sea Ranch
+
+date: 2025-07-09, from: Dwell
+
+Newly renovated by Framestudio, the wood-clad home typifies the Third Bay Tradition—and it’s just a stone’s throw from the beach. 
+
+<br> 
+
+<https://www.dwell.com/article/third-bay-condo-renovation-framestudio-richmond-california-real-estate-471985aa>
+
+---
+
+## How to Grow and Care for Bacopa (Water Hyssop)
+
+date: 2025-07-09, from: The Gardener's Path
+
+<p>Bacopa monnieri, also known as water hyssop or brahmi, is a moisture-loving herb that thrives in gardens, ponds, and even aquariums. With small, succulent leaves and delicate flowers, it’s known for its use in supplements to support memory and reduce anxiety. Learn how to grow and care for bacopa in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/grow-bacopa/">How to Grow and Care for Bacopa (Water Hyssop)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/grow-bacopa/>
+
+---
+
+## Three Sisters (and Their Families) Share This Prefab Beach House
+
+date: 2025-07-09, from: Dwell
+
+The Queensland retreat’s three units have sets of rooms that can be utilized to accommodate a given group dynamic. 
+
+<br> 
+
+<https://www.dwell.com/article/blok-three-sisters-house-blok-modular-vokes-and-peters-33401e85>
+
+---
+
+## Sofa Sagas: Every Couch Search Is Like a Love Story
+
+date: 2025-07-09, from: Dwell
+
+After five years of trial, error, and occasional heartbreak, I learned that finding furniture is a lot like dating. 
+
+<br> 
+
+<https://www.dwell.com/article/sofa-saga-floyd-burrow-583a701b>
+
+---
+
+## The Amazon Home Decor Finds That Interior Designers Love
+
+date: 2025-07-09, from: Sunset Magazine - Living in the West
+
+Interior designers shop on Amazon, too. They shared their favorite home decor picks with us to upgrade your space. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/interior-designers-favorite-amazon-products>
+
+---
+
+## Homepage 2025
+
+date: 2025-07-09, from: Sunset Magazine - Living in the West
+
+Decorating &amp; Design, Home Tours This ADU Was Built to Solve What the Main House Was Missing The functional design fits in just right on the property.  Read more: This ADU&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## A Tight, Dated Kitchen Was Creatively Reimagined for a Family of 6
+
+date: 2025-07-09, from: Sunset Magazine - Living in the West
+
+A 1950s kitchen had outdated cabinets and backsplash. Designer Alice Cheng transformed it into a colorful and functional space. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/pasadena-kitchen-makeover>
 
 ---
 
@@ -141,18 +281,6 @@ date: 2025-07-08, from: Family Handyman Blog
 
 ---
 
-## The Amazon Home Decor Finds That Interior Designers Love
-
-date: 2025-07-08, from: Sunset Magazine - Living in the West
-
-Interior designers shop on Amazon, too. They shared their favorite home decor picks with us to upgrade your space. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/interior-designers-favorite-amazon-products>
-
----
-
 ## This ADU Was Built to Solve What the Main House Was Missing
 
 date: 2025-07-08, from: Sunset Magazine - Living in the West
@@ -224,18 +352,6 @@ The framework reinforces the wood-framed structure, which had been a rooming hou
 <br> 
 
 <https://www.dwell.com/article/3789-redo-darcy-jones-architects-family-home-renovation-ffc39671>
-
----
-
-## Homepage 2025
-
-date: 2025-07-08, from: Sunset Magazine - Living in the West
-
-Decorating &amp; Design, DIY Projects 4 Minor Exterior Renovations That Can Transform Your Outdoor Space Low-lift and budget-conscious alfresco focal points.  Read more: 4 Minor Exterior Renovations That Can Transform Your&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -447,12 +563,12 @@ date: 2025-07-08, from: The Tiny Life blog
 
 ---
 
-## Amazon Prime Day Is Here! These Are the Home and Garden Deals Worth Your Money
+## New Deals Just Added! The Best Amazon Prime Day Sales on Home and Garden Gear
 
 date: 2025-07-08, from: Family Handyman Blog
 
 <p>Amazon Prime Day is back, and it's better than ever. Score four days of deep discounts on trusted brands across home, garden, tools and more. Here are some of our all-time favorite Family Handyman products, and they're on sale now!</p>
-<p>The post <a href="https://www.familyhandyman.com/list/amazon-prime-day-2025/">Amazon Prime Day Is Here! These Are the Home and Garden Deals Worth Your Money</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/amazon-prime-day-2025/">New Deals Just Added! The Best Amazon Prime Day Sales on Home and Garden Gear</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
  
 
 <br> 

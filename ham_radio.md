@@ -1,11 +1,49 @@
 ---
 title: ham radio
-updated: 2025-07-09 06:09:31
+updated: 2025-07-09 14:09:03
 ---
 
 # ham radio
 
-(date: 2025-07-09 06:09:31)
+(date: 2025-07-09 14:09:03)
+
+---
+
+## Amateur Radio Volunteers Serving During Texas Floods
+
+date: 2025-07-09, from: Amateur Radio Relay League News
+
+<p>Volunteer amateur radio operators serving in the ARRL The National Association for Amateur Radio® (ARRL®) Amateur Radio Emergency Service® (ARES®) are embedded with local served agencies in the areas of central Texas affected by devastating floods.</p><p>The needs and assignments have been changing, but ARES volunteers are stepping up to the dynamic needs of their communities. “This is a very fluid si...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/amateur-radio-volunteers-serving-during-texas-floods>
+
+---
+
+## Changes in the ARRL Idaho Section
+
+date: 2025-07-09, from: Amateur Radio Relay League News
+
+<p>Don Lynn Jr., ND7L, of Nampa, has been appointed Section Manager of the ARRL Idaho Section effective July 9, 2025. Lynn has served as the Assistant Section Manager since 2019, and the State Government Liaison since 2020. He is an ARRL Life Member.</p><p>Lynn will serve the remainder of a term expiring September 30, 2026. He replaces Dan Marler, K7REX, who resigned from the position due to health issue...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/changes-in-the-arrl-idaho-section>
+
+---
+
+## Cross connect complementary current sources to reduce self-heating error
+
+date: 2025-07-09, from: EDN Blog
+
+<img width="573" height="498" src="https://www.edn.com/wp-content/uploads/AntiPar_Figure3.png?fit=573%2C498" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/AntiPar_Figure3.png?w=573 573w, https://www.edn.com/wp-content/uploads/AntiPar_Figure3.png?w=300 300w" sizes="(max-width: 573px) 100vw, 573px" /><p>Take advantage of current control topologies without self-heating error while retaining the 317/337's fault protection features.</p>
+<p>The post <a href="https://www.edn.com/cross-connect-complementary-current-sources-to-reduce-self-heating-error/">Cross connect complementary current sources to reduce self-heating error</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/cross-connect-complementary-current-sources-to-reduce-self-heating-error/>
 
 ---
 
@@ -13,7 +51,7 @@ updated: 2025-07-09 06:09:31
 
 date: 2025-07-09, from: EDN Blog
 
-<img width="917" height="503" src="https://www.edn.com/wp-content/uploads/Hero-image-SLT.png?fit=917%2C503" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-SLT.png?w=917 917w, https://www.edn.com/wp-content/uploads/Hero-image-SLT.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-SLT.png?w=768 768w" sizes="(max-width: 917px) 100vw, 917px" /><p>System-level test (SLT) has evolved into a necessary test insertion for high-performance processors and chiplets.</p>
+<img width="917" height="503" src="https://www.edn.com/wp-content/uploads/Hero-image-SLT.png?fit=917%2C503" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-SLT.png?w=917 917w, https://www.edn.com/wp-content/uploads/Hero-image-SLT.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-SLT.png?w=768 768w" sizes="auto, (max-width: 917px) 100vw, 917px" /><p>System-level test (SLT) has evolved into a necessary test insertion for high-performance processors and chiplets.</p>
 <p>The post <a href="https://www.edn.com/system-level-tests-expanding-role-in-producing-complex-chips/">System-level test’s expanding role in producing complex chips</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 
@@ -27,7 +65,7 @@ date: 2025-07-09, from: EDN Blog
 
 date: 2025-07-08, from: EDN Blog
 
-<img width="2937" height="1117" src="https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?fit=2937%2C1117" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=2937 2937w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=300 300w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=768 768w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=2048 2048w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=1900 1900w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=2850 2850w" sizes="(max-width: 2937px) 100vw, 2937px" /><p>Autozero circuit that allows the user to automatically adjust the zero-point virtual ground terminal of the scope with the push of a button. </p>
+<img width="2937" height="1117" src="https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?fit=2937%2C1117" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=2937 2937w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=300 300w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=768 768w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=2048 2048w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=1900 1900w, https://www.edn.com/wp-content/uploads/Autozero_Schematic.png?w=2850 2850w" sizes="auto, (max-width: 2937px) 100vw, 2937px" /><p>Autozero circuit that allows the user to automatically adjust the zero-point virtual ground terminal of the scope with the push of a button. </p>
 <p>The post <a href="https://www.edn.com/handy-automatic-zero-reference-for-hall-effect-probes/">Handy automatic zero reference for Hall effect probes</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

@@ -1,11 +1,137 @@
 ---
 title: socal north
-updated: 2025-07-09 06:09:30
+updated: 2025-07-09 14:09:02
 ---
 
 # socal north
 
-(date: 2025-07-09 06:09:30)
+(date: 2025-07-09 14:09:02)
+
+---
+
+## Confused about where things stand with Trump's tariffs? Here's a primer
+
+date: 2025-07-09, updated: 2025-07-09, from: The LAist
+
+President Trump has announced — but postponed the effective date for — higher tariffs once again. Here's what to know about the latest on his tariff policy. 
+
+<br> 
+
+<https://laist.com/news/confused-about-where-things-stand-with-tariffs-heres-a-primer>
+
+---
+
+## Joyous memories of biking through SoCal as kids — is that freedom dead and gone?
+
+date: 2025-07-09, updated: 2025-07-09, from: The LAist
+
+Summer and childhood bike rides go hand in hand, but most kids today don't get as much freedom as kids used to. LAist listeners share their childhood memories of riding their bikes through L.A.'s neighborhoods. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/joyous-memories-of-biking-through-socal-as-kids-is-that-freedom-dead-and-gone>
+
+---
+
+## Lots of people love tennis. But do you know where it comes from?
+
+date: 2025-07-09, updated: 2025-07-09, from: The LAist
+
+Read about the origin of Tennis and its evolution into one of the world's most popular sports. 
+
+<br> 
+
+<https://laist.com/news/lots-of-people-love-tennis-but-do-you-know-where-it-comes-from>
+
+---
+
+## Trump administration sues California in policy battle over transgender athletes
+
+date: 2025-07-09, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The lawsuit alleges California’s transgender athlete policies violate Title IX, the landmark federal civil rights law that prohibits sex-based discrimination in education.</p>
+<p>The post <a href="https://lbpost.com/news/education/trump-administration-sues-california-in-policy-battle-over-transgender-athletes">Trump administration sues California in policy battle over transgender athletes</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/trump-administration-sues-california-in-policy-battle-over-transgender-athletes>
+
+---
+
+## CHP to equip all 7,600 officers with body cams
+
+date: 2025-07-09, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>This story was originally published by CalMatters. Sign up for their newsletters. Three years after CalMatters’ reporting revealed that only 3% of California Highway Patrol officers wore body cameras, one of the state’s largest police forces plans to equip all its officers with the technology by next year. In 2015, now-retired Assemblymember Reginald Jones-Sawyer pitched a $10 million plan to give [&#8230;]</p>
+<p>The post <a href="https://lbpost.com/news/chp-to-equip-all-7600-officers-with-body-cams">CHP to equip all 7,600 officers with body cams</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/chp-to-equip-all-7600-officers-with-body-cams>
+
+---
+
+## Trump administration sues California over transgender athlete policies
+
+date: 2025-07-09, updated: 2025-07-09, from: The LAist
+
+Lawsuit alleges California is in violation of Title IX. 
+
+<br> 
+
+<https://laist.com/news/education/trump-administration-sues-california-over-transgender-athlete-policies>
+
+---
+
+## Watch: Investigation finds patterns in California immigration raids
+
+date: 2025-07-09, updated: 2025-07-09, from: The LAist
+
+An analysis of videos capturing ICE enforcement across L.A. 
+
+<br> 
+
+<https://laist.com/news/watch-investigation-finds-patterns-in-california-immigration-raids>
+
+---
+
+## US measles cases hit highest level in 33 years, CDC reports
+
+date: 2025-07-09, updated: 2025-07-09, from: The LAist
+
+The U.S. has hit an unwelcome milestone in measles cases this year. The CDC is reporting 1,288 cases across the country. The disease was declared eliminated 25 years ago. 
+
+<br> 
+
+<https://laist.com/news/health/us-measles-cases-hit-highest-level-in-33-years-cdc-reports>
+
+---
+
+## Photos: Sea lions are released after toxic algae bloom in Southern California
+
+date: 2025-07-09, updated: 2025-07-09, from: The LAist
+
+Marine mammal researchers are investigating how sea lions were affected by the longest toxic algal bloom on record off the coast of Southern California. Some sea lions are being released back into the wild. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/photos-sea-lions-are-released-after-toxic-algae-bloom-in-southern-california>
+
+---
+
+## As women have far fewer babies, the US and the world face unprecedented challenges
+
+date: 2025-07-09, updated: 2025-07-09, from: The LAist
+
+Far more families are choosing to have fewer — or no — children. Many countries, including the U.S., now face a rapidly aging population that could begin to shrink. 
+
+<br> 
+
+<https://laist.com/news/as-women-have-far-fewer-babies-the-us-and-the-world-face-unprecedented-challenges>
 
 ---
 
@@ -21,18 +147,6 @@ The program, which started last year, is one of the only treatment options avail
 
 ---
 
-## More dads in California are taking family leave, but still behind mothers. Here's what the data show
-
-date: 2025-07-09, updated: 2025-07-09, from: The LAist
-
-Men made up 44% of claims for paid family leave to bond with a new child in fiscal year 2024, compared to only 18% in 2005. 
-
-<br> 
-
-<https://laist.com/news/education/early-childhood-education-pre-k/more-dads-in-california-are-taking-family-leave-but-still-behind-mothers-heres-what-the-data-show>
-
----
-
 ## 4 things to know about SoCal’s flood systems in the wake of the Texas tragedy
 
 date: 2025-07-09, updated: 2025-07-09, from: The LAist
@@ -42,6 +156,18 @@ In the wake of the tragedy in Texas, LAist set out to get answers about the floo
 <br> 
 
 <https://laist.com/news/climate-environment/4-things-to-know-about-socal-floods>
+
+---
+
+## More dads in California are taking family leave, but still behind mothers. Here's what the data show
+
+date: 2025-07-09, updated: 2025-07-09, from: The LAist
+
+Men made up 44% of claims for paid family leave to bond with a new child in fiscal year 2024, compared to only 18% in 2005. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/more-dads-in-california-are-taking-family-leave-but-still-behind-mothers-heres-what-the-data-show>
 
 ---
 
@@ -61,7 +187,7 @@ For nearly 20 years, most air travelers in the U.S. have been required to remove
 
 date: 2025-07-09, from: Longbeach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>She said the July 3 attack happened as he was headed home from the Big Bang on the Bay fireworks show.</p>
 <p>The post <a href="https://lbpost.com/news/crime/teenagers-ebike-attack-belmont-shore-july-3-fireworks">72-year-old man beaten by teens who chased him down on their E-bikes, his wife says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -84,9 +210,9 @@ Local officials say federal agents have racially profiled Angelenos and denied t
 
 ---
 
-## No-shows and cancellations are up at some LA hospitals since federal immigration action began
+## LA County is looking into more remote options for health patients in the wake of federal immigration sweeps
 
-date: 2025-07-08, updated: 2025-07-08, from: The LAist
+date: 2025-07-08, updated: 2025-07-09, from: The LAist
 
 L.A. Board of Supervisors approved a motion on Tuesday to direct county agencies to look at the effects of raids and federal agents on access to social services. 
 
@@ -203,7 +329,7 @@ date: 2025-07-08, from: Longbeach Post
 
 ## Teenager arrested on suspicion of starting Laguna Beach fire with fireworks
 
-date: 2025-07-08, updated: 2025-07-08, from: The LAist
+date: 2025-07-08, updated: 2025-07-09, from: The LAist
 
 Laguna Beach police said they used video to identify a 13-year-old they arrested on suspicion of "felony reckless burning of forest land." 
 

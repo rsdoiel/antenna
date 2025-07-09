@@ -1,11 +1,169 @@
 ---
 title: pacific
-updated: 2025-07-09 06:09:31
+updated: 2025-07-09 14:09:03
 ---
 
 # pacific
 
-(date: 2025-07-09 06:09:31)
+(date: 2025-07-09 14:09:03)
+
+---
+
+## Ex-Madang governor calls PNG local government election delay 'unconstitutional'
+
+date: 2025-07-09, from: 
+
+Peter Yama says candidates have wasted their time, money and resources campaigning, and the deferral is unfair to them. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566494/ex-madang-governor-calls-png-local-government-election-delay-unconstitutional>
+
+---
+
+## Tahiti tops medal tally as 2025 Pacific Mini Games concludes in Palau
+
+date: 2025-07-09, from: 
+
+The Tahitians signalled their intentions early when the competition kicked off nine days ago, and they finished with 72 gold, 41 silver and 29 bronze medals. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566491/tahiti-tops-medal-tally-as-2025-pacific-mini-games-concludes-in-palau>
+
+---
+
+## Rain events could cause major failure of Waikīkī storm drainage by 2050
+
+date: 2025-07-09, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> researchers found that sea level rise and heavy rain could overwhelm Waikīkī’s drainage system and send contaminated water into the streets by 2050.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/09/rain-events-waikiki-storm-drainage/">Rain events could cause major failure of Waikīkī storm drainage by 2050</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/09/rain-events-waikiki-storm-drainage/>
+
+---
+
+## Image of the Week: Mahalo athletics staff
+
+date: 2025-07-09, from: University of Hawaiʻi News
+
+<p>This week’s image is from <abbr>UH</abbr> Mānoa's Matt Elliott.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/09/image-of-the-week-mahalo-athletics-staff/">Image of the Week: Mahalo athletics staff</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/09/image-of-the-week-mahalo-athletics-staff/>
+
+---
+
+## Military investment on Guam tops $5 billion as leaders meet to coordinate development
+
+date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
+
+HAGÅTÑA (Office of the Guam Governor) — On Wednesday, Gov. Lou Leon Guerrero and Adm. Brett Meitus convened the latest Civil-Military Coordinating Council or CMCC meeting at Joint Region Marianas, bringing together top military commanders, federal representatives, and Guam government leadership to continue to chart a shared path forward amid sweeping changes in federal policy, additional investments and evolving defense strategies. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/military-investment-on-guam-tops-5-billion-as-leaders-meet-to-coordinate-development/article_c9bea91f-038b-4876-9be9-680f20e16a35.html>
+
+---
+
+## New US citizens
+
+date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
+
+District Court for NMI Chief Judge Ramona V. Manglona, left, and U.S. Citizenship and Immigrations Services Officer Patricia Phelan, right, pose for a March 2025 photo with newly sworn in U.S. citizens Mary Rose Tutor Capati, Freddie Zamora Cataluna, Lea Magno Cataluna, Elena Creencia, Ruben Creencia, Gina Dela Cruz, Nestor Guzman, Sandra Guzman, Jennelyn Roque Itibus, Nam Soo Kim, Editha Lomerio, Paulino Nimer, Eliza Serrano, Recto Velena and Mary Ann Zulueta Wilson. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/new-us-citizens/article_cab9e5ce-f11d-47db-9b21-451cf4b91706.html>
+
+---
+
+## Judge denies Takai’s request for evidentiary hearing
+
+date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
+
+SUPERIOR Court Presiding Judge Roberto C. Naraja has denied Oscar L. Takai’s request for an evidentiary hearing in his petition for judicial review of the Department of Public Lands’ final administrative order denying his agricultural homestead application. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/judge-denies-takai-s-request-for-evidentiary-hearing/article_087c2989-1463-4d46-acae-e73ee053a54b.html>
+
+---
+
+## NMTech to break ground on new Koblerville campus this Friday
+
+date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
+
+THIS Friday, Northern Marianas Technical Institute will break ground on a new five-building facility in Koblerville to house classrooms, working labs, and an administration building, according to Outreach Coordinator Ben Babauta. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/nmtech-to-break-ground-on-new-koblerville-campus-this-friday/article_60f2a928-2394-4bbd-a5bd-9691092b940e.html>
+
+---
+
+## Finance to fund DPL accounting staff
+
+date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
+
+TO comply with Public Law 15-2, also known as the Public Lands Act of 2006, the Department of Finance will fund the accounting staff of the Department of Public Lands, Finance Secretary Tracy B. Norita told the House Ways and Means Committee on Wednesday. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/finance-to-fund-dpl-accounting-staff/article_04d39bbd-ff67-4c9f-b343-36445600c8c6.html>
+
+---
+
+## Rescheduled power service interruption
+
+date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
+
+(Commonwealth Utilities Corporation) — The power service interruption affecting customers in Achugao, San Roque, As Matuis, and Marpi, initially scheduled for Thursday, July 10, 2025, has been rescheduled to Wednesday, July 30, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/rescheduled-power-service-interruption/article_82e33fc8-79d4-44b6-a9ab-d4e0aaad8bcb.html>
+
+---
+
+## Mayor Camacho congratulates CNMI athletes
+
+date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
+
+SAIPAN Mayor RB Camacho wishes to convey his heartfelt congratulations to the local athletes who represented the CNMI at the 2025 Pacific Mini Games in Palau. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/mayor-camacho-congratulates-cnmi-athletes/article_179298b8-03ef-41c5-a193-d57398ae3018.html>
+
+---
+
+## Scheduled power service interruptions for Rota
+
+date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
+
+(Commonwealth Utilities Corporation) — There will be scheduled power service interruptions on Rota. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/scheduled-power-service-interruptions-for-rota/article_b5f14f9f-afa6-4223-8ab0-b157b8fa647a.html>
+
+---
+
+## CNMI Bar backs Judiciary's request for indigent defense funding
+
+date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
+
+THE CNMI Bar Association on Monday expressed full support for the Judiciary’s request to fund indigent defense — a new account proposed in the judicial branch’s budget for fiscal year 2026. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-bar-backs-judiciarys-request-for-indigent-defense-funding/article_f7d7131b-e2df-4bbb-a86c-d568dddfe605.html>
 
 ---
 
@@ -272,6 +430,34 @@ date: 2025-07-09, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/07/09/nation-world-news/wildfires-burn-in-spain-and-france-after-blistering-heat-wave/>
+
+---
+
+## DOH alerts public about recall of RITZ cracker sandwiches
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health&#8217;s Food and Drug Branch is alerting residentsabout a recall issued by Mondel&#275;z Global LLC of its RITZ Peanut Butter Cracker Sandwiches (eight-pack, 20-pack and 40-pack cartons) and RITZ Filled Cracker Sandwich Variety Pack (20-pack) because the individually wrapped packs may be incorrectly labeled as the cheese variety, even though the product within may be the peanut butter variety.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/hawaii-news/doh-alerts-public-about-recall-of-ritz-cracker-sandwiches/>
+
+---
+
+## Lava fountains reach nearly 1,200 feet high in latest episode of Kilauea eruption
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>Episode 28 of the ongoing Kilauea eruption began just after 4 a.m. this morning. Lava fountaining was continuing with maximum heights reaching nearly 1,200 feet (365 meters).</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/hawaii-news/lava-fountains-reach-nearly-1200-feet-high-in-latest-episode-of-kilauea-eruption/>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: journalism
-updated: 2025-07-09 06:09:35
+updated: 2025-07-09 14:09:06
 ---
 
 # journalism
 
-(date: 2025-07-09 06:09:35)
+(date: 2025-07-09 14:09:06)
 
 ---
 
@@ -155,8 +155,8 @@ date: 2025-07-07, from: The Daily Bruin (UCLA Student Newspaper)
 
 date: 2025-07-07, from: The Daily Bruin (UCLA Student Newspaper)
 
-Mary Grace Stevens said she felt alone after coming to UCLA as a first-generation and low-income student.
-That changed when they found Samahang Pilipino Education and Retention &#8211; a student-run project devoted to increasing admission and retention rates among Filipino students. 
+<em>This post was updated July 9 at 12:15 p.m.</em>
+Mary Grace Stevens said she felt alone after coming to UCLA as a first-generation and low-income student. 
 
 <br> 
 

@@ -1,15 +1,365 @@
 ---
 title: planet
-updated: 2025-07-09 06:09:28
+updated: 2025-07-09 14:08:59
 ---
 
 # planet
 
-(date: 2025-07-09 06:09:28)
+(date: 2025-07-09 14:08:59)
 
 ---
 
-## Local authorities working in 'vacuum' to regulate drones
+## GAA Palestine denied visas for summer tour of Ireland
+
+date: 2025-07-09, from: RTÉ News
+
+GAA Palestine has said a group of its players and mentors have had their visa applications denied by the Irish Immigration Service ahead of a summer tour. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522752-gaa-palestine-visas/>
+
+---
+
+## Man, 60s, dies following two-car crash in Co Westmeath
+
+date: 2025-07-09, from: RTÉ News
+
+A man has died following a crash involving two cars in Co Westmeath. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522748-westmeath-crash/>
+
+---
+
+## TCD sends invoices to students seeking over €3,000 fees
+
+date: 2025-07-09, from: RTÉ News
+
+Trinity College Dublin has begun sending out invoices for the next academic year to students for more than €3,000. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522741-college-fees/>
+
+---
+
+## Doctor who forged opioid prescriptions spared jail time
+
+date: 2025-07-09, from: RTÉ News
+
+A medical doctor who told a court that work stress caused his chronic opioid addiction and led him to steal and forge prescriptions, is to be spared jail and a criminal record. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0709/1522742-doctor-courts/>
+
+---
+
+## Champions League: Shelbourne 1-0 Linfield recap
+
+date: 2025-07-09, from: RTÉ News
+
+Shels have beaten Linfield at Tolka Park in the first leg of their Champions League first qualifying round showdown. Read back on how it unfolded. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0709/1522663-champions-league-shelbourne-v-linfield-updates/>
+
+---
+
+## Failure to probe Israeli settler cabin website challenged
+
+date: 2025-07-09, from: RTÉ News
+
+A Palestinian man who lives in the West Bank has taken an action against the Garda Commissioner for refusing to investigate a complaint alleging that Israeli settlers barred him from his land and used it to build cabins which were then advertised for rent on an Irish-registered website. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0709/1522732-israeli-cabin/>
+
+---
+
+## 'Hero or villain' - Recap of turbulent presidential races
+
+date: 2025-07-09, from: RTÉ News
+
+RTÉ reporter Edel McAllister spoke to a previous candidate on the turbulence of the campaign trail and the public and media's role in challenging those that put their names forward. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0709/1522727-ireland-presidency/>
+
+---
+
+## Comet 3I/ATLAS Has a Coma!
+
+date: 2025-07-09, from: Vatican Obervatory
+
+Comet 3I/ATLAS is showing a distinct coma! 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/comet-3i-atlas-has-a-coma/>
+
+---
+
+## Taoiseach denies early return from Japan for semi-final
+
+date: 2025-07-09, from: RTÉ News
+
+The Taoiseach has said his flight home from a recent trip to Japan was changed due to security advice, and denied it was in order to make it back for Cork's All Ireland semi-final at Croke Park. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522726-taoiseach-japan/>
+
+---
+
+## Podcast: How water demand could hamper housing supply
+
+date: 2025-07-09, from: RTÉ News
+
+Dublin urgently needs new water treatment plant to meet the demands of new housing developments 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0709/1522719-podcast/>
+
+---
+
+## Four dead and 15 missing after Greek ship sunk in Red Sea
+
+date: 2025-07-09, from: RTÉ News
+
+Rescuers pulled six crew members alive from the Red Sea, while 15 were still missing from the second of two ships sunk in attacks claimed by Yemen's Iran-aligned Houthi militia. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0709/1522720-red-sea-ship/>
+
+---
+
+## Man jailed for sexually abusing, assaulting five children
+
+date: 2025-07-09, from: RTÉ News
+
+A man who sexually abused and assaulted five children has been jailed for eight and a half years. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522721-man-jailed-sexual-abuse/>
+
+---
+
+## OpenAI to release web browser that could challenge Google Chrome: sources
+
+date: 2025-07-09, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7209560.1716251406!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/openai-voice-paused.jpg' alt='A person holds a phone displaying the word, &apos;OpenAI,&apos; in front of a computer screen displaying text.' width='620' height='349' title='FILE - The OpenAI logo is seen on a mobile phone in front of a computer screen displaying output from ChatGPT, March 21, 2023, in Boston. OpenAI plans to halt the use of one of its ChatGPT voices after some drew similarities to actor Scarlett Johansson, who famously portrayed a fictional AI assistant in the (perhaps no longer so futuristic) film “Her.” (AP Photo/Michael Dwyer, File)'/><p>The browser is slated to launch in the coming weeks, according to three sources familiar with the matter who spoke with Reuters. If adopted by the 400 million weekly active users of ChatGPT, OpenAI's browser could put pressure on a key component of rival Google's ad-money spigot.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/business/openai-web-browser-1.7580958?cmp=rss>
+
+---
+
+## South Sudan Bishop urges his people to embrace peace in daily lives
+
+date: 2025-07-09, from: Vatican News
+
+
+                    <p>As South Sudan marks the 14th anniversary of its independence, the Bishop of Bentiu calls on the people to live out peace not merely as an abstract idea, but through concrete, everyday actions rooted in Gospel values. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/south-sudan-bishop-carlassare-14-anniversary-independence.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/south-sudan-bishop-carlassare-14-anniversary-independence.html>
+
+---
+
+## Dicastery for the Doctrine of the Faith
+
+date: 2025-07-09, from: Vatican News
+
+
+                    <p>The mission of the Dicastery for the Doctrine of the Faith is “to help the Roman Pontiff and the Bishops to proclaim the Gospel throughout the world by promoting and safeguarding the integrity of Catholic teaching on faith and morals” by drawing on the deposit of faith.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-the-doctrine-of-the-faith.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-the-doctrine-of-the-faith.html>
+
+---
+
+## X CEO Yaccarino to step down in surprise move
+
+date: 2025-07-09, from: RTÉ News
+
+Elon Musk-owned X's CEO Linda Yaccarino said today she would step down from the role in a surprise move, just months after the social media platform was acquired by the billionaire's AI startup, xAI. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0709/1522674-x-ceo-yaccarino-to-step-down-in-surprise-move/>
+
+---
+
+## Man pleads not guilty to manslaughter of Sligo farmer
+
+date: 2025-07-09, from: RTÉ News
+
+A Co Mayo man has pleaded not guilty at the Central Criminal Court to the manslaughter of Tom Niland, a 74-year-old retired farmer from Skreen in Co Sligo, who died in September 2023. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522673-sligo-manslaughter/>
+
+---
+
+## Russia responsible for MH17 downing - European court
+
+date: 2025-07-09, from: RTÉ News
+
+Europe's top human rights court has ruled unanimously that Russia was responsible for the downing of Malaysian Airlines flight MH17. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0709/1522668-court-russia-mh17/>
+
+---
+
+## Three in court over defrauding Trinity of nearly €500,000
+
+date: 2025-07-09, from: RTÉ News
+
+Three people have appeared in court charged in connection with an alleged scheme to defraud almost a half a million euro from Trinity College's Student Hardship Fund. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0709/1522669-trinity-fraud-courts/>
+
+---
+
+## Pope Leo responds to a mother’s reminder that peace is a fundamental right
+
+date: 2025-07-09, from: Vatican News
+
+
+                    <p>In a letter published in Italian magazine Piazza San Pietro, a young mother appeals to the Pope for her children’s future, and Pope Leo replies with a message of hope.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-responds-to-a-mother-s-reminder-that-peace-is-a-fundame.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-responds-to-a-mother-s-reminder-that-peace-is-a-fundame.html>
+
+---
+
+## Why there might soon be two Dalai Lamas | About That
+
+date: 2025-07-09, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/ca4a8109-8b6a-4816-b109-9ab61ac5089e,1752084541550/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C127%2C3255%2C1830%29%3BResize%3D%28620%29' alt='Elderly man in a maroon and yellow robe smiling warmly. He wears glasses and sits against a soft-focus background, conveying a sense of calm and joy.' width='620' height='349' title='Tibetan spiritual leader, the 14th Dalai Lama, reacts as he attends his 90th birthday celebration at the Tsuglagkhang, also known as the Dalai Lama Temple complex, in the northern town of Dharamshala, India, July 6, 2025. REUTERS/Anushree Fadnavis'/><p>A power struggle over the Dalai Lama's succession could mean a future with two: one backed by China; the other by Tibetan monks. Andrew Chang explains.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6825674?cmp=rss>
+
+---
+
+## West Bank: Jewish settlers attack Taibeh residents
+
+date: 2025-07-09, from: Vatican News
+
+
+                    <p>The three parish priests of the Latin, Greek Orthodox, and Melkite churches denounce repeated violence against Christian residents and their property in the West Bank. The priests call on the international and ecclesial community to send field missions to document the damage and the worsening situation.
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/israel-west-bank-jewish-settlers-christians-palestinians-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/israel-west-bank-jewish-settlers-christians-palestinians-war.html>
+
+---
+
+## Left parties discuss potential Connolly run for Áras
+
+date: 2025-07-09, from: RTÉ News
+
+The leaders of five left and liberal leaning Dáil parties met this evening to discuss supporting a combined presidential election candidate. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0709/1522662-catherine-connolly/>
+
+---
+
+## Pope encourages catechists to renew their desire to evangelise
+
+date: 2025-07-09, from: Vatican News
+
+
+                    <p>Pope Leo offers encouragement to Latin American catechists gathering in Asuncion, Paraguay, for study days focused on the synodal path.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-encourages-catechists-to-renew-their-desire-to-evangelise.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-encourages-catechists-to-renew-their-desire-to-evangelise.html>
+
+---
+
+## Two new U.K. deaths probed for links to alleged poison seller Kenneth Law
+
+date: 2025-07-09, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7095409.1752078457!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kenneth-law-police-photo.jpg' alt='A mugshot of a man with a shaved head.' width='620' height='349' title='Kenneth Law is charged with 14 counts of first-degree murder and 14 counts of counselling or aiding suicide in connection with 14 deaths across Ontario.'/><p>British authorities are investigating whether a man facing murder charges in Canada — where he has been in custody for two years — may be linked to two additional recent deaths. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/toronto/kenneth-law-two-uk-deaths-1.7580774?cmp=rss>
+
+---
+
+## Soc Dems scrutinise supermarkets as grocery costs rise
+
+date: 2025-07-09, from: RTÉ News
+
+Government is considering "enhancing" existing laws to increase fines and make the State's consumer watchdog more "robust" in a bid to address alleged "price gouging" by supermarkets. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0709/1522658-politics-consumer-watchdog/>
+
+---
+
+## Pope meets with Ukrainian President
+
+date: 2025-07-09, from: Vatican News
+
+
+                    <p>Pope Leo XIV and President Volodymyr Zelensky discuss the war in Ukraine, the return of forcibly deported Ukrainian children, and the Holy See’s continued support for dialogue and peace.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-meeting-president-ukraine-zelensky-peace-talks.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-meeting-president-ukraine-zelensky-peace-talks.html>
+
+---
+
+## Call for legislation as 'gardens being invaded by drones'
 
 date: 2025-07-09, from: RTÉ News
 
@@ -21,7 +371,7 @@ Local authorities are working in a "vacuum" due to regulatory gaps in laws that 
 
 ---
 
-## Irish anti-migrant mobilisation now 'more organised'
+## Anti-migrant mobilisation now 'more organised' - monitor
 
 date: 2025-07-09, from: RTÉ News
 
@@ -69,15 +419,99 @@ Sinn Féin leader Mary Lou McDonald has called on the Government to immediately 
 
 ---
 
-## High Court hearing second case over junior ministers
+## Ross denies illegality of publishing Cabinet details
 
 date: 2025-07-09, from: RTÉ News
 
-The High Court is hearing a second case challenging the constitutionality of junior ministers attending Cabinet meeting. 
+Former Senator and Independent Alliance TD Shane Ross has denied that writing a book about his time in government, which contained details of cabinet discussions, was an "act of calculated and deliberate illegality". 
 
 <br> 
 
 <https://www.rte.ie/news/2025/0709/1522643-super-junior-ministers-court/>
+
+---
+
+## In South Asia, anaemia threatens women’s health and economic futures
+
+date: 2025-07-09, from: United Nations, Top Stories
+
+Anaemia remains one of South Asia’s quietest but most pervasive health crises, disproportionately affecting the region’s poorest women and girls – and with 18 million more cases projected by 2030, experts say urgent, unified action is critical. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165350>
+
+---
+
+## UN warns of deepening health crisis in Gaza amid mass casualty incidents
+
+date: 2025-07-09, from: United Nations, Top Stories
+
+As scores of people – including medical staff and their families – have reportedly been killed in the past week, UN health partners in Gaza continue to provide emergency care despite very limited resources. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165356>
+
+---
+
+## ‘Very limited time to react’: Texas flash floods expose challenges in early warning
+
+date: 2025-07-09, from: United Nations, Top Stories
+
+The deadly flash floods in central Texas that claimed more than 100 lives over the July Fourth weekend in the United States have underscored the devastating power of this fast-onset hazard – and the critical challenge of ensuring early warnings reach vulnerable populations, even in the dead of night. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165355>
+
+---
+
+## Ukrainian baker rises above adversity
+
+date: 2025-07-09, from: United Nations, Top Stories
+
+At Hanna Honcharenko’s bakery in Dnipro, eastern Ukraine, the scent of freshly baked bread represents a slice of home for many. The business, born out of hardship, is proof that with trust and support it is possible start again following the loss brought on by war.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165354>
+
+---
+
+## Yemen deserves hope and dignity, Security Council hears
+
+date: 2025-07-09, from: United Nations, Top Stories
+
+Yemen continues to face a dire humanitarian crisis, driven by acute hunger, economic collapse, and regional instability, senior UN officials told the Security Council on Wednesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165353>
+
+---
+
+## A Gaza truce? Here's what is being negotiated, and why it matters
+
+date: 2025-07-09, from: RTÉ News
+
+A new ceasefire deal between Israel and Hamas may be within reach — but key questions remain. Hostages, humanitarian aid, and political pressure are shaping what happens next. 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0709/1522635-a-gaza-truce-heres-what-is-being-negotiated-and-why-it-matters/>
+
+---
+
+## Russia responsible for downing passenger plane over Ukraine, European human rights court rules
+
+date: 2025-07-09, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7580626.1752071531!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-ukraine-european-court.jpg' alt='Two women and a man embrace, with their backs largely to the camera. At the side, a woman looks on as they all stand inside a building with a long table.' width='620' height='349' title='Agent to the European Court of Human Rights for the Government of the Kingdom of the Netherlands Babette Koopman, right, hugs plaintiffs after the European Court of Human Rights issued its judgment on Russian violations in Ukraine since 2014, including the downing of Malaysia Airlines flight MH17, Wednesday, July 9, 2025 in Strasbourg, eastern France. '/><p>Europe's top human rights court ruled that Russia was responsible for widespread violations of international law in Ukraine, including the downing of Malaysia Airlines Flight 17 in 2014, marking the first time an international court has held Moscow accountable for human rights abuses related to the conflict there.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/echr-russia-cases-ukraine-malaysia-air-1.7580572?cmp=rss>
 
 ---
 
@@ -129,11 +563,11 @@ The kitchen and staff canteen of the Wee Care crèche on RTÉ's Donnybrook campu
 
 ---
 
-## Migrant boat model on Tyrone bonfire 'deplorable'
+## Migrant boat model on Tyrone bonfire 'vile, dehumanising'
 
 date: 2025-07-09, from: RTÉ News
 
-Models of migrants in a boat have been placed on a loyalist bonfire in Co Tyrone, prompting condemnation and calls for the display to be removed ahead of the pyre being lit. 
+Amnesty International's Northern Ireland director has described a loyalist bonfire in Co Tyrone which contains models of migrants in a boat as a "vile, dehumanising act that fuels hatred and racism". 
 
 <br> 
 
@@ -145,11 +579,23 @@ Models of migrants in a boat have been placed on a loyalist bonfire in Co Tyrone
 
 date: 2025-07-09, from: RTÉ News
 
-Intermittent power outages have impacted Dáil, Seanad and Oireachtas committee hearings this morning. 
+Intermittent power outages impacted Dáil, Seanad and Oireachtas committee hearings this morning. 
 
 <br> 
 
 <https://www.rte.ie/news/politics/2025/0709/1522631-leinster-house-power-outages/>
+
+---
+
+## Trump administration promises on Jeffrey Epstein case fizzle out, angering some allies
+
+date: 2025-07-09, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7580491.1752061583!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='A blonde haired woman is shown in focus, while to her left an older man is shown blurred.' width='620' height='349' title='Attorney General Pam Bondi, left, listens as President Donald Trump, right, speaks during a cabinet meeting at the White House, Tuesday, July 8, 2025, in Washington.  '/><p>The U.S. Justice Department and White House have scrambled this week to explain a significant walkback from promises of potentially explosive information involving accused sex trafficker Jeffrey Epstein and his alleged clientele.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-justice-department-epstein-controversy-1.7580472?cmp=rss>
 
 ---
 
@@ -174,6 +620,18 @@ Grok has removed what it called "inappropriate" social media posts after complai
 <br> 
 
 <https://www.rte.ie/news/2025/0709/1522620-grok-content-complaints/>
+
+---
+
+## IN PHOTOS | Before and after images of Texas flash floods
+
+date: 2025-07-09, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7580568.1752069311!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/texas-flood-satellite.jpg' alt='An after satellite still of a river and buildings.' width='620' height='349' title='This satellite photo provided by Maxar Technologies shows Camp Mystic and the surrounding area near Hunt, Texas on July 8.'/><p>Satellite images show the aftermath of the devastating flood along the Guadalupe River that swept through the area near central Texas where more than 100 people have died.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/photos/in-photos-before-and-after-images-of-texas-flash-floods-1.7580563?cmp=rss>
 
 ---
 
@@ -205,11 +663,11 @@ German supermarket chain Lidl faces a €43 million payout to a French rival aft
 
 ---
 
-## Horner replaced as Red Bull chief
+## Sacked Horner tearful in Red Bull goodbye
 
 date: 2025-07-09, from: RTÉ News
 
-Christian Horner has been dismissed and replaced as Red Bull team principal by Laurent Mekies. 
+Christian Horner was reduced to tears when he announced to his Red Bull staff that his two-decade spell as team principal had been terminated. 
 
 <br> 
 
@@ -229,11 +687,11 @@ Follow our minute by minute coverage as the British and Irish Lions continue the
 
 ---
 
-## Zelensky calls for sanctions after record Russian attack
+## Eight dead as Russia strikes Ukraine, Pope may host talks
 
 date: 2025-07-09, from: RTÉ News
 
-Russia targeted Ukraine with a record 728 drones overnight with Volodymyr Zelensky calling for "biting sanctions" on Russia. 
+Ukraine has said that eight civilians were killed in Russian drone and bombing attacks in the war-scarred Donetsk region in the east of the country. 
 
 <br> 
 
@@ -253,11 +711,11 @@ The Special Rapporteur on Child Protection has welcomed a Commission of Investig
 
 ---
 
-## 20 killed in Israeli air strikes, says Gaza civil defence
+## Israeli attacks kill 22 in Gaza, civil defence says
 
 date: 2025-07-09, from: RTÉ News
 
-Gaza's civil defence agency has said that 20 people, including at least six children, were killed in two Israeli air strikes overnight. 
+Gaza's civil defence agency said 22 people, including at least six children, were killed in Israeli strikes in the Palestinian territory. 
 
 <br> 
 
@@ -389,11 +847,11 @@ The British Prime Minister Keir Starmer and the French President Emmanuel Macron
 
 ---
 
-## More than 160 still missing after Texas floods
+## More than 170 still missing after Texas floods
 
 date: 2025-07-09, from: RTÉ News
 
-More than 160 people remain unaccounted for after devastating floods in Texas, the state governor has said, marking a dramatic increase in the number missing from a tragedy that has so far claimed 109 lives. 
+Search teams continue to sift through debris in Texas Hill Country as hopes of finding more survivors decreased, five days after flash floods tore through the region, killing at least 110 people. 
 
 <br> 
 
@@ -401,11 +859,11 @@ More than 160 people remain unaccounted for after devastating floods in Texas, t
 
 ---
 
-## Trump, Netanyahu discuss Gaza ceasefire and hostages
+## Hamas agrees to release 10 hostages in Gaza talks
 
 date: 2025-07-08, from: RTÉ News
 
-Israeli Prime Minister Benjamin Netanyahu has said that his meeting with US President Donald Trump focused on freeing hostages held in Gaza, and stressed his determination to "eliminate" the military and governmental capabilities of Hamas. 
+Hamas has said it has agreed to release ten hostages under ongoing efforts to reach a ceasefire in Gaza, saying ongoing talks for a truce were "tough" due to Israel's "intransigence". 
 
 <br> 
 
@@ -963,18 +1421,6 @@ A leading UN trade official warned on Tuesday that the United States’ decision
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/07/1165351>
-
----
-
-## In South Asia, anaemia threatens women’s health and economic futures
-
-date: 2025-07-08, from: United Nations, Top Stories
-
-Anaemia remains one of South Asia’s quietest but most pervasive health crises, disproportionately affecting the region’s poorest women and girls – and with 18 million more cases projected by 2030, experts say urgent, unified action is critical. 
-
-<br> 
-
-<https://news.un.org/feed/view/en/story/2025/07/1165350>
 
 ---
 
