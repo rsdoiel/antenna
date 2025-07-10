@@ -1,11 +1,499 @@
 ---
 title: pacific
-updated: 2025-07-09 14:09:03
+updated: 2025-07-10 06:08:35
 ---
 
 # pacific
 
-(date: 2025-07-09 14:09:03)
+(date: 2025-07-10 06:08:35)
+
+---
+
+## Whinicles: Different ways to articulate political sentiments 
+
+date: 2025-07-10, from: Pacific Island Times
+
+Too often we wonder—if not denounce—what may seem to us as desperation or an irrational cry for attention. Why, we ask, would people choose such belligerent forms of protest when there are more conventional platforms, such as petitions, public hearings and peaceful demonstrations. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/whinicles-different-ways-to-articulate-political-sentiments>
+
+---
+
+## As FEMA aids Texas flood victims, Noem urges eliminating US agency ‘as it exists today’
+
+date: 2025-07-10, from: Hawaii Tribune Harold
+
+
+				<p>U.S. Homeland Security Secretary Kristi Noem called on Wednesday for the Federal Emergency Management Agency to be eliminated in its current form, even as the disaster-relief agency deployed specialists and supplies to Texas to help respond to devastating floods.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/10/nation-world-news/as-fema-aids-texas-flood-victims-noem-urges-eliminating-us-agency-as-it-exists-today/>
+
+---
+
+## Final phase of Uncle Billy’s hotel demolition underway
+
+date: 2025-07-10, from: Hawaii Tribune Harold
+
+
+				<p>The second and final phase of the demolition of the former Uncle Billy&#8217;s Hilo Bay Hotel started this week, marking a significant step toward the revitalization of the Waiakea Peninsula.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/10/hawaii-news/final-phase-of-uncle-billys-hotel-demolition-underway/>
+
+---
+
+## Pop-up market aims to support upstart businesses
+
+date: 2025-07-10, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County is hosting the first Hawaii Business Makeke this weekend, a new economic development initiative aimed at helping local businesses &#8212; many of which are small and without a storefront &#8212; expand their reach and connections.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/10/hawaii-news/pop-up-market-aims-to-support-upstart-businesses/>
+
+---
+
+## Trump tariffs aim to settle scores with countries, no matter their size
+
+date: 2025-07-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump added Wednesday to his growing list of countries that would face steep tariffs in the coming weeks if they fail to reach trade agreements with the United States, as he threatens to drag nations large and small into his trade war.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/10/nation-world-news/trump-tariffs-aim-to-settle-scores-with-countries-no-matter-their-size/>
+
+---
+
+## Measles cases hit record high, 25 years after US eliminated the disease
+
+date: 2025-07-10, from: Hawaii Tribune Harold
+
+
+				<p>There have now been more measles cases in 2025 than in any other year since the contagious virus was declared eliminated in the United States in 2000, according to new data released Wednesday by the Centers for Disease Control and Prevention.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/10/nation-world-news/measles-cases-hit-record-high-25-years-after-us-eliminated-the-disease/>
+
+---
+
+## What is HPD’s role in ICE raids? Island residents, ACLU seek answers
+
+date: 2025-07-10, from: Hawaii Tribune Harold
+
+
+				<p>The only agenda items for today&#8217;s special meeting of the Hawaii County Police Commission concern whether or not Benjamin Moszkowicz remains the chief of the Hawaii Police Department after his request to withdraw a resignation he made last month.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/10/hawaii-news/what-is-hpds-role-in-ice-raids-island-residents-aclu-seek-answers/>
+
+---
+
+## Russia attacks Ukraine with 700 drones after Trump vows to send more weapons
+
+date: 2025-07-10, from: Hawaii Tribune Harold
+
+
+				<p>KYIV &#8212; Russia targeted Ukraine with a record 728 drones early on Wednesday, hours after U.S. President Donald Trump pledged to send more defensive weapons to Kyiv and aimed unusually sharp criticism at Russian President Vladimir Putin.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/10/nation-world-news/russia-attacks-ukraine-with-700-drones-after-trump-vows-to-send-more-weapons/>
+
+---
+
+## Tensions escalate in San Francisco over immigration enforcement
+
+date: 2025-07-10, from: Hawaii Tribune Harold
+
+
+				<p>Tensions over immigration enforcement in San Francisco escalated this week when federal agents clashed with activists who tried to block an arrest outside a courthouse, with the agents at one point driving away in a van with protesters hanging from the hood of the vehicle.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/10/nation-world-news/tensions-escalate-in-san-francisco-over-immigration-enforcement/>
+
+---
+
+## Tons of invisible plastic pieces lurk in ocean water
+
+date: 2025-07-10, from: Hawaii Tribune Harold
+
+
+				<p>What do human brains, placentas and dolphin breath have in common? Signs of plastic pollution in the form of tiny particles known as microplastics.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/10/nation-world-news/tons-of-invisible-plastic-pieces-lurk-in-ocean-water/>
+
+---
+
+## Recipients of a US climate science fellowship are put on unpaid leave
+
+date: 2025-07-10, from: Hawaii Tribune Harold
+
+
+				<p>A program that supports the nation&#8217;s most promising climate scientists faces delayed funding, furloughs and a canceled year of grants, according to participants in the program and emails reviewed by The New York Times. It&#8217;s the latest hit climate science has taken from the Trump administration, which has been limiting funds for climate research across a number of federal agencies.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/10/nation-world-news/recipients-of-a-us-climate-science-fellowship-are-put-on-unpaid-leave/>
+
+---
+
+## Administration takes steps to target 2 officials who investigated Trump
+
+date: 2025-07-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration appears to be targeting officials who oversaw the investigation into the 2016 Trump campaign&#8217;s connections to Russia, examining the actions of former FBI director James Comey and former CIA director John Brennan, according to people familiar with the situation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/10/nation-world-news/administration-takes-steps-to-target-2-officials-who-investigated-trump/>
+
+---
+
+## News in brief for July 10
+
+date: 2025-07-10, from: Hawaii Tribune Harold
+
+
+				<p>US used car prices surge as &#0010;tariffs drive market volatility</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/10/nation-world-news/news-in-brief-for-july-10-2/>
+
+---
+
+## Bessent steps up criticism of Fed as auditions for chair intensify
+
+date: 2025-07-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; It is an unwritten rule that Treasury secretaries avoid interfering with the workings of the Federal Reserve. The Fed is an independent institution, one that most policymakers believe benefits the economy by being shielded from the winds of politics.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/10/nation-world-news/bessent-steps-up-criticism-of-fed-as-auditions-for-chair-intensify/>
+
+---
+
+## TSA ends shoes-off policy for US airport security screening
+
+date: 2025-07-10, from: Hawaii Tribune Harold
+
+
+				<p>ARLINGTON, Virginia &#8212; The Transportation Security Administration will no longer require travelers to remove their shoes during security checks at U.S. airports, Department of Homeland Security Secretary Kristi Noem announced on Tuesday, ending an unpopular policy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/10/nation-world-news/tsa-ends-shoes-off-policy-for-us-airport-security-screening/>
+
+---
+
+## Musk-owned X’s CEO Yaccarino to step down in surprise move
+
+date: 2025-07-10, from: Hawaii Tribune Harold
+
+
+				<p>Linda Yaccarino, one of Elon Musk&#8217;s top deputies as CEO of his X social media site, is exiting the company in a surprise move just months after the platform was acquired by the billionaire&#8217;s AI startup, xAI. Yaccarino, 61, made the announcement in a post on X suggesting it was her decision, though Musk has a history of dismissing deputies suddenly. &#8220;I&#8217;ve decided to step down as CEO of X,&#8221; Yaccarino wrote.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/10/nation-world-news/musk-owned-xs-ceo-yaccarino-to-step-down-in-surprise-move/>
+
+---
+
+## OpenAI to release web browser in challenge to Google Chrome
+
+date: 2025-07-10, from: Hawaii Tribune Harold
+
+
+				<p>SAN FRANCISCO &#8212; OpenAI is close to releasing an AI-powered web browser that will challenge Alphabet&#8217;s market-dominating Google Chrome, three people familiar with the matter told Reuters. The browser is slated to launch in the coming weeks, three of the people said, and aims to use artificial intelligence to fundamentally change how consumers browse the web. It will give OpenAI more direct access to a cornerstone of Google&#8217;s success: user data. If adopted by the 500 million weekly active users of ChatGPT, OpenAI&#8217;s browser could put pressure on a key component of rival Google&#8217;s ad-money spigot. Chrome is an important pillar of Alphabet&#8217;s ad business, which makes up nearly three-quarters of its revenue, as Chrome provides user information to help Alphabet target ads more effectively and profitably, and also gives Google a way to route search traffic to its own engine by default.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/10/nation-world-news/openai-to-release-web-browser-in-challenge-to-google-chrome/>
+
+---
+
+## Elon Musk consulted Curtis Yarvin, right-wing thinker, on third party
+
+date: 2025-07-10, from: Hawaii Tribune Harold
+
+
+				<p>As Elon Musk studies up on how to start a third political party, among the people from whom he has sought advice is a somewhat surprising choice of consultant: right-wing blogger Curtis Yarvin, who is perhaps best known for advocating monarchism.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/10/nation-world-news/elon-musk-consulted-curtis-yarvin-right-wing-thinker-on-third-party/>
+
+---
+
+## Over 1,000 eyes checked
+
+date: 2025-07-10, from: Marshal Islands Journal
+
+<p>KAREN EARNSHAW The report from team leader Jacque Spence is that “in just 10 days, the Canvasback Missions Ophthalmology team and Health Service nurses and staff accomplished an amazing amount of work.” From June 16 to 27, the “team worked tirelessly,” Jacque told the Journal. “They were led by Dr. Annie Chong Gum and Agnes [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/over-1000-eyes-checked/">Over 1,000 eyes checked</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/over-1000-eyes-checked/>
+
+---
+
+## The Rainbow Warrior bombing 40 years on: re-energizing for global peace 
+
+date: 2025-07-10, from: Pacific Island Times
+
+French Pacific Regiment troops at a Bastille Day parade in Nouméa, New Caledonia, 1985. Photo by David Robie By David Robie The bombing... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-rainbow-warrior-bombing-40-years-on-re-energizing-for-global-peace>
+
+---
+
+## Vanuatu seeks visa-free access to Australia before renewing strategic pact
+
+date: 2025-07-10, from: 
+
+Australia's visa policy has become a sticking point between the two nations ahead of strategic pact expected to be re-signed in September. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566543/vanuatu-seeks-visa-free-access-to-australia-before-renewing-strategic-pact>
+
+---
+
+## Violence in Papua New Guinea appears to be increasing
+
+date: 2025-07-10, from: 
+
+"We're having law and order problems that have in the past tended to be restricted to certain provinces and locations seem to have extended to additional provinces." 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566542/violence-in-papua-new-guinea-appears-to-be-increasing>
+
+---
+
+## Kiribati Language Week: Celebrating culture amid rising seas back home
+
+date: 2025-07-10, from: 
+
+This year marks five years since the celebration of the language began. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566544/kiribati-language-week-celebrating-culture-amid-rising-seas-back-home>
+
+---
+
+## Lockheed Martin awarded $8.86 million contract for initial test of Guam Aegis 
+
+date: 2025-07-10, from: Pacific Island Times
+
+By Mar-Vic Cagurangan The Missile Defense Agency has awarded an $8.86 million contract to Lockheed Martin Corp. for the initial test of... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/lockheed-martin-awarded-8-86-million-contract-for-initial-test-of-guam-aegis>
+
+---
+
+## Palau honors RMI
+
+date: 2025-07-10, from: Marshal Islands Journal
+
+<p>Palau’s National Olympic Committee, during a dinner in Palau last Sunday, praised Marshall Islands NOC President Tony Muller for a well-run Micronesian Games in 2024. During the Games Dinner attended by all 23 countries and territories competing in the Pacific Mini-Games in Palau for the past two weeks, NOC President and Minister of Natural Resources [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/palau-honors-rmi/">Palau honors RMI</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/palau-honors-rmi/>
+
+---
+
+## Samoa election: Over 102,000 register to vote, candidate nominations open
+
+date: 2025-07-10, from: 
+
+The Samoa Electoral Commission says the nomination of candidates to contest the general election next month is underway. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566539/samoa-election-over-102-000-register-to-vote-candidate-nominations-open>
+
+---
+
+## Marape's forest promised dismissed as 'empty gesture' by PNG advocacy group
+
+date: 2025-07-10, from: 
+
+Community advocacy group ACT NOW says the PNG prime minister's promise to stop issuing new forestry licences will do nothing to stop illegal logging. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566538/marape-s-forest-promised-dismissed-as-empty-gesture-by-png-advocacy-group>
+
+---
+
+## ʻEleu Choy earns Academic All-America honors
+
+date: 2025-07-10, from: University of Hawaiʻi News
+
+<p>Choy is the sixth <abbr>UH</abbr> Mānoa men’s volleyball player in history to receive the national award.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/09/eleu-choy-earns-academic-honors/">ʻEleu Choy earns Academic All-America honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/09/eleu-choy-earns-academic-honors/>
+
+---
+
+## Census overhaul sparks Pasifika 'invisibility' fears
+
+date: 2025-07-09, from: 
+
+Pacific data experts warn reforms to the way the New Zealand government collects community-level data will "fail Pasifika communities". 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566520/census-overhaul-sparks-pasifika-invisibility-fears>
+
+---
+
+## Rainbow Warrior bombing 40th anniversary: Advocates warn of expanding nuclearism in Pacific
+
+date: 2025-07-09, from: 
+
+On the anniversary of the bombing of the protest ship, anti-nuclear advocates warn the Pacific region is facing expanding nuclearism through developments like AUKUS. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/national/566469/rainbow-warrior-bombing-40th-anniversary-advocates-warn-of-expanding-nuclearism-in-pacific>
+
+---
+
+## Pacific news in brief for 10 July
+
+date: 2025-07-09, from: 
+
+A round-up of from around the region, including a plastic bag ban coming into force in the Cook Islands. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566521/pacific-news-in-brief-for-10-july>
+
+---
+
+## GAO: CNMI stuck in fiscal quagmire
+
+date: 2025-07-09, from: Pacific Island Times
+
+
+
+The CNMI’s tourism-reliant economy has limited prospects for recovery and the challenges to meet its financial obligations have deepened, GAO stated in an economic outlook report released this week. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/gao-cnmi-stuck-in-fiscal-quagmire>
+
+---
+
+## UH West Oʻahu campus proposed gateway for Google’s $1B global fiber system
+
+date: 2025-07-09, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> campus to help connect <span aria-label="Hawaii">Hawai&#699;i</span> to the world.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/09/uh-west-oahu-google-global-fiber-system/"><abbr>UH</abbr> West Oʻahu campus proposed gateway for Google’s $1B global fiber system</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/09/uh-west-oahu-google-global-fiber-system/>
+
+---
+
+## Tavatavanawai to debut as All Blacks team for second France test named
+
+date: 2025-07-09, from: 
+
+The Fiji-born player will have the opportunity to earn his first All Blacks cap on Saturday night, becoming the fifth debutant this season so far. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/sport/566506/timoci-tavatavanawai-to-debut-as-all-blacks-team-for-second-france-test-named>
+
+---
+
+## PNG police offer reward to try and solve Hela sorcery murder
+
+date: 2025-07-09, from: 
+
+There has long been an effort to curb what is known as Sorcery Accusation Relation Violence, but the practice continues. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566422/png-police-offer-reward-to-try-and-solve-hela-sorcery-murder>
+
+---
+
+## Larry catches biggest billfish
+
+date: 2025-07-09, from: Marshal Islands Journal
+
+<p>KAREN EARNSHAW It is unlikely that any of the fisherfolk taking part in the 43rd Marshalls Billfish Club Annual Fishing Tournament had any patches of dry clothes or skin by the time they reached the clubhouse on both Friday and Saturday afternoons. Between the two, the first day of fishing delivered the most punishment: “The [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/larry-catches-biggest-billfish/">Larry catches biggest billfish</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/larry-catches-biggest-billfish/>
+
+---
+
+## Fiji's 3x3 basketball teams secure gold and qualify for U23 World Cup and Commonwealth Games
+
+date: 2025-07-09, from: 
+
+And in the process, qualifying for the FIBA 3x3 Under-23 World Cup later this year and the 2026 Commonwealth Games. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566504/fiji-s-3x3-basketball-teams-secure-gold-and-qualify-for-u23-world-cup-and-commonwealth-games>
 
 ---
 
@@ -61,7 +549,7 @@ The post <a href="https://www.hawaii.edu/news/2025/07/09/image-of-the-week-mahal
 
 ## Military investment on Guam tops $5 billion as leaders meet to coordinate development
 
-date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
+date: 2025-07-09, updated: 2025-07-10, from: Marianas Variety
 
 HAGÅTÑA (Office of the Guam Governor) — On Wednesday, Gov. Lou Leon Guerrero and Adm. Brett Meitus convened the latest Civil-Military Coordinating Council or CMCC meeting at Joint Region Marianas, bringing together top military commanders, federal representatives, and Guam government leadership to continue to chart a shared path forward amid sweeping changes in federal policy, additional investments and evolving defense strategies. 
 
@@ -73,7 +561,7 @@ HAGÅTÑA (Office of the Guam Governor) — On Wednesday, Gov. Lou Leon Guerrero
 
 ## New US citizens
 
-date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
+date: 2025-07-09, updated: 2025-07-10, from: Marianas Variety
 
 District Court for NMI Chief Judge Ramona V. Manglona, left, and U.S. Citizenship and Immigrations Services Officer Patricia Phelan, right, pose for a March 2025 photo with newly sworn in U.S. citizens Mary Rose Tutor Capati, Freddie Zamora Cataluna, Lea Magno Cataluna, Elena Creencia, Ruben Creencia, Gina Dela Cruz, Nestor Guzman, Sandra Guzman, Jennelyn Roque Itibus, Nam Soo Kim, Editha Lomerio, Paulino Nimer, Eliza Serrano, Recto Velena and Mary Ann Zulueta Wilson. 
 
@@ -85,7 +573,7 @@ District Court for NMI Chief Judge Ramona V. Manglona, left, and U.S. Citizenshi
 
 ## Judge denies Takai’s request for evidentiary hearing
 
-date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
+date: 2025-07-09, updated: 2025-07-10, from: Marianas Variety
 
 SUPERIOR Court Presiding Judge Roberto C. Naraja has denied Oscar L. Takai’s request for an evidentiary hearing in his petition for judicial review of the Department of Public Lands’ final administrative order denying his agricultural homestead application. 
 
@@ -97,7 +585,7 @@ SUPERIOR Court Presiding Judge Roberto C. Naraja has denied Oscar L. Takai’s r
 
 ## NMTech to break ground on new Koblerville campus this Friday
 
-date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
+date: 2025-07-09, updated: 2025-07-10, from: Marianas Variety
 
 THIS Friday, Northern Marianas Technical Institute will break ground on a new five-building facility in Koblerville to house classrooms, working labs, and an administration building, according to Outreach Coordinator Ben Babauta. 
 
@@ -109,7 +597,7 @@ THIS Friday, Northern Marianas Technical Institute will break ground on a new fi
 
 ## Finance to fund DPL accounting staff
 
-date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
+date: 2025-07-09, updated: 2025-07-10, from: Marianas Variety
 
 TO comply with Public Law 15-2, also known as the Public Lands Act of 2006, the Department of Finance will fund the accounting staff of the Department of Public Lands, Finance Secretary Tracy B. Norita told the House Ways and Means Committee on Wednesday. 
 
@@ -121,7 +609,7 @@ TO comply with Public Law 15-2, also known as the Public Lands Act of 2006, the 
 
 ## Rescheduled power service interruption
 
-date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
+date: 2025-07-09, updated: 2025-07-10, from: Marianas Variety
 
 (Commonwealth Utilities Corporation) — The power service interruption affecting customers in Achugao, San Roque, As Matuis, and Marpi, initially scheduled for Thursday, July 10, 2025, has been rescheduled to Wednesday, July 30, 2025. 
 
@@ -133,7 +621,7 @@ date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
 
 ## Mayor Camacho congratulates CNMI athletes
 
-date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
+date: 2025-07-09, updated: 2025-07-10, from: Marianas Variety
 
 SAIPAN Mayor RB Camacho wishes to convey his heartfelt congratulations to the local athletes who represented the CNMI at the 2025 Pacific Mini Games in Palau. 
 
@@ -145,7 +633,7 @@ SAIPAN Mayor RB Camacho wishes to convey his heartfelt congratulations to the lo
 
 ## Scheduled power service interruptions for Rota
 
-date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
+date: 2025-07-09, updated: 2025-07-10, from: Marianas Variety
 
 (Commonwealth Utilities Corporation) — There will be scheduled power service interruptions on Rota. 
 
@@ -157,13 +645,25 @@ date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
 
 ## CNMI Bar backs Judiciary's request for indigent defense funding
 
-date: 2025-07-09, updated: 2025-07-09, from: Marianas Variety
+date: 2025-07-09, updated: 2025-07-10, from: Marianas Variety
 
 THE CNMI Bar Association on Monday expressed full support for the Judiciary’s request to fund indigent defense — a new account proposed in the judicial branch’s budget for fiscal year 2026. 
 
 <br> 
 
 <https://www.mvariety.com/news/local/cnmi-bar-backs-judiciarys-request-for-indigent-defense-funding/article_f7d7131b-e2df-4bbb-a86c-d568dddfe605.html>
+
+---
+
+## Judge finds probable cause to charge man with indecent exposure
+
+date: 2025-07-09, updated: 2025-07-10, from: Marianas Variety
+
+SUPERIOR Court Judge Joseph N. Camacho has found probable cause to charge Omar Nawaz with indecent exposure. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/judge-finds-probable-cause-to-charge-man-with-indecent-exposure/article_bd8dcc6b-124e-441e-8db5-7ffbbf1ca349.html>
 
 ---
 
@@ -447,17 +947,31 @@ date: 2025-07-09, from: Hawaii Tribune Harold
 
 ---
 
-## Lava fountains reach nearly 1,200 feet high in latest episode of Kilauea eruption
+## UPDATED: Latest episode of Kilauea eruption ends
 
 date: 2025-07-09, from: Hawaii Tribune Harold
 
 
-				<p>Episode 28 of the ongoing Kilauea eruption began just after 4 a.m. this morning. Lava fountaining was continuing with maximum heights reaching nearly 1,200 feet (365 meters).</p>
+				<p><strong>UPDATED 1:20 p.m.</strong></p>
 			 
 
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/07/09/hawaii-news/lava-fountains-reach-nearly-1200-feet-high-in-latest-episode-of-kilauea-eruption/>
+
+---
+
+## Kona airport robbery suspect charged after Hilo crash
+
+date: 2025-07-09, from: Hawaii Tribune Harold
+
+
+				<p>Police have arrested and charged 20-year-old Lasty Jessy of Keaau with numerous offenses in connection with a robbery that occurred Friday night at Ellison Onizuka Kona International Airport.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/09/hawaii-news/kona-airport-robbery-suspect-charged-after-hilo-crash/>
 
 ---
 
@@ -494,18 +1008,6 @@ A Fijian political commentator predicts "it's likely" the "humble" son of Fiji's
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/566423/political-dynamics-in-fiji-are-unpredictable-will-ratu-tevita-mara-step-into-politics>
-
----
-
-## PNG police offer reward to try and solve Hela sorcery murder
-
-date: 2025-07-09, from: 
-
-There has long been an effort to curb what is known as Sorcery Accusation Relation Violence, but the practice continues. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/566422/png-police-offer-reward-to-try-and-solve-hela-sorcery-murder>
 
 ---
 
@@ -1213,6 +1715,7 @@ date: 2025-07-08, from: Island Times
 
 date: 2025-07-08, from: Island Times
 
+<figure><img width="600" height="414" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_4965.jpeg?fit=600%2C414&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_4965.jpeg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_4965.jpeg?resize=300%2C207&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_4965.jpeg?resize=400%2C276&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_4965.jpeg?fit=600%2C414&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78760" data-permalink="https://islandtimes.org/this-is-my-sport/img_4965/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_4965.jpeg?fit=600%2C414&amp;ssl=1" data-orig-size="600,414" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_4965" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_4965.jpeg?fit=300%2C207&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_4965.jpeg?fit=600%2C414&amp;ssl=1" /></figure>
 <p>Dibuk Seid Lands 71-pound Barracuda, declares spearfishing her Passion Koror, Palau — July 7, 2025- As the Pacific Mini Games captivate audiences across the region with displays of athleticism and national pride, Dibuk Seid found herself reflecting on what sport truly meant to her. While others raced on tracks and courts, she dove into Palau’s [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/this-is-my-sport/">“This is my Sport”</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  

@@ -1,11 +1,87 @@
 ---
 title: food
-updated: 2025-07-09 14:09:10
+updated: 2025-07-10 06:08:42
 ---
 
 # food
 
-(date: 2025-07-09 14:09:10)
+(date: 2025-07-10 06:08:42)
+
+---
+
+## Coffee and Service Come First as La Prima Espresso Grows in Pittsburgh
+
+date: 2025-07-10, from: Daily Coffee News
+
+<div><img width="620" height="398" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-620x398.jpeg" class="attachment-large size-large wp-post-image" alt="La Prima Espresso 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-620x398.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-300x193.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-150x96.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-768x493.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Longstanding Pittsburgh, Pennsylvania-based coffee company La Prima Espresso just opened its fifth cafe, returning to a neighborhood it last served more than 20 years ago. The new cafe in... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/10/coffee-and-service-come-first-as-la-prima-espresso-grows-in-pittsburgh/>
+
+---
+
+## Starbucks Just Discovered Putting Couches In Coffee Shops
+
+date: 2025-07-10, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The dream of the 90s is alive at Starbucks. 
+
+<br> 
+
+<https://sprudge.com/starbucks-just-discovered-putting-couches-in-coffee-shops-375450.html>
+
+---
+
+## Best Prime Day Deals Under $25 for Your Kitchen (2025)
+
+date: 2025-07-10, from: Bon Appetet
+
+Kitchen upgrades for less than a dinner out. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-prime-day-deals-under-25-dollars-2025-07-10>
+
+---
+
+## Chicken Bacon Ranch Sandwich
+
+date: 2025-07-10, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/06/Chicken-Bacon-Ranch-Sandwich-1200-8141.jpg"/></div>
+<p>A tasty sandwich with ranch seasoned chicken, ranch dressing, bacon, lettuce, tomato, jalapenos and cheese! Chicken, bacon, and ranch is such a good flavour combo and it works so well in may different ways, including in a sandwich! This sandwich starts with ranch seasoned chicken that&#8217;s thrown into bread (or buns) along with bacon, ranch...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/chicken-bacon-ranch-sandwich/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/chicken-bacon-ranch-sandwich/">Chicken Bacon Ranch Sandwich</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/chicken-bacon-ranch-sandwich/>
+
+---
+
+## Yeti Tumblers and Coolers Are Up to 40% Off for Prime Day
+
+date: 2025-07-09, from: Bon Appetet
+
+Save up to 40% on Rambler tumblers, Tundra wheeled coolers, and Hopper backpack coolers. 
+
+<br> 
+
+<https://www.bonappetit.com/story/yeti-prime-day-deals-2025-07-09>
+
+---
+
+## The Best Amazon Prime Day Deals on Ninja Air Fryers, Coffee Makers, and More
+
+date: 2025-07-09, from: Bon Appetet
+
+Plus a big deal on the Ninja Creami. 
+
+<br> 
+
+<https://www.bonappetit.com/story/amazon-prime-day-ninja-deals>
 
 ---
 
@@ -83,6 +159,30 @@ I review cleaning gear. Here's what I think you should buy on sale right now.
 
 ---
 
+## Giesen Reinventing Flagship Roaster Lines with Upcoming 6 and 15
+
+date: 2025-07-09, from: Daily Coffee News
+
+<div><img width="620" height="428" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Giesen-6-coffee-roaster-1-1-620x428.jpg" class="attachment-large size-large wp-post-image" alt="Giesen 6 coffee roaster-1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Giesen-6-coffee-roaster-1-1-620x428.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Giesen-6-coffee-roaster-1-1-300x207.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Giesen-6-coffee-roaster-1-1-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Giesen-6-coffee-roaster-1-1-768x531.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Giesen-6-coffee-roaster-1-1.jpg 1084w" sizes="(max-width: 620px) 100vw, 620px" /></div>Dutch coffee roaster maker Giesen Roasting Solutions is reinventing its two most popular-sized models with the forthcoming launch of the Giesen 6 and the Giesen 15. Evolving from the 6-kilo-capacity... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/09/giesen-reinventing-flagship-roaster-lines-with-upcoming-6-and-15/>
+
+---
+
+## Three Questions with Rod Johnson of BLK & Bold Specialty Beverages
+
+date: 2025-07-09, from: Daily Coffee News
+
+<div><img width="620" height="426" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Rod-Johnson-1-620x426.jpg" class="attachment-large size-large wp-post-image" alt="Rod Johnson" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Rod-Johnson-1-620x426.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Rod-Johnson-1-300x206.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Rod-Johnson-1-150x103.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Rod-Johnson-1-768x527.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Rod-Johnson-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The concept of community has always been at the heart of BLK &#38; Bold, the Des Moines, Iowa-based coffee roasting and beverage company founded by Pernell Cezar and Rod... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/09/three-questions-with-rod-johnson-of-blk-bold-specialty-beverages/>
+
+---
+
 ## The Movie-Magic World Of Coffee As A Screen Prop
 
 date: 2025-07-09, from: The Sprudge
@@ -123,7 +223,7 @@ They top our product tests for a reason.
 
 date: 2025-07-09, from: Daily Coffee News
 
-<div><img width="620" height="419" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Bentwood-Grinder-Vertical-75-1-1-620x419.jpg" class="attachment-large size-large wp-post-image" alt="Bentwood Grinder Vertical 75 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Bentwood-Grinder-Vertical-75-1-1-620x419.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Bentwood-Grinder-Vertical-75-1-1-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Bentwood-Grinder-Vertical-75-1-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Bentwood-Grinder-Vertical-75-1-1-768x518.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Bentwood-Grinder-Vertical-75-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A new commercial grinder called the Vertical 75 is slated to launch later this summer, courtesy of a collaboration between Swiss grinder maker Bentwood and North Carolina-based equipment seller... 
+<div><img width="620" height="419" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Bentwood-Grinder-Vertical-75-1-1-620x419.jpg" class="attachment-large size-large wp-post-image" alt="Bentwood Grinder Vertical 75 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Bentwood-Grinder-Vertical-75-1-1-620x419.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Bentwood-Grinder-Vertical-75-1-1-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Bentwood-Grinder-Vertical-75-1-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Bentwood-Grinder-Vertical-75-1-1-768x518.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Bentwood-Grinder-Vertical-75-1-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; A new commercial grinder called the Vertical 75 is slated to launch later this summer, courtesy of a collaboration between Swiss grinder maker Bentwood and North Carolina-based equipment seller... 
 
 <br> 
 
@@ -239,7 +339,7 @@ Amazon’s not the only retailer offering major savings right now.
 
 date: 2025-07-08, from: Daily Coffee News
 
-<div><img width="620" height="407" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-620x407.jpg" class="attachment-large size-large wp-post-image" alt="bremen ports" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-620x407.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-300x197.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-150x98.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-768x504.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Multinational green coffee company Sucafina is expanding its footprint in Europe with the launch of a new trading office in Germany, the region&#8217;s largest coffee-consuming country by volume. Slated to... 
+<div><img width="620" height="407" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-620x407.jpg" class="attachment-large size-large wp-post-image" alt="bremen ports" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-620x407.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-300x197.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-150x98.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports-768x504.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/bremen-ports.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Multinational green coffee company Sucafina is expanding its footprint in Europe with the launch of a new trading office in Germany, the region&#8217;s largest coffee-consuming country by volume. Slated to... 
 
 <br> 
 
@@ -287,7 +387,7 @@ I'm taking you back in time with these classic cheesy, saucy shells. This update
 
 date: 2025-07-08, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Salto-Coffee-Rollinsville-4-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Salto Coffee Rollinsville 4" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Salto-Coffee-Rollinsville-4-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Salto-Coffee-Rollinsville-4-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Salto-Coffee-Rollinsville-4-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Salto-Coffee-Rollinsville-4-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Salto-Coffee-Rollinsville-4.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>While Colorado&#8217;s Salto Coffee continues to draw inspiration from the surrounding aspen trees, alpine lakes and granite facades, its more immediate surroundings have undergone some changes. The 13-year-old company owned... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Salto-Coffee-Rollinsville-4-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Salto Coffee Rollinsville 4" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Salto-Coffee-Rollinsville-4-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Salto-Coffee-Rollinsville-4-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Salto-Coffee-Rollinsville-4-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Salto-Coffee-Rollinsville-4-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Salto-Coffee-Rollinsville-4.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>While Colorado&#8217;s Salto Coffee continues to draw inspiration from the surrounding aspen trees, alpine lakes and granite facades, its more immediate surroundings have undergone some changes. The 13-year-old company owned... 
 
 <br> 
 

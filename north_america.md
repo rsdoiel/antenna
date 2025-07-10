@@ -1,11 +1,73 @@
 ---
 title: north america
-updated: 2025-07-09 14:09:01
+updated: 2025-07-10 06:08:34
 ---
 
 # north america
 
-(date: 2025-07-09 14:09:01)
+(date: 2025-07-10 06:08:34)
+
+---
+
+## MAGA’s Ugly Budget at Odds with Its Creepy Pronatalism
+
+date: 2025-07-10, from: The Contrarian
+
+Republicans&#8217; legislation hurts kids and makes child-rearing more expensive 
+
+<br> 
+
+<https://contrarian.substack.com/p/magas-ugly-budget-at-odds-with-its>
+
+---
+
+##  Can One Angry Dad Fix The Drug Industry? 
+
+date: 2025-07-10, from: The Lever News
+
+ Bil Schmidtknecht blames pharmacy benefit managers for the death of his son. He won’t rest until he holds them accountable.  
+
+<br> 
+
+<https://www.levernews.com/can-one-angry-dad-fix-the-drug-industry/>
+
+---
+
+## The spectacular E. Jean Carroll in conversation with Jen Rubin
+
+date: 2025-07-09, from: The Contrarian
+
+"Donald Trump has great moral influence on this country, not only on this country, but around the world. His moral influence has changed the way we see what's good and bad" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167936621/32703bf244a46b43a15f8a51a679c73f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167936621/32703bf244a46b43a15f8a51a679c73f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-spectacular-e-jean-carroll-in>
+
+---
+
+## Evening Roundup, July 9
+
+date: 2025-07-09, from: The Contrarian
+
+Featuring Jennifer Weiss-Wolf and Sharon Malone; Frederic J. Frommer; Marvin Kalb; RJ Matson; Carron J. Phillips; Brian O'Neill; Olivia Julianna; and Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-9>
+
+---
+
+## In Ukraine, Who's Winning, Losing?
+
+date: 2025-07-09, from: The Contrarian
+
+By Marvin Kalb 
+
+<br> 
+
+<https://contrarian.substack.com/p/in-ukraine-whos-winning-losing>
 
 ---
 

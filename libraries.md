@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-07-09 14:09:07
+updated: 2025-07-10 06:08:40
 ---
 
 # libraries
 
-(date: 2025-07-09 14:09:07)
+(date: 2025-07-10 06:08:40)
+
+---
+
+## Guest Post — Vital Voices: The Student Journal Symposium for Literary and Research Publications
+
+date: 2025-07-10, from: Scholarly Kitchen
+
+<p>The George Washington Student Journal Symposium demonstrates how student-led journals inspire young people and nurture best practices in scholarly communications.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/07/10/guest-post-vital-voices-the-student-journal-symposium-for-literary-and-research-publications/">Guest Post &#8212; Vital Voices: The Student Journal Symposium for Literary and Research Publications</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/07/10/guest-post-vital-voices-the-student-journal-symposium-for-literary-and-research-publications/>
 
 ---
 
@@ -99,6 +113,18 @@ Soesanto, Stefan
 <br> 
 
 <http://hdl.handle.net/20.500.11850/743657>
+
+---
+
+## Characterization of Organic Nitrogen by Chlorination, Ozonation, and Stable Isotope Analysis of Nitrate
+
+date: 2025-07-08, from: ETH Zurich, recently added
+
+Ra, Jiwoon; Huang, Kun; Mohn, Joachim; Hofstetter, Thomas B.; Muck, Elisabeth; von Gunten, Urs 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/743866>
 
 ---
 

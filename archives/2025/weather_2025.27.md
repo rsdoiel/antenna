@@ -1,11 +1,11 @@
 ---
 title: weather
-updated: 2025-07-09 14:09:05
+updated: 2025-07-10 06:08:38
 ---
 
 # weather
 
-(date: 2025-07-09 14:09:05)
+(date: 2025-07-10 06:08:38)
 
 ---
 
@@ -13,7 +13,7 @@ updated: 2025-07-09 14:09:05
 
 date: 2025-07-11, from: Central Pacific Basin Tropical Cyclones
 
-No tropical cyclones as of Wed, 09 Jul 2025 21:00:06 GMT 
+No tropical cyclones as of Thu, 10 Jul 2025 13:00:06 GMT 
 
 <br> 
 
@@ -25,11 +25,145 @@ No tropical cyclones as of Wed, 09 Jul 2025 21:00:06 GMT
 
 date: 2025-07-11, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Wed, 09 Jul 2025 21:00:06 GMT 
+No tropical cyclones as of Thu, 10 Jul 2025 13:00:06 GMT 
 
 <br> 
 
 <https://www.nhc.noaa.gov/gis/>
+
+---
+
+## SPC - No watches are valid as of Thu Jul 10 12:33:02 UTC 2025
+
+date: 2025-07-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Thu Jul 10 12:33:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Thu Jul 10 12:33:02 UTC 2025
+
+date: 2025-07-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Thu Jul 10 12:33:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## Central North Pacific Tropical Weather Outlook
+
+date: 2025-07-10, from: Central Pacific Basin Tropical Cyclones
+
+323 <br />ACPN50 PHFO 101115<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />200 AM HST Thu Jul 10 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Roberts<br />NNNN 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2025-07-10, from: Eastern Pacific Basin Tropical Cyclones
+
+324 <br />ABPZ20 KNHC 101115<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Thu Jul 10 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Roberts 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2025-07-10, from: Eastern Pacific Tropical Weather Outlook
+
+324 <br />ABPZ20 KNHC 101115<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Thu Jul 10 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Roberts 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2025-07-10, from: Central Pacific Tropical Weather Outlook
+
+323 <br />ACPN50 PHFO 101115<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />200 AM HST Thu Jul 10 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Roberts<br />NNNN 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2025-07-10, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Thu Jul 10 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Roberts<br>NNNN<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## SPC Jul 10, 2025 Day 4-8 Severe Weather Outlook
+
+date: 2025-07-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 4-8 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0316 AM CDT Thu Jul 10 2025
+
+Valid 131200Z - 181200Z
+
+...DISCUSSION...
+At the start of the forecast period, the mid-level pattern will
+generally be zonal across much country, with the greatest height
+gradient found across the northern United States. By the middle of
+next week, a short-wave trough moving within the broader flow regime
+will amplify the height field across the northern Rockies before
+moving into the central US. The overall pattern recognition would
+suggest the potential for at least isolated severe thunderstorms
+ahead of this feature across then northern Plains into the Upper
+Great Lakes. However, model run-to-run timing differences along with
+inter-model timing differences precludes the ability to identify 15%
+unconditional probabilities on any given day.
+
+Associated with the aforementioned mid-level trough, a surface-cold
+front will push south through much of the Plains and into the East.
+Additional thunderstorms will be likely along the front, however,
+the location of the front on any given day will be strongly
+influenced by previous days' convection. As such, when coupled with
+the uncertainty in the timing of any mid-level wave, predictability
+is too low to identify unconditional probabilities at this time.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 
@@ -683,74 +817,6 @@ extent. This suggests wet microburst potential may be subdued.
 
 ---
 
-## Central North Pacific Tropical Weather Outlook
-
-date: 2025-07-09, from: Central Pacific Basin Tropical Cyclones
-
-000<br />ACPN50 PHFO 091737<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />800 AM HST Wed Jul 09 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Papin<br />NNNN 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2025-07-09, from: Eastern Pacific Basin Tropical Cyclones
-
-000<br />ABPZ20 KNHC 091737<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Wed Jul 9 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Papin 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2025-07-09, from: Eastern Pacific Tropical Weather Outlook
-
-000<br />ABPZ20 KNHC 091737<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Wed Jul 9 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Papin 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
-
----
-
-## Central Pacific Tropical Weather Outlook
-
-date: 2025-07-09, from: Central Pacific Tropical Weather Outlook
-
-000<br />ACPN50 PHFO 091737<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />800 AM HST Wed Jul 09 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Papin<br />NNNN 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2025-07-09, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Wed Jul 9 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Papin<br>NNNN<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
 ## SPC Jul 9, 2025 1730 UTC Day 2 Convective Outlook
 
 date: 2025-07-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -1117,84 +1183,6 @@ deep-layer shear.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## SPC - No watches are valid as of Wed Jul  9 12:58:01 UTC 2025
-
-date: 2025-07-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Wed Jul  9 12:58:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Wed Jul  9 12:58:01 UTC 2025
-
-date: 2025-07-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Wed Jul  9 12:58:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Jul 9, 2025 Day 4-8 Severe Weather Outlook
-
-date: 2025-07-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 4-8 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0318 AM CDT Wed Jul 09 2025
-
-Valid 121200Z - 171200Z
-
-...DISCUSSION...
-The overall large-scale pattern looks to remain characterized by
-mid-to-upper-level ridging across the western United States with a
-zonal to broadly cyclonic flow across the northern tier of the US
-through the forecast period. At the same time, rich/moist low-level
-moisture looks to remain entrenched across much of the eastern US,
-sustained in part by broad, southerly flow, albeit with some
-fluctuations in raw values. Global models continue to be bullish on
-a seasonably strong cold front pushing south through much of the
-central US late in the forecast period, ushering in a cooler/drier
-airmass.
-
-Strong-to-locally severe thunderstorms will be possible somewhere
-across the eastern CONUS every day of the forecast period. However,
-with synoptic-scale forcing/dynamics primarily constrained to
-Canada, most thunderstorms will be determined by
-sub-synoptic/mesoscale details dictated by/reinforced with each
-prior day's convection. Thus, confidence is too low in any one
-location on any given day to introduce unconditional severe
-probabilities at this time. 
-
-However, some areas/scenarios of interest to monitor include the
-southern Great Plains on Days 4-5/Saturday-Sunday as a moist, weakly
-capped environment will exist in proximity to an increasing diffuse
-surface boundary. Other areas include the East Coast most afternoons
-and the along and ahead of seasonably strong cold front pushing
-south through the Great Plains from Days 6-8.
-
-For each of the areas of interest/scenarios of interest above, weak
-effective-layer shear stemming from generally weak tropospheric flow
-will be a limiting factor for a more organized severe potential and
-confidence to introduce unconditional probabilities.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 

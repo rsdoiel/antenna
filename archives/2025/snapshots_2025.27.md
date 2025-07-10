@@ -1,11 +1,123 @@
 ---
 title: snapshots
-updated: 2025-07-09 14:09:12
+updated: 2025-07-10 06:08:44
 ---
 
 # snapshots
 
-(date: 2025-07-09 14:09:12)
+(date: 2025-07-10 06:08:44)
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-10, from: Robert's feed at BlueSky)
+
+Good read 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ltmbdph4hc2l>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-10, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ltmauei3jk2l>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-10, from: Robert's feed at BlueSky)
+
+California is under occupation when a Catholic Bishop feels it is necessary to take this type of action.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ltmahhrvuk2l>
+
+---
+
+## Should We Politicize the Texas Flood? Absolutely
+
+date: 2025-07-10, from: Paul Krugman
+
+When it comes to disasters, accountability delayed is accountability denied 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/should-we-politicize-the-texas-flood>
+
+---
+
+## 303: Superwood
+
+date: 2025-07-10, from: Fix the News
+
+Bulletproof, fire-resistant, stronger than steel. Plus, malaria vaccines get cheaper, global electricity access up, European air pollution down, genuine hope for coral reefs, and giant river otters return to Argentina. 
+
+<br> 
+
+<https://fixthenews.com/303-superwood/>
+
+---
+
+## Trump's Dictator Protection Program
+
+date: 2025-07-09, from: Paul Krugman
+
+Using tariffs to fight democracy 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/trumps-dictator-protection-program>
+
+---
+
+## Lilbits: Perplexity’s AI-based web browser, an open source Flipper Zero clone, and another Ryzen AI Max+ 395 mini PC
+
+date: 2025-07-09, from: Liliputing
+
+<p>AI company Perplexity has officially entered the browser business. While the Comet web browser is based on Google&#8217;s open source Chromium browser, it&#8217;s built to let AI do a lot of the work for you. Instead of entering a URL or typing a search query, you can tell the browser what you&#8217;re looking for by [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-perplexitys-ai-based-web-browser-an-open-source-flipper-zero-clone-and-another-ryzen-ai-max-395-mini-pc/">Lilbits: Perplexity&#8217;s AI-based web browser, an open source Flipper Zero clone, and another Ryzen AI Max+ 395 mini PC</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-perplexitys-ai-based-web-browser-an-open-source-flipper-zero-clone-and-another-ryzen-ai-max-395-mini-pc/>
+
+---
+
+## CCC fordert: Keine verschlossenen Türen im Digitalausschuss!
+
+date: 2025-07-09, updated: 2025-07-10, from: Chaos Computer Club Updates
+
+Der Chaos Computer Club (CCC) fordert zusammen mit mehr als zwanzig Organisationen aus Zivilgesellschaft und Wissenschaft, dass der Digitalausschuss des Deutschen Bundestags von seinen Plänen abrückt, fortan im Geheimen zu tagen. Solche Sitzungen unter Ausschluss der Öffentlichkeit wären schlicht reaktionär, weil sie einen erheblichen Rückschritt bei Transparenz und Partizipation darstellen. 
+
+<br> 
+
+<https://www.ccc.de/de/updates/2025/offene-tueren-im-digitalausschuss>
+
+---
+
+## Google to Pay Texas $1.4 Billion to End Privacy Cases
+
+date: 2025-07-09, from: Purism News and Events
+
+<p>Google’s $1.375 billion settlement with Texas is a wake-up call for digital privacy (Bloomberg Law).</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/google-to-pay-texas-1-4-billion-to-end-privacy-cases/">Google to Pay Texas $1.4 Billion to End Privacy Cases</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br> 
+
+<https://puri.sm/posts/google-to-pay-texas-1-4-billion-to-end-privacy-cases/>
 
 ---
 

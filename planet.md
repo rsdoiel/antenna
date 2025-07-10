@@ -1,11 +1,487 @@
 ---
 title: planet
-updated: 2025-07-09 14:08:59
+updated: 2025-07-10 06:08:32
 ---
 
 # planet
 
-(date: 2025-07-09 14:08:59)
+(date: 2025-07-10 06:08:32)
+
+---
+
+## George Gibney agrees to extradition to Ireland for trial
+
+date: 2025-07-10, from: RTÉ News
+
+Former Olympic swimming coach George Gibney has agreed to be extradited from the United States to stand trial in Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0710/1522869-george-gibney-court/>
+
+---
+
+## Number of women seeking drug, alcohol treatment up 10%
+
+date: 2025-07-10, from: RTÉ News
+
+There was a 10% increase in the number of women seeking treatment for drug and alcohol addiction in the first quarter of this year, compared to the same period in 2024. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0710/1522863-coolmine-drug-alcohol-report/>
+
+---
+
+## Dáil holds minute's silence over Srebrenica genocide
+
+date: 2025-07-10, from: RTÉ News
+
+TDs have stood for a minute's silence in the Dáil in memory of the more than 8,000 men and boys killed by Bosnian Serb forces in the town of Srebrenica in 1995. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0710/1522865-dail-holds-minutes-silence-over-srebrenica-genocide/>
+
+---
+
+## Irish data watchdog opens fresh probe into TikTok
+
+date: 2025-07-10, from: RTÉ News
+
+The Irish Data Protection Commission (DPC) has announced that it has opened an inquiry into TikTok's transfers of European users' personal data to servers located in China. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0710/1522871-tiktok-dpc/>
+
+---
+
+## Gaza doctors forced to cram babies into single incubator
+
+date: 2025-07-10, from: RTÉ News
+
+At Gaza's largest hospital, doctors say crippling fuel shortages have led them to put several premature babies in a single incubator as they struggle to keep the newborns alive while Israel presses on with its military campaign. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0710/1522868-gaza-baby-incubators/>
+
+---
+
+## Southern Africa: Bishop Selemela urges priests in IMBISA region  to embrace change and renewal 
+
+date: 2025-07-10, from: Vatican News
+
+
+                    <p>As the Catholic Church journeys through the Synod on Synodality and the Jubilee Year, the Auxiliary Bishop of Pretoria Archdiocese has urged priests to embrace pastoral renewal. </p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-07/southern-africa-bishop-selemela-urges-priests-in-imbisa-region.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-07/southern-africa-bishop-selemela-urges-priests-in-imbisa-region.html>
+
+---
+
+## Man on trial for manslaughter of Sligo farmer in 2023
+
+date: 2025-07-10, from: RTÉ News
+
+A Co Mayo man has gone on trial at the Central Criminal Court, where he is accused of the manslaughter of Tom Niland, a 75-year-old retired farmer from Skreen in Co Sligo. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0710/1522856-manslaughter-sligo-court/>
+
+---
+
+## Pope Leo: Hope is source of joy no matter our age
+
+date: 2025-07-10, from: Vatican News
+
+
+                    <p>In his Message for the World Day for Grandparents and the Elderly—celebrated each year on the Sunday nearest the feast of Jesus’ grandparents, Sts Anne and Joachim—Pope Leo reflects on hope and old age. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-hope-is-source-of-joy-no-matter-our-age.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-hope-is-source-of-joy-no-matter-our-age.html>
+
+---
+
+## Planning granted for Greater Dublin Drainage Project
+
+date: 2025-07-10, from: RTÉ News
+
+Planning approval has been given to a major €1.3 billion drainage scheme for Dublin which is critical to the provision of housing in future years. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0710/1522855-drainage-project-dublin/>
+
+---
+
+## EU's von der Leyen survives parliament confidence vote
+
+date: 2025-07-10, from: RTÉ News
+
+European Commission President Ursula von der Leyen has survived a no-confidence vote in the European Parliament, tabled by mainly far-right politicians who alleged she and her team undermined trust in the EU through unlawful actions. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0710/1522852-von-der-leyen/>
+
+---
+
+## Sharp rise in food and drink prices over past year
+
+date: 2025-07-10, from: RTÉ News
+
+There has been a sharp rise in the prices of a number of food and drink products over the past year, according to latest inflation figures from the Central Statistics Office. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0710/1522849-sharp-rise-in-food-and-drink-prices-over-past-year/>
+
+---
+
+## Hole-in-one sparks magic Maguire major start
+
+date: 2025-07-10, from: RTÉ News
+
+A superb hole-in-one was the memorable moment of Leona Maguire's opening round as she took the clubhouse lead at the Amundi Evian Championship in France. 
+
+<br> 
+
+<https://www.rte.ie/sport/golf/2025/0710/1522847-hole-in-one-sparks-magic-maguire-major-start/>
+
+---
+
+## US sanctions UN expert critical of Israel's war in Gaza
+
+date: 2025-07-10, from: RTÉ News
+
+The United States has said it is imposing sanctions on Francesca Albanese, the United Nations' special rapporteur on human rights in the occupied Palestinian territories, who has been very critical of US ally Israel's war in Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0710/1522837-francesca-albanese/>
+
+---
+
+## Met Éireann issues high temperature warning, 27C expected
+
+date: 2025-07-10, from: RTÉ News
+
+Met Éireann has issued a Status Yellow high temperature warning for tomorrow and Saturday with highs of over 27C expected. 
+
+<br> 
+
+<https://www.rte.ie/news/weather/2025/0710/1522839-weather-warning/>
+
+---
+
+## Consumers warned to stop using certain Tower air fryers
+
+date: 2025-07-10, from: RTÉ News
+
+Consumers are being warned to stop using certain models of Tower air fryers following a recall from the company. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0710/1522833-consumers-warned-to-stop-using-certain-tower-air-fryers/>
+
+---
+
+## BULLIALDUS
+
+date: 2025-07-10, from: Vatican Obervatory
+
+After you have worn yourself out on Eratosthenes and Copernicus and see all the features around Plato, 8-9 days after new moon, you may notice a beautifully... 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/bullialdus/>
+
+---
+
+## Zimbabwe: The Little Children of Our Blessed Lady Sisters await the 11th General Chapter
+
+date: 2025-07-10, from: Vatican News
+
+
+                    <p>The Little Children of Our Blessed Lady (LCBL) Sisters are gearing up for a significant milestone, their 11th General Chapter, set to take place in August 2025 in Harare.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-07/zimbabwe-little-children-of-our-blessed-lady-sisters-chapter.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-07/zimbabwe-little-children-of-our-blessed-lady-sisters-chapter.html>
+
+---
+
+## Catholic University in Erbil looks ahead to 10-year anniversary
+
+date: 2025-07-10, from: Vatican News
+
+
+                    <p>The Catholic University in Erbil, in the Kurdistan region of northern Iraq, was founded to provide an education to minority groups fleeing ISIS. Now, it aims to promote peace by teaching about Mesopotamia’s religious history. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/catholic-university-in-erbil-10-year-anniversary-karam-shamasha.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/catholic-university-in-erbil-10-year-anniversary-karam-shamasha.html>
+
+---
+
+## First Nations Australian students in Rome enriched by cultural exchange 
+
+date: 2025-07-10, from: Vatican News
+
+
+                    <p>Two First Nations students in Rome as winners of the 2025 Francis Xavier Conaci Scholarship, speak with Vatican News about their experience and share their stories at an event at the Australian Embassy to the Holy See.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/conaci-scholarship-australian-embassy-holy-see-first-nations.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/conaci-scholarship-australian-embassy-holy-see-first-nations.html>
+
+---
+
+## HSE says 200-300 'high-risk' pregnancies to move from PUH
+
+date: 2025-07-10, from: RTÉ News
+
+Between 200 and 300 expectant mothers with "high-risk" pregnancies will be moved from Portiuncula University Hospital in Ballinasloe to other locations, the HSE has said. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0710/1522812-portiuncula-hospital-pregnancies/>
+
+---
+
+## AIB announces AI rollout for bank staff
+
+date: 2025-07-10, from: RTÉ News
+
+AIB and Microsoft Ireland have announced the rollout of a suite of artificial intelligence (AI) capabilities across the bank. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0710/1522822-aib-announces-ai-rollout-for-bank-staff/>
+
+---
+
+## Rescuers pluck 4 survivors from the water after Houthi-struck ship sinks in Red Sea
+
+date: 2025-07-10, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7581506.1752146419!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-yemen-shipping.JPG' alt='A vessel sinking at sea.' width='620' height='349' title='A vessel said to be Greek-operated, Liberia-flagged Eternity C sinks in a footage released by Yemen&apos;s Houthis, in the Red Sea, in this screen grab taken from a handout video released on July 9, 2025.    HOUTHI MEDIA CENTER/Handout via REUTERS    THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY'/><p>Rescuers pulled three more crew members and a security guard alive from the Red Sea on Thursday, maritime security sources said, a day after Houthi militants sank the Greek ship Eternity C and said they were holding some of the crew still missing.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/houthi-ship-red-sea-1.7581498?cmp=rss>
+
+---
+
+## Major incident declared over loyalist bonfire in Belfast
+
+date: 2025-07-10, from: RTÉ News
+
+Police in Northern Ireland are assessing a request from Belfast City Council to help contractors remove a controversial bonfire deemed to pose a risk to the electricity supply to two major hospitals. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0710/1522803-bonfires-northern-ireland/>
+
+---
+
+## Fine Gael MEP Seán Kelly not considering presidential run
+
+date: 2025-07-10, from: RTÉ News
+
+Fine Gael MEP Seán Kelly has ruled himself out of seeking his party's nomination for the presidency. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0710/1522806-sean-kelly/>
+
+---
+
+## GAA Palestine calls on Taoiseach to help with visa denial
+
+date: 2025-07-10, from: RTÉ News
+
+GAA Palestine's founder has called on Taoiseach Micheál Martin to step in to prevent Palestinian children "being devastated" after a group of its players had their visas to Ireland denied. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0710/1522804-palestine-gaa-visas/>
+
+---
+
+## Taylor: 'Enough is enough' from whining Serrano camp
+
+date: 2025-07-10, from: RTÉ News
+
+Katie Taylor has told RTÉ Sport that "enough is enough" in response to the criticisms previously dished out by Amanda Serrano's camp as preparations for Saturday morning's highly-anticipated trilogy fight in New York continue. 
+
+<br> 
+
+<https://www.rte.ie/sport/boxing/2025/0710/1522783-taylor-enough-is-enough-from-whining-serrano-camp/>
+
+---
+
+## Two killed in strikes on Kyiv as US resumes arms supplies
+
+date: 2025-07-10, from: RTÉ News
+
+Two deaths have been reported in Ukraine after hundreds of Russian drone and missile attacks on the capital Kyiv as the US resumed weapons delivery to Kyiv. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0710/1522773-ukraine/>
+
+---
+
+## US government sues California over egg prices
+
+date: 2025-07-10, from: RTÉ News
+
+US President Donald Trump's administration has sued California over its regulation of eggs and chicken farms, saying that the state's anti-animal cruelty laws created "unnecessary red tape" that had raised egg prices throughout the US. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0710/1522777-trump-egg-prices/>
+
+---
+
+## Gaza civil defence says 52 killed by Israeli forces
+
+date: 2025-07-10, from: RTÉ News
+
+Gaza's civil defence agency on Thursday said that at least 52 people, including eight children, were killed by Israeli forces in the war-battered Palestinian territory, updating a previous toll. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0710/1522774-middle-east-gaza/>
+
+---
+
+## 'Miracle' as lost surfer found on uninhabited island
+
+date: 2025-07-10, from: RTÉ News
+
+A teenage Australian surfer feared lost at sea was rescued after spending the night on an uninhabited island miles offshore, officials and local media said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0710/1522771-miracle-as-lost-surfer-found-on-uninhabited-island/>
+
+---
+
+## Can Ursula von der Leyen's commission be toppled?
+
+date: 2025-07-10, from: RTÉ News
+
+For the first time in more than a decade, the European Commission President and her entire College of Commissioners are facing a vote of confidence. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0710/1522754-der-leyen-commission/>
+
+---
+
+## Syria's Druze avoided the worst of the 14-year civil war — and want little to do with new rulers
+
+date: 2025-07-10, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7578983.1752069228!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/bader-kmash.jpg' alt='A man and a woman are seated in a restaurant.' width='620' height='349' title='Bader Kmash, left, seated next to a fellow activist, says the Druze ‘do not trust’ Syria’s new authorities.'/><p>It’s been six months since longtime Syrian dictator Bashar al-Assad was toppled following a stunning rebel offensive that saw opposition fighters seize the country in just 11 days. One community in particular finds itself in a delicate situation: the Druze.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/syria-druze-government-1.7578976?cmp=rss>
+
+---
+
+## New Mexico residents watch in shock as flash flood sweeps entire house downstream
+
+date: 2025-07-09, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7581439.1752114177!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/image-of-house-being-carried-away-by-flash-flooding-in-ruidoso-n-m.jpg' alt='An image of a home being carried away by flash flooding in Ruidoso, N.M.' width='620' height='349' title='In this image taken from video, a house is carried away by flash flooding behind a house in Ruidoso, N.M., Tuesday, July 8, 2025.'/><p>Residents of Ruidoso, New Mexico, were glued to the windows of a riverside brewery where they were sheltering from a flash flood that swept through the town, carrying rocks, debris and even an entire house.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/house-swept-away-new-mexico-floods-1.7581436?cmp=rss>
+
+---
+
+## Dublin student wins major science competition
+
+date: 2025-07-09, from: RTÉ News
+
+A Dublin student has won the top prize at 'The Eurekas', a major annual awards programme that works to break down barriers to the study of physics. 
+
+<br> 
+
+<https://www.rte.ie/news/science/2025/0710/1522751-physics-student-award-winner/>
+
+---
+
+## AI hitting graduate hiring in accountancy and finance
+
+date: 2025-07-09, from: RTÉ News
+
+There have been "notable reductions" in graduate hiring by major firms in the accountancy and finance sectors because of the impact of AI, according to the latest Employment Monitor from recruitment firm Morgan McKinley Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0710/1522749-job-vacancies-ai/>
+
+---
+
+## Trump targets Brazil with 50% tariff
+
+date: 2025-07-09, from: RTÉ News
+
+US President Donald Trump announced a 50% tariff targeting Brazil as he blasted the trial of the country's ex-leader, while widening a push to secure more bilateral trade deals with other partners. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0709/1522762-trump-brazil-tarrifs/>
+
+---
+
+## South Korea court orders new arrest for ex-president Yoon
+
+date: 2025-07-09, from: RTÉ News
+
+A South Korean court has approved a fresh arrest warrant for disgraced former President Yoon Suk Yeol and placed him in custody, days after special investigators renewed efforts to detain him over his failed martial law bid. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0709/1522764-south-korean-court-orders-new-arrest-of-ex-president-yoon/>
+
+---
+
+## Odubeko strike gives Shels slim advantage over Linfield
+
+date: 2025-07-09, from: RTÉ News
+
+Mipo Odubeko's 58th-minute goal earned Shelbourne a hard-fought 1-0 victory over Linfield in their Champions League first-round qualifier at a raucous Tolka Park. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0709/1522759-odubeko-strike-gives-shels-slim-advantage-over-linfield/>
 
 ---
 
@@ -18,6 +494,18 @@ GAA Palestine has said a group of its players and mentors have had their visa ap
 <br> 
 
 <https://www.rte.ie/news/2025/0709/1522752-gaa-palestine-visas/>
+
+---
+
+## Trump praises English of president of Liberia, where the official language is English
+
+date: 2025-07-09, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/deedc832-9a4b-41bb-9a77-693cd2334e73,1752102600175/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Liberian President Joseph Boakai looks across the table at U.S. President Donald Trump.' width='620' height='349' title=''/><p>U.S. President Donald Trump hosted the leaders of several African countries on Wednesday at the White House. After Liberian President Joseph Boakai spoke about wanting to work with the U.S., Trump praised Boakai's 'beautiful English' and asked him where he'd been educated. </p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6826257?cmp=rss>
 
 ---
 
@@ -42,6 +530,18 @@ Trinity College Dublin has begun sending out invoices for the next academic year
 <br> 
 
 <https://www.rte.ie/news/2025/0709/1522741-college-fees/>
+
+---
+
+## TCD sends invoices to students seeking over €3,000 fees
+
+date: 2025-07-09, from: RTÉ News
+
+Trinity College Dublin has begun sending out invoices for the next academic year to students for more than €3,000. 
+
+<br> 
+
+<https://www.rte.ie/news/education/2025/0709/1522741-college-fees/>
 
 ---
 
@@ -93,6 +593,18 @@ RTÉ reporter Edel McAllister spoke to a previous candidate on the turbulence of
 
 ---
 
+## Day school survivors legacy fund now open for funding requests
+
+date: 2025-07-09, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.4004943.1752091983!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/garry-mclean.jpg' alt='Garry McLean' width='620' height='349' title='Garry McLean is on the board of the Indian and Métis Friendship Centre.'/><p>A fund for projects for healing, language and cultural revitalization and commemoration for day school survivors and their families is now accepting applications.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/day-school-legacy-fund-opens-1.7581070?cmp=rss>
+
+---
+
 ## Comet 3I/ATLAS Has a Coma!
 
 date: 2025-07-09, from: Vatican Obervatory
@@ -102,6 +614,18 @@ Comet 3I/ATLAS is showing a distinct coma!
 <br> 
 
 <https://www.vaticanobservatory.org/sacred-space-astronomy/comet-3i-atlas-has-a-coma/>
+
+---
+
+## Linda Yaccarino steps down as CEO of Elon Musk's X
+
+date: 2025-07-09, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.6841438.1683908449!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/linda-yaccarino.jpg' alt='Linda Yaccarino is shown on stage at the Davos conference.' width='620' height='349' title='Linda Yaccarino, chairman of advertising and partnerships at NBC Universal Media LLC, speaks during a panel session on the opening day of the World Economic Forum (WEF) in Davos, Switzerland, on Tuesday, Jan. 23, 2018. World leaders, influential executives, bankers and policy makers attend the 48th annual meeting of the World Economic Forum in Davos from Jan. 23 - 26. Photographer: Jason Alden/Bloomberg'/><p>Linda Yaccarino's departure from the social media company X comes as owner Elon Musk is facing turbulence in his sprawling business empire — including falling sales at his EV maker Tesla and AI-related controversies.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/business/linda-yaccarino-steps-down-1.7580968?cmp=rss>
 
 ---
 
@@ -165,6 +689,18 @@ date: 2025-07-09, from: CBC, World News
 
 ---
 
+## Haudenosaunee women are reclaiming traditional teachings around their periods
+
+date: 2025-07-09, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7579804.1752087961!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/sb.jpeg' alt='Woman strains herbs into a cup.' width='620' height='349' title='Sateiokwen sends Moon time workshop participants home with herbs so they can make their own tea.'/><p>Haudenosaunee women are learning traditional "moon time" teachings so their daughters can approach their menstrual cycle with support instead of stigma. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/moontime-menstruation-akwesasne-1.7579671?cmp=rss>
+
+---
+
 ## South Sudan Bishop urges his people to embrace peace in daily lives
 
 date: 2025-07-09, from: Vatican News
@@ -201,7 +737,7 @@ date: 2025-07-09, from: Vatican News
 
 date: 2025-07-09, from: RTÉ News
 
-Elon Musk-owned X's CEO Linda Yaccarino said today she would step down from the role in a surprise move, just months after the social media platform was acquired by the billionaire's AI startup, xAI. 
+Elon Musk-owned X's CEO Linda Yaccarino said she would step down from the role in a surprise move, just months after the social media platform was acquired by the billionaire's AI startup, xAI. 
 
 <br> 
 
@@ -218,6 +754,18 @@ A Co Mayo man has pleaded not guilty at the Central Criminal Court to the mansla
 <br> 
 
 <https://www.rte.ie/news/2025/0709/1522673-sligo-manslaughter/>
+
+---
+
+## Man pleads not guilty to manslaughter of Sligo farmer
+
+date: 2025-07-09, from: RTÉ News
+
+A Co Mayo man has pleaded not guilty at the Central Criminal Court to the manslaughter of Tom Niland, a 74-year-old retired farmer from Skreen in Co Sligo, who died in September 2023. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0709/1522673-sligo-manslaughter/>
 
 ---
 
@@ -431,6 +979,18 @@ Former Senator and Independent Alliance TD Shane Ross has denied that writing a 
 
 ---
 
+## Ross denies illegality of publishing Cabinet details
+
+date: 2025-07-09, from: RTÉ News
+
+Former Senator and Independent Alliance TD Shane Ross has denied that writing a book about his time in government, which contained details of cabinet discussions, was an "act of calculated and deliberate illegality". 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0709/1522643-super-junior-ministers-court/>
+
+---
+
 ## In South Asia, anaemia threatens women’s health and economic futures
 
 date: 2025-07-09, from: United Nations, Top Stories
@@ -488,6 +1048,18 @@ Yemen continues to face a dire humanitarian crisis, driven by acute hunger, econ
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/07/1165353>
+
+---
+
+## Libya: UN urges restraint as military buildup threatens renewed violence in Tripoli
+
+date: 2025-07-09, from: United Nations, Top Stories
+
+With Libya once again teetering on the brink of violence, the United Nations has issued an urgent appeal for calm amid rising military tensions in and around the capital, Tripoli. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165358>
 
 ---
 
@@ -1378,7 +1950,7 @@ date: 2025-07-08, from: Vatican News
 
 ## UN summit confronts AI’s dawn of wonders and warnings
 
-date: 2025-07-08, from: United Nations, Economic Development
+date: 2025-07-08, from: United Nations, Top Stories
 
 The UN’s flagship platform on artificial intelligence opened in Geneva on Tuesday, launching four days of high-level dialogue, cutting-edge demonstrations and urgent calls for inclusive AI governance. The event comes as autonomous and generative systems evolve faster than regulatory frameworks can keep pace. 
 
@@ -1414,7 +1986,7 @@ The UN human rights office, OHCHR, has expressed deep concern over the killing o
 
 ## US tariff delay deepens trade uncertainty, warns top UN economist
 
-date: 2025-07-08, from: United Nations, Economic Development
+date: 2025-07-08, from: United Nations, Top Stories
 
 A leading UN trade official warned on Tuesday that the United States’ decision to delay the end of a tariff suspension by a few weeks risks prolonging global uncertainty and undermining long-term investments and commercial contracts. 
 
@@ -1438,7 +2010,7 @@ As relentless attacks continue to damage homes and communities across Ukraine, t
 
 ## South Sudan’s longest cholera outbreak enters critical stage
 
-date: 2025-07-08, from: United Nations, Climate Change
+date: 2025-07-08, from: United Nations, Top Stories
 
 On the eve of the fourteenth anniversary of its independence, South Sudan – the world’s youngest country – is experiencing its worst and longest cholera outbreak.&nbsp;&nbsp; 
 
@@ -2182,7 +2754,7 @@ Goals win games goes the old cliche, and Shane McGrath feels that Tipperary were
 
 ## Human rights must anchor the digital age, says UN’s Türk
 
-date: 2025-07-07, from: United Nations, Economic Development
+date: 2025-07-07, from: United Nations, Top Stories
 
 As digital technologies rapidly reshape every aspect of society, the UN’s top human rights official has called for human rights to be placed at the centre of this transformation. 
 
@@ -2194,7 +2766,7 @@ As digital technologies rapidly reshape every aspect of society, the UN’s top 
 
 ## ‘Cooperation is humanity’s greatest innovation,’ UN chief declares at BRICS summit
 
-date: 2025-07-07, from: United Nations, Economic Development
+date: 2025-07-07, from: United Nations, Top Stories
 
 UN Secretary-General António Guterres on Monday warned that the environment is being attacked on all fronts and called on the international community to urgently tackle the intersection of health and climate issues. 
 

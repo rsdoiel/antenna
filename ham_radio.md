@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-07-09 14:09:03
+updated: 2025-07-10 06:08:35
 ---
 
 # ham radio
 
-(date: 2025-07-09 14:09:03)
+(date: 2025-07-10 06:08:35)
+
+---
+
+## How spiders and eels inspired a magnetoreceptive sensor
+
+date: 2025-07-10, from: EDN Blog
+
+<img width="1280" height="853" src="https://www.edn.com/wp-content/uploads/Hero-image-Magnetoreceptive-skin-sensors_eye-candy.png?fit=1280%2C853" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Magnetoreceptive-skin-sensors_eye-candy.png?w=1280 1280w, https://www.edn.com/wp-content/uploads/Hero-image-Magnetoreceptive-skin-sensors_eye-candy.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Magnetoreceptive-skin-sensors_eye-candy.png?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Magnetoreceptive-skin-sensors_eye-candy.png?w=1024 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /><p>The magnetoreceptor captures electrical resistance information across the entire measurement domain, offering continuous spatial detection.</p>
+<p>The post <a href="https://www.edn.com/how-spiders-and-eels-inspired-a-magnetoreceptive-sensor/">How spiders and eels inspired a magnetoreceptive sensor</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/how-spiders-and-eels-inspired-a-magnetoreceptive-sensor/>
 
 ---
 
@@ -37,7 +51,7 @@ date: 2025-07-09, from: Amateur Radio Relay League News
 
 date: 2025-07-09, from: EDN Blog
 
-<img width="573" height="498" src="https://www.edn.com/wp-content/uploads/AntiPar_Figure3.png?fit=573%2C498" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/AntiPar_Figure3.png?w=573 573w, https://www.edn.com/wp-content/uploads/AntiPar_Figure3.png?w=300 300w" sizes="(max-width: 573px) 100vw, 573px" /><p>Take advantage of current control topologies without self-heating error while retaining the 317/337's fault protection features.</p>
+<img width="573" height="498" src="https://www.edn.com/wp-content/uploads/AntiPar_Figure3.png?fit=573%2C498" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/AntiPar_Figure3.png?w=573 573w, https://www.edn.com/wp-content/uploads/AntiPar_Figure3.png?w=300 300w" sizes="(max-width: 573px) 100vw, 573px" /><p>Take advantage of current control topologies without self-heating error while retaining the 317/337's fault protection features.</p>
 <p>The post <a href="https://www.edn.com/cross-connect-complementary-current-sources-to-reduce-self-heating-error/">Cross connect complementary current sources to reduce self-heating error</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

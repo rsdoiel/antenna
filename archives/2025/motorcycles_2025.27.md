@@ -1,11 +1,86 @@
 ---
 title: motorcycles
-updated: 2025-07-09 14:09:08
+updated: 2025-07-10 06:08:40
 ---
 
 # motorcycles
 
-(date: 2025-07-09 14:09:08)
+(date: 2025-07-10 06:08:40)
+
+---
+
+## This Indian Company Just Built the Most Unlikely EV Motorcycle You’ve Ever Seen
+
+date: 2025-07-10, from: Ride Apart, Electric Motorcycle News
+
+No groundbreaking tech or performance figures here, but an honest to goodness manual gearbox…on an EV. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/765233/matter-aera5000-electric-motorcycle-manual-gearbox/>
+
+---
+
+## This Special Arai Motorcycle Helmet Pays Tribute To a Legendary Isle of Man TT Racer
+
+date: 2025-07-10, from: Ride Apart, Electric Motorcycle News
+
+This collector’s piece is ready to race straight out of the box. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/765230/arai-rx7v-helmet-joey-dunlop-limited-edition-isle-of-man-tt/>
+
+---
+
+## Yamaha’s Insane Robot Motorcycle Just Won a Red Dot Award, Because Why Not?
+
+date: 2025-07-10, from: Ride Apart, Electric Motorcycle News
+
+The Motoroid2 was designed to look and feel “alive.” 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/765222/yamaha-motoroid2-red-dot-design-award/>
+
+---
+
+## BMW's New Small Off-Road Motorcycle Is Coming Soon, and We’ve Got the Juicy Details
+
+date: 2025-07-10, from: Ride Apart, Electric Motorcycle News
+
+Except for the price. 
+
+<br> 
+
+<https://www.rideapart.com/news/765199/bmw-f450gs-specs-launch-2025/>
+
+---
+
+## If You Have Any Of These Motorcycle and Snowmobile Helmets, Stop Wearing Them Now
+
+date: 2025-07-10, from: Ride Apart, Electric Motorcycle News
+
+Heads up, 509 and Polaris are recalling these lids in the US and Canada at the same time. 
+
+<br> 
+
+<https://www.rideapart.com/news/765195/509-polaris-youth-helmet-recall/>
+
+---
+
+## 'He Got Off the Motorcycle and Offered the Bear Food': The Bear Then Killed the Rider
+
+date: 2025-07-10, from: Ride Apart, Electric Motorcycle News
+
+A reminder, just because friend shaped doesn't make bears friends.  
+
+<br> 
+
+<https://www.rideapart.com/news/765305/motorcyclist-killed-by-bear-europe/>
 
 ---
 

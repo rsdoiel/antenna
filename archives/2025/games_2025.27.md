@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-07-09 14:09:06
+updated: 2025-07-10 06:08:38
 ---
 
 # games
 
-(date: 2025-07-09 14:09:06)
+(date: 2025-07-10 06:08:38)
+
+---
+
+## Ex-D&#038;D and Magic: The Gathering VP takes over Vampire: The Masquerade as creative director
+
+date: 2025-07-10, updated: 2025-07-09, from: Polygon Website
+
+White Wolf has announced that Jess Lanzillo, former vice president for Dungeons &#38; Dragons and creative director for Magic: The Gathering, has joined as creative director for World of Darkness. Lanzillo joins as White Wolf works to bring World of Darkness licensing and publishing back in house.  Lanzillo will be responsible for IP development for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/612076/white-wolf-jess-lanzillo-dungeons-dragons-magic-the-gathering>
+
+---
+
+## What is Umamusume: Pretty Derby, the game taking over Twitch and Steam?
+
+date: 2025-07-10, updated: 2025-07-09, from: Polygon Website
+
+If 2025 has proven anything, it’s that the next big game can come from anywhere. A roguelike about a mansion broke everyone’s brains. An RPG about perfect parries stole everyone’s hearts. And now, as the second half of the year rolls around, everyone is obsessed with a gacha game about anime horse girls. The wave [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/612058/umamusume-pretty-derby-popularity-what-is-explainer>
+
+---
+
+## Persona 5 The Phantom X flower shop questions and answers
+
+date: 2025-07-09, updated: 2025-07-09, from: Polygon Website
+
+Working at the flower shop in Persona 5: The Phantom X is a part-time job that will sometimes require you to answer questions to do the job “correctly.” This mechanic is similar to the classroom questions and answers that have been prevalent in the Persona franchise since Persona 3. However, the mechanics are a bit [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/persona-5-phantom-x-guides/611248/flower-shop-questions-answers-rewards-part-time-job>
+
+---
+
+## Every Marvel Cinematic Universe TV show, ranked
+
+date: 2025-07-09, updated: 2025-07-09, from: Polygon Website
+
+These days, every Marvel TV show is Marvel Cinematic Universe canon, sorta-kinda more or less: Marvel Studios president Kevin Feige has implied that technically, the rise of the Marvel multiverse makes everything canon somewhere. And with the recent return of Charlie Cox as Daredevil, reprising his role from the Netflix Daredevil series in Daredevil: Born [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/22561233/mcu-tv-shows-ranked-marvel-cinematic-universe>
 
 ---
 

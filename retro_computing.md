@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-07-09 14:09:08
+updated: 2025-07-10 06:08:41
 ---
 
 # retro computing
 
-(date: 2025-07-09 14:09:08)
+(date: 2025-07-10 06:08:41)
+
+---
+
+## KIM-100
+
+date: 2025-07-10, from: Hans Otten's Retro blog
+
+See also:Focal-65 V3D for TIM and KIM-1Focal on the 6502, a page on this small language, originating for Digital Equipment. A small interpreter (about 5K) for...John Bell Engineering catalogsThanks to Dallas Shell I have added the 1984 and 1988 catalog to the John Bell Engineering pages. Also a hand drawn and...New KIM-1 info and moreAdded [&#8230;] 
+
+<br> 
+
+<http://retro.hansotten.nl/kim-100/>
 
 ---
 

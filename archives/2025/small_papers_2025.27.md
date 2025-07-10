@@ -1,11 +1,173 @@
 ---
 title: small papers
-updated: 2025-07-09 14:09:10
+updated: 2025-07-10 06:08:43
 ---
 
 # small papers
 
-(date: 2025-07-09 14:09:10)
+(date: 2025-07-10 06:08:43)
+
+---
+
+## El Organizador Comunitario Ernesto Ayala y Otras Tres Personas son Arrestadas Durante una Redada de ICE en Van Nuys Home Depot
+
+date: 2025-07-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1019" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?fit=1019%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?w=1900&amp;ssl=1 1900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=298%2C300&amp;ssl=1 298w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=1019%2C1024&amp;ssl=1 1019w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=768%2C772&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=1528%2C1536&amp;ssl=1 1528w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=1200%2C1206&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=780%2C784&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=400%2C402&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=706%2C710&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?fit=1019%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>VAN NUYS &#8211; La Unión del Barrio, con abogados como el Gremio Nacional de Abogados, están pidiendo la liberación de los residentes del noreste del Valle Ernesto Ayala y Jude [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/09/el-organizador-comunitario-ernesto-ayala-y-otras-tres-personas-son-arrestadas-durante-una-redada-de-ice-en-van-nuys-home-depot/">El Organizador Comunitario Ernesto Ayala y Otras Tres Personas son Arrestadas Durante una Redada de ICE en Van Nuys Home Depot</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/09/el-organizador-comunitario-ernesto-ayala-y-otras-tres-personas-son-arrestadas-durante-una-redada-de-ice-en-van-nuys-home-depot/>
+
+---
+
+## Los Dodgers Enfrentan Boicots de los Fanáticos Después de no Denunciar las Redadas de Inmigración en Los Ángeles
+
+date: 2025-07-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="685" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25181645358001-1-scaled.jpg?fit=1024%2C685&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25181645358001-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25181645358001-1-scaled.jpg?resize=300%2C201&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25181645358001-1-scaled.jpg?resize=1024%2C685&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25181645358001-1-scaled.jpg?resize=768%2C514&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25181645358001-1-scaled.jpg?resize=1536%2C1027&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25181645358001-1-scaled.jpg?resize=2048%2C1369&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25181645358001-1-scaled.jpg?resize=1200%2C802&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25181645358001-1-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25181645358001-1-scaled.jpg?resize=2000%2C1337&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25181645358001-1-scaled.jpg?resize=780%2C522&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25181645358001-1-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25181645358001-1-scaled.jpg?resize=706%2C472&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25181645358001-1-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25181645358001-1-scaled.jpg?fit=1024%2C685&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Durante el último mes, muchos fanáticos y grupos dentro de la comunidad latina han llamado a un boicot de su amado equipo: los Dodgers de Los Ángeles. Si bien decenas [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/09/los-dodgers-enfrentan-boicots-de-los-fanaticos-despues-de-no-denunciar-las-redadas-de-inmigracion-en-los-angeles/">Los Dodgers Enfrentan Boicots de los Fanáticos Después de no Denunciar las Redadas de Inmigración en Los Ángeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/09/los-dodgers-enfrentan-boicots-de-los-fanaticos-despues-de-no-denunciar-las-redadas-de-inmigracion-en-los-angeles/>
+
+---
+
+## La Presencia de ICE en el Glendale Memorial Hospital Provoca Indignación
+
+date: 2025-07-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Glendale-Memorial-Hospital_SN_06-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Glendale-Memorial-Hospital_SN_06-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Glendale-Memorial-Hospital_SN_06-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Glendale-Memorial-Hospital_SN_06-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Glendale-Memorial-Hospital_SN_06-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Glendale-Memorial-Hospital_SN_06-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Glendale-Memorial-Hospital_SN_06-scaled.jpeg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Glendale-Memorial-Hospital_SN_06-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Glendale-Memorial-Hospital_SN_06-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Glendale-Memorial-Hospital_SN_06-scaled.jpeg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Glendale-Memorial-Hospital_SN_06-scaled.jpeg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Glendale-Memorial-Hospital_SN_06-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Glendale-Memorial-Hospital_SN_06-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Glendale-Memorial-Hospital_SN_06-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Glendale-Memorial-Hospital_SN_06-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Activistas, líderes comunitarios y políticos locales han criticado al Dignity Health Glendale Memorial Hospital, alegando que está ayudando a las fuerzas del orden federales al permitir que las autoridades del [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/09/la-presencia-de-ice-en-el-glendale-memorial-hospital-provoca-indignacion/">La Presencia de ICE en el Glendale Memorial Hospital Provoca Indignación</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/09/la-presencia-de-ice-en-el-glendale-memorial-hospital-provoca-indignacion/>
+
+---
+
+## Horóscopo
+
+date: 2025-07-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Te sientes impulsado a saber lo que es real. Si bien es posible hablar sobre una cosa hasta [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/09/horoscopo-222/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/09/horoscopo-222/>
+
+---
+
+## EVENTOS Locales – Semana de 10 de julio, 2025
+
+date: 2025-07-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, July 11 Viernes por la Noche en Vivo The Comedy Chateau 4615 Lankershim Blvd. North Hollywood 6 p.m. – 9:30 p.m. ¡Ven a ver a los comediantes más divertidos [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/09/eventos-locales-semana-de-10-de-julio-2025/">EVENTOS Locales &#8211; Semana de 10 de julio, 2025 </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/09/eventos-locales-semana-de-10-de-julio-2025/>
+
+---
+
+## La Familia de Oscar Omar Hernández Enfrenta Dolor y Arrepentimiento Ahora que Conoce la Causa de la Muerte del Adolescente
+
+date: 2025-07-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="986" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/a5baea34-123a-48dc-8729-bbf22f97cc10-1_all_180-1-scaled-e1752123609700.jpg?fit=1024%2C986&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/a5baea34-123a-48dc-8729-bbf22f97cc10-1_all_180-1-scaled-e1752123609700.jpg?w=1350&amp;ssl=1 1350w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/a5baea34-123a-48dc-8729-bbf22f97cc10-1_all_180-1-scaled-e1752123609700.jpg?resize=300%2C289&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/a5baea34-123a-48dc-8729-bbf22f97cc10-1_all_180-1-scaled-e1752123609700.jpg?resize=1024%2C986&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/a5baea34-123a-48dc-8729-bbf22f97cc10-1_all_180-1-scaled-e1752123609700.jpg?resize=768%2C740&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/a5baea34-123a-48dc-8729-bbf22f97cc10-1_all_180-1-scaled-e1752123609700.jpg?resize=1200%2C1156&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/a5baea34-123a-48dc-8729-bbf22f97cc10-1_all_180-1-scaled-e1752123609700.jpg?resize=780%2C751&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/a5baea34-123a-48dc-8729-bbf22f97cc10-1_all_180-1-scaled-e1752123609700.jpg?resize=400%2C385&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/a5baea34-123a-48dc-8729-bbf22f97cc10-1_all_180-1-scaled-e1752123609700.jpg?resize=706%2C680&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/a5baea34-123a-48dc-8729-bbf22f97cc10-1_all_180-1-scaled-e1752123609700.jpg?fit=1024%2C986&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A Alejandra Hernández le costó pronunciar las palabras. “El entrenador de fútbol de mi hermano lo emborrachó para agredirlo sexualmente, y el alcohol finalmente causó la muerte de Oscar”. Hernández, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/09/la-familia-de-oscar-omar-hernandez-enfrenta-dolor-y-arrepentimiento-ahora-que-conoce-la-causa-de-la-muerte-del-adolescente/">La Familia de Oscar Omar Hernández Enfrenta Dolor y Arrepentimiento Ahora que Conoce la Causa de la Muerte del Adolescente</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/09/la-familia-de-oscar-omar-hernandez-enfrenta-dolor-y-arrepentimiento-ahora-que-conoce-la-causa-de-la-muerte-del-adolescente/>
+
+---
+
+## Comienza el Juicio Contra el Hombre Acusado de Matar a Tiros a una Mujer Trans Sin Hogar
+
+date: 2025-07-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Después de años de retrasos, esta semana comenzó el juicio para el hombre acusado de matar a tiros a una mujer trans sin hogar afuera de una tienda de conveniencia [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/09/comienza-el-juicio-contra-el-hombre-acusado-de-matar-a-tiros-a-una-mujer-trans-sin-hogar/">Comienza el Juicio Contra el Hombre Acusado de Matar a Tiros a una Mujer Trans Sin Hogar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/09/comienza-el-juicio-contra-el-hombre-acusado-de-matar-a-tiros-a-una-mujer-trans-sin-hogar/>
+
+---
+
+## Los Angelinos Comienzan el Largo Camino hacia la Recuperación Seis Meses Después de los Devastadores Incendios de Enero
+
+date: 2025-07-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Eaton-Fire-Survivors-Network_SN_02.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Eaton-Fire-Survivors-Network_SN_02.jpeg?w=2021&amp;ssl=1 2021w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Eaton-Fire-Survivors-Network_SN_02.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Eaton-Fire-Survivors-Network_SN_02.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Eaton-Fire-Survivors-Network_SN_02.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Eaton-Fire-Survivors-Network_SN_02.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Eaton-Fire-Survivors-Network_SN_02.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Eaton-Fire-Survivors-Network_SN_02.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Eaton-Fire-Survivors-Network_SN_02.jpeg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Eaton-Fire-Survivors-Network_SN_02.jpeg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Eaton-Fire-Survivors-Network_SN_02.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Eaton-Fire-Survivors-Network_SN_02.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250707_Eaton-Fire-Survivors-Network_SN_02.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>De pie en la parcela incendiada donde alguna vez residió su hermana, Zaire Calvin habló a una multitud de vecinos, seres queridos y organizadores comunitarios. “Mi hermana Evelyn McClendon fue [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/09/los-angelinos-comienzan-el-largo-camino-hacia-la-recuperacion-seis-meses-despues-de-los-devastadores-incendios-de-enero/">Los Angelinos Comienzan el Largo Camino hacia la Recuperación Seis Meses Después de los Devastadores Incendios de Enero</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/09/los-angelinos-comienzan-el-largo-camino-hacia-la-recuperacion-seis-meses-despues-de-los-devastadores-incendios-de-enero/>
+
+---
+
+## Mexico’s President Calls March Against Mass Tourism ‘Xenophobic.’ Critics Blame Government Failures
+
+date: 2025-07-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25185826889229-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25185826889229-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25185826889229-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25185826889229-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25185826889229-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25185826889229-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25185826889229-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25185826889229-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25185826889229-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25185826889229-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25185826889229-scaled.jpg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25185826889229-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25185826889229-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25185826889229-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25185826889229-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>By Megan Janetsky And María Verza Associated Press MEXICO CITY (AP) — A fierce protest in Mexico City railing against gentrification and mass tourism was fueled by government failures and active [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/09/mexicos-president-calls-march-against-mass-tourism-xenophobic-critics-blame-government-failures/">Mexico’s President Calls March Against Mass Tourism ‘Xenophobic.’ Critics Blame Government Failures</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/09/mexicos-president-calls-march-against-mass-tourism-xenophobic-critics-blame-government-failures/>
+
+---
+
+## Texas Inspectors Approved Camp Mystic’s Disaster Plan 2 Days Before Deadly Flood, Records Show
+
+date: 2025-07-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25186761887279-scaled-e1752113248451.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25186761887279-scaled-e1752113248451.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25186761887279-scaled-e1752113248451.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25186761887279-scaled-e1752113248451.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25186761887279-scaled-e1752113248451.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>By Jim Mustian, Christopher L. Keller, Sean Murphy and Ryan J. Foley Associated Press HUNT, Texas (AP) — Texas inspectors signed off on Camp Mystic’s emergency planning just two days before [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/09/texas-inspectors-approved-camp-mystics-disaster-plan-2-days-before-deadly-flood-records-show/">Texas Inspectors Approved Camp Mystic’s Disaster Plan 2 Days Before Deadly Flood, Records Show</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/09/texas-inspectors-approved-camp-mystics-disaster-plan-2-days-before-deadly-flood-records-show/>
+
+---
+
+## LBCC football coach agrees to resign after his message to anti-Trump journalist drew backlash
+
+date: 2025-07-09, from: Long Beach Post
+
+<figure><img width="1024" height="614" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-1024x614.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-1024x614.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-300x180.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-768x461.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-180x108.jpg 180w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-1200x720.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-400x240.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A settlement agreement with the college includes nearly a year of paid leave and six months severance for longtime coach Brett Peabody.</p>
+<p>The post <a href="https://lbpost.com/news/education/aaron-rupar-brett-peabody-resign-lbcc-football-coach">LBCC football coach agrees to resign after his message to anti-Trump journalist drew backlash</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/aaron-rupar-brett-peabody-resign-lbcc-football-coach>
 
 ---
 
@@ -13,7 +175,7 @@ updated: 2025-07-09 14:09:10
 
 date: 2025-07-09, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The lawsuit alleges California’s transgender athlete policies violate Title IX, the landmark federal civil rights law that prohibits sex-based discrimination in education.</p>
 <p>The post <a href="https://lbpost.com/news/education/trump-administration-sues-california-in-policy-battle-over-transgender-athletes">Trump administration sues California in policy battle over transgender athletes</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -28,7 +190,7 @@ date: 2025-07-09, from: Long Beach Post
 
 date: 2025-07-09, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>This story was originally published by CalMatters. Sign up for their newsletters. Three years after CalMatters’ reporting revealed that only 3% of California Highway Patrol officers wore body cameras, one of the state’s largest police forces plans to equip all its officers with the technology by next year. In 2015, now-retired Assemblymember Reginald Jones-Sawyer pitched a $10 million plan to give [&#8230;]</p>
 <p>The post <a href="https://lbpost.com/news/chp-to-equip-all-7600-officers-with-body-cams">CHP to equip all 7,600 officers with body cams</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

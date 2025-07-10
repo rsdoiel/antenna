@@ -1,11 +1,96 @@
 ---
 title: columns
-updated: 2025-07-09 14:09:05
+updated: 2025-07-10 06:08:37
 ---
 
 # columns
 
-(date: 2025-07-09 14:09:05)
+(date: 2025-07-10 06:08:37)
+
+---
+
+## Using Signal Groups for Activism
+
+date: 2025-07-10, updated: 2025-07-10, from: Bruce Schneier blog
+
+<p>Good <a href="https://micahflee.com/using-signal-groups-for-activism/">tutorial</a> by Micah Lee. It includes some nonobvious use cases.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/07/using-signal-groups-for-activism.html>
+
+---
+
+## more views on curl vulnerabilities
+
+date: 2025-07-10, from: Daniel Stenberg Blog
+
+This is an intersection of two of my obsessions: graphs and vulnerability data for the curl project. In order to track and follow every imaginable angle of development, progression and (possible) improvements in the curl project we track and log lots of metadata. In order to educate and inform users about past vulnerabilities, but also &#8230; <a href="https://daniel.haxx.se/blog/2025/07/10/more-views-on-curl-vulnerabilities/" class="more-link">Continue reading <span class="screen-reader-text">more views on curl vulnerabilities</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/07/10/more-views-on-curl-vulnerabilities/>
+
+---
+
+## What’s the Real Reason Musk Wants a Third Party?
+
+date: 2025-07-10, from: Robert Reich's blog
+
+Not to reduce the federal debt. 
+
+<br> 
+
+<https://robertreich.substack.com/p/musks-third-party>
+
+---
+
+## July 9, 2025 
+
+date: 2025-07-10, from: Heather Cox Richardson blog
+
+On July 9, 1868, Americans changed the U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-9-2025>
+
+---
+
+##  Wow, Apple&#8217;s AirPods Pro 2 earbuds are $149. That&#8217;s $100 off&#8230;the lowest... 
+
+date: 2025-07-09, updated: 2025-07-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047125-wow-apples-airpods-pro-2>
+
+---
+
+##  Cool Anatomical Sculptures of Lego People 
+
+date: 2025-07-09, updated: 2025-07-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/cool-anatomical-sculptures-of-lego-people-1>
+
+---
+
+## Mark Gurman Got a Slew of Interesting Quotes Regarding Jeff Williams’s Retirement
+
+date: 2025-07-09, updated: 2025-07-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.bloomberg.com/news/articles/2025-07-08/apple-operating-chief-jeff-williams-to-pass-role-to-lieutenant>
 
 ---
 
@@ -47,7 +132,7 @@ date: 2025-07-09, updated: 2025-07-09, from: Jason Kittke's blog
 
 ## ★ Save Yourself Some Dough on Apple Kit and Make Me Rich on Amazon Prime Day
 
-date: 2025-07-09, updated: 2025-07-09, from: Daring Fireball
+date: 2025-07-09, updated: 2025-07-10, from: Daring Fireball
 
 You can support Daring Fireball and save yourself a veritable bundle through some Prime Day discounts. 
 

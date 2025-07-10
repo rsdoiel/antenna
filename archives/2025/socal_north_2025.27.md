@@ -1,11 +1,134 @@
 ---
 title: socal north
-updated: 2025-07-09 14:09:02
+updated: 2025-07-10 06:08:34
 ---
 
 # socal north
 
-(date: 2025-07-09 14:09:02)
+(date: 2025-07-10 06:08:34)
+
+---
+
+## Fewer people on streets, in shelters after getting LA homelessness prevention help
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+A new study finds promising early results from a program that tries to find and assist those most at risk of becoming unhoused. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-county-homelessness-prevention-unit-california-policy-lab-study>
+
+---
+
+## How vertical dramas are reshaping Hollywood’s job market
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+With the entertainment industry still hurting from the pandemic and strikes, young filmmakers are finding work making bingeable micro dramas designed to be watched on phones. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/how-vertical-dramas-are-reshaping-hollywoods-job-market>
+
+---
+
+## LA County renters without AC swelter in heat waves with little recourse, study finds. That might change
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+There are no state or local protections for tenants without cooling. That could soon change. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-county-renters-without-ac-swelter-in-heat-waves-with-little-recourse-study-finds-that-might-change>
+
+---
+
+## Wilmington tunnel collapse temporarily traps 31 construction workers
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+The L.A. Fire Department said the tunnel workers had been isolated by a "collapse" in an industrial tunnel for a wastewater treatment facility in the Harbor-area neighborhood of Wilmington. 
+
+<br> 
+
+<https://laist.com/news/tunnel-in-wilmington-collapses>
+
+---
+
+## New Metro board chair says he'll focus on transit expansion, local jobs and freeways
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+Fernando Dutra of Whittier will serve a yearlong term as chair of L.A. Metro’s Board of Directors. His term began Wednesday. 
+
+<br> 
+
+<https://laist.com/news/transportation/metro-board-chair-dutra>
+
+---
+
+## California could flood like Texas. But thunderstorms likely won’t be to blame
+
+date: 2025-07-09, updated: 2025-07-09, from: The LAist
+
+Deadly floods like those in Texas are rare in California, but climate change-fueled storms could make them more likely, climate scientists say. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/california-could-flood-like-texas-but-thunderstorms-likely-wont-be-to-blame>
+
+---
+
+## Immigration sweeps and health data sharing are pushing some local immigrant families out of Medi-Cal
+
+date: 2025-07-09, updated: 2025-07-09, from: The LAist
+
+Providers say patients are feeling betrayed by recent activity and unrolling from health insurance or not showing up to appointments. 
+
+<br> 
+
+<https://laist.com/news/health/immigration-sweeps-and-health-data-sharing-are-pushing-some-local-immigrant-families-out-of-medi-cal>
+
+---
+
+## Diocese of San Bernardino issues dispensation saying Catholics who fear ICE don't have to attend Mass
+
+date: 2025-07-09, updated: 2025-07-09, from: The LAist
+
+The diocese is the first in the nation to issue a special dispensation because of fears over immigration detentions. 
+
+<br> 
+
+<https://laist.com/news/diocese-of-san-bernardino-issues-dispensation-saying-catholics-who-fear-ice-dont-have-to-attend-mass>
+
+---
+
+## LBCC football coach agrees to resign after his message to anti-Trump journalist drew backlash
+
+date: 2025-07-09, from: Longbeach Post
+
+<figure><img width="1024" height="614" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-1024x614.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-1024x614.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-300x180.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-768x461.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-180x108.jpg 180w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-1200x720.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-400x240.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A settlement agreement with the college includes nearly a year of paid leave and six months severance for longtime coach Brett Peabody.</p>
+<p>The post <a href="https://lbpost.com/news/education/aaron-rupar-brett-peabody-resign-lbcc-football-coach">LBCC football coach agrees to resign after his message to anti-Trump journalist drew backlash</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/aaron-rupar-brett-peabody-resign-lbcc-football-coach>
+
+---
+
+## LA County's big program for people living with mental illness needs refining, officials say
+
+date: 2025-07-09, updated: 2025-07-09, from: The LAist
+
+Launched in 2023, CARE Court aims to get more people living with serious mental illness into treatment. 
+
+<br> 
+
+<https://laist.com/news/health/la-county-program-for-people-living-with-mental-illness-needs-refining-officials-say>
 
 ---
 
@@ -49,7 +172,7 @@ Read about the origin of Tennis and its evolution into one of the world's most p
 
 date: 2025-07-09, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The lawsuit alleges California’s transgender athlete policies violate Title IX, the landmark federal civil rights law that prohibits sex-based discrimination in education.</p>
 <p>The post <a href="https://lbpost.com/news/education/trump-administration-sues-california-in-policy-battle-over-transgender-athletes">Trump administration sues California in policy battle over transgender athletes</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -64,7 +187,7 @@ date: 2025-07-09, from: Longbeach Post
 
 date: 2025-07-09, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/09112920/091324-chp-graduation-fm-10-171790-qbskrch9-849502-l3zHTrS0.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>This story was originally published by CalMatters. Sign up for their newsletters. Three years after CalMatters’ reporting revealed that only 3% of California Highway Patrol officers wore body cameras, one of the state’s largest police forces plans to equip all its officers with the technology by next year. In 2015, now-retired Assemblymember Reginald Jones-Sawyer pitched a $10 million plan to give [&#8230;]</p>
 <p>The post <a href="https://lbpost.com/news/chp-to-equip-all-7600-officers-with-body-cams">CHP to equip all 7,600 officers with body cams</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -581,7 +704,7 @@ date: 2025-07-07, from: Longbeach Post
 
 ## Cole’s French Dip, the historic downtown LA eatery, is closing after 117 years
 
-date: 2025-07-07, updated: 2025-07-08, from: The LAist
+date: 2025-07-07, updated: 2025-07-09, from: The LAist
 
 The restaurant, which claims to have invented the French dip sandwich, is closing on Aug. 3 after “numerous attempts at last-ditch efforts.” 
 

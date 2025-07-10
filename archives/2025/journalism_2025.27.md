@@ -1,11 +1,80 @@
 ---
 title: journalism
-updated: 2025-07-09 14:09:06
+updated: 2025-07-10 06:08:39
 ---
 
 # journalism
 
-(date: 2025-07-09 14:09:06)
+(date: 2025-07-10 06:08:39)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+The trial concluded today at 4:18 p.m., with Giovanny and Klein having appeared on the stand.
+(Zimo Li/Daily Bruin senior staff) 
+
+<br> 
+
+<https://dailybruin.com/2025/07/09/490776/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-10, from: The Daily Bruin (UCLA Student Newspaper))
+
+Klein returned to the stand for further cross-examination. Attorneys representing the UC Board of Regents and Bernardo presented multiple student grievances against Klein, ranging from a Title IX complaint in 2015 to several student evaluations which described Klein as condescending and close-minded. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/09/490774/>
+
+---
+
+## USC Office of Cybersecurity eliminates roles in departmental restructuring
+
+date: 2025-07-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Impacted employees will be able to apply for positions in the restructured office.</p>
+<p>The post <a href="https://dailytrojan.com/2025/07/09/usc-office-of-cybersecurity-eliminates-roles-in-departmental-restructuring/">USC Office of Cybersecurity eliminates roles in departmental restructuring</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/07/09/usc-office-of-cybersecurity-eliminates-roles-in-departmental-restructuring/>
+
+---
+
+## Theater review: ‘The Reservoir’ brings frequent laughs, which sometimes overshadow dramatic themes
+
+date: 2025-07-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Comedy might be the best remedy, but how many jokes can be made before the well runs dry?
+Since its arrival to the Westwood stage June 26, “The Reservoir” has entertained audiences with its lighthearted humor and heartfelt intentionality, despite unfortunately skimming over devastating topics. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/09/theater-review-the-reservoir-brings-frequent-laughs-which-sometimes-overshadow-dramatic-themes/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Giovanny said he felt Klein’s response to his email request was antagonizing. He added he was concerned that Klein would retaliate against him because Klein had control over his grades. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/09/490763/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+<em>This post was updated July 9 at 10:18 p.m.</em>
+After the trial restarted for its fourth day, Giovanny testified that the email requesting accommodations came from a template shared in an Asian American History class group chat. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/09/490757/>
 
 ---
 

@@ -1,11 +1,215 @@
 ---
 title: science and technology
-updated: 2025-07-09 14:09:04
+updated: 2025-07-10 06:08:36
 ---
 
 # science and technology
 
-(date: 2025-07-09 14:09:04)
+(date: 2025-07-10 06:08:36)
+
+---
+
+## Former reality TV star appointed NASA Interim Administrator
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>Can Sean Duffy embrace the challenge?</h4> <p>NASA has a new interim Administrator. US President Donald Trump has announced that former reality TV star and current Transportation Secretary Sean Duffy will be taking on the role.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/nasa_interim_administrator/>
+
+---
+
+## NCA arrests four in connection with UK retail ransomware attacks
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>Crimefighting agency cagey on details, probes into intrusions at M&amp;S, Harrods, and Co-op continue</h4> <p>The UK&#39;s National Crime Agency (NCA) arrested four individuals suspected of being involved with the big three cyberattacks on UK retail businesses in recent weeks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/nca_arrests_four_in_connection/>
+
+---
+
+## Sovereign-ish: Google Cloud keeps AI data in UK, but not the support
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>Processing and storage for Gemini 2.5 Flash to stay in Blighty</h4> <p>Google Cloud is attempting to ease concerns about where AI data is stored by offering organizations the option to keep Gemini 2.5 Flash machine learning processing entirely within the UK.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/google_uk_data_sovereignty/>
+
+---
+
+## Outlook takes another sick day – Microsoft says it'll get better soon, promise
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>12 hours, millions of users disrupted, mailbox infrastructure blamed</h4> <p>Microsoft Outlook is down for the count in a major outage affecting millions of users worldwide for the past 11 hours.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/outlook_microsoft_email_outage/>
+
+---
+
+## Write-back to aging UK health systems lessens benefits of Palantir-based platform
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>Controversial system requires local NHS investment to maximize productivity</h4> <p>The benefits of the UK health sector&#39;s Palantir-powered data and analytics system are being suppressed by the limits of writing back to NHS software, MPs heard this week.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/writeback_to_ageing_nhs_systems/>
+
+---
+
+## At last, a use case for AI agents with sky-high ROI: Stealing crypto
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>Boffins outsmart smart contracts with evil automation</h4> <p>Using AI models to generate exploits for cryptocurrency contract flaws appears to be a promising business model, though not necessarily a legal one.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/ai_agents_automatically_steal_cryptocurrency/>
+
+---
+
+## Swiss boffins just trained a 'fully open' LLM on the Alps supercomputer
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>Source code and weights coming later this summer with an Apache 2.0 bow on top</h4> <p>Supercomputers are usually associated with scientific exploration, research, and development, and ensuring our nuclear stockpiles actually work. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/llm_swiss_supercomputer/>
+
+---
+
+## Lord of the Rings director Peter Jackson backs plan to do a Jurassic Park on extinct birds
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>New Zealand’s Giant Moa stood over three meters tall but were easy prey</h4> <p>Researchers from New Zealand will try to revive extinct birds, with help from Colossal Biosciences and film-maker Sir Peter Jackson.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/colossal_bioscience_peter_jackson_moa_resurrection/>
+
+---
+
+## Chinese TV uses AI to translate broadcasts into sign language. It’s not going well
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>Deaf professor who worked on one product says developers won’t listen to feedback – about their products or their tech bro ways</h4> <p>China’s efforts to employ AI as a means of improving access to media for its deaf population aren’t going well, according to a professor at Beijing Normal University’s Faculty of Education.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/china_ai_sign_language_translation/>
+
+---
+
+## Citrix signals return to the mainstream hypervisor market with a product it says isn’t quite ready for the job
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>Cites ‘aggressive licensing changes’ from rivals, but like Broadcom only sells bundles</h4> <p>Citrix has decided to return to the market for mainstream hypervisors with a version of its XenServer product which it currently claims isn’t ready for the job.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/citrix_returns_to_mainstream_hypervisors/>
+
+---
+
+## Eggheads hold science fair on Capitol Hill to decry funding cuts
+
+date: 2025-07-09, updated: 2025-07-09, from: The Register (UK I.T. News)
+
+<h4>&#39;The Things We’ll Never Know&#39; show highlights what we&#39;ll be missing</h4> <p>President Trump&#39;s budget slashes funding for science and led to the cancellation or reduction of thousands of research programs, so scientists have staged a series of presentations to show legislators innovations that America will miss out on in the future.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/09/science_funding_trump/>
+
+---
+
+## How to trick ChatGPT into revealing Windows keys? I give up
+
+date: 2025-07-09, updated: 2025-07-09, from: The Register (UK I.T. News)
+
+<h4>No, really, those are the magic words</h4> <p>A clever AI bug hunter found a way to trick ChatGPT into disclosing Windows product keys, including at least one owned by Wells Fargo bank, by inviting the AI model to play a guessing game.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/09/chatgpt_jailbreak_windows_keys/>
+
+---
+
+## Systemd has been a complete, utter, unmitigated success
+
+date: 2025-07-09, from: OS News
+
+The year is 2013 and I am&#160;hopping mad. systemd&#160;is replacing my plaintext logs with a binary format and pumping steroids into&#160;init&#160;and it is&#160;laughing&#160;at me. The unix philosophy cries out: is this the end of Linux (or, as many are calling it, GNU plus Linux)? The year is 2025 and I’m here to repent. Not only is&#160;systemd&#160;a worthy successor to traditional&#160;init, but I think that it deserves a defense for what it’s done for the landscape – especially given the hostile reception it initially received (and somehow continues to receive? for some reason?). No software is perfect – except for&#160;TempleOS&#160;– but I think that systemd has largely been a success story and proven many dire forecasts wrong (including my own). I was wrong! ↫ Tyler Langlois The article goes into detail on a number of awesome features, niceties, and clever things systemd has, and they&#8217;re legion. Even as a mere user, I like systemd, as every time I have had to or wanted to interact with it, it&#8217;s been a joy to use, with excellent documentation making it remarkably easy even for someone like me to get into it without doing any damage or breaking anything. Every time I read up on system&#8217;d more advanced features, I&#8217;m surprised by how well thought out and implemented it all seems to be. I&#8217;ve experienced several major leaps forward in the Linux world that made using Linux on my computers easier and more reliable, and the adoption of systemd stands among them as one of the biggest leaps forward desktop Linux has ever made. The idea of going back to a random piles of non-standardized init scripts with nebulous dependencies from varying sources and wildly different levels of quality seems like a complete nightmare to me. There&#8217;s a lot of charm in doing things &#8216;the old way&#8217;, and I&#8217;m not saying you&#8217;re wrong for wanting an init system that tries to do less, or that&#8217;s easier to read and parse for you, or whatever, but that doesn&#8217;t mean systemd is bad, evil, or part of a Red Hat conspiracy to kill Linux. 
+
+<br> 
+
+<https://www.osnews.com/story/142741/systemd-has-been-a-complete-utter-unmitigated-success/>
+
+---
+
+## Introducing Skia Graphite: Chrome’s rasterization backend for the future
+
+date: 2025-07-09, from: OS News
+
+In Chrome, Skia is used to render paint commands from Blink and the browser UI into pixels on your screen, a process called rasterization. Skia has powered Chrome Graphics&#160;since the very beginning. Skia eventually ran into performance issues as the web evolved and became more complex, which led Chrome and Skia to invest in a GPU accelerated rasterization backend called Ganesh. Over the years, Ganesh matured into a solid highly performant rasterization backend and GPU rasterization launched on all platforms in Chrome on top of GL (via ANGLE on Windows D3D9/11). However, Ganesh always had a GL-centric design with too many specialized code paths and the team was hitting a wall when trying to implement optimizations that took advantage of modern graphics APIs in a principled manner. This set the stage for the team to rethink GPU rasterization from the ground up in the form of a new rasterization backend, Graphite. Graphite was developed from the start to be principled by having fewer and more comprehensible code paths. This forward looking design helps take advantage of modern graphics APIs like Metal, Vulkan and D3D12 and paradigms like compute based path rasterization, and is multithreaded by default. ↫ Michael Ludwig and Sunny Sachanandani at the Chromium Blog The level of complexity in browsers and their rendering engines blows my mind every time I read about it. When I first got access to the internet, it consisted of static pages with text and still images, but now browser engines are almost as complex as entire operating systems. Not all of that progress has been good &#8211; boy has a lot of it not been good &#8211; but we&#8217;re stuck with it now, and thus people making browsers have to deal with stuff like this. If you ever wonder why there really only are two browser engines in the world &#8211; Google&#8217;s Blink and Apple&#8217;s WebKit &#8211; this is your answer. Who in their right mind wants to develop something like this from scratch and compete with Google and Apple? 
+
+<br> 
+
+<https://www.osnews.com/story/142739/introducing-skia-graphite-chromes-rasterization-backend-for-the-future/>
+
+---
+
+## Perplexity rips another page from the Google playbook with its own browser, Comet
+
+date: 2025-07-09, updated: 2025-07-09, from: The Register (UK I.T. News)
+
+<h4>Built on Chromium, ironically</h4> <p>Perplexity has released its own web browser called Comet, and it&#39;s clearly aimed at Google.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/09/perplexity_comet_browser/>
+
+---
+
+## GlobalFoundries acquires MIPS
+
+date: 2025-07-09, from: OS News
+
+GlobalFoundries today announced a definitive agreement to acquire MIPS, a leading supplier of AI and processor IP. This strategic acquisition will expand GF’s portfolio of customizable IP offerings, allowing it to further differentiate its process technologies with IP and software capabilities. ↫ Press release about the acquisition MIPS has a long and storied history, most recently as it abandoned its namesake instruction set architecture in favour of RISC-V. MIPS processors are still found in a ton of devices though, but usually not in high-profile devices like smartphones or whatever. Their new RISC-V cores haven&#8217;t yet seen a lot of uptake, but that&#8217;s a problem all across the RISC-V ecosystem. 
+
+<br> 
+
+<https://www.osnews.com/story/142737/globalfoundries-acquires-mips/>
+
+---
+
+## Microsoft pushes $4B at AI education for the masses
+
+date: 2025-07-09, updated: 2025-07-09, from: The Register (UK I.T. News)
+
+<h4>Hey, teacher, leave those kids to AI</h4> <p>After committing more than $13 billion in strategic investments to OpenAI, Microsoft is splashing out billions more to get people using the technology.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/09/microsoft_ai_training/>
 
 ---
 
