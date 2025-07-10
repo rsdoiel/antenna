@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-07-10 06:08:38
+updated: 2025-07-10 14:08:08
 ---
 
 # games
 
-(date: 2025-07-10 06:08:38)
+(date: 2025-07-10 14:08:08)
+
+---
+
+## Shark Dentist combines two phobias into one ridiculous roguelike
+
+date: 2025-07-10, updated: 2025-07-10, from: Polygon Website
+
+It&#8217;s shark season, and nobody knows that better than Alice Games, the developer behind the upcoming marine dentistry simulator, Shark Dentist: an aptly named horror roguelike in which you play — you guessed it — a shark dentist. Despite its rather amusing title (&#8220;Shark Dentist&#8221; absolutely sounds like the kind of show you&#8217;d find airing [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/612407/shark-dentist-combines-two-phobias-into-one-ridiculous-roguelike>
+
+---
+
+## How to make and use a copper golem in Minecraft
+
+date: 2025-07-10, updated: 2025-07-10, from: Polygon Website
+
+Minecraft’s copper golems are a sloppy player’s dream. Got a base cluttered with small stacks of ores and tools? Too lazy to store your resources in the appropriate location? This tidy fellow will fix that for you. Copper golems are currently available on Minecraft Bedrock Edition’s experimental features, where they require a somewhat unusual crafting [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/minecraft-guides/612212/craft-copper-golem-how-to-use-enable>
+
+---
+
+## Not every game needs to be a first-person mystery
+
+date: 2025-07-10, updated: 2025-07-10, from: Polygon Website
+
+Missile Command Delta is a new take on a classic 1980 arcade game by Atari. I saw a trailer and was immediately taken with what seemed like an ingenious reinterpretation of the brilliant but archaic original’s gameplay. I couldn’t wait to get stuck in. So you can imagine my disappointment when the game turned out [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/612349/missile-command-delta-review-impressions>
+
+---
+
+## Minecraft adds use for copper, but are the tools and armor actually worth it?
+
+date: 2025-07-10, updated: 2025-07-10, from: Polygon Website
+
+Copper armor and tools are officially coming to Minecraft as part of the upcoming copper update. Instead of chopping the local flora with a flimsy stone axe, early-game players will soon be able to use tools made from sterner stuff. Although the attack power is the same as their stone equivalent, in terms of durability [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/minecraft-guides/612331/copper-armor-tools-actually-good-worth-it>
+
+---
+
+## Recluse Remembrance quest walkthrough in Elden Ring Nightreign
+
+date: 2025-07-10, updated: 2025-07-10, from: Polygon Website
+
+The Recluse&#8216;s Remembrance quests in Elden Ring Nightreign dig a bit deeper into the dark forces that gave birth to the Nightlords and gives the mage a useful new relic — but not for free. Completing these quests involves taking on an additional boss, solving some puzzles, and engaging in a final showdown with Nightreign&#8216;s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/602968/recluse-remembrance-walkthrough-steps-rewards>
+
+---
+
+## How to save Painter Neal in Tony Hawk&#8217;s Pro Skater 4
+
+date: 2025-07-10, updated: 2025-07-10, from: Polygon Website
+
+You can be a hero in Tony Hawk&#8217;s Pro Skater 4 by saving Painter Neal between all your sick grinding and tricks. During Tony Hawk&#8217;s Pro Skater 4&#8216;s campaign, the San Francisco level is one of the first in which you need to complete specific goals to unlock the next locations. Even though the “Save [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/612025/tony-hawk-pro-skater-4-save-painter-neal-thps>
+
+---
+
+## Nintendo admits Donkey Kong Bananza wasn’t originally a Switch 2 game
+
+date: 2025-07-10, updated: 2025-07-10, from: Polygon Website
+
+Donkey Kong Bananza may not look like a particularly demanding game, especially compared to visually impressive contemporaries like Death Stranding 2. But the Switch 2 exclusive makes ample use of voxel environments that Donkey Kong can destroy while the player charts a path forward with Pauline in tow — think The Finals or Just Cause [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/612293/switch-2-exclusive-donkey-kong-bananza-development-power>
+
+---
+
+## Duchess Remembrance quest walkthrough in Elden Ring Nightreign
+
+date: 2025-07-10, updated: 2025-07-10, from: Polygon Website
+
+The Duchess&#8216; Remembrance quest in Elden Ring Nightreign is where you&#8217;ll find some essential lore about what&#8217;s going on in Roundtable Hold and who some of the Nightfarers are. It&#8217;s one of Nightreign&#8216;s longest and most involved quest chains, and completing it requires you to defeat at least half of all the main bosses. However, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/603705/duchess-remembrance-walkthrough-steps-rewards>
+
+---
+
+## The Expanse: Osiris Reborn might just be the game Expanse fans have always dreamed of
+
+date: 2025-07-10, updated: 2025-07-09, from: Polygon Website
+
+It’s been clear since James Holden first stepped foot on the Rocinante: The Expanse would make for an incredible game. While the popular sci-fi series has previously been imagined as a game (a Telltale narrative, a tabletop RPG), developer Owlcat Games’ forthcoming The Expanse: Osiris Reborn seems like it’ll take it to a whole new [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/611643/expanse-osiris-reborn-interview-preview-owlcat-games>
+
+---
+
+## Marvel Rivals’ new battle pass and accessories are its best yet
+
+date: 2025-07-10, updated: 2025-07-10, from: Polygon Website
+
+I’ve logged an unholy number of hours into NetEase’s hero-based shooter, Marvel Rivals, and to its credit, this time sink has largely been fueled by the strength of the gameplay. I’ve bought a couple of skins and unlocked a few things here and there, but for the most part, cosmetics for the characters I play [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/612273/marvel-rivals-season-3-battle-pass-skins-accessories>
 
 ---
 

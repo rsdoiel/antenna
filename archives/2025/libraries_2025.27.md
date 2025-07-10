@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-07-10 06:08:40
+updated: 2025-07-10 14:08:10
 ---
 
 # libraries
 
-(date: 2025-07-10 06:08:40)
+(date: 2025-07-10 14:08:10)
+
+---
+
+## Librarians Convene to Develop Strategies for Documenting Their Community’s Digital Heritage
+
+date: 2025-07-10, from: Internet Archive Blog
+
+A group of librarians and cultural heritage workers from across the country recently convened at two events hosted by Internet Archive’s Community Webs program. Made possible in part with support [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/07/10/librarians-convene-to-develop-strategies-for-documenting-their-communitys-digital-heritage/>
+
+---
+
+## Letter Opposing Pro Codes Act
+
+date: 2025-07-10, from: Association of Research Libraries News
+
+<p>Last Updated on July 10, 2025, 9:26 am ET On Jul 8, 2025, ARL signed on to a letter to the House Judiciary Committee opposing the Pro Codes Act, arguing...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/copyright/letter-opposing-pro-codes-act-3/">Letter Opposing Pro Codes Act</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/copyright/letter-opposing-pro-codes-act-3/>
 
 ---
 
@@ -32,6 +58,18 @@ Nöhl J.; Burger J.; Oeuvray P.; Becattini V.; Seiler J.; Shu D.Y.; Mazzotti M.;
 <br> 
 
 <http://hdl.handle.net/20.500.11850/738534>
+
+---
+
+## Temperature-Dependent Dynamic Nuclear Polarization of Diamond
+
+date: 2025-07-10, from: ETH Zurich, recently added
+
+von Witte, Gevin; Himmler, Aaron; Tamarov, Konstantin; Moilanen, Jani O.; Ernst, Matthias; Kozerke, Sebastian 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/743849>
 
 ---
 
@@ -132,7 +170,7 @@ Ra, Jiwoon; Huang, Kun; Mohn, Joachim; Hofstetter, Thomas B.; Muck, Elisabeth; v
 
 date: 2025-07-07, from: Association of Research Libraries News
 
-<p>Last Updated on July 9, 2025, 3:52 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 8 &#124; Wednesday, July 9 &#124; Thursday,...</p>
+<p>Last Updated on July 10, 2025, 2:29 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 8 &#124; Wednesday, July 9 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-7-10/">Day in Review (July 7–10)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

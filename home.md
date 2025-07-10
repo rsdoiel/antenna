@@ -1,11 +1,253 @@
 ---
 title: home
-updated: 2025-07-10 06:08:40
+updated: 2025-07-10 14:08:10
 ---
 
 # home
 
-(date: 2025-07-10 06:08:40)
+(date: 2025-07-10 14:08:10)
+
+---
+
+## The Best Strawberry Picking in Orange County? Tanaka Farms
+
+date: 2025-07-10, from: California Grown
+
+<p>Let’s be real, it&#8217;s wonderful that we can buy strawberries year-round in California, but there’s nothing—absolutely nothing—like plucking a warm, sun-ripened berry straight from the vine and popping it into your mouth. It’s messy. It’s sweet. It’s sticky. It’s perfect. And if you’re lucky enough to be in Orange County during strawberry picking season, there’s [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/strawberry-picking/" data-wpel-link="internal" target="_self">The Best Strawberry Picking in Orange County? Tanaka Farms</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/strawberry-picking/>
+
+---
+
+## Alta Baja Market; Santa Ana’s Source for Heirloom Beans
+
+date: 2025-07-10, from: California Grown
+
+<p>Let’s cut to the chase—if you’ve ever strolled through downtown Santa Ana, you’ve probably felt it. That vibe. The inviting environment of a casual neighborhood where history, culture, and small businesses are part of the fabric of the area. And smack dab in the heart of it is Alta Baja Market. Welcome to Alta Baja [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/alta-baja-market/" data-wpel-link="internal" target="_self">Alta Baja Market; Santa Ana&#8217;s Source for Heirloom Beans</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/alta-baja-market/>
+
+---
+
+## Welcome to The Ecology Center in San Juan Capistrano
+
+date: 2025-07-10, from: California Grown
+
+<p>Let’s cut to the chase: The Ecology Center isn’t your average farm. Nope. This 28-acre regenerative farm in San Juan Capistrano, CA, is doing something radically simple—growing healthy food, cultivating soil health, and bringing people back into relationship with the land, one season at a time. The Ecology Center in San Juan Capistrano: Where Dirt [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/the-ecology-center/" data-wpel-link="internal" target="_self">Welcome to The Ecology Center in San Juan Capistrano</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/the-ecology-center/>
+
+---
+
+## 10 Pools That Make a Splash in More Ways Than One
+
+date: 2025-07-10, from: Dwell
+
+From serene plunge pools to cinematic infinity edge pools, these standout designs turn up the heat on outdoor living. 
+
+<br> 
+
+<https://www.dwell.com/article/10-sparkling-pools-roundup-igarden-9d6c26f9>
+
+---
+
+## The Real Reason the Apple Logo Has a Bite Taken Out of It
+
+date: 2025-07-10, from: Family Handyman Blog
+
+<p>Ever wondered why the Apple logo has a bite taken out of it? From Garden of Eden theories to clever tech puns, here’s the story behind the iconic symbol.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/apple-logo-bite/">The Real Reason the Apple Logo Has a Bite Taken Out of It</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/apple-logo-bite/>
+
+---
+
+## From the Archive: Inside London’s Pioneering Prefab Housing Complex
+
+date: 2025-07-10, from: Dwell
+
+At the turn of the millennium, the Murray Grove development attempted to rebrand modular construction, confronting Britain’s housing woes and heritage hang-ups. 
+
+<br> 
+
+<https://www.dwell.com/article/murray-grove-london-prefab-modular-a657b15c>
+
+---
+
+## Dashboard Warning Lights: That “Boat” Symbol Explained
+
+date: 2025-07-10, from: Family Handyman Blog
+
+<p>Dashboard indicator lights can be confusing if you haven't memorized the entire list. What does the boat symbol on your dash mean?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/coolant-temperature-car-dashboard-boat-symbol/">Dashboard Warning Lights: That &#8220;Boat&#8221; Symbol Explained</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/coolant-temperature-car-dashboard-boat-symbol/>
+
+---
+
+## Lowering the boom on illegal fireworks — CDFA teamed up with San Bernardino County Fire to confiscate 13 tons prior to July 4th
+
+date: 2025-07-10, from: Calfifornia Dept. Aggriculture blog
+
+CDFA teamed up with the San Bernardino County Fire Department over a series of weekends leading up to July 4th to intercept illegal fireworks at the Mountain Pass Border Station (I-15). The effort resulted in approximately 13 tons (26,000 lbs) &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29089">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29089>
+
+---
+
+## 10 First-Time Homebuyer Mistakes to Avoid
+
+date: 2025-07-10, from: Family Handyman Blog
+
+<p>From runaway emotions to unrealistic pre-approval budgets, there are a lot of pitfalls with buying a home. Here's how to avoid them.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/first-time-homebuyer-mistakes/">10 First-Time Homebuyer Mistakes to Avoid</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/first-time-homebuyer-mistakes/>
+
+---
+
+## Frank Lloyd Wright’s Granddaughter Designed This $1.2M Colorado Home
+
+date: 2025-07-10, from: Dwell
+
+Elizabeth Wright Ingraham channeled her grandfather’s vision as she incorporated built-ins, natural materials, an open floor plan, and views of Pikes Peak. 
+
+<br> 
+
+<https://www.dwell.com/article/wood-peterson-house-elizabeth-wright-ingraham-colorado-springs-real-estate-68fd151b>
+
+---
+
+## On Norway’s Western Coast, a Tiered Retreat Lets the Landscape Lead
+
+date: 2025-07-10, from: Dwell
+
+The home’s locally sourced materials and upright, blocky form "enhance the atmosphere" of its surrounding fjord and mountains. 
+
+<br> 
+
+<https://www.dwell.com/article/holiday-home-office-inainn-black-cabin-9bac88b5>
+
+---
+
+## Learn How to Grow ‘Angelina’ Sedum (Stonecrop)
+
+date: 2025-07-10, from: The Gardener's Path
+
+<p>‘Angelina’ sedum is a low-growing, mat-forming succulent with needle-like foliage that ranges from bright lime green in spring to coppery red and orange in fall. It produces small yellow flowers in summer and thrives in lean, well-draining soil with minimal water. Learn how to grow this easy-care stonecrop in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/grow-angelina-sedum/">Learn How to Grow ‘Angelina’ Sedum (Stonecrop)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/grow-angelina-sedum/>
+
+---
+
+## Coyote vs Wolf: What Are the Key Differences You Need to Know?
+
+date: 2025-07-10, from: Yard Life blog
+
+<p>When it comes to wild canids in North America, two animals often spark curiosity and confusion alike: the coyote and ... </p>
+<p class="read-more-container"><a title="Coyote vs Wolf: What Are the Key Differences You Need to Know?" class="read-more button" href="https://ownyardlife.com/coyote-vs-wolf-what-are-the-key-differences-you-need-to-know/#more-31921" aria-label="Read more about Coyote vs Wolf: What Are the Key Differences You Need to Know?">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/coyote-vs-wolf-what-are-the-key-differences-you-need-to-know/">Coyote vs Wolf: What Are the Key Differences You Need to Know?</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/coyote-vs-wolf-what-are-the-key-differences-you-need-to-know/>
+
+---
+
+## Difference Between Crow and Raven: Find Out Here
+
+date: 2025-07-10, from: Yard Life blog
+
+<p>Crows and ravens have captivated the human imagination for centuries. These intelligent black birds appear in folklore, literature, and even ... </p>
+<p class="read-more-container"><a title="Difference Between Crow and Raven: Find Out Here" class="read-more button" href="https://ownyardlife.com/difference-between-crow-and-raven-find-out-here/#more-31917" aria-label="Read more about Difference Between Crow and Raven: Find Out Here">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/difference-between-crow-and-raven-find-out-here/">Difference Between Crow and Raven: Find Out Here</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/difference-between-crow-and-raven-find-out-here/>
+
+---
+
+## The Old Hollywood History of St. Croix’s Skyhawk Villa
+
+date: 2025-07-10, from: Dwell
+
+A late-night real estate rabbit hole led an architect to his next renovation: a midcentury movie star’s abandoned cliffside manse built by a disciple of modernist masters. 
+
+<br> 
+
+<https://www.dwell.com/article/skyhawk-villa-st-croix-renovation-maureen-ohara-history-8ccd0702>
+
+---
+
+## Where Do Wild Penguins Live? You Might Be Surprised
+
+date: 2025-07-10, from: Yard Life blog
+
+<p>When most people think of penguins, the first image that likely comes to mind is a black-and-white bird waddling across ... </p>
+<p class="read-more-container"><a title="Where Do Wild Penguins Live? You Might Be Surprised" class="read-more button" href="https://ownyardlife.com/where-do-wild-penguins-live-you-might-be-surprised/#more-31913" aria-label="Read more about Where Do Wild Penguins Live? You Might Be Surprised">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/where-do-wild-penguins-live-you-might-be-surprised/">Where Do Wild Penguins Live? You Might Be Surprised</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/where-do-wild-penguins-live-you-might-be-surprised/>
+
+---
+
+## What Is a Group of Turkeys Called? Fun Facts You Didn’t Know
+
+date: 2025-07-10, from: Yard Life blog
+
+<p>Turkeys are often associated with Thanksgiving dinners and rural farm life, but these fascinating birds have a social structure and ... </p>
+<p class="read-more-container"><a title="What Is a Group of Turkeys Called? Fun Facts You Didn’t Know" class="read-more button" href="https://ownyardlife.com/what-is-a-group-of-turkeys-called-fun-facts-you-didnt-know/#more-31909" aria-label="Read more about What Is a Group of Turkeys Called? Fun Facts You Didn’t Know">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-is-a-group-of-turkeys-called-fun-facts-you-didnt-know/">What Is a Group of Turkeys Called? Fun Facts You Didn’t Know</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-is-a-group-of-turkeys-called-fun-facts-you-didnt-know/>
+
+---
+
+## Homepage 2025
+
+date: 2025-07-10, from: Sunset Magazine - Living in the West
+
+Decorating &amp; Design, Home Tours This ADU Was Built to Solve What the Main House Was Missing The functional design fits in just right on the property.  Read more: This ADU&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -278,18 +520,6 @@ Interior designers shop on Amazon, too. They shared their favorite home decor pi
 <br> 
 
 <https://www.sunset.com/home-garden/design/interior-designers-favorite-amazon-products>
-
----
-
-## Homepage 2025
-
-date: 2025-07-09, from: Sunset Magazine - Living in the West
-
-Decorating &amp; Design, Home Tours This ADU Was Built to Solve What the Main House Was Missing The functional design fits in just right on the property.  Read more: This ADU&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

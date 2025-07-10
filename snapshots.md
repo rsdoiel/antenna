@@ -1,11 +1,308 @@
 ---
 title: snapshots
-updated: 2025-07-10 06:08:44
+updated: 2025-07-10 14:08:15
 ---
 
 # snapshots
 
-(date: 2025-07-10 06:08:44)
+(date: 2025-07-10 14:08:15)
+
+---
+
+## Google’s new Android Canary release channel replaces the Developer Preview Program
+
+date: 2025-07-10, from: Liliputing
+
+<p>Google is changing the way it rolls out pre-release builds of Android to developers and early testers. Instead of signing up for a developer preview program to receive a handful of early releases of new versions of the operating system, users will be able to sign up for a new Canary release channel. This is [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/googles-new-android-canary-release-channel-replaces-the-developer-preview-program/">Google&#8217;s new Android Canary release channel replaces the Developer Preview Program</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/googles-new-android-canary-release-channel-replaces-the-developer-preview-program/>
+
+---
+
+## Six Game Devs Speak to Computer Games Mag (1984)
+
+date: 2025-07-10, from: Computer ads from the Past
+
+Meet the Creators of Choplifter, Wizardry, Castle Wolfenstein, Zaxxon, Canyon Climber, and the Arcade Machine 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/six-game-devs-speak-to-computer-games>
+
+---
+
+## Grok 4
+
+date: 2025-07-10, updated: 2025-07-10, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://docs.x.ai/docs/models/grok-4-0709">Grok 4</a></strong></p>
+Released last night, Grok 4 is now available via both API and a paid subscription for end-users.</p>
+<p>Key characteristics: image and text input, text output. 256,000 context length (twice that of Grok 3). It's a reasoning model where you can't see the reasoning tokens or turn off reasoning mode.</p>
+<p>xAI released results showing Grok 4 beating other models on most of the significant benchmarks. I haven't been able to find their own written version of these (the launch was a <a href="https://x.com/xai/status/1943158495588815072">livestream video</a>) but here's <a href="https://techcrunch.com/2025/07/09/elon-musks-xai-launches-grok-4-alongside-a-300-monthly-subscription/">a TechCrunch report</a> that includes those scores. It's not clear to me if these benchmark results are for Grok 4 or Grok 4 Heavy.</p>
+<p>I ran <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">my own benchmark</a> using Grok 4 <a href="https://openrouter.ai/x-ai/grok-4">via OpenRouter</a> (since I have API keys there already). </p>
+<pre><code>llm -m openrouter/x-ai/grok-4 "Generate an SVG of a pelican riding a bicycle" \
+  -o max_tokens 10000
+</code></pre>
+<p><img alt="Description below." src="https://static.simonwillison.net/static/2025/grok4-pelican.png" /></p>
+<p>I then asked Grok to describe the image it had just created:</p>
+<pre><code>llm -m openrouter/x-ai/grok-4 -o max_tokens 10000 \
+  -a https://static.simonwillison.net/static/2025/grok4-pelican.png \
+  'describe this image'
+</code></pre>
+<p>Here's <a href="https://gist.github.com/simonw/ec9aee006997b6ae7f2bba07da738279#response">the result</a>. It described it as a "cute, bird-like creature (resembling a duck, chick, or stylized bird)".</p>
+<p>The most interesting independent analysis I've seen so far is <a href="https://twitter.com/ArtificialAnlys/status/1943166841150644622">this one from Artificial Analysis</a>:</p>
+<blockquote>
+<p>We have run our full suite of benchmarks and Grok 4 achieves an Artificial Analysis Intelligence Index of 73, ahead of OpenAI o3 at 70, Google Gemini 2.5 Pro at 70, Anthropic Claude 4 Opus at 64 and DeepSeek R1 0528 at 68.</p>
+</blockquote>
+<p>The timing of the release is somewhat unfortunate, given that Grok 3 made headlines <a href="https://www.theguardian.com/technology/2025/jul/09/grok-ai-praised-hitler-antisemitism-x-ntwnfb">just this week</a> after a <a href="https://github.com/xai-org/grok-prompts/commit/535aa67a6221ce4928761335a38dea8e678d8501#diff-dec87f526b85f35cb546db6b1dd39d588011503a94f1aad86d023615a0e9e85aR6">clumsy system prompt update</a> - persumably another attempt to make Grok "less woke" - caused it to start firing off antisemitic tropes and referring to itself as MechaHitler.</p>
+<p>My best guess is that these lines in the prompt were the root of the problem:</p>
+<blockquote>
+<p><code>- If the query requires analysis of current events, subjective claims, or statistics, conduct a deep analysis finding diverse sources representing all parties. Assume subjective viewpoints sourced from the media are biased. No need to repeat this to the user.</code><br>
+<code>- The response should not shy away from making claims which are politically incorrect, as long as they are well substantiated.</code></p>
+</blockquote>
+<p>If xAI expect developers to start building applications on top of Grok they need to do a lot better than this. Absurd self-inflicted mistakes like this do not build developer trust!</p>
+<p>As it stands, Grok 4 isn't even accompanied by a model card.</p>
+<p><em><strong>Update:</strong> Ian Bicking <a href="https://bsky.app/profile/ianbicking.org/post/3ltn3r7g4xc2i">makes an astute point</a>:</em></p>
+<blockquote>
+<p><em>It feels very credulous to ascribe what happened to a system prompt update. Other models can't be pushed into racism, Nazism, and ideating rape with a system prompt tweak.</em></p>
+</blockquote>
+<p><em>Even if that system prompt change was responsible for unlocking this behavior, the fact that it was able to speaks to a much looser approach to model safety by xAI compared to other providers.</em></p>
+<p>Grok 4 is competitively priced. It's $3/million for input tokens and $15/million for output tokens - the same price as Claude Sonnet 4. Once you go above 128,000 input tokens the price doubles to $6/$30 (Gemini 2.5 Pro has a similar price increase for longer inputs). I've added these prices to <a href="https://www.llm-prices.com/">llm-prices.com</a>.</p>
+<p>Consumers can access Grok 4 via a new $30/month or $300/year "SuperGrok" plan - or a $300/month or $3,000/year "SuperGrok Heavy" plan providing access to Grok 4 Heavy.</p>
+<p><img alt="Screenshot of subscription pricing page showing two plans: SuperGrok at $30.00/month (marked as Popular) with Grok 4 and Grok 3 increased access, features including Everything in Basic, Context Memory 128,000 Tokens, and Voice with vision; SuperGrok Heavy at $300.00/month with Grok 4 Heavy exclusive preview, Grok 4 and Grok 3 increased access, features including Everything in SuperGrok, Early access to new features, and Dedicated Support. Toggle at top shows &quot;Pay yearly save 16%&quot; and &quot;Pay monthly&quot; options with Pay monthly selected." src="https://static.simonwillison.net/static/2025/supergrok-pricing.jpg" />
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/grok">grok</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/openrouter">openrouter</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/10/grok-4/#atom-everything>
+
+---
+
+## Why MAGA is Right about Jeffrey Epstein
+
+date: 2025-07-10, from: Tina Brown
+
+It&#8217;s rare that I agree with the MAGA conspiracy theory loonies, but, in the case of the Epstein files, they deserve an answer about why the full folder has not been released. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/why-maga-is-right-about-jeffrey-epstein>
+
+---
+
+## Waveshare’s 4-channel PCIe HAT adds 4 FPC connectors to a Raspberry Pi 5
+
+date: 2025-07-10, from: Liliputing
+
+<p>The Raspberry Pi 5 is a single-board computer about the size of a credit card. But like most Raspberry Pi devices, you can do even more with it if you&#8217;re willing to plug in an add-on or two. So while the Raspberry Pi 5 has an FPC connector that can be used to add a PCIe NVME [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/waveshares-4-channel-pcie-hat-adds-4-fpc-connectors-to-a-raspberry-pi-5/">Waveshare&#8217;s 4-channel PCIe HAT adds 4 FPC connectors to a Raspberry Pi 5</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/waveshares-4-channel-pcie-hat-adds-4-fpc-connectors-to-a-raspberry-pi-5/>
+
+---
+
+## NO FAKES 2025: Another Bill Sacrificing Authors’ Free Expression for Industry Control
+
+date: 2025-07-10, from: Authors Union blogs
+
+NO FAKES 2025 does not care about actual deception, impersonation, and harm to the average person; instead, it focuses on enabling political censorship and monetization of celebrity likeness. 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/07/10/no-fakes-2025-another-bill-sacrificing-authors-free-expression-for-industry-control/>
+
+---
+
+## Almost Fired for Color Picker Poetry
+
+date: 2025-07-10, from: Michael Tsai
+
+John Calhoun: It was frankly a thing I liked about working for Apple in those days. The engineers were the one&#8217;s driving the ship. As I said, I wrote an HSV picker because it was, I thought, a more intuitive color space for artists. I wrote the HTML color picker because of the advent of [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/10/almost-fired-for-color-picker-poetry/>
+
+---
+
+## Mac Automation With a Tiny Game Controller
+
+date: 2025-07-10, from: Michael Tsai
+
+John Voorhees: I never expected my game controller obsession to pay automation dividends, but it did last week in the form of the tiny 16-button 8BitDo Micro. For the past week, I&#8217;ve used the Micro to dictate on my Mac, interact with AI chatbots, and record and edit podcasts. While the setup won&#8217;t replace a [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/10/mac-automation-with-a-tiny-game-controller/>
+
+---
+
+## Nvidia’s Market Cap
+
+date: 2025-07-10, from: Michael Tsai
+
+Samantha Subin and Kif Leswing (via Hacker News): Nvidia stock rose on Wednesday lifting the company&#8217;s market cap briefly past $4 trillion for the first time as investors scooped up shares of the tech giant that&#8217;s building the bulk of the hardware for the generative artificial intelligence boom.[&#8230;]Nvidia is the world&#8217;s most valuable company, surpassing [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/10/nvidias-market-cap/>
+
+---
+
+## How to Use Google Gemini in Xcode 26 Beta
+
+date: 2025-07-10, from: Michael Tsai
+
+Carlo Zottmann: Google offers an OpenAI-compatible API for Gemini, and while working, it is not what Xcode expects in terms of URL layout. In Xcode&#8217;s LLM provider config, the custom &#8220;URL&#8221; parameter is the API&#8217;s base URL up to but not including the v1/ path segment, e.g. https://api.openai.com/ instead of the full https://api.openai.com/v1/. When making [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/10/how-to-use-google-gemini-in-xcode-26-beta/>
+
+---
+
+## BREAKING NEWS: AI coding may not be helping as much as you think
+
+date: 2025-07-10, from: Gary Marcus blog
+
+Coding has been the strongest use case. But a new study from METR just dropped. 
+
+<br> 
+
+<https://garymarcus.substack.com/p/breaking-news-ai-coding-may-not-be>
+
+---
+
+## Bird: emprender el vuelo – irse y volver
+
+date: 2025-07-10, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Andrea Arnold. Guion: Andrea Arnold. Elenco: Nykiya Adams, Franz Rogowski, Barry Keoghan, Jason Buda, Jasmine Jobson. Países: Reino Unido, Estados Unidos, Francia, Alemania. Más información de la película: https://www.imdb.com/title/tt28277817/ Bird: emprender el vuelo sigue a Bailey (la hasta ahora desconocida Nykiya Adams dando una interpretación reveladora) de 12 años. Ella vive con su joven [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-bird-emprender-el-vuelo/">Bird: emprender el vuelo &#8211; irse y volver</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-bird-emprender-el-vuelo/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-bird-emprender-el-vuelo>
+
+---
+
+## How to Build Emotionally Intelligent Teams
+
+date: 2025-07-10, from: Guy Kawasaki blog
+
+What if everything you believed about building great teams was completely backwards? 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/how-to-build-emotionally-intelligent>
+
+---
+
+## AYANEO Flip 1S clamshell handheld gaming PCs hit Indiegogo with keyboard or dual-screen options available
+
+date: 2025-07-10, from: Liliputing
+
+<p>The AYANEO Flip 1S is a handheld gaming PC with a Nintendo DS-like clamshell design that features a 7 inch, FHD, 144 Hz OLD display on top and game controllers on the bottom. But unlike the Nintendo DS, the Flip 1S is a full-fledged Windows PC with and AMD Ryzen processor. And it also comes in [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/ayaneo-flip-1s-clamshell-handheld-gaming-pcs-hit-indiegogo-with-keyboard-or-dual-screen-options-available/">AYANEO Flip 1S clamshell handheld gaming PCs hit Indiegogo with keyboard or dual-screen options available</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/ayaneo-flip-1s-clamshell-handheld-gaming-pcs-hit-indiegogo-with-keyboard-or-dual-screen-options-available/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-10, from: Robert's feed at BlueSky)
+
+Health, science and discovery. https://www.caltech.edu/about/news/protecting-the-inner-ear-from-hearing-loss 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ltmmkenjrk2m>
+
+---
+
+## GPD MicroPC 2 hits Indiegogo for $495: Handheld computer with Intel N250 processor and a QWERTY keyboard
+
+date: 2025-07-10, from: Liliputing
+
+<p>The GPD MicroPC 2 is a little computer that looks a lot like a laptop, but it&#8217;s designed to be used more like a palmtop. Hold it in  two hands and you can reach your thumbs across the QWERTY keyboard for 2-finger typing. But you can also twist the 7 inch FHD touchscreen display and fold [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/gpd-micropc-2-hits-indiegogo-for-495-handheld-computer-with-intel-n250-processor-and-a-qwerty-keyboard/">GPD MicroPC 2 hits Indiegogo for $495: Handheld computer with Intel N250 processor and a QWERTY keyboard</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/gpd-micropc-2-hits-indiegogo-for-495-handheld-computer-with-intel-n250-processor-and-a-qwerty-keyboard/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-10, from: Robert's feed at BlueSky)
+
+👇and there is this.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ltmjluyj622k>
+
+---
+
+## Our Galaxy May Contain a Mysterious Force. It Could Change Physics Forever.
+
+date: 2025-07-10, from: 404 Media Group
+
+“If such a force is observed, it would be an incredible breakthrough in physics,” said one researcher. 
+
+<br> 
+
+<https://www.404media.co/our-galaxy-may-contain-a-mysterious-force-it-could-change-physics-forever/>
+
+---
+
+## The UN Made AI-Generated Refugees
+
+date: 2025-07-10, from: 404 Media Group
+
+The AIs are designed to teach people about atrocities in Sudan. 
+
+<br> 
+
+<https://www.404media.co/the-un-made-ai-generated-refugees/>
+
+---
+
+## Steal an ATM in New York City
+
+date: 2025-07-10, updated: 2025-07-10, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/07/10/steal-an-atm-in-new-york-city/>
+
+---
+
+## Trump Mobile Keeps Charging My Credit Card And I Have No Idea Why
+
+date: 2025-07-10, from: 404 Media Group
+
+I didn’t sign up for the Trump Mobile cellphone plan. I still haven’t received my gold plated Trump phone. But the company just charged my credit card again. 
+
+<br> 
+
+<https://www.404media.co/trump-mobile-keeps-charging-my-credit-card-and-i-have-no-idea-why/>
 
 ---
 
@@ -149,7 +446,7 @@ Mihai Parparita's <a href="https://infinitemac.org/">Infinite Mac</a> lets you r
         aria-label="Shows a classic Mac desktop, which then opens MacPaint and draws a very clumsy attempt at some shapes before ending with an error message in the chat window showing what the LLM was trying to do."
         poster="https://static.simonwillison.net/static/2025/macpaint.jpg"
         style="width: 100%; height: auto;">
-        <source src="https://static.simonwillison.net/static/2025/macpaint.mp4" type="video/mp4">
+        <source src="https://static.simonwillison.net/static/2025/macpaint-x264.mp4" type="video/mp4">
     </video>
 </div>
 

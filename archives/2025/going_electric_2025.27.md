@@ -1,11 +1,284 @@
 ---
 title: going electric
-updated: 2025-07-10 06:08:42
+updated: 2025-07-10 14:08:12
 ---
 
 # going electric
 
-(date: 2025-07-10 06:08:42)
+(date: 2025-07-10 14:08:12)
+
+---
+
+## Cadillac Bet Big On EVs. It's Paying Off
+
+date: 2025-07-10, from: Inside EVs News
+
+Once-troubled Cadillac has become America's number one luxury EV brand. and it's not slowing down just because it's ahead. 
+
+<br> 
+
+<https://insideevs.com/news/765467/cadillac-bets-on-evs/>
+
+---
+
+## Mercedes-Benz offers an exclusive first look at the new electric GLC
+
+date: 2025-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Mercedes-new-GLC-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/mercedes-benz/">Mercedes-Benz</a> is gearing up to unveil the electric version of its best-selling SUV, the GLC, later this year. With its official debut just around the corner, Mercedes revealed a few new details, offering an exclusive first look at the new EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz" data-layer-viewtype="unknown" data-post-id="424353" href="https://electrek.co/2025/07/10/mercedes-exclusive-first-look-new-electric-glc/#more-424353" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/10/mercedes-exclusive-first-look-new-electric-glc/>
+
+---
+
+## Tesla (TSLA) pushes its shareholders annual meeting all the way to November, but why?
+
+date: 2025-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2016/03/img_1665-e1457955946161.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) announced its 2025 annual shareholders meeting at the very last minute, and it pushed it all the way to November, the latest it has ever held the meeting.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="424227" href="https://electrek.co/2025/07/10/tesla-tsla-pushes-its-shareholders-annual-meeting-all-the-way-to-november-but-why/#more-424227" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/10/tesla-tsla-pushes-its-shareholders-annual-meeting-all-the-way-to-november-but-why/>
+
+---
+
+## 2026 Subaru Uncharted: Subaru's Third EV Debuts Next Week
+
+date: 2025-07-10, from: Inside EVs News
+
+The 2026 Uncharted will join the Subaru Solterra and Trailseeker in the outdoorsy brand's electric lineup. 
+
+<br> 
+
+<https://insideevs.com/news/765464/subaru-uncharted-ev-suv-teaser/>
+
+---
+
+## Used Tesla Prices Were Expected To Crash. Then They Didn't
+
+date: 2025-07-10, from: Inside EVs News
+
+Used Tesla inventory is keeping pace with the rest of the used EV market, which is finally showing signs of stabilizing.
+ 
+
+<br> 
+
+<https://insideevs.com/news/765438/used-tesla-prices-were-expected-to-crash-but-didnt/>
+
+---
+
+## NIO (NIO) opens orders for the new three-row Onvo L90, starting at under $30,000
+
+date: 2025-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/NIO-Onvo-L90-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A three-row electric SUV for less than $30,000? Sign me up. <a href="https://electrek.co/guides/nio/">NIO</a> (NYSE: NIO) opened pre-orders for the new Onvo L90 on Thursday, starting from 193,900 yuan, or about $27,000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nio,nio-onvo" data-layer-viewtype="unknown" data-post-id="424314" href="https://electrek.co/2025/07/10/nio-opens-orders-for-three-row-onvo-l90-ev-under-30000/#more-424314" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/10/nio-opens-orders-for-three-row-onvo-l90-ev-under-30000/>
+
+---
+
+## Prime Day-3 Green Deals: Rad Power Radster e-bikes, Anker SOLIX, Anker PowerCore Reserve, EcoFlow, Rachio, Govee, EGO, more
+
+date: 2025-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Rad-Power-Radster-Trail-e-bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s day 3 of the ongoing Prime Day event and we have another fresh batch of Green Deals to go over with you here, while all the others can be found within our <a href="https://electrek.co/2025/07/09/july-prime-day-2025-green-deals-evs-power-stations-tools-appliances-more/">Prime Day Green Deals hub here</a>, which is regularly being updated throughout the days, so be sure to check back often. Leading the three main mentions is <a href="https://9to5toys.com/2025/07/10/rad-power-extends-radster-road-trail-e-bikes-1999-more/">Rad Power’s Prime-adjacent e-bike sale</a> that is continuing the second-ever savings on its new <a href="https://9to5toys.com/2025/07/10/rad-power-extends-radster-road-trail-e-bikes-1999-more/">Radster Road Commuter e-bike and Radster Trail Off-Road e-bike for $1,999</a> each. We also have two Anker mentions today, with the <a href="https://9to5toys.com/2025/07/10/anker-solix-prime-day-sale-from-110/">full Prime Day Sale lineup</a> outside of the F3800 Plus and F3000 stations, with its extra savings, free gear, and more all <a href="https://9to5toys.com/2025/07/10/anker-solix-prime-day-sale-from-110/">starting from $110</a>. Next, we spotted the popular <a href="https://9to5toys.com/2025/07/10/anker-powercore-reserve-station-new-75-low/">Anker PowerCore Reserve 60,000mAh Power Station</a> hitting a <a href="https://9to5toys.com/2025/07/10/anker-powercore-reserve-station-new-75-low/">new $75 low</a>. All that and much more are waiting for you below.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="424328" href="https://electrek.co/2025/07/10/prime-day-3-green-deals-rad-power-anker-ecoflow-rachio-govee-ego-more/#more-424328" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/10/prime-day-3-green-deals-rad-power-anker-ecoflow-rachio-govee-ego-more/>
+
+---
+
+## Trump nominates a Tesla critic to lead NHTSA
+
+date: 2025-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>President Trump has nominated Jonathan Morrison to lead the National Highway Traffic Safety Administration (NHTSA). Morrison has previously criticized and tussled with Tesla in his previous role at NHTSA.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="424308" href="https://electrek.co/2025/07/10/trump-nominates-a-tesla-critic-to-lead-nhtsa/#more-424308" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/10/trump-nominates-a-tesla-critic-to-lead-nhtsa/>
+
+---
+
+## A 25 mph ambulance? The GEM microcar is now an emergency responder
+
+date: 2025-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/GEM-ambulance-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>You might remember <a href="https://electrek.co/2023/07/26/gem-reveals-new-2024-lsvs/">the GEM</a> as a quirky little electric microcar that’s been cruising through campuses, resorts, and planned communities for years. But now, it’s taking on a more serious job – saving lives. Waev Inc., the maker behind the long-running GEM electric vehicle line, has just unveiled the <a href="https://www.gemcar.com/ems/">GEM Ambulance</a>, a purpose-built, all-electric, street-legal low-speed vehicle (LSV) designed specifically for emergency medical services.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="gem,microcar" data-layer-viewtype="unknown" data-post-id="424283" href="https://electrek.co/2025/07/10/a-25-mph-ambulance-the-gem-microcar-is-now-an-emergency-responder/#more-424283" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/10/a-25-mph-ambulance-the-gem-microcar-is-now-an-emergency-responder/>
+
+---
+
+## Kia might bring the EV5 to the US after all
+
+date: 2025-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Kia-EV5-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/kia-ev5/">Kia EV5</a> is officially heading to North America in early 2026, paving the way for a potential US launch. If so, it could go head-to-head with the Tesla Model Y.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev5" data-layer-viewtype="unknown" data-post-id="424282" href="https://electrek.co/2025/07/10/kia-bring-ev5-to-the-us/#more-424282" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/10/kia-bring-ev5-to-the-us/>
+
+---
+
+## NIU KQi 200F review: An affordable folding electric scooter with a cool trick
+
+date: 2025-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/niu-kqi-200f-header-scooter.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>NIU’s recent addition to its KQi line of electric scooters, the KQi 200F, delivers on its promise of being a smart, mid-range commuter scooter that balances portability, comfort, and tech-savvy features. It’s normally reasonably priced, but right now during Prime Day sales you can actually get it for $250 off, dropping the price to just $549. At that price, it’s as affordable as a cheaper scooter while offering features and tech found in pricier models!</p>
+
+
+
+<p>In fact, it looks like NIU has some pretty crazy Prime Day sales on just about everything in the e-scooter lineup, so it’s .</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="424217" href="https://electrek.co/2025/07/10/niu-kqi-200f-review-an-affordable-folding-electric-scooter-with-a-cool-trick/#more-424217" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/10/niu-kqi-200f-review-an-affordable-folding-electric-scooter-with-a-cool-trick/>
+
+---
+
+## Teslas Are Getting GrokAI Next Week—Right After Its 'Mecha Hitler' Disaster
+
+date: 2025-07-10, from: Inside EVs News
+
+Right on the heels of its biggest controversy yet, Musk's AI is coming to a Tesla near you. 
+
+<br> 
+
+<https://insideevs.com/news/765417/tesla-grok-next-week-ai/>
+
+---
+
+## China’s EV Boom Could Turn Into The Hunger Games
+
+date: 2025-07-10, from: Inside EVs News
+
+Out of almost 130 electric car manufacturers, only 15 may survive by 2030, according to a new report. 
+
+<br> 
+
+<https://insideevs.com/news/765416/china-ev-boom-hunger-games/>
+
+---
+
+## Subaru is about to reveal its new electric crossover SUV: Here’s what to expect
+
+date: 2025-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Subaru-new-EV-Uncharted.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new <a href="https://electrek.co/guides/subaru/">Subaru EV</a> is finally on the way. The new electric crossover SUV, the 2026 Subaru Uncharted, is set to make its global debut next week. Here’s what we know so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="subaru" data-layer-viewtype="unknown" data-post-id="424248" href="https://electrek.co/2025/07/10/subaru-about-to-reveal-new-ev-what-to-expect/#more-424248" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/10/subaru-about-to-reveal-new-ev-what-to-expect/>
+
+---
+
+## Rimac just snagged another 24 world records with the Nevera R, including fastest EV top speed [Video]
+
+date: 2025-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Rimac-records-Nevera-R-times.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Boutique electric hypercar developer <a href="https://electrek.co/guides/rimac-automobili/">Rimac Automobili</a> continues to do what it does best—smash world records on the track. This time, Rimac took its Nevera R electric hypercar out, where it secured 24 world records, besting 23 previously held by the Standard version of the Nevera.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rimac,rimac-automobili,rimac-nevera" data-layer-viewtype="unknown" data-post-id="424245" href="https://electrek.co/2025/07/10/rimac-snagged-24-world-records-all-electric-nevera-r-video/#more-424245" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/10/rimac-snagged-24-world-records-all-electric-nevera-r-video/>
+
+---
+
+## The Math Is In: EVs Are Cleaner Than Gas, And It's Not Even Close
+
+date: 2025-07-10, from: Inside EVs News
+
+Plus, investors tell Tesla to set a date for its overdue shareholder meeting and Ford readies its biggest EV fire sale yet. 
+
+<br> 
+
+<https://insideevs.com/news/765337/ev-cleaner-gas-emissions-lifetime/>
+
+---
+
+## The Hyundai IONIQ 6 N is here and it’s even better than expected
+
+date: 2025-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Hyundai-IONIQ-6-N-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/hyundai-ioniq-6-n/">Hyundai IONIQ 6 N</a> is finally here, and it delivers. Hyundai’s electric sports car is loaded with fun new features, a sleek design (including a massive rear wing), 641 horsepower, and much more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-6,hyundai-ioniq-6-n" data-layer-viewtype="unknown" data-post-id="424219" href="https://electrek.co/2025/07/10/hyundai-ioniq-6-n-is-here-better-than-expected/#more-424219" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/10/hyundai-ioniq-6-n-is-here-better-than-expected/>
+
+---
+
+## Elon Musk says Grok is coming to Tesla vehicles just after it went full Hitler
+
+date: 2025-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/11/Tesla-Software-Update-Interior-2.0.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Elon Musk said that Tesla owners will “soon” have access to Grok, a large language developed by Musk’s xAI startup, days after the AI started calling itself ‘MechaHitler’.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="424087" href="https://electrek.co/2025/07/10/elon-musk-says-grok-is-coming-to-tesla-vehicles-just-after-it-went-full-hitler/#more-424087" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/10/elon-musk-says-grok-is-coming-to-tesla-vehicles-just-after-it-went-full-hitler/>
 
 ---
 
@@ -74,6 +347,22 @@ date: 2025-07-10, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/07/10/chinas-new-electric-scooter-shows-off-self-driving-features/>
+
+---
+
+## July Prime Day 2025 Green Deals: EVs, power stations, tools, appliances, more
+
+date: 2025-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Amazon-Prime-Day_ev_f9a8f9.png?w=1600" /></div><p>It’s that time of the year once again, with Amazon’s Prime Day officially kicking off with plenty of <a href="https://9to5toys.com/guides/green-deals/">amazing Green Deals</a> and beyond – with several even continuing from earlier July 4th events. The savings train has officially rolled into the station, and this year we’re getting four days of deals that are dropping prices to some of the lowest of the year, alongside many of our favorite eco-friendly tech brands also offering direct parallel sales too. You’ll find price cuts on EVs, power stations, electric tools, ENERGY STAR-certified appliances, and much more below, curated together in this one-stop shopping hub. Don’t miss your chance to electrify your life at the best prices while they last during this event. We will be regularly updating this hub over the course of the event, so check back later if nothing catches your eye yet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="423670" href="https://electrek.co/2025/07/10/july-prime-day-2025-green-deals-evs-power-stations-tools-appliances-more/#more-423670" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/10/july-prime-day-2025-green-deals-evs-power-stations-tools-appliances-more/>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: health
-updated: 2025-07-10 06:08:41
+updated: 2025-07-10 14:08:12
 ---
 
 # health
 
-(date: 2025-07-10 06:08:41)
+(date: 2025-07-10 14:08:12)
 
 ---
 
@@ -102,6 +102,18 @@ IntroductionEstimating the burden of Zika virus (ZIKV) and dengue virus (DENV) i
 <br> 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2025.1617029>
+
+---
+
+## Correction: Multifactorial resistance mechanisms associated with resistance to ceftazidime-avibactam in clinical Pseudomonas aeruginosa isolates from Switzerland
+
+date: 2025-07-10, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1636052>
 
 ---
 

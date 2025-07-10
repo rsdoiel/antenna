@@ -1,11 +1,123 @@
 ---
 title: pacific
-updated: 2025-07-10 06:08:35
+updated: 2025-07-10 14:08:05
 ---
 
 # pacific
 
-(date: 2025-07-10 06:08:35)
+(date: 2025-07-10 14:08:05)
+
+---
+
+## Chuji wins by four votes
+
+date: 2025-07-10, from: Marshal Islands Journal
+
+<p>Journal 7/9/1982 P1 Kwaj talks pauseA series of meetings held this and last week on Ebeye and Kwajalein between President Amata Kabua, the Kwajalein Atoll Corporation leaders, and the landowners in trying to persuade the landowners occupying Kwajalein and other isles to return to Ebeye while negotiations continue was unsuccessful. The dispute between the government [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/chuji-wins-by-four-votes/">Chuji wins by four votes</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/chuji-wins-by-four-votes/>
+
+---
+
+## France's Bayeux Tapestry to return to Britain after 900 years
+
+date: 2025-07-10, updated: 2025-07-10, from: Marianas Variety
+
+LONDON (Reuters) — France will lend Britain the Bayeux Tapestry, allowing the 11th century masterpiece to come back across the Channel for the first time in more than 900 years, in a show of friendship to mark President Emmanuel Macron's state visit. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/frances-bayeux-tapestry-to-return-to-britain-after-900-years/article_c0b61501-f902-46ab-9abf-ac798da56d63.html>
+
+---
+
+## Ancient proteins found in fossils up to 24 million years old
+
+date: 2025-07-10, updated: 2025-07-10, from: Marianas Variety
+
+WASHINGTON (Reuters) — Scientists in recent years have made progress in finding ancient DNA in fossils, gaining insight into organisms that lived long ago. But the oldest DNA obtained so far dates back about two million years. Proteins, a cell's molecular machinery, also offer valuable information and have the virtue of surviving much longer, as new research shows. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/ancient-proteins-found-in-fossils-up-to-24-million-years-old/article_8aedcdd0-0da6-48f5-8a8f-be7e3f20c851.html>
+
+---
+
+## Poetry
+
+date: 2025-07-10, updated: 2025-07-10, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_34445dc2-97aa-4bd7-a843-32375da28030.html>
+
+---
+
+## How things stand
+
+date: 2025-07-10, updated: 2025-07-10, from: Marianas Variety
+
+The real issue 
+
+<br> 
+
+<https://www.mvariety.com/views/editorials/how-things-stand/article_50867dd0-e67f-4c32-9551-077eaed80de8.html>
+
+---
+
+## Free NMC info session on July 26
+
+date: 2025-07-10, updated: 2025-07-10, from: Marianas Variety
+
+(NMC) — Northern Marianas College is inviting all community members interested in advancing their careers and furthering their education to attend a free information session on Saturday, July 26, 2025, at the Olympio T. Borja Library on NMC’s As Terlaje campus. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/free-nmc-info-session-on-july-26/article_458a675c-0431-4141-b3ef-6801cebf5d2a.html>
+
+---
+
+## Maria Ayuyu receives accounting degree from Bentley University
+
+date: 2025-07-10, updated: 2025-07-10, from: Marianas Variety
+
+JOSE and Marcia Ayuyu proudly announce the graduation of their youngest daughter, Maria Pilar Kanako Erra Ayuyu. Maria received her Bachelor of Arts Degree in Accounting from Bentley University on May 17, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/maria-ayuyu-receives-accounting-degree-from-bentley-university/article_834a1676-60c3-41b6-a939-bf99804f0877.html>
+
+---
+
+## Youth group: ‘We’re back’
+
+date: 2025-07-10, from: Marshal Islands Journal
+
+<p>Youth to Youth in Health celebrated its 39th anniversary and the reopening of its office with a special event for youth, families, and communities the last week of June. The all-day event offered free health screenings in partnership with the Ministry of Health and Human Services, helping the community access important health services. There were [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/youth-group-were-back/">Youth group: ‘We’re back’</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/youth-group-were-back/>
+
+---
+
+## Guam marked as support location for Resolute Force Pacific exercise 2025
+
+date: 2025-07-10, from: Pacific Island Times
+
+U.S. Air Force Col. Jeromy Guinther, 35th Operations Group commander, briefs incoming exercise Resolute Force Pacific 2025 members at... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-airport-marked-as-support-site-for-resolute-force-pacific-exercise-2025>
 
 ---
 

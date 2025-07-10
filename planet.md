@@ -1,11 +1,307 @@
 ---
 title: planet
-updated: 2025-07-10 06:08:32
+updated: 2025-07-10 14:08:02
 ---
 
 # planet
 
-(date: 2025-07-10 06:08:32)
+(date: 2025-07-10 14:08:02)
+
+---
+
+## Service of thanksgiving held for Down murder victim
+
+date: 2025-07-10, from: RTÉ News
+
+The murder of pregnant mother of two Sarah Montgomery has left a "deep wound" on her family and the community where she lived, her funeral has been told. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0710/1522943-thanksgiving-service-down/>
+
+---
+
+## Trump order to end birthright citizenship halted in court
+
+date: 2025-07-10, from: RTÉ News
+
+US President Donald Trump's order restricting birthright citizenship has been halted by a federal judge. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0710/1522935-trump-birthright-citizenships/>
+
+---
+
+## Mother of wounded Gaza child pleads to reunite family in Ireland
+
+date: 2025-07-10, from: RTÉ News
+
+A Palestinian woman whose child was brought to Ireland for medical treatment as doctors tell us about their concerns that the impact visa delays could have on other children due to be brought here. 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0710/1522923-mother-of-wounded-gaza-child-pleads-to-reunite-family-in-ireland/>
+
+---
+
+## Connolly to declare interest as presidential race hots up
+
+date: 2025-07-10, from: RTÉ News
+
+The presidential election may be months away, but the electoral campaign will pick up pace next week. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0710/1522920-analysis-presidential-race/>
+
+---
+
+## Kneecap 'banned from advertising' on London Underground
+
+date: 2025-07-10, from: RTÉ News
+
+Belfast rap trio Kneecap have said they are "banned" from advertising one of their posters on the London Underground. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0710/1522911-kneecap-london-ban/>
+
+---
+
+## Atlantic-based Indigenous artists among emerging talent at Toronto Outdoor Art Fair
+
+date: 2025-07-10, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7582091.1752171877!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/katelyn-jacque.jpeg' alt='Woman with traditional drum in snow' width='620' height='349' title='This is one of the photos that Jacque is sharing at the Toronto Outdoor Art Fair, from an untitled series that she says represents &apos;a feeling of loss and disconnect from culture and tradition.&apos; The photo was taken in Postville, Labrador.'/><p>Mi'kmaw beader Melcolm Beaulieu and Inuk photographer Katelyn Jacque are being featured in a spotlight on six emerging artists from Atlantic Canada at this year's Toronto Outdoor Art Fair.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/indigenous-artists-toronto-outdoor-fair-1.7581797?cmp=rss>
+
+---
+
+## Kneecap claim London Underground poster ban
+
+date: 2025-07-10, from: RTÉ News
+
+Belfast rap trio Kneecap have claimed that they are banned from advertising one of their gigs on the London Underground. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0710/1522910-kneecap-claim-london-underground-poster-ban/>
+
+---
+
+## McGrath says he was treated same as senior ministers
+
+date: 2025-07-10, from: RTÉ News
+
+Former independent minister of state Finian McGrath has told the High Court that he was treated exactly the same as full senior ministers when he sat around the cabinet table between 2016 and 2020. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0710/1522908-super-junior-ministers-court/>
+
+---
+
+## UNICEF weighs the cost of war on Ukraine’s children
+
+date: 2025-07-10, from: Vatican News
+
+
+                    <p>As the war in Ukraine stretches out into its third year, a UNICEF report reveals that 70% or 3.5 million of Ukrainian children are deprived of accessing basic goods and services. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/unicef-war-ukraine-children-peace-appeal.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/unicef-war-ukraine-children-peace-appeal.html>
+
+---
+
+## Dáil hears call for 'strangulation porn' to be banned
+
+date: 2025-07-10, from: RTÉ News
+
+The Dáil has heard a call for so-called "strangulation porn" to be banned. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0710/1522905-domestic-violence-register/>
+
+---
+
+## Bob Dylan to tour Ireland this November
+
+date: 2025-07-10, from: RTÉ News
+
+Singer Bob Dylan is to return to Ireland for dates in Belfast, Killarney and Dublin this November as part of his Rough And Rowdy Ways world tour, which has been running since November 2021. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0710/1522885-bob-dylan-to-tour-ireland-this-november/>
+
+---
+
+## Gaza: 'I raise my voice hoping that someone in the world will hear it'
+
+date: 2025-07-10, from: Vatican News
+
+
+                    <p>Helda Ayyad, a young woman displaced by nearly two years of war in Gaza, writes from within a parish-turned-shelter to share her story. Once a top-performing student with dreams of university and a future built through learning, she now finds herself cut off from the classrooms and community that once gave her purpose.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/gaza-student-displaced-education-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/gaza-student-displaced-education-war.html>
+
+---
+
+## Philippine bishops’ conference calls for fair wages and accountability
+
+date: 2025-07-10, from: Vatican News
+
+
+                    <p>Closing the 130th Plenary Assembly of the Catholic Bishop’s Conference of the Philippines, the bishops release a letter urging the government and Church institutions to bring awareness to the ongoing issue of decreasing minimum wage in the country and the harsh labor conditions. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/philippine-bishops-conference-calls-for-fair-wages.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/philippine-bishops-conference-calls-for-fair-wages.html>
+
+---
+
+## Ireland's Healy storms to Tour de France stage victory
+
+date: 2025-07-10, from: RTÉ News
+
+Ireland's Ben Healy claimed a memorable first Tour de France stage win of his career on Thursday. 
+
+<br> 
+
+<https://www.rte.ie/sport/cycling/2025/0710/1522897-irelands-healy-storms-to-tour-de-france-stage-victory/>
+
+---
+
+## Jury in abuse trial to resume deliberations on Monday
+
+date: 2025-07-10, from: RTÉ News
+
+Jury in abuse trial to resume deliberations on Monday 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0710/1522898-abuse-court/>
+
+---
+
+## Religious dimensions of peacemaking for a war-torn world
+
+date: 2025-07-10, from: Vatican News
+
+
+                    <p>“Religious Dimensions of Peacemaking” is the title of an international conference taking place in the Vatican to provide a focus on the role of the Catholic Church as well as other faiths and institutions engaged in peacemaking.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/religious-dimensions-peacemaking-vatican-conference-echavarria.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/religious-dimensions-peacemaking-vatican-conference-echavarria.html>
+
+---
+
+## Govt pay €470k interest to Revenue after pensions error
+
+date: 2025-07-10, from: RTÉ News
+
+A senior civil servant has revealed that the Government has paid almost €470k in interest to Revenue after an error in pension contributions was identified. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0710/1522896-govt-pensions-revenue/>
+
+---
+
+## Proposal for state-backed savings scheme for housing
+
+date: 2025-07-10, from: RTÉ News
+
+The Social Democrats have published proposals for a state-backed savings scheme which would provide funding for social and affordable housing. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0710/1522892-savings-scheme-housing/>
+
+---
+
+## Pope: AI development must build bridges of dialogue and promote fraternity
+
+date: 2025-07-10, from: Vatican News
+
+
+                    <p>In a message signed by the Cardinal Secretary of State Pietro Parolin, to the United Nations’ AI for Good Summit happening in Geneva, Pope Leo XIV encourages nations to create frameworks and regulations to work for the common good.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-artificial-intelligence-geneva-summit.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-artificial-intelligence-geneva-summit.html>
+
+---
+
+## Scrutiny over Texas flood response as death toll tops 120
+
+date: 2025-07-10, from: RTÉ News
+
+Texas authorities faced mounting scrutiny over the response to flash flooding that has left more than 120 people dead, as details surfaced about reported delays of early alerts that could have saved lives. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0710/1522888-texas-floods-deaths/>
+
+---
+
+## Canadian travel to the U.S. plummets — but Americans are staying home, too
+
+date: 2025-07-10, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7581835.1752168504!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump-tariffs.jpg' alt='Elbows Up for Canada protesters gather near The Peace Bridge border crossing in Buffalo, N.Y.' width='620' height='349' title='Elbows Up for Canada protesters gather near The Peace Bridge border crossing in Buffalo, N.Y.'/><p>It’s not just Canadians who are holding back on cross-border travel amid a U.S. trade war that has soured bilateral relations. The number of Americans coming to Canada is also dropping off.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/cross-border-travel-plummet-fewer-americans-1.7581821?cmp=rss>
+
+---
+
+## Dylan McGrath's Fade Street Social owes Revenue €1.7m
+
+date: 2025-07-10, from: RTÉ News
+
+Top chef Dylan McGrath's Prime Steak Restaurant which trades as Fade Street Social owes Revenue €1.7 million "and maybe more" and is unable to pay its debts, the Circuit Civil Court has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0710/1522881-fade-street-revenue/>
+
+---
+
+## Man jailed for death of elderly woman in hit-and-run
+
+date: 2025-07-10, from: RTÉ News
+
+A 45-year-old man has been jailed for four years and three months for knocking down and killing an 84- year-old woman in a hit-and-run in Dublin almost two years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0710/1522877-tallaght-fatal-collision/>
 
 ---
 
@@ -18,6 +314,18 @@ Former Olympic swimming coach George Gibney has agreed to be extradited from the
 <br> 
 
 <https://www.rte.ie/news/2025/0710/1522869-george-gibney-court/>
+
+---
+
+## 940 missing: Are there lessons from the Gaine or Satchwell cases?
+
+date: 2025-07-10, from: RTÉ News
+
+An Garda Síochána told Prime Time that 940 people are currently listed as missing on the Garda Pulse system. So could some of them be found, if fresh thinking, new tools, or different investigative techniques were applied? 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0710/1522861-940-missing-are-there-lessons-from-the-gaine-or-satchwell-cases/>
 
 ---
 
@@ -61,11 +369,83 @@ The Irish Data Protection Commission (DPC) has announced that it has opened an i
 
 date: 2025-07-10, from: RTÉ News
 
-At Gaza's largest hospital, doctors say crippling fuel shortages have led them to put several premature babies in a single incubator as they struggle to keep the newborns alive while Israel presses on with its military campaign. 
+At Gaza's largest hospital, doctors say crippling fuel shortages have led them to put several premature babies in a single incubator as they struggle to keep the newborns alive while Israel continues its attacks on the territory. 
 
 <br> 
 
 <https://www.rte.ie/news/2025/0710/1522868-gaza-baby-incubators/>
+
+---
+
+## Fight to end AIDS: ‘This is not just a funding gap – it’s a ticking time bomb’
+
+date: 2025-07-10, from: United Nations, Top Stories
+
+Devastating funding cuts from international donors are hitting countries hardest affected by HIV — but many are showing remarkable resilience and determination to keep progress alive.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165364>
+
+---
+
+## Overlooked and underestimated: Sand and dust storms wreak havoc across borders
+
+date: 2025-07-10, from: United Nations, Climate Change
+
+There are three Great Pyramids at Giza in Egypt - but imagine if there were 307 of the mighty edifices. And then imagine that they had dissolved into over two billion tons of sand and dust particles.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165363>
+
+---
+
+## UN voices concern over Greece’s suspension of asylum applications
+
+date: 2025-07-10, from: United Nations, Top Stories
+
+The UN refugee agency (UNHCR) on Thursday raised alarm over Greece’s decision to suspend the submission of asylum applications from people arriving by sea from North Africa, warning it risks breaching international law and undermining the country’s longstanding commitment to protecting those fleeing conflict and persecution. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165361>
+
+---
+
+## UN calls for reversal of US sanctions on Special Rapporteur Francesca Albanese
+
+date: 2025-07-10, from: United Nations, Top Stories
+
+Top UN human rights officials have voiced serious concern over the imposition of sanctions by the United States targeting Francesca Albanese, a UN-appointed independent expert on the Occupied Palestinian Territory. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165359>
+
+---
+
+## Jane Birkin's original Hermès bag sells at auction for 7 million euros
+
+date: 2025-07-10, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7581765.1752160729!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/france-fashion-birkin-bag-auction.jpg' alt='A woman&apos;s white-gloved hands hold a black leather handbag upright.' width='620' height='349' title='An auction officer displays the original Birkin bag created by Hermès for Jane Birkin in 1984, prior to its auction Thursday, July 10, 2025 in Paris. '/><p>Sketched out on an air sickness bag, the first Birkin bag, which gave birth to fashion’s must-have accessory, sold for a record 7 million euros (about $11.2 million Cdn) at auction in Paris on Thursday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/montreal/original-hermes-birkin-auction-7-million-euros-1.7581735?cmp=rss>
+
+---
+
+## What to know about Francesca Albanese, the UN investigator sanctioned by the U.S.
+
+date: 2025-07-10, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7581594.1752154442!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-un-rights.JPG' alt='A woman with grey hair a large black glasses sits at a table.' width='620' height='349' title='Francesca Albanese, UN special rapporteur on human rights in the Palestinian territories, attends a side event during the Human Rights Council at the United Nations in Geneva, Switzerland on March 26, 2024.'/><p>The United States has imposed sanctions on the United Nations official who investigates human rights abuses in occupied Palestinian territories, the latest effort by the Trump administration to punish those who criticize Israel's war in the Gaza Strip.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/francesca-albanese-sanctions-news-1.7581584?cmp=rss>
 
 ---
 
@@ -97,6 +477,22 @@ A Co Mayo man has gone on trial at the Central Criminal Court, where he is accus
 
 ---
 
+## Humanitarian Corridors enables the arrival of over 100 Afghan refugees 
+
+date: 2025-07-10, from: Vatican News
+
+
+                    <p>As part of the Humanitarian Corridors initiative, a group of 119 Afghan refugees have arrived in Rome from Pakistan.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/more-than-100-afghan-refugees-set-to-arrive-in-rome.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/more-than-100-afghan-refugees-set-to-arrive-in-rome.html>
+
+---
+
 ## Pope Leo: Hope is source of joy no matter our age
 
 date: 2025-07-10, from: Vatican News
@@ -113,11 +509,27 @@ date: 2025-07-10, from: Vatican News
 
 ---
 
-## Planning granted for Greater Dublin Drainage Project
+## Kulbokas: Attacks on Kyiv continue to increase recently damaging to the Nunciature
+
+date: 2025-07-10, from: Vatican News
+
+
+                    <p>The Apostolic Nuncio to Ukraine comments on the current situation in the capital, where dozens upon dozens of Russian missiles have struck - some even in the district where the Holy See’s diplomatic mission is located.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/interview-nuncio-ukraine-visvaldas-kulbokas-bombing-kyiv.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/interview-nuncio-ukraine-visvaldas-kulbokas-bombing-kyiv.html>
+
+---
+
+## Planning granted for Dublin sewage and drainage project
 
 date: 2025-07-10, from: RTÉ News
 
-Planning approval has been given to a major €1.3 billion drainage scheme for Dublin which is critical to the provision of housing in future years. 
+Planning approval has been given to a major €1.3 billion sewage and drainage scheme for Dublin which is critical to the provision of housing in future years. 
 
 <br> 
 
@@ -149,11 +561,11 @@ There has been a sharp rise in the prices of a number of food and drink products
 
 ---
 
-## Hole-in-one sparks magic Maguire major start
+## Maguire shares lead after hole-in-one at Evian
 
 date: 2025-07-10, from: RTÉ News
 
-A superb hole-in-one was the memorable moment of Leona Maguire's opening round as she took the clubhouse lead at the Amundi Evian Championship in France. 
+A superb hole-in-one was the memorable moment of Leona Maguire's opening round as she took a share of the lead at the Amundi Evian Championship in France. 
 
 <br> 
 
@@ -173,7 +585,7 @@ The United States has said it is imposing sanctions on Francesca Albanese, the U
 
 ---
 
-## Met Éireann issues high temperature warning, 27C expected
+## Temperatures to reach near record highs this weekend
 
 date: 2025-07-10, from: RTÉ News
 
@@ -182,6 +594,18 @@ Met Éireann has issued a Status Yellow high temperature warning for tomorrow an
 <br> 
 
 <https://www.rte.ie/news/weather/2025/0710/1522839-weather-warning/>
+
+---
+
+## Bangladesh tribunal indicts former leader Sheikh Hasina over protester deaths
+
+date: 2025-07-10, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7581591.1752154353!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/un-assembly.JPG' alt='A woman with a headdress and glasses is shown in closeup giving a speech behind a podium.' width='620' height='349' title='Prime Minister of Bangladesh Sheikh Hasina addresses the 78th Session of the U.N. General Assembly in New York City, U.S., September 22, 2023.  '/><p>A special tribunal indicted Bangladesh's ousted prime minister Sheikh Hasina on Thursday by accepting charges of crimes against humanity filed against her in connection with a mass uprising in which hundreds of students were killed last year.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/bangladesh-hasina-indictment-1.7581556?cmp=rss>
 
 ---
 
@@ -293,11 +717,11 @@ date: 2025-07-10, from: CBC, World News
 
 ---
 
-## Major incident declared over loyalist bonfire in Belfast
+## PSNI investigating Co Tyrone bonfire as 'hate incident'
 
 date: 2025-07-10, from: RTÉ News
 
-Police in Northern Ireland are assessing a request from Belfast City Council to help contractors remove a controversial bonfire deemed to pose a risk to the electricity supply to two major hospitals. 
+The PSNI is investigating the placing of effigies on top of a loyalist bonfire in Co Tyrone as a "hate incident". 
 
 <br> 
 
@@ -317,11 +741,23 @@ Fine Gael MEP Seán Kelly has ruled himself out of seeking his party's nominatio
 
 ---
 
-## GAA Palestine calls on Taoiseach to help with visa denial
+## Will a 'Free Tibet' die with the Dalai Lama?
+
+date: 2025-07-10, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7575006.1751413890!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/india-dalai-lama-birthday.jpg' alt='A man with glasses in gold-coloured clothing is pictured.' width='620' height='349' title='Tibetan spiritual leader the Dalai Lama presides over an event celebrating his 90th birthday according to a Tibetan calendar at the Tsuglakhang temple in Dharamshala, India on June 30, 2025. The Tibetan leader&apos;s birthday falls on 6 July according to the Gregorian calendar, which is used in most parts of the world.'/><p>As a spiritual and political leader, the Dalai Lama has spent his life building a nation in exile, but potential disputes over his rightful successor could mean the end of an independent Tibet.</p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/frontburner/will-a-free-tibet-die-with-the-dalai-lama-1.7581123?cmp=rss>
+
+---
+
+## 'Don't kill our children's dreams' - GAA Palestine
 
 date: 2025-07-10, from: RTÉ News
 
-GAA Palestine's founder has called on Taoiseach Micheál Martin to step in to prevent Palestinian children "being devastated" after a group of its players had their visas to Ireland denied. 
+A representative of GAA Palestine in the West Bank has sent a heartfelt plea to Irish authorities asking them to reverse a decision to deny visa applications for a group of its players and mentors ahead of a summer tour. 
 
 <br> 
 
@@ -365,11 +801,11 @@ US President Donald Trump's administration has sued California over its regulati
 
 ---
 
-## Gaza civil defence says 52 killed by Israeli forces
+## Israeli attack kills 9 children waiting for aid in Gaza
 
 date: 2025-07-10, from: RTÉ News
 
-Gaza's civil defence agency on Thursday said that at least 52 people, including eight children, were killed by Israeli forces in the war-battered Palestinian territory, updating a previous toll. 
+Nine children were killed in an Israeli attack as they queued for nutritional supplements outside a health clinic in central Gaza, UNICEF has said. 
 
 <br> 
 
@@ -1017,7 +1453,7 @@ As scores of people – including medical staff and their families – have repo
 
 ## ‘Very limited time to react’: Texas flash floods expose challenges in early warning
 
-date: 2025-07-09, from: United Nations, Top Stories
+date: 2025-07-09, from: United Nations, Climate Change
 
 The deadly flash floods in central Texas that claimed more than 100 lives over the July Fourth weekend in the United States have underscored the devastating power of this fast-onset hazard – and the critical challenge of ensuring early warnings reach vulnerable populations, even in the dead of night. 
 
@@ -1029,7 +1465,7 @@ The deadly flash floods in central Texas that claimed more than 100 lives over t
 
 ## Ukrainian baker rises above adversity
 
-date: 2025-07-09, from: United Nations, Top Stories
+date: 2025-07-09, from: United Nations, Economic Development
 
 At Hanna Honcharenko’s bakery in Dnipro, eastern Ukraine, the scent of freshly baked bread represents a slice of home for many. The business, born out of hardship, is proof that with trust and support it is possible start again following the loss brought on by war.&nbsp; 
 
@@ -1950,7 +2386,7 @@ date: 2025-07-08, from: Vatican News
 
 ## UN summit confronts AI’s dawn of wonders and warnings
 
-date: 2025-07-08, from: United Nations, Top Stories
+date: 2025-07-08, from: United Nations, Economic Development
 
 The UN’s flagship platform on artificial intelligence opened in Geneva on Tuesday, launching four days of high-level dialogue, cutting-edge demonstrations and urgent calls for inclusive AI governance. The event comes as autonomous and generative systems evolve faster than regulatory frameworks can keep pace. 
 
@@ -1986,7 +2422,7 @@ The UN human rights office, OHCHR, has expressed deep concern over the killing o
 
 ## US tariff delay deepens trade uncertainty, warns top UN economist
 
-date: 2025-07-08, from: United Nations, Top Stories
+date: 2025-07-08, from: United Nations, Economic Development
 
 A leading UN trade official warned on Tuesday that the United States’ decision to delay the end of a tariff suspension by a few weeks risks prolonging global uncertainty and undermining long-term investments and commercial contracts. 
 
@@ -2010,7 +2446,7 @@ As relentless attacks continue to damage homes and communities across Ukraine, t
 
 ## South Sudan’s longest cholera outbreak enters critical stage
 
-date: 2025-07-08, from: United Nations, Top Stories
+date: 2025-07-08, from: United Nations, Climate Change
 
 On the eve of the fourteenth anniversary of its independence, South Sudan – the world’s youngest country – is experiencing its worst and longest cholera outbreak.&nbsp;&nbsp; 
 
@@ -2754,7 +3190,7 @@ Goals win games goes the old cliche, and Shane McGrath feels that Tipperary were
 
 ## Human rights must anchor the digital age, says UN’s Türk
 
-date: 2025-07-07, from: United Nations, Top Stories
+date: 2025-07-07, from: United Nations, Economic Development
 
 As digital technologies rapidly reshape every aspect of society, the UN’s top human rights official has called for human rights to be placed at the centre of this transformation. 
 
@@ -2766,7 +3202,7 @@ As digital technologies rapidly reshape every aspect of society, the UN’s top 
 
 ## ‘Cooperation is humanity’s greatest innovation,’ UN chief declares at BRICS summit
 
-date: 2025-07-07, from: United Nations, Top Stories
+date: 2025-07-07, from: United Nations, Economic Development
 
 UN Secretary-General António Guterres on Monday warned that the environment is being attacked on all fronts and called on the international community to urgently tackle the intersection of health and climate issues. 
 

@@ -1,11 +1,62 @@
 ---
 title: writing
-updated: 2025-07-10 06:08:38
+updated: 2025-07-10 14:08:08
 ---
 
 # writing
 
-(date: 2025-07-10 06:08:38)
+(date: 2025-07-10 14:08:08)
+
+---
+
+## Submission Grinder Delists Analog
+
+date: 2025-07-10, from: Locus Magazine
+
+<p>Analog Science Fiction &#38; Fact has been delisted on The Submission Grinder due to new terms in the magazine&#8217;s recent contracts. Steven Salpeter of parent company Must Read Books has responded that they &#8220;are going to be in touch with the folks at the submission grinder to try to resolve the issue.&#8221;</p>
+<p>According to the the listing, The Submission Grinder has concerns about Analog contract terms &#8220;including sublicensing to unnamed  <a href="https://locusmag.com/2025/07/submission-grinder-delists-analog/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/submission-grinder-delists-analog/>
+
+---
+
+## NO FAKES 2025: Another Bill Sacrificing Authors’ Free Expression for Industry Control
+
+date: 2025-07-10, from: Author's Union blog
+
+NO FAKES 2025 does not care about actual deception, impersonation, and harm to the average person; instead, it focuses on enabling political censorship and monetization of celebrity likeness. 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/07/10/no-fakes-2025-another-bill-sacrificing-authors-free-expression-for-industry-control/>
+
+---
+
+## Design Dilemma: Any vs. All
+
+date: 2025-07-10, from: John August blog
+
+<p>It wasn’t the code. It wasn’t the layout. Birdigo’s issue came down to a single misunderstanding that revealed exciting possibilities.</p>
+The post <a href="https://johnaugust.com/2025/design-dilemma-any-vs-all">Design Dilemma: Any vs. All</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/design-dilemma-any-vs-all>
+
+---
+
+## Sunrise on the Reaping by Suzanne Collins: Review by Colleen Mondor
+
+date: 2025-07-10, from: Locus Magazine
+
+<p><strong>Sunrise on the Reaping</strong>, Suzanne Collins (Scholastic 978-1-546-17146-1, $27.99, 400pp, hc) March 2025.</p>
+<p>Suzanne Collins returned in March to her blockbuster Hunger Games trilogy with another prequel, <strong>Sunrise on the Reaping</strong>. Providing the backstory on Haymitch Abernathy, mentor to <strong>The Hunger Games</strong>’s protagonist Katniss Ever­deen, <strong>Sunrise on the Reaping </strong>is an easy choice for Collins’s fans. At last they will find out why Haymitch became a depressed  <a href="https://locusmag.com/2025/07/sunrise-on-the-reaping-by-suzanne-collins-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/sunrise-on-the-reaping-by-suzanne-collins-review-by-colleen-mondor/>
 
 ---
 

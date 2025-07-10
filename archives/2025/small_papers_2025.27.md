@@ -1,11 +1,41 @@
 ---
 title: small papers
-updated: 2025-07-10 06:08:43
+updated: 2025-07-10 14:08:13
 ---
 
 # small papers
 
-(date: 2025-07-10 06:08:43)
+(date: 2025-07-10 14:08:13)
+
+---
+
+## MacArthur Park to reopen this month after $10.5 million remodel; here’s a sneak peek
+
+date: 2025-07-10, from: Long Beach Post
+
+<figure><img width="1024" height="620" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-1024x620.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-1024x620.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-300x182.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-768x465.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-179x108.jpg 179w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-400x242.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The four-acre Cambodia Town park has been closed since April 2024.</p>
+<p>The post <a href="https://lbpost.com/news/parks/macarthur-park-to-reopen-this-month-after-10-5-million-remodel-heres-a-sneak-peek">MacArthur Park to reopen this month after $10.5 million remodel; here&#8217;s a sneak peek</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/parks/macarthur-park-to-reopen-this-month-after-10-5-million-remodel-heres-a-sneak-peek>
+
+---
+
+## State Supreme Court refuses to hear appeal from ex-LBUSD teacher who sexually abused students
+
+date: 2025-07-10, from: Long Beach Post
+
+<figure><img width="1024" height="815" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1024x815.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1024x815.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-300x239.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-768x611.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-136x108.jpg 136w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1536x1222.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1200x955.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1568x1247.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-400x318.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097.jpg 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Mark Santo, who taught at Lindbergh Middle School and Jordan High School, is serving 80 years to life behind bars.</p>
+<p>The post <a href="https://lbpost.com/news/crime/state-supreme-court-refuses-to-hear-appeal-from-ex-lbusd-teacher-who-sexually-abused-students">State Supreme Court refuses to hear appeal from ex-LBUSD teacher who sexually abused students</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/state-supreme-court-refuses-to-hear-appeal-from-ex-lbusd-teacher-who-sexually-abused-students>
 
 ---
 
@@ -160,7 +190,7 @@ date: 2025-07-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-07-09, from: Long Beach Post
 
-<figure><img width="1024" height="614" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-1024x614.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-1024x614.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-300x180.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-768x461.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-180x108.jpg 180w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-1200x720.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-400x240.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="614" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-1024x614.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-1024x614.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-300x180.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-768x461.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-180x108.jpg 180w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-1200x720.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-400x240.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A settlement agreement with the college includes nearly a year of paid leave and six months severance for longtime coach Brett Peabody.</p>
 <p>The post <a href="https://lbpost.com/news/education/aaron-rupar-brett-peabody-resign-lbcc-football-coach">LBCC football coach agrees to resign after his message to anti-Trump journalist drew backlash</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -175,7 +205,7 @@ date: 2025-07-09, from: Long Beach Post
 
 date: 2025-07-09, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The lawsuit alleges California’s transgender athlete policies violate Title IX, the landmark federal civil rights law that prohibits sex-based discrimination in education.</p>
 <p>The post <a href="https://lbpost.com/news/education/trump-administration-sues-california-in-policy-battle-over-transgender-athletes">Trump administration sues California in policy battle over transgender athletes</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

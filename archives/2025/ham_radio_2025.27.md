@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-07-10 06:08:35
+updated: 2025-07-10 14:08:05
 ---
 
 # ham radio
 
-(date: 2025-07-10 06:08:35)
+(date: 2025-07-10 14:08:05)
+
+---
+
+## Converting pulses to a sawtooth waveform
+
+date: 2025-07-10, from: EDN Blog
+
+<img width="1028" height="567" src="https://www.edn.com/wp-content/uploads/Sawteeth_Figure1.png?fit=1028%2C567" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Sawteeth_Figure1.png?w=1028 1028w, https://www.edn.com/wp-content/uploads/Sawteeth_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/Sawteeth_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/Sawteeth_Figure1.png?w=1024 1024w" sizes="(max-width: 1028px) 100vw, 1028px" /><p>A pair of circuits that use a single 3.3-V supply rail to generate a ground- or supply-reference sawtooth waveform.</p>
+<p>The post <a href="https://www.edn.com/converting-pulses-to-a-sawtooth-waveform/">Converting pulses to a sawtooth waveform</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/converting-pulses-to-a-sawtooth-waveform/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-07-10 06:08:35
 
 date: 2025-07-10, from: EDN Blog
 
-<img width="1280" height="853" src="https://www.edn.com/wp-content/uploads/Hero-image-Magnetoreceptive-skin-sensors_eye-candy.png?fit=1280%2C853" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Magnetoreceptive-skin-sensors_eye-candy.png?w=1280 1280w, https://www.edn.com/wp-content/uploads/Hero-image-Magnetoreceptive-skin-sensors_eye-candy.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Magnetoreceptive-skin-sensors_eye-candy.png?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Magnetoreceptive-skin-sensors_eye-candy.png?w=1024 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /><p>The magnetoreceptor captures electrical resistance information across the entire measurement domain, offering continuous spatial detection.</p>
+<img width="1280" height="853" src="https://www.edn.com/wp-content/uploads/Hero-image-Magnetoreceptive-skin-sensors_eye-candy.png?fit=1280%2C853" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Magnetoreceptive-skin-sensors_eye-candy.png?w=1280 1280w, https://www.edn.com/wp-content/uploads/Hero-image-Magnetoreceptive-skin-sensors_eye-candy.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Magnetoreceptive-skin-sensors_eye-candy.png?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Magnetoreceptive-skin-sensors_eye-candy.png?w=1024 1024w" sizes="auto, (max-width: 1280px) 100vw, 1280px" /><p>The magnetoreceptor captures electrical resistance information across the entire measurement domain, offering continuous spatial detection.</p>
 <p>The post <a href="https://www.edn.com/how-spiders-and-eels-inspired-a-magnetoreceptive-sensor/">How spiders and eels inspired a magnetoreceptive sensor</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 
@@ -51,7 +65,7 @@ date: 2025-07-09, from: Amateur Radio Relay League News
 
 date: 2025-07-09, from: EDN Blog
 
-<img width="573" height="498" src="https://www.edn.com/wp-content/uploads/AntiPar_Figure3.png?fit=573%2C498" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/AntiPar_Figure3.png?w=573 573w, https://www.edn.com/wp-content/uploads/AntiPar_Figure3.png?w=300 300w" sizes="(max-width: 573px) 100vw, 573px" /><p>Take advantage of current control topologies without self-heating error while retaining the 317/337's fault protection features.</p>
+<img width="573" height="498" src="https://www.edn.com/wp-content/uploads/AntiPar_Figure3.png?fit=573%2C498" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/AntiPar_Figure3.png?w=573 573w, https://www.edn.com/wp-content/uploads/AntiPar_Figure3.png?w=300 300w" sizes="auto, (max-width: 573px) 100vw, 573px" /><p>Take advantage of current control topologies without self-heating error while retaining the 317/337's fault protection features.</p>
 <p>The post <a href="https://www.edn.com/cross-connect-complementary-current-sources-to-reduce-self-heating-error/">Cross connect complementary current sources to reduce self-heating error</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

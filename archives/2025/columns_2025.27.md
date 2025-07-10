@@ -1,11 +1,301 @@
 ---
 title: columns
-updated: 2025-07-10 06:08:37
+updated: 2025-07-10 14:08:07
 ---
 
 # columns
 
-(date: 2025-07-10 06:08:37)
+(date: 2025-07-10 14:08:07)
+
+---
+
+##  Shortlist for the Astronomy Photographer of the Year 2025 Competition 
+
+date: 2025-07-10, updated: 2025-07-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/shortlist-for-the-astronomy-photographer-of-the-year-2025-competition>
+
+---
+
+##  New Sphere-Packing Record Stems From an Unexpected Source. &#8220;Sometimes all a sticky... 
+
+date: 2025-07-10, updated: 2025-07-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047124-new-sphere-packing-record>
+
+---
+
+## Yours Truly on Crossword, With Jonathan Wold and Luke Carbis
+
+date: 2025-07-10, updated: 2025-07-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://crossword.fm/s09/e13/>
+
+---
+
+##  No One Else Has a Bike Like Mine. &#8220;The most elaborately decorated... 
+
+date: 2025-07-10, updated: 2025-07-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047120-no-one-else-has-a>
+
+---
+
+##  The Bayeux Tapestry is returning to the UK for the first time... 
+
+date: 2025-07-10, updated: 2025-07-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047121-the-bayeux-tapestry-is-re>
+
+---
+
+## Red Hat sweetens the RHEL deal for biz devs – just don't put it in prod
+
+date: 2025-07-10, updated: 2025-07-10, from: Liam Proven's articles at the Register
+
+<h4>Up to 25 instances for free, but only to play with</h4>
+      <p>IBM&#39;s Linux subsidiary is offering a new way to get RHEL without paying, now with up to 25 instances.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/10/rhel_business_developers/>
+
+---
+
+##  A New Genetic Map of Human Disease for the Past 37,000 Years 
+
+date: 2025-07-10, updated: 2025-07-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/a-new-genetic-map-of-human-disease-for-the-past-37000-years>
+
+---
+
+##  Craig Mod: Overtourism in Japan, and How it Hurts Small Businesses. When... 
+
+date: 2025-07-10, updated: 2025-07-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047128-craig-mod-overtourism-in->
+
+---
+
+##  &#8220;Lately, it has been difficult to ignore a tendency at the NY... 
+
+date: 2025-07-10, updated: 2025-07-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047131-lately-it-has-been-diffic>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-10, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/11/nakedJenToday.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Have they made ChatGPT more stupid in the last couple of days? Or maybe I'm starting to see the problem. I was trying to debug a piece of software that sends mail. I use <a href="https://aws.amazon.com/ses/">Amazon SES</a>. I wanted to see if the software was actually communicating with the server, and thought for sure there must be a log of requests on the AWS system. Where is it? I asked ChatGPT. It starts telling me to check all these things and never got to the part about where the log is. So I said, just tell me where the log is. Again, it tells me about all these nice things I should check first. I asked again, this time in ALL CAPS which is how I communicate that I really mean it. Again more bullshit. So I think to ask <i>Is there a log? </i>No, it says, actually there isn't one. 
+
+<br> 
+
+<http://scripting.com/2025/07/10.html#a153355>
+
+---
+
+##  What If You Replaced the Moon With a Black Hole? 
+
+date: 2025-07-10, updated: 2025-07-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/what-if-you-replaced-the-moon-with-a-black-hole>
+
+---
+
+## July 9, 2025
+
+date: 2025-07-10, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167996613/4046ca9ee750adda6922c39caf0850ca.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167996613/4046ca9ee750adda6922c39caf0850ca.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-9-2025-858>
+
+---
+
+## The Festschrift For Cliff Lynch
+
+date: 2025-07-10, from: David Rosenthal's blog
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdb28_q2hDv-a7UJrPzkPRlNDL6fKUB34aBErhWw_kGCOg-xIPABBwu8n_q7PzcrTBzGlYoAqX_j36IXiu9ll6whxmFNO1_7G2Ag-3crOB5drWhHZixnATgk5-jFQd9VqLvN_fyNaB29U6RBj-iIg-XDNDWeXjp2T4JGFiE2UEzgkrpsjWzZ6AEQrd1Gl6/s750/front_cover.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="750" data-original-width="506" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdb28_q2hDv-a7UJrPzkPRlNDL6fKUB34aBErhWw_kGCOg-xIPABBwu8n_q7PzcrTBzGlYoAqX_j36IXiu9ll6whxmFNO1_7G2Ag-3crOB5drWhHZixnATgk5-jFQd9VqLvN_fyNaB29U6RBj-iIg-XDNDWeXjp2T4JGFiE2UEzgkrpsjWzZ6AEQrd1Gl6/w135-h200/front_cover.jpg" width="135" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://muse.jhu.edu/issue/55108/image/front_cover">Source</a></td></tr></tbody></table>
+The festschrift that includes the edited version of the draft we posted back in April entitled <a href="https://blog.dshr.org/2025/04/cliff-lynchs-festschrift.html"><i>Lots Of Cliff Keeps Stuff Safe</i></a> has been officially published as <a href="https://muse.jhu.edu/issue/55108"><i>Networking Networks: A Festschrift in Honor of Clifford Lynch</i></a>, an open access supplement to <i>portal: Libraries and the Academy 25, no. 3</i>. Joan K. Lippincott writes:<br />
+<blockquote>
+The final CNI membership meeting of Cliff’s tenure, held April 7–8, 2025, in Milwaukee, was to include a surprise presentation of the Festschrift’s table of contents. Though Cliff’s health prevented him from attending in person, he participated virtually and heard readings of excerpts from each contribution. Clifford Lynch passed away shortly after, on April 10, 2025. Authors completed their essays before his passing, and the original text remains unchanged.
+</blockquote>
+Below the fold is a bried snippet of each of the invited contributions and some comments.<br />
+<span><a name='more'></a></span>
+<br />
+The festschrift's contents are:<br />
+<ul>
+<li>Andrew K. Pace and John O’Brien: <a href="https://doi.org/10.1353/pla.2025.a964194"><i>Foreword</i></a>
+<li>Joan K. Lippincott: <a href="https://doi.org/10.1353/pla.2025.a964195"><i>Introduction: The Many Facets of Clifford Lynch</i></a>
+<li>Donald J. Waters: <a href="https://doi.org/10.1353/pla.2025.a964196"><i>CNI as an Idea Factory: An Appreciation of Clifford Lynch</i></a>
+<li>Dan Cohen: <a href="https://doi.org/10.1353/pla.2025.a964197"><i>When Information Is Networked</i></a>
+<li>Kevin M. Guthrie and Roger C. Schonfeld: <a href="https://doi.org/10.1353/pla.2025.a964198"><i>Clifford Lynch: “Conducting” the Infrastructure of Scholarship</i></a>
+<li>Christine L. Borgman: <a href="https://doi.org/10.1353/pla.2025.a964199"><i>Libraries, Digital Libraries, and Data: Forty Years, Four Challenges</i></a>
+<li>Michael K. Buckland: <a href="https://doi.org/10.1353/pla.2025.a964200"><i>Clifford Lynch at Berkeley</i></a>
+<li>Marjory S. Blumenthal: <a href="https://doi.org/10.1353/pla.2025.a964201"><i>A Farsighted Integrator</i></a>
+<li>Judy Ruttenberg: <a href="https://doi.org/10.1353/pla.2025.a964202"><i>Reflections on Research Library Advocacy: Lessons Learned through Collaboration with Cliff Lynch</i></a>
+<li>Herbert Van de Sompel and Michael L. Nelson: <a href="https://doi.org/10.1353/pla.2025.a964203"><i>The Invisible Influencer in Information Infrastructure</i></a>
+<li>Ken Klingenstein: <a href="https://doi.org/10.1353/pla.2025.a964204"><i>An Interview That Ran Long</i></a>
+<li>Howard Besser: <a href="https://doi.org/10.1353/pla.2025.a964205"><i>Stewardship of Digital Images</i></a>
+<li>Victoria Reich and David S. H. Rosenthal: <a href="https://doi.org/10.1353/pla.2025.a964206"><i>Lots of Cliff Keeps Stuff Safe</i></a>
+<li>Diane Goldenberg-Hart: <a href="https://doi.org/10.1353/pla.2025.a964207"><i>Afterword</i></a>
+</ul>
+<a href="https://doi.org/10.1353/pla.2025.a964196">Don Water's contribution</a> provides a comprehensive overview of Cliff's achievements. He stresses the continuity of Cliff's major themes:<br />
+<blockquote>
+In his opening address as executive director at the October membership meeting, Clifford promised to continue many of CNI's ongoing initiatives. However, he urged the membership to recast these activities and add others under three broad themes: (1) developing networked information content; (2) transforming organizations, professions, and individuals; and (3) building technology, standards, and infrastructure. In CNI's program plan, he suggested that these themes captured "the essential foundations of the vision of advancing scholarship and intellectual productivity." In other words, the scholarly work of research and teaching in the emerging networked environment depended on—and would surely collapse if sufficient attention was not given to—key cultural (content) and social (organization and skill) factors as well as the underlying technology.
+</blockquote>
+<a href="https://doi.org/10.1353/pla.2025.a964197">Dan Cohen</a> discusses Cliff's influence on the Google Books project and, more broadly, the impact of access to multiple forms of data online:<br />
+<blockquote>
+ Cliff was saying something radical: networked digital collections transcend the benefits of mere remote access, the ability to read at a distance. They will inevitably lead to utterly new approaches and uses. Books would, of course, continue to serve as a rich narrative form of knowledge. But by becoming digital, books could mingle with other forms of information and data to enable research we had not previously considered or been able to do.<br />
+<br />
+For instance, Cliff noted in his forum talk, the value of quotidian humanities reference works, such as gazetteers and ontologies, would grow enormously in the future as aids to search the large corpora that were coming online. These highly structured works could be fruitfully joined with less structured text, unlocking previously hidden knowledge and enabling new forms of analysis. At the same time, free-form text corpora could generate or supplement new kinds of reference works.
+</blockquote>
+<a href="https://doi.org/10.1353/pla.2025.a964198">Kevin Guthrie and Roger Schonfeld</a> describe how Cliff's focus on infrastructure influenced the development of such important platforms as JSTOR:<br />
+<blockquote>
+He saw long before others that infrastructure would be needed to enable the development of new forms of scholarship, research, and learning at the intersection of technology and education. For example, at his first meeting as CNI executive director in the spring of 1997, he highlighted the need for authorization and authentication infrastructure in his meeting road-map. He wrote that "authentication and authorization is emerging as a central issue, and we need your participation in developing these issues." This technique was characteristic of Clifford's approach; he would highlight an important need and appeal to those in the community to address it.<br />
+...<br />
+Clifford and CNI provided the venue for the development of many of the services that emerged to facilitate access, such as Shibboleth and OpenAthens. Over the course of his long tenure, Clifford and CNI have had similar impact on the development of many components of scholarly communications infrastructure, including model licenses, digital object identifiers, standards for reporting usage data, and institutional repositories, among others. 
+</blockquote>
+<a href="https://doi.org/10.1353/pla.2025.a964199">Christine Borgman</a> describes four areas to which Cliff and CNI made major contributions, but where the fundamental problems remain unsolved:<br />
+<ol>
+<li>The invibility of the infrastructure that supports <a href="https://doi.org/10.1353/pla.2025.a964199">access to information</a>:<br />
+<blockquote>
+A defining characteristic of infrastructure is that it is invisible until it breaks down. Invisibility is a sign of success, in that libraries were serving their communities so effectively that their existence was receding into the background. Invisibility is also a sign of failure, in that the substantial expertise, labor, and resources necessary to provide those services goes unrecognized. In times of shrinking budgets, invisibility is especially dangerous.
+</blockquote></li>
+<li>The loss of libraries position as an intermediary in the <a href="https://doi.org/10.1353/pla.2025.a964199">access pipeline</a>:<br />
+<blockquote>
+Libraries catalog materials they acquire to support the information needs of their communities. They have far less control over how remotely accessed content is organized. Library catalogs increasingly are subsumed under content management systems, and users find their way into many of these resources via search engines external to library control.
+</blockquote></li>
+<li>The lack of funding for preserving and providing <a href="https://doi.org/10.1353/pla.2025.a964199">access to digital collections</a>:<br />
+<blockquote>
+The lack of coherent economic and policy models for preserving and sustaining access to digital collections remains a massive problem for libraries—past, present, and future.
+</blockquote></li>
+<li>Lack of clarity as to the roles of different institutions in the access pipeline <a href="https://doi.org/10.1353/pla.2025.a964199">over time</a>:<br />
+<blockquote>
+Digitization has blurred the boundaries between types of artifacts, such as books, records, and objects, and between institutions. Determining who collects what kinds of content and who sustains access for future generations becomes even more complex when publishers lease access to content, and as research data repositories are hosted by funding agencies or as independent entities.
+</blockquote></li>
+</ol>
+Borgman also discusses the related problem of <a href="https://doi.org/10.1353/pla.2025.a964199">open data</a>:<br />
+<blockquote>
+Making research data FAIR (findable, accessible, interoperable, and reusable) remains complex, laborintensive, and expensive in most disciplines. Making research data sustainable for the long term involves an array of economic, social, institutional, and infrastructural challenges. The lack of sufficient data management workforce comprised of data librarians and archivists is central to these challenges.
+</blockquote>
+<a href="https://doi.org/10.1353/pla.2025.a964200">Michael Buckland</a> describes Cliff's pioneering work at Berkeley on library automation, which was truly ahead of its time:<br />
+<blockquote>
+From 1979 until he moved to CNI in 1997, Clifford was responsible for developing and implementing library infrastructure for the multicampus University of California system, including MELVYL, a highly innovative, user-oriented online replacement for card catalogs and its extension to provide access to medical and other bibliographical resources. To support it and other applications, he and others built an intercampus network that evolved into the university's Internet node.
+</blockquote>
+<a href="https://doi.org/10.1353/pla.2025.a964201">Marjory Blumenthal</a> describes Cliff's contributions to the Computer Science and Telecommunications Board (CSTB) at the National Academies:<br />
+<blockquote>
+Cliff contributed to multiple CSTB activities. He spoke at events, wrote material for CSTB reports, and participated in committee deliberations on such topics as information infrastructure, literacy (both information and information-technology literacy), and intellectual property rights. More often than not, those topics intersected, and Cliff was perceptive in acknowledging and assessing their interactions. This integrative outlook was (and is) a differentiator; so many experts focus on their primary expertise, whether as technologists, social scientists, lawyers, or something else.
+</blockquote>
+<a href="https://doi.org/10.1353/pla.2025.a964202">Judy Ruttenberg</a> covers Cliff's contributions to the Association of Research Libraries:<br />
+<blockquote>
+Many people have remarked over the years that Cliff is wonderful at making sense of the moment and synthesizing information in real time—and he is regularly asked to play that summation role at the end of conferences. What has been more remarkable for me is Cliff's ability to identify early signals and drivers of change across the research, policymaking, and cultural heritage sectors. Cliff specializes in directing our collective attention to significant trends that will affect the impact, stewardship, and trustworthiness of networked scholarly information, and the capacity of institutions to fulfill that mission.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeA_JK6MpWP8QIc5hisz7YvFWXCGoDASJ84jZ1gjhALj6c2C5gJqJHMEWFwQttlEv_LhrooaTf4tUy21R9yxG1y1FjJZY3xEeojN_r7ftWDPRix6r9qxV3s5SBSOypru3gsXH719g=s1181?key=S4wHCg3SNvOCYYuaJLSqrAhp" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1089" data-original-width="1181" height="184" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeA_JK6MpWP8QIc5hisz7YvFWXCGoDASJ84jZ1gjhALj6c2C5gJqJHMEWFwQttlEv_LhrooaTf4tUy21R9yxG1y1FjJZY3xEeojN_r7ftWDPRix6r9qxV3s5SBSOypru3gsXH719g=w200-h184?key=S4wHCg3SNvOCYYuaJLSqrAhp" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://ws-dl.blogspot.com/2025/04/cliff-lynch-invisible-influencer-in.html">UPS prototype</a></td></tr></tbody></table>
+<a href="https://doi.org/10.1353/pla.2025.a964203">Herbert Van de Sompel and Michael L. Nelson</a>'s contribution is a condensed version of their <a href="https://ws-dl.blogspot.com/2025/04/cliff-lynch-invisible-influencer-in.html">blog post</a>. You should definitely read that in preference to the version in the festschrift. Herbert and Michael tell the fascinating story of a 1999 meeting in Santa Fe that featured a demonstration of their prototype Universal Preprint Service, which became influential in the development of <a href="https://en.wikipedia.org/wiki/Open_Archives_Initiative_Protocol_for_Metadata_Harvesting">OAI-PMH</a> and <a href="https://en.wikipedia.org/wiki/OpenURL">OpenURL</a>. The meeting started out badly but ended well thanks to Cliff. Herbert describes a <a href="https://ws-dl.blogspot.com/2025/04/cliff-lynch-invisible-influencer-in.html">typical Cliff intervention</a>:<br />
+<blockquote>
+Prior to the start of the second day, he vented his frustration about the lack of progress to Cliff, who was about to start moderating the first session. Cliff was nice enough to let him ramble on a bit, and, in a manner that exemplified one of Cliff’s many unparalleled capabilities, he went on to open the meeting by providing two discussion topics regarding interoperability that he somehow had been able to synthesize from the first day’s discussions, which most had experienced as enjoyable yet lacking in any sense of concrete direction. One was whether archive functions, such as data collection and maintenance, should be decoupled from user functions, such as search. The other was about the choice between distributed searching across repositories and harvesting from them to build cross-repository search engines.
+</blockquote>
+This is a great example of Cliff's ability to isolate the signal from the noise, amplify it, and persuade the community to focus on it. Most people who have been in discussions with Cliff have a similar story.<br />
+<br />
+<a href="https://doi.org/10.1353/pla.2025.a964204">Ken Klingenstein</a> starts his contribution thus:<br />
+<blockquote>
+In 1986, I was invited to visit the University of California, Berkeley, to review their campus network. One of the numerous people there who needed to be interviewed was a young librarian who was said to have a good sense of the future. My prepared questions were oriented toward the future networking requirements for libraries. The interviewee, Cliff Lynch, took the conversations to several other places, however, including topics of privacy, access control, and security. Our conversation wandered this landscape far longer than the time set aside, leaving the rest of my site visit schedule in shambles. At the end, Cliff and I agreed that we would find some way to continue the "interview." For almost 40 years, we have.
+</blockquote>
+<a href="https://doi.org/10.1353/pla.2025.a964205">Howard Besser</a>'s list of Cliff's contribution to the stewardship of digital images starts by "noting that Cliff is responsible for popularizing the term stewardship to reflect management across the life cycle of a digital work". The first item shows how far ahead of his time Cliff was:<br />
+<blockquote>
+In 1986, the Office of Information Systems and Technology at the University of California, Berkeley began work on a project to deliver high-quality digital images from its art museum, architecture slide library, and geography department. The developers believe that this software (eventually called ImageQuery) was the first deployed multiuser networked digital image database system. The software was first shown publicly in June 1987 at the conferences of the American Association of Museums (now the American Alliance of Museums) and the American Library Association. For most attendees, this was their first time viewing a high-resolution image on a computer screen.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzFXFcPDdeGQNzXvRyfyMZxijCrIVlEBjDDzRF8mVViVxvAJbh5RAVZ7knqYfgm9Shz1dZDw5HAN03YM5RH2vJMXZJL45k2QxzmR0_zXI1q3f-jW68H-LbSTmn-Ko7t5Og9BqJk6Uv-hNqxeFUIOXzevVNJY1CFgHf6mZqfZMEpc_WQn9bW8n5CvzOnVXp/s750/ImageQuery.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="578" data-original-width="750" height="154" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzFXFcPDdeGQNzXvRyfyMZxijCrIVlEBjDDzRF8mVViVxvAJbh5RAVZ7knqYfgm9Shz1dZDw5HAN03YM5RH2vJMXZJL45k2QxzmR0_zXI1q3f-jW68H-LbSTmn-Ko7t5Og9BqJk6Uv-hNqxeFUIOXzevVNJY1CFgHf6mZqfZMEpc_WQn9bW8n5CvzOnVXp/w200-h154/ImageQuery.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://muse.jhu.edu/article/964205/figure/fig01">ImageQuery UI</a></td></tr></tbody></table>
+Note that 1986 was just two years after <a href="https://blog.dshr.org/2024/07/x-window-system-at-40.html">Bob Scheifler's first X Window System release</a>. It was three years before Tim Berners-Lee posted the first Web page. <a href="https://doi.org/10.1353/pla.2025.a964205">Nevertheless</a>:<br />
+<blockquote>
+ImageQuery was an X-Windows-based system with several features that were relatively new for the time: a graphical user interface, point-and-click searching, thumbnail images to permit browsing and sorting, tools for annotation of images, and the linking of images to locations on maps. In addition, ImageQuery was designed for networked accessibility, had client-server features, and permitted Boolean searches.
+</blockquote>
+Vicky's and my contibution is the penultimate one, and again I suugest you read <a href="https://blog.dshr.org/2025/04/cliff-lynchs-festschrift.html"><i>Lost Of Cliff Keeps Stuff Safe</i></a> as the draft we posted back in April.<br />
+<br /> 
+
+<br> 
+
+<https://blog.dshr.org/2025/07/the-festschrift-for-cliff-lynch.html>
+
+---
+
+##  When Moderation Becomes Appeasement. &#8220;Because reactionary centrists do not really have values,... 
+
+date: 2025-07-10, updated: 2025-07-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047127-when-moderation-becomes-a>
+
+---
+
+## Thursday, 10 July, 2025
+
+date: 2025-07-10, from: Doc Searls (at Harvard), New Old Blog
+
+Re-see what you think. Formal education has been stuck inside an industrial paradigm ever since industry won the industrial revolution. Let&#39;s call that Education 2.0. The pre-industrial model was Education 1.0. Digital tech, especially with AI, will bring on Education 3.0. That&#39;s the title of my post yesterday, which is getting more than the normal number [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/10/thursday-10-july-2025/>
+
+---
+
+##  4.6 Billion Years On, the Sun Is Having a Moment. &#8220;Instead of... 
+
+date: 2025-07-10, updated: 2025-07-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047119-46-billion-years-on-the>
 
 ---
 
@@ -391,7 +681,7 @@ date: 2025-07-09, updated: 2025-07-09, from: Jason Kittke's blog
 
 date: 2025-07-09, updated: 2025-07-09, from: Liam Proven's articles at the Register
 
-<h4>Using proof of work to block the web-crawlers of &#39;AI&#39; companies</h4>
+<h4><span class="label">Updated</span> Using proof of work to block the web-crawlers of &#39;AI&#39; companies</h4>
       <p>Anubis is a sort of CAPTCHA test, but flipped: instead of checking visitors are human, it aims to make web crawling prohibitively expensive for companies trying to feed their hungry LLM bots.</p> 
 
 <br> 
@@ -406,7 +696,7 @@ date: 2025-07-09, from: Dave Winer's Scripting News
 
 <p>Earlier I wrote this post:</p>
 <ul>
-<li>The worst thing about Claude and ChatGPT is that you can't get them to work with you the way you want them to. They always run off and <i>do</i> the things I asked about. So if I say "what if the middle column must be at least 600 pixels wide? What I want is literally an answer to the question I asked. It was not an instruction to do it. I've been a CEO, and this infuriates me. I want to understand the limits are, I don't want to impose them. I'm trying to figure out what the cost would be in doing something, again -- not requesting it be done. No matter how many times I tell it not to do this, it just does it. And Claude has absolutely no memory. If I want it to work with me a certain way I have to tell it how to do it every time. I can save it off in a document, but even the simplest automation is impossible. In that sense it is very primitive software. If I were using a spreadsheet for example, I'd have settings that I could change, and unless the software had a bug it would never forget it until I told it otherwise. </li>
+<li>The worst thing about Claude and ChatGPT is that you can't get them to work with you the way you want them to. They always run off and <i>do</i> the things I asked about. So if I say "what if the middle column must be at least 600 pixels wide? What I want is literally an answer to the question I asked. It was not an instruction to do it. I've been a CEO, and this infuriates me. I want to understand the limits, I don't want to impose them. I'm trying to figure out what the cost would be in doing something, again -- not requesting it be done. No matter how many times I tell it not to do this, it just does it. And Claude has absolutely no memory. If I want it to work with me a certain way I have to tell it how to do it every time. I can save it off in a document, but even the simplest automation is impossible. In that sense it is very primitive software. If I were using a spreadsheet for example, I'd have settings that I could change, and unless the software had a bug it would never forget it until I told it otherwise. </li>
 </ul>
 <p>Because it can be so stubborn and uncooperative, I often try to solve complicated problems myself. Then I decided to try again, and brought a problem to ChatGPT and we did eventually figure it out, but at the end I wanted to review how inefficient the process was because it doesn't look all around at the options, I had to do that for it, and it wasn't even aware it needed that kind of help. After exploring this, I asked if it would remember what we concluded, and this is what came back.</p>
 <ul>
@@ -902,7 +1192,7 @@ On reflection… Seen yesterday in a small town in Burgundy. ___________________
 
 ## ★ Jeff Williams, 62, Is Retiring as Apple’s COO
 
-date: 2025-07-08, updated: 2025-07-08, from: Daring Fireball
+date: 2025-07-08, updated: 2025-07-10, from: Daring Fireball
 
 Post-Williams, Apple’s operations will clearly remain under excellent, experienced leadership under Sabih Khan. But the company will be left with its design teams reporting directly to Cook, leaving it less clear whose taste, [ultimately], is steering the work of the company into the future. 
 

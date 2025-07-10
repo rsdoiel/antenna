@@ -1,15 +1,205 @@
 ---
 title: socal north
-updated: 2025-07-10 06:08:34
+updated: 2025-07-10 14:08:04
 ---
 
 # socal north
 
-(date: 2025-07-10 06:08:34)
+(date: 2025-07-10 14:08:04)
 
 ---
 
-## Fewer people on streets, in shelters after getting LA homelessness prevention help
+## New Hampshire judge blocks Trump birthright citizenship order nationwide
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+Preliminary injunction in lawsuit brought by the American Civil Liberties Union and others on behalf of three non-citizen parents. 
+
+<br> 
+
+<https://laist.com/news/politics/new-hampshire-judge-blocks-trump-birthright-citizenship-order-nationwide>
+
+---
+
+## Sepulveda Pass to undergo nightly lane closures along a major stretch of the 405 Freeway
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+Caltrans will post signage along detour routes. 
+
+<br> 
+
+<https://laist.com/news/transportation/sepulveda-pass-nightly-lane-closures-405-freeway>
+
+---
+
+## Elon Musk's AI chatbot, Grok, started calling itself 'MechaHitler'
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+On Sunday, the chatbot was updated to "not shy away from making claims which are politically incorrect, as long as they are well substantiated." By Tuesday, it was praising Hitler. 
+
+<br> 
+
+<https://laist.com/news/elon-musks-ai-chatbot-grok-started-calling-itself-mechahitler>
+
+---
+
+## Medical examiner finds ‘animal activity’ happened after deaths at LA homeless camp
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+Two people who were found dead in a homeless camp in Westlake by a family member who said she saw her mother's dead body being eaten by dogs. The L.A. County Medical Examiner's office determined the two died of an accidental overdose of fentanyl and methamphetamine. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/medical-examiner-la-homeless-camp-overdose>
+
+---
+
+## Applications Now Being Accepted for City’s Planning Commissioner Position
+
+date: 2025-07-10, from: City of Santa Clarita
+
+<p>The City of Santa Clarita encourages interested and qualified residents to apply for an unscheduled vacancy position on the City’s Planning Commission. The unexpired term ends December 31, 2026. The Planning Commission advises the City Council on matters related to development projects, property acquisition, specific plans, zoning and other planning matters. The five-member Planning Commission meets [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/10/applications-now-being-accepted-for-citys-planning-commissioner-position-3/">Applications Now Being Accepted for City&#8217;s Planning Commissioner Position</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/10/applications-now-being-accepted-for-citys-planning-commissioner-position-3/>
+
+---
+
+## Trump’s law reshapes federal loans and Pell Grants, impacting California students
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+The law sunsets a loan program for graduate students and makes short-term workforce training eligible for Pell Grants. 
+
+<br> 
+
+<https://laist.com/news/education/trumps-law-reshapes-federal-loans-and-pell-grants-impacting-california-students>
+
+---
+
+## High bacteria levels prompt warning against going in water at 7 LA County beaches
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+Here’s a list and a map of the affected beaches. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/high-bacteria-levels-warning-la-county-beaches>
+
+---
+
+## Video game performers sign new contract. Here’s what we know about the deal with AI protections
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+The vote ends nearly a yearlong strike for video game performers. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/video-game-performers-sign-new-contract-ai-protections>
+
+---
+
+## Los Angeles fire survivor is told State Farm’s $900K check on hold due to insufficient funds
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+A check from State Farm to a Los Angeles fire survivor has taken more than a week to clear so far. A bank is concerned about insufficient funds. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-fire-survivor-is-told-state-farms-900k-check-on-hold-due-to-insufficient-funds>
+
+---
+
+## The City of Santa Clarita to Pursue Legal Action Against Illegal Sidewalk Vendor for Dozens of Health and Safety Violations
+
+date: 2025-07-10, from: City of Santa Clarita
+
+<p>After exhausting all administrative processes, the City of Santa Clarita has announced its intent to file a lawsuit seeking an injunction against an illegal sidewalk vending operation that has repeatedly violated local permitting and public health regulations. The injunction would require the operators of “Tacos Carmelita” to temporarily cease all operations until they come into [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/10/the-city-of-santa-clarita-to-pursue-legal-action-against-illegal-sidewalk-vendor-for-dozens-of-health-and-safety-violations/">The City of Santa Clarita to Pursue Legal Action Against Illegal Sidewalk Vendor for Dozens of Health and Safety Violations</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/10/the-city-of-santa-clarita-to-pursue-legal-action-against-illegal-sidewalk-vendor-for-dozens-of-health-and-safety-violations/>
+
+---
+
+## Cal Fire rolled out an AI chatbot. Don’t ask it about evacuation orders
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+California pushes AI in government, but the wildfire chatbot falls short. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/cal-fire-rolled-out-an-ai-chatbot-dont-ask-it-about-evacuation-orders>
+
+---
+
+## Best things to do this weekend in LA and SoCal: July 11-13
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+The Tryst Alternative Art Fair takes over Torrance, big comedy names hit the Belly Laughs Festival at the Peacock, celebrate South Korea at the Lotus Fest in Echo Park, clean up the beach with L.A. Waterkeepers and more. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-this-weekend-los-angeles-southern-california-july-11-13>
+
+---
+
+## MacArthur Park to reopen this month after $10.5 million remodel; here’s a sneak peek
+
+date: 2025-07-10, from: Longbeach Post
+
+<figure><img width="1024" height="620" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-1024x620.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-1024x620.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-300x182.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-768x465.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-179x108.jpg 179w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-400x242.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The four-acre Cambodia Town park has been closed since April 2024.</p>
+<p>The post <a href="https://lbpost.com/news/parks/macarthur-park-to-reopen-this-month-after-10-5-million-remodel-heres-a-sneak-peek">MacArthur Park to reopen this month after $10.5 million remodel; here&#8217;s a sneak peek</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/parks/macarthur-park-to-reopen-this-month-after-10-5-million-remodel-heres-a-sneak-peek>
+
+---
+
+## Congress is killing clean energy tax credits. Here’s how to use them before they disappear
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+Just a few weeks remain to tap federal programs that make purchasing an EV, heat pump or solar panels more affordable. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/congress-is-killing-clean-energy-tax-credits-heres-how-to-use-them-before-they-disappear>
+
+---
+
+## State Supreme Court refuses to hear appeal from ex-LBUSD teacher who sexually abused students
+
+date: 2025-07-10, from: Longbeach Post
+
+<figure><img width="1024" height="815" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1024x815.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1024x815.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-300x239.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-768x611.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-136x108.jpg 136w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1536x1222.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1200x955.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1568x1247.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-400x318.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097.jpg 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Mark Santo, who taught at Lindbergh Middle School and Jordan High School, is serving 80 years to life behind bars.</p>
+<p>The post <a href="https://lbpost.com/news/crime/state-supreme-court-refuses-to-hear-appeal-from-ex-lbusd-teacher-who-sexually-abused-students">State Supreme Court refuses to hear appeal from ex-LBUSD teacher who sexually abused students</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/state-supreme-court-refuses-to-hear-appeal-from-ex-lbusd-teacher-who-sexually-abused-students>
+
+---
+
+## Fewer people on streets, in shelters after getting LA County homelessness prevention help
 
 date: 2025-07-10, updated: 2025-07-10, from: The LAist
 
@@ -109,7 +299,7 @@ The diocese is the first in the nation to issue a special dispensation because o
 
 date: 2025-07-09, from: Longbeach Post
 
-<figure><img width="1024" height="614" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-1024x614.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-1024x614.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-300x180.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-768x461.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-180x108.jpg 180w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-1200x720.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-400x240.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="614" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-1024x614.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-1024x614.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-300x180.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-768x461.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-180x108.jpg 180w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-1200x720.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic-400x240.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/20160012/0905-lbcc-6-1320x792-416684-dx4h7yny-561708-ew1gMBic.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A settlement agreement with the college includes nearly a year of paid leave and six months severance for longtime coach Brett Peabody.</p>
 <p>The post <a href="https://lbpost.com/news/education/aaron-rupar-brett-peabody-resign-lbcc-football-coach">LBCC football coach agrees to resign after his message to anti-Trump journalist drew backlash</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -172,7 +362,7 @@ Read about the origin of Tennis and its evolution into one of the world's most p
 
 date: 2025-07-09, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113200/trump-signs-executive-order-2-463113-i4r9c7ep-819912-MtJBsIo4-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The lawsuit alleges California’s transgender athlete policies violate Title IX, the landmark federal civil rights law that prohibits sex-based discrimination in education.</p>
 <p>The post <a href="https://lbpost.com/news/education/trump-administration-sues-california-in-policy-battle-over-transgender-athletes">Trump administration sues California in policy battle over transgender athletes</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

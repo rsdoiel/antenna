@@ -1,19 +1,259 @@
 ---
 title: science and technology
-updated: 2025-07-10 06:08:36
+updated: 2025-07-10 14:08:06
 ---
 
 # science and technology
 
-(date: 2025-07-10 06:08:36)
+(date: 2025-07-10 14:08:06)
 
 ---
 
-## Former reality TV star appointed NASA Interim Administrator
+## Thousands of NASA senior staffers expected to quit after budget slashed
 
 date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
 
-<h4>Can Sean Duffy embrace the challenge?</h4> <p>NASA has a new interim Administrator. US President Donald Trump has announced that former reality TV star and current Transportation Secretary Sean Duffy will be taking on the role.…</p> 
+<h4>It could have the same headcount as 1960 by the end of the month</h4> <p>NASA senior staff are being offered the opportunity to leave voluntarily before the axes start swinging, and it seems likely that thousands will take the escape hatch.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/nasa_staff_layoffs/>
+
+---
+
+## Pixel Android gets a rolling release canary channel
+
+date: 2025-07-10, from: OS News
+
+To better support you and provide earlier, more consistent access to in-development features, we are announcing a significant evolution in our pre-release program. Moving forward, the Android platform will have a Canary release channel, which will replace the previous developer preview program. This Canary release channel will function alongside the existing beta program. This change is designed to provide a more streamlined and continuous opportunity for you to try out new platform capabilities and provide feedback throughout the entire year, not just in the early months of a new release cycle. ↫ Dan Galpin on the Android Developers Blog This new Canary channel is intended for developers, and you can expect a ton of bugs and breaking changes. Updates are basically streamed continuously over the air, but not all changes will make it to a final release of Android (as in, they can be pulled definitively). You can join the new channel with any supported Pixel device, but going back to a beta or final release will require a full wipe. 
+
+<br> 
+
+<https://www.osnews.com/story/142749/pixel-android-gets-a-rolling-release-canary-channel/>
+
+---
+
+## NASA Selects Instruments for Artemis Lunar Terrain Vehicle
+
+date: 2025-07-10, from: NASA breaking news
+
+NASA has selected three instruments to travel to the Moon, with two planned for integration onto an LTV (Lunar Terrain Vehicle) and one for a future orbital opportunity. The LTV is part of NASA’s efforts to explore the lunar surface as part of the Artemis campaign and is the first crew-driven vehicle to operate on [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-selects-instruments-for-artemis-lunar-terrain-vehicle/>
+
+---
+
+## Ex-ASML engineer who stole chip tech for Russia gets three years in Dutch prison
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>&#39;Whether those files were allowed to go to Russia? I didn&#39;t ask&#39;</h4> <p>A former ASML and NXP semiconductor engineer will spend three years in a Dutch prison after stealing secret chip technology from his employers and sharing it with Russia.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/exasml_engineer_dutch_prison/>
+
+---
+
+## NASA’s James Webb Space Telescope Inspects Cat’s Paw
+
+date: 2025-07-10, from: NASA breaking news
+
+NASA’s James Webb Space Telescope team released this image of the Cat’s Paw Nebula on July 10, 2025, in honor of the telescope’s third anniversary. Webb’s NIRCam (Near-Infrared Camera)  revealed never-before-seen structural details and features: Massive young stars carve away at nearby gas and dust, while their bright starlight produces a bright nebulous glow represented in [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-inspects-cats-paw/>
+
+---
+
+## IBM moves scientists out of Almaden Research Center
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>Company mum on whether the site will be shuttered</h4> <p>IBM, which employees say stands for &#34;I&#39;ve Been Moved&#34; due to frequent relocation directives, is moving research scientists from its Almaden Research Center in San Jose, California, to its Silicon Valley Lab a few miles east.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/ibm_almaden_research_center/>
+
+---
+
+## EU tries to explain how to do AI without breaking the law
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>A new code aims to make it easy to figure out</h4> <p>The EU has a new set of AI regulations poised to take effect soon. While debate over them continues, Brussels has put out a handy guidebook to help companies make sense of what they can and cannot do. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/eu_ai_code_of_practice/>
+
+---
+
+## NASA to Brief Media on New Mission to Study Earth’s Magnetic Shield
+
+date: 2025-07-10, from: NASA breaking news
+
+NASA will hold a media teleconference at 11 a.m. EDT on Thursday, July 17, to share information about the agency’s upcoming Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites, or TRACERS, mission, which is targeted to launch no earlier than late July. The TRACERS mission is a pair of twin satellites that will study how Earth’s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-to-brief-media-on-new-mission-to-study-earths-magnetic-shield/>
+
+---
+
+## Slow down on building power plants for all those new AI datacenters, report warns
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>Projections are likely exaggerated, a new analysis from an environmental group says</h4> <p>Datacenters are slurping ever more energy to meet the growing demands of AI, but some estimates of future demand imply an increase in hardware that would be beyond the capacity of global chipmakers to supply, according to an environmental nonprofit.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/us_datacenter_growth/>
+
+---
+
+## NASA’s Parker Solar Probe Snaps Closest-Ever Images to Sun
+
+date: 2025-07-10, from: NASA breaking news
+
+KEY POINTS On its record-breaking pass by the Sun late last year, NASA’s Parker Solar Probe captured stunning new images from within the Sun’s atmosphere. These newly released images — taken closer to the Sun than we’ve ever been before — are helping scientists better understand the Sun’s influence across the solar system, including events […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/nasas-parker-solar-probe-snaps-closest-ever-images-to-sun/>
+
+---
+
+## Please don't cut funds for space traffic control, industry begs Congress
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>TraCSS is like an FAA for space, and it&#39;s slated for the chopping block</h4> <p>Space industry bigwigs have sent letters to Congressional leaders urging them not to eliminate funding for preventing space collisions, as requested in a budget proposal for FY 2026. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/space_traffic_control_congress/>
+
+---
+
+## Red Hat sweetens the RHEL deal for biz devs – just don't put it in prod
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>Up to 25 instances for free, but only to play with</h4> <p>IBM&#39;s Linux subsidiary is offering a new way to get RHEL without paying, now with up to 25 instances.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/rhel_business_developers/>
+
+---
+
+## Meet Mineral Mappers Flying NASA Tech Out West
+
+date: 2025-07-10, from: NASA breaking news
+
+NASA and the U.S. Geological Survey have been mapping the planets since Apollo. One team is searching closer to home for minerals critical to national security and the economy. If not for the Joshua trees, the tan hills of Cuprite, Nevada, would resemble Mars. Scalded and chemically altered by water from deep underground, the rocks [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/science-research/earth-science/meet-mineral-mappers-flying-nasa-tech-out-west/>
+
+---
+
+## Firebase Studio's new Agent Mode wants to code so you don't have to
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>Gemini CLI integration is nice, but there&#39;s little polish in building apps from prompts</h4> <p>Google today unveiled updates to Firebase Studio at its Cloud Summit event in London, adding Gemini command-line interface (CLI) integration, initial Model Context Protocol (MCP) support, and &#34;Agent Mode.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/google_firebase_ai_updates/>
+
+---
+
+## Russia, hotbed of cybercrime, says nyet to ethical hacking bill
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>Politicians uneasy over potential impact on national security, local reports say</h4> <p>Russia, home to some of the world&#39;s most lucrative and damaging cybercrime operations, has rejected a bill to legalize ethical hacking.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/russia_ethical_hacking_bill/>
+
+---
+
+## Trump tariffs turn techies topsy-turvy as US braces for PC tax
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>Shipments in America flat, surge across ROTW ahead of Win 10 support cutoff</h4> <p>Tariff uncertainty caused by US President Donald Trump still hangs over the PC industry despite manufacturers navigating a &#34;complex regulatory maze&#34; to avoid being in the firing line over import taxes when the shooting begins.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/tariffs_deadline_us_pc_effects/>
+
+---
+
+## NASA’s Roman Space Telescope Team Installs Observatory’s Solar Panels
+
+date: 2025-07-10, from: NASA breaking news
+
+On June 14 and 16, technicians installed solar panels onto NASA’s Nancy Grace Roman Space Telescope, one of the final steps in assembling the observatory. Collectively called the Solar Array Sun Shield, these panels will power and shade the observatory, enabling all the mission’s observations and helping keep the instruments cool. “At this point, the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-team-installs-observatorys-solar-panels/>
+
+---
+
+## NASA’s Webb Scratches Beyond Surface of Cat’s Paw for 3rd Anniversary
+
+date: 2025-07-10, from: NASA breaking news
+
+It’s the cat’s meow! To celebrate its third year of revealing stunning scenes of the cosmos in infrared light, NASA’s James Webb Space Telescope has “clawed” back the thick, dusty layers of a section within the Cat’s Paw Nebula (NGC 6334). Focusing Webb’s NIRCam (Near-Infrared Camera) on a single “toe bean” within this active star-forming […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/webb/nasas-webb-scratches-beyond-surface-of-cats-paw-for-3rd-anniversary/>
+
+---
+
+## How Can Regional Models Advance Climate Science?
+
+date: 2025-07-10, from: Quanta Magazine
+
+Elfatih Eltahir explains why we need more local and social data, like disease spread and population growth, to better predict and address climate-related challenges.            <p>The post <a href="https://www.quantamagazine.org/how-can-regional-models-advance-climate-science-20250710/" target="_blank">How Can Regional Models Advance Climate Science?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-can-regional-models-advance-climate-science-20250710/>
+
+---
+
+## Microsoft says regulations and environmental issues are cramping its Euro expansion
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>&#39;I don&#39;t think there&#39;s a spare megawatt sitting anywhere idle in all of Europe, or the US, as a matter of fact&#39;</h4> <p>Microsoft intends to more than double its European datacenter capacity by 2027, but suspects this won&#39;t be easy because of all the red tape and environmental safeguards it faces.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/microsoft_says_regulations_and_environmental/>
+
+---
+
+## Former reality TV star appointed NASA interim administrator
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>Can Sean Duffy embrace the challenge?</h4> <p>NASA has a new interim administrator. US President Donald Trump has announced that former reality TV star and current Transportation Secretary Sean Duffy will be taking on the role.…</p> 
 
 <br> 
 
@@ -25,7 +265,7 @@ date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
 
 date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
 
-<h4>Crimefighting agency cagey on details, probes into intrusions at M&amp;S, Harrods, and Co-op continue</h4> <p>The UK&#39;s National Crime Agency (NCA) arrested four individuals suspected of being involved with the big three cyberattacks on UK retail businesses in recent weeks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Crimefighting agency cagey on details, probes into intrusions at M&amp;S, Harrods, and Co-op continue</h4> <p>The UK&#39;s National Crime Agency (NCA) arrested four individuals suspected of being involved in the big three cyberattacks on UK retail businesses in recent weeks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -323,9 +563,9 @@ date: 2025-07-09, updated: 2025-07-09, from: The Register (UK I.T. News)
 
 ## Anubis guards gates against hordes of LLM bot crawlers
 
-date: 2025-07-09, updated: 2025-07-09, from: The Register (UK I.T. News)
+date: 2025-07-09, updated: 2025-07-10, from: The Register (UK I.T. News)
 
-<h4>Using proof of work to block the web-crawlers of &#39;AI&#39; companies</h4> <p>Anubis is a sort of CAPTCHA test, but flipped: instead of checking visitors are human, it aims to make web crawling prohibitively expensive for companies trying to feed their hungry LLM bots.…</p> 
+<h4>Using proof of work to block the web-crawlers of &#39;AI&#39; companies</h4> <p><strong>Updated</strong>  Anubis is a sort of CAPTCHA test, but flipped: instead of checking visitors are human, it aims to make web crawling prohibitively expensive for companies trying to feed their hungry LLM bots.…</p> 
 
 <br> 
 
@@ -599,9 +839,9 @@ Written by Eleanor Moreland, Ph.D. Student Collaborator at Rice University For t
 
 ## Massive browser hijacking campaign infects 2.3M Chrome, Edge users
 
-date: 2025-07-08, updated: 2025-07-08, from: The Register (UK I.T. News)
+date: 2025-07-08, updated: 2025-07-10, from: The Register (UK I.T. News)
 
-<h4>These extensions weren&#39;t malware-laced from the start, researcher says</h4> <p>A Chrome and Edge extension with more than 100,000 downloads that displays Google&#39;s verified badge does what it purports to do: It delivers a color picker to users. Unfortunately, it also hijacks every browser session, tracks activities across websites, and backdoors victims&#39; web browsers, according to Koi Security researchers.…</p> 
+<h4>These extensions weren&#39;t malware-laced from the start, researcher says</h4> <p><strong>updated</strong>  A Chrome and Edge extension with more than 100,000 downloads that displays Google&#39;s verified badge does what it purports to do: It delivers a color picker to users. Unfortunately, it also hijacks every browser session, tracks activities across websites, and backdoors victims&#39; web browsers, according to Koi Security researchers.…</p> 
 
 <br> 
 

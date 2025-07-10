@@ -1,11 +1,133 @@
 ---
 title: food
-updated: 2025-07-10 06:08:42
+updated: 2025-07-10 14:08:13
 ---
 
 # food
 
-(date: 2025-07-10 06:08:42)
+(date: 2025-07-10 14:08:13)
+
+---
+
+## Best Prime Day Deals For a Thriving Kitchen Garden
+
+date: 2025-07-10, from: Bon Appetet
+
+Green thumb or no, you can get growing. 
+
+<br> 
+
+<https://www.bonappetit.com/story/prime-day-gardening-deals>
+
+---
+
+## The Best Crops to Plant in July
+
+date: 2025-07-10, from: Bon Appetet
+
+There’s still time to get down in the dirt and grow something delicious. 
+
+<br> 
+
+<https://www.bonappetit.com/story/midsummer-gardening-guide>
+
+---
+
+## Zucchini Fries With Herby Yogurt Dip
+
+date: 2025-07-10, from: Bon Appetet
+
+Whether you want them air-fried, baked, or classic, these Parmesan-crusted wedges satisfy. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/zucchini-fries>
+
+---
+
+## The Best Prime Day Knife Deals  Worth Shopping For
+
+date: 2025-07-10, from: Bon Appetet
+
+These are the best knife deals to slice into before Prime Day ends. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-prime-day-knife-deals-2025-07-10>
+
+---
+
+## The Best Prime Day Cookbook Deals According to BA Staffers (2025)
+
+date: 2025-07-10, from: Bon Appetet
+
+The time's now to stock up on gifts or add to your own collection. 
+
+<br> 
+
+<https://www.bonappetit.com/story/prime-day-cookbook-deals>
+
+---
+
+## It’s Thyme to Get Cozy! You Can Now Buy Lenox Spice Village Pajamas
+
+date: 2025-07-10, from: Taste of Home
+
+<p>Act fast: They're selling out just as fast as the coveted spice houses!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/lenox-spice-village-pajamas/">It&#8217;s Thyme to Get Cozy! You Can Now Buy Lenox Spice Village Pajamas</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/lenox-spice-village-pajamas/>
+
+---
+
+## The Best Prime Day KitchenAid Stand Mixer Deals Up to $150 off
+
+date: 2025-07-10, from: Bon Appetet
+
+That hefty price tag has come down enough that we think now's the time to buy. 
+
+<br> 
+
+<https://www.bonappetit.com/story/prime-day-kitchenaid-deals-2025-07-10>
+
+---
+
+## Trump’s 50% Tariff on Brazilian Goods Could Make US Coffee Prices Soar
+
+date: 2025-07-10, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-Brazil-coffee-620x465.jpg" class="attachment-large size-large wp-post-image" alt="shipping containers Brazil coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-Brazil-coffee-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-Brazil-coffee-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-Brazil-coffee-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-Brazil-coffee-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-Brazil-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; United States President Donald Trump yesterday announced a sweeping 50% tariff on all Brazilian imports, up from the 10% tariff initially introduced in April.&#160; Beyond the sordid political context... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/10/trumps-50-tariff-on-brazilian-goods-could-make-us-coffee-prices-soar/>
+
+---
+
+## 60+ Best Prime Day Kitchen Sales Actually Worth Your Money (2025)
+
+date: 2025-07-10, from: Bon Appetet
+
+Shop deals from Le Creuset, Breville, KitchenAid, Vitamix, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/amazon-prime-day-kitchen-deals-2025-07-10>
+
+---
+
+## Build-Outs Of Coffee: Karol Coffee Co. In Saint Paul, MN
+
+date: 2025-07-10, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Karol Coffee Co. in Saint Paul, Minnesota. 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-karol-coffee-co-in-saint-paul-mn-347602.html>
 
 ---
 
@@ -13,7 +135,7 @@ updated: 2025-07-10 06:08:42
 
 date: 2025-07-10, from: Daily Coffee News
 
-<div><img width="620" height="398" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-620x398.jpeg" class="attachment-large size-large wp-post-image" alt="La Prima Espresso 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-620x398.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-300x193.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-150x96.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-768x493.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Longstanding Pittsburgh, Pennsylvania-based coffee company La Prima Espresso just opened its fifth cafe, returning to a neighborhood it last served more than 20 years ago. The new cafe in... 
+<div><img width="620" height="398" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-620x398.jpeg" class="attachment-large size-large wp-post-image" alt="La Prima Espresso 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-620x398.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-300x193.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-150x96.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-768x493.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Longstanding Pittsburgh, Pennsylvania-based coffee company La Prima Espresso just opened its fifth cafe, returning to a neighborhood it last served more than 20 years ago. The new cafe in Pittsburgh&#8217;s... 
 
 <br> 
 
@@ -175,7 +297,7 @@ date: 2025-07-09, from: Daily Coffee News
 
 date: 2025-07-09, from: Daily Coffee News
 
-<div><img width="620" height="426" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Rod-Johnson-1-620x426.jpg" class="attachment-large size-large wp-post-image" alt="Rod Johnson" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Rod-Johnson-1-620x426.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Rod-Johnson-1-300x206.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Rod-Johnson-1-150x103.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Rod-Johnson-1-768x527.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Rod-Johnson-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The concept of community has always been at the heart of BLK &#38; Bold, the Des Moines, Iowa-based coffee roasting and beverage company founded by Pernell Cezar and Rod... 
+<div><img width="620" height="426" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Rod-Johnson-1-620x426.jpg" class="attachment-large size-large wp-post-image" alt="Rod Johnson" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Rod-Johnson-1-620x426.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Rod-Johnson-1-300x206.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Rod-Johnson-1-150x103.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Rod-Johnson-1-768x527.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Rod-Johnson-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; The concept of community has always been at the heart of BLK &#38; Bold, the Des Moines, Iowa-based coffee roasting and beverage company founded by Pernell Cezar and Rod... 
 
 <br> 
 

@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-07-10 06:08:40
+updated: 2025-07-10 14:08:11
 ---
 
 # motorcycles
 
-(date: 2025-07-10 06:08:40)
+(date: 2025-07-10 14:08:11)
+
+---
+
+## Now’s Your Chance To Own a Michael Schumacher’s Race Bike, Price Is Suspiciously Fair
+
+date: 2025-07-10, from: Ride Apart, Electric Motorcycle News
+
+Am I wrong, or is it hard to argue with the price? 
+
+<br> 
+
+<https://www.rideapart.com/news/765051/michael-schumacher-race-motorcycle-auction/>
 
 ---
 

@@ -1,11 +1,145 @@
 ---
 title: north america
-updated: 2025-07-10 06:08:34
+updated: 2025-07-10 14:08:03
 ---
 
 # north america
 
-(date: 2025-07-10 06:08:34)
+(date: 2025-07-10 14:08:03)
+
+---
+
+## Down the rabbit hole
+
+date: 2025-07-10, from: The Contrarian
+
+A cartoon by RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/down-the-rabbit-hole>
+
+---
+
+## What the attacks on Mamdani reveal about us
+
+date: 2025-07-10, from: The Contrarian
+
+The status quo isn&#8217;t working for the majority of New Yorkers in the same way it isn&#8217;t working for the majority of Americans. Shouldn't Democrats rally around someone pledging to fix it? 
+
+<br> 
+
+<https://contrarian.substack.com/p/what-the-attacks-on-mamdani-reveal>
+
+---
+
+## Pain, lies and propaganda in the Trump era
+
+date: 2025-07-10, from: The Contrarian
+
+Last week was a very, very bad week for many Americans. 
+
+<br> 
+
+<https://contrarian.substack.com/p/pain-lies-and-propaganda-in-the-trump>
+
+---
+
+##  Is America Prepared For The Next Big Flood? 
+
+date: 2025-07-10, from: The Lever News
+
+ As flood risks rise, the government has failed to fully fund a monitoring system that could help prevent disasters like the one last week in Kerr County, Texas.  
+
+<br> 
+
+<https://www.levernews.com/is-america-prepared-for-the-next-big-flood/>
+
+---
+
+## Black America can't afford to wait as Trump's budget wrecks our communities
+
+date: 2025-07-10, from: The Contrarian
+
+Change might come with the next election, but the doors are closing for us now. 
+
+<br> 
+
+<https://contrarian.substack.com/p/black-america-cant-afford-to-wait>
+
+---
+
+## Will Covered California Land on Life Support?
+
+date: 2025-07-10, from: Capital and Main
+
+<p>Catastrophic federal cuts loom on the Golden State’s health care horizon.</p>
+<p>The post <a href="https://capitalandmain.com/will-covered-california-land-on-life-support">Will Covered California Land on Life Support?</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/will-covered-california-land-on-life-support>
+
+---
+
+##  Chemical Industry Laments Deregulatory Win It Fought For 
+
+date: 2025-07-10, from: The Lever News
+
+ As Trump shutters the country’s chemical accident review agency, chemical lobbyists offer tepid pushback and loads of payola.  
+
+<br> 
+
+<https://www.levernews.com/the-chemical-industry-laments-deregulatory-win-it-fought-for/>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-07-10, from: The Contrarian
+
+Thursday: Protests in Mississippi and California, Tesla Takedowns everywhere, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## The GOP's lies and delusions
+
+date: 2025-07-10, from: The Contrarian
+
+The president and the Republican Party have demonstrated that if you are not a wealthy American, the government will not help you. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-gops-lies-and-delusions>
+
+---
+
+## Most of the media’s ‘deficit hawks’ don’t exist
+
+date: 2025-07-10, from: The Contrarian
+
+By playing along with the charade, big news organizations help the GOP. 
+
+<br> 
+
+<https://contrarian.substack.com/p/most-of-the-medias-deficit-hawks>
+
+---
+
+## Coffee with Contrarians 07/10
+
+date: 2025-07-10, from: The Contrarian
+
+A recording from Coffee with Contrarians LIVE 07/10 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-contrarians-0710>
 
 ---
 
@@ -107,18 +241,6 @@ This isn't just about one election; Americans have been voting against their own
 
 ---
 
-## The Contrarian covers the Democracy Movement
-
-date: 2025-07-09, from: The Contrarian
-
-Wednesday: Scientists protest on Capitol Hill, plus protests in Boston, Charlottesville, and the Atlanta suburbs, planning for July 17, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
-
----
-
 ## Help is here!
 
 date: 2025-07-09, from: The Contrarian
@@ -197,7 +319,7 @@ The gap in access is only going to stretch further and affect more of us in the 
 
 date: 2025-07-09, from: The Contrarian
 
-A recording from Coffee with Contrarians LIVE 07/08 
+A recording from Coffee with Contrarians LIVE 07/09 
 
 <br> 
 
