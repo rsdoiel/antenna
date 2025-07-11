@@ -1,23 +1,127 @@
 ---
 title: socal north
-updated: 2025-07-11 06:08:28
+updated: 2025-07-11 14:07:35
 ---
 
 # socal north
 
-(date: 2025-07-11 06:08:28)
+(date: 2025-07-11 14:07:35)
 
 ---
 
-## Why PAC-MAN is back in Irvine, with a new adventure and a brand new game
+## Upcoming changes to CalFresh will hit Latinos hardest
 
 date: 2025-07-11, updated: 2025-07-11, from: The LAist
 
-Irvine is the home base for PAC-MAN, and a new exhibit offers an opportunity to brush up on your ghost-gobbling skills in anticipation for the newest game release. 
+California has the largest number of federal food aid recipients of any state in the nation. 
 
 <br> 
 
-<https://laist.com/news/los-angeles-activities/pac-man-at-the-great-park-irvine-shadow-labyrinth>
+<https://laist.com/news/upcoming-changes-to-calfresh-will-hit-latinos-hardest>
+
+---
+
+## Los Angeles police cannot detain or fire weapons at journalists covering protests, judge rules
+
+date: 2025-07-11, updated: 2025-07-11, from: The LAist
+
+The restraining order comes after press groups filed a lawsuit alleging the use of force violated the rights of journalists. 
+
+<br> 
+
+<https://laist.com/news/politics/los-angeles-police-cannot-detain-or-fire-weapons-at-journalists-covering-protests-judge-rules>
+
+---
+
+## California, epicenter of the nation’s housing crisis, is finally getting a housing agency
+
+date: 2025-07-11, updated: 2025-07-11, from: The LAist
+
+Aside from giving housing and homelessness its own box atop Gov. Gavin Newsom’s organizational chart, the reorg is supposed to simplify the state’s snarled affordable housing financing system. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/california-epicenter-of-nations-housing-crisis-is-finally-getting-a-housing-agency>
+
+---
+
+## Enjoy Concerts in the Park with Convenient Transportation Options
+
+date: 2025-07-11, from: City of Santa Clarita
+
+<p>Santa Clarita Offers Multiple Ways to Get to Central Park for Free Summer Concerts The City of Santa Clarita&#8217;s Concerts in the Park series, presented by Logix Federal Credit Union, at Central Park (27150 Bouquet Canyon Road) every Saturday evening from July 12 through August 30, is back for its 35th year! Residents are encouraged [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/11/enjoy-concerts-in-the-park-with-convenient-transportation-options/">Enjoy Concerts in the Park with Convenient Transportation Options</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/11/enjoy-concerts-in-the-park-with-convenient-transportation-options/>
+
+---
+
+## Hearing scheduled on Long Beach water, sewer rate increases
+
+date: 2025-07-11, from: Longbeach Post
+
+<figure><img width="1024" height="787" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826.jpg 1714w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-300x231.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1024x787.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-768x591.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-140x108.jpg 140w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1536x1181.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1200x923.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1568x1206.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-400x308.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A Proposition 218 public hearing on Aug. 27 will allow residents to contest a string of expected price hikes to water and sewer rates that will otherwise take effect later this year. </p>
+<p>The post <a href="https://lbpost.com/news/city/hearing-scheduled-on-long-beach-water-sewer-rate-increases">Hearing scheduled on Long Beach water, sewer rate increases</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/hearing-scheduled-on-long-beach-water-sewer-rate-increases>
+
+---
+
+## What Trump's One Big Beautiful Bill Act means for taxes on Social Security
+
+date: 2025-07-11, updated: 2025-07-11, from: The LAist
+
+Many Americans received an email from the Social Security Administration applauding the megabill's passage. Experts say it was misleading. 
+
+<br> 
+
+<https://laist.com/news/what-trumps-one-big-beautiful-bill-act-means-for-taxes-social-security>
+
+---
+
+## How much will Long Beach push back on ICE raids? There’s ‘no playbook for this,’ mayor says
+
+date: 2025-07-11, from: Longbeach Post
+
+<figure><img width="1024" height="553" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-1024x553.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-1024x553.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-300x162.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-768x415.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-400x216.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Local leaders are weighing whether to join other cities in a lawsuit seeking to block immigration operations they say are unconstitutional.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/long-beach-ice-raids-push-back-lawsuit-mayor">How much will Long Beach push back on ICE raids? There’s &#8216;no playbook for this,&#8217; mayor says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/long-beach-ice-raids-push-back-lawsuit-mayor>
+
+---
+
+## Trump’s FEMA proposals and feud with Gavin Newsom could devastate California’s disaster response
+
+date: 2025-07-11, updated: 2025-07-11, from: The LAist
+
+Changes to FEMA could cost the state billions as climate-driven disasters intensify. 
+
+<br> 
+
+<https://laist.com/news/politics/trumps-fema-proposals-and-feud-with-gavin-newsom-could-devastate-californias-disaster-response>
+
+---
+
+## Cooler weather this weekend for SoCal
+
+date: 2025-07-11, updated: 2025-07-11, from: The LAist
+
+We're going to see between 5 and 10 degrees of cooling in SoCal this weekend. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/cooler-weather-this-weekend-for-socal>
 
 ---
 
@@ -45,7 +149,7 @@ Before L.A. had Del Rey, it was the short-lived Barnes City, home of a traveling
 
 ---
 
-## Altadena thrift store reopens after Eaton Fire: "It’s a bit of hope, a bit of normal"
+## Altadena thrift store reopens after Eaton Fire: 'It’s a bit of hope, a bit of normal'
 
 date: 2025-07-11, updated: 2025-07-11, from: The LAist
 
@@ -61,11 +165,23 @@ Full Circle Thrift, a nonprofit thrift store in Altadena, reopened this week, si
 
 date: 2025-07-11, updated: 2025-07-11, from: The LAist
 
-With the growing awareness of the dangers of spiked drinks, both businesses and customers say they're generally supportive of the law. 
+Both businesses and customers say they're generally supportive of the law. 
 
 <br> 
 
 <https://laist.com/news/food/drink-lids-bars-california-law>
+
+---
+
+## Why PAC-MAN is back in Irvine, with a new adventure and a brand new game
+
+date: 2025-07-11, updated: 2025-07-11, from: The LAist
+
+Irvine is the home base for PAC-MAN, and a new exhibit offers an opportunity to brush up on your ghost-gobbling skills in anticipation for the newest game release. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/pac-man-at-the-great-park-irvine-shadow-labyrinth>
 
 ---
 
@@ -81,7 +197,7 @@ Miến gà, a chicken and glass noodle soup, is comfort in a bowl for many in th
 
 ---
 
-## Watch: Advice on rebuilding after fires — from people who've lived it
+## Advice on rebuilding after fires — from people who've lived it
 
 date: 2025-07-11, updated: 2025-07-11, from: The LAist
 
@@ -121,7 +237,7 @@ Caltrain poked fun at L.A.'s car-centric reputation. Metro clapped back with the
 
 date: 2025-07-10, from: Longbeach Post
 
-<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Authorities said the string of crimes took place between April 4 and July 1.</p>
 <p>The post <a href="https://lbpost.com/news/man-charged-with-raping-61-year-old-woman-in-long-beach-attacking-two-other-victims">Man charged with raping 61-year-old woman in Long Beach, attacking two other victims</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -322,7 +438,7 @@ The Tryst Alternative Art Fair takes over Torrance, big comedy names hit the Bel
 
 date: 2025-07-10, from: Longbeach Post
 
-<figure><img width="1024" height="620" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-1024x620.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-1024x620.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-300x182.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-768x465.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-179x108.jpg 179w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-400x242.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="620" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-1024x620.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-1024x620.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-300x182.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-768x465.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-179x108.jpg 179w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-400x242.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The four-acre Cambodia Town park has been closed since April 2024.</p>
 <p>The post <a href="https://lbpost.com/news/parks/macarthur-park-to-reopen-this-month-after-10-5-million-remodel-heres-a-sneak-peek">MacArthur Park to reopen this month after $10.5 million remodel; here&#8217;s a sneak peek</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

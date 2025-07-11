@@ -1,11 +1,127 @@
 ---
 title: food
-updated: 2025-07-11 06:08:37
+updated: 2025-07-11 14:07:45
 ---
 
 # food
 
-(date: 2025-07-11 06:08:37)
+(date: 2025-07-11 14:07:45)
+
+---
+
+## Save Hundreds With the Best Anti-Prime Day Deals from Sur La Table, Cuisinart, and More
+
+date: 2025-07-11, from: Bon Appetet
+
+Amazon’s not the only retailer offering major savings right now. 
+
+<br> 
+
+<https://www.bonappetit.com/story/anti-prime-day-deals-2025-07-11>
+
+---
+
+## I Tried José Andrés’s Microwave Omelet And Say “Yes Chef” to Mayo
+
+date: 2025-07-11, from: Taste of Home
+
+<p>Mayonnaise and eggs? Cooked in the microwave? Yes: This celebrity chef knew what he was doing when he called this "the best fluffy omelet in the history of mankind."</p>
+<p>The post <a href="https://www.tasteofhome.com/article/jose-andres-microwave-omelet/">I Tried José Andrés&#8217;s Microwave Omelet And Say &#8220;Yes Chef&#8221; to Mayo</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/jose-andres-microwave-omelet/>
+
+---
+
+## The Coffee Brewer Of The Future? A Coffee Time Machine? The Cavat Is All This And More (We Think)
+
+date: 2025-07-11, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Cavat is live on Kickstarter now. 
+
+<br> 
+
+<https://sprudge.com/the-coffee-brewer-of-the-future-a-coffee-time-machine-the-cavat-is-all-this-and-more-we-think-375616.html>
+
+---
+
+## Domino’s “Secret Menu” Pizzas Are Here, and I Tried All Three
+
+date: 2025-07-11, from: Taste of Home
+
+<p>These chef-curated combos are the perfect choice for Domino's latest $9.99 any-topping pizza deal. Here's what I thought of each of the pies.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/dominos-pizza-secret-menu/">Domino&#8217;s &#8220;Secret Menu&#8221; Pizzas Are Here, and I Tried All Three</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/dominos-pizza-secret-menu/>
+
+---
+
+## Here’s Why We Only See the Cast of ‘Love Island’ Eating Breakfast
+
+date: 2025-07-11, from: Taste of Home
+
+<p>What's with the lack of lunch and dinner at the villa?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/love-island-breakfast-2025/">Here&#8217;s Why We Only See the Cast of ‘Love Island’ Eating Breakfast</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/love-island-breakfast-2025/>
+
+---
+
+## It's Now or Never for the Best Prime Day Deals Under $25 for Your Kitchen (2025)
+
+date: 2025-07-11, from: Bon Appetet
+
+Kitchen upgrades for less than a dinner out. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-prime-day-deals-under-25-dollars-07-11-2025>
+
+---
+
+## Feeding a Family With Allergies on $105K in Des Moines
+
+date: 2025-07-11, from: Bon Appetet
+
+Gluten, egg, and dairy are off the table, but fast food, cookies, sushi, and pasta are still on the menu. 
+
+<br> 
+
+<https://www.bonappetit.com/story/food-diary-des-moines-105k-salary>
+
+---
+
+## Yes, You Can Shop the Le Creuset Factory to Table Sale Online
+
+date: 2025-07-11, from: Taste of Home
+
+<p>Le Creuset's Factory to Table sale is the best time to score this fancy French cookware at a deep discount. </p>
+<p>The post <a href="https://www.tasteofhome.com/collection/le-creuset-factory-to-table-sale/">Yes, You Can Shop the Le Creuset Factory to Table Sale Online</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/le-creuset-factory-to-table-sale/>
+
+---
+
+## Major New Barista Event Level Up to Debut in Minneapolis This Fall
+
+date: 2025-07-11, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Level-Up-barista-event-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Level Up barista event" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Level-Up-barista-event-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Level-Up-barista-event-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Level-Up-barista-event-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Level-Up-barista-event-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Level-Up-barista-event.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new non-competitive event for baristas called Level Up is coming to Minneapolis this fall, and it happens to feature a sparkling roster of some of the coffee industry&#8217;s most... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/11/major-new-barista-event-level-up-to-debut-in-minneapolis-this-fall/>
 
 ---
 
@@ -13,7 +129,7 @@ updated: 2025-07-11 06:08:37
 
 date: 2025-07-11, from: Daily Coffee News
 
-<div><img width="620" height="423" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/spirit-animal-coffee-tasting-620x423.jpg" class="attachment-large size-large wp-post-image" alt="spirit-animal-coffee-tasting" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/spirit-animal-coffee-tasting-620x423.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/spirit-animal-coffee-tasting-300x205.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/spirit-animal-coffee-tasting-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/spirit-animal-coffee-tasting-768x524.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/spirit-animal-coffee-tasting.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. &#160; Honduras CoE-Winning Coffees Stay Home In a landmark... 
+<div><img width="620" height="423" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/spirit-animal-coffee-tasting-620x423.jpg" class="attachment-large size-large wp-post-image" alt="spirit-animal-coffee-tasting" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/spirit-animal-coffee-tasting-620x423.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/spirit-animal-coffee-tasting-300x205.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/spirit-animal-coffee-tasting-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/spirit-animal-coffee-tasting-768x524.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/spirit-animal-coffee-tasting.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. &#160; Honduras CoE-Winning Coffees Stay Home In a landmark... 
 
 <br> 
 
@@ -261,7 +377,7 @@ date: 2025-07-10, from: The Sprudge
 
 date: 2025-07-10, from: Daily Coffee News
 
-<div><img width="620" height="398" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-620x398.jpeg" class="attachment-large size-large wp-post-image" alt="La Prima Espresso 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-620x398.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-300x193.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-150x96.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-768x493.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Longstanding Pittsburgh, Pennsylvania-based coffee company La Prima Espresso just opened its fifth cafe, returning to a neighborhood it last served more than 20 years ago. The new cafe in Pittsburgh&#8217;s... 
+<div><img width="620" height="398" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-620x398.jpeg" class="attachment-large size-large wp-post-image" alt="La Prima Espresso 2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-620x398.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-300x193.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-150x96.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1-768x493.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/La-Prima-Espresso-2-1.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Longstanding Pittsburgh, Pennsylvania-based coffee company La Prima Espresso just opened its fifth cafe, returning to a neighborhood it last served more than 20 years ago. The new cafe in Pittsburgh&#8217;s... 
 
 <br> 
 

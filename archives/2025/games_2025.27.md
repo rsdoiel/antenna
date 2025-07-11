@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-07-11 06:08:33
+updated: 2025-07-11 14:07:41
 ---
 
 # games
 
-(date: 2025-07-11 06:08:33)
+(date: 2025-07-11 14:07:41)
+
+---
+
+## What Superman’s promise of 300 years of metahumans really means for the new DCU
+
+date: 2025-07-11, updated: 2025-07-11, from: Polygon Website
+
+James Gunn’s Superman avoids rehashing the Man of Steel’s origin story, instead opening with a simple round of on-screen exposition explaining that Kal-El arrived on Earth 30 years ago, and has been known as the most powerful superhero on the planet for the past three years. But the film’s intro also contains another detail that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dc/612368/superman-metahumans-300-year-timeline-reboot>
+
+---
+
+## The Donkey Kong timeline is a mess — can Bananza clean it up?
+
+date: 2025-07-11, updated: 2025-07-11, from: Polygon Website
+
+Donkey Kong Bananza will add even more chaos to the confounding timeline of the Donkey Kong games, which over the past 40-plus years, has been a tangled mess of contradictions and confusion.&#160; But Nintendo’s revelations about Pauline and its coyness about her age —&#160;she’s just 13 years old in this game — plays into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/612647/donkey-kong-timeline-nintendo-games-cranky-pauline>
+
+---
+
+## How to get the Suburbia secret tape in Tony Hawk&#8217;s Pro Skater 3
+
+date: 2025-07-11, updated: 2025-07-11, from: Polygon Website
+
+The peaceful Suburbia map in Tony Hawk&#8217;s Pro Skater 3 hides many secrets and you need to uncover them to get the Suburbia secret tape. Old and new fans can skate around in classic maps like Suburbia in Tony Hawk&#8217;s Pro Skater 3+4. The two titles are receiving the modernizing treatment that the first two [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/612158/thps-tony-hawk-pro-skater-3-suburbia-secret-tape-how-to-get>
+
+---
+
+## All Synergy Bonds and romance candidates in Persona 5 The Phantom X
+
+date: 2025-07-11, updated: 2025-07-11, from: Polygon Website
+
+Social Links and Confidants return in Persona 5: The Phantom X, but they go by a new name: Synergy Bonds. Synergy Bonds are The Phantom X’s take on social stats tied to NPCs that you can unlock once specific criteria are met. While the name is different than elsewhere in the series, long-time fans will [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/persona-5-phantom-x-guides/610797/p5x-romance-synergy-bonds-social-links-confidants>
+
+---
+
+## Three exclusive card reveals for Magic&#8217;s space opera Edge of Eternities
+
+date: 2025-07-11, updated: 2025-07-11, from: Polygon Website
+
+Magic: The Gathering is venturing into a new genre with the science fantasy set Edge of Eternities, a space opera set in a rich world featuring a holy war, the return of the Eldrazi, and spaceships that can travel through the planets of the Sothera system. Wizards of the Coast has been slowly doling out [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/612490/edge-of-eternities-cards-preview-reveals>
+
+---
+
+## All Marvel Rivals season 3 battle pass skins and rewards
+
+date: 2025-07-11, updated: 2025-07-11, from: Polygon Website
+
+Symbiotes and searing flames are the themes for Marvel Rivals&#8216; Season 3 battle pass skins. The likes of Wolverine and Namor get Phoenix-inspired outfits in blazing crimsons and gold, while Groot, Jeff the Land Shark, and Spider-Man embrace their inner villains with looks inspired by Klyntar, the symbiote planet and Rivals&#8216; newest map. There&#8217;s a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/612580/all-skins-season-3-battle-pass-rewards-paid-free-list>
+
+---
+
+## Best gifts to give characters in Persona 5 The Phantom X
+
+date: 2025-07-11, updated: 2025-07-11, from: Polygon Website
+
+Preferred gifts in Persona 5: The Phantom X are just like regular gifts, but they’ll give your synergies an extra boost. As you meet and hang out with confidants in Persona 5: The Phantom X, your synergy will increase, but you can give them a gift to increase your synergy even further. However, be on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/persona-5-phantom-x-guides/610722/best-preferred-gifts-give-p5x-synergy>
+
+---
+
+## How to ‘impress the skaters’ in Tony Hawk&#8217;s Pro Skater 3
+
+date: 2025-07-11, updated: 2025-07-11, from: Polygon Website
+
+In Tony Hawk’s Pro Skater 3, the skate park in Canada is perfect for long sequences of moves and tricks, which is exactly what you need to complete the “Impress the Skaters” mission. Canada is still the second map you unlock in the revamped version of Tony Hawk’s Pro Skater 3+4. Because of that, you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/612367/tony-hawk-pro-skater-3-impress-the-skaters-thps3>
 
 ---
 

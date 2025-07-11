@@ -1,11 +1,275 @@
 ---
 title: planet
-updated: 2025-07-11 06:08:26
+updated: 2025-07-11 14:07:33
 ---
 
 # planet
 
-(date: 2025-07-11 06:08:26)
+(date: 2025-07-11 14:07:33)
+
+---
+
+## Girl dies after incident while swimming in Co Tipperary
+
+date: 2025-07-11, from: RTÉ News
+
+A 12-year-old girl has died after getting into difficulty while swimming in a river in Co Tipperary this afternoon. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0711/1523119-tipperary-incident/>
+
+---
+
+## Sinner dismantles injured and ageing Djokovic at SW19
+
+date: 2025-07-11, from: RTÉ News
+
+Jannik Sinner will go for revenge against Carlos Alcaraz in the Wimbledon final after ruthlessly ending Novak Djokovic's title dreams, coasting to a 6-3 6-3 6-4 victory. 
+
+<br> 
+
+<https://www.rte.ie/sport/tennis/2025/0711/1523131-sinner-dismantles-injured-and-ageing-djokovic/>
+
+---
+
+## US appeals court scraps 9/11 mastermind's plea deal
+
+date: 2025-07-11, from: RTÉ News
+
+A US appeals court has scrapped 9/11 mastermind Khalid Sheikh Mohammed's plea agreement that would have taken the death penalty off the table. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0711/1523130-us-plea-deal/>
+
+---
+
+## Former TD tells court she cannot afford to pay her rent
+
+date: 2025-07-11, from: RTÉ News
+
+Former independent Clare TD Violet Anne Wynne has told a court that she was not able to pay her weekly rent of €300 this week and herself and her family are depending on the goodwill of others. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0711/1523126-violet-anne-wynne/>
+
+---
+
+## Trump arrives in Texas to assess flood damage
+
+date: 2025-07-11, from: RTÉ News
+
+US President Donald Trump has arrived in Texas as questions swirled over the authorities' response to devastating flash floods that have left at least 120 people dead, including dozens of children. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0711/1523124-trump-texas/>
+
+---
+
+## Media v Machine: How is AI impacting news and music
+
+date: 2025-07-11, from: RTÉ News
+
+Behind the Story examines how the media landscape is changing in Ireland and around the world. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0711/1523088-podcast-media-v-machine-how-is-ai-impacting-news-music/>
+
+---
+
+## EU sets sights on climate target deal by September
+
+date: 2025-07-11, from: RTÉ News
+
+Most European Union countries have backed plans to agree a deal on their new climate change target by September, sources familiar with the discussions have said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0711/1523106-eu-climate-change/>
+
+---
+
+## Trump's tariff threats and delays: state of play
+
+date: 2025-07-11, from: RTÉ News
+
+US trading partners braced for a volley of tariff hikes this week, but a deadline for their imposition came and went as President Donald Trump delayed them again until August - but unveiled new copper duties and increased levies on Canada and Brazil. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0711/1523102-donald-trump-tariff/>
+
+---
+
+## Man jailed for life for murder of chef in Cobh
+
+date: 2025-07-11, from: RTÉ News
+
+Thirty-one-year-old Dylan Scannell has been jailed for life after he was convicted of the murder of 33-year-old Ian Baitson in Cobh, Co Cork, last year. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0711/1523066-dylan-scannell-murder-baitson/>
+
+---
+
+## Defending champion Alcaraz advances to Wimbledon final
+
+date: 2025-07-11, from: RTÉ News
+
+Carlos Alcaraz overcame Taylor Fritz 6-4 5-7 6-3 7-6 (8-6) to reach another Wimbledon final and move a step closer to a third consecutive title, with Jannik Sinner the man who will stand in his way. 
+
+<br> 
+
+<https://www.rte.ie/sport/tennis/2025/0711/1523098-defending-champion-alcaraz-advances-to-wimbledon-final/>
+
+---
+
+## Man given 10 more months for breach of suspended sentence
+
+date: 2025-07-11, from: RTÉ News
+
+A man who was handed an 11-year sentence last month for harassing three female journalists has been told he will spend an extra ten months in prison. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0711/1523089-mark-mcanaw/>
+
+---
+
+## Court to rule later on junior ministers at Cabinet
+
+date: 2025-07-11, from: RTÉ News
+
+The High Court has reserved its decisions on challenges by two TDs to the attendance of junior ministers at Cabinet meetings. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0711/1523080-junior-ministers-court/>
+
+---
+
+## Red warning for fire danger ahead of hot weekend
+
+date: 2025-07-11, from: RTÉ News
+
+The Department of Agriculture, Food and the Marine has issued a Condition Red Forest Fire warning, in advance of hot weather forecast for the weekend. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0711/1523079-red-fire-warning/>
+
+---
+
+## Three people die following separate road crashes
+
+date: 2025-07-11, from: RTÉ News
+
+Three people have died following separate incidents in counties Dublin, Meath and Waterford this week. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0711/1523076-dublin-road-incident/>
+
+---
+
+## Five years of disrupted schooling in Ukraine has led to ‘emotional instability in children’
+
+date: 2025-07-11, from: Vatican News
+
+
+                    <p>The director of the largest global fund dedicated to education explains in an interview with Vatican News' Marie Duhamel how the war in Ukraine has dramatically impacted children’s access to education.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/years-of-disrupted-schooling-in-ukraine-has-led-to-instability.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/years-of-disrupted-schooling-in-ukraine-has-led-to-instability.html>
+
+---
+
+## Manitoba's U18 boys football team strikes gold in national Indigenous championship
+
+date: 2025-07-11, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7582363.1752257912!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/team-manitoba-u18-indigenous-high-performance-football.jpeg' alt='Team Manitoba U18 Indigenous High-Performance Football hoists the 2025 Indigenous Football Canada U18 National Championship.' width='620' height='349' title='Team Manitoba U18 Indigenous High-Performance Football hoists the 2025 Indigenous Football Canada U18 National Championship.'/><p>It was a gold medal for Manitoba's Indigenous High-Performance Team at the 2025 Indigenous Football Canada U18 Men's National Championships in Winnipeg last week.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/manitoba-indigenous-football-championship-1.7582344?cmp=rss>
+
+---
+
+## EU may back national trade bans with Israeli settlements
+
+date: 2025-07-11, from: RTÉ News
+
+The EU is considering giving its backing to member states that wish to block imports from illegal Israeli settlements at a national level, under measures set to be considered by the bloc next week. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0711/1523064-israel-eu-sanctions/>
+
+---
+
+## Ex-garda jailed for 20 months for attacking ex-partner
+
+date: 2025-07-11, from: RTÉ News
+
+A man has been jailed for 20 months for attacking and threatening to kill his then partner in their home at a time when he was a serving garda. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0711/1523055-garda-assault-court/>
+
+---
+
+## ‘Social Hackathon’ allows Thai youth to experience synodality
+
+date: 2025-07-11, from: Vatican News
+
+
+                    <p>‘Mission Possible’ is the title of the Second Edition of the Youth Social Hackathon, which offers students in Thailand the opportunity to identify issues in their communities, propose creative responses, and present their ideas to a panel of experts with the possibility of receiving funding to make their solution a reality.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/social-hackathon-allows-thai-youth-to-experience-synodality.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/social-hackathon-allows-thai-youth-to-experience-synodality.html>
+
+---
+
+## McIlroy plays his way into contention at Scottish Open
+
+date: 2025-07-11, from: RTÉ News
+
+Rory McIlroy continued his slow-but-sure return to form ahead of next week's 153rd Open Championship at Royal Portrush with a tidy five-under-par second round 65 at the Scottish Open this morning. 
+
+<br> 
+
+<https://www.rte.ie/sport/golf/2025/0711/1523067-mcilroy-plays-his-way-into-contention-at-scottish-open/>
+
+---
+
+## West African communities facing crisis as fishing industry under strain
+
+date: 2025-07-11, from: Vatican News
+
+
+                    <p>In West Africa, traditional fishing communities are facing a profound crisis as industrial fishmeal production, driven by foreign fleets and global demand, destroys local stocks and livelihoods.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/west-africa-fisher-communities-facing-crisis.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/west-africa-fisher-communities-facing-crisis.html>
 
 ---
 
@@ -18,6 +282,18 @@ German backpacker Carolina Wilga has been found alive but "ravaged by mosquitoes
 <br> 
 
 <https://www.rte.ie/news/world/2025/0711/1523047-backpacker-australian-bush/>
+
+---
+
+## After passing over Ukraine in his big bill, Trump calls on NATO to purchase weapons for Ukraine
+
+date: 2025-07-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7582931.1752248392!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-kharkiv.JPG' alt='A helmeted firefighter is shown in the foreground outdoors as a roof of a four-storey building is partially caved in.' width='620' height='349' title='A firefighter works at the site of a building hit by a Russian drone strike, amid Russia&apos;s attack on Ukraine, in downtown Kharkv on Friday.  '/><p>President Donald Trump and members of his administration say the U.S. will look to sell weapons to Ukraine via NATO and European allies, as he promises a "major statement" on Russia on Monday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-nato-ukraine-weapons-1.7582844?cmp=rss>
 
 ---
 
@@ -46,6 +322,78 @@ date: 2025-07-11, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/church/news/2025-07/california-bishop-san-bernardino-immigration-ice-usa.html>
+
+---
+
+## Desperate Afghan refugees return to an unfamiliar home
+
+date: 2025-07-11, from: United Nations, Top Stories
+
+A chaotic wave of returnees from Iran and Pakistan is straining Afghanistan’s already fragile capacity under Taliban rule and threatening broader regional stability, said the UN refugee agency, UNHCR, on Friday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165377>
+
+---
+
+## Celebrating the potential and promise of the largest youth generation ever
+
+date: 2025-07-11, from: United Nations, Economic Development
+
+Young people are shaping the future and demanding a world that is just, inclusive and sustainable, the UN chief said on Friday, marking&nbsp;World Population Day. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165375>
+
+---
+
+## ‘An unending horror story’: Gangs and human rights abuses expand in Haiti
+
+date: 2025-07-11, from: United Nations, Top Stories
+
+Between October 2024 and June this year, Haiti has been caught in a vicious and unending cycle. First, gang violence expanded westward into the Artibonite and Centre Departments. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165373>
+
+---
+
+## Malnutrition crisis deepens for Sudan’s children as war rages on
+
+date: 2025-07-11, from: United Nations, Top Stories
+
+Sudan’s brutal civil war is pushing more children towards the brink of starvation, the UN Children’s Fund (UNICEF)&nbsp;reported on Friday, highlighting a sharp and alarming rise in severe acute malnutrition (SAM) cases across the country. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165372>
+
+---
+
+## 150,000 Rohingya flee to Bangladesh amid renewed Myanmar violence
+
+date: 2025-07-11, from: United Nations, Top Stories
+
+Escalating conflict and targeted violence in Myanmar’s Rakhine state have forced some 150,000 Rohingya refugees to flee to Bangladesh over the past 18 months – the largest exodus to the neighbouring country in years.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165369>
+
+---
+
+## Gaza: ‘Unacceptable’ choice between getting shot or getting fed
+
+date: 2025-07-11, from: United Nations, Top Stories
+
+Following the deaths of several children&nbsp;in an Israeli strike on Palestinians waiting in line for&nbsp;nutritional supplements in central Gaza on Thursday, UN humanitarian officials have once again&nbsp;condemned the killings of people at aid distribution sites in the enclave. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165368>
 
 ---
 
@@ -90,7 +438,7 @@ It is understood that the Minister for Culture, Communications and Sport Patrick
 date: 2025-07-11, from: Vatican News
 
 
-                    <p>A proposal seen by Reuters and bearing the name of a disputed U.S.-backed aid group describes a plan to build large-scale camps called “Humanitarian Transit Areas” inside - and possibly outside – Gaza.</p>
+                    <p>A proposal seen by Reuters and bearing the name of a disputed U.S.-backed aid group describes a plan to build camps called “Humanitarian Transit Areas” inside - and possibly outside – Gaza.</p>
                     <p><a href="https://www.vaticannews.va/en/world/news/2025-07/humanitarian-transit-areas-gaza-foundation-us-israel-reuters.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -229,7 +577,7 @@ date: 2025-07-11, from: Vatican News
 
 date: 2025-07-11, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7582665.1752235390!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg' alt='A young man carries a box of aid.' width='620' height='349' title='A Palestinian carries a box containing food and humanitarian aid delivered by the Gaza Humanitarian Foundation, a U.S.-backed organization, in Rafah, southern Gaza Strip, Wednesday, June 11, 2025. (AP Photo/Abdel Kareem Hana)'/><p>The UN human rights office said on Friday it had recorded at least 798 killings within the past six weeks at aid points in Gaza run by the U.S.- and Israeli-backed Gaza Humanitarian Foundation and near convoys run by other relief groups.</p> 
+<img src='https://i.cbc.ca/1.7582665.1752240815!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg' alt='A young man carries a box of aid.' width='620' height='349' title='A Palestinian carries a box containing food and humanitarian aid delivered by the Gaza Humanitarian Foundation, a U.S.-backed organization, in Rafah, southern Gaza Strip, Wednesday, June 11, 2025. (AP Photo/Abdel Kareem Hana)'/><p>The UN human rights office said Friday it had recorded at least 798 killings within the past six weeks near aid points in Gaza run by a U.S.- and Israeli-backed group and near convoys run by other relief groups as European officials reached a new deal with Israel to allow desperately needed food and fuel into Gaza.</p> 
 
 <br> 
 
@@ -265,11 +613,11 @@ Thousands of people are gathering in Srebrenica today to commemorate the genocid
 
 ---
 
-## Yellow high temperature warning in effect for 14 counties
+## High temperature warning issued for Ireland tomorrow
 
 date: 2025-07-11, from: RTÉ News
 
-A Status Yellow high temperature warning has come into effect for 14 counties. 
+Met Éireann has issued a high temperature warning for all of Ireland tomorrow. 
 
 <br> 
 
@@ -289,11 +637,11 @@ Gardaí have renewed their appeal for information into the murder of 27-year-old
 
 ---
 
-## Ukraine strikes kill three in Russia, Ukraine ward hit
+## US resumes military aid to Ukraine - Zelensky
 
 date: 2025-07-11, from: RTÉ News
 
-Ukrainian drone and shelling attacks have killed three people in Russia, while Russian bombardments on east Ukraine forced the evacuation of a maternity centre in Kharkiv and wounded nine. 
+The United States has resumed military supplies to Ukraine, President Volodymyr Zelensky said. 
 
 <br> 
 
@@ -305,7 +653,7 @@ Ukrainian drone and shelling attacks have killed three people in Russia, while R
 
 date: 2025-07-11, from: RTÉ News
 
-Oasis will play their first gig in their hometown of Manchester in nearly 16 years on Friday. 
+Oasis will play their first gig in their hometown of Manchester in nearly 16 years tonight. 
 
 <br> 
 
@@ -345,7 +693,7 @@ Six Secret Service agents on duty during last year's assassination attempt again
 
 date: 2025-07-11, from: RTÉ News
 
-For the third time Katie Taylor stepped onto the scales ahead of a world title clash with Amanda Serrano. This time is likely to be their last together. If her arms are raised at the end of another bruising battle, it may just be the sweetest victory of all, writes Paul O'Flynn in New York. 
+For the third time Katie Taylor stepped onto the scales ahead of a world-title clash with Amanda Serrano. This time is likely to be their last together. If her arms are raised at the end of another bruising battle, it may just be the sweetest victory of all, writes Paul O'Flynn in New York. 
 
 <br> 
 
@@ -365,11 +713,11 @@ The number of people who believe that those who are dependent on drugs only have
 
 ---
 
-## George Gibney due in US court to consent to extradition
+## US court orders George Gibney's extradition to Ireland
 
 date: 2025-07-11, from: RTÉ News
 
-Former Olympic swimming coach George Gibney is due in court in Florida to formally consent to his extradition to Ireland from the United States. 
+A US federal court has ordered the extradition to Ireland of former Olympic swimming coach George Gibney. 
 
 <br> 
 
@@ -831,7 +1179,7 @@ Devastating funding cuts from international donors are hitting countries hardest
 
 ## Overlooked and underestimated: Sand and dust storms wreak havoc across borders
 
-date: 2025-07-10, from: United Nations, Climate Change
+date: 2025-07-10, from: United Nations, Top Stories
 
 There are three Great Pyramids at Giza in Egypt - but imagine if there were 307 of the mighty edifices. And then imagine that they had dissolved into over two billion tons of sand and dust particles.&nbsp; 
 
@@ -1941,7 +2289,7 @@ As scores of people – including medical staff and their families – have repo
 
 ## ‘Very limited time to react’: Texas flash floods expose challenges in early warning
 
-date: 2025-07-09, from: United Nations, Climate Change
+date: 2025-07-09, from: United Nations, Top Stories
 
 The deadly flash floods in central Texas that claimed more than 100 lives over the July Fourth weekend in the United States have underscored the devastating power of this fast-onset hazard – and the critical challenge of ensuring early warnings reach vulnerable populations, even in the dead of night. 
 
@@ -2934,7 +3282,7 @@ As relentless attacks continue to damage homes and communities across Ukraine, t
 
 ## South Sudan’s longest cholera outbreak enters critical stage
 
-date: 2025-07-08, from: United Nations, Climate Change
+date: 2025-07-08, from: United Nations, Top Stories
 
 On the eve of the fourteenth anniversary of its independence, South Sudan – the world’s youngest country – is experiencing its worst and longest cholera outbreak.&nbsp;&nbsp; 
 

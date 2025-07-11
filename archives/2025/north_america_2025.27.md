@@ -1,11 +1,135 @@
 ---
 title: north america
-updated: 2025-07-11 06:08:28
+updated: 2025-07-11 14:07:35
 ---
 
 # north america
 
-(date: 2025-07-11 06:08:28)
+(date: 2025-07-11 14:07:35)
+
+---
+
+## Jen live w/ Juan Proaño and Carlos Espina
+
+date: 2025-07-11, from: The Contrarian
+
+A recording from Jennifer Rubin's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168075961/7894bcf0aaadbbd94bc5d544c7da0d80.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168075961/7894bcf0aaadbbd94bc5d544c7da0d80.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-live-w-juan-proano-and-carlos>
+
+---
+
+##  How Republicans Rejected A Texas Flood Warning System 
+
+date: 2025-07-11, from: The Lever News
+
+ Lawmakers spent years rejecting Kerr County’s demands for a disaster warning system.  
+
+<br> 
+
+<https://www.levernews.com/how-republicans-rejected-a-texas-flood-warning-system/>
+
+---
+
+## What the Contrarians are Reading This Summer 
+
+date: 2025-07-11, from: The Contrarian
+
+From epic works of history to timely crime novels, here are the books that are keeping us inspired and entertained while the weather is warm 
+
+<br> 
+
+<https://contrarian.substack.com/p/what-the-contrarians-are-reading>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-07-11, from: The Contrarian
+
+Friday: Anti-ICE protests in California, a right-wing channel embeds with federal agents, planning for July 17, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Tortured by the Taliban, Locked Up in the U.S.
+
+date: 2025-07-11, from: Capital and Main
+
+<p>The increasingly opaque path for protection adopted by Trump leaves those who fled their homeland with little hope.</p>
+<p>The post <a href="https://capitalandmain.com/tortured-by-the-taliban-locked-up-in-the-u-s">Tortured by the Taliban, Locked Up in the U.S.</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/tortured-by-the-taliban-locked-up-in-the-u-s>
+
+---
+
+## On-the-go pancakes
+
+date: 2025-07-11, from: The Contrarian
+
+As all parents know, everything is easier when you have snacks. 
+
+<br> 
+
+<https://contrarian.substack.com/p/on-the-go-pancakes>
+
+---
+
+## Contrarian Pet of the Week
+
+date: 2025-07-11, from: The Contrarian
+
+Meet Ace! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-ad6>
+
+---
+
+## The MLB All-Star Game that featured two Black starting pitchers – for the first and only time
+
+date: 2025-07-11, from: The Contrarian
+
+By Frederic J. Frommer 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-mlb-all-star-game-that-featured>
+
+---
+
+## Puppet Theater
+
+date: 2025-07-11, from: The Contrarian
+
+Do you want to build an AI man? 
+
+<br> 
+
+<https://contrarian.substack.com/p/puppet-theater>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-07-11, from: The Contrarian
+
+Trump Science 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-0b1>
 
 ---
 
@@ -144,18 +268,6 @@ date: 2025-07-10, from: The Lever News
 <br> 
 
 <https://www.levernews.com/the-chemical-industry-laments-deregulatory-win-it-fought-for/>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-07-10, from: The Contrarian
-
-Thursday: Protests in Mississippi and California, Tesla Takedowns everywhere, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

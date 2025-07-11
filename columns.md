@@ -1,11 +1,128 @@
 ---
 title: columns
-updated: 2025-07-11 06:08:32
+updated: 2025-07-11 14:07:39
 ---
 
 # columns
 
-(date: 2025-07-11 06:08:32)
+(date: 2025-07-11 14:07:39)
+
+---
+
+## British Perl guru Matt Trout dead at 42
+
+date: 2025-07-11, updated: 2025-07-11, from: Liam Proven's articles at the Register
+
+<h4><span class="label">obituary</span> A controversial and polarizing figure, but also widely hailed</h4>
+      <p>Matt Trout will be missed by many, even though he was a divisive figure who featured several times on The Register.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/11/matt_trout_dies_at_42/>
+
+---
+
+##  Maya Ruler&#8217;s Tomb Is Unearthed in Belize, With Clues to His Ancient... 
+
+date: 2025-07-11, updated: 2025-07-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047134-maya-rulers-tomb-is-unear>
+
+---
+
+## Tradecraft in the Information Age
+
+date: 2025-07-11, updated: 2025-07-11, from: Bruce Schneier blog
+
+<p><a href="https://wapo.st/4lEIIWm">Long article</a> on the difficulty (impossibility?) of human spying in the age of ubiquitous digital surveillance.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/07/tradecraft-in-the-information-age.html>
+
+---
+
+##  Scrappy is a prototype tool for building &#8220;little apps for you and... 
+
+date: 2025-07-11, updated: 2025-07-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047113-scrappy-is-a-prototype-to>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-11, from: Dave Winer's Scripting News)
+
+The biggest problem with ChatGPT is that it thinks it's running the show. I've just given it instructions to think of itself as a command line that can understand English. Just answer the question exactly as asked. 
+
+<br> 
+
+<http://scripting.com/2025/07/11.html#a154035>
+
+---
+
+## Cybersecurity Risk Assessment Request
+
+date: 2025-07-11, from: Daniel Stenberg Blog
+
+With the new EU legislation Cyber Resiliency Act (CRA), there are new responsibilities and requirements put on manufacturers of digital products and services in Europe. Going forward these manufacturers must be able to know and report the exact contents of their software, called a Software Bill of Material (SBOM) and they have requirements to check &#8230; <a href="https://daniel.haxx.se/blog/2025/07/11/cybersecurity-risk-assessment-request/" class="more-link">Continue reading <span class="screen-reader-text">Cybersecurity Risk Assessment Request</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/07/11/cybersecurity-risk-assessment-request/>
+
+---
+
+##  Mend is a project based in Syracuse, NY that publishes the &#8220;creative... 
+
+date: 2025-07-11, updated: 2025-07-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047126-mend-is-a-project-based>
+
+---
+
+## Upgrading an M4 Pro Mac mini's storage for half the price
+
+date: 2025-07-11, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Upgrading an M4 Pro Mac mini's storage for half the price</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>A few months ago, I <a href="https://www.youtube.com/watch?v=eLtE2kMTVOQ">upgraded my M4 Mac mini from 1 to 2 TB of internal storage</a>, using a then-$269 DIY upgrade kit from ExpandMacMini.</p>
+
+<p>At the time, there was no option for upgrading the M4 Pro Mac mini, despite it <em>also</em> using a <a href="https://support.apple.com/en-us/121003">user-replaceable</a>, socketed storage drive.</p>
+
+<p><img src="https://www.jeffgeerling.com/sites/default/files/images/m4-pro-mac-mini-internal-guts.jpg" width="700" height="394" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-ef416371-9f72-4c5c-b194-15180b4c254b" data-insert-attach="{&quot;id&quot;:&quot;ef416371-9f72-4c5c-b194-15180b4c254b&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="M4 Pro Mac mini guts with M4-SSD 4TB Upgrade Installed"></p>
+
+<p>But the folks at <a href="https://m4-ssd.com">M4-SSD</a> reached out and asked if I'd be willing to test out one of their new M4 Pro upgrades, in this case, upgrading the mini I use at the studio for editing from a stock 512 GB SSD to <em>4 TB</em>.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-07-11T09:00:11-05:00" title="Friday, July 11, 2025 - 09:00" class="datetime">July 11, 2025</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-11, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/09/10/kittyStamp.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Next time there's a Big Beautiful Bill, let's set up a ChatGPT project or equivalent to injest new versions of the bill as they come out, and quickly alert us to issues, and also suggest ways to frame it for the electorate and the press. We have new analytical tools, we should use them. We're only now, far after it's too late, finding out the awful things that the BBB going to do to us. The Repubs planned this out far in advance. They probably even had software tools to advise them on ways to word the bill as the changes were negotiated. 
+
+<br> 
+
+<http://scripting.com/2025/07/11.html#a132231>
 
 ---
 

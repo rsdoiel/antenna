@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2025-07-11 06:08:33
+updated: 2025-07-11 14:07:41
 ---
 
 # journalism
 
-(date: 2025-07-11 06:08:33)
+(date: 2025-07-11 14:07:41)
+
+---
+
+## Nightly Bruin: The Hidden History of the Arroyo Bridge
+
+date: 2025-07-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+Beneath UCLA&#8217;s Dickson Court lies a hidden structure with a storied past. Built in 1927, the Arroyo Bridge was the university&#8217;s first major structure&#8212;used to transport materials, shelter students during the Depression, and store wartime supplies. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/11/nightly-bruin-the-hidden-history-of-the-arroyo-bridge/>
 
 ---
 

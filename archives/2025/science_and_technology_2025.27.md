@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-07-11 06:08:31
+updated: 2025-07-11 14:07:38
 ---
 
 # science and technology
 
-(date: 2025-07-11 06:08:31)
+(date: 2025-07-11 14:07:38)
+
+---
+
+## Tech to protect images against AI scrapers can be beaten, researchers show
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>Data poisoning, meet data detox</h4> <p><strong>ai-pocalypse</strong>  Computer scientists say they&#39;ve devised a way to remove image-based protection mechanisms developed to protect artists from unwanted use of their work for AI training.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/defenses_against_ai_scrapers_beaten/>
+
+---
+
+## Study: using “AI” slows developers down significantly
+
+date: 2025-07-11, from: OS News
+
+It&#8217;s become almost impossible to avoid the &#8220;AI&#8221; evangelists spreading the gospel of how &#8220;AI&#8221; tools are helping them work faster and get more stuff done in less time, but do any of those claims have any basis in reality? Should we really be firing countless people and replace them with &#8220;AI&#8221; tools? Should we spend god knows how much money on &#8220;AI&#8221; tools and force employees to use them? Well&#8230; When developers are allowed to use AI tools, they take 19% longer to complete issues—a significant slowdown that goes against developer beliefs and expert forecasts. This gap between perception and reality is striking: developers expected AI to speed them up by 24%, and even after experiencing the slowdown, they still believed AI had sped them up by 20%. ↫ Joel Becker, Nate Rush, Beth Barnes, and David Rein We&#8217;re very much in the early days of proper research into the actual effectiveness and real-world benefits of &#8220;AI&#8221; tools for all kinds of professions, so a study like this definitely isn&#8217;t a smoking gun, but it does fly in the face of the tech companies and their evangelists shoving &#8220;AI&#8221; down our collective throat. With how much these tools get even the most basic stuff wrong, with how often they lie and make stuff up, I just can&#8217;t imagine them speeding up as many tasks as people claim they do. At the same time, &#8220;AI&#8221; tools do definitely have a place for very specific tasks, and I think that studies like these will look different for every single profession and even every single task within a profession. It&#8217;s going to be incredibly hard or even impossible to come to a &#8220;theory of everything&#8221; on the effectiveness and usefulness of &#8220;AI&#8221; tools. It won&#8217;t be until this idiotic hype dies down before we can have a grounded, honest, fact-based discussion about which &#8220;AI&#8221; tools make sense where. 
+
+<br> 
+
+<https://www.osnews.com/story/142755/study-using-ai-slows-developers-down-significantly/>
+
+---
+
+## Advances in NASA Imaging Changed How World Sees Mars
+
+date: 2025-07-11, from: NASA breaking news
+
+Sixty years ago, NASA’s Mariner 4 captured groundbreaking views of the Red Planet, leading to a steady stream of advances in the cameras used to study other worlds. In 1965, NASA’s Mariner 4 mission brought Mars into American living rooms, where TV sets showed fuzzy black-and-white images of a cratered landscape. The spacecraft took 21 [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/solar-system/planets/mars/advances-in-nasa-imaging-changed-how-world-sees-mars/>
+
+---
+
+## The EU would be better off without American tech companies
+
+date: 2025-07-11, from: OS News
+
+James Heppell, representing Open Web Advocacy, published an article detailing his experience attending DMA compliance workshop in Brussels, in which members of the public can ask questions of companies who have products designated as gatekeepers under the DMA. After attending the Apple one, he concludes: As a final thought, I called this article &#8220;Apple Vs The Law&#8221; primarily in reference to the rule of law, about how it should be applied equally and fairly against all, no matter the size and influence of your company. I think some of these gatekeepers &#8211; above all Apple, do a lot to undermine this process, in some places genuinely damaging trust in democracy. Going out of their way to paint the DMA law and the EU as overstepping and extreme hurts its reputation, as does the invented rhetoric about it being the &#8220;great risk to privacy ever imposed to government&#8221; (China?), or that they&#8217;re &#8220;acting without experts in the field&#8221;. Similarly for the number of covertly funded and supported lobbying groups that they bring to regulators all around the world. And the constant pressure from the US administration to not enforce the DMA &#8211; helped in no small part by these gatekeepers. These money-driven practices &#8211; which in many ways mirror the propaganda typically produced by authoritarian regimes like Russia, seriously hurt all democracies that they come in to touch with, and is a kind of behaviour that should make Apple, and any other group involved, ashamed of themselves. ↫ James Heppell Sometimes I wonder if us Europeans wouldn&#8217;t simply be better off without these lying, scheming, law-breaking American technology companies. Yes, there&#8217;s be a bit of a shock and a chaotic scrambling as newcomers fill the void, but I think I&#8217;d prefer that over the illegal behaviours that are clearly endemic in US technology companies. As a EU citizen, I&#8217;m not even afforded 0.01% of the kind of silk glove, patient, and cooing treatment these corporations get when they break the law, and it highlights once more just how tiered justice really is. I think the EU would, in the long term, be better off without the likes of Apple, Google, Microsoft, Amazon, and Facebook routinely and repeatedly breaking our laws. Rip that festering, rotting band-aid off and endure the chaos for a few years while European newcomers fill the void in a beautiful explosion of competition and innovation. Do we really want to be tied to these corporations that clearly despise us? 
+
+<br> 
+
+<https://www.osnews.com/story/142753/the-eu-would-be-better-off-without-american-tech-companies/>
+
+---
+
+## NASA Astronaut Shannon Walker Retires
+
+date: 2025-07-11, from: NASA breaking news
+
+NASA astronaut Shannon Walker retired July 10, concluding a career that spanned 38 years, including 30 years of federal service and more than 21 years as an astronaut. During two spaceflights, she spent 330 days in orbit, contributing to hundreds of scientific experiments and technology demonstrations for the benefit of humanity. Walker served as a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-astronaut-shannon-walker-retires/>
+
+---
+
+## ICANN fumes as AFRINIC offers no explanation for annulled election
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>As allegations fly regarding fraudulent powers of attorney, one member wants to wind up AFRINIC and start again</h4> <p>The receiver of the African Network Information Center (AFRINIC) has not explained why he chose to annul its recent election, prompting ICANN to again warn that it may need to step in, and longtime AFRINIC litigant Cloud Innovation to call for the body to be wound up.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/afrinic_election_annulled_why/>
+
+---
+
+## CVSS 10 RCE in Wing FTP exploited within 24 hours, security researchers warn
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>Intruders looked up how to use curl mid-attack - rookie errors kept damage minimal</h4> <p>Huntress security researchers observed exploitation of the CVSS 10.0 remote code execution (RCE) flaw in Wing FTP Server on July 1, just one day after its public disclosure.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/1010_wing_ftp_bug_exploited/>
+
+---
+
+## Putting the X-59 to the Test
+
+date: 2025-07-11, from: NASA breaking news
+
+Researchers from NASA and the Japanese Aerospace Exploration Agency (JAXA) recently tested a scale model of the X-59 experimental aircraft in a supersonic wind tunnel located in Chofu, Japan, to assess the noise audible underneath the aircraft.&#160;The model can be seen in the wind tunnel in this image released on July 11, 2025. The test [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/putting-the-x-59-to-the-test/>
+
+---
+
+## Rimini Street, Oracle edge toward truce after years of legal warfare
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>Hush-hush settlement follows decision to wind down PeopleSoft support</h4> <p>Enterprise software support giant Rimini Street has entered into a confidential settlement agreement with Oracle, signaling the two companies may be nearing the end of their long-running legal dispute.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/rimini_street_oracle_settlement/>
+
+---
+
+## British Perl guru Matt Trout dead at 42
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>A controversial and polarizing figure, but also widely hailed</h4> <p><strong>obituary</strong>  Matt Trout will be missed by many, even though he was a divisive figure who featured several times on <em>The Register</em>.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/matt_trout_dies_at_42/>
+
+---
+
+## Pentagon snaps up ownership stake in America's only rare earths mine
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>Rare earth metals are vital to electronics, and most of them are mined in China</h4> <p>There is only one active rare earth mine in the whole of the United States. As of Friday, the Department of Defense has become the largest shareholder in the company that owns and operates it. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/pentagon_ownership_us_rare_earth_mine/>
+
+---
+
+## Datacenters feeling the heat as climate risk boils over
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>A warmer world will affect bit barn resilience, warn consultants</h4> <p>Many of the world&#39;s top 100 datacenter hubs are at risk from rising global temperatures, as growing cooling requirements push up costs and water consumption, while shutdowns to prevent overheating during heat waves may become more frequent.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/climate_change_datacenters/>
+
+---
+
+## NASA to Provide Coverage of Axiom Mission 4 Departure from Station
+
+date: 2025-07-11, from: NASA breaking news
+
+NASA will provide live coverage of the undocking and departure of the Axiom Mission 4 private astronaut mission from the International Space Station. The four-member astronaut crew is scheduled to undock from the space-facing port of the station’s Harmony module aboard the SpaceX Dragon spacecraft at approximately 7:05 a.m. EDT Monday, July 14, pending weather, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-axiom-mission-4-departure-from-station/>
+
+---
+
+## Users of PostgreSQL in the cloud say the uptime just ain't up to it
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>One in five users hit by service failures in the last year, research finds</h4> <p>A survey of PostgreSQL users has found that the levels of uptime experienced using cloud providers falls well short of their expectations in terms of reliability.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/cloud_postgresql_uptime/>
+
+---
+
+## The Biggest-Ever Digital Camera Is This Cosmologist’s Magnum Opus
+
+date: 2025-07-11, from: Quanta Magazine
+
+Tony Tyson’s cameras revealed the universe’s dark contents. Now, with the Rubin Observatory’s 3.2-billion-pixel camera, he’s ready to study dark matter and dark energy in unprecedented detail.            <p>The post <a href="https://www.quantamagazine.org/the-biggest-ever-digital-camera-is-this-cosmologists-magnum-opus-20250711/" target="_blank">The Biggest-Ever Digital Camera Is This Cosmologist’s Magnum Opus</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-biggest-ever-digital-camera-is-this-cosmologists-magnum-opus-20250711/>
+
+---
+
+## Microsoft fixes the ESU blues for Windows 10 users
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>WIndows 11 might have a bigger market share, but Windows 10 is still alive. Kind of</h4> <p>Even as its market share is finally eclipsed by Windows 11, Windows 10 is still alive and in need of fixes. Alongside the replacement of the Blue Screen of Death in Windows 11, Microsoft has released a fix for the Extended Security Updates wizard to Windows 10 Insiders.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/microsoft_esu_fix/>
+
+---
+
+## X-59 Model Tested in Japanese Supersonic Wind Tunnel
+
+date: 2025-07-11, from: NASA breaking news
+
+Researchers from NASA and the Japanese Aerospace Exploration Agency (JAXA) recently tested a scale model of the X-59 experimental aircraft in a supersonic wind tunnel located in Chofu, Japan, to assess the noise audible underneath the aircraft.&#160; The test was an important milestone for NASA’s one-of-a-kind X-59, which is designed to fly faster than the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/x-59-model-tested-in-japanese-supersonic-wind-tunnel/>
+
+---
+
+## NASA’s SpaceX Crew-11 to Support Health Studies for Deep Space Travel
+
+date: 2025-07-11, from: NASA breaking news
+
+NASA’s SpaceX Crew-11 mission is set to launch a four-person crew to the International Space Station later this summer. Some of the crew have volunteered to participate in a series of experiments to address health challenges astronauts may face on deep space missions during NASA’s Artemis campaign and future human expeditions to Mars. The research [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/humans-in-space/nasas-spacex-crew-11-to-support-health-studies-for-deep-space-travel/>
 
 ---
 

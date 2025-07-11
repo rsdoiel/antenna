@@ -1,11 +1,243 @@
 ---
 title: going electric
-updated: 2025-07-11 06:08:37
+updated: 2025-07-11 14:07:45
 ---
 
 # going electric
 
-(date: 2025-07-11 06:08:37)
+(date: 2025-07-11 14:07:45)
+
+---
+
+## Hyundai and Kia are betting on lower-priced EVs to ride out tariffs
+
+date: 2025-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Hyundai-Kia-lower-priced-EVs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Korean auto giants <a href="https://electrek.co/guides/hyundai/">Hyundai</a> and Kia think lower-priced EVs will help minimize the blow from the new US auto tariffs. Hyundai is set to unveil a new entry-level electric car soon, which will be sold alongside the Kia EV2. Will it be the IONIQ 2?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,kia" data-layer-viewtype="unknown" data-post-id="424496" href="https://electrek.co/2025/07/11/hyundai-kia-lower-priced-evs-tariffs/#more-424496" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/11/hyundai-kia-lower-priced-evs-tariffs/>
+
+---
+
+## Blink Charging just threw a lifeline to EVBox Everon customers
+
+date: 2025-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/06/EvBox-TroniqHP_Creative_01-90a1ae-original-1685634799.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>As EVBox shuts down its Everon business across Europe and North America, EV charging provider Blink Charging is stepping up to offer support to customers caught in the transition.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="blink,ev-chargers,evbox,germany,netherlands,united-states" data-layer-viewtype="unknown" data-post-id="424517" href="https://electrek.co/2025/07/11/blink-charging-just-threw-a-lifeline-to-evbox-everon-customers/#more-424517" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/11/blink-charging-just-threw-a-lifeline-to-evbox-everon-customers/>
+
+---
+
+## Podcast: Tesla Robotaxi odds, Rivian R1 Quad, Hyundai Ioniq 9, and more
+
+date: 2025-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla Robotaxi odds, Rivian R1 Quad, Hyundai Ioniq 9, and more</p>
+
+
+
+<p><strong><em>Today’s episode is brought to you by Bosch Mobility Aftermarket—A global leader and trusted provider of automotive aftermarket parts. To celebrate Amazon Prime Day, Bosch Mobility is offering exclusive savings on must-have auto parts and tools. Today is the final day for Prime Day savings, so hurry and grab those Bosch sales before they disappear!</em></strong> <strong><em><a href="https://bit.ly/3TI50e9" target="_blank" rel="noreferrer noopener">Learn more here.</a></em></strong></p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="424498" href="https://electrek.co/2025/07/11/podcast-tesla-robotaxi-odds-rivian-r1-quad-hyundai-ioniq-9/#more-424498" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/11/podcast-tesla-robotaxi-odds-rivian-r1-quad-hyundai-ioniq-9/>
+
+---
+
+## GE Vernova to pay $10.5M to Nantucket for turbine blade mishap
+
+date: 2025-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Avangrid-Vineyard-Wind-1-Eric-Haynes.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Wind turbine maker GE Vernova is paying Nantucket, Massachusetts, $10.5 million after a wind turbine blade from the Vineyard Wind 1 project snapped off and scattered debris across the island during peak tourist season last summer.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,ge-vernova,solar,massachusetts,offshore-wind-power" data-layer-viewtype="unknown" data-post-id="424490" href="https://electrek.co/2025/07/11/ge-vernova-nantucket-vineyard-wind-turbine-blade/#more-424490" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/11/ge-vernova-nantucket-vineyard-wind-turbine-blade/>
+
+---
+
+## Elon Musk says Tesla Robotaxi is coming to California, but no one other than shareholders believe him
+
+date: 2025-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/tesla-robotaxi-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon Musk claims that Tesla Robotaxi is coming to California within the next 2 months, pending regulatory approval, but no one other than Tesla shareholders appears to believe him.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="424460" href="https://electrek.co/2025/07/11/elon-musk-tesla-robotaxi-is-coming-to-california-but-no-one-other-than-shareholders-beleive-him/#more-424460" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/11/elon-musk-tesla-robotaxi-is-coming-to-california-but-no-one-other-than-shareholders-beleive-him/>
+
+---
+
+## Slate Truck: Why One Expert Calls This Mid-$20,000s EV 'Really Innovative'
+
+date: 2025-07-11, from: Inside EVs News
+
+The Slate Truck isn't just a new vehicle. It's a new way to build vehicles for the American auto industry.  
+
+<br> 
+
+<https://insideevs.com/news/765611/slate-truck-munro-video/>
+
+---
+
+## Prime Day-4 Green Deals: Segway e-scooters, EGO Z6 riding mower, Anker solar cam, Hiboy, EcoFlow, Eve, Vanpowers, Worx, more
+
+date: 2025-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Segway-ZT3-Pro-eKickScooter.webp?w=1200" /></div><p>It’s the final day of the July Prime Day sale event, and we have another exciting collection of picks amongst the many eco-friendly deals we’ve spotted over the week, which you can find in our <a href="https://electrek.co/2025/07/11/july-2025-prime-day-green-deals-hub-power-stations-evs-tools-appliances-more/">Prime Day Green Deals hub here</a>, which will continue to regularly be updated through the weekend, so be sure to check back often – especially for any hangover savings. Leading our picks for today, we have Segway’s e-scooter deals that are seeing up to 46% discounts, including the <a href="https://9to5toys.com/2025/07/08/segway-zt3-pro-new-850-low-more/">ZT3 Pro All-Terrain Smart eKickScooter at a new $850 low</a>. There’s also the massive $1,891 savings hitting <a href="https://9to5toys.com/2025/07/11/ego-z6-cordless-riding-mower-e-steer-wheel-four-batteries-new-4108-low/">EGO’s Z6 42-inch Zero-Turn Cordless Riding Lawn Mower</a> that has the e-STEER upgrade and comes with four 12.0Ah batteries at a <a href="https://9to5toys.com/2025/07/11/ego-z6-cordless-riding-mower-e-steer-wheel-four-batteries-new-4108-low/">new $4,108 low</a>, as well as <a href="https://9to5toys.com/2025/07/11/anker-eufy-solocam-s220-new-62-prime-day-low/">Anker’s eufy SoloCam S220 Solar Security Camera</a> (and multi-packs) that are <a href="https://9to5toys.com/2025/07/11/anker-eufy-solocam-s220-new-62-prime-day-low/">starting from a new $62 low</a>. All that and much more are waiting for you below.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="424470" href="https://electrek.co/2025/07/11/prime-day-4-green-deals-segway-zt3-pro-ekickscooter-ego-anker-more/#more-424470" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/11/prime-day-4-green-deals-segway-zt3-pro-ekickscooter-ego-anker-more/>
+
+---
+
+## Is Lucid (LCID) stock set to double? Here’s why one analyst is bullish
+
+date: 2025-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Lucid-orders-Tesla-owners.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/lucid-motors/">Lucid Motors</a> (LCID) delivered a record number of vehicles in the second quarter, marking its seventh straight quarter with higher deliveries. Following a meeting with the EV maker’s CEO, here’s why one analyst believes Lucid (LCID) stock has plenty of upside.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="424466" href="https://electrek.co/2025/07/11/lucid-lcid-stock-double-why-one-analyst-is-bullish/#more-424466" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/11/lucid-lcid-stock-double-why-one-analyst-is-bullish/>
+
+---
+
+## Volkswagen is closing a plant in China while another major automaker files for bankruptcy
+
+date: 2025-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Volkswagen-China-plant-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The struggles continue for global automakers in China. After halting production, <a href="https://electrek.co/guides/volkswagen/">Volkswagen</a> announced it will close a plant in China. And that’s not all, another OEM is filing for bankruptcy through its joint venture.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="stellantis,volkswagen" data-layer-viewtype="unknown" data-post-id="424446" href="https://electrek.co/2025/07/11/volkswagen-close-china-plant-another-brand-files-for-bankruptcy/#more-424446" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/11/volkswagen-close-china-plant-another-brand-files-for-bankruptcy/>
+
+---
+
+## Now America Is Trying To Derail Canada’s EV Plans
+
+date: 2025-07-11, from: Inside EVs News
+
+Also: Panasonic is delaying its U.S. battery production targets, and the rollout of the new Nissan Leaf may be slower than expected. 
+
+<br> 
+
+<https://insideevs.com/news/765579/us-canada-ev-mandate-cm/>
+
+---
+
+## The EV Revolution No One’s Talking About—And Why It’s At Risk
+
+date: 2025-07-11, from: Inside EVs News
+
+The commercial vehicle tax credit was a big driver for fleet purchases; with it gone, it could affect the market greatly. 
+
+<br> 
+
+<https://insideevs.com/news/765445/fleet-tax-credit-ends-busses/>
+
+---
+
+## Panasonic reportedly delays production ramp at US battery factory due to low Tesla demand
+
+date: 2025-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/10/Panasonic-Tesla-4680-battery-cells.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Panasonic has reportedly delayed its plan to ramp up production at its new battery factory in Kansas due to low demand from Tesla, its primary customer.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="panasonic,tesla" data-layer-viewtype="unknown" data-post-id="424434" href="https://electrek.co/2025/07/11/panasonic-delays-production-ramp-at-us-battery-factory-due-low-tesla-demand/#more-424434" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/11/panasonic-delays-production-ramp-at-us-battery-factory-due-low-tesla-demand/>
+
+---
+
+## Cadillac is taking the luxury EV market by storm and this could be just the start
+
+date: 2025-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Cadillac-luxury-EV-leader.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/cadillac/">Cadillac</a> claims to have already achieved “EV leader” status this year with a full lineup of luxury electric SUVs rolling out. Even with the federal EV tax credit set to end, GM’s luxury brand believes it’s well-positioned to weather the storm.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="cadillac,gm" data-layer-viewtype="unknown" data-post-id="424425" href="https://electrek.co/2025/07/11/cadillac-taking-luxury-ev-market-by-storm/#more-424425" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/11/cadillac-taking-luxury-ev-market-by-storm/>
+
+---
+
+## 'I Don't Think I Ever Want To Go To a Normal Dealership': Man Buys Tesla. Then He Says Buying One Is a 'Next Level' Experience
+
+date: 2025-07-11, from: Inside EVs News
+
+'Why are you still here, dude?' 
+
+<br> 
+
+<https://insideevs.com/news/765482/tesla-buying-experience/>
+
+---
+
+## Tesla slashes prices in Canada despite tariffs as sales basically go to 0
+
+date: 2025-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Tesla-Model-Y-price-canada.png?w=1600" /></div><p>Tesla has slashed prices on the Model Y in Canada despite tariffs as sales in the country have virtually gone to zero over the last few months.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="424417" href="https://electrek.co/2025/07/11/tesla-slashes-prices-canada-despite-tariffs-sales-zero/#more-424417" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/11/tesla-slashes-prices-canada-despite-tariffs-sales-zero/>
 
 ---
 

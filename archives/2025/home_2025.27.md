@@ -1,11 +1,150 @@
 ---
 title: home
-updated: 2025-07-11 06:08:35
+updated: 2025-07-11 14:07:43
 ---
 
 # home
 
-(date: 2025-07-11 06:08:35)
+(date: 2025-07-11 14:07:43)
+
+---
+
+## This $1.7M Tucson Home Soaks Up the Sun With Five Outdoor Spaces
+
+date: 2025-07-11, from: Dwell
+
+The Arizona compound embraces the desert with canopied patios, an outdoor shower, and saguaro-lined ceilings. 
+
+<br> 
+
+<https://www.dwell.com/article/barrio-viejo-home-renovation-tucson-arizona-real-estate-d4431fc8>
+
+---
+
+## Drill Like a Pro: Complete Guide to Bits and Materials
+
+date: 2025-07-11, from: Family Handyman Blog
+
+<p>This comprehensive guide explains how to use a drill with the right bits, proper techniques, and safety measures for every home project.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-use-a-drill/">Drill Like a Pro: Complete Guide to Bits and Materials</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-use-a-drill/>
+
+---
+
+## How to Grow False Indigo (Baptisia)
+
+date: 2025-07-11, from: The Gardener's Path
+
+<p>The blue, white, or yellow spires of false indigo open in late spring, bridging the gap between peonies, poppies, and midsummer’s colorful annuals. Slow-growing and deep rooted, this gorgeous North American native is drought-tolerant and easy to care for. Learn to grow these tenacious flowers in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-false-indigo/">How to Grow False Indigo (Baptisia)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-false-indigo/>
+
+---
+
+## How They Pulled It Off: Making a Midcentury Home Sustainable for the Next Century
+
+date: 2025-07-11, from: Dwell
+
+In Chicago, a vintage 1950s residence gets a new lease on life thanks to deep energy upgrades. 
+
+<br> 
+
+<https://www.dwell.com/article/tom-bassett-dilley-architects-chicago-midcentury-reno-7a0aefb5>
+
+---
+
+## $1M Lots—in an RV Park? Plus, Everything Else You Need to Know About This Week
+
+date: 2025-07-11, from: Dwell
+
+Parisians are swimming in the Seine again, California scales back CEQA to approve more builds, Dodger Stadium gets a midcentury-minded refresh, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/luxe-rv-parks-dodgers-stadium-remodel-robert-de-niro-beach-club-393de626>
+
+---
+
+## This Clever Twist On an A-Frame Cabin? It Started in a Classroom
+
+date: 2025-07-11, from: Dwell
+
+Students in a design-build program led by architect Peter Braithwaite envisioned the retreat—and then picked up power tools to help bring it to life. 
+
+<br> 
+
+<https://www.dwell.com/article/peter-braithwaite-b-cabin-design-build-program-free-lab-dalhousie-university-school-of-architecture-4e66b2c3>
+
+---
+
+## The Secret Meaning Behind the Colored Lines on Your New Tires
+
+date: 2025-07-11, from: Family Handyman Blog
+
+<p>There is a lot of critical information on our tires. The colored lines on new tires are placed there to help simplify the manufacturing process. Other...</p>
+<p>The post <a href="https://www.familyhandyman.com/article/colored-lines-on-new-tires/">The Secret Meaning Behind the Colored Lines on Your New Tires</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/colored-lines-on-new-tires/>
+
+---
+
+## This Will Be Disneyland’s Busiest Day of the Year—and It’s Happening in July
+
+date: 2025-07-11, from: Sunset Magazine - Living in the West
+
+Disney insiders are predicting that this day in July will have the biggest crowds of the year at Disneyland Park. 
+
+<br> 
+
+<https://www.sunset.com/travel/disneyland-busiest-day-2025>
+
+---
+
+## How to Design a Backyard That Feels 10 Degrees Cooler
+
+date: 2025-07-11, from: Sunset Magazine - Living in the West
+
+Want a backyard that feels 10 degrees cooler? These thoughtful design ideas can transform your outdoor space into a cool, welcoming retreat. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/cooling-landscape-garden-design-ideas>
+
+---
+
+## Homepage 2025
+
+date: 2025-07-11, from: Sunset Magazine - Living in the West
+
+Flowers &amp; Plants, Garden Basics, Landscaping How to Design a Backyard That Feels 10 Degrees Cooler Easy-to-tackle garden tips to turn up the style while turning down the heat. <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## A Look at an Architect’s A-Frame Home Office Makeover
+
+date: 2025-07-11, from: Sunset Magazine - Living in the West
+
+<p>A fresh angle for a late 1950s beach house.</p>
+ 
+
+<br> 
+
+<https://www.sunset.com/home-garden/diy-projects/a-frame-home-office-makeover>
 
 ---
 
@@ -409,18 +548,6 @@ date: 2025-07-10, from: Yard Life blog
 
 ---
 
-## Homepage 2025
-
-date: 2025-07-10, from: Sunset Magazine - Living in the West
-
-Decorating &amp; Design, Home Tours This ADU Was Built to Solve What the Main House Was Missing The functional design fits in just right on the property.  Read more: This ADU&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## When to Plant Hydrangeas to Ensure Gorgeous Flowers All Season
 
 date: 2025-07-10, from: Yard Life blog
@@ -567,18 +694,6 @@ date: 2025-07-09, from: Family Handyman Blog
 
 ---
 
-## This Will Be Disneyland’s Busiest Day of the Year—and It’s Happening in July
-
-date: 2025-07-09, from: Sunset Magazine - Living in the West
-
-Disney insiders are predicting that this day in July will have the biggest crowds of the year at Disneyland Park. 
-
-<br> 
-
-<https://www.sunset.com/travel/disneyland-busiest-day-2025>
-
----
-
 ## Debadging 101: Is It Safe (and Legal) to Remove Car Logos?
 
 date: 2025-07-09, from: Family Handyman Blog
@@ -617,18 +732,6 @@ date: 2025-07-09, from: Sunset Magazine - Living in the West
 <br> 
 
 <https://www.sunset.com/home-garden/diy-projects/a-look-at-an-architects-a-frame-home-office-makeover>
-
----
-
-## How to Design a Backyard That Feels 10 Degrees Cooler
-
-date: 2025-07-09, from: Sunset Magazine - Living in the West
-
-Want a backyard that feels 10 degrees cooler? These thoughtful design ideas can transform your outdoor space into a cool, welcoming retreat. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/landscaping/cooling-landscape-garden-design-ideas>
 
 ---
 

@@ -1,11 +1,36 @@
 ---
 title: pacific
-updated: 2025-07-11 06:08:30
+updated: 2025-07-11 14:07:37
 ---
 
 # pacific
 
-(date: 2025-07-11 06:08:30)
+(date: 2025-07-11 14:07:37)
+
+---
+
+## CHamoru weavers keep tradition alive one leaf at a time
+
+date: 2025-07-11, from: Pacific Island Times
+
+By Ron Rocky Coloma   Nate Manibusan sat with a strip of åkgak leaf in his hands, folding it slowly, intentionally. Around him, the air... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/chamoru-weavers-keep-tradition-alive-one-leaf-at-a-time>
+
+---
+
+## AI-enhanced game prepares public health students for global challenges
+
+date: 2025-07-11, from: University of Hawaiʻi News
+
+<p>The Department of Public Health Sciences used an AI-powered simulation game to teach students about global health and pandemic response.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/11/public-health-ai-enhanced-game/"><abbr>AI</abbr>-enhanced game prepares public health students for global challenges</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/11/public-health-ai-enhanced-game/>
 
 ---
 
@@ -521,6 +546,20 @@ A former Fiji captain says is excited by the selection of his son and the son of
 
 ---
 
+## Reuniting Under the One Ocean Expedition: A Global Voyage for Ocean Health and Knowledge
+
+date: 2025-07-11, from: University of the South Pacific (Fiji)
+
+<p>Norway&#8217;s majestic sailing ship, the Statsraad Lehmkuhl, embarked on its most ambitious journey to date...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/reuniting-under-the-one-ocean-expedition-a-global-voyage-for-ocean-health-and-knowledge/">Reuniting Under the One Ocean Expedition: A Global Voyage for Ocean Health and Knowledge</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/reuniting-under-the-one-ocean-expedition-a-global-voyage-for-ocean-health-and-knowledge/>
+
+---
+
 ## New Zealand, Fiji set sights on $2B trade 
 
 date: 2025-07-11, from: Pacific Island Times
@@ -682,6 +721,18 @@ date: 2025-07-10, from: Marshal Islands Journal
 <br> 
 
 <https://marshallislandsjournal.com/chuji-wins-by-four-votes/>
+
+---
+
+## Considering anesthesia for a tattoo? What anesthesiologists say you need to know
+
+date: 2025-07-10, updated: 2025-07-10, from: Marianas Variety
+
+(BPT) - Tattoos have gone mainstream — about one in three U.S. adults has at least one. Some people consider the pain of getting a tattoo part of the experience or a rite of passage. Others may look for relief via numbing creams, sprays, ice packs or even anesthesia. This is especially true for large tattoos or long sessions, which can last eight hours or more. If you are considering anesthesia for a lengthy tattoo session, make sure the procedure follows the same safety standards as any elective surgery or procedure, according to new guidance from the American Society of Anesthesiologists (ASA). With National Tattoo Day on July 17, it's the perfect time to remember that safety should be as much of a priority as self-expression. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/considering-anesthesia-for-a-tattoo-what-anesthesiologists-say-you-need-to-know/article_200822f1-6e4e-5766-9b11-91a60dc157a2.html>
 
 ---
 
@@ -1216,6 +1267,20 @@ date: 2025-07-10, from: Marshal Islands Journal
 <br> 
 
 <https://marshallislandsjournal.com/palau-honors-rmi/>
+
+---
+
+## USP Hosts Inaugural WIRE Program: Fostering Indigenous Exchange and Understanding
+
+date: 2025-07-10, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) hosted the inaugural Western Indigenous Relationship Exchange (WIRE)...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-hosts-inaugural-wire-program-fostering-indigenous-exchange-and-understanding/">USP Hosts Inaugural WIRE Program: Fostering Indigenous Exchange and Understanding</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-hosts-inaugural-wire-program-fostering-indigenous-exchange-and-understanding/>
 
 ---
 
@@ -1892,6 +1957,20 @@ Humane and sustainable solutions sought amid the struggle to manage a surging st
 <br> 
 
 <https://www.pacificislandtimes.com/post/guam-s-stray-animal-crisis-three-dogcatchers-one-truck-60-000-free-roaming-animals>
+
+---
+
+## Digital Transformation, Innovation and Sustainable Growth
+
+date: 2025-07-09, from: University of the South Pacific (Fiji)
+
+<p>The Graduate School of Business hosted a panel discussion on Tuesday, 1 July, centred on...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/digital-transformation-innovation-and-sustainable-growth/">Digital Transformation, Innovation and Sustainable Growth</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/digital-transformation-innovation-and-sustainable-growth/>
 
 ---
 

@@ -1,11 +1,298 @@
 ---
 title: snapshots
-updated: 2025-07-11 06:08:40
+updated: 2025-07-11 14:07:48
 ---
 
 # snapshots
 
-(date: 2025-07-11 06:08:40)
+(date: 2025-07-11 14:07:48)
+
+---
+
+## Apple vs. the Law
+
+date: 2025-07-11, from: Michael Tsai
+
+James Heppell (via Hacker News): A week ago today I had the pleasure of attending both the Apple and Google DMA compliance workshops in Brussels. More detailed articles on the questions and answers, technical and legal analysis etc will be published over at the OWA blog, where we&#8217;ve just done the first write-up on the [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/11/apple-vs-the-law/>
+
+---
+
+## Using “tmutil associatedisk” With APFS Destinations
+
+date: 2025-07-11, from: Michael Tsai
+
+I recently got a new SSD on Prime Day to replace one of my main hard drives. As this drive was included in Time Machine, I wanted the SSD to &#8220;adopt&#8221; the hard drive&#8217;s backup history. This way I could avoid recopying lots of data that was already backed up, which would also require pruning [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/11/using-tmutil-associatedisk-with-apfs-destinations/>
+
+---
+
+## macOS Tahoe’s Folder Icon Customization
+
+date: 2025-07-11, from: Michael Tsai
+
+William Gallagher: It&#8217;s not like it&#8217;s going to take you long, since there are just two elements to this: Changing a folder&#8217;s colorAdding either an icon or an emoji to the folderIn this case, icons and emoji don&#8217;t sound all that different &#8212; whichever you choose, you end up with a symbol appearing on the [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/11/macos-tahoes-folder-icon-customization/>
+
+---
+
+## Apple Wins Dismissal in Payments Conspiracy Lawsuit
+
+date: 2025-07-11, from: Michael Tsai
+
+Hartley Charlton: Apple has successfully secured the dismissal of a federal lawsuit accusing it of conspiring with Visa and Mastercard to suppress competition in the payments network industry and inflate merchant transaction fees (via Reuters).[&#8230;]The plaintiffs claimed that Visa and Mastercard made ongoing payments to Apple, described as &#8220;a very large and ongoing cash bribe,&#8221; [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/11/apple-wins-dismissal-in-payments-conspiracy-lawsuit/>
+
+---
+
+## Radxa E24C and E54C are small, cheap fanless PCs with four Gigabit Ethernet ports and Rockchip processors
+
+date: 2025-07-11, from: Liliputing
+
+<p>Radxa recently launched two small fanless PCs designed for use as routers or for other applications where you might want a system with four Gigabit Ethernet ports. The Radxa E24C is a cheaper, lower-performance model that features a Rockchip RK3582 quad-core processor and support for up to 8GB of RAM, while the Radxa E54C looks nearly identical, [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/radxa-e24c-and-e54c-are-small-cheap-fanless-pcs-with-four-gigabit-ethernet-ports-and-rockchip-processors/">Radxa E24C and E54C are small, cheap fanless PCs with four Gigabit Ethernet ports and Rockchip processors</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/radxa-e24c-and-e54c-are-small-cheap-fanless-pcs-with-four-gigabit-ethernet-ports-and-rockchip-processors/>
+
+---
+
+## On Elon Musk and Sleazy Optionality
+
+date: 2025-07-11, from: Dave Karpf's blog
+
+Is he serious about the America Party? <Smirk-shrug> it depends! 
+
+<br> 
+
+<https://davekarpf.substack.com/p/on-elon-musk-and-sleazy-optionality>
+
+---
+
+## moonshotai/Kimi-K2-Instruct
+
+date: 2025-07-11, updated: 2025-07-11, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://huggingface.co/moonshotai/Kimi-K2-Instruct">moonshotai/Kimi-K2-Instruct</a></strong></p>
+Colossal new open weights model release today from <a href="https://en.wikipedia.org/wiki/Moonshot_AI">Moonshot AI</a>, a two year old Chinese AI lab with a name inspired by Pink Floyd’s album The Dark Side of the Moon.</p>
+<p>My <a href="https://tools.simonwillison.net/huggingface-storage">HuggingFace storage calculator</a> says the repository is 958.52 GB. It's a mixture-of-experts model with "32 billion activated parameters and 1 trillion total parameters", trained using the Muon optimizer as described in Moonshot's joint paper with UCLA <a href="https://arxiv.org/abs/2502.16982">Muon is Scalable for LLM Training</a>.</p>
+<p>I think this may be the largest ever open weights model? DeepSeek v3 is 671B.</p>
+<p>I created <a href="https://platform.moonshot.ai/console/api-keys">an API key for Moonshot</a>, added some dollars and ran a prompt against it using my LLM tool. First I added this to the <a href="https://llm.datasette.io/en/stable/other-models.html#openai-compatible-models">extra-openai-models.yaml file</a>:</p>
+<pre><code>- model_id: kimi-k2
+  model_name: kimi-k2-0711-preview
+  api_base: https://api.moonshot.ai/v1
+  api_key_name: moonshot
+</code></pre>
+<p>Then I set the API key:</p>
+<pre><code>llm keys set moonshot
+# Paste key here
+</code></pre>
+<p>And ran a prompt:</p>
+<pre><code>llm -m kimi-k2 "Generate an SVG of a pelican riding a bicycle" \
+  -o max_tokens 2000
+</code></pre>
+<p>(The default max tokens setting was too short.)</p>
+<p><img alt="Description by Claude Sonnet 4: Simple line drawing of a white rubber duck with orange beak sitting on a red bicycle with spoked wheels" src="https://static.simonwillison.net/static/2025/kimi-k2-pelican.png" /></p>
+<p>This is pretty good! The spokes are a nice touch. <a href="https://gist.github.com/simonw/39aba6a1d4895ad7516bffe9485031db">Full transcript here</a>.</p>
+<p>This one is open weights but not open source: they're using a <a href="https://github.com/moonshotai/Kimi-K2/blob/main/LICENSE">modified MIT license</a> with this non-OSI-compliant section tagged on at the end:</p>
+<blockquote>
+<p>Our only modification part is that, if the Software (or any derivative works
+thereof) is used for any of your commercial products or services that have
+more than 100 million monthly active users, or more than 20 million US dollars
+(or equivalent in other currencies) in monthly revenue, you shall prominently
+display "Kimi K2" on the user interface of such product or service.</p>
+</blockquote>
+<p><strong>Update</strong>: MLX developer <a href="https://x.com/awnihannun/status/1943723599971443134">Awni Hannun reports</a>:</p>
+<blockquote>
+<p>The new Kimi K2 1T model (4-bit quant) runs on 2 512GB M3 Ultras with mlx-lm and mx.distributed.</p>
+<p>1 trillion params, at a speed that's actually quite usable</p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44533403">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/11/kimi-k2/#atom-everything>
+
+---
+
+## Payment Processors Are Pushing AI Porn Off Its Biggest Platforms
+
+date: 2025-07-11, from: 404 Media Group
+
+Creators of AI image models for porn and celebrities are running out of easy hosting options as Civitai and Tensor.Art change their policies under pressure.  
+
+<br> 
+
+<https://www.404media.co/payment-processors-are-pushing-ai-porn-off-its-biggest-platforms/>
+
+---
+
+## Syllabus Repository Update: Writing with Data
+
+date: 2025-07-11, from: Digital Humanities Quarterly News
+
+We are excited to share that the DRC has recently updated its Syllabus Repository with syllabi on writing with data for composition, digital rhetoric, and technical and professional communication classes! This is a great collection of resources for educators looking to integrate data writing into their classes. The included syllabi feature units and assignments that [...]
+<p><a href="https://www.digitalrhetoriccollaborative.org/2025/07/11/syllabus-repository-update-writing-with-data/" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://www.digitalrhetoriccollaborative.org/2025/07/11/syllabus-repository-update-writing-with-data/>
+
+---
+
+## Quoting Django’s security policies
+
+date: 2025-07-11, updated: 2025-07-11, from: Simon Willison’s Weblog
+
+<blockquote cite="https://docs.djangoproject.com/en/dev/internals/security/#ai-assisted-reports"><p>Following the widespread availability of large language models (LLMs), the Django Security Team has received a growing number of security reports generated partially or entirely using such tools. Many of these contain inaccurate, misleading, or fictitious content. While AI tools can help draft or analyze reports, they must not replace human understanding and review.</p>
+<p>If you use AI tools to help prepare a report, you must:</p>
+<ul>
+<li><strong>Disclose</strong> which AI tools were used and specify what they were used for (analysis, writing the description, writing the exploit, etc).</li>
+<li><strong>Verify</strong> that the issue describes a real, reproducible vulnerability that otherwise meets these reporting guidelines.</li>
+<li><strong>Avoid</strong> fabricated code, placeholder text, or references to non-existent Django features.</li>
+</ul>
+<p>Reports that appear to be unverified AI output will be closed without response. Repeated low-quality submissions may result in a ban from future reporting</p></blockquote>
+<p class="cite">&mdash; <a href="https://docs.djangoproject.com/en/dev/internals/security/#ai-assisted-reports">Django’s security policies</a>, on AI-Assisted Reports</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/django">django</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/11/django-security-policies/#atom-everything>
+
+---
+
+## Emmys 2025: nominaciones soñadas de Palomita de maíz
+
+date: 2025-07-11, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Los premios Emmy, el máximo reconocimiento a la excelencia en la televisión, están a la vuelta de la esquina, y con ellos llega la emoción de especular sobre quiénes brillarán en la ceremonia. En este espíritu, armamos nuestra lista soñada de nominaciones, un ejercicio que combina análisis, intuición y nuestra pasión por las series que [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/emmys-2025-nominaciones-sonadas-de-palomita-de-maiz/">Emmys 2025: nominaciones soñadas de Palomita de maíz</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/emmys-2025-nominaciones-sonadas-de-palomita-de-maiz/?utm_source=rss&utm_medium=rss&utm_campaign=emmys-2025-nominaciones-sonadas-de-palomita-de-maiz>
+
+---
+
+## HMD is winding down its phone business in the US market
+
+date: 2025-07-11, from: Liliputing
+
+<p>After Nokia got out of the smartphone business, a Finnish company called HMD Global picked up the torch and started selling a line of Nokia-branded smartphones and feature phones. More recently HMD transitioned to using its own name for its smartphones. But good luck getting one in the future if you live in the United States. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/hmd-is-winding-down-its-phone-business-in-the-us-market/">HMD is winding down its phone business in the US market</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/hmd-is-winding-down-its-phone-business-in-the-us-market/>
+
+---
+
+## Trump's Brazil Tariff Is Blatantly Illegal
+
+date: 2025-07-11, from: Paul Krugman
+
+Shouldn't someone be suing? 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/trumps-brazil-tariff-is-blatantly>
+
+---
+
+## Behind the Blog: In Our Lane
+
+date: 2025-07-11, from: 404 Media Group
+
+This week, we discuss choosing what to cover, fishing expeditions, and the library. 
+
+<br> 
+
+<https://www.404media.co/behind-the-blog-in-our-lane/>
+
+---
+
+## Misinformation lends itself to social contagion
+
+date: 2025-07-11, from: Guy Kawasaki blog
+
+Shaon Lahiri, Assistant Professor of Public Health, College of Charleston. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/misinformation-lends-itself-to-social>
+
+---
+
+## ICE Age
+
+date: 2025-07-11, from: Prof. Scott Galloway, No Mercy/No Malace blog
+
+<p>President Trump is no longer fighting inflation, China, or AI. Instead, he’s declared war on a manufactured threat: the “enemy within” — immigrants, journalists, and professors. Our biggest threat, apparently, isn’t Russian aggression or economic inequality; it’s your Uber driver or anthropology professor. This is not only cruel (and depraved) but stupid, as the chill [&#8230;]</p>
+<p>The post <a href="https://www.profgalloway.com/ice-age/">ICE Age</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
+ 
+
+<br> 
+
+<https://www.profgalloway.com/ice-age/>
+
+---
+
+## NovaCustom NUC Box mini PC has an Intel Meteor Lake processor and open source firmware
+
+date: 2025-07-11, from: Liliputing
+
+<p>NovaCustom is a Dutch company that sells computers that put an emphasis on privacy and security features. For the past few years the company has been selling laptops that are available with a choice of Windows or several different GNU/Linux distributions. And more recently the company started loading its notebooks computers with open source firmware [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/novacustom-nuc-box-mini-pc-has-an-intel-meteor-lake-processor-and-open-source-firmware/">NovaCustom NUC Box mini PC has an Intel Meteor Lake processor and open source firmware</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/novacustom-nuc-box-mini-pc-has-an-intel-meteor-lake-processor-and-open-source-firmware/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-11, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ltoxn2lh222d>
+
+---
+
+## Banana Ball Came to Boston
+
+date: 2025-07-11, updated: 2025-07-11, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/07/11/banana-ball-came-to-boston/>
 
 ---
 

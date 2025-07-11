@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-07-11 06:08:35
+updated: 2025-07-11 14:07:43
 ---
 
 # motorcycles
 
-(date: 2025-07-11 06:08:35)
+(date: 2025-07-11 14:07:43)
+
+---
+
+## Honda's Beginner-Friendly Transmission Is Coming to Its Beginner-Friendly Motorcycles
+
+date: 2025-07-11, from: Ride Apart, Electric Motorcycle News
+
+This makes way more sense compared to how Honda initially launched the technology. 
+
+<br> 
+
+<https://www.rideapart.com/news/765338/honda-e-clutch-beginner-motorcycles/>
 
 ---
 

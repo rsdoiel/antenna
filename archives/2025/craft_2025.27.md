@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-07-11 06:08:37
+updated: 2025-07-11 14:07:46
 ---
 
 # craft
 
-(date: 2025-07-11 06:08:37)
+(date: 2025-07-11 14:07:46)
+
+---
+
+## Know Your Materials
+
+date: 2025-07-11, from: Lost Arg Press blog
+
+The following is excerpted from “Shaker Inspiration” by Christian Becksvoort.&#160; Not too many woodworkers can claim five decades of business success, but Becksvoort is among them. In “Shaker Inspiration,” he shares not only his woodworking knowledge and some of his best professional techniques for producing top-quality work, but also the business advice that helped him... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/07/11/know-your-materials/>
 
 ---
 
