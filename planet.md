@@ -1,11 +1,415 @@
 ---
 title: planet
-updated: 2025-07-10 14:08:02
+updated: 2025-07-11 06:08:26
 ---
 
 # planet
 
-(date: 2025-07-10 14:08:02)
+(date: 2025-07-11 06:08:26)
+
+---
+
+## Backpacker found after 12 days missing in Australian bush
+
+date: 2025-07-11, from: RTÉ News
+
+German backpacker Carolina Wilga has been found alive but "ravaged by mosquitoes" 12 days after going missing in remote bushland in Western Australia, police said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0711/1523047-backpacker-australian-bush/>
+
+---
+
+## Efforts to register younger voters at EP, Ploughing
+
+date: 2025-07-11, from: RTÉ News
+
+Efforts to get young people to register to vote ahead of October's presidential election will extend to the Electric Picnic music festival, the National Ploughing Championships and college campuses in the coming months. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0711/1523046-vote-register/>
+
+---
+
+## California Bishop dispenses migrants from Mass obligation due to raid fears
+
+date: 2025-07-11, from: Vatican News
+
+
+                    <p>Bishop Alberto Rojas of San Bernardino in California has issued a decree dispensing those at risk of deportation from the obligation to attend Sunday Mass, after immigration officials entered two Catholic parishes and detained people in June. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/california-bishop-san-bernardino-immigration-ice-usa.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/california-bishop-san-bernardino-immigration-ice-usa.html>
+
+---
+
+## Two elderly women die after BMW crashes into UK care home
+
+date: 2025-07-11, from: RTÉ News
+
+Two women have died after a BMW that was being chased by police crashed into their care home this week, Northumbria Police said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0711/1523036-bmw-crash-care-home/>
+
+---
+
+## Arrest after man, 70s, dies following assault in Limerick
+
+date: 2025-07-11, from: RTÉ News
+
+Gardaí are treating as suspicious the death of a man in his 70s following an assault in Limerick city last night. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0711/1523002-assault-death-limerick/>
+
+---
+
+## Basic income scheme for artists comes into focus
+
+date: 2025-07-11, from: RTÉ News
+
+It is understood that the Minister for Culture, Communications and Sport Patrick O'Donovan is pushing to retain the basic income scheme for artists which is due to expire early next year. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0711/1523028-minister-pushes-to-retain-basic-income-scheme-for-artists/>
+
+---
+
+## Gaza: The “Humanitarian Transit Areas“ mystery
+
+date: 2025-07-11, from: Vatican News
+
+
+                    <p>A proposal seen by Reuters and bearing the name of a disputed U.S.-backed aid group describes a plan to build large-scale camps called “Humanitarian Transit Areas” inside - and possibly outside – Gaza.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/humanitarian-transit-areas-gaza-foundation-us-israel-reuters.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/humanitarian-transit-areas-gaza-foundation-us-israel-reuters.html>
+
+---
+
+## 'Shameful bonfire went ahead' - Amnesty International
+
+date: 2025-07-11, from: RTÉ News
+
+It is "shameful" that a bonfire topped with effigies of migrants in a boat was allowed to go ahead, Amnesty International has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0711/1523023-bonfires-northern-ireland/>
+
+---
+
+## Nigeria: Orlu Diocese celebrates God's special VIPs with a banquet
+
+date: 2025-07-11, from: Vatican News
+
+
+                    <p>On 10 July 2025, in Orlu Diocese, Nigeria, a grand banquet was held to honour the poorest of the poor—referred to as God's Special VIPs—as part of the Jubilee of Hope celebrations. The event was organized by Gratia Vobis Ministries Inc. (GVM), founded by Fr. Maurice Nkem Emelu, a priest of Orlu Diocese and a Professor of Digital Media and Communication at John Carroll University, USA.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-07/nigeria-orlu-diocese-celebrates-god-s-special-vips-with-a-banqu.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-07/nigeria-orlu-diocese-celebrates-god-s-special-vips-with-a-banqu.html>
+
+---
+
+## Soc Dems to nominate Catherine Connolly for run for Áras
+
+date: 2025-07-11, from: RTÉ News
+
+The National Executive of the Social Democrats has unanimously decided that its Oireachtas members will nominate Catherine Connolly for President. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0711/1523014-presidential-race-connolly/>
+
+---
+
+## Tánaiste speaks with Maroš Šefčovič on EU-US trade talks
+
+date: 2025-07-11, from: RTÉ News
+
+Tánaiste Simon Harris and EU Trade Commissioner Maroš Šefčovič spoke by phone last night to discuss the latest developments in the EU-US trade talks. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0711/1523006-tanaiste-speaks-with-maros-sefcovic-on-eu-us-trade-talks/>
+
+---
+
+## ICC warns 'the suffering is beyond words' in Sudan's Darfur
+
+date: 2025-07-11, from: Vatican News
+
+
+                    <p>The International Criminal Court warns of ongoing atrocities in Sudan’s Darfur region, where civilians face famine, violence, and forced displacement.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/icc-warns-the-suffering-is-beyond-words-in-sudan-s-darfur.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/icc-warns-the-suffering-is-beyond-words-in-sudan-s-darfur.html>
+
+---
+
+## Sails of iconic Paris club the Moulin Rouge turn again
+
+date: 2025-07-11, from: RTÉ News
+
+The sails of the windmill on top of Paris' iconic Moulin Rouge cabaret club began to turn again yesterday for the first time since they fell off in 2024. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0711/1523004-moulin-rouge-sails/>
+
+---
+
+## World Kiswahili Language Day celebrated globally as symbol of unity, development
+
+date: 2025-07-11, from: Vatican News
+
+
+                    <p>The world came together to mark World Kiswahili Language Day, celebrating Kiswahili’s role as a unifying force, a cultural emblem, and a global tool for development.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/world-kiswahili-language-day-global-celebration.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/world-kiswahili-language-day-global-celebration.html>
+
+---
+
+## At least 798 killed in 6 weeks near Gaza aid points - UN
+
+date: 2025-07-11, from: RTÉ News
+
+The UN human rights office has said it had recorded at least 798 killings within the past six weeks at aid points in Gaza run by the US- and Israeli-backed Gaza Humanitarian Foundation and near convoys run by other relief groups. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0711/1522993-gaza-israel-un/>
+
+---
+
+## Good Shepherd Sisters visit women in Polish prison ‘to offer hope’
+
+date: 2025-07-11, from: Vatican News
+
+
+                    <p>The Sisters of the Good Shepherd of Divine Providence support detained women both spiritually and concretely, in cooperation with the Krzywaniec Prison Institute in Poland, seeking to offer hope, according to Sr. Krzysztofa Kujawska.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/sisters-project-135-poland-good-shepherd-sisters-prison-women.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/sisters-project-135-poland-good-shepherd-sisters-prison-women.html>
+
+---
+
+## UN reports nearly 800 deaths near Gaza aid hubs, humanitarian convoys in last 6 weeks
+
+date: 2025-07-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7582665.1752235390!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg' alt='A young man carries a box of aid.' width='620' height='349' title='A Palestinian carries a box containing food and humanitarian aid delivered by the Gaza Humanitarian Foundation, a U.S.-backed organization, in Rafah, southern Gaza Strip, Wednesday, June 11, 2025. (AP Photo/Abdel Kareem Hana)'/><p>The UN human rights office said on Friday it had recorded at least 798 killings within the past six weeks at aid points in Gaza run by the U.S.- and Israeli-backed Gaza Humanitarian Foundation and near convoys run by other relief groups.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/un-ghf-aid-hubs-deaths-israel-gaza-1.7582652?cmp=rss>
+
+---
+
+## Faith and service are ‘fuel to sustain Order of Malta for next thousand years’
+
+date: 2025-07-11, from: Vatican News
+
+
+                    <p>Josef Blotz, Grand Hospitaller of the Sovereign Military Order of Malta since February 2025, speaks to Vatican News about the Order’s priorities to help people in areas of conflict like Ukraine and Gaza, while combining spiritual mission with providing humanitarian aid.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/grand-hospitaller-order-malta-josef-blotz-priorities-mission.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/grand-hospitaller-order-malta-josef-blotz-priorities-mission.html>
+
+---
+
+## Bosnia commemorates Srebrenica genocide 30 years on
+
+date: 2025-07-11, from: RTÉ News
+
+Thousands of people are gathering in Srebrenica today to commemorate the genocide committed 30 years ago by Bosnian Serb forces, one of Europe's worst atrocities since World War II. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0711/1522984-srebrenica-genocide/>
+
+---
+
+## Yellow high temperature warning in effect for 14 counties
+
+date: 2025-07-11, from: RTÉ News
+
+A Status Yellow high temperature warning has come into effect for 14 counties. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0711/1522981-high-temperatures/>
+
+---
+
+## Gardaí renew appeal over murder of Antoinette Smith
+
+date: 2025-07-11, from: RTÉ News
+
+Gardaí have renewed their appeal for information into the murder of 27-year-old Antoinette Smith, whose remains were found nearly four decades ago in Co Wicklow 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0711/1522975-murder-antoinette-smith/>
+
+---
+
+## Ukraine strikes kill three in Russia, Ukraine ward hit
+
+date: 2025-07-11, from: RTÉ News
+
+Ukrainian drone and shelling attacks have killed three people in Russia, while Russian bombardments on east Ukraine forced the evacuation of a maternity centre in Kharkiv and wounded nine. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0711/1522969-ukraine-russia-war/>
+
+---
+
+## Oasis to play first Manchester gig in nearly 16 years
+
+date: 2025-07-11, from: RTÉ News
+
+Oasis will play their first gig in their hometown of Manchester in nearly 16 years on Friday. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0711/1522967-oasis-to-play-first-manchester-gig-in-nearly-16-years/>
+
+---
+
+## Dicastery for Divine Worship and the Discipline of the Sacraments
+
+date: 2025-07-11, from: Vatican News
+
+
+                    <p>The Apostolic Constitution ‘Praedicate Evangelium: On the Roman Curia and Its Service to the Church in the World’, promulgated by Pope Francis in 2022, outlines the mission and the duties of each Dicastery.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-divine-worship-and-the-discipline-of-the-sacrament.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-divine-worship-and-the-discipline-of-the-sacrament.html>
+
+---
+
+## Six agents suspended over Trump assassination attempt
+
+date: 2025-07-11, from: RTÉ News
+
+Six Secret Service agents on duty during last year's assassination attempt against Donald Trump at a Pennsylvania campaign rally have received suspensions ranging from 10 to 42 days, the agency said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0711/1522960-secret-service-trump/>
+
+---
+
+## Taylor gunning for victory ahead of third Serrano bout
+
+date: 2025-07-11, from: RTÉ News
+
+For the third time Katie Taylor stepped onto the scales ahead of a world title clash with Amanda Serrano. This time is likely to be their last together. If her arms are raised at the end of another bruising battle, it may just be the sweetest victory of all, writes Paul O'Flynn in New York. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0711/1522956-taylor-preview-boxing/>
+
+---
+
+## Shift in attitudes towards drug addiction, study finds
+
+date: 2025-07-11, from: RTÉ News
+
+The number of people who believe that those who are dependent on drugs only have themselves to blame has fallen by almost half in the past 25 years, dropping from 57% to 30%. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0711/1522946-drug-addiction-study/>
+
+---
+
+## George Gibney due in US court to consent to extradition
+
+date: 2025-07-11, from: RTÉ News
+
+Former Olympic swimming coach George Gibney is due in court in Florida to formally consent to his extradition to Ireland from the United States. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0711/1522958-george-gibney/>
+
+---
+
+## EU 'locked and loaded' to conclude trade deal with US
+
+date: 2025-07-11, from: RTÉ News
+
+The EU said it was ready to strike a deal with the US to avoid severe tariffs, after President Donald Trump sowed doubt over reaching a deal. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0711/1522955-us-canada-tariffs/>
+
+---
+
+## Credit and debit card spending rose by 5.7% in June - BOI
+
+date: 2025-07-10, from: RTÉ News
+
+Credit and debit card spending rose by 5.7% in June compared to the same month last year, according to new figures from Bank of Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0711/1522940-card-spending-boi/>
+
+---
+
+## UK temperatures to hit 33C amid third summer heatwave
+
+date: 2025-07-10, from: RTÉ News
+
+The UK is experiencing its third heatwave of the summer this weekend, with temperatures set to peak at 33C. 
+
+<br> 
+
+<https://www.rte.ie/news/weather/2025/0711/1522948-uk-heatwave/>
 
 ---
 
@@ -45,6 +449,30 @@ A Palestinian woman whose child was brought to Ireland for medical treatment as 
 
 ---
 
+## Trump's praise of Liberian leader's 'good English' prompts eye rolls and frustration
+
+date: 2025-07-10, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7582249.1752177400!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/u-s-president-donald-trump-in-state-dining-room-at-the-white-house.jpg' alt='U.S. President Donald Trump, seen during a lunch with African leaders, in the State Dining Room of the White House.' width='620' height='349' title='U.S. President Donald Trump speaks during a lunch with African leaders in the State Dining Room of the White House, Wednesday, July 9, 2025, in Washington.'/><p>Liberians reacted with a mix of anger and weary resignation on Thursday after discovering that Donald Trump, the leader of their country's closest bilateral partner, does not appear to know what language they speak.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/liberia-reaction-trump-remarks-1.7582221?cmp=rss>
+
+---
+
+## IN PHOTOS | The last 2 children in a Ukrainian village scarred by war
+
+date: 2025-07-10, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7582134.1752206069!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-children-kalynove.JPG' alt='Two boys stand in a building near a brick wall that was been destroyed holding toy guns.' width='620' height='349' title='Brothers Andrii, 8, and Maksym Tupkalenko, 6, two of the last children left in their frontline village, pose for a photo with toy guns, their favorite toys, in Kalynove, Kharkiv region, Ukraine, April 11, 2025. Instead of scampering across playgrounds, the brothers climb through abandoned trenches and charred shells of armoured vehicles that sit on the outskirts of the village, playing soldiers and setting up make-believe checkpoints to vet fellow villagers. &quot;They&apos;re kids afflicted by war,&quot; said their mother Varvara Tupkalenko, 30. REUTERS/Violeta Santos Moura'/><p>Reuters photographer Violeta Santos Moura documents the life of brothers Andrii, 8, and Maksym, 6, who live with their mother in a small village near the frontlines of the war between Russia and Ukraine.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/photos/ukrainian-brothers-photostory-1.7582020?cmp=rss>
+
+---
+
 ## Connolly to declare interest as presidential race hots up
 
 date: 2025-07-10, from: RTÉ News
@@ -54,6 +482,18 @@ The presidential election may be months away, but the electoral campaign will pi
 <br> 
 
 <https://www.rte.ie/news/2025/0710/1522920-analysis-presidential-race/>
+
+---
+
+## Indigenous Services Canada warns 'difficult decisions' in budget cuts will impact programs
+
+date: 2025-07-10, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7582029.1752181622!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/major-projects-bill-20250620.jpg' alt='A woman speaks as a podium as others listen on in the background outside the House of Commons.' width='620' height='349' title='Prime Minister Mark Carney listens as Minister of Indigenous Services Mandy Gull-Masty speaks at a news conference in the Foyer of the House of Commons in Ottawa, after Bill C-5 passed in the House, on June 20.'/><p>Indigenous Services Canada has warned staff that meeting the Carney government's budget cut targets "will involve difficult decisions that will impact our programs and activities, as well as our workforce." Then the next day, the department announced a large internal restructuring.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/indigenous-services-budget-cuts-1.7582002?cmp=rss>
 
 ---
 
@@ -425,6 +865,54 @@ Top UN human rights officials have voiced serious concern over the imposition of
 
 ---
 
+## International Criminal Court: War crimes, systematic sexual violence ongoing in Darfur
+
+date: 2025-07-10, from: United Nations, Top Stories
+
+Systematic rape and sexual violence are being used as weapons of war in Darfur, the International Criminal Court (ICC) warned on Thursday, as part of a widening investigation into what its Deputy Prosecutor said are escalating atrocities against civilians in the conflict-ridden region. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165367>
+
+---
+
+## She fought for the girl the world left behind: Natalia Kanem’s UN legacy
+
+date: 2025-07-10, from: United Nations, Top Stories
+
+When Natalia Kanem reflects on her eight-year tenure at the helm of the UN reproductive health agency, she doesn’t begin with global statistics, boardroom breakthroughs, or even memories of her visits to refugee camps. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165360>
+
+---
+
+## UN warns of record civilian casualties in Ukraine
+
+date: 2025-07-10, from: United Nations, Economic Development
+
+UN agencies on Thursday warned of devastating recent attacks across Ukraine due to Russian strikes, record civilian casualties recorded last month – and growing deprivation facing children under fire across the country. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165366>
+
+---
+
+## UNICEF deplores ‘unconscionable’ killing of families lining up for aid in Gaza
+
+date: 2025-07-10, from: United Nations, Top Stories
+
+The head of the UN Children’s Fund (UNICEF) has voiced deep dismay over the “unconscionable” killing of children during an aid distribution in the central Gaza Strip on Thursday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165365>
+
+---
+
 ## Jane Birkin's original Hermès bag sells at auction for 7 million euros
 
 date: 2025-07-10, from: CBC, World News
@@ -441,7 +929,7 @@ date: 2025-07-10, from: CBC, World News
 
 date: 2025-07-10, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7581594.1752154442!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-un-rights.JPG' alt='A woman with grey hair a large black glasses sits at a table.' width='620' height='349' title='Francesca Albanese, UN special rapporteur on human rights in the Palestinian territories, attends a side event during the Human Rights Council at the United Nations in Geneva, Switzerland on March 26, 2024.'/><p>The United States has imposed sanctions on the United Nations official who investigates human rights abuses in occupied Palestinian territories, the latest effort by the Trump administration to punish those who criticize Israel's war in the Gaza Strip.</p> 
+<img src='https://i.cbc.ca/1.7581594.1752154442!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-un-rights.JPG' alt='A woman with grey hair a large black glasses sits at a table.' width='620' height='349' title='Francesca Albanese, UN special rapporteur on human rights in the Palestinian territories, attends a side event during the Human Rights Council at the United Nations in Geneva, Switzerland on March 26, 2024.'/><p>The United States has imposed sanctions on the United Nations expert who investigates human rights abuses in occupied Palestinian territories, the latest effort by the Trump administration to punish those who criticize Israel's war in the Gaza Strip.</p> 
 
 <br> 
 
@@ -705,11 +1193,11 @@ AIB and Microsoft Ireland have announced the rollout of a suite of artificial in
 
 ---
 
-## Rescuers pluck 4 survivors from the water after Houthi-struck ship sinks in Red Sea
+## More survivors rescued from water 48 hours after brazen Houthi strike sinks Red Sea ship
 
 date: 2025-07-10, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7581506.1752146419!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-yemen-shipping.JPG' alt='A vessel sinking at sea.' width='620' height='349' title='A vessel said to be Greek-operated, Liberia-flagged Eternity C sinks in a footage released by Yemen&apos;s Houthis, in the Red Sea, in this screen grab taken from a handout video released on July 9, 2025.    HOUTHI MEDIA CENTER/Handout via REUTERS    THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY'/><p>Rescuers pulled three more crew members and a security guard alive from the Red Sea on Thursday, maritime security sources said, a day after Houthi militants sank the Greek ship Eternity C and said they were holding some of the crew still missing.</p> 
+<img src='https://i.cbc.ca/1.7581506.1752218875!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-yemen-shipping.JPG' alt='A vessel sinking at sea.' width='620' height='349' title='A vessel said to be Greek-operated, Liberia-flagged Eternity C sinks in a footage released by Yemen&apos;s Houthis, in the Red Sea, in this screen grab taken from a handout video released on July 9, 2025.    HOUTHI MEDIA CENTER/Handout via REUTERS    THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY'/><p>Rescuers pulled three more crew members and a security guard alive from the Red Sea on Thursday, maritime security sources said, a day after Houthi militants sank the Greek ship Eternity C and said they were holding some of the missing crew.</p> 
 
 <br> 
 
@@ -717,11 +1205,11 @@ date: 2025-07-10, from: CBC, World News
 
 ---
 
-## PSNI investigating Co Tyrone bonfire as 'hate incident'
+## Co Tyrone bonfire lit as PSNI investigate 'hate incident'
 
 date: 2025-07-10, from: RTÉ News
 
-The PSNI is investigating the placing of effigies on top of a loyalist bonfire in Co Tyrone as a "hate incident". 
+A loyalist bonfire in Co Tyrone controversially topped with an effigy of migrants in a boat was lit last night. 
 
 <br> 
 

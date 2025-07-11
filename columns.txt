@@ -93,3 +93,5 @@ https://feed.theregister.com/atom?a=Liam%20Proven "~Liam Proven's articles at th
 https://www.michaelmoore.com/feed "~Michael Moore's blog"
 # Frank Bennett is the creator of CSL and CSL Project JavaScript
 https://fgbjr.name/index.xml "~Frank Bennett blog"
+# Prent Rogers, Microtonal music
+http://ripnread.com/sample-page/blog/ "~Prent Rogers"

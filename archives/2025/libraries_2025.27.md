@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-07-10 14:08:10
+updated: 2025-07-11 06:08:34
 ---
 
 # libraries
 
-(date: 2025-07-10 14:08:10)
+(date: 2025-07-11 06:08:34)
+
+---
+
+## The Best Optical Illusions of 2024
+
+date: 2025-07-11, from: Scholarly Kitchen
+
+<p>A good crop of optical illusions win the 2024 contest from the Neural Correlate Society.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/07/11/the-best-optical-illusions-of-2024/">The Best Optical Illusions of 2024</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/07/11/the-best-optical-illusions-of-2024/>
 
 ---
 

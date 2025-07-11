@@ -1,11 +1,26 @@
 ---
 title: small papers
-updated: 2025-07-10 14:08:13
+updated: 2025-07-11 06:08:38
 ---
 
 # small papers
 
-(date: 2025-07-10 14:08:13)
+(date: 2025-07-11 06:08:38)
+
+---
+
+## Man charged with raping 61-year-old woman in Long Beach, attacking two other victims
+
+date: 2025-07-10, from: Long Beach Post
+
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Authorities said the string of crimes took place between April 4 and July 1.</p>
+<p>The post <a href="https://lbpost.com/news/man-charged-with-raping-61-year-old-woman-in-long-beach-attacking-two-other-victims">Man charged with raping 61-year-old woman in Long Beach, attacking two other victims</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/man-charged-with-raping-61-year-old-woman-in-long-beach-attacking-two-other-victims>
 
 ---
 
@@ -13,7 +28,7 @@ updated: 2025-07-10 14:08:13
 
 date: 2025-07-10, from: Long Beach Post
 
-<figure><img width="1024" height="620" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-1024x620.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-1024x620.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-300x182.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-768x465.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-179x108.jpg 179w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-400x242.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="620" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-1024x620.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-1024x620.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-300x182.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-768x465.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-179x108.jpg 179w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-400x242.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The four-acre Cambodia Town park has been closed since April 2024.</p>
 <p>The post <a href="https://lbpost.com/news/parks/macarthur-park-to-reopen-this-month-after-10-5-million-remodel-heres-a-sneak-peek">MacArthur Park to reopen this month after $10.5 million remodel; here&#8217;s a sneak peek</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

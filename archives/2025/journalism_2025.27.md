@@ -1,11 +1,31 @@
 ---
 title: journalism
-updated: 2025-07-10 14:08:09
+updated: 2025-07-11 06:08:33
 ---
 
 # journalism
 
-(date: 2025-07-10 14:08:09)
+(date: 2025-07-11 06:08:33)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-11, from: The Daily Bruin (UCLA Student Newspaper))
+
+Bernardo said Klein should not have responded to the “ambiguous” email request from Giovanny, calling his reply &#8220;disrespectful&#8221; and &#8220;highly insensitive.&#8221; He added that he found a change.org petition calling on UCLA to remove Klein that amassed 21,000 signatures to be “a measure of the reputational damage&#8221; that Klein had done to the school. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/10/490795/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-11, from: The Daily Bruin (UCLA Student Newspaper))
+
+Antonio Bernardo testified Thursday. He said he forwarded an email that included Klein’s response to Brett Trueman and Heather Caruso, who were equity, diversity and inclusion leaders for the UCLA Anderson School of Management at the time. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/10/490791/>
 
 ---
 

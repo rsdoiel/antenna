@@ -1,11 +1,47 @@
 ---
 title: health
-updated: 2025-07-10 14:08:12
+updated: 2025-07-11 06:08:36
 ---
 
 # health
 
-(date: 2025-07-10 14:08:12)
+(date: 2025-07-11 06:08:36)
+
+---
+
+## The global proteome of Streptococcus pneumoniae EF3030 under nutrient-defined in vitro conditions
+
+date: 2025-07-11, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionStreptococcus pneumoniae is a human pathobiont that asymptomatically colonizes the upper respiratory tract but can cause severe diseases such as pneumonia, sepsis, and meningitis, as well as non-invasive infections like otitis media and sinusitis. It thrives in the nutrient-limited environment of the nasopharynx and has evolved mechanisms to manage host-induced stress and regulate protein levels accordingly.MethodsTo investigate the molecular biology of S. pneumoniae under in vitro and infection-relevant conditions, a suitable cultivation medium is essential for reproducible experiments. We, therefore optimized a chemically defined minimal medium that mimics the nutrient-limited conditions of the human nasopharynx. This medium was used to cultivate clinical isolates and other streptococcal species for proteomic analysis.ResultThe optimized medium enhanced growth and shortened the lag phase of S. pneumoniae and related species. Using this medium, we analyzed the global proteome of the pneumococcal colonizing strain EF3030 during its transition from early to late logarithmic growth phase. Distinct changes in protein abundance were observed in functional categories such as metabolism, amino acid synthesis, natural competence, RNA and cell wall synthesis, protein degradation, and stress responses. Notably, proteins involved in DNA uptake and processing—such as choline-binding protein CbpD, competence factors ComGA and ComEA, and ssDNA-binding proteins Dpr and DprA—were more abundant in the late log phase.DiscussionThese findings highlight dynamic proteomic changes associated with pneumococcal adaptation to nutrient-limited conditions and provide insights into the biology of strain EF3030 during colonization. The optimized medium offers a reproducible platform for studying pneumococcal physiology and pathogenesis under defined conditions. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1606161>
+
+---
+
+## Exploratory analysis of potential association between oral Haemophilus and sleep disturbances in major depressive disorder patients
+
+date: 2025-07-11, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe current study aimed to explore the specific oral microbiota profiles in major depressive disorder (MDD) patients with sleep disturbances, and to evaluate the potential mechanisms by which oral microbiota may be implicated in MDD.MethodThirty-eight MDD patients experiencing sleep disturbances and thirty healthy controls (HCs) were included. All MDD patients underwent a 14-day antidepressive treatment regimen. Neuropsychological assessments were conducted, and 16S rRNA sequencing was used to determine the abundance of oral bacteria.ResultsOral genera Solobacterium, Granulicatella, Campylobacter, and Haemophilus showed significant changes in their relative abundances between the MDD and HC groups. Significant correlations were found between the abundance of Haemophilus and Pittsburgh Sleep Quality Index (PSQI) and 24-item Hamilton Depression Scale (HAMD-24) scores in MDD patients with sleep disturbances. In MDD patients, lower relative abundances of oral Haemophilus prior to treatment were negatively correlated with the changed rates of PSQI and HAMD-24 scores after antidepressive treatment. The glial fibrillary acidic protein as the mediator, affected the relationship between the relative abundance of oral Haemophilus and sleep disturbances in MDD patients.ConclusionOral Haemophilus dysbiosis may drive sleep disturbances in MDD patients, possibly through its impact on neuroinflammation. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1617553>
+
+---
+
+## Replication differences of SARS-CoV-2 lineages may arise from unique RNA replication characteristics and nucleocapsid protein expression
+
+date: 2025-07-11, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionThe COVID-19 pandemic was characterized by the sequential introduction and circulation of distinct SARS-CoV-2 variants, which presented differences in transmission capacity and pathogenicity. However, the relationship between these differences and the replicative capacity of these variants remains to be determined. Our research aimed to compare the biological traits of the SARS-CoV-2 lineages B.1.1.33, and variants Zeta (P.2), Gamma (P.1/P.1.*), Delta (B.1.617.2/AY.*), and Omicron (BA.1).MethodsWe employed three different cellular models susceptible to viral infection to demonstrated the differences in virus binding, entry and total RNA production through RT-qPCR assay and viral infectious progeny by plaque assay. The RNA replication was evaluated by dsRNA immunofluorescence and the viral protein production by western blotting analysis. NGS and RT-qPCR analysis were also used in competition experiments to verify the viral variants dynamic in cell culture.ResultsWe found that the differences in viral replication varied according to the cell type, with Omicron BA.1 exhibiting the lowest replication capacity in human pulmonary cells. Additionally, we demonstrated the occurrence of nucleocapsid proteoforms generated during infection and differences in size and number of sites of viral RNA replication for each virus.ConclusionThese data suggest that factors beyond the initial stages of virus entry influence the efficiency of viral replication among different SARS-CoV-2 variants. Thus, our study underscores the significance of RNA replication and the role of nucleocapsid proteins in shaping the replicative characteristics of SARS-CoV-2 variants. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1582137>
 
 ---
 

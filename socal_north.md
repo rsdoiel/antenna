@@ -1,11 +1,172 @@
 ---
 title: socal north
-updated: 2025-07-10 14:08:04
+updated: 2025-07-11 06:08:28
 ---
 
 # socal north
 
-(date: 2025-07-10 14:08:04)
+(date: 2025-07-11 06:08:28)
+
+---
+
+## Why PAC-MAN is back in Irvine, with a new adventure and a brand new game
+
+date: 2025-07-11, updated: 2025-07-11, from: The LAist
+
+Irvine is the home base for PAC-MAN, and a new exhibit offers an opportunity to brush up on your ghost-gobbling skills in anticipation for the newest game release. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/pac-man-at-the-great-park-irvine-shadow-labyrinth>
+
+---
+
+## Protesters and federal agents clash during raid at Camarillo farm
+
+date: 2025-07-11, updated: 2025-07-11, from: The LAist
+
+A confrontation erupted Thursday between protesters and federal officials carrying out a raid, with authorities throwing canisters to disperse the crowd. 
+
+<br> 
+
+<https://laist.com/news/protesters-and-federal-agents-clash-during-raid-at-camarillo-farm>
+
+---
+
+## How an old failed circus town decided the fate of this westside neighborhood
+
+date: 2025-07-11, updated: 2025-07-11, from: The LAist
+
+Before L.A. had Del Rey, it was the short-lived Barnes City, home of a traveling circus. 
+
+<br> 
+
+<https://laist.com/news/la-history/la-culver-city-del-rey-barnes-city-westside-circus>
+
+---
+
+## Altadena thrift store reopens after Eaton Fire: "It’s a bit of hope, a bit of normal"
+
+date: 2025-07-11, updated: 2025-07-11, from: The LAist
+
+Full Circle Thrift, a nonprofit thrift store in Altadena, reopened this week, six months after the Eaton Fire devastated the neighborhood. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/altadena-thrift-store-reopens-after-eaton-fire>
+
+---
+
+## A new state law requires bars to provide lids to deter drink tampering
+
+date: 2025-07-11, updated: 2025-07-11, from: The LAist
+
+With the growing awareness of the dangers of spiked drinks, both businesses and customers say they're generally supportive of the law. 
+
+<br> 
+
+<https://laist.com/news/food/drink-lids-bars-california-law>
+
+---
+
+## For one Vietnamese family in LA, this broth is rich with memories of life after war
+
+date: 2025-07-11, updated: 2025-07-11, from: The LAist
+
+Miến gà, a chicken and glass noodle soup, is comfort in a bowl for many in the Vietnamese diaspora. 
+
+<br> 
+
+<https://laist.com/news/food/vietnamese-broth-carries-family-history>
+
+---
+
+## Watch: Advice on rebuilding after fires — from people who've lived it
+
+date: 2025-07-11, updated: 2025-07-11, from: The LAist
+
+Six months after the Eaton and Palisades fires, survivors and experts offer advice and perspective at an LAist event. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/advice-on-rebuilding-after-fires>
+
+---
+
+## Review commissioned by LA homeless agency clears CEO of conflict related to contracts with husband’s employer
+
+date: 2025-07-11, updated: 2025-07-11, from: The LAist
+
+LAist reported that documents showed Va Lecia Adams Kellum signed a contract and two amendments with Upward Bound House, a Santa Monica-based nonprofit. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/investigation-clears-la-top-homelessness-official-of-conflict-of-interest-related-to-contracts-with-husbands-employer>
+
+---
+
+## LA and San Francisco transit agencies feud ahead of Dodgers-Giants series
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+Caltrain poked fun at L.A.'s car-centric reputation. Metro clapped back with the equivalent of a "Score-board!" chant. 
+
+<br> 
+
+<https://laist.com/news/transportation/dodgers-giants-oracle-park-dodger-stadium-la-metro-caltrain>
+
+---
+
+## Man charged with raping 61-year-old woman in Long Beach, attacking two other victims
+
+date: 2025-07-10, from: Longbeach Post
+
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/10151923/marbra-booking-photo-776517-hllh4yy3-163798-RE2yx84O.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Authorities said the string of crimes took place between April 4 and July 1.</p>
+<p>The post <a href="https://lbpost.com/news/man-charged-with-raping-61-year-old-woman-in-long-beach-attacking-two-other-victims">Man charged with raping 61-year-old woman in Long Beach, attacking two other victims</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/man-charged-with-raping-61-year-old-woman-in-long-beach-attacking-two-other-victims>
+
+---
+
+## Bill to provide descendants of slavery preference in college admissions moves forward
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+Assembly Bill 7, which would allow colleges and universities to give preference to students who are descendants of slavery, cleared the Senate Education Committee. 
+
+<br> 
+
+<https://laist.com/news/education/bill-to-provide-descendants-of-slavery-preference-in-college-admissions-moves-forward>
+
+---
+
+## Celebrating 35 Years of Music Under the Stars with Concerts in the Park
+
+date: 2025-07-10, from: City of Santa Clarita
+
+<p>By Councilmember Jason Gibbs There are summer traditions, and then there are Santa Clarita summer legends. For 35 years now, families, friends, neighbors and music lovers alike have gathered under the open skies of Central Park (27150 Bouquet Canyon Road) to experience something truly special: Concerts in the Park, presented by Logix Federal Credit Union. [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/10/celebrating-35-years-of-music-under-the-stars-with-concerts-in-the-park/">Celebrating 35 Years of Music Under the Stars with Concerts in the Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/10/celebrating-35-years-of-music-under-the-stars-with-concerts-in-the-park/>
+
+---
+
+## Searching for a loved one in ICE custody? Here’s what you need to know
+
+date: 2025-07-10, updated: 2025-07-10, from: The LAist
+
+Knowing how to find someone detained by ICE and access immigration resources is vital. 
+
+<br> 
+
+<https://laist.com/news/politics/searching-for-a-loved-one-in-ice-custody-heres-what-you-need-to-know>
 
 ---
 
@@ -47,9 +208,9 @@ On Sunday, the chatbot was updated to "not shy away from making claims which are
 
 ## Medical examiner finds ‘animal activity’ happened after deaths at LA homeless camp
 
-date: 2025-07-10, updated: 2025-07-10, from: The LAist
+date: 2025-07-10, updated: 2025-07-11, from: The LAist
 
-Two people who were found dead in a homeless camp in Westlake by a family member who said she saw her mother's dead body being eaten by dogs. The L.A. County Medical Examiner's office determined the two died of an accidental overdose of fentanyl and methamphetamine. 
+Two people were found dead in a homeless camp in Westlake by a family member who said she saw her mother's dead body being eaten by dogs. The L.A. County Medical Examiner's office determined the two died of an accidental overdose of fentanyl and methamphetamine. 
 
 <br> 
 
@@ -161,7 +322,7 @@ The Tryst Alternative Art Fair takes over Torrance, big comedy names hit the Bel
 
 date: 2025-07-10, from: Longbeach Post
 
-<figure><img width="1024" height="620" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-1024x620.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-1024x620.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-300x182.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-768x465.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-179x108.jpg 179w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-400x242.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="620" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-1024x620.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-1024x620.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-300x182.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-768x465.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-179x108.jpg 179w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ-400x242.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/07165815/07jul25-park-2-965047-2blqy9dm-528526-MNtfZdLJ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The four-acre Cambodia Town park has been closed since April 2024.</p>
 <p>The post <a href="https://lbpost.com/news/parks/macarthur-park-to-reopen-this-month-after-10-5-million-remodel-heres-a-sneak-peek">MacArthur Park to reopen this month after $10.5 million remodel; here&#8217;s a sneak peek</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -199,6 +360,18 @@ date: 2025-07-10, from: Longbeach Post
 
 ---
 
+## How vertical dramas are reshaping Hollywood’s job market
+
+date: 2025-07-10, updated: 2025-07-11, from: The LAist
+
+With the entertainment industry still hurting from the pandemic and strikes, young filmmakers are finding work making bingeable micro dramas designed to be watched on phones. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/how-vertical-dramas-are-reshaping-hollywoods-job-market>
+
+---
+
 ## Fewer people on streets, in shelters after getting LA County homelessness prevention help
 
 date: 2025-07-10, updated: 2025-07-10, from: The LAist
@@ -208,18 +381,6 @@ A new study finds promising early results from a program that tries to find and 
 <br> 
 
 <https://laist.com/news/housing-homelessness/los-angeles-county-homelessness-prevention-unit-california-policy-lab-study>
-
----
-
-## How vertical dramas are reshaping Hollywood’s job market
-
-date: 2025-07-10, updated: 2025-07-10, from: The LAist
-
-With the entertainment industry still hurting from the pandemic and strikes, young filmmakers are finding work making bingeable micro dramas designed to be watched on phones. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/how-vertical-dramas-are-reshaping-hollywoods-job-market>
 
 ---
 

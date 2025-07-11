@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-07-10 14:08:06
+updated: 2025-07-11 06:08:31
 ---
 
 # science and technology
 
-(date: 2025-07-10 14:08:06)
+(date: 2025-07-11 06:08:31)
+
+---
+
+## More license upheaval to come after SAP kills RISE with SAP products, users warn
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>Intro of package for cloud ERP is creating challenges, and more changes likely next year</h4> <p>Biz customers should expect further changes to SAP&#39;s licensing as the company introduces the reboot of its Business Suite construct into its product packages, the German-speaking user group has warned.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/more_license_upheaval_to_come/>
+
+---
+
+## Telefónica Germany offloads VMware support to Spinnaker due to high renewal costs
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>&#39;Our offer from Broadcom was five times higher than we expected&#39;</h4> <p>The German arm of telecoms biz Telefónica has shifted support for its VMware installed base to Spinnaker after Broadcom quoted it a renewal figure five times the size of what it was previously paying.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/telefnica_germany_shifts_vmware_support/>
+
+---
+
+## Hubble Snaps Galaxy Cluster’s Portrait
+
+date: 2025-07-11, from: NASA breaking news
+
+A massive, spacetime-warping cluster of galaxies is the setting of today’s NASA/ESA Hubble Space Telescope image. The galaxy cluster in question is Abell 209, located 2.8 billion light-years away in the constellation Cetus (the Whale). This Hubble image of Abell 209 shows more than a hundred galaxies, but there’s more to this cluster than even […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-snaps-galaxy-clusters-portrait/>
+
+---
+
+## UK Online Safety Act 'not up to scratch' on misinformation, warn MPs
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>Last summer&#39;s riots show how some content can be harmful but not illegal</h4> <p>The Online Safety Act fails to tackle online misinformation, leaving the UK in need of further regulation to curb the viral spread of false content, a report from MPs has found.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/online_safety_act_misinfo/>
+
+---
+
+## Microsoft offers EU cloud providers fresh commercial terms, staves off risk of litigation
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>Agreement or otherwise expected from CISPE top brass before August</h4> <p><strong>Exclusive</strong>  Microsoft has tabled a fresh set of commercial terms for an association of cloud providers in Europe that earlier filed a complaint with antitrust authorities in the trading bloc over allegations of anti-competitive licensing practices.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/microsoft_offers_eu_cloud_providers/>
+
+---
+
+## Security company hired a used car salesman to build a website, and it didn't end well
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>First came the dodgy lawyer, then the explosively angry HR person, leaving a whistleblower techie to save his career</h4> <p><strong>On Call</strong>  Welcome once again to On Call, <em>The Register</em>&#39;s Friday column that shares your stories of tech support terror and triumph.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/on_call/>
+
+---
+
+## French cops cuff Russian pro basketball player on ransomware charges
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>&#39;He&#39;s useless with computers and can&#39;t even install an application&#39; says lawyer</h4> <p>A Russian professional basketball player is cooling his heels in a French detention center after being arrested and accused of acting as a negotiator for a ransomware gang.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/french_ransomware_arrest/>
+
+---
+
+## Chinese censorship-busters claim Tencent is trying to kill its WeChat archive
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>Alleges Singaporean infosec outfit sent feeble legal demands to hosting company, which caved</h4> <p>Anti-censorship organization GreatFire.org has accused Singapore infosec outfit Group-IB of helping Chinese web giant Tencent to quell its activities.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/greatfire_alleges_tencent_legal_attack/>
+
+---
+
+## China's biggest car rental company now offers autonomous cars
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>Three-seater from Baidu delivers itself, follows directions, then finds its way home</h4> <p>China’s largest car rental operator, Car Inc., now rents autonomous cars.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/zuchen_baidu_apollo_car_rental/>
+
+---
+
+## Curiosity Blog, Sols 4593-4594: Three Layers and a Lot of Structure at Volcán Peña Blanca
+
+date: 2025-07-11, from: NASA breaking news
+
+Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Monday, July 7, 2025 A few planning sols ago, we spotted a small ridge in the landscape ahead of us. Ridges and structures that are prominently raised above the landscape are our main target along this part of […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4593-4594-three-layers-and-a-lot-of-structure-at-volcan-pena-blanca/>
+
+---
+
+## Lovestruck US Air Force worker admits leaking secrets on dating app
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>Oh my sweet secret informant lover, what happened in that NATO meeting today?</h4> <p>A lovestruck US Air Force employee has pleaded guilty to conspiring to transmit confidential national defense information after sharing military secrets information about the Russia-Ukraine war with a woman he met on a dating app.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/airman_admits_dating_app_leaks/>
+
+---
+
+## Now everybody but Citrix agrees that CitrixBleed 2 is under exploit
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>Add CISA to the list</h4> <p>The US Cybersecurity and Infrastructure Security Agency has added its weighty name to the list of parties agreeing that CVE-2025-5777, dubbed CitrixBleed 2 by one researcher, has been under exploitation and abused to hijack user sessions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/cisa_citrixbleed_kev/>
+
+---
+
+## Intel's leaders have stopped pretending – and it's about time
+
+date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+
+<h4>Not even in the top 10, CEO Lip-Bu Tan reportedly tells employees</h4> <p><strong>Comment</strong>  Pat Gelsinger&#39;s tenure as Intel&#39;s chief executive was epitomized by his unwavering optimism and ambitious plan to return the ailing chipmaker to its former glory. His successor has no such delusions of grandeur.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/10/intel_ceo_offers_reality_check/>
+
+---
+
+## Thread: the tech we can’t use or teach
+
+date: 2025-07-10, from: OS News
+
+There&#8217;s quite a few ways to mess around with home automation, with the most popular communication methods being things like ZigBee, plain Wi-Fi, and so on. One of the more promising new technologies is Thread, and Dennis Schubert decided to try and use it for a new homebrew project he was working on. After diving into the legalese of the matter, though, he discovered that Thread is a complete non-starter due to excessive mandatory membership fees without any exceptions for non-commercial use. To summarize: if you’re a hobbyist without access to some serious throwaway money to join the Thread Group, there is no way to use Thread legally &#8211; the license does not include an exception for non-commercial uses. If you’re like me and want to write a series of blog posts about how Thread works, there’s also no legal way. A commercial membership program for technology stacks like Thread isn’t new; it’s somewhat common in that space. Same with requiring certifications for your commercial products if you want to use a logo like the “Works with Thread” banner. And that’s fine with me. If you’re selling a commercial electronics product, you have to go through many certification processes anyway, so that seems fair. But having a blanket ban on implementations, even for non-commercial projects, is absolutely bonkers. This means that no hobbyist should ever get close to it, and that means that the next generation of electrical engineers and decision-makers don’t get to play around with the tech before they enter the industry. But of course, that doesn’t really matter to the Thread Group:&#160;their members list&#160;includes companies like Apple, Google, Amazon, Nordic, NXP, and Qualcomm &#8211; they can just&#160;force&#160;Thread into being successful by making sure it’s shipped in the most popular “home hubs”. So it’s just us that get screwed over. Anyway, if you planned to look at Thread… well, don’t. You’re not allowed to use it. ↫ Dennis Schubert So you can buy Thread dev kits to create your own devices at home, but even such non-commercial use is not allowed. The situation would be even more complex for anyone trying to sell a small batch of fun devices using Thread, because they&#8217;d first have to fork over the exorbitant yearly membership fee. What this means is that Thread is a complete non-starter for anyone but an established name, which is probably exactly why the big names are pushing it so hard. They want to control our home automation just as much as everything else, and it seems like Thread is their foot in the door. Be advised. 
+
+<br> 
+
+<https://www.osnews.com/story/142751/thread-the-tech-we-cant-use-or-teach/>
 
 ---
 
@@ -263,9 +431,9 @@ date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
 
 ## NCA arrests four in connection with UK retail ransomware attacks
 
-date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+date: 2025-07-10, updated: 2025-07-11, from: The Register (UK I.T. News)
 
-<h4>Crimefighting agency cagey on details, probes into intrusions at M&amp;S, Harrods, and Co-op continue</h4> <p>The UK&#39;s National Crime Agency (NCA) arrested four individuals suspected of being involved in the big three cyberattacks on UK retail businesses in recent weeks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Crime-fighting agency cagey on details, probes into intrusions at M&amp;S, Harrods, and Co-op continue</h4> <p>The UK&#39;s National Crime Agency (NCA) arrested four individuals suspected of being involved in the big three cyberattacks on UK retail businesses in recent weeks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -285,11 +453,11 @@ date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
 
 ---
 
-## Outlook takes another sick day – Microsoft says it'll get better soon, promise
+## Outlook takes another sick day
 
 date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
 
-<h4>12 hours, millions of users disrupted, mailbox infrastructure blamed</h4> <p>Microsoft Outlook is down for the count in a major outage affecting millions of users worldwide for the past 11 hours.…</p> 
+<h4>Millions of users disrupted, mailbox infrastructure blamed</h4> <p><strong>updated</strong>  Microsoft Outlook was down for the count in a major outage affecting millions of users worldwide for the more than 11 hours.…</p> 
 
 <br> 
 

@@ -1,11 +1,63 @@
 ---
 title: north america
-updated: 2025-07-10 14:08:03
+updated: 2025-07-11 06:08:28
 ---
 
 # north america
 
-(date: 2025-07-10 14:08:03)
+(date: 2025-07-11 06:08:28)
+
+---
+
+## Undaunted in calling out the worst Supreme Court in modern times
+
+date: 2025-07-11, from: The Contrarian
+
+KBJ won&#8217;t allow accept its pretense of impartiality 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-in-calling-out-the-worst>
+
+---
+
+## Evening Roundup, July 10
+
+date: 2025-07-10, from: The Contrarian
+
+Featuring "The Tea" with April Ryan, "Cutting USAID will kill millions," Josh Levs, David Bernell and Thomas Graham, Reginald T. Jackson, Jeff Nesbit, Shalise Manza Young, and RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-10>
+
+---
+
+## Cutting USAID will kill millions
+
+date: 2025-07-10, from: The Contrarian
+
+USAID is the best of America. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168030952/00a7ade8dca402e7ed70643e82f95c76.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168030952/00a7ade8dca402e7ed70643e82f95c76.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/cutting-usaid-will-kill-millions>
+
+---
+
+## The Tea w/ April Ryan ft. L.A. Mayor Bass and Rev. Shavon Arline-Bradley
+
+date: 2025-07-10, from: The Contrarian
+
+A recording from The Contrarian's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167925626/a20591084cdba356525267471136c65a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167925626/a20591084cdba356525267471136c65a.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-tea-w-april-ryan-ft-la-mayor>
 
 ---
 

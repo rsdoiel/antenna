@@ -1,11 +1,163 @@
 ---
 title: going electric
-updated: 2025-07-10 14:08:12
+updated: 2025-07-11 06:08:37
 ---
 
 # going electric
 
-(date: 2025-07-10 14:08:12)
+(date: 2025-07-11 06:08:37)
+
+---
+
+## Major electric bike maker recalls thousands of e-bikes after fork defect found
+
+date: 2025-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/giant-recall-lead.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Giant Bicycle, a leading force in the bicycle industry, has issued a safety recall for thousands of its e-bikes due to a potentially dangerous defect that could cause the front fork to break.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="424399" href="https://electrek.co/2025/07/11/major-electric-bike-maker-recalls-thousands-of-e-bikes-after-fork-defect-found/#more-424399" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/11/major-electric-bike-maker-recalls-thousands-of-e-bikes-after-fork-defect-found/>
+
+---
+
+## Munro Vehicles completes validation testing of its M Series 4×4 EVs with $23M in orders
+
+date: 2025-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/4x4-EVs-Munro.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Series M, the all-electric off-road centric model from Scottish startup <a href="https://electrek.co/guides/munro/">Munro Vehicles</a>, is on the cusp of prototype validation before reaching customers. With a new chairperson in place, Munro says it has over £17 million in preliminary orders for its unique 4×4 EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="424273" href="https://electrek.co/2025/07/11/munro-vehicles-completes-validation-testing-of-its-m-series-4x4-evs-with-23m-in-orders/#more-424273" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/11/munro-vehicles-completes-validation-testing-of-its-m-series-4x4-evs-with-23m-in-orders/>
+
+---
+
+## July 2025 Prime Day Green Deals hub – power stations, EVs, tools, appliances, more
+
+date: 2025-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Amazon-Prime-Day_ev_f9a8f9.png?w=1600" /></div><p>We’re in the final hours of the seasonal 2025 Prime Day Sale, with quite a collection of amazing <a href="https://9to5toys.com/guides/green-deals/">Green Deals and more</a> having been built up over the last few days. The savings train is gearing up to pull out of the station, so if you’ve been sitting on decisions, now’s the right time to jump on the savings while they last. Some deals will end with the day, while others will continue through the weekend and beyond. Don’t miss out on the price cuts on EVs, power stations, electric tools, eco-friendly appliances, and much more – especially with so many at their lowest rates. Everything is curated below for all your one-stop shopping pleasure, giving you some of the best deals of the year. We will continue to update this hub through the event’s end time and the weekend, so get those orders in while you can so you can electrify your life at the best possible prices!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="424416" href="https://electrek.co/2025/07/11/july-2025-prime-day-green-deals-hub-power-stations-evs-tools-appliances-more/#more-424416" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/11/july-2025-prime-day-green-deals-hub-power-stations-evs-tools-appliances-more/>
+
+---
+
+## Chinese Cars Were A Laughingstock. Now They're Dominating Safety Charts
+
+date: 2025-07-11, from: Inside EVs News
+
+Crash tests reveal what nobody could imagine a decade ago: Chinese-made cars are now some of the safest out there. 
+
+<br> 
+
+<https://insideevs.com/news/765522/chinese-cars-safety-rating-evs/>
+
+---
+
+## This is the fun electric moped Harley‑Davidson designed and almost built
+
+date: 2025-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2020/01/Harley-Davidsn-electric-scooter-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Sleek, street-legal, and brimming with potential, it was a concept that looked like the perfect entry point into urban electric mobility for youthful riders and city commuters alike. With Harley’s branding, a slick removable battery for easy charging, and design filings that showed a nearly production-ready machine, this could’ve been a breakout moment in light electric vehicles. But instead, it was shelved, leaving a gaping hole in a market that’s now bursting with demand for just this kind of ride.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-mopeds,electric-motorcycle,livewire" data-layer-viewtype="unknown" data-post-id="424388" href="https://electrek.co/2025/07/11/this-is-the-fun-electric-moped-harley%e2%80%91davidson-designed-and-almost-built/#more-424388" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/11/this-is-the-fun-electric-moped-harley%e2%80%91davidson-designed-and-almost-built/>
+
+---
+
+## Royal Enfield’s upcoming electric motorcycle will be its most powerful bike ever
+
+date: 2025-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/11/royal-enfield-him-e-motorbike-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Royal Enfield, the iconic Indian motorcycle brand known for its timeless designs and rugged charm, is gearing up to make a big splash in the electric motorcycle world. And not with a quiet whimper—its first performance-oriented electric model is set to become the most powerful motorcycle the company has ever produced.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle" data-layer-viewtype="unknown" data-post-id="424411" href="https://electrek.co/2025/07/11/royal-enfields-upcoming-electric-motorcycle-will-be-its-most-powerful-bike-ever/#more-424411" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/11/royal-enfields-upcoming-electric-motorcycle-will-be-its-most-powerful-bike-ever/>
+
+---
+
+## Club Car’s 25 MPH ‘living room on wheels’ microcar just went modern
+
+date: 2025-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/11/club-car-cru-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Club Car’s eye-catching electric microcar, the CRU, just got a serious tech upgrade that threatens to tow it into the modern EV era.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="golf-carts,nevs" data-layer-viewtype="unknown" data-post-id="424408" href="https://electrek.co/2025/07/11/club-cars-25-mph-living-room-on-wheels-microcar-just-went-modern/#more-424408" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/11/club-cars-25-mph-living-room-on-wheels-microcar-just-went-modern/>
+
+---
+
+## BMW Gambled On EVs And People Were Mad. But The Gamble Worked
+
+date: 2025-07-11, from: Inside EVs News
+
+Haters said the German group was doomed for investing in EVs. The sales numbers say otherwise. 
+
+<br> 
+
+<https://insideevs.com/news/765503/bmw-ev-phev-sales-q2-h2-2025/>
+
+---
+
+## Police could soon punish parents for teens running amok on e-bikes
+
+date: 2025-07-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/08/electra-ponto-go-e-bike-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In what could be a sign of a broader wave of tightening regulation on illicit electric bike activity, one New York town plans to start punishing parents when their underage kids commit e-bike infractions.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="424386" href="https://electrek.co/2025/07/10/police-could-soon-punish-parents-for-teens-running-amok-on-e-bikes/#more-424386" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/10/police-could-soon-punish-parents-for-teens-running-amok-on-e-bikes/>
+
+---
+
+## First Solar taps quantum dots to supercharge its solar panels
+
+date: 2025-07-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/UbiQD_Quantum_dots_glowing_with_various_colors_in_vials.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Arizona-based <a href="https://www.firstsolar.com/" target="_blank" rel="noreferrer noopener">First Solar</a> has signed an agreement with quantum dot nanotechnology developer UbiQD (“ubiquity”) to bring quantum dots (QD) into its thin film bifacial solar panels. The multi-year deal could be a big leap forward for boosting solar efficiency.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="424371" href="https://electrek.co/2025/07/10/first-solar-quantum-dots-ubiqd-panels/#more-424371" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/10/first-solar-quantum-dots-ubiqd-panels/>
 
 ---
 
@@ -13,7 +165,7 @@ updated: 2025-07-10 14:08:12
 
 date: 2025-07-10, from: Inside EVs News
 
-Once-troubled Cadillac has become America's number one luxury EV brand. and it's not slowing down just because it's ahead. 
+Once-troubled Cadillac has become America's number one luxury EV brand. And it's not slowing down just because it's ahead. 
 
 <br> 
 

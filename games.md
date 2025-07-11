@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-07-10 14:08:08
+updated: 2025-07-11 06:08:33
 ---
 
 # games
 
-(date: 2025-07-10 14:08:08)
+(date: 2025-07-11 06:08:33)
+
+---
+
+## Tony Hawk’s Pro Skater 3 and 4 is only half a remaster (and that’s great)
+
+date: 2025-07-11, updated: 2025-07-10, from: Polygon Website
+
+Tony Hawk’s Pro Skater 3 and 4 is both a bolder and more conservative sequel to its 2020 predecessor. In the nearly five years that have passed since Vicarious Visions remastered Pro Skater and Pro Skater 2, new developer Iron Galaxy has stepped in to remaster 3 and 4, adding a few ideas of its [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/612450/thps-tony-hawks-pro-skater-3-4-remaster-review>
+
+---
+
+## A long-delayed sci-fi movie just got dumped on Hulu — now it’s a hidden gem
+
+date: 2025-07-11, updated: 2025-07-11, from: Polygon Website
+
+During a routine scroll through Hulu’s Newly Added Movies feed, surrounded by Treasure Planet, 28 Weeks Later, and other typical licensed library additions, I spotted a film I had genuinely never heard of before. This is a rare case for me: I would never claim to have seen every new movie that winds up on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/612434/long-distance-review-hulu>
+
+---
+
+## Ghost of Yōtei brings back Kurosawa Mode, adds new presentations inspired by more great Japanese directors
+
+date: 2025-07-10, updated: 2025-07-10, from: Polygon Website
+
+Sucker Punch Productions shared an extended look at PlayStation 5 game Ghost of Yōtei on Thursday during Sony’s Yōtei-specific State of Play. It offered future ghosts more details about Atsu’s weapons, her journey across Ezo, and new and returning presentation modes. Ghost of Tsushima’s Kurosawa Mode was a wonderful homage to the great Akira Kurosawa, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/603401/ghost-of-yotei-ps5-gameplay-trailer-state-of-play>
+
+---
+
+## Superman’s post-credits scenes are so dumb, they feel like a gag aimed at Marvel
+
+date: 2025-07-10, updated: 2025-07-10, from: Polygon Website
+
+James Gunn’s Superman isn’t the first project released in the new DC cinematic universe he and DC co-chair/CEO Peter Safran are building —&#160;that honor went to Creature Commandos in late 2024. But Superman is certainly a decisive moment for the new DCU, both a statement of intent for DC’s new tone, and a big, splashy [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/611906/supermans-post-credits-scenes-are-so-dumb-they-feel-like-a-gag-aimed-at-marvel>
+
+---
+
+## Who is Maxwell Lord and why is he funding the Justice Gang in James Gunn’s Superman?
+
+date: 2025-07-10, updated: 2025-07-10, from: Polygon Website
+
+James Gunn’s Superman is a reset for the DC Comics Universe on the big screen, moving away from Zack Snyder’s portrayal of superheroes as godlike beings, and favoring a sillier world where metahumans are commonplace. That includes the Justice Gang, a questionably named superhero squad funded by billionaire Maxwell Lord. His name is referenced several [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/612238/maxwell-lord-explained-superman-justice-gang-james-gunn>
 
 ---
 

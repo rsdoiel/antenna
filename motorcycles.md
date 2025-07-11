@@ -1,11 +1,84 @@
 ---
 title: motorcycles
-updated: 2025-07-10 14:08:11
+updated: 2025-07-11 06:08:35
 ---
 
 # motorcycles
 
-(date: 2025-07-10 14:08:11)
+(date: 2025-07-11 06:08:35)
+
+---
+
+## Kentucky Makes UTVs Street-Legal, Here’s Everything You Need to Know
+
+date: 2025-07-11, from: Ride Apart, Electric Motorcycle News
+
+But hold your horses, they don’t exactly get the same road-going privileges as your car or pickup truck. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/765351/kentucky-utv-street-legal-explainer/>
+
+---
+
+## Ruroc Has Some New DC Superhero Liveries for the Nerds in the Group
+
+date: 2025-07-11, from: Ride Apart, Electric Motorcycle News
+
+Is there a bit of nerd in all us bikers? 
+
+<br> 
+
+<https://www.rideapart.com/news/765323/ruroc-dc-superhero-liveries-helmets/>
+
+---
+
+## Here's CFMoto's All-Electric Dirt Bike Way Before You're Supposed to See It
+
+date: 2025-07-11, from: Ride Apart, Electric Motorcycle News
+
+Teased at EICMA, we dug up far more on the all electric dirt bike.  
+
+<br> 
+
+<https://www.rideapart.com/news/765326/cfmoto-electric-ev-dirt-bike-patent-cfx/>
+
+---
+
+## It’s Not Hard to Sell Your Side-By-Side, But Don’t Do This
+
+date: 2025-07-11, from: Ride Apart, Electric Motorcycle News
+
+No seriously, there are better ways. 
+
+<br> 
+
+<https://www.rideapart.com/news/765321/its-not-hard-to-sell-your-side-by-side-dos-and-donts/>
+
+---
+
+## This Honda Isn't An ADV160 or a PCX, But a Secret Third Thing We Can't Have
+
+date: 2025-07-11, from: Ride Apart, Electric Motorcycle News
+
+The touring version gets all kinds of touring amenities you don't usually see on scooters, too. 
+
+<br> 
+
+<https://www.rideapart.com/news/765191/wuyang-honda-nwg150-scooter-details/>
+
+---
+
+## ARCA Menards West Series: 2025 Sonoma Raceway Preview
+
+date: 2025-07-11, from: Kickin the Tires blog
+
+By Vincent Delforge, Staff Writer We&#8217;re already halfway through the 2025 ARCA Menards West Series season. This Friday, July 11, the traditional Californian summer stage will take place in Sonoma,&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/arca-menards-west-series-2025-sonoma-raceway-preview/>
 
 ---
 

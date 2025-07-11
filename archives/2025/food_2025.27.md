@@ -1,11 +1,137 @@
 ---
 title: food
-updated: 2025-07-10 14:08:13
+updated: 2025-07-11 06:08:37
 ---
 
 # food
 
-(date: 2025-07-10 14:08:13)
+(date: 2025-07-11 06:08:37)
+
+---
+
+## Weekly Coffee News: Cup of Excellence Milestone + A Matcha Shortage?
+
+date: 2025-07-11, from: Daily Coffee News
+
+<div><img width="620" height="423" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/spirit-animal-coffee-tasting-620x423.jpg" class="attachment-large size-large wp-post-image" alt="spirit-animal-coffee-tasting" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/spirit-animal-coffee-tasting-620x423.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/spirit-animal-coffee-tasting-300x205.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/spirit-animal-coffee-tasting-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/spirit-animal-coffee-tasting-768x524.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/spirit-animal-coffee-tasting.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. &#160; Honduras CoE-Winning Coffees Stay Home In a landmark... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/11/weekly-coffee-news-cup-of-excellence-milestone-a-matcha-shortage/>
+
+---
+
+## We're Spying Up to 77% Off Great Prime Day Kitchen Deals
+
+date: 2025-07-11, from: Bon Appetet
+
+Don’t miss these Prime Day deals. We're talking up to $200 off all your kitchen needs. 
+
+<br> 
+
+<https://www.bonappetit.com/story/amazon-prime-day-kitchen-deals-2025-07-11>
+
+---
+
+## Pure Devil Juice Hot Sauce
+
+date: 2025-07-11, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/pure-devil-juice/" title="Pure Devil Juice Hot Sauce" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pure-Devil-Juice-Hot-Sauce-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mike holding a bottle of fiery Pure Devil Juice hot sauce" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pure-Devil-Juice-Hot-Sauce-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pure-Devil-Juice-Hot-Sauce-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pure-Devil-Juice-Hot-Sauce-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pure-Devil-Juice-Hot-Sauce-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pure-Devil-Juice-Hot-Sauce-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pure-Devil-Juice-Hot-Sauce-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pure-Devil-Juice-Hot-Sauce-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This homemade hot sauce recipe brings a mix of sinister umami, earthy sweet, and vibrant heat for big, bold flavor that lingers like the devil's kiss.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/pure-devil-juice/">Pure Devil Juice Hot Sauce</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/pure-devil-juice/>
+
+---
+
+## New Product: Monin Brilliance Energy Transforms Energy Drinks Into Craft Beverages
+
+date: 2025-07-11, from: The Fresh Cup
+
+<p>Monin's new Brilliance Energy line helps coffee shops enter the exploding energy drink market with beverage concentrates that are functional, tasty, and easy to add into any workflow.</p>
+<p>The post <a href="https://freshcup.com/new-product-monin-brilliance-energy-transforms-energy-drinks-into-craft-beverages/">New Product: Monin Brilliance Energy Transforms Energy Drinks Into Craft Beverages</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/new-product-monin-brilliance-energy-transforms-energy-drinks-into-craft-beverages/>
+
+---
+
+## Caramelized Onion Dip and More Recipes We Made This Week
+
+date: 2025-07-11, from: Bon Appetet
+
+Like French macarons and coconut corn soup. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-july-2025>
+
+---
+
+## Jeni’s Ice Cream Founder Is Now Making Fiber Bars
+
+date: 2025-07-11, from: Bon Appetet
+
+The celebrated ice cream maker sets her sights on the world of fiber. 
+
+<br> 
+
+<https://www.bonappetit.com/story/jeni-britton-built-an-ice-cream-empire-now-shes-rethinking-fiber>
+
+---
+
+## The Best Spirits to Mix With Tonic (Besides Gin)
+
+date: 2025-07-11, from: Bon Appetet
+
+Bubbly, bittersweet, and bursting with untapped potential, a bottle of tonic water is the key to a whole summer of compelling cocktails. 
+
+<br> 
+
+<https://www.bonappetit.com/story/its-time-to-stop-treating-tonic-like-gins-sidekick>
+
+---
+
+## The Baby and Kid Gear I Swear by for My Kids Is 50% Off With These Prime Day Deals
+
+date: 2025-07-10, from: Bon Appetet
+
+Save Up to 50% on Stokke, Hydro Flask, and More 
+
+<br> 
+
+<https://www.bonappetit.com/story/prime-day-baby-kid-gear-deals>
+
+---
+
+## Save Hundreds With the Best Anti-Prime Day Deals from Sur La Table, Cuisinart, and More
+
+date: 2025-07-10, from: Bon Appetet
+
+Amazon’s not the only retailer offering major savings right now. 
+
+<br> 
+
+<https://www.bonappetit.com/story/anti-prime-day-deals-2025-07-10>
+
+---
+
+## Hetal Vasavada’s Iced Chai
+
+date: 2025-07-10, from: Taste of Home
+
+I grew up watching my Ba (grandmother) brew chai every single day, adjusting the spices by instinct and never measuring a thing. This iced chai is my simpler summer version of her classic recipe, using strong CTC tea, crushed cardamom and cinnamon. CTC tea stands for Crush, Tear, Curl, a method that turns black tea leaves into tiny granules of tea. It brews quickly and delivers a strong, tannic flavor that’s the backbone of authentic Indian chai. Leave your expensive whole tea leaves for another day: If you’re making chai, you have to use CTC tea. Lipton's black tea is a good option.
+
+To make this chai as traditional as possible, I prefer a higher ratio of milk to water. It creates a richer chai with tons of body. Unlike the weak, sugary chai you’ll find at many cafes, this one is bold, creamy and deeply spiced—just the way it should be! —Hetal Vasavada, San Francisco, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/hetal-vasavada-iced-chai/>
 
 ---
 
@@ -83,7 +209,7 @@ date: 2025-07-10, from: Taste of Home
 
 ---
 
-## The Best Prime Day KitchenAid Stand Mixer Deals Up to $150 off
+## The Best Prime Day KitchenAid Stand Mixer Deals Are Up to $150 Off
 
 date: 2025-07-10, from: Bon Appetet
 
@@ -99,7 +225,7 @@ That hefty price tag has come down enough that we think now's the time to buy.
 
 date: 2025-07-10, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-Brazil-coffee-620x465.jpg" class="attachment-large size-large wp-post-image" alt="shipping containers Brazil coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-Brazil-coffee-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-Brazil-coffee-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-Brazil-coffee-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-Brazil-coffee-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-Brazil-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; United States President Donald Trump yesterday announced a sweeping 50% tariff on all Brazilian imports, up from the 10% tariff initially introduced in April.&#160; Beyond the sordid political context... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-Brazil-coffee-620x465.jpg" class="attachment-large size-large wp-post-image" alt="shipping containers Brazil coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-Brazil-coffee-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-Brazil-coffee-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-Brazil-coffee-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-Brazil-coffee-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-Brazil-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; United States President Donald Trump yesterday announced a sweeping 50% tariff on all Brazilian imports, up from the 10% tariff initially introduced in April.&#160; Beyond the sordid political context... 
 
 <br> 
 
@@ -285,7 +411,7 @@ I review cleaning gear. Here's what I think you should buy on sale right now.
 
 date: 2025-07-09, from: Daily Coffee News
 
-<div><img width="620" height="428" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Giesen-6-coffee-roaster-1-1-620x428.jpg" class="attachment-large size-large wp-post-image" alt="Giesen 6 coffee roaster-1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Giesen-6-coffee-roaster-1-1-620x428.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Giesen-6-coffee-roaster-1-1-300x207.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Giesen-6-coffee-roaster-1-1-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Giesen-6-coffee-roaster-1-1-768x531.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Giesen-6-coffee-roaster-1-1.jpg 1084w" sizes="(max-width: 620px) 100vw, 620px" /></div>Dutch coffee roaster maker Giesen Roasting Solutions is reinventing its two most popular-sized models with the forthcoming launch of the Giesen 6 and the Giesen 15. Evolving from the 6-kilo-capacity... 
+<div><img width="620" height="428" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Giesen-6-coffee-roaster-1-1-620x428.jpg" class="attachment-large size-large wp-post-image" alt="Giesen 6 coffee roaster-1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Giesen-6-coffee-roaster-1-1-620x428.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Giesen-6-coffee-roaster-1-1-300x207.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Giesen-6-coffee-roaster-1-1-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Giesen-6-coffee-roaster-1-1-768x531.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Giesen-6-coffee-roaster-1-1.jpg 1084w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Dutch coffee roaster maker Giesen Roasting Solutions is reinventing its two most popular-sized models with the forthcoming launch of the Giesen 6 and the Giesen 15. Evolving from the 6-kilo-capacity... 
 
 <br> 
 
@@ -369,7 +495,7 @@ date: 2025-07-09, from: The Sprudge
 
 date: 2025-07-09, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/slow-cooker-birria/" title="Slow Cooker Birria Recipe (Birria Tacos + Quesabirria!)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Slow Cooker Birria served in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This easy Slow Cooker Birria recipe is perfect for making juicy birria tacos, cheesy quesabirria, or rich Mexican beef stew, all from your crockpot! Big flavor, no fuss.</p>
+<a href="https://www.chilipeppermadness.com/recipes/slow-cooker-birria/" title="Slow Cooker Birria Recipe (Birria Tacos + Quesabirria!)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Slow Cooker Birria served in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/06/Slow-Cooker-Birria-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This easy Slow Cooker Birria recipe is perfect for making juicy birria tacos, cheesy quesabirria, or rich Mexican beef stew, all from your crockpot! Big flavor, no fuss.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/slow-cooker-birria/">Slow Cooker Birria Recipe (Birria Tacos + Quesabirria!)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

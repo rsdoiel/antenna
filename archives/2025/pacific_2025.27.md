@@ -1,11 +1,673 @@
 ---
 title: pacific
-updated: 2025-07-10 14:08:05
+updated: 2025-07-11 06:08:30
 ---
 
 # pacific
 
-(date: 2025-07-10 14:08:05)
+(date: 2025-07-11 06:08:30)
+
+---
+
+## Trump puts 35% tariff on Canada, eyes 15%-20% tariffs for others
+
+date: 2025-07-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/OTTAWA &#8212; U.S. President Donald Trump ramped up his tariff assault on Canada on Thursday, saying the U.S. would impose a 35% tariff on imports next month and planned to impose blanket tariffs of 15% or 20% on most other trading partners.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/11/nation-world-news/trump-puts-35-tariff-on-canada-eyes-15-20-tariffs-for-others/>
+
+---
+
+## Special $50M state fund authorized to help Hawaii nonprofits
+
+date: 2025-07-11, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii nonprofits affected by federal funding cuts should get ready to apply for grants from a special $50 million state fund created by a bill signed into law Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/11/hawaii-news/special-50m-state-fund-authorized-to-help-hawaii-nonprofits/>
+
+---
+
+## Moszkowicz out as chief; Police commission votes to accept his resignation
+
+date: 2025-07-11, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;If I could rewind the last six weeks and undo my actions, I absolutely would.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/11/hawaii-news/moszkowicz-out-as-chief-police-commission-votes-to-accept-his-resignation/>
+
+---
+
+## Judge blocks Trump’s birthright citizenship order after Supreme Court ruling
+
+date: 2025-07-11, from: Hawaii Tribune Harold
+
+
+				<p>CONCORD, New Hampshire &#8212; A federal judge on Thursday again barred President Donald Trump&#8217;s administration from denying citizenship to some babies born in the U.S., making use of an exception to overcome the U.S. Supreme Court&#8217;s recent ruling that restricted the ability of judges to block that and other policies nationwide.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/11/nation-world-news/judge-blocks-trumps-birthright-citizenship-order-after-supreme-court-ruling/>
+
+---
+
+## New parking area completed at Lunalilo park in Kona
+
+date: 2025-07-11, from: Hawaii Tribune Harold
+
+
+				<p>A new parking area recently was completed at William Charles Lunalilo Playground, locally referred to as &#8220;Blue Park.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/11/community/new-parking-area-completed-at-lunalilo-park-in-kona/>
+
+---
+
+## Hawaiian language milestone celebrated
+
+date: 2025-07-11, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaiian Language Consortium, headquartered at Ka Haka &#8216;Ula O Ke&#8216;elikolani College of Hawaiian language at UH Hilo, marked a major milestone recently.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/11/community/hawaiian-language-milestone-celebrated/>
+
+---
+
+## County blesses four new ambulances
+
+date: 2025-07-11, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Fire Department welcomed the arrival of four new ambulances with a blessing held Tuesday in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/11/community/county-blesses-four-new-ambulances/>
+
+---
+
+## Shoreline Fishing Tournament next month
+
+date: 2025-07-11, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Department of Parks and Recreation invites anglers to register for the 27th annual &#8216;Ohana Shoreline Fishing Tournament to be held Aug. 15-17.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/11/community/shoreline-fishing-tournament-next-month/>
+
+---
+
+## Mahmoud Khalil seeks $20 million from Trump administration over immigration arrest
+
+date: 2025-07-11, from: Hawaii Tribune Harold
+
+
+				<p>Mahmoud Khalil, the Columbia University student and pro-Palestinian activist who was detained by U.S. immigration authorities for more than 100 days, is seeking $20 million from the Trump administration over what he says was his false imprisonment and malicious prosecution.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/11/nation-world-news/mahmoud-khalil-seeks-20-million-from-trump-administration-over-immigration-arrest/>
+
+---
+
+## News in brief for July 11
+
+date: 2025-07-11, from: Hawaii Tribune Harold
+
+
+				<p>The FBI is using polygraphs &#0010;to test officials&#8217; loyalty</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/11/nation-world-news/news-in-brief-for-july-11/>
+
+---
+
+## List of missing in Texas floods adds uncertainty to search for survivors
+
+date: 2025-07-11, from: Hawaii Tribune Harold
+
+
+				<p>KERRVILLE, Texas &#8212; Six days after flash floods swept through parts of Texas Hill Country and killed at least 120, authorities say there are still more than 160 people unaccounted for, as thousands of searchers combed through piles of mud-covered debris for survivors on Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/11/nation-world-news/list-of-missing-in-texas-floods-adds-uncertainty-to-search-for-survivors/>
+
+---
+
+## Secret Service suspends 6 agents over Trump assassination attempt
+
+date: 2025-07-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Six Secret Service agents on duty during last year&#8217;s assassination attempt against Donald Trump at a Pennsylvania campaign rally received suspensions ranging from 10 to 42 days, the agency said on Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/11/nation-world-news/secret-service-suspends-6-agents-over-trump-assassination-attempt/>
+
+---
+
+## US State Department says planned layoffs to begin soon
+
+date: 2025-07-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The State Department will start sending notices to members of its workforce impacted by the reorganization soon, the agency&#8217;s top official for management said on Thursday, as President Donald Trump&#8217;s administration moves ahead with its plans to overhaul the U.S. diplomatic corps and cut jobs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/11/nation-world-news/us-state-department-says-planned-layoffs-to-begin-soon/>
+
+---
+
+## US agriculture agency to end consideration of race, sex in many farm programs
+
+date: 2025-07-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Department of Agriculture said on Thursday it would no longer consider a farmer&#8217;s race or sex in many of its farm loan, commodity and conservation programs, ending a longstanding effort by the agency to address its history of discrimination. The move was made to align with the Trump administration&#8217;s directives to dismantle diversity, equity and inclusion policies across the federal government and because the USDA has adequately addressed past bias, the agency said in a final rule. &#8220;Moving forward, USDA will no longer apply race- or sex-based criteria in its decision-making processes, ensuring that its programs are administered in a manner that upholds the principles of meritocracy, fairness, and equal opportunity for all participants,&#8221; said the rule, signed by acting General Counsel Ralph Linden.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/11/nation-world-news/us-agriculture-agency-to-end-consideration-of-race-sex-in-many-farm-programs/>
+
+---
+
+## US Senate to vote on Trump aid, broadcasting cuts as deadline looms
+
+date: 2025-07-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Republican-led U.S. Senate is due to vote next week on President Donald Trump&#8217;s request to slash $9.4 billion in spending on foreign aid and public broadcasting, setting up a showdown with Democrats that could complicate annual budget talks.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/11/nation-world-news/us-senate-to-vote-on-trump-aid-broadcasting-cuts-as-deadline-looms/>
+
+---
+
+## Trump to use presidential authority to send weapons to Ukraine, sources say
+
+date: 2025-07-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump for the first time since returning to office will send weapons to Kyiv under a presidential power frequently used by his predecessor, two sources familiar with the decision said on Thursday, a move suggesting new interest by the president in defending Ukraine.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/11/nation-world-news/trump-to-use-presidential-authority-to-send-weapons-to-ukraine-sources-say/>
+
+---
+
+## Next Steps for Hawaiian Home Lands INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-07-11, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Guest Panelists: tba</p>
+<p>The post <a href="https://www.pbshawaii.org/next-steps-for-hawaiian-home-lands-insights-on-pbs-hawai%ca%bbi/">Next Steps for Hawaiian Home Lands &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/next-steps-for-hawaiian-home-lands-insights-on-pbs-hawai%ca%bbi/>
+
+---
+
+## Australia Commits $15 Million to Boost Palau’s Renewable Energy Project
+
+date: 2025-07-11, from: Island Times
+
+<figure><img width="600" height="360" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/banner.jpg?fit=600%2C360&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/banner.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/banner.jpg?resize=300%2C180&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/banner.jpg?resize=400%2C240&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/banner.jpg?fit=600%2C360&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78832" data-permalink="https://islandtimes.org/australia-commits-15-million-to-boost-palaus-renewable-energy-project/july11issue-indd-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/banner.jpg?fit=600%2C360&amp;ssl=1" data-orig-size="600,360" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;july11issue.indd&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="july11issue.indd" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/banner.jpg?fit=300%2C180&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/banner.jpg?fit=600%2C360&amp;ssl=1" /></figure>
+<p> Funding to support battery storage system for 15MW solar farm By: Eoghan Olkeriil Ngirudelsang KOROR, Palau (July 10, 2025) — Australia has pledged $15 million to support the next phase of Palau’s transition to renewable energy, with funds designated to secure a battery energy storage system for the nation’s 15-megawatt solar farm, one of the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/australia-commits-15-million-to-boost-palaus-renewable-energy-project/">Australia Commits $15 Million to Boost Palau’s Renewable Energy Project</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/australia-commits-15-million-to-boost-palaus-renewable-energy-project/>
+
+---
+
+## Palau honors founding fathers on Constitution Day amid Pacific Mini Games Buzz
+
+date: 2025-07-11, from: Island Times
+
+<p>KOROR, Palau (July 9, 2025) – While the excitement of the Pacific Mini Games dominated national attention, Palau quietly marked a momentous anniversary: Constitution Day, commemorating the foundational step toward self-governance and the framers who shaped the nation’s democratic identity.During a press conference on the holiday, President Surangel Whipps Jr. called on the public to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-honors-founding-fathers-on-constitution-day-amid-pacific-mini-games-buzz/"> Palau honors founding fathers on Constitution Day amid Pacific Mini Games Buzz</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-honors-founding-fathers-on-constitution-day-amid-pacific-mini-games-buzz/>
+
+---
+
+## Whipps Praises Australia as Key Partner in Palau’s Progress
+
+date: 2025-07-11, from: Island Times
+
+<p>Koror, Palau – President Surangel Whipps Jr. of Palau emphasized the value of long-standing partnerships with countries like Australia during a recent address, highlighting decades of collaboration in areas ranging from sports development to renewable energy and maritime security. Speaking during the Australian Embassy Reception Celebrating the Pacific Mini Games, Whipps expressed gratitude for Australia’s [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-praises-australia-as-key-partner-in-palaus-progress/">Whipps Praises Australia as Key Partner in Palau’s Progress</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/whipps-praises-australia-as-key-partner-in-palaus-progress/>
+
+---
+
+## House takes lead on FY 2026 Budget, Senate calls for unified numbers
+
+date: 2025-07-11, from: Island Times
+
+<p>KOROR, Palau (July 9, 2025) — President Surangel Whipps Jr. has submitted a $152.4 million proposed budget for Fiscal Year 2026 to the Olbiil Era Kelulau (OEK), prioritizing wage increases, social security reform, and cybersecurity—while also supporting key diplomatic efforts and reducing national debt. This year, the House of Delegates will lead the initial deliberation [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/house-takes-lead-on-fy-2026-budget-senate-calls-for-unified-numbers/">House takes lead on FY 2026 Budget, Senate calls for unified numbers</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/house-takes-lead-on-fy-2026-budget-senate-calls-for-unified-numbers/>
+
+---
+
+## National Police respond to rumored unrest at Koror jail; No riot confirmed
+
+date: 2025-07-11, from: Island Times
+
+<p>KOROR, Palau — National police were dispatched to the Koror jail on Thursday following circulating rumors of a potential riot among inmates. Authorities have confirmed there was no riot, but officers did meet with prisoners to address concerns. Minister of Justice Jennifer Olegeriil said the police presence was precautionary after reports of unrest spread within [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/national-police-respond-to-rumored-unrest-at-koror-jail-no-riot-confirmed/">National Police respond to rumored unrest at Koror jail; No riot confirmed</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/national-police-respond-to-rumored-unrest-at-koror-jail-no-riot-confirmed/>
+
+---
+
+## Australian support enhances connectivity for Palau’s Bureau of Public Safety
+
+date: 2025-07-11, from: Island Times
+
+<figure><img width="833" height="655" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Handover-ceremony-of-Australian-radio-batteries-and-charging-banks-held-at-the-Emergency-Operations-Center-on-8-July.jpg?fit=833%2C655&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Handover-ceremony-of-Australian-radio-batteries-and-charging-banks-held-at-the-Emergency-Operations-Center-on-8-July.jpg?w=833&amp;ssl=1 833w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Handover-ceremony-of-Australian-radio-batteries-and-charging-banks-held-at-the-Emergency-Operations-Center-on-8-July.jpg?resize=300%2C236&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Handover-ceremony-of-Australian-radio-batteries-and-charging-banks-held-at-the-Emergency-Operations-Center-on-8-July.jpg?resize=768%2C604&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Handover-ceremony-of-Australian-radio-batteries-and-charging-banks-held-at-the-Emergency-Operations-Center-on-8-July.jpg?resize=780%2C613&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Handover-ceremony-of-Australian-radio-batteries-and-charging-banks-held-at-the-Emergency-Operations-Center-on-8-July.jpg?resize=400%2C315&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Handover-ceremony-of-Australian-radio-batteries-and-charging-banks-held-at-the-Emergency-Operations-Center-on-8-July.jpg?resize=706%2C555&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Handover-ceremony-of-Australian-radio-batteries-and-charging-banks-held-at-the-Emergency-Operations-Center-on-8-July.jpg?fit=833%2C655&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78811" data-permalink="https://islandtimes.org/australian-support-enhances-connectivity-for-palaus-bureau-of-public-safety/handover-ceremony-of-australian-radio-batteries-and-charging-banks-held-at-the-emergency-operations-center-on-8-july/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Handover-ceremony-of-Australian-radio-batteries-and-charging-banks-held-at-the-Emergency-Operations-Center-on-8-July.jpg?fit=833%2C655&amp;ssl=1" data-orig-size="833,655" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Handover ceremony of Australian radio batteries and charging banks held at the Emergency Operations Center on 8 July" data-image-description="" data-image-caption="&lt;p&gt;Handover ceremony of Australian radio batteries and charging banks held at the Emergency Operations Center on 8 July.j &lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Handover-ceremony-of-Australian-radio-batteries-and-charging-banks-held-at-the-Emergency-Operations-Center-on-8-July.jpg?fit=300%2C236&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Handover-ceremony-of-Australian-radio-batteries-and-charging-banks-held-at-the-Emergency-Operations-Center-on-8-July.jpg?fit=780%2C613&amp;ssl=1" /></figure>
+<p>During the current deployment of the Pacific Police Support Group (PPSG) to Palau to support the 2025 Pacific Mini Games, PPSG officers worked closely with the Bureau of Public Safety (BPS) and made use of its radio infrastructure. To support ongoing operations and enhance existing infrastructure, the batteries and high-tech multi-battery charging units brought by [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/australian-support-enhances-connectivity-for-palaus-bureau-of-public-safety/">Australian support enhances connectivity for Palau’s Bureau of Public Safety</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/australian-support-enhances-connectivity-for-palaus-bureau-of-public-safety/>
+
+---
+
+## PCC students gain hands-on Marine Science experience at PICRC
+
+date: 2025-07-11, from: Island Times
+
+<figure><img width="833" height="552" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_PCC-Students-Gain-Hands-On-Marine-Science-Experience-at-PICRC.jpg?fit=833%2C552&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_PCC-Students-Gain-Hands-On-Marine-Science-Experience-at-PICRC.jpg?w=833&amp;ssl=1 833w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_PCC-Students-Gain-Hands-On-Marine-Science-Experience-at-PICRC.jpg?resize=300%2C199&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_PCC-Students-Gain-Hands-On-Marine-Science-Experience-at-PICRC.jpg?resize=768%2C509&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_PCC-Students-Gain-Hands-On-Marine-Science-Experience-at-PICRC.jpg?resize=780%2C517&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_PCC-Students-Gain-Hands-On-Marine-Science-Experience-at-PICRC.jpg?resize=400%2C265&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_PCC-Students-Gain-Hands-On-Marine-Science-Experience-at-PICRC.jpg?resize=706%2C468&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_PCC-Students-Gain-Hands-On-Marine-Science-Experience-at-PICRC.jpg?fit=833%2C552&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78807" data-permalink="https://islandtimes.org/pcc-students-gain-hands-on-marine-science-experience-at-picrc/photo_pcc-students-gain-hands-on-marine-science-experience-at-picrc/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_PCC-Students-Gain-Hands-On-Marine-Science-Experience-at-PICRC.jpg?fit=833%2C552&amp;ssl=1" data-orig-size="833,552" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Photo_PCC Students Gain Hands-On Marine Science Experience at PICRC" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_PCC-Students-Gain-Hands-On-Marine-Science-Experience-at-PICRC.jpg?fit=300%2C199&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_PCC-Students-Gain-Hands-On-Marine-Science-Experience-at-PICRC.jpg?fit=780%2C517&amp;ssl=1" /></figure>
+<p>The Palau International Coral Reef Center (PICRC) recently bid farewell to Palau Community College (PCC) students Aleeya Uraziri and Daissy Demei, who completed a one-month internship at the Center as part of their Environmental Marine Science program. The internship fulfilled the final course requirement for their degree—SC270 Field Studies, a four-credit course designed to equip [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pcc-students-gain-hands-on-marine-science-experience-at-picrc/">PCC students gain hands-on Marine Science experience at PICRC</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pcc-students-gain-hands-on-marine-science-experience-at-picrc/>
+
+---
+
+## PPR welcomes back Peter Bonini as Director of Human Resources
+
+date: 2025-07-11, from: Island Times
+
+<figure><img width="600" height="849" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Peter-pic.jpg?fit=600%2C849&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Peter-pic.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Peter-pic.jpg?resize=212%2C300&amp;ssl=1 212w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Peter-pic.jpg?resize=400%2C566&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Peter-pic.jpg?fit=600%2C849&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78803" data-permalink="https://islandtimes.org/ppr-welcomes-back-peter-bonini-as-director-of-human-resources/peter-pic/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Peter-pic.jpg?fit=600%2C849&amp;ssl=1" data-orig-size="600,849" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Peter pic" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Peter-pic.jpg?fit=212%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Peter-pic.jpg?fit=600%2C849&amp;ssl=1" /></figure>
+<p>Koror, Palau – [July 10 2025] – Palau Pacific Resort is pleased to announce the return of Peter Bonini as Director of Human Resources. Peter brings over 40 years of international leadership experience across luxury hotel operations, workforce development, and vocational education. Peter began his hospitality career in some of Western Australia’s most prestigious venues, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ppr-welcomes-back-peter-bonini-as-director-of-human-resources/">PPR welcomes back Peter Bonini as Director of Human Resources</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/ppr-welcomes-back-peter-bonini-as-director-of-human-resources/>
+
+---
+
+## Belonging  (Self-acceptance)
+
+date: 2025-07-11, from: Island Times
+
+<figure><img width="400" height="378" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="65054" data-permalink="https://islandtimes.org/intimacy-gone-bad-2/womens-corner-1-7/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" data-orig-size="400,378" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" /></figure>
+<p>Important element in inner healing of deep wounds is belonging/self-acceptance. Deep wounds are results of abuses from childhood (physical, mental, psychological, emotional and/or sexual abuse).&#160; We begin by building our self-esteem. &#160;Learning to appreciate ourselves by acknowledging and embracing our talents and gifts. These parts of our being become clear after we forgive those who [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/belonging-self-acceptance/">Belonging  (Self-acceptance)</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/belonging-self-acceptance/>
+
+---
+
+## Palau 2025 Pacific Mini Games sets a Zero tolerance standard against abuse and harassment
+
+date: 2025-07-11, from: Island Times
+
+<p>KOROR, (TEAM UP) &#8212; In a milestone for sport in the region, safeguarding is being integrated into every aspect of a Pacific Games for the first time, from pre-Games training to on-ground support during the event.  This year&#8217;s Pacific Mini Games in Palau feature close to 2,000 athletes and officials representing 23 national and territorial [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-2025-pacific-mini-games-sets-a-zero-tolerance-standard-against-abuse-and-harassment-2/">Palau 2025 Pacific Mini Games sets a Zero tolerance standard against abuse and harassment </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-2025-pacific-mini-games-sets-a-zero-tolerance-standard-against-abuse-and-harassment-2/>
+
+---
+
+## Pacific leaders address U.S deportation distress and regional unity at Micronesian meeting
+
+date: 2025-07-11, from: Island Times
+
+<p>MAJURO (PMN) &#8212; The latest wave of deportations of Pacific people from the United States was among a range of issues discussed at the recent Micronesian Islands Forum in the Marshall Islands. The three-day summit brought together leaders from Kiribati, Nauru, the Federated States of Micronesia (FSM), Guam, the Commonwealth of the Northern Mariana Islands [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-leaders-address-u-s-deportation-distress-and-regional-unity-at-micronesian-meeting/">Pacific leaders address U.S deportation distress and regional unity at Micronesian meeting</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pacific-leaders-address-u-s-deportation-distress-and-regional-unity-at-micronesian-meeting/>
+
+---
+
+## ‘The Deep-Sea needs rules’ to avoid mining free-for-all: ISA Chief
+
+date: 2025-07-11, from: Island Times
+
+<p>KINGSTON (PACNEWS) &#8212; The Secretary-General of the International Seabed Authority (ISA), Leticia Carvalho, has warned that the future of deep-sea governance hangs in the balance, urging member states to “prioritise protection over plunder” as the Council opened its 30th session in Kingston. “As we gather to shape the future of the deep seabed, let us [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-deep-sea-needs-rules-to-avoid-mining-free-for-all-isa-chief/">‘The Deep-Sea needs rules’ to avoid mining free-for-all: ISA Chief</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/the-deep-sea-needs-rules-to-avoid-mining-free-for-all-isa-chief/>
+
+---
+
+## Russia batters Ukraine with more than 700 drones in record attack
+
+date: 2025-07-11, from: Island Times
+
+<p>In short: (ABC-Australia) Russia has fired a record number of drones at Ukraine, just hours after US President Donald Trump criticized Russia&#8217;s president Vladimir Putin. These latest attacks came ahead of a meeting between Ukraine&#8217;s president Volodymyr Zelenskyy and Mr. Trump&#8217;s Ukraine envoy Keith Kellogg in Italy this week. Meanwhile, Ukraine said on Wednesday it [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/russia-batters-ukraine-with-more-than-700-drones-in-record-attack/">Russia batters Ukraine with more than 700 drones in record attack</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/russia-batters-ukraine-with-more-than-700-drones-in-record-attack/>
+
+---
+
+## Australia reassures Asian allies as U.S trade wars heat
+
+date: 2025-07-11, from: Island Times
+
+<p>CANBERRA (AAP) &#8212; Australia will work to reassure Southeast Asian allies it remains a dependable partner at a major regional meeting as the United States ups tariffs.  Foreign Minister Penny Wong departed for Malaysia on Wednesday and will make a keynote speech on Thursday outlining Australia&#8217;s dependability, especially in championing free and open trade.&#160; One [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/australia-reassures-asian-allies-as-u-s-trade-wars-heat/">Australia reassures Asian allies as U.S trade wars heat</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/australia-reassures-asian-allies-as-u-s-trade-wars-heat/>
+
+---
+
+## Community Events: Cultivate After Dark; Real estates open house; Summer Fest at GCC
+
+date: 2025-07-11, from: Pacific Island Times
+
+Cultivate After Dark: Celebrate culture, community and cannabis The Homegrown Collective will host Cultivate After Dark, commemorating... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/community-events-cultivate-after-dark-real-estates-open-house-summer-fest-at-gcc>
+
+---
+
+## A ceremony of silence: Echoes of mana and a chief's ascent
+
+date: 2025-07-11, from: 
+
+In Fiji, a new chief from an eminent dynasty emerged before the crowds, shrouded in silence, accompanied only by the sound of birds. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566662/a-ceremony-of-silence-echoes-of-mana-and-a-chief-s-ascent>
+
+---
+
+## CHamoru  resilience during WWII honored at Guam Museum exhibit
+
+date: 2025-07-11, from: Pacific Island Times
+
+By Pacific Island Times News Staff A compelling photography exhibit, "So We Leapt - Para I Hinanao-ta Mo’na: Guam after Liberation &#38;... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/chamoru-resilience-during-wwii-honored-at-guam-museum-exhibit>
+
+---
+
+## Pacific news in brief for 11 July
+
+date: 2025-07-11, from: 
+
+A round-up of news from around the region, including China handing over an approximately US$44,600 donation to the newly installed chief of Fiji's Lau group. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566633/pacific-news-in-brief-for-11-july>
+
+---
+
+## Launch of Guam's new power plant hits a snag
+
+date: 2025-07-11, from: Pacific Island Times
+
+GPA has contracted the independent power producer, Guam Ukudu Power, to build and operate the new power plant, which began construction in 2022. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/launch-of-guam-s-new-power-plant-hits-a-snag>
+
+---
+
+## From fathers to sons: Fiji rugby legacy continues against Scotland
+
+date: 2025-07-11, from: 
+
+A former Fiji captain says is excited by the selection of his son and the son of a former teammate in the Fijian national team for their game against Scotland. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566654/from-fathers-to-sons-fiji-rugby-legacy-continues-against-scotland>
+
+---
+
+## New Zealand, Fiji set sights on $2B trade 
+
+date: 2025-07-11, from: Pacific Island Times
+
+The New Zealand Fiji Business Council is gearing up for a business mission in Fiji next week to strengthen its ties with the Fijian business community, with a focus on achieving the $2 billion trade target set last year. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/new-zealand-fiji-set-sights-on-2b-trade>
+
+---
+
+## China remains top market as Palau sees growth in May tourist arrivals; summer travel deals offered to Hong Kong, Macau
+
+date: 2025-07-11, from: Island Times
+
+<figure><img width="683" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/facebook-post.jpg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/facebook-post.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/facebook-post.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/facebook-post.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/facebook-post.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/facebook-post.jpg?resize=780%2C1170&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/facebook-post.jpg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/facebook-post.jpg?resize=706%2C1059&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/facebook-post.jpg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78765" data-permalink="https://islandtimes.org/china-remains-top-market-as-palau-sees-growth-in-may-tourist-arrivals-summer-travel-deals-offered-to-hong-kong-macau/facebook-post/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/facebook-post.jpg?fit=800%2C1200&amp;ssl=1" data-orig-size="800,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="facebook post" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/facebook-post.jpg?fit=200%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/facebook-post.jpg?fit=683%2C1024&amp;ssl=1" /></figure>
+<p>By: L.N. Reklai KOROR, Palau — Palau recorded 4,752 visitor arrivals in May 2025, a 6% increase compared to the same month last year, according to the latest figures from the Palau Visitors Authority. However, the total reflects a 12% decline from April’s 5,426 arrivals, aligning with typical seasonal patterns following the spring travel peak. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/china-remains-top-market-as-palau-sees-growth-in-may-tourist-arrivals-summer-travel-deals-offered-to-hong-kong-macau/">China remains top market as Palau sees growth in May tourist arrivals; summer travel deals offered to Hong Kong, Macau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/china-remains-top-market-as-palau-sees-growth-in-may-tourist-arrivals-summer-travel-deals-offered-to-hong-kong-macau/>
+
+---
+
+## East Sepik Province in PNG gets innovative to solve health issues
+
+date: 2025-07-11, from: 
+
+The governor of East Sepik Province in Papua New Guinea has announced a partnership with a local pharmacy to improve access to drugs and medicines. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566650/east-sepik-province-in-png-gets-innovative-to-solve-health-issues>
+
+---
+
+## King-Hinds asserts CNMI right to tax revenues from federal defense spending
+
+date: 2025-07-11, updated: 2025-07-11, from: Marianas Variety
+
+WASHINGTON, D.C. (Office of the CNMI Congressional Delegate) — U.S. Congresswoman Kimberlyn King-Hinds sent a formal request to U.S. Treasury Secretary Scott Bessent seeking clarification on how the department applies Section 703(b) of the CNMI’s Covenant with the United States of America. The section requires that federal income taxes and other federal revenues derived from sources in the CNMI be returned to the CNMI Treasury. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/king-hinds-asserts-cnmi-right-to-tax-revenues-from-federal-defense-spending/article_44536904-fce2-4ff3-8fa1-8b70186bd3bd.html>
+
+---
+
+## Judge blocks Trump's birthright citizenship order after Supreme Court ruling
+
+date: 2025-07-11, updated: 2025-07-11, from: Marianas Variety
+
+CONCORD, New Hampshire, (Reuters) — A federal judge on Thursday again barred President Donald Trump's administration from denying citizenship to some babies born in the U.S., making use of an exception to overcome the U.S. Supreme Court's recent ruling that restricted the ability of judges to block that and other policies nationwide. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/judge-blocks-trumps-birthright-citizenship-order-after-supreme-court-ruling/article_70b91543-3c16-41b3-b7f4-da6a9e46b5c8.html>
+
+---
+
+## Cribs, character beds and imagination: Kids furniture shop opens on Guam
+
+date: 2025-07-11, from: Pacific Island Times
+
+By Ron Rocky Coloma One child darted straight to the Disney Princess bed. Another made a beeline for the Paw Patrol bunk set. Their... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/cribs-character-beds-and-imagination-kids-furniture-shop-opens-on-guam>
+
+---
+
+## High school students taste culinary careers at Culinary Institute of the Pacific
+
+date: 2025-07-11, from: University of Hawaiʻi News
+
+<p>Culinary Institute of the Pacific inspires future chefs in hands-on summer program.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/10/high-school-students-taste-culinary-careers-at-cip/">High school students taste culinary careers at Culinary Institute of the Pacific</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/10/high-school-students-taste-culinary-careers-at-cip/>
+
+---
+
+## Nursing graduate inspired by empathy, empowered by mentorship
+
+date: 2025-07-11, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa nursing graduate Emma Tilitile of <span aria-label="Waianae">Wai&#699;anae</span> reflects on how mentorship and empathy shaped her path to becoming a nurse.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/10/nursing-grad-empowered-by-mentorship/">Nursing graduate inspired by empathy, empowered by mentorship</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/10/nursing-grad-empowered-by-mentorship/>
+
+---
+
+## Medical students in Fiji are reportedly submitting AI-generated assignments
+
+date: 2025-07-11, from: 
+
+It is causing concerns among health educators in the country. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566630/medical-students-in-fiji-are-reportedly-submitting-ai-generated-assignments>
+
+---
+
+## UH Hilo unveils women’s volleyball 2025 schedule
+
+date: 2025-07-10, from: University of Hawaiʻi News
+
+<p>This marks the first season under new head coach Reed Sunahara.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/10/uh-hilo-2025-volleyball-schedule/"><abbr>UH</abbr> Hilo unveils women’s volleyball 2025 schedule</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/10/uh-hilo-2025-volleyball-schedule/>
+
+---
+
+## Cook Islands MP warns workers to pay more tax despite minimum wage increase
+
+date: 2025-07-10, from: 
+
+Teariki Heather warns the minimum wage increase from NZ$9.50 to $10 from 1 July could harm the people the minimum wage policy is supposed to help. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566631/cook-islands-mp-warns-workers-to-pay-more-tax-despite-minimum-wage-increase>
+
+---
+
+## Guam Land Use Commission OKs rezoning of proposed hospital site
+
+date: 2025-07-10, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Guam Land Use Commission has approved the rezoning of an agricultural property in Mangilao into... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-land-use-commission-oks-rezoning-of-proposed-hospital-site>
 
 ---
 
@@ -95,6 +757,90 @@ JOSE and Marcia Ayuyu proudly announce the graduation of their youngest daughter
 
 ---
 
+## Man arrested for threatening to rob a bank
+
+date: 2025-07-10, updated: 2025-07-10, from: Marianas Variety
+
+THE Department of Public Safety has arrested 32-year-old Jerry Ray for threatening to rob BankPacific in Garapan. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/man-arrested-for-threatening-to-rob-a-bank/article_00d9be97-7720-4789-a547-aa95f36b448c.html>
+
+---
+
+## CUC provides update on renewable energy initiatives
+
+date: 2025-07-10, updated: 2025-07-10, from: Marianas Variety
+
+(CUC) — The Commonwealth Utilities Corporation is making steady progress toward establishing a renewable, reliable, and secure electric power system across the CNMI. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cuc-provides-update-on-renewable-energy-initiatives/article_92dcb490-f97e-4c73-b157-526ac76ce68c.html>
+
+---
+
+## Stay safe this rainy season: prevent mosquito-borne illness in the CNMI
+
+date: 2025-07-10, updated: 2025-07-10, from: Marianas Variety
+
+(CHCC) — During the rainy season in CNMI, there is an increased risk of mosquito-borne diseases due to the large amount of standing water that provides breeding grounds for mosquitoes. To protect you and your family, it is important to eliminate potential breeding sites around your home, use insect repellent, wear protective clothing, and seek medical attention if you experience symptoms like fever, rash, or body pain. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/stay-safe-this-rainy-season-prevent-mosquito-borne-illness-in-the-cnmi/article_ee18a75a-3a77-429a-83e7-8b9d46238697.html>
+
+---
+
+## CHCC hosts immunization program regional meeting
+
+date: 2025-07-10, updated: 2025-07-10, from: Marianas Variety
+
+(CHCC) — The Commonwealth Healthcare Corporation, Division of Public Health Services proudly hosted the first in a series of regional meetings for immunization programs across the nation, in collaboration with the Association of Immunization Managers. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/chcc-hosts-immunization-program-regional-meeting/article_6fa270a7-dfd0-4145-8a16-4b40ceba9661.html>
+
+---
+
+## CNMI Innovation Incubator receives 46 applications from aspiring startup owners
+
+date: 2025-07-10, updated: 2025-07-10, from: Marianas Variety
+
+(NMC) — The CNMI Innovation Incubator Program, an initiative of Northern Marianas College, is proud to announce that it has received 46 applications from aspiring entrepreneurs across Saipan, Tinian, and Rota for its upcoming cohort. This strong response reflects a growing interest in innovation and a renewed entrepreneurial spirit throughout the Commonwealth. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-innovation-incubator-receives-46-applications-from-aspiring-startup-owners/article_bbcfa238-a4ff-4866-81ca-56832050a22c.html>
+
+---
+
+## Rescheduled power service interruptions for Rota
+
+date: 2025-07-10, updated: 2025-07-10, from: Marianas Variety
+
+(Commonwealth Utilities Corporation) — There will be scheduled power service interruptions on Tuesday, July 15; and Thursday, July 17 on Rota. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/rescheduled-power-service-interruptions-for-rota/article_b4640a65-5143-4710-87ed-d0e319ca8258.html>
+
+---
+
+## EUCON unveils historic indigenous scholarship program
+
+date: 2025-07-10, updated: 2025-07-10, from: Marianas Variety
+
+IN a landmark commitment to the future of the Commonwealth of the CNMI, EUCON International School and University has unveiled the comprehensive EIU and EIS Indigenous Scholarship Program, specifically designed to empower Chamorro and Carolinian youth from elementary school through to master’s degrees. This transformative initiative, born from a profound desire to invest in CNMI's indigenous roots and leadership, was met with deep emotion and gratitude by CNMI leaders. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/eucon-unveils-historic-indigenous-scholarship-program/article_57fc71ba-281d-4ecc-8726-85b94ae4d308.html>
+
+---
+
 ## Youth group: ‘We’re back’
 
 date: 2025-07-10, from: Marshal Islands Journal
@@ -121,7 +867,7 @@ U.S. Air Force Col. Jeromy Guinther, 35th Operations Group commander, briefs inc
 
 ---
 
-## Whinicles: Different ways to articulate political sentiments 
+## Whinicles: Different ways to articulate disapprovals and political sentiments 
 
 date: 2025-07-10, from: Pacific Island Times
 
@@ -368,6 +1114,20 @@ date: 2025-07-10, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/07/10/nation-world-news/elon-musk-consulted-curtis-yarvin-right-wing-thinker-on-third-party/>
+
+---
+
+## Moszkowicz out as Big Island police chief
+
+date: 2025-07-10, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Police Commission handed Chief Benjamin Moszkowicz his walking papers today in a special meeting.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/10/hawaii-news/moszkowicz-out-as-big-island-police-chief/>
 
 ---
 
