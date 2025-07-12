@@ -1,11 +1,59 @@
 ---
 title: planet
-updated: 2025-07-11 14:07:33
+updated: 2025-07-12 06:08:39
 ---
 
 # planet
 
-(date: 2025-07-11 14:07:33)
+(date: 2025-07-12 06:08:39)
+
+---
+
+## Twelfth of July parades get under way across NI
+
+date: 2025-07-11, from: RTÉ News
+
+Twelfth of July celebrations have begun across Northern Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0712/1523123-twelfth-july-parades/>
+
+---
+
+## Trump, officials questioned about Texas flood response
+
+date: 2025-07-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/13aca822-7592-404e-9d5d-e4753d62aff8,1752277923726/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A man seated at a table points in the distance. Another man sits beside him. ' width='620' height='349' title='President Donald Trump, first lady Melania Trump and Texas Governor Greg Abbott participate in a round table event at the Hill Country Youth Event Center to discuss last week&apos;s flash flooding on July 11, 2025 in Kerrville, Texas. '/><p>As U.S. President Donald Trump toured the devastation from the deadly Texas floods, he and other officials faced questions about the state and federal government’s response to the disaster. </p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6829509?cmp=rss>
+
+---
+
+## Report finds engine switch movement in Air India crash
+
+date: 2025-07-11, from: RTÉ News
+
+A preliminary report into the Air India crash that killed 260 people last month has shown that three seconds after taking off, the plane's engines fuel cutoff switches almost simultaneously flipped from run to cutoff, starving the engines of fuel. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0711/1523141-air-india-crash/>
+
+---
+
+## Boeing reaches settlement with Canadian whose family died in 2019 plane crash in Ethiopia
+
+date: 2025-07-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7583604.1752277701!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/paul-njoroge-his-wife-carolyne-their-children-and-his-mother-in-law-anne-wangui-karanja.jpg' alt='A December 2018 photo shows Paul Njoroge alongside his wife, three small children and his mother-in-law. He lost all of his loved ones in a 2019 plane crash.' width='620' height='349' title='This photo taken in Toronto, in Dec. 2018, shows Paul Njoroge, his wife, Carolyne, and three small children, Ryan, age 6, Kellie, 4, and infant Rubi, along with Njoroge’s mother-in-law, Anne Wangui Karanja.'/><p>Boeing reached a settlement on Friday with a Canadian man whose wife and three children were killed in a deadly 2019 plane crash in Ethiopia, averting the first trial connected to the devastating event that led to a worldwide grounding of Max jets.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/boeing-plane-crash-settlement-canadian-1.7583593?cmp=rss>
 
 ---
 
@@ -13,7 +61,7 @@ updated: 2025-07-11 14:07:33
 
 date: 2025-07-11, from: RTÉ News
 
-A 12-year-old girl has died after getting into difficulty while swimming in a river in Co Tipperary this afternoon. 
+A 12-year-old girl has died after getting into difficulty while swimming in a river in Co Tipperary. 
 
 <br> 
 
@@ -69,6 +117,42 @@ US President Donald Trump has arrived in Texas as questions swirled over the aut
 
 ---
 
+## Taylor beats Serrano by majority decision - recap
+
+date: 2025-07-11, from: RTÉ News
+
+Katie Taylor has beaten Amanda Serrano in their trilogy fight at Madison Square Garden to retain her undisputed WBC, WBA, IBF and WBO women's light-welterweight titles. 
+
+<br> 
+
+<https://www.rte.ie/sport/boxing/2025/0711/1523127-katie-taylor-v-amanda-serrano-iii-updates/>
+
+---
+
+## PM's upcoming First Nations summit on Bill C-5 seems 'rushed,' say chiefs
+
+date: 2025-07-11, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7568493.1750691587!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/major-projects-bill-20250620.JPG' alt='Prime Minister Mark Carney speaks at a news conference in the Foyer of the House of Commons in Ottawa, after Bill C-5 passed in the House, on Friday, June 20, 2025.' width='620' height='349' title='Prime Minister Mark Carney speaks at a news conference in the Foyer of the House of Commons in Ottawa, after Bill C-5 passed in the House, on Friday, June 20, 2025.'/><p>More details have been shared about a summit between the federal government and First Nations chiefs planned for next week on the major projects bill, though some chiefs say plans for the summit seem as rushed as the legislation. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/first-nations-summit-bill-c5-1.7583275?cmp=rss>
+
+---
+
+## U.S. customs duties collections top $100B US in same fiscal year for 1st time
+
+date: 2025-07-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7583392.1752266003!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/u-s-president-donald-trump-speaking-to-media-on-the-south-lawn-of-the-white-house.jpg' alt='U.S. President Donald Trump speaks to the press on the South Lawn of the White House.' width='620' height='349' title='U.S. President Donald Trump speaks to the press before boarding Marine One on the South Lawn of the White House in Washington, D.C., on July 11, 2025. Trump is traveling to Texas to survey areas devastated by flash flooding over the Fourth of July weekend, which left at least 120 people dead and 170 missing. '/><p>U.S. customs duty collections jumped again in June as U.S. President Donald Trump's tariffs gained steam, topping $100 billion US for the first time during a fiscal year and helping to produce a surprise $27-billion US budget surplus for the month, the U.S. Treasury Department reported Friday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-tariffs-us-customs-duties-1.7583368?cmp=rss>
+
+---
+
 ## Media v Machine: How is AI impacting news and music
 
 date: 2025-07-11, from: RTÉ News
@@ -105,6 +189,18 @@ US trading partners braced for a volley of tariff hikes this week, but a deadlin
 
 ---
 
+## Canadian doctors work in Gaza as fuel shortages threaten lives, hospitals
+
+date: 2025-07-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/4a30d136-b41f-452c-a2ea-4b6bdcf3bccc,1752265249935/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='An infant receiving medical care, left, is seen next to an image of a Canadian doctor working Gaza, in this combination image ' width='620' height='349' title='An infant receiving medical care at Al-Aqsa Martyrs Hospital, left, is seen next to an image of a Canadian doctor working Gaza, in this combination image '/><p>Two Canadian doctors, from Calgary and Montreal, have been treating patients at Al-Aqsa Martyrs Hospital in Gaza. These doctors and other health officials in the region say severe fuel shortages leave operating rooms without light, oxygen tanks without air and an overall inability to carry out basic medical treatment on patients in critical conditions.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6829034?cmp=rss>
+
+---
+
 ## Man jailed for life for murder of chef in Cobh
 
 date: 2025-07-11, from: RTÉ News
@@ -114,6 +210,18 @@ Thirty-one-year-old Dylan Scannell has been jailed for life after he was convict
 <br> 
 
 <https://www.rte.ie/news/courts/2025/0711/1523066-dylan-scannell-murder-baitson/>
+
+---
+
+## Man jailed for life for murder of chef in Cobh
+
+date: 2025-07-11, from: RTÉ News
+
+A 31-year-old man has been jailed for life after he was convicted of the murder of 33-year-old Ian Baitson in Cobh, Co Cork, last year. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0711/1523066-dylan-scannell-court/>
 
 ---
 
@@ -177,12 +285,12 @@ Three people have died following separate incidents in counties Dublin, Meath an
 
 ---
 
-## Five years of disrupted schooling in Ukraine has led to ‘emotional instability in children’
+## Disrupted schooling in Ukraine has led to ‘emotional instability in children’
 
 date: 2025-07-11, from: Vatican News
 
 
-                    <p>The director of the largest global fund dedicated to education explains in an interview with Vatican News' Marie Duhamel how the war in Ukraine has dramatically impacted children’s access to education.</p>
+                    <p>The director of the largest global fund dedicated to education explains to Vatican News how the war in Ukraine has dramatically impacted children’s access to education.</p>
                     <p><a href="https://www.vaticannews.va/en/world/news/2025-07/years-of-disrupted-schooling-in-ukraine-has-led-to-instability.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -249,11 +357,23 @@ date: 2025-07-11, from: Vatican News
 
 date: 2025-07-11, from: RTÉ News
 
-Rory McIlroy continued his slow-but-sure return to form ahead of next week's 153rd Open Championship at Royal Portrush with a tidy five-under-par second round 65 at the Scottish Open this morning. 
+American Chris Gotterup soared to the top of the Scottish Open leaderboard by equalling the course record as Rory McIlroy impressed on day two at the Renaissance Club. 
 
 <br> 
 
 <https://www.rte.ie/sport/golf/2025/0711/1523067-mcilroy-plays-his-way-into-contention-at-scottish-open/>
+
+---
+
+## Kerry wary of unpredictable Tyrone in familiar clash
+
+date: 2025-07-11, from: RTÉ News
+
+Kerry delivered a statement performance against Armagh in the quarter-final but the ghost of ambushes past Tyrone loom into view this weekend. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0711/1523062-kerry-wary-of-unpredictable-tyrone-in-familiar-clash/>
 
 ---
 
@@ -397,6 +517,66 @@ Following the deaths of several children&nbsp;in an Israeli strike on Palestinia
 
 ---
 
+## World Horse Day: Honoring humanity’s oldest and most loyal companion
+
+date: 2025-07-11, from: United Nations, Top Stories
+
+Spacious paddocks, green pastures, and a devoted all-female staff: on Long Island, a strip of land surrounded by the Atlantic Ocean near New York City, horses once destined for slaughter are given a second chance – to live, and to help people heal. The farm, founded in 2010 by Marisa Striano, is named after her beloved horse, Spirit. It offers healing – for both horses and humans in need. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165370>
+
+---
+
+## Lifesaver: Study shows vaccine campaigns cut deaths by nearly 60 per cent
+
+date: 2025-07-11, from: United Nations, Top Stories
+
+Emergency vaccination campaigns have slashed deaths from major infectious disease outbreaks by nearly 60 per cent since 2000, according to a new study published this week. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165380>
+
+---
+
+## Gazans dying in search of food, ‘starkest illustration’ of their desperation
+
+date: 2025-07-11, from: United Nations, Top Stories
+
+Humanitarian needs in the Gaza Strip “have never been higher” while the ability to assist the population has “never been more constrained,” a senior official with the World Food Programme (WFP) said on Friday in New York.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165379>
+
+---
+
+## UN chief condemns latest Houthi attacks on Red Sea shipping
+
+date: 2025-07-11, from: United Nations, Top Stories
+
+The UN Secretary-General issued a statement on Friday condemning the latest Houthi rebel attacks on shipping in the Red Sea off the coast of Yemen. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165378>
+
+---
+
+## Why India’s courts are drowning in 52 million cases
+
+date: 2025-07-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/d0d4e812-392d-4a24-8bc5-47bfed759ab6,1752261065658/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A woman speaking' width='620' height='349' title='India’s courts are struggling under a massive backlog of cases that would take hundreds of years to clear. '/><p>India’s courts are struggling under a massive backlog of cases that would take hundreds of years to clear. CBC’s South Asia correspondent Salimah Shivji explains how the problem got so bad and hears from people who have been waiting decades for justice. </p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6826055?cmp=rss>
+
+---
+
 ## Two elderly women die after BMW crashes into UK care home
 
 date: 2025-07-11, from: RTÉ News
@@ -413,7 +593,7 @@ Two women have died after a BMW that was being chased by police crashed into the
 
 date: 2025-07-11, from: RTÉ News
 
-Gardaí are treating as suspicious the death of a man in his 70s following an assault in Limerick city last night. 
+A man has been arrested following the death of a man aged in his 70s after an alleged assault in Limerick city. 
 
 <br> 
 
@@ -4855,4 +5035,534 @@ A man suspected of setting fire to an Australian synagogue as worshippers ate di
 <br> 
 
 <https://www.rte.ie/news/world/2025/0706/1522064-australia-synagogue-fire/>
+
+---
+
+## Texas floods death toll rises to at least 78 - officials
+
+date: 2025-07-05, from: RTÉ News
+
+The death toll from devastating floods in central Texas has jumped to at least 78 people, officials said, with ten girls still missing from the worst-hit Kerr County. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0706/1522061-texas-floods/>
+
+---
+
+## Elon Musk says he has created a new US political party
+
+date: 2025-07-05, from: RTÉ News
+
+Elon Musk, a former ally of US President Donald Trump, said he has launched a new political party in the United States to challenge what the tech billionaire described as the country's "one-party system". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0705/1522052-elon-musk-party/>
+
+---
+
+## Iran's Ayatollah attends first event after Israel war
+
+date: 2025-07-05, from: RTÉ News
+
+Iran's supreme leader Ayatollah Ali Khamenei has made his first public appearance since the outbreak of his country's recent 12-day war with Israel, state media reported. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0705/1522050-iran-israel/>
+
+---
+
+## Rampant Rebels return to All-Ireland final in goal rush
+
+date: 2025-07-05, from: RTÉ News
+
+Cork made it back-to-back All-Ireland finals with a seven-goal, 7-26 to 2-21 demolition of Dublin in front of a full house on Jones' Road. 
+
+<br> 
+
+<https://www.rte.ie/sport/hurling/2025/0705/1521972-rampant-rebels-return-to-all-ireland-final-in-goal-rush/>
+
+---
+
+## Pope thanks L'Osservatore di Strada: You make the voices of the voiceless heard
+
+date: 2025-07-05, from: Vatican News
+
+
+                    <p>On the third anniversary of L’Osservatore Romano’s monthly magazine “L'Osservatore di Strada”, Leo XIV sends a message of gratitude for the work done by the publication, where “the least among us become protagonists”. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-thanks-l-osservatore-di-strada-on-third-anniversary.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-thanks-l-osservatore-di-strada-on-third-anniversary.html>
+
+---
+
+## Teen, 14, in court over petrol bomb attack of Dublin home
+
+date: 2025-07-05, from: RTÉ News
+
+A 14-year-old has been charged in connection with a petrol bomb attack at a home in Dublin in May earlier this year. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0705/1522035-ballyfermot-court/>
+
+---
+
+## Interpol probes international connections to MV Matthew
+
+date: 2025-07-05, from: RTÉ News
+
+Interpol's director of organised and emerging crime has said they have been successful in identifying criminal connections to South America and the Middle East as the investigation into those behind the attempted importation of €157 million worth of cocaine on the MV Matthew, moves internationally. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0705/1522027-mvmatthew-briefing/>
+
+---
+
+## All-Ireland SHC semi-final: Cork 7-26 Dublin 2-21 recap
+
+date: 2025-07-05, from: RTÉ News
+
+Cork strolled into the All-Ireland SHC final with a ruthless scoring display against Dublin at Croke Park. Here's how it happened. 
+
+<br> 
+
+<https://www.rte.ie/sport/hurling/2025/0705/1522026-all-ireland-shc-semi-final-cork-v-dublin-updates/>
+
+---
+
+## 'Absolutely horrendous day' in Tataskweyak Cree Nation as wildfire destroys at least 7 homes
+
+date: 2025-07-05, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7578511.1751827601!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/tastakweyak-fire.jpg' alt='Heavy smoke around a fire on a wooded area.' width='620' height='349' title='Photo of the fire near Tataskweyak Cree Nation posted on social media by Coun. Ivan Keeper on Sunday, July 6, 2025.'/><p>Several homes on Tataskweyak Cree Nation in northern Manitoba have been destroyed by wildfire that has forced nearly 200 people to evacuate, the community's chief and council said in a social media post on Saturday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/tataskweyak-cree-nation-wildfires-evacuation-1.7578243?cmp=rss>
+
+---
+
+## Joe Duffy says he will not contest presidential election
+
+date: 2025-07-05, from: RTÉ News
+
+Former RTÉ broadcaster Joe Duffy has confirmed that he will not seek a nomination to run for the presidency. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0705/1522020-presidential-election-joe-duffy/>
+
+---
+
+## Search continues in Texas for missing children after flash floods
+
+date: 2025-07-05, from: Vatican News
+
+
+                    <p>A rescue operation is underway and racing against time in Texas after the flash flooding of the Guadalupe River, which caused at least 34 deaths and many still missing, including over 20 girls who were attending a Christian summer camp in the area. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/texas-river-children-missing-floods-emergency.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/texas-river-children-missing-floods-emergency.html>
+
+---
+
+## Trump threatens Russian sanctions after drone attacks
+
+date: 2025-07-05, from: RTÉ News
+
+US President Donald Trump said Russia just wanted to "keep killing people" and hinted at sanctions after Moscow launched its largest ever drone and missile attack on Ukraine in the three-year-old war. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0705/1522018-ukraine-russia/>
+
+---
+
+## Hamas ‘positive’ toward new peace plan, reports suggest
+
+date: 2025-07-05, from: Vatican News
+
+
+                    <p>Hamas says it has delivered a “positive response” to mediators regarding a U.S.-backed proposal for a ceasefire and hostage release in Gaza.
+</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/hamas-positive-peace-plan-ceasefire-hostages.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/hamas-positive-peace-plan-ceasefire-hostages.html>
+
+---
+
+## Protesters from across island take part in housing rally
+
+date: 2025-07-05, from: RTÉ News
+
+Around 2,000 people are marching in Dublin city centre in protest against the Government's housing policies. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0705/1522015-housing-protest/>
+
+---
+
+## Rescuers, parents scramble to find missing summer campers in wake of deadly Texas flood
+
+date: 2025-07-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7578286.1751803150!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-extreme-weather-texas.jpg' alt='People react as they embrace.' width='620' height='349' title='Families are reunited at a reunification center after flash flooding hit the area, Friday, July 4, 2025, in Ingram, Texas. (AP Photo/Eric Gay)'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/texas-floods-search-1.7578158?cmp=rss>
+
+---
+
+## Death toll rises in Texas floods, with summer campers among dozens still missing
+
+date: 2025-07-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/e5316b4c-9d59-4523-84a7-d552a2b10167,1751823871115/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C105%2C2048%2C1152%29%3BResize%3D%28620%29' alt='Stuffed animals after flood in Texas.' width='620' height='349' title=''/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/search-texas-flood-third-day-1.7578368?cmp=rss>
+
+---
+
+## Texas flooding death toll tops 100 as rescuers brace for more rain
+
+date: 2025-07-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/c39ee891-5af6-4f4b-93c9-632d111e770b,1751932548547/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A man walks through fallen trees in front of a sideways RV. ' width='620' height='349' title=' An RV in Guadalupe Keys Resort, an RV park in Center Point, Texas, is seen on its side after flooding, Monday, July 7, 2025. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/texas-floods-search-rescue-monday-1.7578716?cmp=rss>
+
+---
+
+## More than 160 people still missing after deadly Texas floods, says governor
+
+date: 2025-07-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/1760408d-9a8e-4b2e-a610-62ad0a2b09fa,1752016472586/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Two people look over a guardrail into a river bed filled with debris and an an overturned car.' width='620' height='349' title='Relatives and friends of Alicia Olvera, a woman still missing after her husband was found dead, conduct a search to locate her near the Guadalupe River in Hunt, Texas, on July 8, 2025, following severe flash flooding over the July 4 holiday weekend.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/texas-floods-search-rescue-tuesday-1.7579663?cmp=rss>
+
+---
+
+## Texas officials deflect questions about preparedness, warnings ahead of deadly floods
+
+date: 2025-07-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7580991.1752088318!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/texas-floods-extreme-weather.jpg' alt='A flag is seen on a portion of eroded ground with water rushing underneath' width='620' height='349' title='An American flag sits on a destroyed bridge over the Guadalupe River at Arcadia Loop and Bear Creek Road after flooding in Kerrville, Texas on Wednesday , July 9, 2025.  '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/texas-flood-accountability-1.7580942?cmp=rss>
+
+---
+
+## Texas officials in Kerr County missed chances over the years to mitigate flood damage
+
+date: 2025-07-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/dfb0a3de-7cdf-4620-8546-44dbd51f975f,1752179522609/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='Search crews look for missing flood victims in Center Point, Texas.' width='620' height='349' title='Search crews look for missing flood victims in Center Point, Texas.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/texas-floods-missed-opportunities-1.7581474?cmp=rss>
+
+---
+
+## When floodwaters came, one small Texas town sounded its alarm
+
+date: 2025-07-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/d4c6b466-0f9c-4b75-9500-8dc62a223ee2,1752172040161/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A man in a firefighter&apos;s uniform stands during an interview, looking off camera' width='620' height='349' title='Danny Morales, volunteer firefighter in Comfort, Texas.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/comfort-texas-flooding-perparedness-1.7581811?cmp=rss>
+
+---
+
+## UN chief condemns Russian strikes on Ukraine, warns of nuclear safety risk
+
+date: 2025-07-05, from: United Nations, Top Stories
+
+The UN Secretary-General on Saturday strongly condemned Russia’s latest wave of drone and missile attacks in Ukraine – reportedly the largest in over three years of war – warning that the strikes again jeopardised nuclear safety at the Zaporizhzhia Nuclear Power Plant (ZNPP). 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165336>
+
+---
+
+## ‘A spirit of oneness’: Cooperatives cultivating peace in South Sudan
+
+date: 2025-07-05, from: United Nations, Economic Development
+
+Within one year, a maize and sorghum cooperative of 20 members in the Central Equatorial State of South Sudan had grown to over 150 members allowing many members to boost their income and provide for their families for the first time. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165256>
+
+---
+
+## Budding journalists from Kahnawà:ke share stories from their community
+
+date: 2025-07-05, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7575842.1751498869!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/emily-pasquarelli.JPG' alt='Two women sitting with recording equipment' width='620' height='349' title='Kahnawà:ke Survival School reporter Tekaweientehtáhkwen Diabo works with her Concordia mentor Emily Pasquarelli.'/><p>For the second year in a row, CBC Montreal is proud to support a partnership between Concordia University's journalism department and Kahnawake Survival School (KSS). The initiative aims to inspire Indigenous students to consider a career in media.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/montreal/journalists-kahnawake-survival-concordia-1.7575820?cmp=rss>
+
+---
+
+## First Person: Japanese UN volunteer ‘motivated by the passion of others’ to support peace
+
+date: 2025-07-05, from: United Nations, UN Affairs
+
+A United Nations volunteer from Japan has said as a teenager he was motivated by the “passion” of young people he met on an exchange programme to contribute to peace and development initiatives. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1164911>
+
+---
+
+## Pope to Augustinian sisters: Culture without truth becomes a tool of the powerful
+
+date: 2025-07-05, from: Vatican News
+
+
+                    <p>Pope Leo XIV encourages the Augustinian Sisters Servants of Jesus and Mary, to be patient during difficulties, brave in their educational mission, and to persevere in following Christ.
+</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-augustinian-sisters-jesus-and-mary-spinelli.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-augustinian-sisters-jesus-and-mary-spinelli.html>
+
+---
+
+## The Speed of Light and the Strangeness of Time: (2) Stretching and Squashing
+
+date: 2025-07-05, from: Vatican Obervatory
+
+You hear that at the Big Bang space and time were distorted beyond what the laws of physics allow us to investigate. But how can space and time be distorted? 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/the-speed-of-light-and-the-strangeness-of-time-2-stretching-and-squashing/>
+
+---
+
+## Paris opens Seine for swimming for first time since 1923
+
+date: 2025-07-05, from: RTÉ News
+
+Parisians rushed for a dip in the Seine as the authorities opened the river to public swimming for the first time since 1923 after an extensive clean-up operation spurred on by it being used as a venue in the Paris Olympics. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0705/1521997-paris-swimming/>
+
+---
+
+## Pope names French bishop Thibault Verny as new president of the Pontifical Commission for the Protection of Minors
+
+date: 2025-07-05, from: Vatican News
+
+
+                    <p>Pope Leo appoints Thibault Verny, Archbishop of Chambéry and Bishop of Maurienne and Tarentaise to succeed Cardinal Seán Patrick O’Malley as the president of the Pontifical Commission for the Protection of Minors. In France, Archbishop Verny was responsible for the fight against child abuse within the Episcopal Conference.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/pope-appoints-president-pontifical-commission-protection-minors.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/pope-appoints-president-pontifical-commission-protection-minors.html>
+
+---
+
+## Netanyahu says Israel sending team for Gaza truce talks
+
+date: 2025-07-05, from: RTÉ News
+
+Israel's Prime Minister Benjamin Netanyahu has said he is sending a negotiating team to Qatar for talks on a truce in Gaza, but rejected Hamas's earlier truce proposals. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0705/1521991-gaza-israel/>
+
+---
+
+## Pope to young people: We are all pilgrims and we are always pilgrims
+
+date: 2025-07-05, from: Vatican News
+
+
+                    <p>Pope Leo XIV welcomes young people and teachers from Northern Europe, urging them to listen to God’s call and continue their journey of discipleship.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-greeting-pilgrims-northern-europe-denmark-uk-jubilee.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-greeting-pilgrims-northern-europe-denmark-uk-jubilee.html>
+
+---
+
+## Fantastic Four actor Julian McMahon has died aged 56
+
+date: 2025-07-05, from: RTÉ News
+
+Julian McMahon, best known for his roles in the Fantastic Four movies and the television shows Nip/Tuck and Charmed, has died aged 56. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0705/1521987-fantastic-four-actor-julian-mcmahon-has-died-aged-56/>
+
+---
+
+## Hope that gain masks pain as Trump signs 'beautiful' bill
+
+date: 2025-07-05, from: RTÉ News
+
+Donald Trump signed his "One Big Beautiful Bill" in the Oval Office last night. It is possibly the most consequential thing he will do in domestic American politics in his second term. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0705/1521966-trump-bill/>
+
+---
+
+## Monster Hit: How Labubu became a billion-dollar business
+
+date: 2025-07-05, from: RTÉ News
+
+Labubu dolls have become a smash hit toy and fashion accessory, but they also represent a cultural watershed for China, writes Adam Maguire. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0705/1521956-labubu-toys-china/>
+
+---
+
+## Talk of revenge after acrimonious week for FF and FG
+
+date: 2025-07-05, from: RTÉ News
+
+There are a few politicians in Fianna Fáil and Fine Gael who will spend this weekend contemplating revenge, maybe even plotting it, writes Micheál Lehane. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0705/1521949-lehane-analysis/>
+
+---
+
+## Young Inuit take to the skies in pilot training program with dreams of serving Nunavik
+
+date: 2025-07-05, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7576722.1751577468!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/air-inuit-dash-8.jpg' alt='Two airplanes on a runway.' width='620' height='349' title='Two of Air Inuit&apos;s Dash-8 aircraft. The airline has been running its Sparrow training program to attract more Inuit pilots since 2014.'/><p>Each year, Air Inuit selects a handful of people from Nunavik to train in its Sparrow program, meant to increase the number of Inuit pilots. While a great opportunity, it also means they need to leave their communities behind.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/young-inuit-skies-pilot-training-program-dreams-serving-nunavik-1.7576650?cmp=rss>
+
+---
+
+## Gareth Edwards on directing Jurassic World Rebirth
+
+date: 2025-07-05, from: RTÉ News
+
+With a CV that includes Monsters, Godzilla, Rogue One: A Star Wars Story, and The Creator, director Gareth Edwards' latest is Jurassic World Rebirth - a standalone dinosaur adventure that aims to recapture the spirit of Steven Spielberg's 1993 classic. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0705/1521652-gareth-edwards-on-directing-jurassic-world-rebirth/>
+
+---
+
+## What next for MeToo after Sean Combs verdict?
+
+date: 2025-07-05, from: RTÉ News
+
+It was a verdict that sent shockwaves around the world. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0705/1521865-what-next-for-metoo-after-sean-combs-verdict/>
+
+---
+
+## How Canada could boost disease surveillance to make up for U.S. health cuts
+
+date: 2025-07-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.6949862.1751668118!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/wastewater-uwo.jpg' alt='A hand with a purple glove holding a jar of dirty water to the light against a blue sky' width='620' height='349' title='Wastewater monitoring could alert policymakers to potential health “rather than waiting for things to really snowball,” according to Dr. Jasmine Pawa. '/><p>With measles outbreaks, avian influenza and syphilis and HIV on the rise, Canada needs to strengthen its disease surveillance systems as cuts to U.S. health institutions threaten access to crucial monitoring data, experts say in an editorial published in the Canadian Medical Association Journal.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/health/cmaj-editorial-canada-us-cuts-surveillance-1.7577992?cmp=rss>
+
+---
+
+## Mourners gather for Diogo Jota's funeral in Portugal
+
+date: 2025-07-05, from: RTÉ News
+
+Diogo Jota's wife and family have been joined by Liverpool players for the funeral of the footballer and his brother, André Silva, in Portugal, following their death in a car crash in Spain. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0705/1521964-diogo-jota/>
+
+---
+
+## Old foes Kilkenny and Tipp set for tight tussle
+
+date: 2025-07-05, from: RTÉ News
+
+Once frequent rivals Kilkenny and Tipperary meet in the championship for the first time in six years, with a place in the All-Ireland hurling final at stake. 
+
+<br> 
+
+<https://www.rte.ie/sport/hurling/2025/0705/1521962-old-foes-kilkenny-and-tipp-set-for-tight-tussle/>
+
+---
+
+## Brother Kevin remembered for his kindness, funeral hears
+
+date: 2025-07-05, from: RTÉ News
+
+The funeral of Brother Kevin Crowley, the founder of the Capuchin Day Centre who died earlier this week at the age of 90, has taken place. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0705/1521945-brother-kevin-funeral/>
 

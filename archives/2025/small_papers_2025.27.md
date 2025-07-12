@@ -1,23 +1,89 @@
 ---
 title: small papers
-updated: 2025-07-11 14:07:46
+updated: 2025-07-12 06:08:49
 ---
 
 # small papers
 
-(date: 2025-07-11 14:07:46)
+(date: 2025-07-12 06:08:49)
 
 ---
 
-## Fishing Derby pulls 180 fish out of bay
+## Port celebrates $365 million terminal expansion that could bring in another half million containers annually
 
-date: 2025-07-11, from: Catalina Islander
+date: 2025-07-11, from: Long Beach Post
 
-For the Islander A total of 37 kids from Avalon, San Diego, San Pedro, Thousand Oaks, Pasadena, and Temecula participated in the July 9 Fishing Derby. A total of 180 fish were caught. 10 and under most fish caught 1st &#8211; Nicky, 16. 2nd &#8211; Easton Bravo, Avalon, 15. 3rd &#8211; Johnathan Garcia, Avalon, 12. [&#8230;] 
+<figure><img width="1024" height="575" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11155602/new-port-rendering-515919-uy7otghv-181011-muIAld0L-1024x575.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11155602/new-port-rendering-515919-uy7otghv-181011-muIAld0L-1024x575.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11155602/new-port-rendering-515919-uy7otghv-181011-muIAld0L-300x169.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11155602/new-port-rendering-515919-uy7otghv-181011-muIAld0L-768x431.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11155602/new-port-rendering-515919-uy7otghv-181011-muIAld0L-192x108.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11155602/new-port-rendering-515919-uy7otghv-181011-muIAld0L-1200x674.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11155602/new-port-rendering-515919-uy7otghv-181011-muIAld0L-400x225.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11155602/new-port-rendering-515919-uy7otghv-181011-muIAld0L.png 1248w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The project will fill in 19 acres of channel to extend the wharf and install new cranes.</p>
+<p>The post <a href="https://lbpost.com/news/business/trade-transportation/port-celebrates-365-million-terminal-expansion-that-could-bring-in-another-million-containers-annually">Port celebrates $365 million terminal expansion that could bring in another half million containers annually</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
 
 <br> 
 
-<https://thecatalinaislander.com/fishing-derby-pulls-180-fish-out-of-bay/>
+<https://lbpost.com/news/business/trade-transportation/port-celebrates-365-million-terminal-expansion-that-could-bring-in-another-million-containers-annually>
+
+---
+
+## Drunken, armed Border Patrol agent assaulted police officer outside Long Beach restaurant, DA alleges
+
+date: 2025-07-11, from: Long Beach Post
+
+<figure><img width="1024" height="684" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11151131/screenshot-2025-07-11-at-31022pm-379008-lvpaylwx-478686-ELLzsJii-1024x684.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11151131/screenshot-2025-07-11-at-31022pm-379008-lvpaylwx-478686-ELLzsJii-1024x684.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11151131/screenshot-2025-07-11-at-31022pm-379008-lvpaylwx-478686-ELLzsJii-300x200.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11151131/screenshot-2025-07-11-at-31022pm-379008-lvpaylwx-478686-ELLzsJii-768x513.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11151131/screenshot-2025-07-11-at-31022pm-379008-lvpaylwx-478686-ELLzsJii-162x108.png 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11151131/screenshot-2025-07-11-at-31022pm-379008-lvpaylwx-478686-ELLzsJii-400x267.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11151131/screenshot-2025-07-11-at-31022pm-379008-lvpaylwx-478686-ELLzsJii.png 1125w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Authorities say he went into the women’s restroom and then refused to leave the parking lot when a security guard told him they didn’t allow guns on the property.</p>
+<p>The post <a href="https://lbpost.com/news/crime/drunken-armed-border-patrol-agent-assaulted-cops-outside-long-beach-restaurant-da-alleges">Drunken, armed Border Patrol agent assaulted police officer outside Long Beach restaurant, DA alleges</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/drunken-armed-border-patrol-agent-assaulted-cops-outside-long-beach-restaurant-da-alleges>
+
+---
+
+## Islander among scholarship grads
+
+date: 2025-07-11, from: Catalina Islander
+
+Avalon High graduate, Giselle Alvarez, was among a group of college graduates who were recognized by the Angels Baseball Foundation in a pregame event prior to the Angels and Rangers game on Monday at Anaheim Stadium. Alvarez was one of 25 college graduates who were awarded scholarships from the ABF. She recently graduated from UC [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/islander-among-scholarship-grads/>
+
+---
+
+## Run Catalina Island expands Title Sponsorship with Hi-Tec
+
+date: 2025-07-11, from: Catalina Islander
+
+The Run Catalina Island race series has announced a renewal of its partnership with title sponsor Hi-Tec. Hi-Tec will continue serving as the series title sponsor through the year 2028, ensuring the continued support and enhancement of Run Catalina Islands participants’ race experiences for the next three years. The expansion of the sponsorship comes after [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/run-catalina-island-expands-title-sponsorship-with-hi-tec/>
+
+---
+
+## March 2025: 13.1% more visitors
+
+date: 2025-07-11, from: Catalina Islander
+
+By Charles M. Kelly March 2025 visitor counts were 13.1% greater than in March 2024, according to data recently released by Love Catalina Tourism Authority. (Love Catalina released the March and April data on June 30; and the May data on July 9. This week, we look at the March 2025 numbers.) “March’s total arrival [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/march-2025-13-1-more-visitors/>
+
+---
+
+## City Council assigns shoreboat agreement
+
+date: 2025-07-11, from: Catalina Islander
+
+t The council last week approved the assign the remainder of the shoreboat service agreement to Eric Mahan. The council also amended the end float lease agreement with Catalina Jet Ski Corporations. The vote was unanimous. According to City Manager David Maistros, the city received a request to transfer the current shoreboat agreement to Eric [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/city-council-assigns-shoreboat-agreement/>
 
 ---
 
@@ -25,7 +91,7 @@ For the Islander A total of 37 kids from Avalon, San Diego, San Pedro, Thousand 
 
 date: 2025-07-11, from: Long Beach Post
 
-<figure><img width="1024" height="787" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826.jpg 1714w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-300x231.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1024x787.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-768x591.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-140x108.jpg 140w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1536x1181.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1200x923.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1568x1206.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-400x308.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="787" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826.jpg 1714w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-300x231.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1024x787.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-768x591.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-140x108.jpg 140w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1536x1181.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1200x923.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1568x1206.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-400x308.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A Proposition 218 public hearing on Aug. 27 will allow residents to contest a string of expected price hikes to water and sewer rates that will otherwise take effect later this year. </p>
 <p>The post <a href="https://lbpost.com/news/city/hearing-scheduled-on-long-beach-water-sewer-rate-increases">Hearing scheduled on Long Beach water, sewer rate increases</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -40,7 +106,7 @@ date: 2025-07-11, from: Long Beach Post
 
 date: 2025-07-11, from: Long Beach Post
 
-<figure><img width="1024" height="553" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-1024x553.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-1024x553.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-300x162.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-768x415.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-400x216.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="553" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-1024x553.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-1024x553.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-300x162.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-768x415.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-400x216.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Local leaders are weighing whether to join other cities in a lawsuit seeking to block immigration operations they say are unconstitutional.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/long-beach-ice-raids-push-back-lawsuit-mayor">How much will Long Beach push back on ICE raids? There’s &#8216;no playbook for this,&#8217; mayor says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -100,7 +166,7 @@ date: 2025-07-10, from: Long Beach Post
 
 date: 2025-07-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1019" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?fit=1019%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?w=1900&amp;ssl=1 1900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=298%2C300&amp;ssl=1 298w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=1019%2C1024&amp;ssl=1 1019w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=768%2C772&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=1528%2C1536&amp;ssl=1 1528w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=1200%2C1206&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=780%2C784&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=400%2C402&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=706%2C710&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?fit=1019%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1019" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?fit=1019%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?w=1900&amp;ssl=1 1900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=298%2C300&amp;ssl=1 298w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=1019%2C1024&amp;ssl=1 1019w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=768%2C772&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=1528%2C1536&amp;ssl=1 1528w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=1200%2C1206&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=780%2C784&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=400%2C402&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=706%2C710&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/92533981_1752064569221676_r-scaled-e1752111442502.jpeg?fit=1019%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>VAN NUYS &#8211; La Unión del Barrio, con abogados como el Gremio Nacional de Abogados, están pidiendo la liberación de los residentes del noreste del Valle Ernesto Ayala y Jude [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/07/09/el-organizador-comunitario-ernesto-ayala-y-otras-tres-personas-son-arrestadas-durante-una-redada-de-ice-en-van-nuys-home-depot/">El Organizador Comunitario Ernesto Ayala y Otras Tres Personas son Arrestadas Durante una Redada de ICE en Van Nuys Home Depot</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

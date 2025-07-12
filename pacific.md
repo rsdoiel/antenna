@@ -1,11 +1,24 @@
 ---
 title: pacific
-updated: 2025-07-11 14:07:37
+updated: 2025-07-12 06:08:42
 ---
 
 # pacific
 
-(date: 2025-07-11 14:07:37)
+(date: 2025-07-12 06:08:42)
+
+---
+
+## Toronto Raptors name former UH Hilo Vulcan to summer league roster
+
+date: 2025-07-11, from: University of Hawaiʻi News
+
+<p>Aniwaniwa Tait-Jones was one of 16 named to the team’s summer league roster.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/11/vulcan-joins-nba-summer-league/">Toronto Raptors name former <abbr>UH</abbr> Hilo Vulcan to summer league roster</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/11/vulcan-joins-nba-summer-league/>
 
 ---
 
@@ -25,7 +38,7 @@ By Ron Rocky Coloma   Nate Manibusan sat with a strip of åkgak leaf in his han
 
 date: 2025-07-11, from: University of Hawaiʻi News
 
-<p>The Department of Public Health Sciences used an AI-powered simulation game to teach students about global health and pandemic response.</p>
+<p>The Department of Public Health Sciences used an <abbr>AI</abbr>-powered simulation game to teach students about global health and pandemic response.</p>
 The post <a href="https://www.hawaii.edu/news/2025/07/11/public-health-ai-enhanced-game/"><abbr>AI</abbr>-enhanced game prepares public health students for global challenges</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <br> 
@@ -3811,4 +3824,234 @@ Aotearoa's champion Tongan-Kiwi weightlifter David Liti won two gold medals in t
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/566107/nz-team-flagbearer-david-liti-lifts-through-grief-to-win-double-gold-at-pacific-mini-games>
+
+---
+
+## Dengue scare hits Pacific Mini Games; athlete receives medical care, health alert issued
+
+date: 2025-07-05, from: 
+
+Palau's Health Ministry is asking athletes, teams, visitors and the people of the islands to protect themselves as much as possible from mosquito bites. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566081/dengue-scare-hits-pacific-mini-games-athlete-receives-medical-care-health-alert-issued>
+
+---
+
+## Community Events: Vax outreach
+
+date: 2025-07-05, from: Pacific Island Times
+
+The Department of Public Health and Social Services (DPHSS) will be conducting a Back-to-School Immunization Outreach on July 25 from 10... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/community-events-vax-outreach>
+
+---
+
+## At least 13 are killed in Texas flood, and 20 girls from summer camp are missing
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>KERRVILLE, Texas &#8212; A rain-swelled Guadalupe River swept through a summer camp and nearby areas before dawn on Friday in Central Texas, killing at least 13 people and setting off frantic searches for missing children and others.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/at-least-13-are-killed-in-texas-flood-and-20-girls-from-summer-camp-are-missing/>
+
+---
+
+## There’s a race to power the future — China is pulling away
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>In China, more wind turbines and solar panels were installed last year than in the rest of the world combined. And China&#8217;s clean energy boom is going global. Chinese companies are building electric vehicle and battery factories in Brazil, Thailand, Morocco, Hungary and beyond.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/theres-a-race-to-power-the-future-china-is-pulling-away/>
+
+---
+
+## Trump signs signature tax-cut and spending bill into law
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON, July 4 (Reuters) &#8212; U.S. President Donald Trump signed into law a massive package of tax and spending cuts in a ceremony at the White House on Friday, one day after the Republican-controlled House of Representatives narrowly approved the signature legislation of Trump&#8217;s second term.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/trump-signs-signature-tax-cut-and-spending-bill-into-law/>
+
+---
+
+## From court to Congress to the Mideast, Trump tallies his wins
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Just hours after his domestic policy megabill squeaked through Congress on Thursday, President Donald Trump stood before a crowd of supporters and marveled at how well it all seemed to be going for him lately.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/from-court-to-congress-to-the-mideast-trump-tallies-his-wins/>
+
+---
+
+## States brace for added burdens of Trump’s tax and spending law
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>The ink is not even dry on the far-reaching domestic policy law that President Donald Trump will sign Friday, and already, state governments are bracing for impact as Washington shifts much of the burden for health care, food assistance and other programs onto them.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/states-brace-for-added-burdens-of-trumps-tax-and-spending-law/>
+
+---
+
+## News in brief for July 5
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>Trump: WH to start &#0010;notifying countries about tariffs </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/news-in-brief-for-july-5/>
+
+---
+
+## Judge pauses transfer of eight migrants to South Sudan
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>The fate of eight men, now held on a U.S. military base in Djibouti, is once again unclear after a district court judge in Washington issued a brief administrative stay that blocked the government from deporting them to South Sudan.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/judge-pauses-transfer-of-eight-migrants-to-south-sudan/>
+
+---
+
+## Russia hits Ukraine with large air barrage hours after Trump-Putin call
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Russia attacked Kyiv and other Ukrainian cities on Friday with the largest number of drones and missiles launched in a single barrage so far in the war, according to the Ukrainian air force, just hours after a phone call between President Donald Trump and President Vladimir Putin of Russia.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/russia-hits-ukraine-with-large-air-barrage-hours-after-trump-putin-call/>
+
+---
+
+## The Madre fire grows to 70,800 acres, triggering evacuations in California
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>A wildfire in California&#8217;s San Luis Obispo County rapidly expanded overnight and was covering about 70,800 acres by Friday morning, prompting evacuation orders, closing part of a highway and sending thick smoke billowing into neighboring counties. It is the biggest wildfire the state has seen this year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/the-madre-fire-grows-to-70800-acres-triggering-evacuations-in-california/>
+
+---
+
+## US Air Force suspends SpaceX rocket project on Pacific atoll, report says
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Air Force has suspended plans it had proposed with Elon Musk&#8217;s SpaceX to test hypersonic rocket cargo deliveries from a remote Pacific atoll, according to a report this week in Stars and Stripes, an independent publication of the U.S. military. The suspension came after Reuters reported that biologists and experts said the project would harm many seabirds that nest at the wildlife refuge on the Johnston Atoll, an unincorporated U.S. territory nearly 800 miles (1,300 km) southwest of Hawaii.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/us-air-force-suspends-spacex-rocket-project-on-pacific-atoll-report-says/>
+
+---
+
+## Hamas says it is ready to negotiate truce proposal
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; The Palestinian militant group Hamas said Friday that it had responded positively to a new proposal for a 60-day Gaza Strip ceasefire with Israel and was ready to immediately enter negotiations on implementing it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/hamas-says-it-is-ready-to-negotiate-truce-proposal/>
+
+---
+
+## Nuclear inspectors leave Iran after cooperation halted with UN watchdog
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>The United Nations&#8217; nuclear watchdog said Friday that its inspectors have left Iran, days after the country &#8212; still reeling from its war with Israel &#8212; suspended cooperation with the international agency.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/nuclear-inspectors-leave-iran-after-cooperation-halted-with-un-watchdog/>
+
+---
+
+## As Americans celebrate Independence Day, some protest the Trump administration
+
+date: 2025-07-05, from: Hawaii Tribune Harold
+
+
+				<p>As many Americans gathered for cookouts and patriotic parades to celebrate Independence Day on Friday, others assembled at hundreds of planned demonstrations against the Trump administration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/05/nation-world-news/as-americans-celebrate-independence-day-some-protest-the-trump-administration/>
+
+---
+
+## Time for some glee
+
+date: 2025-07-05, from: Pacific Island Times
+
+Yes&#38;Know By Aline Yamashita There was always joy in my preschool classroom. During a time when we enjoyed open-air classrooms at M.U.... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/time-for-some-glee>
+
+---
+
+## In July 4 ceremony, Trump signs tax and spending bill into law
+
+date: 2025-07-05, updated: 2025-07-05, from: Marianas Variety
+
+WASHINGTON (Reuters) — President Donald Trump signed into law a massive package of tax and spending cuts at the White House on Friday, staging an outdoor ceremony on the Fourth of July holiday that took on the air of a Trump political rally. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/in-july-4-ceremony-trump-signs-tax-and-spending-bill-into-law/article_1841fbec-ff10-4cbb-b672-6ad08ea6c197.html>
 

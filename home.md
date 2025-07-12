@@ -1,11 +1,71 @@
 ---
 title: home
-updated: 2025-07-11 14:07:43
+updated: 2025-07-12 06:08:47
 ---
 
 # home
 
-(date: 2025-07-11 14:07:43)
+(date: 2025-07-12 06:08:47)
+
+---
+
+## Best Way to See the Mojave Desert? Try a Camper Van
+
+date: 2025-07-11, from: Sunset Magazine - Living in the West
+
+No hotel? No problem. A camper van makes for spontaneous, stress-free travel in the desert. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/best-way-to-see-the-mojave-desert-try-a-camper-van>
+
+---
+
+## The Laguna Surf Lodge Will Fulfill Your ‘Endless Summer’ Fantasy
+
+date: 2025-07-11, from: Sunset Magazine - Living in the West
+
+The new Laguna Surf Lodge is the coastal California stay we need this summer. It includes a dawn patrol experience with a surf pro. 
+
+<br> 
+
+<https://www.sunset.com/travel/laguna-surf-lodge-review>
+
+---
+
+## From Joining a Run Club to Booking a Resort Pass, Here’s Your Definitive Summer Bucket List
+
+date: 2025-07-11, from: Sunset Magazine - Living in the West
+
+These are the activities and trips to plan to have the ultimate summer, from joining a run club to planning a road trip. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-plan-summer-bucket-list>
+
+---
+
+## These Are the Essential Safety Tools Every Traveler Needs in the Car for a Road Trip
+
+date: 2025-07-11, from: Sunset Magazine - Living in the West
+
+From jumper cables to first aid kits, these are the items every traveler needs for their next road trip to stay safe. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips/road-trip-essentials>
+
+---
+
+## 5 Rules for Adding More Color to Your Home
+
+date: 2025-07-11, from: Sunset Magazine - Living in the West
+
+A color consultant and interior designers strategize about how to thoughtfully bring more color into any space. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/how-to-add-color-to-home>
 
 ---
 
@@ -333,18 +393,6 @@ Two brewers wanted to build a retreat where they could retire and host love ones
 <br> 
 
 <https://www.sunset.com/home-garden/home-tours/eco-friendly-retreat-sonoma>
-
----
-
-## These Are the Essential Safety Tools Every Traveler Needs in the Car for a Road Trip
-
-date: 2025-07-10, from: Sunset Magazine - Living in the West
-
-From jumper cables to first aid kits, these are the items every traveler needs for their next road trip to stay safe. 
-
-<br> 
-
-<https://www.sunset.com/travel/road-trips/road-trip-essentials>
 
 ---
 
@@ -1570,4 +1618,116 @@ date: 2025-07-06, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/20-salamanders-in-oregon-with-pictures-and-identification/>
+
+---
+
+## 31 of the Best Companion Plants for Potatoes
+
+date: 2025-07-05, from: The Gardener's Path
+
+<p>Growing potatoes organically? Companion planting helps with natural pest control and may improve your harvest. Growing your root crops alongside carefully chosen vegetables, herbs, and flowers creates a thriving garden ecosystem without chemicals. Learn about 31 of the best companion plants for potatoes in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/best-companion-plants-potatoes/">31 of the Best Companion Plants for Potatoes</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/best-companion-plants-potatoes/>
+
+---
+
+## This Multipurpose Garden Paradise Packs in a Pool, Fire Pit, Shower, Outdoor Dining Area, and More
+
+date: 2025-07-05, from: Sunset Magazine - Living in the West
+
+This plot of land was narrow and small. See how it was turned it into a versatile space with a pool, outdoor shower, seating area, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/multipurpose-garden-design>
+
+---
+
+## A Tiny Bathroom Felt Like a Dingy Cave—Now It’s a Colorful, Whimsical Jewel Box
+
+date: 2025-07-05, from: Sunset Magazine - Living in the West
+
+This tiny bathroom was dingy and outdated but its owners wanted to make a bold statement. It's not a colorful and whimsical space. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/bold-color-bathroom-makeover>
+
+---
+
+## Are There Scorpions in Florida? Everything You Should Know
+
+date: 2025-07-05, from: Yard Life blog
+
+<p>Florida&#8217;s subtropical climate is known for its lush vegetation, exotic wildlife, and year-round warmth. With such favorable conditions for a ... </p>
+<p class="read-more-container"><a title="Are There Scorpions in Florida? Everything You Should Know" class="read-more button" href="https://ownyardlife.com/are-there-scorpions-in-florida-everything-you-should-know/#more-31699" aria-label="Read more about Are There Scorpions in Florida? Everything You Should Know">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/are-there-scorpions-in-florida-everything-you-should-know/">Are There Scorpions in Florida? Everything You Should Know</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/are-there-scorpions-in-florida-everything-you-should-know/>
+
+---
+
+## June in Jacques’ garden
+
+date: 2025-07-05, from: Greg Alder's blog, Yard Post
+
+<p>Now we&#8217;re into summer and the stone fruits are ripening in abundance, as are less common treats that Jacques grows that you might not have tried, such as Kei apples and Surinam cherries (which aren&#8217;t actually apples or cherries at all!). Come along: More about the fruits tasted Cot-N-Candy aprium: Dave Wilson Nursery page Kei [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/june-in-jacques-garden/">June in Jacques&#8217; garden</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/june-in-jacques-garden/>
+
+---
+
+## 35 Common Birds in Nevada (With Pictures and Identification)
+
+date: 2025-07-05, from: Yard Life blog
+
+<p>Nevada is a true paradise for bird lovers, offering an incredible variety of habitats that attract an amazing array of ... </p>
+<p class="read-more-container"><a title="35 Common Birds in Nevada (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/35-common-birds-in-nevada-with-pictures-and-identification/#more-31687" aria-label="Read more about 35 Common Birds in Nevada (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/35-common-birds-in-nevada-with-pictures-and-identification/">35 Common Birds in Nevada (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/35-common-birds-in-nevada-with-pictures-and-identification/>
+
+---
+
+## How to Attract More Birds to Your Yard in Michigan (By Season)
+
+date: 2025-07-05, from: Yard Life blog
+
+<p>Michigan is renowned for its rich and varied birdlife, with its diverse ecosystems supporting a wide range of species throughout ... </p>
+<p class="read-more-container"><a title="How to Attract More Birds to Your Yard in Michigan (By Season)" class="read-more button" href="https://ownyardlife.com/how-to-attract-more-birds-to-your-yard-in-michigan-by-season/#more-31679" aria-label="Read more about How to Attract More Birds to Your Yard in Michigan (By Season)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-to-attract-more-birds-to-your-yard-in-michigan-by-season/">How to Attract More Birds to Your Yard in Michigan (By Season)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-to-attract-more-birds-to-your-yard-in-michigan-by-season/>
+
+---
+
+## 26 Backyard Birds in Illinois (With Pictures and Identification)
+
+date: 2025-07-05, from: Yard Life blog
+
+<p>Illinois has many backyard birds that bring color and life to gardens and neighborhoods all year long. The state’s mix ... </p>
+<p class="read-more-container"><a title="26 Backyard Birds in Illinois (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/26-backyard-birds-in-illinois-with-pictures-and-identification/#more-31669" aria-label="Read more about 26 Backyard Birds in Illinois (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/26-backyard-birds-in-illinois-with-pictures-and-identification/">26 Backyard Birds in Illinois (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/26-backyard-birds-in-illinois-with-pictures-and-identification/>
 

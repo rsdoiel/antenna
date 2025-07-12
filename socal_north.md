@@ -1,11 +1,105 @@
 ---
 title: socal north
-updated: 2025-07-11 14:07:35
+updated: 2025-07-12 06:08:41
 ---
 
 # socal north
 
-(date: 2025-07-11 14:07:35)
+(date: 2025-07-12 06:08:41)
+
+---
+
+## Port celebrates $365 million terminal expansion that could bring in another half million containers annually
+
+date: 2025-07-11, from: Longbeach Post
+
+<figure><img width="1024" height="575" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11155602/new-port-rendering-515919-uy7otghv-181011-muIAld0L-1024x575.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11155602/new-port-rendering-515919-uy7otghv-181011-muIAld0L-1024x575.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11155602/new-port-rendering-515919-uy7otghv-181011-muIAld0L-300x169.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11155602/new-port-rendering-515919-uy7otghv-181011-muIAld0L-768x431.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11155602/new-port-rendering-515919-uy7otghv-181011-muIAld0L-192x108.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11155602/new-port-rendering-515919-uy7otghv-181011-muIAld0L-1200x674.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11155602/new-port-rendering-515919-uy7otghv-181011-muIAld0L-400x225.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11155602/new-port-rendering-515919-uy7otghv-181011-muIAld0L.png 1248w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The project will fill in 19 acres of channel to extend the wharf and install new cranes.</p>
+<p>The post <a href="https://lbpost.com/news/business/trade-transportation/port-celebrates-365-million-terminal-expansion-that-could-bring-in-another-million-containers-annually">Port celebrates $365 million terminal expansion that could bring in another half million containers annually</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/trade-transportation/port-celebrates-365-million-terminal-expansion-that-could-bring-in-another-million-containers-annually>
+
+---
+
+## Drunken, armed Border Patrol agent assaulted police officer outside Long Beach restaurant, DA alleges
+
+date: 2025-07-11, from: Longbeach Post
+
+<figure><img width="1024" height="684" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11151131/screenshot-2025-07-11-at-31022pm-379008-lvpaylwx-478686-ELLzsJii-1024x684.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11151131/screenshot-2025-07-11-at-31022pm-379008-lvpaylwx-478686-ELLzsJii-1024x684.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11151131/screenshot-2025-07-11-at-31022pm-379008-lvpaylwx-478686-ELLzsJii-300x200.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11151131/screenshot-2025-07-11-at-31022pm-379008-lvpaylwx-478686-ELLzsJii-768x513.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11151131/screenshot-2025-07-11-at-31022pm-379008-lvpaylwx-478686-ELLzsJii-162x108.png 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11151131/screenshot-2025-07-11-at-31022pm-379008-lvpaylwx-478686-ELLzsJii-400x267.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11151131/screenshot-2025-07-11-at-31022pm-379008-lvpaylwx-478686-ELLzsJii.png 1125w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Authorities say he went into the women’s restroom and then refused to leave the parking lot when a security guard told him they didn’t allow guns on the property.</p>
+<p>The post <a href="https://lbpost.com/news/crime/drunken-armed-border-patrol-agent-assaulted-cops-outside-long-beach-restaurant-da-alleges">Drunken, armed Border Patrol agent assaulted police officer outside Long Beach restaurant, DA alleges</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/drunken-armed-border-patrol-agent-assaulted-cops-outside-long-beach-restaurant-da-alleges>
+
+---
+
+## Santa Clarita Voices Episode Seven Available Now
+
+date: 2025-07-11, from: City of Santa Clarita
+
+<p>Xanthe Pajarillo, the “McRib Girl,” Joins the Podcast 10 Years After Her Viral City Council Moment The City of Santa Clarita is excited to announce the release of the seventh episode of Santa Clarita Voices, the City’s official podcast, that highlights the stories, experiences and conversations from City leaders and unique members of our community. [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/11/santa-clarita-voices-episode-seven-available-now/">Santa Clarita Voices Episode Seven Available Now</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/11/santa-clarita-voices-episode-seven-available-now/>
+
+---
+
+## City of Santa Clarita Launches Summer Shuttle Service Pilot Program in Old Town Newhall
+
+date: 2025-07-11, from: City of Santa Clarita
+
+<p>To alleviate parking hassles and make it easier for residents and visitors to explore Santa Clarita’s Premier Arts and Entertainment District of Old Town Newhall, the City has launched the Summer Shuttle Service Pilot Program beginning Friday, July 11. This new, free shuttle service, the Old Town Newhall Shuttle, will operate every 10 minutes throughout [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/11/city-of-santa-clarita-launches-summer-shuttle-service-pilot-program-in-old-town-newhall/">City of Santa Clarita Launches Summer Shuttle Service Pilot Program in Old Town Newhall</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/11/city-of-santa-clarita-launches-summer-shuttle-service-pilot-program-in-old-town-newhall/>
+
+---
+
+## LA mayor issues order she says will ‘bolster’ city response to immigration enforcement
+
+date: 2025-07-11, updated: 2025-07-11, from: The LAist
+
+Among the directives is to make sure officials know how to respond to federal immigration enforcement at city properties or facilities. 
+
+<br> 
+
+<https://laist.com/news/politics/la-mayor-issues-order-she-says-will-bolster-city-response-to-immigration-enforcement>
+
+---
+
+## Higher premiums and lost coverage: How Trump’s budget will change health care in California
+
+date: 2025-07-11, updated: 2025-07-11, from: The LAist
+
+Lower-income people will be the hardest hit. Over the next 10 years, 3.4 million Californians could lose coverage. 
+
+<br> 
+
+<https://laist.com/news/health/higher-premiums-and-lost-coverage-how-trumps-budget-will-change-health-care-in-california>
+
+---
+
+## Lawmakers say they were illegally barred from entering Adelanto ICE facility
+
+date: 2025-07-11, updated: 2025-07-11, from: The LAist
+
+Federal law says members of Congress can inspect ICE detention centers without warning. The Department of Homeland Security said it now needs seven days notice to allow inspection. 
+
+<br> 
+
+<https://laist.com/news/politics/lawmakers-say-there-were-illegally-barred-from-entering-adelanto-ice-facility>
 
 ---
 
@@ -63,7 +157,7 @@ date: 2025-07-11, from: City of Santa Clarita
 
 date: 2025-07-11, from: Longbeach Post
 
-<figure><img width="1024" height="787" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826.jpg 1714w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-300x231.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1024x787.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-768x591.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-140x108.jpg 140w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1536x1181.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1200x923.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1568x1206.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-400x308.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="787" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826.jpg 1714w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-300x231.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1024x787.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-768x591.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-140x108.jpg 140w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1536x1181.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1200x923.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-1568x1206.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/06/08154713/tempImageLmImt6-e1686264649826-400x308.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A Proposition 218 public hearing on Aug. 27 will allow residents to contest a string of expected price hikes to water and sewer rates that will otherwise take effect later this year. </p>
 <p>The post <a href="https://lbpost.com/news/city/hearing-scheduled-on-long-beach-water-sewer-rate-increases">Hearing scheduled on Long Beach water, sewer rate increases</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -90,7 +184,7 @@ Many Americans received an email from the Social Security Administration applaud
 
 date: 2025-07-11, from: Longbeach Post
 
-<figure><img width="1024" height="553" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-1024x553.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-1024x553.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-300x162.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-768x415.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-400x216.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="553" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-1024x553.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-1024x553.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-300x162.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-768x415.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-400x216.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Local leaders are weighing whether to join other cities in a lawsuit seeking to block immigration operations they say are unconstitutional.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/long-beach-ice-raids-push-back-lawsuit-mayor">How much will Long Beach push back on ICE raids? There’s &#8216;no playbook for this,&#8217; mayor says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -125,23 +219,11 @@ We're going to see between 5 and 10 degrees of cooling in SoCal this weekend.
 
 ---
 
-## Protesters and federal agents clash during raid at Camarillo farm
+## Remember Barnes City in West LA? Probably not — it left town with the circus
 
-date: 2025-07-11, updated: 2025-07-11, from: The LAist
+date: 2025-07-11, updated: 2025-07-12, from: The LAist
 
-A confrontation erupted Thursday between protesters and federal officials carrying out a raid, with authorities throwing canisters to disperse the crowd. 
-
-<br> 
-
-<https://laist.com/news/protesters-and-federal-agents-clash-during-raid-at-camarillo-farm>
-
----
-
-## How an old failed circus town decided the fate of this westside neighborhood
-
-date: 2025-07-11, updated: 2025-07-11, from: The LAist
-
-Before L.A. had Del Rey, it was the short-lived Barnes City, home of a traveling circus. 
+Barnes City was created 100 years ago. And then it disappeared, one of L.A.'s shortest-lived municipalities. What happened to it? 
 
 <br> 
 
@@ -158,6 +240,18 @@ Full Circle Thrift, a nonprofit thrift store in Altadena, reopened this week, si
 <br> 
 
 <https://laist.com/news/los-angeles-activities/altadena-thrift-store-reopens-after-eaton-fire>
+
+---
+
+## Protesters and federal agents clash during raid at Camarillo farm
+
+date: 2025-07-11, updated: 2025-07-11, from: The LAist
+
+A confrontation erupted Thursday between protesters and federal officials carrying out a raid, with authorities throwing canisters to disperse the crowd. 
+
+<br> 
+
+<https://laist.com/news/protesters-and-federal-agents-clash-during-raid-at-camarillo-farm>
 
 ---
 
@@ -1415,4 +1509,66 @@ North Korean leader Kim Jong Un said he wants the luxury resort on the eastern s
 <br> 
 
 <https://laist.com/npr-news/north-korea-has-a-new-luxury-beach-resort-but-the-country-isnt-open-to-most-tourists>
+
+---
+
+## A Community-Favorite Tradition Returns to Central ParkBy City Manager Ken Striplin
+
+date: 2025-07-05, from: City of Santa Clarita
+
+<p>Each summer, families, friends and neighbors from across Santa Clarita eagerly await the return of a cherished tradition — an evening under the stars filled with live music, laughter and community spirit. Now celebrating its 35th year, Concerts in the Park, presented by Logix Federal Credit Union, remains a summer staple that draws thousands to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/05/a-community-favorite-tradition-returns-to-central-parkby-city-manager-ken-striplin/">A Community-Favorite Tradition Returns to Central ParkBy City Manager Ken Striplin</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/05/a-community-favorite-tradition-returns-to-central-parkby-city-manager-ken-striplin/>
+
+---
+
+## Just got laid off? Get back on your feet with this step-by-step guide
+
+date: 2025-07-05, updated: 2025-07-05, from: The LAist
+
+When you lose your job, it can be tough to know what to do next. Career coach Octavia Goredema shares a practical checklist of next moves, from reviewing exit paperwork to securing health care. 
+
+<br> 
+
+<https://laist.com/news/just-got-laid-off-get-back-on-your-feet-with-this-step-by-step-guide>
+
+---
+
+## ‘A Great Day in East LA’: The largest Eastside music exhibition ever assembled is now on display
+
+date: 2025-07-05, updated: 2025-07-05, from: The LAist
+
+From punk and soul to jarocho and Chicano rock, the landmark L.A. Plaza exhibit celebrates generations of musicians often overlooked by the mainstream 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/largest-eastside-music-exhibition-ever-assembled-now-on-display>
+
+---
+
+## ‘A view to die for’: The macabre history of the Verdugo Hills Cemetery in Sunland-Tujunga
+
+date: 2025-07-05, updated: 2025-07-05, from: The LAist
+
+The cemetery atop a hill contains more than 100 years of Sunland-Tujunga history — and yes, killer views. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/the-macabre-history-of-verdugo-hills-cemetery>
+
+---
+
+## Crystal Cave in Sequoia National Park reopens after four years of repairs
+
+date: 2025-07-05, updated: 2025-07-05, from: The LAist
+
+A majestic “counterpoint” to the park’s namesake trees, the cave is welcoming visitors back after recovering from fire and storm damage. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/crystal-cave-sequoia-national-park-reopens>
 

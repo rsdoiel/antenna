@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2025-07-11 14:07:37
+updated: 2025-07-12 06:08:42
 ---
 
 # ham radio
 
-(date: 2025-07-11 14:07:37)
+(date: 2025-07-12 06:08:42)
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-07-11, from: Amateur Radio Relay League News
+
+<p><span>Spaceweather.com reports solar activity was at low levels with only C-class flares observed.<span>  </span>The largest flare during the period was a C8.9 from an unnumbered region beyond the east limb at S13.<span>  </span>This region was also responsible for the majority of the remaining flares alongside Regions 4136 and 4137. </span></p><p><span>An approximate M2 was observed by Solar Orbiter at 10/1326 UTC just beyond the east limb, bri...</span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-21>
 
 ---
 

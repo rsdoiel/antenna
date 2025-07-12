@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-07-11 14:07:41
+updated: 2025-07-12 06:08:45
 ---
 
 # games
 
-(date: 2025-07-11 14:07:41)
+(date: 2025-07-12 06:08:45)
+
+---
+
+## It’s 2025 and we’re still finding out about more Bloodborne cut content
+
+date: 2025-07-11, updated: 2025-07-11, from: Polygon Website
+
+We may never get a sequel or remaster to FromSoftware’s 2015 gothic action game Bloodborne but that doesn’t necessarily mean that the tap has to run dry. Every couple of years over the past decade sees a new tidbit arise about Bloodborne, usually in the realm of cut content or ongoing secrets discovered by the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/612798/bloodborne-new-cut-content-alpha-map>
+
+---
+
+## The Shrouds, Jaws @ 50, Karate Kid: Legends, and every movie new to streaming this weekend
+
+date: 2025-07-11, updated: 2025-07-11, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. The National Geographic documentary Jaws @ 50, which shows how the first summer blockbuster was made and explores its legacy, swims onto Disney Plus this weekend. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/612520/new-movies-watch-the-shrouds-jaws-at-50-karate-kid-legends-7-11-2025>
+
+---
+
+## How to beat the Shadow Miyazawa boss in Persona 5 The Phantom X
+
+date: 2025-07-11, updated: 2025-07-11, from: Polygon Website
+
+Shadow Miyazawa is the final boss of Miyazawa’s Palace in Persona 5: The Phantom X. The fight against the dishonest food critic is full of tricks and gimmicks, so you’ll need to pay close attention to defeat him. Pick up on the little details to call out Miyazawa’s bluffs because if you attack the wrong [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/persona-5-phantom-x-guides/612631/miyazawa-boss-fight-sword-clone-p5x>
 
 ---
 
@@ -750,4 +786,28 @@ AMC Plus’ ongoing adventure series Nautilus is set before the events of Jules 
 <br> 
 
 <https://www.polygon.com/tv/610996/shazad-latif-turned-to-alan-moores-comics-to-inspire-him-as-nautilus-captain-nemo>
+
+---
+
+## The Eternal Die team always knew Lost In Random would make a great roguelike
+
+date: 2025-07-05, updated: 2025-07-04, from: Polygon Website
+
+While 2021’s Lost in Random was far from a roguelike, the team behind the adventure game always knew its zany world and dice-based gameplay would be a great fit for the fast-paced, combat-focused genre. “Lost in Random being a roguelike sounded like a great idea and [way] to continue with the IP, but taking a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/611005/eternal-die-developer-lost-in-random-roguelike>
+
+---
+
+## Pokémon Go Eevee Community Day Classic guide
+
+date: 2025-07-05, updated: 2025-07-03, from: Polygon Website
+
+Pokémon Go is having an Eevee Community Day Classic event on both July 5 and 6 from 2-5 p.m. in your local time. As expected with a Community Day event, Eevee will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/610745/eevee-community-day-shiny-flareon-jolteon-vaporeon-umbreon-espeon-sylveon-glaceon-leafeon>
 

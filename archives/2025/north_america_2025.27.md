@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-07-11 14:07:35
+updated: 2025-07-12 06:08:41
 ---
 
 # north america
 
-(date: 2025-07-11 14:07:35)
+(date: 2025-07-12 06:08:41)
+
+---
+
+## Evening Roundup, July 11
+
+date: 2025-07-11, from: The Contrarian
+
+Featuring Jen, Carlos Espina, & Juan Proa&#241;o; Meghan Houser; Contrarians' Summer Reading List, Frederic J. Frommer, The Democracy Movement, Ruben Bolling, Emily Beyda, and our Pet of the Week! 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-11>
+
+---
+
+##  The Abundance Plan: Cut Red Tape With More Paperwork 
+
+date: 2025-07-11, from: The Lever News
+
+ Abundance Democrats are adding more red tape to fight affordable housing efforts — to the benefit of corporate monopolists limiting new home construction.  
+
+<br> 
+
+<https://www.levernews.com/the-abundance-plan-cut-red-tape-with-more-paperwork/>
 
 ---
 
@@ -13,11 +37,11 @@ updated: 2025-07-11 14:07:35
 
 date: 2025-07-11, from: The Contrarian
 
-A recording from Jennifer Rubin's live video 
+Jen Rubin, Juan Proa&#241;o, and Carlos Eduardo Espina discuss ICE terrorizing immigrant communities, the need for civic education, & the crucial value of Democrats reaching wider, more diverse platforms 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168075961/7894bcf0aaadbbd94bc5d544c7da0d80.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/168075961/7894bcf0aaadbbd94bc5d544c7da0d80.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168108349/181d093af720749f6a157235442ecb57.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168108349/181d093af720749f6a157235442ecb57.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/jen-live-w-juan-proano-and-carlos>
 

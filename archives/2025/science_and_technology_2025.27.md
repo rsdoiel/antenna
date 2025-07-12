@@ -1,11 +1,35 @@
 ---
 title: science and technology
-updated: 2025-07-11 14:07:38
+updated: 2025-07-12 06:08:43
 ---
 
 # science and technology
 
-(date: 2025-07-11 14:07:38)
+(date: 2025-07-12 06:08:43)
+
+---
+
+## AI coding tools make developers slower but they think they're faster, study finds
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>Predicted a 24% boost, but clocked a 19% drag</h4> <p>Artificial intelligence coding tools are supposed to make software development faster, but researchers who tested these tools in a randomized, controlled trial found the opposite.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/ai_code_tools_slow_down/>
+
+---
+
+## Hegseth signs flying memo to expand military use of cheap drones in oddball video
+
+date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+
+<h4>An announcement so weird it could only come from the Trump administration</h4> <p><strong>video</strong>  Flanked by a pair of buzzing drones that threatened to drown out his voice, US Secretary of Defense Pete Hegseth reached up to grab a memorandum hung from a third drone hovering above his head. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/11/hegseth_signs_flying_memo_to/>
 
 ---
 
@@ -1842,4 +1866,76 @@ date: 2025-07-06, updated: 2025-07-07, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/07/06/uk_puts_out_tender_for_deorbit_mission/>
+
+---
+
+## Massive spike in use of .es domains for phishing abuse
+
+date: 2025-07-05, updated: 2025-07-05, from: The Register (UK I.T. News)
+
+<h4>¡Cuidado! Time to double-check before entering your Microsoft creds</h4> <p>Cybersecurity experts are reporting a 19x increase in malicious campaigns being launched from .es domains, making it the third most common, behind only .com and .ru.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/05/spain_domains_phishing/>
+
+---
+
+## iFixit gives new Fairphone 6 top marks for repairability: 10/10
+
+date: 2025-07-05, updated: 2025-07-06, from: The Register (UK I.T. News)
+
+<h4>It&#39;s not cheap or high end, but it should last you for years to come</h4> <p>The sixth generation of the Fairphone repairable mobile was launched at the end of June. Now spudger-flingers iFixit have got their hands on it, and liked the result.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/05/ifixit_gives_fairphone_10/>
+
+---
+
+## Financial 'stretch' for UK to join Europe's Starlink rival, says minister
+
+date: 2025-07-05, updated: 2025-07-05, from: The Register (UK I.T. News)
+
+<h4>Possibility of joining IRIS² remote as Britain grapples with fiscal squeeze</h4> <p>A UK minister has told Parliament that joining Europe&#39;s answer to Starlink — Elon Musk&#39;s satellite-based mobile internet service — would be a &#34;stretch&#34; given the nation&#39;s current financial challenges.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/05/uk_budget_to_join_iris_not_there/>
+
+---
+
+## NVIDIA is full of shit
+
+date: 2025-07-05, from: OS News
+
+Since the disastrous launch of the RTX 50 series, NVIDIA has been unable to escape negative headlines: scalper bots are snatching GPUs away from consumers before official sales even begin, power connectors continue to melt, with no fix in sight, marketing is becoming increasingly deceptive, GPUs are missing processing units when they leave the factory, and the drivers, for which NVIDIA has always been praised, are currently falling apart. And to top it all off, NVIDIA is becoming increasingly insistent that media push a certain narrative when reporting on their hardware. ↫ Sebin Nyshkim Out of all the issues listed here &#8211; and there are many, and each is bad enough on their own &#8211; it&#8217;s the frame generation and related pressure campaigns on reviewers that really get on my nerves the most. Technologies like DLSS (rendering at a lower internal resolution scaling that up) and frame generation (injecting fake &#8220;AI&#8221; frames to jack up the frame rate) can be fine technologies when used at the consumer&#8217;s discretion to find a balance between improved perceived performance in exchange for blurry image quality and artefacting, but we&#8217;ve now reached a point where NVIDIA will only boast about performance figures with these technologies enabled, downsides be damned. If that wasn&#8217;t misleading enough, the company is also pressuring reviewers who don&#8217;t enable these technologies, and focus on real frames, real resolutions, and this, real performance. If you don&#8217;t comply, you&#8217;re not getting the next crop of GPUs in early access. It&#8217;s the kind of shit Apple pulls all the time, and we need less of it, not more. Just don&#8217;t buy NVIDIA. They&#8217;re already a terrible choice if you&#8217;re running anything other than Windows, but the company&#8217;s recent behaviour and serious missteps have made the choice for AMD or Intel only more obvious. 
+
+<br> 
+
+<https://www.osnews.com/story/142706/nvidia-is-full-of-shit/>
+
+---
+
+## Redox gets network booting, work on UNIX domain sockets continues
+
+date: 2025-07-05, from: OS News
+
+Redox continues to make progress, and as another month has passed us by, it&#8217;s time for another monthly update. This past month, the focus has been on UNIX domain sockets, which are needed for Redox&#8217; goal of running Wayland. As we continue to move forward with our plans for Wayland, a key technology for Wayland support is the ability to send file descriptors over Unix Domain Sockets. File descriptor sending is also an important part of many other OS features, including Capability-based Security. Our Redox Summer of Code project to implement that ability has been progressing very well. Ibuki, a new member of the Redox team, has jumped right into the deep end, and implemented the sendmg and recvmsg functionality, and continues to move forward with work on UDS. ↫ Ribbon and Ron Williams You can read more about the UNIX domain sockets progress in a detailed post on the Redox website. Redox now also supports network booting through PXE, but for now, only UEFI is supported. Of course, all of this work is topped off with the usual slew of fixes in relibc, RedoxFS, various drivers, and more, as well updated ports across the board. 
+
+<br> 
+
+<https://www.osnews.com/story/142704/redox-gets-network-booting-work-on-unix-domain-sockets-continues/>
+
+---
+
+## Is an Intel N100 a better value than a Raspberry Pi?
+
+date: 2025-07-05, from: OS News
+
+All of this to say: value is complicated. The Pi 5 is&#160;much&#160;more compact and slightly more power efficient (especially at idle) compared to the cheapest N1XX Intel systems. The Intel systems are better suited for a desktop use case. The Pi 5 can be run off PoE power, for easier one-cable networking + power. The Intel systems are more compatible with a wider range of software (not the least of which is&#160;anything requiring Windows). ↫ Jeff Geerling Intel&#8217;s N100 and N150 are vastly underappreciated. The mini laptop I reviewed over a year ago is built around the N100, and I still use it every day for watching YouTube, writing OSNews posts, and so on. I never run into performance issues, battery life is excellent, and I don&#8217;t have to deal with the annoyances of using ARM. The catch is that you&#8217;re going to want to use Linux &#8211; I use Fedora KDE &#8211; because Windows&#8217; performance on the N100 is dreadful. I don&#8217;t think the jump from the N100 to the N150 is worthwhile enough to buy the new version of my mini laptop, so I&#8217;ll stick with what I have. I do hope Intel continues the Nxxx line or processors, because it offers something no other x86 chip offers: more than reasonable performance at low power usage for an incredibly low price. 
+
+<br> 
+
+<https://www.osnews.com/story/142700/is-an-intel-n100-a-better-value-than-a-raspberry-pi/>
 

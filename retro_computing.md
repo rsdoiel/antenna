@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-07-11 14:07:44
+updated: 2025-07-12 06:08:47
 ---
 
 # retro computing
 
-(date: 2025-07-11 14:07:44)
+(date: 2025-07-12 06:08:47)
 
 ---
 
@@ -257,4 +257,16 @@ Going to Big Town, Chocolate bar drinks - review, Scumbags, Imperial 200 Typewri
 <br> 
 
 <https://heyrick.eu/blog/index.php?diary=20250706>
+
+---
+
+## RISC OS Coding double bill weekend
+
+date: 2025-07-05, from: Icon Bar, RISC OS News
+
+This weekend you are in for a treat if you are interested in RISC OS coding. And you don't even have to leave the house.... 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2219.html>
 
