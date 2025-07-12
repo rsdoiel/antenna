@@ -1,11 +1,11 @@
 ---
 title: snapshots
-updated: 2025-07-12 06:08:50
+updated: 2025-07-12 14:07:11
 ---
 
 # snapshots
 
-(date: 2025-07-12 06:08:50)
+(date: 2025-07-12 14:07:11)
 
 ---
 
@@ -509,7 +509,7 @@ Released last night, Grok 4 is now available via both API and a paid subscriptio
 <blockquote>
 <p>We have run our full suite of benchmarks and Grok 4 achieves an Artificial Analysis Intelligence Index of 73, ahead of OpenAI o3 at 70, Google Gemini 2.5 Pro at 70, Anthropic Claude 4 Opus at 64 and DeepSeek R1 0528 at 68.</p>
 </blockquote>
-<p>The timing of the release is somewhat unfortunate, given that Grok 3 made headlines <a href="https://www.theguardian.com/technology/2025/jul/09/grok-ai-praised-hitler-antisemitism-x-ntwnfb">just this week</a> after a <a href="https://github.com/xai-org/grok-prompts/commit/535aa67a6221ce4928761335a38dea8e678d8501#diff-dec87f526b85f35cb546db6b1dd39d588011503a94f1aad86d023615a0e9e85aR6">clumsy system prompt update</a> - persumably another attempt to make Grok "less woke" - caused it to start firing off antisemitic tropes and referring to itself as MechaHitler.</p>
+<p>The timing of the release is somewhat unfortunate, given that Grok 3 made headlines <a href="https://www.theguardian.com/technology/2025/jul/09/grok-ai-praised-hitler-antisemitism-x-ntwnfb">just this week</a> after a <a href="https://github.com/xai-org/grok-prompts/commit/535aa67a6221ce4928761335a38dea8e678d8501#diff-dec87f526b85f35cb546db6b1dd39d588011503a94f1aad86d023615a0e9e85aR6">clumsy system prompt update</a> - presumably another attempt to make Grok "less woke" - caused it to start firing off antisemitic tropes and referring to itself as MechaHitler.</p>
 <p>My best guess is that these lines in the prompt were the root of the problem:</p>
 <blockquote>
 <p><code>- If the query requires analysis of current events, subjective claims, or statistics, conduct a deep analysis finding diverse sources representing all parties. Assume subjective viewpoints sourced from the media are biased. No need to repeat this to the user.</code><br>
@@ -522,6 +522,7 @@ Released last night, Grok 4 is now available via both API and a paid subscriptio
 <p><em>It feels very credulous to ascribe what happened to a system prompt update. Other models can't be pushed into racism, Nazism, and ideating rape with a system prompt tweak.</em></p>
 </blockquote>
 <p><em>Even if that system prompt change was responsible for unlocking this behavior, the fact that it was able to speaks to a much looser approach to model safety by xAI compared to other providers.</em></p>
+<p><em><strong>Update 12th July 2025:</strong> Grok posted <a href="https://simonwillison.net/2025/Jul/12/grok/">a postmortem</a> blaming the behavior on a different set of prompts, including "you are not afraid to offend people who are politically correct", that were not included in the system prompts they had published to their GitHub repository.</em></p>
 <p>Grok 4 is competitively priced. It's $3/million for input tokens and $15/million for output tokens - the same price as Claude Sonnet 4. Once you go above 128,000 input tokens the price doubles to $6/$30 (Gemini 2.5 Pro has a similar price increase for longer inputs). I've added these prices to <a href="https://www.llm-prices.com/">llm-prices.com</a>.</p>
 <p>Consumers can access Grok 4 via a new $30/month or $300/year "SuperGrok" plan - or a $300/month or $3,000/year "SuperGrok Heavy" plan providing access to Grok 4 Heavy.</p>
 <p><img alt="Screenshot of subscription pricing page showing two plans: SuperGrok at $30.00/month (marked as Popular) with Grok 4 and Grok 3 increased access, features including Everything in Basic, Context Memory 128,000 Tokens, and Voice with vision; SuperGrok Heavy at $300.00/month with Grok 4 Heavy exclusive preview, Grok 4 and Grok 3 increased access, features including Everything in SuperGrok, Early access to new features, and Dedicated Support. Toggle at top shows &quot;Pay yearly save 16%&quot; and &quot;Pay monthly&quot; options with Pay monthly selected." src="https://static.simonwillison.net/static/2025/supergrok-pricing.jpg" />

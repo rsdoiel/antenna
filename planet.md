@@ -1,19 +1,19 @@
 ---
 title: planet
-updated: 2025-07-12 06:08:39
+updated: 2025-07-12 14:07:01
 ---
 
 # planet
 
-(date: 2025-07-12 06:08:39)
+(date: 2025-07-12 14:07:01)
 
 ---
 
-## Twelfth of July parades get under way across NI
+## Twelfth of July parades take place across NI
 
 date: 2025-07-11, from: RTÉ News
 
-Twelfth of July celebrations have begun across Northern Ireland. 
+Tens of thousands of people have taken part in Twelfth of July celebrations in scorching temperatures throughout Northern Ireland. 
 
 <br> 
 
@@ -459,7 +459,7 @@ A chaotic wave of returnees from Iran and Pakistan is straining Afghanistan’s 
 
 ## Celebrating the potential and promise of the largest youth generation ever
 
-date: 2025-07-11, from: United Nations, Economic Development
+date: 2025-07-11, from: United Nations, Top Stories
 
 Young people are shaping the future and demanding a world that is just, inclusive and sustainable, the UN chief said on Friday, marking&nbsp;World Population Day. 
 
@@ -1419,7 +1419,7 @@ When Natalia Kanem reflects on her eight-year tenure at the helm of the UN repro
 
 ## UN warns of record civilian casualties in Ukraine
 
-date: 2025-07-10, from: United Nations, Economic Development
+date: 2025-07-10, from: United Nations, Top Stories
 
 UN agencies on Thursday warned of devastating recent attacks across Ukraine due to Russian strikes, record civilian casualties recorded last month – and growing deprivation facing children under fire across the country. 
 
@@ -2481,7 +2481,7 @@ The deadly flash floods in central Texas that claimed more than 100 lives over t
 
 ## Ukrainian baker rises above adversity
 
-date: 2025-07-09, from: United Nations, Economic Development
+date: 2025-07-09, from: United Nations, Top Stories
 
 At Hanna Honcharenko’s bakery in Dnipro, eastern Ukraine, the scent of freshly baked bread represents a slice of home for many. The business, born out of hardship, is proof that with trust and support it is possible start again following the loss brought on by war.&nbsp; 
 
@@ -3438,7 +3438,7 @@ The UN human rights office, OHCHR, has expressed deep concern over the killing o
 
 ## US tariff delay deepens trade uncertainty, warns top UN economist
 
-date: 2025-07-08, from: United Nations, Economic Development
+date: 2025-07-08, from: United Nations, Top Stories
 
 A leading UN trade official warned on Tuesday that the United States’ decision to delay the end of a tariff suspension by a few weeks risks prolonging global uncertainty and undermining long-term investments and commercial contracts. 
 

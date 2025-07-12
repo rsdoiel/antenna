@@ -1,11 +1,11 @@
 ---
 title: science and technology
-updated: 2025-07-12 06:08:43
+updated: 2025-07-12 14:07:04
 ---
 
 # science and technology
 
-(date: 2025-07-12 06:08:43)
+(date: 2025-07-12 14:07:04)
 
 ---
 
@@ -143,7 +143,7 @@ date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
 
 ## British Perl guru Matt Trout dead at 42
 
-date: 2025-07-11, updated: 2025-07-11, from: The Register (UK I.T. News)
+date: 2025-07-11, updated: 2025-07-12, from: The Register (UK I.T. News)
 
 <h4>A controversial and polarizing figure, but also widely hailed</h4> <p><strong>obituary</strong>  Matt Trout will be missed by many, even though he was a divisive figure who featured several times on <em>The Register</em>.…</p> 
 
@@ -419,7 +419,7 @@ There&#8217;s quite a few ways to mess around with home automation, with the mos
 
 ## Thousands of NASA senior staffers expected to quit after budget slashed
 
-date: 2025-07-10, updated: 2025-07-10, from: The Register (UK I.T. News)
+date: 2025-07-10, updated: 2025-07-12, from: The Register (UK I.T. News)
 
 <h4>It could have the same headcount as 1960 by the end of the month</h4> <p>NASA senior staff are being offered the opportunity to leave voluntarily before the axes start swinging, and it seems likely that thousands will take the escape hatch.…</p> 
 

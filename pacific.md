@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2025-07-12 06:08:42
+updated: 2025-07-12 14:07:03
 ---
 
 # pacific
 
-(date: 2025-07-12 06:08:42)
+(date: 2025-07-12 14:07:03)
 
 ---
 
@@ -44,6 +44,54 @@ The post <a href="https://www.hawaii.edu/news/2025/07/11/public-health-ai-enhanc
 <br> 
 
 <https://www.hawaii.edu/news/2025/07/11/public-health-ai-enhanced-game/>
+
+---
+
+## Are you covered? Why renters insurance is more important than ever
+
+date: 2025-07-11, updated: 2025-07-11, from: Marianas Variety
+
+(BPT) - Renting your home? You're not alone. According to Pew Research, more than 44 million households in the U.S. were rented in 2024 — that's more than one-third of all homes. And the number keeps growing. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/real_estate/are-you-covered-why-renters-insurance-is-more-important-than-ever/article_f42f46db-5fea-5fdd-845c-6e8a533bd538.html>
+
+---
+
+## Get to Know CVS Pharmacy:  A Community Partner in Health and Everyday Wellness
+
+date: 2025-07-11, updated: 2025-07-11, from: Marianas Variety
+
+(NAPSI)—As Idaho communities adapt to changes in the pharmacy landscape, particularly as Rite Aid begins to close its doors, many are discovering a trusted partner in CVS Pharmacy. With more than 60 years of serving customers and patients, CVS Pharmacy has grown into America’s largest national pharmacy while still maintaining local connections, with more than 9,000 community-based locations. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/fashion_beauty_fitness/get-to-know-cvs-pharmacy-a-community-partner-in-health-and-everyday-wellness/article_6df7ee61-4243-52e1-a9d2-c6a4c8dad338.html>
+
+---
+
+## Get to Know CVS Pharmacy:  A Community Partner in Health and Everyday Wellness
+
+date: 2025-07-11, updated: 2025-07-11, from: Marianas Variety
+
+(NAPSI)—As Oregon communities adapt to changes in the pharmacy landscape, particularly as Rite Aid begins to close its doors, many are discovering a trusted partner in CVS Pharmacy. With more than 60 years of serving customers and patients, CVS Pharmacy has grown into America’s largest national pharmacy while still maintaining local connections, with more than 9,000 community-based locations. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/fashion_beauty_fitness/get-to-know-cvs-pharmacy-a-community-partner-in-health-and-everyday-wellness/article_90d22ebd-6b2a-5a01-ad8f-f59c9c2f3aab.html>
+
+---
+
+## Get to Know CVS Pharmacy: A Community Partner in Health and Everyday Wellness
+
+date: 2025-07-11, updated: 2025-07-11, from: Marianas Variety
+
+(NAPSI)—As Washington communities adapt to changes in the pharmacy landscape, particularly as Rite Aid begins to close its doors, many are discovering a trusted partner in CVS Pharmacy. With more than 60 years of serving customers and patients, CVS Pharmacy has grown into America’s largest national pharmacy while still maintaining local connections, with more than 9,000 community-based locations. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/fashion_beauty_fitness/get-to-know-cvs-pharmacy-a-community-partner-in-health-and-everyday-wellness/article_b69282b8-c474-5c41-b186-5cc0d3f19a06.html>
 
 ---
 
@@ -523,6 +571,18 @@ By Pacific Island Times News Staff A compelling photography exhibit, "So We Lea
 
 ---
 
+## A Declaration for All of Us
+
+date: 2025-07-11, updated: 2025-07-11, from: Marianas Variety
+
+To learn more about the Declaration of Independence, download these materials at Declaration Book Club. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/community_cares/a-declaration-for-all-of-us/article_4077eeaa-201e-5449-81a3-3a80496d4fd9.html>
+
+---
+
 ## Pacific news in brief for 11 July
 
 date: 2025-07-11, from: 
@@ -739,7 +799,7 @@ date: 2025-07-10, from: Marshal Islands Journal
 
 ## Considering anesthesia for a tattoo? What anesthesiologists say you need to know
 
-date: 2025-07-10, updated: 2025-07-10, from: Marianas Variety
+date: 2025-07-10, updated: 2025-07-12, from: Marianas Variety
 
 (BPT) - Tattoos have gone mainstream — about one in three U.S. adults has at least one. Some people consider the pain of getting a tattoo part of the experience or a rite of passage. Others may look for relief via numbing creams, sprays, ice packs or even anesthesia. This is especially true for large tattoos or long sessions, which can last eight hours or more. If you are considering anesthesia for a lengthy tattoo session, make sure the procedure follows the same safety standards as any elective surgery or procedure, according to new guidance from the American Society of Anesthesiologists (ASA). With National Tattoo Day on July 17, it's the perfect time to remember that safety should be as much of a priority as self-expression. 
 
