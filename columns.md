@@ -1,11 +1,77 @@
 ---
 title: columns
-updated: 2025-07-13 06:07:39
+updated: 2025-07-13 14:07:46
 ---
 
 # columns
 
-(date: 2025-07-13 06:07:39)
+(date: 2025-07-13 14:07:46)
+
+---
+
+## July 12, 2025
+
+date: 2025-07-13, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168240397/8229c1aa27fd42b7ec04bdf1c3aaad98.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168240397/8229c1aa27fd42b7ec04bdf1c3aaad98.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-12-2025-f86>
+
+---
+
+##  Taking Journalism&#8217;s &#8216;Experts Said&#8230;&#8217; Chicanery About Facts to Its Natural, Absurd Conclusion 
+
+date: 2025-07-13, updated: 2025-07-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/journalisms-experts-said-conclusion>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-13, from: Dave Winer's Scripting News)
+
+A story about listening to friends vs competitors. Back in the early 90s I was working on system-level scripting for the Mac, supposedly with Apple, but it's no secret the rank and file at Apple didn't like us. They were told by the execs they had to work with us. So when it came time for WWDC, they "forgot" to invite me to speak on behalf of the new stuff. Instead, they had Bill Gates do it, even though Microsoft was not involved yet, they would support the tech in their Mac products eventually, esp their MSIE web browser. Anyway, I was friends with their top PR person, so she called me up a few days before the conference and asked what Bill should say, and I gave her an outline, and when he gave the speech, he did a great job. Couldn't have said it better myself. Microsoft was one of the few companies I've ever collaborated with that didn't seem to resent individual developers. It was a big source of their power. Huge actually. (On second thought, later they did seem to be more or less like any other big company, when they embraced RSS. They didn't actually want my help, they just wanted me to say nice things about them.) 
+
+<br> 
+
+<http://scripting.com/2025/07/13.html#a153836>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-13, from: Dave Winer's Scripting News)
+
+One consequence of each AI vendor having their own browser is that each will have their own OS-level window. This may make it a little more or less manageable. Hard to foresee the possibilities. Not sure a browser is the best place to put AI. I'd prefer perhaps an environment that supports a GDI like Quickdraw so we can start using math instead of voodoo to design interactions. 
+
+<br> 
+
+<http://scripting.com/2025/07/13.html#a152817>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-07-13, from: Miguel de Icaza Mastondon feed)
+
+<p>My talk on launching Godot on iPad: </p><p><a href="https://www.youtube.com/watch?v=bzKIaD-KHPQ" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="">youtube.com/watch?v=bzKIaD-KHPQ</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114846475828670835>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-13, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/07/28/marshmallowManFromGhostbusters.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm helping Automattic with their <a href="https://canada.wordcamp.org/2025/4393-2/">marketing</a>. The WordPress-Mastodon <a href="https://wordpress.org/plugins/activitypub/">connection</a> is the world's best kept secret. Reminds me of that great scene in <a href="https://en.wikipedia.org/wiki/Dr._Strangelove">Dr Strangelove</a> where the Doctor asks the Russian ambassador what was the point of the <a href="https://en.wikipedia.org/wiki/Doomsday_device">Doomsday Machine</a> if they kept it a secret. I won't <a href="https://www.youtube.com/watch?v=cmCKJi3CKGE">spoil</a> it. Automattic tends to do this, develop crazy excellent stuff and then proceed to never talk about it. I do the same thing, it's easier to promote someone else's product than to promote your own. It's probably why you should always get a lawyer even if you're a world class lawyer yourself. Anyway, they have blown open something huge, and I very much want people to understand it, so it can create pull for the same feature in Bluesky, Threads and elsewhere. This goes with something I've learned in decades of experience in tech, people don't listen to their friends, they listen to their competitors. And btw, I'm sure Mastodon, if it has an ego at all, is equally unaware of the great thing <i>they</i> have done. Here's a clue, writers were once empowered by the web, and that ended with Twitter. Now it's coming back. But it doesn't do any good if people don't know it's there. 
+
+<br> 
+
+<http://scripting.com/2025/07/13.html#a143224>
 
 ---
 
@@ -18,6 +84,20 @@ A Reason To Smile
 <br> 
 
 <https://steady.substack.com/p/live-aid-anniversary>
+
+---
+
+## 
+                A quick look at unprivileged sandboxing
+            
+
+date: 2025-07-13, updated: 2025-07-13, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-07-13/0/POSTING-en.html>
 
 ---
 
@@ -253,7 +333,7 @@ date: 2025-07-12, from: Heather Cox Richardson blog
 
 ## Apple and Masimo Faced Off in US Appeals Court This Week
 
-date: 2025-07-12, updated: 2025-07-12, from: Daring Fireball
+date: 2025-07-12, updated: 2025-07-13, from: Daring Fireball
 
  
 

@@ -1,11 +1,107 @@
 ---
 title: planet
-updated: 2025-07-13 06:07:33
+updated: 2025-07-13 14:07:42
 ---
 
 # planet
 
-(date: 2025-07-13 06:07:33)
+(date: 2025-07-13 14:07:42)
+
+---
+
+## Live Aid showed 'individual was not powerless' - Geldof
+
+date: 2025-07-13, from: RTÉ News
+
+Irish musician Bob Geldof said that 40 years on from Live Aid the concerts inspired people to feel that "the individual was not powerless" and that they could change the world 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0713/1523322-bob-geldof-live-aid/>
+
+---
+
+## Donegal crush Meath to set up another Kerry showdown
+
+date: 2025-07-13, from: RTÉ News
+
+Donegal set up a repeat of the 2014 All-Ireland SFC decider with a ruthless dismissal of Meath in the weekend's second semi-final. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0713/1523261-donegal-crush-meath-to-set-up-repeat-of-2014-final/>
+
+---
+
+## 'Serious incident' as plane crashes at Southend Airport
+
+date: 2025-07-13, from: RTÉ News
+
+Police in the UK have said a serious incident has been declared at London Southend Airport after a small aircraft crashed. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0713/1523308-southend-airport/>
+
+---
+
+## Ford recalls nearly a million newer vehicles in Canada, U.S. over fuel pump concerns
+
+date: 2025-07-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7584080.1752437396!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/ford-brake-recal.jpg' alt='A logo that reads, &apos;Ford,&apos; is seen on the facade of a building.' width='620' height='349' title='FILE - The Ford logo is seen above the entrance to the Ford Motor Company Kentucky Truck Plant, Wednesday, April 30, 2025, in Louisville, Ky. (AP Photo/Carolyn Kaster, file)'/><p>Ford is recalling nearly a million cars in Canada and the U.S. because the low-pressure fuel pump inside the vehicles may fail — and potentially cause an engine stall while driving, increasing crash risks.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/business/ford-recall-fuel-pump-1.7584075?cmp=rss>
+
+---
+
+## 'Inexcusable' failures led to Trump assassination attempt
+
+date: 2025-07-13, from: RTÉ News
+
+A congressional inquiry into the attempt to assassinate US President Donald Trump at a campaign rally a year ago on lamented "inexcusable" failures in the Secret Service's operations and response, and called for more serious disciplinary action 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0713/1523305-trump-assassination-attempt/>
+
+---
+
+## Next fortnight crucial for Ireland amid US tariff threats
+
+date: 2025-07-13, from: RTÉ News
+
+The next two weeks will be crucial for Ireland and the European Union after US President Donald Trump threatened tariffs of 30% if Brussels fails to reach a deal with Washington before the 1 August deadline, writes David Murphy 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0713/1523302-us-tariffs-ireland-eu/>
+
+---
+
+## Muhammadu Buhari, who took power in Nigeria by both coup and ballot box, dead at 82
+
+date: 2025-07-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7584049.1752430452!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/un-general-assembly-nigeria.jpg' alt='A person speaks at a lectern.' width='620' height='349' title='President of Nigeria Muhammadu Buhari addresses the 77th session of the United Nations General Assembly, Wednesday, Sept. 21, 2022 at U.N. headquarters. (AP Photo/Mary Altaffer)'/><p>Former Nigerian president Muhammadu Buhari, who led Africa's most populous country from 2015-23 and was the first Nigerian leader to oust an incumbent through the ballot box, died in London on Sunday, a presidential spokesperson said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/muhammadu-buhari-obit-nigeria-1.7584045?cmp=rss>
+
+---
+
+## All-Ireland semi-final recap: Donegal 3-26 Meath 0-15
+
+date: 2025-07-13, from: RTÉ News
+
+Donegal beat Meath at Headquarters to set up an All-Ireland final showdown with Kerry in two weeks. Relive the action here. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0713/1523266-all-ireland-sfc-semi-final-donegal-v-meath-build-up/>
 
 ---
 
@@ -21,11 +117,63 @@ A man has died and a second was injured following a one-vehicle road crash in Co
 
 ---
 
-## EU prefers negotiated solution with US - von der Leyen
+## Man dies after single-vehicle crash in Co Antrim
 
 date: 2025-07-13, from: RTÉ News
 
-The European Union prefers a negotiated solution on trade with the United States, European Commission President Ursula von der Leyen has said. 
+A man has died and a second was injured following a road crash in Co Antrim. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0713/1523290-antrim-rtc/>
+
+---
+
+## A town in celebration welcomes the Pope
+
+date: 2025-07-13, from: Vatican News
+
+
+                    <p>A large and diverse crowd welcomed Pope Leo XIV for Mass at the parish of St. Thomas of Villanova, his first public event in the town of Castel Gandolfo, as thousands of people lined the main street connecting Villa Barberini to the Apostolic Palace and gathered in Freedom Square.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/a-town-in-celebration-welcomes-the-pope.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/a-town-in-celebration-welcomes-the-pope.html>
+
+---
+
+## UN forum to spotlight health, gender equality, oceans, in critical bid to meet development goals
+
+date: 2025-07-13, from: United Nations, Top Stories
+
+As the deadline for the 2030 Agenda looms, ministers, experts, and civil society leaders from around the world will convene in New York next week for a high-level UN forum to fast-track action on the Sustainable Development Goals (SDGs). 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165381>
+
+---
+
+## UN-backed labour standards at risk as tariff uncertainty grows
+
+date: 2025-07-13, from: United Nations, Top Stories
+
+Garment factories around the world which have signed up to implement UN-backed labour standards may simply stop investing in improving working conditions, due to widespread uncertainty over tariff levels, according to the International Labour Organization (ILO). 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165376>
+
+---
+
+## Trump doing 'his negotiations on Truth Social' - Harris
+
+date: 2025-07-13, from: RTÉ News
+
+Tánaiste and Minister for Foreign Affairs and Trade Simon Harris has described US President Donald Trump's threat of 30% tariffs on imports from the EU as a "negotiating tactic". 
 
 <br> 
 
@@ -33,11 +181,27 @@ The European Union prefers a negotiated solution on trade with the United States
 
 ---
 
-## Game Changer 'Activation Day' to take place at Croke Park
+## Air strike kills civilians in Gaza
+
+date: 2025-07-13, from: Vatican News
+
+
+                    <p>Emergency services say ten Palestinians, including six children, were killed in an Israeli airstrike targeting a refugee camp in Gaza on Saturday.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/air-strike-kills-civilians-in-gaza.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/air-strike-kills-civilians-in-gaza.html>
+
+---
+
+## Game Changer 'Activation Day' takes place at Croke Park
 
 date: 2025-07-13, from: RTÉ News
 
-Croke Park's All-Ireland semi final crowd will be the audience for a pitch-side interview with Jason Poole, whose sister Jennifer was murdered by her former partner in 2021, as part of a GAA initiative. 
+The brother of Jennifer Poole, who was murdered by her partner in 2021, told a packed Croke Park that society needs to do more to tackle to domestic, sexual and gender-based violence. 
 
 <br> 
 
@@ -45,12 +209,12 @@ Croke Park's All-Ireland semi final crowd will be the audience for a pitch-side 
 
 ---
 
-## Pope Leo calls for prayers for peace and for those suffering due to war
+## Pope Leo calls for prayers for peace and those suffering due to war
 
 date: 2025-07-13, from: Vatican News
 
 
-                    <p>At the conclusion of the Angelus in Castel Gandolfo, Pope Leo XIV asked everyone to remember to pray for all those who are suffering and in need due to war. He also recalled Saturday's beatification in Barcelona of Marist Brother Licarion May, who was killed in the early 1900s out of hatred for the faith, and he expressed his gratitude to all the youth leaders and educators who care for children and teenagers during the summer months.</p>
+                    <p>At the conclusion of the Angelus in Castel Gandolfo, Pope Leo XIV asked everyone to pray for all those who are suffering and in need due to war, while recalling Saturday's beatification in Barcelona of Marist Brother Licarion May, who was killed in the early 1900s out of hatred for the faith.</p>
                     <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-calls-for-prayers-for-peace-and-those-suffering-war.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -61,15 +225,39 @@ date: 2025-07-13, from: Vatican News
 
 ---
 
-## Liverpool vow to carry champion Jota in their hearts
+## Israeli strike kills children collecting water, Gaza officials say. IDF says there was a malfunction
+
+date: 2025-07-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7583964.1752415752!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza.JPG' alt='An injured child lies on a blue hospital bed.' width='620' height='349' title='A Palestinian girl, wounded in an Israeli strike that killed people, who gathered to collect water from a distribution point, according to medics, receives treatment at Al-Awda Hospital in Nuseirat in the central Gaza Strip July 13, 2025. '/><p>At least eight Palestinians, most of them children, were killed and more than a dozen others were wounded in central Gaza on Sunday, local officials said, in an Israeli missile strike which the military said missed its intended target.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/strike-water-distribution-gaza-children-killed-1.7583957?cmp=rss>
+
+---
+
+## Liverpool remember Jota in emotional Preston friendly
 
 date: 2025-07-13, from: RTÉ News
 
-Arne Slot has called Diogo Jota a "champion in everything" and said Liverpool would "carry him with us in our hearts". 
+For seven minutes after the final whistle, Liverpool players and staff stood in front of their supporters at Preston as they chanted Diogo Jota's name. 
 
 <br> 
 
 <https://www.rte.ie/sport/soccer/2025/0713/1523282-liverpool-vow-to-carry-champion-jota-in-their-hearts/>
+
+---
+
+## 1 year after Trump assassination attempt, changes at U.S. Secret Service but questions remain
+
+date: 2025-07-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7325229.1726534693!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/election-2024-trump.jpg' alt='A group of secret service agents in suits and sunglasses surround a man who looks dazed, with a small trickle of blood down the side of his face.' width='620' height='349' title='Republican presidential candidate former President Donald Trump is surrounded by U.S. Secret Service agents at a campaign rally, Saturday, July 13, 2024, in Butler, Pa. '/><p>The assassination attempt against Republican presidential candidate Donald Trump at a Pennsylvania campaign stop on July 13, 2024, was a perfect storm of failings coming together and became a turning point for the agency tasked with protecting the U.S. president.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-assassination-changes-secret-service-1.7583946?cmp=rss>
 
 ---
 
@@ -169,11 +357,11 @@ date: 2025-07-13, from: Vatican News
 
 ---
 
-## Unsettled conditions to bring hot spell to an end
+## Met Éireann issues orange thunderstorm warning for Mayo
 
 date: 2025-07-13, from: RTÉ News
 
-The current hot spell looks set to end with the weather becoming more unsettled next week, bringing some heavy showers and cloudier conditions. 
+Met Éireann has upgraded a weather warning for Co Mayo to a Status Orange thunderstorm warning from 7pm until 10pm tonight. 
 
 <br> 
 
@@ -193,11 +381,11 @@ Gisele Pelicot, who became a feminist icon by publicly testifying over the mass 
 
 ---
 
-## Children killed collecting water in Israeli drone strike
+## Children killed collecting water as Israel claims error
 
 date: 2025-07-13, from: RTÉ News
 
-Gaza's civil defence agency said Israeli air strikes have killed more than 40 people, including children at a water distribution point, as talks for a ceasefire between Israel and Hamas stalled. 
+Gaza's civil defence agency said Israeli attacks killed 43 Palestinians, including at a market and a water distribution point, as talks for a ceasefire between Israel and Hamas stalled 
 
 <br> 
 
@@ -253,11 +441,11 @@ Forty years after Live Aid rocked the world, Evelyn O'Rourke looks at ten ways t
 
 ---
 
-## 10 ways ex-Olympian Ryan Wedding has evaded arrest for 10 years
+## Crypto, bribes and fear: How ex-Olympian Ryan Wedding stays hidden
 
 date: 2025-07-13, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7582854.1752245844!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ryan-james-wedding.jpg' alt='A man wearing a ball cap, t-shirt and jeans, with his hands in his pockets' width='620' height='349' title='Fugitive Ryan Wedding is seen in an undisclosed location in 2024.'/><p></p> 
+<img src='https://i.cbc.ca/1.7476689.1741288224!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ryan-wedding-fbi-photo-new-march-2025.jpg' alt='A composite photo of the same man: In one, he&apos;s dressed in a white T-shirt and blue ballcap, with a moustache and arm tattoos. In the other, he&apos;s looking at a cellphone while wearing a grey sweatshirt and black T-shirt.' width='620' height='349' title='Ryan Wedding is seen in two photos taken sometime in 2024 and distributed by U.S. investigators.'/><p></p> 
 
 <br> 
 
@@ -1324,7 +1512,7 @@ A chaotic wave of returnees from Iran and Pakistan is straining Afghanistan’s 
 
 ## Celebrating the potential and promise of the largest youth generation ever
 
-date: 2025-07-11, from: United Nations, Economic Development
+date: 2025-07-11, from: United Nations, Top Stories
 
 Young people are shaping the future and demanding a world that is just, inclusive and sustainable, the UN chief said on Friday, marking&nbsp;World Population Day. 
 
@@ -1384,7 +1572,7 @@ Following the deaths of several children&nbsp;in an Israeli strike on Palestinia
 
 ## World Horse Day: Honoring humanity’s oldest and most loyal companion
 
-date: 2025-07-11, from: United Nations, Climate Change
+date: 2025-07-11, from: United Nations, Top Stories
 
 Spacious paddocks, green pastures, and a devoted all-female staff: on Long Island, a strip of land surrounded by the Atlantic Ocean near New York City, horses once destined for slaughter are given a second chance – to live, and to help people heal. The farm, founded in 2010 by Marisa Striano, is named after her beloved horse, Spirit. It offers healing – for both horses and humans in need. 
 
@@ -2224,7 +2412,7 @@ Devastating funding cuts from international donors are hitting countries hardest
 
 ## Overlooked and underestimated: Sand and dust storms wreak havoc across borders
 
-date: 2025-07-10, from: United Nations, Climate Change
+date: 2025-07-10, from: United Nations, Top Stories
 
 There are three Great Pyramids at Giza in Egypt - but imagine if there were 307 of the mighty edifices. And then imagine that they had dissolved into over two billion tons of sand and dust particles.&nbsp; 
 
@@ -2284,7 +2472,7 @@ When Natalia Kanem reflects on her eight-year tenure at the helm of the UN repro
 
 ## UN warns of record civilian casualties in Ukraine
 
-date: 2025-07-10, from: United Nations, Economic Development
+date: 2025-07-10, from: United Nations, Top Stories
 
 UN agencies on Thursday warned of devastating recent attacks across Ukraine due to Russian strikes, record civilian casualties recorded last month – and growing deprivation facing children under fire across the country. 
 
@@ -3334,7 +3522,7 @@ As scores of people – including medical staff and their families – have repo
 
 ## ‘Very limited time to react’: Texas flash floods expose challenges in early warning
 
-date: 2025-07-09, from: United Nations, Climate Change
+date: 2025-07-09, from: United Nations, Top Stories
 
 The deadly flash floods in central Texas that claimed more than 100 lives over the July Fourth weekend in the United States have underscored the devastating power of this fast-onset hazard – and the critical challenge of ensuring early warnings reach vulnerable populations, even in the dead of night. 
 
@@ -3346,7 +3534,7 @@ The deadly flash floods in central Texas that claimed more than 100 lives over t
 
 ## Ukrainian baker rises above adversity
 
-date: 2025-07-09, from: United Nations, Economic Development
+date: 2025-07-09, from: United Nations, Top Stories
 
 At Hanna Honcharenko’s bakery in Dnipro, eastern Ukraine, the scent of freshly baked bread represents a slice of home for many. The business, born out of hardship, is proof that with trust and support it is possible start again following the loss brought on by war.&nbsp; 
 
@@ -4303,7 +4491,7 @@ The UN human rights office, OHCHR, has expressed deep concern over the killing o
 
 ## US tariff delay deepens trade uncertainty, warns top UN economist
 
-date: 2025-07-08, from: United Nations, Economic Development
+date: 2025-07-08, from: United Nations, Top Stories
 
 A leading UN trade official warned on Tuesday that the United States’ decision to delay the end of a tariff suspension by a few weeks risks prolonging global uncertainty and undermining long-term investments and commercial contracts. 
 

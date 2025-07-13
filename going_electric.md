@@ -1,11 +1,67 @@
 ---
 title: going electric
-updated: 2025-07-13 06:07:45
+updated: 2025-07-13 14:07:51
 ---
 
 # going electric
 
-(date: 2025-07-13 06:07:45)
+(date: 2025-07-13 14:07:51)
+
+---
+
+## Upcoming electric Bentley blends 1930s style with 2030s tech
+
+date: 2025-07-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/14-EXP-15-Driving.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>British ultra-luxe brand Bentley is teasing the upcoming, first-ever all electric model that will take it into the 2030s with a new concept car inspired by the iconic 1930 “Blue Train” Speed Six coupe – and it looks fantastic!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bentley,concept-car" data-layer-viewtype="unknown" data-post-id="424567" href="https://electrek.co/2025/07/13/upcoming-electric-bentley-blends-1930s-style-with-2030s-tech/#more-424567" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/13/upcoming-electric-bentley-blends-1930s-style-with-2030s-tech/>
+
+---
+
+## Tesla's Grok AI Has Landed. Here's What We Know
+
+date: 2025-07-13, from: Inside EVs News
+
+After sparking controversy for anti-Semitic social media posts, xAI's Grok "AI companion" is now enabled on some Teslas.  
+
+<br> 
+
+<https://insideevs.com/news/765676/tesla-grok-ai-launch-july/>
+
+---
+
+## Electric Cars Are So Fast That A Ferrari Can't Catch A Kia Now
+
+date: 2025-07-13, from: Inside EVs News
+
+The Kia EV6 GT is slightly heavier and less powerful than the Ferrari Purosangue. But it's the quicker-accelerating car of the two. 
+
+<br> 
+
+<https://insideevs.com/news/765535/kia-ev6-gt-ferrari-purosangue/>
+
+---
+
+## LiveWire gives surprise unveil of two smaller, lower-cost electric motorcycles
+
+date: 2025-07-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/livewire-mini-motor-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>LiveWire, the electric motorcycle company that was spun out of Harley-Davidson several years ago, has just shown off two fun-sized electric motorcycles designed to make powered two-wheelers more accessible to new riders, both physically and financially.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle,livewire" data-layer-viewtype="unknown" data-post-id="424547" href="https://electrek.co/2025/07/13/livewire-gives-suprise-unveil-of-two-smaller-lower-cost-electric-motorcycles/#more-424547" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/13/livewire-gives-suprise-unveil-of-two-smaller-lower-cost-electric-motorcycles/>
 
 ---
 

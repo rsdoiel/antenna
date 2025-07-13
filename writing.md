@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2025-07-13 06:07:40
+updated: 2025-07-13 14:07:47
 ---
 
 # writing
 
-(date: 2025-07-13 06:07:40)
+(date: 2025-07-13 14:07:47)
+
+---
+
+## Exit Zero by Marie-Helene Bertino: Review by Gabino Iglesias
+
+date: 2025-07-13, from: Locus Magazine
+
+<p><strong>Exit Zero</strong>, Marie-Helene Bertino (FSG Origi­nals 978-0-37461-647-2, $18.00, 208pp, hc) April 2025. Cover by Thomas Colligan.</p>
+<p>There are original stories, there are unique sto­ries, and then there are Marie-Helene Bertino stories. Take something painfully ordinary – a painting left behind, helium balloons, a sitcom – and somehow turn it into a gem. If you can do that, you’ll end up with something akin to a Bertino story, and <strong>Exit </strong> <a href="https://locusmag.com/2025/07/exit-zero-by-marie-helene-bertino-review-by-gabino-iglesias/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/exit-zero-by-marie-helene-bertino-review-by-gabino-iglesias/>
 
 ---
 
@@ -19,6 +32,21 @@ date: 2025-07-12, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/07/clarkesworld-short-fiction-reviews-by-a-c-wise-10/>
+
+---
+
+## Baffling, Kaleidotrope, and Small Wonders: Reviews by Charles Payseur
+
+date: 2025-07-12, from: Locus Magazine
+
+<p>Baffling 4/25
+Kaleidotrope Spring ’25
+Small Wonders 4/25</p>
+<p>The April issue of Baffling features seven stories from authors new to the publication, including <strong>Plangdi Neple</strong>’s “<strong>How to Rob a Bullion Van</strong>”, which unfolds as a letter between a man stuck in prison and the person he hopes can get him out of his predicament. On one level the story is a how-to guide to robbing a van,  <a href="https://locusmag.com/2025/07/baffling-kaleidotrope-and-small-wonders-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/baffling-kaleidotrope-and-small-wonders-reviews-by-charles-payseur/>
 
 ---
 

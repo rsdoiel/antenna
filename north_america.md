@@ -1,11 +1,23 @@
 ---
 title: north america
-updated: 2025-07-13 06:07:35
+updated: 2025-07-13 14:07:43
 ---
 
 # north america
 
-(date: 2025-07-13 06:07:35)
+(date: 2025-07-13 14:07:43)
+
+---
+
+##  LEVER WEEKLY: Red Pill, Blue Pill, Poison Pill 
+
+date: 2025-07-13, from: The Lever News
+
+ A parent out for justice, a flood warning system out of money, and more from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/lever-weekly-red-pill-blue-pill-poison-pill/>
 
 ---
 
@@ -40,8 +52,8 @@ date: 2025-07-12, from: The Contrarian
 Welcome to The Contrarian Podcast! 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168115365/590e44cd42dcaa9bbacbf89c1dd79c0b.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/168115365/590e44cd42dcaa9bbacbf89c1dd79c0b.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168115365/fe72a21eb0de1cae11054fd726541e81.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168115365/fe72a21eb0de1cae11054fd726541e81.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/our-first-episode-e-jean-carroll>
 
@@ -78,8 +90,8 @@ date: 2025-07-11, from: The Contrarian
 Jen Rubin, Juan Proa&#241;o, and Carlos Eduardo Espina discuss ICE terrorizing immigrant communities, the need for civic education, & the crucial value of Democrats reaching wider, more diverse platforms 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168108349/181d093af720749f6a157235442ecb57.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/168108349/181d093af720749f6a157235442ecb57.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168108349/f6dc07b10aeb7b0b3fd9bcc204b7d226.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168108349/f6dc07b10aeb7b0b3fd9bcc204b7d226.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/jen-live-w-juan-proano-and-carlos>
 
@@ -226,8 +238,8 @@ date: 2025-07-10, from: The Contrarian
 USAID is the best of America. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168030952/00a7ade8dca402e7ed70643e82f95c76.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/168030952/00a7ade8dca402e7ed70643e82f95c76.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168030952/3800dd5eb28c825b16b2518f752cb2ce.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168030952/3800dd5eb28c825b16b2518f752cb2ce.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/cutting-usaid-will-kill-millions>
 
@@ -240,8 +252,8 @@ date: 2025-07-10, from: The Contrarian
 A recording from The Contrarian's live video 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167925626/a20591084cdba356525267471136c65a.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/167925626/a20591084cdba356525267471136c65a.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167925626/f70c2e9e0339b7cb7d280e7f4be72f01.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/167925626/f70c2e9e0339b7cb7d280e7f4be72f01.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/the-tea-w-april-ryan-ft-la-mayor>
 

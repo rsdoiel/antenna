@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-07-13 06:07:44
+updated: 2025-07-13 14:07:50
 ---
 
 # motorcycles
 
-(date: 2025-07-13 06:07:44)
+(date: 2025-07-13 14:07:50)
+
+---
+
+## ARCA Menards West Series: 2025 Sonoma Race Review
+
+date: 2025-07-13, from: Kickin the Tires blog
+
+By Vincent Delforge, Staff Writer The sixth race of the 2025 ARCA Menards West Series season took place at Sonoma Raceway in Sonoma, CA on July 11, 2025. The General&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/arca-menards-west-series-2025-sonoma-race-review/>
 
 ---
 

@@ -1,11 +1,47 @@
 ---
 title: socal north
-updated: 2025-07-13 06:07:36
+updated: 2025-07-13 14:07:44
 ---
 
 # socal north
 
-(date: 2025-07-13 06:07:36)
+(date: 2025-07-13 14:07:44)
+
+---
+
+## LAPD investigates officer-involved shooting, areas around Crypto.com closed
+
+date: 2025-07-13, updated: 2025-07-13, from: The LAist
+
+Street closure along Figueroa between 12th and Pico is expected to last hours, according to officials. 
+
+<br> 
+
+<https://laist.com/news/lapd-investigating-officer-involved-shooting-in-downtown-affecting-areas-around-crypto-com>
+
+---
+
+## LA County warns of immigration attorney fraud. Here's what to know
+
+date: 2025-07-13, updated: 2025-07-13, from: The LAist
+
+In light of ICE raids, the Office of Immigrant Affairs has released a list of tips 
+
+<br> 
+
+<https://laist.com/news/la-county-warns-of-immigration-attorney-fraud-heres-what-to-know>
+
+---
+
+## Transiting San Diego
+
+date: 2025-07-13, from: Transiting Los Angeles
+
+L.A.'s little sibling of a city has tons for the visitor to enjoy, and quite a bit of it is very transit accessible. In this guide, we cover some highlights you can easily see after a short train ride. 
+
+<br> 
+
+<https://transitinglosangeles.com/2025/07/13/transiting-san-diego/>
 
 ---
 

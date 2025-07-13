@@ -1,11 +1,168 @@
 ---
 title: pacific
-updated: 2025-07-13 06:07:37
+updated: 2025-07-13 14:07:45
 ---
 
 # pacific
 
-(date: 2025-07-13 06:07:37)
+(date: 2025-07-13 14:07:45)
+
+---
+
+## Flying Fijians topple Scotland in front of home crowd
+
+date: 2025-07-13, from: 
+
+Head coach Mick Byrne praised his players for their grit in the 29-14 vicotry over the visitors in front of over 10,000 fans at the National Stadium in Suva. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566797/flying-fijians-topple-scotland-in-front-of-home-crowd>
+
+---
+
+## New Caledonia’s political parties commit to 'historic' deal in France
+
+date: 2025-07-13, from: 
+
+Pro-and-anti-independence parties committed to a deal regarding the future political status of the French Pacific territory on Saturday. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566745/new-caledonia-s-political-parties-commit-to-historic-deal-in-france>
+
+---
+
+## Amanda Masono eyes Atolls seat in Bougainville's election
+
+date: 2025-07-13, from: 
+
+Masono, who entered parliament in 2020 after winning one of the three seats reserved for women, is campaigning alongside men for an open seat once held by her father. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566788/amanda-masono-eyes-atolls-seat-in-bougainville-s-election>
+
+---
+
+## Boost your classroom STEM lessons with UH’s Toolkits for Teachers program
+
+date: 2025-07-13, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> is helping <span aria-label="Hawaii">Hawai&#699;i</span> teachers bring real-world science into their classrooms with free, hands-on <abbr>STEM</abbr> kits.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/13/stem-toolkits-for-teachers/">Boost your classroom <abbr>STEM</abbr> lessons with <abbr>UH</abbr>’s Toolkits for Teachers program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/13/stem-toolkits-for-teachers/>
+
+---
+
+## Crypto investors look ahead to policy wins, propelling bitcoin to record high
+
+date: 2025-07-13, updated: 2025-07-13, from: Marianas Variety
+
+(Reuters) — Crypto investors are betting that a slew of long-sought policy wins for the industry, expected this week, could invite new investment in the asset class. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/crypto-investors-look-ahead-to-policy-wins-propelling-bitcoin-to-record-high/article_becb847d-756d-4723-9630-c25841714d69.html>
+
+---
+
+## Abolish gambling
+
+date: 2025-07-13, updated: 2025-07-13, from: Marianas Variety
+
+PLEASE pass the CCC abolition bill and thus protect both the business community and the CNMI government from futile legal trauma, which goes on forever solving nothing, wasting needed time and funds as we have seen over the last 20 years. 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/abolish-gambling/article_364e814b-8027-4fd6-a472-ea470acda4e1.html>
+
+---
+
+## Deleon Guerrero condemns devastating federal education cuts
+
+date: 2025-07-13, updated: 2025-07-13, from: Marianas Variety
+
+GALVIN Sablan Deleon Guerrero, a longtime educator and independent candidate for CNMI delegate to Congress, has issued a strong response to news that the U.S. Department of Education has slashed federal funding to the CNMI Public School System by 24% — a loss of over $4.5 million for the upcoming school year. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/deleon-guerrero-condemns-devastating-federal-education-cuts/article_be234051-2146-4c3c-b8fc-c3ba0bd60095.html>
+
+---
+
+## PSS: Summer learning program helps students stay on track
+
+date: 2025-07-13, updated: 2025-07-13, from: Marianas Variety
+
+(PSS) — Throughout the summer months, public schools on Rota, Tinian, and Saipan offer a half-day summer program designed to provide uninterrupted learning support, ensuring that public school students are prepared to enter the next grade level when the new school year begins. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/pss-summer-learning-program-helps-students-stay-on-track/article_ea0bd304-9c2b-4792-adb4-f4f1ef0206c6.html>
+
+---
+
+## Power service interruptions on July 16, 17, and 23
+
+date: 2025-07-13, updated: 2025-07-13, from: Marianas Variety
+
+(Commonwealth Utilities Corporation) — There will be scheduled power service interruptions on Wednesday, July 16, Thursday, July 17, and Wednesday, July 23. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/power-service-interruptions-on-july-16-17-and-23/article_8a9aa32e-4cd6-47a9-812a-50c888eeb1cd.html>
+
+---
+
+## Public comment period opens for commercial ash scattering at Mariana Trench National Wildlife Refuge
+
+date: 2025-07-13, updated: 2025-07-13, from: Marianas Variety
+
+(USFW) — The U.S. Fish &amp; Wildlife Service announces the availability of a Draft Compatibility Determination for public review and comment on the following use at the Mariana Trench National Wildlife Refuge: Commercial Ash Scattering. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/public-comment-period-opens-for-commercial-ash-scattering-at-mariana-trench-national-wildlife-refuge/article_26046e22-c293-4b1d-8dd6-61b3f583561b.html>
+
+---
+
+## Congressional caucus leaders introduce resolution affirming diversity, equity, inclusion, and accessibility as core American values
+
+date: 2025-07-13, updated: 2025-07-13, from: Marianas Variety
+
+WASHINGTON, D.C. (CAPAC) — Six major Congressional Caucuses — the Congressional Asian Pacific American Caucus, Congressional Black Caucus, Congressional Equality Caucus, Congressional Hispanic Caucus, the Democratic Women’s Caucus, and the Congressional Diversity, Equity, &amp; Inclusion Caucus — have introduced a joint resolution affirming that diversity, equity, inclusion, and accessibility are fundamental to the American Dream and to our national prosperity, safety, and democracy. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/congressional-caucus-leaders-introduce-resolution-affirming-diversity-equity-inclusion-and-accessibility-as-core-american-values/article_fadc729f-1010-44ad-a9da-4d7932fa4002.html>
+
+---
+
+## Moylan renews bid to include Philippines in Guam-CNMI visa waiver
+
+date: 2025-07-13, updated: 2025-07-13, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — In a bid to boost visitor arrival numbers and further diversify the local tourism industry, Delegate James Moylan has urged the U.S. Department of Homeland Security to reconsider the inclusion of the Philippines in the Guam-CNMI Visa Waiver Program. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/moylan-renews-bid-to-include-philippines-in-guam-cnmi-visa-waiver/article_ad04c615-b57b-4462-978c-744770ac40bf.html>
+
+---
+
+## Trump defends Bondi amid backlash over Epstein files
+
+date: 2025-07-13, updated: 2025-07-13, from: Marianas Variety
+
+(Reuters) — President Donald Trump defended Attorney General Pam Bondi on Saturday amid backlash against her from some of Trump's supporters over how the Justice Department handled the investigation into the death of accused sex trafficker Jeffrey Epstein and his alleged clientele. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-defends-bondi-amid-backlash-over-epstein-files/article_94ad057e-3405-408e-a02e-4f976b7bc3f8.html>
 
 ---
 
@@ -194,18 +351,6 @@ In Fiji, a new chief from an eminent dynasty emerged before the crowds, shrouded
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/566662/a-ceremony-of-silence-echoes-of-mana-and-a-chief-s-ascent>
-
----
-
-## New Caledonia’s political parties commit to “historic” deal in France
-
-date: 2025-07-12, from: 
-
-New Caledonia's pro-and-anti-independence parties committed on Saturday to a 'historic' deal regarding the future political status of the French Pacific territory 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/566745/new-caledonia-s-political-parties-commit-to-historic-deal-in-france>
 
 ---
 

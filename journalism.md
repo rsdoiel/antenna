@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2025-07-13 06:07:41
+updated: 2025-07-13 14:07:48
 ---
 
 # journalism
 
-(date: 2025-07-13 06:07:41)
+(date: 2025-07-13 14:07:48)
+
+---
+
+## Basic Needs Redistribution Center secures lease through 2030, avoids eviction
+
+date: 2025-07-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Good Clothes Good People Basic Needs Redistribution Center, which was slated for eviction in August 2024, has signed a lease agreement to retain its space until 2030. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/13/basic-needs-redistribution-center-secures-lease-through-2030-avoids-eviction/>
 
 ---
 
@@ -71,8 +83,8 @@ Bernardo testified that the UCLA Anderson School of Management reported Klein to
 
 date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper)
 
-Combining comedy with sci-fi and a critique of for-profit healthcare systems, alumnus Michael Plewa’s short film “Freemium 911” is now circulating in film festival circuits.
-The writer, director, editor and producer of the film, Plewa originally pitched and created this three-minute short film as an assignment for a UCLA Film and Television graduate class. 
+<em>This post was updated July 13 at 1:50 p.m.</em>
+Combining comedy with sci-fi and a critique of for-profit health care systems, alumnus Michael Plewa’s short film “Freemium 911” is now circulating in film festival circuits. 
 
 <br> 
 
@@ -188,8 +200,8 @@ date: 2025-07-10, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2025-07-10, from: The Daily Bruin (UCLA Student Newspaper)
 
-Comedy might be the best remedy, but how many jokes can be made before the well runs dry?
-Since its arrival to the Westwood stage June 26, “The Reservoir” has entertained audiences with its lighthearted humor and heartfelt intentionality, despite unfortunately skimming over devastating topics. 
+<em>This post was updated July 13 at 1:57 p.m.</em>
+Comedy might be the best remedy, but how many jokes can be made before the well runs dry? 
 
 <br> 
 

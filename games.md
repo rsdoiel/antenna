@@ -1,11 +1,35 @@
 ---
 title: games
-updated: 2025-07-13 06:07:41
+updated: 2025-07-13 14:07:48
 ---
 
 # games
 
-(date: 2025-07-13 06:07:41)
+(date: 2025-07-13 14:07:48)
+
+---
+
+## What time does Destiny 2 The Edge of Fate release in your time zone?
+
+date: 2025-07-13, updated: 2025-07-11, from: Polygon Website
+
+Destiny 2’s newest expansion is on the horizon. Now that the previous Light and Darkness saga has concluded, this latest expansion marks the beginning of a new era in Destiny 2’s narrative. The Edge of Fate will include new navigation menus, new Vanguard and Crucible activities, and an overhaul to the gear system. Below, we [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/612330/edge-fate-release-time-date-edt-pdt>
+
+---
+
+## Why the director of Parasite picked this Tom Cruise project as Spielberg’s best movie of the century
+
+date: 2025-07-13, updated: 2025-07-12, from: Polygon Website
+
+The New York Times recently published the results of a poll determining the 100 best movies of the 21st century so far, and the #1 slot went to Bong Joon Ho’s Best Picture winner Parasite. (It topped the paper’s subsequent readers’ poll, too.) As it happens, Bong Joon Ho also voted in the poll, and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/612199/parasite-director-bong-joon-ho-favorite-steven-spielberg-movie-tom-cruise>
 
 ---
 
