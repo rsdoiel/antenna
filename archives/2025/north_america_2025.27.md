@@ -1,11 +1,49 @@
 ---
 title: north america
-updated: 2025-07-12 14:07:02
+updated: 2025-07-13 06:07:35
 ---
 
 # north america
 
-(date: 2025-07-12 14:07:02)
+(date: 2025-07-13 06:07:35)
+
+---
+
+## Contrarians to the Rescue on Birthright Citizenship!
+
+date: 2025-07-12, from: The Contrarian
+
+Publisher's Roundup 26 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarians-to-the-rescue-on-birthright>
+
+---
+
+##  YOU LOVE TO SEE IT: Sunblock For Cities 
+
+date: 2025-07-12, from: The Lever News
+
+ City-sized sunblock, states break the subscription loop, abortion limbo resolved, and AI hiring is on trial.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-sunblock-for-cities/>
+
+---
+
+## Our First Episode: E. Jean Carroll
+
+date: 2025-07-12, from: The Contrarian
+
+Welcome to The Contrarian Podcast! 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168115365/590e44cd42dcaa9bbacbf89c1dd79c0b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168115365/590e44cd42dcaa9bbacbf89c1dd79c0b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/our-first-episode-e-jean-carroll>
 
 ---
 

@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-07-12 14:07:08
+updated: 2025-07-13 06:07:44
 ---
 
 # motorcycles
 
-(date: 2025-07-12 14:07:08)
+(date: 2025-07-13 06:07:44)
+
+---
+
+## This EV Moped Can Hit 65 Miles Per Hour, But Still Gets Pedals
+
+date: 2025-07-13, from: Ride Apart, Electric Motorcycle News
+
+It also promises up to 130 miles of range in Eco mode. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/765348/onyx-rcr-80v-electric-moped-or-motorcycle/>
+
+---
+
+## O’Ward ends Honda dominance, gets first Chevrolet win of the season
+
+date: 2025-07-13, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer It took 11 races but Chevrolet is now a winner in IndyCar in 2025 with Pato O’Ward giving the bowtie its maiden victory on the&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/oward-ends-honda-dominance-gets-first-chevrolet-win-of-the-season/>
+
+---
+
+## KTM Sold 100,000 Motorcycles This Year, But Most Are Probably Old Bikes
+
+date: 2025-07-12, from: Ride Apart, Electric Motorcycle News
+
+And our colleagues aren't looking at it critically. 
+
+<br> 
+
+<https://www.rideapart.com/news/765591/ktm-100000-motorcycles-sold-half-were-old-bikes/>
 
 ---
 
@@ -519,52 +556,4 @@ The victim was just 10 years old.
 <br> 
 
 <https://www.rideapart.com/news/764587/camp-staff-fatal-jet-ski-crash/>
-
----
-
-## Ty Dillon, Denny Hamlin Say NASCAR In-Season Bracket Challenge Building Fun Rivalries, Driver Trash-Talking
-
-date: 2025-07-05, from: Kickin the Tires blog
-
-By Jerry Jordan, Editor CHICAGO – The NASCAR in-season bracket challenge is having its intended effect, even if it’s with drivers who weren’t expected to advance past the first round,&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/nascar-in-season-bracket-challenge-building-fun-rivalries-driver-trash-talking/>
-
----
-
-## Palou wins third pole of the season at Mid-Ohio, Team Penske woes continue
-
-date: 2025-07-05, from: Kickin the Tires blog
-
-By Austin Lawton, Staff Writer For the third time this season, Alex Palou starts from the pole in an IndyCar series race, taking pole for the Honda Indy 200 at&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/indycar/palou-wins-third-pole-of-the-season-at-mid-ohio-team-penske-woes-continue/>
-
----
-
-## Ahead of Jack Perkins first Xfinity Series start, here’s how past Supercar drivers have fared in their NASCAR debuts
-
-date: 2025-07-05, from: Kickin the Tires blog
-
-By Noah Poser, Staff Writer In a wave started by Shane van Gisbergen two years ago, another former Australian Supercars driver is set to make his NASCAR debut this weekend.&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/ahead-of-jack-perkins-first-xfinity-series-start-heres-how-past-supercar-drivers-have-fared-in-their-nascar-debuts/>
-
----
-
-## Marc Marquez Makes and Breaks All-New MotoGP Record, Looks Like He’ll Do It Again
-
-date: 2025-07-05, from: Ride Apart, Electric Motorcycle News
-
-The record only starts to get interesting now. 
-
-<br> 
-
-<https://www.rideapart.com/news/764588/marc-marquez-breaks-motogp-sprint-race-win-record/>
 

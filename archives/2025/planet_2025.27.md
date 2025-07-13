@@ -1,11 +1,864 @@
 ---
 title: planet
-updated: 2025-07-12 14:07:01
+updated: 2025-07-13 06:07:33
 ---
 
 # planet
 
-(date: 2025-07-12 14:07:01)
+(date: 2025-07-13 06:07:33)
+
+---
+
+## Man dies after single-vehicle crash in Co Antrim
+
+date: 2025-07-13, from: RTÉ News
+
+A man has died and a second was injured following a one-vehicle road crash in Co Antrim. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0713/1523290-antrim-crash/>
+
+---
+
+## EU prefers negotiated solution with US - von der Leyen
+
+date: 2025-07-13, from: RTÉ News
+
+The European Union prefers a negotiated solution on trade with the United States, European Commission President Ursula von der Leyen has said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0713/1523288-eu-us-trade/>
+
+---
+
+## Game Changer 'Activation Day' to take place at Croke Park
+
+date: 2025-07-13, from: RTÉ News
+
+Croke Park's All-Ireland semi final crowd will be the audience for a pitch-side interview with Jason Poole, whose sister Jennifer was murdered by her former partner in 2021, as part of a GAA initiative. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0713/1523285-game-changer/>
+
+---
+
+## Pope Leo calls for prayers for peace and for those suffering due to war
+
+date: 2025-07-13, from: Vatican News
+
+
+                    <p>At the conclusion of the Angelus in Castel Gandolfo, Pope Leo XIV asked everyone to remember to pray for all those who are suffering and in need due to war. He also recalled Saturday's beatification in Barcelona of Marist Brother Licarion May, who was killed in the early 1900s out of hatred for the faith, and he expressed his gratitude to all the youth leaders and educators who care for children and teenagers during the summer months.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-calls-for-prayers-for-peace-and-those-suffering-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-calls-for-prayers-for-peace-and-those-suffering-war.html>
+
+---
+
+## Liverpool vow to carry champion Jota in their hearts
+
+date: 2025-07-13, from: RTÉ News
+
+Arne Slot has called Diogo Jota a "champion in everything" and said Liverpool would "carry him with us in our hearts". 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0713/1523282-liverpool-vow-to-carry-champion-jota-in-their-hearts/>
+
+---
+
+## Rosie O'Donnell shrugs off Trump citizenship threat
+
+date: 2025-07-13, from: RTÉ News
+
+Rosie O'Donnell has said that she "didn't take it personally" when US President Donald Trump said he might revoke her US citizenship. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0713/1523271-rosie-odonnell-shrugs-off-trump-threat-on-rte-radio-1/>
+
+---
+
+## Pope at Angelus: We cannot cheat death, only serve life to gain eternal life
+
+date: 2025-07-13, from: Vatican News
+
+
+                    <p>Pope Leo XIV prays the Angelus with the faithful in Castel Gandolfo, and reminds Christians that we gain eternal life by caring for others in service and love, not by cheating death.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-angelus-castel-gandolfo-love-eternal-life.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-angelus-castel-gandolfo-love-eternal-life.html>
+
+---
+
+## Israel launches communications satellite from Florida
+
+date: 2025-07-13, from: RTÉ News
+
+Israel has said it had launched a new national communications satellite on board a SpaceX rocket from the United States. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0713/1523272-israel-satellite/>
+
+---
+
+## US ends case against doctor over Covid vaccine scheme
+
+date: 2025-07-13, from: RTÉ News
+
+US Attorney General Pam Bondi has said she had ordered charges to be dropped against a doctor accused of destroying Covid-19 jabs and issuing fake vaccination certificates. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0713/1523269-us-covid-trial/>
+
+---
+
+## Pope at Mass in Castel Gandolfo: Let us imitate Christ, the Good Samaritan
+
+date: 2025-07-13, from: Vatican News
+
+
+                    <p>Pope Leo XIV celebrates Sunday Mass at the Parish of St. Thomas of Villanova in Castel Gandolfo, and recalls that we are to look to the Lord, the Good Samaritan, and reminds that when we experience God's love and healing, we are able to offer the same consolation to others we encounter.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-at-mass-in-castel-gandolfo-13-july-2025-xiv.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-at-mass-in-castel-gandolfo-13-july-2025-xiv.html>
+
+---
+
+## Ukraine's security service says its agents killed suspected Russian FSB assassins
+
+date: 2025-07-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7583944.1752409746!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-sbu.JPG' alt='A man in jeans and a black t-shirt is seen standing outside a building, holding a plastic bag. ' width='620' height='349' title='A CCTV footage shows a Security Service of Ukraine (SBU) officer walking down the stairs moments before he was shot in Kyiv, Ukraine July 10, 2025 in this screengrab obtained from a social media video.'/><p>Ukrainian intelligence agents on Sunday killed members of a Russian secret service cell wanted on suspicion of having shot dead a colonel in Ukraine's SBU security service last week, the SBU said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/ukraine-says-russian-assassins-killed-1.7583942?cmp=rss>
+
+---
+
+## Archbishop Gudziak: Walking the Way of the Cross with Ukraine
+
+date: 2025-07-13, from: Vatican News
+
+
+                    <p>Metropolitan Borys Gudziak, Archbishop of Philadelphia of the Ukrainian Greek Catholic Church, talks about how the Church continues to walk alongside suffering Ukrainians, providing pastoral care, humanitarian support, and a witness of faith in the midst of war.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/archbishop-gudziak-ukraine-war-pastoral-care-humanitarian.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/archbishop-gudziak-ukraine-war-pastoral-care-humanitarian.html>
+
+---
+
+## Unsettled conditions to bring hot spell to an end
+
+date: 2025-07-13, from: RTÉ News
+
+The current hot spell looks set to end with the weather becoming more unsettled next week, bringing some heavy showers and cloudier conditions. 
+
+<br> 
+
+<https://www.rte.ie/news/weather/2025/0713/1523260-weather-warnings/>
+
+---
+
+## Gisele Pelicot awarded France's top honour
+
+date: 2025-07-13, from: RTÉ News
+
+Gisele Pelicot, who became a feminist icon by publicly testifying over the mass rapes she endured, and rapper-turned-fashion designer Pharrell Williams were among 589 people awarded France's top civic honour. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0713/1523258-france-civic-honours/>
+
+---
+
+## Children killed collecting water in Israeli drone strike
+
+date: 2025-07-13, from: RTÉ News
+
+Gaza's civil defence agency said Israeli air strikes have killed more than 40 people, including children at a water distribution point, as talks for a ceasefire between Israel and Hamas stalled. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0713/1523255-israel-gaza/>
+
+---
+
+## George Gibney's time in US drawing rapidly to a close
+
+date: 2025-07-13, from: RTÉ News
+
+Given the choice of spending months in a US jail fighting extradition or returning to Ireland for trial, George Gibney chose the latter, writes Sean Whelan. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0713/1523211-george-gibney/>
+
+---
+
+## Watch: Remembering Live Aid 40 years on
+
+date: 2025-07-13, from: RTÉ News
+
+On this day in 1985, around 1.9 billion people tuned in across the world to watch Live Aid. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0713/1523104-remembering-live-aid/>
+
+---
+
+## Is the big AI job displacement already under way?
+
+date: 2025-07-13, from: RTÉ News
+
+The impact of artificial intelligence on employment came into sharp focus this week, writes Brian O'Donovan 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0713/1523109-ai-job-losses-ireland/>
+
+---
+
+## Live Aid at 40: 10 moments that made musical history
+
+date: 2025-07-13, from: RTÉ News
+
+Forty years after Live Aid rocked the world, Evelyn O'Rourke looks at ten ways the music event of a lifetime made musical history. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0713/1523132-live-aid-40/>
+
+---
+
+## 10 ways ex-Olympian Ryan Wedding has evaded arrest for 10 years
+
+date: 2025-07-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7582854.1752245844!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ryan-james-wedding.jpg' alt='A man wearing a ball cap, t-shirt and jeans, with his hands in his pockets' width='620' height='349' title='Fugitive Ryan Wedding is seen in an undisclosed location in 2024.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/fugitive-ryan-wedding-evade-arrest-1.7582749?cmp=rss>
+
+---
+
+## 'Quite an honour': Canadians take a turn as the King's Life Guard in London
+
+date: 2025-07-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7583149.1752257453!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/king-s-life-guard.jpg' alt='Five soldiers wearing red uniforms sit on black horses.' width='620' height='349' title=''/><p>A mounted ceremonial guard at Horse Guards, the official entrance to the royal palaces or riding down streets in central London is a familiar sight — and for the next eight days, Canadian soldiers will carry out the duties.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/canadian-soldiers-kings-life-guard-sovereign-grant-report-duke-edinburgh-award-fanshawe-1.7580832?cmp=rss>
+
+---
+
+## N Korea reaffirms support for Russia's war in Ukraine
+
+date: 2025-07-13, from: RTÉ News
+
+North Korean leader Kim Jong-un offered Russia his full support on the war in Ukraine during talks with Russian Foreign Minister Sergei Lavrov, state media in North Korea said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0713/1523250-north-korea-russia/>
+
+---
+
+## Events take place for National Day of Commemoration
+
+date: 2025-07-12, from: RTÉ News
+
+National Day of Commemoration ceremonies were held at several locations across the country this morning. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0713/1523030-national-day-of-commemoration/>
+
+---
+
+## Calls for probe after settlers kill American in West Bank
+
+date: 2025-07-12, from: RTÉ News
+
+A US-Palestinian man has been killed in an Israeli settler attack in the occupied West Bank, his family has said, demanding that Washington launch an investigation into his death. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0712/1523229-west-bank-killings-israel/>
+
+---
+
+## Man due in court over fatal assault in Co Limerick
+
+date: 2025-07-12, from: RTÉ News
+
+A man is due in court in connection with a fatal assault on Michael Hayes in Watergate in Limerick on Thursday evening. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0712/1523223-assault-death-limerick/>
+
+---
+
+## Man charged with murder of 71-year-old in Limerick city
+
+date: 2025-07-12, from: RTÉ News
+
+A 43-year-old man has been charged with the murder of 71-year-old Michael Hayes following an assault in Limerick city. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0712/1523223-philip-ambrose-court/>
+
+---
+
+## Kerry power into final as Tyrone challenge fizzles out
+
+date: 2025-07-12, from: RTÉ News
+
+Kerry powered their way into an All-Ireland SFC decider thanks to a dominant second-half display, Tyrone's challenge fizzling out badly after a bright opening. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0712/1523162-kerry-power-into-final-as-tyrone-challenge-fizzles-out/>
+
+---
+
+## Trump threatens to revoke O'Donnell's US citizenship
+
+date: 2025-07-12, from: RTÉ News
+
+US President Donald Trump has said he might revoke talk show host Rosie O'Donnell's US citizenship after she criticised his administration's handling of weather forecasting agencies. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0712/1523216-trump-odonnell/>
+
+---
+
+## All-Ireland SFC sf recap: Kerry 1-20 Tyrone 0-17
+
+date: 2025-07-12, from: RTÉ News
+
+Kerry produce another power-packed performance to dump out Tyrone and book their spot in this year's All-Ireland final. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0712/1523190-all-ireland-sfc-semi-final-kerry-v-tyrone-updates/>
+
+---
+
+## NTMA targeted in voice phishing attack
+
+date: 2025-07-12, from: RTÉ News
+
+A garda investigation is under way after the National Treasury Management Agency was targeted in what is understood to be a €5 million voice phishing attack. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0712/1523198-ntma-payments/>
+
+---
+
+## Gaza’s Christian community persevering amid hardship and hope
+
+date: 2025-07-12, from: Vatican News
+
+
+                    <p>The Parish priest of Gaza's small Christian community says his flock is exhausted by war and a severe lack of food. Speaking to Vatican Radio, he asks not to be forgotten and for continued prayers: an unending source of hope.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/gaza-fr-gabriele-romanelli-parish-holy-family-gaza-interview-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/gaza-fr-gabriele-romanelli-parish-holy-family-gaza-interview-war.html>
+
+---
+
+## As it happened: EU warns of retaliation to US tariffs
+
+date: 2025-07-12, from: RTÉ News
+
+The EU said it is prepared to take the necessary steps to safeguard its interests if the US proceeds with imposing a 30% tariff on European goods starting 1 August. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0712/1523199-tariff-tracker/>
+
+---
+
+## Israel's plan for 'humanitarian city' in Rafah sparks outrage
+
+date: 2025-07-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/13c130e4-102a-45d2-bd85-303a954433d8,1752342320791/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C220%2C4231%2C2379%29%3BResize%3D%28620%29' alt='Palestinian woman Somaya Al-Shaer, with her daughter, mourns her son, who was killed by Israeli fire while seeking aid near a distribution point in Rafah, according to medics, at Nasser Hospital in Khan Younis, southern Gaza Strip, July 12, 2025. ' width='620' height='349' title='Palestinian woman Somaya Al-Shaer, with her daughter, mourns her son, who was killed by Israeli fire while seeking aid near a distribution point in Rafah, according to medics, at Nasser Hospital in Khan Younis, southern Gaza Strip, July 12, 2025. REUTERS/Ramadan Abed     TPX IMAGES OF THE DAY'/><p>Palestinians and human rights activists expressed alarm after Israel's defence minister said he plans to move all Palestinians in Gaza into a camp at the southern tip of the war-battered enclave, according to Israeli media. Some said it would violate international law and amount to crimes against humanity.
+</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6829747?cmp=rss>
+
+---
+
+## SF's presidential election decision in weeks - McDonald
+
+date: 2025-07-12, from: RTÉ News
+
+Sinn Féin leader Mary Lou McDonald has again repeated that the party is considering its options on this year's presidential election and will arrive at a decision in a few weeks. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0712/1523201-presidential-election/>
+
+---
+
+## War-struck children in Sudan tell of harrowing violence
+
+date: 2025-07-12, from: Vatican News
+
+
+                    <p>For over two years, the people of Sudan have been subjected to a civil war that has killed tens of thousands and displaced millions of people. The children are paying the highest price.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/sudan-save-the-children-violence-war-rape-death-displacement.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/sudan-save-the-children-violence-war-rape-death-displacement.html>
+
+---
+
+## 4th Zanzibar Cup to highlight fraternity through kitesurfing
+
+date: 2025-07-12, from: Vatican News
+
+
+                    <p>The 4th International Kitesurf Race known as the "Zanzibar Cup" is set to take place from 30-31 August 2025 with registration underway until 10 August latest. The international regatta in Tanzania aims to promote the best in sportsmanship and fraternity.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/4th-zanzibar-cup-to-highlight-fraternity-through-kitesurfing.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/4th-zanzibar-cup-to-highlight-fraternity-through-kitesurfing.html>
+
+---
+
+## Trump announces 30% tariffs on imports from EU
+
+date: 2025-07-12, from: RTÉ News
+
+Goods imported from the European Union will face a 30% US tariff rate starting from 1 August, US President Donald Trump said in letters posted to his social media platform this afternoon. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0712/1523196-eu-us-tariff/>
+
+---
+
+## EU faces 30% tariffs as Trump intensifies trade war
+
+date: 2025-07-12, from: RTÉ News
+
+US President Donald Trump threatened to impose a 30% tariff on imports from the European Union and Mexico starting on 1 August. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0712/1523196-eu-us-tariffs/>
+
+---
+
+## Lions move up a gear in dominant AUNZ win
+
+date: 2025-07-12, from: RTÉ News
+
+Owen Farrell made his first appearance on the British and Irish Lions tour of Australia but it was the player he replaced, Huw Jones who lit up a 48-0 victory over an AUNZ Invitational XV. 
+
+<br> 
+
+<https://www.rte.ie/sport/rugby/2025/0712/1523169-lions-move-up-a-gear-in-dominant-aunz-win/>
+
+---
+
+## Parish of Castel Gandolfo joyful ahead of Pope Leo’s Mass
+
+date: 2025-07-12, from: Vatican News
+
+
+                    <p>Ahead of Pope Leo XIV’s visit and celebration of Mass on Sunday, the parish priest of St. Thomas of Villanova in Castel Gandolfo shares the excitement and faith of his parishioners.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/pope-leo-xiv-parish-castel-gandolfo-interview-priest.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/pope-leo-xiv-parish-castel-gandolfo-interview-priest.html>
+
+---
+
+## Cardinal Zuppi: Pope Leo XIV asks us to make every community a 'home of peace'
+
+date: 2025-07-12, from: Vatican News
+
+
+                    <p>Cardinal Matteo Maria Zuppi, the President of the Italian Episcopal Conference, speaks to Vatican News about Pope Leo XIV’s invitation to develop a pastoral approach to peace in all Dioceses.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/cardinal-zuppi-president-cei-pope-leo-tornielli-monda-interview.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/cardinal-zuppi-president-cei-pope-leo-tornielli-monda-interview.html>
+
+---
+
+## Smurf your voice: Global campaign urges everyone to speak up for a better future
+
+date: 2025-07-12, from: United Nations, Top Stories
+
+The Smurfs are back – and this time they are smurfing up a global storm. Teaming up with the UN Children’s Fund (UNICEF) and Paramount Pictures, the iconic blue characters are leading a campaign that encourages children and grownups everywhere to “Speak Up” for a better world. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165382>
+
+---
+
+## No fuel, no aid, no escape: UN agencies warn of looming collapse in Gaza
+
+date: 2025-07-12, from: United Nations, Top Stories
+
+The fuel crisis in Gaza has reached a breaking point, threatening to bring all humanitarian operations to a halt and endangering the lives of everyone reliant on aid inside the enclave, UN agencies warned in a powerful joint statement on Saturday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165383>
+
+---
+
+## Israel, Hamas trade blame as truce talks hang in balance
+
+date: 2025-07-12, from: RTÉ News
+
+Hamas and Israel accused the other of blocking attempts to strike a Gaza ceasefire agreement, nearly a week into indirect talks between the two sides to halt 21 months of war in the Palestinian territory. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0712/1523178-israel-gaza/>
+
+---
+
+## The Speed of Light and the Strangeness of Time: (3) Simultaneous or Not?
+
+date: 2025-07-12, from: Vatican Obervatory
+
+You hear that at the Big Bang space and time were distorted beyond what the laws of physics allow us to investigate. But how can space and time be distorted? 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/the-speed-of-light-and-the-strangeness-of-time-3-simultaneous-or-not/>
+
+---
+
+## 'I don't know' - Taylor coy on retirement plans
+
+date: 2025-07-12, from: RTÉ News
+
+Katie Taylor says she will take time to consider her future after emerging triumphant in her trilogy fight against Amanda Serrano, before once again reiterating her desire to fight at Croke Park. 
+
+<br> 
+
+<https://www.rte.ie/sport/boxing/2025/0712/1523164-i-dont-know-taylor-coy-on-retiremement-plans/>
+
+---
+
+## Pope Leo XIV: Embrace 'marvelous adventure' of following Christ more closely
+
+date: 2025-07-12, from: Vatican News
+
+
+                    <p>Pope Leo XIV invites members of several religious congregations holding their General Chapters to take part in the "marvelous adventure" of following Christ more closely.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-embark-upon-marvelous-adventure-of-following-chris.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-embark-upon-marvelous-adventure-of-following-chris.html>
+
+---
+
+## Hottest day of year as Met Éireann says mercury hit 31C
+
+date: 2025-07-12, from: RTÉ News
+
+Met Éireann has said that the highest temperature of the year so far was recorded today 
+
+<br> 
+
+<https://www.rte.ie/news/weather/2025/0712/1523167-weather-warnings/>
+
+---
+
+## Kyiv residents 'brace for death' as Russian drones, missiles increasingly fly at night
+
+date: 2025-07-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7583301.1752322617!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/a-fire-at-top-of-kyiv-residential-building-following-a-russian-attack.jpg' alt='A fire burns at a residential building after a Russian attack in Kyiv, Ukraine.' width='620' height='349' title='A fire burns at a residential building after a Russian attack in Kyiv, Ukraine, early Thursday, July 10, 2025.'/><p>Nighttime assaults on the Ukrainian capital of Kyiv have intensified in the fourth year of Russia's full-scale invasion, with the number of drones sometimes exceeding 700. Swarms of 1,000 drones could soon become the norm, officials say.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/kyiv-living-through-russian-attacks-drones-1.7583277?cmp=rss>
+
+---
+
+## Two killed in Russian attacks on western Ukraine
+
+date: 2025-07-12, from: RTÉ News
+
+Russia pounded Ukraine with hundreds of drones and dozens of missiles, in the fourth major attack this month, targeting western cities and killing at least two people in Chernivtsi on the border with Romania. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0712/1523165-ukraine-russia/>
+
+---
+
+## World Bank mobilises $80 billion to reconstruct Ukraine
+
+date: 2025-07-12, from: Vatican News
+
+
+                    <p>Anna Bjerde, Managing Director of Operations at the World Bank, speaks to Vatican News about the organisation’s support for war-torn Ukraine – from financing repairs to energy infrastructure to helping farmers increase their yields.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/world-bank-mobilises-80-billion-reconstruct-ukraine-bjerde.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/world-bank-mobilises-80-billion-reconstruct-ukraine-bjerde.html>
+
+---
+
+## Watch: 'These are nights I dreamed of as a kid'
+
+date: 2025-07-12, from: RTÉ News
+
+Katie Taylor said that "these are the nights I dreamed of as a kid" after she retained her undisputed world super lightweight title after edging her third fight against Amanda Serrano in New York. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0712/1523161-katie-taylor/>
+
+---
+
+## Girl who died after river incident 'kind and spirited'
+
+date: 2025-07-12, from: RTÉ News
+
+The 12-year-old girl who died after getting into difficulty while swimming in a river in Co Tipperary has been described as a "bright, kind and spirited young person" by her school's principal. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0712/1523157-tipperary-incident/>
+
+---
+
+## Lord's Day Reflection: Who is my neighbour?
+
+date: 2025-07-12, from: Vatican News
+
+
+                    <p>As the Church celebrates the Fifteenth Sunday in Ordinary time, Father John Luke Gregory, OFM, reflects on the theme, "Who is my neighbour? A call to compassion in challenging times".</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/lord-s-day-reflection-who-is-my-neighbour.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/lord-s-day-reflection-who-is-my-neighbour.html>
+
+---
+
+## U.S. citizen among 2 Palestinians killed by settlers in Israeli-occupied West Bank, health officials say
+
+date: 2025-07-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7583718.1752304199!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-town-fence.JPG' alt='Aerial view of a town enclosed inside a fence' width='620' height='349' title='A drone view shows a part of the fence, which was set by the Israeli authorities, in Sinjil, near Ramallah, in the Israeli-occupied West Bank May 5, 2025. REUTERS/Mohammed Torokman'/><p>A Palestinian American man was beaten to death by settlers in the Israeli-occupied West Bank, says the Palestinian Health Ministry, prompting his family to demand that the U.S. lead an investigation. Another man, 23, was shot dead.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/palestinian-american-killed-israel-1.7583717?cmp=rss>
+
+---
+
+## Gallery - here's how Live Aid rocked the world in 1985
+
+date: 2025-07-12, from: RTÉ News
+
+Sunday 13 July marks the 40th anniversary of Live Aid, the global jukebox that spanned the Atlantic with two massive concerts to raise funds for the famine-stricken people of Africa. Take a look back on one of the biggest days in music history. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0712/1522488-gallery-heres-how-live-aid-rocked-the-world-in-1985/>
+
+---
+
+## Watch: 'I was at Live Aid 40 years ago'
+
+date: 2025-07-12, from: RTÉ News
+
+This weekend marks the 40th anniversary of Live Aid, the star-studded fundraising concerts organised by Bob Geldof and Midge Ure for famine relief in Ethiopia. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0712/1523103-live-aid-anniversary/>
+
+---
+
+## Live Aid was 40 years ago this weekend
+
+date: 2025-07-12, from: RTÉ News
+
+40 years ago this weekend, the world turned on the biggest global jukebox it had ever seen and heard as two massive concerts took place in London and Philadelphia to raise money for the famine-stricken people of Africa. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0712/890046-live-aid-was-40-years-ago-this-weekend-have-a-look-back/>
+
+---
+
+## Live Aid at 40: Geldof, Queen and everything in between
+
+date: 2025-07-12, from: RTÉ News
+
+Two venues, two billion viewers and, as pomp rockers Queen, who pretty much stole the whole show, would say - one vision. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0712/1523144-live-aid-at-40-geldof-queen-and-everything-in-between/>
+
+---
+
+## Dáil blackout brings cost-of-living crisis into spotlight
+
+date: 2025-07-12, from: RTÉ News
+
+A pre-budget row is developing on the cost of living, one which Government may prove difficult to overcome. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0712/1523149-ireland-politics-analysis/>
+
+---
+
+## Palestine Action: Why has it been banned in the UK?
+
+date: 2025-07-12, from: RTÉ News
+
+Earlier this month, British politicians voted to ban pro-Palestinian campaign group Palestine Action, proscribing it as a terrorist organisation. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0712/1523115-palestine-action-banned/>
+
+---
+
+## Taylor triumphant in trilogy fight against Serrano
+
+date: 2025-07-12, from: RTÉ News
+
+Katie Taylor emerged victorious from her trilogy fight with Amanda Serrano at Madison Square Garden to seal a clean sweep of wins in their rivalry. 
+
+<br> 
+
+<https://www.rte.ie/sport/boxing/2025/0712/1523125-taylor-triumphant-in-trilogy-fight-against-serrano/>
+
+---
+
+## Canada won't let this Afghan refugee in from the U.S. His family worries the Taliban might kill him back home
+
+date: 2025-07-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/0265b901-5293-4a1f-9323-a4429a3a1d2d,1752253817561/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A man in a baseball hat in a sparse, concrete room. ' width='620' height='349' title='This photo of Mohammad Younesi was texted by his smugglers to his brother to prove he was alive and had made it to the U.S.-Mexico border.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/afghan-refugee-mohammed-younesi-us-canada-1.7581176?cmp=rss>
+
+---
+
+## Who scored big on Prime Day - You or Amazon?
+
+date: 2025-07-12, from: RTÉ News
+
+Midnight marked the end of Amazon Prime Day, the first since it launched its dedicated Irish website, Amazon.ie. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0712/1523059-amazon-prime-day/>
+
+---
+
+## 2 years after riots rocked France, these moms are still trying to keep the peace
+
+date: 2025-07-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7579203.1751922680!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/paris-moms.JPG' alt='Five women, wearing flourescent pink vests, face roughly the same number of young boys in what appears to be an urban area. ' width='620' height='349' title='Fatimata Sy, seated front, and other members of the Pink Vests, speak with area youths in the Paris suburb of Corbeil-Essonne on June 24, 2025, in Paris. '/><p>In the suburbs of Paris, the "Pink Vests" try to calm the often-tense relations between youths and the police, an issue that erupted two years ago when a 17-year-old was killed by city police, touching off France's biggest riots in 20 years.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/nahel-france-pink-vests-police-youth-violence-1.7577820?cmp=rss>
+
+---
+
+## Fuel to Air India jet cut moments before crash - report
+
+date: 2025-07-12, from: RTÉ News
+
+Fuel control switches to the engines of an Air India flight that crashed shortly after take off last month were moved from the "run" to the "cutoff" position moments before impact, a preliminary investigation report said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0712/1523154-air-india-investigation/>
+
+---
+
+## Trump visits Texas flood zone, defends disaster response
+
+date: 2025-07-12, from: RTÉ News
+
+US President Donald Trump has defended the state and federal response to deadly flash flooding in Texas as he visited the Hill Country region, where at least 120 people, including dozens of children, were killed. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0712/1523150-texas-floods/>
 
 ---
 
@@ -285,6 +1138,18 @@ Three people have died following separate incidents in counties Dublin, Meath an
 
 ---
 
+## Dynamic Donegal seek to quell Meath momentum
+
+date: 2025-07-11, from: RTÉ News
+
+Meath are re-born in 2025 but an in-form and ruthless Donegal provide their stiffest test yet. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0711/1523085-dynamic-donegal-seek-to-quell-meath-momentum/>
+
+---
+
 ## Disrupted schooling in Ukraine has led to ‘emotional instability in children’
 
 date: 2025-07-11, from: Vatican News
@@ -459,7 +1324,7 @@ A chaotic wave of returnees from Iran and Pakistan is straining Afghanistan’s 
 
 ## Celebrating the potential and promise of the largest youth generation ever
 
-date: 2025-07-11, from: United Nations, Top Stories
+date: 2025-07-11, from: United Nations, Economic Development
 
 Young people are shaping the future and demanding a world that is just, inclusive and sustainable, the UN chief said on Friday, marking&nbsp;World Population Day. 
 
@@ -519,7 +1384,7 @@ Following the deaths of several children&nbsp;in an Israeli strike on Palestinia
 
 ## World Horse Day: Honoring humanity’s oldest and most loyal companion
 
-date: 2025-07-11, from: United Nations, Top Stories
+date: 2025-07-11, from: United Nations, Climate Change
 
 Spacious paddocks, green pastures, and a devoted all-female staff: on Long Island, a strip of land surrounded by the Atlantic Ocean near New York City, horses once destined for slaughter are given a second chance – to live, and to help people heal. The farm, founded in 2010 by Marisa Striano, is named after her beloved horse, Spirit. It offers healing – for both horses and humans in need. 
 
@@ -1359,7 +2224,7 @@ Devastating funding cuts from international donors are hitting countries hardest
 
 ## Overlooked and underestimated: Sand and dust storms wreak havoc across borders
 
-date: 2025-07-10, from: United Nations, Top Stories
+date: 2025-07-10, from: United Nations, Climate Change
 
 There are three Great Pyramids at Giza in Egypt - but imagine if there were 307 of the mighty edifices. And then imagine that they had dissolved into over two billion tons of sand and dust particles.&nbsp; 
 
@@ -1419,7 +2284,7 @@ When Natalia Kanem reflects on her eight-year tenure at the helm of the UN repro
 
 ## UN warns of record civilian casualties in Ukraine
 
-date: 2025-07-10, from: United Nations, Top Stories
+date: 2025-07-10, from: United Nations, Economic Development
 
 UN agencies on Thursday warned of devastating recent attacks across Ukraine due to Russian strikes, record civilian casualties recorded last month – and growing deprivation facing children under fire across the country. 
 
@@ -2469,7 +3334,7 @@ As scores of people – including medical staff and their families – have repo
 
 ## ‘Very limited time to react’: Texas flash floods expose challenges in early warning
 
-date: 2025-07-09, from: United Nations, Top Stories
+date: 2025-07-09, from: United Nations, Climate Change
 
 The deadly flash floods in central Texas that claimed more than 100 lives over the July Fourth weekend in the United States have underscored the devastating power of this fast-onset hazard – and the critical challenge of ensuring early warnings reach vulnerable populations, even in the dead of night. 
 
@@ -2481,7 +3346,7 @@ The deadly flash floods in central Texas that claimed more than 100 lives over t
 
 ## Ukrainian baker rises above adversity
 
-date: 2025-07-09, from: United Nations, Top Stories
+date: 2025-07-09, from: United Nations, Economic Development
 
 At Hanna Honcharenko’s bakery in Dnipro, eastern Ukraine, the scent of freshly baked bread represents a slice of home for many. The business, born out of hardship, is proof that with trust and support it is possible start again following the loss brought on by war.&nbsp; 
 
@@ -3438,7 +4303,7 @@ The UN human rights office, OHCHR, has expressed deep concern over the killing o
 
 ## US tariff delay deepens trade uncertainty, warns top UN economist
 
-date: 2025-07-08, from: United Nations, Top Stories
+date: 2025-07-08, from: United Nations, Economic Development
 
 A leading UN trade official warned on Tuesday that the United States’ decision to delay the end of a tariff suspension by a few weeks risks prolonging global uncertainty and undermining long-term investments and commercial contracts. 
 
@@ -3462,7 +4327,7 @@ As relentless attacks continue to damage homes and communities across Ukraine, t
 
 ## South Sudan’s longest cholera outbreak enters critical stage
 
-date: 2025-07-08, from: United Nations, Top Stories
+date: 2025-07-08, from: United Nations, Climate Change
 
 On the eve of the fourteenth anniversary of its independence, South Sudan – the world’s youngest country – is experiencing its worst and longest cholera outbreak.&nbsp;&nbsp; 
 
@@ -5035,534 +5900,4 @@ A man suspected of setting fire to an Australian synagogue as worshippers ate di
 <br> 
 
 <https://www.rte.ie/news/world/2025/0706/1522064-australia-synagogue-fire/>
-
----
-
-## Texas floods death toll rises to at least 78 - officials
-
-date: 2025-07-05, from: RTÉ News
-
-The death toll from devastating floods in central Texas has jumped to at least 78 people, officials said, with ten girls still missing from the worst-hit Kerr County. 
-
-<br> 
-
-<https://www.rte.ie/news/us/2025/0706/1522061-texas-floods/>
-
----
-
-## Elon Musk says he has created a new US political party
-
-date: 2025-07-05, from: RTÉ News
-
-Elon Musk, a former ally of US President Donald Trump, said he has launched a new political party in the United States to challenge what the tech billionaire described as the country's "one-party system". 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0705/1522052-elon-musk-party/>
-
----
-
-## Iran's Ayatollah attends first event after Israel war
-
-date: 2025-07-05, from: RTÉ News
-
-Iran's supreme leader Ayatollah Ali Khamenei has made his first public appearance since the outbreak of his country's recent 12-day war with Israel, state media reported. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0705/1522050-iran-israel/>
-
----
-
-## Rampant Rebels return to All-Ireland final in goal rush
-
-date: 2025-07-05, from: RTÉ News
-
-Cork made it back-to-back All-Ireland finals with a seven-goal, 7-26 to 2-21 demolition of Dublin in front of a full house on Jones' Road. 
-
-<br> 
-
-<https://www.rte.ie/sport/hurling/2025/0705/1521972-rampant-rebels-return-to-all-ireland-final-in-goal-rush/>
-
----
-
-## Pope thanks L'Osservatore di Strada: You make the voices of the voiceless heard
-
-date: 2025-07-05, from: Vatican News
-
-
-                    <p>On the third anniversary of L’Osservatore Romano’s monthly magazine “L'Osservatore di Strada”, Leo XIV sends a message of gratitude for the work done by the publication, where “the least among us become protagonists”. </p>
-                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-thanks-l-osservatore-di-strada-on-third-anniversary.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/pope/news/2025-07/pope-thanks-l-osservatore-di-strada-on-third-anniversary.html>
-
----
-
-## Teen, 14, in court over petrol bomb attack of Dublin home
-
-date: 2025-07-05, from: RTÉ News
-
-A 14-year-old has been charged in connection with a petrol bomb attack at a home in Dublin in May earlier this year. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0705/1522035-ballyfermot-court/>
-
----
-
-## Interpol probes international connections to MV Matthew
-
-date: 2025-07-05, from: RTÉ News
-
-Interpol's director of organised and emerging crime has said they have been successful in identifying criminal connections to South America and the Middle East as the investigation into those behind the attempted importation of €157 million worth of cocaine on the MV Matthew, moves internationally. 
-
-<br> 
-
-<https://www.rte.ie/news/ireland/2025/0705/1522027-mvmatthew-briefing/>
-
----
-
-## All-Ireland SHC semi-final: Cork 7-26 Dublin 2-21 recap
-
-date: 2025-07-05, from: RTÉ News
-
-Cork strolled into the All-Ireland SHC final with a ruthless scoring display against Dublin at Croke Park. Here's how it happened. 
-
-<br> 
-
-<https://www.rte.ie/sport/hurling/2025/0705/1522026-all-ireland-shc-semi-final-cork-v-dublin-updates/>
-
----
-
-## 'Absolutely horrendous day' in Tataskweyak Cree Nation as wildfire destroys at least 7 homes
-
-date: 2025-07-05, from: CBC, Indigenious News
-
-<img src='https://i.cbc.ca/1.7578511.1751827601!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/tastakweyak-fire.jpg' alt='Heavy smoke around a fire on a wooded area.' width='620' height='349' title='Photo of the fire near Tataskweyak Cree Nation posted on social media by Coun. Ivan Keeper on Sunday, July 6, 2025.'/><p>Several homes on Tataskweyak Cree Nation in northern Manitoba have been destroyed by wildfire that has forced nearly 200 people to evacuate, the community's chief and council said in a social media post on Saturday.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/canada/manitoba/tataskweyak-cree-nation-wildfires-evacuation-1.7578243?cmp=rss>
-
----
-
-## Joe Duffy says he will not contest presidential election
-
-date: 2025-07-05, from: RTÉ News
-
-Former RTÉ broadcaster Joe Duffy has confirmed that he will not seek a nomination to run for the presidency. 
-
-<br> 
-
-<https://www.rte.ie/news/politics/2025/0705/1522020-presidential-election-joe-duffy/>
-
----
-
-## Search continues in Texas for missing children after flash floods
-
-date: 2025-07-05, from: Vatican News
-
-
-                    <p>A rescue operation is underway and racing against time in Texas after the flash flooding of the Guadalupe River, which caused at least 34 deaths and many still missing, including over 20 girls who were attending a Christian summer camp in the area. </p>
-                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/texas-river-children-missing-floods-emergency.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/world/news/2025-07/texas-river-children-missing-floods-emergency.html>
-
----
-
-## Trump threatens Russian sanctions after drone attacks
-
-date: 2025-07-05, from: RTÉ News
-
-US President Donald Trump said Russia just wanted to "keep killing people" and hinted at sanctions after Moscow launched its largest ever drone and missile attack on Ukraine in the three-year-old war. 
-
-<br> 
-
-<https://www.rte.ie/news/ukraine/2025/0705/1522018-ukraine-russia/>
-
----
-
-## Hamas ‘positive’ toward new peace plan, reports suggest
-
-date: 2025-07-05, from: Vatican News
-
-
-                    <p>Hamas says it has delivered a “positive response” to mediators regarding a U.S.-backed proposal for a ceasefire and hostage release in Gaza.
-</p>
-                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/hamas-positive-peace-plan-ceasefire-hostages.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/world/news/2025-07/hamas-positive-peace-plan-ceasefire-hostages.html>
-
----
-
-## Protesters from across island take part in housing rally
-
-date: 2025-07-05, from: RTÉ News
-
-Around 2,000 people are marching in Dublin city centre in protest against the Government's housing policies. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0705/1522015-housing-protest/>
-
----
-
-## Rescuers, parents scramble to find missing summer campers in wake of deadly Texas flood
-
-date: 2025-07-05, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7578286.1751803150!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-extreme-weather-texas.jpg' alt='People react as they embrace.' width='620' height='349' title='Families are reunited at a reunification center after flash flooding hit the area, Friday, July 4, 2025, in Ingram, Texas. (AP Photo/Eric Gay)'/><p></p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/texas-floods-search-1.7578158?cmp=rss>
-
----
-
-## Death toll rises in Texas floods, with summer campers among dozens still missing
-
-date: 2025-07-05, from: CBC, World News
-
-<img src='https://i.cbc.ca/ais/e5316b4c-9d59-4523-84a7-d552a2b10167,1751823871115/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C105%2C2048%2C1152%29%3BResize%3D%28620%29' alt='Stuffed animals after flood in Texas.' width='620' height='349' title=''/><p></p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/search-texas-flood-third-day-1.7578368?cmp=rss>
-
----
-
-## Texas flooding death toll tops 100 as rescuers brace for more rain
-
-date: 2025-07-05, from: CBC, World News
-
-<img src='https://i.cbc.ca/ais/c39ee891-5af6-4f4b-93c9-632d111e770b,1751932548547/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A man walks through fallen trees in front of a sideways RV. ' width='620' height='349' title=' An RV in Guadalupe Keys Resort, an RV park in Center Point, Texas, is seen on its side after flooding, Monday, July 7, 2025. '/><p></p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/texas-floods-search-rescue-monday-1.7578716?cmp=rss>
-
----
-
-## More than 160 people still missing after deadly Texas floods, says governor
-
-date: 2025-07-05, from: CBC, World News
-
-<img src='https://i.cbc.ca/ais/1760408d-9a8e-4b2e-a610-62ad0a2b09fa,1752016472586/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Two people look over a guardrail into a river bed filled with debris and an an overturned car.' width='620' height='349' title='Relatives and friends of Alicia Olvera, a woman still missing after her husband was found dead, conduct a search to locate her near the Guadalupe River in Hunt, Texas, on July 8, 2025, following severe flash flooding over the July 4 holiday weekend.'/><p></p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/texas-floods-search-rescue-tuesday-1.7579663?cmp=rss>
-
----
-
-## Texas officials deflect questions about preparedness, warnings ahead of deadly floods
-
-date: 2025-07-05, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7580991.1752088318!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/texas-floods-extreme-weather.jpg' alt='A flag is seen on a portion of eroded ground with water rushing underneath' width='620' height='349' title='An American flag sits on a destroyed bridge over the Guadalupe River at Arcadia Loop and Bear Creek Road after flooding in Kerrville, Texas on Wednesday , July 9, 2025.  '/><p></p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/texas-flood-accountability-1.7580942?cmp=rss>
-
----
-
-## Texas officials in Kerr County missed chances over the years to mitigate flood damage
-
-date: 2025-07-05, from: CBC, World News
-
-<img src='https://i.cbc.ca/ais/dfb0a3de-7cdf-4620-8546-44dbd51f975f,1752179522609/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='Search crews look for missing flood victims in Center Point, Texas.' width='620' height='349' title='Search crews look for missing flood victims in Center Point, Texas.'/><p></p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/texas-floods-missed-opportunities-1.7581474?cmp=rss>
-
----
-
-## When floodwaters came, one small Texas town sounded its alarm
-
-date: 2025-07-05, from: CBC, World News
-
-<img src='https://i.cbc.ca/ais/d4c6b466-0f9c-4b75-9500-8dc62a223ee2,1752172040161/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A man in a firefighter&apos;s uniform stands during an interview, looking off camera' width='620' height='349' title='Danny Morales, volunteer firefighter in Comfort, Texas.'/><p></p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/comfort-texas-flooding-perparedness-1.7581811?cmp=rss>
-
----
-
-## UN chief condemns Russian strikes on Ukraine, warns of nuclear safety risk
-
-date: 2025-07-05, from: United Nations, Top Stories
-
-The UN Secretary-General on Saturday strongly condemned Russia’s latest wave of drone and missile attacks in Ukraine – reportedly the largest in over three years of war – warning that the strikes again jeopardised nuclear safety at the Zaporizhzhia Nuclear Power Plant (ZNPP). 
-
-<br> 
-
-<https://news.un.org/feed/view/en/story/2025/07/1165336>
-
----
-
-## ‘A spirit of oneness’: Cooperatives cultivating peace in South Sudan
-
-date: 2025-07-05, from: United Nations, Economic Development
-
-Within one year, a maize and sorghum cooperative of 20 members in the Central Equatorial State of South Sudan had grown to over 150 members allowing many members to boost their income and provide for their families for the first time. 
-
-<br> 
-
-<https://news.un.org/feed/view/en/story/2025/07/1165256>
-
----
-
-## Budding journalists from Kahnawà:ke share stories from their community
-
-date: 2025-07-05, from: CBC, Indigenious News
-
-<img src='https://i.cbc.ca/1.7575842.1751498869!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/emily-pasquarelli.JPG' alt='Two women sitting with recording equipment' width='620' height='349' title='Kahnawà:ke Survival School reporter Tekaweientehtáhkwen Diabo works with her Concordia mentor Emily Pasquarelli.'/><p>For the second year in a row, CBC Montreal is proud to support a partnership between Concordia University's journalism department and Kahnawake Survival School (KSS). The initiative aims to inspire Indigenous students to consider a career in media.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/canada/montreal/journalists-kahnawake-survival-concordia-1.7575820?cmp=rss>
-
----
-
-## First Person: Japanese UN volunteer ‘motivated by the passion of others’ to support peace
-
-date: 2025-07-05, from: United Nations, UN Affairs
-
-A United Nations volunteer from Japan has said as a teenager he was motivated by the “passion” of young people he met on an exchange programme to contribute to peace and development initiatives. 
-
-<br> 
-
-<https://news.un.org/feed/view/en/story/2025/07/1164911>
-
----
-
-## Pope to Augustinian sisters: Culture without truth becomes a tool of the powerful
-
-date: 2025-07-05, from: Vatican News
-
-
-                    <p>Pope Leo XIV encourages the Augustinian Sisters Servants of Jesus and Mary, to be patient during difficulties, brave in their educational mission, and to persevere in following Christ.
-</p>
-                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-augustinian-sisters-jesus-and-mary-spinelli.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-augustinian-sisters-jesus-and-mary-spinelli.html>
-
----
-
-## The Speed of Light and the Strangeness of Time: (2) Stretching and Squashing
-
-date: 2025-07-05, from: Vatican Obervatory
-
-You hear that at the Big Bang space and time were distorted beyond what the laws of physics allow us to investigate. But how can space and time be distorted? 
-
-<br> 
-
-<https://www.vaticanobservatory.org/sacred-space-astronomy/the-speed-of-light-and-the-strangeness-of-time-2-stretching-and-squashing/>
-
----
-
-## Paris opens Seine for swimming for first time since 1923
-
-date: 2025-07-05, from: RTÉ News
-
-Parisians rushed for a dip in the Seine as the authorities opened the river to public swimming for the first time since 1923 after an extensive clean-up operation spurred on by it being used as a venue in the Paris Olympics. 
-
-<br> 
-
-<https://www.rte.ie/news/europe/2025/0705/1521997-paris-swimming/>
-
----
-
-## Pope names French bishop Thibault Verny as new president of the Pontifical Commission for the Protection of Minors
-
-date: 2025-07-05, from: Vatican News
-
-
-                    <p>Pope Leo appoints Thibault Verny, Archbishop of Chambéry and Bishop of Maurienne and Tarentaise to succeed Cardinal Seán Patrick O’Malley as the president of the Pontifical Commission for the Protection of Minors. In France, Archbishop Verny was responsible for the fight against child abuse within the Episcopal Conference.</p>
-                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/pope-appoints-president-pontifical-commission-protection-minors.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/vatican-city/news/2025-07/pope-appoints-president-pontifical-commission-protection-minors.html>
-
----
-
-## Netanyahu says Israel sending team for Gaza truce talks
-
-date: 2025-07-05, from: RTÉ News
-
-Israel's Prime Minister Benjamin Netanyahu has said he is sending a negotiating team to Qatar for talks on a truce in Gaza, but rejected Hamas's earlier truce proposals. 
-
-<br> 
-
-<https://www.rte.ie/news/middle-east/2025/0705/1521991-gaza-israel/>
-
----
-
-## Pope to young people: We are all pilgrims and we are always pilgrims
-
-date: 2025-07-05, from: Vatican News
-
-
-                    <p>Pope Leo XIV welcomes young people and teachers from Northern Europe, urging them to listen to God’s call and continue their journey of discipleship.</p>
-                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-greeting-pilgrims-northern-europe-denmark-uk-jubilee.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-greeting-pilgrims-northern-europe-denmark-uk-jubilee.html>
-
----
-
-## Fantastic Four actor Julian McMahon has died aged 56
-
-date: 2025-07-05, from: RTÉ News
-
-Julian McMahon, best known for his roles in the Fantastic Four movies and the television shows Nip/Tuck and Charmed, has died aged 56. 
-
-<br> 
-
-<https://www.rte.ie/entertainment/2025/0705/1521987-fantastic-four-actor-julian-mcmahon-has-died-aged-56/>
-
----
-
-## Hope that gain masks pain as Trump signs 'beautiful' bill
-
-date: 2025-07-05, from: RTÉ News
-
-Donald Trump signed his "One Big Beautiful Bill" in the Oval Office last night. It is possibly the most consequential thing he will do in domestic American politics in his second term. 
-
-<br> 
-
-<https://www.rte.ie/news/us/2025/0705/1521966-trump-bill/>
-
----
-
-## Monster Hit: How Labubu became a billion-dollar business
-
-date: 2025-07-05, from: RTÉ News
-
-Labubu dolls have become a smash hit toy and fashion accessory, but they also represent a cultural watershed for China, writes Adam Maguire. 
-
-<br> 
-
-<https://www.rte.ie/news/business/2025/0705/1521956-labubu-toys-china/>
-
----
-
-## Talk of revenge after acrimonious week for FF and FG
-
-date: 2025-07-05, from: RTÉ News
-
-There are a few politicians in Fianna Fáil and Fine Gael who will spend this weekend contemplating revenge, maybe even plotting it, writes Micheál Lehane. 
-
-<br> 
-
-<https://www.rte.ie/news/analysis-and-comment/2025/0705/1521949-lehane-analysis/>
-
----
-
-## Young Inuit take to the skies in pilot training program with dreams of serving Nunavik
-
-date: 2025-07-05, from: CBC, Indigenious News
-
-<img src='https://i.cbc.ca/1.7576722.1751577468!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/air-inuit-dash-8.jpg' alt='Two airplanes on a runway.' width='620' height='349' title='Two of Air Inuit&apos;s Dash-8 aircraft. The airline has been running its Sparrow training program to attract more Inuit pilots since 2014.'/><p>Each year, Air Inuit selects a handful of people from Nunavik to train in its Sparrow program, meant to increase the number of Inuit pilots. While a great opportunity, it also means they need to leave their communities behind.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/canada/north/young-inuit-skies-pilot-training-program-dreams-serving-nunavik-1.7576650?cmp=rss>
-
----
-
-## Gareth Edwards on directing Jurassic World Rebirth
-
-date: 2025-07-05, from: RTÉ News
-
-With a CV that includes Monsters, Godzilla, Rogue One: A Star Wars Story, and The Creator, director Gareth Edwards' latest is Jurassic World Rebirth - a standalone dinosaur adventure that aims to recapture the spirit of Steven Spielberg's 1993 classic. 
-
-<br> 
-
-<https://www.rte.ie/entertainment/2025/0705/1521652-gareth-edwards-on-directing-jurassic-world-rebirth/>
-
----
-
-## What next for MeToo after Sean Combs verdict?
-
-date: 2025-07-05, from: RTÉ News
-
-It was a verdict that sent shockwaves around the world. 
-
-<br> 
-
-<https://www.rte.ie/entertainment/2025/0705/1521865-what-next-for-metoo-after-sean-combs-verdict/>
-
----
-
-## How Canada could boost disease surveillance to make up for U.S. health cuts
-
-date: 2025-07-05, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.6949862.1751668118!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/wastewater-uwo.jpg' alt='A hand with a purple glove holding a jar of dirty water to the light against a blue sky' width='620' height='349' title='Wastewater monitoring could alert policymakers to potential health “rather than waiting for things to really snowball,” according to Dr. Jasmine Pawa. '/><p>With measles outbreaks, avian influenza and syphilis and HIV on the rise, Canada needs to strengthen its disease surveillance systems as cuts to U.S. health institutions threaten access to crucial monitoring data, experts say in an editorial published in the Canadian Medical Association Journal.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/health/cmaj-editorial-canada-us-cuts-surveillance-1.7577992?cmp=rss>
-
----
-
-## Mourners gather for Diogo Jota's funeral in Portugal
-
-date: 2025-07-05, from: RTÉ News
-
-Diogo Jota's wife and family have been joined by Liverpool players for the funeral of the footballer and his brother, André Silva, in Portugal, following their death in a car crash in Spain. 
-
-<br> 
-
-<https://www.rte.ie/news/europe/2025/0705/1521964-diogo-jota/>
-
----
-
-## Old foes Kilkenny and Tipp set for tight tussle
-
-date: 2025-07-05, from: RTÉ News
-
-Once frequent rivals Kilkenny and Tipperary meet in the championship for the first time in six years, with a place in the All-Ireland hurling final at stake. 
-
-<br> 
-
-<https://www.rte.ie/sport/hurling/2025/0705/1521962-old-foes-kilkenny-and-tipp-set-for-tight-tussle/>
-
----
-
-## Brother Kevin remembered for his kindness, funeral hears
-
-date: 2025-07-05, from: RTÉ News
-
-The funeral of Brother Kevin Crowley, the founder of the Capuchin Day Centre who died earlier this week at the age of 90, has taken place. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0705/1521945-brother-kevin-funeral/>
 

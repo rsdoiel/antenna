@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2025-07-12 14:07:06
+updated: 2025-07-13 06:07:40
 ---
 
 # writing
 
-(date: 2025-07-12 14:07:06)
+(date: 2025-07-13 06:07:40)
+
+---
+
+## Clarkesworld: Short Fiction Reviews by A.C. Wise
+
+date: 2025-07-12, from: Locus Magazine
+
+<p>Clarkesworld 4/25</p>
+<p>“<strong>Through These Moments, Darkly</strong>” by <strong>Saman­tha Murray </strong>in the April issue of Clarkesworld is a story with some nice descriptive language that looks at perception and the way we make narratives out of our lives as the main character contemplates the disappearance of their lover, Jiayi, who was studying dark matter portals and the possibility of unseen worlds. “<strong>Aegiopolis Testudo</strong>” by <strong>Gordon Li </strong>offers  <a href="https://locusmag.com/2025/07/clarkesworld-short-fiction-reviews-by-a-c-wise-10/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/clarkesworld-short-fiction-reviews-by-a-c-wise-10/>
 
 ---
 
@@ -401,29 +414,4 @@ Awake in the Floating City</strong>, Susanna Kwan (Pantheon 978-0-59370-140-9, $
 <br> 
 
 <https://locusmag.com/2025/07/awake-in-the-floating-city-by-susanna-kwan-review-by-alexandra-pierce/>
-
----
-
-## Legal News
-
-date: 2025-07-05, from: Locus Magazine
-
-<p>A federal court judge has sanctioned Jesse David Spurlock and Vanguard Productions after finding that Spurlock forged a document that purported to give permission to use artwork by Frank Frazetta on a book cover. Frazetta Properties, LLC, has prevailed, and summary judgment against Vanguard has been reinstated. US District Judge William F. Jung wrote on June 2, 2025: “In essence, Mr. Spurlock fooled the Court (and the lawyers) into thinking  <a href="https://locusmag.com/2025/07/legal-news-8/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/07/legal-news-8/>
-
----
-
-## The Unworthy by Agustina Bazterrica: Review by Gabino Iglesias
-
-date: 2025-07-05, from: Locus Magazine
-
-<p><strong>The Unworthy</strong>, Agustina Bazterrica (Scribner 978-1-66805-188-7, $28.99, 192pp, hc) March 2025.</p>
-<p>I like feeling a little lost from time to time when I’m reading. I like being pulled into a world so alien and complex that I feel destabilized, like I have to hustle and pay atten­tion so I can learn things and feel a little more comfortable, more in the know. I like having to pull apart a  <a href="https://locusmag.com/2025/07/the-unworthy-by-agustina-bazterrica-review-by-gabino-iglesias/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/07/the-unworthy-by-agustina-bazterrica-review-by-gabino-iglesias/>
 

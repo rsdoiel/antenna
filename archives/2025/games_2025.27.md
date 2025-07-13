@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-07-12 14:07:06
+updated: 2025-07-13 06:07:41
 ---
 
 # games
 
-(date: 2025-07-12 14:07:06)
+(date: 2025-07-13 06:07:41)
+
+---
+
+## Lois Lane seems terrible at interviewing Superman, but is she playing a dangerous game?
+
+date: 2025-07-13, updated: 2025-07-11, from: Polygon Website
+
+Lois Lane in James Gunn’s Superman cracked me up and annoyed me at the same time. My initial take on the 2025 version of Lois (played by Rachel Brosnahan) was that she’s an absolutely terrible journalist. Even by the standards of a comic book movie featuring a woman who can turn her hands into buzzsaws [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dc/612757/superman-lois-lane-good-or-bad-journalist>
+
+---
+
+## After 160 hours of Nightreign, I can never go back to Elden Ring
+
+date: 2025-07-12, updated: 2025-07-11, from: Polygon Website
+
+I’ve played 500 hours of Elden Ring. I’ve beaten every boss, explored every invisible door, collected every rare armament. If I had to pick one favorite, generation-defining game above all others it would definitely be the base game and its Shadow of the Erdtree expansion.&#160; But 160 hours into Nightreign, FromSoftware’s multiplayer spinoff that launched [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/analysis/612732/elden-ring-nightreign-shadow-erdtree-gameplay-differences-everdark-nightlord>
+
+---
+
+## 3 Netflix shows we&#8217;re binge-watching this weekend (July 12-13)
+
+date: 2025-07-12, updated: 2025-07-11, from: Polygon Website
+
+Don’t feel guilty for staying inside on a beautiful day — give yourself a break and soak up some television. Just remember to take your Vitamin D part-way through whatever you decide to binge-watch. As the streaming business continues to collapse, evolve, and transform (did you see Max became HBO Max again?), Netflix has proven [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/612402/netflix-shows-to-watch-july-12-13-2025>
 
 ---
 
@@ -786,28 +822,4 @@ AMC Plus’ ongoing adventure series Nautilus is set before the events of Jules 
 <br> 
 
 <https://www.polygon.com/tv/610996/shazad-latif-turned-to-alan-moores-comics-to-inspire-him-as-nautilus-captain-nemo>
-
----
-
-## The Eternal Die team always knew Lost In Random would make a great roguelike
-
-date: 2025-07-05, updated: 2025-07-04, from: Polygon Website
-
-While 2021’s Lost in Random was far from a roguelike, the team behind the adventure game always knew its zany world and dice-based gameplay would be a great fit for the fast-paced, combat-focused genre. “Lost in Random being a roguelike sounded like a great idea and [way] to continue with the IP, but taking a [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/611005/eternal-die-developer-lost-in-random-roguelike>
-
----
-
-## Pokémon Go Eevee Community Day Classic guide
-
-date: 2025-07-05, updated: 2025-07-03, from: Polygon Website
-
-Pokémon Go is having an Eevee Community Day Classic event on both July 5 and 6 from 2-5 p.m. in your local time. As expected with a Community Day event, Eevee will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/610745/eevee-community-day-shiny-flareon-jolteon-vaporeon-umbreon-espeon-sylveon-glaceon-leafeon>
 

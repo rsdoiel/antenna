@@ -1,11 +1,68 @@
 ---
 title: going electric
-updated: 2025-07-12 14:07:09
+updated: 2025-07-13 06:07:45
 ---
 
 # going electric
 
-(date: 2025-07-12 14:07:09)
+(date: 2025-07-13 06:07:45)
+
+---
+
+## This new wireless e-bike charger wants to be the future of electric bikes
+
+date: 2025-07-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/charging-wireless-tiler-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Forget fumbling with cables or hunting for batteries – TILER is making electric bike charging as seamless as parking your ride. The Dutch startup recently introduced its much-anticipated TILER Compact system, a plug-and-play wireless charger engineered to transform the user experience for e-bike riders.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,wireless-charging" data-layer-viewtype="unknown" data-post-id="423977" href="https://electrek.co/2025/07/12/this-new-wireless-e-bike-charger-wants-to-be-the-future-of-electric-bikes/#more-423977" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/12/this-new-wireless-e-bike-charger-wants-to-be-the-future-of-electric-bikes/>
+
+---
+
+## Kia Lost Millions To Hail In 2023. Its New Protection System Is A Solar Plant
+
+date: 2025-07-12, from: Inside EVs News
+
+With 17,000 solar panels, Kia’s now-protected car park in Georgia will output up to 13 MW of power. 
+
+<br> 
+
+<https://insideevs.com/news/765422/kia-georgia-solar-hail-protection/>
+
+---
+
+## Tesla launches new software update with Grok, but it doesnt even interface with the car
+
+date: 2025-07-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Tesla-grok-integration.png?w=1600" /></div><p>Tesla has launched a new software update for its vehicles that includes the anticipated integration of Grok, but it doesnt even interface with the car yet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="424534" href="https://electrek.co/2025/07/12/tesla-launches-software-update-with-grok-but-doesnt-interface-car/#more-424534" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/12/tesla-launches-software-update-with-grok-but-doesnt-interface-car/>
+
+---
+
+## The Lucid Gravity Just Smoked Rivian’s Quad-Motor SUV
+
+date: 2025-07-12, from: Inside EVs News
+
+SUVs shouldn’t be this quick, but here they are posting supercar-scaring acceleration numbers.
+ 
+
+<br> 
+
+<https://insideevs.com/news/765587/lucid-gravity-rivian-r1s-race/>
 
 ---
 
@@ -50,6 +107,10 @@ date: 2025-07-11, from: Electrek Feed
 
 
 <p><strong><em>Today’s episode is brought to you by Bosch Mobility Aftermarket—A global leader and trusted provider of automotive aftermarket parts. To celebrate Amazon Prime Day, Bosch Mobility is offering exclusive savings on must-have auto parts and tools. Today is the final day for Prime Day savings, so hurry and grab those Bosch sales before they disappear!</em></strong> <strong><em><a href="https://bit.ly/3TI50e9" target="_blank" rel="noreferrer noopener">Learn more here.</a></em></strong></p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Electrek_393.mp3"></audio></figure>
 
 
 
@@ -1815,64 +1876,4 @@ Electric vehicles are already displacing millions of barrels of oil per day glob
 <br> 
 
 <https://insideevs.com/news/764730/evs-displace-millions-of-barrels-of-oil/>
-
----
-
-## BMW ups the ante with the fastest, most powerful electric maxi-scooter
-
-date: 2025-07-05, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/cmw-ce-04-2025-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>BMW Motorrad’s futuristic electric scooter just got its first real refresh since <a href="https://electrek.co/2021/11/09/bmw-begins-full-production-of-its-75-mph-ce-04-futuristic-electric-motorbike/">beginning production in 2021</a>. The BMW CE 04, already one of the most capable and stylish electric maxi-scooters on the market, now gets a set of upgraded trim options, new aesthetic touches, and a more robust list of features that aim to make this urban commuter even more appealing to riders looking for serious electric performance on two wheels.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="bmw,electric-motorcycle,electric-scooter" data-layer-viewtype="unknown" data-post-id="423495" href="https://electrek.co/2025/07/05/bmw-ups-the-ante-with-the-fastest-most-powerful-electric-maxi-scooter/#more-423495" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/07/05/bmw-ups-the-ante-with-the-fastest-most-powerful-electric-maxi-scooter/>
-
----
-
-## This Early Hyundai Ioniq 9 Charge Test Looks Really Good
-
-date: 2025-07-05, from: Inside EVs News
-
-Hyundai's three-row absolutely blitzes through a 10-80% charge test. 
-
-<br> 
-
-<https://insideevs.com/news/764727/hyundai-ioniq-9-charge-test/>
-
----
-
-## BYD Just Sold Its Millionth Seagull
-
-date: 2025-07-05, from: Inside EVs News
-
-Whether you call it the Dolphin Mini, Dolphin Surf or Seagull, BYD has moved more than a million of them.  
-
-<br> 
-
-<https://insideevs.com/news/764711/byd-seagull-one-million-sales/>
-
----
-
-## I found this cheap Chinese e-cargo trike that hauls more than your car!
-
-date: 2025-07-05, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/handlebarista-alibaba.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>If you’ve ever wondered what happens when you combine a fruit cart, a cargo bike, and a Piaggio Ape all in one vehicle, now you’ve got your answer. I submit, for your approval, this week’s feature for the <a href="http://electrek.co/guides/alibaba">Awesomely Weird Alibaba Electric Vehicle of the Week</a> column – and it’s a beautiful doozie. </p>
-
-
-
-<p>Feast your eyes on this salad slinging, coleslaw cruising, tuber taxiing produce chariot!</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="alibaba" data-layer-viewtype="unknown" data-post-id="423480" href="https://electrek.co/2025/07/05/i-found-this-cheap-chinese-e-cargo-trike-that-hauls-more-than-your-car/#more-423480" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/07/05/i-found-this-cheap-chinese-e-cargo-trike-that-hauls-more-than-your-car/>
 

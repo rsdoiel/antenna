@@ -1,11 +1,119 @@
 ---
 title: journalism
-updated: 2025-07-12 14:07:07
+updated: 2025-07-13 06:07:41
 ---
 
 # journalism
 
-(date: 2025-07-12 14:07:07)
+(date: 2025-07-13 06:07:41)
+
+---
+
+## ‘Super Nothing’ encourages community and reflection through movement and emotion
+
+date: 2025-07-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#8220;Super Nothing&#8221; dares audiences to reflect on challenging emotions rather than saying &#8220;it&#8217;s nothing.&#8221;
+Performed for a UCLA crowd on June 13 and 14 with the school&#8217;s Center for the Art of Performance organization, the show explored grief and the act of leaning on others for community-based support, featuring four dancers from Los Angeles and New York City. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/12/super-nothing-encourages-community-and-reflection-through-movement-and-emotion/>
+
+---
+
+## UCLA student researchers face uncertainty amid federal cuts, budget proposals
+
+date: 2025-07-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Student researchers at UCLA are grappling with the next steps in their academic and professional journeys as the threat of research funding cuts looms over them. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/12/ucla-student-researchers-face-uncertainty-amid-federal-cuts-budget-proposals/>
+
+---
+
+## Summer book preview: Page-turners full of myth, mystery and magic await readers
+
+date: 2025-07-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+As the days get longer, readers bask in the warmth of exciting summer book releases.
+Whether readers are curling up at home to escape the heat or sunbathing in the warm glow of the summer sun at the beach, this summer promises the perfect read for all. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/12/summer-book-preview-page-turners-full-of-myth-mystery-and-magic-await-readers-2/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper))
+
+The trial session ended at 4:28 p.m., with Bernardo appearing as the second and last witness of the day. The trial was set to continue July 22.&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/07/12/490846/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper))
+
+Bernardo testified that the UCLA Anderson School of Management reported Klein to UCLA&#8217;s Title IX office. Heather Caruso, the Anderson School of Management&#8217;s Dean of Equity, Diversity and Inclusion, emailed the office, attaching screenshots that showed students’ allegations of Klein&#8217;s misconduct. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/12/490844/>
+
+---
+
+## Alumnus film ‘Freemium 911’ finds festival success with satire of healthcare, AI
+
+date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Combining comedy with sci-fi and a critique of for-profit healthcare systems, alumnus Michael Plewa’s short film “Freemium 911” is now circulating in film festival circuits.
+The writer, director, editor and producer of the film, Plewa originally pitched and created this three-minute short film as an assignment for a UCLA Film and Television graduate class. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/12/alumnus-film-freemium-911-finds-festival-success-with-satire-of-healthcare-ai/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper))
+
+Judson Caskey, who was previously the director of the undergraduate minor in accounting at UCLA, was the first to testify on Friday.
+Caskey said he previously recommended that Klein receive a merit raise in 2018. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/11/490833/>
+
+---
+
+## Village Pride event celebrates LGBTQ+ community with vendors, performers
+
+date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Westwood Village Improvement Association hosted the first ever Village Pride event in Broxton Plaza on June 28.
+With a live DJ, drag queen performers and curated vendors, the event sought to support the LGBTQ+ community, bring people together and benefit businesses in Westwood, said Megan Furey, the director of programs and partnerships for WVIA. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/11/village-pride-event-celebrates-lgbtq-community-with-vendors-performers/>
+
+---
+
+## North Westwood Neighborhood Council recap – July 9
+
+date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+The secretary of the North Westwood Neighborhood Council announced he would resign at the first monthly meeting of the board&#8217;s new term July 9. 
+The council, which represents Westwood and UCLA to the Los Angeles City Council, meets on the first Wednesday of every month at UCLA&#8217;s Weyburn Terrace. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/11/north-westwood-neighborhood-council-recap-july-9/>
 
 ---
 

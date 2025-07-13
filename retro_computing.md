@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-07-12 14:07:08
+updated: 2025-07-13 06:07:44
 ---
 
 # retro computing
 
-(date: 2025-07-12 14:07:08)
+(date: 2025-07-13 06:07:44)
+
+---
+
+## DOStodon update
+
+date: 2025-07-12, from: FreeDOS News
+
+<div class="markdown_content"><p>Mastodon client for DOS systems. SuperIlu recently made an update: - Updated curl to 8.14.1 - Updated mbedTLS to 3.6.4 - Enabled HTTP 3xx redirections. DOStodon is implemented in Javascript and relies on DOjS to run (included). You can get the source at <a class="" href="https://github.com/SuperIlu/DOStodon" rel="nofollow">DOStodon on GitHub</a></p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/07/dostodon-update/>
+
+---
+
+## PartUtil
+
+date: 2025-07-12, from: FreeDOS News
+
+<div class="markdown_content"><p>Michael Brutman (also the developer behind mTCP) has created a disk partition utility that allows you to dual boot operating systems without installing a boot manager: Michael's tool allows you to: Mark or unmark a partition as active, Hide or unhide a partition, and other actions that support a multiboot environment. Available under the GNU GPL v2. You can download it (with source code) from the <a class="" href="https://www.brutman.com/PartUtil/PartUtil.html" rel="nofollow">PartUtil website</a>.</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/07/partutil/>
 
 ---
 
@@ -257,16 +281,4 @@ Going to Big Town, Chocolate bar drinks - review, Scumbags, Imperial 200 Typewri
 <br> 
 
 <https://heyrick.eu/blog/index.php?diary=20250706>
-
----
-
-## RISC OS Coding double bill weekend
-
-date: 2025-07-05, from: Icon Bar, RISC OS News
-
-This weekend you are in for a treat if you are interested in RISC OS coding. And you don't even have to leave the house.... 
-
-<br> 
-
-<http://www.iconbar.com/comments/rss/news2219.html>
 

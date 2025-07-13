@@ -1,11 +1,35 @@
 ---
 title: food
-updated: 2025-07-12 14:07:10
+updated: 2025-07-13 06:07:46
 ---
 
 # food
 
-(date: 2025-07-12 14:07:10)
+(date: 2025-07-13 06:07:46)
+
+---
+
+## We’re Gonna Need A Bigger Chemex
+
+date: 2025-07-13, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly selection of coffees from the Sprudge Roaster's Village. 
+
+<br> 
+
+<https://sprudge.com/were-gonna-need-a-bigger-chemex-375640.html>
+
+---
+
+## Our 29 Best Anchovy Recipes
+
+date: 2025-07-12, from: Bon Appetet
+
+Baked pasta with anchovy cream, citrusy bagna cauda, Caesar-roast chicken, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/anchovy-recipes-dinner-ideas>
 
 ---
 
@@ -1286,16 +1310,4 @@ date: 2025-07-06, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/25-recipes-for-grill/>
-
----
-
-## 43 Tomato Recipes to Make This Summer
-
-date: 2025-07-05, from: Bon Appetet
-
-Like a tomato Caesar (hold the lettuce), cheesy tomato hand pies, nuoc cham gazpacho, and more. 
-
-<br> 
-
-<https://www.bonappetit.com/gallery/fresh-tomato-recipes-ideas>
 

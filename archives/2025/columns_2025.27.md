@@ -1,11 +1,265 @@
 ---
 title: columns
-updated: 2025-07-12 14:07:05
+updated: 2025-07-13 06:07:39
 ---
 
 # columns
 
-(date: 2025-07-12 14:07:05)
+(date: 2025-07-13 06:07:39)
+
+---
+
+## Live Aid Anniversary
+
+date: 2025-07-13, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/live-aid-anniversary>
+
+---
+
+## How I do it
+
+date: 2025-07-13, from: Daniel Stenberg Blog
+
+A while ago I received an email with this question. I&#8217;ve been subscribed to your weekly newsletter for a while now, receiving your weekly updates every Friday. I&#8217;m writing because I admire your consistency, focus, and perseverance. I can&#8217;t help but wonder, with admiration, how you manage to do it. Since this is a topic &#8230; <a href="https://daniel.haxx.se/blog/2025/07/13/how-i-do-it/" class="more-link">Continue reading <span class="screen-reader-text">How I do it</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/07/13/how-i-do-it/>
+
+---
+
+## Sunday thought: On being a warrior
+
+date: 2025-07-13, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-thought-7e8>
+
+---
+
+## July 12, 2025
+
+date: 2025-07-13, from: Heather Cox Richardson blog
+
+On July 5, the day after the Texas floods hit, the Federal Emergency Management Agency (FEMA) received 3,027 calls from survivors and answered 3,018 of them, about 99.7%, according to Maxine Joselow of the New York Times. But that day, Homeland Security Secretary Kristi Noem did not renew the contracts for four call center companies that answered those calls. The staff at the centers were fired. The next day, July 6, FEMA received 2,363 calls and answered 846, or about 35.8%. On Monday, July 7, FEMA received 16,419 calls and answered 2,613, around 15.9%. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-12-2025>
+
+---
+
+## Grok 4 System Prompt Shenanigans
+
+date: 2025-07-12, updated: 2025-07-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/12/grok-4-heavy/>
+
+---
+
+## 2025-07-03 Israeli crimes against humanity continue
+
+date: 2025-07-12, from: Alex Schroeder's Blog
+
+<h1 id="2025-07-03-israeli-crimes-against-humanity-continue">2025-07-03 Israeli crimes against humanity continue</h1>
+
+<p>I don&rsquo;t want to blog about this shit show more than once a month. Here we go. Let nobody claim they didn&rsquo;t know. Let nobody who supported Israel get away with it.</p>
+
+<blockquote>
+<p>The power of Doctors Under Attack comes in the unhurried way it chooses to unfurl its thesis. There is no clear manipulation, no central villain. What there is, however, is an unceasing timeline of horrors. We are shown doctors doing their best in overwhelmed hospitals with no water or electricity, racing to treat wounds that have already begun to rot. We are shown them coming under what seem like targeted attacks, being detained in black sites where they will be tortured and interrogated. There is footage of a gang rape by soldiers. We are shown children, injured and dead, in vast numbers. &ndash; <a href="https://www.theguardian.com/tv-and-radio/2025/jul/03/gaza-doctors-under-attack-review-channel-4-crucial-film-stuff-of-nightmares">Gaza: Doctors Under Attack review – this crucial film is the stuff of nightmares. But the world needs to see it</a>, by Stuart Heritage, for The Guardian, reviewing the film Doctors Under Attack</p>
+</blockquote>
+
+<p>I am waiting for a reckoning. Others are, too.</p>
+
+<blockquote>
+<p>This report investigates the corporate machinery sustaining Israel’s settler-colonial project of displacement and replacement of the Palestinians in the occupied territory. While political leaders and governments shirk their obligations, far too many corporate entities have profited from Israel’s economy of illegal occupation, apartheid and now, genocide. The complicity exposed by this report is just the tip of the iceberg; ending it will not happen without holding the private sector accountable, including its executives. International law recognizes varying degrees of responsibility – each requiring scrutiny and accountability, particularly in this case, where a people’s self-determination and very existence are at stake. This is a necessary step to end the genocide and dismantle the global system that has allowed it. &ndash; <a href="https://www.ohchr.org/en/documents/country-reports/ahrc5923-economy-occupation-economy-genocide-report-special-rapporteur">A/HRC/59/23: From economy of occupation to economy of genocide - Report of the Special Rapporteur on the situation of human rights in the Palestinian territories occupied since 1967 (Advance edited version)</a>, by Francesca Albanese, Special Rapporteur on the situation of human rights in the Palestinian territories occupied since 1967, for the Human Rights Council Fifty-ninth session, United Nations</p>
+</blockquote>
+
+<p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a></p>
+
+<p><strong>2025-07-12</strong>. I&rsquo;m supporting this: <a href="https://secure.avaaz.org/campaign/en/stand_with_francesca_loc/">Nobel Peace Prize for Francesca Albanese and Gaza Doctors</a>.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-07-03-israel>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-12, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/08/14/miniPatrioticSanta.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I want Mastodon to take off as a blogging platform. That means hooking it up to existing blog platforms. I want our world to connect to theirs. I'm lucky to have bet on WordPress, so my <a href="https://wordland.social/">product</a> gets the connection to Mastodon for free. But the web is what matters, not my product or yours. Even if your product is huge, it's only part of the web. This is how we build, how we get back on track. Somehow we need to get a simple bridge that lets <i>all</i> blog content flow to Mastodon. That's the goal. I just wrote a <a href="https://mastodon.social/@davew/114841153889663929">couple</a> of <a href="https://mastodon.social/@davew/114841162027579055">posts</a> where this became clear to me. Who has the code and expertise to create a simple interface from the outside world to Mastodon. The interface doesn't have to be RSS. But it has to be maximally simple, and it has to cover the <a href="https://daveverse.org/2025/07/09/example-of-a-wordpress-post-in-mastodon/">basic features</a> of blogs that Mastodon supports. 
+
+<br> 
+
+<http://scripting.com/2025/07/12.html#a163304>
+
+---
+
+## Saturday, 12 July 2025
+
+date: 2025-07-12, from: Doc Searls (at Harvard), New Old Blog
+
+I just bought two. The Intention Economy, which lists at $27 and has been sold at that price or close to it by Amazon since the book came out, is now just $13.93 for the hardcover. That&#39;s cheaper than the Kindle edition (also discounted) and the audio version (with my own voice, btw). Coerced Consent. The [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/12/saturday-12-july-2025/>
+
+---
+
+## On _Resistance From the Tech Sector_
+
+date: 2025-07-12, from: mrusme blog
+
+_Big tech_'s rotten core: It's not just the CEOs. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/on-resistance-from-the-tech-sector/>
+
+---
+
+##  Not a joke: there is a new Commodore 64 coming out. &#8220;The... 
+
+date: 2025-07-12, updated: 2025-07-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047135-not-a-joke-there-is>
+
+---
+
+## Today's editorial about AI
+
+date: 2025-07-12, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/13/commanderDataStarTrek.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">AI chatbots don't think and they don't decide. </p>
+<p>They can give you a way to approach a problem, but it's only one way, and it may not be the best way, and it depends on it actually understanding the problem, which is something it does a good simulation of, but can't do. It absolutely cannot think, come up with a strategy, or even make a decision based on probabilities. It might, in the future, get some of these abilities, given how far they've come, but no one knows, it hasn't happened yet. </p>
+<p>The reports that <a href="https://secondthoughts.ai/p/ai-coding-slowdown">say</a> that using a chatbot to write code is actually less efficient than doing it yourself, are totally believable based on two years experience with using it as a development tool. And I can't believe that whatever it comes up with covers enough use-cases to be reliable. It might create a demo of something to present to a board of directors (they're famous for being deceived by demos, btw), but I doubt if it's as usable as something created by someone with an idea of how to craft usable software. </p>
+<p>This might sound like a writer defending their art against the bots, but the difference is I've actually invested the time to learn about this. My counterparts among writers have not done that. And that's not a mistake my chatbot friend would make. It does a lot of research, it just doesn't know what to do with the result, that's up to you. </p>
+<p>So if you want to know the roles humans will play, at least for now, that's it. Think and decide. </p>
+<p>And those are hard and take many years to learn how to do for a human. And we could use some help there btw, look at the awful decisions we're making these days. They just fired all the people at the State Dept who work on climate change, for example. </p>
+<p>Have a nice day one and all.</p>
+<p>PS: Another thing humans can do that apparently AI bots can't is change their mind. </p>
+<p>PPS: I asked ChatGPT if it had any comments on this editorial, <a href="https://imgs.scripting.com/2025/07/12/chatgptresponse.png">and it did</a>, of course. I should try saying something wrong to it and see what it says. I did come up with one, and it gave me an <a href="https://chatgpt.com/c/68726f39-3d34-8012-bf44-8ee84e4446e9">answer</a> even though no answer is possible. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/12/134525.html?title=todaysEditorialAboutAi>
+
+---
+
+## Sponsor my laptop!
+
+date: 2025-07-12, from: Daniel Stenberg Blog
+
+I need to get myself a new laptop. My existing one is from 2017 and was already then not the most powerful one. It recently started to shut itself off when running on battery and during the two most recent curl up meetings it has proven itself to be rather sluggish and unable to save &#8230; <a href="https://daniel.haxx.se/blog/2025/07/12/sponsor-my-laptop/" class="more-link">Continue reading <span class="screen-reader-text">Sponsor my laptop!</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/07/12/sponsor-my-laptop/>
+
+---
+
+## The price of software freedom is eternal politics
+
+date: 2025-07-12, updated: 2025-07-12, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Comment</span> Many don&#39;t realize or forget, but the FOSS world has ideological wings, too</h4>
+      <p>The new fork of the X.org X11 server is conservative… and we don&#39;t mean just technologically conservative.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/12/the_price_of_software_freedom/>
+
+---
+
+## We Should Stop Calling Him Our “President” | The Coffee Klatch for July 12, 2025
+
+date: 2025-07-12, from: Robert Reich's blog
+
+With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and yours truly, Robert Reich 
+
+<br> 
+
+<https://robertreich.substack.com/p/why-we-should-stop-calling-him-our>
+
+---
+
+## July 11, 2025 
+
+date: 2025-07-12, from: Heather Cox Richardson blog
+
+A picture tonight as we celebrate a family wedding this weekend. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-11-2025>
+
+---
+
+## Weeknotes: July 5-11, 2025
+
+date: 2025-07-12, from: Tracy Durnell Blog
+
+Husband started his new job this week! 🙌 He&#8217;s working with a lot of the same people, but no more 6am calls with Romania or midnight calls with India &#8212; I endorse 😴 Win of the week: made a summer playlist 🎶 (mirrored on Spotify if you like 2000s-2020s indie / alt tunes) Looking forward [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/07/11/weeknotes-july-5-11-2025/>
+
+---
+
+## The Central Valley’s ‘Wonderful Schools’: An Our Towns Report.
+
+date: 2025-07-12, from: James Fallows, Substack
+
+What it takes to open doors, in communities accustomed to thinking that doors are closed. 
+
+<br> 
+
+<https://fallows.substack.com/p/the-central-valleys-wonderful-schools>
+
+---
+
+## July 10, 2025
+
+date: 2025-07-12, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168124763/d3f1ff8931c58df3997c01b5919a21cf.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168124763/d3f1ff8931c58df3997c01b5919a21cf.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-10-2025-f60>
+
+---
+
+## Apple and Masimo Faced Off in US Appeals Court This Week
+
+date: 2025-07-12, updated: 2025-07-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.reuters.com/legal/government/apple-masimo-spar-over-apple-watch-import-ban-us-appeals-court-2025-07-07/>
 
 ---
 
@@ -3149,133 +3403,4 @@ Yesterday afternoon, President Donald J.
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/july-5-2025>
-
----
-
-## Saturday, 5 July 2025
-
-date: 2025-07-05, from: Doc Searls (at Harvard), New Old Blog
-
-Examples abound. I like Nicolas Gruen&#39;s conversation with a silicon friend. A pull quote, and part of Nicolas&#39; argument (as reflected by silicon): &#34;institutions blend power and purpose.&#34; Think of how new power today is trashing old purposes. As if a panel full of unwanted designs in PowerPoint wasn&#39;t annoying enough. Ted Gioia shares my [&#8230;] 
-
-<br> 
-
-<https://doc.searls.com/2025/07/05/saturday-5-july-2025/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-07-05, from: Dave Winer's Scripting News)
-
-<a href="https://github.com/scripting/tinyFeedReader">tinyFeedReader</a> is a hit. But the docs aren't clear enough. It has no user interface, it's a package you can include in a Node app that calls back to you when a new item comes in from one of the feeds you've told it to watch. It's a totally teeny little framework for a feed reader, you get all the standard stuff tucked away out of site, you write the functionality you want to implement. It would be a good thing to turn over to your AI programming partner. It's for people who want to add a feed reader to something else. 
-
-<br> 
-
-<http://scripting.com/2025/07/05.html#a214224>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-07-05, from: Dave Winer's Scripting News)
-
-An improvement in WordLand on <a href="https://github.com/scripting/wpIdentity/blob/main/worknotes.md#7525-101112-am-by-dw">the server</a>, we now post metadata to WordPress, along with the HTML rendering so that code that runs on the server can now access and possibly in the future even talk back to WordLand. You never know where this stuff can go if the developers take advantage of opportunities to interop. 
-
-<br> 
-
-<http://scripting.com/2025/07/05.html#a174731>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-07-05, from: Dave Winer's Scripting News)
-
-<a href="https://this.how/wordland/versions.opml#1751664824000">WordLand v0.5.19</a> -- Lots of little fixes. 
-
-<br> 
-
-<http://scripting.com/2025/07/05.html#a174648>
-
----
-
-## Nostalgic revisionism
-
-date: 2025-07-05, from: Tracy Durnell Blog
-
-The futility of constructing a better past &#38; the necessity of imagining a better future by Paul Watson [I]n our collective despair at failing to build one of the myriad of better futures, we’ve resorted to futilely constructing ourselves a better past&#8230; + AI slopaganda by Ryan Broderick And I’ve written before about how AI [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/07/05/nostalgic-revisionism/>
-
----
-
-## The Decade of Linux on the Desktop. You're in it.
-
-date: 2025-07-05, from: Liam on Linux
-
-<div>Apple macOS is a UNIX&trade;. It's the best-selling commercial Unix of all time. I wonder if how many old-school Unix folks consider all Mac users in the 21st century to be their brothers-in-arms? Not many, I'd guess. <br /><br />When it happened, many Unix folks don't consider it a _real_ Unix. Even thought just a few years later, and AIUI after spending a _lot_ on the exercise, Apple got the UNIX&trade; branding.</div><div>&nbsp;</div><div>Now, by contrast:</div><div>&nbsp;</div><div>I've spent proper time trying to get some rough estimates on Linux distro usage. Ubuntu is cagey but claims ITRO low double-digit millions of machines fetching updates. Let's say circa 20M users.</div><div>&nbsp;</div><div>Apparently, over 95% on LTS and the vast majority on the default GNOME edition. (Poor sods.)</div><div>&nbsp;</div><div>The others are cagier still, but Statistica and others have vaguely replicable numbers.</div><div>&nbsp;</div><div>My estimates are:</div><div>&nbsp;</div><div>~2x as many Ubuntu as Debian users</div><div>&nbsp;</div><div>Between them they are about 2/3 of Linux users</div><div>&nbsp;</div><div>All Red Hat/CentOS/Fedora derivatives are about 10% of the market.</div><div>&nbsp;</div><div>Comparing them to Steam client numbers, Arch is much of the rest: the gap between ~75% Debian family and ~10% RH family.</div><div>&nbsp;</div><div>In China, the government has been pushing Linux *hard* for 8-9 years. Uniontech (Deepin) is one of the biggest and last November boasted 3M paid users.&nbsp;</div><div>&nbsp;</div><div>Is that all?&nbsp;</div><div>&nbsp;</div><div>Kylin is also big but let's guess it's #2.&nbsp;&nbsp;</div><div>&nbsp;</div><div>So, if, optimistically, 10% pay, then that's only 20-30M, comparable to Ubuntu in ROTW.</div><div>&nbsp;</div><div>Maybe Kylin (also a Debian BTW, they both are) brings it to 50M.&nbsp;</div><div>&nbsp;</div><div>ChromeOS is a Linux. It's Gentoo underneath. Google sells hundreds of millions. Estimated user base is 200-300M and probably a lot more.</div><div>&nbsp;</div><div>Chromebooks outsold Macs (by $ not units, so 10x over) in the US by 2017 and worldwide by 2020.</div><div>&nbsp;</div><div>Which means there are, ballpark, order of magnitude scale, 10x as many ChromeOS users as all other Linuxes put together.</div><div>&nbsp;</div><div>The year of Linux came 5-6 years ago.</div><div>&nbsp;</div><div>But it's the _wrong kind_ of Linux so the Penguinisti didn't even notice.&nbsp;</div><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=96112" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
-
-<br> 
-
-<https://liam-on-linux.dreamwidth.org/96112.html>
-
----
-
-## iFixit gives new Fairphone 6 top marks for repairability: 10/10
-
-date: 2025-07-05, updated: 2025-07-05, from: Liam Proven's articles at the Register
-
-<h4>It&#39;s not cheap or high end, but it should last you for years to come</h4>
-      <p>The sixth generation of the Fairphone repairable mobile was launched at the end of June. Now spudger-flingers iFixit have got their hands on it, and liked the result.</p> 
-
-<br> 
-
-<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/05/ifixit_gives_fairphone_10/>
-
----
-
-## Why are some people happy with fakery, or even delight in it?
-
-date: 2025-07-05, from: Liam Proven blog
-
-This is the outline of a sketch of something deep, maybe, possibly. Don't expect greatness from it.<br /><br />DON'T&nbsp;start in with &quot;just let people like what they like&quot;. Not interested. I have a point, a question, here. I am not interested in your grumbling.<br /><br />A 1990s Britpop band called Oasis are touring the UK&nbsp;right now. Apparently it's the most massively sold-out tour&nbsp;_ever_ or something. My preferred radio station, BBC&nbsp;6music, is absolutely full of Oasis. I had to turn it off for most of yesterday.<br /><br />Today there was a report from a radio music journalist I like, Matt Everitt, from the first gig in Cardiff last night. Apparently it was a big success. The crowd was &quot;mad for it&quot;, throwing (very expensive) beer at each other from the first song, and so on. This is exactly the sort of thing I hate about that kind of gig, and Oasis fans...<br /><br />But as an experienced music journo -- I loved his Glastonbury report -- he noted things I'd not&nbsp; thought of.&nbsp;<br /><br />No original material.<br />Set list published in advance.<br />Same set list for the whole tour.<br /><br />No new material:&nbsp;well, it's a cash-in tour, that's blatant. The band only reunited for the tour.&nbsp;<br /><br />Set list:&nbsp;I hadn't thought of that. Everitt, Radcliffe and Maconie debated this. The unique experience of a gig where, given the costs, given the price, every fan present knew every word of every song? Live music isn't always like this.&nbsp;&nbsp;<br /><br />And whether fans would _enjoy_ them getting more familiar and looser and experimental as it went on, or, would they resent it and want a faithful rendition?<br /><br />I _detest_ Oasis and its music. The singer can't sing. I lack the musical vocab The melodies are trite and simple, like a playground &quot;na-na-nee-na-na&quot; chant. The words are mostly meaningless: they _sound_ like they're expressive, but from my minimal exposure, they're not. The musicians are competent enough: the riffs are boring and stale and derivative, but they're played well.<br /><br />We are in the 2nd quarter of the 21st century now. Since the middle of this week, we are closer to 2050 than 2000.<br /><br />This band, this tour, reminds me of some other things I've hated in the first quarter of C21.<br /><br />The all-female _Ghostbusters_ reboot. I am a big fan of groups of women and girls reclaiming stuff. I like women in art, in music, in comedy, whatever. But that film was _awful_. It failed to get any of the whipcrack tight repart&eacute;e of the first film, but it was full of incomprehending imitation of it.<br /><br />The script of Ghostbusters was a work of art. It's immensely quotable. It is full of gags. GB2 was all right, it has moments. GB3 -- nothing. Zip. Zero.&nbsp;<br /><br />It's a copy without comprehension. It's not a cover version -- I like a good cover. A near unique thing about Oasis is that almost any cover version of any Oasis song will be _sung better than Liam Gallagher can sing_ so it will be better in some aspects. (Also true of Bob&nbsp;Dylan, for my money, but he can write, at least. Can't sing, can't play, but can write.)&nbsp;<br /><br />Then Ghostbusters 4 _Afterlife_ came out and I liked it a lot. It isn't great but it's fun, it's entertaning, it has some good dialogue. It skips over the flat empty GB3 and hearkens back to the original funny two. GB&nbsp;5 _Frozen Empire_ is... diverting. Weak, the seam is nearly mined out now, but it had moments. Still better than 3.<br /><br />GB3 reminded me of a performer I'm conflicted about:&nbsp;Ricky Gervais. I find his comedy awful:&nbsp;he's an actor, trying to role-play a comedian. He wanders the stage behaving like a stand-up comedian but he isn't one, he's just pretending. It's abhorrent to me. But some people seem to love it.&nbsp;<br /><br />I hated the original _Office_&nbsp;TV&nbsp;show. Can't watch more than 2 minutes, partly because of Gervais's gurning. But, like a Dylan cover, the American remake is doable, because it lacks the irritant of the original. I don't like it, never watched a whole episode, but the clips are tolerable to amusing. (I think it's a &quot;comedy of manners&quot; which is not a genre I care for at all. Maybe these are modern versions of Laurence Sterne?)<br /><br />However -- however -- Gervais's jokes about and comments about atheism are _good_. Religious folks many not know but there is a thriving meme subculture of atheists making jokes about religions -- all of them -- and the meaner, the nastier, the funnier.&nbsp;<br /><br />Gervais is often mean-spirited, I suspect, but when he directs it at religion, I find him funny and quotable. I do not want to see the act but it makes for good memes, good quotes.<br /><br />(Maybe it's all about who is the target? Of course all the religious folks squeal about persecution, but always remember, when they were in charge, they tortured heretics to death. Now they are not but they are still destroying lives and their churches are still billionaire-level rich. Don't forget, don't forgive.)<br /><br />It suddenly reminds me of &quot;AI&quot;. LLM-bot generated averaged staleness.<br /><br />I now keep seeing people using bot-slop cartoons to illustrate original blog posts, soc.net comments, articles, etc. I see people in 1980s home-computer fora using bot-slop photos of children waving home computers at one another in the playground.&nbsp;<br /><br />I am aware of the subgenre of short video-clips of disaster scenes. River floods, tidal waves (post Banda Aceh, the first tsunami on video and at its time the most-filmed natural disaster ever, I believe), ships sinking, animal attacks, etc.<br /><br />But now I am seeing bot-slop versions. This morning I saw a bot-slop video that starts with a real rogue wave hit shore, then it's followed by a blatantly fake one. If it were real, hundreds would have died. That's a nasty form of &quot;entertainment&quot;.&nbsp;<br /><br />I have been bot-slop tiktok length videos of impossibly huge whales, boats in impossibly still seas. There are plenty of Chinese ones of impossibly thin girls with impossibly long legs.&nbsp;<br /><br />If people are making them, then audiences must be consuming this. Liking and sharing and bloody subscribing or whatever.<br /><br />Oasis does a roleplay of a comeback tour, with a fixed setlist. I am sure Liam G still can't sing the meaningless lyrics, the riffs will still be poor Beatles ripoffs, but the fans won't care it's all totally choreographed. It's more of the same and that's what they wanted.<br /><br />Gervais filled theatres for his curious roleplay of comedy. Maybe he is as mean-spirited &quot;punching down&quot; at other subgroups and the audiences *like* that, and it only so happens that when it aligns with the religious-mockery I find funny, I get on with that bit and that bit alone.<br /><br />GB3 filled cinemas. People lapped it up. Friends of mine defended it to me. They could not name a single joke, quote a single punchline, but they liked it.<br /><br />Now, this stale derivative incomprehending-cover-version work, which Oasis and Gervais and the GB3 team hand-created, now this can be automated.<br /><br />And audiences lap it up.<br /><br />In my business, it applies to code. Bots can generate awful code on industrial scale, and many programmers are embracing it. Presumably they wrote awful code anyway.<br /><br />Entire companies are leaning in to it.<br /><br />Some programmers are despairing.&nbsp;<br /><br />I thought this essay made some good points:<br /><br />&laquo;<br />The rise of Whatever <br />&raquo;<br /><br /><a href="https://eev.ee/blog/2025/07/03/the-rise-of-whatever/">https://eev.ee/blog/2025/07/03/the-rise-of-whatever/</a><br /><br />It's illustrated with that weird furry stuff that's so prevalent now, which squicks me a bit, but try to ignore it.<br /><br />Why is it that some people are happy with poor quality second or third generation fakery, while it repels others?<br /><br />And what is it going to do with us now that many simply cannot tell, they don't care enough to notice?<br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=lproven&ditemid=310263" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
-
-<br> 
-
-<https://lproven.dreamwidth.org/310263.html>
-
----
-
-## Fascism On The Fourth | The Coffee Klatch for July 5, 2025
-
-date: 2025-07-05, from: Robert Reich's blog
-
-With Heather Lofthouse and yours truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/167480288/9cb0f9d3d9b35e793f86d48c3a77d737.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/167480288/9cb0f9d3d9b35e793f86d48c3a77d737.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/fascism-on-the-fourth-the-coffee>
-
----
-
-## July 4, 2025
-
-date: 2025-07-05, from: Heather Cox Richardson blog
-
-An American flag in the rigging of &#8220;Old Ironsides,&#8221; the U.S.S. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/july-4-2025>
-
----
-
-## Weeknotes: June 28-July 4, 2025
-
-date: 2025-07-05, from: Tracy Durnell Blog
-
-Win of the week: got a print framed that I&#8217;ve had since 2017 or so 🖼️ Looking forward to: long weekend 🙌 bought 2# of blueberries, I&#8217;m thinking I&#8217;ll bake a coffee cake one day Stuff I did: 2.75 hours consulting 2.25 hours business development &#8212; updated my roster profile and website 4.25 hours writing [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/07/04/weeknotes-june-28-july-4-2025/>
 
