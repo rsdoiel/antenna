@@ -1,11 +1,167 @@
 ---
 title: columns
-updated: 2025-07-14 06:08:34
+updated: 2025-07-14 14:08:25
 ---
 
 # columns
 
-(date: 2025-07-14 06:08:34)
+(date: 2025-07-14 14:08:25)
+
+---
+
+## Experts Said This Was a Damn Clever Post by Jason Kottke
+
+date: 2025-07-14, updated: 2025-07-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/journalisms-experts-said-conclusion>
+
+---
+
+##  The Media&#8217;s Pivot to AI Is Not Real and Not Going to... 
+
+date: 2025-07-14, updated: 2025-07-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047145-the-medias-pivot-to-ai>
+
+---
+
+##  The Cheese Was Free 
+
+date: 2025-07-14, updated: 2025-07-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/the-cheese-was-free>
+
+---
+
+## Reborn Commodore Is Taking Pre-Orders for New Commodore 64 Models
+
+date: 2025-07-14, updated: 2025-07-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.commodore.net/>
+
+---
+
+## Report from the Cambridge Cybercrime Conference
+
+date: 2025-07-14, updated: 2025-07-14, from: Bruce Schneier blog
+
+<p>The <a href="https://www.cambridgecybercrime.uk/conference2025.html">Cambridge Cybercrime Conference</a> was held on 23 June. Summaries of the presentations are <a href="https://www.lightbluetouchpaper.org/2025/06/25/cambridge-cybercrime-conference-2025-liveblog/">here</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/07/report-from-the-cambridge-cybercrime-conference.html>
+
+---
+
+##  A lovely, beautiful, and uplifting obituary of poet and activist Andrea Gibson.... 
+
+date: 2025-07-14, updated: 2025-07-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047143-a-lovely-beautiful-and-up>
+
+---
+
+##  DOJ Removes All Mentions Of Justice From Website. This Onion article got... 
+
+date: 2025-07-14, updated: 2025-07-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047140-doj-removes-all-mentions->
+
+---
+
+##  Photos From the 2025 BigPicture Natural World Photography Competition 
+
+date: 2025-07-14, updated: 2025-07-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/photos-from-the-2025-bigpicture-natural-world-photography-competition>
+
+---
+
+## GParted: Still the best free partitioner standing – unless you're on a 32-bit box
+
+date: 2025-07-14, updated: 2025-07-14, from: Liam Proven's articles at the Register
+
+<h4>Latest release handles NBD and bcachefs, but you’ll need 64-bit hardware to boot it</h4>
+      <p>GParted Live is a tiny live CD image that can copy, move, and resize partitions. It can be a lifesaver – but not for i686 any more.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/14/gparted_live_1708/>
+
+---
+
+##  America is Losing Its Soul in Brown-Skinned Screams and White-Skinned Silence. &#8220;The... 
+
+date: 2025-07-14, updated: 2025-07-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047139-america-is-losing-its-sou>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-14, from: Dave Winer's Scripting News)
+
+Podcast: <a href="https://shownotes.scripting.com/scripting/2025/07/14/rebootingTheDemocraticParty.html">Rebooting the Democratic Party</a>. 
+
+<br> 
+
+<http://scripting.com/2025/07/14.html#a144627>
+
+---
+
+## Monday 14 July 2025
+
+date: 2025-07-14, from: Doc Searls (at Harvard), New Old Blog
+
+Nor did I. And mine is #5. Did you know there were 20 top identity podcasts? Anyone listening? Q: How far has our first radio broadcast spread into space? A: Eighty-nine light years. 
+
+<br> 
+
+<https://doc.searls.com/2025/07/14/monday-14-july-2025/>
+
+---
+
+##  Skater Demarcus James is skateboarding across the entire United States, from Oakland... 
+
+date: 2025-07-14, updated: 2025-07-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047138-skater-demarcus-james-is->
 
 ---
 
@@ -156,18 +312,6 @@ date: 2025-07-13, from: Heather Cox Richardson blog
 </audio> <a href="https://api.substack.com/feed/podcast/168240397/8229c1aa27fd42b7ec04bdf1c3aaad98.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://heathercoxrichardson.substack.com/p/july-12-2025-f86>
-
----
-
-##  Taking Journalism&#8217;s &#8216;Experts Said&#8230;&#8217; Chicanery About Facts to Its Natural, Absurd Conclusion 
-
-date: 2025-07-13, updated: 2025-07-13, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/25/07/journalisms-experts-said-conclusion>
 
 ---
 

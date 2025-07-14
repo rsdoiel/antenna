@@ -1,11 +1,70 @@
 ---
 title: small papers
-updated: 2025-07-14 06:08:39
+updated: 2025-07-14 14:08:31
 ---
 
 # small papers
 
-(date: 2025-07-14 06:08:39)
+(date: 2025-07-14 14:08:31)
+
+---
+
+## Man Accused of Killing Wife, In-Laws Dies in Custody
+
+date: 2025-07-14, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p> Eds: NOTE graphic nature. By TERRI VERMEULEN KEITHCity News Service LOS ANGELES (CNS) &#8211; A Tarzana man whom a prosecutor said was expected to enter a guilty plea today in [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/14/man-accused-of-killing-wife-in-laws-dies-in-custody/">Man Accused of Killing Wife, In-Laws Dies in Custody</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/14/man-accused-of-killing-wife-in-laws-dies-in-custody/>
+
+---
+
+## Man killed while crossing PCH near the Los Angeles River, LBPD says
+
+date: 2025-07-14, from: Long Beach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The crash happened shortly before 6:40 p.m. Sunday on Pacific Coast Highway, just west of Golden Avenue, according to Long Beach police.</p>
+<p>The post <a href="https://lbpost.com/news/crime/man-killed-while-crossing-pch-near-the-los-angeles-river-lbpd-says">Man killed while crossing PCH near the Los Angeles River, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/man-killed-while-crossing-pch-near-the-los-angeles-river-lbpd-says>
+
+---
+
+## LA28 unveils schedule for 2028 Olympics, including Long Beach events
+
+date: 2025-07-14, from: Long Beach Post
+
+<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1024x576.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1024x576.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-300x169.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-768x432.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-192x108.webp 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1536x864.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1200x675.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1568x882.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-400x225.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR.webp 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Opening Ceremony takes place on July 14, 2028, but some competitions will already be underway, including handball and water polo in Long Beach.</p>
+<p>The post <a href="https://lbpost.com/news/la28-unveils-schedule-for-2028-olympics-including-long-beach-events">LA28 unveils schedule for 2028 Olympics, including Long Beach events</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/la28-unveils-schedule-for-2028-olympics-including-long-beach-events>
+
+---
+
+## California’s wind and solar projects face new federal hurdles
+
+date: 2025-07-14, from: Long Beach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14062819/051023-mojave-wind-turbines-lv-cm-09-568658-pu20oiv1-137100-GaHL9mqx-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14062819/051023-mojave-wind-turbines-lv-cm-09-568658-pu20oiv1-137100-GaHL9mqx-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14062819/051023-mojave-wind-turbines-lv-cm-09-568658-pu20oiv1-137100-GaHL9mqx-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14062819/051023-mojave-wind-turbines-lv-cm-09-568658-pu20oiv1-137100-GaHL9mqx-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14062819/051023-mojave-wind-turbines-lv-cm-09-568658-pu20oiv1-137100-GaHL9mqx-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14062819/051023-mojave-wind-turbines-lv-cm-09-568658-pu20oiv1-137100-GaHL9mqx-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14062819/051023-mojave-wind-turbines-lv-cm-09-568658-pu20oiv1-137100-GaHL9mqx-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14062819/051023-mojave-wind-turbines-lv-cm-09-568658-pu20oiv1-137100-GaHL9mqx-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14062819/051023-mojave-wind-turbines-lv-cm-09-568658-pu20oiv1-137100-GaHL9mqx-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14062819/051023-mojave-wind-turbines-lv-cm-09-568658-pu20oiv1-137100-GaHL9mqx.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Clean-energy projects have new deadlines for federal tax credits and limits on foreign parts, taking aim at California’s climate agenda. Eleven major solar projects and one onshore wind project now face potential delays or cancellation.</p>
+<p>The post <a href="https://lbpost.com/news/climate-change/californias-wind-and-solar-projects-face-new-federal-hurdles">California’s wind and solar projects face new federal hurdles</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/climate-change/californias-wind-and-solar-projects-face-new-federal-hurdles>
 
 ---
 
@@ -13,7 +72,7 @@ updated: 2025-07-14 06:08:39
 
 date: 2025-07-14, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The LBPD said her injuries indicated she may have fallen off a motorcycle or other moving vehicle.</p>
 <p>The post <a href="https://lbpost.com/news/crime/woman-found-dead-on-la-river-bike-path-police-suspect-she-fell-to-her-death">Woman found dead on LA River bike path; police suspect she fell to her death</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -42,7 +101,7 @@ date: 2025-07-14, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-07-13, from: Long Beach Post
 
-<figure><img width="1024" height="671" src="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The California state capitol building." decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg 2400w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-458x300.jpg 458w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1110x728.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-768x503.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1536x1007.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-2048x1342.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1320x865.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="671" src="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The California state capitol building." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg 2400w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-458x300.jpg 458w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1110x728.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-768x503.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1536x1007.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-2048x1342.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1320x865.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>After his staffer’s baby was woken up by a loud ad on a streaming service, a California senator took action to force streamers to turn down the volume on commercials. The entertainment industry is fighting it.</p>
 <p>The post <a href="https://lbpost.com/news/sick-of-loud-ads-on-netflix-a-proposed-california-law-would-turn-down-the-volume">Sick of loud ads on Netflix? A proposed California law would turn down the volume</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

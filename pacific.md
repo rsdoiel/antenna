@@ -1,11 +1,62 @@
 ---
 title: pacific
-updated: 2025-07-14 06:08:32
+updated: 2025-07-14 14:08:22
 ---
 
 # pacific
 
-(date: 2025-07-14 06:08:32)
+(date: 2025-07-14 14:08:22)
+
+---
+
+## Honolulu CC calls community to celebrate Indigenous education
+
+date: 2025-07-14, from: University of Hawaiʻi News
+
+<p>Public, presenters and vendors welcome at the <span aria-label="Aha">&#699;Aha</span> K&#363;kalahale 2025 Symposium.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/14/honolulu-cc-celebrates-indigenous-education/">Honolulu <abbr>CC</abbr> calls community to celebrate Indigenous education</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/14/honolulu-cc-celebrates-indigenous-education/>
+
+---
+
+## Pasifika Sipoti in brief for 15 July
+
+date: 2025-07-14, from: 
+
+A round-up of sports news from around the region, including rugby league, rugby, soccer, cricket. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566908/pasifika-sipoti-in-brief-for-15-july>
+
+---
+
+## Unprecedented acidification ahead for corals in Hawaiʻi waters
+
+date: 2025-07-14, from: University of Hawaiʻi News
+
+<p>A <abbr>UH</abbr> Manoa study warns that Hawaiian waters could face levels of ocean acidification not seen in thousands of years.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/14/unprecedented-acidification-hawaii-waters/">Unprecedented acidification ahead for corals in Hawaiʻi waters</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/14/unprecedented-acidification-hawaii-waters/>
+
+---
+
+## UH awarded $1.5M+ to strengthen health through policy across Hawaiʻi, Pacific
+
+date: 2025-07-14, from: University of Hawaiʻi News
+
+<p>The new grants will help <abbr>UH</abbr> uncover local solutions to long-standing health care gaps across rural <span aria-label="Hawaii">Hawai&#699;i</span> and the Pacific.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/14/helmsley-charitable-trust-grant-rural-health/"><abbr>UH</abbr> awarded $1.5<abbr>M</abbr>+ to strengthen health through policy across Hawaiʻi, Pacific</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/14/helmsley-charitable-trust-grant-rural-health/>
 
 ---
 
@@ -92,7 +143,7 @@ date: 2025-07-14, from: Hawaii Tribune Harold
 date: 2025-07-14, from: Hawaii Tribune Harold
 
 
-				<p>A portion of Kilauea Avenue, a busy crosstown thoroughfare in Hilo, remained closed Sunday after a massive banyan tree near the corner of Aupuni Street uprooted, toppled and crashed Saturday afternoon.</p>
+				<p><strong>UPDATE: </strong>The Hawaii Police Department reports as of 6:37 a.m. today that Kilauea Avenue in Hilo between Mohouli and Hoku streets is now open in both directions.</p>
 			 
 
 <br> 
@@ -262,6 +313,20 @@ Guam Visitors Bureau hosted 24 travel and tour agents and 14 media representativ
 <br> 
 
 <https://www.pacificislandtimes.com/post/guam-eyes-malaysian-market-korean-plans-to-expand-flight-service>
+
+---
+
+## Empowering Youths for a Fairer Future: USP and UNFPA Commemorate World Population Day
+
+date: 2025-07-14, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP), in partnership with the United Nations Population Fund...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/empowering-youths-for-a-fairer-future-usp-and-unfpa-commemorate-world-population-day/">Empowering Youths for a Fairer Future: USP and UNFPA Commemorate World Population Day</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/empowering-youths-for-a-fairer-future-usp-and-unfpa-commemorate-world-population-day/>
 
 ---
 

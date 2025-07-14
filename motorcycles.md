@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-07-14 06:08:37
+updated: 2025-07-14 14:08:28
 ---
 
 # motorcycles
 
-(date: 2025-07-14 06:08:37)
+(date: 2025-07-14 14:08:28)
+
+---
+
+## GoPro Just Teased Its New 360-Degree Camera, but Will It Fix Its Plummeting Stock?
+
+date: 2025-07-14, from: Ride Apart, Electric Motorcycle News
+
+You won't believe how much its stock has declined, while competitors have flourished.  
+
+<br> 
+
+<https://www.rideapart.com/news/765483/gopro-teases-new-360-degree-camera/>
+
+---
+
+## Yamaha’s Suzuka R1 Race Bike Livery Is Straight Out of the Glory Days
+
+date: 2025-07-14, from: Ride Apart, Electric Motorcycle News
+
+The red and white livery harkens back to Noriyuki Haga’s iconic R7.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/765488/yamaha-r1-suzuka-endurance-livery-glory-days/>
 
 ---
 

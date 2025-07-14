@@ -1,11 +1,178 @@
 ---
 title: snapshots
-updated: 2025-07-14 06:08:41
+updated: 2025-07-14 14:08:33
 ---
 
 # snapshots
 
-(date: 2025-07-14 06:08:41)
+(date: 2025-07-14 14:08:33)
+
+---
+
+## Google “Acquires” Windsurf
+
+date: 2025-07-14, from: Michael Tsai
+
+Katie Roof and Rachel Metz (in May, via Hacker News): OpenAI has agreed to buy Windsurf, an artificial intelligence-assisted coding tool formerly known as Codeium, for about $3 billion, according to people familiar with the matter, marking the ChatGPT maker&#8217;s largest acquisition to date. Nickie Louise: Windsurf, founded in 2021 by Varun Mohan and Douglas [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/14/google-acquires-windsurf/>
+
+---
+
+## The Iconfactory vs. AI
+
+date: 2025-07-14, from: Michael Tsai
+
+Sean Heber: ChatGPT and other AI services are basically killing @Iconfactory and I&#8217;m not exaggerating or being hyperbolical.First Twitter/Elon killed our main app revenue that kept the lights on around here, then generative AI exploded to land a final blow to design revenue. Pieter Omvlee: They&#8217;ve been such a staple of the Mac indie scene [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/14/the-iconfactory-vs-ai/>
+
+---
+
+## LisaGUI
+
+date: 2025-07-14, from: Michael Tsai
+
+Andrew Yaros (via Marcus Mendes, Hacker News): LisaGUI is a &#8220;web OS&#8221; - a website that mimics the look, feel, and functionality of an operating system. More bluntly, it&#8217;s a giant JavaScript program which fully recreates the Apple Lisa&#8217;s user interface from scratch (to the best of my ability). The Lisa was Apple&#8217;s first computer [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/14/lisagui/>
+
+---
+
+## Covert Web-to-App Tracking via Localhost on Android
+
+date: 2025-07-14, from: Michael Tsai
+
+Local Mess (via Dan Goodin): We disclose a novel tracking method by Meta and Yandex potentially affecting billions of Android users. We found that native Android apps&#8212;including Facebook, Instagram, and several Yandex apps including Maps and Browser&#8212;silently listen on fixed local ports for tracking purposes. These native Android apps receive browsers&#8217; metadata, cookies and commands [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/14/covert-web-to-app-tracking-via-localhost-on-android/>
+
+---
+
+## Swedish Prime Minister Pulls AI Campaign Tool After It Was Used to Ask Hitler for Support
+
+date: 2025-07-14, from: 404 Media Group
+
+Sweden's Moderate party allowed users to make the PM hold a sign bearing any name they wanted. You know what happened next. 
+
+<br> 
+
+<https://www.404media.co/swedish-prime-minister-pulls-ai-campaign-tool-after-it-was-used-to-ask-hitler-for-support/>
+
+---
+
+## ccusage
+
+date: 2025-07-14, updated: 2025-07-14, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/ryoppippi/ccusage">ccusage</a></strong></p>
+Claude Code logs detailed usage information to the <code>~/.claude/</code> directory. ccusage is a neat little Node.js tool which reads that information and shows you a readable summary of your usage patterns, including the estimated cost in USD per day.</p>
+<p>You can run it using npx like this:</p>
+<pre><code>npx ccusage@latest
+</code></pre>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/javascript">javascript</a>, <a href="https://simonwillison.net/tags/nodejs">nodejs</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/14/ccusage/#atom-everything>
+
+---
+
+## UGREEN launches NASync DH Series: ARM-based network attached storage devices
+
+date: 2025-07-14, from: Liliputing
+
+<p>After making a name for itself as a company that makes PC and mobile charging accessories and docking stations, UGREEN entered the network-attached-storage business in 2024 with the launch of the NASync DX line of Intel-powered systems. When Ian reviewed the DXP480T Plus, he found that it combined excellent hardware with software that was serviceable, [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/ugreen-launches-nasync-dh-series-arm-based-network-attached-storage-devices/">UGREEN launches NASync DH Series: ARM-based network attached storage devices</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/ugreen-launches-nasync-dh-series-arm-based-network-attached-storage-devices/>
+
+---
+
+## Costly Dirty Energy Bill
+
+date: 2025-07-14, from: Guy Kawasaki blog
+
+Daniel Cohan, Professor of Civil and Environmental Engineering, Rice University. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/costly-dirty-energy-bill>
+
+---
+
+## Pine64 ALPHA-ONE is now available (Fanless RISC-V PC with a 20 TOPS NPU)
+
+date: 2025-07-14, from: Liliputing
+
+<p>Pine64&#8217;s ALPHA-ONE is a small fanless computer designed for AI. It has an NPU that delivers up to 20 TOPS of INT8 performance and Pine64 says it supports about 4 tokens per second of throughput when running a large language model with 7 billion parameters. While those specs lag behind the AI performance offered by [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/pine64-alpha-one-is-now-available-fanless-risc-v-pc-with-a-20-tops-npu/">Pine64 ALPHA-ONE is now available (Fanless RISC-V PC with a 20 TOPS NPU)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/pine64-alpha-one-is-now-available-fanless-risc-v-pc-with-a-20-tops-npu/>
+
+---
+
+## Vote for the July 2025 + Post Topic
+
+date: 2025-07-14, from: Computer ads from the Past
+
+Let's get this party started. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/vote-for-the-july-2025-post-topic>
+
+---
+
+## Rental Car Damages Should Not Be a Profit Center
+
+date: 2025-07-14, updated: 2025-07-14, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/07/14/rental-car-damages-should-not-be-a-profit-center/>
+
+---
+
+## 'Deportation Tok' Is Taking Off
+
+date: 2025-07-14, from: 404 Media Group
+
+People are uploading videos of their post-deportation life to TikTok and other platforms. 
+
+<br> 
+
+<https://www.404media.co/deportation-tok-is-taking-off-2/>
+
+---
+
+## The Media's Pivot to AI Is Not Real and Not Going to Work
+
+date: 2025-07-14, from: 404 Media Group
+
+AI is not going to save media companies, and forcing journalists to use AI is not a business model. 
+
+<br> 
+
+<https://www.404media.co/the-medias-pivot-to-ai-is-not-real-and-not-going-to-work/>
 
 ---
 

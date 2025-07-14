@@ -1,11 +1,215 @@
 ---
 title: science and technology
-updated: 2025-07-14 06:08:33
+updated: 2025-07-14 14:08:23
 ---
 
 # science and technology
 
-(date: 2025-07-14 06:08:33)
+(date: 2025-07-14 14:08:23)
+
+---
+
+## Google confirms it’s merging ChromeOS and Android
+
+date: 2025-07-14, from: OS News
+
+Late last year, Mishaal Rahman reported that Google was going to merge ChromeOS and Android, and it seems Google itself has now confirmed that&#8217;s exactly what&#8217;s happening. “I asked because we’re going to be combining ChromeOS and Android into a single platform, and I am very interested in how people are using their laptops these days and what they’re getting done,” Samat explained. ↫ Lance Ulanoff at TechRadar I&#8217;m definitely interested to see what using Android across desktops, laptops, tablets, martphones, and smartwatches is going to be like. The same applications on all those form factors? So many have tried, and as many have failed. I just don&#8217;t think Google has what it takes. 
+
+<br> 
+
+<https://www.osnews.com/story/142779/google-confirms-its-merging-chromeos-and-android/>
+
+---
+
+## Nvidia A6000 GPUs flip memory bits if beaten by GPUHammer
+
+date: 2025-07-14, updated: 2025-07-14, from: The Register (UK I.T. News)
+
+<h4>Rowhammer returns for more memory-meddling fun</h4> <p>The Rowhammer attack on computer memory is back, and for the first time, it&#39;s able to mess with bits in Nvidia GPUs, despite defenses designed to protect against this kind of hacking.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/14/nvidia_a6000_gpu_gpuhammer/>
+
+---
+
+## NASA Research Shows Path Toward Protocells on Titan
+
+date: 2025-07-14, from: NASA breaking news
+
+NASA research has shown that cell-like compartments called vesicles could form naturally in the lakes of Saturn’s moon Titan. Titan is the only world apart from Earth that is known to have liquid on its surface. However, Titan’s lakes and seas are not filled with water. Instead, they contain liquid hydrocarbons like ethane and methane.  […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/planetary-science/astrobiology/path-toward-protocells-on-titan/>
+
+---
+
+## Nvidia CEO says China wouldn't risk building military supers with American AI chips
+
+date: 2025-07-14, updated: 2025-07-14, from: The Register (UK I.T. News)
+
+<h4>With half the AI devs in the world, if China can&#39;t build on American hardware, they&#39;ll build on their own, Jensen warns</h4> <p>If the US military wouldn&#39;t be caught dead building supercomputers using Chinese kit, there&#39;s no reason to think the People&#39;s Liberation Army would risk doing the same, argues Nvidia CEO Jensen Huang.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/14/nvidia_ceo_china/>
+
+---
+
+## Protected: Glenn Extreme Environments Rig (GEER)
+
+date: 2025-07-14, from: NASA breaking news
+
+There is no excerpt because this is a protected post. 
+
+<br> 
+
+<https://www.nasa.gov/general/glenn-extreme-environments-rig-geer/>
+
+---
+
+## Blender 5.0 to introduce HDR support for Wayland on Linux, but not for Windows
+
+date: 2025-07-14, from: OS News
+
+The latest alpha of the upcoming Blender 5.0 release comes with&#160;High Dynamic Range (HDR) support for Linux on Wayland&#160;which will, if everything works out, make it into the final Blender 5.0 release on October 1, 2025. The post on the developer forum comes with instructions on how to enable the experimental support and how to test it. If you are using Fedora Workstation 42, which ships GNOME version 48, everything is already included to run Blender with HDR. All that is required is an HDR compatible display and graphics driver, and turning on HDR in the Display Settings. ↫ Sebastian Wick It&#8217;s interesting to note that Blender on Windows won&#8217;t be getting HDR support, and that&#8217;s because Windows&#8217; HDR support is subpar compared to Wayland on Linux, and requires a ton more work which the Blender team isn&#8217;t going to do. It seems the Wayland developers made all the right choices when it comes to HDR support. Needless to say, X11 doesn&#8217;t have HDR support. The design of the Wayland color-management protocol, and the resulting active color-management paradigm of Wayland compositors was a good choice, making it easy for developers to do the right thing, while also giving them more control if they so chose. ↫ Sebastian Wick Weird. I was told Wayland was an unusable mess. 
+
+<br> 
+
+<https://www.osnews.com/story/142777/blender-5-0-to-introduce-hdr-support-for-wayland-on-linux-but-not-for-windows/>
+
+---
+
+## Tribblix Milestone 37 released
+
+date: 2025-07-14, from: OS News
+
+Tribblix, the illumos distribution that aims to provide a retro feel with modern components, has just released a new update, Milestone 37. At the system level, the max PID is now 99999, so you may see larger PIDs. Usernames exceeding 8 characters are now accepted without warnings. Files with dates after the Y2038 transition are now permitted on ZFS. Notable default version updates: the default Java is now JDK21, postgres is now v17, go is now v1.24, and ruby is v3.4. ↫ Tribblix Milestone 37 release notes See the full list of changes for all the various updated components. 
+
+<br> 
+
+<https://www.osnews.com/story/142775/tribblix-milestone-37-released/>
+
+---
+
+## Does showing seconds in the Windows System Tray actually use more power?
+
+date: 2025-07-14, from: OS News
+
+On Windows, there&#8217;s an option to show the seconds on the taskbar clock, but it comes with a warning that it might reduce battery life if you switch it on. LTT Labs decided to look into this to see just how much of a thing this really is, and they concluded that yes, it does actually affect battery life. They saw a drop of about 5%-15%, depending on configuration. In percentage terms, the drops weren’t massive. For most people, it probably won’t make or break your day. But if you’re on a long flight, running low on battery, or trying to squeeze out every last bit of endurance, it’s not entirely nothing either. ↫ Woolly Door at LTT Labs I mean, having the second tick away on the click would drive me up the wall when I&#8217;m trying to use my computer, but I&#8217;m sure quite a few among you do enable the seconds display on your own setups (Windows or otherwise). I&#8217;m curious to see if the same battery life reduction is measurable on KDE, GNOME, or macOS. 
+
+<br> 
+
+<https://www.osnews.com/story/142773/does-showing-seconds-in-the-windows-system-tray-actually-use-more-power/>
+
+---
+
+## A software-defined radio can derail a US train by slamming the brakes on remotely
+
+date: 2025-07-14, updated: 2025-07-14, from: The Register (UK I.T. News)
+
+<h4>Neil Smith has been trying to get the railroad industry to listen since 2012, but it took a CISA warning to get there</h4> <p>When independent security researcher Neil Smith reported a vulnerability in a comms standard used by trains to the US government in 2012, he most likely didn&#39;t expect it would take until 2025 to sort the matter out, but here we are. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/14/train_brakes_flaw/>
+
+---
+
+## wlmaker: Wayland compositor that reproduces Window Maker’s look and feel
+
+date: 2025-07-14, from: OS News
+
+What if you want to use Wayland, but prefer Window Maker, which is restricted to legacy X11? Enter wlmaker, or Wayland Maker, a Wayland compositor that reproduces the look and feel of Window Maker. It&#8217;s lightweight, very configurable through human-readable configuration files, supports dockable applications, and more. It&#8217;s actually packaged in FreeBSD and a number of Linux distributions, including Ubuntu and Debian (Fedora&#8217;s package is outdated), but of course, you can compile it yourself, too. 
+
+<br> 
+
+<https://www.osnews.com/story/142771/wlmaker-wayland-compositor-that-reproduces-window-makers-look-and-feel/>
+
+---
+
+## GParted: Still the best free partitioner standing – unless you're on a 32-bit box
+
+date: 2025-07-14, updated: 2025-07-14, from: The Register (UK I.T. News)
+
+<h4>Latest release handles NBD and bcachefs, but you’ll need 64-bit hardware to boot it</h4> <p>GParted Live is a tiny live CD image that can copy, move, and resize partitions. It can be a lifesaver – but not for i686 any more.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/14/gparted_live_1708/>
+
+---
+
+## Linking Satellite Data and Community Knowledge to Advance Alaskan Snow Science
+
+date: 2025-07-14, from: NASA breaking news
+
+Seasonal snow plays a significant role in global water and energy cycles, and billions of people worldwide rely on snowmelt for water resources needs, including water supply, hydropower, agriculture, and more. Monitoring snow water equivalent (SWE) is critical for supporting these applications and for mitigating damages caused by snowmelt flooding, avalanches, and other snow-related disasters. […] 
+
+<br> 
+
+<https://science.nasa.gov/centers-and-facilities/goddard/linking-satellite-data-and-community-knowledge-to-advance-alaskan-snow-science/>
+
+---
+
+## AWS previews Kiro IDE for developers who are over vibe coding
+
+date: 2025-07-14, updated: 2025-07-14, from: The Register (UK I.T. News)
+
+<h4>Delivers specs in the form of user stories</h4> <p>Amazon Web Services has created what it&#39;s calling an &#34;agentic IDE&#34; that it claims avoids the pitfalls of vibe coding.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/14/aws_kiro_agentic_ide/>
+
+---
+
+## 10 Years Ago: NASA’s New Horizons Captures Pluto’s Heart
+
+date: 2025-07-14, from: NASA breaking news
+
+This image, taken by NASA&#8217;s New Horizons spacecraft&#160;on July 14, 2015, is the most accurate natural color image of Pluto. This natural-color image results from refined calibration of data gathered by New Horizons&#8217; color Multispectral Visible Imaging Camera (MVIC). The processing creates images that would approximate the colors that the human eye would perceive, bringing [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/10-years-ago-nasas-new-horizons-captures-plutos-heart/>
+
+---
+
+## RNA Is the Cell’s Emergency Alert System
+
+date: 2025-07-14, from: Quanta Magazine
+
+How does a cell know when it’s been damaged? A molecular alarm, set off by mutated RNA and colliding ribosomes, signals danger.            <p>The post <a href="https://www.quantamagazine.org/rna-is-the-cells-emergency-alert-system-20250714/" target="_blank">RNA Is the Cell’s Emergency Alert System</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/rna-is-the-cells-emergency-alert-system-20250714/>
+
+---
+
+## xAI's Grok lurches into right-wing insanity, offers tips on assaulting man
+
+date: 2025-07-14, updated: 2025-07-14, from: The Register (UK I.T. News)
+
+<h4>MechaHitler? Garbage In, Garbage Out</h4> <p><strong>Opinion</strong>  So, on the 4th of July, a big deal to those on my side of the pond, Elon Musk announced, &#34;We have improved @Grok significantly.&#34; On Tuesday, July 8, the results of those changes appeared.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/14/musk_opinion_piece/>
+
+---
+
+## EU-sponsored report says GenAI's 'fair use' defense does not compute
+
+date: 2025-07-14, updated: 2025-07-14, from: The Register (UK I.T. News)
+
+<h4>Just because a student reads a book doesn&#39;t mean Midjourney gets to eat Disney</h4> <p>A research paper commissioned by the European Parliament has called for an EU law to pay writers, musicians, and artists whose work has been used to train GenAI models.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/14/eu_genai_fair_use/>
 
 ---
 
@@ -153,9 +357,9 @@ date: 2025-07-13, updated: 2025-07-13, from: The Register (UK I.T. News)
 
 ---
 
-## You have a fake North Korean IT worker problem - here's how to stop it
+## You have a fake North Korean IT worker problem – here's how to stop it
 
-date: 2025-07-13, updated: 2025-07-13, from: The Register (UK I.T. News)
+date: 2025-07-13, updated: 2025-07-14, from: The Register (UK I.T. News)
 
 <h4>Thick resumes with thin LinkedIn connections are one sign. Refusing an in-person interview is another</h4> <p>By now, the North Korean fake IT worker problem is so ubiquitous that if you think you don&#39;t have any phony resumes or imposters in your interview queue, you&#39;re asleep at the wheel.…</p> 
 

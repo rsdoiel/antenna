@@ -1,11 +1,25 @@
 ---
 title: journalism
-updated: 2025-07-14 06:08:35
+updated: 2025-07-14 14:08:26
 ---
 
 # journalism
 
-(date: 2025-07-14 06:08:35)
+(date: 2025-07-14 14:08:26)
+
+---
+
+## ‘Superman’ brings fresh questions for classic hero, disappoints with shaky plot
+
+date: 2025-07-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Warning: Spoilers ahead
+It’s got a dog! It’s narratively ambiguous! It’s Superman!
+Released in theaters July 11, director James Gunn&#8217;s latest film unravels his take on the cultural icon that is the “Man of Steel.” Introducing a less orthodox take of the Superman origin story, the film unusually begins with several canon Superman milestones, unlike its predecessor films. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/14/superman-brings-fresh-questions-for-classic-hero-disappoints-with-shaky-plot/>
 
 ---
 

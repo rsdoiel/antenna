@@ -1,11 +1,259 @@
 ---
 title: planet
-updated: 2025-07-14 06:08:30
+updated: 2025-07-14 14:08:19
 ---
 
 # planet
 
-(date: 2025-07-14 06:08:30)
+(date: 2025-07-14 14:08:19)
+
+---
+
+## Nine dead in fire at assisted living facility near Boston
+
+date: 2025-07-14, from: RTÉ News
+
+A fire that broke out at an assisted living facility for the elderly near Boston last night has killed at least nine people and injured 30 others, authorities have said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0714/1523519-boston-care-home-fire/>
+
+---
+
+## INOU warns against sowing division in Budget
+
+date: 2025-07-14, from: RTÉ News
+
+The Irish National Organisation of the Unemployed (INOU) has called for a €16 increase to all core social welfare rates, including for working age payments. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0714/1523504-unemployed-welfare-budget/>
+
+---
+
+## IHCA warns public over fake ads featuring doctors
+
+date: 2025-07-14, from: RTÉ News
+
+The Irish Hospital Consultants Association has urged the public to be vigilant for fake ads on social media in which doctors purport to endorse unauthorised products or services. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0714/1523507-doctors-fake-ads/>
+
+---
+
+## 'Sad day for Ireland' - former publican on pub closures
+
+date: 2025-07-14, from: RTÉ News
+
+The Ramble Inn in the village of Halfway in Co Cork is among the more than 2,100 pubs that have shut their doors over the last 20 years. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0714/1523497-pub-closures/>
+
+---
+
+## 'We have reclaimed our voices,' say rape survivors
+
+date: 2025-07-14, from: RTÉ News
+
+The sister of a former priest who raped and sexually assaulted his sisters while he was a seminarian has said that while they cannot reclaim their childhood they have reclaimed their voices and have "finally been heard". 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0714/1523488-court-statements-fay-wrightstone/>
+
+---
+
+## Podcast: Trump tariffs and the impact on Ireland
+
+date: 2025-07-14, from: RTÉ News
+
+Amid tariff uncertainty with the US, RTÉ's Behind the Story podcast looks at the potential impact on food and drink sector. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0714/1523478-podcast-trump-tariffs-and-the-impact-on-ireland/>
+
+---
+
+## Gorky Park, Havana Bay mystery author Martin Cruz Smith dead at 82
+
+date: 2025-07-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7584838.1752524229!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/martin-cruz-smith-1999.jpg' alt='A profile photo of a man wearing a blue denim shirt sitting in front of a tapestry. ' width='620' height='349' title='Author Martin Cruz Smith stands by a piece of artwork in his home in Mill Valley, Calif., on Aug. 13, 1999. His latest novel, &quot;Stalin&apos;s Ghost,&quot; is being published June 12, 2007. '/><p>Martin Cruz Smith, the bestselling mystery novelist who engaged readers for decades with Gorky Park and other thrillers featuring Moscow investigator Arkady Renko, has died at age 82.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/martin-cruz-smith-dead-1.7584803?cmp=rss>
+
+---
+
+## TikTok granted permission to challenge €530m DPC fine
+
+date: 2025-07-14, from: RTÉ News
+
+Social media giant TikTok has been granted permission by the High Court to pursue a legal challenge against what it argues is the "penal" €530 million fine imposed upon it by the Data Protection Commissioner (DPC) over the alleged transfer of site-users' personal data to China. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0714/1523487-tiktok-granted-permission-to-challenge-530m-dpc-fine/>
+
+---
+
+## Court told man was so badly beaten he was unrecognisable
+
+date: 2025-07-14, from: RTÉ News
+
+Pensioner Tom Niland was so badly beaten during an alleged home invasion that his neighbours did not recognise him walking along the middle of the road covered in blood, a trial at the Central Criminal Court has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0714/1523483-tom-niland/>
+
+---
+
+## Healy takes yellow jersey at Tour de France
+
+date: 2025-07-14, from: RTÉ News
+
+Ben Healy is just the fourth Irish cyclist to wear the famous Yellow Jersey as he leads the Tour de France after 10 stages of this year's race. 
+
+<br> 
+
+<https://www.rte.ie/sport/cycling/2025/0714/1523463-healy-takes-yellow-jersey-at-tour-de-france/>
+
+---
+
+## 4 confirmed dead in small plane crash at London airport
+
+date: 2025-07-14, from: RTÉ News
+
+Four people were killed when a small plane crashed at a London regional airport at the weekend, UK police have said. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0714/1523471-southend-plane-crash/>
+
+---
+
+## Former priest jailed for eight years for raping sisters
+
+date: 2025-07-14, from: RTÉ News
+
+A former priest who raped and sexually assaulted his sisters while he was a seminarian has been jailed for eight years. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0714/1523467-richard-brennan-court/>
+
+---
+
+## Two “lenses” to view gravity – when mathematics builds a bridge between two universes
+
+date: 2025-07-14, from: Vatican Obervatory
+
+Two researchers from the Vatican Observatory ( www.vaticanobservatory.org &#8211; www.vaticanobservatory.va), Fr. Gabriele Gionti, S.J., and Fr. Matteo... 
+
+<br> 
+
+<https://www.vaticanstate.va/en/news/2319-two-lenses-to-view-gravity-when-mathematics-builds-a-bridge-between-two-universes.html>
+
+---
+
+## Advocates denounce plan to cut federal Indigenous services budget
+
+date: 2025-07-14, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7403045.1739485589!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/afn-assembly-20241204.jpg' alt='A woman with glasses is behind a microphone.' width='620' height='349' title='Cindy Blackstock, the executive director of the First Nations Child &amp; Family Caring Society of Canada, speaks on child welfare during the Assembly of First Nations special chiefs assembly in Ottawa on Wednesday, Dec. 4, 2024.'/><p>Advocates are warning that cutting billions of dollars from the federal Indigenous services budget, as the Carney government intends to do, could worsen the quality of essential programs and may spark lawsuits that would cost Ottawa more money in the long term.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/indigenous-services-carney-budget-cuts-1.7584563?cmp=rss>
+
+---
+
+## Man jailed for beating woman with wheel brace on roadside
+
+date: 2025-07-14, from: RTÉ News
+
+A man has been sentenced to nine years in prison for attacking a woman with a wheel brace to such an extent that she needed to have her spleen removed following the attack. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0714/1523460-keith-macken-court/>
+
+---
+
+## German doctor on trial for 15 murders by lethal injection
+
+date: 2025-07-14, from: RTÉ News
+
+The trial of a German doctor accused of killing 15 patients with lethal injections and acting as "master of life and death" over those in his care is under way. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0714/1523458-doctor-trial-murder/>
+
+---
+
+## Spain: Bishop condemns anti-migrant violence in Murcia
+
+date: 2025-07-14, from: Vatican News
+
+
+                    <p>Following a weekend of anti-migrant violence in Torre Pacheco, Spain, marked by far-right attacks on North African youths, the Bishop of Cartagena condemns the unrest and calls for peace, coexistence, and Christian witness in the face of rising tensions.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/spain-anti-immigrant-attacks-murcia-bishop-cartagena.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/spain-anti-immigrant-attacks-murcia-bishop-cartagena.html>
+
+---
+
+## 'I have to have hope,' says Tuam relative amid excavation
+
+date: 2025-07-14, from: RTÉ News
+
+The daughter of a woman whose child died in the Tuam Mother and Baby Home has described as "absolutely momentous" the beginning of excavation work at the site in Co Galway. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0714/1523442-tuam-relative/>
+
+---
+
+## Woman found guilty of facilitating rape of daughter
+
+date: 2025-07-14, from: RTÉ News
+
+A woman has been convicted on a charge of facilitating the rape of her six-year-old daughter after a trial at the Central Criminal Court. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0714/1523438-rape-trial/>
+
+---
+
+## Missionaries of Africa: Safeguarding Minors from Abuse
+
+date: 2025-07-14, from: Vatican News
+
+
+                    <p>Fr. Lowrent Kamwanza of the Missionaries of Africa tells Vatican News that safeguarding children and vulnerable persons against all forms of abuse is an ongoing process of conversion, formation and accountability.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-07/missionaries-of-africa-safeguarding-minors-from-abuse.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-07/missionaries-of-africa-safeguarding-minors-from-abuse.html>
 
 ---
 
@@ -13,7 +261,7 @@ updated: 2025-07-14 06:08:30
 
 date: 2025-07-14, from: RTÉ News
 
-Five young children were rescued by off-duty nurses after they got into difficulty off a beach in Co Down. 
+Five children, all members of the same family, have been rescued from the sea off a beach in Co Down. 
 
 <br> 
 
@@ -21,11 +269,11 @@ Five young children were rescued by off-duty nurses after they got into difficul
 
 ---
 
-## Minister to tell of 43% drop in people claiming asylum
+## Ireland not a soft target for migrants, says Minister
 
 date: 2025-07-14, from: RTÉ News
 
-Minister for Justice Jim O'Callaghan is expected to tell a Cabinet sub-committee that his Department is beginning to see the number of applications for International Protection noticeably reduce. 
+The Minister of State with Responsibility for Migration has said that Ireland was not a soft target for those seeking international protection. 
 
 <br> 
 
@@ -45,7 +293,7 @@ A Gaza documentary featuring narration by the son of an official in Gaza's Hamas
 
 ---
 
-## WHO urges roll-out of first long-acting HIV prevention jab
+## WHO urges rollout of first long-acting HIV prevention jab
 
 date: 2025-07-14, from: United Nations, Top Stories
 
@@ -57,11 +305,59 @@ A breakthrough HIV drug that only needs to be injected twice a year to offer nea
 
 ---
 
-## Israeli strikes kill 22, says Gaza civil defence
+## ‘A compass towards progress’ – but key development goals remain way off track
+
+date: 2025-07-14, from: United Nations, Top Stories
+
+Global life expectancy increased by an astonishing five years between 2000 and 2019. And then since the COVID-19 pandemic, it slid backwards by almost two. More than 110 million children have entered school since 2015 – but by 2023, 272 million children still had no access to the classroom.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165388>
+
+---
+
+## Security Council renews UN’s Haiti mission amid spiralling crises
+
+date: 2025-07-14, from: United Nations, Top Stories
+
+Amid runaway gang violence and crumbling state authority, the Security Council on Monday unanimously extended the mandate of the UN’s political mission in Haiti until the end of the year, amid escalating gang violence, political paralysis and a deepening humanitarian crisis threatening the country’s collapse. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165391>
+
+---
+
+## World News in Brief: Inter-ethnic violence in Syria, Indigenous Peoples’ rights, global information security
+
+date: 2025-07-14, from: United Nations, Top Stories
+
+Clashes on Sunday between Sunni Bedouin tribal fighters and Druze militia have reportedly left at least 30 dead in Syria’s predominantly-Druze city of Sweida.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165390>
+
+---
+
+## Gaza: UNICEF mourns seven children killed queuing for water
+
+date: 2025-07-14, from: United Nations, Top Stories
+
+The head of UN child rights agency UNICEF has called for Israel to review its rules of engagement in Gaza after seven children were killed while waiting for water at a distribution point.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165386>
+
+---
+
+## Netanyahu 'unwilling' to reach Gaza truce deal - Hamas
 
 date: 2025-07-14, from: RTÉ News
 
-Gaza's civil defence agency said Israeli air strikes have killed at least 22 people, while Israel and Palestinian militants reported facing each other in the territory's north. 
+Hamas has accused Israeli Prime Minister Benjamin Netanyahu of not wanting to reach a deal to end the war in Gaza as talks in Qatar entered their second week. 
 
 <br> 
 
@@ -69,11 +365,11 @@ Gaza's civil defence agency said Israeli air strikes have killed at least 22 peo
 
 ---
 
-## Galway city council to decide on infrastructure loans
+## Galway council votes to seek €60m infrastructure loans
 
 date: 2025-07-14, from: RTÉ News
 
-Councillors in Galway city will today be asked to approve plans to seek €60 million in loans, to fund what are described as essential infrastructural improvements for the city. 
+Councillors in Galway city have approved plans to seek €60 million in loans, to fund what are described as essential infrastructural improvements for the city. 
 
 <br> 
 
@@ -81,11 +377,23 @@ Councillors in Galway city will today be asked to approve plans to seek €60 mi
 
 ---
 
-## Status Yellow thunderstorm warning for 14 counties
+## Trump sets 50-day tariff deadline for Russia to end war in Ukraine
+
+date: 2025-07-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/8fa0b425-a3ef-41db-8e0d-bb63e895e7cd,1752510147306/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C605%2C5817%2C3272%29%3BResize%3D%28620%29' alt='TRUMP ON RUSSIA JULY 14' width='620' height='349' title='NATO Secretary General Mark Rutte, from left, meets with President Donald Trump as Vice President JD Vance, Secretary of State Marco Rubio and Defense Secretary Pete Hegseth listen in the Oval Office of the White House, Monday, July 14, 2025, in Washington. (AP Photo/Evan Vucci)'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/ukraine-war-trump-rutte-1.7584415?cmp=rss>
+
+---
+
+## Status Yellow thunderstorm warning for four counties
 
 date: 2025-07-14, from: RTÉ News
 
-Met Éireann has issued a status yellow thunderstorm warning for fourteen counties. 
+Met Éireann has issued a Status Yellow rain and thunderstorm warning for four counties in the west and south. 
 
 <br> 
 
@@ -138,6 +446,22 @@ date: 2025-07-14, from: Vatican News
 
 ---
 
+## A Marian festival in Indonesia brings Christians and Muslims together
+
+date: 2025-07-14, from: Vatican News
+
+
+                    <p>For five weeks on Flores Island, 26 parishes partake in processions and prayers ahead of the Solemnity of the Assumption of the Blessed Virgin Mary.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/marian-festival-in-indonesia-brings-christians-muslims-together.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/marian-festival-in-indonesia-brings-christians-muslims-together.html>
+
+---
+
 ## PTSB and unions agree new pay deal for staff
 
 date: 2025-07-14, from: RTÉ News
@@ -150,11 +474,23 @@ PTSB and its group of unions have agreed a new pay deal for staff at the bank.
 
 ---
 
-## Over half of Wallace allegations substantiated - report
+## BBC cuts ties with MasterChef host Gregg Wallace after sexual misconduct report
+
+date: 2025-07-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7584260.1752497999!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/britain-bbc-wallace.jpg' alt='A bald man in black round glasses grins' width='620' height='349' title='British television host Gregg Wallace, Feb. 16, 2017. '/><p>The BBC said Monday it will no longer work with MasterChef host Gregg Wallace after a report found that dozens of misconduct allegations made against the hit cooking show presenter were upheld.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/masterchef-host-gregg-wallace-1.7584246?cmp=rss>
+
+---
+
+## Wallace 'sorry for any distress caused' by behaviour
 
 date: 2025-07-14, from: RTÉ News
 
-A total of 45 out of the 83 allegations made against former MasterChef presenter Gregg Wallace during his time on the show were substantiated, including one allegation of "unwelcome physical contact", a report has said. 
+Former MasterChef presenter Gregg Wallace has said he is "deeply sorry for any distress caused" and that he "never set out to harm or humiliate" in the wake of a report that saw 45 out of 83 allegations made against him upheld. 
 
 <br> 
 
@@ -198,6 +534,18 @@ European Commissioner Michael McGrath has said that in the event of 30% tariffs 
 
 ---
 
+## EU to expand list of US tariff countermeasures - Tánaiste
+
+date: 2025-07-14, from: RTÉ News
+
+Tánaiste Simon Harris has said the European Commission will later publish an expanded list of tariff countermeasures which the EU would consider introducing should an agreement with the US not be reached. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0714/1523377-ireland-eu-us-tariffs/>
+
+---
+
 ## Missionary recalls effort to close naval base over abuse
 
 date: 2025-07-14, from: RTÉ News
@@ -210,11 +558,11 @@ One of the last remaining Irish missionaries has spoken of his work in the Phili
 
 ---
 
-## 9 people dead after fire at assisted living facility in Massachusetts
+## Flames tear through Massachusetts assisted-living facility, killing 9 and trapping residents
 
 date: 2025-07-14, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7584232.1752494584!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/massachusetts-fatal-fire.jpg' alt='Two men speak in front of a damaged facility. ' width='620' height='349' title='Falls River Fire Chief Jeffrey Bacon, right, speaks with another official after a fire the Gabriel House assisted living facility in Falls River, Mass., Monday, July 14, 2025. (AP Photo/Michael Casey)'/><p>Nine people have died and 30 others were injured in a fire at an assisted living facility in Massachusetts, where people were hanging out of windows screaming for help, authorities said on Monday.</p> 
+<img src='https://i.cbc.ca/1.7584509.1752510370!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/massachusetts-fatal-fire.jpg' alt='An investigator takes measurements of a facility damaged by fire.' width='620' height='349' title='An investigator takes measurements Monday, July 14, 2025, near an entrance to the Gabriel House assisted living facility following a fire that started late Sunday in Fall River, Mass. (AP Photo/Steven Senne)'/><p>Flames roared through an assisted-living facility in Massachusetts, killing nine people and trapping residents inside, including some who leaned out of windows and screamed for help, authorities said Monday. At least 30 people were hurt.</p> 
 
 <br> 
 
@@ -322,11 +670,11 @@ A project in Co Mayo is generating renewable electricity through the flying of k
 
 ---
 
-## EU still seeks trade deal after new Trump tariff threat
+## EU says could target €72bn of goods if tariff talks fail
 
 date: 2025-07-14, from: RTÉ News
 
-The EU still hopes to strike a deal with the United States despite President Donald Trump's ramped-up threat of 30% tariffs, the bloc's trade chief has said, with pressure on Brussels to toughen its stance. 
+The European Commission has said it was putting forward a new list of US goods worth €72 billion that could be targeted by EU levies if tariff talks with Washington fail. 
 
 <br> 
 
@@ -382,11 +730,11 @@ date: 2025-07-14, from: CBC, World News
 
 ---
 
-## Trump says US will send Patriot missiles to Ukraine
+## Trump gives Russia 50 days to resolve Ukraine war
 
 date: 2025-07-14, from: RTÉ News
 
-US President Donald Trump has said he will send Patriot air defence missiles to Ukraine, adding they are necessary to defend the country. 
+US President Donald Trump has told Russia to resolve its Ukraine war within 50 days or face massive new economic sanctions as he laid out plans for new infusions of weaponry for Kyiv. 
 
 <br> 
 
