@@ -1,11 +1,187 @@
 ---
 title: socal north
-updated: 2025-07-15 06:07:30
+updated: 2025-07-15 14:07:40
 ---
 
 # socal north
 
-(date: 2025-07-15 06:07:30)
+(date: 2025-07-15 14:07:40)
+
+---
+
+## Specialty market and liquor store to replace Dollar Express in Zaferia neighborhood
+
+date: 2025-07-15, from: Longbeach Post
+
+<figure><img width="1024" height="685" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1024x685.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1024x685.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-300x201.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-768x514.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-161x108.png 161w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1536x1028.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-2048x1371.png 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1200x803.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1568x1050.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-400x268.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>City documents said it will offer high-end organic produce, an espresso bar and imported spirits “not normally found in typical stores.”</p>
+<p>The post <a href="https://lbpost.com/news/business/development/specialty-market-and-liquor-store-to-replace-dollar-express-in-zaferia-neighborhood">Specialty market and liquor store to replace Dollar Express in Zaferia neighborhood</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/development/specialty-market-and-liquor-store-to-replace-dollar-express-in-zaferia-neighborhood>
+
+---
+
+## Post-fire rent gouging charges have been rare, but LA County violators could soon be fined
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+The district attorney’s office has not filed any charges for post-fire price gouging. Now, county leaders want the ability to issue daily fines of up to $1,000 per violation. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-county-fires-price-gouging-housing-board-of-supervisors-fines-rent-landlords>
+
+---
+
+## Long Beach City Council will consider legal action to combat ICE raids, mayor says
+
+date: 2025-07-15, from: Longbeach Post
+
+<figure><img width="1024" height="745" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ-1024x745.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ-1024x745.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ-300x218.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ-768x559.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ-148x108.jpg 148w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ-400x291.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The mayor is calling the council back from a July recess for a special closed-door meeting Wednesday afternoon.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/long-beach-city-council-will-consider-legal-action-to-combat-ice-raids-mayor-says">Long Beach City Council will consider legal action to combat ICE raids, mayor says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/long-beach-city-council-will-consider-legal-action-to-combat-ice-raids-mayor-says>
+
+---
+
+## CalPERS recovers from tariff plunge and notches a big investment gain
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+California’s biggest pension fund and markets around the world learned to live with President Trump’s tariff threats. CalPERS gained 11.6% on investments in 2024-25. 
+
+<br> 
+
+<https://laist.com/news/calpers-recovers-from-tariff-plunge-and-notches-a-big-investment-gain>
+
+---
+
+## The Trump administration reverses its promise to publish key climate reports online
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+Earlier this month, the government websites that hosted the authoritative, peer-reviewed national climate assessments went dark. Officials say they're only obligated to give the reports to Congress. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/trump-administration-reverses-its-promise-to-publish-key-climate-reports-online>
+
+---
+
+## Rancho Palos Verdes wants to ban new construction in the landslide area — again
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+Residents get to weigh in at a town hall Wednesday on what could be a controversial designation in the Portuguese Bend area. 
+
+<br> 
+
+<https://laist.com/news/politics/rancho-palos-verdes-wants-to-ban-new-construction-in-the-landslide-area-again>
+
+---
+
+## Getty Villa is going back to normal hours, starting this week
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+The museum partially reopened to the public with limited hours late last month, after a Palisades Fire-related closure. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/getty-villa-is-going-back-to-normal-hours-starting-this-week>
+
+---
+
+## Republicans cap student loan debt. Why that’s bad news for California medical students
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+Doctors regularly need to pay more than $300,000 for medical school, including tuition and housing. New regulations signed by President Donald Trump cap their federal borrowing at $200,000. 
+
+<br> 
+
+<https://laist.com/news/education/republicans-cap-student-loan-debt-why-thats-bad-news-for-california-medical-students>
+
+---
+
+## Her son was severely beaten by sheriff's deputies. Five years later a watchdog group is fighting for records
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+The battle for records between the Sheriff Civilian Oversight Commission and L.A. County could have implications for future transparency efforts. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/perez-la-sheriff-watchdog-records>
+
+---
+
+## The Mayan in downtown LA announces it's closing after nearly a century
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+The historic theater says it’s closing in late September and will host dance nights until Sept. 13. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/the-mayan-theater-announces-its-closing>
+
+---
+
+## Protected: 2025 College Corps Education Award Only Expansion Pilot Request for Applications
+
+date: 2025-07-15, from: CalVolunteers
+
+There is no excerpt because this is a protected post. 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/2025-college-corps-education-award-only-expansion-pilot-request-for-applications/>
+
+---
+
+## Global AIDS program PEPFAR saved from congressional funding cuts
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+The Trump administration has asked Congress to rescind funds for NPR/PBS and foreign aid. Congress has until the end of the week to approve the cuts. 
+
+<br> 
+
+<https://laist.com/news/will-congress-cut-funds-npr-pbs-and-foreign-aid-this-week>
+
+---
+
+## “In Orbit” at the Newhall Community Center
+
+date: 2025-07-15, from: City of Santa Clarita
+
+<p>Exploring the Beauty, Mystery and Infinite Possibilities of Space The City of Santa Clarita is pleased to present its latest art exhibition, “In Orbit,” now on view at the Newhall Community Center (22421 Market Street) through Wednesday, October 1. This celestial-themed showcase invites guests to explore the vast beauty and mystery of outer space through [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/15/in-orbit-at-the-newhall-community-center/">“In Orbit&#8221; at the Newhall Community Center</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/15/in-orbit-at-the-newhall-community-center/>
+
+---
+
+## The 2025 Emmy Award nominations are now out — 'Severance' leads the pack
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+The 77th annual Emmy Awards that will take place on Sept. 14. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/2025-emmy-nominations-full-list>
 
 ---
 
@@ -33,19 +209,7 @@ A Senate committee hearing is scheduled for today on a new bill that would allow
 
 ---
 
-## The 2028 Olympics is expanding access to LA youth sports. Here's how to join in
-
-date: 2025-07-15, updated: 2025-07-15, from: The LAist
-
-From surfing to adaptive sports, Los Angeles is expanding low-cost programs throughout the city. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/youth-adaptive-sports-los-angeles-2028-olympics-play-la>
-
----
-
-## A day in the life: Pasadena lawyer navigates clients and consequences while ICE raids continue
+## With ICE sweeps ongoing, Pasadena lawyer navigates clients and consequences
 
 date: 2025-07-15, updated: 2025-07-15, from: The LAist
 
@@ -69,11 +233,23 @@ Rhiannon Do, the younger daughter of former O.C. Supervisor Andrew Do, graduated
 
 ---
 
-## These small LA airports are mostly forgotten now, but they pioneered early travel
+## The 2028 Olympics is expanding access to LA youth sports. Here's how to join in
 
 date: 2025-07-15, updated: 2025-07-15, from: The LAist
 
-Before LAX, L.A. County had tons of small airports in places like Venice, Griffith Park and Glendale. 
+From surfing to adaptive sports, Los Angeles is expanding low-cost programs throughout the city. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/youth-adaptive-sports-los-angeles-2028-olympics-play-la>
+
+---
+
+## LAX too far? There were once airports in Fairfax, Glendale and Griffith Park
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+These small LA airports are mostly forgotten now, but they pioneered early travel 
 
 <br> 
 
@@ -97,7 +273,7 @@ Port officials say the tariffs roller coaster is behind the increase at the larg
 
 date: 2025-07-14, from: Longbeach Post
 
-<figure><img width="1024" height="689" src="https://img.lbpost.com/wp-content/uploads/2022/02/25143350/0224-Homeless-2-1-e1654619465297.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="689" src="https://img.lbpost.com/wp-content/uploads/2022/02/25143350/0224-Homeless-2-1-e1654619465297.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Officials reported a 4% decrease across most of the county and a 3.4% drop in the city of LA compared to a 6.5% increase in Long Beach.</p>
 <p>The post <a href="https://lbpost.com/news/homelessness-declines-in-greater-la-bucking-the-increase-seen-in-long-beach">Homelessness declines in Greater LA, bucking the increase seen in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -315,7 +491,7 @@ date: 2025-07-14, from: Longbeach Post
 
 ## Despite three 911 calls, two homebound disabled men died in the Eaton Fire waiting for rescue
 
-date: 2025-07-14, updated: 2025-07-14, from: The LAist
+date: 2025-07-14, updated: 2025-07-15, from: The LAist
 
 911 recordings obtained by LAist shed light on why and how emergency planning continues to leave people with disabilities behind. 
 

@@ -1,11 +1,123 @@
 ---
 title: north america
-updated: 2025-07-15 06:07:29
+updated: 2025-07-15 14:07:39
 ---
 
 # north america
 
-(date: 2025-07-15 06:07:29)
+(date: 2025-07-15 14:07:39)
+
+---
+
+## Superman is a Box Office Hit. But is it 'Woke'? 
+
+date: 2025-07-15, from: The Contrarian
+
+In James Gunn's reboot, the Man of Steel loves his girlfriend, cares about his dog, and treats people with kindness. Who could possibly object to that? 
+
+<br> 
+
+<https://contrarian.substack.com/p/superman-is-a-box-office-hit-but>
+
+---
+
+## Bombshell
+
+date: 2025-07-15, from: The Contrarian
+
+A cartoon by Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/bombshell>
+
+---
+
+## The Abortion Prosecution No One Is Talking About
+
+date: 2025-07-15, from: The Contrarian
+
+A test case in Texas shows the next frontier for "abortion abolitionists": homicide charges 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-abortion-prosecution-no-one-is>
+
+---
+
+## Revisiting the Russia “hoax” was never about finding the truth
+
+date: 2025-07-15, from: The Contrarian
+
+DCIA Ratcliffe gave Trump what he needed: distractions and a ready-made soundbite. 
+
+<br> 
+
+<https://contrarian.substack.com/p/revisiting-the-russia-hoax-was-never>
+
+---
+
+## Let’s Do Lunch! 07/15
+
+date: 2025-07-15, from: The Contrarian
+
+A recording from Let's Do Lunch LIVE 07/15 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168397857/8fa0275ec938e5604b8e5ca05a6f1cef.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168397857/8fa0275ec938e5604b8e5ca05a6f1cef.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/lets-do-lunch-0715>
+
+---
+
+##  Trump’s Allies Could Profit Off Privatizing Weather Forecasting Agencies 
+
+date: 2025-07-15, from: The Lever News
+
+ Businesses linked to Trump’s cabinet stand to benefit from privatizing weather monitoring agencies — leaving Americans to pay for lifesaving weather forecasts themselves.  
+
+<br> 
+
+<https://www.levernews.com/trumps-allies-could-profit-off-privatizing-weather-forecasting-agencies/>
+
+---
+
+## Justin Wolfers: Trump likes tariffs but he doesn't know why
+
+date: 2025-07-15, from: The Contrarian
+
+"Even if you think tariffs are a good idea, are incompetent, incoherent tariffs a good idea?" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168316898/39a99a7989b0597cf1fd2af7c2ee1ed8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168316898/39a99a7989b0597cf1fd2af7c2ee1ed8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/justin-wolfers-trump-likes-tariffs>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-07-15, from: The Contrarian
+
+Tuesday: Anti-ICE protests in Michigan, California, and Illinois, anti-Trump protests in Brazil, Tesla Takedowns continue, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## The Supreme Court orders fish soup
+
+date: 2025-07-15, from: The Contrarian
+
+Congress&#8217; power to control the administrative state in any substantial way seems to be hanging by a thread. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-supreme-court-orders-fish-soup>
 
 ---
 
@@ -95,18 +207,6 @@ date: 2025-07-14, from: The Lever News
 
 ---
 
-## The Contrarian covers the Democracy Movement
-
-date: 2025-07-14, from: The Contrarian
-
-Monday: The president and vice president get messages of disapproval, protests in South Carolina and California, planning for Thursday, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
-
----
-
 ## Student Debt Collections Resume, Targeting Borrowers Least Able to Pay
 
 date: 2025-07-14, from: Capital and Main
@@ -183,7 +283,7 @@ date: 2025-07-14, from: The Lever News
 
 ---
 
-##  Eight Dirty Tricks Hiding In Trump’s Tax Bill 
+##  Eight Absurd Handouts Hiding In Trump’s Tax Bill 
 
 date: 2025-07-14, from: The Lever News
 

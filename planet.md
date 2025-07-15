@@ -1,11 +1,336 @@
 ---
 title: planet
-updated: 2025-07-15 06:07:28
+updated: 2025-07-15 14:07:39
 ---
 
 # planet
 
-(date: 2025-07-15 06:07:28)
+(date: 2025-07-15 14:07:39)
+
+---
+
+## ISIF diviested all Israeli bonds in past weeks, Dáil told
+
+date: 2025-07-15, from: RTÉ News
+
+The Ireland Strategic Investment Fund has divested itself of all Israeli bonds in the past number of weeks, Minister for Finance Paschal Donohoe has told the Dáil. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0715/1523703-israeli-bonds/>
+
+---
+
+## Sinn Féin calls on Govt to improve endometriosis care
+
+date: 2025-07-15, from: RTÉ News
+
+Sinn Féin has brought a motion to the Dáil calling on the Government to deliver appropriate care to women with endometriosis. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0715/1523698-sinn-fein-endometriosis/>
+
+---
+
+## Pope: Humanity can always come together, even in times of division
+
+date: 2025-07-15, from: Vatican News
+
+
+                    <p>Pope Leo XIV sends a video message to participants in an Italian charity event, and insists on the importance of promoting dialogue and peace in a world plagued by divisions.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-video-message-heart-match-charity-children.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-video-message-heart-match-charity-children.html>
+
+---
+
+## Who are the potential runners in the race for the Áras?
+
+date: 2025-07-15, from: RTÉ News
+
+While there have been a few sparks in the early stages of the race for the Áras, the presidential election campaign is yet to fully catch fire. Here we look some of the potential runners and riders for the 2025 Presidential Election. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0715/1523687-presidential-election/>
+
+---
+
+## Ireland's 'oldest person' dies at 108
+
+date: 2025-07-15, from: RTÉ News
+
+Sarah Coyle, the woman who is believed to have been Ireland's oldest person, has died at the age of 108, her family has confirmed. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0715/1523695-sarah-coyle/>
+
+---
+
+## Apple escrow account rises in value by €470m
+
+date: 2025-07-15, from: RTÉ News
+
+The fund holding back tax from iPhone-maker Apple owed to the Irish State rose in value by €470 million after expenses in the 16 months to May of this year. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0715/1523696-apple-fund/>
+
+---
+
+## DRC: Thanksgiving Eucharistic celebration for Blessed Floribert Bwana Chui held in Goma  
+
+date: 2025-07-15, from: Vatican News
+
+
+                    <p>The first Eucharistic celebration in memory of Blessed Floribert Bwana Chui, now commemorated every 8 July, was recently celebrated in the Democratic Republic of the Congo’s city of Goma—the hometown of Blessed Floribert. The principal celebrant in Goma was Archbishop Fulgence Muteba, the President of the Episcopal Conference of Congo and Archbishop of Lubumbashi.  </p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-07/drc-thanksgiving-eucharistic-celebration-for-blessed-floribert.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-07/drc-thanksgiving-eucharistic-celebration-for-blessed-floribert.html>
+
+---
+
+## Coroner rejects calls to refer death of farmer to gardaí
+
+date: 2025-07-15, from: RTÉ News
+
+A coroner has rejected calls to refer the circumstances of the death of an elderly Offaly farmer on the day after he got married to gardaí for a detailed forensic investigation. 
+
+<br> 
+
+<https://www.rte.ie/news/leinster/2025/0715/1523694-offaly-inquest/>
+
+---
+
+## How has Russia responded to Trump's 50-day ultimatum?
+
+date: 2025-07-15, from: RTÉ News
+
+Senior Russian officials have shrugged off yesterday's ultimatum by US President Donald Trump that the United States will impose tariffs on Russia and its trading partners if Moscow fails to halt its war in Ukraine within 50 days. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0715/1523646-russia-tariffs/>
+
+---
+
+## Gardaí contacted over 950 times since school abuse appeal
+
+date: 2025-07-15, from: RTÉ News
+
+Gardaí have been contacted more than 950 times since their appeal last September relating to historical sexual abuse at schools run by religious orders. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0715/1523688-historical-abuse-schools/>
+
+---
+
+## Govt set to defer health labelling on alcohol until 2029
+
+date: 2025-07-15, from: RTÉ News
+
+The Government is set to defer plans to require health labelling on alcoholic drinks until 2029. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0715/1523683-labelling-alcohol/>
+
+---
+
+## 9 First Nations ask court to strike down federal, Ontario bills allowing infrastructure fast-tracking
+
+date: 2025-07-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7551015.1748969336!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/ont-debates-20250602.jpg' alt='Protestor holding a sign that reads, Kill Bill 5.  ' width='620' height='349' title='Several hundred First Nations protested Bill 5 on the front lawn of Queen&apos;s Park on Monday. Communities across the province have said the bill violates their treaty rights.'/><p>Nine First Nations in Ontario are asking for a court-ordered injunction that would prevent the federal and provincial governments from using newly passed laws to fast-track infrastructure projects.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/sudbury/first-nations-court-federal-ontario-bills-infrastructure-1.7585443?cmp=rss>
+
+---
+
+## 1st look at HBO's new Harry Potter as TV adaptation of books gets underway
+
+date: 2025-07-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7585741.1752609152!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/tv-harry-potter.jpg' alt='Young boy with brown hair and round wire glasses in a school uniform shirt and tie' width='620' height='349' title='This image released by HBO shows Dominic McLaughlin, who will portray Harry Potter, on the set of HBO series &quot;Harry Potter,&quot; scheduled for 2027. '/><p>HBO has officially started production on the highly anticipated Harry Potter TV series adaption, the network announced Monday, as it also provided a first look at the titular character.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/hbo-harry-potter-tv-star-1.7585719?cmp=rss>
+
+---
+
+## Colin Farrell, Sharon Horgan, Ruth Negga get Emmy nods
+
+date: 2025-07-15, from: RTÉ News
+
+Colin Farrell, Sharon Horgan and Ruth Negga have all been nominated for Emmy awards ahead of the ceremony that takes place in Los Angeles on September 14. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0715/1523668-colin-farrell-lands-emmy-nomination-for-the-penguin/>
+
+---
+
+## Government approves final steps for Ireland to join CERN
+
+date: 2025-07-15, from: RTÉ News
+
+The Government has approved the final steps for Ireland to become an associate member of the European Organisation for Nuclear Research. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0715/1523666-ireland-cern/>
+
+---
+
+## IN PHOTOS | Ancient Roman mosaic returns to Pompeii after being looted by the Nazis
+
+date: 2025-07-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7585630.1752604849!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/italy-pompeii.JPG' alt='A square piece of art made by small fragments of various colored glass and stone is pictured in a wood frame.' width='620' height='349' title='An ancient Roman mosaic showing a half-naked couple, is displayed at the Pompeii Archaeological Park in Italy, in this handout released July 15, 2025. The artwork was recently returned to Pompeii, more than 80 years after it was stolen by a Nazi officer during World War II. Pompeii Archaeological Park/Ministry of Culture/Handout via REUTERS. THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. NO RESALES. NO ARCHIVES.'/><p>An ancient Roman mosaic is brought back to Pompeii after nearly 80 years away following the Second World War.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/photos/pompeii-mosaic-return-1.7585622?cmp=rss>
+
+---
+
+## The Church prepares its first Jubilee for Catholic influencers
+
+date: 2025-07-15, from: Vatican News
+
+
+                    <p>Rome prepares to host thousands of digital missionaries for a landmark gathering of prayer, formation, and fraternity on July 28–29.
+</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/vatican-jubilee-catholic-influencers-hymn.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/vatican-jubilee-catholic-influencers-hymn.html>
+
+---
+
+## CRU approves 9.8% hike in water charges for businesses
+
+date: 2025-07-15, from: RTÉ News
+
+The Commission for Regulation of Utilities (CRU) has approved a 9.8% increase in water charges for businesses. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0715/1523659-cru-approves-9-8-hike-in-water-charges-for-businesses/>
+
+---
+
+## 2 dead in New Jersey after heavy rain, flash floods hit U.S. northeast
+
+date: 2025-07-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7585568.1752605014!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-severe-weather-northeast.jpg' alt='A gray car with its windows smashed sits on top of a pile of debrise under a blue and cloudy sky.' width='620' height='349' title='Debris, rubble and a damaged car lie on a street after flooding from rains in the area of North Plainfield, N.J., Tuesday, July 15, 2025. (AP Photo/Seth Wenig)'/><p>Two people in New Jersey were killed after their vehicle was swept up in flood waters during a storm that moved across the U.S. Northeast overnight, authorities said Tuesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/floods-storms-us-northeast-1.7585579?cmp=rss>
+
+---
+
+## Men jailed for felling Britain's iconic Sycamore Gap tree
+
+date: 2025-07-15, from: RTÉ News
+
+Two men have each been jailed for over four years for cutting down Britain's Sycamore Gap tree, a much-loved and well-known global landmark whose dramatic silhouette had featured in a Hollywood movie. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0715/1523658-sycamore-gap-tree/>
+
+---
+
+## As it happened: Cttee hears scrutiny of OTB
+
+date: 2025-07-15, from: RTÉ News
+
+Follow live developments from the Joint Committee on Foreign Affairs and Trade as it considers the Occupied Territories Bill. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0715/1523642-occupied-territories-bill/>
+
+---
+
+## Church leaders condemn settler violence in West Bank
+
+date: 2025-07-15, from: Vatican News
+
+
+                    <p>The Latin and Greek Orthodox patriarchs of Jerusalem, together with foreign diplomats, pay a visit to the last Christian village on the West Bank, which in recent weeks has come under frequent attack from settlers.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/church-leaders-condemn-settler-violence-in-west-bank.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/church-leaders-condemn-settler-violence-in-west-bank.html>
+
+---
+
+## Man who tried to ram garda car jailed for over five years
+
+date: 2025-07-15, from: RTÉ News
+
+A man who attempted to ram a garda car following a high-speed chase in Dublin has been jailed for five years and three months. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0715/1523644-mark-kavanagh-court/>
+
+---
+
+## South Sudan’s Bishops call for peace, justice, and reconciliation
+
+date: 2025-07-15, from: Vatican News
+
+
+                    <p>Amid rising violence and political instability, Church leaders demand action and accountability from South Sudan’s government.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/south-sudan-s-bishops-call-for-peace-justice-and-reconciliatio.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/south-sudan-s-bishops-call-for-peace-justice-and-reconciliatio.html>
+
+---
+
+## Doctors Without Borders releases report on killings of aid workers
+
+date: 2025-07-15, from: Vatican News
+
+
+                    <p>The medical charity investigates the deaths of three of its aid workers in 2021 during the height of the Tigray conflict in Ethiopia.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/doctors-without-borders-investigates-killings-of-aid-workers.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/doctors-without-borders-investigates-killings-of-aid-workers.html>
 
 ---
 
@@ -33,6 +358,18 @@ A number of political parties have expressed having an open mind on agreeing Cat
 
 ---
 
+## McGuinness to be FG nominee, Connolly to launch Áras bid
+
+date: 2025-07-15, from: RTÉ News
+
+Former EU Commissioner Mairead McGuinness will be Fine Gael's candidate for the presidential election, while Independent TD Catherine Connolly is expected to launch her own campaign for the Presidency tomorrow. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0715/1523624-ireland-presidential-election/>
+
+---
+
 ## Dicastery for the Clergy
 
 date: 2025-07-15, from: Vatican News
@@ -46,6 +383,78 @@ date: 2025-07-15, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-the-clergy.html>
+
+---
+
+## Scores killed in Sudan’s Kordofan region as fighting intensifies
+
+date: 2025-07-15, from: United Nations, Top Stories
+
+Intensifying clashes in Sudan’s Kordofan region between rival militaries have killed hundreds and wounded many more in recent days, warned the UN humanitarian affairs office (OCHA) on Tuesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165402>
+
+---
+
+## Global demand for meat and dairy set to rise, but climate and nutrition gaps remain
+
+date: 2025-07-15, from: United Nations, Top Stories
+
+Global demand for meat, dairy and fish is projected to climb steadily over the next decade, driven by rising incomes and urbanisation in middle-income countries. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165401>
+
+---
+
+## UN urges de-escalation, protection of civilians as conflict roils Syria
+
+date: 2025-07-15, from: United Nations, Top Stories
+
+Inter-ethnic violence in Syria’s predominantly Druze city of Sweida has been met with government intervention, Israeli airstrikes – and on Tuesday, a reported ceasefire announcement by Syria’s defence minister.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165400>
+
+---
+
+## Seeding gender empowerment: Women farmers in Peru contend with climate change
+
+date: 2025-07-15, from: United Nations, Top Stories
+
+First, it was floods that inundated fields and washed away crops. Then, it was drought which led the levels of lakes to plummet and the crops to shrivel.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165398>
+
+---
+
+## Ukraine: Civilians under fire in record numbers as attacks surge
+
+date: 2025-07-15, from: United Nations, Top Stories
+
+Relentless missile and drone strikes by Russian forces have killed and injured hundreds of civilians in Ukraine this month, continuing a devastating pattern of attacks far from the frontlines. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165397>
+
+---
+
+## Gaza: 875 people confirmed dead trying to source food in recent weeks
+
+date: 2025-07-15, from: United Nations, Top Stories
+
+Nearly 900 desperate and hungry Gazans have been killed in recent weeks trying to fetch&nbsp;food, with most deaths linked to private aid hubs run by the so-called Gaza Humanitarian Foundation (GHF), the UN human rights office, OHCHR, said on Tuesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165396>
 
 ---
 
@@ -261,7 +670,7 @@ date: 2025-07-15, from: Vatican News
 
 ---
 
-## Fauja Singh, world's oldest marathoner who ran his best time in Toronto, dead at 114
+## Fauja Singh, world's oldest marathoner, dies at 114 after being hit by a car
 
 date: 2025-07-15, from: CBC, World News
 
@@ -353,11 +762,11 @@ The GAA Palestine group has officially lodged an appeal over the denial of visas
 
 ---
 
-## Israel launches airstrikes on Hezbollah targets in Lebanon's Bekaa valley
+## Israel launches deadly airstrikes on Hezbollah targets in Lebanon's Bekaa Valley
 
 date: 2025-07-15, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7585169.1752576987!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2190592944.jpg' alt='Dozens of long guns are shown lying on the ground outdoors.' width='620' height='349' title='Weapons and other equipment which the Israeli army says belonged to Hezbollah are displayed for the media on Dec. 23, 2024, in a northern Israeli military base. A ceasefire had been reached a month earlier, but Israel has accused the militant group of violating its terms.'/><p>Israeli military said it had begun striking targets belonging to Hezbollah's elite unit, the Radwan Force, in the Bekaa region of eastern Lebanon, as it accuses the Iran-backed Islamist group of seeking to rebuild its forces in violation of a ceasefire agreement.</p> 
+<img src='https://i.cbc.ca/1.7585169.1752576987!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2190592944.jpg' alt='Dozens of long guns are shown lying on the ground outdoors.' width='620' height='349' title='Weapons and other equipment which the Israeli army says belonged to Hezbollah are displayed for the media on Dec. 23, 2024, in a northern Israeli military base. A ceasefire had been reached a month earlier, but Israel has accused the militant group of violating its terms.'/><p>Israeli strikes on Lebanon's Bekaa region on Tuesday killed 12 people, the region's governor Bachir Khodr told Reuters, in the deadliest airstrikes since last year's truce ended months of fighting between Israel and the armed group Hezbollah.</p> 
 
 <br> 
 
@@ -425,11 +834,11 @@ Irish stars Colin Farrell, Lola Petticrew, and Nicola Coughlan have been tipped 
 
 ---
 
-## Committee to hear from Shatter, Palestine Alliance on OTB
+## Shatter likens OTB to laws seen 'in 1930s Germany'
 
 date: 2025-07-15, from: RTÉ News
 
-Consideration of the Occupied Territories Bill will resume at the Oireachtas Committee of Foreign Affairs this afternoon. 
+The Oireachtas Foreign Affairs Committee has heard stinging criticism of the Occupied Territories Bill from former minister for justice Alan Shatter, who likened it to legislation passed in Germany in the 1930s. 
 
 <br> 
 
@@ -437,11 +846,11 @@ Consideration of the Occupied Territories Bill will resume at the Oireachtas Com
 
 ---
 
-## EU to discuss action against Israel over Gaza war conduct
+## Divided EU leaves action against Israel on Gaza on table
 
 date: 2025-07-15, from: RTÉ News
 
-EU foreign ministers will discuss a raft of options for action against Israel over the war in Gaza - but likely will not agree on any. 
+EU foreign policy chief Kaja Kallas has said the bloc was leaving the door open to action against Israel over the war in Gaza if the humanitarian situation does not improve. 
 
 <br> 
 
@@ -509,11 +918,11 @@ A fresh appeal for information has been issued by gardaí as part of the investi
 
 ---
 
-## Ireland 'at moment of major economic challenge' - Harris
+## Framework deal on EU-US trade was 'tantalisingly close'
 
 date: 2025-07-14, from: RTÉ News
 
-Ireland is "now at a moment of major economic challenge", according to Tánaiste Simon Harris, who will tell Cabinet that threatened trade tariffs of 30% by the US could have a significant impact on the economy. 
+A framework agreement on trade between the European Union and the United States was "tantalisingly close" before President Donald Trump's letter threatening a 30% tariff on imports from the EU, the Tánaiste has said. 
 
 <br> 
 
@@ -946,6 +1355,30 @@ The head of UN child rights agency UNICEF has called for Israel to review its ru
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/07/1165386>
+
+---
+
+## Yemen: Security Council extends UN mission in crucial port city amid escalating Red Sea strife
+
+date: 2025-07-14, from: United Nations, Top Stories
+
+The Security Council on Monday renewed the mandate of the UN mission in Yemen’s key port city of Hudaydah, as regional tensions spike and international concern mounts over recent Houthi rebel attacks on shipping in the Red Sea. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165395>
+
+---
+
+## Sudan: Humanitarian needs deepen amid rising hostilities and heavy rains
+
+date: 2025-07-14, from: United Nations, Top Stories
+
+Escalating violence, displacement and heavy rains are deepening the needs of civilians caught in the war in Sudan, the UN humanitarian affairs office, OCHA, said on Monday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165392>
 
 ---
 

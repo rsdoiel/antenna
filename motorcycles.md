@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2025-07-15 06:07:36
+updated: 2025-07-15 14:07:44
 ---
 
 # motorcycles
 
-(date: 2025-07-15 06:07:36)
+(date: 2025-07-15 14:07:44)
+
+---
+
+## This Is Clearly The Best Way To Go To The Office, Right?
+
+date: 2025-07-15, from: Ride Apart, Electric Motorcycle News
+
+To show off its new EV trials bike, Honda knew just the trials expert to hand it over to. 
+
+<br> 
+
+<https://www.rideapart.com/news/765843/honda-ev-trials-bike-office-video/>
+
+---
+
+## Can-Am Is Recalling Its Brand-New Canyon Over Potential Belt Failure
+
+date: 2025-07-15, from: Ride Apart, Electric Motorcycle News
+
+The component that's the subject of this recall is ONLY found on this model, not any other Can-Am 3-wheelers. 
+
+<br> 
+
+<https://www.rideapart.com/news/765837/can-am-canyon-belt-recall/>
 
 ---
 

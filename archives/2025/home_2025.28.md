@@ -1,11 +1,102 @@
 ---
 title: home
-updated: 2025-07-15 06:07:35
+updated: 2025-07-15 14:07:44
 ---
 
 # home
 
-(date: 2025-07-15 06:07:35)
+(date: 2025-07-15 14:07:44)
+
+---
+
+## Why Some Cars Have a Small Seatbelt in the Middle of the Back Seat
+
+date: 2025-07-15, from: Family Handyman Blog
+
+<p>Learn what pregnancy seat belt adjusters are, whether they’re safe or legal, and how to correctly wear a standard seat belt during pregnancy for comfort and protection.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/why-some-cars-have-a-small-seatbelt-in-the-middle-of-the-back-seat/">Why Some Cars Have a Small Seatbelt in the Middle of the Back Seat</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/why-some-cars-have-a-small-seatbelt-in-the-middle-of-the-back-seat/>
+
+---
+
+## How They Pulled It Off: An Upside-Down House Rises From a 19th-Century Railbed
+
+date: 2025-07-15, from: Dwell
+
+A family home by Materia Prima Studio takes cues from a forgotten rail line—flipping tradition on its head with an inverted layout, a planted roof, and a timber pavilion overlooking the treetops. 
+
+<br> 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-an-upside-down-house-rises-from-the-forest-marvin-f9c42ce5>
+
+---
+
+## Steve Jobs Named Apple After Living at This Oregon Orchard, Now Listed for $5M
+
+date: 2025-07-15, from: Dwell
+
+Steeped in counterculture history, the 387-acre property includes a greenhouse, barn, fishing pond, guesthouse, and cabin. 
+
+<br> 
+
+<https://www.dwell.com/article/steve-jobs-apple-orchard-mcminnville-oregon-real-estate-3dd17c9a>
+
+---
+
+## Of Course the Kitchen Matches the Indoor Pool at This Swedish Villa
+
+date: 2025-07-15, from: Dwell
+
+The home’s original green wallpaper inspired a forest-fresh color story for its renovation. 
+
+<br> 
+
+<https://www.dwell.com/article/villa-by-the-river-in-praise-of-shadows-indoor-pool-sensitive-renovation-3f68ba3d>
+
+---
+
+## How to Use Shade Cloth in the Greenhouse
+
+date: 2025-07-15, from: The Gardener's Path
+
+<p>Shade cloth can make a massive difference to the growing environment of a greenhouse. It can increase the humidity and lower the temperature inside your structure, and protect plants from too much sun, allowing you to grow species unsuitable for your climate. Learn how to use shade cloth in your greenhouse in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/greenhouses-and-coldframes/shade-cloth-greenhouse/">How to Use Shade Cloth in the Greenhouse</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/greenhouses-and-coldframes/shade-cloth-greenhouse/>
+
+---
+
+## 42 Types of Clematis Plants (With Pictures and Identification)
+
+date: 2025-07-15, from: Yard Life blog
+
+<p>Clematis is one of the most admired climbing plants, celebrated for its striking flowers, wide range of colors, and long ... </p>
+<p class="read-more-container"><a title="42 Types of Clematis Plants (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/42-types-of-clematis-plants-with-pictures-and-identification/#more-32093" aria-label="Read more about 42 Types of Clematis Plants (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/42-types-of-clematis-plants-with-pictures-and-identification/">42 Types of Clematis Plants (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/42-types-of-clematis-plants-with-pictures-and-identification/>
+
+---
+
+## Stylish Dog Beds That Aren’t a Nightmare to Clean
+
+date: 2025-07-15, from: Dwell
+
+My dog Archie deserves a bed that looks just as good as he does—and your pet does, too. 
+
+<br> 
+
+<https://www.dwell.com/article/design-dog-beds-0822a283>
 
 ---
 
@@ -20,6 +111,54 @@ date: 2025-07-15, from: California Native Plants Society
 <br> 
 
 <https://www.cnps.org/flora-magazine/advocacy-corps-next-generation-cnps-43821>
+
+---
+
+## How This Ojai Bungalow Was Saved After Multiple DIY Projects Ruined Its Layout
+
+date: 2025-07-15, from: Sunset Magazine - Living in the West
+
+This bungalow in Ojai originally had a large number of DIY projects that complicated its layout. Here's how it was fixed. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/ojai-spanish-style-bungalow>
+
+---
+
+## Raging Wildfires in Grand Canyon National Park Destroy Historic Lodge
+
+date: 2025-07-15, from: Sunset Magazine - Living in the West
+
+The two wildfires burning at or near the Grand Canyon's National Park North Rim have consumed thousands of acres and a historic lodge. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/grand-canyon-lodge-wildfires>
+
+---
+
+## Homepage 2025
+
+date: 2025-07-15, from: Sunset Magazine - Living in the West
+
+Decorating &amp; Design The Design Industry&#8217;s Coolest Trend Is Hiding in Plain Sight Now you see it… now you don&#8217;t.  Read more: The Design Industry&#8217;s Coolest Trend Is Hiding in Plain Sight&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## The Design Industry’s Coolest Trend Is Hiding in Plain Sight
+
+date: 2025-07-15, from: Sunset Magazine - Living in the West
+
+Recently, a handful of interior designers have been making a statement with hidden doors. Here's how to pull it off at home. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/hidden-doorway-design-trend>
 
 ---
 
@@ -406,30 +545,6 @@ date: 2025-07-14, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/30-types-of-honeysuckle-plants-with-pictures-and-identification/>
-
----
-
-## Homepage 2025
-
-date: 2025-07-14, from: Sunset Magazine - Living in the West
-
-Decorating &amp; Design, Home Tours How This Ojai Bungalow Was Saved After Multiple DIY Projects Ruined Its Layout The Spanish-style home now has a more cohesive style.  Read more: How This&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
-## Raging Wildfires in Grand Canyon National Park Destroy Historic Lodge
-
-date: 2025-07-14, from: Sunset Magazine - Living in the West
-
-The two wildfires burning at or near the Grand Canyon's National Park North Rim have consumed thousands of acres and a historic lodge. 
-
-<br> 
-
-<https://www.sunset.com/travel/national-parks/grand-canyon-lodge-wildfires>
 
 ---
 

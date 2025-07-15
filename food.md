@@ -1,11 +1,131 @@
 ---
 title: food
-updated: 2025-07-15 06:07:37
+updated: 2025-07-15 14:07:46
 ---
 
 # food
 
-(date: 2025-07-15 06:07:37)
+(date: 2025-07-15 14:07:46)
+
+---
+
+## The Best Nontoxic Cookware, Tested by Our Experts (2025)
+
+date: 2025-07-15, from: Bon Appetet
+
+We wade through the marketing terms to talk about the nonstick cookware you should—or shouldn’t—actually be buying. 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-best-nontoxic-cookware-tested-by-our-experts>
+
+---
+
+## Tyler Smith’s Homemade Fish Sticks
+
+date: 2025-07-15, from: Taste of Home
+
+Skip the old-school frozen meal and go with these elevated fish sticks. The fish is coated in a beer batter and deep-fried, then served with a kicking Buffalo tartar sauce. —Tyler Smith, Virginia Beach, Virginia 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tyler-smith-homemade-fish-sticks/>
+
+---
+
+## Elise Jesse’s Chicken Tower
+
+date: 2025-07-15, from: Taste of Home
+
+This Mediterranean chicken tower is simple to make but delivers bold, restaurant-worthy flavor. The marinade comes together in minutes using pantry staples and fresh herbs, and the yogurt dressing can be made ahead of time. The dish is stacked high like a centerpiece so it's perfect for dinner parties, allowing guests to carve as much or as little as they’d like. To fill out the meal, serve the chicken over rice, in wraps or with roasted veggies. —Elise Jesse, Cincinnati, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/elise-jesse-chicken-tower/>
+
+---
+
+## Inside La Marzocco’s New Shop-In-A-Shop In Seoul
+
+date: 2025-07-15, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Does your department store have a La Marzocco shop in it? 
+
+<br> 
+
+<https://sprudge.com/inside-la-marzoccos-new-shop-in-a-shop-in-seoul-378620.html>
+
+---
+
+## Application Deadline Nears for 2026 Roaster of the Year Award
+
+date: 2025-07-15, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/ROY2026-header-620x413.png" class="attachment-large size-large wp-post-image" alt="ROY2026-header" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/ROY2026-header-620x413.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/ROY2026-header-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/ROY2026-header-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/ROY2026-header-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/ROY2026-header.png 1200w" sizes="(max-width: 620px) 100vw, 620px" /></div>The July 23 deadline for Roast magazine’s prestigious Roaster of the Year Award for 2026 is fast approaching.&#160;Now in its 22nd year, the award recognizes excellence across two categories: Micro... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/15/application-deadline-nears-for-2026-roaster-of-the-year-award/>
+
+---
+
+## Best Pizza Stones and Steel for Crispy Pies in Your Oven (2025)
+
+date: 2025-07-15, from: Bon Appetet
+
+Your pizza night just got an upgrade. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-pizza-stone-and-pizza-steel>
+
+---
+
+## The Best Pizza in Detroit
+
+date: 2025-07-15, from: Bon Appetet
+
+Detroit-style pizza has fueled the Motor City for generations. From a vegan newcomer to tried-and-true classics, these are the best versions. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-pizza-restaurants-detroit>
+
+---
+
+## Builld-Outs Of Coffee: Eventide Coffee In Chennai, India
+
+date: 2025-07-15, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Eventide Coffee in Chennai, India. 
+
+<br> 
+
+<https://sprudge.com/builld-outs-of-coffee-eventide-coffee-in-chennai-india-348356.html>
+
+---
+
+## A Closer Look at Value Distribution in Specialty Coffee Markets
+
+date: 2025-07-15, from: Daily Coffee News
+
+<div><img width="620" height="297" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices-620x297.jpg" class="attachment-large size-large wp-post-image" alt="Screenshot" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices-620x297.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices-300x144.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices-150x72.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices-768x368.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices-1536x736.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices.jpg 2016w" sizes="(max-width: 620px) 100vw, 620px" /></div>We recently published a study in World Development that shows – using real coffee transaction data — how most of the economic benefits associated with quality improvements are not reaching... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/15/a-closer-look-at-value-distribution-in-specialty-coffee-markets/>
+
+---
+
+## Greek Roaster Maker IRM Goes All In on AI
+
+date: 2025-07-15, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/IRM_-15-620x414.jpg" class="attachment-large size-large wp-post-image" alt="IRM_ 15" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/IRM_-15-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/IRM_-15-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/IRM_-15-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/IRM_-15-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/IRM_-15.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Greek industrial equipment maker IRM Coffee Roasting Machines took a major step into artificial intelligence with the launch of new roasting profiling and automation software for all its hot-air machines.... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/15/greek-roaster-maker-irm-goes-all-in-on-ai/>
 
 ---
 
@@ -35,11 +155,11 @@ We’ve got sausage with cabbage and giardiniera, tomato aguachile, and matcha-b
 
 ---
 
-## SEO: Tomato Prices May Go Up This Summer
+## Tomato Prices May Go Up This Summer
 
 date: 2025-07-15, from: Bon Appetet
 
-The 17 percent duty that went into effect today jolts historic trade patterns and will likely raise prices by as much as 10 percent. 
+The 17% duty that went into effect today jolts historic trade patterns and will likely raise prices by as much as 10%. 
 
 <br> 
 
@@ -139,7 +259,7 @@ Depending where you live, you may not have access to amazing Korean barbecue res
 
 date: 2025-07-14, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/cafe-do-brasil-620x414.png" class="attachment-large size-large wp-post-image" alt="cafe do brasil" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/cafe-do-brasil-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/cafe-do-brasil-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/cafe-do-brasil-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/cafe-do-brasil-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/cafe-do-brasil.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The head of the Brazilian coffee exporters council CECAFÉ said 50% tariffs on U.S. imports from Brazil would result in economic losses on both sides, with higher prices likely to... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/cafe-do-brasil-620x414.png" class="attachment-large size-large wp-post-image" alt="cafe do brasil" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/cafe-do-brasil-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/cafe-do-brasil-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/cafe-do-brasil-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/cafe-do-brasil-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/cafe-do-brasil.png 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The head of the Brazilian coffee exporters council CECAFÉ said 50% tariffs on U.S. imports from Brazil would result in economic losses on both sides, with higher prices likely to... 
 
 <br> 
 
@@ -177,7 +297,7 @@ Omakase, which means trust me, is a Japanese serving style where the customer en
 
 date: 2025-07-14, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Artisan-Acaia-Cosmo-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Artisan Acaia Cosmo" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Artisan-Acaia-Cosmo-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Artisan-Acaia-Cosmo-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Artisan-Acaia-Cosmo-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Artisan-Acaia-Cosmo-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Artisan-Acaia-Cosmo.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee accessories maker Acaia and open-source coffee roasting software company Artisan recently collaborated to create a pair of scales optimized for coffee roasteries, called the Cosmo. The 10-kilo capacity Cosmo... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Artisan-Acaia-Cosmo-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Artisan Acaia Cosmo" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Artisan-Acaia-Cosmo-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Artisan-Acaia-Cosmo-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Artisan-Acaia-Cosmo-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Artisan-Acaia-Cosmo-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Artisan-Acaia-Cosmo.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Coffee accessories maker Acaia and open-source coffee roasting software company Artisan recently collaborated to create a pair of scales optimized for coffee roasteries, called the Cosmo. The 10-kilo capacity Cosmo... 
 
 <br> 
 

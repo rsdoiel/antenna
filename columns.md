@@ -1,11 +1,173 @@
 ---
 title: columns
-updated: 2025-07-15 06:07:32
+updated: 2025-07-15 14:07:42
 ---
 
 # columns
 
-(date: 2025-07-15 06:07:32)
+(date: 2025-07-15 14:07:42)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-15, from: Dave Winer's Scripting News)
+
+Part of the reason I don't like it is that I pay for the NYT and read very little of it, and most of what I read I think is bullshit. But there still is a bit of credibility in it. So even though I'm over-paying for this, they still want <i>more</i> money. Every fucking time I go to the site they stop me to be sure now isn't the time I'm going to go for the "full package." Even if I did, I'm sure there would be an even bigger package that I could pay more money for and not read like the rest of their bullshit. I hate them more than I usually would because I used to trust them, when I was a kid, I trusted them blindly. Being betrayed like that, ugh. BTW the NYT is my hometown paper, but you know what they don't even cover the Mets and Knicks. Fuck that shit. (Said in the NY fucking dialect of English.) 
+
+<br> 
+
+<http://scripting.com/2025/07/15.html#a202330>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-15, from: Dave Winer's Scripting News)
+
+I really like the Wikipedia <a href="https://www.google.com/search?q=%22the+internet+we+were+promised%22">slogan</a>, "The internet we were promised." 
+
+<br> 
+
+<http://scripting.com/2025/07/15.html#a201615>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-15, from: Dave Winer's Scripting News)
+
+I was going to recommend an <a href="https://podcasts.apple.com/us/podcast/is-congress-about-to-kill-this-local-radio-station/id1200361736?i=1000716812485">episode</a> of The Daily podcast, but when I found the show page on Apple podcasts, it said it was <a href="https://imgs.scripting.com/2025/07/15/subscribersOnly.png">subscribers only</a>. They interviewed the person who runs <a href="https://www.kfsk.org/">KFSK</a>, an Alaska public radio station. Very revealing. I listened to it in a standard commercial podcast client. How did it know that I am a NYT subscriber, so I could listen? I heard from a few people who don't subscribe to the NYT, they can't get through. There was a lot of cooperation going on there, and I don't really like listening to episodes that I can't pass on to friends. That's cheap, I also don't read Krugman any longer for the same reason I guess. I'm going to start recommending specific episodes of podcasts, but only ones that everyone can listen to. Not even sure why I want to do that, but it feels right. If the money went to KFSK I would definitely feel better. 
+
+<br> 
+
+<http://scripting.com/2025/07/15.html#a200351>
+
+---
+
+##  After dealing with years of &#8220;Xfinity&#8217;s bullcrap&#8221; as customers, a pair of... 
+
+date: 2025-07-15, updated: 2025-07-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047146-after-dealing-with-years->
+
+---
+
+##  Best of Luck With the Wall 
+
+date: 2025-07-15, updated: 2025-07-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/best-of-luck-with-the-wall-1>
+
+---
+
+##  &#8220;BuildMyTransit is a web app to design, visualize, and simulate New York... 
+
+date: 2025-07-15, updated: 2025-07-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047153-buildmytransit-is-a-web-a>
+
+---
+
+## The Party of ‘Free Speech’
+
+date: 2025-07-15, updated: 2025-07-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theatlantic.com/newsletters/archive/2025/07/trump-rosie-odonnell-citizenship-free-speech/683530/>
+
+---
+
+## July 14, 2025
+
+date: 2025-07-15, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168405347/72e80e3bd00e8618edbdcb7d28081ed5.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168405347/72e80e3bd00e8618edbdcb7d28081ed5.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-14-2025-c86>
+
+---
+
+##  Historical Tech Tree. &#8220;The tech tree is an interactive visualization of technological... 
+
+date: 2025-07-15, updated: 2025-07-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047077-historical-tech-tree-the->
+
+---
+
+##  The Best Brushes Are the Ones You Make Yourself 
+
+date: 2025-07-15, updated: 2025-07-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/the-best-brushes-are-the-ones-you-make-yourself>
+
+---
+
+##  Marc Andreessen Is a Traitor. &#8220;He has betrayed the very system that... 
+
+date: 2025-07-15, updated: 2025-07-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047151-marc-andreessen-is-a-trai>
+
+---
+
+## Tuesday, 15 July 2025
+
+date: 2025-07-15, from: Doc Searls (at Harvard), New Old Blog
+
+Redraw your own conclusions. Just one air travel adventure. Cable is toast. And free TV from an antenna is crumbs. Nearly half of all TV watching is to streams. And Netflix counts for 42% of the gains. “Ginny &#38; Georgia&#34; led the way. And how will you dispute it if the AI is wrong? Ding your rental car [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/15/tuesday-15-july-2025/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-07-15, from: Miguel de Icaza Mastondon feed)
+
+<p>My talk on spicing up your iOS and Mac apps by embedding Godot content is out: </p><p><a href="https://www.youtube.com/watch?v=1V1G6H-vzxU" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="">youtube.com/watch?v=1V1G6H-vzxU</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114857824209448962>
+
+---
+
+##  Please Shout Fire. This Theater Is Burning. &#8220;The United States is being... 
+
+date: 2025-07-15, updated: 2025-07-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047148-please-shout-fire-this-th>
 
 ---
 
@@ -72,7 +234,7 @@ total: 598
 
 **@Dave Winer's Scripting News** (date: 2025-07-15, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2020/05/02/lbj.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm going to add a command to <a href="https://wordland.social/">WordLand</a> that lets you quickly edit the text of the current post in Markdown. So if you you can quickly change the URL on a link. Or just see what you got when you pasted some text into the document. The thing I don't want to do is a full-blown Markdown editor. I want to do that too at some point, or leave the door open for other developers to do it. I'm not trying to own the market for nice editors for WordPress, I just want to open the market. And along the way I'm going to do a bunch of marketing for WordPress that it really needs. I hope Matt and company appreciate this. WordPress needs, imho, a kind of love and support that honestly it hasn't been getting. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/05/02/lbj.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm going to add a command to <a href="https://wordland.social/">WordLand</a> that lets you quickly edit the text of the current post in Markdown. An <a href="https://daveverse.org/2025/07/15/tuning-up-my-markdown/">example</a> of a post I edited with the new command. So if you you can quickly change the URL on a link. Or just see what you got when you pasted some text into the document. It's for tuning up your text. The thing I don't want to do is a full-blown Markdown editor. I want to do that too at some point, or leave the door open for other developers to do it. I'm not trying to own the market for nice editors for WordPress, I just want to open the market. And along the way I'm going to do a bunch of marketing for WordPress that it really needs. I hope Matt and company appreciate this. WordPress needs, imho, a kind of love and support that honestly it hasn't been getting. 
 
 <br> 
 

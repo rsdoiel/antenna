@@ -1,11 +1,119 @@
 ---
 title: writing
-updated: 2025-07-15 06:07:33
+updated: 2025-07-15 14:07:43
 ---
 
 # writing
 
-(date: 2025-07-15 06:07:33)
+(date: 2025-07-15 14:07:43)
+
+---
+
+## Former Big Break Top 3 Finalist Pivots From Screenplay to Graphic Novel to Share Powerful Story
+
+date: 2025-07-15, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/former-big-break-top-3-finalist-pivots-from-screenplay-to-graphic-novel" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Image%20from%20The%20Revolution%20of%20Cassandra%20Graphic%20Novel%20of%20a%20young%20edgy%20woman%20wearing%20a%20denim%20vest%20splattered%20with%20blood%20stands%20center.%20A%20woman%20sits%20on%20the%20hood%20of%20a%20pickup%20truck%20in%20the%20background.png" alt="Image from The Revolution of Cassandra Graphic Novel of a young edgy woman wearing a denim vest splattered with blood stands center. A woman sits on the hood of a pickup truck in the background" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>When filmmaker Eric D. Howell’s screenplay <em>The Revolution of Cassandra</em> placed in the top three of the <a href="https://www.finaldraft.com/big-break-screenwriting-contest/">Final Draft Big Break Screenwriting Contest</a> in 2018, he was excited to be recognized by the people behind the software he relied on every day. But what he didn’t know was that recognition would send him on a journey that would take his story beyond the screen and into the dazzling illustrated world of graphic novels. His story about belief, activism, and the power of sisterhood is now being published as a three-part comic book series. For Howell, this pivot wasn’t just about finding a new platform for <em>The Revolution of Cassandra</em>, it was about staying true to a story he believed the world needed to hear.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/former-big-break-top-3-finalist-pivots-from-screenplay-to-graphic-novel>
+
+---
+
+## Dan Gilroy’s 10 Tips for Strong Screenwriting
+
+date: 2025-07-15, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/dan-gilroys-10-tips-for-strong-screenwriting" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Diego%20Luna%20in%20Andor.png" alt="Diego Luna walking in a spaceship junkyard in Andor" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><a href="https://www.imdb.com/name/nm0319659/">Dan Gilroy</a> has developed an approach to screenwriting that cuts through industry mythology to focus on what actually works.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/dan-gilroys-10-tips-for-strong-screenwriting>
+
+---
+
+## The Way of the Gunn: How James Gunn Has Been Preparing for ‘Superman’ for 30 Years
+
+date: 2025-07-15, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/the-way-of-the-gunn-how-james-gunn-has-been-preparing-for-superman-for-30-years" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/David%20Corenswet%20in%20Superman%20%282%29.png" alt="David Corenswet in Superman" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>1996 was a fascinating year for independent and low-budget filmmaking. Visionary writer/directors were making big splashes in arthouse cinemas, film festivals and even major theaters. Filmmakers like Robert Rodriguez, Quentin Tarantino, Kevin Smith and Wes Anderson had made names for themselves with groundbreaking movies, and leveraged their success into studio-backed films.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/the-way-of-the-gunn-how-james-gunn-has-been-preparing-for-superman-for-30-years>
+
+---
+
+## New Book Releases: July 15, 2025
+
+date: 2025-07-15, from: Locus Magazine
+
+<p></p>
+<p style="text-align: center;"><strong data-wp-editing="1">Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
+
+<p style="text-align: center;"><strong>New science fiction, fantasy, and horror books for the week of July 15, 2025. </strong></p>
+<p>Afifi, Nadia: <b>A Rebel&#8217;s History of Mars</b> (Flame Tree Press UK 978-1787589452, $26.95, 304pp, formats: hardcover, ebook, 07/15/2025)</p>
+<p>SF novel. Two lives a millennium apart intertwine. Kezza, a circus aerialist, is stranded on Mars and plans to kill the  <a href="https://locusmag.com/2025/07/new-book-releases-july-15-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/new-book-releases-july-15-2025/>
+
+---
+
+## Advice to a Young Film Student (with Scott Frank)
+
+date: 2025-07-15, from: John August blog
+
+<p>John and Craig welcome back Scott Frank (The Queen’s Gambit, Dept. Q) to offer their best advice to film students and the people who teach them. They look at ways to improve how we educate writers, and offer advice to an aspiring development executive. We also look at the intrinsic vs. extrinsic motivations of characters [&#8230;]</p>
+The post <a href="https://johnaugust.com/2025/advice-to-a-young-film-student-with-scott-frank">Advice to a Young Film Student (with Scott Frank)</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/advice-to-a-young-film-student-with-scott-frank>
+
+---
+
+## People & Publishing Roundup, July 2025
+
+date: 2025-07-15, from: Locus Magazine
+
+<div>
+<div class="catheader"><strong>MILESTONES</strong></div>
+
+<p><strong>C.J. LAVIGNE </strong>is now rep­resented by Arley Sorg of kt literary.</p></div>
+<div></div>
+<div class="catheader"><strong>AWARDS</strong></div>
+
+<p>Authors <strong>GARY CREW </strong>and <strong>GARTH NIX </strong>have each been awarded the Medal of the Order of Australia in the King’s Birth­day Honours List for services to literature.</p>
+<p><strong>HARUKI MURAKAMI </strong>will receive the Center for Fiction’s 2025 Lifetime of Excellence in Fiction Award, to be presented by Patti Smith at an annual awards benefit on December 9, 2025. <a href="https://locusmag.com/2025/07/people-publishing-roundup-july-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/people-publishing-roundup-july-2025/>
+
+---
+
+## If Wishes Were Retail by Auston Habershaw: Review by Gary K. Wolfe
+
+date: 2025-07-15, from: Locus Magazine
+
+<p><strong>If Wishes Were Retail</strong>, Auston Habershaw (Tachyon 978-1-61696-434-4, $16.95, 272pp, tp) June 2025.</p>
+<p>Even though they’ve been around for centuries in complex ways, djinns have in the past few decades become a sometimes problematical comic pop culture staple, from a bunch of Disney films to (my current favorite) the hilari­ously disaffected godlets of Saad Z. Hossain. In Auston Habershaw’s <strong>If Wishes Were Retail</strong>, a newly liberated djinn even  <a href="https://locusmag.com/2025/07/if-wishes-were-retail-by-auston-habershaw-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/if-wishes-were-retail-by-auston-habershaw-review-by-gary-k-wolfe/>
 
 ---
 

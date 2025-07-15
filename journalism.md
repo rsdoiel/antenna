@@ -1,11 +1,88 @@
 ---
 title: journalism
-updated: 2025-07-15 06:07:34
+updated: 2025-07-15 14:07:43
 ---
 
 # journalism
 
-(date: 2025-07-15 06:07:34)
+(date: 2025-07-15 14:07:43)
+
+---
+
+## How California Personal Injury Attorneys Help Maximize Your Compensation
+
+date: 2025-07-15, from: The Sundail (CSUN Student Newspaper)
+
+Personal injury accidents often result in catastrophic injuries such as broken bones, traumatic brain injuries, burns, spine injuries, internal injuries, and more which can leave victims in the hospital, with... 
+
+<br> 
+
+<https://sundial.csun.edu/194928/sundialbrandstudio/sundial-marketplace/how-california-personal-injury-attorneys-help-maximize-your-compensation/>
+
+---
+
+## Funny but not fun: Belly Laughs Festival attendees giggle while wallets groan
+
+date: 2025-07-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Day one of the Belly Laughs Festival found the funny bone.
+The comedy festival made its highly anticipated debut this Saturday at the Peacock Theater in Los Angeles. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/15/funny-but-not-fun-belly-laughs-festival-attendees-giggle-while-wallets-groan/>
+
+---
+
+## Which Are the Best Cars for College Students in 2025?
+
+date: 2025-07-15, from: The Sundail (CSUN Student Newspaper)
+
+If you’re planning your first year as a student, you are no doubt looking at finding a car that’s reliable, affordable, and above all else, fuel-efficient. With numerous options available, you... 
+
+<br> 
+
+<https://sundial.csun.edu/194926/sundialbrandstudio/sundial-marketplace/which-are-the-best-cars-for-college-students-in-2025/>
+
+---
+
+## From Campus to Courtroom: One Student’s Take on Personal-Injury Law
+
+date: 2025-07-15, from: The Sundail (CSUN Student Newspaper)
+
+College is often a time for exploring interests, but some paths reveal themselves in unexpected ways. Personal-injury law wasn’t always the plan—but after a mix of internships, late-night research sessions,... 
+
+<br> 
+
+<https://sundial.csun.edu/194921/sundialbrandstudio/independent-legal-guide/from-campus-to-courtroom-one-students-take-on-personal-injury-law/>
+
+---
+
+## Music preview: Summer to bring span of anticipated new entries from indie, pop artists
+
+date: 2025-07-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated July 15 at 11:03 a.m.</em>
+Upcoming music releases are setting up a bright summer.
+As the temperature rises and listeners look for the perfect soundtrack, there is sure to be an album for any sunny occasion. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/15/music-preview-summer-to-bring-span-of-anticipated-new-entries-from-indie-pop-artists/>
+
+---
+
+## COC played host to the Drum Corps International Gold Showcase 2025 Summer Tour
+
+date: 2025-07-15, from: The Canyon News (COC Student Newspaper)
+
+<p>Drum Corps International is proud to present. Gold! What you are hearing&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/dci-at-coc/">COC played host to the Drum Corps International Gold Showcase 2025 Summer Tour</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/dci-at-coc/>
 
 ---
 

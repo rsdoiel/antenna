@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-07-15 06:07:34
+updated: 2025-07-15 14:07:43
 ---
 
 # games
 
-(date: 2025-07-15 06:07:34)
+(date: 2025-07-15 14:07:43)
+
+---
+
+## All hired hero locations in Fortnite Chapter 6 Season 3
+
+date: 2025-07-15, updated: 2025-07-15, from: Polygon Website
+
+Hired heroes are characters in Fortnite that will fight alongside you — as long as you pay them. As part of the Supernova Academy story quest line, you need to damage opponents with a hired hero. You will need to pay them a decent amount of gold bars to hire them, but if you don’t [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/613254/hired-hero-locations-c6s3-super>
+
+---
+
+## Making space for multiplayer in the Nintendo Switch 2’s world
+
+date: 2025-07-15, updated: 2025-07-15, from: Polygon Website
+
+We used to play Mario Kart. It was 2003 and the Nintendo GameCube was a full-fledged member of my high school clique. It was at every social gathering, no matter how big or small. I went as far as to buy a carrying case for mine that was big enough to carry a few controllers [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/613231/local-co-op-multiplayer-friendship-mario-kart-world>
+
+---
+
+## Marvel Rivals’ summer event skins put The Thing in a thong
+
+date: 2025-07-15, updated: 2025-07-15, from: Polygon Website
+
+Rise up, gooners: Marvel Rivals is getting a beach-themed summer event, and everyone is looking hot. You’ve got expected additions, like a breezy Luna Snow skin that turns the popstar’s soundscape into roving waves. Based on the footage, Snow is clearly the biggest draw here — her skin includes a bespoke soundtrack of lo-fi tunes [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/613199/marvel-rivals-when-is-summer-event-the-thing-thong-luna-snow-skin>
+
+---
+
+## Star Trek: Strange New Worlds’ showrunners say their version of the series would have gone on ‘forever’
+
+date: 2025-07-15, updated: 2025-07-15, from: Polygon Website
+
+Star Trek: Strange New Worlds, an episodic look at the crew of the USS Enterprise set before the events of Star Trek: The Original Series, has proved so popular that in April 2024, Paramount Plus renewed it for a fourth season while season 3 was still in production. But after laying off hundreds of employees [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-trek/613208/star-trek-strange-new-worlds-canceled-showrunners-interview-season-3>
+
+---
+
+## How to hardflip the castle and fountain gap in Tony Hawk’s Pro Skater 4
+
+date: 2025-07-15, updated: 2025-07-15, from: Polygon Website
+
+To hardflip the castle and fountain gap in the Waterpark level in Tony Hawk’s Pro Skater 4 involves exploring the place and interacting with specific elements on the map.&#160; Finishing this mission requires you to restore the power to the arcade, which unlocks a secret entrance to the castle. To do so, you’ll need to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/613152/thps-4-tony-hawk-pro-skater-4-hardflip-the-castle-fountain-gap>
+
+---
+
+## Nintendo’s Donkey Kong team sounds increasingly bananas
+
+date: 2025-07-15, updated: 2025-07-15, from: Polygon Website
+
+Coming up with ideas is a funny thing: You never know when inspiration might strike, or what might stoke its embers. But more often than not, it’ll be something totally unexpected. Just look at the brains behind the upcoming Switch 2 exclusive, Donkey Kong Bananza. Some of the things that players will get to experience [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/613165/switch-2-donkey-kong-bananza-creation-secrets-development>
+
+---
+
+## Pokémon Go ‘Water Festival’ 2025 event guide
+
+date: 2025-07-15, updated: 2025-07-15, from: Polygon Website
+
+Pokémon Go’s “Water Festival” event for 2025 has kicked off, running from July 15-20. Obviously this event focuses on water-type Pokémon, but there’s also a few notable bonuses, including the debut of Tatsugiri, the sushi-like Pokémon from Paldea. You will need to raid for Tatsugiri if you want one of these little fishies — though [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/613130/water-festival-2025-tatsugiri-collection-challenge-timed-research>
+
+---
+
+## Blood Line, that mobile Rebel Moon game, out now for Netflix subscribers
+
+date: 2025-07-15, updated: 2025-07-15, from: Polygon Website
+
+The next entry in Netflix’s Rebel Moon series is an action game with Diablo vibes, as detailed in a new trailer for Blood Line: A Rebel Moon Game, a mobile game out now for Netflix subscribers. First announced in September 2024, Blood Line is multiplayer mobile action game developed by Super Evil Megacorp (SEMC) in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/612992/blood-line-rebel-moon-trailer-reveal>
+
+---
+
+## Pokémon Go regional exclusive Pokémon list in 2025
+
+date: 2025-07-15, updated: 2025-07-15, from: Polygon Website
+
+Regional exclusive Pokémon in Pokémon Go are creatures you can only find in certain parts of the world. Finding these Pokémon means physically traveling to those spots in the real world (or making international friends and trading with them). In this Pokémon Go regional Pokémon guide, we’ve listed where to find each of these regional [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/22547721/regional-list-exclusive-countries-areas>
 
 ---
 

@@ -1,11 +1,41 @@
 ---
 title: small papers
-updated: 2025-07-15 06:07:38
+updated: 2025-07-15 14:07:46
 ---
 
 # small papers
 
-(date: 2025-07-15 06:07:38)
+(date: 2025-07-15 14:07:46)
+
+---
+
+## Specialty market and liquor store to replace Dollar Express in Zaferia neighborhood
+
+date: 2025-07-15, from: Long Beach Post
+
+<figure><img width="1024" height="685" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1024x685.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1024x685.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-300x201.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-768x514.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-161x108.png 161w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1536x1028.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-2048x1371.png 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1200x803.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1568x1050.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-400x268.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>City documents said it will offer high-end organic produce, an espresso bar and imported spirits “not normally found in typical stores.”</p>
+<p>The post <a href="https://lbpost.com/news/business/development/specialty-market-and-liquor-store-to-replace-dollar-express-in-zaferia-neighborhood">Specialty market and liquor store to replace Dollar Express in Zaferia neighborhood</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/development/specialty-market-and-liquor-store-to-replace-dollar-express-in-zaferia-neighborhood>
+
+---
+
+## Long Beach City Council will consider legal action to combat ICE raids, mayor says
+
+date: 2025-07-15, from: Long Beach Post
+
+<figure><img width="1024" height="745" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ-1024x745.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ-1024x745.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ-300x218.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ-768x559.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ-148x108.jpg 148w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ-400x291.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The mayor is calling the council back from a July recess for a special closed-door meeting Wednesday afternoon.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/long-beach-city-council-will-consider-legal-action-to-combat-ice-raids-mayor-says">Long Beach City Council will consider legal action to combat ICE raids, mayor says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/long-beach-city-council-will-consider-legal-action-to-combat-ice-raids-mayor-says>
 
 ---
 
@@ -13,7 +43,7 @@ updated: 2025-07-15 06:07:38
 
 date: 2025-07-14, from: Long Beach Post
 
-<figure><img width="1024" height="689" src="https://img.lbpost.com/wp-content/uploads/2022/02/25143350/0224-Homeless-2-1-e1654619465297.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="689" src="https://img.lbpost.com/wp-content/uploads/2022/02/25143350/0224-Homeless-2-1-e1654619465297.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Officials reported a 4% decrease across most of the county and a 3.4% drop in the city of LA compared to a 6.5% increase in Long Beach.</p>
 <p>The post <a href="https://lbpost.com/news/homelessness-declines-in-greater-la-bucking-the-increase-seen-in-long-beach">Homelessness declines in Greater LA, bucking the increase seen in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

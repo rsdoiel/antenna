@@ -1,11 +1,275 @@
 ---
 title: going electric
-updated: 2025-07-15 06:07:37
+updated: 2025-07-15 14:07:45
 ---
 
 # going electric
 
-(date: 2025-07-15 06:07:37)
+(date: 2025-07-15 14:07:45)
+
+---
+
+## You Can Get A Used Mercedes EQS EV For Toyota Camry Money. Should You?
+
+date: 2025-07-15, from: Inside EVs News
+
+The six-figure luxury electric sedan has depreciated rapidly. Does that make it a good buy? 
+
+<br> 
+
+<https://insideevs.com/news/765915/used-mercedes-benz-eqs-low-price-ownership/>
+
+---
+
+## Range Rover’s first EV looks the part, but with a few surprises
+
+date: 2025-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Range-Rovers-first-EV-testing.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Range Rover’s first electric SUV will finally arrive later this year. Ahead of its official launch, early reviews show the upcoming EV stays true to the <a href="https://electrek.co/guides/range-rover/">Range Rover</a> heritage, but there are a few things you should know.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="range-rover,range-rover-electric" data-layer-viewtype="unknown" data-post-id="424904" href="https://electrek.co/2025/07/15/range-rovers-first-ev-looks-the-part-but-with-few-surprises/#more-424904" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/15/range-rovers-first-ev-looks-the-part-but-with-few-surprises/>
+
+---
+
+## EV deals are heating up – buyers now save over $8K on average
+
+date: 2025-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Honda-Prologue-NHL-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>US EV prices dropped again in June as automakers leaned harder on incentives, and Tesla’s sales slump played a big part, according to Kelley Blue Book’s latest numbers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,evs,kelley-blue-book,tesla,tesla-model-y" data-layer-viewtype="unknown" data-post-id="424918" href="https://electrek.co/2025/07/15/ev-deals-are-heating-up-buyers-now-save-over-8k-on-average/#more-424918" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/15/ev-deals-are-heating-up-buyers-now-save-over-8k-on-average/>
+
+---
+
+## The New Model Y Isn't Saving Tesla
+
+date: 2025-07-15, from: Inside EVs News
+
+Sales of Tesla's most popular EV actually fell from last year despite the introduction of an updated model.  
+
+<br> 
+
+<https://insideevs.com/news/765851/new-tesla-model-y-sales/>
+
+---
+
+## Congress Killed The Law That Saved You Money At The Pump. What Now?
+
+date: 2025-07-15, from: Inside EVs News
+
+Tax credits weren’t the only reason driving EV sales. A critical law that had been in effect for half a century also played a huge role.  
+
+<br> 
+
+<https://insideevs.com/news/765944/cafe-fuel-economy-rules-dead-ev-sales/>
+
+---
+
+## Tenways AGO T mid-drive e-bike at $2,399 low, DJI Power 2000 station hits new $999 low, EcoFlow 48-hour flash sale, tools, more
+
+date: 2025-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Tenways-AGO-T-Premium-Mid-Drive-Urban-e-bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Today’s Green Deals are headlined by the low price on <a href="https://9to5toys.com/2025/07/14/tenways-ago-t-e-bike-2399-low-more/">Tenways’ AGO T Premium Mid-Drive Urban e-bike</a> that comes with a free front carrier ($50 value) for <a href="https://9to5toys.com/2025/07/14/tenways-ago-t-e-bike-2399-low-more/">$2,399</a>, among other models seeing discounts during this sale. We also spotted DJI’s recently released <a href="https://9to5toys.com/2025/07/14/dji-power-2000-station-new-1099-low/">Power 2000 Portable Power Station hitting a new $999 low</a>, as well as <a href="https://9to5toys.com/2025/07/15/ecoflow-flash-sale-starting-from-1199/">EcoFlow’s latest four 48-hour flash sale</a> offers that include two power stations, a WAVE 3 bundle, and a DELTA Pro 3 expansion battery at up to 53% off <a href="https://9to5toys.com/2025/07/15/ecoflow-flash-sale-starting-from-1199/">starting from $1,199</a>. From there, we have <a href="https://9to5toys.com/2025/07/15/greenworks-40v-20-inch-pole-trimmer-114-low/">Greenworks’ 40V 20-inch Cordless Pole Hedge Trimmer kit at its $114 low</a> alongside the <a href="https://9to5toys.com/2025/07/15/worx-aerocart-169-50/">Worx Aerocart 8-in-1 Yard Cart down at $169.50</a>. Plus, there’s all the hangover Prime Day savings in our <a href="https://9to5toys.com/2025/07/11/prime-day-green-deals-hub-final-day/">Prime Day Green Deals hub</a> at the bottom of the page, as well as yesterday’s <a href="https://9to5toys.com/2025/07/14/ecoflow-phase-3-prime-day-sale-from-209/">EcoFlow phase 3 Prime Day </a>Sale, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="424895" href="https://electrek.co/2025/07/15/tenways-ago-e-bike-dji-power-2000-ecoflow-tools-more/#more-424895" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/15/tenways-ago-e-bike-dji-power-2000-ecoflow-tools-more/>
+
+---
+
+## Honda Reveals Its New EV’s Name And It Explains A Lot
+
+date: 2025-07-15, from: Inside EVs News
+
+It has the tall, narrow body of a kei car but the bulging wheel arches of a rally special stage stormer. 
+
+<br> 
+
+<https://insideevs.com/news/765782/honda-n-one-e-teaser/>
+
+---
+
+## Hyundai upgrades its $20,000 EV: Meet the 2026 Casper Electric
+
+date: 2025-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Hyundai-Casper-EV-battery-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The Casper Electric is <a href="https://electrek.co/guides/hyundai/">Hyundai’s</a> cheapest electric SUV, sold overseas under the name Inster EV. Hyundai launched the 2026 Casper EV in Korea on Tuesday, introducing a few new features and more. Prices start at about $20,000, but with government subsidies, the actual purchase price could be closer to $15,000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-inster" data-layer-viewtype="unknown" data-post-id="424876" href="https://electrek.co/2025/07/15/hyundai-upgrades-20000-ev-meet-2026-casper-electric/#more-424876" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/15/hyundai-upgrades-20000-ev-meet-2026-casper-electric/>
+
+---
+
+## Tesla’s long-time head of sales in North America is out
+
+date: 2025-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-06-at-3.07.51-PM.jpg?quality=82&#038;strip=all&#038;w=1275" /></div><p>Tesla’s long-time head of sales in North America, Troy Jones, has reportedly left the automaker amid demand problems.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="424872" href="https://electrek.co/2025/07/15/tesls-long-time-head-sales-north-america-out/#more-424872" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/15/tesls-long-time-head-sales-north-america-out/>
+
+---
+
+## Lucid CEO Warns New Cars Are About To Get More Expensive: 'No Other Way Around It'
+
+date: 2025-07-15, from: Inside EVs News
+
+Plus, Musk's corporate umbrella is ready to make it rain on xAI and Hyundai plans to ride out tariffs with cheap EVs outside of America. 
+
+<br> 
+
+<https://insideevs.com/news/765822/lucid-ceo-new-car-tariffs/>
+
+---
+
+## Lucid (LCID) launches hands-free driving and more in a major software update
+
+date: 2025-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Lucid-midsize-three.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/lucid-motors/">Lucid Motors</a> (LCID) vehicles continue to get smarter and more advanced. After introducing hands-free driving in a major software update on Tuesday, Lucid said the new capabilities offer a glimpse into what’s to come.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="424854" href="https://electrek.co/2025/07/15/lucid-lcid-launches-hands-free-driving-and-more-in-major-update/#more-424854" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/15/lucid-lcid-launches-hands-free-driving-and-more-in-major-update/>
+
+---
+
+## Joby Aviation to double eVTOL production across two states, leveraging Toyota’s expertise
+
+date: 2025-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Joby-production-eVTOL.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/joby-aviation/">Joby Aviation</a> is gearing up (literally) eVTOL production in the US as it prepares for scaled commercial operations. The company is ramping up capabilities and its two current facilities in two states, leveraging the insight from its long-term investor, Toyota.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="air-taxi,evtol,joby-aviation,toyota" data-layer-viewtype="unknown" data-post-id="424852" href="https://electrek.co/2025/07/15/joby-double-evtol-production-two-states-leveraging-toyota/#more-424852" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/15/joby-double-evtol-production-two-states-leveraging-toyota/>
+
+---
+
+## Tesla finally launches in India, but at a price that doesn’t make sense
+
+date: 2025-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Screenshot-2025-07-15-at-11.05.23 AM.png?w=1600" /></div><p>Tesla has finally launched in India after several false starts. Still, the automaker isn’t taking advantage of the deal to avoid tariffs, resulting in prices that don’t make much sense for the market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="424848" href="https://electrek.co/2025/07/15/tesla-finally-launches-in-india-but-at-a-price-that-doesnt-make-sense/#more-424848" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/15/tesla-finally-launches-in-india-but-at-a-price-that-doesnt-make-sense/>
+
+---
+
+## Mercedes-Benz unveils the new CLA Shooting Brake EV with impressive range
+
+date: 2025-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Mercedes-Benz-CLA-Shooting-Brake-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The new CLA Shooting Brake is the first electric <a href="https://electrek.co/guides/mercedes-benz/">Mercedes</a> vehicle available as an estate. It’s more spacious, more capable, and more high-tech than ever.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz" data-layer-viewtype="unknown" data-post-id="424831" href="https://electrek.co/2025/07/15/mercedes-unveils-cla-shooting-brake-ev-with-impressive-range/#more-424831" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/15/mercedes-unveils-cla-shooting-brake-ev-with-impressive-range/>
+
+---
+
+## Rivian rolling out new navigation system powered by Google Maps
+
+date: 2025-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Rivian-Google-Maps-navigation-1-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Rivian today <a href="https://stories.rivian.com/df4d2db4f8d71dc7ef8fb10ad72e5a41">announced</a> a partnership with Google Maps on a new navigation system for its electric vehicles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="424841" href="https://9to5google.com/2025/07/15/rivian-google-maps-navigation/#more-424841" class="more-link">more…</a> 
+
+<br> 
+
+<https://9to5google.com/2025/07/15/rivian-google-maps-navigation/>
+
+---
+
+## Rivian EVs Are Getting Google Maps Navigation
+
+date: 2025-07-15, from: Inside EVs News
+
+Rivian owners will get to enjoy Google Maps’ real-time traffic information and routing system. 
+
+<br> 
+
+<https://insideevs.com/news/765763/rivian-ev-r1s-r1t-google-maps/>
+
+---
+
+## This electric motorcycle company just did what no one else could
+
+date: 2025-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/stark-varg-production-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Stark Future, the Barcelona-based electric motorcycle startup known for its high-performance off-road bikes, has just smashed expectations by posting its first profitable quarter – and in record time. After announcing its <a href="https://electrek.co/2025/05/14/how-one-of-the-only-profitable-electric-motorcycle-companies-got-there-with-street-legal-e-dirtbikes/">first profitable month</a> this past April, the company is now sharing that its Q2 2025 results show €47 million in revenue and €4.5 million in EBITDA. That would mark the fastest path to profitability ever recorded for an electric vehicle manufacturer, whether on two wheels or four.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle" data-layer-viewtype="unknown" data-post-id="424826" href="https://electrek.co/2025/07/15/this-electric-motorcycle-company-just-did-what-no-one-else-could/#more-424826" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/15/this-electric-motorcycle-company-just-did-what-no-one-else-could/>
+
+---
+
+## The Mercedes-Benz CLA Shooting Brake EV Can Go Over 470 Miles On A Charge
+
+date: 2025-07-15, from: Inside EVs News
+
+Mercedes-Benz’s first electric wagon is here. 
+
+<br> 
+
+<https://insideevs.com/news/765888/mercedes-benz-cla-shooting-brake-ev-wagon-range-miles/>
 
 ---
 
@@ -41,7 +305,7 @@ date: 2025-07-15, from: Electrek Feed
 
 date: 2025-07-14, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/themes/ninetofive/dist/images/default-electrek-related-guide.png?w=1600" /></div><p>The global EV market is still charging ahead. According to new numbers from global research firm Rho Motion, 9.1 million EVs were sold worldwide in the first half of 2025, up 28% compared to the same period last year. But not every region is accelerating at the same pace.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/7a6c5659e0855e2fe4ac1385f4aa271d-l.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The global EV market is still charging ahead. According to new numbers from global research firm Rho Motion, 9.1 million EVs were sold worldwide in the first half of 2025, up 28% compared to the same period last year. But not every region is accelerating at the same pace.</p>
 
 
 

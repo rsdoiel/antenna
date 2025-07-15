@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-07-15 06:07:36
+updated: 2025-07-15 14:07:45
 ---
 
 # retro computing
 
-(date: 2025-07-15 06:07:36)
+(date: 2025-07-15 14:07:45)
+
+---
+
+## b.log 2025/07/15 - Tariffs, More AI music (4 songs to download).
+
+date: 2025-07-15, from: Richard Murray's blog
+
+Tariffs, More AI music (4 songs to download). 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250715>
 
 ---
 

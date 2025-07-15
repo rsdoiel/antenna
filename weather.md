@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2025-07-15 06:07:33
+updated: 2025-07-15 14:07:42
 ---
 
 # weather
 
-(date: 2025-07-15 06:07:33)
+(date: 2025-07-15 14:07:42)
 
 ---
 
 ## There are no tropical cyclones at this time.
 
-date: 2025-07-16, from: Eastern Pacific Basin Tropical Cyclones
+date: 2025-07-17, from: Central Pacific Basin Tropical Cyclones
 
-No tropical cyclones as of Tue, 15 Jul 2025 13:02:07 GMT 
+No tropical cyclones as of Tue, 15 Jul 2025 21:00:06 GMT 
 
 <br> 
 
@@ -23,13 +23,950 @@ No tropical cyclones as of Tue, 15 Jul 2025 13:02:07 GMT
 
 ## There are no tropical cyclones at this time.
 
-date: 2025-07-16, from: Eastern Pacific Basin GIS Data
+date: 2025-07-17, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Tue, 15 Jul 2025 13:02:07 GMT 
+No tropical cyclones as of Tue, 15 Jul 2025 21:00:06 GMT 
 
 <br> 
 
 <https://www.nhc.noaa.gov/gis/>
+
+---
+
+## SPC MD 1677
+
+date: 2025-07-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1677.html"><img src="https://www.spc.noaa.gov/products/md/mcd1677.png" border="1" alt="MD 1677 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1677
+NWS Storm Prediction Center Norman OK
+0350 PM CDT Tue Jul 15 2025
+
+Areas affected...northeastern Nevada...northern Utah...southeastern
+Idaho...and southwestern Wyoming
+
+Concerning...Severe potential...Watch possible 
+
+Valid 152050Z - 152315Z
+
+Probability of Watch Issuance...40 percent
+
+SUMMARY...Storms will increase in coverage and intensity through the
+afternoon, posing a threat of dry microburst winds.  Convective
+trends will be monitored for the possibility of a watch.
+
+DISCUSSION...A glancing influence from the shortwave trough to the
+north is resulting in some large-scale ascent and an increase in
+midlevlel winds this afternoon.  Initial storms are increasing in
+coverage and intensity across northeastern Nevada, and this activity
+is expected to spread east-northeastward through the afternoon into
+southwestern Wyoming.  The 17Z DPG sounding characterizes the very
+steep lapse rates (near dry adiabatic up to around 500 mb) in which
+these storms are forming.  This environment will support very strong
+downdrafts and dry-microburst potential.  Recent VWPs from Salt Lake
+City indicate around 30 knots of mid-to-upper-level flow, which may
+support some storm organization and propagation.  If storms are able
+to organize into clusters, a severe thunderstorm watch may be
+considered.
+
+..Jirak/Smith.. 07/15/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...RIW...GJT...SLC...PIH...BOI...LKN...
+
+LAT...LON   40101509 41131563 41551557 42141453 42591280 42691177
+            42721056 42490947 42030912 41490909 41070968 40621075
+            39951253 39761437 40101509 
+
+MOST PROBABLE PEAK WIND GUST...65-80 MPH
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1677.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md1677.html>
+
+---
+
+## SPC MD 1676
+
+date: 2025-07-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1676.html"><img src="https://www.spc.noaa.gov/products/md/mcd1676.png" border="1" alt="MD 1676 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1676
+NWS Storm Prediction Center Norman OK
+0312 PM CDT Tue Jul 15 2025
+
+Areas affected...eastern Idaho...southern Montana...and
+northern/central Wyoming
+
+Concerning...Severe potential...Watch possible 
+
+Valid 152012Z - 152215Z
+
+Probability of Watch Issuance...40 percent
+
+SUMMARY...Storms are expected to increase in coverage and intensity
+through the afternoon posing a risk of severe hail and winds. 
+Convective trends will be monitored for the possibility of a watch.
+
+DISCUSSION...Large-scale ascent ahead of a midlevel trough (evident
+over the northern Intermountain West in water vapor imagery) is
+resulting in thunderstorm development over portions of eastern Idaho
+and southwestern Montana.  As this ascent overspreads Wyoming where
+better instability is developing, storms are expected to intensify
+and organize later this afternoon into the evening.  
+
+Recent VWPs from the Pocatello radar indicate that midlevel westerly
+flow has increased to around 40 knots as this disturbance
+approaches.  Consequently, there should be enough shear for some
+storm organization despite limited instability.  Steep midlevel
+lapse rates may support some hail threat with the initial updraft
+cores, but the primary threat will be severe winds, as these storms
+are developing and moving into deep, well-mixed boundary layers. 
+This environment will favor strong evaporative cooling and
+dry-microburst potential.  If storms are able to grow upscale into
+clusters, a more organized severe-wind threat may materialize
+warranting watch issuance.
+
+..Jirak/Smith.. 07/15/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...UNR...CYS...BYZ...RIW...TFX...PIH...
+
+LAT...LON   44561268 45101147 45201070 45050968 44830815 44360701
+            43650578 42670575 42350618 42230706 42500894 42781035
+            43051165 43341238 44561268 
+
+MOST PROBABLE PEAK WIND GUST...65-80 MPH
+MOST PROBABLE PEAK HAIL SIZE...UP TO 1.25 IN
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1676.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md1676.html>
+
+---
+
+## SPC MD 1675
+
+date: 2025-07-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1675.html"><img src="https://www.spc.noaa.gov/products/md/mcd1675.png" border="1" alt="MD 1675 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1675
+NWS Storm Prediction Center Norman OK
+0258 PM CDT Tue Jul 15 2025
+
+Areas affected...south-central South Dakota into much of central
+Nebraska
+
+Concerning...Severe potential...Watch likely 
+
+Valid 151958Z - 152230Z
+
+Probability of Watch Issuance...95 percent
+
+SUMMARY...Storms will erupt across south-central South Dakota into
+northern and west-central Nebraska in the next 1-2 hours, producing
+large hail initially followed by damaging winds.
+
+DISCUSSION...A cold front stretches from east-central SD into
+western NE and far eastern CO, with a surface low over western NE.
+Satellite imagery shows strong heating and building CU fields along
+the front and near the low, and this is where initiation will occur.
+
+Deep-layer lapse rates continue to steepen as a midlevel wave
+approaches from the west, and surface temperatures warm. When
+combined with mid to upper 60s F dewpoints, moderately strong
+instability is noted with MLCAPE to around 3000 J/kg.
+
+Modest westerlies aloft combined with a persistent southerly
+boundary-layer winds will support southeastward-moving storms. A few
+supercells producing damaging hail are possible initially, but an
+evolution to severe MCS is anticipated from late afternoon through
+evening. Corridors of significant wind damage may occur.
+
+..Jewell/Smith.. 07/15/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...FSD...OAX...ABR...GID...LBF...UNR...
+
+LAT...LON   43909938 44009862 43929795 43359777 42379803 41449862
+            41409863 40849917 40470006 40460161 41180210 41870224
+            42090219 42560171 43200035 43759964 43909938 
+
+MOST PROBABLE PEAK TORNADO INTENSITY...UP TO 95 MPH
+MOST PROBABLE PEAK WIND GUST...65-80 MPH
+MOST PROBABLE PEAK HAIL SIZE...1.50-2.50 IN
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1675.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md1675.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 514 Status Reports
+
+date: 2025-07-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0514.html"><img src="https://www.spc.noaa.gov/products/watch/ww0514_radar.gif" border="1" alt="WW 0514 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS FOR WATCH 0514 HAS NOT BEEN ISSUED YET
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0514.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ws0514.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 514
+
+date: 2025-07-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0514.html"><img src="https://www.spc.noaa.gov/products/watch/ww0514_radar.gif" border="1" alt="WW 0514 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Watch Number 514
+NWS Storm Prediction Center Norman OK
+350 PM CDT Tue Jul 15 2025
+
+The NWS Storm Prediction Center has issued a
+
+* Severe Thunderstorm Watch for portions of 
+  Northern Kansas
+  Western and Central Nebraska
+  Southeast South Dakota
+
+* Effective this Tuesday afternoon and evening from 350 PM until
+  1100 PM CDT.
+
+* Primary threats include...
+  Scattered damaging winds and isolated significant gusts to 80
+    mph likely
+  Scattered large hail and isolated very large hail events to 2
+    inches in diameter possible
+
+SUMMARY...Scattered thunderstorms are forecast to develop along a
+front this afternoon into the evening and grow upscale into a linear
+cluster.  Large hail will be the primary severe hazard this
+afternoon before storms increase in coverage and congeal into one or
+two linear clusters.  Severe gusts will become the primary severe
+hazard during the evening as this activity moves east-southeast
+across the Watch area.
+
+The severe thunderstorm watch area is approximately along and 85
+statute miles east and west of a line from 35 miles east northeast
+of Chamberlain SD to 20 miles south southeast of Mccook NE. For a
+complete depiction of the watch see the associated watch outline
+update (WOUS64 KWNS WOU4).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Severe Thunderstorm Watch means conditions are
+favorable for severe thunderstorms in and close to the watch area.
+Persons in these areas should be on the lookout for threatening
+weather conditions and listen for later statements and possible
+warnings. Severe thunderstorms can and occasionally do produce
+tornadoes.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 513...
+
+AVIATION...A few severe thunderstorms with hail surface and aloft to
+2 inches. Extreme turbulence and surface wind gusts to 70 knots. A
+few cumulonimbi with maximum tops to 500. Mean storm motion vector
+28025.
+
+...Smith
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0514.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ww0514.html>
+
+---
+
+## SPC Jul 15, 2025 2000 UTC Day 1 Convective Outlook
+
+date: 2025-07-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0258 PM CDT Tue Jul 15 2025
+
+Valid 152000Z - 161200Z
+
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FOR PORTIONS OF
+CENTRAL NEBRASKA...
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR PORTIONS OF
+THE INTERIOR WEST...AND PARTS OF THE CENTRAL PLAINS INTO THE UPPER
+MISSISSIPPI VALLEY...
+
+...SUMMARY...
+Scattered severe gusts (some 75+ mph) and large hail are probable
+across parts of Nebraska late this afternoon and evening.  Scattered
+severe gusts are also possible from the Upper Midwest to Utah and
+Wyoming this afternoon to mid-evening.
+
+...20Z Update...
+The previous forecast remains on track, with only minor changes to
+the general thunder line to reflect the latest observations. Please
+refer to MCD 1675 for some of the latest short-term trends for storm
+development over portions of the central Plains.
+
+..Squitieri.. 07/15/2025
+
+.PREV DISCUSSION... /ISSUED 1121 AM CDT Tue Jul 15 2025/
+
+...Northern/Central Plains to the Upper Midwest...
+Primary focus for thunderstorms will be a slowly sagging,
+southward-moving cold front across the Upper Midwest and a couple
+mid-level perturbations moving east across the north-central states.
+Radar imagery shows a convectively augment disturbance moving east
+across northern SD and water-vapor imagery shows shortwave trough
+moving east across southeast WY.  Both mid-level features will
+likely prove instrumental in storm coverage and the risk for severe
+activity later today.  
+
+Despite stronger mid-level westerly flow relegated north of the 48th
+parallel, strong heating of a moist airmass will result in a very
+unstable boundary layer by mid afternoon from the Upper Midwest
+southwestward into the NE Sandhills.  Storms will probably develop
+from eastern SD and into MN this afternoon near the front and ahead
+of the SD mid-level feature.  Sufficient instability and
+effective bulk shear should be present along/ahead of the front to
+support organized convection, including some supercells. Large hail
+will be possible with the initially semi-discrete thunderstorms,
+before a rapid transition to a cluster/linear mode increases the
+threat for severe/damaging winds. This activity should quickly
+weaken by late evening as it encounters a less unstable airmass with
+eastward extent across the upper Great Lakes.
+
+A somewhat separate area of thunderstorms should initiate
+along/south of the front across parts of southern SD into NE by late
+afternoon/early evening. Greater instability will likely be present
+across this region compared to locations farther north, but
+deep-layer shear should be more modest (around 25-30 kt). Still,
+some large hail may occur initially given the presence of steep
+mid-level lapse rates. The threat for scattered to numerous
+severe/damaging winds is expected to increase through the evening
+across central NE as an intense bowing cluster develops and spreads
+southeastward. Isolated significant gusts of 75+ mph appear possible
+given the rather favorable thermodynamic environment.
+
+...Great Basin into Wyoming...
+The only change for this portion of the region is to increase
+severe-wind probabilities across northern UT and surrounding states.
+The southern fringe of stronger mid-level westerlies was sampled by
+the 12 UTC Salt Lake City raob.  With the approach of the upstream
+northern Rockies disturbance glancing the region later today,
+short-term model guidance (e.g., HREF members, time-lagged HRRR) is
+consistent in showing small clusters of storms moving east from
+northeast NV/northwest UT eastward into northern UT/southeast ID/far
+southwest WY.  Inverted-V profiles will strongly favor evaporative
+cooling with the more rain-laden cores.  Scattered severe gusts are
+possible with the more intense downbursts through early evening.  
+
+Farther east, the closer proximity to the upper trough digging
+southeastward over the northern Rockies will promote scattered
+storms across northern into eastern WY this afternoon and evening. 
+An organized cluster may evolve given 25-35 kt of deep-layer shear,
+while posing a threat for mainly severe/damaging winds given the
+presence of steepened low/mid-level lapse rates. Isolated large hail
+may also occur. 
+
+...Arizona...
+Modest mid-level east-northeasterlies will be present today across
+parts of AZ on the southern periphery of a mid-level anticyclone
+over the Southwest. Scattered thunderstorms should once again
+develop this afternoon over the higher terrain of southeast AZ and
+southwest NM. With very steep low/mid-level lapse rates expected
+with ample daytime heating, this activity may pose an isolated
+threat for severe winds as it spreads into the lower elevations of
+southern AZ through the evening.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 513 Status Reports
+
+date: 2025-07-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0513.html"><img src="https://www.spc.noaa.gov/products/watch/ww0513_radar.gif" border="1" alt="WW 0513 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS FOR WATCH 0513 HAS NOT BEEN ISSUED YET
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0513.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ws0513.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 513
+
+date: 2025-07-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0513.html"><img src="https://www.spc.noaa.gov/products/watch/ww0513_radar.gif" border="1" alt="WW 0513 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Watch Number 513
+NWS Storm Prediction Center Norman OK
+255 PM CDT Tue Jul 15 2025
+
+The NWS Storm Prediction Center has issued a
+
+* Severe Thunderstorm Watch for portions of 
+  Upper Peninsula Michigan
+  Central and North-Central Minnesota
+  Northern Wisconsin
+  Lake Superior
+
+* Effective this Tuesday afternoon and evening from 255 PM until
+  1000 PM CDT.
+
+* Primary threats include...
+  Scattered large hail and isolated very large hail events to 2
+    inches in diameter possible
+  Scattered damaging wind gusts to 70 mph possible
+
+SUMMARY...Scattered clusters of strong to severe thunderstorms will
+likely develop through the remainder of the afternoon and persist
+into the evening.  The stronger thunderstorms will be capable of a
+risk for large hail and severe gusts.
+
+The severe thunderstorm watch area is approximately along and 45
+statute miles north and south of a line from 30 miles south
+southwest of Alexandria MN to 115 miles east of Ironwood MI. For a
+complete depiction of the watch see the associated watch outline
+update (WOUS64 KWNS WOU3).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Severe Thunderstorm Watch means conditions are
+favorable for severe thunderstorms in and close to the watch area.
+Persons in these areas should be on the lookout for threatening
+weather conditions and listen for later statements and possible
+warnings. Severe thunderstorms can and occasionally do produce
+tornadoes.
+
+&&
+
+AVIATION...A few severe thunderstorms with hail surface and aloft to
+2 inches. Extreme turbulence and surface wind gusts to 60 knots. A
+few cumulonimbi with maximum tops to 500. Mean storm motion vector
+26025.
+
+...Smith
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0513.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ww0513.html>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2025-07-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0241 PM CDT Tue Jul 15 2025
+
+Valid 161200Z - 171200Z
+
+Only minor adjustments were made to previous forecast highlights. A
+broad dry thunderstorm threat will remain across portions of the
+Great Basin, Utah and Western Slope. Thermodynamic profiles remain
+supportive of high-based thunderstorms with dry sub cloud layer
+evaporation minimizing appreciable rainfall while increasing
+potential new lightning ignitions over critically dry fuels. Dry and
+breezy conditions across eastern NV and west-central UT will promote
+an elevated fire weather threat amid fuel ERC values around the 97th
+percentile, supporting fire spread.
+
+..Williams.. 07/15/2025
+
+.PREV DISCUSSION... /ISSUED 0155 AM CDT Tue Jul 15 2025/
+
+...Synopsis...
+A departing mid-level trough will bring continued breezy conditions
+and Elevated fire weather concerns across portions of southeastern
+Nevada into western Utah on Wednesday. Afternoon relative humidity
+reductions to 10-15 percent will overlap winds 10-15 mph in these
+regions. Fuels remain critically dry with recent dry lightning and
+potential for quick spread of new fires.
+
+...Dry Thunderstorms...
+A broad area of dry thunderstorm activity will be possible again
+from northern AZ into western CO, UT, southern WY, and portions of
+eastern NV. High based thunderstorms are expected to continue to
+bring little to no rainfall amid critically dry fuels. This will
+support potential for new lightning ignitions.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
+
+---
+
+## SPC Jul 15, 2025 1930 UTC Day 3 Severe Thunderstorm Outlook
+
+date: 2025-07-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day3otlk.gif" border="1" alt="Day 3 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0224 PM CDT Tue Jul 15 2025
+
+Valid 171200Z - 181200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FROM THE OHIO
+VALLEY TO THE NORTHEAST STATES...
+
+...SUMMARY...
+Isolated damaging gusts are possible over parts of the Northeast
+Thursday.
+
+...Northeast and upper OH Valley...
+Shortwave troughing over the eastern Great Lakes will gradually
+merge with broader cyclonic flow over the Northeast and eastern
+Canada Thursday. A surface low will steadily deepen as it shifts
+eastward with the upper trough. A cold front trailing the low will
+serve as a focus for thunderstorm development through the afternoon
+from the OH valley to the Mid Atlantic and Northeast. Moderate
+buoyancy and strengthening flow aloft will overlap and could support
+scattered thunderstorms capable of damaging gusts ahead of the
+front. A large disparity exists among forecast guidance with regards
+to the position of the cold front, strength of the surface low and
+any potential MCVs from prior day's convection. While confidence in
+the overall evolution is somewhat low, the broader environment still
+appears favorable enough to support some severe risk.
+
+...Mid MS Valley and southern Plains...
+Scattered storms are expected along the cold front as it moves
+southward across the Mid South and the Southern Plains. Stronger
+vertical shear should largely lag behind the front especially with
+southward extent. A few stronger storm clusters are possible along
+the front where large buoyancy could support sporadic damaging
+gusts. However, confidence in the frontal timing and convective
+evolution is very low, precluding the addition of severe
+probabilities for now.
+
+..Lyons.. 07/15/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2025-07-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook CORR 1
+NWS Storm Prediction Center Norman OK
+1235 PM CDT Tue Jul 15 2025
+
+Valid 151700Z - 161200Z
+
+CORRECTED FOR ERRANT LINE IN SOUTHERN TEXAS
+
+...CRITICAL FIRE WEATHER AREA FOR NORTHEASTERN NEVADA...NORTHWESTERN
+UTAH AND SOUTH CENTRAL IDAHO...
+...CRITICAL FIRE WEATHER AREA FOR EASTERN NEVADA INTO WESTERN UTAH
+AND NORTHERN ARIZONA...
+
+...Dry Thunderstorms...
+A mid-level trough and attendant increased mid-level flow will
+provide support for more sustained convection across portions
+northeastern NV, far northwestern UT and south-central ID this
+afternoon. High-based thunderstorm motions of 25-30 mph will limit
+rainfall to less than 0.10 inch while also bringing potential new
+ignitions over a very dry fuelscape in addition to gusty and erratic
+outflow winds from downbursts. Less concentrated but still impactful
+elevated thunderstorms will bring new ignition potential to portions
+of the Four Corners area, much of UT, northeastern NV, southeastern
+ID and western WY.
+
+Otherwise, dry and breezy conditions across the Snake River Plain
+and the Great Basin will bring elevated fire weather conditions to
+the region today. A critical fire weather threat remains for
+portions of southeast NV, southwestern UT and the Arizona Strip.
+
+..Williams.. 07/15/2025
+
+.PREV DISCUSSION... /ISSUED 0154 AM CDT Tue Jul 15 2025/
+
+...Synopsis...
+An active day for fire weather is expected across the Southwest and
+Great Basin today. A deepening mid-level wave will bring an increase
+in winds and potential for dry thunderstorms across the Great Basin
+today. Elevated to Critical conditions can be expected in portions
+of eastern Nevada, western Utah, northern Arizona and southern
+Idaho.
+
+...Eastern Nevada, western Utah, northern Arizona...
+West to southwesterly flow around 15-20 mph will overlap afternoon
+relative humidity reductions to 10-15 percent across portions of
+eastern NV, western UT, and northern AZ. Fuels in these regions are
+critically dry, with notable increase in fire activity over the last
+couple of weeks. In addition to background surface winds, nearby
+thunderstorm activity may further produce gusty and erratic outflow
+winds.
+
+...Dry Thunderstorms...
+A broad area of dry thunderstorms will be possible across portions
+of northern Arizona into western Colorado, Utah, far southern Idaho,
+western Wyoming, and Nevada. Moisture varies across these regions
+with potential for a mix of wet/dry storms in a few locations.
+Moisture remains mostly mid-level and with increased storm motions
+expected with the passage of the mid-level trough, it is likely that
+rainfall will be limited and local with new lightning ignitions
+possible. Fuels are critically dry with an uptick in fire activity
+over last several weeks.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## SPC Jul 15, 2025 1730 UTC Day 2 Convective Outlook
+
+date: 2025-07-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1232 PM CDT Tue Jul 15 2025
+
+Valid 161200Z - 171200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE FRONT
+RANGE AND THE WESTERN GREAT LAKES REGION...
+
+...SUMMARY...
+Scattered strong to severe thunderstorms are possible Wednesday
+afternoon and evening from parts of the central High Plains to the
+Great Lakes.
+
+...Front Range and High Plains...
+A shortwave trough over the northern Rockies will intensify as it
+moves eastward across the central US Wednesday. A cold front across
+the Front Range and High Plains will continue to sag slowly
+southward as surface moisture deepens behind it. Within the broad up
+slope flow regime, scattered storm development is expected across
+the higher terrain of the central Rockies and High Plains by early
+afternoon Wednesday. Enhanced mid-level flow will support initial
+supercells capable of hail and isolated damaging gusts. Local
+terrain effects and enhanced low-level shear near the front may also
+allow for a tornado or two. Scattered severe storms expand in
+coverage across the I-25 corridor through the afternoon before
+moving eastward into the plains through the evening.
+
+How far east the severe threat will extend remains uncertain as
+cooler temperatures and lingering inhibition are likely to be in
+place behind the front. Should sufficient upscale growth take place,
+an MCS may develop and merge with additional convection farther east
+before continuing south/southeastward across the central Plains
+overnight. This would support a continued risk for at least isolated
+damaging gusts.
+
+...Central Plains...
+As the cold front continues to move southward across the central
+Plains, lingering inhibition and forcing for ascent displaced to the
+north should limit convective development along the front through
+much of the day However, warm surface temperatures and 60s-70s F
+surface dewpoints will support large buoyancy along the front. As a
+30-40 kt low-level jet increases into the evening, storm development
+is expected with increasing low-level warm air advection. Isolated
+damaging gust are possible.
+
+...Great Lakes...
+A convectively augmented shortwave trough over the central Plains
+will quickly move eastward along the sagging cold front. Ascent from
+this feature will aid in developing a wave cyclone along the front,
+enhancing the low-level flow field across parts of WI and northern
+IL. An ongoing arc of storms near the surface low should gradually
+re-intensify through the morning and into the early afternoon.
+Moderate MLCAPE and strengthening flow aloft will support a mix of
+cells and clusters. The primary risk is expected to be damaging
+gusts, though enlarged low-level hodographs and 100-200 J/kg of
+MLCAPE below 3km AGL may support some tornado risk with the more
+cellular elements. With time gradual upscale growth into a more
+linear structure is expected near the western shores of Lake
+Michigan with a continued risk for damaging gusts.
+
+To the east, strong heating of a very humid air mass is expected
+across Lower Michigan through the afternoon. Scattered to widespread
+storms are likely along the typical lake breeze fronts. Vertical
+shear will be weaker through the afternoon, though at least some
+enhancement of the flow field could support isolated damaging gusts
+with scattered to numerous storms expected. 
+
+There is some potential for a more organized line/cluster of storms
+on the western side of the lake to move eastward across Lake
+Michigan late in the evening and through the overnight hours.
+Stronger flow aloft near the shortwave trough could support damaging
+gust and brief tornado potential across parts of northern Lower
+Michigan overnight. Higher severe probabilities could be needed if
+confidence in this convective scenario increases in future outlooks.
+
+
+...Upper OH valley...
+Widespread thunderstorms are expected across the region in response
+to a shortwave impulse. Modest instability is forecast amid a very
+moist airmass. While vertical shear will remain fairly limited, some
+slight enhancement near the upper trough could support a few
+longer-lived storm clusters. Isolated strong gusts/wet microbursts
+could occur, with the more intense storms.
+
+...Northern Gulf Coast...
+Scattered to numerous thunderstorms associated with Invest 93L will
+occasionally move onshore across the northern/central Gulf Coast
+Wednesday and Wednesday night. Enhancement of low and mid-level
+easterly shear north of the weak surface circulation may support a
+few longer-lived cells near the coast. Sporadic damaging gusts and
+perhaps a brief tornado are possible, though confidence in this
+convective scenario is very low.
+
+..Lyons.. 07/15/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2025-07-15, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Tue Jul 15 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>1. Florida Peninsula into the Northeastern Gulf (AL93):<br>Satellite and radar data indicate that the low pressure area <br>previously over the Atlantic is moving onto the coast of <br>northeastern Florida.  This system is currently producing <br>disorganized shower and thunderstorm activity, and little <br>development is expected through tonight while the center is over <br>land. Once the system reaches the northeastern Gulf on Wednesday, <br>environmental conditions appear generally favorable for additional <br>development, and a tropical depression could form while the system <br>moves across the northeastern and north-central Gulf and approaches <br>the coast of Louisiana on Thursday.<br><br>Regardless of development, heavy rainfall could produce localized <br>flash flooding over portions of Florida through Wednesday. Heavy <br>rainfall could also cause flash flooding for portions of the <br>north-central Gulf Coast beginning Wednesday and continuing through <br>Friday. For additional information, please refer to products issued <br>by your local National Weather Service office.<br>* Formation chance through 48 hours...medium...40 percent.<br>* Formation chance through 7 days...medium...40 percent.<br><br><br><br>Forecaster Beven<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Central North Pacific Tropical Weather Outlook
+
+date: 2025-07-15, from: Central Pacific Basin Tropical Cyclones
+
+094 <br />ACPN50 PHFO 151712<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />800 AM HST Tue Jul 15 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Gibbs<br />NNNN 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2025-07-15, from: Eastern Pacific Basin Tropical Cyclones
+
+093 <br />ABPZ20 KNHC 151712<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Tue Jul 15 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Gibbs 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2025-07-15, from: Eastern Pacific Tropical Weather Outlook
+
+093 <br />ABPZ20 KNHC 151712<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Tue Jul 15 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Gibbs 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2025-07-15, from: Central Pacific Tropical Weather Outlook
+
+094 <br />ACPN50 PHFO 151712<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />800 AM HST Tue Jul 15 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Gibbs<br />NNNN 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
+
+---
+
+## SPC Jul 15, 2025 1630 UTC Day 1 Convective Outlook
+
+date: 2025-07-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1121 AM CDT Tue Jul 15 2025
+
+Valid 151630Z - 161200Z
+
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FOR CENTRAL
+NEBRASKA...
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS SURROUNDING THE
+SLIGHT RISK INTO THE UPPER MIDWEST...FOR NORTHERN AND EASTERN
+WYOMING...AND NORTHERN UTAH AND SURROUNDING VICINITY...
+
+...SUMMARY...
+Scattered severe gusts (some 75+ mph) and large hail are probable
+across parts of Nebraska late this afternoon and evening.  Scattered
+severe gusts are also possible from the Upper Midwest to Utah and
+Wyoming this afternoon to mid-evening.
+
+...Northern/Central Plains to the Upper Midwest...
+Primary focus for thunderstorms will be a slowly sagging,
+southward-moving cold front across the Upper Midwest and a couple
+mid-level perturbations moving east across the north-central states.
+Radar imagery shows a convectively augment disturbance moving east
+across northern SD and water-vapor imagery shows shortwave trough
+moving east across southeast WY.  Both mid-level features will
+likely prove instrumental in storm coverage and the risk for severe
+activity later today.  
+
+Despite stronger mid-level westerly flow relegated north of the 48th
+parallel, strong heating of a moist airmass will result in a very
+unstable boundary layer by mid afternoon from the Upper Midwest
+southwestward into the NE Sandhills.  Storms will probably develop
+from eastern SD and into MN this afternoon near the front and ahead
+of the SD mid-level feature.  Sufficient instability and
+effective bulk shear should be present along/ahead of the front to
+support organized convection, including some supercells. Large hail
+will be possible with the initially semi-discrete thunderstorms,
+before a rapid transition to a cluster/linear mode increases the
+threat for severe/damaging winds. This activity should quickly
+weaken by late evening as it encounters a less unstable airmass with
+eastward extent across the upper Great Lakes.
+
+A somewhat separate area of thunderstorms should initiate
+along/south of the front across parts of southern SD into NE by late
+afternoon/early evening. Greater instability will likely be present
+across this region compared to locations farther north, but
+deep-layer shear should be more modest (around 25-30 kt). Still,
+some large hail may occur initially given the presence of steep
+mid-level lapse rates. The threat for scattered to numerous
+severe/damaging winds is expected to increase through the evening
+across central NE as an intense bowing cluster develops and spreads
+southeastward. Isolated significant gusts of 75+ mph appear possible
+given the rather favorable thermodynamic environment.
+
+...Great Basin into Wyoming...
+The only change for this portion of the region is to increase
+severe-wind probabilities across northern UT and surrounding states.
+The southern fringe of stronger mid-level westerlies was sampled by
+the 12 UTC Salt Lake City raob.  With the approach of the upstream
+northern Rockies disturbance glancing the region later today,
+short-term model guidance (e.g., HREF members, time-lagged HRRR) is
+consistent in showing small clusters of storms moving east from
+northeast NV/northwest UT eastward into northern UT/southeast ID/far
+southwest WY.  Inverted-V profiles will strongly favor evaporative
+cooling with the more rain-laden cores.  Scattered severe gusts are
+possible with the more intense downbursts through early evening.  
+
+Farther east, the closer proximity to the upper trough digging
+southeastward over the northern Rockies will promote scattered
+storms across northern into eastern WY this afternoon and evening. 
+An organized cluster may evolve given 25-35 kt of deep-layer shear,
+while posing a threat for mainly severe/damaging winds given the
+presence of steepened low/mid-level lapse rates. Isolated large hail
+may also occur. 
+
+...Arizona...
+Modest mid-level east-northeasterlies will be present today across
+parts of AZ on the southern periphery of a mid-level anticyclone
+over the Southwest. Scattered thunderstorms should once again
+develop this afternoon over the higher terrain of southeast AZ and
+southwest NM. With very steep low/mid-level lapse rates expected
+with ample daytime heating, this activity may pose an isolated
+threat for severe winds as it spreads into the lower elevations of
+southern AZ through the evening.
+
+..Smith/Jirak.. 07/15/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 
@@ -166,82 +1103,6 @@ No Mesoscale Discussions are in effect as of Tue Jul 15 12:39:02 UTC 2025.
 
 ---
 
-## NHC Atlantic Outlook
-
-date: 2025-07-15, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Tue Jul 15 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>1. East of the Florida Peninsula into the Northeastern Gulf (AL93):<br>Satellite and radar data indicate that the shower and thunderstorm <br>activity associated with the low pressure located just offshore of <br>the east coast of Florida remains disorganized. This system is <br>forecast to move westward across the Florida Peninsula today and <br>then reach the northeastern Gulf by Wednesday.  Environmental <br>conditions appear generally favorable for additional development, <br>and a tropical depression could form while the system moves across <br>the northeastern and north-central Gulf.<br><br>Regardless of development, heavy rainfall could produce localized <br>flash flooding over portions of Florida through mid-week. Heavy <br>rainfall could also cause flash flooding for portions of the <br>north-central Gulf Coast during the middle to latter portions of <br>this week.<br>* Formation chance through 48 hours...medium...40 percent.<br>* Formation chance through 7 days...medium...40 percent.<br><br><br><br>Forecaster Bucci<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## CPHC Central North Pacific Outlook
-
-date: 2025-07-15, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>Issued by NWS National Hurricane Center Miami FL<br>200 AM HST Tue Jul 15 2025<br><br>For the central North Pacific...between 140W and 180W:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Gibbs<br>NNNN<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2025-07-15, from: Eastern Pacific Basin Tropical Cyclones
-
-507 <br />ABPZ20 KNHC 151135<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Tue Jul 15 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Gibbs 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2025-07-15, from: Eastern Pacific Tropical Weather Outlook
-
-507 <br />ABPZ20 KNHC 151135<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Tue Jul 15 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Gibbs 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
-
----
-
-## Central Pacific Tropical Weather Outlook
-
-date: 2025-07-15, from: Central Pacific Tropical Weather Outlook
-
-506 <br />ACPN50 PHFO 151135<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />200 AM HST Tue Jul 15 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Gibbs<br />NNNN 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
-
----
-
 ## SPC MD 1670
 
 date: 2025-07-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -361,611 +1222,6 @@ MOST PROBABLE PEAK WIND GUST...UP TO 60 MPH
 <br> 
 
 <https://www.spc.noaa.gov/products/md/md1669.html>
-
----
-
-## SPC Jul 14, 2025 2000 UTC Day 1 Convective Outlook
-
-date: 2025-07-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0257 PM CDT Mon Jul 14 2025
-
-Valid 142000Z - 151200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS OF
-THE MID-ATLANTIC AND THE NORTHERN PLAINS...
-
-...SUMMARY...
-Strong to severe thunderstorms are possible across parts of the
-northern Plains as well as the Mid-Atlantic States this afternoon
-into tonight. Isolated strong to severe thunderstorms are possible
-across the East, Mid-South, southeast Arizona, and Florida.
-
-...20z Update...
-The previous outlook remains on track and no significant changes
-were made with this update. Towering cumulus/initial storm
-development is underway across the higher terrain of WY and, as
-remaining CINH as shown on the 18z Rapid City Sounding is removed
-via diurnal heating, additional development is expected in the
-vicinity of the Black Hills. Storms should tend to evolve into
-clusters/line segments while moving east this afternoon and evening.
-Very steep low- and mid-level lapse rates and dry low levels above
-the boundary layer will result in a damaging wind risk, and an
-isolated potential for severe hail with isolated stronger storms.
-
-Across the mid-Atlantic, thunderstorms continue to develop and move
-east within a very moist/moderately unstable air mass. Please refer
-to Mesoscale Convective Discussion 1668 for the latest short-term
-thinking regarding convective evolution in this area.
-
-..Bunting.. 07/14/2025
-
-.PREV DISCUSSION... /ISSUED 1135 AM CDT Mon Jul 14 2025/
-
-...Mid-Atlantic into the Northeast...
-A belt of stronger mid-level flow extends from the north-central
-CONUS/south-central Canadian Prairies through the Northeast, with
-some modest cyclonic curvature. A more defined shortwave trough is
-currently progressing into the Upper OH Valley/central Appalachians,
-along the southern periphery of the belt of stronger, broadly
-cyclonic flow. Showers and isolated thunderstorms are currently
-ongoing just ahead of this shortwave. 
-
-Expectation is for this shortwave trough to continue
-eastward/northeastward throughout the day, with the modest upper
-troughing farther north shifting eastward as well. A reservoir of
-ample low-level moisture (i.e. dewpoints in the low to mid 70s) is
-in place ahead of this shortwave. This low-level moisture will
-support airmass destabilization and moderate buoyancy this afternoon
-despite widespread cloudiness and tempered daytime heating.
-Thunderstorm development is anticipated as large-scale ascent
-attendant to the approaching shortwave (and larger upper trough)
-moves into the region. Additionally, recent surface analysis places
-a trough axis from the northern NY/VT border southwestward through
-central PA. Low-level convergence along this axis could augment the
-large-scale ascent. All of these factors will act to support
-scattered to numerous thunderstorms this afternoon.
-
-While mid-level flow and related deep-layer shear are both expected
-to remain fairly modest, some of this convection could congeal into
-multiple loosely organized clusters. Steepened low-level lapse rates
-and water loaded downdrafts could support isolated strong to
-damaging winds as thunderstorms spread generally eastward through
-the afternoon and evening. Highest thunderstorm coverage and
-greatest relative chance for damaging gusts is expected from eastern
-PA through central VA.
-
-...Northern Plains to Northern Minnesota...
-Satellite imagery shows a vorticity maximum drifting slowly across
-the central Intermountain West. Large-scale ascent attendant to this
-vorticity maximum will augment low-level convergence along a
-sharpening lee trough, likely resulting in enough lift to promote
-thunderstorm development across eastern WY during the late
-afternoon. This area is on the southern periphery of a belt of
-stronger westerlies, and there appears to be just enough westerly
-flow aloft for updraft organization and persistence into the better
-moisture and buoyancy farther east. As such, there is a risk for
-strong to severe gusts within this deeply mixed airmass throughout
-the afternoon and evening.
-
-Thunderstorm development also appears possible along a surface
-trough that arcs from western MT to a low in southwest SD. A
-conditional severe risk exists with any storms that develop near the
-surface low over ND this afternoon, but the greater thunderstorm
-coverage is anticipated later this evening and overnight as warm-air
-advection across the frontal zone strengthens. Elevated
-thunderstorms are also expected tonight as an
-upper trough overspreads the northern Rockies. Given ample shear and
-buoyancy, isolated hail is possible in both of these regions
-tonight.
-
-...Eastern GA into the FL Peninsula...
-Ample low-level moisture and robust diurnal heating will result in
-strong buoyancy from eastern GA southward across the entire FL
-Peninsula this afternoon. A modest cyclone drifting westward towards
-the GA/FL coast will interact with this airmass, contributing to
-widespread thunderstorm development this afternoon. Convection
-should develop along/near the Atlantic Coast before spreading
-south-southwestward and inland across much of the FL Peninsula this
-afternoon/evening. Several clusters capable of producing isolated
-strong to severe winds are possible.
-
-...AZ...
-High pressure over the southern Great Basin will contribute to 
-around 20-25 kt of northeasterly mid-level flow across southern AZ
-this afternoon. This mid-level flow will take storms that develop
-across the higher terrain southwestward into the deeply mixed
-boundary layer over southeast AZ. A few strong to severe gusts are
-possible, but overall coverage will likely be sparse.
-
-...South-Central/Southeast TX into the Mid-South...
-A trio of MCVs is apparent on radar and satellite imagery this
-morning. One is centered over Real and Uvalde Counties in the TX
-Hill Country, with another over Denton and Collin Counties in north
-TX, and the third farther north over northeast AR. At least
-scattered thunderstorms are possible this afternoon/evening with
-each of these MCVs as they progress eastward/northeastward. Vertical
-shear will be weak, but discrete storm propagation along the
-stronger outflows could result in occasionally strong/damaging
-downbursts.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2025-07-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0256 PM CDT Mon Jul 14 2025
-
-Valid 151200Z - 161200Z
-
-...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF EASTERN NEVADA INTO
-WESTERN UTAH AND NORTHERN ARIZONA...
-
-...Dry Thunderstorms...
-An expansive area of isolated dry thunderstorms across the was
-maintained for this update, with only slight northward adjustments
-to highlights into north central Nevada as well as southeastern ID
-and far western WY given latest model guidance consensus. An
-advancing mid-level trough into the northwest and attendant
-increased mid-level flow will support faster thunderstorm motions
-particularly across central and northeastern NV Tuesday, with
-northeast trajectories of 20-30 mph. This will limit rainfall
-residence time and increase lightning ignition efficiency over dry
-fuels.
-
-...Great Basin...
-Enhanced westerly flow over western Nevada associated with the an
-encroaching mid-level trough over a deeply mixed boundary layer will
-promote west winds approaching 20 mph across northwestern NV.
-Relative humidity combined with higher winds will support an
-elevated fire weather threat amid dry fuels. Higher winds under a
-similarly dry boundary layer will bring critical fire weather
-conditions to portions of eastern NV, southwestern UT and the
-Arizona Strip.
-
-..Williams.. 07/14/2025
-
-.PREV DISCUSSION... /ISSUED 0144 AM CDT Mon Jul 14 2025/
-
-...Synopsis...
-A deepening mid-level wave will bring an increase in winds and
-potential for dry thunderstorms across the Great Basin on Tuesday.
-Elevated to Critical conditions can be expected in portions of
-eastern Nevada, western Utah, northern Arizona and southern Idaho.
-
-...Eastern Nevada, western Utah, northern Arizona...
-Increasing southwesterly flow around 10-20 mph will overlap with
-afternoon relative humidity reductions to around 10-15 percent on
-Tuesday afternoon. The best overlap of Critical winds and relative
-humidity appears to be across eastern Nevada into western Utah.
-Further south into northern Arizona and the Arizona Strip, winds may
-be at or just below Critical thresholds. However, ongoing fires with
-a history of erratic fire behavior warrant inclusion into the
-Critical area. Gusty and erratic winds from nearby thunderstorms
-will also be possible. 
-
-...Dry Thunderstorms...
-Isolated dry thunderstorms will be possible on the periphery of
-deeper monsoonal moisture across portions of northern Arizona into
-western Colorado, Utah, far southern Idaho, western Wyoming, and
-Nevada. Within these regions, PWs generally around 0.25-0.50" are
-expected with moisture remaining primarily mid-level with drier
-boundary layer conditions below. This will promote high based
-convection with little precipitation amid faster storm motions with
-the mid-level trough passage. Fuels within these regions are
-receptive to ignition and as such an isolated dry thunder area was
-maintained with this outlook.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## SPC Jul 14, 2025 1930 UTC Day 3 Severe Thunderstorm Outlook
-
-date: 2025-07-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day3otlk.gif" border="1" alt="Day 3 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0224 PM CDT Mon Jul 14 2025
-
-Valid 161200Z - 171200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FROM THE CENTRAL
-HIGH PLAINS EASTWARD TO THE GREAT LAKES AND MIDWEST...
-
-...SUMMARY...
-Scattered strong to severe thunderstorms are possible Wednesday
-afternoon and evening from parts of the central High Plains to the
-Great Lakes.
-
-...Central Plains...
-At the start of the period, several areas of convection are likely
-to be ongoing from eastern NE into northern KS and western IA.
-Additional storms are likely ahead of the slow-moving cold
-front/composite outflow sagging south from eastern WY and the
-Rockies. Re-intensification and additional storm development appears
-likely ahead of the boundary as a broad shortwave trough/MCV shift
-eastward. The stronger vertical shear will likely lag to the north
-of the front, casting some uncertainty on storm character. However,
-sufficient buoyancy/shear should still support a damaging gust and
-hail risk from the central High plains eastward.
-
-...Great Lakes...
-As the shortwave trough/MCV moves eastward ahead of the front,
-redevelopment of scattered showers and thunderstorms is possible
-Wednesday across parts of WI into northern IL and MI. Enhanced
-westerly flow could support some severe risk with these storms
-through the afternoon and potentially across the lower Great lakes
-overnight. Confidence in the evolution of this threat is low but the
-general environment will be favorable for severe storms with
-2000-3000 J/kg of MLCAPE and 25-30+ kt of effective shear.
-
-...Gulf Coast...
-A tropical wave over the northern Gulf will likely support numerous
-thunderstorms Wednesday afternoon and evening. A very high PWAT air
-mass (> 2 inches) and slight enhancement of mid-level easterly shear
-could allow for brief storm organization along the immediate central
-Gulf Coast. Sporadic damaging gusts or a brief tornado could occur,
-though convective details remain limited.
-
-...Upper OH Valley...
-On the fringes of the strong sub-tropical ridging, prior convection
-could result in the development of an MCV across the OH valley and
-central Appalachians early Wed. Should this occur, scattered storms
-may redevelop through the morning across the Upper OH valley.
-Slightly enhanced flow aloft and high PWATs would suggests some risk
-for damaging gusts is possible. However, confidence in the overall
-scenario is too low for higher probabilities at this time.
-
-..Lyons.. 07/14/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
-
----
-
-## SPC Jul 14, 2025 1730 UTC Day 2 Convective Outlook
-
-date: 2025-07-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1236 PM CDT Mon Jul 14 2025
-
-Valid 151200Z - 161200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE CENTRAL
-AND NORTHERN PLAINS AND WESTERN GREAT LAKES REGION...
-
-...SUMMARY...
-Strong to severe thunderstorms are possible Tuesday afternoon and
-evening across portions of the central Plains to Upper Midwest.
-Isolated damaging gusts are also possible over parts of the northern
-Great Basin.
-
-...Central/Northern Plains to the upper Midwest...
-A positive-tilt upper trough is forecast to eject eastward with
-several weaker leading disturbances located across the northern
-Rockies Tuesday. Coincident with increasing mid/upper westerly flow,
-height falls and weak ascent will support the development of a
-surface low over western SD. This low will move into southern MN by
-Wednesday morning, while a cold front will sag southward across MT,
-the Dakotas and northern MN.
-
-South of the front and surface low, a seasonably warm/humid air mass
-will be in place near the triple point across NE and eastern SD,
-extending northward along the front into the upper Midwest. Moderate
-to strong destabilization (2500-3500 J/kg MLCAPE), and ascent from
-the approaching upper troughs will promote scattered strong to
-severe storms by the afternoon. Vertical shear around 25-35 kt will
-support a mix of cells and clusters capable of damaging gusts and
-hail.
-
-A fairly quick transition to upscale growth is likely Tuesday
-evening given the large buoyancy and weaker low-level flow allowing
-for consolidation of outflow. Most CAM solutions show eventual MCS
-development across central/southeast NE into the overnight hours.
-Aided by a 40+ kt southerly low-level jet, this MCS could continue
-into parts of western IA and northern KS with a risk for damaging
-gusts through 12z.
-
-Farther northeast along the front, veered low-level flow and largely
-unidirectional wind profiles should favor a predominately linear
-storm mode. One or more clusters may emerge primarily with a risk
-for damaging gusts and hail as they moving from MN to northern WI
-and western upper MI by Tuesday evening. Locally stronger flow aloft
-and near the front could also support a brief tornado or two.
-
-Isolated hail and damaging gusts will also be possible in the
-post-frontal upslope flow regime across northern and eastern WY into
-western SD. Enhanced mid-level flow and 500-1000 J/kg of MUCAPE
-could support a few supercells or stronger clusters near and along
-the front.
-
-...Eastern Great Basin...
-As the cold front gradually moves south, it should begin to stall
-across the northern Great basin Tuesday afternoon. As forcing for
-ascent from the upper trough interacts with strong diurnal heating,
-scattered thunderstorm are expected along the front and adjacent
-higher terrain from northeast NV, through northern UT and into
-southwestern WY. Weak to moderate SBCAPE atop deep inverted-V
-structures will favor strong downdrafts with these high-based
-storms. Damaging gust potential will be maximized along the front
-where locally stronger convergence and deep-layer shear should
-support a larger concentration and greater persistence of
-strong/occasionally severe storm clusters.
-
-...Mid MS Valley...
-Scattered to numerous thunderstorms remain likely with several
-convectively augmented vort maxima/MCVs currently observed across
-central/northeast TX. While less defined than previous guidance
-cycles, locally stronger forcing for ascent and enhanced
-low/mid-level flow could support one or more clusters of strong to
-occasional severe storm Tuesday afternoon across the Mid MS Valley.
-These clusters will develop within a very warm/unstable air mass
-with the potential for occasional damaging gusts from heavily
-water-loaded downdrafts. As mentioned in the prior outlook,
-confidence in the ultimate location of theses features as well as
-the resulting storm coverage/intensity remains too low to introduce
-higher severe probabilities.
-
-...Southern AZ...
-Weak easterly flow and seasonably high monsoon moisture south of the
-upper ridge are expected to support scattered thunderstorms across
-parts of southern AZ Tuesday afternoon and evening. While steering
-flow is not overly strong, some enhancement of the mid-level
-easterlies could promote slightly more organized storm clusters
-capable of damaging gusts given the deeply mixed PBL.
-
-...Southeast and FL...
-A weak tropical wave will likely serve as a focus for numerous
-thunderstorms Tuesday and Tuesday night across parts of FL and the
-Gulf Coast. A warm, unstable and humid air mass will support
-numerous thunderstorm clusters over a broad area capable of sporadic
-damaging downbursts through much of the day. Locally higher severe
-probabilities will be greatest along sea breeze boundaries and near
-the upper vort max. However, confidence in more than occasional
-severe potential is low.
-
-..Lyons.. 07/14/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2025-07-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-1148 AM CDT Mon Jul 14 2025
-
-Valid 141700Z - 151200Z
-
-...CRITICAL FIRE WEATHER AREA FOR CENTRAL WASHINGTON...
-
-...Central/Northeastern Utah and Northwestern Colorado...
-A weak upper-level wave evident in water vapor imagery will move
-through northern Utah today. Slightly increased mid-level flow on
-the southern periphery of the wave will support enhanced dry
-downslope flow into the Uinta Basin and along and east of the
-central Utah mountain chain. Sustained winds of 10-15 mph along with
-10-15 percent relative humidity will result in a period of elevated
-fire weather conditions over dry fuels where ERC values are around
-the 97th percentile.
-
-Otherwise, no major changes to previous forecast (see below) for the
-Northwest, Great Basin or Snake River Plain highlights.
-
-..Williams.. 07/14/2025
-
-.PREV DISCUSSION... /ISSUED 0138 AM CDT Mon Jul 14 2025/
-
-...Synopsis...
-A mid-level trough will bring a belt of enhanced westerly flow aloft
-across portions of the Pacific Northwest today. A period of Elevated
-to Critical fire weather conditions can be expected across the
-Columbia River Basin in Oregon and Washington and in the Snake River
-Plain in Idaho. The trough will also promote dry thunderstorm
-development across the Great Basin.
-
-...Cascades and Columbia River Basin...
-Relative humidity reductions to 15-20 percent will combine with west
-winds around 15 mph promoting elevated fire weather concerns for the
-Columbia River Basin through Monday afternoon. A considerable wind
-shift is expected with the dry cold front passage beginning early
-afternoon across the Okanagan Valley before reaching the Columbia
-River by evening. Although relative humidity will rise behind the
-front, a few hours of sustained north winds of 20-30 mph will create
-Critical fire weather concerns and could significantly impact
-existing active or new fires Monday.
-
-...Snake River Plain...
-Relative humidity reductions to 15-20 percent will combine with
-westerly winds around 10-15 mph (locally higher) through Monday
-afternoon. Locally stronger winds may bring near Critical to
-Critical conditions, however the localized nature precludes
-inclusion of a Critical area at this time. 
-
-...Dry Thunderstorms...
-Forcing for ascent with the upper-level trough will allow for high
-based convection to develop across portions of the northern Great
-Basin. Primarily mid-level moisture will overspread a very dry and
-warm boundary layer, with little to no precipitation and storm
-motions around 10-20 mph. This in combination with critical fuels
-supports maintaining and area of isolated dry thunderstorm chances
-across northern Nevada into southeastern Oregon, southern Idaho, and
-far northeastern Nevada.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
-
----
-
-## SPC Jul 14, 2025 1630 UTC Day 1 Convective Outlook
-
-date: 2025-07-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook CORR 1
-NWS Storm Prediction Center Norman OK
-1135 AM CDT Mon Jul 14 2025
-
-Valid 141630Z - 151200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE
-MID-ATLANTIC AS WELL AS FAR EAST-CENTRAL WYOMING...SOUTHWEST SOUTH
-DAKOTA...AND THE FAR NORTHERN NEBRASKA PANHANDLE...
-
-CORRECTED FOR INCORRECT GEOGRAPHIC DESCRIPTION IN HEADLINE
-
-...SUMMARY...
-Strong to severe thunderstorms are possible across parts of the
-northern Plains as well as the Mid-Atlantic States this afternoon
-into tonight. Isolated strong to severe thunderstorms are possible
-across the Mid-South, southeast Arizona, and Florida.
-
-...Mid-Atlantic into the Northeast...
-A belt of stronger mid-level flow extends from the north-central
-CONUS/south-central Canadian Prairies through the Northeast, with
-some modest cyclonic curvature. A more defined shortwave trough is
-currently progressing into the Upper OH Valley/central Appalachians,
-along the southern periphery of the belt of stronger, broadly
-cyclonic flow. Showers and isolated thunderstorms are currently
-ongoing just ahead of this shortwave. 
-
-Expectation is for this shortwave trough to continue
-eastward/northeastward throughout the day, with the modest upper
-troughing farther north shifting eastward as well. A reservoir of
-ample low-level moisture (i.e. dewpoints in the low to mid 70s) is
-in place ahead of this shortwave. This low-level moisture will
-support airmass destabilization and moderate buoyancy this afternoon
-despite widespread cloudiness and tempered daytime heating.
-Thunderstorm development is anticipated as large-scale ascent
-attendant to the approaching shortwave (and larger upper trough)
-moves into the region. Additionally, recent surface analysis places
-a trough axis from the northern NY/VT border southwestward through
-central PA. Low-level convergence along this axis could augment the
-large-scale ascent. All of these factors will act to support
-scattered to numerous thunderstorms this afternoon.
-
-While mid-level flow and related deep-layer shear are both expected
-to remain fairly modest, some of this convection could congeal into
-multiple loosely organized clusters. Steepened low-level lapse rates
-and water loaded downdrafts could support isolated strong to
-damaging winds as thunderstorms spread generally eastward through
-the afternoon and evening. Highest thunderstorm coverage and
-greatest relative chance for damaging gusts is expected from eastern
-PA through central VA.
-
-...Northern Plains to Northern Minnesota...
-Satellite imagery shows a vorticity maximum drifting slowly across
-the central Intermountain West. Large-scale ascent attendant to this
-vorticity maximum will augment low-level convergence along a
-sharpening lee trough, likely resulting in enough lift to promote
-thunderstorm development across eastern WY during the late
-afternoon. This area is on the southern periphery of a belt of
-stronger westerlies, and there appears to be just enough westerly
-flow aloft for updraft organization and persistence into the better
-moisture and buoyancy farther east. As such, there is a risk for
-strong to severe gusts within this deeply mixed airmass throughout
-the afternoon and evening.
-
-Thunderstorm development also appears possible along a surface
-trough that arcs from western MT to a low in southwest SD. A
-conditional severe risk exists with any storms that develop near the
-surface low over ND this afternoon, but the greater thunderstorm
-coverage is anticipated later this evening and overnight as warm-air
-advection across the frontal zone strengthens. Elevated
-thunderstorms are also expected tonight as an
-upper trough overspreads the northern Rockies. Given ample shear and
-buoyancy, isolated hail is possible in both of these regions
-tonight.
-
-...Eastern GA into the FL Peninsula...
-Ample low-level moisture and robust diurnal heating will result in
-strong buoyancy from eastern GA southward across the entire FL
-Peninsula this afternoon. A modest cyclone drifting westward towards
-the GA/FL coast will interact with this airmass, contributing to
-widespread thunderstorm development this afternoon. Convection
-should develop along/near the Atlantic Coast before spreading
-south-southwestward and inland across much of the FL Peninsula this
-afternoon/evening. Several clusters capable of producing isolated
-strong to severe winds are possible.
-
-...AZ...
-High pressure over the southern Great Basin will contribute to 
-around 20-25 kt of northeasterly mid-level flow across southern AZ
-this afternoon. This mid-level flow will take storms that develop
-across the higher terrain southwestward into the deeply mixed
-boundary layer over southeast AZ. A few strong to severe gusts are
-possible, but overall coverage will likely be sparse.
-
-...South-Central/Southeast TX into the Mid-South...
-A trio of MCVs is apparent on radar and satellite imagery this
-morning. One is centered over Real and Uvalde Counties in the TX
-Hill Country, with another over Denton and Collin Counties in north
-TX, and the third farther north over northeast AR. At least
-scattered thunderstorms are possible this afternoon/evening with
-each of these MCVs as they progress eastward/northeastward. Vertical
-shear will be weak, but discrete storm propagation along the
-stronger outflows could result in occasionally strong/damaging
-downbursts.
-
-..Mosier.. 07/14/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 

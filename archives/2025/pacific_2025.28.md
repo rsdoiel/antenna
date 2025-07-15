@@ -1,11 +1,172 @@
 ---
 title: pacific
-updated: 2025-07-15 06:07:30
+updated: 2025-07-15 14:07:41
 ---
 
 # pacific
 
-(date: 2025-07-15 06:07:30)
+(date: 2025-07-15 14:07:41)
+
+---
+
+## Transportation barriers impacting Hawaiʻi rural health care, policy solutions proposed
+
+date: 2025-07-15, from: University of Hawaiʻi News
+
+<p>A new <abbr>UH</abbr> report reveals how transportation challenges are delaying care for rural <span aria-label="Hawaii">Hawai&#699;i</span> residents and outlines possible policy fixes.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/15/transportation-travel-rural-health/">Transportation barriers impacting Hawaiʻi rural health care, policy solutions proposed</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/15/transportation-travel-rural-health/>
+
+---
+
+## Jason Momoa casts UH alum in Chief of War tv series
+
+date: 2025-07-15, from: University of Hawaiʻi News
+
+<p>Kaina Makua earned a <abbr title="bachelor of arts">BA</abbr> in Hawaiian studies and an <abbr title="master of arts">MA</abbr> in education and <span aria-label="olelo">&#699;&#333;lelo</span> <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/15/kaina-makua-chief-of-war-tv-series/">Jason Momoa casts <abbr>UH</abbr> alum in Chief of War tv series</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/15/kaina-makua-chief-of-war-tv-series/>
+
+---
+
+## Hawaii joins challenge to freeze on DOE funds
+
+date: 2025-07-15, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii joined a coalition of 24 other states and the District of Columbia in suing the Trump administration Monday over $6.8 billion in education funding that the administration has withheld a few weeks before the start of the school year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/15/hawaii-news/hawaii-joins-challenge-to-freeze-on-doe-funds/>
+
+---
+
+## PhD pathway for nurse scientists aims to advance health innovation in Hawaiʻi
+
+date: 2025-07-15, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> relaunches <abbr>PhD</abbr> in nursing program to grow Hawaiʻi’s nurse scientist workforce and improve health through research rooted in aloha.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/15/phd-in-nursing-relaunch/"><abbr>PhD</abbr> pathway for nurse scientists aims to advance health innovation in Hawaiʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/15/phd-in-nursing-relaunch/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Judge files affidavit in rape case
+
+date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
+
+SUPERIOR Court Judge Joseph N. Camacho has filed a declaration to clarify the evidentiary record from a preliminary hearing held on Nov. 23, 2022, involving Willie Carnell Frink. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/judge-files-affidavit-in-rape-case/article_6836e17c-137f-46d7-aa11-789c4a54d7b7.html>
+
+---
+
+## House urged to impose developer's tax on military construction projects
+
+date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
+
+REFALUWASCH rights advocate Melvin L.O. Faisao is urging the House of Representatives to amend the law and impose a developer’s tax on military construction projects. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/house-urged-to-impose-developers-tax-on-military-construction-projects/article_62b95a9f-c47a-413c-a3eb-642c836ff708.html>
+
+---
+
+## Nauru taps veteran banker to lead digital asset push
+
+date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
+
+(Government of the Republic of Nauru) — Following legislation passed by Nauru’s parliament last month to establish an authority to regulate virtual assets including cryptocurrency, the government has appointed highly respected Australian banking and financial markets executive Brian Phelps as its inaugural CEO. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/nauru-taps-veteran-banker-to-lead-digital-asset-push/article_3f3391ab-3e1c-4427-9450-2d48336430df.html>
+
+---
+
+## Saipan Chamber submits recommendations to King-Hinds
+
+date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
+
+THE Saipan Chamber of Commerce has formally submitted its response to U.S. Congresswoman Kimberlyn King-Hinds, regarding her proposed CNMI Labor Stabilization Policy Framework. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/saipan-chamber-submits-recommendations-to-king-hinds/article_0cb1fd29-c7da-4b17-ac00-b0755b9d1218.html>
+
+---
+
+## Red flags at 8 Saipan sites
+
+date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan’s west coast recreational beaches and storm drainages every week. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/red-flags-at-8-saipan-sites/article_8314c596-17c3-413f-9721-55240c2fe2cd.html>
+
+---
+
+## US Supreme Court clears way for Trump to gut Education Department
+
+date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
+
+WASHINGTON (Reuters) — The U.S. Supreme Court on Monday cleared the way for President Donald Trump's administration to resume dismantling the Department of Education, part of his bid to shrink the federal government's role in education in favor of more control by the states. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/us-supreme-court-clears-way-for-trump-to-gut-education-department/article_4b75935d-b57b-4905-ab7d-f4e609d075d1.html>
+
+---
+
+## McDonald’s Guam and Saipan congratulates local managers on graduating from Hamburger University in Chicago
+
+date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
+
+(Special Advertising Feature) — McDonald’s of Guam and Saipan proudly announces that two of its department managers, Aaron Palaming and Angelica Darlucio, had been selected to attend Hamburger University in Chicago. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/mcdonald-s-guam-and-saipan-congratulates-local-managers-on-graduating-from-hamburger-university-in-chicago/article_ec3b6f9a-8d34-4dd8-8d37-19b9d23a1bde.html>
+
+---
+
+## Rota SBDC wraps up exclusive AI training for small business owners
+
+date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
+
+(SBDC) — The Rota Small Business Development Center at Northern Marianas College successfully hosted its highly anticipated in-person training, “Let AI Handle Your Day-to-Day Grind,” on Thursday, July 10, 2025, at the NMC Rota Campus. The event brought together 12 local small business owners representing a wide range of industries and skill levels — all eager to learn how Artificial Intelligence can transform their business operations. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/rota-sbdc-wraps-up-exclusive-ai-training-for-small-business-owners/article_e6530e32-5a11-4f45-8a71-9574b201f697.html>
 
 ---
 

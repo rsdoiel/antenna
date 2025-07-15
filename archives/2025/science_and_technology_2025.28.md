@@ -1,11 +1,215 @@
 ---
 title: science and technology
-updated: 2025-07-15 06:07:31
+updated: 2025-07-15 14:07:41
 ---
 
 # science and technology
 
-(date: 2025-07-15 06:07:31)
+(date: 2025-07-15 14:07:41)
+
+---
+
+## NASA Selects Companies for Architect-Engineer Services Contract
+
+date: 2025-07-15, from: NASA breaking news
+
+NASA has selected seven companies to assist the agency with architectural and engineering services at multiple agency centers and facilities. The Western Regional Architect-Engineer Services is an indefinite-delivery/indefinite-quantity multiple award contract has a total estimated value not to exceed $75 million. The contract was awarded on July 14 with a five-year period of performance with [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-selects-companies-for-architect-engineer-services-contract/>
+
+---
+
+## Mistral launches Voxtral speech recognition model
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>Apache-licensed plan takes aim at costlier options</h4> <p>Mistral has released an open automatic speech recognition (ASR) software bundle called Voxtral in a bid to undercut rivals on price and quality.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/mistral_voxtral_speech_recognition/>
+
+---
+
+## Hubble Observations Give “Missing” Globular Cluster Time to Shine
+
+date: 2025-07-15, from: NASA breaking news
+
+A previously unexplored globular cluster glitters with multicolored stars in this NASA&#160;Hubble Space Telescope&#160;image. Globular clusters like this one, called ESO 591-12 or Palomar 8, are spherical collections of tens of thousands to millions of stars tightly bound together by gravity. Globular clusters generally form early in the galaxies’ histories in regions rich in gas [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/hubble-observations-give-missing-globular-cluster-time-to-shine/>
+
+---
+
+## Review: the NovaCustom V54 is an outstanding Linux laptop with Dasharo coreboot firmware
+
+date: 2025-07-15, from: OS News
+
+When it comes to open hardware, choices are not exactly abundant. Truly open source hardware &#8211; open down to the firmware level of individual components &#8211; that also has acceptable performance is rare, with one of the few options being the Talos II and Blackbird POWER9 workstations from Raptor Computing Systems (which I reviewed). Another option that can be fully open source with the right configuration are the laptops made by MNT, which use the ARM architecture (which I also reviewed). Both of these are excellent options, but they do come with downsides; the Talos II/Blackbird are expensive and getting a bit long in the tooth (and a possible replacement is at least a year away), and the MNT Reform and Pocket Reform simply aren&#8217;t for everyone due to their unique and opinionated design. Using an architecture other than x86 also simply isn&#8217;t an option for a lot of people, ruling out POWER9 and ARM hardware entirely. In the x86 world, it&#8217;s effectively impossible to avoid proprietary firmware blobs, but there are companies out there trying to build x86 laptops that try to at least minimise the reliance on such unwelcome blobs. One of these companies is NovaCustom, a Dutch laptop (and now desktop!) OEM that sells x86 computers that come with Dasharo open firmware (based on coreboot) and a strong focus on privacy, open source, customisability, and repairability. NovaCustom sent over a fully configured NovaCustom V54 laptop, so let&#8217;s dive into what it&#8217;s like to configure and use an x86 laptop with Dasharo open firmware and a ton of unique customisation options. Hardware configuration I opted for the 14&#8243; laptop model, the V54, since the 16&#8243; V65 is just too large for my taste. NovaCustom offers a choice between a 1920×1200 60Hz and a 2880×1800 120Hz panel, and I unsurprisingly chose the latter. This higher-DPI panel strikes a perfect balance between having a 4K panel, which takes a lot more processing power to drive, and a basic 1080p panel, which I find unacceptable on anything larger than 9&#8243; or so. The refresh rate of 120Hz is also a must on any modern display, as anything lower looks choppy to my eyes (I&#8217;m used to 1440p/280Hz on my gaming PC, and 4K/160Hz on my workstation &#8211; I&#8217;m spoiled). The display also gets plenty bright, but disappointingly, the V54 does not offer a touch option. I don&#8217;t miss it, but I know it&#8217;s a popular feature, so be advised. While the V54 can be equipped with a dedicated mobile RTX 4060 or 4070 GPU, I have no need for such graphical power in a laptop, so I stuck with the integrated Intel Arc GPU. Note that if you do go for the dedicated GPU, you&#8217;ll lose the second M.2 slot, and the laptop will gain some weight and thickness. I did opt for the more powerful CPU option with the Intel Intel Core Ultra 7 155H, which packs 6 performance cores (with hyperthreading), 8 efficiency cores, and 2 low-power cores, for a total of 16 cores and 22 threads maxing out at 4.8Ghz. Unless you intend to do GPU-intensive work, this combination is stupid fast and ridiculously powerful. Throw in the 32GB of DDR5 5600MHz RAM in a dual-channel configuration (2×16, replaceable) and a speedy 7.400 MB/s (read)/6.500 MB/s (write) 1TB SSD, and I sometimes feel like this is the sort of opulence Marie Antoinette would indulge herself in if she were alive today. It won&#8217;t surprise you to learn that with this configuration, you won&#8217;t be experiencing any slowdowns, stuttering, or other performance issues. Ports-wise, the V54 has a USB-C port (3.2 Gen 2), a Thunderbolt 4 port (with Display Alt Mode supporting&#160;DP 2.1), a USB-A port (3.2 Gen 2) and a barrel power jack on the right side, a combo audio jack, USB-A port (3.2 Gen 1), microSD card slot, and a Kensington lock on the left, and an Ethernet and HDMI port on the back. Especially the Ethernet port is such a welcome affordance in this day and age, and we&#8217;ll get back to it since we need it for Dasharo. The trackpad is large, smooth, and pleasant to use &#8211; for a diving board type trackpad, that is. More and more manufacturers are adopting the Apple-style haptic trackpads, which I greatly prefer, but I suspect there might be some patent and IP shenanigans going on that explain why uptake of those in the PC space hasn&#8217;t exactly been universal. If you&#8217;re coming from a diving board trackpad, you&#8217;ll love this one. If you&#8217;re coming from a haptic trackpad, it&#8217;s a bit of a step down. A standout on the V54 is the keyboard. The keys are perfectly spaced, have excellent travel, a satisfying, silent click, and they are very stable. It&#8217;s an absolute joy to type on, and about as good as a laptop keyboard can be. On top of that, at least when you opt for the US-international keyboard layout like I do, you get a keyboard that actually properly lists the variety of special characters on its keys. This may look chaotic and messy to people who don&#8217;t need to use those special characters, but as someone who does, this is such a breath of fresh air compared to all those modern, minimalist keyboards where you end up randomly mashing key combinations to find that one special character you need. Considering my native Dutch uses diacritics, and my wife&#8217;s native Swedish uses the extra letters å, ä, and ö (they&#8217;re letters!), this is such a great touch. The keyboard also has an additional layer for a numeric pad, as well as the usual set of function keys you need on a modern laptop, including a key that will max out the fan speed in case you need it (the little fan glyph on my keyboard seems double-printed, though, which is a small demerit). I especially like the angry moon glyph on the sleep key. He&#8217;s my grumpy friend and I love him. Of course, the  
+
+<br> 
+
+<https://www.osnews.com/story/142758/review-the-novacustom-v54-is-an-outstanding-linux-laptop-with-dasharo-coreboot-firmware/>
+
+---
+
+## KDE’s Plasma Bigscreen TV interface sees a ton of improvements
+
+date: 2025-07-15, from: OS News
+
+Did you know KDE has a television-focused user interface? It&#8217;s been languishing for a while now, but a recent week-long effort by KDE developer Devin has brought a lot of new life into the project. I have been a long time Plasma Mobile contributor, but I have always had a keen interest in having Linux on my TV! I have noticed that in the past few months, the Plasma Bigscreen project has had some interest from people wanting to contribute, but there have not been any active KDE developers working on the project. Since I have some time off school (having just graduated university), I decided to take a swing at improving the project for a week. ↫ Devin, KDE developer It turned out to be one hell of a productive week, because the list of improvements achieved in that one week is kind of amazing. Lots of overhauls of the visual design, a new search view, complete redesign of the settings panels, and a lot more. The idea of running a KDE Plasma-based interface on my TVs sounds incredibly appealing, and I hope the project can make even more progress. 
+
+<br> 
+
+<https://www.osnews.com/story/142823/kdes-plasma-bigscreen-tv-interface-sees-a-ton-of-improvements/>
+
+---
+
+## Haiku gets proper HiDPI cursor scaling, improved colour schemes, and more
+
+date: 2025-07-15, from: OS News
+
+Haiku also survived another month of development, so it&#8217;s time for another roundup of what they&#8217;ve been doing. Considering it&#8217;s the height of Summer, it&#8217;s no surprise the list of changes is a bit shorter, consisting mostly of smaller bugfixes and minor improvements. A few standout changes are that cursors can now be properly scaled in HiDPI, the iprowifi3945 driver from FreeBSD has been replaced by the OpenBSD one because it performs better, and several improvements to how colour schemes work. waddlesplash refactored how control edge (borders, etc.) colors are computed inside HaikuControlLook (the class that renders UI controls under the default appearance), cleaning up a lot of convoluted computations. He also fixed some color handling in the progress bar control, and then along with nephele, refactored how control colors are used and computed across the system. The “Control background” color in Appearance preferences now has a new default and is much more properly used across the Interface Kit; under the default colors, renderings should be basically the same as before, but for users on “dark mode” or other custom color schemes, it will now be much easier to pick control colors. ↫ waddlesplash on the Haiku website There&#8217;s more, of course, so be sure to read the whole thing. 
+
+<br> 
+
+<https://www.osnews.com/story/142821/haiku-gets-proper-hidpi-cursor-scaling-improved-colour-schemes-and-more/>
+
+---
+
+## Caught between China and Trump, Apple spends $500M on rare earth recycling
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>MP Materials aims to deliver US-made, recycled magnets by 2027</h4> <p>Apple has signed a deal with the only active rare earth mine under American control to begin sourcing magnets for its iDevices from the US - but not from the mine itself: Apple&#39;s going to recycle. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/apple_rare_earth_recycling/>
+
+---
+
+## NASA’s SpaceX Crew-11 Mission Gears Up for Space Station Research
+
+date: 2025-07-15, from: NASA breaking news
+
+A host of scientific investigations await the crew of NASA’s SpaceX Crew-11 mission during their long-duration expedition aboard the International Space Station. NASA astronauts Zena Cardman and Mike Fincke, and JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui, are set to study plant cell division and microgravity’s effects on bacteria-killing viruses, as well as perform [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crew-11-mission-gears-up-for-space-station-research/>
+
+---
+
+## Faceless megacorps could be a salary-hungry IT pro's best friend, if you're in AI that is
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>They might pay more, but don&#39;t expect a mega salary anymore</h4> <p>If you&#39;re looking for top dollar and job satisfaction as an IT professional, try for a role in the biggest, most faceless mega-corporation you can find - at least that&#39;s what mid-year US salary survey data suggests.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/janco_it_salary_report/>
+
+---
+
+## Smartphones in the doldrums due to crap demand and tariff woes
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>Inventories stack up stateside as Apple and co prep for import tax tweaks</h4> <p>The global smartphone industry is taking a hit from increasing uncertainty and volatility in the marketplace caused by a certain US President&#39;s unpredictable trade policies.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/smartphones_in_doldrums/>
+
+---
+
+## NASA’s IXPE Imager Reveals Mysteries of Rare Pulsar
+
+date: 2025-07-15, from: NASA breaking news
+
+An international team of astronomers has uncovered new evidence to explain how pulsing remnants of exploded stars interact with surrounding matter deep in the cosmos, using observations from NASA’s IXPE (Imaging X-ray Polarimetry Explorer) and other telescopes.  Scientists based in the U.S., Italy, and Spain, set their sights on a mysterious cosmic duo called PSR J1023+0038, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/ixpe/nasas-ixpe-imager-reveals-mysteries-of-rare-pulsar/>
+
+---
+
+## Helio Highlights: June 2025
+
+date: 2025-07-15, from: NASA breaking news
+
+Two Stars in Solar Science It takes a lot of work to make space missions happen. Hundreds or even thousands of experts work as a team to put together the spacecraft. Then it has to be tested in conditions similar to space, to be sure that it can survive out there once it is launched. […] 
+
+<br> 
+
+<https://science.nasa.gov/uncategorized/helio-highlights-june-2025/>
+
+---
+
+## Nearly 3 out of 4 Oracle Java users say they've been audited in the past 3 years
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>Big Red’s changes to Java licensing also inspire exodus to open source</h4> <p>A survey of 500 IT asset managers in organizations that use Oracle Java has found that 73 percent have been audited in the last three years.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/oracle_java_users_audited/>
+
+---
+
+## AI creeps into the risk register for America's biggest firms
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>S&amp;P 500 businesses warn investors they may never see ROI in SEC filings</h4> <p>America&#39;s largest corporations are increasingly listing AI among the major risks they must disclose in formal financial filings, despite bullish statements in public about the potential business opportunities it offers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/sec_risk_factors_ai/>
+
+---
+
+## One Survey by NASA’s Roman Could Unveil 100,000 Cosmic Explosions
+
+date: 2025-07-15, from: NASA breaking news
+
+Scientists predict one of the major surveys by NASA’s upcoming Nancy Grace Roman Space Telescope may reveal around 100,000 celestial blasts, ranging from exploding stars to feeding black holes. Roman may even find evidence of some of the universe’s first stars, which are thought to completely self-destruct without leaving any remnant behind. Cosmic explosions offer [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/roman-space-telescope/one-survey-by-nasas-roman-could-unveil-100000-cosmic-explosions/>
+
+---
+
+## Fourth NASA-Enabled Private Flight to Space Station Completes Safely
+
+date: 2025-07-15, from: NASA breaking news
+
+The NASA-supported fourth private astronaut mission to the International Space Station, Axiom Mission 4, completed its flight as part of the agency’s efforts to demonstrate demand and build operational knowledge for future commercial space stations. The four-person crew safely returned to Earth, splashing down off the coast of California at 5:31 a.m. EDT on Tuesday, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/humans-in-space/fourth-nasa-enabled-private-flight-to-space-station-completes-safely/>
+
+---
+
+## With Tomahawk Ultra, Broadcom asks who needs UALink when there's Ethernet?
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>The never Nvidia networking party just got another option</h4> <p>Chip vendors like AMD may be closing the gap with Nvidia on GPU FLOPS, memory bandwidth, and HBM capacity, but without a high-speed interconnect and switch, like NVLink and NVSwitch, their ability to scale that performance remains limited.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/broadcom_ethernet_scale_up/>
 
 ---
 
@@ -157,7 +361,7 @@ date: 2025-07-14, updated: 2025-07-14, from: The Register (UK I.T. News)
 
 date: 2025-07-14, updated: 2025-07-15, from: The Register (UK I.T. News)
 
-<h4>Looks like DoD FOMO struck Silicon Valley</h4> <p>The Pentagon&#39;s embrace of the AI industry just put up to $800 million on the table, as the Department of Defense issued a quartet of contracts bringing the biggest names in the biz officially into the fold. …</p> 
+<h4>Looks like DoD FOMO struck Silicon Valley</h4> <p><strong>Updated</strong>  The Pentagon&#39;s embrace of the AI industry just put up to $800 million on the table, as the Department of Defense issued a quartet of contracts bringing the biggest names in the biz officially into the fold. …</p> 
 
 <br> 
 
@@ -265,7 +469,7 @@ On Windows, there&#8217;s an option to show the seconds on the taskbar clock, bu
 
 date: 2025-07-14, updated: 2025-07-15, from: The Register (UK I.T. News)
 
-<h4>Neil Smith has been trying to get the railroad industry to listen since 2012, but it took a CISA warning to get there</h4> <p>When independent security researcher Neil Smith reported a vulnerability in a comms standard used by trains to the US government in 2012, he most likely didn&#39;t expect it would take until 2025 to sort the matter out, but here we are. …</p> 
+<h4>Neil Smith has been trying to get the railroad industry to listen since 2012, but it took a CISA warning to get there</h4> <p><strong>Updated</strong>  When independent security researcher Neil Smith reported a vulnerability in a comms standard used by trains to the US government in 2012, he most likely didn&#39;t expect it would take until 2025 to sort the matter out, but here we are. …</p> 
 
 <br> 
 

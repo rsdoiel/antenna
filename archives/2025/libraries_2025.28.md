@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2025-07-15 06:07:35
+updated: 2025-07-15 14:07:44
 ---
 
 # libraries
 
-(date: 2025-07-15 06:07:35)
+(date: 2025-07-15 14:07:44)
+
+---
+
+## Short Fiction, by Thomas Hardy
+
+date: 2025-07-15, from: Standard Ebooks, new releaases
+
+A collection of Thomas Hardy’s short stories, mostly ordered by date of publication. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/thomas-hardy/short-fiction>
 
 ---
 
@@ -46,6 +58,20 @@ date: 2025-07-14, from: Association of Research Libraries News
 <br> 
 
 <https://www.arl.org/uncategorized/day-in-review-july-14-17/>
+
+---
+
+## Day in Review (July 14–17)
+
+date: 2025-07-14, from: Association of Research Libraries News
+
+<p>Last Updated on July 15, 2025, 4:18 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 15 &#124; Wednesday, July 16 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-14-17/">Day in Review (July 14–17)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-july-14-17/>
 
 ---
 

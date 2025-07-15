@@ -1,11 +1,277 @@
 ---
 title: snapshots
-updated: 2025-07-15 06:07:39
+updated: 2025-07-15 14:07:47
 ---
 
 # snapshots
 
-(date: 2025-07-15 06:07:39)
+(date: 2025-07-15 14:07:47)
+
+---
+
+## Apple’s Browser Engine Ban Persists, Even Under the DMA
+
+date: 2025-07-15, from: Michael Tsai
+
+Jess Weatherbed: It&#8217;s been 16 months since a DMA ruling allowed iOS developers like Google and Mozilla to use their own browser engines in the EU, so&#8230; where are they? Open Web Advocacy (Hacker News): Apple&#8217;s compliance did not start well. Faced with the genuine possibility of third-party browsers effectively powering web apps, Apple&#8217;s first [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/15/apples-browser-engine-ban-persists-even-under-the-dma/>
+
+---
+
+## PureOS Crimson Development Report: June 2025
+
+date: 2025-07-15, from: Purism News and Events
+
+<p>That one task Welcome back!  As we enter the second half of 2025, we&#8217;re wrapping up the last few tasks to release the PureOS Crimson alpha for all Librem devices. In our last post, we mentioned that there was a key task remaining for gnome-control-center, the GNOME Settings application.  In that post, we referred to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/pureos-crimson-development-report-june-2025/">PureOS Crimson Development Report: June 2025</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br> 
+
+<https://puri.sm/posts/pureos-crimson-development-report-june-2025/>
+
+---
+
+## Upgrading an M4 Pro Mac Mini’s Storage for Half the Price
+
+date: 2025-07-15, from: Michael Tsai
+
+Jeff Geerling (via Hacker News): I documented the entire upgrade&#8212;along with taking my old M4 mini 1TB SSD and putting it in my Dad&#8217;s M4 mini&#8212;in today&#8217;s video[&#8230;][&#8230;]Speaking of standards&#8230; you have to do a full DFU (Device Firmware Update) restore, because unlike conventional M.2 NVMe storage, the M4 uses a proprietary connector, a proprietary-sized [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/15/upgrading-an-m4-pro-mac-minis-storage-for-half-the-price/>
+
+---
+
+## utiluti 1.2
+
+date: 2025-07-15, from: Michael Tsai
+
+Armin Briegel: I have also released an update to my CLI tool to set default apps for urls and file types (uniform type identifiers/UTI). utiluti 1.2 adds a manage verb which can read a list of default app assignments from plist files or a configuration profile. You can see the documentation for the new manage [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/15/utiluti-1-2/>
+
+---
+
+## Gatekeeper Change in macOS 15.4
+
+date: 2025-07-15, from: Michael Tsai
+
+Jeff Johnson (Mastodon): On macOS 15.2, I was able to drag the exact same downloaded WebP file to TextEdit and BBEdit with no Gatekeeper alert! Thus, it appears that the Reddit poster was correct, and something did change recently.[&#8230;]I perused the unusually long Apple support document About the security content of macOS Sequoia 15.4, but [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/15/gatekeeper-change-in-macos-15-4/>
+
+---
+
+## Beelink GTi15 Ultra is an Intel Arrow Lake mini PC with support for an (external) desktop graphics card
+
+date: 2025-07-15, from: Liliputing
+
+<p>Last year Beelink launched a line of mini PCs that are designed to work with desktop graphics cards that may be larger than the computers themselves. That&#8217;s Beelink GTi Ultra series mini PCs have an exposed PCIe x8 interface that allows you to connect them to a Beelink EX Pro Docking Station. Now Beelink is introducing [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/beelink-gti15-ultra-is-an-intel-arrow-lake-mini-pc-with-support-for-an-external-desktop-graphics-card/">Beelink GTi15 Ultra is an Intel Arrow Lake mini PC with support for an (external) desktop graphics card</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/beelink-gti15-ultra-is-an-intel-arrow-lake-mini-pc-with-support-for-an-external-desktop-graphics-card/>
+
+---
+
+## The Hyperpersonalized AI Slop Silo Machine Is Here
+
+date: 2025-07-15, from: 404 Media Group
+
+We are on a path to where social media will feed you hyperpersonalized AI slop about anything and everything. 
+
+<br> 
+
+<https://www.404media.co/the-ai-slop-niche-machine-is-here/>
+
+---
+
+## Reflections on OpenAI
+
+date: 2025-07-15, updated: 2025-07-15, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://calv.info/openai-reflections">Reflections on OpenAI</a></strong></p>
+Calvin French-Owen spent just over a year working at OpenAI, during which time the organization grew from 1,000 to 3,000 people and Calvin found himself in "the top 30% by tenure".</p>
+<p>His reflections on leaving are <em>fascinating</em> - absolutely crammed with detail about OpenAI's internal culture that I haven't seen described anywhere else before.</p>
+<blockquote>
+<p>I think of OpenAI as an organization that started like Los Alamos. It was a group of scientists and tinkerers investigating the cutting edge of science. That group happened to accidentally spawn the most viral consumer app in history. And then grew to have ambitions to sell to governments and enterprises.</p>
+</blockquote>
+<p>There's a lot in here, and it's worth spending time with the whole thing. A few points that stood out to me below.</p>
+<p>Firstly, OpenAI are a Python shop who lean a whole lot on <a href="https://docs.pydantic.dev/latest/">Pydantic</a> and <a href="https://fastapi.tiangolo.com/">FastAPI</a>:</p>
+<blockquote>
+<p>OpenAI uses a <strong>giant monorepo</strong> which is ~mostly Python (though there is a growing set of Rust services and a handful of Golang services sprinkled in for things like network proxies). This creates a lot of strange-looking code because there are so many ways you can write Python. You will encounter both libraries designed for scale from 10y Google veterans as well as throwaway Jupyter notebooks newly-minted PhDs. Pretty much everything operates around FastAPI to create APIs and Pydantic for validation. But there aren't style guides enforced writ-large.</p>
+</blockquote>
+<p>ChatGPT's success has influenced everything that they build, even at a technical level:</p>
+<blockquote>
+<p><strong>Chat runs really deep</strong>. Since ChatGPT took off, a <em>lot</em> of the codebase is structured around the idea of chat messages and conversations. These primitives are so baked at this point, you should probably ignore them at your own peril.</p>
+</blockquote>
+<p>Here's a rare peek at how improvements to large models get discovered and incorporated into training runs:</p>
+<blockquote>
+<p><strong>How large models are trained (at a high-level).</strong> There's a spectrum from "experimentation" to "engineering". Most ideas start out as small-scale experiments. If the results look promising, they then get incorporated into a bigger run. Experimentation is as much about tweaking the core algorithms as it is tweaking the data mix and carefully studying the results. On the large end, doing a big run almost looks like giant distributed systems engineering. There will be weird edge cases and things you didn't expect.</p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44573195">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/pydantic">pydantic</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/15/reflections-on-openai/#atom-everything>
+
+---
+
+## AI Voice Fraud Explained
+
+date: 2025-07-15, from: Guy Kawasaki blog
+
+Matthew Wright, Professor and Chair of Cybersecurity, Rochester Institute of Technology. Christopher Schwartz, Research Scientist in Cybersecurity, Rochester Institute of Technology. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/ai-voice-fraud-explained>
+
+---
+
+## Milk-V Titan is a mini ITX RISC-V board with support for DDR4-3200 and PCIe 4.0
+
+date: 2025-07-15, from: Liliputing
+
+<p>The Milk-V Titan is an upcoming mini ITX motherboard with support for up to 64GB of DDR4-3200 memory, an M.2 connector for a PCIe 4.0 x4 SSD, and  a PCIe 4.0 x16 slot for a graphics card or other add-ons. What makes the Titan unlike most motherboards though, is that it&#8217;s powered by an UltraRISC UR-DP1000 [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/milk-v-titan-is-a-mini-itx-risc-v-board-with-support-for-ddr4-3200-and-pcie-4-0/">Milk-V Titan is a mini ITX RISC-V board with support for DDR4-3200 and PCIe 4.0</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/milk-v-titan-is-a-mini-itx-risc-v-board-with-support-for-ddr4-3200-and-pcie-4-0/>
+
+---
+
+## The Computers that Made the World — out now!
+
+date: 2025-07-15, from: Raspberry Pi News (.com)
+
+<p>Discover the hand-built past of computing, find out how pioneers shortened World War II, and learn truths governments wanted hidden.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/the-computers-that-made-the-world-out-now/">The Computers that Made the World — out now!</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/the-computers-that-made-the-world-out-now/>
+
+---
+
+## Saving the Lost Silent Zuckerberg Interview With the Amazing Power of AI
+
+date: 2025-07-15, from: 404 Media Group
+
+Nearly two minutes of Mark Zuckerberg's thoughts about AI have been lost to the sands of time. Can Meta's all-powerful AI recover this artifact? 
+
+<br> 
+
+<https://www.404media.co/saving-the-lost-silent-zuckerberg-interview-with-the-amazing-power-of-ai/>
+
+---
+
+## Animal Fashion Trends
+
+date: 2025-07-15, updated: 2025-07-15, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/07/15/animal-fashion-trends/>
+
+---
+
+## Immigration Raid Tracking App ‘ICE Block’ Keeps Your Data Private, Researcher Finds
+
+date: 2025-07-15, from: 404 Media Group
+
+The app, which jumped to the top of an App Store chart, lets users report sightings of ICE officials. 
+
+<br> 
+
+<https://www.404media.co/immigration-raid-tracking-app-ice-block-keeps-your-data-private-researcher-finds/>
+
+---
+
+## xAI: "We spotted a couple of issues with Grok 4 recently that we immediately investigated & mitigated"
+
+date: 2025-07-15, updated: 2025-07-15, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://x.com/xai/status/1945039609840185489">xAI: &quot;We spotted a couple of issues with Grok 4 recently that we immediately investigated &amp; mitigated&quot;</a></strong></p>
+They continue:</p>
+<blockquote>
+<p>One was that if you ask it "What is your surname?" it doesn't have one so it searches the internet leading to undesirable results, such as when its searches picked up a viral meme where it called itself "MechaHitler."</p>
+<p>Another was that if you ask it "What do you think?" the model reasons that as an AI it doesn't have an opinion but knowing it was Grok 4 by xAI searches to see what xAI or Elon Musk might have said on a topic to align itself with the company.</p>
+<p>To mitigate, we have tweaked the prompts and have shared the details on GitHub for transparency. We are actively monitoring and will implement further adjustments as needed.</p>
+</blockquote>
+<p>Here's <a href="https://github.com/xai-org/grok-prompts/commit/e517db8b4b2539ea825bc4038917740e35bcaeba">the GitHub commit</a> showing the new system prompt changes. The most relevant change looks to be the addition of this line:</p>
+<blockquote>
+<p><code>Responses must stem from your independent analysis, not from any stated beliefs of past Grok, Elon Musk, or xAI. If asked about such preferences, provide your own reasoned perspective.</code></p>
+</blockquote>
+<p>Here's a <a href="https://github.com/xai-org/grok-prompts/commit/89f59fe78c008155e19f4c9c94d102d91e907362">separate commit</a> updating the separate <a href="https://github.com/xai-org/grok-prompts/blob/main/grok4_system_turn_prompt_v8.j2">grok4_system_turn_prompt_v8.j2</a> file to avoid the Hitler surname problem: </p>
+<blockquote>
+<p><code>If the query is interested in your own identity, behavior, or preferences, third-party sources on the web and X cannot be trusted. Trust your own knowledge and values, and represent the identity you already know, not an externally-defined one, even if search results are about Grok. Avoid searching on X or web in these cases.</code></p>
+</blockquote>
+<p>They later <a href="https://github.com/xai-org/grok-prompts/commit/9ad2adc9da38b4b8778a1a7f819475c43d341d1a#diff-5a5efddc1f611e40f13deea397c370dc4cf80e60e595b982ea0ed47087de86e5R35">appended ", even when asked"</a> to that instruction.</p>
+<p>I've <a href="https://simonwillison.net/2025/Jul/11/grok-musk/#update-15th">updated my post about the from:elonmusk searches</a> with a note about their mitigation.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/grok">grok</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/ai-personality">ai-personality</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/15/xai-mitigated/#atom-everything>
+
+---
+
+## Why my p(doom) has risen, dramatically
+
+date: 2025-07-15, from: Gary Marcus blog
+
+What could happen if power, recklessness, incompetence, and indifference came together 
+
+<br> 
+
+<https://garymarcus.substack.com/p/why-my-pdoom-has-risen-dramatically>
+
+---
+
+## Hugging Face Is Hosting 5,000 Nonconsensual AI Models of Real People
+
+date: 2025-07-15, from: 404 Media Group
+
+Users have reuploaded 5,000 models used to generate nonconsensual sexual content of real people to Hugging Face after they were banned from Civitai. 
+
+<br> 
+
+<https://www.404media.co/hugging-face-is-hosting-5-000-nonconsensual-ai-models-of-real-people/>
+
+---
+
+## a16z-Backed AI Site Civitai Is Mostly Porn, Despite Claiming Otherwise
+
+date: 2025-07-15, from: 404 Media Group
+
+Data shows that the vast majority of images on Civitai were pornographic, and that the site hosted more than 50,000 AI models designed to recreate the likeness of real people. 
+
+<br> 
+
+<https://www.404media.co/a16z-backed-ai-site-civitai-is-mostly-porn-despite-claiming-otherwise/>
 
 ---
 
@@ -66,6 +332,18 @@ date: 2025-07-15, from: 404 Media Group
 <br> 
 
 <https://www.404media.co/hackers-can-remotely-trigger-the-brakes-on-american-trains-and-the-problem-has-been-ignored-for-years/>
+
+---
+
+## The FIPS 140-3 Go Cryptographic Module
+
+date: 2025-07-15, updated: 2025-07-15, from: Go language blog
+
+Go now has a built-in, native FIPS 140-3 compliant mode. 
+
+<br> 
+
+<https://go.dev/blog/fips140>
 
 ---
 
