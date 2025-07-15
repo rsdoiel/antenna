@@ -1,11 +1,547 @@
 ---
 title: planet
-updated: 2025-07-14 14:08:19
+updated: 2025-07-15 06:07:28
 ---
 
 # planet
 
-(date: 2025-07-14 14:08:19)
+(date: 2025-07-15 06:07:28)
+
+---
+
+## No one-off cost-of-living measures in Budget - minister
+
+date: 2025-07-15, from: RTÉ News
+
+Minister for Public Expenditure Jack Chambers has confirmed that there will be no one-off cost-of-living payments in Budget 2026. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0715/1523632-budget-politics/>
+
+---
+
+## Parties discuss Connolly as unified left-wing candidate
+
+date: 2025-07-15, from: RTÉ News
+
+A number of political parties have expressed having an open mind on agreeing Catherine Connolly as a united left-wing presidential candidate. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0715/1523624-presidential-candidate/>
+
+---
+
+## Dicastery for the Clergy
+
+date: 2025-07-15, from: Vatican News
+
+
+                    <p>The Dicastery for the Clergy deals with all matters relating to priests and deacons of the diocesan clergy, with regard to their persons and pastoral ministry, and everything needed for the fruitful exercise of the latter.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-the-clergy.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-the-clergy.html>
+
+---
+
+## Childhood vaccination rates below pre-pandemic levels
+
+date: 2025-07-15, from: RTÉ News
+
+Childhood vaccination rates across Ireland remain below pre-pandemic levels, according to a new report. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0715/1523593-childhood-vaccination-ireland/>
+
+---
+
+## Afghans being relocated to UK after personal data leak
+
+date: 2025-07-15, from: RTÉ News
+
+Thousands of people are being relocated to the UK as part of a secret £850 million scheme set up after a personal data leak of Afghans who supported British forces. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0715/1523618-afghan-uk-relocation/>
+
+---
+
+## Labour Party to meet Catherine Connolly over Áras bid
+
+date: 2025-07-15, from: RTÉ News
+
+Labour TDs George Lawlor and Marie Sherlock have said they have have an "open mind" to supporting Catherine Connolly's presidential campaign - despite the Independent TD previously saying Labour has "lost its soul". 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0715/1523619-presidential-candidate/>
+
+---
+
+## Ex-hurler Gilligan pleads not guilty to assaulting child
+
+date: 2025-07-15, from: RTÉ News
+
+A former All-Ireland winning hurler has pleaded not guilty to assaulting a child in Sixmilebridge, Co Clare, in 2023. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0715/1523617-niall-gilligan-court/>
+
+---
+
+## Labour Court hears appeal of Ogle discrimination claim
+
+date: 2025-07-15, from: RTÉ News
+
+The Labour Court is hearing an appeal of a discrimination case taken by trade union official Brendan Ogle against his employer Unite 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0715/1523611-brendan-ogle-unite-wrc/>
+
+---
+
+## Dept of Health says 10,852 abortions carried out in 2024
+
+date: 2025-07-15, from: RTÉ News
+
+The Department of Health has confirmed that 10,852 abortions were carried out in Ireland last year. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0715/1523603-ireland-abortion-figures/>
+
+---
+
+## Man jailed over arson attack on house, two cars
+
+date: 2025-07-15, from: RTÉ News
+
+A 44-year-old man has been jailed for three years and nine months for the arson of two cars and a house in which the owners were sleeping. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0715/1523602-sean-byrne-court/>
+
+---
+
+## EU eyes Boeing, bourbon for possible tariffs on US goods
+
+date: 2025-07-15, from: RTÉ News
+
+The European Commission is targeting €72 billion worth of US goods - from Boeing aircraft and bourbon whiskey to cars - for possible tariffs if trade talks with the US fail. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0715/1523598-eu-us-trade/>
+
+---
+
+## Netanyahu under growing pressure as party quits coalition
+
+date: 2025-07-15, from: RTÉ News
+
+A religious party has quit Israel's ruling coalition in a dispute over military service, leaving Prime Minister Benjamin Netanyahu with a razor-thin majority in parliament but still enough political support to secure a potential Gaza ceasefire. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0715/1523596-israel-netanyahu/>
+
+---
+
+## Home sought for massive knitted map of Ireland
+
+date: 2025-07-15, from: RTÉ News
+
+A huge wool map of Ireland, which took four years of knitting and crocheting to complete, is in search of a new home to go on public display. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0715/1523594-knitted-map-ireland/>
+
+---
+
+## Women religious in Haiti alleviating the suffering of their people
+
+date: 2025-07-15, from: Vatican News
+
+
+                    <p>Women religious in Haiti are dedicating their lives to providing healthcare, education and psychological support to the nation’s suffering population. Sr Maria Marthe Placius lives her consecration in the trust that, even though her help is small, God can multiply it and transform suffering into hope and miracles.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/sisters-project-136-haiti-aid-psychological-support.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/sisters-project-136-haiti-aid-psychological-support.html>
+
+---
+
+## Archbishop Gallagher in India: Venerable Mar Ivanios calls us to holiness
+
+date: 2025-07-15, from: Vatican News
+
+
+                    <p>Archbishop Paul Richard Gallagher, Secretary for Relations with States, recalls that Venerable Mar Ivanios still calls the faithful today to pursue holiness and stay deeply rooted in Christ, as he celebrates Mass during his week-long journey to India.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/archbishop-gallagher-mass-homily-72nd-mar-ivanios-day-2025-india.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/archbishop-gallagher-mass-homily-72nd-mar-ivanios-day-2025-india.html>
+
+---
+
+## Pope at Mass: Never believe that evil can prevail, even amid injustices
+
+date: 2025-07-15, from: Vatican News
+
+
+                    <p>Pope Leo XIV celebrates Mass at the headquarters of the Carabinieri in Castel Gandolfo, and expresses his gratitude for the Italian gendarmerie’s efforts to protect pilgrims visiting Rome during the Jubilee Year.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-mass-castel-gandolfo-carabinieri-police-poor-clares.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-mass-castel-gandolfo-carabinieri-police-poor-clares.html>
+
+---
+
+## Call on ending bow to Ceann Comhairle before committee
+
+date: 2025-07-15, from: RTÉ News
+
+A proposal to end the practice of bowing to the Ceann Comhairle will be considered by the Dáil Reform Committee today. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0715/1523580-ireland-dail/>
+
+---
+
+## A plea for peace from Taybeh
+
+date: 2025-07-15, from: Vatican News
+
+
+                    <p>Following weeks of settler attacks on the last entirely Christian village in Palestine, the Vicar of the Custody of the Holy Land, Fr. Ibrahim Faltas, makes an impassioned plea for peace. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/a-plea-for-peace-from-taybeh-ibrahim-faltas-settlers.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/a-plea-for-peace-from-taybeh-ibrahim-faltas-settlers.html>
+
+---
+
+## From Mexico to Castel Gandolfo: A unique experience of creation
+
+date: 2025-07-15, from: Vatican News
+
+
+                    <p>Three young seminarians from Mexico are volunteering at the Laudato Si' Village at Castel Gandolfo this summer and are helping to bring Pope Francis’ ecological dream to life—now being carried forward by Pope Leo XIV.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/from-mexico-to-castel-gandolfo-a-unique-experience-of-creation.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/from-mexico-to-castel-gandolfo-a-unique-experience-of-creation.html>
+
+---
+
+## Fauja Singh, world's oldest marathoner who ran his best time in Toronto, dead at 114
+
+date: 2025-07-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7585192.1752583087!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/centenarian-marathoner-20120930.jpg' alt='An elderly bearded man with a turban is shown smiling as he stands beside a young girl. ' width='620' height='349' title='Fauja Singh, 101 at the time, smiles as a supporter holds up a sign after he completed the 5-km race during the Surrey International World Music Marathon in Surrey, B.C., on Sept. 30, 2012.  '/><p>Fauja Singh, an Indian-born athlete who was believed to be the world's oldest marathon runner, has died after being hit by a car. He was 114.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/india-obit-singh-runner-1.7585186?cmp=rss>
+
+---
+
+## U.K. secretly resettled thousands of Afghans after data leak, says British government
+
+date: 2025-07-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7585183.1752581948!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/netherlands-nato-summit.jpg' alt='A man in a suit' width='620' height='349' title='Britain&apos;s Defence Secretary John Healey attends Britain&apos;s Prime Minister&apos;s press conference during the NATO summit in The Hague, Netherlands, Wednesday, June 25, 2025.'/><p>Thousands of Afghans, including many who worked with British forces, have been secretly resettled in the U.K. after a leak of data on their identities raised fears they could be targeted by the Taliban, the British government revealed on Tuesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/uk-afghan-resettlement-1.7585181?cmp=rss>
+
+---
+
+## Yellow jersey well earned by methodical hedgehog Healy
+
+date: 2025-07-15, from: RTÉ News
+
+Ben Healy's sensational form at the Tour de France has seen him claim a stage win and the yellow jersey, but those who have been following his career are not surprised by the performances of a laid-back yet methodical individual. 
+
+<br> 
+
+<https://www.rte.ie/sport/cycling/2025/0715/1523560-yellow-jersey-well-earned-by-methodical-hedgehog-healy/>
+
+---
+
+## Calls for Blood Bikes to be given access to bus lanes
+
+date: 2025-07-15, from: RTÉ News
+
+Blood Bike volunteers are calling for the ability to use bus lanes and be exempted from road tolls under a new bill that will be debated in the Dáil. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0715/1523563-blood-bikes/>
+
+---
+
+## Thailand: MISSION POSSIBLE’ concludes with innovation, compassion, and synodal spirit
+
+date: 2025-07-15, from: Vatican News
+
+
+                    <p>The second season of the MISSION POSSIBLE Youth Social Hackathon concluded on Sunday, July 13, with powerful pitches, proud mentors, and a renewed sense of hope in the capacity of young people to shape a better world.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/thailand-hackathon-2-mission-possible-synodality.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/thailand-hackathon-2-mission-possible-synodality.html>
+
+---
+
+## Head of chaplains in Ukraine: 'We help soldiers and families heal'
+
+date: 2025-07-15, from: Vatican News
+
+
+                    <p>Bishop Bohdan Manyshyn, head of Military Chaplaincy for the Ukrainian Greek Catholic Church, explains his office's various initiatives to support soldiers returning from the front or those who have lost loved ones.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/head-of-chaplains-in-ukraine-we-help-soldiers-and-families-heal.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/head-of-chaplains-in-ukraine-we-help-soldiers-and-families-heal.html>
+
+---
+
+## GAA Palestine lodges appeal over visa denials
+
+date: 2025-07-15, from: RTÉ News
+
+The GAA Palestine group has officially lodged an appeal over the denial of visas for their planned trip to Ireland this month. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0715/1523512-gaa-palestine/>
+
+---
+
+## Israel launches airstrikes on Hezbollah targets in Lebanon's Bekaa valley
+
+date: 2025-07-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7585169.1752576987!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2190592944.jpg' alt='Dozens of long guns are shown lying on the ground outdoors.' width='620' height='349' title='Weapons and other equipment which the Israeli army says belonged to Hezbollah are displayed for the media on Dec. 23, 2024, in a northern Israeli military base. A ceasefire had been reached a month earlier, but Israel has accused the militant group of violating its terms.'/><p>Israeli military said it had begun striking targets belonging to Hezbollah's elite unit, the Radwan Force, in the Bekaa region of eastern Lebanon, as it accuses the Iran-backed Islamist group of seeking to rebuild its forces in violation of a ceasefire agreement.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/idf-lebanon-hezbollah-strikes-1.7585153?cmp=rss>
+
+---
+
+## Floodwater gushes into NYC subway station amid heavy rain
+
+date: 2025-07-15, from: RTÉ News
+
+Intense rainfall over New York caused severe flooding in the city, sending water gushing into a subway train platform yesterday, as authorities issued several flash flood warnings across the metropolitan area. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0715/1523558-ny-weather/>
+
+---
+
+## Unreleased Beyoncé music stolen from car in Atlanta
+
+date: 2025-07-15, from: RTÉ News
+
+Computer drives containing unreleased music by the singer Beyoncé Knowles and plans related to her concerts were stolen last week in Atlanta, police have said, with a suspect still at large. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0715/1523552-unreleased-beyonce-music-stolen-from-car-in-atlanta/>
+
+---
+
+## Economy faces significant challenges, ESRI to tell cttee
+
+date: 2025-07-15, from: RTÉ News
+
+The ESRI will tell the Oireachtas Budgetary Oversight Committee that the domestic economy is facing international headwinds and significant challenges in housing, infrastructure and public finances. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0715/1523543-esri-committee/>
+
+---
+
+## Russia says open for Ukraine talks, will respond to Trump
+
+date: 2025-07-15, from: RTÉ News
+
+Russia has said it needed time to respond to US President Donald Trump's ultimatum to end the Ukraine war or face new sanctions but it was ready for fresh talks with Kyiv. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0715/1523540-trump-russia-ukraine/>
+
+---
+
+## Irish stars count down to Emmy Awards nominations today
+
+date: 2025-07-15, from: RTÉ News
+
+Irish stars Colin Farrell, Lola Petticrew, and Nicola Coughlan have been tipped to be among the Primetime Emmy Awards nominees when the shortlist is announced in the US later today. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0715/1523535-irish-stars-count-down-to-emmy-awards-nominations-today/>
+
+---
+
+## Committee to hear from Shatter, Palestine Alliance on OTB
+
+date: 2025-07-15, from: RTÉ News
+
+Consideration of the Occupied Territories Bill will resume at the Oireachtas Committee of Foreign Affairs this afternoon. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0715/1523518-occupied-territories-bill/>
+
+---
+
+## EU to discuss action against Israel over Gaza war conduct
+
+date: 2025-07-15, from: RTÉ News
+
+EU foreign ministers will discuss a raft of options for action against Israel over the war in Gaza - but likely will not agree on any. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0715/1523538-gaza-israel/>
+
+---
+
+## €13.6m paid out to households impacted by Storm Éowyn
+
+date: 2025-07-15, from: RTÉ News
+
+Over 60% of the €13.6m paid out in humanitarian assistance after Storm Éowyn went to Galway, Mayo and Roscommon, according to new figures. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0715/1523521-humanitarian-assistance-storm-eowyn/>
+
+---
+
+## Conservation scheme sees nine curlew released into wild
+
+date: 2025-07-15, from: RTÉ News
+
+A group of nine curlew, a bird species that has seen most of its population lost in Ireland since the 1980s, has been reintroduced to the wild on Lough Ree near Athlone as a part of a conservation project. 
+
+<br> 
+
+<https://www.rte.ie/news/environment/2025/0715/1523534-curlew-midlands-release/>
+
+---
+
+## From the Backyard: What Camera Gear Am I Using These Days (Part 2)
+
+date: 2025-07-15, from: Vatican Obervatory
+
+This week I was fortunate enough to have a relatively clear night to test out my &#8220;new-to-me&#8221; Pentax K-1. I say relatively clear because I had some... 
+
+<br> 
+
+<https://www.vaticanobservatory.org/general/from-the-backyard-what-camera-gear-am-i-using-these-days-part-2/>
+
+---
+
+## Budget 2026 must be 'sensible and prudent' - Ibec
+
+date: 2025-07-14, from: RTÉ News
+
+Business group Ibec has said Budget 2026 must be "sensible and prudent" given the fragile global environment. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0715/1523528-budget/>
+
+---
+
+## Renewed appeal over 2010 murder of Paul 'Frank' Byrne
+
+date: 2025-07-14, from: RTÉ News
+
+A fresh appeal for information has been issued by gardaí as part of the investigation into the murder of 20-year-old Paul 'Frank' Byrne almost 15 years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/crime/2025/0715/1523508-paul-byrne-appeal/>
+
+---
+
+## Ireland 'at moment of major economic challenge' - Harris
+
+date: 2025-07-14, from: RTÉ News
+
+Ireland is "now at a moment of major economic challenge", according to Tánaiste Simon Harris, who will tell Cabinet that threatened trade tariffs of 30% by the US could have a significant impact on the economy. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0715/1523513-cabinet-meeting-ireland/>
+
+---
+
+## The Catholic Church believes in science. That good Christians must be anti-science is a myth
+
+date: 2025-07-14, from: Vatican Obervatory
+
+Religious leaders can play a powerful role in restoring public trust in science as a force for good. Around the world, we are &#8220;witnessing an alarming... 
+
+<br> 
+
+<https://www.ncronline.org/opinion/catholic-church-believes-science-good-christians-must-be-anti-science-myth>
+
+---
+
+## Unreleased Beyoncé music, other personal items stolen in Atlanta
+
+date: 2025-07-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7410131.1734115206!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/music-beyonce.jpg' alt='A woman in a black dress is waving and smiling at something off camera, her face tilted towards the right side of the image. ' width='620' height='349' title='FILE - Beyonce appears at a campaign event for Democratic presidential nominee Vice President Kamala Harris in Houston, on Oct. 25, 2024. '/><p>Police in Atlanta are investigating the theft of unreleased music by Beyoncé, along with show plans and concert lists after a car was broken into.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/beyonce-unreleased-music-stolen-1.7585089?cmp=rss>
 
 ---
 
@@ -13,11 +549,23 @@ updated: 2025-07-14 14:08:19
 
 date: 2025-07-14, from: RTÉ News
 
-A fire that broke out at an assisted living facility for the elderly near Boston last night has killed at least nine people and injured 30 others, authorities have said. 
+A fire that broke out at an assisted living facility for the elderly near Boston has killed at least nine people and injured 30 others, authorities have said. 
 
 <br> 
 
 <https://www.rte.ie/news/2025/0714/1523519-boston-care-home-fire/>
+
+---
+
+## Tesla in court as rare trial against Musk's company starts in Florida
+
+date: 2025-07-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7490661.1742608004!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/tesla.jpg' alt='A person holding an umbrella walks past a Tesla dealership.' width='620' height='349' title='A Tesla dealership on West 4th Avenue is pictured after graffiti was removed from the windows in Vancouver, B.C, on Friday, March 21, 2025.'/><p>A rare trial against Elon Musk's car company began Monday in Miami, where a jury will decide if it is partly to blame for the death of a university student after a runaway Tesla sent her flying nearly 23 metres through the air.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/tesla-trial-autopilot-florida-1.7584937?cmp=rss>
 
 ---
 
@@ -49,7 +597,7 @@ The Irish Hospital Consultants Association has urged the public to be vigilant f
 
 date: 2025-07-14, from: RTÉ News
 
-The Ramble Inn in the village of Halfway in Co Cork is among the more than 2,100 pubs that have shut their doors over the last 20 years. 
+The Ramble Inn in the village of Halfway in Co Cork, is among the more than 2,100 pubs that have shut their doors over the last 20 years. 
 
 <br> 
 
@@ -114,6 +662,18 @@ Pensioner Tom Niland was so badly beaten during an alleged home invasion that hi
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0714/1523483-tom-niland/>
+
+---
+
+## Court told man was so badly beaten he was unrecognisable
+
+date: 2025-07-14, from: RTÉ News
+
+A 74-year-old man was so badly beaten during an alleged home invasion that his neighbours did not recognise him walking along the middle of the road covered in blood, a trial at the Central Criminal Court has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0714/1523483-john-irving-court/>
 
 ---
 
@@ -229,6 +789,18 @@ The daughter of a woman whose child died in the Tuam Mother and Baby Home has de
 
 ---
 
+## 'I have to have hope,' says Tuam relative amid excavation
+
+date: 2025-07-14, from: RTÉ News
+
+The daughter of a woman whose child died in the Tuam Mother and Baby Home has described as "absolutely momentous" the beginning of excavation work at the site in Co Galway. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0714/1523442-tuam-mother-and-baby-home/>
+
+---
+
 ## Woman found guilty of facilitating rape of daughter
 
 date: 2025-07-14, from: RTÉ News
@@ -269,6 +841,18 @@ Five children, all members of the same family, have been rescued from the sea of
 
 ---
 
+## Five young siblings rescued from sea by off-duty nurses
+
+date: 2025-07-14, from: RTÉ News
+
+Five children, all members of the same family, have been rescued from the sea off a beach in Co Down. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0714/1523437-minerstown-down-rescue/>
+
+---
+
 ## Ireland not a soft target for migrants, says Minister
 
 date: 2025-07-14, from: RTÉ News
@@ -290,6 +874,18 @@ A Gaza documentary featuring narration by the son of an official in Gaza's Hamas
 <br> 
 
 <https://www.rte.ie/news/uk/2025/0714/1523426-bbc-gaza-documentary/>
+
+---
+
+## MMF looks for 2nd wave of donations in 2nd wave of wildfire evacuations
+
+date: 2025-07-14, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7584298.1752506258!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/garden-hill-wildfires.jpg' alt='Firefighters are silhouetted against a smoky, grey sky' width='620' height='349' title='Firefighters are silhouetted against a smoky sky in Garden Hill Anisininew Nation on the weekend.'/><p>The Manitoba Métis Federation has rebooted its request for donations for wildfire evacuees as the province is swept up in a second state of emergency and another exodus from communities.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/mmf-m%C3%A9tis-donations-wildfire-evacuees-winnipeg-1.7584269?cmp=rss>
 
 ---
 
@@ -386,6 +982,18 @@ date: 2025-07-14, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/ukraine-war-trump-rutte-1.7584415?cmp=rss>
+
+---
+
+## Trump's Ukraine weapons pivot shows he's frustrated with Putin. But he's not applying maximum pressure yet
+
+date: 2025-07-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/391886a5-e3cc-4909-a203-a8c3e175d53c,1752534358994/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A man in a suit talking.' width='620' height='349' title='U.S. President Donald Trump meets with NATO Secretary General Mark Rutte (not pictured), as President Trump announces a deal to send U.S. weapons to Ukraine through NATO, in the Oval Office at the White House in Washington, D.C., U.S., July 14, 2025.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-ukraine-weapons-nato-pressure-putin-1.7584713?cmp=rss>
 
 ---
 
@@ -562,7 +1170,7 @@ One of the last remaining Irish missionaries has spoken of his work in the Phili
 
 date: 2025-07-14, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7584509.1752510370!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/massachusetts-fatal-fire.jpg' alt='An investigator takes measurements of a facility damaged by fire.' width='620' height='349' title='An investigator takes measurements Monday, July 14, 2025, near an entrance to the Gabriel House assisted living facility following a fire that started late Sunday in Fall River, Mass. (AP Photo/Steven Senne)'/><p>Flames roared through an assisted-living facility in Massachusetts, killing nine people and trapping residents inside, including some who leaned out of windows and screamed for help, authorities said Monday. At least 30 people were hurt.</p> 
+<img src='https://i.cbc.ca/1.7584879.1752525925!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/massachusetts-fire.JPG' alt='A man wearing a white construction hard helmet kneels down and lays blue flowers on a cracked sidewalk.' width='620' height='349' title='A worker pauses from installing plywood to reposition bouquets of flowers in front of the Gabriel House Assisted Living Facility after a deadly fire broke out in Fall River, Massachusetts, U.S., July 14, 2025. REUTERS/Ken McGagh'/><p>Flames roared through an assisted-living facility in Massachusetts, killing nine people and trapping residents inside, including some who leaned out of windows and screamed for help, authorities said Monday. At least 30 people were hurt.</p> 
 
 <br> 
 
@@ -739,6 +1347,18 @@ US President Donald Trump has told Russia to resolve its Ukraine war within 50 d
 <br> 
 
 <https://www.rte.ie/news/us/2025/0714/1523343-trump-ukraine/>
+
+---
+
+## Trump gives Russia 50 days to resolve Ukraine war
+
+date: 2025-07-14, from: RTÉ News
+
+US President Donald Trump has told Russia to resolve its Ukraine war within 50 days or face massive new economic sanctions as he laid out plans for new infusions of weaponry for Kyiv. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0714/1523343-trump-ukraine/>
 
 ---
 

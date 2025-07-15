@@ -1,11 +1,60 @@
 ---
 title: motorcycles
-updated: 2025-07-14 14:08:28
+updated: 2025-07-15 06:07:36
 ---
 
 # motorcycles
 
-(date: 2025-07-14 14:08:28)
+(date: 2025-07-15 06:07:36)
+
+---
+
+## BMW’s R 1300 R “Titan” Is A Nitrous-Powered Hooligan Machine
+
+date: 2025-07-15, from: Ride Apart, Electric Motorcycle News
+
+Even the highest-precision engineers need to let loose every now and then.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/765687/bmw-r1300r-titan-custom-build/>
+
+---
+
+## Sam Sunderland’s Attempting To Break a Ridiculous 23-Year-Old Motorcycle World Record
+
+date: 2025-07-15, from: Ride Apart, Electric Motorcycle News
+
+The math maths, unless something goes wrong. But what could go wrong? 
+
+<br> 
+
+<https://www.rideapart.com/news/765635/sam-sunderland-world-record-attempt/>
+
+---
+
+## Please Tell Absolutely Everyone About This Water Bottle Recall, It's Important
+
+date: 2025-07-15, from: Ride Apart, Electric Motorcycle News
+
+In a time when almost everyone carries a water bottle on the daily, this one's scary. 
+
+<br> 
+
+<https://www.rideapart.com/news/765842/walmart-water-bottle-recall-vision-loss/>
+
+---
+
+## Is LiveWire About To Take On Zero With These New, Less Expensive EV Bikes?
+
+date: 2025-07-15, from: Ride Apart, Electric Motorcycle News
+
+They're concepts for now, but they're also a peek into LiveWire's upcoming plans. 
+
+<br> 
+
+<https://www.rideapart.com/news/765820/livewire-125cc-ev-swappable-batteries/>
 
 ---
 

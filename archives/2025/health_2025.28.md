@@ -1,11 +1,35 @@
 ---
 title: health
-updated: 2025-07-14 14:08:29
+updated: 2025-07-15 06:07:37
 ---
 
 # health
 
-(date: 2025-07-14 14:08:29)
+(date: 2025-07-15 06:07:37)
+
+---
+
+## Correction: Bid-Induced Release of AIF/EndoG from Mitochondria Causes Apoptosis of Macrophages during Infection with Leptospira interrogans
+
+date: 2025-07-15, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1635286>
+
+---
+
+## Fungi-Kcr: a language model for predicting lysine crotonylation in pathogenic fungal proteins
+
+date: 2025-07-15, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionLysine crotonylation (Kcr) is an important post-translational modification (PTM) of proteins, playing a key role in regulating various biological processes in pathogenic fungi. However, the experimental identification of Kcr sites remains challenging due to the high cost and time-consuming nature of mass spectrometry-based techniques.MethodsTo address this limitation, we developed Fungi-Kcr, a deep learning-based model designed to predict Kcr modification sites in fungal proteins. The model integrates convolutional neural networks (CNN), gated recurrent units (GRU), and word embedding to effectively capture both local and long-range sequence dependencies.ResultsComprehensive evaluations, including ten-fold cross-validation and independent testing, demonstrate that Fungi-Kcr achieves superior predictive performance compared to conventional machine learning models. Moreover, our results indicate that a general predictive model performs better than species-specific models. DiscussionThe proposed model provides a valuable computational tool for the large-scale identification of Kcr sites, contributing to a deeper understanding of fungal pathogenesis and potential therapeutic targets. The source code and dataset for Fungi-Kcr are available at https://github.com/zayra77/Fungi-Kcr. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1615443>
 
 ---
 

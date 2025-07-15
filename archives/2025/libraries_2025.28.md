@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-07-14 14:08:27
+updated: 2025-07-15 06:07:35
 ---
 
 # libraries
 
-(date: 2025-07-14 14:08:27)
+(date: 2025-07-15 06:07:35)
+
+---
+
+## Confused and Ambivalent: Scholarly Authors and Creative Commons Licenses
+
+date: 2025-07-15, from: Scholarly Kitchen
+
+<p>An AAAS survey reveals authors' concerns and confusion regarding open licensing of their work.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/07/15/confused-and-ambivalent-scholarly-authors-and-creative-commons-licenses/">Confused and Ambivalent: Scholarly Authors and Creative Commons Licenses</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/07/15/confused-and-ambivalent-scholarly-authors-and-creative-commons-licenses/>
+
+---
+
+## The Small Bachelor, by P. G. Wodehouse
+
+date: 2025-07-14, from: Standard Ebooks, new releaases
+
+A struggling artist and his dream girl set off on a series of comedic misadventures. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/p-g-wodehouse/the-small-bachelor>
 
 ---
 

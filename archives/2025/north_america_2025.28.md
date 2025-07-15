@@ -1,11 +1,47 @@
 ---
 title: north america
-updated: 2025-07-14 14:08:21
+updated: 2025-07-15 06:07:29
 ---
 
 # north america
 
-(date: 2025-07-14 14:08:21)
+(date: 2025-07-15 06:07:29)
+
+---
+
+## Words & Phrases We Could Do Without
+
+date: 2025-07-15, from: The Contrarian
+
+"Better..." for whom? 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-we-could-do-without-308>
+
+---
+
+## Evening Roundup, July 14
+
+date: 2025-07-14, from: The Contrarian
+
+Featuring April Ryan and Reverend William Barber; Jeff Nesbit; The Democracy Movement; Shalise Manza Young; "Offsides with Pablo Torre," Cara Kelly & The Barbed Wire; "Talking Feds" 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-14>
+
+---
+
+## In Flood Disasters, Community Matters More Than Ever. 
+
+date: 2025-07-14, from: The Contrarian
+
+&#8216;Help&#8217;s Not Coming from the Government.&#8217; 
+
+<br> 
+
+<https://contrarian.substack.com/p/in-flood-disasters-community-matters>
 
 ---
 

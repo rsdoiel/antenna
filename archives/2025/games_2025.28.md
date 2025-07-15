@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-07-14 14:08:26
+updated: 2025-07-15 06:07:34
 ---
 
 # games
 
-(date: 2025-07-14 14:08:26)
+(date: 2025-07-15 06:07:34)
+
+---
+
+## How to Train Your Dragon’s director ‘felt a weight being lifted’ when he cut these two scenes
+
+date: 2025-07-15, updated: 2025-07-15, from: Polygon Website
+
+The 2025 live-action version of How to Train Your Dragon is now available for digital purchase and viewing, and it’s coming to DVD, Blu-ray, and 4K on Aug. 12, with an array of behind-the-scenes features and commentary — and with two deleted scenes that parallel sequences from the original 2010 animated version of the movie. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fantasy/612966/how-to-train-your-dragon-deleted-scenes-live-action-what-was-cut>
+
+---
+
+## Can Feebas be shiny in Pokémon Go?
+
+date: 2025-07-15, updated: 2025-07-15, from: Polygon Website
+
+Feebas, the fish Pokémon from Hoenn, can be found in the wild in Pokémon Go. Yes, Feebas can be shiny in Pokémon Go! To evolve Feebas into Milotic, you’ll need to your Feebas as your buddy and walk 20 km with it. After that, you can use 100 Feebas Candy to evolve it. It may [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/23987678/can-feebas-be-shiny-milotic>
+
+---
+
+## What time does Donkey Kong Bananza release?
+
+date: 2025-07-15, updated: 2025-07-14, from: Polygon Website
+
+Donkey Kong Bananza, a 3D platformer developed by the same team behind Super Mario Odyssey, is the second major Nintendo Switch 2 game, swinging onto the platform later this week. In Donkey Kong Bananza, which looks absolutely bananas from early previous, you join Donkey Kong and a young Pauline on a trek to the planet’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/612961/release-time-date-edt-pdt-preload-preorder>
+
+---
+
+## The only official John Wick game is being delisted
+
+date: 2025-07-14, updated: 2025-07-14, from: Polygon Website
+
+John Wick Hex is being removed from Steam (and all other platforms) this week, according to a statement released by the game’s publisher, Big Fan Games. “John Wick Hex will be removed from sale on all platforms beginning July 17th, 2025,” the statement shared on the game&#8217;s Steam page reads. &#8220;After July 17th, 2025, existing [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/613065/john-wick-game-delisting-steam>
+
+---
+
+## How to boneless spine transfer between the courts in Tony Hawk’s Pro Skater 4
+
+date: 2025-07-14, updated: 2025-07-14, from: Polygon Website
+
+To tick off all the goals in the College map in Tony Hawk’s Pro Skater 4, you need to perform a boneless spine transfer between two courts. Completing this mission requires you to execute a specific move and shift between areas while in the air. Although you can learn how do these tricks by checking [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/613035/boneless-spine-transfer-between-courts-college-thps-4-tony-hawk-pro-skater>
 
 ---
 

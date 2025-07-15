@@ -1,11 +1,37 @@
 ---
 title: journalism
-updated: 2025-07-14 14:08:26
+updated: 2025-07-15 06:07:34
 ---
 
 # journalism
 
-(date: 2025-07-14 14:08:26)
+(date: 2025-07-15 06:07:34)
+
+---
+
+## All-Nighters Made Easier: 24/7 UCLA Tutoring Service Now Available
+
+date: 2025-07-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This paid post was created by Bruin Media Group, the marketing section of the Daily Bruin. The editorial staff of the Daily Bruin played no role in the creation of this post and its content.</em> 
+
+<br> 
+
+<https://dailybruin.com/2025/07/14/all-nighters-made-easier-24-7-ucla-tutoring-service-now-available/>
+
+---
+
+## University’s operating deficit exceeds $200 million, layoffs to come
+
+date: 2025-07-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The layoffs, among other measures, will address an increased deficit and potential losses of federal funding, wrote interim President Beong-Soo Kim in a statement.</p>
+<p>The post <a href="https://dailytrojan.com/2025/07/14/universitys-operating-deficit-exceeds-200-million-layoffs-to-come/">University’s operating deficit exceeds $200 million, layoffs to come</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/07/14/universitys-operating-deficit-exceeds-200-million-layoffs-to-come/>
 
 ---
 

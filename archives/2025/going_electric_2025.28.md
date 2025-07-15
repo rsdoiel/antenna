@@ -1,11 +1,83 @@
 ---
 title: going electric
-updated: 2025-07-14 14:08:30
+updated: 2025-07-15 06:07:37
 ---
 
 # going electric
 
-(date: 2025-07-14 14:08:30)
+(date: 2025-07-15 06:07:37)
+
+---
+
+## Tesla Finally Enters India With $70,000 Model Y
+
+date: 2025-07-15, from: Inside EVs News
+
+Tesla wants to get its mojo back by entering the world’s fourth-largest car market. But can it do that with luxury car pricing? 
+
+<br> 
+
+<https://insideevs.com/news/765873/tesla-india-model-y-price/>
+
+---
+
+## How one man with a hacksaw and an e-bike became a Texas flood ‘hero’
+
+date: 2025-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/evan-wayne-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Locals call him the “Bicycle hero,” but Texas man Evan Wayne says he’s just doing what he can to help his community after it was cut off due to the recent devastating and deadly flooding tragedy. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,texas" data-layer-viewtype="unknown" data-post-id="424820" href="https://electrek.co/2025/07/14/how-one-man-with-a-hacksaw-and-an-e-bike-became-a-texas-flood-hero/#more-424820" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/14/how-one-man-with-a-hacksaw-and-an-e-bike-became-a-texas-flood-hero/>
+
+---
+
+## EV sales hit 9.1M globally in H1 2025, but the US just hit the brakes
+
+date: 2025-07-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/themes/ninetofive/dist/images/default-electrek-related-guide.png?w=1600" /></div><p>The global EV market is still charging ahead. According to new numbers from global research firm Rho Motion, 9.1 million EVs were sold worldwide in the first half of 2025, up 28% compared to the same period last year. But not every region is accelerating at the same pace.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,europe,ev-sales,north-america,rho-motion" data-layer-viewtype="unknown" data-post-id="424801" href="https://electrek.co/2025/07/14/ev-sales-hit-9-1m-globally-in-h1-2025-but-the-us-just-hit-the-brakes/#more-424801" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/14/ev-sales-hit-9-1m-globally-in-h1-2025-but-the-us-just-hit-the-brakes/>
+
+---
+
+## Elon Musk Says Tesla Will Have Its 'Most Epic Demo Ever.' It's Got A Lot To Prove Lately
+
+date: 2025-07-14, from: Inside EVs News
+
+Roadster? A coast-to-coast autonomous drive? Hover mode? Tesla is teasing some big dreams, but still hasn't delivered on the last ones. 
+
+<br> 
+
+<https://insideevs.com/news/765815/tesla-most-epic-demo-ever/>
+
+---
+
+## The Lucid Air is crushing the competition as the best-selling luxury EV sedan in the US
+
+date: 2025-07-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Lucid-Air-best-selling-luxury-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lucid’s electric sedan can drive further, charge faster, and packs more advanced tech than most of the competition. That might explain why it’s leading the segment. The <a href="https://electrek.co/guides/lucid-air/">Lucid Air </a>remained the best-selling luxury EV sedan in the US after widening its lead in the Q2.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-air,lucid-motors" data-layer-viewtype="unknown" data-post-id="424783" href="https://electrek.co/2025/07/14/lucid-air-tops-tesla-for-best-selling-luxury-ev-sedan-in-the-us/#more-424783" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/14/lucid-air-tops-tesla-for-best-selling-luxury-ev-sedan-in-the-us/>
 
 ---
 
@@ -17,7 +89,7 @@ date: 2025-07-14, from: Electrek Feed
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="424767" href="https://electrek.co/2025/07/14/bojangles-adds-ev-chargers-to-its-fried-chicken-and-biscuit-menu/#more-424767" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,ev-chargers,ev-charging,ev-charging-stations" data-layer-viewtype="unknown" data-post-id="424767" href="https://electrek.co/2025/07/14/bojangles-adds-ev-chargers-to-its-fried-chicken-and-biscuit-menu/#more-424767" class="more-link">more…</a> 
 
 <br> 
 
@@ -53,7 +125,7 @@ date: 2025-07-14, from: Electrek Feed
 
 ---
 
-## It turns out Tesla Canada’s shady $43m incentive grab was above-board after all
+## It turns out Tesla Canada’s shady $43M incentive grab was above-board after all
 
 date: 2025-07-14, from: Electrek Feed
 
@@ -109,7 +181,7 @@ date: 2025-07-14, from: Electrek Feed
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="424702" href="https://electrek.co/2025/07/14/ford-beat-every-supercar-at-goodwood-with-a-truck-because-evs-are-just-better/#more-424702" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-racing,ford,ford-f-150-lightning,goodwood-festival-of-speed" data-layer-viewtype="unknown" data-post-id="424702" href="https://electrek.co/2025/07/14/ford-beat-every-supercar-at-goodwood-with-a-truck-because-evs-are-just-better/#more-424702" class="more-link">more…</a> 
 
 <br> 
 

@@ -1,11 +1,39 @@
 ---
 title: home
-updated: 2025-07-14 14:08:28
+updated: 2025-07-15 06:07:35
 ---
 
 # home
 
-(date: 2025-07-14 14:08:28)
+(date: 2025-07-15 06:07:35)
+
+---
+
+## Youth Movement
+
+date: 2025-07-15, from: California Native Plants Society
+
+<p>The new CNPS Advocacy Corps brings generations together for action.</p>
+<p>The post <a href="https://www.cnps.org/flora-magazine/advocacy-corps-next-generation-cnps-43821">Youth Movement</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/flora-magazine/advocacy-corps-next-generation-cnps-43821>
+
+---
+
+## How to Spot (and Avoid) Sneaky Car Subscription Services
+
+date: 2025-07-14, from: Family Handyman Blog
+
+<p>Many auto manufacturers are offering car subscription services to customers to access certain features but the overall feeling among consumers is mixed.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/car-subscription-services/">How to Spot (and Avoid) Sneaky Car Subscription Services</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/car-subscription-services/>
 
 ---
 
@@ -49,6 +77,246 @@ date: 2025-07-14, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/tennessee-bullying-law-revokes-teens-drivers-licenses/>
+
+---
+
+## Culinary Travel
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+Amazing restaurants and more culinary travel experiences in the West. 
+
+<br> 
+
+<https://www.sunset.com/travel/culinary-travel>
+
+---
+
+## Hotels, Inns, and More
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+Staying in the right hotels can make or break a vacation. Get our recommendations for great bargains, most unique sleeps, coastal stays, and more Western accommodations. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels>
+
+---
+
+## Camping
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+Your ultimate guide to camping, with the best ideas for campgrounds, gear, cooking, and more. 
+
+<br> 
+
+<https://www.sunset.com/travel/camping>
+
+---
+
+## Outdoor Adventure
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+Plan an outdoor adventure in the West with our insider tips on national parks, the best campgrounds, amazing hikes, and bike trips. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure>
+
+---
+
+## Wine Country
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+The West is home to the country's best wine regions. Explore them all and taste their best offerings, from the cult cabs of Napa to the Pinots of Willamette Valley. 
+
+<br> 
+
+<https://www.sunset.com/travel/wine-country>
+
+---
+
+## Road Trips
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+Satisfy your wanderlust with a Western classic??a great road trip. Get ideas for the best routes and where to eat along the way. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips>
+
+---
+
+## Insider Guides: Places We Love
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+Use our Insider Guides to browse the hidden gems we love, as featured in Sunset magazine, plus exclusive recommendations from our editors. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides>
+
+---
+
+## Travel the West
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<br> 
+
+<https://www.sunset.com/travel>
+
+---
+
+## Lifestyle
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+Lifestyle ideas and inspiration for every life stage, from gift guides and gear recommendations to wedding planning, living with kids and pets, and saving for home remodels. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle>
+
+---
+
+## The Idea Hub
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+Innovative design and genius decorating ideas are around every corner in our Idea Hub showcase homes. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/idea-houses>
+
+---
+
+## Edible Gardening
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+Our expert gardening tips help you choose and grow the perfect fruits and vegetables for your backyard garden 
+
+<br> 
+
+<https://www.sunset.com/home-garden/edible-gardening>
+
+---
+
+## Outdoor Living
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+Update your outdoor living areas with our design and decorating tips on patios, decks, sheds, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/outdoor-living>
+
+---
+
+## Flowers & Plants
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+The very best flowers and plants for your garden's climate zone. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/plants>
+
+---
+
+## Landscaping
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+Get landscaping ideas and inspiration from our gardening experts to design your own backyard or garden oasis. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping>
+
+---
+
+## DIY Projects
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+Transform your home with quick and easy DIY projects, crafts, and decorating ideas for around the house. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/diy-projects>
+
+---
+
+## Garden Basics
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+Learn how to start your own home garden with our gardening experts&apos; tips and tutorials 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics>
+
+---
+
+## Decorating & Design
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+Transform your home with our decorating tips, including ideas for small spaces, DIY projects, home design, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design>
+
+---
+
+## Home Tours
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+Take a peek at our favorite homes around the West, from modern cabins to mid-century ranch houses 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours>
+
+---
+
+## Home & Garden
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine. 
+
+<br> 
+
+<https://www.sunset.com/home-garden>
+
+---
+
+## Wine & Drinks
+
+date: 2025-07-14, from: Sunset Magazine - Living in the West
+
+Pair wine like a pro with our wine guide. Find the best wine for every meal, including burgers, pizza, steak, and more 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings>
 
 ---
 

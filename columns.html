@@ -28,7 +28,481 @@
 Items collected from feeds in <a href="columns.txt">columns.txt</a>
 </div>
 <h1 id="columns">columns</h1>
-<p>(date: 2025-07-14 14:08:25)</p>
+<p>(date: 2025-07-15 06:07:32)</p>
+<hr />
+<h2 id="is-somebody-abusing-my-fedi-instance-no.">2025-07-15 Is somebody
+abusing my fedi instance? No.</h2>
+<p>date: 2025-07-15, from: Alex Schroeder’s Blog</p>
+<h1 id="2025-07-15-is-somebody-abusing-my-fedi-instance-no">
+2025-07-15 Is somebody abusing my fedi instance? No.
+</h1>
+<p>
+Time to find out. Load is at 16. The list of processes doesn’t show
+anything suspicious. What’s going on?
+</p>
+<pre><code>~# 2h-access-log ^social | log-user-agent | rank-lines 
+   1390 Mastodon/4.5.0-nightly.2025-07-11 (http.rb/5.3.1; +https://mastodon.social/)
+    598 Mozilla/5.0 (Windows NT 10.0; rv:128.0) Gecko/20100101 Firefox/128.0
+    395 Mastodon/4.4.1 (http.rb/5.3.1; +https://social.wildeboer.net/)
+    373 Mastodon/4.5.0-alpha.1+glitch (http.rb/5.3.1; +https://infosec.exchange/)
+    363 Mastodon/4.4.1 (http.rb/5.3.1; +https://sauropods.win/)
+    363 Mastodon/4.3.9 (http.rb/5.2.0; +https://chaos.social/)
+    340 Mastodon/4.3.8 (http.rb/5.2.0; +https://hachyderm.io/)
+    285 Mastodon/4.4.1 (http.rb/5.3.1; +https://mas.to/)
+    203 Mastodon/4.4.1 (http.rb/5.3.1; +https://mathstodon.xyz/)
+    176 Mastodon/4.3.8 (http.rb/5.2.0; +https://social.coop/)
+</code></pre>
+<p>
+The second line is suspicious. That doesn’t look like a fedi instance.
+What sort of requests is it making?
+</p>
+<pre><code># 2h-access-log ^social \
+    | grep 'Mozilla/5.0 (Windows NT 10.0; rv:128.0) Gecko/20100101 Firefox/128.0' \
+    | log-request \
+    | rank-lines
+     15 /api/v1/followed_tags?limit=200
+      6 /api/v1/notifications?limit=1&amp;since_id=01K06NZSCZQFKKYCKM5AHKDZF8
+      4 /api/v1/timelines/home?limit=5&amp;since_id=01K06SVB7G03W31DEZ26KR8AP8
+      4 /api/v1/timelines/home?limit=5&amp;since_id=01K06SQTXR7ECESAG531C0X493
+      4 /api/v1/timelines/home?limit=5&amp;since_id=01K06RYDEGAB5XSF1FTKSPZ1MR
+      4 /api/v1/timelines/home?limit=20
+      3 /fileserver/01JV5VX0DTX1NRX6XVD0B02H5A/attachment/small/01JV5VX3KSXT9BH52QSKF032WW.webp
+      3 /fileserver/01JPNGX1BT5PMRYTK34FM5NZ52/attachment/small/01JSYB0NYYCPG2S9VK1NJXZBA9.jpeg
+      3 /fileserver/01JDB8P0TJN4YZRXN7C9ACC993/attachment/small/01JDB8P1AJ2G4STB9QRCTNPR3G.jpeg
+      3 /fileserver/01JCPET54MFFGX73MXH0P03D3H/attachment/small/01JXTFBH492M437DZVK0ERGH5S.jpeg
+</code></pre>
+<p>
+It’s basically spying on me? I don’t follow tags, in any case.
+</p>
+<pre><code>~# 2h-access-log ^social \
+    | grep 'Mozilla/5.0 (Windows NT 10.0; rv:128.0) Gecko/20100101 Firefox/128.0' \
+    | log-ip \
+    | asncounter --no-prefixes 2&gt;/dev/null
+count   percent ASN AS
+598 100.0   13030   INIT7, CH
+total: 598
+</code></pre>
+<p>
+Whoops, it’s me! I guess one of my clients is using this user-agent.
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Administration">#Administration</a>
+</p>
+<p><br></p>
+<p><a href="https://alexschroeder.ch/view/2025-07-15-abusing-fedi"
+class="uri">https://alexschroeder.ch/view/2025-07-15-abusing-fedi</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2025-07-15, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2020/05/02/lbj.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I’m
+going to add a command to
+<a href="https://wordland.social/">WordLand</a> that lets you quickly
+edit the text of the current post in Markdown. So if you you can quickly
+change the URL on a link. Or just see what you got when you pasted some
+text into the document. The thing I don’t want to do is a full-blown
+Markdown editor. I want to do that too at some point, or leave the door
+open for other developers to do it. I’m not trying to own the market for
+nice editors for WordPress, I just want to open the market. And along
+the way I’m going to do a bunch of marketing for WordPress that it
+really needs. I hope Matt and company appreciate this. WordPress needs,
+imho, a kind of love and support that honestly it hasn’t been
+getting.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2025/07/15.html#a120122"
+class="uri">http://scripting.com/2025/07/15.html#a120122</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2025-07-15, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2022/12/05/boxOfTomatos.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I
+should do this more often,
+<a href="https://daytona.scripting.com/search?q=spelunking">spelunking</a>
+around an old server that’s just sitting there. I was wondering why my
+posts to my <a href="https://dave.linkblog.org/">linkblog feed</a> were
+going to Mastodon, since I only post them to Bluesky in my new software.
+I just found out. I have an app running on this server called
+<a href="https://daytona.scripting.com/search?q=FeedToMasto">FeedToMasto</a>,
+which apparently is watching that feed. It’s been chugging away like an
+abandoned science fiction robot, seeing if I posted anything to my
+linkblog, and forwarding it to Mastodon if I have. Hello my robot
+friend, you were forgotten but still appreciated. It’s
+<a href="https://github.com/scripting/feedToMasto/blob/main/feedtomasto.js">open
+source</a>, of course, and appears to be
+<a href="https://github.com/scripting/feedToMasto/blob/main/README.md">well-documented</a>.
+If you’re looking for example code that reads feeds and pushed the
+result to interesting places, this is for you.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2025/07/15.html#a115347"
+class="uri">http://scripting.com/2025/07/15.html#a115347</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2025-07-15, from: Dave Winer’s Scripting
+News)</p>
+<p>I was poking around on an old server, and found a domain that looked
+interesting, and it was. The
+<a href="http://daytona0.scripting.com/?q=dave&collection=drummerdocs">first
+version of Daytona</a>, built around an outliner. I got the impression
+people didn’t like it, so I developed a new one using a more
+conventional approach, and I love that one too, and I did a better job
+the second time. But it’s interesting to poke around the old one as
+well, and it still works, which is great to see. In an alternate
+universe in the year 2025 the whole human species is organized by one
+big outline that everyone contributes to in peace, love and harmony, as
+opposed to this one which
+<a href="http://daytona0.scripting.com/?q=grunts&collection=scriptingnews">grunts</a>
+and
+<a href="http://daytona0.scripting.com/?q=snorts&collection=scriptingnews">snorts</a>
+on Twitter and can’t even put a freaking title on their posts.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2025/07/15.html#a114757"
+class="uri">http://scripting.com/2025/07/15.html#a114757</a></p>
+<hr />
+<h2
+id="what-do-rosie-odonnell-lula-john-brennan-and-james-comey-have-in-common">What
+do Rosie O’Donnell, Lula, John Brennan, and James Comey have in
+common?</h2>
+<p>date: 2025-07-15, from: Robert Reich’s blog</p>
+<p>The Poisoning of Presidential Power</p>
+<p><br></p>
+<p><a
+href="https://robertreich.substack.com/p/what-do-rosie-odonnell-lula-john"
+class="uri">https://robertreich.substack.com/p/what-do-rosie-odonnell-lula-john</a></p>
+<hr />
+<h2 id="redka-redis-re-implemented-with-sql">Redka: Redis re-implemented
+with SQL</h2>
+<p>date: 2025-07-15, from: Anton Zhiyanov blog</p>
+<p>A Redis-compatible Go server/package with a Postgres or SQLite
+backend.</p>
+<p><br></p>
+<p><a href="https://antonz.org/redka/"
+class="uri">https://antonz.org/redka/</a></p>
+<hr />
+<h2 id="urwaldweg-bödmeren">2025-07-14 Urwaldweg Bödmeren</h2>
+<p>date: 2025-07-15, from: Alex Schroeder’s Blog</p>
+<h1 id="2025-07-14-urwaldweg-bödmeren">
+2025-07-14 Urwaldweg Bödmeren
+</h1>
+<p>
+It’s times like these when I have my doubts. If I take the train at
+10:00 I should arrive at 12:11. There should be a restaurant at the stop
+where I get off so if it rains a bit longer, that should be no problem.
+The hike is 3h 30min so there is a tiny chance for a little rain later
+but that should be OK. One of the days I am happy Switzerland pays for
+expensive weather modeling.
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-1.jpeg" alt="The rain forecast goes up to 5mm/h and drops down to zero by 12:00." />
+</p>
+<p>
+Yesterday, as I was looking for a hike, I noticed an interesting option
+that I’m not going to do: an 11-part hike following the trail of the
+Russian army under Suvorov:
+</p>
+<blockquote>
+<p>
+“In autumn 1799, Russian General Suvorov and his army crossed through
+the Swiss Alps in order to oust the French from the country. The
+ViaSuworow follows the route of this campaign through breathtaking
+mountain landscape.” –
+<a href="https://www.myswitzerland.com/en-ch/experiences/route/viasuworow/">Via
+Suworow</a>
+</p>
+</blockquote>
+<p>
+My goals for today are more modest:
+</p>
+<blockquote>
+<p>
+“Hike through Western Europe’s largest primeval forest, above the most
+extensive cave system in Switzerland: on this circular trail through
+Bödmeren Forest in the Muota Valley, you’ll discover ancient spruces,
+weeping silver firs with olive-coloured beards of lichen, and jagged
+rocks overgrown with moss.” –
+<a href="https://schweizmobil.ch/de/wanderland/route-826">Urwaldweg
+Bödmeren</a>
+</p>
+</blockquote>
+<p>
+I arrived at 12:11. It seems the rain just left so I’m having an extra
+coffee at the last restaurant. It’s a smoker restaurant!! I’m sitting
+outside. The music they are playing is “Ländler”. Swiss country music?
+😄
+</p>
+<p>
+A few minutes later and I’m off. Across the creek, up the road, not
+stopping a hell-hole (a spot on the map) and turning right at 9/11 (my
+trail left the road at an altitude marker saying 911m above sea level).
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-2.jpeg" alt="A creek with houses on the left side, taken from a bridge." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-3.jpeg" alt="A green mountain valley. In the middle there&rsquo;s a huge construction site, like a wound in the landscape." />
+</p>
+<p>
+And up and up.
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-6.jpeg" alt="Way pointers. To go back from where I came (Höllloch) would take me 35 m. To reach my goal (Bödmeren) will take me 3 h 30 min. And then I have to get back." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-7.jpeg" alt="The trail leads through a short tunnel." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-8.jpeg" alt="Biggest ant hill so far, built practically on the hiking trail." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-10.jpeg" alt="Campanula along the way." />
+</p>
+<p>
+At the moment I am walking up the valley below this cliff face. The
+trail goes up and down and up again. I haven’t reached the forest. But
+the horse flies have reached me. 😆
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-9.jpeg" alt="And up and up, wooden logs serve as stairs, a sign warns of forest fires." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-11.jpeg" alt="A small vista point near a tree." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-12.jpeg" alt="The trail goes down. They even put a rope here." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-13.jpeg" alt="The trail goes up again." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-14.jpeg" alt="A tiny bench made of wooden logs. Stairs up along a cliff." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-15.jpeg" alt="A trail along an incline." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-16.jpeg" alt="A trail below a cliff face and a nice view into a valley." />
+</p>
+<p>
+The poo tells me that there are chamois (Rupicapra rupicapra, a species
+of goat-antelope) around. I also hear cow bells and a grass mower from
+down below.
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-17.jpeg" alt="Tiny shit beads." />
+</p>
+<p>
+Sadly, up here my signal disappeared. And then the phone charge dropped
+below 20% and I got nervous. I started putting the phone into air-plane
+mode, hoping to conserve batteries as a phone without signal is going to
+try and find an antenna using a lot of power. Later, I would even switch
+off the phone entirely.
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-18.jpeg" alt="I have reached the actual forest I was trying to visit. At least the sign says so." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-19.jpeg" alt="There are flowers and trees. It’s a forest all right." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-20.jpeg" alt="Another sign saying no hunting allowed. And a sticker saying that nobody likes the police, in French." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-21.jpeg" alt="In the mountains one gets mountain envy when looking at other mountains. Like this. What a nice green mountain over there." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-24.jpeg" alt="At this point the trail is wide. A shack or barn with actual wood shingles. Not the last one, either." />
+</p>
+<p>
+At this point I passed a small shack with a fridge selling goat cheese
+and drinks, honour system. I nodded, liked it, kept on walking, and then
+I had not- buyer’s-remorse. I would have loved more water and some goat
+cheese! But I didn’t want to turn back. So 1l of water is all I had for
+this 6h hike.
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-22.jpeg" alt="Looking down into valleys from above is fantastic. Forests, meadows, a house, a town at the far end." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-23.jpeg" alt="I’ve reached the high pastures along the forest." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-25.jpeg" alt="A mountain meadow. There are probably some sniper cows hiding in plain sight but I can’t see them in the preview. Writing alt text without being able to see the important parts is a bad approach." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-26.jpeg" alt="Last mountain meadow. Some cows lie in waiting. I spotted them already. Very nice mountains in the back. I don’t have the time and the knees to make it there, though." />
+</p>
+<p>
+The reason the hike starts at “hell hole” is that there is a 190km cave
+system underneath the karst. At this altitude, the limestone shows and I
+think that’s why the mountains in the back are called Silberen
+(“Silverly”?). This is the turning point of the hike. Also, where is the
+damn forest I was promised.
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-27.jpeg" alt="The landscape is full of white rocks. And gaps and holes. Brushes grow everywhere and perhaps there are some trees over there in the back." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-28.jpeg" alt="Looking at stone-white mountains in the distance. Where the area is exposed, no trees grow. They all hug the wind shadows." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-29.jpeg" alt="If you step off the trail, you might fall into a black hole. Perhaps it goes down two meters. Perhaps it goes all the way down into that 190km cave system." />
+</p>
+<p>
+And now I’m finally in the forest. It looks OK. I’m not stepping off the
+path. All coniferous trees. Lots of lichen, moss, and Grauer Alpendost
+(Adenostyles alliariae).
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-30.jpeg" alt="This is the forest. With tall trees and a nice trail." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-31.jpeg" alt="Nice trail and tall trees. Oh, and another deep hole next to trail. No bottom in sight. I don&rsquo;t want to be hiking here in the dark." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-32.jpeg" alt="Tall trees." />
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-33.jpeg" alt="More tall trees and lots of fern." />
+</p>
+<p>
+And I’m back.
+</p>
+<p>
+<img loading="lazy" src="2025-07-14-boedmeren-34.jpeg" alt="The view down to Muotathal. The descend will take over an hour and give me huge knees, if you know what I mean. Probably depends on your age. Go hiking while you still can!!!" />
+</p>
+<p>
+I rushed my hike down because I wasn’t sure how late I’d be. When I
+picked the trail it said 3 h 30 min but that was just for the circle
+around the forest. I didn’t account for the 2 h 40 min to get there. So
+my worst case scenario was that it would take 8 h 50 min! I walked with
+just short water breaks and sped downhill like a happy little cow
+enjoying its first outing in spring and managed to catch the bus at
+18:14, so it took me 6h total.
+</p>
+<p>
+I need to pay more attention in the future. And bring a bigger backpack.
+And more water. And a snack.
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Switzerland">#Switzerland</a>
+</p>
+<p><br></p>
+<p><a href="https://alexschroeder.ch/view/2025-07-14-boedmeren"
+class="uri">https://alexschroeder.ch/view/2025-07-14-boedmeren</a></p>
+<hr />
+<h2 id="july-14-2025">July 14, 2025</h2>
+<p>date: 2025-07-15, from: Heather Cox Richardson blog</p>
+<p>Trump appointees insist they have a “mandate” to drive undocumented
+immigrants out of the U.S.</p>
+<p><br></p>
+<p><a href="https://heathercoxrichardson.substack.com/p/july-14-2025"
+class="uri">https://heathercoxrichardson.substack.com/p/july-14-2025</a></p>
+<hr />
+<h2 id="elon-musk-gives-himself-another-handshake">‘Elon Musk Gives
+Himself Another Handshake’</h2>
+<p>date: 2025-07-15, updated: 2025-07-15, from: Daring Fireball</p>
+<p><br></p>
+<p><a href="https://pxlnv.com/linklog/musk-xai-spacex/"
+class="uri">https://pxlnv.com/linklog/musk-xai-spacex/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Miguel">@Miguel</span> de
+Icaza Mastondon feed</strong> (date: 2025-07-15, from: Miguel de Icaza
+Mastondon feed)</p>
+<p>
+This is lovely, SwiftUI for Windows and Linux:
+</p>
+<p>
+<a href="https://swiftcrossui.dev" target="_blank" rel="nofollow noopener" translate="no"><span
+class="invisible">https://</span><span>swiftcrossui.dev</span><span
+class="invisible"></span></a>
+</p>
+<p><br></p>
+<p><a href="https://mastodon.social/@Migueldeicaza/114854395771500859"
+class="uri">https://mastodon.social/@Migueldeicaza/114854395771500859</a></p>
+<hr />
+<h2 id="good-lord-the-world-cup-is-going-to-be-a-total-shitshow">Good
+lord, the World Cup is going to be a total shitshow…</h2>
+<p>date: 2025-07-14, updated: 2025-07-14, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/07/0047150-good-lord-the-world-cup"
+class="uri">https://kottke.org/25/07/0047150-good-lord-the-world-cup</a></p>
+<hr />
+<h2 id="maga-turns-on-trump">MAGA Turns on Trump</h2>
+<p>date: 2025-07-14, from: Dan Rather’s Steady</p>
+<p>And that was just part of his very bad week</p>
+<p><br></p>
+<p><a href="https://steady.substack.com/p/maga-turns-on-trump"
+class="uri">https://steady.substack.com/p/maga-turns-on-trump</a></p>
+<hr />
+<h2
+id="this-is-great-a-proposed-poli-sci-course-that-equips-one-for-modern">This
+is great: a proposed “poli-sci course that equips one for modern…</h2>
+<p>date: 2025-07-14, updated: 2025-07-14, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/07/0047149-this-is-great-a-proposed"
+class="uri">https://kottke.org/25/07/0047149-this-is-great-a-proposed</a></p>
+<hr />
+<h2 id="lee-elia-former-major-league-manager-dies-at-87">Lee Elia,
+Former Major League Manager, Dies at 87</h2>
+<p>date: 2025-07-14, updated: 2025-07-14, from: Daring Fireball</p>
+<p><br></p>
+<p><a
+href="https://www.nytimes.com/athletic/6486807/2025/07/10/lee-elia-obituary-cubs-phillies/"
+class="uri">https://www.nytimes.com/athletic/6486807/2025/07/10/lee-elia-obituary-cubs-phillies/</a></p>
+<hr />
+<h2 id="source-code-analysis-of-amazon-kiro">source code analysis of
+Amazon Kiro</h2>
+<p>date: 2025-07-14, from: Geoffrey Hunntley’s blog</p>
+<p>
+It's another day, and another coding tool has been brought to market
+that uses
+<a href="https://ghuntley.com/overton" rel="noreferrer">ripgrep under
+the hood</a>. This time it's Kiro by Amazon. What follows below is an
+analysis of this coding agent:
+</p>
+<blockquote>
+Study the source code in this folder.<br>Your task is to create
+</blockquote>
+<p><br></p>
+<p><a href="https://ghuntley.com/amazon-kiro-source-code/"
+class="uri">https://ghuntley.com/amazon-kiro-source-code/</a></p>
+<hr />
+<h2
+id="how-was-the-wheel-invented-how-did-an-obscure-scientifically-naive-mining">How
+Was the Wheel Invented? “How did an obscure, scientifically naive
+mining…</h2>
+<p>date: 2025-07-14, updated: 2025-07-14, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/07/0047101-how-was-the-wheel-invente"
+class="uri">https://kottke.org/25/07/0047101-how-was-the-wheel-invente</a></p>
+<hr />
+<h2
+id="fed-up-with-big-legacy-news-here-are-13-independent-worker-owned-outlets">“Fed
+up with big legacy news? Here are 13 independent, worker-owned
+outlets…</h2>
+<p>date: 2025-07-14, updated: 2025-07-14, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/07/0047141-fed-up-with-big-legacy"
+class="uri">https://kottke.org/25/07/0047141-fed-up-with-big-legacy</a></p>
+<hr />
+<h2 id="july-13-2025">July 13, 2025</h2>
+<p>date: 2025-07-14, from: Heather Cox Richardson blog</p>
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168336287/efec3d1e9cb0bf7177d67598f12c1137.mp3">
+</source>
+</audio>
+<p><a href="https://api.substack.com/feed/podcast/168336287/efec3d1e9cb0bf7177d67598f12c1137.mp3" target="_blank">download
+audio/mpeg</a><br></p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/july-13-2025-6de"
+class="uri">https://heathercoxrichardson.substack.com/p/july-13-2025-6de</a></p>
+<hr />
+<h2 id="elmore-leonards-perfect-pitch">Elmore Leonard’s Perfect
+Pitch</h2>
+<p>date: 2025-07-14, updated: 2025-07-14, from: Daring Fireball</p>
+<p><br></p>
+<p><a
+href="https://www.newyorker.com/magazine/2025/07/07/elmore-leonards-perfect-pitch"
+class="uri">https://www.newyorker.com/magazine/2025/07/07/elmore-leonards-perfect-pitch</a></p>
 <hr />
 <h2
 id="experts-said-this-was-a-damn-clever-post-by-jason-kottke">Experts
@@ -167,8 +641,9 @@ class="uri">http://scripting.com/2025/07/14.html#a125252</a></p>
 <p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
 Scripting News</strong> (date: 2025-07-14, from: Dave Winer’s Scripting
 News)</p>
-<p>I’ve found in the last few days if you just accept the insanity of
-CSS you get better results.</p>
+<p>You get better results if you just accept the
+<a href="https://www.quora.com/Why-is-CSS-so-weird-and-illogical-and-how-do-you-deal-with-it-Ive-started-front-end-dev-and-working-on-CSS-but-its-oddities-driving-me-crazy-bugs-are-not-logical-but-completely-upon-idiosyncrasies-of-CSS">insanity</a>
+of CSS.</p>
 <p><br></p>
 <p><a href="http://scripting.com/2025/07/14.html#a122245"
 class="uri">http://scripting.com/2025/07/14.html#a122245</a></p>
@@ -226,10 +701,8 @@ beautiful and provocative movie poster.
 <p>
 ChatGPT then
 <a href="https://chatgpt.com/share/6874f3b8-a8e4-8012-ad01-1e6b856e6f18">sketched</a>
-the pitch for “We are living.”
-</p>
-<p>
-Written by
+the pitch for “We are living,” the story of how ChatGPT <i>really</i>
+started. Written by
 <a href="https://en.wikipedia.org/wiki/Charlie_Kaufman">Charlie
 Kaufman</a>, directed by
 <a href="https://en.wikipedia.org/wiki/David_Fincher">David Fincher</a>,
@@ -294,7 +767,7 @@ class="uri">https://christianheilmann.com/2025/07/14/presentations-should-always
 href="https://robertreich.substack.com/p/please-dont-worry-about-me"
 class="uri">https://robertreich.substack.com/p/please-dont-worry-about-me</a></p>
 <hr />
-<h2 id="july-13-2025">July 13, 2025</h2>
+<h2 id="july-13-2025-1">July 13, 2025</h2>
 <p>date: 2025-07-14, from: Heather Cox Richardson blog</p>
 <p>This weekend saw the development of an extraordinary rift in MAGA
 world.</p>
@@ -317,6 +790,18 @@ Ralph can replace the majority of
 <p><br></p>
 <p><a href="https://ghuntley.com/ralph/"
 class="uri">https://ghuntley.com/ralph/</a></p>
+<hr />
+<h2 id="fairphone">Fairphone</h2>
+<p>date: 2025-07-14, from: Jirka’s blog</p>
+<p>I broke the display of my Android phone some time ago (I have to use
+the Andorid - or an iOS - due to some apps). I firs searched for the
+same phone as it was a Sony Xperia and it was a rather good device.
+Surprisingly - prices are on the same level as they were when I got my
+Sony some years ago. The battery is not user-replaceable so I was a bit
+unsure about that. Also the OS is old.</p>
+<p><br></p>
+<p><a href="http://jirka.1-2-8.net/20250714-0440_Fairphone"
+class="uri">http://jirka.1-2-8.net/20250714-0440_Fairphone</a></p>
 <hr />
 <h2 id="classic-web-on-mastodon">‘Classic Web’ on Mastodon</h2>
 <p>date: 2025-07-14, updated: 2025-07-14, from: Daring Fireball</p>

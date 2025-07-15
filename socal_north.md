@@ -1,11 +1,198 @@
 ---
 title: socal north
-updated: 2025-07-14 14:08:21
+updated: 2025-07-15 06:07:30
 ---
 
 # socal north
 
-(date: 2025-07-14 14:08:21)
+(date: 2025-07-15 06:07:30)
+
+---
+
+## SoCal in for a slight cooldown
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+A slight cool down kicks in for Southern California with gloomy mornings near the coast and partly cloudy afternoons. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-in-for-a-slight-cooldown>
+
+---
+
+## AT&T could get permission to ‘phase out’ landlines under new state bill
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+A Senate committee hearing is scheduled for today on a new bill that would allow the company to withdraw as California’s carrier of last resort. 
+
+<br> 
+
+<https://laist.com/news/at-t-could-get-permission-to-phase-out-landlines-under-new-state-bill>
+
+---
+
+## The 2028 Olympics is expanding access to LA youth sports. Here's how to join in
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+From surfing to adaptive sports, Los Angeles is expanding low-cost programs throughout the city. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/youth-adaptive-sports-los-angeles-2028-olympics-play-la>
+
+---
+
+## A day in the life: Pasadena lawyer navigates clients and consequences while ICE raids continue
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+A look at the new reality for attorneys in L.A. County and beyond who specialize in immigration matters. 
+
+<br> 
+
+<https://laist.com/news/politics/local-immigration-lawyer-ice-raids>
+
+---
+
+## A key figure in the Andrew Do scandal just finished law school. Will she be admitted to the bar?
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+Rhiannon Do, the younger daughter of former O.C. Supervisor Andrew Do, graduated from UC Irvine’s law school in May. Her father has been sentenced to five years in prison for a bribery scheme that involved both of his adult daughters. 
+
+<br> 
+
+<https://laist.com/news/rhiannon-do-scandal-law-school-bar>
+
+---
+
+## These small LA airports are mostly forgotten now, but they pioneered early travel
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+Before LAX, L.A. County had tons of small airports in places like Venice, Griffith Park and Glendale. 
+
+<br> 
+
+<https://laist.com/news/transportation/la-regional-airport-airfield-history-venice-glendale-griffith-park>
+
+---
+
+## Port of LA container traffic jumps 32% in June as tariffs loom
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+Port officials say the tariffs roller coaster is behind the increase at the largest port complex in the nation. 
+
+<br> 
+
+<https://laist.com/news/port-of-la-container-traffic-jumps-32-in-june-as-tariffs-loom>
+
+---
+
+## Homelessness declines in Greater LA, bucking the increase seen in Long Beach
+
+date: 2025-07-14, from: Longbeach Post
+
+<figure><img width="1024" height="689" src="https://img.lbpost.com/wp-content/uploads/2022/02/25143350/0224-Homeless-2-1-e1654619465297.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Officials reported a 4% decrease across most of the county and a 3.4% drop in the city of LA compared to a 6.5% increase in Long Beach.</p>
+<p>The post <a href="https://lbpost.com/news/homelessness-declines-in-greater-la-bucking-the-increase-seen-in-long-beach">Homelessness declines in Greater LA, bucking the increase seen in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/homelessness-declines-in-greater-la-bucking-the-increase-seen-in-long-beach>
+
+---
+
+## Citing ‘new’ evidence, judge orders DA’s office to explain why Menendez brothers should stay in prison
+
+date: 2025-07-14, updated: 2025-07-14, from: The LAist
+
+The judge’s order notes that lawyers for Lyle and Erik Menendez have two pieces of evidence they say could have changed the outcome of the trial. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/judge-orders-lada-to-explain-why-evidence-was-withheld-in-menendez-brothers-second-trial>
+
+---
+
+## Game on: Garfield and Roosevelt’s new fields ready for action
+
+date: 2025-07-14, updated: 2025-07-14, from: The LAist
+
+The East L.A. Classic rivals are getting state-of-the-art stadium upgrades in time for opening night 
+
+<br> 
+
+<https://laist.com/news/education/garfield-and-roosevelts-new-fields-ready-for-action>
+
+---
+
+## The LA Olympics are 3 years away. Here's a first look at the schedule
+
+date: 2025-07-14, updated: 2025-07-14, from: The LAist
+
+Los Angeles is officially three years out from the Olympic Games. Organizers released a first look at the upcoming schedule. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/la-olympics-schedule-first-look>
+
+---
+
+## City of Santa Clarita Now Accepting Vendor Applications for Makers Marketplace at Light Up Main Street
+
+date: 2025-07-14, from: City of Santa Clarita
+
+<p>The City of Santa Clarita invites local artisans and crafters to apply for the highly anticipated Makers Marketplace, returning as part of the annual Light Up Main Street, presented by DrinkPAK, on Saturday, November 15. Vendor applications are now open through Sunday, September 14 and can be submitted online at OldTownNewhall.com. The Makers Marketplace offers [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/14/city-of-santa-clarita-now-accepting-vendor-applications-for-makers-marketplace-at-light-up-main-street/">City of Santa Clarita Now Accepting Vendor Applications for Makers Marketplace at Light Up Main Street</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/14/city-of-santa-clarita-now-accepting-vendor-applications-for-makers-marketplace-at-light-up-main-street/>
+
+---
+
+## Supreme Court says Trump's efforts to close the Education Department can continue
+
+date: 2025-07-14, updated: 2025-07-14, from: The LAist
+
+The Trump administration had appealed a decision that had directed it to stop gutting the U.S. Education Department and to reinstate many of the workers the government had laid off. 
+
+<br> 
+
+<https://laist.com/news/education/supreme-court-rules-trump-efforts-to-close-education-department-can-continue>
+
+---
+
+## New rule bars undocumented kids from Head Start child care
+
+date: 2025-07-14, updated: 2025-07-14, from: The LAist
+
+Head Start serves 73,476 children from low-income families in California. 
+
+<br> 
+
+<https://laist.com/news/education/new-rule-bars-undocumented-kids-from-head-start-child-care>
+
+---
+
+## William S. Hart Park Officially Opens as City’s 40th Park
+
+date: 2025-07-14, from: City of Santa Clarita
+
+<p>Historic Site Now Open to the Public with Expanded Hours and Tours Returning The City of Santa Clarita is proud to announce the official opening of its 40th park – William S. Hart Park – now under full City ownership and open to the public. This major milestone celebrates the City’s commitment to preserving local [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/14/william-s-hart-park-officially-opens-as-citys-40th-park/">William S. Hart Park Officially Opens as City&#8217;s 40th Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/14/william-s-hart-park-officially-opens-as-citys-40th-park/>
 
 ---
 
@@ -23,7 +210,7 @@ Measles cases in the U.S. have risen to the worst in 33 years, according to repo
 
 ## Homelessness in LA region dropped for the second time in two years, according to annual count
 
-date: 2025-07-14, updated: 2025-07-14, from: The LAist
+date: 2025-07-14, updated: 2025-07-15, from: The LAist
 
 Results of the 2025 count show homelessness dropped by 3.4% in the city of L.A. and by 4% countywide, according to LAHSA. 
 
@@ -49,7 +236,7 @@ Clean-energy projects have new deadlines for federal tax credits and limits on f
 
 date: 2025-07-14, from: Longbeach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The crash happened shortly before 6:40 p.m. Sunday on Pacific Coast Highway, just west of Golden Avenue, according to Long Beach police.</p>
 <p>The post <a href="https://lbpost.com/news/crime/man-killed-while-crossing-pch-near-the-los-angeles-river-lbpd-says">Man killed while crossing PCH near the Los Angeles River, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -64,7 +251,7 @@ date: 2025-07-14, from: Longbeach Post
 
 date: 2025-07-14, from: Longbeach Post
 
-<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1024x576.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1024x576.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-300x169.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-768x432.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-192x108.webp 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1536x864.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1200x675.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1568x882.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-400x225.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR.webp 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1024x576.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1024x576.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-300x169.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-768x432.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-192x108.webp 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1536x864.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1200x675.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1568x882.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-400x225.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR.webp 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The Opening Ceremony takes place on July 14, 2028, but some competitions will already be underway, including handball and water polo in Long Beach.</p>
 <p>The post <a href="https://lbpost.com/news/la28-unveils-schedule-for-2028-olympics-including-long-beach-events">LA28 unveils schedule for 2028 Olympics, including Long Beach events</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -126,6 +313,18 @@ date: 2025-07-14, from: Longbeach Post
 
 ---
 
+## Despite three 911 calls, two homebound disabled men died in the Eaton Fire waiting for rescue
+
+date: 2025-07-14, updated: 2025-07-14, from: The LAist
+
+911 recordings obtained by LAist shed light on why and how emergency planning continues to leave people with disabilities behind. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/despite-three-911-calls-two-homebound-disabled-men-died-in-the-eaton-fire-waiting-for-rescue>
+
+---
+
 ## The first close-up images of Mars still elicit wonder, 60 years after they were captured
 
 date: 2025-07-14, updated: 2025-07-14, from: The LAist
@@ -147,18 +346,6 @@ Enjoy foodie heaven at the World Taste of Anaheim, a romance novel read and swap
 <br> 
 
 <https://laist.com/news/arts-and-entertainment/best-things-to-do-los-angeles-southern-california-july-14-17>
-
----
-
-## Despite three 911 calls, two homebound disabled men died in the Eaton Fire waiting for rescue
-
-date: 2025-07-14, updated: 2025-07-14, from: The LAist
-
-911 recordings obtained by LAist shed light on why and how emergency planning continues to leave people with disabilities behind. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/despite-three-911-calls-two-homebound-disabled-men-died-in-the-eaton-fire-waiting-for-rescue>
 
 ---
 

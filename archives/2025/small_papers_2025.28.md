@@ -1,11 +1,26 @@
 ---
 title: small papers
-updated: 2025-07-14 14:08:31
+updated: 2025-07-15 06:07:38
 ---
 
 # small papers
 
-(date: 2025-07-14 14:08:31)
+(date: 2025-07-15 06:07:38)
+
+---
+
+## Homelessness declines in Greater LA, bucking the increase seen in Long Beach
+
+date: 2025-07-14, from: Long Beach Post
+
+<figure><img width="1024" height="689" src="https://img.lbpost.com/wp-content/uploads/2022/02/25143350/0224-Homeless-2-1-e1654619465297.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Officials reported a 4% decrease across most of the county and a 3.4% drop in the city of LA compared to a 6.5% increase in Long Beach.</p>
+<p>The post <a href="https://lbpost.com/news/homelessness-declines-in-greater-la-bucking-the-increase-seen-in-long-beach">Homelessness declines in Greater LA, bucking the increase seen in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/homelessness-declines-in-greater-la-bucking-the-increase-seen-in-long-beach>
 
 ---
 
@@ -27,7 +42,7 @@ date: 2025-07-14, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-07-14, from: Long Beach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The crash happened shortly before 6:40 p.m. Sunday on Pacific Coast Highway, just west of Golden Avenue, according to Long Beach police.</p>
 <p>The post <a href="https://lbpost.com/news/crime/man-killed-while-crossing-pch-near-the-los-angeles-river-lbpd-says">Man killed while crossing PCH near the Los Angeles River, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -42,7 +57,7 @@ date: 2025-07-14, from: Long Beach Post
 
 date: 2025-07-14, from: Long Beach Post
 
-<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1024x576.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1024x576.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-300x169.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-768x432.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-192x108.webp 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1536x864.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1200x675.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1568x882.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-400x225.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR.webp 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1024x576.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1024x576.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-300x169.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-768x432.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-192x108.webp 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1536x864.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1200x675.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1568x882.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-400x225.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR.webp 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The Opening Ceremony takes place on July 14, 2028, but some competitions will already be underway, including handball and water polo in Long Beach.</p>
 <p>The post <a href="https://lbpost.com/news/la28-unveils-schedule-for-2028-olympics-including-long-beach-events">LA28 unveils schedule for 2028 Olympics, including Long Beach events</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

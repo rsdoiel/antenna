@@ -1,11 +1,167 @@
 ---
 title: science and technology
-updated: 2025-07-14 14:08:23
+updated: 2025-07-15 06:07:31
 ---
 
 # science and technology
 
-(date: 2025-07-14 14:08:23)
+(date: 2025-07-15 06:07:31)
+
+---
+
+## IT consultancy settles US battle over alleged $14.75M government contract fraud
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>Outfit was accused of charging for specialist IT labor performed by uncertified folks</h4> <p>A Maryland IT, cloud, and security consultancy will have to pay the US government at least $14.75 million to settle multiple allegations that it issued false invoices between 2018-2023.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/us_puts_it_consultancy_to/>
+
+---
+
+## Former Google DeepMind engineer behind Simular says other AI agents are doing it wrong
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>Simular is starting with industries like insurance and healthcare with tons of forms to fill</h4> <p>When Ang Li, co-founder of agent software biz Simular, started working at Google DeepMind in 2017, software engineers at the search giant were skeptical about the usefulness of machine learning, or artificial intelligence (AI) as it has come to be called.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/simular_ai_agent_reinforcement/>
+
+---
+
+## CIOs pause net-new IT investments as global tariff jitters bite
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>Uncertainty to blame as businesses wait to see what US Prez Trump does next</h4> <p><strong>World War Fee</strong>  Gartner has trimmed its growth forecast for worldwide IT spending in 2025 as an &#34;uncertainty pause&#34; hits net new spending, caused in part by the unpredctability of US President Donald Trump&#39;s trade tariff policy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/gartner_it_spending_forecast/>
+
+---
+
+## Melissa Harris: Shaping NASA’s Vision for a Future in Low Earth Orbit
+
+date: 2025-07-15, from: NASA breaking news
+
+With over 25 years of experience in human spaceflight programs, Melissa Harris has contributed to numerous programs and projects during key moments in NASA’s history. As the life cycle lead and Independent Review Team review manager for the Commercial Low Earth Orbit Development Program, she guides the agency through development initiatives leading to a new [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/melissa-harris-shaping-nasas-vision-for-a-future-in-low-earth-orbit/>
+
+---
+
+## HAMR time: Seagate unleashes 30 TB disks to feed the AI beast
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>Exos and IronWolf drives show spinning rust isn&#39;t going anywhere</h4> <p>Seagate has released two 30 TB hard drives based on its HAMR technology, pitching them as <span class="strike">more energy efficient</span> cheaper options for datacenter operators dealing with AI workloads.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/seagate_hamr_drives/>
+
+---
+
+## Curiosity Blog, Sols 4595-4596: Just Another Beautiful Day on Mars
+
+date: 2025-07-15, from: NASA breaking news
+
+Written by Ashley Stroupe, Mission Operations Engineer at NASA’s Jet Propulsion Laboratory Earth planning date: Wednesday, July 9, 2025 In today’s plan, we have a little bit of everything. With it being winter still, we are taking advantage of the ability to let the rover sleep in, doing most of the activities in the afternoon […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4595-4596-just-another-beautiful-day-on-mars/>
+
+---
+
+## Britain's billion-pound F-35s not quite ready for, well, anything
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>Stealth jets can&#39;t fight, can&#39;t fly much, and can&#39;t shoot UK missiles, says NAO</h4> <p>The F-35 stealth fighter is not meeting its potential in British service because of availability issues, a shortage of support personnel, and delays in integrating key weapons that are limiting the aircraft&#39;s effectiveness.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/uk_f35_failings/>
+
+---
+
+## Meta reveals plan for several multi-gigawatt datacenter clusters
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>First, Zuck takes Manhattan. Then he might actually deliver a product that matters</h4> <p>Meta overlord-for-life Mark Zuckerberg has revealed he plans to build several multi-gigawatt datacenter clusters, with the first to come online in 2026.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/meta_datacenter_build_plan/>
+
+---
+
+## Scientists spot massive black hole collision that defies current theories
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>Off-the-charts gravitational waves ripple out from merged dead stars</h4> <p>Researchers have observed the largest ever collision between two massive black holes witnessed by humans, a finding that’s sent astrophysicists back to their calculators to re-think models.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/ligo_largest_black_hole_collision/>
+
+---
+
+## Nvidia to resume sales to China – with Trump administration approval
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>Maybe CEO Jensen Huang&#39;s million-dollar meal at Mar-a-Lago has paid off in the form of permission to sell the H20 and a new RTX Pro GPU</h4> <p>Nvidia has announced the US government will allow it to resume sales of its GPUs to Chinese customers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/us_allows_nvidia_china_sales/>
+
+---
+
+## Malaysia closes a back door that may have allowed US-sourced AI chips to reach China
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>Stricter regulation follows last week&#39;s tariff whack</h4> <p>The government of Malaysia on Monday closed a back door that may have allowed the export of AI chips to China.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/malaysia_ai_chip_export_restrictions/>
+
+---
+
+## Someone hijacked Elmo's X account to post antisemitic rants
+
+date: 2025-07-14, updated: 2025-07-14, from: The Register (UK I.T. News)
+
+<h4>Anyone investigated Grok? Just sayin&#39;…</h4> <p>Someone hacked Elmo&#39;s X account on Sunday, making it appear as if the lovable Sesame Street monster with the habit of referring to themselves in the third-person spewed a series of now-removed antisemitic, racist, and anti-Trump posts.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/14/someone_hijacked_elmos_x_account/>
+
+---
+
+## Anthropic, Google, OpenAI, and xAI get $800M to hop in bed with Pentagon
+
+date: 2025-07-14, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>Looks like DoD FOMO struck Silicon Valley</h4> <p>The Pentagon&#39;s embrace of the AI industry just put up to $800 million on the table, as the Department of Defense issued a quartet of contracts bringing the biggest names in the biz officially into the fold. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/14/pentagon_ai/>
 
 ---
 
@@ -47,9 +203,9 @@ NASA research has shown that cell-like compartments called vesicles could form n
 
 ## Nvidia CEO says China wouldn't risk building military supers with American AI chips
 
-date: 2025-07-14, updated: 2025-07-14, from: The Register (UK I.T. News)
+date: 2025-07-14, updated: 2025-07-15, from: The Register (UK I.T. News)
 
-<h4>With half the AI devs in the world, if China can&#39;t build on American hardware, they&#39;ll build on their own, Jensen warns</h4> <p>If the US military wouldn&#39;t be caught dead building supercomputers using Chinese kit, there&#39;s no reason to think the People&#39;s Liberation Army would risk doing the same, argues Nvidia CEO Jensen Huang.…</p> 
+<h4>With half the AI devs in the world, if China can&#39;t build on American hardware, they&#39;ll build on their own, Jensen warns</h4> <p>If the US military wouldn&#39;t be caught dead building supercomputers using Chinese kit, there&#39;s no reason to think the People&#39;s Liberation Army would risk using American gear, argues Nvidia CEO Jensen Huang.…</p> 
 
 <br> 
 
@@ -107,7 +263,7 @@ On Windows, there&#8217;s an option to show the seconds on the taskbar clock, bu
 
 ## A software-defined radio can derail a US train by slamming the brakes on remotely
 
-date: 2025-07-14, updated: 2025-07-14, from: The Register (UK I.T. News)
+date: 2025-07-14, updated: 2025-07-15, from: The Register (UK I.T. News)
 
 <h4>Neil Smith has been trying to get the railroad industry to listen since 2012, but it took a CISA warning to get there</h4> <p>When independent security researcher Neil Smith reported a vulnerability in a comms standard used by trains to the US government in 2012, he most likely didn&#39;t expect it would take until 2025 to sort the matter out, but here we are. …</p> 
 

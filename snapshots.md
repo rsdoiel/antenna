@@ -1,11 +1,123 @@
 ---
 title: snapshots
-updated: 2025-07-14 14:08:33
+updated: 2025-07-15 06:07:39
 ---
 
 # snapshots
 
-(date: 2025-07-14 14:08:33)
+(date: 2025-07-15 06:07:39)
+
+---
+
+## How I’ve Been Using AI
+
+date: 2025-07-15, from: Accidentally in Code
+
+I feel like the whole AI conversation is dominated by two extremes. Those who believe in AGI, and AI skeptics. I’m trying to approach it as a tool that may or may not be useful. Here are some things I’ve found so far. Useful as an editing partner. For things where I have a clear [&#8230;] 
+
+<br> 
+
+<https://cate.blog/2025/07/15/how-ive-been-using-ai/>
+
+---
+
+## For MAGA, Ignorance is Strength
+
+date: 2025-07-15, from: Paul Krugman
+
+Research cuts aren&#8217;t about shrinking government, they&#8217;re about killing science 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/for-maga-ignorance-is-strength>
+
+---
+
+## What if your laptop had a FOSS firmware?
+
+date: 2025-07-15, from: Libre News
+
+Statistically, your computer's firmware is proprietary. However, Libreboot is an interesting, if niche, option to boostrap a computer with free and libre code only. 
+
+<br> 
+
+<https://thelibre.news/what-if-your-laptop-had-a-foss-firmware/>
+
+---
+
+## Population growth or decline will have little impact on climate change
+
+date: 2025-07-15, from: Hannah Richie at Substack
+
+It'll be too slow and too late for the timeframes that we need to decarbonise. 
+
+<br> 
+
+<https://www.sustainabilitybynumbers.com/p/population-growth-decline-climate>
+
+---
+
+## Hackers Can Remotely Trigger the Brakes on American Trains and the Problem Has Been Ignored for Years
+
+date: 2025-07-15, from: 404 Media Group
+
+“All of the knowledge to generate the exploit already exists on the internet. AI could even build it for you,” the researcher told 404 Media. 
+
+<br> 
+
+<https://www.404media.co/hackers-can-remotely-trigger-the-brakes-on-american-trains-and-the-problem-has-been-ignored-for-years/>
+
+---
+
+## CSS Day Videos & Scope
+
+date: 2025-07-14, from: Chris Coyier blog
+
+John Allsopp has a new platform Conffab that is for livestreaming conferences as well as providing on-demand access to past recorded conference presentations. Some of which are behind a paywall. He&#8217;s got good reason to productize this. It boils down to incentives. If it all works, it&#8217;s a better place for all: presenters, organizers, and [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/07/14/css-day-videos-scope/>
+
+---
+
+## source code analysis of Amazon Kiro
+
+date: 2025-07-14, from: Geoffrey Hunntley's blog
+
+<p>It&apos;s another day, and another coding tool has been brought to market that uses <a href="https://ghuntley.com/overton" rel="noreferrer">ripgrep under the hood</a>. This time it&apos;s Kiro by Amazon. What follows below is an analysis of this coding agent:</p><blockquote>Study the source code in this folder.<br>Your task is to create</blockquote> 
+
+<br> 
+
+<https://ghuntley.com/amazon-kiro-source-code/>
+
+---
+
+## Application development without programmers
+
+date: 2025-07-14, updated: 2025-07-14, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://archive.org/details/applicationdevel00mart">Application development without programmers</a></strong></p>
+This book by <a href="https://en.m.wikipedia.org/wiki/James_Martin_(author)">James Martin</a> published in 1982, includes the following in the preface:</p>
+<blockquote>
+<p>Applications development did not change much for 20 years, but now a new wave is crashing in. A rich diversity of nonprocedural techniques and languages are emerging. As these languages improve, they promise to change the entire fabric of DP development.</p>
+<p>This means a major change for many of the personnel involved in DP, from the DP manager to the junior programmer. DP personnel have always welcomed new hardware and software, but it is not as easy to accept fundamental changes in the nature of one's job. Many DP professionals and, not surprisingly, programmers will instinctively resist some of the methods described in this book.</p>
+</blockquote>
+<p>(I had to look up DP - it stands for Data Processing, and was a common acronym for general IT work up until the 1980s.)</p>
+<p>I enjoy they way this echoes with today's fears of the impact of AI-assisted programming on developer careers!</p>
+<p>The early 80s were a wild time for computing:</p>
+<blockquote>
+<p>Unfortunately, the winds of change are sometimes irreversible. The continuing drop in cost of computers has now passed the point at which computers have become cheaper than people. The number of programmers available <em>per computer</em> is shrinking so fast that most computers in the future will have to work at least in part without programmers.</p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://www.tiktok.com/@codythecoder/video/7526998886221663543">@codythecoder on TikTok</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/careers">careers</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/14/application-development-without-programmers/#atom-everything>
 
 ---
 

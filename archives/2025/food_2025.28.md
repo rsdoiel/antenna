@@ -1,11 +1,49 @@
 ---
 title: food
-updated: 2025-07-14 14:08:30
+updated: 2025-07-15 06:07:37
 ---
 
 # food
 
-(date: 2025-07-14 14:08:30)
+(date: 2025-07-15 06:07:37)
+
+---
+
+## New Coffee Seedings May Ease Demand Shortages—But Not Until 2026
+
+date: 2025-07-15, from: The Fresh Cup
+
+<p>As global coffee demand continues to grow, production has struggled to keep up. However, higher prices have encouraged farmers to plant more coffee. </p>
+<p>The post <a href="https://freshcup.com/new-coffee-seedings-may-ease-demand-shortages-but-not-until-2026/">New Coffee Seedings May Ease Demand Shortages—But Not Until 2026</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/new-coffee-seedings-may-ease-demand-shortages-but-not-until-2026/>
+
+---
+
+## All the Recipes From Bon Appétit’s Summer Issue
+
+date: 2025-07-15, from: Bon Appetet
+
+We’ve got sausage with cabbage and giardiniera, tomato aguachile, and matcha-berry frozen yogurt. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/bon-appetit-august-2025-issue>
+
+---
+
+## SEO: Tomato Prices May Go Up This Summer
+
+date: 2025-07-15, from: Bon Appetet
+
+The 17 percent duty that went into effect today jolts historic trade patterns and will likely raise prices by as much as 10 percent. 
+
+<br> 
+
+<https://www.bonappetit.com/story/mexico-tomato-tariff>
 
 ---
 
