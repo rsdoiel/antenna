@@ -1,11 +1,35 @@
 ---
 title: writing
-updated: 2025-07-15 14:07:43
+updated: 2025-07-16 06:09:17
 ---
 
 # writing
 
-(date: 2025-07-15 14:07:43)
+(date: 2025-07-16 06:09:17)
+
+---
+
+## How Book Advances are Paid to Authors
+
+date: 2025-07-16, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-book-advances-are-paid-to-authors>
+
+---
+
+## Happy Bastille Day...
+
+date: 2025-07-16, from: Margaret Atwoods Substack
+
+A little late, but here's a playlist! 
+
+<br> 
+
+<https://margaretatwood.substack.com/p/happy-bastille-day>
 
 ---
 

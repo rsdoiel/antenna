@@ -1,11 +1,60 @@
 ---
 title: motorcycles
-updated: 2025-07-15 14:07:44
+updated: 2025-07-16 06:09:20
 ---
 
 # motorcycles
 
-(date: 2025-07-15 14:07:44)
+(date: 2025-07-16 06:09:20)
+
+---
+
+## If You Own One Of These Zero Motorcycles, You May Want To Check Your Brakes
+
+date: 2025-07-16, from: Ride Apart, Electric Motorcycle News
+
+Heads up, an incorrectly routed front brake hose could cause a safety issue on these bikes. 
+
+<br> 
+
+<https://www.rideapart.com/news/765962/zero-ds-front-brake-recall/>
+
+---
+
+## Stark Future Announces Q2 Financial Records, Absolutely Destroying Tesla
+
+date: 2025-07-16, from: Ride Apart, Electric Motorcycle News
+
+There's no other pure EV motorcycle manufacturer on this level, not even close. 
+
+<br> 
+
+<https://www.rideapart.com/news/765976/stark-future-2025-half-yearly-profitability-records/>
+
+---
+
+## What If You Could Have An E-Bike With Totally Unlimited Range?
+
+date: 2025-07-16, from: Ride Apart, Electric Motorcycle News
+
+Becca Farsace proved it could be done, but it surely wasn’t easy. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/765852/diy-ebike-unlimited-range-solar-power/>
+
+---
+
+## What Wheelie Happens When You Set A MotoGP Rider Loose On LA Streets?
+
+date: 2025-07-16, from: Ride Apart, Electric Motorcycle News
+
+Watch Diggia check off his bucket list.  
+
+<br> 
+
+<https://www.rideapart.com/news/765839/motogp-racer-road-ride-la-ducati/>
 
 ---
 

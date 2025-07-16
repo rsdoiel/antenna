@@ -1,11 +1,101 @@
 ---
 title: snapshots
-updated: 2025-07-15 14:07:47
+updated: 2025-07-16 06:09:24
 ---
 
 # snapshots
 
-(date: 2025-07-15 14:07:47)
+(date: 2025-07-16 06:09:24)
+
+---
+
+## AMD expands Krackan Point lineup with Ryzen AI 5 330
+
+date: 2025-07-16, from: Liliputing
+
+<p>AMD&#8217;s Krackan Point processor lineup debuted earlier this year as a lower-cost, lower-performance alternative to the AMD Strix Point chips that launched last year. At launch, there were only two Krackan Point processors available though. Now there are three. AMD is adding the Ryzen AI 5 330 as a new mobile chip for lower-cost laptops [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/amd-expands-krackan-point-lineup-with-ryzen-ai-5-330/">AMD expands Krackan Point lineup with Ryzen AI 5 330</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/amd-expands-krackan-point-lineup-with-ryzen-ai-5-330/>
+
+---
+
+## WHEN ONE BAGEL SHOULD BE ENOUGH
+
+date: 2025-07-16, from: Howard Jacobson blog
+
+As a matter of course and before waiting to see how generous the servings were going to be in any restaurant we went to, my father ordered two of everything. 
+
+<br> 
+
+<https://jacobsonh.substack.com/p/when-one-bagel-should-be-enough>
+
+---
+
+## Stop Lying, Flight Attendants
+
+date: 2025-07-16, updated: 2025-07-16, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/07/16/stop-lying-flight-attendants/>
+
+---
+
+## Hawks, Doves and Lapdogs
+
+date: 2025-07-16, from: Paul Krugman
+
+The next Fed chair will be an obedient partisan 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/hawks-doves-and-lapdogs>
+
+---
+
+## Lilbits: Razer’s new Thunderbolt 5 docks, UGREEN’s new 25W Qi 2.2 wireless power bank
+
+date: 2025-07-15, from: Liliputing
+
+<p>Thunderbolt 5 supports bi-directional data transfer speeds up to 80 Gbps, or asymmetric speeds up to 120 Gbps for video output. And that makes it an even better fit for docking stations than Thunderbolt 4, which topped out at 40 Gbps. Now that PCs with Thunderbolt 5 are starting to gain traction, we&#8217;re starting to [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-razers-new-thunderbolt-5-docks-ugreens-new-25w-qi-2-2-wireless-power-bank/">Lilbits: Razer&#8217;s new Thunderbolt 5 docks, UGREEN&#8217;s new 25W Qi 2.2 wireless power bank</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-razers-new-thunderbolt-5-docks-ugreens-new-25w-qi-2-2-wireless-power-bank/>
+
+---
+
+## Nominaciones Emmys 2025: Severance lidera con 27 menciones
+
+date: 2025-07-15, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Finalmente llegó el día en que la Academia estadounidense de televisión dio a conocer las nominaciones a los Emmys 2025. Con este anuncio concluimos que hubo pocas sorpresas, pocas series concentraron muchas nominaciones, y hubo algunas categorías aburridas como todos los años. Severance encabezó las nominaciones con 27 menciones, seguida por The Penguin con 24 [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/nominaciones-emmys-2025/">Nominaciones Emmys 2025: Severance lidera con 27 menciones</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/nominaciones-emmys-2025/?utm_source=rss&utm_medium=rss&utm_campaign=nominaciones-emmys-2025>
+
+---
+
+## Snowflake Bongino, the Real Angst of MAGA, Cuomo's Doom Ride, and Fur Flies in my Own House 
+
+date: 2025-07-15, from: Tina Brown
+
+Dan Bongino&#8217;s refusal to come to work on Friday after a showdown with AG Pam Bondi over the non-release of the Epstein files is yet more evidence that the FBI&#8217;s deputy director is a tattooed snowflake. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/snowflake-bongino-the-real-angst>
 
 ---
 

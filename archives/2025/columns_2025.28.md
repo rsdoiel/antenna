@@ -1,11 +1,164 @@
 ---
 title: columns
-updated: 2025-07-15 14:07:42
+updated: 2025-07-16 06:09:17
 ---
 
 # columns
 
-(date: 2025-07-15 14:07:42)
+(date: 2025-07-16 06:09:17)
+
+---
+
+## 2025-07-16 No file manager for Oddμ
+
+date: 2025-07-16, from: Alex Schroeder's Blog
+
+<h1 id="2025-07-16-no-file-manager-for-oddμ">2025-07-16 No file manager for Oddμ</h1>
+
+<p>Yesterday I added a tiny sentence to the description of <a href="Oddμ">my wiki software</a>, in the context of a bunch of features my software wasn&rsquo;t implementing, relying on the web server setup instead: &ldquo;Not reimplementing these features reduces the attack surface.&rdquo; And now I&rsquo;m looking at some features and wonder whether they should go, too.</p>
+
+<p>Like, what about the tiny file manager to rename and delete files? I already have documentation on <a href="oddmu/oddmu-webdav.5">how to set up and use WebDAV</a>. Sounds like it could go!</p>
+
+<p>And so I removed it. 😲</p>
+
+<p><a class="tag" href="/search/?q=%23Oddμ">#Oddμ</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-07-16-no-file-manager>
+
+---
+
+## Office Hours: Trump Wants to Roll Back America to … When? 
+
+date: 2025-07-16, from: Robert Reich's blog
+
+When do he and his followers think America was "great?" 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-19a>
+
+---
+
+## If you can explain it, it’s solved.
+
+date: 2025-07-16, from: Paolo Valdemarin's blog
+
+An old friend with many years of software development experience yesterday reminded me of the old saying: &#8220;if you can explain a problem, it is half solved&#8221;. Chatting about it we agreed that even with the current generation of AI tools to support software development, we are getting closer and closer to &#8220;if you can &#8230; <a href="https://val.demar.in/2025/07/explain-it-solved-it/" class="more-link">Continue reading<span class="screen-reader-text"> "If you can explain it, it’s solved."</span></a> 
+
+<br> 
+
+<https://val.demar.in/2025/07/explain-it-solved-it/>
+
+---
+
+## curl 8.15.0
+
+date: 2025-07-16, from: Daniel Stenberg Blog
+
+Welcome to another curl release. A shorter cycle this time so we did not have time to merge many changes: there is just one logged. See below. This is the 269th release featuring 269 command line options. Release presentation Numbers the 269th release1 change42 days (total: 9,980)233 bugfixes (total: 12,282)334 commits (total: 35,572)0 new public &#8230; <a href="https://daniel.haxx.se/blog/2025/07/16/curl-8-15-0/" class="more-link">Continue reading <span class="screen-reader-text">curl 8.15.0</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/07/16/curl-8-15-0/>
+
+---
+
+## You don't need testify/assert
+
+date: 2025-07-16, from: Anton Zhiyanov blog
+
+To have expressive test assertions. 
+
+<br> 
+
+<https://antonz.org/do-not-testify/>
+
+---
+
+## July 15, 2025 
+
+date: 2025-07-16, from: Heather Cox Richardson blog
+
+Without any explanation, the right-wing majority on the Supreme Court yesterday granted a stay on a lower court&#8217;s order that the Trump administration could not gut the Department of Education while the issue is in the courts. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-15-2025>
+
+---
+
+## Happy Bastille Day...
+
+date: 2025-07-16, from: Margaret Atwood's substack
+
+A little late, but here's a playlist! 
+
+<br> 
+
+<https://margaretatwood.substack.com/p/happy-bastille-day>
+
+---
+
+## Ride the Cluetrain!
+
+date: 2025-07-16, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/07/15/cluetrain.png"></center>It's the modern way to travel!</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/15/005202.html?title=rideTheCluetrain>
+
+---
+
+## Wednesday 16 July, 2025
+
+date: 2025-07-15, from: John Naughton's online diary
+
+Tourism, Instagram-style Spotted outside Trinity College, Cambridge, yesterday. The young woman had just been photographed against the background of Newton’s tree and the windows of his room. God knows why. I wasn’t quick enough to grab that shot, but here &#8230; <a href="https://memex.naughtons.org/wednesday-16-july-2025/41020/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-16-july-2025/41020/>
+
+---
+
+## Drew Saur’s Ode to the Commodore 64
+
+date: 2025-07-15, updated: 2025-07-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://theprogressivecio.com/the-commodore-64-made-a-difference/>
+
+---
+
+## Jamie Dimon’s Last Stand (Hopefully)
+
+date: 2025-07-15, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/jamie-dimons-last-stand-hopefully>
+
+---
+
+##  CEO Tony Stubblebine shares how Medium went from the brink of shutting... 
+
+date: 2025-07-15, updated: 2025-07-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047147-ceo-tony-stubblebine-shar>
 
 ---
 
@@ -141,7 +294,7 @@ date: 2025-07-15, updated: 2025-07-15, from: Jason Kittke's blog
 
 date: 2025-07-15, from: Doc Searls (at Harvard), New Old Blog
 
-Redraw your own conclusions. Just one air travel adventure. Cable is toast. And free TV from an antenna is crumbs. Nearly half of all TV watching is to streams. And Netflix counts for 42% of the gains. “Ginny &#38; Georgia&#34; led the way. And how will you dispute it if the AI is wrong? Ding your rental car [&#8230;] 
+When companies take delivery, the results will be huge. The Cluetrain Will Run from Customers to Companies is about making The Cluetrain Manifesto come true 26 years after it was posted. Redraw your own conclusions. Just one air travel adventure. Cable is toast. And free TV from an antenna is crumbs. Nearly half of all TV watching [&#8230;] 
 
 <br> 
 
@@ -579,18 +732,6 @@ date: 2025-07-14, updated: 2025-07-14, from: Daring Fireball
 
 ---
 
-## Experts Said This Was a Damn Clever Post by Jason Kottke
-
-date: 2025-07-14, updated: 2025-07-14, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://kottke.org/25/07/journalisms-experts-said-conclusion>
-
----
-
 ##  The Media&#8217;s Pivot to AI Is Not Real and Not Going to... 
 
 date: 2025-07-14, updated: 2025-07-14, from: Jason Kittke's blog
@@ -893,6 +1034,18 @@ date: 2025-07-13, from: Heather Cox Richardson blog
 </audio> <a href="https://api.substack.com/feed/podcast/168240397/8229c1aa27fd42b7ec04bdf1c3aaad98.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://heathercoxrichardson.substack.com/p/july-12-2025-f86>
+
+---
+
+##  Taking Journalism&#8217;s &#8216;Experts Said&#8230;&#8217; Chicanery About Facts to Its Natural, Absurd Conclusion 
+
+date: 2025-07-13, updated: 2025-07-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/journalisms-experts-said-conclusion>
 
 ---
 

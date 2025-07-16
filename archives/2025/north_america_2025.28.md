@@ -1,11 +1,75 @@
 ---
 title: north america
-updated: 2025-07-15 14:07:39
+updated: 2025-07-16 06:09:13
 ---
 
 # north america
 
-(date: 2025-07-15 14:07:39)
+(date: 2025-07-16 06:09:13)
+
+---
+
+## Democrats Must Lean into Defense of Immigrants
+
+date: 2025-07-16, from: The Contrarian
+
+Trump&#8217;s reign of terror is rotten policy 
+
+<br> 
+
+<https://contrarian.substack.com/p/democrats-must-lean-into-defense>
+
+---
+
+##  How Google Ruined Your Phone 
+
+date: 2025-07-16, from: The Lever News
+
+ Google has sabotaged its phones’ open-source technology in order to stamp out its competitors and intensify surveillance of its customers.  
+
+<br> 
+
+<https://www.levernews.com/how-google-ruined-your-phone/>
+
+---
+
+## Tariffs, inflation, and more with Justin Wolfers, Jared Bernstein, & Ernie Tedeschi
+
+date: 2025-07-15, from: The Contrarian
+
+Listen now | What does Trump want from his trade war? 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168425956/0f61550117ba9060480dc7f59bda20f5.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168425956/0f61550117ba9060480dc7f59bda20f5.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/tariffs-inflation-and-more-with-justin>
+
+---
+
+## Evening Roundup, July 15
+
+date: 2025-07-15, from: The Contrarian
+
+Featuring Meredith Blake; Kim Lane Scheppele; Justin Wolfers & Jen Rubin; Dana Sussman; Tom Malinowski; Brian O'Neill; and "Let's Do Lunch" with Jared Bernstein 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-15>
+
+---
+
+## Who has the power of the purse? Tom Malinowski on Trump's rescissions request
+
+date: 2025-07-15, from: The Contrarian
+
+"It's another episode in the humiliation of Washington Republicans giving up the power that they spent all of that money running for office to try to have." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168412782/13fc629d40e46a5b1780cfcf126013a4.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168412782/13fc629d40e46a5b1780cfcf126013a4.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/who-has-the-power-of-the-purse-tom>
 
 ---
 

@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-07-15 14:07:41
+updated: 2025-07-16 06:09:15
 ---
 
 # science and technology
 
-(date: 2025-07-15 14:07:41)
+(date: 2025-07-16 06:09:15)
+
+---
+
+## ASML shares tumble as US tariff turmoil rattles investors
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>AI boom can&#39;t mask trade gloom, says Dutch lithography giant</h4> <p><strong>World War Fee</strong>  Shares in ASML fell by more than 8 percent after it warned that tariff uncertainty over future trade was increasing and net sales were down on the previous quarter.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/asml_forecast/>
+
+---
+
+## NASA Funds Early Career Employee Research
+
+date: 2025-07-16, from: NASA breaking news
+
+Sylvie Crowell, a materials researcher at NASA’s Glenn Research Center in Cleveland, has received a NASA Early Career Initiative (ECI) award for a research proposal titled “Lunar Dust Reduction through Electrostatic Adhesion Mitigation (L-DREAM).” The research focuses on developing a passive lunar dust mitigation coating for solar cells and thermal control surfaces.&#160; Operated under the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-funds-early-career-employee-research/>
+
+---
+
+## NASA Glenn Experts Join Baseball Fans in Omaha
+
+date: 2025-07-16, from: NASA breaking news
+
+Thousands of baseball fans travel across the country annually to watch teams compete in Omaha, Nebraska, during the NCAA Men’s College World Series in June. This year, NASA’s Glenn Research Center in Cleveland swung for the fences to celebrate the city’s Diamond Anniversary of hosting the event and to highlight the intersections of sports and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-experts-join-baseball-fans-in-omaha/>
+
+---
+
+## NASA Glenn Announces 2025 Drop Tower Challenge Winners
+
+date: 2025-07-16, from: NASA breaking news
+
+Nineteen teams of students from across the nation in grades 8-12 worked for months in classrooms, labs, basements, and garages for the opportunity to test their projects at NASA’s Glenn Research Center in Cleveland. This spring, the teams’ hard work was put to the test in the 2.2 Second Drop Tower facility at NASA Glenn.&#160;&#160; [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-announces-2025-drop-tower-challenge-winners/>
+
+---
+
+## Retailer Co-op: Attackers snatched all 6.5M member records
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>Supermarket announces white hat education scheme as four suspects released on bail</h4> <p>Co-op Group&#39;s chief executive officer has confirmed that all 6.5 million of the organization&#39;s members had their data stolen during its April cyberattack - Scattered Spider is believed to be behind the digital heist.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/coop_data_stolen/>
+
+---
+
+## Turbulence at Air Serbia, the latest airline under cyber siege
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>Attack enters day 11 and still no public disclosure of what insider claims to be &#39;deep breach&#39; of Active Directory</h4> <p><strong>Exclusive</strong>  Aviation insiders say Serbia&#39;s national airline, Air Serbia, was forced to delay issuing payslips to staff as a result of a cyberattack it is battling.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/air_serbia_cyberattack/>
+
+---
+
+## UK tech minister negotiated nothing with Google. He may get even less than that
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>Peter Kyle promised alternative to &#39;ball and chain&#39; of legacy systems, but he has no plan and little power</h4> <p><strong>Comment</strong>  Last week, UK minister for science, innovation and technology Peter Kyle spoke at Google Cloud Summit in London to tell the audience: &#34;Now, sometimes I&#39;m accused of being &#39;too close to big tech&#39;,&#34; with the Chocolate Factory&#39;s multi-colored logo looming behind him.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/uk_gov_google_comment/>
+
+---
+
+## Security shop Adarma ceases trading, confirms it will enter administration
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>Former staffers of struggling UK biz say they don’t expect to be paid for July</h4> <p>UK cybersecurity shop Adarma has confirmed it has entered administration.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/adarma_will_enter_administration/>
+
+---
+
+## If you want a picture of the future, imagine humans checking AI didn't make a mistake – forever
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>CEOs will chase illusory profits as workers are left to pick defective items from an agentic production line</h4> <p><strong>Column</strong>  Agentic AI will make jobs – but many will involve picking its failures off automated conveyor belts.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/if_you_want_a_picture/>
+
+---
+
+## Curiosity Blog, Sols 4600-4601: Up and Over the Sand Covered Ramp
+
+date: 2025-07-16, from: NASA breaking news
+
+Written by Sharon Wilson Purdy, Planetary Geologist at the Smithsonian National Air and Space Museum Earth planning date: Monday, July 14, 2025 The Curiosity rover continues to navigate through the region of Mount Sharp characterized by the boxwork terrain.  After successfully completing a drive of about 34 meters over the weekend (about 112 feet), the […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4600-4601-up-and-over-the-sand-covered-ramp/>
+
+---
+
+## Curiosity Blog, Sols 4597-4599: Wide Open Spaces
+
+date: 2025-07-16, from: NASA breaking news
+
+Written by Michelle Minitti, MAHLI Deputy Principal Investigator, Framework Earth planning date: Friday, July 11, 2025 Imagine this vista as the view out your office window to start your workday. Your natural tendency would be to grab your camera and photograph as much of the view as possible. Curiosity was lucky enough to find herself […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4597-4599-wide-open-spaces/>
+
+---
+
+## VMware reboots its partner program again – and it looks like smaller players are out
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>Second major change in 18 months will be most unwelcome for many - as will critical flaws announced today</h4> <p><strong>Exclusive</strong>  VMware has advised partners its current channel program will end, and it seems that smaller players won’t be invited back.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/vmware_reboots_partner_program_again/>
+
+---
+
+## Starlink says SpaceX targeting 2026 for launch of Starship-ready terabit satellites
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>Network update reports median 25 ms latency – in the US – as capacity rockets upwards</h4> <p>Elon Musk’s space broadband service Starlink has hinted that Elon Musk’s Starship will be ready for commercial flights in 2026.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/starlink_network_update/>
+
+---
+
+## Uber to roll out thousands of robo-cabs built by China’s Baidu
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>Coming soon, somewhere in the Middle East or Asia</h4> <p>Rideshare OG Uber has announced a plan to roll out “thousands” of robo-taxis from Chinese tech giant Baidu.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/uber_baidu_robo_taxi_alliance/>
+
+---
+
+## AMD cleared to join Nvidia and resume selling some underpowered AI chips to China
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>Waiting for license approval but plans to resume shipments of the MI308 accelerator soon-ish</h4> <p>The US government has cleared AMD to resume exporting some accelerators to China.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/amd_china_chips/>
+
+---
+
+## Curl creator mulls nixing bug bounty awards to stop AI slop
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>Maintainers struggle to handle growing flow of low-quality bug reports written by bots</h4> <p>Daniel Stenberg, founder and lead developer of the open-source curl command line utility, just wants the AI slop to stop.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/curl_creator_mulls_nixing_bug/>
+
+---
+
+## Ex-US soldier who Googled 'can hacking be treason' pleads guilty to extortion
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>File this one under what not to search if you&#39;ve committed a crime</h4> <p>A former US Army soldier, who reportedly hacked AT&amp;T, bragged about accessing President Donald Trump&#39;s call logs, and then Googled &#34;can hacking be treason,&#34; and &#34;US military personnel defecting to Russia,&#34; pleaded guilty to conspiring to break into telecom firms&#39; databases and extort at least $1 million.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/solider_hacking_guilty/>
+
+---
+
+## German team warns ChatGPT is changing how you talk
+
+date: 2025-07-15, updated: 2025-07-15, from: The Register (UK I.T. News)
+
+<h4>Let us delve swiftly into meticulous inquiry with our AI masters</h4> <p>Like it or not, ChatGPT and other large language models are changing the world, including affecting how we speak, claims a group of researchers, and the end results could be an erosion of linguistic and cultural diversity.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/15/chatgpt_changes_language/>
 
 ---
 
@@ -18,6 +234,18 @@ NASA has selected seven companies to assist the agency with architectural and en
 <br> 
 
 <https://www.nasa.gov/news-release/nasa-selects-companies-for-architect-engineer-services-contract/>
+
+---
+
+## NASA SCoPE Summer Symposium Celebrates Early Career Scientists and Cross-Team Collaboration
+
+date: 2025-07-15, from: NASA breaking news
+
+From June 16–18, 2025, the NASA Science Mission Directorate Community of Practice for Education (SCoPE) Summer Symposium brought together a community of scientists, educators, and outreach professionals to celebrate and strengthen NASA’s commitment to developing its workforce and broadening participation in science. NASA SCoPE is a NASA-funded initiative at Arizona State University that connects early […] 
+
+<br> 
+
+<https://science.nasa.gov/directorates/smd/nasa-scope-summer-symposium-celebrates-early-career-scientists-and-cross-team-collaboration/>
 
 ---
 
@@ -467,7 +695,7 @@ On Windows, there&#8217;s an option to show the seconds on the taskbar clock, bu
 
 ## A software-defined radio can derail a US train by slamming the brakes on remotely
 
-date: 2025-07-14, updated: 2025-07-15, from: The Register (UK I.T. News)
+date: 2025-07-14, updated: 2025-07-16, from: The Register (UK I.T. News)
 
 <h4>Neil Smith has been trying to get the railroad industry to listen since 2012, but it took a CISA warning to get there</h4> <p><strong>Updated</strong>  When independent security researcher Neil Smith reported a vulnerability in a comms standard used by trains to the US government in 2012, he most likely didn&#39;t expect it would take until 2025 to sort the matter out, but here we are. …</p> 
 
@@ -671,7 +899,7 @@ date: 2025-07-14, updated: 2025-07-14, from: The Register (UK I.T. News)
 
 ## Google’s Gemini refuses to play Chess against the mighty Atari 2600 after realizing it can't match ancient console
 
-date: 2025-07-14, updated: 2025-07-14, from: The Register (UK I.T. News)
+date: 2025-07-14, updated: 2025-07-16, from: The Register (UK I.T. News)
 
 <h4>Warned that ChatGPT and Copilot had already lost, it stopped boasting and packed up its pawns</h4> <p>Google’s Gemini chatbot declined to play Chess against the Atari 2600, after learning the vintage gaming console had already vanquished other AIs.…</p> 
 

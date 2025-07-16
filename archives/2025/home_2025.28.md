@@ -1,11 +1,39 @@
 ---
 title: home
-updated: 2025-07-15 14:07:44
+updated: 2025-07-16 06:09:20
 ---
 
 # home
 
-(date: 2025-07-15 14:07:44)
+(date: 2025-07-16 06:09:20)
+
+---
+
+## Heat Pump Thermostat Wiring Made Simple
+
+date: 2025-07-15, from: Family Handyman Blog
+
+<p>Heat pump thermostat wiring is a totally doable DIY task. What are you waiting for?</p>
+<p>The post <a href="https://www.familyhandyman.com/project/wire-a-heat-pump-thermostat/">Heat Pump Thermostat Wiring Made Simple</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/wire-a-heat-pump-thermostat/>
+
+---
+
+## 15 Frank Lloyd Wright Homes That Shaped Modern Architecture
+
+date: 2025-07-15, from: Family Handyman Blog
+
+<p>We've put together a primer on some of the most notable Frank Lloyd Wright-designed homes so that you can appreciate the beauty of his work.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/frank-lloyd-wright-homes/">15 Frank Lloyd Wright Homes That Shaped Modern Architecture</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/frank-lloyd-wright-homes/>
 
 ---
 
@@ -20,6 +48,66 @@ date: 2025-07-15, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/why-some-cars-have-a-small-seatbelt-in-the-middle-of-the-back-seat/>
+
+---
+
+## The Best Cocktails and Spirits in the West Right Now—Read Our 2025 Spirits Issue
+
+date: 2025-07-15, from: Sunset Magazine - Living in the West
+
+The 2025 Spirits Issue celebrates the best cocktails across the West and honors the winners of the Sunset International Spirits Competition. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/2025-spirits-issue>
+
+---
+
+## Gold Winners of the 2025 Sunset International Spirits Competition
+
+date: 2025-07-15, from: Sunset Magazine - Living in the West
+
+The judges have decided. These are the Gold winners of the 2025 Sunset International Spirits Competition. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/sunset-international-spirits-competition-2025-gold-winners>
+
+---
+
+## Double Gold Winners of the 2025 Sunset International Spirits Competition
+
+date: 2025-07-15, from: Sunset Magazine - Living in the West
+
+Cheers to the Double Gold winners of the 2025 Sunset International Spirits Competition. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/sunset-international-spirits-competition-2025-double-gold-winners>
+
+---
+
+## These Are the Winners of the 2025 Sunset International Spirits Competition
+
+date: 2025-07-15, from: Sunset Magazine - Living in the West
+
+Congratulations to this year’s winners of the 2025 Sunset International Spirits Competition. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/sunset-international-spirits-competition-2025-winners>
+
+---
+
+## This Is Why Sandwiches Taste Better at the Beach, According to Science
+
+date: 2025-07-15, from: Sunset Magazine - Living in the West
+
+Sandwiches and chips are a classic beach combo, and there's actually science as to why. Here's what combos to try. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/beach-sandwiches-taste-good>
 
 ---
 

@@ -1,11 +1,93 @@
 ---
 title: food
-updated: 2025-07-15 14:07:46
+updated: 2025-07-16 06:09:23
 ---
 
 # food
 
-(date: 2025-07-15 14:07:46)
+(date: 2025-07-16 06:09:23)
+
+---
+
+## Gabriel Ornelas On Building Community
+
+date: 2025-07-16, from: Bon Appetet
+
+Jamila sits down with Gabriel Ornelas, founder and host of On the Pass, to talk about how they approach the big questions in food, and to introduce their new series Effects of Change. 
+
+<br> 
+
+<https://www.bonappetit.com/story/gabriel-ornelas-on-building-community>
+
+---
+
+## What The New York Times Gets Wrong About Coffee Prices In Italy
+
+date: 2025-07-16, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Maybe espresso shouldn't cost €1? 
+
+<br> 
+
+<https://sprudge.com/what-the-new-york-times-gets-wrong-about-coffee-prices-in-italy-378920.html>
+
+---
+
+## Guyanese Pepperpot (Rich & Spicy Caribbean Stew)
+
+date: 2025-07-16, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/pepperpot/" title="Guyanese Pepperpot (Rich &amp; Spicy Caribbean Stew)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Chunky Pepperpot in a large pot, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This bold Caribbean stew is rich with tradition and deep flavor, made with slow-braised meat, warm spices, fiery chili, and cassareep. It’s especially popular during the holidays, but it’s so good, you’ll want it all year long.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/pepperpot/">Guyanese Pepperpot (Rich &amp; Spicy Caribbean Stew)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/pepperpot/>
+
+---
+
+## How Verve Coffee Took Over the Capital One Café With Harris Nash
+
+date: 2025-07-16, from: The Fresh Cup
+
+<p>In the latest episode of the Coffee Think Tank podcast, Harris Nash shares how Verve Coffee transformed 50+ Capital One Café locations, trained 600 baristas—and proved specialty can thrive in banks and malls.</p>
+<p>The post <a href="https://freshcup.com/how-verve-coffee-took-over-the-capital-one-cafe-with-harris-nash/">How Verve Coffee Took Over the Capital One Café With Harris Nash</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/how-verve-coffee-took-over-the-capital-one-cafe-with-harris-nash/>
+
+---
+
+## Honduran Company Buys Top Cup of Excellence Coffees, Keeps Winning Coffees in Country
+
+date: 2025-07-16, from: The Fresh Cup
+
+<p>Spirit Animal Coffee bought the winning lots at the Honduras Cup of Excellence auction—the first time that a company based in the hosting country has won the winning lot. </p>
+<p>The post <a href="https://freshcup.com/honduran-company-buys-top-cup-of-excellence-coffees-a-world-first/">Honduran Company Buys Top Cup of Excellence Coffees, Keeps Winning Coffees in Country</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/honduran-company-buys-top-cup-of-excellence-coffees-a-world-first/>
+
+---
+
+## Taco Pasta Salad
+
+date: 2025-07-16, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/taco-pasta-salad/"><img title="taco-pasta-salad-small-5" src="https://www.isabeleats.com/wp-content/uploads/2025/07/taco-pasta-salad-small-5-400x600.jpg" alt="A taco pasta salad in a bowl ready to be served." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Taco pasta salad with ground beef, cheese, veggies, and a creamy salsa dressing. Easy to make and perfect for potlucks&#8230; 
+
+<br> 
+
+<https://www.isabeleats.com/taco-pasta-salad/>
 
 ---
 
@@ -321,7 +403,7 @@ Need a showstopper dessert that doesn't require baking the day away? This banoff
 
 date: 2025-07-14, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/cooking-with-chili-peppers/baharat/" title="Baharat Spice Blend Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Baharat-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mixing Baharat Spice Blend ingredients on a plate" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Baharat-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Baharat-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Baharat-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Baharat-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Baharat-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Baharat-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Baharat-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Learn how to make a traditional baharat spice blend with bold, aromatic Middle Eastern flavors. Perfect for seasoning meats, stews, rice dishes, and more.</p>
+<a href="https://www.chilipeppermadness.com/cooking-with-chili-peppers/baharat/" title="Baharat Spice Blend Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Baharat-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mixing Baharat Spice Blend ingredients on a plate" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Baharat-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Baharat-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Baharat-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Baharat-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Baharat-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Baharat-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Baharat-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Learn how to make a traditional baharat spice blend with bold, aromatic Middle Eastern flavors. Perfect for seasoning meats, stews, rice dishes, and more.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/cooking-with-chili-peppers/baharat/">Baharat Spice Blend Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

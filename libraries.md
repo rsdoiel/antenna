@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-07-15 14:07:44
+updated: 2025-07-16 06:09:19
 ---
 
 # libraries
 
-(date: 2025-07-15 14:07:44)
+(date: 2025-07-16 06:09:19)
+
+---
+
+## Better Together: ORCID and Other Researcher Identifiers
+
+date: 2025-07-16, from: Scholarly Kitchen
+
+<p>This post is based on a recently-published white paper by Alice Meadows and Josh Brown of MoreBrains Cooperative, in which they discuss why ORCID iDs work best in combination with other researcher identifiers -- it's ORCID and, not ORCID or...</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/07/16/better-together-orcid-and-other-researcher-identifiers/">Better Together: ORCID and Other Researcher Identifiers</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/07/16/better-together-orcid-and-other-researcher-identifiers/>
 
 ---
 

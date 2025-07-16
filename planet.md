@@ -1,15 +1,496 @@
 ---
 title: planet
-updated: 2025-07-15 14:07:39
+updated: 2025-07-16 06:09:12
 ---
 
 # planet
 
-(date: 2025-07-15 14:07:39)
+(date: 2025-07-16 06:09:12)
 
 ---
 
-## ISIF diviested all Israeli bonds in past weeks, Dáil told
+## What do proposed CAP changes mean for Irish farmers?
+
+date: 2025-07-16, from: RTÉ News
+
+EU financial supports for farmers could be radically overhauled under a draft proposal from the European Commission. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0716/1523797-cap-explainer/>
+
+---
+
+## Sudan: 35 children killed in recent attacks in North Kordofan
+
+date: 2025-07-16, from: Vatican News
+
+
+                    <p>More than 450 civilians, including 35 children and two pregnant women, were killed in attacks on communities near Bara in Sudan’s North Kordofan State over the weekend. Dozens have been injured and many are still missing. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/sudan-unicef-attack-north-kordofan-children-killed.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/sudan-unicef-attack-north-kordofan-children-killed.html>
+
+---
+
+## Tanzanian Bishops launch 5-year-strategic plan for Catholic laity
+
+date: 2025-07-16, from: Vatican News
+
+
+                    <p>The Bishops of Tanzania have released a five-year strategic plan for the country’s Catholic Laity Council, and express their appreciation for the involvement of lay people in the life of the Church.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/tanzania-bishops-catholic-laity-council-five-year-plan.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/tanzania-bishops-catholic-laity-council-five-year-plan.html>
+
+---
+
+## Israel strikes near Syrian army HQ in Damascus
+
+date: 2025-07-16, from: RTÉ News
+
+An Israeli strike hit near the Syrian army and defence ministry headquarters in Damascus, the state-run Alekhbariya channel reported on Telegram, after Israel's military said it had struck there. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0716/1523822-syria-middle-east/>
+
+---
+
+## Venezuelan Bishops: Church called to build up the nation
+
+date: 2025-07-16, from: Vatican News
+
+
+                    <p>The Bishops of Venezuela release a pastoral letter following their plenary assembly, and urge civil authorities to protect and respect citizens’ fundamental rights.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/venezuela-bishops-church-plenary-assembly-pastoral-letter.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/venezuela-bishops-church-plenary-assembly-pastoral-letter.html>
+
+---
+
+## Family syndicate collect €250m EuroMillions jackpot
+
+date: 2025-07-16, from: RTÉ News
+
+The winners of the €250m EuroMillions jackpot have collected their winnings and described the win as "surreal". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0716/1523818-euromillions-winners/>
+
+---
+
+## Opposition says Govt funding 'Israel's genocide in Gaza'
+
+date: 2025-07-16, from: RTÉ News
+
+TDs have clashed over opposition claims the Government is funding "Israel's genocide in Gaza", after it emerged the State's investment body only divested itself of millions of euro in Israeli bonds in recent weeks. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0716/1523815-opposition-israel/>
+
+---
+
+## Head of UN bureau 'reassigned' after complaints, WRC told
+
+date: 2025-07-16, from: RTÉ News
+
+The former head of the United Nations' migrant assistance bureau in Dublin was "reassigned because of her behaviour in Ireland" after over a dozen staff complaints and resignations, a tribunal has been told. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0716/1523814-un-wrc-case/>
+
+---
+
+## No school place for 260 children with additional needs
+
+date: 2025-07-16, from: RTÉ News
+
+Around 260 children with additional needs do not have an offer of a school place for September, the Dáil has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0716/1523813-ireland-education/>
+
+---
+
+## US official calls on Ireland to 'sober up' over OTB
+
+date: 2025-07-16, from: RTÉ News
+
+The US Ambassador to Israel has criticised the Occupied Territories Bill, calling on Ireland to "sober up". 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0716/1523806-mike-huckabee-occupied-palestinian-territories-bill/>
+
+---
+
+## Pope Leo XIV sends food to families in Ukraine's Kharkiv
+
+date: 2025-07-16, from: Vatican News
+
+
+                    <p>Donations from Pope Leo XIV, sent through the Dicastery for the Service of Charity, have been delivered to the residents of the bomb-stricken Ukrainian town of Staryi Saltiv and city of Shevchenkove.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-charity-ukraine-kharkiv-food-delivered-families-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-charity-ukraine-kharkiv-food-delivered-families-war.html>
+
+---
+
+## Cork director 'floored' by top prize at Galway Fleadh
+
+date: 2025-07-16, from: RTÉ News
+
+Brendan Canty, the director of the acclaimed new Irish film Christy, has told RTÉ Entertainment he is "floored" by the response to the coming-of-age drama and its Best Irish Film win at the Galway Film Fleadh last weekend. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0716/1523771-cork-director-floored-by-top-prize-at-galway-fleadh/>
+
+---
+
+## Call for postal vote charges to be waived by Government
+
+date: 2025-07-16, from: RTÉ News
+
+The Chief Executive of An Coimisiún Toghcháin has urged the Government to waive charges for applying for a postal vote "as a matter of priority". 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0716/1523790-committee-disability-matters-art-oleary/>
+
+---
+
+## Former Clare hurler pleads not guilty to assaulting boy
+
+date: 2025-07-16, from: RTÉ News
+
+A former All-Ireland winning hurler has gone on trial charged with assaulting a 12-year-old boy in Co Clare in 2023. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0716/1523791-niall-gilligan-court/>
+
+---
+
+## Drug dealer at 'top tier' of Dublin network jailed
+
+date: 2025-07-16, from: RTÉ News
+
+A 52-year-old man caught with over €9 million worth of drugs and over €1 million in cash has been sentenced to 15 years in prison. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0716/1523731-andrew-pender-court/>
+
+---
+
+## Russia fires hundreds of drones at Ukraine, defying Trump
+
+date: 2025-07-16, from: RTÉ News
+
+Russia fired hundreds of drones, artillery and a ballistic missile at Ukraine between late yesterday and early today, Ukraine said, defying calls by US President Donald Trump to reach a peace deal. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0716/1523781-russia-ukraine/>
+
+---
+
+## Attackers demand ransom for kidnapped Nigerian seminarians
+
+date: 2025-07-16, from: Vatican News
+
+
+                    <p>Armed criminals who attacked a seminary in Nigeria have contacted the Diocese of Auchi to demand ransom for three seminarians kidnapped during the raid. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/attackers-demand-ransom-for-kidnapped-nigerian-seminarians.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/attackers-demand-ransom-for-kidnapped-nigerian-seminarians.html>
+
+---
+
+## Property prices pick up pace again in May - CSO
+
+date: 2025-07-16, from: RTÉ News
+
+Irish residential property prices increased by 7.9% in the 12 months to May, marginally higher than the 7.6% rise in year up to April, according to latest figures from the Central Statistics Office. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0716/1523776-cso-residential-property-prices/>
+
+---
+
+## Trump says 'credible' Epstein files should be released
+
+date: 2025-07-16, from: RTÉ News
+
+US President Donald Trump has said the Justice Department should release all "credible" information from its probe into convicted pedophile Jeffrey Epstein as he sought to placate criticism from his supporters over his handling of the case. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0716/1523772-trump-epstein-files/>
+
+---
+
+## From the Vatican Observatory Faith and Science pages (Younger Readers) — Scientists of Faith: 28 Stories of Brilliant Scientists with Remarkable Faith in God
+
+date: 2025-07-16, from: Vatican Obervatory
+
+From the Faith &#038; Science Resource Center (Younger Readers): This colorful book features 28 scientists, especially recent ones, who all share a faith in God. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/from-the-vatican-observatory-faith-and-science-pages-younger-readers-scientists-of-faith-28-stories-of-brilliant-scientists-with-remarkable-faith-in-god/>
+
+---
+
+## Minister rejects GAA Palestine visa denials criticism
+
+date: 2025-07-16, from: RTÉ News
+
+Minister for Justice Jim O'Callaghan has rejected criticism from representatives of GAA Palestine over his department's handling of visa applications. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0716/1523766-gaa-palestine-visa/>
+
+---
+
+## Incomplete maternity patient safety reports 'sloppy': IPA
+
+date: 2025-07-16, from: RTÉ News
+
+A review of monthly patient safety reports from the country's 19 public maternity units, has uncovered some significant gaps in the reporting of key information by hospitals. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0716/1523759-maternity-hospital-review/>
+
+---
+
+## Minister says he was not behind leak branded 'garbage'
+
+date: 2025-07-16, from: RTÉ News
+
+The Minister for Communications has said he is not responsible for a leak which claims that An Post is on the brink of financial collapse, which has been branded as "utter garbage" by the organisation's CEO. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0716/1523757-an-post-finances/>
+
+---
+
+## Gaza Humanitarian Foundation says 20 dead at aid point
+
+date: 2025-07-16, from: RTÉ News
+
+The Gaza Humanitarian Foundation has said 20 people died at an aid point in Khan Younis, in the south of the Palestinian territory, blaming armed "agitators" in the crowd. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0716/1523752-israel-gaza/>
+
+---
+
+## Govt intends to throw 'families under the bus' - McDonald
+
+date: 2025-07-16, from: RTÉ News
+
+Runaway prices are worrying households as the Government refuses to include a cost-of-living package in the next Budget, the Sinn Féin Leader has said. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0716/1523748-budget-measures-government/>
+
+---
+
+## Connolly confirms intention to run for presidency
+
+date: 2025-07-16, from: RTÉ News
+
+Independent TD Catherine Connolly has declared her intention to run in the presidential election. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0716/1523749-presidential-election/>
+
+---
+
+## 'Strong argument' for video in cockpits, says IATA chief
+
+date: 2025-07-16, from: RTÉ News
+
+There is a "strong argument" for putting video cameras in airline cockpits to assist in accident investigations, the head of global aviation industry group IATA has said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0716/1523746-airlines-video-cameras/>
+
+---
+
+## Deferral of alcohol health labels 'very disappointing'
+
+date: 2025-07-16, from: RTÉ News
+
+The deferral of plans to require health labelling on alcoholic drinks is very disappointing, the chairperson of Alcohol Action Ireland has said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0716/1523736-alcohol-health-labels/>
+
+---
+
+## Holy See: Policies must support families, motherhood, equality
+
+date: 2025-07-16, from: Vatican News
+
+
+                    <p>The Holy See’s Permanent Observer to the United Nations, Archbishop Gabriele Caccia, calls for nations to implement policies that support and protect families, motherhood, and maternity, along with the promotion of equality between women and men.
+</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/archbishop-caccia-addresses-un-on-sdg-3-and-5.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/archbishop-caccia-addresses-un-on-sdg-3-and-5.html>
+
+---
+
+## At least 19 killed in stampede at Gaza food distribution site
+
+date: 2025-07-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7586103.1752659438!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-khan-younis-gaza.JPG' alt='Two women in religious headcovering have anguished looks on their faces in a closeup photo.' width='620' height='349' title='People mourn Palestinians who were killed in an incident on Wednesday while seeking aid in Khan Younis, at Nasser hospital in Khan Younis in the southern Gaza Strip July 16, 2025. REUTERS/Hatem Khaled      '/><p>At least 20 Palestinians were killed on Wednesday at an aid distribution site run by the Gaza Humanitarian Foundation (GHF), in what the U.S.-backed group said was a crowd surge instigated by armed agitators.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/mideast-gaza-ghf-site-deaths-1.7586101?cmp=rss>
+
+---
+
+## Man convicted of revenge killing executed in Florida
+
+date: 2025-07-16, from: RTÉ News
+
+A 54-year-old man convicted of a 1993 revenge killing has been put to death in Florida, in the 26th execution in the United States this year, the most in a decade. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0716/1523721-michael-bell-us/>
+
+---
+
+## Iceland volcano erupts for 12th time since 2021
+
+date: 2025-07-16, from: RTÉ News
+
+A volcano erupted in southwest Iceland, the country's meteorological office said, marking the latest in a series of outbreaks near the capital in recent years. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0716/1523718-iceland-volcano-eruption/>
+
+---
+
+## Trump wants to take over some U.S. cities. It's unlikely — but he can make life hard for them
+
+date: 2025-07-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7584519.1752606165!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump.JPG' alt='A man wearing a blue suit and a red tie points his finger.' width='620' height='349' title='U.S. President Donald Trump speaks to the press as he arrives at the White House in Washington, D.C., on July 13, 2025.'/><p>U.S. President Donald Trump is in a battle with American cities — and in the last few weeks, he's implied that he would use the powers of the presidency to order a federal takeover of New York City and Washington, D.C. Does he have the power to?</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-federal-takeover-new-york-washington-dc-1.7584505?cmp=rss>
+
+---
+
+## US military to remove 2,000 National Guard troops from LA
+
+date: 2025-07-16, from: RTÉ News
+
+US Defense Secretary Pete Hegseth has ordered the removal of half of the 4,000 National Guard troops who had been sent to Los Angeles to protect federal property and personnel during a spate of protests last month, the Pentagon said. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0716/1523716-us-military-los-angeles/>
+
+---
+
+## Pointed and combative language as OTB before committee
+
+date: 2025-07-16, from: RTÉ News
+
+Delegates from the Ireland Israel Alliance were before the Oireachtas Committee on Foreign Affairs and Trade, along with representatives of Ireland's Jewish community to explain their stance on the Occupied Territories Bill. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0716/1523714-occupied-territories-bill/>
+
+---
+
+## Harris to hold talks with US-based pharma representatives
+
+date: 2025-07-16, from: RTÉ News
+
+Tánaiste and Minister for Foreign Affairs and Trade Simon Harris will hold an online meeting with senior representatives from the pharmaceutical sector based in the United States today. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0716/1523715-tariffs-ireland/>
+
+---
+
+## CAP draft proposal 'very concerning', says IFA
+
+date: 2025-07-15, from: RTÉ News
+
+The Irish Farmers' Association has described draft proposals to change Common Agricultural Policy funding as "very concerning". 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0716/1523711-cap-funding-european-commission/>
+
+---
+
+## Epstein files may be released after Trump reversal following MAGA outrage
+
+date: 2025-07-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/f9a027fe-f1dd-42c1-bf65-f0583b710dda,1752619168747/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A man in a suit speaks while standing outdoors.' width='620' height='349' title='US President Donald Trump speaks with members of the media before boarding Marine One on the South Lawn of the White House, on July 15, 2025, in Washington. Trump is traveling to Pittsburgh to speak at a summit focused on artificial intelligence and energy investment.'/><p>New information about the Jeffrey Epstein case may soon be made public after a reversal from U.S. President Donald Trump and weeks of criticism — the loudest of which has come from within the MAGA movement. </p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6833025?cmp=rss>
+
+---
+
+## ISIF divested all Israeli bonds in past weeks, Dáil told
 
 date: 2025-07-15, from: RTÉ News
 
@@ -18,6 +499,18 @@ The Ireland Strategic Investment Fund has divested itself of all Israeli bonds i
 <br> 
 
 <https://www.rte.ie/news/politics/2025/0715/1523703-israeli-bonds/>
+
+---
+
+## Historic swing-off and robot umpires: How the 2025 MLB All-Star Game played out in Atlanta
+
+date: 2025-07-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7586095.1752644342!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-all-star-baseball.jpg' alt='A man on one knee lifts a bat in the air.' width='620' height='349' title='Philadelphia Phillies Kyle Schwarber celebrates after winning the tiebreaker at the MLB baseball All-Star game between the American League and National League, Tuesday, July 15, 2025, in Atlanta. '/><p>Kyle Schwarber went three for three in the first All-Star Game home run swing-off as the National League (NL) won the game on a tiebreaker following a 6-6 tie, in which the American League (AL) rallied from a six-run deficit on Tuesday night.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/2025-baseball-all-star-game-1.7585983?cmp=rss>
 
 ---
 
@@ -113,6 +606,18 @@ A coroner has rejected calls to refer the circumstances of the death of an elder
 
 ---
 
+## Coroner rejects calls to refer death of farmer to gardaí
+
+date: 2025-07-15, from: RTÉ News
+
+A coroner has rejected calls to refer the circumstances of the death of a 75-year-old Offaly farmer on the day after he got married to gardaí for a detailed forensic investigation. 
+
+<br> 
+
+<https://www.rte.ie/news/leinster/2025/0715/1523694-joe-grogan-inquest/>
+
+---
+
 ## How has Russia responded to Trump's 50-day ultimatum?
 
 date: 2025-07-15, from: RTÉ News
@@ -146,6 +651,18 @@ The Government is set to defer plans to require health labelling on alcoholic dr
 <br> 
 
 <https://www.rte.ie/news/2025/0715/1523683-labelling-alcohol/>
+
+---
+
+## Native Women's Association of Canada sells off assets, promises transparency
+
+date: 2025-07-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7585771.1752610696!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nwac.jpg' alt='A large commercial building is seen from the street.' width='620' height='349' title='NWAC&apos;s headquarters in Hull, Que., is for sale for the asking price of $8 million. '/><p>The Native Women’s Association of Canada says its current management has "discovered serious and significant financial irregularities" that its board was unaware of, as it shutters businesses and sells off property worth millions of dollars.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/nwac-sells-gatineau-headquarters-1.7585761?cmp=rss>
 
 ---
 
@@ -362,7 +879,7 @@ A number of political parties have expressed having an open mind on agreeing Cat
 
 date: 2025-07-15, from: RTÉ News
 
-Former EU Commissioner Mairead McGuinness will be Fine Gael's candidate for the presidential election, while Independent TD Catherine Connolly is expected to launch her own campaign for the Presidency tomorrow. 
+Former EU Commissioner Mairead McGuinness will be Fine Gael's candidate for the presidential election, while Independent TD Catherine Connolly is expected to launch her own campaign for the Presidency. 
 
 <br> 
 
@@ -455,6 +972,18 @@ Nearly 900 desperate and hungry Gazans have been killed in recent weeks trying t
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/07/1165396>
+
+---
+
+## First Person: How many more children must die before the world acts?
+
+date: 2025-07-15, from: United Nations, Top Stories
+
+The ongoing 21-month-long war in Gaza has seen more than 58,000 killed and 100,000 wounded as Israeli attacks continue amid rising numbers of child deaths from malnutrition. In recent weeks, UN agencies have recorded nearly 900 deaths of desperate and hungry Gazans as they try to collect food – with most linked to private aid hubs run by the so-called Gaza Humanitarian Foundation (GHF). 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165403>
 
 ---
 
@@ -551,6 +1080,18 @@ The European Commission is targeting €72 billion worth of US goods - from Boei
 <br> 
 
 <https://www.rte.ie/news/world/2025/0715/1523598-eu-us-trade/>
+
+---
+
+## Men who cut down Britain's famed Sycamore Gap tree sentenced to more than 4 years in prison
+
+date: 2025-07-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.6981797.1752590420!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1694884091.jpg' alt='People sit around a tree between two hills.' width='620' height='349' title='A picture taken on June 4, 2023 shows the Sycamore Gap tree along Hadrian&apos;s Wall.'/><p>Two British men who felled the beloved Sycamore Gap tree that had stood nearly 150 years were sentenced Tuesday to four years and three months in prison, minus time served.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/uk-sentencing-sycamore-gap-1.7585166?cmp=rss>
 
 ---
 
@@ -838,7 +1379,7 @@ Irish stars Colin Farrell, Lola Petticrew, and Nicola Coughlan have been tipped 
 
 date: 2025-07-15, from: RTÉ News
 
-The Oireachtas Foreign Affairs Committee has heard stinging criticism of the Occupied Territories Bill from former minister for justice Alan Shatter, who likened it to legislation passed in Germany in the 1930s. 
+The Oireachtas Committee on Foreign Affairs has heard stinging criticism of the Occupied Territories Bill from former minister for justice Alan Shatter, who likened it to legislation passed in Germany in the 1930s. 
 
 <br> 
 
@@ -879,6 +1420,18 @@ A group of nine curlew, a bird species that has seen most of its population lost
 <br> 
 
 <https://www.rte.ie/news/environment/2025/0715/1523534-curlew-midlands-release/>
+
+---
+
+## Carcross/Tagish First Nation hosts Yukon handgames championship for first time
+
+date: 2025-07-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7585052.1752535777!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/handgames-tournament-yukon.jpg' alt='A lively group of handgames players.' width='620' height='349' title='Handgames is a Dene tradition that consists of two six-player teams facing each other, with one team hiding a token and the &apos;shooting team&apos; guessing which player has it.'/><p>Drummers, spectators and handgames players crowded around three mats in a packed Haa Shagóon Hídi Hall in Carcross this weekend, as hundreds of competitors played in the 37th Yukon Annual Handgames Championship.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/handgames-carcross-tagish-first-nation-championship-1.7585033?cmp=rss>
 
 ---
 
@@ -1326,7 +1879,7 @@ Global life expectancy increased by an astonishing five years between 2000 and 2
 
 date: 2025-07-14, from: United Nations, Top Stories
 
-Amid runaway gang violence and crumbling state authority, the Security Council on Monday unanimously extended the mandate of the UN’s political mission in Haiti until the end of the year, amid escalating gang violence, political paralysis and a deepening humanitarian crisis threatening the country’s collapse. 
+Amid runaway gang violence and crumbling state authority, the Security Council on Monday unanimously extended the mandate of the UN’s political mission in Haiti until the end of the year. Aid agencies remain deeply concerned by the humanitarian crisis playing out across the Caribbean island nation. 
 
 <br> 
 

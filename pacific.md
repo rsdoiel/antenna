@@ -1,11 +1,448 @@
 ---
 title: pacific
-updated: 2025-07-15 14:07:41
+updated: 2025-07-16 06:09:14
 ---
 
 # pacific
 
-(date: 2025-07-15 14:07:41)
+(date: 2025-07-16 06:09:14)
+
+---
+
+## Federal workers’ ‘emotional roller-coaster’: fired, rehired, fired again
+
+date: 2025-07-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Getting fired once was painful. Getting rehired and then fired a second time was excruciating. But federal workers are learning that waiting for the government to make it official may be worst of all.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/16/nation-world-news/federal-workers-emotional-roller-coaster-fired-rehired-fired-again/>
+
+---
+
+## Pahala man accused of meth, firearms offenses
+
+date: 2025-07-16, from: Hawaii Tribune Harold
+
+
+				<p>A 44-year-old Pahala man was arrested and charged with multiple drug and firearms offenses after a report early Saturday morning of suspicious vehicles on Kupuna Place near the Mohouli Heights Senior Neighborhood.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/16/hawaii-news/pahala-man-accused-of-meth-firearms-offenses/>
+
+---
+
+## Ownership of toppled banyan still a bit murky
+
+date: 2025-07-16, from: Hawaii Tribune Harold
+
+
+				<p>Who owns the historic banyan tree that uprooted and crashed Saturday, blocking all lanes of Kilauea Avenue and damaging Calvary Chapel Hilo?</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/16/hawaii-news/ownership-of-toppled-banyan-still-a-bit-murky/>
+
+---
+
+## Democrats broach potential walkout to block Texas redistricting
+
+date: 2025-07-16, from: Hawaii Tribune Harold
+
+
+				<p>HOUSTON &#8212; National Democratic leaders are encouraging state Democrats in the Texas House to consider walking out of a special legislative session this month to block Republicans from redrawing the state&#8217;s congressional maps before the 2026 midterm elections.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/16/nation-world-news/democrats-broach-potential-walkout-to-block-texas-redistricting/>
+
+---
+
+## US inflation accelerated in June as Trump’s tariffs pushed up prices
+
+date: 2025-07-16, from: Hawaii Tribune Harold
+
+
+				<p>Inflation accelerated in June as President Donald Trump&#8217;s tariffs started to leave a bigger imprint on the economy, keeping the Federal Reserve on track to hold interest rates steady when policymakers next meet this month.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/16/nation-world-news/us-inflation-accelerated-in-june-as-trumps-tariffs-pushed-up-prices/>
+
+---
+
+## News in brief for July 16
+
+date: 2025-07-16, from: Hawaii Tribune Harold
+
+
+				<p>Severe storms in New York City area kill two in New Jersey floods</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/16/nation-world-news/news-in-brief-for-july-16/>
+
+---
+
+## Zonta Club gives $20K in scholarships
+
+date: 2025-07-16, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;The Zonta Club of Hilo is thrilled to award $20,000 in scholarships to 10 women for 2025,&#8221; said club president Laurie Higashi in a news release. &#8220;Chartered on Aug. 8, 1950, our club is celebrating 75 years of making a difference on Hawaii Island.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/16/community/zonta-club-gives-20k-in-scholarships/>
+
+---
+
+## Portuguese chamber announces scholarship winners
+
+date: 2025-07-16, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Island Portuguese Chamber of Commerce has announced the recipients of its 2025 scholarships.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/16/community/portuguese-chamber-announces-scholarship-winners/>
+
+---
+
+## County accepting applications for roadside vendors in Kona
+
+date: 2025-07-16, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Department of Public Works is accepting applications for special activity permits authorizing temporary roadside vending in a designated area of Ane Keohokalole Highway in Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/16/community/county-accepting-applications-for-roadside-vendors-in-kona/>
+
+---
+
+## Graduation ceremony held for 8 new adult corrections officers
+
+date: 2025-07-16, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Corrections and Rehabilitation on Monday welcomed a new class of eight adult corrections officers at a graduation ceremony at the YMCA in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/16/community/graduation-ceremony-held-for-8-new-adult-corrections-officers/>
+
+---
+
+## Federal grand jury indicts suspect in killing of Minnesota lawmaker
+
+date: 2025-07-16, from: Hawaii Tribune Harold
+
+
+				<p>A federal grand jury in Minnesota indicted a man on murder and stalking charges in the assassination of state Rep. Melissa Hortman and the killing of her husband, Mark Hortman, officials announced Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/16/nation-world-news/federal-grand-jury-indicts-suspect-in-killing-of-minnesota-lawmaker/>
+
+---
+
+## Trump releases nearly half of the National Guard troops in Los Angeles
+
+date: 2025-07-16, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; About half of the California National Guard troops deployed to Los Angeles are being released, Trump administration officials said Tuesday, signaling a significant scaling back of a military deployment that began last month to quell demonstrations over immigration raids and that has angered Democratic leaders in California.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/16/nation-world-news/trump-releases-nearly-half-of-the-national-guard-troops-in-los-angeles/>
+
+---
+
+## ‘Good Trouble Lives On’ rally set for Hilo
+
+date: 2025-07-16, from: Hawaii Tribune Harold
+
+
+				<p>On Thursday from 3 p.m. to 5 p.m., East Hawaii community members will join Americans at hundreds of events nationwide to honor the legacy of Congressman John J. Lewis and fight back against the growing attacks on civil and human rights.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/16/community/good-trouble-lives-on-rally-set-for-hilo/>
+
+---
+
+## House Democrats call for hearing on Epstein, capitalizing on GOP rift
+
+date: 2025-07-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Democrats on the House Judiciary Committee urged the Republican majority Tuesday to call top Trump administration officials to testify about their handling of the Jeffrey Epstein investigation, moving to capitalize on GOP divisions over the Justice Department&#8217;s closing of the case.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/16/nation-world-news/house-democrats-call-for-hearing-on-epstein-capitalizing-on-gop-rift/>
+
+---
+
+## Grand Canyon fire that was left to burn swells 50% after destroying historic lodge
+
+date: 2025-07-16, from: Hawaii Tribune Harold
+
+
+				<p>A wildfire in tinder-dry forest on the North Rim of the Grand Canyon grew around 50% on Tuesday after it destroyed dozens of buildings, prompting public outrage that it was left to burn for a week before firefighters tried to fully extinguish it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/16/nation-world-news/grand-canyon-fire-that-was-left-to-burn-swells-50-after-destroying-historic-lodge/>
+
+---
+
+## Trump joins tech and energy executives amid AI push
+
+date: 2025-07-16, from: Hawaii Tribune Harold
+
+
+				<p>PITTSBURGH, Pa. &#8212; President Donald Trump will join executives from some of the largest U.S. tech and energy companies for a summit in Pittsburgh on Tuesday as the administration prepares more measures to power the U.S. expansion of artificial intelligence.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/16/nation-world-news/trump-joins-tech-and-energy-executives-amid-ai-push/>
+
+---
+
+## Israel stages rare attack on Syrian government forces
+
+date: 2025-07-16, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT &#8212; A wave of deadly Israeli airstrikes targeted government forces in Syria and the Iran-backed group Hezbollah in Lebanon on Tuesday, escalating what Israel said were efforts to secure its northern border.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/16/nation-world-news/israel-stages-rare-attack-on-syrian-government-forces/>
+
+---
+
+## Would Europe actually retaliate against Trump’s tariffs?
+
+date: 2025-07-16, from: Hawaii Tribune Harold
+
+
+				<p>BRUSSELS &#8212; European Union officials have spent this week working to finalize a plan to retaliate against President Donald Trump&#8217;s tariffs, laying the groundwork to hit more than $100 billion worth of American imports with levies if negotiations on a new trade deal fail.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/16/nation-world-news/would-europe-actually-retaliate-against-trumps-tariffs/>
+
+---
+
+## 75 Years of the Organic Act: a call to reclaim Guam’s story and spirit
+
+date: 2025-07-16, from: Pacific Island Times
+
+As Guam marks the 75th anniversary of the Organic Act, we are called to more than remembrance—we are called to revival. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/75-years-of-the-organic-act-a-call-to-reclaim-guam-s-story-and-spirit>
+
+---
+
+## Fiji govt could pay NZ$1.5m settlement to former anti-corruption head for ruined career
+
+date: 2025-07-16, from: 
+
+The state is offering Barbara Malimali an out-of-court settlement after her lawyer lodged a judicial review of her sacking in the High Court in Suva. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566981/fiji-govt-could-pay-nz-1-point-5m-settlement-to-former-anti-corruption-head-for-ruined-career>
+
+---
+
+## Bougainville election: More than 400 candidates vie for parliament
+
+date: 2025-07-16, from: 
+
+Incumbent President Ishmael Toroama - seeking a second term - is among those people lining up to win a seat. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567074/bougainville-election-more-than-400-candidates-vie-for-parliament>
+
+---
+
+## Rugby league: Nine players banned, officials suspended after on-field chaos in PNG
+
+date: 2025-07-16, from: 
+
+The Papua New Guinea Rugby Football League says the incident on Sunday was "disappointing" and should not be repeated. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567070/rugby-league-nine-players-banned-officials-suspended-after-on-field-chaos-in-png>
+
+---
+
+## UH supports ʻohana through Hawaiʻi Foodbank
+
+date: 2025-07-16, from: University of Hawaiʻi News
+
+<p>This year’s University of <span aria-label="Hawaii">Hawai&#699;i</span> foodbank drive raised $42,183 in monetary donations and 4,652 pounds of food.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/15/hawaii-foodbank-2025/"><abbr>UH</abbr> supports ʻohana through Hawaiʻi Foodbank</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/15/hawaii-foodbank-2025/>
+
+---
+
+## Massive US-led military exercise underway in CNMI
+
+date: 2025-07-16, from: 
+
+Nearly 300 aircraft and over 600 troops are part of the Resolute Force Pacific (REFORPAC) 2025 in about 25 locations on Saipan, Tinian, and Rota. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567063/massive-us-led-military-exercise-underway-in-cnmi>
+
+---
+
+## Pacific news in brief for 15 July
+
+date: 2025-07-16, from: 
+
+A round-up of news from around the region, including Tonga's National Health Information System - hacked three weeks ago in a cyber attack - now back in action. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567059/pacific-news-in-brief-for-15-july>
+
+---
+
+## Helping keiki understand kupuna: dementia support book now in ʻŌlelo Hawaiʻi
+
+date: 2025-07-15, from: University of Hawaiʻi News
+
+<p>A Hawaiian-language children’s book developed at <abbr>UH</abbr> Mānoa helps families talk about dementia and support kūpuna with care and compassion.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/15/dementia-children-book-in-olelo-hawaii/">Helping keiki understand kupuna: dementia support book now in ʻŌlelo Hawaiʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/15/dementia-children-book-in-olelo-hawaii/>
+
+---
+
+## Cook Islands' 60th anniversary: 'Who New Zealand sends, sends a message'
+
+date: 2025-07-15, from: 
+
+Aotearoa has an opportunity to "show maturity" as Cook Islands celebrates six decades of self-governance, a Cook Islands political analyst says. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567051/cook-islands-60th-anniversary-who-new-zealand-sends-sends-a-message>
+
+---
+
+## Māngere family says 'yes for now' to buyout after two-year wait for answers
+
+date: 2025-07-15, from: 
+
+A Māngere family is faced with a difficult decision after learning that their home is considered an "intolerable risk to life". 
+
+<br> 
+
+<https://www.rnz.co.nz/news/ldr/567040/mangere-family-says-yes-for-now-to-buyout-after-two-year-wait-for-answers>
+
+---
+
+## America in Asia: Guam envisioned as a free trade zone
+
+date: 2025-07-15, from: Pacific Island Times
+
+Guam lies within direct proximity to major Indo-Pacific markets, including Japan, Korea, Taiwan, and the Philippines, and is outside the U.S. Customs Zone, making it an ideal jurisdiction for an export zone. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/america-in-asia-guam-envisioned-as-a-free-trade-zone>
+
+---
+
+## 3 Base Bows selected in the MLB Draft
+
+date: 2025-07-15, from: University of Hawaiʻi News
+
+<p>Matthew Miura, Itsuki Takemoto and Freddy Rodriguez represent the program’s biggest draft class since 2015.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/15/rainbow-warriors-selected-mlb-draft/">3 Base Bows selected in the <abbr>MLB</abbr> Draft</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/15/rainbow-warriors-selected-mlb-draft/>
+
+---
+
+## Social Work workforce development hub to address statewide shortage
+
+date: 2025-07-15, from: University of Hawaiʻi News
+
+<p>The Social Work Workforce Development Hub will help address the shortage of social workers through training, support and data-driven strategies.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/15/sw-workforce-development-hub/">Social Work workforce development hub to address statewide shortage</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/15/sw-workforce-development-hub/>
+
+---
+
+## UH West Oʻahu plays key role in Hawaiʻi’s school safety movement
+
+date: 2025-07-15, from: University of Hawaiʻi News
+
+<p>More than 200 stakeholders explore solutions for safer schools and stronger communities.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/15/htac-conference-2025/"><abbr>UH</abbr> West Oʻahu plays key role in Hawaiʻi’s school safety movement</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/15/htac-conference-2025/>
+
+---
+
+## New Manu Samoa head coach eyes strong start against Scotland ahead of PNC campaign
+
+date: 2025-07-15, from: 
+
+Lemalu Tusi Pisi wants Friday night's one-off Test match at Eden Park to set the tone for the Samoans as they set their sights firmly on securing a place at 2027 Rugby World Cup. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566998/new-manu-samoa-head-coach-eyes-strong-start-against-scotland-ahead-of-pnc-campaign>
 
 ---
 
@@ -22,12 +459,12 @@ The post <a href="https://www.hawaii.edu/news/2025/07/15/transportation-travel-r
 
 ---
 
-## Jason Momoa casts UH alum in Chief of War tv series
+## Jason Momoa casts UH alum in Chief of War TV series
 
 date: 2025-07-15, from: University of Hawaiʻi News
 
 <p>Kaina Makua earned a <abbr title="bachelor of arts">BA</abbr> in Hawaiian studies and an <abbr title="master of arts">MA</abbr> in education and <span aria-label="olelo">&#699;&#333;lelo</span> <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
-The post <a href="https://www.hawaii.edu/news/2025/07/15/kaina-makua-chief-of-war-tv-series/">Jason Momoa casts <abbr>UH</abbr> alum in Chief of War tv series</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2025/07/15/kaina-makua-chief-of-war-tv-series/">Jason Momoa casts <abbr>UH</abbr> alum in Chief of War TV series</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <br> 
 
@@ -62,21 +499,9 @@ The post <a href="https://www.hawaii.edu/news/2025/07/15/phd-in-nursing-relaunch
 
 ---
 
-## Variety editor’s 4th book available at Joeten Susupe
-
-date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
-
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
-
----
-
 ## Judge files affidavit in rape case
 
-date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
+date: 2025-07-15, updated: 2025-07-16, from: Marianas Variety
 
 SUPERIOR Court Judge Joseph N. Camacho has filed a declaration to clarify the evidentiary record from a preliminary hearing held on Nov. 23, 2022, involving Willie Carnell Frink. 
 
@@ -88,7 +513,7 @@ SUPERIOR Court Judge Joseph N. Camacho has filed a declaration to clarify the ev
 
 ## House urged to impose developer's tax on military construction projects
 
-date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
+date: 2025-07-15, updated: 2025-07-16, from: Marianas Variety
 
 REFALUWASCH rights advocate Melvin L.O. Faisao is urging the House of Representatives to amend the law and impose a developer’s tax on military construction projects. 
 
@@ -100,7 +525,7 @@ REFALUWASCH rights advocate Melvin L.O. Faisao is urging the House of Representa
 
 ## Nauru taps veteran banker to lead digital asset push
 
-date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
+date: 2025-07-15, updated: 2025-07-16, from: Marianas Variety
 
 (Government of the Republic of Nauru) — Following legislation passed by Nauru’s parliament last month to establish an authority to regulate virtual assets including cryptocurrency, the government has appointed highly respected Australian banking and financial markets executive Brian Phelps as its inaugural CEO. 
 
@@ -112,7 +537,7 @@ date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
 
 ## Saipan Chamber submits recommendations to King-Hinds
 
-date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
+date: 2025-07-15, updated: 2025-07-16, from: Marianas Variety
 
 THE Saipan Chamber of Commerce has formally submitted its response to U.S. Congresswoman Kimberlyn King-Hinds, regarding her proposed CNMI Labor Stabilization Policy Framework. 
 
@@ -124,7 +549,7 @@ THE Saipan Chamber of Commerce has formally submitted its response to U.S. Congr
 
 ## Red flags at 8 Saipan sites
 
-date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
+date: 2025-07-15, updated: 2025-07-16, from: Marianas Variety
 
 THE Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan’s west coast recreational beaches and storm drainages every week. 
 
@@ -136,7 +561,7 @@ THE Bureau of Environmental and Coastal Quality analyzes water samples collected
 
 ## US Supreme Court clears way for Trump to gut Education Department
 
-date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
+date: 2025-07-15, updated: 2025-07-16, from: Marianas Variety
 
 WASHINGTON (Reuters) — The U.S. Supreme Court on Monday cleared the way for President Donald Trump's administration to resume dismantling the Department of Education, part of his bid to shrink the federal government's role in education in favor of more control by the states. 
 
@@ -148,7 +573,7 @@ WASHINGTON (Reuters) — The U.S. Supreme Court on Monday cleared the way for Pr
 
 ## McDonald’s Guam and Saipan congratulates local managers on graduating from Hamburger University in Chicago
 
-date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
+date: 2025-07-15, updated: 2025-07-16, from: Marianas Variety
 
 (Special Advertising Feature) — McDonald’s of Guam and Saipan proudly announces that two of its department managers, Aaron Palaming and Angelica Darlucio, had been selected to attend Hamburger University in Chicago. 
 
@@ -160,13 +585,25 @@ date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
 
 ## Rota SBDC wraps up exclusive AI training for small business owners
 
-date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
+date: 2025-07-15, updated: 2025-07-16, from: Marianas Variety
 
 (SBDC) — The Rota Small Business Development Center at Northern Marianas College successfully hosted its highly anticipated in-person training, “Let AI Handle Your Day-to-Day Grind,” on Thursday, July 10, 2025, at the NMC Rota Campus. The event brought together 12 local small business owners representing a wide range of industries and skill levels — all eager to learn how Artificial Intelligence can transform their business operations. 
 
 <br> 
 
 <https://www.mvariety.com/news/community_bulletins/rota-sbdc-wraps-up-exclusive-ai-training-for-small-business-owners/article_e6530e32-5a11-4f45-8a71-9574b201f697.html>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-07-15, updated: 2025-07-15, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
 
 ---
 
@@ -417,18 +854,6 @@ Coast360 backs Maite's solar initiative The Municipality of Mongmong-Toto-Maite 
 <br> 
 
 <https://www.pacificislandtimes.com/post/business-briefs-coast360-powers-up-maite-ai-training-for-rota-business-owners>
-
----
-
-## New Manu Samoa head coach eyes strong start against Scotland ahead of PNC campaign
-
-date: 2025-07-15, from: 
-
-Lemalu Tusi Pisi wants Friday night's one-off Test match at Eden Park to set the tone for the Samoans as they set their sights firmly on securing a place at 2027 Rugby World Cup. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/566998/new-manu-samoa-head-coach-eyes-strong-start-against-scotland-ahead-of-pnc-campaign>
 
 ---
 

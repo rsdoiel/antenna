@@ -1,11 +1,89 @@
 ---
 title: socal north
-updated: 2025-07-15 14:07:40
+updated: 2025-07-16 06:09:13
 ---
 
 # socal north
 
-(date: 2025-07-15 14:07:40)
+(date: 2025-07-16 06:09:13)
+
+---
+
+## We still don’t know how much LAUSD spent on its cellphone ban
+
+date: 2025-07-16, updated: 2025-07-16, from: The LAist
+
+Los Angeles Unified leaders designated millions in taxpayer dollars to pay for pouches, lockers and other materials to implement a more restrictive cellphone policy. 
+
+<br> 
+
+<https://laist.com/news/education/los-angeles-unified-school-district-cell-phone-policy-public-records-request>
+
+---
+
+## Half the National Guard troops sent to LA in response to ICE-related protests will be released
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+The troops have mostly been tasked with protecting federal buildings and assisting immigration agents. 
+
+<br> 
+
+<https://laist.com/news/half-national-guard-troops-sent-to-la-to-be-released>
+
+---
+
+## Affordable housing project in South Wrigley starts construction, to finish late 2026
+
+date: 2025-07-15, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>City officials celebrated the groundbreaking of The 101, a 52-unit housing project in South Wrigley, as another milestone in curbing a rising housing crisis that continues to cripple the region. </p>
+<p>The post <a href="https://lbpost.com/news/place/affordable-housing-project-in-south-wrigley-starts-construction-to-finish-late-2026">Affordable housing project in South Wrigley starts construction, to finish late 2026</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/place/affordable-housing-project-in-south-wrigley-starts-construction-to-finish-late-2026>
+
+---
+
+## He relentlessly drove 30,000 miles, asking one question: ‘Do you want help?’
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+In Orange County, where the local CARE Court refuses to force people with psychosis into treatment, one social worker drove 30,000 miles last year searching for unhoused clients with schizophrenia — asking if they want help, again and again and again. 
+
+<br> 
+
+<https://laist.com/news/he-relentlessly-drove-30-000-miles-asking-one-question-do-you-want-help>
+
+---
+
+## Long Beach man says he was deported after a traffic stop, denied insulin while in ICE custody
+
+date: 2025-07-15, from: Longbeach Post
+
+<figure><img width="1024" height="696" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh-1024x696.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh-1024x696.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh-300x204.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh-768x522.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh-400x272.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The federal government branded him among the ‘Worst of the Worst Criminal Illegal Aliens,’ but did not address questions about his treatment in custody.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/pedro-davalos-deported-ice-insulin-long-beach-worst-of-wors">Long Beach man says he was deported after a traffic stop, denied insulin while in ICE custody</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/pedro-davalos-deported-ice-insulin-long-beach-worst-of-wors>
+
+---
+
+## The biggest piece of Mars on Earth is going up for auction in New York
+
+date: 2025-07-15, updated: 2025-07-15, from: The LAist
+
+Sotheby's in New York will be auctioning the largest piece of Mars ever found on Earth. 
+
+<br> 
+
+<https://laist.com/news/biggest-piece-of-mars-on-earth-is-going-up-for-auction>
 
 ---
 
@@ -13,7 +91,7 @@ updated: 2025-07-15 14:07:40
 
 date: 2025-07-15, from: Longbeach Post
 
-<figure><img width="1024" height="685" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1024x685.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1024x685.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-300x201.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-768x514.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-161x108.png 161w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1536x1028.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-2048x1371.png 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1200x803.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1568x1050.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-400x268.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="685" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1024x685.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1024x685.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-300x201.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-768x514.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-161x108.png 161w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1536x1028.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-2048x1371.png 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1200x803.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-1568x1050.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/11133648/screenshot-2025-07-11-at-13503pm-628585-sudcjwje-731136-sJlCHQxo-400x268.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>City documents said it will offer high-end organic produce, an espresso bar and imported spirits “not normally found in typical stores.”</p>
 <p>The post <a href="https://lbpost.com/news/business/development/specialty-market-and-liquor-store-to-replace-dollar-express-in-zaferia-neighborhood">Specialty market and liquor store to replace Dollar Express in Zaferia neighborhood</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -41,7 +119,7 @@ The district attorney’s office has not filed any charges for post-fire price g
 date: 2025-07-15, from: Longbeach Post
 
 <figure><img width="1024" height="745" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ-1024x745.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ-1024x745.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ-300x218.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ-768x559.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ-148x108.jpg 148w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ-400x291.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/23134645/23jun25-6-23-25-pool-1-536629-ofg77cpx-034010-izIGsaYJ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The mayor is calling the council back from a July recess for a special closed-door meeting Wednesday afternoon.</p>
+<p>The mayor is calling the council back from a July recess for a special closed-door meeting Friday afternoon.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/long-beach-city-council-will-consider-legal-action-to-combat-ice-raids-mayor-says">Long Beach City Council will consider legal action to combat ICE raids, mayor says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
 
@@ -125,7 +203,7 @@ The battle for records between the Sheriff Civilian Oversight Commission and L.A
 
 ## The Mayan in downtown LA announces it's closing after nearly a century
 
-date: 2025-07-15, updated: 2025-07-15, from: The LAist
+date: 2025-07-15, updated: 2025-07-16, from: The LAist
 
 The historic theater says it’s closing in late September and will host dance nights until Sept. 13. 
 
@@ -135,11 +213,11 @@ The historic theater says it’s closing in late September and will host dance n
 
 ---
 
-## Protected: 2025 College Corps Education Award Only Expansion Pilot Request for Applications
+## 2025 College Corps Education Award Only Expansion Pilot Request for Applications
 
 date: 2025-07-15, from: CalVolunteers
 
-There is no excerpt because this is a protected post. 
+Published: July 15, 2025 &#124; Application Due Date: August 6, 2025 
 
 <br> 
 
@@ -310,7 +388,7 @@ The East L.A. Classic rivals are getting state-of-the-art stadium upgrades in ti
 
 ## The LA Olympics are 3 years away. Here's a first look at the schedule
 
-date: 2025-07-14, updated: 2025-07-14, from: The LAist
+date: 2025-07-14, updated: 2025-07-15, from: The LAist
 
 Los Angeles is officially three years out from the Olympic Games. Organizers released a first look at the upcoming schedule. 
 

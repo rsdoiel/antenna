@@ -1,11 +1,24 @@
 ---
 title: journalism
-updated: 2025-07-15 14:07:43
+updated: 2025-07-16 06:09:18
 ---
 
 # journalism
 
-(date: 2025-07-15 14:07:43)
+(date: 2025-07-16 06:09:18)
+
+---
+
+## Palestine Solidarity PRA Collective files lawsuit against UC over documents request
+
+date: 2025-07-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated July 15 at 8:19 p.m.</em>
+Students and faculty are suing the UC to demand the release of documents relating to the policing of pro-Palestine protests on the UCLA campus. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/15/palestine-solidarity-pra-collective-files-lawsuit-against-uc-over-documents-request/>
 
 ---
 

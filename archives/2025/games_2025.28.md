@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-07-15 14:07:43
+updated: 2025-07-16 06:09:18
 ---
 
 # games
 
-(date: 2025-07-15 14:07:43)
+(date: 2025-07-16 06:09:18)
+
+---
+
+## The Zelda movie has found its Zelda and Link
+
+date: 2025-07-16, updated: 2025-07-16, from: Polygon Website
+
+The roles of Link and Zelda in the forthcoming Legend of Zelda live-action movie have been filled with two young British actors. Bo Bragason will play Zelda, and Benjamin Evan Ainsworth will play Link. Zelda creator Shigeru Miyamoto made the announcement Wednesday via Nintendo’s X account. “I am very much looking forward to seeing both [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/613329/zelda-movie-link-cast>
+
+---
+
+## D&#038;D&#8217;s largest starter set aims to woo board game players
+
+date: 2025-07-16, updated: 2025-07-16, from: Polygon Website
+
+Dungeons &#38; Dragons 5e’s accessible rules vastly increased the popularity of tabletop role-playing games, but Wizards of the Coast is continuing to look for ways to expand its audience. While D&#38;D starter sets have traditionally been presented as an easy way to try the game with pregenerated characters, dice, and short or medium-sized adventures packed [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dnd-dungeons-dragons/613320/heroes-of-the-borderlands-starter-set-contents-board-game>
+
+---
+
+## Donkey Kong Country remains tough as hell on Switch 2
+
+date: 2025-07-16, updated: 2025-07-16, from: Polygon Website
+
+Don’t call it a comeback. While Nintendo has kept DK’s barrel in the air since his debut in 1981 — reissuing his modern classics, making him playable in multiplayer games, throwing him a supporting role in the Mario movie — his 2025 is more of a Kongaissance ripped from the Matthew McConaughey playbook. Donkey Kong [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/613274/donkey-kong-country-review-switch-2-online>
 
 ---
 

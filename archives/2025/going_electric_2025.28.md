@@ -1,11 +1,155 @@
 ---
 title: going electric
-updated: 2025-07-15 14:07:45
+updated: 2025-07-16 06:09:22
 ---
 
 # going electric
 
-(date: 2025-07-15 14:07:45)
+(date: 2025-07-16 06:09:22)
+
+---
+
+## Tesla Finally Unveils A 'New' EV And Here's What It Looks Like
+
+date: 2025-07-16, from: Inside EVs News
+
+Tesla is launching a longer wheelbase Model Y in China. And it looks a lot like the Model X. 
+
+<br> 
+
+<https://insideevs.com/news/766057/tesla-model-y-extended-wheelbase-model-x/>
+
+---
+
+## Buzz tries to undercut Lectric with even lower-priced electric trike
+
+date: 2025-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/buzz-trike-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Buzz Bicycles has just launched its newest electric tricycle model, pushing prices even lower as older riders continue to gravitate towards electric three-wheelers as accessible e-bikes for both recreation and transportation. Now with the <a href="https://alnk.to/612njCV">Buzz Cerana T2</a> hitting the road, the lower end of the market is heating up even faster. And Buzz may now have one of the best-priced mid-drive e-trikes in town.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="buzz-bicycles,ebikes,electric-three-wheeler" data-layer-viewtype="unknown" data-post-id="425008" href="https://electrek.co/2025/07/16/buzz-tries-to-undercut-lectric-with-even-lower-priced-electric-trike/#more-425008" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/16/buzz-tries-to-undercut-lectric-with-even-lower-priced-electric-trike/>
+
+---
+
+## Lucid’s Aggressive Pricing Strategy Just Landed It Another Record Quarter
+
+date: 2025-07-16, from: Inside EVs News
+
+The company offered thousands of dollars in discounts, and it worked. 
+
+<br> 
+
+<https://insideevs.com/news/766026/lucid-q2-h1-2025-delivery-sales-production/>
+
+---
+
+## Rivian (RIVN) to open a UK office that will focus on AI and autonomous driving technology
+
+date: 2025-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Rivian-UK.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>American EV automaker <a href="https://electrek.co/guides/rivian/">Rivian</a> is expanding across the pond into the UK, hoping to tap into the region’s talent pool in artificial intelligence engineering.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="artificial-intelligence,autonomous-driving,rivian,uk,united-kingdom" data-layer-viewtype="unknown" data-post-id="424934" href="https://electrek.co/2025/07/16/rivian-rivn-to-open-uk-office-ai-autonomous-driving-technology/#more-424934" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/16/rivian-rivn-to-open-uk-office-ai-autonomous-driving-technology/>
+
+---
+
+## The Lucid Air And Gravity EVs Are Getting Hands-Free Driving
+
+date: 2025-07-16, from: Inside EVs News
+
+Cars fitted with the DreamDrive Pro advanced driving assistance system will get two new automated driving features. 
+
+<br> 
+
+<https://insideevs.com/news/766012/lucid-air-gravity-hands-free-driving-lane-changes/>
+
+---
+
+## A golf cart pickup truck? GEM-maker launches diverse new LSV line
+
+date: 2025-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/waev-fusion-cart-truck-mini-truck.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Waev, the company best known for its iconic <a href="https://electrek.co/2025/07/10/a-25-mph-ambulance-the-gem-microcar-is-now-an-emergency-responder/">GEM electric low-speed vehicles (LSVs)</a>, just unveiled a brand new lineup of commercial electric carts and LSVs. And this time, they’re not messing around when it comes to utility. Dubbed the <em>Fusion</em> line, these new lithium-ion-powered vehicles include mashups plucked from the worlds of golf carts, street-legal shuttles, and jobsite pickup trucks.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="fleet,gem,golf-carts" data-layer-viewtype="unknown" data-post-id="424992" href="https://electrek.co/2025/07/16/a-golf-cart-pickup-truck-gem-maker-launches-diverse-new-lsv-line/#more-424992" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/16/a-golf-cart-pickup-truck-gem-maker-launches-diverse-new-lsv-line/>
+
+---
+
+## 'An Extraordinary Number Of Issues:' Consumer Reports' Volvo EX90 Is A Mess
+
+date: 2025-07-16, from: Inside EVs News
+
+"In its current form, the EX90 feels like what we’ve experienced driving cars from startups like Fisker and VinFast," the outlet says. 
+
+<br> 
+
+<https://insideevs.com/news/765981/consumer-reports-volvo-ex90-issues/>
+
+---
+
+## Tesla’s retro-futuristic diner and Supercharger is here and it looks sick
+
+date: 2025-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Tesla-Diner.png?w=1600" /></div><p>Tesla’s retro-futuristic diner with Superchargers and giant movie screens is ready to open, and I have to admit, it looks pretty sick.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="424956" href="https://electrek.co/2025/07/15/retro-futuristic-diner-supercharger-is-here-looks-sick/#more-424956" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/15/retro-futuristic-diner-supercharger-is-here-looks-sick/>
+
+---
+
+## Hyundai’s electric minivan sheds its camo: Check out the new Staria EV
+
+date: 2025-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Hyundais-electric-minivan-4.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s electric minivan is finally out in the open. The Staria EV was caught without camo near <a href="https://electrek.co/guides/hyundai/">Hyundai’s</a> R&amp;D center in Korea, giving us a closer look at the electric minivan undisguised.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="424946" href="https://electrek.co/2025/07/15/hyundais-new-staria-ev-electric-minivan-sheds-camo/#more-424946" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/15/hyundais-new-staria-ev-electric-minivan-sheds-camo/>
+
+---
+
+## From $129/month: 5 of the best EV lease deals in July
+
+date: 2025-07-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Volkswagen-ID.4-best-selling-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Heads up, EV shoppers: A 25% tariff on imported cars is already in place, and the Republicans killed the $7,500 EV tax credit after September 30. That means time is running out to score a lease while there’s still tariff-free inventory on dealer lots – and before that federal incentive vanishes. If you’ve been thinking about leasing a new EV, now’s the time to take a serious look. Here are 5 of the best <a href="https://electrek.co/guides/ev-lease/" target="_blank" rel="noreferrer noopener">EV lease</a> deals that CarsDirect found for July.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,ev-lease,honda-prologue,hyundai-ioniq-5,hyundai-ioniq-6,subaru-solterra,volkswagen-id-4" data-layer-viewtype="unknown" data-post-id="424940" href="https://electrek.co/2025/07/15/5-best-ev-lease-deals-july/#more-424940" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/15/5-best-ev-lease-deals-july/>
 
 ---
 
