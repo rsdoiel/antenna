@@ -1,11 +1,39 @@
 ---
 title: ham radio
-updated: 2025-07-16 06:09:15
+updated: 2025-07-16 14:07:36
 ---
 
 # ham radio
 
-(date: 2025-07-16 06:09:15)
+(date: 2025-07-16 14:07:36)
+
+---
+
+## What makes today’s design debugging so complex
+
+date: 2025-07-16, from: EDN Blog
+
+<img width="1772" height="1181" src="https://www.edn.com/wp-content/uploads/Hero-image-18.jpg?fit=1772%2C1181" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-18.jpg?w=1772 1772w, https://www.edn.com/wp-content/uploads/Hero-image-18.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-18.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-18.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-18.jpg?w=1536 1536w" sizes="(max-width: 1772px) 100vw, 1772px" /><p>The hardware/software combos in present designs inevitably lead to challenges in getting a design prototype ready.</p>
+<p>The post <a href="https://www.edn.com/what-makes-todays-design-debugging-so-complex/">What makes today’s design debugging so complex</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/what-makes-todays-design-debugging-so-complex/>
+
+---
+
+## Headlights In Massachusetts
+
+date: 2025-07-16, from: EDN Blog
+
+<img width="498" height="621" src="https://www.edn.com/wp-content/uploads/Headlights-3.png?fit=498%2C621" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Headlights-3.png?w=498 498w, https://www.edn.com/wp-content/uploads/Headlights-3.png?w=241 241w" sizes="(max-width: 498px) 100vw, 498px" /><p>Finally, one state, Massachusetts, has wisely chosen to address the safety issue of automotive headlight glare.</p>
+<p>The post <a href="https://www.edn.com/headlights-in-massachusetts/">Headlights In Massachusetts</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/headlights-in-massachusetts/>
 
 ---
 
@@ -13,7 +41,7 @@ updated: 2025-07-16 06:09:15
 
 date: 2025-07-15, from: EDN Blog
 
-<img width="954" height="532" src="https://www.edn.com/wp-content/uploads/ConstantIntegrator_Figure1.png?fit=954%2C532" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/ConstantIntegrator_Figure1.png?w=954 954w, https://www.edn.com/wp-content/uploads/ConstantIntegrator_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/ConstantIntegrator_Figure1.png?w=768 768w" sizes="(max-width: 954px) 100vw, 954px" /><p>A 555 ADC with continuous integration without precision capacitors and symmetrical bipolar conversions from a single unipolar reference.</p>
+<img width="954" height="532" src="https://www.edn.com/wp-content/uploads/ConstantIntegrator_Figure1.png?fit=954%2C532" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/ConstantIntegrator_Figure1.png?w=954 954w, https://www.edn.com/wp-content/uploads/ConstantIntegrator_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/ConstantIntegrator_Figure1.png?w=768 768w" sizes="auto, (max-width: 954px) 100vw, 954px" /><p>A 555 ADC with continuous integration without precision capacitors and symmetrical bipolar conversions from a single unipolar reference.</p>
 <p>The post <a href="https://www.edn.com/another-weird-555-adc/">Another weird 555 ADC</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

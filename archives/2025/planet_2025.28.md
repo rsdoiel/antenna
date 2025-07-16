@@ -1,11 +1,267 @@
 ---
 title: planet
-updated: 2025-07-16 06:09:12
+updated: 2025-07-16 14:07:33
 ---
 
 # planet
 
-(date: 2025-07-16 06:09:12)
+(date: 2025-07-16 14:07:33)
+
+---
+
+## Fire destroys stage at Belgium's Tomorrowland festival
+
+date: 2025-07-16, from: RTÉ News
+
+The main stage of the Tomorrowland music festival near Antwerp has been totally destroyed by fire, a day before thousands of electronic dance music lovers were due to descend on the Belgian event. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0716/1523896-tomorrowland-fire/>
+
+---
+
+## IBEC: Ban on services from occupied territories difficult
+
+date: 2025-07-16, from: RTÉ News
+
+The employers group IBEC has warned that it would be "incredibly difficult" for businesses to implement a ban on services coming from the Occupied Palestinian Territories. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0716/1523889-ibec-palestinian-territories-services/>
+
+---
+
+## Call for mandatory teaching of national anthem
+
+date: 2025-07-16, from: RTÉ News
+
+A Sinn Féin TD has called for the national anthem to be included on the school curriculum. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0716/1523888-national-anthem-sf/>
+
+---
+
+## Champions League: Linfield v Shelbourne updates
+
+date: 2025-07-16, from: RTÉ News
+
+Live updates from tonight's second leg between Linfield and Shelbourne at Windsor Park, with the League of Ireland champions leading 1-0 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0716/1523883-champions-league-linfield-v-shelbourne-updates/>
+
+---
+
+## Syria's sectarian mix a dilemma for new rulers
+
+date: 2025-07-16, from: RTÉ News
+
+Interim President Ahmed al-Sharaa's hopes of stitching Syria back together under the rule of his Islamist-led government are complicated by the country's mix of sectarian and ethnic groups. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0716/1523876-syria-rulers/>
+
+---
+
+## Watch: Moment strikes hit Syria as reporter live on air
+
+date: 2025-07-16, from: RTÉ News
+
+An Al Jazeera reporter could be seen shielding himself while on air, as a large explosion hit a building behind him earlier today. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0716/1523869-moment-reporter-on-air-strikes/>
+
+---
+
+## Podcast: Russia, Ukraine and why Putin 'won't retreat'
+
+date: 2025-07-16, from: RTÉ News
+
+Russia has a long history of territorial expansion and it's war with Ukraine is part of it's ambition to control it's near neighbours. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0716/1523825-podcast-russia-ukraine-and-why-putin-wont-retreat/>
+
+---
+
+## Fire destroys main stage of Belgium's Tomorrowland music festival before event
+
+date: 2025-07-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7586820.1752697442!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/belgium-tomorrowland-fire.JPG' alt='Fireworks burst and smoke rises as a fire engulfs the main stage at a music festival. Houses are in the foreground, but not burning.' width='620' height='349' title='Fireworks burst and smoke rises as a fire engulfs the main stage of Tomorrowland, an electronic music event, in Boom, Belgium, July 16, 2025 in this still image from social media video.'/><p>A huge fire on Wednesday at Belgium's Tomorrowland music festival site has “severely damaged” the main stage two days before the event was due to start, organizers said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/tomorrowland-festival-fire-belgium-1.7586811?cmp=rss>
+
+---
+
+## Young woman dies following Co Galway crash on Sunday
+
+date: 2025-07-16, from: RTÉ News
+
+A woman in her late teens has died following a road crash in Co Galway over the weekend. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0716/1523865-galway-road-crash/>
+
+---
+
+## Poland confirms 'full support' for Lebanon peace mission
+
+date: 2025-07-16, from: RTÉ News
+
+Poland has confirmed its "full support" for the continuation of the UN peacekeeping mission in southern Lebanon, where it provides a mechanised Infantry Company to cooperate with Irish blue helmets. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0716/1523864-unifil/>
+
+---
+
+## Astronomers witness the dawn of a new solar system for the first time
+
+date: 2025-07-16, from: Vatican Obervatory
+
+Researchers have, for the first time, pinpointed the moment when planets began to form around a star beyond the Sun.  
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/astronomers-witness-the-dawn-of-a-new-solar-system-for-the-first-time/>
+
+---
+
+## Watch: Calls for a Commissioner for Future Generations
+
+date: 2025-07-16, from: RTÉ News
+
+Coalition 2030, a group of civil society groups and trade unions, has held an event in Dublin city centre to urge Government to enact a bill that would lead to the creation of a Commissioner for Future Generations. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0716/1523834-commissioner-future-generations/>
+
+---
+
+## EU Commission proposes €2 trillion seven-year budget
+
+date: 2025-07-16, from: RTÉ News
+
+The European Commission has proposed a €2 trillion EU budget for 2028 to 2034, placing a new emphasis on economic competitiveness and defence while aiming to reform the rules around farm and economic development subsidies. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0716/1523854-eu-commission-proposes-2-trillion-euro-7-year-budget/>
+
+---
+
+## Healy defends lead at Tour de France to retain yellow
+
+date: 2025-07-16, from: RTÉ News
+
+Ben Healy will wear the yellow jersey at the Tour de France again on Thursday after safely defending his lead on Stage 11. 
+
+<br> 
+
+<https://www.rte.ie/sport/cycling/2025/0716/1523833-healy-defends-lead-at-tour-de-france-to-retain-yellow/>
+
+---
+
+## Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life
+
+date: 2025-07-16, from: Vatican News
+
+
+                    <p>The competence of the Dicastery is to promote, encourage and regulate the practice of the evangelical counsels, how they are lived out in the approved forms of consecrated life and all matters concerning the life and activity of Societies of Apostolic Life throughout the Latin Church.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-institutes-consecrated-life-societies-apostolic-life.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-institutes-consecrated-life-societies-apostolic-life.html>
+
+---
+
+## How Canada's oilsands transformed into one of North America's lowest-cost plays
+
+date: 2025-07-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7586525.1752688680!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/climate-summit-canada-oil-country.jpg' alt='An oilsands facility.' width='620' height='349' title='Steam rises at Suncor&apos;s oil sands facility near Fort McMurray, Canada, on Friday, Sep. 1, 2023. Wildfires are bringing fresh scrutiny to Canada&apos;s fossil fuel dominance, its environmentally friendly image and the viability of becoming carbon neutral by 2050.'/><p>Giant shovels, driverless trucks and a dog-like robot have all helped Canada's oilsands companies including Imperial Oil and Suncor become some of North America's lowest-cost oil producers, driving down overheads even as the worst inflation in a generation pushed U.S. shale costs up.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/edmonton/how-canada-s-oilsands-transformed-into-one-of-north-america-s-lowest-cost-plays-1.7586510?cmp=rss>
+
+---
+
+## More than 900 ex-U.S. Justice Dept. employees warn against Trump judicial nominee Emil Bove
+
+date: 2025-07-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7586553.1752689332!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump-judges-bove.jpg' alt='Greying man sits looking glum' width='620' height='349' title='FILE - Emil Bove, attorney for then former President Donald Trump, attends Manhattan criminal court during Trump&apos;s sentencing in the hush money case in New York, Jan. 10, 2025.  '/><p>More than 900 former U.S. Justice Department employees are warning the Republican-controlled Senate Judiciary Committee against confirming President Donald Trump's nominee Emil Bove to serve as an appellate court judge.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/emil-bove-nomination-warning-former-justice-department-employees-1.7586522?cmp=rss>
+
+---
+
+## Canadian military ends wildfire operation in Garden Hill Anisininew Nation
+
+date: 2025-07-16, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7586441.1752685046!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/caf-garden-hill-wildfire-evacuation.jpg' alt='Dozens of people are seen walking into a large aircraft.' width='620' height='349' title='The Royal Canadian Air Force is seen providing airlift support to the Province of Manitoba under Operation LENTUS 25-04, transporting people from Garden Hill First Nation to Winnipeg, Manitoba on July 10, 2025.'/><p>After helping over 1,500 people escape wildfire near Garden Hill First Nation, the Canadian military says it's winding down its wildfire assistance efforts in northeastern Manitoba.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/canada-military-wildfire-garden-hill-1.7586439?cmp=rss>
+
+---
+
+## An Post publishes results early over 'misrepresentation'
+
+date: 2025-07-16, from: RTÉ News
+
+An Post has released its annual results early due to what the company described as its finances and business strategy being "seriously misrepresented" in parts of the media. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0716/1523831-an-post-annual-results/>
+
+---
+
+## R&A 'really optimistic' about hosting Open in Dublin
+
+date: 2025-07-16, from: RTÉ News
+
+The R&A are "really optimistic" about the prospect of holding the Open Championship in Portmarnock, according to chief executive Mark Darbon, with a decision to be made near the end of 2025 
+
+<br> 
+
+<https://www.rte.ie/sport/golf/2025/0716/1523829-ra-really-optimistic-about-hosting-open-in-dublin/>
+
+---
+
+## 'Never forget you' - funeral held for Freya Tobin
+
+date: 2025-07-16, from: RTÉ News
+
+A teddy bear, jellies, make-up and perfume were brought to the altar as symbols of the life of a 12-year-old girl who died after getting into difficulty in the River Suir last week. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0716/1523828-funeral-freya-tobin/>
 
 ---
 
@@ -53,11 +309,11 @@ date: 2025-07-16, from: Vatican News
 
 ---
 
-## Israel strikes near Syrian army HQ in Damascus
+## Israel hits Syria army HQ, areas near presidential palace
 
 date: 2025-07-16, from: RTÉ News
 
-An Israeli strike hit near the Syrian army and defence ministry headquarters in Damascus, the state-run Alekhbariya channel reported on Telegram, after Israel's military said it had struck there. 
+Israel has bombed the Syrian army's headquarters in Damascus after warning the Islamist-led government to leave the country's Druze minority alone, as authorities announced a ceasefire in the community's southern heartland after deadly sectarian clashes. 
 
 <br> 
 
@@ -81,7 +337,7 @@ date: 2025-07-16, from: Vatican News
 
 ---
 
-## Family syndicate collect €250m EuroMillions jackpot
+## Family syndicate collects €250m EuroMillions jackpot
 
 date: 2025-07-16, from: RTÉ News
 
@@ -117,6 +373,18 @@ The former head of the United Nations' migrant assistance bureau in Dublin was "
 
 ---
 
+## Remember Cambridge Analytica? What to know about the $8B US lawsuit against Meta's board
+
+date: 2025-07-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7586371.1752680906!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/siggraph-2024-zuckerberg.jpg' alt='A curly haired cleanshaven man gestures while speaking and seated.' width='620' height='349' title='Mark Zuckerberg, chief executive officer of Meta, is shown at an event in the Colorado Convention Center in downtown Denver last yer. '/><p>An $8 billion US trial by Meta Platforms shareholders against Mark Zuckerberg and other current and former company leaders kicks off on Wednesday over claims that they illegally harvested the data of Facebook users in violation of a 2012 agreement with the U.S. Federal Trade Commission.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/meta-shareholders-lawsuit-begins-1.7586176?cmp=rss>
+
+---
+
 ## No school place for 260 children with additional needs
 
 date: 2025-07-16, from: RTÉ News
@@ -126,6 +394,66 @@ Around 260 children with additional needs do not have an offer of a school place
 <br> 
 
 <https://www.rte.ie/news/politics/2025/0716/1523813-ireland-education/>
+
+---
+
+## Unprecedented Afghan returns are ‘a test of our collective humanity’
+
+date: 2025-07-16, from: United Nations, Top Stories
+
+The international community must support Afghanistan as it grapples with the staggering number of citizens returning from the region, a senior UN official has said.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165407>
+
+---
+
+## SECURITY COUNCIL LIVE: ‘Aid must go where needs are greatest’ in Gaza, urges UN relief chief
+
+date: 2025-07-16, from: United Nations, Top Stories
+
+The UN Security Council is meeting on the escalating humanitarian crisis in Gaza, where fresh Israeli evacuation orders have uprooted tens of thousands amid relentless bombardment claiming hundreds of civilian lives in recent weeks – many of them children. “Food is running out. Those seeking it risk being shot. People are dying trying to feed their families,” UN relief chief Tom Fletcher has just told ambassadors. Follow our real-time updates and key moments through our live&nbsp;UN Meetings Coverage page. UN News App users can join here. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165409>
+
+---
+
+## Displacement, poverty and insecurity fueling violence against women in Gaza
+
+date: 2025-07-16, from: United Nations, Top Stories
+
+In Gaza, illness, poverty, mass displacement and depleted services are leading to soaring stress levels and causing an increase in domestic violence, sexual exploitation and abuse, according to the UN sexual and reproductive health agency (UNFPA).&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165408>
+
+---
+
+## Sudan: UNICEF condemns weekend attacks that killed 35 children
+
+date: 2025-07-16, from: United Nations, Top Stories
+
+More than 450 civilians were killed in recent “horrific attacks” in Sudan’s North Kordofan state which the UN Children’s Fund (UNICEF) has condemned in the strongest possible terms.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165405>
+
+---
+
+## Gaza: More misery as new evacuation orders impact tens of thousands
+
+date: 2025-07-16, from: United Nations, Top Stories
+
+New evacuation orders in Gaza issued by the Israeli military have uprooted tens of thousands of Palestinians, amid ongoing bombardment, aid agencies have warned. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165404>
 
 ---
 
@@ -146,7 +474,7 @@ The US Ambassador to Israel has criticised the Occupied Territories Bill, callin
 date: 2025-07-16, from: Vatican News
 
 
-                    <p>Donations from Pope Leo XIV, sent through the Dicastery for the Service of Charity, have been delivered to the residents of the bomb-stricken Ukrainian town of Staryi Saltiv and city of Shevchenkove.</p>
+                    <p>Donations from Pope Leo XIV, sent through the Dicastery for the Service of Charity, have been delivered to the residents of the bomb-stricken Ukrainian town of Staryi Saltiv and city of Shevchenkove. The Holy Father has also asked that concrete aid be sent to those suffering from Typhoon Danas in Taiwan.</p>
                     <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-charity-ukraine-kharkiv-food-delivered-families-war.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -190,6 +518,18 @@ A former All-Ireland winning hurler has gone on trial charged with assaulting a 
 <br> 
 
 <https://www.rte.ie/news/courts/2025/0716/1523791-niall-gilligan-court/>
+
+---
+
+## Want a big piece of Mars? It could be yours — for $4M US
+
+date: 2025-07-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7586212.1752674600!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/mars-meteorite-auction.JPG' alt='A large rock sits on a stand in front of a display that reads, &quot;The largest piece of Mars on Earth.&quot;' width='620' height='349' title='The meteorite NWA 16788, the largest known piece of Mars on Earth, is displayed during the press preview of Sotheby’s Natural History auction in New York City, U.S., July 8, 2025. '/><p>For sale: a 25-kilogram rock. Estimated auction price: $2 million to $4 million US. Why so expensive? It's the largest piece of Mars ever found on Earth.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/largest-mars-rock-sale-1.7586179?cmp=rss>
 
 ---
 
@@ -245,11 +585,23 @@ Irish residential property prices increased by 7.9% in the 12 months to May, mar
 
 ---
 
-## Trump says 'credible' Epstein files should be released
+## Power restored to 6 northwestern Ontario First Nations after 4-day outages due to wildfires
+
+date: 2025-07-16, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7586219.1752675067!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pikangikum-burnt-hydro-pole.jpg' alt='Sunlight shines through trees.' width='620' height='349' title='A burnt hydro pole is seen through a line of trees near Pikangikum First Nation. As of Tuesday evening at 9 p.m. ET, Wataynikaneyap Power says the damaged wood poles critical to power restoration have been safely replaced. '/><p>Power has been restored to half a dozen First Nations in northwestern Ontario after a series of hydro poles along the Wataynikaneyap Power line were damaged by wildfires on Saturday. Here's how the outage affected communities and the latest on wildfires in the region.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/power-restored-northwestern-ontario-first-nations-1.7586213?cmp=rss>
+
+---
+
+## Trump says Epstein files 'a hoax' but should be released
 
 date: 2025-07-16, from: RTÉ News
 
-US President Donald Trump has said the Justice Department should release all "credible" information from its probe into convicted pedophile Jeffrey Epstein as he sought to placate criticism from his supporters over his handling of the case. 
+US President Donald Trump has said the Jeffrey Epstein files are just a hoax, however he said the Justice Department should release all "credible" information from its probe into the convicted pedophile. 
 
 <br> 
 
@@ -269,15 +621,39 @@ From the Faith &#038; Science Resource Center (Younger Readers): This colorful b
 
 ---
 
-## Minister rejects GAA Palestine visa denials criticism
+## Woman arrested as Thailand rocked by Buddhist monk sex and blackmail scandal
+
+date: 2025-07-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7586172.1752671392!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-thailand-makha-bucha.jpg' alt='Monks in orange robes sit in prayer along steps' width='620' height='349' title='Thai Buddhist monks pray as they gather at Wat Dhammakaya temple to participate in Makha Bucha Day ceremonies in Pathum Thani, Thailand, Tuesday, Feb. 12, 2025. '/><p>Police in Thailand arrested a woman on Tuesday who allegedly enticed a string of Buddhist monks into sexual relationships and then pressured them into making large payments to cover up their intimacy.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/thailand-monks-sex-scandal-1.7586161?cmp=rss>
+
+---
+
+## GAA Palestine 'devastated' trip to Ireland cannot procced
 
 date: 2025-07-16, from: RTÉ News
 
-Minister for Justice Jim O'Callaghan has rejected criticism from representatives of GAA Palestine over his department's handling of visa applications. 
+GAA Palestine has announced with "a very heavy heart" that a planned trip for Palestinians to visit Ireland for a summer tour now cannot proceed, even if visas were issued at this stage. 
 
 <br> 
 
 <https://www.rte.ie/news/politics/2025/0716/1523766-gaa-palestine-visa/>
+
+---
+
+## Federal, provincial environmental bills have 'no respect' for Ontario First Nations, says chief
+
+date: 2025-07-16, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7586519.1752688310!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/bills-5-legal-challenge.JPG' alt='Indigenous woman speak at news conference.' width='620' height='349' title='Apitipi Anicinapek Nation Chief June Black stands among nine First Nations chiefs to announce a legal challenge against a pair of federal and provincial laws meant to fast-track infrastructure projects. '/><p>Nine Ontario First Nations asking for an injunction against a pair of federal and provincial bills meant to fast-track infrastructure projects revealed more details about constitutional challenges against those measures at Queen's Park on Wednesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/toronto/ontario-first-nations-queens-park-bill-five-challenge-1.7586175?cmp=rss>
 
 ---
 
@@ -297,7 +673,7 @@ A review of monthly patient safety reports from the country's 19 public maternit
 
 date: 2025-07-16, from: RTÉ News
 
-The Minister for Communications has said he is not responsible for a leak which claims that An Post is on the brink of financial collapse, which has been branded as "utter garbage" by the organisation's CEO. 
+Minister for Communications Patrick O'Donovan has said he is not responsible for a leak which claims that An Post is on the brink of financial collapse, which has been branded as "utter garbage" by the organisation's CEO. 
 
 <br> 
 
@@ -305,11 +681,11 @@ The Minister for Communications has said he is not responsible for a leak which 
 
 ---
 
-## Gaza Humanitarian Foundation says 20 dead at aid point
+## Trump to meet Qatar's PM as Gaza ceasefire talks continue
 
 date: 2025-07-16, from: RTÉ News
 
-The Gaza Humanitarian Foundation has said 20 people died at an aid point in Khan Younis, in the south of the Palestinian territory, blaming armed "agitators" in the crowd. 
+US President Donald Trump is due to meet with Qatar's Prime Minister Sheikh Mohammed bin Abdulrahman al-Thani, the White House has said, as Mr Trump presses for progress on a Gaza ceasefire and hostage-release deal. 
 
 <br> 
 
@@ -329,11 +705,11 @@ Runaway prices are worrying households as the Government refuses to include a co
 
 ---
 
-## Connolly confirms intention to run for presidency
+## Connolly launches Áras bid, hopes to 'empower' people
 
 date: 2025-07-16, from: RTÉ News
 
-Independent TD Catherine Connolly has declared her intention to run in the presidential election. 
+Independent TD for Galway West Catherine Connolly has completed the launch of her bid for the presidency at a press conference outside Leinster House this lunchtime, saying she hopes to "empower people to find their own voices". 
 
 <br> 
 
@@ -382,15 +758,15 @@ date: 2025-07-16, from: Vatican News
 
 ---
 
-## At least 19 killed in stampede at Gaza food distribution site
+## First Nations-led data centre in Alberta slated for development amid AI infrastructure boom
 
-date: 2025-07-16, from: CBC, World News
+date: 2025-07-16, from: CBC, Indigenious News
 
-<img src='https://i.cbc.ca/1.7586103.1752659438!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-khan-younis-gaza.JPG' alt='Two women in religious headcovering have anguished looks on their faces in a closeup photo.' width='620' height='349' title='People mourn Palestinians who were killed in an incident on Wednesday while seeking aid in Khan Younis, at Nasser hospital in Khan Younis in the southern Gaza Strip July 16, 2025. REUTERS/Hatem Khaled      '/><p>At least 20 Palestinians were killed on Wednesday at an aid distribution site run by the Gaza Humanitarian Foundation (GHF), in what the U.S.-backed group said was a crowd surge instigated by armed agitators.</p> 
+<img src='https://i.cbc.ca/1.7094691.1734472587!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/data-centre.jpg' alt='An out-of-focus person is seen in a room filled with computers.' width='620' height='349' title='Artificial intelligence may seem invisible to most people, but the computers that run AI are housed in data warehouses like this one, and require a lot of electricity.'/><p>Woodland Cree First Nation is in the process of acquiring an abandoned power plant site for its data centre. If successful, it would be one of the first Indigenous-led data centres in the province.</p> 
 
 <br> 
 
-<https://www.cbc.ca/news/world/mideast-gaza-ghf-site-deaths-1.7586101?cmp=rss>
+<https://www.cbc.ca/news/canada/edmonton/first-indigenous-data-centre-abandoned-power-plant-1.7586072?cmp=rss>
 
 ---
 
@@ -418,18 +794,6 @@ A volcano erupted in southwest Iceland, the country's meteorological office said
 
 ---
 
-## Trump wants to take over some U.S. cities. It's unlikely — but he can make life hard for them
-
-date: 2025-07-16, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7584519.1752606165!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump.JPG' alt='A man wearing a blue suit and a red tie points his finger.' width='620' height='349' title='U.S. President Donald Trump speaks to the press as he arrives at the White House in Washington, D.C., on July 13, 2025.'/><p>U.S. President Donald Trump is in a battle with American cities — and in the last few weeks, he's implied that he would use the powers of the presidency to order a federal takeover of New York City and Washington, D.C. Does he have the power to?</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/trump-federal-takeover-new-york-washington-dc-1.7584505?cmp=rss>
-
----
-
 ## US military to remove 2,000 National Guard troops from LA
 
 date: 2025-07-16, from: RTÉ News
@@ -454,11 +818,11 @@ Delegates from the Ireland Israel Alliance were before the Oireachtas Committee 
 
 ---
 
-## Harris to hold talks with US-based pharma representatives
+## EU 'shown considerable restraint' over US tariffs threats
 
 date: 2025-07-16, from: RTÉ News
 
-Tánaiste and Minister for Foreign Affairs and Trade Simon Harris will hold an online meeting with senior representatives from the pharmaceutical sector based in the United States today. 
+The Tánaiste has said that the EU has "shown considerable restraint" in responding to Donald Trump's tariffs threats and remains focussed on preventing an outcome that "will be deeply detrimental to both the EU and US". 
 
 <br> 
 
@@ -466,11 +830,11 @@ Tánaiste and Minister for Foreign Affairs and Trade Simon Harris will hold an o
 
 ---
 
-## CAP draft proposal 'very concerning', says IFA
+## Ringfenced EU funding for farming cut by 22% under plans
 
 date: 2025-07-15, from: RTÉ News
 
-The Irish Farmers' Association has described draft proposals to change Common Agricultural Policy funding as "very concerning". 
+Ringfenced EU funding for farming would be cut by more than a fifth, while the Common Agricultural Policy fund would be merged together with rural financial supports, under proposals from the European Commission for the bloc's next budget. 
 
 <br> 
 
@@ -523,6 +887,18 @@ Sinn Féin has brought a motion to the Dáil calling on the Government to delive
 <br> 
 
 <https://www.rte.ie/news/2025/0715/1523698-sinn-fein-endometriosis/>
+
+---
+
+## Walpole Island First Nation holds protest against Dresden landfill expansion
+
+date: 2025-07-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7535789.1747324041!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sydenham-river.jpg' alt='A portion of the Sydenham River in southwestern Ontario.' width='620' height='349' title='A portion of the Sydenham River in southwestern Ontario.'/><p>Fire keepers from Walpole Island First Nation watched over a sacred fire near the bank of the Sydenham River over the weekend as part of a series of events in response to a planned landfill expansion in Dresden — and Ontario legislation that appear designed to expedite it.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/windsor/walpole-island-first-nation-protest-1.7585747?cmp=rss>
 
 ---
 
@@ -639,6 +1015,18 @@ Gardaí have been contacted more than 950 times since their appeal last Septembe
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0715/1523688-historical-abuse-schools/>
+
+---
+
+## Indigenous Services budget cuts?
+
+date: 2025-07-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/3a98ac1a-5d23-45cd-8a1e-4ab634d11873,1752615599889/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='Brett Forester doing on cam for vertical video' width='620' height='349' title=''/><p>Cutting billions of dollars from the federal Indigenous services budget could worsen the quality of essential services and spark lawsuits that would cost Ottawa more money long term, some advocates say.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6832722?cmp=rss>
 
 ---
 

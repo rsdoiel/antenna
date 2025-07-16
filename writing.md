@@ -1,11 +1,79 @@
 ---
 title: writing
-updated: 2025-07-16 06:09:17
+updated: 2025-07-16 14:07:38
 ---
 
 # writing
 
-(date: 2025-07-16 06:09:17)
+(date: 2025-07-16 14:07:38)
+
+---
+
+## AudioFile’s Top New Fantasy Picks to Listen to in July 2025
+
+date: 2025-07-16, from: Locus Magazine
+
+<p>From our friends at AudioFile Magazine, we have the top new fantasy audiobooks for July 2025.</p>
+<p>These five Earphones Award-winning fantasies (one a mash-up that defies easy categorization) are dark, funny, thrilling—and irresistible on audio. Single narrators, a duo, and an ensemble are all at their best with these titles, making sure that listeners will be hanging onto every word.</p>
+<p>&#160;</p>
+<p></p>
+<p>&#160;</p>
+<p style="text-align: left;">Joe Abercrombie, <strong>The Devils</strong> (Macmillan Audio), read by  <a href="https://locusmag.com/2025/07/audiofiles-top-new-fantasy-picks-for-july-2025/" class="read-more">...Read More </a></p> 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://locusmag.com/wp-content/uploads/2025/07/the-devils.mp3"></source>
+	<source type="audio/mpeg" src="https://locusmag.com/wp-content/uploads/2025/07/the-ghosts-of-gwendolyn-montgomery.mp3"></source>
+	<source type="audio/mpeg" src="https://locusmag.com/wp-content/uploads/2025/07/anji-kills-a-king.mp3"></source>
+	<source type="audio/mpeg" src="https://locusmag.com/wp-content/uploads/2025/07/the-incandescent.mp3"></source>
+	<source type="audio/mpeg" src="https://locusmag.com/wp-content/uploads/2025/07/of-monsters-of-mainframes.mp3"></source>
+</audio> <a href="https://locusmag.com/wp-content/uploads/2025/07/the-devils.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://locusmag.com/2025/07/audiofiles-top-new-fantasy-picks-for-july-2025/>
+
+---
+
+## The Storytellers: Maureen McHugh Reads the Goldfish Man
+
+date: 2025-07-16, from: Locus Magazine
+
+<p>We are so pleased to present another iteration of The Storytellers! A collection of recorded author readings we want to share with our community. Previously we had Uchechukwu Nwaka reading his story &#8220;Cuffs, Padlocks, and a Splattering of Nail Polish&#8220;, and today we are presenting Maureen McHugh reading from her story &#8220;The Goldfish Man&#8220;! The story appeared in the March/April 2022 Issue of Uncanny Magazine. </p>
+<p>McHugh&#8217;s short story &#8220;The Goldfish  <a href="https://locusmag.com/2025/07/the-storytellers-maureen-mchugh-reads-the-goldfish-man/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/the-storytellers-maureen-mchugh-reads-the-goldfish-man/>
+
+---
+
+## 2025 Dayton Literary Peace Prize Finalists
+
+date: 2025-07-16, from: Locus Magazine
+
+<p>Finalists were announced for the 2025 Dayton Literary Peace Prize on July 14, 2025. Titles and authors of genre interest among the fiction finalists include:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Martyr!</strong>, Kaveh Akbar (Knopf)</li>
+<li><strong>James</strong>, Percival Everett (Doubleday)</li>
+<li><strong>The Women</strong>, Kristin Hannah (St. Martin&#8217;s)</li>
+</ul>
+<p>The prize &#8220;is the first and only annual U.S. literary award recognizing the power of the written word to promote peace.&#8221; The two winners—one in the fiction category, </p></div> <a href="https://locusmag.com/2025/07/2025-dayton-literary-peace-prize-finalists/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/07/2025-dayton-literary-peace-prize-finalists/>
+
+---
+
+## Archive of Unknown Universes by Ruben Reyes Jr.: Review by Alexandra Pierce
+
+date: 2025-07-16, from: Locus Magazine
+
+<p><strong>Archive of Unknown Universes</strong>, Ruben Reyes Jr. (Mariner 978-0-06333-631-5, $28.00, 288pp, hc). July 2025. Cover by Jackie Alvarado.</p>
+<p>Three timelines intertwine in Ruben Reyes Jr.’s de­but novel <strong>Archive of Unknown Universes</strong>. In one 2018, Ana lives in the USA and wants to gather the stories of people who were involved on the FLMN (left-wing, guerilla, and unsuccessful) side of the civil war in El Salvador; she is the  <a href="https://locusmag.com/2025/07/archive-of-unknown-universes-by-ruben-reyes-jr-review-by-alexandra-pierce/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/07/archive-of-unknown-universes-by-ruben-reyes-jr-review-by-alexandra-pierce/>
 
 ---
 

@@ -1,11 +1,285 @@
 ---
 title: snapshots
-updated: 2025-07-16 06:09:24
+updated: 2025-07-16 14:07:43
 ---
 
 # snapshots
 
-(date: 2025-07-16 06:09:24)
+(date: 2025-07-16 14:07:43)
+
+---
+
+## Longplay for Mac
+
+date: 2025-07-16, from: Michael Tsai
+
+Adrian Sch&#246;nig (2023, via Nick Heer): Longplay 1.0 was released in August 2020. I had used the app for years before that myself, but I didn&#8217;t know how it would be received by a wider audience. I loved the kind of feedback that I got which helped me distill the heart of the app: Music [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/16/longplay-for-mac/>
+
+---
+
+## NameQuick 1.9.29
+
+date: 2025-07-16, from: Michael Tsai
+
+NameQuick: AI-powered file renaming that just works.[&#8230;]Rename legal documents, research articles, and scans automatically with clear, informative filenames.Automatically organize invoices and receipts by extracting key details like vendor names, dates, and amounts.Instantly rename photos with descriptive labels derived from image content or metadata for easy reference.[&#8230;]Use local models from Ollama for faster, offline renaming with [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/16/namequick-1-9-29/>
+
+---
+
+## Shortcuts in macOS Tahoe
+
+date: 2025-07-16, from: Michael Tsai
+
+Jason Snell: In macOS 26, there&#8217;s a built-in clipboard manager that can be accessed from the Spotlight interface, and a new set of Shortcuts triggers let you run automations when events occur on your Mac or at specific intervals. Simon B. St&#248;vring: &#8220;Folder&#8221; and &#8220;File&#8221; seem like interesting automation triggers in Shortcuts for Mac. You [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/16/shortcuts-in-macos-tahoe/>
+
+---
+
+## Weak Ubiquitous Linking in Apple’s Apps
+
+date: 2025-07-16, from: Michael Tsai
+
+Luc Beaudoin: If you are like many knowledge workers, on a typical day you access over dozens of information resources. If you have to use search or navigate through folders to get to them, you&#8217;re taking a big hit on productivity. It&#8217;s much easier to access a resource by clicking on a contextually placed link [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/16/weak-ubiquitous-linking-in-apples-apps/>
+
+---
+
+## Join my live video chat Thurs at 10amET with Vicky Ward about her new book, The Idaho Four, and the killer about to be sentenced for their murders. Plus, why the Epstein case won't go away. 
+
+date: 2025-07-16, from: Tina Brown
+
+FRESH HELL Tina Brown's Diary is a reader-supported publication. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/join-my-live-video-chat-thurs-at>
+
+---
+
+## The new LG gram Pro laptops pack big screens and discrete graphics into lightweight bodies
+
+date: 2025-07-16, from: Liliputing
+
+<p>Thin and light laptops have been around for ages at this point, but the LG gram lineup tends to stand out for being thinner and lighter than almost any other models with similar display sizes. Now LG has launched two new models that keep up that trend. The LG gram Pro 17Z90TR is a 3.3 [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lg-electronics-is-the-new-lg-gram-pro-laptops-pack-big-screens-and-discrete-graphics-into-lightweight-bodies-portable-performance-with-the-expansion-of-its-acclaimed-lg-gram-lineup-the-newest-lg-gram/">The new LG gram Pro laptops pack big screens and discrete graphics into lightweight bodies</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lg-electronics-is-the-new-lg-gram-pro-laptops-pack-big-screens-and-discrete-graphics-into-lightweight-bodies-portable-performance-with-the-expansion-of-its-acclaimed-lg-gram-lineup-the-newest-lg-gram/>
+
+---
+
+## common-pile/caselaw_access_project
+
+date: 2025-07-16, updated: 2025-07-16, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://huggingface.co/datasets/common-pile/caselaw_access_project">common-pile/caselaw_access_project</a></strong></p>
+Enormous openly licensed (I believe this is almost all public domain) training dataset of US legal cases:</p>
+<blockquote>
+<p>This dataset contains 6.7 million cases from the Caselaw Access Project and Court Listener. The Caselaw Access Project consists of nearly 40 million pages of U.S. federal and state court decisions and judges’ opinions from the last 365 years. In addition, Court Listener adds over 900 thousand cases scraped from 479 courts.</p>
+</blockquote>
+<p>It's distributed as gzipped newline-delimited JSON.</p>
+<p>This was gathered as part of <a href="https://huggingface.co/blog/common-pile/common-pile-v0p1-announcement">the Common Pile</a> and used as part of the training dataset for the <a href="https://simonwillison.net/2025/Jun/7/comma/">Comma family of LLMs</a>.
+
+    <p><small></small>Via <a href="https://x.com/enricoshippole/status/1945129974375039226">@enricoshippole</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/law">law</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/training-data">training-data</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/16/caselaw-access-project/#atom-everything>
+
+---
+
+## Fell in a hole, got out.
+
+date: 2025-07-16, updated: 2025-07-16, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://medium.com/the-coach-life/fell-in-a-hole-got-out-381356ec8d7f">Fell in a hole, got out.</a></strong></p>
+This is an absolutely fascinating entrepreneurial war story by Medium CEO Tony Stubblebine, describing how they went from losing $2.6 million per month in 2022 to being monthly profitable since mid 2024.</p>
+<blockquote>
+<p>By the middle of 2022, the readers were complaining that Medium was flooded with never ending get-rich-quick schemes and the founder (Ev) was complaining about clickbait and barely warmed over summaries of other people’s content. [...]</p>
+<p>Because of the quality issues, it wasn’t just a matter of cutting costs because if that’s all we did we’d have a profitable business selling access to content that embarrassed us. That might look like business success, but we looked at it as a failure of mission and a way to waste our lives.</p>
+</blockquote>
+<p>Fixing the business was <em>hard</em>. They ended up dropping from 250 to 77 people, breaking the lease (eventually) on a $145k/month office in San Francisco and, most importantly, pulling off a "recap" - a recapitalization, essentially a reset of the cap table.</p>
+<p>I've never seen this process described before. Tony shares a lot of details on how it works, including these notes on how to get existing investors to agree to terms that will aggressively dilute their investment:</p>
+<blockquote>
+<p>Mark Suster made the case that for relationship reasons with other investors, new investors don’t actually want to be the ones to force the recap. They’d rather you do it first and the way to do it is for management to threaten to quit. [...]</p>
+<p>I can’t quite convey to you how far out of my depth that management-walks strategy is. It’s beyond just that I’ve never seen a recap before. I’m just not that aggressive that I could imagine putting an ultimatum to investors over more than $200M worth of investor rights. And yet, the logic is clear and I did eventually accept that without the recap Medium would fail in the future and my work in between would be for naught. [...]</p>
+<p>In order to justify the recap, you have to make the case that you are clearing incentives for the go forward team. That means everyone’s past effort is getting crammed down and only go forward efforts are being rewarded.</p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://kottke.org/25/07/0047147-ceo-tony-stubblebine-shar">Jason Kottke</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/entrepreneurship">entrepreneurship</a>, <a href="https://simonwillison.net/tags/medium">medium</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/16/fell-in-a-hole-got-out/#atom-everything>
+
+---
+
+## AI is helping students be more independent, but the isolation could be career poison
+
+date: 2025-07-16, from: The Markup blog
+
+Chatbots may give students quick answers when they have questions, but they won’t help students form relationships that matter for college and life success. 
+
+<br> 
+
+<https://themarkup.org/artificial-intelligence/2025/07/16/ai-is-helping-students-be-more-independent-but-the-isolation-could-be-career-poison>
+
+---
+
+## ESWIN EBC77 is a RISC-V single-board computer with Ubuntu 24.04 support
+
+date: 2025-07-16, from: Liliputing
+
+<p>The ESWIN EBC77 is a credit card-sized single-board computer that looks like a Raspberry Pi. But instead of an ARM-based processor, this little PC has a 1.8 GHz ESWIN EIC7700X quad-core chip based on RISC-V architecture. Available from Amazon for $149, the EBC77 also features an NPU that delivers up to 20 TOPS of AI performance, a [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/eswin-ebc77-is-a-risc-v-single-board-computer-with-ubuntu-24-04-support/">ESWIN EBC77 is a RISC-V single-board computer with Ubuntu 24.04 support</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/eswin-ebc77-is-a-risc-v-single-board-computer-with-ubuntu-24-04-support/>
+
+---
+
+## The Side Hustle Playbook
+
+date: 2025-07-16, from: Guy Kawasaki blog
+
+Turning passion into profit. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/the-side-hustle-playbook>
+
+---
+
+## Steam Bends to Payment Processors on Porn Games
+
+date: 2025-07-16, from: 404 Media Group
+
+Steam, which has hosted sex games for years, says developers must now comply with the standards of payment processors and financial institutions. 
+
+<br> 
+
+<https://www.404media.co/steam-bends-to-payment-processors-on-porn-games/>
+
+---
+
+## Podcast: The AI Exodus Begins
+
+date: 2025-07-16, from: 404 Media Group
+
+There is a massive exodus happening in the AI world; the 'Save Our Signs' campaign, and why AI won't save the media industry. 
+
+<br> 
+
+<https://www.404media.co/podcast-the-ai-exodus-begins/>
+
+---
+
+## screencasting.com
+
+date: 2025-07-16, from: Chris Coyier blog
+
+I saw that screencasting.com launched recently. It’s training courses all about building high-quality screencasts. Seemed like a great idea to me with the perfect domain name. There is so much video lately in today&#8217;s media and plenty of it involves editing together camera footage, stock clips, screen recordings, etc. The learning curve on doing all [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/07/16/screencasting-com/>
+
+---
+
+## Shipping WebGPU on Windows in Firefox 141
+
+date: 2025-07-16, updated: 2025-07-16, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/">Shipping WebGPU on Windows in Firefox 141</a></strong></p>
+WebGPU is coming to Mac and Linux soon as well:</p>
+<blockquote>
+<p>Although Firefox 141 enables WebGPU only on Windows, we plan to ship WebGPU on Mac and Linux in the coming months, and finally on Android. </p>
+</blockquote>
+<p>From this article I learned that it's already available in <a href="https://www.mozilla.org/en-US/firefox/channel/desktop/">Firefox Nightly</a>:</p>
+<blockquote>
+<p>Note that WebGPU has been available in Firefox Nightly on all platforms other than Android for quite some time.</p>
+</blockquote>
+<p>I tried the most recent Nightly on my Mac and now the <a href="https://huggingface.co/spaces/reach-vb/github-issue-generator-webgpu">Github Issue Generator running locally w/ SmolLM2 &amp; WebGPU</a> demo (<a href="https://simonwillison.net/2024/Nov/29/structured-generation-smollm2-webgpu/">previously</a>) works! Firefox stable gives me an error message saying "Error: WebGPU is not supported in your current environment, but it is necessary to run the WebLLM engine."</p>
+<p>The Firefox implementation is based on <a href="https://github.com/gfx-rs/wgpu">wgpu</a>, an open source Rust WebGPU library.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44579317">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/browsers">browsers</a>, <a href="https://simonwillison.net/tags/firefox">firefox</a>, <a href="https://simonwillison.net/tags/mozilla">mozilla</a>, <a href="https://simonwillison.net/tags/rust">rust</a>, <a href="https://simonwillison.net/tags/webgpu">webgpu</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/16/webgpu-firefox/#atom-everything>
+
+---
+
+## The Real Future of AI Is Ordering Mid Chicken at Bojangles
+
+date: 2025-07-16, from: 404 Media Group
+
+This month I ordered a meal at the Bojangles drive-thru in South Carolina, which is now using AI. This is how AI becomes the background noise of the world. 
+
+<br> 
+
+<https://www.404media.co/the-real-future-of-ai-is-ordering-mid-chicken-at-bojangles/>
+
+---
+
+## Documenting what you're willing to support (and not)
+
+date: 2025-07-16, updated: 2025-07-16, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://rachelbythebay.com/w/2025/07/07/support/">Documenting what you&#x27;re willing to support (and not)</a></strong></p>
+Devious company culture hack from Rachel Kroll:</p>
+<blockquote>
+<p>At some point, I realized that if I wrote a wiki page and documented the things that we were willing to support, I could wait about six months and then it would be like it had always been there. Enough people went through the revolving doors of that place such that six months' worth of employee turnover was sufficient to make it look like a whole other company. All I had to do was write it, wait a bit, then start citing it when needed.</p>
+</blockquote>
+<p>You can have an unreasonable amount of influence by being the person who <em>writes stuff down</em>.</p>
+<p>This reminded me of Charity Majors' <a href="https://simonwillison.net/2018/Dec/2/the-golden-path/">Golden Path</a> process.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44543386">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/documentation">documentation</a>, <a href="https://simonwillison.net/tags/rachel-kroll">rachel-kroll</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/16/documenting/#atom-everything>
+
+---
+
+## 3D Printing Patterns Might Make Ghost Guns More Traceable Than We Thought
+
+date: 2025-07-16, from: 404 Media Group
+
+Early studies show that 3D printers may leave behind similar toolmarks on repeated prints. 
+
+<br> 
+
+<https://www.404media.co/3d-printing-patterns-might-make-ghost-guns-more-traceable-than-we-thought/>
 
 ---
 
@@ -56,6 +330,76 @@ The next Fed chair will be an obedient partisan
 <br> 
 
 <https://paulkrugman.substack.com/p/hawks-doves-and-lapdogs>
+
+---
+
+## Looking up DOI metadata
+
+date: 2025-07-16, from: Ed Summers blog, Inkdroid
+
+<p>
+I recently spent some time looking up metadata for DOIs in the <a
+href="https://www.crossref.org/documentation/retrieve-metadata/rest-api/">Crossref
+API</a> at work. Here a few takeaways in case you ever need to do it
+too:
+</p>
+<ul>
+<li>
+it looks like the most you can look up at a time is 49 using the
+<code>https://api.crossref.org/works/?filter=doi1,doi2,…</code>
+endpoint.
+</li>
+<li>
+when looking up 40 at a time the responses take on average 8.08 seconds
+to return (std dev 5.97)
+</li>
+<li>
+if any of your DOIs fail to match this regex the entire request will
+fail with a HTTP 400 error <code>r”^doi:10.)/.+$“</code>
+</li>
+<li>
+the server can return spurious HTTP 500 errors, which when retried
+succeed just fine
+</li>
+<li>
+apparently you can do up to <a
+href="https://api.crossref.org/swagger-ui/index.html#limits">50 requests
+per second</a> to the API?! I only did one at a time, and put a one
+second sleep in between since I wasn’t in a particular rush, and wanted
+to look up 500,000 DOIs without pissing anyone off.
+</li>
+</ul>
+<p>
+<a href="/images/crossref-api.png"><img class="img-fluid" src="/images/crossref-api.png"></a>
+</p>
+<p>
+Your mileage will vary, as these are just observations at a point in
+time, and the state of the service is guaranteed to change over time.
+</p>
+<p>
+Of course you could choose to bypass the REST API altogether and work
+with the <a
+href="https://www.crossref.org/learning/public-data-file/">bulk
+download</a>. But in the situation we have at work we want to be able to
+update our data on a weekly basis, so the API makes more sense.
+</p>
+ 
+
+<br> 
+
+<https://inkdroid.org/2025/07/16/crossref/>
+
+---
+
+## Exit the Wu
+
+date: 2025-07-16, updated: 2025-07-16, from: Anil Dash
+
+ 
+
+<br> 
+
+<https://anildash.com/2025/07/16/exit_the_wu/>
 
 ---
 

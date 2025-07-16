@@ -1,11 +1,147 @@
 ---
 title: north america
-updated: 2025-07-16 06:09:13
+updated: 2025-07-16 14:07:34
 ---
 
 # north america
 
-(date: 2025-07-16 06:09:13)
+(date: 2025-07-16 14:07:34)
+
+---
+
+## Will capitalism last forever? Jared Bernstein and John Cassidy on Capitalism and Its Critics
+
+date: 2025-07-16, from: The Contrarian
+
+"Technocracy isn't enough. You need good policies...But you also need a political basis for any sort of lasting economic movement" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168484424/3ce63501e153c9bf21b5b61ebe7ee6d3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168484424/3ce63501e153c9bf21b5b61ebe7ee6d3.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/will-capitalism-last-forever-jared>
+
+---
+
+## GOOD TROUBLE LIVE SPECIAL
+
+date: 2025-07-16, from: The Contrarian
+
+If there's ever been a time to make good trouble, it's now. 
+
+<br> 
+
+<https://contrarian.substack.com/p/good-trouble-live-special>
+
+---
+
+## Congress could protect democracy—if it wanted to
+
+date: 2025-07-16, from: The Contrarian
+
+Thi week's 'rescission' scramble shows exactly why our elected officials need to stand up to tyrants. 
+
+<br> 
+
+<https://contrarian.substack.com/p/congress-could-protect-democracyif>
+
+---
+
+## Democrats are the father
+
+date: 2025-07-16, from: The Contrarian
+
+A cartoon by Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/democrats-are-the-father>
+
+---
+
+##  Why They’re Protecting Jeffrey Epstein’s Secrets 
+
+date: 2025-07-16, from: The Lever News
+
+ Journalist Julie K. Brown broke open the cover-up of Epstein’s sex trafficking scheme — and she says the government is still hiding the truth.  
+
+<br> 
+
+<https://www.levernews.com/why-theyre-protecting-jeffrey-epsteins-secrets/>
+
+---
+
+## Media gives crazy legitimacy to Trump’s ‘assurances’
+
+date: 2025-07-16, from: The Contrarian
+
+Here&#8217;s an idea, journalists: How about reporting his track record? 
+
+<br> 
+
+<https://contrarian.substack.com/p/media-gives-crazy-legitimacy-to-trumps>
+
+---
+
+## Menopause finally gets a seat at the table
+
+date: 2025-07-16, from: The Contrarian
+
+A hearing on Thursday will look at hormonal treatments. Finally. 
+
+<br> 
+
+<https://contrarian.substack.com/p/menopause-finally-gets-a-seat-at>
+
+---
+
+##  Buckle Up: Delta’s Expanded Surge Pricing Could Signal Higher Fares 
+
+date: 2025-07-16, from: The Lever News
+
+ Airline ticket prices are rising faster than inflation, and now Delta is scaling up its artificial intelligence-powered dynamic pricing to further gouge its customers.  
+
+<br> 
+
+<https://www.levernews.com/buckle-up-deltas-expanded-surge-pricing-could-signal-higher-fares/>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-07-16, from: The Contrarian
+
+Wednesday: Protests in California and Florida, a Tesla Takedown in the U.K., planning for tomorrow's Good Trouble rallies, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Fascism and the English Language
+
+date: 2025-07-16, from: The Contrarian
+
+Telling the Truth about Attacks on Immigrants 
+
+<br> 
+
+<https://contrarian.substack.com/p/fascism-and-the-english-language-132>
+
+---
+
+## Coffee with Contrarians 07/16
+
+date: 2025-07-16, from: The Contrarian
+
+A recording from Coffee with Contrarians LIVE 7/16 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168473086/514fd15c91a2a52e302ec936dee61086.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168473086/514fd15c91a2a52e302ec936dee61086.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/coffee-with-contrarians-0716>
 
 ---
 
@@ -158,18 +294,6 @@ date: 2025-07-15, from: The Contrarian
 </audio> <a href="https://api.substack.com/feed/podcast/168316898/39a99a7989b0597cf1fd2af7c2ee1ed8.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/justin-wolfers-trump-likes-tariffs>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-07-15, from: The Contrarian
-
-Tuesday: Anti-ICE protests in Michigan, California, and Illinois, anti-Trump protests in Brazil, Tesla Takedowns continue, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

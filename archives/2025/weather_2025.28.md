@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2025-07-16 06:09:17
+updated: 2025-07-16 14:07:38
 ---
 
 # weather
 
-(date: 2025-07-16 06:09:17)
+(date: 2025-07-16 14:07:38)
 
 ---
 
 ## There are no tropical cyclones at this time.
 
-date: 2025-07-17, from: Central Pacific Basin Tropical Cyclones
+date: 2025-07-18, from: Central Pacific Basin Tropical Cyclones
 
-No tropical cyclones as of Wed, 16 Jul 2025 13:00:06 GMT 
+No tropical cyclones as of Wed, 16 Jul 2025 21:02:24 GMT 
 
 <br> 
 
@@ -23,13 +23,189 @@ No tropical cyclones as of Wed, 16 Jul 2025 13:00:06 GMT
 
 ## There are no tropical cyclones at this time.
 
-date: 2025-07-17, from: Eastern Pacific Basin GIS Data
+date: 2025-07-18, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Wed, 16 Jul 2025 13:00:06 GMT 
+No tropical cyclones as of Wed, 16 Jul 2025 21:02:24 GMT 
 
 <br> 
 
 <https://www.nhc.noaa.gov/gis/>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2025-07-16, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0230 PM CDT Wed Jul 16 2025
+
+Valid 171200Z - 181200Z
+
+Monsoon moisture across the Great Basin and Upper-Colorado River
+Basin will remain largely elevated at mid-levels with a sufficiently
+dry sub cloud layer to facilitate evaporation and subsequent minimal
+surface rainfall from high-based thunderstorms over higher terrain.
+Lightning ignition potential is lower across Arizona and New Mexico
+where deeper moisture profiles will promote more wetting rain cores.
+
+..Williams.. 07/16/2025
+
+.PREV DISCUSSION... /ISSUED 0142 AM CDT Wed Jul 16 2025/
+
+...Synopsis...
+Moisture will increase on D2/Thursday across the Southwest with a
+cut off low off the coast of Baja California. This moisture aided by
+upper-level forcing will bring an increase in thunderstorm activity
+across much of Arizona into southern Utah with increasing chances
+for wetting rainfall. On the fringes of the deeper moisture plume,
+isolated dry thunderstorms will be possible across portions of
+western Colorado into Utah, eastern Nevada, southern Idaho, and
+southwestern Wyoming. As such, a broad area of isolated dry
+thunderstorms was maintained with this outlook.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2025-07-16, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Wed Jul 16 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>1. Northeastern and north-central Gulf (AL93):<br>Surface and radar observations indicate that a westward-moving <br>broad area of low pressure is located along the coast of the <br>Florida Panhandle near Panama City. The associated shower and <br>thunderstorm activity remains disorganized and located mainly south <br>and southwest of the center. This system is forecast to continue <br>moving westward across the northern portion of the Gulf through <br>tonight, reaching the coast of Louisiana by Thursday. If this system <br>moves far enough offshore, environmental conditions over the Gulf <br>appear generally favorable for additional development, and a <br>tropical depression could form over the next day or two before <br>the system moves fully inland by the end of the week.<br><br>Regardless of development, heavy rainfall could produce localized <br>flash flooding over portions of Florida through through today.  <br>Heavy rainfall could also cause flash flooding for portions of the <br>north-central Gulf Coast beginning late today and continuing through <br>Friday. For additional information, please refer to products issued <br>by the Weather Prediction Center and your local National Weather <br>Service office.<br>* Formation chance through 48 hours...medium...40 percent.<br>* Formation chance through 7 days...medium...40 percent.<br><br><br><br>Forecaster Beven<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Central North Pacific Tropical Weather Outlook
+
+date: 2025-07-16, from: Central Pacific Basin Tropical Cyclones
+
+000<br />ACPN50 PHFO 161715<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />800 AM HST Wed Jul 16 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Gibbs<br />NNNN 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2025-07-16, from: Eastern Pacific Basin Tropical Cyclones
+
+000<br />ABPZ20 KNHC 161715<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Wed Jul 16 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Gibbs 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2025-07-16, from: Eastern Pacific Tropical Weather Outlook
+
+000<br />ABPZ20 KNHC 161715<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Wed Jul 16 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Gibbs 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2025-07-16, from: Central Pacific Tropical Weather Outlook
+
+000<br />ACPN50 PHFO 161715<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />800 AM HST Wed Jul 16 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Gibbs<br />NNNN 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2025-07-16, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1152 AM CDT Wed Jul 16 2025
+
+Valid 161700Z - 171200Z
+
+...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF WESTERN COLORADO INTO
+EASTERN UTAH...
+
+...Great Basin...
+An upward trend of dewpoints and relative humidity shown from recent
+surface observations across portions of southern NV and southwestern
+UT should limit fire weather threat for the area today as monsoon
+moisture increases from the south. Elevated highlights remain across
+east-central NV and west-central UT where breezy winds, daytime
+relative humidity at or below 15 percent and dry fuels align.
+
+Otherwise, a broad dry thunderstorm threat was maintained for much
+of the Great Basin and Upper Colorado River Basin this afternoon.
+More concentrated high-based thunderstorms with minimal rainfall are
+expected across the Western Slope and eastern Utah where scattered
+dry thunderstorm highlights remain.
+
+..Williams.. 07/16/2025
+
+.PREV DISCUSSION... /ISSUED 0141 AM CDT Wed Jul 16 2025/
+
+...Synopsis...
+A departing mid-level trough will bring continued breezy conditions
+across portions of southern Nevada into west-central Utah. This will
+overlap with relative humidity reductions around 10-15 mph bringing
+Elevated fire weather conditions. In addition to the background
+flow, nearby high based convection will likely bring gusty and
+erratic winds.
+
+...Dry Thunderstorms...
+A broad area of dry thunderstorms is expected across northern AZ
+into western CO, UT, southern WY, and portions of eastern NV. Across
+western Colorado into eastern Utah, forcing for ascent with the
+upper-level trough will aid in more scattered coverage of
+thunderstorm activity. Sounding profiles within this region show
+elevated instability amid very dry low-levels which will promote
+high based convection with efficient lightning production and little
+to no measurable precipitation. Fuels within this region remain
+critically dry with several ongoing fires.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
 
 ---
 
@@ -169,74 +345,6 @@ to introduce a Marginal Risk with this update.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2025-07-16, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Wed Jul 16 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>1. Northeastern and north-central Gulf (AL93):<br>Surface and radar observations indicate that a broad area of low <br>pressure is moving westward across the Florida Panhandle between <br>Tallahassee and Panama City. The associated shower and thunderstorm <br>activity is disorganized and located mainly south and southwest of <br>the center. This system is forecast to continue moving westward, and <br>could emerge or redevelop over the far northeastern to north-central <br>portion of the Gulf later today or tonight, reaching the coast of <br>Louisiana by Thursday. If this system moves far enough offshore, <br>environmental conditions over the Gulf appear generally favorable <br>for additional development, and a tropical depression could still <br>form over the next couple of days before the system moves fully <br>inland by the end of the week.<br><br>Regardless of development, heavy rainfall could produce localized <br>flash flooding over portions of Florida through through today.  <br>Heavy rainfall could also cause flash flooding for portions of the <br>north-central Gulf Coast beginning late today and continuing through <br>Friday. For additional information, please refer to products issued <br>by the Weather Prediction Center and your local National Weather <br>Service office.<br>* Formation chance through 48 hours...medium...40 percent.<br>* Formation chance through 7 days...medium...40 percent.<br><br><br><br>Forecaster Beven<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2025-07-16, from: Central Pacific Basin Tropical Cyclones
-
-593 <br />ACPN50 PHFO 161130<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />200 AM HST Wed Jul 16 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Gibbs<br />NNNN 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Central Pacific Tropical Weather Outlook
-
-date: 2025-07-16, from: Central Pacific Tropical Weather Outlook
-
-593 <br />ACPN50 PHFO 161130<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />200 AM HST Wed Jul 16 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Gibbs<br />NNNN 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2025-07-16, from: Eastern Pacific Basin Tropical Cyclones
-
-000<br />ABPZ20 KNHC 161130<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Wed Jul 16 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Gibbs 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2025-07-16, from: Eastern Pacific Tropical Weather Outlook
-
-000<br />ABPZ20 KNHC 161130<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Wed Jul 16 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Gibbs 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
 
 ---
 
@@ -709,58 +817,6 @@ few cumulonimbi with maximum tops to 500. Mean storm motion vector
 
 ---
 
-## SPC Day 2 Fire Weather Outlook
-
-date: 2025-07-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0241 PM CDT Tue Jul 15 2025
-
-Valid 161200Z - 171200Z
-
-Only minor adjustments were made to previous forecast highlights. A
-broad dry thunderstorm threat will remain across portions of the
-Great Basin, Utah and Western Slope. Thermodynamic profiles remain
-supportive of high-based thunderstorms with dry sub cloud layer
-evaporation minimizing appreciable rainfall while increasing
-potential new lightning ignitions over critically dry fuels. Dry and
-breezy conditions across eastern NV and west-central UT will promote
-an elevated fire weather threat amid fuel ERC values around the 97th
-percentile, supporting fire spread.
-
-..Williams.. 07/15/2025
-
-.PREV DISCUSSION... /ISSUED 0155 AM CDT Tue Jul 15 2025/
-
-...Synopsis...
-A departing mid-level trough will bring continued breezy conditions
-and Elevated fire weather concerns across portions of southeastern
-Nevada into western Utah on Wednesday. Afternoon relative humidity
-reductions to 10-15 percent will overlap winds 10-15 mph in these
-regions. Fuels remain critically dry with recent dry lightning and
-potential for quick spread of new fires.
-
-...Dry Thunderstorms...
-A broad area of dry thunderstorm activity will be possible again
-from northern AZ into western CO, UT, southern WY, and portions of
-eastern NV. High based thunderstorms are expected to continue to
-bring little to no rainfall amid critically dry fuels. This will
-support potential for new lightning ignitions.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
 ## SPC Jul 15, 2025 1930 UTC Day 3 Severe Thunderstorm Outlook
 
 date: 2025-07-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -813,85 +869,6 @@ probabilities for now.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2025-07-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook CORR 1
-NWS Storm Prediction Center Norman OK
-1235 PM CDT Tue Jul 15 2025
-
-Valid 151700Z - 161200Z
-
-CORRECTED FOR ERRANT LINE IN SOUTHERN TEXAS
-
-...CRITICAL FIRE WEATHER AREA FOR NORTHEASTERN NEVADA...NORTHWESTERN
-UTAH AND SOUTH CENTRAL IDAHO...
-...CRITICAL FIRE WEATHER AREA FOR EASTERN NEVADA INTO WESTERN UTAH
-AND NORTHERN ARIZONA...
-
-...Dry Thunderstorms...
-A mid-level trough and attendant increased mid-level flow will
-provide support for more sustained convection across portions
-northeastern NV, far northwestern UT and south-central ID this
-afternoon. High-based thunderstorm motions of 25-30 mph will limit
-rainfall to less than 0.10 inch while also bringing potential new
-ignitions over a very dry fuelscape in addition to gusty and erratic
-outflow winds from downbursts. Less concentrated but still impactful
-elevated thunderstorms will bring new ignition potential to portions
-of the Four Corners area, much of UT, northeastern NV, southeastern
-ID and western WY.
-
-Otherwise, dry and breezy conditions across the Snake River Plain
-and the Great Basin will bring elevated fire weather conditions to
-the region today. A critical fire weather threat remains for
-portions of southeast NV, southwestern UT and the Arizona Strip.
-
-..Williams.. 07/15/2025
-
-.PREV DISCUSSION... /ISSUED 0154 AM CDT Tue Jul 15 2025/
-
-...Synopsis...
-An active day for fire weather is expected across the Southwest and
-Great Basin today. A deepening mid-level wave will bring an increase
-in winds and potential for dry thunderstorms across the Great Basin
-today. Elevated to Critical conditions can be expected in portions
-of eastern Nevada, western Utah, northern Arizona and southern
-Idaho.
-
-...Eastern Nevada, western Utah, northern Arizona...
-West to southwesterly flow around 15-20 mph will overlap afternoon
-relative humidity reductions to 10-15 percent across portions of
-eastern NV, western UT, and northern AZ. Fuels in these regions are
-critically dry, with notable increase in fire activity over the last
-couple of weeks. In addition to background surface winds, nearby
-thunderstorm activity may further produce gusty and erratic outflow
-winds.
-
-...Dry Thunderstorms...
-A broad area of dry thunderstorms will be possible across portions
-of northern Arizona into western Colorado, Utah, far southern Idaho,
-western Wyoming, and Nevada. Moisture varies across these regions
-with potential for a mix of wet/dry storms in a few locations.
-Moisture remains mostly mid-level and with increased storm motions
-expected with the passage of the mid-level trough, it is likely that
-rainfall will be limited and local with new lightning ignitions
-possible. Fuels are critically dry with an uptick in fire activity
-over last several weeks.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
 
 ---
 

@@ -1,11 +1,181 @@
 ---
 title: socal north
-updated: 2025-07-16 06:09:13
+updated: 2025-07-16 14:07:35
 ---
 
 # socal north
 
-(date: 2025-07-16 06:09:13)
+(date: 2025-07-16 14:07:35)
+
+---
+
+## Former LA museum director wins Getty Prize; NPR, LAist and KCRW to share grant
+
+date: 2025-07-16, updated: 2025-07-16, from: The LAist
+
+Hammer Museum Director Emeritus Ann Philbin has chosen the public radio stations for the $500,000 pay-it-forward grant. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/former-la-museum-director-wins-getty-prize-npr-laist-and-kcrw-to-share-grant>
+
+---
+
+## School districts must inform students, families about free money for college
+
+date: 2025-07-16, updated: 2025-07-16, from: The LAist
+
+Starting this school year, school districts must provide information about CalKIDS, the California Kids Investment and Development Savings program. 
+
+<br> 
+
+<https://laist.com/news/education/school-districts-must-inform-students-families-about-free-money-for-college>
+
+---
+
+## Body found under 91 Freeway in North Long Beach; police are investigating
+
+date: 2025-07-16, from: Longbeach Post
+
+<figure><img width="1024" height="587" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-1024x587.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-1024x587.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-300x172.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-768x440.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-188x108.jpg 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-1200x688.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-400x229.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D.jpg 1295w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>We'll update this as we get further information.</p>
+<p>The post <a href="https://lbpost.com/news/crime/body-found-91-freeway-la-river-long-beach-police">Body found under 91 Freeway in North Long Beach; police are investigating</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/body-found-91-freeway-la-river-long-beach-police>
+
+---
+
+## Thousands of Californians lost work after LA immigration raids. Citizens did too
+
+date: 2025-07-16, updated: 2025-07-16, from: The LAist
+
+A new report from UC Merced shows Latino and white people especially lost work after the Trump administration escalated immigration enforcement in L.A. 
+
+<br> 
+
+<https://laist.com/news/thousands-of-californians-lost-work-after-la-immigration-raids-citizens-did-too>
+
+---
+
+## City of Santa Clarita Mayor Bill Miranda Official Statement on the Passing of Pastor John MacArthur
+
+date: 2025-07-16, from: City of Santa Clarita
+
+<p>“I am deeply saddened to learn of the passing of Pastor John MacArthur. I had the honor of knowing him personally and always respected his devoted commitment to faith, education and service. Pastor MacArthur was deeply loved by the Santa Clarita community. His visionary leadership at Grace Community Church and The Master’s University touched countless [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/16/city-of-santa-clarita-mayor-bill-miranda-official-statement-on-the-passing-of-pastor-john-macarthur/">City of Santa Clarita Mayor Bill Miranda Official Statement on the Passing of Pastor John MacArthur</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/16/city-of-santa-clarita-mayor-bill-miranda-official-statement-on-the-passing-of-pastor-john-macarthur/>
+
+---
+
+## Historic Ocean Center Building in downtown Long Beach is for sale after $50 million renovation
+
+date: 2025-07-16, from: Longbeach Post
+
+<figure><img width="1024" height="605" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/09130023/03OCT23-OceanGate-4435-1024x605.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/09130023/03OCT23-OceanGate-4435-1024x605.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/09130023/03OCT23-OceanGate-4435-300x177.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/09130023/03OCT23-OceanGate-4435-768x454.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/09130023/03OCT23-OceanGate-4435-183x108.jpg 183w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/09130023/03OCT23-OceanGate-4435-1536x907.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/09130023/03OCT23-OceanGate-4435-1200x709.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/09130023/03OCT23-OceanGate-4435-1568x926.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/09130023/03OCT23-OceanGate-4435-400x236.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/09130023/03OCT23-OceanGate-4435.jpg 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Originally constructed in 1929, the building has been converted into luxury apartments with a penthouse renting for $5,995 a month.</p>
+<p>The post <a href="https://lbpost.com/news/place/real-estate/ocean-center-building-for-sale-long-beach-renovation">Historic Ocean Center Building in downtown Long Beach is for sale after $50 million renovation</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/place/real-estate/ocean-center-building-for-sale-long-beach-renovation>
+
+---
+
+## California joins lawsuit seeking the release of $6.8 billion in school funds
+
+date: 2025-07-16, updated: 2025-07-16, from: The LAist
+
+The funds have already been allocated by Congress and budgeted by school districts for the upcoming school year. 
+
+<br> 
+
+<https://laist.com/news/education/california-joins-lawsuit-seeking-the-release-of-6-8-billion-in-school-funds>
+
+---
+
+## June cargo dropped sharply, but Long Beach Port expects a rebound as more tariffs loom
+
+date: 2025-07-16, from: Longbeach Post
+
+<figure><img width="1024" height="555" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-1024x555.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-1024x555.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-300x163.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-768x416.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-400x217.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>"We're anticipating a cargo surge in July as retailers stock up on goods ordered during the 90-day pause placed on tariffs and retaliatory tariffs," Port CEO Mario Cordero said.</p>
+<p>The post <a href="https://lbpost.com/news/business/trade-transportation/june-cargo-dropped-sharply-but-long-beach-port-expects-a-rebound-as-more-tariffs-loom">June cargo dropped sharply, but Long Beach Port expects a rebound as more tariffs loom</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/trade-transportation/june-cargo-dropped-sharply-but-long-beach-port-expects-a-rebound-as-more-tariffs-loom>
+
+---
+
+## California joins lawsuit seeking the release of $6.8 billion in school funds
+
+date: 2025-07-16, from: Longbeach Post
+
+<figure><img width="894" height="595" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16092935/bonta-hate-crimes-screenshot-2025-07-16-at-92839am-543276-qrurfdua-161495-2JWhcTfa.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16092935/bonta-hate-crimes-screenshot-2025-07-16-at-92839am-543276-qrurfdua-161495-2JWhcTfa.png 894w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16092935/bonta-hate-crimes-screenshot-2025-07-16-at-92839am-543276-qrurfdua-161495-2JWhcTfa-300x200.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16092935/bonta-hate-crimes-screenshot-2025-07-16-at-92839am-543276-qrurfdua-161495-2JWhcTfa-768x511.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16092935/bonta-hate-crimes-screenshot-2025-07-16-at-92839am-543276-qrurfdua-161495-2JWhcTfa-162x108.png 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16092935/bonta-hate-crimes-screenshot-2025-07-16-at-92839am-543276-qrurfdua-161495-2JWhcTfa-400x266.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>An email notifying schools of the freeze said the grants — which fund things like support for English learners, teacher training and after-school programs — were not “in accordance with the President’s priorities.”</p>
+<p>The post <a href="https://lbpost.com/news/education/california-joins-lawsuit-seeking-the-release-of-6-8-billion-in-school-funds">California joins lawsuit seeking the release of $6.8 billion in school funds</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/california-joins-lawsuit-seeking-the-release-of-6-8-billion-in-school-funds>
+
+---
+
+## Do you want federal money for an EV or home solar? Time is running out — fast
+
+date: 2025-07-16, updated: 2025-07-16, from: The LAist
+
+Federal tax credits for rooftop solar, heat pumps and other energy-efficient technologies are going away at the end of the year. Here's what consumers should know. 
+
+<br> 
+
+<https://laist.com/news/do-you-want-federal-money-for-ev-home-solar-time-is-running-out-fast>
+
+---
+
+## It's my second year raising monarchs. Here's what happened when a devastating parasite took hold
+
+date: 2025-07-16, updated: 2025-07-16, from: The LAist
+
+It's been another year of both discouraging and rewarding results. Here are some lessons I've learned, especially when it comes to a common parasite that can infect the insects. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/its-my-second-year-raising-monarchs-heres-what-happened-when-a-devastating-parasite-took-hold>
+
+---
+
+## Senate set to debate cuts to NPR, PBS and foreign aid
+
+date: 2025-07-16, updated: 2025-07-16, from: The LAist
+
+The Senate voted by a razor-thin margin late Tuesday to advance debate on a package of funding cuts that would claw back $1.1 billion previously allocated to the Corporation for Public Broadcasting. 
+
+<br> 
+
+<https://laist.com/news/senate-set-to-debate-cuts-to-npr-pbs-and-foreign-aid>
+
+---
+
+## Another cool day for SoCal before the heat ramps up again
+
+date: 2025-07-16, updated: 2025-07-16, from: The LAist
+
+The SoCal cooling trend continues, but forecasters are already seeing a rise in temperatures later this weekend. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/another-cool-day-for-socal-before-the-heat-ramps-up-again>
 
 ---
 
@@ -37,7 +207,7 @@ The troops have mostly been tasked with protecting federal buildings and assisti
 
 date: 2025-07-15, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15152514/101-pch-07-02-25-002-groundbreaking-811473-rveo8u0u-712901-4BSOem0Q-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>City officials celebrated the groundbreaking of The 101, a 52-unit housing project in South Wrigley, as another milestone in curbing a rising housing crisis that continues to cripple the region. </p>
 <p>The post <a href="https://lbpost.com/news/place/affordable-housing-project-in-south-wrigley-starts-construction-to-finish-late-2026">Affordable housing project in South Wrigley starts construction, to finish late 2026</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -64,7 +234,7 @@ In Orange County, where the local CARE Court refuses to force people with psycho
 
 date: 2025-07-15, from: Longbeach Post
 
-<figure><img width="1024" height="696" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh-1024x696.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh-1024x696.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh-300x204.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh-768x522.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh-400x272.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="696" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh-1024x696.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh-1024x696.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh-300x204.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh-768x522.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh-400x272.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/15142521/img-9053-848715-njxq1m6j-577930-pChMedyh.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The federal government branded him among the ‘Worst of the Worst Criminal Illegal Aliens,’ but did not address questions about his treatment in custody.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/pedro-davalos-deported-ice-insulin-long-beach-worst-of-wors">Long Beach man says he was deported after a traffic stop, denied insulin while in ICE custody</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

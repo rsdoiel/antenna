@@ -1,11 +1,109 @@
 ---
 title: pacific
-updated: 2025-07-16 06:09:14
+updated: 2025-07-16 14:07:35
 ---
 
 # pacific
 
-(date: 2025-07-16 06:09:14)
+(date: 2025-07-16 14:07:35)
+
+---
+
+## 'Building deterrence': PNG to host part of Australia's largest military exercise
+
+date: 2025-07-16, from: 
+
+Exercise Talisman Sabre, which began its eleventh iteration on 13 July, has over 30,000 personnel from 19 countries taking part, including the Pacific. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567151/building-deterrence-png-to-host-part-of-australia-s-largest-military-exercise>
+
+---
+
+## French Overseas Minister Manuel Valls begins first official visit to French Polynesia
+
+date: 2025-07-16, from: 
+
+The French Minister for Overseas landed in French Polynesia on Wednesday (Tuesday local time) for his first official visit to the territory. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567144/french-overseas-minister-manuel-valls-begins-first-official-visit-to-french-polynesia>
+
+---
+
+## New Manu Samoa head coach eyes strong start against Scotland ahead of PNC campaign
+
+date: 2025-07-16, from: 
+
+Lemalu Tusi Pisi wants Friday night's one-off Test match at Eden Park to set the tone for the Samoans as they set their sights firmly on securing a place at 2027 Rugby World Cup. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566998/new-manu-samoa-head-coach-eyes-strong-start-against-scotland-ahead-of-pnc-campaign>
+
+---
+
+## New Caledonia’s politicians to get police protection following death threats
+
+date: 2025-07-16, from: 
+
+New Caledonian politicians who inked their commitment to a deal with France on 12 July will be offered special police protection, following threats uttered especially on social networks. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567134/new-caledonia-s-politicians-to-get-police-protection-following-death-threats>
+
+---
+
+## Image of the Week: Nepal
+
+date: 2025-07-16, from: University of Hawaiʻi News
+
+<p>This week’s Image of the Week is from <abbr>UH</abbr> Mānoa Professor Jan Brunson.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/16/image-of-the-week-nepal/">Image of the Week: Nepal</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/16/image-of-the-week-nepal/>
+
+---
+
+## Stronger silicone bonds could produce stronger robots, medical devices
+
+date: 2025-07-16, from: University of Hawaiʻi News
+
+<p>The research offers helpful guidance for building silicone devices using both molding and <abbr>3D</abbr> printing.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/16/stronger-silicone-bonds-innovation/">Stronger silicone bonds could produce stronger robots, medical devices</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/16/stronger-silicone-bonds-innovation/>
+
+---
+
+## Guam, CNMI marked as ‘critical habitats’ for threatened corals species
+
+date: 2025-07-16, from: Pacific Island Times
+
+The final rule, issued by the National Oceanic and Atmospheric Administration, states that 18 specific marine habitats in American Samoa, Guam, the CNMI, the Pacific Remote Island Areas, and Hawaii—encompassing a total of about 237 sq km—are named critical habitats pursuant to the Endangered Species Act. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-cnmi-marked-as-critical-habitats-for-threatened-corals-species>
+
+---
+
+## House panel's markup of defense policy bill authorizes $1.8B spending for Guam 
+
+date: 2025-07-16, from: Pacific Island Times
+
+This markup sends a clear message: Guam is not just a strategic location, we are a strategic priority,” Guam Del. James Moylan said. “We’re seeing a nearly $400 million increase across (military construction) and Guam defense system investments.” 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/house-panel-s-markup-of-defense-policy-bill-authorizes-1-8b-spending-for-guam>
 
 ---
 
@@ -285,6 +383,20 @@ The state is offering Barbara Malimali an out-of-court settlement after her lawy
 
 ---
 
+## Samoa Campus hosts enriching Pacific Engagement Cultural Immersion Program (PECIP) for Australian universities
+
+date: 2025-07-16, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific’s (USP) Samoa Campus, in close collaboration with its dedicated...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-samoa-campus-hosts-enriching-pacific-engagement-cultural-immersion-program-pecip-for-australian-universities/">Samoa Campus hosts enriching Pacific Engagement Cultural Immersion Program (PECIP) for Australian universities</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-samoa-campus-hosts-enriching-pacific-engagement-cultural-immersion-program-pecip-for-australian-universities/>
+
+---
+
 ## Bougainville election: More than 400 candidates vie for parliament
 
 date: 2025-07-16, from: 
@@ -431,18 +543,6 @@ The post <a href="https://www.hawaii.edu/news/2025/07/15/htac-conference-2025/">
 <br> 
 
 <https://www.hawaii.edu/news/2025/07/15/htac-conference-2025/>
-
----
-
-## New Manu Samoa head coach eyes strong start against Scotland ahead of PNC campaign
-
-date: 2025-07-15, from: 
-
-Lemalu Tusi Pisi wants Friday night's one-off Test match at Eden Park to set the tone for the Samoans as they set their sights firmly on securing a place at 2027 Rugby World Cup. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/566998/new-manu-samoa-head-coach-eyes-strong-start-against-scotland-ahead-of-pnc-campaign>
 
 ---
 

@@ -1,11 +1,199 @@
 ---
 title: home
-updated: 2025-07-16 06:09:20
+updated: 2025-07-16 14:07:40
 ---
 
 # home
 
-(date: 2025-07-16 06:09:20)
+(date: 2025-07-16 14:07:40)
+
+---
+
+## Repairing Vinyl Plank Flooring: A Step-by-Step Guide
+
+date: 2025-07-16, from: Family Handyman Blog
+
+<p>Fix damaged vinyl floor planks with these quick and easy repair tips.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-repair-vinyl-plank-flooring/">Repairing Vinyl Plank Flooring: A Step-by-Step Guide</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-repair-vinyl-plank-flooring/>
+
+---
+
+## California State Fair Honors Generations of Agricultural Legacy with 2025 Ag Heritage Awards
+
+date: 2025-07-16, from: Calfifornia Dept. Aggriculture blog
+
+From a State Fair News Release The California State Fair proudly recognizes the legacy, resilience, and contributions of multi-generational farming and ranching families as part of the 2025 Agricultural Heritage Awards. This year’s honorees include families whose operations span over &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29106">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29106>
+
+---
+
+## There’s a Boulder in the Kitchen of This $2.2M Cliffside Costa Rica Home
+
+date: 2025-07-16, from: Dwell
+
+The glass-encased house frames views of its rocky site, the surrounding jungle, and the nearby ocean at Playas del Coco. 
+
+<br> 
+
+<https://www.dwell.com/article/glass-house-playas-del-coco-costa-rica-real-estate-be85c4b0>
+
+---
+
+## Learn How to Grow Jelly Bean Plants (Pork and Beans)
+
+date: 2025-07-16, from: The Gardener's Path
+
+<p>Jelly bean plants are a type of sedum featuring plump, glossy leaves that blush with shades of red, orange, and bronze in full sun. They thrive in bright light and lean soil, making them perfect for containers, rock gardens, and sunny windowsills. Learn how to grow these charming succulents in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/grow-jelly-bean-plants/">Learn How to Grow Jelly Bean Plants (Pork and Beans)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/grow-jelly-bean-plants/>
+
+---
+
+## Common Off Grid Living Misconceptions
+
+date: 2025-07-16, from: The Tiny Life blog
+
+<p>It's been a full year since I moved out of my apartment and into my tiny house, with that came the shift to living off grid. </p>
+<p>The post <a href="https://thetinylife.com/common-off-grid-living-misconceptions/">Common Off Grid Living Misconceptions</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/common-off-grid-living-misconceptions/>
+
+---
+
+## How to Prune and Harvest Basil for More Productive Plants (With Photos)
+
+date: 2025-07-16, from: Homestead and Chil
+
+<p>The secret to growing big bushy basil is to regularly trim and use it! Come learn how to prune and harvest basil to encourage larger, healthy plants - so you can enjoy homegrown basil all summer long. Step-by-step photos included.</p>
+<p>The post <a href="https://homesteadandchill.com/how-to-prune-harvest-basil/">How to Prune and Harvest Basil for More Productive Plants (With Photos)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/how-to-prune-harvest-basil/>
+
+---
+
+## 9 Hosting Essentials Designers Swear by for Outdoor Parties
+
+date: 2025-07-16, from: Sunset Magazine - Living in the West
+
+Make hosting your next outdoor party a breeze by stocking up on these outdoor entertaining essentials recommended by designers. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/outdoor-entertaining-essentials>
+
+---
+
+## How TikTok-Famous Chefs Hailee Catalano and Chuck Cruz Designed Their Dream Kitchens—Yes, Plural
+
+date: 2025-07-16, from: Dwell
+
+When the couple discovered a house with two functioning cooking areas, they leaped at the chance to build what has evolved into his-and-hers workspaces. 
+
+<br> 
+
+<https://www.dwell.com/article/hailee-catalano-chuck-cruz-tiktok-chefs-kitchen-3b7d7930-c0e2eb1f>
+
+---
+
+## A Healdsburg Vacation Home Is a Whimsical, Delightful Space
+
+date: 2025-07-16, from: Sunset Magazine - Living in the West
+
+This weekend retreat in Healdsburg was originally built in 1905 and was extensively remodeled in 2016, so it just needed a decor revamp. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/colorful-healdsburg-vacation-home>
+
+---
+
+## These Are All the New Places to Stay in Yosemite
+
+date: 2025-07-16, from: Sunset Magazine - Living in the West
+
+One of America's oldest national parks has a whole lot of newness nowadays, from glamping resorts to campervans. 
+
+<br> 
+
+<https://www.sunset.com/travel/new-yosemite-lodging-2025>
+
+---
+
+## Grand Canyon 101
+
+date: 2025-07-16, from: Sunset Magazine - Living in the West
+
+The park’s geography, getting there, when to go, and what to see 
+
+<br> 
+
+<https://www.sunset.com/travel/southwest/grand-canyon-101>
+
+---
+
+## These National Park Lodges Are Straight out of a Wes Anderson Movie, and You Can Book Them Now
+
+date: 2025-07-16, from: Sunset Magazine - Living in the West
+
+A new book celebrates historic lodges in the West’s national parks, from the opulent Ahwahnee in Yosemite to the Spanish Revival Inn at Death Valley. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks-lodges>
+
+---
+
+## 6 Iconic National Parks to Add to Your Bucket List
+
+date: 2025-07-16, from: Sunset Magazine - Living in the West
+
+Drive along Highway 89, which connects six of the West's greatest parks, for the best national park road trip. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/89-north>
+
+---
+
+## Homepage 2025
+
+date: 2025-07-16, from: Sunset Magazine - Living in the West
+
+Decorating &amp; Design, Home Tours A Healdsburg Vacation Home Is a Whimsical, Delightful Space It went from neutral to color- and pattern-filled.  Read more: A Healdsburg Vacation Home Is a Whimsical,&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## The Best Cocktails and Spirits in the West Right Now—Read Our 2025 Spirits Issue
+
+date: 2025-07-16, from: Sunset Magazine - Living in the West
+
+The 2025 Spirits Issue celebrates the best cocktails across the West and honors the winners of the Sunset International Spirits Competition. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/2025-spirits-issue>
 
 ---
 
@@ -48,18 +236,6 @@ date: 2025-07-15, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/why-some-cars-have-a-small-seatbelt-in-the-middle-of-the-back-seat/>
-
----
-
-## The Best Cocktails and Spirits in the West Right Now—Read Our 2025 Spirits Issue
-
-date: 2025-07-15, from: Sunset Magazine - Living in the West
-
-The 2025 Spirits Issue celebrates the best cocktails across the West and honors the winners of the Sunset International Spirits Competition. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/wine-pairings/2025-spirits-issue>
 
 ---
 
@@ -223,18 +399,6 @@ The two wildfires burning at or near the Grand Canyon's National Park North Rim 
 <br> 
 
 <https://www.sunset.com/travel/national-parks/grand-canyon-lodge-wildfires>
-
----
-
-## Homepage 2025
-
-date: 2025-07-15, from: Sunset Magazine - Living in the West
-
-Decorating &amp; Design The Design Industry&#8217;s Coolest Trend Is Hiding in Plain Sight Now you see it… now you don&#8217;t.  Read more: The Design Industry&#8217;s Coolest Trend Is Hiding in Plain Sight&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

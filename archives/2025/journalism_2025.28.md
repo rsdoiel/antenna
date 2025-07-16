@@ -1,11 +1,24 @@
 ---
 title: journalism
-updated: 2025-07-16 06:09:18
+updated: 2025-07-16 14:07:39
 ---
 
 # journalism
 
-(date: 2025-07-16 06:09:18)
+(date: 2025-07-16 14:07:39)
+
+---
+
+## UC Regents appoints UC Davis student Miguel Craven as 2026-2027 student regent
+
+date: 2025-07-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Board of Regents appointed Miguel Craven on Wednesday to be its student regent for the 2026-2027 academic year.
+Craven, the first student regent with an engineering background, received a Bachelor of Science in mechanical engineering from UC Merced in May and will pursue a master’s in energy systems at UC Davis this fall. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/16/uc-regents-appoints-uc-davis-student-miguel-craven-as-2026-2027-student-regent/>
 
 ---
 

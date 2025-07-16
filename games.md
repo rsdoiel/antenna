@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-07-16 06:09:18
+updated: 2025-07-16 14:07:38
 ---
 
 # games
 
-(date: 2025-07-16 06:09:18)
+(date: 2025-07-16 14:07:38)
+
+---
+
+## Maelle remains Clair Obscur&#8217;s boss-killing machine, even after being nerfed
+
+date: 2025-07-16, updated: 2025-07-16, from: Polygon Website
+
+It’s been three months since Clair Obscur: Expedition 33 launched, and I still can’t stop thinking about and playing it. Clair Obscur’s story is excellent, and developer Sandfall Interactive crafted a combat system that is tremendously layered, with its party members’ abilities easily synergizing, and also tremendously challenging, at times. More than a few times [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/613551/clair-obscur-expedition-33-combat-maelle-nerf-op-stendhal>
+
+---
+
+## This fake Johnny Cage movie should be a real Mortal Kombat movie
+
+date: 2025-07-16, updated: 2025-07-16, from: Polygon Website
+
+Mortal Kombat II, the sequel to Simon McQuoid’s 2021 film starring Lewis Tan, is slated to arrive later this October, and the newest teaser trailer, featuring Karl Urban’s Johnny Cage, is our first taste of what fans can expect. As expected, the trailer puts Cage’s action-movie moves and persona on display. He’s pushing his sunglasses [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mortal-kombat/613530/this-fake-johnny-cage-movie-should-be-a-real-mortal-kombat-movie>
+
+---
+
+## John Malkovich cut from Fantastic Four after Marvel scrapped him on Spider-Man 4
+
+date: 2025-07-16, updated: 2025-07-16, from: Polygon Website
+
+“Malkovich, Malkovich. Malkovich? Malkovich!” is what no one will be saying at Marvel Studios’ premiere of the upcoming Fantastic Four: First Steps. Director Matt Shakman confirmed to Variety on Wednesday that the legendary character actor, who was slated to appear as the cosmonaut supervillain Red Ghost, has been cut from the completed movie. The slight [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/613511/john-malkovich-cut-fantastic-four-spider-man-vulture>
+
+---
+
+## ‘Talk me out of this’: How to Train Your Dragon’s director on when he first felt good about his live-action remake
+
+date: 2025-07-16, updated: 2025-07-16, from: Polygon Website
+
+When director Dean DeBlois agreed to make a live-action version of his 2010 DreamWorks Animation hit How to Train Your Dragon (co-directed with Chris Sanders), he faced criticism from the start —&#160;including from his own past words. He’d publicly said in the past that he’d skipped watching live-action remakes of animated movies. “I’m not interested [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fantasy/613082/how-to-train-your-dragon-director-hates-live-action-remakes>
+
+---
+
+## ‘A once in a lifetime pull’: Would you skip your own wedding for this epic Balatro hand?
+
+date: 2025-07-16, updated: 2025-07-16, from: Polygon Website
+
+Poker roguelike Balatro is one of the most engrossing games released in the last generation of video games, and most people who play it end up losing sleep or otherwise disassociating from reality for long periods of time. To wit, the deck-building game was crowned Polygon’s 2024 Game of the Year. Some hands are just [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/613437/balatro-rare-joker-blueprint-negative-nat-ante-2-tiktok>
+
+---
+
+## Superman and the DC heroes will duke it out in their own Mortal Kombat this fall
+
+date: 2025-07-16, updated: 2025-07-16, from: Polygon Website
+
+Get over here! DC Comics is putting its heroes in a Mortal Kombat-esque tournament starting fall 2026. The publisher announced Wednesday that a new “slugfest event of the century” kicks off in October with the five-issue limited series DC K.O. Co-created by Joshua Williamson and Scott Snyder, DC K.O. pits 36 heroes a tournament with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/comics/613458/superman-and-the-dc-heroes-will-duke-it-out-in-their-own-mortal-kombat-this-fall>
+
+---
+
+## Cyberpunk 2077 update new modes, but Switch 2 players will have to wait
+
+date: 2025-07-16, updated: 2025-07-16, from: Polygon Website
+
+CD Projekt Red revealed Cyberpunk 2077’s 2.3 update is slated to arrive on July 17 and that the patch focuses on vehicles and customizations. Update 2.3 will add three new cars and the first new customizable motorcycle in the game. Each new vehicle can be unlocked by completing quests, which Cyberpunk 2 Associate Game Director [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/613442/cyberpunk-2077-2-3-update-patch-notes>
+
+---
+
+## A review of Smurfs, aka ‘Randomized Free-Association of Stuff That Happens in Kids’ Animated Movies’
+
+date: 2025-07-16, updated: 2025-07-16, from: Polygon Website
+
+Here are some things that happen in Smurfs, the 2025 animated movie about those little blue guys called Smurfs. I could go on, but you get the idea. Smurfs is garbage. It’s a randomized assortment of Stuff That Happens in Kids’ Animated Movies, which scriptwriter Pam Brady (Hot Rod) and director Chris Miller (Shrek the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/animation-cartoons/613415/smurfs-2025-review-this-isnt-even-a-movie>
+
+---
+
+## Looks like Steam is having a messy crackdown on sex games
+
+date: 2025-07-16, updated: 2025-07-16, from: Polygon Website
+
+Valve’s storefront has a reputation for its uniquely permissible publishing requirements, which is a different way of saying that the PC platform sure has a lot of adult games. But things might be about to change for prospective games with sexual content on Steam based on a confluence of recent incidents involving rules, payment processors, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/613411/steam-sex-adult-games-rules-changes-july-2025>
+
+---
+
+## Stranger Things season 5 trailer is finally here
+
+date: 2025-07-16, updated: 2025-07-16, from: Polygon Website
+
+Netflix teased a very action-heavy final season of Stranger Things with its first teaser trailer. Set in the fall of 1987, more than a year after the events of season 4, the trailer reveals how Hawkins has been transformed by the rifts Vecna (Jamie Campbell Bower) opened. The town is under military quarantine, with soldiers [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/stranger-things/613386/stranger-things-season-5-trailer-shows-hawkins-in-lockdown>
 
 ---
 

@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2025-07-16 06:09:15
+updated: 2025-07-16 14:07:36
 ---
 
 # science and technology
 
-(date: 2025-07-16 06:09:15)
+(date: 2025-07-16 14:07:36)
+
+---
+
+## NASA to Preview Advanced US-India Radar Mission Ahead of Launch
+
+date: 2025-07-16, from: NASA breaking news
+
+NASA will host a news conference at 12 p.m. EDT Monday, July 21, to discuss the upcoming NISAR (NASA-ISRO Synthetic Aperture Radar) mission. The Earth-observing satellite, a first-of-its-kind collaboration between NASA and ISRO (Indian Space Research Organisation), carries an advanced radar system that will help protect communities by providing a dynamic, three-dimensional view of Earth [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-to-preview-advanced-us-india-radar-mission-ahead-of-launch/>
+
+---
+
+## Ukrainian hackers claim to have destroyed major Russian drone maker's entire network
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>&#39;Deeply penetrated&#39; Gaskar &#39;to the very tonsils of demilitarization&#39;</h4> <p>Ukrainian hackers claim to have taken out the IT infrastructure at Russia&#39;s Gaskar Integration plant, one of the largest suppliers of drones for its army, and also destroyed massive amounts of technical data related to drone production. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/ukrainian_drone_attack/>
+
+---
+
+## NASA’s Chandra Finds Baby Exoplanet is Shrinking
+
+date: 2025-07-16, from: NASA breaking news
+
+A&#160;star&#160;is unleashing a barrage of&#160;X-rays&#160;that is causing a closely-orbiting, young planet to wither away an astonishing rate, according to a new study using data from&#160;NASA’s Chandra X-ray Observatory&#160;and described in our&#160;latest press release. A team of researchers has determined that this planet will go from the size of Jupiter down to a small, barren world. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-chandra-finds-baby-exoplanet-is-shrinking/>
+
+---
+
+## Operation Eastwood shutters 100+ servers used to DDoS websites supporting Ukraine
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>Two Russian suspects in cuffs, seven warrants out</h4> <p>International cops shut down more than 100 servers belonging to the pro-Russian NoName057(16) network this week as part of the Europol-led Operation Eastwood.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/russian_hacktivist_bust/>
+
+---
+
+## Ex-OpenAI engineer pulls the curtain back on a chaotic hot mess
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>&#39;Everything breaks when you scale that quickly&#39;</h4> <p>Thank heavens for former OpenAI engineers inspired to blog about their time at the famously secretive firm, for without them we would have no idea what a wild mess it is in there. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/exopenai_engineers/>
+
+---
+
+## NASA Software Catalog Puts Agency Solutions at Innovators’ Fingertips
+
+date: 2025-07-16, from: NASA breaking news
+
+NASA’s latest open Software Catalog, released Wednesday, offers more than 1,200 downloadable codes developed by agency engineers that could enable faster solutions to energize the space economy and stimulate American ingenuity. The catalog is part of NASA’s effort to place advanced technologies, including agency software, into the hands of businesses, researchers, and entrepreneurs to foster [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-software-catalog-puts-agency-solutions-at-innovators-fingertips/>
+
+---
+
+## Cloudflare fesses up to config change that borked internet access for all
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>Down and out for hour, claims CDN biz. No, say users, more like three</h4> <p>There was a disturbance in the force on July 14 after Cloudflare borked a configuration change that resulted in an outage, impacting internet services across the planet.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/cloudflare_fesses_up_to_config/>
+
+---
+
+## Aurora Australis
+
+date: 2025-07-16, from: NASA breaking news
+
+The aurora australis arcs above a partly cloudy Indian Ocean in this photograph from the International Space Station as it orbited 269 miles above in between Australia and Antarctica on June 12, 2025. Astronauts aboard the space station take photos using handheld digital cameras, usually through windows in the station’s cupola, for Crew Earth Observations. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/aurora-australis-6/>
+
+---
+
+## Google plugs AI into nuclear reactor biz – what could possibly go wrong?
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>Westinghouse taps Big G&#39;s cloud smarts to speed up atomic plant builds and keep the grid humming</h4> <p>While AI systems are known to spew wrong information and make up facts, Google and Westinghouse Electric are now pressing generative AI models into service to transform how nuclear reactors are constructed and optimize their operation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/google_westinghouse_ai_nuclear/>
+
+---
+
+## JWST peers through dusty curtain to catch young star making baby planets
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>Observations of HOPS-315 align with theories of how our own solar system began to take shape</h4> <p>The James Webb Space Telescope (JWST) has helped provide a snapshot of the formation of a planetary system around a young star for the first time, according to astroboffins.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/jwst_star_planet_formation/>
+
+---
+
+## NASA Sees Key Progress on Starlab Commercial Space Station
+
+date: 2025-07-16, from: NASA breaking news
+
+As NASA continues its transition toward a commercial low Earth orbit marketplace, an agency-supported commercial space station, Starlab, recently completed five development and design milestones. Starlab’s planned design consists of a service module and a habitat that will be launched to orbit on a single flight. The milestones, part of a NASA Space Act Agreement [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-sees-key-progress-on-starlab-commercial-space-station/>
+
+---
+
+## A New Geometry for Einstein’s Theory of Relativity
+
+date: 2025-07-16, from: Quanta Magazine
+
+A team of mathematicians based in Vienna is developing tools to extend the scope of general relativity.            <p>The post <a href="https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/" target="_blank">A New Geometry for Einstein’s Theory of Relativity</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/>
+
+---
+
+## NASA Citizen Science and Your Career: Stories of Exoplanet Watch Volunteers
+
+date: 2025-07-16, from: NASA breaking news
+
+Doing NASA Science brings many rewards. But can taking part in NASA citizen science help your career? To find out, we asked participants in NASA’s Exoplanet Watch project about their experiences. In this project, amateur astronomers work together with professionals to track planets around other stars. 
+
+<br> 
+
+<https://science.nasa.gov/science-research/astrophysics/nasa-citizen-science-and-your-career-stories-of-exoplanet-watch-volunteers/>
+
+---
+
+## Crims hijacking fully patched SonicWall VPNs to deploy stealthy backdoor and rootkit
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>Someone&#39;s OVERSTEPing the mark</h4> <p><strong>Updated</strong>  Unknown miscreants are exploiting fully patched, end-of-life SonicWall VPNs to deploy a previously unknown backdoor and rootkit, likely for data theft and extortion, according to Google&#39;s Threat Intelligence Group.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/sonicwall_vpn_hijack/>
+
+---
+
+## Ejection Mechanism Design for the SPEED Test Architecture Challenge
+
+date: 2025-07-16, from: NASA breaking news
+
+The The Stratospheric Projectile Entry Experiment on Dynamics (SPEED), a two-stage stratospheric drop test architecture, is currently under development to bridge the state-of-the-art gap that many NASA flagship missions require to reduce system risk and enable more optimized designs via margin reduction. To do this, a two-stage vehicle will drop from a high-altitude balloon and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/ejection-mechanism-design-for-the-speed-test-architecture/>
+
+---
+
+## Google's Android boss suggests ChromeOS could be on borrowed time
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>Gentoo derivative is the most popular Linux distro, but its days are apparently numbered</h4> <p>Google&#39;s Android president has confirmed the platform is set to replace ChromeOS – but not when.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/android_replacing_chromeos/>
 
 ---
 

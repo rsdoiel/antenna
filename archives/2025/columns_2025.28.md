@@ -1,11 +1,289 @@
 ---
 title: columns
-updated: 2025-07-16 06:09:17
+updated: 2025-07-16 14:07:37
 ---
 
 # columns
 
-(date: 2025-07-16 06:09:17)
+(date: 2025-07-16 14:07:37)
+
+---
+
+## Mastodon as a blogging platform
+
+date: 2025-07-16, from: Dave Winer's Scripting News
+
+<p>This is <a href="https://x.com/davewiner/status/1945485392033058848">what</a> I want to do next to solidify the position of Mastodon as a blogging platform. </p>
+<p>I want a REST version of what the MetaWeblog API has been doing since 2002, to hook into the ActivityPub interface supported by Mastodon. </p>
+<p>Then we'll put together a simple demo app, a Markdown app in a browser window that writes and updates posts to a Mastodon site. </p>
+<p>When that's running, I'll pitch Rich Siegel at <a href="https://en.wikipedia.org/wiki/BBEdit">BBEdit</a> to make it work with Masto.</p>
+<p>With that, and the WordPress connection, we'll be well on the way to restoring the web we had before Twitter rewrote the rules. ;-)</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/16/204750.html?title=mastodonAsABloggingPlatform>
+
+---
+
+##  I had no idea Subaru actively courted lesbian car buyers with targeted... 
+
+date: 2025-07-16, updated: 2025-07-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047162-i-had-no-idea-subaru>
+
+---
+
+##  The Pedestrians Who Abetted a Hawk&#8217;s Deadly Attack. &#8220;The hawk appears to... 
+
+date: 2025-07-16, updated: 2025-07-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047165-the-pedestrians-who-abett>
+
+---
+
+## Rare Earth Magnet Maker MP Materials Is Having a Big Week
+
+date: 2025-07-16, updated: 2025-07-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.cnbc.com/2025/07/10/pentagon-to-become-largest-shareholder-in-rare-earth-magnet-maker-mp-materials.html>
+
+---
+
+##  Photos Show the Vast Scale of China&#8217;s Solar Power Projects 
+
+date: 2025-07-16, updated: 2025-07-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/photos-show-the-vast-scale-of-chinas-solar-power-projects>
+
+---
+
+##  Let Your Kid Climb That Tree. &#8220;Your fear that your kid will... 
+
+date: 2025-07-16, updated: 2025-07-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047161-let-your-kid-climb-that>
+
+---
+
+##  Bruce Springsteen on Surviving Depression and His Strategy for Living Through the... 
+
+date: 2025-07-16, updated: 2025-07-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047158-bruce-springsteen-on-surv>
+
+---
+
+## Hacking Trains
+
+date: 2025-07-16, updated: 2025-07-16, from: Bruce Schneier blog
+
+<p>Seems like an old system <a href="https://gizmodo.com/hackers-can-tamper-with-train-breaks-using-just-a-radio-feds-warn-2000629522">system</a> that predates any care about security:</p>
+<blockquote><p>The flaw has to do with the protocol used in a train system known as the End-of-Train and Head-of-Train. A Flashing Rear End Device (FRED), also known as an End-of-Train (EOT) device, is attached to the back of a train and sends data via radio signals to a corresponding device in the locomotive called the Head-of-Train (HOT). Commands can also be sent to the FRED to apply the brakes at the rear of the train.</p>
+<p>These devices were first installed in the 1980s as a replacement for caboose cars, and unfortunately, they lack encryption and authentication protocols. Instead, the current system uses data packets sent between the front and back of a train that include a simple BCH checksum to detect errors or interference. But now, the CISA is warning that someone using a software-defined radio could potentially send fake data packets and interfere with train operations...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/07/hacking-trains.html>
+
+---
+
+## More on Commodore, Apple, and the Inchoate Personal Computer Era
+
+date: 2025-07-16, updated: 2025-07-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sixcolors.com/link/2025/07/commodore-apple-and-the-early-computer-days/>
+
+---
+
+##  Writing Advice and Literary Wisdom from the Great E.B. White. &#8220;A blank... 
+
+date: 2025-07-16, updated: 2025-07-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047157-writing-advice-and-litera>
+
+---
+
+##  A great look at how Baltimore&#8217;s investment in an &#8220;ecosystem of community–oriented... 
+
+date: 2025-07-16, updated: 2025-07-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047156-a-great-look-at-how>
+
+---
+
+## July 15, 2025
+
+date: 2025-07-16, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168480603/f165b0652a755ad42bd2f100f33db0af.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168480603/f165b0652a755ad42bd2f100f33db0af.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-15-2025-e44>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-16, from: Dave Winer's Scripting News)
+
+I wish ChatGPT would listen when I say "Just answer the question." I've tried, but when it can't figure it out it ignores the request and dumps a lot of bullshit at you. Maybe Trump can address that in his keynote to the <a href="https://www.prnewswire.com/news-releases/president-donald-j-trump-to-deliver-keynote-address-at-winning-the-ai-race-summit-hosted-by-allin-podcast-and-hill--valley-forum-302505499.html">AI conference</a> in DC. Just kidding. 
+
+<br> 
+
+<http://scripting.com/2025/07/16.html#a150919>
+
+---
+
+##  Bloc Party&#8217;s Tiny Desk Concert 
+
+date: 2025-07-16, updated: 2025-07-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/bloc-partys-tiny-desk-concert>
+
+---
+
+## An Immigrant Story 
+
+date: 2025-07-16, from: Om Malik blog
+
+Today, I met a nurse from Millbrae. She helped me with a few medical things. She is very good at what she does. However, that’s not why I am sharing her&#160;story; it’s&#160;because of her&#160;story that&#160;I am retelling it.&#160; Her dad was born on USS Cleveland. In 1948, when his mom&#160;(the nurse’s&#160;grandmother)&#160;was coming from China (Canton) &#8230; 
+
+<br> 
+
+<https://om.co/2025/07/16/an-immigrant-story/>
+
+---
+
+## Wednesday, 16 July 2025
+
+date: 2025-07-16, from: Doc Searls (at Harvard), New Old Blog
+
+Bet it&#39;s about liability and arbitration. T-Mobile just texted me this: T-Mobile: We’ve updated our Terms and Conditions and Privacy Notices. Get the details and learn about your options in the Privacy Dashboard at secure.t-mobile.com/terms I can&#39;t log on, and doing the password reset thing is a PITA, so I won&#39;t bother. Maybe I&#39;ll remember to take [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/16/wednesday-16-july-2025/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-07-16, from: Miguel de Icaza Mastondon feed)
+
+<p>We are starting to prepare Xogot for iPhone, and while the basics work, we would love for interested folks to try it out and give us feedback.</p><p>If you want to take this for a spin, sign up here:</p><p><a href="https://beta.xogot.com" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">beta.xogot.com</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114863382861052982>
+
+---
+
+## Dress like ICE
+
+date: 2025-07-16, from: Dave Winer's Scripting News
+
+<p>We should all wear masks like the ICE cops wear. They deserve recognition for blazing new fashion trails.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/07/16/masksForTheOffice.png"></center>The new office dress standard. </div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/16/142841.html?title=dressLikeIce>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-07-16, from: Miguel de Icaza Mastondon feed)
+
+<p>I am moving the SwiftGodot community from Slack to Discord to keep the channel history long-term.</p><p>Join us here: <a href="https://discord.gg/bHAsTYaCZM" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">discord.gg/bHAsTYaCZM</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114863350242514020>
+
+---
+
+##  A map of the best places to see the Northern Lights. &#8220;Kuril&#8217;s... 
+
+date: 2025-07-16, updated: 2025-07-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047142-a-map-of-the-best>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-16, from: Dave Winer's Scripting News)
+
+Someday <a href="https://micro.blog/manton/69056237">Manton and I</a> will make a very nice Markdown editor for Mastodon. Once it's working I'll pitch <a href="https://www.barebones.com/company/history.html">Rich Siegel</a> to do the same for <a href="https://www.barebones.com/products/bbedit/">BBEdit</a>. Along with the WordPress connection, that should nail it once and for all that Mastodon is a blogging platform. Manton is the right guy to do it, he has all the protocols implemented on micro.blog. All I want is a REST version of what the <a href="https://xmlrpc.com/metaweblog">MetaWeblog API</a> has been <a href="https://daytona.scripting.com/search?q=MetaWeblog">doing</a> since <a href="https://cyber.harvard.edu/rss/rssVersionHistory.html">2002</a>. We're turning the clock back to move forward. Trying to undo the damage Twitter did to the web. 
+
+<br> 
+
+<http://scripting.com/2025/07/16.html#a135021>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-16, from: Dave Winer's Scripting News)
+
+This <a href="https://micro.jasonkratz.me/2025/07/15/well-hot-damn-thanks-to/">comment</a> makes my day. Some features you develop and never use. I poured a month or so into the blogroll software last year, and it turned out to be a total win. All the new stuff floats to the top. I can quickly find out what they posted. It's a portable version of my feed reader. A tighter user interface for FeedLand. And right now I'm working on another user interface for FeedLand. The categories in FeedLand make it possible to do as many projects as you like with the same set of feeds. The Great Art project has a Bluesky account, and is available via RSS, in both an <a href="https://art.feediverse.org/">hourly</a> and <a href="https://artdaily.feediverse.org/">daily</a> form. You need them both. In the new timeline, it's too much to get a work of art every hour, but to have one waiting for you in the morning is a perfect way to start the day. And I was reminded that my friend Paolo had just written a post. RSS is the thing that ties everything together. And a bit of OPML too. 
+
+<br> 
+
+<http://scripting.com/2025/07/16.html#a131519>
+
+---
+
+## Google's Android boss suggests ChromeOS could be on borrowed time
+
+date: 2025-07-16, updated: 2025-07-16, from: Liam Proven's articles at the Register
+
+<h4>Gentoo derivative is the most popular Linux distro, but its days are apparently numbered</h4>
+      <p>Google&#39;s Android president has confirmed the platform is set to replace ChromeOS – but not when.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/16/android_replacing_chromeos/>
 
 ---
 
@@ -111,6 +389,18 @@ date: 2025-07-16, from: Dave Winer's Scripting News
 <br> 
 
 <http://scripting.com/2025/07/15/005202.html?title=rideTheCluetrain>
+
+---
+
+## Exit the Wu
+
+date: 2025-07-16, updated: 2025-07-16, from: Anil Dash blog
+
+ 
+
+<br> 
+
+<https://anildash.com/2025/07/16/exit_the_wu/>
 
 ---
 
@@ -758,7 +1048,7 @@ date: 2025-07-14, updated: 2025-07-14, from: Jason Kittke's blog
 
 ## Reborn Commodore Is Taking Pre-Orders for New Commodore 64 Models
 
-date: 2025-07-14, updated: 2025-07-14, from: Daring Fireball
+date: 2025-07-14, updated: 2025-07-16, from: Daring Fireball
 
  
 

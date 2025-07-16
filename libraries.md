@@ -1,11 +1,36 @@
 ---
 title: libraries
-updated: 2025-07-16 06:09:19
+updated: 2025-07-16 14:07:39
 ---
 
 # libraries
 
-(date: 2025-07-16 06:09:19)
+(date: 2025-07-16 14:07:39)
+
+---
+
+## Internet Archive and Partners Receive Press Forward Funding to Support Preserving Local News
+
+date: 2025-07-16, from: Internet Archive Blog
+
+We are excited to announce that Internet Archive, working with partners Investigative Reporters &#38; Editors (IRE) and The Poynter Institute, has received a $1 million grant from Press Forward, a [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/07/16/internet-archive-and-partners-receive-press-forward-funding-to-support-preserving-local-news/>
+
+---
+
+## Development of a checklist to support peer review in Epidemiologia e Serviços de Saúde: revista do SUS (RESS)
+
+date: 2025-07-16, from: SciELO in Perspective
+
+<p>To improve and speed up the peer review of RESS, we created a checklist of 31 hierarchical items (critical, important, desirable), based on reasons for rejection and a review of the literature. We tested and improved it in peer review marathons; the evaluation of these tools will be presented at the international peer review congress. Available in Portuguese only. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/blog/2025/07/16/desenvolvimento-de-checklist-para-apoiar-a-avaliacao-por-pares-na-epidemiologia-e-servicos-de-saude-revista-do-sus-ress/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/blog/2025/07/16/desenvolvimento-de-checklist-para-apoiar-a-avaliacao-por-pares-na-epidemiologia-e-servicos-de-saude-revista-do-sus-ress/#new_tab">Development of a checklist to support peer review in <em>Epidemiologia e Serviços de Saúde: revista do SUS</em> (RESS)</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<br> 
+
+<https://blog.scielo.org/blog/2025/07/16/desenvolvimento-de-checklist-para-apoiar-a-avaliacao-por-pares-na-epidemiologia-e-servicos-de-saude-revista-do-sus-ress/#new_tab>
 
 ---
 
@@ -79,7 +104,7 @@ date: 2025-07-14, from: Association of Research Libraries News
 
 date: 2025-07-14, from: Association of Research Libraries News
 
-<p>Last Updated on July 15, 2025, 4:18 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 15 &#124; Wednesday, July 16 &#124; Thursday,...</p>
+<p>Last Updated on July 16, 2025, 4:11 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 15 &#124; Wednesday, July 16 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-14-17/">Day in Review (July 14–17)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

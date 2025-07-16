@@ -1,11 +1,125 @@
 ---
 title: food
-updated: 2025-07-16 06:09:23
+updated: 2025-07-16 14:07:42
 ---
 
 # food
 
-(date: 2025-07-16 06:09:23)
+(date: 2025-07-16 14:07:42)
+
+---
+
+## Gluten-Free Rhubarb Bars
+
+date: 2025-07-16, from: Taste of Home
+
+Sweet, tart and buttery with a crumbly streusel topping, these delicious gluten-free rhubarb bars are surprisingly easy, making them a perfect go-to for picnics, brunches or summer parties. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/gluten-free-rhubarb-bars/>
+
+---
+
+## Study Suggests Coffee Fends Off Frailty in Older Adults
+
+date: 2025-07-16, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee older adults" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A recent study from The Netherlands adds to existing evidence that coffee consumption may reduce frailty in older adults.&#160; Led by a team at Vrije Universiteit, the study drew... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/16/study-suggests-coffee-fends-off-frailty-in-older-adults/>
+
+---
+
+## Coffee Tariff Updates On Brazil, Indonesia and China
+
+date: 2025-07-16, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/tariffs-US-coffee-industry-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="tariffs US coffee industry 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/tariffs-US-coffee-industry-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/tariffs-US-coffee-industry-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/tariffs-US-coffee-industry-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/tariffs-US-coffee-industry-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/tariffs-US-coffee-industry-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The United States under the Donald Trump administration is continuing to upend established coffee supply-and-demand dynamics through new tariff threats and applications. Within the past week, the U.S. and its... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/16/coffee-tariff-updates-on-brazil-indonesia-and-china/>
+
+---
+
+## Here’s Why You Should Be Baking Upside-Down Cookies
+
+date: 2025-07-16, from: Taste of Home
+
+<p>You're going to love this peachy picnic cookie inspired by the iconic pineapple upside-down cake.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/upside-down-cookies/">Here&#8217;s Why You Should Be Baking Upside-Down Cookies</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/upside-down-cookies/>
+
+---
+
+## Tom Brady vs David Beckham: Who Has the Better Gummy Snacks?
+
+date: 2025-07-16, from: Taste of Home
+
+<p>I had to see if they were really that different. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/tom-brady-david-beckham-gummy-snacks-ranking/">Tom Brady vs David Beckham: Who Has the Better Gummy Snacks?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/tom-brady-david-beckham-gummy-snacks-ranking/>
+
+---
+
+## This Is What Tom Holland Eats for Breakfast Every Day
+
+date: 2025-07-16, from: Taste of Home
+
+<p>Tom Holland's favorite breakfast is porridge with some key toppings for added nutrition. Turns out Zendaya has a big influence on his meals.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/tom-holland-favorite-breakfast/">This Is What Tom Holland Eats for Breakfast Every Day</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/tom-holland-favorite-breakfast/>
+
+---
+
+## Chicken Divan with Mayo
+
+date: 2025-07-16, from: Taste of Home
+
+Creamy, cheesy sauce, tender chicken and frozen broccoli cook to bubbling perfection under a cap of crunchy bread crumbs in this chicken Divan with mayo recipe. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/fast-chicken-divan/>
+
+---
+
+## Build-Outs Of Coffee: Matryoshka Coffee In Nashville, TN
+
+date: 2025-07-16, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Matryoshka Coffee in Nashville, Tennessee. 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-matryoshka-coffee-in-nashville-tn-351064.html>
+
+---
+
+## Coulée Coffee Swirls Into Action with Pod-Free Single-Serve Machine
+
+date: 2025-07-16, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/coulee-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coulee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/coulee-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coulee-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coulee-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coulee-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coulee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A new company out of Idaho called Coulée Coffee officially released its novel single-cup pourover brewing machine and compatible biodegradable filter packs. Following a working prototype revealed at the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/16/coulee-coffee-swirls-into-action-with-pod-free-single-serve-machine/>
 
 ---
 
@@ -143,7 +257,7 @@ date: 2025-07-15, from: The Sprudge
 
 date: 2025-07-15, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/ROY2026-header-620x413.png" class="attachment-large size-large wp-post-image" alt="ROY2026-header" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/ROY2026-header-620x413.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/ROY2026-header-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/ROY2026-header-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/ROY2026-header-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/ROY2026-header.png 1200w" sizes="(max-width: 620px) 100vw, 620px" /></div>The July 23 deadline for Roast magazine’s prestigious Roaster of the Year Award for 2026 is fast approaching.&#160;Now in its 22nd year, the award recognizes excellence across two categories: Micro... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/ROY2026-header-620x413.png" class="attachment-large size-large wp-post-image" alt="ROY2026-header" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/ROY2026-header-620x413.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/ROY2026-header-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/ROY2026-header-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/ROY2026-header-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/ROY2026-header.png 1200w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The July 23 deadline for Roast magazine’s prestigious Roaster of the Year Award for 2026 is fast approaching.&#160;Now in its 22nd year, the award recognizes excellence across two categories: Micro... 
 
 <br> 
 
@@ -191,7 +305,7 @@ date: 2025-07-15, from: The Sprudge
 
 date: 2025-07-15, from: Daily Coffee News
 
-<div><img width="620" height="297" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices-620x297.jpg" class="attachment-large size-large wp-post-image" alt="Screenshot" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices-620x297.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices-300x144.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices-150x72.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices-768x368.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices-1536x736.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices.jpg 2016w" sizes="(max-width: 620px) 100vw, 620px" /></div>We recently published a study in World Development that shows – using real coffee transaction data — how most of the economic benefits associated with quality improvements are not reaching... 
+<div><img width="620" height="297" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices-620x297.jpg" class="attachment-large size-large wp-post-image" alt="Screenshot" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices-620x297.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices-300x144.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices-150x72.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices-768x368.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices-1536x736.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Specialty-coffee-prices.jpg 2016w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>We recently published a study in World Development that shows – using real coffee transaction data — how most of the economic benefits associated with quality improvements are not reaching... 
 
 <br> 
 
@@ -203,7 +317,7 @@ date: 2025-07-15, from: Daily Coffee News
 
 date: 2025-07-15, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/IRM_-15-620x414.jpg" class="attachment-large size-large wp-post-image" alt="IRM_ 15" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/IRM_-15-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/IRM_-15-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/IRM_-15-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/IRM_-15-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/IRM_-15.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Greek industrial equipment maker IRM Coffee Roasting Machines took a major step into artificial intelligence with the launch of new roasting profiling and automation software for all its hot-air machines.... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/IRM_-15-620x414.jpg" class="attachment-large size-large wp-post-image" alt="IRM_ 15" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/IRM_-15-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/IRM_-15-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/IRM_-15-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/IRM_-15-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/IRM_-15.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Greek industrial equipment maker IRM Coffee Roasting Machines took a major step into artificial intelligence with the launch of new roasting profiling and automation software for all its hot-air machines.... 
 
 <br> 
 

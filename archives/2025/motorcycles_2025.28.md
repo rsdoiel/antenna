@@ -1,11 +1,49 @@
 ---
 title: motorcycles
-updated: 2025-07-16 06:09:20
+updated: 2025-07-16 14:07:40
 ---
 
 # motorcycles
 
-(date: 2025-07-16 06:09:20)
+(date: 2025-07-16 14:07:40)
+
+---
+
+## This New Small ADV Bike Looks Seriously Capable, Just Don’t Overthink Its Name
+
+date: 2025-07-16, from: Ride Apart, Electric Motorcycle News
+
+The Alltrhike is Moto Morini’s answer to the likes of the Royal Enfield Himalayan and KTM 390 Adventure.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/765854/moto-morini-alltrhike-new-small-adventure-bike/>
+
+---
+
+## What Do You Think, Should Honda Build A New Baja Monkey Africa?
+
+date: 2025-07-16, from: Ride Apart, Electric Motorcycle News
+
+I, for one, would like to see the baby. Would you? 
+
+<br> 
+
+<https://www.rideapart.com/news/765985/new-honda-monkey-baja-prettyplease/>
+
+---
+
+## Yamaha Rolls Out Updates And New Colors To The Tricity 300 In Japan
+
+date: 2025-07-16, from: Ride Apart, Electric Motorcycle News
+
+The leaning three-wheeler gets mild styling updates and Euro5+ compliance.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/765853/yamaha-tricity-300-new-colors-updates-japan/>
 
 ---
 

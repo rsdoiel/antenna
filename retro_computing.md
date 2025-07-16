@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-07-16 06:09:21
+updated: 2025-07-16 14:07:41
 ---
 
 # retro computing
 
-(date: 2025-07-16 06:09:21)
+(date: 2025-07-16 14:07:41)
+
+---
+
+## Web2PDF – a new application from Kevin Wells
+
+date: 2025-07-16, from: RiscOS Story
+
+Kevin Wells has found another remote application programmer interface (API) to make use of for the benefit of RISC OS users, and as a result has released a new application: Web2PDF. Like a lot of Kevin&#8217;s software, Web2PDF makes use of Wget to relay information input into the program&#8217;s RISC OS window to the remote API, and then feed the results back to the user. Usually those results are presented to the user via the application itself, but this time there is a subtle difference. The remote API used by&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/web2pdf-released/>
+
+---
+
+## ArcMouse shrinks into a v2 form
+
+date: 2025-07-16, from: RiscOS Story
+
+Some time back, Karl Clark released ArcMouse, an interface that could be plugged in to the mouse port on Archimedes-era ARM-based computers from Acorn and allowed a more standard USB mouse to be used. Karl has now improved on the design, and has launched ArcMouse version 2. The new design is that at just 12mm wide, it&#8217;s notably smaller than the older version, which makes it more compatible with the &#8216;all in one&#8217; style of RISC OS computer from Acorn (such as the A3000, on which the mouse port is&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/arcmouse-v2/>
 
 ---
 
