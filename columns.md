@@ -1,11 +1,165 @@
 ---
 title: columns
-updated: 2025-07-16 14:07:37
+updated: 2025-07-17 06:07:51
 ---
 
 # columns
 
-(date: 2025-07-16 14:07:37)
+(date: 2025-07-17 06:07:51)
+
+---
+
+## On deep modules
+
+date: 2025-07-17, from: Anton Zhiyanov blog
+
+Make smaller interfaces. Seriously. 
+
+<br> 
+
+<https://antonz.org/deep-modules/>
+
+---
+
+## Security Vulnerabilities in ICEBlock
+
+date: 2025-07-17, updated: 2025-07-17, from: Bruce Schneier blog
+
+<p>The ICEBlock tool has <a href="https://www.theverge.com/cyber-security/707116/iceblock-data-privacy-security-android-version">vulnerabilities</a>:</p>
+<blockquote><p>The developer of ICEBlock, an iOS app for anonymously reporting sightings of US Immigration and Customs Enforcement (ICE) officials, promises that it &#8220;ensures user privacy by storing no personal data.&#8221; But that claim has come under scrutiny. ICEBlock creator Joshua Aaron has been accused of making false promises regarding user anonymity and privacy, being &#8220;misguided&#8221; about the privacy offered by iOS, and of being an Apple fanboy. The issue isn&#8217;t what ICEBlock stores. It&#8217;s about what it could accidentally reveal through its tight integration with iOS...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/07/security-vulnerabilities-in-iceblock.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-17, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/07/17/citizenWithBalaclavaMask.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I found another thing that's possible in the age of ChatGPT. A few years ago I wondered if a product existed. I wanted a small footprint audio amplifier, with that could control a pair of high-end tower speakers I've had for a long time. I was tired of huge receiver boxes with buttons and dials and inputs for all kinds of audio input. I no longer have a phonograph or a CD or tape player. Just one audio input coming from the TV, that gets all its input from an Apple TV box (or the one made by Google or Amazon or whoever). It should have a volume control and an equalizer. And forget about dials, it should all be controlled from an app on my phone. But most important, it has to be small and happy with wireless connections except for the crucial connections. If such a product existed five years ago I couldn't find it. But last night I was roaming around on my iPad while watching the news, and thought to ask this: "I have two good speakers, need a modern amplifier that takes HDMI eArc input and powers the speakers. I want something simple and small." Well yes, turns out such products do exist. And from the initial list provided by Gemini, I ended up buying the <a href="https://www.amazon.com/WiiM-Amp-Multiroom-Streaming-Chromecast/dp/B0CGCLXH4H/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.LPzeb1_nWwaxxhYTZZo8FT_tp33-ktdOKEUqq5l9BZrawoejFM75nt-yMD2GpcZjX6ZdVxNHL62vpMB32qOSrUFCtYcoxq3OPZ1sYATw7S1_x-_uu8C3IiZT2sZ2Ro4_8NkwnVwlpqMbYCzsDjyxUTaHlvEmidBwl-2lI_8plGfuU8hvK1j16S4xzGBGggjkVrJcVT7l-I4hUK48EAsyzENZzN7bNLusz_fctPd5B1s.CLghoXuAUjbtyKhN2wz157HTi844aG-DXNR0T9H78c4&dib_tag=se&hvadid=694387328048&hvdev=c&hvexpln=67&hvlocphy=1023511&hvnetw=g&hvocijid=16195174335375627700--&hvqmt=e&hvrand=16195174335375627700&hvtargid=kwd-1967268820035&hydadcr=13743_13389861&keywords=wiim%2Bamp&mcid=281f4dd8014b3c3698b04a849d4c09a4&qid=1752750449&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1">first one</a> they recommended, though I was tempted by the <a href="https://www.amazon.com/Denon-Amplifier-High-Res-Streaming-Bluetooth/dp/B0D6XCGVCZ/ref=sr_1_1?crid=28FXU4OPJ748W&dib=eyJ2IjoiMSJ9.PhLSxTVDhAoWi-mcQ6A0FpKL0AuFYUWUMlB_23CmvLz01ZJtb0MbzevGDRe8tb5kl1_c2WZyUxGZGvYtUi9_nIIWSO42cxq5KvBN3EBHypq-vkN99F1ro1P9I3ddfps3OPbbrSjvHN7EOoLX3ydqtTlJkNjCKwzQ9UWwY2eMJOWUrPJBdYPidRPteTE4Bv9jOD8WAs6H9dGlj_Mpsg0eX3vnIKPes-E0PicGn54wq7Y.5HJ7eiZCWeWk8ylgHyJcsl9tpllGD5FU2by0--wJRu0&dib_tag=se&keywords=Denon+Home+Amp&qid=1752750499&sprefix=denon+home+amp%2Caps%2C163&sr=8-1">second</a>. Then I thought to ask about the speakers, I bought them for $3K when I moved to Berkeley in 2006. I took a picture of the <a href="https://imgs.scripting.com/2025/07/17/label.png">bar code sticker</a> on the back of one of the speakers and gave it to Gemini, and it told me all about it. It was more information than I had when I bought them. It was worth <a href="https://www.amazon.com/WiiM-Amp-Multiroom-Streaming-Chromecast/dp/B0CGCLXH4H/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.LPzeb1_nWwaxxhYTZZo8FT_tp33-ktdOKEUqq5l9BZrawoejFM75nt-yMD2GpcZjX6ZdVxNHL62vpMB32qOSrUFCtYcoxq3OPZ1sYATw7S1_x-_uu8C3IiZT2sZ2Ro4_8NkwnVwlpqMbYCzsDjyxUTaHlvEmidBwl-2lI_8plGfuU8hvK1j16S4xzGBGggjkVrJcVT7l-I4hUK48EAsyzENZzN7bNLusz_fctPd5B1s.CLghoXuAUjbtyKhN2wz157HTi844aG-DXNR0T9H78c4&dib_tag=se&hvadid=694387328048&hvdev=c&hvexpln=67&hvlocphy=1023511&hvnetw=g&hvocijid=16195174335375627700--&hvqmt=e&hvrand=16195174335375627700&hvtargid=kwd-1967268820035&hydadcr=13743_13389861&keywords=wiim%2Bamp&mcid=281f4dd8014b3c3698b04a849d4c09a4&qid=1752750449&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1">$300</a> to see if the speakers were worth keeping. They've done a fair amount of traveling from California to NYC then to the mountains. I love the idea of the <a href="https://www.amazon.com/WiiM-Amp-Multiroom-Streaming-Chromecast/dp/B0CGCLXH4H/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.LPzeb1_nWwaxxhYTZZo8FT_tp33-ktdOKEUqq5l9BZrawoejFM75nt-yMD2GpcZjX6ZdVxNHL62vpMB32qOSrUFCtYcoxq3OPZ1sYATw7S1_x-_uu8C3IiZT2sZ2Ro4_8NkwnVwlpqMbYCzsDjyxUTaHlvEmidBwl-2lI_8plGfuU8hvK1j16S4xzGBGggjkVrJcVT7l-I4hUK48EAsyzENZzN7bNLusz_fctPd5B1s.CLghoXuAUjbtyKhN2wz157HTi844aG-DXNR0T9H78c4&dib_tag=se&hvadid=694387328048&hvdev=c&hvexpln=67&hvlocphy=1023511&hvnetw=g&hvocijid=16195174335375627700--&hvqmt=e&hvrand=16195174335375627700&hvtargid=kwd-1967268820035&hydadcr=13743_13389861&keywords=wiim%2Bamp&mcid=281f4dd8014b3c3698b04a849d4c09a4&qid=1752750449&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1">WiiM</a> product. I also loved the <a href="https://www.amazon.com/Denon-Amplifier-High-Res-Streaming-Bluetooth/dp/B0D6XCGVCZ/ref=sr_1_1?crid=28FXU4OPJ748W&dib=eyJ2IjoiMSJ9.PhLSxTVDhAoWi-mcQ6A0FpKL0AuFYUWUMlB_23CmvLz01ZJtb0MbzevGDRe8tb5kl1_c2WZyUxGZGvYtUi9_nIIWSO42cxq5KvBN3EBHypq-vkN99F1ro1P9I3ddfps3OPbbrSjvHN7EOoLX3ydqtTlJkNjCKwzQ9UWwY2eMJOWUrPJBdYPidRPteTE4Bv9jOD8WAs6H9dGlj_Mpsg0eX3vnIKPes-E0PicGn54wq7Y.5HJ7eiZCWeWk8ylgHyJcsl9tpllGD5FU2by0--wJRu0&dib_tag=se&keywords=Denon+Home+Amp&qid=1752750499&sprefix=denon+home+amp%2Caps%2C163&sr=8-1">Denon</a>, but the WiiM fit the bill and was less than 1/2 the price. None of this was possible before we got the AI bots. 
+
+<br> 
+
+<http://scripting.com/2025/07/17.html#a105457>
+
+---
+
+## The Supreme Court, the Deep State, and Jeffrey Epstein
+
+date: 2025-07-17, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-supreme-court-the-deep-state>
+
+---
+
+## It’s (rest of world) publication day for Face with Tears of Joy!
+
+date: 2025-07-17, from: Shady Characters blog
+
+<p>It’s publication day <strong>again</strong>! <cite>Face with Tears of Joy: A Natural History of Emoji</cite> is published today in the <abbr class="initialism">UK</abbr> and other non-<abbr class="initialism">US</abbr> territories.</p>
+<p>You can order a copy from <a href="https://wwnorton.co.uk/books/9781324075141-face-with-tears-of-joy">Norton</a>, <a href="https://www.amazon.co.uk/Face-Tears-Joy-Natural-History/dp/1324075147">Amazon</a>, <a href="https://www.waterstones.com/book/face-with-tears-of-joy/keith-houston/9781324075141">Waterstones</a>, <a href="https://uk.bookshop.org/p/books/face-with-tears-of-joy-a-natural-history-of-emoji-keith-houston/7763425?ean=9781324075141">Bookshop.org</a>, <a href="https://blackwells.co.uk/bookshop/product/Face-With-Tears-of-Joy-by-Keith-Houston/9781324075141">Blackwell’s</a> or <a href="https://www.toppingbooks.co.uk/books/keith-houston/face-with-tears-of-joy/9781324075141/">Topping &#38; Company</a>. (If you’re ever in Linlithgow, Scotland, drop into my local bookshop, <a href="https://www.maddingcrowdlinlithgow.com/">Far From the Madding Crowd</a> — I’ll try to sign a few copies for them.)</p><a class="more-link" href="https://shadycharacters.co.uk/2025/07/face-with-tears-of-joy-row-publication/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/07/face-with-tears-of-joy-row-publication/>
+
+---
+
+## Open, free, and completely ignored: The strange afterlife of Symbian
+
+date: 2025-07-17, updated: 2025-07-17, from: Liam Proven's articles at the Register
+
+<h4>It did get sourced, but nobody cared</h4>
+      <p>The result of the pioneering joint Psion and Nokia smartphone effort is still out there on GitHub.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/17/symbian_forgotten_foss_phone_os/>
+
+---
+
+## July 16, 2025 
+
+date: 2025-07-17, from: Heather Cox Richardson blog
+
+After years of covering Donald J. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-16-2025>
+
+---
+
+## Thursday, 17 July 2025
+
+date: 2025-07-17, from: Doc Searls (at Harvard), New Old Blog
+
+It&#39;s Pop&#39;s birthday. Were he alive, he&#39;d be 117 years old. Here is the collection of photos from his life (starting with ancestors) that I posted on his 100th birthday. 
+
+<br> 
+
+<https://doc.searls.com/2025/07/16/thursday-17-july-2025/>
+
+---
+
+## If you like public broadcasting, be customers, not just consumers
+
+date: 2025-07-17, from: Doc Searls (at Harvard), New Old Blog
+
+Public broadcasting has three markets: Listeners and viewers. Philanthropies (wealthy individuals and foundations). Government agencies (primarily the Corporation for Public Broadcasting, or CPB). I saw the writing on the wall for  #3 in 2010. (Actually much earlier, but that&#8217;s the oldest link I could find.) It has been clear for decades that Republicans have no [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/16/if-you-like-public-broadcasting-be-customers-not-just-consumers/>
+
+---
+
+##  From Smithsonian Magazine, the story of how Reading Rainbow came about, in... 
+
+date: 2025-07-16, updated: 2025-07-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047159-from-smithsonian-magazine>
+
+---
+
+##  A collection of photos from the 70s & 80s of kids jumping... 
+
+date: 2025-07-16, updated: 2025-07-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047160-a-collection-of-photos-fr>
+
+---
+
+## Adding GPS and off-grid maps to my Meshtastic T-Deck
+
+date: 2025-07-16, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Adding GPS and off-grid maps to my Meshtastic T-Deck</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Meshtastic is still a bit touch-and-go sometimes, but the <a href="https://meshstl.org">St. Louis area Mesh</a> has grown quite a bit, to the point I can regularly mesh with 10-30 other nodes. So far we can't quite get the entire metro covered wirelessly, but there are a few gaps MQTT is connecting currently.</p>
+
+<p><img src="https://www.jeffgeerling.com/sites/default/files/images/meshmap-stl.jpg" width="700" height="394" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-0684f5e5-5d26-45cd-afbc-a75ef9810b71" data-insert-attach="{&quot;id&quot;:&quot;0684f5e5-5d26-45cd-afbc-a75ef9810b71&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Meshmap.net - St. Louis Missouri"></p>
+
+<p>One thing I hadn't really thought about—but can be useful, especially for <a href="https://meshmap.net">visualizing the mesh</a>—is GPS positioning on the mesh node itself.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-07-16T16:08:03-05:00" title="Wednesday, July 16, 2025 - 16:08" class="datetime">July 16, 2025</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/adding-gps-and-grid-maps-my-meshtastic-t-deck>
 
 ---
 
@@ -200,7 +354,7 @@ Today, I met a nurse from Millbrae. She helped me with a few medical things. She
 
 date: 2025-07-16, from: Doc Searls (at Harvard), New Old Blog
 
-Bet it&#39;s about liability and arbitration. T-Mobile just texted me this: T-Mobile: We’ve updated our Terms and Conditions and Privacy Notices. Get the details and learn about your options in the Privacy Dashboard at secure.t-mobile.com/terms I can&#39;t log on, and doing the password reset thing is a PITA, so I won&#39;t bother. Maybe I&#39;ll remember to take [&#8230;] 
+Want a weather show? Look at this: Bet it&#8217;s about liability and arbitration. T-Mobile just texted me this: T-Mobile: We’ve updated our Terms and Conditions and Privacy Notices. Get the details and learn about your options in the Privacy Dashboard at secure.t-mobile.com/terms I can&#8217;t log on, and doing the password reset thing is a PITA, so I [&#8230;] 
 
 <br> 
 
@@ -401,6 +555,18 @@ date: 2025-07-16, updated: 2025-07-16, from: Anil Dash blog
 <br> 
 
 <https://anildash.com/2025/07/16/exit_the_wu/>
+
+---
+
+## Links? Links!
+
+date: 2025-07-16, updated: 2025-07-16, from: Alex Russel's blog
+
+ 
+
+<br> 
+
+<https://infrequently.org/2025/07/links/>
 
 ---
 

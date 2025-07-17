@@ -1,11 +1,158 @@
 ---
 title: socal north
-updated: 2025-07-16 14:07:35
+updated: 2025-07-17 06:07:48
 ---
 
 # socal north
 
-(date: 2025-07-16 14:07:35)
+(date: 2025-07-17 06:07:48)
+
+---
+
+## ¿Qué son las escuelas chárter y cómo funcionan en L.A.?
+
+date: 2025-07-17, updated: 2025-07-17, from: The LAist
+
+Dependiendo a quién se le pregunte, las escuelas chárter representan o bien una amenaza existencial a las escuelas públicas, o un modelo innovador para el aprendizaje. Sin embargo, para muchas familias es tan solo una de las muchas opciones de escuelas públicas para tener en cuenta. 
+
+<br> 
+
+<https://laist.com/news/education/los-angeles-charter-schools-guide-escuelas-guia-es>
+
+---
+
+## Ken Burns hopes his new American Revolution documentary will put the 'us' back in the U.S.
+
+date: 2025-07-17, updated: 2025-07-17, from: The LAist
+
+The documentary is set to broadcast as America this year prepares to celebrate the 250th anniversary of the Revolution’s start. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/ken-burns-hopes-his-new-american-revolution-documentary-will-put-the-us-back-in-the-u-s>
+
+---
+
+## Head Start changes prompt confusion and worry for child care providers
+
+date: 2025-07-17, updated: 2025-07-17, from: The LAist
+
+Last week, the U.S. Department of Health and Human Services said that children without legal status cannot enroll in Head Start — effective immediately. But without implementation guidelines, providers say they're in a holding pattern. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/head-start-changes-trump-administration-hhs-undocumented-confusion>
+
+---
+
+## Why Trump's tariffs may hit low-income households hardest
+
+date: 2025-07-17, updated: 2025-07-17, from: The LAist
+
+President Donald Trump's tariffs are almost "tailor-made" to hit the goods that lower income households prefer to purchase, says economist Ernie Tedeschi of Yale's nonpartisan Budget Lab. 
+
+<br> 
+
+<https://laist.com/news/why-trumps-tariffs-may-hit-low-income-households-hardest>
+
+---
+
+## LA’s first modern distillery celebrates its 20th anniversary with its most ambitious spirit offering yet
+
+date: 2025-07-17, updated: 2025-07-17, from: The LAist
+
+Greenbar Distillery wants to make your home cocktail a breeze. 
+
+<br> 
+
+<https://laist.com/news/food/dtlas-first-distillery-greenbar-is-celebrating-its-20th-anniversary-with-its-most-ambitious-spirit-offering-yet>
+
+---
+
+## It's finally here! SoCal's fave burger joint will be revealed at Tournament of Cheeseburgers this weekend
+
+date: 2025-07-17, updated: 2025-07-17, from: The LAist
+
+It’s the cheeseburger event of the summer this weekend at Smorgasburg LA. 
+
+<br> 
+
+<https://laist.com/news/food/its-finally-here-socals-fave-burger-joint-will-be-revealed-at-tournament-of-cheeseburgers-this-weekend>
+
+---
+
+## Curaçao is launching an assistance program for families affected by immigration enforcement. Here's how to apply
+
+date: 2025-07-17, updated: 2025-07-17, from: The LAist
+
+The local department chain's customer base consists largely of Latino immigrant communities, and they're offering help to families who might be afraid to go out because of immigration enforcement. 
+
+<br> 
+
+<https://laist.com/news/curacao-is-launching-an-assistance-program-for-families-affected-by-immigration-enforcement-heres-how-to-apply>
+
+---
+
+## Inland Empire lawmakers kept out of Adelanto detention center say ICE rules are blocking oversight
+
+date: 2025-07-16, updated: 2025-07-16, from: The LAist
+
+Two Democratic lawmaker say that the Department of Homeland Security is placing restrictive rules on visiting the Adelanto ICE Processing Center, which interferes with their ability to conduct Congressional oversight. 
+
+<br> 
+
+<https://laist.com/news/politics/inland-empire-lawmakers-kept-out-of-adelanto-detention-center-say-ice-rules-are-blocking-oversight>
+
+---
+
+## Longtime 'American Idol' music supervisor and her husband found dead at Encino home
+
+date: 2025-07-16, updated: 2025-07-16, from: The LAist
+
+Police found Robin Kaye and her husband, Thomas Deluca, shot to death in their Encino home Monday. They arrested a 22-year-old man, who they say was burglarizing the house when the couple returned. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/longtime-american-idol-music-supervisor-and-her-husband-found-dead-at-home>
+
+---
+
+## Dale Fire in Riverside County prompts evacuation orders
+
+date: 2025-07-16, updated: 2025-07-17, from: The LAist
+
+The fire quickly grew Wednesday afternoon in hot, dry conditions. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/dale-fire-in-riverside-county-prompts-evacuation-orders>
+
+---
+
+## Long Beach asks delivery robots to leave while it crafts regulations
+
+date: 2025-07-16, from: Longbeach Post
+
+<figure><img width="1024" height="699" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16143811/screenshot-2025-07-16-at-23629pm-500487-yp6zdj75-966589-4Eb090yW-1024x699.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16143811/screenshot-2025-07-16-at-23629pm-500487-yp6zdj75-966589-4Eb090yW-1024x699.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16143811/screenshot-2025-07-16-at-23629pm-500487-yp6zdj75-966589-4Eb090yW-300x205.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16143811/screenshot-2025-07-16-at-23629pm-500487-yp6zdj75-966589-4Eb090yW-768x524.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16143811/screenshot-2025-07-16-at-23629pm-500487-yp6zdj75-966589-4Eb090yW-158x108.png 158w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16143811/screenshot-2025-07-16-at-23629pm-500487-yp6zdj75-966589-4Eb090yW-1200x819.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16143811/screenshot-2025-07-16-at-23629pm-500487-yp6zdj75-966589-4Eb090yW-400x273.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16143811/screenshot-2025-07-16-at-23629pm-500487-yp6zdj75-966589-4Eb090yW.png 1436w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The automated delivery bots started popping up in the downtown area earlier this year, but they’ve since been pulled back.</p>
+<p>The post <a href="https://lbpost.com/news/place/long-beach-asks-delivery-robots-to-leave-while-it-crafts-regulations">Long Beach asks delivery robots to leave while it crafts regulations</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/place/long-beach-asks-delivery-robots-to-leave-while-it-crafts-regulations>
+
+---
+
+## AI is helping students be more independent, but the isolation could be career poison
+
+date: 2025-07-16, updated: 2025-07-16, from: The LAist
+
+Chatbots may give students quick answers when they have questions, but they won’t help students form relationships that matter for college and life success. 
+
+<br> 
+
+<https://laist.com/news/education/ai-is-helping-students-be-more-independent-but-the-isolation-could-be-career-poison>
 
 ---
 
@@ -37,7 +184,7 @@ Starting this school year, school districts must provide information about CalKI
 
 date: 2025-07-16, from: Longbeach Post
 
-<figure><img width="1024" height="587" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-1024x587.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-1024x587.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-300x172.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-768x440.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-188x108.jpg 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-1200x688.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-400x229.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D.jpg 1295w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="587" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-1024x587.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-1024x587.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-300x172.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-768x440.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-188x108.jpg 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-1200x688.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-400x229.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D.jpg 1295w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>We'll update this as we get further information.</p>
 <p>The post <a href="https://lbpost.com/news/crime/body-found-91-freeway-la-river-long-beach-police">Body found under 91 Freeway in North Long Beach; police are investigating</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -387,7 +534,7 @@ The historic theater says it’s closing in late September and will host dance n
 
 date: 2025-07-15, from: CalVolunteers
 
-Published: July 15, 2025 &#124; Application Due Date: August 6, 2025 
+Published: July 16, 2025 &#124; Application Due Date: August 6, 2025 
 
 <br> 
 

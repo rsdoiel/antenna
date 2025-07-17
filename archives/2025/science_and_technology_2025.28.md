@@ -1,11 +1,167 @@
 ---
 title: science and technology
-updated: 2025-07-16 14:07:36
+updated: 2025-07-17 06:07:50
 ---
 
 # science and technology
 
-(date: 2025-07-16 14:07:36)
+(date: 2025-07-17 06:07:50)
+
+---
+
+## Tilck: a tiny Linux-compatible kernel
+
+date: 2025-07-17, from: OS News
+
+Tilck is an educational monolithic kernel designed to be Linux-compatible at binary level. It runs on i686 and RISCV64 at the moment. Project&#8217;s small-scale and simple design makes it the perfect playground for playing in kernel mode while retaining the ability to compare how the very same usermode bits run on the Linux kernel as well. That&#8217;s a rare feature in the realm of educational kernels. Because of that, building a program for Tilck requires just a gcc-musl toolchain from bootlin.com. Tilck has no need to have its own set of custom written applications, like most educational kernels do. It just runs mainstream Linux programs like the BusyBox suite. While the Linux-compatibility and the monolithic design might seem a limitation from the OS research point of view, on the other side, such design bring the whole project much closer to real-world applications in the future, compared to the case where some serious (or huge) effort is required to port pre-existing software on it. Also, nothing stops Tilck from implementing custom non-Linux syscalls that aware apps might take advantage of. ↫ Tilck GitHub page Tilck implements about 100 Linux syscalls, and is not focused on replacing the Linux kernel or even becoming a generic desktop or server operating system. It supports both i686 and RISC-V, has support for FAT, and a whole slew of other features. It can run a number of console and even a few framebuffer applications, but don&#8217;t expect things like X11 to work, or to ever work. 
+
+<br> 
+
+<https://www.osnews.com/story/142830/tilck-a-tiny-linux-compatible-kernel/>
+
+---
+
+## Mypal68: Firefox 68, maintained for Windows XP
+
+date: 2025-07-17, from: OS News
+
+Do you have a Windows XP retro virtual machine or, god forbid, run Windows XP on your primary machine? You&#8217;re going to need a sort-of up-to-date browser, and it turns out Mypal68 offers just that. Terrible name aside, it&#8217;s Firefox 68 ported to and maintained to run on Windows XP SP3; SP2 and lower are not supported, but some people do seem to have some success getting it to run on those. There are issues, of course: there&#8217;s a 1.5GB memory limit, and the browser will crash when it reaches that limit, and 64bit builds simpy don&#8217;t work at all, so there&#8217;s only a 32bit build. Version 74.1.0 was released a few days ago, but that version number doesn&#8217;t actually mean the browser is now based on Firefox 74; they had to change the reported version number for extension compatibility. I&#8217;m currently setting up a dedicated Proxmox PC for retro virtual machines, and Windows XP will obviously be one of them. I&#8217;m definitely going to try this out. 
+
+<br> 
+
+<https://www.osnews.com/story/142828/mypal68-firefox-68-maintained-for-windows-xp/>
+
+---
+
+## Quantum code breaking? You'd get further with an 8-bit computer, an abacus, and a dog
+
+date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
+
+<h4>Computer scientist Peter Gutmann tells The Reg why it&#39;s &#39;bollocks&#39;</h4> <p>The US National Institute for Standards and Technology (NIST) has been pushing for the development of post-quantum cryptographic algorithms since 2016.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/17/quantum_cryptanalysis_criticism/>
+
+---
+
+## Boffins detail new algorithms to losslessly boost AI perf by up to 2.8x
+
+date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
+
+<h4>New spin on speculative decoding works with any model - now built into Transformers</h4> <p>We all know that AI is expensive, but a new set of algorithms developed by researchers at the Weizmann Institute of Science, Intel Labs, and d-Matrix could significantly reduce the cost of serving up your favorite large language model (LLM) with just a few lines of code.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/17/new_algorithms_boost_ai_perf/>
+
+---
+
+## NASA Program Builds Bridge From Military to Civilian Careers for Johnson Team Members
+
+date: 2025-07-17, from: NASA breaking news
+
+Of all the possible entry points to NASA, the agency’s SkillBridge Program has been instrumental in helping servicemembers transition from the military and into civilian careers. Offered in partnership with the Department of Defense (DoD), the program enables individuals to spend their final months of military service working with a NASA office or organization. SkillBridge [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/nasa-program-builds-bridge-from-military-to-civilian-careers-for-johnson-team-members/>
+
+---
+
+## Large Hadron Collider data hints at explanation for why everything exists
+
+date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
+
+<h4>The universe contains more matter than antimatter, and a paper hints at one reason for that happy disparity</h4> <p>Scientists have analyzed data gathered from CERN’s Large Hadron Collider to advance our understanding of why anything exists.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/17/cern_lhc_matter_antimatter/>
+
+---
+
+## Open, free, and completely ignored: The strange afterlife of Symbian
+
+date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
+
+<h4>It did get sourced, but nobody cared</h4> <p>The result of the pioneering joint Psion and Nokia smartphone effort is still out there on GitHub.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/17/symbian_forgotten_foss_phone_os/>
+
+---
+
+## Microsoft offers vintage Exchange and Skype server users six more months of security updates
+
+date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
+
+<h4>It looks like enough of you are struggling to migrate that Redmond is willing to help out – for a price that might buy nothing</h4> <p>Microsoft has extended its security update programs for Exchange Server 2016 and 2019, and Skype for Business 2015 and 2019.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/17/microsoft_extended_security_exchange_skype_server/>
+
+---
+
+## Meta used AI to concoct low-carbon concrete it poured for a datacenter floor
+
+date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
+
+<h4>Bayesian optimizations apparently build better slabs</h4> <p>Social media giant Meta has created an AI model to come up with new forms of concrete and used one of the resulting recipes to underpin a new bit barn.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/17/meta_ai_concrete_model/>
+
+---
+
+## Intel swings the axe again as it looks to lose 5,000 staff
+
+date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
+
+<h4>Our sources tell us mostly back office staff were let go, and that the mood in the office is very pessimistic</h4> <p>Intel has filed documents that reveal plans to fire around 5,000 staff, mostly in California and Oregon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/17/intel_layoffs/>
+
+---
+
+## Trump tax law keeps Bill Gates' nuclear datacenter dreams alive
+
+date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+
+<h4>The Microsoft cofounder breathed that sigh of relief in a Cipher News interview - just before it folded</h4> <p>Despite Trump&#39;s budget bill slashing many mature clean-energy tax credits, Bill Gates is less worried, since new nuclear incentives, including those his TerraPower venture will leverage, survived intact.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/16/trump_tax_law_bill_gates/>
+
+---
+
+## NASA Invites Media to Marshall’s 65th Anniversary Celebration July 19
+
+date: 2025-07-16, from: NASA breaking news
+
+NASA’s Marshall Space Flight Center will host astronauts for a media opportunity as the center celebrates its 65th anniversary during a free, community event on Saturday, July 19, from noon to 5 p.m. CDT at The Orion Amphitheater in Huntsville, Alabama. Marshall, along with its partners and collaborators, will fill the amphitheater with space exhibits, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-marshalls-65th-anniversary-celebration-july-19/>
+
+---
+
+## Summer Triangle Corner: Vega
+
+date: 2025-07-16, from: NASA breaking news
+
+If you live in the Northern Hemisphere and look up during July evenings, you’ll see the brilliant star Vega shining overhead. Did you know that Vega is one of the most studied stars in our skies? As one of the brightest summer stars, Vega has fascinated astronomers for thousands of years.Vega is the brightest star in the […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-vega/>
 
 ---
 

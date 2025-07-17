@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-07-16 14:07:34
+updated: 2025-07-17 06:07:48
 ---
 
 # north america
 
-(date: 2025-07-16 14:07:34)
+(date: 2025-07-17 06:07:48)
+
+---
+
+## John Lewis’s Enduring Example
+
+date: 2025-07-17, from: The Contrarian
+
+We have no right to give up on democracy or our fellow Americans 
+
+<br> 
+
+<https://contrarian.substack.com/p/john-lewiss-enduring-example>
+
+---
+
+## Evening Roundup, July 16
+
+date: 2025-07-16, from: The Contrarian
+
+Featuring Jennifer Weiss-Wolf, Anat Shenker-Osorio, Josh Levs, John Cassidy and Jared Bernstein, the Democracy Movement, and Michael de Adder. 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-16>
 
 ---
 

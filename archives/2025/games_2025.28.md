@@ -1,11 +1,35 @@
 ---
 title: games
-updated: 2025-07-16 14:07:38
+updated: 2025-07-17 06:07:52
 ---
 
 # games
 
-(date: 2025-07-16 14:07:38)
+(date: 2025-07-17 06:07:52)
+
+---
+
+## Apple&#8217;s new daily puzzle game is basically Emoji Wordle
+
+date: 2025-07-17, updated: 2025-07-16, from: Polygon Website
+
+It’s World Emoji Day and Apple is celebrating with a new puzzle game available now on its Apple News+ app in the U.S. and Canada. Emoji Game is an original word game that has players fill in incomplete phrases by dragging emoji into blank spots. Developed internally at Apple, Emoji Game is now the fifth [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/613453/emoji-game-new-apple-news-game>
+
+---
+
+## Gigantamax Lapras counters, weakness, and battle tips in Pokémon Go
+
+date: 2025-07-17, updated: 2025-07-17, from: Polygon Website
+
+Gigantamax Lapras is the sixth Gigantamax Pokémon introduced to Pokémon Go, and is available in Max Battles as part of the Gigantamax Lapras Max Battle Day on July 19 from 2-5 p.m. in your local time. Lapras originally made its Gigantamax debut as part of another Max Battle Day on Dec. 8, 2024, but it’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/492425/gigantamax-lapras-counters-tips-max-battle>
 
 ---
 

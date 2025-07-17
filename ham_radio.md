@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-07-16 14:07:36
+updated: 2025-07-17 06:07:49
 ---
 
 # ham radio
 
-(date: 2025-07-16 14:07:36)
+(date: 2025-07-17 06:07:49)
+
+---
+
+## Electronic water softener design ideas to transform hard water
+
+date: 2025-07-17, from: EDN Blog
+
+<img width="1280" height="853" src="https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?fit=1280%2C853" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?w=1280 1280w, https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?w=1024 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /><p>It’s a simple oscillator circuit tailored to create a magnetic field around a water pipe to perform water conditioning.</p>
+<p>The post <a href="https://www.edn.com/electronic-water-softener-design-ideas-to-transform-hard-water/">Electronic water softener design ideas to transform hard water</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/electronic-water-softener-design-ideas-to-transform-hard-water/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-07-16 14:07:36
 
 date: 2025-07-16, from: EDN Blog
 
-<img width="1772" height="1181" src="https://www.edn.com/wp-content/uploads/Hero-image-18.jpg?fit=1772%2C1181" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-18.jpg?w=1772 1772w, https://www.edn.com/wp-content/uploads/Hero-image-18.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-18.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-18.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-18.jpg?w=1536 1536w" sizes="(max-width: 1772px) 100vw, 1772px" /><p>The hardware/software combos in present designs inevitably lead to challenges in getting a design prototype ready.</p>
+<img width="1772" height="1181" src="https://www.edn.com/wp-content/uploads/Hero-image-18.jpg?fit=1772%2C1181" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-18.jpg?w=1772 1772w, https://www.edn.com/wp-content/uploads/Hero-image-18.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-18.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-18.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-18.jpg?w=1536 1536w" sizes="auto, (max-width: 1772px) 100vw, 1772px" /><p>The hardware/software combos in present designs inevitably lead to challenges in getting a design prototype ready.</p>
 <p>The post <a href="https://www.edn.com/what-makes-todays-design-debugging-so-complex/">What makes today’s design debugging so complex</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 
@@ -27,7 +41,7 @@ date: 2025-07-16, from: EDN Blog
 
 date: 2025-07-16, from: EDN Blog
 
-<img width="498" height="621" src="https://www.edn.com/wp-content/uploads/Headlights-3.png?fit=498%2C621" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Headlights-3.png?w=498 498w, https://www.edn.com/wp-content/uploads/Headlights-3.png?w=241 241w" sizes="(max-width: 498px) 100vw, 498px" /><p>Finally, one state, Massachusetts, has wisely chosen to address the safety issue of automotive headlight glare.</p>
+<img width="498" height="621" src="https://www.edn.com/wp-content/uploads/Headlights-3.png?fit=498%2C621" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Headlights-3.png?w=498 498w, https://www.edn.com/wp-content/uploads/Headlights-3.png?w=241 241w" sizes="auto, (max-width: 498px) 100vw, 498px" /><p>Finally, one state, Massachusetts, has wisely chosen to address the safety issue of automotive headlight glare.</p>
 <p>The post <a href="https://www.edn.com/headlights-in-massachusetts/">Headlights In Massachusetts</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

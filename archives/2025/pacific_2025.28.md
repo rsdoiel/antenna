@@ -1,11 +1,392 @@
 ---
 title: pacific
-updated: 2025-07-16 14:07:35
+updated: 2025-07-17 06:07:49
 ---
 
 # pacific
 
-(date: 2025-07-16 14:07:35)
+(date: 2025-07-17 06:07:49)
+
+---
+
+## Immigrants file class-action lawsuit to stop ICE courthouse arrests
+
+date: 2025-07-17, from: Hawaii Tribune Harold
+
+
+				<p>A coalition of legal groups representing immigrants filed a class-action lawsuit against the Trump administration on Wednesday, arguing that the federal government&#8217;s campaign to arrest people at immigration courthouses so that they can be swiftly deported is unlawful and violates due process protections.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/17/nation-world-news/immigrants-file-class-action-lawsuit-to-stop-ice-courthouse-arrests/>
+
+---
+
+## Trump’s approval on immigration falls to lowest level of his term, Reuters/Ipsos poll finds
+
+date: 2025-07-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s public approval rating on immigration fell in recent weeks to 41%, the lowest since his return to the White House, as Americans took a dour view of heavy-handed tactics, a Reuters/Ipsos poll that closed on Wednesday found.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/17/nation-world-news/trumps-approval-on-immigration-falls-to-lowest-level-of-his-term-reuters-ipsos-poll-finds/>
+
+---
+
+## Louisiana police chiefs accused of fabricating robberies in immigrant visa scheme
+
+date: 2025-07-17, from: Hawaii Tribune Harold
+
+
+				<p>The police reports, signed by law enforcement officials in otherwise quiet and small central Louisiana towns, described a rash of armed robberies. The crimes had targeted people with no ties to the region, all of them immigrants struggling to find a toehold in the country.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/17/nation-world-news/louisiana-police-chiefs-accused-of-fabricating-robberies-in-immigrant-visa-scheme/>
+
+---
+
+## Manhattan prosecutor who handled Epstein cases is fired
+
+date: 2025-07-17, from: Hawaii Tribune Harold
+
+
+				<p>Maurene Comey, a Manhattan federal prosecutor who worked on the criminal cases against Jeffrey Epstein and Ghislaine Maxwell, was abruptly fired Wednesday by the Trump administration, according to six people with knowledge of the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/17/nation-world-news/manhattan-prosecutor-who-handled-epstein-cases-is-fired/>
+
+---
+
+## Taming the ‘Kraken’: Father, son rowing across the Pacific to Hilo
+
+date: 2025-07-17, from: Hawaii Tribune Harold
+
+
+				<p>An Atlanta man and his 18-year-old son are on Day 45 of rowing 2,400-plus nautical miles from San Francisco Bay to Hilo to raise awareness about and funds for veterans&#8217; mental health.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/17/hawaii-news/taming-the-kraken-father-son-rowing-across-the-pacific-to-hilo/>
+
+---
+
+## Trump’s new strategy on Epstein fallout: Blame the Democrats
+
+date: 2025-07-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; When President Donald Trump failed to quickly end Russia&#8217;s invasion of Ukraine as he promised to do, he blamed his predecessor, President Joe Biden, and claimed the conflict was &#8220;Biden&#8217;s war.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/17/nation-world-news/trumps-new-strategy-on-epstein-fallout-blame-the-democrats/>
+
+---
+
+## News in brief for July 17
+
+date: 2025-07-17, from: Hawaii Tribune Harold
+
+
+				<p>Lightning strike&#0010;kills 1, injures 13 &#0010;in New Jersey</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/17/nation-world-news/news-in-brief-for-july-17-2/>
+
+---
+
+## US ambassador to Israel visits Netanyahu’s corruption trial
+
+date: 2025-07-17, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Mike Huckabee, the U.S. ambassador to Israel, made a highly unusual appearance at the corruption trial of Prime Minister Benjamin Netanyahu on Wednesday, the latest sign of the Trump administration&#8217;s public support for Netanyahu in a long-running case.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/17/nation-world-news/us-ambassador-to-israel-visits-netanyahus-corruption-trial/>
+
+---
+
+## At least 20 killed in stampede outside a Gaza food site, aid group says
+
+date: 2025-07-17, from: Hawaii Tribune Harold
+
+
+				<p>A stampede outside an aid distribution center in the Gaza Strip killed at least 20 people waiting for food Wednesday, according to Palestinian and aid officials, the latest in a string of deadly episodes around sites run by the Gaza Humanitarian Foundation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/17/nation-world-news/at-least-20-killed-in-stampede-outside-a-gaza-food-site-aid-group-says/>
+
+---
+
+## Goldman Sachs sets series of records on tariff swings
+
+date: 2025-07-17, from: Hawaii Tribune Harold
+
+
+				<p>How well is it going at Goldman Sachs? When briefing reporters about its quarterly earnings Wednesday, a bank executive twice paused to list the various departments that had taken in a record haul.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/17/nation-world-news/goldman-sachs-sets-series-of-records-on-tariff-swings/>
+
+---
+
+## Russia isn’t sounding rattled by Trump’s ultimatum
+
+date: 2025-07-17, from: Hawaii Tribune Harold
+
+
+				<p>Russia appears unrattled by President Donald Trump&#8217;s new ultimatum aimed at ending the war in Ukraine, retreating to a long-held position that it will weather any sanctions and continue pursuing its war goals in Ukraine regardless of outside pressure.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/17/nation-world-news/russia-isnt-sounding-rattled-by-trumps-ultimatum/>
+
+---
+
+## Trump says he’s not planning to fire Fed’s Powell
+
+date: 2025-07-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump said Wednesday he is not planning to fire Federal Reserve Chair Jerome Powell, but he kept the door open to the possibility and renewed his criticism of the central bank chief for not lowering interest rates. A Bloomberg report earlier Wednesday saying that Trump was likely to fire Powell soon sparked a drop in stocks and the dollar, and a rise in Treasury yields. Trump, who has been criticizing Powell on an almost daily basis for being &#8220;TOO LATE&#8221; to cut interest rates, said the report wasn&#8217;t true. But Trump confirmed he had floated the idea with Republican lawmakers on Tuesday evening, marking the latest chapter in an escalating campaign by Trump against the independent central bank and its embattled chief. &#8220;I don&#8217;t rule out anything, but I think it&#8217;s highly unlikely unless he has to leave for fraud,&#8221; Trump said, a reference to recent White House and Republican lawmaker criticism of cost overruns in the $2.5 billion renovation of the Fed&#8217;s historic headquarters in Washington. There has been no evidence of fraud, and the Fed has pushed back on criticism of its handling of the project. Powell, who was nominated by Trump during his first term in late 2017 to lead the Fed and then nominated for a second term by Democratic President Joe Biden four years later, has repeatedly said he intends to serve out his term, which runs through May 15, 2026. A recent Supreme Court opinion has solidified a long-standing interpretation of the law that the Fed chair cannot be fired over policy differences but only &#8220;for cause.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/17/nation-world-news/trump-says-hes-not-planning-to-fire-feds-powell/>
+
+---
+
+## Central Oregon wildfire grows to more than 60,000 acres
+
+date: 2025-07-17, from: Hawaii Tribune Harold
+
+
+				<p>Oregon&#8217;s governor declared a state of emergency Wednesday as the Cram fire spread to more than 64,000 acres, fueled by high temperatures, gusty winds and low humidity.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/17/nation-world-news/central-oregon-wildfire-grows-to-more-than-60000-acres/>
+
+---
+
+## Hundreds of DOJ alumni warn Senate against Trump’s appellate judge nominee
+
+date: 2025-07-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; More than 900 former U.S. Department of Justice employees on Wednesday warned the Republican-controlled Senate Judiciary Committee against confirming President Donald Trump&#8217;s nominee Emil Bove to serve as an appellate court judge, according to a letter seen by Reuters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/17/nation-world-news/hundreds-of-doj-alumni-warn-senate-against-trumps-appellate-judge-nominee/>
+
+---
+
+## Many US employers plan to pare health benefits as weight-loss spending soars
+
+date: 2025-07-17, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; More than half of large U.S. employers plan to scale back health care benefits next year as rising costs from weight-loss and specialty drugs squeeze budgets, according to a new survey released by consulting firm Mercer on Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/17/nation-world-news/many-us-employers-plan-to-pare-health-benefits-as-weight-loss-spending-soars/>
+
+---
+
+## Trump administration pushes states for election data, Washington Post reports
+
+date: 2025-07-17, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s administration and its allies are trying to obtain voter data from states and inspect voting equipment, the Washington Post reported on Wednesday, in moves it said had caused concern among state and local election officials.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/17/nation-world-news/trump-administration-pushes-states-for-election-data-washington-post-reports/>
+
+---
+
+## Upended by meth, some communities are paying users to quit
+
+date: 2025-07-17, from: Hawaii Tribune Harold
+
+
+				<p>Jamie Mains showed up for her checkup so high that there was no point in pretending otherwise. At least she wasn&#8217;t shooting fentanyl again; medication was suppressing those cravings. Now it was methamphetamine that manacled her, keeping her from eating, sleeping, thinking straight. Still, she could not stop injecting.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/17/nation-world-news/upended-by-meth-some-communities-are-paying-users-to-quit/>
+
+---
+
+## Kennedy fires 2 top aides in DHHS shake-up
+
+date: 2025-07-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Health Secretary Robert F. Kennedy Jr. fired two of his top aides this week, shaking up his leadership team at the Department of Health and Human Services amid an aggressive effort to reshape public health policy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/17/nation-world-news/kennedy-fires-2-top-aides-in-dhhs-shake-up/>
+
+---
+
+## Pacific news in brief for 17 July
+
+date: 2025-07-17, from: 
+
+A round-up of news in brief from around the region, including dengue fever outbreak in Samoa claiming the life of a second child. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567206/pacific-news-in-brief-for-17-july>
+
+---
+
+## Climate ‘state of play’
+
+date: 2025-07-17, from: Marshal Islands Journal
+
+<p>This year marks 10 years since the historic signing of the Paris Agreement. A decade on, the need for action has only grown more urgent, said Marshall Islands climate advocates who provided the following update to the Journal. The climate meetings in Bonn, Germany last month focused on laying the groundwork for the 30th United [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/climate-state-of-play/">Climate ‘state of play’</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/climate-state-of-play/>
+
+---
+
+## Students get experience
+
+date: 2025-07-17, from: Marshal Islands Journal
+
+<p>RAIJEN LEBAN In preparation for the upcoming school year, soon-to-be high school juniors joined a summer job project providing training in carpentry and auto mechanics. “We chose this program to learn how to be carpenters and mechanics,” said Konkon Bokna, a Marshall Islands High School student in the program. The group of about 40 students [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/students-get-experience/">Students get experience</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/students-get-experience/>
+
+---
+
+## Ex-rebel leader 'General' Kauona is brimming with confidence in Bougainville presidential race
+
+date: 2025-07-17, from: 
+
+The former Bougainville Revolutionary Army leader says, "This time, I'm going to win. I'm confident." 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567204/ex-rebel-leader-general-kauona-is-brimming-with-confidence-in-bougainville-presidential-race>
+
+---
+
+## Manu-o-Kū (white tern) rescue on UH Mānoa campus highlights conservation efforts
+
+date: 2025-07-17, from: University of Hawaiʻi News
+
+<p>The group Hui Manu-O-Kū helped to save a white tern chick at Bilger Hall.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/16/manu-o-ku-rescue-uh-manoa/">Manu-o-Kū (white tern) rescue on <abbr>UH</abbr> Mānoa campus highlights conservation efforts</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/16/manu-o-ku-rescue-uh-manoa/>
+
+---
+
+## UH Mānoa’s acclaimed RENT heads to Kauaʻi stage
+
+date: 2025-07-17, from: University of Hawaiʻi News
+
+<p>The Pulitzer Prize-winning rock musical will be performed at the newly reopened <span aria-label="Kauai">Kaua&#699;i</span>Community College Performing Arts Center.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/16/rent-heads-to-kauai-cc/"><abbr>UH</abbr> Mānoa’s acclaimed RENT heads to Kauaʻi stage</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/16/rent-heads-to-kauai-cc/>
+
+---
+
+## Umaga, Jones among six Manu Samoa debutants for Scotland showdown
+
+date: 2025-07-17, from: 
+
+The sons of All Blacks legend Sir Michael Jones and former Manu Samoa representative Mike Umaga, are set to carry Samoa's hopes against Scottish team. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567199/umaga-jones-among-six-manu-samoa-debutants-for-scotland-showdown>
+
+---
+
+## Sew good! Hawaiʻi Island high school students shine at 4-H Fashion Camp
+
+date: 2025-07-16, from: University of Hawaiʻi News
+
+<p><span aria-label="Hawaii">Hawai&#699;i</span> teens design, sew and model original outfits while discovering careers in fashion.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/16/hawaii-island-students-4-h-fashion-camp/">Sew good! Hawaiʻi Island high school students shine at <abbr>4-H</abbr> Fashion Camp</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/16/hawaii-island-students-4-h-fashion-camp/>
+
+---
+
+## OFC Professional League will revolutionlise football in the Pacific - Karembeu
+
+date: 2025-07-16, from: 
+
+"The new Pro League will be a revolution for our region," the New Caledonia-born midfielder and FIFA World Cup winner says. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567160/ofc-professional-league-will-revolutionlise-football-in-the-pacific-karembeu>
+
+---
+
+## Working for coral survival
+
+date: 2025-07-16, from: Marshal Islands Journal
+
+<p>The Marshall Islands Conservation Society (MICS) has launched a coral heat-tolerance testing initiative and established two coral nurseries as part of the efforts to support reef restoration in the Marshall Islands. This initiative is part of a regional project led by The Nature Conservancy (TNC) with support from the Coral Research and Development Accelerator Platform [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/working-for-coral-survival/">Working for coral survival</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/working-for-coral-survival/>
 
 ---
 
@@ -455,6 +836,18 @@ A round-up of news from around the region, including Tonga's National Health Inf
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/567059/pacific-news-in-brief-for-15-july>
+
+---
+
+## Pacific news in brief for 16 July
+
+date: 2025-07-16, from: 
+
+A round-up of news from around the region, including Tonga's National Health Information System - hacked three weeks ago in a cyber attack - now back in action. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567059/pacific-news-in-brief-for-16-july>
 
 ---
 

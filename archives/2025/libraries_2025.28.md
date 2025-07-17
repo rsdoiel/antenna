@@ -1,11 +1,49 @@
 ---
 title: libraries
-updated: 2025-07-16 14:07:39
+updated: 2025-07-17 06:07:53
 ---
 
 # libraries
 
-(date: 2025-07-16 14:07:39)
+(date: 2025-07-17 06:07:53)
+
+---
+
+## Guest Post: Gatekeepers of Meaning — Peer Review, AI, and the Fight for Human Attention
+
+date: 2025-07-17, from: Scholarly Kitchen
+
+<p>Guest blogger, Ashutosh Ghildiyal, asks: Is AI for us, or are we for AI? In the all-important context of peer review, can we leverage AI to amplify human thought rather than replace us?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/07/17/guest-post-gatekeepers-of-meaning-peer-review-ai-and-the-fight-for-human-attention/">Guest Post: Gatekeepers of Meaning — Peer Review, AI, and the Fight for Human Attention</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/07/17/guest-post-gatekeepers-of-meaning-peer-review-ai-and-the-fight-for-human-attention/>
+
+---
+
+## Help shape Research Data Management (RDM) Training for the ETH Domain at this year’s MOOCathon
+
+date: 2025-07-17, from: ETH Zurich Research Archives
+
+Join us on 10 and 11 September 2025 at ETH Zurich for a two-day hackathon and help improve RDM skills across the ETH Domain. Read more 
+
+<br> 
+
+<https://rc-blog.ethz.ch/en/help-shape-research-data-management-rdm-training-for-the-eth-domain-at-this-years-moocathon/>
+
+---
+
+## Swiss Open Academic Data Day (SOAD)
+
+date: 2025-07-17, from: ETH Zurich Research Archives
+
+On 10 September 2025, researchers, data scientists and practitioners from all over Switzerland will meet to explore the potential and challenges of Open Academic Data. Read more 
+
+<br> 
+
+<https://rc-blog.ethz.ch/en/swiss-open-academic-data-day-soad-2/>
 
 ---
 

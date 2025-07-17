@@ -1,11 +1,163 @@
 ---
 title: going electric
-updated: 2025-07-16 14:07:41
+updated: 2025-07-17 06:07:55
 ---
 
 # going electric
 
-(date: 2025-07-16 14:07:41)
+(date: 2025-07-17 06:07:55)
+
+---
+
+## Lucid Gravity Robotaxis Will Soon Be On The Uber App
+
+date: 2025-07-17, from: Inside EVs News
+
+Uber will invest $300 million into Lucid as part of the arrangement. 
+
+<br> 
+
+<https://insideevs.com/news/766132/lucid-gravity-robotaxi-uber-nuro/>
+
+---
+
+## Uber to deploy 20,000 Lucid Gravity robotaxis equipped with Nuro Driver, beginning next year [Video]
+
+date: 2025-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Uber-Lucid-Nuro-Robotaxi-front.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lucid Gravity Robotaxis? Yes, please! Uber Technologies, Lucid Group, and Nuro, Inc. announced an exciting new partnership this morning. The three will combine technologies to deliver the public a premium global robotaxi option on Uber’s platform. We should see the <a href="https://electrek.co/guides/lucid-motors/">Lucid</a> robotaxis roll out in their first major city next year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous-driving,lucid-gravity,lucid-motors,nuro,robotaxi,uber" data-layer-viewtype="unknown" data-post-id="425090" href="https://electrek.co/2025/07/17/uber-20000-lucid-gravity-robotaxis-nuro-driver-next-year-video/#more-425090" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/17/uber-20000-lucid-gravity-robotaxis-nuro-driver-next-year-video/>
+
+---
+
+## They’re real, and they’re spectacular: Ford launches Bronco EV and EREV
+
+date: 2025-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/bronco_ev-phev.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Last night, Ford released a pair of electrified Ford Bronco models – a pure battery-electric version packing a massive 105.4 kWh battery pack and an EREV version with its own whopping 43.7 kWh battery and 800 miles of combined range. That’s the good news.</p>
+
+
+
+<p>The bad news? You’ll probably never see either them.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,ford" data-layer-viewtype="unknown" data-post-id="425311" href="https://electrek.co/2025/07/17/theyre-real-and-theyre-spectacular-ford-launches-bronco-ev-and-erev/#more-425311" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/17/theyre-real-and-theyre-spectacular-ford-launches-bronco-ev-and-erev/>
+
+---
+
+## Mercedes-Benz Will Let You Show Your Face In Online Meetings While Driving
+
+date: 2025-07-17, from: Inside EVs News
+
+Showing your boss that you're a hard worker even when driving. 
+
+<br> 
+
+<https://insideevs.com/news/766187/mercedes-microsoft-teams-video-in-car-meeting/>
+
+---
+
+## Zero and LiveWire race to launch affordable electric motorcycles for the US
+
+date: 2025-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Zero-motorcycle-XB-XE-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>America’s two best-known flagship electric motorcycle brands are making a bold pivot – opening their business models up to include smaller, more affordable bikes – and the timing couldn’t be better. Zero Motorcycles and LiveWire have each unveiled new, budget-conscious models aimed at expanding the mainstream appeal of electric two-wheelers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle,livewire,zero-motorcycles" data-layer-viewtype="unknown" data-post-id="425306" href="https://electrek.co/2025/07/17/zero-and-livewire-race-to-launch-affordable-electric-motorcycles-for-the-us/#more-425306" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/17/zero-and-livewire-race-to-launch-affordable-electric-motorcycles-for-the-us/>
+
+---
+
+## Tesla Cybertruck Sales Fall Dramatically To Their Lowest Level In A Year
+
+date: 2025-07-17, from: Inside EVs News
+
+The controversial electric pickup was once a bestseller. Now it’s struggling to stay relevant. 
+
+<br> 
+
+<https://insideevs.com/news/766162/tesla-cybertruck-sales-q2-h1-2025/>
+
+---
+
+## Caterpillar autonomous haul trucks reach one MILLION ton milestone
+
+date: 2025-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/MILLIONautonomous_CAT.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Construction and mining giant Caterpillar has reached a major milestone for its autonomous haulage system (AHS), reaching one <em>million</em> tons (!) of aggregate hauled by the company’s massive self-driving trucks.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous,caterpillar,commercial-evs,mining" data-layer-viewtype="unknown" data-post-id="425230" href="https://electrek.co/2025/07/16/caterpillar-autonomous-haul-trucks-reach-one-million-ton-milestone/#more-425230" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/16/caterpillar-autonomous-haul-trucks-reach-one-million-ton-milestone/>
+
+---
+
+## Zeem set to deploy 19 electric semi trucks on Seattle-Tacoma gateway
+
+date: 2025-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/zeem_2_main.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Northwest Seaport Alliance has announced the recipients of its inaugural incentive program for zero emission drayage trucks – and they’ve turned to the logistics experts at Zeem to deploy 19 battery electric semi trucks to serve the Seattle-Tacoma gateway.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-semi-truck,zeem" data-layer-viewtype="unknown" data-post-id="425210" href="https://electrek.co/2025/07/16/zeem-set-to-deploy-19-electric-semi-trucks-on-seattle-tacoma-gateway/#more-425210" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/16/zeem-set-to-deploy-19-electric-semi-trucks-on-seattle-tacoma-gateway/>
+
+---
+
+## CA senate drops controversial contract-breaking provision of solar law
+
+date: 2025-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/04/California_State_Capitol_from_Capitol_Mall_-_Sacramento_26429122855-e1682116381429.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The California Senate dropped a controversial provision of an upcoming solar law which would have broken long-standing solar contracts with California homeowners after significant public backlash over the state’s plans to do so.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,solar-power" data-layer-viewtype="unknown" data-post-id="425193" href="https://electrek.co/2025/07/16/ca-senate-drops-controversial-contract-breaking-provision-of-solar-law/#more-425193" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/16/ca-senate-drops-controversial-contract-breaking-provision-of-solar-law/>
+
+---
+
+## Volvo’s best-selling vehicle is coming to America
+
+date: 2025-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Volvo-best-selling-vehicle.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The XC60, Volvo’s best-selling vehicle, will soon be built in South Carolina. It will be assembled alongside the flagship EX90 electric SUV, with <a href="https://electrek.co/guides/volvo/">Volvo</a> promising this is “just the beginning.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo" data-layer-viewtype="unknown" data-post-id="425169" href="https://electrek.co/2025/07/16/volvos-best-selling-vehicle-coming-to-the-us/#more-425169" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/16/volvos-best-selling-vehicle-coming-to-the-us/>
 
 ---
 
@@ -146,6 +298,22 @@ date: 2025-07-16, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/07/16/hyundai-fighting-rising-ev-prices-with-more-ways-to-save/>
+
+---
+
+## Hyundai is fighting rising vehicle, EV prices with more ways to save
+
+date: 2025-07-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Hyundai-Pleos-brand.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>While many automakers are raising EV prices, <a href="https://electrek.co/guides/hyundai/">Hyundai</a> continues to find ways for you to save. Hyundai is cutting vehicle prices, including on its top-selling SUVs and new electric models like the IONIQ 5 and IONIQ 9.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5,hyundai-ioniq-9" data-layer-viewtype="unknown" data-post-id="425048" href="https://electrek.co/2025/07/16/hyundai-fights-rising-vehicle-ev-prices-with-more-ways-to-save/#more-425048" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/16/hyundai-fights-rising-vehicle-ev-prices-with-more-ways-to-save/>
 
 ---
 

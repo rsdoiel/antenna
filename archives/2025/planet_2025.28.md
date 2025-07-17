@@ -1,11 +1,579 @@
 ---
 title: planet
-updated: 2025-07-16 14:07:33
+updated: 2025-07-17 06:07:46
 ---
 
 # planet
 
-(date: 2025-07-16 14:07:33)
+(date: 2025-07-17 06:07:46)
+
+---
+
+## Friend of assaulted boy said he saw him being hit by man
+
+date: 2025-07-17, from: RTÉ News
+
+Proceedings have resumed at the trial of a former Clare hurler who is accused of assaulting a 12-year-old boy. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0717/1524002-niall-gilligan-court/>
+
+---
+
+## Tánaiste criticises Opposition for wanting to spend more
+
+date: 2025-07-17, from: RTÉ News
+
+Tánaiste Simon Harris has criticised the Opposition for wanting to spend more money, even though there are major concerns about US trade tariffs and the future of the pharmaceutical industry in Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0717/1523989-dail-cost-of-living/>
+
+---
+
+## French town withdraws festival funding over Kneecap
+
+date: 2025-07-17, from: RTÉ News
+
+The municipal authority for the Paris suburb of Saint-Cloud, which hosts the annual Rock-en-Seine music festival, has decided to withdraw a €40,000 subsidy for the event due to its booking of Irish rap trio Kneecap, it said on Thursday. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0717/1523987-french-town-withdraws-festival-funding-over-kneecap/>
+
+---
+
+## Pope renews call for ceasefire in Gaza after attack on Catholic parish
+
+date: 2025-07-17, from: Vatican News
+
+
+                    <p>Pope Leo XIV sends a telegram of closeness to the people of the Holy Family Catholic Parish in Gaza after an attack by Israeli troops in which two people were killed and several others seriously injured.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-renews-calls-for-ceasefire-in-gaza-following-attack-on-cath.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-renews-calls-for-ceasefire-in-gaza-following-attack-on-cath.html>
+
+---
+
+## Three men plead guilty to manslaughter of Tom Niland
+
+date: 2025-07-17, from: RTÉ News
+
+A man on trial for the unlawful killing of 75-year-old Tom Niland, who was beaten in his home and left to die by three men, has changed his plea to guilty. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0717/1523981-john-irving-court/>
+
+---
+
+## Minister asked to consider mandatory Gaeltacht courses
+
+date: 2025-07-17, from: RTÉ News
+
+The Minister for Education has been asked to consider introducing a mandatory three-week mandatory Gaeltacht course for every Leaving Certificate student studying Irish. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0717/1523976-dail-education/>
+
+---
+
+## Sinéad O'Connor's father: 'I still miss her'
+
+date: 2025-07-17, from: RTÉ News
+
+Seán O'Connor, the father of the late Sinéad O'Connor, has said he misses the singer and said he visits her grave every week. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0717/1523969-sinead-oconnors-father-i-still-miss-her/>
+
+---
+
+## Ukraine appoints Yulia Svyrydenko as new prime minister
+
+date: 2025-07-17, from: RTÉ News
+
+Ukraine's parliament has voted in favour of a motion to appoint Yulia Svyrydenko as the country's new prime minister. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0717/1523973-ukraine-politics/>
+
+---
+
+## Shopping center fire leaves more than 60 dead in Iraq 
+
+date: 2025-07-17, from: Vatican News
+
+
+                    <p>A fire at a new shopping mall in the Iraqi city of Kut killed more than 60 people, including women and children. According to a statement from Iraq’s Interior Ministry, most victims died from suffocation, and 14 bodies remain unidentified. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/shopping-center-fire-deaths-accident.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/shopping-center-fire-deaths-accident.html>
+
+---
+
+## Exports jump by 47% in first five months of 2025 - CSO
+
+date: 2025-07-17, from: RTÉ News
+
+Exports of medical and pharmaceutical products jumped by almost 74% in May to €13.7 billion when compared with the same month last year, according to the latest figures from the Central Statistics Office. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0717/1523961-cso-export-and-import-figures/>
+
+---
+
+## Holy See: Debt relief for developing nations a ‘moral responsibility’
+
+date: 2025-07-17, from: Vatican News
+
+
+                    <p>The Holy See’s diplomatic mission to the United Nations affirms the Church’s commitment to eradicating poverty and calls on developed nations to assist developing countries with debt relief to aid their growth.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/holy-see-united-nations-debate-debt-relief-development.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/holy-see-united-nations-debate-debt-relief-development.html>
+
+---
+
+## HIQA taking regulatory action against two nursing homes
+
+date: 2025-07-17, from: RTÉ News
+
+HIQA has again apologised to people who feel the agency let them down after revelations about neglect and staff shortages in two nursing homes run by Emeis Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0717/1523958-public-accounts-committee/>
+
+---
+
+## UK to lower voting age to 16 by next general election
+
+date: 2025-07-17, from: RTÉ News
+
+The next UK general election will see 16-year-olds able to vote for the first time, MPs have confirmed in wide-ranging plans to "modernise our democracy". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0717/1523957-uk-voting/>
+
+---
+
+## Dublin Airport gets go-ahead for more night-time flights
+
+date: 2025-07-17, from: RTÉ News
+
+Dublin Airport has been granted planning permission to increase the number of night-time flights it can operate and extend the hours that it can use its second runway. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0717/1523927-dublin-airport-flights/>
+
+---
+
+##  Bishops of Myanmar's war-torn regions: 'Let us not lose faith'
+
+date: 2025-07-17, from: Vatican News
+
+
+                    <p>Three Bishops of war-torn Myanmar's hardest hit regions offer words of comfort and faith to their people, despite death, unrest and suffering.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/bishops-myanmar-war-torn-regions-pastoral-letter-july-2025.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/bishops-myanmar-war-torn-regions-pastoral-letter-july-2025.html>
+
+---
+
+## Russia hands Ukraine bodies of 1,000 soldiers
+
+date: 2025-07-17, from: RTÉ News
+
+Russia has handed over to Ukraine the bodies of 1,000 soldiers as part of an agreement reached at peace talks last month, Moscow's top negotiator said on social media. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0717/1523951-russia-ukraine/>
+
+---
+
+## Israeli forces strike Catholic Parish in Gaza 
+
+date: 2025-07-17, from: Vatican News
+
+
+                    <p>The Holy Family Church, the only Catholic Church in Gaza, was struck by a raid this morning resulting in several injuries including the Parish priest, Father Gabriel Romanelli.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/the-parish-priest-father-gabriel-romanelli.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/the-parish-priest-father-gabriel-romanelli.html>
+
+---
+
+## Israeli strikes kill 22 in Gaza, catholic church damaged
+
+date: 2025-07-17, from: RTÉ News
+
+Israeli forces killed at least 22 people in attacks in Gaza and several were also injured in a strike on a church that the late Pope Francis was in regular contact with, medics and church officials said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0717/1523950-israel-gaza/>
+
+---
+
+## President Michael D Higgins to release album of poetry
+
+date: 2025-07-17, from: RTÉ News
+
+President Michael D Higgins is set to release an album of poetry later this year. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0717/1523934-president-poetry/>
+
+---
+
+## US Senate passes foreign aid, public broadcasting cuts
+
+date: 2025-07-17, from: RTÉ News
+
+The US Senate has approved President Donald Trump's plan for billions of dollars in cuts to funding for foreign aid and public broadcasting. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0717/1523944-us-politics/>
+
+---
+
+## No evidence of economic issues with OTB - Amnesty
+
+date: 2025-07-17, from: RTÉ News
+
+Employers' group Ibec has been asked to present evidence following its warning that it would be "incredibly difficult" for businesses to implement a ban on services coming from the Occupied Palestinian Territories. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0717/1523942-otb-ibec/>
+
+---
+
+## Pope Leo XIV: Seek grace to pursue path of unity and fraternal charity
+
+date: 2025-07-17, from: Vatican News
+
+
+                    <p>At Castel Gandolfo, Pope Leo XIV received Greek Orthodox, Byzantine Catholic, and Latin Catholic pilgrims from the United States who are taking part in an ecumenical pilgrimage to Rome, Constantinople, and Nicea.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-seek-grace-to-pursue-path-of-unity-and-fraternal-charity.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-seek-grace-to-pursue-path-of-unity-and-fraternal-charity.html>
+
+---
+
+## Israel's strikes on Syria: What we know
+
+date: 2025-07-17, from: RTÉ News
+
+Israel has bombed Syrian government sites and other targets since Monday, saying it was seeking to defend the Druze minority after bloody sectarian clashes in southern Syria. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0717/1523926-israel-syria/>
+
+---
+
+## Sextortion scams increase with rise of AI 'nudify' apps
+
+date: 2025-07-17, from: RTÉ News
+
+Sextortion scams targeting children are growing around the world, particularly with the rapid proliferation of "nudify" apps - AI tools that digitally strip off clothing or generate sexualised imagery. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0717/1523921-ai-nudify-app/>
+
+---
+
+## Pope to Italian trade unions: Promote peaceful societies that serve humanity
+
+date: 2025-07-17, from: Vatican News
+
+
+                    <p>Pope Leo XIV sends a message to the 20th National Congress of the Italian Confederation of Workers' Trade Unions, and invites them to "promote peaceful societies in the service of human development."</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-cisl-promote-peaceful-societies-message.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-cisl-promote-peaceful-societies-message.html>
+
+---
+
+## Israeli strike interrupts Syria TV live broadcast
+
+date: 2025-07-17, from: RTÉ News
+
+During a live broadcast, a Syria TV news anchor was abruptly interrupted as an Israeli strike hit the ministry of defence in Damascus yesterday afternoon. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0717/1523919-syria-anchor/>
+
+---
+
+## Beirne starts among eight Irish for Lions Test opener
+
+date: 2025-07-17, from: RTÉ News
+
+Saturday's opening British and Irish Lions Test against Australia will feature a record eight Irish players in the starting team, as head coach Andy Farrell puts faith in his Irish and Leinster core against the Wallabies. 
+
+<br> 
+
+<https://www.rte.ie/sport/rugby/2025/0717/1523912-beirne-starts-among-eight-irish-for-lions-test-opener/>
+
+---
+
+## Eight babies born in UK using three-person IVF technique
+
+date: 2025-07-17, from: RTÉ News
+
+Eight babies have been born in the UK thanks to a groundbreaking three-person IVF technique to prevent devastating disease, world-first data shows. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0717/1523916-babies-dna-ivf/>
+
+---
+
+## At least 60 people killed after fire breaks out in eastern Iraq shopping mall
+
+date: 2025-07-17, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7587207.1752746605!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/iraq-mall-fire.jpg' alt='A charred building of about five storeys with blown out windows is shown.' width='620' height='349' title='Damage to the hypermarket building in Kut, Iraq, is shown early Thursday, hours after fire broke out in the new complex.'/><p>A fire at a newly opened mall in eastern Iraq's Wasit province killed more than 60 people, including women and children, Iraqi officials said Thursday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/iraq-wasit-kut-fire-1.7587197?cmp=rss>
+
+---
+
+## The Open Championship: Day 1 updates
+
+date: 2025-07-17, from: RTÉ News
+
+Two-time champion Padraig Harrington, Tom McKibbin and Darren Clarke are among the early starters for the 153rd Open Championship at Royal Portrush while Shane Lowry will get his bid for a second major title underway later in the morning, with Rory McIlroy teeing off in the afternoon. 
+
+<br> 
+
+<https://www.rte.ie/sport/golf/2025/0717/1523827-the-open-championship-day-1-updates/>
+
+---
+
+## Federal judge deems Ottawa's refusal of Jordan's Principle funds to renovate mouldy home 'unreasonable'
+
+date: 2025-07-17, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7535441.1747269956!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/joanne-and-granddaughters.jpg' alt='Joanne Powless, 65 of the Oneida Nation of the Thames is the primary caregiver for her two granddaughters. The family has been fighting Ottawa for three years to fix their mould-contaminated home which has caused the girls, aged eight and 10, to suffer from severe asthma and multiple hospitalizations. ' width='620' height='349' title='Joanne Powless, 65 of the Oneida Nation of the Thames is the primary caregiver for her two granddaughters. The family has been fighting Ottawa for three years to fix their mould-contaminated home which has caused the girls, aged eight and 10, to suffer from severe asthma and multiple hospitalizations. '/><p>A federal court has overturned and granted a judicial review of Indigenous Services of Canada's (ISC) decision to deny an Oneida Nation of the Thames woman funding to renovate her mould-contaminated home, which she says has caused her granddaughters' asthma symptoms to worsen.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/london/federal-judge-deems-ottawa-s-refusal-of-jordan-s-principle-funds-to-renovate-mouldy-home-unreasonable-1.7586289?cmp=rss>
+
+---
+
+## Irish contenders eye more iconic Open moments at Portrush
+
+date: 2025-07-17, from: RTÉ News
+
+The Open Championship is golf's greatest event. Not a statement of fact, but I reckon I'm on pretty solid ground. So many memories, so many great players, so many iconic moments. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0717/1523861-the-open-golf/>
+
+---
+
+## Rebel county gears up for All-Ireland hurling final
+
+date: 2025-07-17, from: RTÉ News
+
+An All-Ireland final appearance is a coveted thing for a county to aspire to, writes Paschal Sheehy, ahead of the hurling final between Cork and Tipperary in Croke Park. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0717/1523905-cork-all-ireland-hurling-final/>
+
+---
+
+## Trump's MAGA base is in crisis over the Epstein files. Could it cost Republicans the midterms?
+
+date: 2025-07-17, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.5647742.1752718844!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ghislaine-maxwell-jeffrey-epstein-donal-trump.jpg' alt='Two man and two women standing together, both men with their arms around the woman, all smiling' width='620' height='349' title='Donald Trump, left, and Melania Trump are shown with Jeffrey Epstein and his associate, Ghislaine Maxwell, at Trump&apos;s Mar-a-Lago estate in Palm Beach, Fla., in February 2000. Photo by Davidoff Studios/Getty Images) '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-epstein-maga-revolt-midterms-1.7586299?cmp=rss>
+
+---
+
+## Trump says Coca-Cola to switch to cane sugar in US
+
+date: 2025-07-17, from: RTÉ News
+
+Beverage giant Coca-Cola has agreed to use real cane sugar in its US production, President Donald Trump announced on social media. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0717/1523914-us-coca-cola/>
+
+---
+
+## Astronomers capture 1st close-up photograph of new interstellar visitor
+
+date: 2025-07-17, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7586433.1752684740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/3i-atlas.jpg' alt='A yellowish fuzzy object sits in a black sky. ' width='620' height='349' title='Comet 3I/ATLAS is captured in this image by the Gemini North telescope. The incredible sensitivity of Gemini North&apos;s Multi-Object Spectrograph (GMOS-N) reveals the comet’s compact coma — a cloud of gas and dust surrounding its icy nucleus'/><p>Using the U.S. National Science Foundation’s Gemini North telescope in Hawaii, astronomers have captured the first detailed image of our third known cosmic interloper.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/photograph-3i-atlas-1.7586424?cmp=rss>
+
+---
+
+## 'Japanese walking' a fun way for some to boost their health
+
+date: 2025-07-17, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7587129.1752712313!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/exercise-mental-health-20230125.jpg' alt='People walking' width='620' height='349' title='A Tik Tok trend has some trying high-intensity interval walking, or &quot;Japanese walking&quot; to stay fit. '/><p>It’s no “magic bullet,” but a recent TikTok trend could boost your health without too much extra legwork. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/japanese-walking-tiktok-1.7587007?cmp=rss>
+
+---
+
+## PM to speak with First Nations on major projects bill at Bill C-5 summit
+
+date: 2025-07-17, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7586468.1752685969!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cp174769601.jpg' alt='A man in a suit stands in a factory.' width='620' height='349' title='Prime Minister Mark Carney waits to speak during a tour of a steel manufacturing facility, in Hamilton, Ont., Wednesday, July 16, 2025. THE CANADIAN PRESS/Chris Young'/><p>First Nations leaders from across the country are meeting with Prime Minister Mark Carney and officials in Gatineau, Que., this week on Bill C-5.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/carney-first-nations-summit-1.7586492?cmp=rss>
+
+---
+
+## Lacrosse roots run deep in Haudenosaunee Nationals team heading to South Korea
+
+date: 2025-07-17, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7586703.1752701097!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/fam.jpeg' alt='Family photo in lax box.' width='620' height='349' title='Brent Maracle with his sons, Oronhiatehka and Oneniotekowa and their grandfather, Ron E. Maracle. '/><p>Ranked third in the world, the Nationals are heading to South Korea for the World Lacrosse Men's U20 Championship in field lacrosse in August. The roster was announced earlier this month.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/lacrosse-nationals-south-korea-1.7586610?cmp=rss>
+
+---
+
+## Syria leader vows accountability as 350 killed in clashes
+
+date: 2025-07-17, from: RTÉ News
+
+Syria's interim President Ahmed al-Sharaa has said that protecting Druze citizens and their rights is "our priority", as Israel vowed to destroy Syrian government forces attacking Druze in southern Syria. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0717/1523910-syria-middle-east/>
+
+---
+
+## Ireland can rise to challenge of tariffs, says Donohoe
+
+date: 2025-07-17, from: RTÉ News
+
+Ireland's finances are in "good condition", according to the Minister for Finance, who said he is confident the country can rise to the challenge of US tariffs. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0717/1523909-eu-us-trade/>
+
+---
+
+## Merz, Starmer to discuss defence, migration in London
+
+date: 2025-07-16, from: RTÉ News
+
+German Chancellor Friedrich Merz will meet British Prime Minister Keir Starmer in London, with the visit set to focus on defence and illegal migration. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0717/1523890-uk-germany/>
+
+---
+
+## Renewed appeal over 2017 murder of Linda Evans
+
+date: 2025-07-16, from: RTÉ News
+
+A renewed appeal for information has been issued by gardaí investigating the murder of Linda Evans, also known as Linda Christian, in Dublin in 2017. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0717/1523891-linda-christian-evans-appeal/>
+
+---
+
+## Shels overcome Linfield after composed Belfast display
+
+date: 2025-07-16, from: RTÉ News
+
+Shelbourne eased past Linfield over two legs to set-up a European Champions League qualifier at Qarabag next week 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0716/1523726-shels-overcome-linfield-after-composed-belfast-display/>
+
+---
+
+## Trump: Market would be disrupted if Fed's Powell removed
+
+date: 2025-07-16, from: RTÉ News
+
+US President Donald Trump said he would love for Federal Reserve Chair Jerome Powell to resign but that it would disrupt the markets if the president were to remove him. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0716/1523898-trump-ed-powell/>
 
 ---
 
@@ -33,6 +601,18 @@ The employers group IBEC has warned that it would be "incredibly difficult" for 
 
 ---
 
+## Ibec: Ban on services from occupied territories difficult
+
+date: 2025-07-16, from: RTÉ News
+
+Employers' group Ibec has warned that it would be "incredibly difficult" for businesses to implement a ban on services coming from the Occupied Palestinian Territories. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0716/1523889-ibec-palestinian-territories-services/>
+
+---
+
 ## Call for mandatory teaching of national anthem
 
 date: 2025-07-16, from: RTÉ News
@@ -45,6 +625,18 @@ A Sinn Féin TD has called for the national anthem to be included on the school 
 
 ---
 
+## Birth of a solar system: Astronomers observe early planet formation for 1st time
+
+date: 2025-07-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7586904.1752705976!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/solar-system-birth.jpg' alt='An explosion of orange light against a black background' width='620' height='349' title='This image provided by the European Southern Observatory on Tuesday, July 15, 2025, shows HOPS-315, a baby star where astronomers have observed evidence for the earliest stages of planet formation.  '/><p>Astronomers have discovered the earliest seeds of rocky planets forming in the gas around a baby sun-like star, providing a precious peek into the dawn of our own solar system.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/solar-system-creation-1.7586842?cmp=rss>
+
+---
+
 ## Champions League: Linfield v Shelbourne updates
 
 date: 2025-07-16, from: RTÉ News
@@ -54,6 +646,18 @@ Live updates from tonight's second leg between Linfield and Shelbourne at Windso
 <br> 
 
 <https://www.rte.ie/sport/soccer/2025/0716/1523883-champions-league-linfield-v-shelbourne-updates/>
+
+---
+
+## First Nations arrive with some optimism — but mostly skepticism — as Carney's C-5 summit begins
+
+date: 2025-07-16, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7586779.1752703561!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/afn-pmo-20250716.jpg' alt='Assembly of First Nations Chief Cindy Woodhouse Nepinak, centre-left, speaks during a press conference in Ottawa, on Wednesday, July 16, 2025. ' width='620' height='349' title='Assembly of First Nations Chief Cindy Woodhouse Nepinak, centre-left, speaks during a press conference in Ottawa, on Wednesday, July 16, 2025.'/><p>First Nations leaders from across Canada expressed some optimism but mostly skepticism and even cynicism as they arrived in Gatineau, Que., for Prime Minister Mark Carney's summit to allay their concerns over his new law to fast-track major projects.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/carney-first-nations-summit-c5-1.7586758?cmp=rss>
 
 ---
 
@@ -97,7 +701,7 @@ Russia has a long history of territorial expansion and it's war with Ukraine is 
 
 date: 2025-07-16, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7586820.1752697442!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/belgium-tomorrowland-fire.JPG' alt='Fireworks burst and smoke rises as a fire engulfs the main stage at a music festival. Houses are in the foreground, but not burning.' width='620' height='349' title='Fireworks burst and smoke rises as a fire engulfs the main stage of Tomorrowland, an electronic music event, in Boom, Belgium, July 16, 2025 in this still image from social media video.'/><p>A huge fire on Wednesday at Belgium's Tomorrowland music festival site has “severely damaged” the main stage two days before the event was due to start, organizers said.</p> 
+<img src='https://i.cbc.ca/1.7587208.1752748984!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2224801470.jpg' alt='A photo from an aerial view shows damaged steel and iron of a concert stage.' width='620' height='349' title='This aerial drone image shows  the festival site after yesterday&apos;s fire at the Tomorrowland electronic music festival on Thursday 17 July 2025, in Boom. Yesterday a fire destroyed the main stage of the festival site at the &apos;De Schorre&apos; terrain in Boom, where the first day is programmed tomorrow.  '/><p>A huge fire on Wednesday at Belgium's Tomorrowland music festival site has “severely damaged” the main stage two days before the event was due to start, organizers said.</p> 
 
 <br> 
 
@@ -217,11 +821,11 @@ date: 2025-07-16, from: CBC, World News
 
 ---
 
-## Canadian military ends wildfire operation in Garden Hill Anisininew Nation
+## Premier vows to review Manitoba's response to province's worst wildfire season in 30 years
 
 date: 2025-07-16, from: CBC, Indigenious News
 
-<img src='https://i.cbc.ca/1.7586441.1752685046!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/caf-garden-hill-wildfire-evacuation.jpg' alt='Dozens of people are seen walking into a large aircraft.' width='620' height='349' title='The Royal Canadian Air Force is seen providing airlift support to the Province of Manitoba under Operation LENTUS 25-04, transporting people from Garden Hill First Nation to Winnipeg, Manitoba on July 10, 2025.'/><p>After helping over 1,500 people escape wildfire near Garden Hill First Nation, the Canadian military says it's winding down its wildfire assistance efforts in northeastern Manitoba.</p> 
+<img src='https://i.cbc.ca/1.7586867.1752699100!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/wab-kinew-20250704.jpg' alt='A man in a suit is pictured up close.' width='620' height='349' title='Manitoba Premier Wab Kinew speaks to media in Winnipeg Saturday, July 4, 2025.'/><p>Manitoba's premier says the government will broadly review this year's wildfire season to see whether changes could be made, like lengthening runways for aircraft in remote communities or figuring out other shelter possibilities for evacuees.</p> 
 
 <br> 
 
@@ -454,6 +1058,66 @@ New evacuation orders in Gaza issued by the Israeli military have uprooted tens 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/07/1165404>
+
+---
+
+## We need to value women in sport, UN rights chief says
+
+date: 2025-07-16, from: United Nations, Top Stories
+
+In the midst of the Women’s Euro football championship in Switzerland, Volker Türk, the UN human rights chief, called on Member States and sports clubs around the world to address the vast gender gap which still exists in women’s sport.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165416>
+
+---
+
+## Gaza war: UN officials warn of unspeakable conditions as children bear the brunt
+
+date: 2025-07-16, from: United Nations, Top Stories
+
+Conditions in Gaza have reached an unspeakable level of devastation with children paying the highest price, top UN officials told the Security Council on Wednesday, warning of soaring child deaths, starvation and a shattered health system amid continuing bombardment and displacement. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165415>
+
+---
+
+## Syria: UN chief urges de-escalation as Sweida violence escalates, Israel strikes Damascus
+
+date: 2025-07-16, from: United Nations, Top Stories
+
+Clashes between Bedouin tribal fighters, caretaker government forces and Druze militias stretched into their fourth day in Sweida on Wednesday while Israeli forces struck the Syrian capital, Damascus.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165413>
+
+---
+
+## World News in Brief: Haiti funding cuts bite, civilian suffering intensifies in Myanmar, Belarus deaths in custody alert
+
+date: 2025-07-16, from: United Nations, Top Stories
+
+In violence-wracked Haiti, more than 5.7 million people are estimated to be food insecure, with many unable to meet their daily food needs. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165412>
+
+---
+
+## From diamonds to dirt: Sierra Leone youth bring land back to life
+
+date: 2025-07-16, from: United Nations, Top Stories
+
+Craters filled with muddy water pocket the landscape of the Kono district in&nbsp;Sierra Leone – the result of past diamond mining ventures which sparked a vicious local battle over resources. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165410>
 
 ---
 
@@ -1305,7 +1969,7 @@ Intensifying clashes in Sudan’s Kordofan region between rival militaries have 
 
 ## Global demand for meat and dairy set to rise, but climate and nutrition gaps remain
 
-date: 2025-07-15, from: United Nations, Top Stories
+date: 2025-07-15, from: United Nations, Economic Development
 
 Global demand for meat, dairy and fish is projected to climb steadily over the next decade, driven by rising incomes and urbanisation in middle-income countries. 
 
@@ -2253,7 +2917,7 @@ A breakthrough HIV drug that only needs to be injected twice a year to offer nea
 
 ## ‘A compass towards progress’ – but key development goals remain way off track
 
-date: 2025-07-14, from: United Nations, Top Stories
+date: 2025-07-14, from: United Nations, Economic Development
 
 Global life expectancy increased by an astonishing five years between 2000 and 2019. And then since the COVID-19 pandemic, it slid backwards by almost two. More than 110 million children have entered school since 2015 – but by 2023, 272 million children still had no access to the classroom.&nbsp; 
 
@@ -2922,7 +3586,7 @@ date: 2025-07-13, from: Vatican News
 
 ## UN forum to spotlight health, gender equality, oceans, in critical bid to meet development goals
 
-date: 2025-07-13, from: United Nations, Top Stories
+date: 2025-07-13, from: United Nations, Economic Development
 
 As the deadline for the 2030 Agenda looms, ministers, experts, and civil society leaders from around the world will convene in New York next week for a high-level UN forum to fast-track action on the Sustainable Development Goals (SDGs). 
 

@@ -1,11 +1,80 @@
 ---
 title: home
-updated: 2025-07-16 14:07:40
+updated: 2025-07-17 06:07:53
 ---
 
 # home
 
-(date: 2025-07-16 14:07:40)
+(date: 2025-07-17 06:07:53)
+
+---
+
+## How They Pulled It Off: A House That Sits in—Yes, in—the Water
+
+date: 2025-07-17, from: Dwell
+
+To build a new home on an old pier in Seattle, the team at E. Cobb Architects fared a spatter of challenges: "There’s nothing that’s even come close to this level of difficulty." 
+
+<br> 
+
+<https://www.dwell.com/article/e-cobb-architects-lagerberg-mooring-815785f7>
+
+---
+
+## 20 Black Birds with Long Beaks in California (With Pictures)
+
+date: 2025-07-17, from: Yard Life blog
+
+<p>California hosts an incredible diversity of black birds with long beaks, each uniquely adapted to its environment. These birds use ... </p>
+<p class="read-more-container"><a title="20 Black Birds with Long Beaks in California (With Pictures)" class="read-more button" href="https://ownyardlife.com/20-black-birds-with-long-beaks-in-california-with-pictures/#more-32162" aria-label="Read more about 20 Black Birds with Long Beaks in California (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-black-birds-with-long-beaks-in-california-with-pictures/">20 Black Birds with Long Beaks in California (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-black-birds-with-long-beaks-in-california-with-pictures/>
+
+---
+
+## 24 Birds with Yellow Bellies in Texas (Pictures and Identification)
+
+date: 2025-07-17, from: Yard Life blog
+
+<p>Birds with Yellow Bellies in Texas bring vibrant splashes of color to backyards, fields, and forests across the state. From ... </p>
+<p class="read-more-container"><a title="24 Birds with Yellow Bellies in Texas (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/24-birds-with-yellow-bellies-in-texas-pictures-and-identification/#more-32152" aria-label="Read more about 24 Birds with Yellow Bellies in Texas (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/24-birds-with-yellow-bellies-in-texas-pictures-and-identification/">24 Birds with Yellow Bellies in Texas (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/24-birds-with-yellow-bellies-in-texas-pictures-and-identification/>
+
+---
+
+## 35 Backyard Birds in South Carolina (Pictures and Identification)
+
+date: 2025-07-17, from: Yard Life blog
+
+<p>South Carolina is home to a rich variety of bird species that brighten up backyards across the state. Living in ... </p>
+<p class="read-more-container"><a title="35 Backyard Birds in South Carolina (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/35-backyard-birds-in-south-carolina-pictures-and-identification/#more-32142" aria-label="Read more about 35 Backyard Birds in South Carolina (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/35-backyard-birds-in-south-carolina-pictures-and-identification/">35 Backyard Birds in South Carolina (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/35-backyard-birds-in-south-carolina-pictures-and-identification/>
+
+---
+
+## Breeze-Block Walls and Pavilions Make This Spanish Villa Exceptionally Airy
+
+date: 2025-07-16, from: Dwell
+
+Concrete colonnades referencing ancient Rome form pathways through gardens with a pool. 
+
+<br> 
+
+<https://www.dwell.com/article/casa-tres-patis-twobo-arquitectura-breeze-blocks-courtyard-home-d21db5ab>
 
 ---
 
@@ -20,6 +89,31 @@ date: 2025-07-16, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/project/how-to-repair-vinyl-plank-flooring/>
+
+---
+
+## A Healdsburg Vacation Home Is a Whimsical, Delightful Space
+
+date: 2025-07-16, from: Sunset Magazine - Living in the West
+
+This weekend retreat in Healdsburg was originally built in 1905 and was extensively remodeled in 2016, so it just needed a decor revamp. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/colorful-healdsburg-vacation-home>
+
+---
+
+## A Look at an Architect’s A-Frame Home Office Makeover
+
+date: 2025-07-16, from: Sunset Magazine - Living in the West
+
+<p>A fresh angle for a late 1950s beach house.</p>
+ 
+
+<br> 
+
+<https://www.sunset.com/home-garden/diy-projects/a-frame-home-office-makeover>
 
 ---
 
@@ -58,6 +152,18 @@ date: 2025-07-16, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/succulents/grow-jelly-bean-plants/>
+
+---
+
+## How to Save Your Dying Container Plants This Summer
+
+date: 2025-07-16, from: Sunset Magazine - Living in the West
+
+6 Ways to revive, refresh, and replant your patio pots to help them survive a heat wave. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/how-to-protect-container-gardens-from-the-heat>
 
 ---
 
@@ -110,18 +216,6 @@ When the couple discovered a house with two functioning cooking areas, they leap
 <br> 
 
 <https://www.dwell.com/article/hailee-catalano-chuck-cruz-tiktok-chefs-kitchen-3b7d7930-c0e2eb1f>
-
----
-
-## A Healdsburg Vacation Home Is a Whimsical, Delightful Space
-
-date: 2025-07-16, from: Sunset Magazine - Living in the West
-
-This weekend retreat in Healdsburg was originally built in 1905 and was extensively remodeled in 2016, so it just needed a decor revamp. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/colorful-healdsburg-vacation-home>
 
 ---
 

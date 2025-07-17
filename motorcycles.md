@@ -1,11 +1,73 @@
 ---
 title: motorcycles
-updated: 2025-07-16 14:07:40
+updated: 2025-07-17 06:07:54
 ---
 
 # motorcycles
 
-(date: 2025-07-16 14:07:40)
+(date: 2025-07-17 06:07:54)
+
+---
+
+## BRP Sells Last Boat Brand, Highlighting a Worrying Powersports Trend
+
+date: 2025-07-17, from: Ride Apart, Electric Motorcycle News
+
+Thankfully, it still owns Sea-Doo—please don't sell Sea-Doo. 
+
+<br> 
+
+<https://www.rideapart.com/news/765845/brp-sells-last-boat-brand/>
+
+---
+
+## Aprilia Trademarks “X GP,” Could Be Its Most Badass Superbike Yet
+
+date: 2025-07-17, from: Ride Apart, Electric Motorcycle News
+
+Will this be the closest thing to a MotoGP-spec machine us mere mortals can get our hands on?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/765988/aprilia-xgp-trademark-badass-superbike/>
+
+---
+
+## Vietnam’s Ban on Fossil-Fuel Motorcycles Is Suspect To Say the Least
+
+date: 2025-07-17, from: Ride Apart, Electric Motorcycle News
+
+Call me cynical, but there's no way this is happening in the outlined timeframe.  
+
+<br> 
+
+<https://www.rideapart.com/news/766133/vietnam-hanoi-ban-fossil-fuel-motorcycles-pollution/>
+
+---
+
+## BMW Motorrad Doubles Down On Styling, Personalization With Its 2026 Bikes
+
+date: 2025-07-17, from: Ride Apart, Electric Motorcycle News
+
+New colors, mild refinements, same tried and tested capability. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/765855/2026-bmw-motorrad-lineup-new-colors-tech/>
+
+---
+
+## 2025 ARCA West at Sonoma: Team Reactions and Analysis
+
+date: 2025-07-17, from: Kickin the Tires blog
+
+By Vincent Delforge, Staff Writer The sixth race of the 2025 ARCA Menards West Series season took place at Sonoma Raceway in Sonoma, CA. The General Tire 200 was won&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/2025-arca-west-at-sonoma-team-reactions-and-analysis/>
 
 ---
 

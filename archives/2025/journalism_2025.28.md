@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2025-07-16 14:07:39
+updated: 2025-07-17 06:07:52
 ---
 
 # journalism
 
-(date: 2025-07-16 14:07:39)
+(date: 2025-07-17 06:07:52)
+
+---
+
+## UC Regents committee requests $8.7 million to fund Levering Avenue student housing
+
+date: 2025-07-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Board of Regents Finance and Capital Strategies Committee recommended the allocation of over $8.7 million in funding for new UCLA student housing on Levering Avenue at its meeting Wednesday. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/16/uc-regents-committee-requests-8-7-million-to-fund-levering-avenue-student-housing/>
 
 ---
 
@@ -13,8 +25,8 @@ updated: 2025-07-16 14:07:39
 
 date: 2025-07-16, from: The Daily Bruin (UCLA Student Newspaper)
 
-The UC Board of Regents appointed Miguel Craven on Wednesday to be its student regent for the 2026-2027 academic year.
-Craven, the first student regent with an engineering background, received a Bachelor of Science in mechanical engineering from UC Merced in May and will pursue a master’s in energy systems at UC Davis this fall. 
+<em>This post was updated July 16 at 2:30 p.m.</em>
+The UC Board of Regents appointed Miguel Craven on Wednesday to be its student regent for the 2026-2027 academic year. 
 
 <br> 
 
@@ -225,4 +237,17 @@ Whether readers are curling up at home to escape the heat or sunbathing in the w
 <br> 
 
 <https://dailybruin.com/2025/07/12/summer-book-preview-page-turners-full-of-myth-mystery-and-magic-await-readers-2/>
+
+---
+
+## Summer book preview: Page-turners full of myth, mystery and magic await readers
+
+date: 2025-07-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+As the days get longer, readers bask in the warmth of exciting summer book releases.
+Whether readers are curling up at home to escape the heat or sunbathing in the warm glow of the summer sun at the beach, this summer promises the perfect read for all. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/12/summer-book-preview-page-turners-full-of-myth-mystery-and-magic-await-readers/>
 

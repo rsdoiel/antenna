@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2025-07-16 14:07:38
+updated: 2025-07-17 06:07:51
 ---
 
 # writing
 
-(date: 2025-07-16 14:07:38)
+(date: 2025-07-17 06:07:51)
+
+---
+
+## Scriptnotes, Episode 692: Crafting the Perfect Villain, Transcript
+
+date: 2025-07-17, from: John August blog
+
+<p>The original post for this episode can be found here. John August: Hello, and welcome. My name is John August, and you are listening to episode 692 of Scriptnotes. It’s a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, it is a villains compendium. Producer Drew Marquardt has selected [&#8230;]</p>
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-692-crafting-the-perfect-villain-transcript">Scriptnotes, Episode 692: Crafting the Perfect Villain, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-692-crafting-the-perfect-villain-transcript>
 
 ---
 

@@ -1,11 +1,51 @@
 ---
 title: food
-updated: 2025-07-16 14:07:42
+updated: 2025-07-17 06:07:55
 ---
 
 # food
 
-(date: 2025-07-16 14:07:42)
+(date: 2025-07-17 06:07:55)
+
+---
+
+## Time To Level Up With A New Barista-Focused Event In Minneapolis
+
+date: 2025-07-17, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Level Up takes place September 27th through 29th at Mill City Roasters in Minneapolis, Minnesota.  
+
+<br> 
+
+<https://sprudge.com/time-to-level-up-with-a-new-barista-focused-event-in-minneapolis-379130.html>
+
+---
+
+## Tzatziki Chicken Salad
+
+date: 2025-07-17, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/07/Tzatziki-Chicken-Salad-1200-7148.jpg"/></div>
+<p>A light and tasty chicken salad in a cool and creamy tzatziki sauce! Tzatziki is a Greek style sauce made with yogurt, cucumber, garlic, lemon and fresh herbs and it&#8217;s one of my favourite summer foods! Chicken salad, cooked chicken in a creamy mayo dressing, is another summer classic and if you replace the mayo...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/tzatziki-chicken-salad/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/tzatziki-chicken-salad/">Tzatziki Chicken Salad</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/tzatziki-chicken-salad/>
+
+---
+
+## Elise Jesse’s Summer Shark-A-Rita
+
+date: 2025-07-16, from: Taste of Home
+
+Get ready to dive into the deep end of flavor with a Shark-A-Rita! It’s the ultimate cocktail for Shark Week. This ocean-inspired twist on the classic margarita blends bold citrus, a splash of tropical sweetness and an eye-catching blue hue. Garnish the colorful cocktail with gummy sharks and a mini umbrella—it's sure to make waves at your next party. —Elise Jesse, Cincinnati, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/elise-jesse-summer-sharkarita/>
 
 ---
 
@@ -238,6 +278,18 @@ This Mediterranean chicken tower is simple to make but delivers bold, restaurant
 <br> 
 
 <https://www.tasteofhome.com/recipes/elise-jesse-chicken-tower/>
+
+---
+
+## Horchata Icebox Cake
+
+date: 2025-07-15, from: Taste of Home
+
+This no-bake horchata icebox cake has the perfectly creamy combination of cinnamon and vanilla, just as you'd find in a glass of craveable horchata. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/horchata-icebox-cake/>
 
 ---
 
