@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-07-17 06:07:56
+updated: 2025-07-17 14:08:54
 ---
 
 # craft
 
-(date: 2025-07-17 06:07:56)
+(date: 2025-07-17 14:08:54)
+
+---
+
+## Open Wire: The Place to Ask Your Questions
+
+date: 2025-07-17, from: Lost Arg Press blog
+
+Just a gentle reminder – or announcement for those of you who are new here – that six Saturdays a year, we hold &#8220;Open Wire&#8221; hours from 8 a.m.-5 pm. That&#8217;s the place to post any and all woodworking questions to get them answered by us and by your fellow readers. I&#8217;m afraid we don&#8217;t... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/07/17/open-wire-the-place-to-ask-your-questions/>
 
 ---
 

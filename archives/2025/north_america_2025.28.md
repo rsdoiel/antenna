@@ -1,11 +1,121 @@
 ---
 title: north america
-updated: 2025-07-17 06:07:48
+updated: 2025-07-17 14:08:43
 ---
 
 # north america
 
-(date: 2025-07-17 06:07:48)
+(date: 2025-07-17 14:08:43)
+
+---
+
+## How Many More Have to Die Before Texas Gets Serious About Preparedness?
+
+date: 2025-07-17, from: The Contrarian
+
+Preparedness could&#8217;ve saved lives. Politics got in the way. Again. 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-many-more-have-to-die-before>
+
+---
+
+## Standing up in Congress
+
+date: 2025-07-17, from: The Contrarian
+
+There was a time when our elected officials didn't cower in fear at the thought of having to campaign harder to retain their own jobs. 
+
+<br> 
+
+<https://contrarian.substack.com/p/standing-up-in-congress>
+
+---
+
+## Good trouble is protest rooted in philosophy
+
+date: 2025-07-17, from: The Contrarian
+
+Rallies today are following the example of the late congressman and civil rights icon John Lewis. 
+
+<br> 
+
+<https://contrarian.substack.com/p/good-trouble-is-protest-rooted-in>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-07-17, from: The Contrarian
+
+Thursday: Neighborhood protests, anti-ICE and anti-Palantir protests, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+##  Big Tech Taps Natural Gas For Its Coal Country “AI Revolution” 
+
+date: 2025-07-17, from: The Lever News
+
+ The nation’s biggest fossil fuel, technology, and financial firms joined Trump this week as he announced $90 billion of private investment in artificial intelligence and energy infrastructure, including natural gas.  
+
+<br> 
+
+<https://www.levernews.com/big-tech-taps-natural-gas-for-its-coal-country-ai-revolution/>
+
+---
+
+## The Official Trump Black Box
+
+date: 2025-07-17, from: The Contrarian
+
+A cartoon by RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-official-trump-black-box>
+
+---
+
+## Trump and Kennedy Throw Head Start Into Reverse
+
+date: 2025-07-17, from: Capital and Main
+
+<p>How the administration seeks to use the venerable children's care program as an anti-immigrant weapon.</p>
+<p>The post <a href="https://capitalandmain.com/trump-and-kennedy-throw-head-start-into-reverse">Trump and Kennedy Throw Head Start Into Reverse</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/trump-and-kennedy-throw-head-start-into-reverse>
+
+---
+
+##  Why They’re Protecting Jeffrey Epstein’s Secrets (Transcript) 
+
+date: 2025-07-17, from: The Lever News
+
+ Following is an unedited, automated transcript of the podcast episode titled “Why They’re Protecting Jeffrey Epstein’s Secrets”  
+
+<br> 
+
+<https://www.levernews.com/why-theyre-protecting-jeffrey-epsteins-secrets-transcript/>
+
+---
+
+## Coffee with Contrarians 07/17 
+
+date: 2025-07-17, from: The Contrarian
+
+Good Trouble Edition 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-contrarians-0717>
 
 ---
 
@@ -63,7 +173,7 @@ If there's ever been a time to make good trouble, it's now.
 
 date: 2025-07-16, from: The Contrarian
 
-Thi week's 'rescission' scramble shows exactly why our elected officials need to stand up to tyrants. 
+This week's 'rescission' scramble shows exactly why our elected officials need to stand up to tyrants. 
 
 <br> 
 
@@ -128,18 +238,6 @@ date: 2025-07-16, from: The Lever News
 <br> 
 
 <https://www.levernews.com/buckle-up-deltas-expanded-surge-pricing-could-signal-higher-fares/>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-07-16, from: The Contrarian
-
-Wednesday: Protests in California and Florida, a Tesla Takedown in the U.K., planning for tomorrow's Good Trouble rallies, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

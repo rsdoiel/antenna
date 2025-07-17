@@ -1,11 +1,24 @@
 ---
 title: journalism
-updated: 2025-07-17 06:07:52
+updated: 2025-07-17 14:08:49
 ---
 
 # journalism
 
-(date: 2025-07-17 06:07:52)
+(date: 2025-07-17 14:08:49)
+
+---
+
+## Bruin-owned barbershop Saints cuts hair – not men’s self care
+
+date: 2025-07-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Daniel Ordo&#241;ez is transforming the men&#8217;s wellness sector, one barbershop at a time.
+The UCLA alumnus said his experience in the Design &#124; Media Arts program gave him the foundation he needed to later thrive as an entrepreneur. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/17/bruin-owned-barbershop-saints-cuts-hair-not-mens-self-care/>
 
 ---
 
@@ -154,6 +167,7 @@ date: 2025-07-14, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2025-07-14, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated July 17 at 10:30 a.m.</em>
 Warning: Spoilers ahead
 It’s got a dog! It’s narratively ambiguous! It’s Superman!
 Released in theaters July 11, director James Gunn&#8217;s latest film unravels his take on the cultural icon that is the “Man of Steel.” Introducing a less orthodox take of the Superman origin story, the film unusually begins with several canon Superman milestones, unlike its predecessor films. 

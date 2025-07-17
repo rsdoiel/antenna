@@ -1,11 +1,99 @@
 ---
 title: food
-updated: 2025-07-17 06:07:55
+updated: 2025-07-17 14:08:54
 ---
 
 # food
 
-(date: 2025-07-17 06:07:55)
+(date: 2025-07-17 14:08:54)
+
+---
+
+## You Don’t Need a Fancy Machine To Make This Frozen Yogurt
+
+date: 2025-07-17, from: Bon Appetet
+
+Blend this cooling treat up before dinner, enjoy it after. 
+
+<br> 
+
+<https://www.bonappetit.com/story/you-dont-need-a-fancy-machine-to-make-frozen-yogurt>
+
+---
+
+## Chicken Sausage Recall: 24,173 Pounds of Ready-to-Eat Sausage Recalled for Plastic Contamination
+
+date: 2025-07-17, from: Taste of Home
+
+<p>Check your fridge and freezer if you eat chicken sausage.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/chicken-sausage-recall-july-2025/">Chicken Sausage Recall: 24,173 Pounds of Ready-to-Eat Sausage Recalled for Plastic Contamination</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/chicken-sausage-recall-july-2025/>
+
+---
+
+## The MacKenzie-Childs Barn Sale Is Here! Save Up to 60% on Luxe Home Decor
+
+date: 2025-07-17, from: Taste of Home
+
+<p>From iconic tea kettles to charming home accents, over 2,000 hand-painted favorites are up to 60% off during the Barn Sale. Shop now before the best pieces disappear!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mackenzie-childs-barn-sale-2025/">The MacKenzie-Childs Barn Sale Is Here! Save Up to 60% on Luxe Home Decor</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mackenzie-childs-barn-sale-2025/>
+
+---
+
+## Baked Tomato Feta Pasta
+
+date: 2025-07-17, from: Bon Appetet
+
+Add some heat to the viral feta pasta sauce with spicy Calabrian chiles. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/spicy-baked-feta-pasta-recipe>
+
+---
+
+## Our Go-To Summer Grilling Menu
+
+date: 2025-07-17, from: Bon Appetet
+
+Crunchy coleslaw, a customizable batch cocktail, sticky-sweet ribs, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/go-to-summer-grilling-menu>
+
+---
+
+## Laybird Launches with the MagAttach Magnetic Coffee Scale
+
+date: 2025-07-17, from: Daily Coffee News
+
+<div><img width="620" height="409" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/MagAttach-Coffee-Scale-Laybird-2-1-620x409.jpg" class="attachment-large size-large wp-post-image" alt="MagAttach Coffee Scale Laybird 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/MagAttach-Coffee-Scale-Laybird-2-1-620x409.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MagAttach-Coffee-Scale-Laybird-2-1-300x198.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MagAttach-Coffee-Scale-Laybird-2-1-150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MagAttach-Coffee-Scale-Laybird-2-1-768x506.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MagAttach-Coffee-Scale-Laybird-2-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A new coffee accessories maker called Laybird has left the nest with a new magnetic coffee scale system called the MagAttach Coffee Scale. An April Kickstarter campaign raised more... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/17/laybird-launches-with-the-magattach-magnetic-coffee-scale/>
+
+---
+
+## Love And Coffee: A New Film From Kenya
+
+date: 2025-07-17, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Love And Coffee is a new film by Find My Africa. 
+
+<br> 
+
+<https://sprudge.com/love-and-coffee-a-new-film-from-kenya-321849.html>
 
 ---
 
@@ -37,6 +125,18 @@ date: 2025-07-17, from: Closet Cooking
 
 ---
 
+## Copycat McDonald’s Snack Wrap
+
+date: 2025-07-17, from: Taste of Home
+
+This copycat McDonald's snack wrap recipe brings a taste of the golden arches to your kitchen. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/copycat-mcdonalds-snack-wrap/>
+
+---
+
 ## Elise Jesse’s Summer Shark-A-Rita
 
 date: 2025-07-16, from: Taste of Home
@@ -65,7 +165,7 @@ Sweet, tart and buttery with a crumbly streusel topping, these delicious gluten-
 
 date: 2025-07-16, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee older adults" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A recent study from The Netherlands adds to existing evidence that coffee consumption may reduce frailty in older adults.&#160; Led by a team at Vrije Universiteit, the study drew... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee older adults" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A recent study from The Netherlands adds to existing evidence that coffee consumption may reduce frailty in older adults.&#160; Led by a team at Vrije Universiteit, the study drew... 
 
 <br> 
 
@@ -155,7 +255,7 @@ date: 2025-07-16, from: The Sprudge
 
 date: 2025-07-16, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/coulee-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coulee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/coulee-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coulee-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coulee-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coulee-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coulee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A new company out of Idaho called Coulée Coffee officially released its novel single-cup pourover brewing machine and compatible biodegradable filter packs. Following a working prototype revealed at the... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/coulee-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coulee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/coulee-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coulee-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coulee-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coulee-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coulee-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; A new company out of Idaho called Coulée Coffee officially released its novel single-cup pourover brewing machine and compatible biodegradable filter packs. Following a working prototype revealed at the... 
 
 <br> 
 

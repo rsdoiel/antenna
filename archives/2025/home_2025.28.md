@@ -1,11 +1,115 @@
 ---
 title: home
-updated: 2025-07-17 06:07:53
+updated: 2025-07-17 14:08:51
 ---
 
 # home
 
-(date: 2025-07-17 06:07:53)
+(date: 2025-07-17 14:08:51)
+
+---
+
+## When Is It Safe for a Child to Ride in the Front Seat?
+
+date: 2025-07-17, from: Family Handyman Blog
+
+<p>Experts recommend keeping children in the back seat until they're big enough for seat belts to fit properly, as age, size, and safety features all play a role in determining when it's safe to move to the front.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/age-ride-front-passengers-seat/">When Is It Safe for a Child to Ride in the Front Seat?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/age-ride-front-passengers-seat/>
+
+---
+
+## How to Read Recycling Symbols — And Why Those Numbers Matter
+
+date: 2025-07-17, from: Family Handyman Blog
+
+<p>The recycling symbol on that container doesn't necessarily mean it can go in your curbside bin. Here's how to decode those plastic recycling numbers.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/recycling-symbol-numbers-meaning/">How to Read Recycling Symbols — And Why Those Numbers Matter</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/recycling-symbol-numbers-meaning/>
+
+---
+
+## Ford Recalls Nearly 1 Million Vehicles Due to Faulty Fuel Pumps
+
+date: 2025-07-17, from: Family Handyman Blog
+
+<p>News just broke that Ford is recalling nearly a million vehicles due to a fuel pump defect. Find out if yours is affected. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/ford-fuel-pump-defect-recall/">Ford Recalls Nearly 1 Million Vehicles Due to Faulty Fuel Pumps</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/ford-fuel-pump-defect-recall/>
+
+---
+
+## Before & After: A Sneaker Designer Kicks Up the ’70s Vibes in His Toronto Row House
+
+date: 2025-07-17, from: Dwell
+
+Richard Kuchinsky leaned into terrazzo, smoked glass, and unlacquered brass to keep the spirit of the era alive in his revamped home. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-upcycled-house-renovation-denegri-bessai-studio-toronto-9f46f681>
+
+---
+
+## From the Archive: The Fight Over an Early Frank Gehry Masterpiece
+
+date: 2025-07-17, from: Dwell
+
+Though it’s since been relocated, the drama surrounding the 1980s Winton Guest House raised questions about preserving architecture—and who gets to save it. 
+
+<br> 
+
+<https://www.dwell.com/article/from-the-archive-the-fight-over-an-early-frank-gehry-masterpiece-92277549>
+
+---
+
+## In Norway, a Celebrated Artist Adds a Creative Space to the Backyard of Her Childhood Home
+
+date: 2025-07-17, from: Dwell
+
+The traditional-looking cabin holds an unconventional floor plan designed for painting, writing, and hosting the occasional guest. 
+
+<br> 
+
+<https://www.dwell.com/article/the-red-house-morfeus-arkitekter-artists-studio-backyard-house-garden-suite-3a759322>
+
+---
+
+## You Can See Downtown L.A. From This Tranquil Topanga Home Asking $1.6M
+
+date: 2025-07-17, from: Dwell
+
+Set high on a hilltop, the updated two-bedroom house has a sprawling deck with an outdoor shower and a barrel sauna. 
+
+<br> 
+
+<https://www.dwell.com/article/70s-home-renovation-topanga-los-angeles-real-estate-7dfd75c9>
+
+---
+
+## How to Grow and Care for California Fan Palms
+
+date: 2025-07-17, from: The Gardener's Path
+
+<p>Tall, dramatic, and perfectly suited to hot, dry climates, California fan palm (Washingtonia filifera) is the only palm native to the western US. It’s fire-resistant, wildlife-friendly, and surprisingly easy to grow with the right conditions. Learn how to grow California fan palm in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/grow-california-fan-palm/">How to Grow and Care for California Fan Palms</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/grow-california-fan-palm/>
 
 ---
 
@@ -18,6 +122,18 @@ To build a new home on an old pier in Seattle, the team at E. Cobb Architects fa
 <br> 
 
 <https://www.dwell.com/article/e-cobb-architects-lagerberg-mooring-815785f7>
+
+---
+
+## Homepage 2025
+
+date: 2025-07-17, from: Sunset Magazine - Living in the West
+
+Decorating &amp; Design, Home Tours A Healdsburg Vacation Home Is a Whimsical, Delightful Space It went from neutral to color- and pattern-filled.  Read more: A Healdsburg Vacation Home Is a Whimsical,&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -267,18 +383,6 @@ Drive along Highway 89, which connects six of the West's greatest parks, for the
 
 ---
 
-## Homepage 2025
-
-date: 2025-07-16, from: Sunset Magazine - Living in the West
-
-Decorating &amp; Design, Home Tours A Healdsburg Vacation Home Is a Whimsical, Delightful Space It went from neutral to color- and pattern-filled.  Read more: A Healdsburg Vacation Home Is a Whimsical,&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## The Best Cocktails and Spirits in the West Right Now—Read Our 2025 Spirits Issue
 
 date: 2025-07-16, from: Sunset Magazine - Living in the West
@@ -305,12 +409,12 @@ date: 2025-07-15, from: Family Handyman Blog
 
 ---
 
-## 15 Frank Lloyd Wright Homes That Shaped Modern Architecture
+## 13 Frank Lloyd Wright Homes That Shaped Modern Architecture
 
 date: 2025-07-15, from: Family Handyman Blog
 
 <p>We've put together a primer on some of the most notable Frank Lloyd Wright-designed homes so that you can appreciate the beauty of his work.</p>
-<p>The post <a href="https://www.familyhandyman.com/list/frank-lloyd-wright-homes/">15 Frank Lloyd Wright Homes That Shaped Modern Architecture</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/frank-lloyd-wright-homes/">13 Frank Lloyd Wright Homes That Shaped Modern Architecture</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
  
 
 <br> 

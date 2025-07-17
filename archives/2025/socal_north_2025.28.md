@@ -1,11 +1,157 @@
 ---
 title: socal north
-updated: 2025-07-17 06:07:48
+updated: 2025-07-17 14:08:44
 ---
 
 # socal north
 
-(date: 2025-07-17 06:07:48)
+(date: 2025-07-17 14:08:44)
+
+---
+
+## Justice Department wants information on undocumented immigrants inside California jails
+
+date: 2025-07-17, updated: 2025-07-17, from: The LAist
+
+The Department of Justice says if counties don't cooperate, the agency will use subpoenas or other compulsory processes to get information. 
+
+<br> 
+
+<https://laist.com/news/politics/justice-department-wants-information-on-undocumented-immigrants-inside-california-jails>
+
+---
+
+## Rancho Palos Verdes residents fight plans to ban building in areas where landslides are feared
+
+date: 2025-07-17, updated: 2025-07-17, from: The LAist
+
+Dozens of people turned out for a town hall Wednesday night, with nearly all voicing opposition to the moratorium plan. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/rancho-palos-verdes-town-hall-building-moratorium>
+
+---
+
+## Citing security threats, California lawmakers want to shield their addresses from public
+
+date: 2025-07-17, updated: 2025-07-17, from: The LAist
+
+A proposal would block journalists’ access to politicians’ residential addresses and phone numbers in their voter roll. 
+
+<br> 
+
+<https://laist.com/news/politics/citing-security-threats-california-lawmakers-want-to-shield-their-addresses-from-public>
+
+---
+
+## Behind the masks: Who are the people rounding up immigrants in California?
+
+date: 2025-07-17, updated: 2025-07-17, from: The LAist
+
+The presence of masked federal agents is an unnerving part of life in Southern California this summer. Here’s a look at who’s carrying out the immigration raids. 
+
+<br> 
+
+<https://laist.com/news/behind-the-masks-who-are-the-people-rounding-up-immigrants-in-california>
+
+---
+
+## Roasting in your apartment? LA County could soon require landlords to help keep rental units cool
+
+date: 2025-07-17, updated: 2025-07-17, from: The LAist
+
+The Board of Supervisors is considering establishing a "heat threshold" of 82 degrees. It will go to a vote next month. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/roasting-in-your-apartment-la-county-could-soon-require-landlords-to-help-keep-rental-units-cool>
+
+---
+
+## From Fandoms to Festivals at SENSES Block Party
+
+date: 2025-07-17, from: City of Santa Clarita
+
+<p>By Councilwoman Marsha McLean There is nothing quite like a Thursday evening in Old Town Newhall. As the sun sets, Main Street comes alive with twinkling lights stretching overhead, lively music filling the air, along with laughter and conversations flowing amongst families and friends. Every third Thursday of the month through September, from 7:00 to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/17/from-fandoms-to-festivals-at-senses-block-party/">From Fandoms to Festivals at SENSES Block Party</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/17/from-fandoms-to-festivals-at-senses-block-party/>
+
+---
+
+## How 'Clueless' reimagined the California girl look
+
+date: 2025-07-17, updated: 2025-07-17, from: The LAist
+
+On its 30th anniversary, Clueless costume designer reflects on the film’s impact. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/clueless-reimagined-california-girl-look>
+
+---
+
+## Thousands of veterans get help from Congress to save their homes from foreclosure
+
+date: 2025-07-17, updated: 2025-07-17, from: The LAist
+
+A bipartisan Congress has come to the rescue of vets at risk of losing their homes, after administrations from both parties tore up VA safety nets for homeowners. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/thousands-of-veterans-get-help-from-congress-to-save-their-homes-from-foreclosure>
+
+---
+
+## Best things to do this weekend in LA and SoCal: July 18-20
+
+date: 2025-07-17, updated: 2025-07-17, from: The LAist
+
+An '80s bash downtown, Shakespeare in Griffith Park, the Arboretum’s Plumeria Festival and more of the best things to do this weekend. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-la-socal-july-18-20>
+
+---
+
+## Senate approves cuts to NPR, PBS and foreign aid programs
+
+date: 2025-07-17, updated: 2025-07-17, from: The LAist
+
+The Senate voted to approve a $9 billion rescission package aimed at clawing back money already allocated for public radio and television. 
+
+<br> 
+
+<https://laist.com/news/senate-approves-cuts-to-npr-pbs-and-foreign-aid-programs>
+
+---
+
+## Getting sneezier? Blame climate change for making fungal allergy season longer
+
+date: 2025-07-17, updated: 2025-07-17, from: The LAist
+
+Fungal spores, a significant but often overlooked allergy, are now appearing earlier in the year due to climate change. If your springtime allergies have felt sneezier and sneezier, you might be right. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/getting-sneezier-blame-climate-change-for-making-fungal-allergy-season-longer>
+
+---
+
+## Monsoonal weather brings chance of thunderstorms and showers over SoCal
+
+date: 2025-07-17, updated: 2025-07-17, from: The LAist
+
+L.A. County could see some showers and thunderstorms as early as the afternoon. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/monsoonal-weather-brings-chance-of-thunderstorms-and-showers-over-socal>
 
 ---
 
@@ -180,13 +326,13 @@ Starting this school year, school districts must provide information about CalKI
 
 ---
 
-## Body found under 91 Freeway in North Long Beach; police are investigating
+## Homeless man found shot to death under 91 Freeway in North Long Beach, police say
 
 date: 2025-07-16, from: Longbeach Post
 
-<figure><img width="1024" height="587" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-1024x587.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-1024x587.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-300x172.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-768x440.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-188x108.jpg 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-1200x688.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D-400x229.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16121816/fc4a6d88-49f7-4805-bbb9-458cfca7914b-696041-eijazdec-806845-mCyrXr4D.jpg 1295w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16122357/dsc-0049-917314-c4cxo0x9-804345-OQPmadCd-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16122357/dsc-0049-917314-c4cxo0x9-804345-OQPmadCd-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16122357/dsc-0049-917314-c4cxo0x9-804345-OQPmadCd-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16122357/dsc-0049-917314-c4cxo0x9-804345-OQPmadCd-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16122357/dsc-0049-917314-c4cxo0x9-804345-OQPmadCd-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16122357/dsc-0049-917314-c4cxo0x9-804345-OQPmadCd-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16122357/dsc-0049-917314-c4cxo0x9-804345-OQPmadCd-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16122357/dsc-0049-917314-c4cxo0x9-804345-OQPmadCd-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16122357/dsc-0049-917314-c4cxo0x9-804345-OQPmadCd-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/16122357/dsc-0049-917314-c4cxo0x9-804345-OQPmadCd.jpg 1620w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>We'll update this as we get further information.</p>
-<p>The post <a href="https://lbpost.com/news/crime/body-found-91-freeway-la-river-long-beach-police">Body found under 91 Freeway in North Long Beach; police are investigating</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+<p>The post <a href="https://lbpost.com/news/crime/body-found-91-freeway-la-river-long-beach-police">Homeless man found shot to death under 91 Freeway in North Long Beach, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
 
 <br> 

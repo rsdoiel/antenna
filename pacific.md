@@ -1,11 +1,244 @@
 ---
 title: pacific
-updated: 2025-07-17 06:07:49
+updated: 2025-07-17 14:08:45
 ---
 
 # pacific
 
-(date: 2025-07-17 06:07:49)
+(date: 2025-07-17 14:08:45)
+
+---
+
+## Return of the corn: UH Seed Lab revives local favorite
+
+date: 2025-07-17, from: University of Hawaiʻi News
+
+<p>The local favorite returns after a successful harvest led by <abbr>CTAHR</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/17/seed-lab-revives-local-favorite/">Return of the corn: <abbr>UH</abbr> Seed Lab revives local favorite</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/17/seed-lab-revives-local-favorite/>
+
+---
+
+## Marine biologist recognized for selfless service to students, faculty, community
+
+date: 2025-07-17, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> marine biologist Rob Toonen was honored for his years of mentorship, research and community-centered leadership in marine science and education.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/17/willard-wilson-2025-robert-toonen/">Marine biologist recognized for selfless service to students, faculty, community</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/17/willard-wilson-2025-robert-toonen/>
+
+---
+
+## REFORPAC: Navigating uncharted territory
+
+date: 2025-07-17, from: Pacific Island Times
+
+12,000 participants, 400 aircraft deployed to the Indo-Pacific for a two-week multilateral training   By Mar-Vic Cagurangan     Building... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/reforpac-navigating-uncharted-territory>
+
+---
+
+## UH Earth scientists author children’s book, support Oʻahu keiki to mālama ʻāina
+
+date: 2025-07-17, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> researchers and local students teamed up to write a poetic children’s story that connects kids to nature, science and mālama <span aria-label="aina">&#699;āina</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/17/the-sand-dance-storybook/"><abbr>UH</abbr> Earth scientists author children’s book, support Oʻahu keiki to mālama ʻāina</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/17/the-sand-dance-storybook/>
+
+---
+
+## Tonga's health system 'fully restored' after cyber attack with Australia's help
+
+date: 2025-07-17, from: 
+
+"It really was a scare for people." 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567275/tonga-s-health-system-fully-restored-after-cyber-attack-with-australia-s-help>
+
+---
+
+## Pacific rugby players choose club over country
+
+date: 2025-07-17, from: 
+
+Samoa kick off their international season against Scotland in Auckland on Friday night, however with some notable omissions from their line-up. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/sport/567215/first-priority-should-be-samoa-or-tonga-pacific-rugby-players-choose-club-over-country>
+
+---
+
+## Charities see alarming levels of poverty as families struggle
+
+date: 2025-07-17, from: 
+
+There are a dozen people in the Latu household in the Auckland suburb of Mangere, but not enough beds for everyone. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/national/567129/charities-see-alarming-levels-of-poverty-as-families-struggle>
+
+---
+
+## New Miss Earth NMI to be crowned on July 19
+
+date: 2025-07-17, updated: 2025-07-17, from: Marianas Variety
+
+A NEW Miss Earth NMI will be crowned on Saturday when the Miss Northern Marianas Earth pageant takes the stage at Marianas Beach Resort starting at 5 p.m. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/new-miss-earth-nmi-to-be-crowned-on-july-19/article_ef86b4f5-a5a5-4da7-a554-7bfac12014aa.html>
+
+---
+
+## House bill to establish emergency reserve fund
+
+date: 2025-07-17, updated: 2025-07-17, from: Marianas Variety
+
+VICE Speaker Diego Vincent F. Camacho on Thursday pre-filed House Bill 24-38, which proposes the establishment of a dedicated CNMI Emergency Reserve Fund — known as the “Rainy Day Fund” — with mandatory annual deposits for emergency use. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/house-bill-to-establish-emergency-reserve-fund/article_4f4310dc-f448-48d3-b97e-166030667fce.html>
+
+---
+
+## EVS-TAP processing resumes
+
+date: 2025-07-17, updated: 2025-07-17, from: Marianas Variety
+
+THE Economic Vitality and Security Travel Authorization Program or EVS-TAP has resumed processing CNMI visa requests, U.S. Congresswoman Kimberlyn King-Hinds said on Thursday. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/evs-tap-processing-resumes/article_17c15330-59bb-4c21-b910-b40e046eb5dd.html>
+
+---
+
+## New law allows seaport revenue to fund airport shortfalls
+
+date: 2025-07-17, updated: 2025-07-17, from: Marianas Variety
+
+THE Commonwealth Ports Authority can now use seaport income to fund airport operations after Gov. Arnold I. Palacios on Thursday approved House Bill 24-17, which grants the autonomous agency more flexibility in spending seaport revenues. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/new-law-allows-seaport-revenue-to-fund-airport-shortfalls/article_0d47a0eb-0db1-4c05-86a5-10b780058f58.html>
+
+---
+
+## Liberation grounds vendors demand refund of 10% ‘tax’
+
+date: 2025-07-17, updated: 2025-07-17, from: Marianas Variety
+
+VENDORS at the Liberation grounds are expressing frustration and concern over an additional 10% “tax” on their gross sales, imposed by the 2025 Liberation Day Committee organizers — on top of the $500 to $800 booth fees they already paid. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/liberation-grounds-vendors-demand-refund-of-10-tax/article_844295df-7a65-4b5e-b6c6-186e51f3745f.html>
+
+---
+
+## Norita: PSS funds transferred on time
+
+date: 2025-07-17, updated: 2025-07-17, from: Marianas Variety
+
+THE central government has been paying the Public School System its constitutionally mandated 25% share of local funding in a timely manner, Finance Secretary Tracy B. Norita said. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/norita-pss-funds-transferred-on-time/article_3cb25094-4ae7-4eb3-9e98-8f8bf6038244.html>
+
+---
+
+## King-Hinds drafts bill seeking federal guarantee on insular area debt
+
+date: 2025-07-17, updated: 2025-07-17, from: Marianas Variety
+
+U.S. Congresswoman Kimberlyn King-Hinds has drafted a bill seeking a federal guarantee on public debt issued by the CNMI, Guam, American Samoa, and the U.S. Virgin Islands. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/king-hinds-drafts-bill-seeking-federal-guarantee-on-insular-area-debt/article_e344722b-34c6-4df0-9a24-2a091ae01e59.html>
+
+---
+
+## Rep. Ogo welcomes return of EVS-TAP, calls for clearer federal communication going forward
+
+date: 2025-07-17, updated: 2025-07-17, from: Marianas Variety
+
+REPRESENTATIVE Julie Marie A. Ogo on Thursday welcomed the resumption of the Economic Vitality and Security Travel Authorization Program or EVS-TAP, calling it a “positive and necessary step” for the people of the CNMI, especially those whose livelihoods depend on a stable and functioning tourism sector. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/rep-ogo-welcomes-return-of-evs-tap-calls-for-clearer-federal-communication-going-forward/article_9fe18f9b-740e-4274-b012-a9e8d084f2dc.html>
+
+---
+
+## King-Hinds to hold open forums for public feedback and updates
+
+date: 2025-07-17, updated: 2025-07-17, from: Marianas Variety
+
+(Office of the CNMI Congressional Delegate) — U.S. Congresswoman Kimberlyn King-Hinds invites CNMI residents to participate in the “From the Hill to the Vill: Community Conversations,” a public forum series aimed for open and transparent dialogue between constituents and their congressional representative following her first seven months in Congress. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/king-hinds-to-hold-open-forums-for-public-feedback-and-updates/article_54b5ba73-ca00-4052-8741-f8e395652709.html>
+
+---
+
+## Cohort 1 interns exiting, Cohort 2 interns thriving
+
+date: 2025-07-17, updated: 2025-07-17, from: Marianas Variety
+
+(SCC) — The Saipan Chamber of Commerce is proud to share that the first batch of Career Pathways Internship Program interns will be completing their three-month commitment this coming July 21, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cohort-1-interns-exiting-cohort-2-interns-thriving/article_d9a7dbb0-15db-4888-9a83-7123eb381b4c.html>
+
+---
+
+## Signs
+
+date: 2025-07-17, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Scott Ortolano The shadows cast by the tall trees seemed to mock them with the illusion of coolness in the simmering Florida afternoon. A constant drone of singing cicadas, or what his Uncle Rupp called a swamp chorus, was &#8230; <a href="https://hawaiipacificreview.org/2025/07/17/signs/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/07/17/signs/>
+
+---
+
+## Zyra called to honor
+
+date: 2025-07-17, from: Marshal Islands Journal
+
+<p>Marshall Islands wrestler Zyra Neimana was called to honor last week by the Pacific Mini-Games organizers in Palau, who named her the “Most Outstanding Junior Female Athlete of the 12th Pacific Mini-Games.” Zyra won a gold medal in her match during the competition. The Marshall Islands Wrestling Federation congratulated her on social media. This is [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/zyra-called-to-honor/">Zyra called to honor</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/zyra-called-to-honor/>
 
 ---
 

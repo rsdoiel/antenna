@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-07-17 06:07:52
+updated: 2025-07-17 14:08:49
 ---
 
 # games
 
-(date: 2025-07-17 06:07:52)
+(date: 2025-07-17 14:08:49)
+
+---
+
+## Donkey Kong Bananza skills list and how to unlock them
+
+date: 2025-07-17, updated: 2025-07-17, from: Polygon Website
+
+Skills change the way you play Donkey Kong Bananza. As you collect Banandium Gems, you’ll earn skill points that can be used to upgrade Donkey Kong’s stats or unlock new skills. Most skills can also be upgraded multiple times, which will provide you with even more stats and strengthen your abilities even further. Not only [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/612406/skills-list-all-points-how-to-unlock>
+
+---
+
+## Donkey Kong Bananza’s ending clears up one thing about the weird DK timeline
+
+date: 2025-07-17, updated: 2025-07-17, from: Polygon Website
+
+Donkey Kong Bananza is finally here, as is some clarity about where it might fit into the Donkey Kong timeline and why Nintendo’s original damsel-in-distress Pauline appears as a much younger version of herself. But questions still abound about how, you know, the events of 1981’s Donkey Kong fit into all this. And while Bananza’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/613588/donkey-kong-bananza-ending-dk-timeline>
+
+---
+
+## Bananza is Nintendo&#8217;s latest attempt to show you Donkey Kong&#8217;s caked-up butt
+
+date: 2025-07-17, updated: 2025-07-17, from: Polygon Website
+
+He’s the leader of the bunch; you know him well. He’s finally back to show some tail — in Donkey Kong Bananza, that is. If you’re playing the newest Nintendo Switch 2 exclusive, perhaps your eyes have been drawn to a particular area of the brown gorilla’s anatomy. It’s kind of hard to avoid, given [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/613673/donkey-kong-bananza-butt-history-switch-2>
+
+---
+
+## Mortal Kombat II trailer showcases fatalities and a tournament in full effect
+
+date: 2025-07-17, updated: 2025-07-17, from: Polygon Website
+
+Mortal Kombat II’s trailer has arrived, set to deliver a video game-accurate Mortal Kombat tournament, with all the carnage and dark humor the franchise is known for. In the trailer, Karl Urban’s Johnny Cage is spotted at a bar, where a fan recognizes him and cracks some meta jokes about his career and Hollywood reboots. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mortal-kombat/613556/mortal-kombat-2-movie-trailer>
+
+---
+
+## Donkey Kong Bananza shows just how much the last two Zeldas have changed Nintendo
+
+date: 2025-07-17, updated: 2025-07-17, from: Polygon Website
+
+Here it is: The first 3D Nintendo platform game conceived and produced after The Legend of Zelda: Breath of the Wild did the unthinkable and outsold that generation’s marquee Mario game, Super Mario Odyssey. The first since Breath of the Wild ensured it was Zelda, not Mario, that defined the Switch. The first since Breath [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/613650/donkey-kong-bananza-switch-2-launch-day-impressions>
+
+---
+
+## Halo writer to turn Assassin’s Creed into a live-action Netflix show
+
+date: 2025-07-17, updated: 2025-07-17, from: Polygon Website
+
+Five years after initial reports, Netflix has officially confirmed that a live-action Assassin’s Creed series is in development. Netflix’s deal with Assassin’s Creed publisher Ubisoft has been in place since 2020, with the project cycling through multiple creative teams over the years. But Roberto Patino and David Wiener, who was also one of the writers [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/613659/assassins-creed-netflix-show-ubisoft-halo-writer>
+
+---
+
+## Who is Rhys Darby playing in Star Trek: Strange New Worlds?
+
+date: 2025-07-17, updated: 2025-07-17, from: Polygon Website
+
+Star Trek: Strange New Worlds returns for season 3 on July 17, kicking off with “Hegemony, Part II,” the action- and horror-packed conclusion to season 2’s cliffhanger finale. But the series, known for its genre shifts, changes gears in the second part of the two-episode premiere, delivering lighthearted romance with “Wedding Bell Blues.” Nurse Christine [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-trek/613641/strange-new-worlds-who-is-rhys-darby-playing>
+
+---
+
+## Donkey Kong Bananza&#8217;s chaotic co-op gives your kid way too much power
+
+date: 2025-07-17, updated: 2025-07-17, from: Polygon Website
+
+Donkey Kong Bananaza is a classic Nintendo game through and through. It’s a throwback to the likes of Super Mario Sunshine and Wario World, pulled from an era of 3D platformers where Nintendo was reaching new creative heights in the GameCube era. But it’s also vintage Nintendo thanks to its co-op gameplay. Like Super Mario [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/613616/donkey-kong-bananzas-co-op-impressions>
 
 ---
 

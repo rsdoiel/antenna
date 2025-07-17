@@ -1,11 +1,35 @@
 ---
 title: libraries
-updated: 2025-07-17 06:07:53
+updated: 2025-07-17 14:08:50
 ---
 
 # libraries
 
-(date: 2025-07-17 06:07:53)
+(date: 2025-07-17 14:08:50)
+
+---
+
+## Aspects of the Novel, by E. M. Forster
+
+date: 2025-07-17, from: Standard Ebooks, new releaases
+
+E. M. Forster offers an analysis of aspects of the novel. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/e-m-forster/aspects-of-the-novel>
+
+---
+
+## An Outcast of the Islands, by Joseph Conrad
+
+date: 2025-07-17, from: Standard Ebooks, new releaases
+
+Disgraced in a scandal, a Dutch clerk flees to a river settlement on Borneo, where he is tempted by a native beauty. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/joseph-conrad/an-outcast-of-the-islands>
 
 ---
 
@@ -142,7 +166,7 @@ date: 2025-07-14, from: Association of Research Libraries News
 
 date: 2025-07-14, from: Association of Research Libraries News
 
-<p>Last Updated on July 16, 2025, 4:11 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 15 &#124; Wednesday, July 16 &#124; Thursday,...</p>
+<p>Last Updated on July 17, 2025, 4:03 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 15 &#124; Wednesday, July 16 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-14-17/">Day in Review (July 14–17)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

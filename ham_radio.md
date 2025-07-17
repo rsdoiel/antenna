@@ -1,20 +1,20 @@
 ---
 title: ham radio
-updated: 2025-07-17 06:07:49
+updated: 2025-07-17 14:08:45
 ---
 
 # ham radio
 
-(date: 2025-07-17 06:07:49)
+(date: 2025-07-17 14:08:45)
 
 ---
 
-## Electronic water softener design ideas to transform hard water
+## Electronic water softener: Design ideas to transform hard water
 
 date: 2025-07-17, from: EDN Blog
 
 <img width="1280" height="853" src="https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?fit=1280%2C853" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?w=1280 1280w, https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?w=1024 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /><p>It’s a simple oscillator circuit tailored to create a magnetic field around a water pipe to perform water conditioning.</p>
-<p>The post <a href="https://www.edn.com/electronic-water-softener-design-ideas-to-transform-hard-water/">Electronic water softener design ideas to transform hard water</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+<p>The post <a href="https://www.edn.com/electronic-water-softener-design-ideas-to-transform-hard-water/">Electronic water softener: Design ideas to transform hard water</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 
 <br> 

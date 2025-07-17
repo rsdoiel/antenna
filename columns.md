@@ -1,11 +1,182 @@
 ---
 title: columns
-updated: 2025-07-17 06:07:51
+updated: 2025-07-17 14:08:47
 ---
 
 # columns
 
-(date: 2025-07-17 06:07:51)
+(date: 2025-07-17 14:08:47)
+
+---
+
+## The Woman Thing, Part 1
+
+date: 2025-07-17, from: Margaret Atwood's substack
+
+A Tale of Two Cities, and a tale of two strong women 
+
+<br> 
+
+<https://margaretatwood.substack.com/p/the-woman-thing-part-1>
+
+---
+
+##  The Surreality of Japanese Playgrounds at Night 
+
+date: 2025-07-17, updated: 2025-07-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/the-surreality-of-japanese-playgrounds-at-night>
+
+---
+
+##  Elderly Woman Keeps Mind Active Justifying Trump&#8217;s Actions. &#8220;I&#8217;m developing new neural... 
+
+date: 2025-07-17, updated: 2025-07-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047173-elderly-woman-keeps-mind->
+
+---
+
+##  Iceland&#8217;s 36-hour workweek has been a huge success. &#8220;On his free days,... 
+
+date: 2025-07-17, updated: 2025-07-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047171-icelands-36-hour-workweek>
+
+---
+
+##  A comprehensive illustrated article on how screens work. This is the first... 
+
+date: 2025-07-17, updated: 2025-07-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047154-a-comprehensive-illustrat>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-07-17, from: Ryan Gantz Bluesky feed)
+
+Remember: Obama was president until 2018, and then Biden was president from 2018 to 2024. Trump inherited a real mess, give him time to fix it! 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.com/post/3lu6jazaksk2f>
+
+---
+
+##  The Design Museum&#8217;s Upcoming Wes Anderson Exhibition 
+
+date: 2025-07-17, updated: 2025-07-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/the-design-museums-upcoming-wes-anderson-exhibition>
+
+---
+
+##  The winners of Core77 Design Awards. Categories include apps, packaging, transportation, branding,... 
+
+date: 2025-07-17, updated: 2025-07-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047088-the-winners-of-core77-des>
+
+---
+
+## PUTTY.ORG nothing to do with PuTTY – and now it's spouting pandemic piffle
+
+date: 2025-07-17, updated: 2025-07-17, from: Liam Proven's articles at the Register
+
+<h4>Linking can be helpful – but not always… while disinformation can spread like a virus</h4>
+      <p>Beware: the people behind PuTTY, the renowned FOSS SSH client for Windows, are not the same people as those behind the PUTTY.ORG website.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/17/puttyorg_website_controversy/>
+
+---
+
+##  Finding of a recent survey of 90,000+ trans Americans: &#8220;trans people who... 
+
+date: 2025-07-17, updated: 2025-07-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047168-finding-of-a-recent-surve>
+
+---
+
+## Uber’s Robotaxi Is No Quick Delivery
+
+date: 2025-07-17, from: Om Malik blog
+
+Uber plans to make “multi-hundred-million dollar investments” in both Nuro and Lucid as part of a massive new robotaxi deal that was just announced. The three companies are linking up to deploy “20,000 or more” robotaxis in the US over the next six years. The vehicles will be&#160;Lucid’s new Gravity SUV, equipped with autonomous technology &#8230; 
+
+<br> 
+
+<https://om.co/2025/07/17/ubers-robotaxi-is-no-quick-delivery/>
+
+---
+
+## The new and lovely MAGAmerican lifestyle
+
+date: 2025-07-17, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2025/07/17/mom.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Mom and dad and the kids are having a picnic in the park of their small town. You can see the bank and hardware store, church and grade school around the park in the distance. The kids are eating salad and corn on the cob with mom, and dad is preparing a BBQ on the grill. It's a standard American family picture, in the style of Norman Rockwell or Edward Hopper except each of the family members are wearing a black balaclava style mask as seen in the image. You may see other families around enjoying a beautiful day in the park, but every one of them is wearing this kind of mask too.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/07/17/magaFamilyPicnic.png"></center>A typical American family enjoying a picnic on a beautiful summer day.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/17/153705.html?title=theNewAndLovelyMagamericanLifestyle>
+
+---
+
+##  I haven&#8217;t watched the NBA in years and I only know about... 
+
+date: 2025-07-17, updated: 2025-07-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047169-i-havent-watched-the-nba>
+
+---
+
+## July 16, 2025
+
+date: 2025-07-17, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168560595/65dfac0cd6d56a4fef1ef6fed7dd59a0.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168560595/65dfac0cd6d56a4fef1ef6fed7dd59a0.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-16-2025-85a>
 
 ---
 
@@ -36,7 +207,7 @@ date: 2025-07-17, updated: 2025-07-17, from: Bruce Schneier blog
 
 **@Dave Winer's Scripting News** (date: 2025-07-17, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2025/07/17/citizenWithBalaclavaMask.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I found another thing that's possible in the age of ChatGPT. A few years ago I wondered if a product existed. I wanted a small footprint audio amplifier, with that could control a pair of high-end tower speakers I've had for a long time. I was tired of huge receiver boxes with buttons and dials and inputs for all kinds of audio input. I no longer have a phonograph or a CD or tape player. Just one audio input coming from the TV, that gets all its input from an Apple TV box (or the one made by Google or Amazon or whoever). It should have a volume control and an equalizer. And forget about dials, it should all be controlled from an app on my phone. But most important, it has to be small and happy with wireless connections except for the crucial connections. If such a product existed five years ago I couldn't find it. But last night I was roaming around on my iPad while watching the news, and thought to ask this: "I have two good speakers, need a modern amplifier that takes HDMI eArc input and powers the speakers. I want something simple and small." Well yes, turns out such products do exist. And from the initial list provided by Gemini, I ended up buying the <a href="https://www.amazon.com/WiiM-Amp-Multiroom-Streaming-Chromecast/dp/B0CGCLXH4H/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.LPzeb1_nWwaxxhYTZZo8FT_tp33-ktdOKEUqq5l9BZrawoejFM75nt-yMD2GpcZjX6ZdVxNHL62vpMB32qOSrUFCtYcoxq3OPZ1sYATw7S1_x-_uu8C3IiZT2sZ2Ro4_8NkwnVwlpqMbYCzsDjyxUTaHlvEmidBwl-2lI_8plGfuU8hvK1j16S4xzGBGggjkVrJcVT7l-I4hUK48EAsyzENZzN7bNLusz_fctPd5B1s.CLghoXuAUjbtyKhN2wz157HTi844aG-DXNR0T9H78c4&dib_tag=se&hvadid=694387328048&hvdev=c&hvexpln=67&hvlocphy=1023511&hvnetw=g&hvocijid=16195174335375627700--&hvqmt=e&hvrand=16195174335375627700&hvtargid=kwd-1967268820035&hydadcr=13743_13389861&keywords=wiim%2Bamp&mcid=281f4dd8014b3c3698b04a849d4c09a4&qid=1752750449&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1">first one</a> they recommended, though I was tempted by the <a href="https://www.amazon.com/Denon-Amplifier-High-Res-Streaming-Bluetooth/dp/B0D6XCGVCZ/ref=sr_1_1?crid=28FXU4OPJ748W&dib=eyJ2IjoiMSJ9.PhLSxTVDhAoWi-mcQ6A0FpKL0AuFYUWUMlB_23CmvLz01ZJtb0MbzevGDRe8tb5kl1_c2WZyUxGZGvYtUi9_nIIWSO42cxq5KvBN3EBHypq-vkN99F1ro1P9I3ddfps3OPbbrSjvHN7EOoLX3ydqtTlJkNjCKwzQ9UWwY2eMJOWUrPJBdYPidRPteTE4Bv9jOD8WAs6H9dGlj_Mpsg0eX3vnIKPes-E0PicGn54wq7Y.5HJ7eiZCWeWk8ylgHyJcsl9tpllGD5FU2by0--wJRu0&dib_tag=se&keywords=Denon+Home+Amp&qid=1752750499&sprefix=denon+home+amp%2Caps%2C163&sr=8-1">second</a>. Then I thought to ask about the speakers, I bought them for $3K when I moved to Berkeley in 2006. I took a picture of the <a href="https://imgs.scripting.com/2025/07/17/label.png">bar code sticker</a> on the back of one of the speakers and gave it to Gemini, and it told me all about it. It was more information than I had when I bought them. It was worth <a href="https://www.amazon.com/WiiM-Amp-Multiroom-Streaming-Chromecast/dp/B0CGCLXH4H/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.LPzeb1_nWwaxxhYTZZo8FT_tp33-ktdOKEUqq5l9BZrawoejFM75nt-yMD2GpcZjX6ZdVxNHL62vpMB32qOSrUFCtYcoxq3OPZ1sYATw7S1_x-_uu8C3IiZT2sZ2Ro4_8NkwnVwlpqMbYCzsDjyxUTaHlvEmidBwl-2lI_8plGfuU8hvK1j16S4xzGBGggjkVrJcVT7l-I4hUK48EAsyzENZzN7bNLusz_fctPd5B1s.CLghoXuAUjbtyKhN2wz157HTi844aG-DXNR0T9H78c4&dib_tag=se&hvadid=694387328048&hvdev=c&hvexpln=67&hvlocphy=1023511&hvnetw=g&hvocijid=16195174335375627700--&hvqmt=e&hvrand=16195174335375627700&hvtargid=kwd-1967268820035&hydadcr=13743_13389861&keywords=wiim%2Bamp&mcid=281f4dd8014b3c3698b04a849d4c09a4&qid=1752750449&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1">$300</a> to see if the speakers were worth keeping. They've done a fair amount of traveling from California to NYC then to the mountains. I love the idea of the <a href="https://www.amazon.com/WiiM-Amp-Multiroom-Streaming-Chromecast/dp/B0CGCLXH4H/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.LPzeb1_nWwaxxhYTZZo8FT_tp33-ktdOKEUqq5l9BZrawoejFM75nt-yMD2GpcZjX6ZdVxNHL62vpMB32qOSrUFCtYcoxq3OPZ1sYATw7S1_x-_uu8C3IiZT2sZ2Ro4_8NkwnVwlpqMbYCzsDjyxUTaHlvEmidBwl-2lI_8plGfuU8hvK1j16S4xzGBGggjkVrJcVT7l-I4hUK48EAsyzENZzN7bNLusz_fctPd5B1s.CLghoXuAUjbtyKhN2wz157HTi844aG-DXNR0T9H78c4&dib_tag=se&hvadid=694387328048&hvdev=c&hvexpln=67&hvlocphy=1023511&hvnetw=g&hvocijid=16195174335375627700--&hvqmt=e&hvrand=16195174335375627700&hvtargid=kwd-1967268820035&hydadcr=13743_13389861&keywords=wiim%2Bamp&mcid=281f4dd8014b3c3698b04a849d4c09a4&qid=1752750449&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1">WiiM</a> product. I also loved the <a href="https://www.amazon.com/Denon-Amplifier-High-Res-Streaming-Bluetooth/dp/B0D6XCGVCZ/ref=sr_1_1?crid=28FXU4OPJ748W&dib=eyJ2IjoiMSJ9.PhLSxTVDhAoWi-mcQ6A0FpKL0AuFYUWUMlB_23CmvLz01ZJtb0MbzevGDRe8tb5kl1_c2WZyUxGZGvYtUi9_nIIWSO42cxq5KvBN3EBHypq-vkN99F1ro1P9I3ddfps3OPbbrSjvHN7EOoLX3ydqtTlJkNjCKwzQ9UWwY2eMJOWUrPJBdYPidRPteTE4Bv9jOD8WAs6H9dGlj_Mpsg0eX3vnIKPes-E0PicGn54wq7Y.5HJ7eiZCWeWk8ylgHyJcsl9tpllGD5FU2by0--wJRu0&dib_tag=se&keywords=Denon+Home+Amp&qid=1752750499&sprefix=denon+home+amp%2Caps%2C163&sr=8-1">Denon</a>, but the WiiM fit the bill and was less than 1/2 the price. None of this was possible before we got the AI bots. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/07/17/dad.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I found another thing that's possible in the age of ChatGPT. A few years ago I wondered if a product existed. I wanted a small footprint audio amplifier, with that could control a pair of high-end tower speakers I've had for a long time. I was tired of huge receiver boxes with buttons and dials and inputs for all kinds of audio input. I no longer have a phonograph or a CD or tape player. Just one audio input coming from the TV, that gets all its input from an Apple TV box (or the one made by Google or Amazon or whoever). It should have a volume control and an equalizer. And forget about dials, it should all be controlled from an app on my phone. But most important, it has to be small and happy with wireless connections except for the crucial connections. If such a product existed five years ago I couldn't find it. But last night I was roaming around on my iPad while watching the news, and thought to ask this: "I have two good speakers, need a modern amplifier that takes HDMI eArc input and powers the speakers. I want something simple and small." Well yes, turns out such products do exist. And from the initial list provided by Gemini, I ended up buying the <a href="https://www.amazon.com/WiiM-Amp-Multiroom-Streaming-Chromecast/dp/B0CGCLXH4H/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.LPzeb1_nWwaxxhYTZZo8FT_tp33-ktdOKEUqq5l9BZrawoejFM75nt-yMD2GpcZjX6ZdVxNHL62vpMB32qOSrUFCtYcoxq3OPZ1sYATw7S1_x-_uu8C3IiZT2sZ2Ro4_8NkwnVwlpqMbYCzsDjyxUTaHlvEmidBwl-2lI_8plGfuU8hvK1j16S4xzGBGggjkVrJcVT7l-I4hUK48EAsyzENZzN7bNLusz_fctPd5B1s.CLghoXuAUjbtyKhN2wz157HTi844aG-DXNR0T9H78c4&dib_tag=se&hvadid=694387328048&hvdev=c&hvexpln=67&hvlocphy=1023511&hvnetw=g&hvocijid=16195174335375627700--&hvqmt=e&hvrand=16195174335375627700&hvtargid=kwd-1967268820035&hydadcr=13743_13389861&keywords=wiim%2Bamp&mcid=281f4dd8014b3c3698b04a849d4c09a4&qid=1752750449&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1">first one</a> they recommended, though I was tempted by the <a href="https://www.amazon.com/Denon-Amplifier-High-Res-Streaming-Bluetooth/dp/B0D6XCGVCZ/ref=sr_1_1?crid=28FXU4OPJ748W&dib=eyJ2IjoiMSJ9.PhLSxTVDhAoWi-mcQ6A0FpKL0AuFYUWUMlB_23CmvLz01ZJtb0MbzevGDRe8tb5kl1_c2WZyUxGZGvYtUi9_nIIWSO42cxq5KvBN3EBHypq-vkN99F1ro1P9I3ddfps3OPbbrSjvHN7EOoLX3ydqtTlJkNjCKwzQ9UWwY2eMJOWUrPJBdYPidRPteTE4Bv9jOD8WAs6H9dGlj_Mpsg0eX3vnIKPes-E0PicGn54wq7Y.5HJ7eiZCWeWk8ylgHyJcsl9tpllGD5FU2by0--wJRu0&dib_tag=se&keywords=Denon+Home+Amp&qid=1752750499&sprefix=denon+home+amp%2Caps%2C163&sr=8-1">second</a>. Then I thought to ask about the speakers, I bought them for $3K when I moved to Berkeley in 2006. I took a picture of the <a href="https://imgs.scripting.com/2025/07/17/label.png">bar code sticker</a> on the back of one of the speakers and gave it to Gemini, and it told me all about it. It was more information than I had when I bought them. It was worth <a href="https://www.amazon.com/WiiM-Amp-Multiroom-Streaming-Chromecast/dp/B0CGCLXH4H/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.LPzeb1_nWwaxxhYTZZo8FT_tp33-ktdOKEUqq5l9BZrawoejFM75nt-yMD2GpcZjX6ZdVxNHL62vpMB32qOSrUFCtYcoxq3OPZ1sYATw7S1_x-_uu8C3IiZT2sZ2Ro4_8NkwnVwlpqMbYCzsDjyxUTaHlvEmidBwl-2lI_8plGfuU8hvK1j16S4xzGBGggjkVrJcVT7l-I4hUK48EAsyzENZzN7bNLusz_fctPd5B1s.CLghoXuAUjbtyKhN2wz157HTi844aG-DXNR0T9H78c4&dib_tag=se&hvadid=694387328048&hvdev=c&hvexpln=67&hvlocphy=1023511&hvnetw=g&hvocijid=16195174335375627700--&hvqmt=e&hvrand=16195174335375627700&hvtargid=kwd-1967268820035&hydadcr=13743_13389861&keywords=wiim%2Bamp&mcid=281f4dd8014b3c3698b04a849d4c09a4&qid=1752750449&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1">$300</a> to see if the speakers were worth keeping. They've done a fair amount of traveling from California to NYC then to the mountains. I love the idea of the <a href="https://www.amazon.com/WiiM-Amp-Multiroom-Streaming-Chromecast/dp/B0CGCLXH4H/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.LPzeb1_nWwaxxhYTZZo8FT_tp33-ktdOKEUqq5l9BZrawoejFM75nt-yMD2GpcZjX6ZdVxNHL62vpMB32qOSrUFCtYcoxq3OPZ1sYATw7S1_x-_uu8C3IiZT2sZ2Ro4_8NkwnVwlpqMbYCzsDjyxUTaHlvEmidBwl-2lI_8plGfuU8hvK1j16S4xzGBGggjkVrJcVT7l-I4hUK48EAsyzENZzN7bNLusz_fctPd5B1s.CLghoXuAUjbtyKhN2wz157HTi844aG-DXNR0T9H78c4&dib_tag=se&hvadid=694387328048&hvdev=c&hvexpln=67&hvlocphy=1023511&hvnetw=g&hvocijid=16195174335375627700--&hvqmt=e&hvrand=16195174335375627700&hvtargid=kwd-1967268820035&hydadcr=13743_13389861&keywords=wiim%2Bamp&mcid=281f4dd8014b3c3698b04a849d4c09a4&qid=1752750449&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1">WiiM</a> product. I also loved the <a href="https://www.amazon.com/Denon-Amplifier-High-Res-Streaming-Bluetooth/dp/B0D6XCGVCZ/ref=sr_1_1?crid=28FXU4OPJ748W&dib=eyJ2IjoiMSJ9.PhLSxTVDhAoWi-mcQ6A0FpKL0AuFYUWUMlB_23CmvLz01ZJtb0MbzevGDRe8tb5kl1_c2WZyUxGZGvYtUi9_nIIWSO42cxq5KvBN3EBHypq-vkN99F1ro1P9I3ddfps3OPbbrSjvHN7EOoLX3ydqtTlJkNjCKwzQ9UWwY2eMJOWUrPJBdYPidRPteTE4Bv9jOD8WAs6H9dGlj_Mpsg0eX3vnIKPes-E0PicGn54wq7Y.5HJ7eiZCWeWk8ylgHyJcsl9tpllGD5FU2by0--wJRu0&dib_tag=se&keywords=Denon+Home+Amp&qid=1752750499&sprefix=denon+home+amp%2Caps%2C163&sr=8-1">Denon</a>, but the WiiM fit the bill and was less than 1/2 the price. None of this was possible before we got the AI bots. 
 
 <br> 
 
@@ -91,18 +262,6 @@ After years of covering Donald J.
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/july-16-2025>
-
----
-
-## Thursday, 17 July 2025
-
-date: 2025-07-17, from: Doc Searls (at Harvard), New Old Blog
-
-It&#39;s Pop&#39;s birthday. Were he alive, he&#39;d be 117 years old. Here is the collection of photos from his life (starting with ancestors) that I posted on his 100th birthday. 
-
-<br> 
-
-<https://doc.searls.com/2025/07/16/thursday-17-july-2025/>
 
 ---
 

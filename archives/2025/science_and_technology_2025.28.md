@@ -1,11 +1,119 @@
 ---
 title: science and technology
-updated: 2025-07-17 06:07:50
+updated: 2025-07-17 14:08:46
 ---
 
 # science and technology
 
-(date: 2025-07-17 06:07:50)
+(date: 2025-07-17 14:08:46)
+
+---
+
+## NASA, Oxford Discover Warmer Uranus Than Once Thought
+
+date: 2025-07-17, from: NASA breaking news
+
+KEY POINTS For millennia, astronomers thought Uranus was no more than a distant star. It wasn’t until the late 18th century that Uranus was universally accepted as a planet. To this day, the ringed, blue world subverts scientists’ expectations, but new NASA research helps puzzle out some of the world’s mystique.  Uranus is unlike any […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/planetary-science/nasa-oxford-discover-warmer-uranus-than-once-thought/>
+
+---
+
+## NASA’s X-59 Quiet Supersonic Aircraft Begins Taxi Tests
+
+date: 2025-07-17, from: NASA breaking news
+
+NASA/Jacob Shaw NASA&#8217;s X-59 quiet supersonic research aircraft has officially begun taxi tests, marking the first time this one-of-a-kind experimental aircraft has moved under its own power. NASA test pilot Nils Larson and the X-59 team, made up of NASA and contractor Lockheed Martin personnel, completed the aircraft’s first low-speed taxi test at U.S. Air [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-x-59-quiet-supersonic-aircraft-begins-taxi-tests/>
+
+---
+
+## Watch out, another max-severity, make-me-root Cisco bug on the loose
+
+date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
+
+<h4>Three perfect 10s in the last month - ISE, ISE, baby</h4> <p>Cisco has issued a patch for a critical 10 out of 10 severity bug in its Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) that could allow an unauthenticated, remote attacker to run arbitrary code on the operating system with root-level privileges. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/17/critical_cisco_bug/>
+
+---
+
+## NASA to Launch SNIFS, Sun’s Next Trailblazing Spectator
+
+date: 2025-07-17, from: NASA breaking news
+
+July will see the launch of the groundbreaking Solar EruptioN Integral Field Spectrograph mission, or SNIFS. Delivered to space via a Black Brant IX sounding rocket, SNIFS will explore the energy and dynamics of the chromosphere, one of the most complex regions of the Sun’s atmosphere. The SNIFS mission’s launch window at the White Sands Missile Range in New Mexico opens on Friday, July 18.  
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/nasa-to-launch-snifs-suns-next-trailblazing-spectator/>
+
+---
+
+## Space Station Crew Celebrates Milestone
+
+date: 2025-07-17, from: NASA breaking news
+
+In this June 13, 2025, photo, NASA astronaut Anne McClain shows off a hamburger-shaped cake to celebrate 200 cumulative days in space for JAXA (Japan Aerospace Exploration Agency) astronaut Takuya Onishi since his first spaceflight as an Expedition 48-49 Flight Engineer in 2016. Onishi and McClain launched to the International Space Station along with NASA [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/space-station-crew-celebrates-milestone/>
+
+---
+
+## Registration Opens for 2025 NASA International Space Apps Challenge
+
+date: 2025-07-17, from: NASA breaking news
+
+Lee esta historia en español aquí NASA invites innovators of all ages to register for the NASA Space Apps Challenge, held on Oct. 4-5. The 2025 theme is Learn, Launch, Lead, and participants will work alongside a vibrant community of scientists, technologists, and storytellers at more than 450 events worldwide. Participants can expect to learn [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/earth/registration-opens-for-2025-nasa-international-space-apps-challenge/>
+
+---
+
+## FCC dives in to sink Chinese grip on undersea internet cables
+
+date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
+
+<h4>Maybe finish ripping and replacing your telco networks first?</h4> <p>Uncle Sam has decided it&#39;s time to free US-connected undersea cables from Chinese influence.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/17/fcc_china_subsea_cables/>
+
+---
+
+## PUTTY.ORG nothing to do with PuTTY – and now it's spouting pandemic piffle
+
+date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
+
+<h4>Linking can be helpful – but not always… while disinformation can spread like a virus</h4> <p>Beware: the people behind PuTTY, the renowned FOSS SSH client for Windows, are not the same people as those behind the PUTTY.ORG website.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/17/puttyorg_website_controversy/>
+
+---
+
+## Fujitsu sorry for Post Office horror – but still cashing big UK govt checks
+
+date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
+
+<h4>Non-competitive £220M datacenter deal with tax collector tops £510M pile of public money</h4> <p>Fujitsu has been awarded around £510 million ($682 million) in UK public sector contracts since a TV dramatization of the Horizon Post Office scandal – including a recent £220 million ($294 million) deal with the UK tax collector, awarded without competition.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/17/fujitsu_govt_contracts/>
 
 ---
 
@@ -121,7 +229,7 @@ date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
 
 date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
 
-<h4>Our sources tell us mostly back office staff were let go, and that the mood in the office is very pessimistic</h4> <p>Intel has filed documents that reveal plans to fire around 5,000 staff, mostly in California and Oregon.…</p> 
+<h4>Our sources tell us mostly back office staff were let go, and that the mood in the office is very pessimistic</h4> <p><strong>Updated</strong>  Intel has filed documents that reveal plans to fire around 5,000 staff, mostly in California and Oregon.…</p> 
 
 <br> 
 
@@ -193,7 +301,7 @@ date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
 
 date: 2025-07-16, from: NASA breaking news
 
-A&#160;star&#160;is unleashing a barrage of&#160;X-rays&#160;that is causing a closely-orbiting, young planet to wither away an astonishing rate, according to a new study using data from&#160;NASA’s Chandra X-ray Observatory&#160;and described in our&#160;latest press release. A team of researchers has determined that this planet will go from the size of Jupiter down to a small, barren world. [&#8230;] 
+A baby planet is shrinking from the size of Jupiter with a thick atmosphere to a small, barren world, according to a new study from NASA’s Chandra X-ray Observatory. This transformation is happening as the host star unleashes a barrage of X-rays that is tearing the young planet’s atmosphere away at an enormous rate. The [&#8230;] 
 
 <br> 
 
@@ -323,7 +431,7 @@ Doing NASA Science brings many rewards. But can taking part in NASA citizen scie
 
 ## Crims hijacking fully patched SonicWall VPNs to deploy stealthy backdoor and rootkit
 
-date: 2025-07-16, updated: 2025-07-16, from: The Register (UK I.T. News)
+date: 2025-07-16, updated: 2025-07-17, from: The Register (UK I.T. News)
 
 <h4>Someone&#39;s OVERSTEPing the mark</h4> <p><strong>Updated</strong>  Unknown miscreants are exploiting fully patched, end-of-life SonicWall VPNs to deploy a previously unknown backdoor and rootkit, likely for data theft and extortion, according to Google&#39;s Threat Intelligence Group.…</p> 
 

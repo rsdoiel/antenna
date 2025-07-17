@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-07-17 06:07:54
+updated: 2025-07-17 14:08:51
 ---
 
 # motorcycles
 
-(date: 2025-07-17 06:07:54)
+(date: 2025-07-17 14:08:51)
+
+---
+
+## This Is A 7-Cylinder Two Stroke Kawasaki Custom, And It Can Be Yours
+
+date: 2025-07-17, from: Ride Apart, Electric Motorcycle News
+
+It takes a special kind of person to build a machine like this. Or to own one. 
+
+<br> 
+
+<https://www.rideapart.com/news/766111/kawasaki-7-cylinder-2-stroke/>
+
+---
+
+## You Can Now Buy This Electric Motorcycle On Amazon, But Only In India
+
+date: 2025-07-17, from: Ride Apart, Electric Motorcycle News
+
+Because who wouldn’t want a shiny new EV motorcycle delivered straight to your door?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/765992/oben-rorr-ez-available-amazon-india/>
 
 ---
 
